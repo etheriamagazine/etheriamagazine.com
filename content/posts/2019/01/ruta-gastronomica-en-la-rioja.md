@@ -1,7 +1,7 @@
 ---
 title: "Ruta por el paisaje gastronómico de La Rioja"
 date: 2019-01-23
-coverImage: https://fotos.etheriamagazine.com/2019/01/Restaurante-Cachetero-Txebiko-e1637097743651.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/Restaurante-Cachetero-Txebiko-e1637097743651.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Carmen Bengoechea
 ---
 
-Recorrer en invierno los paisajes gastronómicos de La Rioja nos permite profundizar en 
+**Recorrer en invierno los paisajes gastronómicos de La Rioja nos permite profundizar en 
 sus productos y tradiciones, adentrarnos en los hogares riojanos y saborear, amparados 
 por el calor de la chimenea, pucheros reconfortantes, quesos, vinos y aceite de oliva. 
-Un viaje perfecto para hacer con amigas, en pareja o con toda la familia. 
+Un viaje perfecto para hacer con amigas, en pareja o con toda la familia.** 
 
 ![Plato de caparrones de Anguiano.](https://fotos.etheriamagazine.com/2019/01/Restaurante-Cachetero-Txebiko.jpg "Plato de caparrones de Anguiano. © Restaurante Cachetero, Txebiko.")
 
@@ -195,11 +195,9 @@ máxima expresión.
 
 ### También te puede interesar....
 
-[Escapada al valle secreto de Ocón, un pellizco de La Toscana en La 
-Rioja](https://etheriamagazine.com/2020/10/26/viaje-la-rioja-vendimia-valle-de-ocon/). 
+{{< reflink path=posts/2020/10/viaje-la-rioja-vendimia-valle-de-ocon >}}. 
 
-[Planes de invierno en La Rioja: mucho más que 
-vino](https://etheriamagazine.com/2019/12/13/que-ver-en-invierno-a-la-rioja-planes-con-amigas-o-en-familia/). 
+{{< reflink 
+path=posts/2019/12/que-ver-en-invierno-a-la-rioja-planes-con-amigas-o-en-familia >}}. 
 
-[Camino de Santiago en La Rioja, un viaje que deja buen sabor de 
-boca](https://etheriamagazine.com/2019/05/01/etapas-que-ver-camino-de-santiago-en-la-rioja/)
+{{< reflink path=posts/2019/05/etapas-que-ver-camino-de-santiago-en-la-rioja >}}

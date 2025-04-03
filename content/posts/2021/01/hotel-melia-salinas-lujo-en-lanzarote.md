@@ -1,7 +1,7 @@
 ---
 title: "Escapada al renovado hotel Meliá Salinas de Lanzarote"
 date: 2021-01-07
-coverImage: https://fotos.etheriamagazine.com/2021/01/hotel-melia-salinas-piscina.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/hotel-melia-salinas-piscina.jpg
 categories: 
   - hoteles
 destino: 
@@ -136,11 +136,9 @@ Fotografías cedidas por © Meliá Hotels International.
 
 ##### También te puede interesar...
 
-[Ruta de César Manrique en 
-Lanzarote.](https://etheriamagazine.com/2019/09/10/cesar-manrique-ruta-en-lanzarote/) 
+{{< reflink path=posts/2019/09/cesar-manrique-ruta-en-lanzarote >}} 
 
-[Planes imprescindibles si viajas sola o con amigas a 
-Lanzarote.](https://etheriamagazine.com/2020/06/11/viajar-sola-amigas-imprescindible-lanzarote/) 
+{{< reflink path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}} 
 
-[La Geria: la ruta de vinos definitiva para beberse 
-Lanzarote.](https://etheriamagazine.com/2020/08/04/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote/)
+{{< reflink 
+path=posts/2020/08/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}}

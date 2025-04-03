@@ -1,7 +1,7 @@
 ---
 title: "8 hoteles de lujo en España para viajar con niños"
 date: 2022-04-08
-coverImage: https://fotos.etheriamagazine.com/2022/04/hoteles-famila-Royal-hideaway-sancti-petri-piscinas.jpg
+cover: https://fotos.etheriamagazine.com/2022/04/hoteles-famila-Royal-hideaway-sancti-petri-piscinas.jpg
 categories: 
   - viajar-en-familia
   - hoteles
@@ -48,8 +48,7 @@ mientras los niños disfrutan del **Barcy Club** (el club infantil del hotel), l
 podrán disfrutar del spa más grande de Andalucía. Es uno de los mejores hoteles en 
 España para viajar con niños. 
 
-📍 [Royal Hideaway Sancti Petri, un hotel para disfrutar de la Costa de la 
-Luz.](https://etheriamagazine.com/2020/05/21/hotel-lujo-costa-cadiz-royal-hideaway-sancti-petri/) 
+📍 {{< reflink path=posts/2020/05/hotel-lujo-costa-cadiz-royal-hideaway-sancti-petri >}} 
 
 ![Piscinas del hotel Royal Hideaway Sancti Petri](https://fotos.etheriamagazine.com/2022/04/hoteles-famila-Royal-hideaway-sancti-petri-piscinas.jpg "Piscinas del © Royal Hideaway Sancti Petri.")
 
@@ -67,8 +66,7 @@ numerosas habitaciones comunicadas y suites, un Kids Club con actividades para t
 edades, pistas de tenis y pádel, mesa de ping pong, un ajedrez gigante y unas bonitas 
 piscinas. ¡Y la playa está justo enfrente! 
 
-📍 [Bahía del Duque, desconexión en 
-Tenerife](https://etheriamagazine.com/2019/01/11/donde-dormir-tenerife-hotel-bahia-del-duque/). 
+📍 {{< reflink path=posts/2019/01/donde-dormir-tenerife-hotel-bahia-del-duque >}}. 
 
 ![Edificios del hotel bahía del Duque con el mar al fondo](https://fotos.etheriamagazine.com/2022/04/Hoteles-familia-Bahia-del-Duque-general.jpg "Hotel © Bahía del Duque.")
 
@@ -84,8 +82,7 @@ es un punto de partido magnífico para excursiones tan interesantes como el Torc
 Antequera o a la misma ciudad de Antequera, con sus monumentos megalíticos y su 
 castillo, o a la ciudad de Málaga. 
 
-📍 [La Bobadilla, uno de los hoteles más bonitos del 
-mundo](https://etheriamagazine.com/2018/08/23/hotel-la-bobadilla-loja-granada/). 
+📍 {{< reflink path=posts/2018/08/hotel-la-bobadilla-loja-granada >}}. 
 
 ![Hotel La Bobadilla rodeado de campos de olivos](https://fotos.etheriamagazine.com/2022/04/hotel-familia-La-Bobadilla-panoramica.jpg "La Bobadilla, a Royal Hideaway Hotel. © Barceló Group.")
 
@@ -100,8 +97,7 @@ está cerca del centro y permite una zona extensa para juegos en la playa. Cuent
 habitaciones familiares, unas piscinas preciosas y un spa con zona interior y exterior 
 que hará las delicias de los mayores. 
 
-📍[Las Arenas Balneario & Resort, un hotel de lujo en Valencia hecho para 
-disfrutar](https://etheriamagazine.com/2021/04/08/hotel-lujo-valencia-las-arenas-balneario-resort/). 
+📍{{< reflink path=posts/2021/04/hotel-lujo-valencia-las-arenas-balneario-resort >}}. 
 
 ![Piscina del hotel Las Arenas Balneario & Resort.](https://fotos.etheriamagazine.com/2022/04/hotel-familia-las-arenas-piscina.jpg "Piscina del hotel Las Arenas Balneario & Resort. © Hoteles Santos.")
 
@@ -110,8 +106,8 @@ disfrutar](https://etheriamagazine.com/2021/04/08/hotel-lujo-valencia-las-arenas
 Las islas Canarias son una opción imbatible para un viaje en familia en cualquier época 
 del año. Una de las menos conocidas es Fuerteventura, y te aseguramos que merece la 
 pena. Sus playas son de las mejores que puedas encontrar y eso es una garantía de éxito 
-cuando se viaja con niños. Para alojarte con todas las comodidades, te proponemos el [Iberostar 
-Playa Gaviotas 
+cuando se viaja con niños. Para alojarte con todas las comodidades, te proponemos el 
+[Iberostar Playa Gaviotas 
 Park](https://www.iberostar.com/es/hoteles/fuerteventura/iberostar-playa-gaviotas-park/), 
 un cuatro estrellas ubicado en una de las playas más bonitas de España, la de Jandía, 
 perfecta para pasear y practicar deportes acuáticos. Es un hotel que reúne todas las 
@@ -137,8 +133,7 @@ club infantil, campos de fútbol, campo de golf de 18 hoyos, un huerto ecológic
 el hotel cuenta con la opción de alojamiento en Todo Incluido, que es perfecta y muy 
 cómoda cuando se viaja en familia. 
 
-📍 [Barceló Montecastillo Golf & Sport Resort, un hotel de lujo en Jerez para toda la 
-familia](https://etheriamagazine.com/2020/06/11/hotel-barcelo-montecastillo-golf-jerez-familias/). 
+📍 {{< reflink path=posts/2020/06/hotel-barcelo-montecastillo-golf-jerez-familias >}}. 
 
 ![Piscina para niños con toboganes  del Barceló Montecastillo.](https://fotos.etheriamagazine.com/2022/04/hoteles-famila-Barcelo-Montecastillo-piscina-ninos.jpg "Piscina para niños del Barceló Montecastillo Golf & Sports Resort. © Barceló Group.")
 
@@ -155,8 +150,7 @@ un capricho en el spa. Además, desde aquí se pueden hacer excursiones perfecta
 familias, como visitar el Parque Nacional de Doñana o el [Muelle de las 
 Carabelas](https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/muelle-de-las-carabelas). 
 
-📍 [Puerto Antilla Grand Hotel, un oasis en la costa de 
-Huelva](https://etheriamagazine.com/2021/06/03/puerto-antilla-grand-hotel-costa-huelva-familias/). 
+📍 {{< reflink path=posts/2021/06/puerto-antilla-grand-hotel-costa-huelva-familias >}}. 
 
 ![Piscinas y playa del © Puerto Antilla Grand Hotel.](https://fotos.etheriamagazine.com/2022/04/hoteles-familia-puerto-antilla-grand-hotel.jpg "Piscinas y playa del © Puerto Antilla Grand Hotel.")
 
@@ -174,21 +168,18 @@ las piscinas y los variados restaurantes. Sin olvidar todas las excursiones que 
 maravillosa isla ofrece, desde una visita a los cercanos acantilados de Los Gigantes 
 hasta la subida al Parque Nacional del Teide. 
 
-📍 [The Ritz-Carlton Abama, un hotel de lujo para alejarse del mundo en 
-Tenerife](https://etheriamagazine.com/2021/06/28/the-ritz-carlton-abama-hotel-de-lujo-tenerife/). 
+📍 {{< reflink path=posts/2021/06/the-ritz-carlton-abama-hotel-de-lujo-tenerife >}}. 
 
 ![Imagen del hotel The Ritz-Carlton Abama con el mar y la Gomera al fondo](https://fotos.etheriamagazine.com/2022/04/hotel-familia-abama-vistas.jpg "Imagen del hotel © The Ritz-Carlton Abama con el mar y la Gomera al fondo.")
 
 ### También te puede interesar:
 
-[Viajar con niños por Europa: consejos y propuestas para acertar en tu primer 
-viaje](https://etheriamagazine.com/2021/02/02/viajar-con-ninos-por-europa-consejos-y-propuestas/) 
+{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
 
-[Huelva con niños: 6 planes para aprovechar el viaje al 
-máximo](https://etheriamagazine.com/2021/06/21/planes-en-huelva-con-ninos/) 
+{{< reflink path=posts/2021/06/planes-en-huelva-con-ninos >}} 
 
-[12 actividades para hacer con niños en la provincia de 
-Cádiz](https://etheriamagazine.com/2020/03/12/12-actividades-familiares-para-viajes-con-ninos-en-cadiz/) 
+{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
+>}} 
 
-[8 excursiones con niños desde el sur de 
-Tenerife](https://etheriamagazine.com/2020/03/06/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos/)
+{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
+>}}

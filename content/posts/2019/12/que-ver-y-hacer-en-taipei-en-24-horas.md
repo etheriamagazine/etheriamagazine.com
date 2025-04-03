@@ -1,7 +1,7 @@
 ---
 title: "¿Merece la pena conocer Taipéi, la capital de Taiwán?"
 date: 2019-12-05
-coverImage: https://fotos.etheriamagazine.com/2019/12/taipei-cambio-guardia.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/taipei-cambio-guardia.jpg
 categories: 
   - viajar-con-amigas
   - viajar-sola
@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Aunque un viaje a Taiwán no es algo que se improvise, a veces pasamos por Taipéi, la 
+**Aunque un viaje a Taiwán no es algo que se improvise, a veces pasamos por Taipéi, la 
 capital, un poco de puntillas para centrarnos en el resto del país. Si te estás 
 preguntando si merece la pena detenerse más de un día en esta ciudad, te confirmamos que 
-sí. Si quieres saber todo lo que tienes que ver en Taipéi, sigue leyendo... 
+sí. Si quieres saber todo lo que tienes que ver en Taipéi, sigue leyendo...** 
 
 ![Vistas desde el Grand Hotel de Taipéi.](https://fotos.etheriamagazine.com/2019/12/vistas-taipei-desde-grand-hotel.jpg "Vistas desde el Grand Hotel de Taipéi.  © Pepa García")
 
@@ -194,8 +194,8 @@ pena aunque sólo sea para observar los movimientos sincronizados de los soldado
 ### Cómo llegar a Taipéi
 
 No hay vuelos directos a Taipéi pero se puede llegar haciendo escala con Emirates, que 
-conecta desde Dubai; KLM desde Amsterdam; y Cathay Pacific hace escala en [Hong 
-Kong](https://etheriamagazine.com/2019/09/06/que-ver-hacer-dos-dias-en-hong-kong/). 
+conecta desde Dubai; KLM desde Amsterdam; y Cathay Pacific hace escala en {{< reflink 
+path=posts/2019/09/que-ver-hacer-dos-dias-en-hong-kong >}}. 
 
 ### ¿Necesito visado para viajar a Taiwán?
 

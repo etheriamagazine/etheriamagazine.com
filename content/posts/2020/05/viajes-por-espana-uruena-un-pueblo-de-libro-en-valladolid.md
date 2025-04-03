@@ -1,7 +1,7 @@
 ---
 title: "Conoce Urueña, un pueblo ‘de libro’ en Valladolid"
 date: 2020-05-22
-coverImage: https://fotos.etheriamagazine.com/2020/05/portada-uruena-villa-del-libro-2020.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/portada-uruena-villa-del-libro-2020.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -171,11 +171,12 @@ nombre figura en el catálogo de IKEA) iluminando su mente.
 
 ##### Dónde comer en Urueña
 
-• [Restaurante Los Lagares](http://www.loslagares.com). Una buena referencia para 
+- [Restaurante Los Lagares](http://www.loslagares.com). Una buena referencia para 
 disfrutar de la cocina tradicional de la zona con sus asados castellanos. Calle 
-Catahuevos, 21. • [Mesón Villa de Urueña](http://www.mesonvilladeurueña.es). Ofrece una 
-gran variedad en los llamados platos ‘de cuchara’ (de ollas y pucheros). Corro San 
-Andrés, 6. 
+Catahuevos, 21. 
+
+- [Mesón Villa de Urueña](http://www.mesonvilladeurueña.es). Ofrece una gran variedad en 
+los llamados platos ‘de cuchara’ (de ollas y pucheros). Corro San Andrés, 6. 
 
 ##### Dónde dormir
 
@@ -196,11 +197,10 @@ Madrid, por la carretera A6.
 
 ### También te puede interesar
 
-[Ruta del lechazo: los mejores asadores de Castilla y 
-León](https://etheriamagazine.com/2019/04/25/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon/). 
+{{< reflink 
+path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
+>}}. 
 
-[¿Por qué se come tan bien en 
-Valladolid?](https://etheriamagazine.com/2019/01/31/bares-imprescindibles-finde-valladolid/) 
+{{< reflink path=posts/2019/01/bares-imprescindibles-finde-valladolid >}} 
 
-[Volar en globo en España, el mejor regalo para espíritus 
-aventureros](https://etheriamagazine.com/2020/07/07/vuelos-en-globo-en-espana-regalo-viajero/)
+{{< reflink path=posts/2020/07/vuelos-en-globo-en-espana-regalo-viajero >}}

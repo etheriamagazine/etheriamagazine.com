@@ -1,7 +1,7 @@
 ---
 title: "15 obras del Museo del Prado para una visita exprés"
 date: 2019-09-24
-coverImage: https://fotos.etheriamagazine.com/2019/09/museo-del-prado-Triptico-del-jardin-de-las-delicias.jpg
+cover: https://fotos.etheriamagazine.com/2019/09/museo-del-prado-Triptico-del-jardin-de-las-delicias.jpg
 categories: 
   - cultura
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Si es la primera vez que visitas el Museo del Prado de Madrid, o tienes una agenda muy 
+**Si es la primera vez que visitas el Museo del Prado de Madrid, o tienes una agenda muy 
 apretada en tu viaje, toma nota de las 15 obras imprescindibles que debes contemplar en 
 tu recorrido. Y un consejo extra: descárgate el plano al final del artículo (tus piernas 
-te lo agradecerán). 
+te lo agradecerán).** 
 
 ![Interior del Museo del Prado de Madrid](https://fotos.etheriamagazine.com/2019/09/museo-del-prado.jpg "© Museo del Prado.")
 
@@ -115,9 +115,8 @@ II.
 
 Este es uno de los tesoros del Museo del Prado, y la obra más compleja de El Bosco. Para 
 entender el desarrollo iconográfico de los personajes que intervienen en el tríptico te 
-recomendamos usar la audioguía o descargarte la app del museo, una de [las mejores apps 
-de los museos 
-españoles](https://etheriamagazine.com/2019/01/05/10-apps-de-museos-espanoles/). 
+recomendamos usar la audioguía o descargarte la app del museo, una de {{< reflink 
+path=posts/2019/01/10-apps-de-museos-espanoles >}}. 
 
 ![Las tres gracias, obras de Rubens, que ver museo del prado](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-Las-tres-Gracias.jpg "Las tres gracias. © Museo del Prado")
 
@@ -161,8 +160,8 @@ conjunto.
 
 **Horarios**: De lunes a sábado: 10 a 20 h Domingos y festivos: 10 a 19 h 
 
-**Horario gratuito del Museo del Prado **De lunes a sábado de 18:00 h a 20:00 h Domingo 
-y festivos de 17:00 h a 19:00 h 
+**Horario gratuito del Museo del Prado**De lunes a sábado de 18:00 h a 20:00 h Domingo y 
+festivos de 17:00 h a 19:00 h 
 
 **Cómo comprar las entradas** 
 
@@ -171,8 +170,6 @@ Entrada online en www.museodelprado.es o en taquilla. Más información en el Te
 
 **También te puede interesar...** 
 
-[Descubre la vida de las mujeres de Madrid con una ruta 
-turística](https://etheriamagazine.com/2021/03/02/25-visitas-turisticas-originales-en-madrid/). 
+{{< reflink path=posts/2021/03/25-visitas-turisticas-originales-en-madrid >}}. 
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/).
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}.

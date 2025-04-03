@@ -1,7 +1,7 @@
 ---
 title: "Maria de Lurdes Vale, tejiendo redes desde Turismo de Portugal"
 date: 2024-03-11
-coverImage: https://fotos.etheriamagazine.com/2024/03/maria-lurdes-barca-azores.jpg
+cover: https://fotos.etheriamagazine.com/2024/03/maria-lurdes-barca-azores.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -220,13 +220,12 @@ la Sierra de la Estrella, tendría unos seis años y lo recuerdo porque hacía m
 
 ### ¿Cuál ha sido tu último viaje? ¿Y el que más te ha impactado hasta este momento?
 
-Mi último viaje ha sido a [Costa 
-Rica](https://etheriamagazine.com/2022/12/30/mujeres-de-costa-rica/), el pasado verano, 
-y me ha encantado. Y el que más me ha impactado es uno que hice a las Azores en el que 
-tuve la posibilidad de bucear con mantas-rayas enormes a 30 millas de la costa. Fue una 
-experiencia increíble, espiritual, el ver a estos enormes animales marinos como volando 
-en el océano alrededor tuyo. Las Azores me encantan, he viajado varias veces y son unas 
-islas con una energía especial. 
+Mi último viaje ha sido a {{< reflink path=posts/2022/12/mujeres-de-costa-rica >}}, el 
+pasado verano, y me ha encantado. Y el que más me ha impactado es uno que hice a las 
+Azores en el que tuve la posibilidad de bucear con mantas-rayas enormes a 30 millas de 
+la costa. Fue una experiencia increíble, espiritual, el ver a estos enormes animales 
+marinos como volando en el océano alrededor tuyo. Las Azores me encantan, he viajado 
+varias veces y son unas islas con una energía especial. 
 
 ### ¿Sueles viajar sola? ¿Lo recomendarías?
 

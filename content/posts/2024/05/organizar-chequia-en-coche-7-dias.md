@@ -1,7 +1,7 @@
 ---
 title: "Cómo recorrer Chequia en coche durante una semana, qué ver y otros datos prácticos"
 date: 2024-05-04
-coverImage: https://fotos.etheriamagazine.com/2024/05/ruta-coche-cesky-krumlov.jpg
+cover: https://fotos.etheriamagazine.com/2024/05/ruta-coche-cesky-krumlov.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -57,20 +57,19 @@ trabajo de los artesanos y admirar piezas históricas o a pueblos de cuento como
 **Loket**, a 14 kilómetros. Su castillo acogía a Carlos IV en sus retiros veraniegos y 
 es un placer tomar una cerveza artesana en la microcervecería Florian. 
 
-**\*No os perdáis el artículo de Etheria Magazine**: [Karlovy Vary, la ciudad balnearia 
-checa que Goethe visitó 13 
-veces](https://etheriamagazine.com/2021/12/09/que-ver-en-karlovy-vary-la-ciudad-balnearia-checa/). 
+**\*No os perdáis el artículo de Etheria Magazine**: {{< reflink 
+path=posts/2021/12/que-ver-en-karlovy-vary-la-ciudad-balnearia-checa >}}. 
 
 ### Otras visitas desde Karlovy Vary
 
-Desde Karlovy Vary se puede completar el famoso [triángulo balneario 
-checo](https://etheriamagazine.com/2022/02/03/imprescindibles-en-marianske-lazne-republica-checa/), 
-declarado Patrimonio de la Humanidad por la Unesco, visitando **Mariánské Lázně** y 
-**Františkovy Lázně**, ciudades perfectas para el descanso y el retiro físico y mental. 
-Sin embargo, el camino sigue porque a sólo 24 kilómetros se encuentra el **palacio de 
-Bečov nad Teplou** que alberga el relicario de Santo Mauro, la segunda pieza más valiosa 
-de Chequia, sólo detrás de las Joyas de la Corona, y que guarda una curiosa historia 
-detrás (os la cuentan en este [artículo de Radio Praga 
+Desde Karlovy Vary se puede completar el famoso {{< reflink 
+path=posts/2022/02/imprescindibles-en-marianske-lazne-republica-checa >}}, declarado 
+Patrimonio de la Humanidad por la Unesco, visitando **Mariánské Lázně** y **Františkovy 
+Lázně**, ciudades perfectas para el descanso y el retiro físico y mental. Sin embargo, 
+el camino sigue porque a sólo 24 kilómetros se encuentra el **palacio de Bečov nad 
+Teplou** que alberga el relicario de Santo Mauro, la segunda pieza más valiosa de 
+Chequia, sólo detrás de las Joyas de la Corona, y que guarda una curiosa historia detrás 
+(os la cuentan en este [artículo de Radio Praga 
 Internacional](https://espanol.radio.cz/la-rocambolesca-historia-del-relicario-de-san-mauro-8550453)). 
 
 ![Arquitectura de Mariánské Lázně.](https://fotos.etheriamagazine.com/2024/05/marianske-lazne.jpg "Arquitectura de Mariánské Lázně. © Borisb17 / Shutterstock.com")
@@ -108,31 +107,31 @@ Recomendación: Si en lugar de una semana podéis estirar las vacaciones hasta c
 10 o 12 días, la ruta puede seguir por Telč, Třebíč, Mikulov, el recinto 
 Lednice-Valtice, Brno y Olomouc. 
 
-**\*También en Etheria Magazine:** [De Praga a Moravia, una ruta sorprendente en 
-Chequia](https://etheriamagazine.com/2023/08/25/ruta-chequia-de-olomouc-a-ostrava/). 
+**\*También en Etheria Magazine:** {{< reflink 
+path=posts/2023/08/ruta-chequia-de-olomouc-a-ostrava >}}. 
 
 ## Preguntas frecuentes cuando se viaja por Chequia en coche
 
-**1\. ¿Por dónde se conduce en Chequia y qué documentos se precisan? **En Chequia se 
+**1\. ¿Por dónde se conduce en Chequia y qué documentos se precisan?**En Chequia se 
 conduce por la derecha, como en España. Es suficiente con un carnet de conducir o 
 licencia vigentes y un documento que acredite su identidad (también es necesario llevar 
 la documentación del vehículo). 
 
-**2\. ¿Cuál es la velocidad máxima en la República Checa? **El límite de velocidad en 
+**2\. ¿Cuál es la velocidad máxima en la República Checa?**El límite de velocidad en 
 Chequia en zonas pobladas es de 50 km/hora, fuera de las ciudades se puede alcanzar 90 
 km/hora. En las autovías y autopistas varía en función de si están en zonas pobladas 
 (que es 80 km/hora) o alejadas de las mismas (130 km/hora). 
 
-**3\. Tolerancia con el alcohol **En un país donde el consumo de la cerveza es muy alto 
+**3\. Tolerancia con el alcohol**En un país donde el consumo de la cerveza es muy alto 
 podemos pensar que hay tolerancia al alcohol pero no es así, allí la tolerancia es 
 "cero", no se debe beber nada que contenga alcohol si se va a conducir. 
 
-**4\. Autovías de pago **Las antiguas viñetas que se pegaban en el parabrisas ya han 
+**4\. Autovías de pago**Las antiguas viñetas que se pegaban en el parabrisas ya han 
 desaparecido, ahora se deben gestionar de forma digital. Se pueden adquirir en 
 eDalnice.cz (está en 5 idiomas), también es posible hacer la gestión de forma física en 
 gasolineras EuroOil, en las oficinas de Correos checos o en quioscos de autoservicio. 
 Los precios van desde 200 coronas (unos 8 euros), la de 1 día hasta las 430 coronas (17 
 euros) que corresponde a un mes. 
 
-Más información en destinochequia.com o en [visitczechia.com](https://www.visitczechia.com/) 
-(en español)
+Más información en destinochequia.com o en 
+[visitczechia.com](https://www.visitczechia.com/) (en español)

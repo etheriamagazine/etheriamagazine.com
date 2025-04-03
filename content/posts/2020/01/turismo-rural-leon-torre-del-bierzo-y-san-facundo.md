@@ -1,7 +1,7 @@
 ---
 title: "De la memoria minera de Torre del Bierzo al ‘milagro’ de San Facundo"
 date: 2020-01-27
-coverImage: https://fotos.etheriamagazine.com/2020/01/Leon-pueblo-San-Facundo.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/Leon-pueblo-San-Facundo.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Pedro Grifol
 ---
 
-Al oeste de la provincia española de León se encuentra El Bierzo y dos pueblecitos que 
+**Al oeste de la provincia española de León se encuentra El Bierzo y dos pueblecitos que 
 no debes perderte: San Facundo y Torre del Bierzo. En esta región los paisajes se 
 recortan entre la llanura castellana y las campiñas gallegas, formando un gran círculo 
 que bañan ríos de aguas frescas que discurren entre inmensas masas boscosas. Un paseo 
 por El Bierzo te transporta a la médula de la naturaleza… Un entorno que parece diseñado 
-para escapar de la vida de las grandes ciudades. 
+para escapar de la vida de las grandes ciudades.** 
 
 ![san facundo, pueblos bonitos de leon](https://fotos.etheriamagazine.com/2020/01/Leon-pueblo-San-Facundo.jpg "San Facundo, el pueblo más bonito de León. © Pedro Grifol")
 
@@ -121,8 +121,8 @@ San Facundo.
 
 El lugar perfecto para recuperar fuerzas tras la caminata es el restaurante de los 
 **Hermanos Vila** en San Facundo. Este local familiar está abierto todo el año y ofrece 
-alta cocina (así como suena). Solo es necesario anunciar nuestra visita contactando por [mail](http://mvilapaz@gmail.com) 
-o reservando por teléfono en el 629 851 151. 
+alta cocina (así como suena). Solo es necesario anunciar nuestra visita contactando por 
+[mail](http://mvilapaz@gmail.com) o reservando por teléfono en el 629 851 151. 
 
 ![restaurante hermanos vila, san facundo leon](https://fotos.etheriamagazine.com/2020/01/Marga-Vila-chef-del-Restaurente-Hermanos-Vila.jpg "Marga Vila y algunos platos del restaurante: bacalao con tomate, berzas con alubias y castañas, y garbanzos con langostinos. © P. Grifol")
 
@@ -159,15 +159,13 @@ No te pierdas sus **Encuentros Gastronómicos de la Trucha.**
 
 **También te puede interesar en León...** 
 
-[Si León no existiera, habría que inventarlo: 10 razones para descubrir la capital de un 
-reino 
-fascinante](https://etheriamagazine.com/2020/12/28/10-razones-para-descubrir-leon-una-capital-unica-y-diferente/). 
+{{< reflink 
+path=posts/2020/12/10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}. 
 
-[Una visita a las Médulas, ‘prestosidad’ a la 
-leonesa](https://etheriamagazine.com/2020/05/11/escapadas-por-espana-las-medulas-leon/). 
+{{< reflink path=posts/2020/05/escapadas-por-espana-las-medulas-leon >}}. 
 
-[Ruta del lechazo: los mejores asadores de Castilla y 
-León](https://etheriamagazine.com/2019/04/25/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon/). 
+{{< reflink 
+path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
+>}}. 
 
-[16 secretos que desconoces de la milenaria ciudad de 
-León](https://etheriamagazine.com/2020/12/16/16-lugares-secretos-y-leyendas-de-leon-capital/).
+{{< reflink path=posts/2020/12/16-lugares-secretos-y-leyendas-de-leon-capital >}}.

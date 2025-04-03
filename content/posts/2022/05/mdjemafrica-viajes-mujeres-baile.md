@@ -1,7 +1,7 @@
 ---
 title: "MdjemAfrica, mujeres que viajan en grupo para bailar"
 date: 2022-05-25
-coverImage: https://fotos.etheriamagazine.com/2022/05/mdjem-baile-africa-Bonaberi.jpg
+cover: https://fotos.etheriamagazine.com/2022/05/mdjem-baile-africa-Bonaberi.jpg
 categories: 
   - mujeres-top
   - proyectos
@@ -21,12 +21,12 @@ inmersión en la cultura local y practican danzas africanas modernas. Además de
 la cultura, Belén apuesta por establecer vínculos con pequeñas empresas locales para 
 aportar su granito de arena en la economía del destino. Este es uno de los 
 emprendimientos que se engloban en la sección 'Proyectos con alma', de Etheria Magazine, 
-en el que ofrecemos un espacio ("[Ninguna mujer sin sus mil palabras de 
-gloria"](https://etheriamagazine.com/2022/03/08/ayuda-mujeres-emprendedoras-turismo/)) a 
-mujeres con iniciativa del sector turístico. Belén toma las riendas de este artículo a 
-partir de este momento y es ella la que nos cuenta por qué **MdjemAfrica** puede ser la 
-agencia que necesitas para viajar sola (pero en grupo) a este continente mientras 
-practicas baile y conoces el destino. 
+en el que ofrecemos un espacio ("{{< reflink 
+path=posts/2022/03/ayuda-mujeres-emprendedoras-turismo >}}) a mujeres con iniciativa del 
+sector turístico. Belén toma las riendas de este artículo a partir de este momento y es 
+ella la que nos cuenta por qué **MdjemAfrica** puede ser la agencia que necesitas para 
+viajar sola (pero en grupo) a este continente mientras practicas baile y conoces el 
+destino. 
 
 ## Belén Orive, creadora de MdjemAfrica
 
@@ -133,8 +133,6 @@ información y próximas salidas en su web)
 
 ### También te puede interesar…
 
-[Mujeres de Tanzania, el turismo como herramienta de 
-empoderamiento](https://etheriamagazine.com/2022/03/07/empoderar-con-el-turismo-mujeres-de-tanzania/). 
+{{< reflink path=posts/2022/03/empoderar-con-el-turismo-mujeres-de-tanzania >}}. 
 
-[Llevar a Irán a otras mujeres, el sueño de Leti 
-Lagarda](https://etheriamagazine.com/2022/04/01/iran-en-grupo-de-mujeres/).
+{{< reflink path=posts/2022/04/iran-en-grupo-de-mujeres >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Pura Giménez: \"Creo que el mejor compañero de viaje es alguien con quien ya hayas viajado\""
 date: 2018-08-27
-coverImage: https://fotos.etheriamagazine.com/2018/08/pura-gimenez-turismo-irlanda.jpg
+cover: https://fotos.etheriamagazine.com/2018/08/pura-gimenez-turismo-irlanda.jpg
 categories: 
   - mujeres-top
 destino: 

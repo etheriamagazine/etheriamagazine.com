@@ -1,7 +1,7 @@
 ---
 title: "Por qué la mujer no pudo votar en Suiza hasta 1971"
 date: 2021-04-12
-coverImage: https://fotos.etheriamagazine.com/2021/03/voto-femenino-suiza-el-orden-divino-manifestacion.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/voto-femenino-suiza-el-orden-divino-manifestacion.jpg
 categories: 
   - historias
   - mujeres-top
@@ -147,8 +147,6 @@ puedes ver la película 'El orden divino' (Die göttliche Ordnung) de 2017.
 
 **También te puede interesar** 
 
-[Suiza encumbra a las mujeres con su 100% 
-Women](https://etheriamagazine.com/2021/03/12/suiza-encumbra-a-las-mujeres-con-su-100-por-100-women/) 
+{{< reflink path=posts/2021/03/suiza-encumbra-a-las-mujeres-con-su-100-por-100-women >}} 
 
-[Suiza en coche eléctrico, una aventura ecológica (y más 
-económica)](https://etheriamagazine.com/2021/02/10/ruta-en-coche-electrico-por-suiza/)
+{{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}}

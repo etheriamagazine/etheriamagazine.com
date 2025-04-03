@@ -1,7 +1,7 @@
 ---
 title: "Granada con amigas: cultura, diversión y mucho arte"
 date: 2022-06-16
-coverImage: https://fotos.etheriamagazine.com/2022/06/granada-la-alhambra.jpg
+cover: https://fotos.etheriamagazine.com/2022/06/granada-la-alhambra.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-Nos encanta proponeros viajes con amigas para celebrar la amistad, y en este caso nos 
+**Nos encanta proponeros viajes con amigas para celebrar la amistad, y en este caso nos 
 vamos a centrar en la ciudad de Granada, que lo tiene todo para una escapada perfecta. 
 Tomad nota de nuestras diez actividades y visitas imprescindibles para disfrutar de 
 Granada con amigas, pero ya os adelantamos que os va a gustar todo, desde su historia 
-hasta su gastronomía. 
+hasta su gastronomía.** 
 
 ![recorrido de La Alhambra](https://fotos.etheriamagazine.com/2022/06/granada-palacios-nazaries.jpg "Palacios Nazaríes en La Alhambra. © SG")
 
@@ -30,8 +30,8 @@ actividades en Granada que hemos seleccionado y que harán que vuestro viaje sea
 
 ## Granada con amigas, planes imprescindibles
 
-[1\. Visita de La Alhambra](#La-Alhambra). [2\. Recorrido por el Albaicín](#Albaicín). [3\. 
-Un baño en un hammam](#Hammam). [4\. La ruta de Lorca](#Lorca). [5\. De tapas por 
+[1\. Visita de La Alhambra](#La-Alhambra). [2\. Recorrido por el Albaicín](#Albaicín). 
+[3\. Un baño en un hammam](#Hammam). [4\. La ruta de Lorca](#Lorca). [5\. De tapas por 
 Granada](#Tapas). [6\. El barrio de Sacromonte](#Sacromonte). [7\. Un espectáculo 
 flamenco](#Flamenco). [8\. Tour de mujeres ilustres](#Mujeres-ilustres). [9\. Una 
 excursión a Sierra Nevada](#Sierra-Nevada). [10\. El hotel Alhambra 
@@ -42,8 +42,9 @@ Palace](#Alhambra-Palace).
 La Alhambra no es que sea una visita imprescindible en Granada, es que es obligatoria en 
 la vida de cualquier persona. Es un monumento total, que os llevará una mañana o una 
 tarde entera y cuya visita hay que preparar con mimo: comprad antes las entradas (hay 
-cupos diarios) y contratad una visita organizada con un guía. Podéis hacerlo a través de [Alhambra.org](https://www.alhambra.org/) 
-o con [Civitatis](https://www.civitatis.com/es/granada/visita-guiada-alhambra/?aid=10211). 
+cupos diarios) y contratad una visita organizada con un guía. Podéis hacerlo a través de 
+[Alhambra.org](https://www.alhambra.org/) o con 
+[Civitatis](https://www.civitatis.com/es/granada/visita-guiada-alhambra/?aid=10211). 
 
 ![la alhambra en primavera](https://fotos.etheriamagazine.com/2022/06/granada-la-alhambra.jpg "La Alhambra desde los jardines del Generalife. © SG")
 
@@ -54,8 +55,7 @@ aquí una civilización donde la cultura, la arquitectura y el paisajismo fueron
 protagonistas. Llevad cámaras de fotos y móviles cargados porque no dejaréis de 
 encontrar rincones para inmortalizar. 
 
-📍No te pierdas: [10 consejos para triunfar en tu visita a La 
-Alhambra](https://etheriamagazine.com/2021/10/25/consejos-para-visitar-la-alhambra/). 
+📍No te pierdas: {{< reflink path=posts/2021/10/consejos-para-visitar-la-alhambra >}}. 
 
 ### 2\. Recorrido por el Albaicín
 
@@ -77,8 +77,8 @@ Otros lugares a los que acercaros en el Albaicín son el **Palacio de los Córdo
 con "v") o los baños de [El 
 Bañuelo](https://www.alhambra-patronato.es/descubrir/monumentos-andalusies/el-banuelo). 
 
-📍No te pierdas: [El Albaicín y La Alhambra, dos visitas ineludibles en 
-Granada](https://etheriamagazine.com/2020/05/29/48-horas-en-el-albayzin-y-la-alhambra/). 
+📍No te pierdas: {{< reflink path=posts/2020/05/48-horas-en-el-albayzin-y-la-alhambra 
+>}}. 
 
 ### 3\. Un baño en un hammam
 
@@ -99,16 +99,17 @@ en un viaje a Granada con amigas.
 La figura de Federico García Lorca está ligada a esta ciudad para siempre. Por mucho que 
 sus experiencias vitales le llevaran a ciudades como Madrid o Nueva York, siempre amó 
 con locura a su querida Granada. Existen rutas guiadas para descubrir los rincones 
-preferidos de este genial escritor, como la que realiza [Civitatis](https://www.civitatis.com/es/granada/free-tour-lorca/?aid=10211), 
-pero si queréis hacer el recorrido por vuestra cuenta no os podéis perder **La Huerta de 
-San Vicente** (la casa familiar que se conserva casi intacta), el **Centro Cultural 
-Federico García Lorca** (con parte de su legado) y el **café Alameda** donde participaba 
-en animadas tertulias. 
+preferidos de este genial escritor, como la que realiza 
+[Civitatis](https://www.civitatis.com/es/granada/free-tour-lorca/?aid=10211), pero si 
+queréis hacer el recorrido por vuestra cuenta no os podéis perder **La Huerta de San 
+Vicente** (la casa familiar que se conserva casi intacta), el **Centro Cultural Federico 
+García Lorca** (con parte de su legado) y el **café Alameda** donde participaba en 
+animadas tertulias. 
 
 ![museo Federico García Lorca en Granada](https://fotos.etheriamagazine.com/2022/06/Granada-Lorca-museo.jpg "Centro cultural Federico García Lorca. © Universo Lorca")
 
-📍No te pierdas: [Ruta de Lorca en Granada, un paseo por sus rincones más 
-íntimos](https://etheriamagazine.com/2020/10/07/ruta-cultural-granada-de-garcia-lorca/). 
+📍No te pierdas: {{< reflink path=posts/2020/10/ruta-cultural-granada-de-garcia-lorca 
+>}}. 
 
 ### 5\. De tapas por Granada
 
@@ -122,11 +123,11 @@ calle Elvira, aunque en Granada hay bares por todas partes.
 ![plato de gastronomia de Granada](https://fotos.etheriamagazine.com/2022/06/granada-restaurante-farala.jpg "Gastronomía en el © restaurante Farala.")
 
 Pero si queréis almuerzo y cena de mesa y mantel para degustar la sabrosa gastronomía 
-granadina, podéis acudir a restaurantes como [Faralá](https://restaurantefarala.com/), [Damasqueros](https://damasqueros.com/) 
-o **Cunini**. 
+granadina, podéis acudir a restaurantes como [Faralá](https://restaurantefarala.com/), 
+[Damasqueros](https://damasqueros.com/) o **Cunini**. 
 
-📍No te pierdas: [Granada, el privilegio de la buena 
-mesa](https://etheriamagazine.com/2020/10/30/restaurantes-bares-de-granada-y-visitas-para-mujeres/). 
+📍No te pierdas: {{< reflink 
+path=posts/2020/10/restaurantes-bares-de-granada-y-visitas-para-mujeres >}}. 
 
 ### 6\. El barrio de Sacromonte
 
@@ -154,7 +155,8 @@ Civitatis en los [Jardines de
 Zoraya](https://www.civitatis.com/es/granada/flamenco-cena-jardines-zoraya/?aid=10211) 
 (sólo espectáculo o con cena incluida), o en el centro de la ciudad en [La 
 Alboreá](https://www.civitatis.com/es/granada/espectaculo-flamenco-la-alborea/?aid=10211) 
-o [La](https://www.civitatis.com/es/granada/show-flamenco-la-solea/?aid=10211) [S](https://www.civitatis.com/es/granada/show-flamenco-la-solea/?aid=10211)[oleá](https://www.civitatis.com/es/granada/show-flamenco-la-solea/?aid=10211). 
+o [La](https://www.civitatis.com/es/granada/show-flamenco-la-solea/?aid=10211) 
+[S](https://www.civitatis.com/es/granada/show-flamenco-la-solea/?aid=10211)[oleá](https://www.civitatis.com/es/granada/show-flamenco-la-solea/?aid=10211). 
 
 ![mujer bailando flamenco en Granada](https://fotos.etheriamagazine.com/2022/06/granada-flamenco.jpg "En Granada no os podéis perder un espectáculo flamenco.")
 
@@ -183,7 +185,8 @@ senderismo será un opción inigualable para contemplar los bonitos paisajes de 
 sierra. Os proponemos dos ideas: la ruta por los [Cahorros de 
 Monachil](https://sierranevada.es/es/verano/actividades-y-experiencias/conoce-nuestro-entorno/monachil/?utm_source=sierranevada.es&utm_medium=slider&utm_campaign=Monachil&utm_content=Actividades+y+experiencias), 
 fácil y circular, con un puente colgante incluido (podéis apuntaros a la excursión 
-organizada por [Civitatis](https://www.civitatis.com/es/granada/senderismo-cahorros-monachil/?aid=10211)); 
+organizada por 
+[Civitatis](https://www.civitatis.com/es/granada/senderismo-cahorros-monachil/?aid=10211)); 
 y la [Vereda de la Estrella](https://www.turgranada.es/ruta/vereda-de-la-estrella-2/), 
 conocida como la ruta de las minas, preciosa pero algo más larga y empinada que la 
 anterior. 
@@ -203,17 +206,12 @@ vuestros pies desde uno de los mejores miradores de la ciudad.
 
 ![Granada al anochecer](https://fotos.etheriamagazine.com/2022/06/granada-Alhambra-palace.jpg "Imagen nocturna del © Alhambra Palace.")
 
-📍 No te pierdas: [Hotel Alhambra Palace, tres curiosidades que tienes que saber antes 
-de 
-alojarte](https://etheriamagazine.com/2021/09/02/curiosidades-hotel-alhambra-palace/). 
+📍 No te pierdas: {{< reflink path=posts/2021/09/curiosidades-hotel-alhambra-palace >}}. 
 
 ### Más viajes con amigas en Andalucía:
 
-[Un fin de semana en Málaga con 
-amigas](https://etheriamagazine.com/2021/05/03/fin-de-semana-con-amigas-en-malaga/) 
+{{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}} 
 
-[Ronda con amigas. Un fin de semana perfecto en el 
-sur](https://etheriamagazine.com/2021/11/23/planes-en-ronda-con-amigas/) 
+{{< reflink path=posts/2021/11/planes-en-ronda-con-amigas >}} 
 
-[10 planes originales con amigas en 
-Sevilla](https://etheriamagazine.com/2020/09/28/10-mejores-planes-en-sevilla-con-amigas-o-pareja/)
+{{< reflink path=posts/2020/09/10-mejores-planes-en-sevilla-con-amigas-o-pareja >}}

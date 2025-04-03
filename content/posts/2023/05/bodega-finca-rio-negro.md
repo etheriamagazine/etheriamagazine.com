@@ -1,7 +1,7 @@
 ---
 title: "Bodega Finca Río Negro, vinos de autor a más de mil metros de altura"
 date: 2023-05-06
-coverImage: https://fotos.etheriamagazine.com/2023/05/bodega-rio-negro-olivo.jpg
+cover: https://fotos.etheriamagazine.com/2023/05/bodega-rio-negro-olivo.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -11,11 +11,11 @@ authors:
   - Susana García
 ---
 
-Guadalajara guarda un secreto en forma de bodega en el corazón de su Sierra Norte. Finca 
-Río Negro sorprende por muchas cosas, pero sobre todo por la calidad y originalidad de 
-sus vinos: entre los mejores vinos de autor a precios razonables que existen. Y, además 
-de disfrutarlos, te recomendamos recorrer esta bodega situada a mil metros de altura. 
-¡Un planazo con amigas para todo el año! 
+**Guadalajara guarda un secreto en forma de bodega en el corazón de su Sierra Norte. 
+Finca Río Negro sorprende por muchas cosas, pero sobre todo por la calidad y 
+originalidad de sus vinos: entre los mejores vinos de autor a precios razonables que 
+existen. Y, además de disfrutarlos, te recomendamos recorrer esta bodega situada a mil 
+metros de altura. ¡Un planazo con amigas para todo el año!** 
 
 ![cinco botellas de vino de Finca Río Negro](https://fotos.etheriamagazine.com/2023/05/finca-bodega-rio-negro-vinos.jpg "Vinos de la bodega Finca Río Negro. © Susana García")
 
@@ -182,17 +182,15 @@ especializadas en la venta de vino. Los **precios** van de los 11,50 Euros del 9
 #### ¿Cómo completar una visita a la bodega Finca Río Negro?
 
 Se puede parar en Cogolludo para ver su plaza, con el Palacio de los Duques de 
-Medinaceli. Otra muy buena opción es acercarse a [Sigüenza](https://etheriamagazine.com/2020/12/14/que-ver-donde-comer-en-siguenza/) 
-(a 60 km) y alojarse en el **maravilloso Molino de Alcuneza**, que cuenta con un 
-restaurante con una estrella Michelin que dirige el chef Samuel Moreno. 
+Medinaceli. Otra muy buena opción es acercarse a {{< reflink 
+path=posts/2020/12/que-ver-donde-comer-en-siguenza >}} (a 60 km) y alojarse en el 
+**maravilloso Molino de Alcuneza**, que cuenta con un restaurante con una estrella 
+Michelin que dirige el chef Samuel Moreno. 
 
 📌 **También te puede interesar:** 
 
-[Respirar ‘a pulmón abierto’ en los Pueblos Negros de 
-Guadalajara](https://etheriamagazine.com/2019/05/06/ruta-en-coche-pueblos-negros-guadalajara/) 
+{{< reflink path=posts/2019/05/ruta-en-coche-pueblos-negros-guadalajara >}} 
 
-[Ruta del Vino de Arribes, energía femenina de alto 
-voltaje](https://etheriamagazine.com/2023/04/19/ruta-del-vino-de-arribes/) 
+{{< reflink path=posts/2023/04/ruta-del-vino-de-arribes >}} 
 
-[Ruta del Vino de Toro, secretos abrazados por el 
-Duero](https://etheriamagazine.com/2022/09/21/planes-en-ruta-vino-toro/)
+{{< reflink path=posts/2022/09/planes-en-ruta-vino-toro >}}

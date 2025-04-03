@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en Milán en un fin de semana"
 date: 2018-12-21
-coverImage: https://fotos.etheriamagazine.com/2018/12/Milan-navigli-e1567238593842.jpg
+cover: https://fotos.etheriamagazine.com/2018/12/Milan-navigli-e1567238593842.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-Si joyas como el Duomo o _La Última Cena_ de Leonardo da Vinci no son suficientes para 
+**Si joyas como el Duomo o _La Última Cena_ de Leonardo da Vinci no son suficientes para 
 incentivarte a pasar un fin de semana en Milán, le sumamos sus museos, tiendas y 
 tentadoras excursiones a menos de una hora de coche o tren. No nos negarás que esta 
-ciudad del norte de Italia tiene que ser uno de tus viajes con amigas. 
+ciudad del norte de Italia tiene que ser uno de tus viajes con amigas.** 
 
 ![viajes de fin de semana, 48 horas en, Italia, arte](https://fotos.etheriamagazine.com/2018/12/Milan-duomo-detalle-e1567238407373.jpg "Detalle de la parte más alta del Duomo, visible desde las terrazas. ©S.G.")
 
@@ -171,7 +171,8 @@ Es imprescindible llevar reservadas las entradas para entrar en Santa Maria dell
 y ver _La Última Cena_, es imposibles adquirirlas en el día. El sitio oficial es 
 **Vivaticket**. También puedes comprarlas en la web de Milan Museum, donde las hay de 
 varios tipos (con explicación en inglés, privadas) y donde además se pueden adquirir 
-entradas de otros museos de la ciudad; o en [Civitatis](https://www.civitatis.com/es/milan/visita-guiada-ultima-cena/?aid=10211), 
+entradas de otros museos de la ciudad; o en 
+[Civitatis](https://www.civitatis.com/es/milan/visita-guiada-ultima-cena/?aid=10211), 
 que organiza visitas guiadas en castellano (y sin colas). 
 
 Los pases para el Duomo se compran en **Duomo di Milano** (www.duomomilano.it). Es muy 
@@ -204,11 +205,8 @@ de gala para la Navidades.
 
 ### También te puede interesar:
 
-[Date un capricho cinco estrellas en el hotel Mandarin Oriental 
-Milan](https://etheriamagazine.com/2021/03/10/hotel-mandarin-oriental-milan-lujo-cinco-estrellas/) 
+{{< reflink path=posts/2021/03/hotel-mandarin-oriental-milan-lujo-cinco-estrellas >}} 
 
-[Casi un mar: rodea en coche el lago de Garda, el mayor de 
-Italia](https://etheriamagazine.com/2021/09/22/ruta-en-coche-en-lago-de-garda-italia/) 
+{{< reflink path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}} 
 
-[Turín con amigas: viaja a la ciudad más supersticiosa de 
-Italia](https://etheriamagazine.com/2021/07/16/que-ver-en-turin-en-un-viaje-con-amigas/)
+{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}}

@@ -1,17 +1,17 @@
 ---
 title: "Hotel W Costa Navarino, un rincón de lujo en el paraíso"
 date: 2022-11-16
-coverImage: https://fotos.etheriamagazine.com/2022/11/W-Costa-Navarino-piscina-atardecer.jpg
+cover: https://fotos.etheriamagazine.com/2022/11/W-Costa-Navarino-piscina-atardecer.jpg
 destino: 
   - Europa
 authors: 
   - Redacción Etheria
 ---
 
-El nuevo W Costa Navarino no podía haber elegido una ubicación más bella: la playa de la 
-región griega de Mesenia, un lugar pensado para disfrutar de las vacaciones en un 
+**El nuevo W Costa Navarino no podía haber elegido una ubicación más bella: la playa de 
+la región griega de Mesenia, un lugar pensado para disfrutar de las vacaciones en un 
 entorno de lujo único y en contacto total con la naturaleza. Echa un vistazo a lo que te 
-contamos porque te va a apetecer ir al momento. 
+contamos porque te va a apetecer ir al momento.** 
 
 ![Piscina del W Costa Navarino al atardecer.](https://fotos.etheriamagazine.com/2022/11/W-Costa-Navarino-piscina-atardecer.jpg "Piscina del W Costa Navarino al atardecer.")
 
@@ -107,8 +107,8 @@ cedidas por Marriot Bonvoy.
 
 ## También te puede interesar:
 
-[Escapada ‘slow’ a Paros, Amorgos y Milos, el secreto mejor guardado de las 
-Cícladas](https://etheriamagazine.com/2020/10/20/descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas/) 
+{{< reflink 
+path=posts/2020/10/descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas 
+>}} 
 
-[Crucero por las Islas 
-Griegas](https://etheriamagazine.com/2019/01/03/que-visitar-crucero-por-islas-griegas/)
+{{< reflink path=posts/2019/01/que-visitar-crucero-por-islas-griegas >}}

@@ -1,7 +1,7 @@
 ---
 title: "Bodegas Santiago Ruiz, el alma de las Rías Baixas se bebe en copas"
 date: 2023-09-11
-coverImage: https://fotos.etheriamagazine.com/2023/09/rosa-ruiz-bodeguera.jpg
+cover: https://fotos.etheriamagazine.com/2023/09/rosa-ruiz-bodeguera.jpg
 categories: 
   - gourmet
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Hablar de vinos es hacerlo de personas, de familias, de entrega y de ilusiones. Algunos 
-de esos vinos que cada año enamoran son los que elabora en las Rías Baixas las Bodegas 
-Santiago Ruiz. De Rosa Ruiz, de su padre y de su abuelo, y, también, de la añada 2022 de 
-sus dos vinos más emblemáticos te hablamos a continuación. 
+**Hablar de vinos es hacerlo de personas, de familias, de entrega y de ilusiones. 
+Algunos de esos vinos que cada año enamoran son los que elabora en las Rías Baixas las 
+Bodegas Santiago Ruiz. De Rosa Ruiz, de su padre y de su abuelo, y, también, de la añada 
+2022 de sus dos vinos más emblemáticos te hablamos a continuación.** 
 
 ![Rosa Ruiz, al frente de bodegas Santiago Ruiz.](https://fotos.etheriamagazine.com/2023/09/rosa-ruiz-bodeguera.jpg "Rosa Ruiz, al frente de bodegas Santiago Ruiz.")
 
@@ -122,8 +122,6 @@ Su temperatura ideal de consumo es de 10 u 11 ºC.
 
 **Sigue leyendo...** 
 
-[31 escapadas para descubrir este otoño los paisajes del 
-vino](https://etheriamagazine.com/2020/09/07/31-escapadas-po-los-paisajes-del-vino/). 
+{{< reflink path=posts/2020/09/31-escapadas-po-los-paisajes-del-vino >}}. 
 
-[Guía esencial de Pontevedra: ciudades, islas, castros y rutas 
-mágicas](https://etheriamagazine.com/2022/12/14/que-ver-pontevedra/).
+{{< reflink path=posts/2022/12/que-ver-pontevedra >}}.

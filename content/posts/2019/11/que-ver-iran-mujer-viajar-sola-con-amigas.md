@@ -1,7 +1,7 @@
 ---
 title: "Descubre las 10 sonrisas persas de Irán"
 date: 2019-11-06
-coverImage: https://fotos.etheriamagazine.com/2019/10/Yazd-ruta-caravanas-seda-4.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/Yazd-ruta-caravanas-seda-4.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -12,10 +12,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Persia sigue viva. El gran imperio que fue en la Antigüedad mantiene su esencia en Irán, 
-un lugar que sorprende desde el primer minuto. Aquí, nada es como esperas y cualquier 
-visita supera las expectativas. En este artículo te contamos qué ver en Irán para que la 
-sonrisa de este pueblo se quede en tu memoria para siempre. 
+**Persia sigue viva. El gran imperio que fue en la Antigüedad mantiene su esencia en 
+Irán, un lugar que sorprende desde el primer minuto. Aquí, nada es como esperas y 
+cualquier visita supera las expectativas. En este artículo te contamos qué ver en Irán 
+para que la sonrisa de este pueblo se quede en tu memoria para siempre.** 
 
 ![Palacio de Golestan Palace en Irán](https://fotos.etheriamagazine.com/2019/10/viaje-iran-teheran-1.jpg "Palacio de Golestan, en Teherán.")
 
@@ -234,11 +234,9 @@ las que un musulmán debe peregrinar al menos una vez en su vida.
 
 📌 **También te puede interesar:** 
 
-[Jordania, visitas y consejos imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2020/12/18/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola/) 
+{{< reflink 
+path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}} 
 
-[Norte de la India: enamórate de los colores del 
-Rajastán](https://etheriamagazine.com/2020/01/29/viaje-para-mujeres-que-ver-norte-india-rajastan/) 
+{{< reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}} 
 
-[Descubre la belleza de Georgia en 10 visitas 
-increíbles](https://etheriamagazine.com/2019/02/13/que-ver-georgia/)
+{{< reflink path=posts/2019/02/que-ver-georgia >}}

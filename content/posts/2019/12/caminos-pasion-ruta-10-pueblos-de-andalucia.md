@@ -1,7 +1,7 @@
 ---
 title: "Caminos de Pasión a través de 10 mujeres apasionadas"
 date: 2019-12-06
-coverImage: https://fotos.etheriamagazine.com/2019/12/caminos-pasion-priego-cordoba-8.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/caminos-pasion-priego-cordoba-8.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Diez pueblos enlazan la ruta de Caminos de Pasión que, entre Sevilla, Córdoba y Jaén, 
+**Diez pueblos enlazan la ruta de Caminos de Pasión que, entre Sevilla, Córdoba y Jaén, 
 recorre el interior de Andalucía. Hemos admirado su impresionante cultura y el esplendor 
 de su Semana Santa, pero también hemos de reconocer que en Etheria Magazine esa 
 admiración es compartida con las mujeres que hemos conocido en este viaje. Sigue leyendo 
-y juzga por ti misma… 
+y juzga por ti misma…** 
 
 ![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-de-pasion-carmona-1.jpg "Carmona.")
 
@@ -259,7 +259,6 @@ refrescante con vistas a la fortaleza desde la que se inició la conquista de Gr
 
 **También te puede interesar...** 
 
-[¿Qué esconde Caminos de Pasión? 10 experiencias andaluzas para una Semana Santa 
-auténtica](https://etheriamagazine.com/2022/04/04/semana-santa-caminos-de-pasion/). 
+{{< reflink path=posts/2022/04/semana-santa-caminos-de-pasion >}}. 
 
 [Web oficial](https://www.caminosdepasion.com/) de Caminos de Pasión.

@@ -1,7 +1,7 @@
 ---
 title: "Descubre los mejores bares de pintxos de San Sebastián para ir con amigas"
 date: 2019-11-08
-coverImage: https://fotos.etheriamagazine.com/2019/10/San-Sebastian-gastronomia-Gros.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/San-Sebastian-gastronomia-Gros.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-Si te gusta comer bien tienes que leer este artículo en el que Elisabeth G. Iborra te 
+**Si te gusta comer bien tienes que leer este artículo en el que Elisabeth G. Iborra te 
 guía por San Sebastián y Guipúzcoa a través de sus restaurantes y bares de pintxos. 
 Aprovecha y elige este destino para viajar sola o con amigas y darte un buen homenaje 
-gastronómico. 
+gastronómico.** 
 
 ![mirador Monte Igeldo](https://fotos.etheriamagazine.com/2019/10/San-Sebastian-Igueldo.jpg "Vista de la bahía de San Sebatián desde el monte Igueldo. © DSST")
 
@@ -191,8 +191,8 @@ chuletón y el queso Idiazabal con nueces y membrillo.
 
 📌 **También te puede interesar:** 
 
-[Planes para un fin de semana en San Sebastián: seguro que no te 
-aburres](https://etheriamagazine.com/2021/04/01/que-ver-hacer-en-san-sebastian/) 
+{{< reflink path=posts/2021/04/que-ver-hacer-en-san-sebastian >}} 
 
-[‘Hondalea’, la escultura de Cristina Iglesias que ilumina el faro de la isla de Santa 
-Clara](https://etheriamagazine.com/2021/05/04/hondalea-escultura-de-cristina-iglesias-en-faro-de-la-isla-de-santa-clara/)
+{{< reflink 
+path=posts/2021/05/hondalea-escultura-de-cristina-iglesias-en-faro-de-la-isla-de-santa-clara 
+>}}

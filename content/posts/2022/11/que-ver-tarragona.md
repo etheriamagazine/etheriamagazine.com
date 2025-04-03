@@ -1,7 +1,7 @@
 ---
 title: "Guía esencial de Tarragona, pueblos y rutas que enamoran"
 date: 2022-11-23
-coverImage: https://fotos.etheriamagazine.com/2022/11/tarragona-delta-del-Ebro.jpg
+cover: https://fotos.etheriamagazine.com/2022/11/tarragona-delta-del-Ebro.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pilar Ortega
 ---
 
-Tanto Tarragona capital como su provincia son una lección viva de historia donde seguir 
-el rastro de numerosas civilizaciones. Acompáñanos a recorrer el casco histórico 
+**Tanto Tarragona capital como su provincia son una lección viva de historia donde 
+seguir el rastro de numerosas civilizaciones. Acompáñanos a recorrer el casco histórico 
 tarraconense, los paisajes del delta de l'Ebre y del Priorat, la costa y los monasterios 
 y castillos del interior. En esta guía encontrarás los lugares imprescindibles que ver 
-en Tarragona, guárdala para tu próximo viaje. 
+en Tarragona, guárdala para tu próximo viaje.** 
 
 ![Cartuja de Escaladei, en Costa Daurada.](https://fotos.etheriamagazine.com/2022/11/costa-dorada-escaladei.jpg "Cartuja de Escaladei. © Costa Daurada/ Joan Capdevila")
 
@@ -40,8 +40,7 @@ admirar uno de sus destinos icónicos, el anfiteatro romano, sin dar un paseo tr
 por la Rambla Nova o disfrutar del barrio de pescadores del Serrallo. Así que ponte en 
 marcha y sumérgete en una ciudad moderna, abierta y acogedora, y sobre todo, monumental. 
 
-📌No te pierdas: [10 buenas razones para escaparse a la antigua 
-Tarraco](https://etheriamagazine.com/2021/12/29/por-que-visitar-tarragona/). 
+📌No te pierdas: {{< reflink path=posts/2021/12/por-que-visitar-tarragona >}}. 
 
 ![Casa salas, una construcción modernista de Tarragona.](https://fotos.etheriamagazine.com/2022/11/Tarragona-casa_salas.jpg "Casa salas, una construcción modernista de Tarragona.")
 
@@ -227,12 +226,13 @@ complementa con una amplia gama de restaurantes y tiendas. Una despedida de adre
 para poner el broche final a nuestra escapada turística por la provincia de Tarragona. 
 
 📌 Si haces un viaje a Cataluña con niños toma nota también de las actividades de este 
-artículo: [Turismo industrial en Cataluña, viajar y aprender en 
-familia](https://etheriamagazine.com/2019/12/18/planes-familiares-en-barcelona-y-tarragona-turismo-industrial/). 
+artículo: {{< reflink 
+path=posts/2019/12/planes-familiares-en-barcelona-y-tarragona-turismo-industrial >}}. 
 
 Puedes ampliar información sobre qué ver en Tarragona en las páginas oficiales de 
 turismo de [Costa Daurada](https://costadaurada.info/es), [Terres de 
-l'Ebre](https://terresdelebre.travel/es) o [Tarragona](https://www.tarragonaturisme.cat/es). 
+l'Ebre](https://terresdelebre.travel/es) o 
+[Tarragona](https://www.tarragonaturisme.cat/es). 
 
 \*Fotos cedidas por Turismo de Tarragona (capital) y otros organismos mencionados en los 
 copyrights.

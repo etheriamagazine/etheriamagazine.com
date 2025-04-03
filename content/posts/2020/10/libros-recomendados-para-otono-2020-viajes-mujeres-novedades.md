@@ -1,7 +1,7 @@
 ---
 title: "Libros que invitan a quedarse en casa"
 date: 2020-10-01
-coverImage: https://fotos.etheriamagazine.com/2020/09/novedades-editoriales-2020.jpg
+cover: https://fotos.etheriamagazine.com/2020/09/novedades-editoriales-2020.jpg
 categories: 
   - cultura
   - ocio
@@ -137,7 +137,8 @@ la igualdad de la mujer no es algo nuevo. Editado por Principal Historia ([en Am
 A los amantes de la novela histórica les recomendamos, si no la han leído todavía, ‘Y 
 Julia retó a los dioses’, de Santiago Posteguillo, un gran divulgador de la Antigua 
 Roma. Su autor ya nos presentó en ‘Yo, Julia’, a la protagonista, Julia, mujer del 
-emperador Septimio Severo. Puedes leer las primeras páginas en este [enlace](https://static0planetadelibroscom.cdnstatics.com/libros_contenido_extra/43/42519_1_Y_Julia_reto_a_los_dioses.pdf). 
+emperador Septimio Severo. Puedes leer las primeras páginas en este 
+[enlace](https://static0planetadelibroscom.cdnstatics.com/libros_contenido_extra/43/42519_1_Y_Julia_reto_a_los_dioses.pdf). 
 
 Editado por Planeta ([edición electrónica, 10,44 €, y en papel, 21,75 
 €](https://amzn.to/3jeAIvD)) 

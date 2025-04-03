@@ -1,7 +1,7 @@
 ---
 title: "Seis museos de París para recorrer en tu segunda visita"
 date: 2024-01-29
-coverImage: https://fotos.etheriamagazine.com/2024/01/paris-museo-orangerie.jpg
+cover: https://fotos.etheriamagazine.com/2024/01/paris-museo-orangerie.jpg
 categories: 
   - inspiración
   - cultura
@@ -21,15 +21,14 @@ esta ciudad a la que es imposible que no quieras volver una y otra vez.
 ![Joven en el Museo de la Orangerie de París](https://fotos.etheriamagazine.com/2024/01/paris-museo-orangerie-joven.jpg "Joven en el Museo de la Orangerie. © Michele Bergami.")
 
 Es muy probable que, si viajas por primera vez a París, incluyas en tu visita los museos 
-del Louvre y d’Orsay, los más famosos y visitados (no te pierdas nuestro artículo [El 
-Museo del Louvre en dos horas, un viaje exprés por el 
-arte](https://etheriamagazine.com/2023/08/08/que-ver-museo-louvre-en-2-horas/)). No es 
-de extrañar, ya que albergan algunas de las obras maestras más famosas del arte mundial, 
-pero París es una ciudad volcada a la cultura, como muestra su amplia oferta de museos 
-de todo tipo. En este artículo hemos seleccionado seis que nos encantan y que, si eres 
-una gran amante del arte, puedes incluir también en esa primera visita a la Ciudad de la 
-Luz, pero que son perfectos para dar un toque cultural a tu viaje cuando vuelvas a 
-París, que seguro que lo haces. 
+del Louvre y d’Orsay, los más famosos y visitados (no te pierdas nuestro artículo {{< 
+reflink path=posts/2023/08/que-ver-museo-louvre-en-2-horas >}}). No es de extrañar, ya 
+que albergan algunas de las obras maestras más famosas del arte mundial, pero París es 
+una ciudad volcada a la cultura, como muestra su amplia oferta de museos de todo tipo. 
+En este artículo hemos seleccionado seis que nos encantan y que, si eres una gran amante 
+del arte, puedes incluir también en esa primera visita a la Ciudad de la Luz, pero que 
+son perfectos para dar un toque cultural a tu viaje cuando vuelvas a París, que seguro 
+que lo haces. 
 
 ## Centro Georges Pompidou
 
@@ -128,8 +127,6 @@ Orangerie](https://www.civitatis.com/es/paris/entrada-museo-orangerie/?aid=10211
 
 **También te puede interesar:** 
 
-[París con amigas, diez planes para una escapada 
-perfecta](https://etheriamagazine.com/2023/06/16/planes-paris-con-amigas/) 
+{{< reflink path=posts/2023/06/planes-paris-con-amigas >}} 
 
-[Qué hacer en París si viajas 
-sola](https://etheriamagazine.com/2019/05/15/viajar-sola-que-ver-paris/)
+{{< reflink path=posts/2019/05/viajar-sola-que-ver-paris >}}

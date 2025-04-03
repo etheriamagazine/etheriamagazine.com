@@ -1,7 +1,7 @@
 ---
 title: "Gambia, un destino exótico y seguro para mujeres que viajan solas"
 date: 2018-11-07
-coverImage: https://fotos.etheriamagazine.com/2018/10/viaje-gambia-La-cocina-de-Ida-Cham-e1563899251767.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/viaje-gambia-La-cocina-de-Ida-Cham-e1563899251767.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -205,11 +205,9 @@ información sobre muchos destinos de aventura.
 
 ### También en África
 
-[MdjemAfrica, mujeres que viajan en grupo para 
-bailar](https://etheriamagazine.com/2022/05/25/mdjemafrica-viajes-mujeres-baile/). 
+{{< reflink path=posts/2022/05/mdjemafrica-viajes-mujeres-baile >}}. 
 
-[‘Memorias de África’ más allá de Robert Redford y Meryl 
-Streep](https://etheriamagazine.com/2020/10/12/final-real-memorias-de-africa-baronesa-blixen-beryl-markham/). 
+{{< reflink 
+path=posts/2020/10/final-real-memorias-de-africa-baronesa-blixen-beryl-markham >}}. 
 
-[5 grandes viajes a África con los que 
-soñar](https://etheriamagazine.com/2019/08/09/5-viajes-para-comenzar-a-conocer-africa/)
+{{< reflink path=posts/2019/08/5-viajes-para-comenzar-a-conocer-africa >}}

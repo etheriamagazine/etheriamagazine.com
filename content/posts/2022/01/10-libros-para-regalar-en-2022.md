@@ -1,7 +1,7 @@
 ---
 title: "10 libros para regalar y quedar fenomenal"
 date: 2022-01-05
-coverImage: https://fotos.etheriamagazine.com/2022/01/portada-libros-2022.jpg
+cover: https://fotos.etheriamagazine.com/2022/01/portada-libros-2022.jpg
 categories: 
   - compras
   - cultura
@@ -12,25 +12,25 @@ authors:
   - Redacción Etheria
 ---
 
-Libros de viajes, de historia, de pintura, de mujeres, para reflexionar... Hay tantas 
+**Libros de viajes, de historia, de pintura, de mujeres, para reflexionar... Hay tantas 
 novedades editoriales con las que sorprender a las amistades que cuesta decidir cuál es 
 la más idónea para regalar. Hemos seleccionado diez títulos que nos han gustado y que te 
 pueden servir de orientación si no lo tienes claro o quieres autorregalarte algo 
-interesante este año. 
+interesante este año.** 
 
 ![libros 2022 viva corea anaya](https://fotos.etheriamagazine.com/2022/01/vive-corea-anaya.jpg "Vive Corea, de Anaya Touring.")
 
 ## 1\. 'Vive Corea', para amigas viajeras
 
-[Corea del Sur](https://etheriamagazine.com/2021/01/14/que-ver-hacer-en-corea-del-sur/) 
-ha pasado de ser un destino desconocido a convertirse en uno de los más codiciados 
-gracias a la música y al cine. Si tienes interés en conocer en profundidad su historia, 
-cultura, lugares imprescindibles, curiosidades sociales y muchos otros datos, no dejes 
-de consultar _Vive Corea_. Esta obra, escrita por Soo Kim, no sólo es una lectura 
-agradable sino que cuenta con fotografías e ilustraciones que lo convierten en un regalo 
-idóneo para viajeras empedernidas. Si en lugar de Corea, te atrae más el país nipón 
-también puedes optar por ‘[Japón en imágenes](https://amzn.to/32P03Jx)’, con datos 
-curiosos y numerosas fotografías. 
+{{< reflink path=posts/2021/01/que-ver-hacer-en-corea-del-sur >}} ha pasado de ser un 
+destino desconocido a convertirse en uno de los más codiciados gracias a la música y al 
+cine. Si tienes interés en conocer en profundidad su historia, cultura, lugares 
+imprescindibles, curiosidades sociales y muchos otros datos, no dejes de consultar _Vive 
+Corea_. Esta obra, escrita por Soo Kim, no sólo es una lectura agradable sino que cuenta 
+con fotografías e ilustraciones que lo convierten en un regalo idóneo para viajeras 
+empedernidas. Si en lugar de Corea, te atrae más el país nipón también puedes optar por 
+‘[Japón en imágenes](https://amzn.to/32P03Jx)’, con datos curiosos y numerosas 
+fotografías. 
 
 Editado por Anaya Touring, desde 24,95 euros. 
 
@@ -136,9 +136,10 @@ La autora de esta obra, Manena Munar, nos lleva a Filipinas, país donde residi�
 muchos años, para sacar a la luz las hazañas de veinte mujeres. Por distintas 
 circunstancias y debido al azar del destino, todas ellas recalaron en el país de las 
 siete mil islas y pusieron su granito de arena para crear proyectos con los que mejorar 
-la vida de las mujeres y de la población local filipina en general. Puedes leer la [entrevista 
-a la autora en ‘Todos los caminos llevan a Filipinas. Un libro de mujeres 
-extraordinarias’](https://etheriamagazine.com/2020/12/11/todos-los-caminos-llevan-a-filipinas-un-libro-de-mujeres-extraordinarias/). 
+la vida de las mujeres y de la población local filipina en general. Puedes leer la {{< 
+reflink 
+path=posts/2020/12/todos-los-caminos-llevan-a-filipinas-un-libro-de-mujeres-extraordinarias 
+>}}. 
 
 Editado por Casiopea. 
 

@@ -1,7 +1,7 @@
 ---
 title: "Los mejores planes con niños en Barcelona"
 date: 2018-10-24
-coverImage: https://fotos.etheriamagazine.com/2018/10/viaje-familia-barcelona-golondrinas.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/viaje-familia-barcelona-golondrinas.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Yvonne Solé
 ---
 
-Cosmopolita, moderna, a la vanguardia del diseño y abierta al mar. Barcelona es ideal 
+**Cosmopolita, moderna, a la vanguardia del diseño y abierta al mar. Barcelona es ideal 
 para una escapada, especialmente con los más pequeños de la casa, una cualidad avalada 
 por Unicef en 2007 que la reconoció como Ciudad Amiga de la Infancia debido a su amplio 
 abanico de propuestas lúdicas y culturales. Te proponemos los mejores planes con niños 
-en Barcelona para descubrirla en familia. 
+en Barcelona para descubrirla en familia.** 
 
 ![paseo en barco por Barcelona](https://fotos.etheriamagazine.com/2018/10/viaje-familia-barcelona-golondrinas.jpg "Las Golondrinas son las embarcaciones históricas que navegan por la costa barcelonesa.")
 
@@ -154,7 +154,8 @@ muestra la historia del club.
 
 ## Ahorrarás con la Barcelona Card en los viajes familiares
 
-Si sois muy activos y queréis verlo TODO sin que os cueste un riñón, la tarjeta [Barcelona 
+Si sois muy activos y queréis verlo TODO sin que os cueste un riñón, la tarjeta 
+[Barcelona 
 Card](https://bcnshop.barcelonaturisme.com/shopv3/es/product/1/barcelona-card.html) va a 
 ser vuestra mejor aliada. La Sagrada Familia, la Pedrera, la casa Batlló, las 
 Golondrinas, el Zoo de Barcelona y el Museu Nacional d’Art de Catalunya son sólo algunos 
@@ -258,8 +259,6 @@ Fotos: Félix Lorenzo
 
 📌 **También te puede interesar:** 
 
-[10 planes originales para hacer con amigas en 
-Barcelona](https://etheriamagazine.com/2021/03/10/10-planes-originales-con-amigas-en-barcelona/) 
+{{< reflink path=posts/2021/03/10-planes-originales-con-amigas-en-barcelona >}} 
 
-[Barcelona con amigas: visitas, compras y los mejores 
-restaurantes](https://etheriamagazine.com/2019/03/12/guia-que-ver-hacer-dormir-barcelona-con-amigas/)
+{{< reflink path=posts/2019/03/guia-que-ver-hacer-dormir-barcelona-con-amigas >}}

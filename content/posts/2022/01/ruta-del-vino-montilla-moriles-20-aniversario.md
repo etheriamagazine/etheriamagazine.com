@@ -1,7 +1,7 @@
 ---
 title: "Ruta del Vino Montilla-Moriles, 20 años brindando en el corazón de Andalucía"
 date: 2022-01-11
-coverImage: https://fotos.etheriamagazine.com/2022/01/montilla-moriles-vinedos.jpg
+cover: https://fotos.etheriamagazine.com/2022/01/montilla-moriles-vinedos.jpg
 categories: 
   - gourmet
 destino: 
@@ -45,13 +45,13 @@ Santaella.
 Adentrarse en la Ruta del Vino Montilla-Moriles permite disfrutar de un extraordinario 
 legado cultural, histórico, arquitectónico, artístico y etnográfico. Por el territorio 
 de esta ruta también transcurren otros itinerarios como la _**Ruta del Califato**, la 
-Ruta Bética Romana, la Ruta del Renacimiento, la [Ruta de Caminos de 
-Pasión](https://etheriamagazine.com/2019/12/06/caminos-pasion-ruta-10-pueblos-de-andalucia/), 
-la Ruta del Aceite de Oliva de Córdoba, Camino de Santiago Mozárabe o la Ruta de los 
-Territorios Flamencos_. Esto nos da idea de la riqueza inigualable de la Ruta del Vino 
-Montilla Moriles, donde la tradición artesanal mantiene vivos antiguos oficios como 
-cerámica, joyería, orfebrería.., o vinculados al mundo del vino, como la **tonelería** y 
-la **hojalatería**. 
+Ruta Bética Romana, la Ruta del Renacimiento, la {{< reflink 
+path=posts/2019/12/caminos-pasion-ruta-10-pueblos-de-andalucia >}}, la Ruta del Aceite 
+de Oliva de Córdoba, Camino de Santiago Mozárabe o la Ruta de los Territorios 
+Flamencos_. Esto nos da idea de la riqueza inigualable de la Ruta del Vino Montilla 
+Moriles, donde la tradición artesanal mantiene vivos antiguos oficios como cerámica, 
+joyería, orfebrería.., o vinculados al mundo del vino, como la **tonelería** y la 
+**hojalatería**. 
 
 ![tren turistico lagar el monte montilla moriles](https://fotos.etheriamagazine.com/2022/01/Tren-turistico-Lagar-El-Monte.jpg "Tren turístico de las Bodegas Lagar El Monte.")
 
@@ -139,11 +139,8 @@ España](https://wineroutesofspain.com/).
 
 ### También en Etheria Magazine
 
-[Andalucía en autocaravana y consejos prácticos para 
-novatos](https://etheriamagazine.com/2021/04/07/consejos-rutas-andalucia-en-autocaravana/). 
+{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}. 
 
-[Siete emocionantes experiencias para conectar con 
-Andalucía](https://etheriamagazine.com/2021/07/16/experiencias-para-conectar-con-andalucia/). 
+{{< reflink path=posts/2021/07/experiencias-para-conectar-con-andalucia >}}. 
 
-[Ruta del Vino de la Sierra de Francia, un brindis en 
-Salamanca](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/).
+{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}.

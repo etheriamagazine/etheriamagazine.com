@@ -1,7 +1,7 @@
 ---
 title: "Córdoba con amigas: 10 planes para una escapada perfecta"
 date: 2021-08-25
-coverImage: https://fotos.etheriamagazine.com/2021/08/cordoba-alcazar-reyes-cristianos.jpg
+cover: https://fotos.etheriamagazine.com/2021/08/cordoba-alcazar-reyes-cristianos.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -68,7 +68,8 @@ encuentran disponibles los horarios y precios. También podéis reservar una [vi
 guiada con 
 Civitatis](https://www.civitatis.com/es/cordoba/visita-guiada-alcazar-cordoba/?aid=10211), 
 perfecta para descubrir todas las leyendas que rodean a este lugar lleno de historia. O 
-combinar en una misma visita la Mezquita y el Alcázar, también con [Civitatis](https://www.civitatis.com/es/cordoba/visita-guiada-mezquita-alcazar/?aid=10211). 
+combinar en una misma visita la Mezquita y el Alcázar, también con 
+[Civitatis](https://www.civitatis.com/es/cordoba/visita-guiada-mezquita-alcazar/?aid=10211). 
 
 ## Una excursión a Medina Azahara
 
@@ -119,10 +120,11 @@ torre de la catedral al fondo.
 ![Patio cordobés.](https://fotos.etheriamagazine.com/2021/08/Cordoba-Patio-Cordobes.jpg "Patio cordobés. © Turismo de Andalucía")
 
 Podéis consultar los que están abiertos en la [página web de Turismo de 
-Córdoba](https://www.turismodecordoba.org/visitar-patios-de-cordoba-1) o apuntaros a una [visita 
-guiada por los 
-patios](https://www.civitatis.com/es/cordoba/visita-guiada-patios-cordoba/?aid=10211) o [comprar 
-la entrada](https://www.civitatis.com/es/cordoba/entrada-patios-cordoba/?aid=10211) para 
+Córdoba](https://www.turismodecordoba.org/visitar-patios-de-cordoba-1) o apuntaros a una 
+[visita guiada por los 
+patios](https://www.civitatis.com/es/cordoba/visita-guiada-patios-cordoba/?aid=10211) o 
+[comprar la 
+entrada](https://www.civitatis.com/es/cordoba/entrada-patios-cordoba/?aid=10211) para 
 verlos a vuestro aire. 
 
 ## Una visita del Palacio de Viana
@@ -174,12 +176,11 @@ los [Baños Árabes de Córdoba](https://xn--baosarabesdecordoba-w3b.com/).
 Córdoba sabe a salmorejo, a flamenquines, a rabo de toro, a berenjenas con miel y a 
 muchos más productos y platos deliciosos que te sorprenderán en sus restaurantes. Para 
 elegir algunos de la variada oferta de esta ciudad nos dejamos aconsejar por nuestra 
-colaboradora Macarena Escrivá que en su artículo [Córdoba, el maridaje perfecto entre 
-historia y 
-gastronomía](https://etheriamagazine.com/2019/03/25/viaje-amigas-que-comer-dormir-cordoba/) 
-nos recomendaba algunos locales emblemáticos como el clásico **Casa Pepe de la 
-Judería**, el restaurante **Recomiendo** del chef Periko Ortega o las propuestas de la 
-gastronomía andalusí de **Noor**. 
+colaboradora Macarena Escrivá que en su artículo {{< reflink 
+path=posts/2019/03/viaje-amigas-que-comer-dormir-cordoba >}} nos recomendaba algunos 
+locales emblemáticos como el clásico **Casa Pepe de la Judería**, el restaurante 
+**Recomiendo** del chef Periko Ortega o las propuestas de la gastronomía andalusí de 
+**Noor**. 
 
 ![Escapada a Córdoba, viaje gourmet, gastronomía, 48 horas en Córdoba, viaje en pareja, viajes con historia, restaurante de Cordoba](https://fotos.etheriamagazine.com/2019/03/Cordoba-gastronomia-Berenjenas-con-miel-.jpg "Las berenjenas con miel son típicas de la gastronomía cordobesa.")
 
@@ -200,11 +201,8 @@ Córdoba](https://www.civitatis.com/es/cordoba/espectaculo-flamenco/?aid=10211).
 
 **Más viajes con amigas en Etheria Magazine:** 
 
-[10 planes para un viaje a Tenerife con 
-amigas](https://etheriamagazine.com/2021/05/17/viaje-a-tenerife-con-amigas-que-hacer-excursiones/) 
+{{< reflink path=posts/2021/05/viaje-a-tenerife-con-amigas-que-hacer-excursiones >}} 
 
-[Un fin de semana en Málaga con 
-amigas](https://etheriamagazine.com/2021/05/03/fin-de-semana-con-amigas-en-malaga/) 
+{{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}} 
 
-[10 planes originales en Salamanca para hacer con 
-amigas](https://etheriamagazine.com/2021/03/31/planes-en-salamanca-con-amigas/)
+{{< reflink path=posts/2021/03/planes-en-salamanca-con-amigas >}}

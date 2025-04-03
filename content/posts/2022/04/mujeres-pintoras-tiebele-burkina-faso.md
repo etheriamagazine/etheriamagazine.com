@@ -1,7 +1,7 @@
 ---
 title: "Tiébélé, el pueblo burkinés pintado sólo por mujeres"
 date: 2022-04-11
-coverImage: https://fotos.etheriamagazine.com/2022/04/tiebele-calles-Burkina-Faso.jpg
+cover: https://fotos.etheriamagazine.com/2022/04/tiebele-calles-Burkina-Faso.jpg
 destino: 
   - Mundo
 authors: 
@@ -172,7 +172,8 @@ _trekking_.
 ##### Qué documentos necesito para viajar a Burkina Faso
 
 Pasaporte con validez mínima de 6 meses. La tramitación del visado es mejor hacerla a 
-través del Consulado en París. Contacta por [email](mailto:service.consulaire@ambaburkina-fr.org). 
+través del Consulado en París. Contacta por 
+[email](mailto:service.consulaire@ambaburkina-fr.org). 
 
 ![Una niña junto a su casa pintada de Tiebele](https://fotos.etheriamagazine.com/2022/04/tiebele-nina.jpg "La tradición de pintar las casas tras la época de lluvias se remonta siglos atrás. © Pedro Grifol")
 
@@ -196,11 +197,8 @@ Ministerio de la Cultura y las Artes.
 
 ### Otros viajes que te pueden interesar
 
-[El lago Turkana, un viaje a Kenia que cambiará tu percepción del 
-mundo](https://etheriamagazine.com/2020/02/07/viaje-a-kenia-etnias-del-lago-turkana/). 
+{{< reflink path=posts/2020/02/viaje-a-kenia-etnias-del-lago-turkana >}}. 
 
-[Mujeres de Tanzania, el turismo como herramienta de 
-empoderamiento](https://etheriamagazine.com/2022/03/07/empoderar-con-el-turismo-mujeres-de-tanzania/). 
+{{< reflink path=posts/2022/03/empoderar-con-el-turismo-mujeres-de-tanzania >}}. 
 
-[5 grandes viajes a África con los que 
-soñar](https://etheriamagazine.com/2019/08/09/5-viajes-para-comenzar-a-conocer-africa/).
+{{< reflink path=posts/2019/08/5-viajes-para-comenzar-a-conocer-africa >}}.

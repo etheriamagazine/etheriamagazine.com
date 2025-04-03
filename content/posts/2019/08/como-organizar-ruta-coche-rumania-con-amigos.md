@@ -1,7 +1,7 @@
 ---
 title: "Ruta en coche por Rumanía bien organizada"
 date: 2019-08-02
-coverImage: https://fotos.etheriamagazine.com/2019/07/2-rumania-aerea-transfagarasan.jpg
+cover: https://fotos.etheriamagazine.com/2019/07/2-rumania-aerea-transfagarasan.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -186,14 +186,14 @@ paso para llegar de vuelta a la capital.
 
 ## Qué ver en Bucarest
 
-Aterrizamos de nuevo en la capital rumana (\*Artículo: [3 días en 
-Bucarest)](https://etheriamagazine.com/2019/10/18/que-ver-en-bucarest-en-2-o-3-dias/), 
-esta vez para quedarnos al menos un par de días. La ciudad está situada en el sureste 
-del país y a orillas del río Dâmbovita, que desemboca en un afluente del Danubio, el 
-Arges. Su carácter fluvial, sus jardines y el conjunto de monumentos y edificios de 
-final del siglo XIX y primera mitad del XX hacen de **Bucarest** una urbe de una 
-singular belleza que muestra en cada una de calles la esperanza del cambio tras el 
-sufrimiento de las guerras mundiales y de la dictadura de Ceaucescu. 
+Aterrizamos de nuevo en la capital rumana (\*Artículo: {{< reflink 
+path=posts/2019/10/que-ver-en-bucarest-en-2-o-3-dias >}}, esta vez para quedarnos al 
+menos un par de días. La ciudad está situada en el sureste del país y a orillas del río 
+Dâmbovita, que desemboca en un afluente del Danubio, el Arges. Su carácter fluvial, sus 
+jardines y el conjunto de monumentos y edificios de final del siglo XIX y primera mitad 
+del XX hacen de **Bucarest** una urbe de una singular belleza que muestra en cada una de 
+calles la esperanza del cambio tras el sufrimiento de las guerras mundiales y de la 
+dictadura de Ceaucescu. 
 
 ? Freetour en Bucarest. Más [info y 
 reservas](https://www.civitatis.com/es/bucarest/free-tour-bucarest/?aid=10211), ideal 
@@ -284,11 +284,8 @@ cereza, manzana o incluso membrillo.
 
 ### También te puede interesar
 
-[9 viajes en coche para recorrer 
-Europa](https://etheriamagazine.com/2020/03/23/road-trips-por-europa-verano-viajes-en-coche/) 
+{{< reflink path=posts/2020/03/road-trips-por-europa-verano-viajes-en-coche >}} 
 
-[Trekking a Ushguli, la aldea habitada más alta de 
-Europa](https://etheriamagazine.com/2021/02/16/ruta-detallada-trekking-a-ushguli-georgia/) 
+{{< reflink path=posts/2021/02/ruta-detallada-trekking-a-ushguli-georgia >}} 
 
-[10 viajes con amigas por 
-Europa](https://etheriamagazine.com/2020/03/03/10-viajes-con-amigas-por-europa/)
+{{< reflink path=posts/2020/03/10-viajes-con-amigas-por-europa >}}

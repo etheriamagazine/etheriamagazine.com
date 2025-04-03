@@ -1,7 +1,7 @@
 ---
 title: "Ruta de Juego de Tronos en Irlanda del Norte"
 date: 2018-07-02
-coverImage: https://fotos.etheriamagazine.com/2018/05/3-Castle-Ward-Juego-de-Tronos-Irlanda-Norte.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/3-Castle-Ward-Juego-de-Tronos-Irlanda-Norte.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Pepa G. Marín
 ---
 
-Si eres un apasionado de la serie 'Juego de Tronos' te gustará conocer algunos de sus 
+**Si eres un apasionado de la serie 'Juego de Tronos' te gustará conocer algunos de sus 
 escenarios en Irlanda del Norte. Aunque son muchos más, aquí encontrarás 10 
-localizaciones que no te puedes perder. 
+localizaciones que no te puedes perder.** 
 
 ![La puerta nº10 de Juego de Tronos se encuentra en el Dark Horse Coffee House de Belfast.](https://fotos.etheriamagazine.com/2018/05/1-Puerta-Belfast-Juego-de-Tronos-Irlanda-Norte.jpg "La puerta nº10 de Juego de Tronos se encuentra en el Dark Horse Coffee House de Belfast.")
 

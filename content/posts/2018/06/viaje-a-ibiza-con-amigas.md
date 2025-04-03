@@ -1,7 +1,7 @@
 ---
 title: "10 errores que debes evitar si vas a Ibiza con amigas"
 date: 2018-06-25
-coverImage: https://fotos.etheriamagazine.com/2018/05/Ibiza-atardecer_Benirras_consell-e1551949129730.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Ibiza-atardecer_Benirras_consell-e1551949129730.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Nuria Cortés
 ---
 
-No lo vamos a negar. En cuanto llega el buen tiempo y alguna del grupo propone una 
+**No lo vamos a negar. En cuanto llega el buen tiempo y alguna del grupo propone una 
 escapada a Ibiza con amigas, a todas nos falta tiempo para soltar una sonrisa y empezar 
 a imaginarnos tumbadas en la playa dispuestas a disfrutar del precioso paisaje 
-mediterráneo de la isla y del no menos interesante y entretenido 'paisanaje'. 
+mediterráneo de la isla y del no menos interesante y entretenido 'paisanaje'.** 
 
 ![Islote de Cap Bernat, perfecto para ver el atardecer en un viaje con amigas a Ibiza](https://fotos.etheriamagazine.com/2018/05/Ibiza-atardecer_Benirras_consell-e1551949129730.jpg "Islote de Cap Bernat, frente a cala Benirrás © Consell d'Eivissa")
 
@@ -67,9 +67,10 @@ En la ciudad de Ibiza encontraréis numerosas boutiques con propuestas de diseñ
 independientes nacionales e internacionales. Así que olvídate de entrar en las tiendas 
 de las multinacionales y explorad las **boutiques del barrio de La Marina** y de la 
 **vía principal de Dalt Vila,** el casco histórico de intramuros. ¿Alguna sugerencia? 
-Beatrice San Francisco, HoLaLa Vintage, reVOLVER, Vicente Ganesha e [Ibzcode](https://www.instagram.com/ibizacodepuerto/). 
-Y dentro del capítulo de los mercadillos jipis, no os perdáis el de **Las Dalias**, en 
-Sant Carles. ¡Os costará salir sin ninguna compra! 
+Beatrice San Francisco, HoLaLa Vintage, reVOLVER, Vicente Ganesha e 
+[Ibzcode](https://www.instagram.com/ibizacodepuerto/). Y dentro del capítulo de los 
+mercadillos jipis, no os perdáis el de **Las Dalias**, en Sant Carles. ¡Os costará salir 
+sin ninguna compra! 
 
 ## Error #6: olvidarse del spa
 
@@ -128,18 +129,16 @@ de los mejores ejemplos de iglesia fortaleza de la isla.
 **Excursiones y fiestas...** 
 
 [Excursión a Formentera desde 
-Ibiza](https://www.civitatis.com/es/ibiza/barco-ibiza-formentera/?aid=10211). 27 €. [Freetour 
-en Ibiza](https://www.civitatis.com/es/ibiza-ciudad/free-tour-ibiza/?aid=10211) desde 0 
-€. 
+Ibiza](https://www.civitatis.com/es/ibiza/barco-ibiza-formentera/?aid=10211). 27 €. 
+[Freetour en 
+Ibiza](https://www.civitatis.com/es/ibiza-ciudad/free-tour-ibiza/?aid=10211) desde 0 €. 
 
 **Sigue leyendo de Ibiza...** 
 
-[](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-playas-formentera/)[Ibiza 
-en invierno también merece una 
-escapada](https://etheriamagazine.com/2021/11/05/planes-viaje-a-ibiza-en-invierno/). 
+{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}{{< 
+reflink path=posts/2021/11/planes-viaje-a-ibiza-en-invierno >}}. 
 
-[20 restaurantes románticos de 
-Ibiza.](https://etheriamagazine.com/2020/02/14/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja/) 
+{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
+>}} 
 
-[Sant Josep de sa Talaia, diez razones para visitar este rincón 
-ibicenco](https://etheriamagazine.com/2022/02/18/que-ver-en-sant-josep-de-sa-talaia/).
+{{< reflink path=posts/2022/02/que-ver-en-sant-josep-de-sa-talaia >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Lugares originales donde practicar sexo en Noruega"
 date: 2019-02-16
-coverImage: https://fotos.etheriamagazine.com/2019/02/noruega-hoteles-romanticos-Tromso.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/noruega-hoteles-romanticos-Tromso.jpg
 categories: 
   - inspiración
   - hoteles
@@ -19,7 +19,7 @@ más natural que practicar sexo? Te proponemos 6 lugares donde nadie te molestar
 
 \[caption id="attachment\_7412" align="aligncenter" width="1000"\]![Lavvo on the Finnmark mountain plateau](https://fotos.etheriamagazine.com/2019/02/Noruega-hoteles-romanticos-tienda.jpg "Lavvo junto a la montaña de Finnmark.") Lavvo junto a la montaña de Finnmark. © CH-Visitnorway.com\[/caption\]
 
-En [Noruega](https://etheriamagazine.com/2018/12/13/razones-para-viajar-a-noruega/) no se andan con tonterías, ni baladas románticas ni bombones ni globos con forma de corazón, la recomendación que nos dan es que demos rienda suelta a nuestros instintos más básicos naturales. ¿Qué te parecería celebrar tu aniversario, ese San Valentín que no sabes si te gusta o no, o que acabas de conocer al hombre/ mujer de tu vida, en uno de estos rincones tan discretos?
+En {{< reflink path=posts/2018/12/razones-para-viajar-a-noruega >}} no se andan con tonterías, ni baladas románticas ni bombones ni globos con forma de corazón, la recomendación que nos dan es que demos rienda suelta a nuestros instintos más básicos naturales. ¿Qué te parecería celebrar tu aniversario, ese San Valentín que no sabes si te gusta o no, o que acabas de conocer al hombre/ mujer de tu vida, en uno de estos rincones tan discretos?
 
 Los noruegos han recopilado 6 lugares o entornos que consideran ideales para practicar sexo. Y la OMS asegura que **el sexo es fuente de salud**. Como seguro que sois tan rigurosas como nosotras, os invitamos a comprobarlo liberando endorfinas. ¡Quién no querría estar sano! Sigue leyendo y elige qué estilo de alojamiento va más con tu personalidad.
 

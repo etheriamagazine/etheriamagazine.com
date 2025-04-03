@@ -1,7 +1,7 @@
 ---
 title: "Ruta de Lorca en Granada, un paseo por sus lugares más íntimos"
 date: 2020-10-07
-coverImage: https://fotos.etheriamagazine.com/2020/09/Granada-Lorca-museo.jpg
+cover: https://fotos.etheriamagazine.com/2020/09/Granada-Lorca-museo.jpg
 categories: 
   - ocio
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pilar Ortega
 ---
 
-La casa familiar del poeta, el instituto donde no daba pie con bola, el Café Alameda, la 
-vivienda de “la zapatera prodigiosa”, la casa de Manuel de Falla o el patio de los 
+**La casa familiar del poeta, el instituto donde no daba pie con bola, el Café Alameda, 
+la vivienda de “la zapatera prodigiosa”, la casa de Manuel de Falla o el patio de los 
 Aljibes de la Alhambra… Seguimos los pasos de Federico por su ciudad natal para conocer 
-los lugares que marcaron su vida y su obra. 
+los lugares que marcaron su vida y su obra.** 
 
 ![Museo Casa Natal de Federico García Lorca en Fuente Vaqueros.](https://fotos.etheriamagazine.com/2020/09/Granada-Lorca-museo.jpg "Museo Casa Natal de Federico García Lorca en Fuente Vaqueros.")
 
@@ -30,12 +30,12 @@ vecina Valderrubio.
 ## La Huerta de San Vicente
 
 Seguimos los pasos del poeta por su tierra, por esa Granada donde, según él, “las horas 
-son más largas y sabrosas que en ninguna otra ciudad de España”. Y comenzamos por la [Huerta 
-de San Vicente](http://www.huertadesanvicente.com), el espacio donde un día estuvo la 
-finca de veraneo de la familia y donde el joven Federico pasó los veranos desde 1926 a 
-1936 y que hoy está integrado en el **parque público García Lorca**. Aquí el poeta 
-escribió algunas de sus obras más importantes, como _Así que pasen cinco años_ (1931), 
-_Bodas de sangre_ (1932), _Yerma_ (1934) o _Diván del Tamarit_ (1931-36). 
+son más largas y sabrosas que en ninguna otra ciudad de España”. Y comenzamos por la 
+[Huerta de San Vicente](http://www.huertadesanvicente.com), el espacio donde un día 
+estuvo la finca de veraneo de la familia y donde el joven Federico pasó los veranos 
+desde 1926 a 1936 y que hoy está integrado en el **parque público García Lorca**. Aquí 
+el poeta escribió algunas de sus obras más importantes, como _Así que pasen cinco años_ 
+(1931), _Bodas de sangre_ (1932), _Yerma_ (1934) o _Diván del Tamarit_ (1931-36). 
 
 ![Interior de la casa de Lorca en la Huerta de San Vicente.](https://fotos.etheriamagazine.com/2020/09/Granada-Lorca-huerta-san-vicente.jpg "Interior de la casa de Lorca en la Huerta de San Vicente.")
 
@@ -155,26 +155,22 @@ Fotografías cedidas por [www.universolorca.com](http://www.universolorca.com)
 
 📍**También te puede interesar...** 
 
-[Recorrido cultural por el Albaicín y La 
-Alhambra](https://etheriamagazine.com/2020/05/29/48-horas-en-el-albayzin-y-la-alhambra/). 
+{{< reflink path=posts/2020/05/48-horas-en-el-albayzin-y-la-alhambra >}}. 
 
-[Granada, el privilegio de la buena 
-mesa](https://etheriamagazine.com/2020/10/30/restaurantes-bares-de-granada-y-visitas-para-mujeres/) 
+{{< reflink path=posts/2020/10/restaurantes-bares-de-granada-y-visitas-para-mujeres >}} 
 
-[Tadeo Jones en Granada, un viaje de cine en 
-familia](https://etheriamagazine.com/2020/11/22/tadeo-jones-ruta-de-cine-en-granada/). 
+{{< reflink path=posts/2020/11/tadeo-jones-ruta-de-cine-en-granada >}}. 
 
-[Cómo visitar La 
-Alhambra](https://etheriamagazine.com/2021/10/25/consejos-para-visitar-la-alhambra/). 
+{{< reflink path=posts/2021/10/consejos-para-visitar-la-alhambra >}}. 
 
 📍**Visitas guiadas en Granada** 
 
 Si es la primera vez que visitas Granada te pueden interesar estas visitas: [Free tour 
 nocturno en 
-Granada](https://www.civitatis.com/es/granada/free-tour-nocturno-granada/?aid=10211), [Free 
-tour por el 
+Granada](https://www.civitatis.com/es/granada/free-tour-nocturno-granada/?aid=10211), 
+[Free tour por el 
 Albaicín](https://www.civitatis.com/es/granada/free-tour-albaicin/?aid=10211), [Visita 
 guiada por La Alhambra y los Palacios 
 Nazaríes](https://www.civitatis.com/es/granada/visita-guiada-alhambra/?aid=10211)[...](https://www.civitatis.com/es/granada/?aid=10211) 
 
-•
+-

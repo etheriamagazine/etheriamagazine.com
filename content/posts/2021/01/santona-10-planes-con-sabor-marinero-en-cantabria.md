@@ -1,7 +1,7 @@
 ---
 title: "10 motivos convincentes para visitar Santoña (además de sus anchoas)"
 date: 2021-01-20
-coverImage: https://fotos.etheriamagazine.com/2021/01/arte-urbano-santona-cantabria.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/arte-urbano-santona-cantabria.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -25,8 +25,7 @@ santoñesa. Se hace imborrable en la memoria su sabor salado al catar sus afamad
 **anchoas**, que conviene atesorar como recuerdo viajero y revivir la esencia marina 
 santoñesa de vuelta en casa. 
 
-**No te pierdas**: [15 lugares imprescindibles adonde ir en 
-Cantabria](https://etheriamagazine.com/2022/09/05/que-ver-en-cantabria/). 
+**No te pierdas**: {{< reflink path=posts/2022/09/que-ver-en-cantabria >}}. 
 
 ![Camino vertiginoso para llegar al faro del Caballo, en Santoña.](https://fotos.etheriamagazine.com/2021/01/faro-el-pescador-santona-cantabria.jpg "Camino vertiginoso para llegar al faro del Caballo, en Santoña.")
 
@@ -160,11 +159,9 @@ Cantábrico y el perfil montaraz del Buciero.
 
 **Para seguir leyendo sobre Cantabria:** 
 
-[Lugares sorprendentes de Cantabria que aún no 
-conoces](https://etheriamagazine.com/2020/06/05/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original/) 
+{{< reflink 
+path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}} 
 
-[Ruta por los mejores faros de 
-Cantabria](https://etheriamagazine.com/2020/05/18/viaje-a-los-mejores-faros-de-cantabria/) 
+{{< reflink path=posts/2020/05/viaje-a-los-mejores-faros-de-cantabria >}} 
 
-[10 poderosas razones para visitar Valderredible, el sur de 
-Cantabria](https://etheriamagazine.com/2019/08/26/que-ver-valderredible-cantabria/)
+{{< reflink path=posts/2019/08/que-ver-valderredible-cantabria >}}

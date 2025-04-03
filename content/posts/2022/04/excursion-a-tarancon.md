@@ -1,7 +1,7 @@
 ---
 title: "Visita Tarancón para probar el mejor chuletón del mundo"
 date: 2022-04-27
-coverImage: https://fotos.etheriamagazine.com/2022/04/chuleton-restaurante-essentia-1.jpg
+cover: https://fotos.etheriamagazine.com/2022/04/chuleton-restaurante-essentia-1.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Yolanda Cardo
 ---
 
-Hacer una excursión a Tarancón para comer el "mejor chuletón del mundo" es un motivo más 
-que justificado. Pero si, además, se añaden visitas a Segóbriga, las Caras de Buendía, 
-Ocaña y el monasterio de Uclés, se convierte en una escapada redonda a menos de una hora 
-de Madrid. 
+**Hacer una excursión a Tarancón para comer el "mejor chuletón del mundo" es un motivo 
+más que justificado. Pero si, además, se añaden visitas a Segóbriga, las Caras de 
+Buendía, Ocaña y el monasterio de Uclés, se convierte en una escapada redonda a menos de 
+una hora de Madrid.** 
 
 ![Panorámica aérea de Tarancón.](https://fotos.etheriamagazine.com/2022/04/Vista-Tarancon.jpg "Panorámica aérea de Tarancón. ©Ayto. de Tarancón")
 
@@ -160,11 +160,10 @@ este hermoso entorno. Las vistas al atardecer son espectaculares, no os las perd
 
 ### También te puede interesar...
 
-[13 excursiones en Cuenca para descubrir los tesoros de la 
-provincia.](https://etheriamagazine.com/2020/06/04/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca/) 
+{{< reflink 
+path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+>}} 
 
-[Ruta de los Mimbres de Cuenca, belleza roja sin 
-artificios.](https://etheriamagazine.com/2020/01/15/que-ver-hacer-ruta-mimbre-cuenca/) 
+{{< reflink path=posts/2020/01/que-ver-hacer-ruta-mimbre-cuenca >}} 
 
-[Turismo rural con niños en la Serranía Alta de 
-Cuenca.](https://etheriamagazine.com/2019/11/29/turismo-rural-familiar-con-ninos-en-serrania-cuenca/)
+{{< reflink path=posts/2019/11/turismo-rural-familiar-con-ninos-en-serrania-cuenca >}}

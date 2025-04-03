@@ -1,7 +1,7 @@
 ---
 title: "El Lodge Ski & Spa, un hotel boutique de lujo en Sierra Nevada"
 date: 2020-11-12
-coverImage: https://fotos.etheriamagazine.com/2020/11/hotel-sierra-nevada-el-lodge-piscina.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/hotel-sierra-nevada-el-lodge-piscina.jpg
 categories: 
   - hoteles
 destino: 
@@ -100,16 +100,14 @@ pequeños son a demanda.
 
 ## Qué visitar desde Sierra Nevada
 
-Si te gusta combinar el deporte con las visitas turísticas, debes saber que [Granada](http://www.granadatur.com/) 
-se encuentra a sólo 38 kilómetros, por lo que te recomendamos acudir al menos un día 
-para disfrutar de [La Alhambra, el 
-Albaicín](https://etheriamagazine.com/2020/05/29/48-horas-en-el-albayzin-y-la-alhambra/) 
-y sus mejores restaurantes (no te pierdas las recomendaciones gastronómicas de [“Granada, 
-el privilegio de la buena 
-mesa”](https://etheriamagazine.com/2020/10/30/restaurantes-bares-de-granada-y-visitas-para-mujeres/)). 
-Y si aún te queda tiempo libre, la [ruta de García Lorca en 
-Granada](https://etheriamagazine.com/2020/10/07/ruta-cultural-granada-de-garcia-lorca/) 
-es sumamente interesante. 
+Si te gusta combinar el deporte con las visitas turísticas, debes saber que 
+[Granada](http://www.granadatur.com/) se encuentra a sólo 38 kilómetros, por lo que te 
+recomendamos acudir al menos un día para disfrutar de {{< reflink 
+path=posts/2020/05/48-horas-en-el-albayzin-y-la-alhambra >}} y sus mejores restaurantes 
+(no te pierdas las recomendaciones gastronómicas de {{< reflink 
+path=posts/2020/10/restaurantes-bares-de-granada-y-visitas-para-mujeres >}}). Y si aún 
+te queda tiempo libre, la {{< reflink 
+path=posts/2020/10/ruta-cultural-granada-de-garcia-lorca >}} es sumamente interesante. 
 
 ##### Más información
 

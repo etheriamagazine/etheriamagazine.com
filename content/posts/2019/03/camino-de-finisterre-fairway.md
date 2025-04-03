@@ -1,7 +1,7 @@
 ---
 title: "El Camino de Finisterre: plan de fuga a los misterios del fin del mundo"
 date: 2019-03-06
-coverImage: https://fotos.etheriamagazine.com/2019/02/Mujeres-camino-santiago.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/Mujeres-camino-santiago.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Kelu Robles
 ---
 
-Lleva siglos obsesionando a celtas, romanos y cristianos de Europa. Ahora peregrinos de 
-todo el planeta descubren en el _Finis Terrae_ mucho más que un epílogo de la ruta 
+**Lleva siglos obsesionando a celtas, romanos y cristianos de Europa. Ahora peregrinos 
+de todo el planeta descubren en el _Finis Terrae_ mucho más que un epílogo de la ruta 
 jacobea. Si tú también te estás planteando esta aventura, ten mucha precaución, ¡dicen 
-que engancha! 
+que engancha!** 
 
 ![Kilómetro Cero del Camino de Finisterre en Galicia.](https://fotos.etheriamagazine.com/2019/02/Mujeres-camino-santiago.jpg "Kilómetro Cero del Camino de Finisterre en Galicia. © Kelu Robles")
 
@@ -218,11 +218,8 @@ pregunta?
 
 **También te puede interesar...** 
 
-[Descubre la belleza de la provincia de Lugo en 15 
-paradas](https://etheriamagazine.com/2023/04/06/pueblos-que-ver-lugo/). 
+{{< reflink path=posts/2023/04/pueblos-que-ver-lugo >}}. 
 
-[Guía esencial de Pontevedra: ciudades, islas, castros y rutas 
-mágicas](https://etheriamagazine.com/2022/12/14/que-ver-pontevedra/). 
+{{< reflink path=posts/2022/12/que-ver-pontevedra >}}. 
 
-[15 lugares imprescindibles en A Coruña que miran al 
-mar](https://etheriamagazine.com/2022/09/23/que-ver-a-coruna/).
+{{< reflink path=posts/2022/09/que-ver-a-coruna >}}.

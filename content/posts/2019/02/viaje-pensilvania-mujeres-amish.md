@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo es ser mujer en tierra de los Amish?"
 date: 2019-02-07
-coverImage: https://fotos.etheriamagazine.com/2019/02/mujeres-amish-etheria-magazine-e1582367792775.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/mujeres-amish-etheria-magazine-e1582367792775.jpg
 categories: 
   - historias
 destino: 
@@ -220,11 +220,9 @@ Aunque cualquier estación es buena para visitar Lancaster, el otoño es excepci
 
 **También te puede interesar...** 
 
-[Los mejores miradores de Nueva York: nuevos, de pago y 
-gratuitos](https://etheriamagazine.com/2020/02/24/los-mejores-miradores-de-nueva-york-gratis-de-pago/). 
+{{< reflink path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}}. 
 
-[Washington DC con amigas, descubre sus atractivos barrio a 
-barrio](https://etheriamagazine.com/2020/03/02/viajes-para-mujeres-que-ver-washington-dc/). 
+{{< reflink path=posts/2020/03/viajes-para-mujeres-que-ver-washington-dc >}}. 
 
-[California Dreams. Un road trip vinícola en Estados 
-Unidos](https://etheriamagazine.com/2020/01/06/ruta-enoturismo-con-amigas-california-napa-valley-sonoma/).
+{{< reflink path=posts/2020/01/ruta-enoturismo-con-amigas-california-napa-valley-sonoma 
+>}}.

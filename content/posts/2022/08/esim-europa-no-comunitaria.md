@@ -1,7 +1,7 @@
 ---
 title: "eSIM para Europa, una alternativa al roaming en países como el Reino Unido"
 date: 2022-08-02
-coverImage: https://fotos.etheriamagazine.com/2022/07/Holafly-mujer-viaje.jpg
+cover: https://fotos.etheriamagazine.com/2022/07/Holafly-mujer-viaje.jpg
 destino: 
   - Europa
 authors: 
@@ -117,11 +117,11 @@ de una **conexión a internet en Europa sencilla y económica**.
 
 ### Cómo se compra online
 
-Comprar una eSIM de Holafly es muy sencillo. Sólo tienes que entrar en la [web](http://esim.holafly.com/es) 
-y elegir el plan de datos que necesites, que van desde los 5 días por 19 Euros a los 90 
-días por 99 Euros. Podrás pagar con plataformas como PayPal o ApplePay o con tarjeta de 
-crédito. Después, Holafly te enviará un correo electrónico con un código QR para activar 
-la eSIM. 
+Comprar una eSIM de Holafly es muy sencillo. Sólo tienes que entrar en la 
+[web](http://esim.holafly.com/es) y elegir el plan de datos que necesites, que van desde 
+los 5 días por 19 Euros a los 90 días por 99 Euros. Podrás pagar con plataformas como 
+PayPal o ApplePay o con tarjeta de crédito. Después, Holafly te enviará un correo 
+electrónico con un código QR para activar la eSIM. 
 
 ![pareja comprando una eSIM de Holafly en la web](https://fotos.etheriamagazine.com/2022/07/Holafly-comprar-tarjeta.jpg "Es muy sencillo comprar las eSIM de Holafly a través de su página web.")
 
@@ -175,5 +175,4 @@ tarjetas eSIM para Europa de Holafly.
 
 ## También te puede interesar:
 
-[Conoce la eSIM de Holafly para viajar a 
-España](https://etheriamagazine.com/2022/06/17/holafly-viaje-espana/)
+{{< reflink path=posts/2022/06/holafly-viaje-espana >}}

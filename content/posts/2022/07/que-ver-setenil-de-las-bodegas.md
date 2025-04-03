@@ -1,7 +1,7 @@
 ---
 title: "Excursión a Setenil de las Bodegas: qué ver en este precioso pueblo blanco de Cádiz"
 date: 2022-07-22
-coverImage: https://fotos.etheriamagazine.com/2022/07/Setenil-cuevas-sombra.jpg
+cover: https://fotos.etheriamagazine.com/2022/07/Setenil-cuevas-sombra.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -27,9 +27,7 @@ Así que coge tu cámara o el móvil y un buen calzado (el pueblo es una cuesta 
 y prepárate para pasear por Setenil de las Bodegas, te dejamos 10 de los rincones que no 
 puedes perderte. 
 
-✅ **NO PIERDAS:** [La mejor guía de CÁDIZ PROVINCIA para organizar tu viaje: pueblos y 
-visitas de interés (con mapa 
-incluido).](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/) 
+✅ **NO PIERDAS:** {{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}} 
 
 ## 10 lugares que ver en una excursión a Setenil de las Bodegas:
 
@@ -149,12 +147,15 @@ opción es combinar la visita con la de otros pueblos cercanos como Ronda, Olver
 Zahara de la Sierra. Puedes también apuntarte a una excursión organizada que, además, 
 están bien de precio: [Excursión a Setenil de las Bodegas y 
 Olvera](https://www.civitatis.com/es/cadiz/excursion-ronda-setenil-bodegas/?aid=10211) 
-(desde Cádiz) o a una Excursión a Ronda y Setenil (desde [Málaga](https://www.civitatis.com/es/malaga/excursion-ronda-setenil/), 
-[Marbella](https://www.civitatis.com/es/marbella/excursion-ronda/?aid=10211), [Tarifa](https://www.civitatis.com/es/tarifa/excursion-ronda-setenil-bodegas/?aid=10211), 
+(desde Cádiz) o a una Excursión a Ronda y Setenil (desde 
+[Málaga](https://www.civitatis.com/es/malaga/excursion-ronda-setenil/), 
+[Marbella](https://www.civitatis.com/es/marbella/excursion-ronda/?aid=10211), 
+[Tarifa](https://www.civitatis.com/es/tarifa/excursion-ronda-setenil-bodegas/?aid=10211), 
 [El Puerto de Santa 
 María](https://www.civitatis.com/es/el-puerto-de-santa-maria/excursion-ronda-setenil-bodegas/?aid=10211), 
 [Fuengirola](https://www.civitatis.com/es/fuengirola/excursion-ronda-setenil/?aid=10211) 
-y [Torremolinos](https://www.civitatis.com/es/torremolinos/excursion-ronda-setenil/?aid=10211)). 
+y 
+[Torremolinos](https://www.civitatis.com/es/torremolinos/excursion-ronda-setenil/?aid=10211)). 
 
 ### ¿Dónde aparcar en Setenil de las Bodegas?
 
@@ -189,11 +190,8 @@ por Setenil de las Bodegas de Civitatis.
 
 ## También te puede interesar
 
-[Ruta en coche por 12 preciosos pueblos blancos de 
-Cádiz](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/) 
+{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}} 
 
-[Ronda con amigas. Un fin de semana perfecto en el 
-sur](https://etheriamagazine.com/2021/11/23/planes-en-ronda-con-amigas/) 
+{{< reflink path=posts/2021/11/planes-en-ronda-con-amigas >}} 
 
-[Cádiz, tras las huellas de su legado 
-andalusí](https://etheriamagazine.com/2019/05/20/viajar-con-amigas-que-hacer-en-cadiz/)
+{{< reflink path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}}

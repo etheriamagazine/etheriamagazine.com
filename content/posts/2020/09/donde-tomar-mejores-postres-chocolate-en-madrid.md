@@ -1,7 +1,7 @@
 ---
 title: "Postres de chocolate con efecto terapéutico en Madrid"
 date: 2020-09-11
-coverImage: https://fotos.etheriamagazine.com/2020/09/restaurante-santita-helado-chocolate-metate-baja.jpg
+cover: https://fotos.etheriamagazine.com/2020/09/restaurante-santita-helado-chocolate-metate-baja.jpg
 categories: 
   - gourmet
 destino: 
@@ -23,15 +23,14 @@ Horcher](#Horcher). [5\. Levadura Madre](#Levadura-Madre). [6\. Restaurantes
 
 ### 1\. Vasito de chocolate con oreos en el Jardín de Diana
 
-No es la primera vez que os hablamos del Jardín de Diana, la [terraza del hotel Hyatt 
-Centric Gran Via 
-Madrid](https://etheriamagazine.com/2020/08/27/10-planes-originales-en-madrid-con-amigas/), 
-y eso no puede ser casualidad, sino que confirma que realmente nos encanta. En este 
-rincón, que destila intimidad aún estando en plena Gran Vía madrileña, sirven un 
-espectacular postre: '**Mousse de chocolate y avellanas con barquillo crujiente, 
-galletas, naranja y chantilly'**. Nuestra recomendación es que lo acompañes de un cóctel 
-y sientas en el paladar el _glamour_ de la capital. Una de las mejores opciones para 
-tomar postres de chocolate en Madrid. 
+No es la primera vez que os hablamos del Jardín de Diana, la {{< reflink 
+path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}, y eso no puede ser 
+casualidad, sino que confirma que realmente nos encanta. En este rincón, que destila 
+intimidad aún estando en plena Gran Vía madrileña, sirven un espectacular postre: 
+'**Mousse de chocolate y avellanas con barquillo crujiente, galletas, naranja y 
+chantilly'**. Nuestra recomendación es que lo acompañes de un cóctel y sientas en el 
+paladar el _glamour_ de la capital. Una de las mejores opciones para tomar postres de 
+chocolate en Madrid. 
 
 ![vasito de chocolate con crema de oreos y galletas en el hotel hyatt](https://fotos.etheriamagazine.com/2020/09/chocolate-Hyatt-Centric-Gran-Via-Madrid.jpg "El Jardín de Diana es un lugar magnífico para degustar un postre de chocolate. © Hyatt Centric Gran Via Madrid.")
 

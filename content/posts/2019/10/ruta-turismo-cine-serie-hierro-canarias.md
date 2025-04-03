@@ -1,7 +1,7 @@
 ---
 title: "El Hierro, una isla que desvela sus encantos en el cine"
 date: 2019-10-21
-coverImage: https://fotos.etheriamagazine.com/2019/10/serie-hierro.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/serie-hierro.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-La más remota de las islas Canarias, El Hierro, se ha convertido en la protagonista de 
+**La más remota de las islas Canarias, El Hierro, se ha convertido en la protagonista de 
 una ficción. Sí, en Etheria Magazine también nos gustan las series y la rodada hace unos 
 años por Movistar+ en nuestra isla más meridional, nos ha atrapado. Entre las intrigas 
 de la investigación de un asesinato nos desvela a poquitos, con el ritmo cambiante de 
-cada capítulo, los encantos de la isla más radical del archipiélago. 
+cada capítulo, los encantos de la isla más radical del archipiélago.** 
 
 ![Sabina en El Hierro.](https://fotos.etheriamagazine.com/2019/09/El-hierro-sabina-canarias.jpg "Sabina en El Hierro.")
 
@@ -204,11 +204,11 @@ más preciosos símbolos naturales.
 
 ## Más viajes en Canarias
 
-[Una escapada romántica al hotel Faro Punta Cumplida (La Palma, 
-Canarias)](https://etheriamagazine.com/2019/06/03/faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica/). 
+{{< reflink 
+path=posts/2019/06/faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica >}}. 
 
-[Por qué no olvidarás jamás La Palma, la isla más adictiva y alternativa de 
-Canarias](https://etheriamagazine.com/2019/04/02/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias/). 
+{{< reflink path=posts/2019/04/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias 
+>}}. 
 
-[La Geria: la ruta de vinos definitiva para beberse 
-Lanzarote](https://etheriamagazine.com/2020/08/04/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote/).
+{{< reflink 
+path=posts/2020/08/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}}.

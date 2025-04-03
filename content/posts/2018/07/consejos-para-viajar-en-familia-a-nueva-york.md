@@ -1,7 +1,7 @@
 ---
 title: "10 consejos para un viaje en familia a Nueva York"
 date: 2018-07-27
-coverImage: https://fotos.etheriamagazine.com/2018/07/nueva-york-familia-central-park.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/nueva-york-familia-central-park.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -11,10 +11,10 @@ authors:
   - Susana García
 ---
 
-Nueva York, como todas las metrópolis, con ese halo de ciudad llena de prisas y de gente 
-suele parecer inabarcable para un viaje en familia. Pero no hay que tener miedo a 
+**Nueva York, como todas las metrópolis, con ese halo de ciudad llena de prisas y de 
+gente suele parecer inabarcable para un viaje en familia. Pero no hay que tener miedo a 
 lanzarse a disfrutar de la Gran Manzana con niños porque siguiendo algunas pistas todo 
-resulta más sencillo. 
+resulta más sencillo.** 
 
 ![Pradera de Central Park](https://fotos.etheriamagazine.com/2018/07/nueva-york-familia-central-park.jpg "Juegos en Central Park.")
 
@@ -125,8 +125,9 @@ en familia es fundamental llevar un rumbo definido. Incluidos los restaurantes, 
 quieres comer en algún lugar que no sea un Deli o un Friday’s. Piensa bien qué 
 actividades puedes llevar reservadas con hora (subida a edificios, entradas de museos, 
 etc). Hazte con un mapa y rápidamente te ubicarás en la cuadrícula que es Manhattan. 
-Puedes ayudarte con webs como la de [Civitatis](https://www.civitatis.com/es/nueva-york/?aid=10211) 
-donde también puedes contratar alguna excursión guiada. 
+Puedes ayudarte con webs como la de 
+[Civitatis](https://www.civitatis.com/es/nueva-york/?aid=10211) donde también puedes 
+contratar alguna excursión guiada. 
 
 ![Calle de Nueva York.](https://fotos.etheriamagazine.com/2018/05/Nueva-York-edificio-Chrysler.jpg "Calle de Nueva York.")
 
@@ -135,8 +136,8 @@ donde también puedes contratar alguna excursión guiada.
 Antes de hacer un viaje con niños es fundamental despertarles el interés por el destino 
 poco a poco. Además de buscar películas (como las de 'Noche en el Museo' o el ratón 
 Fivel), una buena opción son las guías y libros para niños sobre Nueva York. Por 
-ejemplo, ['Nueva York. Rutas divertidas'](https://amzn.to/2QxJ9c6) de Lonely Planet o ['Nueva 
-York para niños'](https://amzn.to/3bGa3pv) de Ediciones Gaesa. 
+ejemplo, ['Nueva York. Rutas divertidas'](https://amzn.to/2QxJ9c6) de Lonely Planet o 
+['Nueva York para niños'](https://amzn.to/3bGa3pv) de Ediciones Gaesa. 
 
 ![Guías de Nueva York para niños](https://fotos.etheriamagazine.com/2018/07/nueva-york-familias-guias-1.jpg "Guías de Nueva York para niños.")
 
@@ -149,14 +150,10 @@ York.
 
 📌 **También te puede interesar:** 
 
-[Viaje a Nueva York con niños: 8 planes que no puedes 
-perderte](https://etheriamagazine.com/2018/07/23/8-planes-con-ninos-en-nueva-york/) 
+{{< reflink path=posts/2018/07/8-planes-con-ninos-en-nueva-york >}} 
 
-[10 planes en Nueva York que te emocionarán si viajas en 
-2021](https://etheriamagazine.com/2021/05/10/10-planes-en-nueva-york-nuevos-2021/) 
+{{< reflink path=posts/2021/05/10-planes-en-nueva-york-nuevos-2021 >}} 
 
-[Los mejores miradores de Nueva York: los nuevos, los de pago y los 
-gratuitos](https://etheriamagazine.com/2020/02/24/los-mejores-miradores-de-nueva-york-gratis-de-pago/) 
+{{< reflink path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}} 
 
-[Nueva York: el mejor plan con amigas al otro lado del 
-charco](https://etheriamagazine.com/2019/05/17/viaje-con-amigas-nueva-york-primavera/)
+{{< reflink path=posts/2019/05/viaje-con-amigas-nueva-york-primavera >}}

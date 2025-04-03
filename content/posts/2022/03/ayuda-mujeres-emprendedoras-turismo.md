@@ -1,7 +1,7 @@
 ---
 title: "'Ninguna mujer sin sus mil palabras de gloria', el altavoz que necesitas"
 date: 2022-03-08
-coverImage: https://fotos.etheriamagazine.com/2022/03/empresaria-turismo.jpg
+cover: https://fotos.etheriamagazine.com/2022/03/empresaria-turismo.jpg
 categories: 
   - mujeres-top
   - proyectos

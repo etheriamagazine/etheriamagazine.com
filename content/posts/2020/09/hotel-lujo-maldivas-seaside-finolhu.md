@@ -1,7 +1,7 @@
 ---
 title: "Hotel Seaside Finolhu, un paraíso para el buceo en Maldivas"
 date: 2020-09-29
-coverImage: https://fotos.etheriamagazine.com/2020/09/hotel-seaside-finolhu-ocean-pool-villa.jpg
+cover: https://fotos.etheriamagazine.com/2020/09/hotel-seaside-finolhu-ocean-pool-villa.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Cuando se unen un destino paradisíaco y un hotel de lujo, de esos de los que no querrías 
-marcharte, se consigue una escapada perfecta. El Seaside Finolhu y el atolón Baa de las 
-Maldivas logran esa unión y demuestran que este archipiélago también es una bendición 
-para los viajes activos, ya sean en pareja, con amigos o en familia. 
+**Cuando se unen un destino paradisíaco y un hotel de lujo, de esos de los que no 
+querrías marcharte, se consigue una escapada perfecta. El Seaside Finolhu y el atolón 
+Baa de las Maldivas logran esa unión y demuestran que este archipiélago también es una 
+bendición para los viajes activos, ya sean en pareja, con amigos o en familia.** 
 
 ![Viajes a Maldivas en pareja](https://fotos.etheriamagazine.com/2020/09/hotel-seaside-finolhu-playa.jpg "Playa del hotel Seaside Finolhu.")
 
@@ -42,8 +42,9 @@ convierten en los protagonistas del viaje. Estarás deseando coger las gafas y e
 para hacer esnórquel frente a tu habitación. Por no hablar de la excursiones para bucear 
 y ver todo tipo de especies marinas. 
 
-📌 Si te gustan los deportes activos sigue leyendo ['Maldivas, ¿quién dijo luna de 
-miel?'](https://etheriamagazine.com/2018/10/16/islas-maldivas-lunas-de-miel-y-deportes-activos-para-mujeres/) 
+📌 Si te gustan los deportes activos sigue leyendo <!-- LEGACY_NON_EXISTANT_LINK <a 
+href="https://etheriamagazine.com/2018/10/16/islas-maldivas-lunas-de-miel-y-deportes-activos-para-mujeres/">'Maldivas, 
+¿quién dijo luna de miel?'</a> --> 
 
 ## Las villas
 
@@ -186,8 +187,6 @@ Fotografías cedidas por Seaside Finolhu
 
 **También te puede interesar:** 
 
-[Islas Maldivas mucho más que un destino para lunas de 
-miel.](https://etheriamagazine.com/2021/03/23/guia-que-hacer-en-maldivas-buceo-surf/) 
+{{< reflink path=posts/2021/03/guia-que-hacer-en-maldivas-buceo-surf >}} 
 
-[10 hoteles de lujo para una escapada 
-romántica](https://etheriamagazine.com/2021/01/21/hoteles-de-lujo-escapada-romantica-2021/)
+{{< reflink path=posts/2021/01/hoteles-de-lujo-escapada-romantica-2021 >}}

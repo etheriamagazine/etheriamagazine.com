@@ -1,7 +1,7 @@
 ---
 title: "El lago Turkana, un viaje a Kenia que cambiará tu percepción del mundo"
 date: 2020-02-07
-coverImage: https://fotos.etheriamagazine.com/2020/01/viaje-kenia-Mujeres-turkanas.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/viaje-kenia-Mujeres-turkanas.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -156,8 +156,8 @@ alguna de las tradicionales compañías aéreas, que hacen escala en alguna ciud
 Una vez en Nairobi, la elección del vehículo para el viaje es fundamental: tiene que ser 
 un todoterreno 4x4 en buenas condiciones, a ser posible con dos depósitos para 
 combustible. En el safari podemos invertir entre 10 y 15 días, y el precio estará en 
-torno a los 250 dólares por día. Pocas empresas trabajan con garantías fiables, pero [Spurwing 
-Travel](http://www.spurwingkenya.com) es de confianza. 
+torno a los 250 dólares por día. Pocas empresas trabajan con garantías fiables, pero 
+[Spurwing Travel](http://www.spurwingkenya.com) es de confianza. 
 
 ##### Cuándo ir a Kenia
 
@@ -169,8 +169,8 @@ Quedas advertida.
 ##### Precauciones sanitarias
 
 Sólo es obligatoria la vacuna contra la fiebre amarilla, aunque es recomendable la 
-profilaxis contra el paludismo. Antes de iniciar el viaje, lo mejor es informarse en el [Centro 
-de Vacunación de Sanidad 
+profilaxis contra el paludismo. Antes de iniciar el viaje, lo mejor es informarse en el 
+[Centro de Vacunación de Sanidad 
 Exterior](https://www.mscbs.gob.es/profesionales/saludPublica/sanidadExterior/salud/centrosvacu.htm). 
 
 ##### A tener en cuenta
@@ -190,11 +190,9 @@ riesgo físico, no olvides coger la ampliación de deporte de aventura.
 
 ### Sigue leyendo en Etheria Magazine
 
-[‘Memorias de África’ más allá de Robert Redford y Meryl 
-Streep](https://etheriamagazine.com/2020/10/12/final-real-memorias-de-africa-baronesa-blixen-beryl-markham/). 
+{{< reflink 
+path=posts/2020/10/final-real-memorias-de-africa-baronesa-blixen-beryl-markham >}}. 
 
-[5 grandes viajes a África con los que 
-soñar](https://etheriamagazine.com/2019/08/09/5-viajes-para-comenzar-a-conocer-africa/). 
+{{< reflink path=posts/2019/08/5-viajes-para-comenzar-a-conocer-africa >}}. 
 
-[Orango Parque Hotel, vive una experiencia inolvidable en Guinea 
-Bissau](https://etheriamagazine.com/2021/10/14/orango-parque-hotel-una-experiencia-en-guinea-bissau/).
+{{< reflink path=posts/2021/10/orango-parque-hotel-una-experiencia-en-guinea-bissau >}}.

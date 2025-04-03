@@ -1,7 +1,7 @@
 ---
 title: "Excursión a las Barrancas de Burujón"
 date: 2023-10-20
-coverImage: https://fotos.etheriamagazine.com/2023/10/barrancas-burujon-vistas.jpg
+cover: https://fotos.etheriamagazine.com/2023/10/barrancas-burujon-vistas.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Susana García
 ---
 
-Nos acercamos a un paraje natural excepcional por original y único en Toledo: las 
+**Nos acercamos a un paraje natural excepcional por original y único en Toledo: las 
 Barrancas de Burujón. Un lugar estupendo para hacer una excursión de medio día que se 
 puede completar con pueblos de los alrededores como Burujón o La Puebla de Montalbán, o 
 incluso con la cercana localidad de Toledo. ¡No te pierdas este fantástico plan en la 
-naturaleza! 
+naturaleza!** 
 
 ![dos jóvenes en las barrancas de burujón](https://fotos.etheriamagazine.com/2023/10/barrancas-burujon-vistas.jpg "Vistas de las Barrancas de Burujón. © Susana García")
 
@@ -139,11 +139,9 @@ a las afueras de Toledo.
 
 ✅ **Puedes consultar:** 
 
-[Toledo en un fin de semana, claves para aprovecharlo al 
-máximo](https://etheriamagazine.com/2022/02/28/que-ver-en-toledo/) 
+{{< reflink path=posts/2022/02/que-ver-en-toledo >}} 
 
-[15 razones para visitar Puy du Fou 
-Toledo](https://etheriamagazine.com/2022/04/06/15-razones-para-visitar-puy-du-fou-toledo-en-2022/) 
+{{< reflink path=posts/2022/04/15-razones-para-visitar-puy-du-fou-toledo-en-2022 >}} 
 
 ## Guía práctica de las Barrancas de Burujón
 
@@ -172,11 +170,8 @@ al Asador El Nogal o al Restaurante Antonio.
 
 📌 **También te puede interesar:** 
 
-[Visita de la catedral de Toledo: 10 detalles que no puedes 
-perderte](https://etheriamagazine.com/2022/01/19/que-ver-en-catedral-de-toledo/) 
+{{< reflink path=posts/2022/01/que-ver-en-catedral-de-toledo >}} 
 
-[Una ‘noche toledana’ con Eugenia de Montijo: visitas orginales en 
-Toledo](https://etheriamagazine.com/2019/08/19/visitas-originales-toledo/) 
+{{< reflink path=posts/2019/08/visitas-originales-toledo >}} 
 
-[La Mancha toledana: excursión a Madridejos para conocer el mundo del 
-azafrán](https://etheriamagazine.com/2021/09/29/excursion-a-madridejos-azafran-de-toledo/)
+{{< reflink path=posts/2021/09/excursion-a-madridejos-azafran-de-toledo >}}

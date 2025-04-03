@@ -1,7 +1,7 @@
 ---
 title: "Suiza en coche eléctrico, una aventura ecológica (y más económica)"
 date: 2021-02-10
-coverImage: https://fotos.etheriamagazine.com/2021/02/Coche-suiza-montanas.jpg
+cover: https://fotos.etheriamagazine.com/2021/02/Coche-suiza-montanas.jpg
 destino: 
   - Europa
 authors: 
@@ -136,11 +136,12 @@ la combustión de la gasolina)… y sin humos. Y también, si cabe, un viaje má
 
 ## Información práctica y técnica
 
-Para iniciar la auto-ruta lo mejor es ponerse en contacto con [Europcar](https://www.europcar.ch/en-ch), 
-que es la empresa de alquiler de vehículos eléctricos nº 1 en Suiza. Allí te 
-proporcionarán la App para que puedas encontrar los puntos de carga en el itinerario 
-elegido. Tened en cuenta también que no todas las aplicaciones funcionan en todos los 
-sistemas operativos (Android / iOS / Windows). Te informarán al recoger el coche. 
+Para iniciar la auto-ruta lo mejor es ponerse en contacto con 
+[Europcar](https://www.europcar.ch/en-ch), que es la empresa de alquiler de vehículos 
+eléctricos nº 1 en Suiza. Allí te proporcionarán la App para que puedas encontrar los 
+puntos de carga en el itinerario elegido. Tened en cuenta también que no todas las 
+aplicaciones funcionan en todos los sistemas operativos (Android / iOS / Windows). Te 
+informarán al recoger el coche. 
 
 Por ejemplo, un **Volkswagen e-Golf** –que fue nuestro vehículo– tiene una autonomía de 
 190 kilómetros (ciclo NEDC), aunque los consumos de los coches 100% eléctricos obedecen 
@@ -180,13 +181,10 @@ Más información en la [Oficina de Turismo de Suiza](http://www.myswitzerland.c
 
 **También te puede interesar**: 
 
-[Viaje en familia a Suiza, tres montañas a las que subir sin 
-despeinarse.](https://etheriamagazine.com/2018/09/28/tres-montanas-suizas-a-las-que-subir-sin-despeinarse/) 
+{{< reflink path=posts/2018/09/tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}} 
 
-[Ocho 'road trips' con amigas por 
-España.](https://etheriamagazine.com/2020/06/22/8-viajes-en-coche-con-amigas-por-espana/) 
+{{< reflink path=posts/2020/06/8-viajes-en-coche-con-amigas-por-espana >}} 
 
-[Grandes](https://etheriamagazine.com/2020/03/23/road-trips-por-europa-verano-viajes-en-coche/) 
-[](https://etheriamagazine.com/2020/03/23/road-trips-por-europa-verano-viajes-en-coche/)['road 
-trips' por Europa para este 
-verano.](https://etheriamagazine.com/2020/03/23/road-trips-por-europa-verano-viajes-en-coche/)
+{{< reflink path=posts/2020/03/road-trips-por-europa-verano-viajes-en-coche >}} {{< 
+reflink path=posts/2020/03/road-trips-por-europa-verano-viajes-en-coche >}}{{< reflink 
+path=posts/2020/03/road-trips-por-europa-verano-viajes-en-coche >}}

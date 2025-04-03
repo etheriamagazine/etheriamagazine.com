@@ -1,7 +1,7 @@
 ---
 title: "Princesa Yaiza, un hotel de lujo en Lanzarote perfecto para viajar en familia"
 date: 2023-08-04
-coverImage: https://fotos.etheriamagazine.com/2023/07/hotel-princesa-yaiza-playa-blanca.jpg
+cover: https://fotos.etheriamagazine.com/2023/07/hotel-princesa-yaiza-playa-blanca.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-El Princesa Yaiza Suite Hotel Resort se levanta en Playa Blanca, al sur de Lanzarote, 
+**El Princesa Yaiza Suite Hotel Resort se levanta en Playa Blanca, al sur de Lanzarote, 
 como uno de los mejores hoteles de la isla. Habitaciones espaciosas, amplia oferta de 
 restauración y un completo programa de animación para niños hacen de este hotel el 
-destino perfecto para unas vacaciones familiares. 
+destino perfecto para unas vacaciones familiares.** 
 
 ![Princesa Yaiza Hotel Suite Resort en Playa Blanca.](https://fotos.etheriamagazine.com/2023/07/hotel-princesa-yaiza-playa-blanca.jpg "Princesa Yaiza Hotel Suite Resort en Playa Blanca.")
 
@@ -35,9 +35,9 @@ Es un hotel amplio (ocupa 55.000 metros cuadrados), que busca ofrecer todo lo ne
 para unas vacaciones perfectas. Eso incluye seis piscinas, una galería comercial de 300 
 metros cuadrados, un inmenso spa, el Sport Center Princesa Yaiza (con todo tipo de 
 equipos Technogym para mantenerte en forma), un enorme kids club y varios restaurantes. 
-Así, sólo tendrás que salir del hotel para las [excursiones imprescindibles en 
-Lanzarote](https://etheriamagazine.com/2020/06/11/viajar-sola-amigas-imprescindible-lanzarote/), 
-todo lo demás lo tendrás muy a mano. 
+Así, sólo tendrás que salir del hotel para las {{< reflink 
+path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}}, todo lo demás lo 
+tendrás muy a mano. 
 
 Y para organizar esas excursiones que no te puedes perder, no dudes en acudir al **Guest 
 Experience** ubicado junto a la recepción, te ayudarán a elegir las mejores alternativas 
@@ -140,11 +140,9 @@ Yaiza Suite Hotel Resort.
 
 📌 **También te puede interesar:** 
 
-[Guía de Lanzarote: 15 lugares imprescindibles para perderte por la 
-isla](https://etheriamagazine.com/2023/02/08/que-ver-lanzarote/) 
+{{< reflink path=posts/2023/02/que-ver-lanzarote >}} 
 
-[La Geria: la ruta de vinos definitiva para beberse 
-Lanzarote](https://etheriamagazine.com/2020/08/04/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote/) 
+{{< reflink 
+path=posts/2020/08/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}} 
 
-[Qué visitar en la ruta de César Manrique en 
-Lanzarote](https://etheriamagazine.com/2019/09/10/cesar-manrique-ruta-en-lanzarote/)
+{{< reflink path=posts/2019/09/cesar-manrique-ruta-en-lanzarote >}}

@@ -1,7 +1,7 @@
 ---
 title: "Guía de Lanzarote: 15 lugares imprescindibles para perderte por la isla"
 date: 2023-02-08
-coverImage: https://fotos.etheriamagazine.com/2023/02/lanzarote-vistas.jpg
+cover: https://fotos.etheriamagazine.com/2023/02/lanzarote-vistas.jpg
 categories: 
   - inspiración
 destino: 
@@ -115,7 +115,8 @@ realiza en unos autobuses que llegan al **restaurante-mirador El Diablo** (obra 
 de César Manrique). Aquí, la tierra hierve a casi trescientos grados a diez metros de 
 profundidad y el pozo que se realizó para dejar salir el calor se ha convertido en un 
 original horno natural. También pueden hacerse algunas **rutas de senderismo** como la 
-que propone [Civitatis](https://www.civitatis.com/es/tinajo/senderismo-parque-natural-volcanes/?aid=10211). 
+que propone 
+[Civitatis](https://www.civitatis.com/es/tinajo/senderismo-parque-natural-volcanes/?aid=10211). 
 
 ![autobus en el Parque Nacional de Timanfaya.](https://fotos.etheriamagazine.com/2023/02/Lanzarote-timanfaya.jpg "Paisaje del Parque Nacional de Timanfaya.")
 
@@ -157,8 +158,8 @@ forma la reserva marina más grande de la Unión Europea.
 que acercarte a **Puerto de Órzola** y coger un ferry que te llevará a Caleta del Sebo 
 en tan solo media hora (puedes reservar con Civitatis su [excursión a La Graciosa en 
 ferry con paseo en 
-velero](https://www.civitatis.com/es/orzola/excursion-isla-graciosa/?aid=10211) o la [Isla 
-de La Graciosa por libre en 
+velero](https://www.civitatis.com/es/orzola/excursion-isla-graciosa/?aid=10211) o la 
+[Isla de La Graciosa por libre en 
 ferry](https://www.civitatis.com/es/arrecife/ferry-isla-la-graciosa/?aid=10211)). Ofrece 
 bonitas playas (como la playa de La Francesa, la playa de las Conchas o la playa de la 
 Cocina) y una tranquilidad difícil de encontrar en otros lugares, ya que no hay apenas 
@@ -225,7 +226,8 @@ donde acercarse a la figura y obra del Nobel portugués. Este lugar, al que él 
 llamaba “una casa hecha de libros”, fue donde pasó largas temporadas en sus últimos 
 dieciocho años de vida. Un lugar sencillo y lleno de luz, donde la visita guiada lleva 
 durante una hora por sus espacios cotidianos. Puedes reservar la visita en 
-**acasajosesaramago.com** o en [Civitatis](https://www.civitatis.com/es/tias/visita-guiada-casa-jose-saramago/?aid=10211). 
+**acasajosesaramago.com** o en 
+[Civitatis](https://www.civitatis.com/es/tias/visita-guiada-casa-jose-saramago/?aid=10211). 
 
 En la vivienda destaca la biblioteca, llena de referencias bibliográficas y donde 
 comenzó a escribir su obra _Ensayo sobre la ceguera_, y la cocina, lugar de tertulias y 
@@ -300,11 +302,9 @@ de sus restaurantes.
 
 También te puede interesar: 
 
-[Ruta de César Manrique en 
-Lanzarote](https://etheriamagazine.com/2019/09/10/cesar-manrique-ruta-en-lanzarote/) 
+{{< reflink path=posts/2019/09/cesar-manrique-ruta-en-lanzarote >}} 
 
-[7 planes esenciales en Lanzarote con 
-amigas](https://etheriamagazine.com/2020/06/11/viajar-sola-amigas-imprescindible-lanzarote/) 
+{{< reflink path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}} 
 
-[La Geria: la ruta de vinos definitiva para beberse 
-Lanzarote](https://etheriamagazine.com/2020/08/04/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote/)
+{{< reflink 
+path=posts/2020/08/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}}

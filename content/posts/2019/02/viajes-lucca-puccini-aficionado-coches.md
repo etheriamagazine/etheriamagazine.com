@@ -1,7 +1,7 @@
 ---
 title: "Puccini nos lleva de viaje (en coche) a Lucca"
 date: 2019-02-21
-coverImage: https://fotos.etheriamagazine.com/2019/02/puccini.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/puccini.jpg
 destino: 
   - España
 authors: 
@@ -20,14 +20,13 @@ que se encaprichaba.
 
 Hemos viajado a su tierra, a la que lo vio nacer, a la Toscana, concretamente a 
 **Lucca**, esa bellísima localidad italiana conocida como 'la ciudad de las 100 torres y 
-las 100 iglesias'. Ya os contábamos en [24 horas en 
-Lucca](https://etheriamagazine.com/2019/02/18/que-ver-en-lucca/) todo lo que podéis 
-hacer si solo pasáis un día allí. En esa apretada agenda hay que dejar tiempo para 
-visitar la **casa natal de Puccini**, donde se encuentra su museo. Es el lugar idóneo 
-para empaparse de la biografía del compositor, una vida jalonada de éxitos y fracasos, 
-casi al 50%, tanto en el terreno profesional como en el personal. Y cuando las cosas no 
-le iban bien, siempre encontraba remedio para sus males en los coches. Pero, eso sí, no 
-le valía cualquiera. 
+las 100 iglesias'. Ya os contábamos en {{< reflink path=posts/2019/02/que-ver-en-lucca 
+>}} todo lo que podéis hacer si solo pasáis un día allí. En esa apretada agenda hay que 
+dejar tiempo para visitar la **casa natal de Puccini**, donde se encuentra su museo. Es 
+el lugar idóneo para empaparse de la biografía del compositor, una vida jalonada de 
+éxitos y fracasos, casi al 50%, tanto en el terreno profesional como en el personal. Y 
+cuando las cosas no le iban bien, siempre encontraba remedio para sus males en los 
+coches. Pero, eso sí, no le valía cualquiera. 
 
 ![plaza de Lucca con terrazas para comer](https://fotos.etheriamagazine.com/2019/02/Lucca-piazza-Anfiteatro.jpg "La Piazza dell'Anfiteatro (Lucca) es una de las más animadas. © S.G.")
 
@@ -142,11 +141,8 @@ Más información de [Turismo de Lucca](https://www.turismo.lucca.it/es/home-pag
 
 ## También te puede interesar:
 
-[Ruta en coche para recorrer la Toscana en 7 
-días](https://etheriamagazine.com/2021/06/01/toscana-en-coche/) 
+{{< reflink path=posts/2021/06/toscana-en-coche >}} 
 
-[La Ruta Puccini. La Toscana sin masificación turística es posible (y 
-maravillosa)](https://etheriamagazine.com/2019/09/11/como-hacer-la-ruta-puccini-en-la-toscana-italia/) 
+{{< reflink path=posts/2019/09/como-hacer-la-ruta-puccini-en-la-toscana-italia >}} 
 
-[Borgo Santo Pietro, el hotel donde te querrás quedar a vivir en la 
-Toscana](https://etheriamagazine.com/2020/04/14/hotel-lujo-toscana-borgo-santo-pietro/)
+{{< reflink path=posts/2020/04/hotel-lujo-toscana-borgo-santo-pietro >}}

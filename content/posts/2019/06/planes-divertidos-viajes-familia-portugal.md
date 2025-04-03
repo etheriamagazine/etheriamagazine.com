@@ -1,7 +1,7 @@
 ---
 title: "9 planes divertidos en el Centro de Portugal con niños"
 date: 2019-06-28
-coverImage: https://fotos.etheriamagazine.com/2019/06/parque-aventura-figueira-da-foz-portugal.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/parque-aventura-figueira-da-foz-portugal.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-Portugal es un destino que se presta a viajar en familia por su cercanía a España y por 
-la variedad de propuestas que brinda para hacer con niños. Reserva 5 días para emprender 
-este viaje donde la naturaleza y la diversión son las protagonistas. Prepárate para 
-navegar, subir a los árboles, dar de comer a los animales y visitar el interior del 
-planeta. 
+**Portugal es un destino que se presta a viajar en familia por su cercanía a España y 
+por la variedad de propuestas que brinda para hacer con niños. Reserva 5 días para 
+emprender este viaje donde la naturaleza y la diversión son las protagonistas. Prepárate 
+para navegar, subir a los árboles, dar de comer a los animales y visitar el interior del 
+planeta.** 
 
 ![Los más pequeños también disponen de un circuito especial en el parque de aventura de Figueira da Foz.](https://fotos.etheriamagazine.com/2019/06/parque-aventura-figueira-foz.jpg "Los más pequeños también disponen de un circuito especial en el parque de aventura de Figueira da Foz. ©PG")
 
@@ -30,9 +30,9 @@ vehículo para terminar la ruta en Oporto.
 Es un parque de reciente creación, tiene poco más de un año, y está situado a unos 60 km 
 de Lisboa. Permite aprender y divertirse entre dinosaurios. Ofrece varios circuitos 
 tematizados donde se encuentran reproducciones a tamaño natural de estos animales, se 
-pueden realizar talleres y comer en alguno de sus merenderos. En el artículo '[Dino 
-Parque Lourinhã, una experiencia familiar entre 
-dinosaurios](https://etheriamagazine.com/2018/12/20/dino-parque-lourinha-una-experiencia-familiar-entre-dinosaurios/)' 
+pueden realizar talleres y comer en alguno de sus merenderos. En el artículo '{{< 
+reflink 
+path=posts/2018/12/dino-parque-lourinha-una-experiencia-familiar-entre-dinosaurios >}}' 
 tienes todos los detalles de este Dino parque. 
 
 ![Dino parque de Lourinhá, el paraíso para los amantes de los dinosaurios.](https://fotos.etheriamagazine.com/2018/12/Dinoparque-lourinha-viajes-familias-5-e1561371638676.jpg "El paraíso para los amantes de los dinosaurios. ©PG")
@@ -96,17 +96,15 @@ un trenecito para recorrerlo cómodamente.
 
 ### Como lobos de mar en Aveiro
 
-La bonita ciudad de Aveiro, sobre la que ya te hemos hablado en este artículo '[Aveiro, 
-a vivir el 
-cuento](https://etheriamagazine.com/2018/09/11/viaje-con-amigas-aveiro-portugal/)', es 
-perfecta para los viajes en familia. ¿A qué niño no le gusta navegar en un bonito barco 
-de colores? El paseo en estas barcazas es un agradable recorrido didáctico donde te 
-cuentan la historia del entorno. Estas embarcaciones alargadas son auténticos 
-_moliceiros_ que antaño se empleaban para trasladar el _moliço_ (un tipo de alga) por la 
-Ría de Aveiro. Si decides pasar un par de días en esta ciudad, anímate a realizar un 
-**taller de _ovos moles_**, el dulce típico de este lugar, en la **Oficina do Doce** 
-(oficinadodoce.com), y visitar **Costa Nova**, con sus viviendas de pescadores y sus 
-grandes arenales. 
+La bonita ciudad de Aveiro, sobre la que ya te hemos hablado en este artículo '{{< 
+reflink path=posts/2018/09/viaje-con-amigas-aveiro-portugal >}}', es perfecta para los 
+viajes en familia. ¿A qué niño no le gusta navegar en un bonito barco de colores? El 
+paseo en estas barcazas es un agradable recorrido didáctico donde te cuentan la historia 
+del entorno. Estas embarcaciones alargadas son auténticos _moliceiros_ que antaño se 
+empleaban para trasladar el _moliço_ (un tipo de alga) por la Ría de Aveiro. Si decides 
+pasar un par de días en esta ciudad, anímate a realizar un **taller de _ovos moles_**, 
+el dulce típico de este lugar, en la **Oficina do Doce** (oficinadodoce.com), y visitar 
+**Costa Nova**, con sus viviendas de pescadores y sus grandes arenales. 
 
 ![Paseo en un barco moliceiro en Aveiro](https://fotos.etheriamagazine.com/2019/06/canales-aveiro-moliceiro.jpg "Paseo en moliceiro por los canales de Aveiro. ©PG")
 
@@ -134,19 +132,17 @@ Ambiental para identificarlas) y los diversos ecosistemas que lo componen.
 
 Con esta visita terminamos este recorrido por la Región Centro de Portugal donde hemos 
 realizado algunas paradas para disfrutar de actividades en medios naturales o de 
-especial interés (como Portugal dos Pequenhitos, en la preciosa [ciudad de 
-Coimbra](https://etheriamagazine.com/2020/01/31/viaje-con-amigas-que-ver-en-coimbra/)). 
-Es conveniente combinar estos planes con visitas a las ciudades próximas por donde 
-transcurre la ruta ya que también disponen de monumentos y museos de interés para toda 
-la familia. 
+especial interés (como Portugal dos Pequenhitos, en la preciosa {{< reflink 
+path=posts/2020/01/viaje-con-amigas-que-ver-en-coimbra >}}). Es conveniente combinar 
+estos planes con visitas a las ciudades próximas por donde transcurre la ruta ya que 
+también disponen de monumentos y museos de interés para toda la familia. 
 
 **Más propuestas en Portugal...** 
 
-[WOW Oporto, el mayor barrio gastronómico y cultural de 
-Portugal](https://etheriamagazine.com/2022/03/14/wow-oporto-barrio-gastronomico-cultural/). 
+{{< reflink path=posts/2022/03/wow-oporto-barrio-gastronomico-cultural >}}. 
 
-[Valle del Côa. 8 experiencias en el corazón de 
-Portugal](https://etheriamagazine.com/2020/07/17/valle-del-coa-8-experiencias-en-la-frontera-portugal/). 
+{{< reflink path=posts/2020/07/valle-del-coa-8-experiencias-en-la-frontera-portugal >}}. 
 
-[Una escapada romántica al hotel Casas do Côro (Marialva, 
-Portugal)](https://etheriamagazine.com/2019/08/15/escapada-romantica-hotel-casas-do-coro-marialva-portugal-rusticae/).
+{{< reflink 
+path=posts/2019/08/escapada-romantica-hotel-casas-do-coro-marialva-portugal-rusticae 
+>}}.

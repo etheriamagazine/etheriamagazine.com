@@ -1,7 +1,7 @@
 ---
 title: "Cena por todo lo alto sin salir de casa en Logroño, Madrid, Valencia, Marbella o Palma"
 date: 2020-12-29
-coverImage: https://fotos.etheriamagazine.com/2020/12/restaurante-botanic-palma-mallorca.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/restaurante-botanic-palma-mallorca.jpg
 categories: 
   - gourmet
 destino: 
@@ -63,8 +63,8 @@ cebolleta y sésamo; y tartar de atún con aliño asiático, yema de huevo y pan
 Entre los 5 principales están los afamados nigiris, rolls y temakis de Sr. Ito, entre 
 los que destacan el niguiri de anguila de foie con salsa Kabayaki o el de salmón con 
 lima, azúcar moscovado y mayonesa de chile. Asimismo cuenta con otras dos opciones más 
-completas, de 90 y 120 € por persona, que puedes consultar en su [web](https://srito.es/chefencasa/) 
-o llamando al 638 628 586. 
+completas, de 90 y 120 € por persona, que puedes consultar en su 
+[web](https://srito.es/chefencasa/) o llamando al 638 628 586. 
 
 Si prefieres visitar sus restaurantes puedes dirigirte a la calle Pelayo, 60 o a 
 Trafalgar, 7 (Madrid). 
@@ -75,13 +75,13 @@ Trafalgar, 7 (Madrid).
 
 Aunque en islas como Mallorca cuesta quedarse en casa y no sucumbir al placer de pasear 
 por la playa o de sentarse en una terraza, a veces hay que hacer ciertos sacrificios. 
-Eso sí, a cambio te sugerimos darte el caprichazo de degustar las delicatesen del [restaurante 
-Botànic del hotel Can Bordoy](https://canbordoy.com/es/botanic/). Dicho restaurante, 
-liderado por el **chef Andrés Benítez**, ha creado una oferta gastronómica en formato 
-_take away_ con el que disfrutar de las Navidades por todo lo alto (un menú de 4 pasos, 
-56 € por persona) o bien tomar el brunch durante los fines de semana (49 €/ para 2 
-personas). Los pedidos se deben reservar con un mínimo de 24 horas de antelación y 
-recogerse en el restaurante. 
+Eso sí, a cambio te sugerimos darte el caprichazo de degustar las delicatesen del 
+[restaurante Botànic del hotel Can Bordoy](https://canbordoy.com/es/botanic/). Dicho 
+restaurante, liderado por el **chef Andrés Benítez**, ha creado una oferta gastronómica 
+en formato _take away_ con el que disfrutar de las Navidades por todo lo alto (un menú 
+de 4 pasos, 56 € por persona) o bien tomar el brunch durante los fines de semana (49 €/ 
+para 2 personas). Los pedidos se deben reservar con un mínimo de 24 horas de antelación 
+y recogerse en el restaurante. 
 
 Los alimentos se presentan con un cuidado envasado y las instrucciones del chef para 
 emplatarlos de forma adecuada, ya que la parte estética también forma parte de la 
@@ -142,11 +142,9 @@ Maison, la tortilla con crema de trufa, las croquetas o el crêpe salado.
 
 ### También te puede interesar...
 
-[Los tres mejores restaurantes de cochinillo en 
-Segovia](https://etheriamagazine.com/2020/12/01/mejores-restaurantes-para-comer-cochinillo-en-segovia/). 
+{{< reflink path=posts/2020/12/mejores-restaurantes-para-comer-cochinillo-en-segovia 
+>}}. 
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/). 
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}. 
 
-[10 grandes restaurantes para saborear lo mejor de 
-Toledo](https://etheriamagazine.com/2020/11/03/comer-en-toledo-mejores-restaurantes-bares-tapas/).
+{{< reflink path=posts/2020/11/comer-en-toledo-mejores-restaurantes-bares-tapas >}}.

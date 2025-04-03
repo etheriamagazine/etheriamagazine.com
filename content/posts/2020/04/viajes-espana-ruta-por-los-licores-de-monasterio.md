@@ -1,7 +1,7 @@
 ---
 title: "Ruta por los licores de monasterio"
 date: 2020-04-29
-coverImage: https://fotos.etheriamagazine.com/2020/04/monasterio-leyre.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/monasterio-leyre.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -234,12 +234,9 @@ heredaron su fórmula secreta de los padres franceses fundadores.
 
 ### Sigue leyendo más Gastro en Etheria magazine...
 
-[](https://etheriamagazine.com/2021/11/19/recetas-cocas-patata-anis-turron-de-palma/)[Siete 
-productos que saben a León y no pueden faltar en tu 
-mes](https://etheriamagazine.com/2021/08/23/productos-gastronomia-leon/)a. 
+{{< reflink path=posts/2021/11/recetas-cocas-patata-anis-turron-de-palma >}}{{< reflink 
+path=posts/2021/08/productos-gastronomia-leon >}}a. 
 
-[Qué es el ramen y dónde probarlo en 
-Tokio](https://etheriamagazine.com/2021/05/06/donde-comer-ramen-bueno-y-barato-en-tokio/). 
+{{< reflink path=posts/2021/05/donde-comer-ramen-bueno-y-barato-en-tokio >}}. 
 
-[Cocina madre, el tributo de Joan Roca a su mejor 
-maestra](https://etheriamagazine.com/2021/04/03/nuevo-libro-joan-roca-cocina-madre/).
+{{< reflink path=posts/2021/04/nuevo-libro-joan-roca-cocina-madre >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Disfruta del surf sin preocuparte de nada más"
 date: 2020-03-24
-coverImage: https://fotos.etheriamagazine.com/2020/03/seguro-viaje-deportivo.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/seguro-viaje-deportivo.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,9 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-¿Necesito un seguro si hago un viaje donde voy a practicar surf? ¿qué coberturas son las 
-imprescindibles? Te aclaramos estas dudas en el siguiente artículo. Después de leerlo, 
-valora por ti misma si te interesa un seguro de viajes con cobertura deportiva. 
+**¿Necesito un seguro si hago un viaje donde voy a practicar surf? ¿qué coberturas son 
+las imprescindibles? Te aclaramos estas dudas en el siguiente artículo. Después de 
+leerlo, valora por ti misma si te interesa un seguro de viajes con cobertura 
+deportiva.** 
 
 ![viajes de surf, seguros deportivos](https://fotos.etheriamagazine.com/2020/03/seguro-viaje-surf.jpg "Los viajes para practicar surf son cada vez más populares. © PB")
 
@@ -71,7 +72,8 @@ Nuestra recomendación es que seas cuidadoso y te leas detenidamente la letra pe
 (siempre la hay) y que, ante la duda, contrates la cobertura superior (no es mucho más e 
 irás más tranquilo). 
 
-El seguro [Totalsport](https://www.intermundial.es/afiliados/seguros-de-viaje?tduid=ffe016af24240d209d907c9872dd27dc&utm_source=Tradedoubler&utm_medium=1&utm_campaign=General&utm_content=3132464&utm_term=23930012) 
+El seguro 
+[Totalsport](https://www.intermundial.es/afiliados/seguros-de-viaje?tduid=ffe016af24240d209d907c9872dd27dc&utm_source=Tradedoubler&utm_medium=1&utm_campaign=General&utm_content=3132464&utm_term=23930012) 
 de Intermundial cubre, entre otros 100 deportes, la práctica del surf, es válido en todo 
 el mundo y si lo renuevas anualmente consigues primas interesantes. Sus principales 
 ventajas son que, además de tener cubierta la asistencia médica, la cancelación de 
@@ -92,6 +94,5 @@ Mapfre**, la opción de Aventura.
 ¿No crees que merece la pena disfrutar del deporte sin otra preocupación que no sean las 
 olas por lo que cuesta una copa al día? 
 
-Si el surf es tu pasión, continúa leyendo este artículo de [Ericeira, la meca del surf 
-en 
-Portugal](https://etheriamagazine.com/2020/03/24/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf/).
+Si el surf es tu pasión, continúa leyendo este artículo de {{< reflink 
+path=posts/2024/08/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf >}}.

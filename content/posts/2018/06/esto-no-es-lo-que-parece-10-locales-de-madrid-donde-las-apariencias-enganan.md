@@ -1,7 +1,7 @@
 ---
 title: "10 locales clandestinos de Madrid o donde las apariencias engañan"
 date: 2018-06-28
-coverImage: https://fotos.etheriamagazine.com/2018/06/Madrid-bar-clandestino.jpg
+cover: https://fotos.etheriamagazine.com/2018/06/Madrid-bar-clandestino.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -156,11 +156,8 @@ Peaks hasta los cócteles o la riquísima cherry pie casera.
 
 También te puede interesar... 
 
-[Las 10 mejores coctelerías de Madrid para tu próxima noche de 
-amigas](https://etheriamagazine.com/2019/10/22/10-mejores-coctelerias-de-madrid-salir-con-amigas/). 
+{{< reflink path=posts/2019/10/10-mejores-coctelerias-de-madrid-salir-con-amigas >}}. 
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/). 
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}. 
 
-[10 planes originales en Madrid para hacer con 
-amigas](https://etheriamagazine.com/2020/08/27/10-planes-originales-en-madrid-con-amigas/).
+{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}.

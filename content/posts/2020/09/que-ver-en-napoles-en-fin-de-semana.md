@@ -1,7 +1,7 @@
 ---
 title: "Caótica Nápoles: 48 horas en la ciudad más canalla de Italia"
 date: 2020-09-04
-coverImage: https://fotos.etheriamagazine.com/2020/08/Golfo-di-Napoli-Campania.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/Golfo-di-Napoli-Campania.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -199,18 +199,15 @@ buena idea tirar de sentido común y ser precavidas.
 
 Si te gustan las visitas guiadas, te recomendamos realizar algún [freetour en 
 Nápoles](https://www.civitatis.com/es/napoles/free-tour-napoles-antiguo/?aid=10211) o 
-visita temática. También tienes la opción de hacer excursiones a [Pompeya](https://www.civitatis.com/es/napoles/excursion-pompeya/?aid=10211) 
-y [Costa 
+visita temática. También tienes la opción de hacer excursiones a 
+[Pompeya](https://www.civitatis.com/es/napoles/excursion-pompeya/?aid=10211) y [Costa 
 Amalfitana](https://www.civitatis.com/es/napoles/excursion-costa-amalfitana/?aid=10211), 
 a buenos precios. 
 
 ### Sigue leyendo en Etheria magazine...
 
-[Casi un mar: rodea en coche el lago de Garda, el mayor de 
-Italia](https://etheriamagazine.com/2021/09/22/ruta-en-coche-en-lago-de-garda-italia/). 
+{{< reflink path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}}. 
 
-[Turín con amigas: viaja a la ciudad más supersticiosa de 
-Italia](https://etheriamagazine.com/2021/07/16/que-ver-en-turin-en-un-viaje-con-amigas/). 
+{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}}. 
 
-[Nueve paseos a la italiana por los jardines más bellos de 
-Florencia](https://etheriamagazine.com/2021/05/21/paseos-por-los-jardines-mas-bellos-de-florencia/).
+{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Una guía para que no te dejes (casi) nada por ver en Manhattan"
 date: 2024-01-11
-coverImage: https://fotos.etheriamagazine.com/2024/01/manhattan-ferry.jpg
+cover: https://fotos.etheriamagazine.com/2024/01/manhattan-ferry.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -246,11 +246,8 @@ del edificio. También cuenta con dos plantas con zonas acristaladas y un bar.
 
 También te puede interesar: 
 
-[Los mejores miradores de Nueva York: nuevos, de pago y 
-gratuitos](https://etheriamagazine.com/2020/02/24/los-mejores-miradores-de-nueva-york-gratis-de-pago/) 
+{{< reflink path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}} 
 
-[Nueva York: el mejor plan con amigas al otro lado del 
-charco](https://etheriamagazine.com/2019/05/17/viaje-con-amigas-nueva-york-primavera/) 
+{{< reflink path=posts/2019/05/viaje-con-amigas-nueva-york-primavera >}} 
 
-[Viaje a Nueva York con niños: 8 planes que no puedes 
-perderte](https://etheriamagazine.com/2018/07/23/8-planes-con-ninos-en-nueva-york/)
+{{< reflink path=posts/2018/07/8-planes-con-ninos-en-nueva-york >}}

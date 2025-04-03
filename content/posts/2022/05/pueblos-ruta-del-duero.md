@@ -1,7 +1,7 @@
 ---
 title: "Descubre los secretos de la Ruta del Duero de pueblo en pueblo"
 date: 2022-05-17
-coverImage: https://fotos.etheriamagazine.com/2022/05/xokoreto-castronuno-ribera-duero.jpg
+cover: https://fotos.etheriamagazine.com/2022/05/xokoreto-castronuno-ribera-duero.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,11 @@ authors:
   - Pedro Grifol
 ---
 
-Los pueblos de esta Ruta del Duero nos hablan de historia, de cultura, de enología y del 
-arte del buen vivir. Cada uno de ellos aporta en esta escapada por tierras de Castilla y 
-León una pincelada curiosa y, sobre todo, con mucho sabor. ¿Nos acompañas a conocer 
-Aranda de Duero, Haza, Peñafiel, Padilla de Duero, Valbuena de Duero, Castronuño y Toro? 
+**Los pueblos de esta Ruta del Duero nos hablan de historia, de cultura, de enología y 
+del arte del buen vivir. Cada uno de ellos aporta en esta escapada por tierras de 
+Castilla y León una pincelada curiosa y, sobre todo, con mucho sabor. ¿Nos acompañas a 
+conocer Aranda de Duero, Haza, Peñafiel, Padilla de Duero, Valbuena de Duero, Castronuño 
+y Toro?** 
 
 ![Una joven sostiene un bote de setas en Xokoreto, en Castronuño.](https://fotos.etheriamagazine.com/2022/05/xokoreto-castronuno-ribera-duero.jpg "Xokoreto, en Castronuño. © Pedro Grifol")
 
@@ -116,8 +117,8 @@ de interpretación del yacimiento arqueológico de Pintia.
 
 En una escapada de finde, nos merecemos una buena cena, un buen alojamiento y ¡un buen 
 desayuno! Este 3 x 1 está en el monasterio cisterciense del siglo XII de Santa María de 
-Valbuena, convertido en hotel de lujo, gestionado por [Castilla 
-Termal](https://etheriamagazine.com/2021/10/29/castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero/) 
+Valbuena, convertido en hotel de lujo, gestionado por {{< reflink 
+path=posts/2021/10/castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero >}} 
 y que se encuentra en Valbuena de Duero. Tiene un completísimo spa con aguas 
 mineromedicinales. Además, tenemos la garantía de que sus fogones están asesorados por 
 la sabiduría culinaria del chef Miguel Ángel de la Cruz, flamante estrella Michelin 
@@ -193,11 +194,10 @@ inyección de felicidad.
 
 **También te puede interesar...** 
 
-[Ruta por Ribera del Duero: de bodega en bodega por la 
-N-122](https://etheriamagazine.com/2018/05/21/ruta-del-vino-ribera-del-duero-valladolid/). 
+{{< reflink path=posts/2018/05/ruta-del-vino-ribera-del-duero-valladolid >}}. 
 
-[Ruta del lechazo: los mejores asadores de Castilla y 
-León](https://etheriamagazine.com/2019/04/25/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon/). 
+{{< reflink 
+path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
+>}}. 
 
-[32 excursiones de un día donde la cultura y el vino se dan la 
-mano](https://etheriamagazine.com/2021/04/13/32-excursiones-de-un-dia-en-rutas-vino-espana/).
+{{< reflink path=posts/2021/04/32-excursiones-de-un-dia-en-rutas-vino-espana >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en Brno: una escapada muy 'chic' a Chequia"
 date: 2022-08-26
-coverImage: https://fotos.etheriamagazine.com/2022/08/brno-catedral-pedro-pablo.jpg
+cover: https://fotos.etheriamagazine.com/2022/08/brno-catedral-pedro-pablo.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -33,8 +33,8 @@ ciudad como base para conocer la atractiva región de Moravia.
 **1\. [Catedral de Pedro y Pablo](#Catedral). 2. [Antiguo 
 Ayuntamiento](#Antiguo-Ayuntamiento). 3. [Un dragón que no lo es](#Dragón). 4. [Mercado 
 de la Col](#Mercado-Col). 5. [Reloj Astronómico](#Reloj-astronómico). 6. [Iglesia de 
-Santiago](#Iglesia-Santiago). 7. [La jirafa](#La-Jirafa). 8. [Bunker 10-Z](#Bunker). 9. [Castillo 
-de Špilberk](#Castillo-Spilberk). 10. [Villa Tugendhat](#Villa-Tugendhat).** 
+Santiago](#Iglesia-Santiago). 7. [La jirafa](#La-Jirafa). 8. [Bunker 10-Z](#Bunker). 9. 
+[Castillo de Špilberk](#Castillo-Spilberk). 10. [Villa Tugendhat](#Villa-Tugendhat).** 
 
 ### 1\. Catedral de Pedro y Pablo
 
@@ -205,12 +205,9 @@ apetece hacer una parada.
 
 ## También te puede interesar:
 
-[Karlovy Vary, Mariánské Lázně y Františkovy Lázně, descubre el secreto de la eterna 
-juventud en 
-Chequia](https://etheriamagazine.com/2021/08/13/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy/) 
+{{< reflink 
+path=posts/2021/08/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy >}} 
 
-[13 castillos de Chequia envueltos en enigmas y 
-misterios](https://etheriamagazine.com/2020/10/09/13-castillos-mas-misteriosos-de-republica-checa/) 
+{{< reflink path=posts/2020/10/13-castillos-mas-misteriosos-de-republica-checa >}} 
 
-[Descubre las huellas del comunismo en 
-Chequia](https://etheriamagazine.com/2019/11/17/ruta-revolucion-terciopelo-comunismo-republica-checa/)
+{{< reflink path=posts/2019/11/ruta-revolucion-terciopelo-comunismo-republica-checa >}}

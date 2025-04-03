@@ -1,7 +1,7 @@
 ---
 title: "Boracay y Bohol, un viaje romántico a Filipinas"
 date: 2019-06-07
-coverImage: https://fotos.etheriamagazine.com/2019/05/Filipinas-bohol-playa.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/Filipinas-bohol-playa.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -208,14 +208,10 @@ español, chino…
 
 ### También te puede interesar...
 
-[Cómo organizar un viaje de novios inolvidable y no morir en el 
-intento](https://etheriamagazine.com/2021/01/13/como-organizar-viaje-de-novios-o-luna-de-miel/). 
+{{< reflink path=posts/2021/01/como-organizar-viaje-de-novios-o-luna-de-miel >}}. 
 
-[10 ideas para tu viaje de 
-novios](https://etheriamagazine.com/2019/09/18/10-ideas-para-tu-viaje-de-novios-luna-de-miel/). 
+{{< reflink path=posts/2019/09/10-ideas-para-tu-viaje-de-novios-luna-de-miel >}}. 
 
-[Islas Maldivas, mucho más que un destino para lunas de 
-miel](https://etheriamagazine.com/2021/03/23/guia-que-hacer-en-maldivas-buceo-surf/). 
+{{< reflink path=posts/2021/03/guia-que-hacer-en-maldivas-buceo-surf >}}. 
 
-[Islas Seychelles, el nuevo paraíso para los viajeros 
-españoles](https://etheriamagazine.com/2020/11/16/islas-seychelles-un-viaje-de-lujo-al-paraiso/).
+{{< reflink path=posts/2020/11/islas-seychelles-un-viaje-de-lujo-al-paraiso >}}.

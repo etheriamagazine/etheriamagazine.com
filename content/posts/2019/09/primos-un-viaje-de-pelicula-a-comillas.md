@@ -1,7 +1,7 @@
 ---
 title: "Ruta de cine: 'Primos' en Comillas"
 date: 2019-09-03
-coverImage: https://fotos.etheriamagazine.com/2019/07/Viaje-comillas-vista-aerea.jpg
+cover: https://fotos.etheriamagazine.com/2019/07/Viaje-comillas-vista-aerea.jpg
 categories: 
   - inspiración
 destino: 
@@ -145,8 +145,6 @@ protagonizando otra.
 
 **También te puede interesar...** 
 
-[12 playas de cine en España donde darse un 
-chapuzón](https://etheriamagazine.com/2021/07/19/12-playas-espanolas-que-salen-en-peliculas/). 
+{{< reflink path=posts/2021/07/12-playas-espanolas-que-salen-en-peliculas >}}. 
 
-[Despierta tu lado más friki: 9 destinos de cine y 
-series](https://etheriamagazine.com/2020/03/20/viajes-sin-salir-de-casa-destinos-cine-y-series/).
+{{< reflink path=posts/2020/03/viajes-sin-salir-de-casa-destinos-cine-y-series >}}.

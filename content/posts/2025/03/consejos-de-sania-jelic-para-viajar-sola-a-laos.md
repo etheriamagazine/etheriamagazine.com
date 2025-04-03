@@ -1,7 +1,7 @@
 ---
 title: "Viaja sola y segura a Laos con estos consejos de Sania Jelic"
 date: 2025-03-06
-coverImage: https://fotos.etheriamagazine.com/2025/02/sania-laos-mirador.jpg
+cover: https://fotos.etheriamagazine.com/2025/02/sania-laos-mirador.jpg
 categories: 
   - viajar-sola
   - mujeres-top
@@ -178,11 +178,8 @@ su pago por PayPal, no dudé ni un momento de que el dinero me iba a llegar.
 
 **También te puede interesar:** 
 
-[Bali en solitario: yoga, retiros y aventuras de Sania 
-Jelic](https://etheriamagazine.com/2025/02/25/viajar-sola-a-bali-consejos-sania-jelic/) 
+{{< reflink path=posts/2025/02/viajar-sola-a-bali-consejos-sania-jelic >}} 
 
-[Consejos prácticos de Sania Jelic para viajar sola a 
-Japón](https://etheriamagazine.com/2025/01/03/consejos-practicos-sania-jelic-viajar-sola-a-japon/) 
+{{< reflink path=posts/2025/01/consejos-practicos-sania-jelic-viajar-sola-a-japon >}} 
 
-[Luang Prabang, la población más incorrupta de la antigua 
-Indochina](https://etheriamagazine.com/2018/12/17/guia-viaje-para-mujeres-luang-prabang/)
+{{< reflink path=posts/2018/12/guia-viaje-para-mujeres-luang-prabang >}}

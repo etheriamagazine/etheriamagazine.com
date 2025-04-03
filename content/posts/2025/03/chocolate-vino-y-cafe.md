@@ -1,7 +1,7 @@
 ---
 title: "Chocolate, vino y café: un trío perfecto para una tarde de relax"
 date: 2025-03-04
-coverImage: https://fotos.etheriamagazine.com/2025/02/chocolate-kaitxo-2.jpg
+cover: https://fotos.etheriamagazine.com/2025/02/chocolate-kaitxo-2.jpg
 categories: 
   - gourmet
 destino: 
@@ -23,8 +23,9 @@ chocolate son excelentes testigos de charlas y confidencias. Cada uno de estos p
 tiene sus propias claves, sabores y aromas que, bien combinados, se complementan a la 
 perfección. En este artículo seguiremos las recomendaciones de **Raquel González**, **la 
 primera catadora oficial de chocolates de España**, para que la experiencia sea 
-inolvidable. Nadie mejor que ella, que además es cofundadora de [Kaitxo](https://kaitxo.com/) 
-Chocolates y Cafés de Especialidad, para descubrirnos los secretos de estas delicias. 
+inolvidable. Nadie mejor que ella, que además es cofundadora de 
+[Kaitxo](https://kaitxo.com/) Chocolates y Cafés de Especialidad, para descubrirnos los 
+secretos de estas delicias. 
 
 Kaitxo, la empresa donde trabaja Raquel, está ubicada en Las Encartaciones (Bizkaia) y 
 es de carácter familiar. En ella se dedican principalmente a la elaboración de 
@@ -91,5 +92,4 @@ a Milton S. Hershey, fundador de la famosa compañía de chocolates Hershey.
 
 **También en Etheria Magazine** 
 
-[Postres de chocolate con efecto terapéutico en 
-Madrid](https://etheriamagazine.com/2020/09/11/donde-tomar-mejores-postres-chocolate-en-madrid/).
+{{< reflink path=posts/2020/09/donde-tomar-mejores-postres-chocolate-en-madrid >}}.

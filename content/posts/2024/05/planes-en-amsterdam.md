@@ -1,7 +1,7 @@
 ---
 title: "Planes en Ámsterdam que no te puedes perder este 2024"
 date: 2024-05-20
-coverImage: https://fotos.etheriamagazine.com/2024/05/Canales-Amsterdam.jpg
+cover: https://fotos.etheriamagazine.com/2024/05/Canales-Amsterdam.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -185,8 +185,6 @@ canales.
 
 **También te puede interesar:** 
 
-[Museo NEMO en Ámsterdam, ciencia al alcance de la 
-mano](https://etheriamagazine.com/2018/10/06/museo-nemo-en-amsterdam-ciencia-para-toda-la-familia/) 
+{{< reflink path=posts/2018/10/museo-nemo-en-amsterdam-ciencia-para-toda-la-familia >}} 
 
-[Visitas en Ámsterdam para un finde con tu 
-madre](https://etheriamagazine.com/2018/09/25/amsterdam-un-fin-de-semana-con-tu-madre/)
+{{< reflink path=posts/2018/09/amsterdam-un-fin-de-semana-con-tu-madre >}}

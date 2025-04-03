@@ -1,7 +1,7 @@
 ---
 title: "9 exposiciones en Madrid para este otoño: te van a apetecer todas"
 date: 2022-09-09
-coverImage: https://fotos.etheriamagazine.com/2022/09/exposiciones-madrid-frida-kalho-entrada.jpg
+cover: https://fotos.etheriamagazine.com/2022/09/exposiciones-madrid-frida-kalho-entrada.jpg
 categories: 
   - cultura
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-La vida cultural de Madrid siempre es un aliciente para visitar la capital desde otras 
+**La vida cultural de Madrid siempre es un aliciente para visitar la capital desde otras 
 ciudades y para los propios madrileños que siempre están buscando nuevas propuestas para 
 disfrutar de su tiempo de ocio. Aquí te proponemos 9 exposiciones que puedes visitar 
-durante este otoño de 2022, para que vayas organizando tu agenda. 
+durante este otoño de 2022, para que vayas organizando tu agenda.** 
 
 ![fotografía de Frida Kalho](https://fotos.etheriamagazine.com/2022/09/exposiciones-madrid-frida-kalho-entrada.jpg "Entrada a la exposición sobre Frida Kalho en © Casa de México.")
 
@@ -27,14 +27,13 @@ exposiciones en Madrid en otoño porque te van a apetecer todas.
 ## 'Hijas del Nilo'
 
 Nos gusta tanto la exposición “Hijas del Nilo. Mujer y sociedad en el antiguo Egipto” 
-que ya le dedicamos un artículo monográfico (puedes leerlo en el enlace [‘Hijas del 
-Nilo’, una cita con las mujeres del antiguo Egipto en 
-Madrid](https://etheriamagazine.com/2022/07/04/exposicion-hijas-del-nilo-madrid/)). No 
-queremos perder la ocasión de recordaros que, si todavía no la habéis visto, es una cita 
-obligada en la vida cultural de Madrid. Una ocasión única para acercarse al mundo 
-femenino de este apasionante periodo histórico a través de los objetos cotidianos y de 
-la vida funeraria. Además, podrás profundizar en la vida de alguna mujeres como Tiyi, 
-Nefertari, Nefertiti o Cleopatra VII. 
+que ya le dedicamos un artículo monográfico (puedes leerlo en el enlace {{< reflink 
+path=posts/2022/07/exposicion-hijas-del-nilo-madrid >}}). No queremos perder la ocasión 
+de recordaros que, si todavía no la habéis visto, es una cita obligada en la vida 
+cultural de Madrid. Una ocasión única para acercarse al mundo femenino de este 
+apasionante periodo histórico a través de los objetos cotidianos y de la vida funeraria. 
+Además, podrás profundizar en la vida de alguna mujeres como Tiyi, Nefertari, Nefertiti 
+o Cleopatra VII. 
 
 ![sala de la exposición Hijas del Nilo en el Palacio de Alhajas](https://fotos.etheriamagazine.com/2022/09/Hijas_del_Nilo-sarcofago.jpg "Sarcófago en la exposición 'Hijas del Nilo'.")
 

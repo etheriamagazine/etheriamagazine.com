@@ -1,7 +1,7 @@
 ---
 title: "Las 10 mejores coctelerías de Madrid para tu próxima noche de amigas"
 date: 2019-10-22
-coverImage: https://fotos.etheriamagazine.com/2019/10/Coctelerias-Madrid-Coctel-Macera.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/Coctelerias-Madrid-Coctel-Macera.jpg
 categories: 
   - gourmet
   - inspiración
@@ -227,8 +227,8 @@ limón.
 
 Reconozco mi debilidad absoluta por el mundo "tiki". Adoro a Harry Belafonte, tengo 
 ensoñaciones tropicales y considero que la vida es mucho mejor con un “volcán” con 
-pajita. Así que en mi lista de coctelerías favoritas no podía faltar el local malasañero [Tiki 
-Chateau](https://tiki-chateau.eatbu.com/?lang=es), que recupera lo mejor de estos 
+pajita. Así que en mi lista de coctelerías favoritas no podía faltar el local malasañero 
+[Tiki Chateau](https://tiki-chateau.eatbu.com/?lang=es), que recupera lo mejor de estos 
 espacios que fueran tan populares hace ya unos cuantos años y que ahora vuelven a vivir 
 buenos momentos. Aquí encontrarás una coctelería Tiki y tropical clásica, buen ambiente 
 y un trocito del Pacífico en pleno centro de Madrid. 
@@ -259,12 +259,9 @@ opción.
 
 ## También te puede interesar:
 
-[10 tabernas históricas de Madrid donde tomar el 
-vermú](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/) 
+{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}} 
 
-[](https://etheriamagazine.com/2022/01/24/restaurantes-peruanos-en-madrid-de-jhosef-arias/)[10 
-restaurantes para salir a cenar con amigas en 
-Madrid](https://etheriamagazine.com/2018/11/09/10-restaurantes-para-salir-a-cenar-con-amigas-en-madrid/) 
+{{< reflink path=posts/2022/01/restaurantes-peruanos-en-madrid-de-jhosef-arias >}}{{< 
+reflink path=posts/2018/11/10-restaurantes-para-salir-a-cenar-con-amigas-en-madrid >}} 
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/)
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}

@@ -1,7 +1,7 @@
 ---
 title: "Ruta gastronómica de 'Foodie Love' (HBO España)"
 date: 2019-12-16
-coverImage: https://fotos.etheriamagazine.com/2019/12/pelicula-foodie-love.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/pelicula-foodie-love.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-'Foodie Love', la propuesta de Isabel Coixet en HBO, ya se ha convertido en la serie del 
-año para muchos y ha sido nominada a los Premios Feroz. En Etheria Magazine nos interesa 
-su trama, su fotografía y su escenografía pero de lo que os hablaremos, para no hacer 
-_spoiler_, es de la ruta gastronómica de sus protagonistas. 
+**'Foodie Love', la propuesta de Isabel Coixet en HBO, ya se ha convertido en la serie 
+del año para muchos y ha sido nominada a los Premios Feroz. En Etheria Magazine nos 
+interesa su trama, su fotografía y su escenografía pero de lo que os hablaremos, para no 
+hacer _spoiler_, es de la ruta gastronómica de sus protagonistas.** 
 
 ![Cartel de Foodie Love](https://fotos.etheriamagazine.com/2019/12/pelicula-foodie-love.jpg "'Foodie Love'. ©HBO")
 
@@ -50,8 +50,8 @@ Paradiso** (calle de Rera Palau, 4. Barcelona) y se accede al mismo a través de
 puerta de una nevera. Este lugar recibió el premio On the Watch en 2017 como uno de los 
 mejores bares del mundo. Por supuesto, tendrás que pedir pastrami, como los 
 protagonistas, y cócteles sofisticados. Si visitáis la capital española, encontraréis en 
-este listado las [mejores coctelerías de 
-Madrid](https://etheriamagazine.com/2019/10/22/10-mejores-coctelerias-de-madrid-salir-con-amigas/). 
+este listado las {{< reflink 
+path=posts/2019/10/10-mejores-coctelerias-de-madrid-salir-con-amigas >}}. 
 
 ![cocteleria moderna, bares de cocteles barcelona](https://fotos.etheriamagazine.com/2019/12/bar-cocteles-barcelona.jpg "Coctelería en Bar Paradiso.")
 

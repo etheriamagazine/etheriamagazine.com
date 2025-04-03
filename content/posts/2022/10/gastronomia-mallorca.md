@@ -1,7 +1,7 @@
 ---
 title: "10 secretos ‘gastro’ que deberías conocer de Mallorca"
 date: 2022-10-25
-coverImage: https://fotos.etheriamagazine.com/2022/10/Mallorca-THE-MERCHANT-tuetano.jpg
+cover: https://fotos.etheriamagazine.com/2022/10/Mallorca-THE-MERCHANT-tuetano.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-Si ya has estado en Mallorca, seguramente conocerás sus virtudes gastronómicas, pero 
+**Si ya has estado en Mallorca, seguramente conocerás sus virtudes gastronómicas, pero 
 quizás te faltan estos lugares recomendados por los locales (con la boca pequeñita) y 
 que muchas veces no quieren que se difundan para que no se inunden de turistas. Así que 
 toma nota de estos 10 secretos para vivir la gastronomía de Mallorca como si fueras de 
-allí. 
+allí.** 
 
 ![Pato de tuetano del restaurante The Merchants en Mallorca](https://fotos.etheriamagazine.com/2022/10/Mallorca-THE-MERCHANT-tuetano.jpg "Tartar de ternera en hueso de tuétano de © The Merchants Steak&Grill.")
 
@@ -146,8 +146,9 @@ remanso de paz para hundirte en sus sofás tomando un cava, pero su jardín es u
 con un servicio casi increíble hoy en día. Destacan sus carnes de primera, como la del 
 tartar de ternera en hueso de tuétano y el ribeye, que le han merecido el reconocimiento 
 como el mejor Steakhouse de lujo de España en 2021 y 2022. Su carta de vinos es 
-sorprendente, pero se convierte en lujo gracias a los vinos exclusivos que sirven con el [Coravin](https://amzn.to/3eRgOtK) 
-(aparato que permite no descorchar la botella para que se conserven intactos). 
+sorprendente, pero se convierte en lujo gracias a los vinos exclusivos que sirven con el 
+[Coravin](https://amzn.to/3eRgOtK) (aparato que permite no descorchar la botella para 
+que se conserven intactos). 
 
 ## Buenos vinos de la isla
 
@@ -237,14 +238,11 @@ realidad.
 
 **Más temas de Mallorca:** 
 
-[Palma con amigas: 8 planazos para exprimir la capital de 
-Mallorca](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palma-mallorca-con-amigas/) 
+{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}} 
 
-[Cuevas de Mallorca, cinco fantasías 
-subterráneas](https://etheriamagazine.com/2021/08/26/cuevas-de-mallorca-con-ninos/) 
+{{< reflink path=posts/2021/08/cuevas-de-mallorca-con-ninos >}} 
 
-[8 excursiones en Mallorca para un viaje en 
-familia](https://etheriamagazine.com/2020/06/16/8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos/) 
+{{< reflink 
+path=posts/2020/06/8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos >}} 
 
-[De compras, mercados y algo más en Palma de 
-Mallorca](https://etheriamagazine.com/2019/08/01/24-horas-palma-mallorca-arte-compras-mercados/)
+{{< reflink path=posts/2019/08/24-horas-palma-mallorca-arte-compras-mercados >}}

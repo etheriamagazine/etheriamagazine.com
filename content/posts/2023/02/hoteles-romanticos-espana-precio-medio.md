@@ -1,7 +1,7 @@
 ---
 title: "Hoteles románticos en España, ni muy caros ni muy baratos"
 date: 2023-02-06
-coverImage: https://fotos.etheriamagazine.com/2023/02/hotel-teepee-romantico-avila.jpg
+cover: https://fotos.etheriamagazine.com/2023/02/hotel-teepee-romantico-avila.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Redacción Etheria
 ---
 
-Regalos de aniversarios, cumpleaños, el famoso San Valentín... nos pasamos horas 
+**Regalos de aniversarios, cumpleaños, el famoso San Valentín... nos pasamos horas 
 buscando hoteles románticos en España que sean capaces de sorprender y de sacarnos de 
 las peligrosas rutinas. Y es cierto que existe un buen número de alojamientos ideales 
 para parejas, pero a veces nos pillan lejos para un fin de semana o el precio se sale 
 del presupuesto. Si tu "romanticismo" tiene un término medio, estos hoteles –que no son 
-ni muy caros ni muy baratos– te resultarán útiles. 
+ni muy caros ni muy baratos– te resultarán útiles.** 
 
 ![Suite del hotel Castilla Termal Valbuena, en Ribera del Duero (Valladolid)](https://fotos.etheriamagazine.com/2023/02/suite-valbuena.jpg "Suite del hotel Castilla Termal Valbuena, en Ribera del Duero (Valladolid)")
 
@@ -38,16 +38,16 @@ necesitas.
 
 ### Glamping The Teepee, en Ávila
 
-Si además de un hotel romántico en la provincia de [Ávila](https://www.turismoavila.com/) 
-buscas algo original y campestre, este alojamiento situado en **Mombeltrán** puede ser 
-una opción. Como puedes imaginar por su nombre, sus 6 habitaciones se encuentran en 
-cabañas de madera al estilo teepee indio y están situadas en mitad de un bosque del 
-Parque Natural Sierra de Gredos. El interior de Glamping The Teepee, muy al estilo 
-nórdico, es perfecto para desconectar y pasar unos días en contacto con la naturaleza. 
-Cada cabaña cuenta con baño y ducha privados, y el desayuno se sirve diariamente en las 
-casas. También dispone de zonas comunes _chill out_ con sillones, columpios, barbacoa... 
-Muy cerca se encuentra el Área recreativa Playas Blancas, una zona con piscinas 
-naturales para refrescarse en verano. 
+Si además de un hotel romántico en la provincia de 
+[Ávila](https://www.turismoavila.com/) buscas algo original y campestre, este 
+alojamiento situado en **Mombeltrán** puede ser una opción. Como puedes imaginar por su 
+nombre, sus 6 habitaciones se encuentran en cabañas de madera al estilo teepee indio y 
+están situadas en mitad de un bosque del Parque Natural Sierra de Gredos. El interior de 
+Glamping The Teepee, muy al estilo nórdico, es perfecto para desconectar y pasar unos 
+días en contacto con la naturaleza. Cada cabaña cuenta con baño y ducha privados, y el 
+desayuno se sirve diariamente en las casas. También dispone de zonas comunes _chill out_ 
+con sillones, columpios, barbacoa... Muy cerca se encuentra el Área recreativa Playas 
+Blancas, una zona con piscinas naturales para refrescarse en verano. 
 
 📍Más información en glampingtheteepee.com 
 
@@ -97,8 +97,9 @@ balneario con una sala privada que emula a la capilla de San Pedro. No olvides r
 en su magnífico restaurante. Y si quieres complementar la escapada, en el entorno 
 encontrarás un buen número de bodegas. 
 
-📍Más información de [Castilla Termal 
-Valbuena](https://etheriamagazine.com/2021/10/29/castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero/). 
+📍Más información de {{< reflink 
+path=posts/2021/10/castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero 
+>}}. 
 
 ![Sala de contrastes Capilla de San Pedro, en Monasterio de Valbuena, el hotel más romántico de Valladolid](https://fotos.etheriamagazine.com/2021/10/circuito-de-contrastes-monasterio-valbuena.jpg "Sala de contrastes Capilla de San Pedro. © CT Monasterio de Valbuena")
 
@@ -115,8 +116,7 @@ la cabaña y ponen a tu disposición una extensa carta en la que elegir el almue
 cena. La experiencia se puede completar con cata de vinos o un masaje en la propia 
 cabaña. No se puede pedir más. 
 
-📍Más información de [La 
-Dehesa](https://etheriamagazine.com/2022/06/10/la-dehesa-experience-cordoba/). 
+📍Más información de {{< reflink path=posts/2022/06/la-dehesa-experience-cordoba >}}. 
 
 ![Cabaña tipo glamping en La Dehesa Experience.](https://fotos.etheriamagazine.com/2022/06/dehesa-experience-glamping.jpg "Cabaña tipo glamping en © La Dehesa Experience.")
 
@@ -130,9 +130,8 @@ personas). En el conjunto del faro y la casa del farero hay también una piscina
 _infinity_, un jardín y un mirador (arriba del faro) desde donde observar las olas a 34 
 metros de altura. El desayuno se lleva diariamente al faro y se pueden organizar también 
 veladas románticas con cena y velas. Si te quedas varios días en La Palma, anímate a 
-visitar la isla para descubrir su increíble belleza (consulta aquí los [Imprescindibles 
-de La 
-Palma](https://etheriamagazine.com/2021/04/05/10-secretos-para-conocer-la-isla-de-la-palma/)). 
+visitar la isla para descubrir su increíble belleza (consulta aquí los {{< reflink 
+path=posts/2021/04/10-secretos-para-conocer-la-isla-de-la-palma >}}). 
 
 📍Más información en [Floatel](https://floatel.de/es/hideaways/faro-punta-cumplida). 
 
@@ -148,8 +147,7 @@ paz. Sus habitaciones, aunque un poco sobrias, son amplias y confortables. No de
 reservar en su restaurante, donde se rinde culto al albariño y a los pescados y mariscos 
 de la ría. Y si eres más de carnes, en su carta tampoco falta la deliciosa ternera 
 blanca gallega. Completa tu estancia con una ruta por las bellezas de Pontevedra de las 
-que te hablamos en este artículo: [Guía esencial de Pontevedra: ciudades, islas, castros 
-y rutas mágicas](https://etheriamagazine.com/2022/12/14/que-ver-pontevedra/). 
+que te hablamos en este artículo: {{< reflink path=posts/2022/12/que-ver-pontevedra >}}. 
 
 📍Más información en paradores.es/es/parador-de-cambados 
 
@@ -166,8 +164,8 @@ amantes de los deportes náuticos. Cuenta con su propio restaurante, el **Ayalga
 ofrece deliciosos menús degustación y se ha convertido en toda una referencia en la 
 costa cantábrica. 
 
-📍Más información de [Villa 
-Rosario.](https://etheriamagazine.com/2021/07/20/hotel-villa-rosario-palacio-ribadesella/) 
+📍Más información de {{< reflink 
+path=posts/2021/07/hotel-villa-rosario-palacio-ribadesella >}} 
 
 ![Hotel Villa Rosario, en Ribadesella.](https://fotos.etheriamagazine.com/2021/07/hotel-villa-rosario-asturias.jpg "© Hotel Villa Rosario, en Ribadesella.")
 
@@ -182,8 +180,8 @@ entorno: La Marina, Guadalupe, Getaria, Pasajes, Jaizkibel, Baluarte de la Reina
 Belharra o Peñas de Aia. Además, en el mismo hotel disponen de spa y de un afamado 
 restaurante donde degustar la mejor cocina vasca de autor. 
 
-📍Más información de [Villa 
-Magalean](https://etheriamagazine.com/2019/12/03/hotel-villa-magalean-spa-restaurante-en-hondarribia/). 
+📍Más información de {{< reflink 
+path=posts/2019/12/hotel-villa-magalean-spa-restaurante-en-hondarribia >}}. 
 
 ![Cada detalle está cuidadosamente pensado en Villa Magalean.](https://fotos.etheriamagazine.com/2019/11/villa-magalean-hotel-salon.jpg "Cada detalle está cuidadosamente pensado en © Villa Magalean.")
 

@@ -1,7 +1,7 @@
 ---
 title: "Conoce el Museo Naval de Madrid y sus 10 piezas imprescindibles"
 date: 2021-04-30
-coverImage: https://fotos.etheriamagazine.com/2021/04/expediciones-museo-naval.jpg
+cover: https://fotos.etheriamagazine.com/2021/04/expediciones-museo-naval.jpg
 categories: 
   - cultura
   - ocio
@@ -200,8 +200,6 @@ Naval](https://www.fundacionmuseonaval.com/museonavalmadrid.html).
 
 ### También te puede interesar...
 
-[15 obras del Museo del Prado para una visita 
-exprés](https://etheriamagazine.com/2019/09/24/15-obras-imprescindibles-en-el-prado/). 
+{{< reflink path=posts/2019/09/15-obras-imprescindibles-en-el-prado >}}. 
 
-[Museo de las Relaciones Rotas 
-(Zagreb)](https://etheriamagazine.com/2018/10/27/museo-de-las-relaciones-rotas-zagreb/).
+{{< reflink path=posts/2018/10/museo-de-las-relaciones-rotas-zagreb >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Castilla Termal Olmedo, el retiro que Santa Teresa habría querido conocer"
 date: 2023-11-25
-coverImage: https://fotos.etheriamagazine.com/2023/11/castilla-termal-olmedo-patio-mudejar.jpg
+cover: https://fotos.etheriamagazine.com/2023/11/castilla-termal-olmedo-patio-mudejar.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Pepa G. Marín
 ---
 
-Mujeres tan ilustres como Santa Teresa de Jesús o la reina Juana I de Castilla 
+**Mujeres tan ilustres como Santa Teresa de Jesús o la reina Juana I de Castilla 
 descansaron en las antiguas celdas del convento de Sancti Spiritus. Sin embargo, si 
 regresaran hoy día se encontrarían un tipo de retiro mucho más atractivo. Estamos 
 seguras de que optarían por quedarse a vivir para siempre en el actual balneario 
 Castilla Termal Olmedo, un lugar excepcional para recuperar el bienestar físico y 
-espiritual en Valladolid. 
+espiritual en Valladolid.** 
 
 ![Patio Mudéjar, en el Castilla Termal Olmedo](https://fotos.etheriamagazine.com/2023/11/castilla-termal-olmedo-patio-mudejar.jpg "Patio Mudéjar, en el Castilla Termal Olmedo (Valladolid).")
 
@@ -116,9 +116,10 @@ Castilla y León.
 
 Y de postre, es obligado probar su deliciosa tarta de queso. No habréis saboreado nada 
 igual. Por supuesto, todo ello regado con los vinos de la D.O. Rueda o con un vino 
-**Converso**, el que elabora la cadena con las uvas de los viñedos situados junto al [Castilla 
-Termal Monasterio de 
-Valbuena](https://etheriamagazine.com/2021/10/29/castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero/). 
+**Converso**, el que elabora la cadena con las uvas de los viñedos situados junto al {{< 
+reflink 
+path=posts/2021/10/castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero 
+>}}. 
 
 Además del restaurante Hontanar, también se puede tomar algo más ligero en el Gastrobar 
 del Convento (con carta propia), la terraza del Patio Porticado o La Bodeguita. 
@@ -138,9 +139,8 @@ La segunda propuesta es especial para las amantes del enoturismo, ya que esta zo
 incluida dentro de la **Ruta del Vino de Rueda** por lo que no faltan bodegas o 
 restaurantes gastronómicos para disfrutar de una experiencia única. 
 
-✅ En este artículo encontraréis todas las claves para vuestra escapada. [Cómo disfrutar 
-de la Ruta del Vino de Rueda, tu guía más 
-hedonista](https://etheriamagazine.com/2023/11/14/guia-enoturismo-ruta-del-vino-rueda/). 
+✅ En este artículo encontraréis todas las claves para vuestra escapada. {{< reflink 
+path=posts/2023/11/guia-enoturismo-ruta-del-vino-rueda >}}. 
 
 ![Recepción del hotel balneario Castilla Termal Olmedo.](https://fotos.etheriamagazine.com/2023/11/recepcion-castilla-termal-olmedo.jpg "Recepción del hotel balneario Castilla Termal Olmedo.")
 

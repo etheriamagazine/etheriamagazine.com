@@ -1,7 +1,7 @@
 ---
 title: "Nuestros favoritos de Coimbra, una ciudad donde los sueños se hacen realidad"
 date: 2020-01-31
-coverImage: https://fotos.etheriamagazine.com/2020/01/universidad-coimbra.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/universidad-coimbra.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Pepa G. Marín
 ---
 
-Un fin de semana en Coimbra te asegura visitas históricas, ambiente universitario, 
+**Un fin de semana en Coimbra te asegura visitas históricas, ambiente universitario, 
 museos variopintos, fados, historias de amor y una rica gastronomía. Un viaje con amigas 
-o en familia a esta ciudad portuguesa lo tiene todo para ser un sueño cumplido. 
+o en familia a esta ciudad portuguesa lo tiene todo para ser un sueño cumplido.** 
 
 ![Patio de la Universidad de Coimbra](https://fotos.etheriamagazine.com/2020/01/universidad-coimbra-1.jpg "Patio de la Universidad de Coimbra. © RR/ TdP")
 
@@ -22,8 +22,9 @@ grandes desniveles entre la parte alta y la parte baja, por lo que conviene ir c
 zapatos planos o lo más cómodos posibles. Para que organices las visitas lo mejor 
 posible, te contamos cuáles son algunos de sus atractivos. 
 
-📍Si te interesa hacer el primer paseo acompañada en un [freetour](https://www.civitatis.com/es/coimbra/free-tour-coimbra/?aid=10211), 
-no tienes más que reservarlo y luego pagar lo que consideres. 
+📍Si te interesa hacer el primer paseo acompañada en un 
+[freetour](https://www.civitatis.com/es/coimbra/free-tour-coimbra/?aid=10211), no tienes 
+más que reservarlo y luego pagar lo que consideres. 
 
 ## Qué ver en Coimbra
 
@@ -53,7 +54,8 @@ fiesta.
 
 Integrada en el tejido urbano, apenas es perceptible hasta que la tienes casi encima. 
 Externamente, da la impresión de solidez, y, de hecho, se clasifica dentro de la 
-categoría de catedrales fortaleza (recuerda que la de [Almería](http://etheriamagazine.com/2020/01/10/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear/) 
+categoría de catedrales fortaleza (recuerda que la de 
+[Almería](http://etheriamagazine.com/2020/01/10/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear/) 
 también pertenece a esta tipología). La Catedral Vieja, de estilo románico (dicen que es 
 la mejor de Portugal en este estilo), fue edificada en el siglo XII. Si te fijas en su 
 portada principal descubrirás influencia islámicas, y en la lateral, renacentistas. No 
@@ -142,7 +144,8 @@ gusta la mantequilla, no dejes de llevarte alguna tarrina como souvenir (la marc
 es deliciosa y la puedes encontrar en cualquier supermercado). 
 
 📍¿Sabías que existe un tour gastronómico en Coimbra? No es especialmente barato pero 
-merece la pena. [Infórmate](https://www.civitatis.com/es/coimbra/tour-gastronomico-coimbra/?aid=10211). 
+merece la pena. 
+[Infórmate](https://www.civitatis.com/es/coimbra/tour-gastronomico-coimbra/?aid=10211). 
 
 ![En el Tivoli Coimbra también miman tu paladar.](https://fotos.etheriamagazine.com/2020/01/Tivoli-Coimbra-Simone-Restaurant.jpg "En el (©) Tivoli Coimbra también miman tu paladar.")
 
@@ -210,7 +213,7 @@ media.
 
 **Dónde dormir en Coimbra.** 
 
-• [Tivoli Coimbra](https://www.nh-hoteles.es/hotel/tivoli-coimbra). Este 
+- [Tivoli Coimbra](https://www.nh-hoteles.es/hotel/tivoli-coimbra). Este 
 establecimiento, situado en la animada zona de la Baixa, cuenta con 100 habitaciones de 
 diversas categorías. Estas se adaptan a las distintas necesidades de su clientela (1 
 executive suite, 10 deluxe, 5 superiores familiares y 75 superiores). No desaproveches 

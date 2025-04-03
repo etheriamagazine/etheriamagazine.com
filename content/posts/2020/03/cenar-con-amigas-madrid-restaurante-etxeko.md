@@ -1,7 +1,7 @@
 ---
 title: "Etxeko by Martín Berasategui, tu próximo restaurante para cenar con amigas en Madrid"
 date: 2020-03-10
-coverImage: https://fotos.etheriamagazine.com/2020/03/menu-degustacion-etxeko-1.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/menu-degustacion-etxeko-1.jpg
 categories: 
   - gourmet
 destino: 
@@ -48,4 +48,4 @@ Si, además, quieres darle una sorpresa a alguien o darte el gustazo a ti misma,
 
 ## Cómo completar la degustación
 
-Una vez que hayas terminado de cenar, te sugerimos que aproveches los espacios situados en el hotel, donde Martín Berasategui también firma toda la oferta de alimentación y bebidas. Déjate tentar por su **Versus Lively Lounge**, el **Fetén Clandestine Club** (con su propia bolera y barra de pole dance) o el **Picos Pardos Sky Lounge**, que abre en la temporada de primavera-verano. Y si quieres continuar de cócteles, te interesa este listado de [Las 10 mejores coctelerías de Madrid](https://etheriamagazine.com/2019/10/22/10-mejores-coctelerias-de-madrid-salir-con-amigas/).
+Una vez que hayas terminado de cenar, te sugerimos que aproveches los espacios situados en el hotel, donde Martín Berasategui también firma toda la oferta de alimentación y bebidas. Déjate tentar por su **Versus Lively Lounge**, el **Fetén Clandestine Club** (con su propia bolera y barra de pole dance) o el **Picos Pardos Sky Lounge**, que abre en la temporada de primavera-verano. Y si quieres continuar de cócteles, te interesa este listado de {{< reflink path=posts/2019/10/10-mejores-coctelerias-de-madrid-salir-con-amigas >}}.

@@ -1,7 +1,7 @@
 ---
 title: "8 escapadas en la provincia de Zaragoza"
 date: 2020-06-08
-coverImage: https://fotos.etheriamagazine.com/2020/05/Zaragoza-Muel.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/Zaragoza-Muel.jpg
 categories: 
   - viajar-sola
   - inspiración
@@ -12,10 +12,10 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-El patrimonio histórico y arquitectónico de la provincia de Zaragoza lleva a varios de 
+**El patrimonio histórico y arquitectónico de la provincia de Zaragoza lleva a varios de 
 sus pueblos a situarse en el ranking de los más bonitos de España. Elisabeth G. Iborra 
 te lleva por sus comarcas principales con escapadas a Zaragoza perfectas para todo el 
-año. 
+año.** 
 
 ![Paisaje del Parque Nacional del Moncayo.](https://fotos.etheriamagazine.com/2020/05/Zaragoza-moncayo.jpg "Paisaje del Parque Nacional del Moncayo.")
 
@@ -195,11 +195,8 @@ contrasta con sus palacios renacentistas.
 
 ### También te puede interesar:
 
-[Los valles de la Jacetania. Descubre estas ‘joyicas’ del Pirineo 
-aragonés](https://etheriamagazine.com/2019/09/25/viaja-sola-a-los-valles-de-la-jacetania-huesca/) 
+{{< reflink path=posts/2019/09/viaja-sola-a-los-valles-de-la-jacetania-huesca >}} 
 
-[Valle de Chistau, descubre las mejores rutas en el cielo 
-aragonés](https://etheriamagazine.com/2021/12/07/valle-de-chistau-huesca/) 
+{{< reflink path=posts/2021/12/valle-de-chistau-huesca >}} 
 
-[Ruta en coche por Teruel, 10 paradas por carreteras 
-secundarias](https://etheriamagazine.com/2021/10/12/ruta-en-coche-por-teruel/)
+{{< reflink path=posts/2021/10/ruta-en-coche-por-teruel >}}

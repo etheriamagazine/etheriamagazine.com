@@ -1,7 +1,7 @@
 ---
 title: "El Hotel Palace de Madrid se viste de cine este verano"
 date: 2021-06-30
-coverImage: https://fotos.etheriamagazine.com/2021/06/Vestuario-de-Doctor-Zhivago.jpg
+cover: https://fotos.etheriamagazine.com/2021/06/Vestuario-de-Doctor-Zhivago.jpg
 categories: 
   - ocio
 destino: 
@@ -126,11 +126,9 @@ en el menú. Tel. +34 913 607 667, reservas.palace@westin.com
 
 ### Más planes en Madrid...
 
-[Ruta por el Madrid más libre (de 
-gluten)](https://etheriamagazine.com/2020/10/02/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias/). 
+{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
+>}}. 
 
-[10 planes originales en Madrid para hacer con 
-amigas](https://etheriamagazine.com/2020/08/27/10-planes-originales-en-madrid-con-amigas/). 
+{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}. 
 
-[15 escapadas a menos de 99 km de 
-Madrid](https://etheriamagazine.com/2020/05/20/15-escapadas-a-menos-de-99-km-de-madrid/).
+{{< reflink path=posts/2020/05/15-escapadas-a-menos-de-99-km-de-madrid >}}.

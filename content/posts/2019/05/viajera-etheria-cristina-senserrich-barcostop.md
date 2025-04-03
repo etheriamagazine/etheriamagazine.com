@@ -1,7 +1,7 @@
 ---
 title: "Cristina Senserrich: \"Casi todo lo útil que he aprendido en esta vida ha sido viajando\""
 date: 2019-05-07
-coverImage: https://fotos.etheriamagazine.com/2019/05/cristina-senserrich-casa-malaika.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/cristina-senserrich-casa-malaika.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -86,7 +86,7 @@ Mi último viaje fue a **Mozambique**, con mi hijo de 5 meses, para mi fue como 
 
 13\. ¿Qué viajes que hayas realizado recomendarías especialmente a una viajera? 
 
-Brasil y [Colombia](https://etheriamagazine.com/2019/01/28/viajar-sola-al-eje-cafetero-colombia/).
+Brasil y {{< reflink path=posts/2019/01/viajar-sola-al-eje-cafetero-colombia >}}.
 
 14\. Tres viajes pendientes… 
 

@@ -1,7 +1,7 @@
 ---
 title: "Malta en familia, 10 planazos para hacer con niños activos"
 date: 2022-05-19
-coverImage: https://fotos.etheriamagazine.com/2022/05/Malta-con-ninos.jpg
+cover: https://fotos.etheriamagazine.com/2022/05/Malta-con-ninos.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Por su apasionante historia, su gastronomía mediterránea, su agradable clima e, incluso, 
-para practicar inglés, un viaje a Malta en familia es siempre un planazo en cualquier 
-momento del año. Si aún tienes dudas de lo que te ofrece, te damos algunas pistas sobre 
-qué hacer con niños en el archipiélago. 
+**Por su apasionante historia, su gastronomía mediterránea, su agradable clima e, 
+incluso, para practicar inglés, un viaje a Malta en familia es siempre un planazo en 
+cualquier momento del año. Si aún tienes dudas de lo que te ofrece, te damos algunas 
+pistas sobre qué hacer con niños en el archipiélago.** 
 
 ![Una familia en un puerto de Malta junto a unas barcas](https://fotos.etheriamagazine.com/2022/05/Malta-con-ninos.jpg "Familia en Malta. © Pepa García")
 
@@ -92,12 +92,12 @@ que sale mejor de precio.
 Esta excursión a Blue Grotto es emocionante para todos, los pequeños vivirán su propia 
 aventura navegando y entrando en grandes oquedades de los acantilados, y los padres 
 gozarán sabiendo que pasean por los escenarios de la película ‘**Troya**’. Si quieres 
-saber por qué el archipiélago maltés está considerado el [Hollywood del 
-Mediterráneo](https://etheriamagazine.com/2019/06/14/viajes-cine-malta-hollywood-mediterraneo/) 
-no dejes de leer el artículo del link anterior. En esta actividad en lancha se recorre 
-la costa y se visitan **seis grutas marinas** en cuyo interior el agua es de color azul 
-eléctrico, de ahí el nombre de Blue Grotto. A los niños les parecerá algo mágico (y a 
-los mayores, también). Más información en su [web](https://www.bluegrottomalta.com.mt/). 
+saber por qué el archipiélago maltés está considerado el {{< reflink 
+path=posts/2019/06/viajes-cine-malta-hollywood-mediterraneo >}} no dejes de leer el 
+artículo del link anterior. En esta actividad en lancha se recorre la costa y se visitan 
+**seis grutas marinas** en cuyo interior el agua es de color azul eléctrico, de ahí el 
+nombre de Blue Grotto. A los niños les parecerá algo mágico (y a los mayores, también). 
+Más información en su [web](https://www.bluegrottomalta.com.mt/). 
 
 ![Ruinas de Ggantija](https://fotos.etheriamagazine.com/2018/05/7-Viaje-a-Gozo-y-Malta-Ruinas-Ggantija.jpg "Ruinas de Ggantija. © Pepa García")
 
@@ -106,7 +106,8 @@ los mayores, también). Más información en su [web](https://www.bluegrottomalt
 Nuestra siguiente recomendación es que aproveches el viaje para conocer los **templos 
 megalíticos**, declarados Patrimonio de la Humanidad por la Unesco. Datados entre los 
 años 4000 y 2000 a.C. (incluso antes que las pirámides de Egipto), son uno de sus 
-mayores tesoros de la isla. No te pierdas los templos de **Hagar Qim** (esta [excursión](https://www.civitatis.com/es/la-valeta/hagar-qim-gruta-azul-marsaxlokk/?aid=10211) 
+mayores tesoros de la isla. No te pierdas los templos de **Hagar Qim** (esta 
+[excursión](https://www.civitatis.com/es/la-valeta/hagar-qim-gruta-azul-marsaxlokk/?aid=10211) 
 te puede interesar) y el **Hipogeo de Hal Saflieni**. Es aconsejable realizar esta 
 actividad guiada y adaptada para niños. 
 
@@ -156,7 +157,8 @@ barco parte del puerto de Sliema, en Malta, y realiza distintas paradas para ba�
 hacer esnórquel, tomar fotos y almorzar. La barra libre de cerveza y refrescos también 
 es un plus. La salidas son a las 10 de la mañana y el regreso en torno a las 6 o 7 de la 
 tarde. El precio para adultos es de 60 €, los niños de 4 a 11 años pagan 40 € y los más 
-pequeños viajan gratis. Puedes ampliar información en este [enlace](https://www.civitatis.com/es/la-valeta/paseo-goleta-gozo-comino/?aid=10211). 
+pequeños viajan gratis. Puedes ampliar información en este 
+[enlace](https://www.civitatis.com/es/la-valeta/paseo-goleta-gozo-comino/?aid=10211). 
 
 ![troya malta, escenarios de troya, viajes de cine](https://fotos.etheriamagazine.com/2019/06/viaje-cine-malta-blue-lagoon-troya.jpg "Algunas escenas de 'Troya' se rodaron en el Blue Lagoon. ©Visit Malta")
 
@@ -193,8 +195,6 @@ donde observar la fauna marina mediterránea y algún que otro espectáculo.
 
 ### Otras propuestas en Malta:
 
-[Planes en Malta con amigas, un destino mediterráneo que nunca 
-defrauda](https://etheriamagazine.com/2019/11/19/que-ver-hacer-malta-gozo-comino-5-dias-con-amigas/). 
+{{< reflink path=posts/2019/11/que-ver-hacer-malta-gozo-comino-5-dias-con-amigas >}}. 
 
-[La isla de Gozo, un lugar donde querrás quedarte a 
-vivir](https://etheriamagazine.com/2021/04/29/que-ver-hacer-gozo-malta/).
+{{< reflink path=posts/2021/04/que-ver-hacer-gozo-malta >}}.

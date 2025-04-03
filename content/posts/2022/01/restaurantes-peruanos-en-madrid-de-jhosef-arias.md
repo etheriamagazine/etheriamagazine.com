@@ -1,7 +1,7 @@
 ---
 title: "Restaurantes peruanos en Madrid con el sello del chef Jhosef Arias"
 date: 2022-01-24
-coverImage: https://fotos.etheriamagazine.com/2022/01/Platos-Piscomar-Bravazo.jpg
+cover: https://fotos.etheriamagazine.com/2022/01/Platos-Piscomar-Bravazo.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -197,11 +197,9 @@ para ir con amigas lo tengas un poquito más claro.
 
 ### También te puede interesar...
 
-[Ruta libre de gluten en 
-Madrid](https://etheriamagazine.com/2020/10/02/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias/). 
+{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
+>}}. 
 
-[Las mejores coctelerías de la 
-capital](https://etheriamagazine.com/2019/10/22/10-mejores-coctelerias-de-madrid-salir-con-amigas/). 
+{{< reflink path=posts/2019/10/10-mejores-coctelerias-de-madrid-salir-con-amigas >}}. 
 
-[Planes en Madrid para hacer con 
-amigas](https://etheriamagazine.com/2020/08/27/10-planes-originales-en-madrid-con-amigas/).
+{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}.

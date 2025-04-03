@@ -1,7 +1,7 @@
 ---
 title: "Tenerife, la isla que necesitas si quieres impulsar tu creatividad"
 date: 2022-06-03
-coverImage: https://fotos.etheriamagazine.com/2022/05/Portada-nomada-digital-tenerife.jpg
+cover: https://fotos.etheriamagazine.com/2022/05/Portada-nomada-digital-tenerife.jpg
 categories: 
   - viajar-sola
   - historias
@@ -178,11 +178,10 @@ Autora: Judit Sánchez Torner (Calma Studio)
 
 ### También te puede interesar en Tenerife...
 
-[10 planes para un viaje a Tenerife con 
-amigas](https://etheriamagazine.com/2021/05/17/viaje-a-tenerife-con-amigas-que-hacer-excursiones/). 
+{{< reflink path=posts/2021/05/viaje-a-tenerife-con-amigas-que-hacer-excursiones >}}. 
 
-[Descubre la dulzura de La Orotava 
-(Tenerife)](https://etheriamagazine.com/2020/06/20/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava/). 
+{{< reflink path=posts/2020/06/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava 
+>}}. 
 
-[8 excursiones con niños desde el sur de 
-Tenerife](https://etheriamagazine.com/2020/03/06/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos/).
+{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
+>}}.

@@ -1,7 +1,7 @@
 ---
 title: "Los Ánades, el hotel rural que huele y sabe a lavanda (Guadalajara)"
 date: 2020-07-09
-coverImage: https://fotos.etheriamagazine.com/2020/07/lavanda-los-anades-guadalajara.jpeg
+cover: https://fotos.etheriamagazine.com/2020/07/lavanda-los-anades-guadalajara.jpeg
 categories: 
   - hoteles
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Redacción Etheria
 ---
 
-Un paseo por campos teñidos del color violeta de la lavanda, talleres de aromaterapia o 
-masajes a partir de aceites esenciales son algunas de las experiencias que ofrece el 
-Hotel Rural Los Ánades, en Guadalajara, este verano. 
+**Un paseo por campos teñidos del color violeta de la lavanda, talleres de aromaterapia 
+o masajes a partir de aceites esenciales son algunas de las experiencias que ofrece el 
+Hotel Rural Los Ánades, en Guadalajara, este verano.** 
 
 ![campos de lavanda, hotel Guadalajara](https://fotos.etheriamagazine.com/2020/07/lavanda-los-anades-guadalajara.jpeg "Los campos de lavanda son el mejor escenario para las fotos.")
 

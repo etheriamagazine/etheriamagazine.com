@@ -1,19 +1,19 @@
 ---
 title: "Dos días en El Cairo, entre la historia y el caos"
 date: 2023-08-16
-coverImage: https://fotos.etheriamagazine.com/2023/08/egipto-cairo-piramides-kefren-chicas.jpg
+cover: https://fotos.etheriamagazine.com/2023/08/egipto-cairo-piramides-kefren-chicas.jpg
 destino: 
   - Mundo
 authors: 
   - Susana García
 ---
 
-El Cairo es una ciudad enorme, desbordada en barrios sin fin y surcada por avenidas con 
-un tráfico caótico ambientado con el sonido incesante de los cláxones. Como viajero, lo 
-habitual es centrarse en sus muy interesantes hitos turísticos y, entre medias, 
+**El Cairo es una ciudad enorme, desbordada en barrios sin fin y surcada por avenidas 
+con un tráfico caótico ambientado con el sonido incesante de los cláxones. Como viajero, 
+lo habitual es centrarse en sus muy interesantes hitos turísticos y, entre medias, 
 permanecer atento a cómo transcurre la vida cotidiana a través de la ventanilla. En este 
 artículo te contamos cómo organizar un viaje a El Cairo si sólo dispones de dos días 
-para que no te pierdas nada de lo fundamental. 
+para que no te pierdas nada de lo fundamental.** 
 
 ![Pirámide de Kefren en Giza](https://fotos.etheriamagazine.com/2023/08/egipto-cairo-piramides-kefren-chicas.jpg "Pirámide de Khafa (Kefren). © Susana García")
 
@@ -250,8 +250,8 @@ Para las visitas tanto de la parte musulmana como del barrio copto hay que lleva
 hombros y las rodillas cubiertas (tanto hombres como mujeres). Una buena solución es 
 llevar un par de pareos o fulares en la mochila para cubrirte cuando sea necesario. 
 
-Este artículo te ayudará: [Qué llevar en la maleta en un viaje a 
-Egipto](https://etheriamagazine.com/2023/02/01/que-llevar-en-la-maleta-egipto/). 
+Este artículo te ayudará: {{< reflink path=posts/2023/02/que-llevar-en-la-maleta-egipto 
+>}}. 
 
 ![Gran Bazar Khan el-Khalili en El Cairo](https://fotos.etheriamagazine.com/2023/08/egipto-cairo-bazar-khan-khalili-calle.jpg "Gran Bazar Khan el-Khalili. © SG")
 
@@ -281,8 +281,6 @@ Fayoum](https://www.civitatis.com/es/el-cairo/excursion-oasis-fayoum/?aid=10211)
 
 **Si viajas a Egipto te interesan también estos 2 reportajes:** 
 
-[Crucero por el Nilo, qué ver en un viaje por la historia del Antiguo 
-Egipto](https://etheriamagazine.com/2023/04/26/que-ver-crucero-del-nilo-egipto/) 
+{{< reflink path=posts/2023/04/que-ver-crucero-del-nilo-egipto >}} 
 
-[Cómo y por qué organizar una visita a Abu 
-Simbel](https://etheriamagazine.com/2023/06/30/como-organizar-una-visita-a-abu-simbel/)
+{{< reflink path=posts/2023/06/como-organizar-una-visita-a-abu-simbel >}}

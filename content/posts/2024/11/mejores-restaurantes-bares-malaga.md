@@ -1,7 +1,7 @@
 ---
 title: "Málaga en femenino singular: una ruta gastronómica para viajeras foodies"
 date: 2024-11-13
-coverImage: https://fotos.etheriamagazine.com/2024/11/malaga-chiringuito-Las-palmeras.jpg
+cover: https://fotos.etheriamagazine.com/2024/11/malaga-chiringuito-Las-palmeras.jpg
 categories: 
   - gourmet
 destino: 
@@ -35,11 +35,12 @@ una despreocupada aventura con vistas y aromas del mar Mediterráneo.
 
 ## Desde mercados hasta la alta cocina, todo cabe en Málaga
 
-Para adentrarte sola en el apasionante universo culinario malagueño, empezaremos por el [Mercado 
-Central de Atarazanas](https://mercadomalaga.es/mercados/mercado-central-atarazanas/), 
-así entramos directamente en lo más popular. Pasea entre sus puestos, déjate tentar por 
-sus productos y, cuando el hambre apriete a mediodía, busca el mostrador de El Yerno. Su 
-selección de pescados y mariscos te dejará boquiabierta y satisfecha, son infalibles. 
+Para adentrarte sola en el apasionante universo culinario malagueño, empezaremos por el 
+[Mercado Central de 
+Atarazanas](https://mercadomalaga.es/mercados/mercado-central-atarazanas/), así entramos 
+directamente en lo más popular. Pasea entre sus puestos, déjate tentar por sus productos 
+y, cuando el hambre apriete a mediodía, busca el mostrador de El Yerno. Su selección de 
+pescados y mariscos te dejará boquiabierta y satisfecha, son infalibles. 
 
 Si eres más de alta cocina, Málaga tampoco te va a decepcionar porque hay cantidad de 
 chefs que están revolucionando la escena gastronómica con propuestas creativas que 
@@ -162,8 +163,6 @@ alto standing del Restaurante Balausta.
 
 **También en Etheria Magazine:** 
 
-[Málaga con amigas, el fin de semana que os 
-merecéis](https://etheriamagazine.com/2021/05/03/fin-de-semana-con-amigas-en-malaga/) 
+{{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}} 
 
-[Una guía para no perderte nada de la provincia de 
-Málaga](https://etheriamagazine.com/2023/03/23/pueblos-que-ver-malaga/)
+{{< reflink path=posts/2023/03/pueblos-que-ver-malaga >}}

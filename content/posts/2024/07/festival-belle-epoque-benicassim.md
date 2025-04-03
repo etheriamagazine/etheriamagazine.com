@@ -1,7 +1,7 @@
 ---
 title: "Vuelve a vivir los felices años 20 con el Benicàssim Belle Époque"
 date: 2024-07-31
-coverImage: https://fotos.etheriamagazine.com/2024/07/Benicassim-Belle-epoque-puesto.jpg
+cover: https://fotos.etheriamagazine.com/2024/07/Benicassim-Belle-epoque-puesto.jpg
 categories: 
   - ocio
 destino: 
@@ -98,11 +98,8 @@ XVII, ubicado en un bonito escenario natural.
 
 **También te puede interesar:** 
 
-[Cómo organizar un día en Castellón para no perderte sus 
-tesoros](https://etheriamagazine.com/2023/10/02/que-ver-castellon-plana/) 
+{{< reflink path=posts/2023/10/que-ver-castellon-plana >}} 
 
-[La comarca del Matarranya, una joya entre tres 
-provincias](https://etheriamagazine.com/2019/07/16/que-hacer-en-matarranya-piscinas-naturales-verano/) 
+{{< reflink path=posts/2019/07/que-hacer-en-matarranya-piscinas-naturales-verano >}} 
 
-[Planes secretos en Benidorm más allá de ir a la playa o tomar el 
-sol](https://etheriamagazine.com/2021/03/26/planes-originales-en-benidorm/)
+{{< reflink path=posts/2021/03/planes-originales-en-benidorm >}}

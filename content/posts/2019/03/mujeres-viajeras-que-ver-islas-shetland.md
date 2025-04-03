@@ -1,7 +1,7 @@
 ---
 title: "Islas Shetland, un paraíso en el Atlántico Norte"
 date: 2019-03-21
-coverImage: https://fotos.etheriamagazine.com/2019/03/que-ver-islas-shetland-e1552903777244.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/que-ver-islas-shetland-e1552903777244.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -12,12 +12,12 @@ authors:
   - Juan Carlos y Mar
 ---
 
-¡Viajeras a bordo! Nos hacemos a la mar para alcanzar los 60 grados norte donde se 
+**¡Viajeras a bordo! Nos hacemos a la mar para alcanzar los 60 grados norte donde se 
 hallan las islas Shetland. A mitad de camino entre Gran Bretaña y Noruega, son un 
 paraíso verde de prados festoneados por el oleaje del Atlántico Norte. Marino o rural, 
 no te pierdas ninguno de sus paisajes porque esconden un exclusivo encanto escocés. 
 Sigue leyendo porque te damos 10 pistas para no perderte lo imprescindible en estas 
-islas. 
+islas.** 
 
 ![mujer en las islas shetland de escocia](https://fotos.etheriamagazine.com/2019/03/que-ver-islas-shetland.jpg "Los paisajes de las islas Shetland son únicos.")
 
@@ -199,8 +199,7 @@ frailecillos que, con su colorido pico, no te cansarás de observar.
 
 📌 **También te puede interesar:** 
 
-[Admira cinco de los mejores jardines de Gran 
-Bretaña](https://etheriamagazine.com/2021/04/22/los-mejores-jardines-de-gran-bretana/) 
+{{< reflink path=posts/2021/04/los-mejores-jardines-de-gran-bretana >}} 
 
-[De road trip por los Cotswolds, un viaje al corazón de 
-Inglaterra](https://etheriamagazine.com/2019/08/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra/)
+{{< reflink 
+path=posts/2019/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}}

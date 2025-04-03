@@ -1,7 +1,7 @@
 ---
 title: "Descubre la magia de Tokio en sólo tres días"
 date: 2021-07-28
-coverImage: https://fotos.etheriamagazine.com/2021/07/tokio-japon.jpg
+cover: https://fotos.etheriamagazine.com/2021/07/tokio-japon.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -224,14 +224,10 @@ Más información en la web de la Oficina de Turismo de Japón
 
 #### Otros reportajes para preparar un viaje a Japón
 
-[5 recomendaciones para preparar un viaje a 
-Japón](https://etheriamagazine.com/2019/06/18/como-organizar-un-viaje-a-japon/) 
+{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}} 
 
-[La experiencia de alojarse en un Ryokan en 
-Japón](https://etheriamagazine.com/2019/05/10/viajar-japon-que-es-ryokan-y-onsen/) 
+{{< reflink path=posts/2019/05/viajar-japon-que-es-ryokan-y-onsen >}} 
 
-[10 actividades para un viaje en familia a 
-Japón](https://etheriamagazine.com/2019/11/21/10-actividades-para-un-viaje-en-familia-a-japon/) 
+{{< reflink path=posts/2019/11/10-actividades-para-un-viaje-en-familia-a-japon >}} 
 
-[3 días en Kioto para ver los cerezos en 
-flor](https://etheriamagazine.com/2020/02/26/3-dias-en-kioto-cerezos-en-flor/)
+{{< reflink path=posts/2020/02/3-dias-en-kioto-cerezos-en-flor >}}

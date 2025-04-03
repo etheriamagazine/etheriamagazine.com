@@ -1,7 +1,7 @@
 ---
 title: "Imprescindibles en Trieste, la Italia menos italiana"
 date: 2024-02-17
-coverImage: https://fotos.etheriamagazine.com/2024/02/trieste-Piazza-Unita.jpg
+cover: https://fotos.etheriamagazine.com/2024/02/trieste-Piazza-Unita.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -140,8 +140,7 @@ públicamente en un cerro de la ciudad de Querétaro.
 El [Castillo de Miramare](https://miramare.cultura.gov.it), un alarde de todo tipo de 
 bellas artes, con una prodigiosa decoración y una increíble colección de enseres y 
 mobiliario, fue también el refugio ocasional de la más célebre de las emperatrices 
-austríacas: [Isabel de Baviera, 
-Sisi](https://etheriamagazine.com/2022/09/07/museo-sisi-de-viena/), cuñada de Fernando 
+austríacas: {{< reflink path=posts/2022/09/museo-sisi-de-viena >}}, cuñada de Fernando 
 Maximiliano. 
 
 Como complemento a la visita del complejo palaciego, una parte de las caballerizas 
@@ -195,8 +194,6 @@ Italia](https://www.italia.it/es?utm_source=Etheria%20Magazine%20-%20Vague%20II&
 
 **También te puede interesar:** 
 
-[Ruta en coche por la península de Istria, la Riviera croata con más 
-estilo](https://etheriamagazine.com/2023/11/16/ruta-en-coche-istria-croacia/) 
+{{< reflink path=posts/2023/11/ruta-en-coche-istria-croacia >}} 
 
-[San Marco: no te pierdas ningún detalle del corazón de 
-Venecia](https://etheriamagazine.com/2022/06/09/san-marco-venecia/)
+{{< reflink path=posts/2022/06/san-marco-venecia >}}

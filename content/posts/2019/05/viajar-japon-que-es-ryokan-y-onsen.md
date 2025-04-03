@@ -1,7 +1,7 @@
 ---
 title: "La experiencia de alojarse en un Ryokan en Japón"
 date: 2019-05-10
-coverImage: https://fotos.etheriamagazine.com/2019/04/Japon-Ryokan.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/Japon-Ryokan.jpg
 categories: 
   - bienestar
   - inspiración
@@ -134,10 +134,8 @@ una noche, la ciudad balneario de Hakone se encuentra a tan solo dos horas en co
 
 **También te puede interesar:** 
 
-[10 actividades para un viaje en familia a 
-Japón](https://etheriamagazine.com/2019/11/21/10-actividades-para-un-viaje-en-familia-a-japon/) 
+{{< reflink path=posts/2019/11/10-actividades-para-un-viaje-en-familia-a-japon >}} 
 
-[¡Vamos a comernos Japón!](https://etheriamagazine.com/2018/10/09/que-comer-en-japon/) 
+{{< reflink path=posts/2018/10/que-comer-en-japon >}} 
 
-[5 recomendaciones para preparar un viaje a 
-Japón](https://etheriamagazine.com/2019/06/18/como-organizar-un-viaje-a-japon/)
+{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}}

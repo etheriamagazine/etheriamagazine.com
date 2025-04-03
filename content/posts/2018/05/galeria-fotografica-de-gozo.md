@@ -1,7 +1,7 @@
 ---
 title: "La isla de Gozo en 10 imágenes"
 date: 2018-05-17
-coverImage: https://fotos.etheriamagazine.com/2018/05/8-Viaje-a-Gozo-y-Malta-Viñedos.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/8-Viaje-a-Gozo-y-Malta-Viñedos.jpg
 categories: 
   - inspiración
 destino: 
@@ -27,8 +27,8 @@ que te alojes en agroturismos para disfrutar realmente del ambiente de la isla y
 contacto con la población local. El viaje puede continuar en la isla de Malta, de mayor 
 tamaño y con un patrimonio cultural muy rico. Seguro que ya has visto algunos de sus 
 paisajes y no has sido consciente de ello. Si le echas un vistazo a este artículo lo 
-puedes comprobar ([Malta, el Hollywood del 
-Mediterráneo](https://etheriamagazine.com/2019/06/14/viajes-cine-malta-hollywood-mediterraneo/)). 
+puedes comprobar ({{< reflink 
+path=posts/2019/06/viajes-cine-malta-hollywood-mediterraneo >}}). 
 
 ## 1\. Gruta de Calipso
 
@@ -72,5 +72,4 @@ Mediterráneo](https://etheriamagazine.com/2019/06/14/viajes-cine-malta-hollywoo
 
 **Sigue leyendo cómo organizar y qué ver en Gozo...** 
 
-[Qué ver y hacer en Gozo en tres o cuatro 
-días.](https://etheriamagazine.com/2021/04/29/que-ver-hacer-gozo-malta/)
+{{< reflink path=posts/2021/04/que-ver-hacer-gozo-malta >}}

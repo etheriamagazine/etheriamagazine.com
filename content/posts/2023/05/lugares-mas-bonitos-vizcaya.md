@@ -1,7 +1,7 @@
 ---
 title: "15 lugares de Vizcaya que te dejarán sin aliento"
 date: 2023-05-15
-coverImage: https://fotos.etheriamagazine.com/2023/05/san-juan-gaztelugatxe-1.jpg
+cover: https://fotos.etheriamagazine.com/2023/05/san-juan-gaztelugatxe-1.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Aunque Bilbao suele ser la puerta de entrada y uno de los polos turísticos más 
+**Aunque Bilbao suele ser la puerta de entrada y uno de los polos turísticos más 
 importantes de la provincia de Vizcaya (Bizkaia), más allá de su capital hay todo un 
 mundo dispuesto a ser descubierto. Para darte las mejores pistas, hemos recorrido este 
 territorio vasco desde el interior hasta la costa para recomendarte los lugares 
 imprescindibles de Vizcaya y todo aquello que tienes que ver en tu viaje. ¿Nos 
-acompañas? 
+acompañas?** 
 
 ![Panorámica de la ría de Bilbao con el Museo Guggenheim en primer plano.](https://fotos.etheriamagazine.com/2023/05/bilbao-vistas-ria.jpg "Panorámica de la ría de Bilbao con el Museo Guggenheim en primer plano. © Jorge Fernández Salas")
 
@@ -62,8 +62,7 @@ modernidad. Diseñado por el arquitecto británico Norman Foster, conecta la ciu
 entorno metropolitano. De hecho puedes ir a las playas de Getxo en metro si te diriges 
 por la línea 1 hasta Algorta. 
 
-✅ **No te pierdas:** [Getxo, la escapada marinera con mejor rollo de 
-Bizkaia](https://etheriamagazine.com/2022/07/20/que-ver-getxo-visitas-marineras/). 
+✅ **No te pierdas:** {{< reflink path=posts/2022/07/que-ver-getxo-visitas-marineras >}}. 
 
 ![Museo de Guggenheim de Bilbao.](https://fotos.etheriamagazine.com/2023/05/museo-guggenheim-bilbao.jpg "Museo de Guggenheim de Bilbao. © Piotr Musioł")
 
@@ -130,11 +129,10 @@ Neguri y Algorta.
 
 ✅ **No te pierdas:** 
 
-[12 planes en Getxo con amigas para disfrutar al estilo 
-vasco](https://etheriamagazine.com/2021/06/14/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco/). 
+{{< reflink 
+path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}. 
 
-[Getxo a bocados, una cita exquisita con el 
-paladar](https://etheriamagazine.com/2023/03/30/que-donde-comer-getxo/). 
+{{< reflink path=posts/2023/03/que-donde-comer-getxo >}}. 
 
 ![Paseo de las Villas de Getxo.](https://fotos.etheriamagazine.com/2022/10/paseo-villas-getxo.jpg "Paseo de las Villas de Getxo. © Turismo de Getxo")
 
@@ -215,8 +213,8 @@ estalactitas y estalagmitas, se denominó Sala Versalles.
 imponencia del entorno calizo y el pintoresco paisaje rural que se abre ladera abajo 
 pues se halla en el parque natural de Armañón. Más información en cuevadepozalagua.eus 
 
-✅ No te pierdas: [Valle de Karrantza, 10 experiencias rurales y genuinas en 
-Vizcaya](https://etheriamagazine.com/2021/08/18/que-ver-y-hacer-en-valle-de-karrantza-vizcaya/). 
+✅ No te pierdas: {{< reflink 
+path=posts/2021/08/que-ver-y-hacer-en-valle-de-karrantza-vizcaya >}}. 
 
 ![Bonito entorno de la cueva de Pozalagua.](https://fotos.etheriamagazine.com/2021/08/dolomita-valle-karrantza.jpg "Bonito entorno de la cueva de Pozalagua. © Juan Carlos Muñoz")
 
@@ -350,8 +348,6 @@ llegado a la mejor zona para comerte el mar.
 
 **Sigue viajando por el País Vasco** 
 
-[Guía esencial de Gipuzkoa, maravillas desde la costa al 
-interior](https://etheriamagazine.com/2023/02/14/que-ver-hacer-gipuzkoa/). 
+{{< reflink path=posts/2023/02/que-ver-hacer-gipuzkoa >}}. 
 
-[Planes en Vitoria con amigas dispuestas al 
-picoteo](https://etheriamagazine.com/2021/09/15/planes-originales-en-vitoria-con-amigas/).
+{{< reflink path=posts/2021/09/planes-originales-en-vitoria-con-amigas >}}.

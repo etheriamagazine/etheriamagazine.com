@@ -1,7 +1,7 @@
 ---
 title: "Cecilia Bartolomé: “Cuando entré en la Escuela de Cine, me preguntaban qué hacía allí si era una chica”"
 date: 2022-01-31
-coverImage: https://fotos.etheriamagazine.com/2022/01/Cecilia-Bartolome-premio-de-honor-en-Feroz.jpg
+cover: https://fotos.etheriamagazine.com/2022/01/Cecilia-Bartolome-premio-de-honor-en-Feroz.jpg
 categories: 
   - historias
   - mujeres-top
@@ -188,11 +188,8 @@ reflexiones sobre la trayectoria de Cecilia Bartolomé.
 
 ### También te puede interesar...
 
-[El test de Bechdel o cómo medir el sexismo en el Cine: la polémica está 
-servida](https://etheriamagazine.com/2021/01/11/test-bechdel-medida-del-sexismo-en-cine/). 
+{{< reflink path=posts/2021/01/test-bechdel-medida-del-sexismo-en-cine >}}. 
 
-[12 playas de cine en España donde darse un 
-chapuzón](https://etheriamagazine.com/2021/07/19/12-playas-espanolas-que-salen-en-peliculas/). 
+{{< reflink path=posts/2021/07/12-playas-espanolas-que-salen-en-peliculas >}}. 
 
-[Tadeo Jones en Granada, un viaje de cine en 
-familia](https://etheriamagazine.com/2020/11/22/tadeo-jones-ruta-de-cine-en-granada/).
+{{< reflink path=posts/2020/11/tadeo-jones-ruta-de-cine-en-granada >}}.

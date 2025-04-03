@@ -1,7 +1,7 @@
 ---
 title: "Cómo elegir el mejor simulador de seguros de salud según tus necesidades"
 date: 2024-12-25
-coverImage: https://fotos.etheriamagazine.com/2024/12/viajera.jpeg
+cover: https://fotos.etheriamagazine.com/2024/12/viajera.jpeg
 categories: 
   - inspiración
   - ocio

@@ -1,7 +1,7 @@
 ---
 title: "Planes en Dénia y Jávea para mujeres sibaritas"
 date: 2021-04-03
-coverImage: https://fotos.etheriamagazine.com/2019/08/lasiesta-01.jpg
+cover: https://fotos.etheriamagazine.com/2019/08/lasiesta-01.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -39,13 +39,13 @@ cuenta con una pequeña playa escondida, **La Cala**, donde practicar nudismo.
 ## Dónde comer bien en Dénia (y probar la gamba roja)
 
 No podemos hablar de Dénia sin poner el acento en uno de sus productos más preciados: la 
-gamba roja de Dénia (no te pierdas este artículo sobre [La ruta de la gamba 
-roja](https://etheriamagazine.com/2019/07/02/mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva/) 
-en España). La también conocida como _Aristeus antennatu_s, está presente en las cartas 
-de muchos restaurantes, pero hay dos espacios donde probarla en sus mejores versiones. 
-Uno es el [restaurante El Faralló](https://elfarallo.com/), considerado por muchos como 
-el templo de este crustáceo. ¿La mejor forma de comerlas? Hervidas en agua de mar. 
-También preparan con ella croquetas o un excelente arroz Faralló. El otro, [El 
+gamba roja de Dénia (no te pierdas este artículo sobre {{< reflink 
+path=posts/2019/07/mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva 
+>}} en España). La también conocida como _Aristeus antennatu_s, está presente en las 
+cartas de muchos restaurantes, pero hay dos espacios donde probarla en sus mejores 
+versiones. Uno es el [restaurante El Faralló](https://elfarallo.com/), considerado por 
+muchos como el templo de este crustáceo. ¿La mejor forma de comerlas? Hervidas en agua 
+de mar. También preparan con ella croquetas o un excelente arroz Faralló. El otro, [El 
 Pegolí.](https://es-es.facebook.com/El-Pegol%C3%AD-167686163309213/) A Pepe Piera, ya 
 fallecido, se le debe el haber puesto esa delicia y Dénia en el mapa gastronómico. 
 Arrancó siendo un chiringuito sobre el mar, hasta convertirse en un imprescindible. 
@@ -53,13 +53,13 @@ Arrancó siendo un chiringuito sobre el mar, hasta convertirse en un imprescindi
 ![comida en restaurante tastam en denia](https://fotos.etheriamagazine.com/2019/08/viaje-denia-javea-Carbonara-Foto-Tasta.jpg "Carbonara de calamar de Tasta'm. © Tasta'm")
 
 Pero Dénia no es solo gamba roja. La localidad cuenta con excelentes ejemplos que la 
-convierten en un paraíso gastronómico, donde la elección se hace difícil. Por ejemplo, [El 
-Baret de Miquel](https://www.miquelruizcuiner.com), del cocinero Miquel Ruiz, que dejó 
-el restaurante donde ostentaba una estrella Michelin y montó un bar que reinventa la 
-cocina típica valenciana. Otra opción a tener en cuenta es [Tasta'm](https://www.tastam.net/), 
-un espacio para comerse el Mediterráneo con originales creaciones, como una carbonara de 
-calamar, panceta, figatell de sepia y huevo curado de toma pan y moja. También con 
-**delivery**. 
+convierten en un paraíso gastronómico, donde la elección se hace difícil. Por ejemplo, 
+[El Baret de Miquel](https://www.miquelruizcuiner.com), del cocinero Miquel Ruiz, que 
+dejó el restaurante donde ostentaba una estrella Michelin y montó un bar que reinventa 
+la cocina típica valenciana. Otra opción a tener en cuenta es 
+[Tasta'm](https://www.tastam.net/), un espacio para comerse el Mediterráneo con 
+originales creaciones, como una carbonara de calamar, panceta, figatell de sepia y huevo 
+curado de toma pan y moja. También con **delivery**. 
 
 Los arroces de [Casa Federico](https://www.casafederico.es/), los pescados de [Peix & 
 Brases](http://peixibrases.com) y, por supuesto, el espacio gastronómico [Els 
@@ -89,19 +89,21 @@ se practican deportes acuáticos.
 Como los planes en Dénia y Jávea tienen un profundo toque gastronómico es conveniente 
 visitar **El Arenal**, una de las mejores zonas donde comer bien en Jávea. Opciones no 
 faltan, desde [EsTapaTi,](https://es-es.facebook.com/estapati.javea) donde se basan en 
-tapas, pinchos de autor y bocados del _streefood_ de países como México o Perú, hasta [La 
-Perla de Jávea](https://www.laperladejavea.com/), un imprescindible donde probar gran 
-variedad de arroces y pescados y mariscos de la lonja. 
+tapas, pinchos de autor y bocados del _streefood_ de países como México o Perú, hasta 
+[La Perla de Jávea](https://www.laperladejavea.com/), un imprescindible donde probar 
+gran variedad de arroces y pescados y mariscos de la lonja. 
 
-Sin duda, otro de los restaurantes interesantes de esta zona es [Tula](https://tularestaurante.com/), 
-el proyecto de dos jóvenes chefs, Clara y Borja, que trabajaron en las cocinas de Quique 
-Dacosta y Casa Gerardo en Asturias y que hace unos años se tiraron a la piscina para 
-abrir su propio restaurante. En su carta, siempre cambiante, apuestan por ofrecer 
-“comida casera contemporánea, inspirada por el entorno, enriquecida en matices o por 
-ingredientes de otras regiones o países”, según cuentan ellos mismos. 
+Sin duda, otro de los restaurantes interesantes de esta zona es 
+[Tula](https://tularestaurante.com/), el proyecto de dos jóvenes chefs, Clara y Borja, 
+que trabajaron en las cocinas de Quique Dacosta y Casa Gerardo en Asturias y que hace 
+unos años se tiraron a la piscina para abrir su propio restaurante. En su carta, siempre 
+cambiante, apuestan por ofrecer “comida casera contemporánea, inspirada por el entorno, 
+enriquecida en matices o por ingredientes de otras regiones o países”, según cuentan 
+ellos mismos. 
 
-El enclave perfecto para tomar una copa en una terraza con vistas al mar es [Achill](https://www.achilljavea.com/), 
-un espacio que funciona como _chill out_ y por las noches como discoteca. 
+El enclave perfecto para tomar una copa en una terraza con vistas al mar es 
+[Achill](https://www.achilljavea.com/), un espacio que funciona como _chill out_ y por 
+las noches como discoteca. 
 
 ![restaurante tula, viaje denia javea](https://fotos.etheriamagazine.com/2019/08/viaje-denia-javea-bar-tula.jpg "Restaurante Tula. © M.E.")
 
@@ -141,11 +143,8 @@ el epicentro de las compras, la calle Plaza de España.
 
 ### Más planes con amigas...
 
-[Planes originales para disfrutar de Valencia con 
-amigas](https://etheriamagazine.com/2020/09/18/planes-originales-valencia-con-amigas/). 
+{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}}. 
 
-[10 planes originales en Madrid para hacer con 
-amigas](https://etheriamagazine.com/2020/08/27/10-planes-originales-en-madrid-con-amigas/). 
+{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}. 
 
-[10 viajes con amigas por 
-Europa](https://etheriamagazine.com/2020/03/03/10-viajes-con-amigas-por-europa/).
+{{< reflink path=posts/2020/03/10-viajes-con-amigas-por-europa >}}.

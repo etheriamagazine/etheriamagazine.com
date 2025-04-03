@@ -1,7 +1,7 @@
 ---
 title: "Descubre Hamburgo en 48 horas, la Alemania más canalla"
 date: 2020-02-24
-coverImage: https://fotos.etheriamagazine.com/2020/02/viaje-mujeres-hamburgo.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/viaje-mujeres-hamburgo.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Cristina Fernández
 ---
 
-A pesar de ser destrozada casi en su totalidad durante la II Guerra Mundial, Hamburgo 
+**A pesar de ser destrozada casi en su totalidad durante la II Guerra Mundial, Hamburgo 
 supo renacer de sus cenizas, y ¡vaya si lo hizo! Esta antigua ciudad hanseática es hoy 
 una urbe cosmopolita repleta de atractivos. Rica, dinámica y con una animada vida 
 nocturna, presume de ser la puerta del mundo gracias a su activo puerto, el más grande 
 del país. En Etheria Magazine te proponemos conocer en un fin de semana su lado más 
-canalla. 
+canalla.** 
 
 ![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-canales.jpg "Canales de Hamburgo.")
 
@@ -143,11 +143,12 @@ ciudad.
 
 ### Los Beatles por Hamburgo
 
-Quienes curiosamente influyeron mucho en su fama fueron los mismísimos [Beatles](https://etheriamagazine.com/2018/07/11/stefanie-hempel-y-el-hamburgo-de-los-beatles/). 
-Aquí pararon a comienzos de los 60 durante dos años completos en los que tocaron 
-ininterrumpidamente en algunos de los garitos más afamados de la ciudad. El **Indra o el 
-Kaiserkeller**, que continúan existiendo hoy día, son solo dos de ellos. Una moderna 
-escultura, por cierto, rememora aquellos tiempos. 
+Quienes curiosamente influyeron mucho en su fama fueron los mismísimos {{< reflink 
+path=posts/2018/07/stefanie-hempel-y-el-hamburgo-de-los-beatles >}}. Aquí pararon a 
+comienzos de los 60 durante dos años completos en los que tocaron ininterrumpidamente en 
+algunos de los garitos más afamados de la ciudad. El **Indra o el Kaiserkeller**, que 
+continúan existiendo hoy día, son solo dos de ellos. Una moderna escultura, por cierto, 
+rememora aquellos tiempos. 
 
 > Si se sigue el curso del río Elba hacia el oeste se llega hasta el famoso Fishmarkt: un 
 > mercado de pescado que cada domingo por la mañana se llena de vida. 
@@ -170,8 +171,9 @@ entre inmensas grúas de carga y aún más inmensos navíos.
 
 Con un tráfico de **casi 13 mil barcos al año**, el puerto ha sido siempre pieza clave 
 en la evolución de Hamburgo. De hecho, no solo es el más grande del país: también el 
-**segundo más grande de Europa** —después del de [Róterdam](https://etheriamagazine.com/2020/02/19/que-ver-roterdam-eurovision-viaje-con-amigas/)— 
-y **el noveno más transitado del mundo.** 
+**segundo más grande de Europa** —después del de {{< reflink 
+path=posts/2021/05/que-ver-roterdam-eurovision-viaje-con-amigas >}}— y **el noveno más 
+transitado del mundo.** 
 
 Y a estas alturas, ¿queda alguna duda de por qué Hamburgo merece una escapada? Historia, 
 arquitectura, cultura, gastronomía y mucha, mucha diversión, concentrados en una misma 
@@ -216,11 +218,10 @@ de cerveza artesanal. En verano, además, cuentan con una agradable terraza.
 
 ✅ **Más propuestas en Etheria Magazine** 
 
-[Múnich y Bad Wörishofen, la Alemania más verde y 
-saludable](https://etheriamagazine.com/2021/08/04/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable/) 
+{{< reflink path=posts/2021/08/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable 
+>}} 
 
-[Berlín: de la caricia al 
-tortazo](https://etheriamagazine.com/2018/11/12/viaje-al-berlin-mas-divertido-interesante-sobrecogedor/) 
+{{< reflink path=posts/2018/11/viaje-al-berlin-mas-divertido-interesante-sobrecogedor 
+>}} 
 
-[Viaje en familia de seis días por Baviera: de Playmobil a 
-Legoland](https://etheriamagazine.com/2019/06/12/viaje-en-familia-parques-alemania-playmobil-legoland/)
+{{< reflink path=posts/2019/06/viaje-en-familia-parques-alemania-playmobil-legoland >}}

@@ -1,7 +1,7 @@
 ---
 title: "Brindos, Lac & Château, una atípica mansión con habitaciones flotantes"
 date: 2022-08-10
-coverImage: https://fotos.etheriamagazine.com/2022/08/hotel-Brindos-Lac-Chateau-anglet.jpg
+cover: https://fotos.etheriamagazine.com/2022/08/hotel-Brindos-Lac-Chateau-anglet.jpg
 categories: 
   - hoteles
 destino: 
@@ -100,9 +100,8 @@ el País Vasco Francés, se conseguirá una escapada de diez. ¿Te animas?
 
 **Más información** 
 
-**Hotel Brindos, Lac & Chateau **1 Allée du Château, Anglet (Francia) Tel. +33 (0)5 59 
-51 53 63 o en su [web](http://www.brindos-cotebasque.com). Precio: Desde 245 €/ hab. 
-doble 
+**Hotel Brindos, Lac & Chateau**1 Allée du Château, Anglet (Francia) Tel. +33 (0)5 59 51 
+53 63 o en su [web](http://www.brindos-cotebasque.com). Precio: Desde 245 €/ hab. doble 
 
 Localízalo en [Google 
 maps](https://www.google.com/maps/place/Brindos,+Lac+%26+Ch%C3%A2teau/@43.4626972,-1.5320804,17z/data=!3m1!4b1!4m8!3m7!1s0xd51154542a7d02b:0xce6875eedec5a570!5m2!4m1!1i2!8m2!3d43.4626972!4d-1.5298917). 
@@ -111,5 +110,6 @@ maps](https://www.google.com/maps/place/Brindos,+Lac+%26+Ch%C3%A2teau/@43.462697
 
 #### También te puede interesar...
 
-[País Vasco Francés, una ruta llena de elegancia y 
-sabor](https://etheriamagazine.com/2020/08/24/que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare/).
+{{< reflink 
+path=posts/2020/08/que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare 
+>}}.

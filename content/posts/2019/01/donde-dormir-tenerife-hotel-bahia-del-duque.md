@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bahía del Duque, desconexión en Tenerife"
 date: 2019-01-11
-coverImage: https://fotos.etheriamagazine.com/2019/01/hotel-bahia-del-duque-habitacion.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/hotel-bahia-del-duque-habitacion.jpg
 categories: 
   - hoteles
 destino: 
@@ -109,13 +109,13 @@ con las vistas del mirador.
 > No olvides que tienes la playa de El Duque a un paso, sólo hay que cruzar el paseo 
 > marítimo y podrás disfrutar de esta pequeña y coqueta playa 
 
-Su spa, el [Bahía Wellnesss 
-Retreat](https://etheriamagazine.com/2018/06/12/bahia-wellness-retreat-del-hotel-bahia-del-duque/), 
-está considerado como uno de los mejores del mundo y cuenta con unas instalaciones de 
-lujo, con multitud de salas para tratamientos, un circuito termal y un rincón casi 
-mágico, el **Thai Room Spa**, donde puedes recibir tratamientos de auténticos expertos 
-tailandeses. El Bahía Wellness Retreat también dispone de un centro de fitness, área de 
-fisioterapia y gabinete de nutrición y dietética. 
+Su spa, el {{< reflink 
+path=posts/2018/06/bahia-wellness-retreat-del-hotel-bahia-del-duque >}}, está 
+considerado como uno de los mejores del mundo y cuenta con unas instalaciones de lujo, 
+con multitud de salas para tratamientos, un circuito termal y un rincón casi mágico, el 
+**Thai Room Spa**, donde puedes recibir tratamientos de auténticos expertos tailandeses. 
+El Bahía Wellness Retreat también dispone de un centro de fitness, área de fisioterapia 
+y gabinete de nutrición y dietética. 
 
 ![Piscina inferior del hotel, situada junto al Beach 
 Club.](https://fotos.etheriamagazine.com/2019/01/hotel-bahia-del-duque-piscina.jpg)Piscina 
@@ -146,18 +146,17 @@ piscinas, en el ajedrez gigante, en los jardines y en los campos de deporte.
 Y los más mayores tienen disponible el **Teen Lounge**, un espacio con zona de relax, 
 juegos de mesa, zona de internet, Wii y PlayStation y una sala de futbolín. 
 
-**Hotel Bahía del Duque **Costa Adeje, Tenerife. A 15 km del Aeropuerto Tenerife 
+**Hotel Bahía del Duque**Costa Adeje, Tenerife. A 15 km del Aeropuerto Tenerife 
 Sur-Reina Sofía. Tel.+34 922 746 932 
 
 Fotos: © Bahía del Duque. 
 
 **También te puede interesar:** 
 
-[10 planes para un viaje a Tenerife con 
-amigas](https://etheriamagazine.com/2021/05/17/viaje-a-tenerife-con-amigas-que-hacer-excursiones/) 
+{{< reflink path=posts/2021/05/viaje-a-tenerife-con-amigas-que-hacer-excursiones >}} 
 
-[8 excursiones con niños desde el sur de 
-Tenerife](https://etheriamagazine.com/2020/03/06/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos/) 
+{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
+>}} 
 
-[Descubre la dulzura de La Orotava 
-(Tenerife)](https://etheriamagazine.com/2020/06/20/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava/)
+{{< reflink path=posts/2020/06/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava 
+>}}

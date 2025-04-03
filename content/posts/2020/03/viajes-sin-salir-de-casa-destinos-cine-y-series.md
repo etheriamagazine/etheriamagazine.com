@@ -1,7 +1,7 @@
 ---
 title: "Despierta tu lado más friki: 9 destinos de cine y series"
 date: 2020-03-20
-coverImage: https://fotos.etheriamagazine.com/2019/06/viajes-cine-malta-juego-tronos.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/viajes-cine-malta-juego-tronos.jpg
 categories: 
   - inspiración
   - ocio
@@ -18,13 +18,12 @@ authors:
 ## 1\. ‘Foodie Love’ en Barcelona
 
 La última creación de la directora Isabel Coixet se puede ver en formato de serie para 
-HBO y ahonda tanto en las relaciones personales como en la gastronomía. [_Foodie 
-Love_](https://etheriamagazine.com/2019/12/16/ruta-gastronomica-de-foodie-love-hbo-espana/) 
-se puede vivir a través de los restaurantes y bares de Barcelona que recorren sus 
-protagonistas y en escapadas a Francia y Japón. Si has visto la serie seguro que te 
-apetece tanto probar alguno de los platos y cócteles que salen reflejados, y que son 
-también protagonistas, como visitar Barcelona, uno de los principales destinos de cine y 
-series de España. 
+HBO y ahonda tanto en las relaciones personales como en la gastronomía. {{< reflink 
+path=posts/2019/12/ruta-gastronomica-de-foodie-love-hbo-espana >}} se puede vivir a 
+través de los restaurantes y bares de Barcelona que recorren sus protagonistas y en 
+escapadas a Francia y Japón. Si has visto la serie seguro que te apetece tanto probar 
+alguno de los platos y cócteles que salen reflejados, y que son también protagonistas, 
+como visitar Barcelona, uno de los principales destinos de cine y series de España. 
 
 ![cartel de La Casa de Papel](https://fotos.etheriamagazine.com/2019/09/viajes-la-casa-de-papel.jpg "Personajes de la 3ª Temporada de 'La Casa de Papel'. © Netflix")
 
@@ -33,20 +32,20 @@ series de España.
 La serie española más internacional de Netflix ha elegido como alias de sus 
 protagonistas nombres de ciudades. Aunque suene un poco ‘friki’ viajar a una ciudad sólo 
 por el nombre de un personaje cosas peores se han visto. En un artículo anterior te 
-proponíamos [viajar a las 13 ciudades de _La Casa de 
-Papel_](https://etheriamagazine.com/2019/09/12/viaja-a-las-ciudades-de-la-casa-de-papel-netflix/) 
-porque todas merecen una escapada. 
+proponíamos {{< reflink 
+path=posts/2019/09/viaja-a-las-ciudades-de-la-casa-de-papel-netflix >}} porque todas 
+merecen una escapada. 
 
 ![pelicula primos](https://fotos.etheriamagazine.com/2019/08/fotograma-pelicula-primos.jpg "Fotograma de la película 'Primos'. © Ayuntamiento de Comillas")
 
 ## 3\. ‘Primos’ en Cantabria
 
-[_Primos_](https://etheriamagazine.com/2019/09/03/primos-un-viaje-de-pelicula-a-comillas/) 
-es una de las comedias españolas más vistas por los españoles ‘treintañeros’ y 
-‘cuarentañeros’ y seguramente será porque es imposible no coger cariño y sentirse algo 
-identificados con estos tres peculiares primos que nos presenta Daniel Sánchez Arévalo 
-en su película. El escenario, perfectamente reconocible, es la preciosa ciudad cántabra 
-de [Comillas](https://www.turismodecantabria.com/descubrela/municipios/15-destino), que 
+{{< reflink path=posts/2019/09/primos-un-viaje-de-pelicula-a-comillas >}} es una de las 
+comedias españolas más vistas por los españoles ‘treintañeros’ y ‘cuarentañeros’ y 
+seguramente será porque es imposible no coger cariño y sentirse algo identificados con 
+estos tres peculiares primos que nos presenta Daniel Sánchez Arévalo en su película. El 
+escenario, perfectamente reconocible, es la preciosa ciudad cántabra de 
+[Comillas](https://www.turismodecantabria.com/descubrela/municipios/15-destino), que 
 siempre es un buen plan para una escapada. Es uno de los destinos de cine y series que 
 tendrás más a mano para disfrutar en cualquier momento. 
 
@@ -55,11 +54,11 @@ tendrás más a mano para disfrutar en cualquier momento.
 ## 4\. Jordania
 
 Si has viajado alguna vez a Jordania seguro que tienes claro por qué sus preciosos 
-paisajes se han empleado en numerosas películas. En el artículo [10 películas rodadas en 
-Jordania](https://etheriamagazine.com/2019/08/06/viajes-cine-peliculas-rodadas-en-jordania/) 
-recorremos los escenarios de diez filmes que tienen este precioso país como telón de 
-fondo, como _Aladdin_, _Rogue One_, _India Jones y la última cruzada_ o _En tierra 
-hostil_. Ya tienes otro motivo más para viajar Jordania. 
+paisajes se han empleado en numerosas películas. En el artículo {{< reflink 
+path=posts/2019/08/viajes-cine-peliculas-rodadas-en-jordania >}} recorremos los 
+escenarios de diez filmes que tienen este precioso país como telón de fondo, como 
+_Aladdin_, _Rogue One_, _India Jones y la última cruzada_ o _En tierra hostil_. Ya 
+tienes otro motivo más para viajar Jordania. 
 
 ![protagonistas de Juego de Tronos en Malta](https://fotos.etheriamagazine.com/2019/06/viajes-cine-malta-juego-tronos.jpg "Rodaje de ‘Juego de Tronos’ en la desaparecida Ventana Azul de Gozo. © HBO")
 
@@ -67,17 +66,18 @@ hostil_. Ya tienes otro motivo más para viajar Jordania.
 
 El país más pequeño de la Unión Europea se ha convertido, gracias a sus increíbles y 
 cinematográficos, paisajes en escenario de grandes superproducciones y en uno de los 
-principales destinos de cine y series. La lista de títulos rodados en [Malta](https://etheriamagazine.com/2019/06/14/viajes-cine-malta-hollywood-mediterraneo/) 
-es enorme y seguro que te gustará recorrer lugares como Gozo para imaginar a los 
-Dothraki de _Juego de Tronos_ cabalgando por sus playas o visitar el Fuerte Ricasoli 
-para rememorar _Troya_ o _Gladiator_. 
+principales destinos de cine y series. La lista de títulos rodados en {{< reflink 
+path=posts/2019/06/viajes-cine-malta-hollywood-mediterraneo >}} es enorme y seguro que 
+te gustará recorrer lugares como Gozo para imaginar a los Dothraki de _Juego de Tronos_ 
+cabalgando por sus playas o visitar el Fuerte Ricasoli para rememorar _Troya_ o 
+_Gladiator_. 
 
 ![Cataratas y playa en Jamaica](https://fotos.etheriamagazine.com/2019/03/cataratas-reach-pelicula-coctail.jpg "Cataratas Reach y fotograma película 'Cocktail'. ©Jamaica Film Comission")
 
 ## 6\. Jamaica
 
-La caribeña isla de [Jaimaca](https://etheriamagazine.com/2019/03/15/jamaica-turismo-viajes-de-cine/) 
-es un auténtico plató de cine desde hace décadas. Un viaje a este animado país te 
+La caribeña isla de {{< reflink path=posts/2019/03/jamaica-turismo-viajes-de-cine >}} es 
+un auténtico plató de cine desde hace décadas. Un viaje a este animado país te 
 descubrirá lugares como la playa de Laughing Waters o las cascadas del río Dunn, donde 
 se rodaron escenas para _Agente 007 y Dr. No_. ¿Sabías que Blue Lagoon cambió su nombre 
 después de que se rodara la famosa película _El Lago Azul?_ Y las fans de Tom Cruise 
@@ -93,7 +93,7 @@ Uno de tus viajes puede ser para descubrir las localizaciones de la película de
 la niñera ‘british’ más famosa del mundo: la Catedral de St. Paul, la Torre de Londres, 
 el Royal Exchange o el barrio de Westminster son sólo algunas de las localizaciones de 
 la película _El regreso de Mary Poppins_ que te proponíamos anteriormente en este 
-artículo de [Londres](https://etheriamagazine.com/2019/01/22/viajes-cine-londres-de-mary-poppins/). 
+artículo de {{< reflink path=posts/2019/01/viajes-cine-londres-de-mary-poppins >}}. 
 
 ![bosque de Tollymore con guía](https://fotos.etheriamagazine.com/2018/05/2-Tollymore-Forest-Park-Juego-de-Tronos-Irlanda-Norte.jpg "En Tollymore Forest Park se rodó la escena de los caminantes blancos de la serie 'Juego de Tronos'. © PG")
 
@@ -101,18 +101,17 @@ artículo de [Londres](https://etheriamagazine.com/2019/01/22/viajes-cine-londre
 
 La variedad de paisajes de los Siete Reinos de _Juego de Tronos_ ha dado para 
 localizaciones por todo el mundo y son muchos los lugares que tienen rutas dedicadas a 
-conocer los lugares donde se ha rodado esta serie. [Irlanda del 
-Norte](https://etheriamagazine.com/2018/07/02/juego-de-tronos-en-irlanda-del-norte/) no 
-podía ser menos y cuenta con escenarios tan representativos de la serie como Tollymore 
-Forest Park (el Bosque Encantado en la serie), Castle Ward como la casa de los Stark o 
-Cushendun Caves donde se rodó una impactante escena con Melisandre. 
+conocer los lugares donde se ha rodado esta serie. {{< reflink 
+path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte >}} no podía ser menos y cuenta 
+con escenarios tan representativos de la serie como Tollymore Forest Park (el Bosque 
+Encantado en la serie), Castle Ward como la casa de los Stark o Cushendun Caves donde se 
+rodó una impactante escena con Melisandre. 
 
 ![escena de serie en la catedral del Mar](https://fotos.etheriamagazine.com/2018/07/Catedral-del-mar-ruta-de-cine.jpg "'La Catedral del Mar'. ©")
 
 ## 9\. 'La Catedral del Mar' y 'Los herederos de la Tierra'
 
-Recorrer los [escenarios de _La Catedral del 
-Mar_](https://etheriamagazine.com/2018/08/01/turismo-de-cine-catedral-del-mar/) y de su 
+Recorrer los {{< reflink path=posts/2018/08/turismo-de-cine-catedral-del-mar >}} y de su 
 segunda parte, _**Los herederos de la Tierra**_, vale tanto para fans de la serie como 
 para los que se engancharon a los libros de Ildefonso Falcones, dos auténticos _best 
 seller_s. Encontrarás localizaciones de la primera parte en muchos lugares: en el casco 
@@ -126,11 +125,10 @@ de la serie se pueden ver en Netflix.
 
 ### También te puede interesar:
 
-[Tadeo Jones en Granada, un viaje de cine en 
-familia](https://etheriamagazine.com/2020/11/22/tadeo-jones-ruta-de-cine-en-granada/) 
+{{< reflink path=posts/2020/11/tadeo-jones-ruta-de-cine-en-granada >}} 
 
-[Desiertos de película y pinchos “de cine”: una ruta por las Bardenas Reales y 
-Tudela](https://etheriamagazine.com/2020/07/27/ruta-navarra-bardenas-reales-tudela-escapada-con-amigas/) 
+{{< reflink path=posts/2024/10/ruta-navarra-bardenas-reales-tudela-escapada-con-amigas 
+>}} 
 
-[Tossa de Mar, secretos de cine en la Costa 
-Brava](https://etheriamagazine.com/2020/06/24/viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava/)
+{{< reflink path=posts/2020/06/viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava 
+>}}

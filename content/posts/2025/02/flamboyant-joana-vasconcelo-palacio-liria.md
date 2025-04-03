@@ -1,7 +1,7 @@
 ---
 title: "Flamboyant, Joana Vasconcelos se divierte en el Palacio de Liria"
 date: 2025-02-18
-coverImage: https://fotos.etheriamagazine.com/2025/02/portada-Joana-Vasconcelos-Etheria-Magazine.jpg
+cover: https://fotos.etheriamagazine.com/2025/02/portada-Joana-Vasconcelos-Etheria-Magazine.jpg
 categories: 
   - cultura
   - ocio
@@ -142,8 +142,6 @@ Su web es [www.palaciodeliria.com](http://www.palaciodeliria.com)
 
 **Sigue leyendo sobre Madrid** 
 
-[5 excursiones básicas con niños en 
-Madrid](https://etheriamagazine.com/2023/03/24/excursiones-ninos-en-madrid/). 
+{{< reflink path=posts/2023/03/excursiones-ninos-en-madrid >}}. 
 
-[10 tabernas históricas de Madrid donde tomar el 
-vermú](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/).
+{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}}.

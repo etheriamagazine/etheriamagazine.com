@@ -1,7 +1,7 @@
 ---
 title: "Granada, el privilegio de la buena mesa"
 date: 2020-10-30
-coverImage: https://fotos.etheriamagazine.com/2020/10/plato-restaurante-farala-granada-2.jpg
+cover: https://fotos.etheriamagazine.com/2020/10/plato-restaurante-farala-granada-2.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -18,8 +18,7 @@ Granada es la ciudad de Federico García Lorca, sin duda. El lugar que inspiró 
 importantísima de su creación literaria (como _Romancero Gitano_, _Bodas de Sangre_ o 
 _Doña Rosita la Soltera_); y donde aún resuenan los ecos de sus tambaleantes pasos en 
 aquella infausta noche del verano de 1936 cuando decidieron acallar su voz. (Sigue 
-leyendo: ['La ruta más íntima de Lorca en 
-Granada](https://etheriamagazine.com/2020/10/07/ruta-cultural-granada-de-garcia-lorca/)'). 
+leyendo: {{< reflink path=posts/2020/10/ruta-cultural-granada-de-garcia-lorca >}}'). 
 
 Pero la ciudad de [Granada](http://www.granadatur.com) también está asociada al nombre 
 de una mujer con un final no menos trágico: la liberal Mariana Pineda. Una luchadora por 
@@ -192,11 +191,8 @@ genial escritor realiza una magnífica alegoría clásica sobre la condición fe
 
 ### También te puede interesar:
 
-[10 consejos para triunfar en tu visita a la 
-Alhambra](https://etheriamagazine.com/2021/10/25/consejos-para-visitar-la-alhambra/) 
+{{< reflink path=posts/2021/10/consejos-para-visitar-la-alhambra >}} 
 
-[Ruta de Lorca en Granada, un paseo por sus lugares más 
-íntimos](https://etheriamagazine.com/2020/10/07/ruta-cultural-granada-de-garcia-lorca/) 
+{{< reflink path=posts/2020/10/ruta-cultural-granada-de-garcia-lorca >}} 
 
-[Visita cultural al Albaicín y La Alhambra de 
-Granada](https://etheriamagazine.com/2020/05/29/48-horas-en-el-albayzin-y-la-alhambra/)
+{{< reflink path=posts/2020/05/48-horas-en-el-albayzin-y-la-alhambra >}}

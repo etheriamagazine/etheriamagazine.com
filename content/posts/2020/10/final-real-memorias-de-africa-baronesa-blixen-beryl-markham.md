@@ -1,7 +1,7 @@
 ---
 title: "‘Memorias de África’ más allá de Robert Redford y Meryl Streep"
 date: 2020-10-12
-coverImage: https://fotos.etheriamagazine.com/2020/09/memorias-africa-Paisaje-de-Kenia.jpg
+cover: https://fotos.etheriamagazine.com/2020/09/memorias-africa-Paisaje-de-Kenia.jpg
 categories: 
   - historias
   - mujeres-top
@@ -207,8 +207,6 @@ en Nairobi](http://www.museums.or.ke).
 
 ### También te puede interesar:
 
-[5 grandes viajes a África con los que 
-soñar](https://etheriamagazine.com/2019/08/09/5-viajes-para-comenzar-a-conocer-africa/) 
+{{< reflink path=posts/2019/08/5-viajes-para-comenzar-a-conocer-africa >}} 
 
-[Los libros son para el verano, novedades viajeras y 
-didácticas](https://etheriamagazine.com/2021/07/23/libros-recomendados-viajes-verano-2021/)
+{{< reflink path=posts/2021/07/libros-recomendados-viajes-verano-2021 >}}

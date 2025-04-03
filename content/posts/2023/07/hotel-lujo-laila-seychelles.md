@@ -1,7 +1,7 @@
 ---
 title: "Laïla Seychelles, un hotel con personalidad en una isla de ensueño"
 date: 2023-07-19
-coverImage: https://fotos.etheriamagazine.com/2023/06/laila-Seychelles-Senior-Suite-terraza.jpg
+cover: https://fotos.etheriamagazine.com/2023/06/laila-Seychelles-Senior-Suite-terraza.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Las islas Seychelles son sinónimo de paraíso y lujo, además de garantía de unas 
+**Las islas Seychelles son sinónimo de paraíso y lujo, además de garantía de unas 
 vacaciones de descanso perfectas. Por eso nos encanta enseñarte Laïla Seychelles, a 
 Tribute Portfolio Resort, un hotel de la marca Marriot Bonvoy lleno de personalidad en 
-la isla de Mahé. Te va a apetecer ir seguro. 
+la isla de Mahé. Te va a apetecer ir seguro.** 
 
 ![playa del hotel laïla Seychelles.](https://fotos.etheriamagazine.com/2023/06/laila-Seychelles-vista-playa.jpg "Vista panorámica del hotel Laïla Seychelles.")
 
@@ -113,8 +113,6 @@ E Coast Rd, Anse Royale, Seychelles. Tel. +248 439 7800
 
 📌 **También te puede interesar:** 
 
-[Islas Seychelles, el nuevo paraíso para los viajeros 
-españoles](https://etheriamagazine.com/2020/11/16/islas-seychelles-un-viaje-de-lujo-al-paraiso/) 
+{{< reflink path=posts/2020/11/islas-seychelles-un-viaje-de-lujo-al-paraiso >}} 
 
-[Cómo organizar un viaje de novios inolvidable y no morir en el 
-intento](https://etheriamagazine.com/2021/01/13/como-organizar-viaje-de-novios-o-luna-de-miel/)
+{{< reflink path=posts/2021/01/como-organizar-viaje-de-novios-o-luna-de-miel >}}

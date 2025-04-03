@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer con amigas en Madrid este otoño e invierno"
 date: 2023-09-07
-coverImage: https://fotos.etheriamagazine.com/2023/09/terraza-hotel-suecia.jpg
+cover: https://fotos.etheriamagazine.com/2023/09/terraza-hotel-suecia.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-Las vacaciones más extensas del año se acabaron y los días se acortan pero hay algo que 
-siempre nos ayuda a superarlo: hacer planes con amigas en Madrid. Tanto si es la primera 
-vez que pisas la capital como si es tu hogar, estas actividades te darán la oportunidad 
-de brindar por los encuentros, echarte unas risas y cargarte de energía positiva. 
+**Las vacaciones más extensas del año se acabaron y los días se acortan pero hay algo 
+que siempre nos ayuda a superarlo: hacer planes con amigas en Madrid. Tanto si es la 
+primera vez que pisas la capital como si es tu hogar, estas actividades te darán la 
+oportunidad de brindar por los encuentros, echarte unas risas y cargarte de energía 
+positiva.** 
 
 ![Terraza de Casa Suecia, en Madrid](https://fotos.etheriamagazine.com/2023/09/terraza-hotel-suecia.jpg "Terraza de Casa Suecia, en Madrid. © Etheria Magazine")
 
@@ -126,8 +127,8 @@ Carrera de San Francisco, 15. El precio de la actividad, que incluye también ma
 es de 90 euros. Pasaréis un buen rato, recibiréis un delantal y una certificación de 
 asistencia. 
 
-No te pierdas: [Restaurantes peruanos en Madrid con el sello del chef Jhosef 
-Arias](https://etheriamagazine.com/2022/01/24/restaurantes-peruanos-en-madrid-de-jhosef-arias/) 
+No te pierdas: {{< reflink 
+path=posts/2022/01/restaurantes-peruanos-en-madrid-de-jhosef-arias >}} 
 
 ![cebiche peruano de boldkitchen](https://fotos.etheriamagazine.com/2022/01/ceviche-peruano-adn-madrid.jpg "Cebiche peruano. © Pepa García")
 
@@ -180,8 +181,6 @@ Y aún hay más: Es una terraza **pet friendly**.
 
 **También te puede interesar...** 
 
-[10 planes originales en Madrid para hacer con 
-amigas](https://etheriamagazine.com/2020/08/27/10-planes-originales-en-madrid-con-amigas/) 
+{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}} 
 
-[Planes divertidos con adolescentes en 
-Madrid](https://etheriamagazine.com/2022/12/16/planes-adolescentes-madrid/).
+{{< reflink path=posts/2022/12/planes-adolescentes-madrid >}}.

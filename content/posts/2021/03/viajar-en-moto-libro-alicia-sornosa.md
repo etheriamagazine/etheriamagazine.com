@@ -1,7 +1,7 @@
 ---
 title: "Viajar en moto, trucos y consejos de Alicia Sornosa"
 date: 2021-03-19
-coverImage: https://fotos.etheriamagazine.com/2021/03/alicia-sornosa-viajera-moto.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/alicia-sornosa-viajera-moto.jpg
 categories: 
   - cultura
   - ocio
@@ -113,10 +113,9 @@ surgir en el camino.
 En esta guía de Anaya Touring se cuentan muchos más trucos y recomendaciones, así que os 
 animamos tanto si tenéis pensado viajar en moto como si no, a leerlo y a disfrutar con 
 el periplo de esta viajera. Y si queréis conocerla un poco mejor, también podéis 
-continuar leyendo esta entrevista que le hicimos en 2018 en Etheria Magazine: ["Alicia 
-Sornosa: "Toda aventura empieza con un 
-sí"](https://etheriamagazine.com/2018/09/24/alicia-sornosa/) donde comparte su biografía 
-personal y viajera. 
+continuar leyendo esta entrevista que le hicimos en 2018 en Etheria Magazine: {{< 
+reflink path=posts/2018/09/alicia-sornosa >}} donde comparte su biografía personal y 
+viajera. 
 
 ### ¿Estás pensando en comenzar tu aventura?
 

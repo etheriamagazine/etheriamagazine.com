@@ -1,7 +1,7 @@
 ---
 title: "República Checa, visitas para mujeres que viajan solas"
 date: 2020-05-29
-coverImage: https://fotos.etheriamagazine.com/2020/05/salir-brno-chequia.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/salir-brno-chequia.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -18,18 +18,17 @@ Cada día somos más las mujeres que nos animamos a viajar solas. Y no porque no
 con quien hacerlo sino porque a veces también necesitamos darnos un respiro, nos gusta 
 socializar en los destinos a los que vamos o, simplemente, preferimos viajar a nuestro 
 aire sin tener que negociar cada decisión con los acompañantes. Si aún no te has 
-atrevido, hay muchas [razones para viajar 
-sola](https://etheriamagazine.com/2019/01/29/10-ventajas-de-viajar-sola/) a la República 
-Checa. 
+atrevido, hay muchas {{< reflink path=posts/2019/01/10-ventajas-de-viajar-sola >}} a la 
+República Checa. 
 
 En esta ocasión, te sugerimos **viajar sola** a Chequia, un país considerado entre los 
 diez destinos más seguros del mundo. Si eres de las que les gusta ir bien documentadas, 
-te sugerimos comenzar con algunos de estos [libros y películas 
-checos](https://etheriamagazine.com/2020/03/31/prepara-tu-viaje-a-chequia/), y si 
-prefieres que te sorprendan, continúa leyendo estas 5 visitas que nos aconseja la mayor 
-experta en este destino en España: [Markéta 
-Lehečková](https://etheriamagazine.com/2018/12/03/marketa-leheckova-de-czechtourism-es-una-mujer-etheria/), 
-directora de la Oficina de Turismo en Madrid. 
+te sugerimos comenzar con algunos de estos {{< reflink 
+path=posts/2020/03/prepara-tu-viaje-a-chequia >}}, y si prefieres que te sorprendan, 
+continúa leyendo estas 5 visitas que nos aconseja la mayor experta en este destino en 
+España: {{< reflink 
+path=posts/2018/12/marketa-leheckova-de-czechtourism-es-una-mujer-etheria >}}, directora 
+de la Oficina de Turismo en Madrid. 
 
 ## Ruta para viajar sola en República Checa
 
@@ -53,9 +52,10 @@ trabajó en la ciudad, y el coqueto **teatro clásico** del palacio de Litomyšl
 
 También comprobarás que en toda la ciudad se come fenomenal, pero no olvides pasar por 
 la plaza principal, donde venden **riquísimas trufas artesanas**, y probar la cerveza 
-**Bedrich**. Si te gustan los festivales, trata de hacer coincidir tu visita con el [Festival 
-de Música Litomyšl de Smetana](https://www.czechtourism.com/sp/e/smetana-litomysl/) que 
-se celebra en el patio del palacio. ¡Te va a encantar! 
+**Bedrich**. Si te gustan los festivales, trata de hacer coincidir tu visita con el 
+[Festival de Música Litomyšl de 
+Smetana](https://www.czechtourism.com/sp/e/smetana-litomysl/) que se celebra en el patio 
+del palacio. ¡Te va a encantar! 
 
 ![trebon viajar sola chequia](https://fotos.etheriamagazine.com/2020/05/viajar-sola-trebon-republica-checa.jpg "Encanto nocturno de Třeboň. © Ladislav Renner.")
 
@@ -154,8 +154,6 @@ Arte, naturaleza, cultura, gastronomía... ¿qué más se puede pedir de una esc
 
 ### También te puede interesar...
 
-[12 hoteles en la República Checa con un toque muy 
-original](https://etheriamagazine.com/2021/06/05/12-originales-hoteles-en-la-republica-checa/). 
+{{< reflink path=posts/2021/06/12-originales-hoteles-en-la-republica-checa >}}. 
 
-[10 imprescindibles para despertar tu romanticismo en República 
-Checa](https://etheriamagazine.com/2018/12/11/10-estampas-romanticas-de-republica-checa/).
+{{< reflink path=posts/2018/12/10-estampas-romanticas-de-republica-checa >}}.

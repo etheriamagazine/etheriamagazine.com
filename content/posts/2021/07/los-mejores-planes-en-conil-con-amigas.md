@@ -1,7 +1,7 @@
 ---
 title: "16 planes imprescindibles en Conil con amigas"
 date: 2021-07-05
-coverImage: https://fotos.etheriamagazine.com/2021/01/cala-enebro-playa-conil.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/cala-enebro-playa-conil.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -52,8 +52,7 @@ nivel cultural, no dejes de conocer La Chanca, con su centro de interpretación 
 y del Mar; y a Raíces Conileñas, un pequeño museo etnográfico. Las visitas guiadas de la 
 oficina de turismo son una buena manera de acercarse al patrimonio conileño. 
 
-✅ [15 visitas imprescindibles en Conil gratis y ninguna es una 
-playa](https://etheriamagazine.com/2022/04/13/guia-de-conil-visitas-gratuitas/). 
+✅ {{< reflink path=posts/2022/04/guia-de-conil-visitas-gratuitas >}}. 
 
 ![cala el enebro en conil cadiz](https://fotos.etheriamagazine.com/2021/01/cala-enebro-playa-conil.jpg "Cala El Enebro (Conil de la Frontera). © Etheria M.")
 
@@ -70,10 +69,9 @@ algunas calas. Los acantilados comienzan a partir de la playa Fuente del Gallo y
 hasta las playas de Roche, entre medias encontrarás preciosas calas a las que se accede 
 por empinadas escaleras, y que suelen contar con una zona de aparcamiento cercano. 
 
-✅ No nos alargamos más porque en este artículo [“Las mejores playas y calas de Conil de 
-la 
-Frontera”](https://etheriamagazine.com/2021/02/05/mejores-playas-y-calas-de-conil-de-la-frontera/) 
-encontrarás detalladas las 15 mejores y cómo llegar a las mismas. 
+✅ No nos alargamos más porque en este artículo {{< reflink 
+path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}} encontrarás 
+detalladas las 15 mejores y cómo llegar a las mismas. 
 
 ![tapeo mirador del Roqueo planes en Conil](https://fotos.etheriamagazine.com/2021/06/tapas-mirador-roqueo.jpg "Tapeo con vistas en El Mirador del Roqueo. © Pepa G.")
 
@@ -90,12 +88,12 @@ Entre los cientos (no creo que exageremos) de bares de Conil encontrarás tapeo
 tradicional y creativo, te recomendamos ir alternándolo. Algunas referencias son: [El 
 Pasaje](https://elpasajeconil.com/) (avda. de la Playa), [La 
 Almazara](https://www.almazaraconil.com/) (c/ La Laguna), [La 
-Tabernita](https://www.facebook.com/La-Tabernita-112230713571202/) (Plaza de España, 4), [Puerta 
-Cai](https://barpuertacai.com/) (final de la calle Cádiz), etc. No dejes de pasarte por 
-el recién reformado restaurante [El Sopa](https://www.facebook.com/BarSopa) (calle 
-Cádiz, 32), desde cuya terraza se obtiene una bonita panorámica de la playa. En [La 
-Cachorra Perdida](https://lacachorraperdida.negocio.site/) también encontrarás platos 
-muy cuidados. 
+Tabernita](https://www.facebook.com/La-Tabernita-112230713571202/) (Plaza de España, 4), 
+[Puerta Cai](https://barpuertacai.com/) (final de la calle Cádiz), etc. No dejes de 
+pasarte por el recién reformado restaurante [El Sopa](https://www.facebook.com/BarSopa) 
+(calle Cádiz, 32), desde cuya terraza se obtiene una bonita panorámica de la playa. En 
+[La Cachorra Perdida](https://lacachorraperdida.negocio.site/) también encontrarás 
+platos muy cuidados. 
 
 Y como lugares muy originales y castizos que sólo abren en verano están **El Bernabéu** 
 (en el paseo marítimo), un chiringuito donde tomar unas sardinas asadas y unas cervezas 
@@ -149,15 +147,15 @@ imprescindible porque allí no hay chiringuitos, tampoco baños, duchas ni vigil
 ## 6\. Probar el atún rojo
 
 El atún rojo no sólo es el rey del mar sino también el pez favorito de la costa 
-conileña. En este reportaje ([Ruta del atún rojo en 
-Cádiz](https://etheriamagazine.com/2018/06/12/ruta-del-atun-rojo-en-cadiz/)) os 
-hablábamos de los lazos que unen a la localidad con este túnido. Como te decíamos en el 
-primer punto, no olvides visitar **La Chanca** donde lo aprenderás todo sobre este 
-animal. Y después a degustarlo, claro. Si puedes viajar en mayo, cuando se celebra la 
-Ruta del Atún Rojo encontrarás eventos especiales y tapas que se presentan a concurso 
-(muchas se mantienen en carta durante todo el año). Entre los muchos restaurantes de 
-Conil, algunos donde ya hemos probado el atún rojo y nos parece que lo preparan de forma 
-espectacular son [El Roqueo,](https://www.elroqueo.com/restaurante-roqueo-conil.php) [Casa 
+conileña. En este reportaje ({{< reflink path=posts/2018/06/ruta-del-atun-rojo-en-cadiz 
+>}}) os hablábamos de los lazos que unen a la localidad con este túnido. Como te 
+decíamos en el primer punto, no olvides visitar **La Chanca** donde lo aprenderás todo 
+sobre este animal. Y después a degustarlo, claro. Si puedes viajar en mayo, cuando se 
+celebra la Ruta del Atún Rojo encontrarás eventos especiales y tapas que se presentan a 
+concurso (muchas se mantienen en carta durante todo el año). Entre los muchos 
+restaurantes de Conil, algunos donde ya hemos probado el atún rojo y nos parece que lo 
+preparan de forma espectacular son [El 
+Roqueo,](https://www.elroqueo.com/restaurante-roqueo-conil.php) [Casa 
 Francisco](https://www.franciscofontanilla.com/), [Bar Juan 
 María](https://www.facebook.com/barJuanMaria) y [Venta 
 Melchor](http://www.restauranteventamelchor.com/). 
@@ -191,7 +189,8 @@ masificaciones, y usar mascarilla donde no se pueda mantener la distancia de seg
 
 Si quieres añadir algún plan activo más a tu escapada a Conil con amigas, tienes varios 
 donde elegir. Esta costa “bendecida” con el viento de levante es un lugar excepcional 
-para practicar surf. Si quieres iniciarte en este deporte puedes reservar unas clases en [alguna 
+para practicar surf. Si quieres iniciarte en este deporte puedes reservar unas clases en 
+[alguna 
 academia](https://www.google.com/search?q=surf%20en%20conil&oq=surf+en+coni&aqs=chrome.0.0j69i57j0j0i22i30l6.2738j0j4&sourceid=chrome&ie=UTF-8&tbs=lf:1,lf_ui:14&tbm=lcl&sxsrf=ALeKk00rcA9p4xOQqO7YM7WCncLSYJRroQ:1624874149283&rflfq=1&num=10&rldimm=10540511106263214721&lqi=Cg1zdXJmIGVuIGNvbmlsWhUiDXN1cmYgZW4gY29uaWwqBAgDEACSAQtzdXJmX3NjaG9vbJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VORE5IUmlPRlYzRUFFqgEMEAEqCCIEc3VyZigO&phdesc=g5cbqQBrhE0&ved=2ahUKEwi4vOPzh7rxAhUE5OAKHdTfC3YQvS56BAgGECs&rlst=f#rlfi=hd:;si:10540511106263214721,l,Cg1zdXJmIGVuIGNvbmlsWhUiDXN1cmYgZW4gY29uaWwqBAgDEACSAQtzdXJmX3NjaG9vbJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VORE5IUmlPRlYzRUFFqgEMEAEqCCIEc3VyZigO,y,g5cbqQBrhE0;mv:[[36.296687999999996,-6.0676141999999995],[36.2270204,-6.1035791999999995]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:14) 
 de la zona, donde además te prestarán todo el equipo. Si prefieres algo más tranquilo, 
 un [bautizo de buceo](http://oceanoadictos.com/servicios-y-tarifas.html) tampoco está 
@@ -241,8 +240,7 @@ preciosos atardeceres. Itinerario en [Google
 maps](https://www.google.com/maps/dir/Conil+de+la+Frontera,+11140,+C%C3%A1diz/El+Palmar,+Paseo+Mar%C3%ADtimo,+Vejer+de+la+Frontera/@36.2543768,-6.0906894,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd0c381f6ac60cd1:0xf5342b7905a1d02e!2m2!1d-6.0862071!2d36.2780988!1m5!1m1!1s0xd0c47615d436eb1:0x9cc9e52714fe62f1!2m2!1d-6.066018!2d36.2256734!3e0). 
 
 **12\. El pueblo blanco de** **Vejer de la Frontera** (16 km), encaramado en una colina 
-([en este artículo tenéis las visitas imprescindibles en 
-Vejer](https://etheriamagazine.com/2020/08/11/10-actividades-vejer-de-la-frontera-que-ver-hacer/)). 
+({{< reflink path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}}). 
 Itinerario en [Google 
 maps](https://www.google.com/maps/dir/Conil+de+la+Frontera,+11140,+C%C3%A1diz/Vejer+de+la+Frontera,+11150,+C%C3%A1diz/@36.2564365,-6.0965139,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd0c381f6ac60cd1:0xf5342b7905a1d02e!2m2!1d-6.0862071!2d36.2780988!1m5!1m1!1s0xd0c45c91240e403:0xc7939fe29cb2a440!2m2!1d-5.9667359!2d36.252034!3e0). 
 
@@ -250,19 +248,16 @@ maps](https://www.google.com/maps/dir/Conil+de+la+Frontera,+11140,+C%C3%A1diz/Ve
 salino](https://salinasdechiclana.es/). Itinerario en [Google 
 maps](https://www.google.com/maps/dir/Conil+de+la+Frontera,+Espa%C3%B1a/Salinas+de+Chiclana,+Salinas+de+la+Chiclana,+de+Ruta+de,+11130+Chiclana+de+la+Frontera,+C%C3%A1diz,+Espa%C3%B1a/@36.3585669,-6.178813,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd0c381f6ac60cd1:0xf5342b7905a1d02e!2m2!1d-6.0862071!2d36.2780988!1m5!1m1!1s0xd0c33455dcc7089:0x7ef5ed27c5b4b99b!2m2!1d-6.1643073!2d36.4392501!3e0?hl=es-ES). 
 
-**14\. Tarifa** (a unos 65 km), donde, como decíamos [en este artículo de Tarifa con 
-amigas, no sólo hay planes para los 
-surferos](https://etheriamagazine.com/2020/07/06/viajes-por-espana-tarifa-con-amigas-aires-de-windsurf/). 
-Itinerario en [Google 
+**14\. Tarifa** (a unos 65 km), donde, como decíamos {{< reflink 
+path=posts/2020/07/viajes-por-espana-tarifa-con-amigas-aires-de-windsurf >}}. Itinerario 
+en [Google 
 maps](https://www.google.com/maps/dir/Conil+de+la+Frontera,+Espa%C3%B1a/Tarifa,+Espa%C3%B1a/@36.1533474,-5.9823869,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd0c381f6ac60cd1:0xf5342b7905a1d02e!2m2!1d-6.0862071!2d36.2780988!1m5!1m1!1s0xd0c8ef7c23f1c63:0x2ce0f2832aa48963!2m2!1d-5.6044497!2d36.0143209!3e0?hl=es-ES). 
 
 **15. Cádiz capital** (a unos 45 km –[itinerario por 
 autovía](https://www.google.com/maps/dir/Conil+de+la+Frontera,+Espa%C3%B1a/C%C3%A1diz,+Espa%C3%B1a/@36.4104057,-6.3100537,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd0c381f6ac60cd1:0xf5342b7905a1d02e!2m2!1d-6.0862071!2d36.2780988!1m5!1m1!1s0xd0dd25724ec240f:0x40463fd8ca03b00!2m2!1d-6.2885962!2d36.5270612!3e0?hl=es-ES)–), 
 donde la historia y la cultura se regodea en sus calles. 
 
-**16. Sierra de Cádiz.** Incluso puedes aventurarte un poco más allá y hacer parte de la [Ruta 
-de los Pueblos Blancos (consulta el artículo de la 
-ruta)](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/). 
-Hasta Arcos de la Frontera, la puerta a la Serranía, hay unos 85 km; y 130 km hasta 
-Grazalema. Es una muy buena opción para los días en los que sopla fuerte el viento de 
-levante.
+**16. Sierra de Cádiz.** Incluso puedes aventurarte un poco más allá y hacer parte de la 
+{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}}. Hasta Arcos de 
+la Frontera, la puerta a la Serranía, hay unos 85 km; y 130 km hasta Grazalema. Es una 
+muy buena opción para los días en los que sopla fuerte el viento de levante.

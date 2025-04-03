@@ -1,7 +1,7 @@
 ---
 title: "Las tradiciones navideñas más curiosas de la República Checa"
 date: 2020-11-25
-coverImage: https://fotos.etheriamagazine.com/2020/11/mercadillo-Pilsen-navidad.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/mercadillo-Pilsen-navidad.jpg
 categories: 
   - ocio
 destino: 
@@ -137,8 +137,6 @@ a vuestra cultura?
 
 ### También te puede interesar...
 
-• [Visitas en la República Checa para mujeres que viajan 
-solas](https://etheriamagazine.com/2020/05/29/viajar-sola-a-republica-checa-visitas-y-consejos/). 
+- {{< reflink path=posts/2020/05/viajar-sola-a-republica-checa-visitas-y-consejos >}}. 
 
-• [10 imprescindibles para despertar tu lado romántico en 
-Chequia](https://etheriamagazine.com/2018/12/11/10-estampas-romanticas-de-republica-checa/).
+- {{< reflink path=posts/2018/12/10-estampas-romanticas-de-republica-checa >}}.

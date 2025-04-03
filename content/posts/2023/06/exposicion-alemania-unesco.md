@@ -1,7 +1,7 @@
 ---
 title: "Sumérgete en el Patrimonio Unesco de Alemania sin salir de Madrid"
 date: 2023-06-07
-coverImage: https://fotos.etheriamagazine.com/2023/06/patrimonio-unesco-Wartburg.jpg
+cover: https://fotos.etheriamagazine.com/2023/06/patrimonio-unesco-Wartburg.jpg
 categories: 
   - cultura
   - ocio
@@ -11,11 +11,12 @@ authors:
   - Redacción Etheria
 ---
 
-Alemania da para mucho y tiene tantos atractivos que la Unesco ha reconocido 51 de ellos 
-como Patrimonio de la Humanidad. Para acercarlos a los viajeros, la Oficina de Turismo, 
-en colaboración con el Instituto Goethe, ha organizado una exposición interactiva e 
-inmersiva que te lleva a algunos de los más llamativos a través de cuatro rutas. Después 
-ya sólo queda visitar este maravilloso país al que querrás volver una y otra vez. 
+**Alemania da para mucho y tiene tantos atractivos que la Unesco ha reconocido 51 de 
+ellos como Patrimonio de la Humanidad. Para acercarlos a los viajeros, la Oficina de 
+Turismo, en colaboración con el Instituto Goethe, ha organizado una exposición 
+interactiva e inmersiva que te lleva a algunos de los más llamativos a través de cuatro 
+rutas. Después ya sólo queda visitar este maravilloso país al que querrás volver una y 
+otra vez.** 
 
 ![Exposición interactiva sobre el Patrimonio de la Humanidad por la Unesco de Alemania.](https://fotos.etheriamagazine.com/2023/06/exposicion-instituto-goethe-alemania.jpg "Exposición interactiva sobre el Patrimonio de la Humanidad por la Unesco de Alemania. © ONAT")
 
@@ -96,11 +97,9 @@ viaje.
 
 📌 **También te puede interesar:** 
 
-[Descubre Hamburgo en 48 horas, la Alemania más 
-canalla](https://etheriamagazine.com/2020/02/24/que-ver-hacer-fin-de-semana-hamburgo-alemania/) 
+{{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}} 
 
-[Múnich y Bad Wörishofen, la Alemania más verde y 
-saludable](https://etheriamagazine.com/2021/08/04/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable/) 
+{{< reflink path=posts/2021/08/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable 
+>}} 
 
-[Murnau, el pueblo alemán que enamoró a la artista Gabriele 
-Münter](https://etheriamagazine.com/2022/06/14/gabriele-munter-en-murnau/)
+{{< reflink path=posts/2022/06/gabriele-munter-en-murnau >}}

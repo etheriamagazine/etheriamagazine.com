@@ -1,7 +1,7 @@
 ---
 title: "'Yerba, el corazón verde de la trashumancia', la nueva exposición de Katy Gómez Catalina"
 date: 2025-01-28
-coverImage: https://fotos.etheriamagazine.com/2025/01/Exposicion-yerba-04.jpeg
+cover: https://fotos.etheriamagazine.com/2025/01/Exposicion-yerba-04.jpeg
 categories: 
   - cultura
   - ocio
@@ -105,8 +105,6 @@ preservar nuestras raíces.
 
 **También en Etheria Magazine** 
 
-[Escenarios poéticos y atormentados de la vida de Frida 
-Kahlo](https://etheriamagazine.com/2021/02/15/biografia-y-ruta-frida-kahlo-mexico/). 
+{{< reflink path=posts/2021/02/biografia-y-ruta-frida-kahlo-mexico >}}. 
 
-[Claves para disfrutar de una escapada a Bruselas por amor al 
-arte](https://etheriamagazine.com/2024/11/22/bruselas-por-amor-al-arte/).
+{{< reflink path=posts/2024/11/bruselas-por-amor-al-arte >}}.

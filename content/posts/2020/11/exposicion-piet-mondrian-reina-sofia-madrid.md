@@ -1,7 +1,7 @@
 ---
 title: "Piet Mondrian y su “belleza universal” de la geometría conquistan el Museo Reina Sofía"
 date: 2020-11-27
-coverImage: https://fotos.etheriamagazine.com/2020/11/exposicion-mondrian-reina-sofia-1.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/exposicion-mondrian-reina-sofia-1.jpg
 categories: 
   - cultura
   - ocio
@@ -114,8 +114,6 @@ encontrar “la belleza universal”.
 
 #### También te puede interesar...
 
-• [Expresionismo alemán en el Museo Thyssen 
-Bornemisza](https://etheriamagazine.com/2020/11/09/expresionismo-aleman-museo-thyssen-madrid/). 
+- {{< reflink path=posts/2020/11/expresionismo-aleman-museo-thyssen-madrid >}}. 
 
-• [10 exposiciones esenciales en Madrid para otoño-invierno 2020/ 
-21](https://etheriamagazine.com/2020/10/13/10-exposiciones-en-madrid-para-otono-2020/).
+- {{< reflink path=posts/2020/10/10-exposiciones-en-madrid-para-otono-2020 >}}.

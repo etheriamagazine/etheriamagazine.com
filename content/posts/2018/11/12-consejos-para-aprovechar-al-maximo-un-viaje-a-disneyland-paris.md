@@ -1,7 +1,7 @@
 ---
 title: "12 consejos para aprovechar tu viaje a Disneyland Paris"
 date: 2018-11-06
-coverImage: https://fotos.etheriamagazine.com/2018/10/Disneyland-viaje-familia-1-e1577797377918.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/Disneyland-viaje-familia-1-e1577797377918.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -164,8 +164,8 @@ online.
 
 ### También te puede interesar
 
-[Los 10 mejores parques de atracciones de Europa para visitar con 
-niños](https://etheriamagazine.com/2018/07/09/los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia/) 
+{{< reflink 
+path=posts/2018/07/los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia 
+>}} 
 
-[Viajar con niños por Europa: consejos y propuestas para acertar en tu primer 
-viaje](https://etheriamagazine.com/2021/02/02/viajar-con-ninos-por-europa-consejos-y-propuestas/)
+{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}}

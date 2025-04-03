@@ -1,7 +1,7 @@
 ---
 title: "Belfast, punk y diseño en Irlanda del Norte"
 date: 2019-11-04
-coverImage: https://fotos.etheriamagazine.com/2019/10/belfast-ruta-grafitis.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/belfast-ruta-grafitis.jpg
 categories: 
   - viajar-con-amigas
   - viajar-sola
@@ -11,12 +11,12 @@ authors:
   - Rafael de Rojas
 ---
 
-El diseño ha tomado el centro de Belfast como hace 40 años lo tomaron los punks: con 
+**El diseño ha tomado el centro de Belfast como hace 40 años lo tomaron los punks: con 
 ánimo revulsivo, aunque cambiando la rabia por creatividad. Los estudios de diseñadores 
 y artistas se multiplican en las antiguas estancias industriales de ladrillo del barrio 
 de la Catedral, mientras que los astilleros de los que salió el Titanic son ahora una 
 creciente pasarela de edificios de vanguardia. En ese caldo de cultivo, la anual Design 
-Week de Belfasf procura el flechazo del diseño internacional y los creativos locales. 
+Week de Belfasf procura el flechazo del diseño internacional y los creativos locales.** 
 
 ![panorámica de belfast](https://fotos.etheriamagazine.com/2019/10/belfast-panoramica.jpg "Panorámica de Belfast con el Ayuntamiento enfrente. © Christopher Heaney.")
 
@@ -160,11 +160,8 @@ no era ese.
 
 **También te puede interesar:** 
 
-[Irlanda del Norte: 6 visitas imprescindibles y 2 lugares 
-secretos](https://etheriamagazine.com/2021/05/31/8-visitas-increibles-en-irlanda-del-norte/) 
+{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}} 
 
-[Ruta de Juego de Tronos en Irlanda del 
-Norte](https://etheriamagazine.com/2018/07/02/juego-de-tronos-en-irlanda-del-norte/) 
+{{< reflink path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte >}} 
 
-[‘Almas en pena de Inisherin’, paisajes de cine en 
-Irlanda](https://etheriamagazine.com/2023/01/30/almas-en-pena-de-inisherin/)
+{{< reflink path=posts/2023/01/almas-en-pena-de-inisherin >}}

@@ -1,7 +1,7 @@
 ---
 title: "El Alcázar de Segovia, prepara la visita a este castillo de cuento de hadas"
 date: 2020-03-11
-coverImage: https://fotos.etheriamagazine.com/2020/03/sala-reyes-alcazar-segovia.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/sala-reyes-alcazar-segovia.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-El Alcázar de Segovia se encuentra entre los castillos y palacios más bonitos de España. 
-Con su imagen de cuento de hadas seduce desde la primera mirada, pero ¿cómo es el 
-interior del Alcázar? Te damos todos los detalles de sus salas, precios de entradas y 
-horarios gratuitos para que vayas bien informado. 
+**El Alcázar de Segovia se encuentra entre los castillos y palacios más bonitos de 
+España. Con su imagen de cuento de hadas seduce desde la primera mirada, pero ¿cómo es 
+el interior del Alcázar? Te damos todos los detalles de sus salas, precios de entradas y 
+horarios gratuitos para que vayas bien informado.** 
 
 ![Sala de Reyes del Alcázar de Segovia.](https://fotos.etheriamagazine.com/2020/03/sala-reyes-alcazar-segovia.jpg "Sala de Reyes del Alcázar de Segovia. © Etheria Magazine")
 
@@ -245,12 +245,9 @@ Más información en [Alcázar de Segovia](https://www.alcazardesegovia.com/)
 
 ### Sigue leyendo sobre Segovia
 
-[Razones, si es que las necesitas, por las que deberías planear ya una escapada por la 
-provincia de 
-Segovia](https://etheriamagazine.com/2021/03/09/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia/). 
+{{< reflink path=posts/2021/03/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia 
+>}}. 
 
-[Ruta para descubrir los secretos ocultos del acueducto de 
-Segovia](https://etheriamagazine.com/2021/06/25/ruta-senderista-acueducto-segovia/). 
+{{< reflink path=posts/2021/06/ruta-senderista-acueducto-segovia >}}. 
 
-[Los tres tenores del cochinillo en Segovia, una historia de amor 
-correspondido](https://etheriamagazine.com/2020/12/01/mejores-restaurantes-para-comer-cochinillo-en-segovia/)
+{{< reflink path=posts/2020/12/mejores-restaurantes-para-comer-cochinillo-en-segovia >}}

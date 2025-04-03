@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer en Cantabria con niños, planes divertidos"
 date: 2018-07-13
-coverImage: https://fotos.etheriamagazine.com/2018/07/Suances.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/Suances.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-Un viaje a Cantabria con niños siempre sale bien porque tiene unas dimensiones muy 
+**Un viaje a Cantabria con niños siempre sale bien porque tiene unas dimensiones muy 
 manejables, ofrece naturaleza, cultura y una excelente gastronomía. Pocos lugares 
 combinan ratos de diversión en prados con ciudades históricas y unas playas increíbles. 
-Sigue leyendo para saber cómo aprovechar 3 o 4 días en Cantabria. 
+Sigue leyendo para saber cómo aprovechar 3 o 4 días en Cantabria.** 
 
 ![Playa de Suances (Cantabria).](https://fotos.etheriamagazine.com/2018/07/playa-suances-1024x768-2.jpg "Playa de Suances (Cantabria). © Susana García")
 
@@ -170,14 +170,12 @@ y media. Es recomendable comprar las entradas con antelación en la web de la cu
 
 ### Otros artículos sobre Cantabria que te pueden interesar:
 
-[Lugares sorprendentes de Cantabria que aún no 
-conoces](https://etheriamagazine.com/2020/06/05/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original/) 
+{{< reflink 
+path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}} 
 
-[5 experiencias en Cantabria para un fin de semana con 
-amigas](https://etheriamagazine.com/2020/02/17/5-experiencias-en-cantabria-para-un-fin-de-semana-con-amigas/) 
+{{< reflink 
+path=posts/2020/02/5-experiencias-en-cantabria-para-un-fin-de-semana-con-amigas >}} 
 
-[Ruta por los mejores faros de 
-Cantabria](https://etheriamagazine.com/2020/05/18/viaje-a-los-mejores-faros-de-cantabria/) 
+{{< reflink path=posts/2020/05/viaje-a-los-mejores-faros-de-cantabria >}} 
 
-[Valle de Valdeolea, 9 rituales para descubrir la esencia del sur de 
-Cantabria](https://etheriamagazine.com/2021/06/04/que-ver-en-valle-de-valdeolea-cantabria/)
+{{< reflink path=posts/2021/06/que-ver-en-valle-de-valdeolea-cantabria >}}

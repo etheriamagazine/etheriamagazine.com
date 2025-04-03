@@ -1,7 +1,7 @@
 ---
 title: "Nantucket, la sorprendente isla de Moby Dick"
 date: 2019-10-16
-coverImage: https://fotos.etheriamagazine.com/2019/10/viaje-mujeres-Nantucket.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/viaje-mujeres-Nantucket.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -184,11 +184,8 @@ ha descubierto en sus frecuentes viajes por el mundo.
 
 ### También te puede interesar:
 
-[Nueva York: el mejor plan con amigas al otro lado del 
-charco](https://etheriamagazine.com/2019/05/17/viaje-con-amigas-nueva-york-primavera/) 
+{{< reflink path=posts/2019/05/viaje-con-amigas-nueva-york-primavera >}} 
 
-[Arizona: vive tu propia road movie en territorio 
-navajo](https://etheriamagazine.com/2018/05/29/viaje-aventura-para-mujeres-en-arizona-usa/) 
+{{< reflink path=posts/2018/05/viaje-aventura-para-mujeres-en-arizona-usa >}} 
 
-[10 experiencias alucinantes en el Lejano Oeste 
-americano](https://etheriamagazine.com/2019/07/18/ruta-california-por-el-lejano-oeste-americano/)
+{{< reflink path=posts/2019/07/ruta-california-por-el-lejano-oeste-americano >}}

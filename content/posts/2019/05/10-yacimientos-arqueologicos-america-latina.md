@@ -1,7 +1,7 @@
 ---
 title: "10 yacimientos arqueológicos en América Latina que tienes que conocer"
 date: 2019-05-29
-coverImage: https://fotos.etheriamagazine.com/2019/05/yacimientos-america-machu-picchu.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/yacimientos-america-machu-picchu.jpg
 categories: 
   - inspiración
   - ocio
@@ -40,8 +40,7 @@ Antigüedad. Te sorprenderán sus enormes dimensiones y las Pirámides del Sol y
 Si has visto la película de Coco, recordarás el parecido entre este sitio arqueológico y 
 su 'Tierra de Muertos'. 
 
-✅ [‘Coco’, una película que nos acerca a México y sus 
-tradiciones](https://etheriamagazine.com/2018/05/28/en-el-mexico-de-coco/) 
+✅ {{< reflink path=posts/2018/05/en-el-mexico-de-coco >}} 
 
 ![Explanada de Teotihuacán](https://fotos.etheriamagazine.com/2019/05/yacimientos-america-mexico.jpg "Extensa explanada del yacimiento de Teotihuacán.")
 
@@ -125,8 +124,6 @@ Juego de Pelota.
 
 **También en Etheria Magazine:** 
 
-[10 yacimientos de México que no puedes 
-perderte](https://etheriamagazine.com/2021/03/30/mejores-yacimientos-arqueologicos-mexico/) 
+{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}} 
 
-[Descubre el misterio de los moáis y su ‘mana’ en Isla de 
-Pascua](https://etheriamagazine.com/2019/02/15/viaje-misterios-isla-pascua/)
+{{< reflink path=posts/2019/02/viaje-misterios-isla-pascua >}}

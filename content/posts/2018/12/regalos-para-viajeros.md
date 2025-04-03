@@ -1,7 +1,7 @@
 ---
 title: "Regala un viaje estas Navidades"
 date: 2018-12-15
-coverImage: https://fotos.etheriamagazine.com/2018/12/regalos-navidad.jpg
+cover: https://fotos.etheriamagazine.com/2018/12/regalos-navidad.jpg
 categories: 
   - inspiración
   - ocio
@@ -125,8 +125,6 @@ gastronomía. Desde 139 Euros.
 
 **También te puede interesar:** 
 
-[10 lugares del mundo para escapar de la 
-Navidad](https://etheriamagazine.com/2018/11/13/10-lugares-para-huir-de-la-navidad/) 
+{{< reflink path=posts/2018/11/10-lugares-para-huir-de-la-navidad >}} 
 
-[Dónde celebrar el Fin de Año en Madrid: hoteles y restaurantes con mucho 
-estilo](https://etheriamagazine.com/2023/11/28/nochevieja-madrid-hoteles-restaurantes/)
+{{< reflink path=posts/2023/11/nochevieja-madrid-hoteles-restaurantes >}}

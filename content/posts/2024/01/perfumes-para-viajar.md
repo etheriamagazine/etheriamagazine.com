@@ -1,7 +1,7 @@
 ---
 title: "Fragancias para mujeres viajeras, cómo elegir el perfume perfecto"
 date: 2024-01-16
-coverImage: https://fotos.etheriamagazine.com/2024/01/portada-perfumes-viajes.jpg
+cover: https://fotos.etheriamagazine.com/2024/01/portada-perfumes-viajes.jpg
 categories: 
   - bienestar
 destino: 
@@ -101,13 +101,13 @@ Byredo; y **Belle Italie**, igual de energizante que Escale à Portofino, de Dio
 ## Dónde llevarlos en la maleta
 
 Aunque lo más habitual es colocar el perfume dentro del neceser (no te pierdas este 
-artículo sobre [neceseres de 
-viaje](https://etheriamagazine.com/2019/10/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras/)) 
-que va en el interior de la maleta... no siempre es la mejor opción para llevarlo 
-protegido. Te aconsejamos introducir el envase si es de cristal en una bolsa hermética 
-de plástico y, posteriormente, envolverlo en algo que pueda servir de barrera para un 
-posible impacto (calcetín, bufanda...). Una vez en el destino, procura no dejarlo en un 
-lugar expuesto al sol o cerca de radiadores, ya que el aroma cambiará inevitablemente. 
+artículo sobre {{< reflink 
+path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}}) que va en el 
+interior de la maleta... no siempre es la mejor opción para llevarlo protegido. Te 
+aconsejamos introducir el envase si es de cristal en una bolsa hermética de plástico y, 
+posteriormente, envolverlo en algo que pueda servir de barrera para un posible impacto 
+(calcetín, bufanda...). Una vez en el destino, procura no dejarlo en un lugar expuesto 
+al sol o cerca de radiadores, ya que el aroma cambiará inevitablemente. 
 
 ![Tienda de perfumes en India](https://fotos.etheriamagazine.com/2024/01/perfumes-india.jpg "Tienda de perfumes en India. © Omkar Jadhav")
 
@@ -120,8 +120,6 @@ mejor.
 
 **También te interesa...** 
 
-[Qué llevar en la maleta a 
-Egipto](https://etheriamagazine.com/2023/02/01/que-llevar-en-la-maleta-egipto/). 
+{{< reflink path=posts/2023/02/que-llevar-en-la-maleta-egipto >}}. 
 
-[Qué llevar en la maleta a 
-Bali](https://etheriamagazine.com/2023/06/23/que-llevar-maleta-viaje-bali/).
+{{< reflink path=posts/2023/06/que-llevar-maleta-viaje-bali >}}.

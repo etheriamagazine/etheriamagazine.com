@@ -1,7 +1,7 @@
 ---
 title: "Aitona en flor, un anuncio 'rosa' a las afueras de Lleida"
 date: 2022-02-24
-coverImage: https://fotos.etheriamagazine.com/2019/03/Fruiturismo-lleida.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/Fruiturismo-lleida.jpg
 categories: 
   - viajar-en-familia
   - ocio
@@ -11,12 +11,12 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Un estallido rosáceo enciende el paisaje rural del Bajo Segre debido a la floración de 
+**Un estallido rosáceo enciende el paisaje rural del Bajo Segre debido a la floración de 
 los melocotoneros de Lleida, el campo se tiñe de rosa más allá de donde te alcanza la 
 vista. Durante tres semanas Aitona se convierte en la capital de la primavera gracias a 
 la floración simultánea de sus frutales. Vamos a contagiarnos del placer japonés por 
 observar la belleza de las flores o _hanami_ mientras las ramas de los árboles se tiñen 
-de rosa. 
+de rosa.** 
 
 ![melocotoneros aitona en flor](https://fotos.etheriamagazine.com/2019/03/Fruiturismo-lleida.jpg "Melocotoneros en flor del Bajo Segre.")
 
@@ -191,15 +191,16 @@ menú diario y comida para llevar. Aitona. Tel. 973 794 011.
 
 **Más información** 
 
-Consulta en Fruiturisme (Oficina de Turismo de Aitona) o en [fruiturisme.info](https://fruiturisme.info/ca) 
+Consulta en Fruiturisme (Oficina de Turismo de Aitona) o en 
+[fruiturisme.info](https://fruiturisme.info/ca) 
 
 ## Más rutas en Lleida...
 
-[Pueblos y rutas imprescindibles en el Valle de Arán 
-(Lleida)](https://etheriamagazine.com/2020/08/31/pueblos-y-rutas-imprescindibles-en-valle-aran/) 
+{{< reflink path=posts/2020/08/pueblos-y-rutas-imprescindibles-en-valle-aran >}} 
 
-[Consejos prácticos para visitar el desfiladero o congost de Mont-rebei 
-(Lleida)](https://etheriamagazine.com/2020/05/13/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida/). 
+{{< reflink 
+path=posts/2020/05/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida 
+>}}. 
 
-[Caminatas y románico en el Vall de Boí 
-(Lleida)](https://etheriamagazine.com/2020/02/28/ruta-senderista-en-familia-por-valle-de-boi-pirineo-lleida/)
+{{< reflink 
+path=posts/2020/02/ruta-senderista-en-familia-por-valle-de-boi-pirineo-lleida >}}

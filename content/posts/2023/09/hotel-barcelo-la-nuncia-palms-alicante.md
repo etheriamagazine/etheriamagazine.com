@@ -1,7 +1,7 @@
 ---
 title: "Hotel Barceló La Nucía Palms, lujo y relax a un paso de las playas de Alicante"
 date: 2023-09-25
-coverImage: https://fotos.etheriamagazine.com/2023/09/barcelo-la-nuncia-palms-piscina.jpg
+cover: https://fotos.etheriamagazine.com/2023/09/barcelo-la-nuncia-palms-piscina.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-El Barceló La Nucía Palms es un oasis de lujo en Alicante, un hotel de cinco estrellas 
+**El Barceló La Nucía Palms es un oasis de lujo en Alicante, un hotel de cinco estrellas 
 pensado para descansar a lo grande alejada de la bulliciosa costa. Un alojamiento 
 perfecto para una escapada a esta provincia, a medio camino entre sus playas y sus 
 pueblos y tesoros menos conocidos del interior. Anímate y no dudes en organizar aquí 
-unos días de desconexión con tu familia o amigas. 
+unos días de desconexión con tu familia o amigas.** 
 
 ![B-Heaven es el bar de la terraza del Barceló La Nucía Palms.](https://fotos.etheriamagazine.com/2023/09/barcelo-la-nuncia-palms-terraza.jpg "B-Heaven es el bar de la terraza del Barceló La Nucía Palms.")
 

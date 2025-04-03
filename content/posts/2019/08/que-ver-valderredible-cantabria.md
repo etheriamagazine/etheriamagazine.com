@@ -1,7 +1,7 @@
 ---
 title: "10 poderosas razones para visitar Valderredible, el sur de Cantabria"
 date: 2019-08-26
-coverImage: https://fotos.etheriamagazine.com/2019/08/Roble-valderredible-cantabria-e1565602301535.jpg
+cover: https://fotos.etheriamagazine.com/2019/08/Roble-valderredible-cantabria-e1565602301535.jpg
 categories: 
   - viajar-con-amigas
   - inspiración

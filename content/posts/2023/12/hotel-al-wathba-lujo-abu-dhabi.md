@@ -1,7 +1,7 @@
 ---
 title: "Hotel Al Wathba, una cita con el lujo en Abu Dhabi"
 date: 2023-12-20
-coverImage: https://fotos.etheriamagazine.com/2023/12/hotel-Al-Wathba-abu-dhabi-piscina.jpg
+cover: https://fotos.etheriamagazine.com/2023/12/hotel-Al-Wathba-abu-dhabi-piscina.jpg
 categories: 
   - hoteles
 destino: 
@@ -99,8 +99,6 @@ euros por noche.
 
 **También te puede interesar:** 
 
-[Navidad en Dubái, mercadillos entre rascacielos y a 25 
-grados](https://etheriamagazine.com/2023/12/08/agenda-navidad-dubai/) 
+{{< reflink path=posts/2023/12/agenda-navidad-dubai >}} 
 
-[Hotel One&Only Royal Mirage, un cinco estrellas perfecto para vivir Dubái con 
-estilo](https://etheriamagazine.com/2022/02/04/hotel-lujo-one-only-royal-mirage-dubai/)
+{{< reflink path=posts/2022/02/hotel-lujo-one-only-royal-mirage-dubai >}}

@@ -1,7 +1,7 @@
 ---
 title: "Mujeres brillantes y emprendedoras que nos inspiran cada día"
 date: 2023-03-09
-coverImage: https://fotos.etheriamagazine.com/2023/03/mujeres-viaje-baile-africa-Belen-Bonapriso.jpg
+cover: https://fotos.etheriamagazine.com/2023/03/mujeres-viaje-baile-africa-Belen-Bonapriso.jpg
 categories: 
   - historias
   - mujeres-top
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-Aunque marzo es un mes para celebrar el feminismo y la lucha por la igualdad, en Etheria 
-Magazine tratamos de poner en valor a las mujeres brillantes y emprendedoras durante 
-todo el año a través de nuestras “historias en femenino”. En este artículo recogemos 
-diez artículos dedicados a mujeres inspiradoras de todo tipo, famosas y anónimas, 
-empresarias y artistas. Todas merecen nuestro reconocimiento. 
+**Aunque marzo es un mes para celebrar el feminismo y la lucha por la igualdad, en 
+Etheria Magazine tratamos de poner en valor a las mujeres brillantes y emprendedoras 
+durante todo el año a través de nuestras “historias en femenino”. En este artículo 
+recogemos diez artículos dedicados a mujeres inspiradoras de todo tipo, famosas y 
+anónimas, empresarias y artistas. Todas merecen nuestro reconocimiento.** 
 
 ![Cecilia Bartolomé, Lee Krasner, Sania Jelic y Belén Orive](https://fotos.etheriamagazine.com/2023/03/Mujeres-etheria.jpg "Cecilia Bartolomé, Lee Krasner, Sania Jelic y Belén Orive son algunas de nuestras mujeres Etheria.")
 
@@ -65,8 +65,7 @@ Proyectos llenos de alma y dedicación personal que han aportado trabajo y desar
 su entorno más cercano haciéndolo más atractivo a nivel turístico. Si ya había infinitas 
 razonas para viajar a Costa Rica, el trabajo de estas mujeres es un aliciente más. 
 
-✅ [Mujeres de Costa Rica que nos han inspirado en 
-2022](https://etheriamagazine.com/2022/12/30/mujeres-de-costa-rica/). 
+✅ {{< reflink path=posts/2022/12/mujeres-de-costa-rica >}}. 
 
 ## MdjemAfrica, viajes a África para bailar
 
@@ -85,8 +84,7 @@ Belén es una de las integrantes de nuestros ‘Proyectos con alma’, una serie
 iniciativas de mujeres emprendedoras que apoyamos en Etheria Magazine de forma gratuita 
 bajo el lema ‘Ninguna mujer sin sus mil palabras de gloria’. 
 
-✅ [MdjemAfrica, mujeres que viajan en grupo para 
-bailar](https://etheriamagazine.com/2022/05/25/mdjemafrica-viajes-mujeres-baile/). 
+✅ {{< reflink path=posts/2022/05/mdjemafrica-viajes-mujeres-baile >}}. 
 
 ## Mujeres viajeras
 
@@ -107,8 +105,7 @@ mundo. Otras de nuestras mujeres viajeras preferidas conjugaron su pasión por v
 la divulgación, como Maria Sybilla Merian (1647-1717), que demostró con sus viajes a 
 Surinam que los insectos no tenían su origen en el demonio como se creía hasta entonces. 
 
-✅ [Mujeres viajeras que, rompiendo moldes, hicieron las 
-maletas](https://etheriamagazine.com/2022/03/08/mujeres-viajeras-de-la-historia/). 
+✅ {{< reflink path=posts/2022/03/mujeres-viajeras-de-la-historia >}}. 
 
 ## Cecilia Bartolomé, referente del cine español
 
@@ -126,9 +123,7 @@ publicitario, que ha dado forma a un estilo feminista, divertido y moderno.
 En nuestro artículo, además de un perfil de la cineasta, puedes leer también la 
 entrevista realizada a raíz del Premio Feroz. 
 
-✅ [Cecilia Bartolomé: “Cuando entré en la Escuela de Cine me preguntaba qué hacía allí 
-si era una 
-chica”.](https://etheriamagazine.com/2022/01/31/cecilia-bartolome-pionera-del-cine-espanol/) 
+✅ {{< reflink path=posts/2022/01/cecilia-bartolome-pionera-del-cine-espanol >}} 
 
 ## Sania Jelic, viajar sola tras la jubilación
 
@@ -148,8 +143,7 @@ disfrutar con calma de la cultura de otros países. Como nos ha contado, su obje
 “contribuir a cambiar la percepción senior y animar a mayores, sobre todo a mujeres 
 independientes, a viajar y disfrutar de esta etapa de la vida”. 
 
-✅ [Viajar sola por el mundo tras la jubilación, el nuevo plan de vida de Sania 
-Jelic](https://etheriamagazine.com/2022/12/13/sania-jelic-viajar-sola-mas-65/). 
+✅ {{< reflink path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}}. 
 
 ## Ava Gardner, una ruta en Madrid
 
@@ -168,8 +162,7 @@ ilustrado por Jorge Arévalo con [El Madrid de
 Ava](https://www.madrid-destino.com/sites/default/files/2020-12/baja%20ElMadriddeAva.pdf) 
 que se puede descargar de su web. Muy recomendable. 
 
-✅ [Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
-‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/). 
+✅ {{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}. 
 
 ## Lee Krasner, una reivindicación necesaria
 
@@ -186,8 +179,7 @@ una de las pioneras del expresionismo abstracto considerada una de las grandes f
 del arte moderno. Una mujer feminista, libre y revolucionaria que tuvo que romper muchos 
 moldes por ser mujer y por pertenecer a una familia judía ortodoxa. 
 
-✅ [Lee Krasner, artista y esposa de Pollock, una reivindicación 
-necesaria](https://etheriamagazine.com/2021/08/06/lee-krasner-inspira-el-color-de-tu-nombre/). 
+✅ {{< reflink path=posts/2021/08/lee-krasner-inspira-el-color-de-tu-nombre >}}. 
 
 ## Frida Kahlo, icono feminista
 
@@ -204,8 +196,7 @@ Un reportaje que, además de poner en valor su faceta artística, recorre aquell
 que fueron importantes en su vida, desde su casa en Coyocán (México) a las ciudades de 
 Estados Unidos donde pasó parte de su vida, como Nueva York, Detroit o San Francisco. 
 
-✅ [Escenarios poéticos y atormentados de la vida de Frida 
-Kahlo](https://etheriamagazine.com/2021/02/15/biografia-y-ruta-frida-kahlo-mexico/). 
+✅ {{< reflink path=posts/2021/02/biografia-y-ruta-frida-kahlo-mexico >}}. 
 
 ## Abuelas luchadoras e inspiradoras
 
@@ -222,5 +213,5 @@ todo tipo de dificultades económicas y sociales. Una iniciativa que reivindica 
 derecho a la memoria histórica de unas mujeres anónimas que contribuyeron a su manera a 
 la lucha feminista, aunque ni siquiera pudieran llegar a pensar que lo estaban haciendo. 
 
-✅ [‘Nietas de la memoria’: 13 relatos de abuelas anónimas y luchadoras para 
-inspirarnos](https://etheriamagazine.com/2021/03/08/libro-nietas-de-la-memoria-historias-mujeres-en-posguerra/).
+✅ {{< reflink 
+path=posts/2021/03/libro-nietas-de-la-memoria-historias-mujeres-en-posguerra >}}.

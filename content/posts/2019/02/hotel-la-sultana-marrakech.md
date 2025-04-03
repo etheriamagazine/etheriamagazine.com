@@ -1,7 +1,7 @@
 ---
 title: "La Sultana o el sueño de una noche en Marrakech"
 date: 2019-02-27
-coverImage: https://fotos.etheriamagazine.com/2019/02/La-Sultana-Marrakech-suite.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/La-Sultana-Marrakech-suite.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-La ciudad de Marrakech es experta en esconder pequeñas joyas entre sus intrincadas 
+**La ciudad de Marrakech es experta en esconder pequeñas joyas entre sus intrincadas 
 callejuelas. Una de las más valiosas es el hotel La Sultana que, a modo de riad 
 tradicional, permite disfrutar de una estancia en la ciudad como si fueras la 
-protagonista de un delicado poema árabe. 
+protagonista de un delicado poema árabe.** 
 
 ![entrada al riad de La Sultana](https://fotos.etheriamagazine.com/2019/02/LaSultana-Marrakech-entrada.jpg "Entrada de La Sultana.")
 
@@ -112,8 +112,6 @@ Fotografías cedidas por La Sultana Marrakech.
 
 📍 **También te puede interesar:** 
 
-[Marrakech con amigas, visitas para un fin de semana 
-intenso](https://etheriamagazine.com/2018/12/27/viaje-de-amigas-a-marrakech/) 
+{{< reflink path=posts/2018/12/viaje-de-amigas-a-marrakech >}} 
 
-[Disfruta de una escapada en pareja al ‘Riad Belle Epoque’ de 
-Marrakech](https://etheriamagazine.com/2019/10/15/escapada-hotel-romantico-marrakech-riad-belle-epoque/)
+{{< reflink path=posts/2019/10/escapada-hotel-romantico-marrakech-riad-belle-epoque >}}

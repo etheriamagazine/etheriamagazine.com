@@ -1,7 +1,7 @@
 ---
 title: "Las Hurdes, un paraíso extremeño que huye de estereotipos"
 date: 2020-07-21
-coverImage: https://fotos.etheriamagazine.com/2020/07/las-hurdes-las-Mestas.jpg
+cover: https://fotos.etheriamagazine.com/2020/07/las-hurdes-las-Mestas.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -30,11 +30,11 @@ dudamos en poner tierra de por medio, ¿por qué nos cuesta entonces reparar en 
 paraísos cercanos? Ahora ya no hay excusa que valga, nos vamos a **Las Hurdes**. 
 
 Situada al norte de la Comunidad Autónoma de **Extremadura**, en la provincia de 
-**Cáceres**, esta comarca está acotada al norte por [la salmantina sierra de 
-Francia](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/), 
-con la de Gata al sureste y al sur con el valle del Alagón y Trasierra. Nos encontramos 
-ante un paisaje eminentemente montañoso que da forma a un conjunto orográfico troquelado 
-por ríos, piscinas naturales y reservados pueblos de arquitectura ancestral. 
+**Cáceres**, esta comarca está acotada al norte por {{< reflink 
+path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}, con la de Gata 
+al sureste y al sur con el valle del Alagón y Trasierra. Nos encontramos ante un paisaje 
+eminentemente montañoso que da forma a un conjunto orográfico troquelado por ríos, 
+piscinas naturales y reservados pueblos de arquitectura ancestral. 
 
 > Un paraíso natural del que podremos disfrutar recorriendo sus numerosas rutas de 
 > senderismo y conociendo su patrimonio histórico y cultural. Tradición y buena 
@@ -227,11 +227,8 @@ at Forest** (bikesatforest.com) expertos en Turismo Activo.
 
 **También en Extremadura...** 
 
-[Elige uno de estos 10 motivos para viajar a La Siberia 
-extremeña](https://etheriamagazine.com/2021/09/26/10-motivos-para-viajar-a-la-siberia-extremena/). 
+{{< reflink path=posts/2021/09/10-motivos-para-viajar-a-la-siberia-extremena >}}. 
 
-[Gastronomía y arte en el norte de 
-Extremadura](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/). 
+{{< reflink path=posts/2019/10/donde-comer-que-ver-hacer-viaje-norte-de-extremadura >}}. 
 
-[Toledo es la ciudad más feliz de España en 
-Instagram](https://etheriamagazine.com/2021/07/13/toledo-ciudad-mas-feliz-en-instagram/).
+{{< reflink path=posts/2021/07/toledo-ciudad-mas-feliz-en-instagram >}}.

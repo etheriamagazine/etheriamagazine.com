@@ -1,7 +1,7 @@
 ---
 title: "10 playas bonitas de España para ir pensando en las vacaciones"
 date: 2019-05-16
-coverImage: https://fotos.etheriamagazine.com/2019/03/cala-xarraca-ibiza.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/cala-xarraca-ibiza.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -12,9 +12,9 @@ authors:
   - Redacción Etheria
 ---
 
-Cada vez queda menos para las vacaciones y ¿a quién no le apetece la imagen de una playa 
-perfecta donde desconectar de todo? Para ir abriendo boca hemos seleccionado 10 playas 
-españolas donde seguro que te gustaría estar ahora mismo. 
+**Cada vez queda menos para las vacaciones y ¿a quién no le apetece la imagen de una 
+playa perfecta donde desconectar de todo? Para ir abriendo boca hemos seleccionado 10 
+playas españolas donde seguro que te gustaría estar ahora mismo.** 
 
 ![playas de España, viajes en verano, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/playas-espana-zahora-cadiz.jpg "Playa de Zahora (Cádiz). © Vidar Nordli Mathisen")
 
@@ -73,8 +73,9 @@ completo para disfrutarla como merece.
 Uno de esos rincones que parece que el Mediterráneo se resiste a enseñar ocultándolo 
 entre bosques de pinos, rocas y acantilados y que ofrecen ese mar transparente tan 
 característico de las calas rocosas de las islas Baleares (aunque en esta playa hay 
-arena). En los alrededores de esta cala de [Ibiza](http://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/) 
-se encuentran pequeños rincones perfectos para disfrutar si se llega en barco. 
+arena). En los alrededores de esta cala de 
+[Ibiza](http://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/) se encuentran 
+pequeños rincones perfectos para disfrutar si se llega en barco. 
 
 ## 6\. Playa de Itzurun (Zumaia, Gipuzkoa)
 
@@ -96,8 +97,7 @@ rodea y por lo recogida y tranquila que es. Además, ofrece una puesta de sol in
 Eso sí, no olvides llevar bebida y provisiones porque te querrás quedar todo el día y no 
 hay chiringuitos cerca. 
 
-📍[Zambúllete en la mejor guía de playas de 
-Formentera](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-playas-formentera/). 
+📍{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}. 
 
 ## 8\. Playa de San Antonio (Llanes, Asturias)
 
@@ -109,8 +109,7 @@ y en calma. El acceso es sencillo, se llega caminando desde Cuevas del Mar (5 mi
 su condición de playa salvaje hace que no haya ningún servicio, así que llévate todo lo 
 que vayas a necesitar. 
 
-📍[Asturias con amigas, visitas imprescindibles en una ruta en 
-coche](https://etheriamagazine.com/2022/01/17/asturias-en-coche-guia-imprescindible/). 
+📍{{< reflink path=posts/2022/01/asturias-en-coche-guia-imprescindible >}}. 
 
 ## 9\. Playa de Langre (Cantabria)
 

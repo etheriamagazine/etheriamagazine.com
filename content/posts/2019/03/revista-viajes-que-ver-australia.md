@@ -1,7 +1,7 @@
 ---
 title: "Ruta definitiva para tu viaje a Australia"
 date: 2019-03-07
-coverImage: https://fotos.etheriamagazine.com/2019/02/australia-ayers-rock-uluru.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/australia-ayers-rock-uluru.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -18,10 +18,10 @@ Bien, ya está decidido. Australia es vuestro próximo destino. ¿Y ahora qué? 
 empezamos? Más de 7,5 millones de kilómetros cuadrados de extensión, siete estados, 
 grandes ciudades como Sídney o Melbourne, la Gran Barrera de Coral, playas de ensueño 
 que no os podéis perder y un tiempo limitado hacen de la organización de este viaje una 
-tarea complicada. Pero que no cunda el pánico, os propongo una [guía previa de 
-Australia](https://etheriamagazine.com/2019/03/07/7-consejos-para-viajar-a-australia/) 
-que podéis consultar en el enlace y, a continuación, un itinerario para que aprovechéis 
-al máximo las vacaciones y tengáis claro qué ver en Australia. 
+tarea complicada. Pero que no cunda el pánico, os propongo una {{< reflink 
+path=posts/2019/03/7-consejos-para-viajar-a-australia >}} que podéis consultar en el 
+enlace y, a continuación, un itinerario para que aprovechéis al máximo las vacaciones y 
+tengáis claro qué ver en Australia. 
 
 ## Qué ver en Australia
 
@@ -56,23 +56,24 @@ pinturas rupestres en **Ubirr Rock**.
 
 Los amantes de los animales no os podéis perder una excursión en barca por el río 
 Adelaida con la que podréis ver los famosos **jumping crocs**, cocodrilos que salen del 
-agua para coger los pedazos de carne que les ofrecen. Podéis planear la actividad con [Adelaide 
-River Cruises.](https://www.adelaiderivercruises.com.au/) 
+agua para coger los pedazos de carne que les ofrecen. Podéis planear la actividad con 
+[Adelaide River Cruises.](https://www.adelaiderivercruises.com.au/) 
 
 ![Parque Nacional de Kakadu, viaje australia](https://fotos.etheriamagazine.com/2019/02/australia-cocodrilo-parque-kakadu.jpg "Cocodrilo en el Parque Nacional de Kakadu.")
 
 ### Cairns - Port Douglas - Gran Barrera de Coral (3-4 días)
 
-Con un vuelo interno cambiamos Darwin por [Cairns](https://www.australia.com/es-cl/places/cairns.html) 
-y pasamos al estado de Queensland. Desde aquí es posible conducir un coche de alquiler y 
-subir algo más al norte para alejarnos de la multitud y descubrir **Port Douglas**, 
-lugar donde el **Daintree Rainforest**, el bosque húmedo más antiguo de la tierra, 
-reconocido como Patrimonio de la Humanidad en 1988, se une con la **Gran Barrera de 
-Coral** en la mágica playa de Cape Tribulation. Es una zona donde la diversidad de flora 
-y fauna es una auténtica maravilla y el único lugar del mundo donde pueden verse los 
-famosos casuarios o _cassowaries_, una especie de ave no voladora de gran tamaño y 
-cabeza azul que está muy protegida, por lo que veréis numerosas señales que indican 
-precaución al volante para no atropellarlos. 
+Con un vuelo interno cambiamos Darwin por 
+[Cairns](https://www.australia.com/es-cl/places/cairns.html) y pasamos al estado de 
+Queensland. Desde aquí es posible conducir un coche de alquiler y subir algo más al 
+norte para alejarnos de la multitud y descubrir **Port Douglas**, lugar donde el 
+**Daintree Rainforest**, el bosque húmedo más antiguo de la tierra, reconocido como 
+Patrimonio de la Humanidad en 1988, se une con la **Gran Barrera de Coral** en la mágica 
+playa de Cape Tribulation. Es una zona donde la diversidad de flora y fauna es una 
+auténtica maravilla y el único lugar del mundo donde pueden verse los famosos casuarios 
+o _cassowaries_, una especie de ave no voladora de gran tamaño y cabeza azul que está 
+muy protegida, por lo que veréis numerosas señales que indican precaución al volante 
+para no atropellarlos. 
 
 Si queréis practicar **buceo en la Gran Barrera de Coral**, éste es el lugar perfecto. 
 En [Quicksilver Dive](https://quicksilverdive.com.au/) hay opciones de día y cruceros 
@@ -83,7 +84,8 @@ donde el coral y la fauna están intactos y protegidos.
 
 ### Hamilton Island (2 días)
 
-La isla [Hamilton](https://www.australia.com/es-cl/things-to-do/aquatic/360-videos/whitehaven-beach-hamilton-island-qld.html) 
+La isla 
+[Hamilton](https://www.australia.com/es-cl/things-to-do/aquatic/360-videos/whitehaven-beach-hamilton-island-qld.html) 
 forma parte del **archipiélago de Whitsunday** en el territorio de Queensland, ubicado 
 al borde de la Gran Barrera de Coral. Su mayor atractivo es, sin duda, realizar una 
 excursión de un día a las **playas de Whitehaven**, de arena tan blanca que parece 
@@ -95,13 +97,14 @@ indica, son un auténtico cielo en la tierra.
 
 ### Brisbane (2 días)
 
-La capital de Queensland, [Brisbane](https://www.australia.com/es-cl/places/brisbane.html), 
-bien merece una parada e invertir al menos un día en recorrer la ciudad sin prisa, 
-descubriendo rincones únicos por South Bank a orillas del río. El punto artístico de la 
-urbe lo encontramos en dos enclaves: la **galería GoMA** de arte moderno y 
-contemporáneo, y la emblemática **Galería de Arte de Queensland**, con un espacio 
-dedicado al trabajo indígena actual. Los viernes por la noche son perfectos para 
-disfrutar de una copa con amigos en el bar del GoMA. 
+La capital de Queensland, 
+[Brisbane](https://www.australia.com/es-cl/places/brisbane.html), bien merece una parada 
+e invertir al menos un día en recorrer la ciudad sin prisa, descubriendo rincones únicos 
+por South Bank a orillas del río. El punto artístico de la urbe lo encontramos en dos 
+enclaves: la **galería GoMA** de arte moderno y contemporáneo, y la emblemática 
+**Galería de Arte de Queensland**, con un espacio dedicado al trabajo indígena actual. 
+Los viernes por la noche son perfectos para disfrutar de una copa con amigos en el bar 
+del GoMA. 
 
 Otra de las experiencias más inolvidables que podemos realizar en las afueras de 
 Brisbane es visitar [Lone Pine Koala Sanctuary](https://koala.net/es/), un centro de 
@@ -135,14 +138,15 @@ el que la conoce.
 
 No es la capital australiana pero sí su ciudad por excelencia y por ello no nos la 
 podemos perder. Desde su famosa Ópera, uno de los edificios más representativos del 
-país, hasta su espectacular mercado de pescado, [Sídney](https://www.australia.com/es-cl/places/sydney.html) 
-cuenta con rincones y planes para todos los gustos. Su cultura, su historia, las playas 
-de Bondi, Bronte, Coogee y Palm Beach o las diferentes propuestas de excursiones por el 
-Parque Nacional Sydney Harbour brindan un extenso abanico de propuestas. A todo ello se 
-le suma un ambiente cosmopolita en el que no faltan los planes al caer la luz del sol, 
-atractivos eventos como el Mardi Gras o los fuegos artificiales en el puente del propio 
-puerto, así como una gran variedad de restaurantes de alta cocina en los que pasar una 
-velada de ensueño. 
+país, hasta su espectacular mercado de pescado, 
+[Sídney](https://www.australia.com/es-cl/places/sydney.html) cuenta con rincones y 
+planes para todos los gustos. Su cultura, su historia, las playas de Bondi, Bronte, 
+Coogee y Palm Beach o las diferentes propuestas de excursiones por el Parque Nacional 
+Sydney Harbour brindan un extenso abanico de propuestas. A todo ello se le suma un 
+ambiente cosmopolita en el que no faltan los planes al caer la luz del sol, atractivos 
+eventos como el Mardi Gras o los fuegos artificiales en el puente del propio puerto, así 
+como una gran variedad de restaurantes de alta cocina en los que pasar una velada de 
+ensueño. 
 
 ![viaje australia, sidney, viaje mujeres](https://fotos.etheriamagazine.com/2019/02/sydney-opera-house-australia.jpg "Sídney, una visita básica en Australia.")
 
@@ -181,11 +185,8 @@ en sus bosques de eucaliptos.
 
 ### También te puede interesar:
 
-[7 Consejos para viajar a 
-Australia](https://etheriamagazine.com/2019/03/07/7-consejos-para-viajar-a-australia/) 
+{{< reflink path=posts/2019/03/7-consejos-para-viajar-a-australia >}} 
 
-[Australia no es un zoo, conoce sus animales más 
-mortíferos](https://etheriamagazine.com/2019/07/31/consejos-viajar-australia-evitar-peligros-animales/) 
+{{< reflink path=posts/2019/07/consejos-viajar-australia-evitar-peligros-animales >}} 
 
-[Cómo organizar un viaje a Nueva Zelanda en 
-autocaravana](https://etheriamagazine.com/2018/08/21/nueva-zelanda-en-autocaravana/)
+{{< reflink path=posts/2018/08/nueva-zelanda-en-autocaravana >}}

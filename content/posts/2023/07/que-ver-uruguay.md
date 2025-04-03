@@ -1,7 +1,7 @@
 ---
 title: "Uruguay, un país que bien merece una escapada"
 date: 2023-07-07
-coverImage: https://fotos.etheriamagazine.com/2023/07/Montevideo-palacio-Salvo.jpg
+cover: https://fotos.etheriamagazine.com/2023/07/Montevideo-palacio-Salvo.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-Uruguay es un país poco visitado por los viajeros españoles pero no es por falta de 
+**Uruguay es un país poco visitado por los viajeros españoles pero no es por falta de 
 atractivo sino por desconocimiento y por la fortaleza turística de territorios vecinos. 
 Te invitamos a descubrir buenas razones para incluir este destino en tu agenda de viajes 
 pendientes. Sigue leyendo si quieres saber qué ver en Uruguay y conocer algunos de sus 
-atractivos. 
+atractivos.** 
 
 ![Contraste arquitectónico en Montevideo.](https://fotos.etheriamagazine.com/2023/07/Montevideo-palacio-Salvo.jpg "Contraste arquitectónico en Montevideo. © Etheria Magazine")
 
@@ -114,13 +114,13 @@ es la Tannat y con ella se elaboran vinos potentes que maridan a la perfección 
 parrilla uruguaya. 
 
 Un itinerario enoturístico permite conocer los excelentes vinos de Carmelo a través de 
-la visita a bodegas de distintas dimensiones. Algunas son muy glamurosas, como [Narbona](http://www.narbona.com.uy/es/), 
-que fue una de las tres primeras bodegas del país, y que tiene un precioso 
-hotel-boutique y un restaurante de renombre. Otras de tamaño mediano, como 
-**Campotinto**, que cuenta con un hotel rural de doce habitaciones y un buen 
-restaurante. Y, también, las hay más familiares como las **bodegas El Legado** y 
-**Cordano Hnos**. En esta última, Ana Paula y su marido, Diego Vecchio, elaboran vinos, 
-realizan catas, venden delicatesen locales en el Almacén de la Capilla, organizan 
+la visita a bodegas de distintas dimensiones. Algunas son muy glamurosas, como 
+[Narbona](http://www.narbona.com.uy/es/), que fue una de las tres primeras bodegas del 
+país, y que tiene un precioso hotel-boutique y un restaurante de renombre. Otras de 
+tamaño mediano, como **Campotinto**, que cuenta con un hotel rural de doce habitaciones 
+y un buen restaurante. Y, también, las hay más familiares como las **bodegas El Legado** 
+y **Cordano Hnos**. En esta última, Ana Paula y su marido, Diego Vecchio, elaboran 
+vinos, realizan catas, venden delicatesen locales en el Almacén de la Capilla, organizan 
 actividades en los viñedos y alquilan una cabaña en medio de la finca. Por último, quien 
 busque raíces españolas entre las viñas, las encontrará en Bodegas Irurtia y Bodega 
 Zubizarreta. 

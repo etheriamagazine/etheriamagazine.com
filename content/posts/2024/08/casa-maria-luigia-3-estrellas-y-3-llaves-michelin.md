@@ -1,7 +1,7 @@
 ---
 title: "Con 3 estrellas y 3 llaves Michelin, Casa Maria Luigia puede ser la experiencia más selecta de tu vida"
 date: 2024-08-05
-coverImage: https://fotos.etheriamagazine.com/2024/08/Casa-Maria-Luigia.jpg
+cover: https://fotos.etheriamagazine.com/2024/08/Casa-Maria-Luigia.jpg
 categories: 
   - inspiración
   - gourmet
@@ -21,14 +21,15 @@ porque merece tanto la pena que querrás repetir una y otra vez.
 Lo primero que hay que señalar en este artículo es que, frente a la general 
 estandarización de los hoteles en materias como diseño, decoración, atención al cliente, 
 etc., el equipo de la Guía Michelin ha decidido –a partir de este año (al igual que 
-llevan haciendo con los restaurantes)–, distinguir con [una, dos o tres llaves 
-Michelin](https://etheriamagazine.com/2024/05/07/que-son-las-llaves-michelin-y-que-hoteles-espanoles-las-han-conseguido/) 
-a hoteles emblemáticos; y para ello se han basado en 5 criterios que cumple sobradamente [Casa 
-Maria Luigia.](https://casamarialuigia.com/) A saber: 1. El hotel tiene que ser un 
-destino en sí mismo, y que contribuya a la experiencia local. 2\. Excelencia en 
-arquitectura y el diseño de interiores. 3\. Calidad y coherencia del servicio, confort y 
-mantenimiento. 4\. Individualidad, reflejo de personalidad y autenticidad. 5\. Capacidad 
-para ofrecer una experiencia extraordinaria a precio adecuado. 
+llevan haciendo con los restaurantes)–, distinguir con {{< reflink 
+path=posts/2024/05/que-son-las-llaves-michelin-y-que-hoteles-espanoles-las-han-conseguido 
+>}} a hoteles emblemáticos; y para ello se han basado en 5 criterios que cumple 
+sobradamente [Casa Maria Luigia.](https://casamarialuigia.com/) A saber: 1. El hotel 
+tiene que ser un destino en sí mismo, y que contribuya a la experiencia local. 2\. 
+Excelencia en arquitectura y el diseño de interiores. 3\. Calidad y coherencia del 
+servicio, confort y mantenimiento. 4\. Individualidad, reflejo de personalidad y 
+autenticidad. 5\. Capacidad para ofrecer una experiencia extraordinaria a precio 
+adecuado. 
 
 ![El hotel-restaurante se encuentra en la ciudad italiana de Módena.](https://fotos.etheriamagazine.com/2024/08/casa-maria-luigia-1.jpg "El hotel-restaurante se encuentra en la ciudad italiana de Módena. © Casa Maria Luigia")
 
@@ -144,8 +145,6 @@ Amazon](https://amzn.to/3A5ys71) y también en La Casa del Libro.
 
 **También en Etheria Magazine** 
 
-[Descubre Módena a través del biopic de Enzo 
-Ferrari](https://etheriamagazine.com/2024/04/19/viaje-de-cine-ferrari-y-modena/). 
+{{< reflink path=posts/2024/04/viaje-de-cine-ferrari-y-modena >}}. 
 
-[En Módena las mujeres prefieren 
-Lamborghinis](https://etheriamagazine.com/2019/04/04/modena-de-lujo-ferrari-bottura/).
+{{< reflink path=posts/2019/04/modena-de-lujo-ferrari-bottura >}}.

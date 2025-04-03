@@ -1,7 +1,7 @@
 ---
 title: "5 pueblos de Badajoz que no conoces y te sorprenderán"
 date: 2022-05-03
-coverImage: https://fotos.etheriamagazine.com/2022/05/Villanueva-de-la-Serena-iglesia-asuncion.jpg
+cover: https://fotos.etheriamagazine.com/2022/05/Villanueva-de-la-Serena-iglesia-asuncion.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Carmen Pineda
 ---
 
-Extremadura tiene fama de ser una región turísticamente desconocida, donde sólo merecen 
-una visita lugares como Mérida, Cáceres o Trujillo pero os decimos que hay muchas otras 
-maravillas esperando a ser descubiertas. Os invitamos a descubrir algunas en esta ruta 
-por 5 pueblos de Badajoz que seguramente aún no conoces: Villanueva de la Serena, Don 
-Benito, Zafra, Almendralejo y Fregenal de la Sierra. 
+**Extremadura tiene fama de ser una región turísticamente desconocida, donde sólo 
+merecen una visita lugares como Mérida, Cáceres o Trujillo pero os decimos que hay 
+muchas otras maravillas esperando a ser descubiertas. Os invitamos a descubrir algunas 
+en esta ruta por 5 pueblos de Badajoz que seguramente aún no conoces: Villanueva de la 
+Serena, Don Benito, Zafra, Almendralejo y Fregenal de la Sierra.** 
 
 ![Castillo templario de Fregenal de la Sierra.](https://fotos.etheriamagazine.com/2022/05/Castillo-Templario-Fregenal-de-la-Sierra.jpg "Castillo templario de Fregenal de la Sierra.")
 
@@ -92,10 +92,12 @@ propiedad privada, no se puede visitar. Verlo por fuera ya merece la pena.
 
 #### ¿Dónde comer en Villanueva de la Serena?
 
-Algunos lugares donde puedes comer en Villanueva de la Serena son el [restaurante - 
-Hotel Al Jardín](https://www.facebook.com/restaurante.aljardin/) (Cocina tradicional), [Becada](https://www.becada.es/becada-villanueva-de-la-serena/) 
-(arroces, carnes, platos típicos) y [Abako](https://abakorestaurante.com/nuestra-carta/) 
-(productos de proximidad con guisos como el arroz seco de rabo de toro). 
+Algunos lugares donde puedes comer en Villanueva de la Serena son el [restaurante 
+
+- Hotel Al Jardín](https://www.facebook.com/restaurante.aljardin/) (Cocina tradicional), 
+[Becada](https://www.becada.es/becada-villanueva-de-la-serena/) (arroces, carnes, platos 
+típicos) y [Abako](https://abakorestaurante.com/nuestra-carta/) (productos de proximidad 
+con guisos como el arroz seco de rabo de toro). 
 
 #### ¿Dónde dormir en Villanueva de la Serena?
 
@@ -351,5 +353,4 @@ Si buscáis alojamiento en Fregenal de la Sierra os puede interesar el **Hotel C
 
 ### También en Badajoz...
 
-[Elige uno de estos 10 motivos para viajar a La Siberia 
-extremeña](https://etheriamagazine.com/2021/09/26/10-motivos-para-viajar-a-la-siberia-extremena/).
+{{< reflink path=posts/2021/09/10-motivos-para-viajar-a-la-siberia-extremena >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Juguetes sexuales de viaje y países donde no debes llevarlos"
 date: 2022-11-14
-coverImage: https://fotos.etheriamagazine.com/2022/11/viaje-maldivas.jpg
+cover: https://fotos.etheriamagazine.com/2022/11/viaje-maldivas.jpg
 categories: 
   - compras
 destino: 
@@ -39,14 +39,13 @@ casa o preparar una bolsa de aseo de viaje. Para ello solo necesitas tener un ce
 dientes, desodorante o peine diferentes del que usas habitualmente. Las muestras que te 
 dan en algunas tiendas de cosmética se convierten en un básico a la hora de viajar con 
 botes pequeños o champú en sobres. No sólo viajarás con menos peso, sino que el hecho de 
-tener **una bolsa de aseo o productos específicos de viaje** (consulta los [neceseres 
-para mujeres 
-viajeras](https://etheriamagazine.com/2019/10/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras/)) 
-te será de gran ayuda para no olvidarte nada y sentirte más ligera. A la hora de revisar 
-que no te dejas nada recuerda empezar por lo esencial. Cepillo de dientes, ropa 
-interior, pasaporte… Una lista de “imprescindibles” en la que no te puedes olvidar de lo 
-más importante. Y si hay algo esencial para tu bienestar, además de los productos de 
-aseo e higiene personal, son tus **juguetes eróticos de viaje.** 
+tener **una bolsa de aseo o productos específicos de viaje** (consulta los {{< reflink 
+path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}}) te será de 
+gran ayuda para no olvidarte nada y sentirte más ligera. A la hora de revisar que no te 
+dejas nada recuerda empezar por lo esencial. Cepillo de dientes, ropa interior, 
+pasaporte… Una lista de “imprescindibles” en la que no te puedes olvidar de lo más 
+importante. Y si hay algo esencial para tu bienestar, además de los productos de aseo e 
+higiene personal, son tus **juguetes eróticos de viaje.** 
 
 ![We-Vibe Chorus un juguete sexual ideal para viajar](https://fotos.etheriamagazine.com/2022/11/We-Vibe-Chorus-pink.jpg "© We-Vibe Chorus.")
 
@@ -122,8 +121,6 @@ placenteros.
 
 **También te puede interesar...** 
 
-[El ayuno, una práctica milenaria de purificación que beneficia tu 
-salud](https://etheriamagazine.com/2021/02/17/beneficios-del-ayuno-intermitente-para-la-salud/). 
+{{< reflink path=posts/2021/02/beneficios-del-ayuno-intermitente-para-la-salud >}}. 
 
-[Pobreza y analfabetismo menstrual, asignaturas pendientes en el Día de la Higiene 
-Menstrual](https://etheriamagazine.com/2022/05/27/dia-higiene-menstrual/).
+{{< reflink path=posts/2022/05/dia-higiene-menstrual >}}.

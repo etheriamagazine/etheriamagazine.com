@@ -1,7 +1,7 @@
 ---
 title: "Ruta en coche por el Valle del Loira"
 date: 2019-03-14
-coverImage: https://fotos.etheriamagazine.com/2019/03/chateau-amboise-1.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/chateau-amboise-1.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -175,10 +175,10 @@ Chambord](https://www.civitatis.com/es/chambord/entrada-castillo-chambord/?aid=1
 ### Guía Valle del Loira en coche| Etheria Magazine
 
 Si tienes más días y no quieres ver sólo castillos, puedes combinar una ruta por el 
-Valle del Loira con una estancia en [París](https://etheriamagazine.com/2018/08/02/viaje-de-compras-le-marais-paris/), 
-una visita a [Futuroscope](https://etheriamagazine.com/2018/08/24/10-consejos-futuroscope/) 
-o unos días en [La 
-Rochelle](https://etheriamagazine.com/2018/09/18/guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re/). 
+Valle del Loira con una estancia en {{< reflink 
+path=posts/2018/08/viaje-de-compras-le-marais-paris >}}, una visita a {{< reflink 
+path=posts/2018/08/10-consejos-futuroscope >}} o unos días en {{< reflink 
+path=posts/2018/09/guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re >}}. 
 
 Para alojarte en Amboise hay hoteles con encanto que ocupan antiguos palacios y casas 
 señoriales. Uno muy recomendable es le [Manoir 
@@ -197,14 +197,14 @@ _macarons_ no te pierdas [Amorino](https://www.amorino.com/).
 
 Si se realiza esta ruta en coche por el Valle del Loira en temporada alta es 
 recomendable comprar con antelación las entradas en las páginas web de los castillos. 
-Además, podrás reservar entradas para los espectáculos nocturnos y demás servicios. El [Pass 
-Chateaux](https://www.bloischambord.es/descubrir/nuestros-castillos/passchateaux) 
+Además, podrás reservar entradas para los espectáculos nocturnos y demás servicios. El 
+[Pass Chateaux](https://www.bloischambord.es/descubrir/nuestros-castillos/passchateaux) 
 combina la entrada a varios castillos y espectáculos de luz y sonido. 
 
-Son muy prácticas las audioguías y en algunos castillos como el de [Chambord](https://www.chambord.org/es/) 
-se ofrecen visitas virtuales que permiten a través de unas tablets ver cómo era el 
-castillo en la época de su máximo esplendor. También proponen visitas con juegos por si 
-el viaje se realiza con niños. 
+Son muy prácticas las audioguías y en algunos castillos como el de 
+[Chambord](https://www.chambord.org/es/) se ofrecen visitas virtuales que permiten a 
+través de unas tablets ver cómo era el castillo en la época de su máximo esplendor. 
+También proponen visitas con juegos por si el viaje se realiza con niños. 
 
 ![Castillo de Chambord.](https://fotos.etheriamagazine.com/2019/03/Valle-loira-castillo-chambord.jpg "Castillo de Chambord. © SG")
 
@@ -213,21 +213,20 @@ y sonido** y, en ocasiones, obras de teatro. Consulta y reserva las entradas con
 
 El Valle del Loira es un lugar con una excelente infraestructura turística y ofrece 
 numerosas actividades. Desde una [ruta en kayak por el río 
-Cher](https://canoesurlecher.jimdo.com) para ver el castillo de Chenonceau, maravillosos [paseos 
-en globo](https://www.civitatis.com/es/amboise/paseo-globo-valle-loira/?aid=10211), [rutas 
+Cher](https://canoesurlecher.jimdo.com) para ver el castillo de Chenonceau, maravillosos 
+[paseos en 
+globo](https://www.civitatis.com/es/amboise/paseo-globo-valle-loira/?aid=10211), [rutas 
 en bicicleta](https://www.loireavelo.fr)… Para todos los gustos. 
 
 Más información en la [Oficina de Turismo de 
-Francia](https://es.france.fr/es/valle-del-loira/articulo/los-castillos-del-loira) y en [Valle 
-del Loira](https://www.valledelloira-francia.es/loire-chateaux). 
+Francia](https://es.france.fr/es/valle-del-loira/articulo/los-castillos-del-loira) y en 
+[Valle del Loira](https://www.valledelloira-francia.es/loire-chateaux). 
 
-• Si necesitas una **guía de viajes**, Castillos del Loira, de Lonely Planet, es muy 
+- Si necesitas una **guía de viajes**, Castillos del Loira, de Lonely Planet, es muy 
 completa. 
 
 ### También te puede interesar:
 
-[Ruta por los jardines y perfumes de la Costa 
-Azul](https://etheriamagazine.com/2021/07/07/ruta-de-los-jardines-costa-azul-francia/) 
+{{< reflink path=posts/2021/07/ruta-de-los-jardines-costa-azul-francia >}} 
 
-[10 viajes para disfrutar de la buena vida en 
-Francia](https://etheriamagazine.com/2020/09/02/mejores-destinos-para-viajar-en-francia/)
+{{< reflink path=posts/2020/09/mejores-destinos-para-viajar-en-francia >}}

@@ -1,7 +1,7 @@
 ---
 title: "Escapada con niños a Suiza: excursiones para todos en torno al Jungfrau"
 date: 2024-07-17
-coverImage: https://fotos.etheriamagazine.com/2024/07/Schynige-Platte-Faulhorn-First-ruta-ninos.jpg
+cover: https://fotos.etheriamagazine.com/2024/07/Schynige-Platte-Faulhorn-First-ruta-ninos.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -61,7 +61,8 @@ chapuzón si el tiempo lo permite.
 Este sendero forma parte de una **ruta circular más extensa**, de 14 kilómetros, que 
 también puede recorrerse en familia aunque tendréis que dedicar más de cuatro horas. Se 
 puede realizar desde varios puntos en los que hay aparcamientos o paradas de autobús. En 
-este [link](https://www.thunersee.ch/en/experiences/tour/spiez-rundwanderweg-circular-trail) 
+este 
+[link](https://www.thunersee.ch/en/experiences/tour/spiez-rundwanderweg-circular-trail) 
 podéis encontrar toda la información. 
 
 ## Actividades en el lago Thun
@@ -151,8 +152,6 @@ vuestras aventuras que dispone además de restaurante y spa.
 
 **También te puede interesar:** 
 
-[Tres montañas de Suiza a las que subir con niños sin 
-despeinarse](https://etheriamagazine.com/2018/09/28/tres-montanas-suizas-a-las-que-subir-sin-despeinarse/) 
+{{< reflink path=posts/2018/09/tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}} 
 
-[Suiza en coche eléctrico, una aventura ecológica (y más 
-económica)](https://etheriamagazine.com/2021/02/10/ruta-en-coche-electrico-por-suiza/)
+{{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}}

@@ -1,7 +1,7 @@
 ---
 title: "Barceló Monasterio de Boltaña, un hotel para desconectar"
 date: 2018-04-13
-coverImage: https://fotos.etheriamagazine.com/2018/04/Barcelo-Boltaña-4.jpg
+cover: https://fotos.etheriamagazine.com/2018/04/Barcelo-Boltaña-4.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-Los hoteles suelen destacar por sus instalaciones, por su emplazamiento o porque su 
+**Los hoteles suelen destacar por sus instalaciones, por su emplazamiento o porque su 
 ubicación propicia el inicio de diversas rutas por el entorno. En el Barceló Monasterio 
 de Boltaña, se dan las tres condiciones: está en un monasterio del siglo XVII, integrado 
 en los Pirineos y a solo siete kilómetros de algunas localizaciones de la película _Bajo 
-la piel del lobo_. 
+la piel del lobo_.** 
 
 ![Así, sí, vamos a desconectar en el hotel Barceló Monasterio de Boltaña.](https://fotos.etheriamagazine.com/2018/04/Barcelo-Boltaña-3.jpg "Así, sí, vamos a desconectar en el hotel Barceló Monasterio de Boltaña.")
 
@@ -60,7 +60,8 @@ reservado un espacio de tiempo al día para su disfrute.
 
 **Barceló Monasterio de Boltaña** 
 
-Afueras, s/n. 22340. Boltaña, Huesca. Aragón Tel. 974 508 000, [www.barcelo.com](http://www.barcelo.com) 
-Aeropuerto de Huesca: 110 km Estación de tren de Huesca: 99 km 
+Afueras, s/n. 22340. Boltaña, Huesca. Aragón Tel. 974 508 000, 
+[www.barcelo.com](http://www.barcelo.com) Aeropuerto de Huesca: 110 km Estación de tren 
+de Huesca: 99 km 
 
 Fotos: Barceló Hoteles.

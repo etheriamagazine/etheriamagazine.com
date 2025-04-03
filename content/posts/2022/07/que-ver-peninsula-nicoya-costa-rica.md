@@ -1,7 +1,7 @@
 ---
 title: "Descubre la esencia de la Península de Nicoya, tierra de artesanas y naturaleza"
 date: 2022-07-15
-coverImage: https://fotos.etheriamagazine.com/2022/07/costa-rica-surf-Playa-Teresa.jpg
+cover: https://fotos.etheriamagazine.com/2022/07/costa-rica-surf-Playa-Teresa.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -102,10 +102,10 @@ La energía que emana de este lugar es otra razón para visitar la Península de
 Aunque Costa Rica brinda decenas de ubicaciones perfectas para reconectar con nosotros 
 mismos, los tres kilómetros de la preciosa **playa Nosara** son una invitación a la 
 espiritualidad. No por ello, es menos ideal para surfear, recorrer el manglar o gozar de 
-paseos a caballo o en barco. Una interesante propuesta, próxima a Nosara, es la del [hotel 
-Harmony](https://www.harmonynosara.com/) que ofrece todo tipo actividades, incluso yoga 
-aéreo con hamacas suspendidas en el techo. Consulta sus programas de meditación, 
-tratamientos de bienestar y menús personalizados. 
+paseos a caballo o en barco. Una interesante propuesta, próxima a Nosara, es la del 
+[hotel Harmony](https://www.harmonynosara.com/) que ofrece todo tipo actividades, 
+incluso yoga aéreo con hamacas suspendidas en el techo. Consulta sus programas de 
+meditación, tratamientos de bienestar y menús personalizados. 
 
 Y a unos 50 kilómetros encontrarás otra opción en plena naturaleza, el [hotel Punta 
 Islita](https://www.hotelpuntaislita.com/), con habitaciones, suites y preciosas villas 
@@ -127,10 +127,10 @@ compartir sus hazañas durante la jornada.
 
 Cerca de esta zona, a unos 10 kilómetros, está la **playa de Santa Teresa**, otro de los 
 spots surfistas que comienza también a despegar. Su oleaje de moderado a fuerte permite 
-la práctica de este deporte todo el año. Además, aquí se sitúa el exclusivo hotel [Pasha](https://www.cayugacollection.com/pasha-costa-rica/), 
-un establecimiento “boho chic” que comenzó siendo una residencia privada pero que se ha 
-convertido en un hotel boutique donde huir del mundanal ruido o refugiarse en una 
-romántica luna de miel. 
+la práctica de este deporte todo el año. Además, aquí se sitúa el exclusivo hotel 
+[Pasha](https://www.cayugacollection.com/pasha-costa-rica/), un establecimiento “boho 
+chic” que comenzó siendo una residencia privada pero que se ha convertido en un hotel 
+boutique donde huir del mundanal ruido o refugiarse en una romántica luna de miel. 
 
 ![Playa Tambor, en la Península de Nicoya](https://fotos.etheriamagazine.com/2022/07/costa-rica-playa-Tambor.jpg "Playa Tambor, en la Península de Nicoya (Costa Rica). © Joan Vendrell")
 
@@ -168,11 +168,11 @@ y una soledad abrumadoras.
 
 Si eres una enamorada de la vida natural, toma nota también del: 
 
-• **Refugio Nacional de Vida Silvestre Curú**, que se extiende desde Punta Quesera hasta 
+- **Refugio Nacional de Vida Silvestre Curú**, que se extiende desde Punta Quesera hasta 
 Punta Curú. El paisaje formado por manglares y bosques de transición tropical seco a 
 húmedo es realmente sorprendente. 
 
-• **Refugio de Vida Silvestre Ostional**. A sólo 50 kilómetros de Nicoya se produce un 
+- **Refugio de Vida Silvestre Ostional**. A sólo 50 kilómetros de Nicoya se produce un 
 anidamiento masivo de **tortugas marinas**, un fenómenos que recibe el nombre de 
 “arribada”. Entre enero y abril se concentran 15.000 tortugas, mientras que entre julio 
 y diciembre llegan a reunirse hasta 200.000 tortugas en la playa. 
@@ -249,11 +249,8 @@ Fotos: Visit Costa Rica
 
 **También te puede interesar...** 
 
-[Costa Rica: de ‘la aventura quetzal’ a la nouvelle 
-cuisine](https://etheriamagazine.com/2021/12/17/ruta-quetzal-costa-rica/). 
+{{< reflink path=posts/2021/12/ruta-quetzal-costa-rica >}}. 
 
-[Viaje con niños a Costa Rica: aventura en la 
-naturaleza](https://etheriamagazine.com/2021/04/20/viaje-costa-rica-con-ninos-que-hacer-en-familia/). 
+{{< reflink path=posts/2021/04/viaje-costa-rica-con-ninos-que-hacer-en-familia >}}. 
 
-[Consejos para un viaje a Costa Rica con 
-niños](https://etheriamagazine.com/2018/05/04/consejos-viaje-costa-rica-con-ninos-familias/).
+{{< reflink path=posts/2018/05/consejos-viaje-costa-rica-con-ninos-familias >}}.

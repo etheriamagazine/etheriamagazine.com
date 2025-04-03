@@ -1,7 +1,7 @@
 ---
 title: "Aranda de Duero se convierte en la capital de la tapa este mes de marzo"
 date: 2025-03-19
-coverImage: https://fotos.etheriamagazine.com/2025/03/aranda-de-duero-tapa-concurso.jpg
+cover: https://fotos.etheriamagazine.com/2025/03/aranda-de-duero-tapa-concurso.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -152,8 +152,8 @@ tapas más votadas.
 
 **También te puede interesar:** 
 
-[Ruta del lechazo: los mejores asadores de Castilla y 
-León](https://etheriamagazine.com/2019/04/25/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon/) 
+{{< reflink 
+path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
+>}} 
 
-[Museo de los Aromas de Burgos, despierta tus sentidos en un lugar único de 
-Europa](https://etheriamagazine.com/2024/12/18/museo-de-los-aromas-burgos/)
+{{< reflink path=posts/2024/12/museo-de-los-aromas-burgos >}}

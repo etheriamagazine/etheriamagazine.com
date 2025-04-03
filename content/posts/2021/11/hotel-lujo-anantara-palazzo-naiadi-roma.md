@@ -1,7 +1,7 @@
 ---
 title: "Anantara Palazzo Naiadi Roma, un hotel histórico en el corazón de Roma"
 date: 2021-11-26
-coverImage: https://fotos.etheriamagazine.com/2021/11/Anantara-Palazzo-Naiadi-Roma-Hotel-habitacion-Premium-terraza.jpg
+cover: https://fotos.etheriamagazine.com/2021/11/Anantara-Palazzo-Naiadi-Roma-Hotel-habitacion-Premium-terraza.jpg
 categories: 
   - hoteles
 destino: 
@@ -87,11 +87,8 @@ della Repubblica, 48-49. 00185 Roma. Tel. +39 06 489 381 Precio habitación dobl
 
 ### También te puede interesar:
 
-[Roma, la escapada con amigas que 
-necesitas](https://etheriamagazine.com/2018/10/31/fin-de-semana-en-roma-con-amigas/) 
+{{< reflink path=posts/2018/10/fin-de-semana-en-roma-con-amigas >}} 
 
-[Esto es lo que ocurrirá si haces un viaje romántico a 
-Apulia](https://etheriamagazine.com/2019/11/25/que-ver-hacer-viaje-romantico-apulia-italia/) 
+{{< reflink path=posts/2019/11/que-ver-hacer-viaje-romantico-apulia-italia >}} 
 
-[Nueve paseos a la italiana por los jardines más bellos de 
-Florencia](https://etheriamagazine.com/2021/05/21/paseos-por-los-jardines-mas-bellos-de-florencia/)
+{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}

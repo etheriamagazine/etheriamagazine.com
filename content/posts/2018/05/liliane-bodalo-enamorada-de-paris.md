@@ -1,7 +1,7 @@
 ---
 title: "Liliane Bodalo, responsable de prensa de Atout France"
 date: 2018-05-03
-coverImage: https://fotos.etheriamagazine.com/2018/05/Liliane-Bodalo-Mujer-Etheria-2.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Liliane-Bodalo-Mujer-Etheria-2.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Pepa G. Marín
 ---
 
-Liliane Bodalo lleva más de dos décadas dedicada al mundo del turismo de un modo 
+**Liliane Bodalo lleva más de dos décadas dedicada al mundo del turismo de un modo 
 profesional. Como responsable de prensa de Atout France, la Agencia de Desarrollo 
-Turístico de Francia, es una de las Mujeres Etheria que nos inspiran. 
+Turístico de Francia, es una de las Mujeres Etheria que nos inspiran.** 
 
 ![Liliane Bodalo de turismo de francia](https://fotos.etheriamagazine.com/2018/05/Liliane-Bodalo-Mujeres-Etheria.jpg "Liliane Bodalo. Responsable de prensa de Atout France")
 
@@ -96,5 +96,4 @@ del móvil, la tarjeta de crédito y calzado cómodo.
 
 **También te puede interesar...** 
 
-[Mujeres viajeras que, rompiendo moldes, hicieron las 
-maletas](https://etheriamagazine.com/2022/03/08/mujeres-viajeras-de-la-historia/).
+{{< reflink path=posts/2022/03/mujeres-viajeras-de-la-historia >}}.

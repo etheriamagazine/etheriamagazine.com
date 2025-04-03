@@ -1,7 +1,7 @@
 ---
 title: "8 planes de verano en Lisboa para todos los gustos"
 date: 2023-08-18
-coverImage: https://fotos.etheriamagazine.com/2023/08/tranvia-lisboa.jpg
+cover: https://fotos.etheriamagazine.com/2023/08/tranvia-lisboa.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -62,8 +62,8 @@ mosteirodesaovicentedefora.com
 perfecta de disfrutar de los paisajes portugueses desde el agua. Además de relajarte en 
 cubierta, puedes deleitarte con experiencias gastronómicas y avistar delfines. Un [paseo 
 en velero](https://www.civitatis.com/es/lisboa/paseo-velero-lisboa/?aid=10211) te puede 
-salir desde 20 € por persona, puedes reservarlo en Civitatis. Y también hay paseos en [barcos 
-tradicionales al 
+salir desde 20 € por persona, puedes reservarlo en Civitatis. Y también hay paseos en 
+[barcos tradicionales al 
 atardecer](https://www.civitatis.com/es/lisboa/paseo-barco-tradicional-atardecer/?aid=10211), 
 [barcos 
 turísticos](https://www.civitatis.com/es/lisboa/barco-turistico-lisboa/?aid=10211)... 
@@ -79,8 +79,8 @@ hasta la vela, hay opciones para todos los gustos y niveles de experiencia. ¿Po
 aprovechar esta escapada de verano para practicar submarinismo o vela en las cristalinas 
 aguas portuguesas? 
 
-No te pierdas: [De Lisboa a Ericeira, un buen plan para amantes del surf y del buen 
-comer](https://etheriamagazine.com/2020/03/24/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf/). 
+No te pierdas: {{< reflink 
+path=posts/2024/08/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf >}}. 
 
 Una [clase de surf de 2 
 horas](https://www.civitatis.com/es/lisboa/curso-surf-carcavelos/) te saldrá por unos 35 
@@ -96,8 +96,7 @@ y aguas refrescantes. Escapa del ajetreo y disfruta de momentos de tranquilidad 
 joyas costeras. Su oferta turística también permite gozar de buenos restaurantes, 
 terrazas animadas y un gran ambiente en verano. 
 
-No te pierdas: [Un fin de semana en Cascais, Sintra y 
-Estoril](https://etheriamagazine.com/2018/07/31/48-horas-en-cascais-sintra-y-estoril/). 
+No te pierdas: {{< reflink path=posts/2018/07/48-horas-en-cascais-sintra-y-estoril >}}. 
 
 ![Atardecer en Costa da Caparica cerca de Lisboa](https://fotos.etheriamagazine.com/2023/08/costa-da-caparica.jpg "Costa da Caparica. © Linda Robert")
 
@@ -120,8 +119,8 @@ puedes poner a prueba tus habilidades con el tiro con arco y la escalada en su
 rocódromo. Un día en este parque al aire libre te dejará con una sonrisa en el rostro y 
 recuerdos inolvidables. Más inf. en adventurepark.pt 
 
-No te pierdas: [9 planes divertidos en el Centro de Portugal con 
-niños](https://etheriamagazine.com/2019/06/28/planes-divertidos-viajes-familia-portugal/). 
+No te pierdas: {{< reflink path=posts/2019/06/planes-divertidos-viajes-familia-portugal 
+>}}. 
 
 ![](https://fotos.etheriamagazine.com/2019/06/parque-aventura-figueira-da-foz-portugal.jpg)
 
@@ -138,11 +137,8 @@ indiferente.
 
 **También en Etheria Magazine:** 
 
-[8 visitas originales en Lisboa que (quizá) te quedan por 
-hacer](https://etheriamagazine.com/2021/10/27/8-visitas-originales-en-lisboa/). 
+{{< reflink path=posts/2021/10/8-visitas-originales-en-lisboa >}}. 
 
-[12 miradores para exprimir 
-Lisboa](https://etheriamagazine.com/2018/10/30/12-miradores-para-exprimir-lisboa/). 
+{{< reflink path=posts/2018/10/12-miradores-para-exprimir-lisboa >}}. 
 
-[Óbidos, la villa portuguesa de las reinas y los 
-libros](https://etheriamagazine.com/2020/09/24/que-ver-hacer-obidos-pueblo-medieval-portugal/).
+{{< reflink path=posts/2020/09/que-ver-hacer-obidos-pueblo-medieval-portugal >}}.

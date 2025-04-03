@@ -1,7 +1,7 @@
 ---
 title: "Sania Jelic en Patagonia (parte 2): Calafate y El Chalten"
 date: 2023-01-20
-coverImage: https://fotos.etheriamagazine.com/2023/01/Sania-el-chalten-senderismo.jpg
+cover: https://fotos.etheriamagazine.com/2023/01/Sania-el-chalten-senderismo.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Sania Jelic
 ---
 
-Sania Jelic se adentra en la Patagonia en torno al Parque Nacional de los Glaciares a 
+**Sania Jelic se adentra en la Patagonia en torno al Parque Nacional de los Glaciares a 
 partir de dos ciudades: Calafate, la puerta de entrada al famoso glaciar Perito Moreno; 
 y El Chalten, considerada la capital del trekking de Argentina. ¡No te pierdas sus 
-consejos e impresiones de este paraíso de la naturaleza! 
+consejos e impresiones de este paraíso de la naturaleza!** 
 
 ![Sania haciendo trekking en El Chalten](https://fotos.etheriamagazine.com/2023/01/Sania-el-chalten-senderismo.jpg "Sania haciendo senderismo en El Chalten con el monte Fitz Roy al fondo. © SJ")
 
@@ -96,12 +96,12 @@ pero “están en ello”.
 
 **Más datos de interés:** 
 
-• Hay oficina de Western Union (para cambiar dinero por el curso “blue”). 
+- Hay oficina de Western Union (para cambiar dinero por el curso “blue”). 
 
-• Además de la visita al glaciar, se pueden hacer rutas a caballo e ir a visitar en 
+- Además de la visita al glaciar, se pueden hacer rutas a caballo e ir a visitar en 
 barco (navegación de 7 horas) el glaciar Upsala. 
 
-• Las personas con las que he interactuado han sido muy agradables, a pesar del río de 
+- Las personas con las que he interactuado han sido muy agradables, a pesar del río de 
 turistas. 
 
 ### 2\. El Chalten
@@ -122,15 +122,16 @@ escenarios impresionantes.
 
 Para sentir el monte, la Patagonia y sus paisajes es necesario salir de “la postal” y 
 tocarlo, sentirlo. Por eso hice dos actividades que me permitieron justo eso, la 
-inmersión patagónica: • **Cabalgata**. A lomos de un caballo, por los cerros y las 
-sendas, resistiendo el viento gélido… Un paso tras otro, confiando en tu compañero de 
-viaje, el caballo. Fui con la empresa **Bonanza Adventure** (bonanzaadventure.com) a la 
-**finca Estancia Bonanza** (estanciabonanza.com). Los caballos eran muy mansos y los 
-gauchos que guiaban el grupo muy experimentados, profesionales y atentos. El paisaje era 
-brutal, y soplaba un viento frío e intenso, con rachas de 30 kilómetros por hora. La 
-temperatura era de 7 ºC y en un momento el viento incluso empujó al caballo. Yo estaba 
-agazapada y agarrada "como una garrapata" al lomo de Panchito, que manejó bien la 
-situación. 
+inmersión patagónica: 
+
+- **Cabalgata**. A lomos de un caballo, por los cerros y las sendas, resistiendo el 
+viento gélido… Un paso tras otro, confiando en tu compañero de viaje, el caballo. Fui 
+con la empresa **Bonanza Adventure** (bonanzaadventure.com) a la **finca Estancia 
+Bonanza** (estanciabonanza.com). Los caballos eran muy mansos y los gauchos que guiaban 
+el grupo muy experimentados, profesionales y atentos. El paisaje era brutal, y soplaba 
+un viento frío e intenso, con rachas de 30 kilómetros por hora. La temperatura era de 7 
+ºC y en un momento el viento incluso empujó al caballo. Yo estaba agazapada y agarrada 
+"como una garrapata" al lomo de Panchito, que manejó bien la situación. 
 
 ![Sania recorriendo a caballo el Parque Nacional de los Glaciares](https://fotos.etheriamagazine.com/2023/01/Sania-patagonia-cabalgata.jpg "Sania recorriendo a caballo el Parque Nacional de los Glaciares. © SJ")
 
@@ -140,7 +141,7 @@ llegó la agradable sorpresa. Paramos delante de una finca donde nos recibieron 
 infusiones y pasteles. La experiencia fue fantástica y es absolutamente recomendable, 
 incluso para aquellos con poca experiencia con caballos. 
 
-• **Rafting**. Para completar la inmersión en la Patagonia, en el Parque Nacional del 
+- **Rafting**. Para completar la inmersión en la Patagonia, en el Parque Nacional del 
 hielo, había que tocarlo. Mojarse con el agua de los glaciares y dejarse llevar por los 
 remolinos. La actividad la realicé con **Fitz Roy Rafting** 
 (reservas@fitzroyrafting.com), que proporciona los trajes de neopreno y acompaña a la 
@@ -155,11 +156,10 @@ experiencia previa para esta actividad, pero sí predisposición a pasar un poco
 si comienza a soplar el viento. Aun así, merece la pena “tocar el glaciar de verdad”. 
 Ahora sí. **Más datos de interés:** 
 
-• En los trekking el 15-30% eran personas mayores de 60 años. 
+- En los trekking el 15-30% eran personas mayores de 60 años. 
 
-• El mejor cordero se come en el restaurante La Oveja Negra. 
+- El mejor cordero se come en el restaurante La Oveja Negra. 
 
 **También te puede interesar:** 
 
-[Viajar sola por el mundo tras la jubilación, el nuevo plan de vida de Sania 
-Jelic](https://etheriamagazine.com/2022/12/13/sania-jelic-viajar-sola-mas-65/)
+{{< reflink path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}}

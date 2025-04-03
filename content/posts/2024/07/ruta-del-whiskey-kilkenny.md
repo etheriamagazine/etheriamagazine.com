@@ -1,7 +1,7 @@
 ---
 title: "Ruta del Whiskey, una buena excusa para recorrer el condado irlandés de  Kilkenny"
 date: 2024-07-20
-coverImage: https://fotos.etheriamagazine.com/2024/07/Kilkenny-Arts-Festival.jpg
+cover: https://fotos.etheriamagazine.com/2024/07/Kilkenny-Arts-Festival.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -126,11 +126,8 @@ viajes culturales que realices por el país.
 
 **También en Etheria Magazine** 
 
-[Ruta en coche por Irlanda: condados de Cork y 
-Kerry](https://etheriamagazine.com/2023/12/30/ruta-en-coche-cork-kerry/). 
+{{< reflink path=posts/2023/12/ruta-en-coche-cork-kerry >}}. 
 
-[Estas 8 playas de Irlanda harán que te enamores (aún más) de la 
-isla](https://etheriamagazine.com/2023/07/21/mejores-playas-irlanda/). 
+{{< reflink path=posts/2023/07/mejores-playas-irlanda >}}. 
 
-[Irlanda del Norte: 6 visitas imprescindibles y 2 lugares 
-secretos](https://etheriamagazine.com/2021/05/31/8-visitas-increibles-en-irlanda-del-norte/).
+{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}}.

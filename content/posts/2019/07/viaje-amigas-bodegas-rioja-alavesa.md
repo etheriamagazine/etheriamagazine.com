@@ -1,7 +1,7 @@
 ---
 title: "A la fresca de las bodegas en La Rioja Alavesa"
 date: 2019-07-25
-coverImage: https://fotos.etheriamagazine.com/2019/07/rioja-alavesa-segway.jpg
+cover: https://fotos.etheriamagazine.com/2019/07/rioja-alavesa-segway.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -34,11 +34,12 @@ siglo XXI no están acostumbrados a ver.
 Pero en la villa de **Laguardia** además de iglesias, murallas y casas nobles de época 
 medieval se excavó un complejo entramado de más de 200 bodegas subterráneas que siguen 
 en uso aún en nuestros días. Para conocer tan ancestral lagar —y pasar un ratito a la 
-fresca— te recomendamos que te apuntes a una divertida visita teatralizada a las [Bodegas 
-El Fabulista](http://www.bodegaelfabulista.com), situadas bajo el palacio de Samaniego. 
-Su antiguo propietario, **Félix María Samaniego**, fue el autor de fábulas tan populares 
-como _La Cigarra_ _y la Hormiga,_ o _La Zorra y las uvas_. El mismísimo fabulista, 
-encarnado en un actor, será quien te guíe por los recovecos de estos calados históricos. 
+fresca— te recomendamos que te apuntes a una divertida visita teatralizada a las 
+[Bodegas El Fabulista](http://www.bodegaelfabulista.com), situadas bajo el palacio de 
+Samaniego. Su antiguo propietario, **Félix María Samaniego**, fue el autor de fábulas 
+tan populares como _La Cigarra_ _y la Hormiga,_ o _La Zorra y las uvas_. El mismísimo 
+fabulista, encarnado en un actor, será quien te guíe por los recovecos de estos calados 
+históricos. 
 
 ![rutas por rioja alavesa, vendimia, pisar las uvas](https://fotos.etheriamagazine.com/2019/07/rioja-alavesa-bodegas.jpg "¿Te apetecería participar en el pisado de uvas?")
 
@@ -48,8 +49,8 @@ Ya de vuelta a la superficie, no hay mejor modo de poner en valor el esfuerzo qu
 dentro de una botella de vino, que poniéndote en la piel de los agricultores que 
 trabajan los campos. Aunque lo más demandado es participar en la **vendimia** a finales 
 de verano y en octubre, lo cierto es que también hay trabajo que hacer en otras épocas 
-del año. Entre las casas que ofrecen estas actividades agrícolas se encuentran las las [Bodegas 
-Valdemar](http://enoturismo.valdemar.es), [Dominio de 
+del año. Entre las casas que ofrecen estas actividades agrícolas se encuentran las las 
+[Bodegas Valdemar](http://enoturismo.valdemar.es), [Dominio de 
 Berzal](http://www.dominioberzal.com), [Tierra](http://www.tierrayvino.com) o [Bodegas 
 Eguren Ugarte](https://egurenugarte.com/), entre otras. 
 
@@ -79,15 +80,18 @@ Lapuebla de Labarca.
 Si la Rioja Alavesa te ha sabido a poco, en Álava tienes otras muchas opciones para 
 disfrutar del entorno. Esta es nuestra selección de favoritos: 
 
-• [Ruta del txakoli](http://www.rutadeltxakoli.com) en la Cuadrilla de Ayala. Varias 
+- [Ruta del txakoli](http://www.rutadeltxakoli.com) en la Cuadrilla de Ayala. Varias 
 bodegas de este típico vino vasco abren sus puertas para visitas y catas en localidades 
-del norte alavés como Orduña, Okondo o Amurrio. • **Senderismo**. Además de la ascensión 
-al pico más alto de Álava, el Gorbeia (1482 metros), existen numerosas rutas balizadas 
-en la provincia, como las que surcan la Sierra de Cantabria (GR-1, GR-38) o las que 
-conducen al nacimiento del río Nervión. Por Álava también pasa el Camino de Santiago del 
-Interior. • **Álava Prehistórica**. Existen numerosos monumentos megalíticos repartidos 
-por la geografía alavesa, entre ellos los dólmenes de Aizkomendi, Sorginetxe y La 
-Chabola de la Hechicera, o el Poblado de la Hoya, en la Rioja Alavesa. 
+del norte alavés como Orduña, Okondo o Amurrio. 
+
+- **Senderismo**. Además de la ascensión al pico más alto de Álava, el Gorbeia (1482 
+metros), existen numerosas rutas balizadas en la provincia, como las que surcan la 
+Sierra de Cantabria (GR-1, GR-38) o las que conducen al nacimiento del río Nervión. Por 
+Álava también pasa el Camino de Santiago del Interior. 
+
+- **Álava Prehistórica**. Existen numerosos monumentos megalíticos repartidos por la 
+geografía alavesa, entre ellos los dólmenes de Aizkomendi, Sorginetxe y La Chabola de la 
+Hechicera, o el Poblado de la Hoya, en la Rioja Alavesa. 
 
 ![ruta del vino la mancha, ruta en coche la mancha](https://fotos.etheriamagazine.com/2019/03/ruta-del-vino-la-mancha.jpg)
 
@@ -101,20 +105,17 @@ A-1/E-5 (356 km); desde Barcelona 567 km por la AP-2 y AP-68.
 ##### Dónde relajarte
 
 Una última idea para disfrutar de esta región vinícola sobre tu propia piel y disfrutar 
-de los placeres de la [vinoterapia](https://etheriamagazine.com/2018/10/26/relax-entre-vinas-el-poder-de-la-vinoterapia/) 
-es acudir a alguno de los spas que tienen al vino como protagonista absoluto de los 
-tratamientos. En el [Wine Oil Spa Villa de Laguardia](http://www.wineoilspa.com) podrás 
-relajarte con un masaje de manteca de vino, con un tratamiento exfoliante a base de 
-hollejo de uva o directamente meterte en una bañera, llena hasta los bordes, de extracto 
-de vino. 
+de los placeres de la {{< reflink 
+path=posts/2018/10/relax-entre-vinas-el-poder-de-la-vinoterapia >}} es acudir a alguno 
+de los spas que tienen al vino como protagonista absoluto de los tratamientos. En el 
+[Wine Oil Spa Villa de Laguardia](http://www.wineoilspa.com) podrás relajarte con un 
+masaje de manteca de vino, con un tratamiento exfoliante a base de hollejo de uva o 
+directamente meterte en una bañera, llena hasta los bordes, de extracto de vino. 
 
 ##### También te puede interesar...
 
-[Escapada al valle secreto de Ocón, un pellizco de La Toscana en La 
-Rioja](https://etheriamagazine.com/2020/10/26/viaje-la-rioja-vendimia-valle-de-ocon/). 
+{{< reflink path=posts/2020/10/viaje-la-rioja-vendimia-valle-de-ocon >}}. 
 
-[El Camino de Santiago en La Rioja, un buen viaje para el 
-otoño](https://etheriamagazine.com/2019/05/01/etapas-que-ver-camino-de-santiago-en-la-rioja/). 
+{{< reflink path=posts/2019/05/etapas-que-ver-camino-de-santiago-en-la-rioja >}}. 
 
-[Ruta por el paisaje gastronómico de La 
-Rioja](https://etheriamagazine.com/2019/01/23/ruta-gastronomica-en-la-rioja/).
+{{< reflink path=posts/2019/01/ruta-gastronomica-en-la-rioja >}}.

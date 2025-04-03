@@ -1,7 +1,7 @@
 ---
 title: "Huelva con niños: 6 excursiones para aprovechar el viaje al máximo"
 date: 2021-06-21
-coverImage: https://fotos.etheriamagazine.com/2021/06/huelva-aldea-rocio-al-atardecer.jpg
+cover: https://fotos.etheriamagazine.com/2021/06/huelva-aldea-rocio-al-atardecer.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -40,7 +40,8 @@ Se puede subir a ellas para ver de cerca los aparejos marineros, bajar a la bode
 conocer el modo de vida en estas embarcaciones. La excursión se puede completar con una 
 visita al **Monasterio de La Rábida**, donde se hospedó Cristóbal Colón antes de su 
 viaje. Si queréis llegar al Muelle de las Carabelas en barco, no os perdáis la excursión 
-que ha preparado [Civitatis](https://www.civitatis.com/es/huelva/paseo-barco-muelle-carabelas/?aid=10211) 
+que ha preparado 
+[Civitatis](https://www.civitatis.com/es/huelva/paseo-barco-muelle-carabelas/?aid=10211) 
 con la que os recogen en vuestro hotel y os llevan dando un bonito paseo por mar. 
 
 ## Excursión a Doñana y a la aldea del Rocío
@@ -109,13 +110,12 @@ toda la información está disponible en la web del **Parque Minero de Riotinto*
 ## Disfrutar de las playas
 
 Uno de los mayores alicientes de un viaje a Huelva con niños es, sin duda, disfrutar de 
-sus maravillosas playas. Hay muchas y en el reportaje [Descubre la magia de la costa de 
-Huelva](https://etheriamagazine.com/2020/07/01/que-ver-hacer-costa-playas-huelva-donana/) 
-ya os contábamos algunas de las playas que no os podéis perder. Como las que se suceden 
-entre Matalascañas y Palos de la Frontera. Algunas de las más bonitas son la playa de 
-Castilla, que conecta con Mazagón a través de 20 kilómetros de arena sin urbanizar, la 
-playa del Arenosillo, la playa del Asperillo o la playa de la Estrella, con sus dunas en 
-movimiento. 
+sus maravillosas playas. Hay muchas y en el reportaje {{< reflink 
+path=posts/2020/07/que-ver-hacer-costa-playas-huelva-donana >}} ya os contábamos algunas 
+de las playas que no os podéis perder. Como las que se suceden entre Matalascañas y 
+Palos de la Frontera. Algunas de las más bonitas son la playa de Castilla, que conecta 
+con Mazagón a través de 20 kilómetros de arena sin urbanizar, la playa del Arenosillo, 
+la playa del Asperillo o la playa de la Estrella, con sus dunas en movimiento. 
 
 ![playa del asperillo, playas huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-playas-7.jpg "Playa del Asperillo (Huelva).")
 
@@ -134,14 +134,12 @@ Muelle del Tinto para ver la espectacular puesta de sol.
 
 **Más planes con niños:** 
 
-[12 actividades para hacer con niños en la provincia de 
-Cádiz](https://etheriamagazine.com/2020/03/12/12-actividades-familiares-para-viajes-con-ninos-en-cadiz/) 
+{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
+>}} 
 
-[8 excursiones con niños desde el sur de 
-Tenerife](https://etheriamagazine.com/2020/03/06/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos/) 
+{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
+>}} 
 
-[8 excursiones con niños en 
-Alicante](https://etheriamagazine.com/2020/05/28/8-excursiones-con-ninos-en-alicante/) 
+{{< reflink path=posts/2020/05/8-excursiones-con-ninos-en-alicante >}} 
 
-[Viajar con niños por Europa: consejos y propuestas para acertar en tu primer 
-viaje](https://etheriamagazine.com/2021/02/02/viajar-con-ninos-por-europa-consejos-y-propuestas/)
+{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}}

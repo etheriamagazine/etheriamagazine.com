@@ -1,7 +1,7 @@
 ---
 title: "Tendencias imprescindibles en 2025 para mujeres viajeras"
 date: 2025-01-14
-coverImage: https://fotos.etheriamagazine.com/2025/01/tendencias-2025-mujeres-viajes.jpg
+cover: https://fotos.etheriamagazine.com/2025/01/tendencias-2025-mujeres-viajes.jpg
 categories: 
   - historias
   - inspiración
@@ -114,15 +114,15 @@ es organizar un viaje.
 
 ## Los hoteles serán destinos en sí mismos
 
-Es lo que el estudio de [Amadeus](https://amadeus.com/en/resources/research/travel-trends) 
-de tendencias para 2025 llama "Trailblazer Hotels", hoteles que destacan por su diseño 
-icónico, por su capacidad para capturar la esencia del lugar donde se encuentran y por 
-ofrecer experiencias que atraen tanto a turistas como a nómadas digitales. En Etheria 
-nos encantan estos hoteles diseñados con mimo, muchos en edificios históricos 
-recuperados, que suman contenido a un viaje. Como ejemplo de esos hoteles que nos 
-encantan, la cadena Accor están ampliando sus líneas de hoteles boutique con la 
-colección "Handwritten", lanzada en 2023, que prevé llegar a las diecisiete propiedades 
-exclusivas en 2025. 
+Es lo que el estudio de 
+[Amadeus](https://amadeus.com/en/resources/research/travel-trends) de tendencias para 
+2025 llama "Trailblazer Hotels", hoteles que destacan por su diseño icónico, por su 
+capacidad para capturar la esencia del lugar donde se encuentran y por ofrecer 
+experiencias que atraen tanto a turistas como a nómadas digitales. En Etheria nos 
+encantan estos hoteles diseñados con mimo, muchos en edificios históricos recuperados, 
+que suman contenido a un viaje. Como ejemplo de esos hoteles que nos encantan, la cadena 
+Accor están ampliando sus líneas de hoteles boutique con la colección "Handwritten", 
+lanzada en 2023, que prevé llegar a las diecisiete propiedades exclusivas en 2025. 
 
 ## Asia vuelve con fuerza a los viajes
 
@@ -153,8 +153,6 @@ República Dominicana como perfectos para ser visitados en temporada baja.
 
 **También en Etheria Magazine** 
 
-[Tanit Congress & Awards 2024, un tributo al liderazgo 
-femenino](https://etheriamagazine.com/2024/10/30/tanit-congress-awards-2024/). 
+{{< reflink path=posts/2024/10/tanit-congress-awards-2024 >}}. 
 
-[Encuentro de Mujeres Viajeras en Madrid, experiencias que cambian la 
-vida](https://etheriamagazine.com/2024/03/08/encuentro-mujeres-viajeras-madrid/).
+{{< reflink path=posts/2024/03/encuentro-mujeres-viajeras-madrid >}}.

@@ -1,7 +1,7 @@
 ---
 title: "El milagro del sake en Tokio, lugares de cata y degustación"
 date: 2023-12-04
-coverImage: https://fotos.etheriamagazine.com/2023/12/tokio-Valle-Akigawa.jpg
+cover: https://fotos.etheriamagazine.com/2023/12/tokio-Valle-Akigawa.jpg
 categories: 
   - gourmet
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Redacción Etheria
 ---
 
-Si estáis a punto de viajar a la capital japonesa y os fascina el mundo de los 
+**Si estáis a punto de viajar a la capital japonesa y os fascina el mundo de los 
 espirituosos, os animamos a descubrir todo lo que rodea el mundo del sake en Tokio. 
 Visitad alguna bodega histórica como Ozawa Shuzo, disfrutad del ambiente de los bares de 
 sake, en los que vosotras mismas os servís el licor, y terminad comprando vuestro sake 
 favorito en tiendas especializadas. Os damos las pistas básicas para realizar estos tres 
-pasos esenciales. 
+pasos esenciales.** 
 
 ![Valle Akigawa, en la ruta del sake en Tokio](https://fotos.etheriamagazine.com/2023/12/tokio-Valle-Akigawa.jpg "Valle de Akigawa.")
 
@@ -127,11 +127,8 @@ casa, no olvidéis servirlo frío y degustarlo sorbito a sorbito.
 
 **También te puede interesar...** 
 
-[La experiencia de alojarse en un Ryokan en 
-Japón](https://etheriamagazine.com/2019/05/10/viajar-japon-que-es-ryokan-y-onsen/). 
+{{< reflink path=posts/2019/05/viajar-japon-que-es-ryokan-y-onsen >}}. 
 
-[10 actividades para un viaje en familia a 
-Japón](https://etheriamagazine.com/2019/11/21/10-actividades-para-un-viaje-en-familia-a-japon/). 
+{{< reflink path=posts/2019/11/10-actividades-para-un-viaje-en-familia-a-japon >}}. 
 
-[5 recomendaciones para preparar un viaje a 
-Japón](https://etheriamagazine.com/2019/06/18/como-organizar-un-viaje-a-japon/).
+{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}}.

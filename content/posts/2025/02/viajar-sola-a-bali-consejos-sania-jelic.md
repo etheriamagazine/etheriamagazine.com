@@ -1,7 +1,7 @@
 ---
 title: "Bali en solitario: yoga, retiros y aventuras de Sania Jelic"
 date: 2025-02-25
-coverImage: https://fotos.etheriamagazine.com/2025/02/sania-bali-arrozal.jpg
+cover: https://fotos.etheriamagazine.com/2025/02/sania-bali-arrozal.jpg
 categories: 
   - historias
   - mujeres-top
@@ -40,29 +40,32 @@ con yoga y meditación como base.
 
 Algunos lugares destacados son: 
 
-**• The Yoga Barn:** un punto de encuentro perfecto para socializar, donde se encuentran 
+**- The Yoga Barn:** un punto de encuentro perfecto para socializar, donde se encuentran 
 los perfiles más variopintos y se imparte desde danza africana hasta formaciones para 
 futuros instructores de yoga. La calidad de las clases depende del profesor. Es un 
 espacio social más que espiritual, a menudo comparado con un "Disneyland del yoga". No 
-se hacen reservas. • **Alchemy** (alchemybali.com): es otro establecimiento con una gran 
-oferta de actividades. Sus instalaciones disponen de servicios médicos y un restaurante 
-de moda. Los edificios de bambú y sus espacios abiertos permiten clases de hasta 50 
-personas, aunque siempre con micrófono para contrarrestar el ruido del tráfico. 
+se hacen reservas. 
+
+- **Alchemy** (alchemybali.com): es otro establecimiento con una gran oferta de 
+actividades. Sus instalaciones disponen de servicios médicos y un restaurante de moda. 
+Los edificios de bambú y sus espacios abiertos permiten clases de hasta 50 personas, 
+aunque siempre con micrófono para contrarrestar el ruido del tráfico. 
 
 ![Putri Bali Spa es un centro de bienestar familiar de la isla de Bali.](https://fotos.etheriamagazine.com/2025/02/sania-bali-putri-spa.jpg "Putri Bali Spa es un centro de bienestar familiar de la isla de Bali. © Sania Jelic")
 
-**• Putri Spa** (putribalispa.com): un spa familiar fundado por Neli Putri hace 15 años, 
+**- Putri Spa** (putribalispa.com): un spa familiar fundado por Neli Putri hace 15 años, 
 que destaca por su arquitectura, jardines y salas de masaje al aire libre, con grandes 
 bañeras rodeadas de flores. Está muy bien mantenido y ofrece paquetes de hasta cinco 
 horas de tratamientos a precios que son la mitad o un tercio de lo que se paga en 
-España. Muy recomendable. **• Bambu Indah Resort** (bambuindah.com): un selecto refugio 
+España. Muy recomendable. **- Bambu Indah Resort** (bambuindah.com): un selecto refugio 
 construido de bambú, con piscina natural, puentes colgantes y un restaurante a orillas 
 del río. Es un lugar idílico para pasar el día en la naturaleza y en piscinas naturales, 
-escuchando el canto de las aves. • **Monkey Forest** (monkeyforestubud.com): un bosque 
-que lleva habitado por monos desde hace dos mil años. Se han acostumbrado a la presencia 
-humana y son muy divertidos, me pasaría horas mirándolos. Lo que me sorprende es que el 
-bosque no haya sido escenario de alguna película porque, desde luego, ofrece escenarios 
-magníficos. 
+escuchando el canto de las aves. 
+
+- **Monkey Forest** (monkeyforestubud.com): un bosque que lleva habitado por monos desde 
+hace dos mil años. Se han acostumbrado a la presencia humana y son muy divertidos, me 
+pasaría horas mirándolos. Lo que me sorprende es que el bosque no haya sido escenario de 
+alguna película porque, desde luego, ofrece escenarios magníficos. 
 
 ![Sania en el Monkey Forest.](https://fotos.etheriamagazine.com/2025/02/sania-bali-monkey-forest.jpg "Sania en el Monkey Forest. © Sania Jelic")
 
@@ -163,11 +166,8 @@ ofrece la mejor cobertura en la isla.
 
 **También te puede interesar:** 
 
-[Qué llevar en la maleta en un viaje a 
-Bali](https://etheriamagazine.com/2023/06/23/que-llevar-maleta-viaje-bali/) 
+{{< reflink path=posts/2023/06/que-llevar-maleta-viaje-bali >}} 
 
-[Cómo organizar un viaje a Bali para aprovechar bien el 
-tiempo](https://etheriamagazine.com/2023/10/09/como-organizar-viaje-a-bali/) 
+{{< reflink path=posts/2023/10/como-organizar-viaje-a-bali >}} 
 
-[Viajar sola a Taiwán, un planazo de Sania 
-Jelic](https://etheriamagazine.com/2025/01/22/viajar-sola-a-taiwan-consejos-sania-jelic/)
+{{< reflink path=posts/2025/01/viajar-sola-a-taiwan-consejos-sania-jelic >}}

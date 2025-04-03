@@ -1,7 +1,7 @@
 ---
 title: "Lisboa en verano: 9 propuestas para disfrutar de la música, el teatro y el cine"
 date: 2022-07-01
-coverImage: https://fotos.etheriamagazine.com/2022/06/Lisboa-opera-baile-mascaras.jpg
+cover: https://fotos.etheriamagazine.com/2022/06/Lisboa-opera-baile-mascaras.jpg
 categories: 
   - ocio
 destino: 
@@ -126,11 +126,8 @@ Fotografías cedidas por Turismo de Lisboa.
 
 ## También en Lisoba:
 
-[8 visitas originales en Lisboa que (quizá) te quedan por 
-hacer](https://etheriamagazine.com/2021/10/27/8-visitas-originales-en-lisboa/) 
+{{< reflink path=posts/2021/10/8-visitas-originales-en-lisboa >}} 
 
-[Ruta de fados en Lisboa de la mano de Amália 
-Rodrigues](https://etheriamagazine.com/2020/12/30/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues/) 
+{{< reflink path=posts/2020/12/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues >}} 
 
-[12 miradores de Lisboa para enamorarse de sus 
-vistas](https://etheriamagazine.com/2018/10/30/12-miradores-para-exprimir-lisboa/)
+{{< reflink path=posts/2018/10/12-miradores-para-exprimir-lisboa >}}

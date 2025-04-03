@@ -1,7 +1,7 @@
 ---
 title: "La Capilla del Surf, descubre el primer museo del surf de Canarias"
 date: 2023-03-29
-coverImage: https://fotos.etheriamagazine.com/2023/03/capilla-surf-tenerife.jpg
+cover: https://fotos.etheriamagazine.com/2023/03/capilla-surf-tenerife.jpg
 categories: 
   - cultura
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-La Capilla del Surf es el primer museo dedicado íntegramente a este deporte en Canarias 
-y uno de los más completos de nuestro país. Si viajas a Tenerife, tienes una cita con 
-este templo de la cultura surfista en Bajamar, una población de San Cristóbal de La 
-Laguna. 
+**La Capilla del Surf es el primer museo dedicado íntegramente a este deporte en 
+Canarias y uno de los más completos de nuestro país. Si viajas a Tenerife, tienes una 
+cita con este templo de la cultura surfista en Bajamar, una población de San Cristóbal 
+de La Laguna.** 
 
 ![Jesús Dionis, Tato, ha sido el impulsor de la Capilla del Surf.](https://fotos.etheriamagazine.com/2023/03/tato-dionis-museo-surf.jpg "Jesús Dionis, Tato, ha sido el impulsor de la Capilla del Surf.")
 
@@ -76,8 +76,6 @@ Surf.](https://capilladelsurf.lalaguna.es/)
 
 ✅ **También te puede interesar...** 
 
-[Guía esencial de Tenerife: 15 imprescindibles en tus 
-vacaciones](https://etheriamagazine.com/2023/01/18/que-ver-en-tenerife/). 
+{{< reflink path=posts/2023/01/que-ver-en-tenerife >}}. 
 
-[10 planes para un viaje a Tenerife con 
-amigas](https://etheriamagazine.com/2021/05/17/viaje-a-tenerife-con-amigas-que-hacer-excursiones/).
+{{< reflink path=posts/2021/05/viaje-a-tenerife-con-amigas-que-hacer-excursiones >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Puerto Vallarta de cine: de \"La noche de la iguana\" a \"Vacaciones en el mar\""
 date: 2023-05-22
-coverImage: https://fotos.etheriamagazine.com/2023/05/nuevo-vallarta-puerto.jpg
+cover: https://fotos.etheriamagazine.com/2023/05/nuevo-vallarta-puerto.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Manena Munar
 ---
 
-La tórrida, seductora y maravillosa película 'La Noche de la iguana' puso a Puerto 
+**La tórrida, seductora y maravillosa película 'La Noche de la iguana' puso a Puerto 
 Vallarta en el mapa y la romántica serie de final feliz 'Vacaciones en el Mar' (_Love 
 Boat_) la convirtió en un sueño. Descubre las historias y secretos de estos rodajes y 
 cómo contribuyeron a que este paraíso mexicano sea hoy en día uno de los principales 
-focos turísticos del país. 
+focos turísticos del país.** 
 
 ![Puerto de Nuevo Vallarta](https://fotos.etheriamagazine.com/2023/05/nuevo-vallarta-puerto.jpg "Puerto de Nuevo Vallarta. © Taly Torres.")
 
@@ -56,8 +56,7 @@ Huston y Stark para convencerla de actuar en la película, ya que ella en un pri
 tenía demasiadas ganas y estaba contenta con su dilatada vida de Madrid. 
 
 📍Puedes conocer más sobre la intensa vida de **Ava Gardner en Madrid** en nuestro 
-artículo [Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
-‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/). 
+artículo {{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}. 
 
 ![Richard Burton y Elizabeth Taylor en una entrega de premios en Italia, Ava Gardner y Sue Lyon.](https://fotos.etheriamagazine.com/2023/05/puerto-vallarta-noche-iguana.jpg "Algunos de los protagonistas de "La noche de la iguana": Richard Burton con Elizabeth Taylor en una entrega de premios en Italia, Ava Gardner y Sue Lyon. © Wikimedia Commons")
 
@@ -220,11 +219,8 @@ saludando a un tigre feroz o pilotando un avión.
 
 📌 **También te puede interesar:** 
 
-[10 yacimientos arqueológicos de México que no puedes 
-perderte](https://etheriamagazine.com/2021/03/30/mejores-yacimientos-arqueologicos-mexico/) 
+{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}} 
 
-[‘Coco’, una película que nos acerca a México y sus 
-tradiciones](https://etheriamagazine.com/2018/05/28/en-el-mexico-de-coco/) 
+{{< reflink path=posts/2018/05/en-el-mexico-de-coco >}} 
 
-[Mil razones para enamorarse de la Mérida 
-mexicana](https://etheriamagazine.com/2022/07/18/que-ver-merida-yucatan-mexico/)
+{{< reflink path=posts/2022/07/que-ver-merida-yucatan-mexico >}}

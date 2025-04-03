@@ -1,7 +1,7 @@
 ---
 title: "48 horas en Haarlem, la ciudad holandesa que dio nombre al Harlem neoyorkino"
 date: 2018-12-07
-coverImage: https://fotos.etheriamagazine.com/2018/12/Amsterdam-Haarlem-viajes-con-amigas.jpg
+cover: https://fotos.etheriamagazine.com/2018/12/Amsterdam-Haarlem-viajes-con-amigas.jpg
 categories: 
   - viajar-con-amigas
   - viajar-sola
@@ -45,16 +45,16 @@ coquetos restaurantes… de esos que encienden velitas a la hora de cenar.
 ## El museo de las maravillas
 
 Pero antes de la caída de la tarde y de elegir restaurante, tienes que cumplir las 
-‘obligaciones’ del buen turista. A saber: estás en la ciudad del [Teylers](http://teylersmuseum.nl/en). 
-¿Qué no sabes qué es?: e**l museo más antiguo del país**, creado en 1779 por Pieter 
-Teyler van der Hulst, un fabricante de tejidos de Haarlem y, sobre todo, mecenas de las 
-ciencias y las artes. Las elegantes salas del museo conservan el encanto y el carácter 
-del pasado. Alberga colecciones de fósiles, instrumentos de física y peculiares inventos 
-mecánicos, como una gigantesca máquina electrostática que evoca visiones de excéntricos 
-científicos. Tiene una amplia sala, Aquarellenzaal, con una mesa central y cómodas 
-sillas, para ‘analizar de cerca’ más de mil facsímiles de dibujos de importantes 
-artistas, como **Miguel Ángel o Rembrandt**. Un verdadero placer para los amantes del 
-dibujo. 
+‘obligaciones’ del buen turista. A saber: estás en la ciudad del 
+[Teylers](http://teylersmuseum.nl/en). ¿Qué no sabes qué es?: e**l museo más antiguo del 
+país**, creado en 1779 por Pieter Teyler van der Hulst, un fabricante de tejidos de 
+Haarlem y, sobre todo, mecenas de las ciencias y las artes. Las elegantes salas del 
+museo conservan el encanto y el carácter del pasado. Alberga colecciones de fósiles, 
+instrumentos de física y peculiares inventos mecánicos, como una gigantesca máquina 
+electrostática que evoca visiones de excéntricos científicos. Tiene una amplia sala, 
+Aquarellenzaal, con una mesa central y cómodas sillas, para ‘analizar de cerca’ más de 
+mil facsímiles de dibujos de importantes artistas, como **Miguel Ángel o Rembrandt**. Un 
+verdadero placer para los amantes del dibujo. 
 
 > Por cierto, para Einstein, el Teylers era uno de sus museos favoritos. 
 
@@ -63,9 +63,11 @@ dibujo.
 ### Museo Frans Hals
 
 El otro museo de obligada visita es el dedicado al gran **pintor Frans Hals** 
-(Amberes,1583 - Haarlem,1666), que vivió en esta ciudad casi toda su vida, y que está 
-considerado como el psicólogo del retrato barroco. Fue contemporáneo de Rembrandt, con 
-quien compartió el claroscuro del mítico Siglo de Oro Holandés. El [Frans Hals 
+(Amberes,1583 
+
+- Haarlem,1666), que vivió en esta ciudad casi toda su vida, y que está considerado como 
+el psicólogo del retrato barroco. Fue contemporáneo de Rembrandt, con quien compartió el 
+claroscuro del mítico Siglo de Oro Holandés. El [Frans Hals 
 Museum](http://franshalsmuseum.nl/en) tiene dos ubicaciones y dos exposiciones 
 temporales diferentes, con la obra de Hals como _leitmotiv_ de ambas muestras: '_Tres 
 encuentros con pintores: Manet, Sargent y Van Gogh_' en el edificio antiguo; y en el 
@@ -181,12 +183,9 @@ Centre Hotel](http://galahotels.com), un poco más económico.
 
 ### También te puede interesar:
 
-[10 planes en Róterdam con amigas para un fin de semana 
-movido](https://etheriamagazine.com/2021/05/15/que-ver-roterdam-eurovision-viaje-con-amigas/) 
+{{< reflink path=posts/2021/05/que-ver-roterdam-eurovision-viaje-con-amigas >}} 
 
-[Qué ver y hacer en un viaje en familia por 
-Holanda](https://etheriamagazine.com/2018/08/10/holanda-en-familia/) 
+{{< reflink path=posts/2018/08/holanda-en-familia >}} 
 
-[](https://etheriamagazine.com/2018/08/11/center-parcs-de-eemhof-vacaciones-en-la-naturaleza/)[48 
-horas en… Amsterdam, la vida en la 
-calle](https://etheriamagazine.com/2019/04/11/viajar-sola-que-ver-hacer-dormir-amsterdam/)
+{{< reflink path=posts/2018/08/center-parcs-de-eemhof-vacaciones-en-la-naturaleza >}}{{< 
+reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-amsterdam >}}

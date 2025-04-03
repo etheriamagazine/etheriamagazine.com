@@ -26,3 +26,36 @@ Otro párrafo de texto y debajo una imagen:
 ![Texto alternativo](https://fotos.etheriamagazine.com/url-de-la-imagen.jpg "Pie de foto")
 ```
 
+## Shortcodes
+La sintaxis básica de Markdown permite crear elementos sencillos de HTML como
+son los párrafos, titulares, imágenes e hipervínculos sencillos a otras páginas.
+
+No obstante, los usuarios esperan que una página pueda contener otros elementos más complejos, como
+un QR, un video, un player de audio, un mapa...
+
+
+Los shortcodes son pequeños códigos informáticos que se pueden introducir en el
+cuerpo de la entrada para aumentar y enriquecer nuestro artículo.
+
+### youtube: incrustar un vídeo de youtube
+```markdown
+Esto es un párrafo del artículo y voy a insertar un video
+mediante un shortcode, pásandole el identificador del vídeo de youtube:
+
+{{< youtube id=G-8Nrnl4JjQ >}} 
+```
+
+### reflink: link interno a otra página de la web de etheria
+El shortcode reflink inserta un link completo a otra entrada de nuestra web. 
+
+Este shortcode sólo requiere del parametro `path` donde se le pasa la ruta del
+artículo relativa a la carpeta `content`.
+
+
+```markdown
+Te recomendamos adicionalmente:  
+- {{< reflink path=/posts/2025/02/viaje-por-asia-central-en-furgoneta-tbilisi-uzbekistan >}}
+- {{< reflink path=/posts/2025/02/viaje-romantico-costa-amalfitana >}}
+
+```
+

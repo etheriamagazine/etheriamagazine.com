@@ -1,7 +1,7 @@
 ---
 title: "Cuota de género en Hollywood: el Paseo de la Fama con otros ojos"
 date: 2018-09-04
-coverImage: https://fotos.etheriamagazine.com/2018/08/viaje-los-angeles-Paseo-de-la-Fama-de-Hollywood-etheria.jpg
+cover: https://fotos.etheriamagazine.com/2018/08/viaje-los-angeles-Paseo-de-la-Fama-de-Hollywood-etheria.jpg
 categories: 
   - historias
   - mujeres-top
@@ -11,11 +11,11 @@ authors:
   - Pedro Grifol
 ---
 
-El 15 de agosto se celebra la colocación de las primeras baldosas-estrella en el Paseo 
+**El 15 de agosto se celebra la colocación de las primeras baldosas-estrella en el Paseo 
 de la Fama de Hollywood, 3 mujeres y 5 hombres, hace más de sesenta años. Para empezar 
 (era el siglo pasado) ¡no está mal! Hay que ver el lado positivo. En este artículo de 
 damos detalles de cómo está la cuota de género en Hollywood a través de las baldosas de 
-su Paseo de la Fama. 
+su Paseo de la Fama.** 
 
 ![estrellas en el paseo de la fama en hollywood](https://fotos.etheriamagazine.com/2018/08/viaje-los-angeles-Paseo-de-la-Fama-de-Hollywood-etheria.jpg "El Paseo de la Fama es una de las visitas básicas en Los Ángeles.")
 
@@ -142,11 +142,8 @@ Bureau](https://www.discoverlosangeles.com).
 
 **También te puede interesar:** 
 
-[11 visitas en San Francisco, de las imprescindibles a las 
-caprichosas](https://etheriamagazine.com/2021/04/09/10-visitas-imprescindibles-en-san-francisco/) 
+{{< reflink path=posts/2021/04/10-visitas-imprescindibles-en-san-francisco >}} 
 
-[10 experiencias alucinantes en el Lejano Oeste 
-americano](https://etheriamagazine.com/2019/07/18/ruta-california-por-el-lejano-oeste-americano/) 
+{{< reflink path=posts/2019/07/ruta-california-por-el-lejano-oeste-americano >}} 
 
-[Arizona: vive tu propia road movie en territorio 
-navajo](https://etheriamagazine.com/2018/05/29/viaje-aventura-para-mujeres-en-arizona-usa/)
+{{< reflink path=posts/2018/05/viaje-aventura-para-mujeres-en-arizona-usa >}}

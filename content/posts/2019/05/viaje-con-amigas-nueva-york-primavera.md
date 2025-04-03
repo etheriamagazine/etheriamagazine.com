@@ -1,7 +1,7 @@
 ---
 title: "Nueva York: el mejor plan con amigas al otro lado del charco"
 date: 2019-05-17
-coverImage: https://fotos.etheriamagazine.com/2019/05/Nueva-York-primavera-Central-Park.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/Nueva-York-primavera-Central-Park.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -145,14 +145,10 @@ Park.](https://www.civitatis.com/es/nueva-york/tour-rickshaw-central-park/?aid=1
 
 **También te puede interesar:** 
 
-[10 planes en Nueva York que te emocionarán si viajas en 
-2021](https://etheriamagazine.com/2021/05/10/10-planes-en-nueva-york-nuevos-2021/) 
+{{< reflink path=posts/2021/05/10-planes-en-nueva-york-nuevos-2021 >}} 
 
-[Los mejores miradores de Nueva York: los nuevos, los de pago y los 
-gratuitos](https://etheriamagazine.com/2020/02/24/los-mejores-miradores-de-nueva-york-gratis-de-pago/) 
+{{< reflink path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}} 
 
-[10 consejos para un viaje en familia a Nueva 
-York](https://etheriamagazine.com/2018/07/28/consejos-para-viajar-en-familia-a-nueva-york/) 
+{{< reflink path=posts/2018/07/consejos-para-viajar-en-familia-a-nueva-york >}} 
 
-[Viaje a Nueva York con niños: 8 planes que no puedes 
-perderte](https://etheriamagazine.com/2018/07/23/8-planes-con-ninos-en-nueva-york/)
+{{< reflink path=posts/2018/07/8-planes-con-ninos-en-nueva-york >}}

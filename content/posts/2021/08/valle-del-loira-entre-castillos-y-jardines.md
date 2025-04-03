@@ -1,7 +1,7 @@
 ---
 title: "Valle del Loira, cinco castillos y un increíble festival de jardines"
 date: 2021-08-09
-coverImage: https://fotos.etheriamagazine.com/2021/08/valle-loira-Castillo-de-Chaumont-sur-Loire.jpg
+cover: https://fotos.etheriamagazine.com/2021/08/valle-loira-Castillo-de-Chaumont-sur-Loire.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -106,7 +106,8 @@ dejando ver, entre la cornamenta, un gran crucifijo resaltado por luminosos rayo
 Seguidamente, se escuchó una voz: “Huberto, si no llevas una vida santa, irás al 
 infierno”. Final imprevisible. 
 
-📌Ad: Entradas al castillo de Chambord. [Reservas](https://www.civitatis.com/es/chambord/entrada-castillo-chambord/?aid=10211). 
+📌Ad: Entradas al castillo de Chambord. 
+[Reservas](https://www.civitatis.com/es/chambord/entrada-castillo-chambord/?aid=10211). 
 
 ![sala de casa del castillo de chambord](https://fotos.etheriamagazine.com/2021/08/valle-loira-Castillo-de-Chambord-Sala-de-caza.jpg "Sala de Caza del castillo de Chambord. © Pedro Grifol")
 
@@ -124,8 +125,9 @@ Cuando os cuenten las guerras de religión que tuvieron lugar en Amboise, no pod
 apartar la mirada de la gran muralla, porque allí fueron colgados ‘los malos’ para que 
 sirvieran de ejemplo. 
 
-📌Ad: Paseo en globo por el Valle del Loira desde Amboise, una experiencia inolvidable. [Info 
-y precios](https://www.civitatis.com/es/amboise/paseo-globo-valle-loira/?aid=10211). 
+📌Ad: Paseo en globo por el Valle del Loira desde Amboise, una experiencia inolvidable. 
+[Info y 
+precios](https://www.civitatis.com/es/amboise/paseo-globo-valle-loira/?aid=10211). 
 
 ![Castillo de Amboise](https://fotos.etheriamagazine.com/2021/08/Castillo-de-Amboise-Foto©Pedro-Grifol.jpg "Castillo de Amboise. © Pedro Grifol")
 
@@ -152,9 +154,9 @@ llamado Millésime EDITION MEDICIS 2018.
 ## El aperitivo francés
 
 A tres kilómetros de Chenonceau, a pie de carretera, es ineludible hacer una parada para 
-visitar la **última destilería artesanal de la región**. Se trata de [Girardot](http://distillerie-girardot.fr), 
-donde Herri-Pierre Girardot continúa elaborando _crèmes_, aguardientes y licores que 
-empezara su abuelo en 1900. 
+visitar la **última destilería artesanal de la región**. Se trata de 
+[Girardot](http://distillerie-girardot.fr), donde Herri-Pierre Girardot continúa 
+elaborando _crèmes_, aguardientes y licores que empezara su abuelo en 1900. 
 
 El marco es excepcional, porque es una cueva excavada en la roca con sala de degustación 
 decorada con mesas y sillas de los años setenta. Allí, el autor de este artículo tuvo el 
@@ -208,13 +210,10 @@ Más información en [Valle del Loira](http://valdeloire.org/)
 
 ### También te puede interesar
 
-[Ruta en coche por el Valle del 
-Loira](https://etheriamagazine.com/2019/03/14/que-ver-ruta-en-coche-valle-del-loira/). 
+{{< reflink path=posts/2019/03/que-ver-ruta-en-coche-valle-del-loira >}}. 
 
-[Relais de Chambord, un pequeño hotel de lujo en el corazón del Valle del 
-Loira](https://etheriamagazine.com/2021/08/02/relais-de-chambord-hotel-lujo-valle-del-loira/). 
+{{< reflink path=posts/2021/08/relais-de-chambord-hotel-lujo-valle-del-loira >}}. 
 
-[Un 
-pase](https://etheriamagazine.com/2021/07/07/ruta-de-los-jardines-costa-azul-francia/)[o](https://etheriamagazine.com/2021/07/07/ruta-de-los-jardines-costa-azul-francia/) 
-[por los jardines y perfumes de la Costa 
-Azul](https://etheriamagazine.com/2021/07/07/ruta-de-los-jardines-costa-azul-francia/).
+{{< reflink path=posts/2021/07/ruta-de-los-jardines-costa-azul-francia >}}{{< reflink 
+path=posts/2021/07/ruta-de-los-jardines-costa-azul-francia >}} {{< reflink 
+path=posts/2021/07/ruta-de-los-jardines-costa-azul-francia >}}.

@@ -1,7 +1,7 @@
 ---
 title: "La abuelita mochilera: “Creo que el viajar es como una droga, que cuando la descubres no puedes prescindir de ella\""
 date: 2018-11-19
-coverImage: https://fotos.etheriamagazine.com/2018/11/Kandy-abuela-mochilera-8.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/Kandy-abuela-mochilera-8.jpg
 categories: 
   - viajar-sola
   - historias

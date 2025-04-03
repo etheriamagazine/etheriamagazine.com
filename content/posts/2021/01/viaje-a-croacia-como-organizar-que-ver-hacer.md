@@ -1,7 +1,7 @@
 ---
 title: "Croacia: consejos y visitas imprescindibles para tu primer viaje"
 date: 2021-01-22
-coverImage: https://fotos.etheriamagazine.com/2021/01/viaje-croacia-trogir.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/viaje-croacia-trogir.jpg
 categories: 
   - inspiración
   - ocio
@@ -68,12 +68,12 @@ Te damos unas breves pistas de por qué estos lugares merecen estar en tu ruta:
 
 En ocasiones las capitales interiores de países volcados hacia el mar pueden pasar por 
 menos interesantes a nivel turístico. Pero Zagreb está llena de encantos, y así os lo 
-contábamos en el reportaje [48 horas en 
-Zagreb](https://etheriamagazine.com/2020/04/24/que-ver-hacer-en-2-3-dias-zagreb-croacia/). 
-Una ciudad con una curiosa mezcla de ciudad centroeuropea y espíritu mediterráneo, 
-repleta de lugares históricos, terrazas, coloridos mercados, zonas verdes… Algunas de 
-sus visitas imprescindibles son el mercado de Dolac, la catedral de San Esteban, la 
-torre de Lotrscak y la iglesia de San Marcos. 
+contábamos en el reportaje {{< reflink 
+path=posts/2020/04/que-ver-hacer-en-2-3-dias-zagreb-croacia >}}. Una ciudad con una 
+curiosa mezcla de ciudad centroeuropea y espíritu mediterráneo, repleta de lugares 
+históricos, terrazas, coloridos mercados, zonas verdes… Algunas de sus visitas 
+imprescindibles son el mercado de Dolac, la catedral de San Esteban, la torre de 
+Lotrscak y la iglesia de San Marcos. 
 
 ### Istria
 
@@ -100,8 +100,8 @@ Es, junto con Dubrovnik, el lugar más visitado de Croacia ya que su posición e
 centro del país hace que sea parada obligada en cualquier ruta. Ofrece un paisaje mágico 
 en el que sus dieciséis lagos forman un sistema de cascadas vertiendo el agua de unos a 
 otros. El parque se puede visitar con unas cómodas pasarelas. Toda la información la 
-puedes consultar en el artículo [10 razones para visitar el P.N. de los Lagos de 
-Plitvice](https://etheriamagazine.com/2018/10/05/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia/). 
+puedes consultar en el artículo {{< reflink 
+path=posts/2018/10/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia >}}. 
 
 ![Parques nacionales de Croacia](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-plitvice.jpg "Parque Nacional de los Lagos de Plitvice. © Mike Swigunski")
 
@@ -111,17 +111,16 @@ Zadar es conocida como la ciudad de la cultura en Croacia por su activa programa
 exposiciones, festivales y conciertos, además de por sus interesantes museos. Destacan 
 sus iglesias medievales y sus palacios del siglo XIX, pero el rincón de la ciudad que no 
 puedes perderte es el Órgano de Mar, situado en su Paseo Marítimo. Si quieres conocer 
-todos sus secretos, no te pierdas nuestro reportaje [48 horas en 
-Zadar](https://etheriamagazine.com/2019/06/21/48-horas-en-zadar-una-escapada-low-cost/). 
+todos sus secretos, no te pierdas nuestro reportaje {{< reflink 
+path=posts/2019/06/48-horas-en-zadar-una-escapada-low-cost >}}. 
 
 ### Sibenik
 
 Sibenik es famosa por su impresionante catedral del siglo XVI, pero tiene otros muchos 
-lugares que merecen una visita y que ya os contábamos en nuestro artículo [8 razones 
-justificadas para visitar 
-Sibenik](https://etheriamagazine.com/2020/08/13/que-ver-hacer-sibenik-parque-krka/). 
-Además, ofrece dos interesantes excursiones: la bella localidad de **Primosten** y el 
-**Parque Nacional de Krka**. 
+lugares que merecen una visita y que ya os contábamos en nuestro artículo {{< reflink 
+path=posts/2020/08/que-ver-hacer-sibenik-parque-krka >}}. Además, ofrece dos 
+interesantes excursiones: la bella localidad de **Primosten** y el **Parque Nacional de 
+Krka**. 
 
 ![cruceros en Croacia](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-sibenik.jpg "Sibenik desde el mar. © Sergii Gulenok")
 
@@ -162,38 +161,41 @@ histórico. Y, por supuesto, un paseo desde lo alto de sus murallas.
 
 ##### Desde Dubrovnik:
 
-• **Korčula**. Famosa por ser uno de los lugares que asegura ser la cuna de Marco Polo, 
+- **Korčula**. Famosa por ser uno de los lugares que asegura ser la cuna de Marco Polo, 
 su capital, del mismo nombre, ocupa una pequeña península fortificada del siglo XIV. Se 
 puede visitar recorriendo en coche la península de Peljesac desde donde salen ferris que 
 en 15 minutos te llevan a esta bonita isla. Si tomas esta opción, haz una parada en Ston 
-para conocer su muralla y sus salinas y probar sus deliciosas ostras. • **Mljet**. 
-Paraíso natural que guarda un parque nacional en su parte oeste. No te pierdas los lagos 
-Malo jezero (lago Pequeño) y Veliko jezero (lago Grande), unidos entre sí por canales 
-poco profundos cuyas aguas desembocan en el mar. 
+para conocer su muralla y sus salinas y probar sus deliciosas ostras. 
+
+- **Mljet**. Paraíso natural que guarda un parque nacional en su parte oeste. No te 
+pierdas los lagos Malo jezero (lago Pequeño) y Veliko jezero (lago Grande), unidos entre 
+sí por canales poco profundos cuyas aguas desembocan en el mar. 
 
 ![viajes a Croacia](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-mljet.jpg "Isla de Mljet. © Josh Berendes")
 
 ##### Desde Split:
 
-• **Hvar**. Es probablemente la isla más famosa por un ambiente estival que le ha valido 
+- **Hvar**. Es probablemente la isla más famosa por un ambiente estival que le ha valido 
 el apelativo de ‘la Ibiza del Adriático’. Además de los locales de moda es una isla 
 preciosa, con un paisaje marcado por sus campos de lavanda. No te pierdas su capital, 
 Hvar, con la catedral de San Esteban, un bonito paseo marítimo y la Fortaleza Española, 
-que ofrece unas vistas preciosas. • **Brac**. Conocida por la playa más famosa del 
-Croacia, la del cabo Zlatni rat (Cuerno de Oro), una de las pocas playas de arena del 
-país. 
+que ofrece unas vistas preciosas. 
+
+- **Brac**. Conocida por la playa más famosa del Croacia, la del cabo Zlatni rat (Cuerno 
+de Oro), una de las pocas playas de arena del país. 
 
 ![islas de Croacia](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-brac.jpg "Playa del cabo Zlatni rat en la isla de Brac.")
 
 ##### Desde Zadar:
 
-• **Archipiélago de las islas Kornati**. 150 islas en menos de 300 kilómetros, perfectas 
+- **Archipiélago de las islas Kornati**. 150 islas en menos de 300 kilómetros, perfectas 
 para hacer una excursión en barco. 
 
 ##### Desde Opatija (puerto en Rijeka):
 
-• **Krk**. Con una bonita ciudad del mismo nombre y un paisaje natural casi intacto. • 
-**Losinj**. Un auténtico oasis con una frondosa vegetación. 
+- **Krk**. Con una bonita ciudad del mismo nombre y un paisaje natural casi intacto. 
+
+- **Losinj**. Un auténtico oasis con una frondosa vegetación. 
 
 ![islas de Croacia](https://fotos.etheriamagazine.com/2021/01/viajes-croacia-Losinj.jpg "Losinj. © Ante Hamersmit")
 
@@ -214,20 +216,20 @@ ciudad y salir por otra para no cansarte del coche.
 Tendrás que estudiar bien cada ciudad y parque natural, y lo que ofrece, aquí te damos 
 algunas ideas de itinerarios, aunque las combinaciones son infinitas: 
 
-• **Ruta 1**. **Istria y Zagreb**. Zagreb, Parque Nacional de Plitvice, Opatija y 
+- **Ruta 1**. **Istria y Zagreb**. Zagreb, Parque Nacional de Plitvice, Opatija y 
 península de Istria (Pula, Rovinj y Porec). Salida en avión por Trieste (Italia). 
 Distancia total: 555 kilómetros. Puedes añadir una excursión a la isla de Krk. 
 
-• **Ruta 2**. **Dalmacia Central**. Ruta con salida y llegada desde Split: Split, 
+- **Ruta 2**. **Dalmacia Central**. Ruta con salida y llegada desde Split: Split, 
 Trogir, Sibenik, Zadar, Parque Nacional de los Lagos de Plitvice, Omis y Split. 
 Distancia total: 613 kilómetros. Imprescindible hacer una excursión a la isla de Hvar en 
 ferry desde Split. 
 
-• **Ruta 3**. **Dalmacia e islas**. Ruta desde Split a Dubrovnik pasando por alguna de 
+- **Ruta 3**. **Dalmacia e islas**. Ruta desde Split a Dubrovnik pasando por alguna de 
 sus islas: Brac, Hvar, Korcula y Mjet. Tendrás que ver la combinación de ferris en 
 **Jadroljnja** y comenzar por Split y terminar en Dubrovnik (o viceversa). 
 
-• **Ruta 4**. **Costa de Croacia**. Comenzar con un vuelo a Trieste (Italia) y viajar 
+- **Ruta 4**. **Costa de Croacia**. Comenzar con un vuelo a Trieste (Italia) y viajar 
 hacia el sur, pasando por Istria, Opatija y desviarse al interior a los lagos de 
 Plitvice. Después Zadar, Split y Dubrovnik. Distancia total: 980 kilómetros. 
 
@@ -235,10 +237,11 @@ Plitvice. Después Zadar, Split y Dubrovnik. Distancia total: 980 kilómetros.
 
 ## Selección de vuelos
 
-Hay varias compañías aéreas con vuelos directos a Croacia como [Iberia](https://www.iberia.com) 
-o [Vueling](https://www.vueling.com/es) desde varias ciudades españolas y a varias 
-ciudades croatas. La mayoría son vuelos que operan solo en temporada alta. Lo mejor es 
-consultar en un buscador de vuelos como [EDreams](https://clk.tradedoubler.com/click?p=15407&a=3132464&url=https%3A%2F%2Fwww.edreams.es), 
+Hay varias compañías aéreas con vuelos directos a Croacia como 
+[Iberia](https://www.iberia.com) o [Vueling](https://www.vueling.com/es) desde varias 
+ciudades españolas y a varias ciudades croatas. La mayoría son vuelos que operan solo en 
+temporada alta. Lo mejor es consultar en un buscador de vuelos como 
+[EDreams](https://clk.tradedoubler.com/click?p=15407&a=3132464&url=https%3A%2F%2Fwww.edreams.es), 
 [Skyscanner](https://clk.tradedoubler.com/click?p=224466&a=3132464&url=https%3A%2F%2Fwww.skyscanner.es) 
 o [Kayak](https://www.kayak.es/flights). Ten en cuenta lo que hemos comentado 
 anteriormente: por la forma alargada de la parte sur del país, casi siempre la mejor 
@@ -263,15 +266,15 @@ Montenegro.
 
 ## Consejos prácticos
 
-• **Documentación** **para entrar en Croacia**: los ciudadanos de la Unión Europea 
+- **Documentación** **para entrar en Croacia**: los ciudadanos de la Unión Europea 
 pueden entrar al país con el DNI. No olvides la Tarjeta Sanitaria Europea, es válida en 
 Croacia. 
 
-• **Moneda croata**: aunque Croacia pertenece a la Unión Europea, mantiene la **Kuna** 
+- **Moneda croata**: aunque Croacia pertenece a la Unión Europea, mantiene la **Kuna** 
 como moneda oficial, que equivale a 0,13 Euros. No hay problema para moverse con tarjeta 
 de crédito por todo el país, pero conviene cambiar algo de dinero para pequeñas compras. 
 
-• **Alquiler de coches**: no hay ningún inconveniente en conducir en Croacia ya que 
+- **Alquiler de coches**: no hay ningún inconveniente en conducir en Croacia ya que 
 tiene una buena red de carreteras. Las principales compañías de alquiler de coches 
 tienen sucursales en las distintas localidades de Croacia. Puedes consultar en 
 **Hertz**, **Sixt** o **Europcar**. Ten en cuenta que las luces siempre tienen que estar 
@@ -279,18 +282,20 @@ encendidas y la tasa de alcohol es 0,5 (0,0 para menores de 24 años). Si vas o 
 desde Trieste (Italia) tienes que atravesar Eslovenia y necesitas comprar una ‘viñeta’ 
 (peaje) en una gasolinera antes de pasar por este país. 
 
-• **Ferris**: serán tus aliados para programar las rutas o excursiones a las islas 
-croatas en tu viaje a Croacia. La línea principal es [Jadrolinija](https://www.jadrolinija.hr/en/ferry-croatia) 
-(ferris donde puedes llevar el coche), con rutas por toda la costa. También puedes mirar 
-las compañías de catamaranes [G&V Line](https://www.gv-line.hr/) o [Krilo](https://www.krilo.hr/en/). 
-Son más rápidos, pero no puedes llevar el coche. 
+- **Ferris**: serán tus aliados para programar las rutas o excursiones a las islas 
+croatas en tu viaje a Croacia. La línea principal es 
+[Jadrolinija](https://www.jadrolinija.hr/en/ferry-croatia) (ferris donde puedes llevar 
+el coche), con rutas por toda la costa. También puedes mirar las compañías de 
+catamaranes [G&V Line](https://www.gv-line.hr/) o [Krilo](https://www.krilo.hr/en/). Son 
+más rápidos, pero no puedes llevar el coche. 
 
-• **Seguros**: si viajas por tu cuenta no olvides contratar un seguro de viaje, puedes 
-hacerlo en [Intermundial](https://clk.tradedoubler.com/click?p=281568&a=3132464&url=https%3A%2F%2Fwww.intermundial.es). 
+- **Seguros**: si viajas por tu cuenta no olvides contratar un seguro de viaje, puedes 
+hacerlo en 
+[Intermundial](https://clk.tradedoubler.com/click?p=281568&a=3132464&url=https%3A%2F%2Fwww.intermundial.es). 
 Si tu viaje lo organiza una agencia de viajes comprueba el seguro que llevas incluido 
 por si te interesar hacer una ampliación o contratar aparte un seguro de cancelación. 
 
-• **Gastronomía**: la cocina croata será una de las cosas de las que más te acordarás al 
+- **Gastronomía**: la cocina croata será una de las cosas de las que más te acordarás al 
 volver a casa. Utiliza ingredientes de la dieta mediterránea pero tratados de forma algo 
 distinta, así que es reconocible y a la vez diferente y deliciosa. En Istria, Dalmacia, 
 y las islas las especialidades son el pescado y los crustáceos, en carnes la 
@@ -299,7 +304,7 @@ pierdas los quesos de la isla de Pag y, en cuanto a los postres, los _štrukli_ 
 de queso), _orehnjača_ (hojaldre de nueces) y la _makovnjača_ (hojaldre con semillas de 
 amapola). 
 
-• **Enología**: Croacia como buen país mediterráneo tiene una gran tradición vinícola. 
+- **Enología**: Croacia como buen país mediterráneo tiene una gran tradición vinícola. 
 No hay mucha producción, así que es difícil encontrarlos fuera del país. Aprovecha tu 
 viaje para probar las distintas variedades locales, además de sus licores estrella: el 
 _prošek_ y el _maraschino_. 

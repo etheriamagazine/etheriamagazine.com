@@ -1,7 +1,7 @@
 ---
 title: "8 exposiciones en Madrid que no puedes perderte"
 date: 2021-05-27
-coverImage: https://fotos.etheriamagazine.com/2021/05/Venus-y-Adonis-el-prado.jpg
+cover: https://fotos.etheriamagazine.com/2021/05/Venus-y-Adonis-el-prado.jpg
 categories: 
   - cultura
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-La vida cultural de Madrid no deja de palpitar y una de sus formas de expresión son las 
-exposiciones temporales que ocupan museos y salas de exposiciones durante todo año. Aquí 
-hemos seleccionado 8 exposiciones en Madrid que no puedes perderte esta primavera y 
+**La vida cultural de Madrid no deja de palpitar y una de sus formas de expresión son 
+las exposiciones temporales que ocupan museos y salas de exposiciones durante todo año. 
+Aquí hemos seleccionado 8 exposiciones en Madrid que no puedes perderte esta primavera y 
 verano: arte contemporáneo, mitología, grandes mujeres… Busca un hueco en tu agenda y 
-regálate una tarde de hedonista contemplación del arte. 
+regálate una tarde de hedonista contemplación del arte.** 
 
 ![cuadro exposición cuestión de ambiente](https://fotos.etheriamagazine.com/2021/05/exposiciones-madrid-cuestion-ambiente.jpg "'Cuestión de ambiente'. Antonio Juez Nieto. 'Heliogábalo', 1926. © Museo de Bellas Artes de Badajoz")
 
@@ -162,11 +162,8 @@ Precio: entrada gratuita.
 
 ### También te puede interesar
 
-[Conoce el Museo Naval de Madrid y sus 10 piezas 
-imprescindibles](https://etheriamagazine.com/2021/04/30/que-ver-en-museo-naval-de-madrid/) 
+{{< reflink path=posts/2021/04/que-ver-en-museo-naval-de-madrid >}} 
 
-[Helga de Alvear: “El arte es un derecho y una 
-necesidad”](https://etheriamagazine.com/2021/03/03/helga-de-alvear-el-arte-es-un-derecho-y-una-necesidad/) 
+{{< reflink path=posts/2021/03/helga-de-alvear-el-arte-es-un-derecho-y-una-necesidad >}} 
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/)
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}

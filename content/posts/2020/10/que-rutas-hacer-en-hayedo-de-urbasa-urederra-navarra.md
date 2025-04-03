@@ -1,7 +1,7 @@
 ---
 title: "Rutas en el hayedo encantado de Urbasa y en Urederra (Navarra)"
 date: 2020-10-05
-coverImage: https://fotos.etheriamagazine.com/2020/09/nacedero-urederra-navarra.jpg
+cover: https://fotos.etheriamagazine.com/2020/09/nacedero-urederra-navarra.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Paraíso de vacas, ovejas y manadas de caballos, las altiplanicies de Urbasa y Andía 
+**Paraíso de vacas, ovejas y manadas de caballos, las altiplanicies de Urbasa y Andía 
 albergan en sus soledades el hayedo de Urbasa. Este bosque nos ha atrapado con sus 
 encantos al natural, escondido y salpicado por las dentaduras de roca de las sierras. 
 Hemos recorrido el hayedo de Urbasa para descubrir sus rincones secretos, las mejores 
-rutas y muchas curiosidades. 
+rutas y muchas curiosidades.** 
 
 ![Colores otoñales del hayedo de Urbasa (Navarra).](https://fotos.etheriamagazine.com/2020/09/rutas-hayedo-urbasa.jpg "Colores otoñales del hayedo de Urbasa (Navarra).")
 
@@ -139,11 +139,9 @@ interior.
 
 ### También te puede interesar
 
-[Por qué Tierra Estella y Tierras de Iranzu protagonizarán tu próximo viaje en familia a 
-Navarra](https://etheriamagazine.com/2021/02/08/navarra-en-familia-tierra-estella-y-tierras-de-iranzu/) 
+{{< reflink path=posts/2021/02/navarra-en-familia-tierra-estella-y-tierras-de-iranzu >}} 
 
-[Desiertos de película y pinchos “de cine”: una ruta por las Bardenas Reales y 
-Tudela](https://etheriamagazine.com/2020/07/27/ruta-navarra-bardenas-reales-tudela-escapada-con-amigas/) 
+{{< reflink path=posts/2024/10/ruta-navarra-bardenas-reales-tudela-escapada-con-amigas 
+>}} 
 
-[La Sierra de Entzia, des(conexión) en siete pasos en 
-Álava](https://etheriamagazine.com/2021/05/12/excursiones-sierra-de-entzia-alava/)
+{{< reflink path=posts/2021/05/excursiones-sierra-de-entzia-alava >}}

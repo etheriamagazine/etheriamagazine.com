@@ -1,7 +1,7 @@
 ---
 title: "Heritage Le Telfair, un hotel de lujo para escaparse a isla Mauricio"
 date: 2024-11-29
-coverImage: https://fotos.etheriamagazine.com/2024/11/heritage-le-telfair-piscina-principal.jpg
+cover: https://fotos.etheriamagazine.com/2024/11/heritage-le-telfair-piscina-principal.jpg
 categories: 
   - viajar-en-pareja
   - hoteles
@@ -191,5 +191,4 @@ Mauritius Tel: +230 601 55 00. www.heritageresort.mu
 
 **También te puede interesar:** 
 
-[Isla Mauricio, 10 planes para un viaje 
-inolvidable](https://etheriamagazine.com/2019/03/26/viajes-mujeres-mejores-planes-en-mauricio/)
+{{< reflink path=posts/2019/03/viajes-mujeres-mejores-planes-en-mauricio >}}

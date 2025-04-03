@@ -1,7 +1,7 @@
 ---
 title: "Hotel Mongibello, el lugar donde gozar de la 'dolce vita' más ibicenca"
 date: 2024-03-27
-coverImage: https://fotos.etheriamagazine.com/2024/03/hotel-mongibello-recepcion.jpg
+cover: https://fotos.etheriamagazine.com/2024/03/hotel-mongibello-recepcion.jpg
 categories: 
   - hoteles
 destino: 
@@ -102,8 +102,6 @@ Ibiza. Tel. +34 971 39 32 68
 
 **También te puede interesar:** 
 
-[Santa Eulària des Riu o cómo disfrutar de Ibiza en 
-familia](https://etheriamagazine.com/2024/03/20/santa-eularia-des-riu-en-familia/) 
+{{< reflink path=posts/2024/03/santa-eularia-des-riu-en-familia >}} 
 
-[Santa Eulària des Riu, el municipio de Ibiza más 
-‘hippy-sostenible’](https://etheriamagazine.com/2023/03/03/santa-eularia-des-riu-ibiza/)
+{{< reflink path=posts/2023/03/santa-eularia-des-riu-ibiza >}}

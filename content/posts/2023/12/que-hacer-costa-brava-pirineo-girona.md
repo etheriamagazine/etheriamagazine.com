@@ -1,7 +1,7 @@
 ---
 title: "Planes con un toque mágico en la Costa Brava y el Pirineo de Girona"
 date: 2023-12-18
-coverImage: https://fotos.etheriamagazine.com/2023/12/Eugenia-Mas-Generos.jpg
+cover: https://fotos.etheriamagazine.com/2023/12/Eugenia-Mas-Generos.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -185,11 +185,8 @@ Girona](http://www.costabrava.org).
 
 **También te puede interesar**: 
 
-[Por qué deberías viajar a la Costa Brava con 
-niños](https://etheriamagazine.com/2023/11/06/viajar-costa-brava-con-ninos/) 
+{{< reflink path=posts/2023/11/viajar-costa-brava-con-ninos >}} 
 
-[15 lugares imprescindibles que tienes que ver en 
-Girona](https://etheriamagazine.com/2022/10/17/lugares-imprescindibles-en-girona/) 
+{{< reflink path=posts/2022/10/lugares-imprescindibles-en-girona >}} 
 
-[Empordà, busca la esencia mediterránea en la Costa 
-Brava](https://etheriamagazine.com/2020/08/21/10-planes-comarca-ampurdan-costa-brava/)
+{{< reflink path=posts/2020/08/10-planes-comarca-ampurdan-costa-brava >}}

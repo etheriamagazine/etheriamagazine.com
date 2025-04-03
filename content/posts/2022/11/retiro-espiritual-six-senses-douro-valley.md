@@ -1,7 +1,7 @@
 ---
 title: "Six Senses Douro Valley, el retiro espiritual que necesitas"
 date: 2022-11-04
-coverImage: https://fotos.etheriamagazine.com/2022/11/hotel-six-senses-douro-valley.jpg
+cover: https://fotos.etheriamagazine.com/2022/11/hotel-six-senses-douro-valley.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Para acabar bien 2022 o empezar 2023 de la mejor manera, las propuestas del exclusivo 
+**Para acabar bien 2022 o empezar 2023 de la mejor manera, las propuestas del exclusivo 
 hotel Six Senses Douro Valley puede ser lo que necesitas. Sus retiros espirituales están 
 dirigidos por expertos y son un gran regalo para ti misma o para alguien especial que 
-creas que los necesita. 
+creas que los necesita.** 
 
 ![Six Senses Douro Valley, un universo para los amantes del vino](https://fotos.etheriamagazine.com/2022/11/vendimia-six-sense-douro-valley.jpg "El entorno del hotel forma parte de la experiencia.")
 
@@ -114,14 +114,13 @@ reconoce que “no puede haber mejor elección para hacerlo que el valle del Due
 destino de increíbles paisajes, naturaleza, vinos, gente e historia, con algunos de los 
 mejores restaurantes gastronómicos, aventuras de lujo y catas de vino”. 
 
-Puedes encontrar más información de cada experiencia en la web del [hotel](https://www.sixsenses.com/en/resorts/douro-valley/wellness-spa/retreats). 
+Puedes encontrar más información de cada experiencia en la web del 
+[hotel](https://www.sixsenses.com/en/resorts/douro-valley/wellness-spa/retreats). 
 
 ![Ben Greenfield dirige uno de los retiros espirituales de 2023](https://fotos.etheriamagazine.com/2022/11/retiros-espirituales-Ben-Greenfield.jpg "Ben Greenfield.")
 
 ### También te puede interesar...
 
-[Pablo d’Ors nos invita a “escuchar el sonido del 
-silencio”](https://etheriamagazine.com/2021/12/22/pablo-dors-biografia-de-la-luz/). 
+{{< reflink path=posts/2021/12/pablo-dors-biografia-de-la-luz >}}. 
 
-[MeToo Yogui, cuando el yoga se utiliza para cometer 
-abusos](https://etheriamagazine.com/2021/06/18/metoo-yogui-denuncias-del-abuso-en-yoga/).
+{{< reflink path=posts/2021/06/metoo-yogui-denuncias-del-abuso-en-yoga >}}.

@@ -1,7 +1,7 @@
 ---
 title: "NH Collection Murano Villa, un hotel perfecto para explorar Venecia"
 date: 2022-02-16
-coverImage: https://fotos.etheriamagazine.com/2022/02/NH_collection-murano-villa-terraza.jpg
+cover: https://fotos.etheriamagazine.com/2022/02/NH_collection-murano-villa-terraza.jpg
 categories: 
   - hoteles
 destino: 
@@ -99,11 +99,8 @@ Fotografías cedidas por © NH Hotel Group.
 
 ### También te puede interesar:
 
-[Verona, mucho más que la ciudad de 
-Julieta](https://etheriamagazine.com/2021/12/01/que-ver-en-verona/) 
+{{< reflink path=posts/2021/12/que-ver-en-verona >}} 
 
-[Casi un mar: rodea en coche el lago de Garda, el mayor de 
-Italia](https://etheriamagazine.com/2021/09/22/ruta-en-coche-en-lago-de-garda-italia/) 
+{{< reflink path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}} 
 
-[10 viajes para enamorarte de 
-Italia](https://etheriamagazine.com/2020/08/03/10-grandes-viajes-a-italia/)
+{{< reflink path=posts/2020/08/10-grandes-viajes-a-italia >}}

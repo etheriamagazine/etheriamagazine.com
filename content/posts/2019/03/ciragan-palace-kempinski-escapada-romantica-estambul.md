@@ -1,7 +1,7 @@
 ---
 title: "Çirağan Palace Kempinski, un hotel con magia en Estambul"
 date: 2019-03-05
-coverImage: https://fotos.etheriamagazine.com/2019/02/ciragan-palace-kempinski-istanbul-exterior.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/ciragan-palace-kempinski-istanbul-exterior.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Susana García
 ---
 
-Hay hoteles que son la excusa perfecta para visitar un destino. Es el caso del Çirağan 
+**Hay hoteles que son la excusa perfecta para visitar un destino. Es el caso del Çirağan 
 Palace de Estambul, un hotel al que merece la pena escaparse en un viaje en pareja y así 
-disfrutar del romanticismo de esta ciudad llena de historia. 
+disfrutar del romanticismo de esta ciudad llena de historia.** 
 
 ![piscina del Çiragan Palace en Estambul](https://fotos.etheriamagazine.com/2019/02/ciragan-palace-kempinski-istanbul-exterior.jpg "Vistas del Bósforo desde el Çirağan Palace.")
 
@@ -109,8 +109,6 @@ Fotografías cedidas por el hotel Çirağan Palace Kempinski de Estambul.
 
 📌 **También te puede interesar:** 
 
-[Fin de semana en Estambul, un plan para dos 
-imbatible](https://etheriamagazine.com/2018/05/03/fin-de-semana-romantico-en-estambul/) 
+{{< reflink path=posts/2018/05/fin-de-semana-romantico-en-estambul >}} 
 
-[Averigua por qué Capadocia es una excursión idónea desde 
-Estambul](https://etheriamagazine.com/2022/04/22/excursion-a-capadocia/)
+{{< reflink path=posts/2022/04/excursion-a-capadocia >}}

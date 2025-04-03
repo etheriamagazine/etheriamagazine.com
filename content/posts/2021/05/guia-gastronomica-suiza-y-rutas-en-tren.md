@@ -1,7 +1,7 @@
 ---
 title: "Descubre la mejor forma de recorrer y saborear Suiza"
 date: 2021-05-10
-coverImage: https://fotos.etheriamagazine.com/2021/04/Suiza-en-tren-Graubuenden-.jpg
+cover: https://fotos.etheriamagazine.com/2021/04/Suiza-en-tren-Graubuenden-.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Siempre hay un buen motivo para viajar a Suiza. Sus paisajes, su gastronomía, sus 
+**Siempre hay un buen motivo para viajar a Suiza. Sus paisajes, su gastronomía, sus 
 ciudades históricas... En este caso os hablamos de itinerarios en tren para recorrer (y 
 degustar) el país, y os proponemos la guía gastronómica ‘Suiza a Bocados’. Elige tu ruta 
-y prepara tu escapada a Suiza para este verano. 
+y prepara tu escapada a Suiza para este verano.** 
 
 ![Suiza en tren](https://fotos.etheriamagazine.com/2021/04/Suiza-en-tren-Graubuenden-.jpg "Una de las mejores formas de recorrer Suiza es en tren. © Switzerland Tourism/André Meier")
 
@@ -25,15 +25,13 @@ viaje te decides por recorrer una zona de los Alpes, en el siguiente te apetecer
 conocer sus principales ciudades o disfrutar de un viaje enfocado al turismo activo. 
 
 En Etheria Magazine ya os hemos contado muchas de nuestras experiencias en Suiza, desde 
-un [recorrido en coche 
-eléctrico](https://etheriamagazine.com/2021/02/10/ruta-en-coche-electrico-por-suiza/) 
-hasta un [viaje familiar a la zona de 
-Engelberg](https://etheriamagazine.com/2019/04/30/viaje-en-familia-que-hacer-engelberg-suiza/). 
-Aquí nos vamos a centrar en daros algunas pistas para disfrutar de **Suiza en tren**, 
-una de las mejores formas de moverse por el país. Y, además, le daremos al artículo el 
-‘**toque del chef**’, para que vayas abriendo boca con las delicias que te esperan 
-cuando visites Suiza (descarga gratuitamente la guía gastronómica ‘Suiza a Bocados’ en 
-este link para ir preparado). 
+un {{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}} hasta un {{< 
+reflink path=posts/2019/04/viaje-en-familia-que-hacer-engelberg-suiza >}}. Aquí nos 
+vamos a centrar en daros algunas pistas para disfrutar de **Suiza en tren**, una de las 
+mejores formas de moverse por el país. Y, además, le daremos al artículo el ‘**toque del 
+chef**’, para que vayas abriendo boca con las delicias que te esperan cuando visites 
+Suiza (descarga gratuitamente la guía gastronómica ‘Suiza a Bocados’ en este link para 
+ir preparado). 
 
 ![ciudades historicas de Europa](https://fotos.etheriamagazine.com/2021/04/Suiza-tren-Murten.jpg "El Ayuntamiento de la preciosa ciudad de Murten. © Switzerland Tourism.")
 
@@ -70,8 +68,8 @@ autobús: a la **Maison Gruyère** y a la **Maison Cailler**, una de las marcas 
 conocidas (y deliciosas) de chocolate suizo. Además, el tren es precioso ya que conserva 
 el estilo _Belle Époque_. 
 
-Si eres fan de la enología y de los paisajes de viñedos, no puedes dejar de subirte al [Tren 
-del 
+Si eres fan de la enología y de los paisajes de viñedos, no puedes dejar de subirte al 
+[Tren del 
 Vino](https://www.myswitzerland.com/es-es/descubrir-suiza/el-tren-a-traves-de-vinyedos/) 
 que, en la región del lago Lemán, lleva por los viñedos de Lavaux, entre Vevey y 
 Puidoux. Durante el camino se ofrecen explicaciones sobre la región y degustaciones de 
@@ -203,7 +201,8 @@ que es fundamental si no piensas usar el coche en Suiza. Además, incluye el acc
 gratuito a muchas estaciones de montaña y a la mayoría de los museos. Los trenes 
 panorámicos están también incluidos, tan solo hay que abonar el suplemento de reserva de 
 plaza. Puedes elegir la de 3, 4, 8 y 15 días, que podrás disfrutar en jornadas 
-consecutivas o alternas. Toda la información en este [enlace](http://MySwitzerland.com/suizaentren). 
+consecutivas o alternas. Toda la información en este 
+[enlace](http://MySwitzerland.com/suizaentren). 
 
 ![Suiza en primavera](https://fotos.etheriamagazine.com/2021/04/suiza-tren-primavera.jpg "Primavera en el lago Lemán. © Switzerland Tourism/Beat Mueller")
 
@@ -235,11 +234,8 @@ Turismo](https://www.myswitzerland.com/es-es/descubrir-suiza/comer-beber/).
 
 **También te puede interesar** 
 
-[Suiza encumbra a las mujeres con su 100% 
-Women](https://etheriamagazine.com/2021/03/12/suiza-encumbra-a-las-mujeres-con-su-100-por-100-women/) 
+{{< reflink path=posts/2021/03/suiza-encumbra-a-las-mujeres-con-su-100-por-100-women >}} 
 
-[5 lugares que marcan el enigma del tardío voto femenino en 
-Suiza](https://etheriamagazine.com/2021/04/12/voto-femenino-suiza-50-aniversario/) 
+{{< reflink path=posts/2021/04/voto-femenino-suiza-50-aniversario >}} 
 
-[Viaje en familia a Suiza: tres montañas a las que subir sin 
-despeinarse](https://etheriamagazine.com/2018/09/28/tres-montanas-suizas-a-las-que-subir-sin-despeinarse/)
+{{< reflink path=posts/2018/09/tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}}

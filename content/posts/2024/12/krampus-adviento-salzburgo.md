@@ -1,7 +1,7 @@
 ---
 title: "La aterradora 'Noche de los Krampus' de Salzburgo se celebra en Adviento"
 date: 2024-12-04
-coverImage: https://fotos.etheriamagazine.com/2023/10/Salzburgo-nieve.jpg
+cover: https://fotos.etheriamagazine.com/2023/10/Salzburgo-nieve.jpg
 categories: 
   - viajar-en-familia
   - ocio
@@ -145,8 +145,8 @@ información**: [Tourismus Salzburg](http://www.salzburg.info).
 
 📌 **También te puede interesar:** 
 
-[Un fin de semana en la romántica Salzburgo 
-invernal](https://etheriamagazine.com/2019/12/02/48-horas-en-salzburgo-invernal-mercadillos-navidenos-escapada-romantica/) 
+{{< reflink 
+path=posts/2019/12/48-horas-en-salzburgo-invernal-mercadillos-navidenos-escapada-romantica 
+>}} 
 
-[Innsbruck con amigas, una escapada con sello 
-tirolés](https://etheriamagazine.com/2023/10/18/que-ver-innsbruck-con-amigas/)
+{{< reflink path=posts/2023/10/que-ver-innsbruck-con-amigas >}}

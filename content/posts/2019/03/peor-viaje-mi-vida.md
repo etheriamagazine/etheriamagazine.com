@@ -1,7 +1,7 @@
 ---
 title: "¿El peor viaje de mi vida? El día en que me metieron droga en la maleta"
 date: 2019-03-09
-coverImage: https://fotos.etheriamagazine.com/2019/03/peor-viaje-vida.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/peor-viaje-vida.jpg
 categories: 
   - historias
 destino: 
@@ -139,8 +139,6 @@ sí, pímplate el minibar.
 
 ### Otros viajes que pudieron salir mal...
 
-[Australia no es un zoo, conoce sus animales más 
-mortíferos](https://etheriamagazine.com/2019/07/31/consejos-viajar-australia-evitar-peligros-animales/). 
+{{< reflink path=posts/2019/07/consejos-viajar-australia-evitar-peligros-animales >}}. 
 
-[Si quieres a tu pareja no viajes a 
-Bali](https://etheriamagazine.com/2019/07/23/luna-miel-bali-maldicion-ruptura/).
+{{< reflink path=posts/2019/07/luna-miel-bali-maldicion-ruptura >}}.

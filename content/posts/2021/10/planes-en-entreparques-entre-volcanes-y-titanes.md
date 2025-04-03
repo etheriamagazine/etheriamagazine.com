@@ -1,7 +1,7 @@
 ---
 title: "Planes entre volcanes y titanes en la comarca de Entreparques"
 date: 2021-10-14
-coverImage: https://fotos.etheriamagazine.com/2021/10/ruta-todoterreno-parque-cabaneros.jpg
+cover: https://fotos.etheriamagazine.com/2021/10/ruta-todoterreno-parque-cabaneros.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -140,14 +140,15 @@ respetando sus tiempos de curación para conseguir todos los matices.
 La comarca de Entreparques no sólo reúne buenas condiciones para los quesos, también 
 cuenta con un excelente _terroir_. Es decir, buenos suelos en los que las cepas se posan 
 sobre la raña, microclima templado y el conocimiento acumulado de varias generaciones en 
-la elaboración de vinos. Entre las bodegas que se pueden visitar en la zona, destaca [Dehesa 
-de](https://www.dehesadelcarrizal.com/)[l](https://www.dehesadelcarrizal.com/) [Carrizal](https://www.dehesadelcarrizal.com/), 
-situada en los Montes de Toledo y muy cerca del P.N. de Cabañeros. Aquí elaboran vino de 
-pago, una DOP integrada por sólo 17 bodegas en España. En la finca crecen distintas 
-variedades como Chardonnay, Cabernet Sauvignon, Syrah o Petit Verdot con las que se 
-elaboran vinos de gran calidad controlados de principio a fin. Disponen de tienda en la 
-bodega, así que puedes pasar por allí para llevarte algunas botellas (precios entre 8,75 
-y 27 €), y, de paso, hacer una visita guiada. 
+la elaboración de vinos. Entre las bodegas que se pueden visitar en la zona, destaca 
+[Dehesa de](https://www.dehesadelcarrizal.com/)[l](https://www.dehesadelcarrizal.com/) 
+[Carrizal](https://www.dehesadelcarrizal.com/), situada en los Montes de Toledo y muy 
+cerca del P.N. de Cabañeros. Aquí elaboran vino de pago, una DOP integrada por sólo 17 
+bodegas en España. En la finca crecen distintas variedades como Chardonnay, Cabernet 
+Sauvignon, Syrah o Petit Verdot con las que se elaboran vinos de gran calidad 
+controlados de principio a fin. Disponen de tienda en la bodega, así que puedes pasar 
+por allí para llevarte algunas botellas (precios entre 8,75 y 27 €), y, de paso, hacer 
+una visita guiada. 
 
 ![ciervos parque cabaneros ciudad real](https://fotos.etheriamagazine.com/2021/10/ciervos-parques-cabaneros.jpg "Parque Nacional de Cabañeros, en la comarca de Entreparques. © P.G.")
 
@@ -205,11 +206,10 @@ Poblete. Ideal para personas muy golosas.
 
 ### También te puede interesar...
 
-[8 razones por las que desearás conocer la provincia de Ciudad 
-Real](https://etheriamagazine.com/2020/11/10/mejores-rutas-en-ciudad-real/). 
+{{< reflink path=posts/2020/11/mejores-rutas-en-ciudad-real >}}. 
 
-[Descubre las mejores excursiones en la provincia de 
-Cuenca](https://etheriamagazine.com/2020/06/04/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca/). 
+{{< reflink 
+path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+>}}. 
 
-[La Mancha toledana: excursión a Madridejos para conocer el mundo del 
-azafrán](https://etheriamagazine.com/2021/09/29/excursion-a-madridejos-azafran-de-toledo/).
+{{< reflink path=posts/2021/09/excursion-a-madridejos-azafran-de-toledo >}}.

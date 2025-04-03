@@ -1,7 +1,7 @@
 ---
 title: "Haloterapia y talasoterapia, conoce todos los beneficios de la sal"
 date: 2020-10-28
-coverImage: https://fotos.etheriamagazine.com/2020/10/beneficios-sal-Salt-Room.jpg
+cover: https://fotos.etheriamagazine.com/2020/10/beneficios-sal-Salt-Room.jpg
 categories: 
   - bienestar
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Maria Miret
 ---
 
-Tradicionalmente utilizada como remedio casero, la sal no es solo un condimento. 
+**Tradicionalmente utilizada como remedio casero, la sal no es solo un condimento. 
 Conocida por sus propiedades antisépticas, antiinflamatorias y antibacterianas, el uso 
 terapéutico de los baños de sal combate el estrés, la talasoterapia utiliza el poder 
 curativo del mar y la haloterapia está indicada para problemas respiratorios y 
 dermatológicos. Además, un consumo moderado de sal en la dieta es necesario para la 
-salud. Conoce en este artículo todos los beneficios que nos aporta la sal. 
+salud. Conoce en este artículo todos los beneficios que nos aporta la sal.** 
 
 ![cuevas de sal en salt room](https://fotos.etheriamagazine.com/2020/10/beneficios-sal-Salt-Room.jpg "Cueva de sal en © Salt Room.")
 
@@ -153,8 +153,7 @@ sódico (SAL) como agente biocida eficaz contra SARS-CoV-2.
 
 📌 **También te puede interesar...** 
 
-[Barra libre de ansiolíticos y antidepresivos, ¿se medicalizan los problemas 
-sociales?](https://etheriamagazine.com/2021/04/14/ansioliticos-y-antidepresivos-no-resuelven-los-problemas/) 
+{{< reflink path=posts/2021/04/ansioliticos-y-antidepresivos-no-resuelven-los-problemas 
+>}} 
 
-[Endometriosis, una enfermedad que no es solo 
-ginecológica](https://etheriamagazine.com/2021/03/15/que-es-endometriosis-sintomas-y-cuidados/).
+{{< reflink path=posts/2021/03/que-es-endometriosis-sintomas-y-cuidados >}}.

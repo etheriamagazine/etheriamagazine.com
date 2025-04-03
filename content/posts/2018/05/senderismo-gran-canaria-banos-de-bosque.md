@@ -1,7 +1,7 @@
 ---
 title: "Senderismo y baños de bosque en Gran Canaria"
 date: 2018-05-03
-coverImage: https://fotos.etheriamagazine.com/2018/05/gran-canaria-bosque.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/gran-canaria-bosque.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -97,11 +97,9 @@ encuentra donde acaba la carretera del barranco de Guayadeque.
 
 **También te puede interesar** 
 
-[Por qué no olvidarás jamás La Palma, la isla más adictiva y alternativa de 
-Canarias](https://etheriamagazine.com/2019/04/02/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias/) 
+{{< reflink path=posts/2019/04/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias 
+>}} 
 
-[Los tajinastes en flor, el gran espectáculo natural de 
-Tenerife](https://etheriamagazine.com/2019/05/14/que-ver-tenerife-donde-cuando-tajinaste-en-flor/) 
+{{< reflink path=posts/2019/05/que-ver-tenerife-donde-cuando-tajinaste-en-flor >}} 
 
-[Efigenia la de Las Hayas y la cocina que hechizó a Angela Merkel en La 
-Gomera](https://etheriamagazine.com/2021/01/06/casa-efigenia-mejor-restaurante-vegetariano-la-gomera/)
+{{< reflink path=posts/2021/01/casa-efigenia-mejor-restaurante-vegetariano-la-gomera >}}

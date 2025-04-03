@@ -1,7 +1,7 @@
 ---
 title: "Las Palmas de Gran Canaria con niños, diversión asegurada"
 date: 2024-07-01
-coverImage: https://fotos.etheriamagazine.com/2024/06/gran-canaria-Playa-Las-Canteras.jpg
+cover: https://fotos.etheriamagazine.com/2024/06/gran-canaria-Playa-Las-Canteras.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -107,8 +107,6 @@ Canaria](https://lpavisit.com/es/)[.](http://www.LPAvisit.com)
 
 **También en Etheria Magazine** 
 
-[Una ruta gastro por los sabores de Gran 
-Canaria](https://etheriamagazine.com/2023/07/24/que-donde-comer-gran-canaria/). 
+{{< reflink path=posts/2023/07/que-donde-comer-gran-canaria >}}. 
 
-[Senderismo y baños de bosque en Gran 
-Canaria](https://etheriamagazine.com/2018/05/03/senderismo-gran-canaria-banos-de-bosque/).
+{{< reflink path=posts/2018/05/senderismo-gran-canaria-banos-de-bosque >}}.

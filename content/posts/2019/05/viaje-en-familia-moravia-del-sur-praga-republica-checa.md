@@ -1,7 +1,7 @@
 ---
 title: "Un viaje en familia a República Checa: Praga y Moravia del Sur"
 date: 2019-05-07
-coverImage: https://fotos.etheriamagazine.com/2019/05/viaje-familia-Vinedos-Moravia-del-Sur-.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/viaje-familia-Vinedos-Moravia-del-Sur-.jpg
 categories: 
   - viajar-en-familia
 destino: 

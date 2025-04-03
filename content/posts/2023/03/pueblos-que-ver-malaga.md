@@ -1,7 +1,7 @@
 ---
 title: "Una guía para no perderte nada de la provincia de Málaga"
 date: 2023-03-23
-coverImage: https://fotos.etheriamagazine.com/2023/03/malaga-nerja-playa-calahonda.jpg
+cover: https://fotos.etheriamagazine.com/2023/03/malaga-nerja-playa-calahonda.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-Pasar unos días en Málaga es una propuesta imbatible sea cual sea la época del año 
+**Pasar unos días en Málaga es una propuesta imbatible sea cual sea la época del año 
 porque hay infinitos planes más allá del "sol y playa". Pueblos blancos, sierras, 
 acantilados, pequeñas calas… las posibilidades de pasarlo bien en esta provincia son 
 tantas que nos ha costado seleccionar sólo quince lugares que ver en Málaga. Te los 
-contamos en este artículo. 
+contamos en este artículo.** 
 
 ![Mirador sobre Mijas Costa](https://fotos.etheriamagazine.com/2023/03/Mirador-mijas-costa-sol.jpg "Mirador de Mijas sobre la Costa del Sol. © Turismo de Andalucía.")
 
@@ -73,8 +73,8 @@ Banderas que ha llegado a Málaga para revolucionar y animar aún más su vida c
 ✅ **Excursión organizada:** [Tour de Málaga al completo con 
 entradas](https://www.civitatis.com/es/malaga/tour-malaga-completo/?aid=10211). 
 
-📍 **Para saber más:** [Málaga con amigas, el fin de semana que os 
-merecéis](https://etheriamagazine.com/2021/05/03/fin-de-semana-con-amigas-en-malaga/) 
+📍 **Para saber más:** {{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga 
+>}} 
 
 ## Pueblos de la costa de Málaga
 
@@ -112,8 +112,9 @@ Marbella](https://www.civitatis.com/es/marbella/free-tour-marbella/?aid=10211) /
 en barco privado por Puerto 
 Banús](https://www.civitatis.com/es/puerto-banus/paseo-barco-privado-puerto-banus/?aid=10211). 
 
-📍 **Para saber más:** [Planes para exprimir un fin de semana en Marbella con 
-amigas](https://etheriamagazine.com/2019/06/11/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana/) 
+📍 **Para saber más:** {{< reflink 
+path=posts/2019/06/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana 
+>}} 
 
 ### Torremolinos
 
@@ -139,8 +140,8 @@ Torremolinos](https://www.civitatis.com/es/torremolinos/visita-guiada-torremolin
 / [Excursión en bicicleta eléctrica por 
 Torremolinos](https://www.civitatis.com/es/torremolinos/tour-bicicleta-electrica-torremolinos/?aid=10211). 
 
-✅ **Para saber más:** [10 planes imprescindibles en 
-Torremolinos](https://etheriamagazine.com/2021/05/19/planes-imprescindibles-torremolinos/). 
+✅ **Para saber más:** {{< reflink path=posts/2021/05/planes-imprescindibles-torremolinos 
+>}}. 
 
 ### Estepona
 
@@ -240,10 +241,9 @@ de la tierra.
 ✅ **Excursión organizada:** [Free tour por 
 Ronda](https://www.civitatis.com/es/ronda/free-tour-ronda/?aid=10211). 
 
-📍 **Para saber más sobre Ronda:** [Ronda con amigas, pistas para gozar al 
-máximo](https://etheriamagazine.com/2021/11/23/planes-en-ronda-con-amigas/) / [Escapada 
-a la Ronda más literaria, romántica y 
-monumental](https://etheriamagazine.com/2019/04/16/ronda-escapada-con-amigas/). 
+📍 **Para saber más sobre Ronda:** {{< reflink 
+path=posts/2021/11/planes-en-ronda-con-amigas >}} / {{< reflink 
+path=posts/2019/04/ronda-escapada-con-amigas >}}. 
 
 ### Frigiliana
 
@@ -264,12 +264,12 @@ calles (doce en total), que narran la resistencia de la población morisca a la 
 cristiana. 
 
 ✅ **Excursión organizada:** [Free tour por 
-Frigiliana](https://www.civitatis.com/es/frigiliana/free-tour-frigiliana/?aid=10211) / [Excursión 
-a Frigiliana](https://www.civitatis.com/es/nerja/excursion-frigiliana/?aid=10211). 
+Frigiliana](https://www.civitatis.com/es/frigiliana/free-tour-frigiliana/?aid=10211) / 
+[Excursión a 
+Frigiliana](https://www.civitatis.com/es/nerja/excursion-frigiliana/?aid=10211). 
 
-📍 **Para saber más sobre Frigiliana:** [Un día en Frigiliana, uno de los pueblos más 
-bonitos de 
-Málaga](https://etheriamagazine.com/2021/12/15/que-ver-excursion-a-frigiliana/) 
+📍 **Para saber más sobre Frigiliana:** {{< reflink 
+path=posts/2021/12/que-ver-excursion-a-frigiliana >}} 
 
 ### Pueblos de la Axarquía
 
@@ -286,8 +286,8 @@ macetas; o **Sedella**, con su famosa Casa Torreón.
 Otro de los atractivos de la zona es el **embalse de La Viñuela**, un lugar lleno de paz 
 en medio de la montaña perfecto para desconectar del bullicio de la costa. 
 
-📍 **Para saber más sobre la Axarquía:** [Road trip por la Axarquía 
-malagueña](https://etheriamagazine.com/2020/06/19/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga/) 
+📍 **Para saber más sobre la Axarquía:** {{< reflink 
+path=posts/2024/07/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga >}} 
 
 ### Antequera
 
@@ -365,9 +365,8 @@ especies de plantas y cactus de distintos lugares del mundo.
 ✅ **Excursión organizada:** [Senderismo por el Parque Nacional Sierra de las 
 Nieves](https://www.civitatis.com/es/tolox/senderismo-sierra-nieves/?aid=10211). 
 
-📍 **Para saber más:** [Parque Nacional Sierra de las Nieves, una nueva estrella brilla 
-en 
-Málaga](https://etheriamagazine.com/2021/06/26/revista-viajes-que-ver-parque-sierra-de-nieves/). 
+📍 **Para saber más:** {{< reflink 
+path=posts/2021/06/revista-viajes-que-ver-parque-sierra-de-nieves >}}. 
 
 ### Caminito del Rey
 

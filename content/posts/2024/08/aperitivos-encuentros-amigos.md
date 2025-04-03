@@ -1,7 +1,7 @@
 ---
 title: "Aperitivos que sólo requieren de abrir o descorchar para un encuentro con amigos"
 date: 2024-08-11
-coverImage: https://fotos.etheriamagazine.com/2024/08/chips-smoky-paprika.jpg
+cover: https://fotos.etheriamagazine.com/2024/08/chips-smoky-paprika.jpg
 categories: 
   - gourmet
 destino: 
@@ -125,8 +125,6 @@ tienda de la calle Barquillo, en Madrid.
 
 **También en Etheria Magazine** 
 
-[10 productos manchegos de calidad que alegran tu mesa por pocos 
-euros](https://etheriamagazine.com/2023/12/22/productos-manchegos/). 
+{{< reflink path=posts/2023/12/productos-manchegos >}}. 
 
-[Cómo pedir atún en Cádiz como si fueses una 
-experta](https://etheriamagazine.com/2023/10/24/guia-para-pedir-atun-en-cadiz/).
+{{< reflink path=posts/2023/10/guia-para-pedir-atun-en-cadiz >}}.

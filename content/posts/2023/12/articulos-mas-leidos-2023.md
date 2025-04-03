@@ -1,7 +1,7 @@
 ---
 title: "No te pierdas los artículos de Etheria Magazine más leídos en 2023"
 date: 2023-12-26
-coverImage: https://fotos.etheriamagazine.com/2023/12/viajes-2023.jpg
+cover: https://fotos.etheriamagazine.com/2023/12/viajes-2023.jpg
 destino: 
   - España
 authors: 
@@ -35,8 +35,7 @@ viaje](https://clk.tradedoubler.com/click?p=281568&a=3132464&url=https%3A%2F%2Fw
 Con esta guía tendrás muy claro qué elementos son imprescindibles para viajar al país de 
 los faraones. 
 
-✅ [Qué llevar en la maleta en un viaje a 
-Egipto](https://etheriamagazine.com/2023/02/01/que-llevar-en-la-maleta-egipto/) 
+✅ {{< reflink path=posts/2023/02/que-llevar-en-la-maleta-egipto >}} 
 
 ![Pirámide de Kefren en Giza](https://fotos.etheriamagazine.com/2023/08/egipto-cairo-piramides-kefren-chicas.jpg "Pirámide de Khafa (Kefren). © Susana García")
 
@@ -50,8 +49,7 @@ total con la naturaleza y puede disfrutarse durante todo el año. En el artícul
 explicamos cómo es cada cabaña, ya que son todas diferentes. Si vas, seguro que quieres 
 repetir. 
 
-✅ [Iratiko Kabiak, las cabañas en los árboles de la Selva de 
-Irati](https://etheriamagazine.com/2023/10/06/iratiko-kabiak-cabanas-arboles-irati/) 
+✅ {{< reflink path=posts/2023/10/iratiko-kabiak-cabanas-arboles-irati >}} 
 
 ![Cabaña situada en un árbol con las luces del interior encendidas](https://fotos.etheriamagazine.com/2023/10/cabana-arbol-navarra-irati.jpg "Dormir en una cabaña en un árbol es una experiencia inolvidable.")
 
@@ -66,8 +64,7 @@ o San José. Y, por supuesto, sus espacios naturales de película, con el Parque
 de Cabo de Gata-Níjar a la cabeza. Almería tiene tanto que ver que no nos extraña que 
 haya estado entre vuestros favoritos. 
 
-✅ [Descubre los 12 imprescindibles de Almería 
-provincia](https://etheriamagazine.com/2023/07/17/que-ver-almeria-provincia/) 
+✅ {{< reflink path=posts/2023/07/que-ver-almeria-provincia >}} 
 
 ![Mocájar en Almería](https://fotos.etheriamagazine.com/2023/06/almeria-mojacar.jpg "Mocájar. © Turismo de Andalucía.")
 
@@ -80,8 +77,7 @@ animado verano pueblos blancos relucientes como Frigiliana o Mijas y parques nat
 donde escapar del mundo. Con el aliciente de visitar Málaga ciudad, que se ha convertido 
 en uno de los focos de turismo cultural más importantes de España. 
 
-✅ [Una guía para no perderte nada de la provincia de 
-Málaga](https://etheriamagazine.com/2023/03/23/pueblos-que-ver-malaga/) 
+✅ {{< reflink path=posts/2023/03/pueblos-que-ver-malaga >}} 
 
 ![paseo marítimo, puerto y jardines de Málaga](https://fotos.etheriamagazine.com/2023/03/malaga-ayuntamiento-jardines.jpg "Málaga desde la Alcazaba.")
 
@@ -94,9 +90,8 @@ cantidad de actividades que os proponemos para tener unas vacaciones de lo más
 divertidas con los pequeños de la casa: hasta 22 planes y 4 visitas divertidas. Ya 
 veréis como en Getxo no hay lugar para el aburrimiento. 
 
-✅ [Getxo en familia: 22 planes y 4 
-v](https://etheriamagazine.com/2023/05/29/planes-familiares-en-getxo/)[isitas 
-divertidas](https://etheriamagazine.com/2023/05/29/planes-familiares-en-getxo/) 
+✅ {{< reflink path=posts/2023/05/planes-familiares-en-getxo >}}{{< reflink 
+path=posts/2023/05/planes-familiares-en-getxo >}} 
 
 ![Bicicleta acuática con el Puente Bizkaia al fondo.](https://fotos.etheriamagazine.com/2023/05/getxo-water-bikers.jpg "Bicicleta acuática con el Puente Bizkaia al fondo. © Turismo de Getxo.")
 
@@ -109,8 +104,7 @@ otoño e invierno para elegir diez actividades imbatibles, desde visitas a museo
 terrazas de moda o clases de todo tipo. Echa un vistazo al artículo que seguro que 
 encuentras un plan divertido que también puedes disfrutar este 2024. 
 
-✅ [Qué hacer con amigas en Madrid este otoño e 
-invierno](https://etheriamagazine.com/2023/09/07/que-hacer-con-amigas-madrid-otono/) 
+✅ {{< reflink path=posts/2023/09/que-hacer-con-amigas-madrid-otono >}} 
 
 ![Terraza de Casa Suecia, en Madrid](https://fotos.etheriamagazine.com/2023/09/terraza-hotel-suecia.jpg "Terraza de Casa Suecia, en Madrid. © Etheria Magazine")
 
@@ -124,8 +118,7 @@ conocer mejor los pueblos de alrededor, como Vejer, Barbate, Tarifa o Arcos de l
 Frontera, e incluso os contábamos la mejor manera de llegar a la cercana localidad 
 marroquí de Tánger. 
 
-✅ [10 excursiones ideales desde Conil de la 
-Frontera](https://etheriamagazine.com/2023/08/02/mejores-excursiones-desde-conil/) 
+✅ {{< reflink path=posts/2023/08/mejores-excursiones-desde-conil >}} 
 
 ![Playa de Roche, en Conil de la Frontera.](https://fotos.etheriamagazine.com/2023/08/playa-roche-conil.jpg "Playa de Roche, en Conil de la Frontera.")
 
@@ -139,8 +132,7 @@ actividades que se pueden hacer en la isla, como recorrer sus pueblos, hacer esn
 probar su sabrosa gastronomía, aunque os contamos un secreto: casi cualquier cosa que se 
 hace en Formentera tiene muchas papeletas de ser un éxito seguro. 
 
-✅ [Formentera con amigas, planes imprescindibles para una escapada 
-perfecta](https://etheriamagazine.com/2023/04/24/formentera-con-amigas/) 
+✅ {{< reflink path=posts/2023/04/formentera-con-amigas >}} 
 
 ![bahía de Formentera](https://fotos.etheriamagazine.com/2023/04/Formentera-playa-yate.jpg "El mar en Formentera tiene un color azul espectacular. © Turismo de Formentera.")
 
@@ -153,8 +145,7 @@ bellísimos, tanto en la costa como en el interior, que dan para muchos viajes. 
 de los que señalábamos en este reportaje eran la ría de Ribadeo, el bosque de Fraga da 
 Marronda o la Ribeira Sacra, además de pueblos como Foz, O Cebreiro o Mondoñedo. 
 
-✅ [Descubre la belleza de la provincia de Lugo en 15 
-paradas](https://etheriamagazine.com/2023/04/06/pueblos-que-ver-lugo/) 
+✅ {{< reflink path=posts/2023/04/pueblos-que-ver-lugo >}} 
 
 ![Puerto de Ribadeo, en Lugo.](https://fotos.etheriamagazine.com/2023/03/Puerto-Ribadeo-lugo.jpg "Puerto de Ribadeo, en Lugo. © Diputación de Lugo.")
 
@@ -167,7 +158,6 @@ viaje conjunto. En este reportaje os contábamos los lugares que no hay que perd
 cada ciudad, además de incluir una guía práctica con visitas imprescindibles que os será 
 de mucha ayuda. 
 
-✅ [Casablanca y Marrakech, una escapada esencial (y a precio 
-asequible)](https://etheriamagazine.com/2023/05/04/por-que-viajar-casablanca-marrakech/) 
+✅ {{< reflink path=posts/2023/05/por-que-viajar-casablanca-marrakech >}} 
 
 ![Especias y flores secas del zoco de Marrakech.](https://fotos.etheriamagazine.com/2023/05/zoco-marrakech.jpg "Especias y flores secas del zoco de Marrakech. © Pepa García")

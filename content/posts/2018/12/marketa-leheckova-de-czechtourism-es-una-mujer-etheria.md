@@ -1,7 +1,7 @@
 ---
 title: "Markéta Lehečková: \"Viajar te hace establecer nuevos límites de superación\""
 date: 2018-12-03
-coverImage: https://fotos.etheriamagazine.com/2018/11/Marketa-Cesky-Krumlov-mujer-etheria-1.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/Marketa-Cesky-Krumlov-mujer-etheria-1.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -102,10 +102,11 @@ Grecia**.
 
 **8\. ¿Y tu último viaje? ¿Qué es lo que más te ha gustado de ese destino?** 
 
-Mi último viaje ha sido a [Almería](https://etheriamagazine.com/2018/11/15/que-ver-en-almeria-en-temporada-baja/), 
-volví allí después de 14 años. Me encantó el **Parque Natural del Cabo de Gata** con sus 
-playas y pueblos, especialmente Mojácar (en mi familia nos dedicamos a tachar de la 
-lista los considerados ‘Pueblos más bonitos de España’). 
+Mi último viaje ha sido a {{< reflink 
+path=posts/2021/04/que-ver-en-almeria-en-temporada-baja >}}, volví allí después de 14 
+años. Me encantó el **Parque Natural del Cabo de Gata** con sus playas y pueblos, 
+especialmente Mojácar (en mi familia nos dedicamos a tachar de la lista los considerados 
+‘Pueblos más bonitos de España’). 
 
 > Me volvió a impresionar por su extensión el Desierto de Tabernas. Vengo de un país más 
 > bien pequeño y me siguen sorprendiendo las distancias ¡y el tamaño de todo! 
@@ -121,8 +122,9 @@ una escapada a un lugar que estés convencida que no es para ti.
 
 **San Petersburgo** para ver al menos el Hermitage y el Palacio de Invierno. El **Parque 
 Nacional de Ordesa**, que parece impresionante por las fotos que se ven en las revistas 
-de viajes y en redes. Y, también, [Irlanda](https://etheriamagazine.com/2018/07/02/juego-de-tronos-en-irlanda-del-norte/) 
-para coger el coche y perderme por el país. 
+de viajes y en redes. Y, también, {{< reflink 
+path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte >}} para coger el coche y 
+perderme por el país. 
 
 ![Marketa Leheckova es la representante en España de Czech Tourism](https://fotos.etheriamagazine.com/2018/05/10-Calzada-del-Gigante-Juego-de-Tronos-Irlanda-Norte.jpg "Calzada del Gigante (Irlanda del Norte).")
 
@@ -142,12 +144,12 @@ pájaro.
 
 **13\. ¿Qué hotel te ha impresionado más y por qué?** 
 
-Pues, realmente, el que más me ha impresionado ha sido **una cabaña en un árbol** del [resort 
-Green Valley](http://www.green-valley.cz/tree-house/stromovy-dum). Hasta hace poco me 
-consideraba muy urbanita e incapaz de disfrutar de la naturaleza, así que no imaginaba 
-que lo pasaría tan bien en un bosque (con los bichos que conlleva). Era una cabaña de 
-madera con el aseo químico y si te querías duchar debías bajar del árbol a los baños 
-colectivos. Fue fantástico, fantástico, incluso fui capaz de sobrevivir allí a una 
+Pues, realmente, el que más me ha impresionado ha sido **una cabaña en un árbol** del 
+[resort Green Valley](http://www.green-valley.cz/tree-house/stromovy-dum). Hasta hace 
+poco me consideraba muy urbanita e incapaz de disfrutar de la naturaleza, así que no 
+imaginaba que lo pasaría tan bien en un bosque (con los bichos que conlleva). Era una 
+cabaña de madera con el aseo químico y si te querías duchar debías bajar del árbol a los 
+baños colectivos. Fue fantástico, fantástico, incluso fui capaz de sobrevivir allí a una 
 tormenta. 
 
 ![marketa turismo checo](https://fotos.etheriamagazine.com/2018/11/cabaña.jpg "Cabaña a 9 metros de altura en el (©) Resort Green Valley (a unos 50 km de Praga).")

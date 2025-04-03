@@ -1,7 +1,7 @@
 ---
 title: "Qué hay de nuevo en Berlín: hoteles, restaurantes y museos"
 date: 2022-12-07
-coverImage: https://fotos.etheriamagazine.com/2022/12/berlin-atardecer.jpg
+cover: https://fotos.etheriamagazine.com/2022/12/berlin-atardecer.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,18 +10,17 @@ authors:
   - Redacción Etheria
 ---
 
-¿Se necesitan motivos especiales para viajar a Berlín? Realmente, no, porque esta ciudad 
-alemana tiene tanto que ofrecer que siempre apetece revisitar sus clásicos y conocer sus 
-novedades. En esta ocasión te invitamos a descubrir sus últimos hoteles, restaurantes, 
-museos y espacios de bienestar. 
+**¿Se necesitan motivos especiales para viajar a Berlín? Realmente, no, porque esta 
+ciudad alemana tiene tanto que ofrecer que siempre apetece revisitar sus clásicos y 
+conocer sus novedades. En esta ocasión te invitamos a descubrir sus últimos hoteles, 
+restaurantes, museos y espacios de bienestar.** 
 
 ![Un paseo en bicicleta por East Side Gallery, en Berlín.](https://fotos.etheriamagazine.com/2022/12/East-Side-Gallery.jpg "East Side Gallery. © Visit Berlín/ Philip Koschel")
 
 No es la primera vez que recorremos Berlín, pero esta ciudad se transforma tan 
 rápidamente que a veces cuesta reconocer alguno de sus distritos. En anteriores 
-ocasiones hemos visitado sus clásicos turísticos (no te pierdas este artículo: [Berlín, 
-de la caricia al 
-tortazo](https://etheriamagazine.com/2018/11/12/viaje-al-berlin-mas-divertido-interesante-sobrecogedor/)), 
+ocasiones hemos visitado sus clásicos turísticos (no te pierdas este artículo: {{< 
+reflink path=posts/2018/11/viaje-al-berlin-mas-divertido-interesante-sobrecogedor >}}), 
 así que ahora nos detendremos en sus nuevos hoteles, museos y restaurantes. Algunos ya 
 están abiertos y otros lo harán en breve. ¿Nos acompañas? 
 

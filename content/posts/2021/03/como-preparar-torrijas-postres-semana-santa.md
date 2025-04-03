@@ -1,7 +1,7 @@
 ---
 title: "Trucos para preparar torrijas normales y bajas en calorías"
 date: 2021-03-17
-coverImage: https://fotos.etheriamagazine.com/2021/03/torrijas-azucar-canela.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/torrijas-azucar-canela.jpg
 categories: 
   - gourmet
 destino: 
@@ -117,20 +117,17 @@ Si con esta receta tan sencilla no te hemos animado a acercarte a la cocina no t
 preocupes, existen torrijas deliciosas en pastelerías o como postre en muchos 
 restaurantes. Para una torrija clásica no hay nada como una pastelería de toda la vida: 
 en [La Mallorquina](https://pastelerialamallorquina.es/), en Madrid, te comerás una de 
-esas que saben a casa de la abuela. Si quieres alguna propuesta más innovadora, la [Pastelería 
-Mallorca](https://www.pasteleria-mallorca.com/), además de sus torrijas tradicionales, 
-siempre añade algunas variantes. Si estás en Sevilla, puedes comprar las de **Manu 
-Jara** (manujara.com) y en Málaga las de **La Canasta** (lacanasta.es). 
+esas que saben a casa de la abuela. Si quieres alguna propuesta más innovadora, la 
+[Pastelería Mallorca](https://www.pasteleria-mallorca.com/), además de sus torrijas 
+tradicionales, siempre añade algunas variantes. Si estás en Sevilla, puedes comprar las 
+de **Manu Jara** (manujara.com) y en Málaga las de **La Canasta** (lacanasta.es). 
 
 ![Torrija con salsa de café y helado de leche merengada de La Terraza de Santo Domingo.](https://fotos.etheriamagazine.com/2021/03/Torrija-La-Terraza-del-Santo-Domingo.jpg "Torrija con salsa de café y helado de leche merengada de © La Terraza de Santo Domingo.")
 
 **También te puede interesar** 
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo.](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/) 
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}} 
 
-[Postres de chocolate con efecto terapéutico en 
-Madrid.](https://etheriamagazine.com/2020/09/11/donde-tomar-mejores-postres-chocolate-en-madrid/) 
+{{< reflink path=posts/2020/09/donde-tomar-mejores-postres-chocolate-en-madrid >}} 
 
-[Ruta por los licores de 
-monasterio.](https://etheriamagazine.com/2020/04/29/viajes-espana-ruta-por-los-licores-de-monasterio/)
+{{< reflink path=posts/2020/04/viajes-espana-ruta-por-los-licores-de-monasterio >}}

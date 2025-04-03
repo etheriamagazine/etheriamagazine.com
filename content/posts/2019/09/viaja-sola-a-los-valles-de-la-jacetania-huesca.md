@@ -1,7 +1,7 @@
 ---
 title: "Los valles de la Jacetania, las 'joyicas' del Pirineo aragonés"
 date: 2019-09-25
-coverImage: https://fotos.etheriamagazine.com/2019/09/Jacetania-puerto-somport.jpg
+cover: https://fotos.etheriamagazine.com/2019/09/Jacetania-puerto-somport.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -100,7 +100,7 @@ finales de agosto. Aunque tampoco estaría mal hacer las visitas en Halloween, q
 preparan una edición especial más terrorífica. Al salir, camina hasta el coqueto casco 
 viejo del pueblo. 
 
-[![Interior de la Cueva de las Güixas en la Jacetania](https://fotos.etheriamagazine.com/2019/09/Jacetania-guixas.jpg "Interior de la Cueva de las Güixas.")](https://etheriamagazine.com/2019/09/25/viaja-sola-a-los-valles-de-la-jacetania-huesca/jacetania-guixas/)
+{{< reflink path=posts/2019/09/viaja-sola-a-los-valles-de-la-jacetania-huesca >}}
 
 ## Canfranc, la historia de una estación
 
@@ -188,11 +188,9 @@ Jacetania.
 
 **También te puede interesar:** 
 
-[Valle de Chistau, descubre las mejores rutas en el cielo 
-aragonés](https://etheriamagazine.com/2021/12/07/valle-de-chistau-huesca/) 
+{{< reflink path=posts/2021/12/valle-de-chistau-huesca >}} 
 
-[8 escapadas en la provincia de 
-Zaragoza](https://etheriamagazine.com/2020/06/08/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza/) 
+{{< reflink path=posts/2020/06/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza 
+>}} 
 
-[La comarca del Matarranya, una joya entre tres 
-provincias](https://etheriamagazine.com/2019/07/16/que-hacer-en-matarranya-piscinas-naturales-verano/)
+{{< reflink path=posts/2019/07/que-hacer-en-matarranya-piscinas-naturales-verano >}}

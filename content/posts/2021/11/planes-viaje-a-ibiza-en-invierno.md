@@ -1,7 +1,7 @@
 ---
 title: "15 planes en Ibiza que puedes hacer en invierno"
 date: 2021-11-05
-coverImage: https://fotos.etheriamagazine.com/2021/10/cala-ibiza-con-amigas.jpg
+cover: https://fotos.etheriamagazine.com/2021/10/cala-ibiza-con-amigas.jpg
 categories: 
   - viajar-en-pareja
   - ocio
@@ -11,9 +11,9 @@ authors:
   - Nuria Cortés
 ---
 
-Descubre todo lo que puedes ver y hacer en Ibiza en invierno y organiza una escapada con 
-tu pareja o con esa amiga con la que siempre lo pasas tan bien. Aquí encontramos 15 
-planes que puedes hacer en temporada baja y con los que lo pasarás en grande. 
+**Descubre todo lo que puedes ver y hacer en Ibiza en invierno y organiza una escapada 
+con tu pareja o con esa amiga con la que siempre lo pasas tan bien. Aquí encontramos 15 
+planes que puedes hacer en temporada baja y con los que lo pasarás en grande.** 
 
 ![puerta dalt vila ibiza](https://fotos.etheriamagazine.com/2021/11/casa-dalt-vila.jpg "Puerta de Dalt Villa, Ibiza. © P. García")
 
@@ -22,10 +22,10 @@ conocer la otra Ibiza, más tranquila y auténtica, aquella que se disfruta a tr
 paseos, actividades deportivas, gastronomía de la buena y visitas culturales. La mayor 
 de las islas Pitiusas ofrece **más de 300 días de sol anuales** y un clima suave, por lo 
 que siempre resulta buena idea hacer una escapada romántica en pareja a Ibiza (no te 
-pierdas los [mejores restaurantes en Ibiza para una cena 
-especial](https://etheriamagazine.com/2020/02/14/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja/)) 
-o disfrutar de unos días en la isla con esa amiga con la que siempre te lo pasas tan 
-bien. Seguro que hay mucho sobre lo que ponerse al día… 
+pierdas los {{< reflink 
+path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja >}}) o 
+disfrutar de unos días en la isla con esa amiga con la que siempre te lo pasas tan bien. 
+Seguro que hay mucho sobre lo que ponerse al día… 
 
 ![calas ibiza invierno](https://fotos.etheriamagazine.com/2021/10/cala-ibiza-con-amigas.jpg "Aprovecha las calas de Ibiza en invierno, con apenas turistas. © Alex Kulikov")
 
@@ -164,11 +164,8 @@ Antoni, cala d´Hort, Cala Molí, Cala Tarida, Punta Galera, desde lo alto de Sa
 
 ### También te puede interesar...
 
-[10 errores que debes evitar si vas a Ibiza con 
-amigas](https://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/) 
+{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}} 
 
-[Playas de Menorca, una completa guía para 
-principiantes](https://etheriamagazine.com/2020/08/14/guia-mejores-playas-calas-menorca/) 
+{{< reflink path=posts/2020/08/guia-mejores-playas-calas-menorca >}} 
 
-[Zambúllete en la mejor guía de playas de 
-Formentera](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-playas-formentera/)
+{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}

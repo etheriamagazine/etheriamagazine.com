@@ -1,7 +1,7 @@
 ---
 title: "La “pasión india” de Anita Delgado: una vida de película"
 date: 2020-04-13
-coverImage: https://fotos.etheriamagazine.com/2020/04/boda-india.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/boda-india.jpg
 categories: 
   - historias
   - cultura
@@ -161,11 +161,8 @@ en versión Kindle de Amazon), de Javier Moro.
 
 ### También te puede interesar:
 
-[Mujeres viajeras que, rompiendo moldes, hicieron las 
-maletas](https://etheriamagazine.com/2022/03/08/mujeres-viajeras-de-la-historia/) 
+{{< reflink path=posts/2022/03/mujeres-viajeras-de-la-historia >}} 
 
-[Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
-‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/) 
+{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}} 
 
-[Escenarios poéticos y atormentados de la vida de Frida 
-Kahlo](https://etheriamagazine.com/2021/02/15/biografia-y-ruta-frida-kahlo-mexico/)
+{{< reflink path=posts/2021/02/biografia-y-ruta-frida-kahlo-mexico >}}

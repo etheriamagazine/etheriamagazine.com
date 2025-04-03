@@ -1,7 +1,7 @@
 ---
 title: "Aix-en-Provence, descubre el paraíso de Cézanne con tus mejores amigas"
 date: 2020-01-03
-coverImage: https://fotos.etheriamagazine.com/2019/12/etheria-magazine-pabellon-vendome.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/etheria-magazine-pabellon-vendome.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -57,18 +57,18 @@ en 2021 como un espacio cultural consagrado a su figura.
 
 ### El Atelier Cézanne
 
-Si en **_Jas de Bouffah_** transcurrieron los primeros años de su genio artístico, el [Atelier 
-Cézanne](http://www.cezanne-en-provence.com/) supuso el refugio y la consagración de su 
-última y fértil etapa. Construido sobre unos terrenos que adquirió en 1901 en la suave 
-colina de _Les Lauves_, el taller es visita obligada. Su interior se conserva intacto, 
-tal y como quedó tras su repentina muerte, ya anciano, por neumonía después de que 
-pasara horas pintando al aire libre bajo la lluvia. Un gran ventanal, orientado al 
-norte, ilumina este evocador espacio, privilegiado testigo de su genialidad. Aquí 
-nacieron muchas de sus obras, como la emblemática **_“Les Grandes Baigneuses”_**_._ 
-Paredes grises de altos techos contienen los muebles, herramientas y objetos originales. 
-Atriles, escaleras, paletas, pinceles, libros, sus batas, sombreros… así como numerosas 
-piezas de _atrezzo_ para sus lienzos: cráneos, botellas, moldes, un frutero blanco, 
-maniquíes articulados de madera, piezas de porcelana, etc. 
+Si en **_Jas de Bouffah_** transcurrieron los primeros años de su genio artístico, el 
+[Atelier Cézanne](http://www.cezanne-en-provence.com/) supuso el refugio y la 
+consagración de su última y fértil etapa. Construido sobre unos terrenos que adquirió en 
+1901 en la suave colina de _Les Lauves_, el taller es visita obligada. Su interior se 
+conserva intacto, tal y como quedó tras su repentina muerte, ya anciano, por neumonía 
+después de que pasara horas pintando al aire libre bajo la lluvia. Un gran ventanal, 
+orientado al norte, ilumina este evocador espacio, privilegiado testigo de su 
+genialidad. Aquí nacieron muchas de sus obras, como la emblemática **_“Les Grandes 
+Baigneuses”_**_._ Paredes grises de altos techos contienen los muebles, herramientas y 
+objetos originales. Atriles, escaleras, paletas, pinceles, libros, sus batas, sombreros… 
+así como numerosas piezas de _atrezzo_ para sus lienzos: cráneos, botellas, moldes, un 
+frutero blanco, maniquíes articulados de madera, piezas de porcelana, etc. 
 
 > Existe una ruta que recorre los lugares más significativos en la vida del pintor. La 
 > casa natal, las escuelas, los cafés… El itinerario, marcado por unas tachuelas con una 
@@ -146,7 +146,8 @@ conocida como **“la del Musgo”**, entre otras.
 
 ![Frutas, flores, artesanía y jabones se pueden adquirir en los mercados de la ciudad.](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-mercados-francia.jpg "Frutas, flores, artesanía y jabones se pueden adquirir en los mercados de la ciudad. ©Yolanda Cardo")
 
-Los días de [mercado](https://www.aixenprovencetourism.com/es/vivir/mercados-del-centro/), 
+Los días de 
+[mercado](https://www.aixenprovencetourism.com/es/vivir/mercados-del-centro/), 
 prácticamente todos, _Aix-en-Provence_ se inunda de coloridos puestos colmados de 
 frutas, verduras, quesos y embutidos, vinos y licores, jabones, textiles, libros, 
 artesanía y antigüedades. Es la ocasión perfecta para deambular por el entramado de sus 
@@ -205,8 +206,6 @@ muchas charlas con su gran amigo Émile Zola.
 
 ### También te puede interesar...
 
-[10 viajes para disfrutar de la buena vida en 
-Francia](https://etheriamagazine.com/2020/09/02/mejores-destinos-para-viajar-en-francia/). 
+{{< reflink path=posts/2020/09/mejores-destinos-para-viajar-en-francia >}}. 
 
-[10 viajes con amigas por 
-Europa](https://etheriamagazine.com/2020/03/03/10-viajes-con-amigas-por-europa/).
+{{< reflink path=posts/2020/03/10-viajes-con-amigas-por-europa >}}.

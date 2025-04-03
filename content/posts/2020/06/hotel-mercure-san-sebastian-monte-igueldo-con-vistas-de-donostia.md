@@ -1,7 +1,7 @@
 ---
 title: "Mercure San Sebastián Monte Igueldo, las mejores vistas de Donostia"
 date: 2020-06-25
-coverImage: https://fotos.etheriamagazine.com/2020/06/Portada-Mercure-San-Sebastian.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/Portada-Mercure-San-Sebastian.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-El Mercure San Sebastián Monte Igueldo es uno de los hoteles con mejores vistas de la 
+**El Mercure San Sebastián Monte Igueldo es uno de los hoteles con mejores vistas de la 
 capital guipuzcoana. Su decoración estilo _Belle Époque_, la amplitud de sus 
 habitaciones y su excelente oferta culinaria lo convierten en una gran elección en 
-Donostia tanto si se viaja en pareja como en familia. 
+Donostia tanto si se viaja en pareja como en familia.** 
 
 ![Salón con vistas en el Mercure San Sebastian Monte Igueldo](https://fotos.etheriamagazine.com/2020/06/Portada-Mercure-San-Sebastian.jpg "Salón principal del Mercure San Sebastián Monte Igueldo.")
 
@@ -107,13 +107,19 @@ frontón!
 
 ### Visitas guiadas por San Sebastián a buen precio
 
-• [Free tour 
+- [Free tour 
 gratuito](https://www.civitatis.com/es/san-sebastian/free-tour-san-sebastian/?aid=10211) 
-por el casco antiguo y sus principales monumentos. Gratuito. • [Visita guiada por San 
+por el casco antiguo y sus principales monumentos. Gratuito. 
+
+- [Visita guiada por San 
 Sebastián](https://www.civitatis.com/es/san-sebastian/visita-guiada-san-sebastian/?aid=10211) 
-desde unos 12 €. • [Free tour de la Belle Epoque en San 
+desde unos 12 €. 
+
+- [Free tour de la Belle Epoque en San 
 Sebastián](https://www.civitatis.com/es/san-sebastian/free-tour-belle-epoque/?aid=10211). 
-Gratuito. • [Tour por los pueblos 
+Gratuito. 
+
+- [Tour por los pueblos 
 costeros](https://www.civitatis.com/es/san-sebastian/tour-costa-guipuzcoa/?aid=10211). 
 50€. 
 
@@ -137,8 +143,8 @@ Precio de habitación doble desde 120 Euros.
 
 📌 **También te puede interesar:** 
 
-[Planes para un fin de semana en San Sebastián: seguro que no te 
-aburres](https://etheriamagazine.com/2021/04/01/que-ver-hacer-en-san-sebastian/) 
+{{< reflink path=posts/2021/04/que-ver-hacer-en-san-sebastian >}} 
 
-[Descubre los mejores bares de pintxos de San Sebastián para ir con 
-amigas](https://etheriamagazine.com/2019/11/08/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas/)
+{{< reflink 
+path=posts/2019/11/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas 
+>}}

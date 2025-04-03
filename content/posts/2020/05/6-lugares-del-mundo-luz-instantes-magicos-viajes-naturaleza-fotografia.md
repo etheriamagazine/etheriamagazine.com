@@ -1,7 +1,7 @@
 ---
 title: "6 maravillas del mundo para apasionadas de la luz"
 date: 2020-05-04
-coverImage: https://fotos.etheriamagazine.com/2020/04/viajar-sola-islas-lofoten.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/viajar-sola-islas-lofoten.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Cada viaje es una oportunidad para descubrir la danza de colores que pinta el cielo al 
+**Cada viaje es una oportunidad para descubrir la danza de colores que pinta el cielo al 
 amanecer y al ocaso. Estos momentos se convierten en recuerdos imborrables que quedan 
 grabados en nuestra memoria y nos impulsan a esperar pacientemente el momento de partir 
-de nuevo. 
+de nuevo.** 
 
 ![Búfalo en el Delta del Okavango.](https://fotos.etheriamagazine.com/2020/04/delta-okavango-bufalo.jpg "Búfalo en el Delta del Okavango.")
 
@@ -92,10 +92,10 @@ del tiempo al ver como la luz cambia sus perfiles.
 Frente al irlandés condado de Kerry, las islas Skellig supusieron el fin del mundo 
 conocido hasta el Medievo. Sus perfiles, agrestes como pirámides, suponían el territorio 
 más occidental y sus siluetas rocosas una señal de conexión con el más allá. Al menos 
-para la comunidad de monjes ascetas que habitó en [**Skellig 
-Michael**,](https://etheriamagazine.com/2019/09/05/como-organizar-excursion-precio-islas-skellig-michael-irlanda/) 
-la principal de las dos pequeñas islas. Hoy día se han convertido en un atractivo 
-destino turístico, al que el mar del Norte no deja acercarse fácilmente y mucho menos 
+para la comunidad de monjes ascetas que habitó en {{< reflink 
+path=posts/2019/09/como-organizar-excursion-precio-islas-skellig-michael-irlanda >}} la 
+principal de las dos pequeñas islas. Hoy día se han convertido en un atractivo destino 
+turístico, al que el mar del Norte no deja acercarse fácilmente y mucho menos 
 desembarcar por la mala climatología que gobierna el entorno. Bajo las **luces de 
 tormenta** parecen el enclave perfecto para aprender de la dificultad y vivir más 
 alineados con la naturaleza. 
@@ -123,11 +123,9 @@ que ha sido declarado **Paraíso Starlight.**
 
 **También te puede interesar...** 
 
-[Islas Skellig, el enigmático escenario de Star 
-Wars](https://etheriamagazine.com/2019/09/05/como-organizar-excursion-precio-islas-skellig-michael-irlanda/) 
+{{< reflink 
+path=posts/2019/09/como-organizar-excursion-precio-islas-skellig-michael-irlanda >}} 
 
-[8 maravillosas cataratas del mundo para 
-soñar](https://etheriamagazine.com/2020/12/04/mejores-cataratas-del-mundo/). 
+{{< reflink path=posts/2020/12/mejores-cataratas-del-mundo >}}. 
 
-[Ruta por los mejores faros de 
-Cantabria](https://etheriamagazine.com/2020/05/18/viaje-a-los-mejores-faros-de-cantabria/)
+{{< reflink path=posts/2020/05/viaje-a-los-mejores-faros-de-cantabria >}}

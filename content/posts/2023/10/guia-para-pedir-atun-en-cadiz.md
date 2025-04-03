@@ -1,7 +1,7 @@
 ---
 title: "Cómo pedir atún en Cádiz como si fueses una experta"
 date: 2023-10-24
-coverImage: https://fotos.etheriamagazine.com/2023/10/sashimi-atun-palillos.jpg
+cover: https://fotos.etheriamagazine.com/2023/10/sashimi-atun-palillos.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -13,12 +13,12 @@ authors:
   - Susana García
 ---
 
-La costa gaditana rebosa atractivos. Uno de los que más se ha puesto en valor en los 
+**La costa gaditana rebosa atractivos. Uno de los que más se ha puesto en valor en los 
 últimos tiempos es el gastronómico, sobre todo el que aparece con la forma del codiciado 
 atún rojo de almadraba. Las cartas de muchos restaurantes pueden llegar incluso a 
 intimidar si no eres un habitual de la provincia, así que en este artículo te contamos 
 cómo pedir atún en Cádiz y todo lo que tienes que saber sobre este suculento túnido para 
-que elijas con propiedad el plato que mejor se adapte a tus gustos. 
+que elijas con propiedad el plato que mejor se adapte a tus gustos.** 
 
 ![Tartar de atún picante con mango del restaurante Nacarum de El Palmar.](https://fotos.etheriamagazine.com/2023/10/Nacarum-atun-picante-con-mango.jpg "Tartar de atún picante con mango del restaurante @ Nacarum de El Palmar.")
 
@@ -153,16 +153,15 @@ homónima, las buenas vistas maridan a la perfección con sus platos de atún. S
 Conil también encontrarás: **Cooking Almadraba** (plaza Blas Infante), especializado en 
 atún, y **Malabata** (calle Almadraba, 1) que se ha ganado el aprecio de los amantes de 
 la cocina popular renovada. Para seguir descubriendo la gastronomía de este precioso 
-pueblo blanco, echa un vistazo al artículo ✅ [Dónde comer bien en Conil de la 
-Frontera](https://etheriamagazine.com/2022/07/22/donde-comer-bien-conil-de-la-frontera/), 
-con bares y restaurantes recomendados. 
+pueblo blanco, echa un vistazo al artículo ✅ {{< reflink 
+path=posts/2022/07/donde-comer-bien-conil-de-la-frontera >}}, con bares y restaurantes 
+recomendados. 
 
 ### El Palmar
 
-Ya dedicamos un reportaje a los restaurantes de El Palmar de Vejer ( ✅ [Restaurantes en 
-El Palmar para comer muy 
-bien](https://etheriamagazine.com/2021/07/26/restaurantes-en-el-palmar-cadiz-para-comer-muy-bien/)). 
-Entre ellos, establecimientos como El Alférez, Casa Juan, Nacarum o Francisco son de los 
+Ya dedicamos un reportaje a los restaurantes de El Palmar de Vejer ( ✅ {{< reflink 
+path=posts/2021/07/restaurantes-en-el-palmar-cadiz-para-comer-muy-bien >}}). Entre 
+ellos, establecimientos como El Alférez, Casa Juan, Nacarum o Francisco son de los 
 mejores lugares de la provincia para probar buen atún. [El 
 Alférez](https://www.restauranteelalferez.com/) tiene carta independiente de atún rojo, 
 con numerosas opciones de atún en crudo, y sus _Bocaditos de atún con manteca colorá_ te 
@@ -207,13 +206,10 @@ rojo; o la taberna **El Lola Tarifa**, perfecta para tapear con platos de atún.
 
 📌 **También te puede interesar:** 
 
-[La mejor guía de Cádiz provincia para organizar tu 
-viaje](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/) 
+{{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}} 
 
-[10 paradas imprescindibles en las ruinas romanas de 
-Ba](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/)[elo 
-Claudia (Bolonia, 
-Cádiz)](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/) 
+{{< reflink path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia 
+>}}{{< reflink 
+path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}} 
 
-[Cádiz, tras las huellas de su legado 
-andalusí](https://etheriamagazine.com/2019/05/20/viajar-con-amigas-que-hacer-en-cadiz/)
+{{< reflink path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}}

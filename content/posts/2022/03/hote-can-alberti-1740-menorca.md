@@ -1,7 +1,7 @@
 ---
 title: "Can Albertí 1740, un hotel para vivir Menorca de una forma diferente"
 date: 2022-03-16
-coverImage: https://fotos.etheriamagazine.com/2022/03/Can-Alberti-azotea.jpg
+cover: https://fotos.etheriamagazine.com/2022/03/Can-Alberti-azotea.jpg
 categories: 
   - hoteles
 destino: 
@@ -84,11 +84,8 @@ de una habitación doble para dos desde 184,40 Euros.
 
 ### También te puede interesar:
 
-[Descubre la sorprendente y variada arquitectura de 
-Menorca](https://etheriamagazine.com/2020/12/08/visitas-originales-de-arquitectura-en-menorca/) 
+{{< reflink path=posts/2020/12/visitas-originales-de-arquitectura-en-menorca >}} 
 
-[Playas de Menorca, una completa guía para 
-principiantes](https://etheriamagazine.com/2020/08/14/guia-mejores-playas-calas-menorca/) 
+{{< reflink path=posts/2020/08/guia-mejores-playas-calas-menorca >}} 
 
-[15 tips para disfrutar de Menorca fuera de 
-temporada](https://etheriamagazine.com/2018/11/05/15-tips-para-disfrutar-de-menorca-fuera-de-temporada/)
+{{< reflink path=posts/2018/11/15-tips-para-disfrutar-de-menorca-fuera-de-temporada >}}

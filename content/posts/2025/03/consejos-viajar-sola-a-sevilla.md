@@ -1,7 +1,7 @@
 ---
 title: "Viajar sola a Sevilla, una experiencia que no puedes perderte"
 date: 2025-03-13
-coverImage: https://fotos.etheriamagazine.com/2025/03/sevilla-plaza-espana.jpg
+cover: https://fotos.etheriamagazine.com/2025/03/sevilla-plaza-espana.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -124,7 +124,8 @@ _domus_, como la Casa de Neptuno y la Casa de los Pájaros.
 ![Yacimiento arqueológico de Itálica.](https://fotos.etheriamagazine.com/2025/03/sevilla-italica.jpg "Yacimiento arqueológico de Itálica. © Turismo de Andalucía")
 
 Puedes acudir por tu cuenta en autobús desde la Plaza de Armas, en coche de alquiler o 
-en taxi. O, por qué no, en una excursión organizada, como la que ofrece [Civitatis](https://www.civitatis.com/es/sevilla/excursion-italica/?aid=10211). 
+en taxi. O, por qué no, en una excursión organizada, como la que ofrece 
+[Civitatis](https://www.civitatis.com/es/sevilla/excursion-italica/?aid=10211). 
 
 ## Consejos para viajar sola a Sevilla
 
@@ -148,8 +149,8 @@ mismas circunstancias. Algunas de las visitas guiadas que ofrece Civitatis son:
 
 [Tour de los misterios y leyendas de 
 Sevilla](https://www.civitatis.com/ar/sevilla/tour-nocturno-sevilla/?aid=10211). [Free 
-tour por Triana](https://www.civitatis.com/ar/sevilla/free-tour-triana/?aid=10211). [Paseo 
-en barco por 
+tour por Triana](https://www.civitatis.com/ar/sevilla/free-tour-triana/?aid=10211). 
+[Paseo en barco por 
 Sevilla](https://www.civitatis.com/es/sevilla/paseo-yate-sevilla/?aid=10211). 
 
 ![Barcos para paseos por el Guadalquivir frente a la Torre del Oro.](https://fotos.etheriamagazine.com/2025/03/sevilla-guadalquivir.jpg "Barcos para paseos por el Guadalquivir frente a la Torre del Oro.")
@@ -170,11 +171,8 @@ caminando hasta el hotel, la mejor opción es siempre pedir un taxi.
 
 **También te puede interesar:** 
 
-[10 planes originales con amigas en 
-Sevilla](https://etheriamagazine.com/2020/09/28/10-mejores-planes-en-sevilla-con-amigas-o-pareja/) 
+{{< reflink path=posts/2020/09/10-mejores-planes-en-sevilla-con-amigas-o-pareja >}} 
 
-[Bares, terrazas y restaurantes de alta cocina en el sevillano Barrio de Santa 
-Cruz](https://etheriamagazine.com/2023/09/04/tapeo-barrio-santa-cruz-sevilla/) 
+{{< reflink path=posts/2023/09/tapeo-barrio-santa-cruz-sevilla >}} 
 
-[Sevilla, la escapada perfecta a la 
-andaluza](https://etheriamagazine.com/2019/02/04/viajar-con-amigas-sevilla/)
+{{< reflink path=posts/2019/02/viajar-con-amigas-sevilla >}}

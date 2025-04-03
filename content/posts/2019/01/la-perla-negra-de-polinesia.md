@@ -1,7 +1,7 @@
 ---
 title: "Fakarava, el paraíso de la perla negra de Polinesia"
 date: 2019-01-08
-coverImage: https://fotos.etheriamagazine.com/2019/01/Polinesia-francesa-perlas-negras-4.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/Polinesia-francesa-perlas-negras-4.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -178,30 +178,28 @@ Las pensiones o “villages” son la forma de estancia de Fakarava. Cada una ti
 encanto particular y el rasgo común de la familiaridad y hospitalidad de los 
 propietarios. 
 
-**• Pensión Tokerau Village**. Situada a la misma orilla del mar en Rotoava al lado de 
+**- Pensión Tokerau Village**. Situada a la misma orilla del mar en Rotoava al lado de 
 la entrada norte del atolón: Garuae. Los dueños, la familia Bordes, son excelentes 
 cocineros y la comida casera a base de pescado y verduras es exquisita. Tienen servicio 
 de buceo con monitor. Cuenta con 4 bungalows y media pensión. 
 
-• **Pensión Tetamanu Village**. La única donde alojarse y conocer el pueblo de Tetamanu 
+- **Pensión Tetamanu Village**. La única donde alojarse y conocer el pueblo de Tetamanu 
 en la entrada sur del atolón: Tumakohua. Tiene 6 bungalows a modo de palafitos sobre el 
 agua. 
 
-• **Hotel Le Matai Dream Fakarava**. Situado al lado de la playa de la entrada norte en 
+- **Hotel Le Matai Dream Fakarava**. Situado al lado de la playa de la entrada norte en 
 Rotoava, cuenta con todas las facilidades modernas y una gastronomía franco-polinesia 
 deliciosa, amenizada por los cantos polinesios y por su baile popular el tamuré. 
 
 ### Más información
 
-• [Visita a la granja de perlas de 
+- [Visita a la granja de perlas de 
 Hinano](https://tahititourisme.com/en-us/business/hinano-pearls/). 
 
-• **Museo de Perlas de Papeete** (robertwan.com). 
+- **Museo de Perlas de Papeete** (robertwan.com). 
 
 **También te puede interesar:** 
 
-[Islas Maldivas, mucho más que un destino para lunas de 
-miel](https://etheriamagazine.com/2021/03/23/guia-que-hacer-en-maldivas-buceo-surf/) 
+{{< reflink path=posts/2021/03/guia-que-hacer-en-maldivas-buceo-surf >}} 
 
-[Si quieres a tu pareja no viajes a 
-Bali](https://etheriamagazine.com/2019/07/23/luna-miel-bali-maldicion-ruptura/)
+{{< reflink path=posts/2019/07/luna-miel-bali-maldicion-ruptura >}}

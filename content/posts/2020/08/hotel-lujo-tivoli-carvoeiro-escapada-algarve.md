@@ -1,7 +1,7 @@
 ---
 title: "Hotel Tivoli Carvoeiro, tu escondite secreto en el Algarve"
 date: 2020-08-05
-coverImage: https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoeiro-sky-bar.jpg
+cover: https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoeiro-sky-bar.jpg
 categories: 
   - hoteles
 destino: 
@@ -126,18 +126,17 @@ recorrido por la fábrica de cerámica de Porches, que rápidamente identificar�
 adornan muchos rincones del hotel. ¡No te las pierdas! 
 
 [Hotel Tivoli Cavoeiro](https://www.tivolihotels.com/es/tivoli-carvoeiro) Habitación 
-doble desde 100 Euros la noche. Apartado 1299 - Vale do Covo. Praia do Carvoeiro, Lagoa, 
-Portugal Tel. (+351) 282 351 100 
+doble desde 100 Euros la noche. Apartado 1299 
+
+- Vale do Covo. Praia do Carvoeiro, Lagoa, Portugal Tel. (+351) 282 351 100 
 
 Fotografías cedidas por © Hoteles Tívoli. 
 
 ### También te puede interesar:
 
-[Algarve con amigas: 6 experiencias que no puedes 
-perderte](https://etheriamagazine.com/2021/10/07/planes-imprescindibles-algarve-con-amigas/) 
+{{< reflink path=posts/2021/10/planes-imprescindibles-algarve-con-amigas >}} 
 
-[18 experiencias si viajas sola al 
-Algarve](https://etheriamagazine.com/2020/08/07/18-experiencias-si-viajas-sola-al-algarve/) 
+{{< reflink path=posts/2020/08/18-experiencias-si-viajas-sola-al-algarve >}} 
 
-[Playas del Algarve, descubre sus tesoros menos 
-masificados](https://etheriamagazine.com/2020/06/19/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve/)
+{{< reflink path=posts/2020/06/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve 
+>}}

@@ -1,7 +1,7 @@
 ---
 title: "Planes secretos en Benidorm más allá de ir a la playa o tomar el sol"
 date: 2021-03-26
-coverImage: https://fotos.etheriamagazine.com/2021/03/benidorm-rascacielos.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/benidorm-rascacielos.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -160,11 +160,9 @@ Más planes originales de Benidorm en su [site oficial.](https://www.visitbenido
 
 ### También te puede interesar...
 
-[Planes originales para disfrutar de Valencia con 
-amigas](https://etheriamagazine.com/2020/09/18/planes-originales-valencia-con-amigas/). 
+{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}}. 
 
-[Pescaturismo en Castellón, un plan original para 
-2021](https://etheriamagazine.com/2021/01/12/pescaturismo-en-castellon-plan-original-familias-amigos/). 
+{{< reflink path=posts/2021/01/pescaturismo-en-castellon-plan-original-familias-amigos 
+>}}. 
 
-[8 excursiones con niños en 
-Alicante](https://etheriamagazine.com/2020/05/28/8-excursiones-con-ninos-en-alicante/).
+{{< reflink path=posts/2020/05/8-excursiones-con-ninos-en-alicante >}}.

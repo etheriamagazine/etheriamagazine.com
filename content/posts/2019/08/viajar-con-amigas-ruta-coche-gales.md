@@ -1,7 +1,7 @@
 ---
 title: "Ruta en coche con amigas en Gales"
 date: 2019-08-23
-coverImage: https://fotos.etheriamagazine.com/2019/08/Gales-Tenby.jpg
+cover: https://fotos.etheriamagazine.com/2019/08/Gales-Tenby.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -162,21 +162,21 @@ con buenas ofertas.
 
 ##### Dónde comer
 
-• [Chapel 1877](https://chapel1877.com). Esta capilla victoriana, decorada con 
+- [Chapel 1877](https://chapel1877.com). Esta capilla victoriana, decorada con 
 candelabros y vidrieras, alberga un restaurante especializado en solomillo y lenguado. 
 Cardiff. 
 
-• [Restaurant Blas](https://twryfelinhotel.com/dining/) at the Twr y Felin Hotel, AA Two 
+- [Restaurant Blas](https://twryfelinhotel.com/dining/) at the Twr y Felin Hotel, AA Two 
 Rosette año 2017-18. Hotel hermano de Roch Castle, ofrece un exquisito menú estacional 
 de gastronomía galesa. St. David's. 
 
-• [Hotel Browns](https://www.browns.wales). No se puede dejar Gales sin tomar una espesa 
+- [Hotel Browns](https://www.browns.wales). No se puede dejar Gales sin tomar una espesa 
 pinta brindando por el matrimonio Thomas en el lugar donde tantas veces ellos alzaron la 
 copa. Laugharne. 
 
 ##### Excursiones y visitas guiadas
 
-• [Free tour en Cardiff y excursiones en 
+- [Free tour en Cardiff y excursiones en 
 Gales](https://www.civitatis.com/es/gales/?aid=10211) desde 0 €. 
 
 ##### Más información
@@ -185,11 +185,9 @@ Gales](https://www.civitatis.com/es/gales/?aid=10211) desde 0 €.
 
 ### También te puede interesar:
 
-[De road trip por los Cotswolds, un viaje al corazón de 
-Inglaterra](https://etheriamagazine.com/2019/08/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra/) 
+{{< reflink 
+path=posts/2019/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}} 
 
-[Admira cinco de los mejores jardines de Gran 
-Bretaña](https://etheriamagazine.com/2021/04/22/los-mejores-jardines-de-gran-bretana/) 
+{{< reflink path=posts/2021/04/los-mejores-jardines-de-gran-bretana >}} 
 
-[Highlands o Tierras Altas de Escocia, una guía básica para recorrerlas por 
-libre](https://etheriamagazine.com/2020/09/10/mejor-ruta-3-dias-highlands-tierras-altas-escocia/)
+{{< reflink path=posts/2020/09/mejor-ruta-3-dias-highlands-tierras-altas-escocia >}}

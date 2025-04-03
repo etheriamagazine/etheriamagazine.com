@@ -1,7 +1,7 @@
 ---
 title: "Península de Osa, planes con corazón en el último rincón de Costa Rica"
 date: 2022-11-30
-coverImage: https://fotos.etheriamagazine.com/2022/11/costa-rica-caminos-de-osa-1.jpg
+cover: https://fotos.etheriamagazine.com/2022/11/costa-rica-caminos-de-osa-1.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Etheria Magazine
 ---
 
-Eida Fletes es una mujer de corazón y una gran embajadora de la Península de Osa. Esta 
+**Eida Fletes es una mujer de corazón y una gran embajadora de la Península de Osa. Esta 
 empresaria de Costa Rica desarrolla su vida y su actividad en el entorno del Parque 
 Nacional de Corcovado, un territorio que te invitamos a conocer para descubrir grandes 
 dosis de naturaleza, interesantes pueblos indígenas y sorprendentes tesoros 
-precolombinos. 
+precolombinos.** 
 
 ![Eides Fletes, una emprendedora enamorada de la Península de Osa.](https://fotos.etheriamagazine.com/2022/11/Eida-Fletes-costa-rica.jpg "Eides Fletes, una emprendedora enamorada de la Península de Osa.")
 
@@ -240,14 +240,10 @@ Más información en [Turismo de Costa Rica](https://www.visitcostarica.com/es).
 
 ✅ **Sigue leyendo sobre Costa Rica** 
 
-[Descubre la esencia de la Península de Nicoya, tierra de artesanas y 
-naturaleza](https://etheriamagazine.com/2022/07/15/que-ver-peninsula-nicoya-costa-rica/). 
+{{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}}. 
 
-[Sarapiquí, ecoturismo y gastronomía en femenino en Costa 
-Rica](https://etheriamagazine.com/2022/08/18/que-ver-sarapiqui-costa-rica/). 
+{{< reflink path=posts/2022/08/que-ver-sarapiqui-costa-rica >}}. 
 
-[Valle Central de Costa Rica: 3 mujeres y 10 paradas 
-imprescindibles](https://etheriamagazine.com/2022/09/16/valle-central-caribe-costa-rica/). 
+{{< reflink path=posts/2022/09/valle-central-caribe-costa-rica >}}. 
 
-[Conoce los secretos de Guanacaste y la ilusión de sus 
-emprendedoras](https://etheriamagazine.com/2022/10/27/emprendedoras-guanacaste-costa-rica/).
+{{< reflink path=posts/2022/10/emprendedoras-guanacaste-costa-rica >}}.

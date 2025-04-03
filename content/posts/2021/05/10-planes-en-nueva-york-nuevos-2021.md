@@ -1,7 +1,7 @@
 ---
 title: "10 planes en Nueva York que te emocionarán si viajas en 2021"
 date: 2021-05-10
-coverImage: https://fotos.etheriamagazine.com/2021/05/jardin-botanico-nueva-york-Kusama-Dancing-Pumpkin.jpg
+cover: https://fotos.etheriamagazine.com/2021/05/jardin-botanico-nueva-york-Kusama-Dancing-Pumpkin.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -47,10 +47,9 @@ Dentro de unos meses (en otoño) se inaugurará SUMMIT, la última plataforma de
 observación de Nueva York, que estará situada en el icónico One Vanderbilt. Desde el 
 mirador más alto del Midtown las vistas al Chrysler Building, al Empire State Building, 
 al norte de Central Park y a parte de Madison Avenue, serán prodigiosas. Además, incluso 
-podrás tomar algo allí mismo. En el artículo [Miradores de Nueva 
-York](https://etheriamagazine.com/2020/02/24/los-mejores-miradores-de-nueva-york-gratis-de-pago/) 
-encontrarás otras propuestas ya inauguradas, como el sorprendente **The Edge**, en 
-Hudson Yards. 
+podrás tomar algo allí mismo. En el artículo {{< reflink 
+path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}} encontrarás 
+otras propuestas ya inauguradas, como el sorprendente **The Edge**, en Hudson Yards. 
 
 ![ferry classic harbor line planes en nueva york](https://fotos.etheriamagazine.com/2021/05/Ferry-nueva-york-Classic-Harbor-Line.jpg "Paseo en barco en el Classic Harbor Line. © Victor Llorente")
 
@@ -95,10 +94,10 @@ la andaluza o el plato francés más refinado. Si te gusta comer bien, y tu pres
 lo permite, Nueva York es un paraíso gastronómico. ¿Quieres saber qué hay de nuevo? 
 Entre los nuevos restaurantes está **Melba’s Mussel**s, donde la propietaria y **chef** 
 **Melba Wilson** se ha propuesto ofrecer al comensal sabores del mar. Entre ellos, unos 
-deliciosos mejillones inspirados en Sophia Loren y [Frida 
-Kahlo](https://etheriamagazine.com/2021/02/15/biografia-y-ruta-frida-kahlo-mexico/). 
-Abrirá en el South Harlem en agosto, pero ya tenemos curiosidad por conocer la receta 
-inspirada en estas dos icónicas mujeres. 
+deliciosos mejillones inspirados en Sophia Loren y {{< reflink 
+path=posts/2021/02/biografia-y-ruta-frida-kahlo-mexico >}}. Abrirá en el South Harlem en 
+agosto, pero ya tenemos curiosidad por conocer la receta inspirada en estas dos icónicas 
+mujeres. 
 
 ![cena rogers garden nueva york](https://fotos.etheriamagazine.com/2021/05/Outdoor-Dining-Rogers-Garden.jpg "Cena al aire libre en la zona de shopping Rogers Garden. © Vincent Tullo")
 
@@ -158,12 +157,9 @@ vistas a Manhattan y Queens.
 
 ### También te puede interesar...
 
-[Nueva York: el mejor plan con amigas al otro lado del 
-charco](https://etheriamagazine.com/2019/05/17/viaje-con-amigas-nueva-york-primavera/). 
+{{< reflink path=posts/2019/05/viaje-con-amigas-nueva-york-primavera >}}. 
 
-[](https://etheriamagazine.com/2018/07/28/consejos-para-viajar-en-familia-a-nueva-york/)[10 
-consejos para un viaje en familia a Nueva 
-York](https://etheriamagazine.com/2018/07/28/consejos-para-viajar-en-familia-a-nueva-york/). 
+{{< reflink path=posts/2018/07/consejos-para-viajar-en-familia-a-nueva-york >}}{{< 
+reflink path=posts/2018/07/consejos-para-viajar-en-familia-a-nueva-york >}}. 
 
-[8 planes para un viaje con niños a Nueva 
-York](https://etheriamagazine.com/2018/07/23/8-planes-con-ninos-en-nueva-york/).
+{{< reflink path=posts/2018/07/8-planes-con-ninos-en-nueva-york >}}.

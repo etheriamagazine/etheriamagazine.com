@@ -1,7 +1,7 @@
 ---
 title: "Norte de la India: enamórate de los colores del Rajastán"
 date: 2020-01-29
-coverImage: https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-Agra-2.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-Agra-2.jpg
 categories: 
   - inspiración
   - ocio
@@ -159,9 +159,10 @@ afluentes como el río Ken, que ve multiplicado su caudal con los monzones, y cr
 los paisajes más espectaculares del norte indio: las **gargantas de Raneh**. Su rosa y 
 el color púrpura contrasta sobremanera con los tonos grisáceos del granito en un pasaje 
 pétreo extraordinario de 30 metros de profundidad. Aguas abajo del cañón, la selva nos 
-envuelve hasta la confluencia de los ríos Ken y Khudar donde se encuentra el [santuario](https://www.panna-national-park.com/ken-gharial-sanctuary.html) 
-del amenazado cocodrilo del Ganges o gavial. Con sus 6 metros de longitud es 
-inconfundible por su largo hocico y sus ojos saltones. 
+envuelve hasta la confluencia de los ríos Ken y Khudar donde se encuentra el 
+[santuario](https://www.panna-national-park.com/ken-gharial-sanctuary.html) del 
+amenazado cocodrilo del Ganges o gavial. Con sus 6 metros de longitud es inconfundible 
+por su largo hocico y sus ojos saltones. 
 
 ![Gargantas de Raneh.](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-raneh-2.jpg "Gargantas de Raneh.")
 
@@ -181,8 +182,6 @@ ciudad donde se fabrica la mejor seda.
 
 ### También te puede interesar de la India
 
-[Una maleta para… 
-INDIA](https://etheriamagazine.com/2018/10/19/que-llevar-en-la-maleta-para-viajar-a-india/). 
+{{< reflink path=posts/2018/10/que-llevar-en-la-maleta-para-viajar-a-india >}}. 
 
-[¿Puedo viajar sola o con amigas a 
-India?](https://etheriamagazine.com/2018/10/19/viajar-sola-o-con-amigas-a-india/)
+{{< reflink path=posts/2018/10/viajar-sola-o-con-amigas-a-india >}}

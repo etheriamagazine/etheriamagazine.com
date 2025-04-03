@@ -1,7 +1,7 @@
 ---
 title: "Hotel María Cristina, historia y glamour en San Sebastián"
 date: 2018-07-21
-coverImage: https://fotos.etheriamagazine.com/2018/04/HOTEL-MARIA-CRISTINA-HDHotelMariaCristinaSanSebastianExteriorviewatnight.jpg
+cover: https://fotos.etheriamagazine.com/2018/04/HOTEL-MARIA-CRISTINA-HDHotelMariaCristinaSanSebastianExteriorviewatnight.jpg
 categories: 
   - hoteles
 destino: 
@@ -72,11 +72,12 @@ Fotos: © Hotel María Cristina
 
 ### También te puede interesar:
 
-[Planes para un fin de semana en San Sebastián: seguro que no te 
-aburres](https://etheriamagazine.com/2021/04/01/que-ver-hacer-en-san-sebastian/) 
+{{< reflink path=posts/2021/04/que-ver-hacer-en-san-sebastian >}} 
 
-[Descubre los mejores bares de pintxos de San Sebastián para ir con 
-amigas](https://etheriamagazine.com/2019/11/08/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas/) 
+{{< reflink 
+path=posts/2019/11/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas 
+>}} 
 
-[‘Hondalea’, la escultura de Cristina Iglesias que iluminará el faro de la isla de Santa 
-Clara](https://etheriamagazine.com/2021/05/04/hondalea-escultura-de-cristina-iglesias-en-faro-de-la-isla-de-santa-clara/)
+{{< reflink 
+path=posts/2021/05/hondalea-escultura-de-cristina-iglesias-en-faro-de-la-isla-de-santa-clara 
+>}}

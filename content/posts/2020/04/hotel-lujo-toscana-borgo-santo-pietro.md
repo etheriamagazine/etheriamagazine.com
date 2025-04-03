@@ -1,7 +1,7 @@
 ---
 title: "Borgo Santo Pietro, el hotel donde te querrás quedar a vivir en la Toscana"
 date: 2020-04-14
-coverImage: https://fotos.etheriamagazine.com/2020/03/borgo-santo-pietro-infinity-pool.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/borgo-santo-pietro-infinity-pool.jpg
 categories: 
   - hoteles
 destino: 
@@ -139,11 +139,8 @@ Fotografías cedidas por Relais Borgo Santo Pietro.
 
 ### También te puede interesar:
 
-[Ruta en coche para recorrer la Toscana en 7 
-días](https://etheriamagazine.com/2021/06/01/toscana-en-coche/) 
+{{< reflink path=posts/2021/06/toscana-en-coche >}} 
 
-[La Ruta Puccini. La Toscana sin masificación turística es posible (y 
-maravillosa)](https://etheriamagazine.com/2019/09/11/como-hacer-la-ruta-puccini-en-la-toscana-italia/) 
+{{< reflink path=posts/2019/09/como-hacer-la-ruta-puccini-en-la-toscana-italia >}} 
 
-[Nueve paseos a la italiana por los jardines más bellos de 
-Florencia](https://etheriamagazine.com/2021/05/21/paseos-por-los-jardines-mas-bellos-de-florencia/)
+{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}

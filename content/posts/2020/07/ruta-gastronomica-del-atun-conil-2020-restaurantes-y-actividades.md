@@ -1,7 +1,7 @@
 ---
 title: "Ruta Gastronómica del Atún en Conil, restaurantes y actividades"
 date: 2020-07-10
-coverImage: https://fotos.etheriamagazine.com/2018/06/casa-francisco-conil-ruta-del-atun-e1649843723568.jpg
+cover: https://fotos.etheriamagazine.com/2018/06/casa-francisco-conil-ruta-del-atun-e1649843723568.jpg
 categories: 
   - gourmet
 destino: 
@@ -10,23 +10,24 @@ authors:
   - Pepa G. Marín
 ---
 
-La Ruta Gastronómica del Atún en Conil de la Frontera, que tiene lugar entre el 10 y el 
-31 de julio, cuenta con la participación de 35 restaurantes, bares, ventas e, incluso, 
-chiringuitos dispuestos a ofrecer sus elaboraciones más creativas con el atún rojo como 
-protagonista. A continuación encontrarás un listado de estos establecimientos y de sus 
-respectivas especialidades. ¡Disfruta del atún y buen provecho! 
+**La Ruta Gastronómica del Atún en Conil de la Frontera, que tiene lugar entre el 10 y 
+el 31 de julio, cuenta con la participación de 35 restaurantes, bares, ventas e, 
+incluso, chiringuitos dispuestos a ofrecer sus elaboraciones más creativas con el atún 
+rojo como protagonista. A continuación encontrarás un listado de estos establecimientos 
+y de sus respectivas especialidades. ¡Disfruta del atún y buen provecho!** 
 
 ![ruta atun conil, restaurante el buche](https://fotos.etheriamagazine.com/2020/07/ruta-del-atun-hotel-fuerte.jpg "Restaurante El Buche © Hotel Fuerte Conil-Resort.")
 
 El atún rojo no es nuevo por tierras conileñas o por otros municipios cercanos como 
-**Barbate**, **Zahara de los Atunes** o [Tarifa](https://etheriamagazine.com/2020/07/06/viajes-por-espana-tarifa-con-amigas-aires-de-windsurf/). 
-De hecho, han transcurrido muchos siglos desde que el rey del mar, fiel a su ruta anual 
-de desove desde el Atlántico hasta el Mediterráneo, le regala grandes alegrías a quienes 
-instalan las almadrabas cada primavera. De este arte de pesca y de su trayectoria 
-histórica ya os hemos hablado anteriormente (artículo [Ruta del Atún Rojo en 
-Cádiz](https://etheriamagazine.com/2018/06/12/ruta-del-atun-rojo-en-cadiz/)), así que en 
-esta ocasión nos detendremos en otro aspecto cultural, quizá uno de los más gratos, el 
-placer gastronómico que nos brindan los excelentes restaurante de Conil. 
+**Barbate**, **Zahara de los Atunes** o {{< reflink 
+path=posts/2020/07/viajes-por-espana-tarifa-con-amigas-aires-de-windsurf >}}. De hecho, 
+han transcurrido muchos siglos desde que el rey del mar, fiel a su ruta anual de desove 
+desde el Atlántico hasta el Mediterráneo, le regala grandes alegrías a quienes instalan 
+las almadrabas cada primavera. De este arte de pesca y de su trayectoria histórica ya os 
+hemos hablado anteriormente (artículo {{< reflink 
+path=posts/2018/06/ruta-del-atun-rojo-en-cadiz >}}), así que en esta ocasión nos 
+detendremos en otro aspecto cultural, quizá uno de los más gratos, el placer 
+gastronómico que nos brindan los excelentes restaurante de Conil. 
 
 Si bien en años anteriores las **Jornadas del Atún** se habían realizado en mayo, 
 coincidiendo con la temporada de almadraba, en esta ocasión las circunstancias han 
@@ -50,9 +51,10 @@ A continuación agruparemos los restaurantes por zonas para que te sean más fá
 localizar, y también señalaremos su especialidad. Muchas de ellas permanecerán en carta 
 aún después de las Jornadas del Atún, así que no está de más tener este listado siempre 
 a mano. Si te resulta más fácil moverte con **Google maps,** haz clic en la imagen para 
-desplazarte por Conil como por tu propia casa. En esta edición se ha creado [Inventrip](https://inventrip.com/conil/trip/3743), 
-una app que recoge los establecimientos con datos de contacto. Y, además, se pueden ver 
-vídeos de las elaboraciones en la fanpage de Facebook: **RutadelAtundeAlmadraba**. 
+desplazarte por Conil como por tu propia casa. En esta edición se ha creado 
+[Inventrip](https://inventrip.com/conil/trip/3743), una app que recoge los 
+establecimientos con datos de contacto. Y, además, se pueden ver vídeos de las 
+elaboraciones en la fanpage de Facebook: **RutadelAtundeAlmadraba**. 
 
 [![](https://fotos.etheriamagazine.com/2020/07/mapa-ruta-atun-rojo-conil.jpg)](https://www.google.com/maps/d/edit?mid=1xgfDDIKl1C0jXwEsed-phE_-P9zrO24E&usp=sharing)
 
@@ -140,11 +142,12 @@ tiene un precio de 35 € por persona.
 
 ### Sigue leyendo sobre turismo en Cádiz...
 
-• [Actividades familiares en la provincia de 
-Cádiz](https://etheriamagazine.com/2020/03/12/12-actividades-familiares-para-viajes-con-ninos-en-cadiz/). 
-• [Ruta de los pueblos 
-blancos.](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/) 
-• [Visita las Ruinas de Baelo 
-Claudia](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/). 
-• [10 planes en Cádiz capital con 
-niños](https://etheriamagazine.com/2019/10/17/10-planes-con-ninos-en-cadiz-capital/).
+- {{< reflink 
+path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz >}}. 
+
+- {{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}} 
+
+- {{< reflink path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia 
+>}}. 
+
+- {{< reflink path=posts/2019/10/10-planes-con-ninos-en-cadiz-capital >}}.

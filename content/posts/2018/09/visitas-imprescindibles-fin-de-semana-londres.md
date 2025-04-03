@@ -1,7 +1,7 @@
 ---
 title: "Fin de semana Londres, qué hacer para exprimirlo al máximo"
 date: 2018-09-13
-coverImage: https://fotos.etheriamagazine.com/2018/08/Londres-Westminster.jpg
+cover: https://fotos.etheriamagazine.com/2018/08/Londres-Westminster.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Manena Munar
 ---
 
-Aunque puede parecer que un fin de semana en Londres no es suficiente para conocer todas 
-sus facetas, sí que da para visitar algunos de esos lugares que la hacen tan especial y 
-diferente a otras. Si seguís las siguientes recomendaciones lo comprobaréis por vosotras 
-mismas. 
+**Aunque puede parecer que un fin de semana en Londres no es suficiente para conocer 
+todas sus facetas, sí que da para visitar algunos de esos lugares que la hacen tan 
+especial y diferente a otras. Si seguís las siguientes recomendaciones lo comprobaréis 
+por vosotras mismas.** 
 
 ![Las célebres cabinas londinenses y sus también conocidos taxis en los que casi se puede entrar de pie.](https://fotos.etheriamagazine.com/2018/08/Londres-taxi-y-cabina.jpg "Las célebres cabinas londinenses y sus también conocidos taxis en los que casi se puede entrar de pie.")
 

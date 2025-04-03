@@ -1,7 +1,7 @@
 ---
 title: "Highlands o Tierras Altas de Escocia, una guía básica para recorrerlas por libre"
 date: 2020-09-10
-coverImage: https://fotos.etheriamagazine.com/2020/12/castillo-kilchurn-escocia.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/castillo-kilchurn-escocia.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Nuria Cortés
 ---
 
-Recorre las Tierras Altas de Escocia en coche con tus amigas, y llénate del trágico 
+**Recorre las Tierras Altas de Escocia en coche con tus amigas, y llénate del trágico 
 romanticismo de sus paisajes salvajes. En las Highlands escocesas descubrirás en sólo 
 tres días paisajes mágicos, melancólicos, cargados de leyendas e, incluso, el tren de 
-Harry Potter. Te contamos cómo organizar una ruta circular con salida desde Edimburgo. 
+Harry Potter. Te contamos cómo organizar una ruta circular con salida desde Edimburgo.** 
 
 ![Viaducto de Glenfinnan, en Fort William (Escocia).](https://fotos.etheriamagazine.com/2020/09/viaducto-Glenfinnan-Fort-William-escocia.jpg "Viaducto de Glenfinnan, en Fort William (Escocia). © Connor Mollison")
 
@@ -163,25 +163,26 @@ final perfecto para cerrar un bonito viaje en coche por las Highlands? ¿O quiz�
 prefieres continuar ruta hacia las Islas Shetland? Si es así, no te pierdas nuestras 
 pistas para conocer estas remotas islas de Escocia. 
 
-📌 **No te pierdas:** [Ruta por las Islas 
-Shetland](https://etheriamagazine.com/2019/03/21/mujeres-viajeras-que-ver-islas-shetland/). 
+📌 **No te pierdas:** {{< reflink 
+path=posts/2019/03/mujeres-viajeras-que-ver-islas-shetland >}}. 
 
 ## Guía Tierras Altas | Etheria Magazine
 
-• No olvides la hora del té y pide tus _scones_, unos bollitos típicos que se untan de 
-mantequilla y mermelada. • Reserva una noche en **Myrtle Bank Huest House**, en Fort 
-William, y despiértate en una villa victoriana con vistas al lago Loch y las colinas 
-Ardgour. Amplia información sobre los lugares históricos a visitar y recomendaciones 
-útiles para tu viaje en National Trust of Scotland, [VisitScotland](https://www.visitscotland.com/es-es/) 
-y Visit Britain (www.visitbritain.com/es/es). 
+- No olvides la hora del té y pide tus _scones_, unos bollitos típicos que se untan de 
+mantequilla y mermelada. 
+
+- Reserva una noche en **Myrtle Bank Huest House**, en Fort William, y despiértate en 
+una villa victoriana con vistas al lago Loch y las colinas Ardgour. Amplia información 
+sobre los lugares históricos a visitar y recomendaciones útiles para tu viaje en 
+National Trust of Scotland, [VisitScotland](https://www.visitscotland.com/es-es/) y 
+Visit Britain (www.visitbritain.com/es/es). 
 
 **También te puede interesar...** 
 
-[De road trip por los Cotswolds, un viaje al corazón de 
-Inglaterra](https://etheriamagazine.com/2019/08/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra/). 
+{{< reflink 
+path=posts/2019/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}}. 
 
-[Admira cinco de los mejores jardines de Gran 
-Bretaña](https://etheriamagazine.com/2021/04/22/los-mejores-jardines-de-gran-bretana/). 
+{{< reflink path=posts/2021/04/los-mejores-jardines-de-gran-bretana >}}. 
 
-[¿Es tan aburrida la comida de Gran Bretaña como 
-dicen?](https://etheriamagazine.com/2021/03/11/platos-britanicos-en-un-viaje-inglaterra-escocia-gales-irlanda/)
+{{< reflink 
+path=posts/2021/03/platos-britanicos-en-un-viaje-inglaterra-escocia-gales-irlanda >}}

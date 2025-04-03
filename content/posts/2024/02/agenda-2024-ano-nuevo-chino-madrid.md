@@ -1,7 +1,7 @@
 ---
 title: "Cómo celebrar el Año Nuevo Chino en Madrid este 2024"
 date: 2024-02-08
-coverImage: https://fotos.etheriamagazine.com/2024/02/Nuevo-Ano-Chino-2024.jpg
+cover: https://fotos.etheriamagazine.com/2024/02/Nuevo-Ano-Chino-2024.jpg
 categories: 
   - ocio
 destino: 
@@ -26,9 +26,8 @@ que se atribuyen virtudes como poder, fortaleza, fortuna, sabiduría y generosid
 estas cualidades son las que el ilustrador Juan Carlos Paz, conocido como Bakea, ha 
 destacado en el cartel anunciador. 
 
-\***No te pierdas: Visitas y mejores restaurantes de Usera:** [Ruta turística por el 
-Chinatown 
-madrileño](https://etheriamagazine.com/2022/02/11/ruta-turistica-usera-chinatown-madrileno/) 
+\***No te pierdas: Visitas y mejores restaurantes de Usera:** {{< reflink 
+path=posts/2022/02/ruta-turistica-usera-chinatown-madrileno >}} 
 
 ## Viernes 9 de febrero, inauguración de la agenda de actos
 

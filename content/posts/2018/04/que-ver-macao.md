@@ -1,7 +1,7 @@
 ---
 title: "10 visitas que justifican un viaje a Macao"
 date: 2018-04-18
-coverImage: https://fotos.etheriamagazine.com/2018/04/9-MACAO-COTAI-e1637067759830.jpg
+cover: https://fotos.etheriamagazine.com/2018/04/9-MACAO-COTAI-e1637067759830.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,10 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-Macao fue una de las primeras colonias portuguesas en Asia, un idilio que se prolongó 
+**Macao fue una de las primeras colonias portuguesas en Asia, un idilio que se prolongó 
 durante 400 años, hasta 1999 cuando fue devuelta a China. Desde entonces funciona como 
 una región administrativa especial (RAE) y disfruta de 50 años de transición política. 
-La fusión y la convivencia de la cultura de estos dos países es su principal atractivo. 
+La fusión y la convivencia de la cultura de estos dos países es su principal 
+atractivo.** 
 
 ![iglesia de san pablo en macao](https://fotos.etheriamagazine.com/2018/04/1-MACAO.jpg "Novios con la iglesia de San Pablo al fondo.")
 
@@ -112,13 +113,10 @@ y se pueden ver osos panda.
 
 **También te puede interesar...** 
 
-[Hong Kong, una escapada a la jungla de 
-asfalto](https://etheriamagazine.com/2019/09/06/que-ver-hacer-dos-dias-en-hong-kong/). 
+{{< reflink path=posts/2019/09/que-ver-hacer-dos-dias-en-hong-kong >}}. 
 
-[Qué ver en el norte de 
-I](https://etheriamagazine.com/2020/01/29/viaje-para-mujeres-que-ver-norte-india-rajastan/)[n](https://etheriamagazine.com/2020/01/29/viaje-para-mujeres-que-ver-norte-india-rajastan/)[dia: 
-10 colores del 
-Rajastán](https://etheriamagazine.com/2020/01/29/viaje-para-mujeres-que-ver-norte-india-rajastan/). 
+{{< reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}}{{< 
+reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}}{{< 
+reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}}. 
 
-[Viajar sola: Malasia, un itinerario entre islas y 
-selva](https://etheriamagazine.com/2019/04/12/viajar-sola-malasia-pulau-tioman-perhentian/).
+{{< reflink path=posts/2019/04/viajar-sola-malasia-pulau-tioman-perhentian >}}.

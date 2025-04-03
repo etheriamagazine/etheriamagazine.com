@@ -1,18 +1,18 @@
 ---
 title: "Planes divertidos para practicar un turismo sostenible en Francia"
 date: 2022-10-28
-coverImage: https://fotos.etheriamagazine.com/2022/10/Francia-canal-du-midi-carcassonne.jpg
+cover: https://fotos.etheriamagazine.com/2022/10/Francia-canal-du-midi-carcassonne.jpg
 destino: 
   - Europa
 authors: 
   - Redacción Etheria
 ---
 
-El turismo sostenible se va abriendo camino entre los viajeros que apuestan por la 
+**El turismo sostenible se va abriendo camino entre los viajeros que apuestan por la 
 ecología y buscan en sus vacaciones disfrutar de la naturaleza de una forma respetuosa 
 con el entorno. Francia es uno de los países líderes en ofrecer este tipo de opciones de 
 viaje y aquí te proponemos 8 iniciativas de este país con las que visitarlo sin dejar de 
-lado el compromiso con el medioambiente. 
+lado el compromiso con el medioambiente.** 
 
 ![viñedos del sur de Francia](https://fotos.etheriamagazine.com/2022/10/francia-canal-du-midi.jpg "Barco en el Canal du Midi, en Francia.")
 
@@ -49,8 +49,8 @@ Ubicada en la parte sudoriental de Francia, todo en ella parece girar en torno a
 de la uva. Destaca su **Ciudad del Vino** y en 2022 ha sido nombrada capital del Smart 
 Tourism. 
 
-📌No te pierdas: [La Ciudad del Vino, visita obligada en 
-Burdeos](https://etheriamagazine.com/2018/12/12/la-ciudad-del-vino-visita-obligada-en-burdeos/). 
+📌No te pierdas: {{< reflink 
+path=posts/2018/12/la-ciudad-del-vino-visita-obligada-en-burdeos >}}. 
 
 Merece la pena acercarse a conocer sus viñedos eco-responsables. Uno de los más 
 destacados es el **Château Giraud** (chateaugiraud.com). Utiliza prácticas ambientales 
@@ -100,7 +100,8 @@ y el cabo Sizun.
 ![Aves sobrevolando el Mont Saint-Michel.](https://fotos.etheriamagazine.com/2022/10/bretana-patos.jpg "Aves sobrevolando el Mont Saint-Michel. © Christian Moulle.")
 
 Si también quieres ver delfines, el punto de partida suele ser **Port-Mer** y una buena 
-opción es reservar una excursión con la asociación [Al-Lark](https://www.vacaciones-bretana.com/prepara-tu-estancia/vive-una-experiencia-bretona/ven-a-observar-los-grandes-delfines/). 
+opción es reservar una excursión con la asociación 
+[Al-Lark](https://www.vacaciones-bretana.com/prepara-tu-estancia/vive-una-experiencia-bretona/ven-a-observar-los-grandes-delfines/). 
 La que proponen dura unas cuatro horas y también es una buena ocasión para ver aves 
 marinas. 
 
@@ -149,8 +150,6 @@ pequeños enfocadas en el mundo natural.
 
 📍 **También te puede interesar:** 
 
-[Marsella, guía para un fin de semana cultural y 
-hedonista](https://etheriamagazine.com/2020/07/10/viajar-sola-amigas-marsella-que-ver-hacer/) 
+{{< reflink path=posts/2020/07/viajar-sola-amigas-marsella-que-ver-hacer >}} 
 
-[Ruta por los jardines y perfumes de la Costa 
-Azul](https://etheriamagazine.com/2021/07/07/ruta-de-los-jardines-costa-azul-francia/)
+{{< reflink path=posts/2021/07/ruta-de-los-jardines-costa-azul-francia >}}

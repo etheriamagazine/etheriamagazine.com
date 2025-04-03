@@ -1,7 +1,7 @@
 ---
 title: "Anantara Iko Mauritius Resort & Villas, un hotel de lujo en isla Mauricio"
 date: 2020-12-15
-coverImage: https://fotos.etheriamagazine.com/2020/12/Anantara-mauricio-playa.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/Anantara-mauricio-playa.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Redacción Etheria
 ---
 
-La idea de pasar unos días en una playa de arena blanca, clima tropical y un hotel de 
+**La idea de pasar unos días en una playa de arena blanca, clima tropical y un hotel de 
 lujo no puede ser más apetecible en este momento. Y si ese lugar toma forma en isla 
 Mauricio, con el nombre de Anantara Iko Mauritius Resort & Villas, es probable que sea 
 una de las mejores imágenes que podamos retener en nuestra mente. No renuncies a pensar 
 en los viajes que te esperan y date el capricho de disfrutar en 2021 de un hotel tan 
-exclusivo como éste. 
+exclusivo como éste.** 
 
 ![cenas románticas en isla Mauricio](https://fotos.etheriamagazine.com/2020/12/Anantara-Mauricio-Dining-By-Design.jpg "Cena para dos sobre la arena de la playa.")
 
@@ -28,11 +28,10 @@ de magia donde sentirte como una reina.
 Son muchas las ventajas de este hotel: su ubicación en la bonita playa de Le Chaland, en 
 el suroeste de la isla, su cercanía al aeropuerto (a solo 10 minutos), su increíble spa, 
 su gastronomía… Pero, además, Mauricio tiene mucho que ofrecer. Esta isla es perfecta 
-para realizar excursiones si quieres un poco de actividad y aventura. En el reportaje de [10 
-planes en isla 
-Mauricio](https://etheriamagazine.com/2019/03/26/viajes-mujeres-mejores-planes-en-mauricio/) 
-te contamos qué actividades no puedes perderte, aunque ya te avisamos que costará salir 
-de este hotel. 
+para realizar excursiones si quieres un poco de actividad y aventura. En el reportaje de 
+{{< reflink path=posts/2019/03/viajes-mujeres-mejores-planes-en-mauricio >}} te contamos 
+qué actividades no puedes perderte, aunque ya te avisamos que costará salir de este 
+hotel. 
 
 ![Lobby del Anantara Iko Mauritius Resort & Villas.](https://fotos.etheriamagazine.com/2020/12/Anantara-Mauricio-Lobby.jpg "Lobby del Anantara Iko Mauritius Resort & Villas.")
 

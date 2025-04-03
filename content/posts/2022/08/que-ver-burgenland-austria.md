@@ -1,7 +1,7 @@
 ---
 title: "Burgenland, el estado más desconocido y soleado de Austria"
 date: 2022-08-01
-coverImage: https://fotos.etheriamagazine.com/2022/07/austria-burgerland-jardines-Eisenstadt.jpg
+cover: https://fotos.etheriamagazine.com/2022/07/austria-burgerland-jardines-Eisenstadt.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -150,8 +150,8 @@ Las compras forman parte intrínseca de cualquier viaje. ¿No os pasa que las ma
 regresan “ligeramente” más pesadas que cuando partieron? Pues bien, quizás una de 
 vuestras adquisiciones deba ser precisamente otra maleta para llenarla con todo lo que 
 compréis en el **Designer Outlet Parndorf**. Un outlet de grandes marcas donde 
-encontraréis piezas exclusivas a precios increíbles. Más información en la [web](https://www.burgenland.info/) 
-de Burgenland. 
+encontraréis piezas exclusivas a precios increíbles. Más información en la 
+[web](https://www.burgenland.info/) de Burgenland. 
 
 ![Bodegas de la histórica Kellergasse de Purbach.](https://fotos.etheriamagazine.com/2022/07/austria-burgerland-bodegas-Kellergasse.jpg "Una de las bodegas de la histórica Kellergasse de Purbach. © Yolanada Cardo")
 
@@ -170,8 +170,6 @@ para recorrer esta bella región austriaca.
 
 ## Más propuestas en Austria
 
-✅ [Planes en Viena con amigas para vuestro uso y 
-disfrute](https://etheriamagazine.com/2022/07/07/que-hacer-en-viena-con-amigas/). 
+✅ {{< reflink path=posts/2022/07/que-hacer-en-viena-con-amigas >}}. 
 
-✅ [Hallstatt, el pueblo más bonito del mundo a orillas de un 
-lago](https://etheriamagazine.com/2020/05/15/hallstatt-viaja-con-amigas-austria/).
+✅ {{< reflink path=posts/2020/05/hallstatt-viaja-con-amigas-austria >}}.

@@ -1,7 +1,7 @@
 ---
 title: "La Geria: la ruta de vinos definitiva para beberse Lanzarote"
 date: 2020-08-04
-coverImage: https://fotos.etheriamagazine.com/2018/09/La-Geria-Lanzarote.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/La-Geria-Lanzarote.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -90,11 +90,10 @@ isla, esa que se caracteriza por muros de piedra volcánica y que conserva sus v
 madera originarias procedentes, en su mayor parte, de barcos antiguos. 
 
 Para acabar la visita a El Grifo —cuyo símbolo, por cierto, fue diseñado por el 
-mismísimo [César 
-Manrique](https://etheriamagazine.com/2019/09/10/cesar-manrique-ruta-en-lanzarote/)—, 
-nada como catar el producto: bien en su coqueta sala, bien en su acogedora terraza, 
-podemos probar algunos de sus vinos más emblemáticos acompañados, además, por quesos 
-típicos de la tierra. 
+mismísimo {{< reflink path=posts/2019/09/cesar-manrique-ruta-en-lanzarote >}}—, nada 
+como catar el producto: bien en su coqueta sala, bien en su acogedora terraza, podemos 
+probar algunos de sus vinos más emblemáticos acompañados, además, por quesos típicos de 
+la tierra. 
 
 ![la geria, Lanzarote, vinos](https://fotos.etheriamagazine.com/2020/07/Paisaje-La-Geria-lanzarote.jpg "Curioso paisaje de La Geria.")
 
@@ -124,9 +123,9 @@ siguiente parada.
 
 ## La Geria, vinos y paisaje
 
-Conserva también la estructura tradicional primigenia el edificio que alberga la bodega [La 
-Geria](https://www.lageria.com/), muy cercana a la localidad de Uga. Fundada en el siglo 
-XIX, una de las cosas que más nos sorprende es **su localización**, pues se halla 
+Conserva también la estructura tradicional primigenia el edificio que alberga la bodega 
+[La Geria](https://www.lageria.com/), muy cercana a la localidad de Uga. Fundada en el 
+siglo XIX, una de las cosas que más nos sorprende es **su localización**, pues se halla 
 **rodeada por un inmenso —y maravilloso— escenario vitícola** protagonizado por miles de 
 vides. Una postal a la que se añade, además, **la silueta de los volcanes del Parque 
 Nacional de Timanfaya** al fondo: irremediablemente quedamos hipnotizados. 
@@ -215,11 +214,8 @@ solitario o con amigas.
 
 ### También en Etheria Magazine
 
-[7 planes esenciales en Lanzarote con 
-amigas](https://etheriamagazine.com/2020/06/11/viajar-sola-amigas-imprescindible-lanzarote/). 
+{{< reflink path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}}. 
 
-[Ruta de César Manrique en 
-Lanzarote](https://etheriamagazine.com/2019/09/10/cesar-manrique-ruta-en-lanzarote/). 
+{{< reflink path=posts/2019/09/cesar-manrique-ruta-en-lanzarote >}}. 
 
-[10 planes en Fuerteventura con amigas para disfrutar al máximo de la 
-isla](https://etheriamagazine.com/2021/03/24/planes-en-fuerteventura-con-amigas/).
+{{< reflink path=posts/2021/03/planes-en-fuerteventura-con-amigas >}}.

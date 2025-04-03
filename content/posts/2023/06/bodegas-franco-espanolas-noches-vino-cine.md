@@ -1,7 +1,7 @@
 ---
 title: "Fin de semana en Logroño con las noches de vino y cine de Bodegas Franco-Españolas"
 date: 2023-06-26
-coverImage: https://fotos.etheriamagazine.com/2023/06/bodegas-franco-espanolas-tardeojpg.jpg
+cover: https://fotos.etheriamagazine.com/2023/06/bodegas-franco-espanolas-tardeojpg.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -12,11 +12,11 @@ authors:
   - Redacción Etheria
 ---
 
-Las Bodegas Franco-Españolas son uno de los principales focos culturales de Logroño. 
+**Las Bodegas Franco-Españolas son uno de los principales focos culturales de Logroño. 
 Situadas a un paso del centro de la ciudad, apuestan en las noches estivales por algo 
 tan nuestro como el cine de verano. Te contamos cómo maridar el tardeo y el buen cine 
 con sus reconocidos vinos Diamante y Bordón y pasar así unos jueves de lujo. ¿Te lo vas 
-a perder? 
+a perder?** 
 
 ![mujer sirviendo una copa de vino](https://fotos.etheriamagazine.com/2023/06/bodegas-franco-espanolas-vino-bordon.jpg "Tardes de vino y cine en Bodegas Franco-Españolas.")
 

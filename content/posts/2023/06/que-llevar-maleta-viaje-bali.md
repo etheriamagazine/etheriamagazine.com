@@ -1,7 +1,7 @@
 ---
 title: "Qué llevar en la maleta en un viaje a Bali"
 date: 2023-06-23
-coverImage: https://fotos.etheriamagazine.com/2023/06/maleta-bali-mujeres.jpg
+cover: https://fotos.etheriamagazine.com/2023/06/maleta-bali-mujeres.jpg
 categories: 
   - qué-llevar-en-la-maleta
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Comenzar a disfrutar un viaje es también ir preparando la maleta, anticipando todo lo 
+**Comenzar a disfrutar un viaje es también ir preparando la maleta, anticipando todo lo 
 que se vaya a necesitar para que no falte nada. Para un viaje a Bali se necesitan unas 
 cuantas cosas imprescindibles, pero, en realidad, es un destino donde se puede viajar 
-ligera. Aquí te damos unas cuantas claves para que no se te olvide lo esencial. 
+ligera. Aquí te damos unas cuantas claves para que no se te olvide lo esencial.** 
 
 ![dos mujeres en una piscina en el interior de Bali](https://fotos.etheriamagazine.com/2023/06/maleta-bali-mujeres.jpg "A Bali tienes que llevar sobre todo las ganas de pasarlo bien.")
 
@@ -66,16 +66,16 @@ encontrar una que sirve además como manta impermeable para el suelo.
 
 Es fundamental llevar calzado cómodo para las excursiones, como unas deportivas ligeras 
 o unas sandalias tipo deportivo, que valen para todo. Para las rutas de senderismo por 
-el interior, es mejor llevar el pie cubierto con unas zapatillas de trekking o con unas [sandalias 
-con la puntera cubierta](https://amzn.to/43YcVqJ) (las que te proponemos en la foto 
-están disponibles en Amazon). Estas últimas son siempre una buena alternativa en los 
-climas tropicales, ya que permiten llevar el pie fresco y protegido. 
+el interior, es mejor llevar el pie cubierto con unas zapatillas de trekking o con unas 
+[sandalias con la puntera cubierta](https://amzn.to/43YcVqJ) (las que te proponemos en 
+la foto están disponibles en Amazon). Estas últimas son siempre una buena alternativa en 
+los climas tropicales, ya que permiten llevar el pie fresco y protegido. 
 
 Tampoco pueden faltar unas chanclas para la playa y piscina ni unas sandalias negras 
 planas o con poca cuña para la noche (con las de [Skechers](https://amzn.to/3WZgdaX) te 
 aseguras comodidad). Si vas a hacer excursiones en barco o por zonas con piedras donde 
-vayas a mojarte, puede ser una buena idea llevar en la maleta unos [escarpines](https://amzn.to/3p2AJLc), 
-que abultan poco y son muy útiles. 
+vayas a mojarte, puede ser una buena idea llevar en la maleta unos 
+[escarpines](https://amzn.to/3p2AJLc), que abultan poco y son muy útiles. 
 
 ![Sandalias para trekking y sandalias negras de Skechers](https://fotos.etheriamagazine.com/2023/06/maleta-bali-calzado.jpg "Sandalias para trekking y sandalias negras de Skechers, disponibles en Amazon.")
 
@@ -105,8 +105,9 @@ ponerte en tu ciudad, ya que aquí el espíritu de eterno verano lo aguanta todo
 
 Aunque en los hoteles te suelen facilitar toallas para la piscina y playa, siempre está 
 bien llevar una que no pese mucho, de algodón fino o microfibra, para las excursiones. 
-Nunca se sabe dónde puede surgir la ocasión de darse un baño. La de [Fit-Flip](https://amzn.to/3NrsDVX) 
-de Amazon viene con una cómoda bolsa y están disponibles en dieciséis colores. 
+Nunca se sabe dónde puede surgir la ocasión de darse un baño. La de 
+[Fit-Flip](https://amzn.to/3NrsDVX) de Amazon viene con una cómoda bolsa y están 
+disponibles en dieciséis colores. 
 
 ![Bolso de Misako y toalla de microfibra.](https://fotos.etheriamagazine.com/2023/06/maleta-bali-accesorios.jpg "Bolso de Misako y toalla de microfibra.")
 
@@ -129,8 +130,9 @@ te proponemos uno de [Tessan](https://amzn.to/3CmWmJ1)), ya que en Bali se utili
 tipo C. Además de llevar tu móvil, auriculares y Tablet (con series o películas 
 descargadas para las largas horas de avión), merece la pena llevar un **ladrón** para 
 poder cargar varias cosas a la vez en el mismo enchufe y no tener que llevar varios 
-adaptadores. Si viene con alargador de tres metros, como el de [Lencent](https://amzn.to/3Jao0wG), 
-te aseguras poder cargar los dipositivos donde quieras. 
+adaptadores. Si viene con alargador de tres metros, como el de 
+[Lencent](https://amzn.to/3Jao0wG), te aseguras poder cargar los dipositivos donde 
+quieras. 
 
 Una [cámara de fotos resistente al agua](https://amzn.to/3J7DC46) retratará los momentos 
 inolvidables que vas a vivir en las playas de Bali. 
@@ -168,9 +170,9 @@ menos seis meses de validez y el **visado VOA** que se realiza de forma online a
 viajar (www.molina.imigrasi.go.id). También se puede hacer al llegar al aeropuerto, pero 
 si lo haces a través de la web te evitas las colas y esperas. 
 
-Para documentarte antes de viajar, nada como una buena guía de viajes. La escrita por [Robert 
-C. Heier](https://amzn.to/3oXhrGX) ha sido publicada en mayo de 2023 y con la de Lonely 
-Planet [“Bali de cerca”](https://amzn.to/42DCg8d) aciertas seguro. 
+Para documentarte antes de viajar, nada como una buena guía de viajes. La escrita por 
+[Robert C. Heier](https://amzn.to/3oXhrGX) ha sido publicada en mayo de 2023 y con la de 
+Lonely Planet [“Bali de cerca”](https://amzn.to/42DCg8d) aciertas seguro. 
 
 ![Guías de viaje sobre Bali](https://fotos.etheriamagazine.com/2023/06/maleta-bali-guias-viaje.jpg "Guías de viaje sobre Bali.")
 
@@ -184,15 +186,14 @@ el viaje.
 
 Es muy recomendable (casi imprescindible) viajar con un seguro de viajes. No son caros y 
 aseguran la tranquilidad de que si surge cualquier imprevisto médico estás bien 
-cubierto. Puedes echar un vistazo a los que tiene [Intermundial](https://clk.tradedoubler.com/click?p=281568&a=3132464&url=https%3A%2F%2Fwww.intermundial.es%2F), 
+cubierto. Puedes echar un vistazo a los que tiene 
+[Intermundial](https://clk.tradedoubler.com/click?p=281568&a=3132464&url=https%3A%2F%2Fwww.intermundial.es%2F), 
 que funcionan muy bien. 
 
 ![Rupias de Indonesia.](https://fotos.etheriamagazine.com/2023/06/maleta-bali-rupias-indonesias.jpg "Rupias de Indonesia.")
 
 📌 **También te puede interesar:** 
 
-[Si quieres a tu pareja no viajes a 
-Bali](https://etheriamagazine.com/2019/07/23/luna-miel-bali-maldicion-ruptura/) 
+{{< reflink path=posts/2019/07/luna-miel-bali-maldicion-ruptura >}} 
 
-[10 gadgets imprescindibles en tus 
-viajes](https://etheriamagazine.com/2019/10/26/10-gadgets-frikis-imprescindibles-en-tus-viajes/)
+{{< reflink path=posts/2019/10/10-gadgets-frikis-imprescindibles-en-tus-viajes >}}

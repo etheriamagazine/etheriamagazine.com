@@ -1,7 +1,7 @@
 ---
 title: "Génova celebra el ‘Superbarroco’ por todo lo alto"
 date: 2022-05-24
-coverImage: https://fotos.etheriamagazine.com/2022/05/superbarroco-ascoli-piceno.jpg
+cover: https://fotos.etheriamagazine.com/2022/05/superbarroco-ascoli-piceno.jpg
 categories: 
   - cultura
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-La relación de Italia con el arte es tan estrecha que no se puede concebir un viaje a 
+**La relación de Italia con el arte es tan estrecha que no se puede concebir un viaje a 
 este país sin dedicar gran parte del tiempo a disfrutar de su pintura, arquitectura y 
 escultura. En esta ocasión te proponemos una ciudad y un estilo artístico concretos, 
 Génova y el Barroco, que se unen para celebrar el Proyecto ‘Superbarroco’ hasta el 10 de 
-julio de 2022. 
+julio de 2022.** 
 
 ![cuadro barroco](https://fotos.etheriamagazine.com/2022/05/superbarroco-ascoli-piceno.jpg ""La captura de Sansón" de Orazio De Ferrari forma parte de la exposición 'La forma della Meraviglia'. © Ascoli Piceno, Pinacoteca Civica.")
 
@@ -38,11 +38,12 @@ No puede haber mejor forma de celebrar el barroco que uniendo en un mismo espaci
 de artistas locales como Bernardo Strozzi, Gregorio de Ferrari o Valerio Castello con 
 creaciones de figuras internacionales de la talla de Rubens o Van Dyck. Además, el 
 Palacio Ducal es uno de los mejores espacios expositivos de Génova, perfecto para obras 
-de gran formato. Con la exposición ['](https://palazzoducale.genova.it/mostra/superbarocco/)[La 
-forma della Meraviglia'](https://palazzoducale.genova.it/mostra/superbarocco/) podrás 
-comprobar cómo se traza un viaje, a través de sus amplias salas y salones, desde las 
-obras de Giovan Battista, de principios del siglo XVII, hasta las de Alessandro 
-Magnasco, de mediados del XVIII. 
+de gran formato. Con la exposición 
+['](https://palazzoducale.genova.it/mostra/superbarocco/)[La forma della 
+Meraviglia'](https://palazzoducale.genova.it/mostra/superbarocco/) podrás comprobar cómo 
+se traza un viaje, a través de sus amplias salas y salones, desde las obras de Giovan 
+Battista, de principios del siglo XVII, hasta las de Alessandro Magnasco, de mediados 
+del XVIII. 
 
 ![Vajilla barroca](https://fotos.etheriamagazine.com/2022/05/superbarroco-Musei-di-Strada-Nuova.jpg "Vajilla barroca en el Musei di Strada Nuova. © ENIT")
 
@@ -50,7 +51,8 @@ Magnasco, de mediados del XVIII.
 
 Además de la exposición del Palacio Ducal, dentro del Proyecto 'Superbarroco' en Génova 
 se van a realizar exposiciones monográficas o temáticas en distintos museos y lugares 
-emblemáticos de la ciudad recogidas bajo el título ['](https://www.visitgenoa.it/i-protagonisti-capolavori-genova-1600-1750#node-31547)[Los 
+emblemáticos de la ciudad recogidas bajo el título 
+['](https://www.visitgenoa.it/i-protagonisti-capolavori-genova-1600-1750#node-31547)[Los 
 Protagonistas. Obras maestras en Génova 
 1600-1750'](https://www.visitgenoa.it/i-protagonisti-capolavori-genova-1600-1750#node-31547). 
 Una forma de conseguir una visión amplia y variada sobre este estilo artístico a través 
@@ -111,11 +113,8 @@ Turismo de Génova (www.visitgenoa.it)
 
 ### También te puede interesar:
 
-[Casi un mar: rodea en coche el lago de Garda, el mayor de 
-Italia](https://etheriamagazine.com/2021/09/22/ruta-en-coche-en-lago-de-garda-italia/) 
+{{< reflink path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}} 
 
-[Turín con amigas: viaja a la ciudad más supersticiosa de 
-Italia](https://etheriamagazine.com/2021/07/16/que-ver-en-turin-en-un-viaje-con-amigas/) 
+{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}} 
 
-[10 viajes para enamorarte de 
-Italia](https://etheriamagazine.com/2020/08/03/10-grandes-viajes-a-italia/)
+{{< reflink path=posts/2020/08/10-grandes-viajes-a-italia >}}

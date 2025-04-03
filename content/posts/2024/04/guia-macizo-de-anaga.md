@@ -1,7 +1,7 @@
 ---
 title: "Macizo de Anaga, los secretos del Tenerife más rural"
 date: 2024-04-10
-coverImage: https://fotos.etheriamagazine.com/2023/12/macizo-anaga-tenerife.jpg
+cover: https://fotos.etheriamagazine.com/2023/12/macizo-anaga-tenerife.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -245,8 +245,6 @@ que invita siempre a volver.
 
 **También te puede interesar...** 
 
-[Guía esencial de Tenerife: 15 imprescindibles en tus 
-vacaciones](https://etheriamagazine.com/2023/01/18/que-ver-en-tenerife/). 
+{{< reflink path=posts/2023/01/que-ver-en-tenerife >}}. 
 
-[Qué llevar en la maleta en un viaje a 
-Tenerife](https://etheriamagazine.com/2023/05/26/que-llevar-en-la-maleta-tenerife/).
+{{< reflink path=posts/2023/05/que-llevar-en-la-maleta-tenerife >}}.

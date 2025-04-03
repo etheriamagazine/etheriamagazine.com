@@ -1,7 +1,7 @@
 ---
 title: "Cómo aprovechar bien dos días en Granada capital"
 date: 2020-05-29
-coverImage: https://fotos.etheriamagazine.com/2020/05/viajes-mujeres-granada-alhambra.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/viajes-mujeres-granada-alhambra.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Si sólo vas a estar dos días en Granada hay visitas como el Albaicín, aquel lugar que 
+**Si sólo vas a estar dos días en Granada hay visitas como el Albaicín, aquel lugar que 
 Abd Allah mencionaba en sus 'Memorias' rodeado de arroyos y arboledas, o La Alhambra, el 
 sueño de Muhammad I, que no puedes perderte. A estas dos hay que añadirles palacios, 
-miradores y cármenes que desvelan el apasionante pasado de esta ciudad. 
+miradores y cármenes que desvelan el apasionante pasado de esta ciudad.** 
 
 ![Alhambra de Granada.](https://fotos.etheriamagazine.com/2020/05/viajes-mujeres-granada-alhambra.jpg "Alhambra de Granada. © Hari Nandakumar")
 
@@ -27,11 +27,9 @@ lado del río, el tiempo parecía detenerse. A continuación os contaremos cómo
 organizamos para ver las visitas básicas en nuestros dos días en Granada. Esperamos que 
 os resulte útil. 
 
-Y si te tenéis más tiempo, estos artículos os pueden interesar: [15 lugares 
-imprescindibles en Granada, una provincia de belleza 
-descomunal](https://etheriamagazine.com/2022/09/30/que-ver-en-granada-provincia/) y [Granada 
-con amigas: cultura, diversión y mucho 
-arte](https://etheriamagazine.com/2022/06/16/granada-con-amigas/). 
+Y si te tenéis más tiempo, estos artículos os pueden interesar: {{< reflink 
+path=posts/2022/09/que-ver-en-granada-provincia >}} y {{< reflink 
+path=posts/2022/06/granada-con-amigas >}}. 
 
 ![viaje granada, albacin](https://fotos.etheriamagazine.com/2020/05/granada-albaicin-viajes-mujeres.jpg "Vista del Albaicín desde la Alhambra, al otro lado del río Darro.")
 
@@ -194,8 +192,8 @@ jardines, los juegos de luces y sombras y la prolífica ornamentación árabe. C
 suprema belleza y delicadeza del arte y con una imagen impactante de calles retorcidas y 
 misteriosas en el Albayzín, decimos adiós a Granada. 
 
-📌**Imprescindible:** [10 consejos para triunfar en tu visita a la 
-Alhambra](https://etheriamagazine.com/2021/10/25/consejos-para-visitar-la-alhambra/) 
+📌**Imprescindible:** {{< reflink path=posts/2021/10/consejos-para-visitar-la-alhambra 
+>}} 
 
 ![mirador sacromonte, vistas de la alhambra, atardecer alhambra, atardecer granada](https://fotos.etheriamagazine.com/2020/05/atardecer-sacromonte-granada.jpg "Mirador del Sacromonte, menos masificado que el de San Nicolás. © Victoriano Izquierdo")
 
@@ -214,5 +212,5 @@ ni los guiris, ni los puestos, ni los artistas improvisados logran restar magia 
 panorámica. Existen otros menos conocidos para disfrutar del ocaso en soledad como el 
 mirador de **San Cristóbal** o el del **Sacromonte**. 
 
-📍Para comer bien en Granada, no te pierdas: [Granada, el privilegio de la buena 
-mesa](https://etheriamagazine.com/2020/10/30/restaurantes-bares-de-granada-y-visitas-para-mujeres/).
+📍Para comer bien en Granada, no te pierdas: {{< reflink 
+path=posts/2020/10/restaurantes-bares-de-granada-y-visitas-para-mujeres >}}.

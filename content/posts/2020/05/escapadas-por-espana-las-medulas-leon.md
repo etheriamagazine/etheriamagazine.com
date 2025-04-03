@@ -1,7 +1,7 @@
 ---
 title: "Cómo visitar Las Médulas, el skyline de El Bierzo"
 date: 2020-05-11
-coverImage: https://fotos.etheriamagazine.com/2020/04/viajar-leon-medulas-mirador-orellan.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/viajar-leon-medulas-mirador-orellan.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -176,8 +176,8 @@ especialmente la excelente elaboración de sus **pimientos asados**.
 Confesados los encantos de este espectáculo visual, ahora entendemos un poco más esa 
 **prestosidad** a la que los leoneses y asturianos hacen referencia. Y como defendemos 
 que en las cuestiones del disfrute no debe haber fronteras, invitamos a descubrir qué es 
-ese sentimiento más allá de sus confines. [Visitar la ciudad de León escribirá el mejor 
-epílogo a esta escapada.](https://etheriamagazine.com/2018/09/27/48-horas-en-leon/) 
+ese sentimiento más allá de sus confines. {{< reflink 
+path=posts/2018/09/48-horas-en-leon >}} 
 
 ## Cómo llegar a Las Médulas de León
 

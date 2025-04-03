@@ -1,7 +1,7 @@
 ---
 title: "Una escapada romántica al hotel Casas do Côro"
 date: 2019-08-15
-coverImage: https://fotos.etheriamagazine.com/2019/07/Casas-do-coro-piscina.jpg
+cover: https://fotos.etheriamagazine.com/2019/07/Casas-do-coro-piscina.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Portugal está llena de rincones mágicos a tan sólo unas horas por carretera. En esta 
+**Portugal está llena de rincones mágicos a tan sólo unas horas por carretera. En esta 
 ocasión, de la mano de Rusticae, nos hemos fijado en el pequeño y delicado hotel Casas 
 do Côro, un lugar perfecto para descansar en pareja en la localidad de Marialva, en la 
-región de Guarda. Si buscas ideas para un fin de semana romántico, aquí tienes una. 
+región de Guarda. Si buscas ideas para un fin de semana romántico, aquí tienes una.** 
 
 ![Hotel Casas do Coro con el castillo al fondo](https://fotos.etheriamagazine.com/2019/07/Casas-do-coro-panoramica.jpg "Hotel con el castillo al fondo.")
 
@@ -113,8 +113,6 @@ Tel. Central de reservas Rusticae: 914 879 017.
 
 **📌 También te puede interesar:** 
 
-[Valle del Côa. 8 experiencias en el corazón de 
-Portugal](https://etheriamagazine.com/2020/07/17/valle-del-coa-8-experiencias-en-la-frontera-portugal/) 
+{{< reflink path=posts/2020/07/valle-del-coa-8-experiencias-en-la-frontera-portugal >}} 
 
-[9 planes divertidos en el Centro de Portugal con 
-niños](https://etheriamagazine.com/2019/06/28/planes-divertidos-viajes-familia-portugal/)
+{{< reflink path=posts/2019/06/planes-divertidos-viajes-familia-portugal >}}

@@ -1,7 +1,7 @@
 ---
 title: "Isla de Pag, descubre a qué sabe la \"Ibiza del Adriático\""
 date: 2018-08-16
-coverImage: https://fotos.etheriamagazine.com/2018/08/pag-croacia-queso-paskisir-e1653808083197.jpg
+cover: https://fotos.etheriamagazine.com/2018/08/pag-croacia-queso-paskisir-e1653808083197.jpg
 categories: 
   - gourmet
 destino: 
@@ -58,9 +58,10 @@ tiene **un sabor fuerte y un aroma intenso**. Se emplea leche de la raza autóct
 **las ovejas de la isla**, que se nutren en el pastoreo de hierbas aromáticas 
 ennoblecidas con la posolica (sal del mar) traída por la 'bura' del Velebit (un fuerte 
 viento procedente de esa montaña). Nuestra recomendación es que te acerques a los 
-**pueblos de Pag y Kolan** y que visites alguno de los centros de producción, como la [quesería 
-Gligora](http://gligora.com/dairy-croatia/), que elabora estos quesos desde hace cuatro 
-generaciones. Dispone de oficina de ventas, aprovecha para hacer algunas compras. 
+**pueblos de Pag y Kolan** y que visites alguno de los centros de producción, como la 
+[quesería Gligora](http://gligora.com/dairy-croatia/), que elabora estos quesos desde 
+hace cuatro generaciones. Dispone de oficina de ventas, aprovecha para hacer algunas 
+compras. 
 
 ### Cordero a la parrilla
 
@@ -140,14 +141,11 @@ Croacia](https://visitacroaciablog.es/pag/) (ambos en español).
 
 #### También te puede interesar en Croacia
 
-[Croacia: consejos y visitas imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2021/01/22/viaje-a-croacia-como-organizar-que-ver-hacer/). 
+{{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}}. 
 
-[10 razones para visitar en otoño el Parque Nacional Lagos de Plitvice 
-(Croacia)](https://etheriamagazine.com/2018/10/05/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia/). 
+{{< reflink path=posts/2018/10/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia 
+>}}. 
 
-[Zadar, una escapada low cost a 
-Croacia](https://etheriamagazine.com/2019/06/21/48-horas-en-zadar-una-escapada-low-cost/). 
+{{< reflink path=posts/2019/06/48-horas-en-zadar-una-escapada-low-cost >}}. 
 
-[10 visitas imprescindibles en Zagreb, la efervescente capital 
-croata](https://etheriamagazine.com/2020/04/24/que-ver-hacer-en-2-3-dias-zagreb-croacia/).
+{{< reflink path=posts/2020/04/que-ver-hacer-en-2-3-dias-zagreb-croacia >}}.

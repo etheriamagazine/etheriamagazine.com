@@ -1,7 +1,7 @@
 ---
 title: "La Toscana, la región italiana que enamora a las mujeres"
 date: 2024-10-24
-coverImage: https://fotos.etheriamagazine.com/2024/10/toscana-Crete-Senesi.jpg
+cover: https://fotos.etheriamagazine.com/2024/10/toscana-Crete-Senesi.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -147,8 +147,6 @@ viajera puede sentirse como en casa (o incluso mejor).
 
 **También en Etheria Magazine** 
 
-[Qué comer en el Valle de Aosta, descubre los mejores sabores de los Alpes 
-italianos](https://etheriamagazine.com/2023/11/08/que-comer-valle-de-aosta-italia/). 
+{{< reflink path=posts/2023/11/que-comer-valle-de-aosta-italia >}}. 
 
-[Viaje con amigas a Bolonia: 10 planes imbatibles en 
-Italia](https://etheriamagazine.com/2022/06/10/viaje-con-amigas-a-bolonia/).
+{{< reflink path=posts/2022/06/viaje-con-amigas-a-bolonia >}}.

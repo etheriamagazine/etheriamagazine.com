@@ -1,7 +1,7 @@
 ---
 title: "Laponia con niños, un viaje irrepetible"
 date: 2018-09-07
-coverImage: https://fotos.etheriamagazine.com/2018/04/7-NUESTROS-TOP-LAPONIA-FOTO-7.jpg
+cover: https://fotos.etheriamagazine.com/2018/04/7-NUESTROS-TOP-LAPONIA-FOTO-7.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -138,8 +138,7 @@ Finland](https://www.visitfinland.com/es/laponia/).
 
 **También te puede interesar:** 
 
-[8 consejos para viajar con niños a la Laponia 
-Finlandesa](https://etheriamagazine.com/2018/09/08/8-consejos-para-viajar-a-la-laponia-finlandesa-con-ninos/) 
+{{< reflink path=posts/2018/09/8-consejos-para-viajar-a-la-laponia-finlandesa-con-ninos 
+>}} 
 
-[Una maleta para… Laponia 
-finlandesa](https://etheriamagazine.com/2018/09/15/una-maleta-para-laponia-finlandesa/)
+{{< reflink path=posts/2018/09/una-maleta-para-laponia-finlandesa >}}

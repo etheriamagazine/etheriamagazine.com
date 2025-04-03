@@ -1,7 +1,7 @@
 ---
 title: "Cabo de Creus, 10 pisadas 'slow' frente al Mediterráneo"
 date: 2019-06-17
-coverImage: https://fotos.etheriamagazine.com/2019/06/Viaje-girona-medieval-e1559737808621.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/Viaje-girona-medieval-e1559737808621.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Si estás dispuesta a dejarte llevar por ese ritmo “despacito” tan de moda a la hora de 
+**Si estás dispuesta a dejarte llevar por ese ritmo “despacito” tan de moda a la hora de 
 viajar, sigue estas pistas por el Empordà. Te contamos qué ver en Girona, concretamente 
 en la zona del cabo de Creus, un lugar reluciente con pueblos tan bonitos como Cadaqués 
-o Peratallada. 
+o Peratallada.** 
 
 ![Cadaqués](https://fotos.etheriamagazine.com/2019/06/viaje-girona-cadaques.jpg "Cadaqués.")
 
@@ -171,11 +171,8 @@ gerundés a través de una experiencia natural que te reconecta con tu lado más
 
 📌 **También te puede interesar:** 
 
-[Empordà, busca la esencia mediterránea en la Costa 
-Brava](https://etheriamagazine.com/2020/08/21/10-planes-comarca-ampurdan-costa-brava/) 
+{{< reflink path=posts/2020/08/10-planes-comarca-ampurdan-costa-brava >}} 
 
-[Hotel Albons, un remanso de paz en el Baix 
-Empordà](https://etheriamagazine.com/2020/06/01/hotel-albons-un-remanso-de-paz-en-el-baix-emporda/) 
+{{< reflink path=posts/2020/06/hotel-albons-un-remanso-de-paz-en-el-baix-emporda >}} 
 
-[15 lugares imprescindibles que tienes que ver en 
-Girona](https://etheriamagazine.com/2022/10/17/lugares-imprescindibles-en-girona/)
+{{< reflink path=posts/2022/10/lugares-imprescindibles-en-girona >}}

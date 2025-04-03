@@ -1,7 +1,7 @@
 ---
 title: "10 planes originales en Salamanca para hacer con amigas"
 date: 2021-03-31
-coverImage: https://fotos.etheriamagazine.com/2021/03/salamanca-En-la-parra.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/salamanca-En-la-parra.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -328,13 +328,10 @@ Salamanca](https://www.civitatis.com/es/salamanca/free-tour-salamanca/?aid=10211
 
 **Otras escapadas con amigas en Castilla y León** 
 
-[Si León no existiera, habría que inventarlo: 10 razones para descubrir la capital de un 
-reino 
-fascinante](https://etheriamagazine.com/2020/12/28/10-razones-para-descubrir-leon-una-capital-unica-y-diferente/). 
+{{< reflink 
+path=posts/2020/12/10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}. 
 
-[¿Por qué se come tan bien en 
-Valladolid?](https://etheriamagazine.com/2019/01/31/bares-imprescindibles-finde-valladolid/) 
+{{< reflink path=posts/2019/01/bares-imprescindibles-finde-valladolid >}} 
 
-[Razones, si es que las necesitas, por las que deberías planear ya una escapada por la 
-provincia de 
-Segovia](https://etheriamagazine.com/2021/03/09/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia/)
+{{< reflink path=posts/2021/03/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia 
+>}}

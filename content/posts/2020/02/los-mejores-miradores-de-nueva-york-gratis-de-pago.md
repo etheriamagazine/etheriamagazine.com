@@ -1,7 +1,7 @@
 ---
 title: "Los mejores miradores de Nueva York: nuevos, de pago y gratuitos"
 date: 2020-02-24
-coverImage: https://fotos.etheriamagazine.com/2020/02/viaje-mujeres-nueva-york-vistas-Edge.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/viaje-mujeres-nueva-york-vistas-Edge.jpg
 categories: 
   - viajar-sola
   - inspiración
@@ -58,10 +58,10 @@ eventos. Precio desde 36 dólares.
 Esta escultura, en la que 154 tramos de escaleras se entrelazan para auparte a bastantes 
 metros de altura, no sólo es una maravilla estética sino que te ofrece la oportunidad de 
 disfrutar de unas bonitas vistas. Está situado también en Hudson Yards, a 5 minutos de 
-Edge. Hay un ascensor en el interior para personas con movilidad reducida. La entrada a [Vessel](https://www.hudsonyardsnewyork.com/discover/vessel) 
-es gratuita si se reserva con una hora y día específicos, se puede hacer online, pero si 
-no se sabe cuando se podrá acudir se puede obtener un Flexi Pass que cuesta unos 10 
-dólares. 
+Edge. Hay un ascensor en el interior para personas con movilidad reducida. La entrada a 
+[Vessel](https://www.hudsonyardsnewyork.com/discover/vessel) es gratuita si se reserva 
+con una hora y día específicos, se puede hacer online, pero si no se sabe cuando se 
+podrá acudir se puede obtener un Flexi Pass que cuesta unos 10 dólares. 
 
 ![the vessel en hudson yards](https://fotos.etheriamagazine.com/2020/02/viaje-mujeres-nueva-york-Vessel.jpg "Imagen interior de The Vessel. © Getty Images")
 
@@ -230,11 +230,8 @@ Más información turística en [NYC & Company](http://www.nycgo.com).
 
 ### También te puede interesar...
 
-[Nueva York: el mejor plan con amigas al otro lado del 
-charco](https://etheriamagazine.com/2019/05/17/viaje-con-amigas-nueva-york-primavera/). 
+{{< reflink path=posts/2019/05/viaje-con-amigas-nueva-york-primavera >}}. 
 
-[10 consejos para un viaje en familia a Nueva 
-York](https://etheriamagazine.com/2018/07/28/consejos-para-viajar-en-familia-a-nueva-york/). 
+{{< reflink path=posts/2018/07/consejos-para-viajar-en-familia-a-nueva-york >}}. 
 
-[Viaje a Nueva York con niños: 8 planes que no puedes 
-perderte](https://etheriamagazine.com/2018/07/23/8-planes-con-ninos-en-nueva-york/).
+{{< reflink path=posts/2018/07/8-planes-con-ninos-en-nueva-york >}}.

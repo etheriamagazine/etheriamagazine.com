@@ -1,7 +1,7 @@
 ---
 title: "Barceló Anfa Casablanca, un hotel cosmopolita en Marruecos"
 date: 2018-11-29
-coverImage: https://fotos.etheriamagazine.com/2018/11/Barcelo-anfa-casablanca-2.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/Barcelo-anfa-casablanca-2.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Pepa G. Marín
 ---
 
-El hotel Barceló Anfa Casablanca es un establecimiento moderno y con una excelente 
+**El hotel Barceló Anfa Casablanca es un establecimiento moderno y con una excelente 
 ubicación para recorrer la ciudad. Si estás planteándote una escapada a Marruecos, este 
-establecimientos es una buena propuesta. 
+establecimientos es una buena propuesta.** 
 
 ![Vistas desde el hotel Barceló Anfa Casablanca.](https://fotos.etheriamagazine.com/2018/11/Barcelo-anfa-casablanca-2.jpg "Vistas desde el hotel Barceló Anfa Casablanca.")
 
@@ -70,8 +70,7 @@ ambiente de playa; el Morocco Mall, si te gusta ir de compras; el Parque de la L
 Árabe, un buen espacio donde tomarse un respiro, y dos museos: el Museo Judío Marroquí y 
 la Villa des Arts. 
 
-✅ No te pierdas: [Casablanca y Marrakech, una escapada esencial (y a precio 
-asequible)](https://etheriamagazine.com/2023/05/04/por-que-viajar-casablanca-marrakech/) 
+✅ No te pierdas: {{< reflink path=posts/2023/05/por-que-viajar-casablanca-marrakech >}} 
 
 ![Mezquita de Hassan II (Casablanca).](https://fotos.etheriamagazine.com/2018/11/mezquita-de-hassan-ii.jpg "Mezquita de Hassan II (Casablanca).")
 

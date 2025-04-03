@@ -1,7 +1,7 @@
 ---
 title: "8 excursiones en Málaga para hacer con niños"
 date: 2021-07-12
-coverImage: https://fotos.etheriamagazine.com/2021/07/Malaga-ninos-teleferico.jpg
+cover: https://fotos.etheriamagazine.com/2021/07/Malaga-ninos-teleferico.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -11,9 +11,9 @@ authors:
   - Redacción Etheria
 ---
 
-Si este verano has elegido viajar a Málaga con niños no te pierdas estas 8 excursiones 
+**Si este verano has elegido viajar a Málaga con niños no te pierdas estas 8 excursiones 
 para que no todo sea pasar el día en la playa: senderismo, museos interactivos, un 
-teleférico y hasta unas cuevas. No os vais a aburrir ni un momento. 
+teleférico y hasta unas cuevas. No os vais a aburrir ni un momento.** 
 
 ![Selwo Aventura, una actividad en Málaga con niños](https://fotos.etheriamagazine.com/2021/07/Malaga-ninos-selwo.jpg "Selwo Aventura. © Parques Reunidos")
 
@@ -88,7 +88,8 @@ señalizado. Se puede descargar el plano con las rutas en **www.torcaldeantequer
 Después, nada mejor que un paseo por la bonita localidad de Antequera para acceder a su 
 castillo y, por supuesto, al Conjunto Arqueológico de los Dólmenes de Antequera, una de 
 las mejores expresiones del megalitismo europeo. Si no os queréis complicar, lo mejor es 
-apuntaros a una de las excursiones organizadas que realiza [Civitatis](https://www.civitatis.com/es/malaga/excursion-antequera-torcal/?aid=10211) 
+apuntaros a una de las excursiones organizadas que realiza 
+[Civitatis](https://www.civitatis.com/es/malaga/excursion-antequera-torcal/?aid=10211) 
 desde Málaga capital. 
 
 ## Málaga ciudad
@@ -138,11 +139,10 @@ su pasado musulmán en forma de castillos y murallas.
 ![Parque Nacional Sierra de las Nieves.](https://fotos.etheriamagazine.com/2021/07/Sierra-nieves-malaga-e1550839729469.jpg "Parque Nacional Sierra de las Nieves.")
 
 No os perdáis tampoco alguno de sus miradores, como el de Puerto Saulcillo, o un paseo 
-por alguno de sus bosques. Os lo hemos contado ya en el artículo [Parque Nacional Sierra 
-de las Nieves, una nueva estrella brilla en 
-Málaga](https://etheriamagazine.com/2021/06/26/revista-viajes-que-ver-parque-sierra-de-nieves/). 
-Además, en la web de la Sierra de las Nieves encontraréis todas las rutas de senderismo 
-e información sobre el parque. 
+por alguno de sus bosques. Os lo hemos contado ya en el artículo {{< reflink 
+path=posts/2021/06/revista-viajes-que-ver-parque-sierra-de-nieves >}}. Además, en la web 
+de la Sierra de las Nieves encontraréis todas las rutas de senderismo e información 
+sobre el parque. 
 
 ## Torremolinos
 
@@ -155,16 +155,14 @@ del Agua** para disfrutar de la vegetación mediterránea.
 ![Jardín Botánico de Torremolinos.](https://fotos.etheriamagazine.com/2021/07/jardin-botanico-torremolinos.jpg "Jardín Botánico de Torremolinos. © Etheria Magazine")
 
 No os podéis perder tapear por el centro y visitar la playa de La Carihuela. Os lo 
-contamos todo en el reportaje de Etheria Magazine [10 planes imprescindibles en 
-Torremolinos](https://etheriamagazine.com/2021/05/19/planes-imprescindibles-torremolinos/). 
+contamos todo en el reportaje de Etheria Magazine {{< reflink 
+path=posts/2021/05/planes-imprescindibles-torremolinos >}}. 
 
 **Más planes con niños** 
 
-[12 actividades para hacer con niños en la provincia de 
-Cádiz](https://etheriamagazine.com/2020/03/12/12-actividades-familiares-para-viajes-con-ninos-en-cadiz/) 
+{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
+>}} 
 
-[Huelva con niños: 6 planes para aprovechar el viaje al 
-máximo](https://etheriamagazine.com/2021/06/21/planes-en-huelva-con-ninos/) 
+{{< reflink path=posts/2021/06/planes-en-huelva-con-ninos >}} 
 
-[8 excursiones con niños en 
-Alicante](https://etheriamagazine.com/2020/05/28/8-excursiones-con-ninos-en-alicante/)
+{{< reflink path=posts/2020/05/8-excursiones-con-ninos-en-alicante >}}

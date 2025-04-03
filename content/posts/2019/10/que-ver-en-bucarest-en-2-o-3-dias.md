@@ -1,7 +1,7 @@
 ---
 title: "Bucarest en 3 días, descubre todos sus encantos"
 date: 2019-10-18
-coverImage: https://fotos.etheriamagazine.com/2019/10/bucarest-biblioteca-universidad.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/bucarest-biblioteca-universidad.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Cristina R. Bareño
 ---
 
-No es la primera capital de la lista de deseos viajeros pero te aseguramos que cuando 
+**No es la primera capital de la lista de deseos viajeros pero te aseguramos que cuando 
 conozcas las visitas imprescindibles de Bucarest, te faltará tiempo para hacer las 
-maletas. ¿No nos crees? Sigue leyendo porque nos vamos al corazón de Rumanía... 
+maletas. ¿No nos crees? Sigue leyendo porque nos vamos al corazón de Rumanía...** 
 
 ![Ateneo Rumano, en Bucarest.](https://fotos.etheriamagazine.com/2019/10/viaje-bucarest-ateneo-rumano.jpg "Ateneo Rumano, en Bucarest. © Puffy Buns / Unsplash")
 
@@ -149,8 +149,8 @@ ambiente de fiesta todos los días de la semana. Aquí confluyen diferentes bare
 pequeñas discotecas que convierten la calle en una fiesta de lo más divertida y 
 variopinta. 
 
-📍Continúa viaje: [Cómo convertir una ruta en coche por Rumanía de 7 días en un viaje 
-inolvidable](https://etheriamagazine.com/2019/08/02/como-organizar-ruta-coche-rumania-con-amigos/) 
+📍Continúa viaje: {{< reflink 
+path=posts/2019/08/como-organizar-ruta-coche-rumania-con-amigos >}} 
 
 ### Más información
 

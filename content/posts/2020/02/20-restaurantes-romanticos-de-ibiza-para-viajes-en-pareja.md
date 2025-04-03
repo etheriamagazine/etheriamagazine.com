@@ -1,7 +1,7 @@
 ---
 title: "20 restaurantes románticos de Ibiza para ir en pareja"
 date: 2020-02-14
-coverImage: https://fotos.etheriamagazine.com/2020/02/restaurantes-romanticos-la-torre-vistas.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/restaurantes-romanticos-la-torre-vistas.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -11,11 +11,11 @@ authors:
   - Nuria Cortés
 ---
 
-Los restaurantes de Ibiza son uno de los grandes atractivos de la isla, pues en un 
+**Los restaurantes de Ibiza son uno de los grandes atractivos de la isla, pues en un 
 espacio relativamente pequeño se ofrece gran diversidad para disfrutar de una excelente 
 cena o comida en pareja. Nuestra siguiente selección incluye restaurantes románticos de 
 todo tipo, desde un chiringuito rústico con vistas a Ibiza hasta el primer restaurante 
-de Ibiza con estrella Michelin. 
+de Ibiza con estrella Michelin.** 
 
 ![ibiza romantica, ibiza en pareja](https://fotos.etheriamagazine.com/2020/02/Ibiza-en-pareja.jpg "Ibiza es aún más romántica al caer el sol. © Vicent Marí/ Consell d'Eivissa")
 
@@ -50,9 +50,9 @@ Tel. 722 446 654
 ### 2\. Sa Capella: cena romántica en una antigua capilla
 
 Una antigua capilla que no llegó a ser consagrada alberga este romántico restaurante de 
-cuidada cocina mediterránea situado a las afueras de San Antonio. El agradable jardín de [Sa 
-Capella](https://www.facebook.com/sacapella.ibiza) resulta perfecto para las noches del 
-verano. Abierto de abril a octubre. Tel. 971 340 057 
+cuidada cocina mediterránea situado a las afueras de San Antonio. El agradable jardín de 
+[Sa Capella](https://www.facebook.com/sacapella.ibiza) resulta perfecto para las noches 
+del verano. Abierto de abril a octubre. Tel. 971 340 057 
 
 \*Cerrado temporalmente (comprueba si ha abierto en la fecha de tu viaje) 
 
@@ -94,10 +94,10 @@ restaurantes y chiringuitos de Ibiza.
 
 ### 6\. Amante: suspiros frente al mar
 
-Con una cocina mediterránea contemporánea, el elegante restaurante [Amante](http://www.amanteibiza.com) 
-destaca por su ubicación espectacular en una terraza natural con vistas al mar, en la 
-calita de Sol d’en Serra, junto a Cala Llonga. Abierto de abril a octubre. Tel. 971 196 
-176 
+Con una cocina mediterránea contemporánea, el elegante restaurante 
+[Amante](http://www.amanteibiza.com) destaca por su ubicación espectacular en una 
+terraza natural con vistas al mar, en la calita de Sol d’en Serra, junto a Cala Llonga. 
+Abierto de abril a octubre. Tel. 971 196 176 
 
 ![Restaurante Amante, ibiza romantica, ibiza en pareja, restaurantes romanticos ibiza](https://fotos.etheriamagazine.com/2020/02/restaurante-romantico-ibiza-Amante.jpg "Restaurante Amante. ©Tasya Menaker/ Amante")
 
@@ -232,11 +232,8 @@ cabra con tomillo y miel. Abierto de mayo a octubre. Tel. 971 305 752
 
 **Sigue leyendo sobre Ibiza** 
 
-[10 errores que debes evitar si vas a Ibiza con 
-amigas](https://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/). 
+{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}. 
 
-[Hotel La Torre del Canónigo, un coqueto espacio de lujo en 
-Ibiza](https://etheriamagazine.com/2021/03/22/hotel-lujo-la-torre-del-canonigo-ibiza/). 
+{{< reflink path=posts/2021/03/hotel-lujo-la-torre-del-canonigo-ibiza >}}. 
 
-[Excursión a Formentera: playas que no te puedes 
-perder](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-playas-formentera/).
+{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}.

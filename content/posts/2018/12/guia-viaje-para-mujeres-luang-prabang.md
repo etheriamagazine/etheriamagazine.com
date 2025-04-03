@@ -1,7 +1,7 @@
 ---
 title: "Luang Prabang, la población más incorrupta de la antigua Indochina"
 date: 2018-12-17
-coverImage: https://fotos.etheriamagazine.com/2022/02/viajes-novios-originales-Luang-Prabang-palacio-real.jpg
+cover: https://fotos.etheriamagazine.com/2022/02/viajes-novios-originales-Luang-Prabang-palacio-real.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -151,11 +151,8 @@ ganarse el cielo con su generosidad.
 
 **También te puede interesar:** 
 
-[Crucero por el Mekong. Vietnam y Camboya a través del río de la 
-vida](https://etheriamagazine.com/2019/09/13/crucero-por-el-mekong-excursiones-vietnam-y-camboya/) 
+{{< reflink path=posts/2019/09/crucero-por-el-mekong-excursiones-vietnam-y-camboya >}} 
 
-[Las bailarinas ‘desaparecidas’ de 
-Angkor](https://etheriamagazine.com/2019/01/17/que-ver-angkor-bailarinas-robadas/) 
+{{< reflink path=posts/2019/01/que-ver-angkor-bailarinas-robadas >}} 
 
-[10 templos de Asia para visitar al menos una vez en la 
-vida](https://etheriamagazine.com/2019/05/03/10-templos-no-debes-perderte-viaje-asia/)
+{{< reflink path=posts/2019/05/10-templos-no-debes-perderte-viaje-asia >}}

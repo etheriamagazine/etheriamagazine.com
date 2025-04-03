@@ -1,7 +1,7 @@
 ---
 title: "Hotel Alemannenhof, el mejor refugio en la Selva Negra alemana"
 date: 2018-05-09
-coverImage: https://fotos.etheriamagazine.com/2018/05/1-Selva-Negra-Hotel-Alemannenhof.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/1-Selva-Negra-Hotel-Alemannenhof.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Pepa G. Marín
 ---
 
-Un entorno de ensueño, unas instalaciones magníficas y una entrañable historia acompañan 
-en su trayectoria al hotel Alemannenhof, un cuatro estrellas ubicado junto al lago 
-Titisee, en la Alta Selva Negra de Alemania. 
+**Un entorno de ensueño, unas instalaciones magníficas y una entrañable historia 
+acompañan en su trayectoria al hotel Alemannenhof, un cuatro estrellas ubicado junto al 
+lago Titisee, en la Alta Selva Negra de Alemania.** 
 
 ![Desayunar con estas vistas al lago Titisee es inaugurar el día a lo grande.](https://fotos.etheriamagazine.com/2018/05/1-Selva-Negra-Hotel-Alemannenhof.jpg "Desayunar con estas vistas al lago Titisee es inaugurar el día a lo grande.")
 

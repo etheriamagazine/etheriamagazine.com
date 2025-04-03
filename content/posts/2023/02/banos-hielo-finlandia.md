@@ -1,7 +1,7 @@
 ---
 title: "Por qué deberías bañarte en el hielo en Finlandia"
 date: 2023-02-22
-coverImage: https://fotos.etheriamagazine.com/2023/02/finlandia-banarte-hielo-Karelia.jpg
+cover: https://fotos.etheriamagazine.com/2023/02/finlandia-banarte-hielo-Karelia.jpg
 categories: 
   - inspiración
 destino: 
@@ -23,8 +23,8 @@ mitad del hielo en Finlandia**. Aunque pueda parecer un poco desconcertante, es 
 práctica habitual en el norte de Europa y que genera grandes beneficios físicos y 
 mentales. ¿Te animarías? 
 
-**No te pierdas:** [7 excursiones ideales en la Laponia 
-finlandesa](https://etheriamagazine.com/2019/10/31/siete-excursiones-en-laponia-finlandesa/). 
+**No te pierdas:** {{< reflink 
+path=posts/2019/10/siete-excursiones-en-laponia-finlandesa >}}. 
 
 ## Un baño helado en Finlandia
 
@@ -67,21 +67,21 @@ No hay nadie mejor que la nadadora **Elina Mäkinen** para recomendar los mejore
 donde bañarte en el hielo en Finlandia. Estos son sus sitios favoritos para disfrutar de 
 la experiencia: 
 
-• Natación invernal en Helsinki: En la capital finlandesa está **Löyly**, un buen sitio 
+- Natación invernal en Helsinki: En la capital finlandesa está **Löyly**, un buen sitio 
 para hacer unos largos a pocos grados sobre cero y terminar en una sauna cercana. 
 
-• Al estilo más natural en el **Fell Centre Kiilopää**, en Laponia. La nadadora sugiere 
+- Al estilo más natural en el **Fell Centre Kiilopää**, en Laponia. La nadadora sugiere 
 un arroyo perfecto para sumergirse en este sitio. Además, la experiencia se puede 
 completar con una sauna de humo que está al lado. 
 
-• Contraste frío-calor: a Elina Mäkinen le encanta un lugar llamado **Arctic Sauna 
+- Contraste frío-calor: a Elina Mäkinen le encanta un lugar llamado **Arctic Sauna 
 World** situado en su lugar de residencia, Muonio. Junto al lago Jerisjärvi se puede 
 vivir la sensación de tomar un baño y una sauna en un paisaje típico finlandés. 
 
-• **Club de natación Osos Polares** de Joensuu, al este de Finlandia. Cuenta con dos 
+- **Club de natación Osos Polares** de Joensuu, al este de Finlandia. Cuenta con dos 
 grandes saunas para entrar en calor tras la actividad. 
 
-• Experiencia completa de lujo. Un lugar espectacular donde disfrutar tanto de estancia 
+- Experiencia completa de lujo. Un lugar espectacular donde disfrutar tanto de estancia 
 como de baño en hielo y sauna es en el **lodge Isokenkäisten Klubi** (www.ikk.fi), en el 
 entorno del lago Heikinjärvi. Está situado cerca de Kuusamo y allí se grabó parte del 
 documental que hemos comentado, "Into de Cold". 
@@ -122,8 +122,6 @@ Finlandia](https://finland.fi/).
 
 **También te puede interesar:** 
 
-[Qué hacer en Finlandia en invierno lejos de Papá 
-Noel](https://etheriamagazine.com/2023/10/24/que-hacer-en-finlandia-en-invierno/) 
+{{< reflink path=posts/2023/10/que-hacer-en-finlandia-en-invierno >}} 
 
-[Mujeres artistas Suomi y Sami en 
-Finlandia](https://etheriamagazine.com/2019/07/01/viaje-finlandia-mujeres-artistas-suomi-y-sami/)
+{{< reflink path=posts/2019/07/viaje-finlandia-mujeres-artistas-suomi-y-sami >}}

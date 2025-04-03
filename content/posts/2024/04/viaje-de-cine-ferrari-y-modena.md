@@ -1,7 +1,7 @@
 ---
 title: "Descubre Módena a través del biopic de Enzo Ferrari"
 date: 2024-04-19
-coverImage: https://fotos.etheriamagazine.com/2024/04/Modena-Motor-Valley-Fest.jpg
+cover: https://fotos.etheriamagazine.com/2024/04/Modena-Motor-Valley-Fest.jpg
 categories: 
   - inspiración
   - viajar-sola
@@ -155,8 +155,6 @@ Módena](http://www.visitmodena.it/es/) y **modenatur.it**
 
 **También te puede interesar...** 
 
-[Imprescindibles en Trieste, la Italia menos 
-italiana](https://etheriamagazine.com/2024/02/17/que-ver-en-trieste/). 
+{{< reflink path=posts/2024/02/que-ver-en-trieste >}}. 
 
-[Qué comer en el Valle de Aosta, descubre los mejores sabores de los Alpes 
-italianos](https://etheriamagazine.com/2023/11/08/que-comer-valle-de-aosta-italia/).
+{{< reflink path=posts/2023/11/que-comer-valle-de-aosta-italia >}}.

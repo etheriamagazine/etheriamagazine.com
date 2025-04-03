@@ -1,7 +1,7 @@
 ---
 title: "Hyatt Centric Gran Vía Madrid: sabores navideños en el corazón de la capital"
 date: 2024-11-25
-coverImage: https://fotos.etheriamagazine.com/2024/11/Hyatt-navidad-2024-Pintada-asada.jpeg
+cover: https://fotos.etheriamagazine.com/2024/11/Hyatt-navidad-2024-Pintada-asada.jpeg
 categories: 
   - hoteles
 destino: 
@@ -107,11 +107,8 @@ Gran Vía, 31. Tel. 656 682 470
 
 **También en Etheria Magazine** 
 
-[10 exposiciones en Madrid para ver en otoño de 
-2024](https://etheriamagazine.com/2024/10/23/exposiciones-en-madrid-otono-de-2024/). 
+{{< reflink path=posts/2024/10/exposiciones-en-madrid-otono-de-2024 >}}. 
 
-[Terrazas en las azoteas de Madrid: 10 lugares con los que aciertas 
-seguro](https://etheriamagazine.com/2024/06/19/terrazas-azoteas-madrid/). 
+{{< reflink path=posts/2024/06/terrazas-azoteas-madrid >}}. 
 
-[La ruta de Lola Flores en Madrid a tu aire (con plano 
-incluido)](https://etheriamagazine.com/2024/04/11/ruta-lola-flores-en-madrid/).
+{{< reflink path=posts/2024/04/ruta-lola-flores-en-madrid >}}.

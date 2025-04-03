@@ -1,7 +1,7 @@
 ---
 title: "Planes románticos en Praga, clásicos u originales"
 date: 2023-01-30
-coverImage: https://fotos.etheriamagazine.com/2023/01/praga-romantica-spa-cerveza.jpg
+cover: https://fotos.etheriamagazine.com/2023/01/praga-romantica-spa-cerveza.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Etheria Magazine
 ---
 
-Entre las capitales europeas que más se prestan a una escapada en pareja se encuentra la 
-capital checa. Las razones son sencillas: se sitúa a sólo unas tres horas de España en 
-avión y los planes románticos en Praga no faltan sea cual sea la edad o el gusto de los 
-viajeros. Si necesitáis propuestas para vuestro viaje a esta ciudad, a continuación os 
-detallamos algunas clásicas y otras originales. 
+**Entre las capitales europeas que más se prestan a una escapada en pareja se encuentra 
+la capital checa. Las razones son sencillas: se sitúa a sólo unas tres horas de España 
+en avión y los planes románticos en Praga no faltan sea cual sea la edad o el gusto de 
+los viajeros. Si necesitáis propuestas para vuestro viaje a esta ciudad, a continuación 
+os detallamos algunas clásicas y otras originales.** 
 
 ![En la orilla del Moldava junto a los cisnes.](https://fotos.etheriamagazine.com/2023/01/praga-romantica.jpg "En la orilla del Moldava junto a los cisnes. © Wellstock")
 
@@ -149,14 +149,11 @@ ni alguna internacional y una decoración maravillosa.
 
 📌 **También te puede interesar...** 
 
-[Un viaje en familia a la República Checa: Praga y Moravia del 
-Sur](https://etheriamagazine.com/2019/05/07/viaje-en-familia-moravia-del-sur-praga-republica-checa/). 
+{{< reflink path=posts/2019/05/viaje-en-familia-moravia-del-sur-praga-republica-checa 
+>}}. 
 
-[Qué ver en Brno: una escapada muy ‘chic’ a 
-Chequia](https://etheriamagazine.com/2022/08/26/que-ver-brno-chequia/). 
+{{< reflink path=posts/2022/08/que-ver-brno-chequia >}}. 
 
-[El Valle del Cristal, descubre la magia del norte de 
-Bohemia](https://etheriamagazine.com/2023/01/09/valle-cristal-republica-checa/). 
+{{< reflink path=posts/2023/01/valle-cristal-republica-checa >}}. 
 
-[Karlovy Vary, la ciudad balnearia checa que Goethe visitó 13 
-veces](https://etheriamagazine.com/2021/12/09/que-ver-en-karlovy-vary-la-ciudad-balnearia-checa/).
+{{< reflink path=posts/2021/12/que-ver-en-karlovy-vary-la-ciudad-balnearia-checa >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Bonifacio, uno de los pueblos más bellos del Mediterráneo"
 date: 2022-12-05
-coverImage: https://fotos.etheriamagazine.com/2022/11/Bonifacio-castillo.jpg
+cover: https://fotos.etheriamagazine.com/2022/11/Bonifacio-castillo.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pedro Grifol
 ---
 
-Bonifacio está en la isla de Córcega, una de las islas francesas más desconocidas y un 
+**Bonifacio está en la isla de Córcega, una de las islas francesas más desconocidas y un 
 auténtico refugio mediterráneo. Su perfil colgado de las rocas costeras te seducirá al 
 instante, pero además está lleno de historia, leyendas y rincones secretos. ¿Te vienes a 
-visitar una de las poblaciones más bellas del Mediterráneo? 
+visitar una de las poblaciones más bellas del Mediterráneo?** 
 
 ![Puerto de Bonifacio por la noche.](https://fotos.etheriamagazine.com/2022/11/Bonifacio-castillo.jpg "Puerto de Bonifacio por la noche. © Bonifacio Tourisme")
 
@@ -193,8 +193,6 @@ Infierno’… con ese título ¡yo no me lo perdería!
 
 📌 **También te puede interesar:** 
 
-[Planes divertidos para practicar un turismo sostenible en 
-Francia](https://etheriamagazine.com/2022/10/28/turismo-sostenible-francia/) 
+{{< reflink path=posts/2022/10/turismo-sostenible-francia >}} 
 
-[Ruta en coche por Cerdeña, un plan 
-irrechazable](https://etheriamagazine.com/2018/09/14/viaje-chicas-isla-cerdena-italia/)
+{{< reflink path=posts/2018/09/viaje-chicas-isla-cerdena-italia >}}

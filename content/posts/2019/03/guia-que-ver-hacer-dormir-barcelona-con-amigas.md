@@ -1,7 +1,7 @@
 ---
 title: "Barcelona con amigas: visitas, compras y los mejores restaurantes"
 date: 2019-03-12
-coverImage: https://fotos.etheriamagazine.com/2019/03/Barcelona-bicing-en-el-gotico.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/Barcelona-bicing-en-el-gotico.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -206,13 +206,12 @@ edificios).
 Cruzando la Vía Laietana, a la altura de la plaza Sant Jaume, entraréis en el **barrio 
 medieval de El Born**. Si seguís la calle Argenteria iréis a parar directamente a la 
 **basílica de Santa María del Mar**, la famosa "Catedral del mar" de Ildefonso Falcones 
-(no te pierdas nuestro artículo 📍 [Viajes de cine: 8 localizaciones de La Catedral del 
-Mar](https://etheriamagazine.com/2018/08/01/turismo-de-cine-catedral-del-mar/)). Desde 
-aquí es aconsejable dejarse guiar por el instinto, pero no podéis prescindir del Paseo 
-del Born (lugar en el que antaño se celebraban las justas), la calle de la Princesa o la 
-calle Montcada, en la que en pocos metros se concentran un buen número de palacios 
-góticos y renacentistas, la mayor parte habilitados como museos (entre ellos el Museo 
-Picasso). 
+(no te pierdas nuestro artículo 📍 {{< reflink 
+path=posts/2018/08/turismo-de-cine-catedral-del-mar >}}). Desde aquí es aconsejable 
+dejarse guiar por el instinto, pero no podéis prescindir del Paseo del Born (lugar en el 
+que antaño se celebraban las justas), la calle de la Princesa o la calle Montcada, en la 
+que en pocos metros se concentran un buen número de palacios góticos y renacentistas, la 
+mayor parte habilitados como museos (entre ellos el Museo Picasso). 
 
 Si os da tiempo, entrad en el **Born Centre Cultural**, ubicado en el edificio 
 rehabilitado del antiguo mercado del Born, el primer ejemplar de arquitectura en hierro 
@@ -282,11 +281,8 @@ apartamentos con todas las comodidades.
 
 ### También te puede interesar:
 
-[10 planes originales para hacer con amigas en 
-Barcelona](https://etheriamagazine.com/2021/03/10/10-planes-originales-con-amigas-en-barcelona/) 
+{{< reflink path=posts/2021/03/10-planes-originales-con-amigas-en-barcelona >}} 
 
-[Los mejores planes en Barcelona con 
-niños](https://etheriamagazine.com/2018/10/24/guia-de-viaje-de-barcelona-en-familia/) 
+{{< reflink path=posts/2018/10/guia-de-viaje-de-barcelona-en-familia >}} 
 
-[Ruta en coche por el Pirineo y las Tierras de 
-Lleida](https://etheriamagazine.com/2022/02/07/ruta-en-coche-pirineo-tierras-lleida/)
+{{< reflink path=posts/2022/02/ruta-en-coche-pirineo-tierras-lleida >}}

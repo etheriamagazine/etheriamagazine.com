@@ -1,7 +1,7 @@
 ---
 title: "10 razones por las que deberías hacer un safari en Botsuana"
 date: 2018-11-22
-coverImage: https://fotos.etheriamagazine.com/2018/11/Bostsuana-viaje-fauna-africa-e1552208227696.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/Bostsuana-viaje-fauna-africa-e1552208227696.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,9 +11,9 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Un safari en Botsuana puede cambiar tu concepción del viaje y de la naturaleza africana, 
-incluso marcar un antes y un después en tu vida. Te animamos a explorar las orillas del 
-río Chobe mientras despierta tu naturaleza más aventurera. 
+**Un safari en Botsuana puede cambiar tu concepción del viaje y de la naturaleza 
+africana, incluso marcar un antes y un después en tu vida. Te animamos a explorar las 
+orillas del río Chobe mientras despierta tu naturaleza más aventurera.** 
 
 ![bufalo de agua safari en botsuana](https://fotos.etheriamagazine.com/2018/11/Bostsuana-viaje-fauna-africa-e1552208227696.jpg "Bufalo de agua.")
 
@@ -169,11 +169,8 @@ africana a nuestro alrededor.
 
 📌 **También te puede interesar:** 
 
-[Kenia, 10 experiencias que nunca 
-olvidarás](https://etheriamagazine.com/2018/10/25/10-flechazos-para-viajar-a-kenia/) 
+{{< reflink path=posts/2018/10/10-flechazos-para-viajar-a-kenia >}} 
 
-[Viajar sola a Namibia, una ruta en coche para descubrir su sorprendente 
-naturaleza](https://etheriamagazine.com/2023/06/21/viajar-sola-a-namibia/) 
+{{< reflink path=posts/2023/06/viajar-sola-a-namibia >}} 
 
-[El desierto costero de Sudáfrica florece en 
-verano](https://etheriamagazine.com/2023/07/12/ruta-costera-sudafrica/)
+{{< reflink path=posts/2023/07/ruta-costera-sudafrica >}}

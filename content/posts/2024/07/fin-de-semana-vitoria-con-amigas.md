@@ -1,7 +1,7 @@
 ---
 title: "Buenas ideas para un fin de semana en Vitoria con amigas"
 date: 2024-07-10
-coverImage: https://fotos.etheriamagazine.com/2024/07/vitoria-plaza-machete-mujer.jpg
+cover: https://fotos.etheriamagazine.com/2024/07/vitoria-plaza-machete-mujer.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -51,9 +51,8 @@ aunque sea sólo desde el exterior, son la iglesia de San Miguel Arcángel y la 
 San Pedro Apóstol. 
 
 El **arte urbano** también tiene una presencia destacada en Vitoria, tanta que le 
-dedicamos un artículo especial que puedes leer aquí: [10 fachadas básicas en la Ruta de 
-los Murales de 
-Vitoria](https://etheriamagazine.com/2019/11/21/ruta-murales-en-vitoria-10-grafitis-imprescindibles/) 
+dedicamos un artículo especial que puedes leer aquí: {{< reflink 
+path=posts/2019/11/ruta-murales-en-vitoria-10-grafitis-imprescindibles >}} 
 
 ![Mural de arte urbano en el centro de Vitoria.](https://fotos.etheriamagazine.com/2024/07/vitoria-arte-urbano.jpg "Mural de arte urbano en el centro de Vitoria. © Susana García.")
 
@@ -155,8 +154,6 @@ zonas del centro medieval y del Ensanche.
 
 **También te puede interesar:** 
 
-[Ibis budget Vitoria-Gasteiz, un hotel para disfrutar de Vitoria al mejor 
-precio](https://etheriamagazine.com/2024/06/05/hotel-ibis-budget-vitoria/) 
+{{< reflink path=posts/2024/06/hotel-ibis-budget-vitoria >}} 
 
-[Planes en Vitoria con amigas dispuestas al 
-picoteo](https://etheriamagazine.com/2021/09/15/planes-originales-en-vitoria-con-amigas/)
+{{< reflink path=posts/2021/09/planes-originales-en-vitoria-con-amigas >}}

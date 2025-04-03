@@ -1,7 +1,7 @@
 ---
 title: "Siete tesoros de la provincia de Salamanca que os encantarán"
 date: 2024-01-12
-coverImage: https://fotos.etheriamagazine.com/2024/01/salamanca-mogarraz.jpg
+cover: https://fotos.etheriamagazine.com/2024/01/salamanca-mogarraz.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -37,9 +37,10 @@ retrato colectivo de los habitantes del pueblo. Este museo al aire libre, tejido
 historias únicas, rinde homenaje a la comunidad y conserva los recuerdos de generaciones 
 pasadas de una manera sensible y auténtica. 
 
-✅ Podéis conocer más datos curiosos en este artículo de [Mogarraz](https://etheriamagazine.com/2019/10/07/que-ver-en-mogarraz-pueblo-de-retratos-salamanca/) 
-donde os proporcionamos información de dónde comer o bodegas que se pueden visitar en 
-los alrededores. 
+✅ Podéis conocer más datos curiosos en este artículo de {{< reflink 
+path=posts/2019/10/que-ver-en-mogarraz-pueblo-de-retratos-salamanca >}} donde os 
+proporcionamos información de dónde comer o bodegas que se pueden visitar en los 
+alrededores. 
 
 ![Mogarraz, uno de los pueblos más originales de la provincia de Salamanca.](https://fotos.etheriamagazine.com/2024/01/salamanca-mogarraz.jpg "Mogarraz, uno de los pueblos más originales de Salamanca.")
 
@@ -54,9 +55,8 @@ todas las visitas posibles, la que más llamará vuestra atención será probabl
 la grandeza de este lugar a lo largo del tiempo. 
 
 ✅ Si os gusta caminar, os animamos a recorrer el **Camino de Hierro**, 17 kilómetros por 
-antiguas vías de ferrocarril. Os lo contamos todo en este artículo: [El Camino de 
-Hierro, kilómetros de magia entre puentes y túneles en 
-Salamanca](https://etheriamagazine.com/2021/10/03/recorrido-del-camino-de-hierro-salamanca/). 
+antiguas vías de ferrocarril. Os lo contamos todo en este artículo: {{< reflink 
+path=posts/2021/10/recorrido-del-camino-de-hierro-salamanca >}}. 
 
 ![Ciudad Rodrigo, en Salamanca.](https://fotos.etheriamagazine.com/2024/01/salamanca-Ciudad-Rodrigo.jpg "Ciudad Rodrigo, en Salamanca.")
 
@@ -97,10 +97,9 @@ de la misma o bien desde enfrente, al otro lado del cañón, donde la vista es m
 completa. La atmósfera creada alrededor de la catarata y en un lugar tan inhóspito es 
 digna de vivirse. 
 
-✅ Del Pozo de los Humos ya os hemos hablado en la [Ruta del Vino de la Sierra de 
-Francia](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/), 
-así que no os perdáis el resto de recomendaciones del artículo si os gusta el mundo del 
-enoturismo. 
+✅ Del Pozo de los Humos ya os hemos hablado en la {{< reflink 
+path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}, así que no os 
+perdáis el resto de recomendaciones del artículo si os gusta el mundo del enoturismo. 
 
 ![Pozo de los Humos, en Salamanca.](https://fotos.etheriamagazine.com/2024/01/salamanca-Pozo-Humos.jpg "Pozo de los Humos, en la provincia de Salamanca.")
 

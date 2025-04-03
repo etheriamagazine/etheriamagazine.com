@@ -1,7 +1,7 @@
 ---
 title: "Guía básica para una ruta en autocaravana por la Subbética Cordobesa"
 date: 2022-03-23
-coverImage: https://fotos.etheriamagazine.com/2022/03/dona-mencia-area-caravanas.jpg
+cover: https://fotos.etheriamagazine.com/2022/03/dona-mencia-area-caravanas.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Redacción Etheria
 ---
 
-Si buscas nuevas rutas para recorrer Andalucía en autocaravana, te interesa saber que la 
-Subbética Cordobesa proporciona seis nuevas áreas de descanso (muchas de ellas 
+**Si buscas nuevas rutas para recorrer Andalucía en autocaravana, te interesa saber que 
+la Subbética Cordobesa proporciona seis nuevas áreas de descanso (muchas de ellas 
 gratuitas) desde donde descubrir los encantos de la comarca. En este artículo 
 encontrarás la información necesaria (pueblos principales, rutas naturales, áreas para 
 pernoctar y restaurantes) para hacer una increíble ruta en autocaravana por la Subbética 
-Cordobesa. 
+Cordobesa.** 
 
 ![dos mujeres posan junto a una autocaravana en dona mencia en una Ruta en autocaravana por la Subbética Cordobesa](https://fotos.etheriamagazine.com/2022/03/dona-mencia-area-caravanas.jpg "Viajeras en Doña Mencía.")
 
@@ -234,18 +234,16 @@ tranquila y en un bonito parque. Está a un cuarto de hora del centro histórico
 pueblo. Es pública y se puede permanecer un máximo de 48 horas. 
 
 📍Si necesitas más información sobre estos pueblos o las **áreas de descanso de 
-autocaravanas en la Subbética Cordobesa**, no dejes de consultar en este [enlace](https://turismodelasubbetica.es/organiza-tu-viaje/guia-practica). 
+autocaravanas en la Subbética Cordobesa**, no dejes de consultar en este 
+[enlace](https://turismodelasubbetica.es/organiza-tu-viaje/guia-practica). 
 
 **\*Fotografías** cedidas por la Mancomunidad Subbética y los pueblos mencionados en los 
 pies de foto. 
 
 📌 **Sigue leyendo en Etheria Magazine** 
 
-[Andalucía en autocaravana y consejos prácticos para 
-novatos](https://etheriamagazine.com/2021/04/07/consejos-rutas-andalucia-en-autocaravana/). 
+{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}. 
 
-[5 rutas en autocaravana por España para disfrutar de mar y de 
-montaña](https://etheriamagazine.com/2020/07/23/5-rutas-en-auto-caravana-por-espana/). 
+{{< reflink path=posts/2020/07/5-rutas-en-auto-caravana-por-espana >}}. 
 
-[Córdoba con amigas: 10 planes para una escapada 
-perfecta](https://etheriamagazine.com/2021/08/25/planes-que-hacer-en-cordoba-con-amigas/).
+{{< reflink path=posts/2021/08/planes-que-hacer-en-cordoba-con-amigas >}}.

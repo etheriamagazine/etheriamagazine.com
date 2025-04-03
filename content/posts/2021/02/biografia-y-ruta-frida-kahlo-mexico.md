@@ -1,7 +1,7 @@
 ---
 title: "Escenarios poéticos y atormentados de la vida de Frida Kahlo"
 date: 2021-02-15
-coverImage: https://fotos.etheriamagazine.com/2021/02/apertura-frida-kahlo.jpg
+cover: https://fotos.etheriamagazine.com/2021/02/apertura-frida-kahlo.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Pilar Ortega
 ---
 
-Convertida en icono feminista, la artista mexicana Frida Kahlo reflejó en su obra 
+**Convertida en icono feminista, la artista mexicana Frida Kahlo reflejó en su obra 
 pictórica tanto sus pasiones como su soledad e infortunios. Recorremos los escenarios de 
-su vida, aquellos que la marcaron como mujer y como artista. 
+su vida, aquellos que la marcaron como mujer y como artista.** 
 
 ![Frida en un banco blanc](https://fotos.etheriamagazine.com/2021/02/Frida-en-un-banco-blanco.jpg "Frida en un banco blanco. © Nickolas Muray Photo Archives")
 
@@ -159,8 +159,8 @@ y aquellos donde se exhiben algunas de su obras:
 
 ### También te puede interesar...
 
-[Grandes mujeres artistas. Arte ¡para ver y para 
-comprar!](https://etheriamagazine.com/2019/11/18/grandes-mujeres-artistas-exposicion-sofonisba-anguissola-lavinia-fontana/) 
+{{< reflink 
+path=posts/2019/11/grandes-mujeres-artistas-exposicion-sofonisba-anguissola-lavinia-fontana 
+>}} 
 
-[Arte en Amberes. Si las mujeres 
-pintaran…](https://etheriamagazine.com/2018/07/05/arte-en-amberes-si-las-mujeres-pintaran/)
+{{< reflink path=posts/2018/07/arte-en-amberes-si-las-mujeres-pintaran >}}

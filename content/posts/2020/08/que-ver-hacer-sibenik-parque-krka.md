@@ -1,7 +1,7 @@
 ---
 title: "Sibenik, 8 razones para visitar esta ciudad croata"
 date: 2020-08-13
-coverImage: https://fotos.etheriamagazine.com/2020/08/Sibenik-detalles-puertas-centro-historico.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/Sibenik-detalles-puertas-centro-historico.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -15,7 +15,8 @@ Sibenik, situada entre Zadar y Split, es una de las ciudades más interesantes d
 ![sibenik, viajeras, viajar sola,](https://fotos.etheriamagazine.com/2020/08/Sibenik-detalles-puertas-centro-historico.jpg "Detalles del casco antiguo de Sibenik. © Etheria Magazine")
 
 Croacia es un destino ya consolidado entre los viajeros españoles, quien más y quien 
-menos ya ha visitado algunas de sus ciudades más turísticas. Puede que hayas recorrido [Zagreb](http://etheriamagazine.com/2020/04/24/que-ver-hacer-en-2-3-dias-zagreb-croacia/), 
+menos ya ha visitado algunas de sus ciudades más turísticas. Puede que hayas recorrido 
+[Zagreb](http://etheriamagazine.com/2020/04/24/que-ver-hacer-en-2-3-dias-zagreb-croacia/), 
 paseado por las murallas de **Dubrovnik**, que hayas alucinado en el templo de 
 Diocleciano en **Split**, admirado el ocaso desde [el órgano del mar de 
 Zadar](http://etheriamagazine.com/2019/06/21/48-horas-en-zadar-una-escapada-low-cost/) o 
@@ -137,8 +138,9 @@ y puedes perderte (es lo que nos ocurrió a nosotras).
 
 No hay vuelos directos en estos momentos. Los aeropuertos más cercanos son los de Split 
 y Zadar. Desde allí puedes llegar a Sibenik en autobús en menos de dos horas o alquilar 
-un coche y recorrer toda la zona a tu aire. Busca en [Skyscanner](https://clk.tradedoubler.com/click?p=224466&a=3132464) 
-la mejor combinación desde tu ciudad de origen y el precio más ajustado. 
+un coche y recorrer toda la zona a tu aire. Busca en 
+[Skyscanner](https://clk.tradedoubler.com/click?p=224466&a=3132464) la mejor combinación 
+desde tu ciudad de origen y el precio más ajustado. 
 
 ##### Dónde dormir en Sibenik
 

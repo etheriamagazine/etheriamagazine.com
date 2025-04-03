@@ -1,7 +1,7 @@
 ---
 title: "San Patricio, la gran fiesta irlandesa, se celebra en casa este año"
 date: 2021-03-17
-coverImage: https://fotos.etheriamagazine.com/2021/03/St-Patricks-Day-irlanda.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/St-Patricks-Day-irlanda.jpg
 categories: 
   - ocio
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Gracias a la Ola Verde o 'Global Greening' que se realiza desde hace más de una década 
+**Gracias a la Ola Verde o 'Global Greening' que se realiza desde hace más de una década 
 en el Día de San Patricio, el color de la esperanza volverá a invadir el mundo el 17 de 
 marzo. Además de iluminar edificios, monumentos y otros lugares destacados, este año 
-ofrecerá un gran evento virtual desde tres pubs irlandeses y muchas sorpresas. 
+ofrecerá un gran evento virtual desde tres pubs irlandeses y muchas sorpresas.** 
 
 ![fuente de cibeles en san patricio](https://fotos.etheriamagazine.com/2021/03/Fuente-de-Cibeles-san-patricio.jpg "Fuente de Cibeles (Madrid) iluminada en San Patricio.")
 
@@ -59,17 +59,16 @@ Facebook y de Youtube (en los enlaces añadidos).
 
 ## San Patricio en Dublín
 
-Las grandes celebraciones que os contábamos en Etheria Magazine en 2019 (ver artículo: [En 
-San Patricio se brinda con 
-Guinness](https://etheriamagazine.com/2019/03/04/celebrar-san-patricio-dublin/)) este 
-año no se podrán realizar pero sí que hay nuevas propuestas virtuales y creativas. Una 
-de las más sorprendentes es el espectáculo '**Orchestra of Light**' (vídeo superior) en 
-el que unos 500 drones sobrevuelan el cielo de Dublín para ofrecer un espectáculo sin 
-precedentes (no es en directo). Los drones recorren el cielo nocturno de la capital 
-irlandesa iluminando monumentos tan conocidos como el puente Samuel Beckett sobre el río 
-Liffey, y generando símbolos de la cultura musical y del baile tradicional en Irlanda. 
-Todo ello, con música de fondo de la compositora irlandesa **Eimear Noone** y su marido 
-**Craig Stuart Garfinkle**. 
+Las grandes celebraciones que os contábamos en Etheria Magazine en 2019 (ver artículo: 
+{{< reflink path=posts/2024/03/celebrar-san-patricio-dublin >}}) este año no se podrán 
+realizar pero sí que hay nuevas propuestas virtuales y creativas. Una de las más 
+sorprendentes es el espectáculo '**Orchestra of Light**' (vídeo superior) en el que unos 
+500 drones sobrevuelan el cielo de Dublín para ofrecer un espectáculo sin precedentes 
+(no es en directo). Los drones recorren el cielo nocturno de la capital irlandesa 
+iluminando monumentos tan conocidos como el puente Samuel Beckett sobre el río Liffey, y 
+generando símbolos de la cultura musical y del baile tradicional en Irlanda. Todo ello, 
+con música de fondo de la compositora irlandesa **Eimear Noone** y su marido **Craig 
+Stuart Garfinkle**. 
 
 ![san patricio eventos virtuales](https://fotos.etheriamagazine.com/2021/03/san-patricio-virtual.jpg "Este 2021 San Patricio se celebra en casa. © Adam Weldon")
 
@@ -90,8 +89,6 @@ con el movimiento independentista de los irlandeses.
 
 **Más artículos de Irlanda...** 
 
-[6 visitas imprescindibles y 2 lugares casi secretos de Irlanda del 
-Norte](https://etheriamagazine.com/2020/08/26/8-visitas-increibles-en-irlanda-del-norte/). 
+{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}}. 
 
-[Sligo, el condado irlandés que enamoró a William Butler 
-Yeats](https://etheriamagazine.com/2020/04/22/viaje-sligo-ruta-yeats-maud-gonne/).
+{{< reflink path=posts/2020/04/viaje-sligo-ruta-yeats-maud-gonne >}}.

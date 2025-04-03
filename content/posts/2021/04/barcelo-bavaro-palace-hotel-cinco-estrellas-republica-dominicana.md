@@ -1,7 +1,7 @@
 ---
 title: "Hotel Barceló Bávaro Palace, date un capricho cinco estrellas en República Dominicana"
 date: 2021-04-26
-coverImage: https://fotos.etheriamagazine.com/2021/04/Barcelo-bavaro-palace-playa.jpg
+cover: https://fotos.etheriamagazine.com/2021/04/Barcelo-bavaro-palace-playa.jpg
 categories: 
   - hoteles
 destino: 
@@ -144,8 +144,7 @@ cedidas por © Barceló Hotel Group.
 
 ### También te puede interesar:
 
-[10 razones para viajar a República 
-Dominicana](https://etheriamagazine.com/2018/05/18/10-razones-para-visitar-punta-cana-republica-dominicana/) 
+{{< reflink path=posts/2018/05/10-razones-para-visitar-punta-cana-republica-dominicana 
+>}} 
 
-[11 destinos exóticos que te esperan en verano con los brazos 
-abiertos](https://etheriamagazine.com/2021/04/16/paises-sin-cuarentena-desde-espana-verano-2021/)
+{{< reflink path=posts/2021/04/paises-sin-cuarentena-desde-espana-verano-2021 >}}

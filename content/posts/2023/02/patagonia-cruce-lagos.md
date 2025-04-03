@@ -1,7 +1,7 @@
 ---
 title: "Cruce Andino, Bariloche y El Bolsón, fin del viaje de Sania en Patagonia"
 date: 2023-02-10
-coverImage: https://fotos.etheriamagazine.com/2023/02/sania-tres-lagos-horizontal.jpg
+cover: https://fotos.etheriamagazine.com/2023/02/sania-tres-lagos-horizontal.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Sania Jelic
 ---
 
-Sania concluye en el Cruce Andino, entre los lagos que conectan Chile y Argentina, su 
+**Sania concluye en el Cruce Andino, entre los lagos que conectan Chile y Argentina, su 
 viaje por la Patagonia de ambos países. Un lugar de una belleza espectacular como veréis 
 por las imágenes. Tras pasar por Bariloche, finaliza su etapa en El Bolsón, una 
 localidad menos conocida pero con una naturaleza abrumadora. Te lo cuenta a continuación 
-con todo detalle. 
+con todo detalle.** 
 
 ![Sania en el Cruce Andino.](https://fotos.etheriamagazine.com/2023/02/Sania-cruce-andino.jpg "Sania en el Cruce Andino. © Sania Jelic")
 
@@ -27,13 +27,14 @@ cuesta en autobús). Pero sigue leyendo y verás por qué merece la pena.
 
 ## Cruce Andino a través de los tres lagos
 
-La travesía comienza a las 8 de la mañana en la oficina de [TurisTour](https://www.turistour.cl/cgi-bin/turistour.cgi) 
-en Puerto Varas donde se entrega el equipaje, un bulto por persona (bulto adicional 
-25$). Y se sale en autobús hacia el **Parque Nacional Vicente Pérez Rosales**, el más 
-antiguo de Chile, declarado zona protegida en 1926, con una extensión de 253.000 
-hectáreas. Forma parte de la Reserva de la Biosfera de los Bosques Templados Lluviosos 
-de los Andes Australes, protegida por la Unesco desde 2007 y reconocida en 1998 por el 
-Fondo Mundial de la Naturaleza como un punto clave en la conservación de los bosques. 
+La travesía comienza a las 8 de la mañana en la oficina de 
+[TurisTour](https://www.turistour.cl/cgi-bin/turistour.cgi) en Puerto Varas donde se 
+entrega el equipaje, un bulto por persona (bulto adicional 25$). Y se sale en autobús 
+hacia el **Parque Nacional Vicente Pérez Rosales**, el más antiguo de Chile, declarado 
+zona protegida en 1926, con una extensión de 253.000 hectáreas. Forma parte de la 
+Reserva de la Biosfera de los Bosques Templados Lluviosos de los Andes Australes, 
+protegida por la Unesco desde 2007 y reconocida en 1998 por el Fondo Mundial de la 
+Naturaleza como un punto clave en la conservación de los bosques. 
 
 ### Puerto Petrohué
 
@@ -199,25 +200,17 @@ ojos.
 
 📌 **También te puede interesar:** 
 
-01.[Viajar sola por el mundo tras la jubilación, el nuevo plan de vida de Sania 
-Jelic](https://etheriamagazine.com/2022/12/13/sania-jelic-viajar-sola-mas-65/). 
+01.{{< reflink path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}}. 
 
-02. [El Amazonas: nueva etapa de Sania Jelic en 
-Sudamérica](https://etheriamagazine.com/2022/12/24/sania-jelic-amazonas/). 
+02. {{< reflink path=posts/2022/12/sania-jelic-amazonas >}}. 
 
-03. [Sania en Patagonia (parte 1): Ushuaia y Punta 
-Arenas](https://etheriamagazine.com/2023/01/10/sania-en-patagonia-ushuaia-punta-arenas/). 
+03. {{< reflink path=posts/2023/01/sania-en-patagonia-ushuaia-punta-arenas >}}. 
 
-04. [Sania Jelic en Patagonia (parte 2): Calafate y El 
-Chalten](https://etheriamagazine.com/2023/01/20/sania-jelic-patagonia-calafate-chalten/). 
+04. {{< reflink path=posts/2023/01/sania-jelic-patagonia-calafate-chalten >}}. 
 
-05. [Sania en Patagonia (parte 3): todo va lento, menos el 
-viento](https://etheriamagazine.com/2023/01/24/sania-patagonia-chilena/). 
+05. {{< reflink path=posts/2023/01/sania-patagonia-chilena >}}. 
 
-06\. [Isla de Chiloé, 
-consejo](https://etheriamagazine.com/2023/02/03/sania-archipielago-de-chiloe/)[s de 
-Sania para 
-visitarla](https://etheriamagazine.com/2023/02/03/sania-archipielago-de-chiloe/). 
+06\. {{< reflink path=posts/2023/02/sania-archipielago-de-chiloe >}}{{< reflink 
+path=posts/2023/02/sania-archipielago-de-chiloe >}}. 
 
-08\. [Sania en Mendoza, la mayor región vinícola 
-argentina](https://etheriamagazine.com/2023/02/17/sania-que-hacer-en-mendoza/).
+08\. {{< reflink path=posts/2023/02/sania-que-hacer-en-mendoza >}}.

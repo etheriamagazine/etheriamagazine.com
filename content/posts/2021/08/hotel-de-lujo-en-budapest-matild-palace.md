@@ -1,7 +1,7 @@
 ---
 title: "No te pierdas el renovado Matild Palace, tu hotel de lujo en Budapest"
 date: 2021-08-16
-coverImage: https://fotos.etheriamagazine.com/2021/08/Matild-Palace-exterior-Budapest.jpg
+cover: https://fotos.etheriamagazine.com/2021/08/Matild-Palace-exterior-Budapest.jpg
 categories: 
   - hoteles
 destino: 
@@ -100,8 +100,6 @@ Fotografías cedidas por Marriot International.
 
 ## También te puede interesar
 
-[Descubre Budapest con amigas en solo 3 
-días](https://etheriamagazine.com/2019/10/25/que-ver-viaje-amigas-budapest-en-3-dias/) 
+{{< reflink path=posts/2019/10/que-ver-viaje-amigas-budapest-en-3-dias >}} 
 
-[7 hoteles de lujo para vivir 7 ciudades 
-históricas](https://etheriamagazine.com/2021/07/09/hoteles-de-lujo-en-ciudades-historicas/)
+{{< reflink path=posts/2021/07/hoteles-de-lujo-en-ciudades-historicas >}}

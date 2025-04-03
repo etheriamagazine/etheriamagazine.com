@@ -1,7 +1,7 @@
 ---
 title: "Inmersión cultural en Ecuador, Sania descubre Cuenca y Quito"
 date: 2023-04-17
-coverImage: https://fotos.etheriamagazine.com/2023/04/sania-ecuador-cuenca-catedral.jpg
+cover: https://fotos.etheriamagazine.com/2023/04/sania-ecuador-cuenca-catedral.jpg
 categories: 
   - historias
   - mujeres-top
@@ -11,10 +11,10 @@ authors:
   - Sania Jelic
 ---
 
-Sania Jelic visita Ecuador tras vivir la experiencia de pasar dos semanas en las islas 
+**Sania Jelic visita Ecuador tras vivir la experiencia de pasar dos semanas en las islas 
 Galápagos. En Cuenca y Quito ha podido disfrutar de la riqueza cultural de las dos 
 ciudades ecuatorianas. Sigue leyendo para descubrir sus recomendaciones en ambos 
-lugares. 
+lugares.** 
 
 ![Sania en Cuenca (Ecuador)](https://fotos.etheriamagazine.com/2023/04/sania-ecuador-cuenca-catedral.jpg "Sania en Cuenca (Ecuador). © Sania Jelic.")
 
@@ -202,11 +202,8 @@ Cuenca y tardaré, por lo menos, unos dos meses en recuperar algo de mi melena b
 
 📌 **También te puede interesar:** 
 
-[Islas Galápagos, consejos de Sania para visitar el paraíso 
-perdido](https://etheriamagazine.com/2023/04/09/como-viajar-islas-galapagos/) 
+{{< reflink path=posts/2023/04/como-viajar-islas-galapagos >}} 
 
-[Bolivia bien vale un potosí, nueva etapa de Sania 
-Jelic](https://etheriamagazine.com/2023/03/13/itinerario-bolivia-sania-jelic/) 
+{{< reflink path=posts/2023/03/itinerario-bolivia-sania-jelic >}} 
 
-[Cruce Andino, Bariloche y El Bolsón, fin del viaje de Sania en 
-Patagonia](https://etheriamagazine.com/2023/02/10/patagonia-cruce-lagos/)
+{{< reflink path=posts/2023/02/patagonia-cruce-lagos >}}

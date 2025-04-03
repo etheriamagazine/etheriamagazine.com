@@ -1,7 +1,7 @@
 ---
 title: "Cómo disfrutar de los deportes de invierno con total seguridad"
 date: 2023-12-11
-coverImage: https://fotos.etheriamagazine.com/2023/12/esqui-intermundial-mujer.jpg
+cover: https://fotos.etheriamagazine.com/2023/12/esqui-intermundial-mujer.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,13 +11,13 @@ authors:
   - Redacción Etheria
 ---
 
-Llega la temporada de los deportes de invierno, que nos permiten combinar la actividad 
+**Llega la temporada de los deportes de invierno, que nos permiten combinar la actividad 
 física más divertida con los paisajes increíbles de la naturaleza nevada. Para disfrutar 
 de estas actividades como se merecen, lo mejor es contratar un buen seguro que nos dé la 
 tranquilidad de estar cubiertos si tenemos la mala suerte de tener algún percance. En 
 este artículo de damos algunas pistas tanto de los mejores lugares del mundo para 
 practicar estos deportes como de la mejor opción de seguros para disfrutarlos con toda 
-tranquilidad. 
+tranquilidad.** 
 
 ![chica haciendo snowboard](https://fotos.etheriamagazine.com/2023/12/snowboarder-esqui-intermundial.jpg "El snowboard es uno de los deportes de invierno más populares.")
 
@@ -124,12 +124,13 @@ con un buen seguro. Lo mejor es confiar en una compañía con experiencia y expe
 deportes de invierno como **INTERMUNDIAL**. Además, ofrecen un producto único en el 
 mercado, el **seguro Wintersports** que se presenta en dos versiones: 
 
-• [Wintersports 
+- [Wintersports 
 Basic](https://clk.tradedoubler.com/click?p=281568&a=3132464&url=https%3A%2F%2Fwww.intermundial.es%2Fseguros-deportivos%2Fseguro-wintersports-basic). 
 Cubre la práctica del esquí y el snowboard dentro de España. Es el más económico y puede 
 contratarse tanto para días sueltos como para toda la temporada. 
 
-• [Wintersports](https://clk.tradedoubler.com/click?p=281568&a=3132464&url=https%3A%2F%2Fwww.intermundial.es%2Fseguros-deportivos%2Fseguro-wintersports). 
+- 
+[Wintersports](https://clk.tradedoubler.com/click?p=281568&a=3132464&url=https%3A%2F%2Fwww.intermundial.es%2Fseguros-deportivos%2Fseguro-wintersports). 
 Es a la vez un seguro deportivo (cubre una amplia gama de deportes de invierno, además 
 del esquí y el snowboard) y un seguro de viaje. Cuenta con distintas modalidades según 
 la zona de cobertura (España, Europa y Mundo) y se puede contratar tanto por periodos 
@@ -150,5 +151,4 @@ favoritos sin riesgos**.
 
 **También te puede interesar:** 
 
-[Disfruta del surf sin preocuparte de nada 
-más](https://etheriamagazine.com/2020/03/24/que-seguro-viaje-cubre-deporte-surf/)
+{{< reflink path=posts/2020/03/que-seguro-viaje-cubre-deporte-surf >}}

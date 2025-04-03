@@ -1,7 +1,7 @@
 ---
 title: "Sorteo Etheria-Rusticae: Gana dos noches de hotel en Castillo de Gorraiz & Spa (Navarra)"
 date: 2019-03-26
-coverImage: https://fotos.etheriamagazine.com/2019/03/hotel-castillo-gormaiz-Exterior-hotel-general.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/hotel-castillo-gormaiz-Exterior-hotel-general.jpg
 categories: 
   - inspiración
   - ocio
@@ -38,16 +38,16 @@ propondremos sorteos de estancias y regalos.
 
 ### ¿En qué consiste el PREMIO?
 
-• **2 Noches (Alojamiento y desayuno) en el hotel Castillo de Gorraiz & Spa**, situado 
+- **2 Noches (Alojamiento y desayuno) en el hotel Castillo de Gorraiz & Spa**, situado 
 en el bonito valle de Egües, a sólo 4 km de Pamplona. En este artículo podrás leer todas 
 sus características: Hotel Rusticae Castillo de Gorraiz&Spa. 
 
 ### ¿Quiénes entran en el SORTEO?
 
-• Participarán todos los suscriptores que estén en nuestra base de datos antes del 8 
+- Participarán todos los suscriptores que estén en nuestra base de datos antes del 8 
 abril 2019. 
 
-• Para quedarte más tranquilo con el tema legal, puedes consultar las condiciones 
+- Para quedarte más tranquilo con el tema legal, puedes consultar las condiciones 
 completas en Bases legales Sorteo Etheria-Rusticae. 
 
-• Tu nombre saldrá publicado en la Newsletter posterior a la realización del sorteo.
+- Tu nombre saldrá publicado en la Newsletter posterior a la realización del sorteo.

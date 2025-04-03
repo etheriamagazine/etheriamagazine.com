@@ -1,7 +1,7 @@
 ---
 title: "Organiza tu viaje a Kerala, hoteles y consejos útiles"
 date: 2018-12-05
-coverImage: https://fotos.etheriamagazine.com/2018/11/playa-marari-kerala-645.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/playa-marari-kerala-645.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Manena Munar
 ---
 
-Kerala, en el sudoeste de India, es un punto y aparte entre los veintinueve estados que 
-forman el magno país por muchas y variadas razones: climáticas, sociales, medicinales, 
-políticas e incluso religiosas. Esta Tierra de Dios, como se le denomina, cuna del 
-Ayurveda, está regada por ríos, lagos y lagunas, perfilada por blancas playas y cubierta 
-de frondosas colinas y valles. Algunos de sus hoteles nos servirán como hilo conductor 
-de este viaje. 
+**Kerala, en el sudoeste de India, es un punto y aparte entre los veintinueve estados 
+que forman el magno país por muchas y variadas razones: climáticas, sociales, 
+medicinales, políticas e incluso religiosas. Esta Tierra de Dios, como se le denomina, 
+cuna del Ayurveda, está regada por ríos, lagos y lagunas, perfilada por blancas playas y 
+cubierta de frondosas colinas y valles. Algunos de sus hoteles nos servirán como hilo 
+conductor de este viaje.** 
 
 ![Mujeres sonriendo en la playa de Marari en Mararikulam](https://fotos.etheriamagazine.com/2018/11/Kerala-india-844.jpg "La playa de Marari en Mararikulam, junto a la que se ubica Marari Beach Resort, está en el mar Arábigo.")
 
@@ -201,11 +201,8 @@ Kerala](http://www.keralatourism.org/spanish/)
 
 📌 **También te puede interesar:** 
 
-[Qué ver en el norte de India: 10 colores del 
-Rajastán](https://etheriamagazine.com/2020/01/29/viaje-para-mujeres-que-ver-norte-india-rajastan/) 
+{{< reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}} 
 
-[La “pasión india” de Anita 
-Delgado](https://etheriamagazine.com/2020/04/13/la-pasion-india-de-anita-delgado-libros-viajes/) 
+{{< reflink path=posts/2020/04/la-pasion-india-de-anita-delgado-libros-viajes >}} 
 
-[¿Puedo viajar sola o con amigas a 
-India?](https://etheriamagazine.com/2018/10/19/viajar-sola-o-con-amigas-a-india/)
+{{< reflink path=posts/2018/10/viajar-sola-o-con-amigas-a-india >}}

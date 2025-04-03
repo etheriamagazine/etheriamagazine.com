@@ -1,7 +1,7 @@
 ---
 title: "8 planes geniales con niños para descubrir el patrimonio industrial catalán"
 date: 2019-12-18
-coverImage: https://fotos.etheriamagazine.com/2019/12/mina-bellmunt-cataluna.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/mina-bellmunt-cataluna.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-Combinar la diversión y el aprendizaje en un viaje puede ser muy sencillo si encontramos 
-un destino cuya infraestructura y personal esté preparado para ello. En Etheria Magazine 
-viajamos a Cataluña para conocer parte de su extenso patrimonio industrial y su 
-adaptación al turismo familiar y educativo. Os contamos nuestros hallazgos... 
+**Combinar la diversión y el aprendizaje en un viaje puede ser muy sencillo si 
+encontramos un destino cuya infraestructura y personal esté preparado para ello. En 
+Etheria Magazine viajamos a Cataluña para conocer parte de su extenso patrimonio 
+industrial y su adaptación al turismo familiar y educativo. Os contamos nuestros 
+hallazgos...** 
 
 ![mina eugenia, turismo industrial](https://fotos.etheriamagazine.com/2019/12/mina-bellmunt-cataluna.jpg "Interior de la Mina Eugenia. ©P.G.")
 
@@ -87,10 +88,12 @@ trasfondo de este filme, sólo podemos decirte que la emoción de ganar el bolet
 es comparable a la cara de felicidad de los niños cuando esperan a entrar en la sala y 
 la mirada se les va para la tienda situada junto a la entrada. 
 
-El [Espai Xocolata - Simón Coll](https://espaixocolata.simoncoll.com/es/), en Sant 
-Sadurní d’Anoia, organiza unas visitas muy recomendables con fuerte componente educativo 
-y lúdico. Siempre son guiadas, hay muchos horarios posibles y se organizan en grupos. En 
-primer lugar se ve un audiovisual en una pantalla de 180º que recorre los orígenes de la 
+El [Espai Xocolata 
+
+- Simón Coll](https://espaixocolata.simoncoll.com/es/), en Sant Sadurní d’Anoia, 
+organiza unas visitas muy recomendables con fuerte componente educativo y lúdico. 
+Siempre son guiadas, hay muchos horarios posibles y se organizan en grupos. En primer 
+lugar se ve un audiovisual en una pantalla de 180º que recorre los orígenes de la 
 chocolatería de Simón Coll y del cacao en sí mismo. A éste le sigue una amena charla 
 donde se conoce el producto en profundidad y se pueden ver y tocar piñas de cacao, etc. 
 Tras esta introducción se puede observar a través del cristal una de las 11 líneas de 
@@ -143,9 +146,8 @@ arquitecto Lluís Muncunill, que fue quien aportó su genio para darle la aparie
 modernista que podemos disfrutar hoy día. 
 
 ✅ Si os gusta el Modernismo, os recomendamos continuar la ruta por otros exponentes de 
-este estilo en Terrassa, que son muchos y muy llamativos. Sigue leyendo: [Modernismo en 
-Terrassa, tres visitas que te 
-sorprenderán](https://etheriamagazine.com/2021/08/20/que-ver-en-terrassa-visitas-modernistas/). 
+este estilo en Terrassa, que son muchos y muy llamativos. Sigue leyendo: {{< reflink 
+path=posts/2021/08/que-ver-en-terrassa-visitas-modernistas >}}. 
 
 📍¿Dónde? Parque de Sant Jordi. Pl. Freixa i Argemí, 11. Terrassa, Barcelona. 
 
@@ -183,11 +185,12 @@ Maria dels Horts, Museo de Arqueología de Cataluña de Olèrdola, etc.
 
 ![bodega pares balta, ruta bicicleta penedes, turismo familiar en barcelona, turismo industria cataluna](https://fotos.etheriamagazine.com/2019/12/bodega-pares-alta.jpg "Esta es la zona más antigua de la bodega Parés Baltà. ©P.G.")
 
-Y, por supuesto, se finaliza en una bodega. La opción que probamos nosotros fue la [bodega 
-familiar Parés Baltà](https://paresbalta.com/), muy reconocida porque cultiva viñedos de 
-forma ecológica desde 1790 y es biodinámica desde 2012. Las enólogas de la casa, María 
-Elena Jiménez y Marta Casas, se encargan de crear vinos con carácter a la vez que 
-equilibrados. La ruta de, entre 8 y 13 km, tiene una duración de 2 horas y 30 minutos. 
+Y, por supuesto, se finaliza en una bodega. La opción que probamos nosotros fue la 
+[bodega familiar Parés Baltà](https://paresbalta.com/), muy reconocida porque cultiva 
+viñedos de forma ecológica desde 1790 y es biodinámica desde 2012. Las enólogas de la 
+casa, María Elena Jiménez y Marta Casas, se encargan de crear vinos con carácter a la 
+vez que equilibrados. La ruta de, entre 8 y 13 km, tiene una duración de 2 horas y 30 
+minutos. 
 
 ¿Dónde? En la estación de tren de Vilafranca del Penedès hay una empresa de alquiler de 
 bicis. Barcelona. 

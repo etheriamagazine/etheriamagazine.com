@@ -1,7 +1,7 @@
 ---
 title: "Calendarios de Adviento irresistibles para darte un capricho"
 date: 2020-11-20
-coverImage: https://fotos.etheriamagazine.com/2020/11/calendario-adviento-cajas.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/calendario-adviento-cajas.jpg
 categories: 
   - compras
 destino: 
@@ -71,8 +71,8 @@ Precio: 59 Euros.
 ## Té con Tetereta
 
 Durante el otoño y el invierno un plan casi perfecto es disfrutar de una taza de té o 
-infusión calentita durante la tarde. Por eso no puede ser mejor la propuesta de este [calendario 
-de Adviento para 
+infusión calentita durante la tarde. Por eso no puede ser mejor la propuesta de este 
+[calendario de Adviento para 
 Tealovers](https://tetereta.com/navidad/calendario-Adviento-con-te-only-for-tealovers/) 
 que incluye té rojo, té negro, té verde, té blanco, rooibos o una infusión de frutas 
 para cada día. Es de Tetereta y lo presentan en unas bonitas casas navideñas que tienes 
@@ -96,12 +96,12 @@ muestras para los viajes y para la bolsa del gimnasio. Precio: 89 Euros.
 
 ## Productos de belleza con L'Occitane
 
-Nos chiflan los productos inspirados en la naturaleza de [L'Occitane](https://clk.tradedoubler.com/click?p=225641&a=3132464) 
-y por eso no nos vamos a poder resistir a su bonito calendario de Adviento. Incluye 24 
-sorpresas en forma de productos de belleza, miniaturas perfumadas y productos de 
-tratamiento, como un gel de ducha de verbena, una leche de cuerpo de almendra o una 
-crema confort ligera de karité. Todos apetecen y son perfectos para llevar en el bolso. 
-Precio: 59 Euros. 
+Nos chiflan los productos inspirados en la naturaleza de 
+[L'Occitane](https://clk.tradedoubler.com/click?p=225641&a=3132464) y por eso no nos 
+vamos a poder resistir a su bonito calendario de Adviento. Incluye 24 sorpresas en forma 
+de productos de belleza, miniaturas perfumadas y productos de tratamiento, como un gel 
+de ducha de verbena, una leche de cuerpo de almendra o una crema confort ligera de 
+karité. Todos apetecen y son perfectos para llevar en el bolso. Precio: 59 Euros. 
 
 ![Calendarios de Adviento dulces](https://fotos.etheriamagazine.com/2020/11/calendario-adviento-lindt.jpg "Delicioso calendario de Adviento de © Lindt.")
 
@@ -119,5 +119,5 @@ Precio: 26,34 Euros.
 [Ocho imprescindibles en tu maleta para hacer deporte cuando 
 viajas.](https://etheriamagazine.com/category/organiza-tu-viaje/regalos-compras-viajeras/) 
 
-[Libros recomendados para este otoño 
-2020.](https://etheriamagazine.com/2020/10/01/libros-recomendados-para-otono-2020-viajes-mujeres-novedades/)
+{{< reflink 
+path=posts/2020/10/libros-recomendados-para-otono-2020-viajes-mujeres-novedades >}}

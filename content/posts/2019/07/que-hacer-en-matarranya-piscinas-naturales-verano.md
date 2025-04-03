@@ -1,7 +1,7 @@
 ---
 title: "La comarca del Matarranya, una joya entre tres provincias"
 date: 2019-07-16
-coverImage: https://fotos.etheriamagazine.com/2019/06/viaje-matarranya-rio-uldemo-beceite.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/viaje-matarranya-rio-uldemo-beceite.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -121,10 +121,10 @@ sensación de tiempo congelado, de serenidad y orgullo, difícil de definir.
 
 **Peñarroya de Tastavins** es un pueblecito de casas apiñadas en la falda de dos 
 imponentes rocas que presiden esa parte del valle. En este pueblo se encuentra también 
-una sede del parque Dinópolis, llamada [Inhospitak.](https://www.dinopolis.com/inhospitak.html) 
-Allí se pueden admirar fósiles de hace cien millones de años, y también la réplica de un 
-imponente dinosaurio de 17 metros de altura encontrado en el municipio y al que se 
-bautizó como Tastavinsaurus. 
+una sede del parque Dinópolis, llamada 
+[Inhospitak.](https://www.dinopolis.com/inhospitak.html) Allí se pueden admirar fósiles 
+de hace cien millones de años, y también la réplica de un imponente dinosaurio de 17 
+metros de altura encontrado en el municipio y al que se bautizó como Tastavinsaurus. 
 
 ### Apuntes para el viaje a la comarca del Matarranya
 
@@ -137,11 +137,11 @@ poder recorrer bien todos los pueblos y lugares de interés.
 
 ##### Dónde dormir
 
-• En Beceite, la [Antigua Posada Roda](http://www.antiguaposadaroda.com/) ofrece 
+- En Beceite, la [Antigua Posada Roda](http://www.antiguaposadaroda.com/) ofrece 
 habitaciones sencillas pero bien mantenidas. En el punto de partida de muchas 
 excursiones. 
 
-• Entre Valderrobres y Fuentespalda, se encuentra [La Torre del 
+- Entre Valderrobres y Fuentespalda, se encuentra [La Torre del 
 Visco](https://torredelvisco.com/es/), un hotelito de lujo de la cadena Relais & 
 Chateaux, en una antigua torre de vigilancia. Precio alto pero sensación de lujo en 
 mitad de un paisaje de verdor y de paz. 
@@ -155,18 +155,15 @@ región. El melocotón es la fruta estrella.
 
 ##### Dónde comer bien en la comarca del Matarranya/ Matarraña
 
-• [Fonda La Plaza](http://www.fondalaplaza.es/). Una de las fondas más antiguas de 
+- [Fonda La Plaza](http://www.fondalaplaza.es/). Una de las fondas más antiguas de 
 España, en el corazón de Valderobles, con una carta típica de la región. 
 
 \*Fotos cedidas por la Comarca del Matarranya. 
 
 ### Te puede interesar...
 
-[Los valles de la Jacetania. Descubre estas ‘joyicas’ del Pirineo 
-aragonés](https://etheriamagazine.com/2019/09/25/viaja-sola-a-los-valles-de-la-jacetania-huesca/). 
+{{< reflink path=posts/2019/09/viaja-sola-a-los-valles-de-la-jacetania-huesca >}}. 
 
-[Descubre estos 8 lugares secretos de Cataluña que deberías 
-conocer](https://etheriamagazine.com/2021/02/22/lugares-secretos-de-cataluna-que-visitar/). 
+{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}. 
 
-[Delta del Ebro, un viaje natural sorprendente entre aves y 
-arrozales](https://etheriamagazine.com/2020/11/17/delta-del-ebro-turismo-natural-y-responsable/).
+{{< reflink path=posts/2020/11/delta-del-ebro-turismo-natural-y-responsable >}}.

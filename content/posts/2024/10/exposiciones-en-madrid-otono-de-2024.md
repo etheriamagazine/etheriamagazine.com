@@ -1,7 +1,7 @@
 ---
 title: "10 exposiciones en Madrid para ver en otoño de 2024"
 date: 2024-10-23
-coverImage: https://fotos.etheriamagazine.com/2024/10/exposiciones-madrid-otono-casa-mexico-coleccion-blastein-mujer.jpg
+cover: https://fotos.etheriamagazine.com/2024/10/exposiciones-madrid-otono-casa-mexico-coleccion-blastein-mujer.jpg
 categories: 
   - cultura
 destino: 
@@ -174,14 +174,13 @@ Conde Duque. Calle del Conde Duque, 11. **Cuándo:** hasta el 17 de noviembre.
 ## Vanguardia artística con Gabriele Münter, la gran pintora expresionista
 
 Hemos dejado para el final una exposición que nos gusta tanto que le hemos dedicado un 
-artículo completo en Etheria Magazine: [Gabriele Münter llega al Museo Thyssen: primera 
-gran retrospectiva de la pionera del 
-expresionismo](https://etheriamagazine.com/2024/10/16/gabriele-munter-llega-al-museo-thyssen/). 
-Este museo ha dedicado una exposición monográfica a Gabriele Münter (1877-1962), 
-cofundadora del grupo artístico impresionista El Jinete Azul, la primera retrospectiva 
-dedicada a esta artista en España. Las 145 obras que recoge permiten sumergirse en sus 
-pinturas de colores planos e intensos delimitados por líneas precisas que representan 
-tanto objetos cotidianos como a sus amigos y amantes, además de sus autorretratos. 
+artículo completo en Etheria Magazine: {{< reflink 
+path=posts/2024/10/gabriele-munter-llega-al-museo-thyssen >}}. Este museo ha dedicado 
+una exposición monográfica a Gabriele Münter (1877-1962), cofundadora del grupo 
+artístico impresionista El Jinete Azul, la primera retrospectiva dedicada a esta artista 
+en España. Las 145 obras que recoge permiten sumergirse en sus pinturas de colores 
+planos e intensos delimitados por líneas precisas que representan tanto objetos 
+cotidianos como a sus amigos y amantes, además de sus autorretratos. 
 
 ![Gabriele Münter. Mujer escribiendo en un sillón](https://fotos.etheriamagazine.com/2024/10/Munter__Senora_escribiendo.jpg "Gabriele Münter. Mujer escribiendo en un sillón (Estenografía: Mujer suiza en pijama), 1929. Lienzo, 61,5 × 46,2 cm. The Gabriele Münter and Johannes Eichner Foundation, Múnich")
 
@@ -192,8 +191,6 @@ www.museothyssen.org
 
 **También te puede interesar:** 
 
-[La ruta de Lola Flores en Madrid a tu aire (con plano 
-incluido)](https://etheriamagazine.com/2024/04/11/ruta-lola-flores-en-madrid/) 
+{{< reflink path=posts/2024/04/ruta-lola-flores-en-madrid >}} 
 
-[Qué hacer con amigas en Madrid este otoño e 
-invierno](https://etheriamagazine.com/2023/09/07/que-hacer-con-amigas-madrid-otono/)
+{{< reflink path=posts/2023/09/que-hacer-con-amigas-madrid-otono >}}

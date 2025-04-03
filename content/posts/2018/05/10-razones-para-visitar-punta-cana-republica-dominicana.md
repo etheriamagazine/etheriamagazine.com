@@ -1,7 +1,7 @@
 ---
 title: "10 razones para viajar a República Dominicana"
 date: 2018-05-18
-coverImage: https://fotos.etheriamagazine.com/2018/05/3-Republica-Dominicana-Sur-7.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/3-Republica-Dominicana-Sur-7.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -138,8 +138,7 @@ ideal para unas vacaciones familiares inolvidables.
 
 **También te puede interesar...** 
 
-[Hotel Barceló Bávaro Palace, date un capricho cinco estrellas en República 
-Dominicana](https://etheriamagazine.com/2021/04/26/barcelo-bavaro-palace-hotel-cinco-estrellas-republica-dominicana/). 
+{{< reflink 
+path=posts/2021/04/barcelo-bavaro-palace-hotel-cinco-estrellas-republica-dominicana >}}. 
 
-[Norte de República Dominicana: naturaleza, ron y 
-merengue](https://etheriamagazine.com/2018/04/13/propuestas-en-el-norte-de-republica-dominicana/).
+{{< reflink path=posts/2018/04/propuestas-en-el-norte-de-republica-dominicana >}}.

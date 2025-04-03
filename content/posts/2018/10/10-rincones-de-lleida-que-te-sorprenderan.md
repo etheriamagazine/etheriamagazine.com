@@ -1,7 +1,7 @@
 ---
 title: "10 rincones de Lleida que te sorprenderán"
 date: 2018-10-10
-coverImage: https://fotos.etheriamagazine.com/2018/10/globo-sierra-del-montsec.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/globo-sierra-del-montsec.jpg
 categories: 
   - viajar-con-amigas
   - viajar-en-familia
@@ -13,11 +13,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Los tópicos no le sientan bien a Lleida. Esta provincia se debate entre un corazón 
+**Los tópicos no le sientan bien a Lleida. Esta provincia se debate entre un corazón 
 pirenaico y una llanura fértil regada por ríos. Estas corrientes fluviales bajan de las 
 cumbres y, una vez mansas, crean un auténtico vergel agrícola. Estás ante un mosaico 
 formado por estelas humanas, naturales, históricas y culturales. Sólo tienes que dejarte 
-llevar y hacer un viaje a Lleida para sentir cómo te enamora este territorio. 
+llevar y hacer un viaje a Lleida para sentir cómo te enamora este territorio.** 
 
 ![Flores de los melocotoneros del Bajo Segre.](https://fotos.etheriamagazine.com/2019/03/Fruiturismo-lleida.jpg "Flores de los melocotoneros del Bajo Segre.")
 
@@ -150,20 +150,20 @@ realmente famosa esta villa ha sido sus artesanos. Llegados en los años 80, tra
 vida a este núcleo de montaña a punto de ser abandonado. Una vez aquí, lo mejor es 
 dejarse llevar por los sentidos acompañados de sus **mujeres artesanas**. Así, oleremos 
 las esencias medievales en [Cal Nogué](https://www.herbesossera.com/), una herboristería 
-que atesora plantas y especias, descubriremos sabores orientales y andalusíes entre las [mermeladas 
-de Cal Casal](http://www.melmeladesossera.com) o nos entrarán ganas de convertirnos en 
-pastoras por un día al catar los sabrosos quesos de cabra de la [quesería Serrat 
-Gros](http://www.formatgeriaserratgros.com/). 
+que atesora plantas y especias, descubriremos sabores orientales y andalusíes entre las 
+[mermeladas de Cal Casal](http://www.melmeladesossera.com) o nos entrarán ganas de 
+convertirnos en pastoras por un día al catar los sabrosos quesos de cabra de la 
+[quesería Serrat Gros](http://www.formatgeriaserratgros.com/). 
 
 ![Cal Casal en Lleida](https://fotos.etheriamagazine.com/2018/10/cal-casal-lleida.jpg "Las mermeladas de Cal Casal son una irresistible tentación (Ossera).")
 
 📌 **También te puede interesar:** 
 
-[8 experiencias que sólo puedes vivir en el Pallars Jussà 
-(Lleida)](https://etheriamagazine.com/2021/06/09/8-experiencias-en-el-pallars-jussa-excursiones-en-lleida/) 
+{{< reflink path=posts/2021/06/8-experiencias-en-el-pallars-jussa-excursiones-en-lleida 
+>}} 
 
-[Consejos prácticos para visitar el desfiladero o congost de Mont-rebei 
-(Lleida)](https://etheriamagazine.com/2020/05/13/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida/) 
+{{< reflink 
+path=posts/2020/05/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida 
+>}} 
 
-[Una cita en… Aitona en flor. Un anuncio ‘rosa’ a las afueras de 
-Lleida](https://etheriamagazine.com/2019/03/11/viaje-floracion-melocotoneros-aitona-lleida/)
+{{< reflink path=posts/2022/02/viaje-floracion-melocotoneros-aitona-lleida >}}

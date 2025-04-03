@@ -1,7 +1,7 @@
 ---
 title: "¿Son éstas las 10 playas más bonitas del Algarve?"
 date: 2022-08-04
-coverImage: https://fotos.etheriamagazine.com/2022/08/playa-Barranco-algarve.jpg
+cover: https://fotos.etheriamagazine.com/2022/08/playa-Barranco-algarve.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-Playas increíbles en el Algarve hay muchas y todas tienen algo especial. A veces porque 
-son solitarias, otras por sus bonitos acantilados o porque están dentro de cuevas, 
-también las hay que se extienden por arenales infinitos o están frente a pueblos 
+**Playas increíbles en el Algarve hay muchas y todas tienen algo especial. A veces 
+porque son solitarias, otras por sus bonitos acantilados o porque están dentro de 
+cuevas, también las hay que se extienden por arenales infinitos o están frente a pueblos 
 pintorescos. Así que no te diremos que estas son las mejores playas del Algarve pero sí 
-que te encantará conocerlas... 
+que te encantará conocerlas...** 
 
 ![Cueva con playa de Benagil, en el Algarve.](https://fotos.etheriamagazine.com/2022/08/playa-cueva-benagil-algarve.jpg "Cueva con playa de Benagil, en el Algarve.")
 
@@ -32,10 +32,10 @@ un capricho y te animamos a dártelo.
 
 **1\.** [Playa da Ponta Ruiva](#ponta-ruiva). **2\.** [Playa de llha 
 Deserta](#ilha-deserta). **3\.** [Playa do Castelejo](#playa-castelejo). **4.** [Playa 
-do Barranco](#playa-barranco). **5\.** [Playa do Telheiro](#playa-telheiro). **6\.** [Playa 
-da Arrifana](#playa-arrifana). **7\.** [Playa de Benagil (la Catedral)](#playa-benagil) 
-. **8\.** [Playa do Homem Nu](#playa-homen). **9\.** [Playa da Salema](#playa-salema). 
-**10\.** [Playa da Barriga](#playa-barriga). 
+do Barranco](#playa-barranco). **5\.** [Playa do Telheiro](#playa-telheiro). **6\.** 
+[Playa da Arrifana](#playa-arrifana). **7\.** [Playa de Benagil (la 
+Catedral)](#playa-benagil) . **8\.** [Playa do Homem Nu](#playa-homen). **9\.** [Playa 
+da Salema](#playa-salema). **10\.** [Playa da Barriga](#playa-barriga). 
 
 ### 1\. Playa da Ponta Ruiva
 
@@ -156,11 +156,9 @@ playas anteriores ubicadas para que moverte por esta región sea lo más sencill
 
 ### Sigue leyendo sobre el Algarve
 
-[Algarve con amigas: 6 experiencias que no puedes 
-perderte](https://etheriamagazine.com/2021/10/07/planes-imprescindibles-algarve-con-amigas/). 
+{{< reflink path=posts/2021/10/planes-imprescindibles-algarve-con-amigas >}}. 
 
-[18 experiencias si viajas sola al 
-Algarve](https://etheriamagazine.com/2020/08/07/18-experiencias-si-viajas-sola-al-algarve/). 
+{{< reflink path=posts/2020/08/18-experiencias-si-viajas-sola-al-algarve >}}. 
 
-[Playas del Algarve, descubre sus tesoros menos 
-masificados](https://etheriamagazine.com/2020/06/19/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve/).
+{{< reflink path=posts/2020/06/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve 
+>}}.

@@ -1,7 +1,7 @@
 ---
 title: "Consejos para viajar sola al Salar de Uyuni, el desierto de sal más grande del planeta"
 date: 2019-05-24
-coverImage: https://fotos.etheriamagazine.com/2019/05/viajar-sola-por-salar-uyuni.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/viajar-sola-por-salar-uyuni.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -188,8 +188,7 @@ info](https://www.civitatis.com/es/uyuni/excursion-privada-salar-uyuni/?aid=1021
 
 ### También te puedes interesar...
 
-[10 grandes destinos para descubrir viajando 
-sola](https://etheriamagazine.com/2020/01/30/10-grandes-destinos-para-mujeres-viajan-solas/). 
+{{< reflink path=posts/2020/01/10-grandes-destinos-para-mujeres-viajan-solas >}}. 
 
-[Toca el cielo con las manos en el lago Titicaca y la Isla del 
-Sol](https://etheriamagazine.com/2019/12/20/que-ver-en-lago-titicaca-isla-del-sol-copacabana-bolivia/).
+{{< reflink path=posts/2019/12/que-ver-en-lago-titicaca-isla-del-sol-copacabana-bolivia 
+>}}.

@@ -1,7 +1,7 @@
 ---
 title: "El Expreso de la Robla o la nostalgia del hullero"
 date: 2018-06-01
-coverImage: https://fotos.etheriamagazine.com/2018/06/Expreso-de-la-Robla-3.jpg
+cover: https://fotos.etheriamagazine.com/2018/06/Expreso-de-la-Robla-3.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Eva Madruga
 ---
 
-El Expreso de la Robla es un crucero sobre raíles que recorre el norte peninsular con la 
-comodidad de un tren moderno y el encanto de uno antiguo. Es un itinerario idóneo para 
-viajar sola o en compañía. Tú eliges. 
+**El Expreso de la Robla es un crucero sobre raíles que recorre el norte peninsular con 
+la comodidad de un tren moderno y el encanto de uno antiguo. Es un itinerario idóneo 
+para viajar sola o en compañía. Tú eliges.** 
 
 ![El Expreso de la Robla es uno de los trenes turísticos de Renfe.](https://fotos.etheriamagazine.com/2018/06/Expreso-de-la-Robla-6.jpg "El Expreso de la Robla es uno de los trenes turísticos de Renfe.")
 
@@ -93,5 +93,4 @@ velocidad, sólo de gozo!
 
 **También te puede interesar...** 
 
-[El tren de Flåm, el recorrido más bonito del 
-mundo](https://etheriamagazine.com/2020/11/19/tren-de-flam-y-fiordos-noruega/).
+{{< reflink path=posts/2020/11/tren-de-flam-y-fiordos-noruega >}}.

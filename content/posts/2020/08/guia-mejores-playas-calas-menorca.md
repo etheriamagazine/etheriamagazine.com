@@ -1,7 +1,7 @@
 ---
 title: "Playas de Menorca, la guía más completa que encontrarás"
 date: 2020-08-14
-coverImage: https://fotos.etheriamagazine.com/2020/08/playa-menorca-Es-Calo-blanc.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/playa-menorca-Es-Calo-blanc.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Nuria Cortés
 ---
 
-Zambúllete en la guía de playas de Menorca más completa y marca tu propia ruta de baño 
+**Zambúllete en la guía de playas de Menorca más completa y marca tu propia ruta de baño 
 por la isla más íntima de Baleares. Elige entre las de arena blanca y aguas turquesas o 
-atrévete a descubrir el lado más salvaje del litoral menorquín. 
+atrévete a descubrir el lado más salvaje del litoral menorquín.** 
 
 ![Calas Macarella y Macarelleta, playas, menorca, calas, viajes](https://fotos.etheriamagazine.com/2020/08/playa-menorca-macarella-y-macarelleta.jpg "Calas Macarella y Macarelleta (Menorca).")
 
@@ -223,20 +223,18 @@ romana de Sanicera y al ecomuseo y al faro del Cap de Cavallería.
 
 ¿Aún sigues ahí? ¿No buscaste ya el mejor precio para tu vuelo a Menorca? Si tienes 
 claro que te quieres escapar a Baleares pero sigues indecisa entre qué isla escoger, te 
-lo vamos a poner un poco más difícil con nuestra [guía definitiva de las playas de 
-Formentera](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-playas-formentera/). 
-Consúltala, y si crecen tus dudas sobre si marcharte a Menorca o Formentera, coge una 
-moneda y deja que sea el destino el que escoja. 
+lo vamos a poner un poco más difícil con nuestra {{< reflink 
+path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}. Consúltala, y si 
+crecen tus dudas sobre si marcharte a Menorca o Formentera, coge una moneda y deja que 
+sea el destino el que escoja. 
 
 **\*Fotos cedidas por Turismo de Menorca.** 
 
 Sigue leyendo... 
 
-[Descubre la sorprendente y variada arquitectura de 
-Menorca](https://etheriamagazine.com/2020/12/08/visitas-originales-de-arquitectura-en-menorca/) 
+{{< reflink path=posts/2020/12/visitas-originales-de-arquitectura-en-menorca >}} 
 
-[15 tips para disfrutar de Menorca en temporada 
-baja.](https://etheriamagazine.com/2018/11/05/15-tips-para-disfrutar-de-menorca-fuera-de-temporada/) 
+{{< reflink path=posts/2018/11/15-tips-para-disfrutar-de-menorca-fuera-de-temporada >}} 
 
-[20 restaurantes románticos de Ibiza para ir en 
-pareja](https://etheriamagazine.com/2020/02/14/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja/)
+{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
+>}}

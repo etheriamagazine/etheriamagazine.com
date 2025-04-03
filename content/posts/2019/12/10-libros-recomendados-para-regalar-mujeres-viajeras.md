@@ -1,7 +1,7 @@
 ---
 title: "10 + 1 libros recomendados que son un regalazo"
 date: 2019-12-24
-coverImage: https://fotos.etheriamagazine.com/2019/12/libros-recomendados-100-mujeres.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/libros-recomendados-100-mujeres.jpg
 categories: 
   - cultura
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-No es sencillo elegir un libro para regalar a un familiar o amigo pero nos atreveríamos 
-a decir que las posibilidades de acertar con algunas de estas 11 obras son muy altas. 
-¿Por qué? Porque todas ellas nos aportan conocimiento en diversos campos (mujeres, 
-viajes, fotografía, cocina o música) y detrás hay grandes profesionales. 
+**No es sencillo elegir un libro para regalar a un familiar o amigo pero nos 
+atreveríamos a decir que las posibilidades de acertar con algunas de estas 11 obras son 
+muy altas. ¿Por qué? Porque todas ellas nos aportan conocimiento en diversos campos 
+(mujeres, viajes, fotografía, cocina o música) y detrás hay grandes profesionales.** 
 
 ![Libros para el verano](https://fotos.etheriamagazine.com/2019/12/libros-regalos-mujeres-viajeras.jpg)
 
@@ -52,13 +52,12 @@ también en [Amazon](https://amzn.to/38S96rc) (27,07 €).
 ## 3\. Viaje visual y sonoro por los bosques de España.
 
 Este año en el que Anaya Touring ha cumplido tres décadas, nos ha sorprendido con 
-grandes y originales títulos de los que hablamos en esta reseña ([30 años viajando con 
-Anaya 
-Touring](https://etheriamagazine.com/2019/09/26/30-aniversario-anaya-touring-nuevas-guias-2019/)). 
-Uno de los que más nos ha sorprendido es un libro "sonoro" en el que su autor, Carlos de 
-Hita, nos traslada a través del sentido del oído a cada uno de los bosques incluidos en 
-la obra. Es también un placer para la vista, dada la calidad de las imágenes. Muy 
-recomendable para amantes de la naturaleza y de las aves. 
+grandes y originales títulos de los que hablamos en esta reseña ({{< reflink 
+path=posts/2019/09/30-aniversario-anaya-touring-nuevas-guias-2019 >}}). Uno de los que 
+más nos ha sorprendido es un libro "sonoro" en el que su autor, Carlos de Hita, nos 
+traslada a través del sentido del oído a cada uno de los bosques incluidos en la obra. 
+Es también un placer para la vista, dada la calidad de las imágenes. Muy recomendable 
+para amantes de la naturaleza y de las aves. 
 
 Editorial: Anaya Touring. Precio: [Desde 21,75 en 
 Amazon](https://www.amazon.es/gp/product/849158241X/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=849158241X&linkCode=as2&tag=etheriamagazi-21&linkId=45f3a855e691b845723be78263e47fa9). 
@@ -119,9 +118,8 @@ comparte las vivencias de aquellas mujeres que emprendieron un buen número de v
 entre finales del siglo XIX y comienzos del XX. Aunque en esta ocasión se centra en las 
 aventureras que eligieron el Pacífico Sur para satisfacer su curiosidad y su sed de 
 viajes, también tiene en el mercado otros títulos igual de interesantes sobre viajeras 
-victorianas. Encontraréis una reseña más amplia en el siguiente link: [Viajeras por los 
-Mares del 
-Sur](https://etheriamagazine.com/2019/12/21/libro-viajeras-por-los-mares-del-sur/). 
+victorianas. Encontraréis una reseña más amplia en el siguiente link: {{< reflink 
+path=posts/2019/12/libro-viajeras-por-los-mares-del-sur >}}. 
 
 Editorial: Casiopea. Precio: En versión Kindle [desde 8,54 en 
 Amazon](https://www.amazon.es/gp/offer-listing/B07RCCVV7K/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07RCCVV7K&linkCode=am2&tag=etheriamagazi-21&linkId=718f27077ab7e465bdf9962b8d3dfac4). 
@@ -152,8 +150,9 @@ Este es otro de los grandes manuales imprescindibles en la librería de quienes 
 consideren amantes del arte. En este libro se incluyen 400 artistas (mujeres) de los 
 últimos cinco siglos con una pequeña biografía y obras destacadas. Puedes leer algo más 
 del mismo y dos artistas incluidas –que han expuesto recientemente en el Museo del 
-Prado– en esta reseña [Grandes mujeres artistas. Arte ¡para ver y para 
-comprar!](https://etheriamagazine.com/2019/11/18/grandes-mujeres-artistas-exposicion-sofonisba-anguissola-lavinia-fontana/) 
+Prado– en esta reseña {{< reflink 
+path=posts/2019/11/grandes-mujeres-artistas-exposicion-sofonisba-anguissola-lavinia-fontana 
+>}} 
 
 Editorial: Phaidon. Precio: 49,95 € 
 
@@ -167,9 +166,9 @@ en la cocina desde la infancia. El autor siempre bromea sobre el hecho de que le
 que su madre le contase los truquillos de cada receta, ya que nunca las había compartido 
 ni apuntado –eran casi un “secreto”–. Si te gusta la cocina, aquí encontrarás 80 recetas 
 sencillas para preparar en casa en el día a día. Puedes leer un comentario más amplio 
-sobre _Cocina Madre_ en este artículo sobre [Joan 
-Roca](https://etheriamagazine.com/2019/04/03/nuevo-libro-joan-roca-cocina-madre/): "Hoy 
-a mis padres les hubiesen quitado la custodia de sus hijos". 
+sobre _Cocina Madre_ en este artículo sobre {{< reflink 
+path=posts/2021/04/nuevo-libro-joan-roca-cocina-madre >}}: "Hoy a mis padres les 
+hubiesen quitado la custodia de sus hijos". 
 
 Editorial: Planeta Gastro. Precio: [En Amazon, 21,75 € 
 (impreso)](https://www.amazon.es/Cocina-madre-Recetas-sencillas-tradicionales/dp/8408202189/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1LD1N1KNBLKQ6&keywords=cocina+madre+joan+roca&qid=1576870351&s=books&sprefix=cocina+madre,stripbooks,169&sr=1-1&linkCode=sl1&tag=etheriamagazi-21&linkId=c337041c669c865c607ba9182fd1e49d&language=es_ES) 
@@ -179,12 +178,12 @@ y poco más de 12 en versión Kindle.
 
 ## 10+1. Guías de viajes
 
-Ya os hablábamos en un artículo anterior de la [editorial 
-Tintablanca,](https://etheriamagazine.com/2019/07/06/tintablanca-libros-guias-de-viajes-como-los-de-antes/) 
-que ha lanzado este año al mercado unas guías muy personales de ciudades firmadas e 
-ilustradas por profesionales del sector periodístico y del diseño. En la imagen tenéis 
-las portadas de Madrid, Nueva York y París, pero disponen también de otros títulos como 
-Berlín y Londres. No son guías de viaje al uso sino para regodearse con la edición y la 
-visión personal de sus autores. 
+Ya os hablábamos en un artículo anterior de la {{< reflink 
+path=posts/2019/07/tintablanca-libros-guias-de-viajes-como-los-de-antes >}} que ha 
+lanzado este año al mercado unas guías muy personales de ciudades firmadas e ilustradas 
+por profesionales del sector periodístico y del diseño. En la imagen tenéis las portadas 
+de Madrid, Nueva York y París, pero disponen también de otros títulos como Berlín y 
+Londres. No son guías de viaje al uso sino para regodearse con la edición y la visión 
+personal de sus autores. 
 
 Editorial: Tintablanca. Precio: 28,90 €. (26,60 en Amazon, links en los títulos)

@@ -1,7 +1,7 @@
 ---
 title: "Ruta del Vino de la Sierra de Francia, un brindis con amigas en Salamanca"
 date: 2021-08-11
-coverImage: https://fotos.etheriamagazine.com/2021/08/Mogarraz-Salamanca.jpg
+cover: https://fotos.etheriamagazine.com/2021/08/Mogarraz-Salamanca.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -76,18 +76,18 @@ menos que 809, y parece que las peticiones de los vecinos aún no han parado....
 
 ##### En Mogarraz también encontrarás buena cocina y vinos
 
-Pero a Mogarraz ([artículo completo en Mogarraz se 
-retrata](https://etheriamagazine.com/2019/10/07/que-ver-en-mogarraz-pueblo-de-retratos-salamanca/)) 
-no sólo se acude para admirar este museo al aire libre, pasear por “Uno de los pueblos 
-más bonitos de España”, o empaparse de cultura en su Museo Casa de las Artesanías, sino 
-que también se va a comer de maravilla. El [Restaurante 
+Pero a Mogarraz ({{< reflink 
+path=posts/2019/10/que-ver-en-mogarraz-pueblo-de-retratos-salamanca >}}) no sólo se 
+acude para admirar este museo al aire libre, pasear por “Uno de los pueblos más bonitos 
+de España”, o empaparse de cultura en su Museo Casa de las Artesanías, sino que también 
+se va a comer de maravilla. El [Restaurante 
 Mirasierra](https://www.restaurantemirasierra.com/) se ha convertido en uno de los 
 lugares de referencia y motivo justificado para desplazarse los kilómetros que hagan 
 falta. Su propietario –y cocinero– se declara un gran defensor de la cocina y de los 
 productos locales, pero incorporando algún toque innovador. Sus _patatas meneás_ y sus 
-_chuletas de morucha_ son espectaculares. Justo detrás del restaurante se sitúa la [Bodega 
-La Zorra](https://www.vinoslazorra.es/), un espacio donde organizan visitas guiadas, 
-hacen catas y degustaciones. Su tienda es una gran tentación, estás avisada. 
+_chuletas de morucha_ son espectaculares. Justo detrás del restaurante se sitúa la 
+[Bodega La Zorra](https://www.vinoslazorra.es/), un espacio donde organizan visitas 
+guiadas, hacen catas y degustaciones. Su tienda es una gran tentación, estás avisada. 
 
 ![visita guiada bodega cambrico](https://fotos.etheriamagazine.com/2021/08/bodega-cambrico-vino-sierra-francia.jpg "Fernando Maíllo, propietario de Bodega Cámbrico. © Pepa G.")
 
@@ -305,11 +305,8 @@ Celestino, Tiriñuelo, Cuarta Generación, Rochal, La Zorra, Cámbrico y El Abue
 
 ### También te puede interesar...
 
-[32 excursiones de un día donde la cultura y el vino se dan la 
-mano](https://etheriamagazine.com/2021/04/13/32-excursiones-de-un-dia-en-rutas-vino-espana/) 
+{{< reflink path=posts/2021/04/32-excursiones-de-un-dia-en-rutas-vino-espana >}} 
 
-[31 escapadas para descubrir este otoño los paisajes del 
-vino](https://etheriamagazine.com/2020/09/07/31-escapadas-po-los-paisajes-del-vino/). 
+{{< reflink path=posts/2020/09/31-escapadas-po-los-paisajes-del-vino >}}. 
 
-[10 planes originales en Salamanca para hacer con 
-amigas](https://etheriamagazine.com/2021/03/31/planes-en-salamanca-con-amigas/).
+{{< reflink path=posts/2021/03/planes-en-salamanca-con-amigas >}}.

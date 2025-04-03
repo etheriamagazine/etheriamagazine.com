@@ -1,7 +1,7 @@
 ---
 title: "La Ruta del Vino de La Mancha en coche"
 date: 2019-03-20
-coverImage: https://fotos.etheriamagazine.com/2019/03/ruta-del-vino-la-mancha.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/ruta-del-vino-la-mancha.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -11,10 +11,10 @@ authors:
   - Firmas invitadas
 ---
 
-La Mancha es… Don Quijote, horizontes infinitos, pueblos blancos, molinos, castillos, 
+**La Mancha es… Don Quijote, horizontes infinitos, pueblos blancos, molinos, castillos, 
 caminos entre parcelas de tierra roja, sol, campos de cereal, más sol, vino… y turismo 
 del vino. La Ruta del Vino de La Mancha es la expresión de ese turismo, la expresión del 
-enoturismo en la región que alberga el viñedo más grande del mundo. 
+enoturismo en la región que alberga el viñedo más grande del mundo.** 
 
 **Autor: Óscar Checa Algarra** 
 
@@ -65,8 +65,8 @@ personaje de Don Quijote. Tampoco hay que perderse el **Complejo Lagunar**, un c
 de lagunas que forman parte de la llamada ‘Mancha Húmeda’ y que sorprenden en mitad de 
 esta tierra de secano. 
 
-**No te pierdas:** [Ruta del Quijote, en familia por La 
-Mancha](https://etheriamagazine.com/2021/01/29/ruta-del-quijote-en-familia-por-la-mancha/). 
+**No te pierdas:** {{< reflink 
+path=posts/2021/01/ruta-del-quijote-en-familia-por-la-mancha >}}. 
 
 ### Campo de Criptana
 
@@ -81,8 +81,8 @@ dedicado a Sara Montiel) y otros, que conservan la estructura y maquinaria origi
 siglo XVI (el Infanto, el Burleta y el Sardinero), aún se utilizan para hacer 
 demostraciones de la molienda tradicional. 
 
-**No te pierdas:** [Ruta Saritísima por Campo de 
-Criptana](https://etheriamagazine.com/2019/04/08/ruta-sara-montiel-campo-de-criptana/). 
+**No te pierdas:** {{< reflink path=posts/2019/04/ruta-sara-montiel-campo-de-criptana 
+>}}. 
 
 ![Molinos de Campo de Criptana.](https://fotos.etheriamagazine.com/2019/03/Campo-de-Criptana-molinos-Ruta-del-Vino-de-La-Mancha.jpg "Molinos de Campo de Criptana. © R.V. de La Mancha")
 
@@ -207,15 +207,15 @@ singulares como Hotel Intur, en Alcázar de San Juan, y Casa de La Torre, en El 
 
 ### Dónde comer
 
-• La Viña E. Un gastrobar con muy buenas tapas y raciones y una estupenda selección de 
+- La Viña E. Un gastrobar con muy buenas tapas y raciones y una estupenda selección de 
 vinos por copas que cambia cada semana. Prueba los 'duelos y quebrantos' y la 'ensalada 
 de perdiz escabechada'. Alcázar de San Juan. 
 
-• **Las Musas**. Cocina muy bien resuelta, con guiños a los platos regionales; 
+- **Las Musas**. Cocina muy bien resuelta, con guiños a los platos regionales; 
 profesionalidad; gusto y un escenario perfecto junto a los molinos. ¿Qué más se puede 
 pedir? (C/ Barbero, 3. Campo de Criptana). 
 
-• **La Antigua**. Una antigua casa a principios de siglo XX, con todos sus espacios y 
+- **La Antigua**. Una antigua casa a principios de siglo XX, con todos sus espacios y 
 habitaciones conservados y ambientados es ahora un restaurante donde la cocina moderna 
 convive con los platos tradicionales. No te pierdas las migas o las gachas. (C/ Don 
 Víctor Peñasco, 112. Tomelloso). 
@@ -228,12 +228,12 @@ Bodegas Finca Antigua (Los Hinojosos).
 
 ### Ruta del Vino de La Mancha
 
-• Para saber más sobre esta ruta y todos los establecimientos (museos, restaurantes, 
-hoteles, bodegas, enotecas, agencias de viajes….) que forman parte de la misma, visita [Ruta 
-del Vino de La 
+- Para saber más sobre esta ruta y todos los establecimientos (museos, restaurantes, 
+hoteles, bodegas, enotecas, agencias de viajes….) que forman parte de la misma, visita 
+[Ruta del Vino de La 
 Mancha](http://www.lamanchawines.com/nace-la-nueva-ruta-del-vino-de-la-mancha). 
 
-• Cencibel es el nombre que en La Mancha le dan a la variedad Tempranillo. Junto a la 
+- Cencibel es el nombre que en La Mancha le dan a la variedad Tempranillo. Junto a la 
 Airén (blanca) son las dos variedades que identifican a los **vinos de la D.O. Mancha**, 
 aunque aquí se producen diferentes tipos de vinos con muchas otras variedades. Para 
 saber más sobre los vinos entra en la [Denominación de Origen La 

@@ -1,7 +1,7 @@
 ---
 title: "Michoacán: en busca de las mariposas monarca"
 date: 2018-12-19
-coverImage: https://fotos.etheriamagazine.com/2018/12/mariposas-monarca-viaje-mujeres.jpg
+cover: https://fotos.etheriamagazine.com/2018/12/mariposas-monarca-viaje-mujeres.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -73,15 +73,15 @@ michoacano), la barbacoa de res, el mole, el pescado empapelado y las zarzamoras
 ![viaje a michoacan, morelia, mexico](https://fotos.etheriamagazine.com/2018/12/morelia-mexico.jpg "Arquitectura de Morelia (México)")
 
 Pero no sólo puede Michoacán presumir de mariposas a raudales. Ni de haber servido de 
-inspiración para crear algunos escenarios que aparecen en la [película Coco de 
-Disney-Pixar](https://etheriamagazine.com/2018/05/28/en-el-mexico-de-coco/). Este 
-estado, considerado por los locales como el “Alma de México”, tiene muchos más 
-atractivos turísticos que se pueden descubrir en sus pueblos típicos multicolores y 
-hermosas ciudades como **Pátzcuaro**, **Tlalpujahua**, **Tzintzuntzan** y **Morelia** 
-(Patrimonio de Humanidad desde 1991). Su extraordinaria riqueza en zonas arqueológicas, 
-iglesias coloniales, ruinas mineras, lagos, balnearios, fiestas, tradiciones (como la 
-noche de muertos), gastronomía y artesanía no puede pasar inadvertida. Pero este viaje 
-forma parte de otra hoja de ruta. ¡En breve te damos más detalles! 
+inspiración para crear algunos escenarios que aparecen en la {{< reflink 
+path=posts/2018/05/en-el-mexico-de-coco >}}. Este estado, considerado por los locales 
+como el “Alma de México”, tiene muchos más atractivos turísticos que se pueden descubrir 
+en sus pueblos típicos multicolores y hermosas ciudades como **Pátzcuaro**, 
+**Tlalpujahua**, **Tzintzuntzan** y **Morelia** (Patrimonio de Humanidad desde 1991). Su 
+extraordinaria riqueza en zonas arqueológicas, iglesias coloniales, ruinas mineras, 
+lagos, balnearios, fiestas, tradiciones (como la noche de muertos), gastronomía y 
+artesanía no puede pasar inadvertida. Pero este viaje forma parte de otra hoja de ruta. 
+¡En breve te damos más detalles! 
 
 ![Catedral de Morelia.](https://fotos.etheriamagazine.com/2018/12/mariposas-monarca-morelia.jpg "Catedral de Morelia. © Josue Soto")
 

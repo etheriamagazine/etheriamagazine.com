@@ -1,7 +1,7 @@
 ---
 title: "9 preciosos cortijos andaluces para recibir a la primavera"
 date: 2021-03-16
-coverImage: https://fotos.etheriamagazine.com/2021/03/cortijo-bravo-malaga.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/cortijo-bravo-malaga.jpg
 categories: 
   - viajar-con-amigas
   - hoteles
@@ -196,11 +196,9 @@ ellas –la de Descalzos Viejos es una maravilla–.
 
 **Además de los cortijos andaluces, te puede interesar...** 
 
-[10 planes originales con amigas en 
-Sevilla](https://etheriamagazine.com/2020/09/28/10-mejores-planes-en-sevilla-con-amigas-o-pareja/). 
+{{< reflink path=posts/2020/09/10-mejores-planes-en-sevilla-con-amigas-o-pareja >}}. 
 
-[10 actividades para enamorarte de Vejer de la 
-Frontera](https://etheriamagazine.com/2020/08/11/10-actividades-vejer-de-la-frontera-que-ver-hacer/). 
+{{< reflink path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}}. 
 
-[Road trip por la Axarquía 
-malagueña](https://etheriamagazine.com/2020/06/19/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga/).
+{{< reflink path=posts/2024/07/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga 
+>}}.

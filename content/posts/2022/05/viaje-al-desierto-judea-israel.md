@@ -1,7 +1,7 @@
 ---
 title: "Por qué el desierto de Judea es la aventura con amigas que necesitas"
 date: 2022-05-09
-coverImage: https://fotos.etheriamagazine.com/2022/05/viaje-mujeres-desierto-israel.jpg
+cover: https://fotos.etheriamagazine.com/2022/05/viaje-mujeres-desierto-israel.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Kelu Robles
 ---
 
-Oasis, comunas, leyendas heroicas, rollos bíblicos y hedonismo en el mar Muerto. El 
+**Oasis, comunas, leyendas heroicas, rollos bíblicos y hedonismo en el mar Muerto. El 
 desierto de Judea reúne los ingredientes necesarios para hacer realidad la terapia 
-desestresante que merecemos. ¿Nos acompañas a este viaje a Israel? 
+desestresante que merecemos. ¿Nos acompañas a este viaje a Israel?** 
 
 ![Montañas del desierto de Judea con formas curiosas.](https://fotos.etheriamagazine.com/2022/05/Desierto-Judea-israel.jpg "Algunas figuras erosionadas del desierto se asemejan a personajes bíblicos. © Kelu Robles")
 
@@ -87,8 +87,9 @@ atrayentes de Israel.
 
 La mayoría de jóvenes militares –que juran bandera en una base militar cercana a las 
 ruinas de Masada– ascienden corriendo hasta la cima. La proeza es una tradición. El 
-resto de visitantes suele subir en [teleférico](https://en.parks.org.il/reserve-park/masada-national-park/) 
-o en un paseo a pie de más de una hora. 
+resto de visitantes suele subir en 
+[teleférico](https://en.parks.org.il/reserve-park/masada-national-park/) o en un paseo a 
+pie de más de una hora. 
 
 > Solo hay que fijarse en la cara de quienes llegan hasta la cima de Masada para comprobar 
 > que algo muy especial se cuece ahí arriba. 
@@ -165,5 +166,5 @@ web oficial de turismo encontrarás más información.
 
 ### Sigue leyendo sobre Israel
 
-✅ [Israel, una ruta con amigas desde el mar Rojo a Tel 
-Aviv](https://etheriamagazine.com/2020/01/01/6-planes-con-amigas-en-israel-submarinismo-jerusalen-telaviv/).
+✅ {{< reflink 
+path=posts/2020/01/6-planes-con-amigas-en-israel-submarinismo-jerusalen-telaviv >}}.

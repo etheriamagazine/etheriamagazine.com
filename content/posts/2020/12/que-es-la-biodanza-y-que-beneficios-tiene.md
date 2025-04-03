@@ -1,7 +1,7 @@
 ---
 title: "La Biodanza, un estallido de emociones placenteras"
 date: 2020-12-02
-coverImage: https://fotos.etheriamagazine.com/2020/11/baile-superar-la-introversion.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/baile-superar-la-introversion.jpg
 categories: 
   - bienestar
 destino: 
@@ -109,8 +109,7 @@ Canadá, América Latina, África, Japón y Nueva Zelanda.
 
 #### También te puede interesar...
 
-[Mindfulness y meditación, tus mejores aliados para reducir el estrés y la 
-ansiedad](https://etheriamagazine.com/2020/11/18/mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion/) 
+{{< reflink 
+path=posts/2020/11/mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion >}} 
 
-[Danza, la belleza que 
-sana](https://etheriamagazine.com/2020/10/21/danza-terapia-salud/).
+{{< reflink path=posts/2020/10/danza-terapia-salud >}}.

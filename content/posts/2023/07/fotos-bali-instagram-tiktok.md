@@ -1,7 +1,7 @@
 ---
 title: "Bali, diez lugares que van directos a Instagram y TikTok"
 date: 2023-07-26
-coverImage: https://fotos.etheriamagazine.com/2023/07/foto-ubud-arrozales-columpio.jpg
+cover: https://fotos.etheriamagazine.com/2023/07/foto-ubud-arrozales-columpio.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,12 +11,12 @@ authors:
   - Susana García
 ---
 
-La paradisíaca isla de Bali es uno de los destinos más deseados del planeta para pasar 
+**La paradisíaca isla de Bali es uno de los destinos más deseados del planeta para pasar 
 unas vacaciones. A sus indiscutibles encantos paisajísticos y culturales se suma el 
 éxito de alguno de sus rincones, que se han convertido en lugar de peregrinación de 
 "instagramers" y "tiktokers" en busca del plano perfecto. En este artículo te contamos 
 diez lugares de Bali donde dar rienda suelta al "postureo" para lucir como nadie en tus 
-redes sociales. 
+redes sociales.** 
 
 ![foto en el templo Besakih de Bali](https://fotos.etheriamagazine.com/2023/07/bali-templo-besakih-foto-espejo.jpg "En algunos templos te podrás hacer una foto reflejando la imagen en un espejo bajo el móvil simulando un falso lago. La imagen muestra el templo Besakih. © Etheria Magazine")
 
@@ -210,9 +210,10 @@ más de un viaje al año.
 ### Conexión de datos
 
 Para tener tus redes sociales a punto puedes comprar una **tarjeta SIM local** para el 
-móvil o adquirir una eSIM virtual como las que proporciona [Holafly](https://etheriamagazine.com/2022/06/17/holafly-viaje-espana/). 
-Además, te vendrá muy bien una batería externa, en Amazon encontrarás varios modelos, 
-uno muy recomendable por el tamaño y la velocidad de carga es el de [iWalk](https://amzn.to/3NUHiYE). 
+móvil o adquirir una eSIM virtual como las que proporciona {{< reflink 
+path=posts/2022/06/holafly-viaje-espana >}}. Además, te vendrá muy bien una batería 
+externa, en Amazon encontrarás varios modelos, uno muy recomendable por el tamaño y la 
+velocidad de carga es el de [iWalk](https://amzn.to/3NUHiYE). 
 
 ### Cómo vestir en los templos
 
@@ -222,8 +223,6 @@ Suelen ser muy coloridos y vistosos para las fotografías.
 
 **También te puede interesar:** 
 
-[Qué llevar en la maleta en un viaje a 
-Bali](https://etheriamagazine.com/2023/06/23/que-llevar-maleta-viaje-bali/) 
+{{< reflink path=posts/2023/06/que-llevar-maleta-viaje-bali >}} 
 
-[Si quieres a tu pareja no viajes a 
-Bali](https://etheriamagazine.com/2019/07/23/luna-miel-bali-maldicion-ruptura/)
+{{< reflink path=posts/2019/07/luna-miel-bali-maldicion-ruptura >}}

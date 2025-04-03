@@ -1,7 +1,7 @@
 ---
 title: "Planes en Almería para una escapada en clave slow"
 date: 2021-04-17
-coverImage: https://fotos.etheriamagazine.com/2018/11/almeria-playa-escullos.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/almeria-playa-escullos.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Susana García
 ---
 
-Cada kilómetro de Almería cautiva por sus paisajes inmensos y despejados, su mar 
+**Cada kilómetro de Almería cautiva por sus paisajes inmensos y despejados, su mar 
 presente y ese gusto por la vida tranquila que tanto seduce. Aquí os contamos qué ver en 
 Almería fuera de temporada alta, con los mismos encantos de siempre (y mucha menos 
-gente). 
+gente).** 
 
 ![Playa de los Escullos o del Arco en Cabo de Gata.](https://fotos.etheriamagazine.com/2018/11/almeria-playa-escullos.jpg "Playa de los Escullos o del Arco en Cabo de Gata.")
 
@@ -188,11 +188,11 @@ Más información en Turismo de Almería.
 
 ### También te puede interesar
 
-[Almería, una capital mucho más guapa de lo que 
-piensas](https://etheriamagazine.com/2020/01/10/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear/) 
+{{< reflink 
+path=posts/2020/01/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear >}} 
 
-[La ruta de la gamba 
-roja](https://etheriamagazine.com/2019/07/02/mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva/) 
+{{< reflink 
+path=posts/2019/07/mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva 
+>}} 
 
-[Andalucía en autocaravana y consejos prácticos para 
-novatos](https://etheriamagazine.com/2021/04/07/consejos-rutas-andalucia-en-autocaravana/)
+{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}

@@ -1,7 +1,7 @@
 ---
 title: "Etheria Magazine recibe uno de los Premios Tourism Women Friendly en Fitur 2024"
 date: 2024-02-06
-coverImage: https://fotos.etheriamagazine.com/2024/02/premio-women-tourism-friendly-2024-etheria.jpg
+cover: https://fotos.etheriamagazine.com/2024/02/premio-women-tourism-friendly-2024-etheria.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -94,8 +94,6 @@ asociaciones de mujeres es una tendencia que esperamos siga creciendo año tras 
 
 **También te puede interesar...** 
 
-[‘Ayuda gratuita para emprendedoras: Ninguna mujer sin sus mil palabras de 
-gloria’](https://etheriamagazine.com/2022/03/08/ayuda-mujeres-emprendedoras-turismo/) 
+{{< reflink path=posts/2022/03/ayuda-mujeres-emprendedoras-turismo >}} 
 
-[Mujeres brillantes y emprendedoras que nos inspiran cada 
-día](https://etheriamagazine.com/2023/03/09/mujeres-etheria-2023/).
+{{< reflink path=posts/2023/03/mujeres-etheria-2023 >}}.

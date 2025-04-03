@@ -1,7 +1,7 @@
 ---
 title: "Compras en Londres, sus tiendas y barrios más auténticos"
 date: 2020-05-06
-coverImage: https://fotos.etheriamagazine.com/2020/04/viaje-londres-Connaught-Saint-Ayme.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/viaje-londres-Connaught-Saint-Ayme.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -234,11 +234,9 @@ Más información sobre Londres: [Visit Britain](https://www.visitbritain.com/es
 
 **También te puede interesar:** 
 
-[Un viaje a Londres en diez películas 
-inolvidables](https://etheriamagazine.com/2020/12/11/diez-peliculas-rodadas-en-londres/). 
+{{< reflink path=posts/2020/12/diez-peliculas-rodadas-en-londres >}}. 
 
-[De road trip por los Cotswolds, un viaje al corazón de 
-Inglaterra](https://etheriamagazine.com/2019/08/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra/). 
+{{< reflink 
+path=posts/2019/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}}. 
 
-[Admira cinco de los mejores jardines de Gran 
-Bretaña](https://etheriamagazine.com/2021/04/22/los-mejores-jardines-de-gran-bretana/).
+{{< reflink path=posts/2021/04/los-mejores-jardines-de-gran-bretana >}}.

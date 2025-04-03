@@ -1,7 +1,7 @@
 ---
 title: "Valle de Chistau, descubre las mejores rutas en el cielo aragonés"
 date: 2021-12-07
-coverImage: https://fotos.etheriamagazine.com/2021/11/VAlle-Chistau-Vista-de-La-Comuna-y-Serveto.jpg
+cover: https://fotos.etheriamagazine.com/2021/11/VAlle-Chistau-Vista-de-La-Comuna-y-Serveto.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Como puerta a los Pirineos, Huesca es una escapada que siempre apetece. Es una delicia 
+**Como puerta a los Pirineos, Huesca es una escapada que siempre apetece. Es una delicia 
 callejear por sus bucólicos pueblos sin perder de vista las imponentes montañas que 
 cierran el valle. Sentiremos que tocamos el cielo recorriéndolas entre flores alpinas, 
 asomándonos desde sus vertiginosos miradores o al llegar a la orilla de preciosos lagos 
-de montaña. Sigue leyendo para conocer todos los secretos del valle de Chistau. 
+de montaña. Sigue leyendo para conocer todos los secretos del valle de Chistau.** 
 
 ![Bordas junto al refugio de Viados.](https://fotos.etheriamagazine.com/2021/11/valle-chistau-Bordas-refugio-de-VIADOS.jpg "Bordas junto al refugio de Viados.")
 
@@ -145,11 +145,10 @@ los tres núcleos con un bello panorama del rincón más remoto de Pirineos.
 
 **Además del valle de Chistau, también te puede interesar** 
 
-[8 escapadas en la provincia de 
-Zaragoza](https://etheriamagazine.com/2020/06/08/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza/) 
+{{< reflink path=posts/2020/06/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza 
+>}} 
 
-[Ruta en coche por Teruel, 10 paradas por carreteras 
-secundarias](https://etheriamagazine.com/2021/10/12/ruta-en-coche-por-teruel/) 
+{{< reflink path=posts/2021/10/ruta-en-coche-por-teruel >}} 
 
-[10 estaciones de esquí en España donde estirar el presupuesto al 
-máximo](https://etheriamagazine.com/2021/11/25/10-estaciones-de-esqui-mas-baratas-de-espana-2021-2022/)
+{{< reflink path=posts/2021/11/10-estaciones-de-esqui-mas-baratas-de-espana-2021-2022 
+>}}

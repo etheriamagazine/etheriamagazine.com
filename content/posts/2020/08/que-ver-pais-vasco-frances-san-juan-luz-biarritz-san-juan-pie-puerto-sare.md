@@ -1,7 +1,7 @@
 ---
 title: "País Vasco Francés, una ruta llena de elegancia y sabor"
 date: 2020-08-24
-coverImage: https://fotos.etheriamagazine.com/2020/08/san-juan-luz-francia.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/san-juan-luz-francia.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -230,11 +230,10 @@ Biarritz](https://www.civitatis.com/es/san-sebastian/tour-san-sebastian-biarritz
 
 **También te puede interesar...** 
 
-[Los 10 mejores cañones del País Vasco. Paisajes secretos junto al 
-agua](https://etheriamagazine.com/2019/04/09/viajes-naturaleza-mejores-canones-pais-vasco/). 
+{{< reflink path=posts/2019/04/viajes-naturaleza-mejores-canones-pais-vasco >}}. 
 
-[48 horas en… San Sebastián y Costa 
-Vasca](https://etheriamagazine.com/2021/04/01/que-ver-hacer-en-san-sebastian/). 
+{{< reflink path=posts/2021/04/que-ver-hacer-en-san-sebastian >}}. 
 
-[Descubre los mejores bares de pintxos de San Sebastián para ir con 
-amigas](https://etheriamagazine.com/2019/11/08/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas/).
+{{< reflink 
+path=posts/2019/11/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas 
+>}}.

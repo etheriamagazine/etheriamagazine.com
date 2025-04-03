@@ -1,7 +1,7 @@
 ---
 title: "Los artículos más leídos de 2020 en Etheria Magazine"
 date: 2021-01-01
-coverImage: https://fotos.etheriamagazine.com/2020/12/reportajes-mas-leidos-cadiz.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/reportajes-mas-leidos-cadiz.jpg
 categories: 
   - inspiración
   - ocio
@@ -17,23 +17,23 @@ Cuando termina un año toca echar la vista atrás para coger impulso y afrontar 
 
 ## 1\. Consejos prácticos para visitar el desfiladero de Mont-rebei (Lleida)
 
-En [Consejos prácticos para visitar el desfiladero o congost de 
-Mont-rebei](https://etheriamagazine.com/2020/05/13/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida/) 
-os contamos todo lo necesario para descubrir este maravilloso enclave, frontera natural 
-entre Cataluña y Aragón, uno de esos lugares donde la naturaleza ha echado el resto 
-esculpiendo en la roca un paisaje grandioso. Si lo realizas desde la **comarca ilerdense 
-de Pallars Jussà** te podrás adentrar en este cañón con paredes de 500 metros que 
-atraviesa la Sierra de Montsec y va paralelo al río Noguera Robagorçana. Una preciosa 
-ruta no apta para las que tengan vértigo, ya que pasearás junto al desfiladero y 
-atravesarás un puente colgante. En este caso puedes optar por hacer la ruta en kayak. 
+En {{< reflink 
+path=posts/2020/05/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida 
+>}} os contamos todo lo necesario para descubrir este maravilloso enclave, frontera 
+natural entre Cataluña y Aragón, uno de esos lugares donde la naturaleza ha echado el 
+resto esculpiendo en la roca un paisaje grandioso. Si lo realizas desde la **comarca 
+ilerdense de Pallars Jussà** te podrás adentrar en este cañón con paredes de 500 metros 
+que atraviesa la Sierra de Montsec y va paralelo al río Noguera Robagorçana. Una 
+preciosa ruta no apta para las que tengan vértigo, ya que pasearás junto al desfiladero 
+y atravesarás un puente colgante. En este caso puedes optar por hacer la ruta en kayak. 
 Está a la cabeza de los artículos más leídos en Etheria Magazine. 
 
 ![excursiones en Cantabria](https://fotos.etheriamagazine.com/2020/12/reportajes-mas-leidos-cantabria.jpg "Iglesia de Santa Maria de Valverde, en Valderredible (Cantabria).")
 
 ## 2\. Lugares sorprendentes de Cantabria que aún no conoces
 
-En este artículo sobre [lugares sorprendentes de Cantabria que aún no 
-conoces](https://etheriamagazine.com/2020/06/05/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original/) 
+En este artículo sobre {{< reflink 
+path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}} 
 desvelamos alguno de los secretos mejor guardados de esta Comunidad Autónoma que lo 
 tiene todo: mar, prados, gastronomía… Entre ellos, el bosque de secuoyas de Monte 
 Cabezón, el Partenón cántabro, las ermitas de Valderredible o el Museo del Sobao. Seguro 
@@ -45,11 +45,9 @@ hacer otra escapada.
 ## 3\. Diez exposiciones temporales en Madrid
 
 Nos encanta que los artículos sobre exposiciones estén siempre entre los más leídos, ya 
-que la cultura siempre es un buen plan. A principios de año publicamos un artículo sobre [10 
-exposiciones en Madrid para 
-2020](https://etheriamagazine.com/2020/01/16/10-exposiciones-temporales-museos-madrid-2020/) 
-y en octubre [10 exposiciones en Madrid para vivir el arte este 
-otoño](https://etheriamagazine.com/2020/10/13/10-exposiciones-en-madrid-para-otono-2020/) 
+que la cultura siempre es un buen plan. A principios de año publicamos un artículo sobre 
+{{< reflink path=posts/2020/01/10-exposiciones-temporales-museos-madrid-2020 >}} y en 
+octubre {{< reflink path=posts/2020/10/10-exposiciones-en-madrid-para-otono-2020 >}} 
 (exposiciones que todavía se pueden visitar). Todos los museos han implementado medidas 
 anticovid para garantizar la seguridad de los asistentes, así que no dejemos de darnos 
 el gustazo de ver una buena exposición. 
@@ -58,8 +56,7 @@ el gustazo de ver una buena exposición.
 
 ## 4\. Libros para leer en verano
 
-En el artículo [¿Buscas un libro para leer o regalar este 
-verano?](https://etheriamagazine.com/2020/06/18/libros-y-novedades-leer-verano-2020/) os 
+En el artículo {{< reflink path=posts/2020/06/libros-y-novedades-leer-verano-2020 >}} os 
 recomendábamos 10 lecturas para la temporada estival que son también estupendas para 
 disfrutar en cualquier época del año. Novelas como _El Mensaje de Pandora_, de Javier 
 Sierra, o _La madre de Frankenstein_, de Almudena Grandes. Obras para aficionados a la 
@@ -72,12 +69,11 @@ _Patria_ de Fernando Aramburu.
 
 Uno de los mejores planes que se nos ocurren ahora mismo para organizar una escapada en 
 2021 es combinar un buen hotel con la mejor gastronomía. Si no quieres equivocarte, 
-puedes consultar el artículo sobre [10 restaurantes (en hoteles) con estrella Michelin 
-donde comer desde 45 
-Euros](https://etheriamagazine.com/2019/09/20/restaurantes-baratos-o-elitistas-con-estrellas-michelin-en-hoteles/). 
-Cualquiera de ellos es garantía de éxito para comer y dormir de lujo, un plan perfecto 
-para viajeras disfrutonas. Entre ellos, el hotel y restaurante Akelarre (San Sebastián) 
-o El Doncel (Sigüenza, Guadalajara). 
+puedes consultar el artículo sobre {{< reflink 
+path=posts/2019/09/restaurantes-baratos-o-elitistas-con-estrellas-michelin-en-hoteles 
+>}}. Cualquiera de ellos es garantía de éxito para comer y dormir de lujo, un plan 
+perfecto para viajeras disfrutonas. Entre ellos, el hotel y restaurante Akelarre (San 
+Sebastián) o El Doncel (Sigüenza, Guadalajara). 
 
 ![Excursiones desde Madrid](https://fotos.etheriamagazine.com/2020/12/reportajes-mas-leidos-sepulveda.jpg "Sepúlveda es perfecta para una excursión desde Madrid. © Kelu Robles")
 
@@ -85,8 +81,7 @@ o El Doncel (Sigüenza, Guadalajara).
 
 En un año en el que no hemos podido viajar como nos hubiera gustado y la gran mayoría de 
 las escapadas que hemos hecho ha sido a lugares cercanos, un reportaje como éste que 
-recogía [11 escapadas de un día a 100 kilómetros o más de 
-Madrid](https://etheriamagazine.com/2020/06/02/11-escapadas-cercanas-a-dos-horas-de-madrid/) 
+recogía {{< reflink path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}} 
 tenía que estar entre los más leídos. Aquí puedes encontrar desde lugares conocidos como 
 Sepúlveda (Segovia) o Campo de Criptana (Ciudad Real) a otros que merece la pena 
 descubrir como la Ruta de las Caras en Cuenca o las barrancas de Castrejón y Calaña, en 
@@ -96,14 +91,12 @@ Toledo.
 
 ## 7\. Sanabria, los encantos de la Escocia zamorana
 
-Los reportajes sobre parajes naturales suelen tener mucho éxito y por eso [Sanabria, los 
-encantos de la Escocia 
-zamorana](https://etheriamagazine.com/2020/10/07/ruta-en-lago-sanabria-leyendas-hotel-camping/) 
-tenía que estar entre los más visitados. Un lugar como éste, con lagos naturales, 
-praderas exuberantes y pueblos con identidad propia, tiene que estar en la agenda de 
-cualquier viajera. No os perdáis Puebla de Sanabria, la laguna de los Peces o el 
-monasterio de San Martín de Castañeda ni, por supuesto, el placer de degustar la sabrosa 
-gastronomía sanabresa. 
+Los reportajes sobre parajes naturales suelen tener mucho éxito y por eso {{< reflink 
+path=posts/2020/10/ruta-en-lago-sanabria-leyendas-hotel-camping >}} tenía que estar 
+entre los más visitados. Un lugar como éste, con lagos naturales, praderas exuberantes y 
+pueblos con identidad propia, tiene que estar en la agenda de cualquier viajera. No os 
+perdáis Puebla de Sanabria, la laguna de los Peces o el monasterio de San Martín de 
+Castañeda ni, por supuesto, el placer de degustar la sabrosa gastronomía sanabresa. 
 
 ![vacaciones en autocaravana](https://fotos.etheriamagazine.com/2020/12/reportajes-mas-leidos-rutas-auto-caravana.jpg "Rutas en autocarvana por España.")
 
@@ -111,13 +104,12 @@ gastronomía sanabresa.
 
 Las vacaciones en autocaravana han triunfado este verano y seguro que el año que viene 
 siguen teniendo un gran éxito. La independencia que proporcionan y el facilitar unas 
-vacaciones más económicas son dos de sus principales alicientes. En el reportaje [5 
-rutas en autocaravana por 
-España](https://etheriamagazine.com/2020/07/23/5-rutas-en-auto-caravana-por-espana/) os 
-dábamos, además de información práctica, unas propuestas de viaje con las que aciertas 
-seguro: la frontera vascofrancesa, Asturias, La Garrotxa (Girona), Pirineos y la comarca 
-de La Mariña, en Lugo. No nos extraña nada que un reportaje con tantas ideas de viaje 
-esté entre los artículos más leídos en Etheria Magazine. 
+vacaciones más económicas son dos de sus principales alicientes. En el reportaje {{< 
+reflink path=posts/2020/07/5-rutas-en-auto-caravana-por-espana >}} os dábamos, además de 
+información práctica, unas propuestas de viaje con las que aciertas seguro: la frontera 
+vascofrancesa, Asturias, La Garrotxa (Girona), Pirineos y la comarca de La Mariña, en 
+Lugo. No nos extraña nada que un reportaje con tantas ideas de viaje esté entre los 
+artículos más leídos en Etheria Magazine. 
 
 ![albumes de fotos](https://fotos.etheriamagazine.com/2020/12/reportajes-mas-leidos-albumes.jpg "No renuncies a imprimir tus álbumes de fotos.")
 
@@ -125,10 +117,10 @@ esté entre los artículos más leídos en Etheria Magazine.
 
 2020 no ha sido un año para hacer muchas fotos de viajes, pero sí nos ha permitido tener 
 más tiempo para poner un poco de orden en el enorme volumen de fotografías que 
-almacenamos gracias a los dispositivos móviles y las cámaras digitales. En el artículo [5 
-consejos para hacer un álbum de fotos 
-digital](https://etheriamagazine.com/2020/04/02/5-consejos-para-hacer-un-album-de-fotos-digital-fotografia-de-viajes/) 
-os damos unas cuantas pistas para agilizar el proceso y acabar con un álbum impreso 
+almacenamos gracias a los dispositivos móviles y las cámaras digitales. En el artículo 
+{{< reflink 
+path=posts/2020/04/5-consejos-para-hacer-un-album-de-fotos-digital-fotografia-de-viajes 
+>}} os damos unas cuantas pistas para agilizar el proceso y acabar con un álbum impreso 
 lleno de recuerdos con el que no podrá competir ningún archivo digital. 
 
 ![playas de Cadiz](https://fotos.etheriamagazine.com/2020/12/reportajes-mas-leidos-cadiz.jpg "Playa Fuente del Gallo (Conil). © Etheria Magazine")
@@ -136,9 +128,8 @@ lleno de recuerdos con el que no podrá competir ningún archivo digital.
 ## 10\. Actividades para hacer con niños en la provincia de Cádiz
 
 Nos encanta Cádiz y eso se nota en Etheria Magazine ya que no nos cansamos de contar 
-secretos y lugares de esta provincia que conocemos tan bien. Si lees el artículo [12 
-actividades para hacer con niños en la provincia de 
-Cádiz](https://etheriamagazine.com/2020/03/12/12-actividades-familiares-para-viajes-con-ninos-en-cadiz/) 
+secretos y lugares de esta provincia que conocemos tan bien. Si lees el artículo {{< 
+reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz >}} 
 te aseguras aprovechar el tiempo y disfrutar con los tuyos en este destino tan popular 
 para las vacaciones familiares. Que no os asuste el viento de levante y acercaos a 
 conocer sus maravillosas playas, sus pueblos blancos y su cultura.

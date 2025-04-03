@@ -1,7 +1,7 @@
 ---
 title: "18 experiencias si viajas sola  al Algarve"
 date: 2020-08-07
-coverImage: https://fotos.etheriamagazine.com/2020/07/viajar-sola-mujer-algarve.jpg
+cover: https://fotos.etheriamagazine.com/2020/07/viajar-sola-mujer-algarve.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -25,9 +25,9 @@ recomendaciones de establecimientos.... e, incluso, un taller de cocina con cata
 ¡Puede haber algo más portugués! 
 
 No es necesario que las hagas todas si te quedas unos días pero, cada una de ellas, 
-define un poquito de este destino que va más allá de sus [sorprendentes 
-playas](https://etheriamagazine.com/2020/06/19/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve/) 
-(de las que ya os hemos hablado). 
+define un poquito de este destino que va más allá de sus {{< reflink 
+path=posts/2020/06/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve >}} (de las 
+que ya os hemos hablado). 
 
 ![buceo, viajeras, viajar sola, algarve, portugal](https://fotos.etheriamagazine.com/2020/07/viajar-sola-algarve-Ilha-Deserta.jpg "La Ilha Deserta, en Algarve, es un buen lugar para iniciarse en el buceo.")
 
@@ -100,17 +100,19 @@ a partir de variedades de uvas portuguesas.
 
 ### 9\. Burros y arte
 
-Aunque puede parecer que este tándem no tiene nada que ver, está muy relacionado. [Burros 
-e Arte](https://burros-artes.blogspot.com/) es una empresa de **Aljezur** formada por 
-dos mujeres: **Sofía von Mentzingen**, organizadora de paseos en burro, y **Elsa 
-Ribeiro**, animadora de artes y oficios tradicionales. Su proyecto ofrece experiencias 
-en el entorno rural, en contacto con la cultura y las tradiciones populares. Con ellas 
-podrás desde hacer un taller de cerámica hasta pasear con los burros por el campo. 
+Aunque puede parecer que este tándem no tiene nada que ver, está muy relacionado. 
+[Burros e Arte](https://burros-artes.blogspot.com/) es una empresa de **Aljezur** 
+formada por dos mujeres: **Sofía von Mentzingen**, organizadora de paseos en burro, y 
+**Elsa Ribeiro**, animadora de artes y oficios tradicionales. Su proyecto ofrece 
+experiencias en el entorno rural, en contacto con la cultura y las tradiciones 
+populares. Con ellas podrás desde hacer un taller de cerámica hasta pasear con los 
+burros por el campo. 
 
 ### 10\. El mejor pan de la Costa Vicentina
 
-Aprovecha la oportunidad de probar los mejores panes, pasteles y galletas de la [Costa 
-Vicentina](https://etheriamagazine.com/2018/07/25/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal/). 
+Aprovecha la oportunidad de probar los mejores panes, pasteles y galletas de la {{< 
+reflink 
+path=posts/2018/07/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal >}}. 
 Los preparan en horno de leña en la panadería artesanal **Pão do Rogil**. Sus pasteles 
 más afamados están realizados con la famosa batata de Aljezur. 
 
@@ -172,10 +174,10 @@ visita turística.
 ### 18\. ¿Algo nuevo? Volar en girocóptero
 
 Si eres una viajera empedernida, a estas alturas ya quedan pocas experiencias originales 
-con las que te podamos sorprender pero… ¿sabes lo que es un [girocóptero](https://www.skyxpedition.com/)? 
-Algo muy parecido a un pequeño helicóptero con capacidad para dos personas (el piloto y 
-el viajero) que te permite disfrutar de las mejores panorámicas desde el aire. ¿Te 
-apetece despedirte por todo lo alto del Algarve? 
+con las que te podamos sorprender pero… ¿sabes lo que es un 
+[girocóptero](https://www.skyxpedition.com/)? Algo muy parecido a un pequeño helicóptero 
+con capacidad para dos personas (el piloto y el viajero) que te permite disfrutar de las 
+mejores panorámicas desde el aire. ¿Te apetece despedirte por todo lo alto del Algarve? 
 
 \*Si prefieres visitas organizadas hay [numerosas 
 excursiones](https://www.civitatis.com/es/algarve/?aid=10211) con las que puedes 
@@ -183,11 +185,8 @@ componer tu viaje al Algarve.
 
 ### También te puede interesar...
 
-[Algarve con amigas: 6 experiencias que no puedes 
-perderte](https://etheriamagazine.com/2021/10/07/planes-imprescindibles-algarve-con-amigas/). 
+{{< reflink path=posts/2021/10/planes-imprescindibles-algarve-con-amigas >}}. 
 
-[Pine Cliffs Resort, un hotel de lujo para un viaje con niños al 
-Algarve](https://etheriamagazine.com/2021/09/08/pine-cliffs-resort-hotel-de-lujo-algarve/). 
+{{< reflink path=posts/2021/09/pine-cliffs-resort-hotel-de-lujo-algarve >}}. 
 
-[Hotel Tivoli Carvoeiro, tu escondite secreto en el 
-Algarve](https://etheriamagazine.com/2020/08/05/hotel-lujo-tivoli-carvoeiro-escapada-algarve/).
+{{< reflink path=posts/2020/08/hotel-lujo-tivoli-carvoeiro-escapada-algarve >}}.

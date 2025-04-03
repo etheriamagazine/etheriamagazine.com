@@ -1,7 +1,7 @@
 ---
 title: "Ruta en familia por Alsacia y Selva Negra"
 date: 2018-08-02
-coverImage: https://fotos.etheriamagazine.com/2018/07/Riquewihr-viñedos-e1557596568371.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/Riquewihr-viñedos-e1557596568371.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,11 @@ authors:
   - Susana García
 ---
 
-La frontera franco-alemana oculta grandes sorpresas para disfrutar en familia: ciudades 
-de cuento, paisajes variados que van de la frondosa Selva Negra a los viñedos de Alsacia 
-y uno de los mejores parques de atracciones que puedas visitar: Europa Park. Un viaje 
-para hacer con niños en el que se pasa de un país a otro sin apenas darte cuenta. 
+**La frontera franco-alemana oculta grandes sorpresas para disfrutar en familia: 
+ciudades de cuento, paisajes variados que van de la frondosa Selva Negra a los viñedos 
+de Alsacia y uno de los mejores parques de atracciones que puedas visitar: Europa Park. 
+Un viaje para hacer con niños en el que se pasa de un país a otro sin apenas darte 
+cuenta.** 
 
 ![Selva Negra, Alemania, viajes con niños, viajes en familia, viajes a Europa](https://fotos.etheriamagazine.com/2018/07/Cataratas-Triberg-bosque-e1557596453457.jpg "Bosque junto a las cascadas de Triberg. © Susana García")
 
@@ -185,11 +186,10 @@ final](https://www.intermundial.es/afiliados/seguros-de-viaje?tduid=ffe016af2424
 
 📌 **También te puede interesar:** 
 
-[Viajar con niños por Europa: consejos y propuestas para acertar en tu primer 
-viaje](https://etheriamagazine.com/2021/02/02/viajar-con-ninos-por-europa-consejos-y-propuestas/) 
+{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
 
-[Viaje en familia de seis días por Baviera: de Playmobil a 
-Legoland](https://etheriamagazine.com/2019/06/12/viaje-en-familia-parques-alemania-playmobil-legoland/) 
+{{< reflink path=posts/2019/06/viaje-en-familia-parques-alemania-playmobil-legoland >}} 
 
-[Los 10 mejores parques de atracciones de Europa para visitar con 
-niños](https://etheriamagazine.com/2018/07/09/los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia/)
+{{< reflink 
+path=posts/2018/07/los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia 
+>}}

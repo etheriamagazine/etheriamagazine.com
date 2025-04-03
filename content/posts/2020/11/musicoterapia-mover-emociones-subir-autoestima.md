@@ -1,7 +1,7 @@
 ---
 title: "Musicoterapia, un recurso importante para restaurar el equilibrio y la salud"
 date: 2020-11-11
-coverImage: https://fotos.etheriamagazine.com/2020/11/musicoterapia-ayuda-autoestima.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/musicoterapia-ayuda-autoestima.jpg
 categories: 
   - bienestar
 destino: 
@@ -155,8 +155,6 @@ música”.
 
 #### También te puede interesar
 
-• [Depresión: cuando el arte se convierte en terapia para intentar 
-superarla](https://etheriamagazine.com/2020/11/04/terapias-para-combatir-la-depresion-con-arte/). 
+- {{< reflink path=posts/2020/11/terapias-para-combatir-la-depresion-con-arte >}}. 
 
-• [Danza, la belleza que 
-sana](https://etheriamagazine.com/2020/10/21/danza-terapia-salud/).
+- {{< reflink path=posts/2020/10/danza-terapia-salud >}}.

@@ -1,7 +1,7 @@
 ---
 title: "10 secretos de La Palma que deberías conocer"
 date: 2021-04-05
-coverImage: https://fotos.etheriamagazine.com/2018/09/La-Palma-Viajes-mujeres-etheria-laurisilva.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/La-Palma-Viajes-mujeres-etheria-laurisilva.jpg
 categories: 
   - viajar-con-amigas
   - viajar-en-familia
@@ -178,11 +178,10 @@ de cetáceos, visitas a bodegas, etc.](https://www.civitatis.com/es/la-palma/?ai
 
 Sigue leyendo sobre La Palma 
 
-[Por qué no olvidarás jamás La Palma, la isla más adictiva y alternativa de 
-Canarias](https://etheriamagazine.com/2019/04/02/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias/). 
+{{< reflink path=posts/2019/04/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias 
+>}}. 
 
-[Una escapada romántica al hotel Faro Punta Cumplida (La Palma, 
-Canarias)](https://etheriamagazine.com/2019/06/03/faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica/). 
+{{< reflink 
+path=posts/2019/06/faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica >}}. 
 
-[Los Indianos, cuando La Palma se disfraza de 
-Cuba](https://etheriamagazine.com/2020/02/03/que-hacer-en-los-indianos-el-carnaval-de-la-palma/).
+{{< reflink path=posts/2020/02/que-hacer-en-los-indianos-el-carnaval-de-la-palma >}}.

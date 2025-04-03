@@ -1,7 +1,7 @@
 ---
 title: "Qué llevar en la maleta en un viaje a Tenerife"
 date: 2023-05-26
-coverImage: https://fotos.etheriamagazine.com/2023/05/tenerife-playa-medano.jpg
+cover: https://fotos.etheriamagazine.com/2023/05/tenerife-playa-medano.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Tenerife es un destino que apetece siempre, por su clima, sus playas y su increíble 
+**Tenerife es un destino que apetece siempre, por su clima, sus playas y su increíble 
 naturaleza. Como sabemos que es uno de tus lugares preferidos de Canarias, te damos las 
 claves para preparar la maleta para un viaje a Tenerife y disfrutar al máximo de esta 
-isla tan especial. 
+isla tan especial.** 
 
 ![chica de espaldas en una playa de Tenerife](https://fotos.etheriamagazine.com/2023/05/tenerife-playa-medano.jpg "En Tenerife no faltarán las jornadas interminables de playa.")
 
@@ -34,8 +34,8 @@ hora y media de distancia (como mucho). Por este motivo, te puedes permitir llev
 maleta que más te guste, siempre respetando los kilos máximos de la aerolínea con la que 
 viajes. Así que decántate por una maleta rígida o semirrígida con la que se arrugará 
 menos la ropa. Las de [Ítaca](https://amzn.to/3OtnwoT) tiene muy buenos precios y son 
-resistentes. Si te quieres dar un capricho, confía en la calidad de las maletas [Samsonite](https://amzn.to/43eXtWM), 
-te acompañará a lo largo de muchos viajes. 
+resistentes. Si te quieres dar un capricho, confía en la calidad de las maletas 
+[Samsonite](https://amzn.to/43eXtWM), te acompañará a lo largo de muchos viajes. 
 
 ![maletas azul y verde](https://fotos.etheriamagazine.com/2023/05/tenerife-maletas.jpg "Maletas de Ítaca y Samsonite disponibles en Amazon.")
 
@@ -57,10 +57,11 @@ Es casi un pecado ir a Tenerife y no hacer alguna de las excursiones que ofrece 
 en lugares como el Parque Nacional de las Cañadas del Teide, el Parque Rural de Anaga o 
 el Barranco de Masca. Pero no te confíes. Tendrás que ir preparada si vas a hacer alguna 
 ruta de senderismo, ya que el tiempo cambia mucho de las zonas de playa a la montaña: 
-bajan las temperaturas y puede llover. Es imprescindible que lleves un [cortavientos](https://amzn.to/43j09Tm) 
-(mira el que proponemos de Columbia, disponible en Amazon) y [zapatillas de 
-senderismo](https://amzn.to/45fb8Pk) (también de Columbia) con las que caminar, incluso 
-si haces la excursión habitual para ver el Teide te vendrán muy bien. 
+bajan las temperaturas y puede llover. Es imprescindible que lleves un 
+[cortavientos](https://amzn.to/43j09Tm) (mira el que proponemos de Columbia, disponible 
+en Amazon) y [zapatillas de senderismo](https://amzn.to/45fb8Pk) (también de Columbia) 
+con las que caminar, incluso si haces la excursión habitual para ver el Teide te vendrán 
+muy bien. 
 
 ![cortavientos y zapatilla de trekking](https://fotos.etheriamagazine.com/2023/05/tenerife-senderismo.jpg "Cortavientos y zapatillas de senderismo de Columbia disponibles en Amazon.")
 
@@ -69,13 +70,14 @@ si haces la excursión habitual para ver el Teide te vendrán muy bien.
 El clima suave de Tenerife favorece la práctica del deporte. Además, hay que compensar 
 los ratos de tumbona y buena comida, así que es imprescindible que lleves algo de ropa 
 deportiva en la maleta. Todos los hoteles tienen **gimnasio** y la isla es perfecta para 
-caminar o salir a correr por sus paseos marítimos, así que no pueden faltar unas [deportivas](https://amzn.to/41ZyG89) 
-(con unas Asics aciertas siempre) y ropa transpirable. Además, otros deportes como el 
-**tenis**, el **pádel** o el **golf** se pueden practicar en muchos hoteles o cerca de 
-ellos, así que, si eres aficionada, aprovecha y lleva ropa deportiva adecuada para 
-ellos. La raqueta, la pala o los palos de golf normalmente se pueden alquilar en los 
-hoteles (infórmate antes de viajar). Y para cualquier deporte, no olvides llevar un buen 
-top o sujetador deportivo, como éste de [Puma](https://amzn.to/45o52w7). 
+caminar o salir a correr por sus paseos marítimos, así que no pueden faltar unas 
+[deportivas](https://amzn.to/41ZyG89) (con unas Asics aciertas siempre) y ropa 
+transpirable. Además, otros deportes como el **tenis**, el **pádel** o el **golf** se 
+pueden practicar en muchos hoteles o cerca de ellos, así que, si eres aficionada, 
+aprovecha y lleva ropa deportiva adecuada para ellos. La raqueta, la pala o los palos de 
+golf normalmente se pueden alquilar en los hoteles (infórmate antes de viajar). Y para 
+cualquier deporte, no olvides llevar un buen top o sujetador deportivo, como éste de 
+[Puma](https://amzn.to/45o52w7). 
 
 ![Zapatillas de correr de Asics y top deportivo de Puma.](https://fotos.etheriamagazine.com/2023/05/tenerife-ropa-deporte.jpg "Zapatillas de correr de Asics y top deportivo de Puma.")
 
@@ -87,7 +89,8 @@ ocupan poco y hay modelos que sirven tanto para el día como para la noche. Si v
 otoño o en invierno, por las noches las temperaturas son algo más frescas y anochece 
 pronto, por lo que no te vendrá mal algún pantalón negro que puedas combinar con varias 
 blusas y una **chaqueta ligera**. Mira estos dos modelos que te proponemos, disponibles 
-en Amazon: una tipo [b](https://amzn.to/41Tz9J3)[é](https://amzn.to/41Tz9J3)[isbol](https://amzn.to/41Tz9J3) 
+en Amazon: una tipo 
+[b](https://amzn.to/41Tz9J3)[é](https://amzn.to/41Tz9J3)[isbol](https://amzn.to/41Tz9J3) 
 y otra [vaquera](https://amzn.to/439PdHA). 
 
 ![Chaqueta azul estampada y chaqueta vaquera](https://fotos.etheriamagazine.com/2023/05/tenerife-chaqueta-ligera.jpg "Chaquetas ligeras perfectas para llevar a Tenerife.")
@@ -95,12 +98,12 @@ y otra [vaquera](https://amzn.to/439PdHA).
 ## Calzado
 
 Ya hemos hablado del calzado deportivo necesario para llevar en la maleta a Tenerife y 
-de las chanclas, que te acompañarán gran parte del día. Ya sólo quedaría llevar unas [sandalias](https://amzn.to/3of6ZKQ) 
-(éstas de Gioseppo no abultan nada) y unas [zapatillas 
-Converse](https://amzn.to/3BNps45) que van con todo y sirven para cualquier ocasión, con 
-las blancas clásicas aciertas seguro. Un tipo de calzado que sirve para casi cualquier 
-viaje son las [sandalias deportivas](https://amzn.to/3WooqVR), con las que se camina 
-fenomenal por cualquier tipo de terreno. Las de Skechers son comodísimas. 
+de las chanclas, que te acompañarán gran parte del día. Ya sólo quedaría llevar unas 
+[sandalias](https://amzn.to/3of6ZKQ) (éstas de Gioseppo no abultan nada) y unas 
+[zapatillas Converse](https://amzn.to/3BNps45) que van con todo y sirven para cualquier 
+ocasión, con las blancas clásicas aciertas seguro. Un tipo de calzado que sirve para 
+casi cualquier viaje son las [sandalias deportivas](https://amzn.to/3WooqVR), con las 
+que se camina fenomenal por cualquier tipo de terreno. Las de Skechers son comodísimas. 
 
 ![Sandalias de Gioseppo, zapatillas Converse y sandalias de senderismo](https://fotos.etheriamagazine.com/2023/05/tenerife-calzado.jpg "Sandalias de Gioseppo, zapatillas Converse y sandalias de senderismo de Skechers.")
 
@@ -127,16 +130,16 @@ It](https://tidd.ly/3IAtVLq), que da un toque de color.
 ## Complementos
 
 Tenerife es uno de esos sitios donde puedes lucir esos complementos de verano que tanto 
-te gustan durante todo el año. Te vendrán bien unas gafas de sol, [fulares](https://amzn.to/3OAbvyi) 
-para la noche (como el que proponemos de Amazon que está disponible en varios colores y 
-no se arruga) y un **bolso pequeño** para cuando salgas a cenar. Además, lleva una 
-**mochila plegable** para las excursiones. 
+te gustan durante todo el año. Te vendrán bien unas gafas de sol, 
+[fulares](https://amzn.to/3OAbvyi) para la noche (como el que proponemos de Amazon que 
+está disponible en varios colores y no se arruga) y un **bolso pequeño** para cuando 
+salgas a cenar. Además, lleva una **mochila plegable** para las excursiones. 
 
 Aprovecha también y luce un **sombrero** o **collares** largos con los vestidos de 
 verano. Si organizas bien la maleta no tienen por qué abultar mucho (por ejemplo, 
 aprovecha el sombrero para meter dentro la ropa interior y así lo podrás llevar sin 
-doblar para que no se arrugue o elige un modelo plegable, como [éste](https://amzn.to/3WuUIOL) 
-de Amazon). 
+doblar para que no se arrugue o elige un modelo plegable, como 
+[éste](https://amzn.to/3WuUIOL) de Amazon). 
 
 ![Foulard azul y sombrero plegable](https://fotos.etheriamagazine.com/2023/05/tenerife-complementos.jpg "Foulard y sombrero plegable que se pueden comprar en Amazon.")
 
@@ -149,7 +152,8 @@ estupendos y tienen una cancelación de ruido que te hará aislarte del mundo. T
 puedes dejarte el **libro electrónico** o el gadget analógico por excelencia, un libro 
 de papel, ya que estos viajes son siempre un buen momento para reconectar con la lectura 
 y dedicarle ese tiempo que cuesta tanto sacar en el día a día. Te vendrá bien además una 
-**batería portátil para el móvil**, puedes encontrar varios modelos en la [FNAC](https://clk.tradedoubler.com/click?p=70431&a=3132464&url=https%3A%2F%2Fclk.tradedoubler.com%2Fclick%3Fp%3D70431%26a%3D3132464), 
+**batería portátil para el móvil**, puedes encontrar varios modelos en la 
+[FNAC](https://clk.tradedoubler.com/click?p=70431&a=3132464&url=https%3A%2F%2Fclk.tradedoubler.com%2Fclick%3Fp%3D70431%26a%3D3132464), 
 entre ellos las coloridas de la fotografía, para poder cargar el teléfono en las 
 excursiones o jornadas de playa más largas. 
 
@@ -166,11 +170,9 @@ a la isla de Tenerife](https://amzn.to/423iOl9)_, de Anaya, son una buena elecci
 
 📌 **También te puede interesar:** 
 
-[Guía esencial de Tenerife: 15 imprescindibles en tus 
-vacaciones](https://etheriamagazine.com/2023/01/18/que-ver-en-tenerife/) 
+{{< reflink path=posts/2023/01/que-ver-en-tenerife >}} 
 
-[10 planes para un viaje a Tenerife con 
-amigas](https://etheriamagazine.com/2021/05/17/viaje-a-tenerife-con-amigas-que-hacer-excursiones/) 
+{{< reflink path=posts/2021/05/viaje-a-tenerife-con-amigas-que-hacer-excursiones >}} 
 
-[8 excursiones con niños desde el sur de 
-Tenerife](https://etheriamagazine.com/2020/03/06/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos/)
+{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
+>}}

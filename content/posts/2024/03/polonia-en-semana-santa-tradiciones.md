@@ -1,7 +1,7 @@
 ---
 title: "Polonia en Semana Santa, sus tradiciones más originales"
 date: 2024-03-04
-coverImage: https://fotos.etheriamagazine.com/2024/02/polonia-semana-santa-domingo-de-ramos-ninas.jpg
+cover: https://fotos.etheriamagazine.com/2024/02/polonia-semana-santa-domingo-de-ramos-ninas.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -143,14 +143,10 @@ disfrutar (sin empaparte) del "lunes de agua".
 
 **También te puede interesar:** 
 
-[Tres mujeres polacas que han hecho del mundo un lugar 
-mejor](https://etheriamagazine.com/2023/03/08/mujeres-polacas-fama-universal/) 
+{{< reflink path=posts/2023/03/mujeres-polacas-fama-universal >}} 
 
-[Tres rutas para recorrer Varsovia, una ciudad 
-sorprendente](https://etheriamagazine.com/2021/03/05/que-ver-en-varsovia-en-tres-rutas-originales/) 
+{{< reflink path=posts/2021/03/que-ver-en-varsovia-en-tres-rutas-originales >}} 
 
-[Visitas esenciales para enamorarse de Cracovia en dos 
-días](https://etheriamagazine.com/2018/07/23/viaje-fin-de-semana-con-amigas-en-cracovia/) 
+{{< reflink path=posts/2018/07/viaje-fin-de-semana-con-amigas-en-cracovia >}} 
 
-[Aventura en Polonia: los últimos bisontes de Europa están en 
-Bialowieza](https://etheriamagazine.com/2019/01/30/que-ver-parque-bialowieza-polonia/)
+{{< reflink path=posts/2019/01/que-ver-parque-bialowieza-polonia >}}

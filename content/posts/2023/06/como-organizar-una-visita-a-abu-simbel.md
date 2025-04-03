@@ -1,7 +1,7 @@
 ---
 title: "Cómo y por qué organizar una visita a Abu Simbel"
 date: 2023-06-30
-coverImage: https://fotos.etheriamagazine.com/2023/06/egipto-abu-simbel-estatuas.jpg
+cover: https://fotos.etheriamagazine.com/2023/06/egipto-abu-simbel-estatuas.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Susana García
 ---
 
-La excursión a Abu Simbel suele aparecer como opcional en la mayoría de los viajes que 
+**La excursión a Abu Simbel suele aparecer como opcional en la mayoría de los viajes que 
 se organizan por Egipto pero aquí te explicamos por qué es imprescindible. También te 
 damos algunas claves para organizar una visita a Abu Simbel y aprovecharla al máximo. 
-Será un lugar que quedará para siempre en tu memoria. 
+Será un lugar que quedará para siempre en tu memoria.** 
 
 ![fachada de Abu Simbel](https://fotos.etheriamagazine.com/2023/06/egipto-abu-simbel-amanecer.jpg "Entrada del templo principal de Abu Simbel con los cuatro colosos de Ramsés II al amanecer. © Susana García")
 
@@ -108,8 +108,8 @@ variaciones).
 
 También puedes contratar la excursión con Civitatis, que ofrece al viajero todas las las 
 opciones: [excursión a Abu 
-Simbel](https://www.civitatis.com/es/asuan/excursion-abu-simbel/?aid=10211) en el día, [excursión 
-de dos días a Abu 
+Simbel](https://www.civitatis.com/es/asuan/excursion-abu-simbel/?aid=10211) en el día, 
+[excursión de dos días a Abu 
 Simbel](https://www.civitatis.com/es/asuan/tour-abu-simbel-2-dias/?aid=10211) (con 
 alojamiento en el hotel Seti Abu Simbel) y [excursión a Abu Simbel en avión desde El 
 Cairo](https://www.civitatis.com/es/el-cairo/excursion-abu-simbel/?aid=10211) (con vuelo 
@@ -180,8 +180,6 @@ más de un viaje al año.
 
 **También te puede interesar:** 
 
-[Crucero por el Nilo, qué ver en un viaje por la historia del Antiguo 
-Egipto](https://etheriamagazine.com/2023/04/26/que-ver-crucero-del-nilo-egipto/) 
+{{< reflink path=posts/2023/04/que-ver-crucero-del-nilo-egipto >}} 
 
-[Qué llevar en la maleta en un viaje a 
-Egipto](https://etheriamagazine.com/2023/02/01/que-llevar-en-la-maleta-egipto/)
+{{< reflink path=posts/2023/02/que-llevar-en-la-maleta-egipto >}}

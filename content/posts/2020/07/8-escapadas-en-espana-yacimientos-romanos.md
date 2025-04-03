@@ -1,7 +1,7 @@
 ---
 title: "8 escapadas en España para descubrir su pasado romano"
 date: 2020-07-29
-coverImage: https://fotos.etheriamagazine.com/2020/06/Merida-teatro-romano.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/Merida-teatro-romano.jpg
 categories: 
   - inspiración
   - ocio
@@ -45,9 +45,9 @@ romana](https://www.civitatis.com/es/tarragona/visita-guiada-tarragona-romana/?a
 ## 3\. Baelo Claudia (Cádiz)
 
 Si quieres combinar cultura con una de las mejores playas de España, tu destino tiene 
-que ser Bolonia, en Tarifa, donde se asoman las ruinas de la antigua [Baelo 
-Claudia](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/). 
-Una auténtica joya para los amantes de los yacimientos romanos en España, ya que este 
+que ser Bolonia, en Tarifa, donde se asoman las ruinas de la antigua {{< reflink 
+path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}}. Una 
+auténtica joya para los amantes de los yacimientos romanos en España, ya que este 
 conjunto arqueológico se encuentra apartado de núcleos urbanos, por lo que la estructura 
 de la ciudad romana y sus elementos son perfectamente reconocibles. Después de 
 recorrerla no te pierdas su centro de interpretación y, después, un paseo por la playa 
@@ -72,16 +72,17 @@ bonita esplanada que ofrece unas vistas increíbles del Atlántico y del propio 
 
 ## 5\. Segovia
 
-Una de las imágenes más icónicas de la arquitectura romana a nivel mundial es la del [acueducto 
-de 
+Una de las imágenes más icónicas de la arquitectura romana a nivel mundial es la del 
+[acueducto de 
 Segovia](http://segoviaturismo.es/ven-a-segovia/arqueologia-en-todos-los-rincones/331-el-acueducto). 
 Su perfecto estado de conservación y la forma en la que ha sido integrado en la ciudad 
 hacen que sea el blanco de todas las fotos. Aunque la imagen que tenemos de él es la que 
 atraviesa su casco antiguo, cuenta con más tramos y se puede recorrer para descubrir 
 esta perfecta obra de ingeniería romana. Pero, además, la ciudad de Segovia es perfecta 
 para disfrutar de su gastronomía (no te pierdas el famoso lechazo) y descubrir otros 
-rincones como el [Alcázar](https://etheriamagazine.com/2020/03/11/que-ver-interior-precio-entradas-del-alcazar-de-segovia/), 
-la catedral, la calle Real o la antigua Judería. No te pierdas sus lugares fundamentales 
+rincones como el {{< reflink 
+path=posts/2020/03/que-ver-interior-precio-entradas-del-alcazar-de-segovia >}}, la 
+catedral, la calle Real o la antigua Judería. No te pierdas sus lugares fundamentales 
 con esta [excursión](https://www.civitatis.com/es/madrid/excursion-segovia/?aid=10211) 
 de Civitatis. 
 
@@ -106,7 +107,8 @@ Pesifae que se expone en el Museo Provincial.
 
 ## 7\. Santiponce (Sevilla)
 
-La famosa [Itálica](https://www.andalucia.org/es/santiponce-turismo-cultural-conjunto-arqueologico-de-italica) 
+La famosa 
+[Itálica](https://www.andalucia.org/es/santiponce-turismo-cultural-conjunto-arqueologico-de-italica) 
 romana dejó sus restos en la provincia de Sevilla, en el lugar donde después se 
 desarrollaría la ciudad de Santiponce. Fue una ciudad de gran importancia y lugar de 
 nacimiento de los emperadores Trajano y Adriano, además de varios senadores. Te 
@@ -121,19 +123,18 @@ Itálica](https://www.civitatis.com/es/santiponce/visita-guiada-italica/?aid=102
 ## 8\. Cartagena (Murcia)
 
 Aunque la historia de la antigua Carthago Nova está ligada a su origen cartaginés, 
-fueron los romanos los que hicieron de ella una de las grandes ciudades de Hispania. [Cartagena](https://turismo.cartagena.es/itinerario_arqueologico.asp) 
-conserva varios edificios que reflejan el esplendor de su pasado romano, como el 
-anfiteatro, el teatro, el barrio del foro romano del Molinete, la Casa de la Fortuna 
-(donde se ve claramente la estructura de las _domus_ romanas) o el Augusteum (restos de 
-dos edificios públicos). Para seguir aprendiendo sobre el pasado de la ciudad, no te 
-pierdas el Museo Arqueológico de Cartagena. Puedes recorrerla con una [visita 
+fueron los romanos los que hicieron de ella una de las grandes ciudades de Hispania. 
+[Cartagena](https://turismo.cartagena.es/itinerario_arqueologico.asp) conserva varios 
+edificios que reflejan el esplendor de su pasado romano, como el anfiteatro, el teatro, 
+el barrio del foro romano del Molinete, la Casa de la Fortuna (donde se ve claramente la 
+estructura de las _domus_ romanas) o el Augusteum (restos de dos edificios públicos). 
+Para seguir aprendiendo sobre el pasado de la ciudad, no te pierdas el Museo 
+Arqueológico de Cartagena. Puedes recorrerla con una [visita 
 guiada](https://www.civitatis.com/es/cartagena/visita-guiada-cartagena/?aid=10211) para 
 conocer su apasionante historia. 
 
 ### También te puede interesar:
 
-[10 yacimientos arqueológicos de México que no puedes 
-perderte](https://etheriamagazine.com/2021/03/30/mejores-yacimientos-arqueologicos-mexico/) 
+{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}} 
 
-[10 yacimientos arqueológicos en América Latina que tienes que 
-conocer](https://etheriamagazine.com/2019/05/29/10-yacimientos-arqueologicos-america-latina/)
+{{< reflink path=posts/2019/05/10-yacimientos-arqueologicos-america-latina >}}

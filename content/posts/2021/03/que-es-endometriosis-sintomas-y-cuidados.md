@@ -1,7 +1,7 @@
 ---
 title: "Endometriosis, una enfermedad que no es solo ginecológica"
 date: 2021-03-15
-coverImage: https://fotos.etheriamagazine.com/2021/03/mujeres-con-endometriosis.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/mujeres-con-endometriosis.jpg
 categories: 
   - bienestar
 destino: 
@@ -141,11 +141,11 @@ reconoce esta ginecóloga y obstetra que pasa consulta en Extremadura.
 
 ### También te puede interesar...
 
-[El ayuno, una práctica milenaria de purificación que beneficia tu 
-salud](https://etheriamagazine.com/2021/02/17/beneficios-del-ayuno-intermitente-para-la-salud/). 
+{{< reflink path=posts/2021/02/beneficios-del-ayuno-intermitente-para-la-salud >}}. 
 
-[Personas Altamente Sensibles. ¿Es realmente un don la 
-sensibilidad?](https://etheriamagazine.com/2020/11/25/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad/) 
+{{< reflink 
+path=posts/2020/11/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}} 
 
-[Mindfulness y meditación, tus mejores aliados para reducir el estrés y la 
-ansiedad](https://etheriamagazine.com/2020/11/18/mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion/).
+{{< reflink 
+path=posts/2020/11/mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion 
+>}}.

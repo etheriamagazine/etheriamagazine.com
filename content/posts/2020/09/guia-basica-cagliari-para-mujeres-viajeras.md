@@ -1,7 +1,7 @@
 ---
 title: "Cagliari, un viaje con amigas de buen comer"
 date: 2020-09-17
-coverImage: https://fotos.etheriamagazine.com/2020/09/viajar-sola-Cagliari-Mirador-Croce.jpg
+cover: https://fotos.etheriamagazine.com/2020/09/viajar-sola-Cagliari-Mirador-Croce.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -48,11 +48,10 @@ Perdámonos... perdámonos en nuestro viaje a Cagliari con amigas por esas calle
 **centro medieval** que se estrechan, se retuercen y se mudan en escalinatas o en 
 pequeñas plazas a la sombra. Paseemos por esos callejones convertidos en improvisados 
 jardines llenos de macetas, lugares que huelen a sopa y donde las motos circulan con 
-inaudita precisión. Igual que sucede en la otra dama del sur, Nápoles (no te pierdas: [48 
-horas en Nápoles, la ciudad más canalla de 
-Italia](https://etheriamagazine.com/2020/09/04/que-ver-en-napoles-en-fin-de-semana/)), 
-también aquí, a cielo abierto, los vecinos exhiben balcones llenos de ristras de tomates 
-o de calzoncillos del abuelo. Autenticidad, desde luego, no falta. 
+inaudita precisión. Igual que sucede en la otra dama del sur, Nápoles (no te pierdas: 
+{{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}}), también aquí, a 
+cielo abierto, los vecinos exhiben balcones llenos de ristras de tomates o de 
+calzoncillos del abuelo. Autenticidad, desde luego, no falta. 
 
 ![museo arqueologico de cagliari en cerdena](https://fotos.etheriamagazine.com/2020/09/viajar-con-amigas-Cagliari-Museo-Arqueologico.jpg "Museo Archeologico Nazionale de Cagliari. © Kris Ubach")
 
@@ -158,11 +157,8 @@ información del parque.
 
 ### También te puede interesar...
 
-[Ruta en coche por Cerdeña, un plan 
-irrechazable](https://etheriamagazine.com/2018/09/14/viaje-chicas-isla-cerdena-italia/) 
+{{< reflink path=posts/2018/09/viaje-chicas-isla-cerdena-italia >}} 
 
-[Ruta en coche por Sicilia, entre pantocrátores y 
-bikinis](https://etheriamagazine.com/2021/07/05/sicilia-pantocratores-y-bikinis/) 
+{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}} 
 
-[La isla de Gozo, un lugar donde querrás quedarte a 
-vivir](https://etheriamagazine.com/2021/04/29/que-ver-hacer-gozo-malta/)
+{{< reflink path=posts/2021/04/que-ver-hacer-gozo-malta >}}

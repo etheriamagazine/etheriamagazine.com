@@ -1,7 +1,7 @@
 ---
 title: "Un fin de semana en la romántica Salzburgo invernal"
 date: 2019-12-02
-coverImage: https://fotos.etheriamagazine.com/2019/11/Salzburgo-Hohen-.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/Salzburgo-Hohen-.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Ana María Pareja
 ---
 
-Los meses más fríos del año en la ciudad de Mozart son sinónimo de mercadillos, galletas 
-de jengibre, vino caliente, paseos y mucha música. Todo este espíritu romántico 
+**Los meses más fríos del año en la ciudad de Mozart son sinónimo de mercadillos, 
+galletas de jengibre, vino caliente, paseos y mucha música. Todo este espíritu romántico 
 entremezclado con sus ya célebres atractivos culturales, arquitectónicos y naturales 
 configuran una escapada de fin de semana a Salzburgo en invierno perfecta para disfrutar 
-en pareja. 
+en pareja.** 
 
 ![Mercado de Navidad en Salzburgo](https://fotos.etheriamagazine.com/2019/11/Salzburgo-mercadillo-navidad-catedral.jpg "Mercadillo Christkindlmarkt junto a la catedral. © Österreich Werbung/ Bryan Reinhart")
 
@@ -193,8 +193,6 @@ espectáculos y eventos.
 
 ## También te puede interesar:
 
-[Hallstatt, el pueblo más bonito del mundo a orillas de un 
-lago](https://etheriamagazine.com/2020/05/15/hallstatt-viaja-con-amigas-austria/) 
+{{< reflink path=posts/2020/05/hallstatt-viaja-con-amigas-austria >}} 
 
-[Planes en Viena con amigas para vuestro uso y 
-disfrute](https://etheriamagazine.com/2022/07/07/que-hacer-en-viena-con-amigas/)
+{{< reflink path=posts/2022/07/que-hacer-en-viena-con-amigas >}}

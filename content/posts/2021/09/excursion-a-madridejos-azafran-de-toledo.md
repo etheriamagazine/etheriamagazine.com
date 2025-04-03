@@ -1,7 +1,7 @@
 ---
 title: "La Mancha toledana: excursión a Madridejos para conocer el mundo del azafrán"
 date: 2021-09-29
-coverImage: https://fotos.etheriamagazine.com/2021/09/seleccion-pistilos.jpg
+cover: https://fotos.etheriamagazine.com/2021/09/seleccion-pistilos.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Pedro Grifol
 ---
 
-Escapadas cerca de Madrid hay muchas, pero una excursión a Madridejos te permite conocer 
-el fascinante mundo del azafrán y participar en ‘la monda’ (recogida) del mismo; visitar 
-un silo (vivienda excavada) y hacer de molinero por un día. ¿Nos acompañas a la 
-provincia de Toledo? 
+**Escapadas cerca de Madrid hay muchas, pero una excursión a Madridejos te permite 
+conocer el fascinante mundo del azafrán y participar en ‘la monda’ (recogida) del mismo; 
+visitar un silo (vivienda excavada) y hacer de molinero por un día. ¿Nos acompañas a la 
+provincia de Toledo?** 
 
 ![pistilos flor azafran](https://fotos.etheriamagazine.com/2021/09/seleccion-pistilos.jpg "Selección de pistilos en la flor del azafrán. © Pedro Grifol")
 
@@ -92,14 +92,13 @@ imagen.
 
 ## De visita por Madridejos
 
-Quien haya visto la película ‘Dolor y Gloria’ –Pedro Almodovar, 2019– (en este [artículo 
-de 
-Paterna](https://etheriamagazine.com/2020/04/06/paterna-escenario-de-dolor-y-gloria-de-almodovar/) 
-puedes ver sus escenarios) recordará la vivienda subterránea en la que transcurre la 
-núbil edad de su protagonista. Es un silo, una casa excavada directamente en un terreno 
-arcilloso. Estas viviendas se excavaban con rudimentarias herramientas hasta abrir en el 
-interior del solar el espacio necesario para un par de dormitorios, cocina y cuadra para 
-el burro, logrando una casa sin vigas, sin columnas y sin tabiques. El techo de algunas 
+Quien haya visto la película ‘Dolor y Gloria’ –Pedro Almodovar, 2019– (en este {{< 
+reflink path=posts/2020/04/paterna-escenario-de-dolor-y-gloria-de-almodovar >}} puedes 
+ver sus escenarios) recordará la vivienda subterránea en la que transcurre la núbil edad 
+de su protagonista. Es un silo, una casa excavada directamente en un terreno arcilloso. 
+Estas viviendas se excavaban con rudimentarias herramientas hasta abrir en el interior 
+del solar el espacio necesario para un par de dormitorios, cocina y cuadra para el 
+burro, logrando una casa sin vigas, sin columnas y sin tabiques. El techo de algunas 
 habitaciones se abrían al cielo (lumbreras), que proporcionaban iluminación y 
 ventilación. 
 
@@ -146,23 +145,23 @@ _molinotiogenaro@hotmail.com_),una atrevida teatralización con parada en la nos
 
 ### Qué comer en Madridejos
 
-**• Platos cervantinos.** Los amantes de la cocina tradicional tienen aquí donde 
+**- Platos cervantinos.** Los amantes de la cocina tradicional tienen aquí donde 
 homenajear en la mesa al ingenioso hidalgo Don Quijote, ya que su cocina es 
 esencialmente cervantina: caldereta de cordero, perdiz a la toledana y platos de caza. 
 
-**• ‘Duelos y Quebrantos’** es un clásico plato manchego, que se cita en la primera 
+**- ‘Duelos y Quebrantos’** es un clásico plato manchego, que se cita en la primera 
 página de El Quijote, y que consiste en un revuelto de huevos con chorizo, jamón y 
 tocino… ¡que no produce ni dolor, ni quebranto! y que, además, nos ilustra sobre ese 
 plato tan soberanamente español. 
 
 ![migas gachas manchegas madridejos](https://fotos.etheriamagazine.com/2021/09/migas-Gachas-manchegas.jpg "¿Migas o gachas? En Madridejos, tú eliges. © P. Grifol")
 
-**• Las típicas ‘Gachas Manchegas’** son un contundente guiso que liga la harina de 
+**- Las típicas ‘Gachas Manchegas’** son un contundente guiso que liga la harina de 
 almorta (autóctona de la zona) con panceta, ajos, pimentón y aceite. También las 
 **‘Migas Toledanas’** son famosas por ser el emblemático condumio de los pastores que, 
 si se terciaba, lo acompañaban con uvas y melón. 
 
-**• Quesos.** Naturalmente, el queso ocupa un lugar destacado en la excursión a 
+**- Quesos.** Naturalmente, el queso ocupa un lugar destacado en la excursión a 
 Madridejos. Dicen en el pueblo que cada día es más difícil encontrar gente que quiera 
 seguir con la ardua tarea de ordeñar a las ovejas, porque para elaborar el verdadero –y 
 por lo tanto único– queso manchego, hay que emplearse diariamente a fondo y sin descanso 
@@ -191,15 +190,16 @@ rurales: La Posada del Herrero, Casa Rural La Alameda y Los Porches.
 [Madridejos](http://www.madridejos.es/). 
 
 **Ruta Toledana por Madridejos**, (se ha incorporado al mapa de producto turístico Red 
-de Juderías - Caminos de Sefarad). 
+de Juderías 
+
+- Caminos de Sefarad). 
 
 ### También te puede interesar...
 
-[8 razones por las que desearás conocer la provincia de Ciudad 
-Real](https://etheriamagazine.com/2020/11/10/mejores-rutas-en-ciudad-real/). 
+{{< reflink path=posts/2020/11/mejores-rutas-en-ciudad-real >}}. 
 
-[Descubre las mejores excursiones en la provincia de 
-Cuenca](https://etheriamagazine.com/2020/06/04/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca/). 
+{{< reflink 
+path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+>}}. 
 
-[El Valle del Tiétar, la Marbella de 
-interior](https://etheriamagazine.com/2020/08/19/valle-tietar-sotillo-adrada-piedralaves/).
+{{< reflink path=posts/2020/08/valle-tietar-sotillo-adrada-piedralaves >}}.

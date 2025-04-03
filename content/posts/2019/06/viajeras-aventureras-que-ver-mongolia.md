@@ -1,7 +1,7 @@
 ---
 title: "Mongolia, el país de los últimos nómadas"
 date: 2019-06-13
-coverImage: https://fotos.etheriamagazine.com/2019/06/viaje-mongolia-Paisano-en-Shine-Ider.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/viaje-mongolia-Paisano-en-Shine-Ider.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Ana Vara y David Santiago
 ---
 
-Viajar entre nómadas a través de una tierra sin caminos, gobernada por los vientos y las 
-pautas de las migraciones, solo es posible en Mongolia. Un país cuyo nombre evoca al 
+**Viajar entre nómadas a través de una tierra sin caminos, gobernada por los vientos y 
+las pautas de las migraciones, solo es posible en Mongolia. Un país cuyo nombre evoca al 
 gran Temujin, más conocido como Gengis Khan, que llegó a formar el mayor imperio de toda 
 la Historia en solo una generación. Si te gusta viajar por libre, será una gran aventura 
-para ti. 
+para ti.** 
 
 ![Hombre reflejado en un retrovisor en Mongolia](https://fotos.etheriamagazine.com/2019/06/viaje-mongolia-Paisano-en-Shine-Ider.jpg "Paisano en Shine Ider.")
 
@@ -149,8 +149,9 @@ El transporte público terrestre no es recomendable en Mongolia, por no decir
 inexistente. Es fundamental el alquiler de una furgoneta o jeep con conductor. Lo más 
 sencillo es contratar un tour en una de las agencias locales o guest houses de Ulan 
 Bator que incluya la furgoneta, el conductor, un guía, que además puede hacer la función 
-de cocinero y los alojamientos con familias (normalmente en gers independientes). [Evaneos](http://www.evaneos.es/mongolia/viajes/agencias/265-suren/), 
-a través de Suren, que habla español, también puede prepararte un apasionante tour. 
+de cocinero y los alojamientos con familias (normalmente en gers independientes). 
+[Evaneos](http://www.evaneos.es/mongolia/viajes/agencias/265-suren/), a través de Suren, 
+que habla español, también puede prepararte un apasionante tour. 
 
 ### ¡Ojo con la comida!
 
@@ -183,11 +184,8 @@ profesora en un pequeño pueblo mongol.
 
 📌 **También te puede interesar:** 
 
-[Descubre Guangxi, la otra cara de la Nueva 
-China](https://etheriamagazine.com/2019/12/27/que-hacer-en-guangxi-viaja-sola-china/) 
+{{< reflink path=posts/2019/12/que-hacer-en-guangxi-viaja-sola-china >}} 
 
-[Descubre Corea del Sur, uno de los secretos mejor guardados de 
-Asia](https://etheriamagazine.com/2021/01/14/que-ver-hacer-en-corea-del-sur/) 
+{{< reflink path=posts/2021/01/que-ver-hacer-en-corea-del-sur >}} 
 
-[Okinawa, el secreto mejor guardado de 
-Japón](https://etheriamagazine.com/2019/04/05/viajar-sola-que-ver-hacer-dormir-okinawa-japon/)
+{{< reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-okinawa-japon >}}

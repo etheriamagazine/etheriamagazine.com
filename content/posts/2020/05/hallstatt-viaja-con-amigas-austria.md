@@ -1,7 +1,7 @@
 ---
 title: "Hallstatt, el pueblo más bonito del mundo a orillas de un lago"
 date: 2020-05-15
-coverImage: https://fotos.etheriamagazine.com/2020/05/Hallstatt-iglesia-embarcadero.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/Hallstatt-iglesia-embarcadero.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Elena Ortega
 ---
 
-A 73 kilómetros de Salzburgo, en el distrito Salzkammergut, Hallstatt se contonea 
+**A 73 kilómetros de Salzburgo, en el distrito Salzkammergut, Hallstatt se contonea 
 solemne ante el lago del mismo nombre. Nos encontramos en la impresionante región 
 austríaca de los lagos, circundados por las montañas de Dachstein, un lugar perfecto 
-para realizar un viaje con amigas o en pareja. 
+para realizar un viaje con amigas o en pareja.** 
 
 ![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](https://fotos.etheriamagazine.com/2020/05/Hallstatt-lago.jpg "Barco llegando al embarcadero de Hallstatt. © Österreich Werbung/Wolfgang Weinhäupl")
 
@@ -131,11 +131,10 @@ ciudad, especialmente desde la terraza de su última planta.
 
 ### También te puede interesar:
 
-[Cómo organizar un viaje a Viena con tu 
-madre](https://etheriamagazine.com/2019/04/24/viajar-con-madres-que-ver-viena/) 
+{{< reflink path=posts/2019/04/viajar-con-madres-que-ver-viena >}} 
 
-[48 horas en 
-Salzburgo](https://etheriamagazine.com/2019/12/02/48-horas-en-salzburgo-invernal-mercadillos-navidenos-escapada-romantica/) 
+{{< reflink 
+path=posts/2019/12/48-horas-en-salzburgo-invernal-mercadillos-navidenos-escapada-romantica 
+>}} 
 
-[Suiza en coche eléctrico, una aventura ecológica (y más 
-económica)](https://etheriamagazine.com/2021/02/10/ruta-en-coche-electrico-por-suiza/)
+{{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}}

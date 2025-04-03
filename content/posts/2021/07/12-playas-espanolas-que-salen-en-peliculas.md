@@ -1,7 +1,7 @@
 ---
 title: "12 playas de cine en España donde darse el primer chapuzón"
 date: 2021-07-19
-coverImage: https://fotos.etheriamagazine.com/2021/07/Playa-Torimbia-pelicula-el-abuelo.jpg
+cover: https://fotos.etheriamagazine.com/2021/07/Playa-Torimbia-pelicula-el-abuelo.jpg
 categories: 
   - inspiración
 destino: 
@@ -44,13 +44,14 @@ Miñanco.
 ## 2\. Playa de Torimbia (Llanes, Asturias)
 
 Esta playa nudista, aunque también puedes tomar el sol con ropa, se encuentra en el 
-concejo asturiano de [Llanes](https://etheriamagazine.com/tag/que-ver-y-hacer-en-llanes/). 
-En este enclave de arena dorada y resguardado por unos bellos y verticales acantilados 
-rodó José Luis Garci algunas escenas de **_El abuelo_**. Otras localizaciones que 
-aparecen en la película son los acantilados de Puertas, la playa de Toró, el cementerio 
-de Niembru y la estación de Posada. Pero no es esta la única película rodada en esta 
-bonita villa. Hay numerosos escenarios naturales que han sido platós cinematográficos y 
-aparecen recogidos en la ruta [Llanes de Cine](https://www.llanes.es/es/llanes-de-cine). 
+concejo asturiano de 
+[Llanes](https://etheriamagazine.com/tag/que-ver-y-hacer-en-llanes/). En este enclave de 
+arena dorada y resguardado por unos bellos y verticales acantilados rodó José Luis Garci 
+algunas escenas de **_El abuelo_**. Otras localizaciones que aparecen en la película son 
+los acantilados de Puertas, la playa de Toró, el cementerio de Niembru y la estación de 
+Posada. Pero no es esta la única película rodada en esta bonita villa. Hay numerosos 
+escenarios naturales que han sido platós cinematográficos y aparecen recogidos en la 
+ruta [Llanes de Cine](https://www.llanes.es/es/llanes-de-cine). 
 
 ![playa torimbia pelicula el abuelo](https://fotos.etheriamagazine.com/2021/07/Playa-Torimbia-pelicula-el-abuelo.jpg "La playa de Torimbia (Llanes) aparece en el filme 'El Abuelo'. © Turismo Llanes")
 
@@ -61,8 +62,8 @@ Esta playa cántabra quedó inmortalizada en la pantalla grande gracias a la com
 Raúl Arévalo, Quim Gutiérrez e Inma Cuesta. En este enclave, a orillas del Cantábrico, 
 tienen lugar varias de las escenas más animadas de la película. Si te apetece ver todas 
 las localizaciones (más allá de la costa) donde los protagonistas viven sus aventuras y 
-desventuras puedes seguir nuestra [Ruta de ‘Primos’ en 
-Comillas](https://etheriamagazine.com/2019/09/03/primos-un-viaje-de-pelicula-a-comillas/). 
+desventuras puedes seguir nuestra {{< reflink 
+path=posts/2019/09/primos-un-viaje-de-pelicula-a-comillas >}}. 
 
 ![playa comillas pelicula primos](https://fotos.etheriamagazine.com/2021/07/Playa-de-comillas-pelicula-Primos.jpg "Playa de Comillas, en la película © 'Primos'.")
 
@@ -183,9 +184,8 @@ y que era propietario de un club de burlesque donde trabaja Alex, una bailarina 
 ayudará en la búsqueda. En la playa de Poniente, con sus más de 3.000 metros de arena, 
 vemos a los protagonistas reflexionar sobre sus vidas. En la cinta también aparecen 
 lugares reconocibles de la ciudad como el Balcón del Mediterráneo y la Torre Lúgano. 
-Puedes aprovechar la escapada para disfrutar de nuestros [planes secretos en Benidorm 
-más allá de ir a la playa o tomar el 
-sol](https://etheriamagazine.com/2021/03/26/planes-originales-en-benidorm/). 
+Puedes aprovechar la escapada para disfrutar de nuestros {{< reflink 
+path=posts/2021/03/planes-originales-en-benidorm >}}. 
 
 ![Playa de Poniente, escenario de 'Nieva en Benidorm'.](https://fotos.etheriamagazine.com/2021/07/playa-Benidorm-Nieva-en-Benidorm.jpg "Playa de Poniente, escenario de © 'Nieva en Benidorm'.")
 
@@ -205,11 +205,8 @@ de HBO.
 
 **Sigue leyendo sobre otras playas...** 
 
-[Conoce las 15 playas y calas más deseadas de 
-Conil](https://etheriamagazine.com/2021/02/05/mejores-playas-y-calas-de-conil-de-la-frontera/). 
+{{< reflink path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
 
-[Guía de playas de Menorca para 
-principiantes](https://etheriamagazine.com/2020/08/14/guia-mejores-playas-calas-menorca/). 
+{{< reflink path=posts/2020/08/guia-mejores-playas-calas-menorca >}}. 
 
-[Zambúllete en la mejor guía de playas de 
-Formentera](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-playas-formentera/).
+{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}.

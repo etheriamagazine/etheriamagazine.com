@@ -1,7 +1,7 @@
 ---
 title: "Qué llevar en la maleta en un viaje a Jordania"
 date: 2020-01-23
-coverImage: https://fotos.etheriamagazine.com/2020/01/consejos-maleta-viaje-jordania.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/consejos-maleta-viaje-jordania.jpg
 categories: 
   - qué-llevar-en-la-maleta
 destino: 
@@ -29,8 +29,8 @@ parte e incluir algunos objetos en nuestra maleta para Jordania que faciliten el
 Partimos de la base de un viaje estándar a Jordania que incluye Amman, Petra, desierto 
 el de Wadi Rum y el mar Muerto. 
 
-No te pierdas: [Jordania, visitas y consejos imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2020/12/18/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola/). 
+No te pierdas: {{< reflink 
+path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}. 
 
 ## 1\. Qué maleta llevar a Jordania
 
@@ -101,20 +101,20 @@ dado.
 ## 6\. Dormir en el desierto
 
 En el entorno de Petra y en el desierto de Wadi Rum tienes la opción de acampar por 
-libre o de dormir en jaimas. Si duermes en tiendas de campaña, es útil que lleves un [saco 
-sábana](https://amzn.to/3EQBD1g) (los hay sintéticos muy baratos, pero es mejor invertir 
-un poquito más y comprar uno de algodón que sea más transpirable). Si acampas por libre, 
-el **saco de dormir** es fundamental. También es útil llevar [antifaz](https://amzn.to/3FciV5v) 
-(para no despertarte al amanecer) y **tapones** para los oídos, porque los ronquidos de 
-los compañeros de aventura pueden impedirte descansar. 
+libre o de dormir en jaimas. Si duermes en tiendas de campaña, es útil que lleves un 
+[saco sábana](https://amzn.to/3EQBD1g) (los hay sintéticos muy baratos, pero es mejor 
+invertir un poquito más y comprar uno de algodón que sea más transpirable). Si acampas 
+por libre, el **saco de dormir** es fundamental. También es útil llevar 
+[antifaz](https://amzn.to/3FciV5v) (para no despertarte al amanecer) y **tapones** para 
+los oídos, porque los ronquidos de los compañeros de aventura pueden impedirte 
+descansar. 
 
 ![Saco sábana y antifaces.](https://fotos.etheriamagazine.com/2020/01/saco-sabana-antifaces-jordania.jpg "Saco sábana y antifaces.")
 
 ## 7\. Neceser y botiquín de viaje
 
-En el [neceser de 
-viaje](https://etheriamagazine.com/2019/10/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras/) 
-debes incluir gel-champú de baño (los hay en láminas), crema hidratante y bálsamo 
+En el {{< reflink path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras 
+>}} debes incluir gel-champú de baño (los hay en láminas), crema hidratante y bálsamo 
 labial. Si vas a necesitar tampones es mejor que te los lleves porque resulta difícil 
 encontrarlos. También son fundamentales: protector solar, spray antimosquitos, toallitas 
 húmedas y papel higiénico (y algunas bolsas desechables para guardarlos hasta que 
@@ -160,6 +160,6 @@ por ser lector/a de ETHERIA MAGAZINE**).
 En cuanto al dinero, mejor en efectivo, cambia a la moneda local. Salvo en hoteles y en 
 restaurantes de la capital, la tarjeta no te servirá de nada. 
 
-No te pierdas esta [lista de 10 películas rodadas en 
-Jordania](https://etheriamagazine.com/2019/08/06/viajes-cine-peliculas-rodadas-en-jordania/) 
-para documentar tu viaje con antelación.
+No te pierdas esta {{< reflink 
+path=posts/2019/08/viajes-cine-peliculas-rodadas-en-jordania >}} para documentar tu 
+viaje con antelación.

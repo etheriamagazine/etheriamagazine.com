@@ -1,7 +1,7 @@
 ---
 title: "Munduk, una escapada romántica al Bali más auténtico"
 date: 2024-07-24
-coverImage: https://fotos.etheriamagazine.com/2024/07/bali-arrozales-Jatiluwih.jpg
+cover: https://fotos.etheriamagazine.com/2024/07/bali-arrozales-Jatiluwih.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -133,8 +133,6 @@ cómoda de algodón y alguna prenda de manga larga para las noches.
 
 **También en Etheria Magazine:** 
 
-[Cómo organizar un viaje a Bali para aprovechar bien el 
-tiempo](https://etheriamagazine.com/2023/10/09/como-organizar-viaje-a-bali/) 
+{{< reflink path=posts/2023/10/como-organizar-viaje-a-bali >}} 
 
-[Bali, diez lugares que van directos a Instagram y 
-TikTok](https://etheriamagazine.com/2023/07/26/fotos-bali-instagram-tiktok/)
+{{< reflink path=posts/2023/07/fotos-bali-instagram-tiktok >}}

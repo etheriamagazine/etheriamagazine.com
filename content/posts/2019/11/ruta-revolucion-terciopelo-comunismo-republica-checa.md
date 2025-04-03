@@ -1,16 +1,16 @@
 ---
 title: "Ruta del Comunismo en Chequia, visitas con mucha historia"
 date: 2019-11-17
-coverImage: https://fotos.etheriamagazine.com/2019/11/ruta-chequia-Telon-de-Acero-de-Satov-Museo-Tecnico-de-Brno.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/ruta-chequia-Telon-de-Acero-de-Satov-Museo-Tecnico-de-Brno.jpg
 destino: 
   - Europa
 authors: 
   - Redacción Etheria
 ---
 
-La Ruta del Comunismo en Chequia es la mejor manera de conocer este período histórico ya 
-que existen numerosas huellas que aún se pueden visitar: campos de trabajo, museos, 
-torres de vigilancia, aduanas y pasos fronterizos. 
+**La Ruta del Comunismo en Chequia es la mejor manera de conocer este período histórico 
+ya que existen numerosas huellas que aún se pueden visitar: campos de trabajo, museos, 
+torres de vigilancia, aduanas y pasos fronterizos.** 
 
 ![museo del comunismo, ruta praga](https://fotos.etheriamagazine.com/2019/11/ruta-chequia-Museo-del-Comunismo-1.jpg "Museo del Comunismo (Praga).")
 
@@ -149,9 +149,7 @@ gobierno comunista no permitió al ser considerado “el enemigo”. Se les entr
 
 **También te puede interesar...** 
 
-[Qué ver en Brno: una escapada muy ‘chic’ a 
-Chequia](https://etheriamagazine.com/2022/08/26/que-ver-brno-chequia/). 
+{{< reflink path=posts/2022/08/que-ver-brno-chequia >}}. 
 
-[Karlovy Vary, Mariánské Lázně y Františkovy Lázně, descubre el secreto de la eterna 
-juventud en 
-Chequia](https://etheriamagazine.com/2021/08/13/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy/).
+{{< reflink 
+path=posts/2021/08/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy >}}.

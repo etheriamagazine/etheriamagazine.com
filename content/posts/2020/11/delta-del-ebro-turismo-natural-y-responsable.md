@@ -1,7 +1,7 @@
 ---
 title: "Delta del Ebro, un viaje natural sorprendente entre aves y arrozales"
 date: 2020-11-17
-coverImage: https://fotos.etheriamagazine.com/2020/11/delta-ebro-ave-arroz.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/delta-ebro-ave-arroz.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -131,9 +131,10 @@ calidad ambiental, el futuro de las aves y la vida de los habitantes del Delta.
 Emprender el camino de vuelta sin alejarse del río es navegar a contracorriente, como el 
 esturión europeo, la anguila, la lamprea y la saboga que retornan gracias a un río vivo 
 y sin barreras. Desarrollan su vida entre el mar y el río, y su retorno es el mejor 
-símbolo del carácter viajero que siempre tuvo el cauce fluvial. Así llegamos a [Tortosa](https://www.tortosaturisme.cat/es/), 
-entrando por el **portal del Romeu**, y ante la escultura de Santiago Apóstol, sentimos 
-la llamada compostelana al ver el comienzo del **camino de Sant Jaume de L’Ebre**. 
+símbolo del carácter viajero que siempre tuvo el cauce fluvial. Así llegamos a 
+[Tortosa](https://www.tortosaturisme.cat/es/), entrando por el **portal del Romeu**, y 
+ante la escultura de Santiago Apóstol, sentimos la llamada compostelana al ver el 
+comienzo del **camino de Sant Jaume de L’Ebre**. 
 
 ![puerta de santiago en tortosa](https://fotos.etheriamagazine.com/2020/11/puerta-santiago-tortosa.jpg "Portal del Romeu, en Tortosa.")
 
@@ -172,8 +173,6 @@ zona.
 
 #### También te puede interesar...
 
-• [Una cita en la laguna de Gallocanta para observar las 
-grullas](https://etheriamagazine.com/2019/10/29/laguna-de-gallocanta-donde-cuando-ver-grullas/). 
+- {{< reflink path=posts/2019/10/laguna-de-gallocanta-donde-cuando-ver-grullas >}}. 
 
-• [Avistamiento de cetáceos en Vizcaya 
-(Bizkaia)](https://etheriamagazine.com/2020/04/20/avistamiento-cetaceos-bizkaia-vizcaya-pais-vasco/).
+- {{< reflink path=posts/2020/04/avistamiento-cetaceos-bizkaia-vizcaya-pais-vasco >}}.

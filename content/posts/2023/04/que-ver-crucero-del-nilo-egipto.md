@@ -1,7 +1,7 @@
 ---
 title: "Crucero por el Nilo, qué ver en un viaje por la historia del Antiguo Egipto"
 date: 2023-04-26
-coverImage: https://fotos.etheriamagazine.com/2023/04/crucero-nilo-asuan-faluca.jpg
+cover: https://fotos.etheriamagazine.com/2023/04/crucero-nilo-asuan-faluca.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-Si hay un país al que viajar al menos una vez en la vida éste es Egipto. En un crucero 
+**Si hay un país al que viajar al menos una vez en la vida éste es Egipto. En un crucero 
 por el Nilo la historia antigua del Egipto faraónico asoma en cada puerto y, mientras 
 tanto, sólo queda acodarse en la baranda y mirar cómo pasa la vida en la orilla de este 
-río, que sigue siendo una fuente inagotable de vida. 
+río, que sigue siendo una fuente inagotable de vida.** 
 
 ![barcos en el Nilo en Asuán](https://fotos.etheriamagazine.com/2023/04/crucero-nilo-asuan-excursion-poblado-nubio-barca.jpg "Barcos regresando al atardecer del poblado nubio en Asuán. © Susana García/ Etheria Magazine")
 
@@ -303,7 +303,8 @@ aire acondicionado del barco.
 ✅ **Es imprescindible disponer de un seguro de viajes** **si haces un Crucero por el 
 Nilo**. Si has reservado el viaje en una agencia, comprueba que llevas incluido uno 
 combinado. Y si no está incluido o viajas por tu cuenta, tendrás que contratar un seguro 
-con una agencia especializada y fiable como [INTERMUNDIAL](https://clk.tradedoubler.com/click?p=281568&a=3132464&url=https%3A%2F%2Fwww.intermundial.es%2F)(que 
+con una agencia especializada y fiable como 
+[INTERMUNDIAL](https://clk.tradedoubler.com/click?p=281568&a=3132464&url=https%3A%2F%2Fwww.intermundial.es%2F)(que 
 te hará **un 15% de DESCUENTO** si usas el enlace anterior). Puedes elegir entre un 
 seguro para este viaje en concreto o uno **ANUAL**, que es muy práctico si realizas más 
 de un viaje al año. 
@@ -377,11 +378,11 @@ evitar en el resto de restaurantes cualquier plato o bebida que pueda contener a
 
 ### Qué llevar
 
-Antes de viajar no olvides consultar nuestro artículo? [Una maleta para 
-Egipto](https://etheriamagazine.com/2023/02/01/que-llevar-en-la-maleta-egipto/) donde te 
-contamos todo lo que tienes que incluir en tu equipaje. Como resumen de los 
-imprescindibles, no puedes olvidar un botiquín de viaje, crema solar, gorro, gafas de 
-sol y un abanico para ayudar con el calor del interior de las tumbas. 
+Antes de viajar no olvides consultar nuestro artículo? {{< reflink 
+path=posts/2023/02/que-llevar-en-la-maleta-egipto >}} donde te contamos todo lo que 
+tienes que incluir en tu equipaje. Como resumen de los imprescindibles, no puedes 
+olvidar un botiquín de viaje, crema solar, gorro, gafas de sol y un abanico para ayudar 
+con el calor del interior de las tumbas. 
 
 ![Poblado nubio en Asuán.](https://fotos.etheriamagazine.com/2023/04/crucero-nilo-asuan-poblado-nubio.jpg "Poblado nubio en Asuán. © Susana García/ Etheria Magazine")
 

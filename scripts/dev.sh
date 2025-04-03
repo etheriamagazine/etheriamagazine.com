@@ -10,7 +10,7 @@ export HUGO_MODULE_WORKSPACE=hugo.work
 # bunx pagefind
 
 # start server
-hugo server --cleanDestinationDir # --templateMetrics --templateMetricsHints --printUnusedTemplates &
+hugo server # --cleanDestinationDir # --templateMetrics --templateMetricsHints --printUnusedTemplates &
 
 
 

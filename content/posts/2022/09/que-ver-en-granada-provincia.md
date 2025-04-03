@@ -1,7 +1,7 @@
 ---
 title: "15 imprescindibles de la provincia de Granada para un viaje bien organizado"
 date: 2022-09-30
-coverImage: https://fotos.etheriamagazine.com/2022/09/granada-parque-Sierra-Nevada.jpg
+cover: https://fotos.etheriamagazine.com/2022/09/granada-parque-Sierra-Nevada.jpg
 categories: 
   - inspiración
 destino: 
@@ -47,8 +47,7 @@ zona de tapeo del centro hasta sus edificios religiosos, pasando por sus museos,
 y miradores. No olvides, eso sí, que no te puedes marchar de la ciudad sin visitar la 
 Alhambra y el Generalife. 
 
-**No te pierdas**:**** [Granada con amigas: cultura, diversión y mucho 
-arte](https://etheriamagazine.com/2022/06/16/granada-con-amigas/). 
+**No te pierdas**:**** {{< reflink path=posts/2022/06/granada-con-amigas >}}. 
 
 ![Jardines del Generalife.](https://fotos.etheriamagazine.com/2022/09/granada-generalife.jpg "Jardines del Generalife.")
 
@@ -62,8 +61,7 @@ las obras maestras del arte árabe en todo el mundo, que encuentra su referente 
 remozado Patio de los Leones. Eso sí, el viajero debe reservar las entradas de acceso a 
 la Alhambra con bastante antelación. 
 
-**NO TE PIERDAS**: [10 consejos para triunfar en tu visita a la 
-Alhambra](https://etheriamagazine.com/2021/10/25/consejos-para-visitar-la-alhambra/). 
+**NO TE PIERDAS**: {{< reflink path=posts/2021/10/consejos-para-visitar-la-alhambra >}}. 
 
 ![El Albaicín, uno de los barrios más bonitos de Granada.](https://fotos.etheriamagazine.com/2022/09/granada-albaicin.jpg "El Albaicín, uno de los barrios más bonitos de Granada.")
 
@@ -77,8 +75,8 @@ Es aquí donde se halla el Mirador de San Nicolás, que regala una vista formida
 mágica de la Alhambra. El Sacromonte, conocido mundialmente por sus cuevas, es el gran 
 territorio de la vida gitana y flamenca. 
 
-**No te pierdas:** [El Albaicín y La Alhambra, dos visitas ineludibles en 
-Granada](https://etheriamagazine.com/2020/05/29/48-horas-en-el-albayzin-y-la-alhambra/). 
+**No te pierdas:** {{< reflink path=posts/2020/05/48-horas-en-el-albayzin-y-la-alhambra 
+>}}. 
 
 ![Barrio de Sacromonte, de casas blancas y calles empinadas.](https://fotos.etheriamagazine.com/2022/09/granada-Sacromonte.jpg "Barrio de Sacromonte.")
 
@@ -103,8 +101,8 @@ municipales de Granada. Y la que fue la casa de los García Lorca alberga los mu
 cuadros y enseres de la vivienda, así como dibujos, poemas y objetos de uso cotidiano 
 del autor de _Yerma_ y _Doña Rosita la soltera_. 
 
-**No te pierdas**: [Ruta de Lorca en Granada, un paseo por sus lugares más 
-íntimos](https://etheriamagazine.com/2020/10/07/ruta-cultural-granada-de-garcia-lorca/). 
+**No te pierdas**: {{< reflink path=posts/2020/10/ruta-cultural-granada-de-garcia-lorca 
+>}}. 
 
 ![Huerta de San Vicente, hogar de Federico García Lorca.](https://fotos.etheriamagazine.com/2022/09/granada-Huerta-de-San-Vicente.jpg "Huerta de San Vicente, hogar de Federico García Lorca.")
 
@@ -117,8 +115,8 @@ Real, que también ofrecen unas panorámicas de vértigo de las cúpulas y torre
 cristianas. Y desde el de San Cristóbal, se divisan las cumbres de Sierra Nevada, la 
 vega y las murallas árabes. Todo en un solo golpe de pestañas. 
 
-**Si vas en familia:** [Tadeo Jones en Granada, un viaje de cine en 
-familia](https://etheriamagazine.com/2020/11/22/tadeo-jones-ruta-de-cine-en-granada/). 
+**Si vas en familia:** {{< reflink 
+path=posts/2020/11/tadeo-jones-ruta-de-cine-en-granada >}}. 
 
 ![Mirador de San Nicolás con vista a la Alhambra desde el Albaicín.](https://fotos.etheriamagazine.com/2022/09/granada-Mirador-San-Nicolas.jpg "Mirador de San Nicolás, en el Albaicín.")
 
@@ -244,5 +242,4 @@ nuestra escapada turística por la provincia de Granada.
 
 **También te puede interesar...** 
 
-[Andalucía en autocaravana y consejos prácticos para 
-novatos](https://etheriamagazine.com/2021/04/07/consejos-rutas-andalucia-en-autocaravana/).
+{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}.

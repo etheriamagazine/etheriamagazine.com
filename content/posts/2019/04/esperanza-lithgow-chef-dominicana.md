@@ -1,7 +1,7 @@
 ---
 title: "Doña Esperancita, la dama de los fogones dominicanos"
 date: 2019-04-06
-coverImage: https://fotos.etheriamagazine.com/2019/04/Chef-Esperanza-Lithgow.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/Chef-Esperanza-Lithgow.jpg
 categories: 
   - gourmet
 destino: 
@@ -67,8 +67,7 @@ del país.
 
 También te puede interesar... 
 
-[10 razones para viajar a República 
-Dominicana.](https://etheriamagazine.com/2018/05/18/10-razones-para-visitar-punta-cana-republica-dominicana/) 
+{{< reflink path=posts/2018/05/10-razones-para-visitar-punta-cana-republica-dominicana 
+>}} 
 
-[Norte de República 
-Dominicana.](https://etheriamagazine.com/2018/04/13/propuestas-en-el-norte-de-republica-dominicana/)
+{{< reflink path=posts/2018/04/propuestas-en-el-norte-de-republica-dominicana >}}

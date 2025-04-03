@@ -1,7 +1,7 @@
 ---
 title: "Vanessa Garrido: \"Viajar es invertir en conocimiento y tolerancia\""
 date: 2019-03-29
-coverImage: https://fotos.etheriamagazine.com/2019/03/vanessa-garrido-glaciar-perito-moreno.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/vanessa-garrido-glaciar-perito-moreno.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -70,7 +70,7 @@ Sin duda, **Perú y Argentina**, por su maravillosa naturaleza allá donde vayas
 
 10\. Tres viajes pendientes… 
 
-**Japón**, **Birmania** y [Sri Lanka](https://etheriamagazine.com/2019/02/01/sri-lanka-para-mujeres-viajeras/).
+**Japón**, **Birmania** y {{< reflink path=posts/2019/02/sri-lanka-para-mujeres-viajeras >}}.
 
 11\. ¿Qué país te ha ganado con su gastronomía? ¿Destacarías algún plato o producto? 
 

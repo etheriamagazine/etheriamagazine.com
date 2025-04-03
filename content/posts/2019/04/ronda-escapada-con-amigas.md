@@ -1,7 +1,7 @@
 ---
 title: "Escapada a la Ronda más literaria, romántica y monumental"
 date: 2019-04-16
-coverImage: https://fotos.etheriamagazine.com/2019/04/Ronda-mirador.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/Ronda-mirador.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -138,12 +138,12 @@ cafés y tablaos de Ronda.
 
 ### CONSEJOS ETHERIA
 
-**• Si te gusta la arqueología** y dispones de tiempo, acércate hasta el vecino 
+**- Si te gusta la arqueología** y dispones de tiempo, acércate hasta el vecino 
 yacimiento arqueológico de la antigua ciudad de **Acipino**. Está a 20 kilómetros de 
 Ronda y su estado de conservación es impresionante. Sobresalen elementos urbanos tan 
 destacados como el teatro, las termas y la vieja muralla. 
 
-• Y si lo que prefieres es desconectar del ruido, acércate hasta la [Finca La 
+- Y si lo que prefieres es desconectar del ruido, acércate hasta la [Finca La 
 Donaira](https://ladonaira.com/es/), un eco-retiro de lujo a 30 km de Ronda, que tiene 9 
 habitaciones en un terreno de 700 hectáreas, limítrofe con El Gastor (Cádiz). Aquí prima 
 una filosofía natural que está vinculada con el cultivo de la agricultura ecológica y la 
@@ -154,11 +154,8 @@ Más información en la [Oficina de Turismo de Ronda](http://turismoderonda.es/e
 
 ### También te puede interesar:
 
-[Ronda con amigas. Un fin de semana perfecto en el 
-sur](https://etheriamagazine.com/2021/11/23/planes-en-ronda-con-amigas/) 
+{{< reflink path=posts/2021/11/planes-en-ronda-con-amigas >}} 
 
-[Parque Nacional Sierra de las Nieves, una nueva estrella brilla en 
-Málaga](https://etheriamagazine.com/2021/06/26/revista-viajes-que-ver-parque-sierra-de-nieves/) 
+{{< reflink path=posts/2021/06/revista-viajes-que-ver-parque-sierra-de-nieves >}} 
 
-[Ruta en coche por 12 preciosos pueblos blancos de 
-Cádiz](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/)
+{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}}

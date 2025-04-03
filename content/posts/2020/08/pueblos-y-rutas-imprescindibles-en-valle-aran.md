@@ -1,7 +1,7 @@
 ---
 title: "Valle de Arán, organiza una ruta por sus pueblos y sendas imprescindibles"
 date: 2020-08-31
-coverImage: https://fotos.etheriamagazine.com/2020/08/que-ver-valle-aran-pueblos.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/que-ver-valle-aran-pueblos.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -224,11 +224,10 @@ suficiente información para que todo transcurra de forma segura.
 
 ### También te puede interesar:
 
-[¿Tienes 6 días para hacer la Ruta del románico en Vall de 
-Boí?](https://etheriamagazine.com/2020/02/28/ruta-senderista-en-familia-por-valle-de-boi-pirineo-lleida/) 
+{{< reflink 
+path=posts/2020/02/ruta-senderista-en-familia-por-valle-de-boi-pirineo-lleida >}} 
 
-[8 experiencias que sólo puedes vivir en el Pallars Jussà 
-(Lleida)](https://etheriamagazine.com/2021/06/09/8-experiencias-en-el-pallars-jussa-excursiones-en-lleida/) 
+{{< reflink path=posts/2021/06/8-experiencias-en-el-pallars-jussa-excursiones-en-lleida 
+>}} 
 
-[Descubre estos 8 lugares secretos de Cataluña que deberías 
-conocer](https://etheriamagazine.com/2021/02/22/lugares-secretos-de-cataluna-que-visitar/)
+{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}

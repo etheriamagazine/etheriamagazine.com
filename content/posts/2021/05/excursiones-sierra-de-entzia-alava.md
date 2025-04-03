@@ -1,7 +1,7 @@
 ---
 title: "La Sierra de Entzia, des(conexión) en siete pasos en Álava"
 date: 2021-05-12
-coverImage: https://fotos.etheriamagazine.com/2021/05/cascadas-de-toberia.jpg
+cover: https://fotos.etheriamagazine.com/2021/05/cascadas-de-toberia.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -142,11 +142,12 @@ de **robles trasmochos** que nos costará abandonar.
 
 ### También te puede interesar...
 
-[Paisajes del agua en los 10 mejores cañones del País 
-Vasco](https://etheriamagazine.com/2019/04/09/viajes-naturaleza-mejores-canones-pais-vasco/). 
+{{< reflink path=posts/2019/04/viajes-naturaleza-mejores-canones-pais-vasco >}}. 
 
-[País Vasco Francés, una ruta llena de elegancia y 
-sabor](https://etheriamagazine.com/2020/08/24/que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare/). 
+{{< reflink 
+path=posts/2020/08/que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare 
+>}}. 
 
-[‘Hondalea’, la escultura de Cristina Iglesias que iluminará el faro de la isla de Santa 
-Clara](https://etheriamagazine.com/2021/05/04/hondalea-escultura-de-cristina-iglesias-en-faro-de-la-isla-de-santa-clara/).
+{{< reflink 
+path=posts/2021/05/hondalea-escultura-de-cristina-iglesias-en-faro-de-la-isla-de-santa-clara 
+>}}.

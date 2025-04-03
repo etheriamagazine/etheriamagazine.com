@@ -1,7 +1,7 @@
 ---
 title: "Freud en Viena, una ruta siguiendo los pasos del padre del psicoanálisis"
 date: 2020-04-17
-coverImage: https://fotos.etheriamagazine.com/2020/04/ruta-freud-Cafe-Central.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/ruta-freud-Cafe-Central.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-En unos tiempos en los que el psicoanálisis es más necesario que nunca, os animamos a 
+**En unos tiempos en los que el psicoanálisis es más necesario que nunca, os animamos a 
 conocer los lugares donde discurrió la vida de Sigmund Freud en Viena. Comienza en el 
 Museo Sigmund Freud, una visita esencial para conocer mejor a este revolucionario 
-neurólogo y psiquiatra. 
+neurólogo y psiquiatra.** 
 
 ![freud netflix, ruta freud en viena, museo de freud viena](https://fotos.etheriamagazine.com/2020/04/ruta-viena-Sigmund-Freud.jpg "Freud (1906): © Sigmund Freud Privatstiftung. Diván: © Gerald Zugmann. Entrada: © Florian Lierzer/ Sigmund Freud Foundation")
 
@@ -110,7 +110,7 @@ metros cuadrados.
 
 ### Cómo es el museo
 
-**• El nivel principal de la casa**, que en el pasado albergaba la residencia de la 
+**- El nivel principal de la casa**, que en el pasado albergaba la residencia de la 
 familia y la consulta de Freud, ha sido transformado en un espacio museístico. En este 
 entorno, los visitantes tienen la oportunidad de explorar una colección que fue iniciada 
 por el influyente artista conceptual estadounidense Joseph Kosuth. Esta colección 
@@ -118,7 +118,7 @@ alberga obras de destacados artistas como John Baldessari, Pier Paolo Calzolari,
 Hiller, Ilya Kabakov y Franz West, proporcionando una experiencia enriquecedora para 
 quienes la visitan. 
 
-**• La biblioteca,** que es la biblioteca especializada en psicoanálisis más grande de 
+**- La biblioteca,** que es la biblioteca especializada en psicoanálisis más grande de 
 Europa, alberga una impresionante colección de aproximadamente 40,000 elementos, que 
 incluyen libros, documentos y otros recursos. Además, ha sido actualizada para incluir 
 una moderna sala de lectura que se adapta a las últimas tecnologías, lo que la convierte 

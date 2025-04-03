@@ -1,7 +1,7 @@
 ---
 title: "4 planazos para disfrutar de las Fiestas del Pilar en Zaragoza"
 date: 2023-10-10
-coverImage: https://fotos.etheriamagazine.com/2023/10/Rodrigo-Cuevas.jpg
+cover: https://fotos.etheriamagazine.com/2023/10/Rodrigo-Cuevas.jpg
 categories: 
   - ocio
 destino: 
@@ -10,9 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Música, experiencias de realidad aumentada, ofrendas florales, actividades recreativas 
+**Música, experiencias de realidad aumentada, ofrendas florales, actividades recreativas 
 para familias y la rica gastronomía callejera os esperan en las Fiestas del Pilar de 
-Zaragoza. Os contamos cuatro planazos de su agenda festiva que no os podéis perder. 
+Zaragoza.** **Os contamos cuatro planazos de su agenda festiva que no os podéis 
+perder.** 
 
 ![Rodrigo Cuevas actuará en las Fiestas del Pilar de Zaragoza](https://fotos.etheriamagazine.com/2023/10/Rodrigo-Cuevas.jpg "Rodrigo Cuevas. © JavierBelver")
 
@@ -73,8 +74,8 @@ a pequeños como mayores. Se encuentra a sólo 5 minutos de la plaza del Pilar.
 
 ✅ **Y si queréis conocer Zaragoza a fondo, no os perdáis:** 
 
-• **Guía gastronómica y monumental:** [Zaragoza bien vale un vermú torero… o 
-tres](https://etheriamagazine.com/2019/02/12/mejores-bares-viaje-zaragoza/). 
+- **Guía gastronómica y monumental:** {{< reflink 
+path=posts/2019/02/mejores-bares-viaje-zaragoza >}}. 
 
-**• Rutas:** [8 escapadas en la provincia de 
-Zaragoza](https://etheriamagazine.com/2020/06/08/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza/)
+**- Rutas:** {{< reflink 
+path=posts/2020/06/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza >}}

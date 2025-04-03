@@ -1,7 +1,7 @@
 ---
 title: "Hospes Palacio del Bailío, un hotel lleno de historia en Córdoba"
 date: 2022-04-29
-coverImage: https://fotos.etheriamagazine.com/2022/04/palacio-bailio-Suite-Al-Andalus.jpg
+cover: https://fotos.etheriamagazine.com/2022/04/palacio-bailio-Suite-Al-Andalus.jpg
 categories: 
   - hoteles
 destino: 
@@ -123,11 +123,8 @@ por noche.
 
 ### También te puede interesar:
 
-[Visita de Medina Azahara, la excursión imprescindible en 
-Córdoba](https://etheriamagazine.com/2022/03/25/visita-medina-azahara-cordoba/) 
+{{< reflink path=posts/2022/03/visita-medina-azahara-cordoba >}} 
 
-[Córdoba con amigas: 10 planes para una escapada 
-perfecta](https://etheriamagazine.com/2021/08/25/planes-que-hacer-en-cordoba-con-amigas/) 
+{{< reflink path=posts/2021/08/planes-que-hacer-en-cordoba-con-amigas >}} 
 
-[Guía básica para una ruta en autocaravana por la Subbética 
-Cordobesa](https://etheriamagazine.com/2022/03/23/ruta-autocaravana-en-cordoba/)
+{{< reflink path=posts/2022/03/ruta-autocaravana-en-cordoba >}}

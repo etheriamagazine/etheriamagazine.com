@@ -1,7 +1,7 @@
 ---
 title: "Así son las mujeres de Brujas (y no, no son brujas)"
 date: 2019-07-03
-coverImage: https://fotos.etheriamagazine.com/2019/06/viaje-flandes-mujeres-paseo-bicicleta.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/viaje-flandes-mujeres-paseo-bicicleta.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -147,9 +147,9 @@ mientras que la zona de Zilverpand ofrece un paseo más animado y concurrido. En
 **Steenstraat** sobreviven antiguas casas de gremios en los números 25, 38 y 40. Un 
 vistazo hacia el suelo de **Walplein** nos descubrirá las tuberías subterráneas que 
 distribuyen la cerveza hasta su central embotelladora, manteniendo así la producción en 
-el mismo lugar que hace 160 años. Iniciamos así una pequeña ruta que nos llevará desde [De 
-Halve Maan](https://www.halvemaan.be/), una cervecería familiar fundada en 1856, para 
-debatirnos después entre las cientos de marcas y opciones cerveceras de [Brugs 
+el mismo lugar que hace 160 años. Iniciamos así una pequeña ruta que nos llevará desde 
+[De Halve Maan](https://www.halvemaan.be/), una cervecería familiar fundada en 1856, 
+para debatirnos después entre las cientos de marcas y opciones cerveceras de [Brugs 
 Beertje](https://www.brugsbeertje.be/en/home-2/) y del afamado [Café 
 Vlissinghe](https://www.cafevlissinghe.be/), un local del año 1515. 
 
@@ -170,8 +170,6 @@ para creer en su poder romántico y en ‘la vida borgoñona’.
 
 ### También te puede interesar
 
-[8 planes que no puedes perderte en Bruselas y 
-Flandes](https://etheriamagazine.com/2021/03/12/que-ver-hacer-otros-planes-en-bruselas-y-flandes/) 
+{{< reflink path=posts/2021/03/que-ver-hacer-otros-planes-en-bruselas-y-flandes >}} 
 
-[Qué ver y hacer en Luxemburgo en 3 días con 
-amigas](https://etheriamagazine.com/2020/03/04/que-ver-y-hacer-en-luxemburgo-en-3-dias-con-amigas/)
+{{< reflink path=posts/2020/03/que-ver-y-hacer-en-luxemburgo-en-3-dias-con-amigas >}}

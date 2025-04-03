@@ -1,7 +1,7 @@
 ---
 title: "10 pueblos bonitos de Castilla-La Mancha para organizar una escapada"
 date: 2023-11-10
-coverImage: https://fotos.etheriamagazine.com/2023/11/consuegra-molinos-castilla-mancha.jpg
+cover: https://fotos.etheriamagazine.com/2023/11/consuegra-molinos-castilla-mancha.jpg
 categories: 
   - viajar-en-pareja
   - inspiración
@@ -40,8 +40,7 @@ curiosidad, esta ciudad de Guadalajara guarda una curiosa historia que la relaci
 la “movida madrileña”, puedes conocerla en el reportaje de Etheria Magazine que te 
 indicamos a continuación. 
 
-✅ [Sigüenza: del pasado medieval a la Movida 
-madrileña](https://etheriamagazine.com/2020/12/14/que-ver-donde-comer-en-siguenza/) 
+✅ {{< reflink path=posts/2020/12/que-ver-donde-comer-en-siguenza >}} 
 
 ![Catedral de Sigüenza.](https://fotos.etheriamagazine.com/2023/11/siguenza-catedral-castilla-la-mancha.jpg "Catedral de Sigüenza.")
 
@@ -57,8 +56,7 @@ desde Tamajón, la primera incluye Almiruete, Palancares y Valverde de los Arroy
 con pizarra negra y cuarcita. Y la segunda Campillo de Ranas, Robleluengo y Majaelrayo, 
 uno de los más poblados. 
 
-✅ [Respirar ‘a pulmón abierto’ en los Pueblos Negros de 
-Guadalajara](https://etheriamagazine.com/2019/05/06/ruta-en-coche-pueblos-negros-guadalajara/) 
+✅ {{< reflink path=posts/2019/05/ruta-en-coche-pueblos-negros-guadalajara >}} 
 
 ![plaza de Valverde de los Arroyos](https://fotos.etheriamagazine.com/2023/11/pueblos-negros-Valverde-de-los-Arroyos-castilla-la-mancha.jpg "Valverde de los Arroyos, en la ruta de los Pueblos Negros.")
 
@@ -81,8 +79,7 @@ iglesias, conventos y palacios que demuestran la pujanza de esta villa en el sig
 Uno de los lugares más destacados es el **convento de Santa Catalina** que alberga desde 
 los años setenta del siglo pasado a un Parador Nacional. 
 
-✅ [8 razones por las que desearás conocer la provincia de Ciudad 
-Real](https://etheriamagazine.com/2020/11/10/mejores-rutas-en-ciudad-real/) 
+✅ {{< reflink path=posts/2020/11/mejores-rutas-en-ciudad-real >}} 
 
 ## Villanueva de los Infantes
 
@@ -116,8 +113,7 @@ y la iglesia de San Nicolás de Bari, del siglo XVI. Merece la pena dar un paseo
 **convento de Nuestra Señora del Rosal** que, aunque está en ruinas, conserva su 
 estructura y ofrece unas vistas estupendas de los alrededores. 
 
-✅ [Ruta de los Mimbres de Cuenca, belleza roja sin 
-artificios](https://etheriamagazine.com/2020/01/15/que-ver-hacer-ruta-mimbre-cuenca/) 
+✅ {{< reflink path=posts/2020/01/que-ver-hacer-ruta-mimbre-cuenca >}} 
 
 ## Alarcón
 
@@ -189,8 +185,6 @@ de las visitas que no puedes perderte.
 
 📌 **También te puede interesar:** 
 
-[10 pueblos bonitos de Galicia que no puedes 
-perderte](https://etheriamagazine.com/2023/09/22/pueblos-bonitos-galicia/) 
+{{< reflink path=posts/2023/09/pueblos-bonitos-galicia >}} 
 
-[12 pueblos bonitos en Castilla y León que no puedes 
-perderte](https://etheriamagazine.com/2023/09/13/pueblos-bonitos-castilla-y-leon/)
+{{< reflink path=posts/2023/09/pueblos-bonitos-castilla-y-leon >}}

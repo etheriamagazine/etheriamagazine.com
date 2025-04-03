@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer en Bahamas, un viaje a tu medida"
 date: 2018-08-14
-coverImage: https://fotos.etheriamagazine.com/2018/05/Viaje-Islas-Bahamas-faro-lejos.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Viaje-Islas-Bahamas-faro-lejos.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -76,9 +76,9 @@ nirvana del marinero.
 
 #### Visitar Elbow Cay
 
-En **Elbow Cay**, uno de los islotes habitados, se encuentra la coqueta población de [Hope 
-Town](http://www.visithopetown.com), un destino con una buena oferta hotelera y de ocio, 
-perfecto para alojarte y, desde donde realizar visitas a los alrededores. 
+En **Elbow Cay**, uno de los islotes habitados, se encuentra la coqueta población de 
+[Hope Town](http://www.visithopetown.com), un destino con una buena oferta hotelera y de 
+ocio, perfecto para alojarte y, desde donde realizar visitas a los alrededores. 
 
 ![Excursiones en barco en Islas Bahamas](https://fotos.etheriamagazine.com/2018/05/Viaje-Islas-Bahamas-barco.jpg "Desde Marsh Harbour se pueden realizar excursiones marítimas a las islas cercanas. ©Etheria Magazine")
 
@@ -104,20 +104,20 @@ Un viaje a Bahamas es algo más que un capricho, puede convertirse en un sueño 
 
 ### CONSEJOS ETHERIA
 
-• Muchos vuelos desde España realizan escala en [Miami](https://etheriamagazine.com/2018/05/09/miami-7-planes-para-viajar-en-familia/). 
-Aprovecha para conocer la ciudad o para quedarte una noche. De esta manera, tendrás dos 
-destinos al precio de uno. 
+- Muchos vuelos desde España realizan escala en {{< reflink 
+path=posts/2018/05/miami-7-planes-para-viajar-en-familia >}}. Aprovecha para conocer la 
+ciudad o para quedarte una noche. De esta manera, tendrás dos destinos al precio de uno. 
 
-• El [hotel Pink Sands Resort](http://www.pinksandsresort.com) es una opción de lujo 
+- El [hotel Pink Sands Resort](http://www.pinksandsresort.com) es una opción de lujo 
 para disfrutar del destino pero existen muchos otros establecimientos más asequibles. 
 
-**• Practica submarinismo**. Este es un buen lugar para iniciarse en el buceo la 
+**- Practica submarinismo**. Este es un buen lugar para iniciarse en el buceo la 
 temperatura, la transparencia y la seguridad de las aguas. Te puedes sumergir en decenas 
 de enclaves, en muchos de ellos solo es necesario disponer de tubo, gafas y aletas para 
 disfrutar de un auténtico espectáculo visual. Los más atrevidos disfrutarán 
 especialmente dando de comer a los tiburones o jugando con los delfines. 
 
-• Una opción cómoda para [recorrer en familia las islas Bahamas es en 
-crucero](https://etheriamagazine.com/2018/05/04/crucero-disney-por-bahamas/). 
+- Una opción cómoda para {{< reflink path=posts/2018/05/crucero-familia-disney-bahamas 
+>}}. 
 
-• Más información en [www.bahamasturismo.es](http://www.bahamasturismo.es)
+- Más información en [www.bahamasturismo.es](http://www.bahamasturismo.es)

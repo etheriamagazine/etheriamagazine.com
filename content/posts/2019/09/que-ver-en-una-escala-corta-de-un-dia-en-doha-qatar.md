@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en una escala de un día en Doha"
 date: 2019-09-19
-coverImage: https://fotos.etheriamagazine.com/2019/09/escala-un-dia-doha-museo-arte.jpg
+cover: https://fotos.etheriamagazine.com/2019/09/escala-un-dia-doha-museo-arte.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -178,11 +178,8 @@ también existen muchas opciones para que esas horas de espera se te hagan más 
 
 ### También te puede interesar...
 
-[10 visitas para aprovechar al máximo una escala en 
-Dubái](https://etheriamagazine.com/2019/05/31/como-aprovechar-una-escala-en-dubai/). 
+{{< reflink path=posts/2019/05/como-aprovechar-una-escala-en-dubai >}}. 
 
-[Expo 2020 de Dubái: cómo aprovechar el tiempo durante tu 
-visita](https://etheriamagazine.com/2021/12/20/visita-a-expo-2020-dubai/). 
+{{< reflink path=posts/2021/12/visita-a-expo-2020-dubai >}}. 
 
-[Hotel One&Only Royal Mirage, un cinco estrellas perfecto para vivir Dubái con 
-estilo](https://etheriamagazine.com/2022/02/04/hotel-lujo-one-only-royal-mirage-dubai/).
+{{< reflink path=posts/2022/02/hotel-lujo-one-only-royal-mirage-dubai >}}.

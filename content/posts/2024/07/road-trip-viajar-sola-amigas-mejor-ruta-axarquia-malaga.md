@@ -1,7 +1,7 @@
 ---
 title: "Paradas en una ruta en coche por la Axarquía malagueña"
 date: 2024-07-11
-coverImage: https://fotos.etheriamagazine.com/2020/06/viajar-sola-axarquia-competa.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/viajar-sola-axarquia-competa.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -201,11 +201,10 @@ lugareños.
 
 **También en Etheria Magazine** 
 
-[Un día en Frigiliana, uno de los pueblos más bonitos de 
-Málaga](https://etheriamagazine.com/2021/12/15/que-ver-excursion-a-frigiliana/) 
+{{< reflink path=posts/2021/12/que-ver-excursion-a-frigiliana >}} 
 
-[Planes para exprimir un fin de semana en Marbella con 
-amigas](https://etheriamagazine.com/2019/06/11/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana/) 
+{{< reflink 
+path=posts/2019/06/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana 
+>}} 
 
-[8 excursiones en Málaga para hacer con 
-niños](https://etheriamagazine.com/2021/07/12/excursiones-en-malaga-con-ninos/)
+{{< reflink path=posts/2021/07/excursiones-en-malaga-con-ninos >}}

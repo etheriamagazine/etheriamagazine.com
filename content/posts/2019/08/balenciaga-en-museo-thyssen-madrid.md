@@ -1,7 +1,7 @@
 ---
 title: "Balenciaga y la pintura española en el Museo Thyssen de Madrid"
 date: 2019-08-30
-coverImage: https://fotos.etheriamagazine.com/2019/08/Balenciaga-thyssen-madrid-josefa-vargas.jpg
+cover: https://fotos.etheriamagazine.com/2019/08/Balenciaga-thyssen-madrid-josefa-vargas.jpg
 categories: 
   - cultura
 destino: 

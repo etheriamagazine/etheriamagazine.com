@@ -1,7 +1,7 @@
 ---
 title: "Viaje con niños a Terceira: aventura entre las flores"
 date: 2018-06-20
-coverImage: https://fotos.etheriamagazine.com/2018/05/Terceira-Senderismo-BAIAS-DA-AGUALVA-3.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Terceira-Senderismo-BAIAS-DA-AGUALVA-3.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -137,11 +137,9 @@ Más información en [Turismo de Azores](https://www.visitazores.com/es).
 
 ✅**También te puede interesar** 
 
-[Viajar con niños por Europa: consejos y propuestas para acertar en tu primer 
-viaje](https://etheriamagazine.com/2021/02/02/viajar-con-ninos-por-europa-consejos-y-propuestas/) 
+{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
 
-[9 planes en familia en el Centro de 
-Portugal](https://etheriamagazine.com/2019/06/28/planes-divertidos-viajes-familia-portugal/) 
+{{< reflink path=posts/2019/06/planes-divertidos-viajes-familia-portugal >}} 
 
-[8 excursiones en Mallorca para un viaje en 
-familia](https://etheriamagazine.com/2020/06/16/8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos/)
+{{< reflink 
+path=posts/2020/06/8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos >}}

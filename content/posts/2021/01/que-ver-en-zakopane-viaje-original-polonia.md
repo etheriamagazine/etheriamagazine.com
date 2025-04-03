@@ -1,7 +1,7 @@
 ---
 title: "Zakopane, un lugar sorprendente en Polonia con su arquitectura de madera y sus estaciones de esquí"
 date: 2021-01-27
-coverImage: https://fotos.etheriamagazine.com/2021/01/zakopane.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/zakopane.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -239,11 +239,8 @@ Polonia](https://www.polonia.travel/es).
 
 **También te puede interesar:** 
 
-[48 horas en 
-Varsovia.](https://etheriamagazine.com/2018/08/17/48-horas-en-varsovia-polonia/) 
+{{< reflink path=posts/2018/08/48-horas-en-varsovia-polonia >}} 
 
-[Aventura en Polonia: observa los últimos bisontes de Europa en 
-Bialowieza.](https://etheriamagazine.com/2019/01/30/que-ver-parque-bialowieza-polonia/) 
+{{< reflink path=posts/2019/01/que-ver-parque-bialowieza-polonia >}} 
 
-[Sofía Casanova, una poetisa gallega en 
-Polonia.](https://etheriamagazine.com/2018/09/10/la-poetisa-sofia-casanova-una-gallega-en-polonia/)
+{{< reflink path=posts/2018/09/la-poetisa-sofia-casanova-una-gallega-en-polonia >}}

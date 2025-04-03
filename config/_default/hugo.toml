@@ -22,7 +22,7 @@ summaryLength = 20
 
 [permalinks]
   [permalinks.page]
-    posts = "/articulos/:slug"
+    posts = "/articulos/:filename"
     publicidad = "/publicidad/:slug"
 
 

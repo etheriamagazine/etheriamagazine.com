@@ -1,7 +1,7 @@
 ---
 title: "¿Es seguro viajar sola a Seúl? Sania Jelic comparte su experiencia en Corea del Sur"
 date: 2024-12-13
-coverImage: https://fotos.etheriamagazine.com/2024/12/seul-sania-palacio-pabellon-Gyeongbokgung.jpg
+cover: https://fotos.etheriamagazine.com/2024/12/seul-sania-palacio-pabellon-Gyeongbokgung.jpg
 categories: 
   - viajar-sola
   - mujeres-top
@@ -179,5 +179,4 @@ con árboles tras un paseo por la bulliciosa ciudad.
 
 **También te puede interesar:** 
 
-[Viajar sola a Noruega en busca de las auroras boreales: consejos de Sania 
-Jelic](https://etheriamagazine.com/2024/11/01/viajar-sola-noruega-auroras-boreales/)
+{{< reflink path=posts/2024/11/viajar-sola-noruega-auroras-boreales >}}

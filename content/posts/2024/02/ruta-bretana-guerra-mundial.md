@@ -1,7 +1,7 @@
 ---
 title: "De Saint-Malo a Lorient, una ruta bretona para recordar el Día D"
 date: 2024-02-19
-coverImage: https://fotos.etheriamagazine.com/2024/02/Museo-Memoria-39-45.jpg
+cover: https://fotos.etheriamagazine.com/2024/02/Museo-Memoria-39-45.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -129,8 +129,6 @@ un testimonio de la época de la Guerra Fría.
 
 **Continúa tu viaje en Bretaña...** 
 
-[Sentier des Douaniers, el gran sendero de la Bretaña 
-Francesa](https://etheriamagazine.com/2018/08/08/senderismo-en-sentier-des-douaniers-bretana-francesa/). 
+{{< reflink path=posts/2018/08/senderismo-en-sentier-des-douaniers-bretana-francesa >}}. 
 
-[Apuntes para un “bon voyage” a la sorprendente Nantes y sus 
-viñedos](https://etheriamagazine.com/2023/07/31/nantes-y-excursiones-esenciales/).
+{{< reflink path=posts/2023/07/nantes-y-excursiones-esenciales >}}.

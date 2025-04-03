@@ -1,7 +1,7 @@
 ---
 title: "Hoteles originales en Nantes, duerme dentro de una obra de arte"
 date: 2022-10-17
-coverImage: https://fotos.etheriamagazine.com/2022/10/Mercure-Nantes-Centre-Grand-Hotel.jpg
+cover: https://fotos.etheriamagazine.com/2022/10/Mercure-Nantes-Centre-Grand-Hotel.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-Existen ciudades como Nantes en las que ya sabes que hay detalles sorprendentes en todos 
-sus rincones. Este destino francés no sólo logra sacarte un "oooh" en sus monumentos y 
-calles sino que esa sorpresa se traslada también a las propuestas de alojamiento. Si te 
-gustan las experiencias diferentes, no te pierdas estos hoteles originales en Nantes. 
+**Existen ciudades como Nantes en las que ya sabes que hay detalles sorprendentes en 
+todos sus rincones. Este destino francés no sólo logra sacarte un "oooh" en sus 
+monumentos y calles sino que esa sorpresa se traslada también a las propuestas de 
+alojamiento. Si te gustan las experiencias diferentes, no te pierdas estos hoteles 
+originales en Nantes.** 
 
 ![Dream Jungle, la creación de Makiko Furuichi en el hotel Amiral.](https://fotos.etheriamagazine.com/2022/10/makiko-furuichi-dream-jungle.jpg "Dream Jungle, la creación de Makiko Furuichi en el hotel Amiral. © Jean Dominique Billaud/ LVAN")
 
@@ -116,5 +117,4 @@ imaginación.
 
 **También te puede interesar...** 
 
-[Nantes con amigas, descubrid la ciudad extraordinaria que soñó Julio 
-Verne](https://etheriamagazine.com/2019/08/29/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa/).
+{{< reflink path=posts/2019/08/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa >}}.

@@ -1,7 +1,7 @@
 ---
 title: "La conexión rusa del movimiento Dadá, en el Museo Reina Sofía (Madrid)"
 date: 2018-06-11
-coverImage: https://fotos.etheriamagazine.com/2018/06/Dada-ruso-Museo-Reina-Sofia-VARVARA-STEPANOVA.jpg
+cover: https://fotos.etheriamagazine.com/2018/06/Dada-ruso-Museo-Reina-Sofia-VARVARA-STEPANOVA.jpg
 categories: 
   - cultura
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pilar Ortega
 ---
 
-Adoptaron la negación, la ironía, el absurdo y el azar como mandamientos de sus 
+**Adoptaron la negación, la ironía, el absurdo y el azar como mandamientos de sus 
 manifestaciones artísticas, así que produjeron performances extravagantes, hicieron 
 campañas antibélicas, negaron el arte clásico y crearon una innovadora forma de mezclar 
-lo visual y lo verbal. 
+lo visual y lo verbal.** 
 
 ![Exposición Dada Ruso en Museo Reina Sofía de Madrid](https://fotos.etheriamagazine.com/2018/06/Museo-Reina-Sofia-Dada-Ruso-Liubov-Popova.jpg "Escenografía para Agitación en la Tierra, de Serguéi Tretiakov, Teatro Meyerhold. Moscú (1923-1924)")
 

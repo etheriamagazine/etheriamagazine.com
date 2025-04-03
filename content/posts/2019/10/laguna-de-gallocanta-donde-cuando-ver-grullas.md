@@ -1,7 +1,7 @@
 ---
 title: "Laguna de Gallocanta, tienes una nueva cita con las grullas"
 date: 2019-10-29
-coverImage: https://fotos.etheriamagazine.com/2019/10/grullas-en-vuelo.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/grullas-en-vuelo.jpg
 categories: 
   - viajar-en-familia
   - ocio
@@ -162,13 +162,14 @@ la laguna desde la misma habitación. San Pedro 3. Gallocanta (Zaragoza). Tel. 9
 
 #### Dónde comer por la zona
 
-• [Las Grullas](http://hostallasgrullas.com/). Cenas caseras con platos reconfortantes 
+- [Las Grullas](http://hostallasgrullas.com/). Cenas caseras con platos reconfortantes 
 como las migas de pastor o las elaboraciones de caza y asados al horno para acabar una 
-jornada ornitológica. Plaza de España 5. Tornos (Teruel). Tel. 978 734 308. • [Restaurante 
-Carlos Arguiñano](https://www.facebook.com/RestauranteCarlosArguinano). Moderno con 
-ambiente acogedor y buena comida casera con precios asequibles en menú del día y 
-especialidad de elaboraciones a la brasa. Teruel 5. Calamocha (Teruel). Tel. 978 730 
-203. 
+jornada ornitológica. Plaza de España 5. Tornos (Teruel). Tel. 978 734 308. 
+
+- [Restaurante Carlos Arguiñano](https://www.facebook.com/RestauranteCarlosArguinano). 
+Moderno con ambiente acogedor y buena comida casera con precios asequibles en menú del 
+día y especialidad de elaboraciones a la brasa. Teruel 5. Calamocha (Teruel). Tel. 978 
+730 203. 
 
 No dejes de hacer una parada en el **horno de pan de Mariano Sánchez Traid**, donde 
 además te puedes llevar magdalenas y pastas caseras que harán más dulce tu jornada de 
@@ -183,11 +184,9 @@ Aragón](http://rednaturaldearagon.com/centros/centro-de-interpretacion-de-la-la
 
 ### También te puede interesar...
 
-[8 escapadas en la provincia de 
-Zaragoza](https://etheriamagazine.com/2020/06/08/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza/). 
+{{< reflink path=posts/2020/06/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza 
+>}}. 
 
-[Zaragoza bien vale un vermú torero… o 
-tres](https://etheriamagazine.com/2019/02/12/mejores-bares-viaje-zaragoza/). 
+{{< reflink path=posts/2019/02/mejores-bares-viaje-zaragoza >}}. 
 
-[Ruta en coche por Teruel, 10 paradas por carreteras 
-secundarias](https://etheriamagazine.com/2021/10/12/ruta-en-coche-por-teruel/).
+{{< reflink path=posts/2021/10/ruta-en-coche-por-teruel >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Miguel Jara: “Lo económico influye en la salud de las personas y tiene un impacto ecológico”"
 date: 2021-11-17
-coverImage: https://fotos.etheriamagazine.com/2021/11/miguel-jara-escritor.jpg
+cover: https://fotos.etheriamagazine.com/2021/11/miguel-jara-escritor.jpg
 categories: 
   - bienestar
   - cultura
@@ -153,11 +153,8 @@ Kindle) y unos 24 € (edición impresa).
 
 ### También te puede interesar...
 
-[La pandemia se ceba con las personas con problemas de salud 
-mental](https://etheriamagazine.com/2021/10/08/como-afecta-la-pandemia-a-la-salud-mental/). 
+{{< reflink path=posts/2021/10/como-afecta-la-pandemia-a-la-salud-mental >}}. 
 
-[MeToo Yogui, cuando el yoga se utiliza para cometer 
-abusos](https://etheriamagazine.com/2021/06/18/metoo-yogui-denuncias-del-abuso-en-yoga/). 
+{{< reflink path=posts/2021/06/metoo-yogui-denuncias-del-abuso-en-yoga >}}. 
 
-[Menstruar, una cuestión de derechos 
-humanos](https://etheriamagazine.com/2021/05/13/menstruacion-tabu-estigma-para-ninas-mundo/).
+{{< reflink path=posts/2021/05/menstruacion-tabu-estigma-para-ninas-mundo >}}.

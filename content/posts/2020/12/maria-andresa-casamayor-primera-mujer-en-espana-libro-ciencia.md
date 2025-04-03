@@ -1,7 +1,7 @@
 ---
 title: "María Andresa Casamayor, la aragonesa que soñaba con números"
 date: 2020-12-21
-coverImage: https://fotos.etheriamagazine.com/2020/12/Fotograma-documental-maria-andresa-casamajor.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/Fotograma-documental-maria-andresa-casamajor.jpg
 categories: 
   - historias
   - mujeres-top
@@ -190,9 +190,9 @@ poeta Lord Byron.
 
 **También te puede interesar:** 
 
-[Ada Coleman y María Dolors Boadas, referentes del 'poderío femenino' y la igualdad en 
-la 
-mixología.](https://etheriamagazine.com/2020/05/12/mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas/) 
+{{< reflink 
+path=posts/2020/05/mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas >}} 
 
-[Hedy Lamarr, inventora de la tecnología 
-wifi.](https://etheriamagazine.com/2020/03/30/hedy-lamarr-extasis-inventora-wifi-modelo-actriz-espia-mujeres-etheria/)
+{{< reflink 
+path=posts/2020/03/hedy-lamarr-extasis-inventora-wifi-modelo-actriz-espia-mujeres-etheria 
+>}}

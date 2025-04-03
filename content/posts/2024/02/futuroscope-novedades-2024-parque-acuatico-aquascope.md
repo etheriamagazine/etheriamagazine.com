@@ -1,7 +1,7 @@
 ---
 title: "Futuroscope en 2024: un parque acuático y otras novedades"
 date: 2024-02-26
-coverImage: https://fotos.etheriamagazine.com/2024/02/Futuroscope-Aquascope-toboganes.jpg
+cover: https://fotos.etheriamagazine.com/2024/02/Futuroscope-Aquascope-toboganes.jpg
 categories: 
   - ocio
 destino: 
@@ -79,14 +79,17 @@ verano** con un río, una piscina y una playa.
 
 Las tres zonas en las que se va a dividir este parque acuático son: 
 
-• **Sensaciones**, con ocho toboganes que ofrecerán diferentes experiencias, desde uno 
+- **Sensaciones**, con ocho toboganes que ofrecerán diferentes experiencias, desde uno 
 doble para hacer carreras hasta otro con flotadores gigantes para 4 o 5 personas o el 
-Rocket, un tobogán trampa con salida vertical. • **Inmersión**. Una zona que crea un 
-universo futurista de videomapping sobre el agua y efectos especiales gracias a la 
-escenografía digital. Contará con un cine acuático y una experiencia de inmersión 
-submarina. • **Aqualúdica**. Esta será la zona infantil (a partir de 3 años) y su 
-temática girará en torno a la mascota del parque, el pulpo Kraki. Desde aquí parte un 
-río sobre el que flotar y relajarse que recorrerá las tres zonas del parque. 
+Rocket, un tobogán trampa con salida vertical. 
+
+- **Inmersión**. Una zona que crea un universo futurista de videomapping sobre el agua y 
+efectos especiales gracias a la escenografía digital. Contará con un cine acuático y una 
+experiencia de inmersión submarina. 
+
+- **Aqualúdica**. Esta será la zona infantil (a partir de 3 años) y su temática girará 
+en torno a la mascota del parque, el pulpo Kraki. Desde aquí parte un río sobre el que 
+flotar y relajarse que recorrerá las tres zonas del parque. 
 
 ![render de la zona Inmersion de Futuroscope](https://fotos.etheriamagazine.com/2024/02/Futuroscope-Aquascope-immersion.jpg "Así será la zona Inmersión del parque Aquascope.")
 
@@ -132,8 +135,8 @@ divertido sistema de raíles y loopings.
 
 **También te puede interesar:** 
 
-[10 consejos para aprovechar una visita a 
-Futuroscope](https://etheriamagazine.com/2018/08/24/10-consejos-futuroscope/) 
+{{< reflink path=posts/2018/08/10-consejos-futuroscope >}} 
 
-[Objetivo Marte y otras 5 atracciones imprescindibles en 
-Futuroscope](https://etheriamagazine.com/2020/02/20/viajes-familias-objetivo-marte-y-otras-5-atracciones-imprescindibles-en-futuroscope/)
+{{< reflink 
+path=posts/2020/02/viajes-familias-objetivo-marte-y-otras-5-atracciones-imprescindibles-en-futuroscope 
+>}}

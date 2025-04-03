@@ -1,7 +1,7 @@
 ---
 title: "San Lorenzo de El Escorial, razones escabrosas y sorprendentes por las que visitar su monasterio"
 date: 2021-04-06
-coverImage: https://fotos.etheriamagazine.com/2021/03/que-ver-el-escorial.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/que-ver-el-escorial.jpg
 categories: 
   - ocio
 destino: 
@@ -186,7 +186,8 @@ sustituidos aquí por estancias más pequeñas, más fáciles de caldear.
 La visita al monasterio de San Lorenzo de El Escorial cuesta hasta el 9 de mayo de 2021 
 sólo 6 euros (la mitad de lo que vale normalmente). Existen tarifas reducidas (50% 
 descuento) para niños de 5 a 16 años, estudiantes y mayores de 65. Consulta tarifas 
-actualizadas en esta [web](https://entradas.patrimonionacional.es/es-ES/informacion-recinto/1/san-lorenzo-del-escorial#comprar). 
+actualizadas en esta 
+[web](https://entradas.patrimonionacional.es/es-ES/informacion-recinto/1/san-lorenzo-del-escorial#comprar). 
 
 ##### ¿Dónde comer bien en El Escorial?
 
@@ -230,10 +231,9 @@ II](https://www.civitatis.com/es/el-escorial/senderismo-silla-felipe-ii/?aid=102
 [11 destinos a los que se puede llegar desde Madrid en un tiempo máximo de dos 
 horas.](https://etheriamagazine.com/tag/escapadas-cercanas-desde-madrid/) 
 
-[15 escapadas a menos de 99 km de 
-Madrid](https://etheriamagazine.com/2020/05/20/15-escapadas-a-menos-de-99-km-de-madrid/). 
+{{< reflink path=posts/2020/05/15-escapadas-a-menos-de-99-km-de-madrid >}}. 
 
-[Sierra del Rincón, una bonita escapada a los pueblos y hayedos de 
-Madrid](https://etheriamagazine.com/2020/09/15/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid/) 
+{{< reflink path=posts/2020/09/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid 
+>}} 
 
 ![jardines chinescos, excursion aranjuez](https://fotos.etheriamagazine.com/2020/05/excursion-aranjuez.jpg "Otras visitas en Madrid: Jardines Chinescos de Aranjuez. © Miguel Ángel Sanz")

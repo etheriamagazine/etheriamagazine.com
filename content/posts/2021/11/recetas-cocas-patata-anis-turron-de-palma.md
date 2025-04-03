@@ -1,7 +1,7 @@
 ---
 title: "Tres dulces navideños de Palma, recetas y consejos para hacerlos en casa"
 date: 2021-11-19
-coverImage: https://fotos.etheriamagazine.com/2021/11/Coca-Bamba-palma-mallorca.jpg
+cover: https://fotos.etheriamagazine.com/2021/11/Coca-Bamba-palma-mallorca.jpg
 categories: 
   - gourmet
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-No es necesario que seas un genio en la cocina para poder preparar estas tres recetas de 
-dulces navideños de Palma. ¿Te atreves a elaborar siguiendo instrucciones y medidas una 
-coca de patata, una coca de anís y otra de turrón? Te contamos los secretos que nos ha 
-desvelado Lluís Pérez, un experto pastelero de Mallorca, pero no se lo cuentes a 
-nadie... 
+**No es necesario que seas un genio en la cocina para poder preparar estas tres recetas 
+de dulces navideños de Palma. ¿Te atreves a elaborar siguiendo instrucciones y medidas 
+una coca de patata, una coca de anís y otra de turrón? Te contamos los secretos que nos 
+ha desvelado Lluís Pérez, un experto pastelero de Mallorca, pero no se lo cuentes a 
+nadie...** 
 
 ![cocas de turron, patata y anis](https://fotos.etheriamagazine.com/2021/11/coca-palma-mallorca.jpg "Chocolate con pequeñas cocas de patata, anís y turrón. © Etheria Mag.")
 
@@ -123,19 +123,17 @@ extendiéndola sin llegar a los bordes. Ahora sólo queda mojar levemente con ag
 bordes para sellarlas. 
 
 En Palma también encontrarás otros bocados dulces, así que aprovecha tu visita para 
-conocer todas sus delicatesen visitando sus hornos históricos y pastelerías como la de [Lluís 
-Pérez Pastisser](https://lluisperezpastisser.com/) donde se reinterpreta la tradición. 
+conocer todas sus delicatesen visitando sus hornos históricos y pastelerías como la de 
+[Lluís Pérez Pastisser](https://lluisperezpastisser.com/) donde se reinterpreta la 
+tradición. 
 
 Y ahora que tienes las recetas, ¿por cuál de estos dulces navideños de Palma vas a 
 empezar? 
 
 **También te puede interesar...** 
 
-[Palma con amigas: 8 planazos para exprimir la capital de 
-Mallorca](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palma-mallorca-con-amigas/) 
+{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}} 
 
-[De compras, mercados y algo más en Palma de 
-Mallorca](https://etheriamagazine.com/2019/08/01/24-horas-palma-mallorca-arte-compras-mercados/) 
+{{< reflink path=posts/2019/08/24-horas-palma-mallorca-arte-compras-mercados >}} 
 
-[Cuevas de Mallorca, cinco fantasías 
-subterráneas](https://etheriamagazine.com/2021/08/26/cuevas-de-mallorca-con-ninos/)
+{{< reflink path=posts/2021/08/cuevas-de-mallorca-con-ninos >}}

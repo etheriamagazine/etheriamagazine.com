@@ -1,7 +1,7 @@
 ---
 title: "Cómo organizar un día en Castellón para no perderte sus tesoros"
 date: 2023-10-02
-coverImage: https://fotos.etheriamagazine.com/2023/10/farola-modernista-castellon.jpg
+cover: https://fotos.etheriamagazine.com/2023/10/farola-modernista-castellon.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-Por muchas ciudades pasamos de puntillas, reduciéndolas a una parada en ruta o, 
+**Por muchas ciudades pasamos de puntillas, reduciéndolas a una parada en ruta o, 
 simplemente, dejándolas de lado para disfrutar de sus playas sin recorrer sus centros 
 históricos. Eso nos ha ocurrido en varias ocasiones con el destino que nos ocupa, por 
 este motivo, hemos seleccionado los lugares que podrías ver en un día en Castellón de la 
-Plana para que la recorras como merece. 
+Plana para que la recorras como merece.** 
 
 ![Farola modernista de Castellón de la Plana.](https://fotos.etheriamagazine.com/2023/10/farola-modernista-castellon.jpg "Farola modernista de Castellón de la Plana.")
 
@@ -102,15 +102,16 @@ bar del mercado puedes tomar el aperitivo.
 
 ## 14:00 Comida en Le Bistró
 
-No es fácil decantarse por un solo restaurante donde comer en Castelló de la Plana pero [Le 
-Bistró Gastronómico](https://lebistrotcs.com/) (Carrer de Temprado, 12) te pilla cerca 
-del Mercado Central. Es un local de ambiente desenfadado y recetas originales donde se 
-come bien y por un precio aceptable. Su sello Bib Gourmand también es una garantía. 
-Puedes reservar online en su web. Como está cerrado algunos días, en la misma calle hay 
-otros que también son estupendos como [Temprado](https://www.lacartadetemprado19.com/) 
-(con un estupendo menú de mediodía en Temprado, 19). Y si quieres comer el rico 
-"A**rrocito de Castelló**", en El Grao (el paseo marítimo) encontrarás restaurantes como 
-**Mediterráneo** (Paseo Buenavista, 46) que no decepcionan. 
+No es fácil decantarse por un solo restaurante donde comer en Castelló de la Plana pero 
+[Le Bistró Gastronómico](https://lebistrotcs.com/) (Carrer de Temprado, 12) te pilla 
+cerca del Mercado Central. Es un local de ambiente desenfadado y recetas originales 
+donde se come bien y por un precio aceptable. Su sello Bib Gourmand también es una 
+garantía. Puedes reservar online en su web. Como está cerrado algunos días, en la misma 
+calle hay otros que también son estupendos como 
+[Temprado](https://www.lacartadetemprado19.com/) (con un estupendo menú de mediodía en 
+Temprado, 19). Y si quieres comer el rico "A**rrocito de Castelló**", en El Grao (el 
+paseo marítimo) encontrarás restaurantes como **Mediterráneo** (Paseo Buenavista, 46) 
+que no decepcionan. 
 
 ## 16.00 Refugio antiaéreo
 
@@ -162,5 +163,5 @@ Fotos: Cedidas por Turismo de Castelló.
 Si te quedas un día más en Castellón de la Plana, toma nota de esta actividad tan 
 original como divertida, a pesar del madrugón. 
 
-📍[Pescaturismo en Castellón, un plan original para hacer con amigas o en 
-familia](https://etheriamagazine.com/2021/01/12/pescaturismo-en-castellon-plan-original-familias-amigos/)
+📍{{< reflink path=posts/2021/01/pescaturismo-en-castellon-plan-original-familias-amigos 
+>}}

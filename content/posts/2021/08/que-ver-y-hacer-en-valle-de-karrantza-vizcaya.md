@@ -1,7 +1,7 @@
 ---
 title: "Valle de Karrantza, 10 experiencias rurales y genuinas en Vizcaya"
 date: 2021-08-18
-coverImage: https://fotos.etheriamagazine.com/2021/08/cueva-pozalagua-valle-karrantza.jpg
+cover: https://fotos.etheriamagazine.com/2021/08/cueva-pozalagua-valle-karrantza.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Discreto y rural, el vizcaíno valle de Karrantza, en el extremo más occidental de la 
+**Discreto y rural, el vizcaíno valle de Karrantza, en el extremo más occidental de la 
 comarca de Las Encartaciones, fronterizo con tierras cántabras y burgalesas, es un 
 destino con el verde subido. Prados y bosques crean un pintoresco paisaje de campiña a 
 sus barrios. Sigue las 10 pistas que te damos para una desconexión rural y descubre la 
-sorpresa final que te espera en el pueblo de Trucios-Turziotz. 
+sorpresa final que te espera en el pueblo de Trucios-Turziotz.** 
 
 ![trucios valle de karrantza](https://fotos.etheriamagazine.com/2021/08/concha-centro-valle-karrantza.jpg "Trucios, en el valle de Karrantza.")
 
@@ -178,11 +178,9 @@ comarca.
 
 **Más rutas en el País Vasco...** 
 
-[Paisajes del agua en los 10 mejores cañones del País 
-Vasco](https://etheriamagazine.com/2019/04/09/viajes-naturaleza-mejores-canones-pais-vasco/). 
+{{< reflink path=posts/2019/04/viajes-naturaleza-mejores-canones-pais-vasco >}}. 
 
-[La Sierra de Entzia, des(conexión) en siete pasos en 
-Álava](https://etheriamagazine.com/2021/05/12/excursiones-sierra-de-entzia-alava/). 
+{{< reflink path=posts/2021/05/excursiones-sierra-de-entzia-alava >}}. 
 
-[12 planes en Getxo con amigas para disfrutar al estilo 
-vasco](https://etheriamagazine.com/2021/06/14/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco/).
+{{< reflink 
+path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.

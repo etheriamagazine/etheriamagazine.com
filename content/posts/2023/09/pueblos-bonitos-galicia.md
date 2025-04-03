@@ -1,7 +1,7 @@
 ---
 title: "10 pueblos bonitos de Galicia que no puedes perderte"
 date: 2023-09-22
-coverImage: https://fotos.etheriamagazine.com/2023/09/pueblos-galicia-puente-romano-allariz.jpg
+cover: https://fotos.etheriamagazine.com/2023/09/pueblos-galicia-puente-romano-allariz.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-En Galicia se podría hacer una lista infinita de lugares que visitar, desde sus ciudades 
-históricas hasta sus frondosos bosques o preciosas playas. En este caso nos fijamos en 
-diez bonitos pueblos de Galicia de esos que te llenan un viaje, tanto por sus preciosos 
-cascos antiguos como por los parajes que los rodean. Diez lugares de paz donde 
-desconectar del mundo y centrarse en lo importante. 
+**En Galicia se podría hacer una lista infinita de lugares que visitar, desde sus 
+ciudades históricas hasta sus frondosos bosques o preciosas playas. En este caso nos 
+fijamos en diez bonitos pueblos de Galicia de esos que te llenan un viaje, tanto por sus 
+preciosos cascos antiguos como por los parajes que los rodean. Diez lugares de paz donde 
+desconectar del mundo y centrarse en lo importante.** 
 
 ![horreo de Combarro en Galicia](https://fotos.etheriamagazine.com/2023/09/pueblos-galicia-combarro.jpg "Combarro está situado en la ría de Pontevedra.")
 
@@ -166,14 +166,10 @@ Catedrales**.
 
 📌 **Para seguir leyendo...** 
 
-[Descubre la belleza de la provincia de Lugo en 15 
-paradas](https://etheriamagazine.com/2023/04/06/pueblos-que-ver-lugo/) 
+{{< reflink path=posts/2023/04/pueblos-que-ver-lugo >}} 
 
-[Guía esencial de Pontevedra: ciudades, islas, castros y rutas 
-mágicas](https://etheriamagazine.com/2022/12/14/que-ver-pontevedra/) 
+{{< reflink path=posts/2022/12/que-ver-pontevedra >}} 
 
-[8 planes con niños en la costa de 
-Pontevedra](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/) 
+{{< reflink path=posts/2019/10/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja >}} 
 
-[15 lugares imprescindibles en A Coruña que miran al 
-mar](https://etheriamagazine.com/2022/09/23/que-ver-a-coruna/)
+{{< reflink path=posts/2022/09/que-ver-a-coruna >}}

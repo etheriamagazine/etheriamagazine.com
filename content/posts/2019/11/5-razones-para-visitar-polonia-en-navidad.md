@@ -1,7 +1,7 @@
 ---
 title: "5 razones para visitar Polonia en Navidad"
 date: 2019-11-05
-coverImage: https://fotos.etheriamagazine.com/2019/10/polonia-que-ver-navidad.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/polonia-que-ver-navidad.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-El período navideño en Polonia es una de las épocas más entrañables del año. Durante 
+**El período navideño en Polonia es una de las épocas más entrañables del año. Durante 
 casi un mes, sus ciudades se muestran envueltas en un paréntesis de fantasía, aroma a 
 dulce, vino caliente y villancicos. Si aún estás pensando qué país europeo te interesa 
-más para conocer su Navidad, te damos cinco razones por las que Polonia es buena idea. 
+más para conocer su Navidad, te damos cinco razones por las que Polonia es buena idea.** 
 
 ![navidad varsovia, fuente varsovia, navidad polonia](https://fotos.etheriamagazine.com/2019/10/polonia-luces-fuente-navidad-varsovia.jpg "Iluminación navideña de Varsovia.")
 
@@ -115,14 +115,11 @@ Polonia?
 
 ### También te puede interesar...
 
-[Mercadillos de Varsovia y 
-Cracovia](https://etheriamagazine.com/2019/10/30/mercadillos-navidad-varsovia-cracovia-polonia/). 
+{{< reflink path=posts/2019/10/mercadillos-navidad-varsovia-cracovia-polonia >}}. 
 
-[Tres rutas para recorrer Varsovia, una ciudad 
-sorprendente](https://etheriamagazine.com/2021/03/05/que-ver-en-varsovia-en-tres-rutas-originales/). 
+{{< reflink path=posts/2021/03/que-ver-en-varsovia-en-tres-rutas-originales >}}. 
 
-[Descubre Zakopane, su arquitectura de madera, sabores y estaciones de 
-esquí](https://etheriamagazine.com/2021/01/27/que-ver-en-zakopane-viaje-original-polonia/). 
+{{< reflink path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}}. 
 
-[Sopot, la escapada al Báltico polaco entre balnearios de lujo y glamour que 
-mereces](https://etheriamagazine.com/2020/12/25/descubre-por-que-viajar-a-sopot-glamour-y-balnearios-en-polonia/).
+{{< reflink 
+path=posts/2020/12/descubre-por-que-viajar-a-sopot-glamour-y-balnearios-en-polonia >}}.

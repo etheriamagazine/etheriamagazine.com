@@ -1,7 +1,7 @@
 ---
 title: "10 excursiones en Menorca para unas vacaciones perfectas"
 date: 2023-10-13
-coverImage: https://fotos.etheriamagazine.com/2023/10/menorca-barcos-calas-macarella-macarelleta.jpg
+cover: https://fotos.etheriamagazine.com/2023/10/menorca-barcos-calas-macarella-macarelleta.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -12,10 +12,11 @@ authors:
   - Susana García
 ---
 
-Menorca ofrece todo lo que puedes desear para unas vacaciones: un mar transparente que 
+**Menorca ofrece todo lo que puedes desear para unas vacaciones: un mar transparente que 
 parece de mentira, ciudades históricas, restos arqueológicos y una gastronomía 
 tradicional muy apetitosa. Te proponemos diez excursiones por Menorca para que no te 
-pierdas nada de lo fundamental de esta isla donde el slow travel cobra todo su sentido. 
+pierdas nada de lo fundamental de esta isla donde el slow travel cobra todo su 
+sentido.** 
 
 ![Barcos frente a las calas de Mararella y Macarelleta desde el Camí de Cavalls.](https://fotos.etheriamagazine.com/2023/10/menorca-barcos-calas-macarella-macarelleta.jpg "Barcos frente a las calas de Mararella y Macarelleta desde el Camí de Cavalls. © SG")
 
@@ -92,12 +93,12 @@ Xauxa (galdanaboats.com), una embarcación preciosa que ha sido restaurada con t
 detalles y que ofrece distintos tipos de excursiones en su página web. ✅ A través de 
 Civitatis también puedes alquilar algunas embarcaciones: [Paseo en barco por las calas 
 del sur desde Cala 
-Galdana.](https://www.civitatis.com/es/cala-galdana/paseo-barco-cala-galdana/?aid=10211) [Alquiler 
-de barcas sin licencia en Cala en 
+Galdana.](https://www.civitatis.com/es/cala-galdana/paseo-barco-cala-galdana/?aid=10211) 
+[Alquiler de barcas sin licencia en Cala en 
 Porter.](https://www.civitatis.com/es/cala-en-porter/alquiler-lanchas-sin-licencia/?aid=10211) 
 [Menorca en velero, tour de día 
-completo.](https://www.civitatis.com/es/fornells/excursion-velero-menorca/?aid=10211) [Alquiler 
-de barco sin licencia en 
+completo.](https://www.civitatis.com/es/fornells/excursion-velero-menorca/?aid=10211) 
+[Alquiler de barco sin licencia en 
 Fornells.](https://www.civitatis.com/es/fornells/alquiler-barcos-sin-licencia/?aid=10211) 
 
 ## Deportes acuáticos
@@ -125,8 +126,9 @@ Porter.](https://www.civitatis.com/es/cala-en-porter/tour-kayak-cuevas-cala-port
 [Snorkel en Macarella y Cala 
 Trebalúger.](https://www.civitatis.com/es/cala-galdana/snorkel-macarella-cala-trebaluger/?aid=10211) 
 [Curso de windsurf en 
-Fornells.](https://www.civitatis.com/es/fornells/curso-windsurf-fornells/?aid=10211) [Paddle 
-surf en Fornells.](https://www.civitatis.com/es/fornells/stand-up-paddle/?aid=10211) 
+Fornells.](https://www.civitatis.com/es/fornells/curso-windsurf-fornells/?aid=10211) 
+[Paddle surf en 
+Fornells.](https://www.civitatis.com/es/fornells/stand-up-paddle/?aid=10211) 
 
 ## Pasear por Ciutadella
 
@@ -222,11 +224,8 @@ de Mahón y Ciutadella o en los mercados populares como el famoso de Es Mercadal
 
 **También te puede interesar:** 
 
-[Playas de Menorca, la guía más completa que 
-encontrarás](https://etheriamagazine.com/2020/08/14/guia-mejores-playas-calas-menorca/) 
+{{< reflink path=posts/2020/08/guia-mejores-playas-calas-menorca >}} 
 
-[Descubre la sorprendente y variada arquitectura de 
-Menorca](https://etheriamagazine.com/2020/12/08/visitas-originales-de-arquitectura-en-menorca/) 
+{{< reflink path=posts/2020/12/visitas-originales-de-arquitectura-en-menorca >}} 
 
-[15 tips para disfrutar de Menorca fuera de 
-temporada](https://etheriamagazine.com/2018/11/05/15-tips-para-disfrutar-de-menorca-fuera-de-temporada/)
+{{< reflink path=posts/2018/11/15-tips-para-disfrutar-de-menorca-fuera-de-temporada >}}

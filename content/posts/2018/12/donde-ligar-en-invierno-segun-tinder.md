@@ -1,7 +1,7 @@
 ---
 title: "¿Sabes dónde deberías viajar si quieres ligar en invierno? Tinder, sí!"
 date: 2018-12-01
-coverImage: https://fotos.etheriamagazine.com/2018/11/ligar-estaciones-esqui.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/ligar-estaciones-esqui.jpg
 destino: 
   - España
 authors: 

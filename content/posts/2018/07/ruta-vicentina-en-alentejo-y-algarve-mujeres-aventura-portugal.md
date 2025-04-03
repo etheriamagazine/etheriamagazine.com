@@ -1,7 +1,7 @@
 ---
 title: "Ruta Vicentina, senderismo en Alentejo y Algarve"
 date: 2018-07-25
-coverImage: https://fotos.etheriamagazine.com/2018/07/Cabo-Sardao-viajes-aventura-mujeres-1.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/Cabo-Sardao-viajes-aventura-mujeres-1.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -133,12 +133,12 @@ gastronomía y alojamiento en la misma heredad.
 
 ##### Más información:
 
-[www.visitportugal.com](http://www.visitportugal.com) [www.rotavicentina.com](http://www.rotavicentina.com) 
+[www.visitportugal.com](http://www.visitportugal.com) 
+[www.rotavicentina.com](http://www.rotavicentina.com) 
 
 ### También te puede interesar
 
-[18 experiencias en el Algarve para mujeres 
-viajeras](https://etheriamagazine.com/2020/08/07/18-experiencias-si-viajas-sola-al-algarve/) 
+{{< reflink path=posts/2020/08/18-experiencias-si-viajas-sola-al-algarve >}} 
 
-[Playas del Algarve, descubre sus tesoros menos 
-masificados](https://etheriamagazine.com/2020/06/19/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve/)
+{{< reflink path=posts/2020/06/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve 
+>}}

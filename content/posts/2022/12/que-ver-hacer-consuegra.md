@@ -1,7 +1,7 @@
 ---
 title: "Consuegra, un pueblo con doce molinos y un castillo"
 date: 2022-12-20
-coverImage: https://fotos.etheriamagazine.com/2022/12/Molino-castillo-consuegra.jpg
+cover: https://fotos.etheriamagazine.com/2022/12/Molino-castillo-consuegra.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Las escapadas cercanas donde las visitas se combinan con paseos por la naturaleza, 
+**Las escapadas cercanas donde las visitas se combinan con paseos por la naturaleza, 
 buenos restaurantes y tiendas donde adquirir un bonito recuerdo siempre triunfan. Uno de 
 esos lugares que no defrauda es Consuegra, un pueblo de Toledo que resulta perfecto para 
-una excursión de ida y vuelta. 
+una excursión de ida y vuelta.** 
 
 ![Atardecer desde el cerro de los molinos de Consuegra.](https://fotos.etheriamagazine.com/2022/12/Molino-castillo-consuegra.jpg "Atardecer desde el cerro de los molinos de Consuegra.")
 
@@ -122,8 +122,6 @@ belleza, te llevarás a casa el recuerdo de un arte que sobrevive a los tiempos.
 
 **También en la provincia de Toledo...** 
 
-[15 razones para visitar Puy du Fou 
-Toledo.](https://etheriamagazine.com/2022/04/06/15-razones-para-visitar-puy-du-fou-toledo-en-2022/) 
+{{< reflink path=posts/2022/04/15-razones-para-visitar-puy-du-fou-toledo-en-2022 >}} 
 
-[Cómo exprimir Toledo en un fin de 
-semana](https://etheriamagazine.com/2022/02/28/que-ver-en-toledo/).
+{{< reflink path=posts/2022/02/que-ver-en-toledo >}}.

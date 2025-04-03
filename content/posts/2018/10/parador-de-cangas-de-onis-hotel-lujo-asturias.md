@@ -1,7 +1,7 @@
 ---
 title: "Parador de Cangas de Onís, un hotel digno de reyes"
 date: 2018-10-14
-coverImage: https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-portada.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-portada.jpg
 categories: 
   - viajar-en-pareja
   - hoteles
@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Este 2023 se cumplen 95 años desde que el rey Alfonso XIII inaugurara el primer parador 
-de la red, el de Gredos. En este tiempo la cartera de hoteles se ha multiplicado y ya 
-casi llegan a un centenar. Entre ellos, uno que destaca por su historia, entorno natural 
-e impecable servicio es el Parador de Cangas de Onís. 
+**Este 2023 se cumplen 95 años desde que el rey Alfonso XIII inaugurara el primer 
+parador de la red, el de Gredos. En este tiempo la cartera de hoteles se ha multiplicado 
+y ya casi llegan a un centenar. Entre ellos, uno que destaca por su historia, entorno 
+natural e impecable servicio es el Parador de Cangas de Onís.** 
 
 ![Planta baja del claustro del Parador de Cangas de Onís.](https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-claustro.jpg "Planta baja del claustro del Parador de Cangas de Onís.")
 
@@ -87,8 +87,8 @@ celebra la Fiesta del Asturcón donde intentan domarlos en la Majada de Espinere
 visitas **Cabrales** para probar el famoso queso e ir a su museo, o bien optas por 
 conocer la **Cueva de Tito Bustillo**? 
 
-📍**No te pierdas:** [Asturias con amigas, visitas imprescindibles en una ruta en 
-coche](https://etheriamagazine.com/2022/01/17/asturias-en-coche-guia-imprescindible/). 
+📍**No te pierdas:** {{< reflink 
+path=posts/2022/01/asturias-en-coche-guia-imprescindible >}}. 
 
 Y para terminar un intenso día de actividades, no existe un plan mejor que relajarte en 
 su **espacio wellness**, ubicado junto al manantial y al pozo de los monjes, o recibir 

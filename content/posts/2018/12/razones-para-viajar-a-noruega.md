@@ -1,7 +1,7 @@
 ---
 title: "11 razones por las que deberías viajar a Noruega"
 date: 2018-12-13
-coverImage: https://fotos.etheriamagazine.com/2018/11/haholmen-Noruega-Etheria-12.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/haholmen-Noruega-Etheria-12.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Yvonne Solé
 ---
 
-Noruega es uno de los destinos imprescindibles del norte de Europa. También está entre 
+**Noruega es uno de los destinos imprescindibles del norte de Europa. También está entre 
 los viajes que siempre tenemos en mente... si no te decides, sigue leyendo este artículo 
 porque lo tendrás mucho más claro. Te contamos qué ver en Noruega y por qué deberías 
-viajar hasta allí (más pronto que tarde). 
+viajar hasta allí (más pronto que tarde).** 
 
 **Fotografías: Félix Lorenzo** 
 
@@ -190,11 +190,8 @@ www.nasjonaleturistveger.no/en/routes
 
 ### También te puede interesar
 
-[Prepara tu viaje a… 
-Noruega](https://etheriamagazine.com/2020/08/18/prepara-tu-viaje-libros-series-de-noruega/). 
+{{< reflink path=posts/2020/08/prepara-tu-viaje-libros-series-de-noruega >}}. 
 
-[9 motivos para viajar a 
-Noruega](https://etheriamagazine.com/2020/07/15/9-motivos-para-viajar-a-noruega/). 
+{{< reflink path=posts/2020/07/9-motivos-para-viajar-a-noruega >}}. 
 
-[Recorre las 3 capitales de Noruega: Trondheim, Bergen y 
-Oslo](https://etheriamagazine.com/2020/01/24/que-ver-en-noruega-trondheim-bergen-y-oslo/).
+{{< reflink path=posts/2020/01/que-ver-en-noruega-trondheim-bergen-y-oslo >}}.

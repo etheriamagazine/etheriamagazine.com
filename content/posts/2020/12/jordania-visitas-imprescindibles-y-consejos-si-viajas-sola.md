@@ -1,7 +1,7 @@
 ---
 title: "Jordania, visitas y consejos imprescindibles para tu primer viaje"
 date: 2020-12-18
-coverImage: https://fotos.etheriamagazine.com/2020/12/viajar-sola-jordania-tesoro-de-petra.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/viajar-sola-jordania-tesoro-de-petra.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -20,11 +20,11 @@ viaja sola, también tendrás algún consejo extra.
 Un viaje a Jordania es uno de esos deseos acariciados por una gran mayoría de viajeros 
 durante toda su vida. Es también un anhelo que se gesta poco a poco. La primera semilla 
 la siembra el cine y la literatura, ya que la lista de filmes y de libros con escenarios 
-jordanos son casi infinitos (aquí puedes ver una [lista de 10 películas rodadas en 
-Jordania](https://etheriamagazine.com/2019/08/06/viajes-cine-peliculas-rodadas-en-jordania/)). 
-En segundo lugar es la curiosidad por conocer Petra, una de las _7 Maravillas del mundo 
-moderno_. Y, por último, hay que añadir el deseo de aventura y de acercarse a una 
-cultura diferente a la nuestra. 
+jordanos son casi infinitos (aquí puedes ver una {{< reflink 
+path=posts/2019/08/viajes-cine-peliculas-rodadas-en-jordania >}}). En segundo lugar es 
+la curiosidad por conocer Petra, una de las _7 Maravillas del mundo moderno_. Y, por 
+último, hay que añadir el deseo de aventura y de acercarse a una cultura diferente a la 
+nuestra. 
 
 Los viajes a Jordania se suelen plantear como un circuito de una semana en el que se 
 visiten los mayores atractivos del país. En agencias encontrarás muchas opciones que, a 
@@ -251,4 +251,4 @@ recomendación no dudes en escribirnos a info@etheriamagazine.com.
 
 #### También te puede interesar...
 
-##### • [Qué llevar en la maleta en un viaje a Jordania](https://etheriamagazine.com/2020/01/23/que-llevar-en-la-maleta-en-un-viaje-a-jordania/).
+##### • {{< reflink path=posts/2020/01/que-llevar-en-la-maleta-en-un-viaje-a-jordania >}}.

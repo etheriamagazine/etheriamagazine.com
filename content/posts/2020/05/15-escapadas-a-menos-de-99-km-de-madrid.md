@@ -1,7 +1,7 @@
 ---
 title: "15 excursiones a menos de 99 km de Madrid que te alegrarán cualquier finde"
 date: 2020-05-20
-coverImage: https://fotos.etheriamagazine.com/2020/05/excursion-aranjuez.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/excursion-aranjuez.jpg
 categories: 
   - viajar-sola
   - inspiración
@@ -175,15 +175,15 @@ más viejo de Madrid, o **Las Presillas**, ideales para refrescarse en verano.
 La ciudad de **Segovia** se encuentra a 96 km de Madrid, a 30 minutos en tren. Alberga 
 el **acueducto romano** más famoso del mundo. Su esbelta figura se compone por grandes 
 sillares de piedra que no precisan de material que los una. En el imaginario colectivo, 
-la silueta del [Alcázar](https://etheriamagazine.com/2020/03/11/que-ver-interior-precio-entradas-del-alcazar-de-segovia/) 
-de Segovia recuerda al castillo de la Cenicienta de **Walt Disney** y es uno de los 
+la silueta del {{< reflink 
+path=posts/2020/03/que-ver-interior-precio-entradas-del-alcazar-de-segovia >}} de 
+Segovia recuerda al castillo de la Cenicienta de **Walt Disney** y es uno de los 
 monumentos más visitados de España. No te vayas de la ciudad sin probar el cochinillo de 
 Cándido o el de José María. 
 
-No te pierdas: [Los tres tenores del cochinillo en Segovia, una historia de amor 
-correspondido](https://etheriamagazine.com/2020/12/01/mejores-restaurantes-para-comer-cochinillo-en-segovia/) 
+No te pierdas: {{< reflink 
+path=posts/2020/12/mejores-restaurantes-para-comer-cochinillo-en-segovia >}} 
 
 **Sigue leyendo otras escapadas cercanas a Madrid...** 
 
-[11 escapadas de un día a 100 km o más de 
-Madrid](https://etheriamagazine.com/2020/06/02/11-escapadas-cercanas-a-dos-horas-de-madrid/)
+{{< reflink path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}}

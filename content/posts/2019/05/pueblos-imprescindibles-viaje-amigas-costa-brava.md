@@ -1,7 +1,7 @@
 ---
 title: "Pueblos bonitos de la Costa Brava para ir con amigas"
 date: 2019-05-28
-coverImage: https://fotos.etheriamagazine.com/2019/05/Calella-de-Palafrugel-viaje-amigas.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/Calella-de-Palafrugel-viaje-amigas.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Yvonne Solé
 ---
 
-Desde Blanes hasta Portbou, esta preciosa costa está repleta de pintorescas poblaciones 
-que esconden pequeños tesoros. En este viaje por la Costa Brava con amigas te proponemos 
-recorrer este abrupto y salvaje litoral para descubrir calas y playas de aguas 
-cristalinas, algunas todavía vírgenes, resguardadas por pinares. Un planazo, no lo 
-negarás. 
+**Desde Blanes hasta Portbou, esta preciosa costa está repleta de pintorescas 
+poblaciones que esconden pequeños tesoros. En este viaje por la Costa Brava con amigas 
+te proponemos recorrer este abrupto y salvaje litoral para descubrir calas y playas de 
+aguas cristalinas, algunas todavía vírgenes, resguardadas por pinares. Un planazo, no lo 
+negarás.** 
 
 ![viaje amigas costa brava, viaje cadaques](https://fotos.etheriamagazine.com/2019/05/playas-cadaques-costa-brva.jpg "Playa de Cadaqués. © Félix Lorenzo")
 
@@ -159,11 +159,9 @@ la bahía de Roses, el litoral de Empúries y l'Escala.
 
 **También te puede interesar:** 
 
-[Empordà, 10 esencias mediterráneas en la Costa 
-Brava](https://etheriamagazine.com/2020/08/21/10-planes-comarca-ampurdan-costa-brava/) 
+{{< reflink path=posts/2020/08/10-planes-comarca-ampurdan-costa-brava >}} 
 
-[Tossa de Mar, la genuina Costa 
-Brava](https://etheriamagazine.com/2020/06/24/viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava/) 
+{{< reflink path=posts/2020/06/viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava 
+>}} 
 
-[Descubre estos 8 lugares secretos de Cataluña que deberías 
-conocer](https://etheriamagazine.com/2021/02/22/lugares-secretos-de-cataluna-que-visitar/)
+{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}

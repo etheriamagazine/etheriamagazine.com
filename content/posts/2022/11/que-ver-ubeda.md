@@ -1,7 +1,7 @@
 ---
 title: "Guía esencial de Úbeda para un fin de semana histórico"
 date: 2022-11-08
-coverImage: https://fotos.etheriamagazine.com/2022/11/ubeda-basilica-santa-maria.jpg
+cover: https://fotos.etheriamagazine.com/2022/11/ubeda-basilica-santa-maria.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Firmas invitadas
 ---
 
-Úbeda se alza en el centro de la provincia de Jaén orgullosa de conservar su trazado 
+**Úbeda se alza en el centro de la provincia de Jaén orgullosa de conservar su trazado 
 original y un patrimonio que refleja la importancia que tuvo en los siglos XVI y XVII. 
 De todo ello te hablaremos en este artículo, además de recomendarte los lugares 
 imprescindibles que tienes que ver en Úbeda. Toma nota para aprovechar el viaje al 
-máximo. 
+máximo.** 
 
 **Por Mari Carmen Duarte** 
 
@@ -226,17 +226,17 @@ cerca de la sinagoga del Agua y del palacio Vela de los Cobos.
 
 ### Hospital de Santiago
 
-Comparado en muchas ocasiones con [El Escorial de 
-Madrid](https://etheriamagazine.com/2021/04/06/por-que-visitar-monasterio-el-escorial/), 
-el Hospital de Santiago es austero y con poca ornamentación, pero su sencilla belleza 
-causa admiración entre los visitantes de la ciudad. Construido en el siglo XVI por 
-Andrés Vandelvira bajo las órdenes del obispo de Jaén, Don Diego de los Cobos, este 
-edificio tenía como fin ser un hospital para enfermos sin recursos, más allá de usarse 
-como iglesia y palacio. A finales del siglo XX, este recinto pasó a ser **centro 
-cultural**, biblioteca y lugar de exposiciones, convirtiéndose en un Monumento Histórico 
-Nacional de estilo renacentista con espacios como un patio central porticado con 
-columnas de mármol blanco, una cúpula y dos torres recubiertas de azulejos de colores y 
-una escalera lateral que no deja a nadie indiferente. 
+Comparado en muchas ocasiones con {{< reflink 
+path=posts/2021/04/por-que-visitar-monasterio-el-escorial >}}, el Hospital de Santiago 
+es austero y con poca ornamentación, pero su sencilla belleza causa admiración entre los 
+visitantes de la ciudad. Construido en el siglo XVI por Andrés Vandelvira bajo las 
+órdenes del obispo de Jaén, Don Diego de los Cobos, este edificio tenía como fin ser un 
+hospital para enfermos sin recursos, más allá de usarse como iglesia y palacio. A 
+finales del siglo XX, este recinto pasó a ser **centro cultural**, biblioteca y lugar de 
+exposiciones, convirtiéndose en un Monumento Histórico Nacional de estilo renacentista 
+con espacios como un patio central porticado con columnas de mármol blanco, una cúpula y 
+dos torres recubiertas de azulejos de colores y una escalera lateral que no deja a nadie 
+indiferente. 
 
 ![Hospital de Santiago en Úbeda.](https://fotos.etheriamagazine.com/2022/11/ubeda-hospital-Santiago-1.jpg "Hospital de Santiago, en Úbeda.")
 
@@ -292,13 +292,12 @@ Estación** o el **Misa de las 12.**
 
 No te pierdas este recorrido guiado por aquellos lugares relacionados con las mujeres 
 más reconocidas de la ciudad de Úbeda (Regina de Lamo, María de Mendoza, Beatriz de la 
-Cueva, María de Molina Morena). No olvides consultar horarios y reservar en este [enlace](https://www.civitatis.com/es/ubeda/tour-mujeres-ubeda/?aid=10211). 
-Precio: 10 € y menores de 8 años, gratis. 
+Cueva, María de Molina Morena). No olvides consultar horarios y reservar en este 
+[enlace](https://www.civitatis.com/es/ubeda/tour-mujeres-ubeda/?aid=10211). Precio: 10 € 
+y menores de 8 años, gratis. 
 
 **También te puede interesar...** 
 
-[¿Qué esconde Caminos de Pasión? 10 experiencias andaluzas para una Semana Santa 
-auténtica](https://etheriamagazine.com/2022/04/04/semana-santa-caminos-de-pasion/). 
+{{< reflink path=posts/2022/04/semana-santa-caminos-de-pasion >}}. 
 
-[Siete emocionantes experiencias para conectar con 
-Andalucía](https://etheriamagazine.com/2021/07/16/experiencias-para-conectar-con-andalucia/).
+{{< reflink path=posts/2021/07/experiencias-para-conectar-con-andalucia >}}.

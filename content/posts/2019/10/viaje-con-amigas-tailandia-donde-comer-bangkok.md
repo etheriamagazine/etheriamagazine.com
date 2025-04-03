@@ -1,7 +1,7 @@
 ---
 title: "Bangkok con amigas, recomendaciones hedonistas"
 date: 2019-10-23
-coverImage: https://fotos.etheriamagazine.com/2019/10/viaje-amigas-tailandia-Coctel-en-Vertigo-Moon-Bar.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/viaje-amigas-tailandia-Coctel-en-Vertigo-Moon-Bar.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Pedro Grifol
 ---
 
-Bangkok se puede disfrutar de dos maneras: abandonándote al relax de un masaje o dando 
+**Bangkok se puede disfrutar de dos maneras: abandonándote al relax de un masaje o dando 
 rienda suelta al paladar… En Etheria Magazine creemos que las dos opciones se pueden 
-combinar perfectamente en un viaje con amigas. 
+combinar perfectamente en un viaje con amigas.** 
 
 ![Cóctel en Vértigo & Moon Bar para un viaje a Bangkok con amigas](https://fotos.etheriamagazine.com/2019/10/viaje-amigas-tailandia-Coctel-en-Vertigo-Moon-Bar.jpg "Cóctel en Vértigo & Moon Bar (Bangkok).")
 
@@ -50,9 +50,8 @@ objeto religioso más venerado de la ciudad. Mete la nariz en el templo de Wat P
 encuentra el ángulo mejor (que no es fácil) para contemplar en toda su magnitud –46 
 metros de largo– el impactante **Buda Reclinado recubierto de oro**. 
 
-✅ Continúa con las [visitas básicas en 
-Bangkok](https://etheriamagazine.com/2018/06/28/tres-dias-en-bangkok/) si es la primera 
-vez que viajas a la capital tailandesa. 
+✅ Continúa con las {{< reflink path=posts/2021/05/tres-dias-en-bangkok-que-hacer >}} si 
+es la primera vez que viajas a la capital tailandesa. 
 
 ![Buda reclinado de Wat Pho](https://fotos.etheriamagazine.com/2019/10/viaje-con-amigas-Bangkok-Buda-Reclinado-de-Wat-Pho.jpg "Buda Reclinado de Wat Pho.")
 

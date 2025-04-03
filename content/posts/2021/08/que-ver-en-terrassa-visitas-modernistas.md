@@ -1,7 +1,7 @@
 ---
 title: "Tres visitas modernistas en Terrassa que justifican una escapada"
 date: 2021-08-20
-coverImage: https://fotos.etheriamagazine.com/2021/08/masia-freixa-modernismo.jpg
+cover: https://fotos.etheriamagazine.com/2021/08/masia-freixa-modernismo.jpg
 categories: 
   - ocio
 destino: 
@@ -24,11 +24,11 @@ Probablemente no has escuchado hablar de la Masía Freixa, del 'Vapor Aymerich, 
 Jover' o de la Casa Alegre de Sagrera, e incluso iríamos más allá, ¿serías capaz de 
 ubicar dónde se encuentra Terrassa? Si eres de Barcelona o de provincias cercanas puede 
 que sí, pero al resto de los mortales nos costaría situarla. No pasa nada, este es un 
-excelente momento para aprovechar un [viaje a Barcelona con 
-amigas](https://etheriamagazine.com/2021/03/10/10-planes-originales-con-amigas-en-barcelona/) 
-o con la familia para hacer una escapada. Debes saber que Terrassa se encuentra a sólo 
-28 kilómetros de la Ciudad Condal y está muy bien comunicada por carretera y ferrocarril 
-(FGC, línea S-1; y Renfe, línea R-4 de Cercanías) por lo que es una excursión ideal. 
+excelente momento para aprovechar un {{< reflink 
+path=posts/2021/03/10-planes-originales-con-amigas-en-barcelona >}} o con la familia 
+para hacer una escapada. Debes saber que Terrassa se encuentra a sólo 28 kilómetros de 
+la Ciudad Condal y está muy bien comunicada por carretera y ferrocarril (FGC, línea S-1; 
+y Renfe, línea R-4 de Cercanías) por lo que es una excursión ideal. 
 
 No nos alargaremos contando la trayectoria histórica de Terrassa porque la irás 
 percibiendo cuando camines por sus calles y plazas. Como avance, basta saber que esta 
@@ -191,11 +191,9 @@ Regàs.
 
 **También en Etheria Magazine** 
 
-[La cuna del Modernismo está en 
-Mataró](https://etheriamagazine.com/2020/10/14/excursion-desde-barcelona-modernismo-mataro/). 
+{{< reflink path=posts/2020/10/excursion-desde-barcelona-modernismo-mataro >}}. 
 
-[Descubre estos 8 lugares secretos de Cataluña que deberías 
-conocer](https://etheriamagazine.com/2021/02/22/lugares-secretos-de-cataluna-que-visitar/). 
+{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}. 
 
-[Turismo industrial en Cataluña, viajar y aprender en 
-familia](https://etheriamagazine.com/2019/12/18/planes-familiares-en-barcelona-y-tarragona-turismo-industrial/).
+{{< reflink 
+path=posts/2019/12/planes-familiares-en-barcelona-y-tarragona-turismo-industrial >}}.

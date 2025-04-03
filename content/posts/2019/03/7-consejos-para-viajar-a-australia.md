@@ -1,7 +1,7 @@
 ---
 title: "7 Consejos para viajar a Australia"
 date: 2019-03-07
-coverImage: https://fotos.etheriamagazine.com/2019/02/australia-viaje-surf.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/australia-viaje-surf.jpg
 categories: 
   - inspiración
   - ocio
@@ -56,8 +56,8 @@ propuestas. Australia cuenta con infinitas opciones dedicadas a la naturaleza, s
 y su flora; extensiones interminables de costa con playas de ensueño; e interesantes 
 ciudades en las que perderse. Mi consejo es intentar **abarcar un poco de todo** para 
 que no tengamos la sensación de habernos perdido una parte importante del destino. ¿Os 
-habés leído ya nuestro reportaje [**Ruta definitiva para viajar a 
-Australia**](https://etheriamagazine.com/2019/03/07/revista-viajes-que-ver-australia/)? 
+habés leído ya nuestro reportaje {{< reflink 
+path=posts/2019/03/revista-viajes-que-ver-australia >}}? 
 
 **Reservar con antelación** los vuelos internos, los coches de alquiler para moverse por 
 las diferentes zonas y los alojamientos será de gran ayuda para aprovechar al máximo el 
@@ -108,10 +108,9 @@ visitar su lonja.
 
 **Más información:** 
 
-Para obtener más información sobre Australia puedes navegar por la web oficial de [Turismo 
-de Australia](http://australia.com). 
+Para obtener más información sobre Australia puedes navegar por la web oficial de 
+[Turismo de Australia](http://australia.com). 
 
 **También te puede interesar:** 
 
-[Australia no es un zoo, conoce sus animales más 
-mortíferos](https://etheriamagazine.com/2019/07/31/consejos-viajar-australia-evitar-peligros-animales/)
+{{< reflink path=posts/2019/07/consejos-viajar-australia-evitar-peligros-animales >}}

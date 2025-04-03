@@ -1,7 +1,7 @@
 ---
 title: "Grandes mujeres artistas. Arte ¡para ver y para comprar!"
 date: 2019-11-18
-coverImage: https://fotos.etheriamagazine.com/2019/11/Sofonisba-y-Lavinia-museo-del-prado.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/Sofonisba-y-Lavinia-museo-del-prado.jpg
 categories: 
   - cultura
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Pedro Grifol
 ---
 
-La exposición sobre dos grandes pintoras en el Museo del Prado y el libro ‘Grandes 
+**La exposición sobre dos grandes pintoras en el Museo del Prado y el libro ‘Grandes 
 mujeres artistas’ pueden ocupar buena parte de nuestro tiempo (cultural) de estas 
-fiestas navideñas. 
+fiestas navideñas.** 
 
 ![exposicion el prado](https://fotos.etheriamagazine.com/2019/11/Sofonisba-y-Lavinia-museo-del-prado.jpg "'Historia de dos pintoras: Sofonisba Anguissola y Lavinia Fontana', en el museo del Prado.")
 
@@ -45,14 +45,16 @@ pintura de ella que de cualquier otra persona, alcanzó una enorme maestría en 
 retrato. Fue pintora de la corte de Felipe II durante catorce años… Toda una _celebrity_ 
 de la época. 
 
-**Lavinia Fontana** (Bolonia,1552 - Roma,1614) fue una verdadera transgresora. 
-Probablemente la primera mujer que pintó desnudos, ya que pintó varios cuadros 
-mitológicos siendo este asunto uno de los temas que habitualmente eran abordados por 
-pintores. El cuadro que recibe al visitante en la muestra del Prado es un desnudo 
-(formal) de la diosa Minerva; pero para ver su frescura erótica nada más ¡y nada menos! 
-hay que colocarse frente al lienzo ‘Venus y Marte’ –casualmente, propiedad de la Casa de 
-Alba y donde habitualmente duerme (en el reabierto Palacio de Liria)–, donde Marte le 
-toca el culo a Venus. **Lavinia, valiente como ella sola, rompió tabúes**. 
+**Lavinia Fontana** (Bolonia,1552 
+
+- Roma,1614) fue una verdadera transgresora. Probablemente la primera mujer que pintó 
+desnudos, ya que pintó varios cuadros mitológicos siendo este asunto uno de los temas 
+que habitualmente eran abordados por pintores. El cuadro que recibe al visitante en la 
+muestra del Prado es un desnudo (formal) de la diosa Minerva; pero para ver su frescura 
+erótica nada más ¡y nada menos! hay que colocarse frente al lienzo ‘Venus y Marte’ 
+–casualmente, propiedad de la Casa de Alba y donde habitualmente duerme (en el reabierto 
+Palacio de Liria)–, donde Marte le toca el culo a Venus. **Lavinia, valiente como ella 
+sola, rompió tabúes**. 
 
 ![marte y venus, lavinia fontana, museo del prado](https://fotos.etheriamagazine.com/2019/11/museo-prado-marte-y-venus-Lavinia-Fontana.jpg "'Marte y Venus'(1595), de Lavinia Fontana.")
 

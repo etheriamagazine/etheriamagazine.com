@@ -1,7 +1,7 @@
 ---
 title: "El ayuno, una práctica milenaria de purificación que beneficia tu salud"
 date: 2021-02-17
-coverImage: https://fotos.etheriamagazine.com/2021/02/ayuno-mujer.jpg
+cover: https://fotos.etheriamagazine.com/2021/02/ayuno-mujer.jpg
 categories: 
   - bienestar
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Maria Miret
 ---
 
-El ayuno es una práctica milenaria, casi universal, cuyos beneficios para la salud 
+**El ayuno es una práctica milenaria, casi universal, cuyos beneficios para la salud 
 confirma ahora la ciencia. Ayunar de forma intermitente desencadena un cambio metabólico 
 que ayuda a mejorar en ciertas enfermedades. Algunas clínicas ofrecen programas 
 combinados con ejercicio físico y espiritualidad para recuperar la calidad de vida, 
-rendir más y mantener la armonía interior. 
+rendir más y mantener la armonía interior.** 
 
 ![bebidas para tomar en ayuno](https://fotos.etheriamagazine.com/2021/02/ayuno-mujer.jpg "Durante el ayuno se puede tomar agua, té o café. ©Dominik Martin")
 
@@ -149,11 +149,9 @@ armonía interior.
 
 ### También te puede interesar...
 
-[El aguacate, conoce sus beneficios y prepara recetas 
-sencillas](https://etheriamagazine.com/2021/01/26/aguacate-beneficios-y-recetas-bajas-en-calorias/) 
+{{< reflink path=posts/2021/01/aguacate-beneficios-y-recetas-bajas-en-calorias >}} 
 
-[Personas Altamente Sensibles. ¿Es realmente un don la 
-sensibilidad?](https://etheriamagazine.com/2020/11/25/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad/) 
+{{< reflink 
+path=posts/2020/11/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}} 
 
-[La Biodanza, un estallido de emociones 
-placenteras](https://etheriamagazine.com/2020/12/02/que-es-la-biodanza-y-que-beneficios-tiene/)
+{{< reflink path=posts/2020/12/que-es-la-biodanza-y-que-beneficios-tiene >}}

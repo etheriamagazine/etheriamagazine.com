@@ -1,7 +1,7 @@
 ---
 title: "Rincones y paisajes de  Huelva que aún no conoces"
 date: 2022-03-21
-coverImage: https://fotos.etheriamagazine.com/2022/03/Viajar-a-Marte-Huelva.jpg
+cover: https://fotos.etheriamagazine.com/2022/03/Viajar-a-Marte-Huelva.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Yolanda Cardo
 ---
 
-Viajar a Marte o a la Inglaterra victoriana sin salir de Riotinto; descubrir fantásticos 
-paisajes de agua y museos que atesoran piezas únicas o devotas tradiciones. Sumadle una 
-excelente gastronomía y unas gentes maravillosas y tendréis los mejores ingredientes 
-para una escapada perfecta. Si no sabes qué hacer en Huelva provincia, no te pierdas las 
-dos rutas que te proponemos. 
+**Viajar a Marte o a la Inglaterra victoriana sin salir de Riotinto; descubrir 
+fantásticos paisajes de agua y museos que atesoran piezas únicas o devotas tradiciones. 
+Sumadle una excelente gastronomía y unas gentes maravillosas y tendréis los mejores 
+ingredientes para una escapada perfecta. Si no sabes qué hacer en Huelva provincia, no 
+te pierdas las dos rutas que te proponemos.** 
 
 ![paisaje sorprendente con rocas rojas y agua de la ruta de los molinos harineros](https://fotos.etheriamagazine.com/2022/03/Ruta-Molinos-Harineros-Villarrasa.jpg "Ruta de los Molinos Harineros del Río Tinto Villarrasa. © Yolanda Cardo")
 
@@ -256,11 +256,8 @@ Más información en [Turismo de Huelva](https://turismo.huelva.es/).
 
 **También en Etheria Magazine** 
 
-[Huelva con niños: 6 planes para aprovechar el viaje al 
-máximo](https://etheriamagazine.com/2021/06/21/planes-en-huelva-con-ninos/). 
+{{< reflink path=posts/2021/06/planes-en-huelva-con-ninos >}}. 
 
-[Puerto Antilla Grand Hotel, un oasis en la costa de 
-Huelva](https://etheriamagazine.com/2021/06/03/puerto-antilla-grand-hotel-costa-huelva-familias/). 
+{{< reflink path=posts/2021/06/puerto-antilla-grand-hotel-costa-huelva-familias >}}. 
 
-[Descubre la magia de las playas y la costa de 
-Huelva](https://etheriamagazine.com/2020/07/01/que-ver-hacer-costa-playas-huelva-donana/).
+{{< reflink path=posts/2020/07/que-ver-hacer-costa-playas-huelva-donana >}}.

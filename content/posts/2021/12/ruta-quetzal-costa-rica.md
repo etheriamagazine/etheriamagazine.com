@@ -1,7 +1,7 @@
 ---
 title: "Costa Rica: de ‘la aventura quetzal’ a la nouvelle cuisine"
 date: 2021-12-17
-coverImage: https://fotos.etheriamagazine.com/2021/12/Trogon-Lodge-San-Gerardo-de-Dota.jpg
+cover: https://fotos.etheriamagazine.com/2021/12/Trogon-Lodge-San-Gerardo-de-Dota.jpg
 categories: 
   - viajar-en-familia
   - viajar-con-amigas
@@ -174,7 +174,8 @@ gustos de los gastro-ticos más exigentes de la capital.
 
 ![greivin rojas tournant san jose](https://fotos.etheriamagazine.com/2021/12/chef-Greivin-Rojas-costa-rica.jpg "Greivin Rojas, chef del restaurante Tournant, posando con un plato de calamares y papas. © P.Grifol")
 
-Y en [Cump](https://www.panaderiacumpanis.com/)[a](https://www.panaderiacumpanis.com/)[nis](https://www.panaderiacumpanis.com/), 
+Y en 
+[Cump](https://www.panaderiacumpanis.com/)[a](https://www.panaderiacumpanis.com/)[nis](https://www.panaderiacumpanis.com/), 
 conocido también como La Panadería, encontramos un surtido de frutas, panes, tartas y 
 batidos difícil de igualar en otro lugar. 
 
@@ -214,11 +215,8 @@ que hay que llevar a mano un chubasquero.
 Si además de admirar el quetzal en Costa Rica deseas hacer un viaje familiar estos 
 artículos te pueden interesar: 
 
-[Descubre la esencia de la Península de Nicoya, tierra de artesanas, surf y 
-yoga.](https://etheriamagazine.com/2022/07/15/que-ver-peninsula-nicoya-costa-rica/) 
+{{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}} 
 
-[Viaje con niños a Costa Rica: aventura en la 
-naturaleza](https://etheriamagazine.com/2021/04/20/viaje-costa-rica-con-ninos-que-hacer-en-familia/). 
+{{< reflink path=posts/2021/04/viaje-costa-rica-con-ninos-que-hacer-en-familia >}}. 
 
-[Una maleta para… Costa 
-Rica](https://etheriamagazine.com/2018/05/28/una-maleta-para-costa-rica/).
+{{< reflink path=posts/2018/05/una-maleta-para-costa-rica >}}.

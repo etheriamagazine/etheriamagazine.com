@@ -1,7 +1,7 @@
 ---
 title: "La provincia de Burgos con niños, planes rurales y activos en familia"
 date: 2022-10-05
-coverImage: https://fotos.etheriamagazine.com/2022/10/Museo-del-petroleo-burgos.jpg
+cover: https://fotos.etheriamagazine.com/2022/10/Museo-del-petroleo-burgos.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Redacción Etheria
 ---
 
-Cualquier fin de semana puede ser bueno para hacer una escapada a Burgos con niños 
+**Cualquier fin de semana puede ser bueno para hacer una escapada a Burgos con niños 
 porque las propuestas son tan amplias que, sea cual sea la estación, siempre 
 descubriréis algo interesante. Aprender los secretos de la sal o de dónde sale el 
 petróleo, visitar parques de aventura o medievales, entrar en una mina o pescar en el 
 río son sólo algunas opciones. Hemos elegido diez planes familiares en la provincia de 
-Burgos que os van a encantar. 
+Burgos que os van a encantar.** 
 
 ![Casas pintorescas de Territorio Artlanza, un plan muy recomendable en Burgos.](https://fotos.etheriamagazine.com/2022/10/Territorio-Artlanza-burgos-familiar.jpg "Territorio Artlanza, un plan muy recomendable en Burgos.")
 
@@ -66,8 +66,9 @@ metros de longitud; el _Arcanosaurus ibericus_, un lagarto emparentado con el dr
 Komodo; o la tortuga _Larachelus morla_. 
 
 La ruta finaliza en el yacimiento El Frontal de **Regumiel de la Sierra**, donde hay 
-registradas 86 icnitas. Podéis ampliar la información en la [web](http://www.fundaciondinosaurioscyl.com/es/c/?idsec=365) 
-de la fundación Dinosaurios de Castilla y León. 
+registradas 86 icnitas. Podéis ampliar la información en la 
+[web](http://www.fundaciondinosaurioscyl.com/es/c/?idsec=365) de la fundación 
+Dinosaurios de Castilla y León. 
 
 ![Dinosaurio en Salas de los Infantes.](https://fotos.etheriamagazine.com/2022/10/salas-de-los-infantes-dinosaurio.jpg "Dinosaurio en Salas de los Infantes.")
 
@@ -82,9 +83,9 @@ de 1964. Del pozo de Ayoluengo comenzó a aflorar petróleo... y lo estuvo hacie
 enero de 2017. Aunque ahora no está en activo, sí que se puede visitar el museo para 
 aprender cómo se origina y los productos derivados del mismo, que son muchos más de los 
 que pensamos... 📌 No dejéis de visitar el cercano **Geoparque de Las Loras**, del que 
-os hablamos extensamente en el artículo: [Geoparque Las Loras, una cita sorprendente 
-entre Burgos y 
-Palencia](https://etheriamagazine.com/2020/12/23/7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia/) 
+os hablamos extensamente en el artículo: {{< reflink 
+path=posts/2020/12/7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia 
+>}} 
 
 ![Museo del Petróleo de Burgos.](https://fotos.etheriamagazine.com/2022/10/Museo-del-petroleo-burgos.jpg "Museo del Petróleo de Burgos.")
 
@@ -100,9 +101,8 @@ minero a mediados del siglo XIX. En la penumbra de la mina se pueden ver las
 herramientas, empujar una vagoneta, sentir la humedad del interior... Podéis reservar la 
 visita en minasdepuras.com 
 
-📌 Si el mundo bajo tierra os atrae, en este artículo encontraréis diversas propuestas: [Burgos 
-subterráneo, planes alucinantes en cuevas, minas y canteras para este 
-verano](https://etheriamagazine.com/2022/06/24/burgos-subterraneo/). 
+📌 Si el mundo bajo tierra os atrae, en este artículo encontraréis diversas propuestas: 
+{{< reflink path=posts/2022/06/burgos-subterraneo >}}. 
 
 ![Mina de Puras, ideal para una visita a Burgos con niños](https://fotos.etheriamagazine.com/2022/10/Burgos-familias-mina-de-puras.jpg "Mina de Puras.")
 
@@ -120,8 +120,8 @@ se pueden descargar para no perderse nada por el camino (Rutas: La Engaña, Ojo 
 Botánica, Senderos del Tiempo, Historias del Sur). Allí mismo encontraréis una cafetería 
 con bonitas vistas. 
 
-📌**No te pierdas:** [Ruta para desconectar en Las Merindades de 
-Burgos](https://etheriamagazine.com/2019/06/04/que-ver-hacer-ruta-merindades-burgos/). 
+📌**No te pierdas:** {{< reflink path=posts/2019/06/que-ver-hacer-ruta-merindades-burgos 
+>}}. 
 
 ![Parque de aventuras Valterria.](https://fotos.etheriamagazine.com/2022/10/Valterria-parque-aventuras.jpg "Parque de aventuras Valterria.")
 
@@ -237,6 +237,6 @@ entre ellas están las cataratas de Orbaneja del Castillo que están en el mismo
 Otras interesantes, aunque hay muchísimas, son las del pueblo de Tobera y las cascadas 
 de La Mea (cerca de Quintanilla de Valdebodres). 
 
-📍**Suscríbete** a nuestra [Newsletter](https://etheriamagazine.com/contacto-etheriamagazine/) 
-para recibir en tu buzón semanalmente propuestas de viajes en familia, con amigas, en 
-pareja o sola.
+📍**Suscríbete** a nuestra 
+[Newsletter](https://etheriamagazine.com/contacto-etheriamagazine/) para recibir en tu 
+buzón semanalmente propuestas de viajes en familia, con amigas, en pareja o sola.

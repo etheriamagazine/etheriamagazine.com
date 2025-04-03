@@ -1,7 +1,7 @@
 ---
 title: "Mindfulness y meditación, tus mejores aliados para reducir el estrés y la ansiedad"
 date: 2020-11-18
-coverImage: https://fotos.etheriamagazine.com/2020/11/pensamientos-positivos.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/pensamientos-positivos.jpg
 categories: 
   - bienestar
 destino: 
@@ -136,8 +136,8 @@ más despiertos.
 
 #### También te puede interesar...
 
-[Musicoterapia, un recurso para superar la 
-depresión](https://etheriamagazine.com/2020/11/11/musicoterapia-mover-emociones-subir-autoestima/). 
+{{< reflink path=posts/2020/11/musicoterapia-mover-emociones-subir-autoestima >}}. 
 
-[Descubre los beneficios de la sal en la 
-haloterapia](https://etheriamagazine.com/2020/10/28/uso-terapeutico-de-la-sal-beneficios-de-la-haloterapia-y-la-talasoterapia/).
+{{< reflink 
+path=posts/2020/10/uso-terapeutico-de-la-sal-beneficios-de-la-haloterapia-y-la-talasoterapia 
+>}}.

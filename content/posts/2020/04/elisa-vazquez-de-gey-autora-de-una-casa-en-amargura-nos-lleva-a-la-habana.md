@@ -1,7 +1,7 @@
 ---
 title: "'Una casa en Amargura', la esclavitud doméstica en Cuba contada por Elisa Vázquez de Gey"
 date: 2020-04-30
-coverImage: https://fotos.etheriamagazine.com/2020/04/una-casa-en-amargura-cuba.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/una-casa-en-amargura-cuba.jpg
 categories: 
   - historias
   - cultura
@@ -46,8 +46,8 @@ colonial era cuestión de tiempo.
 > Las dos Indias, la de incienso y jazmín, y la de la palma y la caña, ocupan en paralelo 
 > mi derrotero literario. 
 
-Tras varios libros centrados en el mismo personaje (📍no te pierdas la reseña sobre [Anita 
-Delgado, la Princesa española de 
+Tras varios libros centrados en el mismo personaje (📍no te pierdas la reseña sobre 
+[Anita Delgado, la Princesa española de 
 Kapurthala](http://etheriamagazine.com/2020/04/13/la-pasion-india-de-anita-delgado-libros-viajes/)) 
 tuve la oportunidad de viajar a **La Reunión**, en el ultramar francés. Era 1998 y la 
 isla conmemoraba el 150 aniversario de la abolición de la esclavitud. 

@@ -1,7 +1,7 @@
 ---
 title: "La mejor guía gastronómica de Buenos Aires para mujeres que viajan solas"
 date: 2024-10-09
-coverImage: https://fotos.etheriamagazine.com/2024/10/buenos-aires-restaurante-trescha.jpg
+cover: https://fotos.etheriamagazine.com/2024/10/buenos-aires-restaurante-trescha.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -214,8 +214,6 @@ Aires.
 
 **También en Etheria Magazine** 
 
-[Descubre la ruta por la arquitectura más elegante de Buenos 
-Aires](https://etheriamagazine.com/2019/07/05/que-ver-buenos-aires-belle-epoque-viajar-sola/) 
+{{< reflink path=posts/2019/07/que-ver-buenos-aires-belle-epoque-viajar-sola >}} 
 
-[Qué llevar en la maleta en un viaje a 
-Argentina](https://etheriamagazine.com/2022/09/14/que-llevar-maleta-argentina/)
+{{< reflink path=posts/2022/09/que-llevar-maleta-argentina >}}

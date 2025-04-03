@@ -1,7 +1,7 @@
 ---
 title: "Estambul romántico, qué ver en una escapada en pareja"
 date: 2018-05-03
-coverImage: https://fotos.etheriamagazine.com/2020/04/viaje-estambul.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/viaje-estambul.jpg
 categories: 
   - viajar-en-pareja
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Susana García
 ---
 
-Visitar Estambul en pareja es una experiencia de las que siempre quedará en el recuerdo. 
-Esta increíble ciudad ofrece todo lo necesario para que una estancia corta se convierta 
-en inolvidable: arte, historia, bulliciosos bazares, románticos rincones que miran al 
-Bósforo y una animada vida nocturna. 
+**Visitar Estambul en pareja es una experiencia de las que siempre quedará en el 
+recuerdo. Esta increíble ciudad ofrece todo lo necesario para que una estancia corta se 
+convierta en inolvidable: arte, historia, bulliciosos bazares, románticos rincones que 
+miran al Bósforo y una animada vida nocturna.** 
 
 ![Crucero por el Bósforo, un plan romántico en Estambul](https://fotos.etheriamagazine.com/2018/05/ESTAMBUL-BOSFORO-e1552469054616.jpg "Resérvate un atardecer para realizar un crucero por el Bósforo.")
 
@@ -146,10 +146,11 @@ tanto mujeres como hombres: prohibidas las deportivas y las camisetas.
 
 ### ¿Cómo llegar a Estambul desde el aeropuerto?
 
-La opción más cómoda si llegas de noche o no te fías de los taxis es contratar los [traslados 
-desde el aeropuerto](https://www.civitatis.com/es/estambul/traslados/?aid=10211) de 
-Estambul, ya que te dejarán en la puerta de tu hotel sin quebraderos de cabeza. Sale por 
-unos 45 euros. 
+La opción más cómoda si llegas de noche o no te fías de los taxis es contratar los 
+[traslados desde el 
+aeropuerto](https://www.civitatis.com/es/estambul/traslados/?aid=10211) de Estambul, ya 
+que te dejarán en la puerta de tu hotel sin quebraderos de cabeza. Sale por unos 45 
+euros. 
 
 Si prefieres coger el taxi allí mismo, el precio baja a unos 30 euros. Y si lo tuyo es 
 el transporte público también hay líneas que te dejarán en el centro. Debes comprar 
@@ -160,8 +161,6 @@ Más información de [Estambul](https://istanbul.goturkiye.com/istanbul-destinat
 
 **También te puede interesar:** 
 
-[Averigua por qué Capadocia es una excursión idónea desde 
-Estambul](https://etheriamagazine.com/2022/04/22/excursion-a-capadocia/). 
+{{< reflink path=posts/2022/04/excursion-a-capadocia >}}. 
 
-[Qué ver en la Capadocia, un paisaje lleno de fantasía en 
-Turquía](https://etheriamagazine.com/2019/02/26/revista-viajes-que-ver-capadocia/)
+{{< reflink path=posts/2019/02/revista-viajes-que-ver-capadocia >}}

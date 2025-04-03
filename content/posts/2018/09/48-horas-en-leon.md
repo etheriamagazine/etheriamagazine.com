@@ -1,7 +1,7 @@
 ---
 title: "Enamórate de León en sólo 48 horas"
 date: 2018-09-27
-coverImage: https://fotos.etheriamagazine.com/2018/09/Leon-calle-ancha.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/Leon-calle-ancha.jpg
 categories: 
   - viajar-sola
   - ocio
@@ -11,9 +11,9 @@ authors:
   - Eva Madruga
 ---
 
-León es una ciudad sorprendente y moderna, cuya belleza se prolonga en el tiempo, e 
+**León es una ciudad sorprendente y moderna, cuya belleza se prolonga en el tiempo, e 
 ideal para el errático rumbo del viajero. Te cautivará si viajas en pareja, con amigas o 
-sola. ¡Aquí van algunas pistas para que organices la visita a tu gusto! 
+sola. ¡Aquí van algunas pistas para que organices la visita a tu gusto!** 
 
 ![Calle Ancha, en el centro histórico de León.](https://fotos.etheriamagazine.com/2018/09/Leon-calle-ancha.jpg "Calle Ancha, en el centro histórico de León.")
 
@@ -158,8 +158,8 @@ Dedica el resto de la tarde a ver el **Parador de San Marcos**, uno de lo monume
 importantes del renacimiento. Nació como Casa de la Orden de Santiago en el siglo XVI, 
 fue cuartel, colegio y cárcel (estuvo preso Quevedo). 
 
-📌 **No te pierdas:** [El renovado Parador de León, un hotel de lujo para espíritus 
-ilustrados](https://etheriamagazine.com/2020/12/22/parador-de-leon-hotel-romantico-y-de-lujo/). 
+📌 **No te pierdas:** {{< reflink 
+path=posts/2020/12/parador-de-leon-hotel-romantico-y-de-lujo >}}. 
 
 Después acércate a ver el **MUSAC**, cuya llamativa fachada hace referencia a las 
 vidrieras de la Catedral. 
@@ -179,12 +179,9 @@ mostrándote que ella sí que es superior al tiempo.
 
 ### Sigue leyendo sobre León
 
-[De tapinas por León: el secreto mejor guardado de la capital del Santo 
-Grial](https://etheriamagazine.com/2021/09/09/ruta-para-comer-bien-en-leon-capital/). 
+{{< reflink path=posts/2021/09/ruta-para-comer-bien-en-leon-capital >}}. 
 
-[16 secretos que desconoces de la milenaria ciudad de 
-León](https://etheriamagazine.com/2020/12/16/16-lugares-secretos-y-leyendas-de-leon-capital/). 
+{{< reflink path=posts/2020/12/16-lugares-secretos-y-leyendas-de-leon-capital >}}. 
 
-[Si León no existiera, habría que inventarlo: 10 razones para descubrir la capital de un 
-reino 
-fascinante](https://etheriamagazine.com/2020/12/28/10-razones-para-descubrir-leon-una-capital-unica-y-diferente/).
+{{< reflink 
+path=posts/2020/12/10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}.

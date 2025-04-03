@@ -1,7 +1,7 @@
 ---
 title: "Casablanca y Marrakech,  una escapada esencial (y a precio asequible)"
 date: 2023-05-04
-coverImage: https://fotos.etheriamagazine.com/2023/05/zapatillas-zoco-marrakech.jpg
+cover: https://fotos.etheriamagazine.com/2023/05/zapatillas-zoco-marrakech.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Tanto si ya eres una enamorada de Marruecos como si estás buscando una primera 
+**Tanto si ya eres una enamorada de Marruecos como si estás buscando una primera 
 experiencia, un viaje a Casablanca y Marrakech te permitirá conocer dos ciudades muy 
 dispares pero igual de frenéticas. Te contamos cuáles son los puntos fuertes para que 
-elijas si quieres visitar las dos o solo una. 
+elijas si quieres visitar las dos o solo una.** 
 
 ![Interior de la mezquita de Hassan II, en Casablanca](https://fotos.etheriamagazine.com/2023/05/interior-mezquita-hassan-ii.jpg "Interior de la mezquita de Hassan II. © Pepa García")
 
@@ -234,11 +234,8 @@ rememorar la mítica película Casablanca.
 
 **También te puede interesar...** 
 
-[Tánger, ¿qué tiene su medina que encandiló a Matisse y a Carmina 
-Ordóñez?](https://etheriamagazine.com/2022/08/16/que-ver-tanger-con-amigas/) 
+{{< reflink path=posts/2022/08/que-ver-tanger-con-amigas >}} 
 
-[Guía esencial de Fez, la capital espiritual de 
-Marruecos](https://etheriamagazine.com/2021/03/18/guia-esencial-que-ver-y-hacer-en-fez/). 
+{{< reflink path=posts/2021/03/guia-esencial-que-ver-y-hacer-en-fez >}}. 
 
-[Najat Kaanache, la mejor chef de África, desvela en NAJAT los secretos de la cocina 
-marroquí](https://etheriamagazine.com/2021/02/04/najat-libro-cocina-marroqui-chef-najat-kaanache/).
+{{< reflink path=posts/2021/02/najat-libro-cocina-marroqui-chef-najat-kaanache >}}.

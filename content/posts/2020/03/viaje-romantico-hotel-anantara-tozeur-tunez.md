@@ -1,7 +1,7 @@
 ---
 title: "Viaje en pareja al hotel Anantara Tozeur Resort"
 date: 2020-03-27
-coverImage: https://fotos.etheriamagazine.com/2020/03/hotel-Anantara-Tozeur-One-Bedroom-Pool-Villa.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/hotel-Anantara-Tozeur-One-Bedroom-Pool-Villa.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Hay hoteles que parecen pensados para una escapada romántica y uno de ellos es el 
+**Hay hoteles que parecen pensados para una escapada romántica y uno de ellos es el 
 Anantara Tozeur Resort, en Túnez, situado frente a las dunas del desierto del Sahara. Un 
 viaje para darse un capricho de lujo y disfrutar de la tranquilidad, del paisaje y de 
-las excelentes instalaciones de este hotel. 
+las excelentes instalaciones de este hotel.** 
 
 ![Jardín del Anantara Tozeur Resort.](https://fotos.etheriamagazine.com/2020/03/hotel-Anantara-Tozeur.jpg "Jardín del Anantara Tozeur Resort.")
 

@@ -1,7 +1,7 @@
 ---
 title: "Tips imprescindibles para organizar tu primer viaje en crucero"
 date: 2021-02-25
-coverImage: https://fotos.etheriamagazine.com/2021/02/cruceros-Disney-castaway-cay.jpg
+cover: https://fotos.etheriamagazine.com/2021/02/cruceros-Disney-castaway-cay.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,9 +11,9 @@ authors:
   - Susana García
 ---
 
-¿Estás pensando en realizar por primera vez un crucero? Es un viaje mucho más fácil de 
+**¿Estás pensando en realizar por primera vez un crucero? Es un viaje mucho más fácil de 
 organizar de lo que piensas y perfecto para viajar en familia, en pareja o con amigas. 
-Aquí te damos unas cuantas pistas para facilitarte esta tarea ¡y a navegar! 
+Aquí te damos unas cuantas pistas para facilitarte esta tarea ¡y a navegar!** 
 
 ![Mujer en la barandilla de un crucero](https://fotos.etheriamagazine.com/2021/02/Cruceros-cubierta.jpg "Las vistas desde cubierta son uno de los alicientes de viajar en un crucero.")
 
@@ -213,14 +213,10 @@ crucero es el momento de ser todo lo barroca que te permita tu armario.
 
 ## Otros artículos de Etheria Magazine sobre cruceros
 
-[Una maleta para un 
-crucero.](https://etheriamagazine.com/2018/11/17/una-maleta-para-un-crucero/) 
+{{< reflink path=posts/2018/11/una-maleta-para-un-crucero >}} 
 
-[Crucero por las Islas 
-Griegas.](https://etheriamagazine.com/2019/01/03/que-visitar-crucero-por-islas-griegas/) 
+{{< reflink path=posts/2019/01/que-visitar-crucero-por-islas-griegas >}} 
 
-[Crucero Disney por 
-Bahamas.](https://etheriamagazine.com/2018/05/04/crucero-familia-disney-bahamas/) 
+{{< reflink path=posts/2018/05/crucero-familia-disney-bahamas >}} 
 
-[Recorre Andalucía a bordo de un crucero por el 
-Guadalquivir](https://etheriamagazine.com/2020/07/03/crucero-fluvial-por-el-guadalquivir-andalucia/).
+{{< reflink path=posts/2020/07/crucero-fluvial-por-el-guadalquivir-andalucia >}}.

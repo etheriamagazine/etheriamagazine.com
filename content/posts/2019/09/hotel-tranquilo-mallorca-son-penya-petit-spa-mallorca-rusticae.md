@@ -1,7 +1,7 @@
 ---
 title: "Son Penya Petit Hotel & Spa, un rincón secreto en Mallorca"
 date: 2019-09-04
-coverImage: https://fotos.etheriamagazine.com/2019/08/Son-Penya-piscina-aina-suite.jpg
+cover: https://fotos.etheriamagazine.com/2019/08/Son-Penya-piscina-aina-suite.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-En ocasiones los lugares más populares y visitados son capaces de guardar pequeños 
+**En ocasiones los lugares más populares y visitados son capaces de guardar pequeños 
 tesoros que parecen vivir al margen del bullicio. Es el caso del Son Penya Petit Hotel & 
 Spa, un rincón en el interior de la isla de Mallorca que invita a pasar un fin de semana 
-de relax. 
+de relax.** 
 
 ![exterior del hotel Son Penya en Mallorca](https://fotos.etheriamagazine.com/2019/08/Son-Penya-fachada.jpg "Una de las terrazas del Son Penya Petit Hotel & Spa.")
 
@@ -114,11 +114,8 @@ Tel. +34 971 59 97 51
 
 📌 **También te puede interesar:** 
 
-[10 secretos ‘gastro’ que deberías conocer de 
-Mallorca](https://etheriamagazine.com/2022/10/25/gastronomia-mallorca/) 
+{{< reflink path=posts/2022/10/gastronomia-mallorca >}} 
 
-[Cuevas de Mallorca, cinco fantasías 
-subterráneas](https://etheriamagazine.com/2021/08/26/cuevas-de-mallorca-con-ninos/) 
+{{< reflink path=posts/2021/08/cuevas-de-mallorca-con-ninos >}} 
 
-[Palma con amigas: 8 planazos para exprimir la capital de 
-Mallorca](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palma-mallorca-con-amigas/)
+{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}

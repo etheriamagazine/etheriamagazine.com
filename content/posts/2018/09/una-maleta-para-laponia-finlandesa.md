@@ -1,7 +1,7 @@
 ---
 title: "Cómo preparar la maleta para viajar a Laponia"
 date: 2018-09-15
-coverImage: https://fotos.etheriamagazine.com/2018/09/laponia-finlandia-vestimenta.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/laponia-finlandia-vestimenta.jpg
 categories: 
   - inspiración
   - ocio
@@ -111,11 +111,9 @@ meriendas.
 
 **También te puede interesar:** 
 
-[Laponia con niños: un viaje 
-irrepetible](https://etheriamagazine.com/2018/09/07/viaje-laponia-finlandesa-en-familia/) 
+{{< reflink path=posts/2018/09/viaje-laponia-finlandesa-ninos-en-familia >}} 
 
-[8 consejos para viajar con niños a la Laponia 
-Finlandesa](https://etheriamagazine.com/2018/09/08/8-consejos-para-viajar-a-la-laponia-finlandesa-con-ninos/) 
+{{< reflink path=posts/2018/09/8-consejos-para-viajar-a-la-laponia-finlandesa-con-ninos 
+>}} 
 
-[7 excursiones que no puedes perderte en la Laponia 
-finlandesa](https://etheriamagazine.com/2019/10/31/siete-excursiones-en-laponia-finlandesa/)
+{{< reflink path=posts/2019/10/siete-excursiones-en-laponia-finlandesa >}}

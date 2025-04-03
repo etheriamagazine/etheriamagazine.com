@@ -1,7 +1,7 @@
 ---
 title: "'Travel burnout', cuando no puedes más en un viaje"
 date: 2025-03-11
-coverImage: https://fotos.etheriamagazine.com/2025/03/sania-burnout-kuala-lumpur.jpg
+cover: https://fotos.etheriamagazine.com/2025/03/sania-burnout-kuala-lumpur.jpg
 categories: 
   - viajar-sola
   - historias
@@ -107,11 +107,8 @@ gestionar esto mejor en el futuro? Espero que sí.
 
 **También te puede interesar:** 
 
-[Bali en solitario: yoga, retiros y aventuras de Sania 
-Jelic](https://etheriamagazine.com/2025/02/25/viajar-sola-a-bali-consejos-sania-jelic/) 
+{{< reflink path=posts/2025/02/viajar-sola-a-bali-consejos-sania-jelic >}} 
 
-[Viajar sola a Taiwán, un planazo de Sania 
-Jelic](https://etheriamagazine.com/2025/01/22/viajar-sola-a-taiwan-consejos-sania-jelic/) 
+{{< reflink path=posts/2025/01/viajar-sola-a-taiwan-consejos-sania-jelic >}} 
 
-[Consejos prácticos de Sania Jelic para viajar sola a 
-Japón](https://etheriamagazine.com/2025/01/03/consejos-practicos-sania-jelic-viajar-sola-a-japon/)
+{{< reflink path=posts/2025/01/consejos-practicos-sania-jelic-viajar-sola-a-japon >}}

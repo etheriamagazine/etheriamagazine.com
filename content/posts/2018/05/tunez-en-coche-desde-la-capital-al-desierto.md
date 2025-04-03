@@ -1,7 +1,7 @@
 ---
 title: "Cómo organizar una ruta en coche a Túnez con amigas"
 date: 2018-05-14
-coverImage: https://fotos.etheriamagazine.com/2018/05/Sidi-Bou-Said-Tunez-e1552387102944.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Sidi-Bou-Said-Tunez-e1552387102944.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Pepa G. Marín
 ---
 
-¿Es vuestro primer viaje a África? Una escapada a Túnez con amigas es una opción más que 
-recomendable. En Etheria Magazine te hemos preparado una ruta en coche de 7 días desde 
-la capital a la zona playera, y desde allí hasta los oasis del desierto. 
+**¿Es vuestro primer viaje a África? Una escapada a Túnez con amigas es una opción más 
+que recomendable. En Etheria Magazine te hemos preparado una ruta en coche de 7 días 
+desde la capital a la zona playera, y desde allí hasta los oasis del desierto.** 
 
 ![Puerta amarilla de la medina de Tunez](https://fotos.etheriamagazine.com/2018/05/Medina-Túnez-capital-e1555747337187.jpg "La medina de Túnez es un lugar perfecto para pasear, además de para ir de compras")
 
@@ -217,11 +217,9 @@ Más información en [www.turismodetunez.com](http://www.turismodetunez.com/)
 
 **También te puede interesar...** 
 
-[Guía esencial de Fez, la capital espiritual de 
-Marruecos](https://etheriamagazine.com/2021/03/18/guia-esencial-que-ver-y-hacer-en-fez/). 
+{{< reflink path=posts/2021/03/guia-esencial-que-ver-y-hacer-en-fez >}}. 
 
-[Celebrar la vida en el Alto Atlas 
-marroquí](https://etheriamagazine.com/2020/04/08/viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas/). 
+{{< reflink path=posts/2020/04/viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas 
+>}}. 
 
-[Trekking a Ushguli, la aldea habitada más alta de 
-Europa](https://etheriamagazine.com/2021/02/16/ruta-detallada-trekking-a-ushguli-georgia/).
+{{< reflink path=posts/2021/02/ruta-detallada-trekking-a-ushguli-georgia >}}.

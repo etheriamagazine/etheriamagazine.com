@@ -1,7 +1,7 @@
 ---
 title: "Descubre la Riviera Nayarit en 10 visitas con alma"
 date: 2020-02-21
-coverImage: https://fotos.etheriamagazine.com/2020/02/riviera-nayarit.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/riviera-nayarit.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -174,11 +174,8 @@ expresiones más sobresalientes de la cultura del país.
 
 ### También te puede interesar...
 
-[10 yacimientos arqueológicos de México que no puedes 
-perderte](https://etheriamagazine.com/2021/03/30/mejores-yacimientos-arqueologicos-mexico/). 
+{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}}. 
 
-[Las mejores excursiones para descubrir la Riviera 
-Maya](https://etheriamagazine.com/2022/02/01/excursiones-en-riviera-maya-mexico/). 
+{{< reflink path=posts/2022/02/excursiones-en-riviera-maya-mexico >}}. 
 
-[10 parques naturales de América Latina con paisajes 
-increíbles](https://etheriamagazine.com/2021/10/21/parques-naturales-de-america-latina/).
+{{< reflink path=posts/2021/10/parques-naturales-de-america-latina >}}.

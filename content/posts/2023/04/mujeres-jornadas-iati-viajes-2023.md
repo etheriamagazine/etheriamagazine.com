@@ -1,18 +1,18 @@
 ---
 title: "Aventureras en las Jornadas IATI de los Grandes Viajes, 10 años compartiendo historias"
 date: 2023-04-20
-coverImage: https://fotos.etheriamagazine.com/2023/04/viaje-furgo-Maria-Laura.jpg
+cover: https://fotos.etheriamagazine.com/2023/04/viaje-furgo-Maria-Laura.jpg
 destino: 
   - España
 authors: 
   - Redacción Etheria
 ---
 
-Las Jornadas IATI de los Grandes Viajes soplan este año sus primeras diez velas y lo 
+**Las Jornadas IATI de los Grandes Viajes soplan este año sus primeras diez velas y lo 
 festejan por todo lo alto compartiendo las historias de quienes un día se pusieron el 
 mundo por montera y se lanzaron a recorrer su propia senda. Entre ellos hay un gran 
 número de mujeres que sustituyeron la comodidad de lo conocido por la emoción de 
-enfrentarse a la incertidumbre del viaje. 
+enfrentarse a la incertidumbre del viaje.** 
 
 ![María y Laura emprendieron un largo viaje en furgoneta.](https://fotos.etheriamagazine.com/2023/04/viaje-furgo-Maria-Laura.jpg "María y Laura emprendieron un largo viaje en furgoneta.")
 
@@ -58,11 +58,12 @@ Desde Francia siguió pedaleando por la costa europea (Croacia, Albania…) hast
 Grecia. A esas alturas, ya acostumbrada al viaje, iba ganando confianza. No se detuvo y 
 siguió con la segunda parte de su itinerario. Había planeado seguir por **Turquía**, 
 donde disfrutó enormemente con el contacto con la gente y su hospitalidad. Pedalada a 
-pedalada, atravesó el país y llegó a [Georgia](https://etheriamagazine.com/2019/02/13/que-ver-georgia/), 
+pedalada, atravesó el país y llegó a {{< reflink path=posts/2019/02/que-ver-georgia >}}, 
 donde la experiencia fue menos gratificante por el acoso e insistencia de muchos 
-hombres. Continuó su periplo por [Armenia](https://etheriamagazine.com/2019/05/02/viajar-sola-que-ver-armenia/) 
-y Azerbaiyán, donde realizó un **pequeño documental sobre las reivindicaciones de las 
-mujeres y su situación en ese territorio**. 
+hombres. Continuó su periplo por {{< reflink 
+path=posts/2019/05/viajar-sola-que-ver-armenia >}} y Azerbaiyán, donde realizó un 
+**pequeño documental sobre las reivindicaciones de las mujeres y su situación en ese 
+territorio**. 
 
 El siguiente país en su itinerario era **Irán**, un lugar al que le daba algo de reparo 
 entrar sola, por lo que decidió organizar una caravana. Así, junto a otras **seis 
@@ -75,8 +76,9 @@ cosas que suceden cada día. Tras India, voló a **Nepal** y recorrió parte del
 de seguir hasta **Bangladesh**. En ese momento, ya habían pasado **tres años** desde que 
 salió de casa. "Las prisas nunca fueron lo mío", bromea Yesenia. 
 
-Cuando estaba a tan solo 100 km de la frontera de [Myanmar](https://etheriamagazine.com/2020/04/27/mujeres-aventureras-viaje-myanmar-que-ver-hacer/), 
-la policía la interceptó para llevarla a hacer cuarentena. Había estallado la pandemia. 
+Cuando estaba a tan solo 100 km de la frontera de {{< reflink 
+path=posts/2020/04/mujeres-aventureras-viaje-myanmar-que-ver-hacer >}}, la policía la 
+interceptó para llevarla a hacer cuarentena. Había estallado la pandemia. 
 
 ![Yesenia Herrera da una charla en un colegio](https://fotos.etheriamagazine.com/2023/04/Yesenia-Herrera-apoyo-mujeres.jpg "Las charlas en los colegios forman parte del proyecto de Yesenia.")
 
@@ -149,9 +151,9 @@ hijos ya mayores. Su vida hace unos años se centraba en la familia y en sus emp
 formación hasta que la crisis le obligó a cerrar el negocio. Por si fuera poco, en plena 
 crisis le diagnosticaron cáncer. Ese era, por tanto, el momento perfecto para plantearse 
 un cambio de vida y saldar una deuda pendiente: un viaje largo en moto. Aquí podéis leer 
-su testimonio de 2021 ([Reportaje sobre mujeres viajeras de la edición 
-2021](https://etheriamagazine.com/2021/05/25/viajeras-en-jornadas-iati-de-los-grandes-viajes-2021/) 
-de las Jornadas IATI de los Grandes Viajes). 
+su testimonio de 2021 ({{< reflink 
+path=posts/2021/05/viajeras-en-jornadas-iati-de-los-grandes-viajes-2021 >}} de las 
+Jornadas IATI de los Grandes Viajes). 
 
 ## El viaje en moto continúa
 
@@ -165,9 +167,9 @@ salió nada mal porque partió hacia el **sur de Chile**, un lugar que la dejó
 maravillada. Tras desechar la idea de rodar por la carretera Austral –el otoño estaba 
 avanzado y no era recomendable por el frío y lluvia–, se dirigió hacia el norte para 
 cruzar a Perú con la esperanza de que las fronteras abrieran mientras ella rodaba los 
-3.700 km que la separaban de ese lugar. Por el camino se detuvo en [San Pedro de 
-Atacama](https://etheriamagazine.com/2019/01/04/que-ver-en-desierto-atacama-san-pedro-atacama-chile/), 
-un lugar mágico que acababa de abrirse al turismo y donde se respiraba felicidad. 
+3.700 km que la separaban de ese lugar. Por el camino se detuvo en {{< reflink 
+path=posts/2019/01/que-ver-en-desierto-atacama-san-pedro-atacama-chile >}}, un lugar 
+mágico que acababa de abrirse al turismo y donde se respiraba felicidad. 
 
 ![Marta Insausti sentada en su moto con el casco puesto](https://fotos.etheriamagazine.com/2023/04/marta-insausti-viaje-moto.jpg "Tras el parón de la pandemia, Marta Insausti emprendió la 2ª parte de su viaje.")
 

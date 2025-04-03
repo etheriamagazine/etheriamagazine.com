@@ -1,7 +1,7 @@
 ---
 title: "5 cámaras de fotos semiprofesionales perfectas para viajar ligeras"
 date: 2020-11-25
-coverImage: https://fotos.etheriamagazine.com/2020/11/camara-foto-viajes.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/camara-foto-viajes.jpg
 categories: 
   - compras
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Si te gusta hacer fotos en tus escapadas y estás pensando en comprarte (o regalar) una 
+**Si te gusta hacer fotos en tus escapadas y estás pensando en comprarte (o regalar) una 
 cámara fotográfica para viajar, te recomendamos cinco modelos de distintas casas. Son 
 ligeras, fáciles de usar y con precios aceptables teniendo en cuenta que algunas tienen 
-características semiprofesionales. 
+características semiprofesionales.** 
 
 ![camara de fotos para viajar](https://fotos.etheriamagazine.com/2020/11/camara-foto-viajes.jpg "Descubre el placer de la fotografía en los viajes. © Andre Furtado")
 
@@ -106,8 +106,6 @@ hacer fotos como vídeos.
 
 #### También te puede interesar...
 
-• [Los Calendarios de Adviento más originales de 
-2020.](https://etheriamagazine.com/2020/11/20/calendario-de-adviento-2020-para-mujeres/) 
+- {{< reflink path=posts/2020/11/calendario-de-adviento-2020-para-mujeres >}} 
 
-• [Libros de coctelería para regalar o 
-regalarte](https://etheriamagazine.com/2020/11/23/libros-de-cocteleria-un-gran-regalo-navidad/).
+- {{< reflink path=posts/2020/11/libros-de-cocteleria-un-gran-regalo-navidad >}}.

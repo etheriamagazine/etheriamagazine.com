@@ -1,7 +1,7 @@
 ---
 title: "Viaje a Sri Lanka, el país de los elefantes"
 date: 2019-02-01
-coverImage: https://fotos.etheriamagazine.com/2019/01/Viajes-mujeres-Sri-lanka-7.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/Viajes-mujeres-Sri-lanka-7.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -151,11 +151,8 @@ festividad, que en 2019 se celebrará del 7 al 17 de julio, no te lo pierdas.
 
 ### También te puede interesar:
 
-[¿Puedo viajar sola o con amigas a 
-India?](https://etheriamagazine.com/2018/10/19/viajar-sola-o-con-amigas-a-india/) 
+{{< reflink path=posts/2018/10/viajar-sola-o-con-amigas-a-india >}} 
 
-[Qué ver en el norte de India: 10 colores del 
-Rajastán](https://etheriamagazine.com/2020/01/29/viaje-para-mujeres-que-ver-norte-india-rajastan/) 
+{{< reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}} 
 
-[Islas Maldivas, mucho más que un destino para lunas de 
-miel](https://etheriamagazine.com/2021/03/23/guia-que-hacer-en-maldivas-buceo-surf/)
+{{< reflink path=posts/2021/03/guia-que-hacer-en-maldivas-buceo-surf >}}

@@ -1,7 +1,7 @@
 ---
 title: "‘Travel with Rose’ adapta sus viajes para hacerlos más seguros"
 date: 2020-05-27
-coverImage: https://fotos.etheriamagazine.com/2020/05/travel-with-rose-mujeres.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/travel-with-rose-mujeres.jpg
 categories: 
   - viajar-sola
   - historias
@@ -12,26 +12,27 @@ authors:
   - Pepa G. Marín
 ---
 
-Rose Serrano, directora de 'Travel with Rose', analiza el turismo en tiempos de Covid-19 
-y argumenta los cambios que considera deseables en esta “nueva etapa turística” marcada 
-por las limitaciones fronterizas y los protocolos sanitarios. 
+**Rose Serrano, directora de 'Travel with Rose', analiza el turismo en tiempos de 
+Covid-19 y argumenta los cambios que considera deseables en esta “nueva etapa turística” 
+marcada por las limitaciones fronterizas y los protocolos sanitarios.** 
 
 ![travel with rose, rose serrano, agencia de viajes para mujeres, viajar sola en grupo](https://fotos.etheriamagazine.com/2020/05/travel-with-rose-agencia-viajes.jpg "Rose Serrano (Dcha.) con un grupo de viajeras.")
 
 Cuando las circunstancias sanitarias impiden el desarrollo habitual de las actividades 
 turísticas existen dos salidas: esperar a que cambien o adaptarse a las mismas 
-minimizando los riesgos. [Rose 
-Serrano](https://etheriamagazine.com/2019/02/11/rose-serrano-agencias-viajes-mujeres-etheria/) 
-ha apostado por la segunda opción, ajustando los destinos a **lugares más próximos** (al 
-menos a corto plazo), bajando el número máximo de participantes, incrementando las 
-**habitaciones individuales** y tratando de incluir más **itinerarios en temporada 
-baja** y a destinos poco masificados. 
+minimizando los riesgos. {{< reflink 
+path=posts/2019/02/rose-serrano-agencias-viajes-mujeres-etheria >}} ha apostado por la 
+segunda opción, ajustando los destinos a **lugares más próximos** (al menos a corto 
+plazo), bajando el número máximo de participantes, incrementando las **habitaciones 
+individuales** y tratando de incluir más **itinerarios en temporada baja** y a destinos 
+poco masificados. 
 
 Aunque los programas aún se están cerrando, entre los lugares que propone para las 
 viajeras este 2020 se encuentran: **El Bierzo**, **El Penedés** y **Guadalajara**, una 
 provincia que no guarda ningún secreto para ella, ya que es donde reside. Es optimista 
 en cuanto al último trimestre del año y proyecta viajes por Europa, mercadillos 
-navideños y un fin de año en [Dubái](https://etheriamagazine.com/2019/05/31/como-aprovechar-una-escala-en-dubai/). 
+navideños y un fin de año en {{< reflink 
+path=posts/2019/05/como-aprovechar-una-escala-en-dubai >}}. 
 
 ![travel with rose, rose serrano, agencia de viajes para mujeres, viajar sola en grupo](https://fotos.etheriamagazine.com/2020/05/travel-with-rose-mujeres.jpg "Mujeres que viajan con 'Travel with Rose'.")
 
@@ -136,22 +137,26 @@ Europa también será otro objetivo a tener en cuenta.
 
 A partir de este verano, como soy positiva, espero que podamos empezar a viajar, aunque 
 sea cerca. **El Bierzo y El Penedés** son los más próximos, los haremos en julio. En 
-agosto recorreremos **Guadalajara**, con los [pueblos 
-negros](https://etheriamagazine.com/2019/05/06/viaje-en-coche-pueblos-negros-guadalajara/), 
-la **Alcarria**, **Sigüenza**, y otros muchos lugares que son menos conocidos. 
+agosto recorreremos **Guadalajara**, con los {{< reflink 
+path=posts/2019/05/ruta-en-coche-pueblos-negros-guadalajara >}}, la **Alcarria**, 
+**Sigüenza**, y otros muchos lugares que son menos conocidos. 
 
 Ese mismo mes también iremos a **Chipre**, si todo va bien. Y más adelante, se visitarán 
-lugares como **Normandía** y los escenarios de la Segunda Guerra Mundial, [Praga](https://etheriamagazine.com/2019/09/16/que-hacer-ver-2-dias-en-praga-museos-festivales/) 
-y sus pueblos (donde visitaremos un spa de cerveza), [Luxemburgo](https://etheriamagazine.com/2020/03/04/que-ver-y-hacer-en-luxemburgo-en-3-dias-con-amigas/) 
-y la cuenca del río Mosela, la **Toscana**, las tierras del Cáucaso y [Uzbekistán](https://etheriamagazine.com/2019/11/28/10-razones-para-visitar-uzbekistan-que-ver-en-ruta-de-la-seda/) 
-con actividades locales para mujeres viajeras. 
+lugares como **Normandía** y los escenarios de la Segunda Guerra Mundial, {{< reflink 
+path=posts/2019/09/que-hacer-ver-2-dias-en-praga-museos-festivales >}} y sus pueblos 
+(donde visitaremos un spa de cerveza), {{< reflink 
+path=posts/2020/03/que-ver-y-hacer-en-luxemburgo-en-3-dias-con-amigas >}} y la cuenca 
+del río Mosela, la **Toscana**, las tierras del Cáucaso y {{< reflink 
+path=posts/2019/11/10-razones-para-visitar-uzbekistan-que-ver-en-ruta-de-la-seda >}} con 
+actividades locales para mujeres viajeras. 
 
 ### 8\. ¿Y para el último trimestre del año?
 
-En la última parte del año esperamos admirar los mercadillos navideños de [Hamburgo](https://etheriamagazine.com/2020/02/24/que-ver-hacer-fin-de-semana-hamburgo-alemania/) 
-y **Lübeck**, considerada la ciudad más bonita de Alemania, asistir a un concierto de 
-música clásica en Viena, y celebrar el fin de año en Dubái. ¡Ya se puede ir largando el 
-virus que tenemos mucho trabajo! 
+En la última parte del año esperamos admirar los mercadillos navideños de {{< reflink 
+path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}} y **Lübeck**, 
+considerada la ciudad más bonita de Alemania, asistir a un concierto de música clásica 
+en Viena, y celebrar el fin de año en Dubái. ¡Ya se puede ir largando el virus que 
+tenemos mucho trabajo! 
 
 ![rose serrano, travel with rose, agencias de viajes para mujeres](https://fotos.etheriamagazine.com/2019/02/Rose-serrano-mujeres-viajeras.jpg "Rose Serrano en India.")
 

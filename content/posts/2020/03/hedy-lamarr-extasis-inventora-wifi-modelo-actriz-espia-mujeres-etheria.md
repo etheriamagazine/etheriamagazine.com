@@ -1,7 +1,7 @@
 ---
 title: "Hedy Lamarr, inventora del wifi y protagonista del primer orgasmo (fingido) del cine"
 date: 2020-03-30
-coverImage: https://fotos.etheriamagazine.com/2020/03/biografia-mujeres-inventoras-Hedy-Lamar.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/biografia-mujeres-inventoras-Hedy-Lamar.jpg
 categories: 
   - historias
   - mujeres-top
@@ -172,13 +172,13 @@ atención de Etheria Magazine… ¿O no?
 
 **También te puede interesar:** 
 
-[María Andresa Casamayor, la aragonesa que soñaba con 
-números](https://etheriamagazine.com/2020/12/21/maria-andresa-casamayor-primera-mujer-en-espana-libro-ciencia/) 
+{{< reflink 
+path=posts/2020/12/maria-andresa-casamayor-primera-mujer-en-espana-libro-ciencia >}} 
 
-[Ada Coleman y María Dolors Boadas, referentes de la 
-iguald](https://etheriamagazine.com/2020/05/12/mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas/)[a](https://etheriamagazine.com/2020/05/12/mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas/)[d 
-en la 
-mixología](https://etheriamagazine.com/2020/05/12/mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas/) 
+{{< reflink 
+path=posts/2020/05/mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas >}}{{< 
+reflink path=posts/2020/05/mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas 
+>}}{{< reflink 
+path=posts/2020/05/mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas >}} 
 
-[La “pasión india” de Anita Delgado: una vida de 
-película](https://etheriamagazine.com/2020/04/13/la-pasion-india-de-anita-delgado-libros-viajes/)
+{{< reflink path=posts/2020/04/la-pasion-india-de-anita-delgado-libros-viajes >}}

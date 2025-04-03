@@ -1,7 +1,7 @@
 ---
 title: "Nantes con amigas, descubrid la ciudad extraordinaria que soñó Julio Verne"
 date: 2019-08-29
-coverImage: https://fotos.etheriamagazine.com/2019/08/viaje-nantes-elefante.jpg
+cover: https://fotos.etheriamagazine.com/2019/08/viaje-nantes-elefante.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -97,11 +97,11 @@ ciudad con la que cualquier artista soñaría:
 
 1\. [El castillo de los duques de Bretaña](#castillo-duques-bretana). 2\. [La catedral 
 de San Pedro y San Pablo](#catedral-san-pedro). 3\. [De compras por el Pasaje 
-Pommeraye](#compras-pasaje-pommeraye). 4\. [“Le Nid”, el mirador](#le-nid). 5\. [Memorial 
-de la Abolición de la Esclavitud](#abolicion-esclavitud). 6\. [Mercado de 
+Pommeraye](#compras-pasaje-pommeraye). 4\. [“Le Nid”, el mirador](#le-nid). 5\. 
+[Memorial de la Abolición de la Esclavitud](#abolicion-esclavitud). 6\. [Mercado de 
 Talensac](#mercado-talensac). 7\. [Itinerario Estuaire](#estuaire). 8\. [Museo 
-d’Arts](#museo-arts). 9\. [Los Anillos de Daniel Buren](#anillos-daniel-buren). 10\. [Museo 
-de Julio Verne](#museo-julio-verne). 
+d’Arts](#museo-arts). 9\. [Los Anillos de Daniel Buren](#anillos-daniel-buren). 10\. 
+[Museo de Julio Verne](#museo-julio-verne). 
 
 ### 1\. El espectacular castillo de los duques de Bretaña.
 
@@ -219,15 +219,13 @@ octubre.
 
 ##### Más información
 
-[www.levoyageanantes.fr](http://www.levoyageanantes.fr) [www.nantes-tourisme.com](http://www.nantes-tourisme.com) 
+[www.levoyageanantes.fr](http://www.levoyageanantes.fr) 
+[www.nantes-tourisme.com](http://www.nantes-tourisme.com) 
 
 ### También te puede interesar:
 
-[10 viajes para disfrutar de la buena vida en 
-Francia](https://etheriamagazine.com/2020/09/02/mejores-destinos-para-viajar-en-francia/) 
+{{< reflink path=posts/2020/09/mejores-destinos-para-viajar-en-francia >}} 
 
-[48 horas en… La Rochelle y la isla de 
-Ré](https://etheriamagazine.com/2018/09/18/guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re/) 
+{{< reflink path=posts/2018/09/guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re >}} 
 
-[Planes en París si viajas 
-sola](https://etheriamagazine.com/2019/05/15/viajar-sola-que-ver-paris/)
+{{< reflink path=posts/2019/05/viajar-sola-que-ver-paris >}}

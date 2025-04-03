@@ -1,7 +1,7 @@
 ---
 title: "Getxo en familia: 22 planes y 4 visitas divertidas"
 date: 2023-05-29
-coverImage: https://fotos.etheriamagazine.com/2023/05/getxo-water-bikers.jpg
+cover: https://fotos.etheriamagazine.com/2023/05/getxo-water-bikers.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Getxo es uno de los mejores destinos familiares de la costa de Bizkaia, un éxito seguro 
-cuando se trata de planear un viaje con nuestros seres queridos. Estamos convencidas de 
-que después de leer estas propuestas, vas a querer organizar tus vacaciones al estilo 
-vasco para disfrutar a lo grande. 
+**Getxo es uno de los mejores destinos familiares de la costa de Bizkaia, un éxito 
+seguro cuando se trata de planear un viaje con nuestros seres queridos. Estamos 
+convencidas de que después de leer estas propuestas, vas a querer organizar tus 
+vacaciones al estilo vasco para disfrutar a lo grande.** 
 
 ![Visita guiada en Puerto Viejo.](https://fotos.etheriamagazine.com/2023/05/Visita-Puerto-Viejo.jpg "Visita guiada en Puerto Viejo.")
 
@@ -166,12 +166,12 @@ comiendo pintxos.
 ### 3\. Navegar por la ría
 
 Con la brisa marina y con escaso riesgo de marearse por aquello de navegar por la ría y 
-el estuario, el [Bote Tour](https://www.getxo.eus/es/turismo/que-hacer/bote-tours) [](https://www.getxo.eus/es/turismo/que-hacer/bote-tours)es 
-una de las actividades más solicitadas por las familias. Hasta las mascotas lo 
-disfrutarán porque también pueden viajar asomándose a los emblemas arquitectónicos y 
-naturales que señalan las márgenes de la ría. Precio de Getxo-Portugalete, 2 €/adulto y 
-1 € hasta los 3 años, pero consulta también otros recorridos. Nuestros amigos peludos 
-viajan por 2 €. 
+el estuario, el [Bote Tour](https://www.getxo.eus/es/turismo/que-hacer/bote-tours) 
+[](https://www.getxo.eus/es/turismo/que-hacer/bote-tours)es una de las actividades más 
+solicitadas por las familias. Hasta las mascotas lo disfrutarán porque también pueden 
+viajar asomándose a los emblemas arquitectónicos y naturales que señalan las márgenes de 
+la ría. Precio de Getxo-Portugalete, 2 €/adulto y 1 € hasta los 3 años, pero consulta 
+también otros recorridos. Nuestros amigos peludos viajan por 2 €. 
 
 ![Bote Tours, una actividad divertida en Getxo](https://fotos.etheriamagazine.com/2023/05/getxo-bote-tours.jpg "Bote Tour, una propuesta para navegar por la ría.")
 
@@ -327,9 +327,10 @@ la pasión por el mundo de la hípica brota en alguno de los vuestros!
 ### 17\. Ruta en taxi  
 
 La gente de Getxo es abierta y hospitalaria, tanto más si es un recorrido guiado por 
-quienes mejor conocen cada rincón urbano: los taxistas. Apuntaos a un [taxitour](https://www.getxo.eus/es/turismo/que-hacer/getxo-taxi) 
-(50 € por vehículo, hasta 4 personas) para realizar un itinerario que os llevará a los 
-lugares más emblemáticos del municipio durante una hora. 
+quienes mejor conocen cada rincón urbano: los taxistas. Apuntaos a un 
+[taxitour](https://www.getxo.eus/es/turismo/que-hacer/getxo-taxi) (50 € por vehículo, 
+hasta 4 personas) para realizar un itinerario que os llevará a los lugares más 
+emblemáticos del municipio durante una hora. 
 
 ### 18\. Comprar un souvenir en Getxo
 
@@ -349,14 +350,14 @@ La [oferta gastronómica de
 Getxo](https://www.getxo.eus/DocsPublic/turismo/Restaurantes.pdf) es amplia y variada, 
 así como asequible. Algunos de sus establecimientos forman parte del [Club de Turismo 
 Familiar de Euskadi](https://turismo.euskadi.eus/planes-en-familia/) y cuentan con 
-cambiadores en los baños, tronas, vajilla y raciones infantiles. En algunos, como el [restaurante 
-La Ola,](https://www.laolagetxo.com/) situado frente a la **playa de Ereaga**, incluso 
-aceptan mascotas. 
+cambiadores en los baños, tronas, vajilla y raciones infantiles. En algunos, como el 
+[restaurante La Ola,](https://www.laolagetxo.com/) situado frente a la **playa de 
+Ereaga**, incluso aceptan mascotas. 
 
-📌 Combinad las actividades familiares con una comida en el restaurante [](https://fangalokastyle.com/)[Fangaloka 
-Style](https://fangalokastyle.com/). Apenas a 500 metros de la **playa de 
-Gorrondatxe/Azkorri**, os esperan sus mesas distribuidas para acomodar grupos y con área 
-de juegos. 
+📌 Combinad las actividades familiares con una comida en el restaurante 
+[](https://fangalokastyle.com/)[Fangaloka Style](https://fangalokastyle.com/). Apenas a 
+500 metros de la **playa de Gorrondatxe/Azkorri**, os esperan sus mesas distribuidas 
+para acomodar grupos y con área de juegos. 
 
 📌 Saborear el placer del buen comer, al estilo vasco, también es posible en familia, 
 basta con visitar los restaurantes del [Club Euskadi 
@@ -409,16 +410,14 @@ Tamarises](https://www.petitpalacetamarises.com/es/) ofrece habitaciones para cu
 personas con literas y apartamentos que aceptan incluso mascotas. 
 
 En Getxo saben ponerlo fácil a la hora de viajar en familia, por eso algunos de sus 
-hoteles cuentan con un paquete de estancia de dos noches (tres noches si es en verano), [GetxHotel,](https://www.getxo.eus/es/turismo/descubre-getxo/Promocion-GetxHotel) 
-en el que regalan un recorrido turístico de bienvenida a elegir entre varias visitas. 
+hoteles cuentan con un paquete de estancia de dos noches (tres noches si es en verano), 
+[GetxHotel,](https://www.getxo.eus/es/turismo/descubre-getxo/Promocion-GetxHotel) en el 
+que regalan un recorrido turístico de bienvenida a elegir entre varias visitas. 
 
 **Además de planes familiares en Getxo también puedes...** 
 
-[Getxo a bocados, una cita exquisita con el 
-paladar](https://etheriamagazine.com/2023/03/30/que-donde-comer-getxo/). 
+{{< reflink path=posts/2023/03/que-donde-comer-getxo >}}. 
 
-[Descubre el Getxo más cultural, 15 lugares imprescindibles en tu 
-agenda](https://etheriamagazine.com/2022/10/10/que-ver-en-getxo/). 
+{{< reflink path=posts/2022/10/que-ver-en-getxo >}}. 
 
-[Getxo, la escapada marinera con mejor rollo de 
-Bizkaia](https://etheriamagazine.com/2022/07/20/que-ver-getxo-visitas-marineras/).
+{{< reflink path=posts/2022/07/que-ver-getxo-visitas-marineras >}}.

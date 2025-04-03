@@ -1,7 +1,7 @@
 ---
 title: "Valle del Côa. 8 experiencias en el corazón de Portugal"
 date: 2020-07-17
-coverImage: https://fotos.etheriamagazine.com/2020/07/pueblos-frontera-portugal-faia-brava.jpg
+cover: https://fotos.etheriamagazine.com/2020/07/pueblos-frontera-portugal-faia-brava.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-En pleno corazón de Portugal se puede descubrir una de las fronteras más antiguas del 
+**En pleno corazón de Portugal se puede descubrir una de las fronteras más antiguas del 
 mundo, la que marca el río Côa, y un puñado de aldeas históricas cargadas de encanto. 
 Además, habrá momentos en los que te sientas en un safari africano. ¿Nos acompañas a 
-recorrer esta línea fronteriza olvidada? 
+recorrer esta línea fronteriza olvidada?** 
 
 ![ruta valle coa, aldeas historicas, rutas Portugal](https://fotos.etheriamagazine.com/2020/07/ruta-aldeas-historicas-portugal.jpg "Mafalda Nicolau de Almeida y Joao, propietarios de Fly Camp.")
 
@@ -169,11 +169,8 @@ Más información en [Turismo de Portugal.](https://www.visitportugal.com/es)
 
 ### También te puede interesar:
 
-[9 planes en familia en el Centro de 
-Portugal](https://etheriamagazine.com/2019/06/28/planes-divertidos-viajes-familia-portugal/) 
+{{< reflink path=posts/2019/06/planes-divertidos-viajes-familia-portugal >}} 
 
-[8 visitas originales en Lisboa que (quizá) te quedan por 
-hacer](https://etheriamagazine.com/2021/10/27/8-visitas-originales-en-lisboa/) 
+{{< reflink path=posts/2021/10/8-visitas-originales-en-lisboa >}} 
 
-[Algarve con amigas: 6 experiencias que no puedes 
-perderte](https://etheriamagazine.com/2021/10/07/planes-imprescindibles-algarve-con-amigas/)
+{{< reflink path=posts/2021/10/planes-imprescindibles-algarve-con-amigas >}}

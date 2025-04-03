@@ -1,7 +1,7 @@
 ---
 title: "Miel y queso, el maridaje perfecto que debes saborear en Tenerife"
 date: 2025-02-20
-coverImage: https://fotos.etheriamagazine.com/2025/02/tenerife-miel-especialidades.jpg
+cover: https://fotos.etheriamagazine.com/2025/02/tenerife-miel-especialidades.jpg
 categories: 
   - gourmet
 destino: 
@@ -117,11 +117,8 @@ productos tinerfeños.
 
 **También en Etheria Magazine:** 
 
-[Macizo de Anaga, los secretos del Tenerife más 
-rural](https://etheriamagazine.com/2024/04/10/guia-macizo-de-anaga/) 
+{{< reflink path=posts/2024/04/guia-macizo-de-anaga >}} 
 
-[Qué llevar en la maleta en un viaje a 
-Tenerife](https://etheriamagazine.com/2023/05/26/que-llevar-en-la-maleta-tenerife/) 
+{{< reflink path=posts/2023/05/que-llevar-en-la-maleta-tenerife >}} 
 
-[Guía esencial de Tenerife: 15 imprescindibles en tus 
-vacaciones](https://etheriamagazine.com/2023/01/18/que-ver-en-tenerife/)
+{{< reflink path=posts/2023/01/que-ver-en-tenerife >}}

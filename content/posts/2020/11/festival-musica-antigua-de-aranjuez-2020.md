@@ -1,7 +1,7 @@
 ---
 title: "'Música, gastronomía y paisaje de otoño' en el Festival Música Antigua de Aranjuez"
 date: 2020-11-16
-coverImage: https://fotos.etheriamagazine.com/2020/11/festival-musica-antigua-aranjuez-Apotheose.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/festival-musica-antigua-aranjuez-Apotheose.jpg
 categories: 
   - ocio
 destino: 
@@ -112,8 +112,6 @@ viernes, de 19 a 21; sábados, de 12 a 14 y de 18 a 21; domingos, de 12 a 14.
 
 #### También te puede interesar
 
-• [15 escapadas a menos de 99 kilómetros de 
-Madrid.](https://etheriamagazine.com/2020/05/20/15-escapadas-a-menos-de-99-km-de-madrid/) 
+- {{< reflink path=posts/2020/05/15-escapadas-a-menos-de-99-km-de-madrid >}} 
 
-• [10 grandes restaurantes para saborear lo mejor de 
-Toledo](https://etheriamagazine.com/2020/11/03/comer-en-toledo-mejores-restaurantes-bares-tapas/).
+- {{< reflink path=posts/2020/11/comer-en-toledo-mejores-restaurantes-bares-tapas >}}.

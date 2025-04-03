@@ -1,7 +1,7 @@
 ---
 title: "10 productos para un neceser de viaje seguro y con estilo"
 date: 2020-05-25
-coverImage: https://fotos.etheriamagazine.com/2020/05/neceser-de-viaje-mujer.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/neceser-de-viaje-mujer.jpg
 destino: 
   - Europa
 authors: 
@@ -149,11 +149,10 @@ Serum](https://www.xlash.es/serum-pestanas/6-xlash-pro-6ml-serum-crece-pestanas.
 
 ### También te puede interesar:
 
-[10 neceseres para mujeres 
-viajeras](https://etheriamagazine.com/2019/10/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras/) 
+{{< reflink path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}} 
 
-[Descubre los 10 imprescindibles que debes llevar a un 
-pícnic](https://etheriamagazine.com/2020/09/03/que-llevar-picnic-en-el-campo/) 
+{{< reflink path=posts/2020/09/que-llevar-picnic-en-el-campo >}} 
 
-[Descubre en qué consisten los masajes más 
-habituales](https://etheriamagazine.com/2020/05/07/masajes-exoticos-que-hacen-viajar-a-india-bali-tailandia-japon-polinesia/)
+{{< reflink 
+path=posts/2020/05/masajes-exoticos-que-hacen-viajar-a-india-bali-tailandia-japon-polinesia 
+>}}

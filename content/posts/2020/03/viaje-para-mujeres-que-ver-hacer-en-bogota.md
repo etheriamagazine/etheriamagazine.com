@@ -1,7 +1,7 @@
 ---
 title: "Bogotá no es fea, es que no la sabes mirar"
 date: 2020-03-12
-coverImage: https://fotos.etheriamagazine.com/2020/03/viaje-bogota-ruta-gastro.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/viaje-bogota-ruta-gastro.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,12 @@ authors:
   - Kelu Robles
 ---
 
-Bogotá se está convirtiendo en mucho más que una ciudad de paso, por eso, desde Etheria 
-Magazine echamos un pulso a aquellas voces que la llaman fea. Porque a Bogotá no solo 
-hay que mirarla, hay que experimentarla con todos los sentidos: desde sus vertiginosos 
-cerros, hasta el micromundo de sus rumbeaderos y sus museos de renombre internacional. 
-Tenemos las pruebas para demostrar que merece, por sí sola, que crucemos 'el Charco'. 
+**Bogotá se está convirtiendo en mucho más que una ciudad de paso, por eso, desde 
+Etheria Magazine echamos un pulso a aquellas voces que la llaman fea. Porque a Bogotá no 
+solo hay que mirarla, hay que experimentarla con todos los sentidos: desde sus 
+vertiginosos cerros, hasta el micromundo de sus rumbeaderos y sus museos de renombre 
+internacional. Tenemos las pruebas para demostrar que merece, por sí sola, que crucemos 
+'el Charco'.** 
 
 ![El barrio fundacional de La Candelaria acoge el grafiti más famoso de la ciudad.](https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-bogota.jpg "El barrio fundacional de La Candelaria acoge el grafiti más famoso de la ciudad. © Procolombia")
 
@@ -238,11 +239,10 @@ aburrirse en Bogotá?
 
 ### También te puede interesar...
 
-[10 parques naturales de América Latina con paisajes 
-increíbles](https://etheriamagazine.com/2021/10/21/parques-naturales-de-america-latina/). 
+{{< reflink path=posts/2021/10/parques-naturales-de-america-latina >}}. 
 
-[Toca el cielo con las manos en el lago Titicaca y la Isla del 
-Sol](https://etheriamagazine.com/2019/12/20/que-ver-en-lago-titicaca-isla-del-sol-copacabana-bolivia/). 
+{{< reflink path=posts/2019/12/que-ver-en-lago-titicaca-isla-del-sol-copacabana-bolivia 
+>}}. 
 
-[Ruta de 3 días por el Salar de Uyuni (y advertencias a tener en 
-cuenta)](https://etheriamagazine.com/2019/05/24/ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta/).
+{{< reflink 
+path=posts/2019/05/ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta >}}.

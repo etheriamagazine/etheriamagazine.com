@@ -1,7 +1,7 @@
 ---
 title: "Ruta en autobús por las bodegas de Mendoza (Argentina)"
 date: 2019-04-26
-coverImage: https://fotos.etheriamagazine.com/2019/04/Mendoza-bodega-Cruzat.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/Mendoza-bodega-Cruzat.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-La mejor manera de recorrer una región vinícola es en autobús, sin necesidad de coger el 
-coche tras las catas. La escritora Elisabeth G. Iborra, nuestra experta en viajar sola, 
-ha probado esta ruta vitivinícola que permite visitar 27 bodegas en 6 días en la región 
-argentina de Mendoza. ¡Salud! 
+**La mejor manera de recorrer una región vinícola es en autobús, sin necesidad de coger 
+el coche tras las catas. La escritora Elisabeth G. Iborra, nuestra experta en viajar 
+sola, ha probado esta ruta vitivinícola que permite visitar 27 bodegas en 6 días en la 
+región argentina de Mendoza. ¡Salud!** 
 
 ![Mujer bebiendo vino](https://fotos.etheriamagazine.com/2019/04/Mendoza-bodegas-mujer.jpg "Degustando una copa de vino. © Alfonso Scarpa")
 
@@ -246,11 +246,8 @@ Más información de la zona en [Mendoza Turismo](http://www.turismo.mendoza.gov
 
 ### También te puede interesar:
 
-[Lo que unió al Che Guevara y Manuel de Falla en Alta Gracia 
-(Argentina)](https://etheriamagazine.com/2019/02/20/che-guevara-manuel-de-falla-en-alta-gracia-argentina/) 
+{{< reflink path=posts/2019/02/che-guevara-manuel-de-falla-en-alta-gracia-argentina >}} 
 
-[Un paseo por la Belle Époque de Buenos 
-Aires](https://etheriamagazine.com/2019/07/05/que-ver-buenos-aires-belle-epoque-viajar-sola/) 
+{{< reflink path=posts/2019/07/que-ver-buenos-aires-belle-epoque-viajar-sola >}} 
 
-[10 parques naturales de América Latina con paisajes 
-increíbles](https://etheriamagazine.com/2021/10/21/parques-naturales-de-america-latina/)
+{{< reflink path=posts/2021/10/parques-naturales-de-america-latina >}}

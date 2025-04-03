@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en la Mezquita-Catedral de Córdoba: 10 rincones imprescindibles"
 date: 2022-08-12
-coverImage: https://fotos.etheriamagazine.com/2022/08/mezquita-cordoba-arcos-cruz.jpg
+cover: https://fotos.etheriamagazine.com/2022/08/mezquita-cordoba-arcos-cruz.jpg
 categories: 
   - inspiración
   - ocio
@@ -169,7 +169,8 @@ destacan sus conocidas campanas, cada una con un nombre, que siguen tocando cada
 **¿Cómo comprar las entradas de la Mezquita de Córdoba?** 
 
 La mejor forma de organizar la visita es comprar previamente las entradas de forma 
-online en la [web](http://mezquita-catedraldecordoba.es)[,](https://mezquita-catedraldecordoba.es/) 
+online en la 
+[web](http://mezquita-catedraldecordoba.es)[,](https://mezquita-catedraldecordoba.es/) 
 así evitarás esperas, colas e imprevistos. 
 
 **¿Cuánto cuestan las entradas?** 
@@ -187,15 +188,13 @@ febrero.
 **¿Cómo reservar una visita guiada?** 
 
 Puedes contratar un guía en la Asociación Profesional de Informadores Turísticos de 
-Córdoba a través de su [web](http://www.guiasdecordoba.es). Civitatis también ofrece una [visita 
-guiada por la Mezquita de 
+Córdoba a través de su [web](http://www.guiasdecordoba.es). Civitatis también ofrece una 
+[visita guiada por la Mezquita de 
 Córdoba](https://www.civitatis.com/es/cordoba/visita-guiada-mezquita-cordoba/?aid=10211) 
 que puedes reservar con antelación. 
 
 ## También en Córdoba
 
-[Visita de Medina Azahara, la excursión imprescindible en 
-Córdoba](https://etheriamagazine.com/2022/03/25/visita-medina-azahara-cordoba/) 
+{{< reflink path=posts/2022/03/visita-medina-azahara-cordoba >}} 
 
-[Córdoba con amigas: 10 planes para una escapada 
-perfecta](https://etheriamagazine.com/2021/08/25/planes-que-hacer-en-cordoba-con-amigas/)
+{{< reflink path=posts/2021/08/planes-que-hacer-en-cordoba-con-amigas >}}

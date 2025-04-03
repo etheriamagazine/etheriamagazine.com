@@ -1,7 +1,7 @@
 ---
 title: "Irlanda del Norte: 6 visitas imprescindibles y 2 lugares secretos"
 date: 2021-05-31
-coverImage: https://fotos.etheriamagazine.com/2020/08/glenariff-forest-park.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/glenariff-forest-park.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -33,10 +33,11 @@ euros en el aeropuerto pero en Irlanda del Norte necesitarás libras esterlinas.
 
 ## 1\. Belfast
 
-Empezamos este recorrido en [Belfast](https://etheriamagazine.com/2019/11/04/que-ver-belfast-del-punk-al-diseno/), 
-capital de Irlanda del Norte, que será la visita más urbana de todo el recorrido. Te 
-aconsejamos que dediques, al menos, un día completo a recorrerla y que te quedes a 
-dormir aquí la primera noche. Una de las visitas imprescindibles en este lugar es al [Titanic 
+Empezamos este recorrido en {{< reflink 
+path=posts/2019/11/que-ver-belfast-del-punk-al-diseno >}}, capital de Irlanda del Norte, 
+que será la visita más urbana de todo el recorrido. Te aconsejamos que dediques, al 
+menos, un día completo a recorrerla y que te quedes a dormir aquí la primera noche. Una 
+de las visitas imprescindibles en este lugar es al [Titanic 
 Belfast](https://www.civitatis.com/es/belfast/entrada-titanic-belfast/?aid=10211) 
 (entrada: desde 20 €), un moderno centro de interpretación que recuerda la tragedia del 
 hundimiento del conocido crucero. Necesitarás más de una hora para verlo porque tiene 6 
@@ -46,12 +47,12 @@ etc.
 ![grafitis belfast](https://fotos.etheriamagazine.com/2020/08/ruta-grafitis-belfast.jpg "Ruta de los Grafitis en Belfast. © Pepa G./ Etheria Magazine")
 
 Además de recordar esta historia, también es muy recomendable pasear por la ciudad para 
-ver su monumental Ayuntamiento, el mercado de San Jorge, el Jardín Botánico, seguir la [ruta 
-de la música tradicional](https://www.belfasttradtrail.com/), la ruta de grafitis, etc. 
-Una original forma de hacer una visita guiada es contratar un **Black Taxi Tour**, que 
-es un servicio de taxis donde el conductor te lleva de paseo por la ciudad. Si tu nivel 
-de inglés no es muy bueno, no te lo aconsejamos. En ese caso, lo más recomendable es 
-apuntarse a un [free tour en español que recorra 
+ver su monumental Ayuntamiento, el mercado de San Jorge, el Jardín Botánico, seguir la 
+[ruta de la música tradicional](https://www.belfasttradtrail.com/), la ruta de grafitis, 
+etc. Una original forma de hacer una visita guiada es contratar un **Black Taxi Tour**, 
+que es un servicio de taxis donde el conductor te lleva de paseo por la ciudad. Si tu 
+nivel de inglés no es muy bueno, no te lo aconsejamos. En ese caso, lo más recomendable 
+es apuntarse a un [free tour en español que recorra 
 Belfast](https://www.civitatis.com/es/belfast/free-tour-belfast/?aid=10211), o alguno 
 temático como el [Belfast 
 político](https://www.civitatis.com/es/belfast/tour-belfast-politico/?aid=10211). Hay 
@@ -73,8 +74,8 @@ Pero a este parque no le hubiese hecho falta la televisión para destacar porque
 numerosas rutas donde disfrutar de su belleza y de su calma. En fin de semana hay muchos 
 irlandeses de pícnic, pero el resto del tiempo es muy tranquilo. 
 
-\*Sigue leyendo otras [localizaciones de Juego de Tronos en Irlanda del 
-Norte](https://etheriamagazine.com/2018/07/02/juego-de-tronos-en-irlanda-del-norte/). 
+\*Sigue leyendo otras {{< reflink 
+path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte >}}. 
 
 ![glenariff, ruta irlanda](https://fotos.etheriamagazine.com/2020/08/ruta-glenariff-irlanda.jpg "Parque Forestal de Glenariff. © Pepa G./ Etheria Magazine")
 
@@ -193,10 +194,14 @@ nivel de inglés, puedes plantearte este viaje como una escapada a Belfast con
 excursiones en español desde esta ciudad. También es una idea estupenda, conocerás gente 
 si viajas sola y disfrutarás por la noche del ambiente urbano y de sus muchos pubs. 
 
-• [Excursión desde Belfast a la Calzada del 
+- [Excursión desde Belfast a la Calzada del 
 Gigante](https://www.civitatis.com/es/belfast/excursion-calzada-gigante/?aid=10211) con 
-paradas intermedias. Desde unos 34 euros. • [Tour por los escenarios de Juego de 
+paradas intermedias. Desde unos 34 euros. 
+
+- [Tour por los escenarios de Juego de 
 Tronos](https://www.civitatis.com/es/belfast/tour-juego-tronos-calzada-gigante/?aid=10211). 
-Desde 29 euros. • [Tour de 2 días con todo organizado, visitas a Belfast, Calzada del 
+Desde 29 euros. 
+
+- [Tour de 2 días con todo organizado, visitas a Belfast, Calzada del 
 Gigante](https://www.civitatis.com/es/belfast/tour-2-dias-irlanda-norte/?aid=10211), 
 etc. Unos 290 €, con una noche de alojamiento, entradas y algunas comidas.

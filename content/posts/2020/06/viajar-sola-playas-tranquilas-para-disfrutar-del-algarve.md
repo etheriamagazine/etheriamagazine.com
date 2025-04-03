@@ -1,7 +1,7 @@
 ---
 title: "Playas del Algarve, descubre sus tesoros menos masificados"
 date: 2020-06-19
-coverImage: https://fotos.etheriamagazine.com/2020/06/playas-Algarve-Armona.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/playas-Algarve-Armona.jpg
 categories: 
   - viajar-sola
   - ocio
@@ -130,14 +130,10 @@ Algarve](https://www.visitalgarve.pt/es/Default.aspx)**.**
 
 ### También te puede interesar...
 
-[18 experiencias en el Algarve para mujeres 
-viajeras](https://etheriamagazine.com/2020/08/07/18-experiencias-si-viajas-sola-al-algarve/). 
+{{< reflink path=posts/2020/08/18-experiencias-si-viajas-sola-al-algarve >}}. 
 
-[Andalucía en autocaravana y consejos prácticos para 
-novatos](https://etheriamagazine.com/2021/04/07/consejos-rutas-andalucia-en-autocaravana/) 
+{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}} 
 
-[Huelva con niños: 6 planes para aprovechar el viaje al 
-máximo](https://etheriamagazine.com/2021/06/21/planes-en-huelva-con-ninos/). 
+{{< reflink path=posts/2021/06/planes-en-huelva-con-ninos >}}. 
 
-[Descubre la magia de la costa de 
-Huelva](https://etheriamagazine.com/2020/07/01/que-ver-hacer-costa-playas-huelva-donana/).
+{{< reflink path=posts/2020/07/que-ver-hacer-costa-playas-huelva-donana >}}.

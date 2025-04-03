@@ -1,7 +1,7 @@
 ---
 title: "Ruta del Vino de Arribes, energía femenina de alto voltaje"
 date: 2023-04-19
-coverImage: https://fotos.etheriamagazine.com/2023/04/Hato-Garabato-zamora.jpg
+cover: https://fotos.etheriamagazine.com/2023/04/Hato-Garabato-zamora.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Pepa G. Marín
 ---
 
-Teresa, Susana, Ángeles, Mar, Olvido, Julia, Loli, Noelia, Liliana, Isabel... la energía 
-de estas mujeres impulsa con fuerza el turismo en la Ruta del Vino de Arribes. Como si 
-de una frenética savia se tratara, su ilusión, buen hacer y entrega llegan a muchos 
-rincones de este territorio que, como muchos otros, se enfrenta al estigma de la España 
-vaciada. Hoy día, son la cara visible de pequeñas empresas que configuran una propuesta 
-idónea para viajeras que busquen gastronomía, cultura y naturaleza. 
+**Teresa, Susana, Ángeles, Mar, Olvido, Julia, Loli, Noelia, Liliana, Isabel... la 
+energía de estas mujeres impulsa con fuerza el turismo en la Ruta del Vino de Arribes. 
+Como si de una frenética savia se tratara, su ilusión, buen hacer y entrega llegan a 
+muchos rincones de este territorio que, como muchos otros, se enfrenta al estigma de la 
+España vaciada. Hoy día, son la cara visible de pequeñas empresas que configuran una 
+propuesta idónea para viajeras que busquen gastronomía, cultura y naturaleza.** 
 
 ![Viñedos de El Hato y el Garabato.](https://fotos.etheriamagazine.com/2023/04/Hato-Garabato-zamora.jpg "Viñedos de El Hato y el Garabato.")
 
@@ -273,8 +273,6 @@ mejor sabor de boca, y **La Tinaja**, en el pueblo de Sobradillo.
 
 **Entre las 36 Rutas del Vino de España, también os pueden interesar:** 
 
-[Ruta del Vino de Toro, secretos abrazados por el 
-Duero](https://etheriamagazine.com/2022/09/21/planes-en-ruta-vino-toro/). 
+{{< reflink path=posts/2022/09/planes-en-ruta-vino-toro >}}. 
 
-[Ruta del Vino de la Sierra de Francia, un brindis con amigas en 
-Salamanca](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/).
+{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}.

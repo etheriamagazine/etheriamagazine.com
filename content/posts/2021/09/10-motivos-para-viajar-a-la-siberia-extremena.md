@@ -1,7 +1,7 @@
 ---
 title: "Elige uno de estos 10 motivos para viajar a La Siberia extremeña"
 date: 2021-09-26
-coverImage: https://fotos.etheriamagazine.com/2021/09/miradores-Reserva-Biosfera-La-Siberia.jpg
+cover: https://fotos.etheriamagazine.com/2021/09/miradores-Reserva-Biosfera-La-Siberia.jpg
 categories: 
   - viajar-en-familia
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Pepa G. Marín
 ---
 
-Once pueblos rodeados de montañas, bosques, dehesas, embalses, ríos y olivares, una 
+**Once pueblos rodeados de montañas, bosques, dehesas, embalses, ríos y olivares, una 
 declaración de Reserva de la Biosfera, tradiciones arraigadas, una cocina exquisita, un 
 cielo limpio donde brillan las estrellas y muchos motivos más justifican una visita a La 
 Siberia extremeña. Elige tu razón favorita y sube al coche porque nos vamos a la 
-provincia de Badajoz. 
+provincia de Badajoz.** 
 
 ![Bosque de Ribera Guadalupejo, en la Reserva de la Biosfera La Siberia.](https://fotos.etheriamagazine.com/2021/09/bosque-ribera-Reserva-Biosfera-La-Siberia.jpg "Bosque de Ribera Guadalupejo, en la Reserva de la Biosfera La Siberia.")
 
@@ -91,9 +91,10 @@ migratorias que llegan del norte de Europa buscando un clima menos extremo.
 
 Que te envíen a “por setas” en La Siberia extremeña puede convertirse en una experiencia 
 muy divertida y suculenta. En esta Reserva de la Biosfera abundan e, incluso, se 
-organizan jornadas micológicas tan interesantes como [MYCOSFERA](http://www.mycosfera.es/), 
-en torno al níscalo, en el pueblo de Castilblanco. Consulta su programa porque hay un 
-montón de actividades, además de cocina en vivo, rutas y senderismo micológico, etc. 
+organizan jornadas micológicas tan interesantes como 
+[MYCOSFERA](http://www.mycosfera.es/), en torno al níscalo, en el pueblo de 
+Castilblanco. Consulta su programa porque hay un montón de actividades, además de cocina 
+en vivo, rutas y senderismo micológico, etc. 
 
 ![productos badajoz la siberia](https://fotos.etheriamagazine.com/2021/09/productos-La-Siberia-extremena.jpg "Quesos, embutido, miel, repostería... el pícnic perfecto.")
 
@@ -178,11 +179,10 @@ Fotos cedidas por La Siberia.
 
 **También te puede interesar…** 
 
-[Las Hurdes. Un paraíso extremeño suspendido en el 
-tiempo](https://etheriamagazine.com/2020/07/21/viajes-espana-las-hurdes-un-paraiso-extremeno/). 
+{{< reflink path=posts/2020/07/viajes-espana-las-hurdes-un-paraiso-extremeno >}}. 
 
-[Valle del Jerte, entre cerezas y piscinas 
-naturales](https://etheriamagazine.com/2020/06/17/viajes-por-espana-alle-del-jerte-piscinas-naturales-cerezas/). 
+{{< reflink 
+path=posts/2020/06/viajes-por-espana-alle-del-jerte-piscinas-naturales-cerezas >}}. 
 
-[8 imperdibles de 
-Cáceres](https://etheriamagazine.com/2020/05/26/escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica/).
+{{< reflink 
+path=posts/2020/05/escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica >}}.

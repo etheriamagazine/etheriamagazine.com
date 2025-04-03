@@ -1,7 +1,7 @@
 ---
 title: "Consejos de Sania Jelic para viajar sola por África del sur y del este"
 date: 2024-01-31
-coverImage: https://fotos.etheriamagazine.com/2024/01/sania-desierto-namibia-duna.jpg
+cover: https://fotos.etheriamagazine.com/2024/01/sania-desierto-namibia-duna.jpg
 categories: 
   - viajar-sola
   - mujeres-top
@@ -160,16 +160,15 @@ verlos.
 
 ### Otros consejos para viajar a África
 
-• Conviene leer sobre el país antes del viaje, informarse sobre la situación política y 
+- Conviene leer sobre el país antes del viaje, informarse sobre la situación política y 
 asegurarse de tener las vacunas correspondientes. Consulta la web del [Ministerio de 
 Asuntos 
 Exteriores](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Recomendaciones-de-viaje.aspx) 
 para evitar sorpresas. 
 
-• En cualquier caso, tened presente que viajar a África merece mucho la pena porque la 
+- En cualquier caso, tened presente que viajar a África merece mucho la pena porque la 
 experiencia africana te marca para siempre. 
 
 **También te puede interesar:** 
 
-[Hermanus, primera parada del viaje de Sania Jelic sola por 
-África](https://etheriamagazine.com/2024/01/17/hermanus-sania-jelic-viajar-sola-africa-sudafrica/)
+{{< reflink path=posts/2024/01/hermanus-sania-jelic-viajar-sola-africa-sudafrica >}}

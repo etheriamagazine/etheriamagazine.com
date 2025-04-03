@@ -1,7 +1,7 @@
 ---
 title: "'Viaje a la Alcarria', seguimos los pasos de Cela 20 años después de que nos dejara"
 date: 2021-02-01
-coverImage: https://fotos.etheriamagazine.com/2021/01/viaje-alcarria-cela-Brihuega.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/viaje-alcarria-cela-Brihuega.jpg
 destino: 
   - España
 authors: 
@@ -145,11 +145,8 @@ coche](http://turismoenguadalajara.es/documentos/RutadelViajealaAlcarria.pdf).
 
 ### También te puede interesar...
 
-[Respirar ‘a pulmón abierto’ en los Pueblos Negros de 
-Guadalajara](https://etheriamagazine.com/2019/05/06/viaje-en-coche-pueblos-negros-guadalajara/). 
+{{< reflink path=posts/2019/05/ruta-en-coche-pueblos-negros-guadalajara >}}. 
 
-[Escapada a Sigüenza: del pasado medieval a la Movida 
-madrileña](https://etheriamagazine.com/2020/12/14/que-ver-donde-comer-en-siguenza/) 
+{{< reflink path=posts/2020/12/que-ver-donde-comer-en-siguenza >}} 
 
-[11 escapadas de un día a 100 km o más de 
-Madrid](https://etheriamagazine.com/2020/06/02/11-escapadas-cercanas-a-dos-horas-de-madrid/).
+{{< reflink path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Sigüenza: del pasado medieval a la Movida madrileña"
 date: 2020-12-14
-coverImage: https://fotos.etheriamagazine.com/2020/12/parador-de-siguenza.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/parador-de-siguenza.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -57,8 +57,8 @@ Tormes**, con una barra llena de pinchos y raciones.
 ![panoramica de siguenza](https://fotos.etheriamagazine.com/2020/12/Siguenza-panoramica.jpg "Panorámica de Sigüenza. © Malaya at Panoramio")
 
 El café hay que tomarlo en una **terraza de la Alameda** para aprovechar los últimos 
-rayos del sol, evocando a algunos de aquellos que la pasearon como [Pardo 
-Bazán](https://etheriamagazine.com/2020/06/15/viaje-por-la-espana-de-las-grandes-escritoras-del-siglo-xx/), 
+rayos del sol, evocando a algunos de aquellos que la pasearon como {{< reflink 
+path=posts/2020/06/viaje-por-la-espana-de-las-grandes-escritoras-del-siglo-xx >}}, 
 Jovellanos o Garcilaso. Sin viajar tan atrás en el tiempo, también se vio de paseo por 
 la Alameda a Félix Rodríguez de la Fuente. Este naturalista escogió la **Hoz de 
 Pelegrina**, a pocos kilómetros de Sigüenza, para instalar uno de sus campamentos cuando 
@@ -168,8 +168,6 @@ generación tras generación.
 
 ### Te podría interesar
 
-[Respirar 'a pulmón abierto' en los pueblos negros de 
-Guadalajara.](https://etheriamagazine.com/2019/05/06/viaje-en-coche-pueblos-negros-guadalajara/) 
+{{< reflink path=posts/2019/05/ruta-en-coche-pueblos-negros-guadalajara >}} 
 
-[11 escapadas de un día a 100 kilómetros o más de 
-Madrid.](https://etheriamagazine.com/2020/06/02/11-escapadas-cercanas-a-dos-horas-de-madrid/)
+{{< reflink path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}}

@@ -1,7 +1,7 @@
 ---
 title: "Planes en Viena con amigas para vuestro uso y disfrute"
 date: 2022-07-07
-coverImage: https://fotos.etheriamagazine.com/2022/07/viena-Maria-Teresa-Platz.jpg
+cover: https://fotos.etheriamagazine.com/2022/07/viena-Maria-Teresa-Platz.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -226,17 +226,15 @@ viajar gratis en el trasporte público y obtener descuentos en museos y atraccio
 
 ##### 📍¿Dónde informarte de más datos prácticos para un viaje a Viena?
 
-Cualquier información necesaria para planificar vuestro viaje la encontraréis en la [web](https://www.wien.info/es) 
-oficial de **Turismo de Viena.** 
+Cualquier información necesaria para planificar vuestro viaje la encontraréis en la 
+[web](https://www.wien.info/es) oficial de **Turismo de Viena.** 
 
 ### Sigue leyendo sobre Viena y Austria
 
-[Viena, un viaje para compartir con tu 
-madre](https://etheriamagazine.com/2019/04/24/viajar-con-madres-que-ver-viena/). 
+{{< reflink path=posts/2019/04/viajar-con-madres-que-ver-viena >}}. 
 
-[Hallstatt, el pueblo más bonito del mundo a orillas de un 
-lago](https://etheriamagazine.com/2020/05/15/hallstatt-viaja-con-amigas-austria/). 
+{{< reflink path=posts/2020/05/hallstatt-viaja-con-amigas-austria >}}. 
 
-[Hedy Lamarr (nacida en Viena), protagonista del primer orgasmo (fingido) del cine e 
-inventora de la tecnología 
-wifi](https://etheriamagazine.com/2020/03/30/hedy-lamarr-extasis-inventora-wifi-modelo-actriz-espia-mujeres-etheria/)
+{{< reflink 
+path=posts/2020/03/hedy-lamarr-extasis-inventora-wifi-modelo-actriz-espia-mujeres-etheria 
+>}}

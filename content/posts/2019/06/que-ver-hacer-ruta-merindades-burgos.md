@@ -1,7 +1,7 @@
 ---
 title: "Ruta para desconectar en Las Merindades de Burgos"
 date: 2019-06-04
-coverImage: https://fotos.etheriamagazine.com/2019/05/ruta-merindades-ojo-guarena.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/ruta-merindades-ojo-guarena.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -69,16 +69,16 @@ Si configuras tu cámara de fotos con una larga exposición, captarás el efecto
 los riachuelos en la **Senda de las Cascadas**, con parada en el **Valle de la 
 Tobalina** y en **Orbaneja del Castillo**, un coqueto pueblo declarado Conjunto 
 Histórico. A media hora —en coche— se encuentra el misterioso esqueleto arquitectónico 
-que ha unido a los vecinos del **Valle del Manzanedo** con una misión: conservar el [monasterio 
-de Santa María de Rioseco](http://monasterioderioseco.com/), una joya artística 
-benedictina que ha sufrido diversos derribos e inundaciones. 
+que ha unido a los vecinos del **Valle del Manzanedo** con una misión: conservar el 
+[monasterio de Santa María de Rioseco](http://monasterioderioseco.com/), una joya 
+artística benedictina que ha sufrido diversos derribos e inundaciones. 
 
 ## De chiquitos y castillos
 
-Las empinadas y rústicas callejuelas caracterizan el centro de **Medina de Pomar**. El [castillo 
-de los Condestables de Castilla](http://www.medinadepomar.net/) también protagoniza su 
-casco histórico, pero no te dejes engañar por el aspecto militar del monumento, su 
-interior contiene delicadas decoraciones mudéjares. 
+Las empinadas y rústicas callejuelas caracterizan el centro de **Medina de Pomar**. El 
+[castillo de los Condestables de Castilla](http://www.medinadepomar.net/) también 
+protagoniza su casco histórico, pero no te dejes engañar por el aspecto militar del 
+monumento, su interior contiene delicadas decoraciones mudéjares. 
 
 ![El Castillo de los Condestables alberga el Museo de las Merindades.](https://fotos.etheriamagazine.com/2019/05/ruta-merindades-burgos-castillo.jpg "El castillo de los Condestables alberga el Museo de las Merindades. © KR")
 
@@ -183,8 +183,9 @@ Interesante gastronomía.
 
 ### También en Burgos...
 
-[Canteras de Hontoria-Cubillo, una visita a los orígenes de la Catedral de 
-Burgos](https://etheriamagazine.com/2021/08/30/visita-las-canteras-de-hontoria-cubillo-y-la-catedral-de-burgos/). 
+{{< reflink 
+path=posts/2021/08/visita-las-canteras-de-hontoria-cubillo-y-la-catedral-de-burgos >}}. 
 
-[Geoparque Las Loras, una cita sorprendente entre Burgos y 
-Palencia](https://etheriamagazine.com/2020/12/23/7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia/).
+{{< reflink 
+path=posts/2020/12/7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia 
+>}}.

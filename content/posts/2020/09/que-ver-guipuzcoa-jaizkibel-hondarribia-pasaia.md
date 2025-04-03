@@ -1,7 +1,7 @@
 ---
 title: "8 pasiones al pie del monte Jaizkibel en la costa de Guipúzcoa"
 date: 2020-09-08
-coverImage: https://fotos.etheriamagazine.com/2020/08/faro-cabo-higuer.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/faro-cabo-higuer.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -98,12 +98,12 @@ agua marina y de lluvia han labrado en sus areniscas como reto a la inmutabilida
 ## 5\. Villa Magalean, descanso fiel a la montaña
 
 Acogidas en las faldas de la montaña o acunadas entre brazos protectores –significado de 
-_magalean_ en euskera– es como nos sentiremos al traspasar el umbral de [Villa 
-Magalean](https://etheriamagazine.com/2019/12/03/hotel-villa-magalean-spa-restaurante-en-hondarribia/), 
-un hotel boutique que en apenas tres años se ha situado entre los lugares más deseados 
-de Hondarribia. Al pie del casco antiguo, es una encantadora villa vacacional vasca de 
-los años 50 que ha reconvertido sus luminosos espacios en rincones con encanto donde 
-reponer fuerzas en sus ocho amplias habitaciones. 
+_magalean_ en euskera– es como nos sentiremos al traspasar el umbral de {{< reflink 
+path=posts/2019/12/hotel-villa-magalean-spa-restaurante-en-hondarribia >}}, un hotel 
+boutique que en apenas tres años se ha situado entre los lugares más deseados de 
+Hondarribia. Al pie del casco antiguo, es una encantadora villa vacacional vasca de los 
+años 50 que ha reconvertido sus luminosos espacios en rincones con encanto donde reponer 
+fuerzas en sus ocho amplias habitaciones. 
 
 Un lugar donde encontrar el perfecto relax viajero en su spa o degustar una cuidada 
 gastronomía en el **gastrobar Mahasti**. Basada en productos de proximidad que le llegan 
@@ -180,11 +180,8 @@ auténtico galeón vasco.
 
 ### También te puede interesar:
 
-[Planes para un fin de semana en San Sebastián: seguro que no te 
-aburres](https://etheriamagazine.com/2021/04/01/que-ver-hacer-en-san-sebastian/) 
+{{< reflink path=posts/2021/04/que-ver-hacer-en-san-sebastian >}} 
 
-[Urdaibai, experimenta el efecto Hemingway en sólo siete 
-paradas](https://etheriamagazine.com/2021/02/18/7-imprescindibles-en-reserva-urdaibai/) 
+{{< reflink path=posts/2021/02/7-imprescindibles-en-reserva-urdaibai >}} 
 
-[La Sierra de Entzia, des(conexión) en siete pasos en 
-Álava](https://etheriamagazine.com/2021/05/12/excursiones-sierra-de-entzia-alava/)
+{{< reflink path=posts/2021/05/excursiones-sierra-de-entzia-alava >}}

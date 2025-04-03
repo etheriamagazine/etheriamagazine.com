@@ -1,7 +1,7 @@
 ---
 title: "Disfruta de una escapada en pareja al 'Riad Belle Epoque' de Marrakech"
 date: 2019-10-15
-coverImage: https://fotos.etheriamagazine.com/2019/10/Riad-De-La-Belle-Epoque-Coco-Chanel.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/Riad-De-La-Belle-Epoque-Coco-Chanel.jpg
 categories: 
   - viajar-en-pareja
   - hoteles
@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-Una de las mejores opciones de alojamiento para una escapada romántica es un riad en 
+**Una de las mejores opciones de alojamiento para una escapada romántica es un riad en 
 Marrakech, y si lo haces en el Riad Belle Epoque le sumas un espacio exclusivo donde 
 cada rincón ha sido cuidado con mimo. Te sentirás como en un capítulo de _Las mil y una 
-noches_. 
+noches_.** 
 
 ![Patio del Riad Belle Epoque](https://fotos.etheriamagazine.com/2019/10/Riad-De-La-Belle-Epoque-patio.jpg "Patio interior del Riad Belle Epoque.")
 
@@ -92,9 +92,7 @@ Fotos: © [Rusticae](https://www.rusticae.es/hotel/riad-belle-epoque-10199)
 
 📌 **También te puede interesar:** 
 
-[Marrakech con amigas, visitas para un fin de semana 
-intenso](https://etheriamagazine.com/2018/12/27/viaje-de-amigas-a-marrakech/) 
+{{< reflink path=posts/2018/12/viaje-de-amigas-a-marrakech >}} 
 
-[](https://etheriamagazine.com/2022/08/16/que-ver-tanger-con-amigas/)[Tánger, ¿qué tiene 
-su medina que encandiló a Matisse y a Carmina 
-Ordóñez?](https://etheriamagazine.com/2022/08/16/que-ver-tanger-con-amigas/)
+{{< reflink path=posts/2022/08/que-ver-tanger-con-amigas >}}{{< reflink 
+path=posts/2022/08/que-ver-tanger-con-amigas >}}

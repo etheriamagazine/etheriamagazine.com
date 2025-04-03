@@ -1,7 +1,7 @@
 ---
 title: "Visitas esenciales para enamorarse de Cracovia en dos días"
 date: 2018-07-23
-coverImage: https://fotos.etheriamagazine.com/2018/07/plaza-mercado-cracovia-1.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/plaza-mercado-cracovia-1.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -157,11 +157,8 @@ Armiño,_ de Leonardo Da Vinci.
 
 ### También te puede interesar...
 
-[Mercadillos navideños de Varsovia y Cracovia, un viaje a la magia de la 
-Navidad](https://etheriamagazine.com/2019/10/30/mercadillos-navidad-varsovia-cracovia-polonia/). 
+{{< reflink path=posts/2019/10/mercadillos-navidad-varsovia-cracovia-polonia >}}. 
 
-[Tres rutas para recorrer Varsovia, una ciudad 
-sorprendente](https://etheriamagazine.com/2021/03/05/que-ver-en-varsovia-en-tres-rutas-originales/). 
+{{< reflink path=posts/2021/03/que-ver-en-varsovia-en-tres-rutas-originales >}}. 
 
-[Descubre Zakopane, su arquitectura de madera, sabores y estaciones de 
-esquí](https://etheriamagazine.com/2021/01/27/que-ver-en-zakopane-viaje-original-polonia/).
+{{< reflink path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Cinco  libros que merecen ser leídos"
 date: 2019-01-12
-coverImage: https://fotos.etheriamagazine.com/2019/01/libros-viajes.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/libros-viajes.jpg
 categories: 
   - cultura
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Redacción Etheria
 ---
 
-Todos merecemos que caiga en nuestras manos buena literatura que nos inspire a viajar o, 
-al menos, a disfrutar y ampliar nuestro conocimiento. Os recomendamos cinco obras que 
-buscan lectoras como tú. 
+**Todos merecemos que caiga en nuestras manos buena literatura que nos inspire a viajar 
+o, al menos, a disfrutar y ampliar nuestro conocimiento. Os recomendamos cinco obras que 
+buscan lectoras como tú.** 
 
 ![libros viajes, mujeres viajeras](https://fotos.etheriamagazine.com/2019/01/libros-viajes.jpg)
 

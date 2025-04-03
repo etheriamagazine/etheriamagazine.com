@@ -1,7 +1,7 @@
 ---
 title: "Ruta por los mejores faros de Cantabria"
 date: 2020-05-18
-coverImage: https://fotos.etheriamagazine.com/2020/04/faro-punta-silla-san-vicente.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/faro-punta-silla-san-vicente.jpg
 categories: 
   - ocio
 destino: 
@@ -38,7 +38,8 @@ importancia europea y un magnífico contrapunto que lanza su rayo 17 millas sobr
 acantilado abierto plenamente al Cantábrico. 
 
 📌 ¿Sabías que fue pintado con mil colores en 2020 por el artista cántabro **Okuda** 
-(Óscar San Miguel)? Puedes leer esta "polémica" iniciativa en este [enlace](https://www.eldiariomontanes.es/cantabria/faro-luce-multicolor-20200828150028-nt.html) 
+(Óscar San Miguel)? Puedes leer esta "polémica" iniciativa en este 
+[enlace](https://www.eldiariomontanes.es/cantabria/faro-luce-multicolor-20200828150028-nt.html) 
 del Diario Montañés. 
 
 ![Interior iluminado del faro de cabo mayor](https://fotos.etheriamagazine.com/2020/04/faros-cantabria-cabo-mayor.jpg "Faro de cabo Mayor (Cantabria).")
@@ -64,10 +65,10 @@ que ardían durante la noche.
 Está en la punta más septentrional del **monte Buciero**, en una antigua isla conectada 
 a tierra por el istmo sobre el que se asienta la marinera villa de **Santoña**. 
 Arremetido por los temporales cantábricos, no resistió al de 1915. Fruto de ello es su 
-vistosa renovación que sobresale a 39 metros sobre el mar en la Punta del Pescador. Una [hermosa 
-ruta](https://farodelcaballo.es/ruta-faro-del-caballo-santona/) invita a circunvalar el 
-monte, mientras nos asomados al mar para llegar hasta él y, de paso, descender al 
-escénico faro vecino de El Caballo. 
+vistosa renovación que sobresale a 39 metros sobre el mar en la Punta del Pescador. Una 
+[hermosa ruta](https://farodelcaballo.es/ruta-faro-del-caballo-santona/) invita a 
+circunvalar el monte, mientras nos asomados al mar para llegar hasta él y, de paso, 
+descender al escénico faro vecino de El Caballo. 
 
 ![Faro del Caballo visto desde arriba.](https://fotos.etheriamagazine.com/2020/04/faro-cantabria-el-caballo.jpg "Faro del Caballo, junto junto a los acantilados del monte Buciero.")
 
@@ -121,11 +122,10 @@ detuvieron cuando se automatizó en 1921.
 
 ### También te puede interesar:
 
-[Valle de Valdeolea, 9 rituales para descubrir la esencia del sur de 
-Cantabria](https://etheriamagazine.com/2021/06/04/que-ver-en-valle-de-valdeolea-cantabria/) 
+{{< reflink path=posts/2021/06/que-ver-en-valle-de-valdeolea-cantabria >}} 
 
-[Lugares sorprendentes de Cantabria que aún no 
-conoces](https://etheriamagazine.com/2020/06/05/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original/) 
+{{< reflink 
+path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}} 
 
-[5 experiencias en Cantabria para un fin de semana con 
-amigas](https://etheriamagazine.com/2020/02/17/5-experiencias-en-cantabria-para-un-fin-de-semana-con-amigas/)
+{{< reflink 
+path=posts/2020/02/5-experiencias-en-cantabria-para-un-fin-de-semana-con-amigas >}}

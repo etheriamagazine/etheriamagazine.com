@@ -1,7 +1,7 @@
 ---
 title: "6 planes en Luxemburgo que desvelan sus grandes secretos"
 date: 2020-03-04
-coverImage: https://fotos.etheriamagazine.com/2020/02/luxemburgo-viajes.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/luxemburgo-viajes.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -131,9 +131,10 @@ Europeo.
 
 No todo se queda en la capital. Pequeño, pero con bastante contenido, en una escapada a 
 Luxemburgo puedes descubrir alguno de los castillos mejor conservados de Europa, como el 
-de Vianden. Es un buen aperitivo cuando se está de ruta hacia la [Selva 
-Negra](https://etheriamagazine.com/2018/08/02/ruta-en-familia-por-alsacia-y-selva-negra/). 
-O visitar alguno de los siete parques nacionales del país, como el de [Mullerthal](https://www.visitluxembourg.com/en/what-to-do/nature-tours/hiking-luxembourg/mullerthal-trail), 
+de Vianden. Es un buen aperitivo cuando se está de ruta hacia la {{< reflink 
+path=posts/2018/08/ruta-en-familia-por-alsacia-y-selva-negra >}}. O visitar alguno de 
+los siete parques nacionales del país, como el de 
+[Mullerthal](https://www.visitluxembourg.com/en/what-to-do/nature-tours/hiking-luxembourg/mullerthal-trail), 
 donde se puede practicar senderismo del fácil, apto para cualquier urbanita. 
 
 Para aderezarlo con buen vino, te recomendamos que incluyas una parada en la región del 
@@ -188,11 +189,9 @@ Luxemburgo](https://www.civitatis.com/es/luxemburgo/free-tour-luxemburgo/).
 
 ### También te puede interesar...
 
-[Múnich y Bad Wörishofen, la Alemania más verde y 
-saludable](https://etheriamagazine.com/2021/08/04/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable/). 
+{{< reflink path=posts/2021/08/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable 
+>}}. 
 
-[Descubre Hamburgo en 48 horas, la Alemania más 
-canalla](https://etheriamagazine.com/2020/02/24/que-ver-hacer-fin-de-semana-hamburgo-alemania/). 
+{{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}}. 
 
-[Casi un mar: rodea en coche el lago de Garda, el mayor de 
-Italia](https://etheriamagazine.com/2021/09/22/ruta-en-coche-en-lago-de-garda-italia/).
+{{< reflink path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}}.

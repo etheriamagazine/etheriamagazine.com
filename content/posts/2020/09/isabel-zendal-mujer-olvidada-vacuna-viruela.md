@@ -1,7 +1,7 @@
 ---
 title: "Isabel Zendal, la madre de todas las vacunas"
 date: 2020-09-21
-coverImage: https://fotos.etheriamagazine.com/2020/09/vacuna-viruela-isabel-zendal.jpg
+cover: https://fotos.etheriamagazine.com/2020/09/vacuna-viruela-isabel-zendal.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -186,11 +186,8 @@ mundo_.
 
 ### También te puede interesar:
 
-[Mujeres viajeras que, rompiendo moldes, hicieron las 
-maletas](https://etheriamagazine.com/2022/03/08/mujeres-viajeras-de-la-historia/) 
+{{< reflink path=posts/2022/03/mujeres-viajeras-de-la-historia >}} 
 
-[Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
-‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/) 
+{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}} 
 
-[Lee Krasner, artista y esposa de Pollock, una reivindicación 
-necesaria](https://etheriamagazine.com/2021/08/06/lee-krasner-inspira-el-color-de-tu-nombre/)
+{{< reflink path=posts/2021/08/lee-krasner-inspira-el-color-de-tu-nombre >}}

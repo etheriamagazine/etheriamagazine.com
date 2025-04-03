@@ -1,7 +1,7 @@
 ---
 title: "Couchsurfing en Panamá: viaja sola a Bocas del Toro y al archipiélago de San Blas"
 date: 2019-07-12
-coverImage: https://fotos.etheriamagazine.com/2019/06/Panama-San-Blas-isla-diablo.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/Panama-San-Blas-isla-diablo.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-Panamá te brinda experiencias excitantes como practicar submarinismo en Bocas del Toro, 
-uno de los arrecifes de coral más bellos del mundo; convivir con la tribu de los Kuna 
-Yala, en el archipiélago de San Blas; y alojarte a coste cero gracias al couchsurfing. 
-Como siempre, te damos, las claves para viajar sola a Panamá y sacar el máximo partido a 
-la experiencia. 
+**Panamá te brinda experiencias excitantes como practicar submarinismo en Bocas del 
+Toro, uno de los arrecifes de coral más bellos del mundo; convivir con la tribu de los 
+Kuna Yala, en el archipiélago de San Blas; y alojarte a coste cero gracias al 
+couchsurfing. Como siempre, te damos, las claves para viajar sola a Panamá y sacar el 
+máximo partido a la experiencia.** 
 
 ![Playa en el archipiélago de San Blas](https://fotos.etheriamagazine.com/2019/06/Panama-san-blas.jpg "Playa en el archipiélago de San Blas. © Rocío Guillén")
 
@@ -43,7 +43,8 @@ escalinatas de la plaza de Francia.
 
 Por supuesto, puedes ir de hostal, de hotel, de albergue juvenil… pero si quieres hacer 
 una inmersión total entre la población autóctona, mi recomendación número uno, en todos 
-los países del mundo, es la red social de la web o app de [www.couchsurfing.com](https://www.couchsurfing.com/). 
+los países del mundo, es la red social de la web o app de 
+[www.couchsurfing.com](https://www.couchsurfing.com/). 
 
 Os cuento alguna anécdota, a modo de ejemplo, de cómo te cambia el viaje: cuando llegué 
 a **Panamá City** en el bus Tumba Muerto de la flota de los Diablos Rojos, fui directa a 
@@ -143,11 +144,9 @@ _Supervivientes_. ¡Haz el lagarto allí al sol como uno de ellos!
 
 📌 **También te puede interesar:** 
 
-[Costa Rica: de ‘la aventura quetzal’ a la nouvelle 
-cuisine](https://etheriamagazine.com/2021/12/17/ruta-quetzal-costa-rica/) 
+{{< reflink path=posts/2021/12/ruta-quetzal-costa-rica >}} 
 
-[Viajar sola, destinos donde es seguro hacer una 
-escapada](https://etheriamagazine.com/2020/08/12/viaja-sola-paises-mas-seguros-para-mujeres/) 
+{{< reflink path=posts/2020/08/viaja-sola-paises-mas-seguros-para-mujeres >}} 
 
-[Consejos para viajar sola al Salar de Uyuni, el desierto de sal más grande del 
-planeta](https://etheriamagazine.com/2019/05/24/ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta/)
+{{< reflink 
+path=posts/2019/05/ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta >}}

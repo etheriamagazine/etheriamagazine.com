@@ -1,7 +1,7 @@
 ---
 title: "Orben, un rioja neoclásico"
 date: 2018-11-24
-coverImage: https://fotos.etheriamagazine.com/2018/11/vinas-orben-uvas.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/vinas-orben-uvas.jpg
 categories: 
   - gourmet
 destino: 
@@ -42,14 +42,14 @@ les gustan a los de “Ribera”, como me gusta decirles a mis amigos pucelanos.
 
 **Mis notas de cata:** 
 
-• Es un tempranillo de viñas viejas que, pese a su complejidad, estructura y 
+- Es un tempranillo de viñas viejas que, pese a su complejidad, estructura y 
 persistencia, te lo pone fácil. Pleno de fruta roja y algo de negra, bien madurita, 
 junto a ella encontraremos también las notas propias de su barrica (ha pasado 12 meses 
 en roble francés), que se traducen en aromas balsámicos, de hierbas de monte y de 
 grafito. Al llevarlo a la boca nos encontramos con un tinto bien equilibrado, sabroso, 
 bien estructurado y largo, muy largo, lo que te permite disfrutar en cada trago. 
 
-• Me lo tomo con: es un tinto perfecto para estos días fríos que nos esperan, ideal para 
+- Me lo tomo con: es un tinto perfecto para estos días fríos que nos esperan, ideal para 
 acompañar un guiso de carne, un lechazo o un buen cocido, como hice yo. 
 
-• Lo que cuesta: 19 euros.
+- Lo que cuesta: 19 euros.

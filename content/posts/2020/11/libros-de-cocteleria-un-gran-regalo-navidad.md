@@ -1,7 +1,7 @@
 ---
 title: "Regala los mejores libros de cócteles de todos los tiempos"
 date: 2020-11-23
-coverImage: https://fotos.etheriamagazine.com/2020/11/libros-cocteles-modernos.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/libros-cocteles-modernos.jpg
 categories: 
   - compras
   - cultura
@@ -11,9 +11,9 @@ authors:
   - Pedro Grifol
 ---
 
-Mezclar, agitar, remover… Hablamos, naturalmente, de cócteles. Aprovecha las vacaciones 
-navideñas para ponerte al día en mixología. Te recomendamos los mejores libros de 
-cócteles de ayer, de hoy (y casi del mañana), para ti o para regalar. 
+**Mezclar, agitar, remover… Hablamos, naturalmente, de cócteles. Aprovecha las 
+vacaciones navideñas para ponerte al día en mixología. Te recomendamos los mejores 
+libros de cócteles de ayer, de hoy (y casi del mañana), para ti o para regalar.** 
 
 ![libros cocteleria](https://fotos.etheriamagazine.com/2020/11/Libros-de-cocteleria.jpg "Libros de coctelería. © Pedro Grifol")
 
@@ -197,5 +197,5 @@ populares espirituosos.
 
 **También te puede interesar...** 
 
-[Ada Coleman y María Dolors Boadas, referentes de la igualdad en la 
-mixología](https://etheriamagazine.com/2020/05/12/mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas/).
+{{< reflink 
+path=posts/2020/05/mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas >}}.

@@ -1,7 +1,7 @@
 ---
 title: "10 planes imprescindibles en Torremolinos"
 date: 2021-05-19
-coverImage: https://fotos.etheriamagazine.com/2021/05/jardin-botanico-torremolinos.jpg
+cover: https://fotos.etheriamagazine.com/2021/05/jardin-botanico-torremolinos.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-Si al leer la palabra Torremolinos crees escuchar música de _Los Flames_ y ver a José 
+**Si al leer la palabra Torremolinos crees escuchar música de _Los Flames_ y ver a José 
 Luis López Vázquez y a Alfredo Landa con despampanantes suecas, estás ante el artículo 
 adecuado porque necesitas una revisión urgente de tus referentes. Si quieres descubrir 
-su faceta más auténtica toma nota de estos diez planes imprescindibles en Torremolinos. 
+su faceta más auténtica toma nota de estos diez planes imprescindibles en 
+Torremolinos.** 
 
 ![paseo maritimo torremolinos](https://fotos.etheriamagazine.com/2021/05/playas-torremolinos.jpg "Paseo marítimo de Torremolinos. © Etheria Mag.")
 
@@ -159,14 +160,12 @@ Torremolinos...
 
 **En Andalucía también te puede interesar...** 
 
-[Planes para exprimir un fin de semana en Marbella con 
-amigas](https://etheriamagazine.com/2019/06/11/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana/). 
+{{< reflink 
+path=posts/2019/06/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana 
+>}}. 
 
-[Un fin de semana en Málaga con 
-amigas](https://etheriamagazine.com/2021/05/03/fin-de-semana-con-amigas-en-malaga/). 
+{{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}}. 
 
-[Andalucía en autocaravana y consejos prácticos para 
-novatos](https://etheriamagazine.com/2021/04/07/consejos-rutas-andalucia-en-autocaravana/). 
+{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}. 
 
-[Cortijos andaluces para dar la bienvenida a la 
-primavera](https://etheriamagazine.com/2021/03/16/cortijos-andaluces-viaje-amigas/).
+{{< reflink path=posts/2021/03/cortijos-andaluces-viaje-amigas >}}.

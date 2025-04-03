@@ -1,7 +1,7 @@
 ---
 title: "Hotel Meliá Sol y Nieve, un clásico para esquiar en Sierra Nevada"
 date: 2022-01-28
-coverImage: https://fotos.etheriamagazine.com/2022/01/Melia-Sol-y-Nieve-Yhi-Spa.jpg
+cover: https://fotos.etheriamagazine.com/2022/01/Melia-Sol-y-Nieve-Yhi-Spa.jpg
 categories: 
   - inspiración
   - hoteles
@@ -116,11 +116,9 @@ habitación doble desde 159 Euros.
 
 ### También te puede interesar:
 
-[El Lodge Ski & Spa, un hotel boutique de lujo en Sierra 
-Nevada](https://etheriamagazine.com/2020/11/12/hotel-de-lujo-sierra-nevada-el-lodge-ski-spa/) 
+{{< reflink path=posts/2020/11/hotel-de-lujo-sierra-nevada-el-lodge-ski-spa >}} 
 
-[10 estaciones de esquí en España donde estirar el presupuesto al 
-máximo](https://etheriamagazine.com/2021/11/25/10-estaciones-de-esqui-mas-baratas-de-espana-2021-2022/) 
+{{< reflink path=posts/2021/11/10-estaciones-de-esqui-mas-baratas-de-espana-2021-2022 
+>}} 
 
-[Granada, el privilegio de la buena 
-mesa](https://etheriamagazine.com/2020/10/30/restaurantes-bares-de-granada-y-visitas-para-mujeres/)
+{{< reflink path=posts/2020/10/restaurantes-bares-de-granada-y-visitas-para-mujeres >}}

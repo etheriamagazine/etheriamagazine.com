@@ -1,7 +1,7 @@
 ---
 title: "Shopping en París, tiendas imprescindibles en Le Marais"
 date: 2018-08-02
-coverImage: https://fotos.etheriamagazine.com/2018/07/compras-paris.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/compras-paris.jpg
 destino: 
   - Europa
 authors: 
@@ -80,15 +80,13 @@ coger ideas para vosotras, para vuestra pareja y, también, para la casa. Os ase
 pasaréis un buen rato en su interior. 
 
 Si, además, quieres organizar alguna visita turística consulta en la [Oficina de Turismo 
-de París](https://es.parisinfo.com/) o en la de [Francia](https://es.france.fr/es/preparate/atout-france-espana-y-tienda-line). 
+de París](https://es.parisinfo.com/) o en la de 
+[Francia](https://es.france.fr/es/preparate/atout-france-espana-y-tienda-line). 
 
 ### También te puede interesar...
 
-[Planes en París si viajas 
-sola](https://etheriamagazine.com/2019/05/15/viajar-sola-que-ver-paris/). 
+{{< reflink path=posts/2019/05/viajar-sola-que-ver-paris >}}. 
 
-[Descubre los secretos de Orleans, la ciudad que pudo 
-reinar](https://etheriamagazine.com/2021/11/09/que-visitar-en-orleans-francia/). 
+{{< reflink path=posts/2021/11/que-visitar-en-orleans-francia >}}. 
 
-[12 ciudades donde el shopping debe estar en la 
-agenda](https://etheriamagazine.com/2021/09/07/viajes-de-compras-y-ciudades-de-shopping/).
+{{< reflink path=posts/2021/09/viajes-de-compras-y-ciudades-de-shopping >}}.

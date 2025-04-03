@@ -1,7 +1,7 @@
 ---
 title: "De Tbilisi a Uzbekistán en una Volkswagen California: un viaje por Asia Central"
 date: 2025-02-26
-coverImage: https://fotos.etheriamagazine.com/2025/02/viaje-furgoneta-asia.jpeg
+cover: https://fotos.etheriamagazine.com/2025/02/viaje-furgoneta-asia.jpeg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -146,16 +146,15 @@ menos un pequeño empujón!
 
 ![](https://fotos.etheriamagazine.com/2025/02/810D7qvlL._SL1500_.jpg)
 
-Autora de la ruta: **Gracia Martínez**. Sigue sus aventuras en [Instagram](https://www.instagram.com/livinglavidageorgia/) 
-y en su blog [Living la vida Georgia](http://living-la-vida-georgia.com/). Puedes 
-conseguir su libro: [Georgia, Mon Amour: Un viaje literario al corazón del 
+Autora de la ruta: **Gracia Martínez**. Sigue sus aventuras en 
+[Instagram](https://www.instagram.com/livinglavidageorgia/) y en su blog [Living la vida 
+Georgia](http://living-la-vida-georgia.com/). Puedes conseguir su libro: [Georgia, Mon 
+Amour: Un viaje literario al corazón del 
 Cáucaso](https://www.amazon.es/Georgia-Mon-Amour-literario-Literatura-ebook/dp/B0CLKYFX6V) 
 en Amazon. 
 
 **Sigue leyendo en Etheria Magazine** 
 
-[Trekking a Ushguli, la aldea habitada más alta de 
-Europa](https://etheriamagazine.com/2021/02/16/ruta-detallada-trekking-a-ushguli-georgia/). 
+{{< reflink path=posts/2021/02/ruta-detallada-trekking-a-ushguli-georgia >}}. 
 
-[Descubre la belleza de Georgia en 10 visitas 
-increíbles](https://etheriamagazine.com/2019/02/13/que-ver-georgia/).
+{{< reflink path=posts/2019/02/que-ver-georgia >}}.

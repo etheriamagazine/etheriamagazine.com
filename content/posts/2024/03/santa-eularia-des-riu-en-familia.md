@@ -1,7 +1,7 @@
 ---
 title: "Santa Eulària des Riu o cómo disfrutar de Ibiza en familia"
 date: 2024-03-20
-coverImage: https://fotos.etheriamagazine.com/2024/03/ibiza-ruta-senderista-caballo.jpg
+cover: https://fotos.etheriamagazine.com/2024/03/ibiza-ruta-senderista-caballo.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -131,11 +131,8 @@ pdf](https://visitsantaeulalia.com/images/recursos/PDF/Sello-family-moments.pdf)
 
 **Más propuestas de Ibiza:** 
 
-[Santa Eulària des Riu, el municipio de Ibiza más 
-‘hippy-sostenible’](https://etheriamagazine.com/2023/03/03/santa-eularia-des-riu-ibiza/) 
+{{< reflink path=posts/2023/03/santa-eularia-des-riu-ibiza >}} 
 
-[15 planes en Ibiza que puedes hacer en 
-invierno](https://etheriamagazine.com/2021/11/05/planes-viaje-a-ibiza-en-invierno/). 
+{{< reflink path=posts/2021/11/planes-viaje-a-ibiza-en-invierno >}}. 
 
-[10 errores que debes evitar si vas a Ibiza con 
-amigas](https://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/).
+{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en Esauira, la playa de Marruecos"
 date: 2023-06-05
-coverImage: https://fotos.etheriamagazine.com/2023/06/Murallas-de-Essauira.jpg
+cover: https://fotos.etheriamagazine.com/2023/06/Murallas-de-Essauira.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pedro Grifol
 ---
 
-Desde hace pocas semanas, un vuelo directo conecta Madrid con Esauira (Essaouira en 
+**Desde hace pocas semanas, un vuelo directo conecta Madrid con Esauira (Essaouira en 
 francés) en algo más de dos horas. Si todavía no la conoces, es un buen momento para 
 deambular por una de las ciudades más hechizantes de Marruecos. Te contamos qué ver en 
 Esauira, uno de los lugares de playa más populares de Marruecos y un destino muy 
-atractivo para los viajeros españoles. 
+atractivo para los viajeros españoles.** 
 
 ![La ciudad amurallada de Esauira.](https://fotos.etheriamagazine.com/2023/06/Murallas-de-Essauira.jpg "La ciudad amurallada de Esauira. © Pedro Grifol.")
 
@@ -202,11 +202,8 @@ Civitatis](https://www.civitatis.com/es/esauira/tour-quad-paseo-camello/?aid=102
 
 **También te puede interesar:** 
 
-[Casablanca y Marrakech, una escapada esencial (y a precio 
-asequible)](https://etheriamagazine.com/2023/05/04/por-que-viajar-casablanca-marrakech/) 
+{{< reflink path=posts/2023/05/por-que-viajar-casablanca-marrakech >}} 
 
-[Guía esencial de Fez, la capital espiritual de 
-Marruecos](https://etheriamagazine.com/2021/03/18/guia-esencial-que-ver-y-hacer-en-fez/) 
+{{< reflink path=posts/2021/03/guia-esencial-que-ver-y-hacer-en-fez >}} 
 
-[Tánger, ¿qué tiene su medina que encandiló a Matisse y a Carmina 
-Ordóñez?](https://etheriamagazine.com/2022/08/16/que-ver-tanger-con-amigas/)
+{{< reflink path=posts/2022/08/que-ver-tanger-con-amigas >}}

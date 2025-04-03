@@ -1,7 +1,7 @@
 ---
 title: "15 ideas para disfrutar de Florencia por segunda vez con tus mejores amigas"
 date: 2018-09-21
-coverImage: https://fotos.etheriamagazine.com/2018/09/Ponte-Vecchio-Florencia-Toscana-e1552121783379.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/Ponte-Vecchio-Florencia-Toscana-e1552121783379.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -169,11 +169,8 @@ Sant’Ambrogio, **un popular mercadillo de antigüedades**.
 
 **También te puede interesar:** 
 
-[Aprovecha a tope un fin de semana en 
-Florencia](https://etheriamagazine.com/2018/05/16/48-horas-en-florencia-fin-de-semana-que-ver-hacer/) 
+{{< reflink path=posts/2018/05/48-horas-en-florencia-fin-de-semana-que-ver-hacer >}} 
 
-[Nueve paseos a la italiana por los jardines más bellos de 
-Florencia](https://etheriamagazine.com/2021/05/21/paseos-por-los-jardines-mas-bellos-de-florencia/) 
+{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}} 
 
-[10 imprescindibles para disfrutar Florencia con 
-niños](https://etheriamagazine.com/2018/05/17/10-imprescindibles-para-disfrutar-florencia-con-ninos/)
+{{< reflink path=posts/2018/05/10-imprescindibles-para-disfrutar-florencia-con-ninos >}}

@@ -1,7 +1,7 @@
 ---
 title: "Ocho razones para visitar Soria con amigas este otoño"
 date: 2019-08-12
-coverImage: https://fotos.etheriamagazine.com/2021/02/laguna-negra-en-soria.jpg
+cover: https://fotos.etheriamagazine.com/2021/02/laguna-negra-en-soria.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Kelu Robles
 ---
 
-Acabas de toparte con un anuncio sobre la vuelta al cole. Coleccionables, atascos, 
+**Acabas de toparte con un anuncio sobre la vuelta al cole. Coleccionables, atascos, 
 estrés. Estamos en septiembre y —reconozcámoslo— ni tú ni tus amigas estáis preparadas 
-para afrontarlo. Una escapada a Soria con amigas bastará para sanaros. 
+para afrontarlo. Una escapada a Soria con amigas bastará para sanaros.** 
 
 ![ruta soria con amigas](https://fotos.etheriamagazine.com/2019/07/viaje-soria-ruta-amigas.jpg "¿Te imaginabas Soria así de verde? ©KR")
 
@@ -157,11 +157,8 @@ del siglo XVI y su gran cúpula acristalada harán el resto. ¡Y ahora, a disfru
 
 **Te puede interesar...** 
 
-[Planes en Soria con niños para desconectar en plena 
-naturaleza](https://etheriamagazine.com/2021/02/24/planes-y-actividades-en-soria-con-ninos/). 
+{{< reflink path=posts/2021/02/planes-y-actividades-en-soria-con-ninos >}}. 
 
-[Ruta para descubrir los secretos ocultos del acueducto de 
-Segovia](https://etheriamagazine.com/2021/06/25/ruta-senderista-acueducto-segovia/). 
+{{< reflink path=posts/2021/06/ruta-senderista-acueducto-segovia >}}. 
 
-[8 razones por las que desearás conocer la provincia de Ciudad 
-Real](https://etheriamagazine.com/2020/11/10/mejores-rutas-en-ciudad-real/).
+{{< reflink path=posts/2020/11/mejores-rutas-en-ciudad-real >}}.

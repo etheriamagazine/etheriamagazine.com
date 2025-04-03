@@ -1,7 +1,7 @@
 ---
 title: "Disfruta de la mejor cocina peruana en el Westin Palace de Madrid (sólo 4 días)"
 date: 2024-05-29
-coverImage: https://fotos.etheriamagazine.com/2024/05/Lomo-saltado-cocina-peruana.jpg
+cover: https://fotos.etheriamagazine.com/2024/05/Lomo-saltado-cocina-peruana.jpg
 destino: 
   - España
 authors: 
@@ -64,8 +64,6 @@ Peruvian Cultures.
 
 **También en Etheria Magazine** 
 
-[Cómo pedir atún en Cádiz como si fueses una 
-experta](https://etheriamagazine.com/2023/10/24/guia-para-pedir-atun-en-cadiz/). 
+{{< reflink path=posts/2023/10/guia-para-pedir-atun-en-cadiz >}}. 
 
-[Descubre a qué sabe Navarra a través de estas rutas 
-gastronómicas](https://etheriamagazine.com/2023/05/08/rutas-gastronomia-navarra/)
+{{< reflink path=posts/2023/05/rutas-gastronomia-navarra >}}

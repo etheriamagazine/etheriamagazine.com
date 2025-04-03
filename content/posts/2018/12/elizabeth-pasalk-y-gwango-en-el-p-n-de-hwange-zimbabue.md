@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth Pasalk y Gwango en el P.N. de Hwange, una historia de Zimbabue"
 date: 2018-12-10
-coverImage: https://fotos.etheriamagazine.com/2018/12/Elizabet-lodge-zinbabue-mujer-etheria.jpg
+cover: https://fotos.etheriamagazine.com/2018/12/Elizabet-lodge-zinbabue-mujer-etheria.jpg
 categories: 
   - historias
   - mujeres-top
@@ -11,10 +11,10 @@ authors:
   - Manena Munar
 ---
 
-El Parque Nacional de Hwange está íntimamente unido a la vida de Elizabeth Pasalk y de 
+**El Parque Nacional de Hwange está íntimamente unido a la vida de Elizabeth Pasalk y de 
 su marido Danny. Como lo está a los descendientes de la dinastía Rozvi, habitantes 
 genuinos de la reserva Hwange hasta 1928, fecha en la que se declaró parque nacional y 
-los Rozvi se trasladaron a Nambya King, donde viven actualmente. 
+los Rozvi se trasladaron a Nambya King, donde viven actualmente.** 
 
 ![Elizabeth Pasalk](https://fotos.etheriamagazine.com/2018/12/Elizabet-lodge-zinbabue-mujer-etheria.jpg "Elizabeth Pasalk, una vida unida a Zimbabue.")
 
@@ -136,10 +136,10 @@ Madrid-Addis Abeba-Victoria Falls. No dejes de comparar precios con otras aerol�
 
 ### Dónde dormir
 
-• **Gwango Heritage Resort** está situado en la entrada del Parque Nacional Hwange donde 
+- **Gwango Heritage Resort** está situado en la entrada del Parque Nacional Hwange donde 
 se puede gozar de una auténtica estancia africana. 
 
-• **Gwango Elephant Lodge**. Este alojamiento es ideal para observar desde el balcón las 
+- **Gwango Elephant Lodge**. Este alojamiento es ideal para observar desde el balcón las 
 manadas de elefantes presidenciales bebiendo del lago. 
 
 ### Dónde comer
@@ -163,11 +163,9 @@ solar.
 
 📌 **También te puede interesar:** 
 
-[Sudáfrica, un destino con hoteles fuera de 
-cobertura](https://etheriamagazine.com/2019/12/11/planes-para-desconectar-en-sudafrica/) 
+{{< reflink path=posts/2019/12/planes-para-desconectar-en-sudafrica >}} 
 
-[‘Memorias de África’ más allá de Robert Redford y Meryl 
-Streep](https://etheriamagazine.com/2020/10/12/final-real-memorias-de-africa-baronesa-blixen-beryl-markham/) 
+{{< reflink 
+path=posts/2020/10/final-real-memorias-de-africa-baronesa-blixen-beryl-markham >}} 
 
-[10 razones por las que deberías hacer un safari en 
-Botsuana](https://etheriamagazine.com/2018/11/22/botsuana-10-razones-para-sentirte-la-reina-de-africa/)
+{{< reflink path=posts/2018/11/botsuana-10-razones-para-sentirte-la-reina-de-africa >}}

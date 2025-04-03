@@ -1,7 +1,7 @@
 ---
 title: "Admira cinco de los mejores jardines de Gran Bretaña"
 date: 2021-04-22
-coverImage: https://fotos.etheriamagazine.com/2021/04/RHS-Wisley-surrey.jpg
+cover: https://fotos.etheriamagazine.com/2021/04/RHS-Wisley-surrey.jpg
 categories: 
   - ocio
 destino: 
@@ -78,9 +78,9 @@ tren y autobús. También se puede acceder desde York o Harrogate, que está a p
 
 ### 3\. Garden Wisley (Woking, Surrey)
 
-Este es el espacio del que está más orgullosa la Real Sociedad de Horticultura. El [jardín 
-Wisley](https://www.rhs.org.uk/gardens/wisley), que fue adquirido en 1903, acoge las 
-mayores colecciones de plantas del mundo. Entre sus zonas más espectaculares está un 
+Este es el espacio del que está más orgullosa la Real Sociedad de Horticultura. El 
+[jardín Wisley](https://www.rhs.org.uk/gardens/wisley), que fue adquirido en 1903, acoge 
+las mayores colecciones de plantas del mundo. Entre sus zonas más espectaculares está un 
 espacio de 97 hectáreas donde se sitúa el **edificio Glasshouse**, que fue levantado 
 para conmemorar el 200 aniversario de la sociedad. Allí se dan cita especies tropicales, 
 y una zona repleta de vistosos parterres cuyos colores van cambiando a lo largo del año. 
@@ -92,9 +92,11 @@ recorrer su **Pinetum**, con coníferas y árboles centenarios; o un romántico 
 el jardín Riverside**, rodeados de sauces llorones, jacintos azules y elegantes cisnes. 
 
 Está previsto que este año se inaugure aquí un espacio dedicado a las ciencias 
-hortícolas (RHS Hilltop - Home of Gardening Science) donde se darán a conocer 
-experimentos, arte botánico, etc. ¿Cuál es un momento para visitar este jardín? Durante 
-su Festival de las Flores, del 7 al 12 de septiembre. 
+hortícolas (RHS Hilltop 
+
+- Home of Gardening Science) donde se darán a conocer experimentos, arte botánico, etc. 
+¿Cuál es un momento para visitar este jardín? Durante su Festival de las Flores, del 7 
+al 12 de septiembre. 
 
 ##### Cómo llegar al Jardín Wisley
 
@@ -149,11 +151,10 @@ coche, y dos horas en tren y autobús.
 
 ### También te puede interesar...
 
-[De road trip por los Cotswolds, un viaje al corazón de 
-Inglaterra](https://etheriamagazine.com/2019/08/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra/). 
+{{< reflink 
+path=posts/2019/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}}. 
 
-[¿Es tan aburrida la comida de Gran Bretaña como 
-dicen?](https://etheriamagazine.com/2021/03/11/platos-britanicos-en-un-viaje-inglaterra-escocia-gales-irlanda/) 
+{{< reflink 
+path=posts/2021/03/platos-britanicos-en-un-viaje-inglaterra-escocia-gales-irlanda >}} 
 
-[8 viajes al Reino Unido para organizar una escapada en 
-2021](https://etheriamagazine.com/2021/02/23/ideas-de-viajes-a-inglaterra-escocia-gales-irlanda/)
+{{< reflink path=posts/2021/02/ideas-de-viajes-a-inglaterra-escocia-gales-irlanda >}}

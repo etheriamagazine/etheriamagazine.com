@@ -1,7 +1,7 @@
 ---
 title: "Museo de los Aromas de Burgos, despierta tus sentidos en un lugar único de Europa"
 date: 2024-12-18
-coverImage: https://fotos.etheriamagazine.com/2024/12/Museo-de-los-Aromas1.jpeg
+cover: https://fotos.etheriamagazine.com/2024/12/Museo-de-los-Aromas1.jpeg
 categories: 
   - cultura
   - ocio
@@ -128,11 +128,8 @@ Información general en [museodelosaromas.com](https://museodelosaromas.com/)
 
 **También en Etheria Magazine** 
 
-[Todo lo que no puedes perderte en un recorrido por la catedral de 
-Burgos](https://etheriamagazine.com/2024/05/16/catedral-de-burgos-visita/). 
+{{< reflink path=posts/2024/05/catedral-de-burgos-visita >}}. 
 
-[La provincia de Burgos con niños, planes rurales y activos en 
-familia](https://etheriamagazine.com/2022/10/05/provincia-burgos-con-ninos/). 
+{{< reflink path=posts/2022/10/provincia-burgos-con-ninos >}}. 
 
-[Dos pueblos de Burgos con aroma de lavanda: Caleruega y Cilleruelo de 
-Arriba](https://etheriamagazine.com/2024/06/11/lavanda-burgos/).
+{{< reflink path=posts/2024/06/lavanda-burgos >}}.

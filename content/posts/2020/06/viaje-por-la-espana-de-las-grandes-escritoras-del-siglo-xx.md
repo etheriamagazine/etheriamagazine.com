@@ -1,7 +1,7 @@
 ---
 title: "Ruta por la España de las grandes escritoras del siglo XX (Parte I)"
 date: 2020-06-15
-coverImage: https://fotos.etheriamagazine.com/2020/06/sinsombrero.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/sinsombrero.jpg
 categories: 
   - historias
   - mujeres-top
@@ -165,8 +165,9 @@ de su vida.
 
 **También te puede interesar:** 
 
-[II Ruta por la España de las grandes escritoras del siglo 
-XX](https://etheriamagazine.com/2020/06/26/ruta-escritoras-espanolas-carmen-burgos-rosa-chacel-maria-maeztu/) 
+{{< reflink 
+path=posts/2020/06/ruta-escritoras-espanolas-carmen-burgos-rosa-chacel-maria-maeztu >}} 
 
-[III Ruta por la España de las grandes escritoras del siglo 
-XX](https://etheriamagazine.com/2020/09/14/escritoras-siglo-xx-maria-moliner-ana-maria-matute-carmen-martin-gaite/)
+{{< reflink 
+path=posts/2020/09/escritoras-siglo-xx-maria-moliner-ana-maria-matute-carmen-martin-gaite 
+>}}

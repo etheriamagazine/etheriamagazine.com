@@ -1,7 +1,7 @@
 ---
 title: "Pablo d'Ors nos invita a “escuchar el sonido del silencio”"
 date: 2021-12-22
-coverImage: https://fotos.etheriamagazine.com/2021/12/kristina-flour-BcjdbyKWquw-unsplash-scaled.jpg
+cover: https://fotos.etheriamagazine.com/2021/12/kristina-flour-BcjdbyKWquw-unsplash-scaled.jpg
 categories: 
   - bienestar
 destino: 
@@ -94,11 +94,10 @@ luz](https://amzn.to/3q57gws) (desde 15 €) o estar atenta a su próxima ponenc
 
 ### También te puede interesar...
 
-[Mindfulness y meditación, tus mejores aliados para reducir el estrés y la 
-ansiedad](https://etheriamagazine.com/2020/11/18/mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion/). 
+{{< reflink 
+path=posts/2020/11/mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion 
+>}}. 
 
-[Miguel Jara: “Lo económico influye en la salud de las personas y tiene un impacto 
-ecológico”](https://etheriamagazine.com/2021/11/17/entrevista-miguel-jara-la-otra-salud/) 
+{{< reflink path=posts/2021/11/entrevista-miguel-jara-la-otra-salud >}} 
 
-[La pandemia se ceba con las personas con problemas de salud 
-mental](https://etheriamagazine.com/2021/10/08/como-afecta-la-pandemia-a-la-salud-mental/).
+{{< reflink path=posts/2021/10/como-afecta-la-pandemia-a-la-salud-mental >}}.

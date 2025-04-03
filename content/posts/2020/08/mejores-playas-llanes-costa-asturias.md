@@ -1,7 +1,7 @@
 ---
 title: "Ruta en coche por Llanes, descubre las visitas más espectaculares"
 date: 2020-08-17
-coverImage: https://fotos.etheriamagazine.com/2020/08/asturias-acantilados-llanes.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/asturias-acantilados-llanes.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Recorrer la costa de Llanes en coche, a pie o con ferrocarril de vía estrecha es una 
+**Recorrer la costa de Llanes en coche, a pie o con ferrocarril de vía estrecha es una 
 experiencia inolvidable. Te proponemos hacer una ruta asturiana al borde del mar 
-siguiendo 30 kilómetros llenos de sorpresas: acantilados, cuevas, monasterios, playas... 
+siguiendo 30 kilómetros llenos de sorpresas: acantilados, cuevas, monasterios, 
+playas...** 
 
 ![Cueva Pindal y faro de San Emeterio](https://fotos.etheriamagazine.com/2020/08/asturias-playas-llanes.jpg "Entorno de la Cueva Pindal, un gran atractivo de la costa de Llanes.")
 
@@ -168,11 +169,9 @@ halo rosado que envuelve al faro de Llanes.
 
 **También te puede interesar...** 
 
-[Gijón: una gastroescapada que te dejará muy buen sabor de 
-boca](https://etheriamagazine.com/2021/01/25/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias/). 
+{{< reflink path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias 
+>}}. 
 
-[5 rutas en autocaravana por España para disfrutar de mar y de 
-montaña](https://etheriamagazine.com/2020/07/23/5-rutas-en-auto-caravana-por-espana/). 
+{{< reflink path=posts/2020/07/5-rutas-en-auto-caravana-por-espana >}}. 
 
-[10 viajes por el norte de España para buscar el 
-fresquito](https://etheriamagazine.com/2020/07/20/10-viajes-por-el-norte-de-espana-rutas-en-coche/).
+{{< reflink path=posts/2020/07/10-viajes-por-el-norte-de-espana-rutas-en-coche >}}.

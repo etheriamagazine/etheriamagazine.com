@@ -1,7 +1,7 @@
 ---
 title: "7 paisajes que confirman que España es increíble"
 date: 2019-04-28
-coverImage: https://fotos.etheriamagazine.com/2019/04/navarra-bardenas-reales.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/navarra-bardenas-reales.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-No es necesario recorrer miles de kilómetros para quedar extasiados con la magia de la 
+**No es necesario recorrer miles de kilómetros para quedar extasiados con la magia de la 
 naturaleza. Y, de hecho, aún estando cerca de casa es una gran aliada si buscas un viaje 
 original o quieres sorprender a tus seguidores de Instagram. Digamos que los 'likes' en 
 cualquiera de estos 7 mágicos parajes, que se encuentran entre los mejores paisajes de 
-España, están asegurados. 
+España, están asegurados.** 
 
 ![mujer caminando en las Bardenas reales](https://fotos.etheriamagazine.com/2019/04/bardenas-reales-navarra-chica.jpg "Paseo por el singular paisaje de las Bardenas Reales en Navarra.")
 
@@ -92,7 +92,8 @@ o en [León capital](http://etheriamagazine.com/2018/09/27/48-horas-en-leon/).
 
 ## 6\. Playa de Gueirúa (Asturias)
 
-No es la mejor para el baño pero a la playa asturiana de [Gueirúa](https://www.turismoasturias.es/descubre/costa/playas/playa-de-la-gueirua-gairua) 
+No es la mejor para el baño pero a la playa asturiana de 
+[Gueirúa](https://www.turismoasturias.es/descubre/costa/playas/playa-de-la-gueirua-gairua) 
 se va, principalmente, disfrutar de la belleza de un paisaje formado por picachos e 
 islotes que emergen del mar con afiladas aristas. Se encuentra cerca de Cudillero por lo 
 que puede ser un buen lugar para alojarse y disfrutar de este coqueto pueblo cuya 
@@ -115,8 +116,6 @@ oxígeno. Una circunstancia que incluso ha estudiado la NASA.
 
 📌 **También te puede interesar:** 
 
-[Qué ver en España, 12 guías básicas para tus 
-vacaciones](https://etheriamagazine.com/2023/04/04/guias-que-ver-espana/) 
+{{< reflink path=posts/2023/04/guias-que-ver-espana >}} 
 
-[Viajes con amigas por España: el mejor plan 
-posible](https://etheriamagazine.com/2021/09/01/viajes-con-amigas-por-espana-costa-e-interior/)
+{{< reflink path=posts/2021/09/viajes-con-amigas-por-espana-costa-e-interior >}}

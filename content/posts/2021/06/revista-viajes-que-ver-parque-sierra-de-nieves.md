@@ -1,7 +1,7 @@
 ---
 title: "Parque Nacional Sierra de las Nieves, una nueva estrella brilla en Málaga"
 date: 2021-06-26
-coverImage: https://fotos.etheriamagazine.com/2019/02/puesta-sol-sierra-nieves.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/puesta-sol-sierra-nieves.jpg
 categories: 
   - viajar-con-amigas
   - viajar-en-familia
@@ -220,11 +220,9 @@ Nieves**.
 
 ### También te puede interesar
 
-[Semana de la Castaña en Jubrique, sabores y paseos 
-otoñales](https://etheriamagazine.com/2020/11/07/semana-de-la-castana-en-jubrique-valle-del-genal/). 
+{{< reflink path=posts/2020/11/semana-de-la-castana-en-jubrique-valle-del-genal >}}. 
 
-[Road trip por la Axarquía 
-malagueña](https://etheriamagazine.com/2020/06/19/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga/). 
+{{< reflink path=posts/2024/07/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga 
+>}}. 
 
-[Ronda: literaria, romántica y 
-monumental](https://etheriamagazine.com/2019/04/16/ronda-escapada-con-amigas/).
+{{< reflink path=posts/2019/04/ronda-escapada-con-amigas >}}.

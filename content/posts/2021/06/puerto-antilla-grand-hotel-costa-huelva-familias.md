@@ -1,7 +1,7 @@
 ---
 title: "Puerto Antilla Grand Hotel, un oasis en la costa de Huelva"
 date: 2021-06-03
-coverImage: https://fotos.etheriamagazine.com/2021/06/puerto-antilla-grand-hotel-noche.jpg
+cover: https://fotos.etheriamagazine.com/2021/06/puerto-antilla-grand-hotel-noche.jpg
 categories: 
   - viajar-en-familia
   - hoteles
@@ -101,10 +101,11 @@ durante todo el año, ya que esta franja del litoral goza de una temperatura med
 conocer un poco más la provincia de Huelva. 
 
 Comienza visitando **Isla Cristina** y **El Rompido**, situados a un paso, y continúa en 
-lugares tan interesantes como el [Parque del Descubrimiento y el monasterio de la 
-Rábida](https://etheriamagazine.com/2018/09/20/muelle-de-las-carabelas-la-rabida-huelva/) 
-y el entorno natural del Parque de Doñana. 
+lugares tan interesantes como el {{< reflink 
+path=posts/2018/09/muelle-de-las-carabelas-la-rabida-huelva >}} y el entorno natural del 
+Parque de Doñana. 
 
 ##### Puerto Antilla Grand Hotel
 
-Urbanización, Av. de Islantilla, s/n. Islantilla Tel. +34 959 625 100 [www.puertoantilla.com](http://www.puertoantilla.com)
+Urbanización, Av. de Islantilla, s/n. Islantilla Tel. +34 959 625 100 
+[www.puertoantilla.com](http://www.puertoantilla.com)

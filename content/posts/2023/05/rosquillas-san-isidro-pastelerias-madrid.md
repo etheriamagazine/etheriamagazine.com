@@ -1,7 +1,7 @@
 ---
 title: "Las rosquillas de San Isidro se renuevan en cinco pastelerías históricas"
 date: 2023-05-10
-coverImage: https://fotos.etheriamagazine.com/2023/05/rosquillas-violeta-el-pozo-madrid.jpg
+cover: https://fotos.etheriamagazine.com/2023/05/rosquillas-violeta-el-pozo-madrid.jpg
 categories: 
   - gourmet
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-Llega San Isidro a Madrid y, además de volver los trajes de chulapas y chulapos y los 
+**Llega San Isidro a Madrid y, además de volver los trajes de chulapas y chulapos y los 
 chotis, las pastelerías se llenan de las rosquillas del santo. Este año, además de las 
 rosquillas tradicionales, cinco pastelerías centenarias se han sumado a la iniciativa 
 Madridulce para aportar una versión diferente. Sigue leyendo para descubrir dónde y 
-cuándo puedes probar estas redondas delicias. 
+cuándo puedes probar estas redondas delicias.** 
 
 ![Cinco rosquillas del Santo originales](https://fotos.etheriamagazine.com/2023/05/rosquillas-madriddulce.jpg "Especialidades de las cinco pastelerías que participan en Madriddulce.")
 
@@ -137,11 +137,9 @@ apetecibles.
 
 📌 **También te puede interesar:** 
 
-[10 tabernas históricas de Madrid donde tomar el 
-vermú](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/) 
+{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}} 
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/) 
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}} 
 
-[Ruta por el Madrid más libre (de 
-gluten)](https://etheriamagazine.com/2020/10/02/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias/)
+{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
+>}}

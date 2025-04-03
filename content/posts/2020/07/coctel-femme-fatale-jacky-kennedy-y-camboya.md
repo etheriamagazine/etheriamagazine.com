@@ -1,7 +1,7 @@
 ---
 title: "Femme Fatale, un cóctel de leyenda"
 date: 2020-07-24
-coverImage: https://fotos.etheriamagazine.com/2020/06/portada-femme-fatale-coctel.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/portada-femme-fatale-coctel.jpg
 categories: 
   - historias
 destino: 
@@ -82,11 +82,8 @@ prepararlo sino que se cuentan otras anécdotas curiosas. ¡Salud!
 
 ### También te puede interesar:
 
-[Las 10 mejores coctelerías de Madrid para tu próxima noche de 
-amigas](https://etheriamagazine.com/2019/10/22/10-mejores-coctelerias-de-madrid-salir-con-amigas/) 
+{{< reflink path=posts/2019/10/10-mejores-coctelerias-de-madrid-salir-con-amigas >}} 
 
-[Agita la Navidad con estos libros de cócteles, el mejor regalo para quien tú 
-sabes](https://etheriamagazine.com/2020/11/23/libros-de-cocteleria-un-gran-regalo-navidad/) 
+{{< reflink path=posts/2020/11/libros-de-cocteleria-un-gran-regalo-navidad >}} 
 
-[Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
-‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/)
+{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}

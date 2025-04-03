@@ -1,7 +1,7 @@
 ---
 title: "Descubre a qué sabe Navarra a través de estas rutas gastronómicas"
 date: 2023-05-08
-coverImage: https://fotos.etheriamagazine.com/2023/05/navarra-ruta-northern-spain-travel.jpg
+cover: https://fotos.etheriamagazine.com/2023/05/navarra-ruta-northern-spain-travel.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-La variedad orográfica Navarra propicia que su territorio cuente con una espectacular 
+**La variedad orográfica Navarra propicia que su territorio cuente con una espectacular 
 despensa donde no faltan verduras ni carnes de calidad. Si a todo ello se le suma un 
 recetario con influencia de las regiones vecinas, incluidas las francesas… el resultado 
 es una tierra tan rica que habría que visitarla al menos en cinco ocasiones para empezar 
-a hacernos una idea de la gastronomía navarra. 
+a hacernos una idea de la gastronomía navarra.** 
 
 ![Ruta con Northern Spain Travel.](https://fotos.etheriamagazine.com/2023/05/navarra-ruta-northern-spain-travel.jpg "Ruta con Northern Spain Travel.")
 
@@ -181,11 +181,9 @@ navarras.
 
 ✅ **También en Navarra...** 
 
-[Planes increíbles por los que querrás viajar a 
-Navarra](https://etheriamagazine.com/2021/12/23/planes-en-navarra-con-amigas/). 
+{{< reflink path=posts/2021/12/planes-en-navarra-con-amigas >}}. 
 
-[Por qué Tierra Estella y Tierras de Iranzu protagonizarán tu próximo viaje en familia a 
-Navarra](https://etheriamagazine.com/2021/02/08/navarra-en-familia-tierra-estella-y-tierras-de-iranzu/). 
+{{< reflink path=posts/2021/02/navarra-en-familia-tierra-estella-y-tierras-de-iranzu 
+>}}. 
 
-[Rutas en el hayedo encantado de Urbasa y en Urederra 
-(Navarra)](https://etheriamagazine.com/2020/10/05/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra/).
+{{< reflink path=posts/2020/10/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}.

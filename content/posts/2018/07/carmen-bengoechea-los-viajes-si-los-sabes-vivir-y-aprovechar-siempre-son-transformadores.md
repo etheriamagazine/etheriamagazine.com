@@ -1,7 +1,7 @@
 ---
 title: "Carmen Bengoechea: \"Los viajes, si los sabes vivir y aprovechar, siempre son transformadores\""
 date: 2018-07-30
-coverImage: https://fotos.etheriamagazine.com/2018/07/Carmen-Bengoechea-Mujer-Etheria-2.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/Carmen-Bengoechea-Mujer-Etheria-2.jpg
 categories: 
   - mujeres-top
 destino: 

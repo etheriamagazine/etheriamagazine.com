@@ -1,18 +1,18 @@
 ---
 title: "Complutum Renacida, Alcalá de Henares se transforma en Roma en el puente de mayo"
 date: 2023-04-14
-coverImage: https://fotos.etheriamagazine.com/2023/04/desfile-complutum-renacida-alcala.jpg
+cover: https://fotos.etheriamagazine.com/2023/04/desfile-complutum-renacida-alcala.jpg
 destino: 
   - España
 authors: 
   - Pepa G. Marín
 ---
 
-La antigua Roma se instala en la ciudad de Alcalá de Henares para invitarnos a realizar 
-un apasionante viaje al siglo IV. Del 28 de abril al 2 de mayo de 2023, la diversión y 
-el aprendizaje están asegurados gracias a una meticulosa puesta en escena de poblados 
-romanos, mercados, recreaciones históricas, degustaciones y espectáculos sorprendentes 
-como el Gran Circus Maximus. 
+**La antigua Roma se instala en la ciudad de Alcalá de Henares para invitarnos a 
+realizar un apasionante viaje al siglo IV. Del 28 de abril al 2 de mayo de 2023, la 
+diversión y el aprendizaje están asegurados gracias a una meticulosa puesta en escena de 
+poblados romanos, mercados, recreaciones históricas, degustaciones y espectáculos 
+sorprendentes como el Gran Circus Maximus.** 
 
 ![Desfile de las tropas romanas en Complutum Renacida](https://fotos.etheriamagazine.com/2023/04/desfile-complutum-renacida-alcala.jpg "Desfile de las tropas romanas en Complutum Renacida. © Ayto. Alcalá de Henares")
 
@@ -151,8 +151,6 @@ anterior en tu móvil o en el ordenador.
 
 **Más planes familiares en ETHERIA MAGAZINE...** 
 
-[5 excursiones MUY DIVERTIDAS con niños en 
-Madrid](https://etheriamagazine.com/2023/03/24/excursiones-ninos-en-madrid/). 
+{{< reflink path=posts/2023/03/excursiones-ninos-en-madrid >}}. 
 
-[Planes divertidos con adolescentes en 
-Madrid](https://etheriamagazine.com/2022/12/16/planes-adolescentes-madrid/).
+{{< reflink path=posts/2022/12/planes-adolescentes-madrid >}}.

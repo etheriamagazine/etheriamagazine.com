@@ -1,7 +1,7 @@
 ---
 title: "6 lugares para hacer un bautismo de buceo en España"
 date: 2020-07-14
-coverImage: https://fotos.etheriamagazine.com/2020/07/bautismo-buceo.jpg
+cover: https://fotos.etheriamagazine.com/2020/07/bautismo-buceo.jpg
 categories: 
   - inspiración
 destino: 
@@ -112,7 +112,8 @@ Jávea](https://www.civitatis.com/es/javea/bautismo-buceo-javea/?aid=10211) desd
 ### Bautismo de buceo en Almuñécar
 
 Granada tiene tantos atractivos que son necesarias unas vacaciones prolongadas para 
-disfrutar de su capital, con la bellísima [Alhambra](http://etheriamagazine.com/2020/05/29/48-horas-en-el-albayzin-y-la-alhambra/); 
+disfrutar de su capital, con la bellísima 
+[Alhambra](http://etheriamagazine.com/2020/05/29/48-horas-en-el-albayzin-y-la-alhambra/); 
 de los pueblos de las Alpajarras; de Sierra Nevada, con sus actividades tanto en 
 invierno como en verano… ; y, también, de su costa Tropical. Nuestra propuesta es que, 
 además, de darte algún chapuzón, te sumerjas en el Mediterráneo totalmente equipado para 
@@ -132,8 +133,8 @@ En una ciudad tan coqueta como Cambrils, donde se come de maravilla, es fácil d
 vencer por la pereza de realizar una actividad deportiva. Sin embargo, en este caso está 
 muy justificado ponerse las pilas, ya que descubrirás de donde sale el producto que has 
 podido ver descargando en su puerto. A la vuelta de bucear ya degustarás algún rico 
-arroz con marisco, o unas gambas rojas a la plancha (no te pierdas este artículo con los [mejores 
-restaurantes donde comer gamba 
+arroz con marisco, o unas gambas rojas a la plancha (no te pierdas este artículo con los 
+[mejores restaurantes donde comer gamba 
 roja](http://etheriamagazine.com/2019/07/02/mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva/) 
 en la costa española). 
 

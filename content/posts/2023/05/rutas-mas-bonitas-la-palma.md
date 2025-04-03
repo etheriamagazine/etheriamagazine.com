@@ -1,17 +1,17 @@
 ---
 title: "Senderismo en La Palma, descubre sus rutas más bonitas"
 date: 2023-05-24
-coverImage: https://fotos.etheriamagazine.com/2023/05/etheria-la-palma.jpg
+cover: https://fotos.etheriamagazine.com/2023/05/etheria-la-palma.jpg
 destino: 
   - España
 authors: 
   - Redacción Etheria
 ---
 
-Con más de mil kilómetros señalizados, la isla de La Palma es uno de los paraísos con 
+**Con más de mil kilómetros señalizados, la isla de La Palma es uno de los paraísos con 
 los que sueña cualquier senderista. A través de sus itinerarios se descubre el perfil 
 más virgen de este territorio canario. Si a ti te va lo verde y quieres conocer las 
-rutas más bonitas de La Palma sigue leyendo... No te arrepentirás. 
+rutas más bonitas de La Palma sigue leyendo... No te arrepentirás.** 
 
 ![Ruta del Cubo de la Galga en La Palma](https://fotos.etheriamagazine.com/2023/05/ruta-cubo-galga.jpg "Ruta del Cubo de la Galga. © Turismo Islas Canarias")
 
@@ -95,8 +95,6 @@ más pequeños se vayan aficionando a la competición.
 
 **También te puede interesar...** 
 
-[10 poderosas razones para viajar a La Palma (y ninguna es el 
-volcán)](https://etheriamagazine.com/2021/11/15/10-razones-para-visitar-la-palma/). 
+{{< reflink path=posts/2021/11/10-razones-para-visitar-la-palma >}}. 
 
-[10 secretos que deberías conocer de la isla de La 
-Palma](https://etheriamagazine.com/2021/04/05/10-secretos-para-conocer-la-isla-de-la-palma/).
+{{< reflink path=posts/2021/04/10-secretos-para-conocer-la-isla-de-la-palma >}}.

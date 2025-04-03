@@ -1,7 +1,7 @@
 ---
 title: "Cozumel, Holbox e Isla Mujeres, tres islas de Yucatán donde querrás quedarte a vivir"
 date: 2021-08-01
-coverImage: https://fotos.etheriamagazine.com/2018/12/mujeres-viajeras-islas-yucatan.jpg
+cover: https://fotos.etheriamagazine.com/2018/12/mujeres-viajeras-islas-yucatan.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -64,7 +64,8 @@ mi sorpresa cuando descubro que bajo sus aguas viven más de quinientas estatuas
 obras de arte sobre las que crece el arrecife. Claramente estamos en el [Museo 
 Subacuático de Arte](https://musamexico.org/es/), creado por el escultor inglés Jason 
 deCaires Taylor, del que tanto presume en sus folletos Isla Mujeres (creador también del 
-Museo Atlántico de [Lanzarote](https://etheriamagazine.com/2018/10/03/lanzarote-o-la-furia-de-la-tierra/)). 
+Museo Atlántico de {{< reflink 
+path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}}). 
 
 > Un lugar mágico, en el que una comunidad de esculturas talladas a imagen y semejanza de 
 > los habitantes de un pueblo maya, conviven en simbiosis con la naturaleza. Parece emular 
@@ -120,11 +121,11 @@ relación calidad-precio.
 
 ### También te puede interesar
 
-[10 yacimientos arqueológicos de México que no puedes 
-perderte](https://etheriamagazine.com/2021/03/30/mejores-yacimientos-arqueologicos-mexico/) 
+{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}} 
 
-[Escapada en pareja al Royal Hideaway Playacar en la Riviera Maya 
-mexicana](https://etheriamagazine.com/2020/04/07/escapada-en-pareja-en-el-royal-hideaway-playacar-en-la-riviera-maya-mexicana/) 
+{{< reflink 
+path=posts/2020/04/escapada-en-pareja-en-el-royal-hideaway-playacar-en-la-riviera-maya-mexicana 
+>}} 
 
-[10 razones para viajar a República 
-Dominicana](https://etheriamagazine.com/2018/05/18/10-razones-para-visitar-punta-cana-republica-dominicana/)
+{{< reflink path=posts/2018/05/10-razones-para-visitar-punta-cana-republica-dominicana 
+>}}

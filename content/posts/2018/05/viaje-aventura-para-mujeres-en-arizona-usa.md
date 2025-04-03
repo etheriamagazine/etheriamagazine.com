@@ -1,7 +1,7 @@
 ---
 title: "Arizona: vive tu propia road movie en territorio navajo"
 date: 2018-05-29
-coverImage: https://fotos.etheriamagazine.com/2018/05/Antelope-Canyon.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Antelope-Canyon.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Kris Ubach
 ---
 
-Arizona es uno de los estados más áridos y despoblados de Estados Unidos, un lugar de 
+**Arizona es uno de los estados más áridos y despoblados de Estados Unidos, un lugar de 
 carreteras sin fin, moteles, paisajes de piedra y mucho viento. Viajaremos al norte del 
 estado, donde no hay ciudades colmadas de museos o grandes centros comerciales, pero sí 
-naturaleza en su sentido más extremo. 
+naturaleza en su sentido más extremo.** 
 
 ![Los indios navajos ya adoraban las formas y colores del Antelope Canyon.](https://fotos.etheriamagazine.com/2018/05/Antelope-Canyon.jpg "Los indios navajos ya adoraban las formas y colores del Antelope Canyon.")
 
@@ -121,8 +121,7 @@ Más información en [www.visitarizona.com](http://www.visitarizona.com)
 
 **También te puede interesar...** 
 
-[10 experiencias alucinantes en el Lejano Oeste 
-americano](https://etheriamagazine.com/2019/07/18/ruta-california-por-el-lejano-oeste-americano/) 
+{{< reflink path=posts/2019/07/ruta-california-por-el-lejano-oeste-americano >}} 
 
-[California Dreams. Un road trip vinícola en Estados 
-Unidos](https://etheriamagazine.com/2020/01/06/ruta-enoturismo-con-amigas-california-napa-valley-sonoma/)
+{{< reflink path=posts/2020/01/ruta-enoturismo-con-amigas-california-napa-valley-sonoma 
+>}}

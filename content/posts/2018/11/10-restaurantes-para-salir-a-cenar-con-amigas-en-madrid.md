@@ -1,7 +1,7 @@
 ---
 title: "10 restaurantes para salir a cenar con amigas en Madrid"
 date: 2018-11-09
-coverImage: https://fotos.etheriamagazine.com/2018/11/restaurantes-amigas-madrid-lecoco.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/restaurantes-amigas-madrid-lecoco.jpg
 categories: 
   - inspiración
   - gourmet
@@ -12,11 +12,11 @@ authors:
   - Susana García
 ---
 
-Reconozcámoslo, nos encantan las salidas con amigas para echarnos unas charlas y unas 
+**Reconozcámoslo, nos encantan las salidas con amigas para echarnos unas charlas y unas 
 risas cualquier noche de la semana. Y si además encontramos un local donde la comida y 
 el ambiente acompañan, mucho mejor. En este artículo proponemos 10 restaurantes de la 
 capital donde confidencias y carcajadas son compatibles con buena gastronomía y locales 
-llenos de encanto. 
+llenos de encanto.** 
 
 ![interior del restaurante lakasa](https://fotos.etheriamagazine.com/2018/10/cenar-con-amigas-lakasa-sala-e1646394573276.jpg "Sala del restaurante Lakasa. ©Lakasa")
 
@@ -166,9 +166,8 @@ digan a su croquetas con nigiri… Por qué nos gusta: porque **la cena se convi
 sorpresa**, en un eje más de la conversación (no puedes dejar de comentar cada plato) y 
 por su excelente relación calidad/precio. 
 
-[Arallo 
-Taberna](https://etheriamagazine.com/2018/05/17/cenar-con-amigas-en-taberna-arallo-madrid/): 
-calle Reina, 31. Tel. 690 673 796. Precio medio: 25-35 Euros. 
+{{< reflink path=posts/2018/05/cenar-con-amigas-en-taberna-arallo-madrid >}}: calle 
+Reina, 31. Tel. 690 673 796. Precio medio: 25-35 Euros. 
 
 ![ricas empanadas de la taberna arallo de madrid](https://fotos.etheriamagazine.com/2018/10/Taberna-Arallo-1.jpg "Empanadas en Arallo Taberna. ©Arallo Taberna.")
 
@@ -189,11 +188,8 @@ a 16 horas), 24 Euros. Precio cena de carta: 30 a 40 Euros.
 
 ### Más planes con amigas en Madrid
 
-[Las 10 mejores coctelerías de Madrid para tu próxima noche de 
-amigas.](https://etheriamagazine.com/2019/10/22/10-mejores-coctelerias-de-madrid-salir-con-amigas/) 
+{{< reflink path=posts/2019/10/10-mejores-coctelerias-de-madrid-salir-con-amigas >}} 
 
-[10 planes originales en Madrid para hacer con 
-amigas](https://etheriamagazine.com/2020/08/27/10-planes-originales-en-madrid-con-amigas/). 
+{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}. 
 
-[Restaurantes peruanos en Madrid con el sello del chef Jhosef 
-Arias](https://etheriamagazine.com/2022/01/24/restaurantes-peruanos-en-madrid-de-jhosef-arias/).
+{{< reflink path=posts/2022/01/restaurantes-peruanos-en-madrid-de-jhosef-arias >}}.

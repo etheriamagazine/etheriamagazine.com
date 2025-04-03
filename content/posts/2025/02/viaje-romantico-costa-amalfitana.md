@@ -1,7 +1,7 @@
 ---
 title: "Costa Amalfitana, tres paradas básicas para un viaje de enamorados"
 date: 2025-02-14
-coverImage: https://fotos.etheriamagazine.com/2025/02/positano-viaje-parejas.jpeg
+cover: https://fotos.etheriamagazine.com/2025/02/positano-viaje-parejas.jpeg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -108,14 +108,18 @@ sus pueblos, sino a los sabores que brindan sus restaurantes. Además del _limon
 que nos suele gustar a casi todas, la cocina local está marcada por el mar y las recetas 
 tradicionales, sin artificios. Los mariscos frescos, la pasta casera, las hortalizas 
 cultivadas en el entorno y los quesos artesanales son los verdaderos protagonistas de 
-cada plato. Algunas especialidades que no hay que perderse son: • **Scialatielli ai 
-frutti di mare**: un tipo de pasta fresca, similar a los tagliatelle, servida con una 
-mezcla de mariscos y tomates frescos. Un plato exquisito. • **Alici di Cetara**: anchoas 
-en salazón producidas en el pequeño pueblo de Cetara, consideradas una delicatessen en 
-toda Italia. • **Delizia al limone**: un postre esponjoso y cremoso que resalta el sabor 
-del limón de Amalfi. 
+cada plato. Algunas especialidades que no hay que perderse son: 
 
-https://www.youtube.com/watch?v=TeqdsWavXMc
+- **Scialatielli ai frutti di mare**: un tipo de pasta fresca, similar a los 
+tagliatelle, servida con una mezcla de mariscos y tomates frescos. Un plato exquisito. 
+
+- **Alici di Cetara**: anchoas en salazón producidas en el pequeño pueblo de Cetara, 
+consideradas una delicatessen en toda Italia. 
+
+- **Delizia al limone**: un postre esponjoso y cremoso que resalta el sabor del limón de 
+Amalfi. 
+
+{{< youtube id=TeqdsWavXMc title="Receta sencilla de la Delizie al limone, un postre típico de la Costa Amalfitana." >}}
 
 Los restaurantes frente al mar, las terrazas escondidas y las _trattorias_ familiares 
 ofrecen experiencias gastronómicas inolvidables, donde cada bocado lleva parte de la 
@@ -159,12 +163,11 @@ Positano** (sirenuse.it); o el **Hotel Villa Cimbrone**, en Ravello
 (hotelvillacimbrone.com). Los tres son maravillosos y muy románticos, os costará elegir 
 uno de ellos. 
 
-**Más información **[Turismo de Italia.](http://www.italia.it) 
+**Más información**[Turismo de Italia.](http://www.italia.it) 
 
 Sigue leyendo sobre Italia 
 
-[Caótica Nápoles: 48 horas en la ciudad más canalla de 
-Italia](https://etheriamagazine.com/2020/09/04/que-ver-en-napoles-en-fin-de-semana/). 
+{{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}}. 
 
-[Ruta en coche alrededor del lago de Garda, el mayor de 
-Ita](https://etheriamagazine.com/2021/09/22/ruta-en-coche-en-lago-de-garda-italia/)[lia](https://etheriamagazine.com/2021/09/22/ruta-en-coche-en-lago-de-garda-italia/)
+{{< reflink path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}}{{< reflink 
+path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}}

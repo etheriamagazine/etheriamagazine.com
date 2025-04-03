@@ -1,7 +1,7 @@
 ---
 title: "Conoce los secretos de Guanacaste y la ilusión de sus emprendedoras"
 date: 2022-10-27
-coverImage: https://fotos.etheriamagazine.com/2022/10/Guanacaste-playa-hermosa.jpg
+cover: https://fotos.etheriamagazine.com/2022/10/Guanacaste-playa-hermosa.jpg
 categories: 
   - viajar-con-amigas
   - historias
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-La región de Guanacaste combina frondosos parques en el interior con una costa de playas 
-perfectas enmarcadas también en la privilegiada naturaleza de Costa Rica. En este 
+**La región de Guanacaste combina frondosos parques en el interior con una costa de 
+playas perfectas enmarcadas también en la privilegiada naturaleza de Costa Rica. En este 
 entorno te presentamos a Dalila Cascante y Santos Girón, dos mujeres emprendedoras que 
 con mucho trabajo y proyectos enfocados en el turismo han dado forma a su carrera 
-profesional y ayudan cada día a dinamizar la economía de sus localidades. 
+profesional y ayudan cada día a dinamizar la economía de sus localidades.** 
 
 ![Playa Hermosa, en la península de Papagayo.](https://fotos.etheriamagazine.com/2022/10/Guanacaste-playa-hermosa.jpg "Playa Hermosa, en la península de Papagayo. © Joan Vendrell.")
 
@@ -51,7 +51,8 @@ nos visitan y de la cultura de otros países, y eso enriquece”. ¿Qué más se
 de **una mujer emprendedora** que prefiere tratar a los visitantes como amigos antes que 
 como clientes? 
 
-📌 Puedes conocer su testimonio en este [vídeo](https://www.youtube.com/watch?v=39wJQYs1ito). 
+📌 Puedes conocer su testimonio en este 
+[vídeo](https://www.youtube.com/watch?v=39wJQYs1ito). 
 
 ### Santos Girón, cocinera
 
@@ -65,7 +66,8 @@ participan en la elaboración de los platillos, y asegura que el plato que más 
 gustar es el arroz con pollo. Una auténtica representante de la cocina tradicional 
 guanacasteca que podrás conocer en tu viaje a Guanacaste. 
 
-📌 Puede conocer su testimonio en este [vídeo](https://www.youtube.com/watch?v=6CqsqW5DGMw). 
+📌 Puede conocer su testimonio en este 
+[vídeo](https://www.youtube.com/watch?v=6CqsqW5DGMw). 
 
 ![mujer cocinera de Costa Rica](https://fotos.etheriamagazine.com/2022/10/Guanacaste-Antonina.jpg "Santos Girón, cocinera de "las mujeres del maíz" de Guanacaste.")
 
@@ -209,11 +211,8 @@ Rica](https://www.visitcostarica.com/es).
 
 **Más temas de Costa Rica:** 
 
-[Valle Central de Costa Rica: 3 mujeres y 10 paradas 
-imprescindibles](https://etheriamagazine.com/2022/09/16/valle-central-caribe-costa-rica/) 
+{{< reflink path=posts/2022/09/valle-central-caribe-costa-rica >}} 
 
-[Sarapiquí, ecoturismo y gastronomía en femenino en Costa 
-Rica](https://etheriamagazine.com/2022/08/18/que-ver-sarapiqui-costa-rica/) 
+{{< reflink path=posts/2022/08/que-ver-sarapiqui-costa-rica >}} 
 
-[Descubre la esencia de la Península de Nicoya, tierra de artesanas y 
-naturaleza](https://etheriamagazine.com/2022/07/15/que-ver-peninsula-nicoya-costa-rica/)
+{{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}}

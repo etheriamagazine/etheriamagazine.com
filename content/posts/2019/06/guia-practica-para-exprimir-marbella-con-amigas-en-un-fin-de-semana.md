@@ -1,7 +1,7 @@
 ---
 title: "Planes para exprimir un fin de semana en Marbella con amigas"
 date: 2019-06-11
-coverImage: https://fotos.etheriamagazine.com/2019/05/viaje-marbella-la-Plaza.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/viaje-marbella-la-Plaza.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -152,11 +152,10 @@ Marbella, en las conocidas Dunas de Artola. ¿Que no queréis coger el coche par
 sí variar y salir un poco de las playas del centro de Marbella? Podréis ir a la playa 
 del Cable, entre el famoso arco de entrada de Marbella y el puerto pesquero. Pero 
 recordad, que a solo 143 km está una de las playas más bonitas de Andalucía, la de 
-Bolonia (ya en [Cádiz](https://etheriamagazine.com/2019/05/20/viajar-con-amigas-que-hacer-en-cadiz/)), 
-al lado de las [ruinas de Baelo 
-Claudia](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/). 
-Una de esas excursiones veraniegas que hay que hacer para ver su espectacular puesta de 
-sol. 
+Bolonia (ya en {{< reflink path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}}), 
+al lado de las {{< reflink 
+path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}}. Una de 
+esas excursiones veraniegas que hay que hacer para ver su espectacular puesta de sol. 
 
 ![viaje marbella, atardecer](https://fotos.etheriamagazine.com/2019/05/viaje-marbella-atardecer.jpg "Atardecer en Marbella.")
 
@@ -166,13 +165,14 @@ Si no sois de las de ver atardecer en la playa y apurar hasta el último rayo de
 plan divertido es que alquiléis unas bicis para llegar hasta Puerto Banús por el Paseo 
 Marítimo. 
 
-Tampoco os podéis marchar sin hacer la visita cultural más especial de la ciudad, el [Museo 
-del Grabado Español Contemporáneo](http://www.mgec.es/wp/museo/)**,** en el entramado de 
-callejuelas del centro histórico. Para llegar hasta él pasaréis junto a la impresionante 
-muralla árabe de la antigua villa. De repente os tropezaréis con este edificio, el 
-antiguo Hospital de Bazán que hoy alberga grabados de Picasso, Dalí, Miró, Millares… A 
-la salida, cenar 'pescaíto' frito al más puro estilo malagueño; a la vuelta de la 
-esquina del museo es posible en la terraza de **El Cordobés,** a precios populares. 
+Tampoco os podéis marchar sin hacer la visita cultural más especial de la ciudad, el 
+[Museo del Grabado Español Contemporáneo](http://www.mgec.es/wp/museo/)**,** en el 
+entramado de callejuelas del centro histórico. Para llegar hasta él pasaréis junto a la 
+impresionante muralla árabe de la antigua villa. De repente os tropezaréis con este 
+edificio, el antiguo Hospital de Bazán que hoy alberga grabados de Picasso, Dalí, Miró, 
+Millares… A la salida, cenar 'pescaíto' frito al más puro estilo malagueño; a la vuelta 
+de la esquina del museo es posible en la terraza de **El Cordobés,** a precios 
+populares. 
 
 ![museo del grabado, viaje marbella](https://fotos.etheriamagazine.com/2019/05/viaje-marbella-museo-grabado.jpg "Museo del Grabado (Marbella).")
 
@@ -221,11 +221,8 @@ caída de la noche y hasta el amanecer.
 ciudad](https://www.civitatis.com/es/marbella/free-tour-marbella/?aid=10211) con una 
 visita guiada, ideal si viajas sola. 
 
-[Andalucía en autocaravana y consejos prácticos para 
-novatos](https://etheriamagazine.com/2021/04/07/consejos-rutas-andalucia-en-autocaravana/) 
+{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}} 
 
-[BiBo Beach House, el “todo en uno” de 
-Tarifa](https://etheriamagazine.com/2021/04/09/bibo-beach-house-chiringuito-tarifa/) 
+{{< reflink path=posts/2021/04/bibo-beach-house-chiringuito-tarifa >}} 
 
-[Un fin de semana en Málaga con 
-amigas](https://etheriamagazine.com/2018/12/06/fin-de-semana-con-amigas-en-malaga/)
+{{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}}

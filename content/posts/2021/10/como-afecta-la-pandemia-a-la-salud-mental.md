@@ -1,7 +1,7 @@
 ---
 title: "La pandemia se ceba con las personas con problemas de salud mental"
 date: 2021-10-08
-coverImage: https://fotos.etheriamagazine.com/2021/10/violencia-mujeres-pandemia.jpg
+cover: https://fotos.etheriamagazine.com/2021/10/violencia-mujeres-pandemia.jpg
 categories: 
   - bienestar
 destino: 
@@ -180,11 +180,10 @@ la ONG, “en la respuesta a la pandemia se tiene que integrar una respuesta psi
 
 ### También te puede interesar...
 
-[Barra libre de ansiolíticos y antidepresivos, ¿se medicalizan los problemas 
-sociales?](https://etheriamagazine.com/2021/04/14/ansioliticos-y-antidepresivos-no-resuelven-los-problemas/) 
+{{< reflink path=posts/2021/04/ansioliticos-y-antidepresivos-no-resuelven-los-problemas 
+>}} 
 
-[Personas Altamente Sensibles. ¿Es realmente un don la 
-sensibilidad?](https://etheriamagazine.com/2020/11/25/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad/) 
+{{< reflink 
+path=posts/2020/11/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}} 
 
-[El aguacate, conoce sus beneficios y prepara recetas 
-sencillas](https://etheriamagazine.com/2021/01/26/aguacate-beneficios-y-recetas-bajas-en-calorias/)
+{{< reflink path=posts/2021/01/aguacate-beneficios-y-recetas-bajas-en-calorias >}}

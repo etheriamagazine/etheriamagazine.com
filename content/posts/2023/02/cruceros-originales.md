@@ -1,17 +1,17 @@
 ---
 title: "Cruceros originales para vivir unas vacaciones diferentes"
 date: 2023-02-24
-coverImage: https://fotos.etheriamagazine.com/2023/02/crucero-alaska-glacier-bay.jpg
+cover: https://fotos.etheriamagazine.com/2023/02/crucero-alaska-glacier-bay.jpg
 destino: 
   - España
 authors: 
   - Redacción Etheria
 ---
 
-Viajar en crucero siempre es una buena opción cuando se quiere descansar y no pensar 
+**Viajar en crucero siempre es una buena opción cuando se quiere descansar y no pensar 
 mucho en la ruta y los alojamientos. La oferta es casi infinita en itinerarios y tipos 
 de barcos, así que hemos seleccionado 10 cruceros originales con los que hacer un viaje 
-diferente. Seguro que te van a apetecer muchísimo. 
+diferente. Seguro que te van a apetecer muchísimo.** 
 
 ![Un crucero original de Variety Cruises por las islas Seychelles](https://fotos.etheriamagazine.com/2023/02/cruceros-originales-variety-cruises-seychelles.jpg "Crucero de © Variety Cruises por las islas Seychelles.")
 
@@ -32,9 +32,10 @@ momento.
 ![Crucero por Países Bajos y Holanda de Icarion](https://fotos.etheriamagazine.com/2023/02/Cruceros-originales-holanda-paises-bajos.jpg "Crucero por Países Bajos y Holanda de © Icarion.")
 
 Los más habituales son por la parte alemana del Rin, por eso nos ha gustado tanto la 
-propuesta de [Icarion](https://www.icarion.es/viaje/crucero-por-el-rin-paises-bajos-y-belgica) 
-que recorre este río en su tramo por Países Bajos y Holanda. En un barco de categoría 
-cinco estrellas, y con salida y llegada a Ámsterdam, se visitan ciudades como Rotterdam, 
+propuesta de 
+[Icarion](https://www.icarion.es/viaje/crucero-por-el-rin-paises-bajos-y-belgica) que 
+recorre este río en su tramo por Países Bajos y Holanda. En un barco de categoría cinco 
+estrellas, y con salida y llegada a Ámsterdam, se visitan ciudades como Rotterdam, 
 Middleburg, Amberes o Gante. Como es un viaje organizado por un turoperador, no hay que 
 preocuparse de nada, ya que incluye los vuelos, las visitas, la pensión completa a bordo 
 y charlas de especialistas durante el crucero. Podrás disfrutar de este crucero durante 
@@ -68,8 +69,8 @@ cubierta, el viaje quedará como un recuerdo imborrable.
 
 ![Barco de Navimag por los fiordos chilenos.](https://fotos.etheriamagazine.com/2023/02/Cruceros-originales-Navimag.jpg "Barco de © Navimag por los fiordos chilenos.")
 
-📍Infórmate en [Crucero por los fiordos y canales de la Patagonia 
-chilena](https://etheriamagazine.com/2019/03/22/viajar-sola-crucero-fiordos-canales-patagonia-chile/) 
+📍Infórmate en {{< reflink 
+path=posts/2019/03/viajar-sola-crucero-fiordos-canales-patagonia-chile >}} 
 
 ## Crucero por Alaska
 
@@ -101,8 +102,8 @@ de la isla desde su salón panorámico.
 
 ![Barco MS Maud de Hurtigruten](https://fotos.etheriamagazine.com/2023/02/cruceros-originales-maud-hurtigruten.jpg "Barco de © Hurtigruten por Islandia.")
 
-📍Te lo contamos en este artículo: [‘Círculo de hielo y fuego’, conoce la nueva ruta del 
-Hurtigruten en Islandia](https://etheriamagazine.com/2023/01/12/hurtigruten-islandia/) 
+📍Te lo contamos en este artículo: {{< reflink path=posts/2023/01/hurtigruten-islandia 
+>}} 
 
 ## Crucero por Seychelles
 
@@ -141,9 +142,8 @@ camarotes dobles), por lo que la experiencia a bordo se personaliza al máximo y
 pueden elegir actividades complementarias que van desde sesiones de yoga por la mañana 
 hasta clases de cocina local. 
 
-📍Puedes conocer nuestra experiencia en el barco en este artículo: [Crucero por el 
-Mekong. Vietnam y Camboya a través del río de la 
-vida](https://etheriamagazine.com/2019/09/13/crucero-por-el-mekong-excursiones-vietnam-y-camboya/) 
+📍Puedes conocer nuestra experiencia en el barco en este artículo: {{< reflink 
+path=posts/2019/09/crucero-por-el-mekong-excursiones-vietnam-y-camboya >}} 
 
 ## Cruceros por Oriente Medio
 
@@ -195,8 +195,6 @@ en la agencia **Mundomar** (mundomarcruceros.com).
 
 📌 **Además de cruceros originales también te puede interesar...** 
 
-[Tips imprescindibles para organizar tu primer viaje en 
-crucero](https://etheriamagazine.com/2021/02/25/como-organizar-viaje-en-crucero-puertos-excursiones/) 
+{{< reflink path=posts/2021/02/como-organizar-viaje-en-crucero-puertos-excursiones >}} 
 
-[Como preparar la maleta para un 
-crucero](https://etheriamagazine.com/2018/11/17/una-maleta-para-un-crucero/)
+{{< reflink path=posts/2018/11/una-maleta-para-un-crucero >}}

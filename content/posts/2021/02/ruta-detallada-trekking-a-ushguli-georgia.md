@@ -1,7 +1,7 @@
 ---
 title: "Trekking a Ushguli, la aldea habitada más alta de Europa"
 date: 2021-02-16
-coverImage: https://fotos.etheriamagazine.com/2021/02/ushguli-georgia.jpg
+cover: https://fotos.etheriamagazine.com/2021/02/ushguli-georgia.jpg
 categories: 
   - viajar-sola
   - historias
@@ -158,21 +158,18 @@ siempre es mágica.
 
 ![Sola Anatomia de un viaje en tren a Tbilisi](https://fotos.etheriamagazine.com/2021/02/viajar-sola-georgia.jpg)
 
-Autora de la ruta: **Gracia Martínez**. Sigue sus aventuras en [Instagram](https://www.instagram.com/livinglavidageorgia/) 
-y en su blog [Living la vida Georgia](http://living-la-vida-georgia.com/). Puedes 
-conseguir su libro: [Sola. Anatomía de un viaje en tren a 
-Tbilisi](https://amzn.to/3a6al92), en Amazon. 
+Autora de la ruta: **Gracia Martínez**. Sigue sus aventuras en 
+[Instagram](https://www.instagram.com/livinglavidageorgia/) y en su blog [Living la vida 
+Georgia](http://living-la-vida-georgia.com/). Puedes conseguir su libro: [Sola. Anatomía 
+de un viaje en tren a Tbilisi](https://amzn.to/3a6al92), en Amazon. 
 
 ### También te puede interesar...
 
-[Georgia. 10 perlas entre Europa y 
-Asia](https://etheriamagazine.com/2019/02/13/que-ver-georgia/). 
+{{< reflink path=posts/2019/02/que-ver-georgia >}}. 
 
-[Komvida, un proyecto creado por dos emprendedoras 
-extremeñas](https://etheriamagazine.com/2020/08/10/komvida-la-exitosa-apuesta-de-dos-emprendedoras-extremenas/). 
+{{< reflink 
+path=posts/2020/08/komvida-la-exitosa-apuesta-de-dos-emprendedoras-extremenas >}}. 
 
-[Mujeres artistas Suomi y Sami en 
-Finlandia](https://etheriamagazine.com/2019/07/01/viaje-finlandia-mujeres-artistas-suomi-y-sami/). 
+{{< reflink path=posts/2019/07/viaje-finlandia-mujeres-artistas-suomi-y-sami >}}. 
 
-[La mujer bereber del Alto Atlas 
-marroquí](https://etheriamagazine.com/2019/04/01/vida-mujer-bereber-alto-atlas-marruecos/).
+{{< reflink path=posts/2019/04/vida-mujer-bereber-alto-atlas-marruecos >}}.

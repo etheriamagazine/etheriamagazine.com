@@ -1,7 +1,7 @@
 ---
 title: "Ruta por los jardines y perfumes de la Costa Azul"
 date: 2021-07-07
-coverImage: https://fotos.etheriamagazine.com/2021/06/Costa-Azul-Expo-Rosas-Grasse.jpg
+cover: https://fotos.etheriamagazine.com/2021/06/Costa-Azul-Expo-Rosas-Grasse.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -241,16 +241,12 @@ Más información en la página web de la [Costa Azul](https://cotedazurfrance.f
 
 ### Más artículos de Francia en Etheria Magazine
 
-[Ruta del Impresionismo en Normandía: arte a 
-raudales](https://etheriamagazine.com/2021/06/24/4-dias-ruta-impresionismo-normandia-francia/) 
+{{< reflink path=posts/2021/06/4-dias-ruta-impresionismo-normandia-francia >}} 
 
-[Ruta en coche por el Valle del 
-Loira](https://etheriamagazine.com/2019/03/14/que-ver-ruta-en-coche-valle-del-loira/) 
+{{< reflink path=posts/2019/03/que-ver-ruta-en-coche-valle-del-loira >}} 
 
-[48 horas en… La Rochelle y la isla de 
-Ré](https://etheriamagazine.com/2018/09/18/guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re/) 
+{{< reflink path=posts/2018/09/guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re >}} 
 
-[Nantes con amigas, descubrid la ciudad extraordinaria que soñó Julio 
-Verne](https://etheriamagazine.com/2019/08/29/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa/) 
+{{< reflink path=posts/2019/08/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa >}} 
 
 .

@@ -1,7 +1,7 @@
 ---
 title: "10 productos manchegos de calidad que alegran tu mesa por pocos euros"
 date: 2023-12-22
-coverImage: https://fotos.etheriamagazine.com/2023/12/productos-manchegos-cena-navidad.jpg
+cover: https://fotos.etheriamagazine.com/2023/12/productos-manchegos-cena-navidad.jpg
 categories: 
   - gourmet
 destino: 
@@ -22,11 +22,10 @@ de la compra.
 Las rutas enoturísticas siempre sorprenden con propuestas atractivas para disfrutar 
 tanto _in situ_ como al volver a casa. Entre esos productos que siempre son bien 
 acogidos en nuestros encuentros con los seres queridos están los quesos, vinos y aceites 
-de la [Ruta del Vino de La 
-Mancha](https://etheriamagazine.com/2019/03/20/ruta-del-vino-de-la-mancha/). Hemos 
-realizado una selección con nombre y apellidos para que sólo tengáis que apuntarlos e ir 
-a hacer la compra o un pedido _on line_. Y con una ventaja añadida, sus precios **desde 
-poco más de 4 euros** permiten darse el capricho sin grandes desembolsos. 
+de la {{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha >}}. Hemos realizado una 
+selección con nombre y apellidos para que sólo tengáis que apuntarlos e ir a hacer la 
+compra o un pedido _on line_. Y con una ventaja añadida, sus precios **desde poco más de 
+4 euros** permiten darse el capricho sin grandes desembolsos. 
 
 ## La Jaraba, el mejor queso del mundo
 

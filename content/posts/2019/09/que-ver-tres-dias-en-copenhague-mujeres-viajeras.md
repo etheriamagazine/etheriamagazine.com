@@ -1,7 +1,7 @@
 ---
 title: "Descubre el secreto de la felicidad que guarda celosamente Copenhague"
 date: 2019-09-23
-coverImage: https://fotos.etheriamagazine.com/2019/09/copenhague-original-coffee.jpg
+cover: https://fotos.etheriamagazine.com/2019/09/copenhague-original-coffee.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Ana María Pareja
 ---
 
-Viajamos a Copenhague para descubrir la magia del Tivoli, los colores de Nyhavn o la 
+**Viajamos a Copenhague para descubrir la magia del Tivoli, los colores de Nyhavn o la 
 rebeldía de Christiania. Pero, sobre todo, vamos a buscar el secreto para ser más 
 felices. Te contamos todo lo que puedes hacer en la capital danesa en un fin de semana 
-largo. 
+largo.** 
 
 ![Fachada de Original Coffee en Copenhague](https://fotos.etheriamagazine.com/2019/09/copenhague-original-coffee.jpg "Original Coffee.")
 
@@ -61,7 +61,8 @@ de Assistens, un parque más para los daneses, con su aire romántico y encantad
 Eso sí, los jardines con más encanto son indiscutiblemente los del **Tivoli**. Será por 
 sus aires retro –fueron abiertos en 1843–, por sus atracciones desde las que se puede 
 ver toda la ciudad, por sus conciertos gratuitos o por sus teatros y restaurantes, sea 
-cual sea la razón, al [Tivoli](https://www.tivoligardens.com/en?_ga=2.40356514.1404149184.1568137116-1028718693.1568137116) 
+cual sea la razón, al 
+[Tivoli](https://www.tivoligardens.com/en?_ga=2.40356514.1404149184.1568137116-1028718693.1568137116) 
 se va a divertirse; parte de su secreto es que hay algo para todos. 
 
 ![El Tivoli se tematiza para Hallowee](https://fotos.etheriamagazine.com/2019/09/tivoli-copenhague-halloween.jpg "El Tivoli se tematiza para Halloween y en otras ocasiones especiales del año.")
@@ -124,8 +125,6 @@ habitantes de Copenhague; todos parecen haber encontrado el secreto para ser fel
 
 **También te puede interesar...** 
 
-[5 tipos de saunas en Estonia: desde la de humo a la 
-flotante](https://etheriamagazine.com/2023/03/01/tipos-saunas-estonia/). 
+{{< reflink path=posts/2023/03/tipos-saunas-estonia >}}. 
 
-[eSIM para Europa, una alternativa al roaming en países como el Reino 
-Unido](https://etheriamagazine.com/2022/08/02/esim-europa-no-comunitaria/)
+{{< reflink path=posts/2022/08/esim-europa-no-comunitaria >}}

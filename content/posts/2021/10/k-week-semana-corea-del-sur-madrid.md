@@ -1,7 +1,7 @@
 ---
 title: "Corea del Sur llega a Madrid con su K-Week"
 date: 2021-10-15
-coverImage: https://fotos.etheriamagazine.com/2021/10/Corea-del-sur-Callejon-Puigcerda.jpg
+cover: https://fotos.etheriamagazine.com/2021/10/Corea-del-sur-Callejon-Puigcerda.jpg
 categories: 
   - ocio
 destino: 
@@ -81,11 +81,8 @@ de Corea del Sur](http://www.visitkorea.or.kr).
 
 ### También te puede interesar:
 
-[Descubre Corea del Sur, uno de los secretos mejor guardados de 
-Asia](https://etheriamagazine.com/2021/01/14/que-ver-hacer-en-corea-del-sur/). 
+{{< reflink path=posts/2021/01/que-ver-hacer-en-corea-del-sur >}}. 
 
-[10 actividades para un viaje en familia a 
-Japón](https://etheriamagazine.com/2019/11/21/10-actividades-para-un-viaje-en-familia-a-japon/). 
+{{< reflink path=posts/2019/11/10-actividades-para-un-viaje-en-familia-a-japon >}}. 
 
-[Descubre la magia de Tokio en sólo tres 
-días](https://etheriamagazine.com/2021/07/28/que-hacer-3-dias-en-tokio-viajes-mujeres/).
+{{< reflink path=posts/2021/07/que-hacer-3-dias-en-tokio-viajes-mujeres >}}.

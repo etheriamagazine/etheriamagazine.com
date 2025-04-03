@@ -1,7 +1,7 @@
 ---
 title: "5 días en Nepal, un paseo por el Valle de Katmandú"
 date: 2018-11-28
-coverImage: https://fotos.etheriamagazine.com/2022/02/viajes-novios-originales-Katmandu-nepal.jpg
+cover: https://fotos.etheriamagazine.com/2022/02/viajes-novios-originales-Katmandu-nepal.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -176,20 +176,17 @@ categorías, desde las más modestas y económicas hasta los mencionados a conti
 
 [Hyatt Regency 
 Kathmandu](https://www.hyatt.com/es-ES/hotel/nepal/hyatt-regency-kathmandu/kathm). Este 
-cinco estrellas es uno de los mejores hoteles de la ciudad. Dispone de piscina y spa. [Club 
-Himalaya Nagarkot](http://www.clubhimalaya.com/). Situado a poca distancia de Bhaktapur 
-y con unas vistas excelentes del Himalaya. 
+cinco estrellas es uno de los mejores hoteles de la ciudad. Dispone de piscina y spa. 
+[Club Himalaya Nagarkot](http://www.clubhimalaya.com/). Situado a poca distancia de 
+Bhaktapur y con unas vistas excelentes del Himalaya. 
 
 📌 [Recomendaciones del Ministerio de Asuntos 
 Exteriores](http://www.exteriores.gob.es/Portal/es/ServiciosAlCiudadano/SiViajasAlExtranjero/Paginas/DetalleRecomendacion.aspx?IdP=132). 
 
 ### También te puede interesar....
 
-[Qué ver en el norte de India: 10 colores del 
-Rajastán](https://etheriamagazine.com/2020/01/29/viaje-para-mujeres-que-ver-norte-india-rajastan/). 
+{{< reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}}. 
 
-[¿Puedo viajar sola o con amigas a 
-India?](https://etheriamagazine.com/2018/10/19/viajar-sola-o-con-amigas-a-india/) 
+{{< reflink path=posts/2018/10/viajar-sola-o-con-amigas-a-india >}} 
 
-[Una maleta para…. 
-India](https://etheriamagazine.com/2018/10/19/que-llevar-en-la-maleta-para-viajar-a-india/).
+{{< reflink path=posts/2018/10/que-llevar-en-la-maleta-para-viajar-a-india >}}.

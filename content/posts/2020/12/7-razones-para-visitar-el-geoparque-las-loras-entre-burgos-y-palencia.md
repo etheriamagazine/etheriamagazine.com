@@ -1,7 +1,7 @@
 ---
 title: "Geoparque Las Loras, una cita sorprendente entre Burgos y Palencia"
 date: 2020-12-23
-coverImage: https://fotos.etheriamagazine.com/2020/12/burgos-orbaneja-cascadas.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/burgos-orbaneja-cascadas.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Disfruta del geoparque Las Loras un paisaje forjado a base de tiempo entre Burgos y 
+**Disfruta del geoparque Las Loras un paisaje forjado a base de tiempo entre Burgos y 
 Palencia. En sus pliegues se ocultan las huellas culturales dejadas por los habitantes 
 del páramo. Te damos siete razones para descubrir este territorio fuera de ruta que 
-guarda en sus rocas la historia del planeta. 
+guarda en sus rocas la historia del planeta.** 
 
 ![canon rio ebro en burgos en geoparque las loras](https://fotos.etheriamagazine.com/2020/12/Burgos-pesquera-canon-rio-ebro.jpg "Espectacular cañón del río Ebro.")
 
@@ -142,11 +142,8 @@ Loras](http://geoparquelasloras.es/).
 
 **También te puede interesar...** 
 
-[Ruta por las Merindades de 
-Burgos](https://etheriamagazine.com/2019/06/04/que-ver-hacer-ruta-merindades-burgos/). 
+{{< reflink path=posts/2019/06/que-ver-hacer-ruta-merindades-burgos >}}. 
 
-[10 razones para visitar Valderredible 
-(Cantabria)](https://etheriamagazine.com/2019/08/26/que-ver-valderredible-cantabria/). 
+{{< reflink path=posts/2019/08/que-ver-valderredible-cantabria >}}. 
 
-[Ruta gastronómica en Palencia 
-capital](https://etheriamagazine.com/2020/09/30/que-ver-hacer-en-palencia-capital-con-amigas/).
+{{< reflink path=posts/2020/09/que-ver-hacer-en-palencia-capital-con-amigas >}}.

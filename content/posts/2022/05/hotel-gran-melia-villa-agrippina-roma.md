@@ -1,7 +1,7 @@
 ---
 title: "Gran Meliá Villa Agrippina, un oasis en el centro de Roma"
 date: 2022-05-30
-coverImage: https://fotos.etheriamagazine.com/2022/05/Villa-agripina-piscina.jpg
+cover: https://fotos.etheriamagazine.com/2022/05/Villa-agripina-piscina.jpg
 categories: 
   - hoteles
 destino: 
@@ -129,11 +129,8 @@ Habitación doble desde 300 euros.
 
 ### También te puede interesar en Italia:
 
-[Roma, la escapada con amigas que 
-necesitas](https://etheriamagazine.com/2018/10/31/fin-de-semana-en-roma-con-amigas/) 
+{{< reflink path=posts/2018/10/fin-de-semana-en-roma-con-amigas >}} 
 
-[Excursión a Tívoli: un plan perfecto desde 
-Roma](https://etheriamagazine.com/2022/05/06/excursion-a-tivoli-desde-roma/) 
+{{< reflink path=posts/2022/05/excursion-a-tivoli-desde-roma >}} 
 
-[10 viajes para enamorarte de 
-Italia](https://etheriamagazine.com/2020/08/03/10-grandes-viajes-a-italia/)
+{{< reflink path=posts/2020/08/10-grandes-viajes-a-italia >}}

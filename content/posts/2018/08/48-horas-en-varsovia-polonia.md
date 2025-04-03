@@ -1,7 +1,7 @@
 ---
 title: "48 horas en Varsovia, qué ver en la capital polaca"
 date: 2018-08-17
-coverImage: https://fotos.etheriamagazine.com/2018/08/Maison-La-Regina-en-la-Ciudad-Nueva.jpg
+cover: https://fotos.etheriamagazine.com/2018/08/Maison-La-Regina-en-la-Ciudad-Nueva.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,10 @@ authors:
   - Manena Munar
 ---
 
-A pesar del típico tópico de que Varsovia era una ciudad imponente hasta que la guerra 
+**A pesar del típico tópico de que Varsovia era una ciudad imponente hasta que la guerra 
 la destruyó, cuanto más la conoces, más te enamoras de ella. Y si no me crees... ¡haz la 
-prueba! Te contamos qué ver en Varsovia en un fin de semana para que no te pierdas nada. 
+prueba! Te contamos qué ver en Varsovia en un fin de semana para que no te pierdas 
+nada.** 
 
 ![Edificios en Varsovia](https://fotos.etheriamagazine.com/2018/08/Dos-epocas-arquitectonicas-de-Varsovia-la-socialista-y-la-actual.jpg "Contraste entre la Varsovia socialista y la actual.")
 
@@ -134,8 +135,6 @@ Polonia](http://www.polonia.travel) de Madrid.
 
 📌 **También te puede interesar:** 
 
-[Tres rutas para recorrer Varsovia, una ciudad 
-sorprendente](https://etheriamagazine.com/2021/03/05/que-ver-en-varsovia-en-tres-rutas-originales/) 
+{{< reflink path=posts/2021/03/que-ver-en-varsovia-en-tres-rutas-originales >}} 
 
-[Tres mujeres polacas que han hecho del mundo un lugar 
-mejor](https://etheriamagazine.com/2023/03/08/mujeres-polacas-fama-universal/)
+{{< reflink path=posts/2023/03/mujeres-polacas-fama-universal >}}

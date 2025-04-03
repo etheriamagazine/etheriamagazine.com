@@ -1,7 +1,7 @@
 ---
 title: "Secretos de Chipre, visitas esenciales en un viaje lleno de historia y sabores"
 date: 2019-05-22
-coverImage: https://fotos.etheriamagazine.com/2019/05/Chipre-Kourion.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/Chipre-Kourion.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pedro Grifol
 ---
 
-Si quieres disfrutar de vacaciones como en los años setenta, has encontrado tu destino: 
-Chipre. Prepárate para gozar de playas poco concurridas, un mar más que limpio, 
+**Si quieres disfrutar de vacaciones como en los años setenta, has encontrado tu 
+destino: Chipre. Prepárate para gozar de playas poco concurridas, un mar más que limpio, 
 gastronomía al borde mar y buenos precios. ¿Quieres saber qué ver en Chipre? Sigue 
 leyendo porque además de las visitas imprescindibles también compartiremos algunos 
-secretos. 
+secretos.** 
 
 ![Playa en la zona de Kourion, en Chipre.](https://fotos.etheriamagazine.com/2019/05/Chipre-Kourion.jpg "Playa en la zona de Kourion.")
 
@@ -211,11 +211,8 @@ destino](https://www.exteriores.gob.es/Embajadas/nicosia/es/ViajarA/Paginas/Reco
 
 ### Otras islas del Mediterráneo...
 
-[Ruta en coche por Sicilia, entre pantocrátores y 
-bikinis](https://etheriamagazine.com/2021/07/05/sicilia-pantocratores-y-bikinis/). 
+{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}}. 
 
-[La isla de Gozo, un lugar donde querrás quedarte a 
-vivir](https://etheriamagazine.com/2021/04/29/que-ver-hacer-gozo-malta/). 
+{{< reflink path=posts/2021/04/que-ver-hacer-gozo-malta >}}. 
 
-[Planes en Malta, un destino mediterráneo que nunca 
-defrauda](https://etheriamagazine.com/2019/11/19/que-ver-hacer-malta-gozo-comino-5-dias-con-amigas/).
+{{< reflink path=posts/2019/11/que-ver-hacer-malta-gozo-comino-5-dias-con-amigas >}}.

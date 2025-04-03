@@ -1,7 +1,7 @@
 ---
 title: "Rosa María Calaf nos descubre sus secretos viajeros"
 date: 2018-09-17
-coverImage: https://fotos.etheriamagazine.com/2018/09/Rosa-Maria-calaf-Mongolia.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/Rosa-Maria-calaf-Mongolia.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Eva Madruga
 ---
 
-Rosa María Calaf, una de las mejores y más reconocidas periodistas españolas, es una de 
-las Mujeres Etheria que nos inspiran por su trayectoria de cuatro décadas en TVE (1970 a 
-2009), en su mayor parte como corresponsal internacional en Nueva York, Moscú, Buenos 
-Aires, Roma, Viena, Hong Kong y Pekín. Se define a sí misma como inquieta, curiosa e 
-insaciable. 
+**Rosa María Calaf, una de las mejores y más reconocidas periodistas españolas, es una 
+de las Mujeres Etheria que nos inspiran por su trayectoria de cuatro décadas en TVE 
+(1970 a 2009), en su mayor parte como corresponsal internacional en Nueva York, Moscú, 
+Buenos Aires, Roma, Viena, Hong Kong y Pekín. Se define a sí misma como inquieta, 
+curiosa e insaciable.** 
 
 ![Rosa María Calaf en Groenlandia (2014).](https://fotos.etheriamagazine.com/2018/09/Groenlandia-Rosa-Maria-calaf.jpg "Rosa María Calaf en Groenlandia (2014).")
 
@@ -133,11 +133,8 @@ Un ejemplar de **_Don Quijote_ en chino.**
 
 ✅ **Sigue leyendo sobre otras grandes mujeres...** 
 
-[Tanit Ibiza Conexion, una apuesta por el liderazgo femenino en 
-Ibiza](https://etheriamagazine.com/2023/06/02/tanit-ibiza-conexion/) 
+{{< reflink path=posts/2023/06/tanit-ibiza-conexion >}} 
 
-[Mujeres brillantes y emprendedoras que nos inspiran cada 
-día](https://etheriamagazine.com/2023/03/09/mujeres-etheria-2023/). 
+{{< reflink path=posts/2023/03/mujeres-etheria-2023 >}}. 
 
-[Tres mujeres polacas que han hecho del mundo un lugar 
-mejor](https://etheriamagazine.com/2023/03/08/mujeres-polacas-fama-universal/).
+{{< reflink path=posts/2023/03/mujeres-polacas-fama-universal >}}.

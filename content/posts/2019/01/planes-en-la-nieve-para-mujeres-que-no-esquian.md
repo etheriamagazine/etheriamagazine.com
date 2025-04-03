@@ -1,7 +1,7 @@
 ---
 title: "Planes en la nieve para mujeres que no esquían"
 date: 2019-01-01
-coverImage: https://fotos.etheriamagazine.com/2018/12/viaje-nieve-Trineos-perros.jpg
+cover: https://fotos.etheriamagazine.com/2018/12/viaje-nieve-Trineos-perros.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -140,19 +140,18 @@ el cuerpo.
 
 ### Visita a la Alhambra y a los Palacios Nazaríes
 
-Como no podía ser de otra manera, el hotel [El Lodge de Sierra 
-Nevada](https://etheriamagazine.com/2020/11/12/hotel-de-lujo-sierra-nevada-el-lodge-ski-spa/) 
-organiza visitas culturales para conocer las grandiosa Alhambra y los Palacios Nazaríes 
-de Granada. Declarada Patrimonio de la Humanidad por la Unesco y reconocida como una de 
-las atracciones más visitadas a nivel mundial, es una cita que nadie debe perderse. La 
+Como no podía ser de otra manera, el hotel {{< reflink 
+path=posts/2020/11/hotel-de-lujo-sierra-nevada-el-lodge-ski-spa >}} organiza visitas 
+culturales para conocer las grandiosa Alhambra y los Palacios Nazaríes de Granada. 
+Declarada Patrimonio de la Humanidad por la Unesco y reconocida como una de las 
+atracciones más visitadas a nivel mundial, es una cita que nadie debe perderse. La 
 excursión de día (unas 8 horas) incluye traslados desde el mismo hotel, entradas para la 
 Alhambra y los Palacios Nazaríes y la compañía de un guía oficial privado. 
 
 ¿Dónde? En **Sierra Nevada**. 
 
-✅ Organiza tu visita a La Alhambra con este artículo: [10 consejos para triunfar en tu 
-visita a la 
-Alhambra](https://etheriamagazine.com/2021/10/25/consejos-para-visitar-la-alhambra/) 
+✅ Organiza tu visita a La Alhambra con este artículo: {{< reflink 
+path=posts/2021/10/consejos-para-visitar-la-alhambra >}} 
 
 ![la alhambra desde Sierra Nevada](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Visita-La-Alhambra.jpg "Preciosa panorámica de La Alhambra de Granada.")
 
@@ -169,9 +168,8 @@ entre muchas otras, todas ellas repletas de encanto.
 
 ¿Dónde? En el **Valle de Arán**. 
 
-✅ Organiza tu ruta con este artículo: [Valle de Arán, organiza una ruta por sus pueblos 
-y sendas 
-imprescindibles](https://etheriamagazine.com/2020/08/31/pueblos-y-rutas-imprescindibles-en-valle-aran/). 
+✅ Organiza tu ruta con este artículo: {{< reflink 
+path=posts/2020/08/pueblos-y-rutas-imprescindibles-en-valle-aran >}}. 
 
 ![romanico valle de aran](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Ruta-romanica-Valle-Aran.jpg "El Valle Arán es uno de los mejores lugares de España para disfrutar del románico.")
 
@@ -195,26 +193,25 @@ reservar).
 
 ### Consejos para disfrutar de la nieve
 
-• Puede que esquiar no sea lo vuestro, pero nunca es tarde para aprender una nueva 
+- Puede que esquiar no sea lo vuestro, pero nunca es tarde para aprender una nueva 
 actividad y divertirse experimentando sensaciones nuevas. Si vuestra salud os lo 
 permite, yo os recomiendo **probar a esquiar al menos una vez**. Hoy en día todas las 
 estaciones cuentan con los servicios de alquiler necesarios para equiparnos con esquís, 
 bastones, botas y casco, así como con escuelas de con monitores expertos que os ayudarán 
 en todo momento a sentiros seguros sobre la nieve. 
 
-• Otra buena actividad alternativa son las **excursiones a pie o rutas de senderismo**. 
+- Otra buena actividad alternativa son las **excursiones a pie o rutas de senderismo**. 
 Nada como acercarnos a las oficinas de información y solicitar un mapa con estos 
 recorridos. Si el tiempo acompaña, agradeceréis esos largos paseos al sol con los que 
 recargar pilas y realizar algo de ejercicio. 
 
-• Al planificar vuestra escapada a la nieve, una idea a tener en cuenta es **alternar 
+- Al planificar vuestra escapada a la nieve, una idea a tener en cuenta es **alternar 
 jornadas de esquí con otros planes** con los que disfrutar en pareja, con amigos o 
 familia y crear recuerdos de unas vacaciones inolvidables. 
 
 **También te puede interesar:** 
 
-[10 estaciones de esquí en España donde estirar el presupuesto al 
-máximo](https://etheriamagazine.com/2021/11/25/10-estaciones-de-esqui-mas-baratas-de-espana-2021-2022/). 
+{{< reflink path=posts/2021/11/10-estaciones-de-esqui-mas-baratas-de-espana-2021-2022 
+>}}. 
 
-[Descubre Zakopane, su arquitectura de madera, sabores y estaciones de 
-esquí](https://etheriamagazine.com/2021/01/27/que-ver-en-zakopane-viaje-original-polonia/).
+{{< reflink path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}}.

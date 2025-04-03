@@ -1,7 +1,7 @@
 ---
 title: "Gana un viaje a Costa Rica con Etheria Magazine"
 date: 2022-09-01
-coverImage: https://fotos.etheriamagazine.com/2022/09/playa-cocles-gandoca.jpg
+cover: https://fotos.etheriamagazine.com/2022/09/playa-cocles-gandoca.jpg
 categories: 
   - sorteos
 destino: 
@@ -39,7 +39,8 @@ El sorteo empezará el 23 de septiembre de 2022 y se desarrollará hasta el 3 de
 de 2022. Pasada esta fecha, nadie más podrá participar en el sorteo. 
 
 En los siguientes días, a partir del día 5 de octubre, tras la celebración del sorteo se 
-dará a conocer al ganador a través de nuestras redes sociales y nuestra página web: [https://etheriamagazine.com/](https://etheriamagazine.com/) 
+dará a conocer al ganador a través de nuestras redes sociales y nuestra página web: 
+[https://etheriamagazine.com/](https://etheriamagazine.com/) 
 
 Desde ETHERIA MAGAZINE contactaremos con el ganador del premio para indicarle la forma 
 de proceder y plazos para disfrutar del premio. 
@@ -50,20 +51,27 @@ Una vez transcurrido el plazo de las presentes Bases Legales, se procederá al s
 entre los participantes con el siguiente PREMIO: 
 
 **Un viaje a Costa Rica para dos personas (el premiado, y a quien éste elija como 
-acompañante, que también debe ser mayor de 18 años). ** **El premio incluye:** • 
-Billetes de avión Madrid – San José – Madrid. En clase turista y con las tasas de 
-aeropuerto incluidas. • 6 noches de alojamiento en régimen de alojamiento y desayuno. • 
-Todos los traslados incluidos. • Se visitará los siguientes lugares: San José (2 
-noches). Régimen de alojamiento y desayuno Volcán Arenal (La Fortuna). Régimen de 
-alojamiento y desayuno Playa Tamarindo. Régimen de alojamiento y desayuno • Los hoteles 
-previstos serán de categoría turista superior, o superior. 
+acompañante, que también debe ser mayor de 18 años).** **El premio incluye:** 
 
-• El premio no será canjeable por dinero. 
+- Billetes de avión Madrid – San José – Madrid. En clase turista y con las tasas de 
+aeropuerto incluidas. 
 
-• Las fechas a elegir serán las comprendidas entre el 10 de octubre de 2022 y el 30 de 
+- 6 noches de alojamiento en régimen de alojamiento y desayuno. 
+
+- Todos los traslados incluidos. 
+
+- Se visitará los siguientes lugares: San José (2 noches). Régimen de alojamiento y 
+desayuno Volcán Arenal (La Fortuna). Régimen de alojamiento y desayuno Playa Tamarindo. 
+Régimen de alojamiento y desayuno 
+
+- Los hoteles previstos serán de categoría turista superior, o superior. 
+
+- El premio no será canjeable por dinero. 
+
+- Las fechas a elegir serán las comprendidas entre el 10 de octubre de 2022 y el 30 de 
 noviembre de 2022. 
 
-• No se incluyen todos aquellos servicios no especificados y detallados en el 
+- No se incluyen todos aquellos servicios no especificados y detallados en el 
 itinerario, así como seguros de viaje. 
 
 La empresa organizadora se reserva el derecho a cambiar cualquiera de los hoteles 
@@ -130,9 +138,10 @@ premio.
 
 Le informamos que puede ejercer sus derechos de Acceso, Rectificación, Supresión, 
 Oposición, Limitación del Tratamiento, Portabilidad, Olvido y a no ser objeto de 
-decisiones individuales automatizadas mediante el envío de un e-mail a: [info@etheriamagazine.com](mailto:info@etheriamagazine.com) 
-o bien mediante carta dirigida a la siguiente dirección: Calle Rodio, 4B, 3ºC. 28045 
-Madrid, adjuntando en ambos casos copia de un documento identificativo. 
+decisiones individuales automatizadas mediante el envío de un e-mail a: 
+[info@etheriamagazine.com](mailto:info@etheriamagazine.com) o bien mediante carta 
+dirigida a la siguiente dirección: Calle Rodio, 4B, 3ºC. 28045 Madrid, adjuntando en 
+ambos casos copia de un documento identificativo. 
 
 **9\. Legislación aplicable y jurisdicción** 
 

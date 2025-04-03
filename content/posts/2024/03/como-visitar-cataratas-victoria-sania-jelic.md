@@ -1,7 +1,7 @@
 ---
 title: "Guía de Sania Jelic para visitar las cataratas Victoria"
 date: 2024-03-01
-coverImage: https://fotos.etheriamagazine.com/2024/03/sania-cataratas-victoria.jpg
+cover: https://fotos.etheriamagazine.com/2024/03/sania-cataratas-victoria.jpg
 categories: 
   - viajar-sola
   - mujeres-top
@@ -43,10 +43,10 @@ caudal es entre febrero y abril. En el lado de Zambia se denominan **Mosi-oa-Tun
 Como hemos comentado, las cataratas se pueden visitar de los dos lados y proporcionan 
 por tanto dos experiencias diferentes: 
 
-• **Desde Zimbabue.** La entrada única cuesta 50 $, hay 16 miradores y tanto el frondoso 
+- **Desde Zimbabue.** La entrada única cuesta 50 $, hay 16 miradores y tanto el frondoso 
 bosque como las pasarelas están muy bien cuidados. 
 
-• **Desde Zambia.** La entrada al parque en Zambia son 20 $. Las cataratas en el lado de 
+- **Desde Zambia.** La entrada al parque en Zambia son 20 $. Las cataratas en el lado de 
 Zambia son conocidas por el denominado “Devil’s pool” (Piscina de Diablo), una piscina 
 natural donde es posible entrar y acercarse casi al borde de la catarata. La 
 experiencia, según cuentan, es única (no lo he probado). **Estar 15 minutos al borde de 
@@ -55,11 +55,11 @@ Cuando estés en Zambia, también puedes visitar la ciudad de Livingstone, donde
 **Museo de Livingstone** es una visita que vale la pena. En este museo, encontrarás una 
 extensa exposición sobre la historia de la esclavitud en la región. 
 
-• **Cómo cruzar la frontera entre países.** Hay que pasar la frontera desde Zimbabue y 
+- **Cómo cruzar la frontera entre países.** Hay que pasar la frontera desde Zimbabue y 
 pagar el visado correspondiente (a partir de 30 $ o en la entrada a uno de los países 
 comprar el visado KAZI, válido para los dos países durante 30 días). 
 
-**• Cómo ir de un lado a otro de las cataratas.** Para ir de un lado al otro, lo mejor 
+**- Cómo ir de un lado a otro de las cataratas.** Para ir de un lado al otro, lo mejor 
 es usar un taxi, que se puede contratar en cualquiera de los puntos. En ese trayecto hay 
 que cruzar el **puente de Victoria Falls**, una estructura interesante que cruza la 
 frontera y acoge tráfico de trenes y coches, y también el paso de peatones. Fue 
@@ -72,7 +72,8 @@ aquí se hace el _bungie jumping_.
 
 ## Rafting en el río Zambezi
 
-Practiqué rafting en el río Zambezi con la empresa [Shearwater](https://www.shearwatervictoriafalls.com/experience/white-water-rafting/), 
+Practiqué rafting en el río Zambezi con la empresa 
+[Shearwater](https://www.shearwatervictoriafalls.com/experience/white-water-rafting/), 
 que también organiza otras actividades como los diferentes tipos de visita a las 
 cataratas. Había escuchado hablar sobre esta experiencia en el río Zambezi y me apetecía 
 probar. No me informé mucho de antemano, quería dejar a mi intuición tomar la decisión 
@@ -132,31 +133,31 @@ huérfanos.
 
 Las cataratas son un espectáculo desde el aire y se ofrecen vuelos panorámicos en 
 helicóptero. Uno de los pilotos es el valenciano Guillermo Gea Torreño (te recomiendo 
-seguir su cuenta de [Instagram](https://www.instagram.com/guillegea22?igsh=MzRlODBiNWFlZA%3D%3D)). 
-Lástima no haber sabido de él durante la estancia, me hubiera encantado hacer esta 
-excursión. 
+seguir su cuenta de 
+[Instagram](https://www.instagram.com/guillegea22?igsh=MzRlODBiNWFlZA%3D%3D)). Lástima 
+no haber sabido de él durante la estancia, me hubiera encantado hacer esta excursión. 
 
 ### Parque Nacional de Chobe
 
-Desde Victoria Falls se puede visitar el [Parque Nacional 
-Chobe](https://etheriamagazine.com/2018/11/22/botsuana-10-razones-para-sentirte-la-reina-de-africa/), 
-en Botsuana, conocido por su gran concentración de elefantes (hasta 130.000), grandes 
+Desde Victoria Falls se puede visitar el {{< reflink 
+path=posts/2018/11/botsuana-10-razones-para-sentirte-la-reina-de-africa >}}, en 
+Botsuana, conocido por su gran concentración de elefantes (hasta 130.000), grandes 
 manadas de búfalos, antílopes, leones y, sobre todo, rinocerontes. Está tan solo a una 
 hora de carretera, por lo que se puede hacer una visita de un día, aunque merece la pena 
 quedarse a dormir en Kasane o en el mismo parque. Hay varios operadores que ofrecen esta 
-última opción, con alojamiento en acampada, una experiencia más completa. Yo fui con [Kalahari 
-Tours](https://kalaharichobe.com) y me gustó mucho porque tienen buenos guías, son 
-correctos y se esmeran en ofrecer el mejor servicio. 
+última opción, con alojamiento en acampada, una experiencia más completa. Yo fui con 
+[Kalahari Tours](https://kalaharichobe.com) y me gustó mucho porque tienen buenos guías, 
+son correctos y se esmeran en ofrecer el mejor servicio. 
 
 ![Sania en el Parque Nacional de Chobe](https://fotos.etheriamagazine.com/2024/03/sania-parque-chobe.jpg "Sania en el Parque Nacional de Chobe. © Sania Jelic.")
 
 ## Algunas direcciones recomendadas
 
-• El bar/restaurante **Lookout Café** (www.thelookoutcafe.com) tiene una vista 
+- El bar/restaurante **Lookout Café** (www.thelookoutcafe.com) tiene una vista 
 espectacular al cañón con el puente en el fondo, cócteles, así como comida de calidad a 
 precios razonables. 
 
-• El restaurante local **Dusty Road** (www.dustyroad.africa) fue nombrado el mejor en 
+- El restaurante local **Dusty Road** (www.dustyroad.africa) fue nombrado el mejor en 
 2023 por la autoridad turística local. En un ambiente muy fotogénico y creativo, se 
 ofrece gastronomía tradicional con la descripción de los ingredientes. Toda una 
 experiencia. El precio de 20 $ me pareció correcto para la degustación de unos 10 
@@ -164,11 +165,8 @@ platos.
 
 **También te puede interesar:** 
 
-[Guía de Sania Jelic para viajar a 
-Botsuana](https://etheriamagazine.com/2024/02/22/guia-viaje-botsuana-sania-jelic/) 
+{{< reflink path=posts/2024/02/guia-viaje-botsuana-sania-jelic >}} 
 
-[Guía de viaje de Sania Jelic para recorrer 
-Namibia](https://etheriamagazine.com/2024/02/09/guia-namibia-sania-jelic/) 
+{{< reflink path=posts/2024/02/guia-namibia-sania-jelic >}} 
 
-[Consejos de Sania Jelic para viajar sola por África del sur y del 
-este](https://etheriamagazine.com/2024/01/31/consejos-viajar-sola-por-africa/)
+{{< reflink path=posts/2024/01/consejos-viajar-sola-por-africa >}}

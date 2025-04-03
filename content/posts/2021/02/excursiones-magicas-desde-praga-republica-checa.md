@@ -1,7 +1,7 @@
 ---
 title: "República Checa, un viaje al reino de la fantasía"
 date: 2021-02-26
-coverImage: https://fotos.etheriamagazine.com/2021/02/hluboka-nad-vltavou.jpg
+cover: https://fotos.etheriamagazine.com/2021/02/hluboka-nad-vltavou.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -40,8 +40,9 @@ guiará en el camino. Aunque fue construido en el siglo XIII por la familia de l
 Premislitas, sus amplias estancias guardan historias no solo de fiestas sino también de 
 un oscuro pasado carcelario. En este lugar estuvo prisionero durante tres años Edward 
 Kelley, un conocido alquimista de la corte imperial de Rodolfo II, por haber asesinado a 
-un funcionario en un duelo. Otros castillos que también te encantarán son los de [Pernstejn](https://www.hrad-pernstejn.cz/en), 
-[Hradec nad Moravicí](https://www.zamek-hradec.cz/en/photogalleries) y [Hluboká nad 
+un funcionario en un duelo. Otros castillos que también te encantarán son los de 
+[Pernstejn](https://www.hrad-pernstejn.cz/en), [Hradec nad 
+Moravicí](https://www.zamek-hradec.cz/en/photogalleries) y [Hluboká nad 
 Vltavou](https://www.hluboka.cz/en/). 
 
 **¿Cómo llegar desde Praga al castillo de Krivoklat?** En coche, 1 hora (58 km, D6 y 
@@ -201,14 +202,11 @@ D5/E50) En tren, 2 horas y 20 minutos
 
 ### También te puede interesar...
 
-[5 visitas a República Checa para mujeres que viajan 
-solas](https://etheriamagazine.com/2020/05/29/viajar-sola-a-republica-checa-visitas-y-consejos/). 
+{{< reflink path=posts/2020/05/viajar-sola-a-republica-checa-visitas-y-consejos >}}. 
 
-[10 imprescindibles para despertar tu romanticismo en República 
-Checa](https://etheriamagazine.com/2018/12/11/10-estampas-romanticas-de-republica-checa/). 
+{{< reflink path=posts/2018/12/10-estampas-romanticas-de-republica-checa >}}. 
 
-[Un viaje en familia a República Checa: Praga y Moravia del 
-Sur](https://etheriamagazine.com/2019/05/07/viaje-en-familia-moravia-del-sur-praga-republica-checa/). 
+{{< reflink path=posts/2019/05/viaje-en-familia-moravia-del-sur-praga-republica-checa 
+>}}. 
 
-[13 castillos en Chequia donde pasar mucho miedo en 
-Halloween](https://etheriamagazine.com/2020/10/09/13-castillos-mas-misteriosos-de-republica-checa/).
+{{< reflink path=posts/2020/10/13-castillos-mas-misteriosos-de-republica-checa >}}.

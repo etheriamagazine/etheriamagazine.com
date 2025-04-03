@@ -1,7 +1,7 @@
 ---
 title: "El Puerto de Santa María, entre palacios, playas y vino"
 date: 2021-11-01
-coverImage: https://fotos.etheriamagazine.com/2021/10/Plaza-Espana-puerto-santa-maria.jpg
+cover: https://fotos.etheriamagazine.com/2021/10/Plaza-Espana-puerto-santa-maria.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -257,11 +257,8 @@ ciudad. Quizás en otro viaje.
 
 **En Cádiz también te puede interesar:** 
 
-[Jerez, el arte del buen 
-vivir](https://etheriamagazine.com/2020/06/10/viajes-por-espana-jerez-sola-o-con-amigas/). 
+{{< reflink path=posts/2020/06/viajes-por-espana-jerez-sola-o-con-amigas >}}. 
 
-[16 planes imprescindibles en Conil con 
-amigas](https://etheriamagazine.com/2021/07/05/los-mejores-planes-en-conil-con-amigas/). 
+{{< reflink path=posts/2021/07/los-mejores-planes-en-conil-con-amigas >}}. 
 
-[10 actividades para enamorarte de Vejer de la 
-Frontera](https://etheriamagazine.com/2020/08/11/10-actividades-vejer-de-la-frontera-que-ver-hacer/).
+{{< reflink path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}}.

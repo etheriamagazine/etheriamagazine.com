@@ -1,7 +1,7 @@
 ---
 title: "Lo que las mujeres están haciendo al turismo en Paraguay"
 date: 2018-08-13
-coverImage: https://fotos.etheriamagazine.com/2018/08/1-mujeres-paraguay-guarani.jpg
+cover: https://fotos.etheriamagazine.com/2018/08/1-mujeres-paraguay-guarani.jpg
 categories: 
   - historias
   - mujeres-top

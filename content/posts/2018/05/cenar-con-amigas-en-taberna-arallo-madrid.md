@@ -1,7 +1,7 @@
 ---
 title: "Cenar con amigas en Arallo Taberna (Madrid)"
 date: 2018-05-17
-coverImage: https://fotos.etheriamagazine.com/2018/05/Taberna-Arallo-2.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Taberna-Arallo-2.jpg
 categories: 
   - gourmet
 destino: 
@@ -10,10 +10,11 @@ authors:
   - Vanesa Viñolo
 ---
 
-Seguro que habéis leído en numerosas ocasiones lo bueno para la salud (física y mental, 
-añadiría yo) que es mantener vivo un círculo de amigas. Sí, discrimino: solo chicas, 
-solo amiguísimas. De esas que conservas desde antes de formarte como persona adulta y 
-formal, esas con las que has compartido despiporres, desenfrenos, lloros y risas. 
+**Seguro que habéis leído en numerosas ocasiones lo bueno para la salud (física y 
+mental, añadiría yo) que es mantener vivo un círculo de amigas. Sí, discrimino: solo 
+chicas, solo amiguísimas. De esas que conservas desde antes de formarte como persona 
+adulta y formal, esas con las que has compartido despiporres, desenfrenos, lloros y 
+risas.** 
 
 ![Arallo ha desembarcado en Madrid desde A Coruña.](https://fotos.etheriamagazine.com/2018/05/Taberna-Arallo-2.jpg "Arallo ha desembarcado en Madrid desde A Coruña.")
 
@@ -78,8 +79,8 @@ madrid@arallotaberna.com
 
 **También te puede interesar...** 
 
-[Restaurantes peruanos en Madrid con el sello del chef Jhosef 
-Arias](https://etheriamagazine.com/2022/01/24/restaurantes-peruanos-en-madrid-de-jhosef-arias/). 
+{{< reflink path=posts/2022/01/restaurantes-peruanos-en-madrid-de-jhosef-arias >}}. 
 
-[Conoce las mejores tiendas de vinos de Madrid, Barcelona y otras 
-ciudades](https://etheriamagazine.com/2019/12/17/mejores-tiendas-para-comprar-vino-madrid-barcelona-valencia-gijon-valladolid/).
+{{< reflink 
+path=posts/2019/12/mejores-tiendas-para-comprar-vino-madrid-barcelona-valencia-gijon-valladolid 
+>}}.

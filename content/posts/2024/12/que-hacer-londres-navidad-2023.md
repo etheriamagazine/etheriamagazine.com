@@ -1,7 +1,7 @@
 ---
 title: "Londres en Navidad: mercadillos, espectáculos y mucho más"
 date: 2024-12-09
-coverImage: https://fotos.etheriamagazine.com/2023/11/londres-navidad-Hyde-Park-Winter-Wonderland-museo-hielo.jpg
+cover: https://fotos.etheriamagazine.com/2023/11/londres-navidad-Hyde-Park-Winter-Wonderland-museo-hielo.jpg
 categories: 
   - viajar-con-amigas
   - viajar-sola
@@ -102,11 +102,10 @@ una decoración navideña con mucho estilo que incluye un precioso árbol.
 
 **También te puede interesar:** 
 
-[Dónde tomar el té en Londres en lugares muy 
-originales](https://etheriamagazine.com/2023/03/15/tomar-te-londres/) 
+{{< reflink path=posts/2023/03/tomar-te-londres >}} 
 
-[15 visitas que no debes perderte en tu próximo viaje a 
-Londres](https://etheriamagazine.com/2022/11/10/que-ver-londres-nuevo-clasico/) 
+{{< reflink path=posts/2022/11/que-ver-londres-nuevo-clasico >}} 
 
-[Compras en Londres, sus tiendas y barrios más 
-auténticos](https://etheriamagazine.com/2020/05/06/compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone/)
+{{< reflink 
+path=posts/2020/05/compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone 
+>}}

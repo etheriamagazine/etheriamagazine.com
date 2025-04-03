@@ -1,7 +1,7 @@
 ---
 title: "Sarapiquí, ecoturismo y gastronomía en femenino en Costa Rica"
 date: 2022-08-18
-coverImage: https://fotos.etheriamagazine.com/2022/08/turismo-rural-sarapiquí.jpg
+cover: https://fotos.etheriamagazine.com/2022/08/turismo-rural-sarapiquí.jpg
 categories: 
   - viajar-con-amigas
   - mujeres-top
@@ -212,5 +212,4 @@ Más información en [Turismo de Costa Rica](https://www.visitcostarica.com/es).
 
 ### Más mujeres emprendedoras en Costa Rica
 
-[Descubre la esencia de la Península de Nicoya, tierra de artesanas y 
-naturaleza](https://etheriamagazine.com/2022/07/15/que-ver-peninsula-nicoya-costa-rica/).
+{{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}}.

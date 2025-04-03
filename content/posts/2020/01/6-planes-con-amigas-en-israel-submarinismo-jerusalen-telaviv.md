@@ -1,7 +1,7 @@
 ---
 title: "Israel, una ruta con amigas desde el mar Rojo a Tel Aviv"
 date: 2020-01-01
-coverImage: https://fotos.etheriamagazine.com/2019/12/israel-timna-park.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/israel-timna-park.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-¿Creías que Israel era sólo un desierto? Pues aparte del contraste de sus dos ciudades 
+**¿Creías que Israel era sólo un desierto? Pues aparte del contraste de sus dos ciudades 
 más importantes, Jerusalén y Tel Aviv, es posible bucear en el mar Rojo, flotar sobre 
 las aguas del mar Muerto y disfrutar de sus parques botánicos y geológicos. Toma nota de 
-estas recomendaciones para tu próximo viaje a Israel con amigas. 
+estas recomendaciones para tu próximo viaje a Israel con amigas.** 
 
 ![Formaciones rocosas en Timna Park, en el desierto de Néguev.](https://fotos.etheriamagazine.com/2019/12/israel-timna-park.jpg "Formaciones rocosas en Timna Park, en el desierto de Néguev.")
 
@@ -153,14 +153,13 @@ Gaucho**, en Jerusalén no te pierdas **The Rooftop** y en Tel Aviv tienes que i
 
 ### También te puede interesar...
 
-[Por qué el desierto de Judea es la aventura con amigas que 
-necesitas](https://etheriamagazine.com/2022/05/09/viaje-al-desierto-judea-israel/) 
+{{< reflink path=posts/2022/05/viaje-al-desierto-judea-israel >}} 
 
-[Jordania, visitas y consejos imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2020/12/18/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola/). 
+{{< reflink 
+path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}. 
 
-[Qué llevar en la maleta en un viaje a 
-Jordania](https://etheriamagazine.com/2020/01/23/que-llevar-en-la-maleta-en-un-viaje-a-jordania/). 
+{{< reflink path=posts/2020/01/que-llevar-en-la-maleta-en-un-viaje-a-jordania >}}. 
 
-[10 películas rodadas en 
-Jo](https://etheriamagazine.com/2019/08/06/viajes-cine-peliculas-rodadas-en-jordania/)[r](https://etheriamagazine.com/2019/08/06/viajes-cine-peliculas-rodadas-en-jordania/)[dania](https://etheriamagazine.com/2019/08/06/viajes-cine-peliculas-rodadas-en-jordania/).
+{{< reflink path=posts/2019/08/viajes-cine-peliculas-rodadas-en-jordania >}}{{< reflink 
+path=posts/2019/08/viajes-cine-peliculas-rodadas-en-jordania >}}{{< reflink 
+path=posts/2019/08/viajes-cine-peliculas-rodadas-en-jordania >}}.

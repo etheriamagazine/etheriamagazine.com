@@ -1,7 +1,7 @@
 ---
 title: "Lee Krasner, artista y esposa de Pollock, una reivindicación necesaria"
 date: 2021-08-06
-coverImage: https://fotos.etheriamagazine.com/2021/07/Combat-The-Pollock-Krasner.jpg
+cover: https://fotos.etheriamagazine.com/2021/07/Combat-The-Pollock-Krasner.jpg
 categories: 
   - cultura
   - mujeres-top
@@ -136,11 +136,9 @@ de la libertad y las oportunidades.
 
 ### También te puede interesar...
 
-[‘Nietas de la memoria’: 13 relatos de abuelas anónimas y luchadoras para 
-inspirarnos](https://etheriamagazine.com/2021/03/08/libro-nietas-de-la-memoria-historias-mujeres-en-posguerra/). 
+{{< reflink path=posts/2021/03/libro-nietas-de-la-memoria-historias-mujeres-en-posguerra 
+>}}. 
 
-[Escenarios poéticos y atormentados de la vida de Frida 
-Kahlo](https://etheriamagazine.com/2021/02/15/biografia-y-ruta-frida-kahlo-mexico/). 
+{{< reflink path=posts/2021/02/biografia-y-ruta-frida-kahlo-mexico >}}. 
 
-[Najat Kaanache, la mejor chef de África, desvela en NAJAT los secretos de la cocina 
-marroquí](https://etheriamagazine.com/2021/02/04/najat-libro-cocina-marroqui-chef-najat-kaanache/).
+{{< reflink path=posts/2021/02/najat-libro-cocina-marroqui-chef-najat-kaanache >}}.

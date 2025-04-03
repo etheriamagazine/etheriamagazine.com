@@ -1,7 +1,7 @@
 ---
 title: "Cara a cara con King Kong en Uganda"
 date: 2019-04-18
-coverImage: https://fotos.etheriamagazine.com/2019/04/Uganda-Gorila-Bwindi.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/Uganda-Gorila-Bwindi.jpg
 categories: 
   - viajar-en-familia
 destino: 

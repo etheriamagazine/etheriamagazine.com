@@ -1,7 +1,7 @@
 ---
 title: "Qué comer en el Valle de Aosta, descubre los mejores sabores de los Alpes italianos"
 date: 2023-11-08
-coverImage: https://fotos.etheriamagazine.com/2023/10/valle-de-aosta-queso-Fontina.jpg
+cover: https://fotos.etheriamagazine.com/2023/10/valle-de-aosta-queso-Fontina.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-Nos vamos al Valle de Aosta, un pequeño y delicioso rincón de Italia situado en el 
+**Nos vamos al Valle de Aosta, un pequeño y delicioso rincón de Italia situado en el 
 corazón de los Alpes. Aquí, además de sus bonitos pueblos y su impresionante entorno 
 natural, tienen en la gastronomía una razón de peso para convertirse en protagonista de 
 tu próximo viaje. No te pierdas ninguna de las delicatesen que te explicamos a 
-continuación y que tendrás que probar sí o sí. Te van a gustar todas. 
+continuación y que tendrás que probar sí o sí. Te van a gustar todas.** 
 
 ![Queso Fontina del valle de Aosta](https://fotos.etheriamagazine.com/2023/10/valle-de-aosta-queso-Fontina.jpg "Queso Fontina, con Denominación de Origen Protegida. © Gaetano Madonia.")
 

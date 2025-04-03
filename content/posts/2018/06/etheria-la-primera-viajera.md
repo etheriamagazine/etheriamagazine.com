@@ -1,7 +1,7 @@
 ---
 title: "Etheria (o Egeria), la primera viajera española"
 date: 2018-06-12
-coverImage: https://fotos.etheriamagazine.com/2018/06/Egeria-etheria-primera-viajera-espanola.jpg
+cover: https://fotos.etheriamagazine.com/2018/06/Egeria-etheria-primera-viajera-espanola.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Firmas invitadas
 ---
 
-En este artículo, Carlos Pascual nos cuenta la historia de Egeria, la primera viajera 
+**En este artículo, Carlos Pascual nos cuenta la historia de Egeria, la primera viajera 
 "española". También conocida como Etheria y Eteria, entre otros nombres, fue una mujer 
 enigmática de la Gallaetia romana que dejó constancia de su viaje a los Santos Lugares 
-cuando el Imperio Romano estaba a punto de derrumbarse. 
+cuando el Imperio Romano estaba a punto de derrumbarse.** 
 
 **Autor: Carlos Pascual** 
 
@@ -113,11 +113,10 @@ Editorial: La Línea del Horizonte
 Además de conocer la historia de la primera viajera española también te puede interesar 
 conocer algunas rutas y libros que siguen la estela de grandes mujeres: 
 
-[Intrépidas. Un libro sobre 25 exploradoras que persiguieron su 
-sueño](https://etheriamagazine.com/2018/05/03/intrepidas-un-libro-sobre-25-exploradoras-que-persiguieron-su-sueno/). 
+{{< reflink 
+path=posts/2018/05/intrepidas-un-libro-sobre-25-exploradoras-que-persiguieron-su-sueno 
+>}}. 
 
-[Escenarios poéticos y atormentados de la vida de Frida 
-Kahlo](https://etheriamagazine.com/2021/02/15/biografia-y-ruta-frida-kahlo-mexico/). 
+{{< reflink path=posts/2021/02/biografia-y-ruta-frida-kahlo-mexico >}}. 
 
-[Ruta de fados en Lisboa de la mano de Amália 
-Rodrigues](https://etheriamagazine.com/2020/12/30/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues/).
+{{< reflink path=posts/2020/12/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues >}}.

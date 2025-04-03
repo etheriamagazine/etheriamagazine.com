@@ -1,7 +1,7 @@
 ---
 title: "Alice Fauveau: \"Cantaba por las calles para ganar dinero y poder seguir viajando\""
 date: 2018-10-15
-coverImage: https://fotos.etheriamagazine.com/2018/09/Alice-Fauveau-Women-Etheria-magazine.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/Alice-Fauveau-Women-Etheria-magazine.jpg
 categories: 
   - mujeres-top
 destino: 

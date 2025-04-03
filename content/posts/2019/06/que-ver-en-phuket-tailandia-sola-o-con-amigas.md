@@ -1,7 +1,7 @@
 ---
 title: "Planes en Phuket con amigas dispuestas a divertirse"
 date: 2019-06-26
-coverImage: https://fotos.etheriamagazine.com/2019/06/viaje-phuket-tailandia-amigas-Crucero-HYPE.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/viaje-phuket-tailandia-amigas-Crucero-HYPE.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -15,12 +15,12 @@ Conoce los mejores planes con amigas en Phuket, el destino playero por excelenci
 
 ![playa rawai, viaje phuket, que ver en tailandia](https://fotos.etheriamagazine.com/2019/06/viaje-phuket-tailandia-amigas-Playa-Rawai.jpg "Playa de Rawai. © Pedro Grifol")
 
-La isla más grande de Tailandia, Phuket, está situada al sur… donde el país se abre al [mar 
-de Andamán](https://etheriamagazine.com/2018/06/16/viaje-parejas-mar-de-andaman/), el 
-mar que después del tsunami de 2004 mudó la piel de muchas de sus playas. Dicen los 
-lugareños que después de la catástrofe vino la calma, y con ella una arena más limpia y 
-muchas especies de peces que hacía años que no veían. La naturaleza tiene esos 
-misterios, y algunos los podrás descubrir si sigues estos planes en Phuket. 
+La isla más grande de Tailandia, Phuket, está situada al sur… donde el país se abre al 
+{{< reflink path=posts/2018/06/viaje-parejas-mar-de-andaman >}}, el mar que después del 
+tsunami de 2004 mudó la piel de muchas de sus playas. Dicen los lugareños que después de 
+la catástrofe vino la calma, y con ella una arena más limpia y muchas especies de peces 
+que hacía años que no veían. La naturaleza tiene esos misterios, y algunos los podrás 
+descubrir si sigues estos planes en Phuket. 
 
 ![templos de phuket, tailandia con amigas](https://fotos.etheriamagazine.com/2019/06/viaje-phuket-tailandia-amigas-templos-phuket.jpg "Detalle de un santuario budista (Izq.) y templo Chalong (Dcha.) © Pedro Grifol")
 
@@ -78,8 +78,8 @@ ley del descontrol, que incluye motos acuáticas que surcan sus tres kilómetros
 ### El gran restaurante de Patong
 
 No olvides en tus planes en Phuket acudir a uno de los mejores restaurantes de 
-Tailandia, con una de las bodegas mejor surtidas del país. Está en Patong y se llama [Baan 
-Rim Pa](http://www.baanrimpa.com). Es un placer ponerse en las manos de Nid, la 
+Tailandia, con una de las bodegas mejor surtidas del país. Está en Patong y se llama 
+[Baan Rim Pa](http://www.baanrimpa.com). Es un placer ponerse en las manos de Nid, la 
 sumiller, y conversar sobre vinos del mundo. El albariño y el tempranillo no le son 
 desconocidos… pero seguro que te recomendará un vino más exótico. Cocina real tai. 
 Excelencia en la mesa. 
@@ -107,11 +107,11 @@ El buceo en toda regla (con botella) o solo con gafas y tubo (**esnórquel**) ya
 dicho que es una de las actividades lúdicas más propias de Phuket. La mejor opción para 
 bucear en los lugares apropiados es embarcarse todo un día en uno de los barcos que 
 parten diariamente desde el _pier_ (puerto) de Chalong. Te llevarán a las islas donde 
-las condiciones para la inmersión y la visibilidad del agua están garantizadas. La [empresa 
-HYPE](http://www.hypeboatclub.com) opera con unos **modernos catamaranes** que apenas se 
-mueven con el oleaje. El crucero, que dura todo el día, incluye bufé (con bebidas no 
-alcohólicas) y equipamiento para bucear. Tienen cócteles y champán a bordo que, 
-naturalmente, se paga aparte. 
+las condiciones para la inmersión y la visibilidad del agua están garantizadas. La 
+[empresa HYPE](http://www.hypeboatclub.com) opera con unos **modernos catamaranes** que 
+apenas se mueven con el oleaje. El crucero, que dura todo el día, incluye bufé (con 
+bebidas no alcohólicas) y equipamiento para bucear. Tienen cócteles y champán a bordo 
+que, naturalmente, se paga aparte. 
 
 ![crucero hype, viaje con amigas a phuket](https://fotos.etheriamagazine.com/2019/06/viaje-phuket-tailandia-amigas-Crucero-HYPE.jpg "Crucero en los catamaranes de HYPE. © Pedro Grifol")
 
@@ -176,11 +176,9 @@ fotos.
 
 ### También en Tailandia...
 
-[Planes para aprovechar bien tres días en 
-Bangkok](https://etheriamagazine.com/2021/05/29/tres-dias-en-bangkok-que-hacer/). 
+{{< reflink path=posts/2021/05/tres-dias-en-bangkok-que-hacer >}}. 
 
-[Chiang Mai, descubre su esencia entre templos y 
-mercados](https://etheriamagazine.com/2021/01/08/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual/). 
+{{< reflink path=posts/2021/01/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual 
+>}}. 
 
-[Qué llevar en la maleta para un viaje a 
-Tailandia](https://etheriamagazine.com/2020/01/02/que-llevar-en-maleta-viaje-tailandia/).
+{{< reflink path=posts/2020/01/que-llevar-en-maleta-viaje-tailandia >}}.

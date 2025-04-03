@@ -1,7 +1,7 @@
 ---
 title: "Linz, un viaje con amigas a orillas del Danubio"
 date: 2019-07-26
-coverImage: https://fotos.etheriamagazine.com/2019/07/que-ver-linz-austria-mujer.jpg
+cover: https://fotos.etheriamagazine.com/2019/07/que-ver-linz-austria-mujer.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -53,11 +53,11 @@ Otra cervecería entrañable es [Alte Welt](http://altewelt.at), situada en un p
 porticado de la **Hauptplatz** (Plaza Mayor), donde el pilar de la Santísima Trinidad –o 
 de La Peste– preside el discurrir de transeúntes y tranvías. 
 
-Al lado de la plaza, al principio de la Landstrasse, no hay que perderse la visita a la [tienda 
-Vom Fass](http://vomfass.com), una sucursal de la franquicia alemana que comercializa 
-**todo tipo de bebibles**: aceites, vinagres, whiskies y bourbons. Te informarán 
-amablemente y te ofrecerán probar todo. Un buen ejemplo de tienda con personal amable… 
-Seguro que ’picarás’ con alguna compra. 
+Al lado de la plaza, al principio de la Landstrasse, no hay que perderse la visita a la 
+[tienda Vom Fass](http://vomfass.com), una sucursal de la franquicia alemana que 
+comercializa **todo tipo de bebibles**: aceites, vinagres, whiskies y bourbons. Te 
+informarán amablemente y te ofrecerán probar todo. Un buen ejemplo de tienda con 
+personal amable… Seguro que ’picarás’ con alguna compra. 
 
 ![Hauptplatz, linz, que ver en linz, calles de link, visitas de Linz, viaje a austria](https://fotos.etheriamagazine.com/2019/07/que-ver-linz-austria-hauptplatz.jpg "Pilar de la Santísima Trinidad en la Hauptplatz. © Pedro Grifol")
 
@@ -89,12 +89,13 @@ se sabe que esto del arte moderno es mejor que te lo explique un experto.
 
 Como la ciudad es pequeña podemos ir andando a cualquier parte, excepto si quieres subir 
 a **Pöstlingberg**, la colina de la ciudad, a la que se llega en un antiguo tranvía 
-desde la Plaza Mayor. Las vistas son magníficas. Arriba hay una [basílica](https://www.dioezese-linz.at/linz-poestlingberg); 
-el [museo del Tranvía](http://linzag.at); un tren en forma de dragón -Grottenbahn- que 
-hace un trayecto entre gnomos y escenas de cuentos de los hermanos Grimm; y un 
-restaurante tradicional de nombre [Freiseder](http://www.freiseder.at), donde puede 
-quedarse a degustar un clásico **Wiener Schnitzel** para cenar. No os lo podéis perder 
-en un viaje con amigas a Linz. 
+desde la Plaza Mayor. Las vistas son magníficas. Arriba hay una 
+[basílica](https://www.dioezese-linz.at/linz-poestlingberg); el [museo del 
+Tranvía](http://linzag.at); un tren en forma de dragón -Grottenbahn- que hace un 
+trayecto entre gnomos y escenas de cuentos de los hermanos Grimm; y un restaurante 
+tradicional de nombre [Freiseder](http://www.freiseder.at), donde puede quedarse a 
+degustar un clásico **Wiener Schnitzel** para cenar. No os lo podéis perder en un viaje 
+con amigas a Linz. 
 
 ## No solo es un castillo…
 
@@ -169,11 +170,9 @@ agua, y puede -quizá- constituir una nueva experiencia.
 
 ### También te puede interesar
 
-[Múnich y Bad Wörishofen, la Alemania más verde y 
-saludable](https://etheriamagazine.com/2021/08/04/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable/) 
+{{< reflink path=posts/2021/08/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable 
+>}} 
 
-[Suiza en coche eléctrico, una aventura ecológica (y más 
-económica)](https://etheriamagazine.com/2021/02/10/ruta-en-coche-electrico-por-suiza/) 
+{{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}} 
 
-[Turín con amigas: viaja a la ciudad más supersticiosa de 
-Italia](https://etheriamagazine.com/2021/07/16/que-ver-en-turin-en-un-viaje-con-amigas/)
+{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}}

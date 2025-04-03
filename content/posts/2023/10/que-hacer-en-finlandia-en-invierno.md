@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer en Finlandia en invierno lejos de Papá Noel"
 date: 2023-10-24
-coverImage: https://fotos.etheriamagazine.com/2023/10/sauna-finlandia.jpg
+cover: https://fotos.etheriamagazine.com/2023/10/sauna-finlandia.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Aunque parece imposible pensar en Finlandia en invierno sin que Santa Claus haga acto de 
-presencia, os invitamos a disfrutar del país de una manera más original. ¿Qué os parece 
-dormir bajo auroras boreales, practicar esquí de fondo, entrenar vuestro sisu o nadar en 
-lagos helados? Os damos todas las pistas. 
+**Aunque parece imposible pensar en Finlandia en invierno sin que Santa Claus haga acto 
+de presencia, os invitamos a disfrutar del país de una manera más original. ¿Qué os 
+parece dormir bajo auroras boreales, practicar esquí de fondo, entrenar vuestro sisu o 
+nadar en lagos helados? Os damos todas las pistas.** 
 
 ![sauna en Finlandia en invierno](https://fotos.etheriamagazine.com/2023/10/sauna-finlandia.jpg "Sauna en Finlandia. © Ruka Kuusamo")
 
@@ -58,8 +58,7 @@ este año el ayuntamiento de Helsinki ha anunciado la inauguración de cinco nue
 lugares para la natación invernal en la ciudad. A esta práctica se le reconocen grandes 
 beneficios para el bienestar físico y espiritual. ¿Os animaríais a hacerlo? 
 
-✅ **No te pierdas:** [Por qué deberías bañarte en el hielo en 
-Finlandia](https://etheriamagazine.com/2023/02/22/banos-hielo-finlandia/) 
+✅ **No te pierdas:** {{< reflink path=posts/2023/02/banos-hielo-finlandia >}} 
 
 ![Nadar en hielo en Finlandia.](https://fotos.etheriamagazine.com/2023/10/nadar-hielo-finlandia.jpg "Nadar en hielo en Finlandia.")
 
@@ -117,8 +116,6 @@ agua helada** o incluso pescar.
 
 ✅ **También te puede interesar...** 
 
-[Mujeres artistas Suomi y Sami en 
-Finlandia](https://etheriamagazine.com/2019/07/01/viaje-finlandia-mujeres-artistas-suomi-y-sami/). 
+{{< reflink path=posts/2019/07/viaje-finlandia-mujeres-artistas-suomi-y-sami >}}. 
 
-[7 excursiones que no puedes perderte en la Laponia 
-finlandesa](https://etheriamagazine.com/2019/10/31/siete-excursiones-en-laponia-finlandesa/).
+{{< reflink path=posts/2019/10/siete-excursiones-en-laponia-finlandesa >}}.

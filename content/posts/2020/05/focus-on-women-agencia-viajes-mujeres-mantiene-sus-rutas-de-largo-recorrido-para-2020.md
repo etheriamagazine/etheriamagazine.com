@@ -1,7 +1,7 @@
 ---
 title: "La agencia de viajes Focus on Women mantiene sus rutas de largo recorrido en 2020"
 date: 2020-05-22
-coverImage: https://fotos.etheriamagazine.com/2020/05/agencia-viajes-mujeres-fow.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/agencia-viajes-mujeres-fow.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -10,21 +10,20 @@ authors:
   - Pepa G. Marín
 ---
 
-La agencia de viajes para mujeres Focus on Women, con Alice Fauveau al frente, confía en 
-la estabilización del sector turístico y mantiene sus programas de largo recorrido a 
-destinos como Japón, Armenia, Vietnam, Sri Lanka, Irán y Madagascar. 
+**La agencia de viajes para mujeres Focus on Women, con Alice Fauveau al frente, confía 
+en la estabilización del sector turístico y mantiene sus programas de largo recorrido a 
+destinos como Japón, Armenia, Vietnam, Sri Lanka, Irán y Madagascar.** 
 
 ![alice fauveau, focus on women, agencias de viajes para mujeres, destinos 2020](https://fotos.etheriamagazine.com/2020/05/Alice-Fauveau-agencia-mujeres-fow.jpg "Alice Fauveau, directora de Focus on Women.")
 
 Focus on Women, una de las empresas pioneras en el segmento de las agencias que 
 organizan viajes en grupo para mujeres, confía en la **experiencia** adquirida en la 
-última década (celebró [su 10º 
-aniversario](https://etheriamagazine.com/2019/11/03/fiesta-benefica-decimo-aniversario-focus-on-women/) 
-en 2019) y en la **fidelidad** de las clientas para sortear las dificultades que se 
-presentan ante la alerta sanitaria mundial. 
+última década (celebró {{< reflink 
+path=posts/2019/11/fiesta-benefica-decimo-aniversario-focus-on-women >}} en 2019) y en 
+la **fidelidad** de las clientas para sortear las dificultades que se presentan ante la 
+alerta sanitaria mundial. 
 
-[Alice 
-Fauveau](https://etheriamagazine.com/2018/10/15/alice-fauveau-directora-focus-on-women-mujer-etheria/), 
+{{< reflink path=posts/2018/10/alice-fauveau-directora-focus-on-women-mujer-etheria >}}, 
 directora de la agencia, se muestra optimista y señala que “el equipo sigue trabajando 
 todos los días –y mucho–, ya que estamos aprovechando para mejorar nuestra productividad 
 ahora que tenemos tiempo”. Su producto más ambicioso, la '**Vuelta al mundo con Rosa 
@@ -84,10 +83,10 @@ súper especiales que hemos montado por **España**.
 
 ### 6\. ¿Y para el último trimestre del año?
 
-Mantenemos la **Vuelta al Mundo** con con nuestra famosa [Rosa María 
-Calaf](https://etheriamagazine.com/2018/09/17/rosa-maria-calaf-es-una-mujer-etheria/), 
-las **rutas por Asia y África** que teníamos previstas (Japón, Armenia, Vietnam, Sri 
-Lanka, Irán, Madagascar) ya que pensamos que la situación se estabilizará. 
+Mantenemos la **Vuelta al Mundo** con con nuestra famosa {{< reflink 
+path=posts/2018/09/rosa-maria-calaf-es-una-mujer-etheria >}}, las **rutas por Asia y 
+África** que teníamos previstas (Japón, Armenia, Vietnam, Sri Lanka, Irán, Madagascar) 
+ya que pensamos que la situación se estabilizará. 
 
 ### 7\. ¿Consideras que se modificará el perfil de vuestras viajeras?
 

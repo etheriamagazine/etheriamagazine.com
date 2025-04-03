@@ -1,7 +1,7 @@
 ---
 title: "Viajeras por los Mares del Sur, un libro de desafíos"
 date: 2019-12-21
-coverImage: https://fotos.etheriamagazine.com/2019/12/fanny-stevenson.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/fanny-stevenson.jpg
 categories: 
   - cultura
   - ocio
@@ -88,11 +88,14 @@ ayuda a lanzarnos a conocer mundo y a viajar solas, ¿por qué, no?
 
 Comienza a leer esta y otras obras: 
 
-• [Viajeras por los Mares del Sur](https://amzn.to/2MdY3iy). Historias de trotamundos 
-por el Pacífico Sur. • [Viajeras de Leyenda](https://amzn.to/2Z8WkA7). Dedicado a las 
-trotamundos victorianas casadas con el Imperio, que vivieron en la India Colonial 
-Británica. • [Reinas de la Carretera](https://amzn.to/34CSVe6). Pioneras de los viajes 
-en bicicleta, en moto y en coche. 
+- [Viajeras por los Mares del Sur](https://amzn.to/2MdY3iy). Historias de trotamundos 
+por el Pacífico Sur. 
+
+- [Viajeras de Leyenda](https://amzn.to/2Z8WkA7). Dedicado a las trotamundos victorianas 
+casadas con el Imperio, que vivieron en la India Colonial Británica. 
+
+- [Reinas de la Carretera](https://amzn.to/34CSVe6). Pioneras de los viajes en 
+bicicleta, en moto y en coche. 
 
 Todos ellos los puedes encontrar en librerías o en **Amazon** (haz click en el enlace de 
 cada título) a un precio excelente desde 5,69 € (versión Kindle) y 17,10 € (edición 

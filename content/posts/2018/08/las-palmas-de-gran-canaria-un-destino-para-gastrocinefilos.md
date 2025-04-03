@@ -1,7 +1,7 @@
 ---
 title: "Las Palmas de Gran Canaria: un destino para 'gastrocinéfilos'"
 date: 2018-08-31
-coverImage: https://fotos.etheriamagazine.com/2018/08/festival-cine-food-gran-canaria.jpg
+cover: https://fotos.etheriamagazine.com/2018/08/festival-cine-food-gran-canaria.jpg
 categories: 
   - inspiración
   - ocio

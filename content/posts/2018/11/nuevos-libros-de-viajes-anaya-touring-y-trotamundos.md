@@ -1,7 +1,7 @@
 ---
 title: "Anaya Touring y Trotamundos editan cinco nuevas ventanas al mundo"
 date: 2018-11-29
-coverImage: https://fotos.etheriamagazine.com/2018/11/guias-viaje-anaya.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/guias-viaje-anaya.jpg
 categories: 
   - cultura
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Pepa G. Marín
 ---
 
-Los mejores viajes son aquellos que se han soñado previamente y que se han ido 
+**Los mejores viajes son aquellos que se han soñado previamente y que se han ido 
 disfrutando mientras se organizaban. Para inspirar nuevos destinos, Anaya Touring y 
-Trotamundos han editado cinco nuevos títulos que invitan a viajar en cada página. 
+Trotamundos han editado cinco nuevos títulos que invitan a viajar en cada página.** 
 
 ![Novedades de otoño de Anaya Touring y Trotamundos.](https://fotos.etheriamagazine.com/2018/11/guias-viaje-anaya.jpg "Novedades de otoño de Anaya Touring y Trotamundos.")
 

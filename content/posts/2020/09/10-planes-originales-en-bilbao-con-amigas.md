@@ -1,7 +1,7 @@
 ---
 title: "10 planes originales en Bilbao con amigas"
 date: 2020-09-09
-coverImage: https://fotos.etheriamagazine.com/2020/09/planes-originales-bilbao-Hotel-Capsula.jpg
+cover: https://fotos.etheriamagazine.com/2020/09/planes-originales-bilbao-Hotel-Capsula.jpg
 categories: 
   - ocio
 destino: 
@@ -42,13 +42,13 @@ el 19 de septiembre de 2021.
 
 ## 2\. Cena en el restaurante Nerua
 
-Tras la imprescindible visita al curvilíneo y retorcido Guggenheim, nos podemos dar un [homenaje 
-gastronómico en Nerua](http://www.neruaguggenheimbilbao.com), restaurante emblema de la 
-alta cocina bilbaína, sin salir del recinto de la pinacoteca. Con una estrella Michelin 
-y tres Soles Repsol, la propuesta del chef Josean Alija nos embarcará en un viaje 
-creativo y cultural por los productos locales de temporada. Y eso que presume de que 
-muchos de sus platos sólo tienen tres ingredientes. Recomendamos el **menú especial 
-Sena**, cinco pasos con propuestas icónicas de Nerua. 
+Tras la imprescindible visita al curvilíneo y retorcido Guggenheim, nos podemos dar un 
+[homenaje gastronómico en Nerua](http://www.neruaguggenheimbilbao.com), restaurante 
+emblema de la alta cocina bilbaína, sin salir del recinto de la pinacoteca. Con una 
+estrella Michelin y tres Soles Repsol, la propuesta del chef Josean Alija nos embarcará 
+en un viaje creativo y cultural por los productos locales de temporada. Y eso que 
+presume de que muchos de sus platos sólo tienen tres ingredientes. Recomendamos el 
+**menú especial Sena**, cinco pasos con propuestas icónicas de Nerua. 
 
 ![libro de bilbao, verdes valles colinas rojas, obra de ramillo pinilla](https://fotos.etheriamagazine.com/2020/09/planes-originales-bilbao-verdes-valles.jpg "'Verdes valles, colinas rojas', una obra de Ramillo Pinilla.")
 
@@ -70,10 +70,10 @@ anuncia que espera un hijo ilegítimo.
 Sólo por admirar este centenario teatro, por dentro y por fuera, merecería la pena 
 asistir a una obra en este lugar. Además, da la casualidad de que el programa del Teatro 
 Arriaga siempre cuenta con excelentes piezas teatrales y grandísimos artistas. No existe 
-excusa que valga. Consulta la programación cuando viajes a Bilbao, aquí tienes su web: [Teatro 
-Arriaga](http://www.teatroarriaga.eus). Te adelantamos que si vas en agosto de 2021 (del 
-19 a 22) tendrás en cartel 'La habitación de María', interpretada por la genial Concha 
-Velasco. Precio: de 12 a 25 €. 
+excusa que valga. Consulta la programación cuando viajes a Bilbao, aquí tienes su web: 
+[Teatro Arriaga](http://www.teatroarriaga.eus). Te adelantamos que si vas en agosto de 
+2021 (del 19 a 22) tendrás en cartel 'La habitación de María', interpretada por la 
+genial Concha Velasco. Precio: de 12 a 25 €. 
 
 ![tapas creativas en bilbao, victor montes, gure toki, sorginzulo, comer bien en bilbao](https://fotos.etheriamagazine.com/2020/09/planes-originales-bilbao-pinchos.jpg "Cocina creativa de Víctor Montes, Gure Toki y Sorginzulo (de izq. a dcha.)")
 
@@ -83,12 +83,13 @@ Hay que dedicar una tarde, sí o sí, para ir de potes por Bilbao y disfrutar de
 exquisitos pintxos. Eso sí, hay que saber dónde comer los mejores. Y éstos son los que 
 nos recomiendan quienes practican este arte (lo es) de forma cotidiana en la ciudad del 
 Nervión: “[Gure Toki](http://www.guretoki.com)”, donde Iván Siles no da abasto en la 
-cocina; **Baster**, con “r”; [Sorginzulo](http://www.sorginzulo.com), [Irrintzi](http://www.irrintzi.es), 
-**Basaras**, [Víctor Montes](http://www.victormontes.com), [Bibao](http://bilbao-cafebar.com), 
-**Txiriboga**, **Xukela**, [Gatz](http://www.bargatz.com), [Víctor](http://www.restaurantevictor.com) 
-y **Zuga**. Estos locales tienen sello de garantía. Os gustarán. En este artículo 
-encontraréis más claves para disfrutar de una [Bilbao 
-gastronómica](https://etheriamagazine.com/2019/12/23/finde-bilbao-con-amigas-mejores-restaurantes/). 
+cocina; **Baster**, con “r”; [Sorginzulo](http://www.sorginzulo.com), 
+[Irrintzi](http://www.irrintzi.es), **Basaras**, [Víctor 
+Montes](http://www.victormontes.com), [Bibao](http://bilbao-cafebar.com), **Txiriboga**, 
+**Xukela**, [Gatz](http://www.bargatz.com), [Víctor](http://www.restaurantevictor.com) y 
+**Zuga**. Estos locales tienen sello de garantía. Os gustarán. En este artículo 
+encontraréis más claves para disfrutar de una {{< reflink 
+path=posts/2019/12/finde-bilbao-con-amigas-mejores-restaurantes >}}. 
 
 ![Torre Loizaga, planes en bilbao, planes con amigas](https://fotos.etheriamagazine.com/2020/09/planes-originales-bilbao-torre-loizaga.jpg "Coches clásicos en Torre Loizaga, un plan original en Billbao.")
 
@@ -126,9 +127,9 @@ que será una experiencia mucho más relajada.
 
 ## 8\. ¿Y si dormimos a la japonesa?
 
-Tal cual. El minimalismo a la hora de dormir ha llegado a Bilbao con la propuesta de [Optimi 
-Rooms](http://www.optimirooms.com), el primer hotel cápsula de España que utiliza 
-modelos de descanso importados de Oriente. Sus promotores, Iñaki Zabala e Iker 
+Tal cual. El minimalismo a la hora de dormir ha llegado a Bilbao con la propuesta de 
+[Optimi Rooms](http://www.optimirooms.com), el primer hotel cápsula de España que 
+utiliza modelos de descanso importados de Oriente. Sus promotores, Iñaki Zabala e Iker 
 Caballero, decidieron poner en marcha este alojamiento de 50 cabinas después de ver un 
 documental sobre formas diferentes de vivir en el mundo. El espacio lo han diseñado con 
 materiales de vanguardia y ofrecen un **aspecto futurista a precios de hostel**. Tambien 
@@ -161,11 +162,10 @@ Todo un viaje a través de los sentidos. Os dejamos este vídeo para que lo veai
 
 ### ¡Más planes!
 
-[12 planes en Getxo con amigas para disfrutar al estilo 
-vasco](https://etheriamagazine.com/2021/06/14/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco/) 
+{{< reflink 
+path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}} 
 
-[Vive la Aste Nagusia, la Fiesta Grande de 
-Bilbao](https://etheriamagazine.com/2019/07/29/que-hacer-bilbao-semana-grande-aste-nagusia-2019/). 
+{{< reflink path=posts/2019/07/que-hacer-bilbao-semana-grande-aste-nagusia-2019 >}}. 
 
 #### Visitas y excursiones gratis y de pago
 

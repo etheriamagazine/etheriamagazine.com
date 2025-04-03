@@ -1,7 +1,7 @@
 ---
 title: "Anantara Villa Padierna, un hotel de lujo donde encontrar la paz en la costa malagueña"
 date: 2022-08-17
-coverImage: https://fotos.etheriamagazine.com/2022/08/Villa-padierna-piscina.jpg
+cover: https://fotos.etheriamagazine.com/2022/08/Villa-padierna-piscina.jpg
 categories: 
   - hoteles
 destino: 
@@ -145,18 +145,19 @@ un **masaje o tratamiento**: seguro que encuentras uno a tu medida en la extensa
 que te propondrán, y si no fuese así pueden adaptarse a tus gustos y necesidades. 
 
 [Hotel Anantara Villa Padierna Palace Benahavís Marbella 
-Resort](https://www.anantara.com/es/villa-padierna-marbella) Urb. Los Flamingos Golf - 
-Ctra. de Cádiz, km 166, Marbella, Málaga. Tel. +34 952 889 150. 
+Resort](https://www.anantara.com/es/villa-padierna-marbella) Urb. Los Flamingos Golf 
+
+- Ctra. de Cádiz, km 166, Marbella, Málaga. Tel. +34 952 889 150. 
 
 Fotografías cedidas por © Anantara Hotels, Resorts & Spas. 
 
 ## También te puede interesar:
 
-[Planes para exprimir un fin de semana en Marbella con 
-amigas](https://etheriamagazine.com/2019/06/11/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana/) 
+{{< reflink 
+path=posts/2019/06/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana 
+>}} 
 
-[Hotel Santo Cristo, el lujo discreto de los pequeños 
-detalles](https://etheriamagazine.com/2022/01/10/hotel-santo-cristo-lujo-en-marbella/) 
+{{< reflink path=posts/2022/01/hotel-santo-cristo-lujo-en-marbella >}} 
 
-[Road trip por la Axarquía 
-malagueña](https://etheriamagazine.com/2020/06/19/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga/)
+{{< reflink path=posts/2024/07/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga 
+>}}

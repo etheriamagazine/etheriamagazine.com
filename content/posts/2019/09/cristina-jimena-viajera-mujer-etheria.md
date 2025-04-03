@@ -1,7 +1,7 @@
 ---
 title: "Cristina Jimena: \"En turismo puedo dar lo mejor de mí misma\""
 date: 2019-09-02
-coverImage: https://fotos.etheriamagazine.com/2019/09/cristina-jimena-Costa-Rica.jpg
+cover: https://fotos.etheriamagazine.com/2019/09/cristina-jimena-Costa-Rica.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Apasionada de los viajes, escritora y experta en turismo y comunicación, Cristina Jimena 
-es una perfecta embajadora y representante de la región de Baden-Wurtemberg (Alemania), 
-donde reside desde hace más de 20 años. Por su trayectoria y pasión por el oficio es una 
-de nuestras Mujeres Etheria. 
+**Apasionada de los viajes, escritora y experta en turismo y comunicación, Cristina 
+Jimena es una perfecta embajadora y representante de la región de Baden-Wurtemberg 
+(Alemania), donde reside desde hace más de 20 años. Por su trayectoria y pasión por el 
+oficio es una de nuestras Mujeres Etheria.** 
 
 ![cristina jimena, viaje alemania](https://fotos.etheriamagazine.com/2019/08/2-cristina-jimena-heidelberg.jpg "Cristina J. en Heidelberg (Alemania).")
 
@@ -91,16 +91,16 @@ Leyendo, por supuesto.
 
 El mejor viaje de mi vida es mi vida, pues es un continuo viaje. ;-) Bueno, ahora en 
 serio: no puedo elegir un solo viaje, pues todos son especiales por algún motivo. ¿Cómo 
-elegir entre [Maldivas](https://etheriamagazine.com/2021/03/23/guia-que-hacer-en-maldivas-buceo-surf/), 
-Tailanda, [Bali](https://etheriamagazine.com/2019/07/23/luna-miel-bali-maldicion-ruptura/), 
-Sri Lanka, Canadá, [Estados 
-Unidos](https://etheriamagazine.com/2019/07/18/ruta-california-por-el-lejano-oeste-americano/), 
-[Cuba](https://etheriamagazine.com/2019/01/25/viajar-con-amigas-a-cuba/), Costa Rica, 
-México, Colombia, [República 
-Dominicana](https://etheriamagazine.com/2018/04/13/propuestas-en-el-norte-de-republica-dominicana/), 
-Bahamas o Jamaica? ¿O entre destinos más cercanos como España, Alemania, Austria, [Suiza](https://etheriamagazine.com/2019/04/30/viaje-en-familia-que-hacer-engelberg-suiza/), 
-Francia, Italia, Portugal, Grecia o Turquía? Cada uno de esos países me ha hecho feliz, 
-y a todos ellos estoy agradecida. 
+elegir entre {{< reflink path=posts/2021/03/guia-que-hacer-en-maldivas-buceo-surf >}}, 
+Tailanda, {{< reflink path=posts/2019/07/luna-miel-bali-maldicion-ruptura >}}, Sri 
+Lanka, Canadá, {{< reflink 
+path=posts/2019/07/ruta-california-por-el-lejano-oeste-americano >}}, {{< reflink 
+path=posts/2019/01/viajar-con-amigas-a-cuba >}}, Costa Rica, México, Colombia, {{< 
+reflink path=posts/2018/04/propuestas-en-el-norte-de-republica-dominicana >}}, Bahamas o 
+Jamaica? ¿O entre destinos más cercanos como España, Alemania, Austria, {{< reflink 
+path=posts/2019/04/viaje-en-familia-que-hacer-engelberg-suiza >}}, Francia, Italia, 
+Portugal, Grecia o Turquía? Cada uno de esos países me ha hecho feliz, y a todos ellos 
+estoy agradecida. 
 
 **8\. ¿Y tu último viaje? ¿Qué es lo que más y lo que menos te ha gustado de ese 
 destino?** 

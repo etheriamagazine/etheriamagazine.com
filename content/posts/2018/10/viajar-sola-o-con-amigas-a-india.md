@@ -1,7 +1,7 @@
 ---
 title: "¿Puedo viajar sola o con amigas a India?"
 date: 2018-10-19
-coverImage: https://fotos.etheriamagazine.com/2018/10/ganges-varanasi-mujeres-india.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/ganges-varanasi-mujeres-india.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -41,8 +41,8 @@ los prejuicios.
 
 #### ¿Qué llevar en la maleta?
 
-En este artículo te ayudamos a [preparar la maleta para 
-India](https://etheriamagazine.com/2018/10/19/que-llevar-en-la-maleta-para-viajar-a-india/). 
+En este artículo te ayudamos a {{< reflink 
+path=posts/2018/10/que-llevar-en-la-maleta-para-viajar-a-india >}}. 
 
 #### ¿Qué visitar?
 
@@ -170,11 +170,9 @@ tren, fue “acogida” por un gran grupo de mujeres que cuidaron de ella en tod
 
 India es así de fascinante, y poder realizar una inmersión tan auténtica os permitirá 
 llevaros recuerdos únicos. Para realizar un viaje organizado con otras mujeres puedes 
-consultar los programas de las agencias **Mujer y viajera**, [Focus on 
-Women](https://etheriamagazine.com/2018/10/15/alice-fauveau-directora-focus-on-women-mujer-etheria/), 
-[Wom 
-Viajes](https://etheriamagazine.com/2018/08/20/ana-blasco-wom-viajes-mujeres-etheria/), 
-etc. 
+consultar los programas de las agencias **Mujer y viajera**, {{< reflink 
+path=posts/2018/10/alice-fauveau-directora-focus-on-women-mujer-etheria >}}, {{< reflink 
+path=posts/2018/08/ana-blasco-wom-viajes-mujeres-etheria >}}, etc. 
 
 No se me ocurre mejor manera de terminar esta recomendación viajera que con la siguiente 
 frase: "India es el último país que debes visitar. Después de esto, ningún otro lugar 
@@ -216,13 +214,11 @@ perfectos para las lecturas femeninas son: _El sari rojo_, _La emperatriz tras e
 _La pasión india_, _La ciudad de la alegría_, _La reina de los bandidos_, _El vagón de 
 las mujeres_, _En el país de las vacas sin ojos_, o _Las dos caras de la luna_. 
 
-**• Más información** en la página web oficial de [Turismo de 
+**- Más información** en la página web oficial de [Turismo de 
 India](https://download.india-tourism.com/). 
 
 ### También te puede interesar:
 
-[La “pasión india” de Anita Delgado: una vida de 
-película](https://etheriamagazine.com/2020/04/13/la-pasion-india-de-anita-delgado-libros-viajes/) 
+{{< reflink path=posts/2020/04/la-pasion-india-de-anita-delgado-libros-viajes >}} 
 
-[Qué ver en el norte de India: 10 colores del 
-Rajastán](https://etheriamagazine.com/2020/01/29/viaje-para-mujeres-que-ver-norte-india-rajastan/)
+{{< reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}}

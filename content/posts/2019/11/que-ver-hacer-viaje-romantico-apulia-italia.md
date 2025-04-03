@@ -1,7 +1,7 @@
 ---
 title: "Esto es lo que ocurrirá si haces un viaje romántico a Apulia"
 date: 2019-11-25
-coverImage: https://fotos.etheriamagazine.com/2019/11/viaje-puglia-trani-puerto.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/viaje-puglia-trani-puerto.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Kelu Robles
 ---
 
-Si eliges Apulia en tu próximo viaje a Italia pasearás por pueblos marineros, te 
+**Si eliges Apulia en tu próximo viaje a Italia pasearás por pueblos marineros, te 
 enamorarás de sus castillos medievales y de sus callejuelas con altares, y tendrás 
 tiempo para descubrir las reliquias de ¿Papá Noel? en Bari. Te contamos qué ver en 
-Apulia para que no te pierdas nada. 
+Apulia para que no te pierdas nada.** 
 
 ![Piazza Mercantile, Bari](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-portada.jpg "Piazza Mercantile, Bari. © Kelu Robles")
 
@@ -132,12 +132,12 @@ Los vecinos de **Ruvo** se vuelcan en la organización del Talos Festival, un fe
 jazz que tiene lugar en la Piazzetta Le Monache desde el año 1993. Cada mes de 
 septiembre, la ciudad se envuelve en una atmósfera de lo más Nino Rota y Federico 
 Fellini. La sociedad italiana, tan históricamente obsesionada por la belleza y el arte, 
-no olvida que el vino y la música también forman un combo perfecto. Por eso las bodegas [Cantina 
-Grifo](https://www.crifo.it/) organizan catas de vinos entre sus barriles y las amenizan 
-con la música en directo de la Bembè House Band, un laboratorio musical de percusión 
-callejera dirigido por Tommaso Scarimbolo y donde participan adolescentes de la región 
-que tocan marimbas, vibráfonos, baterías y todo tipo de instrumentos creados con 
-material reciclado. 
+no olvida que el vino y la música también forman un combo perfecto. Por eso las bodegas 
+[Cantina Grifo](https://www.crifo.it/) organizan catas de vinos entre sus barriles y las 
+amenizan con la música en directo de la Bembè House Band, un laboratorio musical de 
+percusión callejera dirigido por Tommaso Scarimbolo y donde participan adolescentes de 
+la región que tocan marimbas, vibráfonos, baterías y todo tipo de instrumentos creados 
+con material reciclado. 
 
 ![cavatelli alle frutti di mare, gastronomia puglia](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-cavatelli.jpg "Deliciosos 'Cavatelli alle frutti di mare'. ©KR")
 
@@ -184,16 +184,16 @@ vehículo** para recorrer la región.
 Es complicado comer mal en Apulia, pero nunca está de más conocer propuestas infalibles 
 como éstas: 
 
-• **U.P.E.P.I.D.D.E** (upepidde.it) Antigua bodega dirigida por Donato Saulle. Es el 
+- **U.P.E.P.I.D.D.E** (upepidde.it) Antigua bodega dirigida por Donato Saulle. Es el 
 mayor exponente de calidad gastronómica de la ciudad de **Ruvo** y es especialmente 
 valorado por sus carnes, por la alta cocina de proximidad y por su extensa carta de 
 vinos de **Murgia**. Ideal para disfrutar de una velada romántica. 
 
-• **Acquapazza** (www.ristoranteacquapazza.it). Situado en un antiguo local del siglo 
+- **Acquapazza** (www.ristoranteacquapazza.it). Situado en un antiguo local del siglo 
 XIX de **Ruvo**, llaman la atención sus recetas de pescados, mejillones y todas sus 
 referencias a la gastronomía tradicional pullesa. 
 
-• **Osteria Le Arpie** (osterialearpie.com), en **Bari**. Pequeño local familiar. 
+- **Osteria Le Arpie** (osterialearpie.com), en **Bari**. Pequeño local familiar. 
 Pregunta por las _orecchiette alle cime di rapa_, la pasta de orejitas con grelos es el 
 plato más representativo de la región. 
 
@@ -202,13 +202,13 @@ plato más representativo de la región.
 ### Toma buena nota
 
 Hemos recorrido la cara imperial de Apulia, pero como ya te contamos en Etheria 
-Magazine, [no te puedes perder los 'trullis' de 
-Alberobello](https://etheriamagazine.com/2019/04/15/que-ver-alberobello-italia-unesco/), 
-las construcciones pullesas que mejor representan la picaresca italiana. 
+Magazine, {{< reflink path=posts/2019/04/que-ver-alberobello-italia-unesco >}}, las 
+construcciones pullesas que mejor representan la picaresca italiana. 
 
-Reserva un día del viaje para descubrir la ciudad troglodita de [Mattera](https://etheriamagazine.com/2019/02/02/matera-capital-de-la-cultura-2019/). 
-La localidad se encuentra en la región de **Basilicata** y ha sido declarada Patrimonio 
-de la Humanidad por la **UNESCO**. 
+Reserva un día del viaje para descubrir la ciudad troglodita de {{< reflink 
+path=posts/2019/02/matera-capital-de-la-cultura-2019 >}}. La localidad se encuentra en 
+la región de **Basilicata** y ha sido declarada Patrimonio de la Humanidad por la 
+**UNESCO**. 
 
 ### Más información
 
@@ -217,8 +217,6 @@ de la Humanidad por la **UNESCO**.
 
 📌 **También te puede interesar:** 
 
-[Caótica Nápoles: 48 horas en la ciudad más canalla de 
-Italia](https://etheriamagazine.com/2020/09/04/que-ver-en-napoles-en-fin-de-semana/) 
+{{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}} 
 
-[Ruta en coche por Sicilia, entre pantocrátores y 
-bikinis](https://etheriamagazine.com/2021/07/05/sicilia-pantocratores-y-bikinis/)
+{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}}

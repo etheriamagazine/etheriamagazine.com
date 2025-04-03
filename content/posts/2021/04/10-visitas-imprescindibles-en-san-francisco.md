@@ -1,7 +1,7 @@
 ---
 title: "San Francisco al desnudo en un puñado de planes caprichosos"
 date: 2021-04-09
-coverImage: https://fotos.etheriamagazine.com/2018/07/San-Francisco-Alamo-Square.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/San-Francisco-Alamo-Square.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -26,8 +26,8 @@ Por su tamaño puedes pensar que no necesitas un listado con las visitas impresc
 en San Francisco, pero debes tener en cuenta que ofrece un amplio abanico de propuestas 
 que requerirá de cierta organización. Además, si sólo te quedas 3 días porque quieres 
 realizar una ruta por el estado de **California**, tendrás que organizarte bien. Los 
-lugares más habituales para ampliar son los parques nacionales (entre ellos, el cercano [Yosemite 
-National 
+lugares más habituales para ampliar son los parques nacionales (entre ellos, el cercano 
+[Yosemite National 
 Park](https://www.civitatis.com/es/san-francisco/excursion-yosemite/?aid=10211)) y Napa 
 Valley, ideal para hacer una ruta enoturística. 
 
@@ -224,14 +224,11 @@ parte superior (si el tiempo lo permite).
 
 **También en Estados Unidos** 
 
-[California Dreams. Un road trip vinícola en Estados 
-Unidos](https://etheriamagazine.com/2020/01/06/ruta-enoturismo-con-amigas-california-napa-valley-sonoma/). 
+{{< reflink path=posts/2020/01/ruta-enoturismo-con-amigas-california-napa-valley-sonoma 
+>}}. 
 
-[Los mejores miradores de Nueva York: los nuevos, los de pago y los 
-gratuitos](https://etheriamagazine.com/2020/02/24/los-mejores-miradores-de-nueva-york-gratis-de-pago/). 
+{{< reflink path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}}. 
 
-[Descubre Washington DC barrio a 
-barrio](https://etheriamagazine.com/2020/03/02/viajes-para-mujeres-que-ver-washington-dc/). 
+{{< reflink path=posts/2020/03/viajes-para-mujeres-que-ver-washington-dc >}}. 
 
-[¿Cómo es ser mujer en tierra de los 
-Amish?](https://etheriamagazine.com/2019/02/07/viaje-pensilvania-mujeres-amish/)
+{{< reflink path=posts/2019/02/viaje-pensilvania-mujeres-amish >}}

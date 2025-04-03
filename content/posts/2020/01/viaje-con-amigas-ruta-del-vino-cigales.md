@@ -1,7 +1,7 @@
 ---
 title: "Ruta del vino Cigales, 10 razones para brindar como los Reyes Católicos"
 date: 2020-01-07
-coverImage: https://fotos.etheriamagazine.com/2020/01/etheria-ruta-vino-cigales-castillo-encantado.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/etheria-ruta-vino-cigales-castillo-encantado.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Kelu Robles
 ---
 
-La cuna de los mejores rosados del mundo ofrece la excusa perfecta para disfrutar de una 
-relajante escapada rural con amigas. Y si necesitas un pretexto para irte de vinos por 
-el valle del Pisuerga, en Etheria Magazine te damos diez. 
+**La cuna de los mejores rosados del mundo ofrece la excusa perfecta para disfrutar de 
+una relajante escapada rural con amigas. Y si necesitas un pretexto para irte de vinos 
+por el valle del Pisuerga, en Etheria Magazine te damos diez.** 
 
 ![copa de rosado en la ruta de cigales](https://fotos.etheriamagazine.com/2020/01/etheria-ruta-vino-cigales-portada.jpg "Ruta del Vino Cigales. © Kelu Robles")
 
@@ -23,10 +23,10 @@ se elabora hoy en día es mucho mejor que el de entonces).
 ## 1\. Un 'chin chin' real
 
 Los **Reyes Católicos** transformaron el devenir de la meseta a través de grandes 
-hazañas históricas, pero también gracias a pequeños gestos de su intimidad conyugal. [Brindar 
-con un vino de Cigales,](https://wineroutesofspain.com/rv-cigales) como hicieron 
-Fernando II de Aragón e Isabel I de Castilla, fue un hecho determinante para el futuro 
-de estas tierras. 
+hazañas históricas, pero también gracias a pequeños gestos de su intimidad conyugal. 
+[Brindar con un vino de Cigales,](https://wineroutesofspain.com/rv-cigales) como 
+hicieron Fernando II de Aragón e Isabel I de Castilla, fue un hecho determinante para el 
+futuro de estas tierras. 
 
 Hoy, la cultura del vino representa una de las potencias económicas y culturales más 
 importantes del **valle del Pisuerga**, superando crisis tan profundas como la de la 
@@ -217,11 +217,10 @@ el artículo.
 
 ✅ **También te puede interesar:** 
 
-[Ruta del lechazo: los mejores asadores de Castilla y 
-León](https://etheriamagazine.com/2019/04/25/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon/) 
+{{< reflink 
+path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
+>}} 
 
-[Viaje en coche por la Ruta del Vino de La 
-Mancha](https://etheriamagazine.com/2019/03/20/ruta-del-vino-de-la-mancha/) 
+{{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha >}} 
 
-[Ruta del Vino de la Sierra de Francia, un brindis con amigas en 
-Salamanca](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/)
+{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}

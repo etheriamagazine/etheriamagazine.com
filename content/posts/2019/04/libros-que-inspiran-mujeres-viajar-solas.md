@@ -1,7 +1,7 @@
 ---
 title: "Regálame un libro"
 date: 2019-04-23
-coverImage: https://fotos.etheriamagazine.com/2019/04/libros-mujeres-etheria.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/libros-mujeres-etheria.jpg
 categories: 
   - cultura
 destino: 
@@ -63,7 +63,7 @@ De vez en cuando es necesario leer este tipo de manifiestos feministas donde el 
 
 ## 7\. Cocina madre.
 
-Ya os recomendábamos esta obra de forma individual pero no podemos dejar de recordaros este libro escrito por Joan Roca, y editado por Planeta Gastro, en el que rinde homenaje a su madre, Montserrat Fontané. Este volumen recoge 80 recetas sencillas que todas podemos elaborar en casa sin mucha dificultad. Reseña completa de [Cocina Madre](https://etheriamagazine.com/2019/04/03/nuevo-libro-joan-roca-cocina-madre/).
+Ya os recomendábamos esta obra de forma individual pero no podemos dejar de recordaros este libro escrito por Joan Roca, y editado por Planeta Gastro, en el que rinde homenaje a su madre, Montserrat Fontané. Este volumen recoge 80 recetas sencillas que todas podemos elaborar en casa sin mucha dificultad. Reseña completa de {{< reflink path=posts/2021/04/nuevo-libro-joan-roca-cocina-madre >}}.
 
 ![Sol de invierno, manena munar](https://fotos.etheriamagazine.com/2019/04/Sol-de-invierno-manena.jpg "Sol de Invierno, autora Manena Munar")
 

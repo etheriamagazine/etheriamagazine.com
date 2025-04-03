@@ -1,7 +1,7 @@
 ---
 title: "Cádiz capital con niños, 10 planes en familia"
 date: 2019-10-17
-coverImage: https://fotos.etheriamagazine.com/2021/08/Andalucia-La-Caleta-Cadiz.jpg
+cover: https://fotos.etheriamagazine.com/2021/08/Andalucia-La-Caleta-Cadiz.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -27,10 +27,11 @@ Actualizado julio 2022
 Esta podría ser la primera visita en el recorrido que os proponemos en Cádiz porque está 
 situado justo en **Puerta Tierra,** que es un reducto de la antigua muralla, que separa 
 la ciudad histórica de otros barrios más recientes. Aunque exteriormente no sea muy 
-visible camina por los pasadizos de la muralla para localizar el Museo Litográfico y el [Museo 
-del Títere](https://turismo.cadiz.es/es/rutas-y-visitas-en-cadiz/museo-del-t%C3%ADtere), 
-en la bóveda de Santa Elena. El primero es interesante pero el segundo es, realmente, 
-más adecuado para ir con niños. 
+visible camina por los pasadizos de la muralla para localizar el Museo Litográfico y el 
+[Museo del 
+Títere](https://turismo.cadiz.es/es/rutas-y-visitas-en-cadiz/museo-del-t%C3%ADtere), en 
+la bóveda de Santa Elena. El primero es interesante pero el segundo es, realmente, más 
+adecuado para ir con niños. 
 
 ![Puertecitas del Museo del Títere para un viaje a Cádiz con niños](https://fotos.etheriamagazine.com/2019/10/puerta-museo-titeres.jpg "Puertecitas del Museo del Títere (Cádiz). © P.G.")
 
@@ -185,7 +186,8 @@ antiguo **balneario de la Palma** (de 1926). Ya no ejerce como tal, ahora acoge 
 Centro de Arqueología Subacuática de Andalucía. 
 
 Otra propuesta añadida es realizar un taller (niños de 4 a 13 años) en el **castillo de 
-Santa Catalina**. Los hay de diversas temáticas y sólo cuestan 6 euros. Infórmate en [Tapeca](http://www.tapeca.com/). 
+Santa Catalina**. Los hay de diversas temáticas y sólo cuestan 6 euros. Infórmate en 
+[Tapeca](http://www.tapeca.com/). 
 
 ![Teatro Romano de Cádiz.](https://fotos.etheriamagazine.com/2019/10/teatro-romano-cadiz.jpg "Teatro Romano de Cádiz. ©A.C.")
 
@@ -201,8 +203,8 @@ antiguo de la península ibérica y uno de los mayores del país. La entrada se 
 la calle Mesón, 13 (Centro de Interpretación del Teatro Romano). 
 
 Si os interesa el tema histórico, no dejéis de visitar también el **Museo de Historia de 
-Cádiz** porque alberga auténticas joyas. En el término de Tarifa se encuentran las [ruinas 
-romanas de Baelo 
+Cádiz** porque alberga auténticas joyas. En el término de Tarifa se encuentran las 
+[ruinas romanas de Baelo 
 Claudia](http://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/), 
 otra visita imprescindible para hacer en familia. 
 
@@ -215,11 +217,11 @@ de 10 a 14 horas.
 
 Para terminar el día os sugerimos un paseo en barco. ¿A qué niño no le apasionan las 
 historias de piratas? En Cádiz, además, te podrán contar muchas leyendas de los barcos 
-que llegaban cargados de tesoros de allende los mares. Empresas como [Albarco](https://www.albarco.com/) 
-organizan excursiones en catamarán que te llevan durante todo el año por el litoral. Una 
-opción es realizar el recorrido que lleva hasta el **castillo de Sancti Petri y el 
-Parque Natural Bahía de Cádiz**. En este caso, el barco sale del puerto de Sancti Petri 
-(en el término de Chiclana de la Frontera). 
+que llegaban cargados de tesoros de allende los mares. Empresas como 
+[Albarco](https://www.albarco.com/) organizan excursiones en catamarán que te llevan 
+durante todo el año por el litoral. Una opción es realizar el recorrido que lleva hasta 
+el **castillo de Sancti Petri y el Parque Natural Bahía de Cádiz**. En este caso, el 
+barco sale del puerto de Sancti Petri (en el término de Chiclana de la Frontera). 
 
 📍Muy recomendable: Ver el [atardecer desde un 
 barco](https://www.civitatis.com/es/sancti-petri/paseo-barco-atardecer/?aid=10211) en 
@@ -233,11 +235,11 @@ de interés y buenos restaurantes donde comer.
 
 ### También te puede interesar en Cádiz provincia...
 
-[12 actividades para hacer con niños en la provincia de 
-Cádiz](https://etheriamagazine.com/2020/03/12/12-actividades-familiares-para-viajes-con-ninos-en-cadiz/). 
+{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
+>}}. 
 
-[Ruta en coche por 12 preciosos pueblos blancos de 
-Cádiz](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/). 
+{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}}. 
 
-[Conoce las 15 playas y calas más deseadas de 
-Conil](https://etheriamagazine.com/2021/02/05/mejores-playas-y-calas-de-conil-de-la-frontera/).
+{{< reflink path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
+
+****

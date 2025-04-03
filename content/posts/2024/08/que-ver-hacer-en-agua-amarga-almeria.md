@@ -1,7 +1,7 @@
 ---
 title: "Agua Amarga, planes para vivir el mejor verano de tu vida"
 date: 2024-08-17
-coverImage: https://fotos.etheriamagazine.com/2021/04/Agua-Amarga-playa.jpg
+cover: https://fotos.etheriamagazine.com/2021/04/Agua-Amarga-playa.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -132,11 +132,9 @@ formaciones geológicas dignas de ser descubiertas.
 
 ### Otros viajes en Almería...
 
-[Almería, una capital mucho más guapa de lo que 
-piensas](https://etheriamagazine.com/2020/01/10/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear/). 
+{{< reflink 
+path=posts/2020/01/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear >}}. 
 
-[Andalucía en autocaravana y consejos prácticos para 
-novatos](https://etheriamagazine.com/2021/04/07/consejos-rutas-andalucia-en-autocaravana/). 
+{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}. 
 
-[Cortijos andaluces para dar la bienvenida a la 
-primavera](https://etheriamagazine.com/2021/03/16/cortijos-andaluces-viaje-amigas/).
+{{< reflink path=posts/2021/03/cortijos-andaluces-viaje-amigas >}}.

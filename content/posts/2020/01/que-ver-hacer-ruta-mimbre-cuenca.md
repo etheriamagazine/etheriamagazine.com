@@ -1,7 +1,7 @@
 ---
 title: "Ruta de los Mimbres de Cuenca, belleza roja sin artificios"
 date: 2020-01-15
-coverImage: https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-apertura.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-apertura.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Cuenca enamora, más allá de un eslogan turístico es una emoción que despierta en pleno 
+**Cuenca enamora, más allá de un eslogan turístico es una emoción que despierta en pleno 
 invierno, cuando la Alcarria se viste de un alucinante color rojo. La sencillez de las 
 plantaciones de mimbre madurando al sol es la culpable de transformar los alrededores de 
 pueblos alcarreños y serranos en un panorama tan ordenado como hipnótico. Prepárate, vas 
-a entrar en uno de los mejores paisajes colorados del mundo. 
+a entrar en uno de los mejores paisajes colorados del mundo.** 
 
 ![La poesía del paisaje se manifiesta en la Ruta del Mimbre de Cuenca.](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-apertura.jpg "La poesía del paisaje se manifiesta en la Ruta del Mimbre de Cuenca.")
 
@@ -224,24 +224,24 @@ nos introducen en la Serranía de Cuenca.
 
 **Dónde dormir** 
 
-• En un chalet familiar conocido como **La Antigua Fábrica** (laantiguafabrica.es), 
+- En un chalet familiar conocido como **La Antigua Fábrica** (laantiguafabrica.es), 
 donde te puedes alojar en un agradable alojamiento con espacio y naturaleza alrededor. 
 Estarás en plena Serranía de Cuenca junto a la que fuera fábrica de lanas de la familia. 
 Camino del Río s/n. Priego. 
 
-• Otra opción es una vivienda del siglo XVIII situada en Valdeolivas. Es la **casa de 
+- Otra opción es una vivienda del siglo XVIII situada en Valdeolivas. Es la **casa de 
 Maese Leonardo** con capacidad para 10 personas y situada en el corazón de esta villa 
 medieval. Calle Mayor, 69. Valdeolivas. 
 
 Más información 
 
-• [La Ruta del 
+- [La Ruta del 
 Mimbre.](https://www.descubrecuenca.com/es/rutas/La-Mancha/la-ruta-del-mimbre-8) 
 
 ### También te puede interesar...
 
-[Turismo rural con niños en la Serranía de 
-Cuenca.](https://etheriamagazine.com/2019/11/29/turismo-rural-familiar-con-ninos-en-serrania-cuenca/) 
+{{< reflink path=posts/2019/11/turismo-rural-familiar-con-ninos-en-serrania-cuenca >}} 
 
-[Descubre las mejores excursiones en la provincia de 
-Cuenca](https://etheriamagazine.com/2020/06/04/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca/)
+{{< reflink 
+path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+>}}

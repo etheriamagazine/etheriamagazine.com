@@ -1,7 +1,7 @@
 ---
 title: "Isla Mauricio, 10 planes para un viaje inolvidable"
 date: 2019-03-26
-coverImage: https://fotos.etheriamagazine.com/2019/03/isla-mauricio-padle-surf.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/isla-mauricio-padle-surf.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-Todos los destinos tienen una faceta más conocida y otra que descubres después de muchas 
-visitas. A nosotras nos interesa esa 'cara b', pero tomaremos un atajo y será una 
+**Todos los destinos tienen una faceta más conocida y otra que descubres después de 
+muchas visitas. A nosotras nos interesa esa 'cara b', pero tomaremos un atajo y será una 
 experta reincidente quien nos la cuente. Mar Sánchez Villalta comparte con nosotras sus 
-recomendaciones de Isla Mauricio. 
+recomendaciones de Isla Mauricio.** 
 
 ![Paddle surf en Isla Mauricio.](https://fotos.etheriamagazine.com/2019/03/isla-mauricio-padle-surf.jpg "Paddle surf en Isla Mauricio.")
 
@@ -24,8 +24,8 @@ placer al archipiélago de las Islas Mascareñas. Por lo tanto, podemos confiar 
 en su criterio. Estos son los diez rincones y actividades que recomienda que no nos 
 perdamos en estas islas enclavadas en el océano Índico. 
 
-📌Anterior entrevista: [Mar Sánchez Villalta: “Trato de hacer de la vida la mejor 
-aventura”](https://etheriamagazine.com/2018/10/01/mar-sanchez-villalta-air-mauritius/). 
+📌Anterior entrevista: {{< reflink path=posts/2018/10/mar-sanchez-villalta-air-mauritius 
+>}}. 
 
 ## 1\. Parasailing en la isla de los Ciervos
 

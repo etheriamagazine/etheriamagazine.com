@@ -1,7 +1,7 @@
 ---
 title: "Disfruta con amigas de la vinoterapia en estos 10 hoteles, bodegas y spas"
 date: 2018-10-26
-coverImage: https://fotos.etheriamagazine.com/2018/10/Peralada-tratamiento-e1573376870965.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/Peralada-tratamiento-e1573376870965.jpg
 categories: 
   - bienestar
 destino: 
@@ -137,13 +137,13 @@ base de hollejos, pepitas y aceite…
 ### 4\. Hotel y Spa Arzuaga (Quintanilla de Onésimo)
 
 [Arzuaga](http://www.hotelarzuaga.com) es una de las bodegas más prestigiosas de la 
-conocida como “milla de oro” de [Ribera de 
-Duero](https://etheriamagazine.com/2018/05/21/rutas-del-vino-ribera-del-duero-valladolid/) 
-y alojarse en su hotel es, sin duda alguna, una buena manera de tomarle el pulso a la 
-denominación. Tienen numerosas experiencias de vinoterapia, por ejemplo una en pareja 
-que incluye **masaje con aceite de pepita de uva** para aliviar lesiones, exfoliación al 
-extracto de este fruto para que nuestra piel luzca libre de impurezas, envoltura en vino 
-para hidratar y jacuzzi privado a la uva negra. 
+conocida como “milla de oro” de {{< reflink 
+path=posts/2018/05/ruta-del-vino-ribera-del-duero-valladolid >}} y alojarse en su hotel 
+es, sin duda alguna, una buena manera de tomarle el pulso a la denominación. Tienen 
+numerosas experiencias de vinoterapia, por ejemplo una en pareja que incluye **masaje 
+con aceite de pepita de uva** para aliviar lesiones, exfoliación al extracto de este 
+fruto para que nuestra piel luzca libre de impurezas, envoltura en vino para hidratar y 
+jacuzzi privado a la uva negra. 
 
 ![vinoterapia relax descanso viaje](https://fotos.etheriamagazine.com/2018/10/BODEGA-ARZUAGA.jpg "Tratamientos de vinoterapia en el hotel-bodega Arzuaga.")
 
@@ -173,9 +173,9 @@ etc.
 ### 7\. Cava y hotel Mastinell (Villafranca del Penedés)
 
 De moderna y llamativa arquitectura, la bodega es una de las más prestigiosas dedicadas 
-a la elaboración de cava. Está situada a los pies de la montaña de Sant Pau y en la [cava 
-y hotel Mastinell](http://www.hotelmastinell.com) realizan numerosos **tratamientos con 
-uva verde y tinta**, en unas luminosas instalaciones a pie de viñas. 
+a la elaboración de cava. Está situada a los pies de la montaña de Sant Pau y en la 
+[cava y hotel Mastinell](http://www.hotelmastinell.com) realizan numerosos 
+**tratamientos con uva verde y tinta**, en unas luminosas instalaciones a pie de viñas. 
 
 ### 8\. Can Bonastre Wine Resort (Masquefa)
 
@@ -207,11 +207,10 @@ zona de Spa impresionante y tratamientos a base tanto de vino como de aceite.
 
 ### También te puede interesar...
 
-[Viajes por España. Jerez, el arte del buen 
-vivir](https://etheriamagazine.com/2020/06/10/viajes-por-espana-jerez-sola-o-con-amigas/). 
+{{< reflink path=posts/2020/06/viajes-por-espana-jerez-sola-o-con-amigas >}}. 
 
-[10 escapadas para mujeres que 
-comen](https://etheriamagazine.com/2019/04/10/10-escapadas-gastronomicas-mujeres-que-comen/). 
+{{< reflink path=posts/2019/04/10-escapadas-gastronomicas-mujeres-que-comen >}}. 
 
-[Descubre en qué consisten los masajes más 
-habituales](https://etheriamagazine.com/2020/05/07/masajes-exoticos-que-hacen-viajar-a-india-bali-tailandia-japon-polinesia/).
+{{< reflink 
+path=posts/2020/05/masajes-exoticos-que-hacen-viajar-a-india-bali-tailandia-japon-polinesia 
+>}}.

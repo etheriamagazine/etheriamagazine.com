@@ -1,7 +1,7 @@
 ---
 title: "10 playas del mundo donde te quedarías a vivir"
 date: 2019-07-24
-coverImage: https://fotos.etheriamagazine.com/2019/07/playas-mundo-kauai-hawaii.jpg
+cover: https://fotos.etheriamagazine.com/2019/07/playas-mundo-kauai-hawaii.jpg
 categories: 
   - inspiración
   - ocio
@@ -118,11 +118,8 @@ quieres hacer el largo y algo peligroso [Kalalau Trail](https://www.kalalautrail
 
 **También te puede interesar:** 
 
-[10 playas en España para disfrutar del 
-verano](https://etheriamagazine.com/2020/06/03/10-playas-en-espana-para-este-verano/) 
+{{< reflink path=posts/2020/06/10-playas-en-espana-para-este-verano >}} 
 
-[12 playas de cine en España donde darse un 
-chapuzón](https://etheriamagazine.com/2021/07/19/12-playas-espanolas-que-salen-en-peliculas/) 
+{{< reflink path=posts/2021/07/12-playas-espanolas-que-salen-en-peliculas >}} 
 
-[Zambúllete en la mejor guía de playas de 
-Formentera](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-playas-formentera/)
+{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}

@@ -1,7 +1,7 @@
 ---
 title: "Guía del Carnaval de Cádiz para tu primera visita"
 date: 2025-02-22
-coverImage: https://fotos.etheriamagazine.com/2020/01/agrupacion-carnaval.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/agrupacion-carnaval.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -181,5 +181,5 @@ también sesiones de playa, spa, etc.
 
 **Más información de turismo** 
 
-[Turismo de Cádiz.](https://turismo.cadiz.es/es/cultura/carnaval-de-c%C3%A1diz) [Patronato 
-de Turismo de Cádiz](https://www.cadizturismo.com/es).
+[Turismo de Cádiz.](https://turismo.cadiz.es/es/cultura/carnaval-de-c%C3%A1diz) 
+[Patronato de Turismo de Cádiz](https://www.cadizturismo.com/es).

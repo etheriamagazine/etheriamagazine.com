@@ -1,7 +1,7 @@
 ---
 title: "Tierra Estella y Tierras de Iranzu, planes para un viaje en familia a Navarra"
 date: 2021-02-08
-coverImage: https://fotos.etheriamagazine.com/2021/01/navarra-nacedero-urederra.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/navarra-nacedero-urederra.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Kelu Robles
 ---
 
-Si no habías escuchado hablar de estas dos regiones navarricas repletas de bosques, 
+**Si no habías escuchado hablar de estas dos regiones navarricas repletas de bosques, 
 cascadas y pueblos bonitos marcados por la historia, en Etheria Magazine te damos ocho 
-razones para que las descubras en un viaje que conquistará a toda la familia. 
+razones para que las descubras en un viaje que conquistará a toda la familia.** 
 
 ![nacedero de urederra navarra](https://fotos.etheriamagazine.com/2021/01/navarra-nacedero-urederra.jpg "El río Urederra rinde honor a su nombre en euskera, que significa ‘agua hermosa’. © KR")
 
@@ -95,7 +95,8 @@ refectorio, en la cillellería (sala del Castigo) o en su **cocina monumental**,
 especialmente impresionante por la dimensión de su chimenea central. Lo que se produce 
 en el interior de este monasterio trasciende la teoría arquitectónica y alcanza cotas 
 místicas. Para satisfacción de los más pequeños —y en un aspecto más terrenal—, se 
-esconden doce tesoros en los alrededores para los amantes del [geocaching](https://tierrasdeiranzu.com/es/ocio-y-turismo/visitas-guiadas-y-ecoexperiencias/geocaching-senderos-de-irantzu-busca-12-tesoros/), 
+esconden doce tesoros en los alrededores para los amantes del 
+[geocaching](https://tierrasdeiranzu.com/es/ocio-y-turismo/visitas-guiadas-y-ecoexperiencias/geocaching-senderos-de-irantzu-busca-12-tesoros/), 
 una divertida actividad en la que se buscan objetos mediante GPS y técnicas de realidad 
 aumentada. 
 
@@ -197,14 +198,13 @@ Dedícales un “¡Buen camino!”.
 
 ### También te puede interesar...
 
-[Desiertos de película y pinchos “de cine”: una ruta por las Bardenas Reales y 
-Tudela](https://etheriamagazine.com/2020/07/27/ruta-navarra-bardenas-reales-tudela-escapada-con-amigas/). 
+{{< reflink path=posts/2024/10/ruta-navarra-bardenas-reales-tudela-escapada-con-amigas 
+>}}. 
 
-[Rutas en el hayedo encantado de Urbasa y en Urederra 
-(Navarra)](https://etheriamagazine.com/2020/10/05/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra/). 
+{{< reflink path=posts/2020/10/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}. 
 
-[Ruta por los 11 pueblos elegidos como los más bonitos de España en 
-2021](https://etheriamagazine.com/2021/01/19/ruta-por-los-11-pueblos-elegidos-como-los-mas-bonitos-de-espana-en-2021/). 
+{{< reflink 
+path=posts/2021/01/ruta-por-los-11-pueblos-elegidos-como-los-mas-bonitos-de-espana-en-2021 
+>}}. 
 
-[Bares de pintxos, visitas y curiosidades para enamorarte de 
-Pamplona](https://etheriamagazine.com/2019/11/15/que-ver-y-donde-comer-pintxos-con-amigas-en-pamplona/).
+{{< reflink path=posts/2019/11/que-ver-y-donde-comer-pintxos-con-amigas-en-pamplona >}}.

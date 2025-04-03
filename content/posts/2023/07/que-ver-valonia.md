@@ -1,7 +1,7 @@
 ---
 title: "12 motivos por los que viajar a Valonia, la región más desconocida de Bélgica"
 date: 2023-07-03
-coverImage: https://fotos.etheriamagazine.com/2023/06/Valonia-Grand-Place-Mons.jpg
+cover: https://fotos.etheriamagazine.com/2023/06/Valonia-Grand-Place-Mons.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Yolanda Cardo
 ---
 
-Situado al sur de Bruselas, este hermoso territorio, limítrofe con Francia, Alemania, 
+**Situado al sur de Bruselas, este hermoso territorio, limítrofe con Francia, Alemania, 
 Luxemburgo y Países Bajos, esconde muchos tesoros. Os desvelamos qué ver en Valonia y 
 cómo sacar el máximo partido a un destino tan sorprendente como cautivador, que es 
-perfecto para organizar una escapada con amigas. 
+perfecto para organizar una escapada con amigas.** 
 
 ![Panorámica de Dinant desde la ciudadela](https://fotos.etheriamagazine.com/2023/06/Valonia-Dinant-desde-la-ciudadela.jpg "Panorámica de Dinant desde la ciudadela. © Yolanda Cardo.")
 
@@ -255,7 +255,6 @@ sencilla pero ideal tras finalizar la visita por el complejo abacial.
 
 📌 **También te puede interesar:** 
 
-[8 razones por las que te va a apetecer viajar a 
-Valonia](https://etheriamagazine.com/2023/05/16/por-que-viajar-a-valonia/) 
+{{< reflink path=posts/2023/05/por-que-viajar-a-valonia >}} 
 
 Más información en [Turismo de Valonia](https://visitwallonia.es).

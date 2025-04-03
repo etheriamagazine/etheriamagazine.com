@@ -1,7 +1,7 @@
 ---
 title: "Cómo visitar la Alhambra, 10 consejos a tener en cuenta"
 date: 2021-10-25
-coverImage: https://fotos.etheriamagazine.com/2021/10/la-alhambra-patio-de-los-arrayanes-1.jpg
+cover: https://fotos.etheriamagazine.com/2021/10/la-alhambra-patio-de-los-arrayanes-1.jpg
 categories: 
   - inspiración
   - ocio
@@ -53,9 +53,9 @@ permite profundizar en todos los detalles de los distintos edificios.
 ![Libros 'Cuentos de la Alhambra' y 'Leer la Alhambra'.](https://fotos.etheriamagazine.com/2021/10/la-alhambra-libros.jpg "Libros 'Cuentos de la Alhambra' y 'Leer la Alhambra', disponibles en Amazon.es.")
 
 Y, por supuesto, es fundamental hacerse con alguna guía de Granada para consultar los 
-detalles prácticos. Puedes comprar la de [Lonely Planet](https://amzn.to/3E03CcB), la [Guía 
-Total](https://amzn.to/3B2RmGk) de Anaya Touring o la guía de bolsillo [Guiarama](https://amzn.to/3m37uDS) 
-de esta última editorial. 
+detalles prácticos. Puedes comprar la de [Lonely Planet](https://amzn.to/3E03CcB), la 
+[Guía Total](https://amzn.to/3B2RmGk) de Anaya Touring o la guía de bolsillo 
+[Guiarama](https://amzn.to/3m37uDS) de esta última editorial. 
 
 ## Reserva una visita con guía profesional
 
@@ -210,14 +210,10 @@ mientras se contempla una de las mejores puestas de sol de Granada.
 
 📌 **Más artículos para preparar tu viaje a Granada:** 
 
-[Visita cultural al Albaicín y La Alhambra de 
-Granada](https://etheriamagazine.com/2020/05/29/48-horas-en-el-albayzin-y-la-alhambra/) 
+{{< reflink path=posts/2020/05/48-horas-en-el-albayzin-y-la-alhambra >}} 
 
-[Ruta de Lorca en Granada, un paseo por sus lugares más 
-íntimos](https://etheriamagazine.com/2020/10/07/ruta-cultural-granada-de-garcia-lorca/) 
+{{< reflink path=posts/2020/10/ruta-cultural-granada-de-garcia-lorca >}} 
 
-[Granada, el privilegio de la buena 
-mesa](https://etheriamagazine.com/2020/10/30/restaurantes-bares-de-granada-y-visitas-para-mujeres/) 
+{{< reflink path=posts/2020/10/restaurantes-bares-de-granada-y-visitas-para-mujeres >}} 
 
-[Hotel Alhambra Palace, tres curiosidades que tienes que saber antes de 
-alojarte](https://etheriamagazine.com/2021/09/02/curiosidades-hotel-alhambra-palace/)
+{{< reflink path=posts/2021/09/curiosidades-hotel-alhambra-palace >}}

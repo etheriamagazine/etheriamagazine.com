@@ -1,15 +1,16 @@
 ---
 title: "5 viajes para jubilados con ganas de viajar"
 date: 2019-11-26
-coverImage: https://fotos.etheriamagazine.com/2019/11/chicas-viaje-risas.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/chicas-viaje-risas.jpg
 destino: 
   - Mundo
 authors: 
   - Redacción Etheria
 ---
 
-Si tienes tiempo libre, estás en plena forma, te gusta conocer otros lugares y puedes 
-hacerlo... sigue leyendo porque te damos cinco ideas para jubilados con ganas de viajar. 
+**Si tienes tiempo libre, estás en plena forma, te gusta conocer otros lugares y puedes 
+hacerlo... sigue leyendo porque te damos cinco ideas para jubilados con ganas de 
+viajar.** 
 
 ![viajes mayores de 55](https://fotos.etheriamagazine.com/2019/11/chicas-viaje-risas.jpg "© Priscilla Du Preez")
 
@@ -21,16 +22,16 @@ historia. Si estás en esa edad y situación –que esto también influye– en 
 alejarte de tu entorno y darte el gustazo de hacer un viaje, o dos o tres al año, hazlo. 
 Para las viajeras primerizas, tenemos cinco recomendaciones, dentro de España, en 
 Europa, en Asia, en África y en América. Oceanía lo dejamos para aquellas que estéis más 
-viajadas (consultad estos artículos de [Australia](http://etheriamagazine.com/2019/03/07/7-consejos-para-viajar-a-australia/) 
-y [Nueva Zelanda](http://etheriamagazine.com/2018/08/21/nueva-zelanda-en-autocaravana/) 
+viajadas (consultad estos artículos de 
+[Australia](http://etheriamagazine.com/2019/03/07/7-consejos-para-viajar-a-australia/) y 
+[Nueva Zelanda](http://etheriamagazine.com/2018/08/21/nueva-zelanda-en-autocaravana/) 
 que os podrán ayudar a organizarlos). 
 
 Estos destinos no son nada arriesgados, no son caros y hay una oferta enorme en cuanto a 
 billetes de avión, hoteles y agencias de viajes. 
 
-📌 No te pierdas los viajes de Sania Jelic: [Viajar sola por el mundo tras la 
-jubilación, el nuevo plan de vida de Sania 
-Jelic](https://etheriamagazine.com/2022/12/13/sania-jelic-viajar-sola-mas-65/). 
+📌 No te pierdas los viajes de Sania Jelic: {{< reflink 
+path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}}. 
 
 ![cadiz, viajes mas de 60 anos en espana](https://fotos.etheriamagazine.com/2019/11/cadiz-viaje-mas-60.jpg "Playa de la Caleta (Cádiz). © Jorge Fernández Salas/ Unsplash")
 

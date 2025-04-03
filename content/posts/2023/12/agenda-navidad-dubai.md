@@ -1,7 +1,7 @@
 ---
 title: "Navidad en Dubái, mercadillos entre rascacielos y a 25 grados"
 date: 2023-12-08
-coverImage: https://fotos.etheriamagazine.com/2023/12/dubai-navidad-madinat-jumeirah.jpg
+cover: https://fotos.etheriamagazine.com/2023/12/dubai-navidad-madinat-jumeirah.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -50,18 +50,22 @@ El clima facilita que los mercadillos navideños de Dubái se puedan disfrutar c
 Se ubican en diferentes localizaciones de la ciudad lo que permite visitarlos durante el 
 recorrido turístico. Algunas de las citas más importantes son: 
 
-• **Madinat Jumeirah**, con un inmenso árbol de Navidad, tren al Polo Norte y hasta la 
-posibilidad de pasear en abra (barco típico tradicional) con Papá Noel. • **Al Habtoor 
-City**. En este centro de ocio, con hoteles de lujo y restaurantes, la Navidad llega con 
-la forma de un Jardín de Invierno, donde visitar al mismísimo Santa Claus. Aquí se 
-sucederán las actividades, espectáculos y, por supuesto, los puestos para comprar 
-regalos y degustar las mejores especialidades culinarias. • **Winter District**. En 2024 
-se ubica en Dubai Media City Amphitheatre, un lugar que se transforma en un paraíso 
-invernal a pesar de la temperatura veraniega de Dubái: mercadillo navideño, dulces 
-típicos, villancicos, espectáculos y la gruta de Papá Noel. No le falta de nada. • 
-**Vibes by the Bay** vuelve junto al agua del Dubai Festival City Mall con espectáculos 
-diarios con la tecnología IMAGINE, además de un zoo, una zona de atracciones y 
-restaurantes. 
+- **Madinat Jumeirah**, con un inmenso árbol de Navidad, tren al Polo Norte y hasta la 
+posibilidad de pasear en abra (barco típico tradicional) con Papá Noel. 
+
+- **Al Habtoor City**. En este centro de ocio, con hoteles de lujo y restaurantes, la 
+Navidad llega con la forma de un Jardín de Invierno, donde visitar al mismísimo Santa 
+Claus. Aquí se sucederán las actividades, espectáculos y, por supuesto, los puestos para 
+comprar regalos y degustar las mejores especialidades culinarias. 
+
+- **Winter District**. En 2024 se ubica en Dubai Media City Amphitheatre, un lugar que 
+se transforma en un paraíso invernal a pesar de la temperatura veraniega de Dubái: 
+mercadillo navideño, dulces típicos, villancicos, espectáculos y la gruta de Papá Noel. 
+No le falta de nada. 
+
+- **Vibes by the Bay** vuelve junto al agua del Dubai Festival City Mall con 
+espectáculos diarios con la tecnología IMAGINE, además de un zoo, una zona de 
+atracciones y restaurantes. 
 
 ![decoracion navideña en Dubai](https://fotos.etheriamagazine.com/2023/12/dubai-navidad-madinat-jumeirah.jpg "En Madinat Jumeirah se celebra un bonito mercado de Navidad.")
 
@@ -128,8 +132,6 @@ querrás hacerte una foto.
 
 **También te puede interesar:** 
 
-[Dubái con niños: 8 actividades para disfrutar en familia y una 
-novedad](https://etheriamagazine.com/2022/02/25/dubai-con-ninos-actividades-y-excursiones/) 
+{{< reflink path=posts/2022/02/dubai-con-ninos-actividades-y-excursiones >}} 
 
-[10 visitas para aprovechar al máximo una escala en 
-Dubái](https://etheriamagazine.com/2019/05/31/como-aprovechar-una-escala-en-dubai/)
+{{< reflink path=posts/2019/05/como-aprovechar-una-escala-en-dubai >}}

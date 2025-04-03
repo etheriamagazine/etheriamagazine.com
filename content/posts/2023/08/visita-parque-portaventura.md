@@ -1,7 +1,7 @@
 ---
 title: "Cómo organizar un viaje a PortAventura World"
 date: 2023-08-23
-coverImage: https://fotos.etheriamagazine.com/2023/08/port-aventura-Mediterrania.jpg
+cover: https://fotos.etheriamagazine.com/2023/08/port-aventura-Mediterrania.jpg
 categories: 
   - viajar-en-familia
   - ocio
@@ -11,12 +11,12 @@ authors:
   - Susana García
 ---
 
-Cuando viajas en familia pocos planes superan la visita a un parque temático. 
+**Cuando viajas en familia pocos planes superan la visita a un parque temático. 
 PortAventura World tiene muchos alicientes para conseguir la escapada perfecta, entre 
 ellos el albergar tres parques en uno y situarse en España, concretamente en Tarragona, 
 en una zona muy bien comunicada. En este artículo te damos algunas claves que te 
 ayudarán con la planificación de un viaje a PortAventura. ¡Ya sólo te quedaría disfrutar 
-de la experiencia! 
+de la experiencia!** 
 
 ![montañas rusas en Port Aventura](https://fotos.etheriamagazine.com/2023/08/port-aventura-Shambala-Dragon-Khan.jpg "Las montañas rusas Shambala y Dragon Khan son las estrellas de Port Aventura.")
 
@@ -291,7 +291,7 @@ de la web y que te facilita una pulsera donde se descargan todas las fotos que t
 durante tu estancia en PortAventura. Sólo tendrás que solicitarlas al salir de cada 
 atracción. 
 
-**Más información **Consulta la web de [PortAventura 
+**Más información**Consulta la web de [PortAventura 
 World](https://www.portaventuraworld.com/) para cualquier información sobre los parques 
 y los hoteles. 
 
@@ -299,11 +299,11 @@ y los hoteles.
 
 📌 **También te puede interesar:** 
 
-[Los 10 mejores parques de atracciones de Europa para visitar con 
-niños](https://etheriamagazine.com/2018/07/09/los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia/) 
+{{< reflink 
+path=posts/2018/07/los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia 
+>}} 
 
-[Por qué es una buena idea viajar a Futuroscope en 
-2023](https://etheriamagazine.com/2023/03/20/novedades-futuroscope-2023/) 
+{{< reflink path=posts/2023/03/novedades-futuroscope-2023 >}} 
 
-[12 consejos para aprovechar tu viaje a Disneyland 
-Paris](https://etheriamagazine.com/2018/11/06/12-consejos-para-aprovechar-al-maximo-un-viaje-a-disneyland-paris/)
+{{< reflink 
+path=posts/2018/11/12-consejos-para-aprovechar-al-maximo-un-viaje-a-disneyland-paris >}}

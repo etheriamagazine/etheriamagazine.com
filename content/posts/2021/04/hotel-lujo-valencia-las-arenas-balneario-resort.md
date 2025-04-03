@@ -1,7 +1,7 @@
 ---
 title: "Las Arenas Balneario Resort, un hotel de lujo en Valencia hecho para disfrutar"
 date: 2021-04-08
-coverImage: https://fotos.etheriamagazine.com/2021/04/hotel-las-arenas-piscina.jpg
+cover: https://fotos.etheriamagazine.com/2021/04/hotel-las-arenas-piscina.jpg
 categories: 
   - hoteles
 destino: 
@@ -122,11 +122,8 @@ Viñes, 22-24. Valencia Tel. 963 120 600 Precio habitación doble para dos perso
 
 ### También te puede interesar
 
-[Planes originales para disfrutar de Valencia con 
-amigas](https://etheriamagazine.com/2020/09/18/planes-originales-valencia-con-amigas/). 
+{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}}. 
 
-[Escapada a Valencia con 
-amigas](https://etheriamagazine.com/2018/12/04/un-viaje-a-valencia-con-amigas/). 
+{{< reflink path=posts/2018/12/un-viaje-a-valencia-con-amigas >}}. 
 
-[Planes en Dénia y Jávea para mujeres 
-sibaritas](https://etheriamagazine.com/2021/04/03/que-hacer-donde-comer-con-amigas-denia-javea/).
+{{< reflink path=posts/2021/04/que-hacer-donde-comer-con-amigas-denia-javea >}}.

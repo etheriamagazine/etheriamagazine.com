@@ -1,7 +1,7 @@
 ---
 title: "Danza, la belleza que sana"
 date: 2020-10-21
-coverImage: https://fotos.etheriamagazine.com/2020/10/danza-terapia-salud.jpg
+cover: https://fotos.etheriamagazine.com/2020/10/danza-terapia-salud.jpg
 categories: 
   - bienestar
 destino: 
@@ -72,12 +72,12 @@ ella puedes aprender su técnica y repertorio.
 
 Si te interesa la danza moderna, Ruth St. Denis, Loie Fuller e Isadora Duncan son las 
 precursoras. Puedes conocer más sobre su vida en los documentales [_La 
-Bailarina_](https://www.filmin.es/pelicula/la-bailarina) e [_Isadora_](https://www.filmin.es/pelicula/isadora), 
-ambos disponibles en Filmin. Para Duncan, la verdadera danza estaba controlada por el 
-ritmo de la emoción interna. “**La danza se explica mejor bailando**”, decía Duncan así 
-que, si te apetece probar, la [Fundación de Danza Isadora 
-Duncan](https://isadoraduncan.org/) todavía ofrece clases en países como Estados Unidos 
-de América o Grecia siguiendo la estela de “las Isadoras”. 
+Bailarina_](https://www.filmin.es/pelicula/la-bailarina) e 
+[_Isadora_](https://www.filmin.es/pelicula/isadora), ambos disponibles en Filmin. Para 
+Duncan, la verdadera danza estaba controlada por el ritmo de la emoción interna. “**La 
+danza se explica mejor bailando**”, decía Duncan así que, si te apetece probar, la 
+[Fundación de Danza Isadora Duncan](https://isadoraduncan.org/) todavía ofrece clases en 
+países como Estados Unidos de América o Grecia siguiendo la estela de “las Isadoras”. 
 
 ![danza al amanecer terapia saludable](https://fotos.etheriamagazine.com/2020/10/danza-al-amanecer-salud.jpg "Comienza el día, o acábalo, bailando. © Andrew Rice")
 

@@ -1,7 +1,7 @@
 ---
 title: "Un paseo por Trinidad, una ciudad imprescindible en tu viaje por Cuba"
 date: 2025-03-26
-coverImage: https://fotos.etheriamagazine.com/2025/03/trinidad-cuba-calle.jpg
+cover: https://fotos.etheriamagazine.com/2025/03/trinidad-cuba-calle.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -117,9 +117,10 @@ un conductor local que sepa dónde puede repostar con garantías.
 ### Cómo visitar Trinidad
 
 Trinidad se recorre caminando, las distancias son cortas entre los lugares de interés de 
-la ciudad. Para no perderte nada, puedes apuntarte a una excursión organizada como el [Free 
-Tour por Trinidad](https://www.civitatis.com/es/trinidad/free-tour-trinidad/?aid=10211) 
-de Civitatis. 
+la ciudad. Para no perderte nada, puedes apuntarte a una excursión organizada como el 
+[Free Tour por 
+Trinidad](https://www.civitatis.com/es/trinidad/free-tour-trinidad/?aid=10211) de 
+Civitatis. 
 
 Civitatis ofrece también otras experiencias que completan la visita: 
 
@@ -148,11 +149,8 @@ ya te hemos indicado antes, no puedes perderte una noche en la **Casa de la Mús
 
 **También te puede interesar:** 
 
-[Qué llevar en la maleta en un viaje a 
-Cuba](https://etheriamagazine.com/2024/02/28/que-llevar-maleta-viaje-a-cuba/) 
+{{< reflink path=posts/2024/02/que-llevar-maleta-viaje-a-cuba >}} 
 
-[La Habana, cómo disfrutar con tus amigas de la ciudad más excesiva de 
-Cuba](https://etheriamagazine.com/2024/08/30/la-habana-cuba-con-amigas/) 
+{{< reflink path=posts/2024/08/la-habana-cuba-con-amigas >}} 
 
-[Las Terrazas y Viñales, descubre el corazón más verde de 
-Cuba](https://etheriamagazine.com/2024/12/06/las-terrazas-y-vinales-cuba/)
+{{< reflink path=posts/2024/12/las-terrazas-y-vinales-cuba >}}

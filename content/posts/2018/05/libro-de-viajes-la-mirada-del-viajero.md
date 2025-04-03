@@ -1,7 +1,7 @@
 ---
 title: "La mirada del viajero, el nuevo libro de Latorre"
 date: 2018-05-16
-coverImage: https://fotos.etheriamagazine.com/2018/05/la-mirada-del-viajero.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/la-mirada-del-viajero.jpg
 categories: 
   - cultura
 destino: 
@@ -10,8 +10,8 @@ authors:
   - Redacción Etheria
 ---
 
-Sergi Latorre, además de contar sus andanzas por el mundo con un buen manejo de la 
-pluma, convierte al viajero que todos llevamos dentro en su compañero de aventuras. 
+**Sergi Latorre, además de contar sus andanzas por el mundo con un buen manejo de la 
+pluma, convierte al viajero que todos llevamos dentro en su compañero de aventuras.** 
 
 ![La mirada del viajero, un libro de Sergi La Torre, editorial Desnivel](https://fotos.etheriamagazine.com/2018/05/la-mirada-del-viajero.jpg "Un libro para grandes viajeros.")
 

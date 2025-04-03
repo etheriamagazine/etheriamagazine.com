@@ -1,7 +1,7 @@
 ---
 title: "El Señor Martín Restaurante: talibanes del pescado"
 date: 2018-06-19
-coverImage: https://fotos.etheriamagazine.com/2018/06/El-Senor-Martin-entrada.jpg
+cover: https://fotos.etheriamagazine.com/2018/06/El-Senor-Martin-entrada.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -11,10 +11,10 @@ authors:
   - Vanesa Viñolo
 ---
 
-Un nuevo templo del pescado, con mucha historia detrás, abre en un lugar emblemático de 
-Madrid, la plaza de la Villa de París, para seducirnos con las mejores especies 
+**Un nuevo templo del pescado, con mucha historia detrás, abre en un lugar emblemático 
+de Madrid, la plaza de la Villa de París, para seducirnos con las mejores especies 
 piscícolas y las cocciones más adecuadas para ellas. El Señor Martín Restaurante es una 
-visita imprescindible para las amantes de la buena mesa. 
+visita imprescindible para las amantes de la buena mesa.** 
 
 ![Restaurante Madrid escapada](https://fotos.etheriamagazine.com/2018/06/El-Senor-Martin-entrada.jpg "Entrada de El Señor Martín Restaurante")
 

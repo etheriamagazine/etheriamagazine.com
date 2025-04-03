@@ -1,7 +1,7 @@
 ---
 title: "10 regalos para sorprender a madres viajeras y disfrutonas"
 date: 2022-04-25
-coverImage: https://fotos.etheriamagazine.com/2022/04/Los-Anades-hotel-guadalajara.jpg
+cover: https://fotos.etheriamagazine.com/2022/04/Los-Anades-hotel-guadalajara.jpg
 categories: 
   - compras
 destino: 
@@ -72,8 +72,8 @@ puede comprar tanto en formato físico (le llevan la cápsula a casa) como en fo
 digital. 
 
 \*En este artículo te hablábamos del parque, revísalo y decide si este regalo hará feliz 
-a tu madre ([15 razones para visitar Puy de Fou 
-Toledo](https://etheriamagazine.com/2022/04/06/15-razones-para-visitar-puy-du-fou-toledo-en-2022/)). 
+a tu madre ({{< reflink 
+path=posts/2022/04/15-razones-para-visitar-puy-du-fou-toledo-en-2022 >}}). 
 
 ![Cápsula del tiempo, un bono regalo de Puy de Fou.](https://fotos.etheriamagazine.com/2022/04/Capsula-tiempo-Puy-du-Fou.jpg "Cápsula del tiempo, un bono regalo de Puy de Fou.")
 
@@ -148,11 +148,10 @@ misma decida (además, tienen validez de varios años).
 
 **Más experiencias para madres viajeras** 
 
-[Volar en globo en España, el mejor regalo para espíritus 
-aventureros](https://etheriamagazine.com/2020/07/07/vuelos-en-globo-en-espana-regalo-viajero/). 
+{{< reflink path=posts/2020/07/vuelos-en-globo-en-espana-regalo-viajero >}}. 
 
-[Bautismo de buceo en 
-España](https://etheriamagazine.com/2020/07/14/experiencias-viajeras-bautismo-de-buceo-menorca-tenerife-cambrils-javea-y-mas/). 
+{{< reflink 
+path=posts/2020/07/experiencias-viajeras-bautismo-de-buceo-menorca-tenerife-cambrils-javea-y-mas 
+>}}. 
 
-[8 imprescindibles en tu maleta para hacer deporte cuando 
-viajas](https://etheriamagazine.com/2020/10/19/8-imprescindibles-maleta-para-hacer-deporte/).
+{{< reflink path=posts/2020/10/8-imprescindibles-maleta-para-hacer-deporte >}}.

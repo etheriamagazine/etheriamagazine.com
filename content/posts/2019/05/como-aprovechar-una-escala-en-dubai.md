@@ -1,7 +1,7 @@
 ---
 title: "10 visitas para aprovechar al máximo una escala en Dubái"
 date: 2019-05-31
-coverImage: https://fotos.etheriamagazine.com/2019/05/escala-Dubai-mirador-Burj-Khalifa.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/escala-Dubai-mirador-Burj-Khalifa.jpg
 categories: 
   - viajar-sola
   - inspiración
@@ -151,11 +151,9 @@ jaimas. Es una aventura perfecta para cerrar una escala en Dubái.
 
 ### También te puede interesar...
 
-[Qué ver en una escala de un día en 
-Doha](https://etheriamagazine.com/2019/09/19/que-ver-en-una-escala-corta-de-un-dia-en-doha-qatar/). 
+{{< reflink path=posts/2019/09/que-ver-en-una-escala-corta-de-un-dia-en-doha-qatar >}}. 
 
-[Chiang Mai, descubre su esencia entre templos y 
-mercados](https://etheriamagazine.com/2021/01/08/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual/). 
+{{< reflink path=posts/2021/01/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual 
+>}}. 
 
-[Descubre las joyas de Myanmar, la tierra 
-dorada](https://etheriamagazine.com/2020/04/27/mujeres-aventureras-viaje-myanmar-que-ver-hacer/).
+{{< reflink path=posts/2020/04/mujeres-aventureras-viaje-myanmar-que-ver-hacer >}}.

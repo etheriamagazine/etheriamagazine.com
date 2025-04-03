@@ -1,7 +1,7 @@
 ---
 title: "Estas 8 playas de Irlanda harán que te enamores (aún más) de la isla"
 date: 2023-07-21
-coverImage: https://fotos.etheriamagazine.com/2023/07/playa-Curracloe-irlanda.jpg
+cover: https://fotos.etheriamagazine.com/2023/07/playa-Curracloe-irlanda.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-Irlanda no sólo cuenta con prados infinitos de color esmeralda sino que su costa 
+**Irlanda no sólo cuenta con prados infinitos de color esmeralda sino que su costa 
 recortada por acantilados y playas secretas es también un buen incentivo para descubrir 
 su faceta marítima. En su litoral es posible descubrir una variada fauna atlántica, 
 practicar deportes acuáticos, relajarse en sus arenales y conocer de cerca la sencilla 
-vida local. Sigue leyendo para conocer ocho de las playas más bonitas de Irlanda. 
+vida local. Sigue leyendo para conocer ocho de las playas más bonitas de Irlanda.** 
 
 ![Atardecer en Curracloe, unas de las playas de Irlanda más bonita.](https://fotos.etheriamagazine.com/2023/07/playa-Curracloe-irlanda.jpg "Atardecer en la playa de Curracloe. © Celtic Routes")
 
@@ -40,8 +40,8 @@ Cushendun**, que aunque tienen 400 millones de años de años se hicieron famosa
 aparecer en una escena de Juego de Tronos® en la que Melisandre da a luz a la sombra. 
 Aparca en una urbanización cercana y acércate caminando. 
 
-📍No te pierdas: [Ruta de Juego de Tronos en Irlanda del 
-Norte](https://etheriamagazine.com/2018/07/02/juego-de-tronos-en-irlanda-del-norte/). 
+📍No te pierdas: {{< reflink path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte 
+>}}. 
 
 ![Playa de Cushendun en Irlanda](https://fotos.etheriamagazine.com/2023/07/playa-Cushendun-juego-tronos-irlanda.jpg "Playa de Cushendun, localización de Juego de Tronos. © Stefan Schnebelt/ Turismo de Irlanda")
 
@@ -107,8 +107,7 @@ decir, zona de protección del gaélico irlandés. Visitar esta tierra de pastor
 pescadores en el **oeste de Irlanda** es zambullirse en las tradiciones más ancestrales 
 del país. 
 
-📍No te pierdas: [‘Almas en pena de Inisherin’, paisajes de cine en 
-Irlanda](https://etheriamagazine.com/2023/01/30/almas-en-pena-de-inisherin/) 
+📍No te pierdas: {{< reflink path=posts/2023/01/almas-en-pena-de-inisherin >}} 
 
 ![Playa de Keem Bay, Achill Island, en el condado de Mayo.](https://fotos.etheriamagazine.com/2023/07/playa-Keem-Bay-Ireland.jpg "Playa de Keem Bay, en el condado de Mayo. © Failte Ireland")
 
@@ -150,8 +149,7 @@ escenas de las películas _Salvar al soldado Ryan_ y _Brooklyn_, entre otras.
 
 **También te puede interesar...** 
 
-[Irlanda del Norte: 6 visitas imprescindibles y 2 lugares 
-secretos](https://etheriamagazine.com/2021/05/31/8-visitas-increibles-en-irlanda-del-norte/). 
+{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}}. 
 
-[Islas Skellig, el enigmático escenario de Star Wars en 
-Irlanda](https://etheriamagazine.com/2019/09/05/como-organizar-excursion-precio-islas-skellig-michael-irlanda/).
+{{< reflink 
+path=posts/2019/09/como-organizar-excursion-precio-islas-skellig-michael-irlanda >}}.

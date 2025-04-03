@@ -1,18 +1,18 @@
 ---
 title: "A rapa das bestas, una cita en Sabucedo (Pontevedra)"
 date: 2019-06-24
-coverImage: https://fotos.etheriamagazine.com/2019/06/Rapa-das-Bestas-galicia.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/Rapa-das-Bestas-galicia.jpg
 destino: 
   - España
 authors: 
   - Juan Carlos y Mar
 ---
 
-Con las crines al viento bajan a galope los caballos hasta la pontevedresa localidad de 
-Sabucedo. De pura raza gallega, viven salvajes hasta que llega el momento de, con 
+**Con las crines al viento bajan a galope los caballos hasta la pontevedresa localidad 
+de Sabucedo. De pura raza gallega, viven salvajes hasta que llega el momento de, con 
 valentía y destreza, marcarlos, cortarles las crines y la cola. Antes de ser devueltos 
 al monte tendrá lugar la fiesta de 'A rapa das bestas', declarada de Interés Turístico 
-Internacional por la Unesco. 
+Internacional por la Unesco.** 
 
 ![rapa das bestas, fiestas de verano en galicia](https://fotos.etheriamagazine.com/2019/06/Rapa-das-Bestas-galicia.jpg "Los caballos llegan al galope desde los montes.")
 
@@ -134,9 +134,9 @@ km por el Parque Arqueolóxico de Arte Rupestre Campo Lameiro quedarás fascinad
 magia que esconde el paisaje gallego. Fíjate en los petroglifos de Outeiro dos Cogoludos 
 y Laxe dos Cabalos donde se repiten las escenas de hombres montados a caballo. 
 
-Aprovecha que estás al pie del [Camino de 
-Santiago](https://etheriamagazine.com/2019/03/06/camino-de-finisterre-fairway/) y 
-acércate también hasta la catedral de Santiago, situada apenas a media hora de Sabucedo. 
+Aprovecha que estás al pie del {{< reflink 
+path=posts/2019/03/camino-de-finisterre-fairway >}} y acércate también hasta la catedral 
+de Santiago, situada apenas a media hora de Sabucedo. 
 
 ![rapa das bestas, fiestas de verano en galicia](https://fotos.etheriamagazine.com/2019/06/Caballos-rapa-das-bestas.jpg "Caballos o bestas.")
 
@@ -173,11 +173,8 @@ Galicia.](http://www.turismo.gal/recurso/-/detalle/fi-po-000012/a-rapa-das-besta
 
 **También te puede interesar:** 
 
-[Camino de Santiago por la Ría de Muros-Noia, una aventura a toda 
-vela](https://etheriamagazine.com/2021/07/14/camino-de-santiago-ria-de-muros-noia-en-velero/) 
+{{< reflink path=posts/2021/07/camino-de-santiago-ria-de-muros-noia-en-velero >}} 
 
-[Planes en la Ribeira Sacra para descubrir sus mayores 
-secretos](https://etheriamagazine.com/2021/06/17/planes-en-la-ribeira-sacra-con-amigas/) 
+{{< reflink path=posts/2021/06/planes-en-la-ribeira-sacra-con-amigas >}} 
 
-[La Toja, la escapada romántica que 
-necesitas](https://etheriamagazine.com/2021/02/12/la-toja-escapada-romantica-termal-en-galicia/)
+{{< reflink path=posts/2024/07/la-toja-escapada-romantica-termal-en-galicia >}}

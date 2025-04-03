@@ -1,17 +1,17 @@
 ---
 title: "El tren de Flåm, el recorrido más bonito del mundo"
 date: 2020-11-19
-coverImage: https://fotos.etheriamagazine.com/2020/11/tren-flam-noruega.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/tren-flam-noruega.jpg
 destino: 
   - Mundo
 authors: 
   - Pepa G. Marín
 ---
 
-Paisajes majestuosos, romanticismo y sorpresas acompañan durante los 20 kilómetros de 
+**Paisajes majestuosos, romanticismo y sorpresas acompañan durante los 20 kilómetros de 
 recorrido del tren noruego de Flåm (o Flamsbana). Considerado entre los más hermosos del 
 mundo, es uno de los viajes en tren que hay que hacer, al menos, una vez en la vida. Te 
-damos todos los datos para organizarlo. 
+damos todos los datos para organizarlo.** 
 
 ![Tren de Flåm.](https://fotos.etheriamagazine.com/2020/11/tren-flam-noruega.jpg "Tren de Flåm. © Wolf Vandierendonck")
 
@@ -30,12 +30,14 @@ recomendaciones, basada en nuestra experiencia, para preparar tu viaje a Noruega
 
 Aunque te puede parecer una línea turística, este tramo de ferrocarril no nació con el 
 objetivo de llevar a curiosos de un lado para otro. Su historia se comenzó a gestar tras 
-la inauguración de la **línea Oslo - Bergen** en 1909, una conexión importante que 
-precisaba de un ramal hacia el fiordo de los Sueños con el que asegurar el transporte 
-hacia y desde este fiordo. En 1923 comenzaron unas obras que durarían 20 años y que 
-supusieron todo un reto: 18 de sus 20 túneles tuvieron que ser excavados sin ayuda de 
-maquinaria, y las laderas eran tan empinadas que los trabajadores vivían en un riesgo 
-constante. Aún así, sólo murieron dos en todo el tiempo que duró su construcción. 
+la inauguración de la **línea Oslo 
+
+- Bergen** en 1909, una conexión importante que precisaba de un ramal hacia el fiordo de 
+los Sueños con el que asegurar el transporte hacia y desde este fiordo. En 1923 
+comenzaron unas obras que durarían 20 años y que supusieron todo un reto: 18 de sus 20 
+túneles tuvieron que ser excavados sin ayuda de maquinaria, y las laderas eran tan 
+empinadas que los trabajadores vivían en un riesgo constante. Aún así, sólo murieron dos 
+en todo el tiempo que duró su construcción. 
 
 ![Coloridos tejados de Flåm.](https://fotos.etheriamagazine.com/2020/11/noruega-tren-tejados-flam.jpg "Coloridos tejados de Flåm. © Kuntal Sahni")
 
@@ -152,11 +154,8 @@ best](https://www.norwaysbest.com/es/el-tren-de-flam/viaje-de-ida-y-vuelta-con-e
 
 📌 **También te puede interesar:** 
 
-[11 razones por las que deberías viajar a 
-Noruega](https://etheriamagazine.com/2018/12/13/razones-para-viajar-a-noruega/) 
+{{< reflink path=posts/2018/12/razones-para-viajar-a-noruega >}} 
 
-[Prepara tu viaje a Noruega: libros y películas para ante de 
-viajar](https://etheriamagazine.com/2020/08/18/prepara-tu-viaje-libros-series-de-noruega/) 
+{{< reflink path=posts/2020/08/prepara-tu-viaje-libros-series-de-noruega >}} 
 
-[Recorre las 3 capitales de Noruega: Trondheim, Bergen y 
-Oslo](https://etheriamagazine.com/2020/01/24/que-ver-en-noruega-trondheim-bergen-y-oslo/)
+{{< reflink path=posts/2020/01/que-ver-en-noruega-trondheim-bergen-y-oslo >}}

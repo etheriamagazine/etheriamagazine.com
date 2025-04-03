@@ -1,7 +1,7 @@
 ---
 title: "Málaga con amigas, el fin de semana que os merecéis"
 date: 2021-05-03
-coverImage: https://fotos.etheriamagazine.com/2018/11/Malaga-museo-Picasso-teatro-romano.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/Malaga-museo-Picasso-teatro-romano.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -111,30 +111,28 @@ Málaga con amigas?
 
 ### CONSEJOS ETHERIA
 
-• Uno de los aspectos que hacen de Málaga una ciudad perfecta para un fin de semana es 
+- Uno de los aspectos que hacen de Málaga una ciudad perfecta para un fin de semana es 
 lo bien comunicada que está. A dos horas y media de Madrid en AVE, también cuenta con 
 aeropuerto y tiene buenas carreteras de acceso. 
 
-• La oferta hotelera en Málaga es extensa y para todos los gustos. Un buen lugar para 
+- La oferta hotelera en Málaga es extensa y para todos los gustos. Un buen lugar para 
 alojarse es el **Room Mate Larios**, en pleno centro. Otra opción interesante es el 
 **Barceló Málaga** de diseño vanguardista y chispeante, además cuenta con acceso directo 
 a la estación María Zambrano donde te deja el AVE. ¿Te atreverás a emplear su tobogán 
 gigante para bajar desde la primera planta al lobby ? 
 
-• Tanto el Museo Picasso de Málaga como el Museo Carmen Thyssen de Málaga cuentan con 
+- Tanto el Museo Picasso de Málaga como el Museo Carmen Thyssen de Málaga cuentan con 
 colección permanente y con interesantes exposiciones temporales. 
 
-• El Hamman Al Ándalus está situado en el centro de la ciudad. Es recomendable reservar 
+- El Hamman Al Ándalus está situado en el centro de la ciudad. Es recomendable reservar 
 con antelación el combinado que se elija (entrada a las termas y masaje). Consulta toda 
 la información en su web. 
 
 ### También te puede interesar:
 
-[Andalucía en autocaravana y consejos prácticos para 
-novatos](https://etheriamagazine.com/2021/04/07/consejos-rutas-andalucia-en-autocaravana/). 
+{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}. 
 
-[Alcuzcuz Hotel Boutique, un oasis secreto en Benahavís 
-(Málaga)](https://etheriamagazine.com/2019/07/08/alcuzcuz-hotel-boutique-escapada-romantica-benahavis-malaga/). 
+{{< reflink 
+path=posts/2019/07/alcuzcuz-hotel-boutique-escapada-romantica-benahavis-malaga >}}. 
 
-[Cortijos andaluces para dar la bienvenida a la 
-primavera](https://etheriamagazine.com/2021/03/16/cortijos-andaluces-viaje-amigas/).
+{{< reflink path=posts/2021/03/cortijos-andaluces-viaje-amigas >}}.

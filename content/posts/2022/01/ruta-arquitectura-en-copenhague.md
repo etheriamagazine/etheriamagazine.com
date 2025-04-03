@@ -1,16 +1,16 @@
 ---
 title: "Copenhague, un viaje en el tiempo a través de su arquitectura"
 date: 2022-01-26
-coverImage: https://fotos.etheriamagazine.com/2022/01/SMK-museo-copenhague.jpg
+cover: https://fotos.etheriamagazine.com/2022/01/SMK-museo-copenhague.jpg
 destino: 
   - Europa
 authors: 
   - Cynthia Martín
 ---
 
-Conocer la historia de Copenhague al mismo tiempo que sus joyas arquitectónicas más 
+**Conocer la historia de Copenhague al mismo tiempo que sus joyas arquitectónicas más 
 icónicas nos permite disfrutar del pasado y casi del futuro. Después de este paseo por 
-la capital danesa, te prometemos que C4 se convertirá en un amigo íntimo. 
+la capital danesa, te prometemos que C4 se convertirá en un amigo íntimo.** 
 
 ![canales copenhague](https://fotos.etheriamagazine.com/2022/01/canales-copenhague.jpg "Canales de Copenhague. © Daniel Rasmussen/ Visit Copenhagen")
 
@@ -224,11 +224,9 @@ Más información en [Turismo de Copenhague](https://www.visitcopenhagen.com/).
 
 **También te puede interesar...** 
 
-[Descubre el secreto de la felicidad que guarda celosamente 
-Copenhague](https://etheriamagazine.com/2019/09/23/que-ver-tres-dias-en-copenhague-mujeres-viajeras/). 
+{{< reflink path=posts/2019/09/que-ver-tres-dias-en-copenhague-mujeres-viajeras >}}. 
 
-[¿Podría ser Groenlandia el viaje de tu vida? Averígualo 
-aquí](https://etheriamagazine.com/2018/11/14/groenlandia-todo-lo-que-necesitas-saber-para-el-viaje-de-tu-vida/). 
+{{< reflink 
+path=posts/2018/11/groenlandia-todo-lo-que-necesitas-saber-para-el-viaje-de-tu-vida >}}. 
 
-[Círculo Dorado de Islandia en coche, 7 paradas para una ruta 
-perfecta](https://etheriamagazine.com/2021/12/27/imprescindibles-circulo-dorado-islandia/).
+{{< reflink path=posts/2021/12/imprescindibles-circulo-dorado-islandia >}}.

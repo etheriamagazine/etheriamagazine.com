@@ -1,7 +1,7 @@
 ---
 title: "Viajes de cine: 8 localizaciones de 'La catedral del mar'"
 date: 2018-08-01
-coverImage: https://fotos.etheriamagazine.com/2018/07/Sos-del-rey-catedral-del-mar-e1578147637875.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/Sos-del-rey-catedral-del-mar-e1578147637875.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Eva Madruga
 ---
 
-Tanto si eres de las que estuvo pegada a la televisión para ver los ocho capítulos de 
+**Tanto si eres de las que estuvo pegada a la televisión para ver los ocho capítulos de 
 _La catedral del mar_, la adaptación televisiva de la novela de Ildefonso Falcones, como 
 si eres de las que te enganchaste al _best seller_ homónimo, tienes que prestar atención 
-a esta ruta por los escenarios de la serie. 
+a esta ruta por los escenarios de la serie.** 
 
 ![Sos del Rey Católico.](https://fotos.etheriamagazine.com/2018/07/Sos-del-rey-catedral-del-mar.jpg "Sos del Rey Católico. © LCM/A3")
 
@@ -142,8 +142,6 @@ ruta que recrea esta historia medieval de intriga, amor y violencia.
 
 **También te va a gustar...** 
 
-[15 razones para visitar Puy du Fou Toledo en 
-2022](https://etheriamagazine.com/2022/04/06/15-razones-para-visitar-puy-du-fou-toledo-en-2022/). 
+{{< reflink path=posts/2022/04/15-razones-para-visitar-puy-du-fou-toledo-en-2022 >}}. 
 
-[Cómo exprimir Toledo en un fin de 
-semana](https://etheriamagazine.com/2022/02/28/que-ver-en-toledo/).
+{{< reflink path=posts/2022/02/que-ver-en-toledo >}}.

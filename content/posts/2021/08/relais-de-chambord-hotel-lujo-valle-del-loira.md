@@ -1,7 +1,7 @@
 ---
 title: "Relais de Chambord, un pequeño hotel de lujo en el corazón del Valle del Loira"
 date: 2021-08-02
-coverImage: https://fotos.etheriamagazine.com/2021/07/relais-de-chambord-restaurant-le-grand-saint-michel.jpg
+cover: https://fotos.etheriamagazine.com/2021/07/relais-de-chambord-restaurant-le-grand-saint-michel.jpg
 categories: 
   - hoteles
 destino: 
@@ -122,11 +122,8 @@ Fotografías cedidas por © Relais de Chambord.
 
 ### También te puede interesar
 
-[Ruta en coche por el Valle del 
-Loira](https://etheriamagazine.com/2019/03/14/que-ver-ruta-en-coche-valle-del-loira/) 
+{{< reflink path=posts/2019/03/que-ver-ruta-en-coche-valle-del-loira >}} 
 
-[Ruta por los jardines y perfumes de la Costa 
-Azul](https://etheriamagazine.com/2021/07/07/ruta-de-los-jardines-costa-azul-francia/) 
+{{< reflink path=posts/2021/07/ruta-de-los-jardines-costa-azul-francia >}} 
 
-[10 viajes para disfrutar de la buena vida en 
-Francia](https://etheriamagazine.com/2020/09/02/mejores-destinos-para-viajar-en-francia/)
+{{< reflink path=posts/2020/09/mejores-destinos-para-viajar-en-francia >}}

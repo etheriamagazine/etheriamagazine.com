@@ -1,7 +1,7 @@
 ---
 title: "10 Planes navideños en Madrid para mujeres (con o sin hijos)"
 date: 2019-12-19
-coverImage: https://fotos.etheriamagazine.com/2019/12/bola-navidad-gran-via-alcala.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/bola-navidad-gran-via-alcala.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-¿Estás un poco cansada de luces y zambombas? Pues aún te queda, y más vale tratar de 
+**¿Estás un poco cansada de luces y zambombas? Pues aún te queda, y más vale tratar de 
 pasarlo bien... Hemos elegido 10 planes navideños en Madrid para todas, para las que 
 vais por libre, para quienes buscáis planes en familia y, también, para las que nunca 
-tienen suficiente Navidad. 
+tienen suficiente Navidad.** 
 
 ![madrid en navidad, planes para mujeres en madrid](https://fotos.etheriamagazine.com/2019/12/bola-navidad-gran-via-alcala.jpg "Madrid se ilumina en Navidad.")
 
@@ -68,7 +68,7 @@ diversos artículos de bromas (esto último, ¿no os parece raro?).
 Otro que también merece la pena es el **Mercadillo de Artesanía del Paseo de Recoletos** 
 (hasta el 30 diciembre, ojo que el 25 de diciembre está cerrado). Allí puedes encontrar 
 regalos muy especiales hechos a mano y de forma tradicional (joyería, juguetes, 
-marroquinería, etc.). Nos pueden salvar algún compromiso de Reyes. 
+marroquinería, etc.). Nos pueden salvar algún compromiso de Reyes.**** 
 
 ![mercadillo navidad plaza mayor madrid](https://fotos.etheriamagazine.com/2019/12/Mercadillo-Plaza-Mayor-navidad.jpg "Mercadillo navideño de la Plaza Mayor de Madrid.")
 

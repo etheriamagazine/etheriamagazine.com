@@ -1,7 +1,7 @@
 ---
 title: "Así es ‘Find the Seasouls’, la nueva apuesta turística canaria en el metaverso"
 date: 2025-01-20
-coverImage: https://fotos.etheriamagazine.com/2025/01/Jessica-de-Leon-consejera-de-Turismo-y-Empleo-del-Gobierno-de-Canarias.jpeg
+cover: https://fotos.etheriamagazine.com/2025/01/Jessica-de-Leon-consejera-de-Turismo-y-Empleo-del-Gobierno-de-Canarias.jpeg
 categories: 
   - viajar-en-familia
 destino: 
@@ -80,8 +80,6 @@ portal turístico de las islas, [holaislascanarias.com](http://holaislascanarias
 
 **También en Etheria Magazine** 
 
-[Las Palmas de Gran Canaria con niños, diversión 
-asegurada](https://etheriamagazine.com/2024/07/01/las-palmas-de-gran-canaria-en-familia/). 
+{{< reflink path=posts/2024/07/las-palmas-de-gran-canaria-en-familia >}}. 
 
-[Senderismo en La Palma, descubre sus rutas más 
-bonitas](https://etheriamagazine.com/2023/05/24/rutas-mas-bonitas-la-palma/).
+{{< reflink path=posts/2023/05/rutas-mas-bonitas-la-palma >}}.

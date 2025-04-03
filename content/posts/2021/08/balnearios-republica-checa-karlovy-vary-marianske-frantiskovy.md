@@ -1,7 +1,7 @@
 ---
 title: "Karlovy Vary, Mariánské Lázně y Františkovy Lázně, descubre el secreto de la eterna juventud en Chequia"
 date: 2021-08-13
-coverImage: https://fotos.etheriamagazine.com/2021/08/republica-checa-Karlovy-Vary.jpg
+cover: https://fotos.etheriamagazine.com/2021/08/republica-checa-Karlovy-Vary.jpg
 categories: 
   - viajar-con-amigas
   - bienestar
@@ -36,13 +36,14 @@ que brota agua sin cesar.
 
 ## Tres ciudades termales en Chequia para sanar cuerpo y mente
 
-Si tu puerta de entrada a la República Checa es [Praga](https://etheriamagazine.com/2019/09/16/que-hacer-ver-2-dias-en-praga-museos-festivales/) 
-aprovecha, antes o después de la escapada termal, para conocer esta histórica ciudad, 
-pero anímate también a recorrer regiones tan completas como Bohemia del Oeste. Desde la 
-capital es muy fácil llegar tanto en autobús (unas dos horas) como en tren (unas tres 
-horas) hasta las ciudades termales. ¿Y dónde es mejor alojarse? Cualquiera de ellas es 
-adecuada ya que la distancia entre **Karlovy** **Vary** y **Mariánské Lázně** es de 54 
-kilómetros y de 46 hasta **Františkovy Lázně**. 
+Si tu puerta de entrada a la República Checa es {{< reflink 
+path=posts/2019/09/que-hacer-ver-2-dias-en-praga-museos-festivales >}} aprovecha, antes 
+o después de la escapada termal, para conocer esta histórica ciudad, pero anímate 
+también a recorrer regiones tan completas como Bohemia del Oeste. Desde la capital es 
+muy fácil llegar tanto en autobús (unas dos horas) como en tren (unas tres horas) hasta 
+las ciudades termales. ¿Y dónde es mejor alojarse? Cualquiera de ellas es adecuada ya 
+que la distancia entre **Karlovy** **Vary** y **Mariánské Lázně** es de 54 kilómetros y 
+de 46 hasta **Františkovy Lázně**. 
 
 ![Karlovy Vary  Triangulo Balneario de la Republica Checa](https://fotos.etheriamagazine.com/2021/08/ciudad-termal-Karlovy-Vary.jpg "Karlovy Vary. © Renner Ladislav")
 
@@ -73,7 +74,8 @@ de los reyes”.
 
 Una de las vistas más bonitas de Karlovy Vary se obtiene al atardecer desde el **mirador 
 del Salto de Ciervo**, al que se llega en el funicular Diana. Y un poco más allá, a 14 
-kilómetros, se encuentra [Loket](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Landmarks/Cities/t-loket), 
+kilómetros, se encuentra 
+[Loket](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Landmarks/Cities/t-loket), 
 un precioso pueblo con un no menos bonito castillo gótico. No dejes de entrar para ver 
 las exposiciones de porcelana y los instrumentos de tortura. 
 
@@ -148,19 +150,17 @@ cuevas acuáticas, y un campo de vóley-playa.
 
 ![Escultura de Frantisek de  Frantiskovy Lazne](https://fotos.etheriamagazine.com/2021/08/triangulo-balneario-Frantiskovy-Lazne-Frantisek.jpg "Escultura de František, en Františkovy Lázně. © Renner Ladislav")
 
-Dos excursiones aconsejables desde Františkovy Lázně son la ciudad de [Cheb](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Landmarks/Cities/t-cheb), 
+Dos excursiones aconsejables desde Františkovy Lázně son la ciudad de 
+[Cheb](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Landmarks/Cities/t-cheb), 
 con sus bonitas casas con entramado, y la interesante [Reserva Natural de 
 SOOS](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Nature/Protected-Areas-and-National-Parks/c-nature-reserve-soos), 
 donde es posible observar volcanes de lodo. 
 
 ### También te puede interesar...
 
-[12 hoteles en la República Checa con un toque muy 
-original](https://etheriamagazine.com/2021/06/05/12-originales-hoteles-en-la-republica-checa/). 
+{{< reflink path=posts/2021/06/12-originales-hoteles-en-la-republica-checa >}}. 
 
-[Prepara tu viaje a… 
-Chequia](https://etheriamagazine.com/2020/03/31/prepara-tu-viaje-a-chequia/) (guías, 
-novelas y películas) 
+{{< reflink path=posts/2020/03/prepara-tu-viaje-a-chequia >}} (guías, novelas y 
+películas) 
 
-[Descubre las huellas del comunismo en 
-Chequia](https://etheriamagazine.com/2019/11/17/ruta-revolucion-terciopelo-comunismo-republica-checa/).
+{{< reflink path=posts/2019/11/ruta-revolucion-terciopelo-comunismo-republica-checa >}}.

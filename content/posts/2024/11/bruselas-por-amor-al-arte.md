@@ -1,7 +1,7 @@
 ---
 title: "Claves para disfrutar de una escapada a Bruselas por amor al arte"
 date: 2024-11-22
-coverImage: https://fotos.etheriamagazine.com/2024/11/Bruselas-Galeria-Costermans.jpg
+cover: https://fotos.etheriamagazine.com/2024/11/Bruselas-Galeria-Costermans.jpg
 categories: 
   - viajar-sola
   - cultura
@@ -193,11 +193,8 @@ Más información en [Turismo de Flandes](http://www.visitflanders.com).
 
 **También te puede interesar:** 
 
-[10 paradas en una ruta por el Barrio Europeo de 
-Bruselas](https://etheriamagazine.com/2022/09/29/que-ver-barrio-europeo-bruselas/) 
+{{< reflink path=posts/2022/09/que-ver-barrio-europeo-bruselas >}} 
 
-[8 planes que no puedes perderte en Bruselas y 
-Flandes](https://etheriamagazine.com/2021/03/12/que-ver-hacer-otros-planes-en-bruselas-y-flandes/) 
+{{< reflink path=posts/2021/03/que-ver-hacer-otros-planes-en-bruselas-y-flandes >}} 
 
-[Escapada con amigas a Malinas y Oudenaarde, dos perlas escondidas en la región de 
-Flandes](https://etheriamagazine.com/2024/11/07/malinas-y-oudenaarde-con-amigas/)
+{{< reflink path=posts/2024/11/malinas-y-oudenaarde-con-amigas >}}

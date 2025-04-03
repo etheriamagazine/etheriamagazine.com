@@ -1,7 +1,7 @@
 ---
 title: "Cómo visitar los Campos de lavanda de Brihuega (Guadalajara)"
 date: 2020-06-08
-coverImage: https://fotos.etheriamagazine.com/2019/06/lavanda-brihuega.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/lavanda-brihuega.jpg
 categories: 
   - ocio
 destino: 
@@ -40,7 +40,8 @@ Se siembran **más de mil hectáreas de lavanda y lavandín** entre Brihuega y o
 poblaciones de alrededor, aproximadamente un 10% de todo el cultivo mundial. Como 
 soporte de esta actividad, que ya genera más de 200 empleos, se creó la sociedad 
 Intercova Aromática que, además del cultivo, se ocupa de los viveros y de la destilería 
-donde se obtienen los aceites esenciales de esta planta. Al frente de Intercova está [Emilio 
+donde se obtienen los aceites esenciales de esta planta. Al frente de Intercova está 
+[Emilio 
 Valeros](https://cincodias.elpais.com/cincodias/2018/07/27/fortunas/1532707590_285368.html), 
 director técnico de perfumes Loewe, y otros socios como los Hermanos Corral, 
 agricultores de la zona. Alrededor de la lavanda, además, han surgido otras vías de 
@@ -55,9 +56,9 @@ En otras zonas de España también se ha comenzado a cultivar con buenos resulta
 pueden visitar otros campos en "Ossa de Montiel (Albacete), donde Francisca Muñoz heredó 
 una destilería artesanal de esencias y ahora la exporta y factura más de un millón de 
 euros al año; o en Tiedra, al sur de la Tierra de Campos, en Peñafiel, (Valladolid). 
-Pero también en [Burgos](https://etheriamagazine.com/2024/06/11/lavanda-burgos/), Soria, 
-La Rioja, Cuenca, Lleida y en la comarca de Los Serranos, en Valencia” ([El dinero huele 
-a lavanda](https://www.hoy.es/sociedad/dinero-huele-lavanda-20180107001615-ntvo.html), 
+Pero también en {{< reflink path=posts/2024/06/lavanda-burgos >}}, Soria, La Rioja, 
+Cuenca, Lleida y en la comarca de Los Serranos, en Valencia” ([El dinero huele a 
+lavanda](https://www.hoy.es/sociedad/dinero-huele-lavanda-20180107001615-ntvo.html), 
 diario Hoy). 
 
 ## Una experiencia inolvidable
@@ -83,8 +84,8 @@ La experiencia se puede redondear asistiendo al Festival de la Lavanda que cada 
 sorprende con particularidades nuevas. Es un festival con toques bohemios donde los 
 asistentes suelen ir vestidos de blanco para hacerse bonitas fotos al atardecer. El 12 
 de julio actuará **Maldita Nerea** y el 13 de julio, **Rozalén.** Si quieres acudir no 
-dejes de informarte en su web oficial y trata de adquirir la entrada con antelación en [Festival 
-de la Lavanda](https://www.festivaldelalavanda.com/). 
+dejes de informarte en su web oficial y trata de adquirir la entrada con antelación en 
+[Festival de la Lavanda](https://www.festivaldelalavanda.com/). 
 
 \*Si tienes intención de ir al festival, tendrás que buscar el PK 7,7 en la carretera GU 
 925, en dirección a Olmeda del Extremo, una pedanía de Brihuega. Coordenadas en el GPS: 
@@ -129,11 +130,10 @@ lavanda, etc.
 
 **Más visitas en Guadalajara** 
 
-[Escapada a Sigüenza: del pasado medieval a la Movida 
-madrileña](https://etheriamagazine.com/2020/12/14/que-ver-donde-comer-en-siguenza/). 
+{{< reflink path=posts/2020/12/que-ver-donde-comer-en-siguenza >}}. 
 
-[‘Viaje a la Alcarria’, seguimos los pasos de Cela 75 años después de su 
-publicación](https://etheriamagazine.com/2021/02/01/viaje-a-la-alcarria-seguimos-los-pasos-de-cela-75-anos-despues-de-su-publicacion/). 
+{{< reflink 
+path=posts/2021/02/viaje-a-la-alcarria-seguimos-los-pasos-de-cela-75-anos-despues-de-su-publicacion 
+>}}. 
 
-[Respirar ‘a pulmón abierto’ en los Pueblos Negros de 
-Guadalajara](https://etheriamagazine.com/2019/05/06/viaje-en-coche-pueblos-negros-guadalajara/).
+{{< reflink path=posts/2019/05/ruta-en-coche-pueblos-negros-guadalajara >}}.

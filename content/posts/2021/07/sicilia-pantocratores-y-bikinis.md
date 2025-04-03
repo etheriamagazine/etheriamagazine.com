@@ -1,7 +1,7 @@
 ---
 title: "Ruta en coche por Sicilia, entre pantocrátores y bikinis"
 date: 2021-07-05
-coverImage: https://fotos.etheriamagazine.com/2021/07/sicilia-viaje.jpg
+cover: https://fotos.etheriamagazine.com/2021/07/sicilia-viaje.jpg
 destino: 
   - Europa
 authors: 
@@ -108,11 +108,8 @@ Sorpresas nos da el viajar por el arte… sorpresas.
 
 ### También te puede interesar...
 
-[Nueve paseos a la italiana por los jardines más bellos de 
-Florencia](https://etheriamagazine.com/2021/05/21/paseos-por-los-jardines-mas-bellos-de-florencia/). 
+{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}. 
 
-[Caótica Nápoles: 48 horas en la ciudad más canalla de 
-Italia](https://etheriamagazine.com/2020/09/04/que-ver-en-napoles-en-fin-de-semana/). 
+{{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}}. 
 
-[Secretos de Alberobello, un ‘pícaro’ pueblo italiano de 
-Puglia](https://etheriamagazine.com/2019/04/15/que-ver-alberobello-italia-unesco/).
+{{< reflink path=posts/2019/04/que-ver-alberobello-italia-unesco >}}.

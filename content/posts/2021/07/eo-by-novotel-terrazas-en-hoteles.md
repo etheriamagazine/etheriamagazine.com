@@ -1,7 +1,7 @@
 ---
 title: "‘eo by Novotel’, practica el terraceo más desenfadado y gourmet"
 date: 2021-07-27
-coverImage: https://fotos.etheriamagazine.com/2021/07/Terraza_Novotel-ibis-Styles-Madrid-City-Las-Ventas.jpg
+cover: https://fotos.etheriamagazine.com/2021/07/Terraza_Novotel-ibis-Styles-Madrid-City-Las-Ventas.jpg
 categories: 
   - hoteles
 destino: 
@@ -72,11 +72,8 @@ cualquiera de sus establecimientos de España porque merece mucho la pena.
 
 ### También te puede interesar…
 
-[6 hoteles en España donde no encontrarte con (casi) 
-nadie](https://etheriamagazine.com/2020/04/21/6-hoteles-apartados-espana-lujo-con-encanto/). 
+{{< reflink path=posts/2020/04/6-hoteles-apartados-espana-lujo-con-encanto >}}. 
 
-[10 hoteles para una escapada romántica de 
-lujo](https://etheriamagazine.com/2019/10/24/10-hoteles-para-escapada-romantica-de-lujo/). 
+{{< reflink path=posts/2019/10/10-hoteles-para-escapada-romantica-de-lujo >}}. 
 
-[La Bobadilla, uno de los hoteles más bonitos del 
-mundo](https://etheriamagazine.com/2018/08/23/hotel-la-bobadilla-loja-granada/).
+{{< reflink path=posts/2018/08/hotel-la-bobadilla-loja-granada >}}.

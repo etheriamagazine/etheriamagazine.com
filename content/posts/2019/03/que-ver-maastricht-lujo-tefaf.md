@@ -1,7 +1,7 @@
 ---
 title: "Fin de semana de lujo en Maastricht, bombonera del arte"
 date: 2019-03-01
-coverImage: https://fotos.etheriamagazine.com/2019/02/Maastricht-Feria-tefaf.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/Maastricht-Feria-tefaf.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pedro Grifol
 ---
 
-Hay ciudades que brillan siempre y otras que destacan, a pesar de que su fulgor sigue 
+**Hay ciudades que brillan siempre y otras que destacan, a pesar de que su fulgor sigue 
 ahí, durante algunos días del año. Ese es el caso de Maastricht, que es la más deseada 
 durante la celebración de TEFAF, la feria de arte más destacada en su género a nivel 
-mundial. ¿Nos acompañas a visitar esta ‘bella desconocida’ con sus mejores galas? 
+mundial. ¿Nos acompañas a visitar esta ‘bella desconocida’ con sus mejores galas?** 
 
 ![Kruisherenhotel, viaje maastricht](https://fotos.etheriamagazine.com/2019/02/Maastricht-Kruisheren-hotel.jpg "El Kruisherenhotel es un monasterio del siglo XVI transformado en hotel de lujo.")
 
@@ -153,19 +153,19 @@ Pero una parte del mundo vive así.
 
 ### CONSEJOS ETHERIA
 
-• TEFAF. 
+- TEFAF. 
 
 La edición número 32 de TEFAF (tefaf.com) tendrá lugar en el Palacio de Exposiciones y 
 Congresos MECC de Maastricht en marzo. 
 
-• Cómo ir. 
+- Cómo ir. 
 
 Maastricht está a 120 km de Bruselas. La opción más recomendable es volar hasta 
 Bruselas. Las compañías Brussels Airlines e Iberia tienen varias frecuencias diarias 
 tanto desde Madrid como desde Barcelona. En el aeropuerto se puede tomar el tren o el 
 autobús que conecta con la ciudad holandesa. 
 
-• Dónde dormir. 
+- Dónde dormir. 
 
 Si tienes planes para viajar a Maastricht en marzo, conviene reservar cuanto antes en la 
 página de Maastricht Booking Service, ya que cuando se celebra la TEFAF los hoteles se 

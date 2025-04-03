@@ -1,7 +1,7 @@
 ---
 title: "Hotel NH Collection New York Madison Avenue, una opción imbatible para dormir en Nueva York"
 date: 2024-01-22
-coverImage: https://fotos.etheriamagazine.com/2024/01/NH-Collection-New-York-Madison-Vistas.jpg
+cover: https://fotos.etheriamagazine.com/2024/01/NH-Collection-New-York-Madison-Vistas.jpg
 categories: 
   - hoteles
 destino: 
@@ -25,10 +25,9 @@ una opción imbatible para unas vacaciones en la Gran Manzana. Su ubicación no 
 mejor, ya que se encuentra en la mismísima Madison Avenue, a sólo una manzana de la 
 Quinta Avenida, y permite ir caminando hasta algunos _must_ de la ciudad como 
 Rockefeller Center, el Empire State, Times Square, Grand Central Station o The Summit 
-One Vanderbilt (echa un vistazo a nuestro artículo [Una guía para que no te dejes (casi) 
-nada por ver en 
-Manhattan](https://etheriamagazine.com/2024/01/11/que-ver-en-manhattan-nueva-york/) y 
-comprobarás todo lo que podrás visitar desde el hotel). 
+One Vanderbilt (echa un vistazo a nuestro artículo {{< reflink 
+path=posts/2024/01/que-ver-en-manhattan-nueva-york >}} y comprobarás todo lo que podrás 
+visitar desde el hotel). 
 
 El hotel NH Collection New York Madison Avenue ocupa un edificio histórico, de más de 
 cien años, de esos de ladrillo rojo que mantienen su imponente presencia entre 
@@ -110,11 +109,8 @@ Madison](https://www.nh-collection.com/es/hotel/nh-collection-new-york-madison-a
 
 **Más artículos para preparar tu viaje Nueva York** 
 
-[Los mejores miradores de Nueva York: nuevos, de pago y 
-gratuitos](https://etheriamagazine.com/2020/02/24/los-mejores-miradores-de-nueva-york-gratis-de-pago/) 
+{{< reflink path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}} 
 
-[Nueva York: el mejor plan con amigas al otro lado del 
-charco](https://etheriamagazine.com/2019/05/17/viaje-con-amigas-nueva-york-primavera/) 
+{{< reflink path=posts/2019/05/viaje-con-amigas-nueva-york-primavera >}} 
 
-[Viaje a Nueva York con niños: 8 planes que no puedes 
-perderte](https://etheriamagazine.com/2018/07/23/8-planes-con-ninos-en-nueva-york/)
+{{< reflink path=posts/2018/07/8-planes-con-ninos-en-nueva-york >}}

@@ -1,7 +1,7 @@
 ---
 title: "Tips para una escapada inolvidable con amigas a Berna"
 date: 2024-07-03
-coverImage: https://fotos.etheriamagazine.com/2024/07/berna-calle.jpg
+cover: https://fotos.etheriamagazine.com/2024/07/berna-calle.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -172,11 +172,8 @@ el río.
 
 **También te puede interesar:** 
 
-[Por qué la mujer no pudo votar en Suiza hasta 
-1971](https://etheriamagazine.com/2021/04/12/voto-femenino-suiza-50-aniversario/) 
+{{< reflink path=posts/2021/04/voto-femenino-suiza-50-aniversario >}} 
 
-[Suiza en coche eléctrico, una aventura ecológica (y más 
-económica)](https://etheriamagazine.com/2021/02/10/ruta-en-coche-electrico-por-suiza/) 
+{{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}} 
 
-[Descubre la mejor forma de recorrer y saborear 
-Suiza](https://etheriamagazine.com/2021/05/10/guia-gastronomica-suiza-y-rutas-en-tren/)
+{{< reflink path=posts/2021/05/guia-gastronomica-suiza-y-rutas-en-tren >}}

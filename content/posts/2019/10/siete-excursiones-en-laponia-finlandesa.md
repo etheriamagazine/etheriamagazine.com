@@ -1,7 +1,7 @@
 ---
 title: "7 excursiones que no puedes perderte en la Laponia finlandesa"
 date: 2019-10-31
-coverImage: https://fotos.etheriamagazine.com/2019/10/Laponia-finlandesa-aurora-boreal.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/Laponia-finlandesa-aurora-boreal.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -12,10 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-No hay un viaje que anticipe más la Navidad que el de la Laponia finlandesa y el Puente 
-de Diciembre y las vacaciones de Navidad son un momento perfecto para realizarlo. Aquí 
-te contamos que 7 excursiones no puedes perderte en Laponia para que tu viaje sea todo 
-un éxito. 
+**No hay un viaje que anticipe más la Navidad que el de la Laponia finlandesa y el 
+Puente de Diciembre y las vacaciones de Navidad son un momento perfecto para realizarlo. 
+Aquí te contamos que 7 excursiones no puedes perderte en Laponia para que tu viaje sea 
+todo un éxito.** 
 
 ![aurora boreal y paisaje nevado](https://fotos.etheriamagazine.com/2019/10/Laponia-Politours-aurora-boreal.jpg "Aurora boreal en Laponia (© Lucas Marcomini) y paisaje nevado (© Joakim Honkasa)")
 
@@ -24,8 +24,7 @@ mismísimo Papá Noel. Y con un poco de suerte, podrás ver una aurora boreal. P
 maleta y ¡vente a Laponia! Aquí te contamos 7 excursiones en Laponia que no puedes 
 perderte. 
 
-Sigue leyendo: ✅ [Una maleta para… Laponia 
-finlandesa](https://etheriamagazine.com/2018/09/15/una-maleta-para-laponia-finlandesa/) 
+Sigue leyendo: ✅ {{< reflink path=posts/2018/09/una-maleta-para-laponia-finlandesa >}} 
 
 Si estás buscando una experiencia única en forma de **escapada tu viaje es la Laponia 
 finlandesa**. Es perfecto para viajar en familia, con amigos o en pareja, y ofrece una 
@@ -60,11 +59,12 @@ probar las especialidades laponas como la sopa de salmón o el reno estofado.
 
 ### 3\. Conocer a Papá Noel
 
-Es el momento estrella del viaje si se realiza en familia. En Rovaniemi se encuentra la [Aldea 
-de Santa Claus](https://santaclausvillage.info/), un lugar mágico donde los más pequeños 
-podrán dejar su carta en persona al mismísimo Papá Noel. Todo el complejo merece un 
-paseo para detenerse en sus tiendas y su oficina postal; y para dejarse convencer por 
-los elfos y vivir una experiencia única en todos los rincones de esta aldea. 
+Es el momento estrella del viaje si se realiza en familia. En Rovaniemi se encuentra la 
+[Aldea de Santa Claus](https://santaclausvillage.info/), un lugar mágico donde los más 
+pequeños podrán dejar su carta en persona al mismísimo Papá Noel. Todo el complejo 
+merece un paseo para detenerse en sus tiendas y su oficina postal; y para dejarse 
+convencer por los elfos y vivir una experiencia única en todos los rincones de esta 
+aldea. 
 
 ![Papá Noel con un elfo en la Aldea Santa Claus.](https://fotos.etheriamagazine.com/2019/10/Laponia-Politours-aldea-santa-claus.jpg "Papá Noel con un elfo en la Aldea Santa Claus. © Aldea Santa Claus.")
 
@@ -140,8 +140,7 @@ viaje.
 
 📌 **También te puede interesar:** 
 
-[8 consejos para viajar con niños a la Laponia 
-Finlandesa](https://etheriamagazine.com/2018/09/08/8-consejos-para-viajar-a-la-laponia-finlandesa-con-ninos/) 
+{{< reflink path=posts/2018/09/8-consejos-para-viajar-a-la-laponia-finlandesa-con-ninos 
+>}} 
 
-[Laponia con niños: un viaje 
-irrepetible](https://etheriamagazine.com/2018/09/07/viaje-laponia-finlandesa-en-familia/)
+{{< reflink path=posts/2018/09/viaje-laponia-finlandesa-ninos-en-familia >}}

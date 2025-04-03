@@ -1,7 +1,7 @@
 ---
 title: "Almudena López-Amor: \"París es una ciudad maravillosa e Islandia, un gran descubrimiento\""
 date: 2019-01-14
-coverImage: https://fotos.etheriamagazine.com/2019/01/Almudena-Mujeres-Etheria-en-Bali-2014.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/Almudena-Mujeres-Etheria-en-Bali-2014.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -48,7 +48,7 @@ A mí en los aeropuertos se me pasa el tiempo “volando”, hay que mirarlos co
 
 ##### 7\. ¿Cuál ha sido el mejor viaje de tu vida? ¿Por qué?
 
-Tengo varios viajes especiales que recuerdo con mucho cariño. Uno de ellos fue un [viaje a Islandia](https://etheriamagazine.com/2018/09/26/islandia-la-isla-del-desafio-de-reykjavik-a-vik/) que hice con mi marido. Para mí fue un increíble descubrimiento la fuerza que te transmite la naturaleza de ese país. Siempre me digo que así debería ser la Tierra al principio de los tiempos. Fue un viaje estupendo, no encontrábamos momento para parar, y el hecho de que no se hiciera nunca de noche ayudaba a ello.
+Tengo varios viajes especiales que recuerdo con mucho cariño. Uno de ellos fue un {{< reflink path=posts/2021/03/que-ver-sur-islandia-consejos-practicos >}} que hice con mi marido. Para mí fue un increíble descubrimiento la fuerza que te transmite la naturaleza de ese país. Siempre me digo que así debería ser la Tierra al principio de los tiempos. Fue un viaje estupendo, no encontrábamos momento para parar, y el hecho de que no se hiciera nunca de noche ayudaba a ello.
 
 > ###### "Mi primer contacto con Asia fue también muy especial. Fue en un viaje a Vietnam, hace ya muchos años. Aquella cultura y su gente me impresionaron"
 

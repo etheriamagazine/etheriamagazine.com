@@ -1,7 +1,7 @@
 ---
 title: "Abigail Sigüenza: \"Me encantaría viajar con Indiana Jones a Egipto o a Perú\""
 date: 2018-07-17
-coverImage: https://fotos.etheriamagazine.com/2018/07/Abigail-Siguenza-mujer-etheria-murales.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/Abigail-Siguenza-mujer-etheria-murales.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Abigail Sigüenza fue Directora General de AVIAREPS para España y Portugal y ahora es 
+**Abigail Sigüenza fue Directora General de AVIAREPS para España y Portugal y ahora es 
 Directora de Marketing Internacional de Madrid Destino. También, una de las Mujeres 
 Etheria que destacamos por su vinculación y buen hacer en el mundo de la promoción 
-turística. 
+turística.** 
 
 ![Abigail Sigüenza directora de Marketing de Destino Madrid](https://fotos.etheriamagazine.com/2018/07/Abigail-Sigueza-turismo-nueva-york.jpg "Abigail Sigüenza.")
 
@@ -140,8 +140,6 @@ y crustáceos.
 
 **📍También te puede interesar...** 
 
-[Tres mujeres polacas que han hecho del mundo un lugar 
-mejor](https://etheriamagazine.com/2023/03/08/mujeres-polacas-fama-universal/). 
+{{< reflink path=posts/2023/03/mujeres-polacas-fama-universal >}}. 
 
-[Mujeres viajeras que, rompiendo moldes, hicieron las 
-maletas](https://etheriamagazine.com/2022/03/08/mujeres-viajeras-de-la-historia/).
+{{< reflink path=posts/2022/03/mujeres-viajeras-de-la-historia >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Santa Eulària des Riu, el municipio de Ibiza más ‘hippy-sostenible’"
 date: 2023-03-03
-coverImage: https://fotos.etheriamagazine.com/2023/03/Ibiza-Playa-SEstañol-columpio.jpg
+cover: https://fotos.etheriamagazine.com/2023/03/Ibiza-Playa-SEstañol-columpio.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Pedro Grifol
 ---
 
-En la isla de Ibiza, a finales de la década de los sesenta las lugareñas payesas 
+**En la isla de Ibiza, a finales de la década de los sesenta las lugareñas payesas 
 (ataviadas de negro) se cruzaban en la calle con unos raros melenudos que llegaban en 
 busca del Paraíso. Eran portadores de un lema universal de paz y amor que imperaba en el 
 Planeta Tierra por aquellos tiempos: “Haz el amor, no la guerra”. Aquella consigna llegó 
 a Santa Eulària des Riu –¡por tierra, mar y aire!– más que a ningún otro lugar de 
-España. 
+España.** 
 
 ![Mujer columpiándose en la playa S'Estañol en Ibiza](https://fotos.etheriamagazine.com/2023/03/Ibiza-Playa-SEstañol-columpio.jpg "Columpio en la playa S'Estañol. © Pedro Grifol.")
 
@@ -164,11 +164,9 @@ Oficina de Turismo de Santa Eulària: www.santaeulariaibiza.travel
 
 📌 **También te puede interesar:** 
 
-[Ibiza en invierno también merece una 
-escapada](https://etheriamagazine.com/2021/11/05/planes-viaje-a-ibiza-en-invierno/) 
+{{< reflink path=posts/2021/11/planes-viaje-a-ibiza-en-invierno >}} 
 
-[20 restaurantes románticos de Ibiza para ir en 
-pareja](https://etheriamagazine.com/2020/02/14/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja/) 
+{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
+>}} 
 
-[Sal i Reïm y Es Caliu, más allá de una experiencia gastro en 
-Ibiza](https://etheriamagazine.com/2022/12/02/restaurantes-ibiza-sal-i-reim-es-caliu/)
+{{< reflink path=posts/2022/12/restaurantes-ibiza-sal-i-reim-es-caliu >}}

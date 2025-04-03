@@ -1,17 +1,17 @@
 ---
 title: "Guía esencial de Cantabria, visitas que no puedes perderte"
 date: 2022-09-05
-coverImage: https://fotos.etheriamagazine.com/2022/09/puente-hombre-pez-Lierganes.jpg
+cover: https://fotos.etheriamagazine.com/2022/09/puente-hombre-pez-Lierganes.jpg
 destino: 
   - España
 authors: 
   - Juan Carlos y Mar
 ---
 
-Cantabria en un destino perfecto para visitar durante todo el año, así que no te lo 
+**Cantabria en un destino perfecto para visitar durante todo el año, así que no te lo 
 pienses más y prepárate para recorrer esta apasionante región. A tu ritmo, escápate 
 cuando quieras y comprueba que, después de conocer estos 15 lugares imprescindibles 
-adonde ir en Cantabria, habrás pisado el paraíso. 
+adonde ir en Cantabria, habrás pisado el paraíso.** 
 
 ![Mogroviejo, uno de los pueblos más bonitos de Cantabria.](https://fotos.etheriamagazine.com/2022/09/cantabria-mogrovejo-pueblo-bonito.jpg "Mogroviejo, uno de los pueblos más bonitos de Cantabria.")
 
@@ -64,8 +64,8 @@ tentadora invitación hasta avistar el **cabo Mayor** a mar abierto.
 
 ![Palacio de la Magdalena y faro al fondo, en la bahía de Santander.](https://fotos.etheriamagazine.com/2022/09/santander-palacio-de-la-Magdalena.jpg "Palacio de la Magdalena y faro al fondo, en la bahía de Santander.")
 
-📌 Lee este artículo [si quieres conocer más planes en 
-Santander](https://etheriamagazine.com/2020/09/23/que-ver-y-mejores-restaurantes-de-santander/). 
+📌 Lee este artículo {{< reflink 
+path=posts/2020/09/que-ver-y-mejores-restaurantes-de-santander >}}. 
 
 ## Los pueblos más bonitos de Cantabria (costa y montaña)
 
@@ -142,9 +142,9 @@ acaba con el famoso **chocolate con churros** local.
 📌 El periodo más opulento lo vivió la villa gracias a la **Real Fábrica de Cañones**, 
 primera industria española de altos hornos. Situada en el **barrio de la Cavada,** solo 
 conserva su portada conocida como el **Arco de Carlos III**. Te acordarás de ella si 
-visitas los [lugares imprescindibles de 
-Segovia](https://etheriamagazine.com/2021/03/09/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia/), 
-pues las tuberías del palacio segoviano de La Granja se fabricaron aquí. 
+visitas los {{< reflink 
+path=posts/2021/03/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia >}}, pues 
+las tuberías del palacio segoviano de La Granja se fabricaron aquí. 
 
 ![Hombre Pez junto al Puente Mayor de Liérganes.](https://fotos.etheriamagazine.com/2022/09/puente-hombre-pez-Lierganes.jpg "Hombre Pez junto al Puente Mayor de Liérganes.")
 
@@ -198,14 +198,12 @@ Cantabria para controlar las mercancías hacia el Cantábrico. Desde la capital 
 **Reinosa**, el rumor del río entre fresnos y chopos lleva hasta una imagen de la Virgen 
 del Pilar. Señala el **nacimiento del Ebro** en la **fuentona de Fontibre**. Más al sur 
 quedan caminos ancestrales entre menhires del valle de Valdeolea (no te pierdas las 
-visitas recomendadas en el artículo: [Valle de Valdeolea, 9 rituales para descubrir la 
-esencia de 
-Cantabria](https://etheriamagazine.com/2021/06/04/que-ver-en-valle-de-valdeolea-cantabria/)). 
+visitas recomendadas en el artículo: {{< reflink 
+path=posts/2021/06/que-ver-en-valle-de-valdeolea-cantabria >}}). 
 
 📌 Otro gran secreto de Cantabria es **Valderredible**, valle de famosas patatas e 
 increíbles ermitas rupestres (un lugar del que también te hemos hablado anteriormente: 
-"[10 poderosas razones para visitar 
-Valderredible](https://etheriamagazine.com/2019/08/26/que-ver-valderredible-cantabria/)"). 
+"{{< reflink path=posts/2019/08/que-ver-valderredible-cantabria >}}"). 
 
 📌 Al **visitar Julióbriga** entra en el **museo Domus**, una reconstrucción de la 
 vivienda romana de una familia de clase media-alta conocida como Casa de los Morillos. 
@@ -296,7 +294,7 @@ Santoña**.
 ![Rocas sobresalen de la arena en Playa de Trengadín, en Cantabria.](https://fotos.etheriamagazine.com/2022/09/cantabria-playa-trengandin.jpg "Playa de Trengadín, en Cantabria.")
 
 Si además de estos lugares imprescindibles adonde ir en Cantabria quieres informarte de 
-próximos eventos y de actualidad en la región, sólo tienes que consultar la web de [Turismo 
-de Cantabria](https://turismodecantabria.com/). 
+próximos eventos y de actualidad en la región, sólo tienes que consultar la web de 
+[Turismo de Cantabria](https://turismodecantabria.com/). 
 
 **\*Fotos cedidas por Turismo de Cantabria.**

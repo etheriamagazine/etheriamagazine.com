@@ -1,7 +1,7 @@
 ---
 title: "Berlín en Navidad: mercadillos, imprescindibles y planes alternativos"
 date: 2024-12-10
-coverImage: https://fotos.etheriamagazine.com/2024/12/berlin-Lucia.jpeg
+cover: https://fotos.etheriamagazine.com/2024/12/berlin-Lucia.jpeg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -100,7 +100,8 @@ sus carpas climatizadas.
 ![: Rotes Rathaus, un imprescindible de la Navidad en Berlín](https://fotos.etheriamagazine.com/2024/12/Berliner-Weihnachtszeit.jpeg "Rotes Rathaus, un imprescindible de la Navidad en Berlín. © Alicia Bea")
 
 Aunque las vistas desde la noria son fantásticas, si quieres disfrutar del espectacular 
-_skyline_ de la capital sin pasar frío y tomándote una copa, sube a la [Fernsehturm](https://www.visitberlin.de/es/la-torre-de-television-de-berlin-berliner-fernsehturm), 
+_skyline_ de la capital sin pasar frío y tomándote una copa, sube a la 
+[Fernsehturm](https://www.visitberlin.de/es/la-torre-de-television-de-berlin-berliner-fernsehturm), 
 la Torre de la Televisión. Observar Berlín a vista de pájaro desde el edificio de acceso 
 público más alto de Europa es un lujo asequible que no te puedes perder. 
 
@@ -215,8 +216,6 @@ funcionan de lujo.
 
 **También en Etheria Magazine** 
 
-[Alemania vive, saborea y disfruta de la 
-Navidad](https://etheriamagazine.com/2020/11/30/alemania-en-navidad-tradiciones-y-adviento/). 
+{{< reflink path=posts/2020/11/alemania-en-navidad-tradiciones-y-adviento >}}. 
 
-[10 experiencias navideñas en Alemania a través de sus 
-länder](https://etheriamagazine.com/2020/12/10/experiencias-navidenas-alemania/).
+{{< reflink path=posts/2020/12/experiencias-navidenas-alemania >}}.

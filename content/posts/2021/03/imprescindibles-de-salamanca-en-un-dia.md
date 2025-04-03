@@ -1,7 +1,7 @@
 ---
 title: "Salamanca en un día, pistas básicas para una visita cultural"
 date: 2021-03-14
-coverImage: https://fotos.etheriamagazine.com/2018/05/2-Viajar-sola-a-Salamanca.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/2-Viajar-sola-a-Salamanca.jpg
 categories: 
   - viajar-sola
   - ocio
@@ -11,9 +11,9 @@ authors:
   - Pepa G. Marín
 ---
 
-Fuera estrés, te contamos los imprescindibles de Salamanca que tienes que visitar si vas 
-un solo día o te quedas un fin de semana corto. Entre estas recomendaciones encontrarás 
-visitas monumentales, experiencias y buen tapeo. ¡Qué más se puede pedir! 
+**Fuera estrés, te contamos los imprescindibles de Salamanca que tienes que visitar si 
+vas un solo día o te quedas un fin de semana corto. Entre estas recomendaciones 
+encontrarás visitas monumentales, experiencias y buen tapeo. ¡Qué más se puede pedir!** 
 
 ![Plaza Mayor de Salamanca](https://fotos.etheriamagazine.com/2018/05/2-Viajar-sola-a-Salamanca.jpg "La Plaza Mayor es el mejor lugar para tomar el pulso a Salamanca. © Etheria Magazine")
 
@@ -179,9 +179,9 @@ Página oficial de Turismo para otras consultas: www.salamanca.es
 
 **También te puede interesar...** 
 
-[Si León no existiera, habría que inventarlo: 10 razones para descubrir la capital de un 
-reino 
-fascinante](https://etheriamagazine.com/2020/12/28/10-razones-para-descubrir-leon-una-capital-unica-y-diferente/). 
+{{< reflink 
+path=posts/2020/12/10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}. 
 
-[Ruta del lechazo: los mejores asadores de Castilla y 
-León](https://etheriamagazine.com/2019/04/25/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon/).
+{{< reflink 
+path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
+>}}.

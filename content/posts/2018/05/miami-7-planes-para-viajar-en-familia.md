@@ -1,7 +1,7 @@
 ---
 title: "Miami con niños: 7 planes para viajar en familia"
 date: 2018-05-09
-coverImage: https://fotos.etheriamagazine.com/2018/05/Miami-Beach.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Miami-Beach.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Susana García
 ---
 
-Miami es un lugar donde es difícil aburrirse con los más pequeños ya que está llena de 
+**Miami es un lugar donde es difícil aburrirse con los más pequeños ya que está llena de 
 posibilidades de ocio para toda la familia. Aquí te contamos 7 planes que no puedes 
-perderte en un viaje con niños a Miami. 
+perderte en un viaje con niños a Miami.** 
 
 ![Miami en familia](https://fotos.etheriamagazine.com/2018/05/Miami-Beach.jpg "Playa de Miami Beach. © SG")
 
@@ -130,8 +130,6 @@ increíbles de la bahía y una carta muy recomendable (con menú infantil).
 
 **También te puede interesar:** 
 
-[8 planes para un viaje con niños a Nueva 
-York](https://etheriamagazine.com/2018/07/23/8-planes-con-ninos-en-nueva-york/) 
+{{< reflink path=posts/2018/07/8-planes-con-ninos-en-nueva-york >}} 
 
-[Crucero Disney por 
-Bahamas](https://etheriamagazine.com/2018/05/04/crucero-familia-disney-bahamas/)
+{{< reflink path=posts/2018/05/crucero-familia-disney-bahamas >}}

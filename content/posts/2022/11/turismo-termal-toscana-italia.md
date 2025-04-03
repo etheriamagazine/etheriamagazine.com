@@ -1,7 +1,7 @@
 ---
 title: "Dónde desconectar en la Toscana, conoce sus mejores termas"
 date: 2022-11-03
-coverImage: https://fotos.etheriamagazine.com/2022/10/Toscana-terme-sensoriali-di-Chianciano.jpg
+cover: https://fotos.etheriamagazine.com/2022/10/Toscana-terme-sensoriali-di-Chianciano.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Redacción Etheria
 ---
 
-Con una cuarta parte de las fuentes termales de toda Italia, la Toscana tiene que estar, 
-sí o sí, entre tus destinos de bienestar favoritos de Europa. Sus ciudades balnearias de 
-referencia son Montecatini Terme, Chianciano Terme y Casciana Terme- Lari pero en toda 
-la región encontrarás grandes propuestas termales. En este artículo te hablamos de 6 
-termas imprescindibles en la Toscana para relajarte y reconectar contigo misma. Toma 
-buena nota. 
+**Con una cuarta parte de las fuentes termales de toda Italia, la Toscana tiene que 
+estar, sí o sí, entre tus destinos de bienestar favoritos de Europa. Sus ciudades 
+balnearias de referencia son Montecatini Terme, Chianciano Terme y Casciana Terme- Lari 
+pero en toda la región encontrarás grandes propuestas termales. En este artículo te 
+hablamos de 6 termas imprescindibles en la Toscana para relajarte y reconectar contigo 
+misma. Toma buena nota.** 
 
 ![Terme di Chianciano.](https://fotos.etheriamagazine.com/2022/10/Toscana-terme-sensoriali-di-Chianciano.jpg "© Termas di Chianciano.")
 

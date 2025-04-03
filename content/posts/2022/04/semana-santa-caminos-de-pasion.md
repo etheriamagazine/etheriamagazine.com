@@ -1,7 +1,7 @@
 ---
 title: "10 visitas que sorprenden en Caminos de Pasión"
 date: 2022-04-04
-coverImage: https://fotos.etheriamagazine.com/2022/04/lucena-caminos-pasion.jpg
+cover: https://fotos.etheriamagazine.com/2022/04/lucena-caminos-pasion.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -266,11 +266,8 @@ Pasión](https://www.caminosdepasion.com/).
 
 **Sigue viajando por Andalucía...** 
 
-[Caminos de Pasión: 10 pueblos andaluces a través de 10 mujeres 
-apasionadas](https://etheriamagazine.com/2019/12/06/caminos-pasion-ruta-10-pueblos-de-andalucia/). 
+{{< reflink path=posts/2019/12/caminos-pasion-ruta-10-pueblos-de-andalucia >}}. 
 
-[Ruta del Vino Montilla-Moriles, 20 años brindando en el corazón de 
-Andalucía](https://etheriamagazine.com/2022/01/11/ruta-del-vino-montilla-moriles-20-aniversario/). 
+{{< reflink path=posts/2022/01/ruta-del-vino-montilla-moriles-20-aniversario >}}. 
 
-[Guía básica para una ruta en autocaravana por la Subbética 
-Cordobesa](https://etheriamagazine.com/2022/03/23/ruta-autocaravana-en-cordoba/).
+{{< reflink path=posts/2022/03/ruta-autocaravana-en-cordoba >}}.

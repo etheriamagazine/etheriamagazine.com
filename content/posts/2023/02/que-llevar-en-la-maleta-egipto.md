@@ -1,7 +1,7 @@
 ---
 title: "Qué llevar en la maleta en un viaje a Egipto"
 date: 2023-02-01
-coverImage: https://fotos.etheriamagazine.com/2023/01/mujer-abu-simbel.jpg
+cover: https://fotos.etheriamagazine.com/2023/01/mujer-abu-simbel.jpg
 categories: 
   - qué-llevar-en-la-maleta
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Los viajes tienen tres momentos: prepararlos, disfrutarlos y recordarlos. En la primera 
-fase es fundamental la organización de una buena maleta con todo lo necesario para 
-disfrutar después a tope del país. En este artículo contamos qué llevar en la maleta en 
-un viaje a Egipto para que no te falte de nada. 
+**Los viajes tienen tres momentos: prepararlos, disfrutarlos y recordarlos. En la 
+primera fase es fundamental la organización de una buena maleta con todo lo necesario 
+para disfrutar después a tope del país. En este artículo contamos qué llevar en la 
+maleta en un viaje a Egipto para que no te falte de nada.** 
 
 ![Mujer en las Pirámides de Giza](https://fotos.etheriamagazine.com/2023/01/mujer-piramides-egipto.jpg "¿A que siempre has querido viajar a Egipto?")
 
@@ -68,10 +68,11 @@ a bordo muy recomendable para aliviar el calor en las horas centrales del día.
 ## Calzado
 
 En Egipto es fundamental llevar un calzado cómodo y traspirable. Por ejemplo, unas 
-**Yuccs**, que están realizadas con tejidos naturales, o unas [Skechers](https://amzn.to/3HvjXe7) 
-son una muy buena opción. También puedes optar para algunas excursiones por unas [sandalias 
-de trekking](https://amzn.to/3kEWgHb). Para las noches, no olvides unas sandalias negras 
-con poco tacón, que te irán bien con cualquier pantalón o vestido. 
+**Yuccs**, que están realizadas con tejidos naturales, o unas 
+[Skechers](https://amzn.to/3HvjXe7) son una muy buena opción. También puedes optar para 
+algunas excursiones por unas [sandalias de trekking](https://amzn.to/3kEWgHb). Para las 
+noches, no olvides unas sandalias negras con poco tacón, que te irán bien con cualquier 
+pantalón o vestido. 
 
 ![Deportivas y sandalias de trekking ideales para un viaje a Egipto](https://fotos.etheriamagazine.com/2023/01/egipto-calzado.jpg "Deportivas y sandalias de trekking.")
 
@@ -80,18 +81,19 @@ con poco tacón, que te irán bien con cualquier pantalón o vestido.
 La clave en un viaje en el que no quieres llevar demasiadas cosas es que las que elijas 
 sean versátiles. En Egipto vas a estar todos los días de excursión, por lo que te vendrá 
 muy bien una mochila pequeña y cómoda para llevar lo que necesitas en el día (agua, 
-crema solar, gorra…). En Amazon hay algunos modelos plegables como estas de [Zomake](https://amzn.to/3H33FHK) 
-disponibles en varios colores. 
+crema solar, gorra…). En Amazon hay algunos modelos plegables como estas de 
+[Zomake](https://amzn.to/3H33FHK) disponibles en varios colores. 
 
 ![Entre las cosas que llevar en la maleta en un viaje a Egipto no pueden faltar una mochila y varios foulards](https://fotos.etheriamagazine.com/2023/01/egipto-accesorios.jpg "Lleva siempre un pañuelo grande en tu mochila. Éstos están disponibles en Amazon.")
 
 En Egipto te será muy útil tener siempre a mano un **pañuelo grande o foulard**. Si 
 estás en El Cairo y vas a entrar a una mezquita, te vendrá muy bien para cubrirte, y 
 también te protegerá de los aires acondicionados de museos y restaurantes y del sol 
-durante las excursiones. En Amazon puedes encontrar el de [StyleBreaker](https://amzn.to/3wyPR2U) 
-en varios colores, con un tamaño perfecto y que no se arruga. Si te gustan los 
-estampados más alegres y arriesgados, [Desigual](https://amzn.to/3Dj3BCS) tiene opciones 
-muy coloridas como ésta disponible en Amazon que te proponemos. 
+durante las excursiones. En Amazon puedes encontrar el de 
+[StyleBreaker](https://amzn.to/3wyPR2U) en varios colores, con un tamaño perfecto y que 
+no se arruga. Si te gustan los estampados más alegres y arriesgados, 
+[Desigual](https://amzn.to/3Dj3BCS) tiene opciones muy coloridas como ésta disponible en 
+Amazon que te proponemos. 
 
 Otros accesorios que hay que llevar en la maleta en un viaje a Egipto son unas buenas 
 **gafas de sol**, una **gorra** o **sombrero** (imprescindible para la visita del Valle 
@@ -104,10 +106,11 @@ casos nuestra cámara de fotos (hay [ofertas del iPhone 12 pro Max desde algo m�
 €](https://amzn.to/3Rfs01X)), tenemos que asegurarnos de llevarlo siempre encima y 
 cargado, ya que en Egipto encontrarás mil lugares que fotografiar, desde las altas 
 pirámides a los detalles de los bazares. No puedes olvidar, además del cargador, una 
-batería extra, en Amazon encontrarás algunas pequeñas y de poco peso como ésta de [iWalk](https://amzn.to/3DinPwx) 
-con la que puedes seguir usando el móvil aunque lo lleve incorporado. También será muy 
-práctico un trípode, el de [Atumtek](https://amzn.to/3wBVD46) es además palo selfie, 
-ocupa muy poco espacio y tiene mando a distancia. 
+batería extra, en Amazon encontrarás algunas pequeñas y de poco peso como ésta de 
+[iWalk](https://amzn.to/3DinPwx) con la que puedes seguir usando el móvil aunque lo 
+lleve incorporado. También será muy práctico un trípode, el de 
+[Atumtek](https://amzn.to/3wBVD46) es además palo selfie, ocupa muy poco espacio y tiene 
+mando a distancia. 
 
 ![Batería portátil para móvil y trípode-palo de selfie, esenciales para un viaje a Egipto](https://fotos.etheriamagazine.com/2023/01/egipto-gadgets.jpg "Batería portátil para móvil y trípode-palo de selfie.")
 
@@ -129,9 +132,9 @@ España. No te hará falta llevar adaptador.
 
 Continuamos con las recomendaciones de artículos que hay que llevar en la maleta a 
 Egipto con el neceser. Lo primero es elegir de qué tipo y de ello ya te hemos hablado en 
-Etheria Magazine y lo puedes consultar en [7 neceseres para mujeres 
-viajeras](https://etheriamagazine.com/2019/10/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras/), 
-donde te proponemos algunos modelos que resultan muy cómodos durante el viaje. 
+Etheria Magazine y lo puedes consultar en {{< reflink 
+path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}}, donde te 
+proponemos algunos modelos que resultan muy cómodos durante el viaje. 
 
 Para un itinerario de una semana puedes olvidar los botes grandes, utiliza unos [botes 
 de viaje de silicona](https://amzn.to/408A6xu) para ahorrar espacio (y que se pueden 
@@ -183,9 +186,9 @@ antes de viajar, ya que es tanta la información histórica que vas a recibir du
 viaje que será difícil de asimilar si no tienes algún conocimiento previo. 
 
 ✅ En Etheria Magazine ya preparamos un artículo dedicado a libros y películas que te 
-ayudarán a ambientarte antes del viaje ( [Prepara tu viaje a Egipto con libros y 
-películas](https://etheriamagazine.com/2021/03/01/organizar-viaje-a-egipto-y-documentar-con-libros-peliculas/)). 
-Las guías que te recomendamos son ‘[Egipto](https://amzn.to/3HCC6GI)’ (2019), de Lonely 
+ayudarán a ambientarte antes del viaje ( {{< reflink 
+path=posts/2021/03/organizar-viaje-a-egipto-y-documentar-con-libros-peliculas >}}). Las 
+guías que te recomendamos son ‘[Egipto](https://amzn.to/3HCC6GI)’ (2019), de Lonely 
 Planet; ‘[Un corto viaje a Egipto](https://amzn.to/3RcOfFI)’ (2020) de Guiarama (Anaya 
 Touring); y ‘[El Cairo, Luxor, Valle de los Reyes, Asuán, Abu 
 Simbel](https://amzn.to/3JiFGqU)’ (2018) de Ediciones Gaesa (si está sin stock, 
@@ -213,11 +216,8 @@ libras para pagos pequeños o propinas.
 
 **También te puede interesar:** 
 
-[Qué llevar en la maleta en un viaje a 
-Jordania](https://etheriamagazine.com/2020/01/23/que-llevar-en-la-maleta-en-un-viaje-a-jordania/) 
+{{< reflink path=posts/2020/01/que-llevar-en-la-maleta-en-un-viaje-a-jordania >}} 
 
-[Qué llevar en la maleta para un viaje a 
-Tailandia](https://etheriamagazine.com/2020/01/02/que-llevar-en-maleta-viaje-tailandia/) 
+{{< reflink path=posts/2020/01/que-llevar-en-maleta-viaje-tailandia >}} 
 
-[Claves básicas para elegir la mejor maleta para tu 
-viaje](https://etheriamagazine.com/2019/06/05/claves-elegir-mejor-maleta-para-viajar/)
+{{< reflink path=posts/2019/06/claves-elegir-mejor-maleta-para-viajar >}}

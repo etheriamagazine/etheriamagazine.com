@@ -1,7 +1,7 @@
 ---
 title: "Visitas en Ámsterdam para un finde con tu madre"
 date: 2018-09-25
-coverImage: https://fotos.etheriamagazine.com/2018/09/Lot-Sixty-One-Kinkerstraat-Koen-Smilde-Photography-Rechtenvrij.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/Lot-Sixty-One-Kinkerstraat-Koen-Smilde-Photography-Rechtenvrij.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Cristina R. Bareño
 ---
 
-Ámsterdam es la ciudad ideal para pasear en bicicleta, navegar por sus canales o 
+**Ámsterdam es la ciudad ideal para pasear en bicicleta, navegar por sus canales o 
 evadirte en alguno de sus interesantes museos, también para que hagas una escapada con 
-la mejor de las compañías: tu madre. 
+la mejor de las compañías: tu madre.** 
 
 ![Anochece sobre los canales de Amsterdam.](https://fotos.etheriamagazine.com/2018/09/viajar-amsterdam.jpg "Anochece sobre los canales de Amsterdam.")
 
@@ -189,5 +189,4 @@ acompañadas de un auténtico _Bloody Mary._
 
 **También te puede interesar...** 
 
-[Museo NEMO en Ámsterdam, ciencia al alcance de la 
-mano](https://etheriamagazine.com/2018/10/06/museo-nemo-en-amsterdam-ciencia-para-toda-la-familia/)
+{{< reflink path=posts/2018/10/museo-nemo-en-amsterdam-ciencia-para-toda-la-familia >}}

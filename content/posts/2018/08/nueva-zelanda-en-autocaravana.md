@@ -1,7 +1,7 @@
 ---
 title: "Cómo organizar un viaje a Nueva Zelanda en autocaravana"
 date: 2018-08-21
-coverImage: https://fotos.etheriamagazine.com/2018/08/viaje-nueva-zelanda-caravana-Hobbiton.jpg
+cover: https://fotos.etheriamagazine.com/2018/08/viaje-nueva-zelanda-caravana-Hobbiton.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -12,10 +12,10 @@ authors:
   - Cristina R. Bareño
 ---
 
-Naturaleza extrema, inmensos paisajes de ensueño, la posibilidad de experimentar un 
+**Naturaleza extrema, inmensos paisajes de ensueño, la posibilidad de experimentar un 
 silencio profundo y sentir una desconexión infinita… Nueva Zelanda es, sin duda, uno de 
 los destinos que se deben visitar al menos una vez en la vida y hacerlo en autocaravana 
-es un plan perfecto. 
+es un plan perfecto.** 
 
 ![Monte Cook, Nueva Zelanda.](https://fotos.etheriamagazine.com/2018/08/viaje-caravana-nueva-zelanda-Mount-Cook.jpg "Monte Cook, Nueva Zelanda. ©CRB")
 
@@ -80,8 +80,9 @@ prohibido pasar la noche.
 De Norte a Sur, realizamos una ruta por los lugares imprescindibles de Nueva Zelanda. 
 Para ello, es necesario cruzar en _ferry_ el **estrecho de Cook, que va desde Wellington 
 hasta Picton**, una travesía de tres horas en la que podemos incluir el transporte de 
-nuestra autocaravana y operada por dos únicas compañías: [Interislander](https://www.greatjourneysofnz.co.nz/interislander) 
-y [Bluebridge](https://www.bluebridge.co.nz/). 
+nuestra autocaravana y operada por dos únicas compañías: 
+[Interislander](https://www.greatjourneysofnz.co.nz/interislander) y 
+[Bluebridge](https://www.bluebridge.co.nz/). 
 
 ### Auckland
 
@@ -246,11 +247,9 @@ Zealand](https://www.newzealand.com/int/).
 
 📌 **También te puede interesar:** 
 
-[Viaja sola a Nueva Zelanda y disfruta de la naturaleza haciendo 
-trekking](https://etheriamagazine.com/2019/08/28/viaja-sola-a-nueva-zelanda-y-disfruta-de-la-naturaleza-trekking/) 
+{{< reflink 
+path=posts/2019/08/viaja-sola-a-nueva-zelanda-y-disfruta-de-la-naturaleza-trekking >}} 
 
-[Andalucía en autocaravana y consejos prácticos para 
-novatos](https://etheriamagazine.com/2021/04/07/consejos-rutas-andalucia-en-autocaravana/) 
+{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}} 
 
-[5 rutas en autocaravana por España para disfrutar de mar y de 
-montaña](https://etheriamagazine.com/2020/07/23/5-rutas-en-auto-caravana-por-espana/)
+{{< reflink path=posts/2020/07/5-rutas-en-auto-caravana-por-espana >}}

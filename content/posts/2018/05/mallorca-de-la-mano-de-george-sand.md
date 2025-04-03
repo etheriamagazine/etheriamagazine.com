@@ -1,7 +1,7 @@
 ---
 title: "Por qué a George Sand no le gustó Mallorca"
 date: 2018-05-16
-coverImage: https://fotos.etheriamagazine.com/2018/05/mallorca-3257130_1920-e1558282089298.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/mallorca-3257130_1920-e1558282089298.jpg
 categories: 
   - historias
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Pilar Ortega
 ---
 
-George Sand descubrió hace casi dos siglos una isla de Mallorca completamente distinta 
+**George Sand descubrió hace casi dos siglos una isla de Mallorca completamente distinta 
 de la que podemos percibir en la actualidad. A través de sus testimonios conocemos la 
-impresión que obtuvo de sus paisajes y de sus gentes. 
+impresión que obtuvo de sus paisajes y de sus gentes.** 
 
 ![Torre de la cartuja de Valldemossa.](https://fotos.etheriamagazine.com/2018/05/iglesia-valldemossa.jpg "Torre de la cartuja de Valldemossa. © Zoran Borojevic")
 
@@ -185,4 +185,4 @@ algún yugo que sacudir?”.
 
 1. El [libro biográfico de George Sand](https://amzn.to/3lXzz1w).
 2. Una versión de '[Un invierno en Mallorca' en papel](https://amzn.to/3m92orP).
-3. Leer: [Palma con amigas: 8 planazos para exprimir la capital de Mallorca](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palma-mallorca-con-amigas/).
+3. Leer: {{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}.

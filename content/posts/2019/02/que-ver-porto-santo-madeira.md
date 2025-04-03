@@ -1,7 +1,7 @@
 ---
 title: "Por qué visitar Porto Santo si viajas a Madeira"
 date: 2019-02-05
-coverImage: https://fotos.etheriamagazine.com/2019/02/Porto-Santo-mirador-e1562660291487.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/Porto-Santo-mirador-e1562660291487.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Porto Santo siempre será la hermana pequeña de Madeira pero, no por ello, es una 
+**Porto Santo siempre será la hermana pequeña de Madeira pero, no por ello, es una 
 segundona. De hecho, lo que te proponemos es que rompas la norma y conviertas esta isla 
 en tu destino principal de vacaciones en el archipiélago madeirense. Si quiere saber qué 
-ver en Porto o por qué deberías visitarla, sigue leyendo. 
+ver en Porto o por qué deberías visitarla, sigue leyendo.** 
 
 ![Mirador de Portela, las mejores vistas de Porto Santo.](https://fotos.etheriamagazine.com/2019/02/Porto-Santo-mirador.jpg "Mirador de Portela, las mejores vistas de Porto Santo. © P.G.")
 
@@ -35,8 +35,8 @@ de pescado y mariscos. Los vinos tienen un sabor singular, pruébalos a ver si t
 En Porto Santo hay alguna bodega pero la mayoría llegan de la vecina Madeira. Si no te 
 gusta arriesgar, siempre puedes optar por una cerveza Coral. 
 
-**📍No te pierdas el artículo:** [Qué comer en 
-Madeira](https://etheriamagazine.com/2022/08/30/que-comer-en-madeira/). 
+**📍No te pierdas el artículo:** {{< reflink path=posts/2022/08/que-comer-en-madeira 
+>}}. 
 
 ## Qué ver en Porto Santo
 
@@ -47,8 +47,7 @@ Lisboa. Puedes aprovechar la escala para dar una vuelta por Funchal y luego toma
 vuelo a Porto Santo o bien un ferry que te permitirá ir disfrutando de la brisa y el 
 color del océano. 
 
-**📍No te pierdas el artículo:** [Qué ver en 
-Funchal](https://etheriamagazine.com/2022/08/08/que-ver-funchal/). 
+**📍No te pierdas el artículo:** {{< reflink path=posts/2022/08/que-ver-funchal >}}. 
 
 Si optas por **el ferry**, el barco te dejará muy cerca de Vila Baleira, la capital de 
 Porto Santo, un buen lugar para reservar alojamiento si quieres tener cerca algo de 
@@ -150,23 +149,26 @@ cooperación con la empresa murciana **Buggypower**.
 
 ### Dónde dormir
 
-• **Hotel Pestana Porto Santo.** Está situado junto a la mejor playa de la isla y 
+- **Hotel Pestana Porto Santo.** Está situado junto a la mejor playa de la isla y 
 rodeado de un bonito jardín tropical. Cuenta con piscinas, gimnasio, pista de tenis... y 
 funciona como un 'todo incluido'. Abre a partir del 1 de mayo de 2019. Tel. +351 291 144 
-000 • **Hotel Porto Santo & Spa**. 4 estrellas. Habitaciones, algunas con jardín 
-privado, y villas junto a un palmeral. Dispone de spa y restaurantes. Tel. 351 291 980 
-140 
+000 
+
+- **Hotel Porto Santo & Spa**. 4 estrellas. Habitaciones, algunas con jardín privado, y 
+villas junto a un palmeral. Dispone de spa y restaurantes. Tel. 351 291 980 140 
 
 Hay muchos más hoteles, solo tienes que consultar la web de información de Porto Santo 
 para localizar otros que se adapten a tus necesidades concretas. 
 
 ### Cómo moverse
 
-• Si quieres hacer una excursión a Madeira puedes ir en ferry con el barco Lobo Marinho 
+- Si quieres hacer una excursión a Madeira puedes ir en ferry con el barco Lobo Marinho 
 (2 horas y media), de la empresa Porto Santo Line (www.portosantoline.pt). También te 
-permite llevar el coche. • Para moverte por la isla tienes la opción de contratar 
-excursiones privadas, a nosotras nos encantó la que hicimos con Lazermar.com, o bien 
-alquilar un coche. Allí operan Sixt, Rodavante VI y Moinho Rent a car III. 
+permite llevar el coche. 
+
+- Para moverte por la isla tienes la opción de contratar excursiones privadas, a 
+nosotras nos encantó la que hicimos con Lazermar.com, o bien alquilar un coche. Allí 
+operan Sixt, Rodavante VI y Moinho Rent a car III. 
 
 ### Rutas a pie
 

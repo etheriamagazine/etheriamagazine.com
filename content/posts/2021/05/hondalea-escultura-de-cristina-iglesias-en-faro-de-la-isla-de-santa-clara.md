@@ -1,7 +1,7 @@
 ---
 title: "'Hondalea', la escultura de Cristina Iglesias que ilumina el faro de la isla de Santa Clara"
 date: 2021-05-04
-coverImage: https://fotos.etheriamagazine.com/2021/05/hondalea-faro-isla-santa-clara-Cristina-Iglesias.jpg
+cover: https://fotos.etheriamagazine.com/2021/05/hondalea-faro-isla-santa-clara-Cristina-Iglesias.jpg
 categories: 
   - ocio
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Redacción Etheria
 ---
 
-Desde el 1 junio y hasta el 30 de septiembre de 2023, la Casa del Faro de la isla de 
+**Desde el 1 junio y hasta el 30 de septiembre de 2023, la Casa del Faro de la isla de 
 Santa Clara abre nuevamente sus puertas para mostrar 'Hondalea', la instalación de 
 Cristina Iglesias. Las visitas se realizan cada 30 minutos, tienen una duración de 20 
 minutos y se hacen entre las 11 y las 18.30 horas. La entrada es gratuita pero el 
 traslado corre a cargo del visitante. Las visitas guiadas este año han bajado un poco de 
-precio. 
+precio.** 
 
 ![hondalea escultura de faro de santa clara](https://fotos.etheriamagazine.com/2021/05/hondalea-faro-isla-santa-clara-Cristina-Iglesias.jpg "Hondalea en proceso de construcción. © J.Luis López de Zubiria")
 
@@ -102,11 +102,11 @@ bahía. Los menores de 4 años viajan gratuitamente.
 
 **También te puede interesar…** 
 
-[Planes para un fin de semana en San Sebastián: seguro que no te 
-aburres](https://etheriamagazine.com/2021/04/01/que-ver-hacer-en-san-sebastian/). 
+{{< reflink path=posts/2021/04/que-ver-hacer-en-san-sebastian >}}. 
 
-[Descubre los mejores bares de pintxos de San Sebastián para ir con 
-amigas](https://etheriamagazine.com/2019/11/08/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas/). 
+{{< reflink 
+path=posts/2019/11/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas 
+>}}. 
 
-[Mercure San Sebastián Monte Igueldo, las mejores vistas de 
-Donostia](https://etheriamagazine.com/2020/06/25/hotel-mercure-san-sebastian-monte-igueldo-con-vistas-de-donostia/).
+{{< reflink 
+path=posts/2020/06/hotel-mercure-san-sebastian-monte-igueldo-con-vistas-de-donostia >}}.

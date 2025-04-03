@@ -1,7 +1,7 @@
 ---
 title: "Sofía Casanova, una poetisa gallega en Polonia"
 date: 2018-09-10
-coverImage: https://fotos.etheriamagazine.com/2018/09/Sofia-Casanova-Poznan.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/Sofia-Casanova-Poznan.jpg
 categories: 
   - historias
   - mujeres-top
@@ -153,8 +153,6 @@ Puedes ampliar información en [Turismo de Polonia](https://www.polonia.travel/e
 
 ### Te puede interesar
 
-[Tres rutas para recorrer Varsovia, una ciudad 
-sorprendente](https://etheriamagazine.com/2021/03/05/que-ver-en-varsovia-en-tres-rutas-originales/). 
+{{< reflink path=posts/2021/03/que-ver-en-varsovia-en-tres-rutas-originales >}}. 
 
-[Descubre Zakopane, su arquitectura de madera, sabores y estaciones de 
-esquí](https://etheriamagazine.com/2021/01/27/que-ver-en-zakopane-viaje-original-polonia/).
+{{< reflink path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}}.

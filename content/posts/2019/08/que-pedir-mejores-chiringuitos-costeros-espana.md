@@ -1,7 +1,7 @@
 ---
 title: "Una vuelta a España por sus mejores chiringuitos"
 date: 2019-08-05
-coverImage: https://fotos.etheriamagazine.com/2019/07/mejores-chiringuitos-el-bigotes-ibiza.jpg
+cover: https://fotos.etheriamagazine.com/2019/07/mejores-chiringuitos-el-bigotes-ibiza.jpg
 categories: 
   - viajar-con-amigas
 destino: 

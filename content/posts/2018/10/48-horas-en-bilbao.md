@@ -1,7 +1,7 @@
 ---
 title: "Rutas básicas en Bilbao para un fin de semana"
 date: 2018-10-22
-coverImage: https://fotos.etheriamagazine.com/2018/10/viaje-bilbao-puente.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/viaje-bilbao-puente.jpg
 categories: 
   - viajar-con-amigas
   - viajar-sola
@@ -116,7 +116,8 @@ de los viandantes.
 Esta zona es mucho más tranquila que las Siete Calles donde los jóvenes, y no tanto, se 
 agolpan en corrillos a la entrada de los bares desafiando el frío en invierno. Entre los 
 muchos establecimientos recomendables destacan por incluir pinchos y comida vegana: 
-**Tirauki**, con sabrosas tortillas y bocados dulces; **La Camelia**, con sushi bio; y [Baobab](http://www.baobabteteria.com). 
+**Tirauki**, con sabrosas tortillas y bocados dulces; **La Camelia**, con sushi bio; y 
+[Baobab](http://www.baobabteteria.com). 
 
 #### Restaurantes más afamados
 
@@ -124,24 +125,27 @@ Aunque lo tradicional es salir a tomar esta cocina en miniatura, los mismos bilb
 reconocen que resulta caro comer solo con ellas. Lo más recomendable es picar algunas y 
 luego entrar en un restaurante. Los hay tradicionales como el [Asador 
 Guetaria](http://www.guetaria.com/) o el [Café Iruña](https://www.cafeirunabilbao.net/), 
-y también con un toque innovador como [Mina](http://www.restaurantemina.es/), [Etxanobe](https://etxanobe.com/) 
-(con 'La Despensa de Etxanobe' y 'El Atelier de Etxanobe'), [Yandiola](http://www.yandiola.com/) 
-(en la Alhóndiga), [Bascook](http://www.bascook.com/) (del cocinero Aitor Elizegi) y [Kokken](http://restaurantekokken.com/) 
-que, con _look_ nórdico, ofrece elaboraciones sencillas con ingredientes de calidad. 
-Aunque no esté en Bilbao (sino en Larrabetzu) no podemos dejar de recomendar el 
-restaurante de Eneko Atxa, [Azurmendi](https://azurmendi.restaurant/), que cuenta con 
-tres estrellas Michelin. Disfrutar de las terrazas no siempre es posible pero si amanece 
-uno de esos días de invierno soleados es un placer sentarse junto a la ría. 
+y también con un toque innovador como [Mina](http://www.restaurantemina.es/), 
+[Etxanobe](https://etxanobe.com/) (con 'La Despensa de Etxanobe' y 'El Atelier de 
+Etxanobe'), [Yandiola](http://www.yandiola.com/) (en la Alhóndiga), 
+[Bascook](http://www.bascook.com/) (del cocinero Aitor Elizegi) y 
+[Kokken](http://restaurantekokken.com/) que, con _look_ nórdico, ofrece elaboraciones 
+sencillas con ingredientes de calidad. Aunque no esté en Bilbao (sino en Larrabetzu) no 
+podemos dejar de recomendar el restaurante de Eneko Atxa, 
+[Azurmendi](https://azurmendi.restaurant/), que cuenta con tres estrellas Michelin. 
+Disfrutar de las terrazas no siempre es posible pero si amanece uno de esos días de 
+invierno soleados es un placer sentarse junto a la ría. 
 
 ![compras en bilbao, que ver en bilbao](https://fotos.etheriamagazine.com/2018/10/viaje-bilbao-tiendas.jpg "Bilbao cuenta con tiendas-boutique muy originales.")
 
 ## 3\. Ruta de compras
 
-Tras un largo paseo, ¿os apetece un té o un café? [Bihotz](https://www.facebook.com/bihotzsanfrancisco/) 
-es un local con aire _hipster_ que invita a hundirse en sus sillones de cuero y degustar 
-una sabrosa merienda maridada con una buena charla. Si coincide además con el domingo, 
-cerca se encuentra el **Mercado del Dos de Mayo**. Aprovechad para pasear entre sus 
-puestos. Venden todo tipo de mercancía: productos artesanos, vintage, de segunda mano... 
+Tras un largo paseo, ¿os apetece un té o un café? 
+[Bihotz](https://www.facebook.com/bihotzsanfrancisco/) es un local con aire _hipster_ 
+que invita a hundirse en sus sillones de cuero y degustar una sabrosa merienda maridada 
+con una buena charla. Si coincide además con el domingo, cerca se encuentra el **Mercado 
+del Dos de Mayo**. Aprovechad para pasear entre sus puestos. Venden todo tipo de 
+mercancía: productos artesanos, vintage, de segunda mano... 
 
 También muy original es [Ätakontu](http://www.atakontu.es/), que funciona como taller y 
 sus creadores diseñan, cortan, estampan y confeccionan sus creaciones. Con un sello 
@@ -151,10 +155,11 @@ euskera. Nació en Guipúzcoa y con este nombre quisieron marcar cuál era el ti
 clientes al que se dirigían: mujeres fuertes, que se hacen preguntas y buscan ropa 
 actual sin la esclavitud de las tendencias. 
 
-Y, por último, unos auténticos expertos en la expansión: [Skunkfunk](https://www.skunkfunk.com/es/), 
-que ya tienen presencia en cuatro continentes. Su fundador, Mikel Feijoo Elzo, que 
-comenzó diseñando camisetas para conciertos, ha logrado diferenciarse con una moda que 
-sigue las tendencias pero con una apuesta firme por la sostenibilidad. 
+Y, por último, unos auténticos expertos en la expansión: 
+[Skunkfunk](https://www.skunkfunk.com/es/), que ya tienen presencia en cuatro 
+continentes. Su fundador, Mikel Feijoo Elzo, que comenzó diseñando camisetas para 
+conciertos, ha logrado diferenciarse con una moda que sigue las tendencias pero con una 
+apuesta firme por la sostenibilidad. 
 
 ![que ver en bilbao, arquitectos bilbao](https://fotos.etheriamagazine.com/2018/10/viaje-bilbao-puente.jpg "Paseo arquitectónico por Bilbao.")
 
@@ -185,11 +190,8 @@ representantes de esta ciudad.
 
 ## También te interesa leer...
 
-[10 planes originales en Bilbao con 
-amigas](https://etheriamagazine.com/2020/09/09/10-planes-originales-en-bilbao-con-amigas/). 
+{{< reflink path=posts/2020/09/10-planes-originales-en-bilbao-con-amigas >}}. 
 
-[Bilbao en clave ‘gastro’ para una escapada con 
-amigas](https://etheriamagazine.com/2019/12/23/finde-bilbao-con-amigas-mejores-restaurantes/). 
+{{< reflink path=posts/2019/12/finde-bilbao-con-amigas-mejores-restaurantes >}}. 
 
-[Aste Nagusia 2019, la Semana Grande de 
-Bilbao](https://etheriamagazine.com/2019/07/29/que-hacer-bilbao-semana-grande-aste-nagusia-2019/).
+{{< reflink path=posts/2019/07/que-hacer-bilbao-semana-grande-aste-nagusia-2019 >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Viajar sola a la costa de Montenegro: 6 lugares imprescindibles"
 date: 2020-06-29
-coverImage: https://fotos.etheriamagazine.com/2020/06/Montenegro-Sveti-Stefan-mar.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/Montenegro-Sveti-Stefan-mar.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -83,12 +83,18 @@ parten de Venecia.
 
 ![viaja sola, viajar a la costa del Adriático, viajar con amigas](https://fotos.etheriamagazine.com/2020/06/Montenegro-Kotor.jpg "Kotor.")
 
-Entre las actividades que se pueden hacer en Kotor no te puedes perder: • Caminar sin 
-rumbo por las calles que llevan a su Stari grad. • Ascender 13 km hasta **Krsrac** y 
-reponer fuerzas en su restaurante, una vez en la cima. • Caminar por el pequeño **puerto 
-de Kotor**, con sus no tan pequeños yates y cruceros. • Ser muy ambicioso y querer 
-conseguir otra panorámica de la ciudad, esta vez, desde la **península de Vmrac**. • 
-Visitar **Perast** y su pintoresca **isla de Gospe od Škrpjela**. 
+Entre las actividades que se pueden hacer en Kotor no te puedes perder: 
+
+- Caminar sin rumbo por las calles que llevan a su Stari grad. 
+
+- Ascender 13 km hasta **Krsrac** y reponer fuerzas en su restaurante, una vez en la 
+cima. 
+
+- Caminar por el pequeño **puerto de Kotor**, con sus no tan pequeños yates y cruceros. 
+- Ser muy ambicioso y querer conseguir otra panorámica de la ciudad, esta vez, desde la 
+**península de Vmrac**. 
+
+- Visitar **Perast** y su pintoresca **isla de Gospe od Škrpjela**. 
 
 ## 3\. Perast, una ciudad de cuento
 
@@ -113,9 +119,8 @@ camino entre la entrada a la bahía y la ciudad amurallada.
 Poco queda de aquella ciudad de aire aristocrático. Hoy en día, **16 iglesias católicas 
 y 17 grandes _palazzos_** forman la historia de Perast. La gran mayoría de edificios han 
 sido habilitados como alojamientos turísticos para aquellos que deseen revivir la edad 
-dorada de la ciudad. Uno de ellos es el [hotel Iberostar Grand 
-Perast](https://etheriamagazine.com/2018/08/29/hotel-iberostar-perast-montenegro/) donde 
-merece la pena alojarse. 
+dorada de la ciudad. Uno de ellos es el {{< reflink 
+path=posts/2018/08/hotel-iberostar-perast-montenegro >}} donde merece la pena alojarse. 
 
 ![viaja sola, viajar a la costa del Adriático, viajar con amigas](https://fotos.etheriamagazine.com/2020/06/Montenegro-Perast-mar.jpg "Perast desde el mar. © Albert Hiseni")
 
@@ -237,8 +242,6 @@ barco](https://www.civitatis.com/es/kotor/excursion-cueva-azul-nuestra-senora-ro
 
 ### También te puede interesar:
 
-[Iberostar Grand Perast de Montenegro, tres motivos para dormir en este 
-hotel](https://etheriamagazine.com/2018/08/29/hotel-iberostar-perast-montenegro/) 
+{{< reflink path=posts/2018/08/hotel-iberostar-perast-montenegro >}} 
 
-[Croacia: consejos y visitas imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2021/01/22/viaje-a-croacia-como-organizar-que-ver-hacer/)
+{{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}}

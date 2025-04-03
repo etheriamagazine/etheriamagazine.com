@@ -1,7 +1,7 @@
 ---
 title: "Viaje en familia por Baviera: de Playmobil a Legoland"
 date: 2019-06-12
-coverImage: https://fotos.etheriamagazine.com/2019/05/Baviera-Rothenburg.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/Baviera-Rothenburg.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-Una de las zonas europeas con la que aciertas sí o sí en un viaje familiar es el sur de 
-Alemania, ya que combina ciudades históricas con dos de los mejores parques para niños: 
-el Fun Park Playmobil y Legoland. Aquí te proponemos una ruta de seis días para que 
-aproveches el tiempo sin perderte nada. 
+**Una de las zonas europeas con la que aciertas sí o sí en un viaje familiar es el sur 
+de Alemania, ya que combina ciudades históricas con dos de los mejores parques para 
+niños: el Fun Park Playmobil y Legoland. Aquí te proponemos una ruta de seis días para 
+que aproveches el tiempo sin perderte nada.** 
 
 ![prado y montañas en Baviera](https://fotos.etheriamagazine.com/2019/05/Baviera-paisaje.jpg "Paisaje del sur de Baviera.")
 
@@ -177,11 +177,8 @@ parque y el desayuno. Puedes elegir entre el **Legoland Pirate Island Hotel** o 
 
 📌 **También te puede interesar:** 
 
-[Viajar con niños por Europa: consejos y propuestas para acertar en tu primer 
-viaje](https://etheriamagazine.com/2021/02/02/viajar-con-ninos-por-europa-consejos-y-propuestas/) 
+{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
 
-[Viaje con niños a Engelberg, el corazón de 
-Suiza](https://etheriamagazine.com/2019/04/30/viaje-en-familia-que-hacer-engelberg-suiza/) 
+{{< reflink path=posts/2019/04/viaje-en-familia-que-hacer-engelberg-suiza >}} 
 
-[Laponia con niños: un viaje 
-irrepetible](https://etheriamagazine.com/2018/09/07/viaje-laponia-finlandesa-en-familia/)
+{{< reflink path=posts/2018/09/viaje-laponia-finlandesa-ninos-en-familia >}}

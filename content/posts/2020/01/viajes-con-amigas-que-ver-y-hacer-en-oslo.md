@@ -1,7 +1,7 @@
 ---
 title: "Qué ver y hacer en tu primera visita a Oslo"
 date: 2020-01-24
-coverImage: https://fotos.etheriamagazine.com/2020/01/mercado-oslo-Mathallen.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/mercado-oslo-Mathallen.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Marina Paul
 ---
 
-La capital Noruega es una ciudad que se presta a ser destino de fin de semana y también 
-a formar parte de recorridos más prolongados en este país. En este artículo te contamos 
-qué ver en Oslo en tu primera visita. 
+**La capital Noruega es una ciudad que se presta a ser destino de fin de semana y 
+también a formar parte de recorridos más prolongados en este país. En este artículo te 
+contamos qué ver en Oslo en tu primera visita.** 
 
 ![Mercado mathallen en Oslo](https://fotos.etheriamagazine.com/2020/01/mercado-oslo-Mathallen.jpg "Mathallen es un mercado gastronómico donde probar la cocina local. © CH/ Visit Norway")
 
@@ -165,8 +165,6 @@ cubra los días de viaje en el país.
 
 📌 **También te puede interesar:** 
 
-[Prepara tu viaje a Noruega: libros y películas para ante de 
-viajar](https://etheriamagazine.com/2020/08/18/prepara-tu-viaje-libros-series-de-noruega/) 
+{{< reflink path=posts/2020/08/prepara-tu-viaje-libros-series-de-noruega >}} 
 
-[The Twist, el nuevo museo-puente-escultura de 
-Noruega](https://etheriamagazine.com/2019/10/03/the-twist-museo-puente-escultura-noruega-viajes-arte/)
+{{< reflink path=posts/2019/10/the-twist-museo-puente-escultura-noruega-viajes-arte >}}

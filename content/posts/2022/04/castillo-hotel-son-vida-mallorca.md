@@ -1,7 +1,7 @@
 ---
 title: "Castillo Hotel Son Vida, una experiencia de lujo inolvidable"
 date: 2022-04-20
-coverImage: https://fotos.etheriamagazine.com/2022/04/Son-vida-fachada.jpg
+cover: https://fotos.etheriamagazine.com/2022/04/Son-vida-fachada.jpg
 categories: 
   - hoteles
 destino: 
@@ -110,11 +110,8 @@ habitación doble desde 360 Euros por noche.
 
 ### También te puede interesar
 
-[Palma con amigas: 8 planazos para exprimir la capital de 
-Mallorca](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palma-mallorca-con-amigas/) 
+{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}} 
 
-[Cuevas de Mallorca, cinco fantasías 
-subterráneas](https://etheriamagazine.com/2021/08/26/cuevas-de-mallorca-con-ninos/) 
+{{< reflink path=posts/2021/08/cuevas-de-mallorca-con-ninos >}} 
 
-[De compras, mercados y algo más en Palma de 
-Mallorca](https://etheriamagazine.com/2019/08/01/24-horas-palma-mallorca-arte-compras-mercados/)
+{{< reflink path=posts/2019/08/24-horas-palma-mallorca-arte-compras-mercados >}}

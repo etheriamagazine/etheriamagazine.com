@@ -1,7 +1,7 @@
 ---
 title: "Valparaíso, una bonita ruta de street art en la ciudad chilena del arcoíris"
 date: 2020-01-20
-coverImage: https://fotos.etheriamagazine.com/2019/12/Valpariso-street-art-los-cerros.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/Valpariso-street-art-los-cerros.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,11 @@ authors:
   - Firmas invitadas
 ---
 
-Al primer golpe de vista, el conjunto de colinas que rodea la bahía de Valparaíso parece 
-un pantone donde no falta ningún color. Pero lo mejor viene cuando te internas por sus 
-calles empinadas contemplando los murales que cubren fachadas y tapias. Más de 200 obras 
-maestras efímeras han convertido a la ciudad en la capital mundial del arte callejero. 
+**Al primer golpe de vista, el conjunto de colinas que rodea la bahía de Valparaíso 
+parece un pantone donde no falta ningún color. Pero lo mejor viene cuando te internas 
+por sus calles empinadas contemplando los murales que cubren fachadas y tapias. Más de 
+200 obras maestras efímeras han convertido a la ciudad en la capital mundial del arte 
+callejero.** 
 
 **Texto y fotos: Menchu Redondo** 
 
@@ -183,8 +184,6 @@ Más información en la [web oficial de Turismo de Chile](https://www.chile.trav
 
 ✅ **Sigue leyendo sobre Chile...** 
 
-[Crucero por los fiordos y canales de la Patagonia 
-chilena](https://etheriamagazine.com/2019/03/22/viajar-sola-crucero-fiordos-canales-patagonia-chile/). 
+{{< reflink path=posts/2019/03/viajar-sola-crucero-fiordos-canales-patagonia-chile >}}. 
 
-[Así es San Pedro de Atacama, la capital del ‘buenrollismo’ 
-chileno](https://etheriamagazine.com/2019/01/04/que-ver-en-desierto-atacama-san-pedro-atacama-chile/).
+{{< reflink path=posts/2019/01/que-ver-en-desierto-atacama-san-pedro-atacama-chile >}}.

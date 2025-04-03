@@ -1,7 +1,7 @@
 ---
 title: "Islas Maldivas, mucho más que un destino para lunas de miel"
 date: 2021-03-23
-coverImage: https://fotos.etheriamagazine.com/2018/10/Maldivas-playa.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/Maldivas-playa.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -187,12 +187,10 @@ muy bien. Si vas a hacer alguna excursión a la capital o a islas donde viva la 
 local procura cubrir rodillas y hombros, al ser la gran mayoría de la población 
 musulmana es más conservadora con la vestimenta. 
 
-• Más información en [visitmaldives.com](http://visitmaldives.com) 
+- Más información en [visitmaldives.com](http://visitmaldives.com) 
 
 También te puede interesar: 
 
-[Hotel Seaside Finolhu, un paraíso para el buceo en 
-Maldivas.](https://etheriamagazine.com/2020/09/29/hotel-lujo-maldivas-seaside-finolhu/) 
+{{< reflink path=posts/2020/09/hotel-lujo-maldivas-seaside-finolhu >}} 
 
-[10 planes en isla Mauricio y otras 
-islas.](https://etheriamagazine.com/2019/03/26/viajes-mujeres-mejores-planes-en-mauricio/)
+{{< reflink path=posts/2019/03/viajes-mujeres-mejores-planes-en-mauricio >}}

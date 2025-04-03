@@ -1,7 +1,7 @@
 ---
 title: "Planes increíbles por los que querrás viajar a Navarra"
 date: 2021-12-23
-coverImage: https://fotos.etheriamagazine.com/2021/12/paisajes-del-valle-del-Bidasoa.jpg
+cover: https://fotos.etheriamagazine.com/2021/12/paisajes-del-valle-del-Bidasoa.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -235,11 +235,10 @@ Más información en Turismo de Navarra (www.visitnavarra.es/es)
 
 ### Sigue viajando por Navarra...
 
-[Por qué Tierra Estella y Tierras de Iranzu protagonizarán tu próximo viaje en familia a 
-Navarra](https://etheriamagazine.com/2021/02/08/navarra-en-familia-tierra-estella-y-tierras-de-iranzu/). 
+{{< reflink path=posts/2021/02/navarra-en-familia-tierra-estella-y-tierras-de-iranzu 
+>}}. 
 
-[Rutas en el hayedo encantado de Urbasa y en Urederra 
-(Navarra)](https://etheriamagazine.com/2020/10/05/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra/). 
+{{< reflink path=posts/2020/10/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}. 
 
-[Desiertos de película y pinchos “de cine”: una ruta por las Bardenas Reales y 
-Tudela](https://etheriamagazine.com/2020/07/27/ruta-navarra-bardenas-reales-tudela-escapada-con-amigas/).
+{{< reflink path=posts/2024/10/ruta-navarra-bardenas-reales-tudela-escapada-con-amigas 
+>}}.

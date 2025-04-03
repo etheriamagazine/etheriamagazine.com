@@ -1,7 +1,7 @@
 ---
 title: "Agencias de viajes para viajar sola pero en grupo"
 date: 2019-03-08
-coverImage: https://fotos.etheriamagazine.com/2019/03/WOM-agencia-mujeres.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/WOM-agencia-mujeres.jpg
 categories: 
   - historias
 destino: 
@@ -60,21 +60,21 @@ ninguna otra empresa", señala Fauveau.
 
 La motivación de estas emprendedoras a la hora de fundar estas agencias especializadas 
 parte de la pasión por los viajes y por detectar que hay un nicho poco explotado a nivel 
-turístico. A [Alice 
-Fauveau](https://etheriamagazine.com/2018/10/15/alice-fauveau-directora-focus-on-women-mujer-etheria/), 
-además, este campo ya le resultaba familiar porque estaba "inmersa en temas de 
-_mentoring_ de mujeres". En el caso de [Ana 
-Blasco](https://etheriamagazine.com/2018/08/20/ana-blasco-wom-viajes-mujeres-etheria/), 
-esa pequeña chispa "surgió de un viaje personal en furgoneta (y sin GPS) a Jordania con 
-un grupo de mujeres que no se conocía. Lo pasamos tan bien que pensamos que seguro que a 
-otras mujeres les gustaría experimentar vivencias similares". Para [Rose 
-Serrano](https://etheriamagazine.com/2019/02/11/rose-serrano-agencias-viajes-mujeres-etheria/) 
-su situación personal le hizo ver el hueco: "ese momento llegó tras mi separación, no 
-coincidía con ninguna amiga a la hora de viajar. Empecé a organizar mis viajes a través 
-de foros donde yo lo estructuraba todo y luego buscaba gente que viniera conmigo. 
-Siempre tuve claro que si iniciaba mi andadura como agencia de viajes estaría centrada 
-en el mundo femenino". **Carina Tur**, de Concédete Deseos, fundó la agencia en 2018 y 
-ya tiene una amplia comunidad de viajeras asiduas. 
+turístico. A {{< reflink 
+path=posts/2018/10/alice-fauveau-directora-focus-on-women-mujer-etheria >}}, además, 
+este campo ya le resultaba familiar porque estaba "inmersa en temas de _mentoring_ de 
+mujeres". En el caso de {{< reflink 
+path=posts/2018/08/ana-blasco-wom-viajes-mujeres-etheria >}}, esa pequeña chispa "surgió 
+de un viaje personal en furgoneta (y sin GPS) a Jordania con un grupo de mujeres que no 
+se conocía. Lo pasamos tan bien que pensamos que seguro que a otras mujeres les gustaría 
+experimentar vivencias similares". Para {{< reflink 
+path=posts/2019/02/rose-serrano-agencias-viajes-mujeres-etheria >}} su situación 
+personal le hizo ver el hueco: "ese momento llegó tras mi separación, no coincidía con 
+ninguna amiga a la hora de viajar. Empecé a organizar mis viajes a través de foros donde 
+yo lo estructuraba todo y luego buscaba gente que viniera conmigo. Siempre tuve claro 
+que si iniciaba mi andadura como agencia de viajes estaría centrada en el mundo 
+femenino". **Carina Tur**, de Concédete Deseos, fundó la agencia en 2018 y ya tiene una 
+amplia comunidad de viajeras asiduas. 
 
 > Por necesidad, para superar el miedo a viajar sola, para crear lazos, como en el caso de 
 > Tacones Viajeros e, incluso, para comunicarse a través de una red social como 
@@ -172,24 +172,24 @@ vuelvan a repetir los viajes con nosotras y a diferentes destinos".
 Los destinos a los que prefieren viajar las mujeres van cambiando con los años. En esta 
 elección intervienen motivos de estabilidad política, precios de los vuelos, escalas, 
 etc. pero, en líneas generales, las agencias entrevistadas han asegurado que los 
-destinos más demandados son: países asiáticos (en general), Jordania, [Florencia,](https://etheriamagazine.com/2018/05/16/48-horas-en-florencia/) 
-[Toscana](https://etheriamagazine.com/2018/05/10/toscana-en-coche/), Nueva York, Japón, 
-Edimburgo, Creta e [Islas 
-Griegas](https://etheriamagazine.com/2019/01/03/que-visitar-crucero-por-islas-griegas/). 
+destinos más demandados son: países asiáticos (en general), Jordania, {{< reflink 
+path=posts/2018/05/48-horas-en-florencia-fin-de-semana-que-ver-hacer >}} {{< reflink 
+path=posts/2021/06/toscana-en-coche >}}, Nueva York, Japón, Edimburgo, Creta e {{< 
+reflink path=posts/2019/01/que-visitar-crucero-por-islas-griegas >}}. 
 
 Para este 2019 todas las agencias han preparado una programación especial con la que 
 esperan sorprender a sus viajeras. Entre sus destinos estrellas destacan los siguientes: 
 
 #### FOW
 
-"**Corea del Sur** de la mano de [Rosa María 
-Calaf](https://etheriamagazine.com/2018/09/17/rosa-maria-calaf-es-una-mujer-etheria/), 
-la gran corresponsal de España que ejerce de cicerone con nosotras. Pero también nos 
-acercaremos a la antigua Tracia, actual Bulgaria, que tiene un componente histórico 
-increíble, y haremos una ruta por Perú de la mano de la escritora Elena García Quevedo 
-basada en las energías femeninas del país. Tenemos mas de 40 rutas acompañadas por 
-cicerones de lujo: ya sean directoras de cine, chef, escritoras o periodistas que, a 
-través de su conocimiento, enriquecen el viaje una barbaridad". 
+"**Corea del Sur** de la mano de {{< reflink 
+path=posts/2018/09/rosa-maria-calaf-es-una-mujer-etheria >}}, la gran corresponsal de 
+España que ejerce de cicerone con nosotras. Pero también nos acercaremos a la antigua 
+Tracia, actual Bulgaria, que tiene un componente histórico increíble, y haremos una ruta 
+por Perú de la mano de la escritora Elena García Quevedo basada en las energías 
+femeninas del país. Tenemos mas de 40 rutas acompañadas por cicerones de lujo: ya sean 
+directoras de cine, chef, escritoras o periodistas que, a través de su conocimiento, 
+enriquecen el viaje una barbaridad". 
 
 #### WOM
 
@@ -228,8 +228,8 @@ viajar solas pero en grupo. Las agencias de viajes para mujeres han crecido en e
 
 ## Sigue leyendo...
 
-##### ✅ [10 ventajas de viajar sola](https://etheriamagazine.com/2019/01/29/10-ventajas-de-viajar-sola/).
+##### ✅ {{< reflink path=posts/2019/01/10-ventajas-de-viajar-sola >}}.
 
-##### [10 grandes destinos para descubrir viajando sola](https://etheriamagazine.com/2020/01/30/10-grandes-destinos-para-mujeres-viajan-solas/)
+##### {{< reflink path=posts/2020/01/10-grandes-destinos-para-mujeres-viajan-solas >}}
 
-##### [Neceser básico de una mujer viajera](https://etheriamagazine.com/2020/05/25/10-productos-basicos-para-un-neceser-de-viajes-de-mujer-seguro-y-con-estilo/).
+##### {{< reflink path=posts/2020/05/10-productos-basicos-para-un-neceser-de-viajes-de-mujer-seguro-y-con-estilo >}}.

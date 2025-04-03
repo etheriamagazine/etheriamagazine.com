@@ -1,7 +1,7 @@
 ---
 title: "Viaje con niños a Costa Rica: aventura en la naturaleza"
 date: 2021-04-20
-coverImage: https://fotos.etheriamagazine.com/2018/05/Costa-Rica-rana-e1551175328952.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Costa-Rica-rana-e1551175328952.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Susana García
 ---
 
-Uno de los mejores lugares del mundo para realizar un viaje con niños es Costa Rica. El 
-principal motivo es que los destinos donde la naturaleza es la protagonista son 
+**Uno de los mejores lugares del mundo para realizar un viaje con niños es Costa Rica. 
+El principal motivo es que los destinos donde la naturaleza es la protagonista son 
 perfectos para que disfruten los más pequeños. Además, el país tico tiene otras muchas 
 ventajas: es seguro, cómodo y fácil, cualidades que ayudan mucho en los viajes en 
-familia. 
+familia.** 
 
 ![reserva privada Waterfalls Gardens Costa Rica](https://fotos.etheriamagazine.com/2018/05/Costa-Rica-Tucan-e1551175189452.jpg "En la reserva privada Waterfalls Gardens se puede interactuar con los tucanes. © Susana García.")
 
@@ -137,7 +137,7 @@ por la selva por un camino cómodo para todos.
 
 ### CONSEJOS ETHERIA
 
-• Iberia tiene vuelo directo a Costa Rica. También se puede optar por alguna opción con 
+- Iberia tiene vuelo directo a Costa Rica. También se puede optar por alguna opción con 
 escala en Miami aunque hay que tener en cuenta que hay que pasar los tramites de 
 seguridad de Estados Unidos. 
 
@@ -146,13 +146,13 @@ Rica](https://www.civitatis.com/es/costa-rica/?aid=10211) que ofrece el grupo es
 Civitatis, son económicas y se pueden cancelar hasta 48 horas, por lo que no tienes nada 
 que perder. 
 
-• Algunas recomendaciones de hotel: **hotel Manatus** (manatuscostarica.com) en 
+- Algunas recomendaciones de hotel: **hotel Manatus** (manatuscostarica.com) en 
 Tortuguero; en Volcán Arenal **Hotel Tabacon Gran Spa Thermal Resort** (tabacon.com) o 
-Nayara Resort Spa & Garden con su hotel solo para adultos [Nayara 
-Springs](https://etheriamagazine.com/2018/05/04/hotelnayaraspringsvolcanarenalcostarica/); 
-y en Monteverde el **Hotel El Establo** (elestablo.com). 
+Nayara Resort Spa & Garden con su hotel solo para adultos {{< reflink 
+path=posts/2021/05/hotel-nayara-springs-costa-rica >}}; y en Monteverde el **Hotel El 
+Establo** (elestablo.com). 
 
-• Si se realiza la ruta por carretera entre San José y Volcán Arenal merece la pena 
+- Si se realiza la ruta por carretera entre San José y Volcán Arenal merece la pena 
 parar en la reserva privada **La Paz Waterfalls Gardens** (waterfallgardens.com). Ofrece 
 un paseo por unos senderos en un paisaje espectacular que llevan a la Catarata de La 
 Paz, la más grande y espectacular de la zona. Además cuenta con observatorios de 
@@ -160,22 +160,19 @@ mariposas, aves, colibríes, serpientes y ranas, que permiten a los más pequeñ
 algo más de cerca a los animales. También se puede visitar como una excursión de un día 
 desde San José. 
 
-• Entre Volcán Arenal y Monteverde se encuentra **El Trapiche** (eltrapichetour.com). Es 
+- Entre Volcán Arenal y Monteverde se encuentra **El Trapiche** (eltrapichetour.com). Es 
 una hacienda de una familia costarricense que organiza recorridos de dos horas para ver 
 de cerca el proceso de elaboración del azúcar, el café y el cacao, tres de los productos 
 estrella del país. Muy recomendable y didáctico para familias, los niños pueden dar un 
 paseo en una colorida carreta típica tirada por bueyes. 
 
-• Para organizar la excursión de las tirolinas y los puentes colgantes de Monteverde se 
+- Para organizar la excursión de las tirolinas y los puentes colgantes de Monteverde se 
 puede contactar con **Selvatura** (selvatura.com). 
 
 ### También te puede interesar en Costa Rica
 
-[Descubre la esencia de la Península de Nicoya, tierra de artesanas, surf y 
-yoga.](https://etheriamagazine.com/2022/07/15/que-ver-peninsula-nicoya-costa-rica/) 
+{{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}} 
 
-[Consejos para un viaje a Costa Rica en 
-familia](https://etheriamagazine.com/2018/05/04/consejos-para-un-viaje-a-costa-rica-en-familia/) 
+{{< reflink path=posts/2018/05/consejos-viaje-costa-rica-con-ninos-familias >}} 
 
-[Una maleta para… Costa 
-Rica](https://etheriamagazine.com/2018/05/28/una-maleta-para-costa-rica/)
+{{< reflink path=posts/2018/05/una-maleta-para-costa-rica >}}

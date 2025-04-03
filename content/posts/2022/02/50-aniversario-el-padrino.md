@@ -1,7 +1,7 @@
 ---
 title: "El Padrino vuelve a los cines en 4K para celebrar su 50 aniversario"
 date: 2022-02-23
-coverImage: https://fotos.etheriamagazine.com/2022/02/portada-El-Padrino-50-Anos.jpg
+cover: https://fotos.etheriamagazine.com/2022/02/portada-El-Padrino-50-Anos.jpg
 categories: 
   - inspiración
   - gourmet
@@ -142,11 +142,9 @@ película en DVD 4K aún no ha salido a la venta.
 
 ### También te puede interesar...
 
-[Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
-‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/). 
+{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}. 
 
-[Femme Fatale, un cóctel de 
-leyenda](https://etheriamagazine.com/2020/07/24/coctel-femme-fatale-jacky-kennedy-y-camboya/). 
+{{< reflink path=posts/2020/07/coctel-femme-fatale-jacky-kennedy-y-camboya >}}. 
 
-[Gijón: una gastroescapada que te dejará muy buen sabor de 
-boca](https://etheriamagazine.com/2021/01/25/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias/).
+{{< reflink path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias 
+>}}.

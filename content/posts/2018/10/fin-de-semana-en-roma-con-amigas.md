@@ -1,7 +1,7 @@
 ---
 title: "Roma, la escapada con amigas que necesitas"
 date: 2018-10-31
-coverImage: https://fotos.etheriamagazine.com/2018/10/Roma-hotel-de-russie-the-corner-e1552812919707.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/Roma-hotel-de-russie-the-corner-e1552812919707.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Macarena Escrivá
 ---
 
-La Ciudad Eterna siempre apetece. Rodearte de las máximas expresiones artísticas de 
+**La Ciudad Eterna siempre apetece. Rodearte de las máximas expresiones artísticas de 
 varios siglos, pasear a orillas del Tíber, perderte por el Trastevere o comer en los 
 restaurantes más exquisitos. ¿Lo mejor de todo esto? Que Roma se plantea como el viaje 
-perfecto para hacer con amigas. 
+perfecto para hacer con amigas.** 
 
 ![piazza popolo](https://fotos.etheriamagazine.com/2018/10/Roma-Piazza-del-popolo-e1552812774394.jpg "Piazza del Popolo (Roma).")
 
@@ -109,8 +109,6 @@ bosque, flores de azafrán, aceites cítricos esenciales y fruta de la pasión. 
 
 📌 **También te puede interesar:** 
 
-[15 lugares imprescindibles que ver en 
-Roma](https://etheriamagazine.com/2022/07/11/15-lugares-imprescindibles-que-ver-en-roma/) 
+{{< reflink path=posts/2022/07/15-lugares-imprescindibles-que-ver-en-roma >}} 
 
-[Excursión a Tívoli: un plan perfecto desde 
-Roma](https://etheriamagazine.com/2022/05/06/excursion-a-tivoli-desde-roma/)
+{{< reflink path=posts/2022/05/excursion-a-tivoli-desde-roma >}}

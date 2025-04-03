@@ -1,7 +1,7 @@
 ---
 title: "Meda Mládek, la centenaria coleccionista checa que nunca se rindió"
 date: 2019-08-13
-coverImage: https://fotos.etheriamagazine.com/2019/08/meda-mladek-apertura.jpg
+cover: https://fotos.etheriamagazine.com/2019/08/meda-mladek-apertura.jpg
 categories: 
   - mujeres-top
 destino: 

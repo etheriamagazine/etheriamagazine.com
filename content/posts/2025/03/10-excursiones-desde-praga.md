@@ -1,7 +1,7 @@
 ---
 title: "Más allá del Puente de Carlos, 10 excursiones de un día desde Praga"
 date: 2025-03-24
-coverImage: https://fotos.etheriamagazine.com/2025/03/cesky-krumlov.jpeg
+cover: https://fotos.etheriamagazine.com/2025/03/cesky-krumlov.jpeg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -122,8 +122,8 @@ su propio museo) y las obleas son otros dos recuerdos auténticos de esta ciudad
 Vary es un lugar para desconectar, así que trata de pasar al menos una noche para 
 disfrutar de sus luces al atardecer. 
 
-\*Sigue leyendo: [Karlovy Vary, la ciudad balnearia checa que Goethe visitó 13 
-veces](https://etheriamagazine.com/2021/12/09/que-ver-en-karlovy-vary-la-ciudad-balnearia-checa/). 
+\*Sigue leyendo: {{< reflink 
+path=posts/2021/12/que-ver-en-karlovy-vary-la-ciudad-balnearia-checa >}}. 
 
 📍[Excursión guiada en español a Karlovy 
 Vary](https://www.civitatis.com/es/praga/excursion-karlovy-vary/?aid=10211) desde 67 €. 

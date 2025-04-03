@@ -1,7 +1,7 @@
 ---
 title: "Hotel Formentor, el secreto mejor guardado de Mallorca"
 date: 2018-07-04
-coverImage: https://fotos.etheriamagazine.com/2018/07/hotel-formentor-paisaje-e1558348682480.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/hotel-formentor-paisaje-e1558348682480.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-Hay hoteles para pasar y hoteles para quedarse. El Formentor es de los segundos, un 
+**Hay hoteles para pasar y hoteles para quedarse. El Formentor es de los segundos, un 
 lugar donde se detiene el tiempo para permitir que los huéspedes disfruten de los 
-increíbles paisajes de mar y pinos del norte de Mallorca. CERRADO. Está previsto que en 
-2024 abra sus puertas el nuevo Four Seasons Resort Mallorca. 
+increíbles paisajes de mar y pinos del norte de Mallorca.** CERRADO. Está previsto que 
+en 2024 abra sus puertas el nuevo Four Seasons Resort Mallorca. 
 
 ![Vista del hotel Formentor](https://fotos.etheriamagazine.com/2018/07/hotel-formentor-paisaje-e1558348682480.jpg "Vista del hotel Formentor.")
 

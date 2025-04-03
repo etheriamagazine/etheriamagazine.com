@@ -1,7 +1,7 @@
 ---
 title: "8 visitas originales en Lisboa que (quizá) te quedan por hacer"
 date: 2021-10-27
-coverImage: https://fotos.etheriamagazine.com/2021/10/lisboa-detalle-chiado.jpg
+cover: https://fotos.etheriamagazine.com/2021/10/lisboa-detalle-chiado.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -179,11 +179,9 @@ garaje público convertido en una galería de arte.
 
 ### Más visitas originales en Lisboa...
 
-[Ruta de fados en Lisboa de la mano de Amália 
-Rodrigues](https://etheriamagazine.com/2020/12/30/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues/). 
+{{< reflink path=posts/2020/12/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues >}}. 
 
-[Lisboa y Ericeira, un plan cercano para amantes del mar, el surf y el buen 
-comer](https://etheriamagazine.com/2020/03/24/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf/). 
+{{< reflink path=posts/2024/08/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf 
+>}}. 
 
-[12 miradores para exprimir 
-Lisboa](https://etheriamagazine.com/2018/10/30/12-miradores-para-exprimir-lisboa/).
+{{< reflink path=posts/2018/10/12-miradores-para-exprimir-lisboa >}}.

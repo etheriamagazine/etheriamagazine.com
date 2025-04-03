@@ -1,7 +1,7 @@
 ---
 title: "Madeira con amigas, 10 experiencias para una escapada corta"
 date: 2019-04-19
-coverImage: https://fotos.etheriamagazine.com/2019/04/madeira-Pico-do-Areeiro.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/madeira-Pico-do-Areeiro.jpg
 categories: 
   - viajar-sola
   - inspiración
@@ -135,9 +135,9 @@ porcelana o el ambiente de este histórico establecimiento.
 
 Las mejores playas del archipiélago de Madeira se encuentran en la isla de Porto Santo. 
 Toma un ferry y disfruta de una jornada playera en esta isla donde además podrás 
-disfrutar de otros rincones naturales de gran valor. En este artículo ([Porto Santo, la 
-isla tranquila](https://etheriamagazine.com/2019/02/05/que-ver-porto-santo-madeira/)) te 
-contamos todo lo que puedes hacer en este lugar. 
+disfrutar de otros rincones naturales de gran valor. En este artículo ({{< reflink 
+path=posts/2019/02/que-ver-porto-santo-madeira >}}) te contamos todo lo que puedes hacer 
+en este lugar. 
 
 ### Guía de Madeira con amigas | Etheria Magazine
 
@@ -149,13 +149,12 @@ Madrid, Barcelona y Bilbao. Si vuelas desde Canarias, consulta las frecuencias d
 
 ##### Dónde dormir en Madeira
 
-• [Hotel The Vine](https://www.hotelthevine.com/). Situado en el mismo edificio de un 
+- [Hotel The Vine](https://www.hotelthevine.com/). Situado en el mismo edificio de un 
 centro comercial ofrece todo lo que necesitas para una estancia en Funchal. No te 
 pierdas las vistas desde la piscina de su terraza ni los masajes que ofrece en su spa. 
 
-• **Hotel Belmond Reid’s Palace**. Puedes leer reseña completa en [Belmond Reid’s 
-Palace, el hotel más exclusivo de 
-Madeira](https://etheriamagazine.com/2018/12/29/belmond-reids-palace-el-mejor-hotel-de-madeira/). 
+- **Hotel Belmond Reid’s Palace**. Puedes leer reseña completa en {{< reflink 
+path=posts/2018/12/belmond-reids-palace-el-mejor-hotel-de-madeira >}}. 
 
 ![Vistas desde el hotel The Vine](https://fotos.etheriamagazine.com/2019/04/hotel-vine-madeira.jpg "Vistas desde el hotel The Vine (Funchal).")
 
@@ -172,5 +171,4 @@ Más información: [Turismo de Madeira](http://www.visitmadeira.pt/es-es).
 
 ### También te puede interesar...
 
-[10 viajes a Portugal para este 
-verano](https://etheriamagazine.com/2020/07/02/10-viajes-a-portugal-familia-amigas/).
+{{< reflink path=posts/2020/07/10-viajes-a-portugal-familia-amigas >}}.

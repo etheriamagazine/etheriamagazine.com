@@ -1,7 +1,7 @@
 ---
 title: "Novedades de Berlín en 2021"
 date: 2021-09-24
-coverImage: https://fotos.etheriamagazine.com/2021/09/Berlin-Humboldt-Forum.jpg
+cover: https://fotos.etheriamagazine.com/2021/09/Berlin-Humboldt-Forum.jpg
 categories: 
   - viajar-con-amigas
   - viajar-sola
@@ -14,10 +14,10 @@ authors:
   - Redacción Etheria
 ---
 
-Un viaje a Berlín es una de las mejores formas para reencontrarse con esas escapadas a 
+**Un viaje a Berlín es una de las mejores formas para reencontrarse con esas escapadas a 
 las grandes ciudades europeas que tanto nos gustan. Aquí, la cultura en forma de museos 
 es uno de sus ‘highligths’. Tanto que estas 4 novedades que te contamos harán que vayas 
-buscando ya fecha para visitarla cuanto antes. 
+buscando ya fecha para visitarla cuanto antes.** 
 
 ![Humboldt Forum.](https://fotos.etheriamagazine.com/2021/09/Berlin-Humboldt-Forum.jpg "Humboldt Forum.© Visit Berlin/Chris Martin Scholl")
 
@@ -77,8 +77,7 @@ Staatsoper.
 
 **También te puede interesar** 
 
-[Berlín: de la caricia al 
-tortazo](https://etheriamagazine.com/2018/11/12/viaje-al-berlin-mas-divertido-interesante-sobrecogedor/) 
+{{< reflink path=posts/2018/11/viaje-al-berlin-mas-divertido-interesante-sobrecogedor 
+>}} 
 
-[10 experiencias navideñas en Alemania a través de sus 
-länder](https://etheriamagazine.com/2020/12/10/experiencias-navidenas-alemania/)
+{{< reflink path=posts/2020/12/experiencias-navidenas-alemania >}}

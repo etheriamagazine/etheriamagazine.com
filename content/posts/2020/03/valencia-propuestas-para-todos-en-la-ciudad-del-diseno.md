@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en Valencia, un paseo entre diseño y tiendas"
 date: 2020-03-26
-coverImage: https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-valencia-dolores-cortes.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-valencia-dolores-cortes.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Manena Munar
 ---
 
-Al entrar en Valencia se percibe una agradable sensación de bienestar. Su luz 
+**Al entrar en Valencia se percibe una agradable sensación de bienestar. Su luz 
 mediterránea, los aromas de las flores, las calles llenas de comercios coquetos y 
-salpicadas por edificios del modernismo valenciano, y el mar. ¿Qué más se puede pedir? 
+salpicadas por edificios del modernismo valenciano, y el mar. ¿Qué más se puede pedir?** 
 
 ![escultura, malvarrosa, viaje valencia, compras valencia, diseno valencia](https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-valencia-malvarrosa-6876.jpg "Escultura camino de la Malvarrosa. © Manena Munar")
 
@@ -27,8 +27,7 @@ barroca. Al entrar en el mercado la boca se hace agua viendo los muchos e impeca
 puestos de frutas y hortalizas, salmueras, fiambres y hasta de caracoles perfectamente 
 ordenados por categorías y tamaños. 
 
-**No te pierdas:** [Guía esencial de Valencia, imprescindibles en una ciudad que mira al 
-futuro](https://etheriamagazine.com/2022/10/03/que-ver-valencia/). 
+**No te pierdas:** {{< reflink path=posts/2022/10/que-ver-valencia >}}. 
 
 ![cupula mercado central valencia, viaje valencia, compras valencia, diseno valencia](https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-valencia-mercado.jpg "Cúpula del Mercado Central de Valencia. ©PB")
 

@@ -1,7 +1,7 @@
 ---
 title: "La vida de Carmen Castellote, la última poetisa en el exilio, llega al teatro"
 date: 2021-06-23
-coverImage: https://fotos.etheriamagazine.com/2021/06/carmen-castellote-mexico-1995.jpg
+cover: https://fotos.etheriamagazine.com/2021/06/carmen-castellote-mexico-1995.jpg
 destino: 
   - España
 authors: 
@@ -87,11 +87,10 @@ Producciones](https://mitadymitadproducciones.com/kilometrosdetiempo/).
 
 ### Más cultura que te puede interesar
 
-[Raclette, una original obra de teatro con toque 
-gastronómico](https://etheriamagazine.com/2021/06/10/raclette-una-obra-de-teatro-con-toque-gastronomico-en-madrid/). 
+{{< reflink 
+path=posts/2021/06/raclette-una-obra-de-teatro-con-toque-gastronomico-en-madrid >}}. 
 
-[8 exposiciones en Madrid que no puedes 
-perderte](https://etheriamagazine.com/2021/05/27/nuevas-exposiciones-en-madrid-verano-2021/). 
+{{< reflink path=posts/2021/05/nuevas-exposiciones-en-madrid-verano-2021 >}}. 
 
-[Contágiate de la locura de Dalí en el Triángulo 
-daliniano](https://etheriamagazine.com/2021/04/21/visitas-imprescindibles-triangulo-daliniano-ampurdan-girona/).
+{{< reflink 
+path=posts/2021/04/visitas-imprescindibles-triangulo-daliniano-ampurdan-girona >}}.

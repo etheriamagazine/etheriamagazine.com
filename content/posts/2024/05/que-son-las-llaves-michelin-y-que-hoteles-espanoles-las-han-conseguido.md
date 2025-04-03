@@ -1,7 +1,7 @@
 ---
 title: "Qué son las llaves Michelin y qué hoteles españoles las han conseguido"
 date: 2024-05-07
-coverImage: https://fotos.etheriamagazine.com/2018/05/Le-Domaine-vinedos.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Le-Domaine-vinedos.jpg
 categories: 
   - hoteles
 destino: 
@@ -53,8 +53,8 @@ Valladolid. En medio de 200 hectáreas de viñedos, una de sus joyas es el resta
 Refectorio, reconocido con una estrella Michelin y una estrella Verde, bajo la dirección 
 del chef Marc Segarra Sauné. 
 
-\*No te pierdas: [Fin de semana romántico en Le Domaine, el hotel de la bodega Abadía 
-Retuerta](https://etheriamagazine.com/2019/11/13/viajes-romanticos-hotel-le-domaine-abadia-retuerta-valladolid/). 
+\*No te pierdas: {{< reflink 
+path=posts/2019/11/viajes-romanticos-hotel-le-domaine-abadia-retuerta-valladolid >}}. 
 
 ### Torre del Marqués Hotel Spa & Winery 
 
@@ -75,11 +75,11 @@ Parque Nacional de Montsant, en la pequeña localidad de Escaladei.
 ### Hotel y restaurante Atrio
 
 Proporciona una hospitalidad destacada, además de una experiencia culinaria excepcional. 
-Dirigido por el chef Toño Pérez, con tres Estrellas Michelin en su restaurante, el [hotel 
-gastronómico Atrio](https://atriocaceres.com/) resalta por la elegancia y calidad de sus 
-14 habitaciones, integradas en la fachada de piedra de un edificio histórico en Cáceres. 
-Además, el hotel exhibe una amplia colección de obras de renombrados artistas como Andy 
-Warhol y Georg Baselitz. 
+Dirigido por el chef Toño Pérez, con tres Estrellas Michelin en su restaurante, el 
+[hotel gastronómico Atrio](https://atriocaceres.com/) resalta por la elegancia y calidad 
+de sus 14 habitaciones, integradas en la fachada de piedra de un edificio histórico en 
+Cáceres. Además, el hotel exhibe una amplia colección de obras de renombrados artistas 
+como Andy Warhol y Georg Baselitz. 
 
 ### Mandarin Oriental Ritz
 
@@ -105,15 +105,15 @@ turísticas para disfrutar de una inmersión total. Os describimos algunos de el
 El **hotel boutique mallorquín Cap Rocat**, con sus 24 habitaciones, se encuentra en una 
 fortaleza reconstruida del siglo XIX con vistas a la bahía de Palma. También en Mallorca 
 está **La Residencia, A Belmond Hotel**, en una edificación (s. XVI y XVII) que regala 
-una de las mejores panorámicas del bonito pueblo de [Deià](https://etheriamagazine.com/2020/08/28/que-hacer-en-deia-famosos-de-mallorca/). 
-Cada habitación cuenta con una personalidad diferente, pero con mobiliario tradicional 
-mallorquín. En La Coruña es el **hotel boutique Casa Beatnik**, en una villa del siglo 
-XVIII, el que ha conseguido las dos llaves Michelin. Su interiorismo está inspirado en 
-Yves Saint Laurent y cuenta con influencia francesa, italiana y marroquí. Sus 13 
-habitaciones y suites se completan con 6 yurtas de lujo colocadas en el jardín. En 
-Pontevedra es el **Pepe Vieira restaurant & Hotel** el que destaca con su concepto de 
-lujo minimalista y un restaurante con dos estrellas Michelin y una estrella Verde 
-Michelin. 
+una de las mejores panorámicas del bonito pueblo de {{< reflink 
+path=posts/2020/08/que-hacer-en-deia-famosos-de-mallorca >}}. Cada habitación cuenta con 
+una personalidad diferente, pero con mobiliario tradicional mallorquín. En La Coruña es 
+el **hotel boutique Casa Beatnik**, en una villa del siglo XVIII, el que ha conseguido 
+las dos llaves Michelin. Su interiorismo está inspirado en Yves Saint Laurent y cuenta 
+con influencia francesa, italiana y marroquí. Sus 13 habitaciones y suites se completan 
+con 6 yurtas de lujo colocadas en el jardín. En Pontevedra es el **Pepe Vieira 
+restaurant & Hotel** el que destaca con su concepto de lujo minimalista y un restaurante 
+con dos estrellas Michelin y una estrella Verde Michelin. 
 
 Otro hotel de la capital española que forma parte de este grupo es el **Rosewood Villa 
 Magna**, una antigua residencia palaciega renovada y externamente bastante discreta. Sus 

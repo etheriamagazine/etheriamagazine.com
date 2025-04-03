@@ -1,7 +1,7 @@
 ---
 title: "Arte para combatir la depresión y la ansiedad"
 date: 2020-11-04
-coverImage: https://fotos.etheriamagazine.com/2020/10/tristeza-depresion-mujres.jpg
+cover: https://fotos.etheriamagazine.com/2020/10/tristeza-depresion-mujres.jpg
 categories: 
   - bienestar
 destino: 
@@ -186,5 +186,4 @@ asegura Juan Alberto García, fundador de Cultura en Vena.
 
 También te puede interesar... 
 
-• [Danza, la belleza que 
-sana](https://etheriamagazine.com/2020/10/21/danza-terapia-salud/).
+- {{< reflink path=posts/2020/10/danza-terapia-salud >}}.

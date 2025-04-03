@@ -1,7 +1,7 @@
 ---
 title: "10 planes originales para hacer con amigas en Barcelona"
 date: 2021-03-10
-coverImage: https://fotos.etheriamagazine.com/2021/03/Terrat-mandarin-oriental-barcelona.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/Terrat-mandarin-oriental-barcelona.jpg
 categories: 
   - ocio
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pilar Ortega
 ---
 
-Monumentos, gastronomía, cultura, playas, historia… la Ciudad Condal nos brinda mil y 
+**Monumentos, gastronomía, cultura, playas, historia… la Ciudad Condal nos brinda mil y 
 una posibilidades para pasarlo en grande. Os invitamos a disfrutar de todos sus 
 atractivos a través de estos 10 planes originales para hacer con amigas en Barcelona. 
-¿Cuántos vais a hacer el próximo fin de semana? 
+¿Cuántos vais a hacer el próximo fin de semana?** 
 
 ![Casa Vicens en la ruta gaudi](https://fotos.etheriamagazine.com/2020/08/planes-barcelona-casa-vicens.jpg "Casa Vicens, diseñada por Gaudí (Barcelona). © David Cardelus/ Casa Vicens")
 
@@ -163,8 +163,6 @@ versión Kindle).
 
 **También en Barcelona** 
 
-[Barcelona con amigas: visitas, compras, 
-restaurantes](https://etheriamagazine.com/2019/03/12/guia-que-ver-hacer-dormir-barcelona-con-amigas/)... 
+{{< reflink path=posts/2019/03/guia-que-ver-hacer-dormir-barcelona-con-amigas >}}... 
 
-[Los mejores planes en Barcelona con 
-niños](https://etheriamagazine.com/2018/10/24/guia-de-viaje-de-barcelona-en-familia/).
+{{< reflink path=posts/2018/10/guia-de-viaje-de-barcelona-en-familia >}}.

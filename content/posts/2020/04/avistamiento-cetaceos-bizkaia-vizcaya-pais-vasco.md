@@ -1,7 +1,7 @@
 ---
 title: "Avistar cetáceos en la costa vasca, una experiencia inolvidable"
 date: 2020-04-20
-coverImage: https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-bizkaia-ver-delfines.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-bizkaia-ver-delfines.jpg
 categories: 
   - viajar-con-amigas
   - viajar-en-familia
@@ -145,11 +145,9 @@ desde este privilegiado promontorio a los cetáceos aproximarse hasta la costa.
 
 ### También te puede interesar...
 
-[Paisajes del agua en los 10 mejores cañones del País 
-Vasco](https://etheriamagazine.com/2019/04/09/viajes-naturaleza-mejores-canones-pais-vasco/). 
+{{< reflink path=posts/2019/04/viajes-naturaleza-mejores-canones-pais-vasco >}}. 
 
-[12 planes en Getxo con amigas para disfrutar al estilo 
-vasco](https://etheriamagazine.com/2021/06/14/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco/). 
+{{< reflink 
+path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}. 
 
-[Valle de Karrantza, 10 experiencias rurales y genuinas en 
-Vizcaya](https://etheriamagazine.com/2021/08/18/que-ver-y-hacer-en-valle-de-karrantza-vizcaya/).
+{{< reflink path=posts/2021/08/que-ver-y-hacer-en-valle-de-karrantza-vizcaya >}}.

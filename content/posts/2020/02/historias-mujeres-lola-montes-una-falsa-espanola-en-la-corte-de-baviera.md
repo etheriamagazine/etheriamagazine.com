@@ -1,7 +1,7 @@
 ---
 title: "Lola Montes, una “falsa española” en la corte de Luis I de Baviera"
 date: 2020-02-04
-coverImage: https://fotos.etheriamagazine.com/2020/01/lola-montez-ludwig-bavaria.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/lola-montez-ludwig-bavaria.jpg
 categories: 
   - historias
   - mujeres-top
@@ -149,11 +149,8 @@ verdadera identidad. Nadie reclamó su cuerpo.
 
 **También te puede interesar:** 
 
-[Así es la verdadera historia de Sisi, y no es de 
-cuento](https://etheriamagazine.com/2022/09/07/museo-sisi-de-viena/) 
+{{< reflink path=posts/2022/09/museo-sisi-de-viena >}} 
 
-[¿Cómo percibió George Sand la isla de Mallorca hace casi dos 
-siglos?](https://etheriamagazine.com/2018/05/16/mallorca-de-la-mano-de-george-sand/) 
+{{< reflink path=posts/2018/05/mallorca-de-la-mano-de-george-sand >}} 
 
-[Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
-‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/)
+{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}

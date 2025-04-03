@@ -1,7 +1,7 @@
 ---
 title: "Komvida, un proyecto creado por dos emprendedoras extremeñas"
 date: 2020-08-10
-coverImage: https://fotos.etheriamagazine.com/2020/08/Komvida-portada.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/Komvida-portada.jpg
 categories: 
   - historias
   - mujeres-top
@@ -11,11 +11,11 @@ authors:
   - Pepa G. Marín
 ---
 
-De la aventura, la amistad y el amor por la tierra sólo pueden surgir cosas positivas. Y 
-así lo han demostrado Beatriz Magro y Nuria Morales, dos emprendedoras extremeñas que 
+**De la aventura, la amistad y el amor por la tierra sólo pueden surgir cosas positivas. 
+Y así lo han demostrado Beatriz Magro y Nuria Morales, dos emprendedoras extremeñas que 
 han creado su propio producto, generado empleo y posicionado a Fregenal de la Sierra en 
 el mapa. Os contamos su historia y en qué consiste la kombucha, un tipo de bebida 
-saludable que han lanzado al mercado. 
+saludable que han lanzado al mercado.** 
 
 ![komvida, kombucha, emprendedoras, fregenal de la sierra](https://fotos.etheriamagazine.com/2020/08/komvida2.jpg "Komvida, el sueño de Bea y Nuria, dos mujeres que decidieron emprender en su pueblo de nacimiento.")
 

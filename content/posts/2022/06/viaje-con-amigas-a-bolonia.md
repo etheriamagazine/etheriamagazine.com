@@ -1,7 +1,7 @@
 ---
 title: "Viaje con amigas a Bolonia: 10 planes imbatibles en Italia"
 date: 2022-06-10
-coverImage: https://fotos.etheriamagazine.com/2022/06/Clock-Tower-bolonia.jpg
+cover: https://fotos.etheriamagazine.com/2022/06/Clock-Tower-bolonia.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -118,10 +118,10 @@ tosco-emilianos** ofrecen rutas espectaculares para realizar a pie o en biciclet
 La ciudad de Bolonia fue declarada Ciudad Creativa de la Música por la Unesco en 2006, 
 un galardón que reconoce la rica tradición y escena musical boloñesa. Los lugares más 
 importantes de esta tradición musical son el Museo Internacional, el **Teatro 
-Comunale**, la Biblioteca de la Música, el Conservatorio de la Academia Filarmónica y la [Colección 
-Tagliavini](https://genusbononiae.it/palazzi/san-colombano/) en el Museo San Colombano 
-(con una interesante colección de instrumentos musicales). Acercaos a alguno de ellos 
-para descubrir esta faceta tan interesante de la ciudad. 
+Comunale**, la Biblioteca de la Música, el Conservatorio de la Academia Filarmónica y la 
+[Colección Tagliavini](https://genusbononiae.it/palazzi/san-colombano/) en el Museo San 
+Colombano (con una interesante colección de instrumentos musicales). Acercaos a alguno 
+de ellos para descubrir esta faceta tan interesante de la ciudad. 
 
 ![Oratorio y museo de San Colombano en Bolonia](https://fotos.etheriamagazine.com/2022/06/SanColombano-Oratorio-bolonia.jpg "Oratorio y museo de San Colombano. © Bologna Welcome")
 
@@ -132,7 +132,8 @@ degustarlos es Bolonia. Para ir un paso más allá, ¿qué os parece recibir una
 cómo elaborarlos en la prestigiosa **Universidad de Carpigiani Gelato**? Es la primera 
 escuela de helado en el mundo y punto de referencia del sector heladero. Los cursos se 
 imparten en varios idiomas por instructores que se encuentran entre los mejores del 
-mundo. Puedes consultar fechas y precios en [www.gelatouniversity.com](http://www.gelatouniversity.com) 
+mundo. Puedes consultar fechas y precios en 
+[www.gelatouniversity.com](http://www.gelatouniversity.com) 
 
 ![helados en Bolonia](https://fotos.etheriamagazine.com/2022/06/helado-Carpigiani-Gelato.jpg "Helados en la Universidad de Carpigiani Gelato. © Carpigiani Gelato Museum")
 
@@ -163,11 +164,11 @@ rato.
 La ciudad de Bolonia está repleta de lugares interesantes que visitar, pero si disponéis 
 de tiempo no dudéis en conocer las colinas que la rodean y que albergan un patrimonio 
 paisajístico, histórico y cultural de diez. Como ciudad volcada a la gastronomía que es, 
-una buena actividad es visitar a algún productor local de la zona. Te proponemos la [bodega 
-Umberto Cesari](https://umbertocesari.com/), con una historia familiar que merece la 
-pena escuchar y unas vistas magníficas del entorno. No te pierdas sus vinos Pignoletto 
-DOC Frizzante, Ca’Grande Romagna DOC Sangiovese Superiore o el Laurento Romagna DOC 
-Sangiovese Riserva. 
+una buena actividad es visitar a algún productor local de la zona. Te proponemos la 
+[bodega Umberto Cesari](https://umbertocesari.com/), con una historia familiar que 
+merece la pena escuchar y unas vistas magníficas del entorno. No te pierdas sus vinos 
+Pignoletto DOC Frizzante, Ca’Grande Romagna DOC Sangiovese Superiore o el Laurento 
+Romagna DOC Sangiovese Riserva. 
 
 ![barriles de bodega de Bolonia](https://fotos.etheriamagazine.com/2022/06/Umberto-Cesari-bodega-bolonia.jpg "Bodega © Umberto Cesari.")
 
@@ -188,5 +189,4 @@ Italia](https://www.italia.it/en?utm_source=Etheriamagazine_com&utm_medium=pubbl
 
 ### Para saber más sobre Bolonia no te pierdas:
 
-[Ir de bares y otros planes para enamorarte de 
-Bolonia](https://etheriamagazine.com/2022/02/21/que-hacer-en-bolonia/)
+{{< reflink path=posts/2022/02/que-hacer-en-bolonia >}}

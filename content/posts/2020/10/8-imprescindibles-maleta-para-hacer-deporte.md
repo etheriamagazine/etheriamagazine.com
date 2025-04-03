@@ -1,7 +1,7 @@
 ---
 title: "8 imprescindibles en tu maleta para hacer deporte cuando viajas"
 date: 2020-10-19
-coverImage: https://fotos.etheriamagazine.com/2020/10/viajar-deporte-mujer.jpg
+cover: https://fotos.etheriamagazine.com/2020/10/viajar-deporte-mujer.jpg
 categories: 
   - compras
   - qué-llevar-en-la-maleta
@@ -32,7 +32,8 @@ muy pesadas ni que ocupen mucho en la maleta y son perfectas para hacer deporte 
 viajas. Puedes decantarte por unos pesos con velcro que puedes adaptar a tus muñecas o 
 tobillos en los que puedes elegir el peso que quieres gracias a sus barras 
 independientes (como estos de [Amazon](https://amzn.to/3IIR3H8)) o por unas pequeñas 
-pesas como éstas, que puedes encontrar en [Decathlon](https://www.decathlon.es/es/p/mancuernas-vinilo-2-x-1kg-fitness-gym-pilates-nyamba-verde/_/R-p-130386?mc=8336571&c=VERDE). 
+pesas como éstas, que puedes encontrar en 
+[Decathlon](https://www.decathlon.es/es/p/mancuernas-vinilo-2-x-1kg-fitness-gym-pilates-nyamba-verde/_/R-p-130386?mc=8336571&c=VERDE). 
 
 ![Pesas de Amazon y Decathlon.](https://fotos.etheriamagazine.com/2020/10/deporte-viajes-pesas-1.jpg "Pesas de Amazon y Decathlon.")
 
@@ -86,7 +87,8 @@ Si practicas ejercicios de suelo y no te quieres dejar las rodillas, tendrás qu
 una esterilla. Esta de [esterilla plegable](https://amzn.to/43t9g58), disponible en 
 Amazon, puedes elegirla en varios colores y viene con una cómoda bolsa para 
 transportarla. Otra opción algo más cara es la esterilla de Adidas, que puedes comprar 
-en El Corte Inglés. Y si viajas en avión y tienes poco espacio, este pequeño modelo de [Decathlon](https://www.decathlon.es/es/p/colchoneta-esterilla-pilates-mat-domyos-pequena-50-cm-x-39-cm-x-8-mm/_/R-p-303116?mc=8512036&c=GRIS) 
+en El Corte Inglés. Y si viajas en avión y tienes poco espacio, este pequeño modelo de 
+[Decathlon](https://www.decathlon.es/es/p/colchoneta-esterilla-pilates-mat-domyos-pequena-50-cm-x-39-cm-x-8-mm/_/R-p-303116?mc=8512036&c=GRIS) 
 te servirá para hacer algunos ejercicios sin apenas restar capacidad a tu maleta. 
 
 ![Esterillas ligeras de Amazon y Decathlon.](https://fotos.etheriamagazine.com/2020/10/deporte-viajes-esterillas-1.jpg "Esterillas ligeras de Amazon y Decathlon.")
@@ -95,7 +97,8 @@ te servirá para hacer algunos ejercicios sin apenas restar capacidad a tu malet
 
 Imprescindibles si te gustan los deportes al aire libre y no quieres salir con look 
 deportivo y gafas estilo Gucci. Estas de la marca Clandestine de El Corte Inglés tienen 
-unos bonitos cristales de espejo verdes, y las de [Decathlon](https://www.decathlon.es/es/p/gafas-btt-xc-photo-negras-fotocromaticas-cat-1-3/_/R-p-313040?mc=8575783&c=NEGRO) 
+unos bonitos cristales de espejo verdes, y las de 
+[Decathlon](https://www.decathlon.es/es/p/gafas-btt-xc-photo-negras-fotocromaticas-cat-1-3/_/R-p-313040?mc=8575783&c=NEGRO) 
 naranjas. Nos encanta este modelo que propone [Amazon](https://amzn.to/34V24Rx) y que 
 está disponible en muchos colores. 
 
@@ -120,11 +123,8 @@ que propone Decathlon.
 
 **También te puede interesar:** 
 
-[Claves básicas para elegir la mejor maleta para tu 
-viaje](https://etheriamagazine.com/2019/06/05/claves-elegir-mejor-maleta-para-viajar/) 
+{{< reflink path=posts/2019/06/claves-elegir-mejor-maleta-para-viajar >}} 
 
-[Qué llevar en la maleta para un viaje a 
-Tailandia](https://etheriamagazine.com/2020/01/02/que-llevar-en-maleta-viaje-tailandia/) 
+{{< reflink path=posts/2020/01/que-llevar-en-maleta-viaje-tailandia >}} 
 
-[Qué llevar en la maleta en un viaje a 
-Jordania](https://etheriamagazine.com/2020/01/23/que-llevar-en-la-maleta-en-un-viaje-a-jordania/)
+{{< reflink path=posts/2020/01/que-llevar-en-la-maleta-en-un-viaje-a-jordania >}}

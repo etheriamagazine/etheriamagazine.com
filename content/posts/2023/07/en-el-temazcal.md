@@ -1,7 +1,7 @@
 ---
 title: "En el temazcal, una experiencia \"mágica\" en Riviera Maya"
 date: 2023-07-10
-coverImage: https://fotos.etheriamagazine.com/2023/07/cenote-mexico-acuarela.jpg
+cover: https://fotos.etheriamagazine.com/2023/07/cenote-mexico-acuarela.jpg
 categories: 
   - historias
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Rafael de Rojas
 ---
 
-De cómo una excursión programada en un viaje te puede arrastrar, por bienquedismo y 
+**De cómo una excursión programada en un viaje te puede arrastrar, por bienquedismo y 
 porque todo te parece bonito, a un ritual mágico turístico que en casa mirarías de 
 lejos: una sesión de purificación en un temazcal en la aldea maya de Dos Palmas, en la 
-Riviera Maya (México). 
+Riviera Maya (México).** 
 
 Crónica humorística de **Rafael de Rojas** 
 

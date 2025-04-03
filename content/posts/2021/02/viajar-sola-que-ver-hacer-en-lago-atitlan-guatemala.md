@@ -1,7 +1,7 @@
 ---
 title: "Viajar sola al lago Atitlán, una aventura fascinante"
 date: 2021-02-20
-coverImage: https://fotos.etheriamagazine.com/2020/01/lago-atitlan-mujeres-viajar-sola.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/lago-atitlan-mujeres-viajar-sola.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -221,11 +221,8 @@ Más información en la [Oficina de Turismo de Guatemala](https://visitguatemala
 
 **Si viajas sola te puede interesar...** 
 
-[Cagliari, un viaje a Cerdeña para mujeres de buen 
-comer](https://etheriamagazine.com/2020/09/17/guia-basica-cagliari-para-mujeres-viajeras/). 
+{{< reflink path=posts/2020/09/guia-basica-cagliari-para-mujeres-viajeras >}}. 
 
-[Viaja sola con seguridad: el mundo puede ser inseguro, nosotras 
-jamás](https://etheriamagazine.com/2020/08/12/viaja-sola-paises-mas-seguros-para-mujeres/). 
+{{< reflink path=posts/2020/08/viaja-sola-paises-mas-seguros-para-mujeres >}}. 
 
-[Viaja sola o con amigas a la alegre Marsella, puerta francesa del 
-Mediterráneo](https://etheriamagazine.com/2020/07/10/viajar-sola-amigas-marsella-que-ver-hacer/).
+{{< reflink path=posts/2020/07/viajar-sola-amigas-marsella-que-ver-hacer >}}.

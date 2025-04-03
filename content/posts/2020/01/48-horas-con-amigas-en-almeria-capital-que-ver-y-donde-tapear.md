@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer en Almería en un viaje con amigas"
 date: 2020-01-10
-coverImage: https://fotos.etheriamagazine.com/2020/01/Almeria-Mercado-Central.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/Almeria-Mercado-Central.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -195,8 +195,6 @@ Central.
 
 ✅ **Si visitas Almería con amigas también te interesa...** 
 
-[Planes en Almería para una escapada en clave 
-slow](https://etheriamagazine.com/2021/04/17/que-ver-en-almeria-en-temporada-baja/). 
+{{< reflink path=posts/2021/04/que-ver-en-almeria-en-temporada-baja >}}. 
 
-[Agua Amarga, el mejor próximo verano de tu 
-vida](https://etheriamagazine.com/2021/04/28/que-ver-hacer-en-agua-amarga-almeria/).
+{{< reflink path=posts/2024/08/que-ver-hacer-en-agua-amarga-almeria >}}.

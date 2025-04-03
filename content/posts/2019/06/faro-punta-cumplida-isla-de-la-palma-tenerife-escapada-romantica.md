@@ -1,7 +1,7 @@
 ---
 title: "Una escapada romántica al hotel Faro Punta Cumplida en La Palma"
 date: 2019-06-03
-coverImage: https://fotos.etheriamagazine.com/2019/05/Rusticae-faro-punta-cumplida.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/Rusticae-faro-punta-cumplida.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Vivir la experiencia de alojarnos en un faro es un sueño para muchos de nosotros. Un 
+**Vivir la experiencia de alojarnos en un faro es un sueño para muchos de nosotros. Un 
 deseo que podemos cumplir en el histórico Faro Punta Cumplida, uno de los hoteles más 
 singulares de La Palma. ¿Y si nos damos el capricho y, de paso, disfrutamos de un 
-romántico viaje a La Palma? 
+romántico viaje a La Palma?** 
 
 ![Hotel Faro Punta Cumplida por la noche.](https://fotos.etheriamagazine.com/2019/05/Faro-Punta-Cumplida-noche.jpg "Hotel Faro Punta Cumplida por la noche.")
 
@@ -101,11 +101,9 @@ Calle Lomo Machin 66. Isla de La Palma (Tenerife). Tel. Central de reservas Rust
 
 📌 **Sigue leyendo sobre La Palma:** 
 
-[10 lugares imprescindibles en La 
-Palma.](https://etheriamagazine.com/2018/09/19/10-secretos-para-conocer-la-isla-de-la-palma/) 
+{{< reflink path=posts/2021/04/10-secretos-para-conocer-la-isla-de-la-palma >}} 
 
-[Por qué La Palma es una isla 
-adictiva](https://etheriamagazine.com/2019/04/02/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias/). 
+{{< reflink path=posts/2019/04/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias 
+>}}. 
 
-[Por qué deberías vivir el Carnaval de los Indianos en La 
-Palma](https://etheriamagazine.com/2020/02/03/que-hacer-en-los-indianos-el-carnaval-de-la-palma/).
+{{< reflink path=posts/2020/02/que-hacer-en-los-indianos-el-carnaval-de-la-palma >}}.

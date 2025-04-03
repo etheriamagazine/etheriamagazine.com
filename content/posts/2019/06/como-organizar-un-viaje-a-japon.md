@@ -1,7 +1,7 @@
 ---
 title: "5 recomendaciones para preparar un viaje a Japón"
 date: 2019-06-18
-coverImage: https://fotos.etheriamagazine.com/2019/04/Japon-Onsen-ryokan-monte-Fuji.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/Japon-Onsen-ryokan-monte-Fuji.jpg
 categories: 
   - inspiración
   - ocio
@@ -63,9 +63,8 @@ tradicionales japoneses.
 ![ryokan tradicional en Japón](https://fotos.etheriamagazine.com/2019/04/Japon-Ryokan.jpg "Onsen en un Ryokan. © Rockzheart/Adobe Stock")
 
 Si te interesa la historia, una parada obligada es **Hiroshima** y si dispones de dos 
-semanas y quieres aprovechar unos días de playa, nada mejor que las paradisíacas [islas 
-de 
-Okinawa](https://etheriamagazine.com/2019/04/05/viajar-sola-que-ver-hacer-dormir-okinawa-japon/). 
+semanas y quieres aprovechar unos días de playa, nada mejor que las paradisíacas {{< 
+reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-okinawa-japon >}}. 
 
 ![almendros en flor en Kioto](https://fotos.etheriamagazine.com/2019/06/Preparar-viaje-Japon-primavera.jpg "Camino del Filósofo con los cerezos en flor en Kioto. © Susana García")
 
@@ -117,12 +116,13 @@ equipaje para un viaje largo, puedes llevar una bolsa de mano plegable para los 
 estés viajando fuera de Tokio y Kioto. 
 
 Existe un servicio que te lleva las maletas de un hotel a otro llamado Hans Free Travel 
-que puede realizarse con la empresa [Yamato](http://www.global-yamato.com/en/hands-free-travel/scene02.html) 
-y se contrata directamente en la recepción de los hoteles. Por ejemplo, si comienzas tu 
-viaje por Kioto, puedes enviar desde aquí las maletas a tu hotel de Tokio y viajar con 
-una bolsa de mano o un trolley por la zona de los Alpes japoneses. También te pueden 
-llevar el equipaje del aeropuerto al hotel y viceversa, reconocerás esta empresa por su 
-logo, que es un gato negro con su cría sobre fondo amarillo. 
+que puede realizarse con la empresa 
+[Yamato](http://www.global-yamato.com/en/hands-free-travel/scene02.html) y se contrata 
+directamente en la recepción de los hoteles. Por ejemplo, si comienzas tu viaje por 
+Kioto, puedes enviar desde aquí las maletas a tu hotel de Tokio y viajar con una bolsa 
+de mano o un trolley por la zona de los Alpes japoneses. También te pueden llevar el 
+equipaje del aeropuerto al hotel y viceversa, reconocerás esta empresa por su logo, que 
+es un gato negro con su cría sobre fondo amarillo. 
 
 ![Logo de la compañía de transportes Yamato](https://fotos.etheriamagazine.com/2019/06/preparar-viaje-japon-yamato.jpg "Logo de la compañía de transportes Yamato, si necesitas sus servicios para enviar tu maleta búscala en el aeropuerto.")
 
@@ -167,16 +167,16 @@ si reservas en **INTERMUNDIAL**.
 
 ### PECULIARIDADES DE LA CULTURA JAPONESA
 
-**•** Hay que tener en cuenta que las costumbres japonesas son diferentes a las 
+**- ** Hay que tener en cuenta que las costumbres japonesas son diferentes a las 
 nuestras. Por ejemplo, los japoneses ni se besan ni se tocan en público. Cuando te 
 presentes a alguien, lo normal es una ligera inclinación de cabeza y como mucho dar la 
 mano. Tampoco son muy amigos de las expresiones de cariño en público. 
 
-**•** Son tan educados que en ocasiones no dicen "no" por no llevar la contraria, suelen 
-preferir un “lo averiguo” o “no estoy seguro” aunque sepan que es un no rotundo. Tendrás 
-que insistir para obtener la respuesta correcta. 
+**- ** Son tan educados que en ocasiones no dicen "no" por no llevar la contraria, 
+suelen preferir un “lo averiguo” o “no estoy seguro” aunque sepan que es un no rotundo. 
+Tendrás que insistir para obtener la respuesta correcta. 
 
-**•** No todo el mundo habla inglés, ni siquiera muchos taxistas de ciudades grandes 
+**- ** No todo el mundo habla inglés, ni siquiera muchos taxistas de ciudades grandes 
 como Tokio o Kioto. La falta de entendimiento puede ser absoluta, ya que no tenemos 
 referencias comunes ni en los gestos, así que aprovecha las recepciones de los hoteles 
 para que te escriban en japonés en una tarjeta el nombre del hotel (por si necesitas 
@@ -184,19 +184,17 @@ volver en taxi) y los nombres de los lugares que quieras visitar en el día.
 
 ![carroza tradicional en Takayama](https://fotos.etheriamagazine.com/2019/06/Preparar-viaje-Japon-Festival-Takayama.jpg "Festival de la Primavera en Takayama. A pesar de la concentración de gente no verás un papel en el suelo. © Susana García.")
 
-**•** Japón es un país extremadamente limpio, no verás un papel en el suelo ni en 
+**- ** Japón es un país extremadamente limpio, no verás un papel en el suelo ni en 
 lugares muy concurridos, pero tampoco hay muchas papeleras. Tendrás que llevar contigo 
 la basura que generes en el día y tirarla en el hotel. 
 
-**•** Más información en la [Oficina Nacional de Turismo de 
+**- ** Más información en la [Oficina Nacional de Turismo de 
 Japón](https://www.japan.travel/es/es/). 
 
 **También te puede interesar:** 
 
-[La experiencia de alojarse en un Ryokan en 
-Japón](https://etheriamagazine.com/2019/05/10/viajar-japon-que-es-ryokan-y-onsen/) 
+{{< reflink path=posts/2019/05/viajar-japon-que-es-ryokan-y-onsen >}} 
 
-[10 actividades para un viaje en familia a 
-Japón](https://etheriamagazine.com/2019/11/21/10-actividades-para-un-viaje-en-familia-a-japon/) 
+{{< reflink path=posts/2019/11/10-actividades-para-un-viaje-en-familia-a-japon >}} 
 
-[¡Vamos a comernos Japón!](https://etheriamagazine.com/2018/10/09/que-comer-en-japon/)
+{{< reflink path=posts/2018/10/que-comer-en-japon >}}

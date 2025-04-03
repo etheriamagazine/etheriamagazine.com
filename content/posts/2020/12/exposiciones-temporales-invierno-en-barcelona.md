@@ -1,7 +1,7 @@
 ---
 title: "5 exposiciones temporales que no te puedes perder este invierno en Barcelona"
 date: 2020-12-09
-coverImage: https://fotos.etheriamagazine.com/2020/12/Patricio-Reig-Bramante.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/Patricio-Reig-Bramante.jpg
 categories: 
   - cultura
   - ocio
@@ -71,7 +71,8 @@ Precio: 6 € (entrada general) y 4 € (reducida).
 
 ## Dos miradas a la Antártida
 
-Este territorio de hielo y soledad que es la Antártida se muestra en [CosmoCaixa](https://cosmocaixa.es/es/p/expo-base-antartica-testimonio-de-una-investigacion-pionera-2019_a373808) 
+Este territorio de hielo y soledad que es la Antártida se muestra en 
+[CosmoCaixa](https://cosmocaixa.es/es/p/expo-base-antartica-testimonio-de-una-investigacion-pionera-2019_a373808) 
 desde dos ángulos diferentes. Por un lado, descubrimos la mirada de Josefina Castellví, 
 directora de la Base Antártica Española Juan Carlos I durante los seis primeros años de 
 su funcionamiento. Una científica que se convirtió en la primera mujer de la Historia 
@@ -147,11 +148,8 @@ Llobregat). Fecha: hasta el 10 de enero de 2021. Precio: gratuita.
 
 ### También te puede interesar...
 
-[Barcelona con amigas, los mejores planes y 
-restaurantes](https://etheriamagazine.com/2019/03/12/guia-que-ver-hacer-dormir-barcelona-con-amigas/). 
+{{< reflink path=posts/2019/03/guia-que-ver-hacer-dormir-barcelona-con-amigas >}}. 
 
-[Planes en Barcelona con 
-niños](https://etheriamagazine.com/2018/10/24/guia-de-viaje-de-barcelona-en-familia/). 
+{{< reflink path=posts/2018/10/guia-de-viaje-de-barcelona-en-familia >}}. 
 
-[La cuna del Modernismo está en 
-Mataró](https://etheriamagazine.com/2020/10/14/excursion-desde-barcelona-modernismo-mataro/).
+{{< reflink path=posts/2020/10/excursion-desde-barcelona-modernismo-mataro >}}.

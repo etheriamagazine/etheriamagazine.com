@@ -1,7 +1,7 @@
 ---
 title: "Marisa de León, de Viajes Mundo Amigo: \"Los viajes lo han aportado todo a mi vida\""
 date: 2019-03-18
-coverImage: https://fotos.etheriamagazine.com/2019/03/marisa-viajes-mundo-amigo.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/marisa-viajes-mundo-amigo.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -64,7 +64,7 @@ Mi último viaje ha sido a **Viena**, una ciudad de la que no puedes volver desi
 
 9\. ¿Qué tres viajes que hayas realizado recomendarías en un viaje de mujeres? 
 
-Bretaña, con una “escapada” a París; La Toscana, con “extensión” a [Florencia](https://etheriamagazine.com/2018/05/16/48-horas-en-florencia/); e [Islas Griegas](https://etheriamagazine.com/2019/01/03/que-visitar-crucero-por-islas-griegas/).
+Bretaña, con una “escapada” a París; La Toscana, con “extensión” a {{< reflink path=posts/2018/05/48-horas-en-florencia-fin-de-semana-que-ver-hacer >}}; e {{< reflink path=posts/2019/01/que-visitar-crucero-por-islas-griegas >}}.
 
 10\. Tres viajes pendientes… 
 

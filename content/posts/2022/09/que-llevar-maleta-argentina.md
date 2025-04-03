@@ -1,7 +1,7 @@
 ---
 title: "Qué llevar en la maleta en un viaje a Argentina"
 date: 2022-09-14
-coverImage: https://fotos.etheriamagazine.com/2022/09/viaje-argentina.jpg
+cover: https://fotos.etheriamagazine.com/2022/09/viaje-argentina.jpg
 categories: 
   - qué-llevar-en-la-maleta
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-La mejor temporada para viajar al país del tango es durante nuestro otoño e invierno, 
+**La mejor temporada para viajar al país del tango es durante nuestro otoño e invierno, 
 que corresponde con su primavera y verano austral. En este artículo te damos algunos 
 consejos fundamentales sobre cómo preparar una maleta para viajar Argentina en la que 
 tendrás que llevar ropa y accesorios para distintos tipo de clima y algunos complementos 
-imprescindibles. 
+imprescindibles.** 
 
 ![mujer preparando una maleta](https://fotos.etheriamagazine.com/2022/09/maleta-argentina-maleta.jpg "Al preparar una maleta para viajar a Argentina hay que optimizar muy bien el espacio.")
 
@@ -48,10 +48,10 @@ o en tiendas deportivas.
 
 Y en la Patagonia te hará falta una buena prenda de abrigo de tipo deportiva que sirva 
 también como cortaviento, que no te ocupará mucho espacio en la maleta porque la puedes 
-llevar puesta en el vuelo (saldrás del otoño-invierno de España). Te proponemos ésta de [Amazon](https://amzn.to/3TW5ufv), 
-pero hay muchos modelos en esta misma web y en otras tiendas como Decathlon. Debajo lo 
-mejor es llevar **ropa tipo trekking** con materiales técnicos que sean ligeros, 
-resistentes e impermeables. 
+llevar puesta en el vuelo (saldrás del otoño-invierno de España). Te proponemos ésta de 
+[Amazon](https://amzn.to/3TW5ufv), pero hay muchos modelos en esta misma web y en otras 
+tiendas como Decathlon. Debajo lo mejor es llevar **ropa tipo trekking** con materiales 
+técnicos que sean ligeros, resistentes e impermeables. 
 
 ## Calzado cómodo
 
@@ -91,7 +91,8 @@ Las **gafas de sol** son imprescindibles en todas las etapas del viaje, tanto pa
 parte más veraniega del viaje como para protegerse del brillo de los hielos patagónicos. 
 También muy recomendable llevar para Patagonia **gorro, guantes y bufanda o braga polar 
 para el cuello**, en las visitas a los glaciares y si realizas el imprescindible crucero 
-por el lago Argentino te harán mucha falta. Puedes elegir un conjunto como el que ofrece [Amazon](https://amzn.to/3xcABJS). 
+por el lago Argentino te harán mucha falta. Puedes elegir un conjunto como el que ofrece 
+[Amazon](https://amzn.to/3xcABJS). 
 
 ## Neceser y botiquín de viaje
 
@@ -175,8 +176,6 @@ DK](https://clk.tradedoubler.com/click?p=70431&a=3132464&g=17376810&url=https://
 
 **También te puede interesar:** 
 
-[Un paseo por la Belle Époque de Buenos 
-Aires](https://etheriamagazine.com/2019/07/05/que-ver-buenos-aires-belle-epoque-viajar-sola/) 
+{{< reflink path=posts/2019/07/que-ver-buenos-aires-belle-epoque-viajar-sola >}} 
 
-[10 parques naturales de América Latina con paisajes 
-increíbles](https://etheriamagazine.com/2021/10/21/parques-naturales-de-america-latina/)
+{{< reflink path=posts/2021/10/parques-naturales-de-america-latina >}}

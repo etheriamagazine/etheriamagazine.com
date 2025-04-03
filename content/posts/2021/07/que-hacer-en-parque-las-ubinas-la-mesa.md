@@ -1,7 +1,7 @@
 ---
 title: "Las Ubiñas, vive nueve experiencias en territorio del oso pardo"
 date: 2021-07-21
-coverImage: https://fotos.etheriamagazine.com/2021/07/capilla-santa-maria-bermiego.jpg
+cover: https://fotos.etheriamagazine.com/2021/07/capilla-santa-maria-bermiego.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -157,11 +157,9 @@ aire libre para recorrer en familia desde la localidad de **Tuñón**.
 
 ### También te puede interesar
 
-[Gijón: una gastroescapada que te dejará muy buen sabor de 
-boca](https://etheriamagazine.com/2021/01/25/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias/). 
+{{< reflink path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias 
+>}}. 
 
-[Llanes, una ruta en coche inolvidable por la costa 
-asturiana](https://etheriamagazine.com/2020/08/17/mejores-playas-llanes-costa-asturias/). 
+{{< reflink path=posts/2020/08/mejores-playas-llanes-costa-asturias >}}. 
 
-[5 rutas en autocaravana por España para disfrutar de mar y de 
-montaña](https://etheriamagazine.com/2020/07/23/5-rutas-en-auto-caravana-por-espana/).
+{{< reflink path=posts/2020/07/5-rutas-en-auto-caravana-por-espana >}}.

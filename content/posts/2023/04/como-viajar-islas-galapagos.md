@@ -1,7 +1,7 @@
 ---
 title: "Islas Galápagos, consejos de Sania para visitar el paraíso perdido"
 date: 2023-04-09
-coverImage: https://fotos.etheriamagazine.com/2023/04/sania-galapagos-tortuga.jpg
+cover: https://fotos.etheriamagazine.com/2023/04/sania-galapagos-tortuga.jpg
 categories: 
   - viajar-sola
   - historias
@@ -11,10 +11,10 @@ authors:
   - Sania Jelic
 ---
 
-Sania Jelic ha pasado dos semanas en el archipiélago de las islas Galápagos, en Ecuador, 
-un paraíso natural de los que quedan pocos en el planeta. Nos cuenta su experiencia en 
-un crucero para buceadores con inmersiones únicas y sus impresiones de la maravillosa 
-isla de Isabela. Una emocionante etapa de su viaje que no olvidará jamás. 
+**Sania Jelic ha pasado dos semanas en el archipiélago de las islas Galápagos, en 
+Ecuador, un paraíso natural de los que quedan pocos en el planeta. Nos cuenta su 
+experiencia en un crucero para buceadores con inmersiones únicas y sus impresiones de la 
+maravillosa isla de Isabela. Una emocionante etapa de su viaje que no olvidará jamás.** 
 
 ![Sania Jelic y una tortuga](https://fotos.etheriamagazine.com/2023/04/sania-galapagos-tortuga.jpg "Sania Jelic en las islas Galápagos. © SJ")
 
@@ -185,9 +185,10 @@ que cuenta con un bonito mirador.
 
 ### Qué hacer en isla Isabela
 
-En isla Isabela me apunté a algunas excursiones con la agencia [Pahoehoe](http://www.pahoehoegalapagos.com), 
-la cual recomiendo por su seriedad y calidad de embarcación y personal. Además, Fátima 
-se encarga de que todos hagan lo que deben, mientras hace de _community manager_. 
+En isla Isabela me apunté a algunas excursiones con la agencia 
+[Pahoehoe](http://www.pahoehoegalapagos.com), la cual recomiendo por su seriedad y 
+calidad de embarcación y personal. Además, Fátima se encarga de que todos hagan lo que 
+deben, mientras hace de _community manager_. 
 
 Si os quedáis en esta isla, en el pueblo de Isabela hay varios tipos de alojamiento y 
 muchos de ellos están en primera línea de playa. La arena es blanca, suele haber brisa y 
@@ -226,11 +227,8 @@ tímidos.
 
 📌 **También te puede interesar:** 
 
-[Bolivia bien vale un potosí, nueva etapa de Sania 
-Jelic](https://etheriamagazine.com/2023/03/13/itinerario-bolivia-sania-jelic/) 
+{{< reflink path=posts/2023/03/itinerario-bolivia-sania-jelic >}} 
 
-[Santiago de Chile y Atacama, nuevas etapas de 
-Sania](https://etheriamagazine.com/2023/02/27/ruta-santiago-atacama-uyuni/) 
+{{< reflink path=posts/2023/02/ruta-santiago-atacama-uyuni >}} 
 
-[Cruce Andino, Bariloche y El Bolsón, fin del viaje de Sania en 
-Patagonia](https://etheriamagazine.com/2023/02/10/patagonia-cruce-lagos/)
+{{< reflink path=posts/2023/02/patagonia-cruce-lagos >}}

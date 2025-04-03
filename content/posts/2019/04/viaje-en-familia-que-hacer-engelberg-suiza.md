@@ -1,7 +1,7 @@
 ---
 title: "Viaje con niños a Engelberg, el corazón de Suiza"
 date: 2019-04-30
-coverImage: https://fotos.etheriamagazine.com/2019/04/Engelberg-ninas-Furenalp.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/Engelberg-ninas-Furenalp.jpg
 categories: 
   - viajar-en-familia
   - ocio
@@ -37,21 +37,21 @@ por la zona en autobús, funicular y hasta en patinete.
 ![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](https://fotos.etheriamagazine.com/2019/04/Engelberg-actividades.jpg "Senderismo en Fürenalp y actividad de la O.T. de Engelberg para niños en el parque Robinson en Grotzenwäldli. © Laura Fernández")
 
 La ciudad de Engelberg es una de esas localidades suizas que vive de cara a las montañas 
-que la rodean. Todo en ella está pensado para disfrutar de la naturaleza. Cuenta con un [monasterio 
-benedictino](https://www.schaukaeserei-engelberg.ch/english/) del siglo XII (donde se 
-encuentra la única producción artesanal de queso en un lugar de estas características), 
-un [Museo Etnográfico](https://www.talmuseum.ch) y una calle comercial. Todo lo demás 
-está en las montañas: granjas que se pueden visitar, lagos, queserías, parques en los 
-árboles... Tendrás que organizar muy bien el tiempo para disfrutar del mayor número 
-posible de actividades. 
+que la rodean. Todo en ella está pensado para disfrutar de la naturaleza. Cuenta con un 
+[monasterio benedictino](https://www.schaukaeserei-engelberg.ch/english/) del siglo XII 
+(donde se encuentra la única producción artesanal de queso en un lugar de estas 
+características), un [Museo Etnográfico](https://www.talmuseum.ch) y una calle 
+comercial. Todo lo demás está en las montañas: granjas que se pueden visitar, lagos, 
+queserías, parques en los árboles... Tendrás que organizar muy bien el tiempo para 
+disfrutar del mayor número posible de actividades. 
 
 ![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](https://fotos.etheriamagazine.com/2019/04/Engelberg-panoramica.jpg "Panorámica de Engelberg y sus montañas. © Peter Wormstetter")
 
 ## Subida y bajada al monte Titlis
 
-El [Klein Titlis](https://www.titlis.ch/en?c=1) (o pequeño Titlis) es una de esas [montañas 
-suizas](https://etheriamagazine.com/2018/09/28/tres-montanas-suizas-a-las-que-subir-sin-despeinarse/) 
-a las que hay que subir sí o sí si decides hacer un viaje con niños a Engelberg. La 
+El [Klein Titlis](https://www.titlis.ch/en?c=1) (o pequeño Titlis) es una de esas {{< 
+reflink path=posts/2018/09/tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}} a 
+las que hay que subir sí o sí si decides hacer un viaje con niños a Engelberg. La 
 ascensión a sus 3.062 metros de altura se hace cómodamente en dos tramos de telecabina: 
 primero en el TITLIS Xpress y después en el TITLIS Rotair (el primer teleférico 
 giratorio del mundo). Toda una experiencia por sus maravillosas vistas. Una vez arriba, 
@@ -126,8 +126,8 @@ naturaleza puede darnos. Probablemente uno de los lugares más sorprendentes a n
 paisajístico de los que vas a conocer en tus viajes. Es obligatorio realizar alguna ruta 
 de senderismo. Merece la pena elegir alguna que te lleve a la cascada, que se muestra 
 imponente en medio de campos llenos de flores. Hay varios restaurantes y granjas en la 
-zona donde se puede tomar queso, el típico Rösti y tartas de frutas (como [Stäfeli](https://www.staefeli.ch) 
-o [Alpenrösli](http://www.alpenroesli-engelberg.ch)). 
+zona donde se puede tomar queso, el típico Rösti y tartas de frutas (como 
+[Stäfeli](https://www.staefeli.ch) o [Alpenrösli](http://www.alpenroesli-engelberg.ch)). 
 
 Aquí te hemos ofrecido nuestra experiencia en este **viaje con niños a Engelberg** pero 
 si tienes alguna duda, estaremos encantadas de ayudarte. 
@@ -136,12 +136,12 @@ si tienes alguna duda, estaremos encantadas de ayudarte.
 
 ### CONSEJOS ETHERIA
 
-• Para alojarse en Engelberg hay varios hoteles pero una opción muy buena si haces un 
+- Para alojarse en Engelberg hay varios hoteles pero una opción muy buena si haces un 
 viaje con niños a Engelberg son los apartamentos [Titlis 
 Resort](https://www.titlisresort.ch/en?c=1). Modernos, bien equipados y situados 
 enfrente de la estación de subida al Titlis. 
 
-• Como en Suiza los restaurantes no son muy económicos, es preferible realizar un picnic 
+- Como en Suiza los restaurantes no son muy económicos, es preferible realizar un picnic 
 durante el día y dejar las noches para darte un capricho en algún restaurante de 
 Engelberg. Algunos son [Molkerei Hurschler](http://www.molkerei-hurschler.ch/en) (para 
 tomar raclette y fondue) o [Al Monasterio](https://www.almonastero.ch/?lang=en) (cocina 
@@ -151,29 +151,27 @@ juegan en los alrededores.
 
 ![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](https://fotos.etheriamagazine.com/2019/04/Engelberg-cerveza.jpg "Cerveza en la montaña. © Cristina Monllor")
 
-• La [Oficina de Turismo de Engelberg](https://www.engelberg.ch/en/) ofrece un programa 
+- La [Oficina de Turismo de Engelberg](https://www.engelberg.ch/en/) ofrece un programa 
 de verano para familias en el que cada día de la semana ofrece dos actividades gratis: 
 toboganes de montaña, pesca en el lago Eugenisee, búsqueda del tesoro, escalada, visita 
 a una granja… Si no hablas alemán, consulta antes las que se pueden realizar en inglés. 
 
-• Es aconsejable descargarse la **app iEngelberg-Titlis** (disponible para iOS y 
+- Es aconsejable descargarse la **app iEngelberg-Titlis** (disponible para iOS y 
 Android) para llevar la información práctica a mano. 
 
-• De abril a octubre funciona un servicio de autobús gratuito desde la estación de tren 
+- De abril a octubre funciona un servicio de autobús gratuito desde la estación de tren 
 de Engelberg a las estaciones para subir al Titlis, al Brunni y al Fürenalp. También 
 puedes utilizar el servicio de Taxi que une las distintas estaciones: Titlis Taxi, Tel. 
 +41 79 903 93 73. 
 
-• Más información en la [Oficina de Turismo de 
+- Más información en la [Oficina de Turismo de 
 Suiza](https://www.myswitzerland.com/es/engelberg.html). 
 
 ## Otros viajes en Suiza...
 
-[Viaje en familia a Suiza: tres montañas a las que subir sin 
-despeinarse](https://etheriamagazine.com/2018/09/28/tres-montanas-suizas-a-las-que-subir-sin-despeinarse/). 
+{{< reflink path=posts/2018/09/tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}}. 
 
-[Suiza en coche eléctrico, una aventura ecológica (y más 
-económica)](https://etheriamagazine.com/2021/02/10/ruta-en-coche-electrico-por-suiza/). 
+{{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}}. 
 
-[Suiza encumbra a las mujeres con su 100% 
-Women](https://etheriamagazine.com/2021/03/12/suiza-encumbra-a-las-mujeres-con-su-100-por-100-women/).
+{{< reflink path=posts/2021/03/suiza-encumbra-a-las-mujeres-con-su-100-por-100-women 
+>}}.

@@ -1,7 +1,7 @@
 ---
 title: "Greta Libros con Garbo: suscripción y club de lectura para mujeres"
 date: 2022-09-10
-coverImage: https://fotos.etheriamagazine.com/2022/09/patri-osuna-libros-mujeres.jpg
+cover: https://fotos.etheriamagazine.com/2022/09/patri-osuna-libros-mujeres.jpg
 categories: 
   - proyectos
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Patricia Osuna e Isabel Vilches son las dos periodistas que están detrás de Greta Libros 
-con Garbo, un nuevo proyecto cultural que lleva, a través de una suscripción, los 
+**Patricia Osuna e Isabel Vilches son las dos periodistas que están detrás de Greta 
+Libros con Garbo, un nuevo proyecto cultural que lleva, a través de una suscripción, los 
 mejores títulos a mujeres amantes de la lectura. Estas dos emprendedoras nos cuentan su 
-historia en primera persona en “Proyectos con alma”. 
+historia en primera persona en “Proyectos con alma”.** 
 
 ![Isabel Vilches y Patricia Osuna, fundadoras de Greta Libros con Garbo.](https://fotos.etheriamagazine.com/2022/09/patricia-osuna-isabel-vilches.jpg "Isabel Vilches y Patricia Osuna, fundadoras de Greta Libros con Garbo.")
 
@@ -135,13 +135,12 @@ que es un lujo poder contar.
 
 📌 **Greta Libros con Garbo está recomendado por Etheria Magazine** como un Proyecto con 
 Alma. Si queréis conocer más a fondo este nuevo modelo de suscripción y club de lectura, 
-sólo tenéis que entrar en su web [www.gretalibroscongarbo.com](https://gretalibroscongarbo.com/) 
-y seguirles la pista. No os defraudará. 
+sólo tenéis que entrar en su web 
+[www.gretalibroscongarbo.com](https://gretalibroscongarbo.com/) y seguirles la pista. No 
+os defraudará. 
 
 **Otros Proyectos con Alma de Etheria Magazine...** 
 
-[MdjemAfrica, mujeres que viajan en grupo para 
-bailar](https://etheriamagazine.com/2022/05/25/mdjemafrica-viajes-mujeres-baile/). 
+{{< reflink path=posts/2022/05/mdjemafrica-viajes-mujeres-baile >}}. 
 
-[Mujeres de Tanzania, el turismo como herramienta de 
-empoderamiento](https://etheriamagazine.com/2022/03/07/empoderar-con-el-turismo-mujeres-de-tanzania/).
+{{< reflink path=posts/2022/03/empoderar-con-el-turismo-mujeres-de-tanzania >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Guía para no perderse en el 66 Festival de San Sebastián"
 date: 2018-08-09
-coverImage: https://fotos.etheriamagazine.com/2018/07/Cartel-seccion-oficinal-festival-cine-San-Sebastian.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/Cartel-seccion-oficinal-festival-cine-San-Sebastian.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,12 +11,12 @@ authors:
   - Susana García
 ---
 
-Los festivales de cine aportan a las ciudades un punto de cultura y _glamour_ que las 
+**Los festivales de cine aportan a las ciudades un punto de cultura y _glamour_ que las 
 hacen más atractivas durante los días que se celebran. En San Sebastián, del 21 al 29 de 
 septiembre, se concentran propuestas innovadoras y grandes figuras internacionales. Este 
 año incluye una retrospectiva de una directora que merecería un puesto más destacado en 
 la historia del cine: la británica Muriel Box. A continuación tienes algunas 
-consideraciones y claves para entender y no perderte nada de esta gran cita cultural. 
+consideraciones y claves para entender y no perderte nada de esta gran cita cultural.** 
 
 ![fin de semana en San Sebastian](https://fotos.etheriamagazine.com/2018/07/san-sebastian-playa-concha.jpg "Playa de la Concha de San Sebastián.")
 
@@ -32,32 +32,36 @@ ser inéditas. Este año, entre otras películas, competiran los españoles _Yul
 Bollaín, _Entre dos aguas_ de Isaki Lacuesta, _Quién te cantará_ de Carlos Vermut y _El 
 Reino_ de Rodrigo Sorogoyen. Entre las películas extranjeras de esta sección se 
 encuentran _High Life_ de Claire Denis, _Vision_ de Naomi Kawase, _Illang: The Wolf 
-Brigad_e de Kim Jee-woon o _Rojo_ de Benjamín Naishtat. • **New Directors**. Compiten 
-primeros o segundos largometrajes internacionales producidos en el último año. Optan al 
-premio Kutxabank-New Directors. Estas películas optan también al Premio de la Juventud 
-que otorga un jurado de 300 jóvenes estudiantes (entre 18 y 25 años). 
+Brigad_e de Kim Jee-woon o _Rojo_ de Benjamín Naishtat. 
+
+- **New Directors**. Compiten primeros o segundos largometrajes internacionales 
+producidos en el último año. Optan al premio Kutxabank-New Directors. Estas películas 
+optan también al Premio de la Juventud que otorga un jurado de 300 jóvenes estudiantes 
+(entre 18 y 25 años). 
 
 ![arte ciudad evento](https://fotos.etheriamagazine.com/2018/07/Cartel-New-Directors-festival-cine-san-sebastian.jpg)
 
-• **Horizontes Latinos**. Largometrajes producidos en el año de forma total o parcial en 
+- **Horizontes Latinos**. Largometrajes producidos en el año de forma total o parcial en 
 América Latina, inéditos en España, dirigidos por cineastas latinos o con tema latinos. 
 Optan al premio Horizontes y, si son la primera o segunda película del director, pueden 
-obtener también el Premio Juventud. • **Perlak**. Aquí compiten largometrajes del año 
-inéditos en España, que ya han sido premiados en otros festivales o aplaudidos por la 
-crítica. Optan al **Premio del Público**, que otorgan los espectadores que asisten a la 
-primera proyección pública de cada película, que se da al distribuidor de la película en 
-España. Se divide en un Primer Premio a la Mejor Película y un Segundo Premio a la Mejor 
-Película Europea. Este año competirán, entre otras, cinco películas de la Sección 
-Oficial de Cannes: la polaca _Zimna wojna/ Cold War_, la iraní _3 rokh/ Three Faces_, la 
-española _Un día más con la vida_, la japonesa _Netemo Sametemo/ Asako I & II_ y la rusa 
-_Leto/ Summer_. Además, ya está confirmada la participación de la coproducción 
-hispano-argentina _El ángel_. • **Zabaltegi Tabakalera**. Es la sección más libre y 
-abierta, donde cabe un poco de todo: series, cortometrajes, animaciones… Optan al premio 
-Zabaltegi Tabakalera y permiten acceder como espectador a **propuestas diferentes y 
-arriesgadas**. En la edición de 2018 participarán la serie de televisión francesa 
-_Coincoin et les z’inhumains_, la cuarta película de Albertina Carri _Las hijas del 
-fuego_ y la película china _Da xiang xi di er zuo/An Elephant Sitting Still_, entre 
-otras. 
+obtener también el Premio Juventud. 
+
+- **Perlak**. Aquí compiten largometrajes del año inéditos en España, que ya han sido 
+premiados en otros festivales o aplaudidos por la crítica. Optan al **Premio del 
+Público**, que otorgan los espectadores que asisten a la primera proyección pública de 
+cada película, que se da al distribuidor de la película en España. Se divide en un 
+Primer Premio a la Mejor Película y un Segundo Premio a la Mejor Película Europea. Este 
+año competirán, entre otras, cinco películas de la Sección Oficial de Cannes: la polaca 
+_Zimna wojna/ Cold War_, la iraní _3 rokh/ Three Faces_, la española _Un día más con la 
+vida_, la japonesa _Netemo Sametemo/ Asako I & II_ y la rusa _Leto/ Summer_. Además, ya 
+está confirmada la participación de la coproducción hispano-argentina _El ángel_. 
+
+- **Zabaltegi Tabakalera**. Es la sección más libre y abierta, donde cabe un poco de 
+todo: series, cortometrajes, animaciones… Optan al premio Zabaltegi Tabakalera y 
+permiten acceder como espectador a **propuestas diferentes y arriesgadas**. En la 
+edición de 2018 participarán la serie de televisión francesa _Coincoin et les 
+z’inhumains_, la cuarta película de Albertina Carri _Las hijas del fuego_ y la película 
+china _Da xiang xi di er zuo/An Elephant Sitting Still_, entre otras. 
 
 También existen otras secciones no competitivas como **Culinary Zinema**, que se 
 organiza junto con el Basque Culinary Center para unir cine y gastronomía; **Made in 
@@ -111,14 +115,19 @@ A priori, resulta un poco complicado el sistema y los tipos de entradas. Os damo
 algunas pistas, aunque, ante cualquier duda, puedes dirigirte a **Tel. 943 481 212** y 
 **baz@sansebastianfestival.com**. Puedes adquirir entradas para: 
 
-• Las **Galas de Inauguración** (21 de septiembre) y **Clausura** (29 de septiembre). 
+- Las **Galas de Inauguración** (21 de septiembre) y **Clausura** (29 de septiembre). 
 Tienen lugar en el Centro Kursaal y no se pueden comprar más de cuatro entradas por 
-persona. Ya están a la venta. Precio por entrada: 70 euros. • **Premio Donostia a 
-Hirokazu Kore-eda en el Teatro Victoria Eugenia**. No se pueden adquirir más de cuatro 
-entradas por persona. Ya están a la venta. Precio por entrada: 15 euros. • **Premios 
-Donostia en el Kursaal**. No se pueden comprar más de cuatro entradas por persona. 
-Precio por entrada: 45 euros. • **Entradas para las sesiones**. La venta comienza el 16 
-de septiembre a las 9 horas en todos los canales a la vez. 
+persona. Ya están a la venta. Precio por entrada: 70 euros. 
+
+- **Premio Donostia a Hirokazu Kore-eda en el Teatro Victoria Eugenia**. No se pueden 
+adquirir más de cuatro entradas por persona. Ya están a la venta. Precio por entrada: 15 
+euros. 
+
+- **Premios Donostia en el Kursaal**. No se pueden comprar más de cuatro entradas por 
+persona. Precio por entrada: 45 euros. 
+
+- **Entradas para las sesiones**. La venta comienza el 16 de septiembre a las 9 horas en 
+todos los canales a la vez. 
 
 Existen **abonos** para la Sección Oficial en la sala K1 del Centro Kursaal (Zona 
 General: 280 euros; Zona B: 390 euros). Si se compran **entradas sueltas**, no se 
@@ -134,21 +143,21 @@ condiciones para cada sala, lo mejor es consultar en información general de ent
 
 ## CONSEJOS ETHERIA
 
-• La ocupación hotelera en San Sebastián es muy alta durante el festival y los precios 
+- La ocupación hotelera en San Sebastián es muy alta durante el festival y los precios 
 se disparan. Si quieres estar alojado en San Sebastián, reservar con mucha antelación. Y 
 si te hace ilusión encontrarte con las estrellas del festival, opta por el hotel María 
 Cristina. Una buena opción es alojarse en establecimientos de localidades cercanas. 
 
-• San Sebastián es mucho más que cine. El festival ocupa muchas horas del día sentados 
+- San Sebastián es mucho más que cine. El festival ocupa muchas horas del día sentados 
 en las salas, así que hay que buscar momentos para disfrutar de esta maravillosa ciudad, 
 su gastronomía (sobre todo de sus pintxos) y sus playas. 
 
-• Imágenes: © Festival de Cine de San Sebastián. 
+- Imágenes: © Festival de Cine de San Sebastián. 
 
 **Te puede interesar...** 
 
-[Planes para un fin de semana en San Sebastián: seguro que no te 
-aburres](https://etheriamagazine.com/2021/04/01/que-ver-hacer-en-san-sebastian/). 
+{{< reflink path=posts/2021/04/que-ver-hacer-en-san-sebastian >}}. 
 
-[Descubre los mejores bares de pintxos de San Sebastián para ir con 
-amigas](https://etheriamagazine.com/2019/11/08/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas/).
+{{< reflink 
+path=posts/2019/11/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas 
+>}}.

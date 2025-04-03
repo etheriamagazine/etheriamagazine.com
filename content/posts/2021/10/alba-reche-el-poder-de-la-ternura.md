@@ -1,7 +1,7 @@
 ---
 title: "Alba Reche o el empoderamiento de la ternura"
 date: 2021-10-10
-coverImage: https://fotos.etheriamagazine.com/2021/10/alba-reche-ex-operacion-triunfo-2018.jpg
+cover: https://fotos.etheriamagazine.com/2021/10/alba-reche-ex-operacion-triunfo-2018.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -95,11 +95,8 @@ se ve que agradece tanta y tan necesaria ternura.
 
 ### También te puede interesar...
 
-[Lee Krasner, artista y esposa de Pollock, una reivindicación 
-necesaria](https://etheriamagazine.com/2021/08/06/lee-krasner-inspira-el-color-de-tu-nombre/). 
+{{< reflink path=posts/2021/08/lee-krasner-inspira-el-color-de-tu-nombre >}}. 
 
-[Meet Vincent van Gogh: la exhibición que te acerca la vida del genial pintor en 
-Madrid](https://etheriamagazine.com/2021/10/01/meet-vincent-van-gogh-exposicion-madrid/). 
+{{< reflink path=posts/2021/10/meet-vincent-van-gogh-exposicion-madrid >}}. 
 
-[¿Qué hay de nuevo en Berlín este 
-2021?](https://etheriamagazine.com/2021/09/24/nuevas-visitas-berlin-cultura-2021/)
+{{< reflink path=posts/2021/09/nuevas-visitas-berlin-cultura-2021 >}}

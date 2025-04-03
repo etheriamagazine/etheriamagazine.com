@@ -1,7 +1,7 @@
 ---
 title: "8 brunch en Madrid a muy buen precio para disfrutar del domingo"
 date: 2020-11-13
-coverImage: https://fotos.etheriamagazine.com/2020/11/brunch-madrid.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/brunch-madrid.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -173,11 +173,9 @@ Dónde: Glorieta de Bilbao, 7. Cuándo: sábados y domingos de 10 a 13 h. Precio
 
 **Te puede interesar...** 
 
-[Ruta por las tabernas centenarios de 
-Madrid](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/). 
+{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}}. 
 
-[Ruta por el Madrid más libre (de 
-gluten).](https://etheriamagazine.com/2020/10/02/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias/) 
+{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
+>}} 
 
-[Postres de chocolate con efecto terapéutico en 
-Madrid.](https://etheriamagazine.com/2020/09/11/donde-tomar-mejores-postres-chocolate-en-madrid/)
+{{< reflink path=posts/2020/09/donde-tomar-mejores-postres-chocolate-en-madrid >}}

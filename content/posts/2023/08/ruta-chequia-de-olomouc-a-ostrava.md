@@ -1,7 +1,7 @@
 ---
 title: "De Praga a Moravia, una ruta sorprendente en Chequia"
 date: 2023-08-25
-coverImage: https://fotos.etheriamagazine.com/2023/08/stramberk-pueblo-chequia.jpg
+cover: https://fotos.etheriamagazine.com/2023/08/stramberk-pueblo-chequia.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-El ambiente nostálgico de Praga y su amplio catálogo monumental es la carta de 
+**El ambiente nostálgico de Praga y su amplio catálogo monumental es la carta de 
 presentación de la República Checa; sin embargo, basta salir de ese perímetro mágico 
 para descubrir un país repleto de paisajes frondosos y una vida que transcurre a un 
 ritmo más pausado. Recorrer en coche o en tren el este de Chequia invita a vivir el 
-asombro en cada parada. ¿Nos acompañas a las regiones de Olomouc y Moravia-Silesia? 
+asombro en cada parada. ¿Nos acompañas a las regiones de Olomouc y Moravia-Silesia?** 
 
 ![Barcos restaurante en Praga](https://fotos.etheriamagazine.com/2023/08/ribera-moldava-praga.jpg "La ribera del Moldava está llena de vida.© Pepa García")
 
@@ -233,9 +233,7 @@ Czechia](https://www.visitczechia.com/es-ES).
 
 ✅ **También te puede interesar...** 
 
-[República Checa, visitas para mujeres que viajan 
-solas](https://etheriamagazine.com/2020/05/29/viajar-sola-a-republica-checa-visitas-y-consejos/). 
+{{< reflink path=posts/2020/05/viajar-sola-a-republica-checa-visitas-y-consejos >}}. 
 
-[](https://etheriamagazine.com/2019/05/07/viaje-en-familia-moravia-del-sur-praga-republica-checa/)[Qué 
-ver en Brno: una escapada muy ‘chic’ a 
-Chequia](https://etheriamagazine.com/2022/08/26/que-ver-brno-chequia/).
+{{< reflink path=posts/2019/05/viaje-en-familia-moravia-del-sur-praga-republica-checa 
+>}}{{< reflink path=posts/2022/08/que-ver-brno-chequia >}}.

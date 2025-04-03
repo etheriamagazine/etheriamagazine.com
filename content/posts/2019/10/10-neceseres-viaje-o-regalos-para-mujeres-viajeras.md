@@ -1,7 +1,7 @@
 ---
 title: "7 neceseres para mujeres viajeras"
 date: 2019-10-10
-coverImage: https://fotos.etheriamagazine.com/2019/10/set-natural-bath-skincare-products-in-white-packaging-on-wooden-table-spa-cosmetics-for-beauty-health-at-home-cosmetic-bag-toiletry-flowers-soap-moisturizer-cream-mockup-frame-copy-space.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/set-natural-bath-skincare-products-in-white-packaging-on-wooden-table-spa-cosmetics-for-beauty-health-at-home-cosmetic-bag-toiletry-flowers-soap-moisturizer-cream-mockup-frame-copy-space.jpg
 categories: 
   - inspiración
   - qué-llevar-en-la-maleta
@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-Pequeños, medianos o grandes, para llevar en el bolso de mano o en la maleta, los 
+**Pequeños, medianos o grandes, para llevar en el bolso de mano o en la maleta, los 
 neceseres de viaje son una de las piezas esenciales de nuestro equipaje y se deben 
 elegir con cuidado. En Etheria magazine hemos seleccionado 7 marcas que te pueden 
-resultar muy útiles a la hora de viajar. 
+resultar muy útiles a la hora de viajar.** 
 
 ![neceser blanco con productos para viaje](https://fotos.etheriamagazine.com/2019/10/set-natural-bath-skincare-products-in-white-packaging-on-wooden-table-spa-cosmetics-for-beauty-health-at-home-cosmetic-bag-toiletry-flowers-soap-moisturizer-cream-mockup-frame-copy-space.jpg "Es fundamental encontrar el neceser perfecto para cada tipo de viaje.")
 
@@ -59,7 +59,8 @@ En la imagen, los productos Rituals of Sakura.
 Cuando viajamos en determinadas ocasionamos preferimos emplear **un neceser que podamos 
 colgar** y tenerlo todo a mano. Dependiendo del tamaño, incluso es práctico para llevar 
 a las duchas de gimnasios y piscinas porque es impermeable y lo puedes colgar en una 
-percha. Este modelo es de la marca Lychii y lo puedes comprar en [Amazon](https://amzn.to/3T5rIu2). 
+percha. Este modelo es de la marca Lychii y lo puedes comprar en 
+[Amazon](https://amzn.to/3T5rIu2). 
 
 ![Neceser de viaje de gran capacidad](https://fotos.etheriamagazine.com/2019/10/neceser-viaje-gran-capacidad.jpg "Neceser de viaje de Lychii.")
 
@@ -68,7 +69,8 @@ percha. Este modelo es de la marca Lychii y lo puedes comprar en [Amazon](https:
 Esta firma francesa, que se ha ganado la confianza de las mujeres con sus productos 
 faciales, nos ofrece este pequeño neceser con productos esenciales de viaje y con su 
 garantía de calidad. Te encantarán el aroma de la línea Caudalie Summer Set Vinosource 
-Hydra, con tallas perfectas para llevar de viaje y que puedes comprar en [Amazon](https://amzn.to/3VbB35t). 
+Hydra, con tallas perfectas para llevar de viaje y que puedes comprar en 
+[Amazon](https://amzn.to/3VbB35t). 
 
 ![Neceser de viaje de Caudalie.](https://fotos.etheriamagazine.com/2019/10/neceser-caudalie.jpg "Neceser de viaje de Caudalie.")
 
@@ -84,5 +86,6 @@ bolsas GCOA](https://amzn.to/2op7XFh). Se puede elegir entre azul/rojo o rosa/ve
 
 ## También te puede interesar:
 
-[10 productos para un neceser de viaje seguro y con 
-estilo](https://etheriamagazine.com/2020/05/25/10-productos-basicos-para-un-neceser-de-viajes-de-mujer-seguro-y-con-estilo/)
+{{< reflink 
+path=posts/2020/05/10-productos-basicos-para-un-neceser-de-viajes-de-mujer-seguro-y-con-estilo 
+>}}

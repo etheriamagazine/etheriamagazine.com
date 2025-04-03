@@ -1,7 +1,7 @@
 ---
 title: "Ruta del lobo ibérico en Burgos, la propuesta más original de Castilla y León"
 date: 2024-03-29
-coverImage: https://fotos.etheriamagazine.com/2024/03/burgos-ruta-lobo.jpg
+cover: https://fotos.etheriamagazine.com/2024/03/burgos-ruta-lobo.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -181,11 +181,9 @@ inolvidable.
 
 ****También en Etheria Magazine****: 
 
-[La provincia de Burgos con niños, planes rurales y activos en 
-familia](https://etheriamagazine.com/2022/10/05/provincia-burgos-con-ninos/). 
+{{< reflink path=posts/2022/10/provincia-burgos-con-ninos >}}. 
 
-[Burgos subterráneo, planes alucinantes en cuevas, minas y canteras para este 
-verano](https://etheriamagazine.com/2022/06/24/burgos-subterraneo/). 
+{{< reflink path=posts/2022/06/burgos-subterraneo >}}. 
 
-[Canteras de Hontoria, Cubillo y Tornadijo, una visita a los orígenes de la Catedral de 
-Burgos](https://etheriamagazine.com/2021/08/30/visita-las-canteras-de-hontoria-cubillo-y-la-catedral-de-burgos/).
+{{< reflink 
+path=posts/2021/08/visita-las-canteras-de-hontoria-cubillo-y-la-catedral-de-burgos >}}.

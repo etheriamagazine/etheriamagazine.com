@@ -1,7 +1,7 @@
 ---
 title: "Qué comprar en Mallorca, de la artesanía al sabroso producto gourmet"
 date: 2023-05-19
-coverImage: https://fotos.etheriamagazine.com/2023/05/Mallorca-teixits-vicens.jpg
+cover: https://fotos.etheriamagazine.com/2023/05/Mallorca-teixits-vicens.jpg
 categories: 
   - compras
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-No podemos negar que cuando viajamos nos gusta llevarnos algún recuerdo de los destinos 
-que visitamos, da igual si es una ciudad cercana o allende los mares. Si eres de las 
-nuestras y quieres saber qué comprar en Mallorca en tu próxima escapada, toma buena 
-nota. 
+**No podemos negar que cuando viajamos nos gusta llevarnos algún recuerdo de los 
+destinos que visitamos, da igual si es una ciudad cercana o allende los mares. Si eres 
+de las nuestras y quieres saber qué comprar en Mallorca en tu próxima escapada, toma 
+buena nota.** 
 
 ![Tienda de artesanía de Mallorca.](https://fotos.etheriamagazine.com/2023/05/artesania-mallorca.jpg "Tienda de artesanía de Mallorca.")
 
@@ -158,9 +158,8 @@ que no hay que renunciar. Se tiene constancia de que ya en el siglo XVI se elabo
 la isla, aunque seguro que no había la variedad de hoy día: lisa (sin relleno), con 
 cabello de ángel, nata, trufa... e incluso con sobrasada. 
 
-📍Si te va el dulce, en este artículo te damos la [receta para hacer una coca de patata, 
-una coca de anís y otra de 
-turrón](https://etheriamagazine.com/2021/11/19/recetas-cocas-patata-anis-turron-de-palma/). 
+📍Si te va el dulce, en este artículo te damos la {{< reflink 
+path=posts/2021/11/recetas-cocas-patata-anis-turron-de-palma >}}. 
 
 ![La ensaimada es un producto típico de la gastronomía de Mallorca.](https://fotos.etheriamagazine.com/2022/10/mallorca-ensaimada.jpg "La ensaimada es un producto típico de la gastronomía de Mallorca.")
 
@@ -195,17 +194,16 @@ la playa d'Es Trenc, una de las más bonitas y salvajes de Mallorca.
 Aunque es imposible enumerar todos los productos que comprar en Mallorca, no podemos 
 menos que incluir los **vinos, los licores de hierbas y el aceite de la isla**. Llévate 
 alguna botella pero, ¡ojo! la tendrás que facturar o bien comprarla una vez que pases 
-los controles del aeropuerto. En este artículo te hablábamos de una interesante [ruta 
-del vino 
-mallorquina](https://etheriamagazine.com/2018/07/26/ruta-del-vino-binissalem-viaje-mallorca-interior/). 
+los controles del aeropuerto. En este artículo te hablábamos de una interesante {{< 
+reflink path=posts/2018/07/ruta-del-vino-binissalem-viaje-mallorca-interior >}}. 
 
 ![Mujer vino Enoturismo Binissalem Mallorca](https://fotos.etheriamagazine.com/2018/07/Mujer-vino-Enoturismo-Binissalem-Mallorca-Torres.jpg "© CRDO Binissalem (Mallorca)/ M.Torres")
 
 Si además de qué comprar en Mallorca te interesa conocer propuestas turísticas de 
 interés, no te pierdas estos artículos: 
 
-✅ [Palma con amigas: 8 planazos para exprimir la capital de 
-Mallorca](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palma-mallorca-con-amigas/). 
+✅ {{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas 
+>}}. 
 
-✅ [8 excursiones en Mallorca para un viaje en 
-familia](https://etheriamagazine.com/2020/06/16/8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos/).
+✅ {{< reflink 
+path=posts/2020/06/8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos >}}.

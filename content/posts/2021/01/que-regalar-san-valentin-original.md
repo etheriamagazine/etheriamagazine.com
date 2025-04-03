@@ -1,7 +1,7 @@
 ---
 title: "Cómo celebrar San Valentín de una forma diferente"
 date: 2021-01-28
-coverImage: https://fotos.etheriamagazine.com/2021/01/san-valentin-THE-ORGANIC-SPA.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/san-valentin-THE-ORGANIC-SPA.jpg
 categories: 
   - compras
 destino: 
@@ -70,13 +70,12 @@ posibilidad de maridaje.
 
 ## 4\. Escapada romántica al Ritz-Carlton Abama
 
-¿Puede haber mejor plan que escaparse al sur de Tenerife? Regalaos una escapada a [The 
-Ritz-Carlton 
-Abama](https://etheriamagazine.com/2021/06/28/the-ritz-carlton-abama-hotel-de-lujo-tenerife/) 
-y no os arrepentiréis. Este hotel cuenta con todo lo necesario para descansar y alejarse 
-de todo, sobre todo si te alojas en la zona de solo adultos o en la de las villas. 
-Además, tiene tantos restaurantes (algunos con estrella Michelin) que no es necesario 
-salir del hotel para nada. 
+¿Puede haber mejor plan que escaparse al sur de Tenerife? Regalaos una escapada a {{< 
+reflink path=posts/2021/06/the-ritz-carlton-abama-hotel-de-lujo-tenerife >}} y no os 
+arrepentiréis. Este hotel cuenta con todo lo necesario para descansar y alejarse de 
+todo, sobre todo si te alojas en la zona de solo adultos o en la de las villas. Además, 
+tiene tantos restaurantes (algunos con estrella Michelin) que no es necesario salir del 
+hotel para nada. 
 
 ![exterior de Ritz-Carlton Abama frente al mar](https://fotos.etheriamagazine.com/2021/01/san-valentin-abama-ritz-carlton.jpg "Hotel © Ritz-Carlton Abama, en el sur de Tenerife.")
 
@@ -132,20 +131,19 @@ equivocas seguro. Además, puedes hacer desde un regalazo (como un [Apple
 Watch](https://amzn.to/3Sqqex7) en Amazon; o un [Ipad](https://amzn.to/3HrmYv3), en 
 oferta desde 369 Euros) hasta detalles, como una [cartera de piel con 
 MagSafe](https://amzn.to/42bIQnJ) (65 Euros) para adaptar al iPhone o una correa para el 
-Apple Watch (desde 49 Euros). Algunas de las piezas, como los [AirPods](https://amzn.to/2YhmgKs) 
-o el iPad Air, pueden grabarse con un nombre o una fecha, un detalle perfecto para un 
-regalo de San Valentín. Puedes comprar cualquier dispositivo en la web y te lo envían a 
-casa. 
+Apple Watch (desde 49 Euros). Algunas de las piezas, como los 
+[AirPods](https://amzn.to/2YhmgKs) o el iPad Air, pueden grabarse con un nombre o una 
+fecha, un detalle perfecto para un regalo de San Valentín. Puedes comprar cualquier 
+dispositivo en la web y te lo envían a casa. 
 
 ![apple wach, apple y apple wallet](https://fotos.etheriamagazine.com/2021/01/regalos-san-valentin-apple.jpg "Regalos de © Apple para San Valentín.")
 
 **También te puede interesar**: 
 
-[10 hoteles de lujo para una escapada 
-romántica.](https://etheriamagazine.com/2021/01/21/hoteles-de-lujo-escapada-romantica-2021/) 
+{{< reflink path=posts/2021/01/hoteles-de-lujo-escapada-romantica-2021 >}} 
 
-[5 cámaras de fotos semiprofesionales perfectas para viajar 
-ligeras.](https://etheriamagazine.com/2020/11/25/5-camaras-de-fotos-semiprofesionales-perfectas-para-viajar-ligeras/) 
+{{< reflink 
+path=posts/2020/11/5-camaras-de-fotos-semiprofesionales-perfectas-para-viajar-ligeras 
+>}} 
 
-[Firmas solidarias de moda y belleza en las que tus compras también 
-suman.](https://etheriamagazine.com/2020/11/21/marcas-y-firmas-solidarias-de-moda-y-belleza/)
+{{< reflink path=posts/2020/11/marcas-y-firmas-solidarias-de-moda-y-belleza >}}

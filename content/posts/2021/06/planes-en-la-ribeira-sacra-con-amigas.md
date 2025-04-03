@@ -1,7 +1,7 @@
 ---
 title: "Planes divertidos en la Ribeira Sacra para descubrir sus secretos"
 date: 2021-06-17
-coverImage: https://fotos.etheriamagazine.com/2021/06/que-hacer-en-ribeira-sacra.jpg
+cover: https://fotos.etheriamagazine.com/2021/06/que-hacer-en-ribeira-sacra.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -179,11 +179,9 @@ y **Globos Boreal** (globosboreal.com).
 
 **Más viajes en Galicia...** 
 
-[Descubre la isla de Ons y disfruta del Caribe sin salir de 
-España](https://etheriamagazine.com/2020/08/06/excursion-isla-de-ons-como-llegar-que-ver/). 
+{{< reflink path=posts/2020/08/excursion-isla-de-ons-como-llegar-que-ver >}}. 
 
-[Vigo, ¿por qué estás tan rematadamente 
-bueno?](https://etheriamagazine.com/2020/11/24/comer-en-vigo-mejores-restaurantes-furanchos/) 
+{{< reflink path=posts/2020/11/comer-en-vigo-mejores-restaurantes-furanchos >}} 
 
-[La increíble historia de San Simón, la isla gallega de las 
-cuarentenas](https://etheriamagazine.com/2021/01/04/historia-de-san-simon-la-isla-gallega-de-las-cuarentenas/)
+{{< reflink path=posts/2021/01/historia-de-san-simon-la-isla-gallega-de-las-cuarentenas 
+>}}

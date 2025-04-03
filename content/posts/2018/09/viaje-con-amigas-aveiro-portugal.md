@@ -1,7 +1,7 @@
 ---
 title: "Aveiro no es la Venecia portuguesa, ni falta que hace"
 date: 2018-09-11
-coverImage: https://fotos.etheriamagazine.com/2018/09/aveiro-moliceiro-portugal-e1556956577209.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/aveiro-moliceiro-portugal-e1556956577209.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -163,11 +163,8 @@ Más información en Región Centro de Portugal (información en castellano).
 
 ### También te puede interesar:
 
-[Valle del Côa. 8 experiencias en el corazón de 
-Portugal](https://etheriamagazine.com/2020/07/17/valle-del-coa-8-experiencias-en-la-frontera-portugal/) 
+{{< reflink path=posts/2020/07/valle-del-coa-8-experiencias-en-la-frontera-portugal >}} 
 
-[9 planes en familia en el Centro de 
-Portugal](https://etheriamagazine.com/2019/06/28/planes-divertidos-viajes-familia-portugal/) 
+{{< reflink path=posts/2019/06/planes-divertidos-viajes-familia-portugal >}} 
 
-[Lisboa y Ericeira, un plan cercano para amantes del mar, el surf y el buen 
-comer](https://etheriamagazine.com/2020/03/24/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf/)
+{{< reflink path=posts/2024/08/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf >}}

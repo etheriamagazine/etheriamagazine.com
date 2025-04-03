@@ -1,17 +1,17 @@
 ---
 title: "15 lugares imprescindibles en A Coruña que miran al mar"
 date: 2022-09-23
-coverImage: https://fotos.etheriamagazine.com/2022/09/ortigueira-banco.jpg
+cover: https://fotos.etheriamagazine.com/2022/09/ortigueira-banco.jpg
 destino: 
   - España
 authors: 
   - Juan Carlos y Mar
 ---
 
-Sus 956 kilómetros de costa la convierten en la provincia española con el litoral más 
+**Sus 956 kilómetros de costa la convierten en la provincia española con el litoral más 
 extenso. Un balcón privilegiado al final de un continente donde asomarte para abarcar un 
 destino mítico a horizonte abierto. Te contamos los 15 imprescindibles que ver en A 
-Coruña para que no te pierdas nada de su maravillosa costa. 
+Coruña para que no te pierdas nada de su maravillosa costa.** 
 
 ![gaitero frente a la torre de Hércules](https://fotos.etheriamagazine.com/2022/09/coruna-torre-hercules.jpg "Torre de Hércules en A Coruña. © Susana García")
 
@@ -152,9 +152,8 @@ mariscos con vistas al mar. También es atractiva la localidad medieval de **Noi
 popularmente conocida como el puerto de Santiago o la pequeña Compostela por su cercanía 
 a la ciudad de peregrinación. 
 
-📌No te pierdas este artículo: [Camino de Santiago por la Ría de Muros-Noia, una 
-aventura a toda 
-vela](https://etheriamagazine.com/2021/07/14/camino-de-santiago-ria-de-muros-noia-en-velero/). 
+📌No te pierdas este artículo: {{< reflink 
+path=posts/2021/07/camino-de-santiago-ria-de-muros-noia-en-velero >}}. 
 
 ![hombre pescando en Noia](https://fotos.etheriamagazine.com/2022/09/a-coruna-noia.jpg "Acantilados en Noia.")
 
@@ -291,11 +290,9 @@ Cíes.
 
 ## Otros temas en Galicia
 
-[Camino de Santiago por la Ría de Muros-Noia, una aventura a toda 
-vela](https://etheriamagazine.com/2021/07/14/camino-de-santiago-ria-de-muros-noia-en-velero/) 
+{{< reflink path=posts/2021/07/camino-de-santiago-ria-de-muros-noia-en-velero >}} 
 
-[La increíble historia de San Simón, la isla gallega de las 
-cuarentenas](https://etheriamagazine.com/2021/01/04/historia-de-san-simon-la-isla-gallega-de-las-cuarentenas/) 
+{{< reflink path=posts/2021/01/historia-de-san-simon-la-isla-gallega-de-las-cuarentenas 
+>}} 
 
-[Planes en la Ribeira Sacra para descubrir sus mayores 
-secretos](https://etheriamagazine.com/2021/06/17/planes-en-la-ribeira-sacra-con-amigas/)
+{{< reflink path=posts/2021/06/planes-en-la-ribeira-sacra-con-amigas >}}

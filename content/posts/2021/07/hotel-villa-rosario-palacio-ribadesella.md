@@ -1,7 +1,7 @@
 ---
 title: "Hotel Villa Rosario, un palacio indiano asturiano frente al Cantábrico"
 date: 2021-07-20
-coverImage: https://fotos.etheriamagazine.com/2021/07/hotel-villa-rosario-palacio-indiano.jpg
+cover: https://fotos.etheriamagazine.com/2021/07/hotel-villa-rosario-palacio-indiano.jpg
 categories: 
   - hoteles
 destino: 
@@ -82,11 +82,9 @@ Fotografías cedidas por el hotel Villa Rosario.
 
 ### También te puede interesar
 
-[Llanes, una ruta en coche inolvidable por la costa 
-asturiana](https://etheriamagazine.com/2020/08/17/mejores-playas-llanes-costa-asturias/) 
+{{< reflink path=posts/2020/08/mejores-playas-llanes-costa-asturias >}} 
 
-[Gijón: una gastroescapada que te dejará muy buen sabor de 
-boca](https://etheriamagazine.com/2021/01/25/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias/) 
+{{< reflink path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias 
+>}} 
 
-[Picos de Europa. Ruta por la columna vertebral de Asturias, León y 
-Cantabria](https://etheriamagazine.com/2018/10/17/picos-de-europa-ruta-por-asturias-leon-y-cantabria/)
+{{< reflink path=posts/2018/10/picos-de-europa-ruta-por-asturias-leon-y-cantabria >}}

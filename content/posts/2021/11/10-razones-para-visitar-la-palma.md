@@ -1,7 +1,7 @@
 ---
 title: "10 poderosas razones para viajar a La Palma (y ninguna es el volcán)"
 date: 2021-11-15
-coverImage: https://fotos.etheriamagazine.com/2021/11/viaje-la-palma-canarias.jpg
+cover: https://fotos.etheriamagazine.com/2021/11/viaje-la-palma-canarias.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -30,11 +30,11 @@ los bosques en selvas tan maravillosas como ésta.
 ![los tilos excursion la palma](https://fotos.etheriamagazine.com/2021/11/la-palma-excursion-tilos.jpg "El Bosque de Los Tilos fue la primera Reserva de la Biosfera en la isla. © K.R.")
 
 Si tuviéramos que buscar un socorrista gastronómico en medio de la jungla de los Tilos, 
-**Juana** sería nuestra Pamela Anderson de las papas con mojo y queso. Las suyas en [Casa 
-Demetrio](https://www.visitlapalma.es/restaurantes/restaurante-casa-demetrio/) ya tienen 
-nombre, ‘papas agradecidas’. Es el plato más demandado en su restaurante ubicado en una 
-cabaña en medio de la selva, donde también guisa cabrito y sirve vino de Barlovento, un 
-municipio al norte de la isla. 
+**Juana** sería nuestra Pamela Anderson de las papas con mojo y queso. Las suyas en 
+[Casa Demetrio](https://www.visitlapalma.es/restaurantes/restaurante-casa-demetrio/) ya 
+tienen nombre, ‘papas agradecidas’. Es el plato más demandado en su restaurante ubicado 
+en una cabaña en medio de la selva, donde también guisa cabrito y sirve vino de 
+Barlovento, un municipio al norte de la isla. 
 
 ![casa demetrio la palma](https://fotos.etheriamagazine.com/2021/11/la-palma-juanita.jpg "Juanita posa junto a sus ‘papas agradecidas’ en Casa Demetrio. © K.R.")
 
@@ -171,9 +171,9 @@ en 2017–.
 
 Los palmeros que emigraron a América a finales del siglo XIX regresaron de Cuba con el 
 mejor secreto sobre cómo cultivar tabaco y convertir la caña de azúcar en ron. Testigo 
-de aquella cultura de ida y vuelta y después de cuatro generaciones, las destilerías de [Ron 
-Aldea](https://nueva.destileriasaldea.es/) mantienen hoy la misma técnica artesanal de 
-antaño. Sus licores se producen en un trapiche junto al idílico acantilado del 
+de aquella cultura de ida y vuelta y después de cuatro generaciones, las destilerías de 
+[Ron Aldea](https://nueva.destileriasaldea.es/) mantienen hoy la misma técnica artesanal 
+de antaño. Sus licores se producen en un trapiche junto al idílico acantilado del 
 Rompecabos, en un alambique de 1893 que se muestra al público en su fábrica de San 
 Andrés y Sauces. El agua de los manantiales de Marcos y Cordero hace único su sabor, del 
 que puedes disfrutar en una de sus catas in situ. 
@@ -197,11 +197,11 @@ está, mi amol?’, repiten mientras lanzan al aire polvos de talco y billetes. 
 embargo, todo forma parte de una pantomima. Es la forma que tienen de reírse de un 
 fenómeno social que vivió La Palma a finales del siglo XIX, cuando algunos de sus 
 emigrantes retornados de Cuba presumían de una riqueza que no tenían. En Etheria 
-Magazine, ya te contamos todos los detalles de [Los Indianos, el carnaval de La 
-Palma](https://etheriamagazine.com/2020/02/03/que-hacer-en-los-indianos-el-carnaval-de-la-palma/), 
-sin duda, uno de los más entrañables de España. La pandemia ha truncado su celebración 
-en 2020 y todavía es una incógnita si se celebrará en 2021. Por eso, te recomendamos que 
-no te pierdas la actualidad turística de la isla. 
+Magazine, ya te contamos todos los detalles de {{< reflink 
+path=posts/2020/02/que-hacer-en-los-indianos-el-carnaval-de-la-palma >}}, sin duda, uno 
+de los más entrañables de España. La pandemia ha truncado su celebración en 2020 y 
+todavía es una incógnita si se celebrará en 2021. Por eso, te recomendamos que no te 
+pierdas la actualidad turística de la isla. 
 
 > Celebrar Los Indianos puede convertirse en uno de los eventos que recuerdes de por vida. 
 
@@ -215,11 +215,10 @@ espacio aéreo si las condiciones del volcán lo requieren.
 
 ### También te puede interesar...
 
-[Por qué no olvidarás jamás La Palma, la isla más adictiva y alternativa de 
-Canarias](https://etheriamagazine.com/2019/04/02/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias/). 
+{{< reflink path=posts/2019/04/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias 
+>}}. 
 
-[Una escapada romántica al hotel Faro Punta Cumplida (La Palma, 
-Canarias)](https://etheriamagazine.com/2019/06/03/faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica/). 
+{{< reflink 
+path=posts/2019/06/faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica >}}. 
 
-[10 secretos que deberías conocer de la isla de La 
-Palma](https://etheriamagazine.com/2021/04/05/10-secretos-para-conocer-la-isla-de-la-palma/).
+{{< reflink path=posts/2021/04/10-secretos-para-conocer-la-isla-de-la-palma >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Descubre la sorprendente y variada arquitectura de Menorca"
 date: 2020-12-08
-coverImage: https://fotos.etheriamagazine.com/2020/11/viaje-menorca-Fornells-Torre-de-Fornells.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/viaje-menorca-Fornells-Torre-de-Fornells.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -137,14 +137,11 @@ calas del sur Menorca. Desde 50 €.
 
 ### También te puede interesar...
 
-[Guía de las mejores playas de 
-Menorca](https://etheriamagazine.com/2020/08/14/guia-mejores-playas-calas-menorca/). 
+{{< reflink path=posts/2020/08/guia-mejores-playas-calas-menorca >}}. 
 
-[Zambúllete en la mejor guía de playas de 
-Formentera](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-playas-formentera/). 
+{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}. 
 
-[20 restaurantes románticos de Ibiza para ir en 
-pareja](https://etheriamagazine.com/2020/02/14/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja/). 
+{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
+>}}. 
 
-[10 errores que debes evitar si vas a Ibiza con 
-amigas](https://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/).
+{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}.

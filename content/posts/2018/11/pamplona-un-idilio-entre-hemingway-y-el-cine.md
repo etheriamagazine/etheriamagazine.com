@@ -1,7 +1,7 @@
 ---
 title: "Pamplona, un idilio entre Hemingway y el cine"
 date: 2018-11-30
-coverImage: https://fotos.etheriamagazine.com/2018/11/Hemingway-1959-Pamplona-Iruña.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/Hemingway-1959-Pamplona-Iruña.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,12 +11,12 @@ authors:
   - Eva Madruga
 ---
 
-Cada año, y ya van tres, Pamplona rinde homenaje a Ernest Hemingway, uno de sus 
+**Cada año, y ya van tres, Pamplona rinde homenaje a Ernest Hemingway, uno de sus 
 embajadores más famosos con el ciclo 'Recuperando a Hemingway'. El escritor 
 norteamericano conoció la ciudad y su fiesta grande por primera vez en 1923. Tanto le 
 enamoró que regresó 8 veces más. El evento, que este año se centra en la repercusión 
 cinematográfica de la ciudad, incluye una exposición, degustaciones gastronómicas, 
-proyecciones cinematográficas y visitas guiadas. 
+proyecciones cinematográficas y visitas guiadas.** 
 
 ![Cartel del Festival e imagen de Hemingway con Lady Duff Twysden y tres amigos más.](https://fotos.etheriamagazine.com/2018/11/Festival-cine-pamplona.jpg "Cartel del Festival e imagen de Hemingway con Lady Duff Twysden y tres amigos más.")
 
@@ -100,19 +100,18 @@ más. La ciudad está tomada por el espíritu de Hemingway y la magia del cine.
 
 ### Guía de viajes | Etheria Magazine
 
-• Todas las propuestas del ciclo están disponibles en Recuperando a Hemingway. • Para 
-organizar el viaje lo mejor es visitar la web de Turismo de Pamplona. 
+- Todas las propuestas del ciclo están disponibles en Recuperando a Hemingway. 
+
+- Para organizar el viaje lo mejor es visitar la web de Turismo de Pamplona. 
 
 **Fotos de archivo:** Photograph in the Ernest Hemingway Photograph Collection, John F. 
 Kennedy Presidential Library and Museum, Boston. 
 
 ### Más artículos de Navarra
 
-[Planes increíbles por los que querrás viajar a 
-Navarra](https://etheriamagazine.com/2021/12/23/planes-en-navarra-con-amigas/) 
+{{< reflink path=posts/2021/12/planes-en-navarra-con-amigas >}} 
 
-[Por qué Tierra Estella y Tierras de Iranzu protagonizarán tu próximo viaje en familia a 
-Navarra](https://etheriamagazine.com/2021/02/08/navarra-en-familia-tierra-estella-y-tierras-de-iranzu/). 
+{{< reflink path=posts/2021/02/navarra-en-familia-tierra-estella-y-tierras-de-iranzu 
+>}}. 
 
-[Rutas en el hayedo encantado de Urbasa y en Urederra 
-(Navarra)](https://etheriamagazine.com/2020/10/05/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra/).
+{{< reflink path=posts/2020/10/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}.

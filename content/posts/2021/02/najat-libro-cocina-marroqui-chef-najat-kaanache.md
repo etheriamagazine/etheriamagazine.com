@@ -1,7 +1,7 @@
 ---
 title: "Najat Kaanache, la mejor chef de África, desvela en NAJAT los secretos de la cocina marroquí"
 date: 2021-02-04
-coverImage: https://fotos.etheriamagazine.com/2021/02/Najat-chef-restaurante-nur.jpg
+cover: https://fotos.etheriamagazine.com/2021/02/Najat-chef-restaurante-nur.jpg
 categories: 
   - cultura
   - mujeres-top
@@ -183,8 +183,7 @@ Gastro. Su autor es el fotógrafo Javier Peñas.
 
 ### También te puede interesar...
 
-[Celebrar la vida en el Alto Atlas 
-marroquí](https://etheriamagazine.com/2020/04/08/viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas/). 
+{{< reflink path=posts/2020/04/viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas 
+>}}. 
 
-[Qué ver en una escapada con amigas a 
-Marrakech](https://etheriamagazine.com/2018/12/27/viaje-de-amigas-a-marrakech/).
+{{< reflink path=posts/2018/12/viaje-de-amigas-a-marrakech >}}.

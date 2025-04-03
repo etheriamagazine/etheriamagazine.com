@@ -1,7 +1,7 @@
 ---
 title: "Getxo a bocados, una cita exquisita con el paladar"
 date: 2023-03-30
-coverImage: https://fotos.etheriamagazine.com/2023/03/Restaurante-Tamarises-Izarra.jpg
+cover: https://fotos.etheriamagazine.com/2023/03/Restaurante-Tamarises-Izarra.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -324,11 +324,8 @@ del despilfarro y más vinculada a conceptos como la salud y la ecología.
 
 **También en Etheria Magazine** 
 
-[Descubre el Getxo más cultural, 15 lugares imprescindibles en tu 
-agenda](https://etheriamagazine.com/2022/10/10/que-ver-en-getxo/). 
+{{< reflink path=posts/2022/10/que-ver-en-getxo >}}. 
 
-[Getxo, la escapada marinera con mejor rollo de 
-Bizkaia](https://etheriamagazine.com/2022/07/20/que-ver-getxo-visitas-marineras/). 
+{{< reflink path=posts/2022/07/que-ver-getxo-visitas-marineras >}}. 
 
-[10 pasos sostenibles para visitar 
-Getxo](https://etheriamagazine.com/2022/08/22/como-ser-sostenible-en-getxo/).
+{{< reflink path=posts/2022/08/como-ser-sostenible-en-getxo >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Cómo hacer de viajar un placer con Rusticae y LELO"
 date: 2024-05-10
-coverImage: https://fotos.etheriamagazine.com/2024/05/rusticae-lelo-granada-juan-ranas.jpg
+cover: https://fotos.etheriamagazine.com/2024/05/rusticae-lelo-granada-juan-ranas.jpg
 categories: 
   - bienestar
   - inspiración
@@ -109,5 +109,4 @@ Travel (hasta el 8 de mayo de 2025).
 
 **También en Etheria Magazine** 
 
-[Juguetes femeninos en la maleta y restricciones en algunos 
-países](https://etheriamagazine.com/2022/11/14/juguetes-sexuales-de-viaje/)
+{{< reflink path=posts/2022/11/juguetes-sexuales-de-viaje >}}

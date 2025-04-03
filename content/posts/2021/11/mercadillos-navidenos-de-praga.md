@@ -1,7 +1,7 @@
 ---
 title: "Mercadillos navideños de Praga, una buena excusa para viajar a Chequia"
 date: 2021-11-10
-coverImage: https://fotos.etheriamagazine.com/2021/11/mercadillos-Praga.jpg
+cover: https://fotos.etheriamagazine.com/2021/11/mercadillos-Praga.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-La capital checa se vuelve aún más seductora en la época de Adviento, un momento previo 
-a la Navidad en el que los mercadillos navideños de Praga inundan la ciudad de magia, 
-aromas y campanillas. Pero no sólo los praguenses celebran estas fechas sino que en 
-Brno, Pilsen, Karlovy Vary, Kutná Hora o Český Krumlov también se organizan para pasarlo 
-bien en las fiestas navideñas. 
+**La capital checa se vuelve aún más seductora en la época de Adviento, un momento 
+previo a la Navidad en el que los mercadillos navideños de Praga inundan la ciudad de 
+magia, aromas y campanillas. Pero no sólo los praguenses celebran estas fechas sino que 
+en Brno, Pilsen, Karlovy Vary, Kutná Hora o Český Krumlov también se organizan para 
+pasarlo bien en las fiestas navideñas.** 
 
 ![Mercadillo navideño de la Plaza de la Ciudad Vieja, en Praga.](https://fotos.etheriamagazine.com/2021/11/mercadillos-Praga.jpg "Mercadillo navideño de la Plaza de la Ciudad Vieja, en Praga. © Libor Svácek")
 
@@ -145,11 +145,10 @@ perfecta para viajar a este país centroeuropeo y empaparte de su cultura y trad
 
 **También te puede interesar…** 
 
-[Las tradiciones navideñas más curiosas de la República 
-Checa](https://etheriamagazine.com/2020/11/25/navidad-en-republica-checa-mercadillos/) 
+{{< reflink path=posts/2020/11/navidad-en-republica-checa-mercadillos >}} 
 
-[República Checa, un viaje al reino de la 
-fantasía](https://etheriamagazine.com/2021/02/26/excursiones-magicas-desde-praga-republica-checa/) 
+{{< reflink path=posts/2021/02/excursiones-magicas-desde-praga-republica-checa >}} 
 
-[10 ciudades con mercadillos navideños para contagiarse del espíritu de la 
-Navidad](https://etheriamagazine.com/2021/10/14/10-ciudades-con-mercadillos-para-contagiarse-del-espiritu-navideno/)
+{{< reflink 
+path=posts/2021/10/10-ciudades-con-mercadillos-para-contagiarse-del-espiritu-navideno 
+>}}

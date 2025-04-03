@@ -1,7 +1,7 @@
 ---
 title: "Stefanie Hempel te lleva por el Hamburgo de los Beatles"
 date: 2018-07-11
-coverImage: https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-5.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-5.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Manena Munar
 ---
 
-Stefanie era una niña de la Alemania del Este que vivía en Berlín cuando un simple muro 
-de cemento aún separaba las dos Alemanias. Al cumplir los nueve años su padre le regaló 
-un casete de los Beatles que cambiaría su vida para siempre. 
+**Stefanie era una niña de la Alemania del Este que vivía en Berlín cuando un simple 
+muro de cemento aún separaba las dos Alemanias. Al cumplir los nueve años su padre le 
+regaló un casete de los Beatles que cambiaría su vida para siempre.** 
 
 ![Stefanie Hempel guía con entusiasmo el tour del Hamburgo de los Beatles.](https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-5.jpg "Stefanie Hempel guía con entusiasmo el tour del Hamburgo de los Beatles.")
 
@@ -80,10 +80,10 @@ termina su _Sing along_ y el Tour Hemple-Beatles.
 
 **Más información** 
 
-• Puedes informarte y reservar el tour en www.hempels-musictour.com • Para organizar tu 
-viaje a Alemania consulta www.germany.travel/es 
+- Puedes informarte y reservar el tour en www.hempels-musictour.com 
+
+- Para organizar tu viaje a Alemania consulta www.germany.travel/es 
 
 **También te puede interesar...** 
 
-[Descubre Hamburgo en 48 horas, la Alemania más 
-canalla](https://etheriamagazine.com/2020/02/24/que-ver-hacer-fin-de-semana-hamburgo-alemania/).
+{{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}}.

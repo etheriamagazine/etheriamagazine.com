@@ -1,7 +1,7 @@
 ---
 title: "Ruta gastro por Pamplona: bares de pintxos, visitas y curiosidades"
 date: 2019-11-15
-coverImage: https://fotos.etheriamagazine.com/2019/11/Pamplona-Plaza-del-Castillo.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/Pamplona-Plaza-del-Castillo.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-Pamplona nos brinda una atractiva combinación de monumentos, paseos y bares de pintxos 
+**Pamplona nos brinda una atractiva combinación de monumentos, paseos y bares de pintxos 
 para pasar un fin de semana sin echar nada en falta ¡y en cualquier momento del año! 
 Además, puedes hacer alguna excursión a lugares cercanos como el pantano de Yesa o el 
 monasterio de Leyre. Esta ruta gastronómica por Pamplona la ha realizado _in situ_ 
-Elisabeth G. Iborra y nos trae las mejores recomendaciones en la capital navarra. 
+Elisabeth G. Iborra y nos trae las mejores recomendaciones en la capital navarra.** 
 
 ![Iglesia de San Saturnino, conocida como de San Cerin.](https://fotos.etheriamagazine.com/2019/11/Pamplona-San-Saturnino.jpg "Iglesia de San Saturnino, conocida como de San Cerin. ©Turismo Navarra")
 
@@ -153,15 +153,14 @@ retiros espirituales de los visitantes. Y aprovecha para relajarte en su **Espac
 Musical** escuchando sus conciertos de órgano o de canto gregoriano antes de emprender 
 la marcha hacia la frenética rutina. 
 
-_\* Fotografías cedidas por el Servicio de Marketing Turístico de [Navarra](https://www.visitnavarra.es/es/)._ 
+_\* Fotografías cedidas por el Servicio de Marketing Turístico de 
+[Navarra](https://www.visitnavarra.es/es/)._ 
 
 **No te pierdas...** 
 
-[Planes increíbles por los que querrás viajar a 
-Navarra](https://etheriamagazine.com/2021/12/23/planes-en-navarra-con-amigas/). 
+{{< reflink path=posts/2021/12/planes-en-navarra-con-amigas >}}. 
 
-[Por qué Tierra Estella y Tierras de Iranzu protagonizarán tu próximo viaje en familia a 
-Navarra](https://etheriamagazine.com/2021/02/08/navarra-en-familia-tierra-estella-y-tierras-de-iranzu/). 
+{{< reflink path=posts/2021/02/navarra-en-familia-tierra-estella-y-tierras-de-iranzu 
+>}}. 
 
-[Rutas en el hayedo encantado de Urbasa y en Urederra 
-(Navarra)](https://etheriamagazine.com/2020/10/05/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra/).
+{{< reflink path=posts/2020/10/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}.

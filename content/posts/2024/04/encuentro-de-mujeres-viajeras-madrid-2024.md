@@ -1,7 +1,7 @@
 ---
 title: "Crónica del II Encuentro de Mujeres Viajeras en Madrid, una jornada llena de emoción"
 date: 2024-04-12
-coverImage: https://fotos.etheriamagazine.com/2024/04/portada-mujeres-viajeras.jpg
+cover: https://fotos.etheriamagazine.com/2024/04/portada-mujeres-viajeras.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -100,7 +100,8 @@ disfruto de la experiencia”.
 
 Uno de los destinos que recomienda visitar “porque te deja totalmente traspuesta” es la 
 **India**, un viaje “emocional y de gran impacto donde la energía que fluye es 
-completamente distinta”. Comparte sus descubrimientos y consejos en [Tuhobbietuviaje.com](https://tuhobbietuviaje.com/) 
+completamente distinta”. Comparte sus descubrimientos y consejos en 
+[Tuhobbietuviaje.com](https://tuhobbietuviaje.com/) 
 
 ![María Grau en la ciudad sagrada de Pushkar, en India.](https://fotos.etheriamagazine.com/2024/04/maria-grau-india-pushkar.jpg "María Grau en la ciudad sagrada de Pushkar, en India. © M.Grau")
 
@@ -188,5 +189,4 @@ reído y emocionado con cada testimonio.
 
 **También te puede interesar...** 
 
-[Encuentro de Mujeres Viajeras en Madrid, experiencias que cambian la 
-vida](https://etheriamagazine.com/2024/03/08/encuentro-mujeres-viajeras-madrid/).
+{{< reflink path=posts/2024/03/encuentro-mujeres-viajeras-madrid >}}.

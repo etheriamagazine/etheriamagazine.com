@@ -1,17 +1,17 @@
 ---
 title: "Machu Picchu y otros lugares imprescindibles de Perú"
 date: 2023-08-30
-coverImage: https://fotos.etheriamagazine.com/2023/08/Laguna-Huacachina.jpg
+cover: https://fotos.etheriamagazine.com/2023/08/Laguna-Huacachina.jpg
 destino: 
   - Mundo
 authors: 
   - Redacción Etheria
 ---
 
-Perú es uno de esos países que siempre está presente en la lista de deseos de aquellas 
+**Perú es uno de esos países que siempre está presente en la lista de deseos de aquellas 
 personas con espíritu aventurero, uno de esos sueños que junto con lugares como Egipto y 
 Jordania habla de antiguas civilizaciones y de misterio. Te animamos a conocer Machu 
-Picchu, su abanderado turístico, pero también otros lugares imprescindibles de Perú. 
+Picchu, su abanderado turístico, pero también otros lugares imprescindibles de Perú.** 
 
 ![Mujeres peruanas ataviadas con el traje tradicional](https://fotos.etheriamagazine.com/2023/08/mujeres-peru-viajes.jpg "La cultura y el folclore son una atractivo añadido en Perú. © Deb Dowd")
 
@@ -31,11 +31,11 @@ distintos departamentos, y que juntos configuran la mejor panorámica turística
 Lima suele ser la puerta de entrada a este inmenso país, inmenso no sólo en tamaño sino 
 también en propuestas turísticas y gastronómicas. No olvidemos que alberga el que está 
 considerado, según el ranking de 2023 de _The World’s 50 Best Restaurant_, el mejor 
-restaurante del mundo. Ese templo culinario se llama [Central](https://centralrestaurante.com.pe/) 
-y al frente del mismo están los chefs **Virgilio Martínez y Pía León**. Si quieres 
-descubrir por qué se ha situado el primero de la lista, puedes reservar alguna de sus 
-cuatro experiencias, cuyo precio no es desorbitado, desde unos 300 euros (maridajes 
-aparte). 
+restaurante del mundo. Ese templo culinario se llama 
+[Central](https://centralrestaurante.com.pe/) y al frente del mismo están los chefs 
+**Virgilio Martínez y Pía León**. Si quieres descubrir por qué se ha situado el primero 
+de la lista, puedes reservar alguna de sus cuatro experiencias, cuyo precio no es 
+desorbitado, desde unos 300 euros (maridajes aparte). 
 
 Si tu viaje coincide con el verano, también podrás disfrutar de la alegría de las Fiesta 
 Patrias que celebran la independencia del país (en 1821), pero en cualquier otro momento 
@@ -93,9 +93,8 @@ el Complejo Arqueológico de **Cutimbo**, el centro funerario más importante de
 Perú, y el Complejo Arqueológico de **Sillustani**, un antiguo cementerio vinculado a 
 rituales funerarios de las culturas Inca, Colla y Tiahuanaco. 
 
-**No te pierdas este artículo**: [Toca el cielo con las manos en el lago Titicaca y la 
-Isla del 
-Sol](https://etheriamagazine.com/2019/12/20/que-ver-en-lago-titicaca-isla-del-sol-copacabana-bolivia/). 
+**No te pierdas este artículo**: {{< reflink 
+path=posts/2019/12/que-ver-en-lago-titicaca-isla-del-sol-copacabana-bolivia >}}. 
 
 ![Barca de totora en el Lago Titicaca](https://fotos.etheriamagazine.com/2023/08/lago-titicada-barca-totora.jpg "Lago Titicaca. © William Reis")
 
@@ -130,11 +129,8 @@ más de un viaje al año.
 
 **También te puede interesar...** 
 
-[Un viaje apasionante con amigas por el sur de 
-Perú](https://etheriamagazine.com/2019/11/01/mujeres-que-viajan-solas-amigas-peru/). 
+{{< reflink path=posts/2019/11/mujeres-que-viajan-solas-amigas-peru >}}. 
 
-[AC Hotel Lima Miraflores, una atractiva propuesta en la capital de 
-Perú](https://etheriamagazine.com/2020/02/27/hotel-ac-hotel-lima-miraflores-peru/). 
+{{< reflink path=posts/2020/02/hotel-ac-hotel-lima-miraflores-peru >}}. 
 
-[Restaurantes peruanos en Madrid con el sello del chef Jhosef 
-Arias](https://etheriamagazine.com/2022/01/24/restaurantes-peruanos-en-madrid-de-jhosef-arias/).
+{{< reflink path=posts/2022/01/restaurantes-peruanos-en-madrid-de-jhosef-arias >}}.

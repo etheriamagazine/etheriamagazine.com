@@ -1,7 +1,7 @@
 ---
 title: "Conoce las mejores tiendas de vinos de Madrid, Barcelona y otras ciudades"
 date: 2019-12-17
-coverImage: https://fotos.etheriamagazine.com/2019/12/vinotecas-navidad.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/vinotecas-navidad.jpg
 categories: 
   - gourmet
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Vanesa Viñolo
 ---
 
-En este artículo nuestra experta en vinos, Vanesa Viñolo, te da las claves para 
+**En este artículo nuestra experta en vinos, Vanesa Viñolo, te da las claves para 
 encontrar el vino perfecto y el lugar más adecuado donde comprarlo para ser la 
 anfitriona o invitada más aclamada. Elige una de estas tiendas de vinos en Madrid, 
 Barcelona, Valencia, Gijón, Valladolid, o bien una tienda online, y les dejarás con la 
-boca abierta. 
+boca abierta.** 
 
 ![copas de vino en decoración navideña](https://fotos.etheriamagazine.com/2019/12/vinotecas-navidad.jpg "El vino es fundamental en las cenas navideñas. © Element5 Digital")
 
@@ -202,11 +202,9 @@ vinos y estupendos recuerdos.
 
 ## También te puede interesar:
 
-[Conca de Barberà, ¿te vienes a disfrutar de sus 
-vinos?](https://etheriamagazine.com/2022/06/01/enoturismo-conca-de-barbera/) 
+{{< reflink path=posts/2022/06/enoturismo-conca-de-barbera >}} 
 
-[La Geria: la ruta de vinos definitiva para beberse 
-Lanzarote](https://etheriamagazine.com/2020/08/04/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote/) 
+{{< reflink 
+path=posts/2020/08/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}} 
 
-[Top ten de vinos para quedar de cine en tu próxima 
-barbacoa](https://etheriamagazine.com/2019/05/23/los-10-mejores-vinos-para-este-verano/)
+{{< reflink path=posts/2019/05/los-10-mejores-vinos-para-este-verano >}}

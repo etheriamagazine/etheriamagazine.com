@@ -1,7 +1,7 @@
 ---
 title: "Por qué Formentera Zen 2023 es la escapada que necesitas"
 date: 2023-03-21
-coverImage: https://fotos.etheriamagazine.com/2023/03/formentera-zen-yoga.jpg
+cover: https://fotos.etheriamagazine.com/2023/03/formentera-zen-yoga.jpg
 categories: 
   - viajar-sola
   - bienestar
@@ -11,10 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-Marca en rojo los últimos días de abril porque te espera Formentera Zen 2023, un evento 
-donde lograrás cargar las pilas para afrontar con energía y optimismo el resto del año. 
-En plena primavera y rodeadas de expertos del bienestar y de la salud, ésta es una cita 
-obligada si quieres mimarte por dentro y por fuera.¡Regálate unos días de desconexión! 
+**Marca en rojo los últimos días de abril porque te espera Formentera Zen 2023, un 
+evento donde lograrás cargar las pilas para afrontar con energía y optimismo el resto 
+del año. En plena primavera y rodeadas de expertos del bienestar y de la salud, ésta es 
+una cita obligada si quieres mimarte por dentro y por fuera.¡Regálate unos días de 
+desconexión!** 
 
 ![Jardines del hotel donde se celebra el Formentera Zen 2023](https://fotos.etheriamagazine.com/2023/03/formentera-zen-mujeres-atardecer.jpg "Formentera Zen te brinda unos días de desconexión.")
 
@@ -148,8 +149,6 @@ Formentera](https://www.formentera.es/).
 
 ✅ **Te puede interesar...** 
 
-[Dónde comer bien en Formentera sin perder de vista la mano 
-femenina](https://etheriamagazine.com/2022/07/27/mejores-restaurantes-formentera/). 
+{{< reflink path=posts/2022/07/mejores-restaurantes-formentera >}}. 
 
-[Zambúllete en la mejor guía de playas de 
-Formentera](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-playas-formentera/).
+{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}.

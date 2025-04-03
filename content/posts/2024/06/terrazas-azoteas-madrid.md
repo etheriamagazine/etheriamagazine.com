@@ -1,7 +1,7 @@
 ---
 title: "Terrazas en las azoteas de Madrid: 10 lugares con los que aciertas seguro"
 date: 2024-06-19
-coverImage: https://fotos.etheriamagazine.com/2024/06/hard-rock-hotel-terraza-foodtrucks.jpg
+cover: https://fotos.etheriamagazine.com/2024/06/hard-rock-hotel-terraza-foodtrucks.jpg
 categories: 
   - hoteles
   - ocio
@@ -170,8 +170,6 @@ calma de los mejores atardeceres de Madrid. **Dónde: Plaza de Cibeles, 1.**
 
 **También te puede interesar:** 
 
-[La ruta de Lola Flores en Madrid a tu aire (con plano 
-incluido)](https://etheriamagazine.com/2024/04/11/ruta-lola-flores-en-madrid/) 
+{{< reflink path=posts/2024/04/ruta-lola-flores-en-madrid >}} 
 
-[10 tabernas históricas de Madrid donde tomar el 
-vermú](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/)
+{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}}

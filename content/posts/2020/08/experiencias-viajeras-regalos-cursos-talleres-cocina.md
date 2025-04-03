@@ -1,7 +1,7 @@
 ---
 title: "Viaja a través de la gastronomía: cursos y talleres de cocina regional en España"
 date: 2020-08-25
-coverImage: https://fotos.etheriamagazine.com/2020/08/gastronomia-espana-boqueria-barcelona.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/gastronomia-espana-boqueria-barcelona.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-Cuando viajamos por España existen muchas formas de acercarse al destino que visitas y 
+**Cuando viajamos por España existen muchas formas de acercarse al destino que visitas y 
 una de ellas es a través de su gastronomía. No te conformes con acudir a sus mejores 
 restaurantes: súbete las mangas y prueba a realizar alguno de los cursos de cocina 
 local. Aquí te damos las claves para que elijas el que mejor se adapte a tus gustos y 
-algunos lugares donde realizarlos. 
+algunos lugares donde realizarlos.** 
 
 ![cocinero pelando un calabacín](https://fotos.etheriamagazine.com/2020/08/gastronomia-calabacin.jpg "Prueba a realizar un taller de cocina en tus viajes por España, no te arrepentirás. © Caroline Attwood")
 
@@ -55,8 +55,8 @@ aceite](https://www.civitatis.com/es/ubeda/cata-aceites-jaen/?aid=10211)? Civita
 propone una [cata de vinos y tapas en 
 Sevilla](https://www.civitatis.com/es/sevilla/cata-vinos-tapas/?aid=10211), una [cata de 
 quesos y vinos en 
-Córdoba](https://www.civitatis.com/es/cordoba/cata-quesos-vinos/?aid=10211) o una [degustación 
-de vinos y quesos 
+Córdoba](https://www.civitatis.com/es/cordoba/cata-quesos-vinos/?aid=10211) o una 
+[degustación de vinos y quesos 
 menorquines](https://www.civitatis.com/es/menorca/degustacion-quesos-vinos/?aid=10211). 
 Para hacer una cata de miel puedes acudir, por ejemplo, a **El Abejar** (en Aracena y 
 Sevilla) o probar la experiencia en Montferri (Tarragona). 
@@ -133,24 +133,23 @@ afuega el Pitu o las Moscovitas. Precio 38 Euros.
 ### Cocina valenciana
 
 Uno de los secretos mejor guardados de Valencia es el de la auténtica paella, ese que la 
-diferencia de los que ellos llaman el ‘arroz con cosas’. Civitatis cuenta con cursos en [Valencia](https://www.civitatis.com/es/valencia/taller-paella-valenciana/?aid=10211) 
-y [Alicante](https://www.civitatis.com/es/alicante/taller-paella/?aid=10211) que 
-incluyen la visita previa al mercado. 
+diferencia de los que ellos llaman el ‘arroz con cosas’. Civitatis cuenta con cursos en 
+[Valencia](https://www.civitatis.com/es/valencia/taller-paella-valenciana/?aid=10211) y 
+[Alicante](https://www.civitatis.com/es/alicante/taller-paella/?aid=10211) que incluyen 
+la visita previa al mercado. 
 
 ![cata de aceites en La Bobadilla](https://fotos.etheriamagazine.com/2020/08/gastronomia-espanola-la-bobadilla.jpg "Recogida de ingredientes con el chef y cata de aceite en La Bobadilla. © Barceló Hotel Group")
 
 ### Cocina andaluza
 
 La gastronomía andaluza es tan variada como lo son sus siete provincias. Algunos 
-hoteles, como el [Royal Hideaway Sancti 
-Petri](https://etheriamagazine.com/2020/05/21/hotel-lujo-costa-cadiz-royal-hideaway-sancti-petri/) 
-(Chiclana, Cádiz) o [La 
-Bobadilla](https://etheriamagazine.com/2018/08/23/hotel-la-bobadilla-loja-granada/) 
-(Loja, Granada) incluyen en su programa de actividades talleres de cocina para preparar 
-un menú andaluz. En el sevillano Mercado de Triana está el **Taller Andaluz de Cocina** 
-donde se imparten cursos de cocina española con visita al mercado. Consulta el 
-calendario en su web, donde también encontrarás cursos de cocina de todas las partes del 
-mundo. 
+hoteles, como el {{< reflink 
+path=posts/2020/05/hotel-lujo-costa-cadiz-royal-hideaway-sancti-petri >}} (Chiclana, 
+Cádiz) o {{< reflink path=posts/2018/08/hotel-la-bobadilla-loja-granada >}} (Loja, 
+Granada) incluyen en su programa de actividades talleres de cocina para preparar un menú 
+andaluz. En el sevillano Mercado de Triana está el **Taller Andaluz de Cocina** donde se 
+imparten cursos de cocina española con visita al mercado. Consulta el calendario en su 
+web, donde también encontrarás cursos de cocina de todas las partes del mundo. 
 
 ![puesto de frutas y verduras en La Boquería](https://fotos.etheriamagazine.com/2020/08/gastronomia-espana-boqueria-barcelona.jpg "Mercado de la Boquería en Barcelona.")
 
@@ -165,8 +164,6 @@ entre la amplia oferta de talleres de cocina que imparten.
 
 **También te puede interesar:** 
 
-[Cocina madre, el tributo de Joan Roca a su mejor 
-maestra](https://etheriamagazine.com/2021/04/03/nuevo-libro-joan-roca-cocina-madre/) 
+{{< reflink path=posts/2021/04/nuevo-libro-joan-roca-cocina-madre >}} 
 
-[Efigenia la de Las Hayas y la cocina que hechizó a Angela Merkel en La 
-Gomera](https://etheriamagazine.com/2021/01/06/casa-efigenia-mejor-restaurante-vegetariano-la-gomera/)
+{{< reflink path=posts/2021/01/casa-efigenia-mejor-restaurante-vegetariano-la-gomera >}}

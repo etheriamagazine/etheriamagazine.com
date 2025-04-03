@@ -1,7 +1,7 @@
 ---
 title: "Como preparar la maleta para un crucero"
 date: 2018-11-17
-coverImage: https://fotos.etheriamagazine.com/2018/11/hacer-maleta-crucero.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/hacer-maleta-crucero.jpg
 categories: 
   - qué-llevar-en-la-maleta
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Pepa G. Marín
 ---
 
-Muchas mujeres detestan el momento de hacer la maleta y a otras les encanta pero, 
+**Muchas mujeres detestan el momento de hacer la maleta y a otras les encanta pero, 
 quitando los extremos, a la mayoría nos parece un trámite aburrido –aunque necesario– 
 que debemos meditar para ahorrarnos sorpresas durante el viaje. En el caso de los 
 cruceros, con ese antiguo halo de exclusividad, la preocupación se incrementa. ¿Estás 
 preparada para desmitificar el 'mundo crucero'? Te contamos cómo preparar la maleta para 
-un crucero. 
+un crucero.** 
 
 ![Maleta en el mar](https://fotos.etheriamagazine.com/2018/11/hacer-maleta-crucero.jpg "Piensa bien cómo hacer la maleta para un crucero para no cargar de más.")
 
@@ -120,22 +120,20 @@ pero es mejor invertir el tiempo en tu autor favorito).
 Aunque puede parecer que no es preciso avisar de que **no está permitido llevar estos 
 objetos**, son muchos los que aún se requisan al subir al barco (y lo hemos visto). 
 
-• No puedes llevar: la plancha (ni la de la ropa ni la de pelo), la cafetera, la tetera, 
+- No puedes llevar: la plancha (ni la de la ropa ni la de pelo), la cafetera, la tetera, 
 el secador de pelo o cualquier otro electrodoméstico que se caliente. 
 
-• Los alimentos tampoco están permitidos. Excepto los de los bebés. 
+- Los alimentos tampoco están permitidos. Excepto los de los bebés. 
 
-• Deja tu mascota en casa, a no ser que sea un perro guía. 
+- Deja tu mascota en casa, a no ser que sea un perro guía. 
 
-• Aunque es obvio, tampoco están permitidas las armas de fuego, objetos cortantes, 
+- Aunque es obvio, tampoco están permitidas las armas de fuego, objetos cortantes, 
 drones, patines eléctricos, punteros láser, etc. 
 
 Y una vez con la maleta preparada, te queda lo mejor ¡disfrutar del crucero! 
 
 ## Otros artículos de Etheria Magazine sobre cruceros
 
-[Tips imprescindibles para organizar tu primer viaje en 
-crucero](https://etheriamagazine.com/2021/02/25/como-organizar-viaje-en-crucero-puertos-excursiones/) 
+{{< reflink path=posts/2021/02/como-organizar-viaje-en-crucero-puertos-excursiones >}} 
 
-[¿Es seguro viajar en crucero? Conoce los protocolos de Costa 
-Cruceros](https://etheriamagazine.com/2021/05/28/protocolos-covid-seguridad-en-costa-cruceros/)
+{{< reflink path=posts/2021/05/protocolos-covid-seguridad-en-costa-cruceros >}}

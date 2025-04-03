@@ -1,7 +1,7 @@
 ---
 title: "El Amazonas: nueva etapa de Sania Jelic en Sudamérica"
 date: 2022-12-24
-coverImage: https://fotos.etheriamagazine.com/2022/12/Sania-amazonas-tribus.jpg
+cover: https://fotos.etheriamagazine.com/2022/12/Sania-amazonas-tribus.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Sania Jelic
 ---
 
-En esta segunda entrega, Sania Jelic se adentra en el Amazonas para conocer algunas de 
+**En esta segunda entrega, Sania Jelic se adentra en el Amazonas para conocer algunas de 
 sus tribus autóctonas y nos cuenta sus impresiones del viaje. Un lugar que debe su 
 incalculable valor tanto a la naturaleza como a las tradiciones que atesoran sus 
 habitantes. Nuevas amigas, una gastronomía diferente y paisajes sobrecogedores. ¿Qué 
-será lo que más ha impresionado a Sania? Nos lo cuenta... 
+será lo que más ha impresionado a Sania?** **Nos lo cuenta...** 
 
 ![Sania con indígenas del Amazonas](https://fotos.etheriamagazine.com/2022/12/Sania-amazonas-tribus.jpg "Sania ha compartido momentos únicos con las tribus del Amazonas.")
 
@@ -232,8 +232,6 @@ por cierto.
 
 📌 **Sigue las entregas anteriores de Sania Jelic:** 
 
-[Viajar sola por el mundo tras la jubilación, el nuevo plan de vida de Sania 
-Jelic](https://etheriamagazine.com/2022/12/13/sania-jelic-viajar-sola-mas-65/) 
+{{< reflink path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}} 
 
-[Sania en Patagonia (parte 1): Ushuaia y Punta 
-Arenas](https://etheriamagazine.com/2023/01/10/sania-en-patagonia-ushuaia-punta-arenas/).
+{{< reflink path=posts/2023/01/sania-en-patagonia-ushuaia-punta-arenas >}}.

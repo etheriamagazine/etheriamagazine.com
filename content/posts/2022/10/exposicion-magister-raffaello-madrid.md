@@ -1,7 +1,7 @@
 ---
 title: "Magister Raffaello, una exposición inmersiva con entrada libre en Madrid"
 date: 2022-10-31
-coverImage: https://fotos.etheriamagazine.com/2022/10/Rafael-exposicion-madrid.jpg
+cover: https://fotos.etheriamagazine.com/2022/10/Rafael-exposicion-madrid.jpg
 categories: 
   - cultura
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Acercarse a la obra y la vida del gran artista italiano Rafael Sanzio es tan sencillo 
+**Acercarse a la obra y la vida del gran artista italiano Rafael Sanzio es tan sencillo 
 como visitar la exposición ‘Magister Raffaello. Un maravilloso viaje por el Renacimiento 
 italiano’ que estará disponible hasta el 15 de enero de 2023 en el Instituto Italiano de 
-Cultura de Madrid. Se emplea tecnología inmersiva y la entrada es gratuita. 
+Cultura de Madrid. Se emplea tecnología inmersiva y la entrada es gratuita.** 
 
 ![Entrada a la exposición Magister Raffaello.](https://fotos.etheriamagazine.com/2022/10/Rafael-exposicion-madrid.jpg "Entrada a la exposición Magister Raffaello. © Bernardo Arcos Mijailidis")
 
@@ -31,7 +31,8 @@ animado ambiente del centro de la capital.
 
 ## Un homenaje al maestro Raffaello
 
-Esta muestra organizada en el **500 aniversario de la muerte del maestro** italiano [Rafael 
+Esta muestra organizada en el **500 aniversario de la muerte del maestro** italiano 
+[Rafael 
 Sanzio](https://www.museodelprado.es/aprende/enciclopedia/voz/rafael-sanzio/cfde10c0-f78c-4280-9ce3-3e7596cabecb) 
 se apoya en una amplia variedad de recursos como iluminación, imágenes, narraciones o 
 música. A través de los mismos se explora su vida, la evolución de su técnica, los 
@@ -121,12 +122,11 @@ festivos permanecerá cerrada.
 Renacimiento italiano. Si quieres ir en grupo y sois más de 15 personas es aconsejable 
 comunicarlo previamente en este mail secrdir.iicmadrid@esteri.it. 
 
-Para más información consulta su [web](https://iicmadrid.esteri.it/es/gli_eventi/calendario/magister-raffaello-un-maravilloso-viaje-por-el-renacimiento-italiano/). 
+Para más información consulta su 
+[web](https://iicmadrid.esteri.it/es/gli_eventi/calendario/magister-raffaello-un-maravilloso-viaje-por-el-renacimiento-italiano/). 
 
 **También te puede interesar...** 
 
-[9 exposiciones en Madrid para este otoño: te van a apetecer 
-todas](https://etheriamagazine.com/2022/09/09/exposiciones-madrid-otono-2022/). 
+{{< reflink path=posts/2022/09/exposiciones-madrid-otono-2022 >}}. 
 
-[‘Hijas del Nilo’, una cita con las mujeres del antiguo Egipto en 
-Madrid](https://etheriamagazine.com/2022/07/04/exposicion-hijas-del-nilo-madrid/).
+{{< reflink path=posts/2022/07/exposicion-hijas-del-nilo-madrid >}}.

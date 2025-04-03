@@ -1,7 +1,7 @@
 ---
 title: "Festival Grand Restaurant: comer de lujo por poco dinero en Chequia"
 date: 2019-12-13
-coverImage: https://fotos.etheriamagazine.com/2019/12/Tusculum-Karlovy-Vary.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/Tusculum-Karlovy-Vary.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -12,10 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-Comer bien y barato es posible en República Checa. Conoce y disfruta de la buena cocina 
-de los mejores restaurantes del país desde 12 euros. Aprovecha la oportunidad que te 
-brinda el Festival Grand Restaurant entre el 15 de enero y el 29 de febrero de 2020. Te 
-contamos cómo reservar y algunos de los mejores establecimientos participantes. 
+**Comer bien y barato es posible en República Checa. Conoce y disfruta de la buena 
+cocina de los mejores restaurantes del país desde 12 euros. Aprovecha la oportunidad que 
+te brinda el Festival Grand Restaurant entre el 15 de enero y el 29 de febrero de 2020. 
+Te contamos cómo reservar y algunos de los mejores establecimientos participantes.** 
 
 ![cocina checa, mejores restaurantes checos](https://fotos.etheriamagazine.com/2019/12/Holiday-Inn-Brno.jpg "El restaurante Prominent, del Holiday Inn de Brno, fue uno de los más requeridos en 2019. @GRF")
 
@@ -56,9 +56,9 @@ cocina de aprovechamiento.
 
 ![Tusculum de Karlovy Vary](https://fotos.etheriamagazine.com/2019/12/Tusculum-Karlovy-Vary.jpg "Tusculum de Karlovy Vary. ©GRF")
 
-En la anterior edición, que estuvo dedicada a [Leonardo da 
-Vinci,](https://etheriamagazine.com/2019/01/09/leonardo-da-vinci-inspira-el-mayor-festival-gastronomico-de-rep-checa/) 
-participaron 90 restaurantes y durante mes y medio se sirvieron 38.796 menús, en 36 
+En la anterior edición, que estuvo dedicada a {{< reflink 
+path=posts/2019/01/leonardo-da-vinci-inspira-el-mayor-festival-gastronomico-de-rep-checa 
+>}} participaron 90 restaurantes y durante mes y medio se sirvieron 38.796 menús, en 36 
 ciudades de todo el país. Los establecimientos más demandados fueron el **restaurante 
 francés Art Nouveau**, situado en la bella Casa Municipal de Praga, y fuera de la 
 capital, el **restaurante Prominent,** del hotel Holiday Inn Brno, con 2.396 y 746 menús 
@@ -107,12 +107,8 @@ ciudades o establecimientos de Chequia como **Chateau Mcely**, la ciudad balnear
 
 Si necesitas más información puedes consultar la web (en español) de [Turismo de 
 Chequia.](https://www.czechtourism.com/sp/e/prague-grand-restaurant-festival/) Y si lo 
-que buscas son ideas para tu viajes, sigue leyendo otros temas publicados de [Una guía 
-urbana de 
-Praga](https://etheriamagazine.com/2019/09/16/que-hacer-ver-2-dias-en-praga-museos-festivales/), 
-[La Bohemia Suiza en 
-Chequia,](https://etheriamagazine.com/2018/12/11/10-estampas-romanticas-de-republica-checa/) 
-[República Checa en 
-familia](https://etheriamagazine.com/2019/05/07/viaje-en-familia-moravia-del-sur-praga-republica-checa/) 
-o las [Huellas del Comunismo en 
-Chequia](https://etheriamagazine.com/2019/11/17/ruta-revolucion-terciopelo-comunismo-republica-checa/).
+que buscas son ideas para tu viajes, sigue leyendo otros temas publicados de {{< reflink 
+path=posts/2019/09/que-hacer-ver-2-dias-en-praga-museos-festivales >}}, {{< reflink 
+path=posts/2018/12/10-estampas-romanticas-de-republica-checa >}} {{< reflink 
+path=posts/2019/05/viaje-en-familia-moravia-del-sur-praga-republica-checa >}} o las {{< 
+reflink path=posts/2019/11/ruta-revolucion-terciopelo-comunismo-republica-checa >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Averigua por qué Capadocia es una excursión idónea desde Estambul"
 date: 2022-04-22
-coverImage: https://fotos.etheriamagazine.com/2022/04/comida-capadocia-turquia.jpg
+cover: https://fotos.etheriamagazine.com/2022/04/comida-capadocia-turquia.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -16,14 +16,14 @@ Estambul suele ser el destino más habitual cuando se viaja a Turquía por prime
 
 Viajar a Turquía para conocer Estambul y realizar después una excursión a Capadocia es 
 una de las mejores decisiones que puedes tomar si estás valorando recorrer esta parte 
-del mundo. Eso sí, si sólo tienes un [fin de semana en 
-Estambul](https://etheriamagazine.com/2018/05/03/fin-de-semana-romantico-en-estambul/), 
-quédate en la capital turca y disfruta de todos sus atractivos. A partir del tercer día, 
-ya te puedes plantear recorrer los 750 kilómetros que separan esta bellísima ciudad de 
-los parajes de fantasía de la Capadocia en autobús (los hay nocturnos, unas 8 o 9 horas 
-de trayecto) o en [avión](https://www.skyscanner.es/rutas-aereas/ista/asr/estambul-a-kayseri.html) 
-(poco más de una hora de vuelo). Pero, ¿por qué viajar hasta allí en lugar de hacerlo a 
-otros destinos turcos como Éfeso o a Pamukkale? Te damos algunos motivos. 
+del mundo. Eso sí, si sólo tienes un {{< reflink 
+path=posts/2018/05/fin-de-semana-romantico-en-estambul >}}, quédate en la capital turca 
+y disfruta de todos sus atractivos. A partir del tercer día, ya te puedes plantear 
+recorrer los 750 kilómetros que separan esta bellísima ciudad de los parajes de fantasía 
+de la Capadocia en autobús (los hay nocturnos, unas 8 o 9 horas de trayecto) o en 
+[avión](https://www.skyscanner.es/rutas-aereas/ista/asr/estambul-a-kayseri.html) (poco 
+más de una hora de vuelo). Pero, ¿por qué viajar hasta allí en lugar de hacerlo a otros 
+destinos turcos como Éfeso o a Pamukkale? Te damos algunos motivos. 
 
 ![rocas con forma de falo en el valle del Amor, en Capadocia](https://fotos.etheriamagazine.com/2022/04/valle-amor-capadocia.jpg "Valle del Amor, en Capadocia.")
 
@@ -31,18 +31,17 @@ otros destinos turcos como Éfeso o a Pamukkale? Te damos algunos motivos.
 
 ### 1\. Admirar sus paisajes de fantasía
 
-Como ya te contamos en un artículo anterior (en este enlace lo puedes leer: [Fantasías 
-de 
-Capadocia](https://etheriamagazine.com/2019/02/26/revista-viajes-que-ver-capadocia/)), 
-el principal motivo para hacer una excursión a Capadocia es admirar las maravillas de su 
-paisaje. En un corto espacio de tiempo descubrirás numerosas maravillas naturales 
-forjadas por erupciones volcánicas o por el ingenio humano. Imposible no sucumbir ante 
-la belleza de las chimeneas de hadas o por el curioso laberinto de viviendas de algunas 
-ciudades subterráneas como **Kaymaklı, Derinkuyu, Özkonak, Mazi y Tatlarin**, creadas 
-para proteger a la población de los invasores. A veces tendrás la sensación de que estás 
-en otro planeta. 
+Como ya te contamos en un artículo anterior (en este enlace lo puedes leer: {{< reflink 
+path=posts/2019/02/revista-viajes-que-ver-capadocia >}}), el principal motivo para hacer 
+una excursión a Capadocia es admirar las maravillas de su paisaje. En un corto espacio 
+de tiempo descubrirás numerosas maravillas naturales forjadas por erupciones volcánicas 
+o por el ingenio humano. Imposible no sucumbir ante la belleza de las chimeneas de hadas 
+o por el curioso laberinto de viviendas de algunas ciudades subterráneas como 
+**Kaymaklı, Derinkuyu, Özkonak, Mazi y Tatlarin**, creadas para proteger a la población 
+de los invasores. A veces tendrás la sensación de que estás en otro planeta. 
 
-📌 Si te gusta ir con guía, hay una excursión por el Sur de Capadocia por unos 55 euros. [Infórmate](https://www.civitatis.com/es/capadocia/tour-sur-capadocia/?aid=10211). 
+📌 Si te gusta ir con guía, hay una excursión por el Sur de Capadocia por unos 55 euros. 
+[Infórmate](https://www.civitatis.com/es/capadocia/tour-sur-capadocia/?aid=10211). 
 
 ![Una mujer observa el paisaje desde un globo aerostático en Capadocia](https://fotos.etheriamagazine.com/2022/04/vuelo-globo-capadocia.jpg "Sobrevolar en globo la Capadocia es una experiencia inolvidable. © Jeison Higuita")
 
@@ -58,7 +57,8 @@ vadisi), el valle del Amor y el valle de los Monjes de Pasabağ. La vista de las
 chimeneas de hadas y otras formaciones rocosas, desde arriba, es realmente 
 impresionante. Entre las agencias que gestionan estos vuelos está Civitatis, que te 
 ofrece la garantía de devolución del dinero si cambias de idea. Puedes ampliar info y 
-ver precios en este [enlace](https://www.civitatis.com/es/capadocia/paseo-globo-capadocia/?aid=10211)[.](https://www.civitatis.com/es/capadocia/paseo-globo-capadocia) 
+ver precios en este 
+[enlace](https://www.civitatis.com/es/capadocia/paseo-globo-capadocia/?aid=10211)[.](https://www.civitatis.com/es/capadocia/paseo-globo-capadocia) 
 
 ![distintas imágenes del hotel Cappadocia Cave Suites](https://fotos.etheriamagazine.com/2022/04/hotel-lujo-cueva-capadocia.jpg "© Cappadocia Cave Suites.")
 
@@ -146,14 +146,15 @@ local.
 ##### Cómo llegar a Capadocia desde Estambul
 
 Desde Estambul puedes acceder a Capadocia en autobús 
-([Flixbus](https://www.flixbus.com.tr/), [Metro](https://www.metroturizm.com.tr/en/) y [Nevsehir 
-Seyahat](https://www.nevsehirseyahat.com.tr/?l=EN)), alquilando un vehículo o en avión. 
-El tren es menos recomendable. Si no tienes mucho tiempo, opta por la vía aérea. El 
-vuelo dura una hora y diez minutos, el precio suele rondar los 60 euros (ida y vuelta) 
-con Turkish Airlines, Pegasus Airlines, Aztec, etc. A la hora de comprar los vuelos, ten 
-en cuenta que hay dos aeropuertos en Estambul (Ataturk y Sabiha gokcen) y otros dos en 
-Capadocia (Kayseri y Nevsehir). Consulta opciones y precios en [Skyscanner](https://www.skyscanner.es/rutas-aereas/ista/asr/estambul-a-kayseri.html) 
-o en otro comparador de confianza. 
+([Flixbus](https://www.flixbus.com.tr/), [Metro](https://www.metroturizm.com.tr/en/) y 
+[Nevsehir Seyahat](https://www.nevsehirseyahat.com.tr/?l=EN)), alquilando un vehículo o 
+en avión. El tren es menos recomendable. Si no tienes mucho tiempo, opta por la vía 
+aérea. El vuelo dura una hora y diez minutos, el precio suele rondar los 60 euros (ida y 
+vuelta) con Turkish Airlines, Pegasus Airlines, Aztec, etc. A la hora de comprar los 
+vuelos, ten en cuenta que hay dos aeropuertos en Estambul (Ataturk y Sabiha gokcen) y 
+otros dos en Capadocia (Kayseri y Nevsehir). Consulta opciones y precios en 
+[Skyscanner](https://www.skyscanner.es/rutas-aereas/ista/asr/estambul-a-kayseri.html) o 
+en otro comparador de confianza. 
 
 📌 Los traslados desde el aeropuerto al hotel se pueden [reservar 
 previamente](https://www.civitatis.com/es/capadocia/traslados/?aid=10211). 
@@ -185,6 +186,7 @@ incluye](https://www.civitatis.com/es/estambul/excursion-capadocia-4-dias/?aid=1
 
 En Etheria Magazine somos muy previsoras en cuestión de seguros y siempre recomendamos 
 llevar uno si no lo tienes incluido en tu cobertura habitual (lee la letra pequeña de 
-tus tarjetas de crédito o tarjetas de viajera frecuente). Además, no son caros, los hay [desde 
-9 euros](https://www.civitatis.com/es/seguro-viaje/?aid=10211) en Civitatis y también en 
-Intermundial (donde te harán un descuento de un 10% por entrar desde este [enlace](https://clk.tradedoubler.com/click?p=281568&a=3132464)).
+tus tarjetas de crédito o tarjetas de viajera frecuente). Además, no son caros, los hay 
+[desde 9 euros](https://www.civitatis.com/es/seguro-viaje/?aid=10211) en Civitatis y 
+también en Intermundial (donde te harán un descuento de un 10% por entrar desde este 
+[enlace](https://clk.tradedoubler.com/click?p=281568&a=3132464)).

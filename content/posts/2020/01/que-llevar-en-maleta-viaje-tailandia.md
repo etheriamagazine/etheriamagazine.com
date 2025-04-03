@@ -1,7 +1,7 @@
 ---
 title: "Qué llevar en la maleta para un viaje a Tailandia"
 date: 2020-01-02
-coverImage: https://fotos.etheriamagazine.com/2019/12/maleta-tailandia-chicas.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/maleta-tailandia-chicas.jpg
 categories: 
   - inspiración
   - ocio
@@ -12,9 +12,9 @@ authors:
   - Redacción Etheria
 ---
 
-¿Estás preparando un viaje a Tailandia o planeas hacerlo en los próximos meses? Aquí te 
-damos unas claves para no equivocarte con lo que metes en la maleta y optimizar el 
-espacio para no ir muy cargada. 
+**¿Estás preparando un viaje a Tailandia o planeas hacerlo en los próximos meses? Aquí 
+te damos unas claves para no equivocarte con lo que metes en la maleta y optimizar el 
+espacio para no ir muy cargada.** 
 
 ![viajes a Tailandia, luna de miel en Tailandia, viajes en pareja](https://fotos.etheriamagazine.com/2019/12/maleta-tailandia-playa.jpg "Playa de Phra Nang (Krabi). © Sumit Chinchane")
 
@@ -46,9 +46,10 @@ no quieres entrar descalzo en los templos.
 
 Verás que todo el mundo viste de forma informal, no hace falta que lleves mucha ropa 
 para arreglarte. Guarda algún **vestido negro y zapatos cómodos de vestir** si piensas 
-salir a cenar a algún restaurante elegante de [Bangkok](https://etheriamagazine.com/2019/10/23/viaje-con-amigas-tailandia-donde-comer-bangkok/). 
-Y no olvides una chaqueta fina o un chal porque el aire acondicionado de restaurantes y 
-hoteles suele estar muy alto. 
+salir a cenar a algún restaurante elegante de {{< reflink 
+path=posts/2019/10/viaje-con-amigas-tailandia-donde-comer-bangkok >}}. Y no olvides una 
+chaqueta fina o un chal porque el aire acondicionado de restaurantes y hoteles suele 
+estar muy alto. 
 
 Si vas a **zonas de playa en Tailandia**, no puedes dejarte el bañador o bikini, lleva 
 al menos tres ya que con la humedad tardan en secarse, y una [toalla de 
@@ -117,8 +118,9 @@ pero algo fuerte) y la medicación habitual que tomes (si es que tomas alguna). 
 puedes llevar un termómetro, pastillas para el dolor de garganta y/o algún jarabe (es 
 fácil que duela la garganta por los cambios de temperatura entre el calor de la calle y 
 el aire acondicionado), tiritas, gasas y suero en monodosis. Una buena opción es hacerte 
-con un botiquín compacto como el de [Promofarma](https://www.promofarma.com/es/aposan-botiquin-1ud/p-258865) 
-y completarlo con las medicinas que necesites. 
+con un botiquín compacto como el de 
+[Promofarma](https://www.promofarma.com/es/aposan-botiquin-1ud/p-258865) y completarlo 
+con las medicinas que necesites. 
 
 ![Puedes llevar un botiquín y completarlo con las medicinas que necesites.](https://fotos.etheriamagazine.com/2019/12/maleta-tailandia-medicinas.jpg "Puedes llevar un botiquín y completarlo con las medicinas que necesites. © Promofarma")
 
@@ -131,9 +133,8 @@ pueden facilitar uno, pero no ocupa mucho en la maleta y puede ahorrarte problem
 ![Adaptador de corriente y tarjeta SIM de holafly](https://fotos.etheriamagazine.com/2019/12/maleta-tailandia-tecnologia.jpg "Adaptador de corriente y tarjeta SIM de ©holafly")
 
 Para comunicarte y tener internet (muy útil si dependes de Google Maps para tus rutas) 
-puedes comprar una [tarjeta 
-SIM](https://etheriamagazine.com/2022/06/17/holafly-viaje-espana/) local de HolaFly o 
-llevar un wifi portátil. Puedes contratarlo con empresas como **Travelwifi** 
+puedes comprar una {{< reflink path=posts/2022/06/holafly-viaje-espana >}} local de 
+HolaFly o llevar un wifi portátil. Puedes contratarlo con empresas como **Travelwifi** 
 (wifivox.com/tailandia) o **Mywebspot**. 
 
 ## 8\. Cámara fotográfica
@@ -171,11 +172,9 @@ porque nos da fiabilidad y porque ahora tiene una interesante cobertura Covid-19
 
 ### También te puede interesar:
 
-[Planes para aprovechar bien tres días en 
-Bangkok](https://etheriamagazine.com/2021/05/29/tres-dias-en-bangkok-que-hacer/) 
+{{< reflink path=posts/2021/05/tres-dias-en-bangkok-que-hacer >}} 
 
-[Chiang Mai, descubre su esencia entre templos y 
-mercados](https://etheriamagazine.com/2021/01/08/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual/) 
+{{< reflink path=posts/2021/01/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual 
+>}} 
 
-[Planes en Phuket con amigas dispuestas a 
-divertirse](https://etheriamagazine.com/2019/06/26/que-ver-en-phuket-tailandia-sola-o-con-amigas/)
+{{< reflink path=posts/2019/06/que-ver-en-phuket-tailandia-sola-o-con-amigas >}}

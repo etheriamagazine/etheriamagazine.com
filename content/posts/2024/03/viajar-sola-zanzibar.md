@@ -1,7 +1,7 @@
 ---
 title: "Consejos básicos de Sania Jelic si viajas sola a Zanzíbar"
 date: 2024-03-15
-coverImage: https://fotos.etheriamagazine.com/2024/03/sania-zanzibar-mujeres-playa-paje.jpg
+cover: https://fotos.etheriamagazine.com/2024/03/sania-zanzibar-mujeres-playa-paje.jpg
 categories: 
   - viajar-sola
   - mujeres-top
@@ -291,11 +291,8 @@ la habilidad de negociación de cada cual.
 
 **También te puede interesar:** 
 
-[Guía de Sania Jelic para visitar las cataratas 
-Victoria](https://etheriamagazine.com/2024/03/01/como-visitar-cataratas-victoria-sania-jelic/) 
+{{< reflink path=posts/2024/03/como-visitar-cataratas-victoria-sania-jelic >}} 
 
-[Guía de Sania Jelic para viajar a 
-Botsuana](https://etheriamagazine.com/2024/02/22/guia-viaje-botsuana-sania-jelic/) 
+{{< reflink path=posts/2024/02/guia-viaje-botsuana-sania-jelic >}} 
 
-[Consejos de Sania Jelic para viajar sola por África del sur y del 
-este](https://etheriamagazine.com/2024/01/31/consejos-viajar-sola-por-africa/)
+{{< reflink path=posts/2024/01/consejos-viajar-sola-por-africa >}}

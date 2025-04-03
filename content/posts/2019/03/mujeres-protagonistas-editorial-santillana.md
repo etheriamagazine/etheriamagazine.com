@@ -1,7 +1,7 @@
 ---
 title: "'Mujeres protagonistas', un interesante proyecto de la editorial Santillana"
 date: 2019-03-19
-coverImage: https://fotos.etheriamagazine.com/2019/03/mujeres-protagonistas-portadas.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/mujeres-protagonistas-portadas.jpg
 categories: 
   - historias
   - mujeres-top

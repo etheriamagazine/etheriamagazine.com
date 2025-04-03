@@ -1,7 +1,7 @@
 ---
 title: "Sania en Mendoza, la mayor región vinícola argentina"
 date: 2023-02-17
-coverImage: https://fotos.etheriamagazine.com/2023/02/sania-mendoza-excursion.jpg
+cover: https://fotos.etheriamagazine.com/2023/02/sania-mendoza-excursion.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Sania Jelic
 ---
 
-Cuarenta y cinco días por la Patagonia argentina y chilena le han dado a Sania Jelic 
+**Cuarenta y cinco días por la Patagonia argentina y chilena le han dado a Sania Jelic 
 vivencias inolvidables. Ahora continúa su viaje por la provincia argentina de Mendoza, 
 en el centro del país y fronteriza con Chile. Un lugar donde el vino es protagonista y 
 donde esta viajera silver ha vivido una de esas experiencias inolvidables: volar en 
-parapente. 
+parapente.** 
 
 ![Sania en el Parque Nacional del Aconcagua.](https://fotos.etheriamagazine.com/2023/02/sania-mendoza-excursion.jpg "Sania en el Parque Nacional del Aconcagua. © Sania Jelic")
 
@@ -93,7 +93,8 @@ tiempo. Además, lo quise hacer junto con una nueva amiga de Mendoza, que tambi�
 más de 65 años. Así que nos dispusimos a mostrar que la edad no tiene por qué ser una 
 limitación para saltar al vacío y volar. 
 
-📍Lo hicimos con la empresa [Andusfly](https://andusfly.com.ar/?gclid=Cj0KCQiA2-2eBhClARIsAGLQ2RlOT_NygEH0-D3XGuTJdD3VvtnaNyqOw0REaAnLhEALw_wcB), 
+📍Lo hicimos con la empresa 
+[Andusfly](https://andusfly.com.ar/?gclid=Cj0KCQiA2-2eBhClARIsAGLQ2RlOT_NygEH0-D3XGuTJdD3VvtnaNyqOw0REaAnLhEALw_wcB), 
 que lleva facilitando el vuelo por los aires de Mendoza desde hace dieciséis años. Saben 
 lo que hacen. Conocen los vientos, tienen buen equipo y son profesionales del aire. 
 
@@ -115,25 +116,17 @@ enormemente agradecida por ello.
 
 📌 **También te puede interesar:** 
 
-01.[Viajar sola por el mundo tras la jubilación, el nuevo plan de vida de Sania 
-Jelic](https://etheriamagazine.com/2022/12/13/sania-jelic-viajar-sola-mas-65/). 
+01.{{< reflink path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}}. 
 
-02. [El Amazonas: nueva etapa de Sania Jelic en 
-Sudamérica](https://etheriamagazine.com/2022/12/24/sania-jelic-amazonas/). 
+02. {{< reflink path=posts/2022/12/sania-jelic-amazonas >}}. 
 
-03. [Sania en Patagonia (parte 1): Ushuaia y Punta 
-Arenas](https://etheriamagazine.com/2023/01/10/sania-en-patagonia-ushuaia-punta-arenas/). 
+03. {{< reflink path=posts/2023/01/sania-en-patagonia-ushuaia-punta-arenas >}}. 
 
-04. [Sania Jelic en Patagonia (parte 2): Calafate y El 
-Chalten](https://etheriamagazine.com/2023/01/20/sania-jelic-patagonia-calafate-chalten/). 
+04. {{< reflink path=posts/2023/01/sania-jelic-patagonia-calafate-chalten >}}. 
 
-05. [Sania en Patagonia (parte 3): todo va lento, menos el 
-viento](https://etheriamagazine.com/2023/01/24/sania-patagonia-chilena/). 
+05. {{< reflink path=posts/2023/01/sania-patagonia-chilena >}}. 
 
-06. [Isla de Chiloé, 
-consejo](https://etheriamagazine.com/2023/02/03/sania-archipielago-de-chiloe/)[s de 
-Sania para 
-visitarla](https://etheriamagazine.com/2023/02/03/sania-archipielago-de-chiloe/). 
+06. {{< reflink path=posts/2023/02/sania-archipielago-de-chiloe >}}{{< reflink 
+path=posts/2023/02/sania-archipielago-de-chiloe >}}. 
 
-07\. [Cruce Andino, Bariloche y El Bolsón, fin del viaje de Sania en 
-Patagonia](https://etheriamagazine.com/2023/02/10/patagonia-cruce-lagos/).
+07\. {{< reflink path=posts/2023/02/patagonia-cruce-lagos >}}.

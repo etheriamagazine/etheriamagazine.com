@@ -1,7 +1,7 @@
 ---
 title: "La experiencia sostenible marca el mundo de los viajes"
 date: 2019-03-30
-coverImage: https://fotos.etheriamagazine.com/2019/03/viajero-responsable-accor.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/viajero-responsable-accor.jpg
 categories: 
   - hoteles
 destino: 
@@ -99,11 +99,9 @@ desdibuje.
 
 ### También te puede interesar...
 
-[Recetas creativas para aprovechar la comida como en los 
-hoteles](https://etheriamagazine.com/2020/11/02/recetas-para-aprovechar-restos-comida/). 
+{{< reflink path=posts/2020/11/recetas-para-aprovechar-restos-comida >}}. 
 
-[Suiza, descubre sus hoteles y restaurantes más 
-sostenibles](https://etheriamagazine.com/2021/05/26/suiza-hoteles-y-restaurantes-sostenibles/). 
+{{< reflink path=posts/2021/05/suiza-hoteles-y-restaurantes-sostenibles >}}. 
 
-[Los 5 destinos españoles más sostenibles para escaparse esta 
-primavera](https://etheriamagazine.com/2021/05/05/destinos-espanoles-mas-sostenibles-turismo-responsable/).
+{{< reflink path=posts/2021/05/destinos-espanoles-mas-sostenibles-turismo-responsable 
+>}}.

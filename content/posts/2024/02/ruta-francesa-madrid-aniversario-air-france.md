@@ -1,7 +1,7 @@
 ---
 title: "Ruta francesa por Madrid para celebrar el 90 Aniversario de Air France"
 date: 2024-02-01
-coverImage: https://fotos.etheriamagazine.com/2024/02/air-france-carteles-historicos.jpg
+cover: https://fotos.etheriamagazine.com/2024/02/air-france-carteles-historicos.jpg
 categories: 
   - viajar-sola
   - ocio
@@ -120,8 +120,6 @@ Jorge Arévalo diseñado para esta ocasión. Calle Lope de Vega, 31.
 
 **También te puede interesar:** 
 
-[Seis museos de París para recorrer en tu segunda 
-visita](https://etheriamagazine.com/2024/01/29/museos-de-paris-segunda-visita/) 
+{{< reflink path=posts/2024/01/museos-de-paris-segunda-visita >}} 
 
-[París con amigas, diez planes para una escapada 
-perfecta](https://etheriamagazine.com/2023/06/16/planes-paris-con-amigas/)
+{{< reflink path=posts/2023/06/planes-paris-con-amigas >}}

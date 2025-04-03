@@ -1,7 +1,7 @@
 ---
 title: "La mujer bereber del Alto Atlas marroquí"
 date: 2019-04-01
-coverImage: https://fotos.etheriamagazine.com/2019/03/Valle-Ourika-mujer.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/Valle-Ourika-mujer.jpg
 categories: 
   - historias
   - mujeres-top
@@ -11,9 +11,9 @@ authors:
   - Manena Munar
 ---
 
-Coqueta, sensual, fuerte y maniatada por la tradición y la religión, la mujer bereber 
+**Coqueta, sensual, fuerte y maniatada por la tradición y la religión, la mujer bereber 
 del Atlas marroquí es un ejemplo de supervivencia que ya gozaba de fama por su sabiduría 
-y estrategia en la sociedad del Al-Ándalus. 
+y estrategia en la sociedad del Al-Ándalus.** 
 
 ![mujer bereber con un fardo de paja](https://fotos.etheriamagazine.com/2019/03/VAlle-Ourika-Wardia.jpg "La fuerza y alegría de la mujer bereber se desprenden de su mirada.")
 
@@ -140,11 +140,11 @@ de instrumentos muy caseros como cubos, palos y cajas.
 Durante la cena se habló un poco de todo, inevitablemente llegaron las preguntas sobre 
 el papel de la mujer, prácticamente inexistente, en los asuntos externos al hogar. En el 
 mundo rural, las mujeres _amazigh_ (bereberes) no hablan ni entienden de política y, si 
-alguna vota, sigue los designios de su hombre, al que deben obediencia. El movimiento [Voix 
-de Femmes Amazighe](http://imsli.org.ma/) lucha por los derechos de la mujer bereber, 
-animando a inscribirse a las mayores de 18 años. Sin embargo, la falta de escolarización 
-es un muro difícil de romper que incluye a la mayoría de las mujeres bereberes del 
-Atlas. 
+alguna vota, sigue los designios de su hombre, al que deben obediencia. El movimiento 
+[Voix de Femmes Amazighe](http://imsli.org.ma/) lucha por los derechos de la mujer 
+bereber, animando a inscribirse a las mayores de 18 años. Sin embargo, la falta de 
+escolarización es un muro difícil de romper que incluye a la mayoría de las mujeres 
+bereberes del Atlas. 
 
 ## De bodas y divorcios
 
@@ -221,11 +221,8 @@ arrecia.
 
 📌 **También te puede interesar:** 
 
-[Casablanca y Marrakech, una escapada esencial (y a precio 
-asequible)](https://etheriamagazine.com/2023/05/04/por-que-viajar-casablanca-marrakech/) 
+{{< reflink path=posts/2023/05/por-que-viajar-casablanca-marrakech >}} 
 
-[Qué ver en Esauira, la playa de 
-Marruecos](https://etheriamagazine.com/2023/06/05/que-ver-en-esauira/) 
+{{< reflink path=posts/2023/06/que-ver-en-esauira >}} 
 
-[Tánger, ¿qué tiene su medina que encandiló a Matisse y a Carmina 
-Ordóñez?](https://etheriamagazine.com/2022/08/16/que-ver-tanger-con-amigas/)
+{{< reflink path=posts/2022/08/que-ver-tanger-con-amigas >}}

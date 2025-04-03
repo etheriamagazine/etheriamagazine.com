@@ -1,7 +1,7 @@
 ---
 title: "Planes en Santander, entre arte y gastronomía anda el juego"
 date: 2020-09-23
-coverImage: https://fotos.etheriamagazine.com/2020/09/santander-taberna-la-radio-pulpo-braseado.jpg
+cover: https://fotos.etheriamagazine.com/2020/09/santander-taberna-la-radio-pulpo-braseado.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,18 +10,17 @@ authors:
   - Alfredo G. Reyes
 ---
 
-Puede que Santander no tenga el predicamento de otras capitales vecinas, pero es de esas 
-ciudades en las que cuando experimentas lo mucho que ofrecen resulta difícil entender 
-por qué no tienen una mayor promoción. Cuando conozcas estos planes en Santander para un 
-fin de semana, nos darás la razón. 
+**Puede que Santander no tenga el predicamento de otras capitales vecinas, pero es de 
+esas ciudades en las que cuando experimentas lo mucho que ofrecen resulta difícil 
+entender por qué no tienen una mayor promoción. Cuando conozcas estos planes en 
+Santander para un fin de semana, nos darás la razón.** 
 
 ![centro botin espacio cultural de Santander](https://fotos.etheriamagazine.com/2020/09/centro-botin-santander.jpg "El © Centro Botín cambió el perfil de Santander.")
 
 Lo cierto es que los planes en Santander para un fin de semana son muchos y variados, 
 aunque si te organizas bien puedes incluso visitar alguna de las atractivas localidades 
-y espectaculares paisajes que la rodean. (Puedes buscar inspiración en ['8 lugares 
-sorprendentes de Cantabria que aún no 
-conoces'](https://etheriamagazine.com/2020/06/05/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original/)). 
+y espectaculares paisajes que la rodean. (Puedes buscar inspiración en {{< reflink 
+path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}}). 
 
 En cualquier época del año esta ciudad, casi nueva (fue reconstruida casi por completo 
 tras el devastador incendio del año 1941), ofrece atractivos de lo más diverso: desde la 
@@ -210,8 +209,8 @@ Es el caso del **Parque de Cabo Mayor**, asomado al Cantábrico y rodeado por
 espectaculares acantilados de roca caliza. Sobre uno de ellos se construyó, a mediados 
 del siglo XIX, un faro que regala una de las estampas más queridas por los propios 
 santanderinos. También de las más seductoras, sobre todo para quienes visitan por 
-primera vez la ciudad. (Sigue leyendo: [Los faros más bonitos de 
-Cantabria](https://etheriamagazine.com/2020/05/18/viaje-a-los-mejores-faros-de-cantabria/)) 
+primera vez la ciudad. (Sigue leyendo: {{< reflink 
+path=posts/2020/05/viaje-a-los-mejores-faros-de-cantabria >}}) 
 
 ### Costa Quebrada
 
@@ -223,11 +222,8 @@ esto planes en Santander para un fin de semana.
 
 **También te puede interesar...** 
 
-[Valle de Valdeolea, 9 rituales para descubrir la esencia del sur de 
-Cantabria](https://etheriamagazine.com/2021/06/04/que-ver-en-valle-de-valdeolea-cantabria/). 
+{{< reflink path=posts/2021/06/que-ver-en-valle-de-valdeolea-cantabria >}}. 
 
-[10 poderosas razones para visitar Valderredible, el sur de 
-Cantabria](https://etheriamagazine.com/2019/08/26/que-ver-valderredible-cantabria/). 
+{{< reflink path=posts/2019/08/que-ver-valderredible-cantabria >}}. 
 
-[Planes en Cantabria con niños para un viaje corto pero muy 
-divertido](https://etheriamagazine.com/2018/07/13/cantabria-viaje-en-familia/).
+{{< reflink path=posts/2018/07/cantabria-viaje-en-familia >}}.

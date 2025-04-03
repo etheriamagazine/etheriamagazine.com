@@ -1,7 +1,7 @@
 ---
 title: "De viaje a la Eurocopa en Alemania, mucho más que fútbol"
 date: 2024-04-18
-coverImage: https://fotos.etheriamagazine.com/2024/04/munich-eurocopa-Olympiapark.jpg
+cover: https://fotos.etheriamagazine.com/2024/04/munich-eurocopa-Olympiapark.jpg
 categories: 
   - viajar-sola
   - inspiración
@@ -40,12 +40,12 @@ aficiones visitantes podrán convivir con la alemana, que vive intensamente este
 
 ## Eventos en torno a la EURO 2024
 
-• **Exposición “Ya está y se ha ido. El Palacio de la República es el presente”**. Se 
+- **Exposición “Ya está y se ha ido. El Palacio de la República es el presente”**. Se 
 celebrará en el Humboldt Forum de Berlín, ubicado en la Isla de los Museos, que fue uno 
 de los centros políticos de la RDA. Esta cita imperdible tendrá lugar del 17 de mayo al 
 16 de febrero de 2025 y ocupará más de 1.400 metros cuadrados. 
 
-• **EURO 2024 Festival Stuttgart Opening Concert**. Con este concierto se celebrará el 
+- **EURO 2024 Festival Stuttgart Opening Concert**. Con este concierto se celebrará el 
 13 de junio el inicio del campeonato junto a 30.000 aficionados, frente al palacio de la 
 ciudad de Sttutgart. Será una fiesta por todo lo alto en la que participarán cantantes 
 alemanes de primera fila como Leony, el DJ y productor Topic, la estrella Robin Schulz o 
@@ -70,12 +70,12 @@ son Prenzlauer Berg y Friedrichshaim, además de la zona LGBTQ de Schöneberg.
 
 ### Hamburgo
 
-[Hamburgo](https://etheriamagazine.com/2020/02/24/que-ver-hacer-fin-de-semana-hamburgo-alemania/), 
-la ciudad con el mayor puerto de Alemania, será la sede más al norte de la Eurocopa. 
-Ciudad industrial y vibrante, su perfil está determinado por la Elbphilharmonie y su 
-forma de ola gigante, un lugar inigualable para ver un concierto, tan imprescindible 
-como un paseo por los canales de Speicherstadt con sus características casas y almacenes 
-de ladrillo rojo. Tampoco puedes perderte la iglesia de San Miguel o tomar algo por la 
+{{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}}, la 
+ciudad con el mayor puerto de Alemania, será la sede más al norte de la Eurocopa. Ciudad 
+industrial y vibrante, su perfil está determinado por la Elbphilharmonie y su forma de 
+ola gigante, un lugar inigualable para ver un concierto, tan imprescindible como un 
+paseo por los canales de Speicherstadt con sus características casas y almacenes de 
+ladrillo rojo. Tampoco puedes perderte la iglesia de San Miguel o tomar algo por la 
 mañana en el Mercado de pescado de Altona. La zona para los aficionados se establecerá 
 en **Heiligengeistfeld** en el corazón del distrito de St. Pauli, con acceso gratuito, 
 proyección de los partidos y zona de entretenimiento en un club de playa. 
@@ -198,10 +198,10 @@ locales.
 
 No se podía haber elegido un lugar mejor como sede de entrenamiento y descanso que la 
 Selva Negra, uno de los parajes naturales más emblemáticos de Alemania donde la 
-tranquilidad es absoluta. Concretamente la selección española de fútbol se alojará en [Der 
-Öschberghof](https://www.oeschberghof.com/), un hotel de lujo cerca del lago Constanza 
-que fue renovado en 2019. En este hotel, con 127 habitaciones, destacan su campo de golf 
-de 45 hoyos y su área de gimnasio y spa de 5.500 metros cuadrados. 
+tranquilidad es absoluta. Concretamente la selección española de fútbol se alojará en 
+[Der Öschberghof](https://www.oeschberghof.com/), un hotel de lujo cerca del lago 
+Constanza que fue renovado en 2019. En este hotel, con 127 habitaciones, destacan su 
+campo de golf de 45 hoyos y su área de gimnasio y spa de 5.500 metros cuadrados. 
 
 Cuenta con cinco restaurantes, uno de ellos, **Ösch Noir**, con dos estrellas Michelin. 
 El resto son el italiano Hexenweiher, el japonés Tanöshi, Öventhütte, con cocina local, 
@@ -219,8 +219,7 @@ Alemania](https://www.germany.travel/es/inspiring-germany/verano-de-futbol-en-al
 
 **También te puede interesar:** 
 
-[Qué hay de nuevo en Berlín: hoteles, restaurantes y 
-museos](https://etheriamagazine.com/2022/12/07/viaje-berlin-2023/) 
+{{< reflink path=posts/2022/12/viaje-berlin-2023 >}} 
 
-[Múnich y Bad Wörishofen, la Alemania más verde y 
-saludable](https://etheriamagazine.com/2021/08/04/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable/)
+{{< reflink path=posts/2021/08/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable 
+>}}

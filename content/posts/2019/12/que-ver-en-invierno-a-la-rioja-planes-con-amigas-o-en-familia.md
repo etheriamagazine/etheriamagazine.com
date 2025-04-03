@@ -1,7 +1,7 @@
 ---
 title: "Planes de invierno en La Rioja: mucho más que vino"
 date: 2019-12-13
-coverImage: https://fotos.etheriamagazine.com/2019/12/viaje-la-rioja-cueva-cien-pilares-arnedo.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/viaje-la-rioja-cueva-cien-pilares-arnedo.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Carmen Bengoechea
 ---
 
-Cuando la savia de la vid regresa al corazón de la planta y se prepara para el letargo, 
-el paisaje del viñedo se vuelve misterioso entre la niebla y las primeras escarchas del 
-invierno. Para que disfrutes de este entorno mágico, te invitamos a recorrer La Rioja 
-Baja para conocer su riqueza natural, histórica y gastronómica. 
+**Cuando la savia de la vid regresa al corazón de la planta y se prepara para el 
+letargo, el paisaje del viñedo se vuelve misterioso entre la niebla y las primeras 
+escarchas del invierno. Para que disfrutes de este entorno mágico, te invitamos a 
+recorrer La Rioja Baja para conocer su riqueza natural, histórica y gastronómica.** 
 
 ![vinas la rioja, paisaje la rioja baja](https://fotos.etheriamagazine.com/2019/12/paisaje-la-rioja-baja.jpg "Paisaje de viñedos en La Rioja. ©RVRO")
 
@@ -144,11 +144,8 @@ estación del año.
 
 📌 **También te puede interesar:** 
 
-[Escapada al valle secreto de Ocón, un pellizco de La Toscana en La 
-Rioja](https://etheriamagazine.com/2020/10/26/viaje-la-rioja-vendimia-valle-de-ocon/) 
+{{< reflink path=posts/2020/10/viaje-la-rioja-vendimia-valle-de-ocon >}} 
 
-[A la fresca de las bodegas en La Rioja 
-Alavesa](https://etheriamagazine.com/2019/07/25/viaje-amigas-bodegas-rioja-alavesa/) 
+{{< reflink path=posts/2019/07/viaje-amigas-bodegas-rioja-alavesa >}} 
 
-[Camino de Santiago en La Rioja, un viaje que deja buen sabor de 
-boca](https://etheriamagazine.com/2019/05/01/etapas-que-ver-camino-de-santiago-en-la-rioja/)
+{{< reflink path=posts/2019/05/etapas-que-ver-camino-de-santiago-en-la-rioja >}}

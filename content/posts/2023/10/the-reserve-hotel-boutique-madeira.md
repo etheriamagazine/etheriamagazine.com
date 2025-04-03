@@ -1,7 +1,7 @@
 ---
 title: "Hotel boutique The Reserve, exclusividad al borde del Atlántico en Madeira"
 date: 2023-10-28
-coverImage: https://fotos.etheriamagazine.com/2023/10/the-reserve-Jacaranda-Lounge.jpg
+cover: https://fotos.etheriamagazine.com/2023/10/the-reserve-Jacaranda-Lounge.jpg
 categories: 
   - hoteles
 destino: 
@@ -125,11 +125,8 @@ Fotografías cedidas por Savoy Hotels & Resorts.
 
 **También te puede interesar:** 
 
-[Qué ver en Funchal, guía para 48 horas bien 
-aprovechadas](https://etheriamagazine.com/2022/08/08/que-ver-funchal/) 
+{{< reflink path=posts/2022/08/que-ver-funchal >}} 
 
-[Madeira con amigas, 10 experiencias para una escapada 
-corta](https://etheriamagazine.com/2019/04/19/viajar-con-amigas-que-ver-madeira/) 
+{{< reflink path=posts/2019/04/viajar-con-amigas-que-ver-madeira >}} 
 
-[Qué comer en Madeira, la isla de las 
-nubes](https://etheriamagazine.com/2022/08/30/que-comer-en-madeira/)
+{{< reflink path=posts/2022/08/que-comer-en-madeira >}}

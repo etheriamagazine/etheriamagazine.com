@@ -1,16 +1,16 @@
 ---
 title: "Arte en Amberes. Si las mujeres pintaran..."
 date: 2018-07-05
-coverImage: https://fotos.etheriamagazine.com/2018/07/Michaelina-Cortejo-de-Baco.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/Michaelina-Cortejo-de-Baco.jpg
 destino: 
   - Europa
 authors: 
   - Pedro Grifol
 ---
 
-El Museo MAS de Amberes (Bélgica) dedica una retrospectiva a la pintora flamenca 
+**El Museo MAS de Amberes (Bélgica) dedica una retrospectiva a la pintora flamenca 
 Michaelina Wautier, una de las más influyentes artistas del barroco. Os invitamos a 
-reflexionar sobre el grito de guerra: ‘más mujeres artistas y menos musas’. 
+reflexionar sobre el grito de guerra: ‘más mujeres artistas y menos musas’.** 
 
 ![El 'Cortejo de Baco', de Michaelina Wautier.](https://fotos.etheriamagazine.com/2018/07/Michaelina-Cortejo-de-Baco.jpg "El 'Cortejo de Baco', de Michaelina Wautier.")
 
@@ -106,10 +106,10 @@ perfume, que unas bragas… ¡o un coche!
 
 ## Guía práctica
 
-• Se puede volar directamente a Bruselas desde varias ciudades españolas. Una vez en el 
+- Se puede volar directamente a Bruselas desde varias ciudades españolas. Una vez en el 
 aeropuerto de Bruselas, toma un tren directo hasta Amberes (50 minutos). 
 
-• Bucea en estas webs antes de viajar para preparar tu viaje: 
+- Bucea en estas webs antes de viajar para preparar tu viaje: 
 
 www.visitflanders.com/es/destinos/amberes www.maestrosflamencos.com 
 www.visitantwerpen.be/baroque 

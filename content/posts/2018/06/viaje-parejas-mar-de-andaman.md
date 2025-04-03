@@ -1,7 +1,7 @@
 ---
 title: "10 imágenes para enamorarse del mar de Andamán"
 date: 2018-06-16
-coverImage: https://fotos.etheriamagazine.com/2018/05/9-Playa-mar-de-Andaman-e1560153714626.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/9-Playa-mar-de-Andaman-e1560153714626.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,20 +10,19 @@ authors:
   - Susana García
 ---
 
-El mar de Andamán baña algunos de los lugares de playa más populares de Tailandia como 
+**El mar de Andamán baña algunos de los lugares de playa más populares de Tailandia como 
 Krabi, las islas Phi Phi y Phuket. Ofrece un mar azul intenso, curiosas formaciones 
 rocosas, un rico fondo marino y playas de ensueño. Un lugar perfecto para visitar en 
-pareja. 
+pareja.** 
 
 ![Hotel Rayavadee, en Phranang.](https://fotos.etheriamagazine.com/2018/05/1-Krabi-Peninsula-de-Phranang-e1560153497740.jpg "Hotel Rayavadee, en Phranang.")
 
 ## 1\. Península de Phranang (Krabi)
 
 Situada en un extremo de Krabi está enmarcada por dos playas: Railay (considerada de las 
-mejores de Krabi) y Phranang. Aquí se encuentra el [hotel 
-Rayavadee](https://etheriamagazine.com/2018/05/25/hotel-rayavadee-vivir-la-naturaleza/), 
-uno de los mejores hoteles de lujo de todo Tailandia. En el enlace os contamos nuestra 
-experiencia. 
+mejores de Krabi) y Phranang. Aquí se encuentra el {{< reflink 
+path=posts/2018/05/hotel-rayavadee-vivir-la-naturaleza >}}, uno de los mejores hoteles 
+de lujo de todo Tailandia. En el enlace os contamos nuestra experiencia. 
 
 ![Barcos frente a las islas Phi Phi.](https://fotos.etheriamagazine.com/2018/05/2-Islas-Phi-Phi.jpg "Barcos frente a las islas Phi Phi.")
 
@@ -34,7 +33,8 @@ inigualables. Es frecuente verlas llenas de barcas que realizan tours privados p
 ellas, la mejor forma de acercarse a sus paisajes. 
 
 **EXCURSIÓN A PHI PHI ISLANDS EN INGLÉS:** Puedes contratar una excursión para 
-recorrerlas en cualquiera de los hoteles de la zona o través de [Civitatis](https://www.civitatis.com/es/khao-lak/excursion-islas-phi-phi/?aid=10211). 
+recorrerlas en cualquiera de los hoteles de la zona o través de 
+[Civitatis](https://www.civitatis.com/es/khao-lak/excursion-islas-phi-phi/?aid=10211). 
 
 ![Típicos barcos 'longtail' de Tailandia.](https://fotos.etheriamagazine.com/2018/05/3-Phi-Phi-Island.jpg "Típicos barcos 'longtail' de Tailandia.")
 
@@ -82,7 +82,8 @@ mejores formas de contemplarlos el realizar una excursión en kayak por alguna d
 islas, como la de Hong. 
 
 **RECOMENDACIÓN:** Si te alojas en un hotel de Khao Lak puedes reservar una excursión 
-con [Civitatis](https://www.civitatis.com/es/khao-lak/excursion-bahia-phang-nga/?aid=10211) 
+con 
+[Civitatis](https://www.civitatis.com/es/khao-lak/excursion-bahia-phang-nga/?aid=10211) 
 por esta bahía. 
 
 ![Playa desierta en el mar de Andamán.](https://fotos.etheriamagazine.com/2018/05/7-Playa-desierta-mar-Andaman.jpg "Playa desierta en el mar de Andamán. © SG")
@@ -120,8 +121,6 @@ ofrece la posibilidad de practicar _snorkel_.
 
 **También te puede interesar...** 
 
-[Qué llevar en la maleta para un viaje a 
-Tailandia](https://etheriamagazine.com/2020/01/02/que-llevar-en-maleta-viaje-tailandia/). 
+{{< reflink path=posts/2020/01/que-llevar-en-maleta-viaje-tailandia >}}. 
 
-[Planes para aprovechar bien tres días en 
-Bangkok](https://etheriamagazine.com/2021/05/29/tres-dias-en-bangkok-que-hacer/)
+{{< reflink path=posts/2021/05/tres-dias-en-bangkok-que-hacer >}}

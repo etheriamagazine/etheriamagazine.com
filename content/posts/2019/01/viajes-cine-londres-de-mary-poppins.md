@@ -1,7 +1,7 @@
 ---
 title: "Viajes de cine: el Londres de Mary Poppins"
 date: 2019-01-22
-coverImage: https://fotos.etheriamagazine.com/2019/01/viajes-cine-regreso-mary-poppins.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/viajes-cine-regreso-mary-poppins.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -142,8 +142,8 @@ Edward del West End.
 
 ### Más artículos de Londres...
 
-[Un viaje a Londres en diez películas 
-inolvidables](https://etheriamagazine.com/2020/12/11/diez-peliculas-rodadas-en-londres/). 
+{{< reflink path=posts/2020/12/diez-peliculas-rodadas-en-londres >}}. 
 
-[Compras en Londres, sus tiendas y barrios más 
-auténticos](https://etheriamagazine.com/2020/05/06/compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone/).
+{{< reflink 
+path=posts/2020/05/compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone 
+>}}.

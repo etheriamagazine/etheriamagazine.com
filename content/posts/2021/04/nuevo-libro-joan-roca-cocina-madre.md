@@ -1,7 +1,7 @@
 ---
 title: "Cocina madre, el tributo de Joan Roca a su mejor maestra"
 date: 2021-04-03
-coverImage: https://fotos.etheriamagazine.com/2019/03/libro-joan-rica-cocina-madre.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/libro-joan-rica-cocina-madre.jpg
 categories: 
   - gourmet
   - cultura
@@ -142,8 +142,6 @@ scrolling="no">&lt;br /></iframe> -->
 
 ### Otros libros que te puede interesar...
 
-[Najat Kaanache, la mejor chef de África, desvela en NAJAT los secretos de la cocina 
-marroquí](https://etheriamagazine.com/2021/02/04/najat-libro-cocina-marroqui-chef-najat-kaanache/). 
+{{< reflink path=posts/2021/02/najat-libro-cocina-marroqui-chef-najat-kaanache >}}. 
 
-[Libros de cócteles, el mejor regalo para quien tú 
-sabes](https://etheriamagazine.com/2020/11/23/libros-de-cocteleria-un-gran-regalo-navidad/)
+{{< reflink path=posts/2020/11/libros-de-cocteleria-un-gran-regalo-navidad >}}

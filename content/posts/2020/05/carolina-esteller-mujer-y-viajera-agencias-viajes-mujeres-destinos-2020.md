@@ -1,7 +1,7 @@
 ---
 title: "Carolina Esteller: \"Seguimos conectadas y eso es maravilloso\""
 date: 2020-05-15
-coverImage: https://fotos.etheriamagazine.com/2020/05/carolina-estelle-mujer-y-viajera.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/carolina-estelle-mujer-y-viajera.jpg
 categories: 
   - historias
   - mujeres-top
@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Navegar en veleros por las Islas Baleares, retiros de bienestar en Cádiz y Cataluña, 
+**Navegar en veleros por las Islas Baleares, retiros de bienestar en Cádiz y Cataluña, 
 rutas históricas y arqueológicas por Galicia y Asturias... Carolina Esteller, directora 
 de la agencia 'Mujer y Viajera', nos cuenta cómo afrontan la situación de los viajes 
-durante la pandemia y los destinos que ofrecen para el próximo verano. 
+durante la pandemia y los destinos que ofrecen para el próximo verano.** 
 
 ![carolina esteller, mujer y viajera, agencias de viajes de mujeres, agencias viajar solas en grupo](https://fotos.etheriamagazine.com/2020/05/carolina-estelle-mujer-y-viajera.jpg "Carolina Esteller, directora de 'Mujer y Viajera', en la Explanada de las Mezquitas de Jerusalén.")
 

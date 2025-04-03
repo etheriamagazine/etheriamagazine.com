@@ -1,7 +1,7 @@
 ---
 title: "Descubre la belleza de Georgia en 10 visitas increíbles"
 date: 2019-02-13
-coverImage: https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-Georgia-iglesia-e1637066928892.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-Georgia-iglesia-e1637066928892.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -69,9 +69,10 @@ Hoy, como antaño, el vino con el hollejo se guarda en tinajas enterradas o _kve
 cerradas herméticamente hasta cinco meses, para lograr su maduración en la bodega como 
 en la tradicional de [Numisi](https://www.facebook.com/numisi/), en funcionamiento desde 
 hace 300 años guardando tantos aperos vinícolas que la convierten en un auténtico museo 
-etnográfico. Otras de las bodegas más llamativas de la región es la de [Khareba](http://www.winery-khareba.com/en), 
-que utiliza la temperatura y humedad constantes de unos viejos túneles de la época 
-soviética a lo largo de 7 kilómetros, para la maduración de sus caldos. 
+etnográfico. Otras de las bodegas más llamativas de la región es la de 
+[Khareba](http://www.winery-khareba.com/en), que utiliza la temperatura y humedad 
+constantes de unos viejos túneles de la época soviética a lo largo de 7 kilómetros, para 
+la maduración de sus caldos. 
 
 ![iglesias que ver en georgia](https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-Georgia-iglesia-e1637066928892.jpg "En Georgia están algunas de las iglesias más antiguas del mundo.")
 
@@ -188,11 +189,8 @@ mantiene constante a 14 grados.
 
 ### También te puede interesar...
 
-[Descubre las 10 sonrisas persas de 
-Irán](https://etheriamagazine.com/2019/11/06/que-ver-iran-mujer-viajar-sola-con-amigas/). 
+{{< reflink path=posts/2019/11/que-ver-iran-mujer-viajar-sola-con-amigas >}}. 
 
-[10 razones por las que deberías hacer un safari en 
-Botsuana](https://etheriamagazine.com/2018/11/22/botsuana-10-razones-para-sentirte-la-reina-de-africa/). 
+{{< reflink path=posts/2018/11/botsuana-10-razones-para-sentirte-la-reina-de-africa >}}. 
 
-[10 paisajes para evadirte sin salir de 
-casa](https://etheriamagazine.com/2020/03/18/10-paisajes-para-evadirte-desde-tu-casa/)
+{{< reflink path=posts/2020/03/10-paisajes-para-evadirte-desde-tu-casa >}}

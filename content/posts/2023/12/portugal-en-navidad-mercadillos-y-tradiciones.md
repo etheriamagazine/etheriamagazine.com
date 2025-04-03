@@ -1,7 +1,7 @@
 ---
 title: "Portugal en Navidad: mercadillos y tradiciones que enamoran"
 date: 2023-12-06
-coverImage: https://fotos.etheriamagazine.com/2023/12/madeira-luces-navidad.jpg
+cover: https://fotos.etheriamagazine.com/2023/12/madeira-luces-navidad.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -58,16 +58,17 @@ Mercado Criativo de Natal de Santa Clara; en el Campo Pequeño; y en la plaza Da
 Leandro da Silva, en Marvila. 
 
 Lisboa en estas fechas ofrece una amplia gama de actividades lúdicas para todas las 
-edades. No faltan pistas de patinaje sobre hielo, ferias navideñas como [Wonderland](https://tvi.iol.pt/wonderland/) 
-(en el Parque Eduardo VII), tranvías decorados que recorren las principales calles, 
-desfiles, conciertos e, incluso, la Carrera de San Silvestre (17 de diciembre). Y si se 
-despierta el apetito con tanta actividad, en Nochebuena debéis probar el _bacalhau com 
-todos_, el pavo asado relleno en Navidad y, en cualquier momento, ricos dulces caseros 
-como _coscorões_, _azevias_, _sonhos_ o _aletria_. 
+edades. No faltan pistas de patinaje sobre hielo, ferias navideñas como 
+[Wonderland](https://tvi.iol.pt/wonderland/) (en el Parque Eduardo VII), tranvías 
+decorados que recorren las principales calles, desfiles, conciertos e, incluso, la 
+Carrera de San Silvestre (17 de diciembre). Y si se despierta el apetito con tanta 
+actividad, en Nochebuena debéis probar el _bacalhau com todos_, el pavo asado relleno en 
+Navidad y, en cualquier momento, ricos dulces caseros como _coscorões_, _azevias_, 
+_sonhos_ o _aletria_. 
 
 Aunque la capital lusa es una opción perfecta para recuperar el espíritu navideño, el 
-viaje se puede extender por ciudades cercanas con propuestas tan entrañables como el [Reino 
-do Natal](https://reinodonatal.sintra.pt/) de Sintra, la [Vila 
+viaje se puede extender por ciudades cercanas con propuestas tan entrañables como el 
+[Reino do Natal](https://reinodonatal.sintra.pt/) de Sintra, la [Vila 
 Natal](https://www.cascaischristmasvillage.pt/) de Cascais y en Oieiras su [Palacio 
 Encantado](https://www.oeiras.pt/-/natal-no-palacio-encantado-2023). 
 
@@ -135,8 +136,9 @@ Si aún no habéis explorado la Región Centro de Portugal, el invierno le otorg
 atmósfera aún más especial. Sus ciudades históricas recuperan una lenta cadencia que 
 permite viajar en el tiempo sin que nos demos cuenta. Ahora en diciembre, cuando las 
 luces de colores iluminan sus plazas, se convierten en los mejores escenarios para 
-capturar bellos recuerdos. Entre las villas más especiales de esta región se encuentra [Óbidos](https://etheriamagazine.com/2020/09/24/que-ver-hacer-obidos-pueblo-medieval-portugal/), 
-que seduce con sus librerías alojadas en emplazamientos singulares, su castillo y sus 
+capturar bellos recuerdos. Entre las villas más especiales de esta región se encuentra 
+{{< reflink path=posts/2020/09/que-ver-hacer-obidos-pueblo-medieval-portugal >}}, que 
+seduce con sus librerías alojadas en emplazamientos singulares, su castillo y sus 
 murallas y bares con encanto. Además, hasta finales de mes se puede visitar su [Vila 
 Natal](https://obidosvilanatal.pt/) con la granja de Papá Noel, el bar de hielo, el 
 mercado y decenas de actividades para hacer con niños. 

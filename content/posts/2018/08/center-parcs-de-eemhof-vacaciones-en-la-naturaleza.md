@@ -1,7 +1,7 @@
 ---
 title: "Center Parcs Eemhof, tu alojamiento familiar en Holanda"
 date: 2018-08-11
-coverImage: https://fotos.etheriamagazine.com/2018/07/Center-Parcs-Eemhof-cabana.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/Center-Parcs-Eemhof-cabana.jpg
 categories: 
   - hoteles
 destino: 
@@ -33,15 +33,15 @@ alojamiento perfecto para familias.
 ## Cabañas y apartamentos
 
 Center Parcs Eemhof es un alojamiento muy recomendable en un viaje por Holanda en 
-familia (echa un vistazo a nuestro artículo [Qué ver y hacer en un viaje en familia por 
-Holanda](https://etheriamagazine.com/2018/08/10/holanda-en-familia/)) cuenta con 
-alojamientos para todos los gustos y tipos de huéspedes. Para los que viajan en pareja, 
-una buena opción es elegir los **Hotel Apartament** o las **cabañas VIP**. Los que van 
-en familia encontrarán multitud de opciones: **cabañas Confort** o **Premium**, las 
-**Children’s Cottage** (¡con tobogán en el jardín!), las **Boathouse,** con embarcadero 
-privado, o los apartamentos de lujo **Waterfront Suites** (con capacidad de hasta 12 
-personas). Es fácil encontrar el que mejor se adapta a tus gustos, tamaño de familia y 
-presupuesto porque cuentan con opciones para grupos de entre 4 y 12 personas. 
+familia (echa un vistazo a nuestro artículo {{< reflink 
+path=posts/2018/08/holanda-en-familia >}}) cuenta con alojamientos para todos los gustos 
+y tipos de huéspedes. Para los que viajan en pareja, una buena opción es elegir los 
+**Hotel Apartament** o las **cabañas VIP**. Los que van en familia encontrarán multitud 
+de opciones: **cabañas Confort** o **Premium**, las **Children’s Cottage** (¡con tobogán 
+en el jardín!), las **Boathouse,** con embarcadero privado, o los apartamentos de lujo 
+**Waterfront Suites** (con capacidad de hasta 12 personas). Es fácil encontrar el que 
+mejor se adapta a tus gustos, tamaño de familia y presupuesto porque cuentan con 
+opciones para grupos de entre 4 y 12 personas. 
 
 ![Alojamiento para familias en Center parcs Eemhof](https://fotos.etheriamagazine.com/2018/07/Cabana-familiar-Center-Parcs-Eemhof.jpg "Children's Cottage. © Robert Land")
 
@@ -123,11 +123,8 @@ equipadas, que es lo importante.
 
 **También te puede interesar:** 
 
-[Qué ver y hacer en un viaje en familia por 
-Holanda](https://etheriamagazine.com/2018/08/10/holanda-en-familia/) 
+{{< reflink path=posts/2018/08/holanda-en-familia >}} 
 
-[Viajar con niños por Europa: consejos y propuestas para acertar en tu primer 
-viaje](https://etheriamagazine.com/2021/02/02/viajar-con-ninos-por-europa-consejos-y-propuestas/) 
+{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
 
-[48 horas en… Amsterdam, la vida en la 
-calle](https://etheriamagazine.com/2019/04/11/viajar-sola-que-ver-hacer-dormir-amsterdam/)
+{{< reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-amsterdam >}}

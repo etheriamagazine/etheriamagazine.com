@@ -1,7 +1,7 @@
 ---
 title: "10 grandes restaurantes para saborear lo mejor de Toledo"
 date: 2020-11-03
-coverImage: https://fotos.etheriamagazine.com/2020/10/Restaurantes-Toledo-cigarral-caravantes.jpg
+cover: https://fotos.etheriamagazine.com/2020/10/Restaurantes-Toledo-cigarral-caravantes.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -11,10 +11,10 @@ authors:
   - Vanesa Viñolo
 ---
 
-Un paseo gastronómico por 10 de los mejores restaurantes de Toledo, auténticas 
+**Un paseo gastronómico por 10 de los mejores restaurantes de Toledo, auténticas 
 referencias para comer y beber bien. Encontrarás opciones para todos los gustos y 
 momentos, desde las propuestas más ‘foodies’ hasta tapeos informales y lugares con 
-encanto. 
+encanto.** 
 
 ![vista de Toledo](https://fotos.etheriamagazine.com/2020/10/restaurantes-toledo-panoramica.jpg "Toledo.")
 
@@ -37,12 +37,11 @@ supuesto, mazapán.
 ![alfileritos 24 comer bien en Toledo](https://fotos.etheriamagazine.com/2020/10/Restaurantes-Toledo-mesa-Alfileritos-24.jpg "Mesa del restaurante © Alfileritos 24")
 
 Un artículo aparte merecerían los vinos de Toledo, que además de formar parte de la D.O. 
-La Mancha (no te pierdas la [ruta del vino de La 
-Mancha](https://etheriamagazine.com/2019/03/20/ruta-del-vino-de-la-mancha/)) y Vinos de 
-la Tierra de Tierra de Castilla, cuenta con bodegas y viñedos en la D.O. Méntrida y en 
-la D.O. Vinos de Uclés, y con sus propios Vinos de Pago en Dominio de Valdepusa, Dehesa 
-del Carrizal y Campo de la Guardia. Incluso cuentan con varias cervezas artesanas 
-propias y estupendas. 
+La Mancha (no te pierdas la {{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha 
+>}}) y Vinos de la Tierra de Tierra de Castilla, cuenta con bodegas y viñedos en la D.O. 
+Méntrida y en la D.O. Vinos de Uclés, y con sus propios Vinos de Pago en Dominio de 
+Valdepusa, Dehesa del Carrizal y Campo de la Guardia. Incluso cuentan con varias 
+cervezas artesanas propias y estupendas. 
 
 ## Los mejores restaurantes de Toledo, una selección muy personal
 
@@ -121,13 +120,13 @@ Cerro del Emperador s/n. Toledo. Tel. 639 938 140
 
 ### 3\. El Cigarral de Caravantes
 
-Terminamos nuestra ruta entre “cigarrales” en el de [Caravantes](https://www.cigarraldecaravantes.com), 
-un hotel construido en una antigua finca de la alta sociedad toledana que perteneció 
-durante el siglo XVIII a un célebre músico, el “señor de Caravantes”, quien llegara a 
-ser maestro de capilla en la Catedral de Toledo. Tiene una terraza súper agradable 
-donde, con esas vistas a sus preciosos jardines y a la monumental judería, podemos picar 
-algo o comer. También cuenta con restaurante. Ctra. de Circunvalación, 2. Toledo. Tel. 
-925 283 680 
+Terminamos nuestra ruta entre “cigarrales” en el de 
+[Caravantes](https://www.cigarraldecaravantes.com), un hotel construido en una antigua 
+finca de la alta sociedad toledana que perteneció durante el siglo XVIII a un célebre 
+músico, el “señor de Caravantes”, quien llegara a ser maestro de capilla en la Catedral 
+de Toledo. Tiene una terraza súper agradable donde, con esas vistas a sus preciosos 
+jardines y a la monumental judería, podemos picar algo o comer. También cuenta con 
+restaurante. Ctra. de Circunvalación, 2. Toledo. Tel. 925 283 680 
 
 ## Restaurantes en el casco antiguo de Toledo
 
@@ -153,16 +152,17 @@ Tel. 925 223 011
 ### 5\. Venta de Aires
 
 Es el restaurante más antiguo de Castilla La Mancha, el único con más de cien años a sus 
-espaldas. Abierto en 1891 en los por aquel entonces arrabales de la ciudad, [La](https://www.ventadeaires.com) 
-[V](https://www.ventadeaires.com)[enta de Aires](https://www.ventadeaires.com) comienza 
-como un humilde “ventorro” en el que se servía cocido a los trabajadores de la cercana 
-fábrica de armas. Poco a poco va ganando fama, siempre ofreciendo una cocina toledana 
-por sus cuatro costados, basada en la coquinaria más popular (esos pajaritos fritos, el 
-bacalao, el conejo, los escabeches, las perdices…) y se termina convirtiendo en lugar de 
-encuentro de intelectuales y burgueses como Antonio Maura o Gregorio Marañón. Toledo ha 
-crecido tanto que hoy está a las puertas del casco antiguo. Un lugar muy especial que 
-también cuenta con una buena terraza y donde no podemos dejar de probar la perdiz 
-estofada, un clásico. Paseo Circo Romano, 35. Tel. 925 220 545 
+espaldas. Abierto en 1891 en los por aquel entonces arrabales de la ciudad, 
+[La](https://www.ventadeaires.com) [V](https://www.ventadeaires.com)[enta de 
+Aires](https://www.ventadeaires.com) comienza como un humilde “ventorro” en el que se 
+servía cocido a los trabajadores de la cercana fábrica de armas. Poco a poco va ganando 
+fama, siempre ofreciendo una cocina toledana por sus cuatro costados, basada en la 
+coquinaria más popular (esos pajaritos fritos, el bacalao, el conejo, los escabeches, 
+las perdices…) y se termina convirtiendo en lugar de encuentro de intelectuales y 
+burgueses como Antonio Maura o Gregorio Marañón. Toledo ha crecido tanto que hoy está a 
+las puertas del casco antiguo. Un lugar muy especial que también cuenta con una buena 
+terraza y donde no podemos dejar de probar la perdiz estofada, un clásico. Paseo Circo 
+Romano, 35. Tel. 925 220 545 
 
 ![la clandestina de las tendillas bar de moda toledano](https://fotos.etheriamagazine.com/2020/10/restaurantes-toledo-la-clandestina-terraza.jpg "Terraza y ravioli relleno de pollo de corral, carabinero y espuma de almendra de © La Clandestina de las Tendillas.")
 
@@ -216,11 +216,12 @@ preferimos una opción cerrada. C/ Reyes Católicos, 5. Tel. 925 283 535
 
 ### 9\. Hierbabuena
 
-Ubicado en la circunvalación del casco histórico, [Hierbabuena](http://www.restaurantehierbabuena.com) 
-es un precioso restaurante con grandes ventanales mirando al Tajo y con una estupenda 
-terraza. Su cocina, con guiños internacionales (sobre todo a Asia), mantiene clásicos 
-como el cabrito, el cochinillo o la perdiz. Puedes echarle un ojo a su carta y a su menú 
-degustación en su web. Ctra. Circunvalación, nº 1. Tel. 925 223 924 
+Ubicado en la circunvalación del casco histórico, 
+[Hierbabuena](http://www.restaurantehierbabuena.com) es un precioso restaurante con 
+grandes ventanales mirando al Tajo y con una estupenda terraza. Su cocina, con guiños 
+internacionales (sobre todo a Asia), mantiene clásicos como el cabrito, el cochinillo o 
+la perdiz. Puedes echarle un ojo a su carta y a su menú degustación en su web. Ctra. 
+Circunvalación, nº 1. Tel. 925 223 924 
 
 ## Bares de tapas en Toledo, los de toda la vida
 
@@ -243,8 +244,8 @@ de carne, pimientos, salsa ali-oli y tomate picante que les han dado fama.
 
 **También te puede interesar...** 
 
-[Los tres mejores restaurantes del cochinillo en 
-Segovia.](https://etheriamagazine.com/2020/12/01/mejores-restaurantes-para-comer-cochinillo-en-segovia/) 
+{{< reflink path=posts/2020/12/mejores-restaurantes-para-comer-cochinillo-en-segovia >}} 
 
-[Terrazas y restaurantes donde cenar al fresco en Castilla-La 
-Mancha](https://etheriamagazine.com/2020/07/16/terrazas-y-restaurantes-de-toledo-ciudad-real-guadalajara-albacete/).
+{{< reflink 
+path=posts/2020/07/terrazas-y-restaurantes-de-toledo-ciudad-real-guadalajara-albacete 
+>}}.

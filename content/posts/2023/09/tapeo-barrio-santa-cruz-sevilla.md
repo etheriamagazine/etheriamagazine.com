@@ -1,7 +1,7 @@
 ---
 title: "Bares, terrazas y restaurantes de alta cocina en el sevillano Barrio de Santa Cruz"
 date: 2023-09-04
-coverImage: https://fotos.etheriamagazine.com/2023/08/sevilla-cafe-santa-cruz-Local.jpg
+cover: https://fotos.etheriamagazine.com/2023/08/sevilla-cafe-santa-cruz-Local.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Alfredo G. Reyes
 ---
 
-Te llevamos de la mano para que descubras la faceta gastronómica del sevillano Barrio de 
-Santa Cruz a través de sus bares de toda la vida, las terrazas con las mejores vistas y 
-los restaurantes de cocina internacional que están modernizando el barrio. Acompáñanos 
-en la ruta más deliciosa por el corazón de Sevilla, te vas a chupar los dedos. 
+**Te llevamos de la mano para que descubras la faceta gastronómica del sevillano Barrio 
+de Santa Cruz a través de sus bares de toda la vida, las terrazas con las mejores vistas 
+y los restaurantes de cocina internacional que están modernizando el barrio. Acompáñanos 
+en la ruta más deliciosa por el corazón de Sevilla, te vas a chupar los dedos.** 
 
 ![Piscina y terraza del © hotel Los Seises.](https://fotos.etheriamagazine.com/2023/08/sevilla-santa-cruz-hotel-seises-piscina.jpg "Piscina y terraza del © hotel Los Seises.")
 
@@ -147,8 +147,6 @@ seductor barrio de Santa Cruz.
 
 📌 **También te puede interesar:** 
 
-[10 planes originales con amigas en 
-Sevilla](https://etheriamagazine.com/2020/09/28/10-mejores-planes-en-sevilla-con-amigas-o-pareja/) 
+{{< reflink path=posts/2020/09/10-mejores-planes-en-sevilla-con-amigas-o-pareja >}} 
 
-[Sevilla, la escapada perfecta a la 
-andaluza](https://etheriamagazine.com/2019/02/04/viajar-con-amigas-sevilla/)
+{{< reflink path=posts/2019/02/viajar-con-amigas-sevilla >}}

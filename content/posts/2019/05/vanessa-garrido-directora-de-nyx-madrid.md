@@ -1,7 +1,7 @@
 ---
 title: "Vanessa Garrido, directora de Nyx Madrid: \"Es necesario reinventarse continuamente\""
 date: 2019-05-27
-coverImage: https://fotos.etheriamagazine.com/2019/05/Vanessa-Garrido-Hotel-Nyx-Madrid-3.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/Vanessa-Garrido-Hotel-Nyx-Madrid-3.jpg
 categories: 
   - historias
   - mujeres-top
@@ -65,4 +65,4 @@ El director de hotel ahora mismo tiene un perfil muy dinámico, y creo que hay *
 
 Me encantan los animales y tengo un perrito al que adoro llamado Coco. Lo intento llevar conmigo a todas partes. Incluso conseguí que entrara a la iglesia donde me casé, llevando los anillos junto con mis sobrinos. Por supuesto, nos acompañó en nuestro gran día durante todo la jornada.
 
-Como ya sabéis, en Etheria Magazine tenemos predilección por las mujeres viajeras, y con Vanessa Garrido compartimos esa pasión por los viajes. Sus destinos y sus experiencias más personales nos las cuenta en nuestra sección de Mujeres Etheria, donde nos decía que [Viajar es invertir en conocimiento y tolerancia](https://etheriamagazine.com/2019/03/29/vanessa-garrido-directora-hotel-nyx-mujer-etheria/).
+Como ya sabéis, en Etheria Magazine tenemos predilección por las mujeres viajeras, y con Vanessa Garrido compartimos esa pasión por los viajes. Sus destinos y sus experiencias más personales nos las cuenta en nuestra sección de Mujeres Etheria, donde nos decía que {{< reflink path=posts/2019/03/vanessa-garrido-directora-hotel-nyx-mujer-etheria >}}.

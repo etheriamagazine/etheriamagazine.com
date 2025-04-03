@@ -1,7 +1,7 @@
 ---
 title: "Cinco consejos útiles para viajar embarazada sin riesgos"
 date: 2021-03-30
-coverImage: https://fotos.etheriamagazine.com/2019/02/embarazada-viaje.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/embarazada-viaje.jpg
 categories: 
   - bienestar
   - inspiración
@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-¿Quieres viajar embarazada? Estupendo, si te hace feliz y no tienes complicaciones, que 
-es lo más habitual, ¡adelante! Lo mejor para tu hijo en este momento es que estés 
+**¿Quieres viajar embarazada? Estupendo, si te hace feliz y no tienes complicaciones, 
+que es lo más habitual, ¡adelante! Lo mejor para tu hijo en este momento es que estés 
 contenta, y los viajes ayudan a alcanzar ese estado de bienestar. Te damos 5 sencillas 
-pautas que te servirán para organizar tus escapadas si eres novata en estas lides. 
+pautas que te servirán para organizar tus escapadas si eres novata en estas lides.** 
 
 ![consejos viajar embarazada](https://fotos.etheriamagazine.com/2019/02/mujer-embarazo-viaje.jpg "Consejos para viajar embarazada.")
 
@@ -43,13 +43,19 @@ que vueles con ellos. Trata de reservar un asiento en el pasillo para poder leva
 caminar de vez en cuando. Consulta la normativa completa de las siguientes compañías en 
 sus páginas web. 
 
-• **Iberia** no recomienda viajar a partir de la semana 36, siguiendo indicaciones de 
-IATA, y si lo tienes que hacer obligatoriamente te pedirán un certificado médico. • 
-**Vueling**. Se puede volar sin problema hasta la semana 27, entre la 28 y la 35 se 
-necesita un permiso del médico. • **LATAM**. Desde la semana 39 no podrás viajar con 
-esta compañía. • **Ryanair**. No permite volar a partir de la semana 36 de embarazo. • 
-**Air France**. Aconseja no viajar a partir de la semana 37. • **KLM**. Desaconseja 
-viajar tras la semana 36 y menos de siete días tras el parto. 
+- **Iberia** no recomienda viajar a partir de la semana 36, siguiendo indicaciones de 
+IATA, y si lo tienes que hacer obligatoriamente te pedirán un certificado médico. 
+
+- **Vueling**. Se puede volar sin problema hasta la semana 27, entre la 28 y la 35 se 
+necesita un permiso del médico. 
+
+- **LATAM**. Desde la semana 39 no podrás viajar con esta compañía. 
+
+- **Ryanair**. No permite volar a partir de la semana 36 de embarazo. 
+
+- **Air France**. Aconseja no viajar a partir de la semana 37. 
+
+- **KLM**. Desaconseja viajar tras la semana 36 y menos de siete días tras el parto. 
 
 ### En coche: sin limitación
 
@@ -75,12 +81,17 @@ así que si no estás encaprichada, puedes dejarlo para más adelante. Las navie
 sus propias normas y no suelen estar preparadas para asistir a un parto, consúltalas 
 antes de reservar: 
 
-• **MSC Cruceros**. No puedes embarcar a partir de la semana 24. • **Costa Cruceros**. 
-Necesitarás un certificado médico y no haber alcanzado la semana 24 de embarazo. • 
-**Pullmantur**. No aceptan reservas si al terminar el crucero estás en la semana 24 o 
-superior. • **Royal Caribbean**. Exige un certificado médico que asegure el buen estado 
-de salud de la embarazada y que no llega a la semana 24 (o más) de gestación a la 
-finalización del viaje. 
+- **MSC Cruceros**. No puedes embarcar a partir de la semana 24. 
+
+- **Costa Cruceros**. Necesitarás un certificado médico y no haber alcanzado la semana 
+24 de embarazo. 
+
+- **Pullmantur**. No aceptan reservas si al terminar el crucero estás en la semana 24 o 
+superior. 
+
+- **Royal Caribbean**. Exige un certificado médico que asegure el buen estado de salud 
+de la embarazada y que no llega a la semana 24 (o más) de gestación a la finalización 
+del viaje. 
 
 ![viajar en el segundo trimestre embarazo](https://fotos.etheriamagazine.com/2019/02/viajar-embarazada.jpg "El mejor momento para viajar durante el embarazo es en el segundo trimestre.")
 
@@ -106,7 +117,8 @@ espalda y circulatorias. Procura hidratarte bien y no tomar demasiado el sol.
 
 Consulta previamente la necesidad de vacunarte en [La salud también 
 viaja](http://www.mscbs.gob.es/profesionales/saludPaises.do) porque en algunos lugares 
-es necesario. En caso de alto riesgo, según [AEPap](https://www.aepap.org/sites/default/files/vacunacion_en_el_embarazo_def.pdf), 
+es necesario. En caso de alto riesgo, según 
+[AEPap](https://www.aepap.org/sites/default/files/vacunacion_en_el_embarazo_def.pdf), 
 podrías ponerte las vacunas de la fiebre amarilla, rabia, fiebre tifoidea, encefalitis 
 japonesa y encefalitis centroeuropea. 
 
@@ -117,18 +129,22 @@ japonesa y encefalitis centroeuropea.
 No es que existan hoteles "solo para embarazadas" pero sí que hay **resorts y balnearios 
 que son perfectos cuando esperas un hijo** o cuando quieres recuperarte del parto. Su 
 oferta suele centrarse en la alimentación sana, el ejercicio suave y en tratamientos en 
-centros termales. Si buscas una escapada de relax, consulta las siguientes opciones: • 
-Hoteles y balnearios [Castilla 
+centros termales. Si buscas una escapada de relax, consulta las siguientes opciones: 
+
+- Hoteles y balnearios [Castilla 
 Termal](https://www.castillatermal.com/embarazo-agua-termal/) (en Valladolid, Soria y 
-Cantabria). Masajes y bonos regalo especiales para embarazadas. • [Hotel y balneario 
-Gran Hotel La 
-Toja](https://etheriamagazine.com/2021/02/12/la-toja-escapada-romantica-termal-en-galicia/) 
+Cantabria). Masajes y bonos regalo especiales para embarazadas. 
+
+- {{< reflink path=posts/2024/07/la-toja-escapada-romantica-termal-en-galicia >}} 
 (Pontevedra). Diversos tratamientos, se desaconseja su uso en los 3 primeros o 3 últimos 
-meses de embarazo. • [Asia Gardens Hotel & Thai 
-Spa](https://www.asiagardens.es/tratamientos) (Alicante). Cuenta con un masaje de 60 
-minutos llamado Kong Thong para futuras madres. • [Caldea](https://www.caldea.com/blog/beneficios-masajes-embarazadas/) 
-(Andorra). Emplean técnicas de relajación para espalda y para activar la circulación en 
-las piernas. 
+meses de embarazo. 
+
+- [Asia Gardens Hotel & Thai Spa](https://www.asiagardens.es/tratamientos) (Alicante). 
+Cuenta con un masaje de 60 minutos llamado Kong Thong para futuras madres. 
+
+- [Caldea](https://www.caldea.com/blog/beneficios-masajes-embarazadas/) (Andorra). 
+Emplean técnicas de relajación para espalda y para activar la circulación en las 
+piernas. 
 
 ## 5\. ¿Qué llevar en el equipaje?
 
@@ -155,11 +171,8 @@ muchas horas en el trayecto.
 
 ### También te puede interesar
 
-[Cortijos andaluces para dar la bienvenida a la 
-primavera](https://etheriamagazine.com/2021/03/16/cortijos-andaluces-viaje-amigas/). 
+{{< reflink path=posts/2021/03/cortijos-andaluces-viaje-amigas >}}. 
 
-[10 hoteles de lujo para una escapada 
-romántica](https://etheriamagazine.com/2021/01/21/hoteles-de-lujo-escapada-romantica-2021/). 
+{{< reflink path=posts/2021/01/hoteles-de-lujo-escapada-romantica-2021 >}}. 
 
-[El renovado Parador de León, un hotel de lujo para espíritus 
-ilustrados](https://etheriamagazine.com/2020/12/22/parador-de-leon-hotel-romantico-y-de-lujo/).
+{{< reflink path=posts/2020/12/parador-de-leon-hotel-romantico-y-de-lujo >}}.

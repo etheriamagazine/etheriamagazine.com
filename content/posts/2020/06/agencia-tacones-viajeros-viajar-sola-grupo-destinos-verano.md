@@ -1,7 +1,7 @@
 ---
 title: "Tacones Viajeros apuesta por balnearios, vinos, playa y montaña"
 date: 2020-06-09
-coverImage: https://fotos.etheriamagazine.com/2020/06/grupo-jordania-tacones-viajeros.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/grupo-jordania-tacones-viajeros.jpg
 categories: 
   - historias
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Tacones Viajeros, la agencia de Elma Sesma y Patricia Estévez, ha reorganizado su 
+**Tacones Viajeros, la agencia de Elma Sesma y Patricia Estévez, ha reorganizado su 
 programación para este verano con destinos en territorio nacional, tanto en la costa 
 como en el interior. En la siguiente entrevista nos cuentan sus próximos viajes, cómo 
-han afrontado estos últimos meses y sus expectativas de futuro. 
+han afrontado estos últimos meses y sus expectativas de futuro.** 
 
 ![Elma Sesma y Patricia Estévez forman Tacones Viajeros.](https://fotos.etheriamagazine.com/2020/06/tacones-viajeros-agencia.jpg "Elma Sesma y Patricia Estévez forman Tacones Viajeros.")
 
@@ -105,23 +105,22 @@ balnearios, vinos, playa y montaña.
 ### 7\. ¿Qué destinos ofrecéis para este verano 2020?
 
 Estamos preparando viajes para el verano que incluyen mar como la **Cornisa 
-Cantábrica**, [Costa 
-Brava](https://etheriamagazine.com/2019/05/28/pueblos-imprescindibles-viaje-amigas-costa-brava/), 
-[Cádiz y Pueblos 
-Blancos](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/), 
-y **Caravaca de la Cruz**, entre otros... y en el interior **Valle del Jerte**, **La 
-Ruta del Quijote**, [Las 
-Merindades](https://etheriamagazine.com/2019/06/04/que-ver-hacer-ruta-merindades-burgos/), 
-**Sierra de Francia** o los **Arribes del Duero**... Además ya hemos sacado la 
-posibilidad de hacer 4 rutas del **Camino de Santiago Francés**. 
+Cantábrica**, {{< reflink 
+path=posts/2019/05/pueblos-imprescindibles-viaje-amigas-costa-brava >}}, {{< reflink 
+path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}}, y **Caravaca de la Cruz**, 
+entre otros... y en el interior **Valle del Jerte**, **La Ruta del Quijote**, {{< 
+reflink path=posts/2019/06/que-ver-hacer-ruta-merindades-burgos >}}, **Sierra de 
+Francia** o los **Arribes del Duero**... Además ya hemos sacado la posibilidad de hacer 
+4 rutas del **Camino de Santiago Francés**. 
 
 ### 8\. ¿Y para el último trimestre del año?
 
 Somos positivas y esperamos que, a partir de septiembre, se puedan hacer algunos viajes 
 internacionales, por el momento ya tenemos cerrado uno de nuestros viajes estrella al 
 **desierto de Marruecos** en septiembre y esperamos que se pueda realizar. Si todo va 
-bien, y nos deja el Covid, los destinos propuestos serán **Jordania**, **Egipto**, [India](https://etheriamagazine.com/2020/01/29/viaje-para-mujeres-que-ver-norte-india-rajastan/) 
-y **Turquía**. 
+bien, y nos deja el Covid, los destinos propuestos serán **Jordania**, **Egipto**, {{< 
+reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}} y 
+**Turquía**. 
 
 ![Grupo en Egipto de Tacones Viajeros.](https://fotos.etheriamagazine.com/2020/06/grupo-egipto-tacones-viajeros.jpg "Grupo en Egipto de Tacones Viajeros.")
 

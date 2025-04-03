@@ -1,7 +1,7 @@
 ---
 title: "Toca el cielo con las manos en el lago Titicaca y la Isla del Sol"
 date: 2019-12-20
-coverImage: https://fotos.etheriamagazine.com/2019/12/isla-del-sol-lago-titicaca.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/isla-del-sol-lago-titicaca.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -219,12 +219,9 @@ beber poquito y dormir solito…”**
 
 ### También te puede interesar...
 
-[Ruta de 3 días por el Salar de Uyuni (y advertencias a tener en 
-cuenta)](https://etheriamagazine.com/2019/05/24/ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta/). 
+{{< reflink 
+path=posts/2019/05/ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta >}}. 
 
-[Así es San Pedro de Atacama, la capital del ‘buenrollismo’ 
-chileno](https://etheriamagazine.com/2019/01/04/que-ver-en-desierto-atacama-san-pedro-atacama-chile/). 
+{{< reflink path=posts/2019/01/que-ver-en-desierto-atacama-san-pedro-atacama-chile >}}. 
 
-[Rosa María Calaf: “Soy una soñadora pragmática que ama ver, escuchar y aprender de lo 
-distinto para contarlo 
-después”](https://etheriamagazine.com/2018/09/17/rosa-maria-calaf-es-una-mujer-etheria/).
+{{< reflink path=posts/2018/09/rosa-maria-calaf-es-una-mujer-etheria >}}.

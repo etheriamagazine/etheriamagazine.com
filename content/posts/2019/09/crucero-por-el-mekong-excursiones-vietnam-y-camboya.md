@@ -1,17 +1,17 @@
 ---
 title: "Crucero por el Mekong. Vietnam y Camboya a través del río de la vida"
 date: 2019-09-13
-coverImage: https://fotos.etheriamagazine.com/2019/09/crucero-Aqua-Mekong.jpg
+cover: https://fotos.etheriamagazine.com/2019/09/crucero-Aqua-Mekong.jpg
 destino: 
   - Mundo
 authors: 
   - Cristina R. Bareño
 ---
 
-Más que un río, el Mekong significa vida. Cultura, tradiciones y origen. A su paso va 
+**Más que un río, el Mekong significa vida. Cultura, tradiciones y origen. A su paso va 
 haciendo mella, no solo en la tierra que erosiona, sino también en los habitantes que se 
 han establecido a pie de sus orillas. En Etheria Magazine hemos realizado un crucero por 
-el Mekong para contarte todo lo que no debes perderte. 
+el Mekong para contarte todo lo que no debes perderte.** 
 
 ![Productos de un mercado en Vietnam](https://fotos.etheriamagazine.com/2019/09/mercados-crucero-mekong.jpg "Visita al mercado de Sa Dec, en Vietnam, durante el crucero por el Mekong. ©Cristina R. Bareño")
 
@@ -119,10 +119,9 @@ reservar unos días antes y después del crucero para conocer las ciudades de H�
 y Siem Reap por tierra. Mi consejo sería pasar una o dos noches en la ciudad vietnamita, 
 donde empaparse de su cultura y hacer una pequeña inmersión antes de embarcar; e 
 invertir tres más para volar desde Phnom Penh hasta Seam Reap para visitar la región 
-camboyana de Angkor (no te pierdas 📍 [Las bailarinas 'desaparecidas' de 
-Angkor](https://etheriamagazine.com/2019/01/17/que-ver-angkor-bailarinas-robadas/)) 
-donde quedarse maravillados con uno de los complejos arqueológicos más majestuosos del 
-mundo. 
+camboyana de Angkor (no te pierdas 📍 {{< reflink 
+path=posts/2019/01/que-ver-angkor-bailarinas-robadas >}}) donde quedarse maravillados 
+con uno de los complejos arqueológicos más majestuosos del mundo. 
 
 ![Cocina de Camboya: ensalada y pho soup de verduras y carne.](https://fotos.etheriamagazine.com/2019/09/cocina-comida-crucero-mekong.jpg "Cocina local a bordo: ensalada y pho soup de verduras y carne. ©CRB")
 
@@ -162,4 +161,5 @@ hablando, dejaos llevar por la _street food_ ya que no os decepcionará.
 
 ### Más información
 
-Web oficiales de turismo de [Vietnam](https://vietnam.travel/) y [Camboya](https://www.tourismcambodia.com/).
+Web oficiales de turismo de [Vietnam](https://vietnam.travel/) y 
+[Camboya](https://www.tourismcambodia.com/).

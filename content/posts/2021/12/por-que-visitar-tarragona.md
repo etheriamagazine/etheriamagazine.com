@@ -1,7 +1,7 @@
 ---
 title: "10 buenas razones para escaparse a la antigua Tarraco"
 date: 2021-12-29
-coverImage: https://fotos.etheriamagazine.com/2021/12/Ruta-del-VI-DO-TARRAGONA.jpg
+cover: https://fotos.etheriamagazine.com/2021/12/Ruta-del-VI-DO-TARRAGONA.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -214,11 +214,8 @@ Más información en **Turismo de Tarragona**.
 
 ### Sigue viajando con Etheria magazine
 
-[Viñedos con sabor a mar, primer tramo del Grand Tour de 
-Cataluña](https://etheriamagazine.com/2021/11/12/grand-tour-catalunya-vinedos-sabor-a-mar/). 
+{{< reflink path=posts/2024/06/grand-tour-catalunya-vinedos-sabor-a-mar >}}. 
 
-[Descubre estos 8 lugares secretos de Cataluña que deberías 
-conocer](https://etheriamagazine.com/2021/02/22/lugares-secretos-de-cataluna-que-visitar/). 
+{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}. 
 
-[Modernismo en Terrassa, tres visitas que te 
-sorprenderán](https://etheriamagazine.com/2021/08/20/que-ver-en-terrassa-visitas-modernistas/).
+{{< reflink path=posts/2021/08/que-ver-en-terrassa-visitas-modernistas >}}.

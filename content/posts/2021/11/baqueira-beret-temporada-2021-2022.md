@@ -1,7 +1,7 @@
 ---
 title: "Baqueira Beret, novedades de la temporada 2021-2022 que te interesa conocer"
 date: 2021-11-24
-coverImage: https://fotos.etheriamagazine.com/2021/11/Baqueira-Beret-esquiadores.jpg
+cover: https://fotos.etheriamagazine.com/2021/11/Baqueira-Beret-esquiadores.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -144,8 +144,6 @@ para el bolsillo.
 
 ### También te puede interesar...
 
-[Valle de Arán, organiza una ruta por sus pueblos y sendas 
-imprescindibles](https://etheriamagazine.com/2020/08/31/pueblos-y-rutas-imprescindibles-en-valle-aran/). 
+{{< reflink path=posts/2020/08/pueblos-y-rutas-imprescindibles-en-valle-aran >}}. 
 
-[Planes en la nieve para mujeres que no 
-esquían](https://etheriamagazine.com/2019/01/02/planes-en-la-nieve-para-mujeres-que-no-esquian/).
+{{< reflink path=posts/2019/01/planes-en-la-nieve-para-mujeres-que-no-esquian >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Hotel One&Only Royal Mirage, un cinco estrellas perfecto para vivir Dubái con estilo"
 date: 2022-02-04
-coverImage: https://fotos.etheriamagazine.com/2022/02/RoyalMirage-Playa.jpg
+cover: https://fotos.etheriamagazine.com/2022/02/RoyalMirage-Playa.jpg
 categories: 
   - hoteles
 destino: 
@@ -135,11 +135,8 @@ desde 628 Euros la noche. Fotografías cedidas por ©One&Only Resorts.
 
 ### También te puede interesar:
 
-[Expo 2020 de Dubái: cómo aprovechar el tiempo durante tu 
-visita](https://etheriamagazine.com/2021/12/20/visita-a-expo-2020-dubai/) 
+{{< reflink path=posts/2021/12/visita-a-expo-2020-dubai >}} 
 
-[10 visitas para aprovechar al máximo una escala en 
-Dubái](https://etheriamagazine.com/2019/05/31/como-aprovechar-una-escala-en-dubai/) 
+{{< reflink path=posts/2019/05/como-aprovechar-una-escala-en-dubai >}} 
 
-[Islas Seychelles, el nuevo paraíso para los viajeros 
-españoles](https://etheriamagazine.com/2020/11/16/islas-seychelles-un-viaje-de-lujo-al-paraiso/)
+{{< reflink path=posts/2020/11/islas-seychelles-un-viaje-de-lujo-al-paraiso >}}

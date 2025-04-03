@@ -1,7 +1,7 @@
 ---
 title: "Cómo hacer la maleta para un viaje de trabajo"
 date: 2018-05-28
-coverImage: https://fotos.etheriamagazine.com/2018/05/WorkingOutfits-7-2.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/WorkingOutfits-7-2.jpg
 categories: 
   - qué-llevar-en-la-maleta
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Rebeca Ávila
 ---
 
-Como mujer profesional y activa seguro que son muchas las veces que tienes que realizar 
-salidas a otros destinos o empresas. En este artículo te ayudamos a gestionar una maleta 
-para un viaje de trabajo de la forma más eficaz posible. 
+**Como mujer profesional y activa seguro que son muchas las veces que tienes que 
+realizar salidas a otros destinos o empresas. En este artículo te ayudamos a gestionar 
+una maleta para un viaje de trabajo de la forma más eficaz posible.** 
 
 ![Hacer la maleta en los viajes profesionales](https://fotos.etheriamagazine.com/2018/05/WorkingOutfits-7-2.jpg "Los viajes profesionales requieren de un equipaje específico y bien planteado")
 
@@ -81,5 +81,6 @@ Feliz próximo viaje.
 
 **También te puede interesar...** 
 
-[10 productos para un neceser de viaje seguro y con 
-estilo](https://etheriamagazine.com/2020/05/25/10-productos-basicos-para-un-neceser-de-viajes-de-mujer-seguro-y-con-estilo/).
+{{< reflink 
+path=posts/2020/05/10-productos-basicos-para-un-neceser-de-viajes-de-mujer-seguro-y-con-estilo 
+>}}.

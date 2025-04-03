@@ -1,7 +1,7 @@
 ---
 title: "Ir de bares y otros planes para enamorarte de Bolonia"
 date: 2022-02-21
-coverImage: https://fotos.etheriamagazine.com/2022/02/Plaza-Mayor-bolonia-noche.jpg
+cover: https://fotos.etheriamagazine.com/2022/02/Plaza-Mayor-bolonia-noche.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Alfredo G. Reyes
 ---
 
-La imagen de Bolonia es la de una ciudad universitaria donde estudian (y disfrutan) 
+**La imagen de Bolonia es la de una ciudad universitaria donde estudian (y disfrutan) 
 nuestros Erasmus, un destino económico gracias a las líneas aéreas _low cost_ y un 
 rincón de Italia con mucha historia. ¿Por qué deberías valorarlo como tu próxima 
 escapada? Son muchas las razones, además de los bares, pero aquí hemos elegido diez 
-planes que puedes hacer en Bolonia y que justifican el viaje. 
+planes que puedes hacer en Bolonia y que justifican el viaje.** 
 
 ![en bicicleta por bolonia](https://fotos.etheriamagazine.com/2022/02/bolonia-porticos-bicicleta.jpg "En Bolonia es fácil moverse en bicicleta.")
 
@@ -28,8 +28,7 @@ el activismo político que la caracterizó durante buena parte del siglo XX y pr
 del XXI. Si quieres saber qué hacer en Bolonia sigue leyendo porque con estos planes que 
 te proponemos conocerás facetas muy variadas de la ciudad. 
 
-📌No te pierdas: [Viaje con amigas a Bolonia: 10 planes imbatibles en 
-Italia](https://etheriamagazine.com/2022/06/10/viaje-con-amigas-a-bolonia/). 
+📌No te pierdas: {{< reflink path=posts/2022/06/viaje-con-amigas-a-bolonia >}}. 
 
 ![impresionante plano aereo de bolonia](https://fotos.etheriamagazine.com/2022/02/Plano-aereo-bolonia.jpg "Vista aérea de Bolonia.")
 
@@ -83,11 +82,11 @@ graso) y el mundialmente conocido Parmiggiano-Reggiano.
 
 ### 4\. Comprar recuerdos gourmet
 
-En la zona del Quadrilatero lo clásico es comprar (y degustar) estas delicias en la [Salumeria 
-Simoni](https://salumeriasimoni.it/), una tienda gourmet también muy surtida de licores, 
-vinos y pastas con los más diversos rellenos, además de las salsas precocinadas para 
-acompañarlas. Entre ellas, por supuesto, la célebre boloñesa, a base de carne triturada, 
-verduras y tomate. 
+En la zona del Quadrilatero lo clásico es comprar (y degustar) estas delicias en la 
+[Salumeria Simoni](https://salumeriasimoni.it/), una tienda gourmet también muy surtida 
+de licores, vinos y pastas con los más diversos rellenos, además de las salsas 
+precocinadas para acompañarlas. Entre ellas, por supuesto, la célebre boloñesa, a base 
+de carne triturada, verduras y tomate. 
 
 ![Comercio gastronómico de Bolonia](https://fotos.etheriamagazine.com/2022/02/Comercio-gastronomico-bolonia.jpg "Comercio gastronómico de Bolonia.")
 
@@ -186,11 +185,8 @@ de los lugares más agradables del centro histórico de Bolonia.
 
 ### También te puede interesar...
 
-[Casi un mar: rodea en coche el lago de Garda, el mayor de 
-Italia](https://etheriamagazine.com/2021/09/22/ruta-en-coche-en-lago-de-garda-italia/). 
+{{< reflink path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}}. 
 
-[Turín con amigas: viaja a la ciudad más supersticiosa de 
-Italia](https://etheriamagazine.com/2021/07/16/que-ver-en-turin-en-un-viaje-con-amigas/). 
+{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}}. 
 
-[Nueve paseos a la italiana por los jardines más bellos de 
-Florencia](https://etheriamagazine.com/2021/05/21/paseos-por-los-jardines-mas-bellos-de-florencia/).
+{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}.

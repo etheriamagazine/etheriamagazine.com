@@ -1,7 +1,7 @@
 ---
 title: "Viaje con amigas a Jerez, el arte del buen vivir"
 date: 2020-06-10
-coverImage: https://fotos.etheriamagazine.com/2020/06/ruta-vino-jerez.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/ruta-vino-jerez.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -74,8 +74,9 @@ con amigas a Jerez, hay que manejar un vocabulario “de guerrilla” básico pa
 vayas sin hacerte un mini máster en vinos generosos, que aquí hay verdaderas joyas. La 
 variedad de este terruño recoge: manzanilla, fino, amontillado, oloroso, palo cortado, y 
 luego están los **VOS** (vinos con más de 20 años) y los **VORS** (más de 30 años), 
-también está el brandy…. Un poco de teoría la encontrarás en la página [sherry.wine/es](http://sherry.wine/es) 
-(del consejo regulador de la denominación de origen). 
+también está el brandy…. Un poco de teoría la encontrarás en la página 
+[sherry.wine/es](http://sherry.wine/es) (del consejo regulador de la denominación de 
+origen). 
 
 #### Ruta por los tabancos
 
@@ -171,16 +172,16 @@ jerezana**.
 Uno es el restaurante [Lú, Cocina y Alma](https://lucocinayalma.com/), de **Juanlu 
 Fernández**, quien se ha convertido en todo un referente de la alta gastronomía de la 
 ciudad. Discípulo de Ángel León, ha conseguido poner Jerez al nivel que le correspondía 
-y define su cocina como un encuentro entre Jerez y Francia. Pero también, el [restaurante 
-Mantúa](http://restaurantemantua.com/), del **chef Israel Ramos**, es otra experiencia 
-única, con varios menús de degustación que recorren los clásicos de la tierra 
-revisitados por este chef cuyos reconocimientos ya le llegaron estando en Tragabuches, 
-en Ronda. 
+y define su cocina como un encuentro entre Jerez y Francia. Pero también, el 
+[restaurante Mantúa](http://restaurantemantua.com/), del **chef Israel Ramos**, es otra 
+experiencia única, con varios menús de degustación que recorren los clásicos de la 
+tierra revisitados por este chef cuyos reconocimientos ya le llegaron estando en 
+Tragabuches, en Ronda. 
 
-Otro restaurante interesante, este sin estrella Michelin pero encantador, es el [T22](https://www.t22jerez.com/) 
-del gran hotel de la ciudad, el hotel Casa Palacio María Luisa, con una cocina centrada 
-en los productos de la zona en la que rinden homenaje a la gastronomía tradicional 
-gitana. 
+Otro restaurante interesante, este sin estrella Michelin pero encantador, es el 
+[T22](https://www.t22jerez.com/) del gran hotel de la ciudad, el hotel Casa Palacio 
+María Luisa, con una cocina centrada en los productos de la zona en la que rinden 
+homenaje a la gastronomía tradicional gitana. 
 
 ![casa palacio maria luisa, jerez de la frontera](https://fotos.etheriamagazine.com/2020/06/jerez-Casa-Palacio-Maria-Luisa.jpg "Casa palacio María Luisa, en Jerez de la Frontera.")
 
@@ -234,11 +235,8 @@ bebes los vinos, te bebes la luz de la Bahía. ¿A que quieres quedarte a vivir?
 
 ### También te puede interesar:
 
-[El Puerto de Santa María, entre palacios, playas y 
-vino](https://etheriamagazine.com/2021/11/01/guia-imprescindible-el-puerto-santa-maria/) 
+{{< reflink path=posts/2021/11/guia-imprescindible-el-puerto-santa-maria >}} 
 
-[Ruta en coche por 12 preciosos pueblos blancos de 
-Cádiz](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/) 
+{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}} 
 
-[Cádiz, tras las huellas de su legado 
-andalusí](https://etheriamagazine.com/2019/05/20/viajar-con-amigas-que-hacer-en-cadiz/)
+{{< reflink path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}}

@@ -1,7 +1,7 @@
 ---
 title: "Eventos culturales de Flandes en 2024: año Ensor y mucho más"
 date: 2024-03-22
-coverImage: https://fotos.etheriamagazine.com/2024/03/exposiciones-flandes-James-Ensor-esqueleto-pintor-en-su-estudio.jpg
+cover: https://fotos.etheriamagazine.com/2024/03/exposiciones-flandes-James-Ensor-esqueleto-pintor-en-su-estudio.jpg
 categories: 
   - viajar-sola
   - cultura
@@ -42,31 +42,40 @@ Flandes](https://www.visitflanders.com/es/ensor2024).
 
 ### Ostende
 
-• **‘Rose, Rose, Rose, à mes yeux!’** En el Mu.ZEE hasta el 14 de abril de 2024. • En la 
-Casa Ensor. **‘Autorretratos’** (del 21 de marzo a 6 de junio de 2024), **‘Entrada de 
-Cristo en Bruselas en 1889’** (del 27 de junio al 1 de septiembre de 2024), y **‘Sátira, 
-parodia, pastiche’** (del 19 de septiembre al 12 de enero de 2025). • **‘Ostende, el 
-paraíso imaginario de Ensor’** en las Galerías Venecianas, del 29 de junio al 27 de 
-octubre de 2024. • **Exposición interactiva** para niños sobre Ensor en el Fort 
-Napoleón. Hasta el 14 de abril de 2024. 
+- **‘Rose, Rose, Rose, à mes yeux!’** En el Mu.ZEE hasta el 14 de abril de 2024. 
+
+- En la Casa Ensor. **‘Autorretratos’** (del 21 de marzo a 6 de junio de 2024), 
+**‘Entrada de Cristo en Bruselas en 1889’** (del 27 de junio al 1 de septiembre de 
+2024), y **‘Sátira, parodia, pastiche’** (del 19 de septiembre al 12 de enero de 2025). 
+- **‘Ostende, el paraíso imaginario de Ensor’** en las Galerías Venecianas, del 29 de 
+junio al 27 de octubre de 2024. 
+
+- **Exposición interactiva** para niños sobre Ensor en el Fort Napoleón. Hasta el 14 de 
+abril de 2024. 
 
 !['Autorretrato con sombrero de flores', 1883, de James Ensor.](https://fotos.etheriamagazine.com/2024/03/exposiciones-flandes-Ensor-autorretrato.jpg "'Autorretrato con sombrero de flores', 1883, de James Ensor. © Colección Mu.ZEEv/foto Hugo Maertens.")
 
 ### Amberes
 
-• **‘Los sueños más salvajes de Ensor. Más allá del impresionismo’** en el KMSKA, Museo 
-Real de Bellas Artes de Amberes. Del 28 de septiembre al 19 de enero de 2025. • 
-**‘Mascarada, Maquillaje y Ensor’** en el MoMu-Museo de la Moda. Del 28 de septiembre al 
-19 de enero de 2025. • **‘Cindy Sherman. Anti-fashion’** en el FoMu-Museo de la 
-Fotografía. Del 29 de septiembre al 2 de febrero de 2025. • **‘La búsqueda de la luz de 
-Ensor. Experimentos en papel’** en el Museo Plantin-Moretus. Del 27 de septiembre al 5 
-de enero de 2025. 
+- **‘Los sueños más salvajes de Ensor. Más allá del impresionismo’** en el KMSKA, Museo 
+Real de Bellas Artes de Amberes. Del 28 de septiembre al 19 de enero de 2025. 
+
+- **‘Mascarada, Maquillaje y Ensor’** en el MoMu-Museo de la Moda. Del 28 de septiembre 
+al 19 de enero de 2025. 
+
+- **‘Cindy Sherman. Anti-fashion’** en el FoMu-Museo de la Fotografía. Del 29 de 
+septiembre al 2 de febrero de 2025. 
+
+- **‘La búsqueda de la luz de Ensor. Experimentos en papel’** en el Museo 
+Plantin-Moretus. Del 27 de septiembre al 5 de enero de 2025. 
 
 ### Bruselas
 
-• **‘James Ensor. Inspired by Brussels'**. En el KRB Museum. Hasta el 2 de junio de 
-2024. • **‘James Ensor. Maestro'**. En el BOZAR-Palacio de Bellas Artes. Hasta el 2 de 
-junio de 2024. 
+- **‘James Ensor. Inspired by Brussels'**. En el KRB Museum. Hasta el 2 de junio de 
+2024. 
+
+- **‘James Ensor. Maestro'**. En el BOZAR-Palacio de Bellas Artes. Hasta el 2 de junio 
+de 2024. 
 
 ## TRIENNALE BRUGGE - Trienal de Arquitectura y Arte Contemporáneo en Brujas
 
@@ -91,10 +100,10 @@ tanto de arte antiguo como de arte contemporáneo profundizan en el impacto del 
 humano en la naturaleza. 
 
 Por si fuera poco, 2024 es el **año de los castillos y las abadías en Brugse Ommeland** 
-(la campiña que rodea Brujas). Por este motivo se ha creado la web [www.brugseommeland.be](https://www.brugseommeland.be/en) 
-donde se recogen los castillos, palacios, fortalezas y casas solariegas de la zona y 
-propuestas para conocerlos y disfrutar de ellos mediante rutas en bicicleta o haciendo 
-senderismo. 
+(la campiña que rodea Brujas). Por este motivo se ha creado la web 
+[www.brugseommeland.be](https://www.brugseommeland.be/en) donde se recogen los 
+castillos, palacios, fortalezas y casas solariegas de la zona y propuestas para 
+conocerlos y disfrutar de ellos mediante rutas en bicicleta o haciendo senderismo. 
 
 ## BEAUFORT24 - Trienal de Arte Contemporáneo en la costa
 
@@ -103,10 +112,11 @@ contemporáneo que deja 18 obras de artistas internacionales en 67 kilómetros d
 Con el aliciente de que no todo en esta exposición es efímero, ya que algunas de las 
 esculturas que forman parte de esta iniciativa se quedarán de forma permanente en el 
 **“Beaufort Sculpture Park”**, donde ya hay 42 obras de ediciones anteriores. Una 
-exposición al aire libre que es parada obligada si visitas la costa. En la web [www.triennalebeaufort.be/en](http://www.triennalebeaufort.be/en) 
-se encuentran propuestas para visitar las obras de BEAUFORT24 caminando, en bicicleta o 
-con un guía turístico. Esta trienal de arte contemporáneo se celebra del 27 de marzo al 
-3 de noviembre. 
+exposición al aire libre que es parada obligada si visitas la costa. En la web 
+[www.triennalebeaufort.be/en](http://www.triennalebeaufort.be/en) se encuentran 
+propuestas para visitar las obras de BEAUFORT24 caminando, en bicicleta o con un guía 
+turístico. Esta trienal de arte contemporáneo se celebra del 27 de marzo al 3 de 
+noviembre. 
 
 !['The Dancer V' (2021), de  Marguerite Humeau, una de las obras de ediciones anteriores de BEAUFORT.](https://fotos.etheriamagazine.com/2024/03/exposiciones-flandes-The-Dancer-beaufort-2021.jpg "'The Dancer V' (2021), de Marguerite Humeau, una de las obras de ediciones anteriores de BEAUFORT. © Triennial Beaufort.")
 
@@ -143,19 +153,18 @@ exposición tendrá lugar del 21 de septiembre al 5 de enero de 2025.
 
 Algunas de las obras de los maestros flamencos se crearon para ser admiradas en lugares 
 muy concretos como monasterios, castillos o iglesias. Para darlas a conocer se ha creado 
-el proyecto 'Maestros Flamencos _in situ_' que recoge en la web [www.flemishmastersinsitu.com](http://www.flemishmastersinsitu.com) 
-sesenta obras pertenecientes a artistas flamencos desde el Barroco a finales del siglo 
-XIX. En esta página, además de su ubicación, se puede conocer los detalles de cada obra 
-y rutas temáticas para disfrutar de ellas en persona. Algunos de los lugares que recoge 
-son la catedral de San Bavón de Gante, la iglesia de Nuestra Señora en Nieuwpoort, o el 
-Museo Beghina en Tongeren. 
+el proyecto 'Maestros Flamencos _in situ_' que recoge en la web 
+[www.flemishmastersinsitu.com](http://www.flemishmastersinsitu.com) sesenta obras 
+pertenecientes a artistas flamencos desde el Barroco a finales del siglo XIX. En esta 
+página, además de su ubicación, se puede conocer los detalles de cada obra y rutas 
+temáticas para disfrutar de ellas en persona. Algunos de los lugares que recoge son la 
+catedral de San Bavón de Gante, la iglesia de Nuestra Señora en Nieuwpoort, o el Museo 
+Beghina en Tongeren. 
 
 ![Retablo del Cordero Místico en la catedral de San Bavón de Gante.](https://fotos.etheriamagazine.com/2024/03/exposiciones-flandes-catedral-san-bavon-cordero-mistico.jpg "Retablo del Cordero Místico en la catedral de San Bavón de Gante. © Piet De Kersgieter.")
 
 **También te puede interesar:** 
 
-[8 planes que no puedes perderte en Bruselas y 
-Flandes](https://etheriamagazine.com/2021/03/12/que-ver-hacer-otros-planes-en-bruselas-y-flandes/) 
+{{< reflink path=posts/2021/03/que-ver-hacer-otros-planes-en-bruselas-y-flandes >}} 
 
-[Museos en Flandes para visitar con 
-niños](https://etheriamagazine.com/2022/11/21/flandes-en-familia-museos/)
+{{< reflink path=posts/2022/11/flandes-en-familia-museos >}}

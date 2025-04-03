@@ -1,7 +1,7 @@
 ---
 title: "8 excursiones en Mallorca para un viaje en familia"
 date: 2020-06-16
-coverImage: https://fotos.etheriamagazine.com/2020/06/mallorca-tren-soller.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/mallorca-tren-soller.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -12,10 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-La isla de Mallorca tiene tantas posibilidades de ocio en verano que podrías pasar unas 
-vacaciones en familia sin dejar un solo instante al aburrimiento. Aquí te proponemos 8 
-excursiones para realizar con niños en Mallorca, seguro que cuando vayáis a la isla se 
-os ocurren muchas más. 
+**La isla de Mallorca tiene tantas posibilidades de ocio en verano que podrías pasar 
+unas vacaciones en familia sin dejar un solo instante al aburrimiento. Aquí te 
+proponemos 8 excursiones para realizar con niños en Mallorca, seguro que cuando vayáis a 
+la isla se os ocurren muchas más.** 
 
 ![viajes con niños, viajes a Mallorca, excursiones en familia](https://fotos.etheriamagazine.com/2020/06/Mallorca-puerto-soller.jpg "Puerto de Sóller.")
 
@@ -68,9 +68,9 @@ parar a hacer fotografías del imponente paisaje de acantilados y mar. Al descen
 otro lado, veréis las bonitas playas de esta **península de Formentor**, de esas que 
 guarda la costa norte mallorquina con agua tranquila y transparente y pinos hasta casi 
 el borde de la orilla. Un lugar perfecto para una jornada playera donde alquilar una 
-barca a pedales o unas tablas de paddle surf. Aquí se encuentra el histórico [hotel 
-Formentor](https://etheriamagazine.com/2018/07/04/hotel-formentor-mallorca/), que 
-actualmente está siendo renovado por la cadena Four Seasons. 
+barca a pedales o unas tablas de paddle surf. Aquí se encuentra el histórico {{< reflink 
+path=posts/2018/07/hotel-formentor-mallorca >}}, que actualmente está siendo renovado 
+por la cadena Four Seasons. 
 
 De regreso, por la misma carretera (no hay otra), merece la pena una parada en el 
 **puerto de Pollença** para recorrer su Paseo Marítimo. 
@@ -93,8 +93,7 @@ nada como una ensaimada con chocolate en una pastelería tradicional como [Can J
 S'Aigo](https://canjoandesaigo.com/es/inicio/). 
 
 Si consigues despistar un rato a la familia, te recomendamos que leas nuestro reportaje 
-sobre [compras, mercados y algo más en Palma de 
-Mallorca](https://etheriamagazine.com/2019/08/01/24-horas-palma-mallorca-arte-compras-mercados/) 
+sobre {{< reflink path=posts/2019/08/24-horas-palma-mallorca-arte-compras-mercados >}} 
 para pasar un rato de tiendas por la ciudad. 
 
 ## 5\. Navegar hasta la isla Dragonera
@@ -108,7 +107,8 @@ la que lleva hasta la isla Dragonera, en la costa occidental, que forma parte de
 **rutas de senderismo** propuestas en el centro de visitantes, de distinta duración y 
 dificultad, lo mejor es coger el el barco de [Cruceros 
 Margarita](http://crucerosmargarita.com) que tarda tan solo veinte minutos y sale de 
-Sant Elm. Si preferís contratar una excursión organizada (como la que organiza [Civitatis](https://www.civitatis.com/es/mallorca/excursion-isla-dragonera/?aid=10211)), 
+Sant Elm. Si preferís contratar una excursión organizada (como la que organiza 
+[Civitatis](https://www.civitatis.com/es/mallorca/excursion-isla-dragonera/?aid=10211)), 
 tendréis una hora para hacer esnórquel en sus transparentes aguas pero dispondréis de 
 menos tiempo en la isla para hacer senderismo. ¡Vosotros elegís! 
 
@@ -158,11 +158,8 @@ agua](https://www.civitatis.com/es/cala-nova/alquiler-motos-agua-cala-nova/?aid=
 
 ### También te puede interesar:
 
-[Cuevas de Mallorca, cinco fantasías 
-subterráneas](https://etheriamagazine.com/2021/08/26/cuevas-de-mallorca-con-ninos/) 
+{{< reflink path=posts/2021/08/cuevas-de-mallorca-con-ninos >}} 
 
-[Palma con amigas: 8 planazos para exprimir la capital de 
-Mallorca](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palma-mallorca-con-amigas/) 
+{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}} 
 
-[Ruta del vino en Mallorca: descubre la D.O. 
-Binissalem](https://etheriamagazine.com/2018/07/26/ruta-del-vino-binissalem-viaje-mallorca-interior/)
+{{< reflink path=posts/2018/07/ruta-del-vino-binissalem-viaje-mallorca-interior >}}

@@ -1,7 +1,7 @@
 ---
 title: "Harry Potter ya tiene parque temático en Japón y es espectacular"
 date: 2023-06-19
-coverImage: https://fotos.etheriamagazine.com/2023/06/parque-Harry-Potter-japon.jpg
+cover: https://fotos.etheriamagazine.com/2023/06/parque-Harry-Potter-japon.jpg
 categories: 
   - ocio
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Después del de Londres, los estudios Warner Bros han elegido Japón para su segundo y 
+**Después del de Londres, los estudios Warner Bros han elegido Japón para su segundo y 
 fabuloso parque de Harry Potter. Ha abierto sus puertas el 16 de junio y está dispuesto 
 a sorprender a todos los fanáticos de esta popular saga. Te contamos cómo es y por qué 
-es interesante visitarlo si viajas a Tokio. 
+es interesante visitarlo si viajas a Tokio.** 
 
 ![Tren de Hogwarts Express traído de Londres.](https://fotos.etheriamagazine.com/2023/06/parque-Harry-Potter-japon.jpg "Tren de Hogwarts Express traído de Londres.")
 
@@ -24,10 +24,11 @@ primer **Warner Bros. Studio Tour** que se inaugura en el continente asiático. 
 **Making of Harry Potter** promete sorprender a todos los apasionados de este aprendiz 
 de mago que podrán descubrir qué había detrás de cada escena de la película, caminar por 
 sus estudios de rodaje y ver a pocos centímetros el vestuario empleado en la película. 
-Este es el segundo Warner Bros. Studio Tour - Making of Harry Potter del mundo, el 
-primero abrió sus puertas en Londres en 2012 y ya ha recibido más de 14 millones de 
-visitantes. Aunque el japonés sigue el modelo londinense, sus dimensiones son mayores y 
-tiene nuevas salas. 
+Este es el segundo Warner Bros. Studio Tour 
+
+- Making of Harry Potter del mundo, el primero abrió sus puertas en Londres en 2012 y ya 
+ha recibido más de 14 millones de visitantes. Aunque el japonés sigue el modelo 
+londinense, sus dimensiones son mayores y tiene nuevas salas. 
 
 ![Nuevo parque de Harry Potter en Japón.](https://fotos.etheriamagazine.com/2023/06/parque-making-of-Harry-Potter.jpg "Nuevo parque de Harry Potter en Japón.")
 
@@ -151,9 +152,7 @@ Kasugacho. Nerima ward. 179-0074 Tokyo
 **6\. ¿Qué más se puede hacer en Tokio si viajas con niños?** 
 
 Tokio es una ciudad donde está prohibido el aburrimiento, así que te animamos a leer 
-este artículo realizado tras visitar la capital japonesa: [10 planes originales en 
-Tokio: saca tu lado más 
-friki](https://etheriamagazine.com/2023/02/13/planes-originales-en-tokio/). Si vas a 
-estar en torno a 2 o 3 días, en este otro artículo te contamos las visitas básicas: [Descubre 
-la magia de Tokio en sólo tres 
-días](https://etheriamagazine.com/2021/07/28/que-hacer-3-dias-en-tokio-viajes-mujeres/).
+este artículo realizado tras visitar la capital japonesa: {{< reflink 
+path=posts/2023/02/planes-originales-en-tokio >}}. Si vas a estar en torno a 2 o 3 días, 
+en este otro artículo te contamos las visitas básicas: {{< reflink 
+path=posts/2021/07/que-hacer-3-dias-en-tokio-viajes-mujeres >}}.

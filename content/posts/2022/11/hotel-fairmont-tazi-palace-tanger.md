@@ -1,7 +1,7 @@
 ---
 title: "Fairmont Tazi Palace, un nuevo hotel en Tánger para una escapada de lujo"
 date: 2022-11-02
-coverImage: https://fotos.etheriamagazine.com/2022/11/Fairmont-Tazi-Palace-Junior-Suite-Terraza.jpg
+cover: https://fotos.etheriamagazine.com/2022/11/Fairmont-Tazi-Palace-Junior-Suite-Terraza.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-La ciudad de Tánger cuenta con un nuevo alojamiento para los que buscan dar un toque de 
-lujo a sus escapadas: el Fairmont Tazi Palace, un hotel de cinco estrellas que ocupa un 
-antiguo palacio y en el que se ha cuidado con mimo cada detalle. Una excelente opción si 
-estás planeando un fin de semana romántico para los próximos meses. 
+**La ciudad de Tánger cuenta con un nuevo alojamiento para los que buscan dar un toque 
+de lujo a sus escapadas: el Fairmont Tazi Palace, un hotel de cinco estrellas que ocupa 
+un antiguo palacio y en el que se ha cuidado con mimo cada detalle. Una excelente opción 
+si estás planeando un fin de semana romántico para los próximos meses.** 
 
 ![Vistas de Tánger desde el Fairmont Tazi Palace.](https://fotos.etheriamagazine.com/2022/11/Fairmont-Tazi-Palace-Junior-Suite-Terraza.jpg "Terraza con vistas en una de las habitaciones del Fairmont Tazi Palace.")
 
@@ -30,9 +30,8 @@ veinte del pasado siglo para ser la residencia del consejero del rey. Destacan s
 vistas, ya que ofrecen por una parte una bonita panorámica sobre la Ciudad Vieja de 
 Tánger y por otra los bosques que rodean la ciudad. 
 
-📌 **No te pierdas este artículo:** [Tánger, ¿qué tiene su medina que encandiló a 
-Matisse y a Carmina 
-Ordóñez?](https://etheriamagazine.com/2022/08/16/que-ver-tanger-con-amigas/) 
+📌 **No te pierdas este artículo:** {{< reflink 
+path=posts/2022/08/que-ver-tanger-con-amigas >}} 
 
 ![decoración con mármol en el hotel de lujo de Fairmont en Tánger](https://fotos.etheriamagazine.com/2022/11/fairmont-tazi-palace-pasillo.jpg "Uno de los pasillos del Fairmont Tazi Palace.")
 
@@ -127,8 +126,6 @@ cedidas por © Fairmont Hotels & Resort.
 
 📌 **También te puede interesar:** 
 
-[Marrakech con amigas, visitas para un fin de semana 
-intenso](https://etheriamagazine.com/2018/12/27/viaje-de-amigas-a-marrakech/) 
+{{< reflink path=posts/2018/12/viaje-de-amigas-a-marrakech >}} 
 
-[Guía esencial de Fez, la capital espiritual de 
-Marruecos](https://etheriamagazine.com/2021/03/18/guia-esencial-que-ver-y-hacer-en-fez/)
+{{< reflink path=posts/2021/03/guia-esencial-que-ver-y-hacer-en-fez >}}

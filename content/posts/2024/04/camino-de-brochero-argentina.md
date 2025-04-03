@@ -1,7 +1,7 @@
 ---
 title: "Descubre el nuevo Camino de Brochero, el hermano pequeño de la Ruta Jacobea"
 date: 2024-04-07
-coverImage: https://fotos.etheriamagazine.com/2024/03/camino-brochero.jpg
+cover: https://fotos.etheriamagazine.com/2024/03/camino-brochero.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -195,8 +195,6 @@ cultural y religiosa. Es un producto completo”.
 
 **También te puede interesar...** 
 
-[Camino de Santiago por la Ría de Muros-Noia, una aventura a toda 
-vela](https://etheriamagazine.com/2021/07/14/camino-de-santiago-ria-de-muros-noia-en-velero/). 
+{{< reflink path=posts/2021/07/camino-de-santiago-ria-de-muros-noia-en-velero >}}. 
 
-[Cinco películas del Camino de Santiago que no puedes perderte en este Año 
-Jubilar](https://etheriamagazine.com/2021/03/04/5-peliculas-del-camino-de-santiago/).
+{{< reflink path=posts/2021/03/5-peliculas-del-camino-de-santiago >}}.

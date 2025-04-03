@@ -1,7 +1,7 @@
 ---
 title: "Excursión a Tívoli: un plan perfecto desde Roma"
 date: 2022-05-06
-coverImage: https://fotos.etheriamagazine.com/2022/05/Tivoli-villa-dell-este.jpg
+cover: https://fotos.etheriamagazine.com/2022/05/Tivoli-villa-dell-este.jpg
 destino: 
   - Europa
 authors: 
@@ -275,11 +275,8 @@ pierdas la pequeña **heladería Cactus**, cerca de Villa d’Este.
 
 **También te puede interesar:** 
 
-[Roma, la escapada con amigas que 
-necesitas](https://etheriamagazine.com/2018/10/31/fin-de-semana-en-roma-con-amigas/) 
+{{< reflink path=posts/2018/10/fin-de-semana-en-roma-con-amigas >}} 
 
-[10 viajes para enamorarte de 
-Italia](https://etheriamagazine.com/2020/08/03/10-grandes-viajes-a-italia/) 
+{{< reflink path=posts/2020/08/10-grandes-viajes-a-italia >}} 
 
-[Ir de bares y otros planes para enamorarte de 
-Bolonia](https://etheriamagazine.com/2022/02/21/que-hacer-en-bolonia/)
+{{< reflink path=posts/2022/02/que-hacer-en-bolonia >}}

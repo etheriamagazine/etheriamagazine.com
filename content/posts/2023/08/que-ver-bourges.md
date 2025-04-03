@@ -1,7 +1,7 @@
 ---
 title: "Bourges será una de las Capitales Europeas de la Cultura 2028"
 date: 2023-08-11
-coverImage: https://fotos.etheriamagazine.com/2023/08/Bourges-pareja-francia.jpg
+cover: https://fotos.etheriamagazine.com/2023/08/Bourges-pareja-francia.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pedro Grifol
 ---
 
-Fue capital de Francia y será Capital Europea de la Cultura **en 2028** pero es una 
-ciudad poco conocida para la mayoría de los viajeros. Bourges se encuentra al sur de 
+**Fue capital de Francia y será Capital Europea de la Cultura **en 2028**** **pero es 
+una ciudad poco conocida para la mayoría de los viajeros. Bourges se encuentra al sur de 
 París, a menos de dos horas en tren, pero permanece al margen del turismo de masas. En 
 este artículo te daremos buenas razones para visitarla como destino único o como una 
-escapada desde la capital francesa. Te va a sorprender. 
+escapada desde la capital francesa. Te va a sorprender.** 
 
 ![Casas medievales de Bourges.](https://fotos.etheriamagazine.com/2023/08/Bourges-Casas-medievales.jpg "Casas medievales de Bourges. © Pedro Grifol")
 
@@ -155,11 +155,8 @@ través de varios recorridos interactivos. Y por si no lo sabías, también form
 
 También te puede interesar... 
 
-[Ruta en coche por el Valle del 
-Loira](https://etheriamagazine.com/2019/03/14/que-ver-ruta-en-coche-valle-del-loira/). 
+{{< reflink path=posts/2019/03/que-ver-ruta-en-coche-valle-del-loira >}}. 
 
-[Valle del Loira, cinco castillos y un increíble festival de 
-jardines](https://etheriamagazine.com/2021/08/09/valle-del-loira-entre-castillos-y-jardines/). 
+{{< reflink path=posts/2021/08/valle-del-loira-entre-castillos-y-jardines >}}. 
 
-[Apuntes para un “bon voyage” a la sorprendente Nantes y sus 
-viñedos](https://etheriamagazine.com/2023/07/31/nantes-y-excursiones-esenciales/).
+{{< reflink path=posts/2023/07/nantes-y-excursiones-esenciales >}}.

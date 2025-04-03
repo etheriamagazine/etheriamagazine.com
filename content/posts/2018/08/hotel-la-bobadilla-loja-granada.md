@@ -1,7 +1,7 @@
 ---
 title: "La Bobadilla, uno de los hoteles más bonitos del mundo"
 date: 2018-08-23
-coverImage: https://fotos.etheriamagazine.com/2018/08/La-Bobadilla-panoramica.jpg
+cover: https://fotos.etheriamagazine.com/2018/08/La-Bobadilla-panoramica.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-La Bobadilla, ubicado en Loja (Granada), es mucho más que un hotel, es un lugar apartado 
-de todo donde la palabra descanso toma la forma que tú quieras. Y, además, es bello sin 
-ser ostentoso, con esa belleza reconocida de paredes encaladas, maderas labradas, aires 
-moriscos y un mar de olivos como vistas. 
+**La Bobadilla, ubicado en Loja (Granada), es mucho más que un hotel, es un lugar 
+apartado de todo donde la palabra descanso toma la forma que tú quieras. Y, además, es 
+bello sin ser ostentoso, con esa belleza reconocida de paredes encaladas, maderas 
+labradas, aires moriscos y un mar de olivos como vistas.** 
 
 ![hall hotel La Bobadilla](https://fotos.etheriamagazine.com/2018/08/La-Bobadilla-hall.jpg "Hall de entrada de La Bobadilla, a Royal Hideaway Hotel.")
 
@@ -119,11 +119,8 @@ Barceló Hotels Group.
 
 📌 **También te puede interesar** 
 
-[Cortijos andaluces para dar la bienvenida a la 
-primavera](https://etheriamagazine.com/2021/03/16/cortijos-andaluces-viaje-amigas/) 
+{{< reflink path=posts/2021/03/cortijos-andaluces-viaje-amigas >}} 
 
-[Un fin de semana en Málaga con 
-amigas](https://etheriamagazine.com/2021/05/03/fin-de-semana-con-amigas-en-malaga/) 
+{{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}} 
 
-[10 hoteles de lujo para una escapada 
-romántica](https://etheriamagazine.com/2021/01/21/hoteles-de-lujo-escapada-romantica-2021/)
+{{< reflink path=posts/2021/01/hoteles-de-lujo-escapada-romantica-2021 >}}

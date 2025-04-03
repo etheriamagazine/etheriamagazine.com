@@ -1,7 +1,7 @@
 ---
 title: "La Rioja, la vendimia tiene alma de mujer"
 date: 2018-10-04
-coverImage: https://fotos.etheriamagazine.com/2018/10/1-bodega-bohedal-vino-flores.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/1-bodega-bohedal-vino-flores.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Carmen Bengoechea
 ---
 
-Octubre huele a mosto de uva en La Rioja. Desde Haro, en el oeste, hasta Alfaro, en el 
+**Octubre huele a mosto de uva en La Rioja. Desde Haro, en el oeste, hasta Alfaro, en el 
 este, toda la franja norte de la región vive en estas semanas de otoño una actividad 
 frenética. La vendimia, el momento más esperado del año, ya está aquí y todo el mundo se 
-afana en las labores propias. Las mujeres también. 
+afana en las labores propias. Las mujeres también.** 
 
 ![Viñedos en otoño de la Bodega Bohedal.](https://fotos.etheriamagazine.com/2018/10/2-la-rioja-vinedos-otono-bodega-bohedal.jpg "Viñedos en otoño de la (©) Bodega Bohedal.")
 
@@ -195,11 +195,9 @@ en La Rioja.
 
 **En La Rioja también te puede interesar...** 
 
-[Planes de invierno en La Rioja: mucho más que 
-vino](https://etheriamagazine.com/2019/12/13/que-ver-en-invierno-a-la-rioja-planes-con-amigas-o-en-familia/). 
+{{< reflink 
+path=posts/2019/12/que-ver-en-invierno-a-la-rioja-planes-con-amigas-o-en-familia >}}. 
 
-[Escapada al valle secreto de Ocón, un pellizco de La Toscana en La 
-Rioja](https://etheriamagazine.com/2020/10/26/viaje-la-rioja-vendimia-valle-de-ocon/). 
+{{< reflink path=posts/2020/10/viaje-la-rioja-vendimia-valle-de-ocon >}}. 
 
-[Camino de Santiago en La Rioja, un viaje que deja buen sabor de 
-boca](https://etheriamagazine.com/2019/05/01/etapas-que-ver-camino-de-santiago-en-la-rioja/).
+{{< reflink path=posts/2019/05/etapas-que-ver-camino-de-santiago-en-la-rioja >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Qué visitar en la ruta de César Manrique en Lanzarote"
 date: 2019-09-10
-coverImage: https://fotos.etheriamagazine.com/2019/09/Casa-Museo-Cesar-Manrique-Haria-1.jpg
+cover: https://fotos.etheriamagazine.com/2019/09/Casa-Museo-Cesar-Manrique-Haria-1.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-La ruta de César Manrique es un itinerario imprescindible en un viaje a Lanzarote. En 
+**La ruta de César Manrique es un itinerario imprescindible en un viaje a Lanzarote. En 
 este artículo te hablamos de este apasionante artista y del legado que dejó en, según 
 sus propias palabras, “el lugar más bello de la Tierra”. ¿Estás preparada para comprobar 
-que no exageraba? 
+que no exageraba?** 
 
 ![César Manrique posa con una de sus obras.](https://fotos.etheriamagazine.com/2019/09/Cesar-Manrique-lanzarote.jpg "César Manrique posa con una de sus obras.")
 
@@ -175,8 +175,6 @@ es hoy día una figura de la que hay mucho que aprender.
 
 **También te puede interesar...** 
 
-[Guía de Lanzarote: 15 lugares imprescindibles para perderte por la 
-isla](https://etheriamagazine.com/2023/02/08/que-ver-lanzarote/). 
+{{< reflink path=posts/2023/02/que-ver-lanzarote >}}. 
 
-[7 planes esenciales en Lanzarote con 
-amigas](https://etheriamagazine.com/2020/06/11/viajar-sola-amigas-imprescindible-lanzarote/).
+{{< reflink path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}}.

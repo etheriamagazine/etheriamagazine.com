@@ -1,7 +1,7 @@
 ---
 title: "The Madrid EDITION, un hotel de lujo lleno de estilo"
 date: 2023-03-27
-coverImage: https://fotos.etheriamagazine.com/2023/03/hotel-madrid-edition-sala.jpg
+cover: https://fotos.etheriamagazine.com/2023/03/hotel-madrid-edition-sala.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-La oferta hotelera de lujo de Madrid recibió con los brazos abiertos el pasado año a The 
-Madrid EDITION, un hotel de cinco estrellas en el corazón histórico de la ciudad. Su 
+**La oferta hotelera de lujo de Madrid recibió con los brazos abiertos el pasado año a 
+The Madrid EDITION, un hotel de cinco estrellas en el corazón histórico de la ciudad. Su 
 gusto por el diseño más rompedor, su apuesta por la buena gastronomía y su vocación de 
 ofrecer un remanso de paz en medio del bullicio de la ciudad son sus apuestas para 
-convertirse en el referente del lujo más exquisito de la capital. 
+convertirse en el referente del lujo más exquisito de la capital.** 
 
 ![Entrada al hotel The Madrid EDITION.](https://fotos.etheriamagazine.com/2023/03/hotel-madrid-edition-sala.jpg "Entrada al hotel The Madrid EDITION.")
 
@@ -126,11 +126,8 @@ Plaza de Celenque, 2. Madrid. Tel. +34 91 954 54 20
 
 📌 **También te puede interesar:** 
 
-[10 tabernas históricas de Madrid donde tomar el 
-vermú](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/) 
+{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}} 
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/) 
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}} 
 
-[10 planes originales en Madrid para hacer con 
-amigas](https://etheriamagazine.com/2020/08/27/10-planes-originales-en-madrid-con-amigas/)
+{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}

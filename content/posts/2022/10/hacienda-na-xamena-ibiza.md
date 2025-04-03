@@ -1,7 +1,7 @@
 ---
 title: "Hacienda Na Xamena o cómo encontrar la paz en Ibiza"
 date: 2022-10-07
-coverImage: https://fotos.etheriamagazine.com/2022/10/Hacienda-Na-Xamena-piscina.jpg
+cover: https://fotos.etheriamagazine.com/2022/10/Hacienda-Na-Xamena-piscina.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-Tenemos asociada a la isla pitusa la imagen de lugar de moda lleno de gente donde pasar 
-unas vacaciones de poco descanso por su gran oferta de ocio. Pero hay lugares en Ibiza 
-como el hotel de cinco estrellas Hacienda Na Xamena que desvelan una isla donde la paz y 
-el contacto con la naturaleza serán tus compañeros de viaje. 
+**Tenemos asociada a la isla pitusa la imagen de lugar de moda lleno de gente donde 
+pasar unas vacaciones de poco descanso por su gran oferta de ocio. Pero hay lugares en 
+Ibiza como el hotel de cinco estrellas Hacienda Na Xamena que desvelan una isla donde la 
+paz y el contacto con la naturaleza serán tus compañeros de viaje.** 
 
 ![Acantilado de la Hacienda Na Xamena](https://fotos.etheriamagazine.com/2022/10/Hacienda-Na-Xamena-mar.jpg "Hacienda Na Xamena.")
 
@@ -116,8 +116,7 @@ Fotografías cedidas por Hacienda Na Xamena.
 
 ## También te puede interesar:
 
-[20 restaurantes románticos de Ibiza para ir en 
-pareja](https://etheriamagazine.com/2020/02/14/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja/) 
+{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
+>}} 
 
-[Ibiza en invierno también merece una 
-escapada](https://etheriamagazine.com/2021/11/05/planes-viaje-a-ibiza-en-invierno/)
+{{< reflink path=posts/2021/11/planes-viaje-a-ibiza-en-invierno >}}

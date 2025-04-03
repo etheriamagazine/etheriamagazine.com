@@ -1,7 +1,7 @@
 ---
 title: "El Pabellón de los Hexágonos, la visita guiada en Madrid con plazas libres"
 date: 2024-03-25
-coverImage: https://fotos.etheriamagazine.com/2024/03/pabellon-hexagonos-madrid-portada.jpg
+cover: https://fotos.etheriamagazine.com/2024/03/pabellon-hexagonos-madrid-portada.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -139,11 +139,8 @@ Os pedirán DNI al llegar para comprobar que estáis en la lista.
 
 **También os puede interesar...** 
 
-[5 excursiones básicas con niños en 
-Madrid](https://etheriamagazine.com/2023/03/24/excursiones-ninos-en-madrid/) 
+{{< reflink path=posts/2023/03/excursiones-ninos-en-madrid >}} 
 
-[Conoce el Museo Naval de Madrid y sus 10 piezas 
-imprescindibles](https://etheriamagazine.com/2021/04/30/que-ver-en-museo-naval-de-madrid/). 
+{{< reflink path=posts/2021/04/que-ver-en-museo-naval-de-madrid >}}. 
 
-[10 exposiciones para visitar en Madrid esta primavera de 
-2024](https://etheriamagazine.com/2024/03/18/exposiciones-primavera-madrid-2024/).
+{{< reflink path=posts/2024/03/exposiciones-primavera-madrid-2024 >}}.

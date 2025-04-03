@@ -1,7 +1,7 @@
 ---
 title: "La isla de Gozo, la alternativa tranquila de Malta"
 date: 2021-04-29
-coverImage: https://fotos.etheriamagazine.com/2018/05/gozo-mujeres-viaje.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/gozo-mujeres-viaje.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -180,11 +180,8 @@ Más información en [Turismo de Gozo.](https://www.visitgozo.com/)
 
 **También en Etheria Magazine** 
 
-[Ruta en coche con amigas a 
-Cerdeña](https://etheriamagazine.com/2018/09/14/viaje-chicas-isla-cerdena-italia/). 
+{{< reflink path=posts/2018/09/viaje-chicas-isla-cerdena-italia >}}. 
 
-[Viajes por Europa: Sicilia, entre pantocrátores y 
-bikinis](https://etheriamagazine.com/2018/08/07/sicilia-pantocratores-y-bikinis/). 
+{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}}. 
 
-[10 playas de Europa donde querrás perderte este 
-verano](https://etheriamagazine.com/2019/04/15/10-playas-secretas-de-europa/).
+{{< reflink path=posts/2019/04/10-playas-secretas-de-europa >}}.

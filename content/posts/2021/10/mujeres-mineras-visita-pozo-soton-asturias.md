@@ -1,7 +1,7 @@
 ---
 title: "¿Qué papel jugaron las mujeres mineras asturianas? Bajamos al Pozo Sotón para comprobarlo"
 date: 2021-10-20
-coverImage: https://fotos.etheriamagazine.com/2021/10/galeria-mina-asturias.jpg
+cover: https://fotos.etheriamagazine.com/2021/10/galeria-mina-asturias.jpg
 categories: 
   - ocio
 destino: 
@@ -47,9 +47,9 @@ Minería](http://www.mumi.es/), ubicado en un falso castillete.
 
 Antiguos economatos, sanatorios, viviendas que hospedaban a ingenieros solteros y una 
 central térmica cerrada asoman por un frondoso paisaje. La actividad de la **fábrica de 
-Bayer** sirve de revulsivo para la economía de la zona, aunque el [turismo 
-industrial](https://etheriamagazine.com/2019/12/18/planes-familiares-en-barcelona-y-tarragona-turismo-industrial/) 
-es otra de sus grandes esperanzas. 
+Bayer** sirve de revulsivo para la economía de la zona, aunque el {{< reflink 
+path=posts/2019/12/planes-familiares-en-barcelona-y-tarragona-turismo-industrial >}} es 
+otra de sus grandes esperanzas. 
 
 > “El Patrimonio industrial tiene que reivindicarse. Si nadie cuestiona que la catedral de 
 > Oviedo debe conservarse, esto tampoco debería", reclama Mónica García, Asesora 
@@ -200,18 +200,17 @@ de elementos reales y virtuales. Las temáticas van desde la vivienda obrera, el
 economato o el botiquín, hasta el papel de la mujer en el mundo de la minería. 
 
 Si te animas a vivir esta experiencia, consulta todas las modalidades de visitas en el 
-**Pozo Sotón** –la interior larga, corta, exterior, el CEMM– y selecciona en esta [web](https://www.pozosoton.es/reservar-visita-mina/) 
-la que más se ajuste a tus preferencias. 
+**Pozo Sotón** –la interior larga, corta, exterior, el CEMM– y selecciona en esta 
+[web](https://www.pozosoton.es/reservar-visita-mina/) la que más se ajuste a tus 
+preferencias. 
 
 ![visita pozo soton asturias](https://fotos.etheriamagazine.com/2021/10/exterior-hunosa-minas-1.jpg "Entorno del Pozo Sotón. © Kelu Robles")
 
 ### También te puede interesar...
 
-[8 planazos para descubrir Oviedo con 
-amigas](https://etheriamagazine.com/2021/10/05/planes-imprescindibles-en-oviedo-con-amigas/). 
+{{< reflink path=posts/2021/10/planes-imprescindibles-en-oviedo-con-amigas >}}. 
 
-[Las Ubiñas, vive nueve experiencias en territorio del oso 
-pardo](https://etheriamagazine.com/2021/07/21/que-hacer-en-parque-las-ubinas-la-mesa/). 
+{{< reflink path=posts/2021/07/que-hacer-en-parque-las-ubinas-la-mesa >}}. 
 
-[Gijón: una gastroescapada que te dejará muy buen sabor de 
-boca](https://etheriamagazine.com/2021/01/25/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias/).
+{{< reflink path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias 
+>}}.

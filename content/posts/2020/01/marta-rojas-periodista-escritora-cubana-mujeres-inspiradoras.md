@@ -1,7 +1,7 @@
 ---
 title: "Marta Rojas, de joven cronista a fecunda escritora"
 date: 2020-01-13
-coverImage: https://fotos.etheriamagazine.com/2020/01/cuba-marta-rojas-libro.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/cuba-marta-rojas-libro.jpg
 categories: 
   - historias
   - mujeres-top
@@ -11,10 +11,10 @@ authors:
   - Manena Munar
 ---
 
-La reconocida cronista y escritora cubana Marta Rojas recibe a nuestra compañera Manena 
-Munar en su casa para contarnos su trayectoria profesional y compartir recuerdos. No 
-sólo ha cubierto guerras y conflictos políticos sino que sus libros son base de estudio 
-para muchos historiadores. 
+**La reconocida cronista y escritora cubana Marta Rojas recibe a nuestra compañera 
+Manena Munar en su casa para contarnos su trayectoria profesional y compartir recuerdos. 
+No sólo ha cubierto guerras y conflictos políticos sino que sus libros son base de 
+estudio para muchos historiadores.** 
 
 ![Marta Rojas en su casa.](https://fotos.etheriamagazine.com/2020/01/cuba-marta-rojas-libro.jpg "Marta Rojas en su casa. © Manena Munar")
 
@@ -211,12 +211,12 @@ que se desprende el orgullo de un recorrido pleno y consecuente.
 
 📌 **También te puede interesar:** 
 
-[Prepara tu viaje a Cuba: libros y películas 
-recomendados](https://etheriamagazine.com/2020/05/08/prepara-tu-viaje-a-cuba-libros-peliculas/) 
+{{< reflink path=posts/2020/05/prepara-tu-viaje-a-cuba-libros-peliculas >}} 
 
-[‘Una casa en Amargura’, la esclavitud doméstica en Cuba contada por Elisa Vázquez de 
-Gey](https://etheriamagazine.com/2020/04/30/elisa-vazquez-de-gey-autora-de-una-casa-en-amargura-nos-lleva-a-la-habana/) 
+{{< reflink 
+path=posts/2020/04/elisa-vazquez-de-gey-autora-de-una-casa-en-amargura-nos-lleva-a-la-habana 
+>}} 
 
-[Viaja al corazón de Cuba: Villa Clara 
-y](https://etheriamagazine.com/2022/01/03/viaje-cuba-villa-clara-y-sancti-spiritus/) [Sancti](https://etheriamagazine.com/2022/01/03/viaje-cuba-villa-clara-y-sancti-spiritus/) 
-[Spíritus](https://etheriamagazine.com/2022/01/03/viaje-cuba-villa-clara-y-sancti-spiritus/)
+{{< reflink path=posts/2022/01/viaje-cuba-villa-clara-y-sancti-spiritus >}} {{< reflink 
+path=posts/2022/01/viaje-cuba-villa-clara-y-sancti-spiritus >}} {{< reflink 
+path=posts/2022/01/viaje-cuba-villa-clara-y-sancti-spiritus >}}

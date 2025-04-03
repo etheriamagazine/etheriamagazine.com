@@ -1,7 +1,7 @@
 ---
 title: "Itinerario de 6 días para hacer la Ruta del románico en Vall de Boí"
 date: 2020-02-28
-coverImage: https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-Barruera.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-Barruera.jpg
 categories: 
   - viajar-en-familia
   - ocio
@@ -177,11 +177,10 @@ todas las experiencias vividas en familia.
 
 **También en Etheria Magazine** 
 
-[Pueblos y rutas imprescindibles en el Valle de Arán 
-(Lleida)](https://etheriamagazine.com/2020/08/31/pueblos-y-rutas-imprescindibles-en-valle-aran/). 
+{{< reflink path=posts/2020/08/pueblos-y-rutas-imprescindibles-en-valle-aran >}}. 
 
-[Consejos prácticos para visitar el desfiladero o congost de Mont-rebei 
-(Lleida)](https://etheriamagazine.com/2020/05/13/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida/) 
+{{< reflink 
+path=posts/2020/05/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida 
+>}} 
 
-[10 rincones de Lleida que te 
-sorprenderán](https://etheriamagazine.com/2018/10/10/10-rincones-de-lleida-que-te-sorprenderan/).
+{{< reflink path=posts/2018/10/10-rincones-de-lleida-que-te-sorprenderan >}}.

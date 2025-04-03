@@ -1,7 +1,7 @@
 ---
 title: "Armenia, descubre 10 pistas en el Jardín del Edén"
 date: 2019-05-02
-coverImage: https://fotos.etheriamagazine.com/2019/04/viaje-armenia-templo-garni-e1555859873292.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/viaje-armenia-templo-garni-e1555859873292.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Si buscas el paraíso sigue estas indicaciones por la geografía de Armenia. Te llevarán 
+**Si buscas el paraíso sigue estas indicaciones por la geografía de Armenia. Te llevarán 
 al borde imaginario entre Europa y Asia donde afirman que existió el jardín divino del 
 Edén. En este bello panorama situado más allá de las tierras cultivadas verás las raíces 
 de una de las civilizaciones más antiguas del mundo. Te damos 10 pistas para que si 
-viajas sola o por libre sepas lo que no debes perderte. 
+viajas sola o por libre sepas lo que no debes perderte.** 
 
 ![Catedral de Zvartnots, en Armenia](https://fotos.etheriamagazine.com/2019/04/viaje-armenia-Catedral-Zvartnots-e1555859798285.jpg "Catedral de Zvartnots.")
 
@@ -181,11 +181,9 @@ visitar en una de las esquinas del conjunto monástico.
 
 ✅ **Si te interesa Armenia, también te gustará...** 
 
-[Descubre las 10 sonrisas persas de 
-Irán](https://etheriamagazine.com/2019/11/06/que-ver-iran-mujer-viajar-sola-con-amigas/). 
+{{< reflink path=posts/2019/11/que-ver-iran-mujer-viajar-sola-con-amigas >}}. 
 
-[Descubre la belleza de Georgia en 10 visitas 
-increíbles](https://etheriamagazine.com/2019/02/13/que-ver-georgia/). 
+{{< reflink path=posts/2019/02/que-ver-georgia >}}. 
 
-[Uzbekistán, el país de las mil y una 
-noches](https://etheriamagazine.com/2019/11/28/10-razones-para-visitar-uzbekistan-que-ver-en-ruta-de-la-seda/).
+{{< reflink 
+path=posts/2019/11/10-razones-para-visitar-uzbekistan-que-ver-en-ruta-de-la-seda >}}.

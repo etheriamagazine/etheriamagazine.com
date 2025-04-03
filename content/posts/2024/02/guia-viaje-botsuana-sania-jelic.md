@@ -1,7 +1,7 @@
 ---
 title: "Guía de Sania Jelic para viajar a Botsuana"
 date: 2024-02-22
-coverImage: https://fotos.etheriamagazine.com/2024/02/sania-botsuana-mujeres.jpg
+cover: https://fotos.etheriamagazine.com/2024/02/sania-botsuana-mujeres.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -66,29 +66,29 @@ preferencias para el safari.
 
 ## Parques que hay que visitar en Botsuana
 
-**• Parque Nacional de Chobe**. Tiene 11.000 kilómetros cuadrados y la concentración más 
+**- Parque Nacional de Chobe**. Tiene 11.000 kilómetros cuadrados y la concentración más 
 grande de elefantes del mundo durante todo el año: casi 130.000 de población permanente 
 que puede llegar a 300.000 en época de sequía. 
 
-**• Delta del Okavango.** Patrimonio de la Humanidad por la Unesco, es un delta interior 
+**- Delta del Okavango.** Patrimonio de la Humanidad por la Unesco, es un delta interior 
 en el que el río no desemboca en un mar, sino que se embalsa y evapora. Alberga una 
 impresionante concentración de aves (unas 450 especies) todo el año. Además, se pueden 
 ver hipopótamos, antílopes y otros animales. Incluye el Parque Nacional Moremi, que 
 guarda una población estable de perros salvajes, una especie en peligro de extinción. 
 
-**• Reserva Natural Mokolodi.** Esta reserva privada está situada a diez kilómetros de 
+**- Reserva Natural Mokolodi.** Esta reserva privada está situada a diez kilómetros de 
 la capital, Gaborone, y ocupa treinta kilómetros cuadrados. Cuenta con alojamientos y 
 guías que organizan salidas para ver su variada fauna. 
 
-**• Makgadigadi y el salar Nxai.** Zona conocida por los árboles baobab milenarios. 
+**- Makgadigadi y el salar Nxai.** Zona conocida por los árboles baobab milenarios. 
 
 ![Baobab en Botsuana.](https://fotos.etheriamagazine.com/2024/02/sania-botsuana-baobab.jpg "Baobab en Botsuana. © Sania Jelic.")
 
-**• Central Kalahari.** Fue reconocido como zona protegida en 1961 y tiene 52.800 km2 
+**- Central Kalahari.** Fue reconocido como zona protegida en 1961 y tiene 52.800 km2 
 (más grande que Países Bajos). Es la segunda reserva de fauna salvaje más grande del 
 mundo. 
 
-**• Kgalagadi Transfrontier**, un parque compartido con Sudáfrica. Está formado por 
+**- Kgalagadi Transfrontier**, un parque compartido con Sudáfrica. Está formado por 
 dunas con escasa vegetación y se pueden ver antílopes, leones, leopardos… 
 
 ## Opciones para organizar un viaje a Botsuana
@@ -98,34 +98,34 @@ aterrizaje en varios puntos del país para el uso de avionetas. En cuanto a las
 carreteras, dependen de las lluvias y no están señalizadas. Con estas premisas, existen 
 varias opciones para organizar un viaje a Botsuana: 
 
-**• En avioneta.** Volar a Maun y, desde ahí, visitar varias zonas del delta del 
+**- En avioneta.** Volar a Maun y, desde ahí, visitar varias zonas del delta del 
 Okavango. Esta opción combina el vuelo en avionetas (unos 150$ por tramo), estancia (que 
 puede ser en alojamientos de diferentes precios) y safaris (llamados _game drives_) 
 desde los _lodges_. Es una opción relativamente cómoda y segura tanto para viajes en 
 pareja como para viajeras solas. 
 
-**• Ruta en safari.** Se hacen desplazamientos por tierra a lo largo de una ruta 
+**- Ruta en safari.** Se hacen desplazamientos por tierra a lo largo de una ruta 
 definida. El campamento se monta (y desmonta) durante el camino y se pueden encontrar 
 este tipo de viajes de diferentes calidades y precios. Es una opción interesante para 
 viajar por la inmersión en el entorno y el contacto directo con la flora y fauna. 
 Además, es relativamente seguro, aunque los campamentos son en zonas sin vallado y hay 
-que respetar siempre las directrices que indique la empresa organizadora. La empresa [Africa 
-Pride Botswana](https://africapridebotswana.com/), gestionada por Edurne Martinez y su 
-marido Guy Symons, lleva haciendo estos safaris desde hace treinta años. 
+que respetar siempre las directrices que indique la empresa organizadora. La empresa 
+[Africa Pride Botswana](https://africapridebotswana.com/), gestionada por Edurne 
+Martinez y su marido Guy Symons, lleva haciendo estos safaris desde hace treinta años. 
 
-**• Tour por el sur de África**. Puede visitar varios países en el mismo viaje 
+**- Tour por el sur de África**. Puede visitar varios países en el mismo viaje 
 incluyendo Botsuana con sus principales puntos de interés. 
 
 ![Viaje en grupo a Botsuana.](https://fotos.etheriamagazine.com/2024/02/botsuana-sania-viaje-grupo.jpg "Viaje en grupo a Botsuana. © Sania Jelic.")
 
-**• Visita del Parque Nacional de Chobe.** Si sólo se tienen unos días se puede optar 
+**- Visita del Parque Nacional de Chobe.** Si sólo se tienen unos días se puede optar 
 por visitar solamente el Parque Nacional de Chobe. Para ello hay que volar a Kasane 
 (Victoria Falls, Livingstone) y alojarse allí o en el mismo parque. Uno de los mejores 
 lugares para hacerlo es el **Chobe Safari Lodge**. Para ajustar el presupuesto se puede 
 hacer un tour de 3 días/2 noches de acampada dentro del parque. Yo lo hice con la 
 empresa [Kalahari Tours](https://kalaharichobe.com/) y la experiencia fue buena. 
 
-**• En vehículo todoterreno.** Sólo apto para aquellos que tengan un nivel alto en la 
+**- En vehículo todoterreno.** Sólo apto para aquellos que tengan un nivel alto en la 
 conducción en condiciones extremas. Hay distintos foros que facilitan información sobre 
 este tipo de viajes. 
 
@@ -168,8 +168,6 @@ disponible en La Casa del Libro.
 
 **También te puede interesar:** 
 
-[Guía de viaje de Sania Jelic para recorrer 
-Namibia](https://etheriamagazine.com/2024/02/09/guia-namibia-sania-jelic/) 
+{{< reflink path=posts/2024/02/guia-namibia-sania-jelic >}} 
 
-[Consejos de Sania Jelic para viajar sola por África del sur y del 
-este](https://etheriamagazine.com/2024/01/31/consejos-viajar-sola-por-africa/)
+{{< reflink path=posts/2024/01/consejos-viajar-sola-por-africa >}}

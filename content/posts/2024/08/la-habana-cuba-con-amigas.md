@@ -1,7 +1,7 @@
 ---
 title: "La Habana, cómo disfrutar con tus amigas de la ciudad más excesiva de Cuba"
 date: 2024-08-30
-coverImage: https://fotos.etheriamagazine.com/2024/08/la-habana-coches-historicos.jpg
+cover: https://fotos.etheriamagazine.com/2024/08/la-habana-coches-historicos.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -97,7 +97,8 @@ curiosidades como que las calles y plazas de La Habana tienen dos nombres, el of
 
 Se concentran en lugares como el Parque Central donde puedes acudir para elegir el que 
 más te guste y negociar el precio (unos 30 euros por hora de paseo). Otra opción es 
-contratar previamente la excursión en plataformas como [Civitatis](https://www.civitatis.com/es/la-habana/paseo-coche-clasico-descapotable/?aid=10211). 
+contratar previamente la excursión en plataformas como 
+[Civitatis](https://www.civitatis.com/es/la-habana/paseo-coche-clasico-descapotable/?aid=10211). 
 
 ## Ver un espectáculo de música en directo
 
@@ -117,7 +118,8 @@ creces. Una buena opción es el tributo a **Buena Vista Social Club** que se rea
 dos sedes: el Centro Cultural Rosalía de Castro, en el centro de La Habana Vieja, y en 
 Legendarios del Guajirito. Ambos cuentan con músicos y cantantes excepcionales y puedes 
 reservar las entradas a través de la recepción del hotel. Otras opciones, que pueden 
-reservarse con antelación en Civitatis, son los míticos [Tropicana](https://www.civitatis.com/es/la-habana/entrada-cabaret-tropicana/?aid=10211) 
+reservarse con antelación en Civitatis, son los míticos 
+[Tropicana](https://www.civitatis.com/es/la-habana/entrada-cabaret-tropicana/?aid=10211) 
 y el [Cabaret 
 Parisien](https://www.civitatis.com/es/la-habana/tour-nocturno-cabaret-parisien/?aid=10211) 
 (en el hotel Nacional), con espectáculos con vistosas coreografías. 
@@ -225,5 +227,4 @@ crédito.
 
 **Para leer antes de viajar a La Habana:** 
 
-[Qué llevar en la maleta en un viaje a 
-Cuba](https://etheriamagazine.com/2024/02/28/que-llevar-maleta-viaje-a-cuba/)
+{{< reflink path=posts/2024/02/que-llevar-maleta-viaje-a-cuba >}}

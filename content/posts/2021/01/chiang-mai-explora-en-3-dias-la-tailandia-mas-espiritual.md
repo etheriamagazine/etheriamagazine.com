@@ -1,7 +1,7 @@
 ---
 title: "Chiang Mai en 3 días, una guía esencial para explorar el norte de Tailandia"
 date: 2021-01-08
-coverImage: https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Phra-Singh-tejados.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Phra-Singh-tejados.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Chiang Mai, con sus cientos de templos, es uno de los destinos espirituales más 
+**Chiang Mai, con sus cientos de templos, es uno de los destinos espirituales más 
 apasionantes y completos de Tailandia. En este artículo descubrirás cuáles son las 
 visitas y actividades imprescindibles en la antigua capital del Reino de Lanna. ¿Estás 
-preparada para vivir una experiencia inolvidable en el país de la sonrisa? 
+preparada para vivir una experiencia inolvidable en el país de la sonrisa?** 
 
 ![Wat Phra Singh de Chiang Mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Phra-Singh-templos.jpg "Wat Phra Singh, en Chiang Mai. © Etheria Magazine")
 
@@ -24,10 +24,9 @@ desenfrenadas estas recomendaciones en el **norte del país** no te ayudarán mu
 no quiere decir que debas dejar de leer, ya que te mostraremos la atractiva faceta 
 cultural tailandesa. Chiang Mai puede convertirse en el destino principal dentro de tu 
 **viaje a Tailandia**, o bien formar parte de un combinado que incluya **Bangkok** 
-(consulta esta guía de [Bangkok en clave 
-foodie](https://etheriamagazine.com/2019/10/23/viaje-con-amigas-tailandia-donde-comer-bangkok/)) 
-y las playas del sur ([ruta en 
-Phuket](https://etheriamagazine.com/2019/06/26/que-ver-en-phuket-tailandia-sola-o-con-amigas/), 
+(consulta esta guía de {{< reflink 
+path=posts/2019/10/viaje-con-amigas-tailandia-donde-comer-bangkok >}}) y las playas del 
+sur ({{< reflink path=posts/2019/06/que-ver-en-phuket-tailandia-sola-o-con-amigas >}}, 
 Krabi o Ko Samui). 
 
 Para que te ubiques, la provincia de Chiang Mai se sitúa al norte de Tailandia, en la 
@@ -219,8 +218,8 @@ principales son los de Wat Phra Si Mahathat, Wat Chang Lom y Wat Chedi Jet Taew;
 
 Hay varias compañías que te llevarán hasta Chiang Mai, en nuestro caso fuimos con 
 **Qatar Airways** vía Doha, donde pasamos una noche antes de seguir hasta el destino 
-final. (Puedes consultar "[Qué ver en una escala de 1 día en 
-Doha](https://etheriamagazine.com/2019/09/19/que-ver-en-una-escala-corta-de-un-dia-en-doha-qatar/)") 
+final. (Puedes consultar "{{< reflink 
+path=posts/2019/09/que-ver-en-una-escala-corta-de-un-dia-en-doha-qatar >}}") 
 
 ### Dónde dormir
 
@@ -246,11 +245,8 @@ torno a 550 €. Duración: unas 6 horas.
 
 ### También te puede interesar...
 
-[Qué hacer 3 días en 
-Bangkok](https://etheriamagazine.com/2018/06/28/tres-dias-en-bangkok/). 
+{{< reflink path=posts/2021/05/tres-dias-en-bangkok-que-hacer >}}. 
 
-[10 imágenes para enamorarse del mar de 
-Andamán](https://etheriamagazine.com/2018/06/16/viaje-parejas-mar-de-andaman/). 
+{{< reflink path=posts/2018/06/viaje-parejas-mar-de-andaman >}}. 
 
-[Qué llevar en la maleta en un viaje a 
-Tailandia](https://etheriamagazine.com/2020/01/02/que-llevar-en-maleta-viaje-tailandia/).
+{{< reflink path=posts/2020/01/que-llevar-en-maleta-viaje-tailandia >}}.

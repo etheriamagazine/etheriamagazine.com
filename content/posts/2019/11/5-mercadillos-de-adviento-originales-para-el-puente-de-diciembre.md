@@ -1,17 +1,17 @@
 ---
 title: "5 Mercadillos de Adviento muy originales para el puente de diciembre"
 date: 2019-11-20
-coverImage: https://fotos.etheriamagazine.com/2019/11/mercadillo-acueducto-Adviento-Selva-Negra.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/mercadillo-acueducto-Adviento-Selva-Negra.jpg
 destino: 
   - Europa
 authors: 
   - Redacción Etheria
 ---
 
-Puede que pienses que en mercadillos navideños... 'visto uno vistos todos'. Queremos que 
-te lo replantees al conocer las propuestas mercadillos originales de Navidad que te 
+**Puede que pienses que en mercadillos navideños... 'visto uno vistos todos'. Queremos 
+que te lo replantees al conocer las propuestas mercadillos originales de Navidad que te 
 sugerimos en Alemania, Chequia, Austria, Polonia y Suiza. Los hay debajo de un puente, 
-con música electrónica, con árboles que cantan, alrededor de un lago... 
+con música electrónica, con árboles que cantan, alrededor de un lago...** 
 
 ![Mercadillo Selva Negra bajo un puente](https://fotos.etheriamagazine.com/2019/11/mercadillo-acueducto-Adviento-Selva-Negra.jpg "Mercadillo del Ravennaschlucht (Alta Selva Negra, Alemania).")
 
@@ -124,8 +124,8 @@ Y, ahora, ¿sigues pensando que todos los mercadillos son iguales?
 
 📌 **También te puede interesar:** 
 
-[6 lugares para disfrutar de los mercados de Navidad más 
-tradicionales](https://etheriamagazine.com/2022/10/21/mercados-de-navidad-europa/) 
+{{< reflink path=posts/2022/10/mercados-de-navidad-europa >}} 
 
-[10 ciudades con mercadillos navideños para contagiarse del espíritu de la 
-Navidad](https://etheriamagazine.com/2021/10/14/10-ciudades-con-mercadillos-para-contagiarse-del-espiritu-navideno/)
+{{< reflink 
+path=posts/2021/10/10-ciudades-con-mercadillos-para-contagiarse-del-espiritu-navideno 
+>}}

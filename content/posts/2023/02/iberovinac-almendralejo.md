@@ -1,17 +1,17 @@
 ---
 title: "Iberovinac 2023, la feria de los amantes del vino, el aceite y la aceituna"
 date: 2023-02-15
-coverImage: https://fotos.etheriamagazine.com/2023/02/iberovincac-visita-bodega.jpg
+cover: https://fotos.etheriamagazine.com/2023/02/iberovincac-visita-bodega.jpg
 destino: 
   - España
 authors: 
   - Redacción Etheria
 ---
 
-Los amantes del vino, el aceite y la aceituna tienen una cita en Iberovinac, la Feria 
+**Los amantes del vino, el aceite y la aceituna tienen una cita en Iberovinac, la Feria 
 gastronómica de Almendralejo. Reserva un hueco en tu agenda a finales de marzo para 
 acudir a esta vigésimo segunda edición que contará con más de 60 expositores de 
-Extremadura, Galicia y Portugal. Profesionales y público general son bienvenidos. 
+Extremadura, Galicia y Portugal. Profesionales y público general son bienvenidos.** 
 
 ![Las catas de vino son una de las actividades de Iberovinac.](https://fotos.etheriamagazine.com/2023/02/Iberovinac-cata-vino.jpg "Las catas de vino son una de las actividades de Iberovinac.")
 
@@ -93,11 +93,8 @@ sus bodegas y la **red de miradores de la Ruta del vino Ribera del Guadiana**.
 
 ✅ **También te interesa leer...** 
 
-[5 pueblos de Badajoz que no conoces y te 
-sorprenderán](https://etheriamagazine.com/2022/05/03/ruta-pueblos-bonitos-badajoz/). 
+{{< reflink path=posts/2022/05/ruta-pueblos-bonitos-badajoz >}}. 
 
-[6 viajes a Extremadura para todo el 
-año](https://etheriamagazine.com/2022/06/27/viajes-a-extremadura/). 
+{{< reflink path=posts/2022/06/viajes-a-extremadura >}}. 
 
-[Elige uno de estos 10 motivos para viajar a La Siberia 
-extremeña](https://etheriamagazine.com/2021/09/26/10-motivos-para-viajar-a-la-siberia-extremena/).
+{{< reflink path=posts/2021/09/10-motivos-para-viajar-a-la-siberia-extremena >}}.

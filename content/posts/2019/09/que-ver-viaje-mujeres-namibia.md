@@ -1,7 +1,7 @@
 ---
 title: "Namibia, un viaje para mujeres aventureras"
 date: 2019-09-27
-coverImage: https://fotos.etheriamagazine.com/2019/09/acacias-Deadvlei-7.jpg
+cover: https://fotos.etheriamagazine.com/2019/09/acacias-Deadvlei-7.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -154,17 +154,16 @@ y se adentra hasta 140 kilómetros sobre las arenas y dunas. La provoca la fría
 **corriente de Benguela** que asciende por el litoral atlántico bañando estas costas. 
 Esa niebla es la que lleva la humedad tierra adentro. Gracias a ello, tanto plantas como 
 animales han logrado hacer del desierto su hábitat y convertirlo en uno de los desiertos 
-que albergan mayor diversidad del mundo. Algunas especies son tan raras como la [welwitschia](https://es.wikipedia.org/wiki/Welwitschia_mirabilis)**,** 
-una planta que con sus largas raíces crece sobre el terreno pedregoso y puede vivir 
-hasta 2.000 años. ¿Habrán encontrado el elixir de la vida entre la arena del desierto? 
+que albergan mayor diversidad del mundo. Algunas especies son tan raras como la 
+[welwitschia](https://es.wikipedia.org/wiki/Welwitschia_mirabilis)**,** una planta que 
+con sus largas raíces crece sobre el terreno pedregoso y puede vivir hasta 2.000 años. 
+¿Habrán encontrado el elixir de la vida entre la arena del desierto? 
 
 ### También te puede interesar:
 
-[‘Memorias de África’ más allá de Robert Redford y Meryl 
-Streep](https://etheriamagazine.com/2020/10/12/final-real-memorias-de-africa-baronesa-blixen-beryl-markham/) 
+{{< reflink 
+path=posts/2020/10/final-real-memorias-de-africa-baronesa-blixen-beryl-markham >}} 
 
-[10 razones por las que deberías hacer un safari en 
-Botsuana](https://etheriamagazine.com/2018/11/22/botsuana-10-razones-para-sentirte-la-reina-de-africa/) 
+{{< reflink path=posts/2018/11/botsuana-10-razones-para-sentirte-la-reina-de-africa >}} 
 
-[El lago Turkana, un viaje a Kenia que cambiará tu percepción del 
-mundo](https://etheriamagazine.com/2020/02/07/viaje-a-kenia-etnias-del-lago-turkana/)
+{{< reflink path=posts/2020/02/viaje-a-kenia-etnias-del-lago-turkana >}}

@@ -1,7 +1,7 @@
 ---
 title: "10 planes para disfrutar esta Navidad en Madrid"
 date: 2020-12-07
-coverImage: https://fotos.etheriamagazine.com/2020/12/Madrid-navidad-gran-via-autobus.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/Madrid-navidad-gran-via-autobus.jpg
 categories: 
   - ocio
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Aunque estas Navidades se presenten muy distintas hay que hacer de tripas corazón e 
+**Aunque estas Navidades se presenten muy distintas hay que hacer de tripas corazón e 
 intentar mantener el espíritu navideño a pesar de restricciones, limitaciones y 
 pandemias. Con la consigna de ser responsable y cumplir siempre las normas Covid, te 
-contamos qué 10 planes puedes organizar durante esta Navidad en Madrid. 
+contamos qué 10 planes puedes organizar durante esta Navidad en Madrid.** 
 
 ![Luces navidad en Madrid](https://fotos.etheriamagazine.com/2020/12/madrid-menina-colon-navidad.jpg "Menina en la plaza de Colón. © Álvaro López/Madrid Destino")
 
@@ -93,10 +93,9 @@ diferentes distritos madrileños.
 
 En Madrid siempre hay propuestas culturales interesantes y las fiestas navideñas son una 
 ocasión excelente para ver esas exposiciones temporales para las que no hemos encontrado 
-tiempo durante el otoño. Nuestras preferidas ya os las contamos en el artículo [10 
-exposiciones en Madrid para vivir el arte este 
-otoño](https://etheriamagazine.com/2020/10/13/10-exposiciones-en-madrid-para-otono-2020/), 
-y todas siguen estando disponibles durante las Navidades. 
+tiempo durante el otoño. Nuestras preferidas ya os las contamos en el artículo {{< 
+reflink path=posts/2020/10/10-exposiciones-en-madrid-para-otono-2020 >}}, y todas siguen 
+estando disponibles durante las Navidades. 
 
 ![patinaje sobre hielo en Madrid](https://fotos.etheriamagazine.com/2020/12/Madrid-navidad-pista-patinaje.jpg "Pista de patinaje sobre hielo de Matadero. © SG")
 

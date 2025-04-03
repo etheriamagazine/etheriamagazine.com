@@ -1,7 +1,7 @@
 ---
 title: "Prepara tu viaje a Cuba: libros y películas recomendados"
 date: 2020-05-08
-coverImage: https://fotos.etheriamagazine.com/2020/04/cuba-trompetista.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/cuba-trompetista.jpg
 categories: 
   - inspiración
   - qué-llevar-en-la-maleta
@@ -108,8 +108,8 @@ emblemáticos como el Malecón o el Hotel Nacional.
 Este libro autobiográfico (llevado al cine) narra la vida de su autor, desde sus 
 primeros años hasta los que vivió bajo el régimen castrista donde nada fue fácil por su 
 condición de homosexual, escritor y activista. También retrata sus años de exilio en 
-Estados Unidos hasta que, enfermo de SIDA, acabó con su vida. En [Amazon](https://amzn.to/2Y8r0mL) 
-en versión Kindle y en tapa blanda. 
+Estados Unidos hasta que, enfermo de SIDA, acabó con su vida. En 
+[Amazon](https://amzn.to/2Y8r0mL) en versión Kindle y en tapa blanda. 
 
 ![libros sobre Cuba](https://fotos.etheriamagazine.com/2020/04/cuba-libros-1.jpg "Un libro autobiográfico y un recorrido sobre la noche de La Habana.")
 
@@ -118,7 +118,8 @@ en versión Kindle y en tapa blanda.
 Un divertido recorrido por la noche de La Habana con todo tipo de personajes singulares 
 que entremezclan sus historias de una forma delirante, con un retrato detallado del 
 ambiente gay en un país que ha pasado de perseguir la homosexualidad a crear un programa 
-estatal de apoyo que incluye la apertura de locales gays. Disponible en [Amazon](https://amzn.to/2W1KZAP). 
+estatal de apoyo que incluye la apertura de locales gays. Disponible en 
+[Amazon](https://amzn.to/2W1KZAP). 
 
 #### • ‘La Habana para un infante difunto’ de Guillermo Cabrera Infante
 
@@ -142,7 +143,8 @@ profundizar en la historia reciente de Cuba.
 _Cuba más allá de Fidel_ es un libro de viajes relatado a través del recorrido de 3.000 
 kilómetros del autor, desde Santiago de Cuba hacia la parte occidental de la isla, 
 contando Cuba desde dentro a través de las voces de los propios cubanos. Puedes 
-comprarlo online en la librería [Altaïr](https://www.altair.es/es/libro/cuba-mas-alla-de-fidel-9-heterodoxos-altair_109209). 
+comprarlo online en la librería 
+[Altaïr](https://www.altair.es/es/libro/cuba-mas-alla-de-fidel-9-heterodoxos-altair_109209). 
 
 ![libros sobre Cuba](https://fotos.etheriamagazine.com/2020/04/cuba-libros-3.jpg "Novela y ensayo sobre Cuba.")
 
@@ -162,14 +164,14 @@ el siglo XX. Disponible en [Amazon](https://amzn.to/2YaqDYI).
 
 #### • 'Una casa en Amargura', de Elisa Vázquez de Gey.
 
-A esta autora la conoceréis por su investigación de la [princesa de 
-Kapurthala](https://etheriamagazine.com/2020/04/13/la-pasion-india-de-anita-delgado-libros-viajes/), 
-ya que es su biógrafa oficial y ha escrito varias obras sobre ella. En esta ocasión, ha 
-buceado en el oscuro mundo de las esclavas en Cuba para traernos la historia de 
-Misterio, una joven africana que llega en un barco negrero para ser vendida como 
-esclava. Esta novela nos habla de la situación de las esclavas en La Habana colonial de 
-una Cuba española. Puedes pedir [Una casa en Amargura](https://amzn.to/2Sf7qS0) en 
-versión Kindle desde poco más de 6 € y también en tapa blanda. 
+A esta autora la conoceréis por su investigación de la {{< reflink 
+path=posts/2020/04/la-pasion-india-de-anita-delgado-libros-viajes >}}, ya que es su 
+biógrafa oficial y ha escrito varias obras sobre ella. En esta ocasión, ha buceado en el 
+oscuro mundo de las esclavas en Cuba para traernos la historia de Misterio, una joven 
+africana que llega en un barco negrero para ser vendida como esclava. Esta novela nos 
+habla de la situación de las esclavas en La Habana colonial de una Cuba española. Puedes 
+pedir [Una casa en Amargura](https://amzn.to/2Sf7qS0) en versión Kindle desde poco más 
+de 6 € y también en tapa blanda. 
 
 #### • 'La isla de los ingenios', de Fernando García del Río
 
@@ -192,8 +194,6 @@ Touring](https://amzn.to/2Yl5Fqr).
 
 ### También te puede interesar:
 
-[Viajar a Cuba con 
-amigas](https://etheriamagazine.com/2019/01/25/viajar-con-amigas-a-cuba/). 
+{{< reflink path=posts/2019/01/viajar-con-amigas-a-cuba >}}. 
 
-[Viajar sola a La 
-Habana](https://etheriamagazine.com/2019/08/16/viajar-sola-que-ver-hacer-mujeres-la-habana-cuba/).
+{{< reflink path=posts/2019/08/viajar-sola-que-ver-hacer-mujeres-la-habana-cuba >}}.

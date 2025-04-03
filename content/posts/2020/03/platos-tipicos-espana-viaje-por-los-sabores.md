@@ -1,7 +1,7 @@
 ---
 title: "Viaja con el paladar por España a través de estos 7 platos tradicionales"
 date: 2020-03-25
-coverImage: https://fotos.etheriamagazine.com/2020/03/cocinera.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/cocinera.jpg
 categories: 
   - gourmet
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Conviértete en el mejor chef de tu casa y degusta algunos platos típicos de España 
+**Conviértete en el mejor chef de tu casa y degusta algunos platos típicos de España 
 cocinados por ti mismo. Viaja mentalmente durante una semana a través de estas 7 
 recetas: fabada, salmorejo, paella, cocido, migas, lechazo y pulpo. El menú hoy lo 
-eliges tú. 
+eliges tú.** 
 
 ![Mujer cocinando en el horno](https://fotos.etheriamagazine.com/2020/03/cocinera.jpg "Descubre el placer de cocinar.")
 
@@ -139,8 +139,6 @@ explican muy bien.
 
 📌 **También te puede interesar:** 
 
-[Qué comer en Madeira, la isla de las 
-nubes](https://etheriamagazine.com/2022/08/30/que-comer-en-madeira/). 
+{{< reflink path=posts/2022/08/que-comer-en-madeira >}}. 
 
-[Dónde comer bien en Formentera sin perder de vista la mano 
-femenina](https://etheriamagazine.com/2022/07/27/mejores-restaurantes-formentera/).
+{{< reflink path=posts/2022/07/mejores-restaurantes-formentera >}}.

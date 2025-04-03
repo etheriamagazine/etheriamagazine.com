@@ -1,7 +1,7 @@
 ---
 title: "12 pueblos bonitos en Castilla y León que no puedes perderte"
 date: 2023-09-13
-coverImage: https://fotos.etheriamagazine.com/2021/12/segovia-Sepulveda.jpg
+cover: https://fotos.etheriamagazine.com/2021/12/segovia-Sepulveda.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -12,11 +12,11 @@ authors:
   - Redacción Etheria
 ---
 
-Viajar a los entornos rurales en España es uno de los mejores planes de fin de semana 
+**Viajar a los entornos rurales en España es uno de los mejores planes de fin de semana 
 que existen. En esta lista te proponemos 12 pueblos bonitos en Castilla y León, con sus 
 castillos, murallas e iglesias románicas. Unas localidades que añaden al interés 
 artístico el gastronómico y paisajístico formando así escapadas redondas con las que el 
-disfrute está asegurado. 
+disfrute está asegurado.** 
 
 ![ciudad de sepulveda rutas en segovia](https://fotos.etheriamagazine.com/2021/03/segovia-Sepulveda.jpg "Panorámica de la bella localidad de Sepúveda. © Turismo Diputación de Segovia")
 
@@ -39,8 +39,7 @@ donde te propondrán diferentes rutas). Y, por si fuera poco, es uno de los mejo
 lugares para comer el famoso lechazo castellano en cualquiera de los restaurantes de su 
 Plaza Mayor. 
 
-✅ [Sepúlveda y las hoces del Duratón para toda la 
-familia](https://etheriamagazine.com/2019/07/11/sepulveda-y-las-hoces-del-duraton-viaje-en-familia/) 
+✅ {{< reflink path=posts/2019/07/sepulveda-y-las-hoces-del-duraton-viaje-en-familia >}} 
 
 ![Plaza Mayor de la Villa de Sepúlveda.](https://fotos.etheriamagazine.com/2023/09/sepulveda-plaza.jpg "Plaza Mayor de la Villa de Sepúlveda.")
 
@@ -81,8 +80,7 @@ de piedra y balcones de madera y al Puente Medieval. Frías se encuadra en la bo
 de las **Merindades de Burgos**, conocida por sus cascadas y grutas milenarias, por lo 
 que es un punto de partida perfecto para conocerla. 
 
-✅ [Ruta para desconectar en Las Merindades de 
-Burgos](https://etheriamagazine.com/2019/06/04/que-ver-hacer-ruta-merindades-burgos/) 
+✅ {{< reflink path=posts/2019/06/que-ver-hacer-ruta-merindades-burgos >}} 
 
 ![merindades, burgos, pueblo frias](https://fotos.etheriamagazine.com/2019/05/ruta-merindades-pueblo-frias.jpg "Frías, uno de los emblemas medievales de Las Merindades.")
 
@@ -99,11 +97,9 @@ Calle Mayor y acercarse a la iglesia de San Martín, del siglo XVII. También se
 hacer excursiones al bonito **Parque Natural de Las Batuecas** y a los pueblos de La 
 Alberca y Miranda del Castañar, también preciosos. 
 
-✅ [Mogarraz se retrata, así es el pueblo de las 800 caras de 
-Salamanca](https://etheriamagazine.com/2019/10/07/que-ver-en-mogarraz-pueblo-de-retratos-salamanca/) 
+✅ {{< reflink path=posts/2019/10/que-ver-en-mogarraz-pueblo-de-retratos-salamanca >}} 
 
-✅ [Ruta del Vino de la Sierra de Francia, un brindis con amigas en 
-Salamanca](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/). 
+✅ {{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}. 
 
 ![Mogarraz conserva su arquitectura tradicional de piedra y madera](https://fotos.etheriamagazine.com/2023/09/mogarraz-calle.jpg "Mogarraz conserva su arquitectura tradicional de piedra y madera. © Etheria Magazine")
 
@@ -122,8 +118,8 @@ museos.
 
 ![castillo uruena, villa del libro, escapadas valladolid](https://fotos.etheriamagazine.com/2020/05/Uruena-villa-del-libro-castillo-valladolid.jpg "Panorámica con el castillo de Urueña al fondo. © Pedro Grifol")
 
-✅ [Conoce Urueña, un pueblo ‘de libro’ en 
-Valladolid](https://etheriamagazine.com/2020/05/22/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid/) 
+✅ {{< reflink 
+path=posts/2020/05/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid >}} 
 
 ## Molinaseca
 
@@ -147,8 +143,7 @@ la muralla (que conserva veinte torres originales), el monasterio de Nuestra Se�
 Gracia, donde nació Isabel la Católica; la iglesia de San Nicolás de Bari; y el Palacio 
 de Juan II (con un museo sobre la famosa reina), entre otros monumentos. 
 
-✅ [Madrigal de las Altas Torres, una excursión a la cuna de Isabel la 
-Católica](https://etheriamagazine.com/2022/02/14/que-ver-madrigal-altas-torres/) 
+✅ {{< reflink path=posts/2022/02/que-ver-madrigal-altas-torres >}} 
 
 ![Madrigal de las Altas Torres.](https://fotos.etheriamagazine.com/2023/09/Panoramica-Madrigal.jpg "Madrigal de las Altas Torres. © Tatavasco Imágenes.")
 
@@ -163,8 +158,7 @@ se alzan su castillo, en lo alto de una colina, con un museo y vistas de infarto
 iglesia de Nuestra Señora del Azogue, del siglo XVI. Y no dejes de hacerte una foto en 
 el bonito Puente de la Reina. 
 
-✅ [Descubre el lago de Sanabria y otros encantos de la Escocia 
-zamorana](https://etheriamagazine.com/2020/10/07/ruta-en-lago-sanabria-leyendas-hotel-camping/) 
+✅ {{< reflink path=posts/2020/10/ruta-en-lago-sanabria-leyendas-hotel-camping >}} 
 
 ![Puebla de Sanabria.](https://fotos.etheriamagazine.com/2023/09/zamora-puebla-sanabria.jpg "Puebla de Sanabria.")
 
@@ -208,8 +202,8 @@ vistas espectaculares de los alrededores. Y para dar un paseo, nada como acercar
 
 📌 **También te puede interesar:** 
 
-[Ruta del lechazo: los mejores asadores de Castilla y 
-León](https://etheriamagazine.com/2019/04/25/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon/) 
+{{< reflink 
+path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
+>}} 
 
-[32 excursiones de un día donde la cultura y el vino se dan la 
-mano](https://etheriamagazine.com/2021/04/13/32-excursiones-de-un-dia-en-rutas-vino-espana/)
+{{< reflink path=posts/2021/04/32-excursiones-de-un-dia-en-rutas-vino-espana >}}

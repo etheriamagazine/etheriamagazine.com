@@ -1,7 +1,7 @@
 ---
 title: "Norte de República Dominicana: naturaleza, ron y merengue"
 date: 2018-04-13
-coverImage: https://fotos.etheriamagazine.com/2018/04/Rep-Dominicana-Bayahibe.jpg
+cover: https://fotos.etheriamagazine.com/2018/04/Rep-Dominicana-Bayahibe.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-Uno de los destinos más apetecibles y amables del Caribe es República Dominicana. Ideal 
-si viajas con amigas, en familia o en pareja. Por supuesto, también puedes viajar sola, 
-aunque sola estarás poco... En este artículo hemos seleccionado algunas visitas y 
-excursiones imprescindibles que puedes hacer en el norte de la isla. ¡Que las disfrutes! 
+**Uno de los destinos más apetecibles y amables del Caribe es República Dominicana. 
+Ideal si viajas con amigas, en familia o en pareja. Por supuesto, también puedes viajar 
+sola, aunque sola estarás poco... En este artículo hemos seleccionado algunas visitas y 
+excursiones imprescindibles que puedes hacer en el norte de la isla. ¡Que las 
+disfrutes!** 
 
 ![bahía en República Dominicana](https://fotos.etheriamagazine.com/2018/04/Rep-Dominicana-Bayahibe.jpg "El azul turquesa del mar es la mejor invitación al baño en República Dominicana.")
 
@@ -145,8 +146,7 @@ Más información en [www.godominicanrepublic.com](http://www.godominicanrepubli
 
 📌 **Otros viajes a tener en cuenta:** 
 
-[10 razones para viajar a República 
-Dominicana](https://etheriamagazine.com/2018/05/18/10-razones-para-visitar-punta-cana-republica-dominicana/) 
+{{< reflink path=posts/2018/05/10-razones-para-visitar-punta-cana-republica-dominicana 
+>}} 
 
-[Cozumel, Holbox e Isla Mujeres, tres islas de Yucatán donde querrás quedarte a 
-vivir](https://etheriamagazine.com/2021/08/01/que-ver-en-las-islas-de-yucatan-mexico/).
+{{< reflink path=posts/2021/08/que-ver-en-las-islas-de-yucatan-mexico >}}.

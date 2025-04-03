@@ -1,7 +1,7 @@
 ---
 title: "'Concédete Deseos' adapta sus viajes para verano con más experiencias y talleres de proximidad"
 date: 2020-05-19
-coverImage: https://fotos.etheriamagazine.com/2020/05/agencia-viajes-mujeres-valle-del-loira.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/agencia-viajes-mujeres-valle-del-loira.jpg
 categories: 
   - historias
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-‘Concédete Deseos’ incorpora nuevas experiencias y talleres de proximidad en su 
+**‘Concédete Deseos’ incorpora nuevas experiencias y talleres de proximidad en su 
 programación mientras la pandemia no permita realizar escapadas de largo recorrido. 
 Carina Tur, directora de esta agencia de viajes para mujeres, nos cuenta sus nuevas 
-propuestas para verano y la situación actual de la agencia. 
+propuestas para verano y la situación actual de la agencia.** 
 
 ![Carina Tur, directora de Concédete Deseos.](https://fotos.etheriamagazine.com/2020/05/Carina-Tur-concedete-deseos.jpg "Carina Tur, directora de Concédete Deseos.")
 
@@ -89,9 +89,9 @@ Entre ellos: **Bardenas Reales y enoturismo en La Rioja**, **Ruta de los faros y
 da Morte**, **Ruta de los pueblos blancos** y **Las mejores playas de la Costa de la Luz 
 de Cádiz**, **Menorca** por mar (velero privado) y tierra (minivan). 
 
-Y en Europa tenemos previsto [Castillos del Valle del 
-Loira](https://etheriamagazine.com/2019/03/14/que-ver-ruta-en-coche-valle-del-loira/) y 
-**Mont Saint Michel,** y **Alsacia** en la época de los mercadillos navideños 
+Y en Europa tenemos previsto {{< reflink 
+path=posts/2019/03/que-ver-ruta-en-coche-valle-del-loira >}} y **Mont Saint Michel,** y 
+**Alsacia** en la época de los mercadillos navideños 
 
 ![concedete deseos, valle del loira, viajes para mujeres](https://fotos.etheriamagazine.com/2020/05/agencia-viajes-mujeres-valle-del-loira.jpg "Grupo de Concédete Deseos en el Valle del Loira (Francia).")
 

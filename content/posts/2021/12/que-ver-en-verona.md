@@ -1,7 +1,7 @@
 ---
 title: "Verona más allá de Julieta, descubre otras visitas esenciales"
 date: 2021-12-01
-coverImage: https://fotos.etheriamagazine.com/2021/11/piazza-delle-erbe-verona.jpg
+cover: https://fotos.etheriamagazine.com/2021/11/piazza-delle-erbe-verona.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -88,10 +88,10 @@ multicultural que se respira en buena parte de sus calles y plazas.
 Ellos y sus compañeros italianos son los que llenan los bares y restaurantes del centro 
 histórico de Verona durante el año lectivo. Pero, una vez terminan las clases, el relevo 
 lo toman los ya mencionados amantes de la ópera y los muchos turistas que veranean en el 
-cercano Lago de Garda (prepara tu escapada con esta [ruta en coche alrededor del Lago de 
-Garda](https://etheriamagazine.com/2021/09/22/ruta-en-coche-en-lago-de-garda-italia)) y 
-que llegan hasta aquí atraídos por la benignidad del clima que caracteriza a la zona. 
-Aparte de los muchos encantos de la ciudad de Verona, claro. 
+cercano Lago de Garda (prepara tu escapada con esta {{< reflink 
+path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}}) y que llegan hasta aquí 
+atraídos por la benignidad del clima que caracteriza a la zona. Aparte de los muchos 
+encantos de la ciudad de Verona, claro. 
 
 Desde luego, es todo un placer sentarse en alguna de las muchas terrazas que se plantan 
 en las plazas principales de Verona. Sobre todo en la **Piazza delle Erbe** (de las 
@@ -160,10 +160,10 @@ embutidos de elaboración propia.
 
 Por supuesto también ofrecen postres caseros, pero puestos a sugerir y teniendo en 
 cuenta la calidad y variedad de la pastelería italiana, por qué no probar los dulces 
-elaborados en alguna de las _pasticcerie_ que hay en la ciudad. Un buen ejemplo es [Flego](http://www.pasticceriaflego.net/), 
-más que agradable local situado en una de las calles peatonales del centro y cuyas 
-vitrinas son una auténtica provocación a la que es casi imposible resistirse. De hecho, 
-mejor no resistirse. 
+elaborados en alguna de las _pasticcerie_ que hay en la ciudad. Un buen ejemplo es 
+[Flego](http://www.pasticceriaflego.net/), más que agradable local situado en una de las 
+calles peatonales del centro y cuyas vitrinas son una auténtica provocación a la que es 
+casi imposible resistirse. De hecho, mejor no resistirse. 
 
 ![compras en verona](https://fotos.etheriamagazine.com/2021/11/compras-verona.jpg "En las calles de Verona encontrarás encantadoras boutiques. © Tom Podmore")
 
@@ -200,11 +200,8 @@ poco.
 
 **También te puede interesar...** 
 
-[Turín con amigas: viaja a la ciudad más supersticiosa de 
-Italia](https://etheriamagazine.com/2021/07/16/que-ver-en-turin-en-un-viaje-con-amigas/) 
+{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}} 
 
-[Nueve paseos a la italiana por los jardines más bellos de 
-Florencia](https://etheriamagazine.com/2021/05/21/paseos-por-los-jardines-mas-bellos-de-florencia/). 
+{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}. 
 
-[Caótica Nápoles: 48 horas en la ciudad más canalla de 
-Italia](https://etheriamagazine.com/2020/09/04/que-ver-en-napoles-en-fin-de-semana/).
+{{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}}.

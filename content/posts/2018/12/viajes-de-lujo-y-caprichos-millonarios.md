@@ -1,7 +1,7 @@
 ---
 title: "Viajes de lujo y otros caprichos para millonarios"
 date: 2018-12-22
-coverImage: https://fotos.etheriamagazine.com/2018/12/polinesia-etheria-magazine-e1577003544324.jpg
+cover: https://fotos.etheriamagazine.com/2018/12/polinesia-etheria-magazine-e1577003544324.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Y si, de repente, te toca la lotería o recibes una herencia inesperada, ¿sabrías en qué 
-comenzar a gastar ese dinero que te ha caído del cielo? Muchos estudios indican que lo 
-que mayor felicidad proporciona a las mujeres es viajar. Así que te damos algunas ideas 
-por si te quedas bloqueada por la emoción. 
+**Y si, de repente, te toca la lotería o recibes una herencia inesperada, ¿sabrías en 
+qué comenzar a gastar ese dinero que te ha caído del cielo? Muchos estudios indican que 
+lo que mayor felicidad proporciona a las mujeres es viajar. Así que te damos algunas 
+ideas por si te quedas bloqueada por la emoción.** 
 
 ![viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad](https://fotos.etheriamagazine.com/2018/12/polinesia-etheria-magazine.jpg "Relájate en la Polinesia Francesa.")
 
@@ -26,11 +26,11 @@ propuestas en Etheria Magazine para presupuestos más ajustados.
 ## 1.La vuelta al mundo en crucero.
 
 Si ya has decidido dar la vuelta al mundo surcando casi todos los océanos y mares del 
-planeta ¿por qué no hacerlo a lo grande? [Catai](https://www.catai.es/viajes/crucero-vuelta-al-mundo.html) 
-ofrece un crucero de 46 días que parte de Santiago de Chile (hace parada en la Isla de 
-Pascua) y sigue por Polinesia Francesa, Nueva Caledonia, Nueva Zelanda, Australia, 
-Indonesia y Singapur. El precio por persona es desde 9.425 euros, ¿a cuántos amigos te 
-vas a llevar? 
+planeta ¿por qué no hacerlo a lo grande? 
+[Catai](https://www.catai.es/viajes/crucero-vuelta-al-mundo.html) ofrece un crucero de 
+46 días que parte de Santiago de Chile (hace parada en la Isla de Pascua) y sigue por 
+Polinesia Francesa, Nueva Caledonia, Nueva Zelanda, Australia, Indonesia y Singapur. El 
+precio por persona es desde 9.425 euros, ¿a cuántos amigos te vas a llevar? 
 
 ![viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad](https://fotos.etheriamagazine.com/2018/12/crucero-etheria-magazine.jpg "Desconectar en un crucero.")
 
@@ -72,8 +72,7 @@ conocidos están el **Burj Al Arab**, en Dubai, al que puedes llegar directament
 helipuerto y donde podrás alojarte en una suite de 780 m2; el **Poseidon Undersea 
 Resort**, en las islas Fiji, cuyas habitaciones están bajo el mar; **The Raj Palace**, 
 un auténtico palacio en Jaipur; el **Hotel President Wilson**, en Ginebra; o el 
-increíble [Plaza 
-Athénée](https://etheriamagazine.com/2018/11/21/plaza-athenee-un-hotel-de-ensueno-en-paris/), 
+increíble {{< reflink path=posts/2018/11/plaza-athenee-un-hotel-de-ensueno-en-paris >}}, 
 en París, del que ya te hemos hablado en otras ocasiones. 
 
 ![Poseidon Undersea Resort, viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad](https://fotos.etheriamagazine.com/2018/12/Poseidon-Undersea-Resort.jpg "© Poseidon Undersea Resort.")

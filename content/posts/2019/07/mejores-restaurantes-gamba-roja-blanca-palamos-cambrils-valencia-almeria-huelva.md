@@ -1,7 +1,7 @@
 ---
 title: "Ruta de la gamba roja, lugares donde chuparse los dedos está bien visto"
 date: 2019-07-02
-coverImage: https://fotos.etheriamagazine.com/2019/06/gamba-roja-experiencia-señor-martin.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/gamba-roja-experiencia-señor-martin.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -87,10 +87,11 @@ visitas guiadas. Una experiencia única que hay que vivir.
 
 ![escapada gourmet, viaje gastronómico, viaje con amigas](https://fotos.etheriamagazine.com/2019/06/gamba-roja-palamos-lonja.jpg "Subasta de gamba roja en la lonja de Palamós. © Museu de la Pesca Palamós")
 
-De entre la estupenda oferta gastro que encontramos, mis preferidos son [Miramar](https://www.miramar-cambrils.com), 
-situado en el paseo marítimo de Cambrils y con una terraza espectacular, donde suelen 
-hacerla a la plancha; o [Can Roig](http://www.can-roig.es), en Roda de Bará (entre 
-Tarragona y Sitges), con platos como el carpaccio de gamba roja con huevas de trucha. 
+De entre la estupenda oferta gastro que encontramos, mis preferidos son 
+[Miramar](https://www.miramar-cambrils.com), situado en el paseo marítimo de Cambrils y 
+con una terraza espectacular, donde suelen hacerla a la plancha; o [Can 
+Roig](http://www.can-roig.es), en Roda de Bará (entre Tarragona y Sitges), con platos 
+como el carpaccio de gamba roja con huevas de trucha. 
 
 ##### Palamós, santuario de la gamba roja
 
@@ -147,8 +148,8 @@ carácter dulzón que en ella está más presente que en sus “hermanas” medi
 que qué mejor manera de acercarnos a esta sabrosa gamba que mediante la visita a su 
 lonja. Si acudes a las cinco y media de la tarde podrás ver su subasta y disfrutar del 
 ajetreo de las cajas de hielo con las gambas rojas recién pescadas asomando sus bigotes. 
-Una parada perfecta en un [viaje a 
-Almeria](https://etheriamagazine.com/2018/11/15/que-ver-en-almeria-en-temporada-baja/). 
+Una parada perfecta en un {{< reflink 
+path=posts/2021/04/que-ver-en-almeria-en-temporada-baja >}}. 
 
 ![gastronomia, viajes con amigas, slowtravel](https://fotos.etheriamagazine.com/2018/11/Almeria-subasta-Garrucha-e1561543361271.jpg "Subasta de pescado en la lonja de Garrucha. © SG")
 
@@ -201,11 +202,9 @@ decidir cuál te gusta más.
 
 ### También te puede interesar...
 
-[Los tres tenores del cochinillo en Segovia, una historia de amor 
-correspondido](https://etheriamagazine.com/2020/12/01/mejores-restaurantes-para-comer-cochinillo-en-segovia/). 
+{{< reflink path=posts/2020/12/mejores-restaurantes-para-comer-cochinillo-en-segovia 
+>}}. 
 
-[Vigo, ¿por qué estás tan rematadamente 
-bueno?](https://etheriamagazine.com/2020/11/24/comer-en-vigo-mejores-restaurantes-furanchos/) 
+{{< reflink path=posts/2020/11/comer-en-vigo-mejores-restaurantes-furanchos >}} 
 
-[10 grandes restaurantes para saborear lo mejor de 
-Toledo](https://etheriamagazine.com/2020/11/03/comer-en-toledo-mejores-restaurantes-bares-tapas/).
+{{< reflink path=posts/2020/11/comer-en-toledo-mejores-restaurantes-bares-tapas >}}.

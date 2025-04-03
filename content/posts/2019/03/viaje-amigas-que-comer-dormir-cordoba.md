@@ -1,7 +1,7 @@
 ---
 title: "Córdoba, maridaje ideal entre historia y gastronomía"
 date: 2019-03-25
-coverImage: https://fotos.etheriamagazine.com/2019/03/Cordoba-restaurante-Recomiendo.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/Cordoba-restaurante-Recomiendo.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Macarena Escrivá
 ---
 
-Córdoba rezuma alegría y arte por los cuatro costados. Es un testigo presente de la 
+**Córdoba rezuma alegría y arte por los cuatro costados. Es un testigo presente de la 
 historia de España bañado por las aguas del río Guadalquivir y uno de los destinos a los 
 que escaparse ahora que la primavera empieza a asomar las orejas, perfecto para viajar 
-en pareja y disfrutar de su gastronomía. 
+en pareja y disfrutar de su gastronomía.** 
 
 ![alcazar de cordoba](https://fotos.etheriamagazine.com/2019/03/Alcazar-de-Cordoba.jpg "Alcázar de Córdoba.")
 
@@ -45,8 +45,7 @@ realizar también si haces un viaje en familia (menores de 10 años, gratis) y l
 carro de bebé. [Resérvalo con 
 antelación](https://www.civitatis.com/es/cordoba/visita-guiada-mezquita-cordoba/?aid=10211). 
 
-📍NO te pierdas: [Qué ver en la Mezquita de 
-Córdoba](https://etheriamagazine.com/2022/08/12/que-ver-mezquita-cordoba/). 
+📍NO te pierdas: {{< reflink path=posts/2022/08/que-ver-mezquita-cordoba >}}. 
 
 ![mezquita de cordoba](https://fotos.etheriamagazine.com/2019/03/Mezquita-de-Cordoba.jpg "Interior de la mezquita-catedral de Córdoba.")
 
@@ -147,11 +146,8 @@ estilo alberca y un espacio para soñar bonito. Pura magia.
 
 ### También te puede interesar...
 
-[Planes imprescindibles con amigas en 
-Córdoba](https://etheriamagazine.com/2021/08/25/planes-que-hacer-en-cordoba-con-amigas/). 
+{{< reflink path=posts/2021/08/planes-que-hacer-en-cordoba-con-amigas >}}. 
 
-[Baena, Montilla y Puente Genil, una ruta por la campiña 
-cordobesa](https://etheriamagazine.com/2021/05/25/ruta-campina-cordobesa-baena-montilla-puente-genil/). 
+{{< reflink path=posts/2021/05/ruta-campina-cordobesa-baena-montilla-puente-genil >}}. 
 
-[Siete emocionantes experiencias para conectar con 
-Andalucía](https://etheriamagazine.com/2021/07/16/experiencias-para-conectar-con-andalucia/).
+{{< reflink path=posts/2021/07/experiencias-para-conectar-con-andalucia >}}.

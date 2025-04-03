@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer en Lloret de Mar en un día, 7 planes sin estresarte"
 date: 2022-06-20
-coverImage: https://fotos.etheriamagazine.com/2022/06/Playa-Sa-Boadella-lloret.jpg
+cover: https://fotos.etheriamagazine.com/2022/06/Playa-Sa-Boadella-lloret.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -132,8 +132,9 @@ atardecer con un **Daiquiri Nº4** en la mano. Este cóctel, que celebra su cent
 este 2022, fue ideado en Cuba por un lloretense, Constantí Ribalaigua (1888-1952), 
 propietario del famoso bar Floridita de La Habana. Sin embargo, quien lo puso de moda 
 fue el escritor Ernest Hemingway. Te animamos a probarlo en tu próximo viaje a Lloret. 
-Si quieres aprender a preparar este [Daiquiri](https://www.youtube.com/watch?v=bLKuVKlbtsY&t=6s), 
-entra en el canal Grifol's Bar, en YouTube. 
+Si quieres aprender a preparar este 
+[Daiquiri](https://www.youtube.com/watch?v=bLKuVKlbtsY&t=6s), entra en el canal Grifol's 
+Bar, en YouTube. 
 
 ![Daiquiri nº4 o Frozen, ideado por un lloretense y popularizado por Hemingway.](https://fotos.etheriamagazine.com/2022/06/daiquiri-4-lloret-mar.jpg "Daiquiri nº4 o Frozen, ideado por un lloretense y popularizado por Hemingway. © Pepa García")
 
@@ -141,8 +142,7 @@ Más información en la web de **Turismo de Lloret de Mar**.
 
 ### También en Costa Brava...
 
-[Costa Brava con amigas: 6 pueblos imprescindibles en tu 
-viaje](https://etheriamagazine.com/2019/05/28/pueblos-imprescindibles-viaje-amigas-costa-brava/). 
+{{< reflink path=posts/2019/05/pueblos-imprescindibles-viaje-amigas-costa-brava >}}. 
 
-[Tossa de Mar, secretos de cine en la Costa 
-Brava](https://etheriamagazine.com/2020/06/24/viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava/).
+{{< reflink path=posts/2020/06/viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava 
+>}}.

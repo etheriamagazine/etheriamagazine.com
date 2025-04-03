@@ -1,7 +1,7 @@
 ---
 title: "El Prado en femenino, un nuevo itinerario que no puedes perderte"
 date: 2022-12-29
-coverImage: https://fotos.etheriamagazine.com/2022/12/isabel-clara-eugenia.jpg
+cover: https://fotos.etheriamagazine.com/2022/12/isabel-clara-eugenia.jpg
 categories: 
   - cultura
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-El nuevo itinerario de “El Prado en femenino” es el reflejo de la primera edición del 
+**El nuevo itinerario de “El Prado en femenino” es el reflejo de la primera edición del 
 simposio “Protagonistas femeninas” que tuvo lugar en marzo de 2022 y que continuará en 
 2023 bajo el nombre “Protagonistas femeninas en la formación de las colecciones del 
-Museo del Prado II. De Isabel de Borbón a Mariana de Neoburgo”. 
+Museo del Prado II. De Isabel de Borbón a Mariana de Neoburgo”.** 
 
 ![Infanta Isabel Clara Eugenia, pintada por Pedro Pablo Rubens and Jan Brueghel el Viejo. © Museo Nacional del Prado.](https://fotos.etheriamagazine.com/2022/12/isabel-clara-eugenia.jpg "Infanta Isabel Clara Eugenia, pintada por Pedro Pablo Rubens y Jan Brueghel el Viejo. © Museo Nacional del Prado.")
 
@@ -39,7 +39,8 @@ impulsaron el Museo del Prado o contribuyeron poderosamente a formar sus colecci
 una cronología concreta, **de 1451 a 1633**, de **Isabel la Católica a Isabel Clara 
 Eugenia**. 
 
-La creación de este [itinerario](https://www.museodelprado.es/recurso/el-prado-en-femenino/26c78d35-4d81-4ba0-bff4-ce5d30ad81fc) 
+La creación de este 
+[itinerario](https://www.museodelprado.es/recurso/el-prado-en-femenino/26c78d35-4d81-4ba0-bff4-ce5d30ad81fc) 
 ha ofrecido la oportunidad de exponer algunas **obras que permanecían hasta ahora en los 
 almacenes** de la institución como los retratos de _Isabel Clara Eugenia y Alberto de 
 Austria_, realizados por Rubens y Brueghel el Viejo; Juan Federico de Sajonia de 
@@ -119,11 +120,8 @@ que estará en el Museo del Prado hasta el 18 de junio de 2023.
 
 **No te pierdas....** 
 
-[15 obras del Museo del Prado para una visita 
-exprés](https://etheriamagazine.com/2019/09/24/15-obras-imprescindibles-en-el-prado/). 
+{{< reflink path=posts/2019/09/15-obras-imprescindibles-en-el-prado >}}. 
 
-[Visita rápida al Museo Thyssen-Bornemisza: 15 obras 
-fundamentales](https://etheriamagazine.com/2022/10/14/visita-rapida-museo-thyssen/). 
+{{< reflink path=posts/2022/10/visita-rapida-museo-thyssen >}}. 
 
-[Conoce el Museo Naval de Madrid y sus 10 piezas 
-imprescindibles](https://etheriamagazine.com/2021/04/30/que-ver-en-museo-naval-de-madrid/).
+{{< reflink path=posts/2021/04/que-ver-en-museo-naval-de-madrid >}}.

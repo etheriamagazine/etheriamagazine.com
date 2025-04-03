@@ -1,7 +1,7 @@
 ---
 title: "Viena, un viaje para compartir con tu madre"
 date: 2019-04-24
-coverImage: https://fotos.etheriamagazine.com/2019/04/opera-viena-exterior.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/opera-viena-exterior.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -187,11 +187,9 @@ vuestro viaje en **Turismo de Viena** (www.wien.info/es)
 
 ### También te puede interesar...
 
-[Múnich y Bad Wörishofen, la Alemania más verde y 
-saludable](https://etheriamagazine.com/2021/08/04/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable/). 
+{{< reflink path=posts/2021/08/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable 
+>}}. 
 
-[13 castillos de Chequia envueltos en enigmas y 
-misterios](https://etheriamagazine.com/2020/10/09/13-castillos-mas-misteriosos-de-republica-checa/). 
+{{< reflink path=posts/2020/10/13-castillos-mas-misteriosos-de-republica-checa >}}. 
 
-[Cagliari, un viaje con amigas de buen 
-comer](https://etheriamagazine.com/2020/09/17/guia-basica-cagliari-para-mujeres-viajeras/).
+{{< reflink path=posts/2020/09/guia-basica-cagliari-para-mujeres-viajeras >}}.

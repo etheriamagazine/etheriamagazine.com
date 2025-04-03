@@ -1,7 +1,7 @@
 ---
 title: "8 actividades en Lucerna para un fin de semana navideño"
 date: 2019-12-04
-coverImage: https://fotos.etheriamagazine.com/2019/11/lucerna-luces-navidad.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/lucerna-luces-navidad.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-El mes de diciembre es el momento ideal para realizar un viaje con el que reconciliarse 
-con el espíritu navideño, y Lucerna es el destino perfecto. Te proponemos ocho 
-actividades para disfrutar de esta bonita ciudad suiza durante una escapada de fin de 
-semana. 
+**El mes de diciembre es el momento ideal para realizar un viaje con el que 
+reconciliarse con el espíritu navideño, y Lucerna es el destino perfecto. Te proponemos 
+ocho actividades para disfrutar de esta bonita ciudad suiza durante una escapada de fin 
+de semana.** 
 
 ![Luces de Navidad en Lucerna, una preciosa ciudad de Suiza](https://fotos.etheriamagazine.com/2019/11/lucerna-luces-navidad.jpg "© Luces de Navidad en Lucerna. STST-STTP/Jan Geerk")
 
@@ -57,7 +57,8 @@ Además, la última semana antes de Navidad, se celebra junto al lago en el
 **Schweizerhofquai**, otro mercadillo lleno de color y artesanía. Y si te gusta patinar, 
 no podrás evitar hacer unos giros (o intentarlo) en la pista sobre hielo que estará en 
 la Europaplatz, frente al centro de exposiciones KKL Luzern. Puedes consultar todo el 
-programa en su [web](https://www.luzern.com/en/highlights/christmas-in-lucerne/christmas-markets/). 
+programa en su 
+[web](https://www.luzern.com/en/highlights/christmas-in-lucerne/christmas-markets/). 
 
 ![Escultura del León Moribundo.](https://fotos.etheriamagazine.com/2019/11/Lucerna-leon-moribundo.jpg "Escultura del León Moribundo. © SG")
 
@@ -86,9 +87,9 @@ que rodean el lago.
 
 La excursión al Pilatus (a 2.073 msnm) será una de esas jornadas que recordarás para 
 siempre. Además, es apta para todos los públicos y no requiere esfuerzo (ya te lo 
-contábamos en el reportaje [Tres montañas suizas a las que subir sin 
-despeinarse](https://etheriamagazine.com/2018/09/28/tres-montanas-suizas-a-las-que-subir-sin-despeinarse/)). 
-En invierno hay que tomar en Lucerna el autobús nº1 que lleva a la cercana Kriens. Desde 
+contábamos en el reportaje {{< reflink 
+path=posts/2018/09/tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}}). En 
+invierno hay que tomar en Lucerna el autobús nº1 que lleva a la cercana Kriens. Desde 
 allí salen las Panorama Gondolas que llevan a la estación de Fräkmüntegg en tan solo 30 
 minutos (donde se pueden alquilar trineos para jugar un rato en la nieve). Aquí se 
 enlaza con el telecabina ‘Dragon Ride’, que ofrece unas vistas fabulosas hasta llegar al 

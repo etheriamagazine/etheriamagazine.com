@@ -1,7 +1,7 @@
 ---
 title: "El Museo del Louvre en dos horas, un viaje exprés por el arte"
 date: 2023-08-08
-coverImage: https://fotos.etheriamagazine.com/2023/08/paris-louvre-delacroix-mujeres-argel.jpg
+cover: https://fotos.etheriamagazine.com/2023/08/paris-louvre-delacroix-mujeres-argel.jpg
 categories: 
   - cultura
 destino: 
@@ -268,11 +268,8 @@ información que precisas para preparar tu visita a esta pinacoteca a fondo.
 
 📌 **También te puede interesar:** 
 
-[París con amigas, diez planes para una escapada 
-perfecta](https://etheriamagazine.com/2023/06/16/planes-paris-con-amigas/) 
+{{< reflink path=posts/2023/06/planes-paris-con-amigas >}} 
 
-[Planes en París si viajas 
-sola](https://etheriamagazine.com/2019/05/15/viajar-sola-que-ver-paris/) 
+{{< reflink path=posts/2019/05/viajar-sola-que-ver-paris >}} 
 
-[Shopping en París, tiendas imprescindibles en Le 
-Marais](https://etheriamagazine.com/2018/08/02/viaje-de-compras-le-marais-paris/)
+{{< reflink path=posts/2018/08/viaje-de-compras-le-marais-paris >}}

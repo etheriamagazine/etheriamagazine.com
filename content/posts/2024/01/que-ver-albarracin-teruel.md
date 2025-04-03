@@ -1,7 +1,7 @@
 ---
 title: "Secretos de Albarracín, el pueblo más bonito de Teruel"
 date: 2024-01-19
-coverImage: https://fotos.etheriamagazine.com/2024/01/albarracin-pueblo-teruel.jpg
+cover: https://fotos.etheriamagazine.com/2024/01/albarracin-pueblo-teruel.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -200,8 +200,6 @@ pastoriles** situados en las rocas de rodeno del camino.
 
 **También te puede interesar...** 
 
-[Ruta en coche por la provincia de Teruel, 10 paradas por carreteras 
-secundarias](https://etheriamagazine.com/2021/10/12/ruta-en-coche-por-teruel/). 
+{{< reflink path=posts/2021/10/ruta-en-coche-por-teruel >}}. 
 
-[Teruel, pistas para descubrir su arte y mejores 
-restaurantes](https://etheriamagazine.com/2020/02/10/viajes-romanticos-que-ver-donde-comer-teruel/).
+{{< reflink path=posts/2020/02/viajes-romanticos-que-ver-donde-comer-teruel >}}.

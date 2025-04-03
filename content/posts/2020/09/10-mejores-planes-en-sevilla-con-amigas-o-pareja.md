@@ -1,7 +1,7 @@
 ---
 title: "10 planes originales con amigas en Sevilla"
 date: 2020-09-28
-coverImage: https://fotos.etheriamagazine.com/2020/09/viaje-Sevilla-en-bici.jpg
+cover: https://fotos.etheriamagazine.com/2020/09/viaje-Sevilla-en-bici.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pilar Ortega
 ---
 
-La capital andaluza brinda decenas de experiencias relacionadas con la cultura, el arte, 
-la gastronomía y la arquitectura. En Etheria Magazine hemos seleccionado sólo 10 planes 
-con amigas en Sevilla que te van a encantar, aunque también los disfrutarás si viajas 
-sola o en pareja. 
+**La capital andaluza brinda decenas de experiencias relacionadas con la cultura, el 
+arte, la gastronomía y la arquitectura. En Etheria Magazine hemos seleccionado sólo 10 
+planes con amigas en Sevilla que te van a encantar, aunque también los disfrutarás si 
+viajas sola o en pareja.** 
 
 ![las setas el mejor mirador de sevilla](https://fotos.etheriamagazine.com/2020/09/viaje-original-las-setas-sevilla.jpg "Las Setas, una de las construcciones más vanguardistas de Sevilla.")
 
@@ -38,13 +38,14 @@ fotos con la luz más apropiada.
 
 📍 **Más propuestas divertidas:** 
 
-• [Free tour en 
+- [Free tour en 
 Sevilla](https://www.civitatis.com/es/sevilla/visita-guiada-sevilla/?aid=10211) de dos 
 horas, y [Free tour por 
-Triana](https://www.civitatis.com/es/sevilla/visita-guiada-triana/?aid=10211). • Otras 
-opciones: [Paseo en barco por el 
-Guadalquivir](https://www.civitatis.com/es/sevilla/paseo-barco-sevilla/?aid=10211), [Visita 
-guiada al 
+Triana](https://www.civitatis.com/es/sevilla/visita-guiada-triana/?aid=10211). 
+
+- Otras opciones: [Paseo en barco por el 
+Guadalquivir](https://www.civitatis.com/es/sevilla/paseo-barco-sevilla/?aid=10211), 
+[Visita guiada al 
 Alcázar](https://www.civitatis.com/es/sevilla/visita-guiada-alcazar/?aid=10211) y [Tour 
 de los misterios y 
 leyendas](https://www.civitatis.com/es/sevilla/visita-guiada-alcazar/?aid=10211). 
@@ -158,20 +159,15 @@ de autobuses que en poco más de una hora te llevan hasta destinos como Conil de
 Frontera, Vejer, Barbate, etc. Si te decides a hacer alguna excursión no dejes de 
 consultar esta guía: 
 
-📍[](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/)[La mejor guía de 
-Cádiz provincia para organizar tu 
-viaje](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/). 
+📍{{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}}{{< reflink 
+path=posts/2023/03/pueblos-que-ver-en-cadiz >}}. 
 
 **También te puede interesar...** 
 
-[Planes originales con amigas en 
-Valencia.](https://etheriamagazine.com/2020/09/18/planes-originales-valencia-con-amigas/) 
+{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}} 
 
-[10 planes originales en Bilbao con 
-amigas](https://etheriamagazine.com/2020/09/09/10-planes-originales-en-bilbao-con-amigas/). 
+{{< reflink path=posts/2020/09/10-planes-originales-en-bilbao-con-amigas >}}. 
 
-[10 planes originales con amigas en 
-Barcelona](https://etheriamagazine.com/2020/09/01/10-planes-originales-con-amigas-en-barcelona/). 
+{{< reflink path=posts/2021/03/10-planes-originales-con-amigas-en-barcelona >}}. 
 
-[10 planes originales con amigas en 
-Madrid](https://etheriamagazine.com/2020/08/27/10-planes-originales-en-madrid-con-amigas/).
+{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}.

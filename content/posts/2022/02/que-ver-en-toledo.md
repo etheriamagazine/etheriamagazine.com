@@ -1,7 +1,7 @@
 ---
 title: "Toledo en un fin de semana, claves para aprovecharlo al máximo"
 date: 2022-02-28
-coverImage: https://fotos.etheriamagazine.com/2022/01/toledo-catedral-fachada.jpg
+cover: https://fotos.etheriamagazine.com/2022/01/toledo-catedral-fachada.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Yolanda Cardo
 ---
 
-Depositaria de siglos de historia, Toledo se erige orgullosa sobre el Tajo como adalid 
+**Depositaria de siglos de historia, Toledo se erige orgullosa sobre el Tajo como adalid 
 de las numerosas culturas que han dejado su impronta: carpetanos, romanos, visigodos, 
 plaza fuerte del emirato de Córdoba y capital del Imperio con Carlos V. Hay tanto que 
-ver en Toledo que 48 horas os sabrán a poco. 
+ver en Toledo que 48 horas os sabrán a poco.** 
 
 ![vistas desde el mirador de la piedra del rey moro en toledo](https://fotos.etheriamagazine.com/2022/02/mirador-toledo.jpg "Toledo desde el mirador de la Piedra del Rey Moro. © Yolanda Cardo")
 
@@ -32,8 +32,9 @@ que nos depara esta preciosa población. Si quieres sacar el máximo provecho y 
 como nunca de vuestro viaje, seguid leyendo y tomad nota porque en este artículo os 
 contamos todo lo necesario para descubrir a fondo la histórica capital. 
 
-📌 Para situaros en la ciudad podéis realizar un **freetour por Toledo**. [Resérvalo](https://www.civitatis.com/es/toledo/free-tour-toledo/?aid=10211), 
-no se cobra cancelación si cambiáis de idea a última hora. 
+📌 Para situaros en la ciudad podéis realizar un **freetour por Toledo**. 
+[Resérvalo](https://www.civitatis.com/es/toledo/free-tour-toledo/?aid=10211), no se 
+cobra cancelación si cambiáis de idea a última hora. 
 
 ![entrada monumental de toledo](https://fotos.etheriamagazine.com/2022/02/Toledo-entrada-monumental.jpg "Una de las entradas de Toledo más espectaculares. © Yolanda Cardo")
 
@@ -131,21 +132,22 @@ ejemplo de arquitectura hidráulica de época islámica del siglo X-XI. Se encue
 en una tienda de _souvenirs_ de la céntrica calle Trinidad, 5. Sus amables propietarios 
 te explicarán su historia y podréis verlo tan solo comprando algún bonito recuerdo. 
 
-📌 Tour nocturno por el Toledo misterioso. Muy recomendable. Precio: unos 12 €. [Resérvalo 
-en este enlace](https://www.civitatis.com/es/toledo/tour-toledo-misterioso/?aid=10211) 
-(no se cobra cancelación). 
+📌 Tour nocturno por el Toledo misterioso. Muy recomendable. Precio: unos 12 €. 
+[Resérvalo en este 
+enlace](https://www.civitatis.com/es/toledo/tour-toledo-misterioso/?aid=10211) (no se 
+cobra cancelación). 
 
 ### La Catedral Primada de Toledo
 
 Este espléndido edificio de estilo gótico es, quizás, uno de los lugares que hay que ver 
-en Toledo (y en condiciones). 📌 Por su envergadura e importancia, la [Catedral 
-Primada](https://etheriamagazine.com/2022/01/19/que-ver-en-catedral-de-toledo/) tiene 
-**un artículo propio** donde se detalla todo lo que debéis saber antes de visitarla. 
-Aquí os adelantamos algunas curiosidades. Su portada más antigua luce uno de los pocos 
-relojes de una sola manilla que existen en el mundo; la única torre del edificio acoge 
-en su interior la campana más grande de toda España, conocida popularmente como la 
-“Campana Gorda” y sus muros conservan multitud de reliquias, entre ellas un brazo de 
-Santa Lucía, el Arca del Santísimo Sacramento o el relicario de la Santa Espina. 
+en Toledo (y en condiciones). 📌 Por su envergadura e importancia, la {{< reflink 
+path=posts/2022/01/que-ver-en-catedral-de-toledo >}} tiene **un artículo propio** donde 
+se detalla todo lo que debéis saber antes de visitarla. Aquí os adelantamos algunas 
+curiosidades. Su portada más antigua luce uno de los pocos relojes de una sola manilla 
+que existen en el mundo; la única torre del edificio acoge en su interior la campana más 
+grande de toda España, conocida popularmente como la “Campana Gorda” y sus muros 
+conservan multitud de reliquias, entre ellas un brazo de Santa Lucía, el Arca del 
+Santísimo Sacramento o el relicario de la Santa Espina. 
 
 📌Consejo para ahorrar: la **Toledo Card** incluye la visita a la Catedral y a otros 
 monumentos, y un tour a pie. Además, no hay que hacer cola para realizar las visitas. 
@@ -238,8 +240,8 @@ protagonista. Cuatro poblados de época, mesones, cantinas, talleres y divertida
 actividades para sumergirse en un apasionante viaje en el tiempo. Totalmente 
 recomendable y para todos los públicos. 
 
-📌 ¿Por qué puede interesarte conocer Puy du Fou? [15 razones para visitar Puy du Fou 
-Toledo](https://etheriamagazine.com/2022/04/06/15-razones-para-visitar-puy-du-fou-toledo-en-2022/) 
+📌 ¿Por qué puede interesarte conocer Puy du Fou? {{< reflink 
+path=posts/2022/04/15-razones-para-visitar-puy-du-fou-toledo-en-2022 >}} 
 
 📌Entrada de Puy du Fou Toledo de adulto desde 29 €. [Consulta 
 disponibilidad](https://www.civitatis.com/es/toledo/entrada-puy-du-fou/?aid=10211). 
@@ -264,8 +266,7 @@ clásico de la alta gastronomía en un ambiente entrañable.
 
 No te pierdas este artículo: . 
 
-📌 [10 grandes restaurantes para saborear lo mejor de 
-Toledo](https://etheriamagazine.com/2020/11/03/comer-en-toledo-mejores-restaurantes-bares-tapas/). 
+📌 {{< reflink path=posts/2020/11/comer-en-toledo-mejores-restaurantes-bares-tapas >}}. 
 
 ### Visitas guiadas en Toledo
 

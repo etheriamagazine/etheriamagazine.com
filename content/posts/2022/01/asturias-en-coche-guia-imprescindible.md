@@ -1,7 +1,7 @@
 ---
 title: "Ruta en coche por Asturias con amigas"
 date: 2022-01-17
-coverImage: https://fotos.etheriamagazine.com/2022/01/playa-Torimbia.jpg
+cover: https://fotos.etheriamagazine.com/2022/01/playa-Torimbia.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -32,26 +32,26 @@ Asturias en coche: visitar sus playas, recorrer sus pueblos de interior, las ciu
 los entornos naturales. Sea cual sea tu elección o incluso si lo mezclas todo, el 
 resultado será acertado. 
 
-1\. [Playas de Asturias](#playas-asturias)[:](#andrin-ballota) **•** [Andrín y 
-Ballo](#andrin-ballota) ****•**** [Torimbia, paraíso nudista](#playa-torimbia) ****•**** [Gulpiyuri](#playa-Gulpiyuri) 
-****•**** [](#playa-Gulpiyuri)[Los Quebrantos](#playa-quebrantos) **•**[Playa del 
-Silencio](#playa-silencio) 
+1\. [Playas de Asturias](#playas-asturias)[:](#andrin-ballota) **- ** [Andrín y 
+Ballo](#andrin-ballota) ****- **** [Torimbia, paraíso nudista](#playa-torimbia) ****- 
+**** [Gulpiyuri](#playa-Gulpiyuri) ****- **** [](#playa-Gulpiyuri)[Los 
+Quebrantos](#playa-quebrantos) **- **[Playa del Silencio](#playa-silencio) 
 
-2\. [Pueblos costeros de Asturias](#pueblos-bonitos-asturias): **•** [Llanes](#imprescindibles-llanes) 
-****•**** [Niembro](#niembro-asturias) ****•**** [Ribadesella](#ribadesella-asturias) 
-****•**** [Lastres](#lastres-asturias) ****•**** [Cudillero](#cudillero-asturias) 
-****•**** [Luarca](#luarca-asturias) 
+2\. [Pueblos costeros de Asturias](#pueblos-bonitos-asturias): **- ** 
+[Llanes](#imprescindibles-llanes) ****- **** [Niembro](#niembro-asturias) ****- **** 
+[Ribadesella](#ribadesella-asturias) ****- **** [Lastres](#lastres-asturias) ****- **** 
+[Cudillero](#cudillero-asturias) ****- **** [Luarca](#luarca-asturias) 
 
-3\. [Pueblos de interior](#pueblos-asturias)**:** **•** [San Juan de Beleño](#san-juan) 
-****•**** [Cazo y Pen](#cazo-pen) ****•**** [Cangas de Onís](#cangas-onis) ****•**** [Cangas 
-del Narcea](#cangas-narcea) 
+3\. [Pueblos de interior](#pueblos-asturias)**:** **- ** [San Juan de Beleño](#san-juan) 
+****- **** [Cazo y Pen](#cazo-pen) ****- **** [Cangas de Onís](#cangas-onis) ****- **** 
+[Cangas del Narcea](#cangas-narcea) 
 
-4\. [Triángulo para urbanitas](#ciudades-asturias)**:** **•** [Gijón](#gijon) ****•**** [Avilés](#aviles) 
-****•**** [Oviedo](#oviedo) 
+4\. [Triángulo para urbanitas](#ciudades-asturias)**:** **- ** [Gijón](#gijon) ****- 
+**** [Avilés](#aviles) ****- **** [Oviedo](#oviedo) 
 
-5\. [Naturaleza en estado puro](#parques-asturias)[:](#picos-europa) **•** [P. N. Picos 
-de Europa](#picos-europa) **•** [P. N. y Reserva de la Biosfera de 
-Ponga](#biosfera-ponga) **•**[Reserva Natural Integral de Muniellos](#parque-muniellos) 
+5\. [Naturaleza en estado puro](#parques-asturias)[:](#picos-europa) **- ** [P. N. Picos 
+de Europa](#picos-europa) **- ** [P. N. y Reserva de la Biosfera de 
+Ponga](#biosfera-ponga) **- **[Reserva Natural Integral de Muniellos](#parque-muniellos) 
 
 ![playas andrin y ballota asturias](https://fotos.etheriamagazine.com/2022/01/playas-Andrin-Ballota.jpg "Las playas gemelas de Andrín y Ballota. © Yolanda Cardo")
 
@@ -136,8 +136,8 @@ visitantes y terrazas, se percibe aún mientras paseamos por las calles del casc
 antiguo, por las laderas de la ría donde reposan coloridas embarcaciones o mientras 
 fotografiamos los bloques de hormigón de la escollera, pintados por Agustín Ibarrola. 
 
-? No te pierdas el artículo: [Llanes, una ruta en coche inolvidable por la costa 
-asturiana](https://etheriamagazine.com/2020/08/17/mejores-playas-llanes-costa-asturias/). 
+? No te pierdas el artículo: {{< reflink 
+path=posts/2020/08/mejores-playas-llanes-costa-asturias >}}. 
 
 #### Niembro
 
@@ -292,8 +292,8 @@ un monumental espacio construido entre 1946 y 1956 que alberga en su interior un
 universidad, un teatro y una iglesia cuya torre mide nada menos que 130 metros de 
 altura. 
 
-? No te pierdas el artículo: [Gijón: una gastroescapada que te dejará muy buen sabor de 
-boca](https://etheriamagazine.com/2021/01/25/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias/). 
+? No te pierdas el artículo: {{< reflink 
+path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias >}}. 
 
 ![san miguel lillo santa maria naranco](https://fotos.etheriamagazine.com/2022/01/San-Miguel-de-Lillo-y-Naranco.jpg "San Miguel de Lillo y Santa María del Naranco, dos joyas del prerrománico en Oviedo. © Y. Cardo")
 
@@ -312,8 +312,8 @@ recomendable, como también los es el cercano museo de Bellas Artes. Y para disf
 su ambiente y de su gastronomía, nada como pasear por el conocido como Bulevar de la 
 Sidra en la calle Gascona. 
 
-? No te pierdas el artículo: [8 planazos para descubrir Oviedo con 
-amigas](https://etheriamagazine.com/2021/10/05/planes-imprescindibles-en-oviedo-con-amigas/). 
+? No te pierdas el artículo: {{< reflink 
+path=posts/2021/10/planes-imprescindibles-en-oviedo-con-amigas >}}. 
 
 ![ruta arcenorio asturias](https://fotos.etheriamagazine.com/2022/01/ruta-Arcenorio.jpg "Mirador en la ruta del Arcenorio. © Yolanda Cardo")
 
@@ -329,9 +329,8 @@ cumbres, a pesar de las restricciones de acceso, resultan un destino excesivamen
 masificado durante el buen tiempo. Para disfrutarlas y protegerlas, mejor fuera de 
 temporada. 
 
-? No te pierdas el artículo: [Picos de Europa, una ruta por la columna vertebral de 
-Asturias, León y 
-Cantabria](https://etheriamagazine.com/2018/10/17/picos-de-europa-ruta-por-asturias-leon-y-cantabria/). 
+? No te pierdas el artículo: {{< reflink 
+path=posts/2018/10/picos-de-europa-ruta-por-asturias-leon-y-cantabria >}}. 
 
 #### Parque Natural y Reserva de la Biosfera de Ponga
 
@@ -373,12 +372,14 @@ inolvidables.
 
 ##### Dónde dormir en tu ruta en coche en Asturias
 
-• **Casa rural La casina de Toñita**. Un encantador alojamiento en la aldea de Cazo con 
-unas espectaculares vistas. Tel. 679 593 404 o en lacasinadetonita@gmail.com • Para una 
-estancia de lujo, el [Hotel CoolRooms de Luces](https://palaciodeluces.com/). El único 
-Relais&Chateaux del Principado a solo 2 km de Lastres. • En Oviedo el [Gran Hotel las 
-Caldas](https://www.granhotellascaldas.com/es/). Un hotel balneario perfecto para 
-descansar. 
+- **Casa rural La casina de Toñita**. Un encantador alojamiento en la aldea de Cazo con 
+unas espectaculares vistas. Tel. 679 593 404 o en lacasinadetonita@gmail.com 
+
+- Para una estancia de lujo, el [Hotel CoolRooms de Luces](https://palaciodeluces.com/). 
+El único Relais&Chateaux del Principado a solo 2 km de Lastres. 
+
+- En Oviedo el [Gran Hotel las Caldas](https://www.granhotellascaldas.com/es/). Un hotel 
+balneario perfecto para descansar. 
 
 ##### Información práctica
 

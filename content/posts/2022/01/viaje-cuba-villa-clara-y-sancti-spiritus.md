@@ -1,7 +1,7 @@
 ---
 title: "Viaja al corazón de Cuba: Villa Clara y Sancti Spíritus"
 date: 2022-01-03
-coverImage: https://fotos.etheriamagazine.com/2020/07/Cuba-valle-ingenios.jpg
+cover: https://fotos.etheriamagazine.com/2020/07/Cuba-valle-ingenios.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -169,8 +169,8 @@ para conseguir la mejores conexiones desde tu lugar de origen.
 ##### Dónde dormir
 
 Algunos hoteles que te pueden interesar son el [Iberostar Cayo 
-Ensenachos](https://www.iberostar.com/hoteles/cayo-ensenachos/iberostar-ensenachos/), el [Hotel 
-Valentín Perla Blanca](https://www.hotelvalentinperlablanca.com/) y el [Meliá Las 
+Ensenachos](https://www.iberostar.com/hoteles/cayo-ensenachos/iberostar-ensenachos/), el 
+[Hotel Valentín Perla Blanca](https://www.hotelvalentinperlablanca.com/) y el [Meliá Las 
 Dunas](https://www.melia.com/es/hoteles/cuba/cayo-santa-maria/melia-las-dunas/index.htm). 
 
 **Dónde comer** 
@@ -181,8 +181,6 @@ defraudan.
 
 ### Te puede interesar...
 
-[Viajar con amigas a Cuba siempre es buena 
-idea](https://etheriamagazine.com/2019/01/25/viajar-con-amigas-a-cuba/). 
+{{< reflink path=posts/2019/01/viajar-con-amigas-a-cuba >}}. 
 
-[Prepara tu viaje a… 
-Cuba](https://etheriamagazine.com/2020/05/08/prepara-tu-viaje-a-cuba-libros-peliculas/).
+{{< reflink path=posts/2020/05/prepara-tu-viaje-a-cuba-libros-peliculas >}}.

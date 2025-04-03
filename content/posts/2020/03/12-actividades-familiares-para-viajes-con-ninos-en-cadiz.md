@@ -1,7 +1,7 @@
 ---
 title: "12 actividades para hacer con niños en la provincia de Cádiz"
 date: 2020-03-12
-coverImage: https://fotos.etheriamagazine.com/2020/03/bautizo-submarinismo-cadiz.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/bautizo-submarinismo-cadiz.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-La provincia de Cádiz, especialmente la zona del litoral, sigue siendo año tras año uno 
-de los destinos más demandados para los viajes en familia. Como este tipo de viaje con 
-niños suele tener una duración mínima de 5 días, os vamos a recomendar algunas 
+**La provincia de Cádiz, especialmente la zona del litoral, sigue siendo año tras año 
+uno de los destinos más demandados para los viajes en familia. Como este tipo de viaje 
+con niños suele tener una duración mínima de 5 días, os vamos a recomendar algunas 
 actividades y lugares que merece la pena conocer con los más pequeños (y los que no lo 
-son tanto). 
+son tanto).** 
 
 ![Playa Fuente del Gallo (Conil).](https://fotos.etheriamagazine.com/2020/03/playa-familiar-conil.jpg "Playa Fuente del Gallo (Conil). © Etheria Magazine")
 
@@ -31,8 +31,8 @@ que oferta. Si vas a Chiclana, la **playa de la Barrosa** sería la más adecuad
 Conil destacan las **playas de los Bateles y La Fontanilla**, con bandera azul. Vejer 
 brinda la **playa del Palmar**, amplia y con buenos chiringuitos casi a pie de playa. 
 
-📍**Y si veraneas en Conil (o cerca):** [10 excursiones ideales desde Conil de la 
-Frontera](https://etheriamagazine.com/2023/08/02/mejores-excursiones-desde-conil/) 
+📍**Y si veraneas en Conil (o cerca):** {{< reflink 
+path=posts/2023/08/mejores-excursiones-desde-conil >}} 
 
 La **playa de Zahara de los Atunes** también es estupenda, al igual que las Caños de 
 Meca y la Yerbabuena, en Barbate. En Tarifa, no hay que perderse la **playa de 
@@ -44,12 +44,10 @@ Como el viento de levante puede hacer de las suyas, id preparados con sombrillas
 contrapesos y una pequeña tienda plegable donde los más pequeños se puedan echar la 
 siesta sin acabar enterrados en la arena. 
 
-✅ **NO PIERDAS**: [15 playas y calas más bonitas de Conil y cómo llegar a las 
-mismas](https://etheriamagazine.com/2021/02/05/mejores-playas-y-calas-de-conil-de-la-frontera/). 
+✅ **NO PIERDAS**: {{< reflink 
+path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
 
-✅ **NO PIERDAS:** [La mejor guía de CÁDIZ PROVINCIA para organizar tu viaje: pueblos y 
-visitas de interés (con mapa 
-incluido).](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/) 
+✅ **NO PIERDAS:** {{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}} 
 
 ![Museo del Títere de Cádiz](https://fotos.etheriamagazine.com/2019/10/museo-titere.cadiz_.jpg "Museo del Títere de Cádiz. © Etheria Magazine")
 
@@ -64,9 +62,9 @@ capital](http://etheriamagazine.com/2019/10/17/10-planes-con-ninos-en-cadiz-capi
 te damos otras muchas ideas. 
 
 En Cádiz también existen los [típicos 
-Freetour](https://www.civitatis.com/es/cadiz/free-tour-cadiz/?aid=10211) (gratuitos), [visitas 
-guiadas](https://www.civitatis.com/es/cadiz/visita-guiada-cadiz/?aid=10211) desde 10 €. 
-El [autobús 
+Freetour](https://www.civitatis.com/es/cadiz/free-tour-cadiz/?aid=10211) (gratuitos), 
+[visitas guiadas](https://www.civitatis.com/es/cadiz/visita-guiada-cadiz/?aid=10211) 
+desde 10 €. El [autobús 
 turístico](https://www.civitatis.com/es/cadiz/autobus-turistico-cadiz/?aid=10211) sale 
 por 24,99 € y es una buena opción cuando estéis cansados. 
 
@@ -167,28 +165,29 @@ desniveles son muy pronunciados, por lo que si llevas una silla de paseo tendrá
 hacer un esfuerzo para subir algunas calles. Exceptuando este detalle, es un pueblo que 
 gusta mucho a pequeños y mayores. Entre lo más pintoresco que se puede hacer en Vejer 
 están los paseos en burro, las visitas teatralizadas de las Marimantas, y visitar los 
-molinos de viento. También dispone de un [freetour](https://www.civitatis.com/es/vejer-de-la-frontera/?aid=10211) 
-por si prefieres hacer la visita guiada. 
+molinos de viento. También dispone de un 
+[freetour](https://www.civitatis.com/es/vejer-de-la-frontera/?aid=10211) por si 
+prefieres hacer la visita guiada. 
 
-📌 NO TE LO PIERDAS: [10 actividades imprescindibles en Vejer de la 
-Frontera](https://etheriamagazine.com/2020/08/11/10-actividades-vejer-de-la-frontera-que-ver-hacer/). 
+📌 NO TE LO PIERDAS: {{< reflink 
+path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}}. 
 
 ![taller hacer pan, molinos el bosque](https://fotos.etheriamagazine.com/2020/03/molino-taller-pan-el-bosque.jpg "© Molino de Abajo (El Bosque).")
 
 ## 9\. Hacer pan y recolectar miel
 
 Estas dos actividades son igual de entretenidas y didácticas: aprender a hacer pan y 
-conocerlo todo sobre apicultura y las abejas. Para hacer la primera hay que dirigirse al [Molino 
-de Abajo](http://www.elmolinodeabajo.es/) (en **El Bosque**), que es donde se sitúa un 
-antiguo molino hidráulico del siglo XVIII. Allí los pequeños conocerán todo el proceso 
-del pan, desde la molienda del trigo hasta la cocción en el horno. Luego se llevarán su 
-pan recién hecho. La visita del museo, instalado en el molino, con el taller incluido 
-cuesta solo 10 € por persona. 
+conocerlo todo sobre apicultura y las abejas. Para hacer la primera hay que dirigirse al 
+[Molino de Abajo](http://www.elmolinodeabajo.es/) (en **El Bosque**), que es donde se 
+sitúa un antiguo molino hidráulico del siglo XVIII. Allí los pequeños conocerán todo el 
+proceso del pan, desde la molienda del trigo hasta la cocción en el horno. Luego se 
+llevarán su pan recién hecho. La visita del museo, instalado en el molino, con el taller 
+incluido cuesta solo 10 € por persona. 
 
 ![museo miel, visita colmenas, jerez, visitas familiares](https://fotos.etheriamagazine.com/2020/03/miel-rancho-cortesano.jpg "Actividad con colmenas en © Rancho Cortesano.")
 
-Para saborear la miel tendremos que ir a **Jerez de la Frontera** donde se encuentra [Rancho 
-Cortesano](https://www.ranchocortesano.net/talleres.php), que tiene más de 2.000 
+Para saborear la miel tendremos que ir a **Jerez de la Frontera** donde se encuentra 
+[Rancho Cortesano](https://www.ranchocortesano.net/talleres.php), que tiene más de 2.000 
 colmenas por toda la provincia. Allí se puede visitar el museo para conocer la 
 importancia de las abejas, de la polinización y los distintos tipos de mieles. En sus 
 talleres suelen incluir: visita a las colmenas, catas de miel y polen, envasado y 
@@ -239,14 +238,10 @@ niños muy pequeños).
 
 ### Sigue leyendo...
 
-[Siete emocionantes experiencias para conectar con 
-Andalucía](https://etheriamagazine.com/2021/07/16/experiencias-para-conectar-con-andalucia/). 
+{{< reflink path=posts/2021/07/experiencias-para-conectar-con-andalucia >}}. 
 
-[16 planes imprescindibles en Conil con 
-amigas](https://etheriamagazine.com/2021/07/05/los-mejores-planes-en-conil-con-amigas/). 
+{{< reflink path=posts/2021/07/los-mejores-planes-en-conil-con-amigas >}}. 
 
-[8 excursiones en Málaga para hacer con 
-niños](https://etheriamagazine.com/2021/07/12/excursiones-en-malaga-con-ninos/). 
+{{< reflink path=posts/2021/07/excursiones-en-malaga-con-ninos >}}. 
 
-[Huelva con niños: 6 planes para aprovechar el viaje al 
-máximo](https://etheriamagazine.com/2021/06/21/planes-en-huelva-con-ninos/).
+{{< reflink path=posts/2021/06/planes-en-huelva-con-ninos >}}.

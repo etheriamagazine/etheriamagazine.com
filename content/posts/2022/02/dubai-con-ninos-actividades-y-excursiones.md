@@ -1,7 +1,7 @@
 ---
 title: "Dubái con niños: 8 actividades para disfrutar en familia y una novedad"
 date: 2022-02-25
-coverImage: https://fotos.etheriamagazine.com/2022/02/Dubai-museo-del-futuro.jpg
+cover: https://fotos.etheriamagazine.com/2022/02/Dubai-museo-del-futuro.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -157,7 +157,8 @@ además de albergar la recepción del **Burj Khalifa**, es el [Dubai Acuario & U
 Zoo](https://thedubaimall.com/en/entertain-detail/dubai-aquarium-umderwatep-zoo-1). 
 Alberga miles de especies marinas en un entorno espectacular, en el que toman 
 protagonismo las rayas y los tiburones, sobre todo cuando cruzas por el túnel 
-transparente que atraviesa el acuario. Puedes reservar las entradas con [Tiqets](https://tidd.ly/3t3D5au). 
+transparente que atraviesa el acuario. Puedes reservar las entradas con 
+[Tiqets](https://tidd.ly/3t3D5au). 
 
 ![Acuario del Dubai Mall.](https://fotos.etheriamagazine.com/2022/02/Dubai-Acuario-Zoológico-Subacuático.jpg "Acuario del Dubai Mall. © Turismo de Dubái")
 
@@ -183,8 +184,8 @@ iluminación del edificio más alto de la ciudad.
 Podrás pasear a su alrededor, cruzar el puente de casi trescientos metros que atraviesa 
 estas fuentes y bailar al ritmo de canciones de todo tipo, con autores desde Michael 
 Jackson hasta Andrea Bocelli. También podéis dar un paseo por las fuentes a bordo de un 
-abra (barco tradicional, puedes reservar la experiencia con [Tiqets](https://tidd.ly/3v7FpQA)) 
-o de unos [divertidos 
+abra (barco tradicional, puedes reservar la experiencia con 
+[Tiqets](https://tidd.ly/3v7FpQA)) o de unos [divertidos 
 botes](https://tickets.atthetop.ae/atthetop/en-us?_ga=2.226724063.312129420.1645435694-1736845880.1645435694) 
 para verlas de cerca. El espectáculo dura cinco minutos cada media hora, y cada vez es 
 diferente. Una opción para disfrutarlo durante más tiempo es cenar en alguno de los 
@@ -209,11 +210,8 @@ Unidos. No puede faltar en la agenda de tu próxima visita a Dubái.
 
 ### También te puede interesar:
 
-[10 visitas para aprovechar al máximo una escala en 
-Dubái](https://etheriamagazine.com/2019/05/31/como-aprovechar-una-escala-en-dubai/) 
+{{< reflink path=posts/2019/05/como-aprovechar-una-escala-en-dubai >}} 
 
-[Hotel One&Only Royal Mirage, un cinco estrellas perfecto para vivir Dubái con 
-estilo](https://etheriamagazine.com/2022/02/04/hotel-lujo-one-only-royal-mirage-dubai/) 
+{{< reflink path=posts/2022/02/hotel-lujo-one-only-royal-mirage-dubai >}} 
 
-[Expo 2020 de Dubái: cómo aprovechar el tiempo durante tu 
-visita](https://etheriamagazine.com/2021/12/20/visita-a-expo-2020-dubai/).
+{{< reflink path=posts/2021/12/visita-a-expo-2020-dubai >}}.

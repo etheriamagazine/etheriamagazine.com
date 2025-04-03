@@ -1,7 +1,7 @@
 ---
 title: "Consejos prácticos para visitar el desfiladero o congost de Mont-rebei (Lleida)"
 date: 2020-05-13
-coverImage: https://fotos.etheriamagazine.com/2020/05/mont-rebei-gr1.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/mont-rebei-gr1.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-La naturaleza ha esculpido en España auténticas maravillas arquitectónicas que compiten 
-en espectacularidad. Una de ellas es el desfiladero o congost de Mont-rebei, que hace de 
-frontera natural entre Cataluña y Aragón. Te contamos cómo es y qué opciones tienes para 
-recorrerlo. 
+**La naturaleza ha esculpido en España auténticas maravillas arquitectónicas que 
+compiten en espectacularidad. Una de ellas es el desfiladero o congost de Mont-rebei, 
+que hace de frontera natural entre Cataluña y Aragón. Te contamos cómo es y qué opciones 
+tienes para recorrerlo.** 
 
 ![El sendero del desfiladero de Mont-rebei fue horadado en la roca como un camino de herradura.](https://fotos.etheriamagazine.com/2020/05/excursion-mont-rebei-caminata.jpg "El sendero del desfiladero de Mont-rebei fue horadado en la roca como un camino de herradura. © Pepa García")
 
@@ -115,7 +115,8 @@ porque hay varios, y puede dar lugar a confusión.
 
 Civitatis también cuenta con [excursiones en 
 Kayak](https://www.civitatis.com/es/viacamp-y-litera/alquiler-kayak-mont-rebei/?aid=10211) 
-(55 €/ 2 adultos por un tiempo de 6 horas y media) y salida desde Montfalco, y en [catamarán](https://www.civitatis.com/es/viacamp-y-litera/paseo-catamaran-congost-mont-rebei/?aid=10211) 
+(55 €/ 2 adultos por un tiempo de 6 horas y media) y salida desde Montfalco, y en 
+[catamarán](https://www.civitatis.com/es/viacamp-y-litera/paseo-catamaran-congost-mont-rebei/?aid=10211) 
 (adultos: 25 € y niños de 3 a 13 años, 15 €) también desde la parte de Huesca. Échales 
 un vistazo por si te interesan, ofrecen todas las garantías y cancelación gratuita. 
 
@@ -171,11 +172,9 @@ Lleida](http://www.lleidatur.com/Turismo/Visita/Desfiladero-de-Mont-rebei/177.as
 
 **También te puede interesar...** 
 
-[8 experiencias que sólo puedes vivir en el Pallars Jussà 
-(Lleida)](https://etheriamagazine.com/2021/06/09/8-experiencias-en-el-pallars-jussa-excursiones-en-lleida/). 
+{{< reflink path=posts/2021/06/8-experiencias-en-el-pallars-jussa-excursiones-en-lleida 
+>}}. 
 
-[10 rincones de Lleida que te 
-sorprenderán](https://etheriamagazine.com/2018/10/10/10-rincones-de-lleida-que-te-sorprenderan/). 
+{{< reflink path=posts/2018/10/10-rincones-de-lleida-que-te-sorprenderan >}}. 
 
-[Descubre estos 8 lugares secretos de Cataluña que deberías 
-conocer](https://etheriamagazine.com/2021/02/22/lugares-secretos-de-cataluna-que-visitar/).
+{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Planes para comerte Murcia con amigas"
 date: 2021-07-29
-coverImage: https://fotos.etheriamagazine.com/2021/07/Mercado-de-Correos-murcia.jpg
+cover: https://fotos.etheriamagazine.com/2021/07/Mercado-de-Correos-murcia.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Cynthia Martín
 ---
 
-Conocer la Región de Murcia con amigas puede ser el plan que necesitas este año. La 
+**Conocer la Región de Murcia con amigas puede ser el plan que necesitas este año. La 
 capital, Murcia, ofrece playas, monumentos, historia y parajes maridados con nuevas 
 propuestas gastronómicas y una completa oferta para el paladar. No olvides que fue 
-Capital Española de la Gastronomía hace unos años. 
+Capital Española de la Gastronomía hace unos años.** 
 
 ![Tapeo junto al mar en Collados Beach, Murcia.](https://fotos.etheriamagazine.com/2021/07/Collados-Beach-murcia.jpg "Tapeo junto al mar en © Collados Beach, Murcia.")
 
@@ -180,16 +180,15 @@ los amantes de la arquitectura. ¿Quién no quiere bañarse con una vista donde 
 confluye con el espacio protegido de las Salinas y Arenales de San Pedro del Pinatar con 
 un icono arquitectónico de aspecto futurista? 
 
-**Dirección:** La Manga - Urb. Veneciola s/n. San Javier. 📌 Confirma apertura en 
-colladosbeach.com 
+**Dirección:** La Manga 
+
+- Urb. Veneciola s/n. San Javier. 📌 Confirma apertura en colladosbeach.com 
 
 **Otros planes con amigas** 
 
-[10 planes ineludibles en Conil con amigas para disfrutar de día y de 
-noche](https://etheriamagazine.com/2021/07/05/planes-en-conil-con-amigas-o-en-pareja/). 
+{{< reflink path=posts/2021/07/los-mejores-planes-en-conil-con-amigas >}}. 
 
-[Planes en la Ribeira Sacra para descubrir sus mayores 
-secretos](https://etheriamagazine.com/2021/06/17/planes-en-la-ribeira-sacra-con-amigas/). 
+{{< reflink path=posts/2021/06/planes-en-la-ribeira-sacra-con-amigas >}}. 
 
-[12 planes en Getxo con amigas para disfrutar al estilo 
-vasco](https://etheriamagazine.com/2021/06/14/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco/).
+{{< reflink 
+path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.

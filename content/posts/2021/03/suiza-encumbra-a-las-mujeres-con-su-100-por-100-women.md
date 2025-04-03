@@ -1,7 +1,7 @@
 ---
 title: "Suiza encumbra a las mujeres con su 100% Women"
 date: 2021-03-12
-coverImage: https://fotos.etheriamagazine.com/2021/03/viajes-mujeres-suiza.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/viajes-mujeres-suiza.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -43,8 +43,9 @@ Entre las mujeres que ya han aceptado el reto están la **cantante suiza de pop 
 Egli**, que está ilusionada con la idea de ascender en el mes de julio al Cervino, y la 
 primera alpinista saudí en el Everest, **Raha Moharrak**, que aspira a llegar a la 
 cumbre del Dufour, el pico más alto de Suiza. Todos los avances y novedades del “100% 
-Women Peak Challenge” irán apareciendo en la web [Peakchallenge.myswitzerland.com](https://peakchallenge.myswitzerland.com/en/), 
-donde también se irán subiendo los selfis de las participantes en las distintas cumbres. 
+Women Peak Challenge” irán apareciendo en la web 
+[Peakchallenge.myswitzerland.com](https://peakchallenge.myswitzerland.com/en/), donde 
+también se irán subiendo los selfis de las participantes en las distintas cumbres. 
 
 > “Suiza cuenta con más de 230 propuestas turísticas con enfoque femenino, además de guías 
 > que facilitan a todas las mujeres el formar parte de 100% Women” 
@@ -83,11 +84,8 @@ de estos deportes para practicar otras actividades”.
 
 ### Más planes para mujeres...
 
-[Cagliari, un viaje a Cerdeña para mujeres de buen 
-comer](https://etheriamagazine.com/2020/09/17/guia-basica-cagliari-para-mujeres-viajeras/). 
+{{< reflink path=posts/2020/09/guia-basica-cagliari-para-mujeres-viajeras >}}. 
 
-[Planes imprescindibles si viajas sola o con amigas a 
-Lanzarote](https://etheriamagazine.com/2020/06/11/viajar-sola-amigas-imprescindible-lanzarote/). 
+{{< reflink path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}}. 
 
-[10 planes originales en Bilbao con 
-amigas](https://etheriamagazine.com/2020/09/09/10-planes-originales-en-bilbao-con-amigas/).
+{{< reflink path=posts/2020/09/10-planes-originales-en-bilbao-con-amigas >}}.

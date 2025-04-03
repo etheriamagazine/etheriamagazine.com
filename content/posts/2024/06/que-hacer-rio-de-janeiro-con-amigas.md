@@ -1,7 +1,7 @@
 ---
 title: "Río de Janeiro, una \"cidade maravilhosa\" para viajar con amigas"
 date: 2024-06-29
-coverImage: https://fotos.etheriamagazine.com/2024/06/viaje-amigas-rio-janeiro.jpg
+cover: https://fotos.etheriamagazine.com/2024/06/viaje-amigas-rio-janeiro.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -216,8 +216,6 @@ y con máxima garantía.
 
 **También en Etheria Magazine** 
 
-[Viena con amigas, proyectos en femenino en tres barrios sorprendentes de la ciudad 
-imperial](https://etheriamagazine.com/2024/04/26/tres-barrios-viena-con-emprendedoras/). 
+{{< reflink path=posts/2024/04/tres-barrios-viena-con-emprendedoras >}}. 
 
-[Escapada con amigas a Collioure y su Costa 
-Bermeja](https://etheriamagazine.com/2024/06/07/collioure-costa-bermeja-con-amigas/).
+{{< reflink path=posts/2024/06/collioure-costa-bermeja-con-amigas >}}.

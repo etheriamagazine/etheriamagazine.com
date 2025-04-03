@@ -1,7 +1,7 @@
 ---
 title: "Cómo enamorarse de Navarra en 3 pueblos y 6 visitas culturales"
 date: 2023-10-16
-coverImage: https://fotos.etheriamagazine.com/2023/10/vistas-gallipienzo.jpg
+cover: https://fotos.etheriamagazine.com/2023/10/vistas-gallipienzo.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-En este viaje os invitamos a recorrer algunos de los pueblos más bonitos de Navarra, 
+**En este viaje os invitamos a recorrer algunos de los pueblos más bonitos de Navarra, 
 monumentos históricos que son un referente como el Castillo de Javier y el Monasterio de 
 Leyre, además de otros sitios secretos que te desvelaremos en el artículo. Esta es, sin 
-duda, una ruta perfecta para los amantes de la historia y la cultura. 
+duda, una ruta perfecta para los amantes de la historia y la cultura.** 
 
 ![Vistas desde Gallipienzo.](https://fotos.etheriamagazine.com/2023/10/vistas-gallipienzo.jpg "Vistas desde Gallipienzo. © Pepa G./ Etheria Magazine")
 
@@ -225,9 +225,8 @@ visitas como la **Selva de Irati** o la **foz de Arbaiún.**
 ### Dónde dormir
 
 Navarra dispone de un amplio abanico de propuestas de alojamiento entre las que destacan 
-las [Cabañas en los árboles de Iratiko 
-Kabiak](https://etheriamagazine.com/2023/10/06/iratiko-kabiak-cabanas-arboles-irati/), 
-situadas a un paso de Orbaizeta y de la Selva de Irati; el [hotel Heredad 
+las {{< reflink path=posts/2023/10/iratiko-kabiak-cabanas-arboles-irati >}}, situadas a 
+un paso de Orbaizeta y de la Selva de Irati; el [hotel Heredad 
 Beragu](https://www.heredadberaguhotel.com/), en Gallipienzo Antiguo, lleno de encanto, 
 con un buen restaurante y un entorno espectacular; y la **Hospedería Santa Fe** 
 (santafehospederia.com), con unas instalaciones sencillas, pero rodeada de paz y 
@@ -253,8 +252,7 @@ Navarra](https://www.visitnavarra.es/es/)
 
 ✅ **También te puede interesar...** 
 
-[Tierra Estella y Tierras de Iranzu, planes para un viaje en familia a 
-Navarra](https://etheriamagazine.com/2021/02/08/navarra-en-familia-tierra-estella-y-tierras-de-iranzu/). 
+{{< reflink path=posts/2021/02/navarra-en-familia-tierra-estella-y-tierras-de-iranzu 
+>}}. 
 
-[Rutas en el hayedo encantado de Urbasa y en Urederra 
-(Navarra)](https://etheriamagazine.com/2020/10/05/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra/).
+{{< reflink path=posts/2020/10/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}.

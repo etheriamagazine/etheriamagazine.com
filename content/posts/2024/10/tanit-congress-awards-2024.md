@@ -1,7 +1,7 @@
 ---
 title: "Tanit Congress &amp; Awards 2024, un tributo al liderazgo femenino"
 date: 2024-10-30
-coverImage: https://fotos.etheriamagazine.com/2024/10/Premios-Tanit-2024.jpg
+cover: https://fotos.etheriamagazine.com/2024/10/Premios-Tanit-2024.jpg
 categories: 
   - mujeres-top
   - proyectos
@@ -117,5 +117,4 @@ Detección Precoz del Cáncer y la **Fundación Conciencia**.
 
 **También en Etheria Magazine** 
 
-[Tanit Ibiza Conexion 2023, una apuesta por el liderazgo femenino en 
-Ibiza](https://etheriamagazine.com/2023/06/02/tanit-ibiza-conexion/)
+{{< reflink path=posts/2023/06/tanit-ibiza-conexion >}}

@@ -1,7 +1,7 @@
 ---
 title: "Siete películas navideñas que ayudan a superar la nostalgia viajera"
 date: 2020-12-24
-coverImage: https://fotos.etheriamagazine.com/2020/12/pelis-navidad-el-dia-de-la-bestia.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/pelis-navidad-el-dia-de-la-bestia.jpg
 categories: 
   - inspiración
 destino: 
@@ -18,12 +18,12 @@ Si te gusta el cine, te apasiona viajar y te encanta la Navidad no puedes perder
 
 Este romance navideño que rinde homenaje a la música de George Michael, empezando por el 
 propio título, es también una auténtica declaración de amor a **Londres** **en 
-Navidad**, como lo es también otra de nuestras películas navideñas favoritas: _[Love 
-Actually](https://etheriamagazine.com/2020/12/11/diez-peliculas-rodadas-en-londres/)_. 
-El rodaje de _Last Christmas_, protagonizada por Emilia Clarke y Emma Thompson, nos 
-lleva a lugares icónicos de la capital británica como el mercadillo de artesanía Apple 
-Market, en [Covent Garden](http://www.coventgarden.com/). Ahí se encuentra situada la 
-fabulosa tienda de adornos navideños Yuletide Wonderful donde trabaja la protagonista. 
+Navidad**, como lo es también otra de nuestras películas navideñas favoritas: _{{< 
+reflink path=posts/2020/12/diez-peliculas-rodadas-en-londres >}}_. El rodaje de _Last 
+Christmas_, protagonizada por Emilia Clarke y Emma Thompson, nos lleva a lugares 
+icónicos de la capital británica como el mercadillo de artesanía Apple Market, en 
+[Covent Garden](http://www.coventgarden.com/). Ahí se encuentra situada la fabulosa 
+tienda de adornos navideños Yuletide Wonderful donde trabaja la protagonista. 
 
 ![callejon de last christmas](https://fotos.etheriamagazine.com/2020/12/Last-Christmas-callejon-estrecho.jpg "El callejón más estrecho de Londres en 'Last Christmas'. © Universal Pictures Int.")
 
@@ -41,17 +41,19 @@ culinario a través de los puestos de comidas de diferentes países del mundo.
 ## 2\. A Zambia y Sudáfrica con 'Safari por Navidad' (2019)
 
 Kristin Davis (famosa por la serie de _Sexo en Nueva York_) y Rob Lowe protagonizan esta 
-historia de amor con moraleja medioambiental, realizada para [Netflix](https://www.netflix.com/es/title/80231468). 
-La historia nos muestra a una esposa recién abandonada por su marido que decide ir a 
-celebrar en Zambia la que iba a ser su segunda luna de miel. 
+historia de amor con moraleja medioambiental, realizada para 
+[Netflix](https://www.netflix.com/es/title/80231468). La historia nos muestra a una 
+esposa recién abandonada por su marido que decide ir a celebrar en Zambia la que iba a 
+ser su segunda luna de miel. 
 
 ![safari en navidad peli netflix](https://fotos.etheriamagazine.com/2020/12/peli-Safari-en-Navidad-Netflix.jpg "Fotograma de 'Safari en Navidad'. © Ilze Kitshoff/ Netflix")
 
 En este país africano la protagonista conocerá una reserva de elefantes que le hará 
-replantearse toda su vida. El rodaje tuvo lugar en la ciudad [sudafricana](https://etheriamagazine.com/2019/12/11/planes-para-desconectar-en-sudafrica/) 
-de Hoedspruit, muy próxima a reservas de caza privadas y al Parque Nacional Kruger; y en 
-Ciudad del Cabo. Las escenas de elefantes se filmaron en el orfanato Internacional de 
-Elefantes Game Rangers en Lusaka (Zambia). 
+replantearse toda su vida. El rodaje tuvo lugar en la ciudad {{< reflink 
+path=posts/2019/12/planes-para-desconectar-en-sudafrica >}} de Hoedspruit, muy próxima a 
+reservas de caza privadas y al Parque Nacional Kruger; y en Ciudad del Cabo. Las escenas 
+de elefantes se filmaron en el orfanato Internacional de Elefantes Game Rangers en 
+Lusaka (Zambia). 
 
 ![peliculas navidenas escondidos en brujas](https://fotos.etheriamagazine.com/2020/12/pelis-navidad-escondidos-en-brujas.jpg "'Escondidos en Brujas', una película que se desarrolla en Navidad.")
 
@@ -59,9 +61,10 @@ Elefantes Game Rangers en Lusaka (Zambia).
 
 De acuerdo, no es una de las típicas películas navideñas, pero esta comedia negra del 
 londinense Martin McDonagh merece estar en esta lista porque se desarrolla en fechas 
-navideñas y porque es una auténtica **guía turística** de [Brujas](https://etheriamagazine.com/2019/07/03/viaje-amigas-mujeres-de-brujas-flandes-belgica/). 
-La película protagonizada por Colin Farrel, Ralph Fiennes y Brendan Gleeson nos muestra 
-a dos asesinos a sueldo que cometen un error en uno de sus trabajos y se esconden en la 
+navideñas y porque es una auténtica **guía turística** de {{< reflink 
+path=posts/2019/07/viaje-amigas-mujeres-de-brujas-flandes-belgica >}}. La película 
+protagonizada por Colin Farrel, Ralph Fiennes y Brendan Gleeson nos muestra a dos 
+asesinos a sueldo que cometen un error en uno de sus trabajos y se esconden en la 
 capital de Flandes Occidental. Durante su estancia en la ciudad se comportan como 
 turistas: pasean por las calles, visitan iglesias, montan en barca por los canales y 
 disfrutan de la rica cerveza belga. Gran parte de la trama se desarrolla alrededor de la 
@@ -89,14 +92,14 @@ un modo de viajar alternativo que consiste en el **intercambio de casas**. En la
 película, ambas mujeres deciden cambiarse durante unos días las viviendas (y hasta sus 
 vidas). 
 
-Cameron Díaz (Amanda) viajará de [Los 
-Ángeles](https://etheriamagazine.com/2018/09/04/hollywood-los-angeles-eeuu/) a un 
-cottage –la típica vivienda rural inglesa– en **Surrey** (Inglaterra); mientras que Kate 
-Winslet (Iris) se trasladará a una mansión en **Los Ángeles**. Si quieres ver en vivo 
-alguno de los lugares inmortalizados en la película puedes empezar en **California**, 
-concretamente en San Marino, donde se ubica el exterior de la casa de Amanda, situada en 
-el 1883 de Orlando Road. Las escenas del exterior se filmaron en los estudios 
-californianos de Sony Pictures en Culver City. 
+Cameron Díaz (Amanda) viajará de {{< reflink 
+path=posts/2018/09/hollywood-los-angeles-eeuu >}} a un cottage –la típica vivienda rural 
+inglesa– en **Surrey** (Inglaterra); mientras que Kate Winslet (Iris) se trasladará a 
+una mansión en **Los Ángeles**. Si quieres ver en vivo alguno de los lugares 
+inmortalizados en la película puedes empezar en **California**, concretamente en San 
+Marino, donde se ubica el exterior de la casa de Amanda, situada en el 1883 de Orlando 
+Road. Las escenas del exterior se filmaron en los estudios californianos de Sony 
+Pictures en Culver City. 
 
 ![cameron diaz en the holiday](https://fotos.etheriamagazine.com/2020/12/cameron-diaz-The-holiday.jpg "Fotograma de Cameron Díaz en 'The Holiday'. © United International Pictures")
 
@@ -124,7 +127,8 @@ película, el [Polar Express del Grand Canyon
 Railway](https://www.thetrain.com/events/polar-express/) parte en busca de Papá Noel en 
 un viaje que dura aproximadamente 90 minutos. Otra opción interesante es coger el [Santa 
 Claus Express](https://www.vr.fi/en), un tren nocturno que cada noche sale de 
-**Helsinki** y llega a la residencia oficial de Papa Noel en [Laponia](https://etheriamagazine.com/2018/09/07/viaje-laponia-finlandesa-en-familia/). 
+**Helsinki** y llega a la residencia oficial de Papa Noel en {{< reflink 
+path=posts/2018/09/viaje-laponia-finlandesa-ninos-en-familia >}}. 
 
 ![pelicula navidad dia de la bestia alex de la iglesia](https://fotos.etheriamagazine.com/2020/12/pelis-navidad-el-dia-de-la-bestia.jpg "Fotograma de 'El día de la bestia', de Alex de la Iglesia.")
 
@@ -135,7 +139,8 @@ navideñas, esta comedia satánica de Álex de la Iglesia **habla de la navidad 
 manera**, ofreciendo una visión muy alejada de la típica celebración de esta época. Tres 
 personajes, un cura vasco, un heavy y un presentador de programas de ciencias ocultas, 
 están en Nochebuena buscando al Anticristo por las **calles de Madrid**. Desde el punto 
-de vista viajero nos gusta porque la película nos ofrece una visita guiada por [Madrid](https://etheriamagazine.com/tag/fin-de-semana-en-madrid/). 
+de vista viajero nos gusta porque la película nos ofrece una visita guiada por 
+[Madrid](https://etheriamagazine.com/tag/fin-de-semana-en-madrid/). 
 
 Inolvidable la escena de Álex Angulo, Santiago Segura y Armando de Razza colgados del 
 emblemático **cartel publicitario de Schweppes** en la Gran Vía. También aparece la 
@@ -152,15 +157,14 @@ Aunque podríamos haber seleccionado la primera película de Sólo en casa, porq
 donde empieza la costumbre de dejarse al pequeño Kevin McCallister (interpretado por 
 Macaulay Caulkin) olvidado en casa mientras toda la familia se va de vacaciones 
 navideñas, nos gusta esta secuela porque el niño se queda fuera del control parental en 
-Navidad en [Nueva 
-York](https://etheriamagazine.com/2018/07/23/8-planes-con-ninos-en-nueva-york/). Y si 
-hay una ciudad navideña y cinematográfica por excelencia esa es la capital neoyorkina. 
+Navidad en {{< reflink path=posts/2018/07/8-planes-con-ninos-en-nueva-york >}}. Y si hay 
+una ciudad navideña y cinematográfica por excelencia esa es la capital neoyorkina. 
 
 En este filme, además de entretenernos viendo las peripecias que le pasan al niño, 
 podemos disfrutar de bellas imágenes de lugares representativos de la ciudad como 
 **Central Park**, el **World Trade Center** y el **Hotel Plaza.** Por cierto, en una de 
 las secuencias rodadas en este establecimiento hace un **cameo el ex presidente 
 estadounidense Donald Trump**, ya que por aquel entonces era el propietario del mismo y 
-para dejar rodar allí pidió aparecer en la película. También está la famosa juguetería [FAO 
-Schwartz](https://faoschwarz.com/), ahora ubicada en **Rockefeller Center**. Esta 
+para dejar rodar allí pidió aparecer en la película. También está la famosa juguetería 
+[FAO Schwartz](https://faoschwarz.com/), ahora ubicada en **Rockefeller Center**. Esta 
 localización también aparece en la película interpretada por Tom Hanks, _Big_.

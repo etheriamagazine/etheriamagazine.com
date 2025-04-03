@@ -1,7 +1,7 @@
 ---
 title: "Cómo organizar un viaje a Bali para aprovechar bien el tiempo"
 date: 2023-10-09
-coverImage: https://fotos.etheriamagazine.com/2023/10/bali-rafting-rio-ayung.jpg
+cover: https://fotos.etheriamagazine.com/2023/10/bali-rafting-rio-ayung.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Susana García
 ---
 
-Es muy difícil que un viaje a Bali salga mal. Las bondades de esta isla indonesia son 
+**Es muy difícil que un viaje a Bali salga mal. Las bondades de esta isla indonesia son 
 tantas que, hagas lo que hagas, vas a disfrutar de su naturaleza, su cultura y su gente. 
 Pero todos sabemos que para las vacaciones tenemos días limitados que nos gusta 
 aprovechar al máximo, así que en este te damos algunas claves para organizar un viaje a 
-Bali y que todo vaya rodado. 
+Bali y que todo vaya rodado.** 
 
 ![pareja en Bali frente al mar](https://fotos.etheriamagazine.com/2023/10/bali-pareja-playa.jpg "Pareja de viaje por Bali.")
 
@@ -188,15 +188,12 @@ más de un viaje al año.
 ## Qué llevar en la maleta a Bali
 
 Para que no te falte de nada cuando viajas a Bali, en Etheria Magazine le hemos dedicado 
-un artículo a [Qué llevar en la maleta en un viaje a 
-Bali](https://etheriamagazine.com/2023/06/23/que-llevar-maleta-viaje-bali/), con 
+un artículo a {{< reflink path=posts/2023/06/que-llevar-maleta-viaje-bali >}}, con 
 consejos sobre vestuario, calzado, accesorios, complementos, botiquín o guías de viaje 
 recomendadas. Te será muy útil echarle un vistazo antes de viajar. 
 
 **También te puede interesar:** 
 
-[Bali, diez lugares que van directos a Instagram y 
-TikTok](https://etheriamagazine.com/2023/07/26/fotos-bali-instagram-tiktok/) 
+{{< reflink path=posts/2023/07/fotos-bali-instagram-tiktok >}} 
 
-[Si quieres a tu pareja no viajes a 
-Bali](https://etheriamagazine.com/2019/07/23/luna-miel-bali-maldicion-ruptura/)
+{{< reflink path=posts/2019/07/luna-miel-bali-maldicion-ruptura >}}

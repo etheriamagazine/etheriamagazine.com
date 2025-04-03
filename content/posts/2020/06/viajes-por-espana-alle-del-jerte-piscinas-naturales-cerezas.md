@@ -1,7 +1,7 @@
 ---
 title: "Valle del Jerte, entre cerezas y piscinas naturales"
 date: 2020-06-17
-coverImage: https://fotos.etheriamagazine.com/2020/06/viajes-mujeres-etheria-Valle-del-jerte.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/viajes-mujeres-etheria-Valle-del-jerte.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-En tierras extremeñas, entre los pliegues de la Sierra de Gredos, la encantadora 
+**En tierras extremeñas, entre los pliegues de la Sierra de Gredos, la encantadora 
 geografía del Valle del Jerte es un hermoso escenario para disfrutar de las maravillas 
 de España. Lo sublime está más cerca de lo que imaginamos, y si está señalado en rojo 
-por las cerezas madurando no tiene pérdida. 
+por las cerezas madurando no tiene pérdida.** 
 
 ![Garganta de los Infiernos, en el Valle del Jerte.](https://fotos.etheriamagazine.com/2020/06/garganta-infierno-los-pilones-caceres.jpg "Garganta de los Infiernos, en el Valle del Jerte.")
 
@@ -138,28 +138,27 @@ presencia de este antiguo habitante de los parajes serranos que nos rodean.
 
 ## Más pistas en el Valle del Jerte
 
-• Centro de Interpretación de la Alta Montaña y la Trashumancia. Está situado en 
+- Centro de Interpretación de la Alta Montaña y la Trashumancia. Está situado en 
 Tornavacas y ofrece un interesante recorrido museístico sobre la importancia que el 
 trasiego de ganados tuvo para el valle. 
 
-• Si no te atreves con el frío del baño en Los Pilones, al regresar junto a la orilla 
+- Si no te atreves con el frío del baño en Los Pilones, al regresar junto a la orilla 
 del Jerte prueba a sumergirte en la piscina natural del **Parque del Nogalón**. Desde 
 allí acércate al Centro de Reproducción de Salmónidos. Es un sencillo paseo señalizado 
 de 2 kilómetros desde el pueblo Jerte. Verás crecer a los alevines de truchas que se 
 utilizan para repoblar en otoño los cursos fluviales extremeños. Una experiencia 
 gratuita y autoguiada que gustará mucho a los más pequeños de la familia. 
 
-• Al regreso de Piornal, en las inmediaciones del pueblo de **Valdastillas**, busca la 
+- Al regreso de Piornal, en las inmediaciones del pueblo de **Valdastillas**, busca la 
 curva cerrada donde se inicia una pista. En apenas medio kilómetro te sitúa junto a la 
 **cascada del Caozo**, un alegre alboroto hídrico cayendo sobre las rocas cuando abundan 
 las lluvias. 
 
 ✅ **También te puede interesar** 
 
-[Viajes por España: 8 imperdibles de 
-Cáceres](https://etheriamagazine.com/2020/05/26/escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica/) 
+{{< reflink 
+path=posts/2020/05/escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica >}} 
 
-[Viajar sola a Cáceres](https://etheriamagazine.com/2018/05/13/viajarsolacaceres/) 
+{{< reflink path=posts/2018/05/viajarsolacaceres >}} 
 
-[Las Hurdes. Un paraíso extremeño suspendido en el 
-tiempo](https://etheriamagazine.com/2020/07/21/viajes-espana-las-hurdes-un-paraiso-extremeno/)
+{{< reflink path=posts/2020/07/viajes-espana-las-hurdes-un-paraiso-extremeno >}}

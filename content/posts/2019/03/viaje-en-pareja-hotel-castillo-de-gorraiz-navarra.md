@@ -1,7 +1,7 @@
 ---
 title: "Castillo de Gorraiz Golf & Spa, perfecto para una escapada en pareja a Navarra"
 date: 2019-03-20
-coverImage: https://fotos.etheriamagazine.com/2019/03/hotel-castillo-gormaiz-Exterior-hotel-general.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/hotel-castillo-gormaiz-Exterior-hotel-general.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Nada más entrar al hotel Castillo de Gorraiz & Spa te das cuenta de que no te has 
+**Nada más entrar al hotel Castillo de Gorraiz & Spa te das cuenta de que no te has 
 equivocado en tu elección para esta escapada en pareja. El entorno, los pequeños 
 detalles en la decoración y la calidez del recibimiento anticipan que no vas a querer 
-moverte de aquí en todo el fin de semana. 
+moverte de aquí en todo el fin de semana.** 
 
 ![Hotel Castillo de Gorraiz Golf & Spa.](https://fotos.etheriamagazine.com/2019/03/hotel-castillo-gormaiz-exterior.jpg "Hotel Castillo de Gorraiz Golf & Spa.")
 
@@ -96,6 +96,8 @@ Fotografías: © Rusticae.
 
 [Castillo de Gorraiz Golf & 
 Spa.](https://www.rusticae.es/hotel/hotel-castillo-de-gorraiz-golf-spa-1097) Avenida de 
-Egües 78 Egües - Urb. Gorraiz (Navarra, España) Tel. +34 914 879 017 
+Egües 78 Egües 
+
+- Urb. Gorraiz (Navarra, España) Tel. +34 914 879 017 
 
 [![](https://fotos.etheriamagazine.com/2019/03/rusticae-the-club-1-e1553083884362.jpg)](http://www.rusticae.es)

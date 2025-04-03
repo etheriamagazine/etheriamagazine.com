@@ -1,7 +1,7 @@
 ---
 title: "Deià, el pueblo mallorquín que ha enamorado a ricos y famosos"
 date: 2020-08-28
-coverImage: https://fotos.etheriamagazine.com/2020/08/que-ver-deia-mallorca.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/que-ver-deia-mallorca.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -131,11 +131,11 @@ como les gusta a los _deianencs._
 
 ![Antonia rullan, ca. na marca, restaurantes deia](https://fotos.etheriamagazine.com/2020/08/deia-Antonia-Ca-Na-Rullan.jpg "Antonia Rullán, propietaria de Ca Na Marca. © Pedro Grifol")
 
-Las raciones pequeñas, o de diseño, están en [Sebastian](http://www.restaurantesebastian.com). 
-Sebastian Pasch, chef y propietario del restaurante se especializa en el uso de 
-productos de temporada y deja que los sabores de dichos productos hablen por sí solos. 
-Es un referente de la cocina fusión. Bueno y caro. Menú clásico degustación (5 platos) a 
-unos 60 € (vinos aparte). 
+Las raciones pequeñas, o de diseño, están en 
+[Sebastian](http://www.restaurantesebastian.com). Sebastian Pasch, chef y propietario 
+del restaurante se especializa en el uso de productos de temporada y deja que los 
+sabores de dichos productos hablen por sí solos. Es un referente de la cocina fusión. 
+Bueno y caro. Menú clásico degustación (5 platos) a unos 60 € (vinos aparte). 
 
 La estrella de Deià es para [Es Racó d’es Teix](http://www.esracodesteix.es). Inaugurado 
 en 1999, merecedor de la estrella Michelin en 2002 y propiedad del chef Josef 
@@ -218,11 +218,9 @@ Ronaldo… aunque no se observaba ningún coche fantasma desde fuera.
 
 ### También te puede interesar
 
-[Palma con amigas: 8 planazos para exprimir la capital de 
-Mallorca](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palma-mallorca-con-amigas/) 
+{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}} 
 
-[8 excursiones en Mallorca para un viaje en 
-familia](https://etheriamagazine.com/2020/06/16/8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos/) 
+{{< reflink 
+path=posts/2020/06/8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos >}} 
 
-[De compras, mercados y algo más en Palma de 
-Mallorca](https://etheriamagazine.com/2019/08/01/24-horas-palma-mallorca-arte-compras-mercados/)
+{{< reflink path=posts/2019/08/24-horas-palma-mallorca-arte-compras-mercados >}}

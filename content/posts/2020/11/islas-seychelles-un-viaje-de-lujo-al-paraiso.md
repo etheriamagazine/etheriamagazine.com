@@ -1,7 +1,7 @@
 ---
 title: "Islas Seychelles, el nuevo paraíso para los viajeros españoles"
 date: 2020-11-16
-coverImage: https://fotos.etheriamagazine.com/2020/11/islas-seychelles-paraiso.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/islas-seychelles-paraiso.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -187,17 +187,18 @@ momento perfecto.
 #### ¿Hoteles todo incluido o por libre?
 
 Todo depende del presupuesto y de tus ganas de aventura. En Seychelles hay muchos 
-hoteles de lujo con Todo Incluido y elevados precios por noche. Te decimos algunos: [Four 
-Seasons Resort Seychelles](https://www.fourseasons.com/seychelles/) (desde 1.000 €), el [Anantara 
-Maia Seychelles Villas](https://www.anantara.com/en/maia-seychelles) (más de 2.000 €), 
-la isla privada [North Island](https://www.north-island.com/) (más de 6.000 €), [Couisine 
-Island Resort](https://www.cousineisland.com/) (más de 3.000 €) y [Six Senses Zil 
-Pasyon](https://www.sixsenses.com/en/resorts/zil-pasyon) ( unos 1.700 €). 
+hoteles de lujo con Todo Incluido y elevados precios por noche. Te decimos algunos: 
+[Four Seasons Resort Seychelles](https://www.fourseasons.com/seychelles/) (desde 1.000 
+€), el [Anantara Maia Seychelles Villas](https://www.anantara.com/en/maia-seychelles) 
+(más de 2.000 €), la isla privada [North Island](https://www.north-island.com/) (más de 
+6.000 €), [Couisine Island Resort](https://www.cousineisland.com/) (más de 3.000 €) y 
+[Six Senses Zil Pasyon](https://www.sixsenses.com/en/resorts/zil-pasyon) ( unos 1.700 
+€). 
 
 Para bolsillos más ajustados también hay hoteles con precios en torno a 300 €/ hab. 
-doble, e incluso bungalows desde 75 €. En Booking encontrarás algunas opciones como [Villa 
-Lima (Mahé)](https://www.booking.com/hotel/sc/villa-lima.es.html) donde una semana para 
-2 personas te sale por unos 600 €. 
+doble, e incluso bungalows desde 75 €. En Booking encontrarás algunas opciones como 
+[Villa Lima (Mahé)](https://www.booking.com/hotel/sc/villa-lima.es.html) donde una 
+semana para 2 personas te sale por unos 600 €. 
 
 ![snorkel o buceo en las seychelles](https://fotos.etheriamagazine.com/2020/11/buceo-St-Annes-Seychelles.jpg "Pequeño tiburón rodeado de peces en la isla de St. Anne (Seychelles).")
 
@@ -211,8 +212,6 @@ Covid](http://www.exteriores.gob.es/Portal/es/ServiciosAlCiudadano/SiViajasAlExt
 
 #### También te puede interesar...
 
-[Bahamas, un viaje a tu 
-medida](https://etheriamagazine.com/2018/08/14/viajar-sola-a-islas-bahamas/). 
+{{< reflink path=posts/2018/08/viajar-sola-a-islas-bahamas >}}. 
 
-[10 planes en isla 
-Mauricio](https://etheriamagazine.com/2019/03/26/viajes-mujeres-mejores-planes-en-mauricio/).
+{{< reflink path=posts/2019/03/viajes-mujeres-mejores-planes-en-mauricio >}}.

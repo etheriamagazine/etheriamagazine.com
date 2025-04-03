@@ -1,7 +1,7 @@
 ---
 title: "Crea tu propia página web y comparte tus aventuras con el mundo"
 date: 2025-02-26
-coverImage: https://fotos.etheriamagazine.com/2025/02/crucero-islas.jpg
+cover: https://fotos.etheriamagazine.com/2025/02/crucero-islas.jpg
 destino: 
   - Europa
 authors: 
@@ -68,8 +68,7 @@ espectaculares** juega un papel fundamental dentro del contenido de un blog viaj
 
 ### Historias personales
 
-Las anécdotas y [consejos basados en experiencias 
-reales](https://etheriamagazine.com/2023/06/29/organizar-un-viaje-sola-sania-jelic/) 
+Las anécdotas y {{< reflink path=posts/2023/06/organizar-un-viaje-sola-sania-jelic >}} 
 generan mayor **confianza, cercanía y conexión** con la audiencia. 
 
 ### SEO y optimización

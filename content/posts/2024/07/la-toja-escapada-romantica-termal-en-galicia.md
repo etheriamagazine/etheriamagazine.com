@@ -1,7 +1,7 @@
 ---
 title: "Una escapada en pareja a La Toja, historia y excursiones desde esta isla"
 date: 2024-07-08
-coverImage: https://fotos.etheriamagazine.com/2021/02/hotel-Eurostars-Isla-de-la-Toja.jpg
+cover: https://fotos.etheriamagazine.com/2021/02/hotel-Eurostars-Isla-de-la-Toja.jpg
 categories: 
   - viajar-en-pareja
   - bienestar
@@ -132,15 +132,12 @@ crianza de seis meses.
 
 **También te puede interesar...** 
 
-[8 planes con niños en la costa de 
-Pontevedra](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/) 
+{{< reflink path=posts/2019/10/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja >}} 
 (también hay buenas ideas para excursiones de sólo adultos). 
 
-[La increíble historia de San Simón, la isla gallega de las 
-cuarentenas](https://etheriamagazine.com/2021/01/04/historia-de-san-simon-la-isla-gallega-de-las-cuarentenas/). 
+{{< reflink path=posts/2021/01/historia-de-san-simon-la-isla-gallega-de-las-cuarentenas 
+>}}. 
 
-[Vigo, ¿por qué estás tan rematadamente 
-bueno?](https://etheriamagazine.com/2020/11/24/comer-en-vigo-mejores-restaurantes-furanchos/) 
+{{< reflink path=posts/2020/11/comer-en-vigo-mejores-restaurantes-furanchos >}} 
 
-[Descubre la isla de Ons y disfruta del Caribe sin salir de 
-España](https://etheriamagazine.com/2020/08/06/excursion-isla-de-ons-como-llegar-que-ver/).
+{{< reflink path=posts/2020/08/excursion-isla-de-ons-como-llegar-que-ver >}}.

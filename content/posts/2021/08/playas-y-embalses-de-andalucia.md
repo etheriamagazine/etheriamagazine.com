@@ -1,7 +1,7 @@
 ---
 title: "15 playas y embalses de Andalucía para refrescarse en verano"
 date: 2021-08-10
-coverImage: https://fotos.etheriamagazine.com/2021/08/Andalucia-Cala-Rijana.jpg
+cover: https://fotos.etheriamagazine.com/2021/08/Andalucia-Cala-Rijana.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -12,10 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-Andalucía nos gana por muchas cosas, pero cuando llega el verano sus playas y embalses 
+**Andalucía nos gana por muchas cosas, pero cuando llega el verano sus playas y embalses 
 se convierten en un elemento de primera necesidad. Aquí hemos seleccionado 15 lugares de 
 lo más refrescantes (10 playas y 5 embalses) donde darse un baño de esos cuyo recuerdo 
-hará más llevadero el resto del año. 
+hará más llevadero el resto del año.** 
 
 ![Playa de Bolonia.](https://fotos.etheriamagazine.com/2021/08/Andalucia-playa-bolonia.jpg "Playa de Bolonia (Cádiz). © Turismo de Andalucía")
 
@@ -252,11 +252,8 @@ Artículo elaborado con la colaboración de la Junta de Andalucía.
 
 📌 **También te puede interesar:** 
 
-[Conoce las 15 playas y calas más deseadas de 
-Conil](https://etheriamagazine.com/2021/02/05/mejores-playas-y-calas-de-conil-de-la-frontera/) 
+{{< reflink path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}} 
 
-[Descubre los 12 imprescindibles de Almería 
-provincia](https://etheriamagazine.com/2023/07/17/que-ver-almeria-provincia/) 
+{{< reflink path=posts/2023/07/que-ver-almeria-provincia >}} 
 
-[Una guía para no perderte nada de la provincia de 
-Málaga](https://etheriamagazine.com/2023/03/23/pueblos-que-ver-malaga/)
+{{< reflink path=posts/2023/03/pueblos-que-ver-malaga >}}

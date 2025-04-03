@@ -1,7 +1,7 @@
 ---
 title: "10 pasos sostenibles para visitar Getxo"
 date: 2022-08-22
-coverImage: https://fotos.etheriamagazine.com/2022/08/getxo-humedal-de-Bolue.jpg
+cover: https://fotos.etheriamagazine.com/2022/08/getxo-humedal-de-Bolue.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Ponemos rumbo a Getxo, el municipio vizcaíno que con su fachada marítima de playas, 
+**Ponemos rumbo a Getxo, el municipio vizcaíno que con su fachada marítima de playas, 
 acantilados y pintoresco puerto no nos cansamos de admirar. En esta ocasión nos animamos 
 a dar 10 pasos sostenibles para visitar el pueblo que marca el fin de la ría del 
 Nervión. Desde movernos en bici o consumir productos de proximidad hasta elegir arenales 
-sin barreras, su compromiso con el futuro es una tentación. 
+sin barreras, su compromiso con el futuro es una tentación.** 
 
 ![Acantilados de Arrigunaga y molino Aixerrota, en Getxo.](https://fotos.etheriamagazine.com/2022/08/Getxo-acantilados-de-Arrigunaga.jpg "Acantilados de Arrigunaga y molino Aixerrota, en Getxo.")
 
@@ -143,11 +143,12 @@ espectaculares del Cantábrico con una ruta autoguiada para amar la Madre Tierra
 significado de **Amalurra** en euskera y una conexión directa con ella recorriendo el 
 acantilado de La Galea ([ruta en 
 pdf](https://www.getxo.eus/DocsPublic/turismo/deapie/AMALURRA-CASTELLANO-01.pdf)). Al 
-**parque de la Borobia**, su inicio, se puede llegar en [metro](https://www.metrobilbao.eus/) 
-desde Bilbao. La estación en la que tienes que bajar es la de **Bidezabal** (el orden de 
-las estaciones en el municipio es de Areeta, Gobela, Neguri, Aiboa, Algorta, Bidezabal e 
-Ibarbengoa). En esta última si llegas a Getxo en coche y te mueves en metro, puedes 
-dejar el vehículo todo el día por 0,70 euros. 
+**parque de la Borobia**, su inicio, se puede llegar en 
+[metro](https://www.metrobilbao.eus/) desde Bilbao. La estación en la que tienes que 
+bajar es la de **Bidezabal** (el orden de las estaciones en el municipio es de Areeta, 
+Gobela, Neguri, Aiboa, Algorta, Bidezabal e Ibarbengoa). En esta última si llegas a 
+Getxo en coche y te mueves en metro, puedes dejar el vehículo todo el día por 0,70 
+euros. 
 
 Bilbao se encuentra a 20 kilómetros de Getxo pero viajamos en el tiempo hasta ese 
 momento en el que los acantilados se hallaban bajo el agua, millones de años en pocos 
@@ -240,8 +241,7 @@ Más información en [Turismo de Getxo](https://www.getxo.eus/es/turismo/descubr
 
 **También en Getxo** 
 
-[Getxo, la escapada marinera con mejor rollo de 
-Bizkaia](https://etheriamagazine.com/2022/07/20/que-ver-getxo-visitas-marineras/). 
+{{< reflink path=posts/2022/07/que-ver-getxo-visitas-marineras >}}. 
 
-[12 planes en Getxo con amigas para disfrutar al estilo 
-vasco](https://etheriamagazine.com/2021/06/14/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco/).
+{{< reflink 
+path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.

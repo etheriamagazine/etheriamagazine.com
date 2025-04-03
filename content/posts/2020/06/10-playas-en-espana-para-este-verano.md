@@ -1,7 +1,7 @@
 ---
 title: "10 playas en España para disfrutar del verano"
 date: 2020-06-03
-coverImage: https://fotos.etheriamagazine.com/2020/05/playa-espana-la-graciosa.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/playa-espana-la-graciosa.jpg
 categories: 
   - inspiración
   - ocio
@@ -23,9 +23,9 @@ hemos elegido diez con las que sabemos que acertarás seguro.
 ### 10 playas en España para disfrutar del verano:
 
 [1\. Cala Agulla](#Agulla). [2\. Playa de Torimbia](#Torimbia). [3\. Playa La 
-Francesca](#La-Francesca). [4\. Playa de Zahora](#Zahora). [5\. Cala Mitjana](#Mitjana). [6\. 
-Playa de los Genoveses](#Genoveses). [7\. Platges de Compte](#Compte). [8\. Playa de 
-Berellín](#Berellín). [9\. Playa de El Portil](#El-Portil). [10\. Sant Pere 
+Francesca](#La-Francesca). [4\. Playa de Zahora](#Zahora). [5\. Cala Mitjana](#Mitjana). 
+[6\. Playa de los Genoveses](#Genoveses). [7\. Platges de Compte](#Compte). [8\. Playa 
+de Berellín](#Berellín). [9\. Playa de El Portil](#El-Portil). [10\. Sant Pere 
 Pescador](#Pere-Pescador). 
 
 ## 1\. Cala Agulla (Cala Ratjada, Mallorca)
@@ -66,9 +66,10 @@ servicios, tendrás que llevar todo lo que necesites para pasar el día.
 La [playa de Zahora](http://www.cadizturismo.com/playas/cadiz/zahora/) es uno de esos 
 arenales gaditanos que te dejan sin aliento por su aspecto interminable y salvaje. 
 Vecina de la popular playa de El Palmar, es más tranquila y se encuentra a un paso del 
-bonito faro de Trafalgar. Es perfecta para [surferas](https://etheriamagazine.com/2020/03/24/que-seguro-viaje-cubre-deporte-surf/) 
-o para las que disfrutan simplemente con la contemplación de un mar con olas. Quédate en 
-ella al atardecer para poder ver una increíble puesta de sol. 
+bonito faro de Trafalgar. Es perfecta para {{< reflink 
+path=posts/2020/03/que-seguro-viaje-cubre-deporte-surf >}} o para las que disfrutan 
+simplemente con la contemplación de un mar con olas. Quédate en ella al atardecer para 
+poder ver una increíble puesta de sol. 
 
 ![playa con olas](https://fotos.etheriamagazine.com/2020/05/playas-espana-zahora-cadiz.jpg "Playa de Zahora (Cádiz). © Vidar Nordli Mathisen")
 
@@ -142,11 +143,8 @@ Natural dels Aiguamolls de l’Empordà.
 
 ### También te puede interesar:
 
-[10 playas en España para ir pensando en el 
-verano](https://etheriamagazine.com/2019/05/16/10-playas-en-espana-viaje-verano/) 
+{{< reflink path=posts/2019/05/10-playas-en-espana-viaje-verano >}} 
 
-[12 playas de cine en España donde darse un 
-chapuzón](https://etheriamagazine.com/2021/07/19/12-playas-espanolas-que-salen-en-peliculas/) 
+{{< reflink path=posts/2021/07/12-playas-espanolas-que-salen-en-peliculas >}} 
 
-[10 playas del mundo donde te quedarías a 
-vivir](https://etheriamagazine.com/2019/07/24/mejores-10-playas-del-mundo/)
+{{< reflink path=posts/2019/07/mejores-10-playas-del-mundo >}}

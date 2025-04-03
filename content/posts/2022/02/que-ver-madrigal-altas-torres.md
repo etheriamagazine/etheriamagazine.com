@@ -1,7 +1,7 @@
 ---
 title: "Madrigal de las Altas Torres, una excursión a la cuna de Isabel la Católica"
 date: 2022-02-14
-coverImage: https://fotos.etheriamagazine.com/2022/02/Panoramica-Madrigal.jpg
+cover: https://fotos.etheriamagazine.com/2022/02/Panoramica-Madrigal.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Carmen Pineda
 ---
 
-A veces, los destinos más insospechados e interesantes los tenemos a la vuelta de la 
+**A veces, los destinos más insospechados e interesantes los tenemos a la vuelta de la 
 esquina, y el pueblo abulense de Madrigal de las Altas Torres es un buen ejemplo de 
 ello. Con una oferta cultural y patrimonial espectacular y cuatro rutas culturales de 
 impresión, que ya las querrían para sí otros destinos más famosos, es un lugar perfecto 
 para un fin de semana o como parada obligatoria en la 'Ruta de Isabel la Católica' en 
-Castilla y León. 
+Castilla y León.** 
 
 ![panoramica de madrigal de las altas torres](https://fotos.etheriamagazine.com/2022/02/Panoramica-Madrigal.jpg "Panorámica de Madrigal. © Tatavasco Imágenes.")
 
@@ -270,11 +270,8 @@ Cristo s/n, edificio Real Hospital). Tel. 920 320 699 / 661 502 613
 
 ✅ **También te puede interesar...** 
 
-[Ruta para descubrir los secretos ocultos del acueducto de 
-Segovia](https://etheriamagazine.com/2021/06/25/ruta-senderista-acueducto-segovia/). 
+{{< reflink path=posts/2021/06/ruta-senderista-acueducto-segovia >}}. 
 
-[Planes en Soria con niños para desconectar en plena 
-naturaleza](https://etheriamagazine.com/2021/02/24/planes-y-actividades-en-soria-con-ninos/). 
+{{< reflink path=posts/2021/02/planes-y-actividades-en-soria-con-ninos >}}. 
 
-[El Camino de Hierro, kilómetros de magia entre puentes y túneles en 
-Salamanca](https://etheriamagazine.com/2021/10/03/recorrido-del-camino-de-hierro-salamanca/).
+{{< reflink path=posts/2021/10/recorrido-del-camino-de-hierro-salamanca >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Viajar sola a Noruega en busca de las auroras boreales: consejos de Sania Jelic"
 date: 2024-11-01
-coverImage: https://fotos.etheriamagazine.com/2024/11/sania-noruega-aurora-boreal-vadso.jpg
+cover: https://fotos.etheriamagazine.com/2024/11/sania-noruega-aurora-boreal-vadso.jpg
 categories: 
   - viajar-sola
   - historias
@@ -168,11 +168,8 @@ quizá en otra vida...
 
 **También te puede interesar:** 
 
-[Guía para viajar sola a Kenia, consejos básicos de Sania 
-Jelic](https://etheriamagazine.com/2024/06/02/sania-jelic-viajar-sola-a-kenia/) 
+{{< reflink path=posts/2024/06/sania-jelic-viajar-sola-a-kenia >}} 
 
-[Consejos básicos de Sania Jelic si viajas sola a 
-Zanzíbar](https://etheriamagazine.com/2024/03/15/viajar-sola-zanzibar/) 
+{{< reflink path=posts/2024/03/viajar-sola-zanzibar >}} 
 
-[El Hurtigruten, el barco postal desde el que ver las auroras 
-boreales](https://etheriamagazine.com/2022/03/11/ruta-del-hurtigruten-en-noruega/)
+{{< reflink path=posts/2022/03/ruta-del-hurtigruten-en-noruega >}}

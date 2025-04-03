@@ -1,7 +1,7 @@
 ---
 title: "Disfruta de la mejor cocina georgiana en este hotel durante Madrid Fusión"
 date: 2024-01-25
-coverImage: https://fotos.etheriamagazine.com/2024/01/cocina-georgiana-madrid.jpg
+cover: https://fotos.etheriamagazine.com/2024/01/cocina-georgiana-madrid.jpg
 categories: 
   - gourmet
 destino: 
@@ -93,8 +93,6 @@ recetas tradicionales que han sido transmitidas de generación en generación.
 
 **También te puede interesar...** 
 
-[Cómo pedir atún en Cádiz como si fueses una 
-experta](https://etheriamagazine.com/2023/10/24/guia-para-pedir-atun-en-cadiz/). 
+{{< reflink path=posts/2023/10/guia-para-pedir-atun-en-cadiz >}}. 
 
-[10 productos manchegos de calidad que alegran tu mesa por pocos 
-euros](https://etheriamagazine.com/2023/12/22/productos-manchegos/).
+{{< reflink path=posts/2023/12/productos-manchegos >}}.

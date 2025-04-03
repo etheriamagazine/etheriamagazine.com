@@ -1,7 +1,7 @@
 ---
 title: "Descubre la ruta por la arquitectura más elegante de Buenos Aires"
 date: 2019-07-05
-coverImage: https://fotos.etheriamagazine.com/2019/06/Buenos-Aires-Palacio-de-Aguas-Corrientes.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/Buenos-Aires-Palacio-de-Aguas-Corrientes.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -168,8 +168,7 @@ de Buenos Aires.
 
 **También te puede interesar:** 
 
-[Cómo preparar la maleta para viajar a 
-Argentina](https://etheriamagazine.com/2022/09/14/que-llevar-maleta-argentina/) 
+{{< reflink path=posts/2022/09/que-llevar-maleta-argentina >}} 
 
-[Ruta en autobús por las bodegas de Mendoza 
-(Argentina)](https://etheriamagazine.com/2019/04/26/viajar-sola-amigas-ruta-vino-bodegas-de-mendoza-argentina/)
+{{< reflink path=posts/2019/04/viajar-sola-amigas-ruta-vino-bodegas-de-mendoza-argentina 
+>}}

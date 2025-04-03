@@ -1,7 +1,7 @@
 ---
 title: "The Palace Hotel, Madrid, recupera su esplendor y se convierte en la nueva visita obligada de la capital"
 date: 2024-11-04
-coverImage: https://fotos.etheriamagazine.com/2024/11/nueva-fachada-palace.jpg
+cover: https://fotos.etheriamagazine.com/2024/11/nueva-fachada-palace.jpg
 categories: 
   - hoteles
 destino: 
@@ -118,8 +118,6 @@ Madrid](https://www.marriott.com/es/hotels/madwi-the-westin-palace-madrid/).
 
 **También en Etheria Magazine** 
 
-[10 exposiciones en Madrid para ver en otoño de 
-2024](https://etheriamagazine.com/2024/10/23/exposiciones-en-madrid-otono-de-2024/). 
+{{< reflink path=posts/2024/10/exposiciones-en-madrid-otono-de-2024 >}}. 
 
-[Terrazas en las azoteas de Madrid: 10 lugares con los que aciertas 
-seguro](https://etheriamagazine.com/2024/06/19/terrazas-azoteas-madrid/).
+{{< reflink path=posts/2024/06/terrazas-azoteas-madrid >}}.

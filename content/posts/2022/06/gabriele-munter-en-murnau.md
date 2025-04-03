@@ -1,7 +1,7 @@
 ---
 title: "Murnau, el pueblo alemán que enamoró a la artista Gabriele Münter"
 date: 2022-06-14
-coverImage: https://fotos.etheriamagazine.com/2022/06/plaza-Murnau-alemania.jpg
+cover: https://fotos.etheriamagazine.com/2022/06/plaza-Murnau-alemania.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -194,11 +194,9 @@ de Alemania](https://www.germany.travel/es/home.html).
 
 #### También te puede interesar en Alemania
 
-[Múnich y Bad Wörishofen, la Alemania más verde y 
-saludable](https://etheriamagazine.com/2021/08/04/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable/). 
+{{< reflink path=posts/2021/08/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable 
+>}}. 
 
-[Descubre Hamburgo en 48 horas, la Alemania más 
-canalla](https://etheriamagazine.com/2020/02/24/que-ver-hacer-fin-de-semana-hamburgo-alemania/). 
+{{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}}. 
 
-[Fráncfort y Bremen se asoman a Madrid para mostrar sus 
-encantos](https://etheriamagazine.com/2022/05/31/cultura-alemana-francfort-bremen/).
+{{< reflink path=posts/2022/05/cultura-alemana-francfort-bremen >}}.

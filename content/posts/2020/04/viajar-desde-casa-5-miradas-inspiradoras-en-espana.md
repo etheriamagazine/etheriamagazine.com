@@ -1,7 +1,7 @@
 ---
 title: "5 paisajes españoles vistos desde otra perspectiva"
 date: 2020-04-10
-coverImage: https://fotos.etheriamagazine.com/2020/04/marismas-cadiz-horizontal.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/marismas-cadiz-horizontal.jpg
 categories: 
   - inspiración
   - ocio
@@ -93,11 +93,8 @@ fuerza del sol africano y la de los volcanes.
 
 ### También te puede interesar...
 
-[10 parques naturales de América Latina con paisajes 
-increíbles](https://etheriamagazine.com/2021/10/21/parques-naturales-de-america-latina/), 
+{{< reflink path=posts/2021/10/parques-naturales-de-america-latina >}}, 
 
-[10 paisajes para evadirte desde tu 
-casa](https://etheriamagazine.com/2020/03/18/10-paisajes-para-evadirte-desde-tu-casa/). 
+{{< reflink path=posts/2020/03/10-paisajes-para-evadirte-desde-tu-casa >}}. 
 
-[7 paisajes que confirman que España es 
-increíble](https://etheriamagazine.com/2019/04/28/mejores-paisajes-instagram-espana/).
+{{< reflink path=posts/2019/04/mejores-paisajes-instagram-espana >}}.

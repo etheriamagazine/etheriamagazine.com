@@ -1,7 +1,7 @@
 ---
 title: "Turismo activo en España, propuestas para deportistas"
 date: 2018-11-23
-coverImage: https://fotos.etheriamagazine.com/2018/11/viajes-mujeres-parque-alcornocales-senderismo.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/viajes-mujeres-parque-alcornocales-senderismo.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Kris Ubach
 ---
 
-Si te consideras una mujer deportista, podrías pasarte la vida recorriendo (en modo 
+**Si te consideras una mujer deportista, podrías pasarte la vida recorriendo (en modo 
 activo) la geografía española desde Galicia hasta Murcia y desde Cataluña hasta las 
 Islas Canarias. Y sin repetir actividad ni una sola vez. ¿No nos crees? Continúa leyendo 
-nuestras propuestas de turismo activo en España. 
+nuestras propuestas de turismo activo en España.** 
 
 ![Mujer mirando con prismáticos en el Parque de los Alcornocales](https://fotos.etheriamagazine.com/2018/11/viajes-mujeres-parque-alcornocales-senderismo.jpg "Observación de aves en el Parque de los Alcornocales. ©K.U.")
 
@@ -128,14 +128,10 @@ tramos de la ruta.
 
 📌 **También te puede interesar:** 
 
-[Asturias con amigas, visitas imprescindibles en una ruta en 
-coche](https://etheriamagazine.com/2022/01/17/asturias-en-coche-guia-imprescindible/) 
+{{< reflink path=posts/2022/01/asturias-en-coche-guia-imprescindible >}} 
 
-[Valle de Chistau, descubre las mejores rutas en el cielo 
-aragonés](https://etheriamagazine.com/2021/12/07/valle-de-chistau-huesca/) 
+{{< reflink path=posts/2021/12/valle-de-chistau-huesca >}} 
 
-[Menorca, la isla del deporte 
-(también)](https://etheriamagazine.com/2019/01/24/viajeras-aventureras-en-menorca/) 
+{{< reflink path=posts/2019/01/viajeras-aventureras-en-menorca >}} 
 
-[Andalucía en autocaravana y consejos prácticos para 
-novatos](https://etheriamagazine.com/2021/04/07/consejos-rutas-andalucia-en-autocaravana/)
+{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}

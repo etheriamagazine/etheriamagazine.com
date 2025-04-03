@@ -1,7 +1,7 @@
 ---
 title: "El viaje de las mujeres, el nuevo libro de Elena García Quevedo"
 date: 2019-03-16
-coverImage: https://fotos.etheriamagazine.com/2019/03/anciana-tibet.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/anciana-tibet.jpg
 categories: 
   - cultura
 destino: 
@@ -37,7 +37,7 @@ La autora reconoce que para poder cambiar es imprescindible que cada mujer se po
 
 _"Según las abuelas sabias a las que he conocido que bailan y ríen –y tejen–, aunque a veces necesiten ir en silla de ruedas, toda mujer tiene dentro de sí un secreto capaz de convertirse en oro a medida que envejece. Renacer con nuevas alas._ _(...)_ _Una pista: en las sociedades más longevas del mundo las mujeres tienen tanto poder como los hombres. Ocurre en el valle de los hunza, situado en los Himalayas, o en Vilcabamba, de Ecuador, donde la gente dice vivir más de ciento veinte años. También en el pueblo de Ogimi, situado en el archipiélago de Okinawa de las islas Ryukyu donde llegan científicos de todo el mundo para descubrir las claves de sus largas vidas. Todos ellos tienen algo en común: hunden sus raíces en tierras de mujeres fuertes; en historias de matriarcas"._
 
-García Quevedo también acompaña a grupos de viajeras como cicerone para la [agencia de viajes **Focus on Women**](https://etheriamagazine.com/2019/03/08/agencias-de-viajes-para-mujeres-viajan-solas-grupo/).
+García Quevedo también acompaña a grupos de viajeras como cicerone para la {{< reflink path=posts/2019/03/agencias-de-viajes-para-mujeres-viajan-solas-grupo >}}.
 
 ![el viaje de las mujeres, viajeras](https://fotos.etheriamagazine.com/2019/03/el-viaje-de-las-mujeres.jpg)
 

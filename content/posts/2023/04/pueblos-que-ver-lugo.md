@@ -1,7 +1,7 @@
 ---
 title: "Descubre la belleza de la provincia de Lugo en 15 paradas"
 date: 2023-04-06
-coverImage: https://fotos.etheriamagazine.com/2023/03/torrentes-macara-palas-rei.jpg
+cover: https://fotos.etheriamagazine.com/2023/03/torrentes-macara-palas-rei.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -359,8 +359,6 @@ la catedral.
 
 **Sigue tu viaje por Galicia...** 
 
-[Guía esencial de Pontevedra: ciudades, islas, castros y rutas 
-mágicas](https://etheriamagazine.com/2022/12/14/que-ver-pontevedra/). 
+{{< reflink path=posts/2022/12/que-ver-pontevedra >}}. 
 
-[8 planes con niños en la costa de 
-Pontevedra](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/).
+{{< reflink path=posts/2019/10/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja >}}.

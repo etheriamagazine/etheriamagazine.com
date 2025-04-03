@@ -1,7 +1,7 @@
 ---
 title: "Helga de Alvear: \"El arte es un derecho y una necesidad\""
 date: 2021-03-03
-coverImage: https://fotos.etheriamagazine.com/2021/03/nuevo-museo-helga-de-alvear.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/nuevo-museo-helga-de-alvear.jpg
 categories: 
   - cultura
   - ocio
@@ -188,14 +188,14 @@ domingos de 10 a 14.30 h. Cerrado lunes y festivos.
 
 ## También en Cáceres...
 
-[8 visitas imperdibles de 
-Cáceres](https://etheriamagazine.com/2020/05/26/escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica/). 
+{{< reflink 
+path=posts/2020/05/escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica >}}. 
 
-[48 horas entre cerezas por el Valle del 
-Jerte](https://etheriamagazine.com/2020/06/17/viajes-por-espana-alle-del-jerte-piscinas-naturales-cerezas/). 
+{{< reflink 
+path=posts/2020/06/viajes-por-espana-alle-del-jerte-piscinas-naturales-cerezas >}}. 
 
-[Las Hurdes. Un paraíso extremeño suspendido en el 
-tiempo](https://etheriamagazine.com/2020/07/21/viajes-espana-las-hurdes-un-paraiso-extremeno/). 
+{{< reflink path=posts/2020/07/viajes-espana-las-hurdes-un-paraiso-extremeno >}}. 
 
-[Ruta por los 11 pueblos elegidos como los más bonitos de España en 
-2021](https://etheriamagazine.com/2021/01/19/ruta-por-los-11-pueblos-elegidos-como-los-mas-bonitos-de-espana-en-2021/).
+{{< reflink 
+path=posts/2021/01/ruta-por-los-11-pueblos-elegidos-como-los-mas-bonitos-de-espana-en-2021 
+>}}.

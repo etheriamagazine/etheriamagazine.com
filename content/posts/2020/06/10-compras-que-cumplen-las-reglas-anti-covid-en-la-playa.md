@@ -1,7 +1,7 @@
 ---
 title: "10 complementos y juegos de playa para disfrutar en familia"
 date: 2020-06-09
-coverImage: https://fotos.etheriamagazine.com/2020/06/complementos-playa-familia.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/complementos-playa-familia.jpg
 categories: 
   - compras
 destino: 
@@ -10,8 +10,8 @@ authors:
   - Redacción Etheria
 ---
 
-Para tus próximas vacaciones en la playa te proponemos 10 complementos y juegos que 
-harán que podáis disfrutar en familia sin aburriros ni un instante. Toma buena nota. 
+**Para tus próximas vacaciones en la playa te proponemos 10 complementos y juegos que 
+harán que podáis disfrutar en familia sin aburriros ni un instante. Toma buena nota.** 
 
 ![](https://fotos.etheriamagazine.com/2020/06/complementos-playa-familia.jpg "Familia en la playa.")
 
@@ -26,9 +26,9 @@ con tiempo ya que en temporada alta se suelen quedar sin stock.
 
 Una buena manera de mantener a los niños sin moverse demasiado de la parcela de playa 
 que ocupemos es dedicar un rato a un juego de mesa. Existen versiones resistentes al 
-agua de juegos tan populares como las [cartas de Uno](https://amzn.to/3cu46JY), el [Dobble](https://amzn.to/3dt9kXJ) 
-o el [Jungle Speed](https://amzn.to/3cpZp3V). Y además ocupan poco en la bolsa de la 
-playa. 
+agua de juegos tan populares como las [cartas de Uno](https://amzn.to/3cu46JY), el 
+[Dobble](https://amzn.to/3dt9kXJ) o el [Jungle Speed](https://amzn.to/3cpZp3V). Y además 
+ocupan poco en la bolsa de la playa. 
 
 ## 2\. Carpa de playa.
 
@@ -48,8 +48,8 @@ bolsillo para no cargar con mucho peso. Puedes también llevar algún libro para
 pequeños, para la playa van bien los pasatiempos y acertijos como el de ['365 enigmas y 
 juegos de lógica'](https://amzn.to/3dsMU9b) de Miguel Capó, seguro que encuentran algún 
 momento para descansar en la toalla. Si buscas alguna recomendación, puedes leer nuestro 
-artículo ['Viaja a través de los libros con estas 10 rutas 
-literarias'.](https://etheriamagazine.com/2020/04/09/viaja-a-traves-de-los-libros-con-estas-10-rutas-literarias/) 
+artículo {{< reflink 
+path=posts/2020/04/viaja-a-traves-de-los-libros-con-estas-10-rutas-literarias >}} 
 
 ## 4\. Juguetes de playa.
 
@@ -68,7 +68,8 @@ comprar la bolsa con los juguetes incluidos.
 
 En muchas playas de España hay zonas con rocas y a los niños les encanta explorarlas en 
 busca de conchas, mejillones o pequeños cangrejos. Para realizar esta actividad con 
-seguridad tendrán que llevar unos [escarpines](https://www.decathlon.es/es/p/zapatillas-acuaticas-de-rio-escarpines-cangrejeras-snorkel-100-ninos-azul/_/R-p-123028?mc=8357256&c=AZUL) 
+seguridad tendrán que llevar unos 
+[escarpines](https://www.decathlon.es/es/p/zapatillas-acuaticas-de-rio-escarpines-cangrejeras-snorkel-100-ninos-azul/_/R-p-123028?mc=8357256&c=AZUL) 
 para que puedan subir sobre ellas sin hacerse pequeños y molestos cortes en los pies. 
 
 ## 6\. Tumbonas y esterillas.
@@ -87,7 +88,8 @@ desconectar. Este modelo de Amazon ni abulta ni pesa.
 
 Los deportes en el agua están permitidos y en las playas habrá zonas habilitadas para 
 ellos. Para los más pequeños, la mejor opción es una tabla pequeña con alguno de sus 
-personajes favoritos y si son algo más mayores, puedes adquirir una de [Decathlon](https://www.decathlon.es/es/p/bodyboard-100-amarillo-con-leash-muneca/_/R-p-311496?mc=8575156&c=ROSA) 
+personajes favoritos y si son algo más mayores, puedes adquirir una de 
+[Decathlon](https://www.decathlon.es/es/p/bodyboard-100-amarillo-con-leash-muneca/_/R-p-311496?mc=8575156&c=ROSA) 
 de bonitos colores. 
 
 ## 8\. Gomas y combas.
@@ -95,9 +97,9 @@ de bonitos colores.
 ![viajes a la playa, viajes en España, viajes con niños](https://fotos.etheriamagazine.com/2020/06/complementos-playa-comba.jpg "Gomas y comba para saltar.")
 
 Este es un juego tan antiguo como actual, ya que retorna periódicamente a los patios de 
-los colegios. ¿Por qué no llevar en la bolsa de la playa una [goma](https://amzn.to/2XWrSsM) 
-o una [comba](https://amzn.to/3cucg54) para saltar en la arena? Es un buen juego para 
-practicar la coordinación y apto para toda la familia. 
+los colegios. ¿Por qué no llevar en la bolsa de la playa una 
+[goma](https://amzn.to/2XWrSsM) o una [comba](https://amzn.to/3cucg54) para saltar en la 
+arena? Es un buen juego para practicar la coordinación y apto para toda la familia. 
 
 ## 9\. Alfombra de playa.
 
@@ -114,13 +116,13 @@ Amazon hemos encontrado ésta de 210x200 cm que no abulta nada y pesa poquísimo
 Volar una cometa es una de las imágenes más típicas de la playa y no parece que este año 
 vaya a haber restricciones al respecto. Eso sí, tendréis que buscar una zona poco 
 concurrida, esperar que haya un poco de viento… y ¡a disfrutar con los más pequeños al 
-ver cómo se mueven las cometas en el aire! En Decathlon podéis encontrar tanto modelos [infantiles](https://www.decathlon.es/es/p/cometa-mariposa-monohilo-mfk-160-rosa-amarillo/_/R-p-172036?mc=8387295&c=AZUL) 
-como otros más adecuados para hacer [acrobacias](https://www.decathlon.es/es/p/cometa-acrobatica-feel-r-160/_/R-p-172041?mc=8394878). 
+ver cómo se mueven las cometas en el aire! En Decathlon podéis encontrar tanto modelos 
+[infantiles](https://www.decathlon.es/es/p/cometa-mariposa-monohilo-mfk-160-rosa-amarillo/_/R-p-172036?mc=8387295&c=AZUL) 
+como otros más adecuados para hacer 
+[acrobacias](https://www.decathlon.es/es/p/cometa-acrobatica-feel-r-160/_/R-p-172041?mc=8394878). 
 
 **También te puede interesar...** 
 
-[8 imprescindibles en tu maleta para hacer deporte cuando 
-viajas](https://etheriamagazine.com/2020/10/19/8-imprescindibles-maleta-para-hacer-deporte/). 
+{{< reflink path=posts/2020/10/8-imprescindibles-maleta-para-hacer-deporte >}}. 
 
-[Conoce las 15 playas y calas más deseadas de 
-Conil](https://etheriamagazine.com/2021/02/05/mejores-playas-y-calas-de-conil-de-la-frontera/).
+{{< reflink path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Karlovy Vary, la ciudad balnearia checa que Goethe visitó 13 veces"
 date: 2021-12-09
-coverImage: https://fotos.etheriamagazine.com/2021/12/karlovy-vary-monumental.jpg
+cover: https://fotos.etheriamagazine.com/2021/12/karlovy-vary-monumental.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -23,9 +23,8 @@ Karlovy Vary, Mariánské Lázně o Františkovy Lázně se reduzcan a excursion
 desde Praga, cuando conozcas todo lo que ofrecen te plantearás quedarte algunas noches 
 más. Hoteles y buena gastronomía, paisajes y paseos no te faltarán. Y si te atrae el 
 mundo termal, no dudes en organizar una escapada al Triángulo Balneario Checo al 
-completo del que te hablábamos en este artículo (‘[Descubre el secreto de la eterna 
-juventud en 
-Chequia’](https://etheriamagazine.com/2021/08/13/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy/)). 
+completo del que te hablábamos en este artículo (‘{{< reflink 
+path=posts/2021/08/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy >}}). 
 
 ## Karlovy Vary, el tablero de ajedrez de Europa
 
@@ -276,9 +275,9 @@ minutos. En [tren](https://www.cd.cz/en/), unas 3 horas.
 
 ##### Dónde dormir
 
-En Karlovy Vary encontrarás opciones de alojamiento para todos los bolsillos. En el [Grandhotel 
-Pupp](https://www.pupp.cz/en) (5 estrellas) puedes encontrar habitaciones dobles desde 
-118 €, o incluso por menos. 
+En Karlovy Vary encontrarás opciones de alojamiento para todos los bolsillos. En el 
+[Grandhotel Pupp](https://www.pupp.cz/en) (5 estrellas) puedes encontrar habitaciones 
+dobles desde 118 €, o incluso por menos. 
 
 ##### Dónde comer
 

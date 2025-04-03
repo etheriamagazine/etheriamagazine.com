@@ -1,7 +1,7 @@
 ---
 title: "Sudáfrica, un destino con hoteles fuera de cobertura"
 date: 2019-12-11
-coverImage: https://fotos.etheriamagazine.com/2019/12/sudafrica-Elandsberg.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/sudafrica-Elandsberg.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,8 +10,8 @@ authors:
   - Redacción Etheria
 ---
 
-Sudáfrica es un destino adecuado para aquellos que quieren evitar tentaciones alejándose 
-de las zonas de cobertura. Conexión escasa y privacidad casi absoluta. 
+**Sudáfrica es un destino adecuado para aquellos que quieren evitar tentaciones 
+alejándose de las zonas de cobertura. Conexión escasa y privacidad casi absoluta.** 
 
 ![Alojamiento Copia Eco Cabins (Sudáfrica).](https://fotos.etheriamagazine.com/2019/12/sudafrica-alojamiento-Copia-Eco-Cabins.jpg "Alojamiento Copia Eco Cabins (Sudáfrica).")
 

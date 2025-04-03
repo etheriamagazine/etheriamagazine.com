@@ -1,7 +1,7 @@
 ---
 title: "Croacia con amigas, 10 razones para hacer \"ya\" las maletas"
 date: 2019-07-17
-coverImage: https://fotos.etheriamagazine.com/2019/07/Croacia-makarska-riviera.jpg
+cover: https://fotos.etheriamagazine.com/2019/07/Croacia-makarska-riviera.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -63,8 +63,8 @@ conserva una valiosa colección de libros incunables.
 
 Como la de Zlatni Rat de la isla de Brac (una de las pocas playas de arena del país). 
 Conocida como la playa del Cuerno de Oro o Cabo Dorado, cambia el aspecto de su punta 
-según los vientos y las mareas y está considerada [una de las playas más bellas de 
-Europa](https://etheriamagazine.com/2019/04/15/10-playas-secretas-de-europa/). 
+según los vientos y las mareas y está considerada {{< reflink 
+path=posts/2019/04/10-playas-secretas-de-europa >}}. 
 
 ## 5\. Según cuentan, aquí nació Marco Polo
 
@@ -126,14 +126,11 @@ descubrir si navegas por Croacia.
 
 **También te puede interesar...** 
 
-[Croacia: consejos y visitas imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2021/01/22/viaje-a-croacia-como-organizar-que-ver-hacer/) 
+{{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}} 
 
-[8 razones justificadas para visitar Sibenik 
-(Croacia)](https://etheriamagazine.com/2020/08/13/que-ver-hacer-sibenik-parque-krka/) 
+{{< reflink path=posts/2020/08/que-ver-hacer-sibenik-parque-krka >}} 
 
-[48 horas en… Zagreb, la animada capital de 
-Croacia](https://etheriamagazine.com/2020/04/24/que-ver-hacer-en-2-3-dias-zagreb-croacia/) 
+{{< reflink path=posts/2020/04/que-ver-hacer-en-2-3-dias-zagreb-croacia >}} 
 
-[10 razones para visitar en otoño el P.N.Lagos de Plitvice 
-(Croacia)](https://etheriamagazine.com/2018/10/05/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia/)
+{{< reflink path=posts/2018/10/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia 
+>}}

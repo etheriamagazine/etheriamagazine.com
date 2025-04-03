@@ -1,7 +1,7 @@
 ---
 title: "Bahía Wellness Retreat, el spa del hotel Bahía del Duque"
 date: 2018-06-12
-coverImage: https://fotos.etheriamagazine.com/2018/06/Spa-Thalassotherapy-Bahiadelduque-e1668768608982.jpg
+cover: https://fotos.etheriamagazine.com/2018/06/Spa-Thalassotherapy-Bahiadelduque-e1668768608982.jpg
 categories: 
   - hoteles
 destino: 
@@ -95,11 +95,9 @@ A 15 km del Aeropuerto del sur Reina Sofía.
 
 📌 **También te puede interesar:** 
 
-[Hotel Bahía del Duque, desconexión en 
-Tenerife](https://etheriamagazine.com/2019/01/11/donde-dormir-tenerife-hotel-bahia-del-duque/) 
+{{< reflink path=posts/2019/01/donde-dormir-tenerife-hotel-bahia-del-duque >}} 
 
-[10 planes para un viaje a Tenerife con 
-amigas](https://etheriamagazine.com/2021/05/17/viaje-a-tenerife-con-amigas-que-hacer-excursiones/) 
+{{< reflink path=posts/2021/05/viaje-a-tenerife-con-amigas-que-hacer-excursiones >}} 
 
-[8 excursiones con niños desde el sur de 
-Tenerife](https://etheriamagazine.com/2020/03/06/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos/)
+{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
+>}}

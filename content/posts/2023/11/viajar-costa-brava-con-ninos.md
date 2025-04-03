@@ -1,7 +1,7 @@
 ---
 title: "Por qué deberías viajar a la Costa Brava con niños"
 date: 2023-11-06
-coverImage: https://fotos.etheriamagazine.com/2023/11/viaje-familia-ripoll.jpg
+cover: https://fotos.etheriamagazine.com/2023/11/viaje-familia-ripoll.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-Los destinos nacionales son opciones ideales para viajar en familia gracias a la 
+**Los destinos nacionales son opciones ideales para viajar en familia gracias a la 
 brevedad de los desplazamientos, la presencia de hoteles de calidad y la deliciosa 
 gastronomía local. En un viaje a la Costa Brava con niños, además de estas ventajas, se 
 abre la puerta a emocionantes talleres didácticos y actividades divertidas, que te 
-invitamos a conocer a continuación. 
+invitamos a conocer a continuación.** 
 
 ![Portada monumental de Ripoll y talleres de escritura](https://fotos.etheriamagazine.com/2023/11/viaje-familia-ripoll.jpg "Portalada monumental de Santa María de Ripoll. © D. Espada/ Arxiu Imatges PTCBG")
 
@@ -107,9 +107,9 @@ actividad en el Tel. 972 250 512
 
 ✅ **Si viajas con niños también te puede interesar:** 
 
-[8 planes geniales con niños para descubrir el patrimonio industrial 
-catalán](https://etheriamagazine.com/2019/12/18/planes-familiares-en-barcelona-y-tarragona-turismo-industrial/). 
+{{< reflink 
+path=posts/2019/12/planes-familiares-en-barcelona-y-tarragona-turismo-industrial >}}. 
 
-[Exp](https://etheriamagazine.com/2021/06/09/8-experiencias-en-el-pallars-jussa-excursiones-en-lleida/)[eriencias 
-que sólo puedes vivir en el Pallars Jussà 
-(Lleida)](https://etheriamagazine.com/2021/06/09/8-experiencias-en-el-pallars-jussa-excursiones-en-lleida/).
+{{< reflink path=posts/2021/06/8-experiencias-en-el-pallars-jussa-excursiones-en-lleida 
+>}}{{< reflink 
+path=posts/2021/06/8-experiencias-en-el-pallars-jussa-excursiones-en-lleida >}}.

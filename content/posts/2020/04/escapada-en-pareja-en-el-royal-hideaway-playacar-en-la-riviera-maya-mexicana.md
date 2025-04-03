@@ -1,7 +1,7 @@
 ---
 title: "Escapada en pareja al Royal Hideaway Playacar en la Riviera Maya mexicana"
 date: 2020-04-07
-coverImage: https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-piscina-infinita.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-piscina-infinita.jpg
 categories: 
   - viajar-en-pareja
   - hoteles
@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-El hotel de cinco estrellas Royal Hideaway Playacar es un rincón de paz sólo para 
+**El hotel de cinco estrellas Royal Hideaway Playacar es un rincón de paz sólo para 
 adultos en la paradisíaca costa de Playa del Carmen, en la Riviera Maya mexicana. Tiene 
 todo lo que puedas desear para esa escapada romántica que tan bien sienta al menos una 
-vez al año. 
+vez al año.** 
 
 ![Royal Hideaway Playacar Adults only](https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-vista-general.jpg "Vista del Royal Hideaway Playacar Adults only.")
 
@@ -105,7 +105,9 @@ experiencia única, ¿qué os parece un masaje al lado del mar?
 
 ![Sala del spa The Retreat.](https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-spa.jpg "Sala del spa The Retreat.")
 
-[Royal Hideaway Playacar - Adults 
+[Royal Hideaway Playacar 
+
+- Adults 
 only](https://www.barcelo.com/es/royal-hideaway/hoteles/mexico/riviera-maya/royal-hideaway-playacar/#servicios) 
 Lote Hotelero No. 6, Desarrollo. 77710 Playacar , Playa del Carmen. Quintana Roo. Tel. + 
 52 984 873 45 00 Habitación doble para dos personas desde 242 Euros la noche. 

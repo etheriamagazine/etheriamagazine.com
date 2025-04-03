@@ -1,7 +1,7 @@
 ---
 title: "Alójate en The Gritti Palace y vive Venecia desde dentro de un palacio"
 date: 2022-07-29
-coverImage: https://fotos.etheriamagazine.com/2022/07/gritti-palace-terraza.jpg
+cover: https://fotos.etheriamagazine.com/2022/07/gritti-palace-terraza.jpg
 categories: 
   - hoteles
 destino: 
@@ -126,8 +126,6 @@ Campo Santa Maria del Giglio 2467, Venecia. Teléfono: +39 041 794611
 
 ## También te puede interesar:
 
-[San Marco: no te pierdas ningún detalle del corazón de 
-Venecia](https://etheriamagazine.com/2022/06/09/san-marco-venecia/) 
+{{< reflink path=posts/2022/06/san-marco-venecia >}} 
 
-[Verona, mucho más que la ciudad de 
-Julieta](https://etheriamagazine.com/2021/12/01/que-ver-en-verona/)
+{{< reflink path=posts/2021/12/que-ver-en-verona >}}

@@ -1,7 +1,7 @@
 ---
 title: "De cañas en Madrid: ruta por el barrio de los Austrias y por el de las Letras"
 date: 2018-12-28
-coverImage: https://fotos.etheriamagazine.com/2018/12/Madrid-canas-taberna-la-daniela.jpg
+cover: https://fotos.etheriamagazine.com/2018/12/Madrid-canas-taberna-la-daniela.jpg
 categories: 
   - inspiración
   - gourmet
@@ -51,10 +51,10 @@ almejas).
 
 ![ruta gastronomica, de cañas por Madrid](https://fotos.etheriamagazine.com/2018/12/Madrid-canas-el-neru.jpg "En El Ñeru destaca la calidad de sus productos asturianos.")
 
-Después, sube hasta la calle Mayor y, al lado de la Plaza Mayor, se sitúa el famoso [Mercado 
-de San Miguel](http://mercadodesanmiguel.es). Su principal problema es que está siempre 
-concurrido, pero entre tanto _guiri_ es posible ver la luz y probar la deliciosa fritura 
-de pescado en AOVE de El Señor Martín o las ostras de Daniel Sorlut. 
+Después, sube hasta la calle Mayor y, al lado de la Plaza Mayor, se sitúa el famoso 
+[Mercado de San Miguel](http://mercadodesanmiguel.es). Su principal problema es que está 
+siempre concurrido, pero entre tanto _guiri_ es posible ver la luz y probar la deliciosa 
+fritura de pescado en AOVE de El Señor Martín o las ostras de Daniel Sorlut. 
 
 Tienes que guardar fuerzas para llegar a uno de los lugares más emblemáticos de Madrid, 
 de esos que si eres madrileño y no lo conoces mal vas: **Casa Paco** 
@@ -96,11 +96,9 @@ canapés para acompañar al dorado elemento.
 
 **Sigue leyendo sobre Madrid...** 
 
-[10 tabernas históricas de Madrid donde tomar el 
-vermú](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/) 
+{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}} 
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/). 
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}. 
 
-[Ruta por el Madrid más libre (de 
-gluten)](https://etheriamagazine.com/2020/10/02/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias/).
+{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
+>}}.

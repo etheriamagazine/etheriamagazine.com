@@ -1,7 +1,7 @@
 ---
 title: "Escapada para dos al hotel boutique Palacio Solecio"
 date: 2020-01-20
-coverImage: https://fotos.etheriamagazine.com/2020/01/hotel-palacio-solecio-restaurante.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/hotel-palacio-solecio-restaurante.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Si estás buscando un plan para una escapada romántica te damos una pista con la que no 
-vas a fallar: un fin de semana en el Palacio . Un nuevo hotel boutique de lujo en Málaga 
-perfecto para desconectar y disfrutar de una de las ciudades más vibrantes y divertidas 
-de España. 
+**Si estás buscando un plan para una escapada romántica te damos una pista con la que no 
+vas a fallar: un fin de semana en el Palacio**. **Un nuevo hotel boutique de lujo en 
+Málaga perfecto para desconectar y disfrutar de una de las ciudades más vibrantes y 
+divertidas de España.** 
 
 ![Escalera de acceso y patio donde está el restaurante Balausta.](https://fotos.etheriamagazine.com/2020/01/hotel-palacio-solecio-escalera-patio.jpg "Escalera de acceso y patio donde está el restaurante Balausta.")
 
@@ -101,11 +101,8 @@ las sabrosas tapas malagueñas.
 
 📌 **También te puede interesar:** 
 
-[Málaga con amigas, el fin de semana que os 
-merecéis](https://etheriamagazine.com/2021/05/03/fin-de-semana-con-amigas-en-malaga/) 
+{{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}} 
 
-[8 excursiones en Málaga para hacer con 
-niños](https://etheriamagazine.com/2021/07/12/excursiones-en-malaga-con-ninos/) 
+{{< reflink path=posts/2021/07/excursiones-en-malaga-con-ninos >}} 
 
-[Un día en Frigiliana, uno de los pueblos más bonitos de 
-Málaga](https://etheriamagazine.com/2021/12/15/que-ver-excursion-a-frigiliana/)
+{{< reflink path=posts/2021/12/que-ver-excursion-a-frigiliana >}}

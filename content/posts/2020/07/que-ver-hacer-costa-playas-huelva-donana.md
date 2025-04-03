@@ -1,7 +1,7 @@
 ---
 title: "Descubre la magia de las playas y la costa de Huelva"
 date: 2020-07-01
-coverImage: https://fotos.etheriamagazine.com/2020/06/Huelva-playas-7.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/Huelva-playas-7.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -173,11 +173,8 @@ Riotinto](https://parquemineroderiotinto.es/).
 
 ### También te puede interesar...
 
-[Huelva con niños: 6 planes para aprovechar el viaje al 
-máximo](https://etheriamagazine.com/2021/06/21/planes-en-huelva-con-ninos/) 
+{{< reflink path=posts/2021/06/planes-en-huelva-con-ninos >}} 
 
-[La historia del Descubrimiento en el Muelle de las Carabelas (La Rábida, 
-Huelva)](https://etheriamagazine.com/2018/09/20/muelle-de-las-carabelas-la-rabida-huelva/) 
+{{< reflink path=posts/2018/09/muelle-de-las-carabelas-la-rabida-huelva >}} 
 
-[Puerto Antilla Grand Hotel, un oasis en la costa de 
-Huelva](https://etheriamagazine.com/2021/06/03/puerto-antilla-grand-hotel-costa-huelva-familias/)
+{{< reflink path=posts/2021/06/puerto-antilla-grand-hotel-costa-huelva-familias >}}

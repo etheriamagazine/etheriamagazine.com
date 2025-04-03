@@ -1,7 +1,7 @@
 ---
 title: "Viajar sola por el mundo tras la jubilación, el nuevo plan de vida de Sania Jelic"
 date: 2022-12-13
-coverImage: https://fotos.etheriamagazine.com/2022/12/Sania-moto.jpg
+cover: https://fotos.etheriamagazine.com/2022/12/Sania-moto.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Sania Jelic
 ---
 
-Dar voz a las mujeres viajeras y decididas es uno de los objetivos de Etheria Magazine. 
-Por este motivo no podíamos dejar de relataros la aventura en la que se ha embarcado 
-Sania Jelic, una croata con nacionalidad española que se ha propuesto viajar sola tras 
-la jubilación. Pero eso no es todo, con su proyecto “Silver Sania” está decidida a 
-demostrar que los sesenta son perfectos para recorrer el planeta y disfrutar con calma 
-del placer de sumergirse en las culturas de otros países. 
+**Dar voz a las mujeres viajeras y decididas es uno de los objetivos de Etheria 
+Magazine. Por este motivo no podíamos dejar de relataros la aventura en la que se ha 
+embarcado Sania Jelic, una croata con nacionalidad española que se ha propuesto viajar 
+sola tras la jubilación. Pero eso no es todo, con su proyecto “Silver Sania” está 
+decidida a demostrar que los sesenta son perfectos para recorrer el planeta y disfrutar 
+con calma del placer de sumergirse en las culturas de otros países.** 
 
 ![Sania viajando por el mundo](https://fotos.etheriamagazine.com/2022/12/sania-de-viaje.jpg "Sania Jelic viajando por el mundo.")
 
@@ -144,29 +144,23 @@ Con todo hecho, o anotado en la lista de cosas por hacer, me senté al portátil
 billetes y reservé alojamiento para los primeros 45 días. ¿Queréis saber cómo me fue? Os 
 lo cuento en la próxima entrega. 
 
-📌 Sigue el día a día de Sania Jelic en su perfil de [Instagram](https://www.instagram.com/sania.jelic/). 
+📌 Sigue el día a día de Sania Jelic en su perfil de 
+[Instagram](https://www.instagram.com/sania.jelic/). 
 
 Fotografías cedidas por Sania Jelic. 
 
 **También te puede interesar:** 
 
-02. [El Amazonas: nueva etapa de Sania Jelic en 
-Sudamérica](https://etheriamagazine.com/2022/12/24/sania-jelic-amazonas/). 
+02. {{< reflink path=posts/2022/12/sania-jelic-amazonas >}}. 
 
-03. [Sania en Patagonia (parte 1): Ushuaia y Punta 
-Arenas](https://etheriamagazine.com/2023/01/10/sania-en-patagonia-ushuaia-punta-arenas/). 
+03. {{< reflink path=posts/2023/01/sania-en-patagonia-ushuaia-punta-arenas >}}. 
 
-04. [Sania Jelic en Patagonia (parte 2): Calafate y El 
-Chalten](https://etheriamagazine.com/2023/01/20/sania-jelic-patagonia-calafate-chalten/). 
+04. {{< reflink path=posts/2023/01/sania-jelic-patagonia-calafate-chalten >}}. 
 
-05. [Sania en Patagonia (parte 3): todo va lento, menos el 
-viento](https://etheriamagazine.com/2023/01/24/sania-patagonia-chilena/). 
+05. {{< reflink path=posts/2023/01/sania-patagonia-chilena >}}. 
 
-06. [Isla de Chiloé, consejos de Sania para 
-visitarla](https://etheriamagazine.com/2023/02/03/sania-archipielago-de-chiloe/). 
+06. {{< reflink path=posts/2023/02/sania-archipielago-de-chiloe >}}. 
 
-07. [Cruce Andino, Bariloche y El Bolsón, fin del viaje de Sania en 
-Patagonia](https://etheriamagazine.com/2023/02/10/patagonia-cruce-lagos/). 
+07. {{< reflink path=posts/2023/02/patagonia-cruce-lagos >}}. 
 
-08\. [Sania en Mendoza, la mayor región vinícola 
-argentina](https://etheriamagazine.com/2023/02/17/sania-que-hacer-en-mendoza/).
+08\. {{< reflink path=posts/2023/02/sania-que-hacer-en-mendoza >}}.

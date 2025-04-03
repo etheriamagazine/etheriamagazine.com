@@ -1,7 +1,7 @@
 ---
 title: "Planes para disfrutar de Extremadura en otoño con tu familia"
 date: 2024-11-11
-coverImage: https://fotos.etheriamagazine.com/2024/11/extremadura-valle-ambroz-paraguas.jpg
+cover: https://fotos.etheriamagazine.com/2024/11/extremadura-valle-ambroz-paraguas.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -74,7 +74,8 @@ música, entre otras actividades.
 
 Extremadura cuenta con uno de los cielos más oscuros de la Europa occidental, así que no 
 hace falta decir que es uno de los mejores lugares de España para observar las 
-estrellas. Algunos de los mejores lugares para realizar [astroturismo](https://www.turismoextremadura.com/es/ven-a-extremadura/astroturismo/) 
+estrellas. Algunos de los mejores lugares para realizar 
+[astroturismo](https://www.turismoextremadura.com/es/ven-a-extremadura/astroturismo/) 
 son la Reserva de la Biosfera de Monfragüe, las localidades ubicadas en torno al lago 
 Alqueva y las Hurdes, todos certificados como destinos Starlight. Y, por supuesto, El 
 Chorreón, en Moraleja, el único Paraje Starlight de Extremadura. 
@@ -135,11 +136,9 @@ experiencias turísticas.
 
 **También te puede interesar:** 
 
-[Elige uno de estos 10 motivos para viajar a La Siberia 
-extremeña](https://etheriamagazine.com/2021/09/26/10-motivos-para-viajar-a-la-siberia-extremena/) 
+{{< reflink path=posts/2021/09/10-motivos-para-viajar-a-la-siberia-extremena >}} 
 
-[Las Hurdes, un paraíso extremeño que huye de 
-estereotipos](https://etheriamagazine.com/2020/07/21/viajes-espana-las-hurdes-un-paraiso-extremeno/) 
+{{< reflink path=posts/2020/07/viajes-espana-las-hurdes-un-paraiso-extremeno >}} 
 
-[Valle del Jerte, entre cerezas y piscinas 
-naturales](https://etheriamagazine.com/2020/06/17/viajes-por-espana-alle-del-jerte-piscinas-naturales-cerezas/)
+{{< reflink 
+path=posts/2020/06/viajes-por-espana-alle-del-jerte-piscinas-naturales-cerezas >}}

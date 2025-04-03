@@ -1,7 +1,7 @@
 ---
 title: "Descubre las tradiciones navideñas de Alemania"
 date: 2020-11-30
-coverImage: https://fotos.etheriamagazine.com/2020/11/alemania-navidad-pastas.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/alemania-navidad-pastas.jpg
 categories: 
   - ocio
 destino: 
@@ -153,11 +153,10 @@ a los pequeños sus regalos más ansiados.
 
 ### También te puede interesar...
 
-1\. [Descubre Hamburgo en 48 
-horas](https://etheriamagazine.com/2020/02/24/que-ver-hacer-fin-de-semana-hamburgo-alemania/). 
+1\. {{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}}. 
 
-2\. [10 planes en 
-Heidelberg](https://etheriamagazine.com/2020/06/12/que-ver-hacer-en-heidelberg-si-viajas-sola-amigas/). 
+2\. {{< reflink path=posts/2020/06/que-ver-hacer-en-heidelberg-si-viajas-sola-amigas 
+>}}. 
 
-3\. [Baviera en familia: de Playmobil a 
-Legoland](https://etheriamagazine.com/2019/06/12/viaje-en-familia-parques-alemania-playmobil-legoland/).
+3\. {{< reflink path=posts/2019/06/viaje-en-familia-parques-alemania-playmobil-legoland 
+>}}.

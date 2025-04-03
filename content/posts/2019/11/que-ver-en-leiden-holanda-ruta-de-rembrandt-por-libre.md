@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en Leiden, la cuna de Rembrandt"
 date: 2019-11-14
-coverImage: https://fotos.etheriamagazine.com/2019/11/viaje-Leiden-terrazas.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/viaje-Leiden-terrazas.jpg
 categories: 
   - viajar-con-amigas
   - viajar-sola
@@ -11,10 +11,10 @@ authors:
   - Pedro Grifol
 ---
 
-El pintor Rembrandt van Rijn se movió entre Leiden, su ciudad natal, y Ámsterdam, donde 
-desarrolló su carrera. No tuvo necesidad de viajar a ningún sitio. Fans y clientes iban 
-donde su estudio estuviera. Aquí hemos viajado nosotros también para contarte qué ver en 
-Leiden. 
+**El pintor Rembrandt van Rijn se movió entre Leiden, su ciudad natal, y Ámsterdam, 
+donde desarrolló su carrera. No tuvo necesidad de viajar a ningún sitio. Fans y clientes 
+iban donde su estudio estuviera. Aquí hemos viajado nosotros también para contarte qué 
+ver en Leiden.** 
 
 ![paseo en bicicleta por Leiden](https://fotos.etheriamagazine.com/2019/11/que-ver-Leiden.jpg "Estampa otoñal de Leiden. ©Pedro Grifol")
 
@@ -168,11 +168,8 @@ También está cerca de la estación de tren. Buen sitio.
 
 📍 **También te puede interesar:** 
 
-[Museo NEMO en Ámsterdam, ciencia al alcance de la 
-mano](https://etheriamagazine.com/2018/10/06/museo-nemo-en-amsterdam-ciencia-para-toda-la-familia/) 
+{{< reflink path=posts/2018/10/museo-nemo-en-amsterdam-ciencia-para-toda-la-familia >}} 
 
-[48 horas en… Amsterdam, la vida en la 
-calle](https://etheriamagazine.com/2019/04/11/viajar-sola-que-ver-hacer-dormir-amsterdam/) 
+{{< reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-amsterdam >}} 
 
-[Visitas en Ámsterdam para un finde con tu 
-madre](https://etheriamagazine.com/2018/09/25/amsterdam-un-fin-de-semana-con-tu-madre/)
+{{< reflink path=posts/2018/09/amsterdam-un-fin-de-semana-con-tu-madre >}}

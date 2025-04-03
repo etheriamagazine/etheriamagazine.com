@@ -1,7 +1,7 @@
 ---
 title: "Las Cantaderas de León, la fiesta de las cien doncellas"
 date: 2021-09-30
-coverImage: https://fotos.etheriamagazine.com/2021/09/sotadera-fiesta-las-Cantaderas.jpg
+cover: https://fotos.etheriamagazine.com/2021/09/sotadera-fiesta-las-Cantaderas.jpg
 categories: 
   - ocio
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Redacción Etheria
 ---
 
-Los vínculos con el pasado, aunque sea envuelto en leyendas, nos sirven para recordar 
+**Los vínculos con el pasado, aunque sea envuelto en leyendas, nos sirven para recordar 
 momentos históricos quizá no tan lejanos pero sí relegados al olvido. Con la Fiesta de 
 las Cantaderas vuelve a la memoria una importante victoria cristiana sobre los 
 musulmanes con la que se acabó con el tributo de las cien doncellas. El 2 de octubre 
 tienes una cita en León para vivir esta fiesta de Interés Turístico Regional en primera 
-persona. 
+persona.** 
 
 ![sotadera y doncellas las cantaderas leon](https://fotos.etheriamagazine.com/2021/09/doncellas-fiesta-cantaderas.jpg "La sotadera encabeza el desfile de las jóvenes doncellas.")
 
@@ -96,12 +96,12 @@ Cantiga décima de Alfonso X el Sabio.
 
 ![las cantaderas en claustro catedral leon](https://fotos.etheriamagazine.com/2021/09/cantaderas-claustro-catedral.jpg "Grupo de jóvenes del desfile de Las Cantaderas en el claustro de la Catedral de León.")
 
-Al igual que ocurría en la [Fiesta de las 
-Cabezadas](https://etheriamagazine.com/2021/04/23/que-es-la-fiesta-de-las-cabezadas-de-leon/) 
-(puedes leer en el enlace anterior) también aquí se produce un divertido debate 
-dialéctico (foro u oferta) entre el representante civil del Ayuntamiento y el del 
-Cabildo sobre si es un acto libre, una ofrenda o bien existe una obligación por parte 
-del pueblo de agradecer a la Virgen sus favores durante la batalla de Clavijo. 
+Al igual que ocurría en la {{< reflink 
+path=posts/2021/04/que-es-la-fiesta-de-las-cabezadas-de-leon >}} (puedes leer en el 
+enlace anterior) también aquí se produce un divertido debate dialéctico (foro u oferta) 
+entre el representante civil del Ayuntamiento y el del Cabildo sobre si es un acto 
+libre, una ofrenda o bien existe una obligación por parte del pueblo de agradecer a la 
+Virgen sus favores durante la batalla de Clavijo. 
 
 Una vez que termina la eucaristía, las Cantaderas realizan **una danza sacramental** 
 dirigida por la sotadera, y la corporación se dirige a la plaza del Grano donde tienen 
@@ -118,12 +118,9 @@ León](https://www.leonestradicion.com/).
 
 ### También te puede interesar...
 
-[De tapinas por León: el secreto mejor guardado de la capital del Santo 
-Grial](https://etheriamagazine.com/2021/09/09/ruta-para-comer-bien-en-leon-capital/). 
+{{< reflink path=posts/2021/09/ruta-para-comer-bien-en-leon-capital >}}. 
 
-[10 planes para disfrutar al máximo de León en 
-familia](https://etheriamagazine.com/2021/07/05/10-planes-para-disfrutar-de-leon-en-familia/). 
+{{< reflink path=posts/2021/07/10-planes-para-disfrutar-de-leon-en-familia >}}. 
 
-[Si León no existiera, habría que inventarlo: 10 razones para descubrir la capital de un 
-reino 
-fascinante](https://etheriamagazine.com/2020/12/28/10-razones-para-descubrir-leon-una-capital-unica-y-diferente/).
+{{< reflink 
+path=posts/2020/12/10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}.

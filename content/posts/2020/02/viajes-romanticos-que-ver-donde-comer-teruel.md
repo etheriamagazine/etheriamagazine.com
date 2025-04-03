@@ -1,7 +1,7 @@
 ---
 title: "Teruel, pistas para descubrir su arte y mejores restaurantes"
 date: 2020-02-10
-coverImage: https://fotos.etheriamagazine.com/2020/02/restaurante-metodo-teruel-1.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/restaurante-metodo-teruel-1.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -10,8 +10,8 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-Elisabeth G. Iborra, como buena aragonesa, nos cuenta sus lugares favoritos de Teruel y 
-dónde degustar sus sabores más auténticos. Arte y gastronomía se dan la mano. 
+**Elisabeth G. Iborra, como buena aragonesa, nos cuenta sus lugares favoritos de Teruel 
+y dónde degustar sus sabores más auténticos. Arte y gastronomía se dan la mano.** 
 
 ![Escalinata neomudéjar de Teruel.](https://fotos.etheriamagazine.com/2020/01/Teruel-escalinata.jpg "Escalinata neomudéjar de Teruel.")
 
@@ -87,10 +87,11 @@ y en las figuras de sus tumbas, que no alcanzan a tocarse.
 
 Por cierto, sus momias se conservan bastante bien para las vueltas que han dado en los 
 últimos siglos, pues han estado incluso a la intemperie y en vertical en el claustro de 
-San Pedro. Este forma parte del **Mausoleo de los Amantes - Fundación Amantes de 
-Teruel**, que incluye la catedral, con un techo que parece abierto al cielo, un retablo 
-gótico increíble y unas vidrieras que se pueden contemplar desde fuera por los pasadizos 
-exteriores que llevan hasta la torre. 
+San Pedro. Este forma parte del **Mausoleo de los Amantes 
+
+- Fundación Amantes de Teruel**, que incluye la catedral, con un techo que parece 
+abierto al cielo, un retablo gótico increíble y unas vidrieras que se pueden contemplar 
+desde fuera por los pasadizos exteriores que llevan hasta la torre. 
 
 En su jardín se realizan eventos cuando no hace ese frío polar que permite que la 
 provincia tenga dos estaciones de esquí (Javalambre y Valdelinares). Si tienes hijos, es 
@@ -128,8 +129,6 @@ de Aragón, el mayor productor de este sabroso hongo de España. Como para hacer
 
 **También te puede interesar...** 
 
-[Ruta en coche por Teruel, 10 paradas por carreteras 
-secundarias](https://etheriamagazine.com/2021/10/12/ruta-en-coche-por-teruel/). 
+{{< reflink path=posts/2021/10/ruta-en-coche-por-teruel >}}. 
 
-[Alcañiz, rocanrol por la ciudad con las mejores curvas de 
-Aragón](https://etheriamagazine.com/2022/05/23/lugares-que-ver-en-alcaniz/).
+{{< reflink path=posts/2022/05/lugares-que-ver-en-alcaniz >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Qué visitar en Tarazona, una ciudad donde vivir tu propio cuento medieval"
 date: 2024-09-23
-coverImage: https://fotos.etheriamagazine.com/2024/09/tarazona-monumental.jpg
+cover: https://fotos.etheriamagazine.com/2024/09/tarazona-monumental.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -167,8 +167,7 @@ oratorio. El convento de San Francisco se fundaría un poco más tarde.
 
 **También en Etheria Magazine** 
 
-[8 escapadas en la provincia de 
-Zaragoza](https://etheriamagazine.com/2020/06/08/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza/). 
+{{< reflink path=posts/2020/06/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza 
+>}}. 
 
-[Zaragoza bien vale un vermú torero… o 
-tres](https://etheriamagazine.com/2019/02/12/mejores-bares-viaje-zaragoza/).
+{{< reflink path=posts/2019/02/mejores-bares-viaje-zaragoza >}}.

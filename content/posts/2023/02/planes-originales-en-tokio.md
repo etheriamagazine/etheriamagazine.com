@@ -1,7 +1,7 @@
 ---
 title: "10 planes originales en Tokio: saca tu lado más friki"
 date: 2023-02-13
-coverImage: https://fotos.etheriamagazine.com/2023/02/tokio-friki.jpg
+cover: https://fotos.etheriamagazine.com/2023/02/tokio-friki.jpg
 categories: 
   - ocio
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Susana García
 ---
 
-Una ciudad como Tokio se puede visitar de mil maneras y, si puedes, más de una vez. 
+**Una ciudad como Tokio se puede visitar de mil maneras y, si puedes, más de una vez. 
 Siempre sacarás partido a un lugar que combina como ningún otro los aspectos 
 tradicionales de la cultura japonesa con una vanguardia futurista que la hace única. 
 Aquí te sugerimos 10 planes originales en Tokio con los que exprimir el lado más friki 
-de una ciudad donde está prohibido el aburrimiento. 
+de una ciudad donde está prohibido el aburrimiento.** 
 
 ![Vestimentas originales en Tokio.](https://fotos.etheriamagazine.com/2023/02/tokio-friki.jpg "'Looks' muy originales en Tokio. © TCVB")
 
@@ -142,19 +142,19 @@ presenciar algún combate (en enero, mayo y septiembre) para el que hay que comp
 previamente la entrada. Si no viajas en esos meses, también pudes visitarlo ya que 
 alberga el Museo del Sumo. Otro lugar de referencia es **Sumo Experience**, donde se 
 realizan exhibiciones y se puede incluso realizar un entrenamiento de esta disciplina. 
-Puedes reservarla a través de [Civitatis](https://www.civitatis.com/es/tokio/visita-entrenamiento-sumo/?aid=10211). 
+Puedes reservarla a través de 
+[Civitatis](https://www.civitatis.com/es/tokio/visita-entrenamiento-sumo/?aid=10211). 
 
 ![Combate de sumo.](https://fotos.etheriamagazine.com/2023/02/tokio-sumo.jpg "Combate de sumo. © Bob Fisher")
 
 ## Relax en un onsen japonés
 
 Está prohibido visitar Japón y no dejarse seducir por la cultura tradicional del agua 
-reflejada en sus onsen (ya os lo contábamos en el artículo [La experiencia de alojarse 
-en un Ryokan en 
-Japón](https://etheriamagazine.com/2019/05/10/viajar-japon-que-es-ryokan-y-onsen/)). 
-Aunque hay otras zonas del país como Hakone más populares para alojarse en los 
-tradicionales ryokan y disfrutar de las aguas termales, si sólo se visita Tokio también 
-te puedes dar un respiro en forma de baño calentito. 
+reflejada en sus onsen (ya os lo contábamos en el artículo {{< reflink 
+path=posts/2019/05/viajar-japon-que-es-ryokan-y-onsen >}}). Aunque hay otras zonas del 
+país como Hakone más populares para alojarse en los tradicionales ryokan y disfrutar de 
+las aguas termales, si sólo se visita Tokio también te puedes dar un respiro en forma de 
+baño calentito. 
 
 ![Piscina de un onsen.](https://fotos.etheriamagazine.com/2023/02/tokio-onsen.jpg "Piscina de un onsen. © TCVB")
 
@@ -174,11 +174,12 @@ quieres quedar a dormir.
 
 ¿Te imaginas subirte a un kart y emular a Mario y a Luigi por las calles de Tokio? 
 Puedes convertirte en la protagonista, con disfraz incluido, del popular juego ideado 
-por Shigeru Miyamoto en los años ochenta en su versión Mario Kart. [Civitatis](https://www.civitatis.com/es/tokio/tour-kart-tokio/?aid=10211) 
-propone esta actividad (de una o dos horas) acompañados de un guía local desde el 
-edificio Sasage con la que recorrer las calles principales de Tokio y ver sus altos 
-edificios y templos de una forma muy divertida. Ten en cuenta que para realizarlo hay 
-que tener más de dieciocho años y medir más de 1,50 metros. 
+por Shigeru Miyamoto en los años ochenta en su versión Mario Kart. 
+[Civitatis](https://www.civitatis.com/es/tokio/tour-kart-tokio/?aid=10211) propone esta 
+actividad (de una o dos horas) acompañados de un guía local desde el edificio Sasage con 
+la que recorrer las calles principales de Tokio y ver sus altos edificios y templos de 
+una forma muy divertida. Ten en cuenta que para realizarlo hay que tener más de 
+dieciocho años y medir más de 1,50 metros. 
 
 ### Seguro de viaje a Japón
 
@@ -195,11 +196,8 @@ más de un viaje al año.
 
 **También te puede interesar:** 
 
-[Descubre la magia de Tokio en sólo tres 
-días](https://etheriamagazine.com/2021/07/28/que-hacer-3-dias-en-tokio-viajes-mujeres/) 
+{{< reflink path=posts/2021/07/que-hacer-3-dias-en-tokio-viajes-mujeres >}} 
 
-[Qué es el ramen y dónde probarlo en 
-Tokio](https://etheriamagazine.com/2021/05/06/donde-comer-ramen-bueno-y-barato-en-tokio/) 
+{{< reflink path=posts/2021/05/donde-comer-ramen-bueno-y-barato-en-tokio >}} 
 
-[5 recomendaciones para preparar un viaje a 
-Japón](https://etheriamagazine.com/2019/06/18/como-organizar-un-viaje-a-japon/)
+{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}}

@@ -1,7 +1,7 @@
 ---
 title: "Aventura en Belmonte para toda la familia"
 date: 2019-09-09
-coverImage: https://fotos.etheriamagazine.com/2019/08/viaje-etheria-castillo-de-Belmonte-combate-medieval.jpg
+cover: https://fotos.etheriamagazine.com/2019/08/viaje-etheria-castillo-de-Belmonte-combate-medieval.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pedro Grifol
 ---
 
-Vive una experiencia medieval única en el corazón de la provincia de Cuenca, y recorre 
+**Vive una experiencia medieval única en el corazón de la provincia de Cuenca, y recorre 
 las llanuras de la comarca castellano-manchega como lo hiciera Don Quijote, es decir: 
 sin pisar el asfalto. Te contamos qué ver en Belmonte, un viaje apropiado tanto para 
-hacerlo con amigos como en familia. Tú eliges. 
+hacerlo con amigos como en familia. Tú eliges.** 
 
 ![Castillo de Belmonte al anochecer](https://fotos.etheriamagazine.com/2019/08/viaje-etheria-Castillo-de-Belmonte.jpg "Castillo de Belmonte. ©P.Grifol")
 
@@ -209,8 +209,8 @@ natural envejecido entre 12 y 14 meses en fudres franceses. Enhorabuena.
 
 **📌** **También te puede interesar:** 
 
-[13 excursiones en Cuenca para descubrir los tesoros de la 
-provincia](https://etheriamagazine.com/2020/06/04/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca/) 
+{{< reflink 
+path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+>}} 
 
-[Tres planes con niños en la Serranía de 
-Cuenca](https://etheriamagazine.com/2019/11/29/turismo-rural-familiar-con-ninos-en-serrania-cuenca/)
+{{< reflink path=posts/2019/11/turismo-rural-familiar-con-ninos-en-serrania-cuenca >}}

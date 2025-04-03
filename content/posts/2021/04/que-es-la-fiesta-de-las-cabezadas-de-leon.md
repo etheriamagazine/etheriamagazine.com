@@ -1,7 +1,7 @@
 ---
 title: "Fiesta de las Cabezadas de León, una celebración histórica llena de ironía"
 date: 2021-04-23
-coverImage: https://fotos.etheriamagazine.com/2021/04/fiesta-las-cabezadas-leon.jpg
+cover: https://fotos.etheriamagazine.com/2021/04/fiesta-las-cabezadas-leon.jpg
 categories: 
   - ocio
 destino: 
@@ -118,12 +118,9 @@ Tradición](https://www.leonestradicion.com).
 
 ## Sigue leyendo sobre León...
 
-[Si León no existiera, habría que inventarlo: 10 razones para descubrir la capital de un 
-reino 
-fascinante](https://etheriamagazine.com/2020/12/28/10-razones-para-descubrir-leon-una-capital-unica-y-diferente/). 
+{{< reflink 
+path=posts/2020/12/10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}. 
 
-[16 secretos que desconoces de la milenaria ciudad de 
-León](https://etheriamagazine.com/2020/12/16/16-lugares-secretos-y-leyendas-de-leon-capital/). 
+{{< reflink path=posts/2020/12/16-lugares-secretos-y-leyendas-de-leon-capital >}}. 
 
-Excursiones: [Las Médulas, ‘prestosidad’ a la 
-leonesa](https://etheriamagazine.com/2020/05/11/escapadas-por-espana-las-medulas-leon/).
+Excursiones: {{< reflink path=posts/2020/05/escapadas-por-espana-las-medulas-leon >}}.

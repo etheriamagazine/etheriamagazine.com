@@ -1,7 +1,7 @@
 ---
 title: "Ruta en coche por la península de Istria, la Riviera más estilosa de Croacia"
 date: 2023-11-16
-coverImage: https://fotos.etheriamagazine.com/2023/11/Istria-Rovinj.-Atardecer-chicas.jpg
+cover: https://fotos.etheriamagazine.com/2023/11/Istria-Rovinj.-Atardecer-chicas.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -175,8 +175,7 @@ literalmente, el mejor sabor de boca.
 
 **También te puede interesar:** 
 
-[Croacia: consejos y visitas imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2021/01/22/viaje-a-croacia-como-organizar-que-ver-hacer/) 
+{{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}} 
 
-[10 razones para visitar en otoño el Parque Nacional Lagos de Plitvice 
-(Croacia)](https://etheriamagazine.com/2018/10/05/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia/)
+{{< reflink path=posts/2018/10/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia 
+>}}

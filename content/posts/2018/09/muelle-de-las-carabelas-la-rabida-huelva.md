@@ -1,7 +1,7 @@
 ---
 title: "El Muelle de las Carabelas, un plan ideal en La Rábida para hacer con niños"
 date: 2018-09-20
-coverImage: https://fotos.etheriamagazine.com/2018/09/Huelva-Parque-Carabelas-conjunto.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/Huelva-Parque-Carabelas-conjunto.jpg
 categories: 
   - viajar-en-familia
   - ocio
@@ -11,10 +11,11 @@ authors:
   - Pepa G. Marín
 ---
 
-No es Disneyland París ni Port Aventura –y tampoco puede considerarse un parque de ocio– 
-pero los niños disfrutan y aprenden en este lugar sobre un periodo importante en la 
-historia de España. El Muelle de las Carabelas de La Rábida (Huelva), combinado con el 
-cercano monasterio de La Rábida, es una visita didáctica ideal para toda la familia. 
+**No es Disneyland París ni Port Aventura –y tampoco puede considerarse un parque de 
+ocio– pero los niños disfrutan y aprenden en este lugar sobre un periodo importante en 
+la historia de España. El Muelle de las Carabelas de La Rábida (Huelva), combinado con 
+el cercano monasterio de La Rábida, es una visita didáctica ideal para toda la 
+familia.** 
 
 ![muelle carabelas huelva descubrimiento america](https://fotos.etheriamagazine.com/2018/09/Huelva-Parque-Carabelas-conjunto.jpg "Muelle de las Carabelas en La Rábida (Huelva).")
 
@@ -94,8 +95,8 @@ colombino.
 ### Cómo llegar
 
 El Muelle de las Carabelas está situado a las afueras del municipio de La Rábida, tiene 
-un fácil acceso y amplios aparcamientos para acoger a los visitantes sin problemas. [Enlace 
-de Google Maps para acceder.](https://goo.gl/maps/GNF5MR2RfXDLaDmZ8) 
+un fácil acceso y amplios aparcamientos para acoger a los visitantes sin problemas. 
+[Enlace de Google Maps para acceder.](https://goo.gl/maps/GNF5MR2RfXDLaDmZ8) 
 
 ### Horarios
 
@@ -106,7 +107,8 @@ horas (16 jun-15 sept), martes a domingo de 9.30 a 19.30 h (16 sept-15 jun). **T
 ### Precios y descuentos
 
 Adultos (3,60 euros), Niños (gratis hasta 5 años), estudiantes (1,50 euros), familias 
-(7,50 euros). Puedes comprar la entrada online en [muelledelascarabelasentradas.com](https://www.muelledelascarabelasentradas.com/) 
+(7,50 euros). Puedes comprar la entrada online en 
+[muelledelascarabelasentradas.com](https://www.muelledelascarabelasentradas.com/) 
 
 ### Actividades
 
@@ -120,4 +122,4 @@ El horario de visita es de 10 a 18 horas, de martes a domingo. Precio: 3,50 euro
 audioguía), grupo familiar (8 euros). Existen descuentos para estudiantes, pensionistas, 
 grupos... Los menores de 5 años entran gratis. 
 
-• Los días de lluvia no se permite subir a los barcos para evitar caídas.
+- Los días de lluvia no se permite subir a los barcos para evitar caídas.

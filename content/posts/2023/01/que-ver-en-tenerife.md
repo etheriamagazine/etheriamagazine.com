@@ -1,7 +1,7 @@
 ---
 title: "Guía esencial de Tenerife: 15 imprescindibles en tus vacaciones"
 date: 2023-01-17
-coverImage: https://fotos.etheriamagazine.com/2023/01/beach-teresitas-tenerife-spain-scaled.jpg
+cover: https://fotos.etheriamagazine.com/2023/01/beach-teresitas-tenerife-spain-scaled.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Susana García
 ---
 
-La isla de Tenerife es uno de los mejores lugares de España para planificar unas 
+**La isla de Tenerife es uno de los mejores lugares de España para planificar unas 
 vacaciones en cualquier momento del año. Con una infraestructura turística forjada desde 
 hace décadas, sus opciones de ocio van desde excursiones a la naturaleza hasta las 
 vacaciones de descanso en hotel de todo incluido. Aquí te proponemos 15 lugares que 
-tienes que ver en Tenerife para unas vacaciones de lo más completas. 
+tienes que ver en Tenerife para unas vacaciones de lo más completas.** 
 
 ![Playa de Las Teresitas, en Santa Cruz de Tenerife.](https://fotos.etheriamagazine.com/2023/01/beach-teresitas-tenerife-spain.jpg "Playa de Las Teresitas, en Santa Cruz de Tenerife.")
 
@@ -138,8 +138,8 @@ alquiler o apuntarte a una organizada. **Civitatis** ofrece numerosas opciones, 
 nocturnas para contemplar las estrellas en este cielo increíble. 
 
 ✅ [Free Tour por el Parque Nacional del 
-Teide](https://www.civitatis.com/es/las-canadas-del-teide/free-tour-teide/?aid=10211). ✅ [Senderismo 
-nocturno por las Cañadas del 
+Teide](https://www.civitatis.com/es/las-canadas-del-teide/free-tour-teide/?aid=10211). ✅ 
+[Senderismo nocturno por las Cañadas del 
 Teide](https://www.civitatis.com/es/las-canadas-del-teide/senderismo-nocturno-teide/?aid=10211). 
 ✅ [Tour en quad por el Teide desde el sur de 
 Tenerife](https://www.civitatis.com/es/san-miguel-de-abona/tour-quad-teide/?aid=10211). 
@@ -236,8 +236,9 @@ es un parque de animales al uso, va mucho más allá de albergar la reserva de e
 subespecies de loros más grandes del mundo. Además, hay orcas, delfines, perezosos, 
 gorilas, hipopótamos… En 2022 celebraron su 50 cumpleaños y con su experiencia y una 
 voluntad de continua renovación ofrece una experiencia irrepetible. Puedes comprar las 
-entradas online en la web del parque (loroparque.com) o a través de [Civitatis](https://www.civitatis.com/es/puerto-de-la-cruz/entrada-loro-parque/). 
-Es muy recomendable contratar el Discovery Tour, que durante 90 minutos te descubre los 
+entradas online en la web del parque (loroparque.com) o a través de 
+[Civitatis](https://www.civitatis.com/es/puerto-de-la-cruz/entrada-loro-parque/). Es muy 
+recomendable contratar el Discovery Tour, que durante 90 minutos te descubre los 
 secretos del parque y da acceso a zonas privadas de acceso limitado. 
 
 ![orca en Loro Parque en tenerife](https://fotos.etheriamagazine.com/2023/01/tenerife-loroparque-orcas.jpg "Las orcas son también protagonistas en Loro Parque. © EM")
@@ -291,11 +292,9 @@ dar un capricho.
 
 📍 **También te puede interesar:** 
 
-[10 planes para un viaje a Tenerife con 
-amigas](https://etheriamagazine.com/2021/05/17/viaje-a-tenerife-con-amigas-que-hacer-excursiones/) 
+{{< reflink path=posts/2021/05/viaje-a-tenerife-con-amigas-que-hacer-excursiones >}} 
 
-[8 excursiones con niños desde el sur de 
-Tenerife](https://etheriamagazine.com/2020/03/06/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos/) 
+{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
+>}} 
 
-[Los tajinastes en flor, el gran espectáculo natural de 
-Tenerife](https://etheriamagazine.com/2019/05/14/que-ver-tenerife-donde-cuando-tajinaste-en-flor/)
+{{< reflink path=posts/2019/05/que-ver-tenerife-donde-cuando-tajinaste-en-flor >}}

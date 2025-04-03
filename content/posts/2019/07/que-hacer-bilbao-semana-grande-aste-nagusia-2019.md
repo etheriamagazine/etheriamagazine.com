@@ -1,7 +1,7 @@
 ---
 title: "Disfruta de Aste Nagusia, la Semana Grande de Bilbao"
 date: 2019-07-29
-coverImage: https://fotos.etheriamagazine.com/2019/07/Bilbao-semana-grande-diversion-e1563519727502.jpg
+cover: https://fotos.etheriamagazine.com/2019/07/Bilbao-semana-grande-diversion-e1563519727502.jpg
 categories: 
   - ocio
 destino: 
@@ -10,10 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Durante 9 días no encontrarás a un bilbaíno en su casa, andan en la calle con una única 
-misión: divertirse en la Semana Grande de Bilbao. Entre el sonido de los tamborileros y 
-txistularis todo tipo de espectáculos envuelven la ría, calles y recintos, mientras las 
-konparsas avivan el carácter más popular con sus bailes y música. 
+**Durante 9 días no encontrarás a un bilbaíno en su casa, andan en la calle con una 
+única misión: divertirse en la Semana Grande de Bilbao. Entre el sonido de los 
+tamborileros y txistularis todo tipo de espectáculos envuelven la ría, calles y 
+recintos, mientras las konparsas avivan el carácter más popular con sus bailes y 
+música.** 
 
 ![La fiesta inunda las calles durante la Semana Grande de Bilbao.](https://fotos.etheriamagazine.com/2019/07/Bilbao-semana-grande-diversion-e1563519727502.jpg "La fiesta inunda las calles durante la Semana Grande de Bilbao.")
 
@@ -178,8 +179,6 @@ Más información
 
 **Sigue leyendo...** 
 
-[Getxo en familia: 22 planes y 4 visitas 
-divertidas](https://etheriamagazine.com/2023/05/29/planes-familiares-en-getxo/). 
+{{< reflink path=posts/2023/05/planes-familiares-en-getxo >}}. 
 
-[15 lugares de Vizcaya que te dejarán sin 
-aliento](https://etheriamagazine.com/2023/05/15/lugares-mas-bonitos-vizcaya/).
+{{< reflink path=posts/2023/05/lugares-mas-bonitos-vizcaya >}}.

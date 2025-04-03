@@ -1,7 +1,7 @@
 ---
 title: "Viñedos con sabor a mar, primer tramo del Grand Tour de Cataluña"
 date: 2024-06-27
-coverImage: https://fotos.etheriamagazine.com/2021/11/bici-grand-tour-catalunya.jpg
+cover: https://fotos.etheriamagazine.com/2021/11/bici-grand-tour-catalunya.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -209,8 +209,6 @@ la siguiente imagen.
 
 **También en Etheria Magazine** 
 
-[Descubre estos 8 lugares secretos de Cataluña que deberías 
-conocer](https://etheriamagazine.com/2021/02/22/lugares-secretos-de-cataluna-que-visitar/). 
+{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}. 
 
-[Ruta en coche por el Pirineo y las Tierras de 
-Lleida](https://etheriamagazine.com/2022/02/07/ruta-en-coche-pirineo-tierras-lleida/).
+{{< reflink path=posts/2022/02/ruta-en-coche-pirineo-tierras-lleida >}}.

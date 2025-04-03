@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer en Palma de Mallorca: compras, mercados y arte"
 date: 2019-08-01
-coverImage: https://fotos.etheriamagazine.com/2019/07/viaje-palma-compras-hamman.jpg
+cover: https://fotos.etheriamagazine.com/2019/07/viaje-palma-compras-hamman.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Redacción Etheria
 ---
 
-En un viaje debe haber tiempo para todo: pasear, degustar la cocina local, conocer la 
+**En un viaje debe haber tiempo para todo: pasear, degustar la cocina local, conocer la 
 cultura y, también, para ir de compras. Entre estos planes en Palma, la capital de 
-Mallorca, te sorprenderá su variedad. 
+Mallorca, te sorprenderá su variedad.** 
 
 ![Catedral de Palma de Mallorca.](https://fotos.etheriamagazine.com/2019/07/palma-mallorca.jpg "Catedral de Palma. © Toa Heftiba")
 
@@ -32,8 +32,8 @@ que puede parecer, en esta pequeña capital se encuentran desde boutiques de luj
 bonitas tiendas de toda la vida que ofrecen productos artesanales. Hagamos un recorrido 
 por algunas de las calles y barrios fundamentales para **un día de compras en Palma**. 
 
-❤️ No te pierdas: [8 planazos con amigas en 
-Palma](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palma-mallorca-con-amigas/). 
+❤️ No te pierdas: {{< reflink 
+path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}. 
 
 ![Interior de la tienda Rialto Living, en Palma.](https://fotos.etheriamagazine.com/2019/07/compras-palma-rialto.jpg "© Rialto Living, en Palma.")
 
@@ -114,4 +114,6 @@ se trata de armonizar el cuerpo y el espíritu; y el relajante **Hamman Palma**
 (hammampalma.com). Otra opción es acudir a los spas de algunos hoteles como **GPRO 
 Valparaíso Palace & Spa**, **Hotel Mamá** y **Puro Hotel**. 
 
-Más información en [web oficial de Turismo de Palma](https://www.visitpalma.com/es/).
+Más información en [web oficial de Turismo de Palma](https://www.visitpalma.com/es/). 
+
+****

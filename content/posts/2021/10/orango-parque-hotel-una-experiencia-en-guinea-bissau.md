@@ -1,7 +1,7 @@
 ---
 title: "Orango Parque Hotel, vive una experiencia inolvidable en Guinea Bissau"
 date: 2021-10-14
-coverImage: https://fotos.etheriamagazine.com/2021/10/comida-hotel-orango-parque.jpg
+cover: https://fotos.etheriamagazine.com/2021/10/comida-hotel-orango-parque.jpg
 categories: 
   - hoteles
 destino: 
@@ -93,10 +93,9 @@ porque puede ser una gran experiencia para estos últimos meses del año o para 
 en 2022. 
 
 No te pierdas su Museo etnográfico, con exposiciones divulgativas sobre la cultura 
-Bijagó y sobre Guinea Bissau, ni la tienda de artesanía. En [este artículo te hablábamos 
-del “pano di 
-pinti”](https://etheriamagazine.com/2020/10/15/pano-di-pinti-tejido-sagrado-de-los-pepel-y-manjaka-de-guinea-bissau/), 
-el tejido sagrado que podrás comprar allí mismo. 
+Bijagó y sobre Guinea Bissau, ni la tienda de artesanía. En {{< reflink 
+path=posts/2020/10/pano-di-pinti-tejido-sagrado-de-los-pepel-y-manjaka-de-guinea-bissau 
+>}}, el tejido sagrado que podrás comprar allí mismo. 
 
 ![mujeres guinea bisau hotel orango park](https://fotos.etheriamagazine.com/2021/10/mujeres-guinea-bissau.jpg "Parte de los beneficios repercute en la población local.")
 
@@ -120,11 +119,8 @@ Bijagó). Guinea-Bissau
 
 ### Otras experiencias en África...
 
-[El lago Turkana, un viaje a Kenia que cambiará tu percepción del 
-mundo](https://etheriamagazine.com/2020/02/07/viaje-a-kenia-etnias-del-lago-turkana/). 
+{{< reflink path=posts/2020/02/viaje-a-kenia-etnias-del-lago-turkana >}}. 
 
-[Bazaruto, el archipiélago de Mozambique que te 
-enamorará](https://etheriamagazine.com/2019/08/21/que-ver-hacer-en-archipielago-de-bazaruto-mozambique/). 
+{{< reflink path=posts/2019/08/que-ver-hacer-en-archipielago-de-bazaruto-mozambique >}}. 
 
-[Islas Seychelles, el nuevo paraíso para los viajeros 
-españoles](https://etheriamagazine.com/2020/11/16/islas-seychelles-un-viaje-de-lujo-al-paraiso/).
+{{< reflink path=posts/2020/11/islas-seychelles-un-viaje-de-lujo-al-paraiso >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Descubre la vida de las mujeres de Madrid con una ruta turística"
 date: 2021-03-02
-coverImage: https://fotos.etheriamagazine.com/2021/03/Madrid-gran-via.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/Madrid-gran-via.jpg
 categories: 
   - ocio
 destino: 
@@ -118,14 +118,11 @@ Del 2 de marzo hasta el mes junio de 2021.
 
 ### También te puede interesar:
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo.](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/) 
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}} 
 
-[Ruta por el Madrid más libre (de 
-gluten).](https://etheriamagazine.com/2020/10/02/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias/) 
+{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
+>}} 
 
-[Postres de chocolate con efecto terapéutico en 
-Madrid.](https://etheriamagazine.com/2020/09/11/donde-tomar-mejores-postres-chocolate-en-madrid/) 
+{{< reflink path=posts/2020/09/donde-tomar-mejores-postres-chocolate-en-madrid >}} 
 
-[10 planes originales en Madrid para hacer con 
-amigas.](https://etheriamagazine.com/2020/08/27/10-planes-originales-en-madrid-con-amigas/)
+{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}

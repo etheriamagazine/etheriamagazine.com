@@ -1,7 +1,7 @@
 ---
 title: "Manena Munar: \"Se me dispara la adrenalina cuando visito un lugar por primera vez\""
 date: 2020-05-05
-coverImage: https://fotos.etheriamagazine.com/2020/04/manena-munar-etheria-magazine-4.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/manena-munar-etheria-magazine-4.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Escritora y periodista, Manena Munar comparte en Etheria Magazine de forma habitual sus 
-relatos, y hoy también nos permite bucear en su vida viajera y en sus primeros recuerdos 
-por el mundo. Una dama de la que aprender a mantener la chispa de la vida y la ilusión 
-por los pequeños detalles. 
+**Escritora y periodista, Manena Munar comparte en Etheria Magazine de forma habitual 
+sus relatos, y hoy también nos permite bucear en su vida viajera y en sus primeros 
+recuerdos por el mundo. Una dama de la que aprender a mantener la chispa de la vida y la 
+ilusión por los pequeños detalles.** 
 
 ![manena munar, etheria magazine, bostwana,](https://fotos.etheriamagazine.com/2020/04/manena-munar-etheria-magazine-4.jpg "Momentos inolvidables en Sudáfrica. © Helena Rodríguez")
 
@@ -122,8 +122,7 @@ ventana como enormes copos de nieve cubrían de blanco la estepa rusa.
 ![manena munar, etheria magazine](https://fotos.etheriamagazine.com/2020/04/manena-munar-etheria-magazine-7.jpg "Al poco, se rompió el hielo del río Neva en San Petersburgo. © Jorge A. Munar")
 
 El tercero tiene otro escenario muy distinto. El de los pueblos rojos del Valle de 
-Ourika en el [Atlas 
-marroquí](https://etheriamagazine.com/2019/04/01/vida-mujer-bereber-alto-atlas-marruecos/). 
+Ourika en el {{< reflink path=posts/2019/04/vida-mujer-bereber-alto-atlas-marruecos >}}. 
 Trekking, comer bajo los olivos, convivir con el pueblo bereber, camping, el sonido del 
 muecín, risas, muchas risas, y un grupo que, recién presentados, nos convertiríamos en 
 amigos para siempre. 
@@ -150,12 +149,13 @@ sambenito” a cuestas.
 ### 9\. ¿Qué tres viajes que hayas realizado recomendarías especialmente a una viajera?
 
 Disfrutar de la naturaleza en todo su esplendor embarcando en **Bergen** para navegar 
-por los **fiordos noruegos**. [Botsuana](https://etheriamagazine.com/2018/11/22/botsuana-10-razones-para-sentirte-la-reina-de-africa/), 
-donde disfrutar de la vida salvaje del Delta del Okavango, Parque Chobe y Savuti, dando 
-un salto a su vecinos Zambia y Zimbabue para ver las Cataratas Victoria desde ambas 
-perspectivas. Por último, la ciudad de [Buenos 
-Aires](https://etheriamagazine.com/2019/07/05/que-ver-buenos-aires-belle-epoque-viajar-sola/) 
-me sorprendió y fascinó. 
+por los **fiordos noruegos**. {{< reflink 
+path=posts/2018/11/botsuana-10-razones-para-sentirte-la-reina-de-africa >}}, donde 
+disfrutar de la vida salvaje del Delta del Okavango, Parque Chobe y Savuti, dando un 
+salto a su vecinos Zambia y Zimbabue para ver las Cataratas Victoria desde ambas 
+perspectivas. Por último, la ciudad de {{< reflink 
+path=posts/2019/07/que-ver-buenos-aires-belle-epoque-viajar-sola >}} me sorprendió y 
+fascinó. 
 
 > Tres viajes pendientes: Me encantaría ir a la Antártida, conocer Vietnam y pasar unos 
 > días en Nueva Orleans. 
@@ -211,6 +211,6 @@ navidad como regalo exótico.
 
 ### 15\. ¿Hay alguna mujer en el sector turístico que admires y que te gustaría proponer para entrevistar en esta sección?
 
-Admiro y quiero a [Elena del 
-Amo](https://etheriamagazine.com/2020/04/25/mujer-etheria-elena-del-amo-periodista-viajes/). 
-Aparte de docta en la materia tiene un primoroso sentido del humor.
+Admiro y quiero a {{< reflink 
+path=posts/2020/04/mujer-etheria-elena-del-amo-periodista-viajes >}}. Aparte de docta en 
+la materia tiene un primoroso sentido del humor.

@@ -1,7 +1,7 @@
 ---
 title: "Heredad Beragu, un refugio de lujo en un lugar secreto de Navarra"
 date: 2024-02-16
-coverImage: https://fotos.etheriamagazine.com/2024/02/heredad-beragu-navarra-terraza.jpg
+cover: https://fotos.etheriamagazine.com/2024/02/heredad-beragu-navarra-terraza.jpg
 categories: 
   - hoteles
 destino: 
@@ -125,6 +125,5 @@ las **Bodegas Caudalia** (bodegascaudalia.com) donde no sólo se aprende de vino
 que se pueden hacer catas y actividades, y al **Monasterio de Leyre** 
 (monasteriodeleyre.com). 
 
-✅Y si necesitas más ideas para tu viaje, no te pierdas: [Cómo enamorarse de Navarra en 3 
-pueblos y 6 visitas 
-culturales](https://etheriamagazine.com/2023/10/16/que-ver-navarra-media-y-pirenaica/)
+✅Y si necesitas más ideas para tu viaje, no te pierdas: {{< reflink 
+path=posts/2023/10/que-ver-navarra-media-y-pirenaica >}}

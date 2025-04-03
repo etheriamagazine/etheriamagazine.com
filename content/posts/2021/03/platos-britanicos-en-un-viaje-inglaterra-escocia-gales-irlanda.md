@@ -1,7 +1,7 @@
 ---
 title: "¿Es tan aburrida la comida de Gran Bretaña como dicen?"
 date: 2021-03-11
-coverImage: https://fotos.etheriamagazine.com/2021/03/inglaterra-roast-beef.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/inglaterra-roast-beef.jpg
 categories: 
   - gourmet
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Esa idea tan extendida de que en Gran Bretaña se come fatal o la ocurrencia de incluir 
+**Esa idea tan extendida de que en Gran Bretaña se come fatal o la ocurrencia de incluir 
 en la maleta productos envasados al vacío para que los familiares que estudian o 
 trabajan allí “coman en condiciones”, ¿tiene razón de ser? Eso lo tendrás que decidir tú 
-misma cuando conozcas estos productos, hábitos y platos británicos. 
+misma cuando conozcas estos productos, hábitos y platos británicos.** 
 
 ![desayuno uno de los platos britanicos tradicionales](https://fotos.etheriamagazine.com/2021/03/que-lleva-desayuno-ingles.jpg "Desayuno inglés completo. © Nonsap Visuals")
 
@@ -138,10 +138,11 @@ por un espumoso rosé**.
 
 ¿Qué sería de la hora del té o de una buena merienda sin bocados dulces? En Gran Bretaña 
 vas a alucinar con sus pasteles y tartas, hay muchos más aparte de los conocidos _apple 
-crumble_ o la _Victoria sponge cake_ (aquí tienes la [receta](https://www.bbcgoodfood.com/recipes/classic-victoria-sandwich-recipe)). 
-Eso sí, si estás a dieta no te acerques a los _scones_ y a las mermeladas caseras, 
-porque podrías comerte diez de estos panecillos escoceses sin darte cuenta. Quienes sean 
-más de salado pueden acompañar los scones con queso, chorizo o con lo que quieran. 
+crumble_ o la _Victoria sponge cake_ (aquí tienes la 
+[receta](https://www.bbcgoodfood.com/recipes/classic-victoria-sandwich-recipe)). Eso sí, 
+si estás a dieta no te acerques a los _scones_ y a las mermeladas caseras, porque 
+podrías comerte diez de estos panecillos escoceses sin darte cuenta. Quienes sean más de 
+salado pueden acompañar los scones con queso, chorizo o con lo que quieran. 
 
 ¿Algunas direcciones recomendables? **E5 Bakehouse**, por sus dulces elaborados con 
 ingredientes orgánicos y de origen local. Deliciosos sus rollitos de canela, la 
@@ -209,14 +210,11 @@ o que vas a pasar hambre en tus vacaciones?
 
 **También te puede interesar...** 
 
-[De road trip por los Cotswolds, un viaje al corazón de 
-Inglaterra](https://etheriamagazine.com/2019/08/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra/). 
+{{< reflink 
+path=posts/2019/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}}. 
 
-[Guía para recorrer las Highlands o Tierras Altas de 
-Escocia](https://etheriamagazine.com/2020/09/10/mejor-ruta-3-dias-highlands-tierras-altas-escocia/). 
+{{< reflink path=posts/2020/09/mejor-ruta-3-dias-highlands-tierras-altas-escocia >}}. 
 
-[Un viaje a Londres en diez películas 
-inolvidables](https://etheriamagazine.com/2020/12/11/diez-peliculas-rodadas-en-londres/). 
+{{< reflink path=posts/2020/12/diez-peliculas-rodadas-en-londres >}}. 
 
-[6 visitas imprescindibles y 2 lugares casi secretos de Irlanda del 
-Norte](https://etheriamagazine.com/2020/08/26/8-visitas-increibles-en-irlanda-del-norte/).
+{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}}.

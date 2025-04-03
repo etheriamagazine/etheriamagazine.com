@@ -1,7 +1,7 @@
 ---
 title: "Ruta en coche por Teruel, 10 paradas por carreteras secundarias"
 date: 2021-10-12
-coverImage: https://fotos.etheriamagazine.com/2021/10/Villarluengo-ruta-teruel.jpg
+cover: https://fotos.etheriamagazine.com/2021/10/Villarluengo-ruta-teruel.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Emprender una ruta en coche por Teruel permite recorrer esta provincia despacito, 
+**Emprender una ruta en coche por Teruel permite recorrer esta provincia despacito, 
 saliendo de los itinerarios marcados para hallar vivencias que estimulen nuestros 
 sentidos. Nada está lejos en medio de la tranquilidad que emana de sus carreteras 
 secundarias. Prepárate porque te vas a colar en una sorprendente 'road movie', en el 
 filme de un territorio que combate la huella del despoblamiento con sus atractivos 
-rurales. 
+rurales.** 
 
 ![Fraile Fernando Ruiz en el Monasterio El Olivar.](https://fotos.etheriamagazine.com/2021/10/Fraile-Fernando-Ruiz-Monasterio-El-Olivar.jpg "Fraile Fernando Ruiz en el Monasterio El Olivar.")
 
@@ -231,11 +231,9 @@ Más información en [Turismo de Teruel](https://www.sienteteruel.es/).
 
 ### También te puede interesar...
 
-[48 horas en… Teruel, ciudad de arte y 
-gastronomía](https://etheriamagazine.com/2020/02/10/viajes-romanticos-que-ver-donde-comer-teruel/). 
+{{< reflink path=posts/2020/02/viajes-romanticos-que-ver-donde-comer-teruel >}}. 
 
-[8 escapadas en la provincia de 
-Zaragoza](https://etheriamagazine.com/2020/06/08/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza/). 
+{{< reflink path=posts/2020/06/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza 
+>}}. 
 
-[Una cita en… la laguna de Gallocanta para saludar a las 
-grullas](https://etheriamagazine.com/2019/10/29/laguna-de-gallocanta-donde-cuando-ver-grullas/).
+{{< reflink path=posts/2019/10/laguna-de-gallocanta-donde-cuando-ver-grullas >}}.

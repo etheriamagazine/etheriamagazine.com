@@ -1,7 +1,7 @@
 ---
 title: "'Coco', una película que nos acerca a México y sus tradiciones"
 date: 2018-05-28
-coverImage: https://fotos.etheriamagazine.com/2018/05/5-1.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/5-1.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Eva Madruga
 ---
 
-Cualquier excusa es buena para viajar a México. En esta ocasión lo hacemos en busca de 
+**Cualquier excusa es buena para viajar a México. En esta ocasión lo hacemos en busca de 
 los lugares que han inspirado las localizaciones de la película de animación Coco, 
 ganadora de dos Óscar y que está inspirada en la gente, la cultura y las tradiciones de 
-este país. 
+este país.** 
 
 ![Guanajuato la película Coco invita a viajar a México](https://fotos.etheriamagazine.com/2018/05/Guanajuato.jpg "Guanajuato © Pixar")
 
@@ -115,11 +115,8 @@ reside en Los Ángeles).
 
 **También te puede interesar:** 
 
-[10 yacimientos arqueológicos de México que no puedes 
-perderte](https://etheriamagazine.com/2021/03/30/mejores-yacimientos-arqueologicos-mexico/) 
+{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}} 
 
-[Cozumel, Holbox e Isla Mujeres, tres islas de Yucatán donde querrás quedarte a 
-vivir](https://etheriamagazine.com/2021/08/01/que-ver-en-las-islas-de-yucatan-mexico/) 
+{{< reflink path=posts/2021/08/que-ver-en-las-islas-de-yucatan-mexico >}} 
 
-[Despierta tu lado viajero más friki: 9 destinos de rodaje de series o 
-películas](https://etheriamagazine.com/2020/03/20/viajes-sin-salir-de-casa-destinos-cine-y-series/)
+{{< reflink path=posts/2020/03/viajes-sin-salir-de-casa-destinos-cine-y-series >}}

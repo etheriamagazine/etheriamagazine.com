@@ -1,7 +1,7 @@
 ---
 title: "Valle de Valdeolea, 9 rituales para descubrir la esencia del sur de Cantabria"
 date: 2021-06-04
-coverImage: https://fotos.etheriamagazine.com/2021/06/cantabria-valdeolea-menhir.jpg
+cover: https://fotos.etheriamagazine.com/2021/06/cantabria-valdeolea-menhir.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -75,14 +75,12 @@ hayedos.
 ### 3\. Capta la onda medieval de Valdeolea
 
 Aquí hay iglesias románicas para todos los gustos, estás en una de las dos zonas de 
-Cantabria con mayor número de templos medievales (la otra es [Valderredible, no te 
-pierdas este 
-artículo](https://etheriamagazine.com/2019/08/26/que-ver-valderredible-cantabria/)). 
-Puedes elegir porque, apenas a 6 kilómetros de Reinosa, cuando divises en lo alto de una 
-loma la **iglesia de Santa María la Mayor** en **Villacantid**, verás a la vez todos los 
-encantos de las iglesias de la zona. No has traspasado ninguna puerta mágica sino que 
-has entrado al [Centro de Interpretación del 
-Románico](https://centros.culturadecantabria.com/romanico/)**.** 
+Cantabria con mayor número de templos medievales (la otra es {{< reflink 
+path=posts/2019/08/que-ver-valderredible-cantabria >}}). Puedes elegir porque, apenas a 
+6 kilómetros de Reinosa, cuando divises en lo alto de una loma la **iglesia de Santa 
+María la Mayor** en **Villacantid**, verás a la vez todos los encantos de las iglesias 
+de la zona. No has traspasado ninguna puerta mágica sino que has entrado al [Centro de 
+Interpretación del Románico](https://centros.culturadecantabria.com/romanico/)**.** 
 
 ![calzada romana valle de valdeolea](https://fotos.etheriamagazine.com/2021/06/valle-valdeolea-agua-cantabria.jpg "Atrévete a cruzar la calzada romana.")
 
@@ -167,11 +165,10 @@ para no perder detalle de sus quehaceres primaverales mientras crían a los poll
 
 ## Más planes originales en Cantabria
 
-[Lugares sorprendentes de Cantabria que aún no 
-conoces](https://etheriamagazine.com/2020/06/05/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original/). 
+{{< reflink 
+path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}}. 
 
-[5 experiencias en Cantabria para un fin de semana con 
-amigas](https://etheriamagazine.com/2020/02/17/5-experiencias-en-cantabria-para-un-fin-de-semana-con-amigas/). 
+{{< reflink 
+path=posts/2020/02/5-experiencias-en-cantabria-para-un-fin-de-semana-con-amigas >}}. 
 
-[Ruta por los mejores faros de 
-Cantabria](https://etheriamagazine.com/2020/05/18/viaje-a-los-mejores-faros-de-cantabria/).
+{{< reflink path=posts/2020/05/viaje-a-los-mejores-faros-de-cantabria >}}.

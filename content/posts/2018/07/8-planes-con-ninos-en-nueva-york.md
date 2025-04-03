@@ -1,7 +1,7 @@
 ---
 title: "Viaje a Nueva York con niños: 8 planes que no puedes perderte"
 date: 2018-07-23
-coverImage: https://fotos.etheriamagazine.com/2018/05/5-Nueva-York-Top-of-the-Rock-e1565512750575.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/5-Nueva-York-Top-of-the-Rock-e1565512750575.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -14,14 +14,13 @@ Nueva York es una ciudad tan versátil que un viaje en familia puede convertirse
 
 ![Nueva York con niños, viajes en familia, escapadas con niños](https://fotos.etheriamagazine.com/2018/05/10-Nueva-York-Central-Park.jpg "Central Park. © SG")
 
-Como gran metrópolis que es, en Nueva York hay actividades para toda la familia. En un [viaje 
-a Nueva York con 
-niños](https://etheriamagazine.com/2018/07/28/consejos-para-viajar-en-familia-a-nueva-york/) 
-olvidaos de visitar las colecciones de arte de los grandes museos, vivir la noche 
-neoyorkina en los lugares de moda, tomar una copa en un bar clandestino o asistir a un 
-espectáculo en Broadway (salvo que queráis ver alguno infantil tipo _El Rey León_). Pero 
-no os agobiéis porque existen otros muchos planes interesantes para toda la familia: 
-museos, jugueterías diferentes y el siempre polifacético **Central Park**. 
+Como gran metrópolis que es, en Nueva York hay actividades para toda la familia. En un 
+{{< reflink path=posts/2018/07/consejos-para-viajar-en-familia-a-nueva-york >}} olvidaos 
+de visitar las colecciones de arte de los grandes museos, vivir la noche neoyorkina en 
+los lugares de moda, tomar una copa en un bar clandestino o asistir a un espectáculo en 
+Broadway (salvo que queráis ver alguno infantil tipo _El Rey León_). Pero no os agobiéis 
+porque existen otros muchos planes interesantes para toda la familia: museos, 
+jugueterías diferentes y el siempre polifacético **Central Park**. 
 
 Además, una de las sorpresas que depara esta ciudad es que hay sitio para todos y si os 
 organizáis bien evitareis aglomeraciones y esperas innecesarias. Por ejemplo, 
@@ -96,8 +95,9 @@ este rascacielos desde luego lo es. Ya el ascensor con luces, música de rock y 
 subida vertiginosa hasta la planta 67 presagian unas vistas espectaculares. A un lado, 
 Central Park, que desde la altura cobra toda su dimensión. Y al otro, el Empire State y 
 todo el _skyline_ del Midtown y Downtown de Nueva York. Seguramente la subida al Empire 
-es más mítica, pero las vistas del Rockefeller son de impresión. Además, en su web [www.topoftherocknyc.com](http://www.topoftherocknyc.com/) 
-se puede reservar día y hora para subir y así evitar colas. 
+es más mítica, pero las vistas del Rockefeller son de impresión. Además, en su web 
+[www.topoftherocknyc.com](http://www.topoftherocknyc.com/) se puede reservar día y hora 
+para subir y así evitar colas. 
 
 ![Nueva York con niños, escapadas en familia, planes con niños](https://fotos.etheriamagazine.com/2018/05/5-Nueva-York-Top-of-the-Rock-e1565512750575.jpg "Vistas desde el Rockefeller Center. © SG")
 
@@ -107,24 +107,24 @@ Por mucho que intentéis culturizar a vuestros hijos en los museos y explicarles
 nacimiento del Nuevo Mundo, de lo que más se van a acordar es de las tiendas de 
 juguetes. Algunas de nuestras favoritas son: 
 
-• **Disney Store Times Square**. Es difícil vivir ajeno al mundo Disney y hay que 
+- **Disney Store Times Square**. Es difícil vivir ajeno al mundo Disney y hay que 
 reconocer que los niños (y muchos adultos) adoran a sus princesas, heroínas y villanas. 
 Aquí encontraréis todo lo que podáis imaginar de este universo. 
 
-• **M&M’S**. Un mundo basado en los populares chocolates de Emanems también en Times 
+- **M&M’S**. Un mundo basado en los populares chocolates de Emanems también en Times 
 Square. Dulces, juguetes… Una tienda espectacular. 
 
-• [American Girl Place](http://www.americangirl.com). Es el paraíso si se tiene un hijo 
+- [American Girl Place](http://www.americangirl.com). Es el paraíso si se tiene un hijo 
 que adore las muñecas. Puede elegir una que se parezca a él, comprarse ropa igual, 
 hacerse fotos en un estudio, llevarla a la peluquería de muñecas… No apto para padres 
 alérgicos a los lazos y al merengue. 
 
 ![Nueva York con niños, escapadas en familia, planes con niños](https://fotos.etheriamagazine.com/2018/05/6-Nueva-York-American-Girl-Place-e1565512801780.jpg "Taxis en Nueva York.")
 
-• **Lego Store**. Está situado en Rockefeller Center y es perfect para los amantes de 
+- **Lego Store**. Está situado en Rockefeller Center y es perfect para los amantes de 
 los juguetes Lego. Sólo por ver las maquetas que tienen montadas merece la pena. 
 
-• **Nintendo World New York**. También en Rockefeller Center. Consolas, juguetes 
+- **Nintendo World New York**. También en Rockefeller Center. Consolas, juguetes 
 relacionados con sus personajes… Parece que Mario Bross va a aparecen en cualquier 
 esquina saltando setas. 
 
@@ -163,14 +163,10 @@ Se pueden comprar en las estaciones de metro, oficinas de turismo y en muchas ti
 
 ### También te puede interesar
 
-[10 consejos para un viaje en familia a Nueva 
-York](https://etheriamagazine.com/2018/07/28/consejos-para-viajar-en-familia-a-nueva-york/) 
+{{< reflink path=posts/2018/07/consejos-para-viajar-en-familia-a-nueva-york >}} 
 
-[10 planes en Nueva York que te emocionarán si viajas en 
-2021](https://etheriamagazine.com/2021/05/10/10-planes-en-nueva-york-nuevos-2021/) 
+{{< reflink path=posts/2021/05/10-planes-en-nueva-york-nuevos-2021 >}} 
 
-[Los mejores miradores de Nueva York: los nuevos, los de pago y los 
-gratuitos](https://etheriamagazine.com/2020/02/24/los-mejores-miradores-de-nueva-york-gratis-de-pago/) 
+{{< reflink path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}} 
 
-[Nueva York: el mejor plan con amigas al otro lado del 
-charco](https://etheriamagazine.com/2019/05/17/viaje-con-amigas-nueva-york-primavera/)
+{{< reflink path=posts/2019/05/viaje-con-amigas-nueva-york-primavera >}}

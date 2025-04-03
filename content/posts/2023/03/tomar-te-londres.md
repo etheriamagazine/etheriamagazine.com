@@ -1,7 +1,7 @@
 ---
 title: "Dónde tomar el té en Londres en lugares muy originales"
 date: 2023-03-15
-coverImage: https://fotos.etheriamagazine.com/2023/03/peter-pan-tomar-te-londres.jpg
+cover: https://fotos.etheriamagazine.com/2023/03/peter-pan-tomar-te-londres.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Tomar el té en Londres es una de las experiencias más auténticas y recomendables en una 
-visita a la capital inglesa. Esta actividad se puede realizar en numerosos restaurantes 
-y hoteles pero también en lugares originales como un autobús o en un glamuroso teatro. 
-Toma nota de los más curiosos. 
+**Tomar el té en Londres es una de las experiencias más auténticas y recomendables en 
+una visita a la capital inglesa. Esta actividad se puede realizar en numerosos 
+restaurantes y hoteles pero también en lugares originales como un autobús o en un 
+glamuroso teatro. Toma nota de los más curiosos.** 
 
 ![Mesa con te y bollos para tomar el te en Londres](https://fotos.etheriamagazine.com/2023/03/hotel-te-londres.jpg "Hoteles y restaurantes ofrecen el "afternoon tea" en Londres.")
 
@@ -26,8 +26,8 @@ que ofrecen una experiencia completa. Un dato a tener en cuenta es que la bebida
 acompaña siempre de una seria de bocados dulces y salados por lo que conviene comer a la 
 hora habitual del destino para llegar con apetito al "afternoon tea". 
 
-✅ **No te pierdas el artículo:** [¿Es tan aburrida la comida de Gran Bretaña como 
-dicen?](https://etheriamagazine.com/2021/03/11/platos-britanicos-en-un-viaje-inglaterra-escocia-gales-irlanda/) 
+✅ **No te pierdas el artículo:** {{< reflink 
+path=posts/2021/03/platos-britanicos-en-un-viaje-inglaterra-escocia-gales-irlanda >}} 
 
 ![Típica bandeja para servir los bocados dulces y salados cuando se toma el te en Londres](https://fotos.etheriamagazine.com/2023/03/tomar-te-londres.jpg "Típica bandeja para servir los bocados dulces y salados.")
 
@@ -37,7 +37,8 @@ Este es uno de esos lugares donde no podrás evitar hacer fotografías a todo lo
 de la cocina y al bonito espacio donde se desarrolla la experiencia de tomar el té. Todo 
 en esta **mansión del siglo XVIII** te gustará, desde sus paredes de color rosado a sus 
 asientos tapizados con terciopelo. Además, el servicio es tan exquisito que no querrás 
-marcharte de este lugar. Más información en [Sketch](http://www.sketch.london/the-gallery). 
+marcharte de este lugar. Más información en 
+[Sketch](http://www.sketch.london/the-gallery). 
 
 ![Uno de los lugares más elegantes para tomar el té en Londres.](https://fotos.etheriamagazine.com/2023/03/tomar-te-teatro-real-londres.jpg "Uno de los lugares más elegantes para tomar el té en Londres. © Theatre Royal Drury Lane")
 
@@ -67,8 +68,7 @@ Westminster, Hyde Park o el Royal Albert Hall?
 Precio: 45 libras/adulto y 35 libras/ niños (hay también ediciones especiales más 
 exclusivas). 
 
-✅ No te pierdas: [Un viaje a Londres en diez películas 
-inolvidables](https://etheriamagazine.com/2020/12/11/diez-peliculas-rodadas-en-londres/) 
+✅ No te pierdas: {{< reflink path=posts/2020/12/diez-peliculas-rodadas-en-londres >}} 
 
 ![Menú Romeo y Julieta en el hotel The Swan](https://fotos.etheriamagazine.com/2023/03/te-londres-hotel-elegante.jpg "Menú Romeo y Julieta en el © hotel The Swan.")
 
@@ -142,16 +142,16 @@ Precio: 58 libras.
 ## Biscuiteers
 
 Cuando la experiencia de tomar el té en Londres se completa con un taller de glaseado de 
-galletas se convierte en uno de los planes infalibles en un viaje con amigas. La [merienda 
-en Biscuiteers](http://www.biscuiteers.com/london-afternoon-tea) cuenta con mini 
-sándwiches, _scones_, pastelitos y galletas glaseadas y decoradas a mano. Sin olvidar la 
-importancia de contar con un té especial que aquí llega directamente de la plantación de 
-té de Tregothnan (Cornualles) y con una copa de espumoso para abrir el apetito. Celebran 
-eventos temáticos en torno a la hora del ´te: San Valentín, cumpleaños... 
+galletas se convierte en uno de los planes infalibles en un viaje con amigas. La 
+[merienda en Biscuiteers](http://www.biscuiteers.com/london-afternoon-tea) cuenta con 
+mini sándwiches, _scones_, pastelitos y galletas glaseadas y decoradas a mano. Sin 
+olvidar la importancia de contar con un té especial que aquí llega directamente de la 
+plantación de té de Tregothnan (Cornualles) y con una copa de espumoso para abrir el 
+apetito. Celebran eventos temáticos en torno a la hora del ´te: San Valentín, 
+cumpleaños... 
 
 Precio: 45 libras (tomar el té) y 65 libras (té y taller). 
 
 ✅ **No dejes de preparar tu viaje con este artículo**: 
 
-[15 visitas que no debes perderte en tu próximo viaje a 
-Londres](https://etheriamagazine.com/2022/11/10/que-ver-londres-nuevo-clasico/).
+{{< reflink path=posts/2022/11/que-ver-londres-nuevo-clasico >}}.

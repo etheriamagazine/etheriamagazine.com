@@ -1,7 +1,7 @@
 ---
 title: "Ruta del Vino Cigales, descubre que la felicidad puede ser de color rosado"
 date: 2024-05-27
-coverImage: https://fotos.etheriamagazine.com/2024/05/mural-mucientes-1.jpg
+cover: https://fotos.etheriamagazine.com/2024/05/mural-mucientes-1.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -227,8 +227,6 @@ que consultar la web de la [Ruta del Vino Cigales](https://rutadelvinocigales.co
 
 **También en Etheria Magazine** 
 
-[12 visitas esenciales en la Ruta del Vino de 
-Arribes](https://etheriamagazine.com/2023/06/12/que-ver-ruta-vino-arribes/) 
+{{< reflink path=posts/2023/06/que-ver-ruta-vino-arribes >}} 
 
-[Ruta del Vino de Toro, secretos abrazados por el 
-Duero](https://etheriamagazine.com/2022/09/21/planes-en-ruta-vino-toro/).
+{{< reflink path=posts/2022/09/planes-en-ruta-vino-toro >}}.

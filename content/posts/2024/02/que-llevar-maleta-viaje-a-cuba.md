@@ -1,7 +1,7 @@
 ---
 title: "Qué llevar en la maleta en un viaje a Cuba"
 date: 2024-02-28
-coverImage: https://fotos.etheriamagazine.com/2024/02/maleta-cuba-habana-casas.jpg
+cover: https://fotos.etheriamagazine.com/2024/02/maleta-cuba-habana-casas.jpg
 categories: 
   - ocio
   - qué-llevar-en-la-maleta
@@ -33,11 +33,11 @@ Si en tu viaje a Cuba te vas a mover poco, por ejemplo, en un combinado de La Ha
 alguna zona de playa, puedes llevar una maleta rígida donde la ropa va más protegida y 
 se arruga menos. Las de [American Tourister](https://amzn.to/430eJ35) son resistentes y 
 se pueden comprar en Amazon en varios colores. Pero si vas a realizar una ruta por Cuba 
-en autobús es mejor llevar una maleta blanda, que se amolde bien a los maleteros. Las de [Eastpak](https://amzn.to/48ugWoC) 
-son muy cómodas, resistentes y se abren a la mitad, lo que facilita repartir y colocar 
-bien la ropa y los accesorios. Y Si lleváis equipo fotográfico, esta [mochila de 
-Amazon](https://amzn.to/4eLEdXj) no os vendrá nada mal porque es discreta y con buen 
-tamaño. 
+en autobús es mejor llevar una maleta blanda, que se amolde bien a los maleteros. Las de 
+[Eastpak](https://amzn.to/48ugWoC) son muy cómodas, resistentes y se abren a la mitad, 
+lo que facilita repartir y colocar bien la ropa y los accesorios. Y Si lleváis equipo 
+fotográfico, esta [mochila de Amazon](https://amzn.to/4eLEdXj) no os vendrá nada mal 
+porque es discreta y con buen tamaño. 
 
 ![Maleta de American Tourister y de Eastpak](https://fotos.etheriamagazine.com/2024/02/cuba-maletas.jpg "Maleta de American Tourister y de Eastpak, disponibles en Amazon.")
 
@@ -62,8 +62,9 @@ viajar a Cuba y no disfrutar de alguna de ellas: bikinis, bañadores, pareos y v
 ligeros. Puedes optar por un modelo de [toalla-pareo](https://amzn.to/3wyXOss), muy 
 prácticos para viaje. Los sombreros necesitarían un apartado para ellos solos porque son 
 imprescindibles. Allí puedes comprar alguno de paja pero también te puedes llevar una 
-gorro o uno plegable con solapa para no quemarte el cuello si haces excursiones. Este [sombrero 
-marinero de Amazon](https://amzn.to/4bpw6x0) tiene muy buena pinta y es unisex. 
+gorro o uno plegable con solapa para no quemarte el cuello si haces excursiones. Este 
+[sombrero marinero de Amazon](https://amzn.to/4bpw6x0) tiene muy buena pinta y es 
+unisex. 
 
 ![Vestido estampado toalla-pareo](https://fotos.etheriamagazine.com/2024/02/cuba-maleta-ropa.jpg "Vestido estampado toalla-pareo, puedes comprarlos en Amazon.")
 
@@ -71,11 +72,12 @@ marinero de Amazon](https://amzn.to/4bpw6x0) tiene muy buena pinta y es unisex.
 
 En un viaje a Cuba no pueden faltar las sandalias, sin tacón para el día y con tacón 
 para alguna cena, aunque estás últimas no son tan necesarias. No puedes olvidar las 
-chanclas para los días de playa y para moverte por los hoteles, las [Havaianas](https://amzn.to/49Isl52) 
-no abultan nada y son muy cómodas. Tampoco pueden faltar unas deportivas cómodas para 
-las excursiones, sobre todo si vas a hacer excursiones por el interior de la isla. Unas [Skechers](https://amzn.to/3P1fB1B) 
-son siempre unas buenas compañeras de viaje. También ten vendrán muy bien unas 
-**sandalias de trekking**: son cómodas, resistentes y dejan transpirar al pie. 
+chanclas para los días de playa y para moverte por los hoteles, las 
+[Havaianas](https://amzn.to/49Isl52) no abultan nada y son muy cómodas. Tampoco pueden 
+faltar unas deportivas cómodas para las excursiones, sobre todo si vas a hacer 
+excursiones por el interior de la isla. Unas [Skechers](https://amzn.to/3P1fB1B) son 
+siempre unas buenas compañeras de viaje. También ten vendrán muy bien unas **sandalias 
+de trekking**: son cómodas, resistentes y dejan transpirar al pie. 
 
 ![Chanchas rosas y deportivas azules](https://fotos.etheriamagazine.com/2024/02/maleta-cuba-calzado.jpg "Las chanclas y unas deportivas tipo Skechers son imprescindibles en Cuba.")
 
@@ -108,9 +110,8 @@ a necesitar durante el viaje.
 
 ![champú y jabón para viaje marca Foamie](https://fotos.etheriamagazine.com/2024/02/maleta-cuba-jabon-champu-viaje.jpg "Jabón y champú sólido muy prácticos para viaje.")
 
-✅ Para elegir el modelo de neceser puedes consultar nuestro artículo [7 neceseres para 
-mujeres 
-viajeras](https://etheriamagazine.com/2019/10/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras/). 
+✅ Para elegir el modelo de neceser puedes consultar nuestro artículo {{< reflink 
+path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}}. 
 
 ## Botiquín
 
@@ -121,8 +122,8 @@ paracetamol, ibuprofeno, medicamentos para las molestias de estómago, tiritas, 
 termómetro… Y es imprescindible llevar un buen **repelente de mosquitos** (el [Relec 
 extrafuerte](https://amzn.to/49t3oes) está pensado para climas tropicales) y una loción 
 para aliviar las posibles picaduras. También puedes recurrir a un **bolígrafo térmico** 
-para reducir la hinchazón y el dolor de las picaduras, éste de [Acwoo](https://amzn.to/3UUpFgy), 
-disponible en Amazon, se carga mediante USB. 
+para reducir la hinchazón y el dolor de las picaduras, éste de 
+[Acwoo](https://amzn.to/3UUpFgy), disponible en Amazon, se carga mediante USB. 
 
 ![relec extrafuerte y bolígrafo térmico para mosquitos](https://fotos.etheriamagazine.com/2024/02/maleta-cuba-mosquitos.jpg "El repelente de mosquitos y un bolígrafo térmico para calmar las picaduras no pueden faltar en tu maleta.")
 
@@ -149,7 +150,8 @@ batería en el móvil durante las excursión.
 ## Seguro de viaje
 
 ¡OJO! Para entrar en Cuba es obligatorio tener un seguro de viaje. Puedes contratarlo 
-con [INTERMUNDIAL](https://clk.tradedoubler.com/click?p=281568&a=3132464&url=https%3A%2F%2Fwww.intermundial.es%2F), 
+con 
+[INTERMUNDIAL](https://clk.tradedoubler.com/click?p=281568&a=3132464&url=https%3A%2F%2Fwww.intermundial.es%2F), 
 tanto un seguro específico para tu viaje a Cuba como un seguro de viajes anual, muy 
 práctico si realizas varias salidas al año. 
 
@@ -178,21 +180,18 @@ cajeros automáticos, no siempre funcionan y el cambio no es muy favorable.
 
 ## Guías de viaje
 
-En el artículo [Prepara tu viaje a 
-Cuba](https://etheriamagazine.com/2020/05/08/prepara-tu-viaje-a-cuba-libros-peliculas/) 
-te dábamos muchas claves sobre libros y películas con las que familiarizarte con la 
+En el artículo {{< reflink path=posts/2020/05/prepara-tu-viaje-a-cuba-libros-peliculas 
+>}} te dábamos muchas claves sobre libros y películas con las que familiarizarte con la 
 cultura de este país. En cuanto a las guías de viaje, son muy útiles la de [Lonely 
-Planet](https://amzn.to/3uNnlgQ), la [Guía Visual de Cuba](https://amzn.to/3TcwiJW) o la [Guía 
-Total de Anaya Touring](https://amzn.to/4bPLiEO), todas disponibles en Amazon. Si viajas 
-sólo a La Habana, puedes adquirir la [Guía de cerca de La 
+Planet](https://amzn.to/3uNnlgQ), la [Guía Visual de Cuba](https://amzn.to/3TcwiJW) o la 
+[Guía Total de Anaya Touring](https://amzn.to/4bPLiEO), todas disponibles en Amazon. Si 
+viajas sólo a La Habana, puedes adquirir la [Guía de cerca de La 
 Habana](https://amzn.to/42PN9pb) de Lonely Planet. 
 
 ![Guías de viaje sobre Cuba.](https://fotos.etheriamagazine.com/2024/02/cuba-guias-viaje.jpg "Guías de viaje sobre Cuba.")
 
 **También te puede interesar:** 
 
-[Cuba con amigas, visitas esenciales en este paraíso 
-caribeño](https://etheriamagazine.com/2019/01/25/viajar-con-amigas-a-cuba/) 
+{{< reflink path=posts/2019/01/viajar-con-amigas-a-cuba >}} 
 
-[Por qué viajar sola a La Habana, visitas y 
-recomendaciones](https://etheriamagazine.com/2019/08/16/viajar-sola-que-ver-hacer-mujeres-la-habana-cuba/)
+{{< reflink path=posts/2019/08/viajar-sola-que-ver-hacer-mujeres-la-habana-cuba >}}

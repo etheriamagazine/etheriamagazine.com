@@ -1,7 +1,7 @@
 ---
 title: "Aventura en Polonia: los últimos bisontes de Europa están en Bialowieza"
 date: 2019-01-30
-coverImage: https://fotos.etheriamagazine.com/2019/01/Bialowieza-atardecer.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/Bialowieza-atardecer.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Kris Ubach
 ---
 
-Algunos de los árboles del bosque de Bialowieza ya estaban allí cuando se conquistó 
+**Algunos de los árboles del bosque de Bialowieza ya estaban allí cuando se conquistó 
 América. También los bisontes, que una vez ocuparon Europa de extremo a extremo. Hoy, 
 este bosque polaco conserva algunos de los patrimonios históricos (vegetales y animales) 
 más valiosos de nuestro continente. Nuestra propuesta es que viajes sola o con amigas 
-amantes de la naturaleza a este rincón tan poco conocido. 
+amantes de la naturaleza a este rincón tan poco conocido.** 
 
 ![Amanecer en Bialowieza.](https://fotos.etheriamagazine.com/2019/01/Bialowieza-atardecer.jpg "Amanecer en Bialowieza. © Kris Ubach")
 
@@ -149,11 +149,8 @@ posible visitar una reserva para la cría y conservación del bisonte europeo.
 
 **También te puede interesar:** 
 
-[Descubre Zakopane, su arquitectura de madera, sabores y estaciones de 
-esquí](https://etheriamagazine.com/2021/01/27/que-ver-en-zakopane-viaje-original-polonia/) 
+{{< reflink path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}} 
 
-[48 horas en… Varsovia 
-(Polonia)](https://etheriamagazine.com/2018/08/17/48-horas-en-varsovia-polonia/) 
+{{< reflink path=posts/2018/08/48-horas-en-varsovia-polonia >}} 
 
-[Tres rutas para recorrer Varsovia, una ciudad 
-sorprendente](https://etheriamagazine.com/2021/03/05/que-ver-en-varsovia-en-tres-rutas-originales/)
+{{< reflink path=posts/2021/03/que-ver-en-varsovia-en-tres-rutas-originales >}}

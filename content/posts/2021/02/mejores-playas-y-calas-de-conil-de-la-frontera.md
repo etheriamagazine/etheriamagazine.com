@@ -1,7 +1,7 @@
 ---
 title: "Conoce las 15 mejores playas y calas de Conil"
 date: 2021-02-05
-coverImage: https://fotos.etheriamagazine.com/2021/01/cala-conil-frailecillo.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/cala-conil-frailecillo.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -37,14 +37,11 @@ para ti solo, como podrás comprobar en las siguientes imágenes tomadas en vera
 
 NO TE PIERDAS: 
 
-✅ [10 excursiones ideales desde Conil de la 
-Frontera](https://etheriamagazine.com/2023/08/02/mejores-excursiones-desde-conil/). 
+✅ {{< reflink path=posts/2023/08/mejores-excursiones-desde-conil >}}. 
 
-✅ [15 visitas imprescindibles en Conil gratis y ninguna es una 
-playa](https://etheriamagazine.com/2022/04/13/guia-de-conil-visitas-gratuitas/). 
+✅ {{< reflink path=posts/2022/04/guia-de-conil-visitas-gratuitas >}}. 
 
-✅ [10 Planes más que recomendables en 
-Conil.](https://etheriamagazine.com/2021/07/05/los-mejores-planes-en-conil-con-amigas/) 
+✅ {{< reflink path=posts/2021/07/los-mejores-planes-en-conil-con-amigas >}} 
 
 ![calas de roche en conil](https://fotos.etheriamagazine.com/2021/01/playas-conil-ruta-faro.jpg "La costa más rocosa de Conil se sitúa en el entorno del faro. © Etheria M.")
 
@@ -213,11 +210,12 @@ sino que la vegetación llega a pie de arena.
 También situada al pie de la urbanización de Roche, esta cala de Conil cuenta con dos 
 accesos. Uno de ellos es una pasarela de madera (con cómodos escalones), rodeada de 
 cañaverales y buganvillas que lleva hasta la misma arena. El otro acceso es a través de 
-una escalera de madera, también en muy buenas condiciones, que te deja muy cerca del [restaurante 
-El Timón de Roche](http://www.timonderoche.es) (muy recomendable). Es una cala grande, 
-con bastante arena, y no hay problema si sube la marea. Para disfrutarla en soledad, si 
-se visita en temporada alta, es aconsejable llegar antes de las diez. Si quieres tomar 
-una buena panorámica desde arriba de la playa hay un mirador natural ideal para ello. 
+una escalera de madera, también en muy buenas condiciones, que te deja muy cerca del 
+[restaurante El Timón de Roche](http://www.timonderoche.es) (muy recomendable). Es una 
+cala grande, con bastante arena, y no hay problema si sube la marea. Para disfrutarla en 
+soledad, si se visita en temporada alta, es aconsejable llegar antes de las diez. Si 
+quieres tomar una buena panorámica desde arriba de la playa hay un mirador natural ideal 
+para ello. 
 
 ![playa roche y el puerco en conil de la frontera](https://fotos.etheriamagazine.com/2021/01/playa-roche-el-puerco.jpg "Acceso a las playas de Roche-El Puerco. © Etheria M.")
 
@@ -233,33 +231,35 @@ rara vez estarán llenas o resultarán agobiantes.
 
 ## Recomendaciones generales para las playas de Conil
 
-• Los atardeceres son una auténtica maravilla en Cádiz, así que aprovecha por la tarde 
-para hacer la ruta de los acantilados desde el faro. Verás ocultarse el sol en el mar. • 
-Si vas a pasar todo el día en la playa, recuerda llevarte agua, protector solar y gorra, 
-además de un pequeño pícnic. En las calas de Roche no hay tiendas ni chiringuitos. • 
-Cuidado con asomarse a los acantilados, todos los años hay algún accidente. Los selfis 
-quedan igual de bien dos metros más cerca. • Evita el coche cuanto puedas, las calas 
-están cerca unas de otras y no es necesario ir moviendo el vehículo. Es preferible 
-realizar la ruta caminando, así disfrutarás del paisaje y te empaparás de la calma del 
-lugar. • Recoge tu basura. Aunque hay servicio de recogida de basura, debes depositarlo 
-en los contenedores, y mejor aún si te la llevas. 
+- Los atardeceres son una auténtica maravilla en Cádiz, así que aprovecha por la tarde 
+para hacer la ruta de los acantilados desde el faro. Verás ocultarse el sol en el mar. 
 
-SIGUE LEYENDO: [Dónde comer bien en Conil de la Frontera, bares y restaurantes 
-recomendados](https://etheriamagazine.com/2022/07/22/donde-comer-bien-conil-de-la-frontera/) 
+- Si vas a pasar todo el día en la playa, recuerda llevarte agua, protector solar y 
+gorra, además de un pequeño pícnic. En las calas de Roche no hay tiendas ni 
+chiringuitos. 
+
+- Cuidado con asomarse a los acantilados, todos los años hay algún accidente. Los selfis 
+quedan igual de bien dos metros más cerca. 
+
+- Evita el coche cuanto puedas, las calas están cerca unas de otras y no es necesario ir 
+moviendo el vehículo. Es preferible realizar la ruta caminando, así disfrutarás del 
+paisaje y te empaparás de la calma del lugar. 
+
+- Recoge tu basura. Aunque hay servicio de recogida de basura, debes depositarlo en los 
+contenedores, y mejor aún si te la llevas. 
+
+SIGUE LEYENDO: {{< reflink path=posts/2022/07/donde-comer-bien-conil-de-la-frontera >}} 
 
 ![playa fontanilla de conil](https://fotos.etheriamagazine.com/2021/01/conil-atardecer.jpg "Atardecer desde playa de la Fontanilla. © Etheria M.")
 
 **También te puede interesar…** 
 
-✅ [La mejor guía de CÁDIZ PROVINCIA para organizar tu viaje: pueblos y visitas de 
-interés (con mapa 
-incluido).](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/) 
+✅ {{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}} 
 
-[10 paradas imprescindibles en las ruinas romanas de BAELO CLAUDIA (Bolonia, 
-Cádiz)](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/). 
+{{< reflink path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia 
+>}}. 
 
-[10 actividades para enamorarte de Vejer de la 
-Frontera](https://etheriamagazine.com/2020/08/11/10-actividades-vejer-de-la-frontera-que-ver-hacer/). 
+{{< reflink path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}}. 
 
-[12 actividades para hacer con niños en la provincia de 
-Cádiz](https://etheriamagazine.com/2020/03/12/12-actividades-familiares-para-viajes-con-ninos-en-cadiz/).
+{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
+>}}.

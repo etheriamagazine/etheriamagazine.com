@@ -1,17 +1,17 @@
 ---
 title: "Camino de Santiago por la Ría de Muros-Noia, una aventura a toda vela"
 date: 2021-07-14
-coverImage: https://fotos.etheriamagazine.com/2021/07/camino-santiago-ria-muros-noia-velero.jpg
+cover: https://fotos.etheriamagazine.com/2021/07/camino-santiago-ria-muros-noia-velero.jpg
 destino: 
   - Mundo
 authors: 
   - Pepa G. Marín
 ---
 
-Estrenar el nuevo Camino de Santiago por la Ría de Muros-Noia en Año Jacobeo es un 
+**Estrenar el nuevo Camino de Santiago por la Ría de Muros-Noia en Año Jacobeo es un 
 privilegio que no hay que dejar pasar. Aprovecha este 2022 para realizar el Camino de 
 Santiago marítimo en velero. Te contamos todos los datos para que vivas una experiencia 
-inolvidable. 
+inolvidable.** 
 
 ![camino santiago por la ria de muros noia](https://fotos.etheriamagazine.com/2021/07/camino-santiago-velero-rias-baixas.jpg "Camino de Santiago marítimo por la Ría de Muros-Noia. © Pepa García")
 
@@ -151,9 +151,9 @@ Amuradana.](https://hotelmuradana.es/restaurante)
 
 ### Tercera Parada: Portosín-Noia
 
-Desde el puerto de Portosín, donde se puede hacer una parada para retomar fuerzas en [Casa 
-do Tella e Rosalía](https://casadotella.com/), se continúa hasta Noia a cuyo puerto 
-llegaban antaño los navegantes (ahora es imposible). Este pueblo, reconocido como 
+Desde el puerto de Portosín, donde se puede hacer una parada para retomar fuerzas en 
+[Casa do Tella e Rosalía](https://casadotella.com/), se continúa hasta Noia a cuyo 
+puerto llegaban antaño los navegantes (ahora es imposible). Este pueblo, reconocido como 
 _Portus Apostoli_ en el siglo XII, también alberga visitas de gran interés como la plaza 
 del Tapal con su historiado crucero y el impresionante templo de San Martiño. No menos 
 curioso es el **Museo de Lápidas Gremiales** situado en la iglesia desacralizada de 
@@ -226,11 +226,8 @@ pedir el favor del santo. ¡Buen camino!
 
 ### También en Galicia...
 
-[Planes en la Ribeira Sacra para descubrir sus mayores 
-secretos](https://etheriamagazine.com/2021/06/17/planes-en-la-ribeira-sacra-con-amigas/). 
+{{< reflink path=posts/2021/06/planes-en-la-ribeira-sacra-con-amigas >}}. 
 
-[La Toja, la escapada romántica que 
-necesitas](https://etheriamagazine.com/2021/02/12/la-toja-escapada-romantica-termal-en-galicia/). 
+{{< reflink path=posts/2024/07/la-toja-escapada-romantica-termal-en-galicia >}}. 
 
-[Cinco películas del Camino de Santiago que no puedes perderte en este Año 
-Jubilar](https://etheriamagazine.com/2021/03/04/5-peliculas-del-camino-de-santiago/).
+{{< reflink path=posts/2021/03/5-peliculas-del-camino-de-santiago >}}.

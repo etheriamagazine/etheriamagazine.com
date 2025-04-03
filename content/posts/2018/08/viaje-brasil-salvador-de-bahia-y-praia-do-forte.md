@@ -1,7 +1,7 @@
 ---
 title: "Brasil con amigas: Salvador de Bahía y Praia do Forte"
 date: 2018-08-22
-coverImage: https://fotos.etheriamagazine.com/2018/08/Playa-Praia-do-Forte-viaje-brasil-e1578734128487.jpg
+cover: https://fotos.etheriamagazine.com/2018/08/Playa-Praia-do-Forte-viaje-brasil-e1578734128487.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -158,5 +158,4 @@ improvisado bar.
 
 **También te puede interesar...** 
 
-[Brasil, sin mitos ni 
-prejuicios](https://etheriamagazine.com/2018/11/26/viaja-a-brasil-sin-mitos-ni-prejuicios/).
+{{< reflink path=posts/2018/11/viaja-a-brasil-sin-mitos-ni-prejuicios >}}.

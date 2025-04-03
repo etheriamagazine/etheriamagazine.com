@@ -1,7 +1,7 @@
 ---
 title: "Røros, historia de una peculiar ciudad minera de Noruega"
 date: 2019-06-06
-coverImage: https://fotos.etheriamagazine.com/2019/05/Roros-noruega-casas-trabajadores-calle-sleggveien.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/Roros-noruega-casas-trabajadores-calle-sleggveien.jpg
 categories: 
   - inspiración
   - ocio
@@ -157,11 +157,8 @@ dulce acompañado por una selección de quesos excelentes elaborados por ellos m
 
 ### Más de Noruega en Etheria Magazine
 
-[Prepara tu viaje a Noruega: libros y películas para ante de 
-viajar](https://etheriamagazine.com/2020/08/18/prepara-tu-viaje-libros-series-de-noruega/). 
+{{< reflink path=posts/2020/08/prepara-tu-viaje-libros-series-de-noruega >}}. 
 
-[9 motivos para viajar a 
-Noruega](https://etheriamagazine.com/2020/07/15/9-motivos-para-viajar-a-noruega/). 
+{{< reflink path=posts/2020/07/9-motivos-para-viajar-a-noruega >}}. 
 
-[Recorre las 3 capitales de Noruega: Trondheim, Bergen y 
-Oslo](https://etheriamagazine.com/2020/01/24/que-ver-en-noruega-trondheim-bergen-y-oslo/).
+{{< reflink path=posts/2020/01/que-ver-en-noruega-trondheim-bergen-y-oslo >}}.

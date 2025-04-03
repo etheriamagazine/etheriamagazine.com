@@ -1,7 +1,7 @@
 ---
 title: "Descubre estos 8 lugares secretos de Cataluña que deberías conocer"
 date: 2021-02-22
-coverImage: https://fotos.etheriamagazine.com/2021/02/catalunya-secreta-larboc-iglesia-Entranyes.jpg
+cover: https://fotos.etheriamagazine.com/2021/02/catalunya-secreta-larboc-iglesia-Entranyes.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -50,10 +50,13 @@ es sin duda uno de los espacios naturales más impresionantes del país gracias 
 llamativo contraste entre las aguas color turquesa del río y las paredes del 
 desfiladero, que alcanzan los 500 metros de altura. Puedes recorrerlo siguiendo un 
 camino excavado en la roca, no apto para senderistas con vértigo, o desde el mismo río, 
-ya sea en kayac o en pequeñas embarcaciones eléctricas. Uno de nuestros [consejos para 
-visitar 
-Mont-](https://etheriamagazine.com/2020/05/13/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida/)[r](https://etheriamagazine.com/2020/05/13/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida/)[ebei](https://etheriamagazine.com/2020/05/13/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida/) 
-es el de llegar a primera hora o entre semana para poder disfrutarlo con total 
+ya sea en kayac o en pequeñas embarcaciones eléctricas. Uno de nuestros {{< reflink 
+path=posts/2020/05/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida 
+>}}{{< reflink 
+path=posts/2020/05/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida 
+>}}{{< reflink 
+path=posts/2020/05/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida 
+>}} es el de llegar a primera hora o entre semana para poder disfrutarlo con total 
 tranquilidad. 
 
 ![Vilassar de Mar uno de los lugares secretos de Cataluña](https://fotos.etheriamagazine.com/2021/02/cataluna-secreta-Vilassar-de-Mar.jpg "La Sènia del Rellotge-Museo de la Marina, en Vilassar de Mar. © Turismo de Cataluña")
@@ -95,15 +98,15 @@ Alhambra de Granada.
 
 ## 5\. Port de la Selva: el refugio más remoto de la Costa Brava
 
-Su remota ubicación en la cara norte del [cabo de 
-Creus](https://etheriamagazine.com/2019/06/17/que-ver-girona-con-amigas-slow-travel/) la 
-aleja un poco de los itinerarios más transitados de la Costa Brava, aunque ya te 
-avisamos que tampoco es un tesoro oculto. Aún así hemos querido incluir esta pequeña 
-localidad marinera en nuestra selección de lugares secretos de Cataluña porque sigue 
-manteniendo todo su encanto, cuenta con algunas de **las mejores playas de Cataluña** y 
-en sus alrededores aguarda el soberbio conjunto medieval que conforman el **monasterio 
-de Sant Pere de Rodes** y la ermita de Santa Helena de Rodes. Y, porque no olvidemos que 
-Cadaqués, al otro lado del cabo se sigue llevando todos los honores. 
+Su remota ubicación en la cara norte del {{< reflink 
+path=posts/2019/06/que-ver-girona-con-amigas-slow-travel >}} la aleja un poco de los 
+itinerarios más transitados de la Costa Brava, aunque ya te avisamos que tampoco es un 
+tesoro oculto. Aún así hemos querido incluir esta pequeña localidad marinera en nuestra 
+selección de lugares secretos de Cataluña porque sigue manteniendo todo su encanto, 
+cuenta con algunas de **las mejores playas de Cataluña** y en sus alrededores aguarda el 
+soberbio conjunto medieval que conforman el **monasterio de Sant Pere de Rodes** y la 
+ermita de Santa Helena de Rodes. Y, porque no olvidemos que Cadaqués, al otro lado del 
+cabo se sigue llevando todos los honores. 
 
 ![Cuevas del Toll cataluna secreta](https://fotos.etheriamagazine.com/2021/02/cataluna-secreta-Cuevas-del-Toll.jpg "Cuevas del Toll. © Turismo de Cataluña")
 

@@ -1,7 +1,7 @@
 ---
 title: "Festival de Colón en Porto Santo, la época de los Descubrimientos se vive en Madeira intensamente"
 date: 2024-09-06
-coverImage: https://fotos.etheriamagazine.com/2024/09/festival-porto-santo-circo.jpg
+cover: https://fotos.etheriamagazine.com/2024/09/festival-porto-santo-circo.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -77,11 +77,8 @@ bellísimo contorno de las islas, y algún que otro peñasco que sobresale del o
 
 **Más sobre Porto Santo y Madeira en Etheria Magazine** 
 
-[Por qué visitar Porto Santo si viajas a 
-Madeira](https://etheriamagazine.com/2019/02/05/que-ver-porto-santo-madeira/). 
+{{< reflink path=posts/2019/02/que-ver-porto-santo-madeira >}}. 
 
-[Qué ver en Funchal, guía para 48 horas bien 
-aprovechadas](https://etheriamagazine.com/2022/08/08/que-ver-funchal/). 
+{{< reflink path=posts/2022/08/que-ver-funchal >}}. 
 
-[Planes originales en un viaje romántico a 
-Madeira](https://etheriamagazine.com/2024/02/02/planes-viaje-romantico-madeira/).
+{{< reflink path=posts/2024/02/planes-viaje-romantico-madeira >}}.

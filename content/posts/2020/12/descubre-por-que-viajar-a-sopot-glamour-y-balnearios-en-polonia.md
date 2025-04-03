@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer en Sopot, la ciudad balneario más glamurosa de Polonia"
 date: 2020-12-25
-coverImage: https://fotos.etheriamagazine.com/2020/12/sopot-muelle.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/sopot-muelle.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -185,22 +185,19 @@ además incluye el pescado local en su carta.
 
 ## Guía de viaje | Etheria Magazine
 
-• La **Catedral Oliwa**, apenas a seis kilómetros de Sopot, cuenta con una joya única: 
+- La **Catedral Oliwa**, apenas a seis kilómetros de Sopot, cuenta con una joya única: 
 un órgano de madera oscura del siglo XVIII, cuyos 7.876 tubos consiguen una incomparable 
 potencia sonora. Durante todo el año se celebran conciertos gratuitos. 
 
-• Aquapark en Sopot está asociado al entretenimiento familiar de la Triciudad. Tiene 
+- Aquapark en Sopot está asociado al entretenimiento familiar de la Triciudad. Tiene 
 numerosos juegos acuáticos, bolera, saunas y spa. 
 
 Más información en la [Oficina de Turismo de Polonia](https://www.polonia.travel/es/). 
 
 También te puede interesar... 
 
-[Aventura en Polonia: observa los últimos bisontes de Europa en 
-Bialowieza](https://etheriamagazine.com/2019/01/30/que-ver-parque-bialowieza-polonia/). 
+{{< reflink path=posts/2019/01/que-ver-parque-bialowieza-polonia >}}. 
 
-[48 horas en Varsovia 
-(Polonia)](https://etheriamagazine.com/2018/08/17/48-horas-en-varsovia-polonia/). 
+{{< reflink path=posts/2018/08/48-horas-en-varsovia-polonia >}}. 
 
-[Sofía Casanova, una poetisa gallega en 
-Polonia](https://etheriamagazine.com/2018/09/10/la-poetisa-sofia-casanova-una-gallega-en-polonia/)
+{{< reflink path=posts/2018/09/la-poetisa-sofia-casanova-una-gallega-en-polonia >}}

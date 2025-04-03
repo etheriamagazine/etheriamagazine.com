@@ -1,7 +1,7 @@
 ---
 title: "Visita de Medina Azahara, la excursión imprescindible en Córdoba"
 date: 2022-03-25
-coverImage: https://fotos.etheriamagazine.com/2022/03/medina-azahara-palacio.jpg
+cover: https://fotos.etheriamagazine.com/2022/03/medina-azahara-palacio.jpg
 categories: 
   - inspiración
   - cultura
@@ -181,9 +181,10 @@ De octubre a marzo de 9 a 18 h, de marzo a junio de 9 a 21 h y de julio a septie
 ### Excursiones organizadas a Medina Azahara
 
 Civitatis cuenta con un [free 
-tour](https://www.civitatis.com/es/cordoba/free-tour-medina-azahara/?aid=10211), una [visita 
-con guía](https://www.civitatis.com/es/cordoba/visita-guiada-medina-azahara/?aid=10211) 
-y la opción del [tour 
+tour](https://www.civitatis.com/es/cordoba/free-tour-medina-azahara/?aid=10211), una 
+[visita con 
+guía](https://www.civitatis.com/es/cordoba/visita-guiada-medina-azahara/?aid=10211) y la 
+opción del [tour 
 nocturno](https://www.civitatis.com/es/cordoba/tour-nocturno-medina-azahara/?aid=10211) 
 que tiene lugar en junio, julio y agosto. Estas excursiones incluyen el traslado al 
 yacimiento arqueológico desde una serie de puntos de encuentro en Córdoba. 
@@ -192,11 +193,8 @@ yacimiento arqueológico desde una serie de puntos de encuentro en Córdoba.
 
 **También te puede interesar:** 
 
-[Córdoba con amigas: 10 planes para una escapada 
-perfecta](https://etheriamagazine.com/2021/08/25/planes-que-hacer-en-cordoba-con-amigas/) 
+{{< reflink path=posts/2021/08/planes-que-hacer-en-cordoba-con-amigas >}} 
 
-[Córdoba, maridaje ideal entre historia y 
-gastronomía](https://etheriamagazine.com/2019/03/25/viaje-amigas-que-comer-dormir-cordoba/) 
+{{< reflink path=posts/2019/03/viaje-amigas-que-comer-dormir-cordoba >}} 
 
-[Ruta del Vino Montilla-Moriles, 20 años brindando en el corazón de 
-Andalucía](https://etheriamagazine.com/2022/01/11/ruta-del-vino-montilla-moriles-20-aniversario/)
+{{< reflink path=posts/2022/01/ruta-del-vino-montilla-moriles-20-aniversario >}}

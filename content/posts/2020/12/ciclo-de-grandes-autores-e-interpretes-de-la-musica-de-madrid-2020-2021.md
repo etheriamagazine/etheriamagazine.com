@@ -1,7 +1,7 @@
 ---
 title: "El Ciclo de Grandes Autores e Intérpretes de la Música de Madrid 2020/21 se centra en el viaje y la vida"
 date: 2020-12-19
-coverImage: https://fotos.etheriamagazine.com/2020/12/Pianista-Judith-Jauregui.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/Pianista-Judith-Jauregui.jpg
 categories: 
   - ocio
 destino: 

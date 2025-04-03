@@ -1,7 +1,7 @@
 ---
 title: "Budapest con amigas, imprescindibles para un fin de semana"
 date: 2019-10-25
-coverImage: https://fotos.etheriamagazine.com/2019/10/palacio-real-budapest.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/palacio-real-budapest.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -132,9 +132,11 @@ Aunque funciona como Asamblea Nacional, es posible realizar una visita guiada (l
 en español) donde se puede ver el hemiciclo, el salón con la cámara alta y la sala 
 abovedada donde se encuentra la corona de San Esteban. 
 
-📍Visita guiada por el Parlamento. [Reservas](https://www.civitatis.com/es/budapest/visita-guiada-parlamento-budapest/?aid=10211). 
+📍Visita guiada por el Parlamento. 
+[Reservas](https://www.civitatis.com/es/budapest/visita-guiada-parlamento-budapest/?aid=10211). 
 
-📍Visita guiada por Budapest + Parlamento. [Reservas](https://www.civitatis.com/es/budapest/paseo-barco-cena-musica/?aid=10211). 
+📍Visita guiada por Budapest + Parlamento. 
+[Reservas](https://www.civitatis.com/es/budapest/paseo-barco-cena-musica/?aid=10211). 
 
 ![Csendes, un bar de ruina de Budapest.](https://fotos.etheriamagazine.com/2019/10/viaje-budapest-var-ruina-Csendes.jpg "Csendes, un bar de ruina de Budapest. © Pepa G.")
 
@@ -237,14 +239,14 @@ monumentos y algunos balnearios.
 
 ##### Dónde dormir en Budapest
 
-**• Alojamiento económico y céntrico: a&o hostels Budapest** 
+**- Alojamiento económico y céntrico: a&o hostels Budapest** 
 
 Cuenta con habitaciones familiares, dobles y grupales por un precio módico y zonas 
 comunes llenas de color. Podrás comer y pasar ratos de ocio en su comedor, sala de 
 conexión a internet, bar, patio, etc. Dispone de 114 habitaciones repartidas en tres 
 plantas. Precios desde 9 € por persona. Comprueba tarifas en su web. 
 
-**• NH Budapest City** 
+**- NH Budapest City** 
 
 Ofrece una excelente relación calidad- precio y está bien comunicado en metro y autobús 
 con toda la ciudad. Para que lo ubiques, se encuentra muy cerca de Isla Margarita. 
@@ -253,8 +255,6 @@ Más información en [Turismo de Budapest.](https://www.budapestinfo.hu/es/)
 
 ### Sigue leyendo sobre Budapest
 
-[Navidad en Budapest, 7 planes y una recomendación para 
-triunfar](https://etheriamagazine.com/2021/12/13/mercadillos-de-navidad-en-budapest/) 
+{{< reflink path=posts/2021/12/mercadillos-de-navidad-en-budapest >}} 
 
-[No te pierdas el renovado Matild Palace, tu hotel de lujo en 
-Budapest](https://etheriamagazine.com/2021/08/16/hotel-de-lujo-en-budapest-matild-palace/).
+{{< reflink path=posts/2021/08/hotel-de-lujo-en-budapest-matild-palace >}}.

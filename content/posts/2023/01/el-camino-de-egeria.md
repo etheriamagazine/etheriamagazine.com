@@ -1,7 +1,7 @@
 ---
 title: "El Camino de Egeria, descubre este nuevo itinerario turístico"
 date: 2023-01-04
-coverImage: https://fotos.etheriamagazine.com/2023/01/camino-egeria-jordania.jpg
+cover: https://fotos.etheriamagazine.com/2023/01/camino-egeria-jordania.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,13 +10,13 @@ authors:
   - Firmas invitadas
 ---
 
-El Camino de Egeria es una iniciativa muy reciente del Ministerio de Turismo jordano, en 
-colaboración con la Embajada de España y el Instituto Cervantes en Jordania –y que este 
-país va a presentar como novedad en la feria de turismo FITUR 2023, a mediados de 
+**El Camino de Egeria es una iniciativa muy reciente del Ministerio de Turismo jordano, 
+en colaboración con la Embajada de España y el Instituto Cervantes en Jordania –y que 
+este país va a presentar como novedad en la feria de turismo FITUR 2023, a mediados de 
 enero–. Se trata de convertir en producto turístico el recorrido que por aquellas 
 tierras hizo, a finales del siglo IV, una dama romana, Egeria (también llamada Etheria 
 en algunos estudios): la primera viajera, a la par que escritora, de origen hispano de 
-que tengamos noticia. 
+que tengamos noticia.** 
 
 ![Ninfeo romano de Amán, en el Camino de Egeria.](https://fotos.etheriamagazine.com/2023/01/camino-egeria-aman-ninfeo-romano.jpg "Ninfeo romano de Amán, en el Camino de Egeria. © Carlos Pascual")
 
@@ -25,10 +25,11 @@ que tengamos noticia.
 Una suerte de preludio a la puesta en marcha del proyecto 'El Camino de Egeria' tuvo 
 lugar, a mediados del pasado diciembre, en un salón de Amán repleto de turoperadores, 
 agencias y guías turísticos locales. Quien esto escribe tuvo ocasión de trazar ante tal 
-auditorio una semblanza _verosímil_ de [Egeria](https://etheriamagazine.com/2018/06/12/etheria-la-primera-viajera/): 
-una **matrona pudiente y culta** (¡no una monja!), posiblemente noble o perteneciente a 
-una familia aristocrática, ni joven ni mayor, intrépida, valiente, curiosa, movida tanto 
-por la piedad religiosa como por el puro deseo de conocer. 
+auditorio una semblanza _verosímil_ de {{< reflink 
+path=posts/2018/06/etheria-la-primera-viajera >}}: una **matrona pudiente y culta** (¡no 
+una monja!), posiblemente noble o perteneciente a una familia aristocrática, ni joven ni 
+mayor, intrépida, valiente, curiosa, movida tanto por la piedad religiosa como por el 
+puro deseo de conocer. 
 
 ![Distintas visitas del Camino de Egeria](https://fotos.etheriamagazine.com/2023/01/camino-egeria-primera-etapa.jpg "Dama y obispo del siglo IV, en Festival Tarraco Viva. Maison Carrée, en Nimes, Via Domitia. Obelisco romano de Constantinopla. Heliópolis, camino a Jerusalén. © Carlos Pascual")
 

@@ -1,7 +1,7 @@
 ---
 title: "The St. Regis Cairo, un nuevo hotel de lujo a orillas del Nilo"
 date: 2021-02-09
-coverImage: https://fotos.etheriamagazine.com/2021/02/hotel-st-regis-cairo-escalera.jpg
+cover: https://fotos.etheriamagazine.com/2021/02/hotel-st-regis-cairo-escalera.jpg
 categories: 
   - hoteles
 destino: 
@@ -120,8 +120,6 @@ personas: desde 215 Euros.
 
 ### También te puede interesar:
 
-[Çirağan Palace Kempinski, la magia de 
-Estambul.](https://etheriamagazine.com/2019/03/05/ciragan-palace-kempinski-escapada-romantica-estambul/) 
+{{< reflink path=posts/2019/03/ciragan-palace-kempinski-escapada-romantica-estambul >}} 
 
-[La Sultana o el sueño de una noche en 
-Marrakech.](https://etheriamagazine.com/2019/02/27/hotel-la-sultana-marrakech/)
+{{< reflink path=posts/2019/02/hotel-la-sultana-marrakech >}}

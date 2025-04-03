@@ -1,7 +1,7 @@
 ---
 title: "Hotel Tierra del Agua, otro santuario más en Asturias"
 date: 2020-07-30
-coverImage: https://fotos.etheriamagazine.com/2020/07/hotel-tierra-agua-habitacion.jpg
+cover: https://fotos.etheriamagazine.com/2020/07/hotel-tierra-agua-habitacion.jpg
 categories: 
   - hoteles
 destino: 
@@ -112,14 +112,10 @@ Asturias. Precio alojamiento y desayuno: desde 129 €/ noche.
 
 ### También te puede interesar...
 
-[Picos de Europa. Ruta por la columna vertebral de Asturias, León y 
-Cantabria](https://etheriamagazine.com/2018/10/17/picos-de-europa-ruta-por-asturias-leon-y-cantabria/) 
+{{< reflink path=posts/2018/10/picos-de-europa-ruta-por-asturias-leon-y-cantabria >}} 
 
-[Las Ubiñas, vive nueve experiencias en territorio del oso 
-pardo](https://etheriamagazine.com/2021/07/21/que-hacer-en-parque-las-ubinas-la-mesa/) 
+{{< reflink path=posts/2021/07/que-hacer-en-parque-las-ubinas-la-mesa >}} 
 
-[Hotel Villa Rosario, un palacio indiano asturiano frente al 
-Cantábrico](https://etheriamagazine.com/2021/07/20/hotel-villa-rosario-palacio-ribadesella/) 
+{{< reflink path=posts/2021/07/hotel-villa-rosario-palacio-ribadesella >}} 
 
-[Hotel La Fonte, un rincón secreto en 
-Asturias](https://etheriamagazine.com/2020/06/30/hotel-la-fonte-asturias-viajes-pareja-familia/)
+{{< reflink path=posts/2020/06/hotel-la-fonte-asturias-viajes-pareja-familia >}}

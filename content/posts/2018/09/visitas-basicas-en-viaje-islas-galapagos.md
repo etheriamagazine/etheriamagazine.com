@@ -1,7 +1,7 @@
 ---
 title: "Islas Galápagos, organiza el mejor viaje de tu vida"
 date: 2018-09-05
-coverImage: https://fotos.etheriamagazine.com/2018/08/iguana-viaje-galapagos-e1653807995591.jpg
+cover: https://fotos.etheriamagazine.com/2018/08/iguana-viaje-galapagos-e1653807995591.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -69,7 +69,8 @@ para interactuar de lleno con este universo.
 
 ## Isla de Santa Cruz
 
-Si solo pudiésemos escoger una isla para visitar en Galápagos, probablemente elegiríamos [Santa 
+Si solo pudiésemos escoger una isla para visitar en Galápagos, probablemente elegiríamos 
+[Santa 
 Cruz](https://ecuador.travel/es/destination/galapagos-islands-ecuador/isla-santa-cruz/) 
 porque ofrece un contraste de paisajes inaudito. Si el entorno desolado es la máxima del 
 conjunto insular, en este lugar sorprende encontrar, como por arte de magia, rincones 
@@ -125,11 +126,12 @@ huyendo y las buenas instantáneas están aseguradas.
 
 ## Isla Isabela, belleza solitaria
 
-La siguiente isla que pisamos es [Isabela](https://ecuador.travel/es/destination/galapagos-islands-ecuador/isabela/) 
-–la mayor en tamaño y la más volcánica del conjunto–. El trayecto se realiza en lancha 
-en unas dos horas (o algo más en función del estado del mar). Reserva el traslado a 
-primera hora, para aprovechar bien el día, y con antelación porque no hay mucha oferta. 
-Aunque muchos viajeros lo toman como una excursión de una jornada desde Santa Cruz, es 
+La siguiente isla que pisamos es 
+[Isabela](https://ecuador.travel/es/destination/galapagos-islands-ecuador/isabela/) –la 
+mayor en tamaño y la más volcánica del conjunto–. El trayecto se realiza en lancha en 
+unas dos horas (o algo más en función del estado del mar). Reserva el traslado a primera 
+hora, para aprovechar bien el día, y con antelación porque no hay mucha oferta. Aunque 
+muchos viajeros lo toman como una excursión de una jornada desde Santa Cruz, es 
 recomendable pernoctar una o dos noches en **Puerto Villamil**. Esta coqueta población, 
 asentada junto a una laguna de flamencos, cuenta con los servicios necesarios para 
 comer, tomar una cerveza y comprar algún recuerdo. 
@@ -163,5 +165,5 @@ Aún queda mucho por recorrer en Galápagos pero eso será en la siguiente escap
 
 #### Y ahora todos los datos prácticos:
 
-[Cómo llegar, moverse, alojarse... en las Islas 
-Galápagos.](https://etheriamagazine.com/2018/09/29/como-organizar-un-viaje-por-libre-a-las-islas-galapagos/)
+{{< reflink path=posts/2018/09/como-organizar-un-viaje-por-libre-a-las-islas-galapagos 
+>}}

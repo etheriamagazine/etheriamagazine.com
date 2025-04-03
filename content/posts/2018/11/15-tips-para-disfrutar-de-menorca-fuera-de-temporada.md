@@ -1,7 +1,7 @@
 ---
 title: "Cómo disfrutar de Menorca antes o después del verano"
 date: 2018-11-05
-coverImage: https://fotos.etheriamagazine.com/2018/10/puerto-ciudadela-menorca.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/puerto-ciudadela-menorca.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -168,17 +168,13 @@ silencio de la isla invita a dormir en lugares más intimistas. En Mahón, el **
 Ses Bruixes** es uno de los hoteles-boutique más codiciados de la ciudad, de estilo 
 inglés en pleno centro. **Sant Joan de Binissaida** se ha convertido en el hotel más 
 rural más famoso de la isla. Apunta también **Alcaufar Vell**, la antigua casa de la 
-familia Mercadal reconvertida en hotel; y [Cristine Bedfor (del que ya te hemos 
-hablado)](https://etheriamagazine.com/2021/06/07/hotel-de-lujo-en-menorca-cristine-bedfor/). 
-Y a soñar… con volver. 
+familia Mercadal reconvertida en hotel; y {{< reflink 
+path=posts/2021/06/hotel-de-lujo-en-menorca-cristine-bedfor >}}. Y a soñar… con volver. 
 
 **Más islas en Etheria Magazine** 
 
-[Ibiza en invierno también merece una 
-escapada](https://etheriamagazine.com/2021/11/05/planes-viaje-a-ibiza-en-invierno/). 
+{{< reflink path=posts/2021/11/planes-viaje-a-ibiza-en-invierno >}}. 
 
-[Palma con amigas: 8 planazos para exprimir la capital de 
-Mallorca](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palma-mallorca-con-amigas/). 
+{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}. 
 
-[10 planes para un viaje a Tenerife con 
-amigas](https://etheriamagazine.com/2021/05/17/viaje-a-tenerife-con-amigas-que-hacer-excursiones/).
+{{< reflink path=posts/2021/05/viaje-a-tenerife-con-amigas-que-hacer-excursiones >}}.

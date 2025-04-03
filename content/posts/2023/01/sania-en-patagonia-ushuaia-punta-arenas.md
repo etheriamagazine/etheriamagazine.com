@@ -1,7 +1,7 @@
 ---
 title: "Sania en Patagonia (parte 1):  Ushuaia y Punta Arenas"
 date: 2023-01-10
-coverImage: https://fotos.etheriamagazine.com/2023/01/portada-sania-jelic-patagonia.jpg
+cover: https://fotos.etheriamagazine.com/2023/01/portada-sania-jelic-patagonia.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Sania Jelic
 ---
 
-Sania Jelic continúa su viaje por Iberoamérica a buen ritmo y ha llegado a la Patagonia 
-en los últimos días. En este artículo nos relata en primera persona sus impresiones de 
-Ushuaia, conocida como 'la tierra del fin del mundo', y de Punta Arenas, ciudad chilena 
-situada en el estrecho de Magallanes. 
+**Sania Jelic continúa su viaje por Iberoamérica a buen ritmo y ha llegado a la 
+Patagonia en los últimos días. En este artículo nos relata en primera persona sus 
+impresiones de Ushuaia, conocida como 'la tierra del fin del mundo', y de Punta Arenas, 
+ciudad chilena situada en el estrecho de Magallanes.** 
 
 ![Sania Jelic en la Patagonia argentina.](https://fotos.etheriamagazine.com/2023/01/Sania-calafate.jpg "Sania en la Patagonia argentina. © Sania Jelic")
 
@@ -116,8 +116,8 @@ antes.
 ## La Casa de la Mujer en Ushuaia
 
 En América Latina domina el patriarcado y el machismo, que son más o menos pronunciados 
-según la zona y el entorno. Lo que me sorprendió al llegar al “fin del mundo” fue la [Casa 
-de la Mujer](https://nosotrashacemos.ushuaia.gob.ar/inicio). 
+según la zona y el entorno. Lo que me sorprendió al llegar al “fin del mundo” fue la 
+[Casa de la Mujer](https://nosotrashacemos.ushuaia.gob.ar/inicio). 
 
 Desde la Secretaría de la Mujer se fundó esta institución en 2005, y fue la primera de 
 este estilo en Argentina. Y en 2015 se inauguró el edifico actual. Su función es apoyar 
@@ -195,9 +195,6 @@ tiempo en la noche para procesar las impresiones del día…
 
 📌 **También te puede interesar:** 
 
-**Viaje de Sania 1.** [Viajar sola por el mundo tras la jubilación, el nuevo plan de 
-vida de Sania 
-Jelic](https://etheriamagazine.com/2022/12/13/sania-jelic-viajar-sola-mas-65/) 
+**Viaje de Sania 1.** {{< reflink path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}} 
 
-**Viaje de Sania 2**. [El Amazonas: nueva etapa de Sania Jelic en 
-Sudamérica](https://etheriamagazine.com/2022/12/24/sania-jelic-amazonas/)
+**Viaje de Sania 2**. {{< reflink path=posts/2022/12/sania-jelic-amazonas >}}

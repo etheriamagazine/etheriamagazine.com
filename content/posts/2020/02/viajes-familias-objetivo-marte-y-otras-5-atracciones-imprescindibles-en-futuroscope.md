@@ -1,7 +1,7 @@
 ---
 title: "Objetivo Marte y otras 5 atracciones imprescindibles en Futuroscope"
 date: 2020-02-20
-coverImage: https://fotos.etheriamagazine.com/2020/02/Objetivo-Marte-montana-rusa.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/Objetivo-Marte-montana-rusa.jpg
 categories: 
   - viajar-en-familia
   - ocio
@@ -11,19 +11,18 @@ authors:
   - Pepa G. Marín
 ---
 
-Futuroscope hace realidad esta temporada uno de los sueños de cualquier aficionado a la 
-Astronomía y a la aventura: pisar Marte. Esta atracción en forma de montaña rusa, la 
+**Futuroscope hace realidad esta temporada uno de los sueños de cualquier aficionado a 
+la Astronomía y a la aventura: pisar Marte. Esta atracción en forma de montaña rusa, la 
 primera del parque de estas características, se suma a las cuarenta que ya tiene 
-disponibles para toda la familia. 
+disponibles para toda la familia.** 
 
 ![objetivo marte, futuroscope 2020](https://fotos.etheriamagazine.com/2020/02/Futuroscope-objetivo-marte.jpg "Objetivo Marte, la nueva atracción de Futuroscope en 2020. © Calune, Glory Paris, D LAMING, AEROPHILE - Futuroscope")
 
 Un parque de las dimensiones de Futuroscope requiere de una buena planificación, sobre 
-todo si se viaja con niños pequeños, pero de eso ya os hemos hablado ([10 consejos para 
-aprovechar una visita a 
-Futuroscope](https://etheriamagazine.com/2018/08/24/10-consejos-futuroscope/)), así que 
-nos centraremos en **Objetivo Marte** y en otras atracciones que son, desde nuestro 
-punto de vista, las mejores para toda la familia. 
+todo si se viaja con niños pequeños, pero de eso ya os hemos hablado ({{< reflink 
+path=posts/2018/08/10-consejos-futuroscope >}}), así que nos centraremos en **Objetivo 
+Marte** y en otras atracciones que son, desde nuestro punto de vista, las mejores para 
+toda la familia. 
 
 ## Qué visitar en Futuroscope
 
@@ -144,5 +143,4 @@ parque en menos de 10 minutos a pie. Uno de ellos, además, el **Hotel Du Futuro
 No te pierdas los consejos, precios y datos prácticos que te ofrecemos en esta 
 actualización de Futuroscope: 
 
-[Buenas razones para viajar a 
-Futuroscope](https://etheriamagazine.com/2022/03/30/novedades-futuroscope-2022/).
+{{< reflink path=posts/2022/03/novedades-futuroscope-2022 >}}.

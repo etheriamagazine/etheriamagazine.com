@@ -1,7 +1,7 @@
 ---
 title: "Cuevas de Mallorca, cinco fantasías subterráneas"
 date: 2021-08-26
-coverImage: https://fotos.etheriamagazine.com/2021/08/Cuevas-arta-mallorca.jpg
+cover: https://fotos.etheriamagazine.com/2021/08/Cuevas-arta-mallorca.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -98,8 +98,7 @@ Precio: desde 8 euros (niños) y desde 15 euros (adultos).
 
 ### También te puede interesar...
 
-[8 excursiones en Mallorca para un viaje en 
-familia](https://etheriamagazine.com/2020/06/16/8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos/). 
+{{< reflink 
+path=posts/2020/06/8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos >}}. 
 
-[Palma con amigas: 8 planazos para exprimir la capital de 
-Mallorca](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palma-mallorca-con-amigas/).
+{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}.

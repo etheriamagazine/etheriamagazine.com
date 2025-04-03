@@ -1,7 +1,7 @@
 ---
 title: "5 consejos para hacer un álbum de fotos digital y no morir en el intento"
 date: 2020-04-02
-coverImage: https://fotos.etheriamagazine.com/2020/03/albumes-varios.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/albumes-varios.jpg
 categories: 
   - inspiración
   - ocio
@@ -9,10 +9,10 @@ authors:
   - Susana García
 ---
 
-Una forma excelente de pasar el tiempo libre que nos sobra en casa es poner en orden las 
-fotografías de los viajes y plasmarlas en un álbum digital que puedas enviar a imprimir. 
-Aquí te damos varios consejos para que no inviertas demasiado tiempo en la tarea, aunque 
-pasar un rato mirando fotos de viajes pasados no es tan malo, ¿verdad? 
+**Una forma excelente de pasar el tiempo libre que nos sobra en casa es poner en orden 
+las fotografías de los viajes y plasmarlas en un álbum digital que puedas enviar a 
+imprimir. Aquí te damos varios consejos para que no inviertas demasiado tiempo en la 
+tarea, aunque pasar un rato mirando fotos de viajes pasados no es tan malo, ¿verdad?** 
 
 ![crea tu propio album de fotos, imágenes de viajes, fotos de tus viajes](https://fotos.etheriamagazine.com/2020/03/albumes-varios.jpg "No renuncies a imprimir tus álbumes de fotos.")
 
@@ -37,8 +37,9 @@ no te animas a empezar.
 
 📌 **Cómo hacer un álbum de fotos digital:** 
 
-**1.** [Decide que quieres](#Decide). **2.** [Selecciona las fotos](#Selecciona). **3.** [Elige 
-una aplicación para realizarlo](#Elige). **4\.** [Monta tu propio álbum](#Monta). **5.** [Encárgalo](#Encarga). 
+**1.** [Decide que quieres](#Decide). **2.** [Selecciona las fotos](#Selecciona). **3.** 
+[Elige una aplicación para realizarlo](#Elige). **4\.** [Monta tu propio álbum](#Monta). 
+**5.** [Encárgalo](#Encarga). 
 
 ## 1\. Decide qué quieres
 
@@ -86,22 +87,24 @@ aplicación al escritorio del ordenador (lo más fácil) o trabajar online en su
 
 ![Home de la web de Hofmann.](https://fotos.etheriamagazine.com/2020/03/albumes-hofmann.jpg "Home de la web de © Hofmann.")
 
-Si te manejas en el entorno Windows, una buena opción es [Hofmann](https://www.hofmann.es). 
-La utilización de su aplicación es muy sencilla e intuitiva y puedes elegir entre libros 
-de fotos o álbumes, con distintos tamaños y calidades. También funciona muy bien [Fotoprix](https://www.fotoprix.com) 
-que, además de fotolibros, tiene la curiosa opción de hacer fotorevistas en papel 
-couché. Otra opción es recurrir a [Fotoalbum](https://www.fotoalbum.es/album-de-fotos) 
-(que ofrece posibilidad de descargar la aplicación también para Mac): esta empresa, 
-además de los acabados tradicionales, ofrece encuadernación en espiral o álbumes con 
-tapas en cuero o lino. 
+Si te manejas en el entorno Windows, una buena opción es 
+[Hofmann](https://www.hofmann.es). La utilización de su aplicación es muy sencilla e 
+intuitiva y puedes elegir entre libros de fotos o álbumes, con distintos tamaños y 
+calidades. También funciona muy bien [Fotoprix](https://www.fotoprix.com) que, además de 
+fotolibros, tiene la curiosa opción de hacer fotorevistas en papel couché. Otra opción 
+es recurrir a [Fotoalbum](https://www.fotoalbum.es/album-de-fotos) (que ofrece 
+posibilidad de descargar la aplicación también para Mac): esta empresa, además de los 
+acabados tradicionales, ofrece encuadernación en espiral o álbumes con tapas en cuero o 
+lino. 
 
 ![Home de la web  © Motif.](https://fotos.etheriamagazine.com/2020/03/albumes-motif.jpg "Home de la web de © Motif.")
 
 Si tienes un Mac OS, lo mejor es realizar un proyecto desde la aplicación de la propia 
 **Fototeca**. Creas un Proyecto e importas las fotos que necesitas. Tendrás que 
-descargarte en la App Store alguna de las aplicaciones compatibles, como [Mimeo](https://www.mimeophotos.com) 
-o [Motif](https://www.motifphotos.com/es-es/), con las que pueden pedir después el álbum 
-creado. También puedes hacer el proyecto directamente desde estas aplicaciones. 
+descargarte en la App Store alguna de las aplicaciones compatibles, como 
+[Mimeo](https://www.mimeophotos.com) o [Motif](https://www.motifphotos.com/es-es/), con 
+las que pueden pedir después el álbum creado. También puedes hacer el proyecto 
+directamente desde estas aplicaciones. 
 
 Si sólo vas a utilizar fotos del móvil, ten en cuenta que existen aplicaciones para 
 hacer el álbum directamente desde este dispositivo como **Lalalab**, **Cheerz**, 
@@ -151,8 +154,8 @@ mucho tiempo para tener tus recuerdos al alcance de la mano en tu librería ¿no
 
 ## También te puede interesar:
 
-[5 cámaras de fotos semiprofesionales perfectas para viajar 
-ligeras](https://etheriamagazine.com/2020/11/25/5-camaras-de-fotos-semiprofesionales-perfectas-para-viajar-ligeras/) 
+{{< reflink 
+path=posts/2020/11/5-camaras-de-fotos-semiprofesionales-perfectas-para-viajar-ligeras 
+>}} 
 
-[10 gadgets para regalar a amigas 
-viajeras](https://etheriamagazine.com/2020/04/23/10-gadgets-para-regalar-a-madres-viajeras/)
+{{< reflink path=posts/2020/04/10-gadgets-para-regalar-a-madres-viajeras >}}

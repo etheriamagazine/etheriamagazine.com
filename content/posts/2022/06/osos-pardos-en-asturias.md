@@ -1,7 +1,7 @@
 ---
 title: "Ver osos pardos en Asturias, una experiencia inolvidable"
 date: 2022-06-07
-coverImage: https://fotos.etheriamagazine.com/2022/06/Oso-pardo-asturias.jpg
+cover: https://fotos.etheriamagazine.com/2022/06/Oso-pardo-asturias.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -206,11 +206,8 @@ En Somiedo hay una casa rural: **Buenamadre** (www.buenamadre.com)
 
 ## También en Asturias...
 
-[Asturias en coche, guía para un viaje legendario con 
-amigas](https://etheriamagazine.com/2022/01/17/asturias-en-coche-guia-imprescindible/). 
+{{< reflink path=posts/2022/01/asturias-en-coche-guia-imprescindible >}}. 
 
-[Picos de Europa, una ruta por la columna vertebral de Asturias, León y 
-Cantabria](https://etheriamagazine.com/2018/10/17/picos-de-europa-ruta-por-asturias-leon-y-cantabria/). 
+{{< reflink path=posts/2018/10/picos-de-europa-ruta-por-asturias-leon-y-cantabria >}}. 
 
-[8 planazos para descubrir Oviedo con 
-amigas](https://etheriamagazine.com/2021/10/05/planes-imprescindibles-en-oviedo-con-amigas/).
+{{< reflink path=posts/2021/10/planes-imprescindibles-en-oviedo-con-amigas >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Poitiers, ciudad de mujeres: de Leonor de Aquitania a la alcaldesa Léonore Moncond’huy"
 date: 2024-10-02
-coverImage: https://fotos.etheriamagazine.com/2024/10/mercado-poitiers.jpg
+cover: https://fotos.etheriamagazine.com/2024/10/mercado-poitiers.jpg
 categories: 
   - historias
   - mujeres-top
@@ -33,7 +33,7 @@ ecologistas.
 En Poitiers también hay que recordar a **Juana de Arco**, que fue defensora de la casa 
 de Orleans antes de terminar en la hoguera. Del juicio que tuvo en la ciudad salió 
 vencedora, ya que un jurado admitió su papel guerrero y divino, pero no tuvo la misma 
-suerte en [Rouen](https://etheriamagazine.com/2021/06/24/4-dias-ruta-impresionismo-normandia-francia/) 
+suerte en {{< reflink path=posts/2021/06/4-dias-ruta-impresionismo-normandia-francia >}} 
 (Ruan, en español), donde un tribunal eclesiástico pro inglés la terminó condenando. 
 
 ![Centro histórico de Poitiers.](https://fotos.etheriamagazine.com/2024/10/calles-poitiers.jpg "Centro histórico de Poitiers. © Manena Munar")
@@ -236,8 +236,6 @@ Pedro (1 Rue Sainte-Croix) y el Museo de la Santa Cruz (musee-saintecroix.fr)
 
 **También en Etheria Magazine** 
 
-[Futuroscope en 2024: un parque acuático y otras 
-novedades](https://etheriamagazine.com/2024/02/26/futuroscope-novedades-2024-parque-acuatico-aquascope/). 
+{{< reflink path=posts/2024/02/futuroscope-novedades-2024-parque-acuatico-aquascope >}}. 
 
-[Qué visitar en la Ruta del Impresionismo de 
-Normandía](https://etheriamagazine.com/2021/06/24/4-dias-ruta-impresionismo-normandia-francia/).
+{{< reflink path=posts/2021/06/4-dias-ruta-impresionismo-normandia-francia >}}.

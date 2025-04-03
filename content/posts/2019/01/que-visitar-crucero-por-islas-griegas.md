@@ -1,7 +1,7 @@
 ---
 title: "Crucero por las Islas Griegas"
 date: 2019-01-03
-coverImage: https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-crucero-islas-griegas-Santorini-e1562660385975.jpg
+cover: https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-crucero-islas-griegas-Santorini-e1562660385975.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -217,10 +217,11 @@ la marcha nocturna.
 
 ### CONSEJOS ETHERIA
 
-Entre otras líneas aéreas, consulta las conexiones de [Vueling](https://www.vueling.com/es/) 
-tiene frecuencias directas a Atenas desde Barcelona, desde donde parten los cruceros de 
-Variety Cruises. [Aegeanair.com](https://es.aegeanair.com/) vuela desde las principales 
-ciudades españolas a Atenas sin escalas, de junio a noviembre. 
+Entre otras líneas aéreas, consulta las conexiones de 
+[Vueling](https://www.vueling.com/es/) tiene frecuencias directas a Atenas desde 
+Barcelona, desde donde parten los cruceros de Variety Cruises. 
+[Aegeanair.com](https://es.aegeanair.com/) vuela desde las principales ciudades 
+españolas a Atenas sin escalas, de junio a noviembre. 
 
 [Variety 
 Cruises](http://www.varietycruises.com/english/variety/index/summer-cruises/1/classical-greece-2019/140) 
@@ -231,11 +232,10 @@ pasajeros limitada.
 
 ### También te puede interesar:
 
-[Escapada ‘slow’ a Paros, Amorgos y Milos, el secreto mejor guardado de las 
-Cícladas](https://etheriamagazine.com/2020/10/20/descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas/) 
+{{< reflink 
+path=posts/2020/10/descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas 
+>}} 
 
-[Rodas, el primer paso para enamorarse de las Islas 
-Griegas](https://etheriamagazine.com/2019/08/14/que-ver-48-horas-en-rodas-islas-griegas/) 
+{{< reflink path=posts/2019/08/que-ver-48-horas-en-rodas-islas-griegas >}} 
 
-[Qué ver en Meteora. 6 monasterios que tocan el cielo 
-griego](https://etheriamagazine.com/2019/09/30/que-ver-en-meteora-6-monasterios-viajes-culturales/)
+{{< reflink path=posts/2019/09/que-ver-en-meteora-6-monasterios-viajes-culturales >}}

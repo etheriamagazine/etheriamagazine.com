@@ -1,7 +1,7 @@
 ---
 title: "El Valle del Tiétar, la Marbella de interior"
 date: 2020-08-19
-coverImage: https://fotos.etheriamagazine.com/2020/08/castillo-adrada.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/castillo-adrada.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -145,11 +145,8 @@ Municipios Mágicos de España](https://www.pueblosmagicos.es/).
 
 ### También te puede interesar:
 
-[Madrigal de las Altas Torres, una excursión a la cuna de Isabel la 
-Católica](https://etheriamagazine.com/2022/02/14/que-ver-madrigal-altas-torres/) 
+{{< reflink path=posts/2022/02/que-ver-madrigal-altas-torres >}} 
 
-[Ruta del Vino de la Sierra de Francia, un brindis con amigas en 
-Salamanca](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/) 
+{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}} 
 
-[Visita de la catedral de Toledo: 10 detalles que no puedes 
-perderte](https://etheriamagazine.com/2022/01/19/que-ver-en-catedral-de-toledo/)
+{{< reflink path=posts/2022/01/que-ver-en-catedral-de-toledo >}}

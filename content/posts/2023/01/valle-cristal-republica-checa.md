@@ -1,7 +1,7 @@
 ---
 title: "El Valle del Cristal, descubre la magia del norte de Bohemia"
 date: 2023-01-09
-coverImage: https://fotos.etheriamagazine.com/2023/01/museo-valle-cristal-chequia.jpg
+cover: https://fotos.etheriamagazine.com/2023/01/museo-valle-cristal-chequia.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-Aunque resulte difícil de creer en un mundo tan globalizado como el nuestro, aún existen 
-secretos celosamente guardados y lugares recónditos que mantienen el misterio en torno a 
-sus tradiciones. De secretos y de tradición saben mucho en el Valle del Cristal, también 
-de creatividad y artesanía. Hemos recorrido la región checa de Liberec para contarte por 
-qué deberías apuntarla en tu lista de viajes pendientes para este 2023. 
+**Aunque resulte difícil de creer en un mundo tan globalizado como el nuestro, aún 
+existen secretos celosamente guardados y lugares recónditos que mantienen el misterio en 
+torno a sus tradiciones. De secretos y de tradición saben mucho en el Valle del Cristal, 
+también de creatividad y artesanía. Hemos recorrido la región checa de Liberec para 
+contarte por qué deberías apuntarla en tu lista de viajes pendientes para este 2023.** 
 
 ![Jarrón y flores del Museo del cristal y la bisutería](https://fotos.etheriamagazine.com/2023/01/museo-cristal-bisuteria-chequia.jpg "Pieza del Museo del Cristal y la Bisutería.")
 
@@ -191,9 +191,7 @@ despedirte desde allí de estas tierras de Bohemia del Norte.
 
 ✅ **También te puede interesar...** 
 
-[Qué ver en Brno: una escapada muy ‘chic’ a 
-Chequia](https://etheriamagazine.com/2022/08/26/que-ver-brno-chequia/). 
+{{< reflink path=posts/2022/08/que-ver-brno-chequia >}}. 
 
-[Karlovy Vary, Mariánské Lázně y Františkovy Lázně, descubre el secreto de la eterna 
-juventud en 
-Chequia](https://etheriamagazine.com/2021/08/13/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy/).
+{{< reflink 
+path=posts/2021/08/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy >}}.

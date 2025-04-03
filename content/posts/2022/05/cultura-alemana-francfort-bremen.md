@@ -1,7 +1,7 @@
 ---
 title: "Fráncfort y Bremen se asoman a Madrid para mostrar sus encantos"
 date: 2022-05-31
-coverImage: https://fotos.etheriamagazine.com/2022/05/Francfort-alemania.jpg
+cover: https://fotos.etheriamagazine.com/2022/05/Francfort-alemania.jpg
 categories: 
   - ocio
 destino: 
@@ -51,7 +51,8 @@ con una divertida prueba: han personalizado su famosa prueba Mastermind y la han
 ambientado en la ciudad de Fráncfort. Los participantes tendrán que ingeniárselas para 
 entrar en la cámara de seguridad de uno de los museos más importantes de la ciudad 
 alemana, el Museo Stadël, donde el objetivo es hacerse con alguna de las obras de su 
-colección. Esta experiencia se puede reservar en [www.foxinaboxmadrid.com](http://www.foxinaboxmadrid.com) 
+colección. Esta experiencia se puede reservar en 
+[www.foxinaboxmadrid.com](http://www.foxinaboxmadrid.com) 
 
 📍 Dónde: Fox in a Box. Calle Áncora, 12. 
 
@@ -76,16 +77,14 @@ actividad es gratuita.
 
 Además de estas iniciativas, ten muy en cuenta que tu viaje a Fráncfort y Bremen te 
 puede salir gratis si te llevas uno de los viajes que se sortean durante esta campaña: 
-un viaje para dos personas a cada ciudad. Sólo tienes que entrar en este [enlace](http://k405.es/glc) 
-y participar. 
+un viaje para dos personas a cada ciudad. Sólo tienes que entrar en este 
+[enlace](http://k405.es/glc) y participar. 
 
 ### También te puede interesar:
 
-[Múnich y Bad Wörishofen, la Alemania más verde y 
-saludable](https://etheriamagazine.com/2021/08/04/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable/) 
+{{< reflink path=posts/2021/08/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable 
+>}} 
 
-[Viaje en familia de seis días por Baviera: de Playmobil a 
-Legoland](https://etheriamagazine.com/2019/06/12/viaje-en-familia-parques-alemania-playmobil-legoland/) 
+{{< reflink path=posts/2019/06/viaje-en-familia-parques-alemania-playmobil-legoland >}} 
 
-[Descubre Hamburgo en 48 horas, la Alemania más 
-canalla](https://etheriamagazine.com/2020/02/24/que-ver-hacer-fin-de-semana-hamburgo-alemania/)
+{{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}}

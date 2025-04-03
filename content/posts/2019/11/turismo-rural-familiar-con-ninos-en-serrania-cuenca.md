@@ -1,7 +1,7 @@
 ---
 title: "Tres planes con niños en la Serranía de Cuenca"
 date: 2019-11-29
-coverImage: https://fotos.etheriamagazine.com/2019/11/ruta-senderista-hoz-beteta.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/ruta-senderista-hoz-beteta.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Pepa G. Marín
 ---
 
-Escapar del medio urbano para adentrarse en la naturaleza es una de las opciones más 
+**Escapar del medio urbano para adentrarse en la naturaleza es una de las opciones más 
 interesantes para un viaje en familia. En Etheria Magazine te proponemos la Serranía de 
-Cuenca como un plan ideal con niños y te sugerimos 3 excursiones imprescindibles. 
+Cuenca como un plan ideal con niños y te sugerimos 3 excursiones imprescindibles.** 
 
 ![Ruta senderista por la hoz de Beteta](https://fotos.etheriamagazine.com/2019/11/ruta-senderista-hoz-beteta.jpg "Ruta senderista por la hoz de Beteta. © Pepa García")
 
@@ -90,8 +90,9 @@ sólo hay que subir una escalera para llegar a la entrada. Las visitas son guiad
 45 minutos, te venden la entrada allí mismo y te proporcionan casco y linterna para 
 poder ver en el interior. No está iluminada por lo que es imprescindible prestar cuidado 
 al caminar por el suelo húmedo. No abren todo el año y, a veces, está en mantenimiento 
-por lo que es aconsejable consultarlo antes en la web del [Ayuntamiento](http://aytobeteta.es/mis-encantos/cueva-de-la-ramera-2/). 
-El precio para los adultos es de 5 euros y los niños hasta los 7 años pasan gratis. 
+por lo que es aconsejable consultarlo antes en la web del 
+[Ayuntamiento](http://aytobeteta.es/mis-encantos/cueva-de-la-ramera-2/). El precio para 
+los adultos es de 5 euros y los niños hasta los 7 años pasan gratis. 
 
 ![cueva ramera, hoz beteta cuenca](https://fotos.etheriamagazine.com/2019/11/cueva-ramera-guia.jpg "Cueva de la Ramera (hoz de Beteta). ©P.G.")
 
@@ -158,8 +159,8 @@ descuento de de 5 a 12 años y de 13 en adelante se consideran adultos.
 
 ## Otras propuestas en Cuenca
 
-[13 excursiones en Cuenca para descubrir los tesoros de la 
-provincia](https://etheriamagazine.com/2020/06/04/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca/). 
+{{< reflink 
+path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+>}}. 
 
-[Ruta de los Mimbres de Cuenca, belleza roja sin 
-artificios](https://etheriamagazine.com/2020/01/15/que-ver-hacer-ruta-mimbre-cuenca/).
+{{< reflink path=posts/2020/01/que-ver-hacer-ruta-mimbre-cuenca >}}.

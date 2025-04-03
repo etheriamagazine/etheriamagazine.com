@@ -1,18 +1,18 @@
 ---
 title: "Las bailarinas ‘desaparecidas’ de Angkor"
 date: 2019-01-17
-coverImage: https://fotos.etheriamagazine.com/2019/01/viaje-camboya-mujeres-Apsaras-de-Banteay-Srei-e1673862978728.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/viaje-camboya-mujeres-Apsaras-de-Banteay-Srei-e1673862978728.jpg
 destino: 
   - España
 authors: 
   - Pedro Grifol
 ---
 
-En el templo de Banteay Srei, situado en el recinto de Angkor Vat, fueron robadas 
+**En el templo de Banteay Srei, situado en el recinto de Angkor Vat, fueron robadas 
 impunemente unas esculturas en 1923. Aquello nunca se olvidó. Casi cien años después, 
 los actuales guías del lugar, durante la visita turística, siguen llamando “Las 
 bailarinas de Malraux” a las estatuas que quería llevarse a su casa el ministro de 
-cultura francés. Te contamos además qué ver en Angkor para que no te pierdas nada. 
+cultura francés. Te contamos además qué ver en Angkor para que no te pierdas nada.** 
 
 ![relieve del templo de Banteay Srei en Angkor](https://fotos.etheriamagazine.com/2019/01/viaje-camboya-mujeres-Apsaras-de-Banteay-Srei-e1673862978728.jpg "Apsaras del templo de Banteay Srei (Camboya).")
 
@@ -158,8 +158,6 @@ viajes especializada como **Phoenix Voyages**, que tienen guías de habla españ
 
 📌 **También te puede interesar:** 
 
-[Crucero por el Mekong. Vietnam y Camboya a través del río de la 
-vida](https://etheriamagazine.com/2019/09/13/crucero-por-el-mekong-excursiones-vietnam-y-camboya/) 
+{{< reflink path=posts/2019/09/crucero-por-el-mekong-excursiones-vietnam-y-camboya >}} 
 
-[Luang Prabang, la generosidad de 
-Laos](https://etheriamagazine.com/2018/12/17/guia-viaje-para-mujeres-luang-prabang/)
+{{< reflink path=posts/2018/12/guia-viaje-para-mujeres-luang-prabang >}}

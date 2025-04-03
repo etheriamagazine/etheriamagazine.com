@@ -1,7 +1,7 @@
 ---
 title: "Hotel Nayara Springs, lujo natural en Costa Rica"
 date: 2021-05-23
-coverImage: https://fotos.etheriamagazine.com/2018/05/COSTA-RICA-HOTEL-NAYARA-PISCINA.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/COSTA-RICA-HOTEL-NAYARA-PISCINA.jpg
 categories: 
   - hoteles
 destino: 
@@ -17,10 +17,10 @@ Hay un rincón en la selva que rodea al majestuoso volcán Arenal donde refugiar
 La naturaleza forma parte del hotel Nayara Springs, con su fauna y flora increíbles, y 
 ha sido respetada con mimo por sus constructores. De hecho para llegar al hotel hay que 
 atravesar desde el [**Nayara Resort Spa & Gardens**](http://www.arenalnayara.com) (de la 
-misma propiedad y un excelente lugar si se viaja a [Costa Rica con 
-niños](https://etheriamagazine.com/2018/05/04/costaricaenfamilia/)) un puente peatonal 
-250 pies construido sobre las ramas de los árboles. Y así se llega a este **oasis sólo 
-para adultos** perfecto para un viaje en pareja. 
+misma propiedad y un excelente lugar si se viaja a {{< reflink 
+path=posts/2021/04/viaje-costa-rica-con-ninos-que-hacer-en-familia >}}) un puente 
+peatonal 250 pies construido sobre las ramas de los árboles. Y así se llega a este 
+**oasis sólo para adultos** perfecto para un viaje en pareja. 
 
 ## Lujo 5 estrellas sólo para adultos
 
@@ -83,5 +83,4 @@ Fotos: Susana García y Hotel Nayara Springs.
 
 ### También te puede interesar en Costa Rica
 
-[Descubre la esencia de la Península de Nicoya, tierra de artesanas, surf y 
-yoga.](https://etheriamagazine.com/2022/07/15/que-ver-peninsula-nicoya-costa-rica/)
+{{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}}

@@ -1,7 +1,7 @@
 ---
 title: "Berlín: de la caricia al tortazo"
 date: 2018-11-12
-coverImage: https://fotos.etheriamagazine.com/2018/11/Berlin-viaje-mujeres-e1566602904130.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/Berlin-viaje-mujeres-e1566602904130.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -36,7 +36,8 @@ Los [paseos en barco por el río Spree](https://www.visitberlin.de/es/recorridos
 hacen las delicias de las viajeras más románticas. Su camino se cruza con la 
 reivindicativa East Side Gallery y con la avenida prusiana Unter den Linden, hasta 
 llegar a la elegante **Isla de los Museos**. Allí, el protagonismo de la Puerta de 
-Ishtar, dentro del [Pergamonmuseum](https://www.smb.museum/en/museums-institutions/pergamonmuseum/home.html), 
+Ishtar, dentro del 
+[Pergamonmuseum](https://www.smb.museum/en/museums-institutions/pergamonmuseum/home.html), 
 es innegable —en serio, tienes que verla—. El **busto hipnotizante de Nefertiti** dirige 
 su mirada penetrante desde el [Neues 
 Museum](https://www.smb.museum/en/museums-institutions/neues-museum/home.html) mientras 
@@ -133,10 +134,10 @@ Kreuzberg para probar las delicias de su mercado turco.
 
 Desde la enorme avenida Karl-Marx es fácil imaginar los desfiles militares y festejos 
 que allí celebraba el gobierno de la RDA (República Democrática Alemana). La sucesión de 
-edificios colmena, típicos de la arquitectura comunista, se dejan atrás para llegar a la [East 
-Side Gallery](http://www.eastsidegallery-berlin.com/), donde se encuentra el fragmento 
-más extenso del Muro de Berlín. A lo largo de 1,3 kilómetros, coloridos murales 
-representan ‘Homenaje a la generación joven’, ‘Test the Rest’ o el infinitamente 
+edificios colmena, típicos de la arquitectura comunista, se dejan atrás para llegar a la 
+[East Side Gallery](http://www.eastsidegallery-berlin.com/), donde se encuentra el 
+fragmento más extenso del Muro de Berlín. A lo largo de 1,3 kilómetros, coloridos 
+murales representan ‘Homenaje a la generación joven’, ‘Test the Rest’ o el infinitamente 
 fotografiado ‘Beso fraternal’, la imagen del **beso socialista** entre el líder de la 
 RDA, Erich Honecker, y el mandatario de la Unión Soviética, Leónidas Brezhnev. 
 
@@ -181,12 +182,12 @@ divertidísimo salón años veinte, donde jóvenes y no tan jóvenes aprenden pa
 salsa y tango, mientras disfrutan de la gastronomía local. ¡Todo ello hace tan 
 entrañable al Clärchens Ballhaus! 
 
-Junto a la plaza que alberga la catedral francesa y la catedral alemana, el bullicioso [Augustiner 
-am Gendarmenmarkt](http://www.augustiner-braeu-berlin.de/bier.html), ofrece una **gran 
-selección de salchichas bávaras**. No se trata de un local berlinés, pero el ambiente no 
-puede ser más alemán. Te recomendamos que acompañes sus platos con una pinta Mönchshof. 
-Entre tantísimas opciones cerveceras, tomar **una pilsner siempre es una alternativa 
-fresca y suave**. 
+Junto a la plaza que alberga la catedral francesa y la catedral alemana, el bullicioso 
+[Augustiner am Gendarmenmarkt](http://www.augustiner-braeu-berlin.de/bier.html), ofrece 
+una **gran selección de salchichas bávaras**. No se trata de un local berlinés, pero el 
+ambiente no puede ser más alemán. Te recomendamos que acompañes sus platos con una pinta 
+Mönchshof. Entre tantísimas opciones cerveceras, tomar **una pilsner siempre es una 
+alternativa fresca y suave**. 
 
 ![en que ver en berlin, viajes mujeres berlin](https://fotos.etheriamagazine.com/2018/11/Berlin-viaje-mujeres-WILHEM-13.jpg "Memorial Kaiser Wilhelm, 2018. ©Kelu RG. Breitscheidplatz, 2018. ©Kelu RG.")
 
@@ -201,21 +202,21 @@ de forma gratuita los gorilas del zoo que se encuentra al lado. El [zoológico d
 Berlín](https://www.zoo-berlin.de/en) contiene el mayor número de especies distintas de 
 todo el mundo. 
 
-Pero si este paseo va de parques, no podemos olvidar el más original. El antiguo [aeropuerto 
-de Tempelhof](https://www.thf-berlin.de/en/) se ha transformado en una zona verde lúdica 
-dedicada a festivales, mercadillos y deportes. Actualmente es posible entrar en su 
-antigua terminal y pasear por su descomunal pista de aterrizaje. El histórico aeropuerto 
-pertenecía al gobierno nazi durante la Segunda Guerra Mundial y posteriormente, con el 
-bloqueo de la Unión Soviética, también tuvo un papel crucial en el puente aéreo para 
-abastecer a la población del sector occidental de la ciudad. 
+Pero si este paseo va de parques, no podemos olvidar el más original. El antiguo 
+[aeropuerto de Tempelhof](https://www.thf-berlin.de/en/) se ha transformado en una zona 
+verde lúdica dedicada a festivales, mercadillos y deportes. Actualmente es posible 
+entrar en su antigua terminal y pasear por su descomunal pista de aterrizaje. El 
+histórico aeropuerto pertenecía al gobierno nazi durante la Segunda Guerra Mundial y 
+posteriormente, con el bloqueo de la Unión Soviética, también tuvo un papel crucial en 
+el puente aéreo para abastecer a la población del sector occidental de la ciudad. 
 
 ![en que ver en berlin, viajes mujeres berlin](https://fotos.etheriamagazine.com/2018/11/Berlin-viaje-mujeres-AEROPUERTO-14.jpg "Parque Aeropuerto de Tempelhof. Tempelhof Projekt GmbH.")
 
 Llegado este punto del viaje, tenemos que reconocerlo. Estábamos equivocadas. Más que un 
 **cuadro de bifrontismo**, Berlín es un gran poliedro que rueda sobre sus innumerables 
-caras. ¡Y son tan distintas todas ellas! Divertidas, sobrecogedoras, innovadoras… Desde [Etheria 
-Magazine](https://etheriamagazine.com) estamos deseando descubrirlas todas. Y tú, ¿a qué 
-estás esperando para viajar a Berlín? 
+caras. ¡Y son tan distintas todas ellas! Divertidas, sobrecogedoras, innovadoras… Desde 
+[Etheria Magazine](https://etheriamagazine.com) estamos deseando descubrirlas todas. Y 
+tú, ¿a qué estás esperando para viajar a Berlín? 
 
 ### CONSEJOS ETHERIA
 
@@ -223,7 +224,8 @@ Contratar un **tour guiado en Berlín** es una idea excelente para recorrer la c
 poco tiempo. [Cultour](http://www.cultourberlin.com/) ofrece originales recorridos 
 temáticos. 
 
-Reserva una mañana de tu viaje para visitar el escalofriante campo de concentración [Sachsenhausen](http://www.stiftung-bg.de/index.html). 
+Reserva una mañana de tu viaje para visitar el escalofriante campo de concentración 
+[Sachsenhausen](http://www.stiftung-bg.de/index.html). 
 
 Puedes tomar un tren hasta **Potsdam** —está a media hora de Berlín— para disfrutar de 
 sus palacios prusianos. 
@@ -238,11 +240,8 @@ Alemania](http://www.germany.travel/es/ciudades-turismo-cultural/ciudades/berlin
 
 ### También te puede interesar:
 
-[¿Qué hay de nuevo en Berlín este 
-2021?](https://etheriamagazine.com/2021/09/24/nuevas-visitas-berlin-cultura-2021/) 
+{{< reflink path=posts/2021/09/nuevas-visitas-berlin-cultura-2021 >}} 
 
-[10 experiencias navideñas en Alemania a través de sus 
-länder](https://etheriamagazine.com/2020/12/10/experiencias-navidenas-alemania/) 
+{{< reflink path=posts/2020/12/experiencias-navidenas-alemania >}} 
 
-[Alemania vive, saborea y disfruta de la 
-Navidad](https://etheriamagazine.com/2020/11/30/alemania-en-navidad-tradiciones-y-adviento/)
+{{< reflink path=posts/2020/11/alemania-en-navidad-tradiciones-y-adviento >}}

@@ -1,7 +1,7 @@
 ---
 title: "The Twist, el museo más original de Noruega"
 date: 2019-10-03
-coverImage: https://fotos.etheriamagazine.com/2019/10/noruega-the-twist-museo-kistefos-mujeres.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/noruega-the-twist-museo-kistefos-mujeres.jpg
 categories: 
   - cultura
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-The Twist es quizás el espacio artístico más original de Noruega. En este 
+**The Twist es quizás el espacio artístico más original de Noruega. En este 
 puente-museo-escultura el arte envuelve la construcción y se integra en su entorno. Esta 
 maravilla debe formar parte de la agenda de cualquier viajera amante del arte o la 
-arquitectura. 
+arquitectura.** 
 
 ![Esta maravilla de Noruega se llama The Twist.](https://fotos.etheriamagazine.com/2019/10/noruega-the-twist-museo-kistefos-mujeres.jpg "Esta maravilla de Noruega se llama The Twist.")
 

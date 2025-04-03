@@ -1,7 +1,7 @@
 ---
 title: "10 consejos para aprovechar una visita a Futuroscope"
 date: 2018-08-24
-coverImage: https://fotos.etheriamagazine.com/2018/08/Futuroscope-panoramica.jpg
+cover: https://fotos.etheriamagazine.com/2018/08/Futuroscope-panoramica.jpg
 categories: 
   - viajar-en-familia
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Susana García
 ---
 
-Te contamos diez claves para aprovechar mejor tu tiempo en Futuroscope, un parque que ha 
-enfocado sus atracciones a la tecnología 4D y a la realidad virtual y que las combina 
+**Te contamos diez claves para aprovechar mejor tu tiempo en Futuroscope, un parque que 
+ha enfocado sus atracciones a la tecnología 4D y a la realidad virtual y que las combina 
 con zonas de juego pensadas para los más pequeños. Una parada perfecta en Francia para 
-un viaje con niños. 
+un viaje con niños.** 
 
 ![zona de espectáculos de Futuroscope](https://fotos.etheriamagazine.com/2018/08/Futuroscope-panoramica.jpg "Anfiteatro para espectáculos y edificio de la atracción de Tomas Pesquet.")
 
@@ -114,14 +114,13 @@ pero también están los personajes de **Arthur y los Minimoys** Arthur y Selén
 ## 10\. Combina Futuroscope con otros destinos de Francia
 
 Dos días son más que suficientes para ver el parque con calma (incluso uno y medio si no 
-hay mucha gente). Merece la pena combinar este parque con una estancia en la zona de los [castillos 
-de Loira](https://etheriamagazine.com/2019/03/14/que-ver-ruta-en-coche-valle-del-loira/) 
-(Amboise se encuentra a 12o kilómetros, una hora y cuarto en coche) o de la **costa 
-atlántica francesa** ([La 
-Rochelle](https://etheriamagazine.com/2018/09/18/guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re/) 
-se encuentra a 146 kilómetros, una hora y media en coche). 
+hay mucha gente). Merece la pena combinar este parque con una estancia en la zona de los 
+{{< reflink path=posts/2019/03/que-ver-ruta-en-coche-valle-del-loira >}} (Amboise se 
+encuentra a 12o kilómetros, una hora y cuarto en coche) o de la **costa atlántica 
+francesa** ({{< reflink 
+path=posts/2018/09/guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re >}} se encuentra 
+a 146 kilómetros, una hora y media en coche). 
 
 ## ✅ Lo nuevo de Futuroscope 2023
 
-[Por qué es una buena idea viajar a Futuroscope en 
-2023](https://etheriamagazine.com/2023/03/20/novedades-futuroscope-2023/)
+{{< reflink path=posts/2023/03/novedades-futuroscope-2023 >}}

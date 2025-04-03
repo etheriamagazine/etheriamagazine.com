@@ -1,7 +1,7 @@
 ---
 title: "Leonardo da Vinci inspira el mayor festival gastronómico de Rep. Checa"
 date: 2019-01-09
-coverImage: https://fotos.etheriamagazine.com/2019/01/chequia-Tusculum-Karlovy-Vary.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/chequia-Tusculum-Karlovy-Vary.jpg
 categories: 
   - gourmet
 destino: 
@@ -46,4 +46,4 @@ Si tienes previsto viajar a Chequia, toma nota de algunas recomendaciones public
 
 [• Café Quisisana (Karlovy Vary)](https://www.quisisana-palace.com/en/restaurant/). Esta cafetería de estilo vienés y cocina moderna ofrece platos ideales para el _brunch_ o para almuerzos.
 
-Una última recomendación es continuar tu viaje por la Suiza Bohemia para conocer los [lugares más románticos de República Checa](https://etheriamagazine.com/2018/12/11/10-estampas-romanticas-de-republica-checa/).
+Una última recomendación es continuar tu viaje por la Suiza Bohemia para conocer los {{< reflink path=posts/2018/12/10-estampas-romanticas-de-republica-checa >}}.

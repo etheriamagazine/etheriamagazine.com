@@ -1,7 +1,7 @@
 ---
 title: "Festivales de Praga en otoño: diseño, arte y música"
 date: 2023-09-20
-coverImage: https://fotos.etheriamagazine.com/2023/09/praga-otono.jpg
+cover: https://fotos.etheriamagazine.com/2023/09/praga-otono.jpg
 categories: 
   - ocio
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-La capital checa tiene esa rara capacidad de sorprender sea cual sea el momento del año 
-en que se visite, pero si decides ir a Praga en otoño tendrás la suerte de conocer 
+**La capital checa tiene esa rara capacidad de sorprender sea cual sea el momento del 
+año en que se visite, pero si decides ir a Praga en otoño tendrás la suerte de conocer 
 algunos de sus festivales más sorprendentes. El diseño, la creación lumínica y la música 
-son el complemento perfecto a los románticos paseos que regala la estación. 
+son el complemento perfecto a los románticos paseos que regala la estación.** 
 
 ![Praga en otoño se viste de romanticismo.](https://fotos.etheriamagazine.com/2023/09/praga-otono.jpg "Praga en otoño se viste de romanticismo. © Etheria Magazine")
 
@@ -36,8 +36,8 @@ exposiciones artísticas o las **Fiestas de la Vendimia**, que también tienen c
 el entorno urbano, ya que a los pies del Castillo se encuentran unos famosos viñedos, 
 que según cuenta la leyenda, plantó San Wenceslao. Esta celebración suele ser a finales 
 de septiembre, este año el día 23. Además de en la [Villa 
-Richter](https://www.villarichter.cz/en/), junto al Castillo, también se festejará en el [barrio 
-de 
+Richter](https://www.villarichter.cz/en/), junto al Castillo, también se festejará en el 
+[barrio de 
 Vinohrady](https://www.visitczechia.com/es-ES/Things-to-Do/Events/2021/09/e-prague-grebovka-vintage), 
 en los Jardines de Havlíček y en la náměstí Míru. 
 
@@ -45,11 +45,11 @@ en los Jardines de Havlíček y en la náměstí Míru.
 
 ### Praga de Dvořák
 
-Un encuentro que los amantes de la música clásica no se pierden ningún año es el [festival 
-Praga de Dvořák](https://www.dvorakovapraha.cz/en/), que reúne a las orquestas e 
-intérpretes más destacados del momento y que rinden su particular homenaje al compositor 
-checo más reconocido de todos los tiempos. Aunque la obra de Antonín Dvořák es 
-prioritaria, el festival también acoge otras piezas que resultan muy atractivas para 
+Un encuentro que los amantes de la música clásica no se pierden ningún año es el 
+[festival Praga de Dvořák](https://www.dvorakovapraha.cz/en/), que reúne a las orquestas 
+e intérpretes más destacados del momento y que rinden su particular homenaje al 
+compositor checo más reconocido de todos los tiempos. Aunque la obra de Antonín Dvořák 
+es prioritaria, el festival también acoge otras piezas que resultan muy atractivas para 
 público juvenil –bajo el lema “La música clásica sabe divertir”– y para las familias. 
 Los conciertos se celebran en el Rudolfinum, la Catedral de San Vito del Castillo de 
 Praga, en la sala de conciertos del Conservatorio de Praga y en la iglesia de Santa Ana. 
@@ -61,11 +61,12 @@ Finaliza el 25 de septiembre, así que hay que darse prisa.
 
 Aunque determinados festivales y grandes eventos parecen haber sido creados para 
 perfiles muy específicos, en otros como Designblok el disfrute se puede extender incluso 
-a las personas ajenas a ese mundo. El Festival Internacional de Diseño de Praga [Designblok](https://www.designblok.cz/) 
-no sólo es la exposición de diseño y moda más importante de Europa Central sino que es 
-el punto de encuentro de perfiles muy diversos. Artistas, pequeños estudios, grandes 
-empresas, proveedores, clientes, público profesional y miles de personas curiosas son 
-bienvenidas cada año a sus espacios expositivos y a sus diversas sedes. 
+a las personas ajenas a ese mundo. El Festival Internacional de Diseño de Praga 
+[Designblok](https://www.designblok.cz/) no sólo es la exposición de diseño y moda más 
+importante de Europa Central sino que es el punto de encuentro de perfiles muy diversos. 
+Artistas, pequeños estudios, grandes empresas, proveedores, clientes, público 
+profesional y miles de personas curiosas son bienvenidas cada año a sus espacios 
+expositivos y a sus diversas sedes. 
 
 No es un evento reciente sino que esta es ya su 25ª edición. Bajo el lema “El viaje”, 
 sorprenderá a propios y extraños **del 4 al 8 de octubre** a través de un variado 
@@ -85,12 +86,14 @@ poder disfrutar durante cuatro días (**12 a 15 de octubre**) del [Signal
 Festival](https://www.signalfestival.com/). Esta es ya la undécima edición de este 
 evento que llena de fantasía distintos espacios de la capital. A través de 
 _videomapping_, instalaciones lumínicas y la creación de espacios oníricos, las 
-localizaciones escogidas en **Centro - Karlín** y **Holešovice** se vestirán de color. 
-En este festival participan profesionales nacionales e internacionales como Jan Kaláb, 
-que trabaja el color y la perspectiva, y el artista mexicano-canadiense Rafael 
-Lozano-Hemmer que ha diseñado una obra interactiva donde los propios visitantes, gracias 
-a las cámaras térmicas, serán los verdaderos creadores del resultado final de la misma. 
-El **estudio 3 dsense**, además, ha ideado una obra especial para los niños. 
+localizaciones escogidas en **Centro 
+
+- Karlín** y **Holešovice** se vestirán de color. En este festival participan 
+profesionales nacionales e internacionales como Jan Kaláb, que trabaja el color y la 
+perspectiva, y el artista mexicano-canadiense Rafael Lozano-Hemmer que ha diseñado una 
+obra interactiva donde los propios visitantes, gracias a las cámaras térmicas, serán los 
+verdaderos creadores del resultado final de la misma. El **estudio 3 dsense**, además, 
+ha ideado una obra especial para los niños. 
 
 Como novedad, en esta edición la zona de galería se amplía aún más y acogerá **7 
 instalaciones de diversos artistas y 13 obras de arte de libre** acceso que incluyen 2 
@@ -121,8 +124,7 @@ sobre el resto de grupos participantes.
 
 **Te puede interesar...** 
 
-[Qué hacer en Praga en otoño, diseño y 
-vendimia](https://etheriamagazine.com/2019/09/16/que-hacer-ver-2-dias-en-praga-museos-festivales/). 
+{{< reflink path=posts/2019/09/que-hacer-ver-2-dias-en-praga-museos-festivales >}}. 
 
-[Un viaje en familia a República Checa: Praga y Moravia del 
-Sur](https://etheriamagazine.com/2019/05/07/viaje-en-familia-moravia-del-sur-praga-republica-checa/).
+{{< reflink path=posts/2019/05/viaje-en-familia-moravia-del-sur-praga-republica-checa 
+>}}.

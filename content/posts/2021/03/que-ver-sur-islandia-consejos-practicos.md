@@ -1,7 +1,7 @@
 ---
 title: "Viaje por el sur de Islandia, la isla del desafío"
 date: 2021-03-25
-coverImage: https://fotos.etheriamagazine.com/2018/09/PLAYA-VIK-e1562343946595.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/PLAYA-VIK-e1562343946595.jpg
 destino: 
   - Europa
 authors: 
@@ -26,16 +26,17 @@ más accesible del país.
 
 ## Reykjavík, punto de partida
 
-El lugar de inicio de este viaje, que tendrá tres etapas, será [Reykjavík](https://es.visiticeland.com/descubra-islandia/regiones/Reikiavik). 
-Es una primera parada indispensable para cargar provisiones y para tomarle un primer 
-pulso a los (altísimos) precios que se barajan en este país. La respuesta de la capital 
-al creciente flujo de turistas que cada año visitan Islandia se traduce en todo un 
-bosque de grúas que auguran nuevos hoteles y espacios urbanos. Entre los cambios 
-provocados por la gran afluencia de visitantes —Islandia tiene poco más de 330.000 
-habitantes y en 2017 recibió a 1,7 millones de turistas— también se cuenta **la nueva 
-normativa que prohíbe la acampada libre en todo el país**. Era uno de los mayores 
-atractivos para los aventureros más independientes que ahora deberán conformarse con 
-plantar la tienda en las zonas habilitadas para ello. 
+El lugar de inicio de este viaje, que tendrá tres etapas, será 
+[Reykjavík](https://es.visiticeland.com/descubra-islandia/regiones/Reikiavik). Es una 
+primera parada indispensable para cargar provisiones y para tomarle un primer pulso a 
+los (altísimos) precios que se barajan en este país. La respuesta de la capital al 
+creciente flujo de turistas que cada año visitan Islandia se traduce en todo un bosque 
+de grúas que auguran nuevos hoteles y espacios urbanos. Entre los cambios provocados por 
+la gran afluencia de visitantes —Islandia tiene poco más de 330.000 habitantes y en 2017 
+recibió a 1,7 millones de turistas— también se cuenta **la nueva normativa que prohíbe 
+la acampada libre en todo el país**. Era uno de los mayores atractivos para los 
+aventureros más independientes que ahora deberán conformarse con plantar la tienda en 
+las zonas habilitadas para ello. 
 
 ![viaje Reykjavik Islandia](https://fotos.etheriamagazine.com/2018/09/Reykjavik-casas-colores-e1562343861149.jpg "Casas de colores en Reykjavík.")
 
@@ -164,15 +165,12 @@ Los inviernos son fríos y con poca luz, pero aún así el sur de la isla se pue
 y disfrutar con los paisajes nevados. En esta época es casi imposible visitar la zona 
 norte de Islandia. 
 
-• Más información en [Turismo de Islandia](http://www.visiticeland.com). 
+- Más información en [Turismo de Islandia](http://www.visiticeland.com). 
 
 ### También te puede interesar
 
-[Recorre las 3 capitales de Noruega: Trondheim, Bergen y 
-Oslo](https://etheriamagazine.com/2020/01/24/que-ver-en-noruega-trondheim-bergen-y-oslo/) 
+{{< reflink path=posts/2020/01/que-ver-en-noruega-trondheim-bergen-y-oslo >}} 
 
-[Laponia finlandesa en 
-familia](https://etheriamagazine.com/2018/09/07/viaje-laponia-finlandesa-en-familia/) 
+{{< reflink path=posts/2018/09/viaje-laponia-finlandesa-ninos-en-familia >}} 
 
-[Viajar sola a… las islas Lofoten para seguir la ruta del Rey 
-Olav](https://etheriamagazine.com/2019/11/12/viajar-sola-islas-lofoten-noruega-ruta-del-rey-olav/)
+{{< reflink path=posts/2019/11/viajar-sola-islas-lofoten-noruega-ruta-del-rey-olav >}}

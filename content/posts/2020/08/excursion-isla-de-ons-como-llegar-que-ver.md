@@ -1,7 +1,7 @@
 ---
 title: "La isla de Ons o cómo disfrutar del Caribe sin salir de España"
 date: 2020-08-06
-coverImage: https://fotos.etheriamagazine.com/2020/08/viaje-galicia-isla-ons-1.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/viaje-galicia-isla-ons-1.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -229,14 +229,15 @@ organiza actividades Starlight con opción de alojamiento en la propia Isla.
 
 **Cómo llegar a Ons** 
 
-Antes de comprar tu billete de barco o reservar alojamiento, debes solicitar la [autorización 
-de visita o estancia](https://autorizacionillasatlanticas.xunta.gal/illasr/inicio) ya 
-que se trata de un Parque Natural. Puedes pedirlo hasta 45 días antes de ir. 
+Antes de comprar tu billete de barco o reservar alojamiento, debes solicitar la 
+[autorización de visita o 
+estancia](https://autorizacionillasatlanticas.xunta.gal/illasr/inicio) ya que se trata 
+de un Parque Natural. Puedes pedirlo hasta 45 días antes de ir. 
 
 Para acceder a la isla debes hacerlo en barco, con un precio aproximado de 16 euros 
 dependiendo de la naviera. [Puedes reservar en 
-Civitatis](https://www.civitatis.com/es/portonovo/barco-isla-ons/?aid=10211) o en [Piratas 
-de Nabia](https://www.piratasdenabia.com/tour/barco-isla-de-ons/). 
+Civitatis](https://www.civitatis.com/es/portonovo/barco-isla-ons/?aid=10211) o en 
+[Piratas de Nabia](https://www.piratasdenabia.com/tour/barco-isla-de-ons/). 
 
 **Dónde dormir en Ons** 
 
@@ -266,11 +267,8 @@ aunque no son caminos de alta dificultad. Puedes ver las rutas y reservar una gu
 
 **También te puede interesar:** 
 
-[8 planes con niños en la costa de 
-Pontevedra](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/) 
+{{< reflink path=posts/2019/10/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja >}} 
 
-[Camino de Santiago por la Ría de Muros-Noia, una aventura a toda 
-vela](https://etheriamagazine.com/2021/07/14/camino-de-santiago-ria-de-muros-noia-en-velero/) 
+{{< reflink path=posts/2021/07/camino-de-santiago-ria-de-muros-noia-en-velero >}} 
 
-[A rapa das bestas, una cita en Sabucedo 
-(Pontevedra)](https://etheriamagazine.com/2019/06/24/rapa-das-bestas-sabucedo-pontevedra-galicia/)
+{{< reflink path=posts/2019/06/rapa-das-bestas-sabucedo-pontevedra-galicia >}}

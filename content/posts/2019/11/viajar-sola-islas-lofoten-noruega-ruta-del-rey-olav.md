@@ -1,7 +1,7 @@
 ---
 title: "Viajar sola a las islas Lofoten para seguir la ruta del Rey Olav"
 date: 2019-11-12
-coverImage: https://fotos.etheriamagazine.com/2019/11/viaje-mujeres-lofoten-Henninsvaer.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/viaje-mujeres-lofoten-Henninsvaer.jpg
 categories: 
   - viajar-sola
   - inspiración
@@ -11,10 +11,10 @@ authors:
   - Marina Paul
 ---
 
-A las islas Lofoten, consideradas entre las islas más bonitas del mundo, se puede viajar 
-por libre de una forma sencilla con la información adecuada. Te damos todos los datos 
-que necesitas sobre las visitas que más nos han gustado, medios de transporte para 
-moverte y consejos prácticos. Viajar sola con Etheria Magazine es cada vez más fácil. 
+**A las islas Lofoten, consideradas entre las islas más bonitas del mundo, se puede 
+viajar por libre de una forma sencilla con la información adecuada. Te damos todos los 
+datos que necesitas sobre las visitas que más nos han gustado, medios de transporte para 
+moverte y consejos prácticos. Viajar sola con Etheria Magazine es cada vez más fácil.** 
 
 ![Henninsvaer](https://fotos.etheriamagazine.com/2019/11/viaje-mujeres-lofoten-Henninsvaer.jpg "Bucólica imagen de Henninsvaer. © Marina Paul")
 
@@ -198,11 +198,8 @@ aquí.](https://lofoten.info/en/Ferry-and-expressboat/?Article=18)
 
 📍 **También te puede interesar:** 
 
-[Prepara tu viaje a Noruega: libros y películas para ante de 
-viajar](https://etheriamagazine.com/2020/08/18/prepara-tu-viaje-libros-series-de-noruega/) 
+{{< reflink path=posts/2020/08/prepara-tu-viaje-libros-series-de-noruega >}} 
 
-[9 motivos para viajar a 
-Noruega](https://etheriamagazine.com/2020/07/15/9-motivos-para-viajar-a-noruega/) 
+{{< reflink path=posts/2020/07/9-motivos-para-viajar-a-noruega >}} 
 
-[Recorre las 3 capitales de Noruega: Trondheim, Bergen y 
-Oslo](https://etheriamagazine.com/2020/01/24/que-ver-en-noruega-trondheim-bergen-y-oslo/)
+{{< reflink path=posts/2020/01/que-ver-en-noruega-trondheim-bergen-y-oslo >}}

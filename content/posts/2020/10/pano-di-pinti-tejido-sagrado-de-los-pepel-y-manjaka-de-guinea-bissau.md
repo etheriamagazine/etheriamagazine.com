@@ -1,7 +1,7 @@
 ---
 title: "Pano di pinti, el tejido sagrado de Guinea Bissau"
 date: 2020-10-15
-coverImage: https://fotos.etheriamagazine.com/2020/10/telares-etnias-guinea-bissau.jpg
+cover: https://fotos.etheriamagazine.com/2020/10/telares-etnias-guinea-bissau.jpg
 categories: 
   - compras
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Redacción Etheria
 ---
 
-Existen tejidos con funciones protectoras y que actúan como un talismán durante toda la 
-existencia. Uno de ellos es el ‘pano de pinti’, una tela sagrada de Guinea Bissau que 
-elaboran de forma artesanal las etnias Pepel y Manjaka. 
+**Existen tejidos con funciones protectoras y que actúan como un talismán durante toda 
+la existencia. Uno de ellos es el ‘pano de pinti’, una tela sagrada de Guinea Bissau que 
+elaboran de forma artesanal las etnias Pepel y Manjaka.** 
 
 ![tejido artesano de guinea bissau](https://fotos.etheriamagazine.com/2020/10/telares-etnias-guinea-bissau.jpg "Un tejido artesano con cualidades mágicas en Guinea Bissau.")
 
@@ -90,5 +90,4 @@ en la comunidad local, estarás ayudando a equilibrar este mundo que nos ha toca
 
 **Te puede interesar...** 
 
-[Orango Parque Hotel, vive una experiencia inolvidable en Guinea 
-Bissau](https://etheriamagazine.com/2021/10/14/orango-parque-hotel-una-experiencia-en-guinea-bissau/).
+{{< reflink path=posts/2021/10/orango-parque-hotel-una-experiencia-en-guinea-bissau >}}.

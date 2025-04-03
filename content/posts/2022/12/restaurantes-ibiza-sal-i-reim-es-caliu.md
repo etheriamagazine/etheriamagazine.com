@@ -1,7 +1,7 @@
 ---
 title: "Sal i Reïm y Es Caliu, más allá de una experiencia gastro en Ibiza"
 date: 2022-12-02
-coverImage: https://fotos.etheriamagazine.com/2022/12/restaurante-es-caliu-mesas.jpg
+cover: https://fotos.etheriamagazine.com/2022/12/restaurante-es-caliu-mesas.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Maria Miret
 ---
 
-La cafetería- bar de pinchos Sal i Reïm y el restaurante Es Caliu forman una gran 
+**La cafetería- bar de pinchos Sal i Reïm y el restaurante Es Caliu forman una gran 
 familia cuya máxima es "mantener Ibiza". En el segundo, la fruta y la verdura no vienen 
 del mercado sino de la huerta ecológica que hay en el jardín, el resto de productos son 
 locales o, como mucho, nacionales. Al concepto natural del establecimiento se suman la 
 decoración y el personal. El cliente vive en este lugar una experiencia más allá de la 
-comida. 
+comida.** 
 
 ![Ensalada de Sal i Reïm.](https://fotos.etheriamagazine.com/2022/12/ensalada-salmon-sal-i-rein.jpg "Ensalada del bar de tapas © Sal i Reïm.")
 
@@ -127,8 +127,6 @@ porque las gracias se las tengo que dar yo a él por la experiencia.
 
 ✅ **No te pierdas...** 
 
-[Ibiza en invierno también merece una 
-escapada.](https://etheriamagazine.com/2021/11/05/planes-viaje-a-ibiza-en-invierno/) 
+{{< reflink path=posts/2021/11/planes-viaje-a-ibiza-en-invierno >}} 
 
-[10 errores que debes evitar si vas a Ibiza con 
-amigas](https://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/).
+{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}.

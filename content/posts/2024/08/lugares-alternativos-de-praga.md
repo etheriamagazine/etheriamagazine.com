@@ -1,7 +1,7 @@
 ---
 title: "Seis lugares alternativos de Praga fuera del circuito turístico para un viaje con amigas"
 date: 2024-08-02
-coverImage: https://fotos.etheriamagazine.com/2024/08/portada-praga.jpg
+cover: https://fotos.etheriamagazine.com/2024/08/portada-praga.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -144,8 +144,6 @@ necesitáis más recomendaciones no dejéis de escribirnos.
 
 **También en Etheria Magazine** 
 
-[Cómo recorrer Chequia en coche durante una semana, qué ver y otros datos 
-prácticos](https://etheriamagazine.com/2024/05/04/organizar-chequia-en-coche-7-dias/). 
+{{< reflink path=posts/2024/05/organizar-chequia-en-coche-7-dias >}}. 
 
-[De Praga a Moravia, una ruta sorprendente en 
-Chequia](https://etheriamagazine.com/2023/08/25/ruta-chequia-de-olomouc-a-ostrava/).
+{{< reflink path=posts/2023/08/ruta-chequia-de-olomouc-a-ostrava >}}.

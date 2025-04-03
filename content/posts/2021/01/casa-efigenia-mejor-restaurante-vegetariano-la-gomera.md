@@ -1,7 +1,7 @@
 ---
 title: "Efigenia la de Las Hayas y la cocina que hechizó a Angela Merkel en La Gomera"
 date: 2021-01-06
-coverImage: https://fotos.etheriamagazine.com/2020/12/efigenia-las-hayas-la-gomera.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/efigenia-las-hayas-la-gomera.jpg
 categories: 
   - gourmet
   - mujeres-top
@@ -13,8 +13,10 @@ authors:
 
 Honestidad, tradición y serenidad son algunos de los ingredientes de la cautivadora 
 cocina de Efigenia. Hoy te llevamos a conocer a esta gran mujer y a comer en su 
-restaurante La Montaña - Casa Efigenia, que se ha convertido en el lugar favorito de 
-Angela Merkel y de otras personalidades. ¿Nos acompañas a La Gomera? 
+restaurante La Montaña 
+
+- Casa Efigenia, que se ha convertido en el lugar favorito de Angela Merkel y de otras 
+personalidades. ¿Nos acompañas a La Gomera? 
 
 ![Efigenia restaurante la montana en la gomera](https://fotos.etheriamagazine.com/2020/12/efigenia-las-hayas-la-gomera.jpg "Efigenia Borges, fundadora del © restaurante La Montaña - Casa Efigenia.")
 
@@ -132,13 +134,12 @@ mismo, dice, “_desvelaré mi edad_”. Cuando se le pregunta por el espinoso t
 
 **También te puede interesar...** 
 
-• El **complejo Efigenia Natural** cuenta con alojamiento rural, perfecto para disfrutar 
+- El **complejo Efigenia Natural** cuenta con alojamiento rural, perfecto para disfrutar 
 del parque y de sus muchos y seductores senderos. 
 
-• Más información en [www.efigenialagomera.com](https://www.efigenialagomera.com/) 
+- Más información en [www.efigenialagomera.com](https://www.efigenialagomera.com/) 
 
-[10 secretos para conocer la isla de La 
-Palma](https://etheriamagazine.com/2018/09/19/10-secretos-para-conocer-la-isla-de-la-palma/) 
+{{< reflink path=posts/2021/04/10-secretos-para-conocer-la-isla-de-la-palma >}} 
 
-[Ruta de vinos en La Geria 
-(Lanzarote)](https://etheriamagazine.com/2020/08/04/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote/).
+{{< reflink 
+path=posts/2020/08/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Inspired by her, un programa para mujeres de los hoteles MGallery by Sofitel"
 date: 2018-07-18
-coverImage: https://fotos.etheriamagazine.com/2018/07/Hoteles-MGallery-para-mujeres.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/Hoteles-MGallery-para-mujeres.jpg
 categories: 
   - hoteles
 destino: 

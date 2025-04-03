@@ -1,7 +1,7 @@
 ---
 title: "Alicia Sornosa: “Toda aventura empieza con un sí”"
 date: 2018-09-24
-coverImage: https://fotos.etheriamagazine.com/2018/09/alicia-sornosa-viajera-etheria-magazine.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/alicia-sornosa-viajera-etheria-magazine.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -128,5 +128,4 @@ las seguía un rato… ¡son plumas preciosas para hacer colgantes y pendientes!
 
 ### También te puede interesar...
 
-[Las mujeres prefieren 
-Lamborghinis](https://etheriamagazine.com/2019/04/04/modena-de-lujo-ferrari-bottura/).
+{{< reflink path=posts/2019/04/modena-de-lujo-ferrari-bottura >}}.

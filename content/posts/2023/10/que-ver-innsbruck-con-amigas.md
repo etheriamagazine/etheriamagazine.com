@@ -1,7 +1,7 @@
 ---
 title: "Innsbruck con amigas, una escapada con sello tirolés"
 date: 2023-10-18
-coverImage: https://fotos.etheriamagazine.com/2023/10/que-ver-innsbruck-Maria-Theresien-Strasse.jpg
+cover: https://fotos.etheriamagazine.com/2023/10/que-ver-innsbruck-Maria-Theresien-Strasse.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -60,8 +60,7 @@ los Alpes como telón de fondo. Fíjate en las cúpulas verdes que despuntan en 
 _skyline._ Son las del **Hofburg**, el suntuoso Palacio Imperial que cobija entre sus 
 muros las estancias de la emperatriz Elisabeth, más conocida como "Sisi". 
 
-**No te pierdas:** [Así es la verdadera historia de Sisi, y no es de 
-cuento](https://etheriamagazine.com/2022/09/07/museo-sisi-de-viena/). 
+**No te pierdas:** {{< reflink path=posts/2022/09/museo-sisi-de-viena >}}. 
 
 ![Uno de los salones barrocos más bellos de Austria está en el Palacio Imperial](https://fotos.etheriamagazine.com/2023/10/que-ver-innsbruck-Hofburg.jpg "Uno de los salones barrocos más bellos de Austria está en el Palacio Imperial.")
 
@@ -232,8 +231,6 @@ que hace que hidratarte sea un auténtico placer.
 
 **También en Etheria Magazine** 
 
-1.[Burgenland, el estado más desconocido y soleado de 
-Austria](https://etheriamagazine.com/2022/08/01/que-ver-burgenland-austria/). 
+1.{{< reflink path=posts/2022/08/que-ver-burgenland-austria >}}. 
 
-2\. [Planes en Viena con amigas para vuestro uso y 
-disfrute](https://etheriamagazine.com/2022/07/07/que-hacer-en-viena-con-amigas/)
+2\. {{< reflink path=posts/2022/07/que-hacer-en-viena-con-amigas >}}

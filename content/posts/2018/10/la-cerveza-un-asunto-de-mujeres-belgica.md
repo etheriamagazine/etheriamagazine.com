@@ -1,7 +1,7 @@
 ---
 title: "Descubre en Bélgica por qué la cerveza es un asunto de mujeres"
 date: 2018-10-02
-coverImage: https://fotos.etheriamagazine.com/2018/09/Cerveza-te-quiero.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/Cerveza-te-quiero.jpg
 categories: 
   - viajar-con-amigas
   - historias
@@ -11,11 +11,11 @@ authors:
   - Pedro Grifol
 ---
 
-¿La cerveza es cosa de hombres?... Pues parece ser que las ‘inventoras’ fueron mujeres. 
-Probablemente fueron ellas, las mujeres de Babilonia, las que primero observaron cómo el 
-pan fermentaba en la quietud del agua, y que si se llevaba a ebullición se convertía en 
-un líquido amarillento, fácil de beber y que daba alegría. Descubre por qué la cerveza 
-es un asunto de mujeres en Bélgica. 
+**¿La cerveza es cosa de hombres?... Pues parece ser que las ‘inventoras’ fueron 
+mujeres. Probablemente fueron ellas, las mujeres de Babilonia, las que primero 
+observaron cómo el pan fermentaba en la quietud del agua, y que si se llevaba a 
+ebullición se convertía en un líquido amarillento, fácil de beber y que daba alegría. 
+Descubre por qué la cerveza es un asunto de mujeres en Bélgica.** 
 
 ![mujer besando un vaso de cerveza](https://fotos.etheriamagazine.com/2018/09/Cerveza-te-quiero.jpg "La cerveza es una bebida de mujeres.")
 
@@ -112,11 +112,8 @@ Flandes](http://www.visitflanders.com/es/).
 
 **📌** **También te puede interesar:** 
 
-[8 planes que no puedes perderte en Bruselas y 
-Flandes](https://etheriamagazine.com/2021/03/12/que-ver-hacer-otros-planes-en-bruselas-y-flandes/) 
+{{< reflink path=posts/2021/03/que-ver-hacer-otros-planes-en-bruselas-y-flandes >}} 
 
-[10 paradas en una ruta por el Barrio Europeo de 
-Bruselas](https://etheriamagazine.com/2022/09/29/que-ver-barrio-europeo-bruselas/) 
+{{< reflink path=posts/2022/09/que-ver-barrio-europeo-bruselas >}} 
 
-[Museos en Flandes para visitar con 
-niños](https://etheriamagazine.com/2022/11/21/flandes-en-familia-museos/)
+{{< reflink path=posts/2022/11/flandes-en-familia-museos >}}

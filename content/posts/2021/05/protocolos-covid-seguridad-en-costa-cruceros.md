@@ -1,7 +1,7 @@
 ---
 title: "¿Es seguro viajar en crucero? Conoce los protocolos de Costa Cruceros"
 date: 2021-05-28
-coverImage: https://fotos.etheriamagazine.com/2021/05/costa-smeralda-costa-cruceros.jpg
+cover: https://fotos.etheriamagazine.com/2021/05/costa-smeralda-costa-cruceros.jpg
 destino: 
   - España
 authors: 
@@ -204,14 +204,10 @@ Cruceros](https://www.costacruceros.es/).
 
 ### Sigue leyendo sobre cruceros...
 
-[Descubre la Patagonia navegando hacia el Estrecho de 
-Magallanes](https://etheriamagazine.com/2020/03/17/viaje-mujeres-crucero-patagonia-chilena-magallanes/). 
+{{< reflink path=posts/2020/03/viaje-mujeres-crucero-patagonia-chilena-magallanes >}}. 
 
-[Crucero por el Mekong. Vietnam y Camboya a través del río de la 
-vida](https://etheriamagazine.com/2019/09/13/crucero-por-el-mekong-excursiones-vietnam-y-camboya/). 
+{{< reflink path=posts/2019/09/crucero-por-el-mekong-excursiones-vietnam-y-camboya >}}. 
 
-[Tips imprescindibles para organizar tu primer viaje en 
-crucero](https://etheriamagazine.com/2021/02/25/como-organizar-viaje-en-crucero-puertos-excursiones/). 
+{{< reflink path=posts/2021/02/como-organizar-viaje-en-crucero-puertos-excursiones >}}. 
 
-[Recorre Andalucía a bordo de un crucero por el 
-Guadalquivir](https://etheriamagazine.com/2020/07/03/crucero-fluvial-por-el-guadalquivir-andalucia/).
+{{< reflink path=posts/2020/07/crucero-fluvial-por-el-guadalquivir-andalucia >}}.

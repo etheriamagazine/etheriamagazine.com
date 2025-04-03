@@ -1,18 +1,18 @@
 ---
 title: "Año Nuevo chino en Madrid 2023"
 date: 2023-01-16
-coverImage: https://fotos.etheriamagazine.com/2023/01/ano-nuevo-cine-baile-Hanfu.jpg
+cover: https://fotos.etheriamagazine.com/2023/01/ano-nuevo-cine-baile-Hanfu.jpg
 destino: 
   - España
 authors: 
   - Redacción Etheria
 ---
 
-Con casi cuarenta actividades, el Año Nuevo chino vuelve a celebrarse en Madrid con un 
+**Con casi cuarenta actividades, el Año Nuevo chino vuelve a celebrarse en Madrid con un 
 gran entusiasmo y un abanico temático más amplio que nunca. Al pasacalle y festival de 
 la luz habituales de Usera, se suman este 2023 más exposiciones, talleres, mesas 
 redondas, un juego de escape y un mercado de primavera. ¿Estás preparada para festejar 
-la llegada del Año del Conejo? 
+la llegada del Año del Conejo?** 
 
 ![Festival de la Luz, uno de los eventos para la celebración del Año Nuevo Chino en Madrid.](https://fotos.etheriamagazine.com/2023/01/usera-festival-luz.jpg "Festival de la Luz, uno de los eventos más animados del Año Nuevo Chino en Madrid.")
 
@@ -187,10 +187,9 @@ conocer los atractivos de este barrio y, de paso, también la variada gastronom�
 concentran en sus calles. 
 
 ✅ En este artículo encontrarás las visitas imprescindibles de Usera y los restaurantes 
-que le han dado fama: [Ruta turístico-gastronómica por el Chinatown madrileño, del arte 
-al 
-plato](https://etheriamagazine.com/2022/02/11/ruta-turistica-usera-chinatown-madrileno/). 
-Como aperitivo te recomendamos tres que son idóneos para distintos tipos de comensales: 
+que le han dado fama: {{< reflink 
+path=posts/2022/02/ruta-turistica-usera-chinatown-madrileno >}}. Como aperitivo te 
+recomendamos tres que son idóneos para distintos tipos de comensales: 
 
 ### Hong Kong 70 in Chinatown
 
@@ -215,14 +214,13 @@ verdura, carne, marisco para cocinarlo dentro del caldo. Es una fórmula diverti
 ir con adolescentes, con niños demasiado pequeños no lo recomendamos. Calle del Olvido, 
 46. 
 
-Consulta toda la programación completa en [www.madridchino.com](http://www.madridchino.com/) 
+Consulta toda la programación completa en 
+[www.madridchino.com](http://www.madridchino.com/) 
 
 \*Fotos cedidas por Turismo de Madrid. 
 
 **También te puede interesar...**[](http://www.madridchino.com/) 
 
-[Planes divertidos con adolescentes en 
-Madrid](https://etheriamagazine.com/2022/12/16/planes-adolescentes-madrid/) 
+{{< reflink path=posts/2022/12/planes-adolescentes-madrid >}} 
 
-[10 tabernas históricas de Madrid donde tomar el 
-vermú](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/).
+{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}}.

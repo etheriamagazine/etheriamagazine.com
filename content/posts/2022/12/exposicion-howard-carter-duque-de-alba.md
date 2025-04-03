@@ -1,19 +1,19 @@
 ---
 title: "¿Qué tienen en común Howard Carter, el duque de Alba y Javier Sierra?"
 date: 2022-12-22
-coverImage: https://fotos.etheriamagazine.com/2022/12/exposicion-tutankmon-liria-cartel.jpg
+cover: https://fotos.etheriamagazine.com/2022/12/exposicion-tutankmon-liria-cartel.jpg
 destino: 
   - España
 authors: 
   - Redacción Etheria
 ---
 
-La historia está llena de matices que muchas veces no nos llegan al centrarse su 
+**La historia está llena de matices que muchas veces no nos llegan al centrarse su 
 transmisión sólo en los grandes acontecimientos. Con este artículo os acercamos un hecho 
 histórico muy conocido: el descubrimiento de la tumba de Tutankhamon. Lo presentamos 
 desde un punto de vista diferente y a través de dos vías que lo harán muy entretenido: 
 una audioserie de Javier Sierra y una exposición con el duque de Alba como protagonista. 
-Y ya veréis cómo estas tres personas tienen mucho más en común de lo que pensáis. 
+Y ya veréis cómo estas tres personas tienen mucho más en común de lo que pensáis.** 
 
 ![duque de Alba en Egipto y conferencia en madrid sobre tutankamon en 1924](https://fotos.etheriamagazine.com/2022/12/Duque-alba-egipto-conferencia.jpg "El XVII Duque de Alba con su hija Cayetana en Egipto y Conferencia de Howard Carter en la Residencia de Estudiantes. © Fundación Casa de Alba.")
 
@@ -101,5 +101,5 @@ disponible en la plataforma Podimo (podimo.com)
 
 **También te puede interesar:** 
 
-[Prepara tu viaje a Egipto con libros y 
-películas](https://etheriamagazine.com/2021/03/01/organizar-viaje-a-egipto-y-documentar-con-libros-peliculas/)
+{{< reflink 
+path=posts/2021/03/organizar-viaje-a-egipto-y-documentar-con-libros-peliculas >}}

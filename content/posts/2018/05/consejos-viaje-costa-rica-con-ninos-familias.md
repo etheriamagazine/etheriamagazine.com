@@ -1,7 +1,7 @@
 ---
 title: "Consejos para un viaje a Costa Rica con niños"
 date: 2018-05-04
-coverImage: https://fotos.etheriamagazine.com/2018/05/Costa-Rica-recogiendo-cafe-e1551613563281.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Costa-Rica-recogiendo-cafe-e1551613563281.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -11,10 +11,10 @@ authors:
   - Susana García
 ---
 
-Antes de realizar un viaje a Costa Rica con niños hay que tener en cuenta una serie de 
+**Antes de realizar un viaje a Costa Rica con niños hay que tener en cuenta una serie de 
 factores que, si los conocemos de antemano, nos ayudarán en la planificación del 
 itinerario. En cualquier caso, este país es un destino fácil y lo único que no puedes 
-olvidarte son las ganas de disfrutar. 
+olvidarte son las ganas de disfrutar.** 
 
 ![Niño cogiendo café en Costa Rica](https://fotos.etheriamagazine.com/2018/05/Costa-Rica-paisaje.jpg "Mirador en el camino de San José a Guanacaste. © SG")
 
@@ -104,11 +104,8 @@ ATS por si hay rasguños o caídas.
 
 📌 **También te puede interesar:** 
 
-[Descubre la esencia de la Península de Nicoya, tierra de artesanas, surf y 
-yoga.](https://etheriamagazine.com/2022/07/15/que-ver-peninsula-nicoya-costa-rica/). 
+{{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}}. 
 
-[Viaje con niños a Costa Rica: aventura en la 
-naturaleza](https://etheriamagazine.com/2018/07/05/viaje-costa-rica-con-ninos-que-hacer-en-familia/) 
+{{< reflink path=posts/2021/04/viaje-costa-rica-con-ninos-que-hacer-en-familia >}} 
 
-[Valle Central de Costa Rica: 3 mujeres y 10 paradas 
-imprescindibles](https://etheriamagazine.com/2022/09/16/valle-central-caribe-costa-rica/)
+{{< reflink path=posts/2022/09/valle-central-caribe-costa-rica >}}

@@ -1,7 +1,7 @@
 ---
 title: "Visita rápida al Museo Thyssen-Bornemisza: 15 obras fundamentales"
 date: 2022-10-14
-coverImage: https://fotos.etheriamagazine.com/2022/10/thyssen-habitacion-hotel.jpg
+cover: https://fotos.etheriamagazine.com/2022/10/thyssen-habitacion-hotel.jpg
 categories: 
   - cultura
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-El Museo Thyssen-Bornemisza de Madrid posee una de las colecciones de arte más 
+**El Museo Thyssen-Bornemisza de Madrid posee una de las colecciones de arte más 
 increíbles del mundo. Como no siempre se tiene el tiempo que se desea para visitar un 
 museo, te proponemos una visita rápida deteniéndote en 15 de sus obras más importantes, 
-todas fundamentales para la Historia del Arte. 
+todas fundamentales para la Historia del Arte.** 
 
 ![entrada al Museo Thyssen de Madrid](https://fotos.etheriamagazine.com/2022/10/fachada-museo-thyssen.jpg "Fachada del Museo Thyssen-Bornemisza. © Pablo Casares")
 
@@ -312,8 +312,6 @@ En la web del [Museo Thyssen-Bornemisza](https://www.museothyssen.org/).
 
 📍 **También te puede interesar:** 
 
-[10 apps de museos que deberías 
-descargarte](https://etheriamagazine.com/2019/01/05/10-apps-de-museos-espanoles/) 
+{{< reflink path=posts/2019/01/10-apps-de-museos-espanoles >}} 
 
-[9 exposiciones en Madrid para este otoño: te van a apetecer 
-todas](https://etheriamagazine.com/2022/09/09/exposiciones-madrid-otono-2022/)
+{{< reflink path=posts/2022/09/exposiciones-madrid-otono-2022 >}}

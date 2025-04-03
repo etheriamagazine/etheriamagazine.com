@@ -1,7 +1,7 @@
 ---
 title: "Por qué merece la pena viajar en El Transcantábrico"
 date: 2024-04-16
-coverImage: https://fotos.etheriamagazine.com/2024/04/vagon-panoramico-transcantabrico.jpg
+cover: https://fotos.etheriamagazine.com/2024/04/vagon-panoramico-transcantabrico.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -33,11 +33,11 @@ ferroviario nacional, hizo una fuerte apuesta por recrear el atractivo ambiente 
 trenes de la _Belle Époque_. FEVE, la compañía de ferrocarriles de vía estrecha, fue la 
 encargada de gestionarlo hasta 2013, cuando se integró en Renfe. Una curiosidad de este 
 tren es que su nombre, **El Transcantábrico**, viene de la obra homónima de Juan Pedro 
-Aparicio, un escritor leonés que relataba [un viaje del 
-Hullero](https://etheriamagazine.com/2018/06/01/viajes-en-tren-espana-con-renfe-el-expreso-de-la-robla/), 
-el antiguo tren de pasajeros que circulaba diariamente entre León y Bilbao por la 
-histórica línea de La Robla. Un trayecto creado para transportar carbón de las cuencas 
-leonesas y palentinas hasta las factorías siderúrgicas de Bilbao. 
+Aparicio, un escritor leonés que relataba {{< reflink 
+path=posts/2018/06/viajes-en-tren-espana-con-renfe-el-expreso-de-la-robla >}}, el 
+antiguo tren de pasajeros que circulaba diariamente entre León y Bilbao por la histórica 
+línea de La Robla. Un trayecto creado para transportar carbón de las cuencas leonesas y 
+palentinas hasta las factorías siderúrgicas de Bilbao. 
 
 ![Panorámica de El Transcantábrico Gran Lujo a su paso por la ría de Navia.](https://fotos.etheriamagazine.com/2024/04/Tren-Transcantabrico-GL.jpg "Panorámica de El Transcantábrico Gran Lujo a su paso por la ría de Navia. © Renfe")
 
@@ -51,13 +51,14 @@ y se convirtieron en habitaciones climatizadas, pero manteniendo la imagen de tr
 clásico. Debido a la gran demanda, se construyó un segundo tren con la misma marca y se 
 puso en marcha en el año 2000. Ambos circularon con la denominación comercial de **El 
 Transcantabrico I** (ruta de San Sebastián a Santiago y viceversa) y **El 
-Transcantabrico II** (León – Bilbao – Ferrol - Santiago y viceversa). Una década después 
-se volvió a plantear un cambio y una nueva apuesta: transformar el primero de ellos en 
-**El Transcantábrico Gran Lujo**. El segundo se mantendría con la denominación de El 
-Transcantábrico Clásico (León- Santiago y viceversa). Ambos continuaron con sus 
-propuestas hasta 2022, cuando Renfe decidió mantener como marca exclusiva El 
-Transcantábrico Gran Lujo y convertir El Transcantábrico Clásico en el **Costa Verde 
-Express**. 
+Transcantabrico II** (León – Bilbao – Ferrol 
+
+- Santiago y viceversa). Una década después se volvió a plantear un cambio y una nueva 
+apuesta: transformar el primero de ellos en **El Transcantábrico Gran Lujo**. El segundo 
+se mantendría con la denominación de El Transcantábrico Clásico (León- Santiago y 
+viceversa). Ambos continuaron con sus propuestas hasta 2022, cuando Renfe decidió 
+mantener como marca exclusiva El Transcantábrico Gran Lujo y convertir El 
+Transcantábrico Clásico en el **Costa Verde Express**. 
 
 Por si os lo estáis preguntando, la principal diferencia entre ambos trenes radicaba en 
 la composición, amplitud y decoración, mientras el Clásico tenía 27 habitaciones, el 

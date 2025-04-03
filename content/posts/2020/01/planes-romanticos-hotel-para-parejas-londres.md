@@ -1,7 +1,7 @@
 ---
 title: "Escapada para dos a Londres: ocho planes fuera de lo común"
 date: 2020-01-09
-coverImage: https://fotos.etheriamagazine.com/2019/12/londres-tate-modern.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/londres-tate-modern.jpg
 categories: 
   - viajar-en-pareja
   - inspiración
@@ -150,10 +150,10 @@ azúcar, por una libra más, y estaría listo para el coma diabético.
 
 Dormir en un hotel excepcional es una parte básica de una escapada romántica y sabemos 
 que en Londres la elección se vuelve difícil con tanta oferta. ¿Qué tal una antigua 
-estación de bomberos reconvertida en una especie de vivienda particular? Se trata de [Chiltern 
-Firehouse](http://www.chilternfirehouse.com/hotel/luxury-hotel-london), un suntuoso 
-hotel de tan solo 26 habitaciones en el que cada huésped es atendido por su propio 
-conserje personal. 
+estación de bomberos reconvertida en una especie de vivienda particular? Se trata de 
+[Chiltern Firehouse](http://www.chilternfirehouse.com/hotel/luxury-hotel-london), un 
+suntuoso hotel de tan solo 26 habitaciones en el que cada huésped es atendido por su 
+propio conserje personal. 
 
 ![entrada hotel Chiltern Firehouse](https://fotos.etheriamagazine.com/2020/01/Londres-hotel-Chiltern-firehouse.jpg "Hotel © Chiltern Firehouse.")
 
@@ -165,8 +165,8 @@ privada más que en un hotel.
 
 ### También te puede interesar:
 
-[Compras en Londres, sus tiendas y barrios más 
-auténticos](https://etheriamagazine.com/2020/05/06/compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone/) 
+{{< reflink 
+path=posts/2020/05/compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone 
+>}} 
 
-[Un viaje a Londres en diez películas 
-inolvidables](https://etheriamagazine.com/2020/12/11/diez-peliculas-rodadas-en-londres/)
+{{< reflink path=posts/2020/12/diez-peliculas-rodadas-en-londres >}}

@@ -1,7 +1,7 @@
 ---
 title: "20 consejos para viajar como una jefaza: empoderada y dueña de tus aventuras"
 date: 2024-10-07
-coverImage: https://fotos.etheriamagazine.com/2024/10/mujer-empoderada.jpg
+cover: https://fotos.etheriamagazine.com/2024/10/mujer-empoderada.jpg
 categories: 
   - historias
   - mujeres-top
@@ -176,8 +176,6 @@ una jefaza!
 
 **También en Etheria Magazine** 
 
-[Viajar sola, destinos donde es seguro hacer una 
-escapada](https://etheriamagazine.com/2020/08/12/viaja-sola-paises-mas-seguros-para-mujeres/). 
+{{< reflink path=posts/2020/08/viaja-sola-paises-mas-seguros-para-mujeres >}}. 
 
-[10 ventajas de viajar sola que te interesa 
-conocer](https://etheriamagazine.com/2019/01/29/10-ventajas-de-viajar-sola/).
+{{< reflink path=posts/2019/01/10-ventajas-de-viajar-sola >}}.

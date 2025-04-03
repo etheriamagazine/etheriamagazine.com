@@ -1,7 +1,7 @@
 ---
 title: "Hotel SO/ Sotogrande, nuevo referente del turismo de lujo en Cádiz"
 date: 2021-09-27
-coverImage: https://fotos.etheriamagazine.com/2021/09/so-sotogrande-piscina.jpg
+cover: https://fotos.etheriamagazine.com/2021/09/so-sotogrande-piscina.jpg
 categories: 
   - hoteles
 destino: 
@@ -154,11 +154,10 @@ Fotografías cedidas por AccorHotels.
 
 ### También te puede interesar:
 
-[Cádiz, tras las huellas de su legado 
-andalusí](https://etheriamagazine.com/2019/05/20/viajar-con-amigas-que-hacer-en-cadiz/) 
+{{< reflink path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}} 
 
-[Ruta en coche por 12 preciosos pueblos blancos de 
-Cádiz](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/) 
+{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}} 
 
-[Planes para exprimir un fin de semana en Marbella con 
-amigas](https://etheriamagazine.com/2019/06/11/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana/)
+{{< reflink 
+path=posts/2019/06/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana 
+>}}

@@ -1,7 +1,7 @@
 ---
 title: "8 excursiones con niños desde el sur de Tenerife"
 date: 2020-03-06
-coverImage: https://fotos.etheriamagazine.com/2020/02/Tenerife-canadas-Teide.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/Tenerife-canadas-Teide.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -36,12 +36,14 @@ parecen de otro mundo.
 ![viajes a Canarias, viajes familiares a Tenerife, rutas desde el sur de Tenerife](https://fotos.etheriamagazine.com/2020/02/Tenerife-Teide-teleferico.jpg "Teleférico que te lleva a lo alto del Teide.")
 
 Si quieres subir caminando hasta la cima (en realidad 200 metros por debajo de los 3.718 
-metros que tiene el Teide) tendrás que pedir un permiso gratuito en [www.reservasparquesnacionales.es](https://www.reservasparquesnacionales.es/real/ParquesNac/usu/html/detalle-actividad-oapn.aspx?cen=2&act=1). 
+metros que tiene el Teide) tendrás que pedir un permiso gratuito en 
+[www.reservasparquesnacionales.es](https://www.reservasparquesnacionales.es/real/ParquesNac/usu/html/detalle-actividad-oapn.aspx?cen=2&act=1). 
 Hay que planificarlo con al menos dos meses de antelación, hay pocas plazas y están muy 
 demandadas. Si no tienes las entradas no te preocupes. Un paseo por las Cañadas del 
 Teide es suficiente motivo para realizar esta excursión, en la que podrás visitar 
 lugares como el conocido como Dedo de Dios en los Roques de García, eso sí ¡no olvides 
-la protección solar! La subida en [teleférico](https://www.civitatis.com/es/tenerife/entrada-teleferico-teide/?aid=10211) 
+la protección solar! La subida en 
+[teleférico](https://www.civitatis.com/es/tenerife/entrada-teleferico-teide/?aid=10211) 
 sale desde 39,50 € los adultos y 18,50 € los niños. No pueden subir niños menores de 3 
 años y no está recomendado para embarazadas. 
 
@@ -94,7 +96,8 @@ de un picnic a bordo y de hacer esnórquel.
 
 Los acantilados de los Gigantes conforman uno de los paisajes más impactantes de 
 Tenerife, con sus seiscientos metros de pared cortada sobre un mar increíblemente azul. 
-Se pueden contemplar desde el mar (con [excursiones](https://www.civitatis.com/es/tenerife/excursion-masca-gigantes/?aid=10211) 
+Se pueden contemplar desde el mar (con 
+[excursiones](https://www.civitatis.com/es/tenerife/excursion-masca-gigantes/?aid=10211) 
 desde Puerto Colón, en Adeje, o desde el Parque del Teno, en la costa occidental) o 
 desde los miradores, como el de Alcalá o el de Cherfe. Esta zona es perfecta, además, 
 para el avistamiento de cetáceos. 
@@ -153,7 +156,8 @@ que también disfrutarán mucho los mayores.
 Si quieres tener unas buenas vistas, acércate al **Parque Rural de Anaga** que cuenta 
 con bonitos miradores y donde se pueden realizar [rutas de 
 senderismo](https://www.civitatis.com/es/tenerife/senderismo-parque-rural-anaga/?aid=10211). 
-De vuelta al sur por la TF-1, merece la pena parar en [Candelaria](https://www.civitatis.com/es/tenerife/visita-guiada-candelaria/?aid=10211), 
+De vuelta al sur por la TF-1, merece la pena parar en 
+[Candelaria](https://www.civitatis.com/es/tenerife/visita-guiada-candelaria/?aid=10211), 
 con su basílica dedicada a esta virgen (patrona de Canarias) y sus inmensas estatuas de 
 los guanches, que dejarán a los más pequeños boquiabiertos. 
 
@@ -172,11 +176,9 @@ sur de la isla.
 
 ### También te puede interesar:
 
-[Descubre la dulzura de La Orotava 
-(Tenerife)](https://etheriamagazine.com/2020/06/20/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava/) 
+{{< reflink path=posts/2020/06/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava 
+>}} 
 
-[Una cita en… Tenerife para ver los tajinastes en 
-flor](https://etheriamagazine.com/2019/05/14/que-ver-tenerife-donde-cuando-tajinaste-en-flor/) 
+{{< reflink path=posts/2019/05/que-ver-tenerife-donde-cuando-tajinaste-en-flor >}} 
 
-[Hotel Bahía del Duque, desconexión en 
-Tenerife](https://etheriamagazine.com/2019/01/11/donde-dormir-tenerife-hotel-bahia-del-duque/)
+{{< reflink path=posts/2019/01/donde-dormir-tenerife-hotel-bahia-del-duque >}}

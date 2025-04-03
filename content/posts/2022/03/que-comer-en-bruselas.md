@@ -1,7 +1,7 @@
 ---
 title: "Qué comer en Bruselas, productos y experiencias originales"
 date: 2022-03-29
-coverImage: https://fotos.etheriamagazine.com/2022/03/cerveza-bruselas.jpg
+cover: https://fotos.etheriamagazine.com/2022/03/cerveza-bruselas.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -93,9 +93,8 @@ por la Unesco? La mejor manera de averiguar qué tiene de especial para que haya
 protegida es, en primer lugar, visitar alguna factoría para observar su destilación en 
 alambiques tradicionales, y después recorrer algunas cervecerías centenarias de Bruselas 
 o asistir a festivales dedicados a esta bebida. Como ya comentamos en un artículo 
-previo, [la cerveza en Bélgica también es cosa de 
-mujeres](https://etheriamagazine.com/2018/10/02/la-cerveza-un-asunto-de-mujeres-belgica/) 
-(en el anterior enlace puedes ver por qué). 
+previo, {{< reflink path=posts/2018/10/la-cerveza-un-asunto-de-mujeres-belgica >}} (en 
+el anterior enlace puedes ver por qué). 
 
 Algunas visitas relacionadas con la cerveza que te pueden interesar son el **Museo de 
 Schaerbeek** y la fábrica de cervezas más antigua de Bruselas, la [Brasserie 
@@ -164,8 +163,9 @@ frente del restaurante [Comme chez soi](https://www.commechezsoi.be/); Karen Tor
 del [Bozar Restaurant](https://www.bozar.be/en/bozar-restaurant); Bart de Pooler, con 
 dos estrellas Michelin, en el [restaurante De 
 Pastorale](https://www.relaischateaux.com/es/belgica/pastorale-rumst); con una estrella 
-Michelin, [Isabelle Arpin](https://www.isabellearpin.com/); y Damien Bouchery, de [Bouchéry](https://www.bouchery-restaurant.be/). 
-Tram Experience para 2 personas, con 6 platos, desde 210 €. 
+Michelin, [Isabelle Arpin](https://www.isabellearpin.com/); y Damien Bouchery, de 
+[Bouchéry](https://www.bouchery-restaurant.be/). Tram Experience para 2 personas, con 6 
+platos, desde 210 €. 
 
 Si en lugar de comer en movimiento prefieres una experiencia tradicional, no dudes en 
 acudir a los excelentes establecimientos mencionados o a cualquiera de los 16 que 
@@ -177,11 +177,8 @@ Más información en Visit Brussels.
 
 ### Sigue viajando por Bélgica
 
-[8 planes que no puedes perderte en Bruselas y 
-Flandes](https://etheriamagazine.com/2021/03/12/que-ver-hacer-otros-planes-en-bruselas-y-flandes/). 
+{{< reflink path=posts/2021/03/que-ver-hacer-otros-planes-en-bruselas-y-flandes >}}. 
 
-[Así son las mujeres de Brujas (y no, no son 
-brujas)](https://etheriamagazine.com/2019/07/03/viaje-amigas-mujeres-de-brujas-flandes-belgica/). 
+{{< reflink path=posts/2019/07/viaje-amigas-mujeres-de-brujas-flandes-belgica >}}. 
 
-[Arte en Amberes. Si las mujeres 
-pintaran…](https://etheriamagazine.com/2018/07/05/arte-en-amberes-si-las-mujeres-pintaran/)
+{{< reflink path=posts/2018/07/arte-en-amberes-si-las-mujeres-pintaran >}}

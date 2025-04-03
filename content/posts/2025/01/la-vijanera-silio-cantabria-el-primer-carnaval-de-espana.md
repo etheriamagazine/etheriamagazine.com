@@ -1,7 +1,7 @@
 ---
 title: "La Vijanera de Silió,  la primera mascarada de Europa"
 date: 2025-01-01
-coverImage: https://fotos.etheriamagazine.com/2019/12/carnaval-vijanera-silio-cantabria-2.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/carnaval-vijanera-silio-cantabria-2.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -181,11 +181,9 @@ Asociación Cultural Amigos de La Vijanera (www.vijanera.com).
 
 **También en Cantabria**: 
 
-[Guía esencial de Cantabria, visitas que no puedes 
-perderte](https://etheriamagazine.com/2022/09/05/que-ver-en-cantabria/). 
+{{< reflink path=posts/2022/09/que-ver-en-cantabria >}}. 
 
-[Valle de Valdeolea, 9 rituales para descubrir la esencia del sur de 
-Cantabria](https://etheriamagazine.com/2021/06/04/que-ver-en-valle-de-valdeolea-cantabria/). 
+{{< reflink path=posts/2021/06/que-ver-en-valle-de-valdeolea-cantabria >}}. 
 
-[Lugares sorprendentes de Cantabria que aún no 
-conoces](https://etheriamagazine.com/2020/06/05/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original/).
+{{< reflink 
+path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}}.

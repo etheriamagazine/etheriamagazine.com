@@ -1,7 +1,7 @@
 ---
 title: "El Camino de Santiago Francés de Galicia: 15 pueblos y mil paisajes"
 date: 2024-10-18
-coverImage: https://fotos.etheriamagazine.com/2024/10/peregrino-pedrafita.jpg
+cover: https://fotos.etheriamagazine.com/2024/10/peregrino-pedrafita.jpg
 categories: 
   - ocio
 destino: 
@@ -79,15 +79,13 @@ flanquea el Camino. Toca los troncos rugosos de los árboles, los bancos de las 
 y los cercados de madera que separan las vacas de tu paso, y siente cómo el tacto te 
 ayuda a regresar al mundo real... 
 
-Para preparar tu viaje no dejes de consultar la web [www.caminofrances.org](http://www.caminofrances.org) 
+Para preparar tu viaje no dejes de consultar la web 
+[www.caminofrances.org](http://www.caminofrances.org) 
 
 **También en Etheria Magazine** 
 
-[Cinco películas del Camino de Santiago que no puedes perderte en este Año 
-Jubilar](https://etheriamagazine.com/2021/03/04/5-peliculas-del-camino-de-santiago/). 
+{{< reflink path=posts/2021/03/5-peliculas-del-camino-de-santiago >}}. 
 
-[Camino de Santiago en La Rioja, un viaje que deja buen sabor de 
-boca](https://etheriamagazine.com/2019/05/01/etapas-que-ver-camino-de-santiago-en-la-rioja/). 
+{{< reflink path=posts/2019/05/etapas-que-ver-camino-de-santiago-en-la-rioja >}}. 
 
-[Camino de Santiago por la Ría de Muros-Noia, una aventura a toda 
-vela](https://etheriamagazine.com/2021/07/14/camino-de-santiago-ria-de-muros-noia-en-velero/).
+{{< reflink path=posts/2021/07/camino-de-santiago-ria-de-muros-noia-en-velero >}}.

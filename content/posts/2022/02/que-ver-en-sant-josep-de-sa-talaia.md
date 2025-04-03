@@ -1,7 +1,7 @@
 ---
 title: "Sant Josep de sa Talaia, diez razones para visitar este rincón ibicenco"
 date: 2022-02-18
-coverImage: https://fotos.etheriamagazine.com/2022/02/Platges-de-Comte.jpg
+cover: https://fotos.etheriamagazine.com/2022/02/Platges-de-Comte.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -78,28 +78,28 @@ Dicen que las playas más espectaculares de Ibiza están en Sant Josep de sa Tal
 sería de extrañar porque, además, son muy variadas e ideales para todo tipo de público. 
 Toma nota de algunas de ellas: 
 
-**• Port des Torrent**. Es una de las playas más amplias y resguardadas de Sant Josep de 
+**- Port des Torrent**. Es una de las playas más amplias y resguardadas de Sant Josep de 
 sa Talaia, lo que la hace de las más seguras y agradables para el baño. Suele estar muy 
 concurrida. 
 
-**• Cala d’Hort**. Cuenta con uno de los mejores miradores a los islotes des Vedrà y es 
+**- Cala d’Hort**. Cuenta con uno de los mejores miradores a los islotes des Vedrà y es 
 Vedranell. Es el espacio ideal para un baño. 
 
 ![Playa de sa Caleta en Sant Josep de sa Talaia.](https://fotos.etheriamagazine.com/2022/02/Sa-Caleta-playa-ibiza.jpg "Playa de sa Caleta, en Sant Josep de sa Talaia.")
 
-**• Sa Caleta**. El vínculo con el mar de los isleños se aprecia en esta cala mejor que 
+**- Sa Caleta**. El vínculo con el mar de los isleños se aprecia en esta cala mejor que 
 en ningún otro lugar. Te encantarán sus típicas casetas-varadero. 
 
-• **Calas de** **Tramuntana i Ponent**. Forman una de las imágenes más populares de la 
+- **Calas de** **Tramuntana i Ponent**. Forman una de las imágenes más populares de la 
 costa de Ibiza: el conjunto de Platges de Comte, situadas frente a los islotes des Bosc, 
 ses Bledes i s’Espartar. 
 
-**• Cala Bassa**. Es una de las playas más familiares e irresistibles de Ibiza. Está 
+**- Cala Bassa**. Es una de las playas más familiares e irresistibles de Ibiza. Está 
 rodeada por un frondoso bosque de sabinas, pinos y tamarindos. 
 
 ![esnorquel en playa bol nou de ibiza](https://fotos.etheriamagazine.com/2022/02/fotosub-Bol-Nou-ibiza.jpg "Esnórquel en Bol Nou.")
 
-**• Y más playas.** La lista de arenales y calas es muy extensa, tanto como su oferta de 
+**- Y más playas.** La lista de arenales y calas es muy extensa, tanto como su oferta de 
 servicios: **Platja d’en Bossa** (una de las más largas y animadas de la isla), **es Bol 
 Nou** (con sus espectaculares barrancos rojizos), **Cala Carbó**, **Cala Llentrisca, 
 Cala Molí** (rodeada de pinos y vegetación mediterránea), **Porroig, Cala Vedella** (una 
@@ -206,11 +206,9 @@ de s’Oli.
 
 ### También te puede interesar...
 
-[Ibiza en invierno también merece una 
-escapada](https://etheriamagazine.com/2021/11/05/planes-viaje-a-ibiza-en-invierno/). 
+{{< reflink path=posts/2021/11/planes-viaje-a-ibiza-en-invierno >}}. 
 
-[20 restaurantes románticos de Ibiza para ir en 
-pareja](https://etheriamagazine.com/2020/02/14/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja/). 
+{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
+>}}. 
 
-[10 errores que debes evitar si vas a Ibiza con 
-amigas](https://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/).
+{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}.

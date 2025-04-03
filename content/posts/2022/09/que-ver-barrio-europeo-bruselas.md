@@ -1,7 +1,7 @@
 ---
 title: "10 paradas en una ruta por el Barrio Europeo de Bruselas"
 date: 2022-09-29
-coverImage: https://fotos.etheriamagazine.com/2022/09/bruselas-Edificio-Europa.jpg
+cover: https://fotos.etheriamagazine.com/2022/09/bruselas-Edificio-Europa.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Nos vamos de paseo por uno de los lugares que definen la personalidad de Bruselas y te 
+**Nos vamos de paseo por uno de los lugares que definen la personalidad de Bruselas y te 
 contamos qué ver en el Barrio Europeo, una cita que no puede faltar si visitas la 
 capital belga y que ofrece mucho más que los edificios institucionales. Te aseguramos 
-que te va a sorprender gracias a sus parques, museos y edificios Art Nouveau. 
+que te va a sorprender gracias a sus parques, museos y edificios Art Nouveau.** 
 
 ![mural de street art en el barrio europeo](https://fotos.etheriamagazine.com/2022/09/bruselas-The-future-is-Europe.jpg "Barrio Europeo de Bruselas. © Visit Brussels.")
 
@@ -47,8 +47,8 @@ calendario para ver si coinciden con tu visita y reservarla). La visita es gratu
 puede realizarse en las 24 lenguas oficiales de la Unión Europea a través de una guía 
 multimedia y es mejor reservarla con antelación. 
 
-📌**No te pierdas el artículo**: [Qué comer en Bruselas, productos y experiencias 
-originales](https://etheriamagazine.com/2022/03/29/que-comer-en-bruselas/) 
+📌**No te pierdas el artículo**: {{< reflink path=posts/2022/03/que-comer-en-bruselas 
+>}} 
 
 ![edificio del parlamento europeo en el barrio europeo](https://fotos.etheriamagazine.com/2022/09/bruselas-parlamento-europeo.jpg "Parlamento Europeo. © Visit Brussels/Sophie Voituron")
 
@@ -118,9 +118,10 @@ Este barrio alberga algunos de los mejores ejemplos del estilo _art nouveau_ de 
 ciudad: la **Maison Cauchie** (en la rue des Francs, frente al Parque del 
 Cincuentenario) y la **Maison Saint Cyr** (en la place Ambiorix). La primera recibe el 
 nombre de su propietario, Paul Cauchie, que decoró su casa con unas maravillosas 
-pinturas murales (puede recorrerse previa [reserva](https://cauchie.be/fr/la-maison-cauchie)). 
-Por otro lado, la Maison Saint Cyr ofrece una lujosa y extravagante decoración con 
-vidrios y hierros forjados en sus techos de cuatro metros de alto. 
+pinturas murales (puede recorrerse previa 
+[reserva](https://cauchie.be/fr/la-maison-cauchie)). Por otro lado, la Maison Saint Cyr 
+ofrece una lujosa y extravagante decoración con vidrios y hierros forjados en sus techos 
+de cuatro metros de alto. 
 
 ![edificio art nouveau Maison Cauchie.](https://fotos.etheriamagazine.com/2022/09/bruselas-Maison-Cauchie.jpg "Maison Cauchie. © Visit Brussels/Jean-Paul Remy")
 
@@ -141,8 +142,8 @@ podía faltar uno de esos lugares emblemáticos para degustarlas: **Maison Antoi
 fundado en 1948 y todo un referente en este sabroso tentempié. No podrás evitar hacer 
 una parada para degustar un cucurucho de sus patatas con salsas. 
 
-📌**No te pierdas el artículo:** [8 planes que no puedes perderte en Bruselas y 
-Flandes](https://etheriamagazine.com/2021/03/12/que-ver-hacer-otros-planes-en-bruselas-y-flandes/) 
+📌**No te pierdas el artículo:** {{< reflink 
+path=posts/2021/03/que-ver-hacer-otros-planes-en-bruselas-y-flandes >}} 
 
 ![puesto de patatas fritas en el barrio Europeo](https://fotos.etheriamagazine.com/2022/09/bruselas-Maison-Antoine.jpg "Maison Antoine. © Visit Brussels/Jean-Paul Remy")
 

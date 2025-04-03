@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer en París si viajas sola"
 date: 2019-05-15
-coverImage: https://fotos.etheriamagazine.com/2019/04/Viajar-sola-Paris.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/Viajar-sola-Paris.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Cristina R. Bareño
 ---
 
-La mundialmente conocida como “Ciudad del Amor” también es el destino ideal para 
+**La mundialmente conocida como “Ciudad del Amor” también es el destino ideal para 
 querernos mucho… a nosotras mismas. París es un buen destino para iniciarse en el arte 
-de viajar sola, aunque si lo haces acompañada esta guía te servirá igualmente. 
+de viajar sola, aunque si lo haces acompañada esta guía te servirá igualmente.** 
 
 ![viajar sola paris](https://fotos.etheriamagazine.com/2019/04/Viajar-sola-Paris.jpg "Viajar sola a París. © Artem/ Adobe Stock")
 
@@ -188,20 +188,17 @@ de irnos a dormir.
 
 ### Antes del viaje...
 
-• Empápate del ambiente parisino con algunas películas: _Mouling Rouge_, _Midnight in 
+- Empápate del ambiente parisino con algunas películas: _Mouling Rouge_, _Midnight in 
 Paris_, _Paris, je t'aime_, _Amèlie_ o _Antes del atardecer_; querrás descubrir todos 
 los rincones que aparecen en ellas. 
 
-• Más información sobre actividades, transporte, atracciones, alojamiento y otros 
+- Más información sobre actividades, transporte, atracciones, alojamiento y otros 
 consejos para preparar vuestro viaje en [Turismo de París](https://es.parisinfo.com/). 
 
 **También te puede interesar:** 
 
-[París con amigas, diez planes para una escapada 
-perfecta](https://etheriamagazine.com/2023/06/16/planes-paris-con-amigas/) 
+{{< reflink path=posts/2023/06/planes-paris-con-amigas >}} 
 
-[Shopping en París, tiendas imprescindibles en Le 
-Marais](https://etheriamagazine.com/2018/08/02/viaje-de-compras-le-marais-paris/) 
+{{< reflink path=posts/2018/08/viaje-de-compras-le-marais-paris >}} 
 
-[Plaza Athénée, un hotel de ensueño en 
-París](https://etheriamagazine.com/2018/11/21/plaza-athenee-un-hotel-de-ensueno-en-paris/)
+{{< reflink path=posts/2018/11/plaza-athenee-un-hotel-de-ensueno-en-paris >}}

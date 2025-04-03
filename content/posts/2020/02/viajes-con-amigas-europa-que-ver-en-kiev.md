@@ -1,7 +1,7 @@
 ---
 title: "Kiev, ocho razones por las que amarás esta ciudad"
 date: 2020-02-05
-coverImage: https://fotos.etheriamagazine.com/2020/01/Kiev-san-miguel-de-las-cupulas-doradas.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/Kiev-san-miguel-de-las-cupulas-doradas.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -207,8 +207,6 @@ podría decir que la agenda cultural nocturna de la capital ucraniana transcurre
 
 ### También te puede interesar...
 
-[Todo lo que debes ver en Moscú en un fin de 
-semana](https://etheriamagazine.com/2019/10/09/que-ver-hacer-donde-comer-3-dias-moscu/) 
+{{< reflink path=posts/2019/10/que-ver-hacer-donde-comer-3-dias-moscu >}} 
 
-[Aventura en Polonia: observa los últimos bisontes de Europa en 
-Bialowieza](https://etheriamagazine.com/2019/01/30/que-ver-parque-bialowieza-polonia/)
+{{< reflink path=posts/2019/01/que-ver-parque-bialowieza-polonia >}}

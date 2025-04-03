@@ -1,7 +1,7 @@
 ---
 title: "10 planes en Róterdam con amigas para un fin de semana movido"
 date: 2021-05-15
-coverImage: https://fotos.etheriamagazine.com/2020/02/viaje-roterdam-Cubehouses.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/viaje-roterdam-Cubehouses.jpg
 categories: 
   - viajar-con-amigas
   - viajar-sola
@@ -240,8 +240,7 @@ colección de ginebras de toda Europa.
 
 ### Sigue leyendo...
 
-[48 horas en… Amsterdam, la vida en la 
-calle](https://etheriamagazine.com/2019/04/11/viajar-sola-que-ver-hacer-dormir-amsterdam/). 
+{{< reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-amsterdam >}}. 
 
-[Descubre Leiden, la cuna de 
-Rembrandt](https://etheriamagazine.com/2019/11/14/que-ver-en-leiden-holanda-ruta-de-rembrandt-por-libre/).
+{{< reflink path=posts/2019/11/que-ver-en-leiden-holanda-ruta-de-rembrandt-por-libre 
+>}}.

@@ -1,7 +1,7 @@
 ---
 title: "Cómo combatir los vuelos largos y no bajar del avión con cara de acelga"
 date: 2018-06-13
-coverImage: https://fotos.etheriamagazine.com/2018/06/neceser-avion-ala.jpg
+cover: https://fotos.etheriamagazine.com/2018/06/neceser-avion-ala.jpg
 categories: 
   - qué-llevar-en-la-maleta
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Susana García
 ---
 
-Las condiciones de la cabina de un avión no son las mejores para la piel pero con unos 
+**Las condiciones de la cabina de un avión no son las mejores para la piel pero con unos 
 sencillos gestos y la ayuda de la bendita cosmética podemos conseguir incluso comenzar 
-las vacaciones con buena cara desde el primer instante. 
+las vacaciones con buena cara desde el primer instante.** 
 
 ![Una viajera camina por el aeropuerto con una bolsa.](https://fotos.etheriamagazine.com/2018/06/neceser-para-avion-mujer-aerpuerto.jpg "la piel se apaga tras los vuelos largos")
 
@@ -68,8 +68,6 @@ solar.
 
 **También te puede interesar...** 
 
-[Qué llevar en la maleta en un viaje a 
-Egipto](https://etheriamagazine.com/2023/02/01/que-llevar-en-la-maleta-egipto/). 
+{{< reflink path=posts/2023/02/que-llevar-en-la-maleta-egipto >}}. 
 
-[Cómo preparar la maleta para viajar a 
-Argentina](https://etheriamagazine.com/2022/09/14/que-llevar-maleta-argentina/).
+{{< reflink path=posts/2022/09/que-llevar-maleta-argentina >}}.

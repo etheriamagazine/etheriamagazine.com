@@ -1,7 +1,7 @@
 ---
 title: "10 apps de museos que deberías descargarte"
 date: 2019-01-05
-coverImage: https://fotos.etheriamagazine.com/2019/01/museos.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/museos.jpg
 categories: 
   - cultura
 destino: 
@@ -10,10 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-El mundo del arte no permanece ajeno a las nuevas tecnologías y cada vez más museos 
+**El mundo del arte no permanece ajeno a las nuevas tecnologías y cada vez más museos 
 apuestan por la tecnología para facilitar el acceso a la información sobre las obras. 
 Aquí te proponemos 10 apps de museos que puedes descargarte en tu móvil y que te 
-facilitarán las visitas e, incluso, te permitirán disfrutar de grandes obras desde casa. 
+facilitarán las visitas e, incluso, te permitirán disfrutar de grandes obras desde 
+casa.** 
 
 ![mujer consultado el móvil en un banco](https://fotos.etheriamagazine.com/2019/01/mujer-movil-museos.jpg "Las aplicaciones móviles pueden completar tu visita a un museo.")
 
@@ -117,11 +118,8 @@ aficionados a la ciencia**. Es gratuita y se puede descargar en sistemas Android
 
 **Tambi´én te puede interesar:** 
 
-[Conoce el Museo Naval de Madrid y sus 10 piezas 
-imprescindibles](https://etheriamagazine.com/2021/04/30/que-ver-en-museo-naval-de-madrid/) 
+{{< reflink path=posts/2021/04/que-ver-en-museo-naval-de-madrid >}} 
 
-[15 obras del Museo del Prado para una visita 
-exprés](https://etheriamagazine.com/2019/09/24/15-obras-imprescindibles-en-el-prado/) 
+{{< reflink path=posts/2019/09/15-obras-imprescindibles-en-el-prado >}} 
 
-[The Twist, el nuevo museo-puente-escultura de 
-Noruega](https://etheriamagazine.com/2019/10/03/the-twist-museo-puente-escultura-noruega-viajes-arte/)
+{{< reflink path=posts/2019/10/the-twist-museo-puente-escultura-noruega-viajes-arte >}}

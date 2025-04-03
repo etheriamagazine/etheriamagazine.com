@@ -1,7 +1,7 @@
 ---
 title: "Descubre la quintaesencia de las islas Canarias"
 date: 2022-11-26
-coverImage: https://fotos.etheriamagazine.com/2022/11/pico-las-nieves-gran-canaria.jpg
+cover: https://fotos.etheriamagazine.com/2022/11/pico-las-nieves-gran-canaria.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-Los cuatro elementos de la naturaleza son insuficientes para definir la esencia del 
+**Los cuatro elementos de la naturaleza son insuficientes para definir la esencia del 
 archipiélago canario. Forjado por el fuego, este rosario de islas volcánicas acariciadas 
 por el Atlántico insufla vida a cuantos viajeros deciden gozar de sus atractivos. Si 
 quieres descubrir la quintaesencia de este destino insular sólo tienes que acercarte a 
-conocerlo. 
+conocerlo.** 
 
 ![Una pareja en el Parque Nacional de la Caldera de Taburiente, en La Palma.](https://fotos.etheriamagazine.com/2022/11/caldera-taburiente-la-palma.jpg "Parque Nacional de la Caldera de Taburiente, en La Palma.")
 
@@ -142,14 +142,13 @@ Canaria o las dunas de Corralejo en Fuerteventura.
 ![Isla Graciosa y El Hierro, dos visitas singulares en Canarias](https://fotos.etheriamagazine.com/2022/11/isla-graciosa-el-hierro.jpg "Isla Graciosa y El Hierro. (Izq. y Dcha.)")
 
 Sin embargo, aún no te hemos mencionado la singularidad de otras islas como **El 
-Hierro,** un territorio del que ya te hemos hablado en este artículo ([El Hierro, una 
-isla que desvela sus encantos en el 
-cine](https://etheriamagazine.com/2019/10/21/ruta-turismo-cine-serie-hierro-canarias/)). 
-Sus paisajes de apariencia inhóspita atraen e impresionan a partes iguales. En el 
-extremo opuesto a su manifiesta aridez se sitúa la isla de **La Gomera**, donde el 
-Parque Nacional de Garajonay es una invitación permanente a soñar entre sus bosques de 
-laurisilva. Sus ramas entrelazadas, brumas y leyendas te atrapan desde el primer 
-momento. Las propuestas de naturaleza de esta isla son un valor seguro en tu viaje. 
+Hierro,** un territorio del que ya te hemos hablado en este artículo ({{< reflink 
+path=posts/2019/10/ruta-turismo-cine-serie-hierro-canarias >}}). Sus paisajes de 
+apariencia inhóspita atraen e impresionan a partes iguales. En el extremo opuesto a su 
+manifiesta aridez se sitúa la isla de **La Gomera**, donde el Parque Nacional de 
+Garajonay es una invitación permanente a soñar entre sus bosques de laurisilva. Sus 
+ramas entrelazadas, brumas y leyendas te atrapan desde el primer momento. Las propuestas 
+de naturaleza de esta isla son un valor seguro en tu viaje. 
 
 ![Parque Nacional de Garajonay, en La Gomera.](https://fotos.etheriamagazine.com/2022/11/parque-garajonay.jpg "Parque Nacional de Garajonay, en La Gomera.")
 

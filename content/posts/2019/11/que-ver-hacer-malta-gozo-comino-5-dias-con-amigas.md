@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en Malta, un destino mediterráneo que nunca defrauda"
 date: 2019-11-19
-coverImage: https://fotos.etheriamagazine.com/2019/11/Malta-barca-tipica.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/Malta-barca-tipica.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -66,8 +66,8 @@ Otros sitios que no deberías perderte son el **palacio del Gran Maestre** o la 
 de San Jorge**. Y si te van las historias épicas, el fuerte de San Telmo, que como ya te 
 contamos, se convirtió en prisión para el rodaje de _El expreso de medianoche_. 
 
-✅ No te pierdas: [Malta, el Hollywood del 
-Mediterráneo](https://etheriamagazine.com/2019/06/14/viajes-cine-malta-hollywood-mediterraneo/). 
+✅ No te pierdas: {{< reflink path=posts/2019/06/viajes-cine-malta-hollywood-mediterraneo 
+>}}. 
 
 ## Mdina, la ciudad de los nobles
 
@@ -155,8 +155,6 @@ recinto con jardines y tres salas, donde pinchan los mejores DJ´s de Malta.
 
 **También te puede interesar...** 
 
-[Las 7 visitas arquitectónicas más originales e insólitas de 
-Menorca](https://etheriamagazine.com/2020/12/08/visitas-originales-de-arquitectura-en-menorca/). 
+{{< reflink path=posts/2020/12/visitas-originales-de-arquitectura-en-menorca >}}. 
 
-[10 viajes con amigas en España: ideas para tu próxima 
-escapada](https://etheriamagazine.com/2019/02/06/viajes-con-amigas-en-espana/).
+{{< reflink path=posts/2019/02/viajes-con-amigas-en-espana >}}.

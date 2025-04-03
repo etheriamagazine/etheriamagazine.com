@@ -1,19 +1,19 @@
 ---
 title: "Secretos de Alberobello, un 'pícaro' pueblo italiano de Puglia"
 date: 2019-04-15
-coverImage: https://fotos.etheriamagazine.com/2019/04/que-ver-Alberobello-puglia.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/que-ver-Alberobello-puglia.jpg
 destino: 
   - Europa
 authors: 
   - Firmas invitadas
 ---
 
-¿Sabías que uno de los grandes tesoros de Italia se encuentra en su “tacón”? Te 
+**¿Sabías que uno de los grandes tesoros de Italia se encuentra en su “tacón”? Te 
 proponemos que descubras los secretos y la magia de Alberobello, un precioso pueblo 
 situado en el Valle de Itria, en la región de La Puglia. En este lugar hay unas 
 construcciones conocidas como 'trullis', que no son producto del diseño sino más bien de 
 la picaresca, ya que tienen una propiedad excepcional: se pueden desmontar en una sola 
-noche. 
+noche.** 
 
 ![alberobello, que ver en alberobello](https://fotos.etheriamagazine.com/2019/04/que-ver-Alberobello-trulis.jpg "Alberobello está situado en la región de Puglia.")
 
@@ -145,8 +145,6 @@ ha descubierto en sus frecuentes viajes por el mundo.
 
 ### También te puede interesar
 
-[Caótica Nápoles: 48 horas en la ciudad más canalla de 
-Italia](https://etheriamagazine.com/2020/09/04/que-ver-en-napoles-en-fin-de-semana/) 
+{{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}} 
 
-[10 viajes para enamorarte de 
-Italia](https://etheriamagazine.com/2020/08/03/10-grandes-viajes-a-italia/)
+{{< reflink path=posts/2020/08/10-grandes-viajes-a-italia >}}

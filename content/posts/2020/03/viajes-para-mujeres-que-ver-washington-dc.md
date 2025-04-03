@@ -1,7 +1,7 @@
 ---
 title: "Washington DC con amigas, descubre sus atractivos barrio a barrio"
 date: 2020-03-02
-coverImage: https://fotos.etheriamagazine.com/2020/02/viaje-whasington-chinatown-museo.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/viaje-whasington-chinatown-museo.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -188,8 +188,8 @@ cubierta incluidas— que buscan los viajeros independientes. (899, O Street NW)
 
 Si quieres hacer un primer recorrido por la ciudad con un guía local y en español, hay 
 varias opciones, algunas por poco más de 30 €: [Tour en bicicleta por Washington 
-DC](https://www.civitatis.com/es/washington/tour-bicicleta-washington/?aid=10211), [Visita 
-guiada Washington 
+DC](https://www.civitatis.com/es/washington/tour-bicicleta-washington/?aid=10211), 
+[Visita guiada Washington 
 DC](https://www.civitatis.com/es/washington/visita-guiada-washington/?aid=10211) (te 
 recogen en el hotel), [autobús turístico para recorrer Washington 
 DC](https://www.civitatis.com/es/washington/autobus-turistico-washington-dc/?aid=10211) 
@@ -201,8 +201,6 @@ Más información en [Turismo de Washington](http://www.washington.org)
 
 ### También te puede interesar...
 
-[Los mejores miradores de Nueva York: nuevos, de pago y 
-gratuitos](https://etheriamagazine.com/2020/02/24/los-mejores-miradores-de-nueva-york-gratis-de-pago/). 
+{{< reflink path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}}. 
 
-[Cuota de género en Hollywood (Los Ángeles, 
-EEUU)](https://etheriamagazine.com/2018/09/04/hollywood-los-angeles-eeuu/).
+{{< reflink path=posts/2018/09/hollywood-los-angeles-eeuu >}}.

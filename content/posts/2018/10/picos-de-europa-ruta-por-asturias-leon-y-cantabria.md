@@ -1,7 +1,7 @@
 ---
 title: "Picos de Europa, una ruta por la columna vertebral de Asturias, León y Cantabria"
 date: 2018-10-17
-coverImage: https://fotos.etheriamagazine.com/2018/10/LAGOS-DE-COVADONGA.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/LAGOS-DE-COVADONGA.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -123,11 +123,9 @@ realmente único.
 
 **También en Etheria Magazine** 
 
-[Lugares sorprendentes de Cantabria que aún no 
-conoces](https://etheriamagazine.com/2020/06/05/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original/). 
+{{< reflink 
+path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}}. 
 
-[De tapinas por León: el secreto mejor guardado de la capital del Santo 
-Grial](https://etheriamagazine.com/2021/09/09/ruta-para-comer-bien-en-leon-capital/). 
+{{< reflink path=posts/2021/09/ruta-para-comer-bien-en-leon-capital >}}. 
 
-[Las Ubiñas (Asturias), vive nueve experiencias en territorio del oso 
-pardo](https://etheriamagazine.com/2021/07/21/que-hacer-en-parque-las-ubinas-la-mesa/).
+{{< reflink path=posts/2021/07/que-hacer-en-parque-las-ubinas-la-mesa >}}.

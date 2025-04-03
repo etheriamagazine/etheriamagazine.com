@@ -1,7 +1,7 @@
 ---
 title: "Iratiko Kabiak, las cabañas en los árboles de la Selva de Irati"
 date: 2023-10-06
-coverImage: https://fotos.etheriamagazine.com/2023/10/cama-colgante-iratiko-kabiak.jpg
+cover: https://fotos.etheriamagazine.com/2023/10/cama-colgante-iratiko-kabiak.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-La Selva de Irati no es la “selva” que solemos tener habitualmente en mente pero sí es 
+**La Selva de Irati no es la “selva” que solemos tener habitualmente en mente pero sí es 
 un espacio inmenso y frondoso donde disfrutar del contacto directo con la naturaleza. Y 
 uno de los campamentos base más idóneos para recorrer toda la zona es Iratiko Kabiak, el 
-mejor complejo de cabañas en los árboles de Navarra. No querrás marcharte. 
+mejor complejo de cabañas en los árboles de Navarra. No querrás marcharte.** 
 
 ![Cama en la terraza de la cabaña Irati.](https://fotos.etheriamagazine.com/2023/10/cama-terraza-cabana-arbol-navarra.jpg "Cama en la terraza de la cabaña Irati. © Pepa García/ Etheria Magazine")
 
@@ -124,8 +124,6 @@ Maps](https://www.google.com/maps/dir/Iratiko+Kabiak,+989669,+-1.223924,+Carr.+d
 
 📌 **También te puede interesar...** 
 
-[Descubre a qué sabe Navarra a través de estas rutas 
-gastronómicas](https://etheriamagazine.com/2023/05/08/rutas-gastronomia-navarra/). 
+{{< reflink path=posts/2023/05/rutas-gastronomia-navarra >}}. 
 
-[Planes increíbles por los que querrás viajar a 
-Navarra](https://etheriamagazine.com/2021/12/23/planes-en-navarra-con-amigas/).
+{{< reflink path=posts/2021/12/planes-en-navarra-con-amigas >}}.

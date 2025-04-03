@@ -1,7 +1,7 @@
 ---
 title: "10 parques naturales de América Latina con paisajes increíbles"
 date: 2021-10-21
-coverImage: https://fotos.etheriamagazine.com/2021/10/paisajes-america-latina-Salar-Uyuni.jpg
+cover: https://fotos.etheriamagazine.com/2021/10/paisajes-america-latina-Salar-Uyuni.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -12,10 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-Los atractivos turísticos de América Latina son infinitos, y entre ellos se encuentran 
+**Los atractivos turísticos de América Latina son infinitos, y entre ellos se encuentran 
 los paisajes sobrecogedores que la naturaleza ha formado en su territorio. Aquí hemos 
 seleccionado 10 parques naturales de América Latina, unos lugares donde el tiempo queda 
-suspendido y necesitamos tomar aliento para asimilar tanta belleza. 
+suspendido y necesitamos tomar aliento para asimilar tanta belleza.** 
 
 ![Perito Moreno, en el Parque Nacional de los Glaciares (Argentina)](https://fotos.etheriamagazine.com/2021/10/paisajes-america-latina-perito-moreno-pasarelas.jpg "Perito Moreno, en el Parque Nacional de los Glaciares (Argentina).")
 
@@ -81,8 +81,9 @@ Santarém o Monte Alegro. ¿Te atreves a pescar pirañas?
 ![Río Amazonas.](https://fotos.etheriamagazine.com/2021/10/paisajes-america-latina-Amazonas.jpg "Río Amazonas. © Isaac Quesada")
 
 📌 Con Civitatis puedes realizar una [ruta de 5 días por el Amazonas desde Manaos hasta 
-Belém](https://www.civitatis.com/es/manaos/crucero-5-dias-rio-amazonas/?aid=10211) o un [tour 
-por el río Amazonas](https://www.civitatis.com/es/manaos/tour-rio-amazonas/?aid=10211). 
+Belém](https://www.civitatis.com/es/manaos/crucero-5-dias-rio-amazonas/?aid=10211) o un 
+[tour por el río 
+Amazonas](https://www.civitatis.com/es/manaos/tour-rio-amazonas/?aid=10211). 
 
 ## Bosque Nuboso de Monteverde (Costa Rica)
 
@@ -220,14 +221,10 @@ Atitlán](https://www.civitatis.com/es/ciudad-de-guatemala/tour-2-dias-lago-atit
 
 ✅ **También te puede interesar**: 
 
-[10 yacimientos arqueológicos en América Latina que tienes que 
-conocer](https://etheriamagazine.com/2019/05/29/10-yacimientos-arqueologicos-america-latina/) 
+{{< reflink path=posts/2019/05/10-yacimientos-arqueologicos-america-latina >}} 
 
-[Viajar sola al lago Atitlán, una aventura fascinante en busca de las raíces 
-mayas](https://etheriamagazine.com/2021/02/20/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala/) 
+{{< reflink path=posts/2021/02/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala >}} 
 
-[Viaje con niños a Costa Rica: aventura en la 
-naturaleza](https://etheriamagazine.com/2021/04/20/viaje-costa-rica-con-ninos-que-hacer-en-familia/) 
+{{< reflink path=posts/2021/04/viaje-costa-rica-con-ninos-que-hacer-en-familia >}} 
 
-[8 maravillosas cataratas del mundo para 
-soñar](https://etheriamagazine.com/2020/12/04/mejores-cataratas-del-mundo/)
+{{< reflink path=posts/2020/12/mejores-cataratas-del-mundo >}}

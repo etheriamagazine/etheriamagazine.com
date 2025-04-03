@@ -1,7 +1,7 @@
 ---
 title: "Klimt en Madrid, la primera experiencia inmersiva de MAD en Matadero"
 date: 2022-03-18
-coverImage: https://fotos.etheriamagazine.com/2022/03/klimt-matadero-madrid.jpg
+cover: https://fotos.etheriamagazine.com/2022/03/klimt-matadero-madrid.jpg
 categories: 
   - ocio
 destino: 
@@ -158,11 +158,8 @@ dejarán en esta plaza y hay estación de BiciMad.
 
 ### También te puede interesar...
 
-[Ruta turístico-gastronómica por el Chinatown madrileño, del arte al 
-plato](https://etheriamagazine.com/2022/02/11/ruta-turistica-usera-chinatown-madrileno/). 
+{{< reflink path=posts/2022/02/ruta-turistica-usera-chinatown-madrileno >}}. 
 
-[Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
-‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/). 
+{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}. 
 
-[Jamming sessions, un espectáculo donde la clave está en la 
-improvisación](https://etheriamagazine.com/2021/09/30/jamming-sessions-teatro-de-improvisacion-madrid/).
+{{< reflink path=posts/2021/09/jamming-sessions-teatro-de-improvisacion-madrid >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Una maleta para viajar a la India"
 date: 2018-10-19
-coverImage: https://fotos.etheriamagazine.com/2018/10/maleta-viaje-india.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/maleta-viaje-india.jpg
 categories: 
   - inspiración
   - qué-llevar-en-la-maleta
@@ -11,10 +11,10 @@ authors:
   - Cristina R. Bareño
 ---
 
-India es uno de esos destinos que solemos planear con tiempo porque representa un sueño 
-largamente acariciado. Como viajeras que queremos llevar bien planificado todos los 
-detalles, también debemos tener en cuenta qué vamos a necesitar en una maleta para 
-viajar a la India, sobre todo en lo que a vestimenta se refiere. 
+**India es uno de esos destinos que solemos planear con tiempo porque representa un 
+sueño largamente acariciado. Como viajeras que queremos llevar bien planificado todos 
+los detalles, también debemos tener en cuenta qué vamos a necesitar en una maleta para 
+viajar a la India, sobre todo en lo que a vestimenta se refiere.** 
 
 ![maleta con fular y camara de fotos](https://fotos.etheriamagazine.com/2018/10/maleta-viaje-india.jpg "Planifica tu maleta a la India con tiempo suficiente para que no te falte de nada.")
 
@@ -88,11 +88,8 @@ moneda nacional, o sacar dinero en los cajeros con tu tarjeta de crédito.
 
 📌 **También te puede interesar:** 
 
-[La “pasión india” de Anita Delgado: una vida de 
-película](https://etheriamagazine.com/2020/04/13/la-pasion-india-de-anita-delgado-libros-viajes/) 
+{{< reflink path=posts/2020/04/la-pasion-india-de-anita-delgado-libros-viajes >}} 
 
-[Norte de la India: enamórate de los colores del 
-Rajastán](https://etheriamagazine.com/2020/01/29/viaje-para-mujeres-que-ver-norte-india-rajastan/) 
+{{< reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}} 
 
-[¿Puedo viajar sola o con amigas a 
-India?](https://etheriamagazine.com/2018/10/19/viajar-sola-o-con-amigas-a-india/)
+{{< reflink path=posts/2018/10/viajar-sola-o-con-amigas-a-india >}}

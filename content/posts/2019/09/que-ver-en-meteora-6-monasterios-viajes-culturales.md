@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en Meteora: 6 monasterios que tocan el cielo griego"
 date: 2019-09-30
-coverImage: https://fotos.etheriamagazine.com/2019/09/visitas-templos-meteora.jpg
+cover: https://fotos.etheriamagazine.com/2019/09/visitas-templos-meteora.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -150,9 +150,9 @@ recuerdos.
 ##### Cómo llegar a Meteora
 
 La forma más común de llegar desde Atenas a Kalambaka es en coche (350 km, unas cuatro 
-horas y media). También es posible hacer el recorrido cómodamente en [tren](http://www.trainose.gr/en/) 
-partiendo desde el aeropuerto o desde la estación de Larissis en Atenas. El trayecto 
-dura unas cinco horas y atraviesa bonitos paisajes. 
+horas y media). También es posible hacer el recorrido cómodamente en 
+[tren](http://www.trainose.gr/en/) partiendo desde el aeropuerto o desde la estación de 
+Larissis en Atenas. El trayecto dura unas cinco horas y atraviesa bonitos paisajes. 
 
 Una vez en Kalambaka, si no se dispone de coche, es posible llegar hasta el monasterio 
 de la Santísima Trinidad andando, durante 50 minutos, por empinados caminos. La manera 
@@ -182,11 +182,10 @@ destaca por sus _souvlakis_ y otras muchas delicias griegas en un entorno muy ag
 
 ### También te puede interesar:
 
-[Escapada ‘slow’ a Paros, Amorgos y Milos, el secreto mejor guardado de las 
-Cícladas](https://etheriamagazine.com/2020/10/20/descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas/) 
+{{< reflink 
+path=posts/2020/10/descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas 
+>}} 
 
-[Crucero por las Islas 
-Griegas](https://etheriamagazine.com/2019/01/03/que-visitar-crucero-por-islas-griegas/) 
+{{< reflink path=posts/2019/01/que-visitar-crucero-por-islas-griegas >}} 
 
-[Ruta en coche por Sicilia, entre pantocrátores y 
-bikinis](https://etheriamagazine.com/2021/07/05/sicilia-pantocratores-y-bikinis/)
+{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}}

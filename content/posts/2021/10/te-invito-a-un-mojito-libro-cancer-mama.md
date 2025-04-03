@@ -1,7 +1,7 @@
 ---
 title: "'Te invito a un mojito', un libro que puede salvar vidas"
 date: 2021-10-19
-coverImage: https://fotos.etheriamagazine.com/2021/10/te-invito-mojito-paka-mabel.jpg
+cover: https://fotos.etheriamagazine.com/2021/10/te-invito-mojito-paka-mabel.jpg
 categories: 
   - cultura
   - ocio
@@ -99,16 +99,16 @@ para comprender y empatizar con los sentimientos de las enfermas.
 
 ##### Te invito a un mojito
 
-Editorial Catedral Books Precio:19,90 € Encárgalo en tu librería en [Todostuslibros](https://www.todostuslibros.com/busquedas?keyword=Te+invito+a+un+mojito) 
+Editorial Catedral Books Precio:19,90 € Encárgalo en tu librería en 
+[Todostuslibros](https://www.todostuslibros.com/busquedas?keyword=Te+invito+a+un+mojito) 
 o pídelo a domicilio en [Amazon](https://amzn.to/3BTOSLS). 
 
 ### También te puede interesar...
 
-[Musicoterapia, un recurso importante para restaurar el equilibrio y la 
-salud](https://etheriamagazine.com/2020/11/11/musicoterapia-mover-emociones-subir-autoestima/). 
+{{< reflink path=posts/2020/11/musicoterapia-mover-emociones-subir-autoestima >}}. 
 
-[Danza, la belleza que 
-sana](https://etheriamagazine.com/2020/10/21/danza-terapia-salud/). 
+{{< reflink path=posts/2020/10/danza-terapia-salud >}}. 
 
-[Intrépidas. Un libro sobre 25 exploradoras que persiguieron su 
-sueño](https://etheriamagazine.com/2018/05/03/intrepidas-un-libro-sobre-25-exploradoras-que-persiguieron-su-sueno/).
+{{< reflink 
+path=posts/2018/05/intrepidas-un-libro-sobre-25-exploradoras-que-persiguieron-su-sueno 
+>}}.

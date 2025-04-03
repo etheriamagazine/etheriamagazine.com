@@ -1,7 +1,7 @@
 ---
 title: "Lisboa y Ericeira, un plan de amigas para amantes del surf y el buen comer"
 date: 2024-08-08
-coverImage: https://fotos.etheriamagazine.com/2020/03/Ericeira-surf.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/Ericeira-surf.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -162,9 +162,9 @@ autobús, ya que está a unos 50 kilómetros al norte.
 
 ### Dónde dormir
 
-• En Lisboa la oferta hotelera es casi infinita. Para darse un capricho, os aconsejamos 
+- En Lisboa la oferta hotelera es casi infinita. Para darse un capricho, os aconsejamos 
 el Tivoli Avenida Liberdade o el Pestana Palace Lisboa, que ocupa un auténtico palacio. 
-• En **Ericeira**, será preciso alojarse en el **Ericeira Camping** 
+- En **Ericeira**, será preciso alojarse en el **Ericeira Camping** 
 (ericeiracamping.com) para sentir el magnetismo del surf. Hay que elegir los preciosos 
 bungalows con terraza cubierta y vistas al mar. 
 
@@ -175,11 +175,8 @@ bungalows con terraza cubierta y vistas al mar.
 
 **También te puede interesar:** 
 
-[8 visitas originales en Lisboa que (quizá) te quedan por 
-hacer](https://etheriamagazine.com/2021/10/27/8-visitas-originales-en-lisboa/) 
+{{< reflink path=posts/2021/10/8-visitas-originales-en-lisboa >}} 
 
-[Ruta de fados en Lisboa de la mano de Amália 
-Rodrigues](https://etheriamagazine.com/2020/12/30/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues/) 
+{{< reflink path=posts/2020/12/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues >}} 
 
-[12 miradores de Lisboa para enamorarse de sus 
-vistas](https://etheriamagazine.com/2018/10/30/12-miradores-para-exprimir-lisboa/)
+{{< reflink path=posts/2018/10/12-miradores-para-exprimir-lisboa >}}

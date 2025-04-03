@@ -1,7 +1,7 @@
 ---
 title: "16 secretos que desconoces de la milenaria ciudad de León"
 date: 2020-12-16
-coverImage: https://fotos.etheriamagazine.com/2020/12/Leon-catedral-interior.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/Leon-catedral-interior.jpg
 categories: 
   - inspiración
 destino: 
@@ -29,7 +29,7 @@ construcción y cuya piel, teóricamente, colgaba sobre la puerta de San Juan, t
 cazado y destripado. La leyenda, sin embargo, perdió peso cuando se descubrió que lo que 
 pende de la catedral es el caparazón de una tortuga llegada de un lugar remoto. 
 
-• [Visita guiada por la 
+- [Visita guiada por la 
 Catedral](https://www.civitatis.com/es/leon/visita-guiada-catedral-leon/?aid=10211) (6 
 €). 
 
@@ -46,7 +46,7 @@ Miralles. El gesto feroz del felino tratando de escapar del sumidero es, según 
 autores, una alegoría que se podría adaptar a cualquier crisis, presente, pasada o 
 futura. 
 
-• [Freetour guiado en español por 
+- [Freetour guiado en español por 
 León](https://www.civitatis.com/es/leon/free-tour-leon/?aid=10211) para entrar en 
 situación. 
 
@@ -66,7 +66,7 @@ las cuatro torres del inmueble decenas de **cabezas de dragón** camufladas. Son
 madera y tienen la boca semiabierta. Y hasta ahora nadie había reparado en ellas, porque 
 desde la calle son prácticamente imperceptibles. 
 
-• [Tour de los misterios y leyendas de 
+- [Tour de los misterios y leyendas de 
 León](https://www.civitatis.com/es/leon/tour-misterios-leyendas-leon/?aid=10211) (10 €). 
 
 ![leyendas casa botines](https://fotos.etheriamagazine.com/2020/12/leon-casa-botines-fachada.jpg "Fachada y torres de la Casa Botines. © Ayto. de León")
@@ -135,7 +135,7 @@ Por aquí estaba también la famosa **Taberna del Buda**, propiedad del grupo mu
 Quijano, que tanto cantó a “La Lola”, nombre del establecimiento que regentaba en León 
 el padre de los hermanos Quijano. 
 
-• [Freetour nocturno por 
+- [Freetour nocturno por 
 León](https://www.civitatis.com/es/leon/free-tour-nocturno-leon/?aid=10211). 
 
 ## 10\. Palacio del Conde de Gaviria
@@ -214,13 +214,12 @@ Más información en [Turismo de León](https://leon.es/).
 
 **También te puede interesar...** 
 
-[Las Médulas, prestosidad a la 
-leonesa](https://etheriamagazine.com/2020/05/11/escapadas-por-espana-las-medulas-leon/). 
+{{< reflink path=posts/2020/05/escapadas-por-espana-las-medulas-leon >}}. 
 
-[48 horas en León](https://etheriamagazine.com/2018/09/27/48-horas-en-leon/). 
+{{< reflink path=posts/2018/09/48-horas-en-leon >}}. 
 
-[Ruta del lechazo: los mejores asadores de Castilla y 
-León](https://etheriamagazine.com/2019/04/25/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon/). 
+{{< reflink 
+path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
+>}}. 
 
-[Picos de Europa: Ruta por la columna vertebral de León, Asturias y 
-Cantabria.](https://etheriamagazine.com/2018/10/17/picos-de-europa-ruta-por-asturias-leon-y-cantabria/)
+{{< reflink path=posts/2018/10/picos-de-europa-ruta-por-asturias-leon-y-cantabria >}}

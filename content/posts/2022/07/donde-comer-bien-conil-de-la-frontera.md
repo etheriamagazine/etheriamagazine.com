@@ -1,7 +1,7 @@
 ---
 title: "Dónde comer bien en Conil de la Frontera, bares y restaurantes recomendados"
 date: 2022-07-22
-coverImage: https://fotos.etheriamagazine.com/2022/07/venta-pericon-conil.jpg
+cover: https://fotos.etheriamagazine.com/2022/07/venta-pericon-conil.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -33,8 +33,7 @@ donde, además de comer, tengas bonitas vistas has llegado al lugar indicado. Ta
 añadiremos un pequeño listado de sitios para desayunar en Conil y pastelerías donde 
 paladear la merienda más dulce. 
 
-**\*No te pierdas:** [10 excursiones ideales desde Conil de la 
-Frontera](https://etheriamagazine.com/2023/08/02/mejores-excursiones-desde-conil/). 
+**\*No te pierdas:** {{< reflink path=posts/2023/08/mejores-excursiones-desde-conil >}}. 
 
 ## Restaurantes clásicos donde comer o cenar bien en Conil
 
@@ -106,16 +105,16 @@ Dónde: c/ Cádiz, 32.
 
 ### 5\. Venta Melchor
 
-De este restaurante ya os hablamos hace unos años (consulta [este artículo de la Ruta 
-del Atún](https://etheriamagazine.com/2018/06/12/ruta-del-atun-rojo-en-cadiz/)) y sigue 
-siendo uno de los imprescindibles para comer bien (muy bien, de hecho) en Conil. Al 
-frente de los fogones está Petri Benítez, que continúa compartiendo su buen hacer a 
-través de recetas tradicionales, guisos conileños y ese punto de creatividad que siempre 
-se agradece. El nombre de “venta” no es fortuito sino que se debe a que está situado en 
-la carretera N-340, a pocos kilómetros de Conil, aunque su nuevo interiorismo nos habla 
-de un lugar con más clase. Merece la pena conducir esos 10 minutos que separan Conil de 
-El Colorado para probar sus tartares de atún rojo, su perdiz de monte encebollada al 
-Pedro Ximénez o su flan de piñones de la dehesa de Roche. No olvides reservar. 
+De este restaurante ya os hablamos hace unos años (consulta {{< reflink 
+path=posts/2018/06/ruta-del-atun-rojo-en-cadiz >}}) y sigue siendo uno de los 
+imprescindibles para comer bien (muy bien, de hecho) en Conil. Al frente de los fogones 
+está Petri Benítez, que continúa compartiendo su buen hacer a través de recetas 
+tradicionales, guisos conileños y ese punto de creatividad que siempre se agradece. El 
+nombre de “venta” no es fortuito sino que se debe a que está situado en la carretera 
+N-340, a pocos kilómetros de Conil, aunque su nuevo interiorismo nos habla de un lugar 
+con más clase. Merece la pena conducir esos 10 minutos que separan Conil de El Colorado 
+para probar sus tartares de atún rojo, su perdiz de monte encebollada al Pedro Ximénez o 
+su flan de piñones de la dehesa de Roche. No olvides reservar. 
 
 Dónde: N. 340, Km 18. El Colorado. Tel. 956 445 007, más info en 
 restauranteventamelchor.com 
@@ -328,11 +327,8 @@ donde encontrarás un buen número de alojamientos al mejor precio.
 
 **También te puede interesar en Conil...** 
 
-[Conoce las 15 playas y calas más deseadas de 
-Conil](https://etheriamagazine.com/2021/02/05/mejores-playas-y-calas-de-conil-de-la-frontera/). 
+{{< reflink path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
 
-[16 planes imprescindibles en Conil con 
-amigas](https://etheriamagazine.com/2021/07/05/los-mejores-planes-en-conil-con-amigas/). 
+{{< reflink path=posts/2021/07/los-mejores-planes-en-conil-con-amigas >}}. 
 
-[15 visitas que hacer en Conil y ninguna es una 
-playa](https://etheriamagazine.com/2022/04/13/guia-de-conil-visitas-gratuitas/).
+{{< reflink path=posts/2022/04/guia-de-conil-visitas-gratuitas >}}.

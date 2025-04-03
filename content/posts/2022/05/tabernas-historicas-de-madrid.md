@@ -1,7 +1,7 @@
 ---
 title: "10 tabernas históricas de Madrid donde tomar el vermú"
 date: 2022-05-20
-coverImage: https://fotos.etheriamagazine.com/2022/05/Casa-alberto.jpg
+cover: https://fotos.etheriamagazine.com/2022/05/Casa-alberto.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -11,10 +11,10 @@ authors:
   - Susana García
 ---
 
-No hay nada más madrileño que tomar el aperitivo de taberna en taberna y dejar que las 
+**No hay nada más madrileño que tomar el aperitivo de taberna en taberna y dejar que las 
 cañas y vermús se sucedan hasta pasada la hora del almuerzo. Aquí te llevamos a 10 
 tabernas históricas de Madrid que nos encantan porque conservan intacta su esencia a 
-través de su decoración, su propuesta gastronómica y sus camareros de toda la vida. 
+través de su decoración, su propuesta gastronómica y sus camareros de toda la vida.** 
 
 ![taberna centenaria de Madrid](https://fotos.etheriamagazine.com/2022/05/Casa-alberto.jpg "Fachada de Casa Alberto. © Susana García/ Etheria Magazine")
 
@@ -207,11 +207,9 @@ Dirección: Calle de Colón, 13. Web: grupoardosa.es
 
 **También te puede interesar** 
 
-[De cañas en Madrid: ruta por el barrio de los Austrias y por el de las 
-Letras](https://etheriamagazine.com/2018/12/28/de-canas-por-el-madrid-de-los-austrias-y-de-las-letras/) 
+{{< reflink path=posts/2018/12/de-canas-por-el-madrid-de-los-austrias-y-de-las-letras 
+>}} 
 
-[Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
-‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/) 
+{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}} 
 
-[Restaurantes peruanos en Madrid con el sello del chef Jhosef 
-Arias](https://etheriamagazine.com/2022/01/24/restaurantes-peruanos-en-madrid-de-jhosef-arias/)
+{{< reflink path=posts/2022/01/restaurantes-peruanos-en-madrid-de-jhosef-arias >}}

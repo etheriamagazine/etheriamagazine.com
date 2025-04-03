@@ -1,7 +1,7 @@
 ---
 title: "Cómo cuidar tu salud íntima, consejos básicos y falsos mitos"
 date: 2023-07-05
-coverImage: https://fotos.etheriamagazine.com/2023/07/depilacion-playa.jpg
+cover: https://fotos.etheriamagazine.com/2023/07/depilacion-playa.jpg
 categories: 
   - bienestar
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Maria Miret
 ---
 
-No, no hace falta que saques brillo a tus genitales antes de una cita o de ir a la 
+**No, no hace falta que saques brillo a tus genitales antes de una cita o de ir a la 
 ginecóloga pero sí es importante cuidar la zona a diario, igual que hacemos con el resto 
 del cuerpo. La hidratación o los ejercicios de suelo pélvico son hábitos saludables que 
 podemos incorporar a nuestra rutina en tiempos en los que la depilación u operarse son 
-tendencia. 
+tendencia.** 
 
 ![Una naranja con forma de vagina para explicar la salud vaginal](https://fotos.etheriamagazine.com/2023/07/salud-vaginal.jpg "La importancia de la salud vaginal. © Alexander Grey")
 
@@ -137,8 +137,7 @@ e intensos.
 
 **También te puede interesar...** 
 
-[Juguetes sexuales, modelos de viaje pequeños y 
-discretos](https://etheriamagazine.com/2022/11/14/juguetes-sexuales-de-viaje/). 
+{{< reflink path=posts/2022/11/juguetes-sexuales-de-viaje >}}. 
 
-[Personas Altamente Sensibles. ¿Es realmente un don la 
-sensibilidad?](https://etheriamagazine.com/2020/11/25/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad/)
+{{< reflink 
+path=posts/2020/11/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}}

@@ -1,7 +1,7 @@
 ---
 title: "Dino Parque Lourinhã, una experiencia familiar entre dinosaurios"
 date: 2018-12-20
-coverImage: https://fotos.etheriamagazine.com/2018/12/Dinoparque-lourinha-viajes-familias-5-e1561371638676.jpg
+cover: https://fotos.etheriamagazine.com/2018/12/Dinoparque-lourinha-viajes-familias-5-e1561371638676.jpg
 categories: 
   - viajar-en-familia
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Dino Parque Lourinhã, situado a unos 60 km de Lisboa, es el mayor museo al aire libre de 
-Portugal, un espacio para aprender y divertirse al mismo tiempo. El extraordinario 
+**Dino Parque Lourinhã, situado a unos 60 km de Lisboa, es el mayor museo al aire libre 
+de Portugal, un espacio para aprender y divertirse al mismo tiempo. El extraordinario 
 realismo de los dinosaurios colocados en su interior aseguran una vivencia excitante que 
-se complementa con talleres y exposiciones. 
+se complementa con talleres y exposiciones.** 
 
 ![entrada Dino Parque Lourinhã](https://fotos.etheriamagazine.com/2018/12/Dinoparque-lourinha-viajes-familias.jpg "Entrada principal a Dino Parque Lourinhã.")
 
@@ -113,15 +113,13 @@ adultos y 1 niño (31,50 €), 2 adultos y 2 niños (39,50 €), 2 adultos y 3 n
 
 ### ¿Dónde puedo conseguir más información?
 
-En los Tel. +351 261 243 160/ +351 915 888 207, y en la web [www.dinoparque.pt](http://www.dinoparque.pt). 
-Si buscas más rutas en Portugal puedes consultar las webs de [Región 
-Centro](http://www.centerofportugal.com) y de [Ruta en 
+En los Tel. +351 261 243 160/ +351 915 888 207, y en la web 
+[www.dinoparque.pt](http://www.dinoparque.pt). Si buscas más rutas en Portugal puedes 
+consultar las webs de [Región Centro](http://www.centerofportugal.com) y de [Ruta en 
 familia](https://www.rutaenfamilia.com/road-trip-con-ninos-por-la-region-centro-de-portugal/). 
 
 ## También te puede interesar:
 
-[Valle del Côa. 8 experiencias en el corazón de 
-Portugal](https://etheriamagazine.com/2020/07/17/valle-del-coa-8-experiencias-en-la-frontera-portugal/) 
+{{< reflink path=posts/2020/07/valle-del-coa-8-experiencias-en-la-frontera-portugal >}} 
 
-[9 planes divertidos en el Centro de Portugal con 
-niños](https://etheriamagazine.com/2019/06/28/planes-divertidos-viajes-familia-portugal/)
+{{< reflink path=posts/2019/06/planes-divertidos-viajes-familia-portugal >}}

@@ -1,7 +1,7 @@
 ---
 title: "10 planes para un viaje a Tenerife con amigas"
 date: 2021-05-17
-coverImage: https://fotos.etheriamagazine.com/2021/05/tenerife-con-amigas-medano.jpg
+cover: https://fotos.etheriamagazine.com/2021/05/tenerife-con-amigas-medano.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -18,15 +18,15 @@ Llega el momento de organizar el verano y es casi imposible que haya algo más a
 
 ## 1\. Senderismo por el Parque Rural de Anaga
 
-En un viaje a Tenerife con amigas no puede faltar una buena ruta de senderismo por el [Parque 
-Rural de 
+En un viaje a Tenerife con amigas no puede faltar una buena ruta de senderismo por el 
+[Parque Rural de 
 Anaga](https://www.webtenerife.com/que-visitar/otros-espacios-naturales/parque+rural+de+anaga.htm), 
 declarado Reserva de la Biosfera, para sumergirse en su frondoso paisaje de laurisilva. 
 Está situado en el noreste de la isla, cerca de Santa Cruz de Tenerife, y combina valles 
 y barrancos que descienden hasta el mar. Si vais por vuestra cuenta, es imprescindible 
 pasar por el **Centro de Visitantes de la Cruz del Carmen** para informaros de las 
-distintas rutas que existen (que son muchas), pero también podéis contratar una [excursión 
-organizada con guía en 
+distintas rutas que existen (que son muchas), pero también podéis contratar una 
+[excursión organizada con guía en 
 Civitatis](https://www.civitatis.com/es/tenerife/senderismo-parque-rural-anaga/?aid=10211). 
 Para terminar la jornada con un rato de playa, os recomendamos la preciosa **playa de 
 arena negra de Benijo**, en la localidad de Taganana, perfecta para ver atardecer. 
@@ -69,8 +69,8 @@ mejor es contratarla con una empresa de turismo activo de la zona.
 
 ![excursiones con amigas en Masca](https://fotos.etheriamagazine.com/2021/05/tenerife-con-amigas-masca.jpg "Vistas desde Masca. © Julia Laslea")
 
-Si decidís ir por vuestra cuenta, tenéis que sacar los permisos en la página del [Barranco 
-de 
+Si decidís ir por vuestra cuenta, tenéis que sacar los permisos en la página del 
+[Barranco de 
 Masca](https://www.caminobarrancodemasca.com/es/actividades/reservar/reserva-tu-visita-al-camino-de-masca). 
 Para llegar a Masca podéis coger un taxi o ir en guagua, por ejemplo desde Santiago del 
 Teide (línea 355), aunque hay autobuses desde otras localidades. Después de recorrer el 
@@ -109,9 +109,9 @@ un ojo a sus sesiones de **Wine & Sex**: cena, cata, espectáculos… ¿os apunt
 ## 6\. Un paseo por La Orotava
 
 La Villa de La Orotava es una visita obligatoria en un viaje a Tenerife con amigas. Ya 
-os contábamos todos sus secretos en el artículo [Descubre la dulzura de La 
-Orotava](https://etheriamagazine.com/2020/06/20/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava/). 
-A nuestras recomendaciones de visitar la Plaza de la Constitución, la iglesia de San 
+os contábamos todos sus secretos en el artículo {{< reflink 
+path=posts/2020/06/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava >}}. A 
+nuestras recomendaciones de visitar la Plaza de la Constitución, la iglesia de San 
 Agustín o la preciosa Casa de los Balcones, sumamos un plan más lúdico: tomar algo en 
 **La Bodeguita de Enfrente**, uno de los lugares preferidos por los canarios. 
 
@@ -140,10 +140,9 @@ yate](https://www.civitatis.com/es/tenerife/paseo-yate-avistamiento-cetaceos/?ai
 Si es tu primer viaje a Tenerife la subida al Teide es imprescindible. Recuerda que el 
 teleférico hay que reservarlo con antelación, pero si improvisáis la excursión no pasa 
 nada porque solo por ver los infinitos paisajes volcánicos de **Parque Nacional del 
-Teide** que rodean el pico merece la pena. Y, si viajáis en primavera, podréis ver el [espectáculo 
-de los tajinastes en 
-flor](https://etheriamagazine.com/2019/05/14/que-ver-tenerife-donde-cuando-tajinaste-en-flor/), 
-una bella y colorida planta endémica de la zona. 
+Teide** que rodean el pico merece la pena. Y, si viajáis en primavera, podréis ver el 
+{{< reflink path=posts/2019/05/que-ver-tenerife-donde-cuando-tajinaste-en-flor >}}, una 
+bella y colorida planta endémica de la zona. 
 
 Para vivir una experiencia única y especial, os recomendamos que reservéis al menos una 
 noche para alojaros en el **Parador de Las Cañadas del Teide**, un hotel de montaña con 
@@ -160,12 +159,11 @@ ver las estrellas en el Teide acompañadas de un guía especializado. No os arre
 
 El sur de la isla es garantía de buen tiempo, así que os recomendamos pasar una jornada 
 de playa y descanso en la zona. Una muy buena opción es ir a la playa del Duque, donde 
-se ubica uno de los mejores hoteles de la isla, el [Bahía del 
-Duque](https://etheriamagazine.com/2019/01/11/donde-dormir-tenerife-hotel-bahia-del-duque/). 
-Podéis comenzar el día con un tratamiento en su spa, el [Bahía Wellness 
-Retreat](https://etheriamagazine.com/2018/06/12/bahia-wellness-retreat-del-hotel-bahia-del-duque/). 
-Y después pasar la jornada en la playa, que es muy cómoda y cuenta con todos los 
-servicios. 
+se ubica uno de los mejores hoteles de la isla, el {{< reflink 
+path=posts/2019/01/donde-dormir-tenerife-hotel-bahia-del-duque >}}. Podéis comenzar el 
+día con un tratamiento en su spa, el {{< reflink 
+path=posts/2018/06/bahia-wellness-retreat-del-hotel-bahia-del-duque >}}. Y después pasar 
+la jornada en la playa, que es muy cómoda y cuenta con todos los servicios. 
 
 Para comer, proponemos dos opciones: algo informal en el Chiringuito o en el restaurante 
 **La Torre del Mirador**, con una carta más amplia y excelente pescado. Si os apetece 
@@ -178,14 +176,13 @@ con excelente cocina canaria (su cherne negro os hará llorar de alegría).
 ## 10\. Excursión a la Gomera
 
 Para las que ya hayáis viajado varias veces a la isla tenemos un plan perfecto: ¿qué os 
-parece una excursión a La Gomera? Podéis embarcar con vuestro coche en los ferry de [Fred 
-Olsen](https://www.fredolsen.es/es) que salen del Puerto de Los Cristianos y, en menos 
-de una hora, estaréis en La Gomera. Una vez aquí, tenéis que recorrer el Parque de 
+parece una excursión a La Gomera? Podéis embarcar con vuestro coche en los ferry de 
+[Fred Olsen](https://www.fredolsen.es/es) que salen del Puerto de Los Cristianos y, en 
+menos de una hora, estaréis en La Gomera. Una vez aquí, tenéis que recorrer el Parque de 
 Garajonay, eso sí ¡preparaos para las curvas! Una buena propuesta para el almuerzo es el 
 restaurante vegetariano La Montaña-Casa Efigenia. Tiene una curiosa historia que os 
-contábamos en el artículo [Efigenia la de Las Hayas y la cocina que hechizó a Angela 
-Merkel en La 
-Gomera](https://etheriamagazine.com/2021/01/06/casa-efigenia-mejor-restaurante-vegetariano-la-gomera/). 
+contábamos en el artículo {{< reflink 
+path=posts/2021/01/casa-efigenia-mejor-restaurante-vegetariano-la-gomera >}}. 
 
 📌 También podéis contratar una [excursión organizada a La Gomera con 
 Civitatis](https://www.civitatis.com/es/tenerife/excursion-la-gomera/?aid=10211), con el 
@@ -193,8 +190,9 @@ ferry, un tour por la isla y el almuerzo incluidos.
 
 ### También te puede interesar:
 
-[Viajes por España: 10 escapadas a las islas para 
-desconectar](https://etheriamagazine.com/2020/09/16/viajes-por-espana-10-escapadas-a-las-islas-que-ver-que-hacer-canarias-baleares/) 
+{{< reflink 
+path=posts/2020/09/viajes-por-espana-10-escapadas-a-las-islas-que-ver-que-hacer-canarias-baleares 
+>}} 
 
-[8 excursiones con niños desde el sur de 
-Tenerife](https://etheriamagazine.com/2020/03/06/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos/)
+{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
+>}}

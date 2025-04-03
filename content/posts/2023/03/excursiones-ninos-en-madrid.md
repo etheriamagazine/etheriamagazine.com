@@ -1,7 +1,7 @@
 ---
 title: "5 excursiones básicas con niños en Madrid"
 date: 2023-03-24
-coverImage: https://fotos.etheriamagazine.com/2023/03/casita-principe-escorial.jpg
+cover: https://fotos.etheriamagazine.com/2023/03/casita-principe-escorial.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Pepa G. Marín
 ---
 
-Divertirse y aprender en una excursión con niños en la Comunidad de Madrid puede ser de 
-lo más sencillo y gratificante si los lugares elegidos cuentan con incentivos adecuados. 
-Entre los muchos planes familiares que se pueden elegir, hemos escogido cinco 
+**Divertirse y aprender en una excursión con niños en la Comunidad de Madrid puede ser 
+de lo más sencillo y gratificante si los lugares elegidos cuentan con incentivos 
+adecuados. Entre los muchos planes familiares que se pueden elegir, hemos escogido cinco 
 excursiones con niños en Madrid con elementos atractivos para los pequeños: un castillo, 
 un palacio, una villa medieval, un monasterio lleno de secretos y un bosque. ¿Por cuál 
-vas a empezar? 
+vas a empezar?** 
 
 ![Casita del Príncipe, en San Lorenzo.](https://fotos.etheriamagazine.com/2023/03/casita-principe-escorial.jpg "Casita del Príncipe, en San Lorenzo de El Escorial. © Etheria Magazine")
 
@@ -28,8 +28,7 @@ de estas recomendaciones en las que no faltan elementos como un castillo, un pal
 bosque, un monasterio y una villa medieval fortificada. 
 
 ✅ **Y si te quedas unos días en la capital**... te vendrán genial las sugerencias de 
-este artículo: [Planes divertidos con adolescentes en 
-Madrid](https://etheriamagazine.com/2022/12/16/planes-adolescentes-madrid/). 
+este artículo: {{< reflink path=posts/2022/12/planes-adolescentes-madrid >}}. 
 
 ## 1\. San Lorenzo de El Escorial y su monasterio
 
@@ -60,13 +59,12 @@ estar bastante lleno (Tel. 918 908 241). Actualmente lo regenta el grupo hostele
 Paco Pastel y es un sitio perfecto para almorzar porque los niños podrán corretear por 
 los jardines antes y después de la comida sin peligro alguno, y su carta de hamburguesas 
 siempre triunfa. Si no consigues mesa, otra opción es el **restaurante merendero El 
-Tomillar** (Carretera de Guadarrama, km 5,8), junto a una zona boscosa y muy cerca del [Insect 
-Park](http://insectpark.es). 
+Tomillar** (Carretera de Guadarrama, km 5,8), junto a una zona boscosa y muy cerca del 
+[Insect Park](http://insectpark.es). 
 
 ✅ **Sobre el monasterio de El Escorial** y todos sus secretos ya os hablamos en este 
-artículo. No dejéis de leerlo: [San Lorenzo de El Escorial, razones escabrosas y 
-sorprendentes por las que visitar su 
-monasterio](https://etheriamagazine.com/2021/04/06/por-que-visitar-monasterio-el-escorial/). 
+artículo. No dejéis de leerlo: {{< reflink 
+path=posts/2021/04/por-que-visitar-monasterio-el-escorial >}}. 
 
 ## 2\. Manzanares el Real y su castillo
 
@@ -176,9 +174,8 @@ de 250 hectáreas cuenta con más de 800 especies de flora y casi 300 de fauna q
 conviven bajo hayas de 500 años y más de veinte metros de altura, acebos, fresnos y 
 robles centenarios. 
 
-✅ **Prepara tu excursión al Hayedo de Montejo** con la información de este artículo: [Hayedo 
-de Montejo, visitas guiadas y gratuitas todo el 
-año](https://etheriamagazine.com/2021/01/15/hayedo-de-montejo-madrid-como-reservar-y-llegar/). 
+✅ **Prepara tu excursión al Hayedo de Montejo** con la información de este artículo: {{< 
+reflink path=posts/2021/01/hayedo-de-montejo-madrid-como-reservar-y-llegar >}}. 
 
 ![Excursion con niños en Madrid al Hayedo de Montejo](https://fotos.etheriamagazine.com/2021/01/visitas-hayedo-montejo.jpg "Hayedo de Montejo en familia. © Etheria M.")
 
@@ -190,5 +187,5 @@ probar la comida tradicional, una buena referencia es el **Mesón El Hayedo**. T
 asegurar que de allí no vais a salir con hambre. Chuletones, judiones de la sierra, 
 chuletas de cordero, huevos estrellados, tarta de queso... 
 
-✅ **No te pierdas:** [Sierra del Rincón, una bonita escapada a los pueblos y hayedos de 
-Madrid](https://etheriamagazine.com/2020/09/15/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid/)
+✅ **No te pierdas:** {{< reflink 
+path=posts/2020/09/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid >}}

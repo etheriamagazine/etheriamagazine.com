@@ -1,17 +1,17 @@
 ---
 title: "10 gadgets para regalar a amigas viajeras"
 date: 2020-04-23
-coverImage: https://fotos.etheriamagazine.com/2020/04/regalos-madre-viajera.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/regalos-madre-viajera.jpg
 destino: 
   - Mundo
 authors: 
   - Redacción Etheria
 ---
 
-Si tienes una amiga o una madre viajera te damos ideas que puedes comprar online y 
+**Si tienes una amiga o una madre viajera te damos ideas que puedes comprar online y 
 quedar fenomenal. Y si la viajera eres tú, quizá te sirva para dar pistas e iluminar a 
 tu familia en tu próximo cumpleaños. Elige entre estos 10 gadgets perfectos para 
-regalar. 
+regalar.** 
 
 ![gadgets para viajeras](https://fotos.etheriamagazine.com/2020/04/regalos-madre-viajera.jpg "Regalos para viajeras.")
 
@@ -105,11 +105,11 @@ con un masaje en la zona dolorida. Ésta además incluye función calor.
 
 ### 9\. Altavoz de viaje
 
-Si tu madre no puede vivir sin música, es imprescindible que viaje acompañada de un [altavoz 
-portátil](https://amzn.to/3UW5yMO). La marca Sony es garantía de calidad, y cuenta con 
-un pequeño altavoz que además es muy cuco y está disponible en varios colores. Cuenta 
-con una correa para llevarlo sujeto al bolso o a la mochila y tiene un tamaño muy 
-manejable. 
+Si tu madre no puede vivir sin música, es imprescindible que viaje acompañada de un 
+[altavoz portátil](https://amzn.to/3UW5yMO). La marca Sony es garantía de calidad, y 
+cuenta con un pequeño altavoz que además es muy cuco y está disponible en varios 
+colores. Cuenta con una correa para llevarlo sujeto al bolso o a la mochila y tiene un 
+tamaño muy manejable. 
 
 ![Altavoz de viaje verde.](https://fotos.etheriamagazine.com/2020/04/altavoz-portatil.jpg "Altavoz de viaje de Sony.")
 
@@ -125,8 +125,8 @@ para volver a utilizarlas. Existen varios tamaños y colores.
 
 ## También te puede interesar:
 
-[10 gadgets (+ 1 frikada) imprescindibles en tus 
-viajes](https://etheriamagazine.com/2019/10/26/10-gadgets-frikis-imprescindibles-en-tus-viajes/) 
+{{< reflink path=posts/2019/10/10-gadgets-frikis-imprescindibles-en-tus-viajes >}} 
 
-[5 consejos para hacer un álbum de fotos digital y no morir en el 
-intento](https://etheriamagazine.com/2020/04/02/5-consejos-para-hacer-un-album-de-fotos-digital-fotografia-de-viajes/)
+{{< reflink 
+path=posts/2020/04/5-consejos-para-hacer-un-album-de-fotos-digital-fotografia-de-viajes 
+>}}

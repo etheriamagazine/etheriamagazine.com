@@ -1,7 +1,7 @@
 ---
 title: "Dorothea Hotel, Budapest, Autograph Collection, nuevo hotel de lujo en la capital húngara"
 date: 2023-12-01
-coverImage: https://fotos.etheriamagazine.com/2023/11/budapest-hotel-dorothea-hall.jpg
+cover: https://fotos.etheriamagazine.com/2023/11/budapest-hotel-dorothea-hall.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Nos vamos al Dorothea Hotel, un precioso alojamiento cinco estrellas que ocupa tres 
+**Nos vamos al Dorothea Hotel, un precioso alojamiento cinco estrellas que ocupa tres 
 edificios históricos en el corazón de Budapest. Un lugar perfecto para disfrutar de esta 
 ciudad centroeuropea llena de contenido histórico y artístico desde un hotel de lujo que 
-sumará muchos puntos a tu viaje. 
+sumará muchos puntos a tu viaje.** 
 
 ![exterior del hotel Dorothea de Budapest.](https://fotos.etheriamagazine.com/2023/11/budapest-dorothea-hotel-exterior.jpg "Dorothea Hotel, Budapest, Autograph Collection.")
 
@@ -110,8 +110,6 @@ Dorottya utca 2, Budapest, 1051. Tel. +36 1 884 5100.
 
 **También te puede interesar:** 
 
-[Budapest en Navidad: mercadillos, visitas básicas y consejos para 
-ahorrar](https://etheriamagazine.com/2021/12/13/mercadillos-de-navidad-en-budapest/) 
+{{< reflink path=posts/2021/12/mercadillos-de-navidad-en-budapest >}} 
 
-[Budapest con amigas, imprescindibles para un fin de 
-semana](https://etheriamagazine.com/2019/10/25/que-ver-viaje-amigas-budapest-en-3-dias/)
+{{< reflink path=posts/2019/10/que-ver-viaje-amigas-budapest-en-3-dias >}}

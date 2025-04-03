@@ -1,7 +1,7 @@
 ---
 title: "Ruta en coche para recorrer la Toscana en 7 días"
 date: 2021-06-01
-coverImage: https://fotos.etheriamagazine.com/2018/05/Toscana-coche-montalcino.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Toscana-coche-montalcino.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -25,14 +25,14 @@ ideas para combinar varias localidades en las excursiones, pero esta región mer
 varios viajes para conocerla en profundidad. Seguro que cuando vuelvas ya estás pensado 
 en el siguiente. 
 
-Un buen punto de partida para un viaje por el centro de la Toscana es [Florencia](https://etheriamagazine.com/2018/05/16/48-horas-en-florencia/), 
-la gran ciudad del arte. Aquí es imposible renunciar a una parada para descubrir su 
-imponente catedral, sus animadas calles, el maravilloso Ponte Vecchio y esas obras de 
-arte que tenemos todos en la retina gracias a los libros y que es un privilegio poder 
-ver en persona: el David de Miguel Ángel, los tesoros de la Galería de los Uffizi… Puede 
-combinarse una estancia en la ciudad con unas noches en alguno de los borgos y hoteles 
-rurales que salpican toda la Toscana, perfectos para realizar excursiones a los pueblos 
-cercanos. 
+Un buen punto de partida para un viaje por el centro de la Toscana es {{< reflink 
+path=posts/2018/05/48-horas-en-florencia-fin-de-semana-que-ver-hacer >}}, la gran ciudad 
+del arte. Aquí es imposible renunciar a una parada para descubrir su imponente catedral, 
+sus animadas calles, el maravilloso Ponte Vecchio y esas obras de arte que tenemos todos 
+en la retina gracias a los libros y que es un privilegio poder ver en persona: el David 
+de Miguel Ángel, los tesoros de la Galería de los Uffizi… Puede combinarse una estancia 
+en la ciudad con unas noches en alguno de los borgos y hoteles rurales que salpican toda 
+la Toscana, perfectos para realizar excursiones a los pueblos cercanos. 
 
 ![Plaza de Duomo en Pisa](https://fotos.etheriamagazine.com/2018/05/TOSCANA-PISA-e1552555010206.jpg "Plaza del Duomo en Pisa. © SG")
 
@@ -144,39 +144,37 @@ iglesia de San Agostino o la Logia gótica de Il Capellone.
 
 ### CONSEJOS ETHERIA
 
-• Esta ruta está pensada **para realizarse en una semana**, tres noches en Florencia y 
+- Esta ruta está pensada **para realizarse en una semana**, tres noches en Florencia y 
 cuatro en un hotel de Toscana. Las distancias entre ciudades y pueblos no son de muchos 
 kilómetros, pero las carreteras son sinuosas y requieren tiempo, aunque esto permite 
 disfrutar mejor del paisaje. Si se quiere visitar la zona este de Arezzo y Cortona o la 
 zona sur en torno a Grosseto se necesitan más días. También si en el norte se quieren 
 visitar Pistoia o Prato. 
 
-• En los pueblos y ciudades hay **aparcamientos** bien señalizados fuera del casco 
+- En los pueblos y ciudades hay **aparcamientos** bien señalizados fuera del casco 
 histórico donde hay que dejar el coche y continuar la visita a pie. 
 
-• La Toscana está llena de pequeñas **carreteras secundarias** y el navegador ofrece 
+- La Toscana está llena de pequeñas **carreteras secundarias** y el navegador ofrece 
 siempre más de una alternativa para una ruta. Lo mejor es elegir rutas distintas para la 
 ida y la vuelta y así no perderse ningún detalle del camino. 
 
-• La **Torre Inclinada de Pisa tiene un número limitado de visitantes** en cada turno de 
-subida. Lo mejor es reservar en la web del conjunto catedralicio las [entradas](http://www.opapisa.it/biglietti/acquista/) 
-(que pueden ser combinadas para visitar otros monumentos de la Piazza dei Miracoli). 
-Salen a la venta 20 días antes. Los niños menores de 8 años no pueden subir a la torre 
-pero sí visitar el resto de monumentos. 
+- La **Torre Inclinada de Pisa tiene un número limitado de visitantes** en cada turno de 
+subida. Lo mejor es reservar en la web del conjunto catedralicio las 
+[entradas](http://www.opapisa.it/biglietti/acquista/) (que pueden ser combinadas para 
+visitar otros monumentos de la Piazza dei Miracoli). Salen a la venta 20 días antes. Los 
+niños menores de 8 años no pueden subir a la torre pero sí visitar el resto de 
+monumentos. 
 
 ![viaje a Toscana](https://fotos.etheriamagazine.com/2021/01/hotele-lujo-Borgo-Santo-Prieto.jpg "Panorámica del © Borgo Santo Pietro")
 
-• En Toscana hay alojamientos de todo tipo desde turismo rural hasta borgos de lujo. Uno 
+- En Toscana hay alojamientos de todo tipo desde turismo rural hasta borgos de lujo. Uno 
 de ellos es [Borgo Santo Pietro](http://www.borgosantopietro.com) (5\* L), ubicado en un 
 lugar perfecto para realizar excursiones por los alrededores. 
 
 ### También te puede interesar:
 
-[La Ruta Puccini. La Toscana sin masificación turística es posible (y 
-maravillosa)](https://etheriamagazine.com/2019/09/11/como-hacer-la-ruta-puccini-en-la-toscana-italia/) 
+{{< reflink path=posts/2019/09/como-hacer-la-ruta-puccini-en-la-toscana-italia >}} 
 
-[Un día en Lucca, una parada obligada en la 
-Toscana](https://etheriamagazine.com/2019/02/18/que-ver-en-lucca/) 
+{{< reflink path=posts/2019/02/que-ver-en-lucca >}} 
 
-[Nueve paseos a la italiana por los jardines más bellos de 
-Florencia](https://etheriamagazine.com/2021/05/21/paseos-por-los-jardines-mas-bellos-de-florencia/)
+{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}

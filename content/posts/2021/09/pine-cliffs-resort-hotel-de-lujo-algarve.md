@@ -1,7 +1,7 @@
 ---
 title: "Pine Cliffs Resort, un hotel de lujo para un viaje con niños al Algarve"
 date: 2021-09-08
-coverImage: https://fotos.etheriamagazine.com/2021/09/pine-cliffs-resort-champagne-bar.jpg
+cover: https://fotos.etheriamagazine.com/2021/09/pine-cliffs-resort-champagne-bar.jpg
 categories: 
   - viajar-en-familia
   - hoteles
@@ -170,11 +170,10 @@ Fotografías cedidas por © Pine Cliffs Resort.
 
 ### También te puede interesar...
 
-[Playas del Algarve, descubre sus tesoros menos 
-masificados](https://etheriamagazine.com/2020/06/19/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve/) 
+{{< reflink path=posts/2020/06/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve 
+>}} 
 
-[18 experiencias en el Algarve para mujeres 
-viajeras](https://etheriamagazine.com/2020/08/07/18-experiencias-si-viajas-sola-al-algarve/) 
+{{< reflink path=posts/2020/08/18-experiencias-si-viajas-sola-al-algarve >}} 
 
-[Ruta Vicentina, senderismo en Alentejo y 
-Algarve](https://etheriamagazine.com/2018/07/25/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal/)
+{{< reflink 
+path=posts/2018/07/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal >}}

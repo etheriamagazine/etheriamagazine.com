@@ -1,7 +1,7 @@
 ---
 title: "Date un capricho cinco estrellas en el hotel Mandarin Oriental Milan"
 date: 2021-03-10
-coverImage: https://fotos.etheriamagazine.com/2021/03/hotel-oriental-mandarin-milan-fachada.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/hotel-oriental-mandarin-milan-fachada.jpg
 categories: 
   - hoteles
 destino: 
@@ -101,11 +101,8 @@ Fotografías cedidas por Mandarin Oriental Group.
 
 ### También podría interesarte
 
-[Viaja con amigas a Turín, la ciudad más supersticiosa de 
-Italia.](https://etheriamagazine.com/2019/12/16/que-ver-en-turin-en-un-viaje-con-amigas/) 
+{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}} 
 
-[Ruta en coche por la 
-Toscana.](https://etheriamagazine.com/2018/05/10/toscana-en-coche/) 
+{{< reflink path=posts/2021/06/toscana-en-coche >}} 
 
-[Borgo Santo Pietro o el hotel donde te querrás quedar a vivir en la 
-Toscana.](https://etheriamagazine.com/2020/04/14/hotel-lujo-toscana-borgo-santo-pietro/)
+{{< reflink path=posts/2020/04/hotel-lujo-toscana-borgo-santo-pietro >}}

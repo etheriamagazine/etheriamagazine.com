@@ -1,7 +1,7 @@
 ---
 title: "Okinawa, el secreto mejor guardado de Japón"
 date: 2019-04-05
-coverImage: https://fotos.etheriamagazine.com/2019/04/okinawa-boda-japon.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/okinawa-boda-japon.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -130,45 +130,46 @@ para ser disfrutada también en pareja.
 
 ### Cómo llegar a Okinawa
 
-• Consulta vuelos y frecuencias con Iberia (el vuelo directo a Tokio dura 13 horas y 25 
+- Consulta vuelos y frecuencias con Iberia (el vuelo directo a Tokio dura 13 horas y 25 
 minutos), Air France y Finnair. Una vez Tokio, All Nippon Airways (ANA), la aerolínea 
 nacional, es la mejor opción para llegar hasta **Miyako** e **Ishigaki** desde Osaka o 
 Tokio y también entre islas. 
 
 ### Dónde alojarse en Okinawa
 
-• En **Miyako**: el resort Shigira (nanseirakuen.com) ofrece diferentes tipos de 
+- En **Miyako**: el resort Shigira (nanseirakuen.com) ofrece diferentes tipos de 
 alojamientos según las necesidades de los huéspedes. Allamanda Shigira Bayside Suite 
 consiste en suites de lujo algunas con piscina privada, mientras que The Shigira son 10 
 villas –todas con piscina privada-. 
 
-• En **Taketomi**: si quieres experimentar el auténtico estilo de vida okinawense el 
+- En **Taketomi**: si quieres experimentar el auténtico estilo de vida okinawense el 
 **Hoshinoya Okinawa** es tu resort. Inspiradas en la arquitectura tradicional y el 
 estilo de vida de la isla, sus suites son un verdadero oasis de tranquilidad y su 
 gastronomía te permitirá descubrir nuevos sabores y texturas. 
 
 ### Consejos de viaje
 
-• Si alquilas un coche para desplazarte por las islas es importante saber que se conduce 
+- Si alquilas un coche para desplazarte por las islas es importante saber que se conduce 
 por la izquierda. \- No se suelen dejar propinas, con decir “arigato” (gracias) es 
-suficiente. • No se pueden sacar de las islas determinados productos para evitar la 
-propagación de parásitos. El transporte de ciertas plantas fuera de Okinawa está 
-regulado por la ley, como la batata, las hojas de jazmín o de cítricos, por lo que 
-saltárselas puede acarrear sanciones. \-Muchas tiendas no aceptan tarjetas de crédito, 
-asegúrate de llevar dinero en metálico. • El voltaje en Japón es de 100 V y 60 Hz. Es 
-conveniente llevarse un adaptador de enchufes. 
+suficiente. 
+
+- No se pueden sacar de las islas determinados productos para evitar la propagación de 
+parásitos. El transporte de ciertas plantas fuera de Okinawa está regulado por la ley, 
+como la batata, las hojas de jazmín o de cítricos, por lo que saltárselas puede acarrear 
+sanciones. \-Muchas tiendas no aceptan tarjetas de crédito, asegúrate de llevar dinero 
+en metálico. 
+
+- El voltaje en Japón es de 100 V y 60 Hz. Es conveniente llevarse un adaptador de 
+enchufes. 
 
 Más información en [Turismo de Japón](https://www.turismo-japon.es/) 
 
 **✅ También te puede interesar en Japón...** 
 
-[5 recomendaciones para preparar un viaje a 
-Japón](https://etheriamagazine.com/2019/06/18/como-organizar-un-viaje-a-japon/). 
+{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}}. 
 
-[La experiencia de alojarse en un Ryokan en 
-Japón](https://etheriamagazine.com/2019/05/10/viajar-japon-que-es-ryokan-y-onsen/). 
+{{< reflink path=posts/2019/05/viajar-japon-que-es-ryokan-y-onsen >}}. 
 
-[¡Vamos a comernos Japón!](https://etheriamagazine.com/2018/10/09/que-comer-en-japon/) 
+{{< reflink path=posts/2018/10/que-comer-en-japon >}} 
 
-[10 actividades para un viaje en familia a 
-Japón](https://etheriamagazine.com/2019/11/21/10-actividades-para-un-viaje-en-familia-a-japon/).
+{{< reflink path=posts/2019/11/10-actividades-para-un-viaje-en-familia-a-japon >}}.

@@ -1,7 +1,7 @@
 ---
 title: "La ruta de Lola Flores en Madrid a tu aire (con plano incluido)"
 date: 2024-04-11
-coverImage: https://fotos.etheriamagazine.com/2024/04/lola-flores-mapa-ruta.jpg
+cover: https://fotos.etheriamagazine.com/2024/04/lola-flores-mapa-ruta.jpg
 categories: 
   - viajar-sola
   - mujeres-top
@@ -100,8 +100,8 @@ Las dos últimas etapas de esta ruta tienen que ver con el final de la artista, 
 mayo de 1995. El **Teatro Fernán Gómez. Centro Cultural de la Villa**, en la plaza de 
 Colón, donde se instaló su capilla ardiente, por la que pasaron más de 150.000 personas. 
 La importancia de su figura hizo que su funeral fuera retransmitido por la televisión en 
-directo y que su entierro en [La 
-Almudena](https://etheriamagazine.com/2019/10/30/necroturismo-que-ver-visitas-guiadas-cementerio-almudena-madrid/) 
+directo y que su entierro en {{< reflink 
+path=posts/2019/10/necroturismo-que-ver-visitas-guiadas-cementerio-almudena-madrid >}} 
 se convirtiera en uno de los más multitudinarios que se recuerdan. La última para es, 
 precisamente, en este cementerio, en el **Mausoleo** dedicado a ella y a su hijo Antonio 
 Flores, que murió a los 33 años dos semanas después de Lola. 
@@ -109,8 +109,9 @@ Flores, que murió a los 33 años dos semanas después de Lola.
 **Más información:** 
 
 El mapa se distribuye en los puntos de información turística municipales, bibliotecas y 
-centros culturales de la capital y está disponible en [esMADRID.com](https://www.madrid-destino.com/mapas-culturales-ilustrados) 
-y en [Madrid Destino](https://www.madrid-destino.com/mapas-culturales-ilustrados). 
+centros culturales de la capital y está disponible en 
+[esMADRID.com](https://www.madrid-destino.com/mapas-culturales-ilustrados) y en [Madrid 
+Destino](https://www.madrid-destino.com/mapas-culturales-ilustrados). 
 
 \*Descarga el [plano en PDF de la Ruta de Lola Flores en 
 Madrid](https://www.madrid-destino.com/sites/default/files/2024-02/mapa_ilustrado_lola_flores_es_en.pdf) 
@@ -118,8 +119,6 @@ a tu móvil u ordenador en el link anterior.
 
 ****También en Etheria Magazine****: 
 
-[Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
-‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/) 
+{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}} 
 
-[10 tabernas históricas de Madrid donde tomar el 
-vermú](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/)
+{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}}

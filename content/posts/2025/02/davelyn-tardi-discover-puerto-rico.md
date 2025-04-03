@@ -1,7 +1,7 @@
 ---
 title: "Davelyn Tardi, una voz femenina al frente de la comunicación en Discover Puerto Rico"
 date: 2025-02-05
-coverImage: https://fotos.etheriamagazine.com/2025/02/Davelyn-Tardi-Puerto-Rico-naturaleza.jpg
+cover: https://fotos.etheriamagazine.com/2025/02/Davelyn-Tardi-Puerto-Rico-naturaleza.jpg
 categories: 
   - mujeres-top
 destino: 

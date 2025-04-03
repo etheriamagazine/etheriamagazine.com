@@ -1,7 +1,7 @@
 ---
 title: "Zadar, la ciudad con el atardecer más bello del mundo"
 date: 2019-06-21
-coverImage: https://fotos.etheriamagazine.com/2019/06/viaje-zadar-croacia-atardecer.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/viaje-zadar-croacia-atardecer.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -155,11 +155,9 @@ Más información en [Turismo de Zadar](http://www.zadar.travel).
 
 ## Sigue leyendo sobre Croacia
 
-[Croacia: consejos y visitas imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2021/01/22/viaje-a-croacia-como-organizar-que-ver-hacer/). 
+{{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}}. 
 
-[10 razones para viajar a Croacia con amigas este 
-verano](https://etheriamagazine.com/2019/07/17/10-razones-para-viajar-con-amigas-a-croacia/). 
+{{< reflink path=posts/2019/07/10-razones-para-viajar-con-amigas-a-croacia >}}. 
 
-[10 razones para visitar en otoño el Parque Nacional Lagos de Plitvice 
-(Croacia)](https://etheriamagazine.com/2018/10/05/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia/).
+{{< reflink path=posts/2018/10/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia 
+>}}.

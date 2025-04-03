@@ -1,7 +1,7 @@
 ---
 title: "AC Hotel Lima Miraflores, una atractiva propuesta en la capital de Perú"
 date: 2020-02-27
-coverImage: https://fotos.etheriamagazine.com/2020/02/AC-Lima-Insumo-Rooftop.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/AC-Lima-Insumo-Rooftop.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-La cadena de hoteles AC Marriot ha apostado por inaugurar nuevos hoteles en las 
+**La cadena de hoteles AC Marriot ha apostado por inaugurar nuevos hoteles en las 
 capitales sudamericanas de Lima, Bogotá y Santiago de Chile. Aquí te contamos por qué el 
 AC Hotel Lima Miraflores es una excelente opción para iniciar o terminar un viaje por 
-Perú. 
+Perú.** 
 
 ![Fachada del AC Lima Miraflores](https://fotos.etheriamagazine.com/2020/02/AC_Lima-fachada-Miraflores.jpg "Fachada del AC Lima Miraflores.")
 
@@ -75,8 +75,6 @@ Fotografías cedias por ©AC Marriot.
 
 📌 **También te puede interesar:** 
 
-[Un viaje apasionante con amigas por el sur de 
-Perú](https://etheriamagazine.com/2019/11/01/mujeres-que-viajan-solas-amigas-peru/) 
+{{< reflink path=posts/2019/11/mujeres-que-viajan-solas-amigas-peru >}} 
 
-[Restaurantes peruanos en Madrid con el sello del chef Jhosef 
-Arias](https://etheriamagazine.com/2022/01/24/restaurantes-peruanos-en-madrid-de-jhosef-arias/)
+{{< reflink path=posts/2022/01/restaurantes-peruanos-en-madrid-de-jhosef-arias >}}

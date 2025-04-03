@@ -1,7 +1,7 @@
 ---
 title: "Exposiciones y más para celebrar con Valencia el Año Sorolla"
 date: 2023-09-15
-coverImage: https://fotos.etheriamagazine.com/2023/09/valencia-sorolla-exposicion-inmersiva-azul.jpg
+cover: https://fotos.etheriamagazine.com/2023/09/valencia-sorolla-exposicion-inmersiva-azul.jpg
 categories: 
   - cultura
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Etheria Magazine
 ---
 
-Valencia lleva todo 2023 dedicada a conmemorar el centenario de la muerte de su pintor 
+**Valencia lleva todo 2023 dedicada a conmemorar el centenario de la muerte de su pintor 
 más ilustre. No pierdas la oportunidad de acercarte a esta ciudad este otoño y visitar 
 las exposiciones y eventos relacionados con Joaquín Sorolla, te saldrá una escapada de 
-diez. 
+diez.** 
 
 ![Retratos de Sorolla en la exposición inmersiva "Sorolla, una nueva dimensión".](https://fotos.etheriamagazine.com/2023/09/sorolla-exposicion-inmersiva-retratos.jpg "Retratos de Sorolla en la exposición inmersiva "Sorolla, una nueva dimensión". © Susana García")
 
@@ -31,9 +31,10 @@ La ciudad de Valencia se identifica tanto con la figura de este genial artista q
 además de las exposiciones sobre Sorolla, ha colaborado con el grupo valenciano 
 Seguridad Social para crear una canción que refleje esa luz mediterránea que fue el 
 motor del pintor y que enamora a todos los que acuden a la ciudad. La canción inédita 
-"Todo es luz" es un auténtico canto a la alegría y su [videoclip](https://www.youtube.com/watch?v=JZCGFxXXoiE&t=1s) 
-se ha inspirado en la figura de Joaquín Sorolla y muestra además alguno de los lugares 
-más icónicos de la ciudad. 
+"Todo es luz" es un auténtico canto a la alegría y su 
+[videoclip](https://www.youtube.com/watch?v=JZCGFxXXoiE&t=1s) se ha inspirado en la 
+figura de Joaquín Sorolla y muestra además alguno de los lugares más icónicos de la 
+ciudad. 
 
 ## Planes para celebrar el Año Sorolla en Valencia
 
@@ -160,11 +161,9 @@ con materiales sostenibles y reciclados. Se expondrán en el **Edificio del Relo
 
 **También te puede interesar:** 
 
-[Guía esencial de Valencia, imprescindibles en una ciudad que mira al 
-futuro](https://etheriamagazine.com/2022/10/03/que-ver-valencia/) 
+{{< reflink path=posts/2022/10/que-ver-valencia >}} 
 
-[Planes originales para disfrutar de Valencia con 
-amigas](https://etheriamagazine.com/2020/09/18/planes-originales-valencia-con-amigas/) 
+{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}} 
 
-[Qué ver en Valencia, un paseo entre diseño y 
-tiendas](https://etheriamagazine.com/2020/03/26/valencia-propuestas-para-todos-en-la-ciudad-del-diseno/)
+{{< reflink path=posts/2020/03/valencia-propuestas-para-todos-en-la-ciudad-del-diseno 
+>}}

@@ -1,7 +1,7 @@
 ---
 title: "Sevilla, la escapada perfecta a la andaluza"
 date: 2019-02-04
-coverImage: https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-Aire-Sevilla.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-Aire-Sevilla.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Macarena Escrivá
 ---
 
-La Feria de Abril, la Semana Santa, el Rocío... Sevilla es una fiesta permanente y no 
+**La Feria de Abril, la Semana Santa, el Rocío... Sevilla es una fiesta permanente y no 
 importa si hay un gran acontecimiento o simplemente se plantea como una escapada de fin 
 de semana, nunca defrauda. Lo pasarás bien tanto si decides viajar con amigas a Sevilla 
-como si quieres hacer una escapada sola. 
+como si quieres hacer una escapada sola.** 
 
 ![la catedral de Sevilla al anochecer desde una piscina](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-Aire-Sevilla.jpg "© Aire Ancient Baths de Sevilla.")
 
@@ -140,8 +140,6 @@ Sevilla** como telón de fondo.
 
 ## También te puede interesar:
 
-[10 planes originales con amigas en 
-Sevilla](https://etheriamagazine.com/2020/09/28/10-mejores-planes-en-sevilla-con-amigas-o-pareja/) 
+{{< reflink path=posts/2020/09/10-mejores-planes-en-sevilla-con-amigas-o-pareja >}} 
 
-[¿Qué esconde Caminos de Pasión? 10 experiencias andaluzas para una Semana Santa 
-auténtica](https://etheriamagazine.com/2022/04/04/semana-santa-caminos-de-pasion/)
+{{< reflink path=posts/2022/04/semana-santa-caminos-de-pasion >}}

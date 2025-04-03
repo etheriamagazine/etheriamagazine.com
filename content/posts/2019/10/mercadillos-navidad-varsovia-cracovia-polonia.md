@@ -1,7 +1,7 @@
 ---
 title: "Mercadillos navideños de Varsovia y Cracovia, un viaje a la magia de la Navidad"
 date: 2019-10-30
-coverImage: https://fotos.etheriamagazine.com/2019/10/polonia-luces-fuente-navidad-varsovia.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/polonia-luces-fuente-navidad-varsovia.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -267,11 +267,8 @@ Más información en [Turismo de Polonia.](https://www.polonia.travel/es/)
 
 **También te puede interesar** 
 
-[5 razones por las que Polonia es una buena elección en Navidad frente a otros destinos 
-europeos](https://etheriamagazine.com/2019/11/05/5-razones-para-visitar-polonia-en-navidad/). 
+{{< reflink path=posts/2019/11/5-razones-para-visitar-polonia-en-navidad >}}. 
 
-[Tres rutas para recorrer Varsovia, una ciudad 
-sorprendente](https://etheriamagazine.com/2021/03/05/que-ver-en-varsovia-en-tres-rutas-originales/). 
+{{< reflink path=posts/2021/03/que-ver-en-varsovia-en-tres-rutas-originales >}}. 
 
-[Descubre Zakopane, su arquitectura de madera, sabores y estaciones de 
-esquí](https://etheriamagazine.com/2021/01/27/que-ver-en-zakopane-viaje-original-polonia/).
+{{< reflink path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}}.

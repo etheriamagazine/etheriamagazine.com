@@ -1,7 +1,7 @@
 ---
 title: "Christina Dodwell, la gran exploradora de los siglos XX y XXI"
 date: 2018-06-01
-coverImage: https://fotos.etheriamagazine.com/2018/06/Christina-Dodwell-2.jpg
+cover: https://fotos.etheriamagazine.com/2018/06/Christina-Dodwell-2.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Manena Munar
 ---
 
-Si los cielos de Madrid gozan de merecida fama, la luz de aquel atardecer primaveral era 
-un espectáculo. Quizás se preparaba para recibir como merece a la exploradora británica 
-Christina Dodwell. 
+**Si los cielos de Madrid gozan de merecida fama, la luz de aquel atardecer primaveral 
+era un espectáculo. Quizás se preparaba para recibir como merece a la exploradora 
+británica Christina Dodwell.** 
 
 ![La británica Christina Dodwell es la gran exploradora de los siglos XX-XXI](https://fotos.etheriamagazine.com/2018/06/Christina-Dodwell-2.jpg "Christina Dodwell, la gran exploradora de los siglos XX-XXI.")
 
@@ -102,5 +102,4 @@ Esta historia ocurrió hace ya algunos años, no por eso deja de ser actual.
 
 **También te puede interesar...** 
 
-[Mujeres viajeras que, rompiendo moldes, hicieron las 
-maletas](https://etheriamagazine.com/2022/03/08/mujeres-viajeras-de-la-historia/).
+{{< reflink path=posts/2022/03/mujeres-viajeras-de-la-historia >}}.

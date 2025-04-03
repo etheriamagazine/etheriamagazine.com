@@ -1,7 +1,7 @@
 ---
 title: "Gijón: una gastroescapada que te dejará muy buen sabor de boca"
 date: 2021-01-25
-coverImage: https://fotos.etheriamagazine.com/2021/01/viaje-con-amigas-gijon.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/viaje-con-amigas-gijon.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -11,10 +11,10 @@ authors:
   - Alicia Bea
 ---
 
-La potente gastronomía de Gijón es la excusa perfecta para escaparte a la ciudad más 
+**La potente gastronomía de Gijón es la excusa perfecta para escaparte a la ciudad más 
 vibrante y deliciosa de Asturias. Convoca a tus amigas y deja que brille la _foodie_ que 
 llevas dentro con las tentaciones que te proponemos en Etheria Magazine. Un placer para 
-los sentidos con el Cantábrico como telón de fondo. 
+los sentidos con el Cantábrico como telón de fondo.** 
 
 ![puerto de gijon](https://fotos.etheriamagazine.com/2021/01/viaje-con-amigas-gijon.jpg "Gijón, un destino para comérselo.")
 
@@ -196,11 +196,9 @@ playa de San Lorenzo.
 
 **También te puede interesar...** 
 
-[Descubre la belleza de la Costa de Llanes en 48 
-horas](https://etheriamagazine.com/2020/08/17/mejores-playas-llanes-costa-asturias/). 
+{{< reflink path=posts/2020/08/mejores-playas-llanes-costa-asturias >}}. 
 
-[Vigo, ¿por qué estás tan rematadamente 
-bueno?](https://etheriamagazine.com/2020/11/24/comer-en-vigo-mejores-restaurantes-furanchos/) 
+{{< reflink path=posts/2020/11/comer-en-vigo-mejores-restaurantes-furanchos >}} 
 
-[Lugares sorprendentes de Cantabria que aún no 
-conoces](https://etheriamagazine.com/2020/06/05/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original/).
+{{< reflink 
+path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}}.

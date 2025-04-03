@@ -1,7 +1,7 @@
 ---
 title: "NH Collection Dubai The Palm, un hotel perfecto para descubrir los Emiratos Árabes"
 date: 2024-03-06
-coverImage: https://fotos.etheriamagazine.com/2024/03/NH-Collection-Dubai-The_Palm-pisicna-.jpg
+cover: https://fotos.etheriamagazine.com/2024/03/NH-Collection-Dubai-The_Palm-pisicna-.jpg
 categories: 
   - hoteles
 destino: 
@@ -113,5 +113,4 @@ Palm Jumeirah, Dubái, Emiratos Árabes Unidos. Tel. +971 4 549 7777.
 
 **También te puede interesar:** 
 
-[Dubái con niños: 8 actividades para disfrutar en familia y una 
-novedad](https://etheriamagazine.com/2022/02/25/dubai-con-ninos-actividades-y-excursiones/)
+{{< reflink path=posts/2022/02/dubai-con-ninos-actividades-y-excursiones >}}

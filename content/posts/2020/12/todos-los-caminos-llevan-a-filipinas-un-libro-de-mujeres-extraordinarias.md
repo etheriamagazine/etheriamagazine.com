@@ -1,7 +1,7 @@
 ---
 title: "'Todos los caminos llevan a Filipinas', un libro de mujeres extraordinarias"
 date: 2020-12-11
-coverImage: https://fotos.etheriamagazine.com/2020/12/mujeres-filipinas-Anna-Balcells.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/mujeres-filipinas-Anna-Balcells.jpg
 categories: 
   - cultura
   - mujeres-top
@@ -15,8 +15,7 @@ authors:
 
 ![manena munar, todos los caminos llevan a filipinas](https://fotos.etheriamagazine.com/2020/12/manena-munar-todos-los-caminos-llevan-a-filipinas.jpg "Manena Munar, autora de 'Todos los caminos llevan a Filipinas'.")
 
-Los libros de [Manena 
-Munar,](https://etheriamagazine.com/2020/05/05/mujeres-viajeras-etheria-manena-munar/) 
+Los libros de {{< reflink path=posts/2020/05/mujeres-viajeras-etheria-manena-munar >}} 
 autora de ‘**Todos los caminos llevan a Filipinas’**, siempre tienen algo de ella misma, 
 de su trayectoria y de su personalidad. En esta ocasión, la escritora nos lleva a 
 Filipinas, país donde residió muchos años, para sacar a la luz las hazañas de 20 mujeres 

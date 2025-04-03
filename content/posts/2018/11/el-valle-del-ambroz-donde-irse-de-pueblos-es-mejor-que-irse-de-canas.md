@@ -1,7 +1,7 @@
 ---
 title: "Valle del Ambroz, donde irse de pueblos es mejor que irse de cañas"
 date: 2018-11-16
-coverImage: https://fotos.etheriamagazine.com/2018/11/viaje-con-amigas-valle-ambroz-senderismo.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/viaje-con-amigas-valle-ambroz-senderismo.jpg
 categories: 
   - ocio
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Kelu Robles
 ---
 
-Reserva algún fin de semana para disfrutar de los pueblos, rutas, paisajes y buena 
+**Reserva algún fin de semana para disfrutar de los pueblos, rutas, paisajes y buena 
 gastronomía del Valle de Ambroz una zona perfecta para visitar con los colores del 
-otoño. 
+otoño.** 
 
 ![senderismo en el valle de Ambroz](https://fotos.etheriamagazine.com/2018/11/viaje-con-amigas-valle-ambroz.jpg "Disfruta del otoño en el Valle del Ambroz. © DIVA")
 
@@ -110,11 +110,9 @@ la Granjuela**.
 
 ### También te puede interesar
 
-[Valle del Jerte, entre cerezas y piscinas 
-naturales](https://etheriamagazine.com/2020/06/17/viajes-por-espana-alle-del-jerte-piscinas-naturales-cerezas/). 
+{{< reflink 
+path=posts/2020/06/viajes-por-espana-alle-del-jerte-piscinas-naturales-cerezas >}}. 
 
-[Elige uno de estos 10 motivos para viajar a La Siberia 
-extremeña](https://etheriamagazine.com/2021/09/26/10-motivos-para-viajar-a-la-siberia-extremena/). 
+{{< reflink path=posts/2021/09/10-motivos-para-viajar-a-la-siberia-extremena >}}. 
 
-[Las Hurdes. Un paraíso extremeño suspendido en el 
-tiempo](https://etheriamagazine.com/2020/07/21/viajes-espana-las-hurdes-un-paraiso-extremeno/).
+{{< reflink path=posts/2020/07/viajes-espana-las-hurdes-un-paraiso-extremeno >}}.

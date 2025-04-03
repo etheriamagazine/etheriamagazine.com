@@ -1,7 +1,7 @@
 ---
 title: "De road trip por los Cotswolds, un viaje al corazón de Inglaterra"
 date: 2019-08-08
-coverImage: https://fotos.etheriamagazine.com/2019/06/viaje-mujeres-cotswolds.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/viaje-mujeres-cotswolds.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -157,11 +157,8 @@ descubrir el secreto mejor guardado de Inglaterra.
 
 ### También te puede interesar:
 
-[Admira cinco de los mejores jardines de Gran 
-Bretaña](https://etheriamagazine.com/2021/04/22/los-mejores-jardines-de-gran-bretana/) 
+{{< reflink path=posts/2021/04/los-mejores-jardines-de-gran-bretana >}} 
 
-[Road trip con amigas en 
-Gales](https://etheriamagazine.com/2019/08/23/viajar-con-amigas-ruta-coche-gales/) 
+{{< reflink path=posts/2019/08/viajar-con-amigas-ruta-coche-gales >}} 
 
-[48 horas en…. la península de Cornualles. La costa inglesa tocada por el 
-sol](https://etheriamagazine.com/2019/07/10/viaje-que-hacer-ruta-cornualles-cornwall-inglaterra/)
+{{< reflink path=posts/2019/07/viaje-que-hacer-ruta-cornualles-cornwall-inglaterra >}}

@@ -1,7 +1,7 @@
 ---
 title: "Barra libre de ansiolíticos y antidepresivos, ¿se medicalizan los problemas sociales?"
 date: 2021-04-14
-coverImage: https://fotos.etheriamagazine.com/2021/04/ansioliticos-mujeres.jpg
+cover: https://fotos.etheriamagazine.com/2021/04/ansioliticos-mujeres.jpg
 categories: 
   - bienestar
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Maria Miret
 ---
 
-La ansiedad y la depresión son trastornos “de pastilla fácil” ante los cuáles se ha 
+**La ansiedad y la depresión son trastornos “de pastilla fácil” ante los cuáles se ha 
 producido una “prescripción de gatillo fácil”. En estos tiempo de pandemia, “muchos 
 problemas sociales están siendo medicalizados”. Los profesionales hacen una llamada a la 
 prudencia ante ansiolíticos, antidepresivos y calmantes, aunque reconocen que “la gente 
 está sufriendo y el uso de estos medicamentos puede estar paliando la situación de 
-angustia". 
+angustia".** 
 
 ![mujer deprimida](https://fotos.etheriamagazine.com/2021/04/mujer-pastillas-antidepresion.jpg "Es más rápido extender una receta que ahondar en el problema. © Ben White")
 
@@ -193,11 +193,11 @@ ser muy prudente al poner esas medicaciones”.
 
 **También te puede interesar...** 
 
-[Personas Altamente Sensibles. ¿Es realmente un don la 
-sensibilidad?](https://etheriamagazine.com/2020/11/25/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad/) 
+{{< reflink 
+path=posts/2020/11/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}} 
 
-[Mindfulness y meditación, tus mejores aliados para reducir el estrés y la 
-ansiedad](https://etheriamagazine.com/2020/11/18/mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion/). 
+{{< reflink 
+path=posts/2020/11/mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion 
+>}}. 
 
-[Depresión: cuando el arte se convierte en terapia para ayudar a 
-superarla](https://etheriamagazine.com/2020/11/04/terapias-para-combatir-la-depresion-con-arte/).
+{{< reflink path=posts/2020/11/terapias-para-combatir-la-depresion-con-arte >}}.

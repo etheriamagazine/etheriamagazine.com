@@ -1,28 +1,28 @@
 ---
 title: "Recetas de Halloween para divertirse en casa"
 date: 2020-10-23
-coverImage: https://fotos.etheriamagazine.com/2020/10/galletas-halloween.jpg
+cover: https://fotos.etheriamagazine.com/2020/10/galletas-halloween.jpg
 destino: 
-  - España
+  - Europa
 authors: 
   - Susana García
 ---
 
-Calabazas, murciélagos, esqueletos, telas de araña… La iconografía que rodea la Noche de 
-los Muertos está llena de tópicos que nos encantan. Aquí os contamos unas cuantas 
+**Calabazas, murciélagos, esqueletos, telas de araña… La iconografía que rodea la Noche 
+de los Muertos está llena de tópicos que nos encantan. Aquí os contamos unas cuantas 
 recetas de Halloween para trasladar todos estos elementos a la mesa y preparar una 
-merienda y un menú de cena para morirse de miedo. 
+merienda y un menú de cena para morirse de miedo.** 
 
 ![galletas decoradas de Halloween](https://fotos.etheriamagazine.com/2020/10/galletas-halloween.jpg "Galletas de Halloween. © Freepick")
 
 Aunque estamos recuperando poco a poco la actividad normal en bares y restaurantes, si 
 optar por celebrar la Noche los Muertos en casa, estas recetas de Halloween te van a 
 venir de maravilla. Dejémonos de demonizar esta fiesta por ser extranjera (realmente es 
-de origen celta y te lo confirmamos en este artículo: [Halloween es 
-irlandés](https://etheriamagazine.com/2021/10/23/el-origen-halloween-es-irlandes/)) y 
-aprovechemos la excusa para celebrar y disfrutar del momento. Aquí os damos unas 
-**recetas para que ambientéis las meriendas y cenas del 31 de octubre** y pongáis un 
-poco de color y diversión a la 'Noche de los muertos'. 
+de origen celta y te lo confirmamos en este artículo: {{< reflink 
+path=posts/2021/10/el-origen-halloween-es-irlandes >}}) y aprovechemos la excusa para 
+celebrar y disfrutar del momento. Aquí os damos unas **recetas para que ambientéis las 
+meriendas y cenas del 31 de octubre** y pongáis un poco de color y diversión a la 'Noche 
+de los muertos'. 
 
 ![bebida y decoracion casa halloween](https://fotos.etheriamagazine.com/2020/10/mesa-decoracion-halloween.jpg "Decoración especial para un Halloween en casa.")
 
@@ -75,9 +75,9 @@ se seque la cobertura del primer color antes de trabajar con el segundo.
 
 ## Tartas que dan miedo
 
-Lo importante de una tarta es que esté rica, y con un bizcocho de chocolate negro tipo [Devil’s 
-Food Cake](https://pepacooks.com/receta-devil-food-cake-tarta-de-chocolate/) (podéis 
-seguir la receta de Pepa Cooks) o el bizcocho de la [tarta Red 
+Lo importante de una tarta es que esté rica, y con un bizcocho de chocolate negro tipo 
+[Devil’s Food Cake](https://pepacooks.com/receta-devil-food-cake-tarta-de-chocolate/) 
+(podéis seguir la receta de Pepa Cooks) o el bizcocho de la [tarta Red 
 Velvet](https://www.mariacosbel.com/receta-facil-red-velvet-cake-caserol/) (por ejemplo, 
 con la receta de María Cosbel), que es rojo intenso, acertáis seguro. Y, después, solo 
 queda jugar con la decoración. Podéis poner en la parte superior torres de merengue 
@@ -145,11 +145,8 @@ anteriores dulces que hemos propuesto.
 
 📌 **También te puede interesar...** 
 
-[Najat Kaanache, la mejor chef de África, desvela en NAJAT los secretos de la cocina 
-marroquí](https://etheriamagazine.com/2021/02/04/najat-libro-cocina-marroqui-chef-najat-kaanache/). 
+{{< reflink path=posts/2021/02/najat-libro-cocina-marroqui-chef-najat-kaanache >}}. 
 
-[El aguacate, conoce sus beneficios y prepara recetas 
-sencillas](https://etheriamagazine.com/2021/01/26/aguacate-beneficios-y-recetas-bajas-en-calorias/). 
+{{< reflink path=posts/2021/01/aguacate-beneficios-y-recetas-bajas-en-calorias >}}. 
 
-[Siete productos que saben a León y no pueden faltar en tu 
-mesa](https://etheriamagazine.com/2021/08/23/productos-gastronomia-leon/).
+{{< reflink path=posts/2021/08/productos-gastronomia-leon >}}.

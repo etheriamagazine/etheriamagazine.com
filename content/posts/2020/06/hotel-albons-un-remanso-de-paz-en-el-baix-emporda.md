@@ -1,7 +1,7 @@
 ---
 title: "Hotel Albons, un remanso de paz en el Baix Empordà"
 date: 2020-06-01
-coverImage: https://fotos.etheriamagazine.com/2020/05/Hotel-Albons-recepcion.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/Hotel-Albons-recepcion.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Si buscas un lugar tranquilo donde programar una escapada este verano, ten muy en cuenta 
-al hotel Albons, que tras una profunda renovación en 2020 consiguió una estrella más, 
-convirtiéndose así en uno de los hoteles de cinco estrellas de Girona. Además, es 
-perfecto para recorrer la siempre apetecible Costa Brava. 
+**Si buscas un lugar tranquilo donde programar una escapada este verano, ten muy en 
+cuenta al hotel Albons, que tras una profunda renovación en 2020 consiguió una estrella 
+más, convirtiéndose así en uno de los hoteles de cinco estrellas de Girona. Además, es 
+perfecto para recorrer la siempre apetecible Costa Brava.** 
 
 ![Piscina del hotel Albons](https://fotos.etheriamagazine.com/2020/05/Hotel-Albons-vistas.jpg "Piscina y vistas desde el hotel Albons.")
 
@@ -83,11 +83,8 @@ habitación doble.
 
 📌 **También te puede interesar:** 
 
-[Empordà, busca la esencia mediterránea en la Costa 
-Brava](https://etheriamagazine.com/2020/08/21/10-planes-comarca-ampurdan-costa-brava/) 
+{{< reflink path=posts/2020/08/10-planes-comarca-ampurdan-costa-brava >}} 
 
-[Costa Brava con amigas: 6 pueblos imprescindibles en tu 
-viaje](https://etheriamagazine.com/2019/05/28/pueblos-imprescindibles-viaje-amigas-costa-brava/) 
+{{< reflink path=posts/2019/05/pueblos-imprescindibles-viaje-amigas-costa-brava >}} 
 
-[15 lugares imprescindibles que tienes que ver en 
-Girona](https://etheriamagazine.com/2022/10/17/lugares-imprescindibles-en-girona/)
+{{< reflink path=posts/2022/10/lugares-imprescindibles-en-girona >}}

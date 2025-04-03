@@ -1,7 +1,7 @@
 ---
 title: "Concert Music Festival Sancti Petri (Chiclana, Cádiz)"
 date: 2018-06-29
-coverImage: https://fotos.etheriamagazine.com/2018/06/festival-sancti-petri.jpg
+cover: https://fotos.etheriamagazine.com/2018/06/festival-sancti-petri.jpg
 categories: 
   - ocio
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Susana García
 ---
 
-Un festival de música es siempre una buena excusa para realizar una escapada veraniega a 
-un lugar de playa. La primera edición del Concert Music Festival Sancti Petri, en la 
+**Un festival de música es siempre una buena excusa para realizar una escapada veraniega 
+a un lugar de playa. La primera edición del Concert Music Festival Sancti Petri, en la 
 localidad gaditana de Chiclana, viene llena de grandes figuras para disfrutarlas en un 
 entorno inigualable. Aprovecha el día para disfrutar de las increíbles playas de Sancti 
-Petri y de noche déjate llevar por la música. 
+Petri y de noche déjate llevar por la música.** 
 
 ![Concierto con amigas](https://fotos.etheriamagazine.com/2019/02/Festivales-primavera-concierto.jpg "Concierto con amigas")
 

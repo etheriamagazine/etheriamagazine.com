@@ -1,7 +1,7 @@
 ---
 title: "10 planes originales en Madrid para hacer con amigas"
 date: 2020-08-27
-coverImage: https://fotos.etheriamagazine.com/2020/08/salvaje-canalejas-madrid.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/salvaje-canalejas-madrid.jpg
 categories: 
   - ocio
 destino: 
@@ -74,10 +74,9 @@ memoria.
 Sin un gran entorno lujoso, como ofrecen muchos hoteles, pero con un escenario de lujo: 
 el histórico **Café Comercial** (Glorieta de Bilbao, 7. cafecomercialmadrid.com). Los 
 sábados y domingos este establecimiento ofrece un atractivo brunch ideal para un plan 
-con amigas en Madrid. \*Aquí te dejamos también un listado con [los 10 brunches más 
-interesantes de 
-Madrid](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/) en 
-cuanto a relación calidad-precio. 
+con amigas en Madrid. \*Aquí te dejamos también un listado con {{< reflink 
+path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}} en cuanto a relación 
+calidad-precio. 
 
 ![esquiar en madrid, snowzone, planes con amigas](https://fotos.etheriamagazine.com/2020/08/esquiar-madrid-SnowZone.jpg "Snowzone, para esquiar todo el año en Madrid.")
 
@@ -109,17 +108,16 @@ estarán hasta julio de 2024.
 
 ## 7\. Una película con grandes mujeres
 
-Hace poco os hablábamos del [Test de 
-Bechdel](https://etheriamagazine.com/2021/01/11/test-bechdel-medida-del-sexismo-en-cine/) 
-(puedes leer el artículo completo) en el que comentábamos que dicho test mide el peso de 
-los personajes femeninos en las películas. Para superarlo deben "aparecer al menos dos 
-mujeres, hablar entre sí en algún momento (más de 3 frases) y la conversación debe 
-tratar de algo distinto a un hombre (ya sea marido, novio, amigo, padre, hermano…). 
-Algunas películas que cumplen estas reglas son: _**Invisibles**_ de Gracia Querejeta, 
-_**La Boda de Rosa**_ de Iciar Bolláin, y _**Las Niñas**_ de la directora novel Pilar 
-Palomero. Como estas no siguen en cartelera, y puede que **_Madres paralelas_** de 
-Almodóvar tampoco.. ¿qué te parece una sesión de cine en casa con tus mejores amigas? 
-Para nosotras es un PLANAZO. 
+Hace poco os hablábamos del {{< reflink 
+path=posts/2021/01/test-bechdel-medida-del-sexismo-en-cine >}} (puedes leer el artículo 
+completo) en el que comentábamos que dicho test mide el peso de los personajes femeninos 
+en las películas. Para superarlo deben "aparecer al menos dos mujeres, hablar entre sí 
+en algún momento (más de 3 frases) y la conversación debe tratar de algo distinto a un 
+hombre (ya sea marido, novio, amigo, padre, hermano…). Algunas películas que cumplen 
+estas reglas son: _**Invisibles**_ de Gracia Querejeta, _**La Boda de Rosa**_ de Iciar 
+Bolláin, y _**Las Niñas**_ de la directora novel Pilar Palomero. Como estas no siguen en 
+cartelera, y puede que **_Madres paralelas_** de Almodóvar tampoco.. ¿qué te parece una 
+sesión de cine en casa con tus mejores amigas? Para nosotras es un PLANAZO. 
 
 ![terrazas hotel, madrid con amigas](https://fotos.etheriamagazine.com/2020/08/planes-madrid-Terraza-Hyatt.jpg "Terraza El Jardín de Diana, del Hotel Hyatt Centric Gran Vía.")
 
@@ -155,11 +153,8 @@ y realizar la visita virtual.
 
 ### Más planes con amigas en España...
 
-[Planes originales para disfrutar de Valencia con 
-amigas](https://etheriamagazine.com/2020/09/18/planes-originales-valencia-con-amigas/). 
+{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}}. 
 
-[10 planes originales en Bilbao con 
-amigas](https://etheriamagazine.com/2020/09/09/10-planes-originales-en-bilbao-con-amigas/). 
+{{< reflink path=posts/2020/09/10-planes-originales-en-bilbao-con-amigas >}}. 
 
-[10 planes originales para hacer con amigas en 
-Barcelona](https://etheriamagazine.com/2020/09/01/10-planes-originales-con-amigas-en-barcelona/).
+{{< reflink path=posts/2021/03/10-planes-originales-con-amigas-en-barcelona >}}.

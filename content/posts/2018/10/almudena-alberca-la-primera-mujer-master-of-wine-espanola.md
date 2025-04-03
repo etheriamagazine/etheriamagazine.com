@@ -1,7 +1,7 @@
 ---
 title: "Almudena Alberca, la primera mujer 'Master of Wine' española"
 date: 2018-10-08
-coverImage: https://fotos.etheriamagazine.com/2018/10/Almudena-Alberca-barricas.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/Almudena-Alberca-barricas.jpg
 categories: 
   - historias
   - mujeres-top
@@ -11,10 +11,10 @@ authors:
   - Vanesa Viñolo
 ---
 
-El mundo agrícola es un entorno que continúa, en muchos casos, siendo hostil para la 
+**El mundo agrícola es un entorno que continúa, en muchos casos, siendo hostil para la 
 mujer. Sin embargo, Almudena Alberca ha conseguido el título de Master of Wine y es la 
 primera española en lograrlo. No te pierdas la entrevista que le ha hecho Vanesa Viñolo 
-para Etheria Magazine. 
+para Etheria Magazine.** 
 
 Recuerdo cuando, hace unos quince años, una brillante enóloga me comentaba cómo tuvo que 
 fingir que era su marido quien realmente quería comprar unas viñas en Toro, para que el 
@@ -31,13 +31,14 @@ no hay meta que se le resista. En 2003 comienza su andadura en **Avante Selecta*
 de bodegas_\-boutique_ que buscan la calidad a través de lo local) donde consigue 
 posicionar sus vinos en lo más alto de las críticas internacionales (98 puntos en _The 
 Wine Advocate_ para su Cenit 2009; 96 puntos en la Wine Spectator para su Llanos del 
-Almendro 2012…), compaginando su trabajo con la **lenta y segura preparación para ser** [Master 
-of Wine](https://www.mastersofwine.org/), el máximo título al que cualquier amante del 
-vino puede aspirar. En 2015, ya en la recta final de sus estudios, Almudena desembarca 
-en **Bodegas Viña Mayor** donde, como Directora Técnica, se enfrenta al reto de darle la 
-vuelta a una bodega de dimensiones muy importantes, reposicionándola y renovando sus 
-vinos (ya ha sacado 8 nuevas etiquetas). Después de charlar con ella, de disfrutar de su 
-cercanía y saber hacer, no dudamos de que los resultados serán estupendos. 
+Almendro 2012…), compaginando su trabajo con la **lenta y segura preparación para ser** 
+[Master of Wine](https://www.mastersofwine.org/), el máximo título al que cualquier 
+amante del vino puede aspirar. En 2015, ya en la recta final de sus estudios, Almudena 
+desembarca en **Bodegas Viña Mayor** donde, como Directora Técnica, se enfrenta al reto 
+de darle la vuelta a una bodega de dimensiones muy importantes, reposicionándola y 
+renovando sus vinos (ya ha sacado 8 nuevas etiquetas). Después de charlar con ella, de 
+disfrutar de su cercanía y saber hacer, no dudamos de que los resultados serán 
+estupendos. 
 
 ## Entrevista con Almudena Alberca
 
@@ -123,11 +124,8 @@ que pueda evolucionar conjuntamente con el negocio del vino.
 
 📌 **También te puede interesar:** 
 
-[Ruta del Vino de Arribes, energía femenina de alto 
-voltaje](https://etheriamagazine.com/2023/04/19/ruta-del-vino-de-arribes/) 
+{{< reflink path=posts/2023/04/ruta-del-vino-de-arribes >}} 
 
-[Ruta del Vino de la Sierra de Francia, un brindis con amigas en 
-Salamanca](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/) 
+{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}} 
 
-[Conca de Barberà, ¿te vienes a disfrutar de sus 
-vinos?](https://etheriamagazine.com/2022/06/01/enoturismo-conca-de-barbera/)
+{{< reflink path=posts/2022/06/enoturismo-conca-de-barbera >}}

@@ -1,7 +1,7 @@
 ---
 title: "¿Podría ser Groenlandia el viaje de tu vida? Averígualo aquí"
 date: 2018-11-14
-coverImage: https://fotos.etheriamagazine.com/2018/11/Groenlandia-Narsaq-viajes-mujeres-bis-e1581153169860.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/Groenlandia-Narsaq-viajes-mujeres-bis-e1581153169860.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -183,12 +183,13 @@ observar un paisaje alpino y glaciar con vistas extraordinarias.
 ### Valle de las Mil Flores
 
 Es probablemente **el _trekking_ más bonito y largo del camino** (aproximadamente 8 
-horas), y una buena opción para despedirnos de Groenlandia ya que está en [Narsarsuaq](https://visitgreenland.com/destinations/narsarsuaq/), 
-población desde donde partimos en avión. El recorrido cuenta con unas espectaculares 
-vistas de los meandros y el enorme valle formado por el retroceso del glaciar Kiattut y 
-su consiguiente sedimentación, con un desnivel importante con sectores en los que es 
-necesario realizar una pequeña escalada. La recompensa son unas hermosas panorámicas del 
-glaciar y sus _nunataks_ o islas de roca aflorando del hielo. 
+horas), y una buena opción para despedirnos de Groenlandia ya que está en 
+[Narsarsuaq](https://visitgreenland.com/destinations/narsarsuaq/), población desde donde 
+partimos en avión. El recorrido cuenta con unas espectaculares vistas de los meandros y 
+el enorme valle formado por el retroceso del glaciar Kiattut y su consiguiente 
+sedimentación, con un desnivel importante con sectores en los que es necesario realizar 
+una pequeña escalada. La recompensa son unas hermosas panorámicas del glaciar y sus 
+_nunataks_ o islas de roca aflorando del hielo. 
 
 ## Guía práctica de Groenlandia
 

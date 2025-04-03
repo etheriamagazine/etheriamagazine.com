@@ -1,7 +1,7 @@
 ---
 title: "Guía esencial de Gipuzkoa, maravillas desde la costa al interior"
 date: 2023-02-14
-coverImage: https://fotos.etheriamagazine.com/2023/02/guipuzcoa-monte-arno-mutriku.jpg
+cover: https://fotos.etheriamagazine.com/2023/02/guipuzcoa-monte-arno-mutriku.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-La costa guipuzcoana nos ha atrapado con sus pueblos, gastronomía y retazos de historia 
-recortada por el oleaje, mientras que en tierra adentro han sido sus paisajes pastoriles 
-los que nos han embelesado. En esta guía esencial hemos elegido algunas de esas 
-maravillas que tienes que ver en Gipuzkoa, sí o sí, sin perder nunca el norte. 
+**La costa guipuzcoana nos ha atrapado con sus pueblos, gastronomía y retazos de 
+historia recortada por el oleaje, mientras que en tierra adentro han sido sus paisajes 
+pastoriles los que nos han embelesado. En esta guía esencial hemos elegido algunas de 
+esas maravillas que tienes que ver en Gipuzkoa, sí o sí, sin perder nunca el norte.** 
 
 ![Vistas de Mutriku desde el monte Arno, uno de los lugares que hay que ver en Gipuzkoa](https://fotos.etheriamagazine.com/2023/02/guipuzcoa-monte-arno-mutriku.jpg "Vistas de Mutriku desde el monte Arno. © Basquetour.")
 
@@ -209,8 +209,8 @@ Si te gusta caminar, toma el **sendero de la Bahía**. A lo largo de 14 kilómet
 recorrerás las tres ciudades (Hendaya, Irún y Hondarribia), que contornean la bahía y 
 habrás pisado dos países. 
 
-📌 No te pierdas: Artículo de la [costa del monte Jaizkibel con nuestras ocho 
-pasiones.](https://etheriamagazine.com/2020/09/08/que-ver-guipuzcoa-jaizkibel-hondarribia-pasaia/) 
+📌 No te pierdas: Artículo de la {{< reflink 
+path=posts/2020/09/que-ver-guipuzcoa-jaizkibel-hondarribia-pasaia >}} 
 
 ![Fachadas de Hondarribia, una preciosa ciudad que hay que ver en Gipuzkoa](https://fotos.etheriamagazine.com/2018/07/san-sebastian-hondarribia.jpg "Fachadas de Hondarribia. © Eric Prouzet")
 
@@ -368,11 +368,8 @@ marinas que, en los temporales invernales, se refugian acercándose a la costa.
 
 📍 **También te puede interesar:** 
 
-[Planes para un fin de semana en San Sebastián: seguro que no te 
-aburres](https://etheriamagazine.com/2021/04/01/que-ver-hacer-en-san-sebastian/) 
+{{< reflink path=posts/2021/04/que-ver-hacer-en-san-sebastian >}} 
 
-[Paisajes del agua en los 10 mejores cañones del País 
-Vasco](https://etheriamagazine.com/2019/04/09/viajes-naturaleza-mejores-canones-pais-vasco/) 
+{{< reflink path=posts/2019/04/viajes-naturaleza-mejores-canones-pais-vasco >}} 
 
-[Urdaibai, experimenta el efecto Hemingway en sólo siete 
-paradas](https://etheriamagazine.com/2021/02/18/7-imprescindibles-en-reserva-urdaibai/)
+{{< reflink path=posts/2021/02/7-imprescindibles-en-reserva-urdaibai >}}

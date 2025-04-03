@@ -1,7 +1,7 @@
 ---
 title: "¿Por qué se come tan bien en Valladolid?"
 date: 2019-01-31
-coverImage: https://fotos.etheriamagazine.com/2019/01/comer-valladolid-Jero.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/comer-valladolid-Jero.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -59,10 +59,10 @@ que Valladolid siempre ha tenido muy buenas relaciones con el pueblo cántabro y
 delicias. Las raciones no se sirven sobre platos. Teniendo tejas... 
 
 Lo mejor para acompañar las tapas es tomar vinos con Denominación Origen Rueda y Ribera 
-del Duero. En nuestra particular [Ruta por la 
-N-122](https://etheriamagazine.com/2018/05/21/rutas-del-vino-ribera-del-duero-valladolid/) 
-te ofrecemos una divertida escapada enoturística por la provincia con paradas en 
-Peñafiel, Protos y Villacreces. 
+del Duero. En nuestra particular {{< reflink 
+path=posts/2018/05/ruta-del-vino-ribera-del-duero-valladolid >}} te ofrecemos una 
+divertida escapada enoturística por la provincia con paradas en Peñafiel, Protos y 
+Villacreces. 
 
 ![cocineras de un bar de Valladolid con una tortilla de patatas](https://fotos.etheriamagazine.com/2019/01/comer-valladolid-restrobar-tigo-migo.jpg "Marina Cruz y Sara Cabello, del Restrobar Tigo y Migo.")
 
@@ -141,10 +141,10 @@ pato curado o la carne a la piedra**—, merece la pena acercarse a este lugar s
 fuera del circuito histórico. Y todo a unos precios más que razonables. 
 
 Para probar otras elaboraciones francesas, italianas, indias y hasta hawaianas —como el 
-**poke**, un tipo de ensalada compuesta a base de pescado crudo—, el autodenominado [‘crêpstaurante’ 
-Eh, Voilà](https://ehvoila.es/) ofrece un amplio repertorio de cocina internacional. Su 
-abanico de propuestas vegetarianas y veganas invita a gozar de una experiencia de lo más 
-saludable. 
+**poke**, un tipo de ensalada compuesta a base de pescado crudo—, el autodenominado 
+[‘crêpstaurante’ Eh, Voilà](https://ehvoila.es/) ofrece un amplio repertorio de cocina 
+internacional. Su abanico de propuestas vegetarianas y veganas invita a gozar de una 
+experiencia de lo más saludable. 
 
 En el chaflán más bonito de la ciudad se encuentra [El 
 Farolito](https://www.facebook.com/ElFarolitodeValladolid/), un histórico café que ha 
@@ -158,8 +158,9 @@ sido rehabilitado rindiendo homenaje a su propia memoria.
 Si el frío o la lluvia arrecian, a pocos metros podemos cobijarnos en el elegante 
 **Pasaje Gutiérrez**. Es una de las tres galerías comerciales del siglo XIX que quedan 
 en España, París las exportó por toda Europa y la de Valladolid ha sido declarada Bien 
-de Interés Cultural. Está repleta de cafés, pubs y alberga hasta una [‘sastrería’](https://www.facebook.com/LaSastreriaEventos/) 
-donde, en realidad, se sirven cócteles. 
+de Interés Cultural. Está repleta de cafés, pubs y alberga hasta una 
+[‘sastrería’](https://www.facebook.com/LaSastreriaEventos/) donde, en realidad, se 
+sirven cócteles. 
 
 Por esta ciudad de reyes, escritores y artistas han pasado —y están pasando— muchas más 
 cosas que el Pisuerga: **Mundiales de Tapas**, festivales de cine como la **Seminci** y 
@@ -171,11 +172,10 @@ perdáis más tiempo y vayáis a comprobarlo.
 
 ### También te puede interesar:
 
-[Conoce Urueña, un pueblo ‘de libro’ en 
-Valladolid](https://etheriamagazine.com/2020/05/22/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid/) 
+{{< reflink path=posts/2020/05/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid 
+>}} 
 
-[Ruta del vino Cigales, 10 razones para brindar como los Reyes 
-Católicos](https://etheriamagazine.com/2020/01/07/viaje-con-amigas-ruta-del-vino-cigales/) 
+{{< reflink path=posts/2020/01/viaje-con-amigas-ruta-del-vino-cigales >}} 
 
-[Castilla Termal Valbuena, una escapada de relax en la Ribera del 
-Duero](https://etheriamagazine.com/2021/10/29/castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero/)
+{{< reflink 
+path=posts/2021/10/castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero >}}

@@ -1,7 +1,7 @@
 ---
 title: "Duerme de lujo en Xuq Lomas de Ruvira, un hotel-cueva de La Manchuela"
 date: 2020-01-08
-coverImage: https://fotos.etheriamagazine.com/2020/01/Rusticae-xuq-ruvira-rincon.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/Rusticae-xuq-ruvira-rincon.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-En Etheria Magazine nos encantan los alojamientos diferentes que son capaces de ofrecer 
-propuestas originales dentro de la extensa oferta que hay en España. De la mano de 
-Rusticae nos sumergimos en el ambiente ‘slow’ de este complejo rural situado en unas 
-cuevas de la comarca de La Manchuela, entre Albacete y Cuenca. 
+**En Etheria Magazine nos encantan los alojamientos diferentes que son capaces de 
+ofrecer propuestas originales dentro de la extensa oferta que hay en España. De la mano 
+de Rusticae nos sumergimos en el ambiente ‘slow’ de este complejo rural situado en unas 
+cuevas de la comarca de La Manchuela, entre Albacete y Cuenca.** 
 
 ![Suite en Xuq Lomas de Ruvira](https://fotos.etheriamagazine.com/2020/01/rusticae-xuq-ruvira-ogof.jpg "Salón de la suite Ogof.")
 
@@ -81,11 +81,10 @@ encanto en Rusticae.**
 
 📌 **También te puede interesar:** 
 
-[13 excursiones en Cuenca para descubrir los tesoros de la 
-provincia](https://etheriamagazine.com/2020/06/04/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca/) 
+{{< reflink 
+path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+>}} 
 
-[La Mancha toledana: excursión a Madridejos para conocer el mundo del 
-azafrán](https://etheriamagazine.com/2021/09/29/excursion-a-madridejos-azafran-de-toledo/) 
+{{< reflink path=posts/2021/09/excursion-a-madridejos-azafran-de-toledo >}} 
 
-[Ruta del Quijote, en familia por La 
-Mancha](https://etheriamagazine.com/2021/01/29/ruta-del-quijote-en-familia-por-la-mancha/)
+{{< reflink path=posts/2021/01/ruta-del-quijote-en-familia-por-la-mancha >}}

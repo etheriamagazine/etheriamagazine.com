@@ -1,7 +1,7 @@
 ---
 title: "Tossa de Mar, secretos de cine en la Costa Brava"
 date: 2020-06-24
-coverImage: https://fotos.etheriamagazine.com/2020/06/costa-brava-tossa-mar.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/costa-brava-tossa-mar.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -138,8 +138,8 @@ acantilados, las playas y los bosques... el mar y la montaña. De ahí surge la 
 de mezclar carne y pescado, una combinación que ha dado como resultado uno de los platos 
 más singulares de la cocina catalana: _mar i muntanya_. Cada pueblo de la costa tiene su 
 peculiaridad; la de Tossa es 'pollo con cigalas'. "Cada vez que sale de la cocina esta 
-surrealista combinación, los ángeles salen con trompetas", en palabras del restaurador [Carlus, 
-de Can Carlus](https://www.cancarlustossa.es). 
+surrealista combinación, los ángeles salen con trompetas", en palabras del restaurador 
+[Carlus, de Can Carlus](https://www.cancarlustossa.es). 
 
 ![Cala Giverola, costa brava, tossa de mar](https://fotos.etheriamagazine.com/2020/06/tossa-mar-Cala-Giverola.jpg "Cala Giverola, en Costa Brava. © P. Grifol")
 
@@ -170,7 +170,7 @@ En Tossa abundan los hoteles de una estrella y las pensiones, así que lo mejor 
 realicemos la inspección 'in situ' o consultar la oferta de alojamientos en algún 
 buscador de hoteles. Algunos ejemplos seleccionados son: 
 
-**• Hotel Rovira**. Fundado en 1947 y con más superficie que un campo de fútbol, aguanta 
+**- Hotel Rovira**. Fundado en 1947 y con más superficie que un campo de fútbol, aguanta 
 crisis y remodelaciones para adaptarse a los nuevos tiempos. Conserva su súper **kitch 
 bar de estalactitas**, que ya le hubiera gustado al pintor Barceló imitar para su cúpula 
 esférica del Palacio de las Naciones Unidas de Ginebra. Un emparrado con más de 50 años 
@@ -183,14 +183,14 @@ clientela.
 
 ![hotel diana, tossa de mar, viajar sola](https://fotos.etheriamagazine.com/2020/06/Tossa-de-Mar-Hotel-Diana.jpg "Hotel Diana, en Tossa de Mar. © P. Grifol")
 
-**• Hotel Diana**. Ubicado en la Casa Sans, es la construcción más representativa de las 
+**- Hotel Diana**. Ubicado en la Casa Sans, es la construcción más representativa de las 
 casas de los indianos. De estilo claramente colonial conserva sus vidrieras modernistas 
 y parte de su mobiliario original. Sus dos grandes palmeras han sido motivo de 
 inspiración para cientos de cuadros de los 'pintores de postal' de la villa. Si quieres 
 reservar la suite para este verano tienes que darte prisa. Toda una experiencia frente 
 al mar. 
 
-**• Gran Hotel Reymar & Spa**. Es uno de los 'cuatro estrellas' de Tossa mejor situado, 
+**- Gran Hotel Reymar & Spa**. Es uno de los 'cuatro estrellas' de Tossa mejor situado, 
 ya que está construido sobre la playa de Mar Menuda. Todas sus habitaciones dan al mar. 
 Precios acordes con sus prestaciones, aunque varían cada semana de verano. 
 
@@ -204,11 +204,8 @@ Precios acordes con sus prestaciones, aunque varían cada semana de verano.
 
 #### Otros artículos en Etheria Magazine
 
-[Viñedos con sabor a mar, primer tramo del Grand Tour de 
-Cataluña](https://etheriamagazine.com/2021/11/12/grand-tour-catalunya-vinedos-sabor-a-mar/). 
+{{< reflink path=posts/2024/06/grand-tour-catalunya-vinedos-sabor-a-mar >}}. 
 
-[Descubre estos 8 lugares secretos de Cataluña que deberías 
-conocer](https://etheriamagazine.com/2021/02/22/lugares-secretos-de-cataluna-que-visitar/). 
+{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}. 
 
-[Modernismo en Terrassa, tres visitas que te 
-sorprenderán](https://etheriamagazine.com/2021/08/20/que-ver-en-terrassa-visitas-modernistas/).
+{{< reflink path=posts/2021/08/que-ver-en-terrassa-visitas-modernistas >}}.

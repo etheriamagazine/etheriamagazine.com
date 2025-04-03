@@ -1,7 +1,7 @@
 ---
 title: "Sepúlveda y las hoces del Duratón, una escapada para toda la familia"
 date: 2019-07-11
-coverImage: https://fotos.etheriamagazine.com/2019/06/escapada-Sepulveda-Duraton-san-Frutos-ninas.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/escapada-Sepulveda-Duraton-san-Frutos-ninas.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -92,8 +92,8 @@ Dar un paseo por el campo por la calzada romana hasta la **Puerta de la Fuerza**
 (saliendo desde la iglesia de la Virgen de la Peña) es una excelente opción para 
 alejarse del casco urbano. Es una de las que se conservan de las siete puertas 
 principales de la villa, también podrás ver otras como la del Azogue o la Puerta del 
-Río. Si quieres continuar caminando, puedes realizar desde la Puerta de la Fuerza la [Senda 
-de los Dos Ríos o de 
+Río. Si quieres continuar caminando, puedes realizar desde la Puerta de la Fuerza la 
+[Senda de los Dos Ríos o de 
 ICONA](http://www.turismosepulveda.es/hoces-del-duraton/sendas-rutas) (de cinco 
 kilómetros), que tiene una dificultad apta para toda la familia y se realiza en hora y 
 media bajando las hoces y caminando junto al río. 
@@ -129,9 +129,9 @@ Vado del Duratón** (vadodelduraton.com) o alguna de sus casas rurales
 ### Dónde comer
 
 Sepúlveda es conocida por sus excelentes asadores de lechazo. Acertarás seguro con El 
-Fogón de Tinín (uno de nuestros asadores elegidos en la [ruta del 
-lechazo](https://etheriamagazine.com/2019/04/25/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon/)) 
-o El Figón de Ismael. Eso sí, reserva con tiempo. Para tomar el aperitivo, es 
+Fogón de Tinín (uno de nuestros asadores elegidos en la {{< reflink 
+path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
+>}}) o El Figón de Ismael. Eso sí, reserva con tiempo. Para tomar el aperitivo, es 
 obligatoria una parada en La Cocina de Paulino para probar sus pinchos y, para merendar, 
 no podrás evitar pecar con las pastas tradicionales y las tortas de nueces de la 
 **pastelería El Castillo**, en la Plaza Mayor. 
@@ -171,9 +171,7 @@ Más información en la Oficina de Turismo de Sepúlveda (turismodesepulveda.es)
 
 **También te puede interesar:** 
 
-[Razones, si es que las necesitas, por las que deberías planear ya una escapada por la 
-provincia de 
-Segovia](https://etheriamagazine.com/2021/03/09/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia/) 
+{{< reflink path=posts/2021/03/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia 
+>}} 
 
-[Ruta para descubrir los secretos ocultos del acueducto de 
-Segovia](https://etheriamagazine.com/2021/06/25/ruta-senderista-acueducto-segovia/)
+{{< reflink path=posts/2021/06/ruta-senderista-acueducto-segovia >}}

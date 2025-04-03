@@ -1,7 +1,7 @@
 ---
 title: "Aruba, Bonaire y Curazao, tres joyas caribeñas que son un sueño"
 date: 2020-02-12
-coverImage: https://fotos.etheriamagazine.com/2020/02/Curaçao-laguna-Willemstad.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/Curaçao-laguna-Willemstad.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -167,11 +167,8 @@ sorpresa, desde 3 hasta 6 tiempos, y por su idílica ubicación frente al mar.
 
 **También te puede interesar:** 
 
-[10 excursiones para descubrir la Riviera 
-Maya](https://etheriamagazine.com/2022/02/01/excursiones-en-riviera-maya-mexico/) 
+{{< reflink path=posts/2022/02/excursiones-en-riviera-maya-mexico >}} 
 
-[Viaja al corazón de Cuba: Villa Clara y Sancti 
-Spíritus](https://etheriamagazine.com/2022/01/03/viaje-cuba-villa-clara-y-sancti-spiritus/) 
+{{< reflink path=posts/2022/01/viaje-cuba-villa-clara-y-sancti-spiritus >}} 
 
-[Cozumel, Holbox e Isla Mujeres, tres islas de Yucatán donde querrás quedarte a 
-vivir](https://etheriamagazine.com/2021/08/01/que-ver-en-las-islas-de-yucatan-mexico/)
+{{< reflink path=posts/2021/08/que-ver-en-las-islas-de-yucatan-mexico >}}

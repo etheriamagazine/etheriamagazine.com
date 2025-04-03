@@ -1,7 +1,7 @@
 ---
 title: "10 yacimientos arqueológicos de México que no puedes perderte"
 date: 2021-03-30
-coverImage: https://fotos.etheriamagazine.com/2021/03/yacimiento-calakmul.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/yacimiento-calakmul.jpg
 categories: 
   - ocio
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Es difícil que hagas un viaje a México y no visites alguna zona arqueológica, ya que 
+**Es difícil que hagas un viaje a México y no visites alguna zona arqueológica, ya que 
 cuentan con vestigios de culturas pasadas repartidos por todo el país. Aquí hemos 
 seleccionado 10 de los más interesantes, conocidos y accesibles. Si organizas una ruta 
-cerca, no dudes en recorrerlos. 
+cerca, no dudes en recorrerlos.** 
 
 ![El Cuadrángulo de las Monjas en el yacimiento de Uxmal.](https://fotos.etheriamagazine.com/2021/03/uxmal-mexico-cuadrangulo-monjas.jpg "El Cuadrángulo de las Monjas en el yacimiento de Uxmal.")
 
@@ -155,11 +155,8 @@ conquistados por los mixtecas que utilizaron el lugar para enterrar a sus gobern
 
 **También te puede interesar...** 
 
-[10 yacimientos arqueológicos en América Latina que tienes que 
-conocer](https://etheriamagazine.com/2019/05/29/10-yacimientos-arqueologicos-america-latina/) 
+{{< reflink path=posts/2019/05/10-yacimientos-arqueologicos-america-latina >}} 
 
-[Un viaje al México de 
-‘Coco’](https://etheriamagazine.com/2018/05/28/en-el-mexico-de-coco/) 
+{{< reflink path=posts/2018/05/en-el-mexico-de-coco >}} 
 
-[Escenarios poéticos y atormentados de la vida de Frida 
-Kahlo](https://etheriamagazine.com/2021/02/15/biografia-y-ruta-frida-kahlo-mexico/)
+{{< reflink path=posts/2021/02/biografia-y-ruta-frida-kahlo-mexico >}}

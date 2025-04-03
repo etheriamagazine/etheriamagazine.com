@@ -1,7 +1,7 @@
 ---
 title: "Escapada de fin de semana a Tomelloso, el alma de La Mancha"
 date: 2024-12-02
-coverImage: https://fotos.etheriamagazine.com/2024/12/tomelloso-bombos.jpg
+cover: https://fotos.etheriamagazine.com/2024/12/tomelloso-bombos.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -98,5 +98,4 @@ famosas migas, tan adecuados en estas fechas.
 
 **También te puede interesar:** 
 
-[La Ruta del Vino de La Mancha en 
-coche](https://etheriamagazine.com/2019/03/20/ruta-del-vino-de-la-mancha/)
+{{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha >}}

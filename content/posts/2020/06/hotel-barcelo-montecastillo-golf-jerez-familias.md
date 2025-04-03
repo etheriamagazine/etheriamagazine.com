@@ -1,7 +1,7 @@
 ---
 title: "Barceló Montecastillo Golf & Sport Resort, un hotel de lujo en Jerez para toda la familia"
 date: 2020-06-11
-coverImage: https://fotos.etheriamagazine.com/2020/05/Barcelo-Montecastillo-aperitivo.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/Barcelo-Montecastillo-aperitivo.jpg
 categories: 
   - hoteles
 destino: 
@@ -24,11 +24,10 @@ tranquilidad está asegurada.
 ![Aperitivo en el hotel Montecastillo de Jerez](https://fotos.etheriamagazine.com/2020/05/Barcelo-Montecastillo-aperitivo.jpg "Aperitivo en el hotel.")
 
 Se encuentra a un paso de El Puerto de Santa María y de otros rincones de la costa 
-gaditana, por lo que es perfecto como punto de partida para realizar [actividades con 
-niños en la provincia de 
-Cádiz](https://etheriamagazine.com/2020/03/12/12-actividades-familiares-para-viajes-con-ninos-en-cadiz/) 
-o alguna excursión a los [Pueblos Blancos de la Serranía de 
-Cádiz](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/). 
+gaditana, por lo que es perfecto como punto de partida para realizar {{< reflink 
+path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz >}} o alguna 
+excursión a los {{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz 
+>}}. 
 
 ## Las habitaciones
 
@@ -121,11 +120,8 @@ Fotografías: © Barceló Hotel Group.
 
 ### También te puede interesar:
 
-[Viaje con amigas a Jerez, el arte del buen 
-vivir](https://etheriamagazine.com/2020/06/10/viajes-por-espana-jerez-sola-o-con-amigas/) 
+{{< reflink path=posts/2020/06/viajes-por-espana-jerez-sola-o-con-amigas >}} 
 
-[El Puerto de Santa María, entre palacios, playas y 
-vino](https://etheriamagazine.com/2021/11/01/guia-imprescindible-el-puerto-santa-maria/) 
+{{< reflink path=posts/2021/11/guia-imprescindible-el-puerto-santa-maria >}} 
 
-[16 planes imprescindibles en Conil con 
-amigas](https://etheriamagazine.com/2021/07/05/los-mejores-planes-en-conil-con-amigas/)
+{{< reflink path=posts/2021/07/los-mejores-planes-en-conil-con-amigas >}}

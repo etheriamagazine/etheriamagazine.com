@@ -1,7 +1,7 @@
 ---
 title: "Jamming sessions, un espectáculo donde la clave está en la improvisación"
 date: 2021-09-30
-coverImage: https://fotos.etheriamagazine.com/2021/09/portada-jamming.jpg
+cover: https://fotos.etheriamagazine.com/2021/09/portada-jamming.jpg
 categories: 
   - ocio
 destino: 
@@ -96,21 +96,20 @@ con lo que haces. Ahora más que nunca, cuando la pandemia de COVID parece un ma
 
 ### Dónde y cuándo asistir a las Jamming sessions
 
-Si quieres asistir a uno de sus espectáculos de improvisación, puedes hacerlo en el [Teatro 
-Maravillas](https://www.teatromaravillas.com/espectaculos/jamming) (c/ Manuela Malasaña, 
-6. Madrid) los viernes y sábados, además de otros días sueltos. Consulta la agenda 
-completa del teatro (enlace anterior). 
+Si quieres asistir a uno de sus espectáculos de improvisación, puedes hacerlo en el 
+[Teatro Maravillas](https://www.teatromaravillas.com/espectaculos/jamming) (c/ Manuela 
+Malasaña, 6. Madrid) los viernes y sábados, además de otros días sueltos. Consulta la 
+agenda completa del teatro (enlace anterior). 
 
 90 minutos de risas garantizadas desde 13 euros. De momento, estarán hasta el 11 de 
 diciembre de 2021. 
 
 ### También te puede interesar...
 
-[Ruta para descubrir los secretos ocultos del acueducto de 
-Segovia](https://etheriamagazine.com/2021/06/25/ruta-senderista-acueducto-segovia/). 
+{{< reflink path=posts/2021/06/ruta-senderista-acueducto-segovia >}}. 
 
-[Ruta de Ulises y Bloomsday, dos planazos en 
-Dublín](https://etheriamagazine.com/2021/06/16/ruta-de-ulises-y-bloomsday-en-dublin/). 
+{{< reflink path=posts/2021/06/ruta-de-ulises-y-bloomsday-en-dublin >}}. 
 
-[‘Hondalea’, la escultura de Cristina Iglesias que iluminará el faro de la isla de Santa 
-Clara](https://etheriamagazine.com/2021/05/04/hondalea-escultura-de-cristina-iglesias-en-faro-de-la-isla-de-santa-clara/).
+{{< reflink 
+path=posts/2021/05/hondalea-escultura-de-cristina-iglesias-en-faro-de-la-isla-de-santa-clara 
+>}}.

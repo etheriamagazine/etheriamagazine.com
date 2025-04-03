@@ -1,7 +1,7 @@
 ---
 title: "WOMEN, un siglo de cambio"
 date: 2022-02-22
-coverImage: https://fotos.etheriamagazine.com/2020/03/Women-National-Geographic.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/Women-National-Geographic.jpg
 categories: 
   - cultura
 destino: 
@@ -125,15 +125,13 @@ de vida.
 
 **Cuándo:** del 5 de marzo al 10 de abril de 2022 
 
-**Precio:** 6€ entrada [general](https://www.entradas.com/artist/women-un-siglo-de-cambio/). 
+**Precio:** 6€ entrada 
+[general](https://www.entradas.com/artist/women-un-siglo-de-cambio/). 
 
 ### También te puede interesar...
 
-[Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
-‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/). 
+{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}. 
 
-[Conoce el Museo Naval de Madrid y sus 10 piezas 
-imprescindibles](https://etheriamagazine.com/2021/04/30/que-ver-en-museo-naval-de-madrid/). 
+{{< reflink path=posts/2021/04/que-ver-en-museo-naval-de-madrid >}}. 
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/).
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}.

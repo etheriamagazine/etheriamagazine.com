@@ -1,7 +1,7 @@
 ---
 title: "'Almas en pena de Inisherin', paisajes de cine en Irlanda"
 date: 2023-01-30
-coverImage: https://fotos.etheriamagazine.com/2023/01/almas-pena-inisherin-1.jpg
+cover: https://fotos.etheriamagazine.com/2023/01/almas-pena-inisherin-1.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,23 +10,22 @@ authors:
   - Redacción Etheria
 ---
 
-El turismo de cine está cada día más de moda y hay países, como Irlanda, que pueden 
+**El turismo de cine está cada día más de moda y hay países, como Irlanda, que pueden 
 presumir de haber acogido rodajes de gran éxito como 'Juego de tronos' o 'Las cenizas de 
 Ángela'. La última película que hace soñar con la Isla Esmeralda es “Almas en pena de 
 Inisherin” y sus escenarios llevan al espectador hasta dos islas: Achill e Inis Mór (la 
-mayor de las islas de Aran). 
+mayor de las islas de Aran).** 
 
 ![Colin Farrell en la película 'Almas en pena de Inisherin'.](https://fotos.etheriamagazine.com/2023/01/almas-pena-inisherin-1.jpg "Colin Farrell en la película 'Almas en pena de Inisherin'. © Jonathan Hession/ 2022 20th Century Studios All Rights Reserved.")
 
 No es la primera vez que os hablamos en Etheria Magazine de Irlanda ni de cine, ya que 
 conjuntamente forman un tándem difícil de igualar. Cómo resistirse a recorrer algunos 
-escenarios de [‘Juego de 
-tronos’](https://etheriamagazine.com/2018/07/02/juego-de-tronos-en-irlanda-del-norte/) 
+escenarios de {{< reflink path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte >}} 
 (podéis ver la ruta en el link), visitar **las islas Skellig** en busca de los 
-protagonistas de _Star Wars_ (aquí tenéis el [artículo de 
-Skellig](https://etheriamagazine.com/2019/09/05/como-organizar-excursion-precio-islas-skellig-michael-irlanda/)) 
-o sentir simpatía por el entorno donde viven las divertidas y descaradas “Derry girls”, 
-de las que somos muy fans. 
+protagonistas de _Star Wars_ (aquí tenéis el {{< reflink 
+path=posts/2019/09/como-organizar-excursion-precio-islas-skellig-michael-irlanda >}}) o 
+sentir simpatía por el entorno donde viven las divertidas y descaradas “Derry girls”, de 
+las que somos muy fans. 
 
 En esta ocasión, la actualidad nos lleva a desear, desde ya mismo, caminar por los 
 lugares que la película **‘Almas en pena de Inisherin’** nos muestra en la gran 
@@ -112,8 +111,6 @@ Inisherin'** en tu agenda de ocio.
 
 **También te puede interesar...** 
 
-✅ [Irlanda del Norte: 6 visitas imprescindibles y 2 lugares 
-secretos](https://etheriamagazine.com/2021/05/31/8-visitas-increibles-en-irlanda-del-norte/). 
+✅ {{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}}. 
 
-✅ [5 datos para que te convenzas de que Halloween es 
-irlandés](https://etheriamagazine.com/2021/10/23/el-origen-halloween-es-irlandes/).
+✅ {{< reflink path=posts/2021/10/el-origen-halloween-es-irlandes >}}.

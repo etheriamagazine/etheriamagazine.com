@@ -1,7 +1,7 @@
 ---
 title: "Cómo recorrer el Círculo Dorado de Islandia en coche durante 7 días"
 date: 2021-12-27
-coverImage: https://fotos.etheriamagazine.com/2021/12/gullfoss-catarata-islandia.jpg
+cover: https://fotos.etheriamagazine.com/2021/12/gullfoss-catarata-islandia.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -217,11 +217,8 @@ Dorado?
 
 **También te puede interesar...** 
 
-[Viaje por el sur de Islandia, la isla del 
-desafío](https://etheriamagazine.com/2021/03/25/que-ver-sur-islandia-consejos-practicos/). 
+{{< reflink path=posts/2021/03/que-ver-sur-islandia-consejos-practicos >}}. 
 
-[8 maravillosas cataratas del mundo para 
-soñar](https://etheriamagazine.com/2020/12/04/mejores-cataratas-del-mundo/). 
+{{< reflink path=posts/2020/12/mejores-cataratas-del-mundo >}}. 
 
-[9 motivos para viajar a 
-Noruega](https://etheriamagazine.com/2020/07/15/9-motivos-para-viajar-a-noruega/).
+{{< reflink path=posts/2020/07/9-motivos-para-viajar-a-noruega >}}.

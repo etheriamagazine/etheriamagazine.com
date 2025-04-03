@@ -1,7 +1,7 @@
 ---
 title: "Dos razones bastan para viajar a la isla filipina de Bohol"
 date: 2024-03-13
-coverImage: https://fotos.etheriamagazine.com/2024/03/tarsius-isla-bohol.jpg
+cover: https://fotos.etheriamagazine.com/2024/03/tarsius-isla-bohol.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -155,8 +155,8 @@ de sus fiestas y tradiciones.
 
 **También os puede interesar…** 
 
-[‘Todos los caminos llevan a Filipinas’, un libro de mujeres 
-extraordinarias](https://etheriamagazine.com/2020/12/11/todos-los-caminos-llevan-a-filipinas-un-libro-de-mujeres-extraordinarias/). 
+{{< reflink 
+path=posts/2020/12/todos-los-caminos-llevan-a-filipinas-un-libro-de-mujeres-extraordinarias 
+>}}. 
 
-[Boracay, un viaje romántico a 
-Filipinas](https://etheriamagazine.com/2019/06/07/viaje-parejas-luna-miel-boracay-bohol-filipinas/)
+{{< reflink path=posts/2019/06/viaje-parejas-luna-miel-boracay-bohol-filipinas >}}

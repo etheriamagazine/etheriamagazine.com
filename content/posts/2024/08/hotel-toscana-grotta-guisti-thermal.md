@@ -1,7 +1,7 @@
 ---
 title: "Grotta Guisti Thermal Spa Resort, un hotel de lujo único en la Toscana"
 date: 2024-08-07
-coverImage: https://fotos.etheriamagazine.com/2024/07/Grotta-Giusti-Thermal-Spa-Resort-gruta.jpg
+cover: https://fotos.etheriamagazine.com/2024/07/Grotta-Giusti-Thermal-Spa-Resort-gruta.jpg
 categories: 
   - hoteles
 destino: 
@@ -102,5 +102,4 @@ Via Grotta Giusti 1411, Monsummano Terme, Italia, 51015. Tel. +39 0572 907 7991.
 
 **También en Etheria Magazine** 
 
-[Dónde desconectar en la Toscana, conoce sus mejores 
-termas](https://etheriamagazine.com/2022/11/03/turismo-termal-toscana-italia/)
+{{< reflink path=posts/2022/11/turismo-termal-toscana-italia >}}

@@ -1,7 +1,7 @@
 ---
 title: "10 playas de Europa donde querrás perderte este verano"
 date: 2019-04-15
-coverImage: https://fotos.etheriamagazine.com/2019/03/Playas-Europa-Capo-Testa-Cerdena.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/Playas-Europa-Capo-Testa-Cerdena.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-Llega el calorcito y no podemos dejar de visualizarnos en una playa. Si es en una de 
+**Llega el calorcito y no podemos dejar de visualizarnos en una playa. Si es en una de 
 esas con paisajes que quitan el hipo y mar transparente, mucho mejor. Por esa razón, 
 hemos elegido diez playas secretas de Europa donde te vas a imaginar sí o sí este 
-verano. 
+verano.** 
 
 ![Playa del Cuerno de Oro de la isla de Brac.](https://fotos.etheriamagazine.com/2019/04/croacia-isla-brac.jpg "Playa del Cuerno de Oro de la isla de Brac.")
 
@@ -25,7 +25,8 @@ con tu mejor bikini y un buen libro.
 
 ## 1\. Playa de Navaglio (Grecia)
 
-La playa de Navaglio (que significa 'naufragio'), situada al norte de la isla de [Zakynthos](http://www.visitgreece.gr/en/greek_islands/ionian_islands/zakynthos), 
+La playa de Navaglio (que significa 'naufragio'), situada al norte de la isla de 
+[Zakynthos](http://www.visitgreece.gr/en/greek_islands/ionian_islands/zakynthos), 
 aparece en todas las listas de ‘las mejores playas’ y es por algo, ¡si tiene hasta el 
 barco de un naufragio! Su imagen idílica e inaccesible (solo se puede llegar en barco) 
 con los restos del pecio ‘Panagiotis’ hacen de ella el lugar soñado para olvidarse de 
@@ -54,11 +55,11 @@ minutos, desde el pueblo de Afionas para disfrutar de los paisajes de esta playa
 ## 4\. Rhossili  Bay (Gales, Reino Unido)
 
 Para muchas puede ser sorprendente, pero en Gales hay unas playas estupendas y una de 
-las mejores es Rhossili [](https://www.visitswanseabay.com/listings/rhossili-bay-beach/)Bay. 
-El hecho de que el clima no siempre acompañe la naturaleza lo compensa con todos los 
-tonos de verde que rodea esta amplia bahía de larga marea. Se puede llegar caminando 
-desde el pueblo de Rhossili y es perfecta para combinar con una ruta de senderismo por 
-la zona. 
+las mejores es Rhossili 
+[](https://www.visitswanseabay.com/listings/rhossili-bay-beach/)Bay. El hecho de que el 
+clima no siempre acompañe la naturaleza lo compensa con todos los tonos de verde que 
+rodea esta amplia bahía de larga marea. Se puede llegar caminando desde el pueblo de 
+Rhossili y es perfecta para combinar con una ruta de senderismo por la zona. 
 
 ![Playa de Rhossili Bay (Gales).](https://fotos.etheriamagazine.com/2019/03/Playas-Europa-Gales.jpg "Playa de Rhossili Bay (Gales).")
 
@@ -121,11 +122,8 @@ Jónico.
 
 📌 **También te puede interesar:** 
 
-[10 playas en España para disfrutar del 
-verano](https://etheriamagazine.com/2020/06/03/10-playas-en-espana-para-este-verano/) 
+{{< reflink path=posts/2020/06/10-playas-en-espana-para-este-verano >}} 
 
-[Zambúllete en la mejor guía de playas de 
-Formentera](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-playas-formentera/) 
+{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}} 
 
-[¿Son éstas las 10 playas más bonitas del 
-Algarve?](https://etheriamagazine.com/2022/08/04/mejores-playas-del-algarve/)
+{{< reflink path=posts/2022/08/mejores-playas-del-algarve >}}

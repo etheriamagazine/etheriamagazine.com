@@ -1,7 +1,7 @@
 ---
 title: "Hotel Santo Cristo, el lujo discreto de los pequeños detalles"
 date: 2022-01-10
-coverImage: https://fotos.etheriamagazine.com/2022/01/Hotel-Santo-Cristo-terraza.jpg
+cover: https://fotos.etheriamagazine.com/2022/01/Hotel-Santo-Cristo-terraza.jpg
 categories: 
   - hoteles
 destino: 
@@ -73,19 +73,19 @@ los clásicos habituales, referencias de producción limitada y vinos singulares
 
 Pero si hay un lugar realmente especial en este hotel es su **terraza**, con unas vistas 
 estupendas del _skyline_ marbellí, con las iglesias de Santo Cristo y la Encarnación 
-como protagonistas, enmarcadas por el Mediterráneo a un lado y la Sierra Blanca al otro. [Hotel 
-Santo Cristo](https://laciudadelamarbella-sc.com/es) Plaza Santo Cristo, 2. 29601 
+como protagonistas, enmarcadas por el Mediterráneo a un lado y la Sierra Blanca al otro. 
+[Hotel Santo Cristo](https://laciudadelamarbella-sc.com/es) Plaza Santo Cristo, 2. 29601 
 Marbella. Tel. +34 900 60 60 67. Precio de habitación doble desde 290 Euros. 
 
 © Fotografías Grupo La Ciudadela. 
 
 ### También te puede interesar:
 
-[Planes para exprimir un fin de semana en Marbella con 
-amigas](https://etheriamagazine.com/2019/06/11/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana/) 
+{{< reflink 
+path=posts/2019/06/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana 
+>}} 
 
-[Alcuzcuz Hotel Boutique, un oasis secreto en Benahavís 
-(Málaga)](https://etheriamagazine.com/2019/07/08/alcuzcuz-hotel-boutique-escapada-romantica-benahavis-malaga/) 
+{{< reflink 
+path=posts/2019/07/alcuzcuz-hotel-boutique-escapada-romantica-benahavis-malaga >}} 
 
-[Un día en Frigiliana, uno de los pueblos más bonitos de 
-Málaga](https://etheriamagazine.com/2021/12/15/que-ver-excursion-a-frigiliana/)
+{{< reflink path=posts/2021/12/que-ver-excursion-a-frigiliana >}}

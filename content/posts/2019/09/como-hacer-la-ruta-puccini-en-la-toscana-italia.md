@@ -1,7 +1,7 @@
 ---
 title: "La Ruta Puccini, la Toscana sin masificación turística es posible"
 date: 2019-09-11
-coverImage: https://fotos.etheriamagazine.com/2019/09/viaje-lucca-ruta-puccini-revista-etheria.jpg
+cover: https://fotos.etheriamagazine.com/2019/09/viaje-lucca-ruta-puccini-revista-etheria.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Kelu Robles
 ---
 
-Lejos de las poses frenéticas frente a la torre de Pisa, existe una Toscana discreta en 
-torno a la ruta Puccini, libre de souvenirs y del mancillamiento de los 'palos selfi'. 
-Para descubrirla, sigue los pasos que hemos dado en Etheria Magazine por la provincia 
-italiana de Lucca. 
+**Lejos de las poses frenéticas frente a la torre de Pisa, existe una Toscana discreta 
+en torno a la ruta Puccini, libre de souvenirs y del mancillamiento de los 'palos 
+selfi'. Para descubrirla, sigue los pasos que hemos dado en Etheria Magazine por la 
+provincia italiana de Lucca.** 
 
 ![Fragmento de la Muralla medieval de Lucca](https://fotos.etheriamagazine.com/2019/09/viaje-lucca-ruta-puccini-revista-etheria.jpg "Fragmento de la Muralla medieval de Lucca. ©KR")
 
@@ -56,8 +56,8 @@ modos de vida en los que hoy podemos adentrarnos.
 Los **piques arquitectónicos** entre los comerciantes más adinerados de la ciudad dieron 
 como resultado una urbe repleta de majestuosos templos. 
 
-✅ No te pierdas ningún detalle en nuestro artículo [¿Por qué Lucca es una parada 
-obligada en la Toscana?](https://etheriamagazine.com/2019/02/18/que-ver-en-lucca/) 
+✅ No te pierdas ningún detalle en nuestro artículo {{< reflink 
+path=posts/2019/02/que-ver-en-lucca >}} 
 
 ![torre guinigui en Lucca](https://fotos.etheriamagazine.com/2019/09/viaje-lucca-mujeres-torre-guinigui.jpg "¿Subirías a pie los más de 200 escalones de la Torre Guinigi? ©KR")
 

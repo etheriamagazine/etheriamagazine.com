@@ -1,7 +1,7 @@
 ---
 title: "Pasear entre tumbas en Madrid: claves del necroturismo en el cementerio de la Almudena"
 date: 2019-10-30
-coverImage: https://fotos.etheriamagazine.com/2019/10/cementerio-almudena-tetas-desnudo.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/cementerio-almudena-tetas-desnudo.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -178,11 +178,10 @@ larga y la magnitud y grandiosidad de sus mausoleos también lo son.
 
 ### También te puede interesar....
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/). 
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}. 
 
-[Ruta por el Madrid más libre (de 
-gluten)](https://etheriamagazine.com/2020/10/02/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias/). 
+{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
+>}}. 
 
-[Sierra del Rincón, una bonita escapada a los pueblos y hayedos de 
-Madrid](https://etheriamagazine.com/2020/09/15/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid/).
+{{< reflink path=posts/2020/09/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid 
+>}}.

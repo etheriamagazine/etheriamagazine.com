@@ -1,7 +1,7 @@
 ---
 title: "Dormir en un castillo en el valle del Loira: 4 propuestas imbatibles"
 date: 2022-04-15
-coverImage: https://fotos.etheriamagazine.com/2022/04/castillo-grand-luce-suite.jpg
+cover: https://fotos.etheriamagazine.com/2022/04/castillo-grand-luce-suite.jpg
 categories: 
   - ocio
 destino: 
@@ -140,11 +140,8 @@ para visitar esta ciudad y sus alrededores.
 
 ### También te puede interesar:
 
-[Valle del Loira, cinco castillos y un increíble festival de 
-jardines](https://etheriamagazine.com/2021/08/09/valle-del-loira-entre-castillos-y-jardines/) 
+{{< reflink path=posts/2021/08/valle-del-loira-entre-castillos-y-jardines >}} 
 
-[Ruta en coche por el Valle del 
-Loira](https://etheriamagazine.com/2019/03/14/que-ver-ruta-en-coche-valle-del-loira/) 
+{{< reflink path=posts/2019/03/que-ver-ruta-en-coche-valle-del-loira >}} 
 
-[Relais de Chambord, un pequeño hotel de lujo en el corazón del Valle del 
-Loira](https://etheriamagazine.com/2021/08/02/relais-de-chambord-hotel-lujo-valle-del-loira/)
+{{< reflink path=posts/2021/08/relais-de-chambord-hotel-lujo-valle-del-loira >}}

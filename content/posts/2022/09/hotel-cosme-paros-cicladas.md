@@ -1,7 +1,7 @@
 ---
 title: "Cosme, a Luxury Collection Resort, Paros, un refugio de lujo en las islas Cícladas"
 date: 2022-09-02
-coverImage: https://fotos.etheriamagazine.com/2022/08/cosme-paros-piscina.jpg
+cover: https://fotos.etheriamagazine.com/2022/08/cosme-paros-piscina.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Las islas Cícladas son promesa de cielos azules y casas inmaculadas. Para vivirlas algo 
-más alejada de los principales focos turísticos de Mikonos y Santorini, elige la isla de 
-Paros. Y en ella el pequeño y recién inaugurado hotel Cosme, a Luxury Collection Resort, 
-Paros. Se convertirá en uno de tus sitios favoritos en el mundo. 
+**Las islas Cícladas son promesa de cielos azules y casas inmaculadas. Para vivirlas 
+algo más alejada de los principales focos turísticos de Mikonos y Santorini, elige la 
+isla de Paros. Y en ella el pequeño y recién inaugurado hotel Cosme, a Luxury Collection 
+Resort, Paros. Se convertirá en uno de tus sitios favoritos en el mundo.** 
 
 ![infinity pool en la isla de Paros](https://fotos.etheriamagazine.com/2022/08/cosme-paros-piscina.jpg "Piscina del hotel Cosme Paros.")
 
@@ -80,11 +80,10 @@ Naousa, Paros, Grecia. Tel. +30-210-8993790
 
 **También te puede interesar:** 
 
-[Escapada ‘slow’ a Paros, Amorgos y Milos, el secreto mejor guardado de las 
-Cícladas](https://etheriamagazine.com/2020/10/20/descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas/) 
+{{< reflink 
+path=posts/2020/10/descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas 
+>}} 
 
-[Rodas, el primer paso para enamorarse de las Islas 
-Griegas](https://etheriamagazine.com/2019/08/14/que-ver-48-horas-en-rodas-islas-griegas/) 
+{{< reflink path=posts/2019/08/que-ver-48-horas-en-rodas-islas-griegas >}} 
 
-[Crucero por las Islas 
-Griegas](https://etheriamagazine.com/2019/01/03/que-visitar-crucero-por-islas-griegas/)
+{{< reflink path=posts/2019/01/que-visitar-crucero-por-islas-griegas >}}

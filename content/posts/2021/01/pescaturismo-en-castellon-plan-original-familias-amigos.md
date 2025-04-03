@@ -1,7 +1,7 @@
 ---
 title: "Pescaturismo en Castellón, un plan original para hacer con amigas o en familia"
 date: 2021-01-12
-coverImage: https://fotos.etheriamagazine.com/2020/05/amanecer-pescaturismo.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/amanecer-pescaturismo.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -150,41 +150,41 @@ paga muy mal”.
 
 ¿Saben ya que van a pedir? Pregunta el camarero. Y entre risas y gratas conversaciones, 
 en las que arreglamos el mundo, le pediremos un minuto más y echaremos un vistazo a la 
-carta, esta vez, con otros ojos. Da igual si la velada transcurre en el [ReLevante](https://www.re-levante.com/restaurante/) 
-o en [Casa Lola](https://www.facebook.com/casalolaelgrau/?ref=bookmarks), cualquier 
-restaurante puede ser el decorado de esta escena tan nuestra. Más allá de escoger entre 
-el pescado del día, la ensalada de langostinos del Grao, las _sepietas_ a la plancha o 
-las puntillas de calamar, apreciaremos el valor de un oficio ancestral cuyo esfuerzo 
-diario no está valorado ni tampoco reconocido. 
+carta, esta vez, con otros ojos. Da igual si la velada transcurre en el 
+[ReLevante](https://www.re-levante.com/restaurante/) o en [Casa 
+Lola](https://www.facebook.com/casalolaelgrau/?ref=bookmarks), cualquier restaurante 
+puede ser el decorado de esta escena tan nuestra. Más allá de escoger entre el pescado 
+del día, la ensalada de langostinos del Grao, las _sepietas_ a la plancha o las 
+puntillas de calamar, apreciaremos el valor de un oficio ancestral cuyo esfuerzo diario 
+no está valorado ni tampoco reconocido. 
 
 ### CONSEJOS ETHERIA
 
-• La actividad de pesca-turismo está disponible todo el año, salvo los periodos 
-establecidos de veda y las jornadas que el patrón considere no seguras. En su web [Pesca-turismo 
-El Paraíso](https://pescaturismo.es/), encontraréis toda la información que necesitéis. 
-Hora de recogida, precio, ropa, calzado, etc. Desde 75 €/ persona (grupos de 3 o más) 
-con todo incluido: excursión, comidas, visitas, etc. 
+- La actividad de pesca-turismo está disponible todo el año, salvo los periodos 
+establecidos de veda y las jornadas que el patrón considere no seguras. En su web 
+[Pesca-turismo El Paraíso](https://pescaturismo.es/), encontraréis toda la información 
+que necesitéis. Hora de recogida, precio, ropa, calzado, etc. Desde 75 €/ persona 
+(grupos de 3 o más) con todo incluido: excursión, comidas, visitas, etc. 
 
-• Tened en cuenta que es una jornada completa sin posibilidad de regresar una vez que 
+- Tened en cuenta que es una jornada completa sin posibilidad de regresar una vez que 
 hemos zarpado. Es una actividad única e inolvidable pero recordad que no es un barco de 
 recreo y que ellos están trabajando. 
 
-• Como el madrugón no os lo quita nadie, mejor alojarse cerca del puerto. El hotel [NH 
+- Como el madrugón no os lo quita nadie, mejor alojarse cerca del puerto. El hotel [NH 
 Castellón 
 Turcosa](https://www.nh-hoteles.es/hotel/nh-castellon-turcosa?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb&utm_term=langtest) 
 es una excelente opción ya que se encuentra justo enfrente. 
 
-• Castellón de la Plana es muy desconocido. Merece la pena recorrer sus calles en las 
+- Castellón de la Plana es muy desconocido. Merece la pena recorrer sus calles en las 
 que descubriremos muchas joyas, entre ellas, la panadería centenaria el **_Forn 
 Adell,_** abierta desde 1875 en la calle Alloza. 
 
 ### Sigue leyendo...
 
-[Planes en Dénia y Jávea para mujeres 
-sibaritas](https://etheriamagazine.com/2021/04/03/que-hacer-donde-comer-con-amigas-denia-javea/). 
+{{< reflink path=posts/2021/04/que-hacer-donde-comer-con-amigas-denia-javea >}}. 
 
-[8 excursiones con niños en 
-Alicante](https://etheriamagazine.com/2020/05/28/8-excursiones-con-ninos-en-alicante/). 
+{{< reflink path=posts/2020/05/8-excursiones-con-ninos-en-alicante >}}. 
 
-[La ruta de la gamba 
-roja](https://etheriamagazine.com/2019/07/02/mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva/).
+{{< reflink 
+path=posts/2019/07/mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva 
+>}}.

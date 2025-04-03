@@ -1,7 +1,7 @@
 ---
 title: "Razones, si es que las necesitas, por las que deberías planear ya una escapada por la provincia de Segovia"
 date: 2021-03-09
-coverImage: https://fotos.etheriamagazine.com/2021/03/segovia-Jardines-y-palacio-de-La-Granja.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/segovia-Jardines-y-palacio-de-La-Granja.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Yolanda Cardo
 ---
 
-Eclipsada por su monumental capital, este hermoso territorio se guarda muchos ases en la 
-manga que te desvelamos en este artículo que contiene 15 visitas imprescindibles para 
+**Eclipsada por su monumental capital, este hermoso territorio se guarda muchos ases en 
+la manga que te desvelamos en este artículo que contiene 15 visitas imprescindibles para 
 hacer en Segovia y provincia. Y recuerda, cualquier momento del año es bueno para 
-disfrutar de los numerosos encantos que brinda. 
+disfrutar de los numerosos encantos que brinda.** 
 
 ![madriguera pueblo rojo de segovia](https://fotos.etheriamagazine.com/2021/03/ruta-por-segovia-Madriguera.jpg "Madriguera es uno de los pueblos rojos de Segovia. © Diputación Provincia de Segovia")
 
@@ -28,20 +28,20 @@ desde privilegiados miradores naturales que superan los 2.000 metros. Y terminar
 encontrando la paz entre los muros de una antigua ermita erigida por devotos monjes 
 encima de un impresionante meandro sobre las aguas del Duratón. 
 
-✅ No te pierdas un [vuelo en globo sobre 
-Segovia](https://etheriamagazine.com/2020/07/07/vuelos-en-globo-en-espana-regalo-viajero/) 
-u otras provincia de la región. 
+✅ No te pierdas un {{< reflink 
+path=posts/2020/07/vuelos-en-globo-en-espana-regalo-viajero >}} u otras provincia de la 
+región. 
 
 ## Lugares imprescindibles que ver en Segovia
 
-Del poder evocador de nuestra mente fluyen varios itinerarios por estas hospitalarias [tierras 
-segovianas](https://segoviaturismo.es/) fronterizas a Madrid, Ávila, Soria, Guadalajara, 
-Burgos y Valladolid. Cerca de 7.000 km2 de una gran riqueza patrimonial y natural, con 
-permiso de su sabroso embajador, el asado, la cara más visible de su apreciada 
-gastronomía. Para preparar tu viaje hemos elegido nuestros 15 lugares favoritos en la 
-provincia de Segovia. ¿Con cuál os quedáis? 
+Del poder evocador de nuestra mente fluyen varios itinerarios por estas hospitalarias 
+[tierras segovianas](https://segoviaturismo.es/) fronterizas a Madrid, Ávila, Soria, 
+Guadalajara, Burgos y Valladolid. Cerca de 7.000 km2 de una gran riqueza patrimonial y 
+natural, con permiso de su sabroso embajador, el asado, la cara más visible de su 
+apreciada gastronomía. Para preparar tu viaje hemos elegido nuestros 15 lugares 
+favoritos en la provincia de Segovia. ¿Con cuál os quedáis? 
 
-**• Índice de rutas por Segovia** 
+**- Índice de rutas por Segovia** 
 
 [Segovia capital.](#segovia-capital) [Reales Sitios: Palacio de la Granja y Palacio de 
 Riofrío](#palacios-segovia). [Rutas naturales: Hoces del Duratón y de Riaza, P.N. de 
@@ -55,12 +55,11 @@ Ayllón...](#pueblos-segovia)
 
 La emblemática ciudad de Segovia, Patrimonio de la Humanidad por la Unesco desde 1985, 
 no necesita presentación. De eso ya se encargan su espectacular **acueducto** y su 
-hermoso **Alcázar** (que podéis conocer en este artículo sobre [el sorprendente interior 
-del 
-Alcázar](https://etheriamagazine.com/2020/03/11/que-ver-interior-precio-entradas-del-alcazar-de-segovia/)), 
-un edificio propio de un cuento de hadas que fue durante siglos fortaleza de los 
-monarcas castellanos. Y aunque resulte difícil escapar del influjo de estos monumentos, 
-Segovia ofrece mucho más, basta pasear por sus calles y disfrutarla. 
+hermoso **Alcázar** (que podéis conocer en este artículo sobre {{< reflink 
+path=posts/2020/03/que-ver-interior-precio-entradas-del-alcazar-de-segovia >}}), un 
+edificio propio de un cuento de hadas que fue durante siglos fortaleza de los monarcas 
+castellanos. Y aunque resulte difícil escapar del influjo de estos monumentos, Segovia 
+ofrece mucho más, basta pasear por sus calles y disfrutarla. 
 
 📌 [Freetour por 
 Segovia](https://www.civitatis.com/es/segovia/free-tour-segovia/?aid=10211) o [Visita 
@@ -76,8 +75,8 @@ Delimitándola en uno de sus extremos, la catedral de Nuestra Señora de la Asun
 San Frutos, conocida como la Dama de las Catedrales. Construida entre los siglos XVI y 
 XVIII, su estilo está catalogado como gótico tardío. 
 
-📌**Dónde comer en Segovia:** [Los tres tenores del cochinillo, una historia de amor 
-correspondido.](https://etheriamagazine.com/2020/12/01/mejores-restaurantes-para-comer-cochinillo-en-segovia/) 
+📌**Dónde comer en Segovia:** {{< reflink 
+path=posts/2020/12/mejores-restaurantes-para-comer-cochinillo-en-segovia >}} 
 
 ![panoramica del acueducto romano de segovia](https://fotos.etheriamagazine.com/2021/03/segovia-acueducto-romano.jpg "Acueducto romano de Segovia. © Dip. Prov. de Segovia")
 
@@ -145,8 +144,8 @@ No nos alejamos mucho porque a menos de 5 kilómetros se encuentran los pinares 
 Valsaín, cuyo aprovechamiento es un ejemplo de sostenibilidad. En este entorno podemos 
 recorrer las pesquerías reales del Eresma y las ruinas del antiguo palacio de los 
 Austrias destruido por el fuego en 1697. Si tienen curiosidad por saber qué aspecto 
-tenía, en las instalaciones de [CENEAM](https://www.miteco.gob.es/es/ceneam/quienes-somos/) 
-se exhibe una maqueta. 
+tenía, en las instalaciones de 
+[CENEAM](https://www.miteco.gob.es/es/ceneam/quienes-somos/) se exhibe una maqueta. 
 
 ![palacio real de riofrio en segovia](https://fotos.etheriamagazine.com/2021/03/segovia-Palacio-de-Riofrio.jpg "Palacio Real de Riofrío. © Dip. Prov. de Segovia")
 
@@ -260,7 +259,8 @@ esta ocasión.
 
 ### 12\. Pedraza, encanto a raudales
 
-Visitamos la coqueta población de [Pedraza](https://segoviaturismo.es/ven-a-segovia/destinos/otros-destinos-en-la-provincia-de-segovia/3464-pedraza), 
+Visitamos la coqueta población de 
+[Pedraza](https://segoviaturismo.es/ven-a-segovia/destinos/otros-destinos-en-la-provincia-de-segovia/3464-pedraza), 
 uno de los pueblos con más encanto de nuestra geografía. Allí se alza su castillo, 
 actualmente en manos de los herederos del pintor guipuzcoano Ignacio de Zuloaga 
 (1870-1945) que lo mantienen como vivienda y museo del célebre artista. Su plaza Mayor 
@@ -324,8 +324,6 @@ y Martín Muñoz de Ayllón, amarillos. Para gustos ya sabéis lo que dicen.
 
 ![cochinillo restaurante jose maria](https://fotos.etheriamagazine.com/2020/11/restaurante-jose-maria-segovia.jpg "Cochinillo deshuesado y vino Pago de Carraovejas del © restaurante José María (Segovia).")
 
-📌 [11 escapadas de un día a 100 km o más de 
-Madrid](https://etheriamagazine.com/2020/06/02/11-escapadas-cercanas-a-dos-horas-de-madrid/). 
+📌 {{< reflink path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}}. 
 
-📌 [Sepulveda y las hoces del Duratón, una escapada para toda la 
-familia.](https://etheriamagazine.com/2019/07/11/sepulveda-y-las-hoces-del-duraton-viaje-en-familia/)
+📌 {{< reflink path=posts/2019/07/sepulveda-y-las-hoces-del-duraton-viaje-en-familia >}}

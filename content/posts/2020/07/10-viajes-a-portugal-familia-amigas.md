@@ -1,7 +1,7 @@
 ---
 title: "10 viajes a Portugal para este verano"
 date: 2020-07-02
-coverImage: https://fotos.etheriamagazine.com/2019/06/canales-aveiro-moliceiro.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/canales-aveiro-moliceiro.jpg
 categories: 
   - inspiración
   - ocio
@@ -38,8 +38,8 @@ del año. Aquí os contamos unas cuantas visitas imprescindibles en Oporto para 
 perdáis nada de esta preciosa ciudad en un fin de semana. Y recordad que no puede 
 faltaros un crucero por el Duero. 
 
-📍 [12 visitas imprescindibles en tu viaje a 
-Oporto](https://etheriamagazine.com/2020/05/01/viajar-sola-amigas-a-oporto-12-visitas-imprescindibles/). 
+📍 {{< reflink path=posts/2020/05/viajar-sola-amigas-a-oporto-12-visitas-imprescindibles 
+>}}. 
 
 ![crucero en Oporto](https://fotos.etheriamagazine.com/2020/04/vistas-oporto-puente-uis-I.jpg "La Ribeira y barcos que recorren el río Duero. © Etheria Magazine")
 
@@ -51,11 +51,10 @@ la meca portuguesa del surf. Convence a tus amigas y, tras recorrer las calles s
 apetecibles de Lisboa y descubrirla a través de sus miradores, enfundaos en el neopreno 
 y ¡a cabalgar sobre las olas! 
 
-📍 [Lisboa y Ericeira, un plan cercano para las amantes del mar, el surf y el buen 
-comer](https://etheriamagazine.com/2020/03/24/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf/). 
+📍 {{< reflink path=posts/2024/08/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf 
+>}}. 
 
-📍 [12 miradores de Lisboa para enamorarse de sus 
-vistas](https://etheriamagazine.com/2018/10/30/12-miradores-para-exprimir-lisboa/). 
+📍 {{< reflink path=posts/2018/10/12-miradores-para-exprimir-lisboa >}}. 
 
 ![playa de Ericeira](https://fotos.etheriamagazine.com/2020/03/Ericeira-costa.jpg "Acantilados de Ericeira. © Christian Holzinger")
 
@@ -68,8 +67,7 @@ San José y la iglesia Matriz, todas en Vila Baleira, la capital de la isla. Y f
 ella, no podréis perderos las Columnas del Pico Ana Ferreira, la Quinta das Palmeiras o 
 Ponta Calheta. 
 
-📍 [Porto Santo, la isla 
-tranquila](https://etheriamagazine.com/2019/02/05/que-ver-porto-santo-madeira/). 
+📍 {{< reflink path=posts/2019/02/que-ver-porto-santo-madeira >}}. 
 
 ![isla porto santo](https://fotos.etheriamagazine.com/2019/02/Porto-Santo-mirador.jpg "Mirador de Portela, las mejores vistas de Porto Santo.")
 
@@ -81,8 +79,7 @@ repostería) a muy buen precio. No os perdáis la Catedral Vieja, los Jardines d
 das Lágrimas y un paseo por la orilla del río Mondego. Y, si tenéis oportunidad, 
 regalaos una noche de fados. 
 
-📍 [Enamórate de Coimbra en solo un fin de 
-semana](https://etheriamagazine.com/2020/01/31/viaje-con-amigas-que-ver-en-coimbra/). 
+📍 {{< reflink path=posts/2020/01/viaje-con-amigas-que-ver-en-coimbra >}}. 
 
 ![universidad coimbra](https://fotos.etheriamagazine.com/2020/01/universidad-coimbra.jpg "Escaleras de la Universidad, photocall de los estudiantes. © P.G.")
 
@@ -93,8 +90,7 @@ que no puedes perderte. Encontrarás lugares tan sorprendentes como las Grutas d
 el [Parque Biológico da Serra da Lousa](https://parquebiologicoserralousa.pt/), el Museo 
 Marítimo de Ílhavo o el curioso y parque de Portugal dos Pequenitos. 
 
-📍 [9 planes divertidos en el centro de Portugal con 
-niños](https://etheriamagazine.com/2019/06/28/planes-divertidos-viajes-familia-portugal/). 
+📍 {{< reflink path=posts/2019/06/planes-divertidos-viajes-familia-portugal >}}. 
 
 ![Niños de viaje en Portugal](https://fotos.etheriamagazine.com/2019/06/parque-aventura-figueira-da-foz-portugal.jpg "Parque de Aventura de Figueira da Foz. ©PG")
 
@@ -106,8 +102,7 @@ conforman con planes convencionales. ¿Cómo te suena dar un paseo en un tractor
 un vino con vistas? Además, te encantará **Évora**, la majestuosa y monumental capital 
 de la región. 
 
-📍 [5 experiencias originales en el 
-Alentejo](https://etheriamagazine.com/2018/11/08/5-experiencias-con-amigas-en-el-alentejo/). 
+📍 {{< reflink path=posts/2018/11/5-experiencias-con-amigas-en-el-alentejo >}}. 
 
 ![Dehesa en Alentejo](https://fotos.etheriamagazine.com/2018/11/Paseo-tractor-alentejo.jpg "Paseo en remolque en Herdade Passanha (Alentejo). ©P.G.")
 
@@ -119,8 +114,7 @@ que encontrarás sus famosos y coloridos barcos moliceiros. Además, es perfecta
 recorrerla en bicicleta (son gratuitas) y en sus alrededores podréis visitar las 
 coloridas casas de Costa Nova y la capital del bacalao, Ílhavo. 
 
-📍 [Aveiro no es la Venecia portuguesa ni falta que 
-hace](https://etheriamagazine.com/2018/09/11/viaje-con-amigas-aveiro-portugal/). 
+📍 {{< reflink path=posts/2018/09/viaje-con-amigas-aveiro-portugal >}}. 
 
 ![barcas tradicionales de Aveiro](https://fotos.etheriamagazine.com/2019/06/canales-aveiro-moliceiro.jpg "Moliceiros en los canales de Aveiro. ©PG")
 
@@ -133,8 +127,7 @@ aristócratas y ricos en general. Conservan joyas como la preciosa ciudadela de 
 el Palacio da Pena de Sintra y el mítico Casino de Estoril. Y, además, no podréis 
 resistiros a un baño en sus doradas playas. 
 
-📍 [Cascais, Sintra y Estoril, la escapada con amigas que 
-mereces](https://etheriamagazine.com/2018/07/31/48-horas-en-cascais-sintra-y-estoril/). 
+📍 {{< reflink path=posts/2018/07/48-horas-en-cascais-sintra-y-estoril >}}. 
 
 ![Palacio de Sintra](https://fotos.etheriamagazine.com/2018/07/Palacio-da-Pena-Sintra-Turismo-Cascais.jpg "Palacio da Pena (Sintra).")
 
@@ -146,8 +139,7 @@ delfines y ballenas, baños en piscinas naturales, paseos en kayak, descender a 
 chimenea volcánica o hacer una ruta de senderismo entre las flores con vistas al océano 
 por lugares donde no os encontraréis con (casi) nadie. 
 
-📍 [Viaje con niños a Terceira: aventura entre las 
-flores](https://etheriamagazine.com/2018/06/20/terceira-en-familia/). 
+📍 {{< reflink path=posts/2018/06/terceira-en-familia >}}. 
 
 ![Lancha rápida en Terceira](https://fotos.etheriamagazine.com/2018/05/Terceira-AVISTAMIENTO-CETACEOS-4.jpg "Avistamiento de cetáceos en Terceira (Azores). © SG")
 
@@ -160,18 +152,15 @@ Vicente. Cuenta con dos ramales: el Camino de los Pescadores (junto a la costa) 
 Camino Histórico (por el interior rural). Ya sólo te queda elegir el tramo, coger las 
 botas de montaña ¡y a caminar! 
 
-📍 [Ruta Vicentina: senderismo en Alentejo y 
-Algarve](https://etheriamagazine.com/2018/07/25/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal/). 
+📍 {{< reflink 
+path=posts/2018/07/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal >}}. 
 
 ![Senderismo en la ruta Vicentina](https://fotos.etheriamagazine.com/2018/07/Ruta-vicentina-viajes-de-aventura-mujeres.jpg "Caminata en la Ruta Vicentina (Portugal).")
 
 ## También te puede interesar:
 
-[10 viajes para disfrutar de la buena vida en 
-Francia](https://etheriamagazine.com/2020/09/02/mejores-destinos-para-viajar-en-francia/) 
+{{< reflink path=posts/2020/09/mejores-destinos-para-viajar-en-francia >}} 
 
-[10 viajes para enamorarte de 
-Italia](https://etheriamagazine.com/2020/08/03/10-grandes-viajes-a-italia/) 
+{{< reflink path=posts/2020/08/10-grandes-viajes-a-italia >}} 
 
-[8 viajes para volver a Estados 
-Unidos](https://etheriamagazine.com/2021/11/03/viajes-a-estados-unidos/)
+{{< reflink path=posts/2021/11/viajes-a-estados-unidos >}}

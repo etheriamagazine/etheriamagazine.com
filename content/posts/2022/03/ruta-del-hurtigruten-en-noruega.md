@@ -1,7 +1,7 @@
 ---
 title: "El Hurtigruten, el barco postal desde el que ver las auroras boreales"
 date: 2022-03-11
-coverImage: https://fotos.etheriamagazine.com/2022/02/noruega-El-Expreso-del-Litoral.jpg
+cover: https://fotos.etheriamagazine.com/2022/02/noruega-El-Expreso-del-Litoral.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -186,11 +186,8 @@ Consulta la web de la [Oficina de Turismo](http://www.visitnorway.es/) de Norueg
 
 **También te puede interesar**: 
 
-[Prepara tu viaje a… 
-Noruega](https://etheriamagazine.com/2020/08/18/prepara-tu-viaje-libros-series-de-noruega/). 
+{{< reflink path=posts/2020/08/prepara-tu-viaje-libros-series-de-noruega >}}. 
 
-[9 motivos para viajar a 
-Noruega](https://etheriamagazine.com/2020/07/15/9-motivos-para-viajar-a-noruega/). 
+{{< reflink path=posts/2020/07/9-motivos-para-viajar-a-noruega >}}. 
 
-[Trondheim, Bergen y Oslo, las 3 capitales de 
-Noruega](https://etheriamagazine.com/2020/01/24/que-ver-en-noruega-trondheim-bergen-y-oslo/)
+{{< reflink path=posts/2020/01/que-ver-en-noruega-trondheim-bergen-y-oslo >}}

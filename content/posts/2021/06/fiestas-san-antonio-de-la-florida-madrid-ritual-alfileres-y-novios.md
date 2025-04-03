@@ -1,7 +1,7 @@
 ---
 title: "Si quieres un novio, pídeselo a San Antonio el 13 de junio"
 date: 2021-06-11
-coverImage: https://fotos.etheriamagazine.com/2021/06/verbena-de-san-antonio-madrid.jpg
+cover: https://fotos.etheriamagazine.com/2021/06/verbena-de-san-antonio-madrid.jpg
 categories: 
   - ocio
 destino: 
@@ -146,7 +146,8 @@ Antonio de la Florida. 18:00h: Federación de grupos tradicionales madrileños. 
 Compañía Mª Dolores Marco “La Zarzuela más divertida” 22:00h.: Actuación musical de 
 Whiskey in the bar. 
 
-Más información en la [web](https://www.esmadrid.com/informacion-turistica/ermita-de-san-antonio-de-la-florida) 
+Más información en la 
+[web](https://www.esmadrid.com/informacion-turistica/ermita-de-san-antonio-de-la-florida) 
 de Turismo de Madrid. 
 
 ### Preguntas frecuentes
@@ -170,5 +171,4 @@ La entrada a la ermita de San Antonio de la Florida es gratuita.
 
 ##### ¿Quieres seguir leyendo sobre Madrid?
 
-[10 planes originales en Madrid para hacer con 
-amigas](https://etheriamagazine.com/2020/08/27/10-planes-originales-en-madrid-con-amigas/).
+{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}.

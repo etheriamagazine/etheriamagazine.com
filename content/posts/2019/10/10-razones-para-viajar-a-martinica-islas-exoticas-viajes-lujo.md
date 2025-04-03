@@ -1,7 +1,7 @@
 ---
 title: "10 razones para viajar a Martinica, la perla de las Antillas menores"
 date: 2019-10-04
-coverImage: https://fotos.etheriamagazine.com/2019/09/Martinica-mont-pelee.jpg
+cover: https://fotos.etheriamagazine.com/2019/09/Martinica-mont-pelee.jpg
 categories: 
   - viajar-en-pareja
   - inspiración
@@ -11,11 +11,11 @@ authors:
   - Yvonne Solé
 ---
 
-Martinica es la cuna de la emperatriz Josefina Bonaparte, fuente de inspiración de 
+**Martinica es la cuna de la emperatriz Josefina Bonaparte, fuente de inspiración de 
 Gauguin y el lugar donde el poeta Aimé Césaire reivindicó la cultura africana. Este 
 pedazo de Francia trasplantado en el corazón del Caribe es el destino perfecto para unas 
 vacaciones que aúnen naturaleza, historia, gastronomía y playas de postal. Te damos solo 
-diez razones por las que merece la pena visitar esta preciosa isla. 
+diez razones por las que merece la pena visitar esta preciosa isla.** 
 
 **Fotografías: Félix Lorenzo.** 
 
@@ -239,11 +239,10 @@ durante su estancia en la isla.
 
 **También te puede interesar...** 
 
-[Cómo organizar un viaje de novios inolvidable y no morir en el 
-intento](https://etheriamagazine.com/2021/01/13/como-organizar-viaje-de-novios-o-luna-de-miel/). 
+{{< reflink path=posts/2021/01/como-organizar-viaje-de-novios-o-luna-de-miel >}}. 
 
-[Aruba, Bonaire y Curazao… Un viaje con amigas al 
-paraíso](https://etheriamagazine.com/2020/02/12/viaje-con-amigas-caribe-aruba-bonaire-y-curazao/). 
+{{< reflink path=posts/2020/02/viaje-con-amigas-caribe-aruba-bonaire-y-curazao >}}. 
 
-[Couchsurfing en Panamá: viaja sola a Bocas del Toro y al archipiélago de San 
-Blas](https://etheriamagazine.com/2019/07/12/viajar-sola-panama-couchsurfing-panama-bocas-del-toro-archipielago-san-blas/).
+{{< reflink 
+path=posts/2019/07/viajar-sola-panama-couchsurfing-panama-bocas-del-toro-archipielago-san-blas 
+>}}.

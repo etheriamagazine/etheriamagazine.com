@@ -1,7 +1,7 @@
 ---
 title: "Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer ‘alfa’"
 date: 2022-01-12
-coverImage: https://fotos.etheriamagazine.com/2022/01/hotel-intercontinental-hilton-gardner.jpg
+cover: https://fotos.etheriamagazine.com/2022/01/hotel-intercontinental-hilton-gardner.jpg
 categories: 
   - viajar-con-amigas
   - mujeres-top
@@ -16,9 +16,9 @@ No sólo existe una Ruta de Ava Gardner en Madrid sino que es un itinerario tur�
 ![hotel intercontinental madrid](https://fotos.etheriamagazine.com/2022/01/Hotel-Intercontinental-madrid.jpg "Hotel Intercontinental (anterior Hilton). © Pedro Grifol.")
 
 Ava Gardner llegó a España en 1950. Vino para rodar la película 'Pandora y el holandés 
-errante' en el pueblo gerundense de [Tossa de 
-Mar](https://etheriamagazine.com/2020/06/24/viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava/). 
-En los descansos del rodaje, el fotógrafo de bodas del pueblo, Manel Fábregas, hizo los 
+errante' en el pueblo gerundense de {{< reflink 
+path=posts/2020/06/viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava >}}. En los 
+descansos del rodaje, el fotógrafo de bodas del pueblo, Manel Fábregas, hizo los 
 primeros posados en la playa del ‘**animal más bello del mundo**’, apodo que ya tenía la 
 actriz cuando aterrizó en Madrid. 
 
@@ -64,12 +64,13 @@ La coctelería del carismático **barman Perico Chicote** tuvo su época de espl
 las décadas de 1950 y 1960, cuando las estrellas de Hollywood la convirtieron en el 
 lugar de moda cuando venían a rodar a España, bien porque su paso por Madrid era para 
 rodar en los Estudios de Samuel Bronston o porque estaban de paso promocionando alguna 
-de sus películas. No solo Ava empezaba su vía crucis verbenero en [Chicote](https://www.museochicote.com/) 
-(Gran Vía, 12), también en sus sofás carmesí se sentaron **Grace Kelly**, **Rita 
-Hayworth**, **Sofía Loren**, El Cid (Charlton Heston) o Jesús de Nazaret (Jeffrey 
-Hunter). El músico Agustín Lara –que tiene una estatua en Lavapiés– rindió homenaje al 
-bar en [su canción _Madrid_](https://www.youtube.com/watch?v=6cpxYUhRRK8), cuando canta: 
-“en Chicote un agasajo postinero con la crema de la intelectualidad”. 
+de sus películas. No solo Ava empezaba su vía crucis verbenero en 
+[Chicote](https://www.museochicote.com/) (Gran Vía, 12), también en sus sofás carmesí se 
+sentaron **Grace Kelly**, **Rita Hayworth**, **Sofía Loren**, El Cid (Charlton Heston) o 
+Jesús de Nazaret (Jeffrey Hunter). El músico Agustín Lara –que tiene una estatua en 
+Lavapiés– rindió homenaje al bar en [su canción 
+_Madrid_](https://www.youtube.com/watch?v=6cpxYUhRRK8), cuando canta: “en Chicote un 
+agasajo postinero con la crema de la intelectualidad”. 
 
 ![Ava Gardner y Perico Chicote](https://fotos.etheriamagazine.com/2022/01/ava-gardner-chicote.jpg "Ava Gardner y Perico Chicote. © Museo Chicote")
 
@@ -219,9 +220,9 @@ Ava.
 #### Mapa de la Ruta de Ava Gardner en Madrid
 
 Ahora podemos conocer de primera mano los lugares que frecuentaba la actriz gracias a 
-**_El Madrid de Ava_**, un mapa ilustrado por Jorge Arévalo, que ha publicado el [Ayuntamiento 
-de la capital](http://www.esmadrid.com) y que está disponible en los principales puntos 
-turísticos de la ciudad. [Descárgatelo gratis en 
+**_El Madrid de Ava_**, un mapa ilustrado por Jorge Arévalo, que ha publicado el 
+[Ayuntamiento de la capital](http://www.esmadrid.com) y que está disponible en los 
+principales puntos turísticos de la ciudad. [Descárgatelo gratis en 
 pdf](https://www.esmadrid.com/sites/default/files/elmadriddeava.pdf). 
 
 ![ruta ava gardner en Madrid](https://fotos.etheriamagazine.com/2022/01/Mapa-ruta-ava-gardner-madrid.jpg "Mapa 'El Madrid de Ava'. © Turismo de Madrid")
@@ -232,8 +233,9 @@ Si quieres saber más sobre Ava Gardner y sacar tus propias conclusiones, te rec
 tres libros y tres películas: 
 
 📌 Libros: **_Beberse la vida: Ava Gardner en España_**, de Marcos Ordóñez (Ed. Aguilar, 
-2004) **_Ava Gardner. Una diosa con pies de barro_**, de Lee [Server](https://quelibroleo.com/autores/server-lee) 
-(Ed. T&B, 2012) _**Ava en la noche**, de_ Manuel Vicent (Ed. Alfaguara, 2020) 
+2004) **_Ava Gardner. Una diosa con pies de barro_**, de Lee 
+[Server](https://quelibroleo.com/autores/server-lee) (Ed. T&B, 2012) _**Ava en la 
+noche**, de_ Manuel Vicent (Ed. Alfaguara, 2020) 
 
 📌 Películas: **Pandora y el holandés errante** (Albert Lewin, 1951) **Mogambo** (John 
 Ford, 1953) **55 días en Pekín** (Nicholas Ray, 1963) 
@@ -242,8 +244,8 @@ Ford, 1953) **55 días en Pekín** (Nicholas Ray, 1963)
 
 ### También te puede interesar
 
-[Ruta por el Madrid más libre (de 
-gluten)](https://etheriamagazine.com/2020/10/02/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias/). 
+{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
+>}}. 
 
-[Sierra del Rincón, una bonita escapada a los pueblos y hayedos de 
-Madrid](https://etheriamagazine.com/2020/09/15/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid/).
+{{< reflink path=posts/2020/09/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid 
+>}}.

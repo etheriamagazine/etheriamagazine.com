@@ -1,7 +1,7 @@
 ---
 title: "Cornualles, ruta por la costa inglesa tocada por el sol"
 date: 2019-07-10
-coverImage: https://fotos.etheriamagazine.com/2019/07/viaje-cornwall-Playa-Porthminster.jpg
+cover: https://fotos.etheriamagazine.com/2019/07/viaje-cornwall-Playa-Porthminster.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -134,11 +134,9 @@ que estar siempre alerta de la gula de las gaviotas.
 
 ### También te puede interesar:
 
-[De road trip por los Cotswolds, un viaje al corazón de 
-Inglaterra](https://etheriamagazine.com/2019/08/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra/) 
+{{< reflink 
+path=posts/2019/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}} 
 
-[Ruta en coche con amigas en 
-Gales](https://etheriamagazine.com/2019/08/23/viajar-con-amigas-ruta-coche-gales/) 
+{{< reflink path=posts/2019/08/viajar-con-amigas-ruta-coche-gales >}} 
 
-[Admira cinco de los mejores jardines de Gran 
-Bretaña](https://etheriamagazine.com/2021/04/22/los-mejores-jardines-de-gran-bretana/)
+{{< reflink path=posts/2021/04/los-mejores-jardines-de-gran-bretana >}}

@@ -1,7 +1,7 @@
 ---
 title: "Cristina Calvo, de Asuaire Travel: “Más que diferencias, todos tenemos cosas que nos unen”"
 date: 2019-01-07
-coverImage: https://fotos.etheriamagazine.com/2019/01/cristina-calvo-mujer-etheria.jpeg
+cover: https://fotos.etheriamagazine.com/2019/01/cristina-calvo-mujer-etheria.jpeg
 categories: 
   - historias
   - mujeres-top
@@ -51,7 +51,7 @@ Audiolibros, podcasts y escribir mi diario. También aprovecho para planificar o
 
 ##### 7\. ¿Cuál ha sido el mejor viaje de tu vida? ¿Por qué?
 
-No puedo decir uno solo porque cada vez que termino uno digo “¡el mejor hasta ahora!”. Un viaje transformador para mí fue en 2016/2017 cuando me fui a pasar la Nochevieja a **Dubái** donde vive una gran amiga. De ahí hice un [viaje sola a Nepal](https://etheriamagazine.com/2018/11/28/5-dias-en-nepal-que-ver-en-el-valle-de-katmandu/), **Bután**, **Jordania** e **Israel**. Era un viaje importante, con mucho significado para mí. Acababa de firmar mi divorcio y elegí **destinos retadores y diferentes para viajar como mujer sola**.
+No puedo decir uno solo porque cada vez que termino uno digo “¡el mejor hasta ahora!”. Un viaje transformador para mí fue en 2016/2017 cuando me fui a pasar la Nochevieja a **Dubái** donde vive una gran amiga. De ahí hice un {{< reflink path=posts/2018/11/5-dias-en-nepal-que-ver-en-el-valle-de-katmandu >}}, **Bután**, **Jordania** e **Israel**. Era un viaje importante, con mucho significado para mí. Acababa de firmar mi divorcio y elegí **destinos retadores y diferentes para viajar como mujer sola**.
 
 > ###### Quería romper paradigmas y etiquetas que tenía, quería sentirme incómoda y a la vez completa. Visité en un mismo viaje culturas y religiones diferentes.
 
@@ -75,13 +75,13 @@ Me encantó el concepto de "Yapa" cuando vas a un mercado a comprar algo, te “
 
 ##### 9\. ¿Qué tres viajes que hayas realizado recomendarías a cualquier mujer?
 
-**Jordania - Israel**, **Bután** y **Sri Lanka**. Y como bonus: [Islandia](https://etheriamagazine.com/2018/09/26/islandia-la-isla-del-desafio-de-reykjavik-a-vik/).
+**Jordania - Israel**, **Bután** y **Sri Lanka**. Y como bonus: {{< reflink path=posts/2021/03/que-ver-sur-islandia-consejos-practicos >}}.
 
 \[caption id="attachment\_6405" align="aligncenter" width="682"\]![Viaje a Islandia, cristina calvo, asuaire travel, mujer etheria](https://fotos.etheriamagazine.com/2019/01/cristina-calvo-mujer-etheria-Islandia.jpeg "Cristina Calvo, de Asuaire Travel, en Islandia.") Viaje a Islandia.\[/caption\]
 
 ##### 10\. Tres viajes pendientes…
 
-**Ruanda** combinado con [Botswana](https://etheriamagazine.com/2018/11/22/botsuana-10-razones-para-sentirte-la-reina-de-africa/), **Etiopía** y [Japón](https://etheriamagazine.com/2018/10/09/que-comer-en-japon/) con **Filipinas**. Y como bonus: **Irán.**
+**Ruanda** combinado con {{< reflink path=posts/2018/11/botsuana-10-razones-para-sentirte-la-reina-de-africa >}}, **Etiopía** y {{< reflink path=posts/2018/10/que-comer-en-japon >}} con **Filipinas**. Y como bonus: **Irán.**
 
 ##### 11\. ¿Qué país te ha ganado con su gastronomía? ¿Destacarías algún plato o producto?
 

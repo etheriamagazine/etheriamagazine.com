@@ -1,7 +1,7 @@
 ---
 title: "Pormishuevismo, un libro y 12 rutas por la España del ladrillo"
 date: 2024-01-04
-coverImage: https://fotos.etheriamagazine.com/2024/01/por-mis-huevismo.jpg
+cover: https://fotos.etheriamagazine.com/2024/01/por-mis-huevismo.jpg
 categories: 
   - cultura
   - ocio
@@ -117,8 +117,6 @@ ofrece Erik en el libro:
 
 **Sigue leyendo...** 
 
-[Libros y guías de viajes para llevar en la 
-maleta](https://etheriamagazine.com/2023/08/13/libros-guias-de-viajes-2023/). 
+{{< reflink path=posts/2023/08/libros-guias-de-viajes-2023 >}}. 
 
-[Regala los mejores libros de cócteles de todos los 
-tiempos](https://etheriamagazine.com/2020/11/23/libros-de-cocteleria-un-gran-regalo-navidad/).
+{{< reflink path=posts/2020/11/libros-de-cocteleria-un-gran-regalo-navidad >}}.

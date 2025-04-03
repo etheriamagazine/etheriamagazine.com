@@ -1,7 +1,7 @@
 ---
 title: "Un viaje apasionante con amigas por el sur de Perú"
 date: 2019-11-01
-coverImage: https://fotos.etheriamagazine.com/2019/10/peru-mercados-cuzco.jpg
+cover: https://fotos.etheriamagazine.com/2019/10/peru-mercados-cuzco.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -159,11 +159,8 @@ grandioso es Perú.
 
 ### También te puede interesar:
 
-[10 yacimientos arqueológicos en América Latina que tienes que 
-conocer](https://etheriamagazine.com/2019/05/29/10-yacimientos-arqueologicos-america-latina/) 
+{{< reflink path=posts/2019/05/10-yacimientos-arqueologicos-america-latina >}} 
 
-[10 parques naturales de América Latina con paisajes 
-increíbles](https://etheriamagazine.com/2021/10/21/parques-naturales-de-america-latina/) 
+{{< reflink path=posts/2021/10/parques-naturales-de-america-latina >}} 
 
-[Viajar sola al Eje Cafetero, el corazón verde de 
-Colombia](https://etheriamagazine.com/2019/01/28/viajar-sola-al-eje-cafetero-colombia/)
+{{< reflink path=posts/2019/01/viajar-sola-al-eje-cafetero-colombia >}}

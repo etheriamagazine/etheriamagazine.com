@@ -1,7 +1,7 @@
 ---
 title: "Canteras de Hontoria, Cubillo y Tornadijo, una visita a los orígenes de la Catedral de Burgos"
 date: 2021-08-30
-coverImage: https://fotos.etheriamagazine.com/2021/08/cantera-hontoria-catedral-3.jpg
+cover: https://fotos.etheriamagazine.com/2021/08/cantera-hontoria-catedral-3.jpg
 categories: 
   - ocio
 destino: 
@@ -206,9 +206,9 @@ con un horario determinado lo que evita colas.
 guiada](https://www.civitatis.com/es/burgos/visita-guiada-catedral-burgos/?aid=10211) 
 con Civitatis desde 5 €. No siempre está operativa. 
 
-En la Catedral puedes elegir comprar la entrada individual o conjunta con la exposición ['Lux' 
-de Las Edades del Hombre](http://www.lasedades.es/). Si dispones de tiempo, merece la 
-pena admirar las 120 obras que han llegado de catedrales de toda España. 
+En la Catedral puedes elegir comprar la entrada individual o conjunta con la exposición 
+['Lux' de Las Edades del Hombre](http://www.lasedades.es/). Si dispones de tiempo, 
+merece la pena admirar las 120 obras que han llegado de catedrales de toda España. 
 
 ##### Rutas en Burgos
 
@@ -231,8 +231,8 @@ Civitatis. Consulta fechas de realización.
 
 ### También te puede interesar...
 
-[Geoparque Las Loras, una cita sorprendente entre Burgos y 
-Palencia](https://etheriamagazine.com/2020/12/23/7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia/). 
+{{< reflink 
+path=posts/2020/12/7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia 
+>}}. 
 
-[Ruta por Las Merindades de 
-Burgos](https://etheriamagazine.com/2019/06/04/que-ver-hacer-ruta-merindades-burgos/).
+{{< reflink path=posts/2019/06/que-ver-hacer-ruta-merindades-burgos >}}.

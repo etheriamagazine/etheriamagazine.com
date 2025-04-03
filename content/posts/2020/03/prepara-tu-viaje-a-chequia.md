@@ -1,7 +1,7 @@
 ---
 title: "Libros y películas para preparar tu viaje a Chequia"
 date: 2020-03-31
-coverImage: https://fotos.etheriamagazine.com/2020/03/preparar-viaje-chequia.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/preparar-viaje-chequia.jpg
 categories: 
   - inspiración
   - cultura
@@ -11,9 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-Los viajes se disfrutan antes, durante y después del viaje. En Etheria Magazine también 
-te queremos ayudar en la etapa previa, así que te recomendamos películas y libros con 
-los que preparar y documentar tu viaje a República Checa de forma amena desde casa. 
+**Los viajes se disfrutan antes, durante y después del viaje. En Etheria Magazine 
+también te queremos ayudar en la etapa previa, así que te recomendamos películas y 
+libros con los que preparar y documentar tu viaje a República Checa de forma amena desde 
+casa.** 
 
 ![Libros y películas para preparar tu viaje soñado a Chequia.](https://fotos.etheriamagazine.com/2020/03/preparar-viaje-chequia.jpg "Libros y películas para preparar tu viaje soñado a Chequia.")
 
@@ -34,9 +35,8 @@ República Checa.
 El maravillosos paisaje del Parque Natural de la Suiza de Bohemia y su arco de piedra de 
 _Pravčická brána_ brillaron en esta película llena de fantasía. Se puede ver en Disney+. 
 
-**NO TE PIERDAS:** [10 LUGARES imprescindibles para despertar tu romanticismo en 
-República 
-Checa](https://etheriamagazine.com/2018/12/11/10-estampas-romanticas-de-republica-checa/) 
+**NO TE PIERDAS:** {{< reflink 
+path=posts/2018/12/10-estampas-romanticas-de-republica-checa >}} 
 
 ### 'Misión Imposible 4'
 

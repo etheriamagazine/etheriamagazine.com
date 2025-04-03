@@ -1,7 +1,7 @@
 ---
 title: "Conca de Barberà, ¿te vienes a disfrutar de sus vinos?"
 date: 2022-06-01
-coverImage: https://fotos.etheriamagazine.com/2022/05/Mas-de-la-pansa-enologa.jpg
+cover: https://fotos.etheriamagazine.com/2022/05/Mas-de-la-pansa-enologa.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -214,11 +214,8 @@ miniaturas con todo detalle.
 
 ### También te puede interesar:
 
-[10 buenas razones para escaparse a la antigua 
-Tarraco](https://etheriamagazine.com/2021/12/29/por-que-visitar-tarragona/) 
+{{< reflink path=posts/2021/12/por-que-visitar-tarragona >}} 
 
-[Viñedos con sabor a mar, primer tramo del Grand Tour de 
-Cataluña](https://etheriamagazine.com/2021/11/12/grand-tour-catalunya-vinedos-sabor-a-mar/) 
+{{< reflink path=posts/2024/06/grand-tour-catalunya-vinedos-sabor-a-mar >}} 
 
-[Ruta en coche por el Pirineo y las Tierras de 
-Lleida](https://etheriamagazine.com/2022/02/07/ruta-en-coche-pirineo-tierras-lleida/)
+{{< reflink path=posts/2022/02/ruta-en-coche-pirineo-tierras-lleida >}}

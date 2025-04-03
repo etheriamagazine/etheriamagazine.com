@@ -1,7 +1,7 @@
 ---
 title: "Palma con amigas: 8 planazos para exprimir la capital de Mallorca"
 date: 2021-06-02
-coverImage: https://fotos.etheriamagazine.com/2021/05/palma-amigas-Velero-Rafael-Verdera.jpg
+cover: https://fotos.etheriamagazine.com/2021/05/palma-amigas-Velero-Rafael-Verdera.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -12,11 +12,11 @@ authors:
   - Redacción Etheria
 ---
 
-La capital de Mallorca es una de las ciudades que más alternativas ofrece para el ocio 
+**La capital de Mallorca es una de las ciudades que más alternativas ofrece para el ocio 
 en la isla. En una escapada a Palma con amigas podrás disfrutar del mar, de las compras, 
 de la vida nocturna y del turismo activo. En este artículo os ofrecemos 8 planes para 
 sacarle todo el jugo a esta preciosa ciudad, además de algunas excursiones divertidas 
-desde Palma. 
+desde Palma.** 
 
 ![Castillo Bellver con Palma de Mallorca al fondo](https://fotos.etheriamagazine.com/2021/06/palma-mallorca-castell-bellver.jpg "Palma de Mallorca.")
 
@@ -75,7 +75,8 @@ con ensaimada** de Gelats Paco.
 
 Una de las actividades más divertidas que se pueden hacer durante el verano es dar un 
 paseo en moto de agua. Y si se conduce por un lugar como la Reserva Natural de los 
-Deltas, al lado de Palma, la experiencia es aún más completa. [Civitatis](https://www.civitatis.com/es/mallorca/reserva-natural-deltas-moto-agua/?aid=10211) 
+Deltas, al lado de Palma, la experiencia es aún más completa. 
+[Civitatis](https://www.civitatis.com/es/mallorca/reserva-natural-deltas-moto-agua/?aid=10211) 
 propone una excursión organizada para que no tengáis que preocuparos por nada: salida 
 del Club náutico "Cala Gamba de Palma", ruta por la Reserva Natural de los Deltas para 
 ver lugares como la playa de Cala Mosca, las cuevas Cap Rocat o la preciosa Cala Vella, 
@@ -87,13 +88,12 @@ aguas. Además, Civitatis puede gestionaros la recogida y regreso al hotel.
 ## De compras por el centro
 
 Si vas varios días a Palma con amigas seguro que no puedes resistirte a una mañana o una 
-tarde de compras y tentaciones gourmet. En el artículo [De compras, mercados y algo más 
-en Palma de 
-Mallorca](https://etheriamagazine.com/2019/08/01/24-horas-palma-mallorca-arte-compras-mercados/) 
-os contamos desde las grandes marcas en el Paseo del Borne hasta las tiendas de comercio 
-tradicional del centro. Os proponemos una serie de **mercados** donde además de comprar 
-productos deliciosos se puede parar a tomar algo y un fin de fiesta insuperable: un 
-masaje en un hamman. 
+tarde de compras y tentaciones gourmet. En el artículo {{< reflink 
+path=posts/2019/08/24-horas-palma-mallorca-arte-compras-mercados >}} os contamos desde 
+las grandes marcas en el Paseo del Borne hasta las tiendas de comercio tradicional del 
+centro. Os proponemos una serie de **mercados** donde además de comprar productos 
+deliciosos se puede parar a tomar algo y un fin de fiesta insuperable: un masaje en un 
+hamman. 
 
 ![Tienda bisuteria palma](https://fotos.etheriamagazine.com/2021/05/Palma-amigas-Tienda-MORENITA-COMPLEMENTS.jpg "Tienda © Morenita Complements en Palma.")
 
@@ -144,8 +144,6 @@ lugares y sale por poco más de 50 euros.
 
 📌 **Si viajas a Palma con amigas también te puede interesar:** 
 
-[¿Qué tiene Deià que enamora a ricos y 
-famosos?](https://etheriamagazine.com/2020/08/28/que-hacer-en-deia-famosos-de-mallorca/) 
+{{< reflink path=posts/2020/08/que-hacer-en-deia-famosos-de-mallorca >}} 
 
-[¿Cómo percibió George Sand la isla de Mallorca hace casi dos 
-siglos?](https://etheriamagazine.com/2018/05/16/mallorca-de-la-mano-de-george-sand/)
+{{< reflink path=posts/2018/05/mallorca-de-la-mano-de-george-sand >}}

@@ -1,7 +1,7 @@
 ---
 title: "Lobster Club, el nuevo lugar de moda en Mallorca donde dejarse ver este verano"
 date: 2024-06-15
-coverImage: https://fotos.etheriamagazine.com/2024/06/LOBSTER-CLUB-PISCINA.jpg
+cover: https://fotos.etheriamagazine.com/2024/06/LOBSTER-CLUB-PISCINA.jpg
 categories: 
   - inspiración
   - gourmet
@@ -78,15 +78,13 @@ ni un minuto en un lugar al que seguro vas a querer volver.
 
 **Información práctica de Lobster Club** Dirección: Edificio Panorama en Puerto Portals, 
 Mallorca. Horario: Lobster Restaurant de 13 a 17 y de 19 a 23 h; Hamacas y camas 
-Balinesas de 11 a 19 h; y la Cantina Lobster de 11 a 23 h. Más información en la web de [Lobster 
-Club](https://www.lobsterclub.es/). 
+Balinesas de 11 a 19 h; y la Cantina Lobster de 11 a 23 h. Más información en la web de 
+[Lobster Club](https://www.lobsterclub.es/). 
 
 © Fotografías cedidas por Lobster Club. 
 
 **También te puede interesar:** 
 
-[Qué comprar en Mallorca, de la artesanía al sabroso producto 
-gourmet](https://etheriamagazine.com/2023/05/19/que-comprar-en-mallorca/) 
+{{< reflink path=posts/2023/05/que-comprar-en-mallorca >}} 
 
-[Palma con amigas: 8 planazos para exprimir la capital de 
-Mallorca](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palma-mallorca-con-amigas/)
+{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}

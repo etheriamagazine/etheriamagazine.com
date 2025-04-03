@@ -1,7 +1,7 @@
 ---
 title: "Rodas, el primer paso para enamorarse de las Islas Griegas"
 date: 2019-08-14
-coverImage: https://fotos.etheriamagazine.com/2019/07/viaje-rodas-Monolithos-Castle-e1564342953764.jpg
+cover: https://fotos.etheriamagazine.com/2019/07/viaje-rodas-Monolithos-Castle-e1564342953764.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -182,11 +182,10 @@ Lindos.
 
 ### También te puede interesar
 
-[Escapada ‘slow’ a Paros, Amorgos y Milos, el secreto mejor guardado de las 
-Cícladas](https://etheriamagazine.com/2020/10/20/descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas/) 
+{{< reflink 
+path=posts/2020/10/descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas 
+>}} 
 
-[Ruta en coche por Sicilia, entre pantocrátores y 
-bikinis](https://etheriamagazine.com/2021/07/05/sicilia-pantocratores-y-bikinis/) 
+{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}} 
 
-[Islas Eolias, 6 placeres entre el cielo y el 
-infierno](https://etheriamagazine.com/2020/07/31/italia-guia-viaje-islas-eolias-que-ver-hacer/)
+{{< reflink path=posts/2020/07/italia-guia-viaje-islas-eolias-que-ver-hacer >}}

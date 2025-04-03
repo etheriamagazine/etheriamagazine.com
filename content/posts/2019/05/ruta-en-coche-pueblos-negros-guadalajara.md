@@ -1,7 +1,7 @@
 ---
 title: "Respirar ‘a pulmón abierto’ en los Pueblos Negros de Guadalajara"
 date: 2019-05-06
-coverImage: https://fotos.etheriamagazine.com/2019/05/viaje-pueblos-negros-Valverde-de-los-Arroyos.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/viaje-pueblos-negros-Valverde-de-los-Arroyos.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pedro Grifol
 ---
 
-La sierra noroccidental de Guadalajara atesora una de las masas forestales más 
+**La sierra noroccidental de Guadalajara atesora una de las masas forestales más 
 desconocidas y más puras de España; y uno de los conjuntos más impresionantes de la 
 arquitectura popular española, los llamados Pueblos Negros. Sube al coche porque vamos a 
-recorrer esta ruta de poblaciones de piedra, tejados de pizarra y escasa población. 
+recorrer esta ruta de poblaciones de piedra, tejados de pizarra y escasa población.** 
 
 ![Majaelrayo es un pueblo negro de Guadalajara](https://fotos.etheriamagazine.com/2019/05/viaje-pueblos-negros-Majaelrayo.jpg "Majaelrayo, población de la Ruta de los pueblos negros de Guadalajara.")
 
@@ -156,9 +156,11 @@ más recto es llegar hasta Tamajón (107 km) como primera parada. Otra ruta pued
 pasar primero por Cogolludo (100 km), que dista de Tamajón 20 km. 
 
 El desvío –en forma de Y– partiendo de Tamajón hacia las dos opciones de la Sierra 
-Norte/Pueblos Negros es de 20 km en cualquiera de las dos rutas: Ruta 1: Tamajón - 
-Valverde de los Arroyos, y Ruta 2: Tamajón - Majaelrayo. En dos días se pueden recorrer 
-las dos rutas. 
+Norte/Pueblos Negros es de 20 km en cualquiera de las dos rutas: Ruta 1: Tamajón 
+
+- Valverde de los Arroyos, y Ruta 2: Tamajón 
+
+- Majaelrayo. En dos días se pueden recorrer las dos rutas. 
 
 ### Dónde dormir
 
@@ -183,8 +185,8 @@ Ranas. Tel 949 864 034.
 
 ## También te puede interesar:
 
-[Los campos de lavanda en 
-Brihuega](https://etheriamagazine.com/2020/06/08/floracion-campos-lavanda-brihuega-guadalajara-2019/). 
+{{< reflink path=posts/2020/06/floracion-campos-lavanda-brihuega-guadalajara-2019 >}}. 
 
-[Las mejores rutas por la provincia de 
-Cuenca](https://etheriamagazine.com/2020/06/04/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca/).
+{{< reflink 
+path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+>}}.

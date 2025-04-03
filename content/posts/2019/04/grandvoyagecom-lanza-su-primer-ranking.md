@@ -1,7 +1,7 @@
 ---
 title: "Grandvoyage.com lanza su primer ranking"
 date: 2019-04-12
-coverImage: https://fotos.etheriamagazine.com/2019/04/grandes-viajes-vietnam.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/grandes-viajes-vietnam.jpg
 destino: 
   - España
 authors: 
@@ -28,6 +28,6 @@ Los nominados en esta primera edición son:
 
 **3\. Mejor destino de luna de miel**: Maldivas, Bali, Tailandia, Cuba, Kenia y Tanzania, y Seychelles.
 
-**4\. Mejor resort:** Paradise Island Water Villa (Maldivas): Ryokan Suimeikan (Gero, Japón), Grand Mirage (Bali, Indonesia), Pilgrimage Village Resort (Phu Quoc, Vietnam), [Rayavadee](https://etheriamagazine.com/2018/05/25/hotel-rayavadee-vivir-la-naturaleza/) (Krabi, Tailandia) y Cape Panwa (Phuket, Tailandia).
+**4\. Mejor resort:** Paradise Island Water Villa (Maldivas): Ryokan Suimeikan (Gero, Japón), Grand Mirage (Bali, Indonesia), Pilgrimage Village Resort (Phu Quoc, Vietnam), {{< reflink path=posts/2018/05/hotel-rayavadee-vivir-la-naturaleza >}} (Krabi, Tailandia) y Cape Panwa (Phuket, Tailandia).
 
 Los ganadores se obtendrán del resultado de ambas votaciones (viajeros y profesionales) y se darán a conocer en el transcurso del mes de mayo en una gala en Barcelona.

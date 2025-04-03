@@ -1,7 +1,7 @@
 ---
 title: "10 experiencias alucinantes en el Lejano Oeste americano"
 date: 2019-07-18
-coverImage: https://fotos.etheriamagazine.com/2019/06/3-viaje-california-Artist-Palette-e1562144658794.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/3-viaje-california-Artist-Palette-e1562144658794.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-La prosperidad de California nació del sueño de muchos emigrantes europeos. Su bondad 
+**La prosperidad de California nació del sueño de muchos emigrantes europeos. Su bondad 
 climática prometía un modo de vida mejor, lo que provocó la gran migración desde la 
 costa este. Hoy, el sueño que alcanzó la costa pacífica, se ha convertido en el estado 
 más poblado de los Estados Unidos. Como aquellos pioneros sentirás el entusiasmo por el 
-Lejano Oeste cuando veas estos parajes californianos. 
+Lejano Oeste cuando veas estos parajes californianos.** 
 
 ![Mirador en Death Valley](https://fotos.etheriamagazine.com/2019/06/1-viaje-california-death-valley-e1562143815966.jpg "Death Valley o valle de la Muerte.")
 
@@ -158,11 +158,9 @@ mejores álbumes: **Joshua Tree.**
 
 ### También te puede interesar:
 
-[11 visitas en San Francisco, de las imprescindibles a las 
-caprichosas](https://etheriamagazine.com/2021/04/09/10-visitas-imprescindibles-en-san-francisco/) 
+{{< reflink path=posts/2021/04/10-visitas-imprescindibles-en-san-francisco >}} 
 
-[Arizona: vive tu propia road movie en territorio 
-navajo](https://etheriamagazine.com/2018/05/29/viaje-aventura-para-mujeres-en-arizona-usa/) 
+{{< reflink path=posts/2018/05/viaje-aventura-para-mujeres-en-arizona-usa >}} 
 
-[California Dreams. Un road trip vinícola en Estados 
-Unidos](https://etheriamagazine.com/2020/01/06/ruta-enoturismo-con-amigas-california-napa-valley-sonoma/)
+{{< reflink path=posts/2020/01/ruta-enoturismo-con-amigas-california-napa-valley-sonoma 
+>}}

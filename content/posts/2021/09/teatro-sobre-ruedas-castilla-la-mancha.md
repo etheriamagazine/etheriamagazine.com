@@ -1,7 +1,7 @@
 ---
 title: "'Teatro sobre ruedas' saca a escena a los pueblos de Castilla-La Mancha"
 date: 2021-09-13
-coverImage: https://fotos.etheriamagazine.com/2021/09/teatro-andante-castilla-la-mancha.jpg
+cover: https://fotos.etheriamagazine.com/2021/09/teatro-andante-castilla-la-mancha.jpg
 categories: 
   - ocio
 destino: 
@@ -82,12 +82,9 @@ la Mancha de cuyo nombre nos hemos olvidado, _Teatro sobre ruedas_ continúa la 
 
 ### También te puede interesar...
 
-[Lee Krasner, artista y esposa de Pollock, una reivindicación 
-necesaria](https://etheriamagazine.com/2021/08/06/lee-krasner-inspira-el-color-de-tu-nombre/). 
+{{< reflink path=posts/2021/08/lee-krasner-inspira-el-color-de-tu-nombre >}}. 
 
-[](https://etheriamagazine.com/2021/08/23/productos-gastronomia-leon/)[‘Nietas de la 
-memoria’: 13 relatos de abuelas anónimas y luchadoras para 
-inspirarnos](https://etheriamagazine.com/2021/03/08/libro-nietas-de-la-memoria-historias-mujeres-en-posguerra/). 
+{{< reflink path=posts/2021/08/productos-gastronomia-leon >}}{{< reflink 
+path=posts/2021/03/libro-nietas-de-la-memoria-historias-mujeres-en-posguerra >}}. 
 
-[Escenarios poéticos y atormentados de la vida de Frida 
-Kahlo](https://etheriamagazine.com/2021/02/15/biografia-y-ruta-frida-kahlo-mexico/).
+{{< reflink path=posts/2021/02/biografia-y-ruta-frida-kahlo-mexico >}}.

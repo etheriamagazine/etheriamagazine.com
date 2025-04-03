@@ -1,7 +1,7 @@
 ---
 title: "12 hoteles en la República Checa con un toque muy original"
 date: 2021-06-05
-coverImage: https://fotos.etheriamagazine.com/2021/06/cabana-republica-checa.jpg
+cover: https://fotos.etheriamagazine.com/2021/06/cabana-republica-checa.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Reconocemos la importancia del destino al elegir nuestras vacaciones pero, cada vez más, 
-apostamos por cuidar otros detalles de nuestro viaje. Como el alojamiento es uno de los 
-principales, hemos seleccionado 12 hoteles en la República Checa muy originales que 
-pondrán la guinda a tu escapada europea. 
+**Reconocemos la importancia del destino al elegir nuestras vacaciones pero, cada vez 
+más, apostamos por cuidar otros detalles de nuestro viaje. Como el alojamiento es uno de 
+los principales, hemos seleccionado 12 hoteles en la República Checa muy originales que 
+pondrán la guinda a tu escapada europea.** 
 
 ![Cimra Bude liberec hoteles en la republica checa](https://fotos.etheriamagazine.com/2021/06/chequia-hotel-Cimra-bude.jpg "© Cimra Bude, en la región de Liberec.")
 
@@ -66,7 +66,8 @@ son los protagonistas. Si te animas, incluso podrás celebrar tu boda allí.
 ### 4\. Un pajar: Lichtensteinská stodola
 
 El sabor de antaño también se percibe en Lichtensteinská stodola 
-(www.lichtensteinskastodola.cz), un antiguo pajar cerca de [Olomouc](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Landmarks/Cities/t-olomouc) 
+(www.lichtensteinskastodola.cz), un antiguo pajar cerca de 
+[Olomouc](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Landmarks/Cities/t-olomouc) 
 que ha sido reconstruido mimando cada detalle. Su impronta agro-chic es tan real como la 
 implicación de sus propietarios, que se desviven por agradar a los huéspedes 
 invitándoles a participar en tareas cotidianas como hacer mermeladas caseras con frutos 
@@ -77,9 +78,11 @@ del bosque.
 ### 5\. Un vagón de tren: Wellnessvagón
 
 En esta propuesta de alojamiento original en Chequia nos atrevemos a comparar el 
-romanticismo de los viajes en tren con una plácida noche en [Wellnessvagón](https://wellnesslive.cz/vagon/). 
-Este antiguo vagón de ferrocarril ha sido transformado en alojamiento, con jacuzzi en el 
-jardín, sauna, y un relajante barril de baño. Se encuentra cerca de [Třeboňsko](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Summer-Sports/Hiking-and-Nordic-Walking/a-trebonsko), 
+romanticismo de los viajes en tren con una plácida noche en 
+[Wellnessvagón](https://wellnesslive.cz/vagon/). Este antiguo vagón de ferrocarril ha 
+sido transformado en alojamiento, con jacuzzi en el jardín, sauna, y un relajante barril 
+de baño. Se encuentra cerca de 
+[Třeboňsko](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Summer-Sports/Hiking-and-Nordic-Walking/a-trebonsko), 
 en Bohemia del Sur, y sin duda le aportará un toque diferente a tu viaje. 
 
 ### 6\. Un 'hide' de observación
@@ -95,7 +98,8 @@ aventura!
 
 ### 7\. Una cabaña en un árbol
 
-A menos de una hora de [Praga](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Landmarks/Cities/a-prague-beauty), 
+A menos de una hora de 
+[Praga](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Landmarks/Cities/a-prague-beauty), 
 en Chotýšany, se sitúa [Green Valley 
 Resort](http://www.green-valley.cz/resort-green-valley/?lang=es), una cabaña de madera 
 situada en una plataforma a nueve metros de altura. Tiene todo lo que puedes necesitar y 
@@ -120,7 +124,8 @@ A 5 kilómetros de České Budejovice ([Bohemia del
 Sur](https://www.visitczechrepublic.com/es-ES/Destinations/South-Bohemia)) encontrarás 
 tres cabañas sobre plataformas en un lago donde el chapoteo del agua y el canto de los 
 pájaros son la principal banda sonora de las vacaciones. [Vodní domky 
-Čejkovice](https://www.vodnidomkycejkovice.cz/en/introduction/) es un [alojamiento](https://www.amazingplaces.cz/en/amazing-places/vodni-domky-cejkovice-419) 
+Čejkovice](https://www.vodnidomkycejkovice.cz/en/introduction/) es un 
+[alojamiento](https://www.amazingplaces.cz/en/amazing-places/vodni-domky-cejkovice-419) 
 sólo para adultos donde desconectar y, si te atreves, pescar la cena desde el porche de 
 casa. 
 
@@ -132,9 +137,9 @@ Si te consideras romántica te van a encantar estas dos propuestas: [Krásná
 Samota](https://krasnasamota.cz/), una preciosa casa de campo situada entre Lužické hory 
 y [el Parque Nacional České 
 Švýcarsko](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Nature/Protected-Areas-and-National-Parks/c-bohemian-switzerland-national-park); 
-y [Cimra Bude](https://cimrabude.cz/cimra-bude), en la región de Liberec, con [decoración 
-bohemia](https://www.amazingplaces.cz/en/amazing-places/cimra-bude-509) y cierto aire 
-onírico (la primera imagen del artículo). 
+y [Cimra Bude](https://cimrabude.cz/cimra-bude), en la región de Liberec, con 
+[decoración bohemia](https://www.amazingplaces.cz/en/amazing-places/cimra-bude-509) y 
+cierto aire onírico (la primera imagen del artículo). 
 
 ![Krasna Samota hoteles romanticos republica checa](https://fotos.etheriamagazine.com/2021/06/chequia-Krasna-Samota-1.jpg "© Casa de campo Krásná Samota.")
 
@@ -143,7 +148,8 @@ onírico (la primera imagen del artículo).
 Como todas nos merecemos una vida de reinas, o al menos gozar de los privilegios de las 
 susodichas, hemos elegido un castillo donde dejarte mimar. El [Chateau 
 Herálec](https://www.chateauheralec.com/) es ahora un hotel boutique de cinco estrellas 
-con un spa by L’Occitane. Se encuentra en un parque de estilo inglés, en la región de [Vysočina,](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Summer-Sports/Hiking-and-Nordic-Walking/a-vysocina) 
+con un spa by L’Occitane. Se encuentra en un parque de estilo inglés, en la región de 
+[Vysočina,](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Summer-Sports/Hiking-and-Nordic-Walking/a-vysocina) 
 y ofrece atractivas experiencias a medida. Este es uno de los hoteles de la República 
 Checa que siempre hay que considerar. 
 
@@ -153,10 +159,11 @@ Checa que siempre hay que considerar.
 
 Terminamos esta selección de alojamientos originales en las [Montañas 
 Gigantes](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Nature/Protected-Areas-and-National-Parks/c-krkonose-national-park), 
-con un dos por uno: dos cabañas ideales pero con un toque diferente. La cabaña [Brusírna](https://www.amazingplaces.cz/en/amazing-places/brusirna-137), 
-donde es imposible elegir uno sólo de sus espacios o elementos: la sauna, la chimenea, 
-los ventanales panorámicos… Y para aquellas que adoran el estilo nórdico (tipo IKEA) 
-tenemos la cabaña [Skøg 
+con un dos por uno: dos cabañas ideales pero con un toque diferente. La cabaña 
+[Brusírna](https://www.amazingplaces.cz/en/amazing-places/brusirna-137), donde es 
+imposible elegir uno sólo de sus espacios o elementos: la sauna, la chimenea, los 
+ventanales panorámicos… Y para aquellas que adoran el estilo nórdico (tipo IKEA) tenemos 
+la cabaña [Skøg 
 Harrachov](https://www.amazingplaces.cz/en/amazing-places/skog-harrachov-360), que 
 promulga el confort sin lujos innecesarios. 
 
@@ -164,11 +171,8 @@ promulga el confort sin lujos innecesarios.
 
 ## También en la República Checa
 
-[República Checa, un viaje al reino de la 
-fantasía](https://etheriamagazine.com/2021/02/26/excursiones-magicas-desde-praga-republica-checa/). 
+{{< reflink path=posts/2021/02/excursiones-magicas-desde-praga-republica-checa >}}. 
 
-[5 visitas a República Checa para mujeres que viajan 
-solas](https://etheriamagazine.com/2020/05/29/viajar-sola-a-republica-checa-visitas-y-consejos/). 
+{{< reflink path=posts/2020/05/viajar-sola-a-republica-checa-visitas-y-consejos >}}. 
 
-[10 imprescindibles para despertar tu romanticismo en República 
-Checa](https://etheriamagazine.com/2018/12/11/10-estampas-romanticas-de-republica-checa/).
+{{< reflink path=posts/2018/12/10-estampas-romanticas-de-republica-checa >}}.

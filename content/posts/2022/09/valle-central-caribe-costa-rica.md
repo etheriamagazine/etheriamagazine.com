@@ -1,7 +1,7 @@
 ---
 title: "Valle Central de Costa Rica: 3 mujeres y 10 paradas imprescindibles"
 date: 2022-09-16
-coverImage: https://fotos.etheriamagazine.com/2022/09/Puerto-Viejo-costa-rica.jpg
+cover: https://fotos.etheriamagazine.com/2022/09/Puerto-Viejo-costa-rica.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-Una escapada al Valle Central de Costa Rica permite apreciar la naturaleza más pura 
+**Una escapada al Valle Central de Costa Rica permite apreciar la naturaleza más pura 
 salpicada de selvas, cataratas y volcanes, las dinámicas propuestas culturales de San 
 José y la belleza de las cercanas playas del Caribe. En este paraíso podrás conocer a 
 Marielos Corea, Mayra Gayle y Andrea Sánchez, tres grandes mujeres expertas en 
-artesanía, cultura y hostelería. 
+artesanía, cultura y hostelería.** 
 
 ![Playa y chiringuito de Puerto Viejo, en Costa Rica.](https://fotos.etheriamagazine.com/2022/09/Puerto-Viejo-costa-rica.jpg "Animado ambiente de Puerto Viejo, en Costa Rica. © Turismo de Costa Rica")
 
@@ -45,7 +45,8 @@ Confiesa que su mayor ilusión es que otras mujeres tengan la oportunidad de rea
 talleres del ICT (Instituto Costarricense de Turismo) de Artesanías con Identidad 
 “porque es algo que les abriría las puertas a muchas otras cosas”. Sin duda, la 
 independencia económica es indispensable para el empoderamiento femenino, sea cual sea 
-el tamaño de la comunidad donde se viva. Ella misma nos lo cuenta en este [vídeo](https://www.youtube.com/watch?v=3cbGajK5cOk&list=PL4pQXgPNDyY3jBc-6KiTlv-oKnRrteDhH&index=11). 
+el tamaño de la comunidad donde se viva. Ella misma nos lo cuenta en este 
+[vídeo](https://www.youtube.com/watch?v=3cbGajK5cOk&list=PL4pQXgPNDyY3jBc-6KiTlv-oKnRrteDhH&index=11). 
 
 ![Mayra Gayle trabajo en el Teatro Nacional de San José (Costa Rica).](https://fotos.etheriamagazine.com/2022/09/Mayra-Gayle.jpg "Mayra Gayle trabaja en el Teatro Nacional de San José. © Turismo de Costa Rica")
 
@@ -59,7 +60,8 @@ aprende algo nuevo”. Esa curiosidad y deseo de superación son esenciales y un
 característico de la mujer costarricense. “Lo más bonito que he sentido aquí es el 
 contacto con la gente... extranjeros, nacionales, jóvenes, niños, adultos, mayores”. Su 
 mayor deseo es que la gente quiera al Teatro Nacional como ella lo quiere. No te pierdas 
-las presentación de Mayra en este [vídeo](https://www.youtube.com/watch?v=PhD9qRsxe4U&list=PL4pQXgPNDyY3jBc-6KiTlv-oKnRrteDhH&index=13). 
+las presentación de Mayra en este 
+[vídeo](https://www.youtube.com/watch?v=PhD9qRsxe4U&list=PL4pQXgPNDyY3jBc-6KiTlv-oKnRrteDhH&index=13). 
 
 ![Andrea Sánchez, propietaria de Faith Glamping Dome.](https://fotos.etheriamagazine.com/2022/09/Andrea-Sanchez-faith-glamping-costarica.jpg "Andrea Sánchez, propietaria de Faith Glamping Dome. © Turismo de Costa Rica")
 
@@ -76,7 +78,8 @@ Glamping Dome](https://faithglampingdomecr.com/). Más que como un alojamiento, 
 define como “una experiencia de inmersión en la selva... con el mar enfrente”. A Andrea 
 le gustaría ser recordada como una mujer que quería “impulsar la economía y ayudar a 
 otras mujeres a través del ejemplo, que es como mejor se enseña, que sí se puede soñar”. 
-Puedes conocer a Andrea en este [vídeo](https://www.youtube.com/watch?v=E0a2moyi3GI&list=PL4pQXgPNDyY3jBc-6KiTlv-oKnRrteDhH&index=12). 
+Puedes conocer a Andrea en este 
+[vídeo](https://www.youtube.com/watch?v=E0a2moyi3GI&list=PL4pQXgPNDyY3jBc-6KiTlv-oKnRrteDhH&index=12). 
 
 ![Techo del Teatro Nacional de San José](https://fotos.etheriamagazine.com/2022/09/Teatro-Nacional-San-Jose.jpg "Teatro Nacional, en San José. © Turismo de Costa Rica")
 
@@ -164,13 +167,11 @@ Otro de los lugares imprescindibles del Valle Central de Costa Rica es el **Cerr
 Vista** o Cerro de la Muerte, incrustado en la Cordillera de Talamanca. Desde su cima, a 
 3.451 metros, si el tiempo lo permite se ve tanto la costa del Pacífico como la del 
 Caribe. También es una zona de avistamiento de quetzales en ciertas épocas del año, una 
-preciosa ave de la que te hemos hablado anteriormente, no te pierdas el artículo: 
-“[Costa Rica: de la aventura quetzal a la nouvelle 
-cuisine](https://etheriamagazine.com/2021/12/17/ruta-quetzal-costa-rica/)”. Sin duda, el 
-Parque Nacional Quetzales es una cita obligada, al igual que **San Gerardo de Dota**, 
-una pequeña población accesible desde el Cerro de la Muerte donde pernoctar en un 
-entorno selvático y gozar de caminatas tan agradables como la que lleva a las cataratas 
-del río Savegre. 
+preciosa ave de la que te hemos hablado anteriormente, no te pierdas el artículo: “{{< 
+reflink path=posts/2021/12/ruta-quetzal-costa-rica >}}”. Sin duda, el Parque Nacional 
+Quetzales es una cita obligada, al igual que **San Gerardo de Dota**, una pequeña 
+población accesible desde el Cerro de la Muerte donde pernoctar en un entorno selvático 
+y gozar de caminatas tan agradables como la que lleva a las cataratas del río Savegre. 
 
 ![Exuberante vegetación con cascada en el Cerro de la Muerte](https://fotos.etheriamagazine.com/2022/09/cerro-muerte-costa-rica.jpg "Cerro de la Muerte, en el Valle Central de Costa Rica. © Turismo de Costa Rica")
 
@@ -246,8 +247,6 @@ Más información en [Turismo de Costa Rica](https://www.visitcostarica.com/).
 
 ### Más propuestas en Costa Rica
 
-[Sarapiquí, ecoturismo y gastronomía en femenino en Costa 
-Rica](https://etheriamagazine.com/2022/08/18/que-ver-sarapiqui-costa-rica/). 
+{{< reflink path=posts/2022/08/que-ver-sarapiqui-costa-rica >}}. 
 
-[Descubre la esencia de la Península de Nicoya, tierra de artesanas y 
-naturaleza](https://etheriamagazine.com/2022/07/15/que-ver-peninsula-nicoya-costa-rica/).
+{{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}}.

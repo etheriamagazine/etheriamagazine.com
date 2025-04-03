@@ -1,7 +1,7 @@
 ---
 title: "10 imprescindibles en el entorno del Parque Nacional Suiza de Bohemia"
 date: 2018-12-11
-coverImage: https://fotos.etheriamagazine.com/2018/12/republica-checa-viajes-mujeres-etheria-1.jpg
+cover: https://fotos.etheriamagazine.com/2018/12/republica-checa-viajes-mujeres-etheria-1.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Atrévete a viajar siguiendo el río Elba para conocer el Parque Nacional Suiza de 
+**Atrévete a viajar siguiendo el río Elba para conocer el Parque Nacional Suiza de 
 Bohemia. No solo arrastra gran parte de la historia europea sino que discurre entre un 
 laberinto de roca arenisca y bosques en uno de los rincones naturales más fascinantes de 
 la República Checa. Sigue las sendas del más joven de los parques nacionales checos y 
 descubre por qué levantó pasiones al encarnar la belleza ideal entre los artistas 
-románticos. 
+románticos.** 
 
 ![Parque Nacional Suiza Bohemia, en la República Checa](https://fotos.etheriamagazine.com/2018/12/republica-checa-viajes-mujeres-etheria.jpg "Uno de los rincones sorprendentes del Parque Nacional Suiza Bohemia (Rep. Checa).")
 
@@ -167,11 +167,8 @@ flora y fauna local. Es una lástima no poder conocer a su autor y primer guía 
 
 ✅ **Puedes seguir leyendo sobre Chequia:** 
 
-[De Praga a Moravia, una ruta sorprendente en 
-Chequia](https://etheriamagazine.com/2023/08/25/ruta-chequia-de-olomouc-a-ostrava/). 
+{{< reflink path=posts/2023/08/ruta-chequia-de-olomouc-a-ostrava >}}. 
 
-[Qué ver en Brno: una escapada muy ‘chic’ a 
-Chequia](https://etheriamagazine.com/2022/08/26/que-ver-brno-chequia/). 
+{{< reflink path=posts/2022/08/que-ver-brno-chequia >}}. 
 
-[Mercadillos navideños de Praga, una buena excusa para viajar a 
-Chequia](https://etheriamagazine.com/2021/11/10/mercadillos-navidenos-de-praga/).
+{{< reflink path=posts/2021/11/mercadillos-navidenos-de-praga >}}.

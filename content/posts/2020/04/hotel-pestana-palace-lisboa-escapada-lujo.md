@@ -1,7 +1,7 @@
 ---
 title: "Siéntete como una reina en el hotel Pestana Palace Lisboa"
 date: 2020-04-28
-coverImage: https://fotos.etheriamagazine.com/2020/04/pestana-palace-lisboa-jardines.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/pestana-palace-lisboa-jardines.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-No hay muchos hoteles que te permitan dormir en un palacio auténtico del siglo XIX tan 
+**No hay muchos hoteles que te permitan dormir en un palacio auténtico del siglo XIX tan 
 bonito como el palacio Valle Flôr. Si le sumas su ubicación, en una zona privilegiada de 
 Lisboa, y el gusto por los detalles del grupo Pestana tienes el alojamiento perfecto 
 para una escapada de lujo a la capital lusa. No te pierdas el hotel Pestana Palace 
-Lisboa. 
+Lisboa.** 
 
 ![Fachada palacio Valle Flor](https://fotos.etheriamagazine.com/2020/04/Pestana-palace-lisboa-fachada.jpg "Fachada del palacio Valle Flôr, donde se ubica el Pestana Palace Lisboa.")
 
@@ -23,9 +23,9 @@ De vez en cuando hay que darse el capricho de alojarse en un hotel de lujo como 
 este año, porque necesitas una escapada romántica con tu pareja o, simplemente, porque 
 te lo mereces. Además, la capital portuguesa siempre merece un viaje. Aunque ya la 
 conozcas siempre encontrarás un rincón nuevo que descubrir o te apetecerá volver a los 
-lugares ya visitados. Una buena opción es recorrer [12 miradores para exprimir 
-Lisboa](https://etheriamagazine.com/2018/10/30/12-miradores-para-exprimir-lisboa/) y 
-contemplarla desde otro punto de vista. 
+lugares ya visitados. Una buena opción es recorrer {{< reflink 
+path=posts/2018/10/12-miradores-para-exprimir-lisboa >}} y contemplarla desde otro punto 
+de vista. 
 
 ![Té en él Pestana Palace](https://fotos.etheriamagazine.com/2020/04/Pestana-palace-lisboa-detalle-te.jpg "La hora del té en el Pestana Palace Lisboa.")
 

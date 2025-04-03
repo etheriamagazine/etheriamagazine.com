@@ -1,7 +1,7 @@
 ---
 title: "Tánger, ¿qué tiene su medina que encandiló a Matisse y a Carmina Ordóñez?"
 date: 2022-08-16
-coverImage: https://fotos.etheriamagazine.com/2022/08/tanger-mirador-bonito.jpg
+cover: https://fotos.etheriamagazine.com/2022/08/tanger-mirador-bonito.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -184,11 +184,9 @@ oficial.](https://www.visitmorocco.com/es/destinos/tanger)
 
 **También en Marruecos:** 
 
-[Guía esencial de Fez, la capital espiritual de 
-Marruecos](https://etheriamagazine.com/2021/03/18/guia-esencial-que-ver-y-hacer-en-fez/). 
+{{< reflink path=posts/2021/03/guia-esencial-que-ver-y-hacer-en-fez >}}. 
 
-[Cómo celebrar la vida en el Alto Atlas 
-marroquí](https://etheriamagazine.com/2020/04/08/viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas/). 
+{{< reflink path=posts/2020/04/viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas 
+>}}. 
 
-[Marrakech con amigas, visitas para un fin de semana 
-intenso](https://etheriamagazine.com/2018/12/27/viaje-de-amigas-a-marrakech/).
+{{< reflink path=posts/2018/12/viaje-de-amigas-a-marrakech >}}.

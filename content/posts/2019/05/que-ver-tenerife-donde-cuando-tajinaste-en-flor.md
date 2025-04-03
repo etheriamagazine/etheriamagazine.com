@@ -1,7 +1,7 @@
 ---
 title: "Los tajinastes en flor, el gran espectáculo natural de Tenerife"
 date: 2019-05-14
-coverImage: https://fotos.etheriamagazine.com/2019/05/Tenerife-parque-teide-tajinaste-artistica-e1557138323667.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/Tenerife-parque-teide-tajinaste-artistica-e1557138323667.jpg
 categories: 
   - ocio
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-El volcán del Teide despierta cada año con la llegada de la primavera. Sobre sus oscuros 
-campos de lava se produce una explosión rojiza: son las flores de los tajinastes, una 
-planta canaria que desarrolla espectaculares varas cubiertas de cientos de menudas 
-florecillas. A partir de mediados de mayo, como farolas rojas, marcan el paisaje 
-volcánico apuntando al cielo con sus flores. 
+**El volcán del Teide despierta cada año con la llegada de la primavera. Sobre sus 
+oscuros campos de lava se produce una explosión rojiza: son las flores de los 
+tajinastes, una planta canaria que desarrolla espectaculares varas cubiertas de cientos 
+de menudas florecillas. A partir de mediados de mayo, como farolas rojas, marcan el 
+paisaje volcánico apuntando al cielo con sus flores.** 
 
 ![El bello color rosado del tajinaste en primavera.](https://fotos.etheriamagazine.com/2019/05/Tenerife-parque-teide-tajinaste-artistica-e1557138323667.jpg "El bello color del tajinaste en primavera.")
 
@@ -168,12 +168,13 @@ Tel. 922 680 922 – 616 596 851.
 
 ### Dónde comer en Tenerife
 
-• **Restaurante El Sombrerito**. Los platos tradicionales canarios como el gofio, las 
+- **Restaurante El Sombrerito**. Los platos tradicionales canarios como el gofio, las 
 papas arrugás con mojo o el puchero del día son una reconfortante recompensa al volver 
-de una jornada de ruta por el parque nacional. Vilaflor. Tel. 922 709 052. • **Bodegón 
-Campestre**. Son especialistas en carnes a la brasa, disponen de una buena carta de 
-comida típica canaria, además de deliciosos postres caseros. El Rosario. Tel. 922 297 
-465. 
+de una jornada de ruta por el parque nacional. Vilaflor. Tel. 922 709 052. 
+
+- **Bodegón Campestre**. Son especialistas en carnes a la brasa, disponen de una buena 
+carta de comida típica canaria, además de deliciosos postres caseros. El Rosario. Tel. 
+922 297 465. 
 
 ### Más información
 
@@ -181,11 +182,10 @@ comida típica canaria, además de deliciosos postres caseros. El Rosario. Tel. 
 
 ### También te puede interesar
 
-[Viajes por España. Descubre la dulzura de La Orotava 
-(Tenerife)](https://etheriamagazine.com/2020/06/20/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava/). 
+{{< reflink path=posts/2020/06/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava 
+>}}. 
 
-[8 excursiones con niños desde el sur de 
-Tenerife](https://etheriamagazine.com/2020/03/06/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos/). 
+{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
+>}}. 
 
-[10 secretos que deberías conocer de la isla de La 
-Palma](https://etheriamagazine.com/2021/04/05/10-secretos-para-conocer-la-isla-de-la-palma/).
+{{< reflink path=posts/2021/04/10-secretos-para-conocer-la-isla-de-la-palma >}}.

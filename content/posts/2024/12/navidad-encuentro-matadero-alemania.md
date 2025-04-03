@@ -1,7 +1,7 @@
 ---
 title: "Alemania, país invitado en la Navidad de Encuentro de Matadero Madrid"
 date: 2024-12-25
-coverImage: https://fotos.etheriamagazine.com/2024/12/corazon-galleta-jengibre-1-e1735119198148.jpg
+cover: https://fotos.etheriamagazine.com/2024/12/corazon-galleta-jengibre-1-e1735119198148.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -86,8 +86,6 @@ completa](https://www.mataderomadrid.org/programacion/madrid-navidad-de-encuentr
 
 **También en Etheria Magazine** 
 
-[Descubre las tradiciones navideñas de 
-Alemania](https://etheriamagazine.com/2020/11/30/alemania-en-navidad-tradiciones-y-adviento/). 
+{{< reflink path=posts/2020/11/alemania-en-navidad-tradiciones-y-adviento >}}. 
 
-[10 experiencias navideñas en Alemania a través de sus 
-länder](https://etheriamagazine.com/2020/12/10/experiencias-navidenas-alemania/).
+{{< reflink path=posts/2020/12/experiencias-navidenas-alemania >}}.

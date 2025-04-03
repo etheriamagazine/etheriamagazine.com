@@ -1,7 +1,7 @@
 ---
 title: "10 exposiciones para visitar en Madrid esta primavera de 2024"
 date: 2024-03-18
-coverImage: https://fotos.etheriamagazine.com/2024/03/exposiciones-madrid-thyssen-Salas_Isabel-Quintanilla.jpg
+cover: https://fotos.etheriamagazine.com/2024/03/exposiciones-madrid-thyssen-Salas_Isabel-Quintanilla.jpg
 categories: 
   - inspiración
   - cultura
@@ -191,11 +191,8 @@ Mª Moliner. Pº de Recoletos 20-22. Madrid. Precio: entrada gratuita.
 
 **También te puede interesar:** 
 
-[10 tabernas históricas de Madrid donde tomar el 
-vermú](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/) 
+{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}} 
 
-[Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
-‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/) 
+{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}} 
 
-[Planes divertidos con adolescentes en 
-Madrid](https://etheriamagazine.com/2022/12/16/planes-adolescentes-madrid/)
+{{< reflink path=posts/2022/12/planes-adolescentes-madrid >}}

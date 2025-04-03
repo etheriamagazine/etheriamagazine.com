@@ -1,7 +1,7 @@
 ---
 title: "Planes en Vitoria con amigas dispuestas al picoteo"
 date: 2021-09-15
-coverImage: https://fotos.etheriamagazine.com/2021/09/plaza-virgen-blanca-vitoria.jpg
+cover: https://fotos.etheriamagazine.com/2021/09/plaza-virgen-blanca-vitoria.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -65,8 +65,8 @@ podéis admirar en estas ubicaciones de [google
 maps](https://www.google.com/maps/d/u/0/viewer?mid=1ArGXCgWUBMWkn5Gw75zd0kLHgko&ll=42.85149045362411%2C-2.679801750000015&z=15). 
 Cada uno dispone de una leyenda para conocer su historia. 
 
-No te pierdas el artículo: [10 fachadas básicas en la Ruta de los Murales de 
-Vitoria](https://etheriamagazine.com/2019/11/21/ruta-murales-en-vitoria-10-grafitis-imprescindibles/). 
+No te pierdas el artículo: {{< reflink 
+path=posts/2019/11/ruta-murales-en-vitoria-10-grafitis-imprescindibles >}}. 
 
 ![casa del cordon vitoria](https://fotos.etheriamagazine.com/2021/09/casa-cordon-vitoria.jpg "Cúpula estrellada en la Casa del Cordón (Vitoria). © Etheria Magazine")
 
@@ -230,11 +230,9 @@ Vitoria](https://www.civitatis.com/es/vitoria/free-tour-misterios-leyendas/?aid=
 
 ### También te puede interesar…
 
-[12 planes en Getxo con amigas para disfrutar al estilo 
-vasco](https://etheriamagazine.com/2021/06/14/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco/). 
+{{< reflink 
+path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}. 
 
-[Valle de Karrantza, 10 experiencias rurales y genuinas en 
-Vizcaya](https://etheriamagazine.com/2021/08/18/que-ver-y-hacer-en-valle-de-karrantza-vizcaya/). 
+{{< reflink path=posts/2021/08/que-ver-y-hacer-en-valle-de-karrantza-vizcaya >}}. 
 
-[10 planes originales en Bilbao con 
-amigas](https://etheriamagazine.com/2020/09/09/10-planes-originales-en-bilbao-con-amigas/).
+{{< reflink path=posts/2020/09/10-planes-originales-en-bilbao-con-amigas >}}.

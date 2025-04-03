@@ -1,7 +1,7 @@
 ---
 title: "'La última tourné', el nuevo musical de Madrid que te hará reír entre plumas y lentejuelas"
 date: 2020-12-03
-coverImage: https://fotos.etheriamagazine.com/2020/11/musical-madrid-2020-la-ultima-tourne.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/musical-madrid-2020-la-ultima-tourne.jpg
 categories: 
   - ocio
 destino: 
@@ -107,8 +107,6 @@ puedes encontrar entradas con descuentos muy interesantes (hasta un 30%).
 
 ### También te puede interesar...
 
-[10 exposiciones en Madrid para vivir el arte este 
-otoño-invierno](https://etheriamagazine.com/2020/10/13/10-exposiciones-en-madrid-para-otono-2020/). 
+{{< reflink path=posts/2020/10/10-exposiciones-en-madrid-para-otono-2020 >}}. 
 
-[Los mejores libros de coctelería de la 
-historia](https://etheriamagazine.com/2020/11/23/libros-de-cocteleria-un-gran-regalo-navidad/).
+{{< reflink path=posts/2020/11/libros-de-cocteleria-un-gran-regalo-navidad >}}.

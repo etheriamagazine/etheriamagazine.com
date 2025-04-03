@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer en Bangkok si tienes sólo tres días"
 date: 2021-05-29
-coverImage: https://fotos.etheriamagazine.com/2018/06/Bangkok-crucero-rio-chao-praya.jpg
+cover: https://fotos.etheriamagazine.com/2018/06/Bangkok-crucero-rio-chao-praya.jpg
 categories: 
   - viajar-en-pareja
   - ocio
@@ -146,16 +146,13 @@ más económicas. Es recomendable reservar con antelación.
 
 Si se dispone de pocos días, lo ideal es ir a una de sus zonas de playas. Las más 
 populares son Phuket, Krabi, las islas Phi Phi y Koh Samui. En Krabi es muy recomendable 
-el [hotel 
-Rayabadee](https://etheriamagazine.com/2018/05/25/hotel-rayavadee-vivir-la-naturaleza/). 
+el {{< reflink path=posts/2018/05/hotel-rayavadee-vivir-la-naturaleza >}}. 
 
 **También te puede interesar** 
 
-[Viaje con amigas a Bangkok en clave 
-‘foodie’](https://etheriamagazine.com/2019/10/23/viaje-con-amigas-tailandia-donde-comer-bangkok/) 
+{{< reflink path=posts/2019/10/viaje-con-amigas-tailandia-donde-comer-bangkok >}} 
 
-[Chiang Mai, descubre su esencia entre templos y 
-mercados](https://etheriamagazine.com/2021/01/08/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual/) 
+{{< reflink path=posts/2021/01/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual 
+>}} 
 
-[Qué llevar en la maleta para un viaje a 
-Tailandia](https://etheriamagazine.com/2020/01/02/que-llevar-en-maleta-viaje-tailandia/)
+{{< reflink path=posts/2020/01/que-llevar-en-maleta-viaje-tailandia >}}

@@ -1,7 +1,7 @@
 ---
 title: "Mujeres de Tanzania, el turismo como herramienta de empoderamiento"
 date: 2022-03-07
-coverImage: https://fotos.etheriamagazine.com/2022/03/mujeres-tanzania-active-woman.jpg
+cover: https://fotos.etheriamagazine.com/2022/03/mujeres-tanzania-active-woman.jpg
 categories: 
   - historias
   - mujeres-top
@@ -171,7 +171,8 @@ mujeres.
 Este objetivo puede ser también tuyo, tú también puedes poner tu granito de arena. Te 
 propongo participar en la **II Edición de "La magia del Kilimanjaro",** puedes hacerlo 
 para colaborar en el proyecto solidario y/o unirte al reto deportivo para subir al techo 
-de África apuntándote en esta [web](https://activewoman.es/la-magia-del-kilimanjaro-en-bicicleta/). 
+de África apuntándote en esta 
+[web](https://activewoman.es/la-magia-del-kilimanjaro-en-bicicleta/). 
 
 También te invito a que sientas 'La magia del Kilimanjaro' en primera persona escuchando 
 mi podcast donde te garantizo que podrás sentir a flor de piel todo lo que esta aventura 

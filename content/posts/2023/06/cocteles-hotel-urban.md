@@ -1,7 +1,7 @@
 ---
 title: "Cócteles de autor en el hotel Urban con Glass by Sips"
 date: 2023-06-14
-coverImage: https://fotos.etheriamagazine.com/2023/06/urban-glass-by-sips-bar.jpg
+cover: https://fotos.etheriamagazine.com/2023/06/urban-glass-by-sips-bar.jpg
 categories: 
   - gourmet
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Etheria Magazine
 ---
 
-El hotel Urban presenta como parte de su oferta de ocio Glass by Sips, un espacio 
+**El hotel Urban presenta como parte de su oferta de ocio Glass by Sips, un espacio 
 dedicado a los cócteles de autor con propuestas de lo más originales. Este es un motivo 
 más para acercarse a este singular hotel de lujo de la capital, que ya tiene en su 
-terraza de verano un importante foco de atracción de vida nocturna madrileña. 
+terraza de verano un importante foco de atracción de vida nocturna madrileña.** 
 
 ![Glass by Sips, el espacio para cócteles de autor del hotel Urban.](https://fotos.etheriamagazine.com/2023/06/urban-glass-by-sips-bar.jpg "Glass by Sips, el espacio para cócteles de autor del hotel Urban.")
 
@@ -99,20 +99,18 @@ propuestas sin alcohol.
 Este verano se añaden también los **domingos de Vermú**, que se ofrecen junto con una 
 clásica Gilda y música en directo de 11 a 17 horas [Hotel Urban 
 (5\*L)](https://www.hotelurban.com/es) Carrera de San Jerónimo, 34. Madrid. Tel. 91 787 
-77 70. **Horarios de Glass by Sips:** DE MARTES A SÁBADO 20:00 h - 02:00 h. **Horarios 
-de La Terraza:** ABIERTO TODOS LOS DÍAS Domingo a miércoles: 11:00 h – 00:00 h. Jueves a 
-sábado: 11:00 h – 02:00 h. La cocina estará disponible todos los días de 11:00 h a 23:00 
-h. 
+77 70. **Horarios de Glass by Sips:** DE MARTES A SÁBADO 20:00 h 
+
+- 02:00 h. **Horarios de La Terraza:** ABIERTO TODOS LOS DÍAS Domingo a miércoles: 11:00 
+h – 00:00 h. Jueves a sábado: 11:00 h – 02:00 h. La cocina estará disponible todos los 
+días de 11:00 h a 23:00 h. 
 
 © Fotografías cedidas por el hotel Urban. 
 
 📌 **También te puede interesar:** 
 
-[10 tabernas históricas de Madrid donde tomar el 
-vermú](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/) 
+{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}} 
 
-[Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
-‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/) 
+{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}} 
 
-[Restaurantes peruanos en Madrid con el sello del chef Jhosef 
-Arias](https://etheriamagazine.com/2022/01/24/restaurantes-peruanos-en-madrid-de-jhosef-arias/)
+{{< reflink path=posts/2022/01/restaurantes-peruanos-en-madrid-de-jhosef-arias >}}

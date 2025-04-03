@@ -1,7 +1,7 @@
 ---
 title: "Gadgets para sobrevivir a un vuelo largo de la mejor manera posible"
 date: 2025-04-01
-coverImage: https://fotos.etheriamagazine.com/2025/03/vuelos-larga-distancia-mujer.jpg
+cover: https://fotos.etheriamagazine.com/2025/03/vuelos-larga-distancia-mujer.jpg
 categories: 
   - compras
   - qué-llevar-en-la-maleta
@@ -31,10 +31,10 @@ que llevaras unos auriculares con cancelación de ruido, ya que te permitirán t
 escuchar perfectamente música o la película o serie que estés viendo en tus dispositivos 
 como aislarte del ruido del avión. Serán tu mejor aliado para tener un vuelo tranquilo y 
 confortable. Como sabemos que es muy personal llevar auriculares de diadema o 
-auriculares pequeños, te damos una opción de cada que puedes encargar en Amazon: unos [JBL](https://amzn.to/4j3FjPu) 
-plegables con bluetooth y 57 horas de reproducción; y los [U9](https://amzn.to/4hRgSny) 
-con tecnología bluetooth y pantalla táctil, que incluyen cinco modelos de ecualizador 
-para escuchar tu música de la mejor forma. 
+auriculares pequeños, te damos una opción de cada que puedes encargar en Amazon: unos 
+[JBL](https://amzn.to/4j3FjPu) plegables con bluetooth y 57 horas de reproducción; y los 
+[U9](https://amzn.to/4hRgSny) con tecnología bluetooth y pantalla táctil, que incluyen 
+cinco modelos de ecualizador para escuchar tu música de la mejor forma. 
 
 ![Auriculares disponibles en Amazon.](https://fotos.etheriamagazine.com/2025/03/vuelo-largo-auriculares.jpg "Auriculares disponibles en Amazon.")
 
@@ -117,8 +117,8 @@ auriculares, _power bank_ y adaptadores.
 
 **También te puede interesar:** 
 
-[10 productos para un neceser de viaje seguro y con 
-estilo](https://etheriamagazine.com/2020/05/25/10-productos-basicos-para-un-neceser-de-viajes-de-mujer-seguro-y-con-estilo/) 
+{{< reflink 
+path=posts/2020/05/10-productos-basicos-para-un-neceser-de-viajes-de-mujer-seguro-y-con-estilo 
+>}} 
 
-[Fragancias para mujeres viajeras, cómo elegir el perfume 
-perfecto](https://etheriamagazine.com/2024/01/16/perfumes-para-viajar/)
+{{< reflink path=posts/2024/01/perfumes-para-viajar >}}

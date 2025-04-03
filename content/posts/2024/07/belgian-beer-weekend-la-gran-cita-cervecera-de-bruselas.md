@@ -1,7 +1,7 @@
 ---
 title: "Belgian Beer Weekend, la gran cita cervecera de Bruselas"
 date: 2024-07-12
-coverImage: https://fotos.etheriamagazine.com/2024/07/Belgian-Beer-Weekend-2024.jpg
+cover: https://fotos.etheriamagazine.com/2024/07/Belgian-Beer-Weekend-2024.jpg
 destino: 
   - Europa
 authors: 
@@ -44,12 +44,11 @@ perfecto para los amantes de la cerveza en cualquier momento del año.
 ![Puestos de la Belgian Beer Weekend.](https://fotos.etheriamagazine.com/2024/07/feria-cerveza-bruselas.jpg "Belgian Beer Weekend. © visit.brussels/ Jean Paul Remy")
 
 Para obtener más información sobre el evento o la lista completa de cervecerías 
-participantes solo tienes que entrar en [](http://www.belgianbeerweekend.be)[belgianbeerweekend.be](http://www.belgianbeerweekend.be) 
+participantes solo tienes que entrar en 
+[](http://www.belgianbeerweekend.be)[belgianbeerweekend.be](http://www.belgianbeerweekend.be) 
 
 **También en Etheria Magazine** 
 
-[10 paradas en una ruta por el Barrio Europeo de 
-Bruselas](https://etheriamagazine.com/2022/09/29/que-ver-barrio-europeo-bruselas/). 
+{{< reflink path=posts/2022/09/que-ver-barrio-europeo-bruselas >}}. 
 
-[Eventos culturales de Flandes en 2024: año Ensor y mucho 
-más](https://etheriamagazine.com/2024/03/22/exposiciones-flandes-2024-ensor/).
+{{< reflink path=posts/2024/03/exposiciones-flandes-2024-ensor >}}.

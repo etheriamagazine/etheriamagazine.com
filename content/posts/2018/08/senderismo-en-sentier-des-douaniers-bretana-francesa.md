@@ -1,7 +1,7 @@
 ---
 title: "Sentier des Douaniers, el gran sendero de la Bretaña Francesa"
 date: 2018-08-08
-coverImage: https://fotos.etheriamagazine.com/2018/07/Crozon-e1637928167611.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/Crozon-e1637928167611.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Kris Ubach
 ---
 
-Lo dicen los propios franceses: de todos los senderos de Gran Recorrido (GR) que existen 
-en su territorio, el Sentier des Douaniers es uno de los más emblemáticos. Y no es de 
-extrañar: se trata de un camino Impresionante, en mayúsculas, que recorre la escarpada 
-costa de Bretaña de extremo a extremo. Más de 2.000 kilómetros que nunca dejan de mirar 
-al mar. 
+**Lo dicen los propios franceses: de todos los senderos de Gran Recorrido (GR) que 
+existen en su territorio, el Sentier des Douaniers es uno de los más emblemáticos. Y no 
+es de extrañar: se trata de un camino Impresionante, en mayúsculas, que recorre la 
+escarpada costa de Bretaña de extremo a extremo. Más de 2.000 kilómetros que nunca dejan 
+de mirar al mar.** 
 
 ![Mapa de la Bretaña francesa](https://fotos.etheriamagazine.com/2018/08/mapa-senderismo-costa-bretana-francia.jpg "Mapa GR34. © Turismo de Bretaña")
 
@@ -118,15 +118,12 @@ desbordada.
 
 ![Festival Interceltique Lorient.](https://fotos.etheriamagazine.com/2018/07/Festival-Interceltico-Lorient.jpg "Festival Interceltique Lorient.")
 
-• Más información en [Turismo de Bretaña](http://www.vacaciones-bretana.com). 
+- Más información en [Turismo de Bretaña](http://www.vacaciones-bretana.com). 
 
 **También te puede interesar:** 
 
-[Descubre los secretos de Orleans, la ciudad que pudo 
-reinar](https://etheriamagazine.com/2021/11/09/que-visitar-en-orleans-francia/) 
+{{< reflink path=posts/2021/11/que-visitar-en-orleans-francia >}} 
 
-[Costa Azul en coche y con amigas, ¿se te ocurre una propuesta 
-mejor?](https://etheriamagazine.com/2021/09/03/guia-viaje-costa-azul-en-coche-y-con-amigas/) 
+{{< reflink path=posts/2021/09/guia-viaje-costa-azul-en-coche-y-con-amigas >}} 
 
-[Valle del Loira, cinco castillos y un increíble festival de 
-jardines](https://etheriamagazine.com/2021/08/09/valle-del-loira-entre-castillos-y-jardines/)
+{{< reflink path=posts/2021/08/valle-del-loira-entre-castillos-y-jardines >}}

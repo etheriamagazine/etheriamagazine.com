@@ -1,7 +1,7 @@
 ---
 title: "Qué llevar en cabina en un vuelo largo, 12 elementos básicos"
 date: 2023-07-14
-coverImage: https://fotos.etheriamagazine.com/2023/07/que-llevar-maleta-cabina.jpg
+cover: https://fotos.etheriamagazine.com/2023/07/que-llevar-maleta-cabina.jpg
 categories: 
   - qué-llevar-en-la-maleta
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-A ciertas viajeras les gusta improvisar o ir ligeras de equipaje pero hay otras que 
+**A ciertas viajeras les gusta improvisar o ir ligeras de equipaje pero hay otras que 
 prefieren llevarlo todo bajo control y preparan concienzudamente las listas de básicos 
 para su destino. Ya seas de las primeras o de las segundas, estas recomendaciones de qué 
-llevar en cabina durante un vuelo largo te van a resultar muy útiles. 
+llevar en cabina durante un vuelo largo te van a resultar muy útiles.** 
 
 ![Es recomendable planificar lo que llevas en cabina durante los viajes largos.](https://fotos.etheriamagazine.com/2023/07/que-llevar-maleta-cabina.jpg "Es recomendable planificar lo que llevas en cabina. © Gabrielle Henderson")
 
@@ -52,9 +52,9 @@ siempre es así. Infórmate antes de viajar y si no te ofrecen nada, llévate un
 grande y una [almohada o collarín de viaje](https://amzn.to/44Ee0US) hinchable o de 
 espuma viscoelástica. Existen opciones muy interesantes que ayudan a llevar el cuello 
 vertical para evitar las incómodas tortícolis, soportes para apoyar la cabeza e incluso 
-unos cubos hinchables que se pueden poner en el suelo para elevar las piernas (en [Amazon 
-los tienes desde unos 20 euros](https://amzn.to/44IDVdY)). En caso de que viajes con 
-niños, estos últimos también sirven para que se puedan estirar y dormir más cómodos. 
+unos cubos hinchables que se pueden poner en el suelo para elevar las piernas (en 
+[Amazon los tienes desde unos 20 euros](https://amzn.to/44IDVdY)). En caso de que viajes 
+con niños, estos últimos también sirven para que se puedan estirar y dormir más cómodos. 
 
 ![Cojín hinchable ideal para llevar en vuelos largos con niños](https://fotos.etheriamagazine.com/2023/07/cojin-hinchable-avion.jpg "Cojín hinchable ideal para viajes largos.")
 
@@ -237,11 +237,8 @@ Avianca](https://ayuda.avianca.com/hc/es/articles/13083098505627--Puedo-llevar-l
 
 **También te puede interesar...** 
 
-[Qué llevar en la maleta en un viaje a Punta 
-Cana](https://etheriamagazine.com/2023/04/07/que-llevar-maleta-punta-cana/). 
+{{< reflink path=posts/2023/04/que-llevar-maleta-punta-cana >}}. 
 
-[Cómo preparar la maleta para un viaje a 
-Egipto](https://etheriamagazine.com/2023/02/01/que-llevar-en-la-maleta-egipto/). 
+{{< reflink path=posts/2023/02/que-llevar-en-la-maleta-egipto >}}. 
 
-[Qué llevar en la maleta en un viaje a 
-Argentina](https://etheriamagazine.com/2022/09/14/que-llevar-maleta-argentina/).
+{{< reflink path=posts/2022/09/que-llevar-maleta-argentina >}}.

@@ -1,12 +1,12 @@
 ---
 title: "Libros para reflexionar sobre la igualdad y el papel de la mujer en la historia"
 date: 2025-03-10
-coverImage: https://fotos.etheriamagazine.com/2025/03/portada-libros-feministas.jpg
+cover: https://fotos.etheriamagazine.com/2025/03/portada-libros-feministas.jpg
 categories: 
   - cultura
   - ocio
 destino: 
-  - España
+  - Europa
 authors: 
   - Pepa G. Marín
 ---
@@ -75,8 +75,8 @@ introspección única, la convierte en una figura imprescindible del feminismo l
 Este libro también aborda las dificultades que enfrentó como mujer en un mundo literario 
 dominado por hombres. 
 
-**Editorial:** Nórdica Libros (con ilustraciones de Antonio Santos) (en tapa blanda de [Amazon](https://amzn.to/4irTBcw) 
-desde unos 11,35 euros). 
+**Editorial:** Nórdica Libros (con ilustraciones de Antonio Santos) (en tapa blanda de 
+[Amazon](https://amzn.to/4irTBcw) desde unos 11,35 euros). 
 
 ![Portada Las desheredadas](https://fotos.etheriamagazine.com/2025/03/4-las-desheredadas.jpg "Portada de Las desheredadas.")
 
@@ -203,8 +203,7 @@ mujeres es a través de la literatura.
 
 **También te puede interesar...** 
 
-[‘Te invito a un mojito’, un libro que puede salvar 
-vidas](https://etheriamagazine.com/2021/10/19/te-invito-a-un-mojito-libro-cancer-mama/). 
+{{< reflink path=posts/2021/10/te-invito-a-un-mojito-libro-cancer-mama >}}. 
 
-[Pormishuevismo, un libro y 12 rutas por la España del 
-ladrillo](https://etheriamagazine.com/2024/01/04/pormishuevismo-un-libro-y-12-rutas-por-la-espana-del-ladrillo/).
+{{< reflink 
+path=posts/2024/01/pormishuevismo-un-libro-y-12-rutas-por-la-espana-del-ladrillo >}}.

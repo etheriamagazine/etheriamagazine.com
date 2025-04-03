@@ -1,7 +1,7 @@
 ---
 title: "8 cenas de Nochevieja en Madrid para recibir el año 2022 por todo lo alto"
 date: 2021-11-29
-coverImage: https://fotos.etheriamagazine.com/2021/11/Nochevieja-hotel-orfila.jpg
+cover: https://fotos.etheriamagazine.com/2021/11/Nochevieja-hotel-orfila.jpg
 categories: 
   - gourmet
   - inspiración
@@ -12,10 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-La Cena de Nochevieja es uno de esos hitos del año que todo el mundo celebra, 
+**La Cena de Nochevieja es uno de esos hitos del año que todo el mundo celebra, 
 normalmente en cenas familiares. Pero, ¿has pensado en despedir el año 2021 sin tener 
 que preocuparte de nada? Te proponemos 8 cenas de Nochevieja en Madrid en hoteles de 
-lujo y espacios singulares para que la entrada en 2022 sea por todo lo alto. 
+lujo y espacios singulares para que la entrada en 2022 sea por todo lo alto.** 
 
 ![Decoración navideña en el hotel Orfila de Madrid.](https://fotos.etheriamagazine.com/2021/11/Nochevieja-hotel-orfila.jpg "Decoración navideña en el hotel Orfila de Madrid.")
 
@@ -30,7 +30,7 @@ lujo, azoteas con vistas y propuestas divertidas para despedir 2021 con alguna d
 **cenas de Nochevieja en Madrid** más especiales. ¿Puede haber mejor manera de comenzar 
 el 2022? 
 
-[ARTÍCULO ACTUALIZADO, ENTRA EN ▶️ **NOCHEVIEJA 2022-2023: CONOCE LAS MEJORES CENAS Y FIESTAS EN HOTELES Y EN OTROS LUGARES SINGULARES** **EN MADRID**](https://etheriamagazine.com/2022/11/11/nochevieja-2022-en-madrid/)
+{{< reflink path=posts/2022/11/nochevieja-2022-en-madrid >}}
 
 ## Hotel Mandarin Oriental Ritz de Madrid
 
@@ -199,8 +199,7 @@ Jardín de Recoletos.
 
 ### También te puede interesar:
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/) 
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}} 
 
-[Ruta por el Madrid más libre (de 
-gluten)](https://etheriamagazine.com/2020/10/02/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias/)
+{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
+>}}

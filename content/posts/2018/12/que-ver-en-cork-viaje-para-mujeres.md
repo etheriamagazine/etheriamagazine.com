@@ -1,7 +1,7 @@
 ---
 title: "¿Por qué es buena idea viajar a Cork con amigas?"
 date: 2018-12-26
-coverImage: https://fotos.etheriamagazine.com/2018/12/carcel-cork-e1647553526412.jpg
+cover: https://fotos.etheriamagazine.com/2018/12/carcel-cork-e1647553526412.jpg
 categories: 
   - viajar-sola
   - inspiración
@@ -170,11 +170,8 @@ Más información en [Turismo de Irlanda](https://www.ireland.com/es-es/).
 
 ### También te puede interesar...
 
-[Ruta de Juego de Tronos en Irlanda del 
-Norte](https://etheriamagazine.com/2018/07/02/juego-de-tronos-en-irlanda-del-norte/). 
+{{< reflink path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte >}}. 
 
-[Irlanda del Norte: 6 visitas imprescindibles y 2 lugares 
-secretos](https://etheriamagazine.com/2021/05/31/8-visitas-increibles-en-irlanda-del-norte/). 
+{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}}. 
 
-[Ruta del ‘Ulises’ de James Joyce en Dublín para celebrar su 
-centenario](https://etheriamagazine.com/2021/06/16/ruta-de-ulises-y-bloomsday-en-dublin/).
+{{< reflink path=posts/2021/06/ruta-de-ulises-y-bloomsday-en-dublin >}}.

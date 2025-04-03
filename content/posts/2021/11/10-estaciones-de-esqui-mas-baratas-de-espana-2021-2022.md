@@ -1,7 +1,7 @@
 ---
 title: "10 estaciones de esquí en España donde estirar el presupuesto al máximo"
 date: 2021-11-25
-coverImage: https://fotos.etheriamagazine.com/2021/11/estaciones-esqui-baratas.jpg
+cover: https://fotos.etheriamagazine.com/2021/11/estaciones-esqui-baratas.jpg
 destino: 
   - España
 authors: 
@@ -48,16 +48,17 @@ para los aficionados de los deportes de invierno.
 
 **Forfait + Alojamiento = 41€/día. Km esquiables: 26.8** 
 
-En segundo lugar está la de Sierra de Béjar - La Covatilla. La medalla de plata entre 
-las estaciones más baratas de España se la lleva esta de Salamanca con un precio un poco 
-superior al de Manzaneda: forfait de 29 € en temporada alta y 20 € en temporada baja. Y 
-se puede encontrar alojamiento cerca desde 17 € por persona la noche. Además de un 
-excelente precio, en Sierra de Béjar tienes lo necesario para pasar una jornada de esquí 
-completa: 26 kilómetros de amplias pistas con un suave pendiente, escuela de esquí, 
-cafetería, tiendas e incluso un chiqui-park para que los más pequeños se divierten 
-mientras tú te lanzas por las pistas. Y lo mejor es que esta magnífica estación, la 
-tenemos **a dos horas de Madrid** y a poco más de 100 kilómetros de Portugal. Una 
-propuesta más que completa. 
+En segundo lugar está la de Sierra de Béjar 
+
+- La Covatilla. La medalla de plata entre las estaciones más baratas de España se la 
+lleva esta de Salamanca con un precio un poco superior al de Manzaneda: forfait de 29 € 
+en temporada alta y 20 € en temporada baja. Y se puede encontrar alojamiento cerca desde 
+17 € por persona la noche. Además de un excelente precio, en Sierra de Béjar tienes lo 
+necesario para pasar una jornada de esquí completa: 26 kilómetros de amplias pistas con 
+un suave pendiente, escuela de esquí, cafetería, tiendas e incluso un chiqui-park para 
+que los más pequeños se divierten mientras tú te lanzas por las pistas. Y lo mejor es 
+que esta magnífica estación, la tenemos **a dos horas de Madrid** y a poco más de 100 
+kilómetros de Portugal. Una propuesta más que completa. 
 
 ![estacion de esqui leitariego](https://fotos.etheriamagazine.com/2021/11/estacion-esqui-Leitareigos.jpg "Estación de esquí de Leitariegos, en León.")
 
@@ -211,11 +212,8 @@ nieve, como nunca antes lo hayas hecho.
 
 ### También te puede interesar...
 
-[Baqueira Beret, novedades de la temporada 2021-2022 que te interesa 
-conocer](https://etheriamagazine.com/2021/11/24/baqueira-beret-temporada-2021-2022/). 
+{{< reflink path=posts/2021/11/baqueira-beret-temporada-2021-2022 >}}. 
 
-[Planes en la nieve para mujeres que no 
-esquían](https://etheriamagazine.com/2019/01/02/planes-en-la-nieve-para-mujeres-que-no-esquian/). 
+{{< reflink path=posts/2019/01/planes-en-la-nieve-para-mujeres-que-no-esquian >}}. 
 
-[Sport Hotel Hermitage & Spa (Andorra) o como disfrutar del esquí a otro 
-nivel](https://etheriamagazine.com/2018/11/01/sport-hotel-hermitage-spa-esquiar-en-andorra/).
+{{< reflink path=posts/2018/11/sport-hotel-hermitage-spa-esquiar-en-andorra >}}.

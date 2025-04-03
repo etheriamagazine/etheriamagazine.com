@@ -1,7 +1,7 @@
 ---
 title: "10 paradas imprescindibles en las ruinas romanas de Baelo Claudia (Bolonia, Cádiz)"
 date: 2019-08-22
-coverImage: https://fotos.etheriamagazine.com/2019/08/ruinas-romanas-bolonia.jpg
+cover: https://fotos.etheriamagazine.com/2019/08/ruinas-romanas-bolonia.jpg
 categories: 
   - viajar-en-familia
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-Cádiz se identifica con playas, pescaíto frito y fiestas, pero tiene otras facetas que 
+**Cádiz se identifica con playas, pescaíto frito y fiestas, pero tiene otras facetas que 
 merece la pena conocer. Una de las joyas históricas que se deben visitar son las ruinas 
 romanas de Baelo Claudia. Está situada en plena playa de Bolonia, en Tarifa, por lo que 
 tendrás un dos por uno nada desdeñable. Te hemos preparado una pequeña guía para que 
-aproveches bien la visita. 
+aproveches bien la visita.** 
 
 ![trajano en baelo claudia, ruinas romanas de bolonia](https://fotos.etheriamagazine.com/2019/08/ruinas-romanas-bolonia.jpg "La estatua de Trajano preside la basílica. ©PG/2019")
 
@@ -43,9 +43,7 @@ eran el **pescado en salazón y la salsa garum**, un condimento muy apreciado en
 época. La ubicación de Baelo Claudia propiciaba, además, los intercambios con las bases 
 romanas de África, del Mediterráneo y de las zonas del interior de la Península. 
 
-✅ **NO PIERDAS:** [La mejor guía de CÁDIZ PROVINCIA para organizar tu viaje: pueblos y 
-visitas de interés (con mapa 
-incluido).](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/) 
+✅ **NO PIERDAS:** {{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}} 
 
 ![ruinas de bolonia, baelo claudia tarifa](https://fotos.etheriamagazine.com/2019/08/pie-baelo-claudia-bolonia.jpg "Pieza expuesta en el centro de interpretación. ©PG/2019")
 
@@ -222,11 +220,9 @@ Andalucía](http://www.museosdeandalucia.es/web/conjuntoarqueologicobaeloclaudia
 
 **También te puede interesar en Cádiz...** 
 
-[Restaurantes en El Palmar (Cádiz) para comer muy 
-bien](https://etheriamagazine.com/2021/07/26/restaurantes-en-el-palmar-cadiz-para-comer-muy-bien/). 
+{{< reflink path=posts/2021/07/restaurantes-en-el-palmar-cadiz-para-comer-muy-bien >}}. 
 
-[12 actividades para hacer con niños en la provincia de 
-Cádiz](https://etheriamagazine.com/2020/03/12/12-actividades-familiares-para-viajes-con-ninos-en-cadiz/). 
+{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
+>}}. 
 
-[Ruta en coche por 12 preciosos pueblos blancos de 
-Cádiz](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/).
+{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}}.

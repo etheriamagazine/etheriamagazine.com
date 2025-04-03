@@ -1,7 +1,7 @@
 ---
 title: "10 fachadas básicas en la Ruta de los Murales de Vitoria"
 date: 2019-11-21
-coverImage: https://fotos.etheriamagazine.com/2019/11/Vitoria-ciudad-medieval.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/Vitoria-ciudad-medieval.jpg
 categories: 
   - viajar-sola
   - inspiración
@@ -33,8 +33,8 @@ entonces, Vitoria defendió fronteras, acogió transeúntes y ferias y creció a
 sus calles gremiales, las mismas vías que hoy marcan su centro histórico. En el año 
 2007, **tres artistas del arte urbano**, liderados por la **pintora y muralista Verónica 
 Werckmeister**, se empeñaron en reconocer ese pasado del que la ciudad se enorgullece 
-transformando sus fachadas mediante grandes **pinturas al aire libre**. Así nació el [Itinerario 
-muralístico de Vitoria- 
+transformando sus fachadas mediante grandes **pinturas al aire libre**. Así nació el 
+[Itinerario muralístico de Vitoria- 
 Gasteiz](http://www.muralismopublico.com/p/es/que-es-el-imvg.php) (IMGV) que ha 
 iluminado la cara de algunas calles del casco histórico. 
 
@@ -140,9 +140,11 @@ Las intenciones de **cuidado ambiental y sensibilización ciudadana** por el
 medioambiente comenzaron hace 26 años con la creación del [Anillo Verde de 
 Vitoria](https://www.vitoria-gasteiz.org/we001/was/we001Action.do?idioma=es&accionWe001=ficha&accion=anilloVerde). 
 El resultado es la restauración ambiental de una **periferia urbana abandonada** que 
-acoge humedales tan espectaculares como [Salburua](https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u_3d0924cc_12da3712de4__7ff0). 
+acoge humedales tan espectaculares como 
+[Salburua](https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u_3d0924cc_12da3712de4__7ff0). 
 Así, en la actualidad, dispone de **una red de 100 kilómetros** en el perímetro urbano a 
-recorrer a pie, bici o en buggy eléctrico. Su alquiler es sencillo en [Ataria](https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u43c06573_13cb84180ac__7fe1), 
+recorrer a pie, bici o en buggy eléctrico. Su alquiler es sencillo en 
+[Ataria](https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u43c06573_13cb84180ac__7fe1), 
 el centro de interpretación del parque. El cinturón verde urbano está jalonado de buenas 
 vistas y **huertos urbanos** que crean un auténtico anillo de vida para los ciudadanos 
 que apuestan por una forma de **vida ecológica**. 
@@ -208,8 +210,7 @@ Vitoria](https://www.civitatis.com/es/vitoria/tour-arte-urbano-vitoria/) por 12 
 
 ### También te puede interesar...
 
-[Bilbao en clave ‘gastro’ para una escapada con 
-amigas](https://etheriamagazine.com/2019/12/23/finde-bilbao-con-amigas-mejores-restaurantes/). 
+{{< reflink path=posts/2019/12/finde-bilbao-con-amigas-mejores-restaurantes >}}. 
 
-[12 planes en Getxo con amigas para disfrutar al estilo 
-vasco](https://etheriamagazine.com/2021/06/14/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco/).
+{{< reflink 
+path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.

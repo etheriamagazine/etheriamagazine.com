@@ -1,17 +1,17 @@
 ---
 title: "Bruselas, capital del Art Nouveau en 2023"
 date: 2022-12-23
-coverImage: https://fotos.etheriamagazine.com/2022/12/van-eetvelde-house.jpg
+cover: https://fotos.etheriamagazine.com/2022/12/van-eetvelde-house.jpg
 destino: 
   - Europa
 authors: 
   - Redacción Etheria
 ---
 
-Bruselas celebra con un completo programa cultural el Art Nouveau presente en la ciudad. 
-Si eres una apasionada de esta arquitectura reserva hueco en tu agenda porque este 2023 
-habrá más visitas guiadas, exposiciones, nuevos museos y edificios con una increíble 
-iluminación. "Bruselas, capital del Art Nouveau" te espera. 
+**Bruselas celebra con un completo programa cultural el Art Nouveau presente en la 
+ciudad. Si eres una apasionada de esta arquitectura reserva hueco en tu agenda porque 
+este 2023 habrá más visitas guiadas, exposiciones, nuevos museos y edificios con una 
+increíble iluminación. "Bruselas, capital del Art Nouveau" te espera.** 
 
 ![Casa Tassel, primera casa de estilo Art Nouveau en Bruselas.](https://fotos.etheriamagazine.com/2022/12/casa-tassel-bruselas.jpg "Casa Tassel, primera casa de estilo Art Nouveau en Bruselas.")
 
@@ -130,11 +130,8 @@ Cauchie y la Casa Van Eetvelde.
 
 **También te puede interesar...** 
 
-[10 paradas en una ruta por el Barrio Europeo de 
-Bruselas](https://etheriamagazine.com/2022/09/29/que-ver-barrio-europeo-bruselas/). 
+{{< reflink path=posts/2022/09/que-ver-barrio-europeo-bruselas >}}. 
 
-[Qué comer en Bruselas, productos y experiencias 
-originales](https://etheriamagazine.com/2022/03/29/que-comer-en-bruselas/). 
+{{< reflink path=posts/2022/03/que-comer-en-bruselas >}}. 
 
-[8 planes que no puedes perderte en Bruselas y 
-Flandes](https://etheriamagazine.com/2021/03/12/que-ver-hacer-otros-planes-en-bruselas-y-flandes/).
+{{< reflink path=posts/2021/03/que-ver-hacer-otros-planes-en-bruselas-y-flandes >}}.

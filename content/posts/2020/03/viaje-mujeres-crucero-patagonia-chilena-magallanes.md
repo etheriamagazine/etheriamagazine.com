@@ -1,7 +1,7 @@
 ---
 title: "Descubre la Patagonia navegando hacia el Estrecho de Magallanes"
 date: 2020-03-17
-coverImage: https://fotos.etheriamagazine.com/2020/03/viaje-patagonia-chilena-ventus-australis.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/viaje-patagonia-chilena-ventus-australis.jpg
 destino: 
   - España
 authors: 

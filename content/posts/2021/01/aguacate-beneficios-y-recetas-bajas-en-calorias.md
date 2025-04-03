@@ -1,7 +1,7 @@
 ---
 title: "El aguacate, conoce sus beneficios y prepara recetas sencillas"
 date: 2021-01-26
-coverImage: https://fotos.etheriamagazine.com/2021/01/aguacates-rellenos.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/aguacates-rellenos.jpg
 categories: 
   - bienestar
   - gourmet
@@ -11,9 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-El aguacate es uno de los grandes aliados para la salud y también un ingrediente muy 
+**El aguacate es uno de los grandes aliados para la salud y también un ingrediente muy 
 útil para preparar desayunos sencillos, y cenas rápidas bajas en calorías. Te contamos 
-sus beneficios, algunas curiosidades y varias recetas para hacer en menos de 10 minutos. 
+sus beneficios, algunas curiosidades y varias recetas para hacer en menos de 10 
+minutos.** 
 
 ![El aguacate proporciona grandes beneficios a la salud.](https://fotos.etheriamagazine.com/2021/01/aguacate-no-engorda.jpg "El aguacate proporciona grandes beneficios a la salud. © Noah Buscher")
 
@@ -150,16 +151,15 @@ endurece un poco y es más fácil cortarlo luego para comerlo. ¡_Bon appétit_!
 ## Restaurantes especializados en aguacate
 
 Si eres una apasionada del aguacate pero prefieres que te lo pongan ya preparado en el 
-plato, y vives o estás de viaje en Madrid, puedes acudir a restaurantes como [Aüakt](https://www.auakt.com/) 
-(Barquillo, 44), que tiene una decoración moderna y una carta con platos saludables. 
+plato, y vives o estás de viaje en Madrid, puedes acudir a restaurantes como 
+[Aüakt](https://www.auakt.com/) (Barquillo, 44), que tiene una decoración moderna y una 
+carta con platos saludables. 
 
 **También te puede interesar...** 
 
-[Recetas para un Halloween de 
-miedo](https://etheriamagazine.com/2020/10/23/recetas-para-halloween-galletas-cupcakes-tartas/). 
+{{< reflink path=posts/2020/10/recetas-para-halloween-galletas-cupcakes-tartas >}}. 
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/). 
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}. 
 
-[Ruta por el Madrid más libre (de 
-gluten)](https://etheriamagazine.com/2020/10/02/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias/).
+{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
+>}}.

@@ -1,7 +1,7 @@
 ---
 title: "6 viajes a Extremadura para todo el año"
 date: 2022-06-27
-coverImage: https://fotos.etheriamagazine.com/2022/06/extremadura-Las-Hurdes.jpg
+cover: https://fotos.etheriamagazine.com/2022/06/extremadura-Las-Hurdes.jpg
 categories: 
   - inspiración
   - ocio
@@ -38,8 +38,8 @@ gastronomía, podrás darte un bañito en sus piscinas naturales. Descubre sus c
 y no te pierdas sus petroglifos neolíticos en lugares como la Miacera, la Peña del Molde 
 o el Tesito de los Cuchillos. 
 
-📍Ruta completa en [Las Hurdes, un paraíso extremeño suspendido en el 
-tiempo](https://etheriamagazine.com/2020/07/21/viajes-espana-las-hurdes-un-paraiso-extremeno/). 
+📍Ruta completa en {{< reflink 
+path=posts/2020/07/viajes-espana-las-hurdes-un-paraiso-extremeno >}}. 
 
 ![paraje natural en Las Hurdes](https://fotos.etheriamagazine.com/2022/06/extremadura-Las-Hurdes.jpg "Varios ríos traviesan la comarca de Las Hurdes. © Yolanda Cardo")
 
@@ -52,8 +52,8 @@ para ver las estrellas en un cielo que no puede ser más claro. Para refrescarte
 mejor que una ruta de kayak por el embalse de García Sola, y a la hora de la comida te 
 aseguramos que no te quedarás con hambre gracias a la sabrosa gastronomía local. No te 
 pierdas su miel y los postres típicos de cada pueblo, ¡traerás el maletero lleno! 📍Ruta 
-completa en [Elige uno de estos 10 motivos para viajar a La Siberia 
-extremeña](https://etheriamagazine.com/2021/09/26/10-motivos-para-viajar-a-la-siberia-extremena/). 
+completa en {{< reflink path=posts/2021/09/10-motivos-para-viajar-a-la-siberia-extremena 
+>}}. 
 
 ![baño en la Siberia extremeña](https://fotos.etheriamagazine.com/2022/06/Extremadura-Reserva-Biosfera-La-Siberia.jpg "Lago en © La Siberia extremeña.")
 
@@ -67,8 +67,8 @@ tienes que visitar en verano la Reserva Natural de la Garganta de los Infiernos 
 piscinas naturales de Los Pilones. Además, tienes que visitar sí o sí los pueblos de 
 Jerte, Navaconcejo y Cabezuela del Valle 
 
-📍Ruta completa en [El valle del Jerte, entre cerezas y piscinas 
-naturales](https://etheriamagazine.com/2020/06/17/viajes-por-espana-alle-del-jerte-piscinas-naturales-cerezas/). 
+📍Ruta completa en {{< reflink 
+path=posts/2020/06/viajes-por-espana-alle-del-jerte-piscinas-naturales-cerezas >}}. 
 
 ![río en el valle del Jerte](https://fotos.etheriamagazine.com/2022/06/extremadura-Valle-del-jerte.jpg "Garganta de los Infiernos.")
 
@@ -81,8 +81,7 @@ Almendralejo, Zafra y Fregenal de la Sierra. Con indicaciones de los monumentos
 imprescindibles, dónde comer y dónde dormir en cada uno de ellos. Prepara tu ruta, que 
 seguro que la disfrutarás un montón. 
 
-📍 Ruta completa en [5 pueblos de Badajoz que no conoces y que te 
-sorprenderán](https://etheriamagazine.com/2022/05/03/ruta-pueblos-bonitos-badajoz/). 
+📍 Ruta completa en {{< reflink path=posts/2022/05/ruta-pueblos-bonitos-badajoz >}}. 
 
 ![atardecer en Badajoz](https://fotos.etheriamagazine.com/2022/06/extremadura-Villanueva-de-la-Serena-iglesia-asuncion.jpg "Iglesia de la Asunción, en Villanueva de la Serena.")
 
@@ -97,8 +96,8 @@ aljibe mulsulmán del Palacio de las Veletas. Si tienes tiempo, te recomendamos 
 por sus calles para descubrir sus palacios, como el Palacio Godoy, el Palacio de 
 Mayoralgo o el Palacio de los Golfines de Abajo. 
 
-📍 Ruta completa en [8 visitas imprescindibles en Cáceres en clave 
-histórica](https://etheriamagazine.com/2020/05/26/escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica/). 
+📍 Ruta completa en {{< reflink 
+path=posts/2020/05/escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica >}}. 
 
 ![casco histórico de Cáceres](https://fotos.etheriamagazine.com/2022/06/Extremadura-caceres.jpg "Plaza Mayor de Cáceres. © Ayto. Cáceres")
 
@@ -113,22 +112,19 @@ del chef Toño Pérez es la parada imprescindible en esta ruta. Después, puedes
 a [Casa Claudio](https://www.casaclaudio.com/), a los bares de la Plaza Mayor de 
 Plasencia y al singular [Versátil](https://versatilrural.com/), un restaurante único 
 ubicado en Zarza de Granadilla. En la ruta te sorprenderán museos tan variados como el 
-de la Torta del Casar o el de [Helga 
-Alvear](https://etheriamagazine.com/2021/03/03/helga-de-alvear-el-arte-es-un-derecho-y-una-necesidad/), 
-de arte contemporáneo. 
+de la Torta del Casar o el de {{< reflink 
+path=posts/2021/03/helga-de-alvear-el-arte-es-un-derecho-y-una-necesidad >}}, de arte 
+contemporáneo. 
 
-📍 Ruta completa en [Gastronomía y arte en el norte de 
-Extremadura](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/). 
+📍 Ruta completa en {{< reflink 
+path=posts/2019/10/donde-comer-que-ver-hacer-viaje-norte-de-extremadura >}}. 
 
 ![restaurante Versátil](https://fotos.etheriamagazine.com/2022/06/Extremadura-restaurante-Versatil-en-Zarza-de-Granadilla.jpg "Los hermanos Hernández Talaván del restaurante Versátil. © P. Grifol")
 
 ## También te puede interesar:
 
-[10 escapadas para descubrir nuevos tesoros en 
-Andalucía](https://etheriamagazine.com/2020/11/06/10-escapadas-fin-de-semana-andalucia/) 
+{{< reflink path=posts/2020/11/10-escapadas-fin-de-semana-andalucia >}} 
 
-[Descubre estos 8 lugares secretos de Cataluña que deberías 
-conocer](https://etheriamagazine.com/2021/02/22/lugares-secretos-de-cataluna-que-visitar/) 
+{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}} 
 
-[Guía básica para una ruta en autocaravana por la Subbética 
-Cordobesa](https://etheriamagazine.com/2022/03/23/ruta-autocaravana-en-cordoba/)
+{{< reflink path=posts/2022/03/ruta-autocaravana-en-cordoba >}}

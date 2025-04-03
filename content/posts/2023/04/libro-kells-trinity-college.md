@@ -1,7 +1,7 @@
 ---
 title: "Por qué deberías ver cuanto antes el Libro de Kells en el Trinity College de Dublín"
 date: 2023-04-25
-coverImage: https://fotos.etheriamagazine.com/2023/04/biblioteca-antigua-trinity-college-dublin.jpg
+cover: https://fotos.etheriamagazine.com/2023/04/biblioteca-antigua-trinity-college-dublin.jpg
 categories: 
   - viajar-con-amigas
   - cultura
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-El Libro de Kells, considerado el “mayor tesoro del mundo occidental” se encuentra bajo 
-siete llaves en una cámara acorazada de la Old Library del Trinity College de Dublín, la 
-universidad más antigua de Irlanda. Pero, ¿por qué deberías acudir a la capital de 
-Irlanda para admirarlo cuanto antes? Porque la reforma de la biblioteca comenzará en 
-otoño y no podrás verlo allí hasta dentro de tres años. 
+**El Libro de Kells, considerado el “mayor tesoro del mundo occidental” se encuentra 
+bajo siete llaves en una cámara acorazada de la Old Library del Trinity College de 
+Dublín, la universidad más antigua de Irlanda. Pero, ¿por qué deberías acudir a la 
+capital de Irlanda para admirarlo cuanto antes? Porque la reforma de la biblioteca 
+comenzará en otoño y no podrás verlo allí hasta dentro de tres años.** 
 
 ![Sala principal de la antigua biblioteca del Trinity Collegge](https://fotos.etheriamagazine.com/2023/04/biblioteca-antigua-trinity-college-dublin.jpg "Long Room de la Old Library del Trinity College de Dublín. © Naomi Hutchinson")
 
@@ -113,8 +113,6 @@ salir del recinto de la universidad para disfrutar de su música. Planazo.
 
 📌 **También os puede interesar...** 
 
-[Viaja sola o con amigas a Dublín, un plan 
-perfecto](https://etheriamagazine.com/2020/03/09/viaje-sola-con-amigas-que-ver-en-dublin/) 
+{{< reflink path=posts/2020/03/viaje-sola-con-amigas-que-ver-en-dublin >}} 
 
-[Irlanda del Norte: 6 visitas imprescindibles y 2 lugares 
-secretos](https://etheriamagazine.com/2021/05/31/8-visitas-increibles-en-irlanda-del-norte/)
+{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}}

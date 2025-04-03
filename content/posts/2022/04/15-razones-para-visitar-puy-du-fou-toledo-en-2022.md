@@ -1,7 +1,7 @@
 ---
 title: "15 razones para visitar Puy du Fou Toledo"
 date: 2022-04-06
-coverImage: https://fotos.etheriamagazine.com/2022/04/Puy-du-Fou-Sueno-de-Toledo.jpg
+cover: https://fotos.etheriamagazine.com/2022/04/Puy-du-Fou-Sueno-de-Toledo.jpg
 categories: 
   - ocio
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-No era fácil que nuestro Puy du Fou ibérico cumpliese las expectativas derivadas del 
+**No era fácil que nuestro Puy du Fou ibérico cumpliese las expectativas derivadas del 
 éxito de su hermano francés, pero lo ha conseguido e, incluso, las supera cada nueva 
 temporada. Si eres de las que aún duda sobre si merece la pena acudir a este parque 
 donde la historia es la protagonista, te interesa leer estas 15 razones para visitar Puy 
-du Fou Toledo (y algunas recomendaciones extra). 
+du Fou Toledo (y algunas recomendaciones extra).** 
 
 ![Escena de El Sueño de Toledo en Puy du Fou](https://fotos.etheriamagazine.com/2022/04/Puy-du-Fou-Sueno-de-Toledo.jpg "El Sueño de Toledo.")
 
@@ -226,7 +226,8 @@ de los mismos, piensa en comidas y descansos. Es conveniente comer un poco antes
 después de lo habitual para no tener que hacer colas. 
 
 ✅ Lo más sencillo para tenerlo todo bajo control es descargar su [App para 
-iPhone](https://apps.apple.com/fr/app/puy-du-fou-espa%C3%B1a/id1474259491) o para [Android](https://play.google.com/store/apps/details?id=es.puydufou.espana&hl=en_US) 
+iPhone](https://apps.apple.com/fr/app/puy-du-fou-espa%C3%B1a/id1474259491) o para 
+[Android](https://play.google.com/store/apps/details?id=es.puydufou.espana&hl=en_US) 
 (hay wifi gratis en Puy du Fou). 
 
 ### 📌 ¿Cuál es el mejor espectáculo de Puy du Fou Toledo?
@@ -238,11 +239,10 @@ incluido en la entrada.
 
 ## Otros parques de interés
 
-[Los 10 mejores parques de atracciones de Europa para visitar con 
-niños](https://etheriamagazine.com/2018/07/09/los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia/). 
+{{< reflink 
+path=posts/2018/07/los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia 
+>}}. 
 
-[Buenas razones para viajar a Futuroscope en 
-2022](https://etheriamagazine.com/2022/03/30/novedades-futuroscope-2022/). 
+{{< reflink path=posts/2022/03/novedades-futuroscope-2022 >}}. 
 
-[Viaje en familia de seis días por Baviera: de Playmobil a 
-Legoland](https://etheriamagazine.com/2019/06/12/viaje-en-familia-parques-alemania-playmobil-legoland/).
+{{< reflink path=posts/2019/06/viaje-en-familia-parques-alemania-playmobil-legoland >}}.

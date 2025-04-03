@@ -1,7 +1,7 @@
 ---
 title: "Cascais, Sintra y Estoril, un trío portugués que siempre triunfa"
 date: 2018-07-31
-coverImage: https://fotos.etheriamagazine.com/2018/07/Palacio-de-Queluz-RuiCunha-turismo-Cascais.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/Palacio-de-Queluz-RuiCunha-turismo-Cascais.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -161,11 +161,8 @@ Fotos: Turismo de Portugal y copyrights especificados.
 
 **También te puede interesar:** 
 
-[Lisboa y Ericeira, un plan cercano para amantes del mar, el surf y el buen 
-comer](https://etheriamagazine.com/2020/03/24/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf/) 
+{{< reflink path=posts/2024/08/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf >}} 
 
-[12 miradores para exprimir 
-Lisboa](https://etheriamagazine.com/2018/10/30/12-miradores-para-exprimir-lisboa/) 
+{{< reflink path=posts/2018/10/12-miradores-para-exprimir-lisboa >}} 
 
-[Ruta de fados en Lisboa de la mano de Amália 
-Rodrigues](https://etheriamagazine.com/2020/12/30/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues/)
+{{< reflink path=posts/2020/12/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues >}}

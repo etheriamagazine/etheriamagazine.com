@@ -1,7 +1,7 @@
 ---
 title: "10 yacimientos arqueológicos del mundo para visitar una vez en la vida"
 date: 2023-09-08
-coverImage: https://fotos.etheriamagazine.com/2023/09/yacimiento-templos-bagan.jpg
+cover: https://fotos.etheriamagazine.com/2023/09/yacimiento-templos-bagan.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-Nos encantan las listas de propósitos viajeros y, en este caso, os destacamos diez 
+**Nos encantan las listas de propósitos viajeros y, en este caso, os destacamos diez 
 yacimientos arqueológicos del mundo para visitar, al menos, una vez en la vida. Unos 
 están en ciudades cercanas y otros implican largos viajes, pero no por ello debemos 
-dejar de soñar con ellos. ¿Cuál visitaríais primero? 
+dejar de soñar con ellos. ¿Cuál visitaríais primero?** 
 
 ![Acrópolis de Atenas con el Partenón en lo alto.](https://fotos.etheriamagazine.com/2023/09/yacimiento-acropolis-atenas.jpg "Acrópolis de Atenas con el Partenón en lo alto.")
 
@@ -56,8 +56,8 @@ sus famosas torres con caras talladas); y **Bantay Srei** (el templo de las muje
 realizado en arenisca rosa). 
 
 📍 Excursiones organizadas: [Tour privado por Angkor con guía en 
-español.](https://www.civitatis.com/es/siem-reap/tour-privado-angkor-wat/?aid=10211) [Templos 
-de Angkor al amanecer o al 
+español.](https://www.civitatis.com/es/siem-reap/tour-privado-angkor-wat/?aid=10211) 
+[Templos de Angkor al amanecer o al 
 atardecer.](https://www.civitatis.com/es/siem-reap/templos-angkor-amanecer-atardecer/?aid=10211) 
 
 ## Abu Simbel
@@ -85,8 +85,8 @@ La visita de Abu Simbel se puede realizar como una **excursión de un día desde
 quiere disfrutar de espectáculo de luz y sonido por la noche y para poder llegar a los 
 templos a primera hora, justo antes de amanecer. 
 
-✅ Para seguir leyendo: [Cómo y por qué organizar una visita a Abu 
-Simbel](https://etheriamagazine.com/2023/06/30/como-organizar-una-visita-a-abu-simbel/). 
+✅ Para seguir leyendo: {{< reflink 
+path=posts/2023/06/como-organizar-una-visita-a-abu-simbel >}}. 
 
 📍 Excursiones organizadas: [Excursión a Abu 
 Simbel.](https://www.civitatis.com/es/asuan/excursion-abu-simbel/?aid=10211) [Excursión 
@@ -115,8 +115,8 @@ arqueológico necesitarás al menos un día completo, aunque si quieres profundi
 visita, ver el espectáculo nocturno de luz y sonido y añadir el conjunto arqueológico de 
 la **Pequeña Petra** (muy recomendable) será mejor dedicarle dos días. 
 
-✅ Para seguir leyendo: [Jordania, visitas y consejos imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2020/12/18/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola/). 
+✅ Para seguir leyendo: {{< reflink 
+path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}. 
 
 📍 Excursiones organizadas: [Tour por 
 Petra.](https://www.civitatis.com/es/petra/tour-petra/?aid=10211) 
@@ -141,8 +141,8 @@ carretera o en tren lo harás hasta el pueblo de **Aguas Calientes**, desde dond
 llega al yacimiento caminando (la subida es dura) o en los autobuses oficiales. 
 
 📍 Excursiones organizadas: [Excursión a Machu 
-Picchu.](https://www.civitatis.com/es/cusco/excursion-machu-picchu/?aid=10211) [Excursión 
-de dos días a Machu 
+Picchu.](https://www.civitatis.com/es/cusco/excursion-machu-picchu/?aid=10211) 
+[Excursión de dos días a Machu 
 Picchu.](https://www.civitatis.com/es/cusco/excursion-2-dias-machu-picchu/?aid=10211) 
 
 ## Chichén Itzá
@@ -163,8 +163,8 @@ excavar) entre las que destacan, además de la Pirámide de Kukulkán, El Caraco
 de Pelota, el Templo de los Guerreros o el Templo de los Jaguares. Tendrás que dedicarle 
 un día completo para recorrerlo a conciencia y no perderte nada. 
 
-✅ Para seguir leyendo sobre la zona: [10 excursiones para descubrir la Riviera 
-Maya](https://etheriamagazine.com/2022/02/01/excursiones-en-riviera-maya-mexico/) 
+✅ Para seguir leyendo sobre la zona: {{< reflink 
+path=posts/2022/02/excursiones-en-riviera-maya-mexico >}} 
 
 📍 Visitas organizadas: [Tour privado por Chichén 
 Itzá.](https://www.civitatis.com/es/chichen-itza/tour-privado-chichen-itza/?aid=10211) 
@@ -208,8 +208,8 @@ visita se cobra una única entrada. Los moáis más visitados son los de **Ahu T
 pero también se puede hacer alguna ruta de senderismo por caminos señalizados para 
 descubrir alguno de los más de doscientos que aparecen más escondidos. O visitar la 
 cantera de la que se extraían y donde permanece el más grande de todos y que nunca fue 
-despegado de la roca. ✅ Para seguir leyendo: [Isla de Pascua, el misterio de los moáis y 
-su ‘mana’.](https://etheriamagazine.com/2019/02/15/viaje-misterios-isla-pascua/) 
+despegado de la roca. ✅ Para seguir leyendo: {{< reflink 
+path=posts/2019/02/viaje-misterios-isla-pascua >}} 
 
 📍 Excursiones organizadas: [Tour por la isla de Pascua y la playa de 
 Anakena.](https://www.civitatis.com/es/isla-de-pascua/tour-isla-de-pascua-anakena/?aid=10211) 
@@ -231,8 +231,8 @@ web](https://colosseo.it/es/horarios-y-entradas/) para no esperar demasiado. Se 
 visitar tanto el graderío como el hipogeo, las galerías subterráneas donde se preparaban 
 los espectáculos. 
 
-✅ Para seguir leyendo: [15 lugares imprescindibles que ver en 
-Roma](https://etheriamagazine.com/2022/07/11/15-lugares-imprescindibles-que-ver-en-roma/). 
+✅ Para seguir leyendo: {{< reflink 
+path=posts/2022/07/15-lugares-imprescindibles-que-ver-en-roma >}}. 
 
 📍 Excursiones organizadas: [Visita guiada por el 
 Coliseo.](https://www.civitatis.com/es/roma/visita-guiada-coliseo/?aid=10211) 
@@ -283,8 +283,6 @@ Atenas.](https://www.civitatis.com/es/atenas/entrada-acropolis-atenas/?aid=10211
 
 📌 **También te puede interesar:** 
 
-[10 yacimientos arqueológicos en América Latina que tienes que 
-conocer](https://etheriamagazine.com/2019/05/29/10-yacimientos-arqueologicos-america-latina/) 
+{{< reflink path=posts/2019/05/10-yacimientos-arqueologicos-america-latina >}} 
 
-[10 yacimientos arqueológicos de México que no puedes 
-perderte](https://etheriamagazine.com/2021/03/30/mejores-yacimientos-arqueologicos-mexico/)
+{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}}

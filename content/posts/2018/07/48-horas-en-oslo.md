@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer en Oslo en una visita exprés"
 date: 2018-07-13
-coverImage: https://fotos.etheriamagazine.com/2018/04/1-Mujeres-Viajeras-en-Oslo-e1566888890200.jpg
+cover: https://fotos.etheriamagazine.com/2018/04/1-Mujeres-Viajeras-en-Oslo-e1566888890200.jpg
 categories: 
   - viajar-sola
   - ocio
@@ -11,12 +11,12 @@ authors:
   - Pepa G. Marín
 ---
 
-Viajar a Oslo con la mejor compañía, es decir contigo misma, te depara no pocas 
+**Viajar a Oslo con la mejor compañía, es decir contigo misma, te depara no pocas 
 experiencias interesantes. El carácter hospitalario de los noruegos también ayuda si en 
 algún momento te apetece compartir la emoción de descubrir sus hitos arquitectónicos o 
 artísticos. Para esta escapada en solitario os recomendamos un mínimo de tres días, que 
 son suficientes para visitar la capital noruega sin prisas y, al mismo tiempo, sin 
-aburrirte ni un momento. 
+aburrirte ni un momento.** 
 
 ![Recorre Oslo en bicicleta.](https://fotos.etheriamagazine.com/2018/04/6-Etheria-Mujeres-Viajeras-en-Oslo.jpg "Recorre Oslo en bicicleta.")
 
@@ -129,8 +129,7 @@ metros, cascadas, granjas y pequeñas poblaciones se suceden hasta llegar a Gudv
 desde donde se puede volver a Oslo o continuar hasta Bergen, otro destino imprescindible 
 en Noruega. 
 
-**No te pierdas:** [El tren de Flåm, el recorrido más bonito del 
-mundo](https://etheriamagazine.com/2020/11/19/tren-de-flam-y-fiordos-noruega/) 
+**No te pierdas:** {{< reflink path=posts/2020/11/tren-de-flam-y-fiordos-noruega >}} 
 
 ### Guía práctica de Oslo
 

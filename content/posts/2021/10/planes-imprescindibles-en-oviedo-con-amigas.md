@@ -1,7 +1,7 @@
 ---
 title: "Oviedo con amigas, 8 planazos para descubrirla"
 date: 2021-10-05
-coverImage: https://fotos.etheriamagazine.com/2021/09/oviedo-estatua-parque-san-francisco.jpg
+cover: https://fotos.etheriamagazine.com/2021/09/oviedo-estatua-parque-san-francisco.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Carmen Pineda
 ---
 
-Asturias es un valor seguro para cualquier escapada y si tu próxima escapada es un viaje 
-a Oviedo con amigas te aseguramos que no te vas a arrepentir. Aquí te proponemos 8 
-planes para que exprimas al máximo tu estancia en la elegante capital asturiana. 
+**Asturias es un valor seguro para cualquier escapada y si tu próxima escapada es un 
+viaje a Oviedo con amigas te aseguramos que no te vas a arrepentir. Aquí te proponemos 8 
+planes para que exprimas al máximo tu estancia en la elegante capital asturiana.** 
 
 ![Oviedo desde la iglesia de Santa María del Naranco.](https://fotos.etheriamagazine.com/2021/09/oviedo-desde-santa-maria-naranco.jpg "Oviedo desde la iglesia de Santa María del Naranco.")
 
@@ -313,11 +313,9 @@ grupo desde 90 euros.
 
 **También te puede interesar:** 
 
-[Picos de Europa, una ruta por la columna vertebral de Asturias, León y 
-Cantabria](https://etheriamagazine.com/2018/10/17/picos-de-europa-ruta-por-asturias-leon-y-cantabria/) 
+{{< reflink path=posts/2018/10/picos-de-europa-ruta-por-asturias-leon-y-cantabria >}} 
 
-[Las Ubiñas, vive nueve experiencias en territorio del oso 
-pardo](https://etheriamagazine.com/2021/07/21/que-hacer-en-parque-las-ubinas-la-mesa/) 
+{{< reflink path=posts/2021/07/que-hacer-en-parque-las-ubinas-la-mesa >}} 
 
-[Gijón: una gastroescapada que te dejará muy buen sabor de 
-boca](https://etheriamagazine.com/2021/01/25/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias/)
+{{< reflink path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias 
+>}}

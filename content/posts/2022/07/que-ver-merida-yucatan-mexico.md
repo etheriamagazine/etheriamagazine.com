@@ -1,7 +1,7 @@
 ---
 title: "Mil razones para enamorarse de la Mérida mexicana"
 date: 2022-07-18
-coverImage: https://fotos.etheriamagazine.com/2022/07/que-ver-merida-mexico-portada.jpg
+cover: https://fotos.etheriamagazine.com/2022/07/que-ver-merida-mexico-portada.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -179,11 +179,8 @@ Más información en la [web](https://www.visitmexico.com/) de Turismo de Méxic
 
 ## También en México...
 
-[10 yacimientos arqueológicos de México que no puedes 
-perderte](https://etheriamagazine.com/2021/03/30/mejores-yacimientos-arqueologicos-mexico/). 
+{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}}. 
 
-[‘Coco’, una película que nos acerca a México y sus 
-tradiciones](https://etheriamagazine.com/2018/05/28/en-el-mexico-de-coco/). 
+{{< reflink path=posts/2018/05/en-el-mexico-de-coco >}}. 
 
-[10 excursiones para descubrir la Riviera 
-Maya](https://etheriamagazine.com/2022/02/01/excursiones-en-riviera-maya-mexico/).
+{{< reflink path=posts/2022/02/excursiones-en-riviera-maya-mexico >}}.

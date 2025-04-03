@@ -1,7 +1,7 @@
 ---
 title: "Descubre los 12 imprescindibles de Almería provincia"
 date: 2023-07-17
-coverImage: https://fotos.etheriamagazine.com/2023/06/Almeria-sierra-maria-velez-mirador.jpg
+cover: https://fotos.etheriamagazine.com/2023/06/Almeria-sierra-maria-velez-mirador.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -12,10 +12,10 @@ authors:
   - Susana García
 ---
 
-La provincia de Almería brinda paisajes únicos, algunos que parecen sacados de otro 
+**La provincia de Almería brinda paisajes únicos, algunos que parecen sacados de otro 
 planeta, y pueblos encalados con flores en los balcones que son la viva estampa de 
 Andalucía. En este artículo te mostramos qué ver en Almería a través de doce lugares 
-imprescindibles. Todos te van a enamorar. 
+imprescindibles. Todos te van a enamorar.** 
 
 ![Playa de los Muertos, en el Parque Natural de Cabo de Gata-Níjar](https://fotos.etheriamagazine.com/2023/06/almeria-playa-muertos.jpg "Playa de los Muertos, en el Parque Natural de Cabo de Gata-Níjar. © Turismo de Andalucía.")
 
@@ -302,8 +302,7 @@ Constitución.
 
 📌 **También te puede interesar:** 
 
-[Planes en Almería para una escapada en clave 
-slow](https://etheriamagazine.com/2021/04/17/que-ver-en-almeria-en-temporada-baja/) 
+{{< reflink path=posts/2021/04/que-ver-en-almeria-en-temporada-baja >}} 
 
-[Almería con amigas, una capital mucho más guapa de lo que 
-piensas](https://etheriamagazine.com/2020/01/10/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear/)
+{{< reflink 
+path=posts/2020/01/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear >}}

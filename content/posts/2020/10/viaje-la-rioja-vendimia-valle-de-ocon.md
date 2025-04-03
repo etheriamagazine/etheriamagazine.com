@@ -1,7 +1,7 @@
 ---
 title: "Escapada al valle secreto de Ocón, un pellizco de La Toscana en La Rioja"
 date: 2020-10-26
-coverImage: https://fotos.etheriamagazine.com/2020/10/Etheria-magazine-La-Rioja-molino-valle-ocon.jpg
+cover: https://fotos.etheriamagazine.com/2020/10/Etheria-magazine-La-Rioja-molino-valle-ocon.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -150,5 +150,5 @@ de las más arraigadas en el valle.
 
 **También te puede interesar** 
 
-['Planes de invierno en La Rioja: mucho más que 
-vino'](https://etheriamagazine.com/2019/12/13/que-ver-en-invierno-a-la-rioja-planes-con-amigas-o-en-familia/).
+{{< reflink 
+path=posts/2019/12/que-ver-en-invierno-a-la-rioja-planes-con-amigas-o-en-familia >}}.

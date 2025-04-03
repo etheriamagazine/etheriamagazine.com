@@ -1,7 +1,7 @@
 ---
 title: "Expo 2020 de Dubái: cómo aprovechar el tiempo durante tu visita"
 date: 2021-12-20
-coverImage: https://fotos.etheriamagazine.com/2021/12/Expo-Dubai-Al-Wasl-Plaza-dia.jpg
+cover: https://fotos.etheriamagazine.com/2021/12/Expo-Dubai-Al-Wasl-Plaza-dia.jpg
 categories: 
   - inspiración
   - ocio
@@ -40,10 +40,10 @@ días te aseguramos que no te van a faltar cosas por hacer. También puedes apro
 haces algún vuelo de larga distancia con Emirates Airlines y hacer un _**stop**_ 
 **_over_ en Dubái** para visitar este acontecimiento único. 
 
-Para organizar con antelación la visita y no perder tiempo tienes dos herramientas: la [web 
-Expo Dubai 2020](https://www.expo2020dubai.com/es) y la **aplicación para móviles**. 
-Aquí encontrarás toda la información necesaria para tu visita e incluso planificadores 
-de rutas según tu perfil. 
+Para organizar con antelación la visita y no perder tiempo tienes dos herramientas: la 
+[web Expo Dubai 2020](https://www.expo2020dubai.com/es) y la **aplicación para 
+móviles**. Aquí encontrarás toda la información necesaria para tu visita e incluso 
+planificadores de rutas según tu perfil. 
 
 ![Pabellón de Tailandia.](https://fotos.etheriamagazine.com/2021/12/Expo-2020-Dubai-pabellon-Tailandia.jpg "Pabellón de Tailandia. © SG")
 
@@ -177,11 +177,9 @@ que coincidan con tu visita.
 
 ### También te puede interesar:
 
-[10 visitas para aprovechar al máximo una escala en 
-Dubái](https://etheriamagazine.com/2019/05/31/como-aprovechar-una-escala-en-dubai/) 
+{{< reflink path=posts/2019/05/como-aprovechar-una-escala-en-dubai >}} 
 
-[Jordania, visitas y consejos imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2020/12/18/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola/) 
+{{< reflink 
+path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}} 
 
-[Islas Seychelles, el nuevo paraíso para los viajeros 
-españoles](https://etheriamagazine.com/2020/11/16/islas-seychelles-un-viaje-de-lujo-al-paraiso/)
+{{< reflink path=posts/2020/11/islas-seychelles-un-viaje-de-lujo-al-paraiso >}}

@@ -1,7 +1,7 @@
 ---
 title: "Descubre los secretos de Orleans, la ciudad que pudo reinar"
 date: 2021-11-09
-coverImage: https://fotos.etheriamagazine.com/2021/11/Fin-de-semana-Orleans-RueJeanne-dArc.jpg
+cover: https://fotos.etheriamagazine.com/2021/11/Fin-de-semana-Orleans-RueJeanne-dArc.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -128,10 +128,10 @@ En los mercados franceses siempre se aprende mucho y el de Orleans –Halles Ch�
 deja indiferente a los amantes de la buena mesa. Uno de los productos locales ¡y 
 estrella! es el vinagre, que, además tiene una peculiar historia: “En el siglo XV el 
 vino se transportaba por el río, y siendo que alguna cantidad llegaba avinagrado, un 
-empresario de la época decidió aromatizarlo y comercializarlo”. En la actualidad la casa [Martin 
-Pouret](http://www.martin-pouret.com) es la única vinagrería de la ciudad que perpetúa 
-la tradición. Es un condimento que se vende con una variedad de sabores increíble. 
-Existen versiones aromatizadas con chalota, ajo, albahaca o limón. 
+empresario de la época decidió aromatizarlo y comercializarlo”. En la actualidad la casa 
+[Martin Pouret](http://www.martin-pouret.com) es la única vinagrería de la ciudad que 
+perpetúa la tradición. Es un condimento que se vende con una variedad de sabores 
+increíble. Existen versiones aromatizadas con chalota, ajo, albahaca o limón. 
 
 ![Mostazas Martin Pouret.](https://fotos.etheriamagazine.com/2021/11/Fin-de-semana-Orleans-Martin-Pouret.jpg "Mostazas Martin-Pouret. © P. Grifol.")
 
@@ -227,11 +227,8 @@ Más información en [Turismo de Orleans](http://www.tourisme-orleans.com).
 
 ### También te puede interesar:
 
-[Valle del Loira, cinco castillos y un increíble festival de 
-jardines](https://etheriamagazine.com/2021/08/09/valle-del-loira-entre-castillos-y-jardines/) 
+{{< reflink path=posts/2021/08/valle-del-loira-entre-castillos-y-jardines >}} 
 
-[Costa Azul en coche y con amigas, ¿se te ocurre una propuesta 
-mejor?](https://etheriamagazine.com/2021/09/03/guia-viaje-costa-azul-en-coche-y-con-amigas/) 
+{{< reflink path=posts/2021/09/guia-viaje-costa-azul-en-coche-y-con-amigas >}} 
 
-[Ruta del Impresionismo en Normandía, arte a 
-raudales](https://etheriamagazine.com/2021/06/24/4-dias-ruta-impresionismo-normandia-francia/)
+{{< reflink path=posts/2021/06/4-dias-ruta-impresionismo-normandia-francia >}}

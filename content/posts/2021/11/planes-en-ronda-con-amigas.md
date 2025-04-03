@@ -1,7 +1,7 @@
 ---
 title: "Ronda con amigas, pistas para gozar al máximo"
 date: 2021-11-23
-coverImage: https://fotos.etheriamagazine.com/2021/11/ronda-Arco-de-Felipe-V.jpg
+cover: https://fotos.etheriamagazine.com/2021/11/ronda-Arco-de-Felipe-V.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Yolanda Cardo
 ---
 
-“He buscado por todas partes la ciudad soñada, y al fin la he encontrado en Ronda”, 
+**“He buscado por todas partes la ciudad soñada, y al fin la he encontrado en Ronda”, 
 escribió el poeta Rainer Maria Rilke. No fue el único que sucumbió a sus encantos, Orson 
 Welles o Ernest Hemingway también lo hicieron. ¿Y vosotras? ¿Podréis resistiros a la 
 experiencia de vivir un fin de semana en Ronda con amigas? Os anticipo que os resultará 
 prácticamente imposible escapar a su influjo. En Etheria Magazine os damos las claves 
-para planificar un viaje de ensueño. 
+para planificar un viaje de ensueño.** 
 
 ![arco felipe v ronda](https://fotos.etheriamagazine.com/2021/11/ronda-Arco-de-Felipe-V.jpg "Arco de Felipe V con la serranía al fondo. © Yolanda Cardo")
 
@@ -23,12 +23,11 @@ Para ver Ronda hacen falta tres o cuatro días”, dice Jaime, el simpático gu�
 acompañó durante una visita _exprés_ a la bella localidad malagueña. ¡Y cuánta razón 
 tiene! Si vais a Ronda con amigas –o con quien queráis– os sorprenderéis de las 
 numerosas joyas que esconde esta preciosa perla sureña, engarzada sobre una plataforma 
-rocosa a 723 metros de sobre el nivel del mar, flamante antesala de la [Sierra de 
-Grazalema](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/). 
-La espectacularidad del Tajo, el magnífico desfiladero horadado durante siglos por las 
-aguas del Guadalevín, es su más “instagrameable” postal, pero no la única. Yo que 
-vosotras comenzaría a sincronizar agendas para poner rumbo hacia una de las ciudades más 
-bellas de España. 
+rocosa a 723 metros de sobre el nivel del mar, flamante antesala de la {{< reflink 
+path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}}. La espectacularidad del 
+Tajo, el magnífico desfiladero horadado durante siglos por las aguas del Guadalevín, es 
+su más “instagrameable” postal, pero no la única. Yo que vosotras comenzaría a 
+sincronizar agendas para poner rumbo hacia una de las ciudades más bellas de España. 
 
 ![puente nuevo en tajo de ronda](https://fotos.etheriamagazine.com/2021/11/Puente-Nuevo-Tajo-de-Ronda.jpg "Imagen del monumental Puente Nuevo y el Tajo de Ronda. ©Yolanda Cardo")
 
@@ -178,11 +177,8 @@ que ya os hemos hablado.
 
 **Te puede interesar...** 
 
-[Parque Nacional Sierra de las Nieves, una nueva estrella brilla en 
-Málaga](https://etheriamagazine.com/2021/06/26/revista-viajes-que-ver-parque-sierra-de-nieves/). 
+{{< reflink path=posts/2021/06/revista-viajes-que-ver-parque-sierra-de-nieves >}}. 
 
-[8 excursiones en Málaga para hacer con 
-niños](https://etheriamagazine.com/2021/07/12/excursiones-en-malaga-con-ninos/). 
+{{< reflink path=posts/2021/07/excursiones-en-malaga-con-ninos >}}. 
 
-[Un fin de semana en Málaga con 
-amigas](https://etheriamagazine.com/2021/05/03/fin-de-semana-con-amigas-en-malaga/).
+{{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}}.

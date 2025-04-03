@@ -1,7 +1,7 @@
 ---
 title: "Un hotel de capricho en Lisboa: Tivoli Avenida Liberdade"
 date: 2019-02-14
-coverImage: https://fotos.etheriamagazine.com/2019/02/Tivoli-Avenida-Liberdade-Anantara-Spa.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/Tivoli-Avenida-Liberdade-Anantara-Spa.jpg
 categories: 
   - viajar-sola
   - hoteles
@@ -11,9 +11,9 @@ authors:
   - Redacción Etheria
 ---
 
-El Tivoli Avenida Liberdade, un hotel histórico de la capital portuguesa, suma a sus ya 
-confortables instalaciones dos placeres más: el de la mesa y el de los masajes. ¿Sabes 
-donde te alojarás cuando viajes a Lisboa? Nosotras, sí. 
+**El Tivoli Avenida Liberdade, un hotel histórico de la capital portuguesa, suma a sus 
+ya confortables instalaciones dos placeres más: el de la mesa y el de los masajes. 
+¿Sabes donde te alojarás cuando viajes a Lisboa? Nosotras, sí.** 
 
 ![Lobby del hotel Tivoli Avenida Liberdade de Lisboa.](https://fotos.etheriamagazine.com/2019/02/Tivoli-Avenida-Liberdade-Lobby.jpg "Lobby del hotel Tivoli Avenida Liberdade de Lisboa.")
 
@@ -93,8 +93,6 @@ Categoría: 5 estrellas. Av. da Liberdade 185. Lisboa (Portugal) Tel. +351 21 31
 
 📌 **También te puede interesar:** 
 
-[8 visitas originales en Lisboa que (quizá) te quedan por 
-hacer](https://etheriamagazine.com/2021/10/27/8-visitas-originales-en-lisboa/) 
+{{< reflink path=posts/2021/10/8-visitas-originales-en-lisboa >}} 
 
-[Ruta de fados en Lisboa de la mano de Amália 
-Rodrigues](https://etheriamagazine.com/2020/12/30/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues/)
+{{< reflink path=posts/2020/12/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues >}}

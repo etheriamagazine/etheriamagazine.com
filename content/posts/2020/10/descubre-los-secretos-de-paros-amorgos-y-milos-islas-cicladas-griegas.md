@@ -1,7 +1,7 @@
 ---
 title: "Escapada 'slow' a Paros, Amorgos y Milos, el secreto mejor guardado de las Cícladas"
 date: 2020-10-20
-coverImage: https://fotos.etheriamagazine.com/2020/10/islas-griegas-cicladas-Chora.jpg
+cover: https://fotos.etheriamagazine.com/2020/10/islas-griegas-cicladas-Chora.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -43,9 +43,10 @@ de pueblos en los que desearías quedarte a vivir.
 
 Desembarcarás en **Parikia**, capital y puerto principal de la isla, donde se alza uno 
 de los templos más impresionantes de Grecia: **Panagia Ekatontapiliani.** Frescos, 
-valiosos iconos, mosaicos, capillas... Si su factura te recuerda a la gran dama de [Estambul](https://etheriamagazine.com/2018/05/03/fin-de-semana-romantico-en-estambul/), 
-estás en lo cierto. Según dicen, el creador de esta maravilla bizantina fue discípulo de 
-los maestros que construyeron Hagia Sophia. 
+valiosos iconos, mosaicos, capillas... Si su factura te recuerda a la gran dama de {{< 
+reflink path=posts/2018/05/fin-de-semana-romantico-en-estambul >}}, estás en lo cierto. 
+Según dicen, el creador de esta maravilla bizantina fue discípulo de los maestros que 
+construyeron Hagia Sophia. 
 
 Tras este baño de historia, dirígete al norte para conocer **Naoussa**, un pueblo 
 costero que resume a la perfección la fisonomía de las islas Cícladas: un coqueto 
@@ -219,11 +220,8 @@ Algunas propuestas que hacen gala de la hospitalidad griega y el gusto por el de
 
 ### También te puede interesar:
 
-[Rodas, el primer paso para enamorarse de las Islas 
-Griegas](https://etheriamagazine.com/2019/08/14/que-ver-48-horas-en-rodas-islas-griegas/) 
+{{< reflink path=posts/2019/08/que-ver-48-horas-en-rodas-islas-griegas >}} 
 
-[Crucero por las Islas 
-Griegas](https://etheriamagazine.com/2019/01/03/que-visitar-crucero-por-islas-griegas/) 
+{{< reflink path=posts/2019/01/que-visitar-crucero-por-islas-griegas >}} 
 
-[Qué ver en Meteora. 6 monasterios que tocan el cielo 
-griego](https://etheriamagazine.com/2019/09/30/que-ver-en-meteora-6-monasterios-viajes-culturales/)
+{{< reflink path=posts/2019/09/que-ver-en-meteora-6-monasterios-viajes-culturales >}}

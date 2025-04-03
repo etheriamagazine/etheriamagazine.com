@@ -1,7 +1,7 @@
 ---
 title: "Mary Ellen Mark desnuda la realidad en “Vida de Mujeres”"
 date: 2021-04-02
-coverImage: https://fotos.etheriamagazine.com/2021/04/Mary-Ellen-Mark-Amanda-y-su-prima-Amy-1990.jpg
+cover: https://fotos.etheriamagazine.com/2021/04/Mary-Ellen-Mark-Amanda-y-su-prima-Amy-1990.jpg
 categories: 
   - cultura
   - ocio
@@ -85,11 +85,9 @@ Erin Blackwell.
 
 ### Te puede interesar en Cataluña...
 
-[Descubre estos 8 lugares secretos de Cataluña que deberías 
-conocer](https://etheriamagazine.com/2021/02/22/lugares-secretos-de-cataluna-que-visitar/). 
+{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}. 
 
-[Turismo industrial en Cataluña, viajar y aprender en 
-familia](https://etheriamagazine.com/2019/12/18/planes-familiares-en-barcelona-y-tarragona-turismo-industrial/). 
+{{< reflink 
+path=posts/2019/12/planes-familiares-en-barcelona-y-tarragona-turismo-industrial >}}. 
 
-[10 planes originales para hacer con amigas en 
-Barcelona](https://etheriamagazine.com/2021/03/10/10-planes-originales-con-amigas-en-barcelona/).
+{{< reflink path=posts/2021/03/10-planes-originales-con-amigas-en-barcelona >}}.

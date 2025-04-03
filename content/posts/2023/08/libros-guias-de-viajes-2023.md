@@ -1,7 +1,7 @@
 ---
 title: "Libros y guías de viajes para llevar en la maleta"
 date: 2023-08-13
-coverImage: https://fotos.etheriamagazine.com/2023/08/guias-viaje-playa.jpg
+cover: https://fotos.etheriamagazine.com/2023/08/guias-viaje-playa.jpg
 categories: 
   - cultura
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-Preparar las vacaciones es algo serio porque esos días de viaje constituyen el soplo de 
-aire fresco que necesitas para seguir con la vida diaria y sus rutinas. Hay muchas 
+**Preparar las vacaciones es algo serio porque esos días de viaje constituyen el soplo 
+de aire fresco que necesitas para seguir con la vida diaria y sus rutinas. Hay muchas 
 maneras de comenzar a buscar ideas o de familiarizarnos con el destino, pero una de las 
 mejores es la lectura. Los libros y guías de viajes, tanto si son informativos como si 
-se trata de ficción, te vendrán muy bien. 
+se trata de ficción, te vendrán muy bien.** 
 
 ![Mujer leyendo en la orilla del mar](https://fotos.etheriamagazine.com/2023/08/guias-viaje-playa.jpg "Las vacaciones son el mejor momento para terminar con lecturas pendientes.")
 
@@ -119,8 +119,9 @@ Este entretenido thriller nos lleva a conocer culturas lejanas. Fernando Gamboa 
 pasado parte de su vida viajando a África, Asia y Latinoamérica y ha trabajado como 
 submarinista, profesor de español, jugador de póker y guía de aventura, entre otras 
 profesiones. Todas esas experiencias le han servido para tejer las emocionantes 
-historias que narra en lugares exóticos. Si te enganchas a su prosa, además de [Guinea](https://amzn.to/3qlguJv) 
-cuenta con una decena más de novelas. Consulta en Amazon o en librerías. 
+historias que narra en lugares exóticos. Si te enganchas a su prosa, además de 
+[Guinea](https://amzn.to/3qlguJv) cuenta con una decena más de novelas. Consulta en 
+Amazon o en librerías. 
 
 ![Portada del libro Guinea](https://fotos.etheriamagazine.com/2023/08/guinea-libro-gamboa.jpg "Guinea.")
 
@@ -134,8 +135,8 @@ información y consejos prácticos con un tono divertido. La puedes adquirir en 
 o recibirla en casa con [Amazon: unos 9 euros en versión Kindle y en torno a 16 euros en 
 papel](https://amzn.to/3OTH7P3). 
 
-✅ No te pierdas el artículo: [5 recomendaciones para preparar un viaje a 
-Japón](https://etheriamagazine.com/2019/06/18/como-organizar-un-viaje-a-japon/). 
+✅ No te pierdas el artículo: {{< reflink 
+path=posts/2019/06/como-organizar-un-viaje-a-japon >}}. 
 
 ![Manual para viajar a Japón y no morir en el intento](https://fotos.etheriamagazine.com/2023/08/manual-para-viajar-a-japon-y-no-morir-en-el-intento-guias-singulares-1.jpg "Manual para viajar a Japón y no morir en el intento.")
 
@@ -146,8 +147,8 @@ las de Tintablanca. Entre sus últimos títulos, también con cubierta entelada,
 alto gramaje e ilustraciones de calidad, se encuentra ‘Cartas desde Massachusetts’. En 
 este libro, la escritora Laura Riñón recorre este mítico territorio americano para 
 compartir sus impresiones en diez cartas mientras la ilustradora Patricia Bolaños añade 
-la nota visual a su relato. Un bonito regalo para los enamorados de Estados Unidos. En [Amazon 
-sale por unos 28 euros](https://amzn.to/3KEwf5b). 
+la nota visual a su relato. Un bonito regalo para los enamorados de Estados Unidos. En 
+[Amazon sale por unos 28 euros](https://amzn.to/3KEwf5b). 
 
 ![Cartas desde Massachusetts.](https://fotos.etheriamagazine.com/2023/08/cartas-massachusetts.jpg "Cartas desde Massachusetts.")
 
@@ -163,16 +164,15 @@ el trabajo extenuante es una cárcel". Lo tienes en Amazon en versión kindle (7
 e impreso (unos 15 euros). 
 
 3.[Un amor, de Sara Mesa](https://amzn.to/46ktZsy). Considerado uno de los mejores 
-libros de 2020 según [Babelia](https://elpais.com/videos/2020-12-21/un-amor-de-sara-mesa-el-mejor-libro-del-2020.html). 
+libros de 2020 según 
+[Babelia](https://elpais.com/videos/2020-12-21/un-amor-de-sara-mesa-el-mejor-libro-del-2020.html). 
 Lo encontrarás en Amazon y en librerías, impreso y digital. 
 
 **Sigue leyendo...** 
 
-[Prepara tu viaje a Egipto con libros y 
-películas](https://etheriamagazine.com/2021/03/01/organizar-viaje-a-egipto-y-documentar-con-libros-peliculas/). 
+{{< reflink 
+path=posts/2021/03/organizar-viaje-a-egipto-y-documentar-con-libros-peliculas >}}. 
 
-[Prepara tu viaje a Noruega: libros y películas para ante de 
-viajar](https://etheriamagazine.com/2020/08/18/prepara-tu-viaje-libros-series-de-noruega/). 
+{{< reflink path=posts/2020/08/prepara-tu-viaje-libros-series-de-noruega >}}. 
 
-[Prepara tu viaje a Cuba: libros y películas 
-recomendados](https://etheriamagazine.com/2020/05/08/prepara-tu-viaje-a-cuba-libros-peliculas/).
+{{< reflink path=posts/2020/05/prepara-tu-viaje-a-cuba-libros-peliculas >}}.

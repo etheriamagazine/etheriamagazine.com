@@ -1,7 +1,7 @@
 ---
 title: "10 ciudades con mercadillos navideños para contagiarse del espíritu de la Navidad"
 date: 2021-10-14
-coverImage: https://fotos.etheriamagazine.com/2018/10/tallin-mercado.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/tallin-mercado.jpg
 categories: 
   - viajar-sola
   - inspiración
@@ -12,11 +12,11 @@ authors:
   - Susana García
 ---
 
-No a todo el mundo le gusta la Navidad, pero hay que reconocer que las ciudades europeas 
-lucen sus mejores galas durante el Adviento y, al placer de recorrerlas y disfrutarlas, 
-se une ese ambiente navideño que invita a deambular por sus mercadillos para comprar 
-algún adorno o probar un vino caliente. Te llevamos a diez ciudades con mercadillos 
-navideños con los que no podrás resistirte al espíritu navideño. 
+**No a todo el mundo le gusta la Navidad, pero hay que reconocer que las ciudades 
+europeas lucen sus mejores galas durante el Adviento y, al placer de recorrerlas y 
+disfrutarlas, se une ese ambiente navideño que invita a deambular por sus mercadillos 
+para comprar algún adorno o probar un vino caliente. Te llevamos a diez ciudades con 
+mercadillos navideños con los que no podrás resistirte al espíritu navideño.** 
 
 ![Luces navideñas](https://fotos.etheriamagazine.com/2018/10/mercados-navidenos.jpg "Luces de Navidad.")
 
@@ -135,13 +135,14 @@ que se acompañan de una pista de patinaje, desfiles y un gran espectáculo de l
 
 Siempre hay un buen motivo para pasar un [fin de semana en 
 Londres](http://etheriamagazine.com/2018/09/13/visitas-imprescindibles-fin-de-semana-londres/), 
-pero durante el Adviento el enorme mercadillo de [Winterland](https://hydeparkwinterwonderland.com), 
-ubicado en Hyde Park, es una razón más. Aquí todo es excesivo: un parque de atracciones, 
-un castillo de hielo, espectáculos de primer nivel, una enorme pista de patinaje sobre 
-hielo, decenas de propuestas gastronómicas y, por supuesto, puestos de artesanía y 
-adornos navideños. Además, se puede disfrutar de mercados navideños en **Greenwich**, en 
-**Southbank** (a orillas del Tamesis), en la zona de **London Brigde**, en **Leicester 
-Square** o en el barrio de **Chelsea**, en la Duke of York Square. 
+pero durante el Adviento el enorme mercadillo de 
+[Winterland](https://hydeparkwinterwonderland.com), ubicado en Hyde Park, es una razón 
+más. Aquí todo es excesivo: un parque de atracciones, un castillo de hielo, espectáculos 
+de primer nivel, una enorme pista de patinaje sobre hielo, decenas de propuestas 
+gastronómicas y, por supuesto, puestos de artesanía y adornos navideños. Además, se 
+puede disfrutar de mercados navideños en **Greenwich**, en **Southbank** (a orillas del 
+Tamesis), en la zona de **London Brigde**, en **Leicester Square** o en el barrio de 
+**Chelsea**, en la Duke of York Square. 
 
 📌 Más información en Visit Britain (visitbritain.com/es). 
 
@@ -184,11 +185,8 @@ durante la Navidad.
 
 📌 **También te puede interesar:** 
 
-[Alemania vive, saborea y disfruta de la 
-Navidad](https://etheriamagazine.com/2020/11/30/alemania-en-navidad-tradiciones-y-adviento/) 
+{{< reflink path=posts/2020/11/alemania-en-navidad-tradiciones-y-adviento >}} 
 
-[5 razones para visitar Polonia en 
-Navidad](https://etheriamagazine.com/2019/11/05/5-razones-para-visitar-polonia-en-navidad/) 
+{{< reflink path=posts/2019/11/5-razones-para-visitar-polonia-en-navidad >}} 
 
-[Mercados de Navidad en 
-Zúrich](https://etheriamagazine.com/2018/10/12/mercados-de-navidad-en-zurich/)
+{{< reflink path=posts/2018/10/mercados-de-navidad-en-zurich >}}

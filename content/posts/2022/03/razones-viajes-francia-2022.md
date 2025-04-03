@@ -1,7 +1,7 @@
 ---
 title: "10 razones para viajar a Francia este verano"
 date: 2022-03-04
-coverImage: https://fotos.etheriamagazine.com/2022/03/seine-a-velo-Saint-Honorine.jpg
+cover: https://fotos.etheriamagazine.com/2022/03/seine-a-velo-Saint-Honorine.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-Nos sobran razones para viajar a Francia en cualquier época del año, pero como el verano 
-está a la vuelta de la esquina y es un momento perfecto para disfrutar de las vacaciones 
-y el buen tiempo, te damos 10 razones para viajar a Francia durante la época estival. 
-Desde exposiciones y monumentos imprescindibles hasta rutas en bicicleta o eventos 
-únicos. ¿Te vienes? 
+**Nos sobran razones para viajar a Francia en cualquier época del año, pero como el 
+verano está a la vuelta de la esquina y es un momento perfecto para disfrutar de las 
+vacaciones y el buen tiempo, te damos 10 razones para viajar a Francia durante la época 
+estival. Desde exposiciones y monumentos imprescindibles hasta rutas en bicicleta o 
+eventos únicos. ¿Te vienes?** 
 
 ![Bicicletas en la ribera del Sena en la zona de Conflans-Saint-Honorine.](https://fotos.etheriamagazine.com/2022/03/seine-a-velo-Saint-Honorine.jpg "Ribera del Sena en la zona de Conflans-Saint-Honorine. © David Darrault–La Seine a Vélo")
 
@@ -136,11 +136,8 @@ está incluido en el precio de la entrada.
 
 **También te puede interesar** 
 
-[10 viajes para disfrutar de la buena vida en 
-Francia](https://etheriamagazine.com/2020/09/02/mejores-destinos-para-viajar-en-francia/) 
+{{< reflink path=posts/2020/09/mejores-destinos-para-viajar-en-francia >}} 
 
-[Nantes con amigas, descubrid la ciudad extraordinaria que soñó Julio 
-Verne](https://etheriamagazine.com/2019/08/29/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa/) 
+{{< reflink path=posts/2019/08/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa >}} 
 
-[Costa Azul en coche y con amigas, ¿se te ocurre una propuesta 
-mejor?](https://etheriamagazine.com/2021/09/03/guia-viaje-costa-azul-en-coche-y-con-amigas/)
+{{< reflink path=posts/2021/09/guia-viaje-costa-azul-en-coche-y-con-amigas >}}

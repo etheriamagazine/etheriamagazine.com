@@ -1,7 +1,7 @@
 ---
 title: "Caras y lugares, una road movie por la Francia rural"
 date: 2018-05-28
-coverImage: https://fotos.etheriamagazine.com/2018/05/CARTEL_caras_y_lugares.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/CARTEL_caras_y_lugares.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,8 +10,8 @@ authors:
   - Eva Madruga
 ---
 
-Si eres aficionada al cine documental te va a encantar 'Caras y lugares'. En este 
-artículo repasamos algunos de los lugares que aparecen en esta road movie francesa. 
+**Si eres aficionada al cine documental te va a encantar 'Caras y lugares'. En este 
+artículo repasamos algunos de los lugares que aparecen en esta road movie francesa.** 
 
 ![El documental Caras y lugares realiza una road movie por la Francia rural](https://fotos.etheriamagazine.com/2018/05/Visages_villages-1.jpg "El documental Caras y lugares realiza una road movie por la Francia rural.")
 
@@ -71,11 +71,8 @@ Los Ángeles. También tuvo nominación al Oscar como Mejor documental.
 
 **También te puede interesar...** 
 
-[‘Almas en pena de Inisherin’, paisajes de cine en 
-Irlanda](https://etheriamagazine.com/2023/01/30/almas-en-pena-de-inisherin/). 
+{{< reflink path=posts/2023/01/almas-en-pena-de-inisherin >}}. 
 
-[El Padrino vuelve a los cines en 4K para celebrar su 50 
-aniversario](https://etheriamagazine.com/2022/02/23/50-aniversario-el-padrino/). 
+{{< reflink path=posts/2022/02/50-aniversario-el-padrino >}}. 
 
-[12 playas de cine en España donde darse un 
-chapuzón](https://etheriamagazine.com/2021/07/19/12-playas-espanolas-que-salen-en-peliculas/).
+{{< reflink path=posts/2021/07/12-playas-espanolas-que-salen-en-peliculas >}}.

@@ -1,7 +1,7 @@
 ---
 title: "WOW Oporto, el mayor barrio gastronómico y cultural de Portugal"
 date: 2022-03-14
-coverImage: https://fotos.etheriamagazine.com/2022/03/plaza-central-wow-oporto-1.jpg
+cover: https://fotos.etheriamagazine.com/2022/03/plaza-central-wow-oporto-1.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -241,18 +241,16 @@ forma individual o en pack de varios museos. Existen descuentos para niños y fa
 El pack de entradas para 2 museos para un adulto sale por 30 euros, si es familiar (2 
 adultos y 2 niños), 64 euros. También se puede elegir el pack de 3 y de 5 museos. El 
 pack de 5 museos, el más completo, para un adulto saldría por 55 euros y permitiría 
-entrar a todos los espacios del distrito. Se puede reservar en su [web](https://tickets.wow.pt/es/) 
-o bien comprarlo en taquilla. 
+entrar a todos los espacios del distrito. Se puede reservar en su 
+[web](https://tickets.wow.pt/es/) o bien comprarlo en taquilla. 
 
 **Fotos: WOW y Pepa García** 
 
 ### También en Etheria Magazine
 
-[12 visitas imprescindibles en tu viaje a 
-Oporto](https://etheriamagazine.com/2020/05/01/viajar-sola-amigas-a-oporto-12-visitas-imprescindibles/). 
+{{< reflink path=posts/2020/05/viajar-sola-amigas-a-oporto-12-visitas-imprescindibles 
+>}}. 
 
-[Enamórate de Coimbra en solo un fin de 
-semana](https://etheriamagazine.com/2020/01/31/viaje-con-amigas-que-ver-en-coimbra/). 
+{{< reflink path=posts/2020/01/viaje-con-amigas-que-ver-en-coimbra >}}. 
 
-[10 viajes a Portugal para este 
-verano](https://etheriamagazine.com/2020/07/02/10-viajes-a-portugal-familia-amigas/)
+{{< reflink path=posts/2020/07/10-viajes-a-portugal-familia-amigas >}}

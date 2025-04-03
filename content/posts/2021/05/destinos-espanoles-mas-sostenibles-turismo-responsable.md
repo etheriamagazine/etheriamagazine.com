@@ -1,7 +1,7 @@
 ---
 title: "Los 5 destinos españoles más sostenibles para escaparse esta primavera"
 date: 2021-05-05
-coverImage: https://fotos.etheriamagazine.com/2021/04/las-hurdes-extremadura.jpg
+cover: https://fotos.etheriamagazine.com/2021/04/las-hurdes-extremadura.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,11 @@ authors:
   - Rosa Marqués
 ---
 
-Queremos seguir viajando. Viajar nos inspira, nos da libertad, nos resetea y nos permite 
-vivir cada día como si fuera un día nuevo. Y esto, en definitiva, cura. Pero nuestra 
-forma de viajar ha cambiado para siempre. Ahora queremos hacerlo con conciencia, y por 
-este motivo te proponemos comenzar con los cinco destinos más sostenibles de España. 
+**Queremos seguir viajando. Viajar nos inspira, nos da libertad, nos resetea y nos 
+permite vivir cada día como si fuera un día nuevo. Y esto, en definitiva, cura. Pero 
+nuestra forma de viajar ha cambiado para siempre. Ahora queremos hacerlo con conciencia, 
+y por este motivo te proponemos comenzar con los cinco destinos más sostenibles de 
+España.** 
 
 ![formentera uno de los destinos sostenibles de espana](https://fotos.etheriamagazine.com/2021/04/formentera-sostenible.jpg "Formentera, una isla sostenible. © Elisabeth Agustin")
 
@@ -146,14 +147,11 @@ consciente de lo que comemos– es en este territorio un auténtico acierto.
 
 **✅ También te interesa leer..** 
 
-[Zambúllete en la mejor guía de playas de 
-Formentera](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-playas-formentera/). 
+{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}. 
 
-[La Geria: la ruta de vinos definitiva para beberse 
-Lanzarote](https://etheriamagazine.com/2020/08/04/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote/). 
+{{< reflink 
+path=posts/2020/08/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}}. 
 
-[Las Hurdes. Un paraíso extremeño suspendido en el 
-tiempo](https://etheriamagazine.com/2020/07/21/viajes-espana-las-hurdes-un-paraiso-extremeno/). 
+{{< reflink path=posts/2020/07/viajes-espana-las-hurdes-un-paraiso-extremeno >}}. 
 
-[Andalucía en autocaravana y consejos prácticos para 
-novatos](https://etheriamagazine.com/2021/04/07/consejos-rutas-andalucia-en-autocaravana/).
+{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}.

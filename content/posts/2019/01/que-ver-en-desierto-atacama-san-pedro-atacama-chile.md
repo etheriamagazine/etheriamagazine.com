@@ -1,7 +1,7 @@
 ---
 title: "San Pedro de Atacama, la capital del 'buenrollismo’ está en Chile"
 date: 2019-01-04
-coverImage: https://fotos.etheriamagazine.com/2018/12/Valle-de-la-luna-atacama-chile-Etheria-magazine-e1655218795898.jpg
+cover: https://fotos.etheriamagazine.com/2018/12/Valle-de-la-luna-atacama-chile-Etheria-magazine-e1655218795898.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Kelu Robles
 ---
 
-Hemos decidido bautizar a San Pedro de Atacama como la capital del 'buenrollismo' 
+**Hemos decidido bautizar a San Pedro de Atacama como la capital del 'buenrollismo' 
 chileno por muchas razones que ya sabéis quienes la habéis visitado y que las demás 
 entenderéis tras leer este artículo. También nos hemos propuesto descubrir por qué no 
-existe la negatividad en el desierto de Atacama, el más árido del planeta. 
+existe la negatividad en el desierto de Atacama, el más árido del planeta.** 
 
 ![Paisaje del desierto de Atacama con montañas y lagos.](https://fotos.etheriamagazine.com/2018/12/viajera-sola-en-atacama-chile-Etheria-magazine-1.jpg "Paisaje del desierto de Atacama. © Kelu Robles")
 
@@ -150,8 +150,6 @@ torno a muchos aspectos de este viaje.
 
 ### También en Chile...
 
-[Valparaíso, una bonita ruta de street art en la ciudad chilena del 
-arcoíris](https://etheriamagazine.com/2020/01/20/que-ver-en-valparaiso-ruta-grafitis-chile/). 
+{{< reflink path=posts/2020/01/que-ver-en-valparaiso-ruta-grafitis-chile >}}. 
 
-[Crucero por los fiordos y canales de la Patagonia 
-chilena](https://etheriamagazine.com/2019/03/22/viajar-sola-crucero-fiordos-canales-patagonia-chile/).
+{{< reflink path=posts/2019/03/viajar-sola-crucero-fiordos-canales-patagonia-chile >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Formentera con amigas, planes imprescindibles para una escapada perfecta"
 date: 2023-04-24
-coverImage: https://fotos.etheriamagazine.com/2023/04/Formentera-Es-Calo-des-Mort.jpg
+cover: https://fotos.etheriamagazine.com/2023/04/Formentera-Es-Calo-des-Mort.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Formentera está asociada en nuestra mente a la imagen del verano eterno, ese que se 
+**Formentera está asociada en nuestra mente a la imagen del verano eterno, ese que se 
 disfruta en chanclas y pareo al borde del mar. Pero esta pequeña isla ofrece mucho más: 
 historia, naturaleza, turismo activo y buena gastronomía. No puede haber mejor destino 
-para una escapada con amigas de esas que recarga las pilas para todo el año. 
+para una escapada con amigas de esas que recarga las pilas para todo el año.** 
 
 ![bahía de Formentera](https://fotos.etheriamagazine.com/2023/04/Formentera-playa-yate.jpg "El mar en Formentera tiene un color azul espectacular.")
 
@@ -46,8 +46,8 @@ acantilados bajos. Y al este destacan las playas de **Es Pujols**, **Sa Roqueta*
 **Ses Platgetes**, esta última más al sur. También hay coquetas calas como **Caló d'es 
 Mort** o **Es Caló de Sant Agustí**. Os van a encantar todas. 
 
-📍**No te pierdas:** [La mejor guía de playas de 
-Formentera](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-playas-formentera/). 
+📍**No te pierdas:** {{< reflink 
+path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}. 
 
 ## Ver amanecer y atardecer
 

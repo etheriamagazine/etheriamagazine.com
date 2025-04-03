@@ -1,7 +1,7 @@
 ---
 title: "Especial Día del Padre: ideas para tener contento a un padre sibarita"
 date: 2019-03-13
-coverImage: https://fotos.etheriamagazine.com/2019/03/Dia-del-padre-bicicleta.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/Dia-del-padre-bicicleta.jpg
 categories: 
   - inspiración
   - gourmet

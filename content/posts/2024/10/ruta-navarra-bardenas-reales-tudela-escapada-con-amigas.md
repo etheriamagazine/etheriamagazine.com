@@ -1,7 +1,7 @@
 ---
 title: "Desiertos de película y pinchos “de cine”: una ruta por las Bardenas Reales y Tudela"
 date: 2024-10-12
-coverImage: https://fotos.etheriamagazine.com/2020/07/Tudela-catedral.jpg
+cover: https://fotos.etheriamagazine.com/2020/07/Tudela-catedral.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -193,11 +193,8 @@ moscatel, clasificados siempre entre los mejores.
 
 **También en Etheria Magazine:** 
 
-[Planes increíbles por los que querrás viajar a 
-Navarra](https://etheriamagazine.com/2021/12/23/planes-en-navarra-con-amigas/) 
+{{< reflink path=posts/2021/12/planes-en-navarra-con-amigas >}} 
 
-[Por qué Tierra Estella y Tierras de Iranzu protagonizarán tu próximo viaje en familia a 
-Navarra](https://etheriamagazine.com/2021/02/08/navarra-en-familia-tierra-estella-y-tierras-de-iranzu/) 
+{{< reflink path=posts/2021/02/navarra-en-familia-tierra-estella-y-tierras-de-iranzu >}} 
 
-[Rutas en el hayedo encantado de Urbasa y en Urederra 
-(Navarra)](https://etheriamagazine.com/2020/10/05/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra/)
+{{< reflink path=posts/2020/10/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}

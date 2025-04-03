@@ -1,7 +1,7 @@
 ---
 title: "Una ‘noche toledana’ con Eugenia de Montijo: visitas orginales en Toledo"
 date: 2019-08-19
-coverImage: https://fotos.etheriamagazine.com/2019/08/que-hacer-toledo-noche.jpg
+cover: https://fotos.etheriamagazine.com/2019/08/que-hacer-toledo-noche.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pedro Grifol
 ---
 
-La mayoría de los que visitan la capital castellano-manchega lo hacen sólo de día… ¡y en 
-un solo día! No saben lo que se pierden, porque fuera de las rutas habituales, Toledo 
+**La mayoría de los que visitan la capital castellano-manchega lo hacen sólo de día… ¡y 
+en un solo día! No saben lo que se pierden, porque fuera de las rutas habituales, Toledo 
 tiene otros secretos para descubrir cuando la noche la cubre de misterio. Descubre que 
-visitas originales puedes hacer en Toledo. 
+visitas originales puedes hacer en Toledo.** 
 
 ![calle de Toledo por la noche](https://fotos.etheriamagazine.com/2019/08/que-hacer-toledo-noche.jpg "La noche en Toledo es mágica. ©P. Grifol")
 
@@ -173,11 +173,8 @@ saben lo que se pierden!
 
 📌 **También te puede interesar:** 
 
-[Toledo en un fin de semana, claves para aprovecharlo al 
-máximo](https://etheriamagazine.com/2022/02/28/que-ver-en-toledo/) 
+{{< reflink path=posts/2022/02/que-ver-en-toledo >}} 
 
-[Visita de la catedral de Toledo: 10 detalles que no puedes 
-perderte](https://etheriamagazine.com/2022/01/19/que-ver-en-catedral-de-toledo/) 
+{{< reflink path=posts/2022/01/que-ver-en-catedral-de-toledo >}} 
 
-[15 razones para visitar Puy du Fou 
-Toledo](https://etheriamagazine.com/2022/04/06/15-razones-para-visitar-puy-du-fou-toledo-en-2022/)
+{{< reflink path=posts/2022/04/15-razones-para-visitar-puy-du-fou-toledo-en-2022 >}}

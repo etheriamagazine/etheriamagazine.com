@@ -1,7 +1,7 @@
 ---
 title: "La mejor guía de Cádiz provincia para organizar tu viaje"
 date: 2023-03-06
-coverImage: https://fotos.etheriamagazine.com/2022/07/playa-bateles-conil.jpg
+cover: https://fotos.etheriamagazine.com/2022/07/playa-bateles-conil.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Realizar una selección sobre lo mejor de la provincia gaditana recomendando qué ver en 
+**Realizar una selección sobre lo mejor de la provincia gaditana recomendando qué ver en 
 Cádiz es una apuesta arriesgada ya que de este lugar nos gusta todo. Para un primer 
 viaje, de unos 5 a 7 días, bastará con las excursiones de este artículo pero si tienes 
-más tiempo no dudes en ampliar el itinerario. 
+más tiempo no dudes en ampliar el itinerario.** 
 
 ![Panorámica de Olvera, uno de los pueblos de Cádiz.](https://fotos.etheriamagazine.com/2023/03/que-ver-cadiz-olvera.jpg "Panorámica de Olvera, uno de los pueblos de Cádiz. © Etheria Magazine")
 
@@ -48,13 +48,12 @@ inspirado a los poetas de la tierra, y las más “salvajes” como la de **Cort
 está justo en la lengua que une San Fernando y Cádiz. 
 
 Como este artículo sólo pretende ser un básico de la provincia de Cádiz, sigue leyendo 
-otros lugares de interés en [Cádiz, tras las huellas de su legado 
-andalusí](https://etheriamagazine.com/2019/05/20/viajar-con-amigas-que-hacer-en-cadiz/) 
-y en la [web oficial de Turismo de Cádiz](https://turismo.cadiz.es/). 
+otros lugares de interés en {{< reflink 
+path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}} y en la [web oficial de 
+Turismo de Cádiz](https://turismo.cadiz.es/). 
 
-**SI VIAJAS EN FAMILIA, NO TE PIERDAS:** [12 actividades para hacer con niños en la 
-provincia de 
-Cádiz](https://etheriamagazine.com/2020/03/12/12-actividades-familiares-para-viajes-con-ninos-en-cadiz/). 
+**SI VIAJAS EN FAMILIA, NO TE PIERDAS:** {{< reflink 
+path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz >}}. 
 
 ![Playa de la Caleta, en Cádiz capital.](https://fotos.etheriamagazine.com/2023/03/que-ver-cadiz-la-caleta.jpg "Playa de la Caleta, en Cádiz capital. © Turismo Andaluz")
 
@@ -81,8 +80,7 @@ visita rápida al pueblo porque hay que reservar tiempo para disfrutar de sus pl
 bodegas, del barrio de pescadores con sus apetecibles restaurantes e, incluso, hacer una 
 escapada a Doñana en el buque “Real Fernando”. 
 
-**NO TE PIERDAS:** [¿Nos comemos y bebemos Sanlúcar de 
-Barrameda?](https://etheriamagazine.com/2022/05/11/donde-comer-sanlucar-de-barrameda/) 
+**NO TE PIERDAS:** {{< reflink path=posts/2022/05/donde-comer-sanlucar-de-barrameda >}} 
 
 ![Plaza del Cabildo, en Sanlúcar de Barrameda.](https://fotos.etheriamagazine.com/2023/03/que-ver-cadiz-sanlucar.jpg "Plaza del Cabildo, en Sanlúcar de Barrameda. © Turismo Andaluz")
 
@@ -94,8 +92,8 @@ constante todo el año, por lo que es una buena opción también en invierno. Y,
 importante, combinar las visitas monumentales con las playas y bodegas como la de 
 Osborne. 
 
-**VISITAS IMPRESCINDIBLES:** [El Puerto de Santa María, entre palacios, playas y 
-vino](https://etheriamagazine.com/2021/11/01/guia-imprescindible-el-puerto-santa-maria/). 
+**VISITAS IMPRESCINDIBLES:** {{< reflink 
+path=posts/2021/11/guia-imprescindible-el-puerto-santa-maria >}}. 
 
 ![Muelle deportivo de El Puerto de Santa María](https://fotos.etheriamagazine.com/2023/03/que-ver-puerto-santa-maria.jpg "El Puerto de Santa María, una visita imprescindible en Cádiz. © Turismo Andaluz")
 
@@ -125,22 +123,18 @@ leyendo estos reportajes en los que lo tratamos en profundidad:
 
 ![Cala El Frailecillo 
 (Conil).](https://fotos.etheriamagazine.com/2021/12/cala-conil-frailecillo.jpg) 
-1. [Las mejores playas y calas de 
-Conil](https://etheriamagazine.com/2021/02/05/mejores-playas-y-calas-de-conil-de-la-frontera/). 
+1. {{< reflink path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
 
 ![Plaza de España con la escultura dedicada a José 
 Saramago](https://fotos.etheriamagazine.com/2022/04/plaza-espana-conil.jpg) 
-2. [15 visitas que hacer en Conil y ninguna es una 
-playa](https://etheriamagazine.com/2022/04/13/guia-de-conil-visitas-gratuitas/). 
+2. {{< reflink path=posts/2022/04/guia-de-conil-visitas-gratuitas >}}. 
 
 ![pescado frito en la Venta 
 Pericón](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-venta-pericon-conil.jpg) 
-3. [Dónde comer bien en Conil de la 
-Frontera.](https://etheriamagazine.com/2022/07/22/donde-comer-bien-conil-de-la-frontera/) 
+3. {{< reflink path=posts/2022/07/donde-comer-bien-conil-de-la-frontera >}} 
 
-📍**NO TE PIERDAS tampoco sus Jornadas del Atún en mayo y junio.** [Ruta del Atún Rojo 
-de Cádiz, de Conil a Tarifa por la orilla del 
-mar](https://etheriamagazine.com/2018/06/12/ruta-del-atun-rojo-en-cadiz/) 
+📍**NO TE PIERDAS tampoco sus Jornadas del Atún en mayo y junio.** {{< reflink 
+path=posts/2018/06/ruta-del-atun-rojo-en-cadiz >}} 
 
 ![Panorámica de Conil desde la playa de los Bateles.](https://fotos.etheriamagazine.com/2022/07/playa-bateles-conil.jpg "Vista de Conil desde la playa de Los Bateles. © Etheria Magazine")
 
@@ -154,12 +148,10 @@ casas, buenos restaurantes, hotelitos con encanto y excelentes vistas.
 
 **PREPARA TU VIAJE a Vejer con estos dos artículos:** 
 
-[10 actividades para enamorarte de Vejer de la 
-Frontera](https://etheriamagazine.com/2020/08/11/10-actividades-vejer-de-la-frontera-que-ver-hacer/) 
+{{< reflink path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}} 
 donde te contamos qué hacer en este pueblo para descubrir su lado más auténtico. 
 
-[Restaurantes en El Palmar (Cádiz) para comer muy 
-bien](https://etheriamagazine.com/2021/07/26/restaurantes-en-el-palmar-cadiz-para-comer-muy-bien/) 
+{{< reflink path=posts/2021/07/restaurantes-en-el-palmar-cadiz-para-comer-muy-bien >}} 
 en el que encontrarás las mejores referencias gastronómicas junto a su playa. 
 
 ![Vista panorámica de Vejer de la Frontera.](https://fotos.etheriamagazine.com/2020/08/vejer-panoramica.jpg "Vista panorámica de Vejer de la Frontera. © Etheria Magazine")
@@ -191,12 +183,11 @@ y los que no dicen que no a la naturaleza, hallarán aquí el punto de partida i
 ver cetáceos en el Estrecho o subir a la duna de la playa de Bolonia, declarada 
 Monumento Natural. 
 
-**PARA SABER MÁS:** [Por qué visitar Tarifa aunque lo tuyo no sea el 
-surf](https://etheriamagazine.com/2020/07/06/viajes-por-espana-tarifa-con-amigas-aires-de-windsurf/). 
+**PARA SABER MÁS:** {{< reflink 
+path=posts/2020/07/viajes-por-espana-tarifa-con-amigas-aires-de-windsurf >}}. 
 
-**PARA SABER MÁS:** [10 paradas imprescindibles en las ruinas romanas de Baelo Claudia 
-(Bolonia, 
-Cádiz)](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/). 
+**PARA SABER MÁS:** {{< reflink 
+path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}}. 
 
 ![Ruinas de Baelo Claudia, en Tarifa, un lugar que hay que ver en Cádiz provincia](https://fotos.etheriamagazine.com/2020/06/tarifa-Baelo-Claudia.jpg "Ruinas de Baelo Claudia, en Tarifa. © Etheria Magazine")
 
@@ -215,8 +206,8 @@ completas, y nos quedamos cortas, porque en su entramado urbano oculta palacios,
 iglesias, una catedral, una cartuja, barrios con solera como el de San Miguel (cuna de 
 Lola Flores), bodegas y trabancos. 
 
-**VISITAS IMPRESCINDIBLES EN:** [Viaje con amigas a Jerez, el arte del buen 
-vivir](https://etheriamagazine.com/2020/06/10/viajes-por-espana-jerez-sola-o-con-amigas/). 
+**VISITAS IMPRESCINDIBLES EN:** {{< reflink 
+path=posts/2020/06/viajes-por-espana-jerez-sola-o-con-amigas >}}. 
 
 ![Interior del magnífico Palacio del Virrey Laserna, en Jerez.](https://fotos.etheriamagazine.com/2020/06/palacio-virrey-jerez.jpg "Interior del magnífico Palacio del Virrey Laserna, en Jerez. © Turismo de Jerez")
 
@@ -245,12 +236,10 @@ las Bodegas, Alcalá del Valle, Torre Alháquime, Olvera, Zahara de la Sierra,
 Algodonales, Grazalema, Villaluenga del Rosario, Benaocaz, Ubrique y Arcos de la 
 Frontera. 
 
-**SIGUE LEYENDO:** [Ruta en coche por 12 preciosos pueblos blancos de 
-Cádiz](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/). 
+**SIGUE LEYENDO:** {{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz 
+>}}. 
 
-**NO TE PIERDAS:** [Excursión a Setenil de las Bodegas: qué ver en este precioso pueblo 
-blanco de 
-Cádiz](https://etheriamagazine.com/2022/07/22/que-ver-setenil-de-las-bodegas/). 
+**NO TE PIERDAS:** {{< reflink path=posts/2022/07/que-ver-setenil-de-las-bodegas >}}. 
 
 ### Mapa con imprescindibles que ver en la provincia de Cádiz
 

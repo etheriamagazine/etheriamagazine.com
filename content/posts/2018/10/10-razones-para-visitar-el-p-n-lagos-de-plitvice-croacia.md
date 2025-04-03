@@ -1,7 +1,7 @@
 ---
 title: "10 razones para visitar en otoño el Parque Nacional Lagos de Plitvice (Croacia)"
 date: 2018-10-05
-coverImage: https://fotos.etheriamagazine.com/2018/10/cascadas-lagos-plitvice-e1653808488782.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/cascadas-lagos-plitvice-e1653808488782.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-El Parque Nacional Lagos Plitvice, situado en el corazón de Croacia, muestra su faceta 
+**El Parque Nacional Lagos Plitvice, situado en el corazón de Croacia, muestra su faceta 
 más cálida y romántica en otoño. La mejor forma de disfrutar de los tonos amarillos, 
 anaranjados y rojizos es caminando por sus senderos y pasarelas. En Etheria Magazine 
-hemos seleccionado 10 motivos por los que deberías visitar este espacio. 
+hemos seleccionado 10 motivos por los que deberías visitar este espacio.** 
 
 ![Parque Nacional de los Lagos de Plitvice en otoño.](https://fotos.etheriamagazine.com/2018/10/croacia-parque-nacional-lagos-plitvice.jpg "Parque Nacional de los Lagos de Plitvice en otoño.")
 
@@ -126,24 +126,24 @@ ofrece en la decena de restaurantes repartidos por el espacio natural.
 
 ✅ **Excursiones guiadas que facilitan la vida**: 
 
-• [Parque Nacional Lagos de Plitvice desde 
-Zagreb](https://www.civitatis.com/es/zagreb/excursion-lagos-plitvice/?aid=10211). • [Parque 
-Nacional Lagos de Plitvice desde 
-Split](https://www.civitatis.com/es/split/excursion-lagos-plitvice/?aid=10211). • [Parque 
-Nacional Lagos de Plitvice desde 
-Zadar](https://www.civitatis.com/es/zadar/excursion-lagos-plitvice/?aid=10211). • [Parque 
-Nacional Lagos de Plitvice desde 
+- [Parque Nacional Lagos de Plitvice desde 
+Zagreb](https://www.civitatis.com/es/zagreb/excursion-lagos-plitvice/?aid=10211). 
+
+- [Parque Nacional Lagos de Plitvice desde 
+Split](https://www.civitatis.com/es/split/excursion-lagos-plitvice/?aid=10211). 
+
+- [Parque Nacional Lagos de Plitvice desde 
+Zadar](https://www.civitatis.com/es/zadar/excursion-lagos-plitvice/?aid=10211). 
+
+- [Parque Nacional Lagos de Plitvice desde 
 Trogir](https://www.civitatis.com/es/trogir/excursion-lagos-plitvice/?aid=10211). 
 
 Fotos: © JU NP Plitvička jezera/ Pepa García 
 
 📌 **También te puede interesar:** 
 
-[Croacia: consejos y visitas imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2021/01/22/viaje-a-croacia-como-organizar-que-ver-hacer/) 
+{{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}} 
 
-[8 razones justificadas para visitar Sibenik 
-(Croacia)](https://etheriamagazine.com/2020/08/13/que-ver-hacer-sibenik-parque-krka/) 
+{{< reflink path=posts/2020/08/que-ver-hacer-sibenik-parque-krka >}} 
 
-[10 razones para viajar a Croacia con amigas este 
-verano](https://etheriamagazine.com/2019/07/17/10-razones-para-viajar-con-amigas-a-croacia/)
+{{< reflink path=posts/2019/07/10-razones-para-viajar-con-amigas-a-croacia >}}

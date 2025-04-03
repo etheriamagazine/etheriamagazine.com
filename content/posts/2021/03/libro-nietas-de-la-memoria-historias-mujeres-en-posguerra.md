@@ -1,7 +1,7 @@
 ---
 title: "‘Nietas de la memoria’: 13 relatos de abuelas anónimas y luchadoras para inspirarnos"
 date: 2021-03-08
-coverImage: https://fotos.etheriamagazine.com/2021/03/Nietas-de-la-memoria-Bala-Perdida.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/Nietas-de-la-memoria-Bala-Perdida.jpg
 categories: 
   - historias
   - cultura
@@ -13,10 +13,10 @@ authors:
   - Carmen Pineda
 ---
 
-Nos acercamos al libro de ensayo ‘Nietas de la Memoria’ para poner en valor a esa 
+**Nos acercamos al libro de ensayo ‘Nietas de la Memoria’ para poner en valor a esa 
 generación de mujeres luchadoras y silenciosas que afrontaron la posguerra con toda la 
 dignidad que les dejaron. No se nos ocurre mejor forma de celebrar el Día de la Mujer 
-que acercar a nuestras lectoras este homenaje. 
+que acercar a nuestras lectoras este homenaje.** 
 
 ![portada libro](https://fotos.etheriamagazine.com/2021/03/libro-Nietas-de-la-Memoria.jpg "Libro 'Nietas de la memoria' de la editorial Bala Perdida.")
 
@@ -202,11 +202,11 @@ testimonios se está apagando y más en esta época de pandemia.
 
 **También te puede interesar...** 
 
-[María Andresa Casamayor, la aragonesa que soñaba con 
-números.](https://etheriamagazine.com/2020/12/21/maria-andresa-casamayor-primera-mujer-en-espana-libro-ciencia/) 
+{{< reflink 
+path=posts/2020/12/maria-andresa-casamayor-primera-mujer-en-espana-libro-ciencia >}} 
 
-[Hedy Lamarr, protagonista del primer orgasmo (fingido) e inventora de la tecnología 
-wifi.](https://etheriamagazine.com/2020/03/30/hedy-lamarr-extasis-inventora-wifi-modelo-actriz-espia-mujeres-etheria/) 
+{{< reflink 
+path=posts/2020/03/hedy-lamarr-extasis-inventora-wifi-modelo-actriz-espia-mujeres-etheria 
+>}} 
 
-[Escenarios poéticos y atormentados de la vida de Frida 
-Kalho.](https://etheriamagazine.com/2021/02/15/biografia-y-ruta-frida-kahlo-mexico/)
+{{< reflink path=posts/2021/02/biografia-y-ruta-frida-kahlo-mexico >}}

@@ -1,7 +1,7 @@
 ---
 title: "8 visitas imprescindibles en Cáceres en clave histórica"
 date: 2020-05-26
-coverImage: https://fotos.etheriamagazine.com/2020/04/viaje-mujeres-solas-caceres.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/viaje-mujeres-solas-caceres.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -156,9 +156,11 @@ lo largo de la historia.
 
 ##### Dónde dormir
 
-• [Atrio](https://restauranteatrio.com). Tanto hotel como restaurante (dos estrellas 
+- [Atrio](https://restauranteatrio.com). Tanto hotel como restaurante (dos estrellas 
 Michelin), este Relais & Châteaux situado en la plaza de San Mateo es una oda a la 
-modernidad y posee una auténtica colección de arte contemporáneo. • [NH Palacio de 
+modernidad y posee una auténtica colección de arte contemporáneo. 
+
+- [NH Palacio de 
 Oquendo](https://www.nh-hoteles.es/hotel/nh-collection-caceres-palacio-de-oquendo). 
 Situado junto a la antigua muralla en un palacio remodelado del siglo XVI en el que aún 
 puede sentirse el encanto de tiempos pasados. Sus espacios interiores y las habitaciones 
@@ -169,8 +171,8 @@ están decorados en un estilo alegre y contemporáneo.
 En la taberna [El Rincón](https://www.facebook.com/tabernaelrinconcaceres/), situada en 
 la esquina noreste de la Plaza Mayor, las tapas y raciones, como las migas extremeñas, 
 el queso con membrillo o las croquetas de espinacas son sensacionales. También lo es su 
-extensa carta de cervezas artesanales. Para tomar unas buenas tapas, [Tápara](https://www.tapara-company.com/) 
-es una excelente opción. 
+extensa carta de cervezas artesanales. Para tomar unas buenas tapas, 
+[Tápara](https://www.tapara-company.com/) es una excelente opción. 
 
 ##### Más información:
 
@@ -179,10 +181,8 @@ Cáceres](https://www.turismocaceres.org/)
 
 ### También te puede interesar:
 
-[Viajar sola a Cáceres](https://etheriamagazine.com/2018/05/13/viajarsolacaceres/) 
+{{< reflink path=posts/2018/05/viajarsolacaceres >}} 
 
-[Elige uno de estos 10 motivos para viajar a La Siberia 
-extremeña](https://etheriamagazine.com/2021/09/26/10-motivos-para-viajar-a-la-siberia-extremena/) 
+{{< reflink path=posts/2021/09/10-motivos-para-viajar-a-la-siberia-extremena >}} 
 
-[Ruta del Vino de la Sierra de Francia, un brindis con amigas en 
-Salamanca](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/)
+{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}

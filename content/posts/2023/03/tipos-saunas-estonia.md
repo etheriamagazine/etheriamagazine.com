@@ -1,7 +1,7 @@
 ---
 title: "5 tipos de saunas en Estonia: desde la de humo a la flotante"
 date: 2023-03-01
-coverImage: https://fotos.etheriamagazine.com/2023/02/saunas-iglu.jpg
+cover: https://fotos.etheriamagazine.com/2023/02/saunas-iglu.jpg
 categories: 
   - bienestar
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Las saunas en Estonia forman parte de la vida cotidiana de sus habitantes y resultan un 
-aliciente más para los visitantes. Su importancia es tal que este año 2023 ha sido 
+**Las saunas en Estonia forman parte de la vida cotidiana de sus habitantes y resultan 
+un aliciente más para los visitantes. Su importancia es tal que este año 2023 ha sido 
 declarado el Año de la Sauna en este país. Hacemos un breve repaso de los tipos de 
-saunas más habituales. 
+saunas más habituales.** 
 
 ![Dos mujeres pasean entre iglus sauna en Estonia](https://fotos.etheriamagazine.com/2023/02/saunas-iglu.jpg "Saunas en iglús en Estonia.")
 
@@ -27,7 +27,8 @@ las relaciones familiares y sociales y mejorar la salud. La cultura de la sauna 
 Estonia se remonta al **siglo XIII**, aunque su uso en balnearios y centros terapéuticos 
 no vaya más más allá de doscientos años. Su importancia es tal que 2023 ha sido 
 declarado el "Año de la Sauna" y se aprovechará para profundizar en su historia, legado, 
-líderes del sector, etc. El programa es muy amplio y se puede consultar en la web [www.sauna2023.ee](http://www.sauna2023.ee) 
+líderes del sector, etc. El programa es muy amplio y se puede consultar en la web 
+[www.sauna2023.ee](http://www.sauna2023.ee) 
 
 ![Ramitas de abedul para las saunas en Estonia](https://fotos.etheriamagazine.com/2023/02/Sauna-estonia-hojas-abedul.jpg "Ramitas de abedul para las saunas en Estonia.")
 
@@ -103,8 +104,8 @@ Estonia](https://www.visitestonia.com/en/what-to-see-do/health-wellness/sauna).
 
 ✅ **También te puede interesar...** 
 
-[Descubre en qué consisten los masajes más 
-habituales](https://etheriamagazine.com/2020/05/07/masajes-exoticos-que-hacen-viajar-a-india-bali-tailandia-japon-polinesia/). 
+{{< reflink 
+path=posts/2020/05/masajes-exoticos-que-hacen-viajar-a-india-bali-tailandia-japon-polinesia 
+>}}. 
 
-[Por qué deberías bañarte en el hielo en 
-Finlandia](https://etheriamagazine.com/2023/02/22/banos-hielo-finlandia/).
+{{< reflink path=posts/2023/02/banos-hielo-finlandia >}}.

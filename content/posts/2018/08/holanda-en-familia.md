@@ -1,7 +1,7 @@
 ---
 title: "Qué ver y hacer en un viaje en familia por Holanda"
 date: 2018-08-10
-coverImage: https://fotos.etheriamagazine.com/2018/05/Holanda-Madurodam-e1558171413662.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Holanda-Madurodam-e1558171413662.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -22,36 +22,38 @@ alojamientos singulares. ¡No os perdáis la experiencia de viajar a Holanda con
 
 ## Avifauna, un parque de aves y mucho más
 
-Situado en las afueras de la ciudad Alphen and der Rinh, [Avifauna](https://www.avifauna.nl) 
-es un **parque especializado en aves**, aunque se pueden ver muy de cerca lémures en un 
-terreno muy amplio donde viven en semilibertad. Ofrece también un **zona de juegos para 
-niños**: toboganes gigantes, barcas que se conducen por un canal, un pequeño circuito de 
-karts y una zona cubierta con maquinas recreativas, coches de choque y un pequeño “tren 
-de la bruja”. Cuenta con un hotel y un buen restaurante. 
+Situado en las afueras de la ciudad Alphen and der Rinh, 
+[Avifauna](https://www.avifauna.nl) es un **parque especializado en aves**, aunque se 
+pueden ver muy de cerca lémures en un terreno muy amplio donde viven en semilibertad. 
+Ofrece también un **zona de juegos para niños**: toboganes gigantes, barcas que se 
+conducen por un canal, un pequeño circuito de karts y una zona cubierta con maquinas 
+recreativas, coches de choque y un pequeño “tren de la bruja”. Cuenta con un hotel y un 
+buen restaurante. 
 
 ![Holanda en familia, viajes con niños, escapadas por Europa](https://fotos.etheriamagazine.com/2018/05/Holanda-Avifauna-e1558171351767.jpg "Paseo en Avifauna. @ Susana García")
 
 ## Parque Madurodam, un mundo en miniatura
 
-En Den Haag, en las afueras de La Haya, se encuentra [Madurodam](https://www.madurodam.nl/en), 
-un **parque en miniatura** con empresas y lugares holandeses representados como si fuera 
-Liliput imprescindible si viajas a Holanda con niños. Es muy participativo para los más 
-pequeños ya que cuenta con bastantes actividades interactivas como apagar un fuego en un 
-barco con una manguera, comprobar el funcionamiento de la energía eólica o pujar en una 
-subasta de flores. Además, tiene un **parque infantil** con numerosos juegos y una 
-tirolina, perfecto para completar la visita. 
+En Den Haag, en las afueras de La Haya, se encuentra 
+[Madurodam](https://www.madurodam.nl/en), un **parque en miniatura** con empresas y 
+lugares holandeses representados como si fuera Liliput imprescindible si viajas a 
+Holanda con niños. Es muy participativo para los más pequeños ya que cuenta con 
+bastantes actividades interactivas como apagar un fuego en un barco con una manguera, 
+comprobar el funcionamiento de la energía eólica o pujar en una subasta de flores. 
+Además, tiene un **parque infantil** con numerosos juegos y una tirolina, perfecto para 
+completar la visita. 
 
 ![Holanda en familia, viajes con niños, escapadas por Europa](https://fotos.etheriamagazine.com/2018/05/Holanda-Madurodam-e1558171413662.jpg "Madurodam muestra un mundo en miniatura. @ SG")
 
 ## Ámsterdam con niños
 
 Está llena de cosas interesantes para toda la familia. Si se decide hacer sólo una 
-visita y no alojarse en la ciudad es imprescindible visitar el museo de la ciencia [NEMO](http://www.nemosciencemuseum.nl). 
-Está basado en experiencias y experimentos para conocer los principios físicos, 
-químicos, la energía… Todo desde un punto de vista muy lúdico, desde pompas de jabón 
-gigantes hasta participar con un juego en la cadena de montaje de una fábrica. Tiene una 
-terraza increíble (a la que se puede acceder aunque no se visite el museo), que 
-desciende en forma de escalera gigante desde una quinta planta. 
+visita y no alojarse en la ciudad es imprescindible visitar el museo de la ciencia 
+[NEMO](http://www.nemosciencemuseum.nl). Está basado en experiencias y experimentos para 
+conocer los principios físicos, químicos, la energía… Todo desde un punto de vista muy 
+lúdico, desde pompas de jabón gigantes hasta participar con un juego en la cadena de 
+montaje de una fábrica. Tiene una terraza increíble (a la que se puede acceder aunque no 
+se visite el museo), que desciende en forma de escalera gigante desde una quinta planta. 
 
 ![Holanda en familia, viajes con niños, escapadas por Europa](https://fotos.etheriamagazine.com/2018/05/Holanda-Amsterdam-museo-Nemo-e1558171438104.jpg "Museo Nemo de Ámsterdam.")
 
@@ -92,13 +94,12 @@ un decorado donde no se ha dejado nada fuera de su sitio.
 
 ## Disfruta de la naturaleza en las cabañas De Eemhof
 
-Las [cabañas De 
-Eemhof](https://etheriamagazine.com/2018/08/11/center-parcs-de-eemhof-vacaciones-en-la-naturaleza/), 
-un alojamiento de la cadena **Center Parcs** en el centro de un bosque, son un lugar 
-perfecto para alojarse si se viaja con niños. Sirven de punto de partida para realizar 
-excursiones, aunque como tiene pistas deportivas, un pequeño parque acuático cubierto de 
-entrada libre y un completo programa de actividades deportivas y de ocio, si dejas 
-decidir a los niños no sales de allí. Este **complejo de cabañas unifamiliares de 
+Las {{< reflink path=posts/2018/08/center-parcs-de-eemhof-vacaciones-en-la-naturaleza 
+>}}, un alojamiento de la cadena **Center Parcs** en el centro de un bosque, son un 
+lugar perfecto para alojarse si se viaja con niños. Sirven de punto de partida para 
+realizar excursiones, aunque como tiene pistas deportivas, un pequeño parque acuático 
+cubierto de entrada libre y un completo programa de actividades deportivas y de ocio, si 
+dejas decidir a los niños no sales de allí. Este **complejo de cabañas unifamiliares de 
 distintos tamaños** ocupa un gran espacio y es casi imprescindible alquilar unas 
 bicicletas para moverse por él, ya que los coches sólo pueden acercarse a la cabaña para 
 dejar y recoger el equipaje. 
@@ -107,16 +108,17 @@ dejar y recoger el equipaje.
 
 ## Parque de atracciones Efteling, el país de los cuentos
 
-En medio de un bosque se esconde el bonito **parque de atracciones** [Efteling](https://www.efteling.com/en) 
-que es uno de los secretos mejor guardados de Holanda y [uno de los mejores parques de 
-Europa](https://etheriamagazine.com/2018/07/09/los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia/). 
-Uno se esos lugares que no te explicas como es tan poco conocido fuera de este país. Sus 
-dos partes, la de atracciones y la dedicada al mundo de los cuentos, están decoradas con 
-un gusto exquisito y recrean un mundo de hadas, elfos y trolls al más puro estilo 
-centroeuropeo, alejado del colorín y aire pastel que rodea a otros parques. Los más 
-pequeños disfrutaran entrando en las casas de los cuentos y los mayores con atracciones 
-llenas de adrenalina. Merece la pena alojarse en su hotel en una de sus habitaciones 
-temáticas. 
+En medio de un bosque se esconde el bonito **parque de atracciones** 
+[Efteling](https://www.efteling.com/en) que es uno de los secretos mejor guardados de 
+Holanda y {{< reflink 
+path=posts/2018/07/los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia 
+>}}. Uno se esos lugares que no te explicas como es tan poco conocido fuera de este 
+país. Sus dos partes, la de atracciones y la dedicada al mundo de los cuentos, están 
+decoradas con un gusto exquisito y recrean un mundo de hadas, elfos y trolls al más puro 
+estilo centroeuropeo, alejado del colorín y aire pastel que rodea a otros parques. Los 
+más pequeños disfrutaran entrando en las casas de los cuentos y los mayores con 
+atracciones llenas de adrenalina. Merece la pena alojarse en su hotel en una de sus 
+habitaciones temáticas. 
 
 ![Holanda en familia, viajes con niños, escapadas por Europa](https://fotos.etheriamagazine.com/2018/05/Holanda-familiar-Efteling-e1558171594445.jpg "Rincón del parque Efteling. @SG")
 
@@ -127,9 +129,10 @@ raciones son generosas, mejor pedir un solo plato por persona para esperar menos
 
 Holanda da la sensación de estar prácticamente urbanizada, por lo que hay tráfico y 
 bastantes cruces. Imprescindible el navegador si vas en coche. Este viaje está pensado 
-para realizarse en una semana con alojamiento en [Avifauna](http://www.avifauna.nl), las [cabañas 
-de Eemhof](http://www.centerparcs.com) y [Efteling](http://www.efteling.com). Se puede 
-sustituir alguna de estas estancias por Ámsterdam para visitar más a fondo la ciudad. 
+para realizarse en una semana con alojamiento en [Avifauna](http://www.avifauna.nl), las 
+[cabañas de Eemhof](http://www.centerparcs.com) y [Efteling](http://www.efteling.com). 
+Se puede sustituir alguna de estas estancias por Ámsterdam para visitar más a fondo la 
+ciudad. 
 
 Las cabañas de Eemhof pertenecen a [Center Parcs](http://www.centerparcs.com), que tiene 
 otros muchos complejos de cabañas en otros lugares de Holanda, Bélgica, Francia y 
@@ -140,8 +143,6 @@ encontrar pistas y consejos para planificar tus vacaciones.
 
 ### También te puede interesar:
 
-[Viajar con niños por Europa: consejos y propuestas para acertar en tu primer 
-viaje](https://etheriamagazine.com/2021/02/02/viajar-con-ninos-por-europa-consejos-y-propuestas/) 
+{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
 
-[Viaje con niños a Engelberg, el corazón de 
-Suiza](https://etheriamagazine.com/2019/04/30/viaje-en-familia-que-hacer-engelberg-suiza/)
+{{< reflink path=posts/2019/04/viaje-en-familia-que-hacer-engelberg-suiza >}}

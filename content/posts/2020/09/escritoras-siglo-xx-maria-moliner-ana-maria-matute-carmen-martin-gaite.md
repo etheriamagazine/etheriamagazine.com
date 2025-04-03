@@ -1,7 +1,7 @@
 ---
 title: "Ruta por la España de las grandes escritoras del siglo XX (3ª parte)"
 date: 2020-09-14
-coverImage: https://fotos.etheriamagazine.com/2020/08/portada-escritoras-siglo-xx.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/portada-escritoras-siglo-xx.jpg
 categories: 
   - historias
 destino: 
@@ -10,20 +10,19 @@ authors:
   - Pilar Ortega
 ---
 
-En pleno siglo XX –y comienzos del siglo XXI– vivieron una serie de mujeres que lograron 
-destacar en un universo literario e intelectual donde no lo tenían nada fácil. María 
-Moliner, Ana María Matute y Carmen Martín Gaite se suman a nuestras rutas por la España 
-de las grandes autoras y nos llevan a Salamanca, Barcelona y Zaragoza, sus entornos más 
-íntimos. 
+**En pleno siglo XX –y comienzos del siglo XXI– vivieron una serie de mujeres que 
+lograron destacar en un universo literario e intelectual donde no lo tenían nada fácil. 
+María Moliner, Ana María Matute y Carmen Martín Gaite se suman a nuestras rutas por la 
+España de las grandes autoras y nos llevan a Salamanca, Barcelona y Zaragoza, sus 
+entornos más íntimos.** 
 
 ![Ana María Matutes, Carmen Martín Gaite y María Moliner.](https://fotos.etheriamagazine.com/2020/08/portada-escritoras-siglo-xx.jpg "Ana María Matutes, Carmen Martín Gaite y María Moliner.")
 
 Esta serie de artículos iniciada con la Ruta I que nos llevó a las ciudades que marcaron 
-a [María Zambrano, Gloria Fuertes, Josefina Aldecoa y Emilia Pardo 
-Bazán](https://etheriamagazine.com/2020/06/15/viaje-por-la-espana-de-las-grandes-escritoras-del-siglo-xx/); 
-siguió con la Ruta II y el entorno más cercano de [Carmen de Burgos, Rosa Chacel y María 
-de 
-Maeztu](https://etheriamagazine.com/2020/06/26/ruta-escritoras-espanolas-carmen-burgos-rosa-chacel-maria-maeztu/); 
+a {{< reflink 
+path=posts/2020/06/viaje-por-la-espana-de-las-grandes-escritoras-del-siglo-xx >}}; 
+siguió con la Ruta II y el entorno más cercano de {{< reflink 
+path=posts/2020/06/ruta-escritoras-espanolas-carmen-burgos-rosa-chacel-maria-maeztu >}}; 
 finaliza ahora con la Ruta III dedicada a Ana María Matute, María Moliner y Carmen 
 Martín Gaite. A continuación encontraréis una pequeña biografía con los lazos que las 
 unen a las ciudades de Barcelona, Zaragoza y Salamanca. 

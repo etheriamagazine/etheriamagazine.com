@@ -1,7 +1,7 @@
 ---
 title: "Historia de la isla de San Simón, de lazareto a campo de concentración"
 date: 2021-01-04
-coverImage: https://fotos.etheriamagazine.com/2020/12/isla-pandemias-san-simon-jardines.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/isla-pandemias-san-simon-jardines.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -126,15 +126,15 @@ canalizar el tratamiento de residuos.
 
 ### Más pistas de la isla de San Simón
 
-San Simón tampoco abandona el misterio en el presente y cada verano celebra el [Sinsal](https://festival.sins.al/es), 
-un peculiar **festival de música** en el que el público desconoce el cartel hasta el 
-último momento. La ubicación del evento y el poso histórico de las islas añaden razones 
-extra para que queramos descubrir San Simón y San Antón durante este evento tan 
-especial. 
+San Simón tampoco abandona el misterio en el presente y cada verano celebra el 
+[Sinsal](https://festival.sins.al/es), un peculiar **festival de música** en el que el 
+público desconoce el cartel hasta el último momento. La ubicación del evento y el poso 
+histórico de las islas añaden razones extra para que queramos descubrir San Simón y San 
+Antón durante este evento tan especial. 
 
 Aprovecha el viaje a las Rías Baixas para seguir nuestro particular recorrido 
-gastronómico: [Ruta gastronómica en Vigo: mejores bares y 
-restaurantes](https://etheriamagazine.com/2020/11/24/comer-en-vigo-mejores-restaurantes-furanchos/). 
+gastronómico: {{< reflink 
+path=posts/2020/11/comer-en-vigo-mejores-restaurantes-furanchos >}}. 
 
 Más información en [Turismo de Vigo](https://www.turismodevigo.org/) y [Turismo de 
 Galicia](https://www.turismo.gal/inicio).

@@ -1,7 +1,7 @@
 ---
 title: "Ruta del Quijote, en familia por La Mancha"
 date: 2021-01-29
-coverImage: https://fotos.etheriamagazine.com/2021/01/Alcazar-de-San-Juan-atardecer-molinos.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/Alcazar-de-San-Juan-atardecer-molinos.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -77,11 +77,11 @@ de molienda**.
 
 Aunque Cervantes no quisiera acordarse de Argamasilla de Alba... en esta **Ruta del 
 Quijote en familia** sí que queremos hacerlo ya que aquí fue donde el autor **escribió 
-los primeros capítulos** de su obra. La visita de mayor interés en esta población es la [Cueva 
-de Medrano](https://www.ellugardelamancha.es/turismo/casa-de-medrano/), en la que el 
-escritor estuvo preso y donde le visitaron las musas. De esta manera hacía alusión a su 
-estancia: _“Qué podrá engendrar el estéril y mal cultivado ingenio mío, sino la historia 
-de un hijo seco, avellanado, antojadizo y lleno de pensamientos varios y nunca 
+los primeros capítulos** de su obra. La visita de mayor interés en esta población es la 
+[Cueva de Medrano](https://www.ellugardelamancha.es/turismo/casa-de-medrano/), en la que 
+el escritor estuvo preso y donde le visitaron las musas. De esta manera hacía alusión a 
+su estancia: _“Qué podrá engendrar el estéril y mal cultivado ingenio mío, sino la 
+historia de un hijo seco, avellanado, antojadizo y lleno de pensamientos varios y nunca 
 imaginados de otro alguno, bien como quien se engendró en una cárcel donde toda 
 incomodidad tiene su asiento y donde todo triste ruido hace su habitación”._ 
 
@@ -90,10 +90,10 @@ la Casa Medrano**, una vivienda moderna pero con arquitectura tradicional, donde
 hay exposiciones. 
 
 En la localidad también se sitúa la **rebotica de los Académicos**, en la que tenían 
-lugar las reuniones de la entidad imaginada por Cervantes. Y, antes de irte, en el [Pósito 
-de la Tercia](https://www.ellugardelamancha.es/turismo/posito-de-la-tercia/) se puede 
-ver una reproducción de la _Carta Geográfica de los Viages de Don Quixote y Sitios de 
-sus aventuras_. El mapa original fue dibujado en 1798 por Manuel Antonio Rodríguez 
+lugar las reuniones de la entidad imaginada por Cervantes. Y, antes de irte, en el 
+[Pósito de la Tercia](https://www.ellugardelamancha.es/turismo/posito-de-la-tercia/) se 
+puede ver una reproducción de la _Carta Geográfica de los Viages de Don Quixote y Sitios 
+de sus aventuras_. El mapa original fue dibujado en 1798 por Manuel Antonio Rodríguez 
 siguiendo las observaciones de Juan Antonio Pellicer, que era bibliotecario del rey y 
 miembro de la Real Academia de la Historia. 
 
@@ -133,10 +133,9 @@ tan mala simiente de sobre la faz de la tierra”._
 
 En condiciones normales, se puede **visitar el interior de tres molinos**: Burleta e 
 Infanto, para ver la maquinaria original, y Culebro, donde se sitúa el Museo de Sara 
-Montiel. (En este artículo podéis leer la [Ruta completa de Sara Montiel en Campo de 
-Criptana](https://etheriamagazine.com/2019/04/08/ruta-sara-montiel-campo-de-criptana/)). 
-El precio de la entrada es de 2 € (adultos), de 1 € (niños de 6 a 12 años) y gratuita 
-para menores de 5 años. 
+Montiel. (En este artículo podéis leer la {{< reflink 
+path=posts/2019/04/ruta-sara-montiel-campo-de-criptana >}}). El precio de la entrada es 
+de 2 € (adultos), de 1 € (niños de 6 a 12 años) y gratuita para menores de 5 años. 
 
 ![migas manchegas](https://fotos.etheriamagazine.com/2021/01/Migas-manchegas.jpg "Las migas manchegas con uvas es un plato que suele gustar a los niños.")
 
@@ -193,11 +192,10 @@ dormir por lo que no te podemos hacer una recomendación concreta.
 
 ### Te puede interesar...
 
-[Viaje en coche por la Ruta del Vino de La 
-Mancha](https://etheriamagazine.com/2019/03/20/ruta-del-vino-de-la-mancha/) 
+{{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha >}} 
 
-[8 razones por las que desearás conocer la provincia de Ciudad 
-Real](https://etheriamagazine.com/2020/11/10/mejores-rutas-en-ciudad-real/) 
+{{< reflink path=posts/2020/11/mejores-rutas-en-ciudad-real >}} 
 
-[Descubre las mejores excursiones en la provincia de 
-Cuenca](https://etheriamagazine.com/2020/06/04/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca/)
+{{< reflink 
+path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+>}}

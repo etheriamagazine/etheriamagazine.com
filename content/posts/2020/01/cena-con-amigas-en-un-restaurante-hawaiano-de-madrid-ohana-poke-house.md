@@ -1,7 +1,7 @@
 ---
 title: "¿Cena o comida healthy con amigas en Madrid? Conoce Ohana Poke House"
 date: 2020-01-14
-coverImage: https://fotos.etheriamagazine.com/2020/01/restaurante-hawaiano-ohana-madrid.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/restaurante-hawaiano-ohana-madrid.jpg
 categories: 
   - viajar-con-amigas
   - gourmet

@@ -1,7 +1,7 @@
 ---
 title: "Trondheim, Bergen y Oslo, las 3 capitales de Noruega"
 date: 2020-01-24
-coverImage: https://fotos.etheriamagazine.com/2020/01/Noruega-Trondheim-Nidelva-portada.jpg
+cover: https://fotos.etheriamagazine.com/2020/01/Noruega-Trondheim-Nidelva-portada.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Marina Paul
 ---
 
-Noruega se identifica con naturaleza pura pero también tiene un triángulo dorado urbano 
-formado por Trondheim, Bergen y Oslo. En Etheria Magazine hemos recorrido estas tres 
-ciudades para que tú misma puedas organizar por libre una escapada a este país. 
+**Noruega se identifica con naturaleza pura pero también tiene un triángulo dorado 
+urbano formado por Trondheim, Bergen y Oslo. En Etheria Magazine hemos recorrido estas 
+tres ciudades para que tú misma puedas organizar por libre una escapada a este país.** 
 
 ![Casas de colores junto al río Nidelva, a su paso por Trondheim.](https://fotos.etheriamagazine.com/2020/01/Noruega-Trondheim-Nidelva-portada.jpg "Casas de colores junto al río Nidelva, a su paso por Trondheim. @ Marina Paul")
 
@@ -175,5 +175,5 @@ dedicadas albergar instalaciones culturales como el nuevo Museo Edward Munch o e
 de Arte Moderno, así como restaurantes de lo más modernos y _hipsters_. Sin duda alguna, 
 un lugar para ver y dejarse ver. 
 
-IMPORTANTE: Continúa leyendo este reportaje haciendo clic en [Qué ver y hacer en 
-Oslo.](https://etheriamagazine.com/2020/01/24/viajes-con-amigas-que-ver-y-hacer-en-oslo/)
+IMPORTANTE: Continúa leyendo este reportaje haciendo clic en {{< reflink 
+path=posts/2020/01/viajes-con-amigas-que-ver-y-hacer-en-oslo >}}

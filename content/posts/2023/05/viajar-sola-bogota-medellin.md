@@ -1,7 +1,7 @@
 ---
 title: "Bogotá y Medellín, consejos básicos de Sania para visitarlas"
 date: 2023-05-03
-coverImage: https://fotos.etheriamagazine.com/2023/04/sania-colombia-lago-dorado.jpg
+cover: https://fotos.etheriamagazine.com/2023/04/sania-colombia-lago-dorado.jpg
 categories: 
   - historias
   - mujeres-top
@@ -11,11 +11,11 @@ authors:
   - Sania Jelic
 ---
 
-Sania comienza su viaje en Colombia visitando Bogotá y Medellín, las dos principales 
+**Sania comienza su viaje en Colombia visitando Bogotá y Medellín, las dos principales 
 ciudades del país. Dos urbes que mantienen su etiqueta de inseguras, pero que, con 
 precauciones y conociendo los lugares más "peligrosos", son aptas para las mujeres que 
 viajan solas. Esta gran viajera comparte en esta nueva crónica su experiencia, sus 
-consejos y nos narra la interesante historia de la Comuna 13 de Medellín. 
+consejos y nos narra la interesante historia de la Comuna 13 de Medellín.** 
 
 ![Sania en el Lago Dorado, cerca de Bogotá.](https://fotos.etheriamagazine.com/2023/04/sania-colombia-lago-dorado.jpg "Sania en el Lago Dorado, cerca de Bogotá. © Sania Jelic.")
 
@@ -188,7 +188,8 @@ casas de acogida temporales, talleres de formación y orientación hacia servici
 públicos, sobre todo a las mujeres y niños, y a las víctimas de violencia y abuso en 
 situaciones límite. 
 
-En la revista [Volcánicas](https://volcanicas.com/sin-la-voz-de-la-mujer-la-verdad-no-esta-completa-socorro-mosquera-londono/) 
+En la revista 
+[Volcánicas](https://volcanicas.com/sin-la-voz-de-la-mujer-la-verdad-no-esta-completa-socorro-mosquera-londono/) 
 se puede leer un artículo que detalla la historia de estas mujeres y su trabajo. 
 
 ![Vista general de la Comuna 13 y raperos en sus calles en Medellín](https://fotos.etheriamagazine.com/2023/04/sania-medellin-comuna-13.jpg "Vista general de la Comuna 13 y raperos en sus calles. © SJ")
@@ -226,11 +227,9 @@ mi conversación con ella.
 
 📌 **También te puede interesar:** 
 
-[Inmersión cultural en Ecuador, Sania descubre Cuenca y 
-Quito](https://etheriamagazine.com/2023/04/17/inmersion-cultural-en-ecuador-sania-descubre-cuenca-y-quito/) 
+{{< reflink 
+path=posts/2023/04/inmersion-cultural-en-ecuador-sania-descubre-cuenca-y-quito >}} 
 
-[Islas Galápagos, consejos de Sania para visitar el paraíso 
-perdido](https://etheriamagazine.com/2023/04/09/como-viajar-islas-galapagos/) 
+{{< reflink path=posts/2023/04/como-viajar-islas-galapagos >}} 
 
-[Bolivia bien vale un potosí, nueva etapa de Sania 
-Jelic](https://etheriamagazine.com/2023/03/13/itinerario-bolivia-sania-jelic/)
+{{< reflink path=posts/2023/03/itinerario-bolivia-sania-jelic >}}

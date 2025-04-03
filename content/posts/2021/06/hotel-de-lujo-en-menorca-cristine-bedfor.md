@@ -1,7 +1,7 @@
 ---
 title: "Cristine Bedfor, un hotel para vivir Menorca con estilo"
 date: 2021-06-07
-coverImage: https://fotos.etheriamagazine.com/2021/06/Cristine-bedfor-terraza.jpg
+cover: https://fotos.etheriamagazine.com/2021/06/Cristine-bedfor-terraza.jpg
 categories: 
   - viajar-en-pareja
   - hoteles
@@ -93,11 +93,8 @@ Fotografías cedidas por Cristine Bedford Guest Houses.
 
 ### También te puede interesar
 
-[Descubre la sorprendente y variada arquitectura de 
-Menorca](https://etheriamagazine.com/2020/12/08/visitas-originales-de-arquitectura-en-menorca/) 
+{{< reflink path=posts/2020/12/visitas-originales-de-arquitectura-en-menorca >}} 
 
-[Guía de playas de Menorca para 
-principiantes](https://etheriamagazine.com/2020/08/14/guia-mejores-playas-calas-menorca/) 
+{{< reflink path=posts/2020/08/guia-mejores-playas-calas-menorca >}} 
 
-[15 tips para disfrutar de Menorca fuera de 
-temporada](https://etheriamagazine.com/2018/11/05/15-tips-para-disfrutar-de-menorca-fuera-de-temporada/)
+{{< reflink path=posts/2018/11/15-tips-para-disfrutar-de-menorca-fuera-de-temporada >}}

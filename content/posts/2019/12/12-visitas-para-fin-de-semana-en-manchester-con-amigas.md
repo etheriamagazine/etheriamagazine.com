@@ -1,7 +1,7 @@
 ---
 title: "12 visitas para triunfar en un fin de semana con amigas en Mánchester"
 date: 2019-12-30
-coverImage: https://fotos.etheriamagazine.com/2019/12/viaje-manchester.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/viaje-manchester.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Elena Ortega
 ---
 
-Museos y exposiciones gratuitas, numerosas tiendas para hacer variadísimas compras y una 
-gastronomía internacional. Todo ello rodeado del ambiente cultural más vivo. ¿Estás 
-preparada para embarcar en un viaje con amigas rumbo a Mánchester? 
+**Museos y exposiciones gratuitas, numerosas tiendas para hacer variadísimas compras y 
+una gastronomía internacional. Todo ello rodeado del ambiente cultural más vivo. ¿Estás 
+preparada para embarcar en un viaje con amigas rumbo a Mánchester?** 
 
 ![Manchester Ship Canal en Salford y Trafford](https://fotos.etheriamagazine.com/2019/12/viaje-manchester.jpg "Manchester Ship Canal en Salford y Trafford. © Julian Elliott/ Visit Britain")
 
@@ -188,11 +188,9 @@ Sackville St.
 
 **También te puede interesar:** 
 
-[15 visitas que no debes perderte en tu próximo viaje a 
-Londres](https://etheriamagazine.com/2022/11/10/que-ver-londres-nuevo-clasico/) 
+{{< reflink path=posts/2022/11/que-ver-londres-nuevo-clasico >}} 
 
-[De road trip por los Cotswolds, un viaje al corazón de 
-Inglaterra](https://etheriamagazine.com/2019/08/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra/) 
+{{< reflink 
+path=posts/2019/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}} 
 
-[Admira cinco de los mejores jardines de Gran 
-Bretaña](https://etheriamagazine.com/2021/04/22/los-mejores-jardines-de-gran-bretana/)
+{{< reflink path=posts/2021/04/los-mejores-jardines-de-gran-bretana >}}

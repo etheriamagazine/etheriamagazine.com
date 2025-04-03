@@ -1,7 +1,7 @@
 ---
 title: "Así es la verdadera historia de Sisi, y no es de cuento"
 date: 2022-09-07
-coverImage: https://fotos.etheriamagazine.com/2022/09/retrato-sisi-museo-viena.jpg
+cover: https://fotos.etheriamagazine.com/2022/09/retrato-sisi-museo-viena.jpg
 categories: 
   - historias
   - cultura
@@ -11,12 +11,12 @@ authors:
   - Yolanda Cardo
 ---
 
-La imagen que el cine construyó en torno a Sisi, la última gran emperatriz de Europa no 
-tiene nada de real. Infeliz, depresiva, vigoréxica, con trastornos de la alimentación… 
-Pese a su legendaria belleza, su vida fue una sucesión de trágicos episodios, incluido 
-el de su muerte a manos de un anarquista un 10 de septiembre de hace 125 años. En el 
-Museo Sisi de Viena puedes conocer más sobre su vida y observar sus vestidos y objetos 
-personales . 
+**La imagen que el cine construyó en torno a Sisi, la última gran emperatriz de Europa 
+no tiene nada de real. Infeliz, depresiva, vigoréxica, con trastornos de la 
+alimentación… Pese a su legendaria belleza, su vida fue una sucesión de trágicos 
+episodios, incluido el de su muerte a manos de un anarquista un 10 de septiembre de hace 
+125 años.** **En el Museo Sisi de Viena puedes conocer más sobre su vida y observar sus 
+vestidos y objetos personales**. 
 
 ![Retratos del emperador Francisco José y de Sisi, pintados por F. X. Winterhalter en 1895.](https://fotos.etheriamagazine.com/2022/09/retrato-sisi-museo-viena.jpg "Retratos del emperador Francisco José y de Sisi, pintados por F. X. Winterhalter en 1895.")
 
@@ -155,8 +155,6 @@ Michaelerkuppel** **Tel. +43 15337570**
 
 También te puede interesar en Austria 
 
-[Planes en Viena con amigas para vuestro uso y 
-disfrute](https://etheriamagazine.com/2022/07/07/que-hacer-en-viena-con-amigas/). 
+{{< reflink path=posts/2022/07/que-hacer-en-viena-con-amigas >}}. 
 
-[Burgenland, el estado más desconocido y soleado de 
-Austria](https://etheriamagazine.com/2022/08/01/que-ver-burgenland-austria/).
+{{< reflink path=posts/2022/08/que-ver-burgenland-austria >}}.

@@ -1,7 +1,7 @@
 ---
 title: "10 experiencias navideñas en Alemania a través de sus länder"
 date: 2020-12-10
-coverImage: https://fotos.etheriamagazine.com/2020/12/Alemania-Baviera-Ramsau.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/Alemania-Baviera-Ramsau.jpg
 categories: 
   - inspiración
   - ocio
@@ -18,9 +18,9 @@ authors:
 Si hay un país que rápidamente asociamos con las tradiciones navideñas ese es Alemania. 
 Han conseguido que la arquitectura de los cascos históricos con edificios de ladrillo y 
 madera iluminados en el Adviento sea la imagen que todos tenemos en mente cuando 
-pensamos en esta época del año. Aquí se [vive, saborea y disfruta la 
-Navidad](https://etheriamagazine.com/2020/11/30/alemania-en-navidad-tradiciones-y-adviento/) 
-cada día desde que se abre la primera ventana del calendario de Adviento. 
+pensamos en esta época del año. Aquí se {{< reflink 
+path=posts/2020/11/alemania-en-navidad-tradiciones-y-adviento >}} cada día desde que se 
+abre la primera ventana del calendario de Adviento. 
 
 En este artículo os contamos **10 experiencias navideñas en Alemania** perfectas para 
 realizar en esta época del año en 10 de sus estados federados. Las hay originales, de 
@@ -65,12 +65,13 @@ dulces y del vino caliente.
 ## 3\. Ambiente nocturno en Hamburgo
 
 Las ciudades portuarias como Hamburgo nos encantan porque siempre están animadas y no 
-podía faltar en nuestra lista de experiencias navideñas en Alemania. Y [Hamburgo](https://www.hamburg-tourism.de/) 
-es probablemente la ciudad alemana donde mejor se puede disfrutar del ambiente nocturno. 
-En Navidades no te pierdas la zona de **Reeperbahn**, donde se mezclan todo tipo de 
-casetas, desde las más infantiles y tradicionales a otras más desenfadadas. Uno de los 
-mejores espectáculos es el que proporciona el **puerto**, con barcos históricos como el 
-Rickmer Rickmers que navegan totalmente iluminados. 
+podía faltar en nuestra lista de experiencias navideñas en Alemania. Y 
+[Hamburgo](https://www.hamburg-tourism.de/) es probablemente la ciudad alemana donde 
+mejor se puede disfrutar del ambiente nocturno. En Navidades no te pierdas la zona de 
+**Reeperbahn**, donde se mezclan todo tipo de casetas, desde las más infantiles y 
+tradicionales a otras más desenfadadas. Uno de los mejores espectáculos es el que 
+proporciona el **puerto**, con barcos históricos como el Rickmer Rickmers que navegan 
+totalmente iluminados. 
 
 ![Invierno en el mar de Frisia](https://fotos.etheriamagazine.com/2020/12/Alemania-Husum-Frisia.jpg "Imagen helada de Husum, en el mar de Frisia. © GNTB/Tourismus und Stadtmarketing Husum GmbH/Oliver Franke")
 
@@ -89,11 +90,12 @@ Apetece, ¿verdad?
 
 ## 5\. Ciencia en Bremen
 
-¿Seguro que en Alemania hace frío en invierno? Eso es porque no has ido a la [Klimahaus](https://www.klimahaus-bremerhaven.de/en) 
-de Bremerhaven, donde puedes recorrer el mundo a través del grado de longitud 8 de la 
-Tierra: experimentarás climas de los cinco continentes. Después, no puede haber mejor 
-plan que acercarse al **mercadillo** que se ubica cada año a orillas del Weser y 
-disfrutar de la iluminación navideña del casco antiguo. 
+¿Seguro que en Alemania hace frío en invierno? Eso es porque no has ido a la 
+[Klimahaus](https://www.klimahaus-bremerhaven.de/en) de Bremerhaven, donde puedes 
+recorrer el mundo a través del grado de longitud 8 de la Tierra: experimentarás climas 
+de los cinco continentes. Después, no puede haber mejor plan que acercarse al 
+**mercadillo** que se ubica cada año a orillas del Weser y disfrutar de la iluminación 
+navideña del casco antiguo. 
 
 ![contemplar la migración de gansos en Alemania es una de las mejores experiencias navideñas](https://fotos.etheriamagazine.com/2020/12/Alemania-Renania-gansos.jpg "Avistamiento de gansos en el Bajo Rin. © GNTB/Getty Images/Richard Dorn")
 
@@ -139,14 +141,15 @@ naturales y por los pueblos de cuento que atraviesa.
 ## 9\. Tradición en Mecklemburgo-Pomerania Occidental
 
 Muchas ciudades y pueblos alemanes parecen en sí mismos un decorado perfecto donde con 
-el ambiente frío y una iluminación adecuada, la Navidad toma forma. Eso pasa en [Stralsund](https://www.stralsundtourismus.de/en/welcome), 
-una ciudad del länder de Mecklemburgo-Pomerania Occidental declarada Patrimonio de la 
-Humanidad por la Unesco, donde sus fachadas de ladrillo y sus edificios históricos 
-recrean un ambiente que no puede ser más navideño. Aquí os sorprenderán especialmente 
-las plazas del Mercado Antiguo y del Mercado Nuevo y el sótano del Ayuntamiento, con la 
-bóveda gótica más grande de la zona del Báltico. Por cierto, si queréis probar un plato 
-alemán muy típico, tenéis que saber que ésta es la tierra de los **arenques Bismarck**, 
-que se maceran en una mezcla suave de vinagre, azúcar, sal y cebolla. Deliciosos. 
+el ambiente frío y una iluminación adecuada, la Navidad toma forma. Eso pasa en 
+[Stralsund](https://www.stralsundtourismus.de/en/welcome), una ciudad del länder de 
+Mecklemburgo-Pomerania Occidental declarada Patrimonio de la Humanidad por la Unesco, 
+donde sus fachadas de ladrillo y sus edificios históricos recrean un ambiente que no 
+puede ser más navideño. Aquí os sorprenderán especialmente las plazas del Mercado 
+Antiguo y del Mercado Nuevo y el sótano del Ayuntamiento, con la bóveda gótica más 
+grande de la zona del Báltico. Por cierto, si queréis probar un plato alemán muy típico, 
+tenéis que saber que ésta es la tierra de los **arenques Bismarck**, que se maceran en 
+una mezcla suave de vinagre, azúcar, sal y cebolla. Deliciosos. 
 
 ![Pasear en los alrededores del castillo de Hohenzollern es una de las experiencias navideñas en Alemania que no puedes perderte](https://fotos.etheriamagazine.com/2020/12/Alemania-castillo-Hohenzollern.jpg "Castillo de Hohenzollern en el länder Baden-Wurtemberg. © GNTB/Dietmar Scherf")
 
@@ -164,8 +167,6 @@ Alemania para los amantes de la naturaleza.
 
 #### También te puede interesar:
 
-[Alemania vive, saborea y disfruta de la 
-Navidad.](https://etheriamagazine.com/2020/11/30/alemania-en-navidad-tradiciones-y-adviento/) 
+{{< reflink path=posts/2020/11/alemania-en-navidad-tradiciones-y-adviento >}} 
 
-[Descubre Hamburgo en 48 horas, la Alemania más 
-canalla.](https://etheriamagazine.com/2020/02/24/que-ver-hacer-fin-de-semana-hamburgo-alemania/)
+{{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}}

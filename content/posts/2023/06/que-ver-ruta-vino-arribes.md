@@ -1,7 +1,7 @@
 ---
 title: "12 visitas esenciales en la Ruta del Vino de Arribes"
 date: 2023-06-12
-coverImage: https://fotos.etheriamagazine.com/2023/06/ruta-vino-arribes.jpg
+cover: https://fotos.etheriamagazine.com/2023/06/ruta-vino-arribes.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,12 +10,12 @@ authors:
   - Pepa G. Marín
 ---
 
-La Ruta del Vino de Arribes transcurre entre pueblos, montes, ríos y vides, cepas 
+**La Ruta del Vino de Arribes transcurre entre pueblos, montes, ríos y vides, cepas 
 pequeñitas que parecen decir al pasar: “eh, que estoy aquí”. Y eso es lo que os queremos 
 contar... que están allí y que son mimadas por viticultores que se afanan cada día en 
 mejorar el presente de este territorio zamorano y salmantino. Entre bodegas y buenos 
 restaurantes también hay un buen abanico de visitas que os queremos recomendar para 
-completar esta agradable escapada. 
+completar esta agradable escapada.** 
 
 ![viñedo de la Ruta del Vino de Arribes](https://fotos.etheriamagazine.com/2023/06/ruta-vino-arribes.jpg "Ruta del Vino de Arribes. © Etheria M.")
 
@@ -30,9 +30,9 @@ sin pretenderlo.
 Y todo ello de una forma privilegiada y alejada de multitudes porque vayas donde vayas 
 serás tratada como una reina. Un protagonismo compartido por las personas locales que 
 insuflan vida allá donde pisan. De las mujeres emprendedoras de esta tierra ya os hemos 
-hablado (puedes leer el artículo: [Ruta del Vino de Arribes, energía femenina de alto 
-voltaje](https://etheriamagazine.com/2023/04/19/ruta-del-vino-de-arribes/)) por lo que 
-ahora nos centraremos en las visitas de la Ruta del Vino de Arribes. ¿Nos acompañas? 
+hablado (puedes leer el artículo: {{< reflink 
+path=posts/2023/04/ruta-del-vino-de-arribes >}}) por lo que ahora nos centraremos en las 
+visitas de la Ruta del Vino de Arribes. ¿Nos acompañas? 
 
 ## 1\. Fermoselle (Zamora)
 

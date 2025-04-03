@@ -1,7 +1,7 @@
 ---
 title: "San Marco: no te pierdas ningún detalle del corazón de Venecia"
 date: 2022-06-09
-coverImage: https://fotos.etheriamagazine.com/2022/06/venecia-gondola-gran-canal.jpg
+cover: https://fotos.etheriamagazine.com/2022/06/venecia-gondola-gran-canal.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -258,11 +258,8 @@ Puedes cogerlas en numerosos puntos del barrio de San Marco.
 
 ### También te puede interesar:
 
-[NH Collection Murano Villa, un hotel perfecto para explorar 
-Venecia](https://etheriamagazine.com/2022/02/16/hotel-nh-collection-murano-villa-venecia/) 
+{{< reflink path=posts/2022/02/hotel-nh-collection-murano-villa-venecia >}} 
 
-[Verona, mucho más que la ciudad de 
-Julieta](https://etheriamagazine.com/2021/12/01/que-ver-en-verona/) 
+{{< reflink path=posts/2021/12/que-ver-en-verona >}} 
 
-[Casi un mar: rodea en coche el lago de Garda, el mayor de 
-Italia](https://etheriamagazine.com/2021/09/22/ruta-en-coche-en-lago-de-garda-italia/)
+{{< reflink path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}}

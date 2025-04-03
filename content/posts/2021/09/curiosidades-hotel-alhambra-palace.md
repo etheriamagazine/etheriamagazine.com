@@ -1,7 +1,7 @@
 ---
 title: "Hotel Alhambra Palace, tres curiosidades que tienes que saber antes de alojarte"
 date: 2021-09-02
-coverImage: https://fotos.etheriamagazine.com/2021/08/Alhambra-palace-panoramica.jpg
+cover: https://fotos.etheriamagazine.com/2021/08/Alhambra-palace-panoramica.jpg
 categories: 
   - hoteles
 destino: 
@@ -86,11 +86,8 @@ o las _Chips de patatas cítricas con boquerones en salazón_.
 
 ### Te puede interesar
 
-[Granada, el privilegio de la buena 
-mesa](https://etheriamagazine.com/2020/10/30/restaurantes-bares-de-granada-y-visitas-para-mujeres/) 
+{{< reflink path=posts/2020/10/restaurantes-bares-de-granada-y-visitas-para-mujeres >}} 
 
-[Ruta de Lorca en Granada, un paseo por sus lugares más 
-íntimos](https://etheriamagazine.com/2020/10/07/ruta-cultural-granada-de-garcia-lorca/) 
+{{< reflink path=posts/2020/10/ruta-cultural-granada-de-garcia-lorca >}} 
 
-[Visita cultural al Albaicín y La Alhambra de 
-Granada](https://etheriamagazine.com/2020/05/29/48-horas-en-el-albayzin-y-la-alhambra/)
+{{< reflink path=posts/2020/05/48-horas-en-el-albayzin-y-la-alhambra >}}

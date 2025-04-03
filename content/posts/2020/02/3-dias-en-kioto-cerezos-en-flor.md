@@ -1,7 +1,7 @@
 ---
 title: "3 días en Kioto para ver los cerezos en flor"
 date: 2020-02-26
-coverImage: https://fotos.etheriamagazine.com/2020/02/Kioto-paseo-filosofo-geishas.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/Kioto-paseo-filosofo-geishas.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Susana García
 ---
 
-Cualquier época del año es perfecta para descubrir la ciudad japonesa de Kioto pero al 
+**Cualquier época del año es perfecta para descubrir la ciudad japonesa de Kioto pero al 
 comenzar la primavera se pueden contemplar sus cerezos en flor y toda la ciudad añade a 
 su habitual encanto un delicado manto de pétalos rosados. Necesitarás al menos tres días 
 para imbuirte en el ambiente y cultura de esta ciudad, un destino perfecto para viajar 
-con amigas o con tu pareja. 
+con amigas o con tu pareja.** 
 
 ![Geishas en el Paseo del Filósofo en Kioto](https://fotos.etheriamagazine.com/2020/02/Kioto-paseo-filosofo-geishas.jpg "Foto en el Paseo del Filósofo. © Susana García")
 
@@ -235,8 +235,8 @@ es a finales de marzo o principios de abril, aunque no hay una certeza absoluta.
 ### Seguro de viaje
 
 En un viaje de este tipo es conveniente contratar un buen seguro, que cubra posibles 
-cancelaciones o pequeños accidentes. Si lo adquieres con Intermundial tendrás ahora un [10% 
-de 
+cancelaciones o pequeños accidentes. Si lo adquieres con Intermundial tendrás ahora un 
+[10% de 
 descuento](https://www.intermundial.es/afiliados/seguros-de-viaje?tduid=19e651518786da265b7b6522e8d59f79&utm_source=Tradedoubler&utm_medium=1&utm_campaign=General&utm_content=3132464&utm_term=23930012). 
 
 ### Más información
@@ -245,11 +245,8 @@ descuento](https://www.intermundial.es/afiliados/seguros-de-viaje?tduid=19e65151
 
 📌 **También te puede interesar:** 
 
-[Descubre la magia de Tokio en sólo tres 
-días](https://etheriamagazine.com/2021/07/28/que-hacer-3-dias-en-tokio-viajes-mujeres/) 
+{{< reflink path=posts/2021/07/que-hacer-3-dias-en-tokio-viajes-mujeres >}} 
 
-[10 actividades para un viaje en familia a 
-Japón](https://etheriamagazine.com/2019/11/21/10-actividades-para-un-viaje-en-familia-a-japon/) 
+{{< reflink path=posts/2019/11/10-actividades-para-un-viaje-en-familia-a-japon >}} 
 
-[5 recomendaciones para preparar un viaje a 
-Japón](https://etheriamagazine.com/2019/06/18/como-organizar-un-viaje-a-japon/)
+{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}}

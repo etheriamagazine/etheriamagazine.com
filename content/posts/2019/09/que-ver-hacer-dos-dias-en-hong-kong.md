@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong, qué hacer en una escapada a la jungla de asfalto"
 date: 2019-09-06
-coverImage: https://fotos.etheriamagazine.com/2019/08/shangay-tang-hong-kong-e1567194915790.jpg
+cover: https://fotos.etheriamagazine.com/2019/08/shangay-tang-hong-kong-e1567194915790.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -204,11 +204,8 @@ famosos _dim sum_.
 
 ### También en Etheria Magazine
 
-[Macao, entre la saudade y el lujo 
-asiático](https://etheriamagazine.com/2018/04/18/que-ver-macao/). 
+{{< reflink path=posts/2018/04/que-ver-macao >}}. 
 
-[Qué ver en el norte de India: 10 colores del 
-Rajastán](https://etheriamagazine.com/2020/01/29/viaje-para-mujeres-que-ver-norte-india-rajastan/). 
+{{< reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}}. 
 
-[Los mejores miradores de Nueva York: los nuevos, los de pago y los 
-gratuitos](https://etheriamagazine.com/2020/02/24/los-mejores-miradores-de-nueva-york-gratis-de-pago/).
+{{< reflink path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}}.

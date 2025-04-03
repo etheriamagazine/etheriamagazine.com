@@ -1,7 +1,7 @@
 ---
 title: "COMO Shambhala Estate, un hotel para el descanso en Ubud"
 date: 2023-11-17
-coverImage: https://fotos.etheriamagazine.com/2023/11/como-shambhala-residencia-Tirta-Ening.jpg
+cover: https://fotos.etheriamagazine.com/2023/11/como-shambhala-residencia-Tirta-Ening.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Susana García
 ---
 
-Nos vamos a uno de los rincones secretos de la isla de Bali, entre la selva y los 
+**Nos vamos a uno de los rincones secretos de la isla de Bali, entre la selva y los 
 arrozales de Ubud. Aquí se encuentra el alojamiento COMO Shambhala Estate, que es mucho 
 más que un hotel. Un lugar donde el bienestar forma parte de su filosofía y desconectar 
 del mundo es tremendamente sencillo. Además, es un excelente punto de partida para 
-realizar excursiones por el centro de la isla. 
+realizar excursiones por el centro de la isla.** 
 
 ![Vista aérea de una de las residencias del COMO Shambhala Estate.](https://fotos.etheriamagazine.com/2023/11/como-shambhala-residencia-Tirta-Ening.jpg "Vista aérea de una de las residencias del COMO Shambhala Estate.")
 
@@ -125,11 +125,8 @@ Begawan, Desa Melinggih Kelod, Payangan, Gianyar 80571, Bali, Indonesia. Tel. +6
 
 **También te puede interesar:** 
 
-[Cómo organizar un viaje a Bali para aprovechar bien el 
-tiempo](https://etheriamagazine.com/2023/10/09/como-organizar-viaje-a-bali/) 
+{{< reflink path=posts/2023/10/como-organizar-viaje-a-bali >}} 
 
-[Bali, diez lugares que van directos a Instagram y 
-TikTok](https://etheriamagazine.com/2023/07/26/fotos-bali-instagram-tiktok/) 
+{{< reflink path=posts/2023/07/fotos-bali-instagram-tiktok >}} 
 
-[Qué llevar en la maleta en un viaje a 
-Bali](https://etheriamagazine.com/2023/06/23/que-llevar-maleta-viaje-bali/)
+{{< reflink path=posts/2023/06/que-llevar-maleta-viaje-bali >}}

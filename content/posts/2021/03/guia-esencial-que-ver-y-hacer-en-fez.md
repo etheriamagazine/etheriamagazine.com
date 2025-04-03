@@ -1,7 +1,7 @@
 ---
 title: "Guía esencial de Fez, la capital espiritual de Marruecos"
 date: 2021-03-18
-coverImage: https://fotos.etheriamagazine.com/2021/03/fez-atardecer-marruecos.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/fez-atardecer-marruecos.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -161,9 +161,9 @@ pueden interesar son el Museo de Armas y el Museo de la Madera.
 Si vas a estar **tres o cuatro días en Fez**, y quieres emplear uno de ellos en una 
 excursión, hay varias opciones posibles. En nuestro caso, visitamos Volúbilis e Ifrane 
 el mismo día. ¿Cómo organizar la excursión? Puedes hacerlo por tu cuenta alquilando un 
-vehículo o bien reservar una visita organizada con empresas como [Civitatis](https://www.civitatis.com/es/fez/?aid=10211) 
-que tienen guías en español y los precios son asequibles. Te contamos nuestra 
-experiencia. 
+vehículo o bien reservar una visita organizada con empresas como 
+[Civitatis](https://www.civitatis.com/es/fez/?aid=10211) que tienen guías en español y 
+los precios son asequibles. Te contamos nuestra experiencia. 
 
 ### Yacimiento de Volúbilis
 
@@ -182,9 +182,9 @@ Ifrane** (entre Azrou e Ifrane) donde podrás ver un sorprendente bosque de cedr
 centenarios declarados **Patrimonio de la Humanidad** por la Unesco. Algunos de estos 
 **cedros del Atlas** tienen más de 800 años, pero ¡ojo! no te despistes mirando al cielo 
 porque algún macaco te puede dar un susto. Aquí viven unos monos de **Berbería** (si has 
-visitado [Gibraltar](https://etheriamagazine.com/2018/05/21/gibraltar-una-escapada-en-familia/) 
-sabes de los que hablamos), que son inofensivos pero están malacostumbrados a las 
-chucherías de los turistas. 
+visitado {{< reflink path=posts/2018/05/gibraltar-una-escapada-en-familia >}} sabes de 
+los que hablamos), que son inofensivos pero están malacostumbrados a las chucherías de 
+los turistas. 
 
 Continúa viaje hasta Ifrane y prepárate para la sorpresa. Esta ciudad de aspecto alpino 
 fue fundada en 1929 gracias a un capricho francés. Allí encontrarás chalets, villas, 
@@ -199,17 +199,18 @@ grandes avenidas y jardines, tiene el rey marroquí una residencia de caza.
 ##### ¿Cómo llegar a Fez desde España?
 
 Desde Madrid sólo se tarda una hora y media en llegar a Fez en avión, y algunas líneas 
-aéreas ofrecen vuelos directos. Consulta las tarifas de [Ryanair](http://www.ryanair.com), 
-Iberia, Royal Air Maroc, etc. 
+aéreas ofrecen vuelos directos. Consulta las tarifas de 
+[Ryanair](http://www.ryanair.com), Iberia, Royal Air Maroc, etc. 
 
 ##### ¿Dónde puedo alojarme en Fez?
 
 En Fez hay hoteles de todo tipo, un 4 estrellas interesante es el [Barceló Fès 
 Medina](https://www.barcelo.com/es-es/barcelo-fes-medina/), situado en Ville Nouvelle, y 
-también algunos riads como el de la [chef Najat 
-Kaanache](https://etheriamagazine.com/2021/02/04/najat-libro-cocina-marroqui-chef-najat-kaanache/), 
-donde también podras vivir una increíble experiencia gastronómica en su restaurante [Nur](http://nurfez.com/). 
-Anímate a hacer un taller de cocina con la que es considerada la mejor chef de África. 
+también algunos riads como el de la {{< reflink 
+path=posts/2021/02/najat-libro-cocina-marroqui-chef-najat-kaanache >}}, donde también 
+podras vivir una increíble experiencia gastronómica en su restaurante 
+[Nur](http://nurfez.com/). Anímate a hacer un taller de cocina con la que es considerada 
+la mejor chef de África. 
 
 ##### ¿Cuál es el idioma que se habla en Fez (Marruecos)?
 
@@ -225,11 +226,12 @@ quedas un día más también podrías hacer una excursión a los alrededores.
 
 ##### 📍Excursiones baratas en y desde Fez...
 
-📌 [Free Tour en Fez](https://www.civitatis.com/es/fez/free-tour-fez/?aid=10211). 📌 [Visita 
-guiada por la medina de 
-Fez](https://www.civitatis.com/es/fez/visita-guiada-fez/?aid=10211). Grupo: 65 euros. 📌 [Tour 
-gastronómico en Fez](https://www.civitatis.com/es/fez/tour-gastronomico-fez/?aid=10211). 
-📌 [Excursión privada a Volúbilis, Mulay Idrís y 
+📌 [Free Tour en Fez](https://www.civitatis.com/es/fez/free-tour-fez/?aid=10211). 📌 
+[Visita guiada por la medina de 
+Fez](https://www.civitatis.com/es/fez/visita-guiada-fez/?aid=10211). Grupo: 65 euros. 📌 
+[Tour gastronómico en 
+Fez](https://www.civitatis.com/es/fez/tour-gastronomico-fez/?aid=10211). 📌 [Excursión 
+privada a Volúbilis, Mulay Idrís y 
 Meknes](https://www.civitatis.com/es/fez/excursion-volubilis-mulay-idris-meknes/?aid=10211). 
 Grupo (hasta 4 personas): 100 € 📌 [Traslados desde el aeropuerto a 
 Fez](https://www.civitatis.com/es/fez/traslados/?aid=10211): turismo con 4 plazas, 25 
@@ -237,8 +239,7 @@ euros.
 
 ## También en Marruecos...
 
-[Celebrar la vida en el Alto Atlas 
-marroquí](https://etheriamagazine.com/2020/04/08/viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas/). 
+{{< reflink path=posts/2020/04/viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas 
+>}}. 
 
-[Qué ver en una escapada con amigas a 
-Marrakech](https://etheriamagazine.com/2018/12/27/viaje-de-amigas-a-marrakech/).
+{{< reflink path=posts/2018/12/viaje-de-amigas-a-marrakech >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Visita de la catedral de Pamplona y su exposición Occidens"
 date: 2024-02-07
-coverImage: https://fotos.etheriamagazine.com/2024/02/pamplona-catedral-fachada.jpg
+cover: https://fotos.etheriamagazine.com/2024/02/pamplona-catedral-fachada.jpg
 categories: 
   - viajar-sola
   - cultura
@@ -146,15 +146,15 @@ Sí, de lunes a sábado a las 12 h hay visitas guiadas (máximo 25 personas en c
 
 ## Más Información
 
-Dirección: c/ Dormitalería. 31001 Pamplona - Iruña. Teléfono: +34 948 212 594. [www.catedraldepamplona.com](https://www.catedraldepamplona.com/) 
+Dirección: c/ Dormitalería. 31001 Pamplona 
+
+- Iruña. Teléfono: +34 948 212 594. 
+[www.catedraldepamplona.com](https://www.catedraldepamplona.com/) 
 
 **También te puede interesar:** 
 
-[Ruta gastro por Pamplona: bares de pintxos, visitas y 
-curiosidades](https://etheriamagazine.com/2019/11/15/que-ver-y-donde-comer-pintxos-con-amigas-en-pamplona/) 
+{{< reflink path=posts/2019/11/que-ver-y-donde-comer-pintxos-con-amigas-en-pamplona >}} 
 
-[Pamplona, un idilio entre Hemingway y el 
-cine](https://etheriamagazine.com/2018/11/30/pamplona-un-idilio-entre-hemingway-y-el-cine/) 
+{{< reflink path=posts/2018/11/pamplona-un-idilio-entre-hemingway-y-el-cine >}} 
 
-[Visita de la catedral de Toledo: 10 detalles que no puedes 
-perderte](https://etheriamagazine.com/2022/01/19/que-ver-en-catedral-de-toledo/)
+{{< reflink path=posts/2022/01/que-ver-en-catedral-de-toledo >}}

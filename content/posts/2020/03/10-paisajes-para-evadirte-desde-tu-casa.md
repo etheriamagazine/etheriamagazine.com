@@ -1,7 +1,7 @@
 ---
 title: "10 paisajes para evadirte en momentos de estrés"
 date: 2020-03-18
-coverImage: https://fotos.etheriamagazine.com/2020/03/Paisajes-perito-moreno.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/Paisajes-perito-moreno.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,20 +11,20 @@ authors:
   - Redacción Etheria
 ---
 
-Eso de que una imagen vale más que mil palabras aplica estupendamente a esos paisajes 
+**Eso de que una imagen vale más que mil palabras aplica estupendamente a esos paisajes 
 que evocan destinos maravillosos donde te gustaría teletransportarte al momento. En 
 situaciones en las que el estrés hace de las suyas, una buena estrategia es buscar un 
-paisaje relajante y evadirse por un momento. 
+paisaje relajante y evadirse por un momento.** 
 
 ![Cascada Seljandsfoss (Islandia).](https://fotos.etheriamagazine.com/2020/03/Paisajes-islandia-cascada.jpg "Cascada Seljandsfoss (Islandia). © Robert Lukeman")
 
 ## 1\. Cascada Seljalandsfoss (Islandia)
 
-[Islandia](https://etheriamagazine.com/2018/09/26/islandia-la-isla-del-desafio-de-reykjavik-a-vik/) 
-es uno de esos países que regala paisajes naturales que quitan el hipo. Glaciares, 
-cascadas, costas abruptas, aguas termales, pueblos de cuento… Todo en Islandia merece 
-una foto. En este caso hemos tenido que elegir una, y nos quedamos con este paisaje casi 
-irreal de la cascada Seljalandsfoss, situada en el sur del país. 
+{{< reflink path=posts/2021/03/que-ver-sur-islandia-consejos-practicos >}} es uno de 
+esos países que regala paisajes naturales que quitan el hipo. Glaciares, cascadas, 
+costas abruptas, aguas termales, pueblos de cuento… Todo en Islandia merece una foto. En 
+este caso hemos tenido que elegir una, y nos quedamos con este paisaje casi irreal de la 
+cascada Seljalandsfoss, situada en el sur del país. 
 
 ![Cebras en el cráter de Ngorongoro (Tanzania).](https://fotos.etheriamagazine.com/2020/03/Paisajes-crater-ngorongoro-tanzania.jpg "Cebras en el cráter de Ngorongoro (Tanzania). © Hendrik Cornelissen")
 
@@ -32,10 +32,10 @@ irreal de la cascada Seljalandsfoss, situada en el sur del país.
 
 Los infinitos paisajes africanos quedan para siempre en la memoria y hacen que el deseo 
 de volver a este continente no desaparezca nunca. Para realizar un safari los destinos 
-más populares son [Kenia](https://etheriamagazine.com/2018/10/25/10-flechazos-para-viajar-a-kenia/), 
-Tanzania, [Sudáfrica](https://etheriamagazine.com/2019/12/11/planes-para-desconectar-en-sudafrica/) 
-y [Botsuana](https://etheriamagazine.com/2018/11/22/botsuana-10-razones-para-sentirte-la-reina-de-africa/). 
-El cráter del Ngorongoro, en Tanzania, es un lugar perfecto para situarse mentalmente ya 
+más populares son {{< reflink path=posts/2018/10/10-flechazos-para-viajar-a-kenia >}}, 
+Tanzania, {{< reflink path=posts/2019/12/planes-para-desconectar-en-sudafrica >}} y {{< 
+reflink path=posts/2018/11/botsuana-10-razones-para-sentirte-la-reina-de-africa >}}. El 
+cráter del Ngorongoro, en Tanzania, es un lugar perfecto para situarse mentalmente ya 
 que es un lugar único al ser el territorio más pequeño en el que se pueden ver los 
 ‘cinco grandes’ (león, leopardo, rinoceronte negro, búfalo y elefante). 
 
@@ -78,12 +78,12 @@ espiritualidad todo lo invade.
 
 ## 6\. Capadocia (Turquía)
 
-Los paisajes irreales de la región de [Capadocia](https://etheriamagazine.com/2019/02/26/revista-viajes-que-ver-capadocia/), 
-en Turquía, demuestran como la combinación de roca, viento, agua y fuego puede, con el 
-paso de los siglos, formar imágenes maravillosas. Como se aprecia en la fotografía, una 
-de las mejores formas para contemplar esta región es subirse a un globo aerostático y 
-disfrutar en silencio de la imagen de las famosas Chimeneas de Hadas o de las cuevas 
-trogloditas. 
+Los paisajes irreales de la región de {{< reflink 
+path=posts/2019/02/revista-viajes-que-ver-capadocia >}}, en Turquía, demuestran como la 
+combinación de roca, viento, agua y fuego puede, con el paso de los siglos, formar 
+imágenes maravillosas. Como se aprecia en la fotografía, una de las mejores formas para 
+contemplar esta región es subirse a un globo aerostático y disfrutar en silencio de la 
+imagen de las famosas Chimeneas de Hadas o de las cuevas trogloditas. 
 
 ![Milford Sound (Nueva Zelanda).](https://fotos.etheriamagazine.com/2020/03/Paisajes-Mildford-Sound.jpg "Milford Sound (Nueva Zelanda).")
 
@@ -92,9 +92,11 @@ trogloditas.
 En Nueva Zelanda los paisajes naturales son los protagonistas y puedes encontrar tantos 
 diferentes como puedas imaginar. Desde glaciares, lagos alpinos y montañas hasta 
 paisajes costeros increíbles y parques termales. En la imagen, **Milford Sound**, un 
-fiordo del Parque Nacional Fiorland perfecto para realizar un [trekking](https://etheriamagazine.com/2019/08/28/viaja-sola-a-nueva-zelanda-y-disfruta-de-la-naturaleza-trekking/) 
-o disfrutarlo en crucero. Si alguna vez decides visitarlo, ten en cuenta que una de las 
-mejores formas de recorrerlo es en [autocaravana](https://etheriamagazine.com/2018/08/21/nueva-zelanda-en-autocaravana/). 
+fiordo del Parque Nacional Fiorland perfecto para realizar un {{< reflink 
+path=posts/2019/08/viaja-sola-a-nueva-zelanda-y-disfruta-de-la-naturaleza-trekking >}} o 
+disfrutarlo en crucero. Si alguna vez decides visitarlo, ten en cuenta que una de las 
+mejores formas de recorrerlo es en {{< reflink 
+path=posts/2018/08/nueva-zelanda-en-autocaravana >}}. 
 
 ![Parque Nacional Yosemite (Estados Unidos).](https://fotos.etheriamagazine.com/2020/03/Paisajes-yosemite-Estados-Unidos.jpg "Parque Nacional Yosemite (Estados Unidos). © Rakshith Hatwar")
 
@@ -113,9 +115,9 @@ escarpadas formaciones rocosas.
 Las suaves colinas del valle de Orcia salpicadas de cipreses, en la región italiana de 
 Toscana, es una de esas imágenes que tenemos grabadas a través de pinturas y películas, 
 y recurrir a estos paisajes que transmiten tanta paz es una excelente opción en momentos 
-de estrés. Situado al sur de Siena, este valle es un lugar perfecto para imaginar un [viaje 
-en coche por la Toscana](https://etheriamagazine.com/2018/05/10/toscana-en-coche/) 
-disfrutando también de sus bonitos pueblos medievales. 
+de estrés. Situado al sur de Siena, este valle es un lugar perfecto para imaginar un {{< 
+reflink path=posts/2021/06/toscana-en-coche >}} disfrutando también de sus bonitos 
+pueblos medievales. 
 
 ![Glaciar Perito Moreno (Argentina).](https://fotos.etheriamagazine.com/2020/03/Paisajes-perito-moreno.jpg "Glaciar Perito Moreno (Argentina). © Claudio Bianchi")
 

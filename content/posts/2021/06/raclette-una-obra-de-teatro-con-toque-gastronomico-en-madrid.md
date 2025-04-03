@@ -1,7 +1,7 @@
 ---
 title: "Raclette, una original obra de teatro con toque gastronómico"
 date: 2021-06-10
-coverImage: https://fotos.etheriamagazine.com/2021/06/elena-gonzalez-hector-gonzalez-raclette.jpg
+cover: https://fotos.etheriamagazine.com/2021/06/elena-gonzalez-hector-gonzalez-raclette.jpg
 categories: 
   - ocio
 destino: 
@@ -77,8 +77,6 @@ euros](https://proticketing.com/teatrosluchana/es_ES/entradas/evento/19912).
 
 ### Más planes en Madrid
 
-[8 exposiciones en Madrid que no puedes 
-perderte](https://etheriamagazine.com/2021/05/27/nuevas-exposiciones-en-madrid-verano-2021/). 
+{{< reflink path=posts/2021/05/nuevas-exposiciones-en-madrid-verano-2021 >}}. 
 
-[Brunches asequibles en Madrid para disfrutar del 
-domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/).
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}.

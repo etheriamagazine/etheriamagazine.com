@@ -1,7 +1,7 @@
 ---
 title: "Hayedo de Montejo, visitas guiadas y gratuitas todo el año"
 date: 2021-01-15
-coverImage: https://fotos.etheriamagazine.com/2021/01/visitas-hayedo-montejo-madrid.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/visitas-hayedo-montejo-madrid.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-El Hayedo de Montejo, la estrella natural de la Sierra de Madrid, no solo ofrece visitas 
-guiadas y gratuitas en otoño sino durante todo el año. Cubierto de nieve, con un manto 
-de color verde brillante o con la melancolía de los tonos ocres, es un espacio natural 
-que ofrece la mejor lección de educación ambiental para niños (y mayores). 
+**El Hayedo de Montejo, la estrella natural de la Sierra de Madrid, no solo ofrece 
+visitas guiadas y gratuitas en otoño sino durante todo el año. Cubierto de nieve, con un 
+manto de color verde brillante o con la melancolía de los tonos ocres, es un espacio 
+natural que ofrece la mejor lección de educación ambiental para niños (y mayores).** 
 
 ![senda del rio hayedo montejo](https://fotos.etheriamagazine.com/2021/01/ruta-hayedo-montejo.jpg "Senda del Río, en Hayedo de Montejo (Madrid). © Etheria M.")
 
@@ -131,13 +131,13 @@ veces te pide tener instalado Chrome).
 ## Dónde está el Hayedo de Montejo y cómo llegar desde Madrid
 
 El hayedo está situado a unos 106 kilómetros de Madrid capital, en Montejo de la Sierra 
-(consulta la [Ruta por los pueblos de la Sierra del 
-Rincón](https://etheriamagazine.com/2020/09/15/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid/) 
-al final de este artículo). Allí se sitúa el C_entro de Recursos e Información de la 
-Reserva de la Biosfera Sierra del Rincón_ (Real, 64). Es útil pasarse para obtener 
-algunos folletos, mapas de la zona, rutas senderistas por la comarca y resolver dudas. 
-También se puede llamar por teléfono (918 697 058) y amablemente informan de todo, en 
-horario de mañana. Antes de la etapa Covid, allí se entregaban algunos pases de día. 
+(consulta la {{< reflink 
+path=posts/2020/09/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid >}} al final 
+de este artículo). Allí se sitúa el C_entro de Recursos e Información de la Reserva de 
+la Biosfera Sierra del Rincón_ (Real, 64). Es útil pasarse para obtener algunos 
+folletos, mapas de la zona, rutas senderistas por la comarca y resolver dudas. También 
+se puede llamar por teléfono (918 697 058) y amablemente informan de todo, en horario de 
+mañana. Antes de la etapa Covid, allí se entregaban algunos pases de día. 
 
 Para llegar al **Hayedo de Montejo desde Madrid** se debe seguir la A1 hasta la salida 
 76 y luego tomar la M-137 que te dejará en Montejo de la Sierra. Cruza el pueblo, y toma 
@@ -167,11 +167,9 @@ realizamos la segunda y para personas mayores es complicada.
 
 ## Otros hayedos y rutas
 
-[Rutas en el hayedo encantado de Urbasa y en Urederra 
-(Navarra)](https://etheriamagazine.com/2020/10/05/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra/). 
+{{< reflink path=posts/2020/10/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}. 
 
-[Sierra del Rincón, una bonita escapada a los pueblos y hayedos de 
-Madrid](https://etheriamagazine.com/2020/09/15/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid/). 
+{{< reflink path=posts/2020/09/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid 
+>}}. 
 
-[Rutas por 10 bosques españoles a los que el otoño saca su mejor 
-cara](https://etheriamagazine.com/2021/09/15/rutas-por-10-bosques-espanoles-en-otono/).
+{{< reflink path=posts/2024/09/rutas-por-10-bosques-espanoles-en-otono >}}.

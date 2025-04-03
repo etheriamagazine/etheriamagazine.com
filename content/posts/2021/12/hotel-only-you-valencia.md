@@ -1,7 +1,7 @@
 ---
 title: "Only YOU Valencia, un hotel donde no sólo querrás dormir"
 date: 2021-12-21
-coverImage: https://fotos.etheriamagazine.com/2021/12/Only-YOU-Hotel-Valencia-exterior.jpg
+cover: https://fotos.etheriamagazine.com/2021/12/Only-YOU-Hotel-Valencia-exterior.jpg
 categories: 
   - hoteles
 destino: 
@@ -81,9 +81,9 @@ ese aspecto tan cuidado.
 
 #### Una sastrería a medida
 
-Otro concepto original que se introduce en este hotel, en la entreplanta, es la [sastrería 
-de Tom Black](https://tomblack.es/). Esta es la primera de la firma madrileña en 
-Valencia y ofrece un servicio de sastrería a medida. Como curiosidad comentarte que, 
+Otro concepto original que se introduce en este hotel, en la entreplanta, es la 
+[sastrería de Tom Black](https://tomblack.es/). Esta es la primera de la firma madrileña 
+en Valencia y ofrece un servicio de sastrería a medida. Como curiosidad comentarte que, 
 además de hacer trajes a medida, también asesoran en cuanto a estilismos e imagen y han 
 sido los encargados de vestir al jurado de Masterchef o de hacer los uniformes de los 
 empleados del restaurante de Paco Roncero, en el Casino de Madrid. 
@@ -150,11 +150,8 @@ Precio doble desde 160 euros
 
 ### En Valencia también te puede interesar...
 
-[Las Arenas Balneario Resort, un hotel de lujo en Valencia hecho para 
-disfrutar](https://etheriamagazine.com/2021/04/08/hotel-lujo-valencia-las-arenas-balneario-resort/). 
+{{< reflink path=posts/2021/04/hotel-lujo-valencia-las-arenas-balneario-resort >}}. 
 
-[Planes originales para disfrutar de Valencia con 
-amigas](https://etheriamagazine.com/2020/09/18/planes-originales-valencia-con-amigas/). 
+{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}}. 
 
-[Escapada a Valencia con 
-amigas](https://etheriamagazine.com/2018/12/04/un-viaje-a-valencia-con-amigas/).
+{{< reflink path=posts/2018/12/un-viaje-a-valencia-con-amigas >}}.

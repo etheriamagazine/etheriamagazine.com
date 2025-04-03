@@ -1,7 +1,7 @@
 ---
 title: "Jamaica, plató de cine: del Agente 007 al Lago Azul"
 date: 2019-03-15
-coverImage: https://fotos.etheriamagazine.com/2019/03/jamaica-mujeres-viajeras.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/jamaica-mujeres-viajeras.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Eva Madruga
 ---
 
-Más allá de sus playas de ensueño, de la música reggae y los rastafaris, esta isla 
+**Más allá de sus playas de ensueño, de la música reggae y los rastafaris, esta isla 
 caribeña es un escenario de película. Repasamos alguno de los lugares que han servido de 
-plató cinematográfico. 
+plató cinematográfico.** 
 
 ![Ursula Andress en Agente 007 contra el Dr. No](https://fotos.etheriamagazine.com/2019/03/fotograma-dr-no-jamaica.jpg "Ursula Andress en Agente 007 contra el Dr. No")
 
@@ -145,8 +145,6 @@ Fotos: Film Jamaica y Jamaica Tourism Board.
 
 ### Además del turismo de cine en Jamaica...
 
-[Despierta tu lado más friki: 9 destinos de cine y 
-series](https://etheriamagazine.com/2020/03/20/viajes-sin-salir-de-casa-destinos-cine-y-series/) 
+{{< reflink path=posts/2020/03/viajes-sin-salir-de-casa-destinos-cine-y-series >}} 
 
-[Malta, el Hollywood del 
-Mediterráneo](https://etheriamagazine.com/2019/06/14/viajes-cine-malta-hollywood-mediterraneo/)
+{{< reflink path=posts/2019/06/viajes-cine-malta-hollywood-mediterraneo >}}

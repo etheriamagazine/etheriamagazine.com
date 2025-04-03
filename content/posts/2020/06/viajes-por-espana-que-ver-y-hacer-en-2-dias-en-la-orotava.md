@@ -1,7 +1,7 @@
 ---
 title: "Descubre la dulzura de La Orotava (Tenerife)"
 date: 2020-06-20
-coverImage: https://fotos.etheriamagazine.com/2020/06/orotava-iglesia-concepcion.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/orotava-iglesia-concepcion.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -48,8 +48,8 @@ mudéjar, barroco y neoclásico conviven en armónica arquitectura.
 ### Casa de los Balcones
 
 A un agradable paseo desde la plaza de la Constitución se encuentra un exponente 
-grandioso que muestra cómo los ebanistas canarios hacen obras de arte con la madera: la [Casa 
-de los Balcones](https://casa-balcones.com/). 
+grandioso que muestra cómo los ebanistas canarios hacen obras de arte con la madera: la 
+[Casa de los Balcones](https://casa-balcones.com/). 
 
 Alberga tres mansiones solariegas: la **Casa Eladia Machado** donde disfrutar de la 
 artesanía canaria en vivo, incluidas las alfombras de arena volcánica de la Galería de 
@@ -198,8 +198,8 @@ los pasos hacia el Teide.
 ## Parque Nacional del Teide
 
 No se puede dejar La Orotava sin visitar el Teide, ese volcán que la observa y la 
-ampara. A 35 kilómetros de la ciudad, unas tres horitas en coche, se encuentra el [Parque 
-Nacional del 
+ampara. A 35 kilómetros de la ciudad, unas tres horitas en coche, se encuentra el 
+[Parque Nacional del 
 Teide](https://www.tenerife.es/portalcabtfe/es/descubre-tenerife/que-ver/parque-nacional-del-teide), 
 un espacio donde disfrutar de un buen paseo por su excelsa naturaleza, y comer en un 
 _guachinche_. Uno muy recomendable es **El Miradero**, que ofrece unas vistas 
@@ -224,26 +224,24 @@ del 21 de junio se podrá volar.
 
 ##### No te pierdas las Fiestas de la Orotava
 
-• Las **Fiestas en la Orotava** ocupan un lugar privilegiado en la villa durante todo el 
+- Las **Fiestas en la Orotava** ocupan un lugar privilegiado en la villa durante todo el 
 año. Los 40.000 habitantes de La Orotava, y sus muchos visitantes, las esperan y se 
 vuelcan en ellas, con sus alfombras de flores y de arenas volcánicas, típicas en las 
 Fiestas del Corpus Christi y la Romería de San Isidro. 
 
-• En honor a la **Virgen del Carmen** (16 julio), la imagen de madera de Nuestra Señora 
+- En honor a la **Virgen del Carmen** (16 julio), la imagen de madera de Nuestra Señora 
 del Carmen Coronada, desciende hasta la plaza del Ayuntamiento. 
 
-• La **Vendimia** se celebra en octubre, especialmente en el barrio de La Perdoma, que 
+- La **Vendimia** se celebra en octubre, especialmente en el barrio de La Perdoma, que 
 la festeja por todo lo alto. El mercadillo navideño se monta en la plaza de la 
 Constitución. Y cuando llega el legendario **Carnaval,** los disfraces detallados y 
 curiosos son dignos de verse. 
 
 ### También te puede interesar en Tenerife...
 
-[10 planes para un viaje a Tenerife con 
-amigas](https://etheriamagazine.com/2021/05/17/viaje-a-tenerife-con-amigas-que-hacer-excursiones/). 
+{{< reflink path=posts/2021/05/viaje-a-tenerife-con-amigas-que-hacer-excursiones >}}. 
 
-[Los tajinastes en flor, el gran espectáculo natural de 
-Tenerife](https://etheriamagazine.com/2019/05/14/que-ver-tenerife-donde-cuando-tajinaste-en-flor/). 
+{{< reflink path=posts/2019/05/que-ver-tenerife-donde-cuando-tajinaste-en-flor >}}. 
 
-[8 excursiones con niños desde el sur de 
-Tenerife](https://etheriamagazine.com/2020/03/06/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos/).
+{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
+>}}.

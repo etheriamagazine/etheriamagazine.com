@@ -1,7 +1,7 @@
 ---
 title: "12 buenas excusas para viajar en 2022"
 date: 2022-01-07
-coverImage: https://fotos.etheriamagazine.com/2022/01/museo-Munch.jpg
+cover: https://fotos.etheriamagazine.com/2022/01/museo-Munch.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -11,12 +11,12 @@ authors:
   - Redacción Etheria
 ---
 
-Comenzar un nuevo año es como disponer de un lienzo en blanco en el que ir esbozando el 
-motivo principal y eligiendo los colores. Para esos apuntes previos hemos elegido 
+**Comenzar un nuevo año es como disponer de un lienzo en blanco en el que ir esbozando 
+el motivo principal y eligiendo los colores. Para esos apuntes previos hemos elegido 
 destinos que son idóneos por sus novedades, su apertura al turismo o, simplemente, 
 porque merece la pena que los descubras cuanto antes. 12 destinos y 12 motivos para 
 viajar en 2022 (aunque tú y yo sabemos que para hacer una escapada no hacen falta 
-justificaciones). 
+justificaciones).** 
 
 ![gran museo egipto viajar en 2022](https://fotos.etheriamagazine.com/2022/01/Grand-Egyptian-Museum.jpg "© Gran Museo Egipcio")
 
@@ -54,8 +54,8 @@ Tanto si deseas vivir una experiencia reflexiva y en soledad como si lo que busc
 compartir un itinerario histórico-religioso con tu entorno más cercano, hacer el Camino 
 Jacobeo puede ser una vivencia inolvidable. Una de las últimas vías reconocidas 
 oficialmente ha sido el Camino de Santiago marítimo, del que ya te hablamos en este 
-artículo: [Camino de Santiago por la Ría de Muros-Noia, una aventura a toda 
-vela](https://etheriamagazine.com/2021/07/14/camino-de-santiago-ria-de-muros-noia-en-velero/). 
+artículo: {{< reflink path=posts/2021/07/camino-de-santiago-ria-de-muros-noia-en-velero 
+>}}. 
 
 ![viaje ninos paris, que hacer en disneyland, diversion en disneyland](https://fotos.etheriamagazine.com/2018/10/Disneyland-viaje-familia-7.jpg "Disneyland Paris.")
 
@@ -108,8 +108,8 @@ aluminio traslúcido. En tu visita no te pierdas la obra más icónica de Edvard
 Grito_, cuyas tres versiones se exponen en una misma sala como parte de la colección 
 permanente. 
 
-📌 Si es tu primera visita, sigue leyendo: [Oslo: Qué ver en una primera 
-visita.](https://etheriamagazine.com/2020/01/24/viajes-con-amigas-que-ver-y-hacer-en-oslo/) 
+📌 Si es tu primera visita, sigue leyendo: {{< reflink 
+path=posts/2020/01/viajes-con-amigas-que-ver-y-hacer-en-oslo >}} 
 
 ![gran telescopio canaras, estrellas la palma, astroturismo](https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-mirador-telescopio-canarias.jpg "Gran Telescopio Canarias. © Toño González")
 
@@ -121,9 +121,8 @@ que este año 2022 tengas esta isla canaria entre tus destinos predilectos, a lo
 palmeros les vendrá bien para recuperar su economía y tú descubrirás una de las islas 
 más bonitas y exuberantes del Atlántico. Cuando aún humeaba el volcán visitamos La Palma 
 para recordarte que sus atractivos seguían ahí, envueltos en laurisilva o entre un mar 
-de nubes, y esto fue lo que te contamos: [10 poderosas razones para viajar a La Palma (y 
-ninguna es el 
-volcán).](https://etheriamagazine.com/2021/11/15/10-razones-para-visitar-la-palma/) 
+de nubes, y esto fue lo que te contamos: {{< reflink 
+path=posts/2021/11/10-razones-para-visitar-la-palma >}} 
 
 ![agra india](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-Agra-2.jpg "Taj Mahal, en India. © Juan Carlos Muñpz")
 
@@ -131,21 +130,20 @@ volcán).](https://etheriamagazine.com/2021/11/15/10-razones-para-visitar-la-pal
 
 Aunque para viajar a la India no se necesitan excusas, debes saber que el 15 de agosto 
 de 2022 se cumplirán 75 años de su independencia. Sobre este país ya te hemos hablado en 
-el artículo de '[10 colores de 
-Rajastán](https://etheriamagazine.com/2020/01/29/viaje-para-mujeres-que-ver-norte-india-rajastan/)' 
-de la periodista Mar Ramírez, además de ofreceros buenos consejos para [viajar a la 
-India cuando se es 
-mujer](https://etheriamagazine.com/2018/10/19/viajar-sola-o-con-amigas-a-india/). ¿Estás 
-dispuesta a brindar el próximo verano en este país? 
+el artículo de '{{< reflink 
+path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}}' de la periodista 
+Mar Ramírez, además de ofreceros buenos consejos para {{< reflink 
+path=posts/2018/10/viajar-sola-o-con-amigas-a-india >}}. ¿Estás dispuesta a brindar el 
+próximo verano en este país? 
 
 ![museo corpus, viaje leiden](https://fotos.etheriamagazine.com/2019/11/viaje-leiden-museo-corpus.jpg "Museo Corpus, en Leiden. © P.Grifol")
 
 ## 10\. Descubrir la faceta científica de Leiden
 
 Aunque de Leiden conocemos fundamentalmente su faceta artística, como ya te comentamos 
-en el artículo de ‘[La cuna de 
-Rembrand’](https://etheriamagazine.com/2019/11/14/que-ver-en-leiden-holanda-ruta-de-rembrandt-por-libre/), 
-esta ciudad de Países Bajos ha sido reconocida como **Capital Europea de la Ciencia de 
+en el artículo de ‘{{< reflink 
+path=posts/2019/11/que-ver-en-leiden-holanda-ruta-de-rembrandt-por-libre >}}, esta 
+ciudad de Países Bajos ha sido reconocida como **Capital Europea de la Ciencia de 
 2022**. No olvidemos que por su universidad han pasado hasta dieciséis premios Nobel. 
 Durante todo el año se realizarán actividades, exposiciones, congresos y decenas de 
 eventos de gran interés. 
@@ -160,8 +158,7 @@ una pequeña población de la serranía gaditana cuyas casas blancas, calles emp
 perfil monumental ha enamorado a los votantes. Si eres una enamorada del turismo rural, 
 lo idóneo es organizar una ruta por los **Pueblos blancos de Cádiz** para conocer tanto 
 Olvera como el resto de poblaciones que forman el itinerario. De esta ruta ya te 
-hablamos en [Ruta en coche por 12 preciosos pueblos blancos de 
-Cádiz](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/). 
+hablamos en {{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}}. 
 
 ![Humboldt Forum berlin viajar en 2022](https://fotos.etheriamagazine.com/2021/09/Berlin-Humboldt-Forum.jpg "Humboldt Forum.© Visit Berlin/Chris Martin Scholl")
 
@@ -173,17 +170,14 @@ Humboldt y la historia del espacio donde se ubica, que fue en su día el Palacio
 Berlín y perteneció a la dinastía de los Hohenzollern. Para la primavera de 2022 está 
 prevista la inauguración del Monumento a la Libertad y la Unidad, con la que se 
 conmemora la revolución pacífica y la caída del Muro de Berlín de 1989. Puedes conocer 
-otras novedades de Berlín o sus visitas de interés en este artículo “[Berlín, de la 
-caricia al 
-tortazo](https://etheriamagazine.com/2018/11/12/viaje-al-berlin-mas-divertido-interesante-sobrecogedor/)”. 
+otras novedades de Berlín o sus visitas de interés en este artículo “{{< reflink 
+path=posts/2018/11/viaje-al-berlin-mas-divertido-interesante-sobrecogedor >}}”. 
 
 ### También te puede interesar...
 
-[Valle de Chistau, descubre las mejores rutas en el cielo 
-aragonés](https://etheriamagazine.com/2021/12/07/valle-de-chistau-huesca/). 
+{{< reflink path=posts/2021/12/valle-de-chistau-huesca >}}. 
 
-[10 estaciones de esquí en España donde estirar el presupuesto al 
-máximo](https://etheriamagazine.com/2021/11/25/10-estaciones-de-esqui-mas-baratas-de-espana-2021-2022/). 
+{{< reflink path=posts/2021/11/10-estaciones-de-esqui-mas-baratas-de-espana-2021-2022 
+>}}. 
 
-[5 paisajes españoles vistos desde otra 
-perspectiva](https://etheriamagazine.com/2020/04/10/viajar-desde-casa-5-miradas-inspiradoras-en-espana/).
+{{< reflink path=posts/2020/04/viajar-desde-casa-5-miradas-inspiradoras-en-espana >}}.

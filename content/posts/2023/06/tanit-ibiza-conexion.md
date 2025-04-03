@@ -1,7 +1,7 @@
 ---
 title: "Tanit Ibiza Conexion, una apuesta por el liderazgo femenino en Ibiza"
 date: 2023-06-02
-coverImage: https://fotos.etheriamagazine.com/2023/05/Tanit-fundadoras.jpg
+cover: https://fotos.etheriamagazine.com/2023/05/Tanit-fundadoras.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-En una isla tan volcada al turismo como Ibiza era necesario poner en valor el trabajo de 
-las mujeres que se dedican a este sector. Para ello, Alicia Reina y Eva Ballarín han 
+**En una isla tan volcada al turismo como Ibiza era necesario poner en valor el trabajo 
+de las mujeres que se dedican a este sector. Para ello, Alicia Reina y Eva Ballarín han 
 creado Tanit Ibiza Conexion, un proyecto que ya ha entregado sus primeros premios y que 
-pone el foco en el liderazgo femenino en esta isla. 
+pone el foco en el liderazgo femenino en esta isla.** 
 
 ![Eva Ballarín y Alicia Reina, fundadora de Tanit Ibiza Conexion](https://fotos.etheriamagazine.com/2023/05/Tanit-fundadoras.jpg "Eva Ballarín y Alicia Reina, fundadoras de © Tanit Ibiza Conexion.")
 
@@ -117,11 +117,9 @@ Conexion](https://www.tanitibizaconexion.com).
 
 **También te puede interesar:** 
 
-[Santa Eulària des Riu, el municipio de Ibiza más 
-‘hippy-sostenible’](https://etheriamagazine.com/2023/03/03/santa-eularia-des-riu-ibiza/) 
+{{< reflink path=posts/2023/03/santa-eularia-des-riu-ibiza >}} 
 
-[20 restaurantes románticos de Ibiza para ir en 
-pareja](https://etheriamagazine.com/2020/02/14/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja/) 
+{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
+>}} 
 
-[10 errores que debes evitar si vas a Ibiza con 
-amigas](https://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/)
+{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}

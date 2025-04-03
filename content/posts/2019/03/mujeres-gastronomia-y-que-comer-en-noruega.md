@@ -1,7 +1,7 @@
 ---
 title: "Gastronomía noruega, cocineros premiados y el mejor producto"
 date: 2019-03-28
-coverImage: https://fotos.etheriamagazine.com/2019/03/Restaurante-Maaemo-e1552995165298.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/Restaurante-Maaemo-e1552995165298.jpg
 categories: 
   - gourmet
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Alfredo G. Reyes
 ---
 
-Ingrid Espelid está considerada la madre de la cocina noruega y Heidi Bjerkan ha sido la 
-primera chef del país en recibir una estrella Michelin. Queda claro que en la 
+**Ingrid Espelid está considerada la madre de la cocina noruega y Heidi Bjerkan ha sido 
+la primera chef del país en recibir una estrella Michelin. Queda claro que en la 
 gastronomía noruega las féminas tienen mucho que decir. Te hablaremos de cocineros, 
 restaurantes y productos que no debes perderte. Entre ellos, el queso marrón (sí, 
-marrón). 
+marrón).** 
 
 ![Mujeres en el restaurante Hall Toll de Noruega](https://fotos.etheriamagazine.com/2019/03/gastronomia-noruega.jpg "Restaurante Hall Toll, Stavanger. © CH/ visitnorway.com")
 
@@ -144,11 +144,8 @@ Noruega.](http://www.visitnorway.es/que-hacer-en-noruega/saborea-noruega)
 
 📌 **También te puede interesar:** 
 
-[Trondheim, Bergen y Oslo, las 3 capitales de 
-Noruega](https://etheriamagazine.com/2020/01/24/que-ver-en-noruega-trondheim-bergen-y-oslo/) 
+{{< reflink path=posts/2020/01/que-ver-en-noruega-trondheim-bergen-y-oslo >}} 
 
-[Prepara tu viaje a Noruega: libros y películas para ante de 
-viajar](https://etheriamagazine.com/2020/08/18/prepara-tu-viaje-libros-series-de-noruega/) 
+{{< reflink path=posts/2020/08/prepara-tu-viaje-libros-series-de-noruega >}} 
 
-[9 motivos para viajar a 
-Noruega](https://etheriamagazine.com/2020/07/15/9-motivos-para-viajar-a-noruega/)
+{{< reflink path=posts/2020/07/9-motivos-para-viajar-a-noruega >}}

@@ -1,7 +1,7 @@
 ---
 title: "Lo que unió al Che Guevara y Manuel de Falla en Alta Gracia (Argentina)"
 date: 2019-02-20
-coverImage: https://fotos.etheriamagazine.com/2019/02/Viaje-cordoba-che-guevara.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/Viaje-cordoba-che-guevara.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Kelu Robles
 ---
 
-Unos árboles frutales tuvieron la culpa del peculiar encuentro de Manuel de Falla y Che 
-Guevara en un lugar que ha hechizado a indígenas, religiosos, revolucionarios y 
+**Unos árboles frutales tuvieron la culpa del peculiar encuentro de Manuel de Falla y 
+Che Guevara en un lugar que ha hechizado a indígenas, religiosos, revolucionarios y 
 artistas. El misticismo manda en esta parte de Argentina que aún está por descubrir para 
-el gran público. Os contamos los encantos de los que presume. 
+el gran público. Os contamos los encantos de los que presume.** 
 
 ![Estancia de Alta Gracia.](https://fotos.etheriamagazine.com/2019/02/Viaje-cordoba-che-guevara.jpg "Estancia de Alta Gracia. © Kelu Robles")
 
@@ -174,11 +174,9 @@ Web Oficial de [Turismo de Córdoba.](http://www.cordobaturismo.gov.ar)
 
 ## También te puede interesar:
 
-[Ruta 
-en](https://etheriamagazine.com/2019/04/26/viajar-sola-amigas-ruta-vino-bodegas-de-mendoza-argentina/) 
-[a](https://etheriamagazine.com/2019/04/26/viajar-sola-amigas-ruta-vino-bodegas-de-mendoza-argentina/)[utobús 
-por las bodegas de Mendoza 
-(Argentina)](https://etheriamagazine.com/2019/04/26/viajar-sola-amigas-ruta-vino-bodegas-de-mendoza-argentina/) 
+{{< reflink path=posts/2019/04/viajar-sola-amigas-ruta-vino-bodegas-de-mendoza-argentina 
+>}} {{< reflink 
+path=posts/2019/04/viajar-sola-amigas-ruta-vino-bodegas-de-mendoza-argentina >}}{{< 
+reflink path=posts/2019/04/viajar-sola-amigas-ruta-vino-bodegas-de-mendoza-argentina >}} 
 
-[Un paseo por la Belle Époque de Buenos 
-Aires](https://etheriamagazine.com/2019/07/05/que-ver-buenos-aires-belle-epoque-viajar-sola/)
+{{< reflink path=posts/2019/07/que-ver-buenos-aires-belle-epoque-viajar-sola >}}

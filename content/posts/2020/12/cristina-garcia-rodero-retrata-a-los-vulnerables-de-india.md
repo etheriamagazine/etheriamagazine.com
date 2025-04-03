@@ -1,7 +1,7 @@
 ---
 title: "'Tierra de sueños', la   realidad agridulce que retrata García Rodero"
 date: 2020-12-26
-coverImage: https://fotos.etheriamagazine.com/2020/12/apertura-tierra-suenos-etheria.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/apertura-tierra-suenos-etheria.jpg
 categories: 
   - cultura
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-Cristina García Rodero se sumerge en el asimétrico mundo rural de la India y nos lo 
+**Cristina García Rodero se sumerge en el asimétrico mundo rural de la India y nos lo 
 muestra en ‘Tierra de sueños’. Cada una de sus instantáneas congela momentos en la vida 
 de mujeres y de otros seres vulnerables de la India. Ellas representan la esperanza de 
 la transformación social que necesita el país. Estará en CaixaForum Sevilla hasta el 25 
-de enero de 2021. 
+de enero de 2021.** 
 
 ![tierra de suenos expo de garcia rodero](https://fotos.etheriamagazine.com/2020/12/tierra-suenos-garcia-rodero-1.jpg "Exposición 'Tierra de sueños'. © García Rodero")
 
@@ -104,11 +104,8 @@ enero. El 24 y 31 de diciembre, y el 5 de enero, el horario es de 10 a 18 h **Pr
 
 ### También te puede interesar...
 
-[10 planes inolvidables en Sevilla con amigas o en 
-pareja](https://etheriamagazine.com/2020/09/28/10-mejores-planes-en-sevilla-con-amigas-o-pareja/). 
+{{< reflink path=posts/2020/09/10-mejores-planes-en-sevilla-con-amigas-o-pareja >}}. 
 
-[Novotel Sevilla, un hotel donde el tiempo está de tu 
-parte](https://etheriamagazine.com/2019/05/09/donde-dormir-hotel-novotel-sevilla/). 
+{{< reflink path=posts/2019/05/donde-dormir-hotel-novotel-sevilla >}}. 
 
-[Sevilla, la escapada perfecta a la 
-andaluza](https://etheriamagazine.com/2019/02/04/viajar-con-amigas-sevilla/).
+{{< reflink path=posts/2019/02/viajar-con-amigas-sevilla >}}.

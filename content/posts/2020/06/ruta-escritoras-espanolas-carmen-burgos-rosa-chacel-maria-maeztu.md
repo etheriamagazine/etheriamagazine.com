@@ -1,7 +1,7 @@
 ---
 title: "Ruta por la España de las grandes escritoras del siglo XX (2ª parte)"
 date: 2020-06-26
-coverImage: https://fotos.etheriamagazine.com/2020/06/2-cubierta-la-mujer-moderna.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/2-cubierta-la-mujer-moderna.jpg
 categories: 
   - historias
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pilar Ortega
 ---
 
-Carmen de Burgos, Rosa Chacel y María de Maeztu son las literatas que hemos seleccionado 
-para esta segunda entrega de nuestra 'Ruta por la España de las grandes escritoras del 
-siglo XX'. Visitaremos Almería, Valladolid y Vitoria en busca de las huellas que dejaron 
-la rebeldía y la buena pluma de estas escritoras. 
+**Carmen de Burgos, Rosa Chacel y María de Maeztu son las literatas que hemos 
+seleccionado para esta segunda entrega de nuestra 'Ruta por la España de las grandes 
+escritoras del siglo XX'. Visitaremos Almería, Valladolid y Vitoria en busca de las 
+huellas que dejaron la rebeldía y la buena pluma de estas escritoras.** 
 
 ![Carmen de Burgos, la mujer moderna y sus derechos, almeria](https://fotos.etheriamagazine.com/2020/06/cubierta-la-mujer-moderna.jpg "Fragmento de la cubierta de 'La mujer moderna y sus derechos', de Carmen de Burgos (Edit. Huso Ensayos).")
 
@@ -156,8 +156,9 @@ enseñanza y promoción de las mujeres.
 
 **También te puede interesar...** 
 
-✅ [Ruta por la España de las grandes escritoras del siglo XX (Parte 
-I)](https://etheriamagazine.com/2020/06/15/viaje-por-la-espana-de-las-grandes-escritoras-del-siglo-xx/) 
+✅ {{< reflink 
+path=posts/2020/06/viaje-por-la-espana-de-las-grandes-escritoras-del-siglo-xx >}} 
 
-✅ [III Ruta por la España de las grandes escritoras del siglo 
-XX](https://etheriamagazine.com/2020/09/14/escritoras-siglo-xx-maria-moliner-ana-maria-matute-carmen-martin-gaite/)
+✅ {{< reflink 
+path=posts/2020/09/escritoras-siglo-xx-maria-moliner-ana-maria-matute-carmen-martin-gaite 
+>}}

@@ -1,7 +1,7 @@
 ---
 title: "Mogarraz se retrata, así es el pueblo de las 800 caras de Salamanca"
 date: 2019-10-07
-coverImage: https://fotos.etheriamagazine.com/2019/09/mogarraz-portada.jpg
+cover: https://fotos.etheriamagazine.com/2019/09/mogarraz-portada.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -30,9 +30,8 @@ había adquirido en las islas.
 Sin saberlo, con esta acción cambiaría para siempre el futuro de su pueblo. E incluso el 
 suyo propio. Años más tarde se convirtió en el primer alcalde en democracia de Mogarraz. 
 
-No te pierdas... [La Ruta del Vino de la Sierra de Francia, un viaje ideal para hacer 
-con amigas o con quien 
-quieras.](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/) 
+No te pierdas... {{< reflink 
+path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}} 
 
 ![Cada retrato lleva inscrito el nombre del protagonista.](https://fotos.etheriamagazine.com/2019/09/mogarraz-cerca.jpg "Cada retrato lleva inscrito el nombre del protagonista. ©KR")
 

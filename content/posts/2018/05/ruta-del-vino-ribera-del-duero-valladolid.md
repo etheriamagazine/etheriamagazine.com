@@ -1,7 +1,7 @@
 ---
 title: "Ruta por Ribera del Duero: de bodega en bodega por la N-122"
 date: 2018-05-21
-coverImage: https://fotos.etheriamagazine.com/2018/05/Finca-Villacreces.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Finca-Villacreces.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,12 @@ authors:
   - Vanesa Viñolo
 ---
 
-Ribera del Duero es una de las denominaciones más prestigiosas de España. Sus viñas 
+**Ribera del Duero es una de las denominaciones más prestigiosas de España. Sus viñas 
 comparten términos en Soria, Burgos, Segovia y Valladolid. En total, 115 kilómetros de 
 largo y 35 de ancho vertebrados por el Duero, este río del vino que convierte en oro 
 todo lo que toca. Dentro de esta amplia extensión, hoy quiero que recorramos juntos unos 
-15 kilómetros, los que unen Soria, Peñafiel y Tudela de Duero a través de la carretera. 
+15 kilómetros, los que unen Soria, Peñafiel y Tudela de Duero a través de la 
+carretera.** 
 
 ![Picnic sobre dos ruedas, una de las experiencias de Finca Villacreces.](https://fotos.etheriamagazine.com/2018/05/picnic-Finca-Villacreces.jpg "Picnic sobre dos ruedas, una de las experiencias de © Finca Villacreces.")
 
@@ -101,8 +102,9 @@ los premios de la prestigiosa revista Decanter, por ejemplo).
 
 ### Abadía Retuerta
 
-A un lado de la carretera, el monasterio del siglo XII reconvertido en el hotel de lujo [Le 
-Domaine](https://etheriamagazine.com/2019/11/13/viajes-romanticos-hotel-le-domaine-abadia-retuerta-valladolid/) 
+A un lado de la carretera, el monasterio del siglo XII reconvertido en el hotel de lujo 
+{{< reflink 
+path=posts/2019/11/viajes-romanticos-hotel-le-domaine-abadia-retuerta-valladolid >}} 
 (con restaurante con estrella Michelin incluida); al otro lado, las viñas y la bodega, 
 donde se elaboran algunos de mis vinos favoritos, como su Petit Verdot, el Selección 
 Especial o ese Blanco Le Domaine que me tiene loca. Esta es una parada imprescindible en 
@@ -191,11 +193,9 @@ también).
 
 **También te puede interesar** 
 
-[¿Por qué se come tan bien en 
-Valladolid?](https://etheriamagazine.com/2019/01/31/bares-imprescindibles-finde-valladolid/) 
+{{< reflink path=posts/2019/01/bares-imprescindibles-finde-valladolid >}} 
 
-[Conoce Urueña, un pueblo ‘de libro’ en 
-Valladolid](https://etheriamagazine.com/2020/05/22/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid/) 
+{{< reflink path=posts/2020/05/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid 
+>}} 
 
-[32 excursiones de un día donde la cultura y el vino se dan la 
-mano](https://etheriamagazine.com/2021/04/13/32-excursiones-de-un-dia-en-rutas-vino-espana/)
+{{< reflink path=posts/2021/04/32-excursiones-de-un-dia-en-rutas-vino-espana >}}

@@ -1,7 +1,7 @@
 ---
 title: "Tres rutas para recorrer Varsovia, una ciudad sorprendente"
 date: 2021-03-05
-coverImage: https://fotos.etheriamagazine.com/2021/03/varsovia-musica-clasica.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/varsovia-musica-clasica.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -46,8 +46,9 @@ Ciencia**. Este edificio es el más alto de la ciudad, tiene un mirador con espl
 vistas y tres mil habitaciones que albergan la Academia de la Ciencia, oficinas, 
 galerías y varios espacios de recreo. Su antecesor en altura fue el **edificio 
 Prudential**, todo un mito cuando se construyó en 1934. Revolucionó Europa con su antena 
-de televisión y, tras muchas vueltas, se ha convertido en el el [Warszawa](https://warszawa.hotel.com.pl/hotel-warszawa/), 
-uno de los hoteles céntricos más atractivos de la ciudad. 
+de televisión y, tras muchas vueltas, se ha convertido en el el 
+[Warszawa](https://warszawa.hotel.com.pl/hotel-warszawa/), uno de los hoteles céntricos 
+más atractivos de la ciudad. 
 
 ### Varso Tower, un proyecto de Norman Foster
 
@@ -163,8 +164,8 @@ Esta recorrido se puede empezar en la Ciudad Nueva, sin dejar de echar un buen v
 la casa de una de las mujeres más relevantes de Polonia, Maria Sklodowska, Madame Curie, 
 que hoy alberga el museo de su vida y de su ciencia. La barbacana de ladrillo rojo hace 
 de frontera con la Ciudad Vieja, pintoresca y animada con tiendas de artesanía y 
-restaurantes por doquier, como el aristocrático [Bazyliszek](https://bazyliszek.waw.pl/), 
-de ambiente palaciego y cuidada gastronomía. 
+restaurantes por doquier, como el aristocrático 
+[Bazyliszek](https://bazyliszek.waw.pl/), de ambiente palaciego y cuidada gastronomía. 
 
 ![castillo real y columna Segismundo en Varsovia](https://fotos.etheriamagazine.com/2021/03/castillo-real-columna-segismundo.jpg "Entrada a la Ciudad Vieja con el Castillo Real y la Columna de Segismundo III. © M. Munar")
 
@@ -299,7 +300,7 @@ Polonia](https://www.polonia.travel/es/antes-del-viaje/covid-19/la-desescalada-d
 Hay dos rutas en Varsovia que dada la situación actual son muy recomendables no solo por 
 su interés histórico y turístico sino por transcurrir al aire libre. 
 
-• **La Ruta Real,** de la que ya hemos hablado, también incluye la plaza de las Tres 
+- **La Ruta Real,** de la que ya hemos hablado, también incluye la plaza de las Tres 
 Cruces y Aleje Ujazdowski, con tiendas exclusivas y edificios renacentistas, muchos 
 convertidos en embajadas. Aquí están las sedes del Parlamento y del Senado, y el parque 
 Ujazdowski cuyo castillo homónimo acoge al [Centro de Arte 
@@ -319,13 +320,10 @@ complemento de su [museo](https://nifc.pl/en/) anexo.
 
 ### También en Polonia...
 
-[Descubre Zakopane, su 
-arquite](https://etheriamagazine.com/2021/01/27/que-ver-en-zakopane-viaje-original-polonia/)[ctura 
-de madera, sabores y estaciones de 
-esquí](https://etheriamagazine.com/2021/01/27/que-ver-en-zakopane-viaje-original-polonia/). 
+{{< reflink path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}}{{< reflink 
+path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}}. 
 
-[Sopot, la escapada al Báltico polaco entre balnearios de lujo y glamour que 
-mereces](https://etheriamagazine.com/2020/12/25/descubre-por-que-viajar-a-sopot-glamour-y-balnearios-en-polonia/). 
+{{< reflink 
+path=posts/2020/12/descubre-por-que-viajar-a-sopot-glamour-y-balnearios-en-polonia >}}. 
 
-[Sofía Casanova, una poetisa gallega en 
-Polonia](https://etheriamagazine.com/2018/09/10/la-poetisa-sofia-casanova-una-gallega-en-polonia/).
+{{< reflink path=posts/2018/09/la-poetisa-sofia-casanova-una-gallega-en-polonia >}}.

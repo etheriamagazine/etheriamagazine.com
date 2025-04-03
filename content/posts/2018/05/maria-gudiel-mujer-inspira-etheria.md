@@ -1,7 +1,7 @@
 ---
 title: "María Gudiel: \"Me gusta viajar sin agenda\""
 date: 2018-05-21
-coverImage: https://fotos.etheriamagazine.com/2018/05/Maria-Gudiel-1.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Maria-Gudiel-1.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Pepa G. Marín
 ---
 
-Guest Experience Manager del hotel Barceló Torre de Madrid, María Gudiel es una de las 
+**Guest Experience Manager del hotel Barceló Torre de Madrid, María Gudiel es una de las 
 Mujeres Etheria que nos inspiran por su trayectoria profesional en el sector hotelero y, 
-también, por la energía y pasión que inculca a todo cuanto hace. 
+también, por la energía y pasión que inculca a todo cuanto hace.** 
 
 ![María Gudiel, una de las mujeres del turismo en espana](https://fotos.etheriamagazine.com/2018/05/Maria-Gudiel-1.jpg "María Gudiel.")
 
@@ -110,5 +110,4 @@ Un kilo de libros comprados al peso en Berlín Oriental antes de la caída del m
 
 **También te puede interesar...** 
 
-[‘Ninguna mujer sin sus mil palabras de gloria’, el altavoz que 
-necesitas](https://etheriamagazine.com/2022/03/08/ayuda-mujeres-emprendedoras-turismo/).
+{{< reflink path=posts/2022/03/ayuda-mujeres-emprendedoras-turismo >}}.

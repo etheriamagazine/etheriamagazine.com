@@ -1,7 +1,7 @@
 ---
 title: "Turín con amigas: viaja a la ciudad más supersticiosa de Italia"
 date: 2021-07-16
-coverImage: https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-portada-etheria.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-portada-etheria.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Kelu Robles
 ---
 
-Turín combina emblemas tan dispares como la Sábana Santa, la magia negra o el vermú, y 
+**Turín combina emblemas tan dispares como la Sábana Santa, la magia negra o el vermú, y 
 vive inmersa entre palacios y soportales que la han convertido en una de las ciudades 
 más elegantes de Italia. Siéntete cien por cien turinesa siguiendo nuestros pasos. Y si 
 este año visitas Turín con amigas para asistir al Festival de Eurovisión, guarda esta 
-guía a buen recaudo. 
+guía a buen recaudo.** 
 
 ![Panorámica desde el mirador Monte dei Cappuccini.](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-portada-etheria.jpg "Panorámica desde el mirador Monte dei Cappuccini. © Kelu Robles")
 
@@ -214,11 +214,8 @@ comidas, alojamiento y traslados, consulta en este enlace:
 
 **Otros viajes en Italia** 
 
-[Qué ver en Milán en un fin de 
-semana](https://etheriamagazine.com/2018/12/21/que-ver-en-milan-en-48-horas/) 
+{{< reflink path=posts/2018/12/que-ver-en-milan-en-48-horas >}} 
 
-[Aprovecha a tope un fin de semana en 
-Florencia](https://etheriamagazine.com/2018/05/16/48-horas-en-florencia-fin-de-semana-que-ver-hacer/) 
+{{< reflink path=posts/2018/05/48-horas-en-florencia-fin-de-semana-que-ver-hacer >}} 
 
-[Esto es lo que ocurrirá si haces un viaje romántico a 
-Apulia](https://etheriamagazine.com/2019/11/25/que-ver-hacer-viaje-romantico-apulia-italia/)
+{{< reflink path=posts/2019/11/que-ver-hacer-viaje-romantico-apulia-italia >}}

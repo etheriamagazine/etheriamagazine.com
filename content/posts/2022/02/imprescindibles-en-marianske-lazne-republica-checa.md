@@ -1,7 +1,7 @@
 ---
 title: "Mariánské Lázně, el retiro termal checo que mereces"
 date: 2022-02-03
-coverImage: https://fotos.etheriamagazine.com/2022/02/hotel-novo-lazne.jpg
+cover: https://fotos.etheriamagazine.com/2022/02/hotel-novo-lazne.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -42,8 +42,8 @@ cantarina](#fuente-cantante). **4️⃣** [Probar las obleas de
 vainilla.](#obleas-marianske-lazne) **5️⃣** [Un baño romano en el hotel Nové 
 Lázně](#bano-romano-marianske). **6️⃣** [Iglesia ortodoxa rusa de San 
 Vladimiro](#iglesia-rusa-marianske). **7️⃣** [Dónde comer en Mariánské 
-Lázně](#restaurantes-marianske-lazne). **8️⃣** [Piscina Lido](#piscina-lido). **9️⃣** [Visitar 
-Kladska.](#excursion-kladska) **🔟** [Excursiones desde Mariánské 
+Lázně](#restaurantes-marianske-lazne). **8️⃣** [Piscina Lido](#piscina-lido). **9️⃣** 
+[Visitar Kladska.](#excursion-kladska) **🔟** [Excursiones desde Mariánské 
 Lázně](#excursion-karlovy-vary). 
 
 ![marianske lazne una ciudad rodeada de bosques](https://fotos.etheriamagazine.com/2022/02/marianske-lazne-bosques.jpg "Mariánské Lázně, una ciudad rodeada de bosques. © Pepa García")
@@ -241,12 +241,9 @@ completa](https://elpais.com/diario/2002/05/04/babelia/1020469818_850215.html)).
 
 ### También te puede interesar...
 
-[Karlovy Vary, Mariánské Lázně y Františkovy Lázně, descubre el secreto de la eterna 
-juventud en 
-Chequia](https://etheriamagazine.com/2021/08/13/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy/). 
+{{< reflink 
+path=posts/2021/08/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy >}}. 
 
-[Karlovy Vary, la ciudad balnearia checa que Goethe visitó 13 
-veces](https://etheriamagazine.com/2021/12/09/que-ver-en-karlovy-vary-la-ciudad-balnearia-checa/). 
+{{< reflink path=posts/2021/12/que-ver-en-karlovy-vary-la-ciudad-balnearia-checa >}}. 
 
-[10 imprescindibles para despertar tu romanticismo en República 
-Checa](https://etheriamagazine.com/2018/12/11/10-estampas-romanticas-de-republica-checa/).
+{{< reflink path=posts/2018/12/10-estampas-romanticas-de-republica-checa >}}.

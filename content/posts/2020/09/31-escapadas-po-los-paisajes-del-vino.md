@@ -1,7 +1,7 @@
 ---
 title: "31 escapadas para descubrir este otoño los paisajes del vino"
 date: 2020-09-07
-coverImage: https://fotos.etheriamagazine.com/2020/08/ruta-vino-penedes-Enoturismo.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/ruta-vino-penedes-Enoturismo.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -76,10 +76,10 @@ espectaculares vistas desde la red de miradores que sigue el curso del río.
 ### Bardenas Reales
 
 Diferentes figuras de protección amparan uno de los territorios y paisajes más 
-singulares de la Península: las [Bardenas 
-Reales](https://etheriamagazine.com/2020/07/27/ruta-navarra-bardenas-reales-tudela-escapada-con-amigas/), 
-un conjunto de estepas, _bad lands_ y rocas sedimentarias sometidas a milenios de 
-erosión y desgaste. El atractivo paisajístico es excepcional, pero también otros muchos 
+singulares de la Península: las {{< reflink 
+path=posts/2024/10/ruta-navarra-bardenas-reales-tudela-escapada-con-amigas >}}, un 
+conjunto de estepas, _bad lands_ y rocas sedimentarias sometidas a milenios de erosión y 
+desgaste. El atractivo paisajístico es excepcional, pero también otros muchos 
 relacionados con el pasado geológico, la biodiversidad y la relación del hombre con el 
 medio. Para conocerlas debes visitar la [Ruta del Vino 
 Navarra](http://www.rutadelvinodenavarra.com). 
@@ -265,13 +265,13 @@ de este espectáculo natural.
 
 ### Lagunas del Sur de Córdoba
 
-En la campiña cordobesa, junto al paisaje de viñedos y olivares por donde discurre la [Ruta 
-del Vino Montilla-Moriles](http://www.turismoyvino.es), encontrarás lagunas estacionales 
-convertidas en Reservas Naturales por sus especiales valores como lugares de invernada y 
-nidificación de aves migratorias. Algunas de esas lagunas son la de Zoñar (la de mayor 
-profundidad de Andalucía y considerada el ‘reino’ del pato Malvasía), la del Rincón, la 
-de Tíscar, la Amarga (llamada así por su alta concentración de sulfato de magnesio), la 
-de los Jarales o la de Donadío. 
+En la campiña cordobesa, junto al paisaje de viñedos y olivares por donde discurre la 
+[Ruta del Vino Montilla-Moriles](http://www.turismoyvino.es), encontrarás lagunas 
+estacionales convertidas en Reservas Naturales por sus especiales valores como lugares 
+de invernada y nidificación de aves migratorias. Algunas de esas lagunas son la de Zoñar 
+(la de mayor profundidad de Andalucía y considerada el ‘reino’ del pato Malvasía), la 
+del Rincón, la de Tíscar, la Amarga (llamada así por su alta concentración de sulfato de 
+magnesio), la de los Jarales o la de Donadío. 
 
 ### Sierra Grande de Hornachos
 
@@ -354,8 +354,8 @@ agua.
 
 ### Hoces del río Cabriel
 
-Entre los lugares de mayor interés paisajístico y natural que puedes encontrar en la [Ruta 
-del Vino Utiel Requena](http://www.rutavino.com) están las Hoces del Cabriel. Este 
+Entre los lugares de mayor interés paisajístico y natural que puedes encontrar en la 
+[Ruta del Vino Utiel Requena](http://www.rutavino.com) están las Hoces del Cabriel. Este 
 enclave fluvial, fronterizo con La Manchuela, está catalogado Reserva Natural y en 2019 
 fue declarado Reserva de la Biosfera. De entre todos sus atractivos, destacan las 
 formaciones geomorfolócias como Los Cuchillos de Contreras, las Hoces y las cárcavas del 
@@ -363,11 +363,8 @@ Valle de Fonseca.
 
 ### También te puede interesar:
 
-[Conca de Barberà, ¿te vienes a disfrutar de sus 
-vinos?](https://etheriamagazine.com/2022/06/01/enoturismo-conca-de-barbera/) 
+{{< reflink path=posts/2022/06/enoturismo-conca-de-barbera >}} 
 
-[Ruta del Vino Montilla-Moriles, 20 años brindando en el corazón de 
-Andalucía](https://etheriamagazine.com/2022/01/11/ruta-del-vino-montilla-moriles-20-aniversario/) 
+{{< reflink path=posts/2022/01/ruta-del-vino-montilla-moriles-20-aniversario >}} 
 
-[32 excursiones de un día donde la cultura y el vino se dan la 
-mano](https://etheriamagazine.com/2021/04/13/32-excursiones-de-un-dia-en-rutas-vino-espana/)
+{{< reflink path=posts/2021/04/32-excursiones-de-un-dia-en-rutas-vino-espana >}}

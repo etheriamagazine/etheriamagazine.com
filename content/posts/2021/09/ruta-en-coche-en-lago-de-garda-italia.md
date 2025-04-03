@@ -1,7 +1,7 @@
 ---
 title: "Ruta en coche alrededor del lago de Garda, el mayor de Italia"
 date: 2021-09-22
-coverImage: https://fotos.etheriamagazine.com/2021/09/viaje-riva-del-garda.jpg
+cover: https://fotos.etheriamagazine.com/2021/09/viaje-riva-del-garda.jpg
 destino: 
   - Europa
 authors: 
@@ -261,11 +261,8 @@ Brescia](http://www.bresciatourism.it) y [Turismo de Italia](https://www.italia.
 
 **También te puede interesar:** 
 
-[Secretos de Alberobello, un ‘pícaro’ pueblo italiano de 
-Puglia](https://etheriamagazine.com/2019/04/15/que-ver-alberobello-italia-unesco/). 
+{{< reflink path=posts/2019/04/que-ver-alberobello-italia-unesco >}}. 
 
-[Caótica Nápoles: 48 horas en la ciudad más canalla de 
-Italia](https://etheriamagazine.com/2020/09/04/que-ver-en-napoles-en-fin-de-semana/). 
+{{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}}. 
 
-[Nueve paseos a la italiana por los jardines más bellos de 
-Florencia](https://etheriamagazine.com/2021/05/21/paseos-por-los-jardines-mas-bellos-de-florencia/).
+{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}.

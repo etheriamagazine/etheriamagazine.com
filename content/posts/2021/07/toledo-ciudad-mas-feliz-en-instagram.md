@@ -1,7 +1,7 @@
 ---
 title: "Toledo es la ciudad más feliz de España en Instagram"
 date: 2021-07-13
-coverImage: https://fotos.etheriamagazine.com/2021/07/mujeres-campo-girasoles.jpg
+cover: https://fotos.etheriamagazine.com/2021/07/mujeres-campo-girasoles.jpg
 categories: 
   - bienestar
 destino: 
@@ -21,45 +21,45 @@ de la Luz, la sinagoga del Tránsito o el ‘Entierro del Conde de Orgaz’, de 
 algunas de sus paradas obligatorias. 
 
 Además de bonita, Toledo ha sido elegida como la ciudad más feliz de España o, al menos, 
-eso es lo que se refleja Instagram. Así lo asegura un estudio de [Lookfantastic](https://www.lookfantastic.es/). 
-Utilizando inteligencia artificial (IA), esta tienda online de cosmética ha recopilado 
-más de 200.000 fotografías en Instagram con el hashtag “#selfie”. El objetivo era 
-determinar el estado de ánimo de las personas que publicaron su imagen. El 40,4% fueron 
-de felicidad, que a su vez es la emoción más popular en esta red social. 
+eso es lo que se refleja Instagram. Así lo asegura un estudio de 
+[Lookfantastic](https://www.lookfantastic.es/). Utilizando inteligencia artificial (IA), 
+esta tienda online de cosmética ha recopilado más de 200.000 fotografías en Instagram 
+con el hashtag “#selfie”. El objetivo era determinar el estado de ánimo de las personas 
+que publicaron su imagen. El 40,4% fueron de felicidad, que a su vez es la emoción más 
+popular en esta red social. 
 
 ![toledo ciudad feliz en instagram](https://fotos.etheriamagazine.com/2021/07/toledo-ciudad-feliz.jpg "Toledo es la ciudad que más felicidad genera en Instagram. © Miguel Ángel Sanz")
 
 Aunque lo más habitual es ir a pasar el día, Toledo tiene otros secretos para descubrir 
-si decides [alojarte alguna 
-noche](https://etheriamagazine.com/2019/08/19/que-hacer-finde-toledo-ruta-nocturna/) en 
-esta ciudad de Castilla-La Mancha. En la provincia de Toledo, además, están [Las 
-Barrancas de Castrejón y 
-Calaña](https://etheriamagazine.com/2020/06/02/11-escapadas-cercanas-a-dos-horas-de-madrid/) 
-(o de Burujón), una formación sedimentaria del Tajo que no tiene nada que envidiar al 
-Cañón del Colorado, y la localidad de [Ocaña](https://etheriamagazine.com/2020/05/20/15-escapadas-a-menos-de-99-km-de-madrid/) 
-cuenta con una Plaza Mayor barroca construida por orden de Carlos III, así como palacios 
-y monumentos religiosos que merece la pena visitar si dispones de más tiempo. 
+si decides {{< reflink path=posts/2019/08/visitas-originales-toledo >}} en esta ciudad 
+de Castilla-La Mancha. En la provincia de Toledo, además, están {{< reflink 
+path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}} (o de Burujón), una 
+formación sedimentaria del Tajo que no tiene nada que envidiar al Cañón del Colorado, y 
+la localidad de {{< reflink path=posts/2020/05/15-escapadas-a-menos-de-99-km-de-madrid 
+>}} cuenta con una Plaza Mayor barroca construida por orden de Carlos III, así como 
+palacios y monumentos religiosos que merece la pena visitar si dispones de más tiempo. 
 
 La ciudad manchega tuvo una puntuación de 79 sobre 100 en la escala de felicidad, 
 situándose **un 99% por encima del promedio** del resto de España. La siguen, dentro del 
-territorio nacional, Plasencia (con 71 sobre 100), Marbella (66 sobre 100) y [Sevilla](https://etheriamagazine.com/2020/09/28/10-mejores-planes-en-sevilla-con-amigas-o-pareja/) 
-(62 sobre 100). 
+territorio nacional, Plasencia (con 71 sobre 100), Marbella (66 sobre 100) y {{< reflink 
+path=posts/2020/09/10-mejores-planes-en-sevilla-con-amigas-o-pareja >}} (62 sobre 100). 
 
 ![Fin de semana en Marbella con amigas](https://fotos.etheriamagazine.com/2019/06/marbella-casco-historico.jpg "Macetas en el casco histórico de Marbella.")
 
 ## Plasencia y Marbella, ciudades con vecinos y viajeros felices
 
-A 80 kilómetros de Cáceres, [Plasencia](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/) 
-es la capital de los tres valles del norte extremeño: Ambroz, Jerte y La Vera. Merece la 
-pena pasear por sus murallas o la Plaza Mayor y visitar sus iglesias, la Catedral (la 
-nueva y la vieja) y el claustro del parador. Si lo que quieres es ver el mar, en [Marbella](https://etheriamagazine.com/2019/06/11/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana/) 
-podrás disfrutar de la playa, restaurantes de moda y un casco histórico donde tapear. Si 
-además necesitas calidad de vida, rendir más o recuperar la armonía interior, la [clínica 
-de ayuno terapéutico Buchinger 
-Wilhelmi](https://etheriamagazine.com/2021/02/17/beneficios-del-ayuno-intermitente-para-la-salud/) 
-en Marbella organiza ayunos en un entorno natural con asistencia médica personalizada y 
-un equipo de terapeutas a tu disposición. La duración mínima de la estancia es de 10 
-días y se completa con alimentación consciente, ejercicio físico y espiritualidad. 
+A 80 kilómetros de Cáceres, {{< reflink 
+path=posts/2019/10/donde-comer-que-ver-hacer-viaje-norte-de-extremadura >}} es la 
+capital de los tres valles del norte extremeño: Ambroz, Jerte y La Vera. Merece la pena 
+pasear por sus murallas o la Plaza Mayor y visitar sus iglesias, la Catedral (la nueva y 
+la vieja) y el claustro del parador. Si lo que quieres es ver el mar, en {{< reflink 
+path=posts/2019/06/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana 
+>}} podrás disfrutar de la playa, restaurantes de moda y un casco histórico donde 
+tapear. Si además necesitas calidad de vida, rendir más o recuperar la armonía interior, 
+la {{< reflink path=posts/2021/02/beneficios-del-ayuno-intermitente-para-la-salud >}} en 
+Marbella organiza ayunos en un entorno natural con asistencia médica personalizada y un 
+equipo de terapeutas a tu disposición. La duración mínima de la estancia es de 10 días y 
+se completa con alimentación consciente, ejercicio físico y espiritualidad. 
 
 ![nueva zelanda pais feliz](https://fotos.etheriamagazine.com/2021/07/felicidad-nueva-zelanda.jpg "Nueva Zelanda, el país más habitable en tiempos de pandemia. © Mike Swigunski")
 
@@ -119,11 +119,12 @@ Vivir en ciudades saludables puede contribuir a nuestro bienestar y felicidad.
 
 ### Sigue leyendo...
 
-[Barra libre de ansiolíticos y antidepresivos, ¿se medicalizan los problemas 
-sociales?](https://etheriamagazine.com/2021/04/14/ansioliticos-y-antidepresivos-no-resuelven-los-problemas/) 
+{{< reflink path=posts/2021/04/ansioliticos-y-antidepresivos-no-resuelven-los-problemas 
+>}} 
 
-[Personas Altamente Sensibles. ¿Es realmente un don la 
-sensibilidad?](https://etheriamagazine.com/2020/11/25/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad/) 
+{{< reflink 
+path=posts/2020/11/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}} 
 
-[Mindfulness y meditación, tus mejores aliados para reducir el estrés y la 
-ansiedad](https://etheriamagazine.com/2020/11/18/mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion/).
+{{< reflink 
+path=posts/2020/11/mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion 
+>}}.

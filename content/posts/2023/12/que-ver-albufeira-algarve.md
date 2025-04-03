@@ -1,7 +1,7 @@
 ---
 title: "Albufeira, un destino en el Algarve para todo el año"
 date: 2023-12-15
-coverImage: https://fotos.etheriamagazine.com/2023/12/albufeira-playa-pescadores.jpg
+cover: https://fotos.etheriamagazine.com/2023/12/albufeira-playa-pescadores.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -109,7 +109,8 @@ salir a mar abierto a disfrutar de las inmersiones.
 ## Museo subacuático de Vhils
 
 En Albufeira, concretamente en la Pedra de Sta. Eulália, frente a Olhos de Agua, se 
-encuentra la **exposición subacuática ArtReef VHILS**, que ha tomado forma de la mano de [EPD](https://www.edp.com/es/historias-edp/edp-art-reef-descarbonizar-para-crear-arte-y-vida), 
+encuentra la **exposición subacuática ArtReef VHILS**, que ha tomado forma de la mano de 
+[EPD](https://www.edp.com/es/historias-edp/edp-art-reef-descarbonizar-para-crear-arte-y-vida), 
 una compañía energética global. Esta curiosa muestra del artista Alexandre Farto aka 
 Vhils se sitúa a una milla náutica de la costa y a tan solo doce metros de profundidad, 
 por lo que es accesible hasta para los buceadores menos experimentados. El objetivo de 
@@ -195,18 +196,16 @@ es una parada obligada.
 ### Más información
 
 Puedes consultar toda la información sobre la oferta turística de la ciudad en Turismo 
-de Albufeira en estas dos direcciones: [www.turismodealbufeira.com](https://www.turismodealbufeira.com) 
-y [www.visitalbufeira.pt](https://www.visitalbufeira.pt). Esta oficina de turismo ofrece 
+de Albufeira en estas dos direcciones: 
+[www.turismodealbufeira.com](https://www.turismodealbufeira.com) y 
+[www.visitalbufeira.pt](https://www.visitalbufeira.pt). Esta oficina de turismo ofrece 
 visitas guiadas gratuitas en portugués e inglés todos los jueves a las 10 de la mañana 
 durante la temporada baja, que salen de la estatua del Beato San Vicente. 
 
 **También te puede interesar** 
 
-[Algarve con amigas: 6 experiencias que no puedes 
-perderte](https://etheriamagazine.com/2021/10/07/planes-imprescindibles-algarve-con-amigas/) 
+{{< reflink path=posts/2021/10/planes-imprescindibles-algarve-con-amigas >}} 
 
-[¿Son éstas las 10 playas más bonitas del 
-Algarve?](https://etheriamagazine.com/2022/08/04/mejores-playas-del-algarve/) 
+{{< reflink path=posts/2022/08/mejores-playas-del-algarve >}} 
 
-[18 experiencias si viajas sola al 
-Algarve](https://etheriamagazine.com/2020/08/07/18-experiencias-si-viajas-sola-al-algarve/)
+{{< reflink path=posts/2020/08/18-experiencias-si-viajas-sola-al-algarve >}}

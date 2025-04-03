@@ -1,7 +1,7 @@
 ---
 title: "Guía de Ruanda, consejos de Sania Jelic para recorrer el país más seguro de África"
 date: 2024-04-24
-coverImage: https://fotos.etheriamagazine.com/2024/04/sania-ruanda-kawali-costureras.jpg
+cover: https://fotos.etheriamagazine.com/2024/04/sania-ruanda-kawali-costureras.jpg
 categories: 
   - viajar-sola
   - mujeres-top
@@ -219,8 +219,6 @@ mucho.
 
 **También te puede interesar:** 
 
-[Consejos de Sania Jelic para viajar sola por África del sur y del 
-este](https://etheriamagazine.com/2024/01/31/consejos-viajar-sola-por-africa/) 
+{{< reflink path=posts/2024/01/consejos-viajar-sola-por-africa >}} 
 
-[Consejos básicos de Sania Jelic si viajas sola a 
-Zanzíbar](https://etheriamagazine.com/2024/03/15/viajar-sola-zanzibar/)
+{{< reflink path=posts/2024/03/viajar-sola-zanzibar >}}

@@ -1,7 +1,7 @@
 ---
 title: "Ruta turística por Usera, el Chinatown madrileño, qué ver y dónde comer"
 date: 2022-02-11
-coverImage: https://fotos.etheriamagazine.com/2022/02/puente-madrid-rio-arte-mosaico.jpg
+cover: https://fotos.etheriamagazine.com/2022/02/puente-madrid-rio-arte-mosaico.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -312,11 +312,10 @@ aconsejamos reservar con bastante antelación.
 
 **También en Etheria Magazine** 
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/). 
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}. 
 
-[Ruta por el Madrid más libre (de 
-gluten)](https://etheriamagazine.com/2020/10/02/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias/). 
+{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
+>}}. 
 
-[Sierra del Rincón, una bonita escapada a los pueblos y hayedos de 
-Madrid](https://etheriamagazine.com/2020/09/15/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid/).
+{{< reflink path=posts/2020/09/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid 
+>}}.

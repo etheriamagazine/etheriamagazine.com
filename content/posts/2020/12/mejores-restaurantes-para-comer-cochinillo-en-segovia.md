@@ -1,7 +1,7 @@
 ---
 title: "Los tres tenores del cochinillo en Segovia, una historia de amor correspondido"
 date: 2020-12-01
-coverImage: https://fotos.etheriamagazine.com/2020/11/restaurante-jose-maria-Cochinillo.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/restaurante-jose-maria-Cochinillo.jpg
 categories: 
   - gourmet
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Rafael de Rojas
 ---
 
-De cómo un animalejo de patas cortas y alma lechosa ha llegado tan lejos de la mano de 
+**De cómo un animalejo de patas cortas y alma lechosa ha llegado tan lejos de la mano de 
 los tres restaurantes segovianos de los que siempre se sale feliz: Casa Duque, Cándido y 
 José María. En este artículo encontrarás razones más que convincente para saber dónde 
-tendrías que ir para comer el mejor cochinillo de Segovia. 
+tendrías que ir para comer el mejor cochinillo de Segovia.** 
 
 ![Cochinillo deshuesado y vino Pago de Carraovejas del restaurante José María (Segovia).](https://fotos.etheriamagazine.com/2020/11/restaurante-jose-maria-segovia.jpg "Cochinillo deshuesado y vino Pago de Carraovejas del restaurante José María (Segovia).")
 
@@ -26,9 +26,8 @@ lector que haya comido en uno de estos **tres restaurantes de Segovia de toda la
 a que me diga que no se acuerda muy bien de con quién estaba, qué comió y, al menos, 
 cuál fue su sentir general al salir (amor correspondido, principalmente). 
 
-✅ **No te pierdas:** [Razones, si es que las necesitas, por las que deberías planear ya 
-una escapada por la provincia de 
-Segovia](https://etheriamagazine.com/2021/03/09/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia/) 
+✅ **No te pierdas:** {{< reflink 
+path=posts/2021/03/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia >}} 
 
 ## Cochinillo dorado y crujiente
 
@@ -125,8 +124,9 @@ de otro restaurante segoviano de mérito, el Narizotas).
 Por resumir, digamos que inventó Segovia, que para cuando abrió Cándido la ciudad tenía 
 unos 20.000 habitantes y que, aunque ahora sólo tenga unos 50.000, desde entonces empezó 
 a adquirir una población flotante de muchos miles más. Internacionales y yo diría que 
-hasta extra planetarios, que van del Acueducto al [Alcázar](https://etheriamagazine.com/2020/03/11/que-ver-interior-precio-entradas-del-alcazar-de-segovia/) 
-y vuelven y se sientan a comer en Cándido. 
+hasta extra planetarios, que van del Acueducto al {{< reflink 
+path=posts/2020/03/que-ver-interior-precio-entradas-del-alcazar-de-segovia >}} y vuelven 
+y se sientan a comer en Cándido. 
 
 En la mesa en la que te pones cómodo pueden haberse zampado un cuarto de cochinillo el 
 emperador de Japón o Pablo Neruda (que dejó un poema que terminaba “Segovia es para 
@@ -219,9 +219,7 @@ bebiendo lo de siempre.
 
 **También te puede interesar...** 
 
-[10 grandes restaurantes para saborear lo mejor de 
-Toledo](https://etheriamagazine.com/2020/11/03/comer-en-toledo-mejores-restaurantes-bares-tapas/). 
+{{< reflink path=posts/2020/11/comer-en-toledo-mejores-restaurantes-bares-tapas >}}. 
 
-[](https://etheriamagazine.com/2020/04/29/viajes-espana-ruta-por-los-licores-de-monasterio/)[Ruta 
-para descubrir los secretos ocultos del acueducto de 
-Segovia](https://etheriamagazine.com/2021/06/25/ruta-senderista-acueducto-segovia/).
+{{< reflink path=posts/2020/04/viajes-espana-ruta-por-los-licores-de-monasterio >}}{{< 
+reflink path=posts/2021/06/ruta-senderista-acueducto-segovia >}}.

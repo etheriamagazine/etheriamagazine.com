@@ -1,7 +1,7 @@
 ---
 title: "10 exposiciones en Madrid para vivir el arte (2020-2021)"
 date: 2020-10-13
-coverImage: https://fotos.etheriamagazine.com/2020/10/exposiciones-madrid-expresionismo-aleman-thyssen.jpg
+cover: https://fotos.etheriamagazine.com/2020/10/exposiciones-madrid-expresionismo-aleman-thyssen.jpg
 categories: 
   - cultura
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-La cultura siempre es un buen plan, y Madrid no se para en cuanto a la oferta de 
+**La cultura siempre es un buen plan, y Madrid no se para en cuanto a la oferta de 
 exposiciones durante este otoño tan raro. Aquí te proponemos 10 de ellas que son 
 apetecibles e imprescindibles a partes iguales y que se pueden visitar con total 
-tranquilidad siguiendo las medidas anticovid estipuladas. 
+tranquilidad siguiendo las medidas anticovid estipuladas.** 
 
 ![Falenas carlos Verger exposicion invitadas museo del prado](https://fotos.etheriamagazine.com/2020/10/exposicion-invitadas-museo-el-prado.jpg "Falenas Carlos Verger Fioretti (1872 - 1929). © Museo del Prado")
 
@@ -94,13 +94,12 @@ octubre al 14 de marzo de 2021. Precio: 9 Euros general, 6 Euros tarifa reducida
 
 ## 6\. ‘Sorolla. Femenino Plural’ en el Museo Sorolla.
 
-Ya os hemos hablado de la nueva exposición del Museo Sorolla de Madrid, ['Sorolla. 
-Femenino 
-plural'](https://etheriamagazine.com/2020/09/25/sorolla-femenino-plural-nueva-exposicion-en-madrid/), 
-una colección de 36 obras de este artista valenciano que tienen a la mujer como 
-protagonista. En sus pinturas, Sorolla no trata a las mujeres de sus cuadros como 
-estereotipos, sino que las retrata como seres individuales. Entre sus cuadros 
-encontramos elegantes burguesas, actrices, amas de casa, bordadoras o campesinas. 
+Ya os hemos hablado de la nueva exposición del Museo Sorolla de Madrid, {{< reflink 
+path=posts/2020/09/sorolla-femenino-plural-nueva-exposicion-en-madrid >}}, una colección 
+de 36 obras de este artista valenciano que tienen a la mujer como protagonista. En sus 
+pinturas, Sorolla no trata a las mujeres de sus cuadros como estereotipos, sino que las 
+retrata como seres individuales. Entre sus cuadros encontramos elegantes burguesas, 
+actrices, amas de casa, bordadoras o campesinas. 
 
 Lugar: Museo Sorolla de Madrid. Fecha: hasta el 10 de enero de 2021. Precio: 3 Euros. 
 Lunes cerrado. 
@@ -140,14 +139,14 @@ Entrada gratuita. Lunes cerrado.
 ## 9\. ‘Lee Friedlander’ en la Fundación MAPFRE.
 
 Nos gustan especialmente las exposiciones fotográficas y ésta que recorre de forma 
-cronológica la [extensa obra de Lee 
-Friedlander](https://etheriamagazine.com/2020/10/10/lee-friedlander-la-mejor-exposicion-de-fotografia-de-madrid/) 
-tenía que estar en esta lista. Este fotógrafo norteamericano organizaba su trabajo en 
-series de imágenes que desarrollaba a lo largo de varios años y que con frecuencia 
-acababan formando libros, y así lo refleja la muestra. Pero también se agrupan 
-fotografías por asociaciones temáticas que incluyen retratos, paisajes urbanos, 
-naturaleza… Una cita imprescindible si quieres conocer la obra de uno de los fotógrafos 
-más importantes del siglo XX. 
+cronológica la {{< reflink 
+path=posts/2020/10/lee-friedlander-la-mejor-exposicion-de-fotografia-de-madrid >}} tenía 
+que estar en esta lista. Este fotógrafo norteamericano organizaba su trabajo en series 
+de imágenes que desarrollaba a lo largo de varios años y que con frecuencia acababan 
+formando libros, y así lo refleja la muestra. Pero también se agrupan fotografías por 
+asociaciones temáticas que incluyen retratos, paisajes urbanos, naturaleza… Una cita 
+imprescindible si quieres conocer la obra de uno de los fotógrafos más importantes del 
+siglo XX. 
 
 Lugar: Fundación MAPFRE (salas de Recoletos). Fecha: hasta el 10 de enero de 2021 
 Precio: entrada general 3 Euros, consulta precio de entradas reducidas y entradas 
@@ -157,9 +156,8 @@ gratuitas.
 
 ## 10\. ‘A un cuervo y los huracanes que, desde lugares desconocidos, traen de vuelta olores de humanos enamorados’ en el Palacio de Cristal del Parque del Retiro.
 
-Esta [exposición de Petrit 
-Halilaj](https://etheriamagazine.com/2020/07/28/flores-y-pajaros-en-el-palacio-de-cristal-de-madrid/), 
-que pertenece a la programación del Museo Nacional Centro de Arte Reina Sofía, ha 
+Esta {{< reflink path=posts/2020/07/flores-y-pajaros-en-el-palacio-de-cristal-de-madrid 
+>}}, que pertenece a la programación del Museo Nacional Centro de Arte Reina Sofía, ha 
 llenado el Palacio de Cristal de El Retiro de enormes flores y buenos deseos, y es la 
 primera de esta artista kosovar en España. Una exposición con un curioso nombre que 
 aborda temas como el hogar, la nación, la identidad cultural y el amor. 

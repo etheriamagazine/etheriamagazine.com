@@ -1,7 +1,7 @@
 ---
 title: "Marta Vázquez, un viaje \"por piñones\" en bici que duró 8 meses"
 date: 2024-05-31
-coverImage: https://fotos.etheriamagazine.com/2024/05/Marta-Vazquez-etheria-magazine.jpg
+cover: https://fotos.etheriamagazine.com/2024/05/Marta-Vazquez-etheria-magazine.jpg
 categories: 
   - historias
   - mujeres-top
@@ -93,8 +93,6 @@ FB): [@hilandomapas](https://www.instagram.com/hilandomapas/)
 
 **También en Etheria Magazine** 
 
-[Ninguna mujer sin sus mil palabras de gloria’, el altavoz que 
-necesitas](https://etheriamagazine.com/2022/03/08/ayuda-mujeres-emprendedoras-turismo/). 
+{{< reflink path=posts/2022/03/ayuda-mujeres-emprendedoras-turismo >}}. 
 
-[Viena con amigas, proyectos en femenino en tres barrios sorprendentes de la ciudad 
-imperial](https://etheriamagazine.com/2024/04/26/tres-barrios-viena-con-emprendedoras/).
+{{< reflink path=posts/2024/04/tres-barrios-viena-con-emprendedoras >}}.

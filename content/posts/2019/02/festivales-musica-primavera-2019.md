@@ -1,7 +1,7 @@
 ---
 title: "10 festivales de música para bailar la primavera"
 date: 2019-02-23
-coverImage: https://fotos.etheriamagazine.com/2019/02/Festivales-primavera-concierto.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/Festivales-primavera-concierto.jpg
 categories: 
   - ocio
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Reconócelo, empiezan a salir los rayos de sol pre-primaverales y el cuerpo empieza a 
+**Reconócelo, empiezan a salir los rayos de sol pre-primaverales y el cuerpo empieza a 
 pedirte que lo desentumezcas después del frío invierno. Y para activarse, ¿puede haber 
 algo mejor que bailar? Busca tus grupos favoritos y regálate un fin de semana 
-festivalero. 
+festivalero.** 
 
 ![viajes con amigas, festivales musica, rock](https://fotos.etheriamagazine.com/2019/02/Festivales-primavera-concierto.jpg "Festivales de Música Primavera 2019.")
 
@@ -67,9 +67,9 @@ Cuándo: 10 y 11 de mayo. Dónde: Antiguo Aquapark de Calvià (Mallorca). Precio
 
 ## 4\. Interestelar Sevilla
 
-Toda excusa es buena para ir a [Sevilla](https://etheriamagazine.com/2019/02/04/viajar-con-amigas-sevilla/) 
-y si quieres huir de los tópicos de la Semana Santa y la Feria, quizá tu momento sea el 
-fin de semana que se celebra este festival donde podrás ver las actuaciones, entre 
+Toda excusa es buena para ir a {{< reflink path=posts/2019/02/viajar-con-amigas-sevilla 
+>}} y si quieres huir de los tópicos de la Semana Santa y la Feria, quizá tu momento sea 
+el fin de semana que se celebra este festival donde podrás ver las actuaciones, entre 
 otros, de Rozalén, Vetusta Morla, Iván Ferreiro o Fangoria. Como está al lado del 
 centro, es perfecto para disfrutar también de las terracitas sevillanas y el ambiente de 
 la ciudad. 
@@ -110,9 +110,9 @@ Festival.
 
 Cuenta con un ecléctico cartel que incluye artistas como Dorian, Rozalén, Medina 
 Azahara, La Pegatina o Beret, y es una buena excusa para acercarse a la siempre 
-apetecible ciudad de [Granada](https://etheriamagazine.com/2018/10/11/48-horas-en-el-albayzin-y-la-alhambra/). 
-Puedes elegir algunos conciertos y combinarlos con una visita a La Alhambra o unas tapas 
-por el centro. 
+apetecible ciudad de {{< reflink 
+path=posts/2020/05/48-horas-en-el-albayzin-y-la-alhambra >}}. Puedes elegir algunos 
+conciertos y combinarlos con una visita a La Alhambra o unas tapas por el centro. 
 
 Cuándo: 31 de mayo y 1 de junio Dónde: en El Cortijo del Conde (Granada). Precio: Abono 
 general de 2 días 35 Euros. Más información: Bull Music Festival. 
@@ -149,9 +149,8 @@ Euros. Abono VIP, 60 Euros. Más información: Palencia Sonora.
 ## 10\. Conexión Valladolid.
 
 Este joven festival (nació en 2018) ha conseguido en tan sólo un año traer figuras como 
-Vetusta Morla, Rozalén, Amaia, Beret o Depedro. Una excusa perfecta para disfrutar de [Valladolid 
-y su excelente 
-gastronomía](https://etheriamagazine.com/2019/01/31/bares-imprescindibles-finde-valladolid/). 
+Vetusta Morla, Rozalén, Amaia, Beret o Depedro. Una excusa perfecta para disfrutar de 
+{{< reflink path=posts/2019/01/bares-imprescindibles-finde-valladolid >}}. 
 
 Cuándo: 21 y 22 de junio. Dónde: Antigua Hípica (Pinar de Antequera, Valladolid). 
 Precio: entrada de 1 día 35 Euros. Abono de 2 días 55 Euros. Más información: Conexión 

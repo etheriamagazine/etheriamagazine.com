@@ -1,7 +1,7 @@
 ---
 title: "Islas Eolias, 6 placeres entre el cielo y el infierno"
 date: 2020-07-31
-coverImage: https://fotos.etheriamagazine.com/2020/07/islas-eolias-Strombolicchio.jpg
+cover: https://fotos.etheriamagazine.com/2020/07/islas-eolias-Strombolicchio.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -156,11 +156,8 @@ sus fondos marinos para encontrar una vía para la felicidad.
 
 **También te puede interesar:** 
 
-[Ruta en coche por Sicilia, entre pantocrátores y 
-bikinis](https://etheriamagazine.com/2021/07/05/sicilia-pantocratores-y-bikinis/). 
+{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}}. 
 
-[Cinque Terre, los cinco pueblos más bonitos de 
-Liguria](https://etheriamagazine.com/2020/06/04/ruta-que-ver-cinque-terre-italia-con-amigas/). 
+{{< reflink path=posts/2020/06/ruta-que-ver-cinque-terre-italia-con-amigas >}}. 
 
-[10 islas en Europa para disfrutar del 
-verano](https://etheriamagazine.com/2019/07/30/10-islas-en-europa-disfrutar-verano/).
+{{< reflink path=posts/2019/07/10-islas-en-europa-disfrutar-verano >}}.

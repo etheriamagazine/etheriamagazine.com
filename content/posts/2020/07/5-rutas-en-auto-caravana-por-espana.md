@@ -1,7 +1,7 @@
 ---
 title: "5 rutas en autocaravana por España para disfrutar de mar y de montaña"
 date: 2020-07-23
-coverImage: https://fotos.etheriamagazine.com/2020/07/rutas-auto-caravana-espana.jpg
+cover: https://fotos.etheriamagazine.com/2020/07/rutas-auto-caravana-espana.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -161,8 +161,6 @@ pescadores** preparan un arroz con bogavante que no hay que dejar pasar.
 
 **También te puede interesar:** 
 
-[Ruta en autocaravana por la Subbética Cordobesa (nuevas zonas para pernoctar 
-gratis).](https://etheriamagazine.com/2022/03/23/ruta-autocaravana-en-cordoba/) 
+{{< reflink path=posts/2022/03/ruta-autocaravana-en-cordoba >}} 
 
-[Andalucía en autocaravana y consejos útiles para 
-novatos](https://etheriamagazine.com/2021/04/07/consejos-rutas-andalucia-en-autocaravana/).
+{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}.

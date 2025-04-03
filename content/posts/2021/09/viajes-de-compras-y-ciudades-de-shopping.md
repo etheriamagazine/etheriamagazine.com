@@ -1,7 +1,7 @@
 ---
 title: "12 ciudades donde el shopping debe estar en la agenda"
 date: 2021-09-07
-coverImage: https://fotos.etheriamagazine.com/2021/09/compras-londres.jpg
+cover: https://fotos.etheriamagazine.com/2021/09/compras-londres.jpg
 categories: 
   - compras
 destino: 
@@ -33,8 +33,8 @@ setenta. Su modo de ver la vida fusionado con la tradición payesa ha impulsado 
 de los **mercadillos al aire libre** y tendencias tan reconocidas como la moda Adlib. 
 Sus tiendas de moda y hippy markets como **Las Dalias** son motivo suficiente para 
 visitar este paraíso balear. Otro destino de compras en las islas Baleares es 
-Formentera, no te pierdas el artículo: [¿Te vienes de compras a 
-Formentera?](https://etheriamagazine.com/2018/07/06/de-compras-en-formentera/) 
+Formentera, no te pierdas el artículo: {{< reflink 
+path=posts/2018/07/de-compras-en-formentera >}} 
 
 ![las setas el mejor mirador de sevilla](https://fotos.etheriamagazine.com/2020/09/viaje-original-las-setas-sevilla.jpg "Las Setas, una de las construcciones más vanguardistas de Sevilla.")
 
@@ -149,11 +149,11 @@ Damnoen Saduak** cuyos aromas y colores perdurarán para siempre en tu retina.
 
 ### Te puede interesar...
 
-[Qué ver en Valencia, la futura Capital Mundial del 
-Diseño](https://etheriamagazine.com/2020/03/26/valencia-propuestas-para-todos-en-la-ciudad-del-diseno/). 
+{{< reflink path=posts/2020/03/valencia-propuestas-para-todos-en-la-ciudad-del-diseno 
+>}}. 
 
-[De compras, mercados y algo más en Palma de 
-Mallorca](https://etheriamagazine.com/2019/08/01/24-horas-palma-mallorca-arte-compras-mercados/). 
+{{< reflink path=posts/2019/08/24-horas-palma-mallorca-arte-compras-mercados >}}. 
 
-[Londres de compras: 4 barrios del centro para practicar el shopping más 
-auténtico](https://etheriamagazine.com/2020/05/06/compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone/).
+{{< reflink 
+path=posts/2020/05/compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone 
+>}}.

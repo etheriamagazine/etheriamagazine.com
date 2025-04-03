@@ -1,7 +1,7 @@
 ---
 title: "Ruta del Vino de Toro, secretos abrazados por el Duero"
 date: 2022-09-21
-coverImage: https://fotos.etheriamagazine.com/2022/09/ruta-vino-toro-volvoreta.jpg
+cover: https://fotos.etheriamagazine.com/2022/09/ruta-vino-toro-volvoreta.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -111,7 +111,7 @@ XIII, esculpida en piedra y policromada. Otros conjuntos que merece la pena llev
 agenda son las construcciones mudéjares de San Lorenzo el Real, San Salvador de los 
 Caballeros y la iglesia del Santo Sepulcro; cenobios como el Real Monasterio del Sancti 
 Spiritus; palacios y casonas, algunas visitables; y la plaza de toros (una joya de la 
-que te hablamos en este [artículo](https://etheriamagazine.com/2022/05/17/pueblos-ruta-del-duero/)). 
+que te hablamos en este {{< reflink path=posts/2022/05/pueblos-ruta-del-duero >}}). 
 
 ![Calle y Colegiata de Toro.](https://fotos.etheriamagazine.com/2022/09/colegiata-toro.jpg "Calle y Colegiata de Toro. © P. García")
 
@@ -246,11 +246,8 @@ Más información en [Rutas del Vino de Toro](https://www.rutavinotoro.com/).
 
 **Otras Rutas del Vino de España** 
 
-[Ruta del Vino de la Sierra de Francia, un brindis con amigas en 
-Salamanca](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/). 
+{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}. 
 
-[Ruta del vino Cigales, 10 razones para brindar como los Reyes 
-Católicos](https://etheriamagazine.com/2020/01/07/viaje-con-amigas-ruta-del-vino-cigales/). 
+{{< reflink path=posts/2020/01/viaje-con-amigas-ruta-del-vino-cigales >}}. 
 
-[Viaje en coche por la Ruta del Vino de La 
-Mancha](https://etheriamagazine.com/2019/03/20/ruta-del-vino-de-la-mancha/).
+{{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Visitas en Cartagena para comprobar que \"ni es fea ni es un pueblo\""
 date: 2024-09-14
-coverImage: https://fotos.etheriamagazine.com/2024/09/cartagena-palacio-aguirre.jpg
+cover: https://fotos.etheriamagazine.com/2024/09/cartagena-palacio-aguirre.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -204,5 +204,4 @@ ya nos contaréis si creéis que es fea.
 
 **Sigue leyendo en Etheria Magazine** 
 
-[Planes para comerte Murcia con 
-amigas](https://etheriamagazine.com/2021/07/29/planes-en-murcia-capital-con-amigas/)
+{{< reflink path=posts/2021/07/planes-en-murcia-capital-con-amigas >}}

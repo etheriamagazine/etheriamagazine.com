@@ -1,7 +1,7 @@
 ---
 title: "Guía de viaje de Sania Jelic para recorrer Namibia"
 date: 2024-02-09
-coverImage: https://fotos.etheriamagazine.com/2024/02/sania-namibia-desierto-namib.jpg
+cover: https://fotos.etheriamagazine.com/2024/02/sania-namibia-desierto-namib.jpg
 categories: 
   - viajar-sola
   - mujeres-top
@@ -138,11 +138,17 @@ representa una buena manera de reivindicar ese pasado.
 
 ## Algunos datos prácticos sobre Namibia:
 
-• Tiene una población de 2,77 millones de habitantes. • La capital es Windhoek, con 
-500.000 habitantes. • Se hablan 9 idiomas y el inglés es el idioma oficial. • El país 
-fue colonizado por Alemania y luego por Sudáfrica, que introdujo el apartheid. • En 1990 
-Namibia consiguió la independencia y hoy es una república semi-parlamentaria. • El dólar 
-de Namibia tiene paridad con el Rand sudafricano. • Se circula por la izquierda. 
+- Tiene una población de 2,77 millones de habitantes. 
+
+- La capital es Windhoek, con 500.000 habitantes. 
+
+- Se hablan 9 idiomas y el inglés es el idioma oficial. 
+
+- El país fue colonizado por Alemania y luego por Sudáfrica, que introdujo el apartheid. 
+- En 1990 Namibia consiguió la independencia y hoy es una república semi-parlamentaria. 
+- El dólar de Namibia tiene paridad con el Rand sudafricano. 
+
+- Se circula por la izquierda. 
 
 ## Viajar sola a Namibia
 
@@ -155,8 +161,6 @@ de móvil es limitada.
 
 **También te puede interesar:** 
 
-[Consejos de Sania Jelic para viajar sola por África del sur y del 
-este](https://etheriamagazine.com/2024/01/31/consejos-viajar-sola-por-africa/) 
+{{< reflink path=posts/2024/01/consejos-viajar-sola-por-africa >}} 
 
-[Hermanus, primera parada del viaje de Sania Jelic sola por 
-África](https://etheriamagazine.com/2024/01/17/hermanus-sania-jelic-viajar-sola-africa-sudafrica/)
+{{< reflink path=posts/2024/01/hermanus-sania-jelic-viajar-sola-africa-sudafrica >}}

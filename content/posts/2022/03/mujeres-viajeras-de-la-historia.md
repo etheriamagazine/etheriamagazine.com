@@ -1,7 +1,7 @@
 ---
 title: "Mujeres viajeras que, rompiendo moldes, hicieron las maletas"
 date: 2022-03-08
-coverImage: https://fotos.etheriamagazine.com/2023/03/mujeres-nellie-bly-libro-viajeras.jpg
+cover: https://fotos.etheriamagazine.com/2023/03/mujeres-nellie-bly-libro-viajeras.jpg
 categories: 
   - historias
   - mujeres-top
@@ -146,11 +146,8 @@ limitaciones no eran innatas, eran fruto de la sociedad.
 
 **También te puede interesar...** 
 
-[Etheria (o Egeria), la primera viajera 
-española](https://etheriamagazine.com/2018/06/12/etheria-la-primera-viajera/). 
+{{< reflink path=posts/2018/06/etheria-la-primera-viajera >}}. 
 
-[Viajeras por los Mares del Sur, un libro de 
-desafíos](https://etheriamagazine.com/2019/12/21/libro-viajeras-por-los-mares-del-sur/). 
+{{< reflink path=posts/2019/12/libro-viajeras-por-los-mares-del-sur >}}. 
 
-[Los diez mejores destinos para viajar 
-sola.](https://etheriamagazine.com/2020/12/17/10-destinos-seguros-para-viajar-sola-por-primera-vez/)
+{{< reflink path=posts/2020/12/10-destinos-seguros-para-viajar-sola-por-primera-vez >}}

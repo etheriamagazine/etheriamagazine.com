@@ -1,7 +1,7 @@
 ---
 title: "10 regalos originales para el Día de la Madre"
 date: 2021-04-23
-coverImage: https://fotos.etheriamagazine.com/2021/04/Tartaleta-rosa.jpg
+cover: https://fotos.etheriamagazine.com/2021/04/Tartaleta-rosa.jpg
 categories: 
   - compras
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-Una madre se merece siempre que tengas un detalle con ella, y si pertenece a la 
+**Una madre se merece siempre que tengas un detalle con ella, y si pertenece a la 
 categoría denominada “mala madre” porque no renuncia a disfrutar de la vida, ¡incluso 
 dos! Si tu madre es de las que les gusta salir con sus amigas, tomar un buen vino, 
 organiza escapadas todo el tiempo y se ríe hasta de su sombra, tenemos para ella más de 
-un regalo original para el Día de la Madre. 
+un regalo original para el Día de la Madre.** 
 
 ![vino diamante regalo original para el dia de la madre](https://fotos.etheriamagazine.com/2021/04/vino-diamante-dia-madre.jpg "Pack Diamante para el Día de la Madre.")
 
@@ -166,16 +166,12 @@ la bienvenida. Desde su cocina, enmarcada por carteles de películas japonesas, 
 platos se van colocando en una cinta que recorre el comedor con platos individuales en 
 dos alturas: fríos abajo (temakis, makis, nigiris, postres…) y calientes arriba 
 (tempuras, arroces, brochetas…). Es una excelente oportunidad para introducirse en la 
-comida japonesa [antes de viajar a 
-Japón](https://etheriamagazine.com/2019/06/18/como-organizar-un-viaje-a-japon/). 
+comida japonesa {{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}}. 
 
 ### También te interesa...
 
-[10 viajes para hacer con tu 
-madre](https://etheriamagazine.com/2021/04/19/10-viajes-para-hacer-con-madres-viajeras/). 
+{{< reflink path=posts/2021/04/10-viajes-para-hacer-con-madres-viajeras >}}. 
 
-[8 imprescindibles en tu maleta para hacer deporte cuando 
-viajas](https://etheriamagazine.com/2020/10/19/8-imprescindibles-maleta-para-hacer-deporte/). 
+{{< reflink path=posts/2020/10/8-imprescindibles-maleta-para-hacer-deporte >}}. 
 
-[10 neceseres para mujeres 
-viajeras](https://etheriamagazine.com/2019/10/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras/).
+{{< reflink path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}}.

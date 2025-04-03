@@ -1,17 +1,17 @@
 ---
 title: "25 curiosidades de Canarias que te sorprenderán"
 date: 2022-11-18
-coverImage: https://fotos.etheriamagazine.com/2022/11/portada-islas-canarias.jpg
+cover: https://fotos.etheriamagazine.com/2022/11/portada-islas-canarias.jpg
 destino: 
   - España
 authors: 
   - Redacción Etheria
 ---
 
-Canarias es un destino clásico, entre los más deseados durante décadas, e ideal para 
+**Canarias es un destino clásico, entre los más deseados durante décadas, e ideal para 
 disfrutar durante todo el año. Pero también es un archipiélago variado, sorprendente y 
 repleto de curiosidades. Como seguro que no sabes tanto de sus islas como crees, te 
-retamos a descubrir sus muchos secretos en tu próxima visita. 
+retamos a descubrir sus muchos secretos en tu próxima visita.** 
 
 ![Playa de Tenerife, en las islas Canarias.](https://fotos.etheriamagazine.com/2022/11/portada-islas-canarias.jpg "Playa de Tenerife, en las islas Canarias. © Iancu Voinovan")
 
@@ -76,8 +76,8 @@ senderismo entre Maspalomas y la parroquia de Santiago de los Caballeros, en Gá
 Aunque no llega a Santiago de Compostela, da derecho a obtener el jubileo compostelano. 
 Si te animas, tiene un total de 72 kilómetros y se puede hacer en sólo tres etapas. 
 
-📌No te pierdas el artículo: [Senderismo y baños de bosque en Gran 
-Canaria](https://etheriamagazine.com/2018/05/03/senderismo-gran-canaria-banos-de-bosque/). 
+📌No te pierdas el artículo: {{< reflink 
+path=posts/2018/05/senderismo-gran-canaria-banos-de-bosque >}}. 
 
 ![Maspalomas, en Gran Canaria.](https://fotos.etheriamagazine.com/2022/11/gran-canaria-maspalomas.jpg "Maspalomas, en Gran Canaria. © Hert Niks")
 
@@ -131,8 +131,8 @@ parte, se pueden ver desde algunos miradores señalizados.
 
 ### Un hotel en un faro
 
-El faro es el de [Punta 
-Cumplida](https://etheriamagazine.com/2019/06/03/faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica/) 
+El faro es el de {{< reflink 
+path=posts/2019/06/faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica >}} 
 y se ha convertido en un pequeño pero atractivo hotel. Esta construcción situada en 
 Barlovento tiene más de 150 años de antigüedad y no sólo es uno de los más antiguos de 
 España, sino también de los más románticos. En sus 330 metros cuadrados los huéspedes 
@@ -154,8 +154,7 @@ canariensis)_ que transmite cierto sabor a resina.
 
 ### Polvos de talco
 
-El [Carnaval de los 
-Indianos](https://etheriamagazine.com/2020/02/03/que-hacer-en-los-indianos-el-carnaval-de-la-palma/) 
+El {{< reflink path=posts/2020/02/que-hacer-en-los-indianos-el-carnaval-de-la-palma >}} 
 es uno de los más divertidos y originales de España. Uno de sus momentos clave es la 
 batalla de polvos de talco con la que se recibe a los que regresan de las Indias 
 portando jaulas con loros, baúles, gigantescos habanos y espejuelos, mientras la música 
@@ -279,8 +278,8 @@ y durante su estancia escribió _El enigmático Mr. Quin_. Hacía solo unos mese
 marido la había abandonado y la escritora buscaba reposo para aliviar su tristeza en las 
 islas Canarias. 
 
-📌No te pierdas: [Descubre la dulzura de La Orotava 
-(Tenerife)](https://etheriamagazine.com/2020/06/20/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava/). 
+📌No te pierdas: {{< reflink 
+path=posts/2020/06/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava >}}. 
 
 ![Bello conjunto arquitectónico de La Orotava .](https://fotos.etheriamagazine.com/2020/06/orotava-iglesia-concepcion.jpg "Bello conjunto arquitectónico de La Orotava. © M. M.")
 

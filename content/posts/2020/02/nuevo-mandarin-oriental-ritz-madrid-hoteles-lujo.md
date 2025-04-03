@@ -1,7 +1,7 @@
 ---
 title: "3 razones por las que querrás visitar el nuevo Mandarin Oriental Ritz Madrid"
 date: 2020-02-18
-coverImage: https://fotos.etheriamagazine.com/2020/02/Mandarin-Oriental-RitzPalm-Court.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/Mandarin-Oriental-RitzPalm-Court.jpg
 categories: 
   - hoteles
 destino: 
@@ -65,7 +65,7 @@ zona para el _afternoon tea_; el **Champagne Bar** con una original propuesta de
 maridaje de champán con tapas para sólo ocho comensales; **Pictura**, donde los cócteles 
 son los protagonistas; y el **Jardín del Ritz**, con un nuevo y espectacular diseño. 
 
-#### ✅ **Sigue leyendo:** [Cómo son los 5 lujosos restaurantes del Mandarin Oriental Ritz Madrid](https://etheriamagazine.com/2021/04/12/restaurantes-mandarin-oriental-ritz-quique-dacosta/).
+#### ✅ **Sigue leyendo:** {{< reflink path=posts/2021/04/restaurantes-mandarin-oriental-ritz-quique-dacosta >}}.
 
 ## 3\. Por su nuevo spa
 
@@ -86,11 +86,9 @@ del Mandarin Oriental Ritz Madrid Plaza de la Lealtad, 5. Madrid. Tel. +34 91 70
 
 ## También te puede interesar en Madrid
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/). 
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}. 
 
-[Ruta por el Madrid más libre (de 
-gluten)](https://etheriamagazine.com/2020/10/02/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias/). 
+{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
+>}}. 
 
-[10 planes originales en Madrid para hacer con 
-amigas](https://etheriamagazine.com/2020/08/27/10-planes-originales-en-madrid-con-amigas/).
+{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}.

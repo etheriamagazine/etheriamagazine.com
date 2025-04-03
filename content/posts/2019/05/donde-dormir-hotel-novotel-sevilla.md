@@ -1,7 +1,7 @@
 ---
 title: "Novotel Sevilla, un hotel donde el tiempo está de tu parte"
 date: 2019-05-09
-coverImage: https://fotos.etheriamagazine.com/2019/05/lobby-novotel-sevilla.jpg
+cover: https://fotos.etheriamagazine.com/2019/05/lobby-novotel-sevilla.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-En el Novotel Sevilla podrás hacer el check-in mientras tomas un café, descansar en una 
-cama de diseño ecológico, consumir productos de Kilómetro Cero y colaborar en la lucha 
-contra la deforestación. Disfrutar de la belleza de Sevilla desde un alojamiento 
-comprometido con la sostenibilidad es posible. 
+**En el Novotel Sevilla podrás hacer el check-in mientras tomas un café, descansar en 
+una cama de diseño ecológico, consumir productos de Kilómetro Cero y colaborar en la 
+lucha contra la deforestación. Disfrutar de la belleza de Sevilla desde un alojamiento 
+comprometido con la sostenibilidad es posible.** 
 
 ![bar novotel sevilla](https://fotos.etheriamagazine.com/2019/05/novotel-sevilla-bar-lobby.jpg "Bar del lobby de Novotel Sevilla.")
 
@@ -25,9 +25,8 @@ tiempo– cuando buscamos un hotel urbano preferimos instalaciones modernas, con
 y bien comunicadas. Además, ahora hacen especial hincapié en ayudar a sus clientes a 
 encontrar el equilibrio entre el ocio y el trabajo bajo el lema **Time is your side** 
 con el que se pretende que el huésped tenga tiempo de conectar y desconectar. Nuestra 
-propuesta es que compruebes las atenciones y el buen hacer de este hotel en tu próxima [escapada 
-con amigas a 
-Sevilla](https://etheriamagazine.com/2019/02/04/viajar-con-amigas-sevilla/). 
+propuesta es que compruebes las atenciones y el buen hacer de este hotel en tu próxima 
+{{< reflink path=posts/2019/02/viajar-con-amigas-sevilla >}}. 
 
 ## Renovado por dentro y por fuera
 

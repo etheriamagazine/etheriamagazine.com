@@ -1,7 +1,7 @@
 ---
 title: "Sorteo del libro 'Soñar es Viajar. 88 viajes en confinamiento'"
 date: 2020-10-29
-coverImage: https://fotos.etheriamagazine.com/2020/10/web-SORTEO-88-viajes-confinamiento.jpg
+cover: https://fotos.etheriamagazine.com/2020/10/web-SORTEO-88-viajes-confinamiento.jpg
 categories: 
   - sorteos
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Sorteamos el magnífico libro 'Soñar es viajar, 88 viajes en confinamiento' con imágenes 
-del fotógrafo Manuel Charlón y textos de 88 periodistas de viajes que comparten lo que 
-es para ellos viajar. Los beneficios de este libro van destinados a la investigación de 
-la COVID-19. 
+**Sorteamos el magnífico libro 'Soñar es viajar, 88 viajes en confinamiento' con 
+imágenes del fotógrafo Manuel Charlón y textos de 88 periodistas de viajes que comparten 
+lo que es para ellos viajar. Los beneficios de este libro van destinados a la 
+investigación de la COVID-19.** 
 
 ![](https://fotos.etheriamagazine.com/2020/10/web-SORTEO-88-viajes-confinamiento.jpg)
 
@@ -26,10 +26,11 @@ de ’88 Viajes en confinamiento’, premio que se enviará al ganador por corre
 de mensajería. Para participar en el concurso, el usuario deberá proceder de la 
 siguiente manera: 
 
-• Ser **seguidor** de @etheriamagazine en la red en la que participes. • Hacer **un 
-comentario** sobre lo que significa para ti viajar. 
+- Ser **seguidor** de @etheriamagazine en la red en la que participes. 
 
-• Mencionar dos amigos o amigas que sean tan viajeros como tú. El ganador será elegido 
+- Hacer **un comentario** sobre lo que significa para ti viajar. 
+
+- Mencionar dos amigos o amigas que sean tan viajeros como tú. El ganador será elegido 
 mediante sorteo aleatorio entre todos los usuarios/participantes. 
 
 Etheria Magazine se pondrá en contacto con el ganador por mensaje privado para que 

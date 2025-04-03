@@ -1,7 +1,7 @@
 ---
 title: "Geles hidroalcohólicos. Conoce las claves para elegir el más eficaz"
 date: 2020-11-05
-coverImage: https://fotos.etheriamagazine.com/2020/11/uso-gel-hidroalcoholico.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/uso-gel-hidroalcoholico.jpg
 categories: 
   - bienestar
   - qué-llevar-en-la-maleta
@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-Los geles hidroalcohólicos se han convertido de la noche a la mañana en productos 
+**Los geles hidroalcohólicos se han convertido de la noche a la mañana en productos 
 indispensables en nuestro día a día y, aún más, cuando viajamos, pero ¿cumplen todos su 
 función de eliminar bacterias y virus? Aclaramos dudas y compartimos algunas marcas que 
-hemos sometido a examen según nivel protección, textura y aroma. 
+hemos sometido a examen según nivel protección, textura y aroma.** 
 
 ![uso gel hidroalcoholico](https://fotos.etheriamagazine.com/2020/11/uso-gel-hidroalcoholico.jpg "El gel hidroalcohólico se debe emplear cuando no tenemos a mano agua y jabón. © Kelly Sikkema")
 
@@ -41,7 +41,8 @@ entre un 70% y un 90% de alcohol.
 
 ![lavado manos eliminar bacterias](https://fotos.etheriamagazine.com/2020/11/lavado-manos-covid.jpg "Un lavado a fondo de manos con jabón es básico para eliminar bacterias y virus.")
 
-Según ha comentado María Enríquez, enfermera del Consejo General de Enfermería, en [Diario 
+Según ha comentado María Enríquez, enfermera del Consejo General de Enfermería, en 
+[Diario 
 Enfermero](https://diarioenfermero.es/las-enfermeras-alertan-de-que-no-todos-los-geles-hidroalcoholicos-protegen-frente-al-covid-19-y-dan-pautas-a-la-poblacion-para-identificar-los-adecuados/), 
 teniendo “en cuenta que el SARS-CoV-2 es un virus debemos comprar hidrogeles con efecto 
 viricida y muy preferiblemente que cumplan la normativa UNE14476”. 
@@ -83,7 +84,8 @@ Sanitarios](https://www.aemps.gob.es/informa/notasInformativas/cosmeticos-cuidad
 en ese caso contará con un código del tipo XXXX-DES. 
 
 Uno de los más demandados en los últimos meses ha sido el Sterillium desinfectante (85% 
-etanol), líquido o en gel, de secado rápido y sin aroma, que se puede encontrar en [PromoFarma](https://www.promofarma.com/es/sterillium-antiseptico-de-manos-500ml/p-58871) 
+etanol), líquido o en gel, de secado rápido y sin aroma, que se puede encontrar en 
+[PromoFarma](https://www.promofarma.com/es/sterillium-antiseptico-de-manos-500ml/p-58871) 
 y en [Amazon](https://amzn.to/2GrJrfC) en botes de 500 ml. Se suele emplear en entornos 
 médicos y su efecto puede durar hasta 6 horas. 
 
@@ -205,8 +207,8 @@ Amazon](https://amzn.to/32cU8uq)). **A favor:** se seca enseguida al frotar las 
 
 ## También te puede interesar
 
-• [Haloterapia y talasoterapia. Los beneficios de la sal en el sistema 
-respiratorio](https://etheriamagazine.com/2020/10/28/uso-terapeutico-de-la-sal-beneficios-de-la-haloterapia-y-la-talasoterapia/). 
+- {{< reflink 
+path=posts/2020/10/uso-terapeutico-de-la-sal-beneficios-de-la-haloterapia-y-la-talasoterapia 
+>}}. 
 
-˝• [La danza, una terapia para recobrar la alegría y que mejoran el estado de ánimo en 
-pacientes con cáncer](https://etheriamagazine.com/2020/10/21/danza-terapia-salud/).
+˝- {{< reflink path=posts/2020/10/danza-terapia-salud >}}.

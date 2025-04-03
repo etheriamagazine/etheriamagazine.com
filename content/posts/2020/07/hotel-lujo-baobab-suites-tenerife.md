@@ -1,7 +1,7 @@
 ---
 title: "Hotel Baobab Suites, apartamentos con servicios de lujo en Tenerife"
 date: 2020-07-22
-coverImage: https://fotos.etheriamagazine.com/2020/07/Baobab-Tenerife-Boutique-Suite-Terraza.jpg
+cover: https://fotos.etheriamagazine.com/2020/07/Baobab-Tenerife-Boutique-Suite-Terraza.jpg
 categories: 
   - hoteles
 destino: 
@@ -128,11 +128,9 @@ Fotografías cedidas por © Baobab Suites.
 
 ## También te puede interesar:
 
-[10 planes para un viaje a Tenerife con 
-amigas](https://etheriamagazine.com/2021/05/17/viaje-a-tenerife-con-amigas-que-hacer-excursiones/) 
+{{< reflink path=posts/2021/05/viaje-a-tenerife-con-amigas-que-hacer-excursiones >}} 
 
-[8 excursiones con niños desde el sur de 
-Tenerife](https://etheriamagazine.com/2020/03/06/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos/) 
+{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
+>}} 
 
-[Tenerife, la isla que necesitas si quieres impulsar tu 
-creatividad](https://etheriamagazine.com/2022/06/03/tenerife-nomadas-digitales/)
+{{< reflink path=posts/2022/06/tenerife-nomadas-digitales >}}

@@ -1,7 +1,7 @@
 ---
 title: "Miguel Delibes, la voz de la España vaciada"
 date: 2021-01-18
-coverImage: https://fotos.etheriamagazine.com/2021/01/Delibes-retrato-perfil.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/Delibes-retrato-perfil.jpg
 categories: 
   - cultura
   - ocio
@@ -170,11 +170,10 @@ Más información en [Centenario de Delibes](https://centenariodelibes.es/).
 
 ### También te puede interesar
 
-[Ruta por la España de las Grandes Escritoras (Parte 
-I).](https://etheriamagazine.com/2020/06/15/viaje-por-la-espana-de-las-grandes-escritoras-del-siglo-xx/) 
+{{< reflink 
+path=posts/2020/06/viaje-por-la-espana-de-las-grandes-escritoras-del-siglo-xx >}} 
 
-[Sofía Casanova, una poetisa gallega en 
-Polonia.](https://etheriamagazine.com/2018/09/10/la-poetisa-sofia-casanova-una-gallega-en-polonia/) 
+{{< reflink path=posts/2018/09/la-poetisa-sofia-casanova-una-gallega-en-polonia >}} 
 
-[Ureña, un pueblo de libro en 
-Valladolid.](https://etheriamagazine.com/2020/05/22/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid/)
+{{< reflink path=posts/2020/05/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid 
+>}}

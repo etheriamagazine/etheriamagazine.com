@@ -1,7 +1,7 @@
 ---
 title: "Escapada para chicas en Castilla Termal Monasterio de Valbuena"
 date: 2018-09-06
-coverImage: https://fotos.etheriamagazine.com/2018/09/circuito-contrastes-monasterio-valbuena.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/circuito-contrastes-monasterio-valbuena.jpg
 categories: 
   - viajar-con-amigas
   - bienestar
@@ -12,10 +12,10 @@ authors:
   - Pepa G. Marín
 ---
 
-En Monasterio de Valbuena, el cinco estrellas de Castilla Termal, el descanso, el relax 
-y la gastronomía van de la mano. En este hotel-balneario situado en la provincia de 
-Valladolid encontramos propuestas para todos los públicos, entre ellas también una 
-dirigida exclusivamente a chicas. 
+**En Monasterio de Valbuena, el cinco estrellas de Castilla Termal, el descanso, el 
+relax y la gastronomía van de la mano. En este hotel-balneario situado en la provincia 
+de Valladolid encontramos propuestas para todos los públicos, entre ellas también una 
+dirigida exclusivamente a chicas.** 
 
 ![escapada relax, viajes con amigas, hotel valbuena](https://fotos.etheriamagazine.com/2018/09/escapada-relax-chicas-e1565250399236.jpg "chica nadando en una piscina")
 
@@ -92,8 +92,8 @@ Los tratamientos adicionales tendrán un 15% de descuento.
 
 **También te puede interesar...** 
 
-[Castilla Termal Valbuena, una escapada de relax en la Ribera del 
-Duero](https://etheriamagazine.com/2021/10/29/castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero/). 
+{{< reflink 
+path=posts/2021/10/castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero 
+>}}. 
 
-[Hoteles románticos en España, ni muy caros ni muy 
-baratos](https://etheriamagazine.com/2023/02/06/hoteles-romanticos-espana-precio-medio/).
+{{< reflink path=posts/2023/02/hoteles-romanticos-espana-precio-medio >}}.

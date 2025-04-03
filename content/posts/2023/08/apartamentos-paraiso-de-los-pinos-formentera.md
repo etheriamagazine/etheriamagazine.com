@@ -1,7 +1,7 @@
 ---
 title: "Paraíso de los Pinos, el refugio que necesitas en Formentera"
 date: 2023-08-21
-coverImage: https://fotos.etheriamagazine.com/2023/08/paraiso-pinos-formentera-exterior.jpg
+cover: https://fotos.etheriamagazine.com/2023/08/paraiso-pinos-formentera-exterior.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Formentera es uno de los destinos estrella del verano y, aunque su popularidad llena la 
-costa en los meses estivales, siempre se pueden buscar rincones de calma. Uno de ellos 
-es Paraíso de los Pinos, un complejo de apartamentos y villas con servicios de lujo y el 
-encanto de lo sencillo. Te sentirás como en casa. 
+**Formentera es uno de los destinos estrella del verano y, aunque su popularidad llena 
+la costa en los meses estivales, siempre se pueden buscar rincones de calma. Uno de 
+ellos es Paraíso de los Pinos, un complejo de apartamentos y villas con servicios de 
+lujo y el encanto de lo sencillo. Te sentirás como en casa.** 
 
 ![Paraíso de los Pinos en Formentera](https://fotos.etheriamagazine.com/2023/08/paraiso-pinos-formentera-exterior.jpg "Paraíso de los Pinos.")
 
@@ -90,11 +90,8 @@ Francisco Javier, Formentera. Tel. +34 971 322 613.
 
 📌 **También te puede interesar:** 
 
-[Formentera con amigas, planes imprescindibles para una escapada 
-perfecta](https://etheriamagazine.com/2023/04/24/formentera-con-amigas/) 
+{{< reflink path=posts/2023/04/formentera-con-amigas >}} 
 
-[Zambúllete en la mejor guía de playas de 
-Formentera](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-playas-formentera/) 
+{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}} 
 
-[Dónde comer bien en Formentera sin perder de vista la mano 
-femenina](https://etheriamagazine.com/2022/07/27/mejores-restaurantes-formentera/)
+{{< reflink path=posts/2022/07/mejores-restaurantes-formentera >}}

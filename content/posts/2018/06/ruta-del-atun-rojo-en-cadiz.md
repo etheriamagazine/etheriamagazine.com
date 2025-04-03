@@ -1,7 +1,7 @@
 ---
 title: "Ruta del Atún Rojo de Cádiz, de Conil a Tarifa por la orilla del mar"
 date: 2018-06-12
-coverImage: https://fotos.etheriamagazine.com/2018/06/tartar-ruta-del-atun.jpg
+cover: https://fotos.etheriamagazine.com/2018/06/tartar-ruta-del-atun.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-La Ruta del Atún Rojo de Cádiz es un itinerario esencial para los amantes de la buena 
+**La Ruta del Atún Rojo de Cádiz es un itinerario esencial para los amantes de la buena 
 mesa. El mejor momento para hacerla es en primavera cuando el rey del mar pasa por el 
 estrecho de Gibraltar camino del Mediterráneo. Este año, entre abril y junio, se celebra 
 la Ruta del Atún en Conil, Barbate, Zahara de los Atunes y Tarifa, una buena ocasión 
-para degustar atún rojo y para hacer las visitas que te recomendamos en este artículo. 
+para degustar atún rojo y para hacer las visitas que te recomendamos en este artículo.** 
 
 ![Petri Benitez, chef de la Venta Melchor, un restaurante básico en la Ruta del Atún Conil](https://fotos.etheriamagazine.com/2018/06/Petri-benitez-venta-melchor-ruta-del-atun-conil-e1649843656194.jpg "Petri Benitez, chef de Venta Melchor, es una experta en atún rojo. © Pepa García")
 
@@ -50,8 +50,7 @@ atardecer), y pasear por el laberinto de calles del Barrio de los Pescadores. Al
 sus arterias, como la calle Cádiz, con sus bares, restaurantes, tiendas de artesanía y 
 heladerías están animadas durante todo el día. 
 
-📌No te pierdas: [15 visitas imprescindibles en Conil gratis y ninguna es una 
-playa](https://etheriamagazine.com/2022/04/13/guia-de-conil-visitas-gratuitas/). 
+📌No te pierdas: {{< reflink path=posts/2022/04/guia-de-conil-visitas-gratuitas >}}. 
 
 ### Playas de Conil
 
@@ -65,9 +64,8 @@ que parte del faro y que ofrece unas bonitas vistas. Frente al muelle yacen tumb
 centenares de anclas utilizadas en la almadraba y un bar (El Tergal), que puede pasar 
 desapercibido pero donde se degusta excelente pescado y paellas. 
 
-📌No te pierdas: [Descubre las 15 mejores playas y calas de Conil (cómo llegar y fotos 
-de 
-todas)](https://etheriamagazine.com/2021/02/05/mejores-playas-y-calas-de-conil-de-la-frontera/). 
+📌No te pierdas: {{< reflink 
+path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
 
 ![Cocina de Casa Francisco, en Conil de la Frontera](https://fotos.etheriamagazine.com/2018/06/casa-francisco-ruta-del-atun-conil-e1649843735505.jpg "Casa Francisco La Fontanilla dispone de una amplia carta de atún durante todo el año.")
 
@@ -155,8 +153,8 @@ el archivo, mercado, teatro, termas, acueductos, etc. Y, también, un espacio de
 las salazones, ya que desde aquí se enviaba atún y _garum_ (salsa preparada a partir de 
 las vísceras de este pez, entre otros elementos) a las colonias romanas. 
 
-📌No te pierdas la [mejor guía para visitar Baelo 
-Claudia](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/). 
+📌No te pierdas la {{< reflink 
+path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}}. 
 
 ![Vista de Tarifa desde el castillo de Guzmán el Bueno](https://fotos.etheriamagazine.com/2020/06/tarifa-pueblo.jpg "Vista de Tarifa desde el castillo de Guzmán el Bueno. © Etheria Magazine")
 

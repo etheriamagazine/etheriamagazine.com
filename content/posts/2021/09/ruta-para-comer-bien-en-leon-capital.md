@@ -1,7 +1,7 @@
 ---
 title: "De tapinas por León: el secreto mejor guardado de la capital del Santo Grial"
 date: 2021-09-09
-coverImage: https://fotos.etheriamagazine.com/2021/06/leon-hotel-camarote.jpg
+cover: https://fotos.etheriamagazine.com/2021/06/leon-hotel-camarote.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -203,15 +203,11 @@ irse de _tapinas_ por León.
 
 También te puede interesar en León... 
 
-[Si León no existiera, habría que inventarlo: 10 razones para descubrir la capital de un 
-reino 
-fascinante](https://etheriamagazine.com/2020/12/28/10-razones-para-descubrir-leon-una-capital-unica-y-diferente/). 
+{{< reflink 
+path=posts/2020/12/10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}. 
 
-[16 secretos que desconoces de la milenaria ciudad de 
-León](https://etheriamagazine.com/2020/12/16/16-lugares-secretos-y-leyendas-de-leon-capital/). 
+{{< reflink path=posts/2020/12/16-lugares-secretos-y-leyendas-de-leon-capital >}}. 
 
-[El renovado Parador de León, un hotel de lujo para espíritus 
-ilustrados](https://etheriamagazine.com/2020/12/22/parador-de-leon-hotel-romantico-y-de-lujo/). 
+{{< reflink path=posts/2020/12/parador-de-leon-hotel-romantico-y-de-lujo >}}. 
 
-[Fiesta de las Cabezadas de León, una celebración histórica llena de 
-ironía](https://etheriamagazine.com/2021/04/23/que-es-la-fiesta-de-las-cabezadas-de-leon/).
+{{< reflink path=posts/2021/04/que-es-la-fiesta-de-las-cabezadas-de-leon >}}.

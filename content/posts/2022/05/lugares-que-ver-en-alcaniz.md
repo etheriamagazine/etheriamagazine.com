@@ -1,7 +1,7 @@
 ---
 title: "Alcañiz, rocanrol por la ciudad con las mejores curvas de Aragón"
 date: 2022-05-23
-coverImage: https://fotos.etheriamagazine.com/2022/05/Pueblo-Belmonte-de-San-Jose-Alcaniz.jpg
+cover: https://fotos.etheriamagazine.com/2022/05/Pueblo-Belmonte-de-San-Jose-Alcaniz.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -190,8 +190,6 @@ paisajes agrícolas que tanta riqueza dieron a la ciudad.
 
 #### Otras propuestas en Teruel...
 
-[Ruta en coche por Teruel, 10 paradas por carreteras 
-secundarias](https://etheriamagazine.com/2021/10/12/ruta-en-coche-por-teruel/). 
+{{< reflink path=posts/2021/10/ruta-en-coche-por-teruel >}}. 
 
-[48 horas en… Teruel, ciudad de arte y 
-gastronomía](https://etheriamagazine.com/2020/02/10/viajes-romanticos-que-ver-donde-comer-teruel/).
+{{< reflink path=posts/2020/02/viajes-romanticos-que-ver-donde-comer-teruel >}}.

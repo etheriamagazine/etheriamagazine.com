@@ -1,7 +1,7 @@
 ---
 title: "15 visitas que no debes perderte en tu próximo viaje a Londres"
 date: 2022-11-10
-coverImage: https://fotos.etheriamagazine.com/2022/11/puente-milenio-londres.jpg
+cover: https://fotos.etheriamagazine.com/2022/11/puente-milenio-londres.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Paloma Herce
 ---
 
-La capital británica siempre debe tener un hueco en tu agenda de viajes. La ciudad que 
+**La capital británica siempre debe tener un hueco en tu agenda de viajes. La ciudad que 
 llaman el ‘Nueva York’ europeo, aunque Madrid le pisa cada vez más el terreno, es un 
 hervidero de cultura, gastronomía internacional y moda. Cualquier momento es bueno para 
 visitar Londres así que, ya sea tu primera vez, o tu quinta, estos rincones bien merecen 
-una visita. 
+una visita.** 
 
 ![Puente del Milenio, en Londres.](https://fotos.etheriamagazine.com/2022/11/puente-milenio-londres.jpg "Puente del Milenio, en Londres. © James Padolsey")
 
@@ -177,8 +177,8 @@ disfrutar de un brunch. ¿Hay mejor plan para un domingo en Londres?
 
 **También te puede interesar...** 
 
-[Un viaje a Londres en diez películas 
-inolvidables](https://etheriamagazine.com/2020/12/11/diez-peliculas-rodadas-en-londres/). 
+{{< reflink path=posts/2020/12/diez-peliculas-rodadas-en-londres >}}. 
 
-[Compras en Londres, sus tiendas y barrios más 
-auténticos](https://etheriamagazine.com/2020/05/06/compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone/).
+{{< reflink 
+path=posts/2020/05/compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone 
+>}}.

@@ -1,7 +1,7 @@
 ---
 title: "Volcanes de pasión, una ruta por las islas Eolias"
 date: 2022-10-12
-coverImage: https://fotos.etheriamagazine.com/2022/10/Vulcano-islas-eolias.jpg
+cover: https://fotos.etheriamagazine.com/2022/10/Vulcano-islas-eolias.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pedro Grifol
 ---
 
-El turismo de volcanes despunta como tendencia para los más aventureros, tras la 
+**El turismo de volcanes despunta como tendencia para los más aventureros, tras la 
 erupción del Cumbre Vieja de La Palma y la más reciente del Stromboli. Hemos viajado a 
 Italia para hablaros de dos volcanes con historias de amor y celos. Dos películas, con 
-nombre de volcán, son el motivo para descubrir las islas Eolias. 
+nombre de volcán, son el motivo para descubrir las islas Eolias.** 
 
 ![Erupción del volcán Stromboli.](https://fotos.etheriamagazine.com/2022/10/erupcion-stromboli.jpg "Erupción del volcán Stromboli. © Pedro Grifol")
 
@@ -212,8 +212,6 @@ tengas), es recomendable cargar con el trípode.
 
 ### No te pierdas
 
-[Islas Eolias, 6 placeres entre el cielo y el 
-infierno](https://etheriamagazine.com/2020/07/31/italia-guia-viaje-islas-eolias-que-ver-hacer/). 
+{{< reflink path=posts/2020/07/italia-guia-viaje-islas-eolias-que-ver-hacer >}}. 
 
-[Ruta en coche por Sicilia, entre pantocrátores y 
-bikinis](https://etheriamagazine.com/2021/07/05/sicilia-pantocratores-y-bikinis/).
+{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}}.

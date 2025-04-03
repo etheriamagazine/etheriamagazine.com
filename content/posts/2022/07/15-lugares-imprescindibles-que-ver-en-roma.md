@@ -1,7 +1,7 @@
 ---
 title: "15 lugares imprescindibles que ver en Roma"
 date: 2022-07-11
-coverImage: https://fotos.etheriamagazine.com/2022/07/Roma-villa-borghese-mirador.jpg
+cover: https://fotos.etheriamagazine.com/2022/07/Roma-villa-borghese-mirador.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -12,11 +12,11 @@ authors:
   - Susana García
 ---
 
-La ciudad de Roma puede abrumar cuando planificas un viaje ante la inabarcable cantidad 
-de lugares históricos, museos y plazas famosas. Aquí hemos seleccionado los 15 lugares 
-imprescindibles que tienes que ver en Roma en un primer viaje. Y te aseguramos que 
-algunos de ellos te gustarán tanto que repetirás cada vez que vuelvas a la Ciudad 
-Eterna. 
+**La ciudad de Roma puede abrumar cuando planificas un viaje ante la inabarcable 
+cantidad de lugares históricos, museos y plazas famosas. Aquí hemos seleccionado los 15 
+lugares imprescindibles que tienes que ver en Roma en un primer viaje. Y te aseguramos 
+que algunos de ellos te gustarán tanto que repetirás cada vez que vuelvas a la Ciudad 
+Eterna.** 
 
 ![Vistas de Roma desde Villa Borghese](https://fotos.etheriamagazine.com/2022/07/Roma-villa-borghese-mirador.jpg "Mirador de Villa Borghese. © Susana García/ Etheria Magazine")
 
@@ -332,10 +332,9 @@ visita organizada)
 La oferta hotelera en Roma es enorme. Hay hoteles de todas las categorías y también 
 apartamentos turísticos. Lo mejor es alojarse en el centro para no tener que perder 
 tiempo en los desplazamientos y tener a mano una buena oferta de restaurantes. Una buena 
-opción para darse un capricho es el [Gran Meliá Villa 
-Agripina](https://etheriamagazine.com/2022/05/30/hotel-gran-melia-villa-agrippina-roma/), 
-un hotel de cinco estrellas con piscina en un entorno muy tranquilo y a un paso del 
-centro. 
+opción para darse un capricho es el {{< reflink 
+path=posts/2022/05/hotel-gran-melia-villa-agrippina-roma >}}, un hotel de cinco 
+estrellas con piscina en un entorno muy tranquilo y a un paso del centro. 
 
 ##### 📍¿Cómo visitar Roma?
 
@@ -356,8 +355,6 @@ otras muchas propuestas.
 
 ## También te puede interesar:
 
-[Excursión a Tívoli: un plan perfecto desde 
-Roma](https://etheriamagazine.com/2022/05/06/excursion-a-tivoli-desde-roma/) 
+{{< reflink path=posts/2022/05/excursion-a-tivoli-desde-roma >}} 
 
-[Roma, la escapada con amigas que 
-necesitas](https://etheriamagazine.com/2018/10/31/fin-de-semana-en-roma-con-amigas/)
+{{< reflink path=posts/2018/10/fin-de-semana-en-roma-con-amigas >}}

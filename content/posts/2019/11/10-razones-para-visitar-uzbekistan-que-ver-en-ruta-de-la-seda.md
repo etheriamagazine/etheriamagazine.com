@@ -1,7 +1,7 @@
 ---
 title: "Uzbekistán, el país de las mil y una noches"
 date: 2019-11-28
-coverImage: https://fotos.etheriamagazine.com/2019/11/viaje-mujeres-uzbekistan-bukhara.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/viaje-mujeres-uzbekistan-bukhara.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Ana Vara y David Santiago
 ---
 
-Uzbekistán conserva las tres ciudades oasis más bellas de la 'Ruta de la seda': Khiva, 
+**Uzbekistán conserva las tres ciudades oasis más bellas de la 'Ruta de la seda': Khiva, 
 Bukhara y Samarcanda. Por ellas pasaron las principales caravanas de mercaderes, 
 incluidas las de Marco Polo. Si esto no te parece suficiente, te damos muchas más 
-razones para visitarlo en este artículo. 
+razones para visitarlo en este artículo.** 
 
 ![Mezquita de Kalon.](https://fotos.etheriamagazine.com/2019/11/viaje-mujeres-uzbekistan-bukhara.jpg "Mezquita de Kalon. © David Santiago.")
 
@@ -189,11 +189,9 @@ ciudades.
 
 ### También te puede interesar...
 
-[Viajar sola al lago Atitlán, una aventura fascinante en busca de las raíces 
-mayas](https://etheriamagazine.com/2021/02/20/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala/). 
+{{< reflink path=posts/2021/02/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala >}}. 
 
-[Chiang Mai, descubre su esencia entre templos y 
-mercados](https://etheriamagazine.com/2021/01/08/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual/). 
+{{< reflink path=posts/2021/01/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual 
+>}}. 
 
-[Descubre las joyas de Myanmar, la tierra 
-dorada](https://etheriamagazine.com/2020/04/27/mujeres-aventureras-viaje-myanmar-que-ver-hacer/).
+{{< reflink path=posts/2020/04/mujeres-aventureras-viaje-myanmar-que-ver-hacer >}}.

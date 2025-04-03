@@ -1,7 +1,7 @@
 ---
 title: "Apps indispensables para organizar una despedida de soltera (con viaje incluido, claro)"
 date: 2018-07-20
-coverImage: https://fotos.etheriamagazine.com/2018/07/Despedida-de-soltera-moviles.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/Despedida-de-soltera-moviles.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Kelu Robles
 ---
 
-El plan para la despedida de soltera comienza como algo inocente. Haces un grupo de 
+**El plan para la despedida de soltera comienza como algo inocente. Haces un grupo de 
 Whatsapp llamado “Despe de...”, añades una foto horrible de la futura novia y esperas a 
 que todo fluya. Entonces, la realidad te da una bofetada y la mañana siguiente te recibe 
 con 386 mensajes sin leer, memes que no vienen a cuento y, sobre todo, cientos de pegas 
-y demasiados emoticonos. 
+y demasiados emoticonos.** 
 
 ![](https://fotos.etheriamagazine.com/2018/07/despedida-de-soltera-playa.jpg "Atardecer en la playa")
 
@@ -76,22 +76,20 @@ El cajón de sastre más grande de los viajes. ¿Qué diferencia un plan familia
 pareja, de amigas y uno de despedida de soltera? Desde todo hasta absolutamente nada. 
 Depende de vosotras. Por eso, si queréis incluir en el viaje juegos con la novia, la app 
 **Despedida Soltera** ofrece gymkanas, test locos y pruebas absurdas. Descargando 
-**GuessUp! - Charadas** podréis adivinar películas, canciones e imágenes de diferentes 
-categorías. Se trata de una revisión del juego del post-it en la frente que aquí es 
-sustituido por un smartphone que emite sonidos, canciones e imágenes. Como improvisar es 
-todo un arte, con **Fever** podréis estar al día de los eventos culturales, 
-gastronómicos y nocturnos de la ciudad en la que os encontréis y elegir según lo que os 
-pida el cuerpo. 
+**GuessUp! 
+
+- Charadas** podréis adivinar películas, canciones e imágenes de diferentes categorías. 
+Se trata de una revisión del juego del post-it en la frente que aquí es sustituido por 
+un smartphone que emite sonidos, canciones e imágenes. Como improvisar es todo un arte, 
+con **Fever** podréis estar al día de los eventos culturales, gastronómicos y nocturnos 
+de la ciudad en la que os encontréis y elegir según lo que os pida el cuerpo. 
 
 ![planes chicas mujeres boda apps](https://fotos.etheriamagazine.com/2018/07/despedida-de-soltera-concierto.jpg "Concierto")
 
 ### También te puede interesar...
 
-[Asturias en coche, guía para un viaje legendario con 
-amigas](https://etheriamagazine.com/2022/01/17/asturias-en-coche-guia-imprescindible/). 
+{{< reflink path=posts/2022/01/asturias-en-coche-guia-imprescindible >}}. 
 
-[Verona, mucho más que la ciudad de 
-Julieta](https://etheriamagazine.com/2021/12/01/que-ver-en-verona/). 
+{{< reflink path=posts/2021/12/que-ver-en-verona >}}. 
 
-[Ronda con amigas. Un fin de semana perfecto en el 
-sur](https://etheriamagazine.com/2021/11/23/planes-en-ronda-con-amigas/).
+{{< reflink path=posts/2021/11/planes-en-ronda-con-amigas >}}.

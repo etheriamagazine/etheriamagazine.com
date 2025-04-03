@@ -1,7 +1,7 @@
 ---
 title: "Un viaje con amigas a Tulum, el último paraíso mexicano"
 date: 2019-06-19
-coverImage: https://fotos.etheriamagazine.com/2019/06/Tulum-con-amigas-barca.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/Tulum-con-amigas-barca.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Macarena Escrivá
 ---
 
-¿De verdad existe el paraíso? Nosotras hemos encontrado uno. Uno bañado por las aguas 
+**¿De verdad existe el paraíso? Nosotras hemos encontrado uno. Uno bañado por las aguas 
 del Caribe, donde la vida es lenta y tranquila, las palmeras campan a sus anchas y la 
-playa se funde con la selva. Te contamos qué ver en Tulum, el nuevo edén mexicano . 
+playa se funde con la selva. Te contamos qué ver en Tulum, el nuevo edén mexicano**. 
 
 ![foto aérea de la playa de Tulum](https://fotos.etheriamagazine.com/2019/06/Tulum-con-amigas-playa-mar.jpg "Costa de Tulum.")
 
@@ -146,11 +146,8 @@ frenético de este pueblo bohemio y singular.
 
 📌 **También te puede interesar:** 
 
-[10 yacimientos arqueológicos de México que no puedes 
-perderte](https://etheriamagazine.com/2021/03/30/mejores-yacimientos-arqueologicos-mexico/) 
+{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}} 
 
-[10 excursiones para descubrir la Riviera 
-Maya](https://etheriamagazine.com/2022/02/01/excursiones-en-riviera-maya-mexico/) 
+{{< reflink path=posts/2022/02/excursiones-en-riviera-maya-mexico >}} 
 
-[Cozumel, Holbox e Isla Mujeres, tres islas de Yucatán donde querrás quedarte a 
-vivir](https://etheriamagazine.com/2021/08/01/que-ver-en-las-islas-de-yucatan-mexico/)
+{{< reflink path=posts/2021/08/que-ver-en-las-islas-de-yucatan-mexico >}}

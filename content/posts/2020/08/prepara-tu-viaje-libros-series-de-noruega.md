@@ -1,7 +1,7 @@
 ---
 title: "Prepara tu viaje a Noruega: libros y películas para ante de viajar"
 date: 2020-08-18
-coverImage: https://fotos.etheriamagazine.com/2020/07/preparar-viaje-noruega-pulpito.jpg
+cover: https://fotos.etheriamagazine.com/2020/07/preparar-viaje-noruega-pulpito.jpg
 categories: 
   - inspiración
   - ocio
@@ -112,9 +112,10 @@ fiordos de Nærøyfjord y Aurlandsfjord.
 
 Una serie que describe la vida de unos adolescentes noruegos residentes en un barrio 
 bien de Oslo. Cada temporada se centra en un personaje y es una buena elección para ver 
-el modo de vida y preocupaciones de la juventud noruega. Visit Oslo ha preparado una [ruta](https://www.visitoslo.com/es/articulos/skam/) 
-para ver los principales escenarios. Ha tenido tanto éxito que Movistar ha producido la 
-versión española de la serie. 
+el modo de vida y preocupaciones de la juventud noruega. Visit Oslo ha preparado una 
+[ruta](https://www.visitoslo.com/es/articulos/skam/) para ver los principales 
+escenarios. Ha tenido tanto éxito que Movistar ha producido la versión española de la 
+serie. 
 
 ![Opera House de Oslo.](https://fotos.etheriamagazine.com/2020/07/preparar-viaje-noruega-oslo.jpg "Opera House de Oslo. © Oliver Cole")
 
@@ -188,9 +189,9 @@ de la madera_](https://amzn.to/331J70d) pone en valor lo sencillo y cotidiano.
 [_El niño en la nieve_](https://amzn.to/2ZYcwX5) y [_Viajo 
 sola_](https://amzn.to/2BvMdhs), de Samuel Bjørk, son dos novelas de suspense al más 
 puro estilo nórdico con mucho misterio, crímenes e inspectores llenos de dudas. También 
-son muy recomendables [_Bajo el faro_](https://amzn.to/300emGP), de Heine Bakkeid, y [_En 
-el fiordo profundo_](https://amzn.to/30L10NS), de Ruth Lillegraven, aunque la lista de 
-de novela negra noruega es interminable. 
+son muy recomendables [_Bajo el faro_](https://amzn.to/300emGP), de Heine Bakkeid, y 
+[_En el fiordo profundo_](https://amzn.to/30L10NS), de Ruth Lillegraven, aunque la lista 
+de de novela negra noruega es interminable. 
 
 ![viajes a Noruega, libros sobre Noruega, viajes por Europa](https://fotos.etheriamagazine.com/2020/07/viaja-noruega-novela-negra.jpg "Títulos de novela negra noruega.Títulos de novela negra noruega.")
 
@@ -208,7 +209,8 @@ trilogía.
 
 Una de las obras más famosas y aplaudidas de la literatura noruega, que narra la vida de 
 un niño con una gran imaginación que envían a un piso tutelado en Oslo. Ameno, divertido 
-y muy recomendable, es el primero de una tetralogía. Puedes encontrarlo en [Amazon](https://amzn.to/2DaN7AE). 
+y muy recomendable, es el primero de una tetralogía. Puedes encontrarlo en 
+[Amazon](https://amzn.to/2DaN7AE). 
 
 #### 'Cuaderno de viaje. Noruega y Edvard Munch' de Paloma Alarcó y Clara Marcellán
 
@@ -238,11 +240,9 @@ fiordos](https://amzn.to/2WZyC9P), de Anaya Touring.
 
 ### También te puede interesar:
 
-[9 motivos para viajar a 
-Noruega](https://etheriamagazine.com/2020/07/15/9-motivos-para-viajar-a-noruega/) 
+{{< reflink path=posts/2020/07/9-motivos-para-viajar-a-noruega >}} 
 
-[Recorre las 3 capitales de Noruega: Trondheim, Bergen y 
-Oslo](https://etheriamagazine.com/2020/01/24/que-ver-en-noruega-trondheim-bergen-y-oslo/) 
+{{< reflink path=posts/2020/01/que-ver-en-noruega-trondheim-bergen-y-oslo >}} 
 
-[¿Conoces la (premiadísima) cocina 
-noruega?](https://etheriamagazine.com/2019/03/28/mujeres-gastronomia-y-que-comer-en-noruega%e2%80%a8/)[](https://etheriamagazine.com/2019/03/28/mujeres-gastronomia-y-que-comer-en-noruega%e2%80%a8/)
+{{< reflink path=posts/2019/03/mujeres-gastronomia-y-que-comer-en-noruega >}}{{< reflink 
+path=posts/2019/03/mujeres-gastronomia-y-que-comer-en-noruega >}}

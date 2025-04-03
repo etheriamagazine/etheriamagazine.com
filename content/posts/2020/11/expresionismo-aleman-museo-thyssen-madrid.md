@@ -1,7 +1,7 @@
 ---
 title: "Expresionismo alemán en el Thyssen-Bornemisza. La rebeldía del barón Thyssen"
 date: 2020-11-09
-coverImage: https://fotos.etheriamagazine.com/2020/10/El-sueno-de-Franz-Marc.jpg
+cover: https://fotos.etheriamagazine.com/2020/10/El-sueno-de-Franz-Marc.jpg
 categories: 
   - cultura
   - ocio
@@ -127,4 +127,4 @@ muestras de la posguerra dedicadas a rescatar el ‘arte degenerado’ culminaro
 primera Documenta de Kassel (1955). Los expresionistas se convirtieron en un símbolo de 
 libertad para la nueva Alemania federal”. 
 
-[Sigue leyendo: "Las 10 exposiciones que no puedes perderte este otoño-invierno en Madrid"](https://etheriamagazine.com/2020/10/13/10-exposiciones-en-madrid-para-otono-2020/)
+{{< reflink path=posts/2020/10/10-exposiciones-en-madrid-para-otono-2020 >}}

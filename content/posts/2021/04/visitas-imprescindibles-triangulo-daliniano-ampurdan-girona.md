@@ -1,7 +1,7 @@
 ---
 title: "Contágiate de la locura de Dalí en el Triángulo daliniano"
 date: 2021-04-21
-coverImage: https://fotos.etheriamagazine.com/2021/03/sala-de-Mae-West-Teatro-Museo-Dali.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/sala-de-Mae-West-Teatro-Museo-Dali.jpg
 destino: 
   - España
 authors: 
@@ -207,17 +207,13 @@ habrá que consultar las páginas web de cada uno de ellos.
 
 ### También te puede interesar...
 
-[6 pueblos imprescindibles en un viaje a la Costa Brava con 
-amigas](https://etheriamagazine.com/2019/05/28/pueblos-imprescindibles-viaje-amigas-costa-brava/). 
+{{< reflink path=posts/2019/05/pueblos-imprescindibles-viaje-amigas-costa-brava >}}. 
 
-[Cabo de Creus (Girona). 10 pisadas slow frente al 
-Mediterráneo](https://etheriamagazine.com/2019/06/17/que-ver-girona-con-amigas-slow-travel/). 
+{{< reflink path=posts/2019/06/que-ver-girona-con-amigas-slow-travel >}}. 
 
-[Descubre estos 8 lugares secretos de Cataluña que deberías 
-conocer](https://etheriamagazine.com/2021/02/22/lugares-secretos-de-cataluna-que-visitar/). 
+{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}. 
 
-[Empordà, 10 esencias mediterráneas en la Costa 
-Brava](https://etheriamagazine.com/2020/08/21/10-planes-comarca-ampurdan-costa-brava/). 
+{{< reflink path=posts/2020/08/10-planes-comarca-ampurdan-costa-brava >}}. 
 
-[Tossa de Mar, la genuina Costa 
-Brava](https://etheriamagazine.com/2020/06/24/viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava/).
+{{< reflink path=posts/2020/06/viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava 
+>}}.

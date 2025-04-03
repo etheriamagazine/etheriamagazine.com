@@ -1,7 +1,7 @@
 ---
 title: "15 visitas que hacer en Conil y ninguna es una playa"
 date: 2022-04-13
-coverImage: https://fotos.etheriamagazine.com/2022/04/puerto-pesquero-conil.jpg
+cover: https://fotos.etheriamagazine.com/2022/04/puerto-pesquero-conil.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -221,18 +221,15 @@ Y, ahora sí, ya estás preparada para disfrutar de las playas y la buena mesa d
 
 ### No te pierdas...
 
-✅ [Dónde comer bien en Conil de la Frontera, bares y restaurantes 
-recomendados](https://etheriamagazine.com/2022/07/22/donde-comer-bien-conil-de-la-frontera/) 
+✅ {{< reflink path=posts/2022/07/donde-comer-bien-conil-de-la-frontera >}} 
 
-✅ [Las mejores calas y playas de Conil de la 
-Frontera](https://etheriamagazine.com/2021/02/05/mejores-playas-y-calas-de-conil-de-la-frontera/). 
+✅ {{< reflink path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
 
-[Ruta del Atún Rojo en la costa de 
-Cádiz](https://etheriamagazine.com/2018/06/12/ruta-del-atun-rojo-en-cadiz/). 
+{{< reflink path=posts/2018/06/ruta-del-atun-rojo-en-cadiz >}}. 
 
 📌 [Excursión desde Conil a Baelo Claudia y 
 Tarifa](https://www.civitatis.com/es/conil-de-la-frontera/tarifa-zahara-atunes-baelo-claudia/?aid=10211), 
 con transporte en autobús, guía en español y entradas incluidos (48 €). Si lo quieres 
-hacer por libre, en este [artículo de Baelo 
-Claudia](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/) 
-te damos algunas claves.
+hacer por libre, en este {{< reflink 
+path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}} te damos 
+algunas claves.

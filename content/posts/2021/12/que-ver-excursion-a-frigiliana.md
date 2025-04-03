@@ -1,7 +1,7 @@
 ---
 title: "Un día en Frigiliana, uno de los pueblos más bonitos de Málaga"
 date: 2021-12-15
-coverImage: https://fotos.etheriamagazine.com/2021/12/Frigiliana-calle-barrio-alto.jpg
+cover: https://fotos.etheriamagazine.com/2021/12/Frigiliana-calle-barrio-alto.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -162,11 +162,9 @@ Más información en [Turismo de Frigiliana](https://www.turismofrigiliana.es/es
 
 ### También te puede interesar
 
-[Road trip por la Axarquía 
-malagueña](https://etheriamagazine.com/2020/06/19/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga/). 
+{{< reflink path=posts/2024/07/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga 
+>}}. 
 
-[Un fin de semana en Málaga con 
-amigas](https://etheriamagazine.com/2021/05/03/fin-de-semana-con-amigas-en-malaga/) 
+{{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}} 
 
-[Parque Nacional Sierra de las Nieves, una nueva estrella brilla en 
-Málaga](https://etheriamagazine.com/2021/06/26/revista-viajes-que-ver-parque-sierra-de-nieves/)
+{{< reflink path=posts/2021/06/revista-viajes-que-ver-parque-sierra-de-nieves >}}

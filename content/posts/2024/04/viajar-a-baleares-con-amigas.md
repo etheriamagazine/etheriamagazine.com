@@ -1,7 +1,7 @@
 ---
 title: "Por qué viajar a las Baleares con amigas en el puente de mayo"
 date: 2024-04-22
-coverImage: https://fotos.etheriamagazine.com/2024/04/formentera-viaje-amigas.jpg
+cover: https://fotos.etheriamagazine.com/2024/04/formentera-viaje-amigas.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -45,11 +45,9 @@ ensalada payesa con peix sec.
 
 ******Sigue organizando tu viaje con los artículos de Etheria Magazine:****** 
 
-[Formentera con amigas, planes imprescindibles para una escapada 
-perfecta](https://etheriamagazine.com/2023/04/24/formentera-con-amigas/). 
+{{< reflink path=posts/2023/04/formentera-con-amigas >}}. 
 
-[Zambúllete en la mejor guía de playas de 
-Formentera](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-playas-formentera/) 
+{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}} 
 
 [Reserva una excursión en 
 barco](https://www.civitatis.com/es/formentera/barco-calas-formentera/?aid=10211) de 4h 
@@ -73,8 +71,7 @@ mal plan!
 
 **********Sigue organizando tu viaje con los artículos de Etheria Magazine:********** 
 
-[10 errores que debes evitar si vas a Ibiza con 
-amigas](https://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/). 
+{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}. 
 
 [Reserva un Freetour en Ibiza 
 capital](https://www.civitatis.com/es/ibiza-ciudad/free-tour-ibiza/?aid=10211) con 
@@ -103,14 +100,12 @@ peces, corales y otras criaturas marinas en su hábitat natural.
 
 ******Sigue organizando tu viaje con los artículos de Etheria Magazine:****** 
 
-[10 excursiones en Menorca para unas vacaciones 
-perfectas](https://etheriamagazine.com/2023/10/13/mejores-excursiones-menorca/). 
+{{< reflink path=posts/2023/10/mejores-excursiones-menorca >}}. 
 
-[Playas de Menorca, la guía más completa que 
-encontrarás](https://etheriamagazine.com/2020/08/14/guia-mejores-playas-calas-menorca/). 
+{{< reflink path=posts/2020/08/guia-mejores-playas-calas-menorca >}}. 
 
-[Reserva tus excursiones en Menorca](https://www.civitatis.com/es/menorca/?aid=10211): [paseos 
-por las calas en 
+[Reserva tus excursiones en Menorca](https://www.civitatis.com/es/menorca/?aid=10211): 
+[paseos por las calas en 
 barco](https://www.civitatis.com/es/ciudadela/paseo-barco-menorca/?aid=10211) por 35 €, 
 kayak, snorkel y otras actividades. 
 
@@ -135,8 +130,7 @@ turquesas y curiosas formaciones rocosas.
 
 ********Sigue organizando tu viaje con los artículos de Etheria Magazine:******** 
 
-[Palma con amigas: 8 planazos para exprimir la capital de 
-Mallorca](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palma-mallorca-con-amigas/). 
+{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}. 
 
 [Reserva una excursión a 
 Formentor](https://www.civitatis.com/es/sa-font-de-sa-cala/excursion-formentor-mercadillos/?aid=10211) 

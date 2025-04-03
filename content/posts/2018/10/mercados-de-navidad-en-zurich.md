@@ -1,7 +1,7 @@
 ---
 title: "Mercados de Navidad de Zúrich, un fin de semana inolvidable"
 date: 2018-10-12
-coverImage: https://fotos.etheriamagazine.com/2018/10/Zurich-vista-nocturna-e1566286407183.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/Zurich-vista-nocturna-e1566286407183.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-Viajar a Centroeuropa en invierno es un placer. Vale, hace frío y anochece pronto, pero 
-¿hay una experiencia navideña comparable a deambular por un mercadillo entre las luces, 
-los adornos y el aroma del vino caliente? Te ayudamos a organizar un fin de semana para 
-conocer los mercados de Navidad de Zúrich. 
+**Viajar a Centroeuropa en invierno es un placer. Vale, hace frío y anochece pronto, 
+pero ¿hay una experiencia navideña comparable a deambular por un mercadillo entre las 
+luces, los adornos y el aroma del vino caliente? Te ayudamos a organizar un fin de 
+semana para conocer los mercados de Navidad de Zúrich.** 
 
 ![Vista desde el puente Rathaus Brücke en Zúrich](https://fotos.etheriamagazine.com/2018/10/Zurich-vista-desde-el-río.jpg "Vista desde el puente Rathaus Brücke. ©Switzerland Tourism/Christof Sonderegger")
 
@@ -67,13 +67,13 @@ cerrada perpendicular al río, imprescindible reservar con antelación).
 ## Sábado por la mañana, excursión a Lucerna
 
 Una buena opción para el sábado por la mañana es acercarse a la vecina ciudad de 
-Lucerna. Como en casi cualquier excursión que se haga en Suiza, el [tren](https://www.sbb.ch/home.html) 
-es la mejor opción, y se tarda únicamente 45 minutos. Aunque sólo fuese por divisar 
-desde su orilla el magnífico **lago de los Cuatro Cantones** y pasear por el puente 
-cubierto de madera merecería la pena. Este puente del siglo XIV, conocido como el 
-**Kapellbrücke**, ardió en su parte central en el verano de 1993 pero ha sido fielmente 
-restaurado. Su techo de madera es precioso y guarda pinturas renacentistas del siglo 
-XVII que cuentan historias de la ciudad. 
+Lucerna. Como en casi cualquier excursión que se haga en Suiza, el 
+[tren](https://www.sbb.ch/home.html) es la mejor opción, y se tarda únicamente 45 
+minutos. Aunque sólo fuese por divisar desde su orilla el magnífico **lago de los Cuatro 
+Cantones** y pasear por el puente cubierto de madera merecería la pena. Este puente del 
+siglo XIV, conocido como el **Kapellbrücke**, ardió en su parte central en el verano de 
+1993 pero ha sido fielmente restaurado. Su techo de madera es precioso y guarda pinturas 
+renacentistas del siglo XVII que cuentan historias de la ciudad. 
 
 ![Lucerna, con el puente y la Torre del Agua](https://fotos.etheriamagazine.com/2018/10/Lucerna-navidad.jpg "Lucerna, con el puente y la Torre del Agua. ©STST-STTP.")
 
@@ -141,11 +141,10 @@ Suiza](https://www.myswitzerland.com/es/destinos/regiones/regiones-suisa-zuerich
 
 📌 **También te puede interesar:** 
 
-[10 ciudades con mercadillos navideños para contagiarse del espíritu de la 
-Navidad](https://etheriamagazine.com/2021/10/14/10-ciudades-con-mercadillos-para-contagiarse-del-espiritu-navideno/) 
+{{< reflink 
+path=posts/2021/10/10-ciudades-con-mercadillos-para-contagiarse-del-espiritu-navideno 
+>}} 
 
-[Tres montañas de Suiza a las que subir con niños sin 
-despeinarse](https://etheriamagazine.com/2018/09/28/tres-montanas-suizas-a-las-que-subir-sin-despeinarse/) 
+{{< reflink path=posts/2018/09/tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}} 
 
-[Suiza en coche eléctrico, una aventura ecológica (y más 
-económica)](https://etheriamagazine.com/2021/02/10/ruta-en-coche-electrico-por-suiza/)
+{{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}}

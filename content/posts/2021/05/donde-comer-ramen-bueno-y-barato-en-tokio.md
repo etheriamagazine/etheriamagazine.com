@@ -1,7 +1,7 @@
 ---
 title: "Qué es el ramen y dónde probarlo en Tokio"
 date: 2021-05-06
-coverImage: https://fotos.etheriamagazine.com/2021/05/plato-ramen-tokio.jpg
+cover: https://fotos.etheriamagazine.com/2021/05/plato-ramen-tokio.jpg
 categories: 
   - gourmet
 destino: 
@@ -108,23 +108,21 @@ Tokio
 
 ### Restaurante Soba House Konjiki Hototogisu
 
-Situado en el icónico barrio de Shinjuku, y con una estrella Michelin desde 2018, el [Soba 
-House Konjiki Hototogisu](https://sobahousekonjikihototogisu.com/) ofrece al comensal 
-distintos tipos de ramen, pero el que más fama tiene es _Shoyu Ramen_ (cuesta unos 15 
-euros pero incluye bebida). El caldo para este plato se extrae de tres tipos de almejas 
-diferentes, y se mezcla con caldo de pollo y pescado, y cuatro salsas de soja. Los 
-fideos son caseros, y a la sopa se añade también carne de cerdo asada, astillas de 
+Situado en el icónico barrio de Shinjuku, y con una estrella Michelin desde 2018, el 
+[Soba House Konjiki Hototogisu](https://sobahousekonjikihototogisu.com/) ofrece al 
+comensal distintos tipos de ramen, pero el que más fama tiene es _Shoyu Ramen_ (cuesta 
+unos 15 euros pero incluye bebida). El caldo para este plato se extrae de tres tipos de 
+almejas diferentes, y se mezcla con caldo de pollo y pescado, y cuatro salsas de soja. 
+Los fideos son caseros, y a la sopa se añade también carne de cerdo asada, astillas de 
 brotes de bambú menma, cebollas, cebollas verdes y aceites especiales. 
 
 Dirección: 2-4-1 Shinjuku No.22 Kyutei Mansion 1F, Shinjuku 160-0022 Prefectura de Tokio 
 
 ### También te interesa leer...
 
-[¡Vamos a comernos Japón!](https://etheriamagazine.com/2018/10/09/que-comer-en-japon/) 
+{{< reflink path=posts/2018/10/que-comer-en-japon >}} 
 
-[](https://etheriamagazine.com/2019/06/18/como-organizar-un-viaje-a-japon/)[5 
-recomendaciones para preparar un viaje a 
-Japón](https://etheriamagazine.com/2019/06/18/como-organizar-un-viaje-a-japon/). 
+{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}}{{< reflink 
+path=posts/2019/06/como-organizar-un-viaje-a-japon >}}. 
 
-[La experiencia de alojarse en un Ryokan en 
-Japón](https://etheriamagazine.com/2019/05/10/viajar-japon-que-es-ryokan-y-onsen/).
+{{< reflink path=posts/2019/05/viajar-japon-que-es-ryokan-y-onsen >}}.

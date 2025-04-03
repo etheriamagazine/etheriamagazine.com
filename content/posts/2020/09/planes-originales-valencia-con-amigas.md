@@ -1,7 +1,7 @@
 ---
 title: "Planes originales para disfrutar de Valencia con amigas"
 date: 2020-09-18
-coverImage: https://fotos.etheriamagazine.com/2020/09/valencia-jacuzzi-con-vistas-de-noche.jpg
+cover: https://fotos.etheriamagazine.com/2020/09/valencia-jacuzzi-con-vistas-de-noche.jpg
 categories: 
   - ocio
 destino: 
@@ -95,8 +95,7 @@ en su menú degustación hay gamba de Dénia, calabaza de meliana, chirivía de 
 Puig, arroces de la Albufera, hierbas y microbrotes de Xátiva o tomate de El Perelló. 
 Además, se han atrevido con otras aperturas en Valencia, como **Doña Petrona**, en 
 formato restaurante y take-away, o **La Central de Postres**. (Pues leer otras 
-sugerencias para [comer en Valencia en 'Dónde comer y dormir en Valencia con 
-amigas](https://etheriamagazine.com/2018/12/04/un-viaje-a-valencia-con-amigas/)). 
+sugerencias para {{< reflink path=posts/2018/12/un-viaje-a-valencia-con-amigas >}}). 
 
 ![calles para ir de compras en valencia](https://fotos.etheriamagazine.com/2020/09/viaje-valencia-compras.jpg "Compras en el centro de Valencia. © Eva Mañez")
 
@@ -108,9 +107,8 @@ Colón, hasta los comercios más exclusivos en lo que ya se llama la **Milla de 
 valenciana**, en torno a la calle Poeta Querol. Si buscas comercios más alternativos y 
 originales, debes dirigirte hacia el **barrio del Carmen**. En cualquier caso, la 
 arteria comercial más importante de Valencia transcurre desde la plaza de la Puerta del 
-Mar hasta casi la plaza de toros. (Sigue leyendo: ['De compras en Valencia, la futura 
-capital del 
-Diseño'](https://etheriamagazine.com/2020/03/26/valencia-propuestas-para-todos-en-la-ciudad-del-diseno/)) 
+Mar hasta casi la plaza de toros. (Sigue leyendo: {{< reflink 
+path=posts/2020/03/valencia-propuestas-para-todos-en-la-ciudad-del-diseno >}}) 
 
 ![spa y belleza en valencia palace](https://fotos.etheriamagazine.com/2020/09/valencia-con-amigas-spa.jpg "Spa con vistas en el SH Valencia Palace.")
 
@@ -139,13 +137,21 @@ consume en toda la comunidad.
 
 ### Visitas y excursiones organizadas en Valencia
 
-• [Free tour en 
+- [Free tour en 
 Valencia](https://www.civitatis.com/es/valencia/free-tour-valencia/?aid=10211). Ruta 
-guiada gratuita. • [Tour de misterios y leyendas de 
+guiada gratuita. 
+
+- [Tour de misterios y leyendas de 
 Valencia](https://www.civitatis.com/es/valencia/tour-misterios-leyendas-valencia/?aid=10211). 
-12 euros. • [Autobús turístico de 
+12 euros. 
+
+- [Autobús turístico de 
 Valencia](https://www.civitatis.com/es/valencia/autobus-turisitico-valencia/?aid=10211). 
-19 euros. • [Visita guiada por la Ciudad de las Artes (con 
+19 euros. 
+
+- [Visita guiada por la Ciudad de las Artes (con 
 entradas)](https://www.civitatis.com/es/valencia/visita-guiada-ciudad-artes/?aid=10211). 
-55 euros. • [Excursiones desde Valencia, navegar por la Albufera, 
+55 euros. 
+
+- [Excursiones desde Valencia, navegar por la Albufera, 
 etc](https://www.civitatis.com/es/valencia/?aid=10211).

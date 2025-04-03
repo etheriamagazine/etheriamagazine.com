@@ -1,7 +1,7 @@
 ---
 title: "Descubre Corea del Sur, uno de los secretos mejor guardados de Asia"
 date: 2021-01-14
-coverImage: https://fotos.etheriamagazine.com/2020/02/viaje-corea-seul.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/viaje-corea-seul.jpg
 destino: 
   - Mundo
 authors: 
@@ -159,11 +159,8 @@ tupido telón.
 
 ### También te puede interesar:
 
-[5 recomendaciones para preparar un viaje a 
-Japón](https://etheriamagazine.com/2019/06/18/como-organizar-un-viaje-a-japon/) 
+{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}} 
 
-[Okinawa, el secreto mejor guardado de 
-Japón](https://etheriamagazine.com/2019/04/05/viajar-sola-que-ver-hacer-dormir-okinawa-japon/) 
+{{< reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-okinawa-japon >}} 
 
-[Descubre Guangxi, la otra cara de la Nueva 
-China](https://etheriamagazine.com/2019/12/27/que-hacer-en-guangxi-viaja-sola-china/)
+{{< reflink path=posts/2019/12/que-hacer-en-guangxi-viaja-sola-china >}}

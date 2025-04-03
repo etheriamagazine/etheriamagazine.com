@@ -1,7 +1,7 @@
 ---
 title: "32 excursiones de un día donde la cultura y el vino se dan la mano"
 date: 2021-04-13
-coverImage: https://fotos.etheriamagazine.com/2021/04/Cuevas-de-la-Villa-Requena.jpg
+cover: https://fotos.etheriamagazine.com/2021/04/Cuevas-de-la-Villa-Requena.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -40,8 +40,8 @@ construidas principalmente en el siglo XVI.
 
 En **San Felices de los Gallegos**, uno de los pueblos más bonitos de Castilla y León, 
 todo merece una foto. Imposible pasar de largo frente a sus torres, castillo, murallas, 
-puentes o molinos. Además, esta excursión de un día debe terminar en una bodega de la [Ruta 
-del Vino Arribes](https://rutadelvinoarribes.com/). 
+puentes o molinos. Además, esta excursión de un día debe terminar en una bodega de la 
+[Ruta del Vino Arribes](https://rutadelvinoarribes.com/). 
 
 ![lagares rupestres sierra francia](https://fotos.etheriamagazine.com/2021/04/Lagares-rupestres-sierra-francia.jpg "Lagares rupestres en la Sierra de Francia. © Óscar Checa")
 
@@ -61,9 +61,8 @@ Una excursión de un día que nunca defrauda en la provincia de Valladolid es al
 **castillo de Peñafiel**, en cuyo interior se encuentra situado el Museo Provincial del 
 Vino. Forma parte de la [Ruta del Vino de Ribera del 
 Duero](https://www.rutadelvinoriberadelduero.es/), por lo que puedes seguir esta ruta 
-enoturística ([Rutas del vino: Ribera del Duero por la 
-N-122](https://etheriamagazine.com/2018/05/21/rutas-del-vino-ribera-del-duero-valladolid/)) 
-que te recomendábamos anteriormente. 
+enoturística ({{< reflink path=posts/2018/05/ruta-del-vino-ribera-del-duero-valladolid 
+>}}) que te recomendábamos anteriormente. 
 
 La segunda excursión de un día en Valladolid te llevará a conocer las **Casas-cueva de 
 Trigueros del Valle**, en la [Ruta del Vino de 
@@ -88,9 +87,8 @@ gallegos y leoneses que querían dominar la comarca.
 Sólo por ver la portada de La Majestad de la Colegiata de Santa María merecería la pena 
 visitar Toro. Aunque fue labrada hace ocho siglos sigue mostrando un bello policromado. 
 Aprovecha el día para recorrer esta bonita población, visitar alguna bodega e, incluso, 
-dar un [paseo en 
-globo](https://etheriamagazine.com/2020/07/07/vuelos-en-globo-en-espana-regalo-viajero/) 
-para admirar los viñedos de la [Ruta del Vino de Toro](https://www.rutavinotoro.com/). 
+dar un {{< reflink path=posts/2020/07/vuelos-en-globo-en-espana-regalo-viajero >}} para 
+admirar los viñedos de la [Ruta del Vino de Toro](https://www.rutavinotoro.com/). 
 
 ### Madrigal de las Altas Torres (Ávila)
 
@@ -104,9 +102,9 @@ las bodegas de la [Ruta del Vino de Rueda](https://www.rutadelvinoderueda.com/es
 
 ## Visitas cortas en la Comunidad Valenciana
 
-El castillo de la Atalaya o **castillo de Villena** es uno de los más llamativos de la [Ruta 
-del Vino de Alicante](https://rutadelvinodealicante.com/). Esta fortaleza de frontera 
-fue construida por los almohades en los siglos XII y XIII para frenar el avance 
+El castillo de la Atalaya o **castillo de Villena** es uno de los más llamativos de la 
+[Ruta del Vino de Alicante](https://rutadelvinodealicante.com/). Esta fortaleza de 
+frontera fue construida por los almohades en los siglos XII y XIII para frenar el avance 
 cristiano. En la visita descubrirás su emocionante trayectoria. 
 
 Igual de curiosas son las **Cuevas de la Villa**, que forman un laberinto de galerías y 
@@ -145,10 +143,10 @@ de Buera**, del siglo XVIII, que ha llegado a nuestros días en un excelente est
 ## Excursiones de un día en Castilla-La Mancha
 
 Si buscas excursiones de un día en Castilla-La Mancha te sobran opciones. Una de las que 
-más disfrutarás si vas con niños (consulta el artículo [Ruta del Quijote en 
-familia](https://etheriamagazine.com/2021/01/29/ruta-del-quijote-en-familia-por-la-mancha/)) 
-es la que te lleva a visitar los molinos situados en los altozanos de **Alcázar de San 
-Juan y Campo de Criptana**. Al estar en la [Ruta del Vino de La 
+más disfrutarás si vas con niños (consulta el artículo {{< reflink 
+path=posts/2021/01/ruta-del-quijote-en-familia-por-la-mancha >}}) es la que te lleva a 
+visitar los molinos situados en los altozanos de **Alcázar de San Juan y Campo de 
+Criptana**. Al estar en la [Ruta del Vino de La 
 Mancha](https://www.rutadelvinodelamancha.com/) se puede completar el día con una 
 actividad enoturística. 
 
@@ -202,8 +200,9 @@ la producción industrial de tejidos, alcoholes, aguardientes, papel, jabones, v
 tinta, cera, etc. Su nombre es Nuevo Baztán, uno de los pueblos de la _Ruta del Vino de 
 Madrid_. Alrededor del Palacio de Juan de Goyeneche, el impulsor de esta idea, se 
 desarrollan hoy las interesantísimas visitas guiadas. Este 2021 ha sido nombrado uno de 
-los [Pueblos más bonitos de 
-España](https://etheriamagazine.com/2021/01/19/ruta-por-los-11-pueblos-elegidos-como-los-mas-bonitos-de-espana-en-2021/). 
+los {{< reflink 
+path=posts/2021/01/ruta-por-los-11-pueblos-elegidos-como-los-mas-bonitos-de-espana-en-2021 
+>}}. 
 
 ![palacio real de olite navarra](https://fotos.etheriamagazine.com/2021/04/Palacio-de-Olite-navarra.jpg "Palacio Real de Olite (Navarra).")
 
@@ -278,14 +277,13 @@ Cadafalch, uno de los grandes del modernismo catalán.
 
 ### También te interesa...
 
-[31 escapadas para descubrir este otoño los paisajes del 
-vino](https://etheriamagazine.com/2020/09/07/31-escapadas-po-los-paisajes-del-vino/). 
+{{< reflink path=posts/2020/09/31-escapadas-po-los-paisajes-del-vino >}}. 
 
-[Ruta del lechazo: los mejores asadores de Castilla y 
-León](https://etheriamagazine.com/2019/04/25/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon/). 
+{{< reflink 
+path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
+>}}. 
 
-[Los tres tenores del cochinillo en Segovia, una historia de amor 
-correspondido](https://etheriamagazine.com/2020/12/01/mejores-restaurantes-para-comer-cochinillo-en-segovia/). 
+{{< reflink path=posts/2020/12/mejores-restaurantes-para-comer-cochinillo-en-segovia 
+>}}. 
 
-[10 grandes restaurantes para saborear lo mejor de 
-Toledo](https://etheriamagazine.com/2020/11/03/comer-en-toledo-mejores-restaurantes-bares-tapas/).
+{{< reflink path=posts/2020/11/comer-en-toledo-mejores-restaurantes-bares-tapas >}}.

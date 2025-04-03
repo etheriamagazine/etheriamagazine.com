@@ -1,7 +1,7 @@
 ---
 title: "Paisajes del agua en los 10 mejores cañones del País Vasco"
 date: 2019-04-09
-coverImage: https://fotos.etheriamagazine.com/2019/03/canon-sobron-pais-vasco.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/canon-sobron-pais-vasco.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -215,11 +215,9 @@ naturaleza para recordar.
 
 ## También te puede interesar:
 
-[12 planes en Getxo con amigas para disfrutar al estilo 
-vasco](https://etheriamagazine.com/2021/06/14/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco/) 
+{{< reflink 
+path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}} 
 
-[Valle de Karrantza, 10 experiencias rurales y genuinas en 
-Vizcaya](https://etheriamagazine.com/2021/08/18/que-ver-y-hacer-en-valle-de-karrantza-vizcaya/) 
+{{< reflink path=posts/2021/08/que-ver-y-hacer-en-valle-de-karrantza-vizcaya >}} 
 
-[La Sierra de Entzia, des(conexión) en siete pasos en 
-Álava](https://etheriamagazine.com/2021/05/12/excursiones-sierra-de-entzia-alava/)
+{{< reflink path=posts/2021/05/excursiones-sierra-de-entzia-alava >}}

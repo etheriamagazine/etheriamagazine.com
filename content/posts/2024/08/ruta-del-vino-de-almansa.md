@@ -1,7 +1,7 @@
 ---
 title: "Guía para recorrer la Ruta del Vino de Almansa: entre viñedos, historia y una rica mesa"
 date: 2024-08-27
-coverImage: https://fotos.etheriamagazine.com/2024/08/cooperativa-alpera-etheria.jpg
+cover: https://fotos.etheriamagazine.com/2024/08/cooperativa-alpera-etheria.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -300,5 +300,4 @@ buenos vinos.
 
 **También en Etheria Magazine** 
 
-[10 pueblos bonitos de Castilla-La Mancha para organizar una 
-escapada](https://etheriamagazine.com/2023/11/10/pueblos-bonitos-castilla-la-mancha/)
+{{< reflink path=posts/2023/11/pueblos-bonitos-castilla-la-mancha >}}

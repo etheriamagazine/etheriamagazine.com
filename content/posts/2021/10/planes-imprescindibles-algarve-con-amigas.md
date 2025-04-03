@@ -1,7 +1,7 @@
 ---
 title: "6 experiencias inolvidables en el Algarve con tus mejores amigas"
 date: 2021-10-07
-coverImage: https://fotos.etheriamagazine.com/2021/10/algarve-amigas-excursiones.jpg
+cover: https://fotos.etheriamagazine.com/2021/10/algarve-amigas-excursiones.jpg
 destino: 
   - España
 authors: 
@@ -50,8 +50,8 @@ excursiones incluyen también el avistamiento de delfines, habituales en las cos
 Algarve. 
 
 Reserva con Civitatis un [Tour en kayak por las cuevas de las playas de La 
-Marina](https://www.civitatis.com/es/lagoa/tour-kayak-cuevas-benagil/?aid=10211) y [Paddle 
-surf en las cuevas de 
+Marina](https://www.civitatis.com/es/lagoa/tour-kayak-cuevas-benagil/?aid=10211) y 
+[Paddle surf en las cuevas de 
 Benagil](https://www.civitatis.com/es/lagoa/tour-paddle-surf-cuevas-benagil/?aid=10211). 
 
 ![Excursión en barco por la costa del Algarve.](https://fotos.etheriamagazine.com/2021/10/algarve-amigas-excursiones.jpg "Excursión en barco por la costa del Algarve. © Susana García")
@@ -73,8 +73,8 @@ allí, las vistas de un mar infinito, con la abrupta Costa Vicentina a un lado y
 playas del Algarve al otro son impagables. Al llegar encontraréis un aparcamiento, una 
 antigua fortaleza y un faro, con algunas tiendas y una cafetería donde tomar algo. 
 
-¡**Descubre**! [Ruta Vicentina, senderismo en Alentejo y 
-Algarve](https://etheriamagazine.com/2018/07/25/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal/). 
+¡**Descubre**! {{< reflink 
+path=posts/2018/07/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal >}}. 
 
 ![Cabo de San Vicente.](https://fotos.etheriamagazine.com/2021/10/algarve-cabo-san-vicente.jpg "Cabo de San Vicente. © Susana García")
 
@@ -90,9 +90,9 @@ Aquí se encuentra también el **restaurante O Telheiro do Infante**
 (telheirodoinfante.com), muy recomendable por su excelente cataplana (plato de pescado 
 y/o marisco típico del Algarve) y sus preciosas vistas. 
 
-**Sugerencia:** Si no os apetece conducir, podéis apuntaros a la excursión de Civitatis [Tour 
-en 4x4 por Sagres](https://www.civitatis.com/es/lagos/tour-4x4-sagres/?aid=10211), que 
-también incluye el cabo de San Vicente por sólo 68 €. 
+**Sugerencia:** Si no os apetece conducir, podéis apuntaros a la excursión de Civitatis 
+[Tour en 4x4 por Sagres](https://www.civitatis.com/es/lagos/tour-4x4-sagres/?aid=10211), 
+que también incluye el cabo de San Vicente por sólo 68 €. 
 
 ![Ría Formosa.](https://fotos.etheriamagazine.com/2021/10/Algarve-Ria-Formosa-1.jpg "Ría Formosa. © Región de Turismo del Algarve")
 
@@ -115,8 +115,8 @@ Pero, sin duda, la mejor opción es alquilar un barco o apuntarse a alguna de la
 excursiones en barco que se ofrecen en las localidades cercanas. 
 
 Civitatis ofrece un [Paseo en 
-barco](https://www.civitatis.com/es/faro/paseo-barco-islas-deserta-farol/?aid=10211) [por 
-las islas Deserta y 
+barco](https://www.civitatis.com/es/faro/paseo-barco-islas-deserta-farol/?aid=10211) 
+[por las islas Deserta y 
 Farol](https://www.civitatis.com/es/faro/paseo-barco-islas-deserta-farol/?aid=10211) por 
 35 €. 
 
@@ -183,14 +183,11 @@ sólo 40 € con Civitatis.
 
 **También te puede interesar...** 
 
-[18 experiencias en el Algarve para mujeres 
-viajeras](https://etheriamagazine.com/2020/08/07/18-experiencias-si-viajas-sola-al-algarve/) 
+{{< reflink path=posts/2020/08/18-experiencias-si-viajas-sola-al-algarve >}} 
 
-[Playas del Algarve, descubre sus tesoros menos 
-masificados](https://etheriamagazine.com/2020/06/19/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve/) 
+{{< reflink path=posts/2020/06/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve 
+>}} 
 
-[Pine Cliffs Resort, un hotel de lujo para un viaje con niños al 
-Algarve](https://etheriamagazine.com/2021/09/08/pine-cliffs-resort-hotel-de-lujo-algarve/) 
+{{< reflink path=posts/2021/09/pine-cliffs-resort-hotel-de-lujo-algarve >}} 
 
-[Hotel Tivoli Carvoeiro, tu escondite secreto en el 
-Algarve](https://etheriamagazine.com/2020/08/05/hotel-lujo-tivoli-carvoeiro-escapada-algarve/)
+{{< reflink path=posts/2020/08/hotel-lujo-tivoli-carvoeiro-escapada-algarve >}}

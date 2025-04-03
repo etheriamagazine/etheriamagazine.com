@@ -1,7 +1,7 @@
 ---
 title: "Jornadas Medievales de Ávila, una cita con el pasado"
 date: 2022-08-24
-coverImage: https://fotos.etheriamagazine.com/2022/08/mercado-medieval-avila.jpg
+cover: https://fotos.etheriamagazine.com/2022/08/mercado-medieval-avila.jpg
 destino: 
   - España
 authors: 
@@ -98,5 +98,4 @@ Fotografías: © Javi Calvo
 
 ### También te puede interesar
 
-[Madrigal de las Altas Torres, una excursión a la cuna de Isabel la 
-Católica](https://etheriamagazine.com/2022/02/14/que-ver-madrigal-altas-torres/).
+{{< reflink path=posts/2022/02/que-ver-madrigal-altas-torres >}}.

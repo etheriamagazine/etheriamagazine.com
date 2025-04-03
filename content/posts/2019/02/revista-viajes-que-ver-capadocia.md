@@ -1,7 +1,7 @@
 ---
 title: "Capadocia, la fantasía convertida en paisaje"
 date: 2019-02-26
-coverImage: https://fotos.etheriamagazine.com/2019/02/viaje-turquia-mujeres-capadocia.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/viaje-turquia-mujeres-capadocia.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -120,8 +120,8 @@ leerla, ni describirla, hay que visitarla.
 La Capadocia posee alojamientos para todos los bolsillos. En general, la relación 
 calidad-precio es muy buena. Aquí tienes un par de hoteles trogloditas, calificados en 
 Tripadvisor como los mejor valorados en 2018 y lo mejor, puedes encontrarlos por menos 
-de 50 euros. En Goreme, [Aydinli Cave Hotel](http://www.thecavehotel.com), en Uchisar, [Saklı 
-Konak](http://www.saklikonakhotel.com). 
+de 50 euros. En Goreme, [Aydinli Cave Hotel](http://www.thecavehotel.com), en Uchisar, 
+[Saklı Konak](http://www.saklikonakhotel.com). 
 
 **¿Qué actividades de aventura se pueden practicar en Capadocia?** 
 
@@ -149,8 +149,6 @@ diferente.
 
 ## También te puede interesar:
 
-[Averigua por qué Capadocia es una excursión idónea desde 
-Estambul](https://etheriamagazine.com/2022/04/22/excursion-a-capadocia/) 
+{{< reflink path=posts/2022/04/excursion-a-capadocia >}} 
 
-[Fin de semana en Estambul, un plan para dos 
-imbatible](https://etheriamagazine.com/2018/05/03/fin-de-semana-romantico-en-estambul/)
+{{< reflink path=posts/2018/05/fin-de-semana-romantico-en-estambul >}}

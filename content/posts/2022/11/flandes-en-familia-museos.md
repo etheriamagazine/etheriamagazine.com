@@ -1,7 +1,7 @@
 ---
 title: "Museos en Flandes para visitar con niños"
 date: 2022-11-21
-coverImage: https://fotos.etheriamagazine.com/2022/11/Flandes-Atomium-Bruselas.jpg
+cover: https://fotos.etheriamagazine.com/2022/11/Flandes-Atomium-Bruselas.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Flandes siempre tiene que estar en tu radar viajero porque es un destino perfecto para 
+**Flandes siempre tiene que estar en tu radar viajero porque es un destino perfecto para 
 todo tipo de escapadas. Esto incluye los viajes en familia y, por ese motivo, te 
 proponemos 10 museos en Flandes para visitar con niños que darán contenido a tu viaje. 
-Los hay para todos los gustos y edades. ¡No te los pierdas! 
+Los hay para todos los gustos y edades. ¡No te los pierdas!** 
 
 ![niñas haciendo construcciones en el museo STAM de Gante](https://fotos.etheriamagazine.com/2022/11/Flandes-Stam-museum-ninas.jpg "Actividad en STAM, un museo perfecto para familias en Gante.")
 
@@ -182,11 +182,8 @@ Fotografías cedidas por Turismo de Flandes.
 
 📌 **También te puede interesar:** 
 
-[8 planes que no puedes perderte en Bruselas y 
-Flandes](https://etheriamagazine.com/2021/03/12/que-ver-hacer-otros-planes-en-bruselas-y-flandes/) 
+{{< reflink path=posts/2021/03/que-ver-hacer-otros-planes-en-bruselas-y-flandes >}} 
 
-[10 paradas en una ruta por el Barrio Europeo de 
-Bruselas](https://etheriamagazine.com/2022/09/29/que-ver-barrio-europeo-bruselas/) 
+{{< reflink path=posts/2022/09/que-ver-barrio-europeo-bruselas >}} 
 
-[Qué comer en Bruselas, productos y experiencias 
-originales](https://etheriamagazine.com/2022/03/29/que-comer-en-bruselas/)
+{{< reflink path=posts/2022/03/que-comer-en-bruselas >}}

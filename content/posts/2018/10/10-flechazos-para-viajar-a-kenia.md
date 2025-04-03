@@ -1,7 +1,7 @@
 ---
 title: "Kenia, 10 experiencias que nunca olvidarás"
 date: 2018-10-25
-coverImage: https://fotos.etheriamagazine.com/2018/10/elefante-amboseli-viaje-mujeres-kenia-e1566113172608.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/elefante-amboseli-viaje-mujeres-kenia-e1566113172608.jpg
 categories: 
   - inspiración
   - ocio
@@ -148,11 +148,8 @@ colorista mundo de abalorios en los adornos corporales y en la artesanía.
 
 ### También te puede interesar...
 
-[Islas Seychelles, el nuevo paraíso para los viajeros 
-españoles](https://etheriamagazine.com/2020/11/16/islas-seychelles-un-viaje-de-lujo-al-paraiso/). 
+{{< reflink path=posts/2020/11/islas-seychelles-un-viaje-de-lujo-al-paraiso >}}. 
 
-[5 grandes viajes a África con los que 
-soñar](https://etheriamagazine.com/2019/08/09/5-viajes-para-comenzar-a-conocer-africa/). 
+{{< reflink path=posts/2019/08/5-viajes-para-comenzar-a-conocer-africa >}}. 
 
-[Conoce Zanzíbar, una isla perfumada de 
-especias](https://etheriamagazine.com/2018/11/30/mujeres-que-viajan-a-zanzibar-que-ver-en-tanzania/).
+{{< reflink path=posts/2018/11/mujeres-que-viajan-a-zanzibar-que-ver-en-tanzania >}}.

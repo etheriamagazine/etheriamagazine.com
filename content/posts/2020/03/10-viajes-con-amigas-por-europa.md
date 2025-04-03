@@ -1,7 +1,7 @@
 ---
 title: "10 viajes con amigas por Europa"
 date: 2020-03-03
-coverImage: https://fotos.etheriamagazine.com/2019/11/Malta-Cafe-del-mar.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/Malta-Cafe-del-mar.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -20,8 +20,8 @@ Una de las mejores decisiones que puedes tomar en estos momentos es planear un v
 
 [1\. Malta](#Malta). [2\. Coimbra](#Coimbra). [3\. Hamburgo](#Hamburgo). [4\. 
 Bolonia](#Bolonia). [5\. Budapest](#Budapest). [6\. Copenhague](#Copenhague). [7\. 
-Karlovy Vary](#Karlovy-Vary). [8\. Mánchester](#Mánchester). [9\. Noruega](#Noruega). [10\. 
-Aix-en-Provence](#Aix-Provence). 
+Karlovy Vary](#Karlovy-Vary). [8\. Mánchester](#Mánchester). [9\. Noruega](#Noruega). 
+[10\. Aix-en-Provence](#Aix-Provence). 
 
 ### 1\. Malta
 
@@ -31,11 +31,9 @@ además podréis disfrutar de excursiones a la pequeña y tranquila isla de **Co
 la famosa Laguna Azul y a la preciosa isla de **Gozo**. Un viaje con amigas para 
 descansar, disfrutar de la playa y vivir la noche al más puro estilo ibicenco. 
 
-📍 [Planes en Malta, un destino mediterráneo que nunca 
-defrauda](https://etheriamagazine.com/2019/11/19/que-ver-hacer-malta-gozo-comino-5-dias-con-amigas/). 
+📍 {{< reflink path=posts/2019/11/que-ver-hacer-malta-gozo-comino-5-dias-con-amigas >}}. 
 
-📍 [La isla de Gozo, un lugar donde querrás quedarte a 
-vivir](https://etheriamagazine.com/2021/04/29/que-ver-hacer-gozo-malta/). 
+📍 {{< reflink path=posts/2021/04/que-ver-hacer-gozo-malta >}}. 
 
 ![atardecer en Mdina](https://fotos.etheriamagazine.com/2019/11/Malta-Mdina.jpg "Ciudad de Mdina, en Malta.")
 
@@ -47,8 +45,7 @@ está siempre animada gracias a su ambiente universitario. No te pierdas su Univ
 la Catedral y los preciosos Jardines de la Quinta das Lágrimas. Y aprovecha para asistir 
 a un espectáculo de fado y para degustar su gastronomía y su exquisita repostería. 
 
-📍 [Enamórate de Coimbra en solo un fin de 
-semana](https://etheriamagazine.com/2020/01/31/viaje-con-amigas-que-ver-en-coimbra/). 
+📍 {{< reflink path=posts/2020/01/viaje-con-amigas-que-ver-en-coimbra >}}. 
 
 ![universidad coimbra](https://fotos.etheriamagazine.com/2020/01/universidad-coimbra.jpg "Escaleras de la Universidad de Coimbra, photocall de los estudiantes. © P.G.")
 
@@ -60,8 +57,7 @@ Segunda Guerra Mundial, hace gala de su espíritu cosmopolita formado gracias a 
 puerto. Dinámica y bulliciosa, podrás disfrutar tanto de barrios tradicionales como de 
 su arquitectura moderna. Y, por supuesto, de su animada vida nocturna y diurna. 
 
-📍 [Descubre Hamburgo en 48 horas, la Alemania más 
-canalla](https://etheriamagazine.com/2020/02/24/que-ver-hacer-fin-de-semana-hamburgo-alemania/). 
+📍 {{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}}. 
 
 ![Puerto de Hamburgo](https://fotos.etheriamagazine.com/2020/02/Hamburgo-puerto.jpg "Animadas terrazas en St. Pauli (Hamburgo).")
 
@@ -73,8 +69,7 @@ te proponemos Bolonia, una ciudad de tamaño medio perfecta para recorrer en un 
 semana. Encontrarás de todo: un bonito casco histórico, propuestas culturales y una 
 gastronomía tan rica que seguro que volvéis con algún producto a casa. 
 
-📍 [Viaje con amigas a Bolonia: 10 planes imbatibles en 
-Italia.](https://etheriamagazine.com/2022/06/10/viaje-con-amigas-a-bolonia/) 
+📍 {{< reflink path=posts/2022/06/viaje-con-amigas-a-bolonia >}} 
 
 ![atardecer en Bolonia](https://fotos.etheriamagazine.com/2022/06/Clock-Tower-bolonia.jpg "Vistas desde la terraza del Clock Tower. © Piergiorgio Sorgetti/ Bologna Welcome")
 
@@ -86,8 +81,7 @@ perfectos para realizar con amigas, como un crucero para ver los puentes del Dan
 una visita a unos baños termales o disfrutar de relajados paseos entre cafés históricos, 
 librerías y tiendas de antigüedades. 
 
-📍 [Descubre Budapest con amigas en sólo 3 
-días](https://etheriamagazine.com/2019/10/25/que-ver-viaje-amigas-budapest-en-3-dias/). 
+📍 {{< reflink path=posts/2019/10/que-ver-viaje-amigas-budapest-en-3-dias >}}. 
 
 ![gran palacio de budapest](https://fotos.etheriamagazine.com/2019/10/viaje-budapest-crucero-parlamento.jpg "Crucero por el Danubio en Budapest. ©PB")
 
@@ -101,8 +95,7 @@ Tampoco puedes perderte la magia del [Tivoli](https://www.tivoli.dk/), los color
 Nyhavn o la rebeldía de Christiania. Uno de los viajes con amigas por Europa más 
 especiales que podéis realizar. 
 
-📍 [Descubre el secreto de la felicidad que guarda celosamente 
-Copenhague](https://etheriamagazine.com/2019/09/23/que-ver-tres-dias-en-copenhague-mujeres-viajeras/). 
+📍 {{< reflink path=posts/2019/09/que-ver-tres-dias-en-copenhague-mujeres-viajeras >}}. 
 
 ![Personas en bicicleta en Copenhague](https://fotos.etheriamagazine.com/2019/09/3-dias-copenhague-en-bici.jpg "La bicicleta es imprescindible en Copenhague. © Visit Copenhaguen")
 
@@ -114,8 +107,7 @@ balnearia situada a hora y media de Praga ofrece todo lo necesario para disfruta
 tus amigas: un arquitectura preciosa, balnearios donde dedicarse al culto al cuerpo (se 
 realizan tratamientos médicos, no son un spa al uso) y actividades culturales. 
 
-📍 [Karlovy Vary, la ciudad balnearia checa que Goethe visitó 13 
-veces.](https://etheriamagazine.com/2021/12/09/que-ver-en-karlovy-vary-la-ciudad-balnearia-checa/) 
+📍 {{< reflink path=posts/2021/12/que-ver-en-karlovy-vary-la-ciudad-balnearia-checa >}} 
 
 ![karlovy vary entre bosques](https://fotos.etheriamagazine.com/2021/12/karlovy-vary-vistas.jpg "Karlovy Vary cuenta con una ubicación privilegiada entre grandes bosques. © P.G.")
 
@@ -127,8 +119,8 @@ porque es cómoda, está bien conectada con vuelos directos y cuenta con una ani
 cultural y social. Podréis desde disfrutar de su arquitectura y museos hasta vivir su 
 animada noche o daros un momento ‘relax’ en un spa victoriano. 
 
-📍 [12 visitas para triunfar en un fin de semana con amigas en 
-Mánchester](https://etheriamagazine.com/2019/12/30/12-visitas-para-fin-de-semana-en-manchester-con-amigas/). 
+📍 {{< reflink path=posts/2019/12/12-visitas-para-fin-de-semana-en-manchester-con-amigas 
+>}}. 
 
 ![arquitectura moderna en Mánchester](https://fotos.etheriamagazine.com/2019/12/viaje-manchester.jpg "Manchester Ship Canal in Salford and Trafford. © Julian Elliott/ Visit Britain")
 
@@ -140,11 +132,9 @@ bellas ciudades y seguro que os quedan ganas para volver y repetir con los paisa
 naturales de este país en otro viaje. No os perdáis el barrio de Bryggen en Bergen, la 
 catedral de Nidaros en Trondheim y la moderna arquitectura de Oslo. 
 
-📍 [Recorre las tres capitales de Noruega: Trondheim, Bergen y 
-Oslo](https://etheriamagazine.com/2020/01/24/que-ver-en-noruega-trondheim-bergen-y-oslo/). 
+📍 {{< reflink path=posts/2020/01/que-ver-en-noruega-trondheim-bergen-y-oslo >}}. 
 
-📍 [Qué ver y hacer en tu primera visita a 
-Oslo](https://etheriamagazine.com/2020/01/24/viajes-con-amigas-que-ver-y-hacer-en-oslo/). 
+📍 {{< reflink path=posts/2020/01/viajes-con-amigas-que-ver-y-hacer-en-oslo >}}. 
 
 ![Picnic frente a la catedral de Nidaros en Trondheim](https://fotos.etheriamagazine.com/2020/01/noruega-Nidaros-Cathedral-Trondheim.jpg "Catedral de Nidaros, en Trondheim. © Visit Norway")
 
@@ -157,18 +147,15 @@ pintor, visitar sus museos y pasear entre fuentes y mercados donde encontrar aut
 _delicatessen_ francesas. Uno de los viajes con amigas por Europa con más encanto que 
 podáis realizar 
 
-📍 [Aix-en-Provence, descubre el paraíso de Cézanne con tus mejores 
-amigas](https://etheriamagazine.com/2020/01/03/viaje-amigas-ruta-cezanne-en-aix-en-provence-francia/). 
+📍 {{< reflink path=posts/2020/01/viaje-amigas-ruta-cezanne-en-aix-en-provence-francia 
+>}}. 
 
 ![flores y arquitectura en Aix-en-Provence](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-torre-junto-ayuntamiento.jpg "La torre del reloj junto al ayuntamiento de Aix-en-Provence. © Yolanda Cardo")
 
 ## También te puede interesar:
 
-[Viajes con amigas por España: el mejor plan 
-posible](https://etheriamagazine.com/2021/09/01/viajes-con-amigas-por-espana-costa-e-interior/) 
+{{< reflink path=posts/2021/09/viajes-con-amigas-por-espana-costa-e-interior >}} 
 
-[Por qué el desierto de Judea es la aventura con amigas que 
-necesitas](https://etheriamagazine.com/2022/05/09/viaje-al-desierto-judea-israel/) 
+{{< reflink path=posts/2022/05/viaje-al-desierto-judea-israel >}} 
 
-[Asturias en coche, guía para un viaje legendario con 
-amigas](https://etheriamagazine.com/2022/01/17/asturias-en-coche-guia-imprescindible/)
+{{< reflink path=posts/2022/01/asturias-en-coche-guia-imprescindible >}}

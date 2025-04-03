@@ -1,7 +1,7 @@
 ---
 title: "Qué comer en Japón, platos que debes conocer"
 date: 2018-10-09
-coverImage: https://fotos.etheriamagazine.com/2018/10/viaje-japon-Soba-y-tempura.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/viaje-japon-Soba-y-tempura.jpg
 categories: 
   - viajar-sola
   - gourmet
@@ -120,11 +120,8 @@ té matcha, dorayakis, mochis… ¡Japón es una delicia!
 
 **Además de qué comer en Japón también te interesa...** 
 
-[5 recomendaciones para preparar un viaje a 
-Japón](https://etheriamagazine.com/2019/06/18/como-organizar-un-viaje-a-japon/). 
+{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}}. 
 
-[La experiencia de alojarse en un Ryokan en 
-Japón](https://etheriamagazine.com/2019/05/10/viajar-japon-que-es-ryokan-y-onsen/). 
+{{< reflink path=posts/2019/05/viajar-japon-que-es-ryokan-y-onsen >}}. 
 
-[Okinawa, el secreto mejor guardado de 
-Japón](https://etheriamagazine.com/2019/04/05/viajar-sola-que-ver-hacer-dormir-okinawa-japon/).
+{{< reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-okinawa-japon >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Sierra del Rincón, una bonita escapada a los pueblos y hayedos de Madrid"
 date: 2020-09-15
-coverImage: https://fotos.etheriamagazine.com/2020/09/Sierra-rincon-mirador.jpg
+cover: https://fotos.etheriamagazine.com/2020/09/Sierra-rincon-mirador.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -100,6 +100,6 @@ Puedes encontrar más información de estos pueblos en la web de [Sierra del Rin
 
 ## Sigue leyendo...
 
-#####  • [15 escapadas a menos de 99 km de Madrid](https://etheriamagazine.com/2020/05/20/15-escapadas-a-menos-de-99-km-de-madrid/).
+#####  • {{< reflink path=posts/2020/05/15-escapadas-a-menos-de-99-km-de-madrid >}}.
 
-##### • [11 escapadas de un día a 100 km o más de Madrid](https://etheriamagazine.com/2020/06/02/11-escapadas-cercanas-a-dos-horas-de-madrid/).
+##### • {{< reflink path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}}.

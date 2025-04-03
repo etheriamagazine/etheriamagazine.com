@@ -1,7 +1,7 @@
 ---
 title: "El Camino de Hierro, kilómetros de magia entre puentes y túneles en Salamanca"
 date: 2021-10-03
-coverImage: https://fotos.etheriamagazine.com/2021/10/puente-camino-hierro.jpg
+cover: https://fotos.etheriamagazine.com/2021/10/puente-camino-hierro.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-Los amantes del senderismo y la naturaleza encontrarán en el Camino de Hierro una ruta 
+**Los amantes del senderismo y la naturaleza encontrarán en el Camino de Hierro una ruta 
 de 17 kilómetros donde los paisajes, los túneles y los puentes convertirán el paseo en 
 una aventura diferente, divertida e, incluso, didáctica. La antigua línea ferroviaria 
 que conectaba Salamanca con Portugal es el escenario por donde transcurre. Te contamos 
-todo lo que necesitas saber para hacer esta ruta de forma adecuada. 
+todo lo que necesitas saber para hacer esta ruta de forma adecuada.** 
 
 ![camino de hierro salamanca](https://fotos.etheriamagazine.com/2021/10/senderismo-caminos-hierro.jpg "El Camino de Hierro tiene una extensión de 17 km.")
 
@@ -151,11 +151,8 @@ reservas e información complementaria.
 
 **Sigue tu ruta en Salamanca** 
 
-[Ruta del Vino de la Sierra de Francia, un brindis con amigas en 
-Salamanca](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/). 
+{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}. 
 
-[10 planes originales en Salamanca para hacer con 
-amigas](https://etheriamagazine.com/2021/03/31/planes-en-salamanca-con-amigas/). 
+{{< reflink path=posts/2021/03/planes-en-salamanca-con-amigas >}}. 
 
-[7 imprescindibles de Salamanca para ver en un 
-día](https://etheriamagazine.com/2021/03/15/imprescindibles-de-salamanca-en-un-dia/).
+{{< reflink path=posts/2021/03/imprescindibles-de-salamanca-en-un-dia >}}.

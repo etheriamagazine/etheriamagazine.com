@@ -1,7 +1,7 @@
 ---
 title: "Ruta del vino en Mallorca: descubre la D.O. Binissalem"
 date: 2018-07-26
-coverImage: https://fotos.etheriamagazine.com/2018/07/Vino-rosado-Enoturismo-Binissalem-Mallorca-e1553175846903.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/Vino-rosado-Enoturismo-Binissalem-Mallorca-e1553175846903.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -10,9 +10,10 @@ authors:
   - Vanesa Viñolo
 ---
 
-Cualquier momento es bueno para darte el gusto de viajar a Mallorca y, si es con la 
+**Cualquier momento es bueno para darte el gusto de viajar a Mallorca y, si es con la 
 excusa de acercarte a sus vinos, no hay más que añadir. Una manera diferente de recorrer 
-esta isla que te va a cautivar y que es perfecta para disfrutar en un viaje con amigas. 
+esta isla que te va a cautivar y que es perfecta para disfrutar en un viaje con 
+amigas.** 
 
 ![Brindis con vinos de Mallorca](https://fotos.etheriamagazine.com/2018/07/amigas-vino-Enoturismo-Binissalem-Mallorca-Torres.jpg "© CRDO Binissalem (Mallorca)/ M.Torres")
 
@@ -177,11 +178,8 @@ Más información en Turismo de Mallorca.
 
 **También te puede interesar...** 
 
-[Cuevas de Mallorca, cinco fantasías 
-subterráneas](https://etheriamagazine.com/2021/08/26/cuevas-de-mallorca-con-ninos/) 
+{{< reflink path=posts/2021/08/cuevas-de-mallorca-con-ninos >}} 
 
-[¿Cómo percibió George Sand la isla de Mallorca hace casi dos 
-siglos?](https://etheriamagazine.com/2018/05/16/mallorca-de-la-mano-de-george-sand/) 
+{{< reflink path=posts/2018/05/mallorca-de-la-mano-de-george-sand >}} 
 
-[Palma con amigas: 8 planazos para exprimir la capital de 
-Mallorca](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palma-mallorca-con-amigas/)
+{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}

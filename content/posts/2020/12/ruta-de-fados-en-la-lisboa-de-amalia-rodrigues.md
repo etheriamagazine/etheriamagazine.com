@@ -1,7 +1,7 @@
 ---
 title: "Ruta de fados en Lisboa de la mano de Amália Rodrigues"
 date: 2020-12-30
-coverImage: https://fotos.etheriamagazine.com/2020/12/lisboa-Amalia-Rodrigues-1965.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/lisboa-Amalia-Rodrigues-1965.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pilar Ortega
 ---
 
-Se cumplen 100 años del nacimiento de Amália Rodrigues, la gran dama del fado, una mujer 
-que conquistó con su voz a millones de personas de los cinco continentes. Desde Etheria 
-Magazine le rendimos homenaje siguiendo sus pasos y el eco de su voz en los locales que 
-componen esta particular Ruta de fados en Lisboa. 
+**Se cumplen 100 años del nacimiento de Amália Rodrigues, la gran dama del fado, una 
+mujer que conquistó con su voz a millones de personas de los cinco continentes. Desde 
+Etheria Magazine le rendimos homenaje siguiendo sus pasos y el eco de su voz en los 
+locales que componen esta particular Ruta de fados en Lisboa.** 
 
 ![ruta fados lisboa Amalia Rodrigues](https://fotos.etheriamagazine.com/2020/12/lisboa-Amalia-Rodrigues-1965.jpg "Amália Rodrigues fotografiada por Augusto Cabrita, 1965.")
 
@@ -210,14 +210,11 @@ Lisboa](https://www.visitlisboa.com/es).
 
 📌 **También te puede interesar...** 
 
-[12 miradores para exprimir 
-Lisboa](https://etheriamagazine.com/2018/10/30/12-miradores-para-exprimir-lisboa/). 
+{{< reflink path=posts/2018/10/12-miradores-para-exprimir-lisboa >}}. 
 
-[De Lisboa a Ericeira, un buen plan para amantes del surf y del buen 
-comer](https://etheriamagazine.com/2020/03/24/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf/). 
+{{< reflink path=posts/2024/08/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf 
+>}}. 
 
-[Un fin de semana en Cascais, Sintra y 
-Estoril](https://etheriamagazine.com/2018/07/31/48-horas-en-cascais-sintra-y-estoril/). 
+{{< reflink path=posts/2018/07/48-horas-en-cascais-sintra-y-estoril >}}. 
 
-[Óbidos, la villa portuguesa de las reinas y los 
-libros](https://etheriamagazine.com/2020/09/24/que-ver-hacer-obidos-pueblo-medieval-portugal/).
+{{< reflink path=posts/2020/09/que-ver-hacer-obidos-pueblo-medieval-portugal >}}.

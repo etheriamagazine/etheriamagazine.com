@@ -1,7 +1,7 @@
 ---
 title: "Ruta del lechazo: los mejores asadores de Castilla y León"
 date: 2019-04-25
-coverImage: https://fotos.etheriamagazine.com/2019/04/Ruta-lechazo-asado.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/Ruta-lechazo-asado.jpg
 categories: 
   - gourmet
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Vanesa Viñolo
 ---
 
-Es un momento excepcional para recorrer Castilla y León a ritmo de asador. Y es que, con 
-los pastos en flor y las ovejas comiendo como auténticas 'foodies', los corderos 
+**Es un momento excepcional para recorrer Castilla y León a ritmo de asador. Y es que, 
+con los pastos en flor y las ovejas comiendo como auténticas 'foodies', los corderos 
 lechales nos ofrecerán su mejor sabor. Así que ya tenemos una excusa para coger el coche 
-y visitar alguno de estos templos del lechazo. 
+y visitar alguno de estos templos del lechazo.** 
 
 ![El lechazo de Castilla y León posee IGP (Indicación Geográfica Protegida).](https://fotos.etheriamagazine.com/2019/04/Ruta-lechazo-asado.jpg "El lechazo de Castilla y León posee IGP (Indicación Geográfica Protegida).")
 
@@ -225,12 +225,9 @@ poquito más, porqué no, a través de su cocina.
 
 ### No te pierdas...
 
-[](https://etheriamagazine.com/2021/04/13/32-excursiones-de-un-dia-en-rutas-vino-espana/)[Los 
-tres tenores del cochinillo en Segovia, una historia de amor 
-correspondido](https://etheriamagazine.com/2020/12/01/mejores-restaurantes-para-comer-cochinillo-en-segovia/). 
+{{< reflink path=posts/2021/04/32-excursiones-de-un-dia-en-rutas-vino-espana >}}{{< 
+reflink path=posts/2020/12/mejores-restaurantes-para-comer-cochinillo-en-segovia >}}. 
 
-[¿Por qué se come tan bien en 
-Valladolid?](https://etheriamagazine.com/2019/01/31/bares-imprescindibles-finde-valladolid/) 
+{{< reflink path=posts/2019/01/bares-imprescindibles-finde-valladolid >}} 
 
-[Ruta por Ribera del Duero: de bodega en bodega por la 
-N-122](https://etheriamagazine.com/2018/05/21/ruta-del-vino-ribera-del-duero-valladolid/)
+{{< reflink path=posts/2018/05/ruta-del-vino-ribera-del-duero-valladolid >}}

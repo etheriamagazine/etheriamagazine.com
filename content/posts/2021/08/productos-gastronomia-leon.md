@@ -1,7 +1,7 @@
 ---
 title: "Siete productos que saben a León y no pueden faltar en tu mesa"
 date: 2021-08-23
-coverImage: https://fotos.etheriamagazine.com/2021/07/Leon-cecina.jpg
+cover: https://fotos.etheriamagazine.com/2021/07/Leon-cecina.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -124,15 +124,11 @@ Tradición](https://www.leonestradicion.com/)
 
 ### Más artículos de León
 
-[Fiesta de las Cabezadas de León, una celebración histórica llena de 
-ironía](https://etheriamagazine.com/2021/04/23/que-es-la-fiesta-de-las-cabezadas-de-leon/) 
+{{< reflink path=posts/2021/04/que-es-la-fiesta-de-las-cabezadas-de-leon >}} 
 
-[10 planes para disfrutar al máximo de León en 
-familia](https://etheriamagazine.com/2021/07/05/10-planes-para-disfrutar-de-leon-en-familia/) 
+{{< reflink path=posts/2021/07/10-planes-para-disfrutar-de-leon-en-familia >}} 
 
-[Si León no existiera, habría que inventarlo: 10 razones para descubrir la capital de un 
-reino 
-fascinante](https://etheriamagazine.com/2020/12/28/10-razones-para-descubrir-leon-una-capital-unica-y-diferente/) 
+{{< reflink 
+path=posts/2020/12/10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}} 
 
-[16 secretos que desconoces de la milenaria ciudad de 
-León](https://etheriamagazine.com/2020/12/16/16-lugares-secretos-y-leyendas-de-leon-capital/)
+{{< reflink path=posts/2020/12/16-lugares-secretos-y-leyendas-de-leon-capital >}}

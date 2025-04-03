@@ -1,7 +1,7 @@
 ---
 title: "7 planes esenciales en Lanzarote con amigas"
 date: 2020-06-11
-coverImage: https://fotos.etheriamagazine.com/2020/06/lanzarote-playas-papagayo.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/lanzarote-playas-papagayo.jpg
 categories: 
   - viajar-sola
   - ocio
@@ -194,7 +194,7 @@ temporada alta se concentra en el periodo estival, Navidades y Semana Santa.
 
 ##### Dónde dormir
 
-• Si se desea disfrutar de las comodidades de un hotel, damos tres opciones: el [Hotel 
+- Si se desea disfrutar de las comodidades de un hotel, damos tres opciones: el [Hotel 
 Meliá 
 Salinas](https://www.melia.com/es/hoteles/espana/lanzarote/melia-salinas/index.htm), 
 donde también puso su mano singular César Manrique, o el [Hotel The Volcan 
@@ -212,11 +212,8 @@ para aprender a elaborar el mojo picón o el mojo verde. Si hay tiempo, conviene
 
 ## Más planes con amigas...
 
-[10 planes originales para hacer con amigas en 
-Barcelona](https://etheriamagazine.com/2021/03/10/10-planes-originales-con-amigas-en-barcelona/). 
+{{< reflink path=posts/2021/03/10-planes-originales-con-amigas-en-barcelona >}}. 
 
-[Planes originales para disfrutar de Valencia con 
-amigas](https://etheriamagazine.com/2020/09/18/planes-originales-valencia-con-amigas/). 
+{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}}. 
 
-[10 planes originales en Bilbao con 
-amigas](https://etheriamagazine.com/2020/09/09/10-planes-originales-en-bilbao-con-amigas/).
+{{< reflink path=posts/2020/09/10-planes-originales-en-bilbao-con-amigas >}}.

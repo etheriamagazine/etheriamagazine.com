@@ -1,7 +1,7 @@
 ---
 title: "Burgos subterráneo, planes alucinantes en cuevas, minas y canteras para este verano"
 date: 2022-06-24
-coverImage: https://fotos.etheriamagazine.com/2022/06/burgos-cueva-fuentemolinos.jpg
+cover: https://fotos.etheriamagazine.com/2022/06/burgos-cueva-fuentemolinos.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -122,8 +122,8 @@ subir a los otros dos. ¿Qué veras durante la actividad? Cascadas, ríos subter
 gours, coladas, excéntricas y numerosos estalactitas y estalagmitas. ¿Te animas a ser 
 espeleóloga por un día? 
 
-📍 ¿Dónde? Puras de Villafranca (Belorado). Reserva en la [web](http://beloaventura.org/) 
-de Beloaventura. 
+📍 ¿Dónde? Puras de Villafranca (Belorado). Reserva en la 
+[web](http://beloaventura.org/) de Beloaventura. 
 
 ### 3\. Complejo minero de Puras de Villafranca
 
@@ -206,20 +206,20 @@ demandado para eventos y conciertos.
 A pocos minutos en coche de esta cantera se sitúa la de El Pozo, que se ha mantenido tal 
 cual estaba cuando era explotada y donde incluso podrás emular a los canteros y tratar 
 de picar roca (no es fácil). Si te apetece conocer más detalles, sigue leyendo este 
-artículo donde te contamos todo lo necesario para hacer la visita: 📍 [“Canteras de 
-Hontoria, Cubillo y Tornadijo, una visita a los orígenes de la Catedral de 
-Burgos”](https://etheriamagazine.com/2021/08/30/visita-las-canteras-de-hontoria-cubillo-y-la-catedral-de-burgos/). 
+artículo donde te contamos todo lo necesario para hacer la visita: 📍 {{< reflink 
+path=posts/2021/08/visita-las-canteras-de-hontoria-cubillo-y-la-catedral-de-burgos >}}. 
 
 📍¿Dónde? Tornadijo, Cubillo del Campo y Hontoria de la Cantera. Reservas en la Web de 
 Patrimonio de la Luz. 
 
 ### Más información de Burgos
 
-Si quieres seguir recorriendo Burgos puedes encontrar más ideas en la [web](https://turismoburgos.org/) 
-de **Turismo de Burgos** o en los siguientes artículos: 
+Si quieres seguir recorriendo Burgos puedes encontrar más ideas en la 
+[web](https://turismoburgos.org/) de **Turismo de Burgos** o en los siguientes 
+artículos: 
 
-✅ **[Geoparque Las Loras, una cita sorprendente entre Burgos y 
-Palencia](https://etheriamagazine.com/2020/12/23/7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia/)** 
+✅ **{{< reflink 
+path=posts/2020/12/7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia 
+>}}** 
 
-✅ **[Ruta para desconectar en Las Merindades de 
-Burgos](https://etheriamagazine.com/2019/06/04/que-ver-hacer-ruta-merindades-burgos/)**
+✅ **{{< reflink path=posts/2019/06/que-ver-hacer-ruta-merindades-burgos >}}**

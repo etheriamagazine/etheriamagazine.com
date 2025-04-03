@@ -1,7 +1,7 @@
 ---
 title: "En Módena las mujeres prefieren Lamborghinis"
 date: 2019-04-04
-coverImage: https://fotos.etheriamagazine.com/2019/03/viaje-modena-lujo.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/viaje-modena-lujo.jpg
 categories: 
   - gourmet
   - historias
@@ -11,10 +11,10 @@ authors:
   - Pedro Grifol
 ---
 
-En la región italiana de Emilia-Romaña se encuentra la ciudad de Módena, famosa por ser 
-la cuna de un condimento que casi todos tenemos en la cocina: el 'aceto balsamico di 
+**En la región italiana de Emilia-Romaña se encuentra la ciudad de Módena, famosa por 
+ser la cuna de un condimento que casi todos tenemos en la cocina: el 'aceto balsamico di 
 Modena', ese preciado elixir que se suele echar en las ensaladas, y que (casualmente) 
-¡es donde no se debe echar!... Pero bueno, ese es un tema que otro día explicaré. 
+¡es donde no se debe echar!... Pero bueno, ese es un tema que otro día explicaré.** 
 
 ![Un ferrari en Módena](https://fotos.etheriamagazine.com/2019/03/viaje-modena-lujo.jpg "Viaje de lujo a Módena.")
 
@@ -200,11 +200,8 @@ conducir en el Autódromo (info@modenatur.it).
 
 📌 **También te puede interesar:** 
 
-[Viaje con amigas a Bolonia: 10 planes imbatibles en 
-Italia](https://etheriamagazine.com/2022/06/10/viaje-con-amigas-a-bolonia/) 
+{{< reflink path=posts/2022/06/viaje-con-amigas-a-bolonia >}} 
 
-[Turín con amigas: viaja a la ciudad más supersticiosa de 
-Italia](https://etheriamagazine.com/2021/07/16/que-ver-en-turin-en-un-viaje-con-amigas/) 
+{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}} 
 
-[Nueve paseos a la italiana por los jardines más bellos de 
-Florencia](https://etheriamagazine.com/2021/05/21/paseos-por-los-jardines-mas-bellos-de-florencia/)
+{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}

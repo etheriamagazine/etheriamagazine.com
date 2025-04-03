@@ -1,7 +1,7 @@
 ---
 title: "De Cartagena de Indias a la Ciudad Perdida, broche de oro de Sania"
 date: 2023-05-12
-coverImage: https://fotos.etheriamagazine.com/2023/05/sania-llegada-ciudad-perdida.jpg
+cover: https://fotos.etheriamagazine.com/2023/05/sania-llegada-ciudad-perdida.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Sania Jelic
 ---
 
-El viaje de Sania Jelic llega a su fin en Colombia, donde visita sus dos principales 
+**El viaje de Sania Jelic llega a su fin en Colombia, donde visita sus dos principales 
 focos turísticos costeros. El primero, Cartagena de Indias, una ciudad volcada al 
 turismo de masas, y el segundo, Santa Marta, que guarda uno de los secretos mejor 
 guardados del país: la Ciudad Perdida. De este modo, ha puesto un broche de oro a su 
-viaje en solitario por Sudamérica. 
+viaje en solitario por Sudamérica.** 
 
 ![Sania con un mural de Gabriel García Márquez.](https://fotos.etheriamagazine.com/2023/05/sania-cartagena-mural-garcia-marquez.jpg "Sania con un mural de Gabriel García Márquez en Cartagena de Indias. © SJ")
 
@@ -87,9 +87,10 @@ busca de la “Ciudad Perdida”.
 ## La Ciudad Perdida, visita esencial
 
 Había escuchado hablar de la Ciudad Perdida y eso despertó al Indiana Jones que llevo 
-dentro. Para conocerla se pueden contratar los servicios de la agencia [Expotur](https://expotur-eco.com), 
-una de las pocas que cuentan con licencia para operar en este territorio perteneciente a 
-las comunidades indígenas Kogui, Wiwa, Arhuaco y Kankuamo. 
+dentro. Para conocerla se pueden contratar los servicios de la agencia 
+[Expotur](https://expotur-eco.com), una de las pocas que cuentan con licencia para 
+operar en este territorio perteneciente a las comunidades indígenas Kogui, Wiwa, Arhuaco 
+y Kankuamo. 
 
 La denominada Ciudad Perdida fue construida alrededor del siglo VIII por el **pueblo 
 indígena Tayrona** y abandonada en el año 1650. Considerada uno de los principales 
@@ -155,25 +156,27 @@ camino me lleva ahora al norte, a **Centroamérica**.
 
 ![Sania frente a la Ciudad Perdida en Colombia](https://fotos.etheriamagazine.com/2023/05/sania-ciudad-perdida-camiseta.jpg "Después de un duro camino Sania por fin encontró la Ciudad Perdida. © SJ.")
 
-✅ **Lo que aprendí en esta etapa:** • La riqueza lingüística del español puede generar 
-confusiones y hay que prestar atención, ya que las mismas palabras se usan con diferente 
-significado. Nos vendría bien a los europeos (hablando en términos generales) estar un 
-poco más abiertos a lo que sucede en el entorno para prevenir hurtos en la calle. Ser 
-más “street wise”. Así también apreciaríamos más lo que tenemos. • La generosidad y 
-poder de la mujer es grande y puede hacer mucho bien en una sociedad. • El turismo 
-descontrolado erosiona las ciudades. • Es muy complejo establecer áreas de colaboración 
-con poblaciones indígenas. El slogan “Turismo, Paz, Convivencia” contiene los tres 
-pilares necesarios para obtener la prosperidad de todos. 
+✅ **Lo que aprendí en esta etapa:** 
+
+- La riqueza lingüística del español puede generar confusiones y hay que prestar 
+atención, ya que las mismas palabras se usan con diferente significado. Nos vendría bien 
+a los europeos (hablando en términos generales) estar un poco más abiertos a lo que 
+sucede en el entorno para prevenir hurtos en la calle. Ser más “street wise”. Así 
+también apreciaríamos más lo que tenemos. 
+
+- La generosidad y poder de la mujer es grande y puede hacer mucho bien en una sociedad. 
+- El turismo descontrolado erosiona las ciudades. 
+
+- Es muy complejo establecer áreas de colaboración con poblaciones indígenas. El slogan 
+“Turismo, Paz, Convivencia” contiene los tres pilares necesarios para obtener la 
+prosperidad de todos. 
 
 ✅ **Lo que no aprendí:** A acostarme pronto. 
 
 📌 **También te puede interesar:** 
 
-[Bogotá y Medellín, consejos básicos de Sania para 
-visitarlas](https://etheriamagazine.com/2023/05/03/viajar-sola-bogota-medellin/) 
+{{< reflink path=posts/2023/05/viajar-sola-bogota-medellin >}} 
 
-[Islas Galápagos, consejos de Sania para visitar el paraíso 
-perdido](https://etheriamagazine.com/2023/04/09/como-viajar-islas-galapagos/) 
+{{< reflink path=posts/2023/04/como-viajar-islas-galapagos >}} 
 
-[Bolivia bien vale un potosí, nueva etapa de Sania 
-Jelic](https://etheriamagazine.com/2023/03/13/itinerario-bolivia-sania-jelic/)
+{{< reflink path=posts/2023/03/itinerario-bolivia-sania-jelic >}}

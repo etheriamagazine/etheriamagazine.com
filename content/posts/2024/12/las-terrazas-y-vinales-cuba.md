@@ -1,7 +1,7 @@
 ---
 title: "Las Terrazas y Viñales, descubre el corazón más verde de Cuba"
 date: 2024-12-06
-coverImage: https://fotos.etheriamagazine.com/2024/12/cuba-las-terrazas-jardines.jpg
+cover: https://fotos.etheriamagazine.com/2024/12/cuba-las-terrazas-jardines.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -159,21 +159,19 @@ cubanos.
 ### Cómo organizar el viaje
 
 Una buena opción es contratar el viaje con una agencia local a través de la plataforma 
-Evaneos (www.evaneos.com) o como excursiones a través de [Civitatis](https://www.civitatis.com/es/?aid=10211). 
-También puedes contratar un viaje organizado en una agencia de viajes tradicional. En 
-cualquier caso, hay que tener en cuenta que a Cuba hay que viajar con paciencia, buen 
-humor y tolerancia a la improvisación, que es el modo de vida cubano. A veces se va la 
-luz, a veces no hay agua caliente o a veces se retrasa un conductor porque está buscando 
-gasolina. Así que sólo queda relajarse y disfrutar de la buena conversación que tienen 
-todos los cubanos, otra manera excelente de disfrutar del viaje. 
+Evaneos (www.evaneos.com) o como excursiones a través de 
+[Civitatis](https://www.civitatis.com/es/?aid=10211). También puedes contratar un viaje 
+organizado en una agencia de viajes tradicional. En cualquier caso, hay que tener en 
+cuenta que a Cuba hay que viajar con paciencia, buen humor y tolerancia a la 
+improvisación, que es el modo de vida cubano. A veces se va la luz, a veces no hay agua 
+caliente o a veces se retrasa un conductor porque está buscando gasolina. Así que sólo 
+queda relajarse y disfrutar de la buena conversación que tienen todos los cubanos, otra 
+manera excelente de disfrutar del viaje. 
 
 **También te puede interesar:** 
 
-[Qué llevar en la maleta en un viaje a 
-Cuba](https://etheriamagazine.com/2024/02/28/que-llevar-maleta-viaje-a-cuba/) 
+{{< reflink path=posts/2024/02/que-llevar-maleta-viaje-a-cuba >}} 
 
-[Prepara tu viaje a Cuba: libros y películas 
-recomendados](https://etheriamagazine.com/2020/05/08/prepara-tu-viaje-a-cuba-libros-peliculas/) 
+{{< reflink path=posts/2020/05/prepara-tu-viaje-a-cuba-libros-peliculas >}} 
 
-[La Habana, cómo disfrutar con tus amigas de la ciudad más excesiva de 
-Cuba](https://etheriamagazine.com/2024/08/30/la-habana-cuba-con-amigas/)
+{{< reflink path=posts/2024/08/la-habana-cuba-con-amigas >}}

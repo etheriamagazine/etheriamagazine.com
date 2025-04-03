@@ -1,7 +1,7 @@
 ---
 title: "Los almendros en flor de la Quinta de los Molinos, la  cita instagramer madrileña"
 date: 2019-02-22
-coverImage: https://fotos.etheriamagazine.com/2019/02/almendros-flor-quinta-molinos.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/almendros-flor-quinta-molinos.jpg
 destino: 
   - España
 authors: 
@@ -109,7 +109,8 @@ pasar un bosque de pinos, llegarás a las **parcelas de almendros**.
 
 ### Plano de la Quinta Los Molinos
 
-Puedes descargarte un plano en este [enlace](https://www.madrid.es/UnidadesDescentralizadas/ZonasVerdes/Parques/Quinta_de_los_Molinos/Imagenes/QuintaLosMolinosN.pdf). 
+Puedes descargarte un plano en este 
+[enlace](https://www.madrid.es/UnidadesDescentralizadas/ZonasVerdes/Parques/Quinta_de_los_Molinos/Imagenes/QuintaLosMolinosN.pdf). 
 
 ![Detalle del conjunto de la Fuente neobarroca.](https://fotos.etheriamagazine.com/2019/02/fuente-quinta-los-molinos.jpg "Detalle del conjunto de la Fuente neobarroca.")
 
@@ -136,11 +137,9 @@ domingo (10 a 20 h).
 
 **También te puede interesar...** 
 
-[Sierra del Rincón, una bonita escapada a los pueblos y hayedos de 
-Madrid](https://etheriamagazine.com/2020/09/15/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid/). 
+{{< reflink path=posts/2020/09/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid 
+>}}. 
 
-[15 escapadas a menos de 99 km de 
-Madrid](https://etheriamagazine.com/2020/05/20/15-escapadas-a-menos-de-99-km-de-madrid/). 
+{{< reflink path=posts/2020/05/15-escapadas-a-menos-de-99-km-de-madrid >}}. 
 
-[11 escapadas de un día a 100 km o más de 
-Madrid](https://etheriamagazine.com/2020/06/02/11-escapadas-cercanas-a-dos-horas-de-madrid/).
+{{< reflink path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}}.

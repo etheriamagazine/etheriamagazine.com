@@ -1,7 +1,7 @@
 ---
 title: "Ruta en coche por Irlanda: condados de Cork y Kerry"
 date: 2023-12-30
-coverImage: https://fotos.etheriamagazine.com/2023/12/irlanda-isla-Garinish.jpg
+cover: https://fotos.etheriamagazine.com/2023/12/irlanda-isla-Garinish.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -29,17 +29,15 @@ para comenzar a disfrutar de este viaje por sur y suroeste del país.
 ## Condado de Cork
 
 De la ciudad de Cork ya os hemos hablado anteriormente y no nos repetiremos porque 
-encontraréis toda la información en este artículo (entra en: [¿Por qué es buena idea 
-viajar a Cork con 
-amigas?](https://etheriamagazine.com/2018/12/26/que-ver-en-cork-viaje-para-mujeres/)). 
-En pocas líneas os podemos decir que es la capital del condado homónimo, que tiene un 
-tamaño medio y un ambiente muy agradable que invita a pasear. En ese deambular por la 
-ciudad conoceréis **Oliver Plunkett,** que fue reconocida hace unos años como la mejor 
-calle comercial de Europa, y el [Mercado 
-Inglés](https://www.corkcity.ie/en/english-market/), que con más de doscientos años es 
-uno de los más antiguos del mundo. También os llamará la atención el ángel dorado con 
-dos trompetas de la **catedral de San Finbar**, del que se dice que si se le cayeran 
-llegaría el Juicio Final. 
+encontraréis toda la información en este artículo (entra en: {{< reflink 
+path=posts/2018/12/que-ver-en-cork-viaje-para-mujeres >}}). En pocas líneas os podemos 
+decir que es la capital del condado homónimo, que tiene un tamaño medio y un ambiente 
+muy agradable que invita a pasear. En ese deambular por la ciudad conoceréis **Oliver 
+Plunkett,** que fue reconocida hace unos años como la mejor calle comercial de Europa, y 
+el [Mercado Inglés](https://www.corkcity.ie/en/english-market/), que con más de 
+doscientos años es uno de los más antiguos del mundo. También os llamará la atención el 
+ángel dorado con dos trompetas de la **catedral de San Finbar**, del que se dice que si 
+se le cayeran llegaría el Juicio Final. 
 
 Y ahora sí, nos ponemos en marcha porque hay que alquilar el vehículo si habéis volado 
 hasta Cork o volver al mismo si habéis llegado hasta Dublín. ¿Preparadas para esta ruta 
@@ -167,9 +165,8 @@ contra las rocas, el viento incesante, la bruma, el graznido de las gaviotas y l
 inquietud por no saber qué encontrarás en cada recodo de la escalinata rocosa conforman 
 esta emocionante experiencia 
 
-\*Puedes consultar los datos prácticos en [Islas Skellig, el enigmático escenario de 
-Star Wars en 
-Irlanda](https://etheriamagazine.com/2019/09/05/como-organizar-excursion-precio-islas-skellig-michael-irlanda/). 
+\*Puedes consultar los datos prácticos en {{< reflink 
+path=posts/2019/09/como-organizar-excursion-precio-islas-skellig-michael-irlanda >}}. 
 
 ![Escaleras de subida al monasterio de Skellig Michael.](https://fotos.etheriamagazine.com/2023/12/Skellig-Michael.jpg "Escaleras de subida al monasterio de Skellig Michael. © Pepa García")
 

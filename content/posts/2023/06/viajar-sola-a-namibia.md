@@ -1,7 +1,7 @@
 ---
 title: "Viajar sola a Namibia, una ruta en coche para descubrir su sorprendente naturaleza"
 date: 2023-06-21
-coverImage: https://fotos.etheriamagazine.com/2023/06/tribu-hereros-Namibia.jpg
+cover: https://fotos.etheriamagazine.com/2023/06/tribu-hereros-Namibia.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Firmas invitadas
 ---
 
-La mejor manera de preparar un viaje a este país es no prepararlo. Viajar sola a Namibia 
-es dejarse llevar por lo que nos pida el cuerpo, escuchar los relatos de los viajeros 
-que nos encontremos en el camino y una vez allí decidir. Lo cierto es que, aunque 
-emprendamos un viaje en solitario en Namibia, lo difícil es estarlo mucho tiempo, ya que 
-es bastante común compartir transporte. 
+**La mejor manera de preparar un viaje a este país es no prepararlo. Viajar sola a 
+Namibia es dejarse llevar por lo que nos pida el cuerpo, escuchar los relatos de los 
+viajeros que nos encontremos en el camino y una vez allí decidir. Lo cierto es que, 
+aunque emprendamos un viaje en solitario en Namibia, lo difícil es estarlo mucho tiempo, 
+ya que es bastante común compartir transporte.** 
 
 **Texto y fotos: Cristina Candel** 
 
@@ -150,18 +150,30 @@ más de un viaje al año.
 
 ## Mapa para viajar sola a Namibia
 
-En este mapa puedes ver cómo ha sido el itinerario descrito en el artículo (Windhoek - 
-Etosha - Epupa -Twyfelfontein - Skeleton Coast - Cape Cross - Walvis bay - Duna 7 - 
-Laguna Rosa - Sossusvlei). Ahora sólo queda que te animes a realizarlo por tu cuenta. Si 
-tienes alguna duda, escríbenos a través de nuestras redes sociales. 
+En este mapa puedes ver cómo ha sido el itinerario descrito en el artículo (Windhoek 
+
+- Etosha 
+
+- Epupa -Twyfelfontein 
+
+- Skeleton Coast 
+
+- Cape Cross 
+
+- Walvis bay 
+
+- Duna 7 
+
+- Laguna Rosa 
+
+- Sossusvlei). Ahora sólo queda que te animes a realizarlo por tu cuenta. Si tienes 
+alguna duda, escríbenos a través de nuestras redes sociales. 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=11_He5yqr5lRe1OG5VEpXDDld9pSiHQY&amp;hl=es&amp;ehbc=2E312F" width="320" height="240"></iframe>
 
 Y si aún no te has animado a viajar sola, continúa leyendo este artículo sobre las 
-ventajas de hacerlo: [10 ventajas de viajar sola que te interesa 
-conocer](https://etheriamagazine.com/2019/01/29/10-ventajas-de-viajar-sola/). 
+ventajas de hacerlo: {{< reflink path=posts/2019/01/10-ventajas-de-viajar-sola >}}. 
 
 ✅ **También te puede interesar...** 
 
-[10 grandes viajes para hacer al menos una vez en la 
-vida](https://etheriamagazine.com/2020/04/16/10-grandes-viajes-para-sonar-desde-casa/).
+{{< reflink path=posts/2020/04/10-grandes-viajes-para-sonar-desde-casa >}}.

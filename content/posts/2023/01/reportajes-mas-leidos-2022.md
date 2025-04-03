@@ -1,7 +1,7 @@
 ---
 title: "Destinos nacionales, cultura y gastronomía, entre los artículos más leídos"
 date: 2023-01-02
-coverImage: https://fotos.etheriamagazine.com/2023/01/pareja-viaje.jpg
+cover: https://fotos.etheriamagazine.com/2023/01/pareja-viaje.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-Cuando concluye un año toca hacer balance de cómo nos ha ido y en Etheria Magazine 
+**Cuando concluye un año toca hacer balance de cómo nos ha ido y en Etheria Magazine 
 queríamos saber cuáles han sido los artículos que más os han llamado la atención. Así 
 que hemos elaborado esta lista con los 10 reportajes más leídos de 2022, muchos de los 
 cuales siguen totalmente vigentes en el año que entra y permanecen como fantásticas 
-ideas de viaje. 
+ideas de viaje.** 
 
 ![pareja de viaje en la montaña](https://fotos.etheriamagazine.com/2023/01/pareja-viaje.jpg "Echamos un vistazo a los artículos más leídos en 2022.")
 
@@ -36,8 +36,7 @@ pueblos para que no te pierdas nada.
 
 ![Iglesia de la Asunción de Villanueva de la Serena.](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-Villanueva-de-la-Serena-iglesia-asuncion.jpg "Iglesia de la Asunción de Villanueva de la Serena. © Ayuntamiento Villanueva de la Serena")
 
-✅ [5 pueblos de Badajoz que no conoces y te 
-sorprenderán](https://etheriamagazine.com/2022/05/03/ruta-pueblos-bonitos-badajoz/) 
+✅ {{< reflink path=posts/2022/05/ruta-pueblos-bonitos-badajoz >}} 
 
 ## Dónde celebrar la Nochevieja de 2022
 
@@ -50,8 +49,7 @@ de Quintoelemento.
 
 ![copas brindando](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-nochevieja-brindis-780x450-1.jpg "En Nochevieja hay que celebrar y celebrar.")
 
-✅ [Celebra la Nochevieja de 2022 en Madrid con una cena de 
-gala](https://etheriamagazine.com/2022/11/11/nochevieja-2022-en-madrid/) 
+✅ {{< reflink path=posts/2022/11/nochevieja-2022-en-madrid >}} 
 
 ## Exposición Hijas del Nilo
 
@@ -67,8 +65,7 @@ la vida cultural de nuestras ciudades en 2023.
 
 ![exposición hijas del Nilo](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-Hijas-del-Nilo-sala-iluminada.jpg "Sala de la exposición © Hijas del Nilo.")
 
-✅ [‘Hijas del Nilo’, una cita con las mujeres del Antiguo Egipto en 
-Madrid](https://etheriamagazine.com/2022/07/04/exposicion-hijas-del-nilo-madrid/) 
+✅ {{< reflink path=posts/2022/07/exposicion-hijas-del-nilo-madrid >}} 
 
 ## Comer bien en Conil
 
@@ -83,8 +80,7 @@ desayunar de diez y pastelerías. Y os aseguramos que lo conocemos muy bien.
 
 ![pescado frito en la Venta Pericón](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-venta-pericon-conil.jpg "Fritura de la Venta Pericón, en Conil. © Pepa García")
 
-✅ [Dónde comer bien en Conil de la Frontera, bares y restaurantes 
-recomendados](https://etheriamagazine.com/2022/07/22/donde-comer-bien-conil-de-la-frontera/) 
+✅ {{< reflink path=posts/2022/07/donde-comer-bien-conil-de-la-frontera >}} 
 
 ## Visitas gratis en Conil
 
@@ -98,8 +94,7 @@ alrededores de la torre de Castilnovo y la ruta por los miradores.
 
 ![estatua en la plaza de españa de Conil con la puerta de la villa al fondo](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-plaza-espana-conil.jpg "Plaza de España de Conil. © Pepa García")
 
-✅ [15 visitas que hacer en Conil y ninguna es una 
-playa](https://etheriamagazine.com/2022/04/13/guia-de-conil-visitas-gratuitas/) 
+✅ {{< reflink path=posts/2022/04/guia-de-conil-visitas-gratuitas >}} 
 
 ## Los melocotoneros de Aitona
 
@@ -112,8 +107,7 @@ la zona por si queremos completar el viaje o visitamos la zona en otra época de
 
 ![Flores de los melocotoneros de Aitona.](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-Fruiturismo-lleida.jpg "Flores de los melocotoneros de Aitona.")
 
-✅ [Aitona en flor, un anuncio ‘rosa’ a las afueras de 
-Lleida](https://etheriamagazine.com/2022/02/24/viaje-floracion-melocotoneros-aitona-lleida/) 
+✅ {{< reflink path=posts/2022/02/viaje-floracion-melocotoneros-aitona-lleida >}} 
 
 ## Viajes de novios originales
 
@@ -128,8 +122,7 @@ ceñirse siempre a lo convencional.
 
 ![pareja descansando en la montaña](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-viajes-novios-originales-pareja.jpg "No renuncies a tu luna de miel soñada.")
 
-✅ [10 viajes de novios originales para huir de lo 
-convencional](https://etheriamagazine.com/2022/02/09/viajes-de-novios-originales-2022/) 
+✅ {{< reflink path=posts/2022/02/viajes-de-novios-originales-2022 >}} 
 
 ## Los mejores restaurantes de Formentera
 
@@ -143,8 +136,7 @@ enología. Su selección incluye referencias concretas de restaurantes fuera del
 
 ![Sara Valls, del restaurante Janis, en Formentera.](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-formentera-sara-valls.jpg "Sara Valls, del restaurante Janis, en Formentera.")
 
-✅ [Dónde comer en Formentera sin perder de vista la mano 
-femenina](https://etheriamagazine.com/2022/07/27/mejores-restaurantes-formentera/) 
+✅ {{< reflink path=posts/2022/07/mejores-restaurantes-formentera >}} 
 
 ## Usera, el Chinatown de Madrid
 
@@ -158,8 +150,7 @@ porque son realmente auténticos.
 
 ![platos del hot pot de Mr. Doulao](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-mrdoulao-hotpot-usera.jpg "© Mr. Doulao, un restaurante hot pot de Usera.")
 
-✅ [Ruta turístico-gastronómica por el Chinatown 
-madrileño](https://etheriamagazine.com/2022/02/11/ruta-turistica-usera-chinatown-madrileno/) 
+✅ {{< reflink path=posts/2022/02/ruta-turistica-usera-chinatown-madrileno >}} 
 
 ## Qué ver en Cantabria
 
@@ -173,5 +164,4 @@ destacados.
 
 ![Hombre Pez junto al Puente Mayor de Liérganes.](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-puente-hombre-pez-Lierganes.jpg "Hombre Pez junto al Puente Mayor de Liérganes.")
 
-✅ [Guía esencial de Cantabria, visitas que no puedes 
-perderte](https://etheriamagazine.com/2022/09/05/que-ver-en-cantabria/)
+✅ {{< reflink path=posts/2022/09/que-ver-en-cantabria >}}

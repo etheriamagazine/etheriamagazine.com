@@ -1,7 +1,7 @@
 ---
 title: "Pobreza y analfabetismo menstrual, asignaturas pendientes en el Día de la Higiene Menstrual"
 date: 2022-05-27
-coverImage: https://fotos.etheriamagazine.com/2022/05/dia-higiene-menstrual.jpg
+cover: https://fotos.etheriamagazine.com/2022/05/dia-higiene-menstrual.jpg
 categories: 
   - bienestar
 destino: 
@@ -75,8 +75,9 @@ riesgo de exclusión no está preparada para utilizar, porque necesitan educaci�
 Luego está el acceso a los productos y la gratuidad, pero lo que buscamos es la 
 necesidad urgente de educación y que se destine dinero público, porque vas a presentar 
 talleres a un instituto y no te los cogen”, se queja Janire Mañes López, educadora 
-sexual en igualdad de género y fundadora de [ILEN - Cultura 
-Menstrual](https://www.instagram.com/ilenculturamenstrual). 
+sexual en igualdad de género y fundadora de [ILEN 
+
+- Cultura Menstrual](https://www.instagram.com/ilenculturamenstrual). 
 
 ![La educación menstrual es necesaria en la adolescencia](https://fotos.etheriamagazine.com/2022/05/adolescentes-menstruacion.jpg "La educación menstrual es absolutamente necesaria. © Jeffrey F Lin")
 
@@ -158,11 +159,9 @@ medioambiental como en la salud.
 
 ### También te puede interesar...
 
-[Menstruar, una cuestión de derechos 
-humanos](https://etheriamagazine.com/2021/05/13/menstruacion-tabu-estigma-para-ninas-mundo/). 
+{{< reflink path=posts/2021/05/menstruacion-tabu-estigma-para-ninas-mundo >}}. 
 
-[Endometriosis, una enfermedad que no es solo 
-ginecológica](https://etheriamagazine.com/2021/03/15/que-es-endometriosis-sintomas-y-cuidados/). 
+{{< reflink path=posts/2021/03/que-es-endometriosis-sintomas-y-cuidados >}}. 
 
-[Personas Altamente Sensibles. ¿Es realmente un don la 
-sensibilidad?](https://etheriamagazine.com/2020/11/25/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad/)
+{{< reflink 
+path=posts/2020/11/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}}

@@ -1,7 +1,7 @@
 ---
 title: "Miami con Zihara Arrasate, un viaje sólo para mujeres en Semana Santa"
 date: 2022-03-02
-coverImage: https://fotos.etheriamagazine.com/2022/03/miami-The-Nature-Conservancy-Blowing-Rocks-Preserve.jpg
+cover: https://fotos.etheriamagazine.com/2022/03/miami-The-Nature-Conservancy-Blowing-Rocks-Preserve.jpg
 categories: 
   - viajar-sola
 destino: 

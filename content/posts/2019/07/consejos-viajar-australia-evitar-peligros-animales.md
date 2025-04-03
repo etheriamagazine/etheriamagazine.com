@@ -1,7 +1,7 @@
 ---
 title: "Australia no es un zoo, conoce sus animales más mortíferos"
 date: 2019-07-31
-coverImage: https://fotos.etheriamagazine.com/2019/07/Australia-animales-koala.jpg
+cover: https://fotos.etheriamagazine.com/2019/07/Australia-animales-koala.jpg
 categories: 
   - historias
   - inspiración
@@ -12,10 +12,10 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-Pasear por los alucinantes paisajes de Australia como si fuera un parque temático o un 
+**Pasear por los alucinantes paisajes de Australia como si fuera un parque temático o un 
 zoo es un gran error. Sus cocodrilos son reales, sus tiburones y medusas son letales y 
 hasta los casuarios o los adorables koalas te pueden matar de un zarpazo. Te ayudamos a 
-sobrevivir a los animales de Australia sin dejar de disfrutarlo. 
+sobrevivir a los animales de Australia sin dejar de disfrutarlo.** 
 
 ![piscina natural en Noosa National Park en Australia](https://fotos.etheriamagazine.com/2019/07/australia-animales-noosa-1.jpg "Noosa National Park. © Carles Rabada")
 
@@ -226,8 +226,6 @@ Descubre todo sobre los koalas en el **Koala Park Sanctuary**.
 
 **También te puede interesar:** 
 
-[7 Consejos para viajar a 
-Australia](https://etheriamagazine.com/2019/03/07/7-consejos-para-viajar-a-australia/) 
+{{< reflink path=posts/2019/03/7-consejos-para-viajar-a-australia >}} 
 
-[Ruta definitiva para tu viaje a 
-Australia](https://etheriamagazine.com/2019/03/07/revista-viajes-que-ver-australia/)
+{{< reflink path=posts/2019/03/revista-viajes-que-ver-australia >}}

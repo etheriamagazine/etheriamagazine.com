@@ -1,7 +1,7 @@
 ---
 title: "Escapada con amigas a Collioure y su Costa Bermeja"
 date: 2024-06-07
-coverImage: https://fotos.etheriamagazine.com/2024/06/Collioure-bahia.jpg
+cover: https://fotos.etheriamagazine.com/2024/06/Collioure-bahia.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -207,8 +207,6 @@ Orientales](https://www.turismo-pirineosorientales.es/).
 
 **También te puede interesar:** 
 
-[Enamórate del sudeste francés en Perpiñán y 
-Collioure](https://etheriamagazine.com/2020/03/19/viajes-mujeres-que-ver-en-perpinan-y-collioure/) 
+{{< reflink path=posts/2020/03/viajes-mujeres-que-ver-en-perpinan-y-collioure >}} 
 
-[Argelès-sur-Mer, 9 experiencias para enamorarte de esta comuna 
-francesa](https://etheriamagazine.com/2023/10/04/que-ver-argeles-sur-mer-francia/)
+{{< reflink path=posts/2023/10/que-ver-argeles-sur-mer-francia >}}

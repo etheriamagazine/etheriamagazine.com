@@ -1,7 +1,7 @@
 ---
 title: "La agencia WOM Viajes apuesta escapadas nacionales"
 date: 2020-05-25
-coverImage: https://fotos.etheriamagazine.com/2020/05/wom-agencia-viajes-mujeres.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/wom-agencia-viajes-mujeres.jpg
 categories: 
   - viajar-sola
   - historias
@@ -11,19 +11,19 @@ authors:
   - Pepa G. Marín
 ---
 
-Itinerarios nacionales a corto plazo e, incluso, alguna escapada sorpresa son las 
+**Itinerarios nacionales a corto plazo e, incluso, alguna escapada sorpresa son las 
 propuestas que la agencia de viajes para mujeres WOM prepara para este verano. Su 
 directora, Ana Blasco, seguirá con su dinámica de llevar grupos reducidos y de huir del 
-turismo de masas. 
+turismo de masas.** 
 
 ![Ana Blasco, de WOM.](https://fotos.etheriamagazine.com/2020/05/agencia-viaje-mujeres-wom.jpg "Ana Blasco, de WOM. © Lydia Carbonell")
 
 En su sexto año de vida, la agencia de viajes para mujeres WOM se enfrenta al gran reto 
 de su trayectoria: continuar adelante con la misma ilusión a pesar de las dimensiones de 
-la actual pandemia. [Ana 
-Blasco](https://etheriamagazine.com/2018/08/20/ana-blasco-wom-viajes-mujeres-etheria/), 
-su directora, es cauta en sus decisiones pero firme en su deseo de adaptar el programa 
-que ofrece a sus clientas para que nadie se quede sin hacer una escapada este año. 
+la actual pandemia. {{< reflink path=posts/2018/08/ana-blasco-wom-viajes-mujeres-etheria 
+>}}, su directora, es cauta en sus decisiones pero firme en su deseo de adaptar el 
+programa que ofrece a sus clientas para que nadie se quede sin hacer una escapada este 
+año. 
 
 Aunque no están los itinerarios cerrados, ya ha considerado algunos destinos nacionales 
 como **Extremadura**, **Andalucía**, **Cantabria** y **Aragón**. Además, tiene en mente 

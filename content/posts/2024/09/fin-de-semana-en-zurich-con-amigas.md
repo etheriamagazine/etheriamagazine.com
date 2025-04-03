@@ -1,7 +1,7 @@
 ---
 title: "Cultura, naturaleza y mucho estilo en un fin de semana en Zúrich con amigas"
 date: 2024-09-27
-coverImage: https://fotos.etheriamagazine.com/2024/09/zurich-rio-limmat.jpg
+cover: https://fotos.etheriamagazine.com/2024/09/zurich-rio-limmat.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -193,9 +193,8 @@ vietnaminta; o **Kai Sushi** (kaisushi.ch), con especialidades japonesas.
 
 En Suiza funciona el rooming de Vodafone, pero no el de Movistar y otros operadores. Así 
 que, si se tiene alguna compañía que no lo tenga incluido, merece la pena comprar una 
-eSIM en soportes como 
-**[Holafly](https://etheriamagazine.com/2022/08/02/esim-europa-no-comunitaria/)** para 
-los días que se vaya a estar y no tener así problemas con los datos móviles. 
+eSIM en soportes como **{{< reflink path=posts/2022/08/esim-europa-no-comunitaria >}}** 
+para los días que se vaya a estar y no tener así problemas con los datos móviles. 
 
 ## Moneda
 
@@ -210,5 +209,4 @@ automáticos.
 
 **También te puede interesar:** 
 
-[Mercados de Navidad de Zúrich, un fin de semana 
-inolvidable](https://etheriamagazine.com/2018/10/12/mercados-de-navidad-en-zurich/)
+{{< reflink path=posts/2018/10/mercados-de-navidad-en-zurich >}}

@@ -1,7 +1,7 @@
 ---
 title: "Los influencers que amaban a las langostas"
 date: 2023-07-28
-coverImage: https://fotos.etheriamagazine.com/2023/07/portada-langosta-3.jpg
+cover: https://fotos.etheriamagazine.com/2023/07/portada-langosta-3.jpg
 categories: 
   - historias
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Rafael de Rojas
 ---
 
-Un restaurante aparece mucho y muy fuerte, a la vez, en todas las reseñas. Luego, se 
+**Un restaurante aparece mucho y muy fuerte, a la vez, en todas las reseñas. Luego, se 
 desvanece para siempre. Son los enigmas promovidos por los nuevos ‘influencers’ 
 gastronómicos metidos a críticos, que se atreven con todo. Gurús del Omeprazol que, 
 cuando escriben, lo mismo le dan a la autoayuda que a las citas de los griegos, porque 
-todo lo saben y todo lo hacen bien. Menos una cosa. 
+todo lo saben y todo lo hacen bien. Menos una cosa.** 
 
 Crónica humorística de **Rafael de Rojas** 
 
@@ -135,8 +135,6 @@ cosita de nada, que, en fin, a quién le importa: escribir.
 
 ✅ **Sigue leyendo otras crónicas...** 
 
-[En el temazcal, una experiencia “mágica” en Riviera 
-Maya](https://etheriamagazine.com/2023/07/10/en-el-temazcal/). 
+{{< reflink path=posts/2023/07/en-el-temazcal >}}. 
 
-[¿El peor viaje de mi vida? El día en que me metieron droga en la 
-maleta](https://etheriamagazine.com/2019/03/09/peor-viaje-mi-vida/).
+{{< reflink path=posts/2019/03/peor-viaje-mi-vida >}}.

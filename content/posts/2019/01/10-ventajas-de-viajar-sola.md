@@ -1,7 +1,7 @@
 ---
 title: "10 ventajas de viajar sola que te interesa conocer"
 date: 2019-01-29
-coverImage: https://fotos.etheriamagazine.com/2019/01/viajar-sola-europa.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/viajar-sola-europa.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-Lo que antaño parecía de "raritas" (si no lo crees, echa un vistazo al libro 
+**Lo que antaño parecía de "raritas" (si no lo crees, echa un vistazo al libro 
 'Intrépidas'), hoy día es lo más normal del mundo. Viajamos solas porque nos apetece o 
 porque no se dan las circunstancias para hacerlo acompañadas. Sea como fuere, viajar 
 sola tiene muchas ventajas y os lo vamos a demostrar para que os lancéis sin darle 
-tantas vueltas. 
+tantas vueltas.** 
 
 ![mujer hace fotografia junto al mar](https://fotos.etheriamagazine.com/2019/01/viajar-sola-playa.jpg "Si eres amante de la fotografía, llevas la mejor compañera entre las manos.")
 
@@ -22,7 +22,8 @@ tantas vueltas.
 
 La primera gran, grandísima, ventaja de viajar sola es que no tienes que consensuar con 
 nadie tu próximo destino, por lo tanto solo depende de ti el lugar al que irás o el 
-tiempo que permanecerás en ese sitio que tanto te apetece. Como nos contaba [Kandy](http://etheriamagazine.com/2018/11/19/kandy-la-abuela-mochilera-mujer-etheria/), 
+tiempo que permanecerás en ese sitio que tanto te apetece. Como nos contaba 
+[Kandy](http://etheriamagazine.com/2018/11/19/kandy-la-abuela-mochilera-mujer-etheria/), 
 su mejor compañera de viaje era su mochila porque nunca se quejaba. Cuánta razón, todas 
 hemos sufrido las quejas continuas de alguna amiga en un viaje por el hotel, la comida, 
 los traslados... 
@@ -34,9 +35,8 @@ elegido, tus sentidos estarán cien por cien centrados en vivir ese momento. ¿D
 sirve estar en Petra si estás hablando de lo que pasó la semana pasada en la oficina? 
 
 No dejes de leer las crónicas de viaje de Sania Jelic, una mujer que comenzó a recorrer 
-el mundo tras su jubilación.📍[Viajar sola por el mundo tras la jubilación, el nuevo 
-plan de vida de Sania 
-Jelic](https://etheriamagazine.com/2022/12/13/sania-jelic-viajar-sola-mas-65/). 
+el mundo tras su jubilación.📍{{< reflink 
+path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}}. 
 
 ![parapente en el Aconcagua](https://fotos.etheriamagazine.com/2023/02/sania-vuelo-mendoza.jpg "Sania con su compañera preparadas para el vuelo. Carretera de ascenso al Cristo Redentor de los Andes. © SJ")
 
@@ -130,11 +130,9 @@ causa.
 
 ✅ **Algunas ideas para viajar sola...** 
 
-[Viajar sola al lago Atitlán, una aventura fascinante en busca de las raíces 
-mayas](https://etheriamagazine.com/2021/02/20/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala/). 
+{{< reflink path=posts/2021/02/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala >}}. 
 
-[Trekking a Ushguli, la aldea habitada más alta de 
-Europa](https://etheriamagazine.com/2021/02/16/ruta-detallada-trekking-a-ushguli-georgia/). 
+{{< reflink path=posts/2021/02/ruta-detallada-trekking-a-ushguli-georgia >}}. 
 
-[Jordania, visitas y consejos imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2020/12/18/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola/).
+{{< reflink 
+path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}.

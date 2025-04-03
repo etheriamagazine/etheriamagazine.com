@@ -1,7 +1,7 @@
 ---
 title: "Celebra la Nochevieja en Madrid con una cena de gala"
 date: 2022-11-11
-coverImage: https://fotos.etheriamagazine.com/2022/11/nochevieja-brindis.jpg
+cover: https://fotos.etheriamagazine.com/2022/11/nochevieja-brindis.jpg
 categories: 
   - gourmet
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-Ya queda menos para la última noche del año y seguro que estás dándole vueltas a cómo 
+**Ya queda menos para la última noche del año y seguro que estás dándole vueltas a cómo 
 celebrarla. ¿Has pensado en tirar la casa por la ventana y celebrarla con una cena de 
 gala? En este artículo te proponemos ocho lugares para celebrar la Nochevieja en Madrid 
 que van desde los hoteles de lujo más clásicos hasta propuestas divertidas y descaradas. 
-Desempolva las lentejuelas que nos vamos de fiesta. 
+Desempolva las lentejuelas que nos vamos de fiesta.** 
 
 ![copas de champán brindando](https://fotos.etheriamagazine.com/2022/11/nochevieja-brindis.jpg "Vayas donde vayas, no te olvides de brindar por todo lo bueno que traerá el año próximo.")
 
@@ -24,9 +24,8 @@ es no complicarse con la cena y reservar en un hotel o restaurante donde despedi
 por todo lo alto sin manchar la cocina. Aquí compartimos 8 propuestas de cena de 
 Nochevieja en Madrid para decir adiós al año como se merece. 
 
-¡Atención! En este artículo encontrarás las mejores ideas para la [NOCHEVIEJA 2023 en 
-Hoteles y restaurantes de 
-Madrid.](https://etheriamagazine.com/2023/11/28/nochevieja-madrid-hoteles-restaurantes/) 
+¡Atención! En este artículo encontrarás las mejores ideas para la {{< reflink 
+path=posts/2023/11/nochevieja-madrid-hoteles-restaurantes >}} 
 
 ## Lugares donde celebrar la Nochevieja en Madrid en 2022
 
@@ -169,8 +168,6 @@ artículo.
 
 **También te puede interesar:** 
 
-[6 lugares para disfrutar de los mercados de Navidad más 
-tradicionales](https://etheriamagazine.com/2022/10/21/mercados-de-navidad-europa/) 
+{{< reflink path=posts/2022/10/mercados-de-navidad-europa >}} 
 
-[Agita la Navidad con estos libros de cócteles, el mejor regalo para quien tú 
-sabes](https://etheriamagazine.com/2020/11/23/libros-de-cocteleria-un-gran-regalo-navidad/)
+{{< reflink path=posts/2020/11/libros-de-cocteleria-un-gran-regalo-navidad >}}

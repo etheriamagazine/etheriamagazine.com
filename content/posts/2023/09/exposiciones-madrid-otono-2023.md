@@ -1,7 +1,7 @@
 ---
 title: "Exposiciones esenciales en Madrid para poner el broche de oro a 2023"
 date: 2023-09-28
-coverImage: https://fotos.etheriamagazine.com/2023/09/exposicion-matadero-ultimos-dias-pompeya.jpg
+cover: https://fotos.etheriamagazine.com/2023/09/exposicion-matadero-ultimos-dias-pompeya.jpg
 categories: 
   - cultura
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-La capital está siempre llena de planes y el otoño le sienta muy bien a su programación 
-cultural. En este artículo hemos seleccionado 12 exposiciones temporales que puedes ver 
-en Madrid en otoño de 2023 que incluyen grandes figuras del arte como Monet, Picasso y 
-Sorolla o momentos históricos como la Caída del Muro de Berlín. Te van a apetecer al 
-momento. 
+**La capital está siempre llena de planes y el otoño le sienta muy bien a su 
+programación cultural. En este artículo hemos seleccionado 12 exposiciones temporales 
+que puedes ver en Madrid en otoño de 2023 que incluyen grandes figuras del arte como 
+Monet, Picasso y Sorolla o momentos históricos como la Caída del Muro de Berlín. Te van 
+a apetecer al momento.** 
 
 ![cuadro 'María en la playa de Zarauz' de Sorolla](https://fotos.etheriamagazine.com/2023/09/exposicion-sorolla-mapfre-paisaje.jpg "Cuadro incluido en la exposición sobre Sorolla en la © Fundación MAPFRE: 'María en la playa de Zarauz', 1910. Colección particular.")
 
@@ -101,14 +101,15 @@ packs familiares.
 
 ## 'Maestras' en el Museo Thyssen-Bornemisza
 
-El Museo Thyssen pone el foco con la exposición temporal [Maestras](https://www.museothyssen.org/exposiciones/maestras) 
-en algunas de las artistas que han sido silenciadas por la Historia del Arte, aunque 
-fueran reconocidas en su tiempo. Artemisa Gentileschi, Henriette Browne, Angelica 
-Kauffman o Maruja Mallo forman parte de esta muestra que incluye casi un centenar de 
-piezas entre pinturas, esculturas, obras sobre papel y textiles, y que recorre ocho 
-momentos importantes en la historia del feminismo desde finales del siglo XVI hasta 
-principios del siglo XX. Una colección que destaca como ya estas mujeres aportaron 
-nuevas miradas a algunos de los temas más relevantes de su época. 
+El Museo Thyssen pone el foco con la exposición temporal 
+[Maestras](https://www.museothyssen.org/exposiciones/maestras) en algunas de las 
+artistas que han sido silenciadas por la Historia del Arte, aunque fueran reconocidas en 
+su tiempo. Artemisa Gentileschi, Henriette Browne, Angelica Kauffman o Maruja Mallo 
+forman parte de esta muestra que incluye casi un centenar de piezas entre pinturas, 
+esculturas, obras sobre papel y textiles, y que recorre ocho momentos importantes en la 
+historia del feminismo desde finales del siglo XVI hasta principios del siglo XX. Una 
+colección que destaca como ya estas mujeres aportaron nuevas miradas a algunos de los 
+temas más relevantes de su época. 
 
 ![Cuadro de la exposición Maestras, 'Judit y su criada', 1618-1619 de Artemisia Gentileschi.](https://fotos.etheriamagazine.com/2023/09/thyssen-exposicion-maestra-artemisia.jpg "Cuadro de la exposición Maestras, 'Judit y su criada', 1618-1619 de Artemisia Gentileschi. © Gallerie degli Uffizi.")
 
@@ -272,8 +273,6 @@ locales y la circunstancias de cada lugar.
 
 ? **También te puede interesar:** 
 
-[Qué hacer con amigas en Madrid este otoño e 
-invierno](https://etheriamagazine.com/2023/09/07/que-hacer-con-amigas-madrid-otono/) 
+{{< reflink path=posts/2023/09/que-hacer-con-amigas-madrid-otono >}} 
 
-[Planes divertidos con adolescentes en 
-Madrid](https://etheriamagazine.com/2022/12/16/planes-adolescentes-madrid/)
+{{< reflink path=posts/2022/12/planes-adolescentes-madrid >}}

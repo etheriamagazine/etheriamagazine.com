@@ -1,7 +1,7 @@
 ---
 title: "8 excursiones con niños en Alicante"
 date: 2020-05-28
-coverImage: https://fotos.etheriamagazine.com/2020/05/Alicante-Tabarca.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/Alicante-Tabarca.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -33,8 +33,8 @@ restaurante para probar el ‘caldero’, el plato típico, podéis acercaros al
 Gloria**. 
 
 📌 Ideas: [Ferry a la isla de 
-Tabarca](https://www.civitatis.com/es/alicante/ferry-isla-tabarca/?aid=10211) y [Excursión 
-en barco a Tabarca con una actividad de 
+Tabarca](https://www.civitatis.com/es/alicante/ferry-isla-tabarca/?aid=10211) y 
+[Excursión en barco a Tabarca con una actividad de 
 snorkel](https://www.civitatis.com/es/santa-pola/excursion-tabarca-snorkel/?aid=10211). 
 
 ![cabo fontana, marina alta](https://fotos.etheriamagazine.com/2019/08/viaje-denia-javea-Cabo-de-la-fontana.jpg "Cabo de la Fontana (Jávea). ©M.E.")
@@ -49,9 +49,10 @@ y probad la [gamba
 roja](http://etheriamagazine.com/2019/07/02/mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva/) 
 de Dénia). Dos buenas opciones para completar la jornada son dar un paseo en [catamarán 
 frente a la costa de 
-Dénia](https://www.civitatis.com/es/denia/paseo-catamaran-denia/?aid=10211) o dar un [paseo 
-en barco por Jávea](https://www.civitatis.com/es/javea/paseo-barco-javea/?aid=10211) 
-para ver su bonita costa, con los cabos de San Antonio, de San Martín y de la Nao. 
+Dénia](https://www.civitatis.com/es/denia/paseo-catamaran-denia/?aid=10211) o dar un 
+[paseo en barco por 
+Jávea](https://www.civitatis.com/es/javea/paseo-barco-javea/?aid=10211) para ver su 
+bonita costa, con los cabos de San Antonio, de San Martín y de la Nao. 
 
 Entre estas dos localidades se encuentra el [Parque Natural de 
 Montgó](http://www.denia.net/parque-natural-montgo) que cuenta con rutas de senderismo 
@@ -104,7 +105,8 @@ Salinas**, dos buenos lugares para avistar aves.
 
 ## 6\. Kayak y paddle surf en Campello y Playa de San Juan
 
-En verano, el estado del mar de la zona de [Campello](https://www.civitatis.com/es/el-campello/alquiler-kayak-el-campello/?aid=10211) 
+En verano, el estado del mar de la zona de 
+[Campello](https://www.civitatis.com/es/el-campello/alquiler-kayak-el-campello/?aid=10211) 
 y de la [Playa de San 
 Juan](https://www.civitatis.com/es/alicante/tour-paddle-surf-playa-san-juan/?aid=10211) 
 es perfecto para practicar deportes acuáticos como el kayak y el paddle surf, que además 
@@ -120,8 +122,9 @@ apetecible visitarlo para recorrer su casco histórico de casas blancas y subir 
 llamativa iglesia del Consuelo, con sus características cúpulas azules. Además, sus 
 playas de arena fina son excelentes, por lo que podrás combinar una jornada de playa con 
 un paseo por el pueblo. Y si eres una auténtica 'instagramer', puedes apuntarte a las 
-visitas de Civitatis para aficionados a [Instagram](https://www.civitatis.com/es/denia/tour-fotografico-altea/?aid=10211) 
-y retratar a tu familia en los rincones más bonitos de Altea. 
+visitas de Civitatis para aficionados a 
+[Instagram](https://www.civitatis.com/es/denia/tour-fotografico-altea/?aid=10211) y 
+retratar a tu familia en los rincones más bonitos de Altea. 
 
 ![excursiones con niños, viajes a Alicante, viajes en familia, vacaciones en Alicante](https://fotos.etheriamagazine.com/2020/05/Alicante-Calpe-mirador.jpg "Vista de Calpe desde el monte Toix.")
 
@@ -139,11 +142,9 @@ las magníficas vistas.
 
 ### Otros lugares para visitar con niños:
 
-[8 excursiones en Málaga para hacer con 
-niños](https://etheriamagazine.com/2021/07/12/excursiones-en-malaga-con-ninos/) 
+{{< reflink path=posts/2021/07/excursiones-en-malaga-con-ninos >}} 
 
-[Huelva con niños: 6 planes para aprovechar el viaje al 
-máximo](https://etheriamagazine.com/2021/06/21/planes-en-huelva-con-ninos/) 
+{{< reflink path=posts/2021/06/planes-en-huelva-con-ninos >}} 
 
-[12 actividades para hacer con niños en la provincia de 
-Cádiz](https://etheriamagazine.com/2020/03/12/12-actividades-familiares-para-viajes-con-ninos-en-cadiz/).
+{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
+>}}.

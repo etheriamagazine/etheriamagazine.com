@@ -1,7 +1,7 @@
 ---
 title: "Iberostar Selection Fuerteventura Palace, tu hotel de lujo en Fuerteventura"
 date: 2021-11-11
-coverImage: https://fotos.etheriamagazine.com/2021/11/Iberostar-fuerteventura-piscina.jpg
+cover: https://fotos.etheriamagazine.com/2021/11/Iberostar-fuerteventura-piscina.jpg
 categories: 
   - hoteles
 destino: 
@@ -93,11 +93,9 @@ Precio de habitación doble desde 172 Euros.
 
 ### También te puede interesar:
 
-[10 planes en Fuerteventura con amigas para disfrutar al máximo de la 
-isla](https://etheriamagazine.com/2021/03/24/planes-en-fuerteventura-con-amigas/) 
+{{< reflink path=posts/2021/03/planes-en-fuerteventura-con-amigas >}} 
 
-[7 planes esenciales en Lanzarote con 
-amigas](https://etheriamagazine.com/2020/06/11/viajar-sola-amigas-imprescindible-lanzarote/) 
+{{< reflink path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}} 
 
-[La Geria: la ruta de vinos definitiva para beberse 
-Lanzarote](https://etheriamagazine.com/2020/08/04/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote/)
+{{< reflink 
+path=posts/2020/08/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}}

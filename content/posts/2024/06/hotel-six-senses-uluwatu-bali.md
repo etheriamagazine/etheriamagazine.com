@@ -1,7 +1,7 @@
 ---
 title: "Hotel Six Senses Uluwatu, un oasis en Bali para desconectar"
 date: 2024-06-26
-coverImage: https://fotos.etheriamagazine.com/2024/06/six-senses-uluwatu-piscina-infinity.jpg
+cover: https://fotos.etheriamagazine.com/2024/06/six-senses-uluwatu-piscina-infinity.jpg
 categories: 
   - hoteles
 destino: 
@@ -105,8 +105,6 @@ Lempeh, Uluwatu. Bali, Indonesia. Tel. +62 361 2090300.
 
 **También te puede interesar:** 
 
-[Cómo organizar un viaje a Bali para aprovechar bien el 
-tiempo](https://etheriamagazine.com/2023/10/09/como-organizar-viaje-a-bali/) 
+{{< reflink path=posts/2023/10/como-organizar-viaje-a-bali >}} 
 
-[Bali, diez lugares que van directos a Instagram y 
-TikTok](https://etheriamagazine.com/2023/07/26/fotos-bali-instagram-tiktok/)
+{{< reflink path=posts/2023/07/fotos-bali-instagram-tiktok >}}

@@ -1,7 +1,7 @@
 ---
 title: "Cinque Terre, los cinco pueblos más bonitos de Liguria"
 date: 2020-06-04
-coverImage: https://fotos.etheriamagazine.com/2019/07/cinque-terre.jpg
+cover: https://fotos.etheriamagazine.com/2019/07/cinque-terre.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -27,8 +27,8 @@ Aunque **Cinque Terre** merece por sí solo una escapada, es un destino que tamb
 complementa otros viajes por Italia debido a su ubicación cerca de puertos de crucero y 
 ciudades turísticas. Es decir, si realizas un crucero por el Mediterráneo, con parada en 
 Portovenere, es una excursión que te ofrecerán. Si estás recorriendo Italia por tierra, 
-esta franja costera te pillará entre [Génova](http://www.airport.genova.it) (110 km) y [Pisa](http://www.pisa-airport.com) 
-(88 km). 
+esta franja costera te pillará entre [Génova](http://www.airport.genova.it) (110 km) y 
+[Pisa](http://www.pisa-airport.com) (88 km). 
 
 ![cinque terre Riomaggiore](https://fotos.etheriamagazine.com/2019/07/cinque-terre-mujer.jpg "Mujer asomada a una ventana en Riomaggiore. © Etheria Magazine")
 
@@ -148,15 +148,14 @@ poblaciones. Por lo tanto, [busca alojamiento](https://www.cinqueterre.it/es/hot
 en alguno de los pueblos para hacerlo con calma. 
 
 Distancias: Monterosso – Vernazza (1h 30 min), Vernazza – Corniglia (1h 30 min), 
-Corniglia – Manarola (1 hora), Manarola - Riomaggiore (Via dell’Amore: 30 minutos). 
+Corniglia – Manarola (1 hora), Manarola 
+
+- Riomaggiore (Via dell’Amore: 30 minutos). 
 
 ### Otros viajes en Italia
 
-[Caótica Nápoles: 48 horas en la ciudad más canalla de 
-Italia](https://etheriamagazine.com/2020/09/04/que-ver-en-napoles-en-fin-de-semana/). 
+{{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}}. 
 
-[Viaja con amigas a Turín, la ciudad más supersticiosa de 
-Italia](https://etheriamagazine.com/2019/12/16/que-ver-en-turin-en-un-viaje-con-amigas/). 
+{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}}. 
 
-[Secretos de Alberobello, un ‘pícaro’ pueblo italiano de 
-Puglia](https://etheriamagazine.com/2019/04/15/que-ver-alberobello-italia-unesco/).
+{{< reflink path=posts/2019/04/que-ver-alberobello-italia-unesco >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Château de Sibra, un alojamiento exclusivo en los Pirineos franceses"
 date: 2022-06-22
-coverImage: https://fotos.etheriamagazine.com/2022/06/chateaux-sibra-noche.jpg
+cover: https://fotos.etheriamagazine.com/2022/06/chateaux-sibra-noche.jpg
 categories: 
   - inspiración
   - hoteles
@@ -126,11 +126,8 @@ Fotografías cedidas por © Château de Sibra.
 
 ## También te puede interesar:
 
-[Dormir en un castillo en el valle del Loira: 4 propuestas 
-imbatibles](https://etheriamagazine.com/2022/04/15/dormir-en-castillos-valle-del-loira/) 
+{{< reflink path=posts/2022/04/dormir-en-castillos-valle-del-loira >}} 
 
-[Enamórate del sudeste francés en Perpiñán y 
-Collioure](https://etheriamagazine.com/2020/03/19/viajes-mujeres-que-ver-en-perpinan-y-collioure/) 
+{{< reflink path=posts/2020/03/viajes-mujeres-que-ver-en-perpinan-y-collioure >}} 
 
-[10 razones para viajar a Francia este 
-verano](https://etheriamagazine.com/2022/03/04/razones-viajes-francia-2022/)
+{{< reflink path=posts/2022/03/razones-viajes-francia-2022 >}}

@@ -1,7 +1,7 @@
 ---
 title: "Bazaruto, el archipiélago más virginal de Mozambique"
 date: 2019-08-21
-coverImage: https://fotos.etheriamagazine.com/2019/08/viaje-Mozambique-bazaruto-vilanculos-playa.jpg
+cover: https://fotos.etheriamagazine.com/2019/08/viaje-Mozambique-bazaruto-vilanculos-playa.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -173,12 +173,9 @@ una tarjeta la compañía Vodacom con 2G.
 
 **Más islas que te interesa conocer...** 
 
-[Conoce Zanzíbar, una isla perfumada de 
-especias](https://etheriamagazine.com/2018/11/30/mujeres-que-viajan-a-zanzibar-que-ver-en-tanzania/). 
+{{< reflink path=posts/2018/11/mujeres-que-viajan-a-zanzibar-que-ver-en-tanzania >}}. 
 
-[](https://etheriamagazine.com/2019/08/09/5-viajes-para-comenzar-a-conocer-africa/)[Islas 
-Maldivas, mucho más que un destino para lunas de 
-miel](https://etheriamagazine.com/2021/03/23/guia-que-hacer-en-maldivas-buceo-surf/). 
+{{< reflink path=posts/2019/08/5-viajes-para-comenzar-a-conocer-africa >}}{{< reflink 
+path=posts/2021/03/guia-que-hacer-en-maldivas-buceo-surf >}}. 
 
-[Islas Seychelles, el nuevo paraíso para los viajeros 
-españoles](https://etheriamagazine.com/2020/11/16/islas-seychelles-un-viaje-de-lujo-al-paraiso/).
+{{< reflink path=posts/2020/11/islas-seychelles-un-viaje-de-lujo-al-paraiso >}}.

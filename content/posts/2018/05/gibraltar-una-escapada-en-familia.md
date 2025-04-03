@@ -1,7 +1,7 @@
 ---
 title: "Gibraltar, planes para una escapada en familia"
 date: 2018-05-21
-coverImage: https://fotos.etheriamagazine.com/2018/05/Peñón-Gibraltar.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Peñón-Gibraltar.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Pepa G. Marín
 ---
 
-Cualquier época del año es buena para hacer una pequeña escapada familiar a Gibraltar. 
+**Cualquier época del año es buena para hacer una pequeña escapada familiar a Gibraltar. 
 Si estáis pasando las vacaciones en Andalucía solo es necesario que reservéis uno o dos 
-días para visitar El Peñón. En sus 8 km2 encontraréis planes para todos. 
+días para visitar El Peñón. En sus 8 km2 encontraréis planes para todos.** 
 
 ![En las terrazas superiores se puede ver a los macacos de cerca.](https://fotos.etheriamagazine.com/2018/05/Monos-Gibraltar-1-e1558853497645.jpg "En las terrazas superiores se puede ver a los macacos de cerca.")
 
@@ -142,4 +142,4 @@ galletas, etc. El azúcar y el chocolate son mucho más económicos que en Espa�
 Los mejores locales para comer se encuentran en la **calle Irish Town** y **Main 
 Street**. Para tomar una copa por la tarde hay muy buen ambiente en Ocean Village. 
 
-• Más información en [www.visitgibraltar.gi](http://www.visitgibraltar.gi)
+- Más información en [www.visitgibraltar.gi](http://www.visitgibraltar.gi)

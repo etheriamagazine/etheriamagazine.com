@@ -1,7 +1,7 @@
 ---
 title: "5 hoteles para desconectar sin salir de España"
 date: 2018-11-27
-coverImage: https://fotos.etheriamagazine.com/2018/10/hermitage-spa.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/hermitage-spa.jpg
 categories: 
   - hoteles
   - inspiración
@@ -12,9 +12,9 @@ authors:
   - Susana García
 ---
 
-Cualquier momento del año es bueno para buscar unos momentos de relax y desconexión. 
+**Cualquier momento del año es bueno para buscar unos momentos de relax y desconexión. 
 Para ello, no hace falta irse a tierras lejanas y en este artículo te presentamos 5 
-hoteles para desconectar perfectos para retirarte a descansar y coger fuerzas. 
+hoteles para desconectar perfectos para retirarte a descansar y coger fuerzas.** 
 
 ![Terraza de una habitación del hotel Bahía del Duque.](https://fotos.etheriamagazine.com/2019/01/hotel-bahia-del-duque-habitacion.jpg "Terraza de una habitación del hotel © Bahía del Duque.")
 
@@ -39,8 +39,8 @@ España](https://www.wineroutesofspain.com/).
 
 ![Claustro del Castillo Termal Monasterio de Valbuena](https://fotos.etheriamagazine.com/2018/09/monasterio-valbuena-claustro-1.jpg "Claustro del © Castillo Termal Monasterio de Valbuena.")
 
-✅ No te pierdas el artículo [Escapada para chicas en el Castillo Termal Monasterio de 
-Valbuena](https://etheriamagazine.com/2018/09/06/escapada-para-chicas-en-castilla-termal-monasterio-de-valbuena/). 
+✅ No te pierdas el artículo {{< reflink 
+path=posts/2018/09/escapada-para-chicas-en-castilla-termal-monasterio-de-valbuena >}}. 
 
 📍 Más información en: [Castilla Termal Monasterio de 
 Valbuena](https://www.castillatermal.com/hoteles/monasterio-de-valbuena/). 
@@ -57,8 +57,8 @@ momento del año, pero sobre todo en los duros inviernos peninsulares.
 
 ![piscina del spa del hotel Bahía del Duque](https://fotos.etheriamagazine.com/2018/06/Spa-Thalassotherapy-Bahiadelduque.jpg "Bahía Wellness Retreat del hotel © Bahía del Duque.")
 
-✅ No te pierdas el artículo [Hotel Bahía del Duque, desconexión en 
-Tenerife](https://etheriamagazine.com/2019/01/11/donde-dormir-tenerife-hotel-bahia-del-duque/). 
+✅ No te pierdas el artículo {{< reflink 
+path=posts/2019/01/donde-dormir-tenerife-hotel-bahia-del-duque >}}. 
 
 📍 Más información en: [hotel Bahía del 
 Duque](https://thetaishotels.com/bahia-del-duque/es/). 
@@ -74,8 +74,8 @@ desconectar en su circuito termal o con uno de sus masajes.
 
 ![pasillo del hotel Barceló Monasterio de Boltaña](https://fotos.etheriamagazine.com/2018/11/Barcelo-Boltana.jpg "Rincón del hotel © Barceló Monasterio de Boltaña.")
 
-✅ No te pierdas el artículo [Barceló Monasterio de Boltaña, un hotel para 
-desconectar](https://etheriamagazine.com/2018/04/13/barcelo-monasterio-de-boltana-un-hotel-de-pelicula-en-huesca/). 
+✅ No te pierdas el artículo {{< reflink 
+path=posts/2018/04/barcelo-monasterio-de-boltana-un-hotel-de-pelicula-en-huesca >}}. 
 
 📍 Más información en: [Barceló Monasterio de 
 Boltaña](https://www.barcelo.com/es/barcelo-hotels/hoteles/espana/huesca/barcelo-monasterio-de-boltana/). 
@@ -93,9 +93,8 @@ restaurantes dirigidos por chefs con Estrella Michelin.
 
 ![Piscina exterior del spa del hotel Sport Hotel Hermitage & Spa durante el invierno](https://fotos.etheriamagazine.com/2018/10/hermitage-spa-invierno.jpg "Piscina exterior del spa del © Sport Hotel Hermitage & Spa durante el invierno.")
 
-✅ No te pierdas el artículo [Sport Hotel Hermitage & Spa o cómo disfrutar del esquí a 
-otro 
-nivel](https://etheriamagazine.com/2018/11/01/sport-hotel-hermitage-spa-esquiar-en-andorra/). 
+✅ No te pierdas el artículo {{< reflink 
+path=posts/2018/11/sport-hotel-hermitage-spa-esquiar-en-andorra >}}. 
 
 📍 Más información en: [Sport Hotel Hermitage & 
 Spa](https://www.hotelhermitage.sporthotels.ad). 
@@ -111,19 +110,16 @@ Especia te devuelve a la vida con sus guisos asturianos.
 
 ![parador cangas de onis, biblioteca parador, viaje asturias](https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-primera-planta.jpg "Parador de Cangas de Onís (Asturias).")
 
-✅ No te pierdas el artículo [Parador de Cangas de Onis, un hotel digno de 
-reyes](https://etheriamagazine.com/2018/10/14/parador-de-cangas-de-onis-hotel-lujo-asturias/). 
+✅ No te pierdas el artículo {{< reflink 
+path=posts/2018/10/parador-de-cangas-de-onis-hotel-lujo-asturias >}}. 
 
 📍 Más información en: [Parador de Cangas de 
 Onís](https://www.parador.es/es/paradores/parador-de-cangas-de-onis?utm_source=GoogleMyBusiness&utm_medium=linkgoogle&utm_campaign=paradordecangasdeonis&utm_term=organico&utm_content=ficha). 
 
 📌 **También te puede interesar:** 
 
-[Hoteles románticos en España, ni muy caros ni muy 
-baratos](https://etheriamagazine.com/2023/02/06/hoteles-romanticos-espana-precio-medio/) 
+{{< reflink path=posts/2023/02/hoteles-romanticos-espana-precio-medio >}} 
 
-[8 hoteles de lujo en España para viajar con 
-niños](https://etheriamagazine.com/2022/04/08/hoteles-lujo-espana-viajar-con-ninos/) 
+{{< reflink path=posts/2022/04/hoteles-lujo-espana-viajar-con-ninos >}} 
 
-[7 hoteles de lujo para vivir 7 ciudades 
-históricas](https://etheriamagazine.com/2021/07/09/hoteles-de-lujo-en-ciudades-historicas/)
+{{< reflink path=posts/2021/07/hoteles-de-lujo-en-ciudades-historicas >}}

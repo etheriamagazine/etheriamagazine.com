@@ -1,7 +1,7 @@
 ---
 title: "Vive la vanguardia ibicenca en el hotel W Ibiza"
 date: 2020-08-20
-coverImage: https://fotos.etheriamagazine.com/2020/08/W-Ibiza-wet-deck.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/W-Ibiza-wet-deck.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Redacción Etheria
 ---
 
-Nos encantan los hoteles que apuestan por propuestas diferentes y vanguardistas como los 
-W de Marriott. En este caso nos fijamos en el nuevo W Ibiza, un hotel en Santa Eulalia 
-del Río lleno de color que es perfecto para una escapada con amigas. 
+**Nos encantan los hoteles que apuestan por propuestas diferentes y vanguardistas como 
+los W de Marriott. En este caso nos fijamos en el nuevo W Ibiza, un hotel en Santa 
+Eulalia del Río lleno de color que es perfecto para una escapada con amigas.** 
 
 ![Terraza de la suite Wow en el W Ibiza](https://fotos.etheriamagazine.com/2020/08/w-ibiza-suite-wow.jpg "Terraza de la suite Wow.")
 
@@ -112,11 +112,9 @@ Fotografías cedidas por Marriott International.
 
 📌 **También te puede interesar:** 
 
-[20 restaurantes románticos de Ibiza para ir en 
-pareja](https://etheriamagazine.com/2020/02/14/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja/) 
+{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
+>}} 
 
-[10 errores que debes evitar si vas a Ibiza con 
-amigas](https://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/) 
+{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}} 
 
-[Santa Eulària des Riu, el municipio de Ibiza más 
-‘hippy-sostenible’](https://etheriamagazine.com/2023/03/03/santa-eularia-des-riu-ibiza/)
+{{< reflink path=posts/2023/03/santa-eularia-des-riu-ibiza >}}

@@ -1,7 +1,7 @@
 ---
 title: "Isla de Pascua, el misterio de los moáis y su 'mana'"
 date: 2019-02-15
-coverImage: https://fotos.etheriamagazine.com/2019/02/viaje-pascua-Ahu-Nao-Nao.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/viaje-pascua-Ahu-Nao-Nao.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pedro Grifol
 ---
 
-Las gigantescas estatuas talladas en piedra volcánica, los famosos moáis, siguen 
+**Las gigantescas estatuas talladas en piedra volcánica, los famosos moáis, siguen 
 encerrando misterios para muchos arqueólogos. Ponerse delante de uno de esos señores con 
 cara de enfado impresiona… y da para pensar. En este viaje a Isla de Pascua desvelaremos 
-algunos de sus misterios. 
+algunos de sus misterios.** 
 
 ![viaje mujeres, isla de pascua, moais](https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-isla-pascua-Rano-Raraku.jpg "El tamaño de los moáis impone al visitante.")
 
@@ -203,8 +203,6 @@ tatuarse en cualquier parte, ha hecho que proliferen los negocios de este menest
 
 **También te puede interesar...** 
 
-[Valparaíso, una bonita ruta de street art en la ciudad chilena del 
-arcoíris](https://etheriamagazine.com/2020/01/20/que-ver-en-valparaiso-ruta-grafitis-chile/). 
+{{< reflink path=posts/2020/01/que-ver-en-valparaiso-ruta-grafitis-chile >}}. 
 
-[San Pedro de Atacama, la capital del ‘buenrollismo’ está en 
-Chile](https://etheriamagazine.com/2019/01/04/que-ver-en-desierto-atacama-san-pedro-atacama-chile/).
+{{< reflink path=posts/2019/01/que-ver-en-desierto-atacama-san-pedro-atacama-chile >}}.

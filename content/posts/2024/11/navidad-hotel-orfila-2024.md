@@ -1,7 +1,7 @@
 ---
 title: "Cenas o brunch, la Navidad en el Hotel Orfila se celebra por todo lo alto"
 date: 2024-11-18
-coverImage: https://fotos.etheriamagazine.com/2024/11/Orfila_Navidad.jpg
+cover: https://fotos.etheriamagazine.com/2024/11/Orfila_Navidad.jpg
 categories: 
   - gourmet
   - hoteles
@@ -110,11 +110,8 @@ con la cocina de autor de uno de los chefs más reconocidos del país. **Más in
 
 **También en Etheria Magazine** 
 
-[10 exposiciones en Madrid para ver en otoño de 
-2024](https://etheriamagazine.com/2024/10/23/exposiciones-en-madrid-otono-de-2024/). 
+{{< reflink path=posts/2024/10/exposiciones-en-madrid-otono-de-2024 >}}. 
 
-[La ruta de Lola Flores en Madrid a tu aire (con plano 
-incluido)](https://etheriamagazine.com/2024/04/11/ruta-lola-flores-en-madrid/). 
+{{< reflink path=posts/2024/04/ruta-lola-flores-en-madrid >}}. 
 
-[Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
-‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/).
+{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}.

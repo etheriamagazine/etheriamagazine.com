@@ -1,7 +1,7 @@
 ---
 title: "Tres montañas de Suiza a las que subir con niños sin despeinarse"
 date: 2018-09-28
-coverImage: https://fotos.etheriamagazine.com/2018/09/Suiza-subida-jungfrau-e1569136382763.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/Suiza-subida-jungfrau-e1569136382763.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -72,7 +72,8 @@ El tren y la entrada al Jungfraujoch cuestan de 223.80 Francos Suizos por adulto
 saliendo de Interlaken. Los niños tienen precios especiales (20 Francos Suizos de 6 a 15 
 años y menores de 5 años gratis). Existen unos pases de tren para varios días que 
 incluyen el Jungfraujoch y merecen la pena si se va estar en la zona más de una jornada. 
-Más información en la página oficial del [Jungfraujoch](https://www.jungfrau.ch/en-gb/jungfraujoch-top-of-europe/). 
+Más información en la página oficial del 
+[Jungfraujoch](https://www.jungfrau.ch/en-gb/jungfraujoch-top-of-europe/). 
 
 ## 2\. Pilatus (2.073 msnm) desde Lucerna
 
@@ -137,14 +138,15 @@ mayores de 10 años, los más pequeños pueden ir con un adulto).
 ![](https://fotos.etheriamagazine.com/2018/09/Suiza-bajada-Titlis-camino-e1569136498873.jpg "Sendero que desciende desde el lago Trübsee hasta el teleférico Älplerseil. ©Susana García.")
 
 La subida al Titlis cuesta 72 Francos Suizos, consulta los precios para cada una de las 
-actividades. Más información en la página oficial del [Titlis](https://www.titlis.ch/en). 
+actividades. Más información en la página oficial del 
+[Titlis](https://www.titlis.ch/en). 
 
 ## Guía práctica
 
 Los precios están actualizados en febrero de 2024, se pueden comprobar **en las webs 
-oficiales**. Merece la pena consultar los descuentos que se puedan aplican por tener la [Swiss 
-Travel Pass](https://www.swiss-pass.ch/es/) (bono de trenes) u otras tarjetas turísticas 
-o de transporte. Los niños tienen precios reducidos. 
+oficiales**. Merece la pena consultar los descuentos que se puedan aplican por tener la 
+[Swiss Travel Pass](https://www.swiss-pass.ch/es/) (bono de trenes) u otras tarjetas 
+turísticas o de transporte. Los niños tienen precios reducidos. 
 
 Conviene **empezar el día temprano** para aprovechar bien el tiempo y para evitar las 
 aglomeraciones de turistas en las cimas (sobre todo si se va en verano). 
@@ -168,11 +170,8 @@ altitud.
 
 **También te puede interesar:** 
 
-[Viaje con niños a Engelberg, el corazón de 
-Suiza](https://etheriamagazine.com/2019/04/30/viaje-en-familia-que-hacer-engelberg-suiza/) 
+{{< reflink path=posts/2019/04/viaje-en-familia-que-hacer-engelberg-suiza >}} 
 
-[Suiza en coche eléctrico, una aventura ecológica (y más 
-económica)](https://etheriamagazine.com/2021/02/10/ruta-en-coche-electrico-por-suiza/) 
+{{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}} 
 
-[Descubre la mejor forma de recorrer y saborear 
-Suiza](https://etheriamagazine.com/2021/05/10/guia-gastronomica-suiza-y-rutas-en-tren/)
+{{< reflink path=posts/2021/05/guia-gastronomica-suiza-y-rutas-en-tren >}}

@@ -1,7 +1,7 @@
 ---
 title: "Una maleta para... Costa Rica"
 date: 2018-05-28
-coverImage: https://fotos.etheriamagazine.com/2018/05/costa-rica-maleta-puente-colgante.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/costa-rica-maleta-puente-colgante.jpg
 categories: 
   - qué-llevar-en-la-maleta
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Susana García
 ---
 
-Cuando empiezas a planificar la maleta antes de viajar a Costa Rica seguro que te surgen 
-dudas. Aquí te damos algunas claves de aquello que no puede faltarte y de lo que no vas 
-a usar en ningún caso para que no cargues en exceso la maleta. 
+**Cuando empiezas a planificar la maleta antes de viajar a Costa Rica seguro que te 
+surgen dudas. Aquí te damos algunas claves de aquello que no puede faltarte y de lo que 
+no vas a usar en ningún caso para que no cargues en exceso la maleta.** 
 
 ![Puente colgante en Costa Rica.](https://fotos.etheriamagazine.com/2018/05/costa-rica-maleta-puente-colgante.jpg "Puente colgante en Costa Rica.")
 
@@ -58,10 +58,10 @@ Volcán Arenal será imprescindible para disfrutar de sus aguas termales.
 
 Para el calzado se pueden llevar unas botas de treking o unas deportivas que sean 
 sufridas, aunque el mejor calzado que he encontrado para este tipo de viajes en la 
-naturaleza son las sandalias de senderismo (como éstas disponibles en [Amazon](https://amzn.to/3djlIfv)), 
-con la puntera reforzada y aberturas laterales que se pueden poner con o sin calcetines 
-y que si se mojan secan rápido. También conviene llevar un forro polar fino, por si 
-refresca en algún momento. 
+naturaleza son las sandalias de senderismo (como éstas disponibles en 
+[Amazon](https://amzn.to/3djlIfv)), con la puntera reforzada y aberturas laterales que 
+se pueden poner con o sin calcetines y que si se mojan secan rápido. También conviene 
+llevar un forro polar fino, por si refresca en algún momento. 
 
 ## Complementos importantes
 
@@ -84,14 +84,10 @@ oscura, imprescindible para realizar la excursión nocturna.
 
 ### También te puede interesar de Costa Rica
 
-[Descubre la esencia de la Península de Nicoya, tierra de artesanas, surf y 
-yoga.](https://etheriamagazine.com/2022/07/15/que-ver-peninsula-nicoya-costa-rica/) 
+{{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}} 
 
-[Viaje con niños a Costa Rica: aventura en la 
-naturaleza](https://etheriamagazine.com/2018/07/05/viaje-costa-rica-con-ninos-que-hacer-en-familia/) 
+{{< reflink path=posts/2021/04/viaje-costa-rica-con-ninos-que-hacer-en-familia >}} 
 
-[Consejos para un viaje a Costa Rica con 
-niños](https://etheriamagazine.com/2018/05/04/consejos-viaje-costa-rica-con-ninos-familias/) 
+{{< reflink path=posts/2018/05/consejos-viaje-costa-rica-con-ninos-familias >}} 
 
-[Hotel Nayara Springs, lujo natural en Costa 
-Rica](https://etheriamagazine.com/2018/05/04/hotelnayaraspringsvolcanarenalcostarica/)
+{{< reflink path=posts/2021/05/hotel-nayara-springs-costa-rica >}}

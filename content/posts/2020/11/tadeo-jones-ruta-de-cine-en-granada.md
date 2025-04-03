@@ -1,7 +1,7 @@
 ---
 title: "Tadeo Jones en Granada, un viaje de cine en familia"
 date: 2020-11-22
-coverImage: https://fotos.etheriamagazine.com/2020/11/tadeo-jones-panoramica-alhambra.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/tadeo-jones-panoramica-alhambra.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -29,12 +29,12 @@ animados.
 
 ## Mirador de San Nicolás
 
-Es una de las visitas obligadas de [Granada](https://etheriamagazine.com/2020/05/29/48-horas-en-el-albayzin-y-la-alhambra/), 
-sobre todo para contemplar al atardecer la Alhambra, con el Pico Veleta y Sierra Nevada 
-al fondo. Desde este lugar se puede admirar la majestuosidad de la fortaleza roja y 
-realizar una de las panorámicas más afamadas del Albaicín. Además de las vistas, esta 
-plaza pública es un espacio multicultural y multiétnico que siempre está muy animada y 
-concurrida. 
+Es una de las visitas obligadas de {{< reflink 
+path=posts/2020/05/48-horas-en-el-albayzin-y-la-alhambra >}}, sobre todo para contemplar 
+al atardecer la Alhambra, con el Pico Veleta y Sierra Nevada al fondo. Desde este lugar 
+se puede admirar la majestuosidad de la fortaleza roja y realizar una de las panorámicas 
+más afamadas del Albaicín. Además de las vistas, esta plaza pública es un espacio 
+multicultural y multiétnico que siempre está muy animada y concurrida. 
 
 ![tadeo jones en plaza nueva granada](https://fotos.etheriamagazine.com/2020/11/tadeo-jones-tuk-tuk-en-la-Plaza-Nueva.jpg "En tuk tuk en la Plaza Nueva. © Paramount Pictures Spain")
 
@@ -80,7 +80,8 @@ Darro.
 
 Esta es otra de las localizaciones granadinas donde se desarrolla la trama central de 
 esta película de animación. Aquí finaliza el vertiginoso trayecto en tuk tuk de Tadeo y 
-sus amigos, a los que vemos abandonar el vehículo y encaminarse hacia la [Alhambra](https://www.alhambra.org/?gclid=CjwKCAjwlID8BRAFEiwAnUoK1YvzhbWS0zIt7KWS-TUHW7OUiin1szWbPIfN8nvqLx6vWC8OTmDMHhoCo9QQAvD_BwE). 
+sus amigos, a los que vemos abandonar el vehículo y encaminarse hacia la 
+[Alhambra](https://www.alhambra.org/?gclid=CjwKCAjwlID8BRAFEiwAnUoK1YvzhbWS0zIt7KWS-TUHW7OUiin1szWbPIfN8nvqLx6vWC8OTmDMHhoCo9QQAvD_BwE). 
 
 ![jardines del partal en la alhambra tadeo jones](https://fotos.etheriamagazine.com/2020/11/tadeo-jones-La-Alhambra.jpg "Jardines del Partal, en La Alhambra. © Paramount Pictures Spain")
 
@@ -112,11 +113,10 @@ emblemáticos y fotografiados del recinto monumental.
 
 No solo la capital nazarí es protagonista en la cinta. El arqueólogo y sus amigos nos 
 enseñan otros lugares de la provincia granadina como el **puerto de Motril**, donde toda 
-la pandilla se embarca [rumbo a la 
-Capadocia](https://etheriamagazine.com/2019/02/26/revista-viajes-que-ver-capadocia/) 
-(Turquía), para seguir buscando las piezas del collar del rey Midas. La recreación de 
-esa localidad es un poco subjetiva, ya que incluye una representación del **castillo de 
-Salobreña**. 
+la pandilla se embarca {{< reflink path=posts/2019/02/revista-viajes-que-ver-capadocia 
+>}} (Turquía), para seguir buscando las piezas del collar del rey Midas. La recreación 
+de esa localidad es un poco subjetiva, ya que incluye una representación del **castillo 
+de Salobreña**. 
 
 ![puerto de motril en pelicula tadeo jones](https://fotos.etheriamagazine.com/2020/11/Puerto-de-motril-tadeo-jones.jpg "Puerto de Motril en 'Tadeo Jones'. © Paramount Pictures Spain")
 
@@ -128,8 +128,6 @@ cine](http://www.granadatur.com/rutas-tematicas/17-granada-de-cine). Se trata de
 paseo por los lugares más cinematográficos de Granada para revivir toda la magia del 
 séptimo arte**.** 
 
-[Ruta por la Granada de Federico García 
-Lorca](https://etheriamagazine.com/2020/10/07/ruta-cultural-granada-de-garcia-lorca/). 
+{{< reflink path=posts/2020/10/ruta-cultural-granada-de-garcia-lorca >}}. 
 
-[Ruta gastronómica por 
-Granada](https://etheriamagazine.com/2020/10/30/restaurantes-bares-de-granada-y-visitas-para-mujeres/).
+{{< reflink path=posts/2020/10/restaurantes-bares-de-granada-y-visitas-para-mujeres >}}.

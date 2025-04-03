@@ -1,7 +1,7 @@
 ---
 title: "Terrazas y restaurantes de Castilla-La Mancha donde cenar al fresco"
 date: 2020-07-16
-coverImage: https://fotos.etheriamagazine.com/2020/07/terraza-verano-Adolfo-Cigarral-Santa-Maria.jpg
+cover: https://fotos.etheriamagazine.com/2020/07/terraza-verano-Adolfo-Cigarral-Santa-Maria.jpg
 categories: 
   - gourmet
 destino: 
@@ -70,12 +70,10 @@ histórico, cuya terraza ofrece vistas tanto del río Tajo como de la capital.
 
 ## Terrazas en Guadalajara
 
-La provincia de Guadalajara, cada vez mejor posicionada a nivel turístico con sus [campos 
-de lavanda en 
-Brihuega](https://etheriamagazine.com/2020/06/08/floracion-campos-lavanda-brihuega-guadalajara-2019/) 
-y su [Ruta de los Pueblos 
-Negros](https://etheriamagazine.com/2019/05/06/viaje-en-coche-pueblos-negros-guadalajara/), 
-también dispone de buenos referentes para cenar al aire libre en periodo estival. 
+La provincia de Guadalajara, cada vez mejor posicionada a nivel turístico con sus {{< 
+reflink path=posts/2020/06/floracion-campos-lavanda-brihuega-guadalajara-2019 >}} y su 
+{{< reflink path=posts/2019/05/ruta-en-coche-pueblos-negros-guadalajara >}}, también 
+dispone de buenos referentes para cenar al aire libre en periodo estival. 
 
 Uno de estos rincones especiales es el **restaurante Abuela Maravillas**, a orillas del 
 Tajo, en Zorita de los Canes. En su terraza lo más demandado es la cocina casera y el 
@@ -89,10 +87,10 @@ preciosa ciudad de Sigüenza, que este año ha estrenado **Nöla, su nueva terra
 ## Molinos y terrazas en Ciudad Real
 
 Ya sabéis que en Etheria Magazine somos muy fans de Campo de Criptana, así que os 
-tenemos que recomendar que os deis una vuelta por allí para buscar [las raíces de Sara 
-Montiel](https://etheriamagazine.com/2019/04/08/ruta-sara-montiel-campo-de-criptana/), y 
-de paso conocer el **restaurante Las Musas**. Este espacio ofrece una terraza con vistas 
-a los molinos de viento y una suculenta propuesta gastronómica manchega. 
+tenemos que recomendar que os deis una vuelta por allí para buscar {{< reflink 
+path=posts/2019/04/ruta-sara-montiel-campo-de-criptana >}}, y de paso conocer el 
+**restaurante Las Musas**. Este espacio ofrece una terraza con vistas a los molinos de 
+viento y una suculenta propuesta gastronómica manchega. 
 
 Los amantes de la pizza pueden desplazarse a la capital provincial para conocer la 
 reconocida **pizzería Marquinetti** que, por supuesto, también dispone de una amplia 
@@ -110,11 +108,10 @@ capital; y el **Figón del Huécar**, desde cuya terraza se puede ver la ciudad.
 
 ## También te puede interesar:
 
-[Ruta del Quijote, en familia por La 
-Mancha](https://etheriamagazine.com/2021/01/29/ruta-del-quijote-en-familia-por-la-mancha/) 
+{{< reflink path=posts/2021/01/ruta-del-quijote-en-familia-por-la-mancha >}} 
 
-[Viaje en coche por la Ruta del Vino de La 
-Mancha](https://etheriamagazine.com/2019/03/20/ruta-del-vino-de-la-mancha/) 
+{{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha >}} 
 
-[Ruta del lechazo: los mejores asadores de Castilla y 
-León](https://etheriamagazine.com/2019/04/25/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon/)
+{{< reflink 
+path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
+>}}

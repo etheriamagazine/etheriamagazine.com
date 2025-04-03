@@ -1,7 +1,7 @@
 ---
 title: "Centro Cultural Flamenco de Madrid, mucho más que un tablao"
 date: 2024-12-08
-coverImage: https://fotos.etheriamagazine.com/2024/12/portada-flamenco.jpg
+cover: https://fotos.etheriamagazine.com/2024/12/portada-flamenco.jpg
 categories: 
   - ocio
 destino: 
@@ -119,8 +119,6 @@ Más información en [flamencocultural.com](https://flamencocultural.com/)
 
 **También en Etheria Magazine** 
 
-[La ruta de Lola Flores en Madrid a tu aire (con plano 
-incluido)](https://etheriamagazine.com/2024/04/11/ruta-lola-flores-en-madrid/). 
+{{< reflink path=posts/2024/04/ruta-lola-flores-en-madrid >}}. 
 
-[10 exposiciones en Madrid para ver en otoño de 
-2024](https://etheriamagazine.com/2024/10/23/exposiciones-en-madrid-otono-de-2024/).
+{{< reflink path=posts/2024/10/exposiciones-en-madrid-otono-de-2024 >}}.

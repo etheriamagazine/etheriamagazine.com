@@ -1,7 +1,7 @@
 ---
 title: "Descubre las 3 visitas esenciales en Guatemala que aconseja Sania Jelic"
 date: 2023-05-31
-coverImage: https://fotos.etheriamagazine.com/2023/05/sania-guatemala-lago-atitlan-puerto.jpg
+cover: https://fotos.etheriamagazine.com/2023/05/sania-guatemala-lago-atitlan-puerto.jpg
 categories: 
   - viajar-sola
   - historias
@@ -11,11 +11,11 @@ authors:
   - Sania Jelic
 ---
 
-Sania Jelic prosigue su viaje por Centroamérica y llega a Guatemala, donde descubre el 
+**Sania Jelic prosigue su viaje por Centroamérica y llega a Guatemala, donde descubre el 
 vibrante colorido de Antigua y Chichicastenango. También se acerca al lago Atitlán, un 
 lugar único en el mundo rodeado de pueblos pintorescos y con una interesante cultura. 
 Sigue leyendo para descubrir todos los detalles y consejos de esta gran mujer que viaja 
-sola tras la jubilación. 
+sola tras la jubilación.** 
 
 ![Sania en tuk-tuk en San Juan de la Laguna, en el lago Atitlán](https://fotos.etheriamagazine.com/2023/05/sania-guatemala-tuk-tuk.jpg "Sania en tuk-tuk en San Juan de la Laguna, en el lago Atitlán. © Sania Jelic")
 
@@ -237,15 +237,13 @@ Más información en [INGUAT](https://inguat.gob.gt/).
 
 📌 **También te puede interesar:** 
 
-[](https://etheriamagazine.com/2021/02/20/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala/)[Viajar 
-sola al lago Atitlán, una aventura fascinante en busca de las raíces 
-mayas](https://etheriamagazine.com/2021/02/20/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala/). 
+{{< reflink path=posts/2021/02/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala 
+>}}{{< reflink path=posts/2021/02/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala 
+>}}. 
 
-[De Cartagena de Indias a la Ciudad Perdida, broche de oro de 
-Sania](https://etheriamagazine.com/2023/05/12/cartagena-trekking-ciudad-perdida/) 
+{{< reflink path=posts/2023/05/cartagena-trekking-ciudad-perdida >}} 
 
-[Bogotá y Medellín, consejos básicos de Sania para 
-visitarlas](https://etheriamagazine.com/2023/05/03/viajar-sola-bogota-medellin/) 
+{{< reflink path=posts/2023/05/viajar-sola-bogota-medellin >}} 
 
-[Inmersión cultural en Ecuador, Sania descubre Cuenca y 
-Quito](https://etheriamagazine.com/2023/04/17/inmersion-cultural-en-ecuador-sania-descubre-cuenca-y-quito/)
+{{< reflink 
+path=posts/2023/04/inmersion-cultural-en-ecuador-sania-descubre-cuenca-y-quito >}}

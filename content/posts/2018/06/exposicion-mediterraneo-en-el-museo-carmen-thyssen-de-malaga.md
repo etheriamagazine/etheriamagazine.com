@@ -1,7 +1,7 @@
 ---
 title: "Exposición “Mediterráneo” en el museo Carmen Thyssen de Málaga"
 date: 2018-06-25
-coverImage: https://fotos.etheriamagazine.com/2018/06/Joaquim-Sunyer-expo-Mediterraneo.jpg
+cover: https://fotos.etheriamagazine.com/2018/06/Joaquim-Sunyer-expo-Mediterraneo.jpg
 categories: 
   - cultura
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Susana García
 ---
 
-Málaga es una ciudad con muchos alicientes para un viaje. Además del ambiente diurno y 
+**Málaga es una ciudad con muchos alicientes para un viaje. Además del ambiente diurno y 
 nocturno, su bonito centro histórico y las playas, se une su activa vida cultural, de la 
-que el museo Carmen Thyssen es un miembro destacado. 
+que el museo Carmen Thyssen es un miembro destacado.** 
 
 ![Exposicion Carmen Thyssen Malaga](https://fotos.etheriamagazine.com/2018/06/Joaquim-Sunyer-expo-Mediterraneo.jpg "Joaquim Sunyer, Mediterráneo, c. 1910-1911. Óleo sobre lienzo. Colección Carmen Thyssen-Bornemisza © Joaquim Sunyer, VEGAP, Málaga, 2018.")
 

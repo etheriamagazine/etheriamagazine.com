@@ -1,7 +1,7 @@
 ---
 title: "5 grandes viajes a África con los que soñar"
 date: 2019-08-09
-coverImage: https://fotos.etheriamagazine.com/2018/11/Bostsuana-viaje-fauna-africa-e1552208227696.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/Bostsuana-viaje-fauna-africa-e1552208227696.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-Si hay un continente que despierte los deseos viajeros más profundos, los que evocan 
+**Si hay un continente que despierte los deseos viajeros más profundos, los que evocan 
 expediciones y la búsqueda de un auténtico espíritu nómada ese es África. Aquí te 
 dejamos cinco propuestas de viajes a África para distintos tipos de viajera o para 
-distintos momentos de la vida. Tú eliges. 
+distintos momentos de la vida. Tú eliges.** 
 
 ![Flamencos en lago Nakuru (Kenia)](https://fotos.etheriamagazine.com/2018/10/flamencos-lago-nakuru-viajes-mujeres.jpg "Flamencos en lago Nakuru (Kenia).")
 
@@ -37,7 +37,8 @@ mayor población de rinocerontes del mundo.
 
 ## 2\. Viajar a Uganda para ver a los gorilas
 
-Los viajes a [Uganda](http://etheriamagazine.com/2019/04/18/viajar-sola-naturaleza-gorilas-uganda/) 
+Los viajes a 
+[Uganda](http://etheriamagazine.com/2019/04/18/viajar-sola-naturaleza-gorilas-uganda/) 
 para ver gorilas en libertad conservan ese halo de expedición y aventura que es tan 
 difícil de encontrar hoy en día. Todo es emocionante en este viaje, desde la preparación 
 y los consejos del ranger hasta el camino, primero en 4x4 y luego caminando hasta llegar 
@@ -48,7 +49,8 @@ podrás olvidar jamás.
 
 ## 3\. Descansar en Zanzíbar
 
-La isla de [Zanzíbar](http://etheriamagazine.com/2018/11/30/mujeres-que-viajan-a-zanzibar-que-ver-en-tanzania/) 
+La isla de 
+[Zanzíbar](http://etheriamagazine.com/2018/11/30/mujeres-que-viajan-a-zanzibar-que-ver-en-tanzania/) 
 es, probablemente, uno de los lugares más exóticos del mundo. Además, está llena de 
 historias y leyendas de mercaderes y sultanes que confieren a este rincón del océano 
 Índico un carácter especial. No te pierdas los rincones llenos de encanto que ofrece 
@@ -70,7 +72,8 @@ Nacional del río Chobe con tres modalidades de safari: en vehículo, a pie y po
 ## 5\. Gambia para aventureras
 
 Si eres de las que ya has viajado varias veces al continente africano y buscas algo 
-diferente, [Gambia](http://etheriamagazine.com/2018/11/07/gambia-un-destino-seguro-para-viajeras-aventureras/) 
+diferente, 
+[Gambia](http://etheriamagazine.com/2018/11/07/gambia-un-destino-seguro-para-viajeras-aventureras/) 
 te sorprenderá. Destacan sus inmensas playas que hacen de él un destino perfecto para 
 descansar y desconectar de todo. Si quieres moverte por el país es totalmente seguro y 
 ofrece lugares como la laguna de cocodrilos de Kachikally, las ruinas de Fort James o el 
@@ -81,11 +84,9 @@ sorprender por su gastronomía!
 
 📌 **También te puede interesar:** 
 
-[El desierto costero de Sudáfrica florece en 
-verano](https://etheriamagazine.com/2023/07/12/ruta-costera-sudafrica/) 
+{{< reflink path=posts/2023/07/ruta-costera-sudafrica >}} 
 
-[Viajar sola a Namibia, una ruta en coche para descubrir su sorprendente 
-naturaleza](https://etheriamagazine.com/2023/06/21/viajar-sola-a-namibia/) 
+{{< reflink path=posts/2023/06/viajar-sola-a-namibia >}} 
 
-[‘Memorias de África’ más allá de Robert Redford y Meryl 
-Streep](https://etheriamagazine.com/2020/10/12/final-real-memorias-de-africa-baronesa-blixen-beryl-markham/)
+{{< reflink 
+path=posts/2020/10/final-real-memorias-de-africa-baronesa-blixen-beryl-markham >}}

@@ -1,7 +1,7 @@
 ---
 title: "Iberostar Grand Perast de Montenegro, tres motivos para dormir en este hotel"
 date: 2018-08-29
-coverImage: https://fotos.etheriamagazine.com/2018/08/iberostar-perast-montenegro-hotel.jpg
+cover: https://fotos.etheriamagazine.com/2018/08/iberostar-perast-montenegro-hotel.jpg
 categories: 
   - hoteles
 destino: 
@@ -95,11 +95,9 @@ Fotos: © Iberostar Hotels.
 
 ### También te puede interesar...
 
-[10 razones para visitar en otoño el P.N.Lagos de Plitvice 
-(Croacia)](https://etheriamagazine.com/2018/10/05/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia/). 
+{{< reflink path=posts/2018/10/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia 
+>}}. 
 
-[48 horas en… Zagreb, la animada capital de 
-Croacia](https://etheriamagazine.com/2020/04/24/que-ver-hacer-en-2-3-dias-zagreb-croacia/). 
+{{< reflink path=posts/2020/04/que-ver-hacer-en-2-3-dias-zagreb-croacia >}}. 
 
-[8 razones justificadas para visitar Sibenik 
-(Croacia)](https://etheriamagazine.com/2020/08/13/que-ver-hacer-sibenik-parque-krka/).
+{{< reflink path=posts/2020/08/que-ver-hacer-sibenik-parque-krka >}}.

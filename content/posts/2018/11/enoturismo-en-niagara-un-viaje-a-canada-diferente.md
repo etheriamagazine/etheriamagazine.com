@@ -1,7 +1,7 @@
 ---
 title: "Enoturismo en Niágara, un viaje diferente a Canadá"
 date: 2018-11-20
-coverImage: https://fotos.etheriamagazine.com/2018/11/icewinebar-Wineries-of-Niagara-on-the-Lake.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/icewinebar-Wineries-of-Niagara-on-the-Lake.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Eva Madruga
 ---
 
-A la península del Niágara llegan cada año más de catorce millones de viajeros para 
+**A la península del Niágara llegan cada año más de catorce millones de viajeros para 
 contemplar sus famosas cataratas. Una vez visto este espectáculo natural merece la pena 
 aprovechar el viaje para descubrir también su sobresaliente turismo enológico. Te 
-revelamos algunas de las sorpresas vinícolas que podrás encontrar en Canadá. 
+revelamos algunas de las sorpresas vinícolas que podrás encontrar en Canadá.** 
 
 ![enoturismo en canada, viajes a canada, vinos en niagara](https://fotos.etheriamagazine.com/2018/11/viaje-mujeres-vinos-canada-niagara-2.jpg "Canadá es un destino de moda para amantes de la gastronomía y el vino. ©Wineries of Niagara-on-the-Lake.")
 
@@ -139,7 +139,8 @@ calidad, con productos de temporada, maridada con excelentes vinos.
 
 ### CONSEJOS ETHERIA
 
-Para saber más sobre los vinos de la provincia canadiense de Ontario visitad [www.winecountryontario.ca](http://www.winecountryontario.ca) 
+Para saber más sobre los vinos de la provincia canadiense de Ontario visitad 
+[www.winecountryontario.ca](http://www.winecountryontario.ca) 
 
 Toda la información sobre el enoturismo en Canadá y las bodegas de la zona de 
 Niagara-on-the-Lake en wineriesofniagaraonthelake.com 
@@ -149,8 +150,7 @@ www.niagaraicewinefestival.com
 
 ### También te puede interesar:
 
-[California Dreams. Un road trip vinícola en Estados 
-Unidos](https://etheriamagazine.com/2020/01/06/ruta-enoturismo-con-amigas-california-napa-valley-sonoma/) 
+{{< reflink path=posts/2020/01/ruta-enoturismo-con-amigas-california-napa-valley-sonoma 
+>}} 
 
-[32 excursiones de un día donde la cultura y el vino se dan la 
-mano](https://etheriamagazine.com/2021/04/13/32-excursiones-de-un-dia-en-rutas-vino-espana/)
+{{< reflink path=posts/2021/04/32-excursiones-de-un-dia-en-rutas-vino-espana >}}

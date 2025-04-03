@@ -1,7 +1,7 @@
 ---
 title: "Planes en Soria con niños para desconectar en plena naturaleza"
 date: 2021-02-24
-coverImage: https://fotos.etheriamagazine.com/2021/02/planes-ninos-en-soria.jpg
+cover: https://fotos.etheriamagazine.com/2021/02/planes-ninos-en-soria.jpg
 categories: 
   - viajar-en-familia
   - ocio
@@ -93,11 +93,12 @@ para comer o para alojarse en alguna de sus bonitas casas rurales.
 
 ## 4\. Parque acrobático forestal en Vinuesa
 
-Si el paseo por la laguna Negra no ha sido suficiente, puedes acercarte a [VinuesAventura](https://www.vinuesaventura.com/), 
-un parque con cinco circuitos en los árboles de distinto nivel de dificultad. Pequeños y 
-mayores disfrutarán aquí de hasta 85 actividades como puentes tibetanos, un circuito de 
-tirolinas de 800 metros, saltos al vacío, etc. Y siempre atendidos por monitores 
-especializados que se encargan de que nadie corra ningún riesgo. 
+Si el paseo por la laguna Negra no ha sido suficiente, puedes acercarte a 
+[VinuesAventura](https://www.vinuesaventura.com/), un parque con cinco circuitos en los 
+árboles de distinto nivel de dificultad. Pequeños y mayores disfrutarán aquí de hasta 85 
+actividades como puentes tibetanos, un circuito de tirolinas de 800 metros, saltos al 
+vacío, etc. Y siempre atendidos por monitores especializados que se encargan de que 
+nadie corra ningún riesgo. 
 
 Está abierto todo el año, siempre que la climatología lo permita, pero es conveniente 
 reservar previamente. 
@@ -115,11 +116,12 @@ galerías que querían explorar. Para hacer la ruta tienes que dirigirte al pueb
 Muriel de la Fuente y dejar el coche en el aparcamiento más cercano ([Google 
 maps](https://www.google.es/maps/place/Parking+1+de+La+Fuentona/@41.7305634,-2.8646888,15.43z/data=!4m12!1m6!3m5!1s0xd44e5fb4919c8df:0x4ae42a44e0da8b74!2sLa+Fuentona+de+Cabrejas+del+Pinar!8m2!3d41.7345985!4d-2.8637228!3m4!1s0xd44e50493937343:0xd851efbcd1b1bf79!8m2!3d41.7265547!4d-2.8587654)). 
 
-Una vez que hayas hecho la caminata, te recomendamos visitar la bonita villa medieval de [Calatañazor](http://www.calatanazor.es/), 
-a sólo 6 kilómetros. Como se relaciona con la lucha contra los árabes (recuerda el 
-dicho: “En Catalañazor perdió Almanzor el tambor”), encontrarás escudos y espadas de 
-madera por doquier para los niños. Y si te quedas a comer, te recomendamos el [restaurante 
-El Palomar](http://www.elpalomarrestaurante.com/), situado en un antiguo palomar, donde 
+Una vez que hayas hecho la caminata, te recomendamos visitar la bonita villa medieval de 
+[Calatañazor](http://www.calatanazor.es/), a sólo 6 kilómetros. Como se relaciona con la 
+lucha contra los árabes (recuerda el dicho: “En Catalañazor perdió Almanzor el tambor”), 
+encontrarás escudos y espadas de madera por doquier para los niños. Y si te quedas a 
+comer, te recomendamos el [restaurante El 
+Palomar](http://www.elpalomarrestaurante.com/), situado en un antiguo palomar, donde 
 sirven una riquísima comida casera. 
 
 ![Calatañazor, uno de los pueblos más bonitos de Soria.](https://fotos.etheriamagazine.com/2021/02/soria-con-ninos-calatanazor.jpg "Calatañazor, uno de los pueblos más bonitos de Soria. © Etheria Magazine")
@@ -164,9 +166,8 @@ y visitar la Catedral de Nuestra Señora de la Asunción. De recuerdo gastronóm
 picar en el coche, compra los gamusinos de chocolate o de dulce de leche. 
 
 Extra: Cuando quieras hacer una escapada con amigas por Soria, no dejes de consultar 
-este artículo para mujeres urbanitas: ["8 razones para hacer una cura antiestrés con 
-amigas en 
-Soria"](https://etheriamagazine.com/2019/08/12/ocho-razones-para-viajar-a-soria-con-amigas/). 
+este artículo para mujeres urbanitas: {{< reflink 
+path=posts/2019/08/ocho-razones-para-viajar-a-soria-con-amigas >}}. 
 
 ![Castilla Termal Burgo de Osma.](https://fotos.etheriamagazine.com/2021/02/balneario-burgo-osma-en-familia.jpg "© Castilla Termal Burgo de Osma.")
 
@@ -187,9 +188,9 @@ Dehesa](https://www.villaromanaladehesa.es/informaci%C3%B3n-general/folletos/), 
 en Cuevas de Soria ([Google 
 maps](https://www.google.es/maps/place/Villa+Romana+La+Dehesa/@41.6666352,-2.6233716,15.47z/data=!4m12!1m6!3m5!1s0xd44c5f513a12841:0xe986b0863c6aca93!2sVilla+Romana+La+Dehesa!8m2!3d41.6692274!4d-2.6206792!3m4!1s0xd44c5f513a12841:0xe986b0863c6aca93!8m2!3d41.6692274!4d-2.6206792)), 
 que es una maravilla ([calendario 
-2024](https://www.villaromanaladehesa.es/informaci%C3%B3n-general/)). O bien realizar la [ruta 
-de las icnitas](http://www.rutadelasicnitas.com/), en las Tierras Altas de Soria, donde 
-se pueden ver huellas, grandes reproducciones que encantarán a los más pequeños y, 
+2024](https://www.villaromanaladehesa.es/informaci%C3%B3n-general/)). O bien realizar la 
+[ruta de las icnitas](http://www.rutadelasicnitas.com/), en las Tierras Altas de Soria, 
+donde se pueden ver huellas, grandes reproducciones que encantarán a los más pequeños y, 
 también, el Parque Cretácico de Aventuras de San Pedro Manrique. En los anteriores 
 enlaces encontrarás una información más detallada. 
 
@@ -197,17 +198,14 @@ enlaces encontrarás una información más detallada.
 
 **También te puede interesar...** 
 
-[8 excursiones con niños en 
-Alicante](https://etheriamagazine.com/2020/05/28/8-excursiones-con-ninos-en-alicante/). 
+{{< reflink path=posts/2020/05/8-excursiones-con-ninos-en-alicante >}}. 
 
-[12 actividades para hacer con niños en la provincia de 
-Cádiz](https://etheriamagazine.com/2020/03/12/12-actividades-familiares-para-viajes-con-ninos-en-cadiz/) 
+{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
+>}} 
 
-[8 excursiones con niños desde el sur de 
-Tenerife](https://etheriamagazine.com/2020/03/06/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos/). 
+{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
+>}}. 
 
-[Turismo rural con niños en la Serranía Alta de 
-Cuenca.](https://etheriamagazine.com/2019/11/29/turismo-rural-familiar-con-ninos-en-serrania-cuenca/) 
+{{< reflink path=posts/2019/11/turismo-rural-familiar-con-ninos-en-serrania-cuenca >}} 
 
-[Viajar con niños por Europa: consejos para acertar en tu primer 
-viaje](https://etheriamagazine.com/2021/02/02/viajar-con-ninos-por-europa-consejos-y-propuestas/).
+{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}}.

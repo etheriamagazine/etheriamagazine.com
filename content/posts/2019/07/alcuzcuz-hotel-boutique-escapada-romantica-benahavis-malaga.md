@@ -1,7 +1,7 @@
 ---
 title: "Alcuzcuz Hotel Boutique, un oasis secreto en Benahavís (Málaga)"
 date: 2019-07-08
-coverImage: https://fotos.etheriamagazine.com/2019/07/hotel-alcuzcuz-patio.jpg
+cover: https://fotos.etheriamagazine.com/2019/07/hotel-alcuzcuz-patio.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-La animada provincia de Málaga sabe también guardar rincones secretos llenos de paz como 
-el precioso hotel boutique Alcuzcuz, en Benahavís. Un auténtico oasis a un paso de 
+**La animada provincia de Málaga sabe también guardar rincones secretos llenos de paz 
+como el precioso hotel boutique Alcuzcuz, en Benahavís. Un auténtico oasis a un paso de 
 Marbella que nos trae Rusticae para desconectar de todo, perfecto para una escapada 
-romántica. 
+romántica.** 
 
 ![hoteles Rusticae, hoteles con encanto, escapadas románticas, escapadas de fin de semana](https://fotos.etheriamagazine.com/2019/07/Hotel-Alcuzcuz-panoramica.jpg "Vista del Alcuzcuz Hotel Boutique con el mar al fondo.")
 
@@ -78,15 +78,16 @@ playa te prepararán un delicioso picnic.
 ## Alrededores del hotel
 
 El Alcuzcuz Hotel Boutique está situado en el exclusivo pueblo de Benahavís, a sólo seis 
-kilómetros de San Pedro de Alcántara, a dieciocho de [Marbella](https://etheriamagazine.com/2019/06/11/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana/), 
-a cuarenta y cinco de [Ronda](https://etheriamagazine.com/2019/04/16/ronda-escapada-con-amigas/) 
-y a setenta y seis de la ciudad de [Málaga](https://etheriamagazine.com/2018/12/06/viajar-con-amigas-a-malaga/). 
-Además de poder escaparte a estas ciudades para disfrutar de su ambiente y su 
-gastronomía, a su alrededor se extienden infinidad de opciones para el ocio. Desde 
-campos de golf de primer nivel y deportes acuáticos en la costa hasta una jornada 
-disfrutando de la naturaleza en el **Parque Natural Sierra de las Nieves**. Tú eliges si 
-quieres un fin de semana de descaso absoluto en el hotel o prefieres combinarlo con un 
-turismo más activo. 
+kilómetros de San Pedro de Alcántara, a dieciocho de {{< reflink 
+path=posts/2019/06/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana 
+>}}, a cuarenta y cinco de {{< reflink path=posts/2019/04/ronda-escapada-con-amigas >}} 
+y a setenta y seis de la ciudad de {{< reflink 
+path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}}. Además de poder escaparte a 
+estas ciudades para disfrutar de su ambiente y su gastronomía, a su alrededor se 
+extienden infinidad de opciones para el ocio. Desde campos de golf de primer nivel y 
+deportes acuáticos en la costa hasta una jornada disfrutando de la naturaleza en el 
+**Parque Natural Sierra de las Nieves**. Tú eliges si quieres un fin de semana de 
+descaso absoluto en el hotel o prefieres combinarlo con un turismo más activo. 
 
 ![hoteles Rusticae, hoteles con encanto, escapadas románticas, escapadas de fin de semana](https://fotos.etheriamagazine.com/2019/07/hotel-alcuzcuz-patio.jpg "Patio interior del hotel.")
 

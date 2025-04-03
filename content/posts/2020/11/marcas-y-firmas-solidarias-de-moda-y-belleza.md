@@ -1,7 +1,7 @@
 ---
 title: "Firmas solidarias de moda y belleza en las que tus compras también suman"
 date: 2020-11-21
-coverImage: https://fotos.etheriamagazine.com/2020/11/moda-solidaria-makai.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/moda-solidaria-makai.jpg
 categories: 
   - compras
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Rebeca Ávila
 ---
 
-Varias firmas de moda y belleza muestran su cara más solidaria y comprometida durante 
+**Varias firmas de moda y belleza muestran su cara más solidaria y comprometida durante 
 estos tiempos difíciles. Algunas ayudan a niños y ancianos, otras al medioambiente o a 
 la investigación del cáncer de mama. Te contamos ocho iniciativas con las que tus 
-compras contribuyen a crear un mundo mejor. 
+compras contribuyen a crear un mundo mejor.** 
 
 ![makai empresa solidaria](https://fotos.etheriamagazine.com/2020/11/moda-solidaria-makai.jpg "© Makai, compras de moda solidarias.")
 
@@ -180,8 +180,6 @@ y contribuye a hacer un mundo mejor.
 
 #### También te puede interesar...
 
-[Recetas creativas para aprovechar la comida en los 
-hoteles](https://etheriamagazine.com/2020/11/02/recetas-para-aprovechar-restos-comida/). 
+{{< reflink path=posts/2020/11/recetas-para-aprovechar-restos-comida >}}. 
 
-[10 imprescindibles cuando te vas de 
-pícnic](https://etheriamagazine.com/2020/09/03/que-llevar-picnic-en-el-campo/).
+{{< reflink path=posts/2020/09/que-llevar-picnic-en-el-campo >}}.

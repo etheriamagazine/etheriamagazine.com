@@ -1,7 +1,7 @@
 ---
 title: "Tres mujeres polacas que han hecho del mundo un lugar mejor"
 date: 2023-03-08
-coverImage: https://fotos.etheriamagazine.com/2023/03/mujer-polaca-wislawa-szymborska.jpg
+cover: https://fotos.etheriamagazine.com/2023/03/mujer-polaca-wislawa-szymborska.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -101,8 +101,8 @@ por las difamaciones y calumnias en relación a mi vida privada. El premio me ha
 concedido por el descubrimiento del radio y del polonio”, concluía Madame Curie en su 
 epístola. 
 
-**No te pierdas:** [Tres rutas para recorrer Varsovia, una ciudad 
-sorprendente](https://etheriamagazine.com/2021/03/05/que-ver-en-varsovia-en-tres-rutas-originales/) 
+**No te pierdas:** {{< reflink 
+path=posts/2021/03/que-ver-en-varsovia-en-tres-rutas-originales >}} 
 
 ![Fotografía en blanco y negro de la poeta polaca Wislawa Szymborska](https://fotos.etheriamagazine.com/2023/03/mujer-polaca-wislawa-szymborska.jpg "© Fundación Wislawa Szymborska")
 
@@ -116,15 +116,15 @@ era amiga de entrevistas ni actos sociales que no estuvieran relacionados con la
 Literatura. 
 
 Al igual que Madame Curie sentía una especial adoración por el pueblo montañés de 
-**Zakopane**. En este lugar se encontraba –exactamente en la casa [Astoria](https://astoria-willa-literatow.zakopanehotels.org/es/), 
-donde se solían reunir los escritores– cuando le comunicaron en 1996 desde Estocolmo que 
-había ganado el **Premio Nobel de Literatura**. Los motivos que señalaban fueron: “Por 
-la precisión irónica con la que ha iluminado fragmentos de la realidad humana en su 
-contexto histórico e ideológico”. El premio le fue entregado por el rey Gustavo de 
-Suecia. 
+**Zakopane**. En este lugar se encontraba –exactamente en la casa 
+[Astoria](https://astoria-willa-literatow.zakopanehotels.org/es/), donde se solían 
+reunir los escritores– cuando le comunicaron en 1996 desde Estocolmo que había ganado el 
+**Premio Nobel de Literatura**. Los motivos que señalaban fueron: “Por la precisión 
+irónica con la que ha iluminado fragmentos de la realidad humana en su contexto 
+histórico e ideológico”. El premio le fue entregado por el rey Gustavo de Suecia. 
 
-**No te pierdas:** [Zakopane, su arquitectura de madera, sabores y estaciones de 
-esquí](https://etheriamagazine.com/2021/01/27/que-ver-en-zakopane-viaje-original-polonia/). 
+**No te pierdas:** {{< reflink 
+path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}}. 
 
 ![arquitectura en Zakopane](https://fotos.etheriamagazine.com/2021/01/Zakopane-estilo-Witkiewicz.jpg "Casa estilo Witkiewicz. © Manena Munar")
 
@@ -196,8 +196,8 @@ de audio. Si en un principio la escritora se unió a la exaltación estalinista,
 dio cuenta de todo, devolvió el carné al Partido. Y escribió el poema _Llamada al Yeti_, 
 un velado ataque a un embozado Stalin. 
 
-**No te pierdas:** [Visitas esenciales para enamorarse de Cracovia en dos 
-días](https://etheriamagazine.com/2018/07/23/viaje-fin-de-semana-con-amigas-en-cracovia/). 
+**No te pierdas:** {{< reflink 
+path=posts/2018/07/viaje-fin-de-semana-con-amigas-en-cracovia >}}. 
 
 ### La plenitud literaria
 

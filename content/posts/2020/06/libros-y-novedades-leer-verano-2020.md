@@ -1,7 +1,7 @@
 ---
 title: "¿Buscas un libro para leer o regalar este verano?"
 date: 2020-06-18
-coverImage: https://fotos.etheriamagazine.com/2020/06/libros-verano-2020.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/libros-verano-2020.jpg
 categories: 
   - cultura
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-Solemos aprovechar los momentos libres durante las vacaciones para ponernos al día en 
+**Solemos aprovechar los momentos libres durante las vacaciones para ponernos al día en 
 las novedades literarias o para ampliar nuestro conocimiento en alguna materia. En este 
 artículo hemos realizado una selección con un poco de todo, desde los últimos premiados 
 en algunos certámenes, a novedades, novelas gráficas o consejos de fotografía. ¿Con 
-cuántos te quedas? 
+cuántos te quedas?** 
 
 ![libros verano 2020, novedades literarias 2020](https://fotos.etheriamagazine.com/2020/06/libros-verano-2020.jpg "Lecturas de verano para divertirse o aprender en vacaciones. © Dan Dumitriu")
 
@@ -112,9 +112,9 @@ algunos baños en la piscina, merece la pena dejarse llevar por su frenética pr
 esta ocasión, el libro de la autora vasca se desarrolla en la Ribeira Sacra, y hay un 
 cadáver, una familia poderosa e, incluso, un sacerdote... Además, para quien no quiera 
 cargar con mucho peso, existe una edición de bolsillo. Si aún no habéis leído la 
-_Trilogía de Baztán_, es otra opción a considerar, como os comentábamos en este [artículo 
-de Rutas 
-Literarias](https://etheriamagazine.com/2020/04/09/viaja-a-traves-de-los-libros-con-estas-10-rutas-literarias/). 
+_Trilogía de Baztán_, es otra opción a considerar, como os comentábamos en este {{< 
+reflink path=posts/2020/04/viaja-a-traves-de-los-libros-con-estas-10-rutas-literarias 
+>}}. 
 
 ![libros de dolores redondo, todo esto te dare, libros verano 2020](https://fotos.etheriamagazine.com/2020/06/todo-esto-te-dare.jpg "'Todo esto te daré'.")
 
@@ -130,12 +130,10 @@ recomendaciones técnicas y de composición para mejorar nuestras imágenes.
 ## 10. 'Wabi Sabi, un mes en Japón'.
 
 No es una novela gráfica ni una guía de viajes al uso pero aúna ambas cosas: tiene 
-bonitas ilustraciones y ofrece información útil para viajar. Si tienes en mente un [viaje 
-a Japón tenemos un artículo con recomendaciones para 
-prepararlo](https://etheriamagazine.com/2019/06/18/como-organizar-un-viaje-a-japon/) 
-pero si quieres un acercamiento a la cultura japonesa desde la playa, este libro de 
-Amaia Arrazola te va a venir muy bien. Además, es una lectura adecuada para todas las 
-edades. 
+bonitas ilustraciones y ofrece información útil para viajar. Si tienes en mente un {{< 
+reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}} pero si quieres un 
+acercamiento a la cultura japonesa desde la playa, este libro de Amaia Arrazola te va a 
+venir muy bien. Además, es una lectura adecuada para todas las edades. 
 
 Es de Lunwerg Editore. 
 

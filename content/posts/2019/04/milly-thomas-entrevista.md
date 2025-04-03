@@ -1,7 +1,7 @@
 ---
 title: "Milly Thomas: \"Corren tiempos en los que es difícil ser un ser humano\""
 date: 2019-04-22
-coverImage: https://fotos.etheriamagazine.com/2019/04/milly-thomas-dust.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/milly-thomas-dust.jpg
 categories: 
   - mujeres-top
 destino: 

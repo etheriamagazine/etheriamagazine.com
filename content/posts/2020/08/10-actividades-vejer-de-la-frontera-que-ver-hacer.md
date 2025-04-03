@@ -1,7 +1,7 @@
 ---
 title: "10 actividades para enamorarte de Vejer de la Frontera"
 date: 2020-08-11
-coverImage: https://fotos.etheriamagazine.com/2020/08/vejer-panoramica.jpg
+cover: https://fotos.etheriamagazine.com/2020/08/vejer-panoramica.jpg
 categories: 
   - viajar-en-pareja
   - inspiración
@@ -12,10 +12,10 @@ authors:
   - Susana García
 ---
 
-Considerado uno de los pueblos más bonitos de España, Vejer gusta y se gusta subido a un 
-cerro desde el que mira a su entorno sabiéndose bello. Como estamos seguras de que está 
-en la lista de muchas mujeres viajeras, te contamos qué ver y qué hacer si has decidido 
-dedicar unos días de tus vacaciones a este pueblo gaditano. 
+**Considerado uno de los pueblos más bonitos de España, Vejer gusta y se gusta subido a 
+un cerro desde el que mira a su entorno sabiéndose bello. Como estamos seguras de que 
+está en la lista de muchas mujeres viajeras, te contamos qué ver y qué hacer si has 
+decidido dedicar unos días de tus vacaciones a este pueblo gaditano.** 
 
 ![Vecinas charlando en un patio de Vejer](https://fotos.etheriamagazine.com/2020/08/vejer-rincon-juana-la-nieve.jpg "Vecinas charlando en un patio de Vejer. © SG")
 
@@ -25,9 +25,7 @@ listas de lugares para escaparse unos días en la época estival y disfrutar de 
 entorno, su playa y su gastronomía. Pero es una localidad que puede visitarse durante 
 todo el año y si te escapas en otoño o primavera, la disfrutarás mucho más tranquila. 
 
-✅ **NO PIERDAS:** [La mejor guía de CÁDIZ PROVINCIA para organizar tu viaje: pueblos y 
-visitas de interés (con mapa 
-incluido).](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/) 
+✅ **NO PIERDAS:** {{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}} 
 
 ![fachada de Vejer de la Frontera con macetas de colores](https://fotos.etheriamagazine.com/2020/08/vejer-macetas.jpg "Fachada vejeriega. © SG")
 
@@ -135,12 +133,13 @@ más originales de Vejer de la Frontera: **La Pájara**.
 
 ## 8\. Visitar la Fundación NMAC
 
-La [Fundación NMAC Montenmedio Arte Contemporáneo](https://fundacionnmac.org/es/) [](https://fundacionnmac.org/es/)es 
-un lugar que no te dejará indiferente: un espacio donde se pretende un diálogo entre la 
-naturaleza y el arte, y las piezas de Arte Contemporáneo se encuentran integradas en el 
-paisaje. Cuenta con una exposición permanente y muestras temporales, y te puedes apuntar 
-a sus visitas guiadas o ver el museo por tu cuenta. Durante el verano tiene un programa 
-de actividades en torno al arte para adultos y niños. 
+La [Fundación NMAC Montenmedio Arte Contemporáneo](https://fundacionnmac.org/es/) 
+[](https://fundacionnmac.org/es/)es un lugar que no te dejará indiferente: un espacio 
+donde se pretende un diálogo entre la naturaleza y el arte, y las piezas de Arte 
+Contemporáneo se encuentran integradas en el paisaje. Cuenta con una exposición 
+permanente y muestras temporales, y te puedes apuntar a sus visitas guiadas o ver el 
+museo por tu cuenta. Durante el verano tiene un programa de actividades en torno al arte 
+para adultos y niños. 
 
 ![obras del museo de arte contemporáneo al aire libre de Vejer de la Frontera](https://fotos.etheriamagazine.com/2020/08/vejer-museo-montenmedio.jpg "Museo NMAC: obras 'Plansone Duty Free' de Pascale Marthine Tayou, 'Puente' de Shen Yuan y recepción. © SG")
 
@@ -177,12 +176,10 @@ por Vejer de la Frontera (90 euros el grupo completo).
 
 📌 **También te puede interesar**: 
 
-[10 planes ineludibles en Conil con amigas para disfrutar de día y de 
-noche](https://etheriamagazine.com/2021/07/05/los-mejores-planes-en-conil-con-amigas/) 
+{{< reflink path=posts/2021/07/los-mejores-planes-en-conil-con-amigas >}} 
 
-[10 paradas imprescindibles en las ruinas romanas de Baelo Claudia (Bolonia, 
-Cádiz)](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/) 
+{{< reflink path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia 
+>}} 
 
-[](https://etheriamagazine.com/2020/07/06/viajes-por-espana-tarifa-con-amigas-aires-de-windsurf/)[Excursiones 
-ideales desde Conil de la 
-Frontera](https://etheriamagazine.com/2023/08/02/mejores-excursiones-desde-conil/)
+{{< reflink path=posts/2020/07/viajes-por-espana-tarifa-con-amigas-aires-de-windsurf 
+>}}{{< reflink path=posts/2023/08/mejores-excursiones-desde-conil >}}

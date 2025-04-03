@@ -1,7 +1,7 @@
 ---
 title: "Hotel Cap Rocat, exclusividad en la costa mallorquina"
 date: 2023-04-12
-coverImage: https://fotos.etheriamagazine.com/2023/04/cap-rocat-habitacion-centinela.jpg
+cover: https://fotos.etheriamagazine.com/2023/04/cap-rocat-habitacion-centinela.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-La bulliciosa Mallorca es capaz de guardar secretos en forma de rincones de paz como el 
-exclusivo hotel Cap Rocat, miembro de Small Luxury Hotels of the World. Date el capricho 
-de alojarte unos días en este hotel de lujo de Mallorca y vivirás la isla de una forma 
-diferente. Este establecimiento es un auténtico castillo donde es posible disfrutar del 
-silencio incluso en los meses de temporada alta. 
+**La bulliciosa Mallorca es capaz de guardar secretos en forma de rincones de paz como 
+el exclusivo hotel Cap Rocat, miembro de Small Luxury Hotels of the World. Date el 
+capricho de alojarte unos días en este hotel de lujo de Mallorca y vivirás la isla de 
+una forma diferente. Este establecimiento es un auténtico castillo donde es posible 
+disfrutar del silencio incluso en los meses de temporada alta.** 
 
 ![Entrada del hotel Cap Rocat](https://fotos.etheriamagazine.com/2023/04/Cap-Rocat-entrada.jpg "Entrada del hotel Cap Rocat.")
 
@@ -125,17 +125,16 @@ ofrece una cuidada programación perfecta para ser disfrutada en este entorno ú
 año tendrá lugar entre el 4 y el 6 de agosto de 2023. 
 
 Más información en [Cap Rocat](https://caprocat.com/) Ctra. d'Enderrocat, s/n. Cala 
-Blava - Mallorca. Tel. (+34) 971 74 78 78. 
+Blava 
+
+- Mallorca. Tel. (+34) 971 74 78 78. 
 
 © Fotografías cedidas por Cap Rocat. 
 
 📌 **También te puede interesar:** 
 
-[Qué hacer en Palma de Mallorca: compras, mercados y 
-arte](https://etheriamagazine.com/2019/08/01/24-horas-palma-mallorca-arte-compras-mercados/) 
+{{< reflink path=posts/2019/08/24-horas-palma-mallorca-arte-compras-mercados >}} 
 
-[Palma con amigas: 8 planazos para exprimir la capital de 
-Mallorca](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palma-mallorca-con-amigas/) 
+{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}} 
 
-[10 secretos ‘gastro’ que deberías conocer de 
-Mallorca](https://etheriamagazine.com/2022/10/25/gastronomia-mallorca/)
+{{< reflink path=posts/2022/10/gastronomia-mallorca >}}

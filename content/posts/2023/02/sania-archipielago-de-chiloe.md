@@ -1,7 +1,7 @@
 ---
 title: "Isla de Chiloé, consejos de Sania para visitarla"
 date: 2023-02-03
-coverImage: https://fotos.etheriamagazine.com/2023/01/sania-chiloe-palafitos.jpg
+cover: https://fotos.etheriamagazine.com/2023/01/sania-chiloe-palafitos.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Sania Jelic
 ---
 
-Sania Jelic realiza desde Puerto Montt una excursión de unos días al archipiélago de 
+**Sania Jelic realiza desde Puerto Montt una excursión de unos días al archipiélago de 
 Chiloé, uno de los parajes naturales más interesantes de Chile. Nos lo cuenta, como 
 siempre, en primera persona aportando datos prácticos para quienes se estén planteando 
-viajar solas por esta parte del mundo. 
+viajar solas por esta parte del mundo.** 
 
 ![Paisaje en la isla principal del archipiélago de la isla de Chiloé.](https://fotos.etheriamagazine.com/2023/01/sania-chiloe-cucao.jpg "Paisaje en la isla principal del archipiélago de Chiloé.")
 
@@ -174,14 +174,10 @@ planificar todo con antelación.
 
 📌 **También te puede interesar:** 
 
-01\. [El Amazonas: nueva etapa de Sania Jelic en 
-Sudamérica](https://etheriamagazine.com/2022/12/24/sania-jelic-amazonas/). 
+01\. {{< reflink path=posts/2022/12/sania-jelic-amazonas >}}. 
 
-02\. [Sania en Patagonia (parte 1): Ushuaia y Punta 
-Arenas](https://etheriamagazine.com/2023/01/10/sania-en-patagonia-ushuaia-punta-arenas/). 
+02\. {{< reflink path=posts/2023/01/sania-en-patagonia-ushuaia-punta-arenas >}}. 
 
-03\. [Sania Jelic en Patagonia (parte 2): Calafate y El 
-Chalten](https://etheriamagazine.com/2023/01/20/sania-jelic-patagonia-calafate-chalten/). 
+03\. {{< reflink path=posts/2023/01/sania-jelic-patagonia-calafate-chalten >}}. 
 
-04\. [Sania en Patagonia (parte 3): todo va lento, menos el 
-viento](https://etheriamagazine.com/2023/01/24/sania-patagonia-chilena/).
+04\. {{< reflink path=posts/2023/01/sania-patagonia-chilena >}}.

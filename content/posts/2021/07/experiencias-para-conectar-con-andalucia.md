@@ -1,7 +1,7 @@
 ---
 title: "Siete emocionantes experiencias para conectar con Andalucía"
 date: 2021-07-16
-coverImage: https://fotos.etheriamagazine.com/2021/07/paseo-caballo-el-palmar.jpg
+cover: https://fotos.etheriamagazine.com/2021/07/paseo-caballo-el-palmar.jpg
 categories: 
   - ocio
 destino: 
@@ -68,11 +68,12 @@ facilitando tanto carriles bici (en ciudades como Sevilla) como **sendas ciclotu
 repartidas por la comunidad. Comenzar el día recorriendo paisajes de montaña o 
 desérticos y terminar dándote un baño en la playa es uno de los privilegios que te 
 depara esta completa región del sur de España. Si estás habituado al pedaleo no dejes de 
-animarte a recorrer sobre dos ruedas los recorridos de [TransAndalus](https://www.andalucia.org/es/rutas-en-bicicleta) 
-(por varias provincias) y [Transnevada](https://www.andalucia.org/internal_redirect/14899/), 
-que proporcionan kilómetros de adrenalina. Para las familias aficionadas a los paseos en 
-bicicleta la mejor opción son las Vías Verdes de Andalucía, donde incluso se organizan 
-actividades para los niños. 
+animarte a recorrer sobre dos ruedas los recorridos de 
+[TransAndalus](https://www.andalucia.org/es/rutas-en-bicicleta) (por varias provincias) 
+y [Transnevada](https://www.andalucia.org/internal_redirect/14899/), que proporcionan 
+kilómetros de adrenalina. Para las familias aficionadas a los paseos en bicicleta la 
+mejor opción son las Vías Verdes de Andalucía, donde incluso se organizan actividades 
+para los niños. 
 
 ![flamenco andalucia](https://fotos.etheriamagazine.com/2021/07/flamenco-Palacio-Olvidados.jpg "Disfrutar de un espectáculo de flamenco es una experiencia obligada. © Turismo Andalucía")
 
@@ -103,9 +104,10 @@ Origen y Destino'](https://origenydestino.andalucia.org/) donde se enmarca un bu
 número de propuestas relacionadas con la conmemoración del “V Centenario de la primera 
 Vuelta al Mundo”. ¿Qué te parece visitar los escenarios relacionados con esta 
 conmemoración en [Sanlúcar de 
-Barrameda](https://origenydestino.andalucia.org/escenario/sanlucar-de-barrameda/) y en [Sevilla](https://origenydestino.andalucia.org/escenario/sevilla/)? 
-También podrás acudir a alguna exposición, espectáculo de teatro o de ópera, realizar 
-una gymkana nocturna o incluso hacer una ruta a vela por el Guadalquivir. [Consulta la 
+Barrameda](https://origenydestino.andalucia.org/escenario/sanlucar-de-barrameda/) y en 
+[Sevilla](https://origenydestino.andalucia.org/escenario/sevilla/)? También podrás 
+acudir a alguna exposición, espectáculo de teatro o de ópera, realizar una gymkana 
+nocturna o incluso hacer una ruta a vela por el Guadalquivir. [Consulta la 
 agenda](https://origenydestino.andalucia.org/#Conoce-los-tescenariosde-un-viaje-historico) 
 porque seguro que encuentras algo que te apasione. 
 

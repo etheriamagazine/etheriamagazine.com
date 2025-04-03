@@ -1,7 +1,7 @@
 ---
 title: "Helen Frankenthaler en Guggenheim Bilbao, un viaje al color sin reglas"
 date: 2025-03-17
-coverImage: https://fotos.etheriamagazine.com/2025/03/Helen-Frankenthaler-Cassis.jpg
+cover: https://fotos.etheriamagazine.com/2025/03/Helen-Frankenthaler-Cassis.jpg
 categories: 
   - cultura
   - ocio
@@ -21,8 +21,9 @@ color y la libertad son protagonistas. ¿Te apuntas a este viaje?
 
 Un viaje a la ciudad de Bilbao sigue siendo uno de esos planes con amigas a los que no 
 nos podemos negar en ningún momento del año, pero ahora tenemos un nuevo motivo para no 
-posponerlo: la exposición **_Helen Frankenthaler: Pintura sin reglas_** (11 de abril - 
-28 de septiembre de 2025). El Museo Guggenheim Bilbao acoge durante varios meses esta 
+posponerlo: la exposición **_Helen Frankenthaler: Pintura sin reglas_** (11 de abril 
+
+- 28 de septiembre de 2025). El Museo Guggenheim Bilbao acoge durante varios meses esta 
 retrospectiva dedicada a una de las artistas más influyentes del siglo XX, pionera en la 
 pintura abstracta y referente para muchas creadoras. Si estás planeando una escapada 
 cultural, esta muestra es una parada obligada. No solo se trata de una oportunidad para 
@@ -98,12 +99,13 @@ Bilbao ofrece un mundo de posibilidades de ocio y diversión más allá de su ic
 museo. Si estás planeando un fin de semana, te recomendamos no perderte un paseo por el 
 casco viejo, con sus calles llenas de historia, boutiques de diseñadores locales y bares 
 de pintxos. Además, ¿por qué no hacer una escapadita a Getxo para conocer sus preciosas 
-villas? Se puede llegar incluso en metro. (Sigue leyendo [Un paseo por las grandes 
-mansiones de la Belle Époque de 
-Getxo](https://etheriamagazine.com/2023/11/02/grandes-villas-mansiones-getxo/)) 
+villas? Se puede llegar incluso en metro. (Sigue leyendo {{< reflink 
+path=posts/2023/11/grandes-villas-mansiones-getxo >}}) 
 
 **Información práctica** 
 
 Museo Guggenheim Bilbao **Exposición**: Helen Frankenthaler: Pintura sin reglas 
-**Fechas**: 11 de abril - 28 de septiembre de 2025 [www.guggenheim-bilbao.eus 
+**Fechas**: 11 de abril 
+
+- 28 de septiembre de 2025 [www.guggenheim-bilbao.eus 
 ](https://www.guggenheim-bilbao.eus/)

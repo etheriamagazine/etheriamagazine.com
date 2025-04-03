@@ -1,7 +1,7 @@
 ---
 title: "Guía para viajar sola a Kenia, consejos básicos de Sania Jelic"
 date: 2024-06-02
-coverImage: https://fotos.etheriamagazine.com/2024/05/sania-safari-kenia.jpg
+cover: https://fotos.etheriamagazine.com/2024/05/sania-safari-kenia.jpg
 categories: 
   - viajar-sola
   - historias
@@ -83,9 +83,9 @@ tenía miedo.
 
 ![Sania con Daniel y uno de los chicos de su proyecto de fútbol.](https://fotos.etheriamagazine.com/2024/05/sania-daniel-kibera.jpg "Sania con Daniel y uno de los chicos de su proyecto de fútbol. © Sania Jelic.")
 
-El tour terminó en un pequeño local, de unos 10 m2, de su organización comunitaria [Okolea 
-Mtaa Foundation](http://www.okolea-mtaa-foundation.org). Desde aquí coordina las clases 
-de entrenamiento de fútbol para el equipo de chicos, las clases de danza para 
+El tour terminó en un pequeño local, de unos 10 m2, de su organización comunitaria 
+[Okolea Mtaa Foundation](http://www.okolea-mtaa-foundation.org). Desde aquí coordina las 
+clases de entrenamiento de fútbol para el equipo de chicos, las clases de danza para 
 mayoritariamente niñas y, además, se imparten clases de pintura. Le gustaría tener un 
 espacio más grande porque la ubicación de las clases varía en función del espacio que 
 consigue para cada sesión. Daniel solía jugar fútbol, pero una lesión no le permitió 
@@ -196,7 +196,8 @@ o 2 días de antelación.
 
 ### Cómo pagar
 
-En Kenia se usa mucho el pago electrónico [M-PESA](https://www.safaricom.co.ke/personal/value-added-services/information-services/m-pesa-app), 
+En Kenia se usa mucho el pago electrónico 
+[M-PESA](https://www.safaricom.co.ke/personal/value-added-services/information-services/m-pesa-app), 
 pero hay que descargar previamente la App. Es la forma de pago más extendida en el país, 
 similar al Bizum, y se usa en tiendas y entre particulares. La App viene preinstalada en 
 las tarjetas SIM de Safari.com pero hay que activarlas y eso se puede hacer solo en sus 
@@ -237,11 +238,8 @@ Naciones Unidas, lo tuve aún más claro….
 
 **También en Etheria Magazine:** 
 
-[Guía de Ruanda, consejos de Sania Jelic para recorrer el país más seguro de 
-África](https://etheriamagazine.com/2024/04/24/guia-ruanda-de-sania-jelic/) 
+{{< reflink path=posts/2024/04/guia-ruanda-de-sania-jelic >}} 
 
-[Consejos básicos de Sania Jelic si viajas sola a 
-Zanzíbar](https://etheriamagazine.com/2024/03/15/viajar-sola-zanzibar/) 
+{{< reflink path=posts/2024/03/viajar-sola-zanzibar >}} 
 
-[Consejos de Sania Jelic para viajar sola por África del sur y del 
-este](https://etheriamagazine.com/2024/01/31/consejos-viajar-sola-por-africa/)
+{{< reflink path=posts/2024/01/consejos-viajar-sola-por-africa >}}

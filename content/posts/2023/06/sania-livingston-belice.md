@@ -1,7 +1,7 @@
 ---
 title: "Livingston y Belice, la despedida caribeña de Sania Jelic"
 date: 2023-06-09
-coverImage: https://fotos.etheriamagazine.com/2023/06/sania-belice-buceo.jpg
+cover: https://fotos.etheriamagazine.com/2023/06/sania-belice-buceo.jpg
 categories: 
   - viajar-sola
   - mujeres-top
@@ -11,12 +11,12 @@ authors:
   - Sania Jelic
 ---
 
-Sania Jelic concluye su viaje por Sudamérica y Centroamérica después de más de cinco 
+**Sania Jelic concluye su viaje por Sudamérica y Centroamérica después de más de cinco 
 meses recorriendo diversos países. Lo hace en la costa caribeña de Guatemala, 
 concretamente en la ciudad de Livingston, y en Belice, donde vuelve a disfrutar de su 
 afición al buceo. Un broche perfecto para un itinerario lleno de lugares increíbles y 
 personas que recordará para siempre y que nos ha contado en primera persona en Etheria 
-Magazine. Ya estamos deseando conocer su próxima aventura. 
+Magazine. Ya estamos deseando conocer su próxima aventura.** 
 
 ![](https://fotos.etheriamagazine.com/2023/06/sania-belice-buceo.jpg "Sania en South West Caye Marine Reserve, en Belice. © Sania Jelic")
 
@@ -160,11 +160,8 @@ puedes! Gracias por acompañarme.**
 
 📌 **También te puede interesar:** 
 
-[Descubre las 3 visitas esenciales en Guatemala que aconseja Sania 
-Jelic](https://etheriamagazine.com/2023/05/31/3-visitas-imprescindibles-guatemala/) 
+{{< reflink path=posts/2023/05/3-visitas-imprescindibles-guatemala >}} 
 
-[De Cartagena de Indias a la Ciudad Perdida, broche de oro de 
-Sania](https://etheriamagazine.com/2023/05/12/cartagena-trekking-ciudad-perdida/) 
+{{< reflink path=posts/2023/05/cartagena-trekking-ciudad-perdida >}} 
 
-[Bogotá y Medellín, consejos básicos de Sania para 
-visitarlas](https://etheriamagazine.com/2023/05/03/viajar-sola-bogota-medellin/)
+{{< reflink path=posts/2023/05/viajar-sola-bogota-medellin >}}

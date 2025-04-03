@@ -1,7 +1,7 @@
 ---
 title: "10 cosas que sólo puedes hacer en el Alentejo (y que no te esperas)"
 date: 2022-05-05
-coverImage: https://fotos.etheriamagazine.com/2022/05/palafitos-carrasqueira.jpg
+cover: https://fotos.etheriamagazine.com/2022/05/palafitos-carrasqueira.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -126,8 +126,8 @@ región tienes un buen número de opciones tanto a pie como en bicicleta. Durant
 primavera es un placer recorrer el Camino Histórico, por el interior, o el Camino de los 
 Pescadores por la costa. 
 
-📌 En este artículo de la “[Ruta Vicentina, senderismo en Alentejo y 
-Algarve](https://etheriamagazine.com/2018/07/25/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal/)” 
+📌 En este artículo de la “{{< reflink 
+path=posts/2018/07/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal >}}” 
 te los ampliamos con detalle. 
 
 ![Una pareja caminando junto al mar en la Ruta Vicentina.](https://fotos.etheriamagazine.com/2022/05/Alentejo-Ruta-Vicentina.jpg "Ruta Vicentina, en el Alentejo.")
@@ -156,11 +156,8 @@ que rodean la localidad, no dejes de visitar su empinado trazado urbano y su cas
 
 ### Sigue leyendo más cosas que hacer en Portugal
 
-[5 experiencias originales en el 
-Alentejo](https://etheriamagazine.com/2018/11/08/5-experiencias-con-amigas-en-el-alentejo/). 
+{{< reflink path=posts/2018/11/5-experiencias-con-amigas-en-el-alentejo >}}. 
 
-[Algarve con amigas: 6 experiencias que no puedes 
-perderte](https://etheriamagazine.com/2021/10/07/planes-imprescindibles-algarve-con-amigas/). 
+{{< reflink path=posts/2021/10/planes-imprescindibles-algarve-con-amigas >}}. 
 
-[18 experiencias si viajas sola al 
-Algarve](https://etheriamagazine.com/2020/08/07/18-experiencias-si-viajas-sola-al-algarve/).
+{{< reflink path=posts/2020/08/18-experiencias-si-viajas-sola-al-algarve >}}.

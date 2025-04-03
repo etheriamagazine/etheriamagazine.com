@@ -1,7 +1,7 @@
 ---
 title: "Nueve paseos a la italiana por los jardines más bellos de Florencia"
 date: 2021-05-21
-coverImage: https://fotos.etheriamagazine.com/2021/04/Jardin-Boboli-florencia.jpg
+cover: https://fotos.etheriamagazine.com/2021/04/Jardin-Boboli-florencia.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -101,8 +101,9 @@ antaño aves, un conjunto de limoneros y un Belvedere. En Fiesole, existen, tamb
 otras [villas y jardines que se pueden 
 visitar](http://www.fiesoleforyou.it/ville-e-giardini/). 
 
-Visitas **con reserva** (en [annamarchimazzini@gmail.com](mailto:annamarchimazzini@gmail.com)) 
-¿Dónde? Via Angelico, 2 – Fiesole (Florencia) 
+Visitas **con reserva** (en 
+[annamarchimazzini@gmail.com](mailto:annamarchimazzini@gmail.com)) ¿Dónde? Via Angelico, 
+2 – Fiesole (Florencia) 
 
 ![Villa Castello jardines de florencia](https://fotos.etheriamagazine.com/2021/04/Villa-Castello-Florencia.jpg "Villa Castello. © Città Metropolitana di Firenze- ufficio Turismo")
 
@@ -240,14 +241,11 @@ Via Bolognese en Pratolino Vaglia
 
 ### Más planes de viajes en Italia...
 
-[15 ideas para disfrutar de Florencia por segunda 
-vez](https://etheriamagazine.com/2018/09/21/15-ideas-para-disfrutar-de-florencia-por-segunda-vez/). 
+{{< reflink path=posts/2018/09/15-ideas-para-disfrutar-de-florencia-por-segunda-vez >}}. 
 
-[10 imprescindibles para disfrutar Florencia con 
-niños](https://etheriamagazine.com/2018/05/17/10-imprescindibles-para-disfrutar-florencia-con-ninos/). 
+{{< reflink path=posts/2018/05/10-imprescindibles-para-disfrutar-florencia-con-ninos 
+>}}. 
 
-[Aprovecha a tope un fin de semana en 
-Florencia](https://etheriamagazine.com/2018/05/16/48-horas-en-florencia-fin-de-semana-que-ver-hacer/). 
+{{< reflink path=posts/2018/05/48-horas-en-florencia-fin-de-semana-que-ver-hacer >}}. 
 
-[10 viajes para enamorarte de 
-Italia](https://etheriamagazine.com/2020/08/03/10-grandes-viajes-a-italia/).
+{{< reflink path=posts/2020/08/10-grandes-viajes-a-italia >}}.

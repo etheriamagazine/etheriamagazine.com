@@ -1,7 +1,7 @@
 ---
 title: "Llevar a Irán a otras mujeres, el sueño de Leti Lagarda"
 date: 2022-04-01
-coverImage: https://fotos.etheriamagazine.com/2022/03/iran-mujeres.jpg
+cover: https://fotos.etheriamagazine.com/2022/03/iran-mujeres.jpg
 categories: 
   - mujeres-top
   - proyectos
@@ -90,18 +90,17 @@ mundo, que permanezcan en el momento presente de lo que Irán nos ponga en el ca
 ![Paisaje rural de Irán.](https://fotos.etheriamagazine.com/2022/03/iran-rural.jpg "Paisaje rural de Irán. © Leti Lagarda")
 
 Y hasta aquí el relato de Leti Lagarda, si estáis interesadas en los viajes que organiza 
-a Irán podéis contactar con ella a través de Instagram (@leti\_lagarda) o en [contact@letilagarda.com](mailto:contact@letilagarda.com) 
+a Irán podéis contactar con ella a través de Instagram (@leti\_lagarda) o en 
+[contact@letilagarda.com](mailto:contact@letilagarda.com) 
 
 Más información sobre esta país en la [web](https://www.visitiran.ir/) oficial de 
 turismo. 
 
 ### También te puede interesar...
 
-[Descubre las 10 sonrisas persas de 
-Irán](https://etheriamagazine.com/2019/11/06/que-ver-iran-mujer-viajar-sola-con-amigas/). 
+{{< reflink path=posts/2019/11/que-ver-iran-mujer-viajar-sola-con-amigas >}}. 
 
-[Jordania, visitas y consejos imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2020/12/18/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola/). 
+{{< reflink 
+path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}. 
 
-[Despierta tu lado viajero más friki: 9 destinos de rodaje de series o 
-películas](https://etheriamagazine.com/2020/03/20/viajes-sin-salir-de-casa-destinos-cine-y-series/).
+{{< reflink path=posts/2020/03/viajes-sin-salir-de-casa-destinos-cine-y-series >}}.

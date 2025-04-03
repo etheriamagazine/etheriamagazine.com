@@ -1,7 +1,7 @@
 ---
 title: "10 excursiones en España que mejoran si las haces en otoño"
 date: 2020-09-22
-coverImage: https://fotos.etheriamagazine.com/2019/04/leon-medulas-minas-oro.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/leon-medulas-minas-oro.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -29,8 +29,8 @@ descubrirás lugares como el meandro de Melero o el Chorro de la Miacera, pero q
 aporta un interesante patrimonio histórico y cultural en localidades como Las Mestas, 
 Fragosa o Martilandrán. 
 
-Sigue leyendo en Etheria Magazine: [Las 
-Hurdes](https://etheriamagazine.com/2020/07/21/viajes-espana-las-hurdes-un-paraiso-extremeno/). 
+Sigue leyendo en Etheria Magazine: {{< reflink 
+path=posts/2020/07/viajes-espana-las-hurdes-un-paraiso-extremeno >}}. 
 
 ![Anso es uno de los pueblos de la Jacetania](https://fotos.etheriamagazine.com/2019/09/Jacetania-Anso.jpg "Anso, uno de los pueblos de la Jacetania. © Archivo DGA/Comarca de la Jacetania")
 
@@ -43,8 +43,8 @@ o la de la Virgen de Iguacel) y sorprendentes rincones naturales como el de la c
 las Güixas o los valles de Hecho, Ansó y Zuriza. También comprobarás como Candanchú o 
 Astún, que asociamos al esquí, están preciosos para ser recorridos en otoño. 
 
-Sigue leyendo en Etheria Magazine: [Los valles de la 
-Jacetania](https://etheriamagazine.com/2019/09/25/viaja-sola-a-los-valles-de-la-jacetania-huesca/). 
+Sigue leyendo en Etheria Magazine: {{< reflink 
+path=posts/2019/09/viaja-sola-a-los-valles-de-la-jacetania-huesca >}}. 
 
 ![escapada a Sepúlveda desde Madrid](https://fotos.etheriamagazine.com/2019/06/Sepulveda-duraton-atardecer.jpg "Sepúlveda al atardecer. © SG")
 
@@ -57,7 +57,8 @@ siempre una apuesta segura. Y si madrugas, puedes combinar una mañana de paseo 
 por las hoces del Duratón con comida y tarde en Sepúlveda para descubrir su Plaza Mayor 
 y sus cinco iglesias románicas. 
 
-Sigue leyendo en Etheria Magazine: [Sepúlveda](https://etheriamagazine.com/2019/07/11/sepulveda-y-las-hoces-del-duraton-viaje-en-familia/). 
+Sigue leyendo en Etheria Magazine: {{< reflink 
+path=posts/2019/07/sepulveda-y-las-hoces-del-duraton-viaje-en-familia >}}. 
 
 ![Bardenas Reales.](https://fotos.etheriamagazine.com/2020/07/bardenas-ruta.jpg "Bardenas Reales. © Marco de Luca")
 
@@ -69,8 +70,8 @@ Biosfera. Además de desiertos que te harán sentir como en Arizona, podrás ace
 Tudela, capital de la Ribera Navarra, que muestra con el mismo orgullo su preciosa 
 judería, su catedral y los deliciosos productos de su huerta. 
 
-Sigue leyendo en Etheria Magazine: [Tudela y las Bardenas 
-Reales](https://etheriamagazine.com/2020/07/27/ruta-navarra-bardenas-reales-tudela-escapada-con-amigas/). 
+Sigue leyendo en Etheria Magazine: {{< reflink 
+path=posts/2024/10/ruta-navarra-bardenas-reales-tudela-escapada-con-amigas >}}. 
 
 ![escapada a Las Medulas con amigas](https://fotos.etheriamagazine.com/2020/04/viajar-sola-leon-medulas.jpg "Las Médulas aguardan a los pies de la Sierra de la Encina de la Lastra y de la gallega Sierra del Caurel (al fondo). © KR")
 
@@ -83,8 +84,8 @@ mejores vistas, como las de el mirador de Orellán, desde el que no podrás deja
 fotos. Además, en este viaje descubrirás castaños centenarios y alcornoques gigantes 
 llamados Zufreiros del Frade. 
 
-Sigue leyendo en Etheria Magazine: [Las Médulas, ‘prestosidad’ a la 
-leonesa](https://etheriamagazine.com/2020/05/11/escapadas-por-espana-las-medulas-leon/). 
+Sigue leyendo en Etheria Magazine: {{< reflink 
+path=posts/2020/05/escapadas-por-espana-las-medulas-leon >}}. 
 
 ![Caras de Buendía en Cuenca. Arte y naturaleza juntos.](https://fotos.etheriamagazine.com/2020/05/cuenca-excursion-caras-buendia.jpg "La ruta de la Caras de Buendía en Cuenca. Arte y naturaleza juntos. © Yolanda Cardo")
 
@@ -97,8 +98,9 @@ Cañete y Castillo de Moya; al sur el castillo de Garcimuñoz, Alarcón y el yac
 arqueológico de Valeria; y al oeste lugares tan conocidos como el monasterio de Uclés, 
 Segóbriga, el yacimiento de Ercávica y la ruta por las misteriosas Caras de Buendía. 
 
-Sigue leyendo en Etheria Magazine: [Las mejores excursiones en la provincia de 
-Cuenca](https://etheriamagazine.com/2020/06/04/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca/). 
+Sigue leyendo en Etheria Magazine: {{< reflink 
+path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+>}}. 
 
 ![Visita Cómpeta en la comarca de la Axarquía](https://fotos.etheriamagazine.com/2020/06/viajar-sola-axarquia-competa.jpg "Estampa tradicional de Cómpeta (Axarquía, Málaga).")
 
@@ -111,8 +113,8 @@ como Frigiliana, Cómpeta o Corumbela. Además, probarás su rica gastronomía, 
 excelente aceite de oliva, o podrás descansar a las orillas del embalse de La Viñuela. 
 Un viaje que es toda una sorpresa. 
 
-Sigue leyendo en Etheria Magazine: [Road trip por la Axarquía 
-malagueña](https://etheriamagazine.com/2020/06/19/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga/). 
+Sigue leyendo en Etheria Magazine: {{< reflink 
+path=posts/2024/07/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga >}}. 
 
 ![Camino de Durro a Boí.](https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-Durro-Boi.jpg "Camino de Durro a Boí. © Cecilia Lorenzo")
 
@@ -125,8 +127,8 @@ maravilloso enclave del Pirineo catalán a pie durante seis días, los que neces
 para unir las localidades de Barruera, Durro, Boí, Taüll, Erill la Vall y Caldes de Boí. 
 ¡Y es una ruta apta para niños! 
 
-Sigue leyendo en Etheria Magazine: [Vall de Boí con 
-niños](https://etheriamagazine.com/2020/02/28/ruta-senderista-en-familia-por-valle-de-boi-pirineo-lleida/). 
+Sigue leyendo en Etheria Magazine: {{< reflink 
+path=posts/2020/02/ruta-senderista-en-familia-por-valle-de-boi-pirineo-lleida >}}. 
 
 ![El jamón de Jabugo es uno de los alicientes para una ruta por la Sierra de Aracena.](https://fotos.etheriamagazine.com/2019/06/viaje-huelva-aracena-Cinco-Jotas-Bodega.jpg "El jamón de Jabugo es uno de los alicientes para una ruta por la Sierra de Aracena. © Jamón Cinco Jotas")
 
@@ -138,8 +140,8 @@ relamas con este manjar a la vez que disfrutas de su naturaleza y sus pueblos ll
 encanto. No te puedes perder la gruta de las Maravillas, el castillo de Aracena o las 
 Bodegas Cinco Jotas en Jabugo. 
 
-Sigue leyendo en Etheria Magazine: [Ruta “100% bellota” a la sierra de Aracena y 
-Jabugo](https://etheriamagazine.com/2019/06/27/viaje-amigas-huelva-ruta-jamon-jabugo-aracena/). 
+Sigue leyendo en Etheria Magazine: {{< reflink 
+path=posts/2019/06/viaje-amigas-huelva-ruta-jamon-jabugo-aracena >}}. 
 
 ![Molinos de Alcázar de San Juan, en la ruta del vino por Castilla La Mancha.](https://fotos.etheriamagazine.com/2019/03/viaje-alcazar-de-juan-juan.jpg "Molinos de Alcázar de San Juan, en la ruta del vino por Castilla La Mancha. © O.Checa")
 
@@ -152,5 +154,5 @@ Socuéllamos y museos dedicados a la alfarería y al vino. Y, por supuesto, tien
 parar en alguna de sus bodegas para conocer y probar sus vinos DO La Mancha y comprender 
 la comunión de esta zona con el vino. 
 
-Sigue leyendo en Etheria Magazine: [Viaje en coche por la Ruta del Vino de La 
-Mancha](https://etheriamagazine.com/2019/03/20/ruta-del-vino-de-la-mancha/)
+Sigue leyendo en Etheria Magazine: {{< reflink 
+path=posts/2019/03/ruta-del-vino-de-la-mancha >}}

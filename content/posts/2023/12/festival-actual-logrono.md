@@ -1,7 +1,7 @@
 ---
 title: "Festival Actual: tu primera cita cultural del año es en Logroño"
 date: 2023-12-14
-coverImage: https://fotos.etheriamagazine.com/2023/12/festival-actual-Chica-Sobresalto.jpg
+cover: https://fotos.etheriamagazine.com/2023/12/festival-actual-Chica-Sobresalto.jpg
 categories: 
   - ocio
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-Desde hace más de tres décadas, el Festival Actual inaugura las citas culturales del año 
-en nuestro país. Este gran evento que se realiza en Logroño se ha consolidado como un 
-encuentro imprescindible para los amantes del arte, la música, el teatro y el cine. Y, 
-por supuesto, para los apasionados de la buena gastronomía porque, sin duda, es el mejor 
-complemento para una escapada a La Rioja. 
+**Desde hace más de tres décadas, el Festival Actual inaugura las citas culturales del 
+año en nuestro país. Este gran evento que se realiza en Logroño se ha consolidado como 
+un encuentro imprescindible para los amantes del arte, la música, el teatro y el cine. 
+Y, por supuesto, para los apasionados de la buena gastronomía porque, sin duda, es el 
+mejor complemento para una escapada a La Rioja.** 
 
 ![Chica sobresalto actuará en el Festival Actual 2024.](https://fotos.etheriamagazine.com/2023/12/festival-actual-Chica-Sobresalto.jpg "Chica sobresalto actuará en el Festival Actual 2024.")
 
@@ -34,9 +34,9 @@ también hacerlo aún más visible en su vertiente cultural. Las numerosas activ
 festival no sólo se distribuyen en los lugares habituales de la agenda anual de la 
 capital riojana como el Palacio de los Deportes, el Palacio de Congresos y el Auditorio 
 de La Rioja, Riojaforum, la Filmoteca Rafael Azcona o el Teatro Bretón. También se 
-llevan a cabo en ubicaciones especiales como [Bodegas 
-Franco-Españolas](https://etheriamagazine.com/2023/06/26/bodegas-franco-espanolas-noches-vino-cine/), 
-La Gota de Leche, el Círculo Logroñés o el Cubo del Revellín, entre otras. 
+llevan a cabo en ubicaciones especiales como {{< reflink 
+path=posts/2023/06/bodegas-franco-espanolas-noches-vino-cine >}}, La Gota de Leche, el 
+Círculo Logroñés o el Cubo del Revellín, entre otras. 
 
 ![Valeria Castro, que estuvo nominada en los Latin Grammy 2023, actuará en el Festival Actual.](https://fotos.etheriamagazine.com/2023/12/Valeria-Castro.jpg "Valeria Castro, que estuvo nominada en los Latin Grammy 2023, actuará en el Festival Actual.")
 
@@ -153,6 +153,5 @@ Logroño](https://actualfestival.com/).
 
 \*Fotos cedidas por Festival Actual. 
 
-**También te puede interesar**: [Escapada al valle secreto de Ocón, un pellizco de La 
-Toscana en La 
-Rioja](https://etheriamagazine.com/2020/10/26/viaje-la-rioja-vendimia-valle-de-ocon/).
+**También te puede interesar**: {{< reflink 
+path=posts/2020/10/viaje-la-rioja-vendimia-valle-de-ocon >}}.

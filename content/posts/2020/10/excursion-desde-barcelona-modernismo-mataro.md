@@ -1,7 +1,7 @@
 ---
 title: "La cuna del Modernismo está en Mataró"
 date: 2020-10-14
-coverImage: https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-interior.jpg
+cover: https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-interior.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -141,14 +141,10 @@ Canaria, entre otras.
 
 ### También te puede interesar:
 
-[Modernismo en Terrassa, tres visitas que te 
-sorprenderán](https://etheriamagazine.com/2021/08/20/que-ver-en-terrassa-visitas-modernistas/) 
+{{< reflink path=posts/2021/08/que-ver-en-terrassa-visitas-modernistas >}} 
 
-[Viñedos con sabor a mar, primer tramo del Grand Tour de 
-Cataluña](https://etheriamagazine.com/2021/11/12/grand-tour-catalunya-vinedos-sabor-a-mar/) 
+{{< reflink path=posts/2024/06/grand-tour-catalunya-vinedos-sabor-a-mar >}} 
 
-[10 planes originales para hacer con amigas en 
-Barcelona](https://etheriamagazine.com/2021/03/10/10-planes-originales-con-amigas-en-barcelona/) 
+{{< reflink path=posts/2021/03/10-planes-originales-con-amigas-en-barcelona >}} 
 
-[Descubre estos 8 lugares secretos de Cataluña que deberías 
-conocer](https://etheriamagazine.com/2021/02/22/lugares-secretos-de-cataluna-que-visitar/)
+{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}

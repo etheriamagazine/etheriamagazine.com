@@ -1,7 +1,7 @@
 ---
 title: "Urdaibai, experimenta el efecto Hemingway en sólo siete paradas"
 date: 2021-02-18
-coverImage: https://fotos.etheriamagazine.com/2021/02/Urdaibai-Playa-Laga-Isla-Izaro.jpg
+cover: https://fotos.etheriamagazine.com/2021/02/Urdaibai-Playa-Laga-Isla-Izaro.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -18,7 +18,8 @@ Nos apasionan los viajes locales a lugares auténticos, como la ría de Urdaibai
 cualquier estación. Este escenario de esencia vasca se presenta muy apetecible nada más 
 divisar este valle de prados y bosques salpicados de dispersos pueblos y caseríos. Dicho 
 valle lo traza el río Oka, alrededor del cual se crea la **Reserva de la Biosfera de 
-Urdaibai,** antes de entregarse abiertamente al mar en [Mundaka](https://www.bilbaoturismo.net/BilbaoTurismo/es/la-ola-izquierda-de-mundaka). 
+Urdaibai,** antes de entregarse abiertamente al mar en 
+[Mundaka](https://www.bilbaoturismo.net/BilbaoTurismo/es/la-ola-izquierda-de-mundaka). 
 Esta población vasca se ha hecho mundialmente famosa por su ola izquierda**.** Dicha ola 
 nace en una barra de arena dorada junto al pueblo y termina en la espectacular playa de 
 Laida, enlazándola con un tubo oceánico que levanta pasiones surfistas. 
@@ -94,9 +95,9 @@ haya por acoger el viejo roble que es el símbolo del pueblo vasco. Bajo el **á
 Gernika**, junto a la Casa de Juntas, se reunían los representantes de los pueblos 
 vizcaínos para tomar las decisiones comunales según dictaban los fueros. El bombardeo 
 alemán del 26 de abril de 1937 de la principal referencia urbana de Urdaibai marcó 
-dramáticamente su historia. Como sabrás, lo inmortalizó genialmente Pablo Picasso en su [mural 
-'Guernica'](https://www.museoreinasofia.es/coleccion/obra/guernica), ahora en el Museo 
-Reina Sofía de Madrid. 
+dramáticamente su historia. Como sabrás, lo inmortalizó genialmente Pablo Picasso en su 
+[mural 'Guernica'](https://www.museoreinasofia.es/coleccion/obra/guernica), ahora en el 
+Museo Reina Sofía de Madrid. 
 
 ![arbol de guernica](https://fotos.etheriamagazine.com/2021/02/urdaibai-guernica-arbol.jpg "Roble de Gernika Lumo, símbolo del pueblo vasco.")
 
@@ -154,14 +155,10 @@ obra _El viejo y el mar_ gracias a las andanzas de un viejo pescador de Mundaka.
 
 ### También te puede interesar...
 
-[Paisajes del agua en los 10 mejores cañones del País 
-Vasco](https://etheriamagazine.com/2019/04/09/viajes-naturaleza-mejores-canones-pais-vasco/). 
+{{< reflink path=posts/2019/04/viajes-naturaleza-mejores-canones-pais-vasco >}}. 
 
-[8 pasiones al pie del monte Jaizkibel 
-(Guipúzcoa)](https://etheriamagazine.com/2020/09/08/que-ver-guipuzcoa-jaizkibel-hondarribia-pasaia/). 
+{{< reflink path=posts/2020/09/que-ver-guipuzcoa-jaizkibel-hondarribia-pasaia >}}. 
 
-[48 horas en aguas del golfo de Bizkaia avistando 
-cetáceos](https://etheriamagazine.com/2020/04/20/avistamiento-cetaceos-bizkaia-vizcaya-pais-vasco/). 
+{{< reflink path=posts/2020/04/avistamiento-cetaceos-bizkaia-vizcaya-pais-vasco >}}. 
 
-[Bilbao en clave ‘gastro’ para una escapada con 
-amigas](https://etheriamagazine.com/2019/12/23/finde-bilbao-con-amigas-mejores-restaurantes/).
+{{< reflink path=posts/2019/12/finde-bilbao-con-amigas-mejores-restaurantes >}}.

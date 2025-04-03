@@ -1,7 +1,7 @@
 ---
 title: "Viaja al futuro desde el Monasterio de Uclés"
 date: 2020-10-22
-coverImage: https://fotos.etheriamagazine.com/2020/10/re-nacimiento-monasterio-ucles.jpg
+cover: https://fotos.etheriamagazine.com/2020/10/re-nacimiento-monasterio-ucles.jpg
 categories: 
   - cultura
   - ocio
@@ -175,8 +175,8 @@ XXI.
 
 #### También te puede interesar...
 
-[Las mejores excursiones por la provincia de 
-Cuenca](https://etheriamagazine.com/2020/06/04/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca/). 
+{{< reflink 
+path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+>}}. 
 
-[Turismo rural con niños en la Serranía Alta de 
-Cuenca](https://etheriamagazine.com/2019/11/29/turismo-rural-familiar-con-ninos-en-serrania-cuenca/).
+{{< reflink path=posts/2019/11/turismo-rural-familiar-con-ninos-en-serrania-cuenca >}}.

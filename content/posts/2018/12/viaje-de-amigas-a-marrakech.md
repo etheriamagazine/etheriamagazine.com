@@ -1,7 +1,7 @@
 ---
 title: "Marrakech con amigas, visitas para un fin de semana intenso"
 date: 2018-12-27
-coverImage: https://fotos.etheriamagazine.com/2019/11/marrakech-viajes-mayores-55.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/marrakech-viajes-mayores-55.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Macarena Escrivá
 ---
 
-Viajar a Marrakech con amigas es una gran idea todo el año, así que aprovecha cualquier 
-fin de semana para conocer una de las ciudades más vibrantes del planeta. Elige algunos, 
-o todos, los planes que te recomendamos y disponte a disfrutar. 
+**Viajar a Marrakech con amigas es una gran idea todo el año, así que aprovecha 
+cualquier fin de semana para conocer una de las ciudades más vibrantes del planeta. 
+Elige algunos, o todos, los planes que te recomendamos y disponte a disfrutar.** 
 
 ![Tomar un té moruno forma parte del protocolo en hogares y comercios.](https://fotos.etheriamagazine.com/2018/12/marrakech-viaje-de-mujeres.jpg "Tomar un té moruno forma parte del protocolo en hogares y comercios.")
 
@@ -149,11 +149,9 @@ necesario para disfrutar de la inmensidad del desierto, casi, para ti sola.
 
 **También te puede interesar...** 
 
-[Guía esencial de Fez, la capital espiritual de 
-Marruecos](https://etheriamagazine.com/2021/03/18/guia-esencial-que-ver-y-hacer-en-fez/). 
+{{< reflink path=posts/2021/03/guia-esencial-que-ver-y-hacer-en-fez >}}. 
 
-[Celebrar la vida en el Alto Atlas 
-marroquí](https://etheriamagazine.com/2020/04/08/viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas/). 
+{{< reflink path=posts/2020/04/viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas 
+>}}. 
 
-[Najat Kaanache, la mejor chef de África, desvela en NAJAT los secretos de la cocina 
-marroquí](https://etheriamagazine.com/2021/02/04/najat-libro-cocina-marroqui-chef-najat-kaanache/).
+{{< reflink path=posts/2021/02/najat-libro-cocina-marroqui-chef-najat-kaanache >}}.

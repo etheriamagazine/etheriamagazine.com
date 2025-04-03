@@ -1,7 +1,7 @@
 ---
 title: "8 razones por las que te va a apetecer viajar a Valonia"
 date: 2023-05-16
-coverImage: https://fotos.etheriamagazine.com/2023/05/valonia-Dinant-lago.jpg
+cover: https://fotos.etheriamagazine.com/2023/05/valonia-Dinant-lago.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-Europa está llena de destinos sorprendentes y uno de las que más te va a gustar es la 
+**Europa está llena de destinos sorprendentes y uno de las que más te va a gustar es la 
 región de Valonia. Desconocida para muchos pero llena de atractivos y muy fácil de 
 visitar, aquí te damos ocho razones para viajar a Valonia, aunque te aseguramos que 
-existen muchas más. 
+existen muchas más.** 
 
 ![Teleférico de Namur](https://fotos.etheriamagazine.com/2023/05/valonia-namur-teleferico.jpg "Teleférico de Namur. © WBT/Denis Closon.")
 
@@ -166,8 +166,6 @@ Valonia](https://visitwallonia.es/) y organizar la ruta según tus intereses.
 
 📌 **También te puede interesar:** 
 
-[Bruselas, capital del Art Nouveau en 
-2023](https://etheriamagazine.com/2022/12/23/bruselas-art-nouveau/) 
+{{< reflink path=posts/2022/12/bruselas-art-nouveau >}} 
 
-[10 paradas en una ruta por el Barrio Europeo de 
-Bruselas](https://etheriamagazine.com/2022/09/29/que-ver-barrio-europeo-bruselas/)
+{{< reflink path=posts/2022/09/que-ver-barrio-europeo-bruselas >}}

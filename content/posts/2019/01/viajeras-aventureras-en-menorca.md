@@ -1,7 +1,7 @@
 ---
 title: "Menorca, la isla del deporte (también)"
 date: 2019-01-24
-coverImage: https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-menorca-senderismo.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-menorca-senderismo.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -48,7 +48,7 @@ Las autoridades turísticas de la isla lo tienen claro y están poniendo todo su
 
 ##### Paseos en Menorca con menos adrenalina
 
-¿Y los que prefieren tomarse la visita con menos adrenalina? Pues para ellos ofertan clases de yoga, itinerarios botánicos, avistamiento de aves, turismo fotográfico y visitas culturales. Sin ir más lejos, [Menorca](https://etheriamagazine.com/2018/11/05/15-tips-para-disfrutar-de-menorca-fuera-de-temporada/) tiene el coliseo de ópera más antiguo de España, el **Teatro Principal de Maó**, cuya construcción fue impulsada por el cantante, literato y arquitecto italiano Giovanni Palagi, que ofrece una densa programación cultural. Otra opción es visitar el **Museo de Menorca** en Maó, el Museo Municipal de Ciutadella o Can’Oliver, una antigua casa señorial de Maó que acoge la colección de arte Hernández Sanz-Hernández Mora, de los siglos XVIII y XIX.
+¿Y los que prefieren tomarse la visita con menos adrenalina? Pues para ellos ofertan clases de yoga, itinerarios botánicos, avistamiento de aves, turismo fotográfico y visitas culturales. Sin ir más lejos, {{< reflink path=posts/2018/11/15-tips-para-disfrutar-de-menorca-fuera-de-temporada >}} tiene el coliseo de ópera más antiguo de España, el **Teatro Principal de Maó**, cuya construcción fue impulsada por el cantante, literato y arquitecto italiano Giovanni Palagi, que ofrece una densa programación cultural. Otra opción es visitar el **Museo de Menorca** en Maó, el Museo Municipal de Ciutadella o Can’Oliver, una antigua casa señorial de Maó que acoge la colección de arte Hernández Sanz-Hernández Mora, de los siglos XVIII y XIX.
 
 No nos olvidemos tampoco de su historia milenaria, que le permite tener un patrimonio arqueológico que es único en el mundo, hasta el punto de que contabiliza dos construcciones por kilómetro cuadrado. Son más de 1.500 monumentos de la prehistoria –navetas, talayots, taulas, hipogeos, etc– que aspiran a formar parte de la lista del Patrimonio Mundial de la Unesco. Como muestra, podemos citar los yacimientos de Trepucó, Talatí de Dalt, Cornia Nou o la Naveta des Tudons.
 

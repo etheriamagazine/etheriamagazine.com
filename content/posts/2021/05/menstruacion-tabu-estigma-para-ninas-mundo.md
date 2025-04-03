@@ -1,7 +1,7 @@
 ---
 title: "Menstruar, una cuestión de derechos humanos"
 date: 2021-05-13
-coverImage: https://fotos.etheriamagazine.com/2021/05/higiene-menstrual-plan-internacional.jpg
+cover: https://fotos.etheriamagazine.com/2021/05/higiene-menstrual-plan-internacional.jpg
 categories: 
   - bienestar
 destino: 
@@ -41,11 +41,11 @@ catalizar la acción hacia un mundo en el que las mujeres y las niñas ya no sea
 estigmatizadas debido a sus ciclos. En 2020, el hashtag fue #JusticiaMenstrual. 
 
 “La higiene menstrual es vital para el empoderamiento y el bienestar de mujeres y niñas 
-en todo el mundo”, asegura Eloisa Molina, Coordinadora de Comunicación de la ONG [WorldVision](https://www.worldvision.es/) 
-en España, que explica que “es algo más que el acceso a toallas sanitarias y baños 
-apropiados, aunque eso también es muy importante. También se trata de garantizar que las 
-mujeres y las niñas vivan en un entorno que valore y respalde su capacidad para manejar 
-su menstruación con dignidad”. 
+en todo el mundo”, asegura Eloisa Molina, Coordinadora de Comunicación de la ONG 
+[WorldVision](https://www.worldvision.es/) en España, que explica que “es algo más que 
+el acceso a toallas sanitarias y baños apropiados, aunque eso también es muy importante. 
+También se trata de garantizar que las mujeres y las niñas vivan en un entorno que 
+valore y respalde su capacidad para manejar su menstruación con dignidad”. 
 
 ![higiene menstrual en africa](https://fotos.etheriamagazine.com/2021/05/higiene-menstrual-plan-internacional.jpg "© Plan Internacional ha repartido kits en Malawi.")
 
@@ -85,10 +85,10 @@ escuela.
 
 La menstruación es una amenaza oculta para la educación de las niñas en edad escolar: 
 **más del 40% no asiste a clase** **cuando tiene el periodo**. Con el objetivo de 
-mejorar la permanencia de las niñas en la escuela, el programa DREAMS de [WorldVision](https://www.worldvision.es/) 
-ofrece soluciones sostenibles a la higiene menstrual e imparte formaciones para 
-deconstruir actitudes, creencias y puntos de vista sobre la menstruación, acabar con los 
-tabúes y naturalizar el ciclo menstrual. 
+mejorar la permanencia de las niñas en la escuela, el programa DREAMS de 
+[WorldVision](https://www.worldvision.es/) ofrece soluciones sostenibles a la higiene 
+menstrual e imparte formaciones para deconstruir actitudes, creencias y puntos de vista 
+sobre la menstruación, acabar con los tabúes y naturalizar el ciclo menstrual. 
 
 “Es **un pequeño acto de liberación**, ven que pueden seguir adelante”, asegura Eloisa 
 Molina, coordinadora de Comunicación de la ONG en España, que explica que se trata de 
@@ -142,11 +142,9 @@ menstruación es una cuestión de derechos humanos.
 
 ### También te puede interesar...
 
-[Endometriosis, una enfermedad que no es solo 
-ginecológica](https://etheriamagazine.com/2021/03/15/que-es-endometriosis-sintomas-y-cuidados/). 
+{{< reflink path=posts/2021/03/que-es-endometriosis-sintomas-y-cuidados >}}. 
 
-[Personas Altamente Sensibles. ¿Es realmente un don la 
-sensibilidad?](https://etheriamagazine.com/2020/11/25/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad/) 
+{{< reflink 
+path=posts/2020/11/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}} 
 
-[El ayuno, una práctica milenaria de purificación que beneficia tu 
-salud](https://etheriamagazine.com/2021/02/17/beneficios-del-ayuno-intermitente-para-la-salud/).
+{{< reflink path=posts/2021/02/beneficios-del-ayuno-intermitente-para-la-salud >}}.

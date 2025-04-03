@@ -1,7 +1,7 @@
 ---
 title: "Descubre el Getxo más cultural, 15 lugares imprescindibles en tu agenda"
 date: 2022-10-10
-coverImage: https://fotos.etheriamagazine.com/2022/10/paseo-grandes-villas-getxo.jpg
+cover: https://fotos.etheriamagazine.com/2022/10/paseo-grandes-villas-getxo.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pilar Ortega
 ---
 
-Pocos lugares como Getxo reúnen en un territorio tan pequeño una diversidad de 
+**Pocos lugares como Getxo reúnen en un territorio tan pequeño una diversidad de 
 atractivos turísticos tan espectacular. Es uno de esos “place to be” del norte de España 
 para disfrutar y volver, porque siempre nos deja con ganas de más. Te vamos a desvelar 
-los 15 lugares imprescindibles de Getxo con un toque cultural. 
+los 15 lugares imprescindibles de Getxo con un toque cultural.** 
 
 ![GetxoFolk, una de las citas imprescindibles en Getxo.](https://fotos.etheriamagazine.com/2022/10/getxo-folk.jpg "GetxoFolk, una de las citas imprescindibles en Getxo.")
 
@@ -129,8 +129,8 @@ cómodo y programa un bonito paseo para recrear la vista entre mansiones y palac
 desde el Puente Bizkaia hasta la playa de Ereaga, mientras la brisa te acaricia el 
 rostro. 
 
-\*No te pierdas el artículo: [Un paseo por las Grandes Mansiones y Villas de 
-Getxo](https://etheriamagazine.com/2023/11/02/grandes-villas-mansiones-getxo/). 
+\*No te pierdas el artículo: {{< reflink 
+path=posts/2023/11/grandes-villas-mansiones-getxo >}}. 
 
 ![Paseo de las Grandes Villas, un itinerario muy recomendable en Getxo.](https://fotos.etheriamagazine.com/2022/10/paseo-grandes-villas-getxo.jpg "Paseo de las Grandes Villas, un itinerario muy recomendable en Getxo.")
 
@@ -277,11 +277,9 @@ tendrá lugar en **Muxikebarri**, el Centro de Arte, Cultura y Congresos de Getx
 
 **También te puede interesar...** 
 
-[10 pasos sostenibles para visitar 
-Getxo](https://etheriamagazine.com/2022/08/22/como-ser-sostenible-en-getxo/). 
+{{< reflink path=posts/2022/08/como-ser-sostenible-en-getxo >}}. 
 
-[Getxo, la escapada marinera con mejor rollo de 
-Bizkaia](https://etheriamagazine.com/2022/07/20/que-ver-getxo-visitas-marineras/). 
+{{< reflink path=posts/2022/07/que-ver-getxo-visitas-marineras >}}. 
 
-[12 planes en Getxo con amigas para disfrutar al estilo 
-vasco](https://etheriamagazine.com/2021/06/14/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco/).
+{{< reflink 
+path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.

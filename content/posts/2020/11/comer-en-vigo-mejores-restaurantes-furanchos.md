@@ -1,7 +1,7 @@
 ---
 title: "Vigo, ¿por qué estás tan rematadamente bueno?"
 date: 2020-11-24
-coverImage: https://fotos.etheriamagazine.com/2020/11/Viaje-gastronomico-vigo.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/Viaje-gastronomico-vigo.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -46,17 +46,17 @@ Pedra](https://goo.gl/maps/hHJWz7JnAEtDqNjBA) sirve grandes dosis de marisco en 
 blanquiazul **vajilla de Santa Clara**, mientras la ‘carne o caldeiro’ triunfa en su 
 reverso cárnico. 
 
-📌¿Te apetece hacer un free tour en Vigo? [Apúntate](https://www.civitatis.com/es/vigo/free-tour-vigo/?aid=10211) 
-aquí. 
+📌¿Te apetece hacer un free tour en Vigo? 
+[Apúntate](https://www.civitatis.com/es/vigo/free-tour-vigo/?aid=10211) aquí. 
 
 ![taberna a mina en vigo](https://fotos.etheriamagazine.com/2020/11/Vigo-taberna-a-mina.jpg "Exterior de © Taberna A Mina, en la rúa San Vicente.")
 
-El regreso de chefs que se han curtido en el extranjero como Juan Manuel de la Cruz, de [Casa 
-Obdulia](https://goo.gl/maps/x3EwJAfigpXv8GCo6), y la frescura de jóvenes como Adrián 
-Albino, de [Niño Corvo](http://www.xn--niocorvo-e3a.com/), ha aportado un aire renovado 
-al plantel gastronómico vigués. Prueba de ello: tomarse un exótico Bao Bil de [Baiuca](https://www.vivevigo.info/baiuca) 
-sobre un poyete de la rúa Menéndez Núñez se ha convertido en una parada más del 
-aperitivo en el casco. 
+El regreso de chefs que se han curtido en el extranjero como Juan Manuel de la Cruz, de 
+[Casa Obdulia](https://goo.gl/maps/x3EwJAfigpXv8GCo6), y la frescura de jóvenes como 
+Adrián Albino, de [Niño Corvo](http://www.xn--niocorvo-e3a.com/), ha aportado un aire 
+renovado al plantel gastronómico vigués. Prueba de ello: tomarse un exótico Bao Bil de 
+[Baiuca](https://www.vivevigo.info/baiuca) sobre un poyete de la rúa Menéndez Núñez se 
+ha convertido en una parada más del aperitivo en el casco. 
 
 Donde parece que no pasa el tiempo —tanto por sus precios como por sus elaboraciones— es 
 en el bar [O Porco,](https://goo.gl/maps/pepQvezwzMozWv7o7) un pequeño local de toda la 
@@ -88,9 +88,9 @@ orientes mejor).
 No es lo mismo recorrer el Casco Vello, que el centro de Vigo. El Casco Vello pondera la 
 arquitectura gallega tradicional, empedrada y con toques medievales, y el **centro de 
 Vigo** representa el esplendor señorial y los ensanches típicos del siglo XIX. Sus 
-calles alternan comercios de marcas internacionales con galerías de arte cosmopolita (el [Museo 
-MARCO](http://www.marcovigo.com/), la [Fundación Barrié](https://fundacionbarrie.org/), 
-la [Casa das Artes](https://laxeiro.org/)). 
+calles alternan comercios de marcas internacionales con galerías de arte cosmopolita (el 
+[Museo MARCO](http://www.marcovigo.com/), la [Fundación 
+Barrié](https://fundacionbarrie.org/), la [Casa das Artes](https://laxeiro.org/)). 
 
 La figura de un enorme **Sireno** traza lo alto de la Praza Porta do Sol, y el 
 **Dinoseto** —un enorme seto con forma de dinosaurio— protagoniza las fotografías más 
@@ -107,12 +107,13 @@ estrella Michelin y dos Soles Repsol.
 
 ![platos del restaurante maruja limon](https://fotos.etheriamagazine.com/2020/11/vigo-restaurante-maruja-limon.jpg "Pieza de cerdo a la brasa con glaseado agridulce, yogur de cabra y pepino (Izq). Jurel a la brasa con soja fermentada, cacahuete y chile (Dcha). © Maruja Limón")
 
-En las inmediaciones del náutico, en la rúa de Luis Taboada, [Othilio](http://theothiliobar.blogspot.com/) 
-ofrece coquetas elaboraciones en su local a juego. No te pierdas su **bocadillo de 
-churrasco ibérico** con pimientos asados y rúcula, y desafía la nostalgia probando los 
-**Othilitos**, sus pastelitos inspirados en los míticos Phoskitos. Son tan buenos los 
-bocadillos de Othilio, que enfrente cuentan con [Melitón](https://goo.gl/maps/R5z5EfEdHbyQn6vi7), 
-su versión especializada en bocatas de lo más atrevidos. [Valdevez](https://www.facebook.com/valdevezvigo/), 
+En las inmediaciones del náutico, en la rúa de Luis Taboada, 
+[Othilio](http://theothiliobar.blogspot.com/) ofrece coquetas elaboraciones en su local 
+a juego. No te pierdas su **bocadillo de churrasco ibérico** con pimientos asados y 
+rúcula, y desafía la nostalgia probando los **Othilitos**, sus pastelitos inspirados en 
+los míticos Phoskitos. Son tan buenos los bocadillos de Othilio, que enfrente cuentan 
+con [Melitón](https://goo.gl/maps/R5z5EfEdHbyQn6vi7), su versión especializada en 
+bocatas de lo más atrevidos. [Valdevez](https://www.facebook.com/valdevezvigo/), 
 [Juanita](https://www.juanitagastrobar.es/) y [Picadillo](http://www.picadillo.eu/) 
 siguen el mismo estilo de hostelería _cuqui_, pero en el Casco Vello. 
 
@@ -169,9 +170,8 @@ Luis](https://www.tripadvisor.es/Restaurant_Review-g1078787-d3179197-Reviews-Res
 en Vilaboa, que cosechó tantos éxitos en su etapa como loureiro, que hoy en día se 
 dedica por completo a la hostelería. 
 
-📌 Si vas a las Rías Baixas en familia, apunta estos [ocho divertidos planes con niños 
-en la Costa de 
-Pontevedra](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/). 
+📌 Si vas a las Rías Baixas en familia, apunta estos {{< reflink 
+path=posts/2019/10/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja >}}. 
 
 ![cocido en un furancho de vigo](https://fotos.etheriamagazine.com/2020/11/viaje-vigo-cocido-en-san-blas.jpg "Así son las raciones de cocido de los furanchos. © Turismo de Vigo")
 

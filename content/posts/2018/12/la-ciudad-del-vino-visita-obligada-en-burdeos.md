@@ -1,7 +1,7 @@
 ---
 title: "La Ciudad del Vino, visita obligada en Burdeos"
 date: 2018-12-12
-coverImage: https://fotos.etheriamagazine.com/2018/11/Ciudad-Vino-Burdeos-1.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/Ciudad-Vino-Burdeos-1.jpg
 categories: 
   - gourmet
   - inspiración
@@ -12,9 +12,9 @@ authors:
   - Pepa G. Marín
 ---
 
-Sorprendente por su arquitectura y temática, La Ciudad del Vino (La Cité du Vin) brinda 
-al viajero que visita Burdeos la oportunidad de ampliar su conocimiento sobre el vino al 
-tiempo que goza con la imagen de sus sinuosas formas. 
+**Sorprendente por su arquitectura y temática, La Ciudad del Vino (La Cité du Vin) 
+brinda al viajero que visita Burdeos la oportunidad de ampliar su conocimiento sobre el 
+vino al tiempo que goza con la imagen de sus sinuosas formas.** 
 
 ![La Ciudad del Vino se alza junto al río Garona con una arquitectura sorprendente (Burdeos).](https://fotos.etheriamagazine.com/2018/12/Cite-du-Vin-Credit-Arnaud-Bertrande_format_1600x900.jpg "La Ciudad del Vino se alza junto al río Garona con una arquitectura sorprendente (Burdeos). © Arnaud Bertrande")
 

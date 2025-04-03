@@ -1,7 +1,7 @@
 ---
 title: "Dos pueblos de Burgos con aroma de lavanda: Caleruega y Cilleruelo de Arriba"
 date: 2024-06-11
-coverImage: https://fotos.etheriamagazine.com/2024/06/Campos-lavanda-Caleruega.jpg
+cover: https://fotos.etheriamagazine.com/2024/06/Campos-lavanda-Caleruega.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -122,18 +122,15 @@ abiertas. Esta es una buenísima oportunidad para conocer de cerca el proceso de
 extracción de los aceites de la lavanda con los que luego se elaboran desde ginebras y 
 licores hasta productos de alta cosmética natural como aceites, aguas florales, 
 hidratantes, perfumes, jabones… Todas las actividades requieren de reserva previa en el 
-609 923 363. Reducir el estrés y la ansiedad entre los campos de lavanda de [Burgos](https://turismoburgos.org/) 
-nunca ha sido tan agradable, ¿no crees? 
+609 923 363. Reducir el estrés y la ansiedad entre los campos de lavanda de 
+[Burgos](https://turismoburgos.org/) nunca ha sido tan agradable, ¿no crees? 
 
 ![Visita a la destilería Aromáticas Cynol.](https://fotos.etheriamagazine.com/2024/06/visita-aromaticas-cynol.jpg "Visita a la destilería Aromáticas Cynol.")
 
 **También en Etheria Magazine** 
 
-[Todo lo que no puedes perderte en un recorrido por la catedral de 
-Burgos](https://etheriamagazine.com/2024/05/16/catedral-de-burgos-visita/). 
+{{< reflink path=posts/2024/05/catedral-de-burgos-visita >}}. 
 
-[La provincia de Burgos con niños, planes rurales y activos en 
-familia](https://etheriamagazine.com/2022/10/05/provincia-burgos-con-ninos/). 
+{{< reflink path=posts/2022/10/provincia-burgos-con-ninos >}}. 
 
-[Burgos subterráneo, planes alucinantes en cuevas, minas y canteras para este 
-verano](https://etheriamagazine.com/2022/06/24/burgos-subterraneo/).
+{{< reflink path=posts/2022/06/burgos-subterraneo >}}.

@@ -1,7 +1,7 @@
 ---
 title: "MeToo Yogui, cuando el yoga se utiliza para cometer abusos"
 date: 2021-06-18
-coverImage: https://fotos.etheriamagazine.com/2021/06/posturas-yoga.jpg
+cover: https://fotos.etheriamagazine.com/2021/06/posturas-yoga.jpg
 categories: 
   - bienestar
 destino: 
@@ -194,11 +194,9 @@ el mundo del yoga no es ni mejor ni peor”.
 
 ### También te puede interesar...
 
-[El ayuno, una práctica milenaria de purificación que beneficia tu 
-salud](https://etheriamagazine.com/2021/02/17/beneficios-del-ayuno-intermitente-para-la-salud/). 
+{{< reflink path=posts/2021/02/beneficios-del-ayuno-intermitente-para-la-salud >}}. 
 
-[Barra libre de ansiolíticos y antidepresivos, ¿se medicalizan los problemas 
-sociales?](https://etheriamagazine.com/2021/04/14/ansioliticos-y-antidepresivos-no-resuelven-los-problemas/) 
+{{< reflink path=posts/2021/04/ansioliticos-y-antidepresivos-no-resuelven-los-problemas 
+>}} 
 
-[Endometriosis, una enfermedad que no es solo 
-ginecológica](https://etheriamagazine.com/2021/03/15/que-es-endometriosis-sintomas-y-cuidados/).
+{{< reflink path=posts/2021/03/que-es-endometriosis-sintomas-y-cuidados >}}.

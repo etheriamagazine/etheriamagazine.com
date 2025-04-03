@@ -1,7 +1,7 @@
 ---
 title: "Semana de la Castaña en Jubrique, sabores y paseos otoñales"
 date: 2020-11-07
-coverImage: https://fotos.etheriamagazine.com/2020/11/Jubrique-malaga.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/Jubrique-malaga.jpg
 categories: 
   - ocio
 destino: 
@@ -68,8 +68,9 @@ Verde](https://molienda.es/). Y a los que sean más de salado les sugerimos prob
 **embutidos y jamones ibéricos de castaña** que hacen en [Dehesa de los 
 Monteros](https://dehesalosmonteros.com/inicio) o en [Jamones Alto 
 Genal](https://sites.google.com/site/jamonesaltogenal/jamones-alto-genal/proceso/productos) 
-y cuya producción va directa al restaurante El Pimpi de [Málaga](https://etheriamagazine.com/2018/12/06/fin-de-semana-con-amigas-en-malaga/) 
-o a La Casa del Jamón de Ronda. 
+y cuya producción va directa al restaurante El Pimpi de {{< reflink 
+path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}} o a La Casa del Jamón de 
+Ronda. 
 
 ![jubrique en valle de genal de malaga](https://fotos.etheriamagazine.com/2020/11/pueblo-Jubrique-malaga.jpg "Jubrique, en el Valle del Genal (Málaga).")
 
@@ -134,5 +135,4 @@ cómo integrar la castaña en un menú de tres platos.
 
 ### También te puede interesar...
 
-• [10 escapadas en Andalucía para el 
-otoño](https://etheriamagazine.com/2020/11/06/10-escapadas-fin-de-semana-andalucia/).
+- {{< reflink path=posts/2020/11/10-escapadas-fin-de-semana-andalucia >}}.

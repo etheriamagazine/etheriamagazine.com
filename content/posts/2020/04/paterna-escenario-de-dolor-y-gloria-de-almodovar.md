@@ -1,7 +1,7 @@
 ---
 title: "Paterna, escenario de ‘Dolor y gloria’ de Almodóvar"
 date: 2020-04-06
-coverImage: https://fotos.etheriamagazine.com/2020/03/turismo-cine-almodovar-paterna.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/turismo-cine-almodovar-paterna.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,7 @@ authors:
   - Eva Madruga
 ---
 
-El director manchego Pedro Almodóvar ambientó parte de su aclamado filme, ‘Dolor y gloria’, en las cuevas-vivienda de Paterna. El trabajo, lleno de experiencias personales y referencias a su propia carrera artística, ha colocado en el mapa viajero este municipio valenciano.
-
-  
+El director manchego Pedro Almodóvar ambientó parte de su aclamado filme, ‘Dolor y gloria’, en las cuevas-vivienda de Paterna. El trabajo, lleno de experiencias personales y referencias a su propia carrera artística, ha colocado en el mapa viajero este municipio valenciano.****
 
 ![turismo de cine, dolor y gloria, ruta paterna, ruta almodovar](https://fotos.etheriamagazine.com/2020/03/turismo-cine-almodovar-torre.jpg "Localización junto a la torre de Paterna. © O.T. Paterna")
 
@@ -102,14 +100,10 @@ Si no viste esta película en el cine, ahora la puedes disfrutar en **Netflix**.
 
 ### Más rutas de cine que te pueden gustar...
 
-'[Localizaciones de La Catedral del 
-Mar](https://etheriamagazine.com/2018/08/01/turismo-de-cine-catedral-del-mar/)'. 
+'{{< reflink path=posts/2018/08/turismo-de-cine-catedral-del-mar >}}'. 
 
-'[Jamaica, plató de 
-cine](https://etheriamagazine.com/2019/03/15/jamaica-turismo-viajes-de-cine/)'. 
+'{{< reflink path=posts/2019/03/jamaica-turismo-viajes-de-cine >}}'. 
 
-'[Un viaje al México de 
-Coco](https://etheriamagazine.com/2018/05/28/en-el-mexico-de-coco/)' . 
+'{{< reflink path=posts/2018/05/en-el-mexico-de-coco >}}' . 
 
-'[Londres de Mary 
-Poppins](https://etheriamagazine.com/2019/01/22/viajes-cine-londres-de-mary-poppins/)'.
+'{{< reflink path=posts/2019/01/viajes-cine-londres-de-mary-poppins >}}'.

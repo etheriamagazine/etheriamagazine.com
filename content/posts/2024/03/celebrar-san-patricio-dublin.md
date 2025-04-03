@@ -1,7 +1,7 @@
 ---
 title: "Irlanda brinda con Guinness en San Patricio y también durante todo el año"
 date: 2024-03-15
-coverImage: https://fotos.etheriamagazine.com/2020/02/Temple-Bar-Dublin.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/Temple-Bar-Dublin.jpg
 categories: 
   - viajar-con-amigas
 destino: 

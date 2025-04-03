@@ -1,7 +1,7 @@
 ---
 title: "Claves básicas para elegir la mejor maleta para tu viaje"
 date: 2019-06-05
-coverImage: https://fotos.etheriamagazine.com/2019/06/como-elegir-maleta.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/como-elegir-maleta.jpg
 categories: 
   - inspiración
   - qué-llevar-en-la-maleta
@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-Maletas con 2 o 4 ruedas, bolsas de viaje, mochilas, portatrajes... Aunque la función es 
-la misma, algunas te convienen más que otras según el tipo de viaje que vayas a 
+**Maletas con 2 o 4 ruedas, bolsas de viaje, mochilas, portatrajes... Aunque la función 
+es la misma, algunas te convienen más que otras según el tipo de viaje que vayas a 
 realizar. Las hemos dividido en varias categorías para que te resulte más sencillo 
-elegir la mejor maleta para tu próximo viaje. 
+elegir la mejor maleta para tu próximo viaje.** 
 
 ![maletas y mochilas de viaje](https://fotos.etheriamagazine.com/2019/06/como-elegir-maleta.jpg "Elegir la maleta es el primer paso de comenzar a prepara un viaje.")
 
@@ -36,7 +36,8 @@ también, que probablemente te desplazarás en autobuses, camionetas, etc. por l
 necesitas un material muy resistente. 
 
 **Propuesta de Etheria:** Modelo Doshwin de 70 litros, muy capaz y puedes elegir entre 
-varios colores (negro, azul, rojo y verde). Disponible en [Amazon](https://amzn.to/3RsoHqc). 
+varios colores (negro, azul, rojo y verde). Disponible en 
+[Amazon](https://amzn.to/3RsoHqc). 
 
 ![mochila de viaje azul](https://fotos.etheriamagazine.com/2019/06/maleta-viaje-mochila-trekking.jpg "Mochila de viaje de 70 litros de capacidad disponible en © Amazon.")
 
@@ -51,7 +52,8 @@ Otro factor importante es el peso, con la aerolínea anterior es de 10 kg. Iberi
 de una App que escanea tu maleta y te dice si el tamaño está permitido en cabina. 
 
 **Propuestas de Etheria**: La maleta de cabina de American Tourister, con cuatro ruedas, 
-muy bien acabada y disponible en varios colores. Disponible en [Amazon](https://amzn.to/3LvRaYs). 
+muy bien acabada y disponible en varios colores. Disponible en 
+[Amazon](https://amzn.to/3LvRaYs). 
 
 ![Maleta de cabina de American Tourister en verde agua](https://fotos.etheriamagazine.com/2019/06/maleta-cabina-american-tourister.jpg "Maleta de cabina de American Tourister. © Amazon.")
 
@@ -73,8 +75,8 @@ pero no hay muchas más razones para elegirlas.
 
 **Propuestas de Etheria**: Roncato ofrece ligeras y resistentes. En este caso nos ha 
 gustado la Roncato Flight DLX de gran tamaño (79 x 50 x 29-32 cm). Eso sí, tendrás que 
-tener cuidado si viajas en avión para no pasarte con el peso. Disponible en [Amazon](https://amzn.to/46mAn1N) 
-en varios colores. 
+tener cuidado si viajas en avión para no pasarte con el peso. Disponible en 
+[Amazon](https://amzn.to/46mAn1N) en varios colores. 
 
 ![Maleta Roncato fucsia](https://fotos.etheriamagazine.com/2019/06/maleta-roncato-fucsia.jpg "Maleta Roncato fucsia disponible en © Amazon.")
 
@@ -108,8 +110,9 @@ aerolíneas).
 En los últimos años se han comenzado a vender maletas-patinete que también pueden ser 
 útiles cuando vas apurada de tiempo y debes salvar grandes distancias entre terminales. 
 
-**Propuestas de Etheria**: Maleta-patinete de Orpersist (en [Amazon](https://amzn.to/3t7Lopo)) 
-y portatrajes de Saint Maniero ([en Amazon).](https://amzn.to/2JSyEeD) 
+**Propuestas de Etheria**: Maleta-patinete de Orpersist (en 
+[Amazon](https://amzn.to/3t7Lopo)) y portatrajes de Saint Maniero ([en 
+Amazon).](https://amzn.to/2JSyEeD) 
 
 ![Trolley-patinete y portatrajes negro](https://fotos.etheriamagazine.com/2019/06/maleta-patinete-portatrajes.jpg "Trolley-patinete y portatrajes, disponibles en © Amazon.")
 
@@ -119,15 +122,13 @@ Si en tu viaje quieres llevar una maleta con ruedas y eres de la comprometidas c
 medio ambiente, Samsonite ha fabricado su primera colección de maletas realizadas a 
 partir de residuos plásticos. 
 
-**Propuestas de Etheria**: El modelo S'Cure ECO de Samsonite se encuentra disponible en [Amazon](https://amzn.to/3PpQOUq) 
-en varios tamaños. 
+**Propuestas de Etheria**: El modelo S'Cure ECO de Samsonite se encuentra disponible en 
+[Amazon](https://amzn.to/3PpQOUq) en varios tamaños. 
 
 ![maleta azul de Samsonite de plastico reciclado](https://fotos.etheriamagazine.com/2019/06/maleta-sostenible-samsonite.jpg "Modelo ecosostenible de Samsonite que se puede comprar en © Amazon.")
 
 📌 **También te puede interesar:** 
 
-[Qué llevar en cabina en un vuelo largo, 12 elementos 
-básicos](https://etheriamagazine.com/2023/07/14/que-llevar-en-cabina/) 
+{{< reflink path=posts/2023/07/que-llevar-en-cabina >}} 
 
-[7 neceseres para mujeres 
-viajeras](https://etheriamagazine.com/2019/10/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras/)
+{{< reflink path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}}

@@ -1,7 +1,7 @@
 ---
 title: "El Teatro Flamenco Madrid celebra el talento femenino con dos espectáculos por el Día de la Mujer"
 date: 2025-03-07
-coverImage: https://fotos.etheriamagazine.com/2025/03/portada-flamenco.jpg
+cover: https://fotos.etheriamagazine.com/2025/03/portada-flamenco.jpg
 categories: 
   - ocio
 destino: 
@@ -58,9 +58,9 @@ vanguardia.
 Las entradas para ambos espectáculos están disponibles en la web del Teatro Flamenco 
 Madrid, con precios desde 29 euros por persona. El festival se celebra del 6 al 30 de 
 marzo, con una variada programación que sitúa a las mujeres artistas en el centro de la 
-escena flamenca de la capital. Más información y venta de entradas: [teatroflamencomadrid.com](http://teatroflamencomadrid.com). 
+escena flamenca de la capital. Más información y venta de entradas: 
+[teatroflamencomadrid.com](http://teatroflamencomadrid.com). 
 
 **También te puede interesar...** 
 
-[La ruta de Lola Flores en Madrid a tu aire (con plano 
-incluido)](https://etheriamagazine.com/2024/04/11/ruta-lola-flores-en-madrid/).
+{{< reflink path=posts/2024/04/ruta-lola-flores-en-madrid >}}.

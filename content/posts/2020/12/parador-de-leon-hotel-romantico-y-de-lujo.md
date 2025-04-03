@@ -1,7 +1,7 @@
 ---
 title: "El renovado Parador de León, un hotel de lujo para espíritus ilustrados"
 date: 2020-12-22
-coverImage: https://fotos.etheriamagazine.com/2020/12/Parador-leon-fachada.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/Parador-leon-fachada.jpg
 categories: 
   - hoteles
 destino: 
@@ -157,9 +157,8 @@ Marcos, 7. León. Tel. +34 987237300 Precio de habitación doble para dos person
 
 ### También te puede interesar...
 
-[16 secretos que desconoces de la milenaria ciudad de 
-León.](https://etheriamagazine.com/2020/12/16/16-lugares-secretos-y-leyendas-de-leon-capital/) 
+{{< reflink path=posts/2020/12/16-lugares-secretos-y-leyendas-de-leon-capital >}} 
 
-[48 horas en León](https://etheriamagazine.com/2018/09/27/48-horas-en-leon/). 
+{{< reflink path=posts/2018/09/48-horas-en-leon >}}. 
 
 Fotografías cedidas por © Paradores.

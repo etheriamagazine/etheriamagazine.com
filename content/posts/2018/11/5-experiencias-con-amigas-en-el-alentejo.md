@@ -1,7 +1,7 @@
 ---
 title: "5 experiencias originales en el Alentejo"
 date: 2018-11-08
-coverImage: https://fotos.etheriamagazine.com/2018/11/museo-cafe-alentejo-portugal-e1658936074607.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/museo-cafe-alentejo-portugal-e1658936074607.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -184,15 +184,12 @@ cerdo negro.
 
 ![Enoteca de Évora.](https://fotos.etheriamagazine.com/2018/11/enoteca-evora.jpg "Enoteca de Évora.")
 
-• Más información [Turismo de Alentejo](http://www.visitalentejo.pt/es/) 
+- Más información [Turismo de Alentejo](http://www.visitalentejo.pt/es/) 
 
 ### También en Etheria Magazine...
 
-[WOW Oporto, el mayor barrio gastronómico y cultural de 
-Portugal](https://etheriamagazine.com/2022/03/14/wow-oporto-barrio-gastronomico-cultural/). 
+{{< reflink path=posts/2022/03/wow-oporto-barrio-gastronomico-cultural >}}. 
 
-[Valle del Côa. 8 experiencias en el corazón de 
-Portugal](https://etheriamagazine.com/2020/07/17/valle-del-coa-8-experiencias-en-la-frontera-portugal/). 
+{{< reflink path=posts/2020/07/valle-del-coa-8-experiencias-en-la-frontera-portugal >}}. 
 
-[9 planes divertidos en el Centro de Portugal con 
-niños](https://etheriamagazine.com/2019/06/28/planes-divertidos-viajes-familia-portugal/).
+{{< reflink path=posts/2019/06/planes-divertidos-viajes-familia-portugal >}}.

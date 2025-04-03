@@ -1,7 +1,7 @@
 ---
 title: "5 datos para que te convenzas de que Halloween es irlandés"
 date: 2021-10-23
-coverImage: https://fotos.etheriamagazine.com/2021/10/Irlanda-halloween-Fuegos-de-Samhain.jpg
+cover: https://fotos.etheriamagazine.com/2021/10/Irlanda-halloween-Fuegos-de-Samhain.jpg
 categories: 
   - inspiración
   - ocio
@@ -89,11 +89,8 @@ la tradición católica de rezar por los muertos el Día de Todos los Santos.
 
 También te puede interesar: 
 
-[Irlanda: en San Patricio se brinda con 
-Guinness](https://etheriamagazine.com/2019/03/04/celebrar-san-patricio-dublin/) 
+{{< reflink path=posts/2024/03/celebrar-san-patricio-dublin >}} 
 
-[Juego de Tronos en Irlanda del 
-Norte](https://etheriamagazine.com/2018/07/02/juego-de-tronos-en-irlanda-del-norte/) 
+{{< reflink path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte >}} 
 
-[Irlanda del Norte: 6 visitas imprescindibles y 2 lugares 
-secretos](https://etheriamagazine.com/2021/05/31/8-visitas-increibles-en-irlanda-del-norte/)
+{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}}

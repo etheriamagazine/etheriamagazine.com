@@ -1,7 +1,7 @@
 ---
 title: "Piscinas naturales de la Sierra de Francia, un chapuzón entre montañas"
 date: 2023-08-28
-coverImage: https://fotos.etheriamagazine.com/2023/08/piscina-natural-montemayor-rio-salamanca.jpg
+cover: https://fotos.etheriamagazine.com/2023/08/piscina-natural-montemayor-rio-salamanca.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Cuando la orilla del mar no está cerca y apetece refrescarse, una de las propuestas más 
-apetecibles en Salamanca son las pozas, ríos y piscinas naturales de la Sierra de 
+**Cuando la orilla del mar no está cerca y apetece refrescarse, una de las propuestas 
+más apetecibles en Salamanca son las pozas, ríos y piscinas naturales de la Sierra de 
 Francia. Esta tierra rica en cultura, naturaleza, gastronomía y vinos, es también un 
-planazo para una escapada de interior en verano. 
+planazo para una escapada de interior en verano.** 
 
 ![Piscina natural de Montemayor del Río.](https://fotos.etheriamagazine.com/2023/08/piscina-natural-montemayor-rio-salamanca.jpg "Piscina natural de Montemayor del Río. © Pepa García")
 
@@ -26,9 +26,8 @@ forjando parajes de gran belleza. Algunos de éstos se sitúan en entornos donde
 merenderos e incluso servicio de restaurante, una ocasión excepcional para degustar la 
 sabrosa cocina serrana y sus vinos realizados con la uva autóctona, la rufete. 
 
-📍**No te pierdas el artículo:** [Ruta del Vino de la Sierra de Francia, un brindis con 
-amigas en 
-Salamanca](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/). 
+📍**No te pierdas el artículo:** {{< reflink 
+path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}. 
 
 ## Piscinas naturales de la Sierra de Francia
 
@@ -145,5 +144,4 @@ calidad y a precios asequibles.
 
 **Sigue leyendo...** 
 
-[El Bordado serrano, candidato a Bien de Interés Cultural 
-Inmaterial](https://etheriamagazine.com/2022/01/14/bordado-serrano-bien-interes-cultural/).
+{{< reflink path=posts/2022/01/bordado-serrano-bien-interes-cultural >}}.

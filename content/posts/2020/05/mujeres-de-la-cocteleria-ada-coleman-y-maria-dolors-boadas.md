@@ -1,7 +1,7 @@
 ---
 title: "Ada Coleman y María Dolors Boadas, referentes de la igualdad en la mixología"
 date: 2020-05-12
-coverImage: https://fotos.etheriamagazine.com/2020/05/coctel-hanky-panky.jpeg
+cover: https://fotos.etheriamagazine.com/2020/05/coctel-hanky-panky.jpeg
 categories: 
   - historias
   - mujeres-top
@@ -86,8 +86,7 @@ Savoy** desde su apertura hasta la actualidad.
 Hasta el día de hoy, la fórmula del ‘Hanky Panky cocktail’ se sigue respetando en la 
 carta del actual santuario del American Bar del londinense Hotel Savoy. Tras ella vino 
 el también carismático barman Harry Craddock, creador de otro de los cócteles míticos: 
-el [White 
-Lady](https://etheriamagazine.com/2020/04/03/yo-me-quedo-en-casa-que-tengo-en-mi-fondo-de-bar/)… 
+el {{< reflink path=posts/2020/04/yo-me-quedo-en-casa-que-tengo-en-mi-fondo-de-bar >}}… 
 que, a juzgar por su nombre, parece dedicado ‘Coley’. 
 
 ## El eterno legado de ‘Coley’
@@ -130,11 +129,8 @@ antes insólito en un mundo de dominio masculino ¡Chin-chin!
 
 **También te puede interesar...** 
 
-[Femme Fatale, un cóctel de 
-leyenda](https://etheriamagazine.com/2020/07/24/coctel-femme-fatale-jacky-kennedy-y-camboya/). 
+{{< reflink path=posts/2020/07/coctel-femme-fatale-jacky-kennedy-y-camboya >}}. 
 
-[Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
-‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/). 
+{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}. 
 
-[Agita la Navidad con estos libros de cócteles, el mejor regalo para quien tú 
-sabes](https://etheriamagazine.com/2020/11/23/libros-de-cocteleria-un-gran-regalo-navidad/).
+{{< reflink path=posts/2020/11/libros-de-cocteleria-un-gran-regalo-navidad >}}.

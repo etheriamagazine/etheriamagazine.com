@@ -1,7 +1,7 @@
 ---
 title: "Vuelve la ilusión de viajar, vuelven las Jornadas IATI de los Grandes Viajes"
 date: 2021-05-25
-coverImage: https://fotos.etheriamagazine.com/2021/05/cartel-iatiJGV-2021.jpg
+cover: https://fotos.etheriamagazine.com/2021/05/cartel-iatiJGV-2021.jpg
 categories: 
   - viajar-sola
   - mujeres-top
@@ -37,14 +37,12 @@ Estas jornadas tienen nombres y apellidos, y están tejidas con historias, sueñ
 anhelos y desvelos. Cada viajera tiene una motivación distinta para emprender el camino, 
 catarsis emocionales o profesionales, rebeldía ante una vida anodina o, simplemente, 
 puro deseo de descubrimiento. Si echas un vistazo al programa de las Jornadas verás 
-desde profesionales consagradas como Rosa María Calaf ([Rosa María Calaf: “Soy una 
-soñadora pragmática que ama ver, escuchar y aprender de lo distinto para contarlo 
-después”](https://etheriamagazine.com/2018/09/17/rosa-maria-calaf-es-una-mujer-etheria/), 
-entrevistada en esta casa hace varios años), hasta viajeras que se iniciaron por puro 
-placer o necesitad vital. Hemos entrevistado a algunas de las participantes, **Marta 
-Insausti**, **Cristina Pereferrer, Patricia Sazatornil**, **Clara Ruiz** y **Leti 
-Lagarda**, para conocer sus motivaciones, enseñanzas y anécdotas durante su periplo 
-viajero. 
+desde profesionales consagradas como Rosa María Calaf ({{< reflink 
+path=posts/2018/09/rosa-maria-calaf-es-una-mujer-etheria >}}, entrevistada en esta casa 
+hace varios años), hasta viajeras que se iniciaron por puro placer o necesitad vital. 
+Hemos entrevistado a algunas de las participantes, **Marta Insausti**, **Cristina 
+Pereferrer, Patricia Sazatornil**, **Clara Ruiz** y **Leti Lagarda**, para conocer sus 
+motivaciones, enseñanzas y anécdotas durante su periplo viajero. 
 
 ![Cristina Pereferrer y Patricia Sazatornil  jornada grandes viajes](https://fotos.etheriamagazine.com/2021/05/jornadas-grandes-viajes-patricia-cristina-2.jpg "Cristina Pereferrer y Patricia Sazatornil: India, Nepal, Japón, Nueva Zelanda...")
 
@@ -176,9 +174,11 @@ de viaje para que otras mujeres se lancen a viajar solas”. Entre sus sueños e
 descubriendo Oriente Medio y Latinoamérica, además de dar el salto a África en algún 
 momento. Un consejo que le gustaría dar a otras mujeres es claro y contundente: “No 
 escuches a los demás. Escúchate a ti”. Ya tiene en mente su próxima aventura: “organizar 
-expediciones para mujeres a [Irán](https://etheriamagazine.com/2019/11/06/que-ver-iran-mujer-viajar-sola-con-amigas/)”. 
+expediciones para mujeres a {{< reflink 
+path=posts/2019/11/que-ver-iran-mujer-viajar-sola-con-amigas >}}”. 
 
-Puedes seguir sus viajes en Desesperadamente Viajera y en [Instagram](https://www.instagram.com/leti_lagarda/). 
+Puedes seguir sus viajes en Desesperadamente Viajera y en 
+[Instagram](https://www.instagram.com/leti_lagarda/). 
 
 ![clara ruiz viajar corriendo](https://fotos.etheriamagazine.com/2021/05/clara-ruiz-viaja-corriendo.jpg "Clara Ruiz, viajar corriendo es su estilo de vida.")
 

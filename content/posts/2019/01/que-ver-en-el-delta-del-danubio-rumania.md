@@ -1,7 +1,7 @@
 ---
 title: "10 razones para visitar el Delta del Danubio"
 date: 2019-01-10
-coverImage: https://fotos.etheriamagazine.com/2019/01/Delta-del-danubio-etheria.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/Delta-del-danubio-etheria.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -11,11 +11,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-No pienses que el verde europeo reside solo en los parques y jardines urbanos, atrévete 
-a conocer la desembocadura del Danubio, la última frontera del continente. Nos vamos a 
-Rumanía para descubrir un universo acuático de canales y lagos, rodeados de estepa y 
-sobrevolado por miles de aves. Seas como seas, hay un motivo para viajar a este rincón 
-de Rumanía. 
+**No pienses que el verde europeo reside solo en los parques y jardines urbanos, 
+atrévete a conocer la desembocadura del Danubio, la última frontera del continente. Nos 
+vamos a Rumanía para descubrir un universo acuático de canales y lagos, rodeados de 
+estepa y sobrevolado por miles de aves. Seas como seas, hay un motivo para viajar a este 
+rincón de Rumanía.** 
 
 ![Atardecer en el Delta del Danubio (Rumanía).](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio.jpg "Atardecer en el Delta del Danubio (Rumanía).")
 
@@ -164,8 +164,6 @@ comunidades étnicas europeas.
 
 **También te puede interesar...** 
 
-[Cómo convertir una ruta en coche por Rumanía de 7 días en un viaje 
-inolvidable](https://etheriamagazine.com/2019/08/02/como-organizar-ruta-coche-rumania-con-amigos/). 
+{{< reflink path=posts/2019/08/como-organizar-ruta-coche-rumania-con-amigos >}}. 
 
-[Bucarest en 3 días, descubre todos sus 
-encantos](https://etheriamagazine.com/2019/10/18/que-ver-en-bucarest-en-2-o-3-dias/).
+{{< reflink path=posts/2019/10/que-ver-en-bucarest-en-2-o-3-dias >}}.

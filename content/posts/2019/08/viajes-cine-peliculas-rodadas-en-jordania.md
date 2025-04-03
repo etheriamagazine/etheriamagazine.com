@@ -1,7 +1,7 @@
 ---
 title: "10 películas rodadas en Jordania que no te puedes perder"
 date: 2019-08-06
-coverImage: https://fotos.etheriamagazine.com/2019/07/Apertura-Jordania-cine-Wadi-Rum.jpg
+cover: https://fotos.etheriamagazine.com/2019/07/Apertura-Jordania-cine-Wadi-Rum.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Eva Madruga
 ---
 
-'Aladdin', la adaptación en acción real de Disney, rodada en el desierto jordano de Wadi 
-Rum, nos sirve de excusa para repasar otros éxitos de taquilla que convirtieron al Reino 
-Hachemita en plató cinematográfico. Preparados, listos… ¡acción! 
+**'Aladdin', la adaptación en acción real de Disney, rodada en el desierto jordano de 
+Wadi Rum, nos sirve de excusa para repasar otros éxitos de taquilla que convirtieron al 
+Reino Hachemita en plató cinematográfico. Preparados, listos… ¡acción!** 
 
 ![En Jordania cualquier escena es perfecta para el cine.](https://fotos.etheriamagazine.com/2019/07/Apertura-Jordania-cine-Wadi-Rum.jpg "En Jordania cualquier escena es perfecta para el cine. © JTB")
 
@@ -159,8 +159,7 @@ Más información en Turismo de Jordania.
 
 **También te puede interesar...** 
 
-[Jordania, visitas y consejos imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2020/12/18/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola/). 
+{{< reflink 
+path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}. 
 
-[Qué llevar en la maleta en un viaje a 
-Jordania](https://etheriamagazine.com/2020/01/23/que-llevar-en-la-maleta-en-un-viaje-a-jordania/).
+{{< reflink path=posts/2020/01/que-llevar-en-la-maleta-en-un-viaje-a-jordania >}}.

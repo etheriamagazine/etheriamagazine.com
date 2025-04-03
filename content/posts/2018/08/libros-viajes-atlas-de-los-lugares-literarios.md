@@ -1,7 +1,7 @@
 ---
 title: "Descubre el fascinante mundo del Atlas de los lugares literarios"
 date: 2018-08-15
-coverImage: https://fotos.etheriamagazine.com/2018/07/Atlas_de_los_lugares_literarios.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/Atlas_de_los_lugares_literarios.jpg
 categories: 
   - cultura
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-El _Atlas de los lugares literarios_ es uno de esos libros que gustan por el simple 
+**El _Atlas de los lugares literarios_ es uno de esos libros que gustan por el simple 
 hecho de ser libro. Esta cuidada edición a dos tintas recoge los lugares (imaginarios o 
 no) de una serie de novelas elegidas por su autora Cris F. Oliver y que han sido 
-genialmente retratadas en las ilustraciones de Julio Fuentes. 
+genialmente retratadas en las ilustraciones de Julio Fuentes.** 
 
 ![Interior del Atlas de los lugares literarios: Londres de Orwell](https://fotos.etheriamagazine.com/2018/07/Atlas-Lugares-literarios-Orwell-1984.jpg "El Londres de '1984' de Georges Orwell (1949).")
 
@@ -81,8 +81,7 @@ Oliver. Ilustraciones: Julio Fuentes. Editorial: Montena. Precio: Versión Kindl
 
 **También te puede interesar...** 
 
-[Prepara tu viaje a Egipto con libros y 
-películas](https://etheriamagazine.com/2021/03/01/organizar-viaje-a-egipto-y-documentar-con-libros-peliculas/). 
+{{< reflink 
+path=posts/2021/03/organizar-viaje-a-egipto-y-documentar-con-libros-peliculas >}}. 
 
-[Najat Kaanache, la mejor chef de África, desvela en NAJAT los secretos de la cocina 
-marroquí](https://etheriamagazine.com/2021/02/04/najat-libro-cocina-marroqui-chef-najat-kaanache/).
+{{< reflink path=posts/2021/02/najat-libro-cocina-marroqui-chef-najat-kaanache >}}.

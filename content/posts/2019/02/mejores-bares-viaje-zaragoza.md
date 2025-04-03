@@ -1,7 +1,7 @@
 ---
 title: "Zaragoza bien vale un vermú torero... o tres"
 date: 2019-02-12
-coverImage: https://fotos.etheriamagazine.com/2019/01/Zaragoza-casa-pedro.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/Zaragoza-casa-pedro.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -171,11 +171,9 @@ width="640" height="480"></iframe>
 
 ### También te puede interesar:
 
-[8 escapadas en la provincia de 
-Zaragoza](https://etheriamagazine.com/2020/06/08/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza/) 
+{{< reflink path=posts/2020/06/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza 
+>}} 
 
-[Ruta en coche por Teruel, 10 paradas por carreteras 
-secundarias](https://etheriamagazine.com/2021/10/12/ruta-en-coche-por-teruel/) 
+{{< reflink path=posts/2021/10/ruta-en-coche-por-teruel >}} 
 
-[Los valles de la Jacetania. Descubre estas ‘joyicas’ del Pirineo 
-aragonés](https://etheriamagazine.com/2019/09/25/viaja-sola-a-los-valles-de-la-jacetania-huesca/)
+{{< reflink path=posts/2019/09/viaja-sola-a-los-valles-de-la-jacetania-huesca >}}

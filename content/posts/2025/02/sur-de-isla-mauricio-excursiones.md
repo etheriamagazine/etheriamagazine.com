@@ -1,7 +1,7 @@
 ---
 title: "Excursiones que no te puedes perder en el sur de Isla Mauricio en un viaje para dos"
 date: 2025-02-11
-coverImage: https://fotos.etheriamagazine.com/2025/02/isla-mauricio-mar.jpg
+cover: https://fotos.etheriamagazine.com/2025/02/isla-mauricio-mar.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -174,29 +174,27 @@ sol desde su cumbre, a 470 metros de altura, es único.
 
 Hay varias opciones: 
 
-• En los **viajes organizados** desde España con una agencia de viajes estas excursiones 
+- En los **viajes organizados** desde España con una agencia de viajes estas excursiones 
 se pueden contratar directamente con la agencia. 
 
-• En los **viajes por tu cuenta** tienes dos alternativas: 
+- En los **viajes por tu cuenta** tienes dos alternativas: 
 
 Recurrir a una agencia local que las organice, como por ejemplo **Isla-Mauricio** 
 (www.islas-mauricio.com), una agencia experta en toda la isla con asistencia y guías en 
 castellano. 
 
-O buscar excursiones en plataformas como **Civitatis** que ofrecen actividades como: [Trekking 
-por Chamarel y sus 
-cascadas](http://www.civitatis.com/es/rio-negro/trekking-chamarel-cascadas/?aid=10211) [Excursión 
-a la Isla de los 
-Ciervos](http://www.civitatis.com/es/trou-d-eau-douce/excursion-isla-ciervos/?aid=10211) [Senderismo 
-por el Parque Nacional Gargantas del Río 
-Negro](http://www.civitatis.com/es/rio-negro/senderismo-gargantas-rio-negro/?aid=10211) [Trekking 
-por Le Morne 
+O buscar excursiones en plataformas como **Civitatis** que ofrecen actividades como: 
+[Trekking por Chamarel y sus 
+cascadas](http://www.civitatis.com/es/rio-negro/trekking-chamarel-cascadas/?aid=10211) 
+[Excursión a la Isla de los 
+Ciervos](http://www.civitatis.com/es/trou-d-eau-douce/excursion-isla-ciervos/?aid=10211) 
+[Senderismo por el Parque Nacional Gargantas del Río 
+Negro](http://www.civitatis.com/es/rio-negro/senderismo-gargantas-rio-negro/?aid=10211) 
+[Trekking por Le Morne 
 Brabant](http://www.civitatis.com/es/rio-negro/trekking-morne-brabant/?aid=10211) 
 
 **También te puede interesar en isla Mauricio:** 
 
-[Heritage Le Telfair, un hotel de lujo para escaparse a isla 
-Mauricio](https://etheriamagazine.com/2024/11/29/hotel-heritage-le-telfair-isla-mauricio/) 
+{{< reflink path=posts/2024/11/hotel-heritage-le-telfair-isla-mauricio >}} 
 
-[Isla Mauricio, 10 planes para un viaje 
-inolvidable](https://etheriamagazine.com/2019/03/26/viajes-mujeres-mejores-planes-en-mauricio/)
+{{< reflink path=posts/2019/03/viajes-mujeres-mejores-planes-en-mauricio >}}

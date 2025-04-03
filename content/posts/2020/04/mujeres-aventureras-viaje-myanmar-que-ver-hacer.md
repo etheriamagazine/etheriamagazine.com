@@ -1,7 +1,7 @@
 ---
 title: "Descubre la belleza de Myanmar, uno de los destinos más mágicos del mundo"
 date: 2020-04-27
-coverImage: https://fotos.etheriamagazine.com/2020/04/viaje-mujeres-myanmar-bagan.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/viaje-mujeres-myanmar-bagan.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -189,11 +189,8 @@ Exteriores](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detall
 
 **También te puede interesar:** 
 
-[10 templos de Asia para visitar al menos una vez en la 
-vida](https://etheriamagazine.com/2019/05/03/10-templos-no-debes-perderte-viaje-asia/) 
+{{< reflink path=posts/2019/05/10-templos-no-debes-perderte-viaje-asia >}} 
 
-[Viajar sola: Malasia, un itinerario entre islas y 
-selva](https://etheriamagazine.com/2019/04/12/viajar-sola-malasia-pulau-tioman-perhentian/) 
+{{< reflink path=posts/2019/04/viajar-sola-malasia-pulau-tioman-perhentian >}} 
 
-[Planes para aprovechar bien tres días en 
-Bangkok](https://etheriamagazine.com/2021/05/29/tres-dias-en-bangkok-que-hacer/)
+{{< reflink path=posts/2021/05/tres-dias-en-bangkok-que-hacer >}}

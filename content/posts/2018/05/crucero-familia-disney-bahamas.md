@@ -1,7 +1,7 @@
 ---
 title: "Crucero Disney por Bahamas: mucho más que Mickey"
 date: 2018-05-04
-coverImage: https://fotos.etheriamagazine.com/2018/05/Bahamas-Crucero-Disney-mantas-en-Castaway-Cay-e1668765531193.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Bahamas-Crucero-Disney-mantas-en-Castaway-Cay-e1668765531193.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-Un crucero Disney por Bahamas es un plan perfecto para un viaje en familia. El concepto 
-de crucero es el que todos conocemos, pero estas islas aportan un punto de exotismo y 
-playa que combina perfectamente con los gustos de los niños. Y, si les sumas los 
-personajes Disney, son sus vacaciones perfectas. 
+**Un crucero Disney por Bahamas es un plan perfecto para un viaje en familia. El 
+concepto de crucero es el que todos conocemos, pero estas islas aportan un punto de 
+exotismo y playa que combina perfectamente con los gustos de los niños. Y, si les sumas 
+los personajes Disney, son sus vacaciones perfectas.** 
 
 ![Barco de Disney Cruise Line en Bahamas](https://fotos.etheriamagazine.com/2018/05/Bahamas-Crucero-Disney-barco.jpg "Barco de Disney Cruise Line.")
 
@@ -78,27 +78,27 @@ madera abierto para descubrir la curiosa arquitectura de la ciudad.
 
 ## CONSEJOS ETHERIA
 
-• Una de las ventajas fundamentales de estos cruceros por Bahamas es que los hay de 
+- Una de las ventajas fundamentales de estos cruceros por Bahamas es que los hay de 
 distinta duración, de tres a siete noches, por lo que los que no disponen de mucho 
 tiempo (o no les va demasiado la vida a bordo) pueden vivir esta experiencia en un 
 tiempo reducido y combinarla, por ejemplo, con una estancia en Miami. 
 
-• En los cruceros más cortos queda la sensación de que hay que elegir entre las 
+- En los cruceros más cortos queda la sensación de que hay que elegir entre las 
 actividades a bordo para disfrutar del barco y las excursiones en los puertos. No hay 
 más remedio que aprovechar el día al máximo para que dé tiempo a todo. Y, aún así, 
 seguro que queda alguna parte del barco que no da tiempo a ver. 
 
-• Disney tiene varios barcos realizando cruceros por Bahamas. Lo mejor es consultar 
+- Disney tiene varios barcos realizando cruceros por Bahamas. Lo mejor es consultar 
 directamente en [Disney Cruise Line](https://disneycruise.disney.go.com) para elegir el 
 que mejor se adapte a tus gustos al menos con seis meses de antelación. También es 
 recomendable seleccionar y reservar las excursiones que se quiere realizar con 
 antelación. 
 
-• La comida en los **restaurantes** del barco está bastante bien y además hay barra 
+- La comida en los **restaurantes** del barco está bastante bien y además hay barra 
 libre de pizza, perritos, hamburguesas y helados. El paraíso infantil (y de algunos 
 adultos). 
 
-• Planifica el último día. El **desembarque** es muy temprano y hay que dejar las 
+- Planifica el último día. El **desembarque** es muy temprano y hay que dejar las 
 maletas preparadas por la noche. Si no te quieres perder el espectáculo final, que suele 
 ser especial, conviene ir cerrando el equipaje con tiempo. 
 
@@ -106,11 +106,8 @@ ser especial, conviene ir cerrando el equipaje con tiempo.
 
 📌 **También te puede interesar:** 
 
-[Tips imprescindibles para organizar tu primer viaje en 
-crucero](https://etheriamagazine.com/2021/02/25/como-organizar-viaje-en-crucero-puertos-excursiones/) 
+{{< reflink path=posts/2021/02/como-organizar-viaje-en-crucero-puertos-excursiones >}} 
 
-[Como preparar la maleta para un 
-crucero](https://etheriamagazine.com/2018/11/17/una-maleta-para-un-crucero/) 
+{{< reflink path=posts/2018/11/una-maleta-para-un-crucero >}} 
 
-[Miami con niños: 7 planes para viajar en 
-familia](https://etheriamagazine.com/2018/05/09/miami-7-planes-para-viajar-en-familia/)
+{{< reflink path=posts/2018/05/miami-7-planes-para-viajar-en-familia >}}

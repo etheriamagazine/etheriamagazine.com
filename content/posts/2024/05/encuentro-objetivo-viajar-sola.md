@@ -1,7 +1,7 @@
 ---
 title: "'Objetivo: Viajar sola', no te pierdas el I Encuentro de Viajeras 2.0 de Madrid"
 date: 2024-05-09
-coverImage: https://fotos.etheriamagazine.com/2024/05/mujer-viaja-sola.jpg
+cover: https://fotos.etheriamagazine.com/2024/05/mujer-viaja-sola.jpg
 categories: 
   - historias
   - mujeres-top
@@ -58,13 +58,14 @@ mayo a las 16 horas** en la Zona Meta- Facebook, situada en el Paseo de la Caste
 35. Durante unas tres horas, las asistentes tendrán la oportunidad de conocer varios 
 proyectos sociales a través de un Mini mercadillo solidario, en el que estarán Rosa 
 Briales, de [@afroyeye](https://www.instagram.com/afroyeye/), una ONG que apoya el 
-empoderamiento de mujeres y niñas de Benín, y Mónica Batán Zamora, de [@mujerwanawake](https://www.instagram.com/mujerwanawake/), 
-una entidad sin ánimo de lucro que promueve la igualdad real de género en el continente 
-africano. También tendrá lugar una **mesa redonda** en la que se hablará de la mujer y 
-de los viajes en la que intervendrán **Cristina Pujol Buigas**, autora del [libro 
-Intrépidas](https://etheriamagazine.com/2018/05/03/intrepidas-un-libro-sobre-25-exploradoras-que-persiguieron-su-sueno/); 
-**Júlia Farré**, autora del podcast 'Viajando en femenino'; **Sandra Lomba**, nómada 
-digital afincada en Bali; y **Susana García**, directora de Etheria Magazine. 
+empoderamiento de mujeres y niñas de Benín, y Mónica Batán Zamora, de 
+[@mujerwanawake](https://www.instagram.com/mujerwanawake/), una entidad sin ánimo de 
+lucro que promueve la igualdad real de género en el continente africano. También tendrá 
+lugar una **mesa redonda** en la que se hablará de la mujer y de los viajes en la que 
+intervendrán **Cristina Pujol Buigas**, autora del {{< reflink 
+path=posts/2018/05/intrepidas-un-libro-sobre-25-exploradoras-que-persiguieron-su-sueno 
+>}}; **Júlia Farré**, autora del podcast 'Viajando en femenino'; **Sandra Lomba**, 
+nómada digital afincada en Bali; y **Susana García**, directora de Etheria Magazine. 
 
 ![Belén Orive durante una de sus clases de baile en Camerún.](https://fotos.etheriamagazine.com/2022/05/Belen-orive-mdjem-camerun.jpg "Belén Orive durante una de sus clases de baile en Camerún.")
 

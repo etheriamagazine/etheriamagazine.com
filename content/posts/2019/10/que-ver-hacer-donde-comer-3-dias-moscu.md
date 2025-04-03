@@ -1,7 +1,7 @@
 ---
 title: "Todo lo que debes ver en Moscú en un fin de semana"
 date: 2019-10-09
-coverImage: https://fotos.etheriamagazine.com/2019/09/viaje-mujeres-moscu.jpg
+cover: https://fotos.etheriamagazine.com/2019/09/viaje-mujeres-moscu.jpg
 categories: 
   - viajar-con-amigas
 destino: 

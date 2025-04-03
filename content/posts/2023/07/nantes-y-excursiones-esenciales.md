@@ -1,7 +1,7 @@
 ---
 title: "Apuntes para un “bon voyage” a la sorprendente Nantes y sus viñedos"
 date: 2023-07-31
-coverImage: https://fotos.etheriamagazine.com/2023/07/vinhedos-Le-Domaine-Genaudieres.jpg
+cover: https://fotos.etheriamagazine.com/2023/07/vinhedos-Le-Domaine-Genaudieres.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Yolanda Cardo
 ---
 
-Viñas que se asoman al Loira, impactantes atalayas, una hermosa villa con un gusto muy 
+**Viñas que se asoman al Loira, impactantes atalayas, una hermosa villa con un gusto muy 
 italiano, una efervescente ciudad que vive por y para el arte y una deliciosa 
 gastronomía son sólo algunos de los motivos por los que deberíais visitar (¡ya!) Nantes 
-y su viñedo. 
+y su viñedo.** 
 
 ![Los viñedos de Le Domaine des Génaudières se asoman al Loira.](https://fotos.etheriamagazine.com/2023/07/vinhedos-Le-Domaine-Genaudieres.jpg "Los viñedos de Le Domaine des Génaudières se asoman al Loira. © Yolanda Cardo")
 
@@ -155,8 +155,8 @@ propuestas.
 La fórmula es tan sencilla como brillante. Tan solo tendréis que llevar calzado cómodo y 
 seguir la línea verde para disfrutar de un viaje extraordinario. 
 
-📍No te pierdas: [Nantes con amigas, descubrid la ciudad extraordinaria que soñó Julio 
-Verne](https://etheriamagazine.com/2019/08/29/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa/). 
+📍No te pierdas: {{< reflink 
+path=posts/2019/08/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa >}}. 
 
 ![La escultura del artista conceptual Xu Zhen, European Thousand-Arms Classical Sculpture, es una de las más fotografiadas.](https://fotos.etheriamagazine.com/2023/07/escultura-Xu-Zhen.jpg "La escultura del artista conceptual Xu Zhen, European Thousand-Arms Classical Sculpture, es una de las más fotografiadas de Nantes. © Yolanda Cardo")
 
@@ -292,8 +292,7 @@ salida.
 Si os gusta la decoración, en el centro de Nantes se ubica uno de los tres hoteles que 
 **Maisons du Monde** tiene en Francia (nantes.maisonsdumondehotel.com). 
 
-📍No te pierdas: [Hoteles originales en Nantes, duerme dentro de una obra de 
-arte](https://etheriamagazine.com/2022/10/17/hoteles-originales-nantes/). 
+📍No te pierdas: {{< reflink path=posts/2022/10/hoteles-originales-nantes >}}. 
 
 ### Dónde comer
 

@@ -1,7 +1,7 @@
 ---
 title: "Ferias de arte en tiempos de pandemia, adaptarse o morir"
 date: 2020-10-29
-coverImage: https://fotos.etheriamagazine.com/2020/10/feria-arte-arco-madrid-2020-expositores.jpg
+cover: https://fotos.etheriamagazine.com/2020/10/feria-arte-arco-madrid-2020-expositores.jpg
 categories: 
   - ocio
 destino: 
@@ -165,5 +165,5 @@ feria a lo largo de su trayectoria, y ser√°n invitadas a participar en la secci√
 
 [ARCO MADRID 2021](http://www.ifema.es/arco-madrid). Del 7 al 11 de julio de 2021 
 
-Sigue leyendo sobre TEFAF en "[Fin de semana de lujo en Maastrich: la bombonera del 
-arte](https://etheriamagazine.com/2019/03/01/que-ver-maastricht-lujo-tefaf/)".
+Sigue leyendo sobre TEFAF en "{{< reflink 
+path=posts/2019/03/que-ver-maastricht-lujo-tefaf >}}".

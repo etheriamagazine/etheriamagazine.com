@@ -1,7 +1,7 @@
 ---
 title: "10 experiencias que deberías vivir en Irán si eres una mujer viajera"
 date: 2022-04-18
-coverImage: https://fotos.etheriamagazine.com/2022/04/Iran-Mausoleo-Hilal-ibn-Ali.jpg
+cover: https://fotos.etheriamagazine.com/2022/04/Iran-Mausoleo-Hilal-ibn-Ali.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -219,11 +219,9 @@ cadera, será suficiente.
 
 ### También en Etheria Magazine
 
-[Descubre las 10 sonrisas persas de 
-Irán](https://etheriamagazine.com/2019/11/06/que-ver-iran-mujer-viajar-sola-con-amigas/). 
+{{< reflink path=posts/2019/11/que-ver-iran-mujer-viajar-sola-con-amigas >}}. 
 
-[Viajes de novios por Europa: 10 propuestas para acertar 
-seguro](https://etheriamagazine.com/2021/11/19/ideas-viaje-de-novios-por-europa/). 
+{{< reflink path=posts/2021/11/ideas-viaje-de-novios-por-europa >}}. 
 
-[Jordania, visitas y consejos imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2020/12/18/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola/).
+{{< reflink 
+path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}.

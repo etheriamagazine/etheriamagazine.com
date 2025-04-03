@@ -1,7 +1,7 @@
 ---
 title: "Un paseo por las grandes mansiones de la Belle Époque de Getxo"
 date: 2023-11-02
-coverImage: https://fotos.etheriamagazine.com/2023/11/getxo-palacio-lezama-leguizamon.jpg
+cover: https://fotos.etheriamagazine.com/2023/11/getxo-palacio-lezama-leguizamon.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-Si al placer de descubrir las mansiones de Getxo se le añaden algunas pinceladas de 
+**Si al placer de descubrir las mansiones de Getxo se le añaden algunas pinceladas de 
 historia y arquitectura mientras la brisa del mar acaricia la cara, poco más se puede 
 pedir. En vuestro próximo viaje a Bizkaia, os animamos a vivir la bonita experiencia de 
-recorrer el Paseo de las Grandes Villas de Getxo sin perder de vista el mar Cantábrico. 
+recorrer el Paseo de las Grandes Villas de Getxo sin perder de vista el mar 
+Cantábrico.** 
 
 ![Paseo de las Grandes Villas de Getxo.](https://fotos.etheriamagazine.com/2023/11/getxo-paseo-grandes-villas.jpg "Paseo de las Grandes Villas de Getxo con panel interpretativo en primer plano.")
 
@@ -21,11 +22,10 @@ Hemos recorrido esta ciudad vizcaína en numerosas ocasiones, pero aún conserva
 capacidad de sorprendernos y de seguir desvelando nuevos secretos. Hasta ahora nos 
 habíamos detenido en grandes obras de ingeniería, como el Puente Bizkaia, en la 
 exquisita gastronomía local, en actividades idóneas para familias o propuestas 
-divertidas para [compartir con 
-amigas](https://etheriamagazine.com/2022/07/20/que-ver-getxo-visitas-marineras/)... Sin 
-embargo, hay algo que aún teníamos pendiente: viajar a la _Belle Époque_ a través del 
-devenir histórico de las **preciosas mansiones de Getxo**. Os contamos sus historias y 
-anécdotas más curiosas. 
+divertidas para {{< reflink path=posts/2022/07/que-ver-getxo-visitas-marineras >}}... 
+Sin embargo, hay algo que aún teníamos pendiente: viajar a la _Belle Époque_ a través 
+del devenir histórico de las **preciosas mansiones de Getxo**. Os contamos sus historias 
+y anécdotas más curiosas. 
 
 ## La época dorada de Getxo
 
@@ -155,8 +155,8 @@ villa cuyos volúmenes no pasan desapercibidos.
 Antes de llegar a la playa de la Bola observaréis otras villas como **Itsas Begi** 
 (1927), de estilo regionalista neovasco, y **Bidearte** (1927), del mismo estilo, pero 
 con rasgos montañeses e influencia británica que estaba integrada por varias viviendas. 
-Si os apetece hacer una parada, aprovechad en **Villa Ariatza** (1925), que alberga el [hotel 
-boutique 
+Si os apetece hacer una parada, aprovechad en **Villa Ariatza** (1925), que alberga el 
+[hotel boutique 
 Embarcadero](https://www.getxo.eus/es/turismo/descubre-getxo/hotel-embarcadero), porque 
 luego no encontraréis más opciones hasta llegar la playa Ereaga o al puerto deportivo. 
 
@@ -211,9 +211,9 @@ Una persona inquieta donde las haya.
 ![Base de Salvamento Marítimo de Getxo.](https://fotos.etheriamagazine.com/2023/11/Getxo-Arriluze.jpg "Base de Salvamento Marítimo de Getxo.")
 
 Las Galerías de Punta Begoña son las únicas abiertas al público del **Paseo de las 
-Grandes Villas de Getxo**. Se pueden visitar de forma autoguiada, a través de paneles, o [guiada 
-los fines de semana](https://www.getxo.eus/es/turismo/que-hacer/punta-begona) (2 € 
-mayores de 10 años). Eso sí, siempre con casco que es como mejor se ven los lugares 
+Grandes Villas de Getxo**. Se pueden visitar de forma autoguiada, a través de paneles, o 
+[guiada los fines de semana](https://www.getxo.eus/es/turismo/que-hacer/punta-begona) (2 
+€ mayores de 10 años). Eso sí, siempre con casco que es como mejor se ven los lugares 
 “abierto por obras”. Y si no os da tiempo... siempre se puede hacer [de forma 
 virtual](https://tour.puntabegonagetxo.eus/). 
 
@@ -240,15 +240,12 @@ Puerto Viejo. Este recorrido por aquella _Belle Époque_ que amaba la belleza, l
 y el arte sólo puede terminar con un brindis y el ardiente deseo de seguir conociendo la 
 ciudad. 
 
-✅ **No te pierdas:** [Getxo a bocados, una cita exquisita con el 
-paladar.](https://etheriamagazine.com/2023/03/30/que-donde-comer-getxo/) 
+✅ **No te pierdas:** {{< reflink path=posts/2023/03/que-donde-comer-getxo >}} 
 
 **© Fotos cedidas por Turismo de Getxo.** 
 
 **Sigue leyendo...** 
 
-[Getxo en familia: 22 planes y 4 visitas 
-divertidas](https://etheriamagazine.com/2023/05/29/planes-familiares-en-getxo/). 
+{{< reflink path=posts/2023/05/planes-familiares-en-getxo >}}. 
 
-[Descubre el Getxo más cultural, 15 lugares imprescindibles en tu 
-agenda](https://etheriamagazine.com/2022/10/10/que-ver-en-getxo/).
+{{< reflink path=posts/2022/10/que-ver-en-getxo >}}.

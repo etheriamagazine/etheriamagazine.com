@@ -1,7 +1,7 @@
 ---
 title: "Óbidos, la villa portuguesa de los libros y las reinas"
 date: 2020-09-24
-coverImage: https://fotos.etheriamagazine.com/2020/09/obidos-villa-medieval.jpg
+cover: https://fotos.etheriamagazine.com/2020/09/obidos-villa-medieval.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -97,11 +97,10 @@ la hija pequeña de Felipe el Hermoso y Juana de Castilla (conocida como Juana l
 
 ## Óbidos, Villa Literaria
 
-De la red de villas literarias o del libro ya os hemos hablado en Etheria Magazine 
-(‘[Urueña, la villa del libro de 
-Valladolid](https://etheriamagazine.com/2020/05/22/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid/)’), 
-así que no os sorprenderá que en Portugal también tengan una población que potencie la 
-lectura y la escritura, y organice eventos culturales. 
+De la red de villas literarias o del libro ya os hemos hablado en Etheria Magazine (‘{{< 
+reflink path=posts/2020/05/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid 
+>}}’), así que no os sorprenderá que en Portugal también tengan una población que 
+potencie la lectura y la escritura, y organice eventos culturales. 
 
 ![Mercado Biológico y librería de Óbidos, un dos en uno.](https://fotos.etheriamagazine.com/2020/09/libreria-mercado-obidos.jpg "Mercado Biológico y librería de Óbidos. © Pepa García/ Etheria Mag.")
 
@@ -164,11 +163,8 @@ sobre el resto.
 
 ### También te puede interesar...
 
-[Valle del Côa. 8 experiencias en el corazón de 
-Portugal](https://etheriamagazine.com/2020/07/17/valle-del-coa-8-experiencias-en-la-frontera-portugal/). 
+{{< reflink path=posts/2020/07/valle-del-coa-8-experiencias-en-la-frontera-portugal >}}. 
 
-[9 planes en familia en el Centro de 
-Portugal](https://etheriamagazine.com/2019/06/28/planes-divertidos-viajes-familia-portugal/). 
+{{< reflink path=posts/2019/06/planes-divertidos-viajes-familia-portugal >}}. 
 
-[8 visitas originales en Lisboa que (quizá) te quedan por 
-hacer](https://etheriamagazine.com/2021/10/27/8-visitas-originales-en-lisboa/).
+{{< reflink path=posts/2021/10/8-visitas-originales-en-lisboa >}}.

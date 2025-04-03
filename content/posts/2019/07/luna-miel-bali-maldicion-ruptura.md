@@ -1,7 +1,7 @@
 ---
 title: "Si quieres a tu pareja no viajes a Bali"
 date: 2019-07-23
-coverImage: https://fotos.etheriamagazine.com/2019/07/viaje-bali-tanah-lot.jpg
+cover: https://fotos.etheriamagazine.com/2019/07/viaje-bali-tanah-lot.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Elena Ortega
 ---
 
-Templos, paisajes selváticos, pueblos anclados en el pasado, rutas entre arrozales y 
+**Templos, paisajes selváticos, pueblos anclados en el pasado, rutas entre arrozales y 
 playas para todos los gustos. Los atractivos de Bali son infinitos y tú te planteas 
 viajar allí para disfrutarlos en pareja, pero ¿conoces la leyenda que condenará tu 
 relación si viajas a la isla? Te contamos los detalles por si estás planeando una luna 
-de miel en Bali. 
+de miel en Bali.** 
 
 ![arrozales en Bali](https://fotos.etheriamagazine.com/2019/07/viaje-bali-arrozales.jpg "Uno de los trekkings más habituales en Bali es pasear entre los arrozales. ©PB")
 
@@ -137,11 +137,8 @@ viajar en su luna de miel. Una isla para enamorarse y enamorar que nadie deberí
 
 📌 **También te puede interesar:** 
 
-[Planes para aprovechar bien tres días en 
-Bangkok](https://etheriamagazine.com/2021/05/29/tres-dias-en-bangkok-que-hacer/) 
+{{< reflink path=posts/2021/05/tres-dias-en-bangkok-que-hacer >}} 
 
-[Cómo organizar un viaje de novios inolvidable y no morir en el 
-intento](https://etheriamagazine.com/2021/01/13/como-organizar-viaje-de-novios-o-luna-de-miel/) 
+{{< reflink path=posts/2021/01/como-organizar-viaje-de-novios-o-luna-de-miel >}} 
 
-[10 imágenes para enamorarse del mar de 
-Andamán](https://etheriamagazine.com/2018/06/16/viaje-parejas-mar-de-andaman/)
+{{< reflink path=posts/2018/06/viaje-parejas-mar-de-andaman >}}

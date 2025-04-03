@@ -1,7 +1,7 @@
 ---
 title: "Dónde celebrar el Fin de Año en Madrid: hoteles y restaurantes con mucho estilo"
 date: 2023-11-28
-coverImage: https://fotos.etheriamagazine.com/2023/11/nochevieja-madrid-hotel-urso-mesa.jpg
+cover: https://fotos.etheriamagazine.com/2023/11/nochevieja-madrid-hotel-urso-mesa.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-Cada vez son más las que deciden despedir el año por todo lo alto, olvidándose de 
+**Cada vez son más las que deciden despedir el año por todo lo alto, olvidándose de 
 cocinar, o haciendo un viaje. Tanto si eres de las madrileñas que tiras la casa por la 
 ventana esa noche, como si decides visitar la capital para cerrar el año 2023, echa un 
 vistazo a nuestra lista de hoteles y restaurantes donde celebrar el Fin de Año en 
-Madrid. Ya verás cómo te van a apetecer todas las cenas y fiestas que te proponemos. 
+Madrid. Ya verás cómo te van a apetecer todas las cenas y fiestas que te proponemos.** 
 
 ![Mesa de gala para la cena de Fin de Año en el hotel URSO.](https://fotos.etheriamagazine.com/2023/11/nochevieja-madrid-hotel-urso-mesa.jpg "Mesa de gala para la cena de Fin de Año en el © hotel URSO.")
 
@@ -199,13 +199,10 @@ y cotillón. **Dónde:** restaurante BIBO. Paseo de la Castellana, 52. **Reserva
 
 **✅ También te puede interesar:** 
 
-[Qué hacer con amigas en Madrid este otoño e 
-invierno](https://etheriamagazine.com/2023/09/07/que-hacer-con-amigas-madrid-otono/) 
+{{< reflink path=posts/2023/09/que-hacer-con-amigas-madrid-otono >}} 
 
-[Planes divertidos con adolescentes en 
-Madrid](https://etheriamagazine.com/2022/12/16/planes-adolescentes-madrid/) 
+{{< reflink path=posts/2022/12/planes-adolescentes-madrid >}} 
 
-[10 tabernas históricas 
-de](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/) [Madrid](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/) 
-[donde tomar el 
-vermú](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/)
+{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}} {{< reflink 
+path=posts/2022/05/tabernas-historicas-de-madrid >}} {{< reflink 
+path=posts/2022/05/tabernas-historicas-de-madrid >}}

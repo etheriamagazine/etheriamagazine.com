@@ -1,7 +1,7 @@
 ---
 title: "Escapada con amigas a Malinas y Oudenaarde, dos perlas escondidas en la región de Flandes"
 date: 2024-11-07
-coverImage: https://fotos.etheriamagazine.com/2024/11/Casas-Malinas.jpg
+cover: https://fotos.etheriamagazine.com/2024/11/Casas-Malinas.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -228,8 +228,6 @@ restaurante para disfrutar en un ambiente incomparable de la cocina franco-belga
 
 **También en Etheria Magazine** 
 
-[Eventos culturales de Flandes en 2024: año Ensor y mucho 
-más](https://etheriamagazine.com/2024/03/22/exposiciones-flandes-2024-ensor/). 
+{{< reflink path=posts/2024/03/exposiciones-flandes-2024-ensor >}}. 
 
-[10 paradas en una ruta por el Barrio Europeo de 
-Bruselas](https://etheriamagazine.com/2022/09/29/que-ver-barrio-europeo-bruselas/).
+{{< reflink path=posts/2022/09/que-ver-barrio-europeo-bruselas >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Argelès-sur-Mer, 9 experiencias para enamorarte de esta comuna francesa"
 date: 2023-10-04
-coverImage: https://fotos.etheriamagazine.com/2023/10/centro-argeles-sur-mer.jpg
+cover: https://fotos.etheriamagazine.com/2023/10/centro-argeles-sur-mer.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Yolanda Cardo
 ---
 
-Paisajes costeros bellísimos, bosques que se asoman al mar, mucho arte y las huellas de 
-un pasado compartido son algunos de los planes que nos ofrece Argelès-sur-Mer, una 
-pintoresca comuna francesa de los Pirineos Orientales y fronteriza con España. 
+**Paisajes costeros bellísimos, bosques que se asoman al mar, mucho arte y las huellas 
+de un pasado compartido son algunos de los planes que nos ofrece Argelès-sur-Mer, una 
+pintoresca comuna francesa de los Pirineos Orientales y fronteriza con España.** 
 
 ![Mural de Niko Inko y Jean Rooble.](https://fotos.etheriamagazine.com/2023/10/Argeles-sur-Mer-Mural-Niko-inko-Jean-Rooble.jpg "Mural de Niko Inko y Jean Rooble, en Argelès-sur-Mer. © Yolanda Cardo")
 
@@ -223,11 +223,8 @@ Argelès-sur-Mer](https://www.argeles-sur-mer.co.uk/explore/argeles-sur-mer/).
 
 ✅ **En Francia también te puede interesar...** 
 
-[Apuntes para un “bon voyage” a la sorprendente Nantes y sus 
-viñedos](https://etheriamagazine.com/2023/07/31/nantes-y-excursiones-esenciales/). 
+{{< reflink path=posts/2023/07/nantes-y-excursiones-esenciales >}}. 
 
-[Bourges, una ciudad tan desconocida como bonita (y a 2 horas de 
-París)](https://etheriamagazine.com/2023/08/11/que-ver-bourges/). 
+{{< reflink path=posts/2023/08/que-ver-bourges >}}. 
 
-[El Museo del Louvre en dos horas, un viaje exprés por el 
-arte](https://etheriamagazine.com/2023/08/08/que-ver-museo-louvre-en-2-horas/).
+{{< reflink path=posts/2023/08/que-ver-museo-louvre-en-2-horas >}}.

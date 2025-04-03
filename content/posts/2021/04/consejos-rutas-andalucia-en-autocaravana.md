@@ -1,7 +1,7 @@
 ---
 title: "Andalucía en autocaravana y consejos prácticos para novatos"
 date: 2021-04-07
-coverImage: https://fotos.etheriamagazine.com/2021/04/autocaravana-estacionar.jpg
+cover: https://fotos.etheriamagazine.com/2021/04/autocaravana-estacionar.jpg
 destino: 
   - España
 authors: 
@@ -20,9 +20,7 @@ demanda de autocaravanas es tan alta que a última hora es poco probable hallar 
 necesitamos a un precio normal. Así que te sugerimos darle la vuelta al proceso, y 
 comenzar alquilando la autocaravana. 
 
-📌📌**No te pierdas**: [Ruta en autocaravana por la Subbética Cordobesa (nuevas zonas 
-para pernoctar 
-gratis).](https://etheriamagazine.com/2022/03/23/ruta-autocaravana-en-cordoba/) 
+📌📌**No te pierdas**: {{< reflink path=posts/2022/03/ruta-autocaravana-en-cordoba >}} 
 
 ## ¿Cómo y dónde alquilar una autocaravana?
 
@@ -39,8 +37,9 @@ camper.
 conducir. 
 
 **Camper**: es un tipo de furgoneta o vehículo amplio preparado para funcionar como casa 
-rodante. Incluso puedes adaptar el tuyo, en esta [web](https://campermania.es/camperizar-furgoneta-paso-a-paso/) 
-encontrarás ideas sorprendentes. 
+rodante. Incluso puedes adaptar el tuyo, en esta 
+[web](https://campermania.es/camperizar-furgoneta-paso-a-paso/) encontrarás ideas 
+sorprendentes. 
 
 ![ruta en camper por andalucia](https://fotos.etheriamagazine.com/2021/04/almeria-caravana.jpg "Una de las clásicas camper para viajar con total libertad.")
 
@@ -50,10 +49,11 @@ otras no tanto. Por ejemplo, no debe sobrepasar los 3.500 kg si sólo tienes el 
 de conducir, que sea lo más nueva posible (mejor que no tenga más de 2 años), y 
 contratar un seguro que cubra el máximo de problemas. Algunas empresas donde puedes 
 mirar precios son [Viajes El Corte 
-Inglés](https://www.viajeselcorteingles.es/ofertas-vacaciones/ofertas-autocaravana), [Indie 
-Campers](https://indiecampers.es/alquilar-una-autocaravana), [E-vans](https://www.e-vans.es/), 
-[Autocaravana](http://www.todoautocaravana.es), [McRent](https://www.mc-rent.es/) y [Yescapa](https://www.yescapa.es/) 
-(alquiler entre particulares). 
+Inglés](https://www.viajeselcorteingles.es/ofertas-vacaciones/ofertas-autocaravana), 
+[Indie Campers](https://indiecampers.es/alquilar-una-autocaravana), 
+[E-vans](https://www.e-vans.es/), [Autocaravana](http://www.todoautocaravana.es), 
+[McRent](https://www.mc-rent.es/) y [Yescapa](https://www.yescapa.es/) (alquiler entre 
+particulares). 
 
 Si te estás preguntando cuánto puede costar el alquiler de una autocaravana, te podemos 
 decir que una sencillita para 4 personas y sin extras te puede salir una semana por unos 
@@ -97,10 +97,10 @@ más bonitas del sur de España. En esta ciudad es aconsejable permanecer al men
 días para disfrutar de su legado histórico y cultural. Entre los imprescindibles en 
 Córdoba están: la **Judería**, la **Mezquita-catedral**, el **Alcázar de los Reyes 
 Cristianos** y el **palacio de Viana**. Y, por supuesto, también hay que visitar algunos 
-de su patios a rebosar de flores, y [comer en buenos 
-restaurantes](https://etheriamagazine.com/2019/03/25/viaje-amigas-que-comer-dormir-cordoba/) 
-(mira el listado). Antes de continuar en dirección a Sevilla es interesante hacer una 
-parada para conocer las **ruinas de la ciudad de Medina Azahara**. 
+de su patios a rebosar de flores, y {{< reflink 
+path=posts/2019/03/viaje-amigas-que-comer-dormir-cordoba >}} (mira el listado). Antes de 
+continuar en dirección a Sevilla es interesante hacer una parada para conocer las 
+**ruinas de la ciudad de Medina Azahara**. 
 
 ![viaje autocaravana sevilla](https://fotos.etheriamagazine.com/2021/04/sevilla-autocaravana.jpg "Sevilla al anochecer.")
 
@@ -118,11 +118,10 @@ de la Encarnación, y recorrer la ribera del Guadalquivir.
 El itinerario en autocaravana desde Sevilla prosigue en la provincia de Cádiz, donde 
 iniciaremos el paseo por el interior y terminaremos en la costa. Dos visitas que no 
 decepcionan son **Arcos de la Frontera**, la entrada a los pueblos blancos de Cádiz 
-(también puedes seguir la [ruta de sus pueblos más 
-bonitos](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/)), 
-y **Jerez**, una ciudad señorial donde aguardan palacios y bodegas (aquí tienes todo lo [que 
-puedes hacer en Jerez de la 
-Frontera](https://etheriamagazine.com/2020/06/10/viajes-por-espana-jerez-sola-o-con-amigas/)). 
+(también puedes seguir la {{< reflink 
+path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}}), y **Jerez**, una ciudad 
+señorial donde aguardan palacios y bodegas (aquí tienes todo lo {{< reflink 
+path=posts/2020/06/viajes-por-espana-jerez-sola-o-con-amigas >}}). 
 
 La costa gaditana la recorreremos desde **Sanlúcar de Barrameda**, un pueblo ideal para 
 disfrutar de naturaleza, visitando el Parque Nacional de Doñana; de cultura, con 
@@ -136,41 +135,43 @@ que está a 50 metros de la playa.
 
 ### De Cádiz a Tarifa
 
-El viaje sigue en **Cádiz capital** (guía para [visitar Cádiz con 
-niños](https://etheriamagazine.com/2019/10/17/10-planes-con-ninos-en-cadiz-capital/)), 
-una parada obligada en esta ruta de Andalucía en autocaravana (puedes dejar el vehículo 
-en el parking Santa Catalina). Una vez que hayas disfrutado de su Catedral, de los 
-barrios del Pópulo y de la Viña, de la playa de la Caleta, etc. continúa por la costa 
-hasta **Conil de la Frontera**. Allí encontrarás playas espectaculares (guía de [las 
-mejores playas y calas de 
-Conil](https://etheriamagazine.com/2021/02/05/mejores-playas-y-calas-de-conil-de-la-frontera/)) 
-y varios campings donde pasar los días que te apetezcan. Tanto en Conil como en **El 
-Palmar** (playa de Vejer) debes buscar lugares autorizados. En ambos pueblos disfrutarás 
-de preciosos núcleos inmaculados, uno junto al mar y el otro en la cima de una colina. 
-No te pierdas estas [10 actividades en Vejer de la 
-Frontera](https://etheriamagazine.com/2020/08/11/10-actividades-vejer-de-la-frontera-que-ver-hacer/). 
+El viaje sigue en **Cádiz capital** (guía para {{< reflink 
+path=posts/2019/10/10-planes-con-ninos-en-cadiz-capital >}}), una parada obligada en 
+esta ruta de Andalucía en autocaravana (puedes dejar el vehículo en el parking Santa 
+Catalina). Una vez que hayas disfrutado de su Catedral, de los barrios del Pópulo y de 
+la Viña, de la playa de la Caleta, etc. continúa por la costa hasta **Conil de la 
+Frontera**. Allí encontrarás playas espectaculares (guía de {{< reflink 
+path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}) y varios campings 
+donde pasar los días que te apetezcan. Tanto en Conil como en **El Palmar** (playa de 
+Vejer) debes buscar lugares autorizados. En ambos pueblos disfrutarás de preciosos 
+núcleos inmaculados, uno junto al mar y el otro en la cima de una colina. No te pierdas 
+estas {{< reflink path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer 
+>}}. 
 
-De camino a la siguiente parada, Tarifa (ver [guía de 
-Tarifa](https://etheriamagazine.com/2020/07/06/viajes-por-espana-tarifa-con-amigas-aires-de-windsurf/)), 
-visita el yacimiento romano y la playa de Bolonia (ver [guía de ruinas de Baelo 
-Claudia](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/)) 
-que te pillará de paso. El municipio de Tarifa cuenta con varios campings, que están 
-fenomenal, donde acampar el vehículo para gozar de su animado ambiente. 
+De camino a la siguiente parada, Tarifa (ver {{< reflink 
+path=posts/2020/07/viajes-por-espana-tarifa-con-amigas-aires-de-windsurf >}}), visita el 
+yacimiento romano y la playa de Bolonia (ver {{< reflink 
+path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}}) que te 
+pillará de paso. El municipio de Tarifa cuenta con varios campings, que están fenomenal, 
+donde acampar el vehículo para gozar de su animado ambiente. 
 
 ![calle ancha, marbella](https://fotos.etheriamagazine.com/2019/05/viaje-marbella-calle-ancha.jpg "Calle Ancha de Marbella.")
 
 ### 3\. Ronda, Marbella y Málaga, trío de ases
 
 Tras disfrutar de las preciosas playas tarifeñas, te espera la provincia de Málaga. Si 
-no te importa hacer algunos kilómetros más puedes conocer [Ronda](https://etheriamagazine.com/2019/04/16/ronda-escapada-con-amigas/), 
-en el interior de la serranía, o seguir una ruta por [La 
-Axarquía](https://etheriamagazine.com/2020/06/19/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga/) 
-antes de descansar en el litoral. Si estás cansada de conducir, céntrate en dos ciudades 
-costeras y animadas: [Marbella](https://etheriamagazine.com/2019/06/11/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana/) 
-(parking gratuito en Simbad El Marino: urbanización Marbesa, s/n) y [Málaga](https://etheriamagazine.com/2018/12/06/fin-de-semana-con-amigas-en-malaga/), 
-una capital que está en constante cambio. Apunta en tu agenda el castillo de Gibralfaro, 
-la Catedral y algunos espacios de cultura como Museo Picasso, Museo de Carmen Thyssen, 
-Pompidou-Málaga y Museo Ruso. 
+no te importa hacer algunos kilómetros más puedes conocer {{< reflink 
+path=posts/2019/04/ronda-escapada-con-amigas >}}, en el interior de la serranía, o 
+seguir una ruta por {{< reflink 
+path=posts/2024/07/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga >}} antes de 
+descansar en el litoral. Si estás cansada de conducir, céntrate en dos ciudades costeras 
+y animadas: {{< reflink 
+path=posts/2019/06/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana 
+>}} (parking gratuito en Simbad El Marino: urbanización Marbesa, s/n) y {{< reflink 
+path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}}, una capital que está en 
+constante cambio. Apunta en tu agenda el castillo de Gibralfaro, la Catedral y algunos 
+espacios de cultura como Museo Picasso, Museo de Carmen Thyssen, Pompidou-Málaga y Museo 
+Ruso. 
 
 ![montefrio en granada](https://fotos.etheriamagazine.com/2021/04/granada-autocaravana.jpg "Perfil de Montefrío, en Granada.")
 
@@ -193,12 +194,11 @@ realizar las visitas esenciales.
 Jardines del Generalife (reserva entradas y [visita 
 guiada](https://www.civitatis.com/es/granada/visita-guiada-alhambra/?aid=10211)). Tras 
 este monumento puedes seguir por los barrios de Albaicín y el Sacromonte, que conquistan 
-con su encrucijada viaria, los cármenes y sus bares (consulta [Qué ver en el 
-Albaicín](https://etheriamagazine.com/2020/05/29/48-horas-en-el-albayzin-y-la-alhambra/)), 
-la Catedral y la Capilla Real. Si vas con niños, lo pasarán estupendamente en el Parque 
-de las Ciencias Andalucía-Granada, y si te gusta comer bien consulta en esta [guía de 
-buenos restaurantes de 
-Granada](https://etheriamagazine.com/2020/10/30/restaurantes-bares-de-granada-y-visitas-para-mujeres/). 
+con su encrucijada viaria, los cármenes y sus bares (consulta {{< reflink 
+path=posts/2020/05/48-horas-en-el-albayzin-y-la-alhambra >}}), la Catedral y la Capilla 
+Real. Si vas con niños, lo pasarán estupendamente en el Parque de las Ciencias 
+Andalucía-Granada, y si te gusta comer bien consulta en esta {{< reflink 
+path=posts/2020/10/restaurantes-bares-de-granada-y-visitas-para-mujeres >}}. 
 
 ![isleta del moro en almeria](https://fotos.etheriamagazine.com/2020/06/almeria-isleta-del-moro.jpg "Isleta del Moro, en Almería.")
 
@@ -207,20 +207,17 @@ Granada](https://etheriamagazine.com/2020/10/30/restaurantes-bares-de-granada-y-
 Ya nos estamos acercando al final de esta ruta en autocaravana por Andalucía, ¿estás 
 preparada para recorrer Almería? En esta provincia todo resulta sorprendente, desde el 
 Parque Natural Cabo de Gata-Níjar a los bonitos pueblos de las Alpujarras almerienses. 
-Algunas paradas básicas pueden ser: [Almería 
-capital](https://etheriamagazine.com/2020/01/10/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear/),y 
+Algunas paradas básicas pueden ser: {{< reflink 
+path=posts/2020/01/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear >}},y 
 los pintorescos pueblos costeros de **San Miguel de Cabo de Gata** (junto al faro cabo 
 de Gata y el arrecife de las Sirenas), **San José** (con aparcamientos gratuitos), **Las 
 Negras**, la **Isleta del Moro** y **Agua Amarga** (con camping para caravanas). En 
 algunos sitios verás indicaciones de que no se puede estacionar durante la noche, tenlo 
-en cuenta si no quieres que te multen. Para más ideas consulta este artículo de [Slow 
-Travel en 
-Almería](https://etheriamagazine.com/2018/11/15/que-ver-en-almeria-en-temporada-baja/). 
+en cuenta si no quieres que te multen. Para más ideas consulta este artículo de {{< 
+reflink path=posts/2021/04/que-ver-en-almeria-en-temporada-baja >}}. 
 
 ### ✅ Más sobre autocaravanas y rutas
 
-[5 rutas en autocaravana por el Norte de España para disfrutar de mar y de 
-montaña](https://etheriamagazine.com/2020/07/23/5-rutas-en-auto-caravana-por-espana/) 
+{{< reflink path=posts/2020/07/5-rutas-en-auto-caravana-por-espana >}} 
 
-[Cómo organizar un viaje a Nueva Zelanda en 
-autocaravana](https://etheriamagazine.com/2018/08/21/nueva-zelanda-en-autocaravana/).
+{{< reflink path=posts/2018/08/nueva-zelanda-en-autocaravana >}}.

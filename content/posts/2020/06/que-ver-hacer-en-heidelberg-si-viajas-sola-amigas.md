@@ -1,7 +1,7 @@
 ---
 title: "Heidelberg, sola o con amigas, siempre es un planazo"
 date: 2020-06-12
-coverImage: https://fotos.etheriamagazine.com/2020/06/Heidelberg-vistas-puente.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/Heidelberg-vistas-puente.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -155,9 +155,9 @@ proponemos conocer sus tabernas históricas. Ruidosas, concurridas y con ambient
 estas tabernas situadas en la parte trasera de a **Karlsplatz** son una visita obligada. 
 Sus orígenes están enraizados con las fraternidades estudiantiles de la ciudad, y siguen 
 siendo lugar de paso obligado para los más de 40.000 universitarios de Heidelberg. Toma 
-nota de estas dos: [Zum roten Ochsen](https://roterochsen.de/en/961-2/) (El buey rojo) y [Zum 
-Seppl](https://heidelberger-kulturbrauerei.de/en/seppl/) (Casa Pepe, y no es broma). 
-Sirven comida tradicional, así que son una buena opción para cenar. 
+nota de estas dos: [Zum roten Ochsen](https://roterochsen.de/en/961-2/) (El buey rojo) y 
+[Zum Seppl](https://heidelberger-kulturbrauerei.de/en/seppl/) (Casa Pepe, y no es 
+broma). Sirven comida tradicional, así que son una buena opción para cenar. 
 
 ![cerveceria vetter en heidelberg](https://fotos.etheriamagazine.com/2020/06/vetter-heidelberg.jpg "Cervecería Vetter. © Etheria Magazine")
 
@@ -235,8 +235,7 @@ Más información
 
 También te puede interesar en Alemania 
 
-[Múnich y Bad Wörishofen, la Alemania más verde y 
-saludable](https://etheriamagazine.com/2021/08/04/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable/). 
+{{< reflink path=posts/2021/08/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable 
+>}}. 
 
-[Descubre Hamburgo en 48 horas, la Alemania más 
-canalla](https://etheriamagazine.com/2020/02/24/que-ver-hacer-fin-de-semana-hamburgo-alemania/).
+{{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}}.

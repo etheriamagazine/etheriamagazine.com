@@ -1,7 +1,7 @@
 ---
 title: "‘Soñar es viajar. 88 viajes en confinamiento’, un libro solidario de viajes y fotografía"
 date: 2020-09-01
-coverImage: https://fotos.etheriamagazine.com/2020/09/libro-88-viajes-manuel-charlon.jpg
+cover: https://fotos.etheriamagazine.com/2020/09/libro-88-viajes-manuel-charlon.jpg
 categories: 
   - cultura
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-Los libros de viajes invitan a soñar y a disfrutar con sus imágenes de destinos cercanos 
-y lejanos. También nos inspiran, nos entretienen, e, incluso, pueden aportar su granito 
-de arena en causas solidarias. Ese es el caso de ‘Soñar es viajar. 88 viajes en 
+**Los libros de viajes invitan a soñar y a disfrutar con sus imágenes de destinos 
+cercanos y lejanos. También nos inspiran, nos entretienen, e, incluso, pueden aportar su 
+granito de arena en causas solidarias. Ese es el caso de ‘Soñar es viajar. 88 viajes en 
 confinamiento’, de Manuel Charlón. Te contamos cómo se gestó y de qué manera puedes 
-contribuir a la causa. 
+contribuir a la causa.** 
 
 ![libros solidarios, libros covid 19, Sonar es viajar, 88 viajes en confinamiento](https://fotos.etheriamagazine.com/2020/09/88-viajes-confinamiento.jpg "'Soñar es viajar. 88 viajes en confinamiento'.")
 

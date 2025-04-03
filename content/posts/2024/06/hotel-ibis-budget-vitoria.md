@@ -1,7 +1,7 @@
 ---
 title: "Ibis budget Vitoria-Gasteiz, un hotel para disfrutar de Vitoria al mejor precio"
 date: 2024-06-05
-coverImage: https://fotos.etheriamagazine.com/2024/06/hotel-ibis-budget-vitoria-fachada.jpg
+cover: https://fotos.etheriamagazine.com/2024/06/hotel-ibis-budget-vitoria-fachada.jpg
 categories: 
   - hoteles
 destino: 
@@ -77,8 +77,6 @@ Martin de Saracibar, 2, Vitoria. Tel. +34 945 354 085
 
 **También te puede interesar:** 
 
-[Planes en Vitoria con amigas dispuestas al 
-picoteo](https://etheriamagazine.com/2021/09/15/planes-originales-en-vitoria-con-amigas/) 
+{{< reflink path=posts/2021/09/planes-originales-en-vitoria-con-amigas >}} 
 
-[10 fachadas básicas en la Ruta de los Murales de 
-Vitoria](https://etheriamagazine.com/2019/11/21/ruta-murales-en-vitoria-10-grafitis-imprescindibles/)
+{{< reflink path=posts/2019/11/ruta-murales-en-vitoria-10-grafitis-imprescindibles >}}

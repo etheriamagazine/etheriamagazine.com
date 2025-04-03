@@ -1,7 +1,7 @@
 ---
 title: "Si León no existiera, habría que inventarlo: 10 razones para descubrir la capital de un reino fascinante"
 date: 2020-12-28
-coverImage: https://fotos.etheriamagazine.com/2020/12/leon-casa-botines-fachada.jpg
+cover: https://fotos.etheriamagazine.com/2020/12/leon-casa-botines-fachada.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -43,8 +43,8 @@ El arquitecto Antonio Gaudí eligió León para construir **Casa Botines**, una 
 obras fuera de Cataluña. Gaudí no parece Gaudí en este palacio en el que se aleja de su 
 etapa más modernista. Sus esbeltos y grisáceos torreones custodian la escultura de un 
 imponente **San Jorge** que está venciendo a un dragón. La figura atesora muchísimas 
-leyendas, como te contamos en [16 secretos que desconoces de la milenaria ciudad de 
-León](https://etheriamagazine.com/2020/12/16/16-lugares-secretos-y-leyendas-de-leon-capital/). 
+leyendas, como te contamos en {{< reflink 
+path=posts/2020/12/16-lugares-secretos-y-leyendas-de-leon-capital >}}. 
 
 El interior de Botines alberga el [museo más importante del 
 mundo](https://www.casabotines.es/) dedicado a Gaudí, y su sótano está dedicado a [El 
@@ -68,13 +68,14 @@ termas y al **anfiteatro romano**.
 
 ## 5\. Impregnarse del arte contemporáneo del MUSAC
 
-Inspirada en los colores de las vidrieras de la catedral, la sede del [MUSAC](https://musac.es/), 
-el Museo de Arte Contemporáneo de Castilla y León, asume desde el 2005 su papel como 
-motor para la creación de **arte contemporáneo** de la Comunidad. La confluencia del 
-legado histórico leonés con la experimentación y los nuevos vientos de este museo, trae 
-como resultado un ambiente que da cabida a la reflexión filosófica, desde lo más 
-profundo del ser humano hasta lo más banal. Una visita a su interior no deja indiferente 
-a nadie y, además, la entrada es gratuita los domingos. 
+Inspirada en los colores de las vidrieras de la catedral, la sede del 
+[MUSAC](https://musac.es/), el Museo de Arte Contemporáneo de Castilla y León, asume 
+desde el 2005 su papel como motor para la creación de **arte contemporáneo** de la 
+Comunidad. La confluencia del legado histórico leonés con la experimentación y los 
+nuevos vientos de este museo, trae como resultado un ambiente que da cabida a la 
+reflexión filosófica, desde lo más profundo del ser humano hasta lo más banal. Una 
+visita a su interior no deja indiferente a nadie y, además, la entrada es gratuita los 
+domingos. 
 
 ![rosquillas san froilan de leon](https://fotos.etheriamagazine.com/2020/12/rosquillas-san-froilan-leon.jpg "Las rosquillas de San Froilán son el dulce típico del 5 de octubre, festividad que conmemora al patrón de León. © Confitería Sanvy")
 
@@ -98,12 +99,12 @@ sangría, pero elaborado artesanalmente y con un punto meloso.
 Y todo esto incluirá siempre, siempre, SIEMPRE, una considerable tapa cuyo tamaño aspira 
 a ración. En el **Barrio Húmedo**, en pleno casco histórico de la ciudad, probarás la 
 cecina y el chorizo de [Ezequiel](https://www.embutidosezequiel.com/), las sopas de ajo 
-del [Camarote Madrid](https://camarotehotel.es/), las croquetas del [Rebote](http://tapealeon.com/rebote), 
-las patatas picantes del [Flechazo](http://tapealeon.com/bar-flechazo)… La lista es 
-interminable, por eso en León se van “de alterne”, es decir, cambian de bar para poder 
-descubrir nuevos bocados cada día. No te pierdas nuestro particular recorrido de tapas 
-en este artículo de [48 horas en 
-León.](https://etheriamagazine.com/2018/09/27/48-horas-en-leon/) 
+del [Camarote Madrid](https://camarotehotel.es/), las croquetas del 
+[Rebote](http://tapealeon.com/rebote), las patatas picantes del 
+[Flechazo](http://tapealeon.com/bar-flechazo)… La lista es interminable, por eso en León 
+se van “de alterne”, es decir, cambian de bar para poder descubrir nuevos bocados cada 
+día. No te pierdas nuestro particular recorrido de tapas en este artículo de {{< reflink 
+path=posts/2018/09/48-horas-en-leon >}} 
 
 Los leoneses son tan creativos que se han inventado un barrio y le han puesto nombre: el 
 **Barrio Romántico** se encuentra muy cerca del Húmedo y representa la escena gastro más 
@@ -134,16 +135,16 @@ más pequeños se convierte en lo más importante.
 
 ## 8\. Dormir como un peregrino de lujo
 
-Después de tres años de reformas integrales, el [Parador de 
-León](https://etheriamagazine.com/2020/12/22/parador-de-leon-hotel-romantico-y-de-lujo/) 
-ha vuelto a reabrir sus puertas coincidiendo con la llegada del **Año Xacobeo 2021**. Se 
-encuentra en **San Marcos**, un edificio de gran valor artístico cuyo origen se remonta 
-al siglo XII, aunque fue reformado y ampliado en el siglo XVI. Este soberbio modelo del 
-plateresco renacentista ha sido convento, hospital, campo de concentración, hospedería 
-de peregrinos, cuartel y hasta cárcel en la que estuvo preso **Francisco de** 
-**Quevedo**. Los huéspedes del Parador disfrutarán de su estancia rodeados por más de 
-quinientas obras de arte, una de las razones por las que ha obtenido la exclusiva 
-categoría cinco estrellas Gran Lujo. 
+Después de tres años de reformas integrales, el {{< reflink 
+path=posts/2020/12/parador-de-leon-hotel-romantico-y-de-lujo >}} ha vuelto a reabrir sus 
+puertas coincidiendo con la llegada del **Año Xacobeo 2021**. Se encuentra en **San 
+Marcos**, un edificio de gran valor artístico cuyo origen se remonta al siglo XII, 
+aunque fue reformado y ampliado en el siglo XVI. Este soberbio modelo del plateresco 
+renacentista ha sido convento, hospital, campo de concentración, hospedería de 
+peregrinos, cuartel y hasta cárcel en la que estuvo preso **Francisco de** **Quevedo**. 
+Los huéspedes del Parador disfrutarán de su estancia rodeados por más de quinientas 
+obras de arte, una de las razones por las que ha obtenido la exclusiva categoría cinco 
+estrellas Gran Lujo. 
 
 ![plaza del grano de leon](https://fotos.etheriamagazine.com/2020/12/Leon-nevado.jpg "Plaza del Grano. © El Leonés Errante")
 
@@ -171,8 +172,6 @@ no sé cantar, yo no sé reír".
 
 ### Te puede interesar...
 
-[Picos de Europa. Ruta por la columna vertebral de León, Asturias y 
-Cantabria](https://etheriamagazine.com/2018/10/17/picos-de-europa-ruta-por-asturias-leon-y-cantabria/). 
+{{< reflink path=posts/2018/10/picos-de-europa-ruta-por-asturias-leon-y-cantabria >}}. 
 
-[Escapadas por España: Las Médulas, ‘prestosidad’ a la 
-leonesa](https://etheriamagazine.com/2020/05/11/escapadas-por-espana-las-medulas-leon/).
+{{< reflink path=posts/2020/05/escapadas-por-espana-las-medulas-leon >}}.

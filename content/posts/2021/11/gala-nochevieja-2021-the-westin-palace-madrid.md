@@ -1,7 +1,7 @@
 ---
 title: "The Westin Palace Madrid o cómo entrar en 2022 rodeado de luces y estrellas"
 date: 2021-11-16
-coverImage: https://fotos.etheriamagazine.com/2021/11/hotel-palace-noche-madrid.jpg
+cover: https://fotos.etheriamagazine.com/2021/11/hotel-palace-noche-madrid.jpg
 categories: 
   - hoteles
 destino: 
@@ -101,19 +101,16 @@ especial por persona de 175 €, bebidas incluidas.
 ##### Más información
 
 [The Westin 
-Palace](https://www.espanol.marriott.com/hotels/travel/madwi-the-westin-palace-madrid/). [Fiestas 
-y eventos en la Rotonda.](https://www.larotondapalace.com/) **Galas de Navidad y 
-Nochevieja** (Tel. 913 607 666 o events.palace@westin.com) 
+Palace](https://www.espanol.marriott.com/hotels/travel/madwi-the-westin-palace-madrid/). 
+[Fiestas y eventos en la Rotonda.](https://www.larotondapalace.com/) **Galas de Navidad 
+y Nochevieja** (Tel. 913 607 666 o events.palace@westin.com) 
 
 \*Fotos cedidas por The Westin Palace 
 
 ### También te puede interesar...
 
-[15 escapadas a menos de 99 km de 
-Madrid](https://etheriamagazine.com/2020/05/20/15-escapadas-a-menos-de-99-km-de-madrid/). 
+{{< reflink path=posts/2020/05/15-escapadas-a-menos-de-99-km-de-madrid >}}. 
 
-[11 escapadas de un día a 100 km o más de 
-Madrid](https://etheriamagazine.com/2020/06/02/11-escapadas-cercanas-a-dos-horas-de-madrid/). 
+{{< reflink path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}}. 
 
-[Meet Vincent van Gogh: la exhibición que te acerca la vida del genial pintor en 
-Madrid](https://etheriamagazine.com/2021/10/01/meet-vincent-van-gogh-exposicion-madrid/).
+{{< reflink path=posts/2021/10/meet-vincent-van-gogh-exposicion-madrid >}}.

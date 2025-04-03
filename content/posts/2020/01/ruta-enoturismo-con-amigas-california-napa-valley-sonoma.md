@@ -1,7 +1,7 @@
 ---
 title: "California Dreams, una ruta entre viñedos"
 date: 2020-01-06
-coverImage: https://fotos.etheriamagazine.com/2019/12/bodegas-california-Francis-Ford-Coppola-Winery.jpg
+cover: https://fotos.etheriamagazine.com/2019/12/bodegas-california-Francis-Ford-Coppola-Winery.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,11 @@ authors:
   - Pedro Grifol
 ---
 
-En el norte de California, los viñedos cubren las laderas hasta donde alcanza la vista. 
-Y sus vinos están entre los mejores del mundo. Hemos visitado algunas de las bodegas más 
-emblemáticas para descubrir los secretos del llamado ‘wine country’. Además, hemos 
-encontrado una auténtica Mujer Etheria: Marimar Torres, emprendedora y entusiasta. 
+**En el norte de California, los viñedos cubren las laderas hasta donde alcanza la 
+vista. Y sus vinos están entre los mejores del mundo. Hemos visitado algunas de las 
+bodegas más emblemáticas para descubrir los secretos del llamado ‘wine country’. Además, 
+hemos encontrado una auténtica Mujer Etheria: Marimar Torres, emprendedora y 
+entusiasta.** 
 
 ![Marimar Torres, al frente de la Casa Torres en California.](https://fotos.etheriamagazine.com/2019/12/Marimar-Torres-bodega-california.jpg "Marimar Torres, al frente de la Casa Torres en California. © P. Grifol")
 
@@ -180,8 +181,6 @@ se te acaba el viaje _ipso facto_.
 
 ### Te puede interesar...
 
-[8 viajes para volver a Estados 
-Unidos](https://etheriamagazine.com/2021/11/03/viajes-a-estados-unidos/). 
+{{< reflink path=posts/2021/11/viajes-a-estados-unidos >}}. 
 
-[eSIM para Europa, una alternativa al roaming en países como el Reino 
-Unido](https://etheriamagazine.com/2022/08/02/esim-europa-no-comunitaria/)
+{{< reflink path=posts/2022/08/esim-europa-no-comunitaria >}}

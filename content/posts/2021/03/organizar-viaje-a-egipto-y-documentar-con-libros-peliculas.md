@@ -1,7 +1,7 @@
 ---
 title: "Prepara tu viaje a Egipto con libros y películas"
 date: 2021-03-01
-coverImage: https://fotos.etheriamagazine.com/2021/02/Egipto-viajar-pinturas.jpg
+cover: https://fotos.etheriamagazine.com/2021/02/Egipto-viajar-pinturas.jpg
 categories: 
   - inspiración
   - cultura
@@ -12,10 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-Es casi imposible encontrar a alguien que no quiera viajar a Egipto. Aquí te 
+**Es casi imposible encontrar a alguien que no quiera viajar a Egipto. Aquí te 
 recomendamos algunas películas, documentales y libros para que te vayas ambientando 
 antes de tu viaje o para, por qué no, viajar a este maravilloso destino a través de los 
-fotogramas y las palabras. 
+fotogramas y las palabras.** 
 
 ![organizar un viaje a egipto](https://fotos.etheriamagazine.com/2021/02/Egipto-viajar-pinturas.jpg "La fascinación por el mundo egipcio ha inspirado infinidad de películas y libros.")
 
@@ -199,8 +199,9 @@ Ya hemos hablado en el apartado de películas de la adaptación al cine de este 
 que merece la pena asomarse para comprender mejor la transformación de Egipto en el 
 siglo XX. Refleja temas como la corrupción, la homosexualidad, la discriminación de la 
 mujer o la hipocresía moral, centrándose en las vidas de los que habitan en el edificio 
-de apartamentos Yacobián en El Cairo (que existe realmente). Lo puedes encontrar en [Balquis](https://libreriabalqis.es/libro/el-edificio-yacobian_498), 
-la librería de la Casa Árabe. 
+de apartamentos Yacobián en El Cairo (que existe realmente). Lo puedes encontrar en 
+[Balquis](https://libreriabalqis.es/libro/el-edificio-yacobian_498), la librería de la 
+Casa Árabe. 
 
 ### 'Las Lágrimas de Isis' de Antonio Cabanas
 
@@ -229,8 +230,8 @@ Esta novela cuenta la vida en la corte egipcia de Yuya, sobrino de Amenofis IV
 (Akenatón) e hijo de Moisés (que aquí es presentado como un príncipe egipcio), desde su 
 paso de pequeño por la escuela La Rosa del Nilo, la mejor escuela de toda la Antigüedad, 
 hasta su papel como embajador en la corte. Una historia de intrigas, rumores, mentiras y 
-ambiciones, pero también de arte y conocimiento. Disponible en [Amazon](https://amzn.to/3qPVTb4) 
-en versión Kindle. 
+ambiciones, pero también de arte y conocimiento. Disponible en 
+[Amazon](https://amzn.to/3qPVTb4) en versión Kindle. 
 
 ![organizar un viaje a Egipto](https://fotos.etheriamagazine.com/2021/02/Egipto-guias-viaje.jpg "Guías de viaje sobre Egipto.")
 
@@ -247,11 +248,8 @@ los Reyes, Asuán, Abu Simbel’](https://amzn.to/3aQ2mwU) (2018) de Ediciones G
 
 **También te puede interesar** 
 
-[The St. Regis Cairo, un nuevo hotel de lujo a orillas del 
-Nilo.](https://etheriamagazine.com/2021/02/09/hotel-de-lujo-egipto-the-st-regis-cairo/) 
+{{< reflink path=posts/2021/02/hotel-de-lujo-egipto-the-st-regis-cairo >}} 
 
-[10 neceseres para mujeres 
-viajeras.](https://etheriamagazine.com/2019/10/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras/) 
+{{< reflink path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}} 
 
-[10 gadgets (+ 1 frikada) imprescindibles en tus 
-viajes.](https://etheriamagazine.com/2019/10/26/10-gadgets-frikis-imprescindibles-en-tus-viajes/)
+{{< reflink path=posts/2019/10/10-gadgets-frikis-imprescindibles-en-tus-viajes >}}

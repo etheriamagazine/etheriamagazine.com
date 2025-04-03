@@ -1,7 +1,7 @@
 ---
 title: "Lugares sorprendentes de Cantabria que aún no conoces"
 date: 2020-06-05
-coverImage: https://fotos.etheriamagazine.com/2020/06/viaje-bosque-secuoyas-cantabria.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/viaje-bosque-secuoyas-cantabria.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Cantabria y sus valles guardan muchos secretos, lugares poco conocidos en los que aún no 
-hay que hacer cola para tomarse un selfi. Compartimos contigo ocho de ellos... pero no 
-le digas a nadie que allí puede encontrar un Partenón, una calzada romana, un bosque de 
-secuoyas, ermitas rupestres, un inmenso laberinto o un palacio de ensueño. 
+**Cantabria y sus valles guardan muchos secretos, lugares poco conocidos en los que aún 
+no hay que hacer cola para tomarse un selfi. Compartimos contigo ocho de ellos... pero 
+no le digas a nadie que allí puede encontrar un Partenón, una calzada romana, un bosque 
+de secuoyas, ermitas rupestres, un inmenso laberinto o un palacio de ensueño.** 
 
 ![el bosque secuoyas es una de las rutas originales cantabria](https://fotos.etheriamagazine.com/2020/06/bosque-secuoyas-cantabria.jpg "Bosque de secuoyas. © Manuel Charlón")
 

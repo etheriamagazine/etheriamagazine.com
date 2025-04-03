@@ -1,7 +1,7 @@
 ---
 title: "12 visitas a Oporto para un viaje con amigas"
 date: 2020-05-01
-coverImage: https://fotos.etheriamagazine.com/2020/05/oporto-con-amigas.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/oporto-con-amigas.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Por sus monumentos, su gastronomía, su luz y ese halo entre bohemio y romántico nos 
+**Por sus monumentos, su gastronomía, su luz y ese halo entre bohemio y romántico nos 
 encanta la ciudad de Oporto. Aunque es un destino donde podríamos pasar una semana sin 
 cansarnos, concentraremos las visitas que se pueden hacer en Oporto con amigas o con 
-quien quieras. 
+quien quieras.** 
 
 ![Vistas de Oporto.](https://fotos.etheriamagazine.com/2020/05/oporto-con-amigas.jpg "Vistas de Oporto. © Pedro Cunha")
 
@@ -86,9 +86,9 @@ fotografías.
 Para admirar la ciudad desde otra perspectiva mientras descansas un rato, te 
 recomendamos que hagas un pequeño crucero fluvial. Entre las distintas modalidades que 
 existen, una de las más demandadas es la que recorre el Duero pasando por debajo de los 
-6 puentes de Oporto. Tiene una duración de unos 50 minutos. Puedes reservarlo en [Crucero 
-de Oporto](https://www.civitatis.com/es/oporto/crucero-seis-puentes/?aid=10211) (18 €) o [Crucero 
-desde Vila Nova de 
+6 puentes de Oporto. Tiene una duración de unos 50 minutos. Puedes reservarlo en 
+[Crucero de Oporto](https://www.civitatis.com/es/oporto/crucero-seis-puentes/?aid=10211) 
+(18 €) o [Crucero desde Vila Nova de 
 Gaia](https://www.civitatis.com/es/oporto/crucero-seis-puentes-gaia/?aid=10211) (15 €). 
 Existen descuentos y gratuidades para niños. 
 
@@ -240,8 +240,8 @@ escuela de vino, tiendas y galerías de exposiciones. Y de visita obligada tambi
 se conserva una bonita capilla del arquitecto Nicolau Nasoni. En dicho museo se hace un 
 repaso a la industria textil en Portugal y se da a conocer la moda portuguesa. 
 
-📍No te pierdas: [WOW Oporto, el mayor barrio gastronómico y cultural de 
-Portugal](https://etheriamagazine.com/2022/03/14/wow-oporto-barrio-gastronomico-cultural/). 
+📍No te pierdas: {{< reflink path=posts/2022/03/wow-oporto-barrio-gastronomico-cultural 
+>}}. 
 
 ### Para tomar nota si viajas sola a Oporto
 
@@ -257,8 +257,6 @@ puede asustarte. Esta fue la primera ciudad a la que viajé sola y la recomiendo
 
 **Te puede interesar...** 
 
-[The Yeatman, el exclusivo hotel del vino que mira de frente a 
-Oporto](https://etheriamagazine.com/2022/05/12/the-yeatman-hotel-del-vino-oporto/). 
+{{< reflink path=posts/2022/05/the-yeatman-hotel-del-vino-oporto >}}. 
 
-[8 visitas originales en Lisboa que (quizá) te quedan por 
-hacer](https://etheriamagazine.com/2021/10/27/8-visitas-originales-en-lisboa/).
+{{< reflink path=posts/2021/10/8-visitas-originales-en-lisboa >}}.

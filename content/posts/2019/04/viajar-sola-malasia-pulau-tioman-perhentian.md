@@ -1,7 +1,7 @@
 ---
 title: "Viajar sola a Malasia, un itinerario entre islas y selva"
 date: 2019-04-12
-coverImage: https://fotos.etheriamagazine.com/2019/04/Malasia-puerto-isla-Perhentian.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/Malasia-puerto-isla-Perhentian.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Ana Vara y David Santiago
 ---
 
-La diversidad es la tónica de la península malaya. Puedes estar descubriendo los 
+**La diversidad es la tónica de la península malaya. Puedes estar descubriendo los 
 misterios de las profundidades del mar en alguna de sus islas y en pocas horas 
 recorriendo el interior de una selva. Todo está muy a mano en este rincón del sudeste 
-asiático. Además, es un buen destino para comenzar a viajar sola. 
+asiático. Además, es un buen destino para comenzar a viajar sola.** 
 
 ![isla Perhentian en malasia](https://fotos.etheriamagazine.com/2019/04/malasia-isla-perhentian.jpg "Esnórquel en la Isla Perhentian.")
 
@@ -170,11 +170,8 @@ comer sin necesidad de estar alojada.
 
 📌 **También te puede interesar:** 
 
-[Viajar sola, destinos donde es seguro hacer una 
-escapada](https://etheriamagazine.com/2020/08/12/viaja-sola-paises-mas-seguros-para-mujeres/) 
+{{< reflink path=posts/2020/08/viaja-sola-paises-mas-seguros-para-mujeres >}} 
 
-[Si quieres a tu pareja no viajes a 
-Bali](https://etheriamagazine.com/2019/07/23/luna-miel-bali-maldicion-ruptura/) 
+{{< reflink path=posts/2019/07/luna-miel-bali-maldicion-ruptura >}} 
 
-[Planes en Phuket con amigas dispuestas a 
-divertirse](https://etheriamagazine.com/2019/06/26/que-ver-en-phuket-tailandia-sola-o-con-amigas/)
+{{< reflink path=posts/2019/06/que-ver-en-phuket-tailandia-sola-o-con-amigas >}}

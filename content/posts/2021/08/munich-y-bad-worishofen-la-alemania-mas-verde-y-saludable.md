@@ -1,7 +1,7 @@
 ---
 title: "Múnich y Bad Wörishofen, la Alemania más verde y saludable"
 date: 2021-08-04
-coverImage: https://fotos.etheriamagazine.com/2021/07/alemania-kupark-bad-worishofen-scaled.jpg
+cover: https://fotos.etheriamagazine.com/2021/07/alemania-kupark-bad-worishofen-scaled.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -227,8 +227,8 @@ Más información en [Turismo de Alemania](https://www.germany.travel/en/home.ht
 
 ### También te puede interesar
 
-[Descubre Hamburgo en 48 horas, la Alemania más 
-canalla](https://etheriamagazine.com/2020/02/24/que-ver-hacer-fin-de-semana-hamburgo-alemania/). 
+{{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}}. 
 
-[10 planes para hacer sola o con amigas en 
-Heid](https://etheriamagazine.com/2020/06/12/que-ver-hacer-en-heidelberg-si-viajas-sola-amigas/)[e](https://etheriamagazine.com/2020/06/12/que-ver-hacer-en-heidelberg-si-viajas-sola-amigas/)[lberg](https://etheriamagazine.com/2020/06/12/que-ver-hacer-en-heidelberg-si-viajas-sola-amigas/).
+{{< reflink path=posts/2020/06/que-ver-hacer-en-heidelberg-si-viajas-sola-amigas >}}{{< 
+reflink path=posts/2020/06/que-ver-hacer-en-heidelberg-si-viajas-sola-amigas >}}{{< 
+reflink path=posts/2020/06/que-ver-hacer-en-heidelberg-si-viajas-sola-amigas >}}.

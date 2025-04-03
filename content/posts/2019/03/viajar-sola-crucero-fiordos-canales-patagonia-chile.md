@@ -1,7 +1,7 @@
 ---
 title: "Crucero por los fiordos y canales de la Patagonia chilena"
 date: 2019-03-22
-coverImage: https://fotos.etheriamagazine.com/2019/03/crucero-patagonia-chile.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/crucero-patagonia-chile.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-Subirte a un ferry con todos los servicios a bordo puede ser una gran manera de viajar 
+**Subirte a un ferry con todos los servicios a bordo puede ser una gran manera de viajar 
 sola y disfrutar de los paisajes y de la cultura de la Patagonia chilena. No te pierdas 
 los detalles de un crucero por los fiordos de la Patagonia chilena en este artículo de 
-la escritora Elisabeth G. Iborra. 
+la escritora Elisabeth G. Iborra.** 
 
 ![mujer en la cubierta del ferry de Navimag.](https://fotos.etheriamagazine.com/2019/02/Navimag-foto-cubierta-e1552986249269.jpg "Vista desde la cubierta del ferry de Navimag.")
 
@@ -148,12 +148,13 @@ esa belleza ya hablaremos otro día.
 
 ## Información práctica
 
-**·** Esta travesía se realiza con [Navimag](https://www.navimag.com/explora-la-patagonia-en-ferry-navimag) 
-que es una compañía de ferries, no de cruceros, que transporta pasajeros y vehículos. 
-Ofrece un tipo de viaje como los de antes, perfecto para los _slow travelers_, y las 
-travesías son de una semana desde Puerto Montt a Puerto Natales y viceversa. Puedes 
-compartir cabina o reservarla completa para ti. Los precios van desde 400 dólares en 
-cabina compartida (4 días y 3 noches cada trayecto). 
+**·** Esta travesía se realiza con 
+[Navimag](https://www.navimag.com/explora-la-patagonia-en-ferry-navimag) que es una 
+compañía de ferries, no de cruceros, que transporta pasajeros y vehículos. Ofrece un 
+tipo de viaje como los de antes, perfecto para los _slow travelers_, y las travesías son 
+de una semana desde Puerto Montt a Puerto Natales y viceversa. Puedes compartir cabina o 
+reservarla completa para ti. Los precios van desde 400 dólares en cabina compartida (4 
+días y 3 noches cada trayecto). 
 
 **·** Más información sobre los destinos en [Turismo de Chile](https://chile.travel). 
 
@@ -161,11 +162,8 @@ Fotografías cedidas por Navimag.
 
 📌 **También te puede interesar:** 
 
-[Valparaíso, una bonita ruta de street art en la ciudad chilena del 
-arcoíris](https://etheriamagazine.com/2020/01/20/que-ver-en-valparaiso-ruta-grafitis-chile/) 
+{{< reflink path=posts/2020/01/que-ver-en-valparaiso-ruta-grafitis-chile >}} 
 
-[San Pedro de Atacama, la capital del ‘buenrollismo’ está en 
-Chile](https://etheriamagazine.com/2019/01/04/que-ver-en-desierto-atacama-san-pedro-atacama-chile/) 
+{{< reflink path=posts/2019/01/que-ver-en-desierto-atacama-san-pedro-atacama-chile >}} 
 
-[Descubre la Patagonia navegando hacia el Estrecho de 
-Magallanes](https://etheriamagazine.com/2020/03/17/viaje-mujeres-crucero-patagonia-chilena-magallanes/)
+{{< reflink path=posts/2020/03/viaje-mujeres-crucero-patagonia-chilena-magallanes >}}

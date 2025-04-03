@@ -1,7 +1,7 @@
 ---
 title: "Ruta del Vino Somontano, experiencias con amigas al pie de los Pirineos"
 date: 2025-01-13
-coverImage: https://fotos.etheriamagazine.com/2025/01/alquezar-parque-natural.jpeg
+cover: https://fotos.etheriamagazine.com/2025/01/alquezar-parque-natural.jpeg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -125,8 +125,8 @@ grillo y la luna o Alodia.
 
 ### Sommos
 
-De las tres mencionadas la que más llama la atención por su arquitectura futurista es [Bodega 
-Sommos](https://www.bodegasommos.com/), que es un espectáculo para los sentidos. 
+De las tres mencionadas la que más llama la atención por su arquitectura futurista es 
+[Bodega Sommos](https://www.bodegasommos.com/), que es un espectáculo para los sentidos. 
 Diseñada por Jesús Marino Pascual, su estructura de acero y cristal parece emerger de 
 los viñedos como un monumento al vino actual. En sus instalaciones, Sommos fusiona 
 tradición y tecnología para elaborar vinos que van desde blancos frescos y aromáticos 
@@ -210,11 +210,8 @@ servicios de taxi y algunas excursiones organizadas desde Barbastro.
 
 **También en Etheria Magazine** 
 
-1\. [Ruta del Vino de Almansa: entre viñedos, historia y una rica 
-mesa](https://etheriamagazine.com/2024/08/27/ruta-del-vino-de-almansa/). 
+1\. {{< reflink path=posts/2024/08/ruta-del-vino-de-almansa >}}. 
 
-2\. [Ruta del Vino Cigales, descubre que la felicidad puede ser de color 
-rosado](https://etheriamagazine.com/2024/05/27/ruta-del-vino-de-cigales-amigas/). 
+2\. {{< reflink path=posts/2024/05/ruta-del-vino-de-cigales-amigas >}}. 
 
-3\. [Ruta del Vino de Arribes, energía femenina de alto 
-voltaje](https://etheriamagazine.com/2023/04/19/ruta-del-vino-de-arribes/).
+3\. {{< reflink path=posts/2023/04/ruta-del-vino-de-arribes >}}.

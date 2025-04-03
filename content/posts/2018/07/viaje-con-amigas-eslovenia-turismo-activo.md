@@ -1,7 +1,7 @@
 ---
 title: "Organiza tu viaje a Eslovenia con amigas: un territorio no apto para perezosas"
 date: 2018-07-27
-coverImage: https://fotos.etheriamagazine.com/2018/07/Tolmin-eslovenia-viaje-aventura-e1578223707836.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/Tolmin-eslovenia-viaje-aventura-e1578223707836.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -138,17 +138,14 @@ tradicional con una localización imbatible.
 No te vayas de Eslovenia sin dedicarle un día a **Ljubljana**, la coqueta y encantadora 
 capital del país. 
 
-• Más información en [Turismo de Eslovenia](https://www.slovenia.info/es) (en español) 
+- Más información en [Turismo de Eslovenia](https://www.slovenia.info/es) (en español) 
 
 Fotos: Nuria Cortés y Turismo de Eslovenia 
 
 **También te puede interesar:** 
 
-[Croacia: consejos y visitas imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2021/01/22/viaje-a-croacia-como-organizar-que-ver-hacer/) 
+{{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}} 
 
-[Viajar sola a la costa de Montenegro: 6 lugares 
-imprescindibles](https://etheriamagazine.com/2020/06/29/viajar-sola-que-ver-hacer-en-costa-de-montenegro/) 
+{{< reflink path=posts/2020/06/viajar-sola-que-ver-hacer-en-costa-de-montenegro >}} 
 
-[48 horas en… Zagreb, la animada capital de 
-Croacia](https://etheriamagazine.com/2020/04/24/que-ver-hacer-en-2-3-dias-zagreb-croacia/)
+{{< reflink path=posts/2020/04/que-ver-hacer-en-2-3-dias-zagreb-croacia >}}

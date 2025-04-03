@@ -1,7 +1,7 @@
 ---
 title: "Ruta en coche por Cerdeña, un plan irrechazable"
 date: 2018-09-14
-coverImage: https://fotos.etheriamagazine.com/2018/09/viaje-La-Pelosa-Stintino-Sardegna-e1550992140547.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/viaje-La-Pelosa-Stintino-Sardegna-e1550992140547.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,9 +10,10 @@ authors:
   - Pilar Ortega
 ---
 
-Hay muchas maneras de enfocar una ruta en coche por Cerdeña pero las reduciremos a dos, 
-según quieras compartir espacio con ricos y famosos o prefieras descansar en remansos de 
-paz. Claro que también existe la posibilidad de combinar ambas... Tú eliges. 
+**Hay muchas maneras de enfocar una ruta en coche por Cerdeña pero las reduciremos a 
+dos, según quieras compartir espacio con ricos y famosos o prefieras descansar en 
+remansos de paz. Claro que también existe la posibilidad de combinar ambas... Tú 
+eliges.** 
 
 ![playa pelosa ruta coche cerdena](https://fotos.etheriamagazine.com/2018/09/viaje-La-Pelosa-Stintino-Sardegna-e1550992140547.jpg "La playa de La Pelosa es una de las imágenes idílicas de Cerdeña. © ENIT")
 
@@ -179,11 +180,8 @@ Italia](http://www.italia.it/es/home.html).
 
 **También te puede interesar...** 
 
-[Cagliari, un viaje a Cerdeña para mujeres de buen 
-comer](https://etheriamagazine.com/2020/09/17/guia-basica-cagliari-para-mujeres-viajeras/) 
+{{< reflink path=posts/2020/09/guia-basica-cagliari-para-mujeres-viajeras >}} 
 
-[La isla de Gozo, un lugar donde querrás quedarte a 
-vivir](https://etheriamagazine.com/2021/04/29/que-ver-hacer-gozo-malta/). 
+{{< reflink path=posts/2021/04/que-ver-hacer-gozo-malta >}}. 
 
-[Sicilia, entre pantocrátores y 
-bikinis](https://etheriamagazine.com/2018/08/07/sicilia-pantocratores-y-bikinis/).
+{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}}.

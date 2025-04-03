@@ -1,7 +1,7 @@
 ---
 title: "Meet Vincent van Gogh: la exhibición que te acerca la vida del genial pintor en Madrid"
 date: 2021-10-01
-coverImage: https://fotos.etheriamagazine.com/2021/09/meet-vicent-van-gogh-habitacion.jpg
+cover: https://fotos.etheriamagazine.com/2021/09/meet-vicent-van-gogh-habitacion.jpg
 categories: 
   - cultura
   - ocio
@@ -91,15 +91,14 @@ noviembre de 2022. Horario: de 10 a 20 h (de lunes a jueves y domingos) y del 10
 al Museo del Ferrocarril). Duración: de 60 a 80 minutos. Precio: 14 Euros (entrada 
 general), 12 Euros (entrada reducida para estudiantes, mayores de 65, menores de 18 y 
 personas con diversidad funcional). Existen pack de 4 entradas (cada una 12 Euros). La 
-audioguía es gratuita. Compra [aquí](https://feverup.com/m/100122?thm=70&utm_source=partner&utm_medium=landing_vg&utm_campaign=100122_mad) 
+audioguía es gratuita. Compra 
+[aquí](https://feverup.com/m/100122?thm=70&utm_source=partner&utm_medium=landing_vg&utm_campaign=100122_mad) 
 tus entradas. 
 
 Fotografías cortesía de Proactiv. 
 
 ### También te puede interesar...
 
-[Jamming sessions, un espectáculo donde la clave está en la 
-improvisación](https://etheriamagazine.com/2021/09/30/jamming-sessions-teatro-de-improvisacion-madrid/) 
+{{< reflink path=posts/2021/09/jamming-sessions-teatro-de-improvisacion-madrid >}} 
 
-[Lee Krasner, artista y esposa de Pollock, una reivindicación 
-necesaria](https://etheriamagazine.com/2021/08/06/lee-krasner-inspira-el-color-de-tu-nombre/)
+{{< reflink path=posts/2021/08/lee-krasner-inspira-el-color-de-tu-nombre >}}

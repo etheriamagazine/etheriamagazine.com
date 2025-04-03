@@ -1,7 +1,7 @@
 ---
 title: "Una ruta gastro por los sabores de Gran Canaria"
 date: 2023-07-24
-coverImage: https://fotos.etheriamagazine.com/2023/06/Gran-canaria-dulcería-nublo.jpg
+cover: https://fotos.etheriamagazine.com/2023/06/Gran-canaria-dulcería-nublo.jpg
 categories: 
   - viajar-en-familia
   - viajar-con-amigas
@@ -11,11 +11,11 @@ authors:
   - Alfredo G. Reyes
 ---
 
-Gran Canaria es mucho más que sus maravillosas playas. Guarda un interior verde donde 
+**Gran Canaria es mucho más que sus maravillosas playas. Guarda un interior verde donde 
 los paisajes de montaña conviven con unos cultivos llenos de personalidad. Te contamos 
 los secretos gastronómicos en forma de productos únicos como el café, los plátanos y el 
 ron que van a hacer que se te haga la boca agua en tu próximo viaje a esta isla canaria. 
-Prepara ya tu ruta por la gastronomía de Gran Canaria. 
+Prepara ya tu ruta por la gastronomía de Gran Canaria.** 
 
 ![Salinas de Tenefé en Gran Canaria](https://fotos.etheriamagazine.com/2023/06/Gran-canaria-SALINAS-DE-TENEFE.jpg "Salinas de Tenefé. © Salinas de Tenefé")
 
@@ -140,10 +140,11 @@ centro isleño declinan hacia el océano en profundos barrancos. Para conocer es
 presidida por el icónico Roque Nublo, es preciso disponer de un vehículo motorizado y, 
 al conducir por las carreteras de la zona, tener tanto cuidado como paciencia si se 
 quiere acceder a los diferentes núcleos de población y atractivos naturales. Entre los 
-primeros figura en lugar destacado [Tejeda](http://www.grancanaria.com/turismo/es/rutas/ruta-centro/tejeda). 
-Desde hace años presume, con razón, de su pertenencia a la lista de “Los pueblos más 
-bonitos de España”, con sus casas blanqueadas construidas a base de grandes bloques de 
-roca volcánica. 
+primeros figura en lugar destacado 
+[Tejeda](http://www.grancanaria.com/turismo/es/rutas/ruta-centro/tejeda). Desde hace 
+años presume, con razón, de su pertenencia a la lista de “Los pueblos más bonitos de 
+España”, con sus casas blanqueadas construidas a base de grandes bloques de roca 
+volcánica. 
 
 ## Al pie del Roque Nublo
 
@@ -208,8 +209,6 @@ Más información en [Turismo de Gran Canaria](http://www.grancanaria.com/turism
 
 📌 **También te puede interesar:** 
 
-[Senderismo y baños de bosque en Gran 
-Canaria](https://etheriamagazine.com/2018/05/03/senderismo-gran-canaria-banos-de-bosque/) 
+{{< reflink path=posts/2018/05/senderismo-gran-canaria-banos-de-bosque >}} 
 
-[25 curiosidades de Canarias que te 
-sorprenderán](https://etheriamagazine.com/2022/11/18/25-curiosidades-de-canarias/)
+{{< reflink path=posts/2022/11/25-curiosidades-de-canarias >}}

@@ -1,7 +1,7 @@
 ---
 title: "Florencia con niños, 10 actividades divertidas en la ciudad"
 date: 2018-05-17
-coverImage: https://fotos.etheriamagazine.com/2018/05/11-FLORENCIA-CON-NINOS-GALERIA-DE-LOS-UFFIZI-e1581094872695.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/11-FLORENCIA-CON-NINOS-GALERIA-DE-LOS-UFFIZI-e1581094872695.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -11,9 +11,9 @@ authors:
   - Susana García
 ---
 
-Florencia es un destino perfecto para viajar con niños. Aunque pueda parecer que el arte 
-abrumará a los más pequeños, hay museos y visitas adaptadas a sus gustos. Los helados y 
-la pizza harán el resto. 
+**Florencia es un destino perfecto para viajar con niños. Aunque pueda parecer que el 
+arte abrumará a los más pequeños, hay museos y visitas adaptadas a sus gustos. Los 
+helados y la pizza harán el resto.** 
 
 ![Florencia y la catedral de Santa Maria dei Fiore](https://fotos.etheriamagazine.com/2018/05/fin-semana-florencia-duomo.jpg "Florencia y la catedral de Santa Maria dei Fiore. © Marian Brandt")
 
@@ -56,9 +56,8 @@ que seguro que te pasa, no dejes de seguir este ritual.
 
 ![Niña con il porcellino en Florencia](https://fotos.etheriamagazine.com/2018/05/3-FLORENCIA-CON-NINOS-PORCELLINO.jpg "Hay que seguir la tradición de tocar la 'porcellino'. © SG")
 
-📌 Te vamos ya dando las pistas en el reportaje [15 ideas para disfrutar Florencia una 
-segunda 
-vez](https://etheriamagazine.com/2018/09/21/15-ideas-para-disfrutar-de-florencia-por-segunda-vez/). 
+📌 Te vamos ya dando las pistas en el reportaje {{< reflink 
+path=posts/2018/09/15-ideas-para-disfrutar-de-florencia-por-segunda-vez >}}. 
 
 ## 4\. Comer (y hacer) helados
 
@@ -137,11 +136,8 @@ Más información: [Turismo oficial de Florencia](https://www.feelflorence.it/).
 
 📌 **Más artículos sobre Florencia:** 
 
-[Aprovecha a tope un fin de semana en 
-Florencia](https://etheriamagazine.com/2018/05/16/48-horas-en-florencia-fin-de-semana-que-ver-hacer/) 
+{{< reflink path=posts/2018/05/48-horas-en-florencia-fin-de-semana-que-ver-hacer >}} 
 
-[Nueve paseos a la italiana por los jardines más bellos de 
-Florencia](https://etheriamagazine.com/2021/05/21/paseos-por-los-jardines-mas-bellos-de-florencia/) 
+{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}} 
 
-[Ruta en coche para recorrer la Toscana en 7 
-días](https://etheriamagazine.com/2021/06/01/toscana-en-coche/)
+{{< reflink path=posts/2021/06/toscana-en-coche >}}

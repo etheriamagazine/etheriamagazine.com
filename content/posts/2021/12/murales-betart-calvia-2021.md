@@ -1,7 +1,7 @@
 ---
 title: "BetArt Calvià 2021, visita sus cinco nuevos murales"
 date: 2021-12-04
-coverImage: https://fotos.etheriamagazine.com/2021/12/Joan-Cabrer-1.jpg
+cover: https://fotos.etheriamagazine.com/2021/12/Joan-Cabrer-1.jpg
 destino: 
   - España
 authors: 
@@ -83,11 +83,8 @@ Más información y otras visitas de interés en la [población](http://www.calv
 
 ### También te puede interesar...
 
-[¿Cómo percibió George Sand la isla de Mallorca hace casi dos 
-siglos?](https://etheriamagazine.com/2018/05/16/mallorca-de-la-mano-de-george-sand/) 
+{{< reflink path=posts/2018/05/mallorca-de-la-mano-de-george-sand >}} 
 
-[Tres dulces navideños de Palma, recetas y consejos para hacerlos en 
-casa](https://etheriamagazine.com/2021/11/19/recetas-cocas-patata-anis-turron-de-palma/). 
+{{< reflink path=posts/2021/11/recetas-cocas-patata-anis-turron-de-palma >}}. 
 
-[Palma con amigas: 8 planazos para exprimir la capital de 
-Mallorca](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palma-mallorca-con-amigas/).
+{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}.

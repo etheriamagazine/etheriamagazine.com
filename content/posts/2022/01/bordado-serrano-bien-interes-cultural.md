@@ -1,7 +1,7 @@
 ---
 title: "El Bordado serrano, próximo Bien de Interés Cultural Inmaterial"
 date: 2022-01-14
-coverImage: https://fotos.etheriamagazine.com/2022/01/bordado-serrano-sierra-francia-1.jpg
+cover: https://fotos.etheriamagazine.com/2022/01/bordado-serrano-sierra-francia-1.jpg
 categories: 
   - ocio
 destino: 
@@ -163,11 +163,8 @@ visita a la comarca de la Sierra de Francia.
 
 ### También te puede interesar...
 
-📍[Ruta del Vino de la Sierra de Francia, un brindis con amigas en 
-Salamanca](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/). 
+📍{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}. 
 
-📍[El Camino de Hierro, kilómetros de magia entre puentes y túneles en 
-Salamanca](https://etheriamagazine.com/2021/10/03/recorrido-del-camino-de-hierro-salamanca/), 
+📍{{< reflink path=posts/2021/10/recorrido-del-camino-de-hierro-salamanca >}}, 
 
-📍[Mogarraz se retrata, así es el pueblo de las 800 
-caras](https://etheriamagazine.com/2019/10/07/que-ver-en-mogarraz-pueblo-de-retratos-salamanca/).
+📍{{< reflink path=posts/2019/10/que-ver-en-mogarraz-pueblo-de-retratos-salamanca >}}.

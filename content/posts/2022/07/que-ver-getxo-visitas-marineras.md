@@ -1,7 +1,7 @@
 ---
 title: "Getxo, la escapada marinera con mejor rollo de Bizkaia"
 date: 2022-07-20
-coverImage: https://fotos.etheriamagazine.com/2022/07/Puerto-Viejo-de-Algorta.jpg
+cover: https://fotos.etheriamagazine.com/2022/07/Puerto-Viejo-de-Algorta.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -51,18 +51,18 @@ costa.
 ### 2\. Puente Bizkaia, un coloso industrial
 
 La ría aguas arriba es navegable y tiene la recompensa imborrable de situarte bajo el 
-elegante **Puente Bizkaia**, un puente metálico trasbordador conocido también como el [Puente 
-Colgante](https://puente-colgante.com/), una de las construcciones más singulares de las 
-que disfrutar en Getxo. Estás ante el puente trasbordador en funcionamiento más antiguo 
-del mundo, ya que fue inaugurado el 28 de julio de 1893 (¡129 años!). Aunque no es el 
-que inspiró la canción infantil, sigue levantando admiración con su estructura metálica 
-(la primera del mundo) que une las dos márgenes de la ría de Bilbao. No te bajes del 
-barco sin haberlo contemplado desde el agua con su barquilla colgante. Es su mejor cara 
-y la forma de abarcar su altura de 61 metros y sus 160 metros de longitud. También hay 
-otras posibilidades como subir a su **pasarela peatonal** (9,50 €) y alquilar una 
-audioguía (castellano, euskera, inglés y francés por 2,5 €) para conocer todos los 
-detalles. O bien, cruzar en la barquilla, ideal para los que tienen vértigo, por sólo 
-unos 0,50 €. 
+elegante **Puente Bizkaia**, un puente metálico trasbordador conocido también como el 
+[Puente Colgante](https://puente-colgante.com/), una de las construcciones más 
+singulares de las que disfrutar en Getxo. Estás ante el puente trasbordador en 
+funcionamiento más antiguo del mundo, ya que fue inaugurado el 28 de julio de 1893 (¡129 
+años!). Aunque no es el que inspiró la canción infantil, sigue levantando admiración con 
+su estructura metálica (la primera del mundo) que une las dos márgenes de la ría de 
+Bilbao. No te bajes del barco sin haberlo contemplado desde el agua con su barquilla 
+colgante. Es su mejor cara y la forma de abarcar su altura de 61 metros y sus 160 metros 
+de longitud. También hay otras posibilidades como subir a su **pasarela peatonal** (9,50 
+€) y alquilar una audioguía (castellano, euskera, inglés y francés por 2,5 €) para 
+conocer todos los detalles. O bien, cruzar en la barquilla, ideal para los que tienen 
+vértigo, por sólo unos 0,50 €. 
 
 📍El 13 de julio fue su aniversario mundial pues cumplió 16 años desde que la Unesco lo 
 declaró Patrimonio de la Humanidad. 
@@ -94,10 +94,11 @@ empresarios y burgueses la transformaran hasta convertir Las Arenas en **“la p
 Bilbao”** poniendo así de moda los baños de mar. La historia de **Felipa Bustingorri**, 
 mujer pionera en crear una fonda para tomar los baños de mar, nos invita a recorrer la 
 **avenida Zugarzarte**, una vía junto a la que estuviera su establecimiento y donde 
-queda la huella del surgimiento del barrio de Las Arenas - Areeta de Getxo. Sorprenden 
-en el paseo algunos notables edificios y palacetes, que han mantenido la estilosa 
-arquitectura de las viviendas estivales de aquellos primeros aficionados a la 
-talasoterapia, entre un animado ambiente comercial. 
+queda la huella del surgimiento del barrio de Las Arenas 
+
+- Areeta de Getxo. Sorprenden en el paseo algunos notables edificios y palacetes, que 
+han mantenido la estilosa arquitectura de las viviendas estivales de aquellos primeros 
+aficionados a la talasoterapia, entre un animado ambiente comercial. 
 
 ![Practicando vela frente a la avenida de las grandes villas de Getxo (Izq.) Casa Aitzgoyen (Dcha.)](https://fotos.etheriamagazine.com/2022/07/vela-villas-de-Getxo.jpg "Practicando vela frente a la avenida de las grandes villas de Getxo (Izq.) Casa Aitzgoyen (Dcha.)")
 
@@ -151,8 +152,9 @@ En la actualidad, la **playa de Las Arenas sigue siendo un destino familiar** y
 accesible al que puedes llegar incluso en metro. Los aficionados al _surf_ y al 
 _bodyboard_ pueden dirigirse también a la playa de Ereaga pero encontrarán mejores olas 
 en la **playa de Gorrondatxe-Azkorri** y en la **playa de Barinatxe**, que incluso se 
-conoce con el sobrenombre de "La Salvaje". Consulta otras opciones de playas en este [link](https://www.getxo.eus/es/turismo/que-ver/playas-getxo) 
-para encontrar la idónea según tus necesidades. 
+conoce con el sobrenombre de "La Salvaje". Consulta otras opciones de playas en este 
+[link](https://www.getxo.eus/es/turismo/que-ver/playas-getxo) para encontrar la idónea 
+según tus necesidades. 
 
 📍También imponente y bajo los acantilados de La Galea queda la **playa de Arrigunaga** 
 que invita al baño y al paseo. En su zona de rocas, al pie del cantil, conseguirás tu 
@@ -167,11 +169,12 @@ Al final de la playa de Ereaga, este cautivador litoral tiene abrigo natural en 
 una atalaya. La sencillez de su caserío siempre aparece iluminado por sus blanquísimas 
 casas, salpicadas de alegres rojos, azules y verdes en la madera de sus ventanas y 
 balcones. Junto al viejo muelle pesquero asoma el **sireno de Getxo**, que es como se 
-conoce a una fotografía del argentino Marcos López. Esta obra procede de [Getxophoto](https://www.getxophoto.com/), 
-un festival anual alrededor de imágenes instaladas en espacios no convencionales, y fue 
-comprada por el Ayuntamiento de Getxo para ser expuesta en el Puerto Viejo. Representa a 
-un personaje mitad hombre mitad pez que es lamida o embestida por las mareas, dejando 
-ver u ocultando partes de la misma en cada momento. Merece la pena pasarse a verla.. 
+conoce a una fotografía del argentino Marcos López. Esta obra procede de 
+[Getxophoto](https://www.getxophoto.com/), un festival anual alrededor de imágenes 
+instaladas en espacios no convencionales, y fue comprada por el Ayuntamiento de Getxo 
+para ser expuesta en el Puerto Viejo. Representa a un personaje mitad hombre mitad pez 
+que es lamida o embestida por las mareas, dejando ver u ocultando partes de la misma en 
+cada momento. Merece la pena pasarse a verla.. 
 
 De este puertito hoy tranquilo y solitario partían los **_lemanes_**, aquellos 
 intrépidos pescadores y los únicos capaces, a comienzos del siglo XIX, de medirse con el 
@@ -186,14 +189,15 @@ convertían en pilotos indispensables para que los grandes barcos llegaran a pue
 
 Apasionada de la fotografía, **Miren Larrea**, una vecina del Puerto Viejo de Algorta, 
 registró en sus retratos a las gentes y rincones creando un valioso registro gráfico del 
-ambiente pesquero. Hoy las imágenes de esta mujer inquieta sirven de inspiración en una [ruta 
-autoguiada](https://www.getxo.eus/es/turismo/deapie/Miren-Larrea) por sus estrechas 
-callejuelas. Nos asomará a la atalaya desde la que los pescadores avistaban el estado 
-del mar ante de soltar amarras. En el lugar actualmente la **escultura de una sardinera 
-y un pescador** (_arrantzale_) recuerdan la importancia de este mirador para los 
-marinos. Nos hará mirar la plaza del núcleo, el único espacio abierto, y detenernos a 
-disfrutar del ambiente local mientras degustamos unos _pintxos_ en las tabernas [Txomin](https://www.getxo.eus/es/turismo/descubre-getxo/txomin-taberna) 
-y [Arrantzale](https://www.arrantzale.com/). También podemos disfrutar a la mesa de los 
+ambiente pesquero. Hoy las imágenes de esta mujer inquieta sirven de inspiración en una 
+[ruta autoguiada](https://www.getxo.eus/es/turismo/deapie/Miren-Larrea) por sus 
+estrechas callejuelas. Nos asomará a la atalaya desde la que los pescadores avistaban el 
+estado del mar ante de soltar amarras. En el lugar actualmente la **escultura de una 
+sardinera y un pescador** (_arrantzale_) recuerdan la importancia de este mirador para 
+los marinos. Nos hará mirar la plaza del núcleo, el único espacio abierto, y detenernos 
+a disfrutar del ambiente local mientras degustamos unos _pintxos_ en las tabernas 
+[Txomin](https://www.getxo.eus/es/turismo/descubre-getxo/txomin-taberna) y 
+[Arrantzale](https://www.arrantzale.com/). También podemos disfrutar a la mesa de los 
 restaurantes más apreciados como el [Goiezti](https://goiezti.es/). Con una deliciosa 
 carta de pescados y mariscos frescos recién sacados del mar que a nadie deja 
 indiferente. 
@@ -241,8 +245,8 @@ planeta por aquel entonces mientras estas rocas estaban bajo el mar. Emocionante
 ¿verdad?, pues date la vuelta y contempla la puesta de sol, porque te encuentras en el 
 mejor lugar del municipio para disfrutar tu momento _chill out_. 
 
-Si necesitas más información para organizar tu viaje, consulta la completa web de [Turismo 
-de Getxo](https://www.getxo.eus/es/turismo/que-hacer). 
+Si necesitas más información para organizar tu viaje, consulta la completa web de 
+[Turismo de Getxo](https://www.getxo.eus/es/turismo/que-hacer). 
 
 ![Logotipos de Gobierno Vasco.](https://fotos.etheriamagazine.com/2022/07/colaboradores-gobierno-vasco.jpg)
 
@@ -250,5 +254,5 @@ de Getxo](https://www.getxo.eus/es/turismo/que-hacer).
 
 ### También te puede interesar...
 
-[12 planes en Getxo con amigas para disfrutar al estilo 
-vasco](https://etheriamagazine.com/2021/06/14/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco/).
+{{< reflink 
+path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.

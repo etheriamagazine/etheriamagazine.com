@@ -1,7 +1,7 @@
 ---
 title: "Cinco películas del Camino de Santiago que no puedes perderte en este Año Jubilar"
 date: 2021-03-04
-coverImage: https://fotos.etheriamagazine.com/2021/02/camino-santiago-fotograma-Buen-camino-1.jpg
+cover: https://fotos.etheriamagazine.com/2021/02/camino-santiago-fotograma-Buen-camino-1.jpg
 categories: 
   - inspiración
 destino: 
@@ -68,12 +68,13 @@ de Compostela, en un viaje que probará su valor, despertará su corazón y camb
 vida para siempre. Uno de sus grandes aciertos son las localizaciones, que se convierten 
 en una auténtica guía turística del itinerario. Emilio Estévez y su equipo rodaron la 
 película durante 40 días en paisajes reales del Camino, lo que nos permite disfrutar de 
-Roncesvalles, Pamplona, [La 
-Rioja](https://etheriamagazine.com/2019/05/01/etapas-que-ver-camino-de-santiago-en-la-rioja/), 
-los paisajes de Castilla y León y de Galicia. Después de completar el Camino y llegar a 
-Santiago de Compostela, el protagonista realiza una parada más en compañía de algunas de 
-las personas que había conocido en este viaje. Concretamente va a [Muxía](https://etheriamagazine.com/2019/03/06/camino-de-finisterre-fairway/), 
-donde tira las cenizas de su hijo al mar. 
+Roncesvalles, Pamplona, {{< reflink 
+path=posts/2019/05/etapas-que-ver-camino-de-santiago-en-la-rioja >}}, los paisajes de 
+Castilla y León y de Galicia. Después de completar el Camino y llegar a Santiago de 
+Compostela, el protagonista realiza una parada más en compañía de algunas de las 
+personas que había conocido en este viaje. Concretamente va a {{< reflink 
+path=posts/2019/03/camino-de-finisterre-fairway >}}, donde tira las cenizas de su hijo 
+al mar. 
 
 ![al final del camino peliculas camino santiago](https://fotos.etheriamagazine.com/2021/02/camino-santiago-Al-final-del-camino.jpg "'Al final del camino', una rocambolesca comedia en el Camino de Santiago.")
 
@@ -116,11 +117,8 @@ contribuirá a que te enamores –si todavía no lo has hecho– de la Ruta Jaco
 
 ### También te puede interesar...
 
-[‘3 caminos’ y ‘Caminantes’, emoción o terror en el Camino de 
-Santiago](https://etheriamagazine.com/2021/02/11/camino-santiago-series-3-caminos-y-caminantes/). 
+{{< reflink path=posts/2021/02/camino-santiago-series-3-caminos-y-caminantes >}}. 
 
-[El Camino de Santiago en La Rioja, un buen viaje para el 
-otoño](https://etheriamagazine.com/2019/05/01/etapas-que-ver-camino-de-santiago-en-la-rioja/). 
+{{< reflink path=posts/2019/05/etapas-que-ver-camino-de-santiago-en-la-rioja >}}. 
 
-[El Camino de Finisterre: plan de fuga a los misterios del fin del 
-mundo](https://etheriamagazine.com/2019/03/06/camino-de-finisterre-fairway/).
+{{< reflink path=posts/2019/03/camino-de-finisterre-fairway >}}.

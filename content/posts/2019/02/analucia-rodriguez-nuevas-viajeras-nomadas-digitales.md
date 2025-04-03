@@ -1,7 +1,7 @@
 ---
 title: "Analucía Rodríguez, las nuevas viajeras son nómadas digitales"
 date: 2019-02-25
-coverImage: https://fotos.etheriamagazine.com/2019/02/analucia-mujeres-etheria.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/analucia-mujeres-etheria.jpg
 categories: 
   - mujeres-top
 destino: 
@@ -72,14 +72,14 @@ La gente se deja llevar mucho por lo que no sabe o solo escucha, y  por gente q
 
 9\. ¿Qué tres viajes que hayas realizado recomendarías a cualquier mujer? 
 
-Me encantó [India](https://etheriamagazine.com/2018/10/19/viajar-sola-o-con-amigas-a-india/), podría decir que es mi país favorito y, aunque puede parecer que es un país peligroso, si vas con cuidado y con el alma bien abierta puede ser un viaje precioso para encontrarte a ti mismo. ¡Una maravilla de país! [Tailandia](https://etheriamagazine.com/2018/06/16/viaje-parejas-mar-de-andaman/) también es un destino que me gustó mucho y, sinceramente, me sentí súper segura pero, a la vez, conoces tantos viajeros que nunca te sientes sola. Creo que lo mismo ocurre si viajas por **Europa**, siempre hay gente viajando, y es muy fácil y seguro moverte por cualquier sitio.
+Me encantó {{< reflink path=posts/2018/10/viajar-sola-o-con-amigas-a-india >}}, podría decir que es mi país favorito y, aunque puede parecer que es un país peligroso, si vas con cuidado y con el alma bien abierta puede ser un viaje precioso para encontrarte a ti mismo. ¡Una maravilla de país! {{< reflink path=posts/2018/06/viaje-parejas-mar-de-andaman >}} también es un destino que me gustó mucho y, sinceramente, me sentí súper segura pero, a la vez, conoces tantos viajeros que nunca te sientes sola. Creo que lo mismo ocurre si viajas por **Europa**, siempre hay gente viajando, y es muy fácil y seguro moverte por cualquier sitio.
 
 > "Siempre tengo que estar haciendo algo, descubriendo, conociendo, leyendo, aprendiendo. 
 > Soy muy curiosa, para todo" 
 
 10\. Tres viajes pendientes… 
 
-Muero por ir a ver auroras boreales a [Noruega](https://etheriamagazine.com/2018/12/13/razones-para-viajar-a-noruega/) o a [Islandia](https://etheriamagazine.com/2018/09/26/islandia-la-isla-del-desafio-de-reykjavik-a-vik/), también quiero ir a un safari a África, y tengo demasiadas ganas de ir a descubrir las playas paradisiacas de [Maldivas](https://etheriamagazine.com/2018/10/16/islas-maldivas-lunas-de-miel-y-deportes-activos-para-mujeres/). ¡A ver si este año puedo hacer alguno de ellos!
+Muero por ir a ver auroras boreales a {{< reflink path=posts/2018/12/razones-para-viajar-a-noruega >}} o a {{< reflink path=posts/2021/03/que-ver-sur-islandia-consejos-practicos >}}, también quiero ir a un safari a África, y tengo demasiadas ganas de ir a descubrir las playas paradisiacas de <!-- LEGACY_NON_EXISTANT_LINK <a href="https://etheriamagazine.com/2018/10/16/islas-maldivas-lunas-de-miel-y-deportes-activos-para-mujeres/">Maldivas</a> -->. ¡A ver si este año puedo hacer alguno de ellos!
 
 11\. ¿Qué país te ha ganado con su gastronomía? ¿Destacarías algún plato o producto? 
 

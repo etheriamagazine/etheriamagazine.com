@@ -1,7 +1,7 @@
 ---
 title: "10 visitas imprescindibles en Zagreb, la efervescente capital croata"
 date: 2020-04-24
-coverImage: https://fotos.etheriamagazine.com/2020/04/viaje-croacia-zagreb-tkalciceva-street.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/viaje-croacia-zagreb-tkalciceva-street.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -43,10 +43,10 @@ momento.
 Marcos](#plaza-marcos) **3.** [Museo de las Relaciones Rotas y otras 
 extravagancias](#museo-relaciones) **4.** [Las horas a cañonazos](#horas-canonazos) 
 **5.** [Subir al funicular más corto del mundo](#funicular-corto) **6.** [Mercados al 
-aire libre](#mercados-zagreb) **7.** [Tomar café como un croata](#cafes-zagreb) **8.** [Compras 
-en Zagreb](#compras-zagreb) **9.** [Descansar entre árboles y flores](#parques-zagreb) 
-**10.** [Cementerio de Mirogoj](#cementerio-mirogoj) **Bonus:** [Consejos de 
-viaje](#viajar-sola). 
+aire libre](#mercados-zagreb) **7.** [Tomar café como un croata](#cafes-zagreb) **8.** 
+[Compras en Zagreb](#compras-zagreb) **9.** [Descansar entre árboles y 
+flores](#parques-zagreb) **10.** [Cementerio de Mirogoj](#cementerio-mirogoj) **Bonus:** 
+[Consejos de viaje](#viajar-sola). 
 
 ## 1\. Catedral de la Asunción
 
@@ -89,10 +89,10 @@ una tienda de recuerdos muy curiosos, es un buen lugar donde hacer una parada.
 Entre los más de 40 museos que se pueden visitar en Zagreb también están otros tan 
 especiales como el **Museo de los Champiñones** y el [Museo de las 
 Ilusiones](http://muzejiluzija.com/en/naslovna/). Entre los más convencionales, guardan 
-gran interés: el [Museo Arqueológico](http://www.amz.hr/) (con la 'momia' de Zagreb), el [Museo 
-de Arte Naif Croata](http://www.hmnu.hr/), el [Museo de la Ciudad](http://www.mgz.hr/), 
-el [Museo de Artes y Manualidades](https://www.muo.hr/), el [Museo 
-Mimara](http://www.mimara.hr/) y el Museo Contemporáneo. 
+gran interés: el [Museo Arqueológico](http://www.amz.hr/) (con la 'momia' de Zagreb), el 
+[Museo de Arte Naif Croata](http://www.hmnu.hr/), el [Museo de la 
+Ciudad](http://www.mgz.hr/), el [Museo de Artes y Manualidades](https://www.muo.hr/), el 
+[Museo Mimara](http://www.mimara.hr/) y el Museo Contemporáneo. 
 
 ![museo relaciones rotas en zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-museo-relaciones-rotas.jpg "Museo de las Relaciones Rotas. © D. Rostuhar/ Turismo Zagreb")
 
@@ -219,7 +219,8 @@ Zagreb sin ir agobiada.
 Los ciudadanos españoles sólo precisan del DNI en vigor. Si vas a realizar una ruta en 
 coche, es suficiente con el carnet de conducir español. Recuerda llevar también la 
 tarjeta sanitaria europea, ya que Croacia pertenece a la UE. Si prefieres llevar otro 
-seguro, [Intermundial](https://www.intermundial.es/afiliados/seguros-de-viaje?tduid=ffe016af24240d209d907c9872dd27dc&utm_source=Tradedoubler&utm_medium=1&utm_campaign=General&utm_content=3132464&utm_term=23930012) 
+seguro, 
+[Intermundial](https://www.intermundial.es/afiliados/seguros-de-viaje?tduid=ffe016af24240d209d907c9872dd27dc&utm_source=Tradedoubler&utm_medium=1&utm_campaign=General&utm_content=3132464&utm_term=23930012) 
 te hacen un 10% descuento si lo contratas en el enlace anterior. 
 
 ##### Más información de Croacia
@@ -230,8 +231,8 @@ Croacia](https://croatia.hr/es-ES).
 ### También en Croacia
 
 [Viaje a 
-Zadar.](http://etheriamagazine.com/2019/06/21/48-horas-en-zadar-una-escapada-low-cost/) [Isla 
-de 
+Zadar.](http://etheriamagazine.com/2019/06/21/48-horas-en-zadar-una-escapada-low-cost/) 
+[Isla de 
 Pag](http://etheriamagazine.com/2018/08/16/fiesta-de-los-sabores-en-la-isla-croata-de-pag/) 
 (Croacia). [Otoño en el Parque Nacional Lagos de 
 Plitvice.](http://etheriamagazine.com/2018/10/05/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia/)

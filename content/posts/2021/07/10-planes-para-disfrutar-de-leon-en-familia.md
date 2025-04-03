@@ -1,7 +1,7 @@
 ---
 title: "10 planes para disfrutar al máximo de León en familia"
 date: 2021-07-05
-coverImage: https://fotos.etheriamagazine.com/2021/06/parque-cid-leon-con-ninos.jpg
+cover: https://fotos.etheriamagazine.com/2021/06/parque-cid-leon-con-ninos.jpg
 categories: 
   - viajar-en-familia
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Eva Madruga
 ---
 
-León es una ciudad con una historia muy marcada y resulta perfecta para gozar de su 
+**León es una ciudad con una historia muy marcada y resulta perfecta para gozar de su 
 patrimonio monumental y cultural, pero también es un ideal para disfrutar de un "León en 
 familia" a través de decenas de planes. A continuación te proponemos diez actividades 
-didácticas y divertidas, entre ellas una escapada a la bonita cueva de Valporquero. 
+didácticas y divertidas, entre ellas una escapada a la bonita cueva de Valporquero.** 
 
 ![tren turistico leon viajes en familia](https://fotos.etheriamagazine.com/2021/06/tren-turistico-leon.jpg "Tren turístico de León frente a la Catedral.")
 
@@ -56,27 +56,28 @@ original todos los secretos del majestuoso templo gótico y de sus fascinantes v
 12 años. ¡Los peques no van a necesitar ni a papá ni a mamá en este "viaje de León en 
 familia" para conocer a fondo la Pulchra Leonina! 
 
-📍**No te pierdas:** [16 secretos que desconoces de la milenaria ciudad de 
-León](https://etheriamagazine.com/2020/12/16/16-lugares-secretos-y-leyendas-de-leon-capital/). 
+📍**No te pierdas:** {{< reflink 
+path=posts/2020/12/16-lugares-secretos-y-leyendas-de-leon-capital >}}. 
 
 ![talleres ninos casa botines leon](https://fotos.etheriamagazine.com/2021/06/taller-ninos-casa-botines-leon.jpg "Actividad para niños en la © Casa Botines de León.")
 
 ## 4\. Visitas teatralizadas para conocer Botines
 
-El [Museo Gaudí Casa](https://www.casabotines.es/) [B](https://www.casabotines.es/)[otines](https://www.casabotines.es/) 
-es otra propuesta fascinante para toda la familia. El edificio modernista ideado por el 
-arquitecto catalán Antoni Gaudí, a finales del siglo XIX, hará volar la imaginación de 
-los más pequeños. Para descubrir la obra de Gaudí, la historia de la Casa Botines y 
-saber cómo era una vivienda en esa época existe una **visita guiada** que tiene una 
-duración de una hora y veinte minutos aproximadamente. Hay numerosos juegos interactivos 
-a lo largo del recorrido para lograr que la experiencia sea lo más entretenida posible. 
-En este tipo de entrada está incluido el acceso al sotabanco y al torreón. Existe 
-también una propuesta teatralizada, que cuenta de manera entretenida la historia y los 
-misterios de la Casa Botines. Otra buena opción es realizar la ruta urbana **'El León de 
-Gaudí'**, un recorrido guiado por el centro de la ciudad que explica los edificios más 
-significativos que están relacionados con la Casa Botines. Además, durante el mes de 
-julio organizan talleres infantiles que giran en torno al reciclaje. Se realizan de 
-lunes a viernes de 10 a 14 horas, para niños de entre 5 y 12 años. 
+El [Museo Gaudí Casa](https://www.casabotines.es/) 
+[B](https://www.casabotines.es/)[otines](https://www.casabotines.es/) es otra propuesta 
+fascinante para toda la familia. El edificio modernista ideado por el arquitecto catalán 
+Antoni Gaudí, a finales del siglo XIX, hará volar la imaginación de los más pequeños. 
+Para descubrir la obra de Gaudí, la historia de la Casa Botines y saber cómo era una 
+vivienda en esa época existe una **visita guiada** que tiene una duración de una hora y 
+veinte minutos aproximadamente. Hay numerosos juegos interactivos a lo largo del 
+recorrido para lograr que la experiencia sea lo más entretenida posible. En este tipo de 
+entrada está incluido el acceso al sotabanco y al torreón. Existe también una propuesta 
+teatralizada, que cuenta de manera entretenida la historia y los misterios de la Casa 
+Botines. Otra buena opción es realizar la ruta urbana **'El León de Gaudí'**, un 
+recorrido guiado por el centro de la ciudad que explica los edificios más significativos 
+que están relacionados con la Casa Botines. Además, durante el mes de julio organizan 
+talleres infantiles que giran en torno al reciclaje. Se realizan de lunes a viernes de 
+10 a 14 horas, para niños de entre 5 y 12 años. 
 
 ![Diverviajes de pequeamigos musac](https://fotos.etheriamagazine.com/2021/06/Diverviajes-Pequeamigos-musac.jpg "Diverviajes de pequeamigos, en el © MUSAC.")
 
@@ -157,8 +158,8 @@ los mayores) y para los niños: corto de mosto o butano (una gaseosa de naranja)
 bebida llegará la tapa y empezaréis a entender por qué en la ciudad gusta tanto el 
 “alterne”. 
 
-📍**No te pierdas:** [Ruta gastronómica por 
-León](https://etheriamagazine.com/2021/09/09/ruta-para-comer-bien-en-leon-capital/). 
+📍**No te pierdas:** {{< reflink path=posts/2021/09/ruta-para-comer-bien-en-leon-capital 
+>}}. 
 
 ![cueva de valporquero planes en familia en leon](https://fotos.etheriamagazine.com/2021/06/cueva-valporquero-planes-leon-familia.jpg "Cueva de Valporquero, en la provincia de León. © Diputación de León")
 
@@ -192,8 +193,8 @@ La Candamia, los paseos de la Condesa y de Papalaguinda. Cualquier de ellos serv
 que los niños correteen un poco y se desfoguen en columpios y toboganes. 
 
 Si buscas más motivos para realizar una escapada en familia a León, no te pierdas 
-nuestro prestoso artículo [Si León no existiera, habría que inventarlo: 10 razones para 
-descubrir la capital de un reino 
-fascinante](https://etheriamagazine.com/2020/12/28/10-razones-para-descubrir-leon-una-capital-unica-y-diferente/). 
+nuestro prestoso artículo {{< reflink 
+path=posts/2020/12/10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}. 
 
-Más información en [leon.es](https://leon.es/) y [www.turisleon.com](http://www.turisleon.com)
+Más información en [leon.es](https://leon.es/) y 
+[www.turisleon.com](http://www.turisleon.com)

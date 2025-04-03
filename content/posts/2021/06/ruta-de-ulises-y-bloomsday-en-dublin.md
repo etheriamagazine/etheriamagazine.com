@@ -1,7 +1,7 @@
 ---
 title: "Ruta del 'Ulises' de James Joyce en Dublín para celebrar su centenario"
 date: 2021-06-16
-coverImage: https://fotos.etheriamagazine.com/2021/06/bloomsday-ulises-farmacia-Sweny.jpg
+cover: https://fotos.etheriamagazine.com/2021/06/bloomsday-ulises-farmacia-Sweny.jpg
 categories: 
   - ocio
 destino: 
@@ -27,11 +27,12 @@ asociados a los personajes de Ulises.
 
 ### Museo de la Literatura de Dublín
 
-Una de las citas obligadas este año es el **Museo de la Literatura** de Irlanda o [MoLI](https://moli.ie/), 
-con la exposición **“Love, says Bloom”**, centrada en la relación de Joyce con su mujer, 
-Nora Barnacle, que fue su musa y modelo para el personaje de Molly Bloom. El museo 
-organizará actividades que contarán con la participación de artistas y escritores, y un 
-tour por las casas georgianas en las que residió Joyce cuando era estudiante. 
+Una de las citas obligadas este año es el **Museo de la Literatura** de Irlanda o 
+[MoLI](https://moli.ie/), con la exposición **“Love, says Bloom”**, centrada en la 
+relación de Joyce con su mujer, Nora Barnacle, que fue su musa y modelo para el 
+personaje de Molly Bloom. El museo organizará actividades que contarán con la 
+participación de artistas y escritores, y un tour por las casas georgianas en las que 
+residió Joyce cuando era estudiante. 
 
 ### James Joyce Center
 
@@ -201,12 +202,10 @@ originales, con las infinitas revisiones y correcciones del autor.
 
 ### También te puede interesar en Irlanda...
 
-[San Patricio, la gran fiesta irlandesa, se celebra 
-en](https://etheriamagazine.com/2021/03/17/san-patricio-eventos-espana-2021/) [c](https://etheriamagazine.com/2021/03/17/san-patricio-eventos-espana-2021/)[asa 
-este año](https://etheriamagazine.com/2021/03/17/san-patricio-eventos-espana-2021/). 
+{{< reflink path=posts/2021/03/san-patricio-eventos-espana-2021 >}} {{< reflink 
+path=posts/2021/03/san-patricio-eventos-espana-2021 >}}{{< reflink 
+path=posts/2021/03/san-patricio-eventos-espana-2021 >}}. 
 
-[Juego de Tronos en Irlanda del 
-Norte](https://etheriamagazine.com/2018/07/02/juego-de-tronos-en-irlanda-del-norte/). 
+{{< reflink path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte >}}. 
 
-[Sligo, el condado irlandés que enamoró a William Butler 
-Yeats](https://etheriamagazine.com/2020/04/22/viaje-sligo-ruta-yeats-maud-gonne/).
+{{< reflink path=posts/2020/04/viaje-sligo-ruta-yeats-maud-gonne >}}.

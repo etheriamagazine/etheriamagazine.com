@@ -1,7 +1,7 @@
 ---
 title: "Sigue los pasos de Friedrich en Alemania en el 250 aniversario de su nacimiento"
 date: 2024-08-15
-coverImage: https://fotos.etheriamagazine.com/2024/08/friedrich-paisaje-dresde-mujer.jpg
+cover: https://fotos.etheriamagazine.com/2024/08/friedrich-paisaje-dresde-mujer.jpg
 categories: 
   - cultura
   - ocio
@@ -139,8 +139,7 @@ en **www.galeriewerkstatt-ansichtssache-pirna.de**
 
 **También te puede interesar:** 
 
-[Múnich y Bad Wörishofen, la Alemania más verde y 
-saludable](https://etheriamagazine.com/2021/08/04/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable/) 
+{{< reflink path=posts/2021/08/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable 
+>}} 
 
-[Murnau, el pueblo alemán que enamoró a la artista Gabriele 
-Münter](https://etheriamagazine.com/2022/06/14/gabriele-munter-en-murnau/)
+{{< reflink path=posts/2022/06/gabriele-munter-en-murnau >}}

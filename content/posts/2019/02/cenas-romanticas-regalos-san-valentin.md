@@ -1,7 +1,7 @@
 ---
 title: "Cenas románticas y viajes para dos"
 date: 2019-02-08
-coverImage: https://fotos.etheriamagazine.com/2019/02/cena-romantica-dani-garcia.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/cena-romantica-dani-garcia.jpg
 categories: 
   - viajar-en-pareja
   - gourmet
@@ -11,10 +11,10 @@ authors:
   - Vanesa Viñolo
 ---
 
-La excusa para hablar de cenas románticas es la llegada de San Valentín pero, realmente, 
-casi todas las propuestas que te recomendamos las puedes hacer en cualquier momento y 
-con menos corazones. Toma buena nota porque te pueden salvar un aniversario olvidado o 
-una celebración de cumpleaños. La cuestión es pasarlo bien, ¿no crees? 
+**La excusa para hablar de cenas románticas es la llegada de San Valentín pero, 
+realmente, casi todas las propuestas que te recomendamos las puedes hacer en cualquier 
+momento y con menos corazones. Toma buena nota porque te pueden salvar un aniversario 
+olvidado o una celebración de cumpleaños. La cuestión es pasarlo bien, ¿no crees?** 
 
 ![cenas romanticas, dani garcia, restaurantes bibo](https://fotos.etheriamagazine.com/2019/02/cena-romantica-dani-garcia.jpg "cenas romanticas, bibo dani garcia")
 
@@ -143,5 +143,5 @@ valentinera” es que os acerquéis al _Marché Des Capucins_ (el mercado de los
 a tomar el aperitivo: **ostras de la cercana Arcachon** acompañadas de un vino blanco y 
 su típico pan con mantequilla. Todo amor. 
 
-Y si ya conocéis Burdeos y disponéis de algún día más, echad un vistazo a estas [Escapadas 
-románticas](https://etheriamagazine.com/2019/01/26/viajes-en-san-valentin/).
+Y si ya conocéis Burdeos y disponéis de algún día más, echad un vistazo a estas {{< 
+reflink path=posts/2019/01/viajes-en-san-valentin >}}.

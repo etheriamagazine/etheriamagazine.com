@@ -1,7 +1,7 @@
 ---
 title: "Festival Ritratti, un viaje al corazón de la música en Monopoli"
 date: 2025-03-31
-coverImage: https://fotos.etheriamagazine.com/2025/03/festival-ritratti.jpeg
+cover: https://fotos.etheriamagazine.com/2025/03/festival-ritratti.jpeg
 categories: 
   - ocio
 destino: 
@@ -23,10 +23,12 @@ que celebra este año su vigésimo primera edición, se ha consolidado como un e
 donde la música trasciende los formatos convencionales y produce una experiencia 
 sensorial inolvidable en los espectadores. 
 
-Bajo el subtítulo **Secret Codes - Elogio de la locura**, el festival, fundado y 
-dirigido por la pianista Antonia Valente, invita a descubrir los códigos ocultos del 
-arte. Más que un programa de conciertos, se convierte en una experiencia que desafía los 
-sentidos y estimula la creatividad. 
+Bajo el subtítulo **Secret Codes 
+
+- Elogio de la locura**, el festival, fundado y dirigido por la pianista Antonia 
+Valente, invita a descubrir los códigos ocultos del arte. Más que un programa de 
+conciertos, se convierte en una experiencia que desafía los sentidos y estimula la 
+creatividad. 
 
 ![© Festival Ritratti.](https://fotos.etheriamagazine.com/2025/03/festival-ritratti-musico-barco.jpeg "© Festival Ritratti.")
 
@@ -94,6 +96,7 @@ universal.
 **Información práctica** 
 
 El festival se celebrará del 21 de junio al 1 de septiembre en Monopoli, Puglia. Las 
-entradas estarán disponibles online desde el 1 de abril en [www.ritrattifestival.it](http://www.ritrattifestival.it/). 
+entradas estarán disponibles online desde el 1 de abril en 
+[www.ritrattifestival.it](http://www.ritrattifestival.it/). 
 
 Información turística en [Turismo de Puglia y ENIT](https://www.italia.it/es/apulia).

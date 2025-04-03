@@ -1,7 +1,7 @@
 ---
 title: "Enamórate del sudeste francés en Perpiñán y Collioure"
 date: 2020-03-19
-coverImage: https://fotos.etheriamagazine.com/2020/03/viaje-etheria-Collioure.jpg
+cover: https://fotos.etheriamagazine.com/2020/03/viaje-etheria-Collioure.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,8 +10,9 @@ authors:
   - Pedro Grifol
 ---
 
-Bien comunicadas y muy cerca de España, Perpiñán y Collioure son las ciudades francesas 
-que hemos elegido en Etheria Magazine para pasar un fin de semana inolvidable. 
+**Bien comunicadas y muy cerca de España, Perpiñán y Collioure son las ciudades 
+francesas que hemos elegido en Etheria Magazine para pasar un fin de semana 
+inolvidable.** 
 
 ![venus maillol, palacio loge, perpinan, francia](https://fotos.etheriamagazine.com/2020/03/viaje-etheria-magazine-perpinan.jpg "La 'Venus' de Maillol y el palacio Loge de Mer, en Perpiñán. © Pedro Grifol")
 
@@ -170,11 +171,8 @@ France](http://www.france.fr).
 
 ### También te puede interesar:
 
-[Costa Azul en coche y con amigas, ¿se te ocurre una propuesta 
-mejor?](https://etheriamagazine.com/2021/09/03/guia-viaje-costa-azul-en-coche-y-con-amigas/) 
+{{< reflink path=posts/2021/09/guia-viaje-costa-azul-en-coche-y-con-amigas >}} 
 
-[Descubre los secretos de Orleans, la ciudad que pudo 
-reinar](https://etheriamagazine.com/2021/11/09/que-visitar-en-orleans-francia/) 
+{{< reflink path=posts/2021/11/que-visitar-en-orleans-francia >}} 
 
-[Valle del Loira, cinco castillos y un increíble festival de 
-jardines](https://etheriamagazine.com/2021/08/09/valle-del-loira-entre-castillos-y-jardines/)
+{{< reflink path=posts/2021/08/valle-del-loira-entre-castillos-y-jardines >}}

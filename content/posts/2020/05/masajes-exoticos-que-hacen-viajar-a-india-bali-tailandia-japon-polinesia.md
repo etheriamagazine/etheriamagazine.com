@@ -1,7 +1,7 @@
 ---
 title: "Descubre en qué consisten los masajes más habituales"
 date: 2020-05-07
-coverImage: https://fotos.etheriamagazine.com/2020/05/tipos-masajes-balines.jpg
+cover: https://fotos.etheriamagazine.com/2020/05/tipos-masajes-balines.jpg
 categories: 
   - bienestar
 destino: 
@@ -10,10 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-Uno de los caprichos que nos gusta darnos en nuestra ciudad o durante los viajes es un 
+**Uno de los caprichos que nos gusta darnos en nuestra ciudad o durante los viajes es un 
 masaje. Sobre todo, cuando nos trasladamos a destinos con una larga tradición como 
 Tailandia, Bali, la India, Japón o Polinesia. Te contamos en qué consisten algunos de 
-los masajes exóticos más populares: tailandés, shiatsu, balinés, lomi lomi y ayurvédico. 
+los masajes exóticos más populares: tailandés, shiatsu, balinés, lomi lomi y 
+ayurvédico.** 
 
 ![masaje con aceite](https://fotos.etheriamagazine.com/2020/05/tipos-masajes-balines.jpg "En algunos masajes el aceite es fundamental. © Alan Caishan")
 
@@ -135,8 +136,6 @@ otro momento.
 
 📌 **También te puede interesar:** 
 
-[Dónde desconectar en la Toscana, conoce sus mejores 
-termas](https://etheriamagazine.com/2022/11/03/turismo-termal-toscana-italia/) 
+{{< reflink path=posts/2022/11/turismo-termal-toscana-italia >}} 
 
-[Six Senses Douro Valley, el retiro espiritual que 
-necesitas](https://etheriamagazine.com/2022/11/04/retiro-espiritual-six-senses-douro-valley/)
+{{< reflink path=posts/2022/11/retiro-espiritual-six-senses-douro-valley >}}

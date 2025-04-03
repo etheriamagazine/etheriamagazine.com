@@ -1,7 +1,7 @@
 ---
 title: "Ruta por los 11 pueblos elegidos como los más bonitos de España en 2021"
 date: 2021-01-19
-coverImage: https://fotos.etheriamagazine.com/2021/01/portada-bulnes.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/portada-bulnes.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -216,11 +216,10 @@ España’](http://www.lospueblosmasbonitosdeespana.org/).
 
 ### Te puede interesar...
 
-[Escapada a Sigüenza: del pasado medieval a la Movida 
-madrileña](https://etheriamagazine.com/2020/12/14/que-ver-donde-comer-en-siguenza/). 
+{{< reflink path=posts/2020/12/que-ver-donde-comer-en-siguenza >}}. 
 
-[11 escapadas de un día a 100 km o más de 
-Madrid](https://etheriamagazine.com/2020/06/02/11-escapadas-cercanas-a-dos-horas-de-madrid/). 
+{{< reflink path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}}. 
 
-[Descubre las mejores excursiones en la provincia de 
-Cuenca](https://etheriamagazine.com/2020/06/04/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca/).
+{{< reflink 
+path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+>}}.

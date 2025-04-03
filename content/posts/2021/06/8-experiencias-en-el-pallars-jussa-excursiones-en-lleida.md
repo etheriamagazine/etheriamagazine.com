@@ -1,7 +1,7 @@
 ---
 title: "8 experiencias que sólo puedes vivir en el Pallars Jussà (Lleida)"
 date: 2021-06-09
-coverImage: https://fotos.etheriamagazine.com/2021/06/ruta-embalse-centelles.jpg
+cover: https://fotos.etheriamagazine.com/2021/06/ruta-embalse-centelles.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-Las siguientes excursiones en Lleida, en la comarca del Pallars Jussà, están repletas de 
-apasionantes experiencias, rutas que descubren icnitas de dinosaurios, paseos entre 
+**Las siguientes excursiones en Lleida, en la comarca del Pallars Jussà, están repletas 
+de apasionantes experiencias, rutas que descubren icnitas de dinosaurios, paseos entre 
 lagos de montaña, observación de animales, desfiladeros de vértigo y vinos exquisitos. 
 Cada viaje supone un descubrimiento pero este, además, te ofrece un fuerte vínculo con 
-la naturaleza y con el pasado. 
+la naturaleza y con el pasado.** 
 
 ![ruta refugio colomina lleida](https://fotos.etheriamagazine.com/2021/06/trekking-vall-fosca-lleida-pallars-jussa.jpg "Ruta hasta el refugio Colomina desde la presa de Sallente. © Pepa García")
 
@@ -187,9 +187,9 @@ Además del paisaje de roca y agua, fíjate en la flora y fauna, ya que en este 
 crecen plantas como la corona de rey o la oreja de oso, y habitan animales como la 
 nutria, el alimoche, el quebrantahuesos y más de cien especies de mariposas. 
 
-📌 Consulta todos los datos prácticos en este enlace para [hacer la caminata del 
-desfiladero de 
-Mont-Rebei.](https://etheriamagazine.com/2020/05/13/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida/) 
+📌 Consulta todos los datos prácticos en este enlace para {{< reflink 
+path=posts/2020/05/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida 
+>}} 
 
 ![desfiladero congost montrebei](https://fotos.etheriamagazine.com/2021/06/desfiladero-congost-montrebei.jpg "Ruta por el desfiladero de Mont-Rebei, en Lleida. © Pepa G.")
 
@@ -224,24 +224,20 @@ de la comarca.
 
 ### Dónde dormir en Pallars Jussà
 
-• **El Portal de la Irene.** El antiguo pajar de una casa de pueblo de finales del siglo 
+- **El Portal de la Irene.** El antiguo pajar de una casa de pueblo de finales del siglo 
 XIX alberga hoy dos apartamentos bien equipados. Claverol. Tel. 973 680 537. 
 
-• **Hotel Alegret.** Sencillo pero confortable y con un trato muy cercano. Dobles entre 
+- **Hotel Alegret.** Sencillo pero confortable y con un trato muy cercano. Dobles entre 
 60-75 €. Pl. de la Creu, 30. Tremp. Tel. 973 650 100. 
 
-• **Casa Teresina**. Hotel rural con numerosos espacios comunes en La Plana de Montros. 
+- **Casa Teresina**. Hotel rural con numerosos espacios comunes en La Plana de Montros. 
 
 **Más propuestas en Lleida** 
 
-[10 rincones de Lleida que te 
-sorprenderán](https://etheriamagazine.com/2018/10/10/10-rincones-de-lleida-que-te-sorprenderan/). 
+{{< reflink path=posts/2018/10/10-rincones-de-lleida-que-te-sorprenderan >}}. 
 
-[Pueblos y rutas imprescindibles en el Valle de Arán 
-(Lleida)](https://etheriamagazine.com/2020/08/31/pueblos-y-rutas-imprescindibles-en-valle-aran/). 
+{{< reflink path=posts/2020/08/pueblos-y-rutas-imprescindibles-en-valle-aran >}}. 
 
-[Aitona en flor. Un anuncio ‘rosa’ a las afueras de 
-Lleida](https://etheriamagazine.com/2019/03/11/viaje-floracion-melocotoneros-aitona-lleida/). 
+{{< reflink path=posts/2022/02/viaje-floracion-melocotoneros-aitona-lleida >}}. 
 
-[Descubre estos 8 lugares secretos de Cataluña que deberías 
-conocer](https://etheriamagazine.com/2021/02/22/lugares-secretos-de-cataluna-que-visitar/).
+{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}.

@@ -1,7 +1,7 @@
 ---
 title: "Qué comer en Madeira, la isla de las nubes"
 date: 2022-08-30
-coverImage: https://fotos.etheriamagazine.com/2022/08/comida-madeira-espetada.jpg
+cover: https://fotos.etheriamagazine.com/2022/08/comida-madeira-espetada.jpg
 categories: 
   - gourmet
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pedro Grifol
 ---
 
-La gastronomía de Madeira nos habla de historia, de cultura y de tradiciones. Y, por 
+**La gastronomía de Madeira nos habla de historia, de cultura y de tradiciones. Y, por 
 supuesto, de su propia geografía y ubicación en mitad del Atlántico. Todo ello unido da 
 como resultado una serie de comidas típicas madeirenses que nada tienen que envidiar a 
 las del continente. Te contamos cuáles son los platos de Madeira que deberían formar 
-parte de tu menú durante el viaje. 
+parte de tu menú durante el viaje.** 
 
 ![Espetada de carne con palo de laurel.](https://fotos.etheriamagazine.com/2022/08/comida-madeira-espetada.jpg "Espetada de carne ensartada en un palo de laurel. © Pedro Grifol")
 
@@ -36,8 +36,8 @@ puedes pedir cualquiera de sus especialidades allá donde vayas.
 ## Comida típica de Madeira
 
 1.[Entrantes](#entrantes-madeira). 2. [Platos de cuchara](#sopas-madeira). 3. [Platos 
-tradicionales de Madeira](#platos-madeira). 4. [Postres típicos](#postres-madeira). 5. [Vinos 
-de Madeira](#vinos-madeira). 6. [Bebida típica: la Poncha](#poncha-madeira). 
+tradicionales de Madeira](#platos-madeira). 4. [Postres típicos](#postres-madeira). 5. 
+[Vinos de Madeira](#vinos-madeira). 6. [Bebida típica: la Poncha](#poncha-madeira). 
 
 ### 1\. Entrantes para abrir boca
 
@@ -233,8 +233,6 @@ Madeira](https://www.visitmadeira.com/).
 
 ### Sigue leyendo sobre Madeira
 
-[Madeira con amigas, 10 experiencias para una escapada 
-corta](https://etheriamagazine.com/2019/04/19/viajar-con-amigas-que-ver-madeira/). 
+{{< reflink path=posts/2019/04/viajar-con-amigas-que-ver-madeira >}}. 
 
-[Qué ver en Funchal, guía para 48 horas bien 
-aprovechadas](https://etheriamagazine.com/2022/08/08/que-ver-funchal/).
+{{< reflink path=posts/2022/08/que-ver-funchal >}}.

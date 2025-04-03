@@ -1,7 +1,7 @@
 ---
 title: "10 excursiones a la Riviera Maya para incluir en tu viaje"
 date: 2022-02-01
-coverImage: https://fotos.etheriamagazine.com/2022/01/Riviera-maya-cenote-tortuga.jpg
+cover: https://fotos.etheriamagazine.com/2022/01/Riviera-maya-cenote-tortuga.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -38,7 +38,8 @@ Monjas, el Juego de Pelota o el Observatorio. Lo mejor es realizar la visita tem
 para ver los templos con la bonita luz del amanecer y con menos calor y gente. Su 
 horario de apertura es de 8 a 17 horas y la entrada cuesta 80 pesos. Desde la Riviera 
 Maya se tarda en llegar unas 2 horas y media. Puedes reservar una Excursión a Chichén 
-Itzá con [Civitatis](https://www.civitatis.com/es/playa-del-carmen/excursion-chichen-itza-amanecer/?aid=10211). 
+Itzá con 
+[Civitatis](https://www.civitatis.com/es/playa-del-carmen/excursion-chichen-itza-amanecer/?aid=10211). 
 
 ![Chichén Itzá.](https://fotos.etheriamagazine.com/2022/01/Riviera-maya-chichen-itza.jpg "Chichén Itzá. © Marv Watson.")
 
@@ -150,21 +151,21 @@ populares de la zona y en ella se pueden ver unas pequeñas ruinas mayas.
 
 ## Cozumel, Holbox e isla Mujeres
 
-Estas islas tienen infinitos atractivos, y ya os los contábamos en nuestro artículo [Cozumel, 
-Holbox e Isla Mujeres, tres islas de Yucatán donde querrás quedarte a 
-vivir](https://etheriamagazine.com/2021/08/01/que-ver-en-las-islas-de-yucatan-mexico/). 
-Son perfectas para bucear, pasear por sus playas y descubrir sus arrecifes. **Cozumel** 
-es la más grande, repleta de playas, cenotes, lagunas, largas planicies y ríos 
-subterráneos. **Isla Mujeres** destaca por sus playas de arena blanca y aguas turquesas 
-y por su increíble fondo marino, que incluye un Museo Subacuático de Arte. Y la isla 
-**Holbox** pertenece a la reserva ecológica Yum Balam; es la más bohemia y ecológica, un 
-lugar donde no hay ni calles asfaltadas. Te encantará. 
+Estas islas tienen infinitos atractivos, y ya os los contábamos en nuestro artículo {{< 
+reflink path=posts/2021/08/que-ver-en-las-islas-de-yucatan-mexico >}}. Son perfectas 
+para bucear, pasear por sus playas y descubrir sus arrecifes. **Cozumel** es la más 
+grande, repleta de playas, cenotes, lagunas, largas planicies y ríos subterráneos. 
+**Isla Mujeres** destaca por sus playas de arena blanca y aguas turquesas y por su 
+increíble fondo marino, que incluye un Museo Subacuático de Arte. Y la isla **Holbox** 
+pertenece a la reserva ecológica Yum Balam; es la más bohemia y ecológica, un lugar 
+donde no hay ni calles asfaltadas. Te encantará. 
 
 ![Isla de Holbox.](https://fotos.etheriamagazine.com/2022/01/Riviera-Maya-Holbox.jpg "Isla de Holbox. © David Santiago.")
 
 Estas islas no se encuentran cerca entre sí, por lo que son excursiones independientes: 
 Isla Mujeres está frente a Cancún, Cozumel frente a Playa del Carmen y Holbox en la 
-costa norte de la península de Yucatán. Puedes organizar las excursiones a [Cozumel](https://www.civitatis.com/es/playa-del-carmen/excursion-cozumel/?aid=10211), 
+costa norte de la península de Yucatán. Puedes organizar las excursiones a 
+[Cozumel](https://www.civitatis.com/es/playa-del-carmen/excursion-cozumel/?aid=10211), 
 [Holbox](https://www.civitatis.com/es/playa-del-carmen/excursion-isla-holbox/?aid=10211) 
 e [Isla 
 Mujeres](https://www.civitatis.com/es/playa-del-carmen/excursion-privada-isla-mujeres-barco/?aid=10211) 
@@ -185,7 +186,8 @@ auténtica fiesta mexicana.
 
 El horario es e 19 a 23 h y la edad mínima para disfrutar de la experiencia es 5 años. 
 El precio de la entrada es de unos 80 euros (niños de 5 a 11 años tienen el 50% de 
-descuento). Con [Civitatis](https://www.civitatis.com/es/playa-del-carmen/tour-nocturno-xoximilco/?aid=10211) 
+descuento). Con 
+[Civitatis](https://www.civitatis.com/es/playa-del-carmen/tour-nocturno-xoximilco/?aid=10211) 
 puedes organizar la excursión con los traslados incluidos. 
 
 ## Cobá
@@ -207,11 +209,8 @@ todos los detalles.
 
 **También te puede interesar:** 
 
-[10 yacimientos arqueológicos de México que no puedes 
-perderte](https://etheriamagazine.com/2021/03/30/mejores-yacimientos-arqueologicos-mexico/) 
+{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}} 
 
-[Yacimientos arqueológicos en América Latina que tienes que 
-conocer](https://etheriamagazine.com/2019/05/29/10-yacimientos-arqueologicos-america-latina/) 
+{{< reflink path=posts/2019/05/10-yacimientos-arqueologicos-america-latina >}} 
 
-[10 parques naturales de América Latina con paisajes 
-increíbles](https://etheriamagazine.com/2021/10/21/parques-naturales-de-america-latina/)
+{{< reflink path=posts/2021/10/parques-naturales-de-america-latina >}}

@@ -1,7 +1,7 @@
 ---
 title: "Museo de las Relaciones Rotas, una sorpresa en Zagreb"
 date: 2018-10-27
-coverImage: https://fotos.etheriamagazine.com/2018/10/Museo-relaciones-rotas-zagreb-2.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/Museo-relaciones-rotas-zagreb-2.jpg
 categories: 
   - cultura
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-El Museo de las Relaciones Rotas de Zagreb (Croacia) acoge recuerdos y objetos que 
+**El Museo de las Relaciones Rotas de Zagreb (Croacia) acoge recuerdos y objetos que 
 simbolizan la desaparición del amor, el alejamiento en las amistades o la tristeza por 
 una pérdida. Es un lugar donde depositar recuerdos dolorosos de lo que pudo ser y no 
-fue. 
+fue.** 
 
 ![Vestido de fiesta del Museo de las Relaciones rotas](https://fotos.etheriamagazine.com/2018/10/Museo-relaciones-rotas-zagreb-2.jpg "Vestido de fiesta. © Mare Milin.")
 
@@ -85,8 +85,6 @@ Consultar en su web los días festivos que cierra.
 
 📌 **También te puede interesar:** 
 
-[10 visitas imprescindibles en Zagreb, la efervescente capital 
-croata](https://etheriamagazine.com/2020/04/24/que-ver-hacer-en-2-3-dias-zagreb-croacia/) 
+{{< reflink path=posts/2020/04/que-ver-hacer-en-2-3-dias-zagreb-croacia >}} 
 
-[Croacia: consejos y visitas imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2021/01/22/viaje-a-croacia-como-organizar-que-ver-hacer/)
+{{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}}

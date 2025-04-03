@@ -1,7 +1,7 @@
 ---
 title: "Por qué no olvidarás jamás La Palma, la isla más adictiva y alternativa de Canarias"
 date: 2019-04-02
-coverImage: https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-mirador.jpg
+cover: https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-mirador.jpg
 categories: 
   - viajar-con-amigas
   - viajar-en-familia
@@ -199,11 +199,9 @@ tipo de información práctica para organizar tu próximo viaje a la isla.
 
 **También te puede interesar:** 
 
-[10 secretos que deberías conocer de la isla de La 
-Palma](https://etheriamagazine.com/2021/04/05/10-secretos-para-conocer-la-isla-de-la-palma/) 
+{{< reflink path=posts/2021/04/10-secretos-para-conocer-la-isla-de-la-palma >}} 
 
-[Los Indianos, cuando La Palma se disfraza de 
-Cuba](https://etheriamagazine.com/2020/02/03/que-hacer-en-los-indianos-el-carnaval-de-la-palma/) 
+{{< reflink path=posts/2020/02/que-hacer-en-los-indianos-el-carnaval-de-la-palma >}} 
 
-[Una escapada romántica al hotel Faro Punta Cumplida (La Palma, 
-Canarias)](https://etheriamagazine.com/2019/06/03/faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica/)
+{{< reflink 
+path=posts/2019/06/faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica >}}

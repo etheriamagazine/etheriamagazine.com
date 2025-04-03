@@ -1,7 +1,7 @@
 ---
 title: "Sport Hotel Hermitage & Spa (Andorra) o cómo disfrutar del esquí a otro nivel"
 date: 2018-11-01
-coverImage: https://fotos.etheriamagazine.com/2018/10/hermitage-exterior-invierno.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/hermitage-exterior-invierno.jpg
 categories: 
   - bienestar
   - hoteles
@@ -11,10 +11,10 @@ authors:
   - Susana García
 ---
 
-Hay muchas formas de realizar un viaje de esquí y para las amantes de este deporte 
+**Hay muchas formas de realizar un viaje de esquí y para las amantes de este deporte 
 seguro que todas son buenas. Pero reconozcámoslo, si puedes hacerlo en un hotel de lujo 
 donde cuidan de cada pequeño detalle que rodea a este deporte y a tu estancia y, además, 
-cuenta con un spa increíble, ¿te lo vas a negar? 
+cuenta con un spa increíble, ¿te lo vas a negar?** 
 
 ![Exterior del Sport Hotel Hermitage & Spa.](https://fotos.etheriamagazine.com/2018/10/hermitage-exterior-invierno.jpg "Exterior del Sport Hotel Hermitage & Spa.")
 
@@ -127,11 +127,8 @@ Fotos: Sport Hotel Hermitage & Spa.
 
 📌 **También te puede interesar:** 
 
-[Planes en la nieve para mujeres que no 
-esquían](https://etheriamagazine.com/2019/01/02/planes-en-la-nieve-para-mujeres-que-no-esquian/) 
+{{< reflink path=posts/2019/01/planes-en-la-nieve-para-mujeres-que-no-esquian >}} 
 
-[Descubre Zakopane, su arquitectura de madera, sabores y estaciones de 
-esquí](https://etheriamagazine.com/2021/01/27/que-ver-en-zakopane-viaje-original-polonia/) 
+{{< reflink path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}} 
 
-[Cumple tu sueño de esquiar en las mejores estaciones del 
-mundo](https://etheriamagazine.com/2018/12/14/las-mejores-estaciones-de-esqui-del-mundo/)
+{{< reflink path=posts/2018/12/las-mejores-estaciones-de-esqui-del-mundo >}}

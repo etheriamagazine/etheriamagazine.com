@@ -1,7 +1,7 @@
 ---
 title: "6 lugares donde disfrutar de los mercados de Navidad más tradicionales"
 date: 2022-10-21
-coverImage: https://fotos.etheriamagazine.com/2022/10/Navidad-Salzburgo-mercadillo-navidad-catedral.jpg
+cover: https://fotos.etheriamagazine.com/2022/10/Navidad-Salzburgo-mercadillo-navidad-catedral.jpg
 categories: 
   - inspiración
 destino: 
@@ -42,8 +42,7 @@ Si vas a pasar varios días, merece la pena hacer alguna excursión a otros luga
 añaden a sus interés arquitectónico y lúdico un ambiente navideño de diez, como Karlovy 
 Vary, Český Krumlov o Pilsen. 
 
-📌 [Mercadillos navideños de Praga, una buena excusa para viajar a 
-Chequia](https://etheriamagazine.com/2021/11/10/mercadillos-navidenos-de-praga/). 
+📌 {{< reflink path=posts/2021/11/mercadillos-navidenos-de-praga >}}. 
 
 ### Budapest
 
@@ -62,8 +61,7 @@ especiado vino caliente.
 Si no has tenido suficiente ambiente navideño, acércate también a otros mercadillos de 
 la ciudad como el de la plaza Erzsébet o el del Bastión de los Pescadores, en Buda. 
 
-📌 [Navidad en Budapest, 7 planes y una recomendación para 
-triunfar.](https://etheriamagazine.com/2021/12/13/mercadillos-de-navidad-en-budapest/) 
+📌 {{< reflink path=posts/2021/12/mercadillos-de-navidad-en-budapest >}} 
 
 ### Suiza
 
@@ -84,11 +82,9 @@ sus mercadillos. Los principales son el Lozärner Wiehnachtsmärt (en la
 Franziskanerplatz) y el de la Weinmarkt. Si viajas la última semana antes de Navidad no 
 te pierdas el Schweizerhofquai, un mercadillo de artesanía situado junto al lago. 
 
-📌 [Mercados de Navidad en Zúrich, un fin de semana 
-inolvidable](https://etheriamagazine.com/2018/10/12/mercados-de-navidad-en-zurich/). 
+📌 {{< reflink path=posts/2018/10/mercados-de-navidad-en-zurich >}}. 
 
-📌 [8 actividades que no puedes perderte en un fin de semana navideño en 
-Lucerna](https://etheriamagazine.com/2019/12/04/fin-de-semana-lucerna-mercadillos-navidad/). 
+📌 {{< reflink path=posts/2019/12/fin-de-semana-lucerna-mercadillos-navidad >}}. 
 
 ### Polonia
 
@@ -113,8 +109,7 @@ de los Montes Tatra, que traen deliciosas especialidades locales y animan con su
 navideña el mercadillo. Muy recomendable es también la exposición de belenes en la Plaza 
 del Mercado. 
 
-📌 [Mercadillos navideños de Varsovia y Cracovia, un viaje a la magia de la 
-Navidad.](https://etheriamagazine.com/2019/10/30/mercadillos-navidad-varsovia-cracovia-polonia/) 
+📌 {{< reflink path=posts/2019/10/mercadillos-navidad-varsovia-cracovia-polonia >}} 
 
 ### Salzburgo
 
@@ -132,8 +127,9 @@ pero si te gustan los grandes escenarios, el del palacio de Hellbrunn cuenta con
 calendario de Adviento gigante y un bosque decorado con trece mil adornos navideños de 
 color rojo. 
 
-📌 [Un fin de semana en la romántica Salzburgo 
-invernal.](https://etheriamagazine.com/2019/12/02/48-horas-en-salzburgo-invernal-mercadillos-navidenos-escapada-romantica/) 
+📌 {{< reflink 
+path=posts/2019/12/48-horas-en-salzburgo-invernal-mercadillos-navidenos-escapada-romantica 
+>}} 
 
 ### Alemania
 
@@ -152,13 +148,13 @@ Frisia en invierno o avistar aves en Renania del Norte-Westfalia. Y los amantes 
 naturaleza disfrutarán con una excursión en trineo tirado por perros husky en Hesse o 
 con unos paseos por el bosque de Brandeburgo. 
 
-📌 [10 experiencias navideñas en Alemania a través de sus 
-länder.](https://etheriamagazine.com/2020/12/10/experiencias-navidenas-alemania/) 
+📌 {{< reflink path=posts/2020/12/experiencias-navidenas-alemania >}} 
 
 **También te puede interesar:** 
 
-[10 ciudades con mercadillos navideños para contagiarse del espíritu de la 
-Navidad](https://etheriamagazine.com/2021/10/14/10-ciudades-con-mercadillos-para-contagiarse-del-espiritu-navideno/) 
+{{< reflink 
+path=posts/2021/10/10-ciudades-con-mercadillos-para-contagiarse-del-espiritu-navideno 
+>}} 
 
-[5 Mercadillos de Adviento muy originales para el puente de 
-diciembre](https://etheriamagazine.com/2019/11/20/5-mercadillos-de-adviento-originales-para-el-puente-de-diciembre/)
+{{< reflink 
+path=posts/2019/11/5-mercadillos-de-adviento-originales-para-el-puente-de-diciembre >}}

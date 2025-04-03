@@ -1,7 +1,7 @@
 ---
 title: "Esférica Rioja Alavesa, un festival que celebra la cultura y la gastronomía"
 date: 2023-08-07
-coverImage: https://fotos.etheriamagazine.com/2023/08/festival-esferica-rioja-alavesa.jpg
+cover: https://fotos.etheriamagazine.com/2023/08/festival-esferica-rioja-alavesa.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-La Rioja Alavesa se viste de fiesta para recibir a miles de visitantes en uno de los 
+**La Rioja Alavesa se viste de fiesta para recibir a miles de visitantes en uno de los 
 festivales más animados del año. Esférica Rioja Alavesa convierte este territorio cada 
 verano en el epicentro de la música, el arte y la gastronomía local. Este evento, 
 inclusivo y sostenible, tendrá lugar del 18 al 20 de agosto en Laguardia, 
-Labastida/Bastida y Elciego. 
+Labastida/Bastida y Elciego.** 
 
 ![El Festival Esférica Rioja Alavesa es una de las grandes citas del verano.](https://fotos.etheriamagazine.com/2023/08/festival-esferica-rioja-alavesa.jpg "El Festival Esférica Rioja Alavesa es una de las grandes citas del verano.")
 
@@ -71,8 +71,6 @@ Alavesa](https://esfericariojaalavesa.com/) y también reservar tus entradas.
 
 **También te puedes interesar...** 
 
-[Planes en Vitoria con amigas dispuestas al 
-picoteo](https://etheriamagazine.com/2021/09/15/planes-originales-en-vitoria-con-amigas/). 
+{{< reflink path=posts/2021/09/planes-originales-en-vitoria-con-amigas >}}. 
 
-[31 escapadas para descubrir este otoño los paisajes del 
-vino](https://etheriamagazine.com/2020/09/07/31-escapadas-po-los-paisajes-del-vino/).
+{{< reflink path=posts/2020/09/31-escapadas-po-los-paisajes-del-vino >}}.

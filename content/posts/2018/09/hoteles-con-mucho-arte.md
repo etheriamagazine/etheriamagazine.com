@@ -1,7 +1,7 @@
 ---
 title: "Hoteles con mucho Arte"
 date: 2018-09-12
-coverImage: https://fotos.etheriamagazine.com/2018/09/Lobby-Gallery-hotel-pavilions-madrid.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/Lobby-Gallery-hotel-pavilions-madrid.jpg
 categories: 
   - hoteles
   - cultura

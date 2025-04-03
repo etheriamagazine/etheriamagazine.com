@@ -1,7 +1,7 @@
 ---
 title: "8 maravillosas cataratas del mundo para soñar"
 date: 2020-12-04
-coverImage: https://fotos.etheriamagazine.com/2020/11/cataratas-plitvice.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/cataratas-plitvice.jpg
 categories: 
   - inspiración
   - ocio
@@ -65,11 +65,12 @@ Center.
 
 En Islandia parece que cuanto más difícil es pronunciar el nombre de una cascada más 
 bonita es, y este país alberga algunas de las cataratas más espectaculares del mundo. Es 
-el caso de [Seljalandsfoss](https://es.visiticeland.com/descubra-islandia/regiones/el-sur), 
-que con sus más de 60 metros de altura ofrece un paisaje natural de esos que quitan el 
-hipo. Además, está en la zona sur, cerca de la Ring Road, la carretera más turística, 
-por lo que es de fácil acceso. No te pierdas pasar por detrás de la cascada, una 
-experiencia que no se puede realizar en otros saltos de agua islandeses. 
+el caso de 
+[Seljalandsfoss](https://es.visiticeland.com/descubra-islandia/regiones/el-sur), que con 
+sus más de 60 metros de altura ofrece un paisaje natural de esos que quitan el hipo. 
+Además, está en la zona sur, cerca de la Ring Road, la carretera más turística, por lo 
+que es de fácil acceso. No te pierdas pasar por detrás de la cascada, una experiencia 
+que no se puede realizar en otros saltos de agua islandeses. 
 
 ![Parques Nacionales de Estados Unidos](https://fotos.etheriamagazine.com/2020/11/catarata-yosemite.jpg "Catarata Yosemite.")
 
@@ -90,25 +91,25 @@ primavera, después del deshielo.
 
 ## 6\. Cataratas Kuang Si en Luang Prabang
 
-Cualquier excusa para viajar a Laos, y más concretamente a la maravillosa ciudad de [Luang 
-Prabang](https://etheriamagazine.com/2018/12/17/guia-viaje-para-mujeres-luang-prabang/), 
-merece la pena. Así que, visitar las bonitas y suaves **cataratas de Kuang Si**, a 27 
-kilómetros de esta ciudad, son un aliciente más. Estas cascadas no son espectaculares 
-por tener una gran caída de agua (la más grande es de 60 metros) pero sí están en las 
-listas de las más bonitas del mundo por el entorno, por la suavidad del paisaje y por el 
-azul turquesa del agua (si las visitas en la estación seca). Es un paseo precioso en el 
-que no podrás dejar de hacerte fotos y además ofrece lugares donde está permitido el 
-baño. También puedes aprovechar y visitar el _Centro de Rescate Tat Kuang Si_ para 
-recuperar osos negros asiáticos. 
+Cualquier excusa para viajar a Laos, y más concretamente a la maravillosa ciudad de {{< 
+reflink path=posts/2018/12/guia-viaje-para-mujeres-luang-prabang >}}, merece la pena. 
+Así que, visitar las bonitas y suaves **cataratas de Kuang Si**, a 27 kilómetros de esta 
+ciudad, son un aliciente más. Estas cascadas no son espectaculares por tener una gran 
+caída de agua (la más grande es de 60 metros) pero sí están en las listas de las más 
+bonitas del mundo por el entorno, por la suavidad del paisaje y por el azul turquesa del 
+agua (si las visitas en la estación seca). Es un paseo precioso en el que no podrás 
+dejar de hacerte fotos y además ofrece lugares donde está permitido el baño. También 
+puedes aprovechar y visitar el _Centro de Rescate Tat Kuang Si_ para recuperar osos 
+negros asiáticos. 
 
 ![Viajes a Croacia](https://fotos.etheriamagazine.com/2020/11/cataratas-plitvice.jpg "Parque Nacional de los Lagos de Plitvice. © Mike Swigunski")
 
 ## 7\. Parque Nacional de los Lagos de Plitvice
 
-Los dieciséis lagos que forman el [Parque Nacional de 
-Plitvice](https://etheriamagazine.com/2018/10/05/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia/), 
-en Croacia, forman un sistema de cascadas y saltos de agua que, sin ser espectaculares 
-de forma aislada, forman un conjunto natural de una belleza increíble. Su visita es muy 
+Los dieciséis lagos que forman el {{< reflink 
+path=posts/2018/10/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia >}}, en 
+Croacia, forman un sistema de cascadas y saltos de agua que, sin ser espectaculares de 
+forma aislada, forman un conjunto natural de una belleza increíble. Su visita es muy 
 cómoda y permite un agradable paseo por pasarelas de madera entre los lagos. Además, 
 tienen el aliciente de que conservan su belleza en cualquier época del año. No sabemos 
 si nos gustan más con la explosión natural de la primavera, los colores del otoño o con 
@@ -122,20 +123,18 @@ noche en alguno de los alojamientos del Parque.
 
 Si pensamos en un viaje a Marruecos es posible que no se nos ocurra que vamos a poder 
 contemplar una de las cataratas más bonitas del mundo. Las **cascadas de Ouzoud**, con 
-su caída de 110 metros de agua dividida en tres saltos, están a 150 kilómetros de [Marrakech](https://etheriamagazine.com/2018/12/27/viaje-de-amigas-a-marrakech/), 
-en la cordillera del Atlas. Son bonitas por diferentes e inesperadas, por el rojo del 
-suelo arcilloso que las rodea, que contrasta con el verde de los olivos. En la visita te 
-sorprenderán los divertidos monos de barbería, pequeños y descarados. Para completar la 
-jornada, ten en cuenta que puedes dar un divertido paseo en barca hasta la caída de agua 
-y que es un lugar inmejorable para darse un baño, a pesar de lo fría que está el agua. 
+su caída de 110 metros de agua dividida en tres saltos, están a 150 kilómetros de {{< 
+reflink path=posts/2018/12/viaje-de-amigas-a-marrakech >}}, en la cordillera del Atlas. 
+Son bonitas por diferentes e inesperadas, por el rojo del suelo arcilloso que las rodea, 
+que contrasta con el verde de los olivos. En la visita te sorprenderán los divertidos 
+monos de barbería, pequeños y descarados. Para completar la jornada, ten en cuenta que 
+puedes dar un divertido paseo en barca hasta la caída de agua y que es un lugar 
+inmejorable para darse un baño, a pesar de lo fría que está el agua. 
 
 #### También podría interesarte...
 
-[Enoturismo en Niágara, un viaje diferente a 
-Canadá](https://etheriamagazine.com/2018/11/20/enoturismo-en-niagara-un-viaje-a-canada-diferente/). 
+{{< reflink path=posts/2018/11/enoturismo-en-niagara-un-viaje-a-canada-diferente >}}. 
 
-[10 paisajes para evadirte desde tu 
-casa.](https://etheriamagazine.com/2020/03/18/10-paisajes-para-evadirte-desde-tu-casa/) 
+{{< reflink path=posts/2020/03/10-paisajes-para-evadirte-desde-tu-casa >}} 
 
-[10 yacimientos arqueológicos de América Latina que tienes que 
-conocer.](https://etheriamagazine.com/2019/05/29/10-yacimientos-arqueologicos-america-latina/)
+{{< reflink path=posts/2019/05/10-yacimientos-arqueologicos-america-latina >}}

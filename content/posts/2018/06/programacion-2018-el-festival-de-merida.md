@@ -1,7 +1,7 @@
 ---
 title: "El Festival de Mérida calienta motores"
 date: 2018-06-04
-coverImage: https://fotos.etheriamagazine.com/2018/06/programacion-cabecera-64.jpg
+cover: https://fotos.etheriamagazine.com/2018/06/programacion-cabecera-64.jpg
 categories: 
   - ocio
 destino: 

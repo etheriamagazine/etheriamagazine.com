@@ -1,7 +1,7 @@
 ---
 title: "Sierra de Aracena y Jabugo, una escapada 100% bellota"
 date: 2019-06-27
-coverImage: https://fotos.etheriamagazine.com/2019/06/gruta-maravillas-aracena.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/gruta-maravillas-aracena.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -158,8 +158,6 @@ Jabugo](https://www.jabugo.es/).
 
 ### También te puede interesar
 
-[Descubre la magia de las playas y la costa de 
-Huelva](https://etheriamagazine.com/2020/07/01/que-ver-hacer-costa-playas-huelva-donana/) 
+{{< reflink path=posts/2020/07/que-ver-hacer-costa-playas-huelva-donana >}} 
 
-[Huelva con niños: 6 planes para aprovechar el viaje al 
-máximo](https://etheriamagazine.com/2021/06/21/planes-en-huelva-con-ninos/)
+{{< reflink path=posts/2021/06/planes-en-huelva-con-ninos >}}

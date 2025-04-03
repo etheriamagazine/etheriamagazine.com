@@ -1,7 +1,7 @@
 ---
 title: "El Camino de Santiago por mar: a vela y entre mujeres"
 date: 2021-05-31
-coverImage: https://fotos.etheriamagazine.com/2021/05/camino-santiago-mar.jpg
+cover: https://fotos.etheriamagazine.com/2021/05/camino-santiago-mar.jpg
 categories: 
   - historias
 destino: 
@@ -87,13 +87,12 @@ Mediante las 11 etapas marítimas no sólo se ponen a prueba las fuerzas de los 
 cultural y religioso. Mediante las paradas estipuladas se tiene la oportunidad de 
 conocer buena parte de la costa del norte de España. 
 
-4 de junio. Hondarribia-Bermeo. **5 de junio. Descanso en Bermeo.** (guía del [entorno 
-de 
-Bermeo](https://etheriamagazine.com/2020/04/20/avistamiento-cetaceos-bizkaia-vizcaya-pais-vasco/)) 
-6 de junio. Bermeo-Bilbao. 7 de junio. Bilbao-Santander. 8 de junio. Santander-Gijón. 
-**9 de junio. Descanso en Gijón**. ([guía gastro de 
-Gijón](https://etheriamagazine.com/2021/01/25/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias/)) 
-10 de junio. Gijón-Ribadeo. 11 de junio. Ribadeo-Viveiro. **12 de junio. Descanso en 
+4 de junio. Hondarribia-Bermeo. **5 de junio. Descanso en Bermeo.** (guía del {{< 
+reflink path=posts/2020/04/avistamiento-cetaceos-bizkaia-vizcaya-pais-vasco >}}) 6 de 
+junio. Bermeo-Bilbao. 7 de junio. Bilbao-Santander. 8 de junio. Santander-Gijón. **9 de 
+junio. Descanso en Gijón**. ({{< reflink 
+path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias >}}) 10 de 
+junio. Gijón-Ribadeo. 11 de junio. Ribadeo-Viveiro. **12 de junio. Descanso en 
 Viveiro.** 13 de junio. Viveiro-A Coruña. **14 de junio. Descanso en A Coruña**. 15 de 
 junio. A Coruña-Muxía. 16 de junio. Muxía-Muros. 17 de junio. Muros-Pobra do Caramiñal. 
 18 de junio. Pobra do Caramiñal-Vilagarcía-Padrón. 19 de junio. 
@@ -103,17 +102,14 @@ Padrón/Milladoiro-Santiago de Compostela. (A PIE)
 
 Si esta travesía para hacer el Camino de Santiago por mar no cuadra en tu agenda en este 
 momento, puedes hacerla por libre de forma individual durante todo el año (aunque el 
-invierno es más duro). Esta edición puedes seguir la travesía en el Canal Náutico y [apuntarte 
-a la próxima](https://rallysailtheway.com/informacion/) si quieres hacerla acompañada en 
-la travesía anual. 
+invierno es más duro). Esta edición puedes seguir la travesía en el Canal Náutico y 
+[apuntarte a la próxima](https://rallysailtheway.com/informacion/) si quieres hacerla 
+acompañada en la travesía anual. 
 
 ### Además del Camino de Santiago por mar también te puede interesar...
 
-[El Camino de Finisterre: plan de fuga a los misterios del fin del 
-mundo](https://etheriamagazine.com/2019/03/06/camino-de-finisterre-fairway/). 
+{{< reflink path=posts/2019/03/camino-de-finisterre-fairway >}}. 
 
-[El Camino de Santiago en La Rioja, un buen viaje para el 
-otoño](https://etheriamagazine.com/2019/05/01/etapas-que-ver-camino-de-santiago-en-la-rioja/). 
+{{< reflink path=posts/2019/05/etapas-que-ver-camino-de-santiago-en-la-rioja >}}. 
 
-[Cinco películas del Camino de Santiago que no puedes perderte en este Año 
-Jubilar](https://etheriamagazine.com/2021/03/04/5-peliculas-del-camino-de-santiago/).
+{{< reflink path=posts/2021/03/5-peliculas-del-camino-de-santiago >}}.

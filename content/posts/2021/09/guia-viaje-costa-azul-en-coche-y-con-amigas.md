@@ -1,7 +1,7 @@
 ---
 title: "Ruta por la Costa Azul en coche y con amigas"
 date: 2021-09-03
-coverImage: https://fotos.etheriamagazine.com/2021/08/Cannes-Le-Suquet.jpg
+cover: https://fotos.etheriamagazine.com/2021/08/Cannes-Le-Suquet.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Yolanda Cardo
 ---
 
-Fue el poeta francés Stéphen Liégeard quien bautizó este fabuloso boulevard mediterráneo 
-como Costa Azul. Sus paisajes hipnóticos, bendecidos por la luz y el clima, han atraído 
-tal cantidad de celebridades que se podría cartografiar su mapa de leyenda en leyenda. 
-Desde Etheria Magazine te proponemos un viaje a la Costa Azul en coche y con amigas, una 
-experiencia inolvidable en el destino vacacional más glamuroso del mundo. 
+**Fue el poeta francés Stéphen Liégeard quien bautizó este fabuloso boulevard 
+mediterráneo como Costa Azul. Sus paisajes hipnóticos, bendecidos por la luz y el clima, 
+han atraído tal cantidad de celebridades que se podría cartografiar su mapa de leyenda 
+en leyenda. Desde Etheria Magazine te proponemos un viaje a la Costa Azul en coche y con 
+amigas, una experiencia inolvidable en el destino vacacional más glamuroso del mundo.** 
 
 ![saint paul de vence costa azul con amigas](https://fotos.etheriamagazine.com/2021/08/Saint-Paul-de-Vence-Marc-Chagall.jpg "En Saint-Paul de Vence está enterrado Marc Chagall. © Yolanda Cardo")
 
@@ -288,11 +288,8 @@ pleno corazón de Biot.
 
 ### Sigue leyendo sobre Francia
 
-[Ruta por los jardines y perfumes de la Costa 
-Azul](https://etheriamagazine.com/2021/07/07/ruta-de-los-jardines-costa-azul-francia/). 
+{{< reflink path=posts/2021/07/ruta-de-los-jardines-costa-azul-francia >}}. 
 
-[10 viajes para disfrutar de la buena vida en 
-Francia](https://etheriamagazine.com/2020/09/02/mejores-destinos-para-viajar-en-francia/). 
+{{< reflink path=posts/2020/09/mejores-destinos-para-viajar-en-francia >}}. 
 
-[Valle del Loira, cinco castillos y un increíble festival de 
-jardines](https://etheriamagazine.com/2021/08/09/valle-del-loira-entre-castillos-y-jardines/).
+{{< reflink path=posts/2021/08/valle-del-loira-entre-castillos-y-jardines >}}.

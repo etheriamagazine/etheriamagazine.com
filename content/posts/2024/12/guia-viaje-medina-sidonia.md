@@ -1,7 +1,7 @@
 ---
 title: "Con amigas a Medina Sidonia, una excursión al interior de Cádiz"
 date: 2024-12-22
-coverImage: https://fotos.etheriamagazine.com/2024/12/medina-sidonia-castillo.jpg
+cover: https://fotos.etheriamagazine.com/2024/12/medina-sidonia-castillo.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -178,12 +178,14 @@ en oficinadeturismo@medinasidonia.com
 
 ### ¿Cuál es el horario de los monumentos de Medina Sidonia?
 
-• **Castillo y Museo Arqueológico**: abren en invierno de 10 a 14 h todos los días y de 
+- **Castillo y Museo Arqueológico**: abren en invierno de 10 a 14 h todos los días y de 
 16.30 a 18.30 h de jueves a domingo. Del 10 al 30 de junio y del 9 al 30 de septiembre 
-abre de 10 a 14 y de 17 a 20 h. En verano, todos los días de 10 a 14 h y de 18 a 21 h. • 
-**Museo Etnográfico**: de 12 a 14 h los jueves y de 10 a 14 h los viernes, sábados y 
-domingos. • **Iglesia de Santa María la Mayor**: todos los días de 10 a 14 h y de 16 a 
-18 h. 
+abre de 10 a 14 y de 17 a 20 h. En verano, todos los días de 10 a 14 h y de 18 a 21 h. 
+
+- **Museo Etnográfico**: de 12 a 14 h los jueves y de 10 a 14 h los viernes, sábados y 
+domingos. 
+
+- **Iglesia de Santa María la Mayor**: todos los días de 10 a 14 h y de 16 a 18 h. 
 
 ![Plaza que se abre en la calle Cilla en la parte alta de Medina Sidonia.](https://fotos.etheriamagazine.com/2024/12/media-sidonia-santa-maria-mayor.jpg "Plaza que se abre en la calle Cilla en la Villa Vieja de Medina Sidonia. © Susana Garcia")
 
@@ -212,11 +214,8 @@ templo del azúcar y la almendra con tienda y cafetería.
 
 **También te puede interesar:** 
 
-[La mejor guía de Cádiz provincia para organizar tu 
-viaje](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/) 
+{{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}} 
 
-[12 pueblos blancos de la Sierra Cádiz que debes incluir en tu 
-ruta](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/) 
+{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}} 
 
-[Excursión a Setenil de las Bodegas: qué ver en este precioso pueblo blanco de 
-Cádiz](https://etheriamagazine.com/2022/07/22/que-ver-setenil-de-las-bodegas/)
+{{< reflink path=posts/2022/07/que-ver-setenil-de-las-bodegas >}}

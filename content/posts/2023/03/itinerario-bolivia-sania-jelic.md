@@ -1,7 +1,7 @@
 ---
 title: "Bolivia bien vale un potosí, nueva etapa de Sania Jelic"
 date: 2023-03-13
-coverImage: https://fotos.etheriamagazine.com/2023/03/sania-sucre.jpg
+cover: https://fotos.etheriamagazine.com/2023/03/sania-sucre.jpg
 categories: 
   - viajar-sola
   - mujeres-top
@@ -11,12 +11,12 @@ authors:
   - Sania Jelic
 ---
 
-Tras recorrer el Altiplano boliviano y los paisajes lunares del Salar de Uyuni, Sania se 
-dirige a la región minera de Potosí, un lugar complejo para una mujer que viaja sola. 
+**Tras recorrer el Altiplano boliviano y los paisajes lunares del Salar de Uyuni, Sania 
+se dirige a la región minera de Potosí, un lugar complejo para una mujer que viaja sola. 
 Después, el viaje por Bolivia continúa por dos grandes ciudades: Sucre, la capital 
 administrativa, y La Paz, una gran urbe a tres mil quinientos metros de altura. Una 
 etapa donde se acerca a las tradiciones bolivianas y a mujeres empoderadas como las 
-cholitas luchadoras. Y, como siempre, nos lo cuenta en primera persona. 
+cholitas luchadoras. Y, como siempre, nos lo cuenta en primera persona.** 
 
 ![panorámica de Sucre con Sania](https://fotos.etheriamagazine.com/2023/03/sania-sucre.jpg "Sania en Sucre. © Sania Jelic.")
 
@@ -157,7 +157,8 @@ Rolex Emprendimiento por la labor de recuperación de tejidos/bienes culturales 
 a finales de los años noventa en la comunidad de **Coroma**. En este pueblo habían 
 “desaparecido” uno 200 tejidos pre-colombianos, algunos de los cuales aparecieron en una 
 exposición en San Francisco. A través de su ONG, y con ayuda de colaboradores y 
-antropólogos, consiguió recuperar algunos. Puedes ver la historia en este [vídeo](https://youtu.be/pW6PKlnyDnY). 
+antropólogos, consiguió recuperar algunos. Puedes ver la historia en este 
+[vídeo](https://youtu.be/pW6PKlnyDnY). 
 
 ## La tradición tejedora yampara en Tarabuco
 
@@ -265,11 +266,8 @@ actividad física limitada por falta de aire.
 
 📌 **También te puede interesar:** 
 
-[Santiago de Chile y Atacama, nuevas etapas de 
-Sania](https://etheriamagazine.com/2023/02/27/ruta-santiago-atacama-uyuni/) 
+{{< reflink path=posts/2023/02/ruta-santiago-atacama-uyuni >}} 
 
-[Cruce Andino, Bariloche y El Bolsón, fin del viaje de Sania en 
-Patagonia](https://etheriamagazine.com/2023/02/10/patagonia-cruce-lagos/) 
+{{< reflink path=posts/2023/02/patagonia-cruce-lagos >}} 
 
-[El Amazonas: nueva etapa de Sania Jelic en 
-Sudamérica](https://etheriamagazine.com/2022/12/24/sania-jelic-amazonas/)
+{{< reflink path=posts/2022/12/sania-jelic-amazonas >}}

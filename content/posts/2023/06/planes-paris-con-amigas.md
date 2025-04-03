@@ -1,7 +1,7 @@
 ---
 title: "París con amigas, diez planes para una escapada perfecta"
 date: 2023-06-16
-coverImage: https://fotos.etheriamagazine.com/2023/06/paris-amigas-tullerias.jpg
+cover: https://fotos.etheriamagazine.com/2023/06/paris-amigas-tullerias.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Susana García
 ---
 
-París es una de esas ciudades con las que siempre aciertas. A sus incontables tesoros 
+**París es una de esas ciudades con las que siempre aciertas. A sus incontables tesoros 
 arquitectónicos y artísticos se suma una personalidad única que te atrapa nada más 
 pisarla por primera vez y que hace que siempre quieras volver. Te contamos diez planes 
 que no pueden faltar en un primer viaje a París con amigas para que os salga una 
-escapada redonda. 
+escapada redonda.** 
 
 ![Notre-Dame de París.](https://fotos.etheriamagazine.com/2023/06/paris-amigas-notre-dame.jpg "Notre-Dame de París. © Susana García")
 
@@ -161,8 +161,8 @@ etnográfico que recorre África, Asia y América en un edificio único diseñad
 Nouvel. Alberga también colecciones temporales muy interesantes. 
 
 ✅ Merece la pena reservar una [Visita guiada por el Museo del 
-Louvre](https://www.civitatis.com/es/paris/visita-guiada-museo-louvre/?aid=10211) o una [Visita 
-guiada al Museo 
+Louvre](https://www.civitatis.com/es/paris/visita-guiada-museo-louvre/?aid=10211) o una 
+[Visita guiada al Museo 
 d'Orsay](https://www.civitatis.com/es/paris/visita-guiada-museo-orsay/?aid=10211) con 
 Civitatis. 
 
@@ -180,8 +180,9 @@ cena.
 ![Barcos para turistas en el Sena.](https://fotos.etheriamagazine.com/2023/06/paris-amigas-sena.jpg "Barcos para turistas en el Sena. © SG")
 
 📍 Si no tenéis mucho tiempo y no os queréis perder la perspectiva desde el río, una 
-buena opción es utilizar los [Batobus](https://www.civitatis.com/es/paris/barco-turistico-paris/?aid=10211), 
-que funcionan como un autobús fluvial del que puedes subir y bajar en distintas paradas. 
+buena opción es utilizar los 
+[Batobus](https://www.civitatis.com/es/paris/barco-turistico-paris/?aid=10211), que 
+funcionan como un autobús fluvial del que puedes subir y bajar en distintas paradas. 
 
 ✅ Puedes reservar la excursión de Civitatis de [Paseo en barco por el 
 Sena](https://www.civitatis.com/es/paris/paseo-barco-sena/?aid=10211). 
@@ -296,8 +297,6 @@ France](https://www.france.fr/es)
 
 📌 **También te puede interesar:** 
 
-[Planes en París si viajas 
-sola](https://etheriamagazine.com/2019/05/15/viajar-sola-que-ver-paris/) 
+{{< reflink path=posts/2019/05/viajar-sola-que-ver-paris >}} 
 
-[Shopping en París, tiendas imprescindibles en Le 
-Marais](https://etheriamagazine.com/2018/08/02/viaje-de-compras-le-marais-paris/)
+{{< reflink path=posts/2018/08/viaje-de-compras-le-marais-paris >}}

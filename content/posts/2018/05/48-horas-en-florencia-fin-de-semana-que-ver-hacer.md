@@ -1,7 +1,7 @@
 ---
 title: "Florencia en un fin de semana, claves par aprovecharlo"
 date: 2018-05-16
-coverImage: https://fotos.etheriamagazine.com/2018/05/TOSCANA-FLORENCIA-FACHADA-CATEDRAL.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/TOSCANA-FLORENCIA-FACHADA-CATEDRAL.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-Hay tanto arte en Florencia que una vida entera no daría para contemplar con el tiempo 
+**Hay tanto arte en Florencia que una vida entera no daría para contemplar con el tiempo 
 que merecen todos sus tesoros artísticos. Un fin de semana al menos permite disfrutar de 
 su ambiente y de sus lugares más emblemáticos, esos que forman parte de la historia del 
-arte y de la humanidad. 
+arte y de la humanidad.** 
 
 ![Florencia y la catedral de Santa Maria dei Fiore.](https://fotos.etheriamagazine.com/2018/05/fin-semana-florencia-duomo.jpg "Florencia y la catedral de Santa Maria dei Fiore. © Marian Brandt")
 
@@ -31,8 +31,7 @@ línea de los edificios, se centren en las esculturas de la Piazza della Signori
 contemplen las pinturas de la Galleria degli Uffizi: la emoción del arte hace palpitar 
 más fuerte al corazón. 
 
-**No te pierdas:** [Dónde desconectar en la Toscana, conoce sus mejores 
-termas](https://etheriamagazine.com/2022/11/03/turismo-termal-toscana-italia/). 
+**No te pierdas:** {{< reflink path=posts/2022/11/turismo-termal-toscana-italia >}}. 
 
 ## Primeras horas en Florencia
 
@@ -135,8 +134,6 @@ Más información en [Feel Florence](https://www.feelflorence.it/).
 
 También te puede interesar: 
 
-[Nueve paseos a la italiana por los jardines más bellos de 
-Florencia](https://etheriamagazine.com/2021/05/21/paseos-por-los-jardines-mas-bellos-de-florencia/). 
+{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}. 
 
-[Ruta en coche para recorrer la Toscana en 7 
-días](https://etheriamagazine.com/2021/06/01/toscana-en-coche/).
+{{< reflink path=posts/2021/06/toscana-en-coche >}}.

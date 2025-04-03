@@ -1,7 +1,7 @@
 ---
 title: "Barrios de Nueva York: del góspel de Harlem al arte urbano del Bronx y a los lugares de moda de Brooklyn"
 date: 2024-04-08
-coverImage: https://fotos.etheriamagazine.com/2024/04/nueva-york-harlem-casas.jpg
+cover: https://fotos.etheriamagazine.com/2024/04/nueva-york-harlem-casas.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -43,8 +43,8 @@ Island suele quedar al margen de las visitas, es un distrito poco frecuentado,
 eminentemente residencial y con peor conexión con el resto de la ciudad. 
 
 ✅ Excursiones [Contrastes de Nueva 
-York](https://www.civitatis.com/es/nueva-york/contrastes-nueva-york/?aid=10211) y [Contrastes 
-de Nueva York 
+York](https://www.civitatis.com/es/nueva-york/contrastes-nueva-york/?aid=10211) y 
+[Contrastes de Nueva York 
 VIP](https://www.civitatis.com/es/nueva-york/contrastes-nueva-york-vip/?aid=10211) con 
 Civitatis 
 
@@ -190,11 +190,8 @@ fotógrafa Alice Austen** o el **Ligthouse Museum**, dedicado a la historia de l
 
 ****También en Etheria Magazine**:** 
 
-[Una guía para que no te dejes (casi) nada por ver en 
-Manhattan](https://etheriamagazine.com/2024/01/11/que-ver-en-manhattan-nueva-york/) 
+{{< reflink path=posts/2024/01/que-ver-en-manhattan-nueva-york >}} 
 
-[Los mejores miradores de Nueva York: nuevos, de pago y 
-gratuitos](https://etheriamagazine.com/2020/02/24/los-mejores-miradores-de-nueva-york-gratis-de-pago/) 
+{{< reflink path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}} 
 
-[10 consejos para un viaje en familia a Nueva 
-York](https://etheriamagazine.com/2018/07/28/consejos-para-viajar-en-familia-a-nueva-york/)
+{{< reflink path=posts/2018/07/consejos-para-viajar-en-familia-a-nueva-york >}}

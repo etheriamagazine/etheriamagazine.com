@@ -1,7 +1,7 @@
 ---
 title: "Empordà, busca la esencia mediterránea en la Costa Brava"
 date: 2020-08-21
-coverImage: https://fotos.etheriamagazine.com/2019/06/Viaje-girona-medieval-e1559737808621.jpg
+cover: https://fotos.etheriamagazine.com/2019/06/Viaje-girona-medieval-e1559737808621.jpg
 categories: 
   - inspiración
 destino: 
@@ -171,11 +171,9 @@ un bosque maduro gerundés con una experiencia que te reconecta con tu lado más
 
 ### También en Etheria Magazine
 
-[Viñedos con sabor a mar, primer tramo del Grand Tour de 
-Cataluña](https://etheriamagazine.com/2024/06/27/grand-tour-catalunya-vinedos-sabor-a-mar/). 
+{{< reflink path=posts/2024/06/grand-tour-catalunya-vinedos-sabor-a-mar >}}. 
 
-[Descubre estos 8 lugares secretos de Cataluña que deberías 
-conocer](https://etheriamagazine.com/2021/02/22/lugares-secretos-de-cataluna-que-visitar/). 
+{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}. 
 
-[Turismo industrial en Cataluña, viajar y aprender en 
-familia](https://etheriamagazine.com/2019/12/18/planes-familiares-en-barcelona-y-tarragona-turismo-industrial/).
+{{< reflink 
+path=posts/2019/12/planes-familiares-en-barcelona-y-tarragona-turismo-industrial >}}.

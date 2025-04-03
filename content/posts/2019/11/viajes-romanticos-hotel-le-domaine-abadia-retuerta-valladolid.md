@@ -1,7 +1,7 @@
 ---
 title: "Fin de semana romántico en Le Domaine, el hotel de la bodega Abadía Retuerta"
 date: 2019-11-13
-coverImage: https://fotos.etheriamagazine.com/2019/11/Le-domaine-Desayuno-Jardín-del-Claustro.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/Le-domaine-Desayuno-Jardín-del-Claustro.jpg
 categories: 
   - hoteles
 destino: 
@@ -68,8 +68,8 @@ dos dormitorios o la master suite.
 ## Restaurantes del hotel Le Domaine
 
 En Le Domaine no sabes muy bien qué te gusta más, si los cuidados menús o los espacios 
-donde se ubican los restaurantes. Cuenta con un restaurante con una estrella Michelin, [El 
-Refectorio](https://www.abadia-retuerta.com/restaurantes/refectorio/), que toma el 
+donde se ubican los restaurantes. Cuenta con un restaurante con una estrella Michelin, 
+[El Refectorio](https://www.abadia-retuerta.com/restaurantes/refectorio/), que toma el 
 nombre del lugar de la abadía donde se ubica: un precioso espacio de techo abovedado con 
 un fresco de _La Última Cena_ del siglo XVI. Aquí podrás probar dos menús en función del 
 apetito que tengas: el **menú Sacristía** (de siete platos más los aperitivos); y el 
@@ -176,11 +176,8 @@ Retuerta](https://www.abadia-retuerta.com).
 
 ### También en Valladolid...
 
-[Ruta por Ribera del Duero: de bodega en bodega por la 
-N-122](https://etheriamagazine.com/2018/05/21/ruta-del-vino-ribera-del-duero-valladolid/) 
+{{< reflink path=posts/2018/05/ruta-del-vino-ribera-del-duero-valladolid >}} 
 
-[¿Por qué se come tan bien en 
-Valladolid?](https://etheriamagazine.com/2019/01/31/bares-imprescindibles-finde-valladolid/) 
+{{< reflink path=posts/2019/01/bares-imprescindibles-finde-valladolid >}} 
 
-[32 excursiones de un día donde la cultura y el vino se dan la 
-mano](https://etheriamagazine.com/2021/04/13/32-excursiones-de-un-dia-en-rutas-vino-espana/)
+{{< reflink path=posts/2021/04/32-excursiones-de-un-dia-en-rutas-vino-espana >}}

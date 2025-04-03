@@ -1,7 +1,7 @@
 ---
 title: "Egeria, la estrella del Guggenheim de Bilbao"
 date: 2018-08-28
-coverImage: https://fotos.etheriamagazine.com/2018/08/Soy-tu-espejo-vasconcelos-guggenheim-bilbao.jpg
+cover: https://fotos.etheriamagazine.com/2018/08/Soy-tu-espejo-vasconcelos-guggenheim-bilbao.jpg
 categories: 
   - cultura
 destino: 

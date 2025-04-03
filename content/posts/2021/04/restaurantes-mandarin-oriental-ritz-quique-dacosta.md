@@ -1,7 +1,7 @@
 ---
 title: "Gastronomía de altura en los 5 restaurantes del renovado Mandarin Oriental Ritz"
 date: 2021-04-12
-coverImage: https://fotos.etheriamagazine.com/2021/04/Ritz-Madrid-Deessa-gastronomia.jpg
+cover: https://fotos.etheriamagazine.com/2021/04/Ritz-Madrid-Deessa-gastronomia.jpg
 categories: 
   - gourmet
   - hoteles
@@ -19,15 +19,15 @@ El Mandarin Oriental Ritz de Madrid abre las puertas tras su renovación y lo ha
 Teníamos ya ganas en Madrid de que el renovado Mandarin Oriental Ritz abriera sus 
 puertas tras su exhaustiva reforma. La renovación ha supuesto un cambio total en uno de 
 los hoteles históricos más emblemáticos de la capital (y que ya os contábamos en el 
-artículo [3 razones por las que querrás visitar el nuevo Mandarin Oriental Ritz 
-Madrid](https://etheriamagazine.com/2020/02/18/nuevo-mandarin-oriental-ritz-madrid-hoteles-lujo/)). 
-Y es que un hotel como éste merecía una gastronomía a su altura, por lo que nadie mejor 
-que el **tres estrellas Michelin Quique Dacosta** para dirigir y dotar de personalidad a 
-sus cinco nuevos espacios gastronómicos. Y todos con una carta de vinos especialmente 
-pensada para cada espacio por el chef y la _sommelier_ Silvia García. 
+artículo {{< reflink path=posts/2020/02/nuevo-mandarin-oriental-ritz-madrid-hoteles-lujo 
+>}}). Y es que un hotel como éste merecía una gastronomía a su altura, por lo que nadie 
+mejor que el **tres estrellas Michelin Quique Dacosta** para dirigir y dotar de 
+personalidad a sus cinco nuevos espacios gastronómicos. Y todos con una carta de vinos 
+especialmente pensada para cada espacio por el chef y la _sommelier_ Silvia García. 
 
 No pierdas tiempo y reserva ya mismo mesa en alguno de estos cinco restaurantes del 
-Mandarin Oriental Ritz a través de la web del hotel [mandarinoriental.es](https://www.mandarinoriental.es/madrid/hotel-ritz/fine-dining) 
+Mandarin Oriental Ritz a través de la web del hotel 
+[mandarinoriental.es](https://www.mandarinoriental.es/madrid/hotel-ritz/fine-dining) 
 
 ![restaurantes del Mandarin Oriental Ritz](https://fotos.etheriamagazine.com/2021/04/Ritz-Madrid-Garden-Food.jpg "Delicatessen en el Jardín del Ritz.")
 
@@ -106,8 +106,6 @@ inconfundible de Quique Dacosta.
 
 ### También te puede interesar...
 
-[Najat Kaanache, la mejor chef de África, desvela en NAJAT los secretos de la cocina 
-marroquí](https://etheriamagazine.com/2021/02/04/najat-libro-cocina-marroqui-chef-najat-kaanache/). 
+{{< reflink path=posts/2021/02/najat-libro-cocina-marroqui-chef-najat-kaanache >}}. 
 
-[Cocina madre, el tributo de Joan Roca a su mejor 
-maestra](https://etheriamagazine.com/2021/04/03/nuevo-libro-joan-roca-cocina-madre/).
+{{< reflink path=posts/2021/04/nuevo-libro-joan-roca-cocina-madre >}}.

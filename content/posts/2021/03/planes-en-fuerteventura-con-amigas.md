@@ -1,7 +1,7 @@
 ---
 title: "10 planes en Fuerteventura con amigas para disfrutar al máximo de la isla"
 date: 2021-03-24
-coverImage: https://fotos.etheriamagazine.com/2021/03/fuerteventura-Playa-Los-Charcos.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/fuerteventura-Playa-Los-Charcos.jpg
 categories: 
   - viajar-con-amigas
   - ocio
@@ -208,14 +208,11 @@ Más información en [Turismo de Fuerteventura](https://visitfuerteventura.es/).
 
 ## También te puede interesar en Canarias...
 
-[Una ruta de cine en la isla de El 
-Hierro](https://etheriamagazine.com/2019/10/21/ruta-turismo-cine-serie-hierro-canarias/). 
+{{< reflink path=posts/2019/10/ruta-turismo-cine-serie-hierro-canarias >}}. 
 
-[Planes imprescindibles si viajas sola o con amigas a 
-Lanzarote](https://etheriamagazine.com/2020/06/11/viajar-sola-amigas-imprescindible-lanzarote/). 
+{{< reflink path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}}. 
 
-[Ruta de César Manrique en 
-Lanzarote](https://etheriamagazine.com/2019/09/10/cesar-manrique-ruta-en-lanzarote/). 
+{{< reflink path=posts/2019/09/cesar-manrique-ruta-en-lanzarote >}}. 
 
-[Por qué no olvidarás jamás La Palma, la isla más adictiva y alternativa de 
-Canarias](https://etheriamagazine.com/2019/04/02/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias/).
+{{< reflink path=posts/2019/04/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias 
+>}}.

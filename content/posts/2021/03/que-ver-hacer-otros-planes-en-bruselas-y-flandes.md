@@ -1,7 +1,7 @@
 ---
 title: "8 planes que no puedes perderte en Bruselas y Flandes"
 date: 2021-03-12
-coverImage: https://fotos.etheriamagazine.com/2021/03/Planes-flandes-paseo-barca-brujas.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/Planes-flandes-paseo-barca-brujas.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Susana García
 ---
 
-Viajar a Bruselas y Flandes es siempre un buen plan. A sus ciudades históricas llenas de 
-tesoros artísticos se suma un gusto natural por vivir en la calle que se refleja en las 
-plazas y calles llenas de terrazas al aire libre. Aquí te contamos 8 planes 
-imprescindibles para conocer algunos de sus secretos. ¡No te los pierdas! 
+**Viajar a Bruselas y Flandes es siempre un buen plan. A sus ciudades históricas llenas 
+de tesoros artísticos se suma un gusto natural por vivir en la calle que se refleja en 
+las plazas y calles llenas de terrazas al aire libre. Aquí te contamos 8 planes 
+imprescindibles para conocer algunos de sus secretos. ¡No te los pierdas!** 
 
 ![Graslei, el animado muelle de Gante.](https://fotos.etheriamagazine.com/2021/03/Planes-flandes-Graslei-Gante.jpg "Graslei, el animado muelle de Gante.")
 
@@ -127,11 +127,8 @@ quieres conocer más planes en Bruselas y Flandes no dejes de consultar su pági
 
 ### También te puede interesar...
 
-[Así son las mujeres de Brujas (y no, no son 
-brujas).](https://etheriamagazine.com/2019/07/03/viaje-amigas-mujeres-de-brujas-flandes-belgica/) 
+{{< reflink path=posts/2019/07/viaje-amigas-mujeres-de-brujas-flandes-belgica >}} 
 
-[La cerveza, un asunto de 
-mujeres](https://etheriamagazine.com/2018/10/02/la-cerveza-un-asunto-de-mujeres-belgica/). 
+{{< reflink path=posts/2018/10/la-cerveza-un-asunto-de-mujeres-belgica >}}. 
 
-[Qué ver y hacer en Luxemburgo en 3 días con 
-amigas.](https://etheriamagazine.com/2020/03/04/que-ver-y-hacer-en-luxemburgo-en-3-dias-con-amigas/)
+{{< reflink path=posts/2020/03/que-ver-y-hacer-en-luxemburgo-en-3-dias-con-amigas >}}

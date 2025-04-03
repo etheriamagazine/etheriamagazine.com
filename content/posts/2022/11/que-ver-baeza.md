@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en Baeza, una de las ciudades reconocidas por la Unesco"
 date: 2022-11-28
-coverImage: https://fotos.etheriamagazine.com/2022/11/ubeda-unesco.jpg
+cover: https://fotos.etheriamagazine.com/2022/11/ubeda-unesco.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Firmas invitadas
 ---
 
-La ciudad de Baeza representa por sí sola, o junto a Úbeda, una de las mejores 
+**La ciudad de Baeza representa por sí sola, o junto a Úbeda, una de las mejores 
 propuestas turísticas de la provincia de Jaén y de Andalucía. Te contamos cuáles son las 
-visitas imprescindibles de Baeza y también algunos lugares un poco más "secretos". 
+visitas imprescindibles de Baeza y también algunos lugares un poco más "secretos".** 
 
 **Por Mari Carmen Duarte** 
 
@@ -187,11 +187,12 @@ Pablo, los alrededores guardan otras sorpresas, como el Hospital de San Antonio 
 actual Archivo y biblioteca; o el monasterio de San Antonio de Padua, con unos dulces 
 que saben a gloria. 
 
-Puedes seguir informándote con las [audioguías](http://audioguia.baeza.net/indexes.html?google=es#menu_20) 
-de Turismo de Baeza. 
+Puedes seguir informándote con las 
+[audioguías](http://audioguia.baeza.net/indexes.html?google=es#menu_20) de Turismo de 
+Baeza. 
 
-📍**No te pierdas este artículo para continuar el viaje:** [Guía esencial de Úbeda para 
-un fin de semana histórico](https://etheriamagazine.com/2022/11/08/que-ver-ubeda/). 
+📍**No te pierdas este artículo para continuar el viaje:** {{< reflink 
+path=posts/2022/11/que-ver-ubeda >}}. 
 
 ![Iglesia de San Pablo en Baeza](https://fotos.etheriamagazine.com/2022/11/baeza-iglesia-san-pablo.jpg "Iglesia de San Pablo.")
 

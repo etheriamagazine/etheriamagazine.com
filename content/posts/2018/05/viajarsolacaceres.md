@@ -1,7 +1,7 @@
 ---
 title: "Por qué viajar sola a Cáceres y cómo disfrutarlo"
 date: 2018-05-13
-coverImage: https://fotos.etheriamagazine.com/2018/05/1-Viaje-Caceres-Pixabay1569100.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/1-Viaje-Caceres-Pixabay1569100.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,9 +10,9 @@ authors:
   - Pepa G. Marín
 ---
 
-Existen determinados lugares en los que viajar sola es todo un placer. Cáceres es uno de 
-ellos, y seguramente se encuentre entre los mejores para inaugurar nuestro currículum de 
-escapadas en solitario. 
+**Existen determinados lugares en los que viajar sola es todo un placer. Cáceres es uno 
+de ellos, y seguramente se encuentre entre los mejores para inaugurar nuestro currículum 
+de escapadas en solitario.** 
 
 ![Tocar el pie de la estatua de San Pedro de Alcántara dicen que trae suerte.](https://fotos.etheriamagazine.com/2018/05/7-Viaje-Caceres-Suerte.jpg "Tocar el pie de la estatua de San Pedro de Alcántara dicen que trae suerte.")
 
@@ -80,7 +80,7 @@ unas ciento treinta familias judías.
 
 ### No te pierdas en Cáceres
 
-**•** Centro de Artes Visuales F. Helga de Alvear. Entre las cien personas más 
+**- ** Centro de Artes Visuales F. Helga de Alvear. Entre las cien personas más 
 influyentes en el mundo del Arte se encuentra la coleccionista hispano-germana Helga de 
 Alvear. Probablemente a muchas de vosotros ni siquiera os suene, a no ser que viváis en 
 Madrid, donde tiene una Galería de Arte (Doctor Fourquet, 12) o en Cáceres, donde se 
@@ -88,19 +88,18 @@ encuentra el Centro de Artes Visuales (calle Pizarro, 8). Este espacio de Arte M
 pretende que la actitud crítica y creativa caminen de la mano. Pocas te dejan 
 indiferente. 
 
-• En el hotel Atrio encontrarás el lujo de la sencillez y grandes espacios donde la luz 
+- En el hotel Atrio encontrarás el lujo de la sencillez y grandes espacios donde la luz 
 es la protagonista. Además, goza de una ubicación céntrica en el casco histórico desde 
 la que si sales sola por la noche puedes volver a pie sin problema. Su restaurante, 
 dirigido por Toño (en los fogones) y Jose (en la bodega), ostenta dos estrellas 
 Michelin. Sin duda, merece la pena darse el capricho para degustar sus menús 
 degustación. Plaza San Mateo, 1. Tel. 927 242 928 
 
-• Más información: [www.caceres.es](http://www.caceres.es) y www.turismocaceres.org 
+- Más información: [www.caceres.es](http://www.caceres.es) y www.turismocaceres.org 
 
 **No te pierdas...** 
 
-[8 visitas imprescindibles en Cáceres en clave 
-histórica](https://etheriamagazine.com/2020/05/26/escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica/). 
+{{< reflink 
+path=posts/2020/05/escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica >}}. 
 
-[5 pueblos de Badajoz que no conoces y te 
-sorprenderán](https://etheriamagazine.com/2022/05/03/ruta-pueblos-bonitos-badajoz/).
+{{< reflink path=posts/2022/05/ruta-pueblos-bonitos-badajoz >}}.

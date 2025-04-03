@@ -1,7 +1,7 @@
 ---
 title: "Buenas razones para viajar a Zanzíbar, la isla de las especias"
 date: 2018-11-30
-coverImage: https://fotos.etheriamagazine.com/2018/11/Zanzibar-david-santiago-etheria-magazine-4-e1655220104190.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/Zanzibar-david-santiago-etheria-magazine-4-e1655220104190.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -175,11 +175,8 @@ mucho problema para comunicarte en las zonas turísticas.
 
 También te puede interesar... 
 
-[10 imágenes de Bazaruto que te enamorarán 
-(Mozambique).](https://etheriamagazine.com/2019/08/21/que-ver-hacer-en-archipielago-de-bazaruto-mozambique/) 
+{{< reflink path=posts/2019/08/que-ver-hacer-en-archipielago-de-bazaruto-mozambique >}} 
 
-[Namibia, un viaje para mujeres 
-aventureras](https://etheriamagazine.com/2019/09/27/que-ver-viaje-mujeres-namibia/). 
+{{< reflink path=posts/2019/09/que-ver-viaje-mujeres-namibia >}}. 
 
-[5 grandes viajes a África con los que 
-soñar](https://etheriamagazine.com/2019/08/09/5-viajes-para-comenzar-a-conocer-africa/).
+{{< reflink path=posts/2019/08/5-viajes-para-comenzar-a-conocer-africa >}}.

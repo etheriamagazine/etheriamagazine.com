@@ -1,7 +1,7 @@
 ---
 title: "Restaurantes en El Palmar (Cádiz) para comer muy bien"
 date: 2021-07-26
-coverImage: https://fotos.etheriamagazine.com/2021/07/el-palmar-nacarum-atardecer-1.jpg
+cover: https://fotos.etheriamagazine.com/2021/07/el-palmar-nacarum-atardecer-1.jpg
 categories: 
   - gourmet
 destino: 
@@ -27,9 +27,7 @@ ensalada en uno de los chiringuitos (que después se transforman en bares de cop
 tomar una pizza en **El Acebuche**; o salirte de la línea de playa y acercarte a **Las 
 Manuelas** o a la **Venta Piñero** para tomar un abundante y económico menú del día. 
 
-✅ **NO PIERDAS:** [La mejor guía de CÁDIZ PROVINCIA para organizar tu viaje: pueblos y 
-visitas de interés (con mapa 
-incluido).](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/) 
+✅ **NO PIERDAS:** {{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}} 
 
 ![El Palmar de Vejer](https://fotos.etheriamagazine.com/2020/08/vejer-el-palmar.jpg "Luces tras la caída del sol en El Palmar. © SG")
 
@@ -222,11 +220,8 @@ leche y la de Ferrero Rocher, son deliciosas.
 
 ### También te puede interesar
 
-[10 actividades para enamorarte de Vejer de la 
-Frontera](https://etheriamagazine.com/2020/08/11/10-actividades-vejer-de-la-frontera-que-ver-hacer/) 
+{{< reflink path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}} 
 
-[16 planes imprescindibles en Conil con 
-amigas](https://etheriamagazine.com/2021/07/05/los-mejores-planes-en-conil-con-amigas/) 
+{{< reflink path=posts/2021/07/los-mejores-planes-en-conil-con-amigas >}} 
 
-[BiBo Beach House, el “todo en uno” de 
-Tarifa](https://etheriamagazine.com/2021/04/09/bibo-beach-house-chiringuito-tarifa/)
+{{< reflink path=posts/2021/04/bibo-beach-house-chiringuito-tarifa >}}

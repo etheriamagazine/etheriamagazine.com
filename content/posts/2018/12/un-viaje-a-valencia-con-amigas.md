@@ -1,7 +1,7 @@
 ---
 title: "Escapada a Valencia con amigas en invierno"
 date: 2018-12-04
-coverImage: https://fotos.etheriamagazine.com/2018/11/valencia-con-amigas-Palau-Alameda.jpg
+cover: https://fotos.etheriamagazine.com/2018/11/valencia-con-amigas-Palau-Alameda.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Macarena Escrivá
 ---
 
-Si te decimos que para el puente de diciembre las temperaturas máximas serán de 20 
+**Si te decimos que para el puente de diciembre las temperaturas máximas serán de 20 
 grados, seguro que correrás a preguntarnos dónde. En Valencia. La capital del Turia goza 
 de las bondades de una climatología envidiable y un tamaño perfecto para tu próxima 
-escapada con amigas. 
+escapada con amigas.** 
 
 ![Palau Alameda, un imprescindible de la noche en Valencia.](https://fotos.etheriamagazine.com/2018/11/valencia-con-amigas-Palau-Alameda.jpg "Palau Alameda, un imprescindible de la noche en Valencia.")
 
@@ -131,8 +131,6 @@ Más información en www.visitvalencia.com
 
 **También te interesa leer...** 
 
-[Guía esencial de Valencia, imprescindibles en una ciudad que mira al 
-futuro](https://etheriamagazine.com/2022/10/03/que-ver-valencia/). 
+{{< reflink path=posts/2022/10/que-ver-valencia >}}. 
 
-[Lugares imprescindibles de 
-Alicante.](https://etheriamagazine.com/2022/08/31/que-ver-alicante/)
+{{< reflink path=posts/2022/08/que-ver-alicante >}}

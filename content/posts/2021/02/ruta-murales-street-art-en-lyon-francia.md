@@ -1,7 +1,7 @@
 ---
 title: "Los murales XXL de Lyon, el atractivo más sorprendente de la ciudad francesa"
 date: 2021-02-03
-coverImage: https://fotos.etheriamagazine.com/2021/01/Le-Mur-des-Canuts.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/Le-Mur-des-Canuts.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -16,8 +16,8 @@ Lyon es una ciudad dinámica que se nutre de sus tradiciones pero que no renunci
 
 Situado en un enclave excepcional con los dos ríos, Ródano (uno de los más grandes de 
 Francia) y Saona, Lyon ha sabido, a lo largo del tiempo, cultivar, conservar y 
-modernizar su pasado, aportando nuevas creaciones artísticas a su patrimonio, como el [Museo 
-de las Confluences sobre Historia Natural y 
+modernizar su pasado, aportando nuevas creaciones artísticas a su patrimonio, como el 
+[Museo de las Confluences sobre Historia Natural y 
 Antropología.](https://www.museedesconfluences.fr/) 
 
 Célebre internacionalmente por la cantidad y variedad de sus museos, Lyon es, también, 
@@ -65,10 +65,11 @@ historia de ese pasado en imágenes, con sus personajes, hitos y patrimonio.
 > exportar su saber-hacer al resto del mundo. 
 
 Lyon posee, quizás, la colección más bonita de murales y frescos callejeros, en forma de 
-**trampantojos**, de toda Europa. La empresa lionesa [Citécréation](https://citecreation.fr/en/) 
-líder mundial en _Street art_ y responsable de diseños de frescos murales en Berlín, 
-París o Suiza, ha firmado, desde hace 40 años, la gran mayoría de estos murales que se 
-extienden por toda la ciudad, desde el centro histórico, hasta la periferia. 
+**trampantojos**, de toda Europa. La empresa lionesa 
+[Citécréation](https://citecreation.fr/en/) líder mundial en _Street art_ y responsable 
+de diseños de frescos murales en Berlín, París o Suiza, ha firmado, desde hace 40 años, 
+la gran mayoría de estos murales que se extienden por toda la ciudad, desde el centro 
+histórico, hasta la periferia. 
 
 ![mural de los canuts en lyon](https://fotos.etheriamagazine.com/2021/01/Le-Mur-des-Canuts.jpg "Mural con trampantojo de los Canuts, en Lyon. © CitéCréation")
 
@@ -207,11 +208,10 @@ Para más información, puedes consultar [Turismo de Lyon](https://www.onlylyon.
 
 ### También te puede interesar...
 
-[10 viajes para disfrutar de la buena vida en 
-Francia](https://etheriamagazine.com/2020/09/02/mejores-destinos-para-viajar-en-francia/). 
+{{< reflink path=posts/2020/09/mejores-destinos-para-viajar-en-francia >}}. 
 
-[Ruta impresionista en Normandía, arte a 
-raudales](https://etheriamagazine.com/2020/10/16/4-dias-ruta-impresionismo-normandia-francia/). 
+{{< reflink path=posts/2021/06/4-dias-ruta-impresionismo-normandia-francia >}}. 
 
-[País Vasco Francés, una escapada corta pero 
-intensa](https://etheriamagazine.com/2020/08/24/que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare/).
+{{< reflink 
+path=posts/2020/08/que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare 
+>}}.

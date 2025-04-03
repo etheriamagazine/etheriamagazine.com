@@ -1,7 +1,7 @@
 ---
 title: "Los Diablos de Luzón, la mascarada más tétrica y original de España"
 date: 2019-02-19
-coverImage: https://fotos.etheriamagazine.com/2019/02/carnaval-diablos-luzon-3.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/carnaval-diablos-luzon-3.jpg
 categories: 
   - ocio
 destino: 
@@ -126,30 +126,27 @@ llega hasta Luzón.
 
 ### Dónde dormir en Luzón o alrededores
 
-**• Casa Rural El Rincón de la Fuente Vieja**. Acogedora y cómoda casa tradicional 
+**- Casa Rural El Rincón de la Fuente Vieja**. Acogedora y cómoda casa tradicional 
 situada en una de las principales plazas de la localidad. Maranchón. Tel. 606 318 727, 
-elrincondelafuentevieja.es **• Hotel Palacio de los Molina**. Esta casona está situada 
+elrincondelafuentevieja.es **- Hotel Palacio de los Molina**. Esta casona está situada 
 en un histórico edificio del rico patrimonio arquitectónico de la localidad. Dispone de 
 servicio de restaurante y amplias habitaciones envueltas por los 500 años de historia de 
 sus muros. Molina de Aragón. Tel. 949 831 382, palaciodelosmolina.es 
 
 ### Dónde comer en Luzón
 
-**• Bar Luzón**. Más conocido como "el bar de Fran", es el centro de reunión del pueblo 
+**- Bar Luzón**. Más conocido como "el bar de Fran", es el centro de reunión del pueblo 
 de Luzón y el local perfecto para reponer fuerzas durante el trajín del carnaval. Tel. 
-949 839 602 **• Bar Restaurante La Nava**. Reconstituyente comida casera con menús 
-económicos y buenas raciones. **Maranchón**. Tel. 949 839 682 **• Bar La Fonda**. 
+949 839 602 **- Bar Restaurante La Nava**. Reconstituyente comida casera con menús 
+económicos y buenas raciones. **Maranchón**. Tel. 949 839 682 **- Bar La Fonda**. 
 Situado el antiguo casino de la localidad de Maranchón, es ideal para reponer fuerzas 
 con unas tapas o mediante sus menús diarios salvo domingos. Tel. 949 839 820 
 
 **También te puede interesar...** 
 
-[Visita los Campos de lavanda de Brihuega 
-(Guadalajara)](https://etheriamagazine.com/2020/06/08/floracion-campos-lavanda-brihuega-guadalajara-2019/). 
+{{< reflink path=posts/2020/06/floracion-campos-lavanda-brihuega-guadalajara-2019 >}}. 
 
-[Respirar ‘a pulmón abierto’ en los Pueblos Negros de 
-Guadalajara](https://etheriamagazine.com/2019/05/06/viaje-en-coche-pueblos-negros-guadalajara/). 
+{{< reflink path=posts/2019/05/ruta-en-coche-pueblos-negros-guadalajara >}}. 
 
-[Razones, si es que las necesitas, por las que deberías planear ya una escapada por la 
-provincia de 
-Segovia](https://etheriamagazine.com/2021/03/09/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia/).
+{{< reflink path=posts/2021/03/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia 
+>}}.

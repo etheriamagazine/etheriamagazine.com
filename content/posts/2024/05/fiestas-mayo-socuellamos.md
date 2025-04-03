@@ -1,7 +1,7 @@
 ---
 title: "Socuéllamos, tu escapada de mayo a sólo dos horas de Madrid"
 date: 2024-05-01
-coverImage: https://fotos.etheriamagazine.com/2024/04/socuellamos-casa-encomienda.jpg
+cover: https://fotos.etheriamagazine.com/2024/04/socuellamos-casa-encomienda.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -121,8 +121,6 @@ Socuéllamos](https://socuellamosturismo.com/).
 
 **También te puede interesar...** 
 
-[La Ruta del Vino de La Mancha en 
-coche](https://etheriamagazine.com/2019/03/20/ruta-del-vino-de-la-mancha/). 
+{{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha >}}. 
 
-[8 razones por las que desearás conocer la provincia de Ciudad 
-Real](https://etheriamagazine.com/2020/11/10/mejores-rutas-en-ciudad-real/).
+{{< reflink path=posts/2020/11/mejores-rutas-en-ciudad-real >}}.

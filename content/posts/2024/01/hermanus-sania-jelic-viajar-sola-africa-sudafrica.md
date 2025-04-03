@@ -1,7 +1,7 @@
 ---
 title: "Hermanus, primera parada del viaje de Sania Jelic sola por África"
 date: 2024-01-17
-coverImage: https://fotos.etheriamagazine.com/2024/01/sania-sudafrica-hermanus-costa.jpg
+cover: https://fotos.etheriamagazine.com/2024/01/sania-sudafrica-hermanus-costa.jpg
 categories: 
   - viajar-sola
   - mujeres-top
@@ -112,21 +112,21 @@ Charters es absolutamente recomendable.
 A continuación, os cuento algunas visitas, actividades y excursiones que se pueden 
 realizar desde Hermanus y que merecen mucho la pena: 
 
-• **Museo de las Ballenas**. Es una visita recomendable sobre todo por el contenido de 
+- **Museo de las Ballenas**. Es una visita recomendable sobre todo por el contenido de 
 sus vídeos donde se explica la relación del ser humano con las ballenas. 
 
-• **Cabo Agulhas**. No dudéis en alquilar un coche para llegar al punto más meridional 
+- **Cabo Agulhas**. No dudéis en alquilar un coche para llegar al punto más meridional 
 de África. 
 
-• **Gansbaai** (a 40 kilómetros), desde aquí zarpan los barcos para hacer "inmersiones 
+- **Gansbaai** (a 40 kilómetros), desde aquí zarpan los barcos para hacer "inmersiones 
 en jaula" para ver tiburones. Como en 2018 llegaron orcas a la zona y espantaron a los 
 tiburones blancos, las inmersiones se hacen hoy día con otros tipos, ya que los blancos 
 no han vuelto. 
 
-• **Stellenbosch**. Esta excursión permite disfrutar de paisajes con viñedos y 
+- **Stellenbosch**. Esta excursión permite disfrutar de paisajes con viñedos y 
 divertidas catas de vinos. 
 
-• Realizar un viaje de cinco días por la costa este, hasta el **Parque Nacional 
+- Realizar un viaje de cinco días por la costa este, hasta el **Parque Nacional 
 Tsitsikama**, con un bosque primario espectacular; o al **Parque Nacional Addo**, que 
 tiene una gran población de elefantes. 
 
@@ -174,21 +174,21 @@ para estar al corriente de los apagones en la región donde se vaya a ir.
 
 ### Dónde dormir, comer o comprar en Hermanus
 
-• **Harbour House Hotel** (harbourhousehotel.co.za) o la versión económica **ZZZ 
+- **Harbour House Hotel** (harbourhousehotel.co.za) o la versión económica **ZZZ 
 Boutique Hostel** (zzzone.co.za) son dos alojamientos recomendables en Hermanus. 
 
-• **Fisherman’s cottage** (fishermanscottage.co.za), un local con jardín, donde a menudo 
+- **Fisherman’s cottage** (fishermanscottage.co.za), un local con jardín, donde a menudo 
 organizan conciertos. Muy buena relación calidad-precio de la comida pero, sobre todo, 
 un muy buen ambiente donde se mezcla gente local y turistas locales e internacionales. 
 
-• **Restaurante Burgundy** (www.burgundyrestaurant.co.za) con espectacular visita a la 
+- **Restaurante Burgundy** (www.burgundyrestaurant.co.za) con espectacular visita a la 
 bahía. Excelente comida local. Lo mejorcito de la región y buena relación 
 calidad-precio. 
 
-• **Bar/restaurante Bientangs** (bientangscave.com), esta ubicado en las rocas delante 
+- **Bar/restaurante Bientangs** (bientangscave.com), esta ubicado en las rocas delante 
 de las cuales nadan las ballenas. Una experiencia única. 
 
-• **Tienda de calzado Ally** (www.allyshoes.co.za), excelente variedad de calzado cómodo 
+- **Tienda de calzado Ally** (www.allyshoes.co.za), excelente variedad de calzado cómodo 
 y bonito de muchas marcas internacionales, con buen precio. 
 
 ### Qué leer antes de viajar
@@ -196,12 +196,18 @@ y bonito de muchas marcas internacionales, con buen precio.
 Para intentar entender la realidad de la sociedad, lo más recomendable es realizar 
 previamente algunas lecturas como las siguientes: 
 
-• **_El largo camino hacia la libertad_**, de Nelson Mandela • _**Llanto por la tierra 
-amada**,_ de Alan Paton • _**Divide y venceras**_, de Henri Wesseling • _**Mi corazón de 
-traidor**_, de Rian Malan • _**El bang bang club**,_ de Greg Marinovich • _**Imaginings 
-of Sand**_, de Andre Brink 
+- **_El largo camino hacia la libertad_**, de Nelson Mandela 
+
+- _**Llanto por la tierra amada**,_ de Alan Paton 
+
+- _**Divide y venceras**_, de Henri Wesseling 
+
+- _**Mi corazón de traidor**_, de Rian Malan 
+
+- _**El bang bang club**,_ de Greg Marinovich 
+
+- _**Imaginings of Sand**_, de Andre Brink 
 
 También te puede interesar: 
 
-[Viajar sola por el mundo tras la jubilación, el nuevo plan de vida de Sania 
-Jelic](https://etheriamagazine.com/2022/12/13/sania-jelic-viajar-sola-mas-65/)
+{{< reflink path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}}

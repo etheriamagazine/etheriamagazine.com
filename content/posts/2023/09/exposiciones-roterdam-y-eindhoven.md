@@ -1,7 +1,7 @@
 ---
 title: "Róterdam y Eindhoven: eventos y exposiciones que invitan a repensar la cultura"
 date: 2023-09-27
-coverImage: https://fotos.etheriamagazine.com/2023/09/foodhallen-rotterdam.jpg
+cover: https://fotos.etheriamagazine.com/2023/09/foodhallen-rotterdam.jpg
 categories: 
   - cultura
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-Las segundas ciudades son siempre una opción interesante a nivel cultural ya que ofrecen 
-un amplio repertorio de posibilidades sin el inconveniente de conseguir entradas o de 
-largas colas para ver exposiciones o espectáculos. Si viajas a Países Bajos este otoño e 
-invierno, Róterdam y Eindhoven te sorprenderán con sus propuestas de cultura, diseño y 
-arte. 
+**Las segundas ciudades son siempre una opción interesante a nivel cultural ya que 
+ofrecen un amplio repertorio de posibilidades sin el inconveniente de conseguir entradas 
+o de largas colas para ver exposiciones o espectáculos. Si viajas a Países Bajos este 
+otoño e invierno, Róterdam y Eindhoven te sorprenderán con sus propuestas de cultura, 
+diseño y arte.** 
 
 ![Foodhallen, en Rotterdam.](https://fotos.etheriamagazine.com/2023/09/foodhallen-rotterdam.jpg "Foodhallen, en Rotterdam. © Mike van den Bos")
 
@@ -28,8 +28,8 @@ todos los niveles. En esta ocasión, te invitamos a descubrir las atractivas ciu
 una escapada a Loon op Zand donde se encuentra **Efteling**, el parque temático más 
 grande del país y también el más mágico. 
 
-📍No te pierdas: [Qué ver en Ámsterdam en sólo dos 
-días](https://etheriamagazine.com/2019/04/11/viajar-sola-que-ver-hacer-dormir-amsterdam/). 
+📍No te pierdas: {{< reflink 
+path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-amsterdam >}}. 
 
 ![Parque Efteling.](https://fotos.etheriamagazine.com/2023/09/efteling-holanda.jpg "© Parque Efteling.")
 
@@ -99,8 +99,8 @@ restaurante, bar de cócteles y una terraza cubierta. Seguro que te va a gustar.
 
 ![Interior del hotel Morgan & Mees.](https://fotos.etheriamagazine.com/2023/09/Morgan-Mees-roterdam.jpg "Interior del hotel Morgan & Mees.")
 
-✅ Te puede interesar: [10 planes en Róterdam con amigas para un fin de semana 
-movido](https://etheriamagazine.com/2021/05/15/que-ver-roterdam-eurovision-viaje-con-amigas/). 
+✅ Te puede interesar: {{< reflink 
+path=posts/2021/05/que-ver-roterdam-eurovision-viaje-con-amigas >}}. 
 
 ## Eindhoven y sus musas
 

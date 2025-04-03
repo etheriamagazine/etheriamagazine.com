@@ -1,7 +1,7 @@
 ---
 title: "Ruta por el Madrid más libre (de gluten)"
 date: 2020-10-02
-coverImage: https://fotos.etheriamagazine.com/2020/09/madrid-sin-gluten-celicioso.jpg
+cover: https://fotos.etheriamagazine.com/2020/09/madrid-sin-gluten-celicioso.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
@@ -36,12 +36,13 @@ la vida a las personas con intolerancias.
 
 En este sentido, **FACE** (Federación de Asociación de Celíacos de España) ofrece 
 muchísima información, muy útil sobre todo si acaban de diagnosticarte celiaquía y estás 
-un poco perdido. Así, por ejemplo, proporcionan completos [consejos](https://celiacos.org/recien-diagnosticados/en-los-restaurantes/) 
-a la hora de escoger un restaurante o enfrentarte a una boda o un cumpleaños, e incluso 
-cuentan con su propia App, llamada **FACEMOVIL**, para sus asociados, con restaurantes 
-adscritos a la Federación, escaneo de productos para saber si son aptos, etc. Otra buena 
-opción para informarte es la web [celicidad](https://celicidad.net), súper completa, de 
-fiar y muy cercana. 
+un poco perdido. Así, por ejemplo, proporcionan completos 
+[consejos](https://celiacos.org/recien-diagnosticados/en-los-restaurantes/) a la hora de 
+escoger un restaurante o enfrentarte a una boda o un cumpleaños, e incluso cuentan con 
+su propia App, llamada **FACEMOVIL**, para sus asociados, con restaurantes adscritos a 
+la Federación, escaneo de productos para saber si son aptos, etc. Otra buena opción para 
+informarte es la web [celicidad](https://celicidad.net), súper completa, de fiar y muy 
+cercana. 
 
 Así que, seas celíaco, amigo o familiar, o si simplemente quieres acercarte a una cocina 
 en general más sana, libre de aditivos, más _real food_ en resumidas cuentas, esta 
@@ -113,11 +114,11 @@ de sus 6 tiendas madrileñas abiertas y sirven online a toda la Península.
 
 ### Pastelería La Oriental
 
-Es el ejemplo perfecto de cómo reinventarse sin perder la esencia de su clasicismo. En [Pastelería 
-La Oriental](https://pastelerialaoriental.net) nos endulzan la vida desde los años 50 
-con sus pasteles y tartas, adaptándose a los nuevos gustos (la tendencia es hacia 
-postres menos dulces, más ligeros y sanos) y necesidades, por lo que han creado una 
-completa y **atractiva línea _gluten free_** en la que, lo que yo destacaría, es que 
+Es el ejemplo perfecto de cómo reinventarse sin perder la esencia de su clasicismo. En 
+[Pastelería La Oriental](https://pastelerialaoriental.net) nos endulzan la vida desde 
+los años 50 con sus pasteles y tartas, adaptándose a los nuevos gustos (la tendencia es 
+hacia postres menos dulces, más ligeros y sanos) y necesidades, por lo que han creado 
+una completa y **atractiva línea _gluten free_** en la que, lo que yo destacaría, es que 
 podremos seguir tomando los pastelitos y tartas de toda la vida, pero sin gluten. Y es 
 que a veces (en mi caso, muchas) estamos un poco saturados de moderneces y lo que 
 queremos es “menos _muffins_ y más magdalenas”. 
@@ -232,11 +233,8 @@ Plaza Mayor, 29.
 
 ### También te puede interesar:
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/) 
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}} 
 
-[Postres de chocolate con efecto terapéutico en 
-Madrid](https://etheriamagazine.com/2020/09/11/donde-tomar-mejores-postres-chocolate-en-madrid/) 
+{{< reflink path=posts/2020/09/donde-tomar-mejores-postres-chocolate-en-madrid >}} 
 
-[10 planes originales en Madrid para hacer con 
-amigas](https://etheriamagazine.com/2020/08/27/10-planes-originales-en-madrid-con-amigas/)
+{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}

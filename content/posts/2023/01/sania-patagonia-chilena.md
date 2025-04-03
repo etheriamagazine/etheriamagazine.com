@@ -1,7 +1,7 @@
 ---
 title: "Sania en Patagonia (parte 3): todo va lento, menos el viento"
 date: 2023-01-24
-coverImage: https://fotos.etheriamagazine.com/2023/01/sania-torres-paine.jpg
+cover: https://fotos.etheriamagazine.com/2023/01/sania-torres-paine.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Sania Jelic
 ---
 
-En esta etapa de su viaje, Sania llega a la Patagonia chilena y emprende la navegación 
+**En esta etapa de su viaje, Sania llega a la Patagonia chilena y emprende la navegación 
 entre los canales patagónicos a bordo de un barco de la naviera Navimag, un buque de 
 mercancías que ocasionalmente transporta pasajeros. Después, llega a Puerto Natales para 
 adentrarse en el maravilloso Parque Nacional de Torres del Paine. Unos días determinados 
-por los paisajes grandiosos y el siempre presente viento. 
+por los paisajes grandiosos y el siempre presente viento.** 
 
 ![Sania con un pingüino en Puerto Natales.](https://fotos.etheriamagazine.com/2023/01/sania-puerto-natales-pinguino.jpg "Sania en Puerto Natales. © SJ")
 
@@ -28,17 +28,18 @@ por todas las sensaciones y emociones que estoy viviendo.
 
 ## Travesía de Puerto Natales a Puerto Montt con Navimag
 
-Es un privilegio poder navegar en esta ruta. El navío 'Esperanza' de [Navimag](https://www.navimag.com/es/explora-la-patagonia-en-ferry-navimag) 
-está perfectamente adaptado para el transporte de pasajeros (pueden ir hasta 
-doscientos). La ruta existe desde hace 25 años y el capitán Maximiliano Letonja la 
-navega desde entonces. En realidad, conecta dos puntos de la carretera austral chilena, 
-Puerto Montt y Puerto Natales, que están a unos 1.700 kilómetros de distancia. Lleva 
-provisiones y abastece a las poblaciones, sólo admite turistas entre noviembre y marzo. 
-Los camioneros sí la usan todo el año. Aunque no sea un crucero clásico, la comida es 
-abundante, razonablemente buena y correcta. Los camarotes son cómodos. La limpieza es 
-continua y cuidada. La atención al pasaje ejemplar. No se vende ni se permite consumo de 
-alcohol a bordo (es una larga historia …. pero pasaron ‘cosas’ y decidieron prohibir el 
-alcohol para evitar accidentes en el futuro). 
+Es un privilegio poder navegar en esta ruta. El navío 'Esperanza' de 
+[Navimag](https://www.navimag.com/es/explora-la-patagonia-en-ferry-navimag) está 
+perfectamente adaptado para el transporte de pasajeros (pueden ir hasta doscientos). La 
+ruta existe desde hace 25 años y el capitán Maximiliano Letonja la navega desde 
+entonces. En realidad, conecta dos puntos de la carretera austral chilena, Puerto Montt 
+y Puerto Natales, que están a unos 1.700 kilómetros de distancia. Lleva provisiones y 
+abastece a las poblaciones, sólo admite turistas entre noviembre y marzo. Los camioneros 
+sí la usan todo el año. Aunque no sea un crucero clásico, la comida es abundante, 
+razonablemente buena y correcta. Los camarotes son cómodos. La limpieza es continua y 
+cuidada. La atención al pasaje ejemplar. No se vende ni se permite consumo de alcohol a 
+bordo (es una larga historia …. pero pasaron ‘cosas’ y decidieron prohibir el alcohol 
+para evitar accidentes en el futuro). 
 
 ![Barco en la Patagonia chilena](https://fotos.etheriamagazine.com/2023/01/Sania-Navimag-fiordos.jpg "Barco de © Navimag por los fiordos chilenos.")
 
@@ -102,13 +103,13 @@ descuentos en expediciones a la Antártida…
 
 ✅ **Datos importantes de un crucero en Navimag:** 
 
-• No es un crucero, es un barco de mercancías que durante algunos meses al año admite 
+- No es un crucero, es un barco de mercancías que durante algunos meses al año admite 
 turistas. 
 
-• Durante la travesía no hay Internet. Como dijo el capitán “en 3 días, el mundo seguirá 
+- Durante la travesía no hay Internet. Como dijo el capitán “en 3 días, el mundo seguirá 
 igual”. 
 
-• La duración del viaje depende de la meteorología. Al igual que la hora de 
+- La duración del viaje depende de la meteorología. Al igual que la hora de 
 salida/llegada del barco y la duración de la travesía. Es aproximado. Por lo tanto, no 
 conviene hacer reservas vinculadas con la ruta del ferry. Hay que solucionarlo sobre la 
 marcha. Y no pasa nada, la compañía se hace cargo de sus pasajeros y nadie se queda 
@@ -131,9 +132,10 @@ en refugios a lo largo del camino (los guardas no dejan pasar a la siguiente eta
 confirmación de reserva previa de alojamiento). Pero también se puede hacer el recorrido 
 en autobús visitando los principales miradores y puntos de interés. Toda una delicia si 
 no se quiere hacer el trekking y no te quieres perder los principales puntos de interés 
-del parque. Hice la visita con la agencia [@denomades](https://www.denomades.com/puerto-natales), 
-que fue francamente buena y recomendable, incluso como introducción al parque para los 
-que lo quieren recorrer de pie. 
+del parque. Hice la visita con la agencia 
+[@denomades](https://www.denomades.com/puerto-natales), que fue francamente buena y 
+recomendable, incluso como introducción al parque para los que lo quieren recorrer de 
+pie. 
 
 ### El viento, siempre presente
 
@@ -155,20 +157,20 @@ todos los niveles y para todo tipo de viajero.
 
 ✅ **Curiosidades de Puerto Natales:** 
 
-• El ayuntamiento pone cuerdas en el centro de la ciudad para que la gente las utilice 
+- El ayuntamiento pone cuerdas en el centro de la ciudad para que la gente las utilice 
 para poder caminar cuando sopla fuerte el viento. 
 
-• Hay mucho perro callejero, pero todo el mundo los alimentan y están casi gordos. 
+- Hay mucho perro callejero, pero todo el mundo los alimentan y están casi gordos. 
 
-• Tienen la tradición de comprar calendarios navideños. 
+- Tienen la tradición de comprar calendarios navideños. 
 
-• El horario de las tiendas es de 10 a 12.30 horas y de 15 a 20 horas 
+- El horario de las tiendas es de 10 a 12.30 horas y de 15 a 20 horas 
 
-• Los contadores eléctricos están cubiertos por cajas decorativas muy bonitas. 
+- Los contadores eléctricos están cubiertos por cajas decorativas muy bonitas. 
 
-• Hay dos fábricas de enlatado de salmón en la ciudad. 
+- Hay dos fábricas de enlatado de salmón en la ciudad. 
 
-• No hay que perderse el Monumento al viento (2012). 
+- No hay que perderse el Monumento al viento (2012). 
 
 ![Contadores eléctricos camuflados.](https://fotos.etheriamagazine.com/2023/01/sania-puerto-natales-casetas-luz.jpg "Contadores eléctricos camuflados. © SJ")
 
@@ -194,19 +196,16 @@ tortilla cómo quiere y cuándo quiere. Un ejemplo claro de _win-win_ para todos
 
 ✅ **Información de interés:** 
 
-• Merece la pena comer en “El Bote”, especialidades de la región. 
+- Merece la pena comer en “El Bote”, especialidades de la región. 
 
-• En “La Picada de Carlitos” las raciones son enormes, para dos personas o dos días. 
+- En “La Picada de Carlitos” las raciones son enormes, para dos personas o dos días. 
 
-• En el local “Pampa” encontrarás música en vivo y ambiente local. 
+- En el local “Pampa” encontrarás música en vivo y ambiente local. 
 
 📌 **También te puede interesar:** 
 
-[Sania en Patagonia (parte 1): Ushuaia y Punta 
-Arenas](https://etheriamagazine.com/2023/01/10/sania-en-patagonia-ushuaia-punta-arenas/) 
+{{< reflink path=posts/2023/01/sania-en-patagonia-ushuaia-punta-arenas >}} 
 
-[El Amazonas: nueva etapa de Sania Jelic en 
-Sudamérica](https://etheriamagazine.com/2022/12/24/sania-jelic-amazonas/) 
+{{< reflink path=posts/2022/12/sania-jelic-amazonas >}} 
 
-[Viajar sola por el mundo tras la jubilación, el nuevo plan de vida de Sania 
-Jelic](https://etheriamagazine.com/2022/12/13/sania-jelic-viajar-sola-mas-65/)
+{{< reflink path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}}

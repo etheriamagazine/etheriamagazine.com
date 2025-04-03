@@ -1,7 +1,7 @@
 ---
 title: "Guía esencial de Valencia, imprescindibles en una ciudad que mira al futuro"
 date: 2022-10-03
-coverImage: https://fotos.etheriamagazine.com/2022/09/valencia-ciudad-artes.jpg
+cover: https://fotos.etheriamagazine.com/2022/09/valencia-ciudad-artes.jpg
 categories: 
   - inspiración
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Pilar Ortega
 ---
 
-Más allá de las Fallas y la célebre paella, Valencia merece ser conocida a fondo. Esta 
+**Más allá de las Fallas y la célebre paella, Valencia merece ser conocida a fondo. Esta 
 ciudad mediterránea fundada por los romanos en el siglo II a.C. conserva un 
 importantísimo patrimonio artístico que ha ido almacenando a lo largo de la Historia. Te 
 invitamos en este artículo a hacer una ruta enlazando las 15 visitas imprescindibles en 
-Valencia, una ciudad que también sabe mirar al futuro. 
+Valencia, una ciudad que también sabe mirar al futuro.** 
 
 ![dos niñas en las Torres de Serranos](https://fotos.etheriamagazine.com/2022/09/valencia-torres-serrano.jpg "Vista de Valencia desde las Torres de Serranos.")
 
@@ -236,8 +236,6 @@ Fotografías cedidas por Visit Valencia.
 
 ## Otros lugares que te pueden interesar
 
-[Planes originales para disfrutar de Valencia con 
-amigas](https://etheriamagazine.com/2020/09/18/planes-originales-valencia-con-amigas/) 
+{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}} 
 
-[Escapada a Valencia con 
-amigas](https://etheriamagazine.com/2018/12/04/un-viaje-a-valencia-con-amigas/)
+{{< reflink path=posts/2018/12/un-viaje-a-valencia-con-amigas >}}

@@ -1,7 +1,7 @@
 ---
 title: "Rayavadee, un resort de lujo inmerso en la naturaleza en Krabi"
 date: 2018-05-25
-coverImage: https://fotos.etheriamagazine.com/2018/05/The-Rayavadee-Villa_Exterior-Morning_Fotor-e1555063028881.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/The-Rayavadee-Villa_Exterior-Morning_Fotor-e1555063028881.jpg
 categories: 
   - hoteles
 destino: 
@@ -10,11 +10,11 @@ authors:
   - Susana García
 ---
 
-Al llegar al hotel Rayavadee te invade la sensación de estar en medio de una naturaleza 
-casi intacta, respetada, ya que sus bungalows surgen en mitad de la selva integrados 
-entre la floresta. Situado en el corazón de la península de Phranang, en uno de los 
-extremos del Parque Nacional Marino de Krabi, es un lugar perfecto para explorar este 
-bello rincón del planeta. 
+**Al llegar al hotel Rayavadee te invade la sensación de estar en medio de una 
+naturaleza casi intacta, respetada, ya que sus bungalows surgen en mitad de la selva 
+integrados entre la floresta. Situado en el corazón de la península de Phranang, en uno 
+de los extremos del Parque Nacional Marino de Krabi, es un lugar perfecto para explorar 
+este bello rincón del planeta.** 
 
 ![hotel krabi viajes familia niños love](https://fotos.etheriamagazine.com/2018/05/Rayavadee-monos.jpg "Los monos te acompañarán en tu estancia en el hotel Rayavadee.")
 
@@ -99,11 +99,9 @@ minutos. La única forma de llegar al hotel es por agua.
 
 ### También te puede interesar:
 
-[10 imágenes para enamorarse del mar de 
-Andamán](https://etheriamagazine.com/2018/06/16/viaje-parejas-mar-de-andaman/) 
+{{< reflink path=posts/2018/06/viaje-parejas-mar-de-andaman >}} 
 
-[Chiang Mai, descubre su esencia entre templos y 
-mercados](https://etheriamagazine.com/2021/01/08/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual/) 
+{{< reflink path=posts/2021/01/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual 
+>}} 
 
-[Qué llevar en la maleta para un viaje a 
-Tailandia](https://etheriamagazine.com/2020/01/02/que-llevar-en-maleta-viaje-tailandia/)
+{{< reflink path=posts/2020/01/que-llevar-en-maleta-viaje-tailandia >}}

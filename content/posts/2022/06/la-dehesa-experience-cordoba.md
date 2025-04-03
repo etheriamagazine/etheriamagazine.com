@@ -1,7 +1,7 @@
 ---
 title: "La Dehesa Experiences, un alojamiento único en la sierra cordobesa"
 date: 2022-06-10
-coverImage: https://fotos.etheriamagazine.com/2022/06/dehesa-experience-glamping.jpg
+cover: https://fotos.etheriamagazine.com/2022/06/dehesa-experience-glamping.jpg
 categories: 
   - viajar-en-familia
   - hoteles
@@ -88,8 +88,8 @@ se contemplan las luces del atardecer sobre la dehesa cordobesa. Además, para l
 aperitivos o para ese momento que apetece picar algo, en todas las habitaciones tienes a 
 tu disposición distintas conservas y snacks de calidad. 
 
-📌No te pierdas: [Ruta del Vino Montilla-Moriles, 20 años brindando en el corazón de 
-Andalucía](https://etheriamagazine.com/2022/01/11/ruta-del-vino-montilla-moriles-20-aniversario/). 
+📌No te pierdas: {{< reflink 
+path=posts/2022/01/ruta-del-vino-montilla-moriles-20-aniversario >}}. 
 
 ![Copa de vino y aperitivo en una terraza de la cabaña de lujo](https://fotos.etheriamagazine.com/2022/06/la-dehesa-experiences-vino.jpg "Aperitivo en el glamping de La Dehesa Experiences.")
 
@@ -142,17 +142,15 @@ Rusticae.**
 
 Carretera de Adamuz-Villanueva de Córdoba s/n (a 5,5 km de Adamuz). Habitación para dos 
 personas desde 180 Euros la noche con desayuno servido en la habitación incluido. Más 
-información en [La Dehesa Experiences](https://ladehesaexperiences.com/) y [Rusticae](https://www.rusticae.es/hotel/la-dehesa-experiences-10922). 
+información en [La Dehesa Experiences](https://ladehesaexperiences.com/) y 
+[Rusticae](https://www.rusticae.es/hotel/la-dehesa-experiences-10922). 
 
 Fotografías cedidas por La Dehesa Experiences y Rusticae. 
 
 ### También te puede interesar:
 
-[Córdoba con amigas: 10 planes para una escapada 
-perfecta](https://etheriamagazine.com/2021/08/25/planes-que-hacer-en-cordoba-con-amigas/) 
+{{< reflink path=posts/2021/08/planes-que-hacer-en-cordoba-con-amigas >}} 
 
-[Visita de Medina Azahara, la excursión imprescindible en 
-Córdoba](https://etheriamagazine.com/2022/03/25/visita-medina-azahara-cordoba/) 
+{{< reflink path=posts/2022/03/visita-medina-azahara-cordoba >}} 
 
-[Guía básica para una ruta en autocaravana por la Subbética 
-Cordobesa](https://etheriamagazine.com/2022/03/23/ruta-autocaravana-en-cordoba/)
+{{< reflink path=posts/2022/03/ruta-autocaravana-en-cordoba >}}

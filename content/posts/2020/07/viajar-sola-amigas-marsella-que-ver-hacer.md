@@ -1,7 +1,7 @@
 ---
 title: "Marsella en un fin de semana: experiencias imperdibles con amigas"
 date: 2020-07-10
-coverImage: https://fotos.etheriamagazine.com/2020/07/Marsella-puerto-atardecer.jpg
+cover: https://fotos.etheriamagazine.com/2020/07/Marsella-puerto-atardecer.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Manena Munar
 ---
 
-El nombre de Marsella ya evoca luz, Mediterráneo, sabores africanos y vida marinera. 
+**El nombre de Marsella ya evoca luz, Mediterráneo, sabores africanos y vida marinera. 
 Esta ciudad francesa es una opción perfecta y cercana para realizar ese viaje con amigas 
 en el que lleváis tanto tiempo pensando. Os contamos cómo organizar un fin de semana en 
-Marsella para no perder ni un minuto. 
+Marsella para no perder ni un minuto.** 
 
 ![La Catedral de Santa María de la Guardia protege su bello y milenario puerto.](https://fotos.etheriamagazine.com/2020/06/Marsella-viaje-mujeres-etheria.jpg "La Catedral de Santa María de la Guardia protege su bello y milenario puerto. © Manena Munar")
 
@@ -154,20 +154,17 @@ intachable del complejo a orillas del mar es el El Centro de Arte Contemporáneo
 
 ## Visitas guiadas en Marsella
 
-• [Free tour a 
+- [Free tour a 
 Marsella](https://www.civitatis.com/es/marsella/free-tour-marsella/?aid=10211). Gratis. 
 
-• [Free tour por el centro de 
+- [Free tour por el centro de 
 Marsella](https://www.civitatis.com/es/marsella/tour-centro-marsella/?aid=10211). 
 Gratis. 
 
 **Sigue leyendo:** 
 
-[Valle del Loira, cinco castillos y un increíble festival de 
-jardines](https://etheriamagazine.com/2021/08/09/valle-del-loira-entre-castillos-y-jardines/) 
+{{< reflink path=posts/2021/08/valle-del-loira-entre-castillos-y-jardines >}} 
 
-[Ruta por los jardines y perfumes de la Costa 
-Azul](https://etheriamagazine.com/2021/07/07/ruta-de-los-jardines-costa-azul-francia/) 
+{{< reflink path=posts/2021/07/ruta-de-los-jardines-costa-azul-francia >}} 
 
-[10 viajes para disfrutar de la buena vida en 
-Francia](https://etheriamagazine.com/2020/09/02/mejores-destinos-para-viajar-en-francia/)
+{{< reflink path=posts/2020/09/mejores-destinos-para-viajar-en-francia >}}

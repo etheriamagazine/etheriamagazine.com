@@ -1,7 +1,7 @@
 ---
 title: "Por qué es una buena idea viajar a Futuroscope en 2023"
 date: 2023-03-20
-coverImage: https://fotos.etheriamagazine.com/2023/03/Futuroscope-casa-al-reves.jpg
+cover: https://fotos.etheriamagazine.com/2023/03/Futuroscope-casa-al-reves.jpg
 categories: 
   - viajar-en-familia
   - ocio
@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-Futuroscope no para y cada año se prepara para sorprender a sus nuevos visitantes y para 
-ofrecer atracciones y servicios novedosos a los que ya conocen el parque. Este 2023 
+**Futuroscope no para y cada año se prepara para sorprender a sus nuevos visitantes y 
+para ofrecer atracciones y servicios novedosos a los que ya conocen el parque. Este 2023 
 llega con una atracción 4D basada en una superheroína francesa, una singular casa al 
-revés y un alojamiento sostenible. 
+revés y un alojamiento sostenible.** 
 
 ![atracciones y hotel de Futuroscope](https://fotos.etheriamagazine.com/2023/03/Futuroscope-novedades-2023.jpg "Novedades en Futuroscope: Étincelle, la Casa al Revés y el alojamiento Ecolodgee.")
 
@@ -176,11 +176,10 @@ auriculares.
 
 📌 **También te puede interesar:** 
 
-[Buenas razones para viajar a Futuroscope en 
-2022](https://etheriamagazine.com/2022/03/30/novedades-futuroscope-2022/) 
+{{< reflink path=posts/2022/03/novedades-futuroscope-2022 >}} 
 
-[10 consejos para aprovechar una visita a 
-Futuroscope](https://etheriamagazine.com/2018/08/24/10-consejos-futuroscope/) 
+{{< reflink path=posts/2018/08/10-consejos-futuroscope >}} 
 
-[Objetivo Marte y otras 5 atracciones imprescindibles en 
-Futuroscope](https://etheriamagazine.com/2020/02/20/viajes-familias-objetivo-marte-y-otras-5-atracciones-imprescindibles-en-futuroscope/)
+{{< reflink 
+path=posts/2020/02/viajes-familias-objetivo-marte-y-otras-5-atracciones-imprescindibles-en-futuroscope 
+>}}

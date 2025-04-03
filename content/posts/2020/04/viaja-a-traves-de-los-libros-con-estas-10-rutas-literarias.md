@@ -1,7 +1,7 @@
 ---
 title: "10 libros que invitan a realizar rutas literarias"
 date: 2020-04-09
-coverImage: https://fotos.etheriamagazine.com/2020/04/venecia.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/venecia.jpg
 categories: 
   - cultura
   - ocio
@@ -123,9 +123,8 @@ pasar páginas que caracteriza a los libros top en ventas. Existen [visitas
 guiadas](https://www.civitatis.com/es/barcelona/tour-catedral-mar/?aid=10211) que 
 llevan, además de por esta basílica, por lugares como el barrio de la Ribera, las calles 
 de edificios señoriales de Argenteria y Montcada y la Plaza Nueva. Este libro fue 
-adaptado en forma de serie, de la que ya hablamos en el artículo [8 localizaciones de La 
-Catedral del 
-Mar](https://etheriamagazine.com/2018/08/01/turismo-de-cine-catedral-del-mar/). 
+adaptado en forma de serie, de la que ya hablamos en el artículo {{< reflink 
+path=posts/2018/08/turismo-de-cine-catedral-del-mar >}}. 
 
 ![Libro de la Trilogía de la ciudad blanca y Plaza de la Virgen Blanca en Vitoria.](https://fotos.etheriamagazine.com/2020/04/rutas-literarias-vitoria.jpg "Plaza de la Virgen Blanca en Vitoria.")
 
@@ -137,8 +136,8 @@ tiempo_, transportan a Vitoria y a lugares de la la provincia de Álava como Lag
 Laguardia o el Parque Natural de Gorbeia, y a otros de Euskadi como Deba o San Juan de 
 Gaztelugatxe. Un relato que mezcla el formato habitual de novela negra con leyendas y 
 tradiciones de la zona. Su relación con estos lugares es tal, que existen ediciones de 
-los libros acompañadas de un mapa de los escenarios y sus escenarios forman parte de [rutas 
-literarias por 
+los libros acompañadas de un mapa de los escenarios y sus escenarios forman parte de 
+[rutas literarias por 
 Vitoria](https://www.civitatis.com/es/vitoria/tour-literario-vitoria/?aid=10211). 
 
 ![Libro Paseos por Roma y fotografía del Foro Romano.](https://fotos.etheriamagazine.com/2020/04/paseos-literarios-roma.stehdhal.jpg "Foro Romano.")
@@ -155,5 +154,4 @@ abarca toda la ciudad y sirve como la mejor guía de viajes.
 
 ### También te puede interesar...
 
-[Cocina madre, el tributo de Joan Roca a su mejor 
-maestra](https://etheriamagazine.com/2021/04/03/nuevo-libro-joan-roca-cocina-madre/).
+{{< reflink path=posts/2021/04/nuevo-libro-joan-roca-cocina-madre >}}.

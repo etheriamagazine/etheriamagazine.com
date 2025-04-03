@@ -1,7 +1,7 @@
 ---
 title: "Érase una vez un pescador noruego de ojos azul marino"
 date: 2018-06-04
-coverImage: https://fotos.etheriamagazine.com/2018/06/Noruega-Manena-Vista-general.jpg
+cover: https://fotos.etheriamagazine.com/2018/06/Noruega-Manena-Vista-general.jpg
 categories: 
   - historias
 destino: 
@@ -10,8 +10,8 @@ authors:
   - Manena Munar
 ---
 
-Esta historia, que tuvo lugar en Rovaer, una isla de los Fiordos noruegos, podría 
-comenzar así: "Érase una vez un pescador de ojos azul marino..." 
+**Esta historia, que tuvo lugar en Rovaer, una isla de los Fiordos noruegos, podría 
+comenzar así: "Érase una vez un pescador de ojos azul marino..."** 
 
 ![Historias de mujeres Ingrid del Hotel KulturHotel de Noruega](https://fotos.etheriamagazine.com/2018/06/1-Noruega-Manena-Munar.jpg "Isla de Rovaer (Noruega).")
 
@@ -92,8 +92,6 @@ comerciante y los viajeros que tienen la suerte de caer por allí.
 
 **También te puede interesar...** 
 
-[Prepara tu viaje a Noruega: libros y películas para ante de 
-viajar](https://etheriamagazine.com/2020/08/18/prepara-tu-viaje-libros-series-de-noruega/). 
+{{< reflink path=posts/2020/08/prepara-tu-viaje-libros-series-de-noruega >}}. 
 
-[9 motivos para viajar a 
-Noruega](https://etheriamagazine.com/2020/07/15/9-motivos-para-viajar-a-noruega/).
+{{< reflink path=posts/2020/07/9-motivos-para-viajar-a-noruega >}}.

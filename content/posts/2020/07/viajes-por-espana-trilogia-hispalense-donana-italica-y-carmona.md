@@ -1,7 +1,7 @@
 ---
 title: "Carmona, Itálica y Doñana, una trilogía hispalense para un fin de semana"
 date: 2020-07-13
-coverImage: https://fotos.etheriamagazine.com/2020/06/etheria-carmona-Torre-de-la-Iglesia-de-San-Pedro-y-La-Giraldilla.jpg
+cover: https://fotos.etheriamagazine.com/2020/06/etheria-carmona-Torre-de-la-Iglesia-de-San-Pedro-y-La-Giraldilla.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -175,16 +175,16 @@ Santiponce.
 
 ##### Dónde dormir
 
-[• Parador de Carmona](http://www.paradores.es). Ubicado en un alcázar árabe del siglo 
+[- Parador de Carmona](http://www.paradores.es). Ubicado en un alcázar árabe del siglo 
 XIV, es uno de los paradores mejor instalados de la red nacional. Las vistas de la 
 campiña sevillana desde su restaurante situado en la parte más alta son espectaculares. 
 
-[• Hotel Alcora](http://www.trhhoteles.com). Situado a 10 minutos del centro histórico 
+[- Hotel Alcora](http://www.trhhoteles.com). Situado a 10 minutos del centro histórico 
 de Sevilla. Goza de excelente comunicación por carretera, AVE y del aeropuerto 
 internacional de San Pablo. Tiene piscina y barbacoa para este verano. Ctra. San Juan a 
 Tomares km 1. 
 
-[• Hacienda de Orán](http://www.haciendadeoran.com), en Utrera. Ambiente rústico, cálido 
+[- Hacienda de Orán](http://www.haciendadeoran.com), en Utrera. Ambiente rústico, cálido 
 y agradable. Sus 13 habitaciones, decoradas con muebles antiguos, respiran el aire de 
 antaño. Tiene una colección de carruajes que no sólo constituyen un museo, sino que 
 están operativos para pasear en ellos. Un lugar para practicar el turismo rural con 
@@ -198,11 +198,8 @@ excelencia. Ctra. Estación Don Rodrigo, km 7.
 
 ### También te puede interesar...
 
-[10 planes originales con amigas en 
-Sevilla](https://etheriamagazine.com/2020/09/28/10-mejores-planes-en-sevilla-con-amigas-o-pareja/). 
+{{< reflink path=posts/2020/09/10-mejores-planes-en-sevilla-con-amigas-o-pareja >}}. 
 
-[Sevilla, la escapada perfecta a la 
-andaluza](https://etheriamagazine.com/2019/02/04/viajar-con-amigas-sevilla/). 
+{{< reflink path=posts/2019/02/viajar-con-amigas-sevilla >}}. 
 
-[Ronda con amigas. Un fin de semana perfecto en el 
-sur](https://etheriamagazine.com/2021/11/23/planes-en-ronda-con-amigas/).
+{{< reflink path=posts/2021/11/planes-en-ronda-con-amigas >}}.

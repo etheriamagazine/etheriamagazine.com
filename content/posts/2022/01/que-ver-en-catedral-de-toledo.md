@@ -1,7 +1,7 @@
 ---
 title: "Visita de la catedral de Toledo: 10 detalles que no puedes perderte"
 date: 2022-01-19
-coverImage: https://fotos.etheriamagazine.com/2022/01/Catedral-toledo-atardecer.jpg
+cover: https://fotos.etheriamagazine.com/2022/01/Catedral-toledo-atardecer.jpg
 categories: 
   - ocio
 destino: 
@@ -217,11 +217,8 @@ con guías de Toledo en **Rutas de Toledo** o **Toledo a pie**.
 
 **También te puede interesar:** 
 
-[10 grandes restaurantes para saborear lo mejor de 
-Toledo](https://etheriamagazine.com/2020/11/03/comer-en-toledo-mejores-restaurantes-bares-tapas/) 
+{{< reflink path=posts/2020/11/comer-en-toledo-mejores-restaurantes-bares-tapas >}} 
 
-[La Mancha toledana: excursión a Madridejos para conocer el mundo del 
-azafrán](https://etheriamagazine.com/2021/09/29/excursion-a-madridejos-azafran-de-toledo/) 
+{{< reflink path=posts/2021/09/excursion-a-madridejos-azafran-de-toledo >}} 
 
-[Planes entre volcanes y titanes en la comarca de 
-Entreparques](https://etheriamagazine.com/2021/10/14/planes-en-entreparques-entre-volcanes-y-titanes/)
+{{< reflink path=posts/2021/10/planes-en-entreparques-entre-volcanes-y-titanes >}}

@@ -1,7 +1,7 @@
 ---
 title: "Sligo, el condado irlandés que enamoró a William Butler Yeats"
 date: 2020-04-22
-coverImage: https://fotos.etheriamagazine.com/2020/04/bosque-sligo.jpg
+cover: https://fotos.etheriamagazine.com/2020/04/bosque-sligo.jpg
 categories: 
   - viajar-con-amigas
   - historias
@@ -11,10 +11,10 @@ authors:
   - Manena Munar
 ---
 
-Viajamos al condado irlandés de Sligo, donde duendes, hadas y faunos fueron testigos del 
-turbulento amor entre el Premio Nobel de Literatura William Butler Yeats, y la actriz, 
-feminista y revolucionaria Maud Gonne. En Etheria Magazine seguimos los pasos de Yeats y 
-los lugares donde se inspiró para escribir parte de su obra. 
+**Viajamos al condado irlandés de Sligo, donde duendes, hadas y faunos fueron testigos 
+del turbulento amor entre el Premio Nobel de Literatura William Butler Yeats, y la 
+actriz, feminista y revolucionaria Maud Gonne. En Etheria Magazine seguimos los pasos de 
+Yeats y los lugares donde se inspiró para escribir parte de su obra.** 
 
 ![bosques de sligo](https://fotos.etheriamagazine.com/2020/04/bosque-sligo.jpg "Los bosques del condado de Sligo inspiraron a Yeats. © O.T. Irlanda")
 
@@ -188,17 +188,17 @@ situación privilegiada con vistas a la Bahía de Sligo y a las montañas que le
 
 ### Donde comer
 
-• El **restaurante Eala Bhan** (www.ealabhan.ie) se identifica con la comida artesana y 
+- El **restaurante Eala Bhan** (www.ealabhan.ie) se identifica con la comida artesana y 
 local irlandesa y ha sido galardonado desde 2013 a 2017 como _Best Restaurant 
 Association of Ireland_. Su chef Anthony Gray es nativo de Sligo y conoce a todos los 
 productores locales que le dan lo mejor de su cosecha. 
 
-• **Langs of Grange** (langs.ie), es un pub tradicional y pintoresco que mira por un 
+- **Langs of Grange** (langs.ie), es un pub tradicional y pintoresco que mira por un 
 lado a la majestuosa montaña Benbulben y por el otro a la playa atlántica de Streeda. Un 
 lugar donde saben tirar bien la pinta de Guinness y se puede disfrutar de un sabroso 
 estofado irlandés. 
 
-• **Hargadon Bros** (www.hargadons.com) es otro imprescindible para disfrutar de las 
+- **Hargadon Bros** (www.hargadons.com) es otro imprescindible para disfrutar de las 
 excelentes ostras de la zona acompañadas por vinos locales, o una pinta negra y espumosa 
 
 ### Viajar sola a Irlanda
@@ -213,11 +213,9 @@ las debidas precauciones en Sligo al igual que en cualquier ciudad española.
 
 📌 **También te puede interesar:** 
 
-[Viaja sola o con amigas a Dublín, un plan 
-perfecto](https://etheriamagazine.com/2020/03/09/viaje-sola-con-amigas-que-ver-en-dublin/) 
+{{< reflink path=posts/2020/03/viaje-sola-con-amigas-que-ver-en-dublin >}} 
 
-[Estas 8 playas de Irlanda harán que te enamores (aún más) de la 
-isla](https://etheriamagazine.com/2023/07/21/mejores-playas-irlanda/) 
+{{< reflink path=posts/2023/07/mejores-playas-irlanda >}} 
 
-[Islas Skellig, el enigmático escenario de Star Wars en 
-Irlanda](https://etheriamagazine.com/2019/09/05/como-organizar-excursion-precio-islas-skellig-michael-irlanda/)
+{{< reflink 
+path=posts/2019/09/como-organizar-excursion-precio-islas-skellig-michael-irlanda >}}

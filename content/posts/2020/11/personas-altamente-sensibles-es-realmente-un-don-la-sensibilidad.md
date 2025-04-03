@@ -1,7 +1,7 @@
 ---
 title: "Personas Altamente Sensibles. ¿Es realmente un don la sensibilidad?"
 date: 2020-11-25
-coverImage: https://fotos.etheriamagazine.com/2020/11/mujeres-alta-sensibilidad.jpg
+cover: https://fotos.etheriamagazine.com/2020/11/mujeres-alta-sensibilidad.jpg
 categories: 
   - bienestar
 destino: 
@@ -172,8 +172,10 @@ en España en 2012 Karina Zegers.
 
 #### También te puede interesar...
 
-• [Mindfulness y meditación para reducir el estrés y la 
-ansiedad](https://etheriamagazine.com/2020/11/18/mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion/). 
+- {{< reflink 
+path=posts/2020/11/mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion 
+>}}. 
 
-• [Haloterapia y talasoterapia, conoce todos los beneficios de la 
-sal](https://etheriamagazine.com/2020/10/28/uso-terapeutico-de-la-sal-beneficios-de-la-haloterapia-y-la-talasoterapia/).
+- {{< reflink 
+path=posts/2020/10/uso-terapeutico-de-la-sal-beneficios-de-la-haloterapia-y-la-talasoterapia 
+>}}.

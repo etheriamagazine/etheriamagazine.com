@@ -1,7 +1,7 @@
 ---
 title: "Grand Tour de Cataluña por el Pirineo y las Tierras de Lleida"
 date: 2022-02-07
-coverImage: https://fotos.etheriamagazine.com/2022/02/Grand-Tour-de-Catalunya-lleida.jpg
+cover: https://fotos.etheriamagazine.com/2022/02/Grand-Tour-de-Catalunya-lleida.jpg
 destino: 
   - España
 authors: 
@@ -248,11 +248,8 @@ Además de realizar esta _Ruta en coche por el Pirineo y las Tierras de Lleida_ 
 te animamos a hacer otros tramos del Grand Tour de Catalunya o a recorrer algunos de sus 
 rincones más sorprendentes. 
 
-[Viñedos con sabor a mar, primer tramo del Grand Tour de 
-Cataluña](https://etheriamagazine.com/2021/11/12/grand-tour-catalunya-vinedos-sabor-a-mar/). 
+{{< reflink path=posts/2024/06/grand-tour-catalunya-vinedos-sabor-a-mar >}}. 
 
-[Descubre estos 8 lugares secretos de Cataluña que deberías 
-conocer](https://etheriamagazine.com/2021/02/22/lugares-secretos-de-cataluna-que-visitar/). 
+{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}. 
 
-[10 buenas razones para escaparse a la antigua 
-Tarraco](https://etheriamagazine.com/2021/12/29/por-que-visitar-tarragona/).
+{{< reflink path=posts/2021/12/por-que-visitar-tarragona >}}.

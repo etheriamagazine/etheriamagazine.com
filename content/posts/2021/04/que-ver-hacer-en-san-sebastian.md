@@ -1,7 +1,7 @@
 ---
 title: "Planes para un fin de semana en San Sebastián: seguro que no te aburres"
 date: 2021-04-01
-coverImage: https://fotos.etheriamagazine.com/2018/07/san-sebastian-playa-concha.jpg
+cover: https://fotos.etheriamagazine.com/2018/07/san-sebastian-playa-concha.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -35,7 +35,8 @@ escaleras. Una vez arriba, merece la pena caminar por sus callejuelas de piedra.
 zona destaca la Plaza de Armas con la **iglesia de Santa María de la Asunción y del 
 Manzano** y el **Palacio de Carlos V**. 
 
-📌 Visitas guiadas en [Hondarribia](https://www.civitatis.com/es/hondarribia/tour-privado-hondarribia/?aid=10211) 
+📌 Visitas guiadas en 
+[Hondarribia](https://www.civitatis.com/es/hondarribia/tour-privado-hondarribia/?aid=10211) 
 o [ruta en 
 kayak](https://www.civitatis.com/es/hondarribia/tour-kayak-hondarribia/?aid=10211) (28 
 €). 
@@ -164,10 +165,12 @@ Si puedes, date un capricho y alójate en el [Hotel María
 Cristina](http://etheriamagazine.com/2018/07/21/hotel-maria-cristina-san-sebastian/). 
 Elegante, bien ubicado y con el aura que han dejado las estrellas de cine que han pasado 
 por sus habitaciones cuando han acudido al famoso Festival de Cine de la ciudad. También 
-puedes alojarte en el [Mercure San 
-Seba](https://etheriamagazine.com/2020/06/25/hotel-mercure-san-sebastian-monte-igueldo-con-vistas-de-donostia/)[s](https://etheriamagazine.com/2020/06/25/hotel-mercure-san-sebastian-monte-igueldo-con-vistas-de-donostia/)[tián 
-Monte 
-Igueldo](https://etheriamagazine.com/2020/06/25/hotel-mercure-san-sebastian-monte-igueldo-con-vistas-de-donostia/) 
+puedes alojarte en el {{< reflink 
+path=posts/2020/06/hotel-mercure-san-sebastian-monte-igueldo-con-vistas-de-donostia 
+>}}{{< reflink 
+path=posts/2020/06/hotel-mercure-san-sebastian-monte-igueldo-con-vistas-de-donostia 
+>}}{{< reflink 
+path=posts/2020/06/hotel-mercure-san-sebastian-monte-igueldo-con-vistas-de-donostia >}} 
 que ofrece unas vistas increíbles. 
 
 Si se alarga el fin de semana se puede realizar un salto a Francia para visitar **San 
@@ -175,8 +178,10 @@ Juan de Luz**, una bella ciudad marinera llena de historia.
 
 ### También en el País Vasco
 
-[Descubre los mejores bares de pintxos de San Sebastián para ir con 
-amigas.](https://etheriamagazine.com/2019/11/08/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas/) 
+{{< reflink 
+path=posts/2019/11/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas 
+>}} 
 
-[País Vasco francés, una ruta llena de elegancia y 
-sabor.](https://etheriamagazine.com/2020/08/24/que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare/)
+{{< reflink 
+path=posts/2020/08/que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare 
+>}}

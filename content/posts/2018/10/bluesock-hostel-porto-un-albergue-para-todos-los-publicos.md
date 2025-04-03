@@ -1,7 +1,7 @@
 ---
 title: "Bluesock Hostel Porto, un albergue para todos los públicos"
 date: 2018-10-18
-coverImage: https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-literas.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-literas.jpg
 categories: 
   - viajar-sola
   - hoteles
@@ -11,9 +11,9 @@ authors:
   - Pepa G. Marín
 ---
 
-¿Buscas un alojamiento en Oporto bien ubicado, que transmita buenas vibraciones, a un 
+**¿Buscas un alojamiento en Oporto bien ubicado, que transmita buenas vibraciones, a un 
 precio ajustado, con un ambiente dinámico y donde puedas estar tan relajada como en 
-casa? Existe y se llama Bluesock Hostel Porto. ACTUALMENTE ESTÁ CERRADO. 
+casa? Existe y se llama Bluesock Hostel Porto.** **ACTUALMENTE ESTÁ CERRADO.** 
 
 ![](https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto.jpg "tranvia en oporto, viaje a oporto, albergue oporto")
 
@@ -83,12 +83,12 @@ antiguos. Tras el paseo se suele finalizar con una degustación en la sala de ca
 te enamoras de alguno de sus vinos, no tienes más que pasar por la tienda para 
 llevártelo a casa. 
 
-Y antes de volver al albergue, te recomendamos tomar el aperitivo en la terraza del [Espacio 
-Porto Cruz](http://www.myportocruz.com), con unas preciosas vistas. Si quieres parecer 
-un local, pide un 'porto tonic', que lleva oporto blanco, jengibre, romero y tónica. 
-Para comer no es necesario ir muy lejos, unas plantas más abajo se encuentra **DeCastro 
-Gaia**, un restaurante donde sirven platos portugueses maridados, con la orientación del 
-afamado Chef Miguel Castro Silva (menú para dos desde 42 euros). 
+Y antes de volver al albergue, te recomendamos tomar el aperitivo en la terraza del 
+[Espacio Porto Cruz](http://www.myportocruz.com), con unas preciosas vistas. Si quieres 
+parecer un local, pide un 'porto tonic', que lleva oporto blanco, jengibre, romero y 
+tónica. Para comer no es necesario ir muy lejos, unas plantas más abajo se encuentra 
+**DeCastro Gaia**, un restaurante donde sirven platos portugueses maridados, con la 
+orientación del afamado Chef Miguel Castro Silva (menú para dos desde 42 euros). 
 
 ![estaciones oporto, albergue oporto](https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-estacion-tren.jpg "Preciosa estación de tren de Sao Bento.")
 

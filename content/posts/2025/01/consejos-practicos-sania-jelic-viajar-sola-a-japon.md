@@ -1,7 +1,7 @@
 ---
 title: "Consejos prácticos de Sania Jelic para viajar sola a Japón"
 date: 2025-01-03
-coverImage: https://fotos.etheriamagazine.com/2025/01/sania-japon-Santuario-Itsukushima.jpg
+cover: https://fotos.etheriamagazine.com/2025/01/sania-japon-Santuario-Itsukushima.jpg
 categories: 
   - viajar-sola
   - mujeres-top
@@ -123,36 +123,36 @@ activa.
 
 ## Consejos prácticos
 
-• No olvides llevar varios paquetes de pañuelos de papel, allí sólo venden unos tan 
+- No olvides llevar varios paquetes de pañuelos de papel, allí sólo venden unos tan 
 finos que se rompen incluso al sacar del envoltorio. La costumbre es llevar toallas o 
 pañuelos de tela, los venden con diferentes diseños y el precio está entre 4 y 10 €. No 
 me resultaron prácticos, ya que hay que lavarlos y secarlos durante todo el viaje. 
 
-• Exceptuando las bicis, que circulan a gran velocidad por todos sitios y hay que tener 
+- Exceptuando las bicis, que circulan a gran velocidad por todos sitios y hay que tener 
 cuidado de esquivarlas, es un país muy seguro, pero al haber tanto extranjero, conviene 
 seguir prestando atención y cuidar de las pertenencias. 
 
-• Hay pequeños cementerios esparcidos por toda la ciudad, entre edificios y casas. La 
+- Hay pequeños cementerios esparcidos por toda la ciudad, entre edificios y casas. La 
 muerte parece ser asumida de una forma muy natural y es parte de la vida. 
 
 ![Cementerio en Tokio.](https://fotos.etheriamagazine.com/2025/01/sania-japon-cementerio.jpg "Cementerio en Tokio. © Sania Jelic")
 
-• Es conveniente llevar una bolsa de plástico para basuras personales (no hay cubos en 
+- Es conveniente llevar una bolsa de plástico para basuras personales (no hay cubos en 
 la calle, excepto al lado de máquinas expendedoras en las estaciones de tren). Se puede 
 pedir el dejar la basura en las tiendas de conveniencia para no llevar el envoltorio o 
 la taza de café en la mano durante horas. 
 
-• Hay paraguas repartidos por toda la ciudad que se pueden usar libremente y devolver en 
+- Hay paraguas repartidos por toda la ciudad que se pueden usar libremente y devolver en 
 el siguiente puesto cuando deje de llover. 
 
-• La imagen de hombres jóvenes muy feminizados es popular. También hay una casi 
+- La imagen de hombres jóvenes muy feminizados es popular. También hay una casi 
 adoración por la imagen de las adolescentes, sobre todo en uniformes escolares. Suelen 
 aparecer en la mayoría de los anuncios, ya que rara vez se usan rostros de personas 
 adultas. 
 
 ![Publicidad en Japón.](https://fotos.etheriamagazine.com/2025/01/japon-sania-publicidad.jpg "Publicidad en Japón. © Sania Jelic")
 
-• Es habitual ver a niños pequeños andando solos por las calles, en el transporte 
+- Es habitual ver a niños pequeños andando solos por las calles, en el transporte 
 público, haciendo recados o camino al colegio. A menudo parecían perdidos, me dieron 
 pena. 
 
@@ -252,8 +252,6 @@ El tax free suele ser a partir de compras superiores a 5.000 o 5.500 yenes.
 
 **También te puede interesar:** 
 
-[¿Es seguro viajar sola a Seúl? Sania Jelic comparte su experiencia en Corea del 
-Sur](https://etheriamagazine.com/2024/12/13/viajar-sola-a-seul-sania-jelic-corea/) 
+{{< reflink path=posts/2024/12/viajar-sola-a-seul-sania-jelic-corea >}} 
 
-[Viajar sola a Noruega en busca de las auroras boreales: consejos de Sania 
-Jelic](https://etheriamagazine.com/2024/11/01/viajar-sola-noruega-auroras-boreales/)
+{{< reflink path=posts/2024/11/viajar-sola-noruega-auroras-boreales >}}

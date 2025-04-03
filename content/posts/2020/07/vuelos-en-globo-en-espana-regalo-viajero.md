@@ -1,7 +1,7 @@
 ---
 title: "Volar en globo en España, una experiencia inolvidable"
 date: 2020-07-07
-coverImage: https://fotos.etheriamagazine.com/2020/07/volar-globo-espana.jpeg
+cover: https://fotos.etheriamagazine.com/2020/07/volar-globo-espana.jpeg
 categories: 
   - viajar-con-amigas
   - compras
@@ -102,8 +102,8 @@ cuenten desde el aire. Además, es una actividad muy sencilla de realizar porque
 transporte parte de Barcelona y te devuelven al mismo lugar. Es una excursión de un día 
 muy recomendable para quienes visiten la Ciudad Condal y les apetezca una escapada para 
 conocer su faceta más natural. Además, incluso puedes organizar una **ruta senderista 
-por el Parque Natural del Montseny** que tiene rincones maravillosos. El precio de [volar 
-en globo sobre el 
+por el Parque Natural del Montseny** que tiene rincones maravillosos. El precio de 
+[volar en globo sobre el 
 Montseny](https://www.civitatis.com/es/barcelona/paseo-globo-montseny/?aid=10211) es de 
 190€/ adultos. 
 
@@ -157,8 +157,8 @@ Castilla y León.
 
 **Otras experiencias que te pueden interesar...** 
 
-[6 lugares para hacer un bautismo de buceo en 
-España](https://etheriamagazine.com/2020/07/14/experiencias-viajeras-bautismo-de-buceo-menorca-tenerife-cambrils-javea-y-mas/). 
+{{< reflink 
+path=posts/2020/07/experiencias-viajeras-bautismo-de-buceo-menorca-tenerife-cambrils-javea-y-mas 
+>}}. 
 
-[10 regalos para sorprender a mujeres viajeras y 
-disfrutonas](https://etheriamagazine.com/2022/04/25/regalos-para-madres-viajeras/).
+{{< reflink path=posts/2022/04/regalos-para-madres-viajeras >}}.

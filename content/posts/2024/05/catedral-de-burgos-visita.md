@@ -1,7 +1,7 @@
 ---
 title: "Todo lo que no puedes perderte en un recorrido por la catedral de Burgos"
 date: 2024-05-16
-coverImage: https://fotos.etheriamagazine.com/2024/05/catedral-burgos-capilla-condestable.jpg
+cover: https://fotos.etheriamagazine.com/2024/05/catedral-burgos-capilla-condestable.jpg
 categories: 
   - viajar-sola
   - inspiración
@@ -193,11 +193,8 @@ de 10 a 18 horas.
 
 **T**ambién en Etheria Magazine**:** 
 
-[Visita de la catedral de Toledo: 10 detalles que no puedes 
-perderte](https://etheriamagazine.com/2022/01/19/que-ver-en-catedral-de-toledo/) 
+{{< reflink path=posts/2022/01/que-ver-en-catedral-de-toledo >}} 
 
-[Visita de la catedral de Pamplona y su exposición 
-Occidens](https://etheriamagazine.com/2024/02/07/visita-de-la-catedral-de-pamplona-exposicion-occidens/) 
+{{< reflink path=posts/2024/02/visita-de-la-catedral-de-pamplona-exposicion-occidens >}} 
 
-[Qué ver en la Mezquita-Catedral de Córdoba: 10 rincones 
-imprescindibles](https://etheriamagazine.com/2022/08/12/que-ver-mezquita-cordoba/)
+{{< reflink path=posts/2022/08/que-ver-mezquita-cordoba >}}

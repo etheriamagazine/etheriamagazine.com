@@ -1,7 +1,7 @@
 ---
 title: "¿Por qué Lucca es una parada obligada en la Toscana?"
 date: 2019-02-18
-coverImage: https://fotos.etheriamagazine.com/2019/02/Lucca-catedral-e1550913127169.jpg
+cover: https://fotos.etheriamagazine.com/2019/02/Lucca-catedral-e1550913127169.jpg
 categories: 
   - inspiración
   - ocio
@@ -136,11 +136,8 @@ Más información en [Turismo de Lucca](http://www.turismo.lucca.it/en).
 
 ## También te puede interesar:
 
-[Puccini nos lleva de viaje (en coche) a 
-Lucca](https://etheriamagazine.com/2019/02/21/viajes-lucca-puccini-aficionado-coches/) 
+{{< reflink path=posts/2019/02/viajes-lucca-puccini-aficionado-coches >}} 
 
-[Ruta en coche para recorrer la Toscana en 7 
-días](https://etheriamagazine.com/2021/06/01/toscana-en-coche/) 
+{{< reflink path=posts/2021/06/toscana-en-coche >}} 
 
-[10 viajes para enamorarte de 
-Italia](https://etheriamagazine.com/2020/08/03/10-grandes-viajes-a-italia/)
+{{< reflink path=posts/2020/08/10-grandes-viajes-a-italia >}}

@@ -1,7 +1,7 @@
 ---
 title: "Qué debes tener en cuenta para viajar a Galápagos"
 date: 2018-09-29
-coverImage: https://fotos.etheriamagazine.com/2018/09/tortuga-islas-galapagos.jpg
+cover: https://fotos.etheriamagazine.com/2018/09/tortuga-islas-galapagos.jpg
 categories: 
   - inspiración
   - ocio
@@ -11,11 +11,11 @@ authors:
   - Pepa G. Marín
 ---
 
-El planeta cuenta con lugares sorprendentes a los que merece la pena viajar porque 
+**El planeta cuenta con lugares sorprendentes a los que merece la pena viajar porque 
 cambian totalmente nuestras perspectivas. Uno de esos rincones privilegiados, que no se 
 parece a nada que conoces, es el archipiélago de las Islas Galápagos. No es rápido ni 
 económico llegar hasta allí pero merece totalmente la pena. Te damos algunas claves para 
-organizar un viaje por libre a Galápagos. 
+organizar un viaje por libre a Galápagos.** 
 
 ![Las excursiones a los lugares protegidos de las islas Galápagos se deben hacer en grupo.](https://fotos.etheriamagazine.com/2018/09/viaje-galapagos-Tintoreras.jpg "Las excursiones a los lugares protegidos se deben hacer en grupo.")
 
@@ -194,8 +194,6 @@ Galápagos](http://www.galapagos.gob.ec).
 
 **También te puede interesar...** 
 
-[Islas Galápagos, consejos de Sania para visitar el paraíso 
-perdido](https://etheriamagazine.com/2023/04/09/como-viajar-islas-galapagos/). 
+{{< reflink path=posts/2023/04/como-viajar-islas-galapagos >}}. 
 
-[Islas Galápagos, organiza el mejor viaje de tu 
-vida](https://etheriamagazine.com/2018/09/05/visitas-basicas-en-viaje-islas-galapagos/).
+{{< reflink path=posts/2018/09/visitas-basicas-en-viaje-islas-galapagos >}}.

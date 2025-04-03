@@ -1,7 +1,7 @@
 ---
 title: "Viajar sola al Eje Cafetero, el corazón verde de Colombia"
 date: 2019-01-28
-coverImage: https://fotos.etheriamagazine.com/2019/01/Colombia-Salento-Quindio.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/Colombia-Salento-Quindio.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -102,8 +102,9 @@ un parque temático y de atracciones agropecuario, que permite la recreación e
 interacción con el campo a partir de exposiciones, sorprendentes estaciones temáticas y 
 la compilación de zoología doméstica más grande de la Tierra. Otra parada es el **Jardín 
 Botánico del Quindío**, en Calarca, un relevante centro de exploración científica y de 
-formación ambiental que contiene, además, una de las colecciones más importantes de [mariposas](https://etheriamagazine.com/2018/12/19/michoacan-en-busca-de-las-mariposas-monarca/) 
-de Colombia y del planeta. 
+formación ambiental que contiene, además, una de las colecciones más importantes de {{< 
+reflink path=posts/2018/12/michoacan-en-busca-de-las-mariposas-monarca >}} de Colombia y 
+del planeta. 
 
 ## Manizales, en medio de la naturaleza
 
@@ -152,7 +153,8 @@ y te tratan como si fueras de la familia. A tu elección.
 
 ##### Dónde comer
 
-Las parrillas de **Camino Real** o [Antorchas](https://www.tripadvisor.es/Restaurant_Review-g1580963-d15669892-Reviews-Antorchas-Salento_Quindio_Department.html) 
+Las parrillas de **Camino Real** o 
+[Antorchas](https://www.tripadvisor.es/Restaurant_Review-g1580963-d15669892-Reviews-Antorchas-Salento_Quindio_Department.html) 
 merecen mucho la pena, aunque la primera tiene mejor panorámica y ambiente. 
 
 ##### Más información
@@ -161,11 +163,8 @@ En la web oficial de [Turismo de Colombia](http://www.colombia.travel/es).
 
 ##### También te puede interesar:
 
-[Bogotá no es fea, es que no la sabes 
-mirar](https://etheriamagazine.com/2020/03/12/viaje-para-mujeres-que-ver-hacer-en-bogota/) 
+{{< reflink path=posts/2020/03/viaje-para-mujeres-que-ver-hacer-en-bogota >}} 
 
-[10 parques naturales de América Latina con paisajes 
-increíbles](https://etheriamagazine.com/2021/10/21/parques-naturales-de-america-latina/) 
+{{< reflink path=posts/2021/10/parques-naturales-de-america-latina >}} 
 
-[Un viaje apasionante con amigas por el sur de 
-Perú](https://etheriamagazine.com/2019/11/01/mujeres-que-viajan-solas-amigas-peru/)
+{{< reflink path=posts/2019/11/mujeres-que-viajan-solas-amigas-peru >}}

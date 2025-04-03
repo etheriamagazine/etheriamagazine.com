@@ -1,7 +1,7 @@
 ---
 title: "Cuba con amigas, visitas esenciales en este paraíso caribeño"
 date: 2019-01-24
-coverImage: https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-cayo-coco.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-cayo-coco.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Cristina R. Bareño
 ---
 
-Cantarás, bailarás, gozarás. El país más acogedor y hospitalario del Caribe nos brinda 
+**Cantarás, bailarás, gozarás. El país más acogedor y hospitalario del Caribe nos brinda 
 todo un abanico de posibilidades para disfrutar de un viaje a Cuba con amigas. En este 
 artículo encontrarás unas pinceladas de todo lo que puedes hacer para convertirlo en 
-inolvidable. 
+inolvidable.** 
 
 ![Una calle de La Habana con un coche típico de Cuba](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-habana-1.jpg "La arquitectura destartalada y los coches antiguos americanos son la seña de identidad de La Habana.")
 
@@ -130,11 +130,13 @@ catedral de la Purísima Concepción.
 ![Fachadas de Cuba con aires decadentes](https://fotos.etheriamagazine.com/2019/01/cuba-133489_1280.jpg "El aire decadente de Cuba enamora.")
 
 📌 **¿Cómo llegar a Bahía Cochinos?** La mejor opción es hacer una parada en la ruta La 
-Habana - Trinidad. A Bahía de Cochinos se le reconoce el valor de su naturaleza intacta 
-y la belleza de sus playas: Girón y Playa Larga. Sus aguas transparentes y tranquilas, 
-así como sus arenas blancas y finas, permiten darnos un chapuzón relajado mientras 
-admiramos el paisaje. Otro de los atractivos de la zona es la **Ciénaga de Zapata**, 
-perfecta para los amantes de las aves. 
+Habana 
+
+- Trinidad. A Bahía de Cochinos se le reconoce el valor de su naturaleza intacta y la 
+belleza de sus playas: Girón y Playa Larga. Sus aguas transparentes y tranquilas, así 
+como sus arenas blancas y finas, permiten darnos un chapuzón relajado mientras admiramos 
+el paisaje. Otro de los atractivos de la zona es la **Ciénaga de Zapata**, perfecta para 
+los amantes de las aves. 
 
 ![Playas de arena blanca y agua turquesa de Cayo Coco](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-playas.jpg "En Cayo Coco el mar es más turquesa y la arena más blanca.")
 
@@ -207,8 +209,6 @@ Cuba_.
 
 📌 **Sigue leyendo sobre Cuba:** 
 
-[Viaja al corazón de Cuba: Villa Clara y Sancti 
-Spíritus](https://etheriamagazine.com/2022/01/03/viaje-cuba-villa-clara-y-sancti-spiritus/). 
+{{< reflink path=posts/2022/01/viaje-cuba-villa-clara-y-sancti-spiritus >}}. 
 
-[Prepara tu viaje a… 
-Cuba](https://etheriamagazine.com/2020/05/08/prepara-tu-viaje-a-cuba-libros-peliculas/).
+{{< reflink path=posts/2020/05/prepara-tu-viaje-a-cuba-libros-peliculas >}}.

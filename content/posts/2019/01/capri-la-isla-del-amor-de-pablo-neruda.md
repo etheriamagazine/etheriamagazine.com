@@ -1,7 +1,7 @@
 ---
 title: "Matilde Urrutia y Capri, dos pasiones clandestinas de Pablo Neruda"
 date: 2019-01-15
-coverImage: https://fotos.etheriamagazine.com/2019/01/viaje-capri.jpg
+cover: https://fotos.etheriamagazine.com/2019/01/viaje-capri.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -161,8 +161,6 @@ Capri tiene algo de aroma “nerudiano".
 
 **Otras historias que pueden interesarte:** 
 
-[Sofía Casanova, una poetisa gallega en 
-Polonia](https://etheriamagazine.com/2018/09/10/la-poetisa-sofia-casanova-una-gallega-en-polonia/). 
+{{< reflink path=posts/2018/09/la-poetisa-sofia-casanova-una-gallega-en-polonia >}}. 
 
-[Mallorca de la mano de George 
-Sand](https://etheriamagazine.com/2018/05/16/mallorca-de-la-mano-de-george-sand/).
+{{< reflink path=posts/2018/05/mallorca-de-la-mano-de-george-sand >}}.

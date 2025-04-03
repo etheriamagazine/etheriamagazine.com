@@ -1,7 +1,7 @@
 ---
 title: "Planes divertidos con adolescentes en Madrid"
 date: 2022-12-16
-coverImage: https://fotos.etheriamagazine.com/2022/12/madrid-sweet-space-nevera.jpg
+cover: https://fotos.etheriamagazine.com/2022/12/madrid-sweet-space-nevera.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-Es habitual que se nos acaben las ideas para buscar opciones divertidas con las que 
+**Es habitual que se nos acaben las ideas para buscar opciones divertidas con las que 
 pasar una tarde con los más jóvenes de la casa. En Etheria Magazine hemos seleccionado 
 diez planes con adolescentes en Madrid con los que acertarás seguro tanto si vives en la 
-capital como si vienes unos días de visita. 
+capital como si vienes unos días de visita.** 
 
 ![adolescentes en una nevera de Sweet Space](https://fotos.etheriamagazine.com/2022/12/madrid-sweet-space-nevera.jpg "Diversión en Sweet Space. © Ángel Linares")
 
@@ -24,9 +24,8 @@ culturales con otros que aseguren unas horas de diversión para que el viaje sea
 seleccionado diez lugares y actividades perfectos para hacer con adolescentes en Madrid. 
 Apúntatelos todos que seguro que triunfas. 
 
-📍**No te pierdas:** [Complutum Renacida, Alcalá de Henares se transforma en Roma en el 
-puente de 
-mayo](https://etheriamagazine.com/2023/04/14/complutum-renacida-alcala-de-henares/). 
+📍**No te pierdas:** {{< reflink path=posts/2023/04/complutum-renacida-alcala-de-henares 
+>}}. 
 
 ## Madrid con adolescentes, ideas para que disfruten:
 
@@ -42,8 +41,7 @@ de las clases de surf, Honna Surf cuenta con un restaurante con muy buena onda y
 surferos y una terraza muy animada en verano. También hay una tienda con ropa de marcas 
 de surf para darte un capricho o hacer un regalo. 
 
-✅ **No te pierdas:** [5 excursiones esenciales con niños muy cerca de 
-Madrid](https://etheriamagazine.com/2023/03/24/excursiones-ninos-en-madrid/). 
+✅ **No te pierdas:** {{< reflink path=posts/2023/03/excursiones-ninos-en-madrid >}}. 
 
 ![Surf en Madrid](https://fotos.etheriamagazine.com/2022/12/madrid-adolescentes-surf.jpg "Surf en Honna Surf Hub. © SG")
 
@@ -70,7 +68,8 @@ plantas que albergan en total quince salas. Cada una con una ambientación difer
 elementos que te sirven de _atrezzo_ para las imágenes o los vídeos. ¿Puede haber mejor 
 plan para un grupo de adolescentes que pasar un rato tomándose fotos solos o juntos con 
 todos los elementos necesarios para divertirse? El recorrido dura una hora y puedes 
-comprar las entradas en la web de Ikono o a través de [Civitatis](https://www.civitatis.com/es/madrid/entrada-ikono-madrid/?aid=10211). 
+comprar las entradas en la web de Ikono o a través de 
+[Civitatis](https://www.civitatis.com/es/madrid/entrada-ikono-madrid/?aid=10211). 
 
 ![Dos chicas haciéndose fotos en Ikono Madrid](https://fotos.etheriamagazine.com/2022/12/Madrid-ikono.jpg "Fotos divertidas en © Ikono Madrid.")
 
@@ -93,7 +92,8 @@ parque totalmente tematizado, y en verano puedes combinarlo con el parque acuát
 **Warner Beach**. Consulta los horarios de los espectáculos, cabalgatas y si quieres 
 aprovechar la visita al máximo te merece la pena comprar uno de los pases Correcaminos 
 que reducen el tiempo de espera en las atracciones. Puedes comprar las entradas en su 
-web (parquewarner.com) o a través de este enlace de [Civitatis](https://www.civitatis.com/es/madrid/entrada-parque-warner/?aid=10211). 
+web (parquewarner.com) o a través de este enlace de 
+[Civitatis](https://www.civitatis.com/es/madrid/entrada-parque-warner/?aid=10211). 
 
 ![Atracción acuática en el Parque Warner de Madrid](https://fotos.etheriamagazine.com/2022/12/madrid-warner.jpg "Una visita al Parque Warner es siempre una buena opción en Madrid.")
 
@@ -107,7 +107,8 @@ imaginación y echándose unas risas. Algunos de los artistas que han contribuid
 decoración son Agatha Ruiz de la Prada, Ines Valls, Ivanna Gautier o Alvaro Linares. 
 Este es uno de los planes ideales con adolescentes en Madrid cuando hace mal tiempo y 
 tenemos un grupo de chavales buscando qué hacer... Puedes comprar las entradas en la web 
-de Sweet Space o a través de [Civitatis](https://www.civitatis.com/es/madrid/entrada-sweet-space/?aid=10211). 
+de Sweet Space o a través de 
+[Civitatis](https://www.civitatis.com/es/madrid/entrada-sweet-space/?aid=10211). 
 
 ![foto con oso gigante en Sweet Space Madrid](https://fotos.etheriamagazine.com/2022/12/madrid-sweet-space.jpg "En Sweet Space encuentras mil rincones para una foto. © Ángel Linares")
 
@@ -138,7 +139,8 @@ Cuarto Infinito… Te aseguramos que los más jóvenes no dejarán de tomarse fo
 redes sociales. Además, la colección de hologramas e ilusiones ópticas cambian 
 totalmente la percepción de la realidad y el Salón de Juegos con puzzles y todo tipo de 
 retos no deja a nadie indiferente. Es imprescindible reservar las entradas con 
-antelación en la [web del museo](https://museumofillusions.es/) o a través de [Civitatis](https://www.civitatis.com/es/madrid/entrada-museo-ilusiones/?aid=10211). 
+antelación en la [web del museo](https://museumofillusions.es/) o a través de 
+[Civitatis](https://www.civitatis.com/es/madrid/entrada-museo-ilusiones/?aid=10211). 
 
 ![efecto óptico en el Museo de las Ilusiones de Madrid](https://fotos.etheriamagazine.com/2022/12/Madrid-museo-ilusiones.jpg "En el © Museo de las Ilusiones todo es posible.")
 
@@ -168,8 +170,6 @@ Assassin’s Creed, así que el éxito entre el público adolescente está asegu
 
 📌 **También te puede interesar:** 
 
-[10 tabernas históricas de Madrid donde tomar el 
-vermú](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/) 
+{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}} 
 
-[8 brunches asequibles en Madrid para disfrutar del 
-domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/)
+{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}

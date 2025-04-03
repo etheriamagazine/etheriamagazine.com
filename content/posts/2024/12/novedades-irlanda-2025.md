@@ -1,7 +1,7 @@
 ---
 title: "Tentaciones de Irlanda en 2025: cultura, música y paisajes de película"
 date: 2024-12-11
-coverImage: https://fotos.etheriamagazine.com/2024/12/English-Food-Market-cork.jpeg
+cover: https://fotos.etheriamagazine.com/2024/12/English-Food-Market-cork.jpeg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -76,8 +76,8 @@ como **Glenarm Castle** y Tollymore Forest Park, que darán vida a las historias
 y Egg. Si eres fan de la saga, este es el momento ideal para visitar estas tierras 
 épicas. 
 
-**No te pierdas:** [Ruta de Juego de Tronos en Irlanda del 
-Norte](https://etheriamagazine.com/2018/07/02/juego-de-tronos-en-irlanda-del-norte/). 
+**No te pierdas:** {{< reflink path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte 
+>}}. 
 
 ![Glenarm Castle & Garden](https://fotos.etheriamagazine.com/2024/12/Glenarm-Castle.jpeg "Glenarm Castle.")
 
@@ -122,11 +122,8 @@ favoritas, esta tierra mágica sigue conquistando corazones.
 
 **También en Etheria Magazine** 
 
-[Ruta en coche por Irlanda: condados de Cork y 
-Kerry](https://etheriamagazine.com/2023/12/30/ruta-en-coche-cork-kerry/). 
+{{< reflink path=posts/2023/12/ruta-en-coche-cork-kerry >}}. 
 
-[‘Almas en pena de Inisherin’, paisajes de cine en 
-Irlanda](https://etheriamagazine.com/2023/01/30/almas-en-pena-de-inisherin/). 
+{{< reflink path=posts/2023/01/almas-en-pena-de-inisherin >}}. 
 
-[Irlanda del Norte: 6 visitas imprescindibles y 2 lugares 
-secretos](https://etheriamagazine.com/2021/05/31/8-visitas-increibles-en-irlanda-del-norte/).
+{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}}.

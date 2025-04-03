@@ -1,7 +1,7 @@
 ---
 title: "¿Nos comemos y bebemos Sanlúcar de Barrameda?"
 date: 2022-05-11
-coverImage: https://fotos.etheriamagazine.com/2022/05/sanlucar-langostinos.jpg
+cover: https://fotos.etheriamagazine.com/2022/05/sanlucar-langostinos.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-Capital gastronómica de España 2022, Sanlúcar de Barrameda merece una visita por muchos 
-motivos, y uno de ellos es la felicidad que te va a proporcionar a través del paladar. 
-Te proponemos un recorrido por sus productos estrella y sus bares y restaurantes para 
-que vayas abriendo boca antes de tu próxima visita. 
+**Capital gastronómica de España 2022, Sanlúcar de Barrameda merece una visita por 
+muchos motivos, y uno de ellos es la felicidad que te va a proporcionar a través del 
+paladar. Te proponemos un recorrido por sus productos estrella y sus bares y 
+restaurantes para que vayas abriendo boca antes de tu próxima visita.** 
 
 ![Langostinos de Sanlúcar.](https://fotos.etheriamagazine.com/2022/05/sanlucar-langostinos.jpg "Langostinos de Sanlúcar. © Ricardo Jiménez")
 
@@ -66,7 +66,8 @@ protagonista indiscutible de la gastronomía sanluqueña. La **fritura gaditana*
 puntillitas, acedías, pijotas o chocos se prepara de forma deliciosa, y los guisos 
 marineros son espectaculares: papas con choco, garbanzos con langostinos, chocos al 
 veranillo… Si no puedes esperar para probarlos, la **familia Senra** los envasa listos 
-para calentar y los distribuye a toda España, puedes comprarlos en su [web](https://conservasenra.es/). 
+para calentar y los distribuye a toda España, puedes comprarlos en su 
+[web](https://conservasenra.es/). 
 
 ![Tortilla de camarones, una delicia gaditana.](https://fotos.etheriamagazine.com/2022/05/sanlucar-tortilla-camarones.jpg "Tortilla de camarones, una delicia gaditana. © Ricardo Jiménez")
 
@@ -130,11 +131,9 @@ fideos con gambas. ¿A que apetece comerse Sanlúcar?
 
 ### Sigue leyendo sobre Cádiz
 
-[12 actividades para hacer con niños en la provincia de 
-Cádiz](https://etheriamagazine.com/2020/03/12/12-actividades-familiares-para-viajes-con-ninos-en-cadiz/) 
+{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
+>}} 
 
-[Cádiz, tras las huellas de su legado 
-andalusí](https://etheriamagazine.com/2019/05/20/viajar-con-amigas-que-hacer-en-cadiz/) 
+{{< reflink path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}} 
 
-[Ruta en coche por 12 preciosos pueblos blancos de 
-Cádiz](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/)
+{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}}

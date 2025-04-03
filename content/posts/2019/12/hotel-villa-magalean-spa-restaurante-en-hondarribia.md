@@ -1,7 +1,7 @@
 ---
 title: "Hotel Villa Magalean, el abrazo de Hondarribia"
 date: 2019-12-03
-coverImage: https://fotos.etheriamagazine.com/2019/11/hotel-magalean-recepcion.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/hotel-magalean-recepcion.jpg
 categories: 
   - viajar-con-amigas
   - hoteles
@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-Si no crees en el amor a primera vista es que aún no has visitado el hotel Villa 
+**Si no crees en el amor a primera vista es que aún no has visitado el hotel Villa 
 Magalean. Detrás de esa paz y serenidad que transmiten sus espacios están dos grandes 
 profesionales: Caroline Brousse, propietaria, y Susana Cardarelli, directora. Si eres 
-amante del buen gusto y los detalles, éste es tu alojamiento en Hondarribia. 
+amante del buen gusto y los detalles, éste es tu alojamiento en Hondarribia.** 
 
 ![hotel magalean, hotel hondarribia, rusticae](https://fotos.etheriamagazine.com/2019/11/hotel-magalean-recepcion.jpg "Hotel Villa Magalean (Hondarribia).")
 
@@ -126,11 +126,8 @@ regresar a la vida cotidiana va a resultar 'harto complicado'.
 
 📌 **También te puede interesar:** 
 
-[Guía esencial de Gipuzkoa, maravillas desde la costa al 
-interior](https://etheriamagazine.com/2023/02/14/que-ver-hacer-gipuzkoa/) 
+{{< reflink path=posts/2023/02/que-ver-hacer-gipuzkoa >}} 
 
-[8 pasiones al pie del monte Jaizkibel en la costa de 
-Guipúzcoa](https://etheriamagazine.com/2020/09/08/que-ver-guipuzcoa-jaizkibel-hondarribia-pasaia/) 
+{{< reflink path=posts/2020/09/que-ver-guipuzcoa-jaizkibel-hondarribia-pasaia >}} 
 
-[Planes para un fin de semana en San Sebastián: seguro que no te 
-aburres](https://etheriamagazine.com/2021/04/01/que-ver-hacer-en-san-sebastian/)
+{{< reflink path=posts/2021/04/que-ver-hacer-en-san-sebastian >}}

@@ -1,7 +1,7 @@
 ---
 title: "Elisabeth G. Iborra: \"Me declaré periodista a los seis años por una curiosidad que todavía no he saciado\""
 date: 2018-10-29
-coverImage: https://fotos.etheriamagazine.com/2018/10/Elisabeth-Iborra-Guatape.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/Elisabeth-Iborra-Guatape.jpg
 categories: 
   - mujeres-top
 destino: 

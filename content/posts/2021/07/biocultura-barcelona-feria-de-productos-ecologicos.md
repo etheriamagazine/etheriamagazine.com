@@ -1,7 +1,7 @@
 ---
 title: "BioCultura, la feria de productos ecológicos y consumo responsable, vuelve a Barcelona"
 date: 2021-07-04
-coverImage: https://fotos.etheriamagazine.com/2021/07/biocultura-barcelona-cosmetica.jpg
+cover: https://fotos.etheriamagazine.com/2021/07/biocultura-barcelona-cosmetica.jpg
 categories: 
   - ocio
 destino: 
@@ -73,11 +73,9 @@ venta[.](https://entradas.biocultura.org/bioculturabarcelona2021)
 
 ### También te puede interesar
 
-[Barra libre de ansiolíticos y antidepresivos, ¿se medicalizan los problemas 
-sociales?](https://etheriamagazine.com/2021/04/14/ansioliticos-y-antidepresivos-no-resuelven-los-problemas/) 
+{{< reflink path=posts/2021/04/ansioliticos-y-antidepresivos-no-resuelven-los-problemas 
+>}} 
 
-[MeToo Yogui, cuando el yoga se utiliza para cometer 
-abusos](https://etheriamagazine.com/2021/06/18/metoo-yogui-denuncias-del-abuso-en-yoga/). 
+{{< reflink path=posts/2021/06/metoo-yogui-denuncias-del-abuso-en-yoga >}}. 
 
-[Menstruar, una cuestión de derechos 
-humanos](https://etheriamagazine.com/2021/05/13/menstruacion-tabu-estigma-para-ninas-mundo/).
+{{< reflink path=posts/2021/05/menstruacion-tabu-estigma-para-ninas-mundo >}}.

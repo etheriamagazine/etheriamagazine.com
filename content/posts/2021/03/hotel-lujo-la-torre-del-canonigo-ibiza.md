@@ -1,7 +1,7 @@
 ---
 title: "Hotel La Torre del Canónigo, un coqueto espacio de lujo en Ibiza"
 date: 2021-03-22
-coverImage: https://fotos.etheriamagazine.com/2021/03/hotel-canonigo-ibiza-terraza-habitacion.jpg
+cover: https://fotos.etheriamagazine.com/2021/03/hotel-canonigo-ibiza-terraza-habitacion.jpg
 categories: 
   - hoteles
 destino: 
@@ -103,8 +103,7 @@ Fotografías cedidas por © La Torre del Canónigo.
 
 ### También te puede interesar:
 
-[20 restaurantes románticos de Ibiza para ir en 
-pareja.](https://etheriamagazine.com/2020/02/14/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja/) 
+{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
+>}} 
 
-[10 errores que debes evitar si vas a Ibiza con 
-amigas.](https://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/)
+{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}

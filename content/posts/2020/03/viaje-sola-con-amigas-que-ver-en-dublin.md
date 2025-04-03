@@ -1,7 +1,7 @@
 ---
 title: "Viaja sola o con amigas a Dublín, un plan perfecto"
 date: 2020-03-09
-coverImage: https://fotos.etheriamagazine.com/2020/02/Temple-Bar-Dublin-1.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/Temple-Bar-Dublin-1.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Manena Munar
 ---
 
-Dublín es una ciudad acogedora, con energía, perfecta para recorrerla a pie. Ni muy 
+**Dublín es una ciudad acogedora, con energía, perfecta para recorrerla a pie. Ni muy 
 grande, ni demasiado pequeña, ideal para pasar 48 horas y volver a casa con la agradable 
 sensación de haberla conocido. Si aún no tienes destino para tu próximo viaje sola o con 
-amigas, te contamos qué ver en Dublín para un fin de semana de diez. 
+amigas, te contamos qué ver en Dublín para un fin de semana de diez.** 
 
 ![Calle de bares en Dublín](https://fotos.etheriamagazine.com/2020/02/Temple-Bar-Dublin-1.jpg "Las calles adyacentes a Temple Bar, como Dame Lane, se prestan a un agradable paseo. © Rob Durston/ Turismo Irlanda")
 
@@ -241,17 +241,16 @@ perderte nada o al [tour de misterios y
 leyendas](https://www.civitatis.com/es/dublin/misterios-leyendas-dublin/?aid=10211), 
 también gratuito. Para no perderte nada de la noche dublinense, el [tour nocturno por 
 Temple Bar y sus pubs](https://www.civitatis.com/es/dublin/tour-dublin-noche/?aid=10211) 
-es una muy buena opción. Para tener otro punto de vista de la ciudad, puedes dar un [paseo 
-en barco por Dublín](https://www.civitatis.com/es/dublin/paseo-barco-dublin/?aid=10211), 
-que se puede reservar también con Civitatis. 
+es una muy buena opción. Para tener otro punto de vista de la ciudad, puedes dar un 
+[paseo en barco por 
+Dublín](https://www.civitatis.com/es/dublin/paseo-barco-dublin/?aid=10211), que se puede 
+reservar también con Civitatis. 
 
 📌 **También te puede interesar:** 
 
-[Irlanda del Norte: 6 visitas imprescindibles y 2 lugares 
-secretos](https://etheriamagazine.com/2021/05/31/8-visitas-increibles-en-irlanda-del-norte/) 
+{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}} 
 
-[Irlanda: en San Patricio se brinda con 
-Guinness](https://etheriamagazine.com/2019/03/04/celebrar-san-patricio-dublin/) 
+{{< reflink path=posts/2024/03/celebrar-san-patricio-dublin >}} 
 
-[Islas Skellig, el enigmático escenario de Star Wars en 
-Irlanda](https://etheriamagazine.com/2019/09/05/como-organizar-excursion-precio-islas-skellig-michael-irlanda/)
+{{< reflink 
+path=posts/2019/09/como-organizar-excursion-precio-islas-skellig-michael-irlanda >}}

@@ -1,7 +1,7 @@
 ---
 title: "Bilbao en clave 'gastro' para una escapada con amigas"
 date: 2019-12-23
-coverImage: https://fotos.etheriamagazine.com/2019/11/Restaurante-Mina-chef-Alvaro-Garrido.jpg
+cover: https://fotos.etheriamagazine.com/2019/11/Restaurante-Mina-chef-Alvaro-Garrido.jpg
 categories: 
   - gourmet
 destino: 
@@ -10,10 +10,10 @@ authors:
   - Cristina R. Bareño
 ---
 
-Pasar un fin de semana en Bilbao con amigas en clave gastro no sólo es sencillo sino que 
-es casi obligatorio. Esta escapada que te proponemos en Etheria Magazine, será una de 
-las que recordaréis durante años. Toma nota de los mejores restaurantes de Bilbao y 
-conoce quién está al frente de los mismos. ¡Que aproveche! 
+**Pasar un fin de semana en Bilbao con amigas en clave gastro no sólo es sencillo sino 
+que es casi obligatorio. Esta escapada que te proponemos en Etheria Magazine, será una 
+de las que recordaréis durante años. Toma nota de los mejores restaurantes de Bilbao y 
+conoce quién está al frente de los mismos. ¡Que aproveche!** 
 
 ![restaurante mina](https://fotos.etheriamagazine.com/2019/12/Restaurante-Mina-Espacio.jpg "Cocina y sala del © Restaurante Mina.")
 
@@ -165,11 +165,8 @@ Euskadi](https://turismo.euskadi.eus/es)
 
 📌 **También te puede interesar:** 
 
-[10 planes originales en Bilbao con 
-amigas](https://etheriamagazine.com/2020/09/09/10-planes-originales-en-bilbao-con-amigas/) 
+{{< reflink path=posts/2020/09/10-planes-originales-en-bilbao-con-amigas >}} 
 
-[Rutas básicas en Bilbao para un fin de 
-semana](https://etheriamagazine.com/2018/10/22/48-horas-en-bilbao/) 
+{{< reflink path=posts/2018/10/48-horas-en-bilbao >}} 
 
-[Valle de Karrantza, 10 experiencias rurales y genuinas en 
-Vizcaya](https://etheriamagazine.com/2021/08/18/que-ver-y-hacer-en-valle-de-karrantza-vizcaya/)
+{{< reflink path=posts/2021/08/que-ver-y-hacer-en-valle-de-karrantza-vizcaya >}}

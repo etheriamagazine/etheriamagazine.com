@@ -1,7 +1,7 @@
 ---
 title: "5 experiencias en Cantabria para un fin de semana con amigas"
 date: 2020-02-17
-coverImage: https://fotos.etheriamagazine.com/2020/02/piscina-termal-solares.jpg
+cover: https://fotos.etheriamagazine.com/2020/02/piscina-termal-solares.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -182,12 +182,12 @@ os recomendamos en el artículo, hasta campings o casas rurales.
 En esta región se come bien en casi cualquier sitio, pero si queréis daros un capricho 
 os recomendamos: 
 
-• [El Cenador de Amós](https://www.cenadordeamos.com/). Este tres estrellas Michelin, 
+- [El Cenador de Amós](https://www.cenadordeamos.com/). Este tres estrellas Michelin, 
 cuya cocina dirige el chef Jesús Sánchez, se encuentra en un casona del siglo XVIII y 
 ofrece una carta basada en las raíces locales con un toque creativo. Podrás elegir entre 
 Esencia (115 €), Carta Memoria (87 €) o Experiencia (157 €). 
 
-• [El Nuevo Molino](https://elnuevomolino.es/). Este restaurante con una estrella 
+- [El Nuevo Molino](https://elnuevomolino.es/). Este restaurante con una estrella 
 Michelin está situado en un molino de agua, como se puede deducir de su nombre. Es una 
 maravilla no solo por su jardín, su capilla, sus comedores que transmiten calidez o su 
 cava de puros, sino por la autenticidad de su carta. Si pides su menú tradición (42 €) 
@@ -201,8 +201,8 @@ temporada.
 
 ### También en Cantabria...
 
-##### [Lugares sorprendentes de Cantabria que aún no conoces](https://etheriamagazine.com/2020/06/05/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original/).
+##### {{< reflink path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}}.
 
-##### [Ruta por los mejores faros de Cantabria](https://etheriamagazine.com/2020/05/18/viaje-a-los-mejores-faros-de-cantabria/).
+##### {{< reflink path=posts/2020/05/viaje-a-los-mejores-faros-de-cantabria >}}.
 
-##### [10 poderosas razones para visitar Valderredible, el sur de Cantabria](https://etheriamagazine.com/2019/08/26/que-ver-valderredible-cantabria/)
+##### {{< reflink path=posts/2019/08/que-ver-valderredible-cantabria >}}

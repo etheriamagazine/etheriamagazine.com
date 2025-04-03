@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en Funchal, guía para 48 horas bien aprovechadas"
 date: 2022-08-08
-coverImage: https://fotos.etheriamagazine.com/2022/08/velero-por-Funchal.jpg
+cover: https://fotos.etheriamagazine.com/2022/08/velero-por-Funchal.jpg
 categories: 
   - viajar-con-amigas
 destino: 
@@ -180,12 +180,13 @@ agradable. Consulta su [web](http://blandyswinelodge.com) para saber los horario
 Te damos algunas ideas. Funchal tiene algunas exquisiteces comestibles autóctonas que 
 merece la pena conocer. Uno de los dulces típicos es el **bolo de mel**. Se hace con 
 melaza de caña de azúcar, harina, especias, hierbas aromáticas y frutos secos. Un 
-‘cañonazo’ incluso para los más golosos (a tu abuela le va a encantar). Lo venden en la [Fábrica 
-de Santo Antonio](http://fabricastoantonio.com), un establecimiento, fundado en 1893, 
-con mucha historia ¡y con mucha clientela! También se ha puesto de moda un producto 
-mucho más reciente que también merece la pena probar. Son los bombones de [UAUcacao](http://uaucacau.com). 
-A gozar con el bombón de pistacho, vino de Madeira, fresa, mandarina, maracuyá… Algo 
-tradicional (no comestible) son las mantelerías bordadas, la ropa de cama o de bebé… 
+‘cañonazo’ incluso para los más golosos (a tu abuela le va a encantar). Lo venden en la 
+[Fábrica de Santo Antonio](http://fabricastoantonio.com), un establecimiento, fundado en 
+1893, con mucha historia ¡y con mucha clientela! También se ha puesto de moda un 
+producto mucho más reciente que también merece la pena probar. Son los bombones de 
+[UAUcacao](http://uaucacau.com). A gozar con el bombón de pistacho, vino de Madeira, 
+fresa, mandarina, maracuyá… Algo tradicional (no comestible) son las mantelerías 
+bordadas, la ropa de cama o de bebé… 
 
 El bordado artesanal de Funchal es algo único. Visita el [taller](http://bordal.pt) 
 Bordal y conocerás una de las tradiciones más auténticas de Madeira. Igual compras unos 
@@ -238,8 +239,6 @@ quieres hacer una excursión a Porto Santo es recomendable alargar la estancia a
 
 ### Más Madeira en Etheria Magazine
 
-📍 [Madeira con amigas, 10 experiencias para una escapada 
-corta](https://etheriamagazine.com/2019/04/19/viajar-con-amigas-que-ver-madeira/). 
+📍 {{< reflink path=posts/2019/04/viajar-con-amigas-que-ver-madeira >}}. 
 
-📍[Porto Santo, la isla 
-tranquila](https://etheriamagazine.com/2019/02/05/que-ver-porto-santo-madeira/).
+📍{{< reflink path=posts/2019/02/que-ver-porto-santo-madeira >}}.

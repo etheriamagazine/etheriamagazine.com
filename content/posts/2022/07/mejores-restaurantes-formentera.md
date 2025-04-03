@@ -1,7 +1,7 @@
 ---
 title: "Dónde comer bien en Formentera sin perder de vista la mano femenina"
 date: 2022-07-27
-coverImage: https://fotos.etheriamagazine.com/2022/07/Formentera-Fandango.jpg
+cover: https://fotos.etheriamagazine.com/2022/07/Formentera-Fandango.jpg
 categories: 
   - viajar-sola
   - gourmet
@@ -47,10 +47,11 @@ Post](#sol-post).
 Una vez que has alquilado tu medio de transporte, puedes empezar viendo el atardecer 
 mientras te tomas un cóctel en el [Hostal la 
 Savina](https://www.hostal-lasavina.com/es/), con las vistas del precioso estany des 
-Peix como decorado, antes de pasar a cenar al restaurante [Quimera](https://www.quimerarestaurant.com/es/). 
-Allí reina la **chef Ana Jiménez**, que encontró la paz que no hallaba en Barcelona en 
-la que se conoce como “la Isla de las Mujeres”, aparte de por un tema histórico porque 
-saca de nosotras toda la feminidad a la par que la fortaleza para poder con todo. 
+Peix como decorado, antes de pasar a cenar al restaurante 
+[Quimera](https://www.quimerarestaurant.com/es/). Allí reina la **chef Ana Jiménez**, 
+que encontró la paz que no hallaba en Barcelona en la que se conoce como “la Isla de las 
+Mujeres”, aparte de por un tema histórico porque saca de nosotras toda la feminidad a la 
+par que la fortaleza para poder con todo. 
 
 ![Chef Ana Jiménez en el restaurante Quimera.](https://fotos.etheriamagazine.com/2022/07/formentera-quimera.jpg "Ana Jiménez en el restaurante Quimera.")
 
@@ -173,23 +174,24 @@ las vistas de los 69 km de costas de Levante y de Poniente a vista de pájaro.
 
 ### 7\. Restaurante Cafuné, dirigido por María Ortiz
 
-De bajada, vamos a parar a mitad de camino en [Cafuné](https://cafune-formentera.negocio.site/) 
-para ver la puesta de sol en este lugar habilitado por **María Ortiz** con su socio 
-Renato Flores de Almeida y su cocinero Juanjo Marí a los fuegos, para conservar una 
-filosofía bien apegada a los años en los que la isla no estaba atestada de locos tirando 
-latas según van en moto por la carretera. 
+De bajada, vamos a parar a mitad de camino en 
+[Cafuné](https://cafune-formentera.negocio.site/) para ver la puesta de sol en este 
+lugar habilitado por **María Ortiz** con su socio Renato Flores de Almeida y su cocinero 
+Juanjo Marí a los fuegos, para conservar una filosofía bien apegada a los años en los 
+que la isla no estaba atestada de locos tirando latas según van en moto por la 
+carretera. 
 
 ### 8\. Restaurante Casbah, con la chef Marta Cacheiro
 
-Para alojarte y/o cenar, el hotel [Casbah](https://www.hotelcasbahformentera.com/es/hotel-rural-formentera) 
-se esconde en medio de un bosque de pinos y, cuando entras a su jardín, te evades del 
-mundanal ruido y te abduce la cocina de **Martina Cacheiro**. Esta gallega en ocho años 
-ha elevado su restaurante al top de la isla con _delicatessen_ como la sabrosa croqueta 
-de gamba roja con salsa kimchi, el delicado tartar de gambas rojas con pistacho 
-ajoblanco y cabezas, y la suavérrima brandada de bacalao con mermelada de cebolla y piel 
-crujiente del bacalao. Por no hablar de la explosiva vieira con crema de chirivía con 
-cubitos de manzana, que tiene el mismo nivel que su ravioli de rabo de vaca con queso 
-manchego, setas y trufa. 
+Para alojarte y/o cenar, el hotel 
+[Casbah](https://www.hotelcasbahformentera.com/es/hotel-rural-formentera) se esconde en 
+medio de un bosque de pinos y, cuando entras a su jardín, te evades del mundanal ruido y 
+te abduce la cocina de **Martina Cacheiro**. Esta gallega en ocho años ha elevado su 
+restaurante al top de la isla con _delicatessen_ como la sabrosa croqueta de gamba roja 
+con salsa kimchi, el delicado tartar de gambas rojas con pistacho ajoblanco y cabezas, y 
+la suavérrima brandada de bacalao con mermelada de cebolla y piel crujiente del bacalao. 
+Por no hablar de la explosiva vieira con crema de chirivía con cubitos de manzana, que 
+tiene el mismo nivel que su ravioli de rabo de vaca con queso manchego, setas y trufa. 
 
 Una buena muestra del nivelazo que tiene esta cocinera que define su cocina como 
 **tradicional y femenina**, por la apabullante sutileza con la que trata el producto 
@@ -223,9 +225,10 @@ recién llegados de Ibiza, pagas por el postureo más que por comer bien.
 ### Una pausa en Sant Francesc, el epicentro
 
 La capital es pequeñita pero concentra mucha belleza, sobre todo en sus boutiques con el 
-estilo balear que vas a querer lucir en sus múltiples bares. Como el [Salvatge](https://barsalvatge.com/), 
-que te gustará si te atraen los vinos naturales, pues tienen más de 100 'de vignerons 
-salvajes', tablas para compartir y platillos de productos autóctonos. 
+estilo balear que vas a querer lucir en sus múltiples bares. Como el 
+[Salvatge](https://barsalvatge.com/), que te gustará si te atraen los vinos naturales, 
+pues tienen más de 100 'de vignerons salvajes', tablas para compartir y platillos de 
+productos autóctonos. 
 
 Eso sí, si te gusta el buen vino, si eres un auténtico _friki_ del vino, tu lugar en el 
 mundo es [Vins i mes](https://www.facebook.com/vinsimesformentera/). Ese ‘más’ se 
@@ -314,8 +317,7 @@ Fotografías cedidas por los restaurantes mencionados en este reportaje.
 
 ## También te puede interesar
 
-[20 restaurantes románticos de Ibiza para ir en 
-pareja](https://etheriamagazine.com/2020/02/14/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja/) 
+{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
+>}} 
 
-[10 errores que debes evitar si vas a Ibiza con 
-amigas](https://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/)
+{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}

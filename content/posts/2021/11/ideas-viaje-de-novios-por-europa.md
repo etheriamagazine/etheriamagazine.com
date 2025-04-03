@@ -1,7 +1,7 @@
 ---
 title: "Viajes de novios por Europa: 10 propuestas para acertar seguro"
 date: 2021-11-19
-coverImage: https://fotos.etheriamagazine.com/2021/11/everton-vila-AsahNlC0VhQ-unsplash.jpg
+cover: https://fotos.etheriamagazine.com/2021/11/everton-vila-AsahNlC0VhQ-unsplash.jpg
 categories: 
   - viajar-en-pareja
   - inspiración
@@ -12,10 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-La forma más soñada de una luna de miel toma forma de gran viaje y playas paradisíacas, 
-pero a menudo no hace falta irse muy lejos para disfrutar de lugares maravillosos llenos 
-de interés viajero. En este artículo os demostramos con solo 10 opciones (hay muchas 
-más) por qué Europa es perfecta para vuestro viaje de novios. 
+**La forma más soñada de una luna de miel toma forma de gran viaje y playas 
+paradisíacas, pero a menudo no hace falta irse muy lejos para disfrutar de lugares 
+maravillosos llenos de interés viajero. En este artículo os demostramos con solo 10 
+opciones (hay muchas más) por qué Europa es perfecta para vuestro viaje de novios.** 
 
 ![Un viaje de novios por Europa es una excelente opción.](https://fotos.etheriamagazine.com/2021/11/everton-vila-AsahNlC0VhQ-unsplash.jpg "Un viaje de novios por Europa es una excelente opción.")
 
@@ -43,8 +43,7 @@ irresistible. También puedes dedicar unos días a la maravillosa isla de Creta 
 ahora de moda gracias a la serie de televisión “Los Durrell”. Las Islas Griegas ofrecen 
 tantos viajes que os costará decidiros. 
 
-📌 [Crucero por las Islas 
-Griegas](https://etheriamagazine.com/2019/01/03/que-visitar-crucero-por-islas-griegas/) 
+📌 {{< reflink path=posts/2019/01/que-visitar-crucero-por-islas-griegas >}} 
 
 ## Laponia: blanca luna de miel
 
@@ -53,9 +52,9 @@ llena de aventuras en la nieve. Además de las tradicionales excursiones de pase
 trineo tirado por perros husky o renos, motos de nieve o esquí de fondo se suman algunas 
 actividades de lo más románticas. ¿Os imagináis durmiendo en una preciosa cabaña de 
 madera disfrutando de una cálida chimenea o durmiendo en un iglú con el techo de cristal 
-para ver las auroras boreales? Existen varios alojamientos de este tipo, como las [Aurora 
-Buble del Nellim Hotel](https://nellim.fi/nellim/accommodation/aurora-bubble/) o las 
-habitaciones del hotel [Levin Iglut](https://leviniglut.net/). 
+para ver las auroras boreales? Existen varios alojamientos de este tipo, como las 
+[Aurora Buble del Nellim Hotel](https://nellim.fi/nellim/accommodation/aurora-bubble/) o 
+las habitaciones del hotel [Levin Iglut](https://leviniglut.net/). 
 
 ![Aurora boreal en Laponia.](https://fotos.etheriamagazine.com/2021/11/6-NUESTROS-TOP-LAPONIA-FOTO-6-aurora-borealis-1156479-PIXABAY.jpg "Aurora boreal en Laponia.")
 
@@ -68,11 +67,9 @@ directamente. Además, aunque este viaje se suele asociar a las vacaciones de Na
 el factor “Papá Noel”, la nieve suele durar hasta principios de abril, por lo que es 
 perfecto para las bodas de los primeros meses del año. 
 
-📌 [7 excursiones que no puedes perderte en la Laponia 
-finlandesa](https://etheriamagazine.com/2019/10/31/siete-excursiones-en-laponia-finlandesa/) 
+📌 {{< reflink path=posts/2019/10/siete-excursiones-en-laponia-finlandesa >}} 
 
-📌 [Una maleta para… Laponia 
-finlandesa](https://etheriamagazine.com/2018/09/15/una-maleta-para-laponia-finlandesa/) 
+📌 {{< reflink path=posts/2018/09/una-maleta-para-laponia-finlandesa >}} 
 
 ## Costa Azul, glamur, flores y playas de foto
 
@@ -94,8 +91,7 @@ poner un buen broche al viaje podéis realizar una excursión en barco o daros e
 recorrer el Mediterráneo en una excursión en un yate privado y recorrer la Costa Azul 
 como auténticas ‘celebrities’. 
 
-📌 [Ruta por los jardines y perfumes de la Costa 
-Azul](https://etheriamagazine.com/2021/07/07/ruta-de-los-jardines-costa-azul-francia/) 
+📌 {{< reflink path=posts/2021/07/ruta-de-los-jardines-costa-azul-francia >}} 
 
 ## Islandia: naturaleza en estado puro
 
@@ -114,8 +110,7 @@ ballenas en este agitado mar. Nuestra recomendación es dedicar un par de días 
 capital e iniciar después una ruta en coche de alquiler a vuestro aire para disfrutar de 
 este país en total libertad. 
 
-📌 [Viaje por el sur de Islandia, la isla del 
-desafío](https://etheriamagazine.com/2021/03/25/que-ver-sur-islandia-consejos-practicos/) 
+📌 {{< reflink path=posts/2021/03/que-ver-sur-islandia-consejos-practicos >}} 
 
 ## Sur de Italia: romanticismo en Apulia
 
@@ -134,19 +129,17 @@ llamadas trullis y una historia llena de picaresca que merece la pena conocer. Y
 queréis renunciar a la playa en vuestro viaje de novios por Europa, os encantarán las de 
 Salento o las de Bari. 
 
-📌 [Esto es lo que ocurrirá si haces un viaje romántico a 
-Apulia](https://etheriamagazine.com/2019/11/25/que-ver-hacer-viaje-romantico-apulia-italia/) 
+📌 {{< reflink path=posts/2019/11/que-ver-hacer-viaje-romantico-apulia-italia >}} 
 
-📌 [Secretos de Alberobello, un ‘pícaro’ pueblo italiano de 
-Puglia](https://etheriamagazine.com/2019/04/15/que-ver-alberobello-italia-unesco/) 
+📌 {{< reflink path=posts/2019/04/que-ver-alberobello-italia-unesco >}} 
 
 ## Noruega: Oslo y los fiordos
 
 Noruega ofrece una luna de miel diferente, donde la naturaleza es la gran protagonista 
 del viaje y ofrece unos paisajes difíciles de igualar en otras zonas del mundo. Una 
 opción llena de interés y que cada vez gana más adeptos es pasar unos días en **Oslo** 
-para conocer su capital y acudir a alguno de sus restaurantes de moda (no os perdáis [Maaemo](https://maaemo.no/)) 
-para después iniciar una ruta por los fiordos noruegos. 
+para conocer su capital y acudir a alguno de sus restaurantes de moda (no os perdáis 
+[Maaemo](https://maaemo.no/)) para después iniciar una ruta por los fiordos noruegos. 
 
 ![Mirador sobre el fiordo de Geiranger.](https://fotos.etheriamagazine.com/2021/11/Fiordo-geiranger-Noruega-Etheria-14.jpg "Mirador sobre el fiordo de Geiranger. © Felix Lorenzo")
 
@@ -158,16 +151,14 @@ en ferry. Lo que no puede faltar de ninguna manera es pasar por la preciosa loca
 **Lysefjord** (el situado más al sur), **Nærøyfjord** y **Geirangerfjord**, estos dos 
 últimos Patrimonio de la Humanidad por la Unesco. 
 
-Para ambientarte, tienes que echar un ojo a nuestro reportaje [Prepara tu viaje a 
-Noruega](https://etheriamagazine.com/2020/08/18/prepara-tu-viaje-libros-series-de-noruega/), 
-con recomendaciones de películas y libros sobre este país. Además, en Etheria Magazine 
-nos fascina tanto Noruega que le hemos dedicado varios artículos: 
+Para ambientarte, tienes que echar un ojo a nuestro reportaje {{< reflink 
+path=posts/2020/08/prepara-tu-viaje-libros-series-de-noruega >}}, con recomendaciones de 
+películas y libros sobre este país. Además, en Etheria Magazine nos fascina tanto 
+Noruega que le hemos dedicado varios artículos: 
 
-📌 [Recorre las 3 capitales de Noruega: Trondheim, Bergen y 
-Oslo](https://etheriamagazine.com/2020/01/24/que-ver-en-noruega-trondheim-bergen-y-oslo/) 
+📌 {{< reflink path=posts/2020/01/que-ver-en-noruega-trondheim-bergen-y-oslo >}} 
 
-📌 [11 razones por las que deberías viajar a 
-Noruega](https://etheriamagazine.com/2018/12/13/razones-para-viajar-a-noruega/) 
+📌 {{< reflink path=posts/2018/12/razones-para-viajar-a-noruega >}} 
 
 ## Croacia: la costa y sus islas
 
@@ -189,11 +180,10 @@ Si queréis una luna de miel original y privada, tened muy en cuenta la opción 
 concurrido de sus islas y descubrir calas desiertas y escondidas bañadas por un mar tan 
 transparente que no parece real. 
 
-📌 [Croacia: consejos y visitas imprescindibles para tu primer 
-viaje](https://etheriamagazine.com/2021/01/22/viaje-a-croacia-como-organizar-que-ver-hacer/) 
+📌 {{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}} 
 
-📌 [10 razones para visitar en otoño el Parque Nacional Lagos de Plitvice 
-(Croacia)](https://etheriamagazine.com/2018/10/05/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia/) 
+📌 {{< reflink 
+path=posts/2018/10/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia >}} 
 
 ## Repúblicas Bálticas: una ruta por Estonia, Letonia y Lituania
 
@@ -226,14 +216,12 @@ Además, las otras islas del archipiélago, **Gozo** y **Comino**, son perfectas
 hacer una excursión en la que desconectar de todo y disfrutar de un mar tan azul que no 
 os lo vais a poder creer. Por cierto, si sois amantes del cine y las series, en Malta 
 podréis recorrer algunos célebres escenarios de producciones como 'Juego de Tronos', 
-'Gladiator' o 'Troya', ya os lo contamos en nuestro artículo [Malta, el Hollywood 
-Mediterráneo](https://etheriamagazine.com/2019/06/14/viajes-cine-malta-hollywood-mediterraneo/). 
+'Gladiator' o 'Troya', ya os lo contamos en nuestro artículo {{< reflink 
+path=posts/2019/06/viajes-cine-malta-hollywood-mediterraneo >}}. 
 
-📌 [Planes en Malta, un destino mediterráneo que nunca 
-defrauda](https://etheriamagazine.com/2019/11/19/que-ver-hacer-malta-gozo-comino-5-dias-con-amigas/) 
+📌 {{< reflink path=posts/2019/11/que-ver-hacer-malta-gozo-comino-5-dias-con-amigas >}} 
 
-📌 [La isla de Gozo, un lugar donde querrás quedarte a 
-vivir](https://etheriamagazine.com/2021/04/29/que-ver-hacer-gozo-malta/) 
+📌 {{< reflink path=posts/2021/04/que-ver-hacer-gozo-malta >}} 
 
 ## Centroeuropa: grandeza imperial en Praga, Viena y Budapest
 
@@ -256,11 +244,9 @@ hará corta vuestra estancia. Y si queréis un toque de lujo, encontraréis prec
 hoteles históricos de cinco estrellas y restaurantes gourmet para celebrar como se 
 merece vuestra luna de miel. 
 
-📌 [48 horas en… Praga para cosechar el 
-otoño](https://etheriamagazine.com/2019/09/16/que-hacer-ver-2-dias-en-praga-museos-festivales/) 
+📌 {{< reflink path=posts/2019/09/que-hacer-ver-2-dias-en-praga-museos-festivales >}} 
 
-📌 [Karlovy Vary, Mariánské Lázně y Františkovy Lázně, el Triángulo balneario 
-checo.](https://etheriamagazine.com/2021/08/13/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy/) 
+📌 {{< reflink 
+path=posts/2021/08/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy >}} 
 
-📌 [No te pierdas el renovado Matild Palace, tu hotel de lujo en 
-Budapest](https://etheriamagazine.com/2021/08/16/hotel-de-lujo-en-budapest-matild-palace/)
+📌 {{< reflink path=posts/2021/08/hotel-de-lujo-en-budapest-matild-palace >}}

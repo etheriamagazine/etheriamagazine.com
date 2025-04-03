@@ -1,7 +1,7 @@
 ---
 title: "El test de Bechdel o cómo medir el sexismo en el Cine: la polémica está servida"
 date: 2021-01-11
-coverImage: https://fotos.etheriamagazine.com/2021/01/Test-Cartel-La-Boda-de-Rosa.jpg
+cover: https://fotos.etheriamagazine.com/2021/01/Test-Cartel-La-Boda-de-Rosa.jpg
 categories: 
   - inspiración
 destino: 
@@ -198,11 +198,8 @@ tanto, el test Bechdel nos mantiene alertas. Y, tú, esa película que vas a ir 
 
 #### También te puede interesar...
 
-[Ruta gastronómica de ‘Foodie Love’ (HBO 
-España)](https://etheriamagazine.com/2019/12/16/ruta-gastronomica-de-foodie-love-hbo-espana/) 
+{{< reflink path=posts/2019/12/ruta-gastronomica-de-foodie-love-hbo-espana >}} 
 
-[10 películas rodadas en 
-Jordania](https://etheriamagazine.com/2019/08/06/viajes-cine-peliculas-rodadas-en-jordania/) 
+{{< reflink path=posts/2019/08/viajes-cine-peliculas-rodadas-en-jordania >}} 
 
-[Malta, el Hollywood del 
-Mediterráneo](https://etheriamagazine.com/2019/06/14/viajes-cine-malta-hollywood-mediterraneo/)
+{{< reflink path=posts/2019/06/viajes-cine-malta-hollywood-mediterraneo >}}

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Regina Experimental, un histórico de Biarritz con nueva imagen"
 date: 2024-05-23
-coverImage: https://fotos.etheriamagazine.com/2024/05/hotel-regina-piscina.jpg
+cover: https://fotos.etheriamagazine.com/2024/05/hotel-regina-piscina.jpg
 categories: 
   - hoteles
 destino: 
@@ -116,5 +116,6 @@ l'Impératrice, Biarritz. Tel. +33 (0)5 59 41 33 00.
 
 **También te puede interesar:** 
 
-[País Vasco Francés, una ruta llena de elegancia y 
-sabor](https://etheriamagazine.com/2020/08/24/que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare/)
+{{< reflink 
+path=posts/2020/08/que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare 
+>}}

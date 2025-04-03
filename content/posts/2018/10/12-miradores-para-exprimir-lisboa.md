@@ -1,7 +1,7 @@
 ---
 title: "12 miradores de Lisboa para enamorarse de sus vistas"
 date: 2018-10-30
-coverImage: https://fotos.etheriamagazine.com/2018/10/Miradores-de-Lisboa-e1566028365742.jpg
+cover: https://fotos.etheriamagazine.com/2018/10/Miradores-de-Lisboa-e1566028365742.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
@@ -11,10 +11,10 @@ authors:
   - Kelu Robles
 ---
 
-La mejor forma de establecer una primera toma de contacto con una ciudad como Lisboa es 
-a través de sus 'miradouros', que te ayudarán a extraer la esencia de la capital del 
+**La mejor forma de establecer una primera toma de contacto con una ciudad como Lisboa 
+es a través de sus 'miradouros', que te ayudarán a extraer la esencia de la capital del 
 fado. Algunos de los miradores de Lisboa te lo pondrán muy fácil pero para otros tendrás 
-que poner un poco de tu parte. ¿Estás dispuesta a descubrirlos con nosotras? 
+que poner un poco de tu parte. ¿Estás dispuesta a descubrirlos con nosotras?** 
 
 ![miradores de Lisboa](https://fotos.etheriamagazine.com/2018/10/Miradores-de-Lisboa-e1566028365742.jpg "miradores de lisboa, que ver en lisboa, vistas de lisboa")
 
@@ -188,11 +188,9 @@ Lisboa](https://www.visitlisboa.com/es).
 
 **También te puede interesar...** 
 
-[8 visitas originales en Lisboa que (quizá) te quedan por 
-hacer](https://etheriamagazine.com/2021/10/27/8-visitas-originales-en-lisboa/). 
+{{< reflink path=posts/2021/10/8-visitas-originales-en-lisboa >}}. 
 
-[Ruta de fados en Lisboa de la mano de Amália 
-Rodrigues](https://etheriamagazine.com/2020/12/30/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues/). 
+{{< reflink path=posts/2020/12/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues >}}. 
 
-[Lisboa y Ericeira, un plan cercano para amantes del mar, el surf y el buen 
-comer](https://etheriamagazine.com/2020/03/24/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf/).
+{{< reflink path=posts/2024/08/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf 
+>}}.

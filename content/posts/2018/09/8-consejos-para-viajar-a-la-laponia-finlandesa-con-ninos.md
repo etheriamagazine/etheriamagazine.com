@@ -1,7 +1,7 @@
 ---
 title: "8 consejos para viajar con niños a la Laponia Finlandesa"
 date: 2018-09-08
-coverImage: https://fotos.etheriamagazine.com/2018/04/Laponia-nina.jpg
+cover: https://fotos.etheriamagazine.com/2018/04/Laponia-nina.jpg
 categories: 
   - viajar-en-familia
   - inspiración
@@ -133,11 +133,8 @@ momento que nunca olvidarán.
 
 ## También te puede interesar:
 
-[7 excursiones que no puedes perderte en la Laponia 
-finlandesa](https://etheriamagazine.com/2019/10/31/siete-excursiones-en-laponia-finlandesa/) 
+{{< reflink path=posts/2019/10/siete-excursiones-en-laponia-finlandesa >}} 
 
-[Laponia con niños: un viaje 
-irrepetible](https://etheriamagazine.com/2018/09/07/viaje-laponia-finlandesa-en-familia/) 
+{{< reflink path=posts/2018/09/viaje-laponia-finlandesa-ninos-en-familia >}} 
 
-[Una maleta para… Laponia 
-finlandesa](https://etheriamagazine.com/2018/09/15/una-maleta-para-laponia-finlandesa/)
+{{< reflink path=posts/2018/09/una-maleta-para-laponia-finlandesa >}}

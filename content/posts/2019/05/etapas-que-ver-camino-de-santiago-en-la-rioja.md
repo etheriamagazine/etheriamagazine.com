@@ -1,7 +1,7 @@
 ---
 title: "Camino de Santiago en La Rioja, un viaje que deja buen sabor de boca"
 date: 2019-05-01
-coverImage: https://fotos.etheriamagazine.com/2019/04/Camino-Santiago-La-Rioja-Santo-Domingo.jpg
+cover: https://fotos.etheriamagazine.com/2019/04/Camino-Santiago-La-Rioja-Santo-Domingo.jpg
 categories: 
   - viajar-sola
 destino: 
@@ -22,8 +22,7 @@ que el calor de nuestro hogar, que nos permite refugiarnos y construir un espaci
 donde recibir a la familia y los amigos, y desde el que partir hacia esta experiencia. 
 
 Por eso engancha. Más allá de las diferentes vías físicas para alcanzar la ciudad de 
-Santiago de Compostela o [el 
-Finisterrae](https://etheriamagazine.com/2019/03/06/camino-de-finisterre-fairway/) 
+Santiago de Compostela o {{< reflink path=posts/2019/03/camino-de-finisterre-fairway >}} 
 (Camino Francés, Camino del Norte, Camino de la Plata, Camino Portugués, etc.), el 
 Camino transforma. Porque concede un tiempo para uno mismo del que, en esta vida 
 angustiada de prisas y miedos, no disponemos o no queremos disponer en el día a día. Es, 
@@ -163,11 +162,9 @@ Touring.](https://guiasdeviajeanaya.es/destino/67_el-camino-de-santiago/)
 
 ### También te puede interesar:
 
-[Escapada al valle secreto de Ocón, un pellizco de La Toscana en La 
-Rioja](https://etheriamagazine.com/2020/10/26/viaje-la-rioja-vendimia-valle-de-ocon/) 
+{{< reflink path=posts/2020/10/viaje-la-rioja-vendimia-valle-de-ocon >}} 
 
-[Planes de invierno en La Rioja: mucho más que 
-vino](https://etheriamagazine.com/2019/12/13/que-ver-en-invierno-a-la-rioja-planes-con-amigas-o-en-familia/) 
+{{< reflink 
+path=posts/2019/12/que-ver-en-invierno-a-la-rioja-planes-con-amigas-o-en-familia >}} 
 
-[Ruta por el paisaje gastronómico de La 
-Rioja](https://etheriamagazine.com/2019/01/23/ruta-gastronomica-en-la-rioja/)
+{{< reflink path=posts/2019/01/ruta-gastronomica-en-la-rioja >}}
