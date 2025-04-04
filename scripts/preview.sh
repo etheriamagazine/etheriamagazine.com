@@ -7,7 +7,7 @@ export HUGO_MODULE_WORKSPACE=hugo.work
 hugo
 
 # pagefind index
-bunx pagefind
+# bunx pagefind
 
 # run honojs app
 bun --watch run ./backend/index.ts

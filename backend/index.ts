@@ -1,9 +1,10 @@
 import { Hono } from 'hono';
 import { serveStatic } from 'hono/bun';
+
 import { plausibleProxy } from './plausible';
 import newsletter from './newsletter';
 
-// allow ctrl+c to shut down container
+// Allow ctrl+c to shut down container
 process.on('SIGINT', () => {
   process.exit();
 });
@@ -11,6 +12,18 @@ process.on('SIGINT', () => {
 const port = parseInt(process.env['PORT'] || '') || 3000;
 
 const app = new Hono();
+
+// Redirect old WordPress post links
+app.get(
+  '/:year{[0-9]{4}}/:month{[0-9]{2}}/:day{[0-9]{2}}/:slug{.+\/?}',
+  async (c) => {
+    const slug = c.req.param('slug');
+
+    // Note: Hugo uses pretty urls that end in a trailing slash,
+    // so we add it in the redirect location
+    return c.redirect(`/articulos/${slug}/`, 301);
+  },
+);
 
 // Serve hugo site
 app.use('/*', serveStatic({ root: './public' }));
