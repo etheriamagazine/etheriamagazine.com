@@ -11,11 +11,13 @@ authors:
   - Redacción Etheria
 ---
 
-**Si este verano has elegido viajar a Málaga con niños no te pierdas estas 8 excursiones 
+Si este verano has elegido viajar a Málaga con niños no te pierdas estas 8 excursiones 
 para que no todo sea pasar el día en la playa: senderismo, museos interactivos, un 
-teleférico y hasta unas cuevas. No os vais a aburrir ni un momento.** 
+teleférico y hasta unas cuevas. No os vais a aburrir ni un momento. 
 
 ![Selwo Aventura, una actividad en Málaga con niños](https://fotos.etheriamagazine.com/2021/07/Malaga-ninos-selwo.jpg "Selwo Aventura. © Parques Reunidos")
+
+Artículo actualizado en abril de 2025 
 
 Si eliges un destino como la costa malagueña para pasar tus vacaciones en familia seguro 
 que tu principal objetivo es disfrutar del sol y la playa. Pero esta provincia ofrece 
@@ -29,7 +31,7 @@ Los parques con animales les encantan a los niños, así que no puedes perderte 
 a Selwo Aventura en Estepona . Además de conocer a los distintos animales de los 
 continentes africano, europeo y asiático, en este parque podréis divertiros con 
 experiencias como los puentes colgantes, una enorme tirolina sobre un lago y las camas 
-elásticas. M´ás información en www.selwo.es 
+elásticas. Más información en www.selwo.es 
 
 ![Parque Selwo con un puente colgante y cabañas](https://fotos.etheriamagazine.com/2021/07/Malaga-ninos-selwo-puente.jpg "Puente colgante en Selwo. © Parques Reunidos")
 
@@ -38,6 +40,10 @@ por la Reserva de los Lagos en coche todoterreno con la que os acercaréis mucho
 los animales mientras un guía experto os cuenta todos los detalles. También está 
 disponible en el parque una **experiencia VIP** para grupos reducidos que combina un 
 recorrido a pie con otro en vehículo acompañados de un guía (almuerzo incluido). 
+
+Puedes comprar la entrada de [Selwo 
+Aventura](https://www.civitatis.com/es/estepona/entrada-selwo-aventura/?aid=10211) en 
+Civitatis. 
 
 ## Nerja y su cueva
 
@@ -71,7 +77,8 @@ de la Costa del Sol, Sierra Nevada y, si hay suerte, África.
 Una buena opción para pasar la mañana es dar un paseo por alguna de las seis sendas 
 señalizadas y descubrir así las plantas típicas de la zona como el tomillo, la mejorana 
 o la jara. Toda la información de precios, horarios y rutas la puedes encontrar en 
-www.telefericobenalmadena.com 
+www.telefericobenalmadena.com. También puedes comprar la entrada en 
+[Civitatis](https://www.civitatis.com/es/benalmadena/entrada-teleferico-benalmadena/?aid=10211). 
 
 ## El Torcal de Antequera
 
@@ -127,6 +134,11 @@ se ubica entre los dos brazos con los que el Guadalhorce desemboca en el mar, un
 perfecto para avistar aves (hay varios observatorios) que está dotado de senderos 
 señalizados donde se puede dar un cómodo paseo con niños. 
 
+Si los niños no son muy pequeños, os podéis animar a hacer una [ruta en quad por el río 
+Guadalhorce](https://www.civitatis.com/es/malaga/tour-quad-rio-guadalhorce/?aid=10211) 
+con Civitatis (sólo lo pueden hacer niños mayores de 7 años y hasta 18 años la actividad 
+es gratis). 
+
 ![Desembocadura del río Guadalhorce.](https://fotos.etheriamagazine.com/2021/07/Malaga-ninos-desembocadura-Guadlhhoce.jpg "Desembocadura del río Guadalhorce. © Quino Al.")
 
 ## Parque Nacional Sierra de las Nieves
@@ -157,6 +169,10 @@ del Agua** para disfrutar de la vegetación mediterránea.
 No os podéis perder tapear por el centro y visitar la playa de La Carihuela. Os lo 
 contamos todo en el reportaje de Etheria Magazine {{< reflink 
 path=posts/2021/05/planes-imprescindibles-torremolinos >}}. 
+
+Puedes descubrir todos estos rincones con un [Free Tour por 
+Torremolinos](https://www.civitatis.com/es/torremolinos/visita-guiada-torremolinos/?aid=10211) 
+de Civitatis. 
 
 **Más planes con niños** 
 
