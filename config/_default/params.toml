@@ -1,4 +1,7 @@
 
+[gitinfo]
+  repositoryUrl = "https://github.com/etheriamagazine/hugo-modules"
+
 [content]
   defaultCoverImage = "https://placehold.co/1200x900"
   deafutlAuthor = "??"
