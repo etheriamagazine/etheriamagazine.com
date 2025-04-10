@@ -11,10 +11,12 @@ RUN apk update && apk --no-cache add bash curl unzip  && \
 
 ENV PATH="${PATH}:/root/.bun/bin"
 
-# install dependencies
-COPY . /src
-
+WORKDIR ./src
+COPY package.json bun.lockb ./
 RUN bun install --frozen-lockfile
+
+# install dependencies
+COPY . .
 
 # copy rest of source source
 
