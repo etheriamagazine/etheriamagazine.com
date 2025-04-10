@@ -43,9 +43,8 @@ RUN npx pagefind
 FROM oven/bun:latest
 
 # copy bun app
-COPY package.json bun.lockb backend ./
-# COPY bun.lockb ./
-# COPY backend ./backend
+COPY package.json bun.lockb ./
+COPY backend ./backend
 
 RUN bun install
 
