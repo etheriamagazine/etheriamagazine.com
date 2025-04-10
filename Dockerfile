@@ -27,7 +27,7 @@ RUN \
     hugo --minify --enableGitInfo
 
 # build pagefind index
-RUN bun run pagefind
+RUN npx pagefind
 
 # rerun hugo to include built index
 # RUN \
