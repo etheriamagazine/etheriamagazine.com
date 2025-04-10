@@ -10,6 +10,9 @@ summaryLength = 20
   [build.buildStats]
     enable = true
 
+[frontmatter]
+  lastmod = ['lastmod', 'modified', 'date', 'publishDate', 'pubdate']
+
 [outputs]
   home = ["html"]
 
