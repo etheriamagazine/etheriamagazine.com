@@ -1,4 +1,4 @@
-# ==============================================================================
+# ====================================================
 # hugo site build
 # See https://docker.hugomods.com/docs/introduction/
 
@@ -12,13 +12,13 @@ RUN apk update && apk --no-cache add bash curl unzip  && \
 ENV PATH="${PATH}:/root/.bun/bin"
 
 WORKDIR /src
+
+# install dependencies
 COPY package.json bun.lockb ./
 RUN bun install --frozen-lockfile
 
-# install dependencies
-COPY . .
-
 # copy rest of source source
+COPY . .
 
 # run hugo passing secrets
 RUN \
@@ -32,14 +32,14 @@ RUN \
 RUN bun run pagefind
 
 
-# ==============================================================================
+# ====================================================
 # final image
 
 FROM oven/bun:latest
 
 # install only production dependencies (not devDependencies)
 COPY package.json bun.lockb ./
-RUN bun install --production
+RUN bun install --frozen-lockfile --production
 
 # copy bun app
 COPY backend ./backend
