@@ -6,17 +6,17 @@
 FROM hugomods/hugo:latest AS hugo
 
 # install bun
-# RUN apk update && apk --no-cache add bash curl unzip  && \
-# curl https://bun.sh/install | bash
+RUN apk update && apk --no-cache add bash curl unzip  && \
+curl https://bun.sh/install | bash
 
-# ENV PATH="${PATH}:/root/.bun/bin"
+ENV PATH="${PATH}:/root/.bun/bin"
 
-# copy source
+# install dependencies
+COPY package.json bun.lockb ./src
+RUN bun install --frozen-lockfile
+
+# copy rest of source source
 COPY . /src
-
-# install deps
-# RUN bun install --frozen-lockfile
-RUN npm install
 
 # run hugo passing secrets
 RUN \
@@ -24,30 +24,23 @@ RUN \
     --mount=type=secret,id=HUGO_IMGPROXY_SALT \
     HUGO_IMGPROXY_KEY="$(cat /run/secrets/HUGO_IMGPROXY_KEY)" \
     HUGO_IMGPROXY_SALT="$(cat /run/secrets/HUGO_IMGPROXY_SALT)" \
-    hugo --minify --enableGitInfo
+    hugo
 
 # build pagefind index
-RUN npx pagefind
+RUN bun run pagefind
 
-# rerun hugo to include built index
-# RUN \
-#     --mount=type=secret,id=HUGO_IMGPROXY_KEY \
-#     --mount=type=secret,id=HUGO_IMGPROXY_SALT \
-#     HUGO_IMGPROXY_KEY="$(cat /run/secrets/HUGO_IMGPROXY_KEY)" \
-#     HUGO_IMGPROXY_SALT="$(cat /run/secrets/HUGO_IMGPROXY_SALT)" \
-#     hugo --minify --enableGitInfo
 
 # ==============================================================================
 # final image
 
 FROM oven/bun:latest
 
-# copy bun app
+# install only production dependencies (not devDependencies)
 COPY package.json bun.lockb ./
-COPY backend ./backend
-
-# install only dependencies (not devDependencies)
 RUN bun install --production
+
+# copy bun app
+COPY backend ./backend
 
 # set
 ENV PORT=8080
