@@ -46,7 +46,8 @@ FROM oven/bun:latest
 COPY package.json bun.lockb ./
 COPY backend ./backend
 
-RUN bun install
+# install only dependencies (not devDependencies)
+RUN bun install --production
 
 # set
 ENV PORT=8080
