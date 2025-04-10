@@ -1,10 +1,9 @@
 baseURL = "https://etheriamagazine-com.fly.dev/"
 title = "Etheria Magazine"
 defaultContentLanguage = "es"
-
+enableGitInfo = true
 removePathAccents = true
 summaryLength = 20
-
 
 [build]
   # this is necessary in production so that hugo_stats.json is picked by tailwindcss
@@ -12,19 +11,21 @@ summaryLength = 20
     enable = true
 
 [outputs]
-  home = ["html", "json"]
+  home = ["html"]
 
 [taxonomies]
   category = "categories"
   author = "authors"
   destino = "destino"
 
+[pagination]
+  disableAliases = false
+  pagerSize = 20
+  path = "page"
 
 [permalinks]
   [permalinks.page]
     posts = "/articulos/:filename"
-    publicidad = "/publicidad/:slug"
-
 
   [permalinks.taxonomy]
     categories = "/categorias"
@@ -35,31 +36,25 @@ summaryLength = 20
     authors = "/autoras/:slug"
 
 
-
-[pagination]
-  disableAliases = false
-  pagerSize = 20
-  path = "page"
-
-
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-    [markup.goldmark.parser]
-      autoHeadingID = true
-      autoHeadingIDType = "github-ascii"
-      wrapStandAloneImageWithinParagraph = false
+  _merge = "deep"
 
 [minify]
-  disableJS = false
-  disableJSON = true
-  minifyOutput = true
-  [minify.tdewolff]
-    [minify.tdewolff.html]
-      keepComments = true
-      keepWhitespace = true
-      keepQuotes = true
+  _merge = "deep"
+  minifyOutput = false
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+
+  [[related.indices]]
+    name = 'authors'
+    weight = 2
+  [[related.indices]]
+    name = 'categories'
+    weight = 1
+
 
 [module]
   [[module.imports]]
