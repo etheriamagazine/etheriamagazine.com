@@ -7,16 +7,16 @@ FROM hugomods/hugo:latest AS hugo
 
 # install bun
 RUN apk update && apk --no-cache add bash curl unzip  && \
-curl https://bun.sh/install | bash
+  curl https://bun.sh/install | bash
 
 ENV PATH="${PATH}:/root/.bun/bin"
 
 # install dependencies
-COPY package.json bun.lockb ./src
+COPY . /src
+
 RUN bun install --frozen-lockfile
 
 # copy rest of source source
-COPY . /src
 
 # run hugo passing secrets
 RUN \
