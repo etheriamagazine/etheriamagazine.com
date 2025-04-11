@@ -16,13 +16,13 @@ WORKDIR /src
 # install dependencies
 COPY package.json bun.lockb go.mod go.sum ./
 RUN bun install --frozen-lockfile
-RUN hugo mod get
 
 # copy rest of source source
 COPY . .
 
 # run hugo passing secrets
 RUN \
+    --mount=type=cache,target=/tmp/hugo_cache/modules/ \
     --mount=type=secret,id=HUGO_IMGPROXY_KEY \
     --mount=type=secret,id=HUGO_IMGPROXY_SALT \
     HUGO_IMGPROXY_KEY="$(cat /run/secrets/HUGO_IMGPROXY_KEY)" \
@@ -34,7 +34,7 @@ RUN bun run pagefind
 
 
 # ====================================================
-# final image
+# final bun image based on debian slim
 
 FROM oven/bun:slim
 
