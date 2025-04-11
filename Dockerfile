@@ -1,8 +1,8 @@
-# ====================================================
-# hugo site build
+# ===============================================
+# hugo build
 # See https://docker.hugomods.com/docs/introduction/
 
-# Alpine Linux based image
+# alpine based image
 FROM hugomods/hugo:latest AS hugo
 
 # install bun
@@ -10,42 +10,52 @@ RUN apk update && apk --no-cache add bash curl unzip  && \
   curl https://bun.sh/install | bash
 
 ENV PATH="${PATH}:/root/.bun/bin"
+ENV HUGO_CACHEDIR=/tmp/hugo_cache
+ENV BUN_INSTALL_CACHE_DIR=/tmp/bun_cache
 
 WORKDIR /src
 
 # install dependencies
-COPY package.json bun.lockb go.mod go.sum ./
-RUN bun install --frozen-lockfile
+COPY package.json bun.lockb ./
+RUN \
+  --mount=type=cache,target=${BUN_INSTALL_CACHE_DIR} \
+  bun install --frozen-lockfile
 
-# copy rest of source source
+# copy rest of source
 COPY . .
 
-# run hugo passing secrets
+# run hugo passing secrets and cache mount
 RUN \
-    --mount=type=cache,target=/tmp/hugo_cache/modules/ \
-    --mount=type=secret,id=HUGO_IMGPROXY_KEY \
-    --mount=type=secret,id=HUGO_IMGPROXY_SALT \
-    HUGO_IMGPROXY_KEY="$(cat /run/secrets/HUGO_IMGPROXY_KEY)" \
-    HUGO_IMGPROXY_SALT="$(cat /run/secrets/HUGO_IMGPROXY_SALT)" \
-    hugo
+  --mount=type=cache,target=${HUGO_CACHEDIR}/modules/ \
+  --mount=type=secret,id=HUGO_IMGPROXY_KEY \
+  --mount=type=secret,id=HUGO_IMGPROXY_SALT \
+  HUGO_IMGPROXY_KEY="$(cat /run/secrets/HUGO_IMGPROXY_KEY)" \
+  HUGO_IMGPROXY_SALT="$(cat /run/secrets/HUGO_IMGPROXY_SALT)" \
+  hugo
 
 # build pagefind index
 RUN bun run pagefind
 
 
-# ====================================================
-# final bun image based on debian slim
+# ===============================================
+# final image
 
-FROM oven/bun:slim
+# debian slim based image
+FROM oven/bun:slim AS final
+
+ENV BUN_INSTALL_CACHE_DIR=/tmp/bun_cache
 
 # install only production dependencies (not devDependencies)
 COPY package.json bun.lockb ./
-RUN bun install --frozen-lockfile --production
+
+RUN \
+  --mount=type=cache,target=${BUN_INSTALL_CACHE_DIR} \
+  bun install --frozen-lockfile --production
 
 # copy bun app
 COPY backend ./backend
 
-# set
+# set bun listening port
 ENV PORT=8080
 
 # copy hugo output
