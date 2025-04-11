@@ -10,5 +10,5 @@ require (
 	github.com/etheriamagazine/hugo-modules/seo-tools/basic-seo v0.0.0-20250410160813-be13c4e9928f // indirect
 	github.com/etheriamagazine/hugo-modules/seo-tools/json-ld v0.0.0-20250410160813-be13c4e9928f // indirect
 	github.com/etheriamagazine/hugo-modules/seo-tools/plausible-analytics v0.0.0-20250410160813-be13c4e9928f // indirect
-	github.com/etheriamagazine/hugo-modules/sky-theme v0.0.0-20250410160813-be13c4e9928f // indirect
+	github.com/etheriamagazine/hugo-modules/sky-theme v0.0.0-20250411172823-3dbcc1437720 // indirect
 )

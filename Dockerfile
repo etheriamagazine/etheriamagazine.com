@@ -14,8 +14,9 @@ ENV PATH="${PATH}:/root/.bun/bin"
 WORKDIR /src
 
 # install dependencies
-COPY package.json bun.lockb ./
+COPY package.json bun.lockb go.mod go.sum ./
 RUN bun install --frozen-lockfile
+RUN hugo mod get
 
 # copy rest of source source
 COPY . .
@@ -35,7 +36,7 @@ RUN bun run pagefind
 # ====================================================
 # final image
 
-FROM oven/bun:latest
+FROM oven/bun:slim
 
 # install only production dependencies (not devDependencies)
 COPY package.json bun.lockb ./
