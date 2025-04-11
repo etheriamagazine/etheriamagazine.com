@@ -1,16 +1,30 @@
+# Ignore everything
+*
+
+# and whitelist whats needed
+!.git/
+!backend/
+!config/
+!content/
+!static/
+!bun.lockb
+!Dockerfile
+!go.mod
+!go.sum
+!package.json
+!pagefind.toml
+
+
+# And ignore unnecessary files inside allowed directories
+# This should go after the allowed directories
+
 # OS files
 **/.DS_Store
 **/Thumbs.db
 
-# hugo build
-**/public
-**/resources/_gen
-**/.hugo_build.lock
-
-# npm packages
-**/node_modules
-
-# env vars and secrets
-**/.dev.vars
+# secrets and env files
 **/.env
 **/.env.local
+
+# node
+**/node_modules
