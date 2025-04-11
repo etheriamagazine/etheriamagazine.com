@@ -1,11 +1,19 @@
 services:
   server:
     image: hugomods/hugo:latest
+
+    env_file:
+      - path: .env.local
+        required: false
+
     environment:
       - ${PWD}:/src
       - ${HOME}/hugo_cache:/tmp/hugo_cache
-    command: hugo server --port 8080 --bind 0.0.0.0         
+
+    command: hugo server --port 8080 --bind 0.0.0.0
+
     volumes:
       - ".:/src"
+
     ports:
       - 8080:8080
