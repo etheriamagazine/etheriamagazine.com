@@ -2,7 +2,7 @@
   "dependencies": {
     "hono": "^4.7.6",
     "urlize": "^0.2.2",
-    "valibot": "^0.42.1"
+    "valibot": "^1.0.0"
   },
   "devDependencies": {
     "@tailwindcss/cli": "^4.1.3",
