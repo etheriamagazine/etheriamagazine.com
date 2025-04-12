@@ -33,8 +33,8 @@ RUN \
   HUGO_IMGPROXY_SALT="$(cat /run/secrets/HUGO_IMGPROXY_SALT)" \
   hugo
 
-# build pagefind index
-RUN bun run pagefind
+# build pagefind index from hugo's output
+RUN bun run pagefind --site public
 
 
 # ===============================================

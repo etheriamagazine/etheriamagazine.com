@@ -1,13 +1,13 @@
 #!/bin/bash
-# build hugo
 
+# use local dev workspace
 export HUGO_MODULE_WORKSPACE=hugo.work
 
-# first hugo pass
+# build hugo
 hugo
 
-# pagefind index
-bun run pagefind
+# build pagefind index
+bun run pagefind --site public
 
 # run honojs app
 bun --watch run ./backend/index.ts
