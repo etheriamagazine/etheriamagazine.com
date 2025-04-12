@@ -63,7 +63,7 @@ pararán de preguntar sobre las momias y esqueletos de los aborígenes. Comproba
 de vuestro viaje, ya que un domingo al mes se organizan visitas temáticas familiares, 
 teatralizadas, con talleres, cuentacuentos y juegos de pistas. 
 
-![Ruta infantil "¡Nos atacan los piratas".](https://fotos.etheriamagazine.com/2024/06/ninos-piratas-gran-canaria.jpg "Ruta infantil "¡Nos atacan los piratas".")
+![Ruta infantil "¡Nos atacan los piratas".](https://fotos.etheriamagazine.com/2024/06/ninos-piratas-gran-canaria.jpg 'Ruta infantil "¡Nos atacan los piratas".')
 
 ## Jardín Canario
 

@@ -157,7 +157,7 @@ En este [pub](https://www.facebook.com/davybyrnes/) se detuvo Bloom para comer, 
 un **sandwich de queso gorgonzola y un vaso de vino de Borgoña**. Te animamos a que tú 
 también aproveches para recuperar fuerzas antes de seguir la Ruta de Ulises en Dublín. 
 
-![disfraz bloomsday dublin](https://fotos.etheriamagazine.com/2021/06/dublin-fiesta-Bloomsday.jpg "El 16 junio es "obligado" vestir al estilo eduardiano. © T. Irlanda")
+![disfraz bloomsday dublin](https://fotos.etheriamagazine.com/2021/06/dublin-fiesta-Bloomsday.jpg 'El 16 junio es "obligado" vestir al estilo eduardiano. © T. Irlanda')
 
 ### 7\. Kiernan’s Pub
 

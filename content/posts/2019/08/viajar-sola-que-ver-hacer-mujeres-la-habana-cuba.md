@@ -119,7 +119,7 @@ el **barrio de Guanabacoa**, donde vive la santería, en su camino al parque de
 Almendares, lugar sagrado para los que profesan el sincretismo católico con la religión 
 afrocubana yoruba de los santeros. 
 
-!["Almendrón" en La Habana, frente al Floridita.](https://fotos.etheriamagazine.com/2019/07/La-Habana-coche.jpg ""Almendrón" en La Habana, frente al Floridita. © David Braud")
+!["Almendrón" en La Habana, frente al Floridita.](https://fotos.etheriamagazine.com/2019/07/La-Habana-coche.jpg '"Almendrón" en La Habana, frente al Floridita. © David Braud')
 
 📌 Un clásico de la calle habanera es la reunión de hombres arreglando un **almendrón** 
 con piezas de aquí de allá, mimándolo con la misma pasión que harían con sus gallos de 
@@ -160,7 +160,7 @@ cubanos ‘mameyes’. Al anochecer, debido a la colorida vestimenta se hacían 
 la oscuridad. De ahí que al sonar el cañonazo cada noche deviniera en el gráfico 
 apelativo. 
 
-![Desde el cañón de la fortaleza La Cabaña en la "hora de los mameyes” se lanza un cañonazo.](https://fotos.etheriamagazine.com/2019/07/La-Habana-fortaleza-la-Cabana.jpg "Desde el cañón de la fortaleza La Cabaña en la "hora de los mameyes” se lanza un cañonazo. © Manena Munar")
+![Desde el cañón de la fortaleza La Cabaña en la "hora de los mameyes” se lanza un cañonazo.](https://fotos.etheriamagazine.com/2019/07/La-Habana-fortaleza-la-Cabana.jpg 'Desde el cañón de la fortaleza La Cabaña en la "hora de los mameyes” se lanza un cañonazo. © Manena Munar')
 
 Momento, por otro lado, de serpentear entre las sorprendentes callejuelas habaneras 
 hasta dar con el palacete venido a menos donde se encuentra el **Paladar La Guarida**, 

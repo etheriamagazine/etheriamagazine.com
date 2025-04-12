@@ -23,7 +23,7 @@ Taller de Editores y Vocento en Madrid. Allí nos ha invitado a “escuchar el s
 silencio”. Si no pudiste acudir, te contamos de forma sucinta algunas de sus 
 reflexiones. 
 
-![nostalgia de silencio pablo dors](https://fotos.etheriamagazine.com/2021/12/kristina-flour-BcjdbyKWquw-unsplash.jpg ""Tenemos nostalgia de silencio". © Kristina Flour")
+![nostalgia de silencio pablo dors](https://fotos.etheriamagazine.com/2021/12/kristina-flour-BcjdbyKWquw-unsplash.jpg '"Tenemos nostalgia de silencio". © Kristina Flour')
 
 ### Pablo d'Ors: "El silencio permite escuchar el verdadero sonido del mundo"
 
@@ -55,7 +55,7 @@ invita a empezar por prestar atención en un punto del cuerpo. “**Meditar** es
 una palabra atenta, amorosamente, y prestar atención a un punto de tu cuerpo”. No podía 
 ofrecernos mejor definición de la meditación. 
 
-![meditacion ejercicio espiritual](https://fotos.etheriamagazine.com/2021/12/meditacion.jpg ""Meditando se ilumina lo interior" asegura Pablo d'Ors. © Benjamin Child")
+![meditacion ejercicio espiritual](https://fotos.etheriamagazine.com/2021/12/meditacion.jpg '"Meditando se ilumina lo interior" asegura Pablo d'Ors. © Benjamin Child')
 
 ### “Hemos de entrar en la escuela de la interioridad porque si no, no vivimos”
 

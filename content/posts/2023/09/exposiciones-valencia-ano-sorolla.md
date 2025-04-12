@@ -16,7 +16,7 @@ más ilustre. No pierdas la oportunidad de acercarte a esta ciudad este otoño y
 las exposiciones y eventos relacionados con Joaquín Sorolla, te saldrá una escapada de 
 diez.** 
 
-![Retratos de Sorolla en la exposición inmersiva "Sorolla, una nueva dimensión".](https://fotos.etheriamagazine.com/2023/09/sorolla-exposicion-inmersiva-retratos.jpg "Retratos de Sorolla en la exposición inmersiva "Sorolla, una nueva dimensión". © Susana García")
+![Retratos de Sorolla en la exposición inmersiva "Sorolla, una nueva dimensión".](https://fotos.etheriamagazine.com/2023/09/sorolla-exposicion-inmersiva-retratos.jpg 'Retratos de Sorolla en la exposición inmersiva "Sorolla, una nueva dimensión". © Susana García')
 
 El año 2023 ha sido el centenario de la muerte de **Joaquín Sorolla** y su ciudad natal, 
 Valencia, se ha volcado para conmemorar la vida y obra del que fue considerado en su 
@@ -137,7 +137,7 @@ Los grandes vinos nacionales también tienen cabida en esta propuesta gracias al
 específica para cada uno de los platos, por lo que todos ellos se convierten en 
 auténticas obras de arte. 
 
-![potaje del menú Sorolla del Restaurante Vertical de Valencia](https://fotos.etheriamagazine.com/2023/09/valencia-sorolla-menu-potaje-vigilia-restaurante-vertical.jpg "El potaje corresponde al panel "Sevilla. Los Nazarenos". © S.G./Etheria Magazine")
+![potaje del menú Sorolla del Restaurante Vertical de Valencia](https://fotos.etheriamagazine.com/2023/09/valencia-sorolla-menu-potaje-vigilia-restaurante-vertical.jpg 'El potaje corresponde al panel "Sevilla. Los Nazarenos". © S.G./Etheria Magazine')
 
 Como ejemplos, el **panel "Ayamonte. La pesca del atún"** tiene de base este sabroso 
 pescado y se ofrece en un plato de madera que asemeja unas olas; **"Valencia. Las 
@@ -157,7 +157,7 @@ Estos vestidos, inspirados en los cuadros de Joaquín Sorolla, han sido confecci
 con materiales sostenibles y reciclados. Se expondrán en el **Edificio del Reloj** del 
 30 de octubre al 11 de noviembre de 2023. 
 
-![Presentación de algunos de los vestidos de la colección "Sorolla, moda y sostenibilidad".](https://fotos.etheriamagazine.com/2023/09/valencia-Desfile-Sorolla.jpg "Presentación de algunos de los vestidos de la colección "Sorolla, moda y sostenibilidad". © Visit Valencia")
+![Presentación de algunos de los vestidos de la colección "Sorolla, moda y sostenibilidad".](https://fotos.etheriamagazine.com/2023/09/valencia-Desfile-Sorolla.jpg 'Presentación de algunos de los vestidos de la colección "Sorolla, moda y sostenibilidad". © Visit Valencia')
 
 **También te puede interesar:** 
 

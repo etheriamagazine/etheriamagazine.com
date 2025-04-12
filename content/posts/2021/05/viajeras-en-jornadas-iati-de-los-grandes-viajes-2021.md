@@ -130,7 +130,7 @@ excusas y tus rollos mentales. Es una terapia intensiva”.
 > “He aprendido muchísimo de mis miedos y he descubierto muchas cosas de mi forma de ser” 
 > (Marta Insausti) 
 
-![Marta Insausti viajera en moto](https://fotos.etheriamagazine.com/2021/05/marta-insausti-tailandia.jpg "Marta Insausti: "no había hecho un viaje largo en moto en mi vida y nunca había viajado sola más que por trabajo”.")
+![Marta Insausti viajera en moto](https://fotos.etheriamagazine.com/2021/05/marta-insausti-tailandia.jpg 'Marta Insausti: "no había hecho un viaje largo en moto en mi vida y nunca había viajado sola más que por trabajo”.')
 
 #### Adiós a los prejuicios
 

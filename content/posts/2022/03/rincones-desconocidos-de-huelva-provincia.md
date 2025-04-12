@@ -182,7 +182,7 @@ a su vez a los huertos cañeteros. Y si necesitáis alguna excusa más para visi
 precioso lugar, sabed que el municipio está catalogado como **Reserva Starlight de 
 Sierra Morena** por la calidad lumínica de sus cielos. 
 
-![imagen de una plaza con una gran fuente que parece una piscina](https://fotos.etheriamagazine.com/2022/03/plaza-Canaveral-de-Leon.jpg "La plaza "más fresquita" de España en Cañaveral de León. © Rafael Pernil")
+![imagen de una plaza con una gran fuente que parece una piscina](https://fotos.etheriamagazine.com/2022/03/plaza-Canaveral-de-Leon.jpg 'La plaza "más fresquita" de España en Cañaveral de León. © Rafael Pernil')
 
 ### 4\. Cascada de los Molinos de Corteconcepción
 
@@ -229,7 +229,7 @@ astroturismo desde su mirador de estrellas con certificación otorgada por la
 **_Fundación Starlight_**, de hecho allí ubican la estrella de Belén durante las 
 navidades. Mejor lugar, imposible. 
 
-![imagenes de personas de un belen en el museo de la primera navidad](https://fotos.etheriamagazine.com/2022/03/museo-primera-Navidad.jpg "El museo de la "Primera Navidad" se encuentra en Higuera de la Sierra. © Yolanda Cardo")
+![imagenes de personas de un belen en el museo de la primera navidad](https://fotos.etheriamagazine.com/2022/03/museo-primera-Navidad.jpg 'El museo de la "Primera Navidad" se encuentra en Higuera de la Sierra. © Yolanda Cardo')
 
 ## Guía de viaje de Huelva | Etheria Magazine
 

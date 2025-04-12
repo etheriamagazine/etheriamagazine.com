@@ -154,7 +154,7 @@ Cuentan los trabajadores del camposanto que la hermana del fallecido, al tener
 constancia de este suceso, encargó construir esta escultura como homenaje y como 
 recuerdo a la fidelidad animal de sus pekinesas. ¿Leyenda o historia real? 
 
-![las tetas, cementerio almudena,](https://fotos.etheriamagazine.com/2019/10/cementerio-almudena-tetas-desnudo.jpg "La estatua de "Las Tetas" es una de las más tristes del cementerio. ©K.R.")
+![las tetas, cementerio almudena,](https://fotos.etheriamagazine.com/2019/10/cementerio-almudena-tetas-desnudo.jpg 'La estatua de "Las Tetas" es una de las más tristes del cementerio. ©K.R.')
 
 Maestros talladores, enterradores y personal de limpieza también reconocen la belleza 
 anónima de **‘La Tetas’**, así es como llaman a una de las esculturas más bellas del 

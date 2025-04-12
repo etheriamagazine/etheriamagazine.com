@@ -26,7 +26,7 @@ en la música**, la recuperación del patrimonio musical español o la música e
 pero siempre **con el concepto del viaje como fuente de conocimiento y como metáfora de 
 la vida**. 
 
-![musica el misterio de la antartida Ciclo de Grandes Autores e Interpretes de la Musica](https://fotos.etheriamagazine.com/2020/12/El-misterio-de-la-Antartida-con-musica-de-Bach.jpg ""El misterio de la Antártida", con música de Bach. © Jerónimo López")
+![musica el misterio de la antartida Ciclo de Grandes Autores e Interpretes de la Musica](https://fotos.etheriamagazine.com/2020/12/El-misterio-de-la-Antartida-con-musica-de-Bach.jpg '"El misterio de la Antártida", con música de Bach. © Jerónimo López')
 
 ## De Norte a Sur y de Viena a Praga
 

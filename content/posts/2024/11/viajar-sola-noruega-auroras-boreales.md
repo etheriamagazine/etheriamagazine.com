@@ -52,7 +52,7 @@ recibimiento en la casa de mi nueva hermana fue de lo más cordial. Pasamos los
 siguientes cinco días viajando por la región, visitando el parque nacional y los 
 principales puntos de interés. Además de perseguir por la noche las auroras boreales. 
 
-![Sania Jelic con su "hermana" noruega.](https://fotos.etheriamagazine.com/2024/10/sania-noruega-hermana.jpg "Sania Jelic con su "hermana" noruega. © Sania Jelic")
+![Sania Jelic con su "hermana" noruega.](https://fotos.etheriamagazine.com/2024/10/sania-noruega-hermana.jpg 'Sania Jelic con su "hermana" noruega. © Sania Jelic')
 
 ## Las auroras boreales
 

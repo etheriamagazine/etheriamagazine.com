@@ -10,7 +10,10 @@ authors:
   - Pilar Ortega
 ---
 
-Arte, ocio, gastronomía y deporte nos esperan para disfrutar de una urbe que ha pasado de ser un foco industrial a un imán turístico indiscutible. Seleccionamos 10 planes imprescindibles en Bilbao para hacer con amigas. Exposiciones, masajes, bares de pintxos e, incluso, 'goming' y un hotel cápsula te esperan. La tentación está servida...
+Arte, ocio, gastronomía y deporte nos esperan para disfrutar de una urbe que ha pasado 
+de ser un foco industrial a un imán turístico indiscutible. Seleccionamos 10 planes 
+imprescindibles en Bilbao para hacer con amigas. Exposiciones, masajes, bares de pintxos 
+e, incluso, 'goming' y un hotel cápsula te esperan. La tentación está servida... 
 
 ![Maika guggenheim planes en bilbao](https://fotos.etheriamagazine.com/2020/09/planes-bilbao-guggenheim-anos-20.jpg "Maika, 1929. © Christian Schad Stiftung, Aschaffenburg, VEGAP, Bilbao, 2021.")
 
@@ -43,25 +46,25 @@ el 19 de septiembre de 2021.
 ## 2\. Cena en el restaurante Nerua
 
 Tras la imprescindible visita al curvilíneo y retorcido Guggenheim, nos podemos dar un 
-[homenaje gastronómico en Nerua](http://www.neruaguggenheimbilbao.com), restaurante 
-emblema de la alta cocina bilbaína, sin salir del recinto de la pinacoteca. Con una 
-estrella Michelin y tres Soles Repsol, la propuesta del chef Josean Alija nos embarcará 
-en un viaje creativo y cultural por los productos locales de temporada. Y eso que 
-presume de que muchos de sus platos sólo tienen tres ingredientes. Recomendamos el 
-**menú especial Sena**, cinco pasos con propuestas icónicas de Nerua. 
+homenaje gastronómico en Nerua, restaurante emblema de la alta cocina bilbaína, sin 
+salir del recinto de la pinacoteca. Con una estrella Michelin y tres Soles Repsol, la 
+propuesta del chef Josean Alija nos embarcará en un viaje creativo y cultural por los 
+productos locales de temporada. Y eso que presume de que muchos de sus platos sólo 
+tienen tres ingredientes. Recomendamos el **menú especial Sena**, cinco pasos con 
+propuestas icónicas de Nerua. 
 
 ![libro de bilbao, verdes valles colinas rojas, obra de ramillo pinilla](https://fotos.etheriamagazine.com/2020/09/planes-originales-bilbao-verdes-valles.jpg "'Verdes valles, colinas rojas', una obra de Ramillo Pinilla.")
 
 ## 3\. Descubrir Bilbao con Ramiro Pinilla
 
 Si no lo habéis hecho todavía, tenéis que viajar por la historia reciente del País Vasco 
-con '[Verdes valles, colinas rojas'](https://amzn.to/3brNjs5) (1923-2014), una trilogía 
-escrita por el gran Ramiro Pinilla que conviene resucitar y en la que retrata, a modo de 
-saga, el choque de un mundo que cambia y un pueblo que se resiste a entrar en la 
-modernidad. Siempre preocupado por el mundo rural vasco, el escritor arranca la novela 
-en el momento en que Cristina Oiaindia, una aristócrata casada con un rico industrial de 
-Getxo, se enfrenta a Ella, una criada que hace tambalear la estructura familiar cuando 
-anuncia que espera un hijo ilegítimo. 
+con 'Verdes valles, colinas rojas' (1923-2014), una trilogía escrita por el gran Ramiro 
+Pinilla que conviene resucitar y en la que retrata, a modo de saga, el choque de un 
+mundo que cambia y un pueblo que se resiste a entrar en la modernidad. Siempre 
+preocupado por el mundo rural vasco, el escritor arranca la novela en el momento en que 
+Cristina Oiaindia, una aristócrata casada con un rico industrial de Getxo, se enfrenta a 
+Ella, una criada que hace tambalear la estructura familiar cuando anuncia que espera un 
+hijo ilegítimo. 
 
 ![teatro arriaga planes en bilbao](https://fotos.etheriamagazine.com/2020/09/habitacion-maria-teatro-arriaga.jpg "© 'La habitación de María', en el Teatro Arriaga.")
 
@@ -71,9 +74,9 @@ Sólo por admirar este centenario teatro, por dentro y por fuera, merecería la 
 asistir a una obra en este lugar. Además, da la casualidad de que el programa del Teatro 
 Arriaga siempre cuenta con excelentes piezas teatrales y grandísimos artistas. No existe 
 excusa que valga. Consulta la programación cuando viajes a Bilbao, aquí tienes su web: 
-[Teatro Arriaga](http://www.teatroarriaga.eus). Te adelantamos que si vas en agosto de 
-2021 (del 19 a 22) tendrás en cartel 'La habitación de María', interpretada por la 
-genial Concha Velasco. Precio: de 12 a 25 €. 
+Teatro Arriaga. Te adelantamos que si vas en agosto de 2021 (del 19 a 22) tendrás en 
+cartel 'La habitación de María', interpretada por la genial Concha Velasco. Precio: de 
+12 a 25 €. 
 
 ![tapas creativas en bilbao, victor montes, gure toki, sorginzulo, comer bien en bilbao](https://fotos.etheriamagazine.com/2020/09/planes-originales-bilbao-pinchos.jpg "Cocina creativa de Víctor Montes, Gure Toki y Sorginzulo (de izq. a dcha.)")
 
@@ -82,29 +85,26 @@ genial Concha Velasco. Precio: de 12 a 25 €.
 Hay que dedicar una tarde, sí o sí, para ir de potes por Bilbao y disfrutar de sus 
 exquisitos pintxos. Eso sí, hay que saber dónde comer los mejores. Y éstos son los que 
 nos recomiendan quienes practican este arte (lo es) de forma cotidiana en la ciudad del 
-Nervión: “[Gure Toki](http://www.guretoki.com)”, donde Iván Siles no da abasto en la 
-cocina; **Baster**, con “r”; [Sorginzulo](http://www.sorginzulo.com), 
-[Irrintzi](http://www.irrintzi.es), **Basaras**, [Víctor 
-Montes](http://www.victormontes.com), [Bibao](http://bilbao-cafebar.com), **Txiriboga**, 
-**Xukela**, [Gatz](http://www.bargatz.com), [Víctor](http://www.restaurantevictor.com) y 
-**Zuga**. Estos locales tienen sello de garantía. Os gustarán. En este artículo 
-encontraréis más claves para disfrutar de una {{< reflink 
+Nervión: “Gure Toki”, donde Iván Siles no da abasto en la cocina; **Baster**, con “r”; 
+Sorginzulo, Irrintzi, **Basaras**, Víctor Montes, Bibao, **Txiriboga**, **Xukela**, 
+Gatz, Víctor y **Zuga**. Estos locales tienen sello de garantía. Os gustarán. En este 
+artículo encontraréis más claves para disfrutar de una {{< reflink 
 path=posts/2019/12/finde-bilbao-con-amigas-mejores-restaurantes >}}. 
 
 ![Torre Loizaga, planes en bilbao, planes con amigas](https://fotos.etheriamagazine.com/2020/09/planes-originales-bilbao-torre-loizaga.jpg "Coches clásicos en Torre Loizaga, un plan original en Billbao.")
 
 ## 6\. Ver Rolls-Royce y otros coches clásicos en Torre Loizaga
 
-¿Os gustan los Rolls-Royce y los coches antiguos? Pues en el [Museo Torre 
-Loizaga](http://www.torreloizaga.com), situado a apenas media hora de Bilbao, está **la 
-mejor colección privada de Europa**, con 45 modelazos diferentes. Pero también hay 
-carrozas, un camión de bomberos, un Hispano-Suiza, un Cadillac Deville Convertible, un 
-Ferrari Testarossa, un Jaguar XK120 Roadster y otras delicias con ruedas. Hay que 
-dirigir nuestros pasos hasta el municipio de Galdames para verlos en una increíble 
-casa-torre medieval, que incluso cuenta con un puente levadizo, y que está rodeada de 
-olivos centenarios. Y si no os gustan los coches antiguos, os encantará conocer la 
-historia de este espacio y la biografía de Miguel de la Vía, un rico empresario vasco 
-que falleció hace cinco años y que amaba el arte, la música y, sobre todo, los coches. 
+¿Os gustan los Rolls-Royce y los coches antiguos? Pues en el Museo Torre Loizaga, 
+situado a apenas media hora de Bilbao, está **la mejor colección privada de Europa**, 
+con 45 modelazos diferentes. Pero también hay carrozas, un camión de bomberos, un 
+Hispano-Suiza, un Cadillac Deville Convertible, un Ferrari Testarossa, un Jaguar XK120 
+Roadster y otras delicias con ruedas. Hay que dirigir nuestros pasos hasta el municipio 
+de Galdames para verlos en una increíble casa-torre medieval, que incluso cuenta con un 
+puente levadizo, y que está rodeada de olivos centenarios. Y si no os gustan los coches 
+antiguos, os encantará conocer la historia de este espacio y la biografía de Miguel de 
+la Vía, un rico empresario vasco que falleció hace cinco años y que amaba el arte, la 
+música y, sobre todo, los coches. 
 
 ![actividades originales en bilbao, goming en bilbao, planes bilbao con amigas](https://fotos.etheriamagazine.com/2020/09/planes-originales-bilbao-Goming-Puente-Bizkaia.jpg "'Goming” desde el Puente de Bizkaia, un plan divertido con amigas en Bilbao.")
 
@@ -116,26 +116,24 @@ gran altura, sosteniéndose por unas conexiones de seguridad en los tobillos, qu
 vez están sujetas a cuerdas elásticas. Es parecido al “puenting”, pero en este caso las 
 gomas nos hacen rebotar hacia arriba y producen una mayor sensación de vértigo. 
 ¿Probamos este deporte desde el Puente de Bizkaia? El salto desde un monumento 
-histórico, con la ría del Nervión a tus pies, es una experiencia inigualable. [Ojo 
-Guareña Aventura](http://www.ojoguarenaaventura.com) lo hace posible. ¡Atención! No es 
-para todo el mundo. Otra opción es disfrutar de una travesía por la desembocadura de la 
-ría de Bilbao en velero o un simple y [agradable paseo en 
-barco](https://www.civitatis.com/es/bilbao/paseo-barco-bilbao/?aid=10211) (13 €). Seguro 
-que será una experiencia mucho más relajada. 
+histórico, con la ría del Nervión a tus pies, es una experiencia inigualable. Ojo 
+Guareña Aventura lo hace posible. ¡Atención! No es para todo el mundo. Otra opción es 
+disfrutar de una travesía por la desembocadura de la ría de Bilbao en velero o un simple 
+y agradable paseo en barco (13 €). Seguro que será una experiencia mucho más relajada. 
 
 ![Optimi Rooms, hotel capsula de Espana, hotel original en bilbao, planes bilbao con amigas](https://fotos.etheriamagazine.com/2020/09/planes-originales-bilbao-Hotel-Capsula.jpg "Optimi Rooms, el primer hotel cápsula de España.")
 
 ## 8\. ¿Y si dormimos a la japonesa?
 
 Tal cual. El minimalismo a la hora de dormir ha llegado a Bilbao con la propuesta de 
-[Optimi Rooms](http://www.optimirooms.com), el primer hotel cápsula de España que 
-utiliza modelos de descanso importados de Oriente. Sus promotores, Iñaki Zabala e Iker 
-Caballero, decidieron poner en marcha este alojamiento de 50 cabinas después de ver un 
-documental sobre formas diferentes de vivir en el mundo. El espacio lo han diseñado con 
-materiales de vanguardia y ofrecen un **aspecto futurista a precios de hostel**. Tambien 
-hay módulos dobles para parejas que deseen vivir la experiencia del hotel cápsula. Y lo 
-mejor: hay **opción de siesta, con tres horas a elegir en la franja de la tarde**. En 
-breve, extenderán su propuesta a Barcelona, Madrid y Sevilla. 
+Optimi Rooms, el primer hotel cápsula de España que utiliza modelos de descanso 
+importados de Oriente. Sus promotores, Iñaki Zabala e Iker Caballero, decidieron poner 
+en marcha este alojamiento de 50 cabinas después de ver un documental sobre formas 
+diferentes de vivir en el mundo. El espacio lo han diseñado con materiales de vanguardia 
+y ofrecen un **aspecto futurista a precios de hostel**. Tambien hay módulos dobles para 
+parejas que deseen vivir la experiencia del hotel cápsula. Y lo mejor: hay **opción de 
+siesta, con tres horas a elegir en la franja de la tarde**. En breve, extenderán su 
+propuesta a Barcelona, Madrid y Sevilla. 
 
 ![la despensa de etxanobe, tortellini bilbao](https://fotos.etheriamagazine.com/2019/12/La-Despensa-de-Etxanobe-Tortellini-de-remolacha-con-trufa.jpg "Tortellini de remolacha con trufa de 'La despensa del Etxanobe'.")
 
@@ -143,37 +141,26 @@ breve, extenderán su propuesta a Barcelona, Madrid y Sevilla.
 
 Este es uno de esos planes en Bilbao que siempre deja buen sabor de boca, ya que 
 Fernando Canales y Mikel Población, su chef ejecutivo, miman como pocos la cocina vasca 
-en [La despensa del Etxanobe](https://ladespensadeletxanobe.com/). Entre los platos que 
-despiertan mayor admiración se encuentran sus ‘kokotxas al pil pil’, aunque también 
-están ricos a rabiar su 'Txangurro de gamba blanca’, su 'Flor de alcachofa a la brasa y 
-salsa romescu' y los 'Caracoles a la Bizkaina’. Además, cuentan con una excelente bodega 
-para maridar sus platos, y experiencias gastronómicas desde 63 euros. 
+en La despensa del Etxanobe. Entre los platos que despiertan mayor admiración se 
+encuentran sus ‘kokotxas al pil pil’, aunque también están ricos a rabiar su 'Txangurro 
+de gamba blanca’, su 'Flor de alcachofa a la brasa y salsa romescu' y los 'Caracoles a 
+la Bizkaina’. Además, cuentan con una excelente bodega para maridar sus platos, y 
+experiencias gastronómicas desde 63 euros. 
 
 ![spa en bilbao, planes con amigas en bilbao, relax en bilbao](https://fotos.etheriamagazine.com/2020/09/planes-originales-bilbao-spa-sthai.jpg "Masaje oriental en S’Thai, un buen plan para hacer con amigas en Bilbao.")
 
 ## 10\. Un masaje oriental en una galería de arte
 
-En [S’Thai](http://www.sthai.es), además de disfrutar de tratamientos y masajes 
-orientales realizados con técnicas milenarias, podréis sumergiros en una auténtica 
-galería de arte, ya que todo el espacio cuenta con piezas únicas de colección importadas 
-de Malasia e Indonesia. Los tratamientos están basados en las técnicas ayurvédica de la 
-India, las tradicionales chinas, la curativa tradicional tailandesa y las balinesas. 
-Todo un viaje a través de los sentidos. Os dejamos este vídeo para que lo veais.º 
+En S’Thai, además de disfrutar de tratamientos y masajes orientales realizados con 
+técnicas milenarias, podréis sumergiros en una auténtica galería de arte, ya que todo el 
+espacio cuenta con piezas únicas de colección importadas de Malasia e Indonesia. Los 
+tratamientos están basados en las técnicas ayurvédica de la India, las tradicionales 
+chinas, la curativa tradicional tailandesa y las balinesas. Todo un viaje a través de 
+los sentidos. Os dejamos este vídeo para que lo veais.º 
 
 ### ¡Más planes!
 
 {{< reflink 
 path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}} 
 
-{{< reflink path=posts/2019/07/que-hacer-bilbao-semana-grande-aste-nagusia-2019 >}}. 
-
-#### Visitas y excursiones gratis y de pago
-
-[Visita gratuita (free tour) en 
-Bilbao](https://www.civitatis.com/es/bilbao/free-tour-bilbao/?aid=10211). [Excursión a 
-San Juan de 
-Gaztelugatxe](https://www.civitatis.com/es/bilbao/excursion-san-juan-gaztelugatxe/?aid=10211). 
-[Tour por Bilbao y funicular de 
-Artxanda](https://www.civitatis.com/es/bilbao/tour-bilbao-funicular-artxanda/?aid=10211). 
-[Otras visitas y excursiones guiadas en 
-Bilbao](https://www.civitatis.com/es/bilbao/?aid=10211).
+{{< reflink path=posts/2019/07/que-hacer-bilbao-semana-grande-aste-nagusia-2019 >}}.

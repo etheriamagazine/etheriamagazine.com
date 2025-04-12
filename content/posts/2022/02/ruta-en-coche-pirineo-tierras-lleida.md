@@ -188,7 +188,7 @@ una experiencia gastro insólita por estos parajes.
 Al día siguiente, ya solo nos queda comprar el décimo de lotería en _La Bruixa d'Or_… Y 
 pensar en cerrar el bucle viajero volviendo al punto de partida: Lleida. 
 
-![Grafiti en pueblo baro](https://fotos.etheriamagazine.com/2022/02/Baro-grand-tour-catalunya.jpg ""Que només els petons ens tapin la boca", grafiti en el pueblo de Baro. © Pedro Grifol")
+![Grafiti en pueblo baro](https://fotos.etheriamagazine.com/2022/02/Baro-grand-tour-catalunya.jpg '"Que només els petons ens tapin la boca", grafiti en el pueblo de Baro. © Pedro Grifol')
 
 ## Viaje sonoro con Radio Viajera
 

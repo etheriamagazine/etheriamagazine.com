@@ -90,7 +90,7 @@ Oba. Han creado para este precioso espacio la **carta De Bocado**, con opciones
 divertidas y fáciles de compartir, como "La mejor croqueta del mundo 2021" o el "Mini 
 hotdog de pulpo a feira con kimche". 
 
-![Cócteles y tapas de "Mordiscos by CEBO" en La Terraza del Urban](https://fotos.etheriamagazine.com/2023/06/Terraza-Urban-gastronomia.jpg "Cócteles y tapas de "Mordiscos by CEBO" en La Terraza del Urban.")
+![Cócteles y tapas de "Mordiscos by CEBO" en La Terraza del Urban](https://fotos.etheriamagazine.com/2023/06/Terraza-Urban-gastronomia.jpg 'Cócteles y tapas de "Mordiscos by CEBO" en La Terraza del Urban.')
 
 Una propuesta gastronómica acompañada de música en directo los viernes y sábados desde 
 las 21 h hasta la medianoche, y de una coctelería de altura que también incluye 

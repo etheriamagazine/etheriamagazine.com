@@ -127,7 +127,7 @@ recuerdos. Y al fondo, las fuentes donde coger el agua. En el mismo parque, a po
 minutos de esta columnata, se sitúa otra, la columnata Karolinina, del manantial 
 Rodolfo, que alberga varias fuentes. 
 
-![fuente cantante de marianske lazne](https://fotos.etheriamagazine.com/2022/02/fuente-cantante-marianske-lazne.jpg "Fuente cantarina o "cantante" de Mariánské Lázně. © Pepa García")
+![fuente cantante de marianske lazne](https://fotos.etheriamagazine.com/2022/02/fuente-cantante-marianske-lazne.jpg 'Fuente cantarina o "cantante" de Mariánské Lázně. © Pepa García')
 
 ### 3\. Asistir al espectáculo de una fuente cantarina
 

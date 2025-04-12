@@ -54,7 +54,7 @@ fortaleza que remodelaron los musulmanes en el siglo XI. Destaca por sus tres ci
 de murallas, la torre del Homenaje y tres palacios. A sus pies, merece la pena detenerse 
 para contemplar el **Teatro Romano** del siglo I d.C. 
 
-![viaje con amigas, viaje de chicas, Andalucia, fin de semana](https://fotos.etheriamagazine.com/2018/11/Malaga-catedral.jpg "La catedral de Málaga, conocida como "La Manquita".")
+![viaje con amigas, viaje de chicas, Andalucia, fin de semana](https://fotos.etheriamagazine.com/2018/11/Malaga-catedral.jpg 'La catedral de Málaga, conocida como "La Manquita".')
 
 La siguiente parada puede ser la **Catedral**, conocida como “la Manquita” al quedarse 
 sin una de las dos torres proyectadas. Mezcla de estilos (se comenzó en 1518 y tardó 

@@ -42,7 +42,7 @@ boutiques, y explica el tesoro de su arquitectura urbana. Apenas una muestra, so
 **palacios neoclásicos y las mansiones** que los hacendados y las familias acaudaladas 
 construyeron sobre el **Paseo de Montejo**. 
 
-![Museo del Cacao y Bancos de Mérida, yucatán](https://fotos.etheriamagazine.com/2022/07/museo-cacao-banco-merida-mexico.jpg "Museo del Cacao y bancos "Tú y yo" de Mérida (Yucatán). © Cris Aizpeolea")
+![Museo del Cacao y Bancos de Mérida, yucatán](https://fotos.etheriamagazine.com/2022/07/museo-cacao-banco-merida-mexico.jpg 'Museo del Cacao y bancos "Tú y yo" de Mérida (Yucatán). © Cris Aizpeolea')
 
 Se ofrecen glamorosos **paseos en coches de caballo** pero nada se compara a recorrerlo 
 a pie, misión que puede durar una hora, toda la mañana o la tarde entera. Y es bello de 

@@ -61,7 +61,7 @@ punto más significativo de la ruta es la **Kaiserkrone**, meseta en la que real
 bocetos que se convertirían más tarde es su famosa obra “Caminante sobre el mar de 
 niebla”. 
 
-!["Caminante sobre el mar de niebla" de Friedrich.](https://fotos.etheriamagazine.com/2024/08/caminante-mar-de-niebla-Friedrich.jpg ""Caminante sobre el mar de niebla" de Friedrich.")
+!["Caminante sobre el mar de niebla" de Friedrich.](https://fotos.etheriamagazine.com/2024/08/caminante-mar-de-niebla-Friedrich.jpg '"Caminante sobre el mar de niebla" de Friedrich.')
 
 ### Monumento y tumba de Friedrich
 
@@ -89,7 +89,7 @@ que vivió cuarenta años en la ciudad. Esta exposición también tendrá como s
 Kupferstich-Kabinett. Desde el 24 de agosto hasta el 5 de enero de 2025. Más información 
 en **albertinum.skd.museum** 
 
-![Una mujer contempla el cuadro de Friedrich "Gran recinto cerca de Dresde" en el Albertinum.](https://fotos.etheriamagazine.com/2024/08/friedrich-paisaje-dresde-mujer.jpg "Una mujer contempla el cuadro de Friedrich "Gran recinto cerca de Dresde" en el Albertinum. © Michael R. Henning/Dresden Marketing GmbH.")
+![Una mujer contempla el cuadro de Friedrich "Gran recinto cerca de Dresde" en el Albertinum.](https://fotos.etheriamagazine.com/2024/08/friedrich-paisaje-dresde-mujer.jpg 'Una mujer contempla el cuadro de Friedrich "Gran recinto cerca de Dresde" en el Albertinum. © Michael R. Henning/Dresden Marketing GmbH.')
 
 ### Wanderlust y la frustración de viajar
 
@@ -107,7 +107,7 @@ en la exposición se muestran los retratos que Caroline Bardua realizó de Fried
 puede visitar en el Museo del Romanticismo de Dresde hasta el 16 de marzo de 2025. Más 
 información en **www.museen-dresden.de** 
 
-![cuadros de la exposición sobre mujeres del Romanticismo.](https://fotos.etheriamagazine.com/2024/08/Friedrich-exposicion-pintoras-romanticas.jpg ""Minna Körner" de Emma Köner y "Wilhelmine (o Caroline) Dryander" de Caroline Bardua, cuadros de la exposición sobre mujeres del Romanticismo. © Museen der Stadt Dresden/Philipp WL Günther.")
+![cuadros de la exposición sobre mujeres del Romanticismo.](https://fotos.etheriamagazine.com/2024/08/Friedrich-exposicion-pintoras-romanticas.jpg '"Minna Körner" de Emma Köner y "Wilhelmine (o Caroline) Dryander" de Caroline Bardua, cuadros de la exposición sobre mujeres del Romanticismo. © Museen der Stadt Dresden/Philipp WL Günther.')
 
 ### Visitas guiadas de pintura con la artista Andrea Molière en Lohmen
 

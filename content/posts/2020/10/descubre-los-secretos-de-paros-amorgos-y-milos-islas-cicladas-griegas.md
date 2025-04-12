@@ -39,7 +39,7 @@ Por delante te espera una única carretera que recorre su privilegiada ubicació
 corazón de las islas Cícladas, 168 km de costa y un interior de suaves colinas cuajado 
 de pueblos en los que desearías quedarte a vivir. 
 
-![Panagia Ekatontapiliani o iglesia de las 100 puertas](https://fotos.etheriamagazine.com/2020/10/islas-cicladas-Panagia-Ekatontapiliani.jpg "Panagia Ekatontapiliani, también conocida como la "iglesia de las 100 puertas".")
+![Panagia Ekatontapiliani o iglesia de las 100 puertas](https://fotos.etheriamagazine.com/2020/10/islas-cicladas-Panagia-Ekatontapiliani.jpg 'Panagia Ekatontapiliani, también conocida como la "iglesia de las 100 puertas".')
 
 Desembarcarás en **Parikia**, capital y puerto principal de la isla, donde se alza uno 
 de los templos más impresionantes de Grecia: **Panagia Ekatontapiliani.** Frescos, 

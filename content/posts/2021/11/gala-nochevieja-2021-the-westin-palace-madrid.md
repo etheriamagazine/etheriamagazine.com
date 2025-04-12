@@ -86,7 +86,7 @@ El precio completo de la gala (cena, maridaje y cotillón de 21 horas a 5 horas)
 650 € por persona. Si se añade alojamiento y desayuno para dos personas en habitación 
 doble deluxe sale por 1.569 € (+ IVA). 
 
-![hotel palacio en paisaje de la luz de la unesco](https://fotos.etheriamagazine.com/2021/11/hotel-palace-paisaje-luz.jpg "Fachada de The Westin Palace, en pleno "Paisaje de la Luz" de la Unesco.")
+![hotel palacio en paisaje de la luz de la unesco](https://fotos.etheriamagazine.com/2021/11/hotel-palace-paisaje-luz.jpg 'Fachada de The Westin Palace, en pleno "Paisaje de la Luz" de la Unesco.')
 
 También existen otras opciones: sólo **cotillón** (250 €), **Cena de Nochebuena** 
 elaborada por José Luque (260 €, con alojamiento sale por 729 € + IVA). 

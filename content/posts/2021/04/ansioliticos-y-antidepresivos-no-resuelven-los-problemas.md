@@ -124,7 +124,7 @@ verdad que esto ha hecho que haya aumentado la prescripción cogida por los pelo
 reconoce. Sin embargo, en su opinión en Atención Primaria “hay una **conciencia de 
 intentar medicalizar lo menos posible**”. 
 
-![el peligro de los calmantes y ansioliticos](https://fotos.etheriamagazine.com/2021/04/peligro-ansioliticos-pastillas-dormir.jpg ""A veces, medicar es la única opción hasta que el paciente puede ser atendido por un profesional de la salud mental".")
+![el peligro de los calmantes y ansioliticos](https://fotos.etheriamagazine.com/2021/04/peligro-ansioliticos-pastillas-dormir.jpg '"A veces, medicar es la única opción hasta que el paciente puede ser atendido por un profesional de la salud mental".')
 
 ## Los médicos de familia pasan consulta cada 4 minutos
 
@@ -142,7 +142,7 @@ todas adecuadas. No hay ni un solo médico que pueda presumir de prescribir siem
 correcto, pero de ahí a que los médicos hagamos un mal uso de los medicamentos, habría 
 que mirarlo con detalle”, asegura. 
 
-![consumo de antidepresivos para ansiedad](https://fotos.etheriamagazine.com/2021/04/tratamiento-ansiedad.jpg ""Este tipo de fármacos deberían prescribirse, si fueran necesarios, de forma transitoria". © Abbie Bernet")
+![consumo de antidepresivos para ansiedad](https://fotos.etheriamagazine.com/2021/04/tratamiento-ansiedad.jpg '"Este tipo de fármacos deberían prescribirse, si fueran necesarios, de forma transitoria". © Abbie Bernet')
 
 ## “No hay recursos comunitarios para abordar este tipo de problemas”
 

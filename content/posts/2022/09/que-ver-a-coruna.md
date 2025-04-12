@@ -89,7 +89,7 @@ sus 2 kilómetros de longitud, frente a la isla de San Vicente, son sede del **F
 Internacional do Mundo Celta**. Cada verano, durante 4 días, la música folk suena 
 mientras en el pinar aledaño acampan miles de aficionados a la música celta. 
 
-![banco con vistas a los acantilados de Ortigueira](https://fotos.etheriamagazine.com/2022/09/ortigueira-banco.jpg ""El banco más bonito del mundo" está en Ortigueira. © Patricio Mauri")
+![banco con vistas a los acantilados de Ortigueira](https://fotos.etheriamagazine.com/2022/09/ortigueira-banco.jpg '"El banco más bonito del mundo" está en Ortigueira. © Patricio Mauri')
 
 #### Ría de Cedeira
 

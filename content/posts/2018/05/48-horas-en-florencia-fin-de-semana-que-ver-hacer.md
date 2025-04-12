@@ -84,7 +84,7 @@ salas es cronológico y puedes preparar la visita con antelación seleccionando 
 de obras que quieres ver o dejarte llevar. En cualquier caso, son imprescindibles las 
 salas dedicadas a Boticcelli y Leonardo da Vinci. 
 
-!["La adoración de los Magos". Obra inacabada de Leonardo da Vinci. Galleria degli Uffizi.](https://fotos.etheriamagazine.com/2018/05/TOSCANA-FLORENCIA-UFFICI-LEONARDO.jpg ""La adoración de los Magos". Obra inacabada de Leonardo da Vinci. Galleria degli Uffizi.")
+!["La adoración de los Magos". Obra inacabada de Leonardo da Vinci. Galleria degli Uffizi.](https://fotos.etheriamagazine.com/2018/05/TOSCANA-FLORENCIA-UFFICI-LEONARDO.jpg '"La adoración de los Magos". Obra inacabada de Leonardo da Vinci. Galleria degli Uffizi.')
 
 Después, volvemos a atravesar la Piazza San Giovanni y dirigimos los pasos a la 
 **Galleria dell’Accademia** para contemplar el David de Miguel Ángel. Da igual las veces 

@@ -62,7 +62,7 @@ Estas dos tradiciones tienen relación porque, antiguamente, estas mujeres eran 
 pintaban y decoraban los huevos y el Lunes de Pascua regalaban el más bonito a un chico 
 o lo utilizaban como “prenda” para evitar que que les arrojaran el agua ese día. 
 
-![chico echando agua sobre dos chicas en Polonia](https://fotos.etheriamagazine.com/2024/02/semana-santa-polonia-lunes-de-pascua.jpg "Tradición del "lunes de agua" que se celebra durante el Lunes de Pascua.")
+![chico echando agua sobre dos chicas en Polonia](https://fotos.etheriamagazine.com/2024/02/semana-santa-polonia-lunes-de-pascua.jpg 'Tradición del "lunes de agua" que se celebra durante el Lunes de Pascua.')
 
 ### La bendición de los alimentos
 

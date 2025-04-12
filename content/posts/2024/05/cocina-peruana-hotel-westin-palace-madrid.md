@@ -14,7 +14,7 @@ Del 29 de mayo al 1 de junio, podrás conocer la historia y tradiciones del paí
 de sus platos. Además, con el privilegio que representa hacerlo de la mano del reputado 
 chef peruano Rafael Casín. 
 
-![Lomo "saltado", plato tradicional de la cocina peruana.](https://fotos.etheriamagazine.com/2024/05/Lomo-saltado-cocina-peruana.jpg "Lomo "saltado", plato tradicional de la cocina peruana.")
+![Lomo "saltado", plato tradicional de la cocina peruana.](https://fotos.etheriamagazine.com/2024/05/Lomo-saltado-cocina-peruana.jpg 'Lomo "saltado", plato tradicional de la cocina peruana.')
 
 La gastronomía peruana, con su riqueza y diversidad, es un reflejo de las múltiples 
 culturas que han dejado su huella en el país a lo largo de los siglos. Esta herencia 

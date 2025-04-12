@@ -73,7 +73,7 @@ artificiales. Es el momento en el que la ciudad luce más bella que nunca con lo
 reflejos de las mil luces sobre la ría y los vanguardistas edificios de acero y vidrio 
 que han ido transformando sus márgenes. 
 
-!["Quema de Marijaia" durante la Aste Nagusia.](https://fotos.etheriamagazine.com/2019/07/Bilbao-semana-grande-rio-e1563520457655.jpg ""Quema de Marijaia" durante la Aste Nagusia.")
+!["Quema de Marijaia" durante la Aste Nagusia.](https://fotos.etheriamagazine.com/2019/07/Bilbao-semana-grande-rio-e1563520457655.jpg '"Quema de Marijaia" durante la Aste Nagusia.')
 
 ## ¿Dónde ir durante la Semana Grande de Bilbao?
 

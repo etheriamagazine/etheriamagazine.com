@@ -37,7 +37,7 @@ con su distintivo lenguaje artístico, desafía la solemnidad de los espacios co
 monumentales y audaces que no solo conviven con pinturas de Velázquez, Goya y Tiziano, 
 sino que las reinterpretan con una mirada fresca y contemporánea. 
 
-![Flaming Heart, pieza expuesta en el Palacio de. Liria.](https://fotos.etheriamagazine.com/2025/02/Joana-Vasconcelos-retrato-Palacio-de-Liria.jpeg "La artista junto a "Flaming Heart", pieza expuesta en el Palacio de. Liria.")
+![Flaming Heart, pieza expuesta en el Palacio de. Liria.](https://fotos.etheriamagazine.com/2025/02/Joana-Vasconcelos-retrato-Palacio-de-Liria.jpeg 'La artista junto a "Flaming Heart", pieza expuesta en el Palacio de. Liria.')
 
 ## La sorprendente intervención de Vasconcelos
 
@@ -50,7 +50,7 @@ palacio como guardianes de la exposición, o la lámpara _Carmen_ (2001), instal
 biblioteca junto a una carta de _Prosper Mérimée_ a la condesa de Montijo, en un guiño a 
 la ópera homónima. 
 
-![Carmen, una pieza de Joana de Vasconcelos que pertenece a una colección particular](https://fotos.etheriamagazine.com/2025/02/Joana-Vasconcelos-lampara-palacio-liria.jpeg ""Carmen" (2001), perteneciente a una colección particular.")
+![Carmen, una pieza de Joana de Vasconcelos que pertenece a una colección particular](https://fotos.etheriamagazine.com/2025/02/Joana-Vasconcelos-lampara-palacio-liria.jpeg '"Carmen" (2001), perteneciente a una colección particular.')
 
 Uno de los momentos más impactantes del recorrido es la exhibición de _Coração 
 Independente Preto_ (2006) en el Salón Español, cuya tonalidad oscura evoca la estética 
@@ -64,7 +64,7 @@ retratos que estos maestros hicieron de miembros de la Casa de Alba. En los jard
 público podrá admirar por primera vez _La Théière_ (2025), una monumental tetera de 
 hierro y vegetación ornamental rodeada de jazmines. 
 
-![Lobo, de Joana de Vasconcelos expuesto en el Palacio de Liria](https://fotos.etheriamagazine.com/2025/02/Joana-Vasconcelos-perro-crochet.jpeg ""Lobo" (2025) expuesto en el Palacio de Liria.")
+![Lobo, de Joana de Vasconcelos expuesto en el Palacio de Liria](https://fotos.etheriamagazine.com/2025/02/Joana-Vasconcelos-perro-crochet.jpeg '"Lobo" (2025) expuesto en el Palacio de Liria.')
 
 ## El proceso creativo de la artista
 
@@ -81,7 +81,7 @@ popular portuguesa. Sus obras, que combinan humor e ironía con una fuerte carga
 buscan siempre la interacción con el espectador y la relectura de objetos y símbolos 
 cotidianos. 
 
-![Lazo rosa "J’Adore Miss Dior" (2017), de la Colección de Joana Vasconcelos.](https://fotos.etheriamagazine.com/2025/02/Joana-Vasconcelos-lazos-dior-palacio-liria.jpeg ""J’Adore Miss Dior", de la Colección de Joana Vasconcelos.")
+![Lazo rosa "J’Adore Miss Dior" (2017), de la Colección de Joana Vasconcelos.](https://fotos.etheriamagazine.com/2025/02/Joana-Vasconcelos-lazos-dior-palacio-liria.jpeg '"J’Adore Miss Dior", de la Colección de Joana Vasconcelos.')
 
 ## Joana Vasconcelos y Dior
 
@@ -98,14 +98,14 @@ firma, en un desfile que contó con la presencia de Cayetana Fitz-James Stuart, 
 de Alba. De este modo, la exposición no solo celebra la obra de Vasconcelos, sino que 
 también recupera este legado histórico. 
 
-!["Familia feliz", esculturas de Joana Vasconcelos en el Palacio de Liria.](https://fotos.etheriamagazine.com/2025/02/Joana-Vasconcelos-esculturas-crochet-palacio-liria.jpeg ""Familia feliz", esculturas de Joana Vasconcelos en el Palacio de Liria.")
+!["Familia feliz", esculturas de Joana Vasconcelos en el Palacio de Liria.](https://fotos.etheriamagazine.com/2025/02/Joana-Vasconcelos-esculturas-crochet-palacio-liria.jpeg '"Familia feliz", esculturas de Joana Vasconcelos en el Palacio de Liria.')
 
 Con _Flamboyant_, la artista reafirma su capacidad para transformar espacios históricos 
 en escenarios de nuevas narrativas. La exposición en el Palacio de Liria no es solo una 
 intervención artística. También es una celebración del arte como fuerza viva, capaz de 
 resignificar el pasado y proyectarlo hacia el futuro. 
 
-!["Solitario", una escultura de Flamboyant expuesta en el jardín del Palacio de Liria.](https://fotos.etheriamagazine.com/2025/02/anillo-gigantes-palacio-liria.jpeg ""Solitario", una escultura de Flamboyant expuesta en el jardín del Palacio de Liria.")
+!["Solitario", una escultura de Flamboyant expuesta en el jardín del Palacio de Liria.](https://fotos.etheriamagazine.com/2025/02/anillo-gigantes-palacio-liria.jpeg '"Solitario", una escultura de Flamboyant expuesta en el jardín del Palacio de Liria.')
 
 ## Preguntas frecuentes
 

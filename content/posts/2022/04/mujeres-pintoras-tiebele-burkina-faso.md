@@ -41,7 +41,7 @@ reportaje se active tu memoria y quizá empiecen a pasar imágenes por tu disco 
 porque las casas pintadas de Tiébélé aparecen, cíclicamente, en muchos documentales; y 
 seguro que has visto algún reportaje en las antiguas revistas de _National Geographic._ 
 
-![Vista general del poblado de Tiebele](https://fotos.etheriamagazine.com/2022/04/tiebele-poblado-mujeres.jpg "Las casas del poblado se sitúan alrededor de un "palacio real". © Pedro Grifol")
+![Vista general del poblado de Tiebele](https://fotos.etheriamagazine.com/2022/04/tiebele-poblado-mujeres.jpg 'Las casas del poblado se sitúan alrededor de un "palacio real". © Pedro Grifol')
 
 ### La tradición respetada
 

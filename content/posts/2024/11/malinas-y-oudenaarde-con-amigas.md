@@ -192,7 +192,7 @@ pinturas, dibujos y tapices, piezas de orfebrería o utensilios de cetrería, tr
 fresco extraordinario de su biografía y de la fastuosa corte donde vivió y ejerció su 
 poder. 
 
-![Exposición "Margarita. La hija del emperador](https://fotos.etheriamagazine.com/2024/11/Exposicion-Margarita.jpg "La exposición "Margarita. La hija del emperador entre el poder y la imagen" en Oudenaarde, ahonda en la vida y el contexto histórico de Margarita.")
+![Exposición "Margarita. La hija del emperador](https://fotos.etheriamagazine.com/2024/11/Exposicion-Margarita.jpg 'La exposición "Margarita. La hija del emperador entre el poder y la imagen" en Oudenaarde, ahonda en la vida y el contexto histórico de Margarita.')
 
 ## Entre damas anda el juego
 

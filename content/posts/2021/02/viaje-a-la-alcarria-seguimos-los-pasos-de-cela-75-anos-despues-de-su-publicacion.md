@@ -10,7 +10,7 @@ authors:
 
 'Viaje a la Alcarria' es, seguramente, el viaje más célebre de Camilo José Cela, un itinerario que el Premio Nobel inmortalizó en un libro magistral. El trayecto comenzaba en Madrid y el primer destino era Guadalajara, pero acabó parando en Pastrana, Torija, Cívica, Masegoso, Cifuentes, Zorita, Gárgoles de Arriba, Budia, Sacedón, Tendilla, La Puerta, Casasana, Pareja, Durón, El Olivar, Valdenoches… Te contamos esta ruta de novela.
 
-![brihuega viaje a la alcarria de cela](https://fotos.etheriamagazine.com/2021/01/viaje-alcarria-cela-Brihuega.jpg "Brihuega, el "Jardín de la Alcarria".")
+![brihuega viaje a la alcarria de cela](https://fotos.etheriamagazine.com/2021/01/viaje-alcarria-cela-Brihuega.jpg 'Brihuega, el "Jardín de la Alcarria".')
 
 ```
 Actualizado enero de 2022

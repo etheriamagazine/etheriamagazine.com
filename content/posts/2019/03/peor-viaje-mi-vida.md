@@ -39,7 +39,7 @@ Pasó con Ulises y pasa con tu compañera de trabajo enganchada al Instagram. Y 
 dirás tú qué historia le sacas a una semana de cocoloco y tumbona en la que los días se 
 confunden unos con otros. 
 
-![peores viajes, droga en la maleta](https://fotos.etheriamagazine.com/2019/03/peores-viajes-vida.jpg ""Lo mejor del viaje es volver y contarlo".")
+![peores viajes, droga en la maleta](https://fotos.etheriamagazine.com/2019/03/peores-viajes-vida.jpg '"Lo mejor del viaje es volver y contarlo".')
 
 ## Un "regalo" en la maleta
 

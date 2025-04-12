@@ -13,7 +13,7 @@ authors:
 
 El importante papel de la mujer en el Egipto de la antigüedad ha sido por fin recogido en una muestra única: 'Hijas del Nilo. Mujer y sociedad en el antiguo Egipto'. Esta fascinante exposición en Madrid la puedes visitar ya en el Palacio de Alhajas.
 
-![exposición de Egipto en el Palacio de Alhajas](https://fotos.etheriamagazine.com/2022/06/Hijas_del_Nilo-sala-iluminada.jpg "Sala de la exposición "Hijas del Nilo".")
+![exposición de Egipto en el Palacio de Alhajas](https://fotos.etheriamagazine.com/2022/06/Hijas_del_Nilo-sala-iluminada.jpg 'Sala de la exposición "Hijas del Nilo".')
 
 La exposición ‘Hijas del Nilo. Mujer y sociedad en el antiguo Egipto’ es la primera 
 muestra que se realiza en España dedicada exclusivamente a las **mujeres del Egipto de 

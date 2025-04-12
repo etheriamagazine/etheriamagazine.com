@@ -107,7 +107,7 @@ del propio Hundertwasser, una suerte de catálogo de su visionaria filosofía ec
 conformado por obra pictórica y gráfica, tapices, objetos o maquetas de proyectos 
 arquitectónicos como el del pueblo termal de Bad Blumau a las afueras de Viena. 
 
-![Rodrigo Arteaga, exposición temporal en el Kunst Haus de Viena.](https://fotos.etheriamagazine.com/2024/05/Rodrigo-Arteaga-Kunst-Haus-Viena.jpg "Rodrigo Arteaga es uno de los participantes es la exposición temporal "Into the Woods" en el Kunst Haus de Viena. © Yolanda Cardo")
+![Rodrigo Arteaga, exposición temporal en el Kunst Haus de Viena.](https://fotos.etheriamagazine.com/2024/05/Rodrigo-Arteaga-Kunst-Haus-Viena.jpg 'Rodrigo Arteaga es uno de los participantes es la exposición temporal "Into the Woods" en el Kunst Haus de Viena. © Yolanda Cardo')
 
 La última planta alberga las exposiciones temporales. La muestra colectiva **Into the 
 Woods** (hasta el próximo 11 de agosto), enmarcada en la Bienal del Clima de Viena, 

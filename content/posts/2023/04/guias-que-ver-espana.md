@@ -176,7 +176,7 @@ Parque, está asegurada. Te van a faltar días.
 
 ✅ **Guía Etheria:** {{< reflink path=posts/2023/01/que-ver-en-tenerife >}} 
 
-![Parque Nacional de las Cañadas del Teide](https://fotos.etheriamagazine.com/2023/01/Tenerife-canadas-teide-dedo-dios.jpg "El "dedo de Dios" en Las Cañadas del Teide. © SG")
+![Parque Nacional de las Cañadas del Teide](https://fotos.etheriamagazine.com/2023/01/Tenerife-canadas-teide-dedo-dios.jpg 'El "dedo de Dios" en Las Cañadas del Teide. © SG')
 
 ## Lanzarote
 

@@ -52,7 +52,7 @@ Lennon, Paul McCarteny, George Harrison y, también y ocasionalmente, Pete Best 
 Sutcliffe. Más tarde, se uniría el famoso y único Ringo Starr, que ya hacía sus pinitos 
 y ascendía escalones musicales en Hamburgo. 
 
-![Aún permanece algún cartel de "Prohibida la entrada a las mujeres".](https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-4.jpg "Aún permanece algún cartel de "Prohibida la entrada a las mujeres".")
+![Aún permanece algún cartel de "Prohibida la entrada a las mujeres".](https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-4.jpg 'Aún permanece algún cartel de "Prohibida la entrada a las mujeres".')
 
 ## Ruta de The Beatles en Hamburgo
 

@@ -138,7 +138,7 @@ del pueblo, junto a la iglesia. Pero antes desfilarán, provocarán a los observ
 se **recitarán las coplas satíricas en la campa**, al pie de las escuelas para repasar 
 con ironía lo acontecido en el pueblo e incluso a nivel nacional. 
 
-!["La matanza del oso" en La Vijanera.](https://fotos.etheriamagazine.com/2019/12/carnaval-vijanera-cantabria.jpg ""La matanza del oso" en La Vijanera.")
+!["La matanza del oso" en La Vijanera.](https://fotos.etheriamagazine.com/2019/12/carnaval-vijanera-cantabria.jpg '"La matanza del oso" en La Vijanera.')
 
 En recuerdo a todos los pueblos que celebraban La Vijanera se sigue representando la 
 defensa de la raya, en la que se enfrentan los zamarracos y el danzarín negro en el 

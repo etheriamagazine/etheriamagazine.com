@@ -30,7 +30,7 @@ embargo, y aunque no era frecuente que las mujeres se decantaran por el arte, el
 tan sólo 14 años, ya decidió con determinación aprender el oficio sin saber que muy 
 pronto se convertiría en una de las pioneras del Expresionismo Abstracto. 
 
-![lee krasner y Prophecy](https://fotos.etheriamagazine.com/2021/07/lee-krasner-prophecy.jpg "Lee Krasner (1938) y "Prophecy" (1956). © The Pollock-Krasner Foundation Kasmin Gallery")
+![lee krasner y Prophecy](https://fotos.etheriamagazine.com/2021/07/lee-krasner-prophecy.jpg 'Lee Krasner (1938) y "Prophecy" (1956). © The Pollock-Krasner Foundation Kasmin Gallery')
 
 ## Una relación tempestuosa
 
@@ -48,7 +48,7 @@ modelo… que tuvo que romper con muchos límites impuestos sólo por ser mujer 
 pertenecer a una familia judía ortodoxa. Eso sí, desde los años 50, conquistó y expuso 
 en los grandes templos del arte de Europa y Estados Unidos, MOMA incluido. 
 
-![Combat pintura lee krasner](https://fotos.etheriamagazine.com/2021/07/Combat-The-Pollock-Krasner.jpg "Obra "Combat" (1965). © The Pollock-Krasner Foundation")
+![Combat pintura lee krasner](https://fotos.etheriamagazine.com/2021/07/Combat-The-Pollock-Krasner.jpg 'Obra "Combat" (1965). © The Pollock-Krasner Foundation')
 
 ## El universo de Lee Krasner
 

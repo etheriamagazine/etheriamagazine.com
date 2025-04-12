@@ -144,7 +144,7 @@ aspecto exterior en forma de gran buque, fue construido por el arquitecto belga 
 Diongre (Bruselas, 1878-1963) en estilo _Art déco_ para albergar la sede del Instituto 
 Nacional de Radiodifusión. 
 
-![El edificio Flagey, conocido como el "barco de vapor", antigua sede del Instituto Nacionla de Radiodifusión.](https://fotos.etheriamagazine.com/2024/11/bruselas.edificio-Flagey.jpg "El edificio Flagey, conocido como el "barco de vapor", antigua sede del Instituto Nacional de Radiodifusión. © Yolanda Cardo")
+![El edificio Flagey, conocido como el "barco de vapor", antigua sede del Instituto Nacionla de Radiodifusión.](https://fotos.etheriamagazine.com/2024/11/bruselas.edificio-Flagey.jpg 'El edificio Flagey, conocido como el "barco de vapor", antigua sede del Instituto Nacional de Radiodifusión. © Yolanda Cardo')
 
 Desde su inauguración fue elogiado internacionalmente por la excelencia de sus 
 instalaciones y la calidad de sus estudios, particularmente del Estudio 4, que pronto 

@@ -15,7 +15,7 @@ una visita a la capital inglesa. Esta actividad se puede realizar en numerosos
 restaurantes y hoteles pero también en lugares originales como un autobús o en un 
 glamuroso teatro. Toma nota de los más curiosos.** 
 
-![Mesa con te y bollos para tomar el te en Londres](https://fotos.etheriamagazine.com/2023/03/hotel-te-londres.jpg "Hoteles y restaurantes ofrecen el "afternoon tea" en Londres.")
+![Mesa con te y bollos para tomar el te en Londres](https://fotos.etheriamagazine.com/2023/03/hotel-te-londres.jpg 'Hoteles y restaurantes ofrecen el "afternoon tea" en Londres.')
 
 De la gastronomía inglesa no se suele saber mucho lejos de estas islas, aparte del 
 famoso _fish&chips_ y del pastel de carne, pero todo el mundo recuerda la afición al té 

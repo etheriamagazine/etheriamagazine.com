@@ -213,7 +213,7 @@ al turismo de tienda de campaña.
 El siguiente mapa de la ruta puede serviros para ubicar las poblaciones mencionadas en 
 el artículo. 
 
-![mapa de la ruta del vino de Cigales](https://fotos.etheriamagazine.com/2020/01/etheria-ruta-vino-cigales-plano.jpg "<!-- wp:image {"align":"center","id":15293,"className":"is-style-default"} --> <div class="wp-block-image is-style-default"><figure class="aligncenter"><img src="https://fotos.etheriamagazine.com/2020/01/etheria-ruta-vino-cigales-plano.jpg" alt="mapa de la ruta del vino de Cigales" class="wp-image-15293"/></figure></div> <!-- /wp:image -->")
+![mapa de la ruta del vino de Cigales](https://fotos.etheriamagazine.com/2020/01/etheria-ruta-vino-cigales-plano.jpg '<!-- wp:image {"align":"center","id":15293,"className":"is-style-default"} --> <div class="wp-block-image is-style-default"><figure class="aligncenter"><img src="https://fotos.etheriamagazine.com/2020/01/etheria-ruta-vino-cigales-plano.jpg" alt="mapa de la ruta del vino de Cigales" class="wp-image-15293"/></figure></div> <!-- /wp:image -->')
 
 ✅ **También te puede interesar:** 
 

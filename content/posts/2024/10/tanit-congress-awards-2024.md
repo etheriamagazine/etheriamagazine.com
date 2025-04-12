@@ -57,7 +57,7 @@ y su profundo amor por Ibiza, las hizo merecedoras del reconocimiento **Tanit Sp
 que las acredita como embajadoras del espíritu de la isla, representando a Ibiza allá 
 donde van. 
 
-![Mesa redonda "Sopa de letras".](https://fotos.etheriamagazine.com/2024/10/premios-tanit-sopa-de-letras.jpg "Mesa redonda "Sopa de letras". © Peter Marconi")
+![Mesa redonda "Sopa de letras".](https://fotos.etheriamagazine.com/2024/10/premios-tanit-sopa-de-letras.jpg 'Mesa redonda "Sopa de letras". © Peter Marconi')
 
 ## La teoría de las dos vueltas
 

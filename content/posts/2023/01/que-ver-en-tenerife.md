@@ -128,7 +128,7 @@ rocoso y lunar ya es suficiente excusa para acudir a este Parque Nacional. Es
 imprescindible una parada frente al “dedo de Dios”, probablemente el lugar más 
 fotografiado del parque. 
 
-![Parque Nacional de las Cañadas del Teide](https://fotos.etheriamagazine.com/2023/01/Tenerife-canadas-teide-dedo-dios.jpg "El "dedo de Dios" en Las Cañadas del Teide. © SG")
+![Parque Nacional de las Cañadas del Teide](https://fotos.etheriamagazine.com/2023/01/Tenerife-canadas-teide-dedo-dios.jpg 'El "dedo de Dios" en Las Cañadas del Teide. © SG')
 
 Ten en cuenta que vas a ascender unos cuantos metros, por lo que por muy buen tiempo que 
 haga en la costa te va a venir bien una chaqueta y un buen calzado para caminar por la 

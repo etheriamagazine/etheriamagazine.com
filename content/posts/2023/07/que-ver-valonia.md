@@ -137,7 +137,7 @@ ciudad en 1466 por las tropas de Carlos el Temerario; la ocupación del rey de F
 Luis XIV a finales del XVII; o los cruentos combates entre franceses y alemanes durante 
 la Gran Guerra. 
 
-![Dinant frente al río](https://fotos.etheriamagazine.com/2023/06/Valonia-Dinant.jpg "Dinant es conocida como la "perla del Mosa". © Yolanda Cardo")
+![Dinant frente al río](https://fotos.etheriamagazine.com/2023/06/Valonia-Dinant.jpg 'Dinant es conocida como la "perla del Mosa". © Yolanda Cardo')
 
 ### La Colegiata
 

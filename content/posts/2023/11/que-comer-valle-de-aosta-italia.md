@@ -129,7 +129,7 @@ especias y ¡se sirve en llamas! Hay que tomarlo por unas boquillas de la copa y
 de comensal a comensal. Como curiosidad, según la tradición, una vez levantada no debe 
 ser apoyada sobre la mesa hasta que esté vacía. 
 
-![café flambeado del valle de Aosta](https://fotos.etheriamagazine.com/2023/10/valle-de-aosta-cafe-alla-valdostana.jpg "Café a la valdostana en la "copa de la amistad". © Enrico Romanzi.")
+![café flambeado del valle de Aosta](https://fotos.etheriamagazine.com/2023/10/valle-de-aosta-cafe-alla-valdostana.jpg 'Café a la valdostana en la "copa de la amistad". © Enrico Romanzi.')
 
 ### Vino del valle de Aosta
 

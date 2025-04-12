@@ -58,7 +58,7 @@ tenía demasiadas ganas y estaba contenta con su dilatada vida de Madrid.
 📍Puedes conocer más sobre la intensa vida de **Ava Gardner en Madrid** en nuestro 
 artículo {{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}. 
 
-![Richard Burton y Elizabeth Taylor en una entrega de premios en Italia, Ava Gardner y Sue Lyon.](https://fotos.etheriamagazine.com/2023/05/puerto-vallarta-noche-iguana.jpg "Algunos de los protagonistas de "La noche de la iguana": Richard Burton con Elizabeth Taylor en una entrega de premios en Italia, Ava Gardner y Sue Lyon. © Wikimedia Commons")
+![Richard Burton y Elizabeth Taylor en una entrega de premios en Italia, Ava Gardner y Sue Lyon.](https://fotos.etheriamagazine.com/2023/05/puerto-vallarta-noche-iguana.jpg 'Algunos de los protagonistas de "La noche de la iguana": Richard Burton con Elizabeth Taylor en una entrega de premios en Italia, Ava Gardner y Sue Lyon. © Wikimedia Commons')
 
 ### Que nos pille confesados…
 
@@ -141,7 +141,7 @@ pasaje en Los Ángeles y lo trasladaba a las playas del Pacífico de Puerto Vall
 paraíso que todo el mundo desde su sillón, frente a la tele, soñaba con conocer algún 
 día. La gente se enamoró de los cruceros y lo hizo también del océano Pacífico mexicano. 
 
-![Protagonistas de "Vacaciones en el mar".](https://fotos.etheriamagazine.com/2023/05/puerto-vallarta-love-boat-1977.jpg "Protagonistas de "Vacaciones en el mar". © Wikimedia Commons")
+![Protagonistas de "Vacaciones en el mar".](https://fotos.etheriamagazine.com/2023/05/puerto-vallarta-love-boat-1977.jpg 'Protagonistas de "Vacaciones en el mar". © Wikimedia Commons')
 
 La serie no escatimaba en cuanto a su elenco y en algunos capítulos actuaron estrellas 
 de la categoría de Peter Lawford (_El día más largo_), Gene Kelly (_Bailando bajo la 

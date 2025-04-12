@@ -135,7 +135,7 @@ La **Casa Museo Hort de Colón** viene a ser como el museo etnológico de la ciu
 ubicado en una casa con huerto de mediados del siglo XIX. Ahora está cerrada 
 temporalmente pero comprueba si puedes acudir cuando visites Benidorm. 
 
-![Casa museo Hort de Colon en benidorm](https://fotos.etheriamagazine.com/2021/03/benidorm-Casa-museo-Hort-de-Colon.jpg "© Casa Museo "Hort de Colón", en Benidorm.")
+![Casa museo Hort de Colon en benidorm](https://fotos.etheriamagazine.com/2021/03/benidorm-Casa-museo-Hort-de-Colon.jpg '© Casa Museo "Hort de Colón", en Benidorm.')
 
 ### 9\. Museo Boca del Calvari
 

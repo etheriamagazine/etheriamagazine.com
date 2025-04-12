@@ -64,7 +64,7 @@ globos terráqueos y lienzos con batallas navales.
 > ¿El Museo Naval es sólo para público infantil? Rotundamente, no. Es idóneo para todos 
 > los amantes de los barcos, la historia naval española y la Marina en general. 
 
-![sala permanente de museo naval](https://fotos.etheriamagazine.com/2021/04/exposicion-permanente-museo-naval-madrid.jpg "Sala "Donde nunca se pone el sol" del Museo Naval. © Etheria")
+![sala permanente de museo naval](https://fotos.etheriamagazine.com/2021/04/exposicion-permanente-museo-naval-madrid.jpg 'Sala "Donde nunca se pone el sol" del Museo Naval. © Etheria')
 
 ## Qué se puede ver en el Museo Naval
 
@@ -159,7 +159,7 @@ Ming.
 Fernando VII a Pedro de Lima, primer contramaestre de la Casa Real, tiene tres puentes y 
 112 cañones . 
 
-![camarote comandante fragata museo naval madrid](https://fotos.etheriamagazine.com/2021/04/sala-fragata-museo-naval.jpg "Sala "Almirante Julio Guillén Tato". Cámara del Comandante. © Etheria M.")
+![camarote comandante fragata museo naval madrid](https://fotos.etheriamagazine.com/2021/04/sala-fragata-museo-naval.jpg 'Sala "Almirante Julio Guillén Tato". Cámara del Comandante. © Etheria M.')
 
 ### Consejos extra
 

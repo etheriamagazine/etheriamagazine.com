@@ -49,7 +49,7 @@ refugiamos en la masía familiar y allí, en ese espacio, se produjo una sinergi
 maravillosa a la que también se sumaron mi sobrino Martí, que también se quiere dedicar 
 ‘a esto’, y mi amigo Salvador Brugués, con el que he preparado varios libros”. 
 
-![libro cocina madre, libro joan roca, recetas joan roca](https://fotos.etheriamagazine.com/2019/03/libro-cocina-madre-joan-roca.jpg ""Este libro establece la conexión con la cocina que nos sigue inspirando, la de la memoria y la tradición".")
+![libro cocina madre, libro joan roca, recetas joan roca](https://fotos.etheriamagazine.com/2019/03/libro-cocina-madre-joan-roca.jpg '"Este libro establece la conexión con la cocina que nos sigue inspirando, la de la memoria y la tradición".')
 
 El resultado es un volumen que recupera y perpetúa los platos más auténticos del 
 recetario popular, **80 recetas sencillas y pensadas para cocinar en casa**, sin 

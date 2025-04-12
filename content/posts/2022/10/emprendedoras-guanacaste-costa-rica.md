@@ -69,7 +69,7 @@ guanacasteca que podrás conocer en tu viaje a Guanacaste.
 📌 Puede conocer su testimonio en este 
 [vídeo](https://www.youtube.com/watch?v=6CqsqW5DGMw). 
 
-![mujer cocinera de Costa Rica](https://fotos.etheriamagazine.com/2022/10/Guanacaste-Antonina.jpg "Santos Girón, cocinera de "las mujeres del maíz" de Guanacaste.")
+![mujer cocinera de Costa Rica](https://fotos.etheriamagazine.com/2022/10/Guanacaste-Antonina.jpg 'Santos Girón, cocinera de "las mujeres del maíz" de Guanacaste.')
 
 ## 10 lugares de Guanacaste que no puedes perderte
 

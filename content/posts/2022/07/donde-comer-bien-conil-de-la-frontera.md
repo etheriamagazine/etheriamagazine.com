@@ -245,7 +245,7 @@ prisa.
 
 Dónde: Extramuros, 4. Tel. 956 444 064 
 
-!["Fritá" de tomate con atún, una delicia de Conil de la Frontera.](https://fotos.etheriamagazine.com/2022/07/atun-tomate-conil.jpg ""Fritá" de tomate con atún, una delicia de Conil de la Frontera. © Etheria Mag.")
+!["Fritá" de tomate con atún, una delicia de Conil de la Frontera.](https://fotos.etheriamagazine.com/2022/07/atun-tomate-conil.jpg '"Fritá" de tomate con atún, una delicia de Conil de la Frontera. © Etheria Mag.')
 
 ### 20\. Bodegón de Joselito
 

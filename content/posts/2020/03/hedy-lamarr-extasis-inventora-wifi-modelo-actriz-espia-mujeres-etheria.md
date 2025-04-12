@@ -73,7 +73,7 @@ aquello de: “El comunismo ateo es la causa de que muchos pueblos estén en pel
 caer de nuevo en una barbarie peor que aquella en la que se encontraba el mundo al 
 aparecer el Redentor”– **excomulgó al equipo de producción** al completo. 
 
-![escenas escandalosas pelicula extasis](https://fotos.etheriamagazine.com/2020/03/pelicula-extasis.jpg "Escenas "escandalosas" de © Éxtasis en 1933.")
+![escenas escandalosas pelicula extasis](https://fotos.etheriamagazine.com/2020/03/pelicula-extasis.jpg 'Escenas "escandalosas" de © Éxtasis en 1933.')
 
 Mientras tanto, a todo esto, atraído por esta película, el magnate de la industria 
 armamentística, el nazi **Friedrich Mandl** arregló con sus padres un matrimonio de 

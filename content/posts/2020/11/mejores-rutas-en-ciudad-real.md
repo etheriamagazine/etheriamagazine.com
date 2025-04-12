@@ -82,7 +82,7 @@ denomina el "Serengueti español". Curiosamente, este espacio natural estuvo a p
 ser convertido en campo de tiro para prácticas del ejército en los años 80. 
 Afortunadamente fue salvado y nombrado Parque Nacional. 
 
-![safari parque cabaneros ciudad real](https://fotos.etheriamagazine.com/2020/11/ciudad-real-safari-Parque-Cabaneros.jpg "El "Serengueti" español. © Parque Nacional de Cabañeros")
+![safari parque cabaneros ciudad real](https://fotos.etheriamagazine.com/2020/11/ciudad-real-safari-Parque-Cabaneros.jpg 'El "Serengueti" español. © Parque Nacional de Cabañeros')
 
 Varias rutas recorren su diversa fauna y también su geología. En el paraje denominado 
 Boquerón del río Estena se encuentran unos fósiles en los que se puede ver qué animales 

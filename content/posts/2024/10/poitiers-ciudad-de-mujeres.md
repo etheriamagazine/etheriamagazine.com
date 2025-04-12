@@ -138,7 +138,7 @@ En 1983 se realizó una catalogación completa de su producción y un año despu
 lugar la primera muestra en la que se dio a conocer su obra en el Museo de Rodin y en el 
 de la Santa Cruz de Poitiers. 
 
-!["El gran vals", de Camille Claudel, en el Museo de la Santa Cruz.](https://fotos.etheriamagazine.com/2024/10/escultura-Camille-Claudel-poitiers.jpg ""El gran vals", de Camille Claudel, en el Museo de la Santa Cruz, de los Musées de Poitiers. © M.M.")
+!["El gran vals", de Camille Claudel, en el Museo de la Santa Cruz.](https://fotos.etheriamagazine.com/2024/10/escultura-Camille-Claudel-poitiers.jpg '"El gran vals", de Camille Claudel, en el Museo de la Santa Cruz, de los Musées de Poitiers. © M.M.')
 
 ### La influencia de Rodin
 

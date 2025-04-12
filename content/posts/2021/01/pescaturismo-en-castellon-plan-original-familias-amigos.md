@@ -13,7 +13,7 @@ authors:
 
 Si tenéis espíritu marinero, buscáis una experiencia diferente, didáctica y divertida junto a genuinos “lobos de mar”, tomad nota, echad una camiseta de rayas y protección solar a vuestra maleta. ¡Zarpamos para pescar en la Costa de Azahar!
 
-![pescaturismo en castellon, que hacer en castellon](https://fotos.etheriamagazine.com/2020/05/viaje-con-ninos-castellon-pescaturismo.jpg "La actividad de Pescaturismo es una experiencia real que se aleja de cualquier "turistada". © M. Antolí")
+![pescaturismo en castellon, que hacer en castellon](https://fotos.etheriamagazine.com/2020/05/viaje-con-ninos-castellon-pescaturismo.jpg 'La actividad de Pescaturismo es una experiencia real que se aleja de cualquier "turistada". © M. Antolí')
 
 ¿Qué os parece si comenzamos este viaje por el final? Imaginaos en cualquiera de los 
 numerosos restaurantes que existen en España, hay muchos donde elegir. Una **cena con 

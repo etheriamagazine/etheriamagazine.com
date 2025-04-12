@@ -84,7 +84,7 @@ que no se alojan en el parque comienzan a marcharse. Son divertidas e incluyen a
 de agua, vienen muy bien para alternarlas con las atracciones de 4D y realidad virtual 
 del parque. 
 
-![zona de atracciones al aire libre de Futuroscope](https://fotos.etheriamagazine.com/2018/08/Futuroscope-zona-juegos.jpg "Las Velodos, una atracción para toda la familia en "El Mundo de los Niños" de Futuroscope.")
+![zona de atracciones al aire libre de Futuroscope](https://fotos.etheriamagazine.com/2018/08/Futuroscope-zona-juegos.jpg 'Las Velodos, una atracción para toda la familia en "El Mundo de los Niños" de Futuroscope.')
 
 ## 7\. Compra recuerdos cómodamente
 

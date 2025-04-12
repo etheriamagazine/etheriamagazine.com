@@ -79,7 +79,7 @@ Esta bonita casa de madera cuenta con tejado a cuatro aguas. La habitación tien
 superficie de 25 m2 y la terraza, en forma de abanico, unos 40 m2. Su cama parece 
 suspendida por cuerdas, un efecto que potencia la iluminación azulada inferior. 
 
-![Cama "colgante" de la Cabaña Txanttalan.](https://fotos.etheriamagazine.com/2023/10/cama-colgante-iratiko-kabiak.jpg "Cama "colgante" de la Cabaña Txanttalan. © P. G./ Etheria Magazine")
+![Cama "colgante" de la Cabaña Txanttalan.](https://fotos.etheriamagazine.com/2023/10/cama-colgante-iratiko-kabiak.jpg 'Cama "colgante" de la Cabaña Txanttalan. © P. G./ Etheria Magazine')
 
 #### Cabaña de Urkulu
 

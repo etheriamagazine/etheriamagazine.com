@@ -33,7 +33,7 @@ quieres ubicar la comarca en un mapa de Lleida, localiza el Prepirineo y traza u
 entre el Pallars Sobirá y La Noguera. Ya estás preparada para conocer estas 8 
 emocionantes experiencias en el Pallars Jussà. 
 
-![ruta icnitas de dinosaurio excursiones en lleida](https://fotos.etheriamagazine.com/2021/06/excursiones-lleida-pallars-jussa-dinosaurios.jpg "Localizar huellas de dinosaurio, divertido y "fácil" con los guías adecuados. © P. García")
+![ruta icnitas de dinosaurio excursiones en lleida](https://fotos.etheriamagazine.com/2021/06/excursiones-lleida-pallars-jussa-dinosaurios.jpg 'Localizar huellas de dinosaurio, divertido y "fácil" con los guías adecuados. © P. García')
 
 ## 1\. Identificar huellas de dinosaurio
 
@@ -101,7 +101,7 @@ restos pelados de carne. Tú sólo tendrás que guardar silencio y observar o ha
 Puedes reservar la ruta en la web de Rutes 4x4 Ignasi o en los teléfonos 626 466 816 / 
 608 130 923. 
 
-![buitres en la reserva Reserva Nacional de Caza de Boumort](https://fotos.etheriamagazine.com/2021/06/excursiones-lleida-pallars-jussa-reserva-boumort.jpg "Una escena impactante desde un "hide", buitres alimentándose a escasos metros. © P. García")
+![buitres en la reserva Reserva Nacional de Caza de Boumort](https://fotos.etheriamagazine.com/2021/06/excursiones-lleida-pallars-jussa-reserva-boumort.jpg 'Una escena impactante desde un "hide", buitres alimentándose a escasos metros. © P. García')
 
 ## 4\. Caminar entre lagos en la Vall Fosca
 
