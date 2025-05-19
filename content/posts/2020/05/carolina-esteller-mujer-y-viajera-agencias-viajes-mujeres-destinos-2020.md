@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Navegar en veleros por las Islas Baleares, retiros de bienestar en Cádiz y Cataluña, 
+Navegar en veleros por las Islas Baleares, retiros de bienestar en Cádiz y Cataluña, 
 rutas históricas y arqueológicas por Galicia y Asturias... Carolina Esteller, directora 
 de la agencia 'Mujer y Viajera', nos cuenta cómo afrontan la situación de los viajes 
-durante la pandemia y los destinos que ofrecen para el próximo verano.** 
+durante la pandemia y los destinos que ofrecen para el próximo verano. 
 
 ![carolina esteller, mujer y viajera, agencias de viajes de mujeres, agencias viajar solas en grupo](https://fotos.etheriamagazine.com/2020/05/carolina-estelle-mujer-y-viajera.jpg "Carolina Esteller, directora de 'Mujer y Viajera', en la Explanada de las Mezquitas de Jerusalén.")
 
@@ -106,10 +106,9 @@ exclusividad.
 ### 7\. ¿Qué destinos ofrecéis para este verano 2020?
 
 En principio, los meses de julio, agosto y septiembre, ofrecemos **viajes en España**. 
-Estamos confeccionando tours de todo tipo. Viajes en [veleros por las Islas 
-Baleares](https://mujeryviajera.com/producto/menorca-en-velero), **retiros de bienestar 
-en Cádiz** **y Cataluña**, **Rutas históricas y arqueológicas por Galicia**, 
-**Asturias**, etc. 
+Estamos confeccionando tours de todo tipo. Viajes en veleros por las Islas Baleares, 
+**retiros de bienestar en Cádiz** **y Cataluña**, **Rutas históricas y arqueológicas por 
+Galicia**, **Asturias**, etc. 
 
 Vamos sacando programas, poco a poco, pues **hay mucha desinformación** sobre cómo 
 actuar con el covid-19, nos faltan tarifas de hoteles, los hoteles no saben bien cómo se 

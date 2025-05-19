@@ -10,7 +10,10 @@ authors:
   - Eva Madruga
 ---
 
-##### Ahora que han vuelto las ganas de viajar en familia, te proponemos un plan cinematográfico para descubrir los rincones más bellos de la capital granadina. ¡Prepara palomitas y déjate guiar por la segunda entrega de dibujos animados sobre las aventuras de Tadeo Jones!
+Ahora que han vuelto las ganas de viajar en familia, te proponemos un plan 
+cinematográfico para descubrir los rincones más bellos de la capital granadina. ¡Prepara 
+palomitas y déjate guiar por la segunda entrega de dibujos animados sobre las aventuras 
+de Tadeo Jones! 
 
 ![alhambra en pelicula tadeo jones](https://fotos.etheriamagazine.com/2020/11/tadeo-jones-cine-Alhambra.jpg "La Alhambra en 'Tadeo Jones'. © Paramount Pictures Spain")
 
@@ -130,4 +133,11 @@ séptimo arte**.**
 
 {{< reflink path=posts/2020/10/ruta-cultural-granada-de-garcia-lorca >}}. 
 
-{{< reflink path=posts/2020/10/restaurantes-bares-de-granada-y-visitas-para-mujeres >}}.
+{{< reflink path=posts/2020/10/restaurantes-bares-de-granada-y-visitas-para-mujeres >}}. 
+
+**Recomendación para Viajes con niños hasta 5 años** 
+
+Si viajáis en coche, no está de más incluir algunos pequeños vehículos para que los 
+niños no se cansen tanto. Triciclos como los de Olmitos, que venden a buen precio en 
+Amazon, os pueden resultar de gran utilidad. El [modelo 5 en 1 Giro 
++](https://amzn.to/4iQT83x), que es evolutivo, da muy buen resultado.
