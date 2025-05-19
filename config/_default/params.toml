@@ -22,8 +22,8 @@
   ]
 
 # advertising
-[ads]
-  adsSection = "publi"
+[simpleads]
+  section = "ads"
 
 
 [imgproxy]
@@ -51,6 +51,7 @@
     outboundLinks = true
     error404 = true
     customEvents = true
+    customProps = true
 
 [hugoEtheria]
   [hugoEtheria.subscribeForm]
