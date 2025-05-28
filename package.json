@@ -15,6 +15,7 @@
   "scripts": {
     "dev": "bun scripts/dev.sh",
     "preview": "bun scripts/preview.sh",
-    "new": "bun scripts/new.js"
+    "new": "bun scripts/new.js",
+    "server": "bun scripts/server.sh"
   }
 }
