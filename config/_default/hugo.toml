@@ -28,7 +28,7 @@ summaryLength = 20
 
 [permalinks]
   [permalinks.page]
-    posts = "/articulos/:filename"
+    posts = "/articulos/:contentbasename"
 
   [permalinks.taxonomy]
     categories = "/categorias"
