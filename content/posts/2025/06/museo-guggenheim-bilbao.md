@@ -1,7 +1,6 @@
 ---
 title: "Guggenheim provisional"
-date: 2025-06-12
-draft: true
+date: 2025-06-04
 cover: https://fotos.etheriamagazine.com/2025/06/guggenheim-bilbao-tulipanes.jpg
 categories: 
   - ocio
