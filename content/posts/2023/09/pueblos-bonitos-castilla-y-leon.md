@@ -1,5 +1,5 @@
 ---
-title: "12 pueblos bonitos en Castilla y León que no puedes perderte"
+title: "Descubre 12 pueblos con encanto de Castilla y León que nunca defraudan"
 date: 2023-09-13
 cover: https://fotos.etheriamagazine.com/2021/12/segovia-Sepulveda.jpg
 categories: 
@@ -12,13 +12,15 @@ authors:
   - Redacción Etheria
 ---
 
-**Viajar a los entornos rurales en España es uno de los mejores planes de fin de semana 
+Viajar a los entornos rurales en España es uno de los mejores planes de fin de semana 
 que existen. En esta lista te proponemos 12 pueblos bonitos en Castilla y León, con sus 
 castillos, murallas e iglesias románicas. Unas localidades que añaden al interés 
 artístico el gastronómico y paisajístico formando así escapadas redondas con las que el 
-disfrute está asegurado.** 
+disfrute está asegurado. 
 
 ![ciudad de sepulveda rutas en segovia](https://fotos.etheriamagazine.com/2021/03/segovia-Sepulveda.jpg "Panorámica de la bella localidad de Sepúveda. © Turismo Diputación de Segovia")
+
+Actualizado mayo 2025 
 
 Hay infinidad de pueblos bonitos en España y muchos de ellos se ubican en la comunidad 
 autónoma de Castilla y León. Lo de “bonito” no deja de ser un criterio subjetivo, con 
@@ -33,13 +35,13 @@ te van a defraudar.
 Sepúlveda es uno de esos pueblos que ofrecen un fin de semana redondo. Su casco 
 histórico medieval es una delicia, y guarda joyas como la iglesia de El Salvador o la de 
 San Bartolomé. Pero además está rodeado del maravilloso entorno de las **Hoces del 
-Duratón**, que ofrece interesantes visitas en la naturaleza (acércate a la [Casa del 
-Parque](https://patrimonionatural.org/casas-del-parque/casas-del-parque/casa-del-parque-hoces-del-rio-duraton) 
-donde te propondrán diferentes rutas). Y, por si fuera poco, es uno de los mejores 
-lugares para comer el famoso lechazo castellano en cualquiera de los restaurantes de su 
-Plaza Mayor. 
+Duratón**, que ofrece interesantes visitas en la naturaleza (acércate a la Casa del 
+Parque donde te propondrán diferentes rutas). Y, por si fuera poco, es uno de los 
+mejores lugares para comer el famoso lechazo castellano en cualquiera de los 
+restaurantes de su Plaza Mayor. 
 
-✅ {{< reflink path=posts/2019/07/sepulveda-y-las-hoces-del-duraton-viaje-en-familia >}} 
+Sigue leyendo en Etheria Magazine: {{< reflink 
+path=posts/2019/07/sepulveda-y-las-hoces-del-duraton-viaje-en-familia >}} 
 
 ![Plaza Mayor de la Villa de Sepúlveda.](https://fotos.etheriamagazine.com/2023/09/sepulveda-plaza.jpg "Plaza Mayor de la Villa de Sepúlveda.")
 
@@ -68,6 +70,9 @@ pasarse por el Monasterio benedictino de San Pedro de Arlanza, del siglo X. Para
 terminar, el **Museo de los Dinosaurios** es una parada imprescindible si se viaja con 
 niños para ver su excepcional yacimiento de icnitas (huellas de dinosaurio). 
 
+Sigue leyendo en Etheria Magazine: {{< reflink 
+path=posts/2023/11/kristina-de-noruega-covarrubias >}} 
+
 ![Iglesia de San Cosme y Damián de Covarrubias.](https://fotos.etheriamagazine.com/2023/09/iglesia-san-cosme-damian-covarrubias.jpg "Iglesia de San Cosme y Damián de Covarrubias.")
 
 ## Frías
@@ -80,7 +85,8 @@ de piedra y balcones de madera y al Puente Medieval. Frías se encuadra en la bo
 de las **Merindades de Burgos**, conocida por sus cascadas y grutas milenarias, por lo 
 que es un punto de partida perfecto para conocerla. 
 
-✅ {{< reflink path=posts/2019/06/que-ver-hacer-ruta-merindades-burgos >}} 
+Sigue leyendo en Etheria Magazine: {{< reflink 
+path=posts/2019/06/que-ver-hacer-ruta-merindades-burgos >}} 
 
 ![merindades, burgos, pueblo frias](https://fotos.etheriamagazine.com/2019/05/ruta-merindades-pueblo-frias.jpg "Frías, uno de los emblemas medievales de Las Merindades.")
 
@@ -97,9 +103,11 @@ Calle Mayor y acercarse a la iglesia de San Martín, del siglo XVII. También se
 hacer excursiones al bonito **Parque Natural de Las Batuecas** y a los pueblos de La 
 Alberca y Miranda del Castañar, también preciosos. 
 
-✅ {{< reflink path=posts/2019/10/que-ver-en-mogarraz-pueblo-de-retratos-salamanca >}} 
+Sigue leyendo en Etheria Magazine: 
 
-✅ {{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}. 
+{{< reflink path=posts/2019/10/que-ver-en-mogarraz-pueblo-de-retratos-salamanca >}} 
+
+{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}. 
 
 ![Mogarraz conserva su arquitectura tradicional de piedra y madera](https://fotos.etheriamagazine.com/2023/09/mogarraz-calle.jpg "Mogarraz conserva su arquitectura tradicional de piedra y madera. © Etheria Magazine")
 
@@ -118,7 +126,7 @@ museos.
 
 ![castillo uruena, villa del libro, escapadas valladolid](https://fotos.etheriamagazine.com/2020/05/Uruena-villa-del-libro-castillo-valladolid.jpg "Panorámica con el castillo de Urueña al fondo. © Pedro Grifol")
 
-✅ {{< reflink 
+Sigue leyendo en Etheria Magazine: {{< reflink 
 path=posts/2020/05/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid >}} 
 
 ## Molinaseca
@@ -143,7 +151,8 @@ la muralla (que conserva veinte torres originales), el monasterio de Nuestra Se�
 Gracia, donde nació Isabel la Católica; la iglesia de San Nicolás de Bari; y el Palacio 
 de Juan II (con un museo sobre la famosa reina), entre otros monumentos. 
 
-✅ {{< reflink path=posts/2022/02/que-ver-madrigal-altas-torres >}} 
+Sigue leyendo en Etheria Magazine: {{< reflink 
+path=posts/2022/02/que-ver-madrigal-altas-torres >}} 
 
 ![Madrigal de las Altas Torres.](https://fotos.etheriamagazine.com/2023/09/Panoramica-Madrigal.jpg "Madrigal de las Altas Torres. © Tatavasco Imágenes.")
 
@@ -158,7 +167,8 @@ se alzan su castillo, en lo alto de una colina, con un museo y vistas de infarto
 iglesia de Nuestra Señora del Azogue, del siglo XVI. Y no dejes de hacerte una foto en 
 el bonito Puente de la Reina. 
 
-✅ {{< reflink path=posts/2020/10/ruta-en-lago-sanabria-leyendas-hotel-camping >}} 
+Sigue leyendo en Etheria Magazine: {{< reflink 
+path=posts/2020/10/ruta-en-lago-sanabria-leyendas-hotel-camping >}} 
 
 ![Puebla de Sanabria.](https://fotos.etheriamagazine.com/2023/09/zamora-puebla-sanabria.jpg "Puebla de Sanabria.")
 
@@ -200,7 +210,7 @@ vistas espectaculares de los alrededores. Y para dar un paseo, nada como acercar
 
 ![Calle de Calatañazor.](https://fotos.etheriamagazine.com/2023/09/calatanazor-soria.jpg "Calle de Calatañazor.")
 
-📌 **También te puede interesar:** 
+**También te puede interesar** 
 
 {{< reflink 
 path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 

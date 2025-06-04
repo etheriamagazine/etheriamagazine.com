@@ -13,7 +13,7 @@ authors:
 Lisboa será la sede una vez más de Vinho da Casa 2025, un encuentro con un formato 
 íntimo e innovador donde el vino es el punto de partida de un viaje entre bodegas, 
 acordes y sabores. Del 16 al 18 de mayo, cada copa y cada plato contará una historia, 
-mientras los profesionales, ya sean enólogos, chefs o  músicos, invitan a descifrar el 
+mientras los profesionales, ya sean enólogos, chefs o músicos, invitan a descifrar el 
 alma de Portugal en un escenario privilegiado, el Torel Palace. 
 
 ![Vinhos da Casa siempre se celebra en ubicaciones históricas.](https://fotos.etheriamagazine.com/2025/05/vinho-da-casa-etheria-magazine-2.jpg "Vinhos da Casa se celebra en lugares históricos, en 2024 fue en La Distillerie. © Pepa García")

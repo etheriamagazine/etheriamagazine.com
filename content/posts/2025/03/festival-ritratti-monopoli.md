@@ -7,7 +7,7 @@ categories:
 destino: 
   - España
 authors: 
-  - Redacción Etheria
+  - Pepa G. Marín
 ---
 
 El Festival Ritratti de Monopoli no es una sucesión de conciertos estivales, es una 

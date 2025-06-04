@@ -11,12 +11,14 @@ authors:
   - Susana García
 ---
 
-**Visitar Estambul en pareja es una experiencia de las que siempre quedará en el 
-recuerdo. Esta increíble ciudad ofrece todo lo necesario para que una estancia corta se 
-convierta en inolvidable: arte, historia, bulliciosos bazares, románticos rincones que 
-miran al Bósforo y una animada vida nocturna.** 
+Visitar Estambul en pareja es una experiencia de las que siempre quedará en el recuerdo. 
+Esta increíble ciudad ofrece todo lo necesario para que una estancia corta se convierta 
+en inolvidable: arte, historia, bulliciosos bazares, románticos rincones que miran al 
+Bósforo y una animada vida nocturna. 
 
 ![Crucero por el Bósforo, un plan romántico en Estambul](https://fotos.etheriamagazine.com/2018/05/ESTAMBUL-BOSFORO-e1552469054616.jpg "Resérvate un atardecer para realizar un crucero por el Bósforo.")
+
+Actualizado 05/2025 
 
 Bizancio, Constantinopla, Estambul… esta ciudad abruma con su historia desde su época de 
 colonia griega siete siglos antes de Cristo. Siempre en una encrucijada, entre Asia y 
@@ -27,7 +29,7 @@ sus principales monumentos ya transmiten romanticismo. Prepárate para disfrutar
 calles, mezquita, palacios y bazares aunque, si puedes alargar la estancia, **Estambul 
 es una de las mejores ciudades del mundo para, simplemente, estar**. 
 
-📌Si es la primera vez en Estambul, os puede interesar reservar un freetour para poder 
+📌Si es la primera vez en Estambul, os puede interesar reservar un _freetour_ para poder 
 moveros después con más soltura. Civitatis los tiene en español. [Consulta sus 
 horarios](https://www.civitatis.com/es/estambul/free-tour-estambul/?aid=10211). 
 
@@ -157,7 +159,8 @@ el transporte público también hay líneas que te dejarán en el centro. Debes 
 previamente una tarjeta de 1 o 5 viajes, o lo tendrás incluido si has adquirido la 
 **Estambul pass (IstanbulKart).** 
 
-Más información de [Estambul](https://istanbul.goturkiye.com/istanbul-destinations). 
+Más información en la [Oficina de Turismo de 
+Estambul](https://istanbul.goturkiye.com/istanbul-destinations). 
 
 **También te puede interesar:** 
 

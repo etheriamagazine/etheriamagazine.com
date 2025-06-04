@@ -86,7 +86,7 @@ especialmente para afecciones respiratorias (alergias, asma y bronquitis crónic
 reumatológicas (artrosis degenerativas e inflamatorias) y dermatológicas (eczemas y 
 psoriasis). 
 
-![Cervera del Río Alhama desde la ermita. © Pepa García](https://fotos.etheriamagazine.com/2025/05/Cervera-Rio-Alhama-1.jpeg)
+![Cervera del Río Alhama desde la ermita.](https://fotos.etheriamagazine.com/2025/05/Cervera-Rio-Alhama-1.jpeg "Cervera del Río Alhama desde la ermita. © Pepa García")
 
 ## Cervera del Río Alhama, un paseo en alpargatas
 

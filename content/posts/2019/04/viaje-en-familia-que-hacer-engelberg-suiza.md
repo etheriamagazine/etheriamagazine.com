@@ -11,12 +11,15 @@ authors:
   - Susana García
 ---
 
-Suiza es un país perfecto para viajar con niños porque ofrece decenas de opciones para disfrutar de la naturaleza y, además, con todas las comodidades. Si vas en verano, Engelberg es una apuesta segura tanto por las excursiones que se pueden hacer en su entorno como por su ubicación junto al imponente monte Titlis.
+Suiza es un país perfecto para viajar con niños porque ofrece decenas de opciones para 
+disfrutar de la naturaleza y, además, con todas las comodidades. Si vas en verano, 
+Engelberg es una apuesta segura tanto por las excursiones que se pueden hacer en su 
+entorno como por su ubicación junto al imponente monte Titlis. 
 
 ![glacier park, titlis, viajes familia suiza](https://fotos.etheriamagazine.com/2019/04/Engelberg-titlis-ice-flyer.jpg "Vistas desde el telesilla Ice Flyer que te lleva en el Titlis hasta el Glacier Park. © Laura Fernández")
 
 ```
-Actualizado 3/2021
+Actualizado 05/25
 ```
 
 Si realizas un **viaje en familia a Suiza** y vas en coche (o alquilas uno) es porque te 
@@ -38,9 +41,8 @@ por la zona en autobús, funicular y hasta en patinete.
 
 La ciudad de Engelberg es una de esas localidades suizas que vive de cara a las montañas 
 que la rodean. Todo en ella está pensado para disfrutar de la naturaleza. Cuenta con un 
-[monasterio benedictino](https://www.schaukaeserei-engelberg.ch/english/) del siglo XII 
-(donde se encuentra la única producción artesanal de queso en un lugar de estas 
-características), un [Museo Etnográfico](https://www.talmuseum.ch) y una calle 
+monasterio benedictino del siglo XII (donde se encuentra la única producción artesanal 
+de queso en un lugar de estas características), un Museo Etnográfico y una calle 
 comercial. Todo lo demás está en las montañas: granjas que se pueden visitar, lagos, 
 queserías, parques en los árboles... Tendrás que organizar muy bien el tiempo para 
 disfrutar del mayor número posible de actividades. 
@@ -49,16 +51,15 @@ disfrutar del mayor número posible de actividades.
 
 ## Subida y bajada al monte Titlis
 
-El [Klein Titlis](https://www.titlis.ch/en?c=1) (o pequeño Titlis) es una de esas {{< 
-reflink path=posts/2018/09/tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}} a 
-las que hay que subir sí o sí si decides hacer un viaje con niños a Engelberg. La 
-ascensión a sus 3.062 metros de altura se hace cómodamente en dos tramos de telecabina: 
-primero en el TITLIS Xpress y después en el TITLIS Rotair (el primer teleférico 
-giratorio del mundo). Toda una experiencia por sus maravillosas vistas. Una vez arriba, 
-hay que dedicar tiempo a disfrutar de todos sus rincones, sobre todo del **Titlis Cliff 
-Walk**. Es el puente colgante más alto de Europa (no apto para aquellos que tengan 
-vértigo). También de su cueva glaciar, donde en pleno verano necesitarás un buen abrigo, 
-gorro y guantes para internarte en este mundo de hielo. 
+El [Klein Titlis](https://www.titlis.ch/en?c=1) (o pequeño Titlis) es una de esas 
+montañas suizas a las que hay que subir sí o sí si decides hacer un viaje con niños a 
+Engelberg. La ascensión a sus 3.062 metros de altura se hace cómodamente en dos tramos 
+de telecabina: primero en el TITLIS Xpress y después en el TITLIS Rotair (el primer 
+teleférico giratorio del mundo). Toda una experiencia por sus maravillosas vistas. Una 
+vez arriba, hay que dedicar tiempo a disfrutar de todos sus rincones, sobre todo del 
+**Titlis Cliff Walk**. Es el puente colgante más alto de Europa (no apto para aquellos 
+que tengan vértigo). También de su cueva glaciar, donde en pleno verano necesitarás un 
+buen abrigo, gorro y guantes para internarte en este mundo de hielo. 
 
 ![montanas suizas, viajes familiares suiza](https://fotos.etheriamagazine.com/2018/09/Suiza-puente-Titlis-e1554368044890.jpg "El puente Titlis Cliff Walk, en el Klein Titlis. © Oscar Nenander/swiss-image.ch")
 
@@ -68,6 +69,8 @@ un día muy divertido disfrutando de la nieve (que encontrarás también en plen
 tirándote en trineos o 'donuts' gigantes. 
 
 ![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](https://fotos.etheriamagazine.com/2019/04/Engelberg-snow-park-titlis.jpg "Trineos en julio en el Glacier Park, en el monte Titlis. © Laura Fernández")
+
+### El descenso desde el Titlis
 
 La forma de descender del Klein Titlis la eliges tú. Aunque puedes volver a utilizar los 
 telecabinas, es muy recomendable bajar en la parada intermedia del **lago Trübsee**. 
@@ -81,7 +84,7 @@ tienes que llamar por el interfono para que te manden un pequeño telecabina) y 
 > El tramo entre Untertrübsee y Gerschnialp transcurre entre campos de flores y granjas 
 > donde tomar un vaso de leche y el delicioso queso suizo. 
 
-Al final podrás subir de nuevo al telecabina hasta llega a Engelberg. Pero tenemos una 
+Al final podrás subir de nuevo al telecabina hasta llegar a Engelberg. Pero tenemos una 
 propuesta mucho mejor si los niños no son muy pequeños: bajar en patinete cuesta abajo. 
 Curva tras curva llegarás a la estación del telecabina de donde partiste (los niños 
 menores de 10 años van con un adulto en el patinete). 
@@ -143,11 +146,10 @@ enfrente de la estación de subida al Titlis.
 
 - Como en Suiza los restaurantes no son muy económicos, es preferible realizar un picnic 
 durante el día y dejar las noches para darte un capricho en algún restaurante de 
-Engelberg. Algunos son [Molkerei Hurschler](http://www.molkerei-hurschler.ch/en) (para 
-tomar raclette y fondue) o [Al Monasterio](https://www.almonastero.ch/?lang=en) (cocina 
-italiana). Y piensa que siempre puedes parar a descansar en alguno de los restaurantes 
-de montaña para tomar una cerveza con un poco de queso o un bizcocho mientras los niños 
-juegan en los alrededores. 
+Engelberg. Algunos son **Molkerei Hurschler** (para tomar raclette y fondue) o **Al 
+Monasterio** (cocina italiana). Y piensa que siempre puedes parar a descansar en alguno 
+de los restaurantes de montaña para tomar una cerveza con un poco de queso o un bizcocho 
+mientras los niños juegan en los alrededores. 
 
 ![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](https://fotos.etheriamagazine.com/2019/04/Engelberg-cerveza.jpg "Cerveza en la montaña. © Cristina Monllor")
 
