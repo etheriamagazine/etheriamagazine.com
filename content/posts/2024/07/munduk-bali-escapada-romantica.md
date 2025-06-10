@@ -1,7 +1,7 @@
 ---
 title: "Munduk, una escapada romántica al Bali más auténtico"
 date: 2024-07-24
-cover: https://fotos.etheriamagazine.com/2024/07/bali-arrozales-Jatiluwih.jpg
+cover: https://fotos.etheriamagazine.com/2024/07/bali-munduk-pareja-arrozal.jpg
 categories: 
   - viajar-en-pareja
 destino: 
@@ -16,7 +16,9 @@ maravillosa naturaleza. La tranquilidad del entorno, mucho menos turístico que 
 más visitas de la isla, hace de este enclave el lugar perfecto para pasar unos días en 
 pareja en total tranquilidad. 
 
-![Pareja en los arrozales de Jatiluwih.](https://fotos.etheriamagazine.com/2024/07/bali-arrozales-Jatiluwih.jpg "Pareja en los arrozales de Jatiluwih. © Susana García.")
+![Pareja en los arrozales de Jatiluwih.](https://fotos.etheriamagazine.com/2024/07/bali-munduk-pareja-arrozal.jpg "Pareja en los arrozales de Jatiluwih. © Susana García.")
+
+**Actualizado junio 2025** 
 
 Cuando viajas a Bali probablemente lo que más te sorprende, por encima de sus templos, 
 sus playas o la cordialidad de sus habitantes, es el bullicio y el tráfico, sobre todo 
@@ -33,14 +35,14 @@ de senderismo y las cascadas un escenario perfecto para vuestras fotos y un luga
 idílico para darse un baño. Todo envuelto en esa espiritualidad que emana de sus 
 templos, auténticos centros sociales en la vida de los balineses. 
 
+![Paseo por los arrozales de Jatiluwih.](https://fotos.etheriamagazine.com/2024/07/bali-munduk-paseo-arrozal.jpg "Paseo por los arrozales de Jatiluwih. © Susana García.")
+
 ## Arrozales de Jatiluwih
 
 Visitar algún arrozal en Bali es obligatorio, ofrecen la imagen más icónica del interior 
 de la isla, esa de grandes terrazas verdes salpicadas con palmeras. Ubud es el lugar de 
 referencia para visitarlos, pero, si queréis disfrutar de un paseo mucho más tranquilo 
 por este tipo de cultivo, los arrozales de Jatiluwih son una excelente opción. 
-
-![Paseo por los arrozales de Jatiluwih.](https://fotos.etheriamagazine.com/2024/07/bali-paseo-munduk-arrozales-Jatiluwih.jpg "Paseo por los arrozales de Jatiluwih. © Susana García.")
 
 Se encuentran a 43 kilómetros de Munduk y tardarás algo más de una hora en llegar hasta 
 ellos por una bonita y sinuosa carretera. Una vez allí, hay que dedicar un rato a pasear 
@@ -66,7 +68,7 @@ estas preciosas caídas de agua. Otra cascada cercana a Munduk que merece una vi
 **Banyu Wana Amertha**, con una amplia caída en una poza donde es posible darse un baño 
 de lo más refrescante y conseguir unas fotos de diez. 
 
-![Cascadas de Banyu Wana Amertha.](https://fotos.etheriamagazine.com/2024/07/Bali-cascadas-Banyu-Wana-Amertha.jpg "Cascadas de Banyu Wana Amertha. © Karthik Sreenivas.")
+![Cascadas de Banyu Wana Amertha.](https://fotos.etheriamagazine.com/2024/07/Bali-munduk-cascadas.jpg "Cascadas de Banyu Wana Amertha. © Karthik Sreenivas")
 
 Algo más lejos se encuentran las **cascadas Git Git**, a 30 kilómetros hacia el norte, a 
 10 kilómetros de la localidad de Singaraja que se recorren por una sinuosa carretera. A 
@@ -84,7 +86,7 @@ enmarca en verde profundo estas dos enormes masas de agua. Como en casi todos lo
 rincones panorámicos de Bali, aquí también encontraras un escenario con columpios y 
 otros elementos de atrezo para que tus fotos queden perfectas. 
 
-![Columpio en los miradores sobre los lagos Buyan y Tamblingan.](https://fotos.etheriamagazine.com/2024/07/bali-munduk-mirador-lago-buyan.jpg "Columpio en los miradores sobre los lagos Buyan y Tamblingan. © Susana García.")
+![Columpio en los miradores sobre los lagos Buyan y Tamblingan](https://fotos.etheriamagazine.com/2024/07/bali-munduk-columpio.jpg "Columpio en los miradores sobre los lagos Buyan y Tamblingan. © Susana García.")
 
 Lo mejor es contratar una excursión organizada para que, con un guía especializado, 
 podáis descender atravesando la selva hasta el borde del lago Tamblingan. En el camino, 
@@ -105,7 +107,7 @@ contemplan desde un paseo junto al lago. Es uno de los templos más populares de
 por lo que suele estar muy concurrido (mejor ir temprano) y cuenta a su alrededor con 
 amplia infraestructura de ocio con puestos de comida y tiendas de souvernirs. 
 
-![Templo flotante de Ulun Dunu Bratan.](https://fotos.etheriamagazine.com/2024/07/bali-Ulun-Dunu-Bratan.jpg "Templo flotante de Ulun Dunu Bratan. © Romeo A.")
+![Templo flotante de Ulun Dunu Bratan.](https://fotos.etheriamagazine.com/2024/07/bali-munduk-templo.jpg "Templo flotante de Ulun Dunu Bratan. © Romeo A")
 
 ## Guía práctica de Munduk
 
