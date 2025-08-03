@@ -6,6 +6,7 @@ categories:
   - viajar-sola
   - cultura
   - ocio
+  - excursiones
 destino: 
   - España
 authors: 

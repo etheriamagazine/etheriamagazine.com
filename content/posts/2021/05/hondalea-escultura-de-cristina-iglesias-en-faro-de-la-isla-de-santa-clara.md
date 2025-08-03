@@ -4,6 +4,7 @@ date: 2021-05-04
 cover: https://fotos.etheriamagazine.com/2021/05/hondalea-faro-isla-santa-clara-Cristina-Iglesias.jpg
 categories: 
   - ocio
+  - excursiones
 destino: 
   - España
 authors: 

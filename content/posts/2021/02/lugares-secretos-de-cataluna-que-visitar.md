@@ -1,5 +1,5 @@
 ---
-title: "Descubre estos 8 lugares secretos de Cataluña que deberías conocer"
+title: "8 lugares secretos que debes conocer en Cataluña"
 date: 2021-02-22
 cover: https://fotos.etheriamagazine.com/2021/02/catalunya-secreta-larboc-iglesia-Entranyes.jpg
 categories: 
@@ -16,7 +16,7 @@ faltan por conocer?
 
 ![Giralda de L'Arboç.](https://fotos.etheriamagazine.com/2021/02/catalunya-secreta-larboc-iglesia-Entranyes.jpg "Giralda de L'Arboç. © Oficina de Turisme de l'Arboç")
 
-Actualizado 12/2023 
+Actualizado 7/2025 
 
 A no ser que seas una experta en el territorio catalán, seguro que te sorprendes con 
 esta selección de 8 lugares secretos de Cataluña donde no faltan espacios naturales, 

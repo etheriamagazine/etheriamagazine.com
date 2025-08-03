@@ -1,12 +1,36 @@
 
+
+[home]
+  selectFeaturedPostsFromCategories = [
+    "viajar-sola",
+    "viajar-con-amigas",
+    "viajar-en-pareja",
+    "viajar-en-familia"
+  ]
+  categoryList = [
+    "viajar-sola",
+    "viajar-con-amigas",
+    "viajar-en-pareja",
+    "viajar-en-familia",
+    "inspiración",
+    "excursiones",
+    "hoteles",
+    "cultura",
+    "mujeres-top",
+    "bienestar",
+    "compras",
+    "gourmet",
+    "historias",
+    "ocio",
+    "proyectos",
+    "que-llevar-en-la-maleta",
+    "sorteos",
+  ]
+
+
 [gitinfo]
   repositoryUrl = "https://github.com/etheriamagazine/etheriamagazine.com"
 
-[content]
-  defaultCoverImage = "https://placehold.co/1200x900"
-  deafutlAuthor = "??"
-
-# seo
 [metadata]
   description = "1ª revista de viajes española para mujeres que les apasiona viajar"
   titleFormat = "%s — %s"
@@ -21,11 +45,6 @@
     "https://github.com/etheriamagazine   ",
   ]
 
-# advertising
-[simpleads]
-  section = "ads"
-
-
 [imgproxy]
   enabled = true
   host = "https://imgp.etheriamagazine.com/"
@@ -36,7 +55,6 @@
     responsiveSizes = [600, 900, 1200]
     processingOptions = "rs:fit:%s"
     format = "avif"
-
 
 [plausible]
   enable = true
@@ -67,37 +85,3 @@
   [[subscribe.lists]]
     id = "3yExM8x4"
     label = "Marketing"
-
-
-[navigation]
-  travelInterests = [
-    "viajar-sola",
-    "viajes-con-amigas",
-    "viajes-romanticos",
-    "viaje-en-familia",
-    "viajes-urbanos",
-    "viajes-cine",
-    "viajes-ecoturismo",
-    "viajes-gastronomicos",
-  ]
-
-  travelPlanning = [
-    "mejores-restaurantes-gastronomia",
-    "hoteles",
-    "bienestar-belleza",
-    "experiencias-viajeras",
-    "regalos-compras-viajeras",
-    "que-llevar-en-la-maleta",
-    "mi-peor-viaje",
-  ]
-
-  plansAndCulture = [
-    "planes-originales-para-mujeres",
-    "exposiciones",
-    "festivales",
-    "libros-de-viajes",
-    "parques-ocio",
-    "visitas-guiadas",
-    "de-un-vistazo",
-    "viajes-48-horas",
-  ]

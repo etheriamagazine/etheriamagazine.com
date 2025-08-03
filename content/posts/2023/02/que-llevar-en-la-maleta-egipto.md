@@ -3,7 +3,7 @@ title: "Qué llevar en la maleta en un viaje a Egipto"
 date: 2023-02-01
 cover: https://fotos.etheriamagazine.com/2023/01/mujer-abu-simbel.jpg
 categories: 
-  - qué-llevar-en-la-maleta
+  - que-llevar-en-la-maleta
 destino: 
   - Mundo
 authors: 

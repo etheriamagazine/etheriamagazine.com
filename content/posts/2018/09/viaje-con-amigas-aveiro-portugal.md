@@ -3,7 +3,7 @@ title: "Aveiro no es la Venecia portuguesa, ni falta que hace"
 date: 2018-09-11
 cover: https://fotos.etheriamagazine.com/2018/09/aveiro-moliceiro-portugal-e1556956577209.jpg
 categories: 
-  - viajar-sola
+  - viajar-con-amigas
 destino: 
   - Europa
 authors: 
@@ -17,13 +17,15 @@ comerás estupendamente y descubrirás sus curiosidades.
 
 ![viaje aveiro fin de semana moliceiros canales](https://fotos.etheriamagazine.com/2018/09/Atardecer-Aveiro-Etheria-e1556956528835.jpg "Atardecer sobre los canales de Aveiro. © Kelu Robles")
 
+Actualizado 7/2025 
+
 Tiene tal belleza propia y tan portuguesa que, cuando la visites, nos darás la razón. 
-Más allá de clichés, nos referimos a una ciudad coqueta, rodeada por **canales**, 
-edificios _**art nouveau**_, jóvenes en **bicicleta**, barcos **moliceiros** con dibujos 
-de chistes verdes –esto merece una explicación–, coloridas **casas a rayas** y un pasado 
-protagonizado por audaces **marineros**. Y ahora, que venga alguien a compararla con 
-otras ciudades. Viajar a Aveiro con amigas nos adentra en un cuento que no te puedes 
-perder por las siguientes razones: 
+Más allá de clichés, nos referimos a una ciudad coqueta, rodeada por canales, edificios 
+_art nouveau_, jóvenes en bicicleta, barcos moliceiros con dibujos de chistes verdes 
+–esto merece una explicación–, coloridas casas a rayas y un pasado protagonizado por 
+audaces marineros. Y ahora, que venga alguien a compararla con otras ciudades. Viajar a 
+Aveiro con amigas nos adentra en un cuento que no te puedes perder por las siguientes 
+razones: 
 
 ## 1\. Son unos salados
 
@@ -66,12 +68,11 @@ fueron totalmente negras.
 ## 3\. Las bicis gratis
 
 Mientras en las grandes capitales de Portugal se hace casi imposible el uso de 
-bicicletas debido a sus empinadas cuestas, Aveiro presume de planitud ofreciendo 
-**gratuitamente** las conocidas **BUGAs** (Bicicletas de Utilización Gratuita de 
-Aveiro). Son más de 350 y promueven un ambiente alejado de ruidos desde las 10h a.m. 
-hasta las 19h p.m, todos los días de la semana. Basta con inscribirse en el punto de 
-recogida de la Praça do Mercado para comenzar su disfrute, sin olvidar las precauciones 
-obvias. 
+bicicletas debido a sus empinadas cuestas, Aveiro presume de planitud ofreciendo las 
+conocidas **BUGAs** (Bicicletas de uso compartido de Aveiro). Son unas 240 y promueven 
+un ambiente alejado de ruidos desde las 8 h a.m. hasta las 20 h p.m, todos los días de 
+la semana. Puedes consultar y precios y modo de uso en su 
+[web](https://buga.cm-aveiro.pt/) o descargar la aplicación. 
 
 ![bicicleta gratis aveiro](https://fotos.etheriamagazine.com/2018/09/bicicletas-buga-aveiro-e1556956600706.jpg "El préstamo de bicicletas en Aveiro es gratuito. Busca las famosas BUGAs.")
 
@@ -126,16 +127,15 @@ pesca y campo.
 
 ![estacion murales aveiro](https://fotos.etheriamagazine.com/2018/09/Estacion-murales-aveiro-e1556956663242.jpg "Estación de Tren Antigua y murales situados en el camino a la misma. © Kelu Robles")
 
-### Guía de Aveiro | Etheria Magazine
+## Guía de Aveiro | Etheria Magazine
 
 **La gastronomía de Aveiro** es, como en todo Portugal, un auténtico placer. No te 
-pierdas en **O Batel** (25€/aprox) el _bacalhau à Batel_, su plato estrella, pero 
-reserva porque es tan pequeño, como coqueto y peculiar. No puede faltar en un viaje a 
-Aveiro con amigas. La calidad del producto y el saber hacer del **Mercado do Peixe** 
-(30€/aprox) también merecen una visita. Se encuentra sobre el propio mercado de pescado 
-de la ciudad. Por último, un local elegante donde darse el capricho es **Salpoente**, un 
-restaurante ubicado en una casita junto al canal de San Roque. Ofrece menú degustación 
-desde 39 € (no incluye el vino). 
+pierdas en **O Batel** el _bacalhau à Batel_, su plato estrella, pero reserva porque es 
+tan pequeño, como coqueto y peculiar. No puede faltar en un viaje a Aveiro con amigas. 
+La calidad del producto y el saber hacer del **Mercado do Peixe** también merecen una 
+visita. Se encuentra sobre el propio mercado de pescado de la ciudad. Por último, un 
+local elegante donde darse el capricho es **Salpoente**, un restaurante ubicado en una 
+casita junto al canal de San Roque. Ofrece menú degustación. 
 
 **¿Cómo comportarse ante los petiscos de Portugal?** Como buen país del sur de Europa 
 que se precie, en Portugal no son amigos de las prisas, así que los comensales tienen 
@@ -161,7 +161,7 @@ otro lado de la ría.
 
 Más información en Región Centro de Portugal (información en castellano). 
 
-### También te puede interesar:
+**También te puede interesar:** 
 
 {{< reflink path=posts/2020/07/valle-del-coa-8-experiencias-en-la-frontera-portugal >}} 
 

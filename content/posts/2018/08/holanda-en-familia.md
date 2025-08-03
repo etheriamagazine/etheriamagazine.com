@@ -1,7 +1,7 @@
 ---
-title: "Qué ver y hacer en un viaje en familia por Holanda"
+title: "Qué ver y hacer en un viaje a Holanda con niños"
 date: 2018-08-10
-cover: https://fotos.etheriamagazine.com/2018/05/Holanda-Madurodam-e1558171413662.jpg
+cover: https://fotos.etheriamagazine.com/2018/05/Holanda-Amsterdam-museo-Nemo-e1558171438104.jpg
 categories: 
   - viajar-en-familia
 destino: 
@@ -10,7 +10,11 @@ authors:
   - Susana García
 ---
 
-Holanda es un país perfecto para un viaje en familia. Cuenta con atracciones únicas, las distancias entre los lugares son cortas y es fácil moverse en coche. Los niños encuentran numerosos lugares donde disfrutar y divertirse al aire libre, además de aprender en lugares como el museo NEMO de Ámsterdam.
+Holanda es un país perfecto para un viaje en familia. Cuenta con atracciones únicas, las 
+distancias entre los lugares son cortas y es fácil moverse en coche. Los niños 
+encuentran numerosos lugares donde disfrutar y divertirse al aire libre, además de 
+aprender en lugares como el museo NEMO de Ámsterdam. En este artículo te contamos cómo 
+organizar un viaje a Holanda con niños para aprovechar bien el tiempo. 
 
 ![Parque Efteling en Holanda](https://fotos.etheriamagazine.com/2018/08/Holanda-con-ninos-efteling.jpg "Parque Efteling en Holanda. © SG")
 
@@ -122,17 +126,16 @@ habitaciones temáticas.
 
 ![Holanda en familia, viajes con niños, escapadas por Europa](https://fotos.etheriamagazine.com/2018/05/Holanda-familiar-Efteling-e1558171594445.jpg "Rincón del parque Efteling. @SG")
 
-### CONSEJOS ETHERIA
+## Consejos prácticos para un viaje a Holanda con niños
 
 En los restaurantes no son precisamente rápidos. Los platos vienen muy completos y las 
 raciones son generosas, mejor pedir un solo plato por persona para esperar menos. 
 
 Holanda da la sensación de estar prácticamente urbanizada, por lo que hay tráfico y 
 bastantes cruces. Imprescindible el navegador si vas en coche. Este viaje está pensado 
-para realizarse en una semana con alojamiento en [Avifauna](http://www.avifauna.nl), las 
-[cabañas de Eemhof](http://www.centerparcs.com) y [Efteling](http://www.efteling.com). 
-Se puede sustituir alguna de estas estancias por Ámsterdam para visitar más a fondo la 
-ciudad. 
+para realizarse en una semana con alojamiento en Avifauna, las cabañas de Eemhof y 
+Efteling. Se puede sustituir alguna de estas estancias por Ámsterdam para visitar más a 
+fondo la ciudad. 
 
 Las cabañas de Eemhof pertenecen a [Center Parcs](http://www.centerparcs.com), que tiene 
 otros muchos complejos de cabañas en otros lugares de Holanda, Bélgica, Francia y 
@@ -141,7 +144,7 @@ Alemania con el mismo concepto vacacional.
 En la [Oficina de Turismo de Holanda](https://www.holland.com/es/turista.htm) puedes 
 encontrar pistas y consejos para planificar tus vacaciones. 
 
-### También te puede interesar:
+**También te puede interesar:** 
 
 {{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
 

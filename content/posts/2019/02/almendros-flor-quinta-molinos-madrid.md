@@ -2,6 +2,8 @@
 title: "Los almendros en flor de la Quinta de los Molinos, la  cita instagramer madrileña"
 date: 2019-02-22
 cover: https://fotos.etheriamagazine.com/2019/02/almendros-flor-quinta-molinos.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - España
 authors: 

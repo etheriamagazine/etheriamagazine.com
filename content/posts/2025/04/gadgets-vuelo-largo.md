@@ -4,7 +4,7 @@ date: 2025-04-01
 cover: https://fotos.etheriamagazine.com/2025/03/vuelos-larga-distancia-mujer.jpg
 categories: 
   - compras
-  - qué-llevar-en-la-maleta
+  - que-llevar-en-la-maleta
 destino: 
   - España
 authors: 

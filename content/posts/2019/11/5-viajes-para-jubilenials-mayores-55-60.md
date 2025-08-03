@@ -2,6 +2,8 @@
 title: "5 viajes para jubilados con ganas de viajar"
 date: 2019-11-26
 cover: https://fotos.etheriamagazine.com/2019/11/chicas-viaje-risas.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - Mundo
 authors: 

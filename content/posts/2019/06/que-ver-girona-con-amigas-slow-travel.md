@@ -1,5 +1,5 @@
 ---
-title: "Cabo de Creus, 10 pisadas 'slow' frente al Mediterráneo"
+title: "Cabo de Creus, 10 paradas frente al Mediterráneo en clave slow travel"
 date: 2019-06-17
 cover: https://fotos.etheriamagazine.com/2019/06/Viaje-girona-medieval-e1559737808621.jpg
 categories: 
@@ -10,12 +10,14 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Si estás dispuesta a dejarte llevar por ese ritmo “despacito” tan de moda a la hora de 
-viajar, sigue estas pistas por el Empordà. Te contamos qué ver en Girona, concretamente 
-en la zona del cabo de Creus, un lugar reluciente con pueblos tan bonitos como Cadaqués 
-o Peratallada.** 
+Si estás dispuesta a dejarte llevar por ese ritmo de "slow travel" tan de moda a la hora 
+de viajar, sigue estas pistas por el Empordà. Te contamos qué ver en Girona, 
+concretamente en la zona del cabo de Creus, un lugar con pueblos tan bonitos como 
+Cadaqués o Peratallada. 
 
 ![Cadaqués](https://fotos.etheriamagazine.com/2019/06/viaje-girona-cadaques.jpg "Cadaqués.")
+
+Actualizado 7/2025 
 
 Haciendo _slow travel_ olvidarás las prisas cotidianas y te delitarás en los detalles 
 del paisaje del cabo de Creus. Siente la luz mediterránea y descubre la relajada huella 
@@ -45,12 +47,12 @@ Que un pescador amigo del mar, Isaac Moya, y un biólogo marino, Boris Weitzman
 decidieran salvar los huevos de sepias y calamares que encontraban en las redes de los 
 pescadores se ha convertido en un proyecto de pesca artesanal sostenible y 
 sensibilización del gremio marinero y la sociedad. Además ofrece una inolvidable 
-experiencia ecoturística. Ya que su **proyecto Sepia** (proyectsepia.com), después de 
-desarrollar los huevos hasta lograr ejemplares juveniles de sepias y calamares en una 
-jaula que ellos diseñaron, te invita a participar en su liberación en el fondo del mar. 
-De paso te llevarás una de las visiones más hermosas del litoral del **macizo de 
-Montgrí**. Con sus calas y ancestrales caminos de ronda, es uno de los miradores más 
-apetecibles de la Costa Brava. 
+experiencia ecoturística. Ya que su **proyecto Sepia**, después de desarrollar los 
+huevos hasta lograr ejemplares juveniles de sepias y calamares en una jaula que ellos 
+diseñaron, te invita a participar en su liberación en el fondo del mar. De paso te 
+llevarás una de las visiones más hermosas del litoral del **macizo de Montgrí**. Con sus 
+calas y ancestrales caminos de ronda, es uno de los miradores más apetecibles de la 
+Costa Brava. 
 
 ![marineros del proyecto sepia](https://fotos.etheriamagazine.com/2019/06/Viaje-girona-proyecto-sepia.jpg "Proyecto Sepia.")
 
@@ -63,8 +65,8 @@ culmina la navegación en las **islas Medes**, auténtico refugio de piratas hoy
 convertido en reserva natural. Basta con que practiques esnórquel a su alrededor para 
 asomarte a la gran riqueza animal de sus fondos marinos. Al desembarcar no abandones el 
 espíritu marinero para catar el mejor secreto de la Costa Brava: la elaboración 
-artesanal de las [anchoas de L’Escala](https://www.anxoves-soles.com/es/). Entonces sí 
-podrás confirmar que están entre las más ricas del mundo. 
+artesanal de las anchoas de L’Escala. Entonces sí podrás confirmar que están entre las 
+más ricas del mundo. 
 
 ![anchoas de L'Escala](https://fotos.etheriamagazine.com/2019/06/viaje-girona-anchoas.jpg "Factoría de conservas de anchoas Solés, en L'Escala.")
 
@@ -115,15 +117,14 @@ oriental de la península Ibérica.
 
 ## Enóloga al sol
 
-Las viñas al sol en pleno Alt Empordà dan la bienvenida a [La 
-Vinyeta](http://www.lavinyeta.es/es/bodega), una finca ecológica que empezó su andadura 
-productiva mirando hacia cepas viejas de más de 50 años de edad. Los olivos centenarios 
-también hicieron que los propietarios se enamoraran del lugar y su aceite de oliva extra 
-virgen es otra de las señas de identidad de su amor por la tierra, junto a las tres 
-variedades de vino que elaboran. No dejes de apuntarte a algunas de sus numerosas 
-actividades como un paseo nocturno, probar sus huevos estrellados –producidos por 
-gallinas que viven bajo las estrellas- o dormir en el viñedo, y acaba de una manera muy 
-chic tu visita con un picnic entre viñas. 
+Las viñas al sol en pleno Alt Empordà dan la bienvenida a **La Vinyeta,** una finca 
+ecológica que empezó su andadura productiva mirando hacia cepas viejas de más de 50 años 
+de edad. Los olivos centenarios también hicieron que los propietarios se enamoraran del 
+lugar y su aceite de oliva extra virgen es otra de las señas de identidad de su amor por 
+la tierra, junto a las tres variedades de vino que elaboran. No dejes de apuntarte a 
+algunas de sus numerosas actividades como un paseo nocturno, probar sus huevos 
+estrellados –producidos por gallinas que viven bajo las estrellas- o dormir en el 
+viñedo, y acaba de una manera muy chic tu visita con un picnic entre viñas. 
 
 ![Vinos ecológicos de la Bodega La Vinyeta](https://fotos.etheriamagazine.com/2019/06/viaje-girona-bodegas.jpg "Vinos ecológicos de la Bodega La Vinyeta.")
 
@@ -164,12 +165,12 @@ naturaleza, que el bosque te envuelve y despierta tus sentidos. Los sonidos y la
 perspectiva desde el interior del bosque te trasladan a otra dimensión donde los aromas 
 se intensifican y el susurro del viento en las hojas te hacen sentir parte de un ser 
 vivo único que es el bosque. Puedes hacerlo a tu aire, pero deja que los amigos de los 
-bosques de la **Asociación Selvans** (sevalns.ong) te inicien en un bosque maduro 
+bosques de la **Asociación Selvans** (selvans.ong) te inicien en un bosque maduro 
 gerundés a través de una experiencia natural que te reconecta con tu lado más salvaje. 
 
 ![bosque de La Garrotxa](https://fotos.etheriamagazine.com/2019/06/viaje-girona-banos-bosque.jpg "Baños de bosque.")
 
-📌 **También te puede interesar:** 
+**También te puede interesar:** 
 
 {{< reflink path=posts/2020/08/10-planes-comarca-ampurdan-costa-brava >}} 
 

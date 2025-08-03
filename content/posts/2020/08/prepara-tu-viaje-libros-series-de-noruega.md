@@ -5,7 +5,7 @@ cover: https://fotos.etheriamagazine.com/2020/07/preparar-viaje-noruega-pulpito.
 categories: 
   - inspiración
   - ocio
-  - qué-llevar-en-la-maleta
+  - que-llevar-en-la-maleta
 destino: 
   - Europa
 authors: 

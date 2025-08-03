@@ -3,19 +3,21 @@ title: "Bilbao en clave 'gastro' para una escapada con amigas"
 date: 2019-12-23
 cover: https://fotos.etheriamagazine.com/2019/11/Restaurante-Mina-chef-Alvaro-Garrido.jpg
 categories: 
-  - gourmet
+  - viajar-con-amigas
 destino: 
   - España
 authors: 
   - Cristina R. Bareño
 ---
 
-**Pasar un fin de semana en Bilbao con amigas en clave gastro no sólo es sencillo sino 
-que es casi obligatorio. Esta escapada que te proponemos en Etheria Magazine, será una 
-de las que recordaréis durante años. Toma nota de los mejores restaurantes de Bilbao y 
-conoce quién está al frente de los mismos. ¡Que aproveche!** 
+Pasar un fin de semana en Bilbao con amigas en clave gastro no sólo es sencillo sino que 
+es casi obligatorio. Esta escapada que te proponemos en Etheria Magazine, será una de 
+las que recordaréis durante años. Toma nota de los mejores restaurantes de Bilbao y 
+conoce quién está al frente de los mismos. ¡Que aproveche! 
 
 ![restaurante mina](https://fotos.etheriamagazine.com/2019/12/Restaurante-Mina-Espacio.jpg "Cocina y sala del © Restaurante Mina.")
+
+Actualizado 7/2025 
 
 Toda ruta gastronómica por una ciudad debería comenzar en un mercado, y la nuestra no 
 iba a ser menos. La capital de Vizcaya tiene a orillas del río Nervión un enorme “barco 
@@ -44,12 +46,12 @@ por la zona delimitada entre** **las Siete Calles y el Ensanche del Bilbao**, y 
 opción es dejarse llevar por el ambiente y los aromas que nos incitan a ir deambulando 
 de local en local. “Un pintxo y un txikito”, así hay que pedirlo. 
 
-**Sorginzulo**, **Gure-Toki**, **Izaro** y su tortilla de patatas, **La Viña del 
-Ensanche** o el emblemático **Bar Eme**, donde elaboran los sándwiches (triángulos y 
-torres) más irresistibles de la ciudad con algunas de las pistas donde la apuesta de una 
-**cena pintxo-pote** será todo un acierto. Todos cuentan con bocados tradicionales, 
-inspirados en el recetario tradicional vasco, que se completan con tapas más creativas 
-que se convierten en una auténtica "alta cocina en miniatura". 
+**Sorginzulo**, **Gure-Toki**, **La Viña del Ensanche** o el emblemático **Bar Eme**, 
+donde elaboran los sándwiches (triángulos y torres) más irresistibles de la ciudad con 
+algunas de las pistas donde la apuesta de una **cena pintxo-pote** será todo un acierto. 
+Todos cuentan con bocados tradicionales, inspirados en el recetario tradicional vasco, 
+que se completan con tapas más creativas que se convierten en una auténtica "alta cocina 
+en miniatura". 
 
 Para un menú del día VASCO con todas las letras, nada como **Bikandi Etxea**, donde 
 presumen de elaborar recetas caseras de toda la vida con los mejores ingredientes de la 
@@ -158,12 +160,12 @@ en irresistibles antojos nada más entrar por su puerta. Pero, sin lugar a dudas
 bollos de mantequilla son los reyes de la casa. Agradeceréis el lunes en la oficina 
 haberos llevado en la maleta un par de ellos. 
 
-### Más información
+**Más información:** 
 
 [Bilbao Turismo](http://bilbaoturismo.net/) y [Turismo 
 Euskadi](https://turismo.euskadi.eus/es) 
 
-📌 **También te puede interesar:** 
+**También te puede interesar:** 
 
 {{< reflink path=posts/2020/09/10-planes-originales-en-bilbao-con-amigas >}} 
 

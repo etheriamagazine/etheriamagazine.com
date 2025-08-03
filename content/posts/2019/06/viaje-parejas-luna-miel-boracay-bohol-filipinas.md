@@ -10,7 +10,11 @@ authors:
   - Manena Munar
 ---
 
-Pasar la luna de miel en Filipinas está de moda, pero ofrece aspectos tan variados que lo aconsejaríamos para todo tipo de circunstancias personales. Cada isla, de las miles que forman el archipiélago, aporta esa gota de belleza que le hace un país polifacético. El don de Boracay es su playa kilométrica de arena coralina, y el de Bohol, sus Colinas de Chocolate.
+Pasar la luna de miel en Filipinas está de moda, pero ofrece aspectos tan variados que 
+lo aconsejaríamos para todo tipo de circunstancias personales. Cada isla, de las miles 
+que forman el archipiélago, aporta esa gota de belleza que le hace un país polifacético. 
+El don de Boracay es su playa kilométrica de arena coralina, y el de Bohol, sus Colinas 
+de Chocolate. 
 
 ![viajes a Filipinas, viajes de buceo, viajes en pareja, lunas de miel](https://fotos.etheriamagazine.com/2019/05/Filipinas-Boracay.jpg "Playa de Boracay. © Héctor Periquín")
 
@@ -168,7 +172,7 @@ feligreses navegando por el Loboc en las mismas barcas que utilizan a diario par
 o para cortar la nipa que bordea el río y que servirá para cubrir los tejados de sus 
 b_ahay kubo_. 
 
-##### El tarsero filipino, una sorpresa más en Bohol
+### El tarsero filipino, una sorpresa más en Bohol
 
 Aparte de sus colinas, su historia, sus playas y su río, Bohol cuenta con otra 
 particularidad como es la del **tarsero filipino**, uno de los primates más pequeños del 
@@ -179,19 +183,19 @@ animalito que espera deseoso de un buen grillo con el que pasar el día.
 
 ![viajes a Filipinas, viajes de buceo, viajes en pareja, lunas de miel](https://fotos.etheriamagazine.com/2019/05/Filipinas-bohol-mono.jpg "El Tasier, oriundo de Bohol, es el mono más pequeño del mundo. © Silver Ringvee")
 
-### Guía de viaje | Etheria Magazine
+## Guía práctica de Boracay y Bohol
 
-##### Visado para Filipinas
+### Visado para Filipinas
 
 Hace falta visado si el viaje va a durar más de 21 días. Se puede sacar en el consulado 
 de la [Embajada Filipina en Madrid](http://www.philembassymadrid.com/). 
 
-##### Cómo llegar
+### Cómo llegar
 
 Se puede volar a Cebú combinando Iberia y Cathay Pacific o con Emirates y desde allí 
 coger un ferry para Bohol y otro de Bohol a Boracay (o una avioneta). 
 
-##### Dónde dormir y comer
+### Dónde dormir y comer
 
 En Boracay el [Hotel Shangri-la](https://www.shangri-la.com/boracay/boracayresort/) 
 tiene vistas espectaculares y todas las comodidades de un hotel de cinco estrellas. Su 
@@ -206,7 +210,7 @@ Loboc y las Colinas de Chocolate.
 Una amplia variedad de restaurantes internacionales pueblan la playa: francés, indio, 
 español, chino… 
 
-### También te puede interesar...
+**También te puede interesar...** 
 
 {{< reflink path=posts/2021/01/como-organizar-viaje-de-novios-o-luna-de-miel >}}. 
 

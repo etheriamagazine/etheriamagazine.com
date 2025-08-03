@@ -2,6 +2,8 @@
 title: "Yucatán, una 'boat movie' para viajar desde la butaca por medio mundo"
 date: 2018-08-30
 cover: https://fotos.etheriamagazine.com/2018/08/yucatan-luis-tosar-pelicula-crucero.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - España
 authors: 

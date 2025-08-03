@@ -10,7 +10,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-Desde hace milenios son los encargados de mantener viva la esperanza del navegante con su luz atravesando el mar. Al pie del cantil, surgen como esbeltas torres de piedra rematadas con una linterna en la costa de Cantabria. En Etheria Magazine, te sugerimos organizar tu propia ruta de faros cántabros y disfrutarlos desde distintas perspectivas.
+Desde hace milenios son los encargados de mantener viva la esperanza del navegante con 
+su luz atravesando el mar. Al pie del cantil, surgen como esbeltas torres de piedra 
+rematadas con una linterna en la costa de Cantabria. En Etheria Magazine, te sugerimos 
+organizar tu propia ruta de faros cántabros y disfrutarlos desde distintas perspectivas. 
 
 ![Faro de Punta Silla iluminado por la noche](https://fotos.etheriamagazine.com/2020/04/faro-punta-silla-san-vicente.jpg "Faro de Punta Silla.")
 
@@ -21,10 +24,8 @@ de niebla. Pero desde su construcción prismática con imponentes piedras de mam
 levantada en 1871, sigue penetrando 13 millas náuticas cada atardecer en la inmensidad 
 marina alrededor de **San Vicente de la Barquera**. Hoy sus cristaleras son también un 
 mirador hacia el entorno litoral que lo rodea, el **Parque Natural de Oyambre**, ya que 
-acoge su [centro de 
-interpretación](https://turismodecantabria.com/disfrutala/que-visitar/412-centro-de-interpretacion-del-parque-natural-de-oyambre/buscador-cHJvY2VzYXJCdXNxdWVkYT1vayZpZENhdGVnb3JpYT0xMCY=) 
-gracias a haberse convertido en uno de los atractivos turísticos más marineros de la 
-villa cántabra. 
+acoge su centro de interpretación gracias a haberse convertido en uno de los atractivos 
+turísticos más marineros de la villa cántabra. 
 
 ![Exterior y escalera interior del faro del cabo de Ajo.](https://fotos.etheriamagazine.com/2020/04/faro-cantabria-ajo.jpg "Exterior e interior del faro del cabo de Ajo (antes de ser pintado por Okuda).")
 
@@ -37,8 +38,8 @@ también una vistosa referencia en el litoral. Además, es un refugio para las a
 importancia europea y un magnífico contrapunto que lanza su rayo 17 millas sobre un 
 acantilado abierto plenamente al Cantábrico. 
 
-📌 ¿Sabías que fue pintado con mil colores en 2020 por el artista cántabro **Okuda** 
-(Óscar San Miguel)? Puedes leer esta "polémica" iniciativa en este 
+¿Sabías que fue pintado con mil colores en 2020 por el artista cántabro **Okuda** (Óscar 
+San Miguel)? Puedes leer esta "polémica" iniciativa en este 
 [enlace](https://www.eldiariomontanes.es/cantabria/faro-luce-multicolor-20200828150028-nt.html) 
 del Diario Montañés. 
 
@@ -50,9 +51,8 @@ Para evitar tragedias, el faro del Cabo Mayor se asoma a la entrada de la **bah�
 Santander**, en el paraje conocido como **El Atalayón**. A 91 metros sobre el nivel del 
 mar y mediando el mes de agosto de 1839 comenzó a emitir su rayo lumínico desde una 
 torre redondeada de piedra. Esta torre, situada sobre una amplia construcción octogonal, 
-estaba destinada a vivienda de los fareros. Hoy día ha sido convertida en una [Sala de 
-Arte](https://santander.es/servicios-ciudadano/areas-tematicas/otros-espacios-culturales/centro-arte-faro-cabo-mayor) 
-donde se exhibe una obra gráfica sobre los faros españoles. Tal como antaño, sigue 
+estaba destinada a vivienda de los fareros. Hoy día ha sido convertida en una Sala de 
+Arte donde se exhibe una obra gráfica sobre los faros españoles. Tal como antaño, sigue 
 orientando la navegación marítima con su óptica de cristal, tallada a mano en París en 
 el siglo XIX. No obstante, sobre el mismo promontorio, a 30 metros sobre el mar donde se 
 halla, se orientaba a los barcos desde tiempos arcaicos con el uso de banderas y fuegos 
@@ -66,9 +66,8 @@ Está en la punta más septentrional del **monte Buciero**, en una antigua isla 
 a tierra por el istmo sobre el que se asienta la marinera villa de **Santoña**. 
 Arremetido por los temporales cantábricos, no resistió al de 1915. Fruto de ello es su 
 vistosa renovación que sobresale a 39 metros sobre el mar en la Punta del Pescador. Una 
-[hermosa ruta](https://farodelcaballo.es/ruta-faro-del-caballo-santona/) invita a 
-circunvalar el monte, mientras nos asomados al mar para llegar hasta él y, de paso, 
-descender al escénico faro vecino de El Caballo. 
+hermosa ruta invita a circunvalar el monte, mientras nos asomados al mar para llegar 
+hasta él y, de paso, descender al escénico faro vecino de El Caballo. 
 
 ![Faro del Caballo visto desde arriba.](https://fotos.etheriamagazine.com/2020/04/faro-cantabria-el-caballo.jpg "Faro del Caballo, junto junto a los acantilados del monte Buciero.")
 
@@ -120,7 +119,7 @@ nivel del agua. Las historias de sus fareros, curtidos a base de experiencia y c
 aptitudes personales que les permitían adaptarse a la dificultad del aislamiento, se 
 detuvieron cuando se automatizó en 1921. 
 
-### También te puede interesar:
+**También te puede interesar:** 
 
 {{< reflink path=posts/2021/06/que-ver-en-valle-de-valdeolea-cantabria >}} 
 

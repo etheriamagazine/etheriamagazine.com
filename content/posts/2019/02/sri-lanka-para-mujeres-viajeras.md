@@ -3,16 +3,21 @@ title: "Viaje a Sri Lanka, el país de los elefantes"
 date: 2019-02-01
 cover: https://fotos.etheriamagazine.com/2019/01/Viajes-mujeres-Sri-lanka-7.jpg
 categories: 
-  - viajar-sola
+  - viajar-con-amigas
 destino: 
   - Mundo
 authors: 
   - Ana Vara y David Santiago
 ---
 
-Considerada por muchos como uno de los grandes paraísos naturales del mundo, Sri Lanka despliega un manto verde bajo el que se ocultan, entre otros animales, tigres, cocodrilos, pavos reales y los habitantes más ilustres de la antigua Ceilán: los elefantes.
+Considerada por muchos como uno de los grandes paraísos naturales del mundo, Sri Lanka 
+despliega un manto verde bajo el que se ocultan, entre otros animales, tigres, 
+cocodrilos, pavos reales y los habitantes más ilustres de la antigua Ceilán: los 
+elefantes. 
 
 ![Viaje de mujeres, elefantes en Sri Lanza](https://fotos.etheriamagazine.com/2019/01/Viajes-mujeres-Sri-lanka-2.jpg "Safari para ver elefantes en Sri Lanka.")
+
+Actualizado 7/2025 
 
 Un viaje a Sri Lanka, la gran isla con forma de lágrima situada frente a India, nos 
 depara momentos muy emocionantes y algunos sueños cumplidos. Y en Etheria Magazine no 
@@ -70,6 +75,8 @@ a los lagos; ahí están.
 
 ![Viaje de mujeres, elefantes en Sri Lanza](https://fotos.etheriamagazine.com/2019/01/Viajes-mujeres-Sri-lanka-1.jpg "Un paseo en elefante es una experiencia inolvidable.")
 
+### Elefantes... y mucho más
+
 Los mamíferos acuden un par de veces al día a hidratarse y a darse el habitual baño, con 
 lo que no es difícil encontrarlos. Aunque los elefantes no son la única atracción del 
 parque de Minneriya; también podemos sorprender a los leopardos, los búfalos de agua, 
@@ -91,31 +98,31 @@ Ceilán, edén de Buda o vergel del Índico son algunos nombres que recibe y que
 honor. Es, también, la isla que Noé hubiera convertido en arca sin cargar en ella nada 
 que ya no tuviera. 
 
-### CONSEJOS ETHERIA
+## Guía práctica de Sri Lanka
 
 Este viaje a Sri Lanka que os proponemos se presta tanto para un viaje con amigas, como 
 en familia, en pareja o sola. Si os gusta la naturaleza y sois unas enamoradas de la 
 fauna, no lo dudéis porque os encantará. 
 
-##### Cómo llegar
+### Cómo llegar
 
 No hay, por el momento, vuelos directos a Sri Lanka. Consulta las frecuencias y tarifas 
 de Qatar Airways, Emirates y Turkish Airlines. 
 
-##### Requisitos de entrada
+### Requisitos de entrada
 
 Necesitas pasaporte y, también, un visado que puedes [tramitar 
 online](http://www.eta.gov.lk/slvisa/visainfo/center.jsp?locale=es_ES) y que sale por 
 unos 20 dólares. Si quieres hacer una visita en tránsito durante dos días no tendrás que 
 pagar nada. 
 
-##### Cuándo ir a Sri Lanka
+### Cuándo ir a Sri Lanka
 
 Aunque se puede viajar durante todo el año, la mejor época para visitar Sri Lanka es 
 entre febrero y abril (el tiempo es más estable). Su temporada alta se sitúa entre 
 diciembre y marzo. 
 
-##### Consejos para hacer un safari en Sri Lanka
+### Consejos para hacer un safari en Sri Lanka
 
 **Udawalawe y Minneriya son los Parques Nacionales** de Sri Lanka donde más elefantes 
 verás. Durante los meses de agosto y septiembre se produce un fenómeno denominado “la 
@@ -132,7 +139,7 @@ puerta del parque, donde hay jeeps esperando, y contratarlo minutos antes de ent
 Suelen durar unas 3-4 horas y hay opción de mañana (de 6 a 10 h) y de tarde (de 15 a 18 
 h). El precio ronda los 90 dólares y generalmente incluye agua y algún snack. 
 
-##### No te pierdas: el Festival Esala Perahera
+### No te pierdas: el Festival Esala Perahera
 
 El **Esala Perahera** en la ciudad de Kandy es uno de los más grandes y antiguos 
 festivales budistas en Sri Lanka. Durante una semana entre los meses de julio y agosto, 
@@ -145,11 +152,11 @@ del diente desde India así como la decisión de un Rey Kandyano de compartir po
 días con su pueblo tan adorado símbolo. Si tienes oportunidad de coincidir con esta 
 festividad, que en 2019 se celebrará del 7 al 17 de julio, no te lo pierdas. 
 
-##### Más información
+### Más información
 
 [Turismo de Sri Lanka](http://www.srilanka.travel/) 
 
-### También te puede interesar:
+**También te puede interesar:** 
 
 {{< reflink path=posts/2018/10/viajar-sola-o-con-amigas-a-india >}} 
 

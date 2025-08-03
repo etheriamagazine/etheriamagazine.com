@@ -4,6 +4,7 @@ date: 2023-08-08
 cover: https://fotos.etheriamagazine.com/2023/08/paris-louvre-delacroix-mujeres-argel.jpg
 categories: 
   - cultura
+  - excursiones
 destino: 
   - España
 authors: 

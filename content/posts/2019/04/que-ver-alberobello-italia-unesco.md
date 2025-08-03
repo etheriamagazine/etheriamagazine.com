@@ -2,6 +2,8 @@
 title: "Secretos de Alberobello, un 'pícaro' pueblo italiano de Puglia"
 date: 2019-04-15
 cover: https://fotos.etheriamagazine.com/2019/04/que-ver-Alberobello-puglia.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - Europa
 authors: 

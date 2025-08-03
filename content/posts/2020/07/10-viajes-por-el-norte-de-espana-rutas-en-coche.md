@@ -11,9 +11,14 @@ authors:
   - Redacción Etheria
 ---
 
-Si lo que buscas es pasar tus vacaciones de verano en España alejada de las altas temperaturas, la opción más segura es el norte de la Península. Aquí te proponemos 10 viajes para que disfrutes de sus paisajes, sus playas y su gastronomía, perfectos tanto si viajas en familia como si vas a realizar una escapada con amigas.
+Si lo que buscas es pasar tus vacaciones de verano en España alejada de las altas 
+temperaturas, la opción más segura es el norte de la Península. Aquí te proponemos 10 
+viajes para que disfrutes de sus paisajes, sus playas y su gastronomía, perfectos tanto 
+si viajas en familia como si vas a realizar una escapada con amigas. 
 
 ![barcos de pesca en Bermeo](https://fotos.etheriamagazine.com/2020/07/viaje-norte-bizkaia.jpg "Puerto de Bermeo.")
+
+Actualizado 7/2025 
 
 El norte de España es una fuente inagotable de viajes, tanto de fin de semana como para 
 dedicar unas vacaciones completas. Si nos centramos en la cornisa Cantábrica, aparecen 
@@ -21,15 +26,6 @@ lugares que combinan a la perfección mar y bosques, playas y turismo activo. En
 artículo hemos recopilado algunas de nuestras propuestas de viajes por el norte de 
 España donde podrás disfrutar de buena temperatura en verano y una gastronomía de 
 infarto. Ya puedes ir tomando nota para tus próximas escapadas. 
-
-## Viajes al norte de España:
-
-[1\. Golfo de Bizkaia](#golfo-Bizkaia). [2\. Cañones en el País Vasco](#cañones). [3\. 
-San Sebastián y la costa vasca](#San-Sebastian). [4\. Cantabria 
-desconocida](#Cantabria-desconocida). [5\. Ruta por los faros de 
-Cantabria](#faros-Cantabria). [6\. Asturias con amigas](#Asturias). [7\. Picos de 
-Europa](#Picos-Europa). [8\. Camino de Finisterre](#camino-Finisterre). [9\. Ribeira 
-Sacra](#Ribeira-Sacra). [10\. Costa de Pontevedra en familia](#costa-Pontevedra). 
 
 ## 1\. Golfo de Bizkaia
 
@@ -76,9 +72,9 @@ amigas](http://etheriamagazine.com/2019/11/08/de-pintxos-por-san-sebastian-y-la-
 Si has viajado varias veces a Cantabria habrás notado enseguida que esta Comunidad 
 Autónoma guarda un montón de secretos poco conocidos en el resto de España. En este 
 reportaje por lugares sorprendentes de Cantabria te contamos algunos de ellos como el 
-bosque de secuoyas del Monte Cabezón, el Partenón cántabro, el [laberinto de Villa 
-Presente](https://laberintodevillapresente.es/), la calzada romana de Besaya o las 
-ermitas rupestres de Vanderredible (una comarca a la que dedicamos también un 
+bosque de secuoyas del Monte Cabezón, el Partenón cántabro, el laberinto de Villa 
+Presente, la calzada romana de Besaya o las ermitas rupestres de Vanderredible (una 
+comarca a la que dedicamos también un 
 [reportaje](http://etheriamagazine.com/2019/08/26/que-ver-valderredible-cantabria/)). 
 Además, es un destino perfecto para viajar en familia, así que os recomendamos consultar 
 nuestro artículo {{< reflink path=posts/2018/07/cantabria-viaje-en-familia >}}. 
@@ -160,7 +156,7 @@ Cambados hasta un paseo por la Ruta de las Pedras Negras en la península de O�
 
 ![Joven en el mirador de la ruta de las Pedras Negras](https://fotos.etheriamagazine.com/2019/09/ogrove-ruta-pedras-negras.jpg "Mirador en la ruta de las Pedras Negras.(Pontevedra). © SG")
 
-### También te puede interesar:
+**También te puede interesar** 
 
 {{< reflink path=posts/2020/11/10-escapadas-fin-de-semana-andalucia >}} 
 

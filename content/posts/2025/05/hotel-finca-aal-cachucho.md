@@ -2,6 +2,8 @@
 title: "Finca Aal Cachucho, el hotel boutique que enamora en la sierra madrileña"
 date: 2025-05-20
 cover: https://fotos.etheriamagazine.com/2025/05/finca-aal-cachucho-jardin.jpeg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - España
 authors: 

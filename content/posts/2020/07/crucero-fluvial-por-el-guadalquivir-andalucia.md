@@ -2,6 +2,8 @@
 title: "Recorre Andalucía a bordo de un crucero por el Guadalquivir"
 date: 2020-07-03
 cover: https://fotos.etheriamagazine.com/2020/07/crucero-guadalquivir-andalucia.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - España
 authors: 

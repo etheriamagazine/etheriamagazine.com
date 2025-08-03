@@ -3,7 +3,7 @@ title: "Cómo hacer la maleta para un viaje de trabajo"
 date: 2018-05-28
 cover: https://fotos.etheriamagazine.com/2018/05/WorkingOutfits-7-2.jpg
 categories: 
-  - qué-llevar-en-la-maleta
+  - que-llevar-en-la-maleta
 destino: 
   - Europa
 authors: 

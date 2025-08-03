@@ -4,7 +4,7 @@ date: 2019-10-26
 cover: https://fotos.etheriamagazine.com/2019/10/gadget-equipaje-mujer-viajera.jpg
 categories: 
   - inspiración
-  - qué-llevar-en-la-maleta
+  - que-llevar-en-la-maleta
 destino: 
   - Europa
 authors: 

@@ -2,6 +2,8 @@
 title: "No te pierdas los artículos de Etheria Magazine más leídos en 2023"
 date: 2023-12-26
 cover: https://fotos.etheriamagazine.com/2023/12/viajes-2023.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - España
 authors: 

@@ -11,7 +11,11 @@ authors:
   - Pepa G. Marín
 ---
 
-Estos 16 planes en Conil con amigas (o con quien quieras) te ayudarán a averiguar qué es eso tan especial que hace que tantas familias y amigos lo elijan cada verano como su lugar de vacaciones. Este pueblo blanco gaditano, con playas espectaculares y restaurantes para quitarse el sombrero, también posee algo intangible que logra que los “veraneantes” se conviertan en sus mejores prescriptores.
+Estos 16 planes en Conil con amigas (o con quien quieras) te ayudarán a averiguar qué es 
+eso tan especial que hace que tantas familias y amigos lo elijan cada verano como su 
+lugar de vacaciones. Este pueblo blanco gaditano, con playas espectaculares y 
+restaurantes para quitarse el sombrero, también posee algo intangible que logra que los 
+“veraneantes” se conviertan en sus mejores prescriptores. 
 
 ![iglesia santa Catalina Conil](https://fotos.etheriamagazine.com/2021/06/plaza-iglesia-conil.jpg "Plaza con la iglesia de Santa Catalina al fondo (actual centro cultural). © P.G.")
 
@@ -85,22 +89,18 @@ tapas igual de ricas. Como está muy demandado, en temporada alta es recomendabl
 reservar. 
 
 Entre los cientos (no creo que exageremos) de bares de Conil encontrarás tapeo 
-tradicional y creativo, te recomendamos ir alternándolo. Algunas referencias son: [El 
-Pasaje](https://elpasajeconil.com/) (avda. de la Playa), [La 
-Almazara](https://www.almazaraconil.com/) (c/ La Laguna), [La 
-Tabernita](https://www.facebook.com/La-Tabernita-112230713571202/) (Plaza de España, 4), 
-[Puerta Cai](https://barpuertacai.com/) (final de la calle Cádiz), etc. No dejes de 
-pasarte por el recién reformado restaurante [El Sopa](https://www.facebook.com/BarSopa) 
-(calle Cádiz, 32), desde cuya terraza se obtiene una bonita panorámica de la playa. En 
-[La Cachorra Perdida](https://lacachorraperdida.negocio.site/) también encontrarás 
-platos muy cuidados. 
+tradicional y creativo, te recomendamos ir alternándolo. Algunas referencias son: El 
+Pasaje (avda. de la Playa), La Almazara (c/ La Laguna), La Tabernita (Plaza de España, 
+4), Puerta Cai (final de la calle Cádiz), etc. No dejes de pasarte por el recién 
+reformado restaurante El Sopa (calle Cádiz, 32), desde cuya terraza se obtiene una 
+bonita panorámica de la playa. En La Cachorra Perdida también encontrarás platos muy 
+cuidados. 
 
 Y como lugares muy originales y castizos que sólo abren en verano están **El Bernabéu** 
 (en el paseo marítimo), un chiringuito donde tomar unas sardinas asadas y unas cervezas 
-por pocos euros. Y junto al puerto pesquero, [El 
-Tergal](https://www.facebook.com/El-Tergal-109963012408513/), uno de los referentes de 
-toda la vida con buena materia prima y excelente relación calidad-precio. Es ideal tanto 
-para comer como para cenar. 
+por pocos euros. Y junto al puerto pesquero, El Tergal, uno de los referentes de toda la 
+vida con buena materia prima y excelente relación calidad-precio. Es ideal tanto para 
+comer como para cenar. 
 
 ![playa fontanilla de conil](https://fotos.etheriamagazine.com/2021/01/conil-atardecer.jpg "Atardecer desde playa de la Fontanilla. © Etheria M.")
 
@@ -115,10 +115,10 @@ elección.
 
 Pero en verano también puedes optar por ver el astro ocultándose tras el faro. Tendrás 
 que ir a la playa Fuente del Gallo, prueba a hacer la foto desde su único chiringuito, 
-el [Kanguro](https://kanguroconil.com). Si te acercas al **faro**, la perspectiva será 
-más elevada y las siluetas (o selfis) quedarán espectaculares. Este año, además, se ha 
-inaugurado un **mirador junto al puerto pesquero** que regala una imagen de los 
-acantilados dorados que es espectacular. 
+el Kanguro. Si te acercas al **faro**, la perspectiva será más elevada y las siluetas (o 
+selfis) quedarán espectaculares. Este año, además, se ha inaugurado un **mirador junto 
+al puerto pesquero** que regala una imagen de los acantilados dorados que es 
+espectacular. 
 
 ![chiringuito fuente del gallo Conil](https://fotos.etheriamagazine.com/2021/06/chiringuito-fuente-gallo-conil.jpg "Chiringuito de la playa Fuente del Gallo. © Pepa G.")
 
@@ -154,34 +154,27 @@ sobre este animal. Y después a degustarlo, claro. Si puedes viajar en mayo, cua
 celebra la Ruta del Atún Rojo encontrarás eventos especiales y tapas que se presentan a 
 concurso (muchas se mantienen en carta durante todo el año). Entre los muchos 
 restaurantes de Conil, algunos donde ya hemos probado el atún rojo y nos parece que lo 
-preparan de forma espectacular son [El 
-Roqueo,](https://www.elroqueo.com/restaurante-roqueo-conil.php) [Casa 
-Francisco](https://www.franciscofontanilla.com/), [Bar Juan 
-María](https://www.facebook.com/barJuanMaria) y [Venta 
-Melchor](http://www.restauranteventamelchor.com/). 
+preparan de forma espectacular son El Roqueo, Casa Francisco y Venta Melchor. 
 
 ![copas en Conil](https://fotos.etheriamagazine.com/2021/06/calle-cadiz-tomas-borrego-conil.jpg "Calle Cádiz y José Tomás Borrego, dos calles con mucho ambiente por la noche. © P.G.")
 
 ## 7\. Ir de copas en Conil
 
 Si la vida diurna en Conil es animada, con sus bares, terrazas y heladerías (prueba los 
-helados con sabores locales en [Marsalao](https://www.facebook.com/marsalao1)), espera a 
-ver la nocturna… Entre tus planes con amigas en Conil no deben faltar unas cañas en el 
-paseo marítimo y en la calle Cádiz, donde también podrás picotear y cenar, antes de 
-lanzarte a conquistar la noche conileña. Las principales zonas de bares en Conil se 
-encuentran en el centro histórico y aledaños de la plaza España, la calle del Peñón y la 
-calle Ancha. 
+helados con sabores locales en Marsalao), espera a ver la nocturna… Entre tus planes con 
+amigas en Conil no deben faltar unas cañas en el paseo marítimo y en la calle Cádiz, 
+donde también podrás picotear y cenar, antes de lanzarte a conquistar la noche conileña. 
+Las principales zonas de bares en Conil se encuentran en el centro histórico y aledaños 
+de la plaza España, la calle del Peñón y la calle Ancha. 
 
 Aunque nuestra recomendación es que entres y salgas de sitios hasta dar con el que más 
 te convenza, te diremos nuestros favoritos. En bares con patios (y espacio al AIRE 
-LIBRE) están los tradicionales [La Luna](https://www.facebook.com/lalunaconil) (copas, 
-música y bailoteo) y **La Tertulia**, para ir de tranqui ([Gral. Gabino Aranda, 
-12](https://www.google.com/maps/dir/Calle+Gral.+Gabino+Aranda,+12,+11140+Conil+de+la+Frontera,+C%C3%A1diz/Plaza+de+Espa%C3%B1a,+11140+Conil+de+la+Frontera,+C%C3%A1diz/@36.2755224,-6.0907749,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd0c382209acc58d:0x29cab82205cf74bd!2m2!1d-6.089248!2d36.2754362!1m5!1m1!1s0xd0c3818b82eefa5:0x9c64395b63cf1133!2m2!1d-6.0879137!2d36.2756875!3e2)), 
-y [La Cochera](https://www.facebook.com/La-Cochera-Conil-969841906367529/). Toma nota 
-también de **La Casa Inquieta**, con su música en directo (Plaza de España, 16), **La 
-Buganvilla Gintoneria** (calle Señores Curas) y El Duende. Y en discotecas, la mítica 
-Ícaro. Este verano 2021 hay que guardar un extra de prudencia para evitar 
-masificaciones, y usar mascarilla donde no se pueda mantener la distancia de seguridad. 
+LIBRE) están los tradicionales La Luna (copas, música y bailoteo) y **La Tertulia**, 
+para ir de tranqui (Gral. Gabino Aranda, 12), y La Cochera. Toma nota también de **La 
+Casa Inquieta**, con su música en directo (Plaza de España, 16), **La Buganvilla 
+Gintoneria** (calle Señores Curas) y El Duende. Y en discotecas, la mítica Ícaro. Este 
+verano 2021 hay que guardar un extra de prudencia para evitar masificaciones, y usar 
+mascarilla donde no se pueda mantener la distancia de seguridad. 
 
 ![mirador de la Fontanilla Conil](https://fotos.etheriamagazine.com/2021/06/mirador-fontanilla.jpg "Mirador de La Atalaya, un buen lugar para tomar una cerveza con vistas al mar. © P.G.")
 
@@ -190,15 +183,13 @@ masificaciones, y usar mascarilla donde no se pueda mantener la distancia de seg
 Si quieres añadir algún plan activo más a tu escapada a Conil con amigas, tienes varios 
 donde elegir. Esta costa “bendecida” con el viento de levante es un lugar excepcional 
 para practicar surf. Si quieres iniciarte en este deporte puedes reservar unas clases en 
-[alguna 
-academia](https://www.google.com/search?q=surf%20en%20conil&oq=surf+en+coni&aqs=chrome.0.0j69i57j0j0i22i30l6.2738j0j4&sourceid=chrome&ie=UTF-8&tbs=lf:1,lf_ui:14&tbm=lcl&sxsrf=ALeKk00rcA9p4xOQqO7YM7WCncLSYJRroQ:1624874149283&rflfq=1&num=10&rldimm=10540511106263214721&lqi=Cg1zdXJmIGVuIGNvbmlsWhUiDXN1cmYgZW4gY29uaWwqBAgDEACSAQtzdXJmX3NjaG9vbJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VORE5IUmlPRlYzRUFFqgEMEAEqCCIEc3VyZigO&phdesc=g5cbqQBrhE0&ved=2ahUKEwi4vOPzh7rxAhUE5OAKHdTfC3YQvS56BAgGECs&rlst=f#rlfi=hd:;si:10540511106263214721,l,Cg1zdXJmIGVuIGNvbmlsWhUiDXN1cmYgZW4gY29uaWwqBAgDEACSAQtzdXJmX3NjaG9vbJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VORE5IUmlPRlYzRUFFqgEMEAEqCCIEc3VyZigO,y,g5cbqQBrhE0;mv:[[36.296687999999996,-6.0676141999999995],[36.2270204,-6.1035791999999995]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:14) 
-de la zona, donde además te prestarán todo el equipo. Si prefieres algo más tranquilo, 
-un [bautizo de buceo](http://oceanoadictos.com/servicios-y-tarifas.html) tampoco está 
-nada mal y comienzas probando el equipo en una piscina, así que está todo controlado. 
-Por último, una actividad muy divertida para la que no necesitas ninguna habilidad 
-especial es el kayak. Lo puedes alquilar en la **cala del Aceite** por media o una hora 
-y recorrer parte de la costa a tu ritmo. También tienen tabla de _paddle surf_, así que 
-alquila lo que te resulte más sencillo o divertido. 
+alguna academia de la zona, donde además te prestarán todo el equipo. Si prefieres algo 
+más tranquilo, un bautizo de buceo tampoco está nada mal y comienzas probando el equipo 
+en una piscina, así que está todo controlado. Por último, una actividad muy divertida 
+para la que no necesitas ninguna habilidad especial es el kayak. Lo puedes alquilar en 
+la **cala del Aceite** por media o una hora y recorrer parte de la costa a tu ritmo. 
+También tienen tabla de _paddle surf_, así que alquila lo que te resulte más sencillo o 
+divertido. 
 
 Y si prefieres montar en bicicleta, encontrarás una ruta cicloturista que lleva desde 
 Conil hasta Caños de Meca (EuroVelo 8, de 12 km). 
@@ -210,12 +201,10 @@ Conil hasta Caños de Meca (EuroVelo 8, de 12 km).
 Si no quieres renunciar a la práctica de yoga durante las vacaciones, incluye entre tus 
 planes en Conil con amigas unas sesiones en un lugar tan recomendable como [Centro 
 Urano](https://www.facebook.com/CentroUranoConil) (calle Urano, 7B), donde ofrecen 
-clases durante el verano de lunes a jueves a las 20.15 horas. Puedes optar por clases 
-sueltas (10 €), bonos (5 clases, 40 €) o mensualidades (40 €/ mes). En caso de que 
-prefieras otro tipo de sesiones o algo más especial, a tu medida, seguro que te 
-organizan algo. También están especializados en masajes, osteopatía y terapia 
-craneosacral biodinámica, así que la propuesta no puede ser más completa. Pregunta por 
-Ofelia que te atenderá de maravilla. 
+clases durante el verano. En caso de que prefieras otro tipo de sesiones o algo más 
+especial, a tu medida, seguro que te organizan algo. También están especializados en 
+masajes, osteopatía y terapia craneosacral biodinámica, así que la propuesta no puede 
+ser más completa. Pregunta por Ofelia que te atenderá de maravilla. 
 
 ![yoga en la playa Conil](https://fotos.etheriamagazine.com/2021/06/yoga-conil.jpg "Yoga en la playa.")
 
@@ -226,8 +215,7 @@ Sancha Pérez. Allí puedes hacer una visita guiada para aprender de vinos ecol�
 también, de aceite. Para llegar debes tomar la carretera CA-2233 que lleva hasta El 
 Palmar, y salir por un carril a la izquierda tras pasar el puente (hay que ir atenta). 
 Las visitas suelen durar unos 90 minutos, y se organizan de lunes a sábado por las 
-mañanas. Es gratuita pero si quieres algo más especial con [cata de vinos y 
-aperitivos](https://sanchaperez.com/es/content/17-catas-de-vinos-y-productos-ecologicos), 
+mañanas. Es gratuita pero si quieres algo más especial con cata de vinos y aperitivos, 
 debes solicitarlo previamente. 
 
 ## 6 planes más en Conil con amigas

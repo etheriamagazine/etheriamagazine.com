@@ -2,6 +2,8 @@
 title: "Dos días en El Cairo, entre la historia y el caos"
 date: 2023-08-16
 cover: https://fotos.etheriamagazine.com/2023/08/egipto-cairo-piramides-kefren-chicas.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - Mundo
 authors: 

@@ -10,11 +10,13 @@ authors:
   - Pilar Ortega
 ---
 
-**George Sand descubrió hace casi dos siglos una isla de Mallorca completamente distinta 
+George Sand descubrió hace casi dos siglos una isla de Mallorca completamente distinta 
 de la que podemos percibir en la actualidad. A través de sus testimonios conocemos la 
-impresión que obtuvo de sus paisajes y de sus gentes.** 
+impresión que obtuvo de sus paisajes y de sus gentes. 
 
 ![Torre de la cartuja de Valldemossa.](https://fotos.etheriamagazine.com/2018/05/iglesia-valldemossa.jpg "Torre de la cartuja de Valldemossa. © Zoran Borojevic")
+
+Actualizado 07/2025 
 
 Para conocer las impresiones de George Sand sobre la isla balear nos hemos zambullido en 
 las páginas de **_Un invierno en Mallorca_**. Este es el célebre libro que la escritora 
@@ -184,5 +186,7 @@ algún yugo que sacudir?”.
 **También te puede interesar...** 
 
 1. El [libro biográfico de George Sand](https://amzn.to/3lXzz1w).
-2. Una versión de '[Un invierno en Mallorca' en papel](https://amzn.to/3m92orP).
-3. Leer: {{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}.
+
+3. Una versión de '[Un invierno en Mallorca' en papel](https://amzn.to/3m92orP).
+
+5. Leer: {{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}.

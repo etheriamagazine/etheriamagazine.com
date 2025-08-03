@@ -2,6 +2,8 @@
 title: "Ruta en coche por Sicilia, entre pantocrátores y bikinis"
 date: 2021-07-05
 cover: https://fotos.etheriamagazine.com/2021/07/sicilia-viaje.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - Europa
 authors: 

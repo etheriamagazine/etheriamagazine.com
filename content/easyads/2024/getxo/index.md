@@ -7,7 +7,6 @@ easyads:
   type: image
   url: https://www.getxo.eus/es/turismo
   target: 
-    - side_1
-
+    - side
 ---
 

@@ -2,6 +2,8 @@
 title: "Complutum Renacida, Alcalá de Henares se transforma en Roma en el puente de mayo"
 date: 2023-04-14
 cover: https://fotos.etheriamagazine.com/2023/04/desfile-complutum-renacida-alcala.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - España
 authors: 

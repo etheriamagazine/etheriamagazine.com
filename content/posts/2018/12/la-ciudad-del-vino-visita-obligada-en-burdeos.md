@@ -6,6 +6,7 @@ categories:
   - gourmet
   - inspiración
   - cultura
+  - excursiones
 destino: 
   - Europa
 authors: 

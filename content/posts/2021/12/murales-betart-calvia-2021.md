@@ -2,6 +2,8 @@
 title: "BetArt Calvià 2021, visita sus cinco nuevos murales"
 date: 2021-12-04
 cover: https://fotos.etheriamagazine.com/2021/12/Joan-Cabrer-1.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - España
 authors: 

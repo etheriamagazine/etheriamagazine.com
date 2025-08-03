@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Este 2023 se cumplen 95 años desde que el rey Alfonso XIII inaugurara el primer 
-parador de la red, el de Gredos. En este tiempo la cartera de hoteles se ha multiplicado 
-y ya casi llegan a un centenar. Entre ellos, uno que destaca por su historia, entorno 
-natural e impecable servicio es el Parador de Cangas de Onís.** 
+Este 2025 se cumplen 97 años desde que el rey Alfonso XIII inaugurara el primer parador 
+de la red, el de Gredos. En este tiempo la cartera de hoteles se ha multiplicado y ya 
+casi llegan a un centenar. Entre ellos, uno que destaca por su historia, entorno natural 
+e impecable servicio es el Parador de Cangas de Onís. 
 
 ![Planta baja del claustro del Parador de Cangas de Onís.](https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-claustro.jpg "Planta baja del claustro del Parador de Cangas de Onís.")
 
@@ -37,7 +37,7 @@ de Cangas de Onís. Conmemorando 25 años desde su apertura como hotel, esta joy
 arquitectónica nos ofrece una experiencia única que combina el legado histórico de 
 Asturias con todas las comodidades modernas. 
 
-📍**Curiosidad**: Uno de los elementos más alabados del edificio son los capiteles 
+**Curiosidad**: Uno de los elementos más alabados del edificio son los capiteles 
 historiados de su portada románica, sobre todo las escenas que cuentan la despedida de 
 Favila (hijo de don Pelayo y segundo rey de Asturias, entre 737 y 739) de su esposa y su 
 posterior muerte por el ataque de un oso. 
@@ -87,8 +87,8 @@ celebra la Fiesta del Asturcón donde intentan domarlos en la Majada de Espinere
 visitas **Cabrales** para probar el famoso queso e ir a su museo, o bien optas por 
 conocer la **Cueva de Tito Bustillo**? 
 
-📍**No te pierdas:** {{< reflink 
-path=posts/2022/01/asturias-en-coche-guia-imprescindible >}}. 
+**No te pierdas:** {{< reflink path=posts/2022/01/asturias-en-coche-guia-imprescindible 
+>}}. 
 
 Y para terminar un intenso día de actividades, no existe un plan mejor que relajarte en 
 su **espacio wellness**, ubicado junto al manantial y al pozo de los monjes, o recibir 

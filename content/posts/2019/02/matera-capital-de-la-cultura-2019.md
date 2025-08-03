@@ -2,6 +2,8 @@
 title: "Una cita en... Matera, Capital Europea de la Cultura 2019"
 date: 2019-02-02
 cover: https://fotos.etheriamagazine.com/2019/01/Sassi-di-Matera.jpg
+categories: 
+  - excursiones
 destino: 
   - Europa
 authors: 

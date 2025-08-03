@@ -4,7 +4,7 @@ date: 2020-05-08
 cover: https://fotos.etheriamagazine.com/2020/04/cuba-trompetista.jpg
 categories: 
   - inspiración
-  - qué-llevar-en-la-maleta
+  - que-llevar-en-la-maleta
 destino: 
   - Mundo
 authors: 

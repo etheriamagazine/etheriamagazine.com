@@ -4,7 +4,6 @@ date: 2018-05-03
 cover: https://fotos.etheriamagazine.com/2020/04/viaje-estambul.jpg
 categories: 
   - viajar-en-pareja
-  - ocio
 destino: 
   - Mundo
 authors: 
@@ -80,7 +79,7 @@ de los lugares imprescindibles si visitas Estambul en pareja. Te enamorarán sus
 cúpulas y semicúpulas en forma de cascada, sus elegantes minaretes y sus paredes 
 cubiertas con bellos azulejos azules de Iznik. 
 
-![Interior de la Mezquita Azul (Estambul).](https://fotos.etheriamagazine.com/2018/05/ESTAMBUL-TECHO-MEZQUITA-AZUL-e1552469172292.jpg "Interior de la Mezquita Azul (Estambul). © SG")
+![Interior de la Mezquita Azul (Estambul).](https://fotos.etheriamagazine.com/2018/05/ESTAMBUL-TECHO-MEZQUITA-AZUL-e1552469172292.jpg "Interior de la Mezquita Azul (Estambul). © Susana García")
 
 ### Del hipódromo al crucero por el Bósforo
 
@@ -113,7 +112,7 @@ animamos a verlo en vivo y en directo.
 📌 Si te interesa, [Civitatis tiene una propuesta por unos 30 
 euros](https://www.civitatis.com/es/estambul/espectaculo-derviches-girovagos/?aid=10211). 
 
-![Mercado de las Especias, unan visita romántica en Estambul](https://fotos.etheriamagazine.com/2018/05/ESTAMBUL-MERCADO-ESPECIAS-OK-e1552469237413.jpg "Mercado de las Especias (Estambul). © SG")
+![Mercado de las Especias, unan visita romántica en Estambul](https://fotos.etheriamagazine.com/2018/05/ESTAMBUL-MERCADO-ESPECIAS-OK-e1552469237413.jpg "Mercado de las Especias (Estambul). © Susana García")
 
 ## Qué mas ver en Estambul
 

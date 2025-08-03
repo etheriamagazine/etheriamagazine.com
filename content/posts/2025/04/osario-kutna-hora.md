@@ -2,6 +2,8 @@
 title: "Kutná Hora y su osario, una excursión desde Praga que no puedes perderte este año"
 date: 2025-04-10
 cover: https://fotos.etheriamagazine.com/2025/04/kutna-hora-Osario-Sedlec.jpeg
+categories: 
+  - excursiones
 destino: 
   - Europa
 authors: 

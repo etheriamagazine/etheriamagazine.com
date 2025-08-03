@@ -4,7 +4,7 @@ date: 2024-02-28
 cover: https://fotos.etheriamagazine.com/2024/02/maleta-cuba-habana-casas.jpg
 categories: 
   - ocio
-  - qué-llevar-en-la-maleta
+  - que-llevar-en-la-maleta
 destino: 
   - Mundo
 authors: 

@@ -5,7 +5,7 @@ cover: https://fotos.etheriamagazine.com/2019/12/maleta-tailandia-chicas.jpg
 categories: 
   - inspiración
   - ocio
-  - qué-llevar-en-la-maleta
+  - que-llevar-en-la-maleta
 destino: 
   - Mundo
 authors: 

@@ -2,6 +2,8 @@
 title: "Andalucía en autocaravana y consejos prácticos para novatos"
 date: 2021-04-07
 cover: https://fotos.etheriamagazine.com/2021/04/autocaravana-estacionar.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - España
 authors: 

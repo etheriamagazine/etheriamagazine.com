@@ -3,7 +3,7 @@ title: "Qué llevar en cabina en un vuelo largo, 12 elementos básicos"
 date: 2023-07-14
 cover: https://fotos.etheriamagazine.com/2023/07/que-llevar-maleta-cabina.jpg
 categories: 
-  - qué-llevar-en-la-maleta
+  - que-llevar-en-la-maleta
 destino: 
   - Europa
 authors: 

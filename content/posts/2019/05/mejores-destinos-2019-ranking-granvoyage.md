@@ -2,6 +2,8 @@
 title: "Los mejores destinos 2019 según el 1er Ranking GrandVoyage.com"
 date: 2019-05-25
 cover: https://fotos.etheriamagazine.com/2019/05/viaje-japon-unplash.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - Mundo
 authors: 

@@ -4,7 +4,7 @@ date: 2019-06-05
 cover: https://fotos.etheriamagazine.com/2019/06/como-elegir-maleta.jpg
 categories: 
   - inspiración
-  - qué-llevar-en-la-maleta
+  - que-llevar-en-la-maleta
 destino: 
   - Europa
 authors: 

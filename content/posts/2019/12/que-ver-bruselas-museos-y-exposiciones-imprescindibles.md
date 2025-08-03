@@ -2,6 +2,8 @@
 title: "Arte a raudales en Bruselas: las mejores exposiciones 2019-2020"
 date: 2019-12-10
 cover: https://fotos.etheriamagazine.com/2019/12/expo-bruselas-dali-magritte.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - Europa
 authors: 

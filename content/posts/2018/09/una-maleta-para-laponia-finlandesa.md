@@ -5,7 +5,7 @@ cover: https://fotos.etheriamagazine.com/2018/09/laponia-finlandia-vestimenta.jp
 categories: 
   - inspiración
   - ocio
-  - qué-llevar-en-la-maleta
+  - que-llevar-en-la-maleta
 destino: 
   - España
 authors: 

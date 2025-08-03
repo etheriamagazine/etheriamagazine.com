@@ -2,6 +2,8 @@
 title: "Suiza en coche eléctrico, una aventura ecológica (y más económica)"
 date: 2021-02-10
 cover: https://fotos.etheriamagazine.com/2021/02/Coche-suiza-montanas.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - Europa
 authors: 

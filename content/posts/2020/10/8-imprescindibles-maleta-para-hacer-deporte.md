@@ -4,7 +4,7 @@ date: 2020-10-19
 cover: https://fotos.etheriamagazine.com/2020/10/viajar-deporte-mujer.jpg
 categories: 
   - compras
-  - qué-llevar-en-la-maleta
+  - que-llevar-en-la-maleta
 destino: 
   - Mundo
 authors: 

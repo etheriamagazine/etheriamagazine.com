@@ -2,6 +2,8 @@
 title: "Crea tu propia página web y comparte tus aventuras con el mundo"
 date: 2025-02-26
 cover: https://fotos.etheriamagazine.com/2025/02/crucero-islas.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - Europa
 authors: 

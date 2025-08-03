@@ -2,6 +2,8 @@
 title: "Guía esencial de Cantabria, visitas que no puedes perderte"
 date: 2022-09-05
 cover: https://fotos.etheriamagazine.com/2022/09/puente-hombre-pez-Lierganes.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - España
 authors: 

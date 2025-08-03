@@ -2,6 +2,8 @@
 title: "Crónica de un virus no anunciado"
 date: 2020-04-04
 cover: https://fotos.etheriamagazine.com/2020/04/soledad-coronavirus.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - España
 authors: 

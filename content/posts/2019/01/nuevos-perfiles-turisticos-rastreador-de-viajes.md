@@ -2,6 +2,8 @@
 title: "Carla Barberá, rastreadora de viajes"
 date: 2019-01-18
 cover: https://fotos.etheriamagazine.com/2019/01/Carla-Barberá-senior-editor-ViajerosPiratas.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - España
 authors: 

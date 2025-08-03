@@ -3,7 +3,7 @@ title: "Guía de compras: los mejores artículos para la playa para las viajeras
 date: 2025-05-22
 cover: https://fotos.etheriamagazine.com/2025/05/decathlon-verano-Paddle-Surf-tablas.jpg
 categories: 
-  - qué-llevar-en-la-maleta
+  - que-llevar-en-la-maleta
 destino: 
   - Mundo
 authors: 

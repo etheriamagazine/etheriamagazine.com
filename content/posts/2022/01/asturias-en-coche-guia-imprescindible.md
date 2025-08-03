@@ -1,5 +1,5 @@
 ---
-title: "Ruta en coche por Asturias con amigas"
+title: "Asturias en coche con amigas, descubre sus paradas imprescindibles"
 date: 2022-01-17
 cover: https://fotos.etheriamagazine.com/2022/01/playa-Torimbia.jpg
 categories: 
@@ -10,9 +10,14 @@ authors:
   - Yolanda Cardo
 ---
 
-Algunos de los pueblos más bonitos de España y de las mejores playas del mundo se encuentran en Asturias. Súmale un patrimonio cultural extraordinario y apabullantes parques naturales y tendrás la escapada perfecta. Si no sabes cómo organizar tu ruta por Asturias en coche, has encontrado al artículo adecuado.
+Algunos de los pueblos más bonitos de España y de las mejores playas del mundo se 
+encuentran en Asturias. Súmale un patrimonio cultural extraordinario y apabullantes 
+parques naturales y tendrás la escapada perfecta. Si no sabes cómo organizar tu ruta por 
+Asturias en coche, has encontrado al artículo adecuado. 
 
 ![asturias en coche cudillero](https://fotos.etheriamagazine.com/2022/01/Cudillero-asturias.jpg "Cudillero, uno de los pueblos más bonitos de España. ©Yolanda Cardo")
+
+Actualizado 7/2025 
 
 Las aguas del Cantábrico y las cumbres de su cordillera configuran la fisonomía de estas 
 hermosas tierras. El azul que decora sus costas se transforma en una generosa gama de 
@@ -25,43 +30,15 @@ revela todo su significado. Ya lo dicen ellos, Asturias es un paraíso natural.
 
 ![asturias en coche niembro](https://fotos.etheriamagazine.com/2022/01/Iglesia-Dolores-de-Barro-Niembro.jpg "Iglesia de Nuestra Señora de los Dolores de Barro en la localidad de Niembro. © Yolanda Cardo")
 
-## Imprescindibles en una ruta por Asturias en coche
-
-En este índice puedes consultar las propuestas que más te atraigan para tu viaje a 
-Asturias en coche: visitar sus playas, recorrer sus pueblos de interior, las ciudades o 
-los entornos naturales. Sea cual sea tu elección o incluso si lo mezclas todo, el 
-resultado será acertado. 
-
-1\. [Playas de Asturias](#playas-asturias)[:](#andrin-ballota) **- ** [Andrín y 
-Ballo](#andrin-ballota) ****- **** [Torimbia, paraíso nudista](#playa-torimbia) ****- 
-**** [Gulpiyuri](#playa-Gulpiyuri) ****- **** [](#playa-Gulpiyuri)[Los 
-Quebrantos](#playa-quebrantos) **- **[Playa del Silencio](#playa-silencio) 
-
-2\. [Pueblos costeros de Asturias](#pueblos-bonitos-asturias): **- ** 
-[Llanes](#imprescindibles-llanes) ****- **** [Niembro](#niembro-asturias) ****- **** 
-[Ribadesella](#ribadesella-asturias) ****- **** [Lastres](#lastres-asturias) ****- **** 
-[Cudillero](#cudillero-asturias) ****- **** [Luarca](#luarca-asturias) 
-
-3\. [Pueblos de interior](#pueblos-asturias)**:** **- ** [San Juan de Beleño](#san-juan) 
-****- **** [Cazo y Pen](#cazo-pen) ****- **** [Cangas de Onís](#cangas-onis) ****- **** 
-[Cangas del Narcea](#cangas-narcea) 
-
-4\. [Triángulo para urbanitas](#ciudades-asturias)**:** **- ** [Gijón](#gijon) ****- 
-**** [Avilés](#aviles) ****- **** [Oviedo](#oviedo) 
-
-5\. [Naturaleza en estado puro](#parques-asturias)[:](#picos-europa) **- ** [P. N. Picos 
-de Europa](#picos-europa) **- ** [P. N. y Reserva de la Biosfera de 
-Ponga](#biosfera-ponga) **- **[Reserva Natural Integral de Muniellos](#parque-muniellos) 
-
-![playas andrin y ballota asturias](https://fotos.etheriamagazine.com/2022/01/playas-Andrin-Ballota.jpg "Las playas gemelas de Andrín y Ballota. © Yolanda Cardo")
-
-### 1\. ¡Vaya, vaya, aquí sí hay playas… y muchas!
+## 1\. ¡Vaya, vaya, aquí sí hay playas… y muchas!
 
 La costa asturiana presume de playas. Las hay infinitas y minúsculas, apacibles y 
 salvajes. Todas únicas, espectaculares. Aquí van algunas sugerencias, para recorrer el 
 Principado, casi, sin salir del agua. 
 
-#### Playas gemelas: Andrín y Ballota
+![playas andrin y ballota asturias](https://fotos.etheriamagazine.com/2022/01/playas-Andrin-Ballota.jpg "Las playas gemelas de Andrín y Ballota. © Yolanda Cardo")
+
+### Playas gemelas: Andrín y Ballota
 
 A escasos kilómetros de Llanes se encuentran las playas de Andrín y Ballota, unas 
 magníficas conchas marinas que rivalizan en belleza, pero no en bravura (Andrín es 
@@ -72,13 +49,13 @@ costa llanisca.
 
 ![playa torimbia asturias](https://fotos.etheriamagazine.com/2022/01/playa-Torimbia.jpg "Panorámica de la playa de Torimbia. © Yolanda Cardo")
 
-#### Playa Torimbia, un paraíso nudista
+### Playa Torimbia, un paraíso nudista
 
 Entre Llanes y Ribadesella, arropada por acantilados, una extensa alfombra de fina arena 
 nos da la bienvenida a la playa de Torimbia. 500 metros de aguas paradisiacas de fácil 
 acceso y muy apreciadas por los nudistas en los años 60. 
 
-#### Una “mini” playa: Gulpiyuri
+### Una “mini” playa: Gulpiyuri
 
 Puede parecer una peculiar laguna pero Gulpiyuri es una playa interior, cerrada al 
 Cantábrico por un pequeño acantilado que filtra sus aguas. Muy pequeña pero con mucho 
@@ -87,7 +64,7 @@ escasos 50 m catalogados como Monumento Nacional.
 
 ![asturias en coche playa gulpiyuri](https://fotos.etheriamagazine.com/2022/01/playa-Gulpiyuri.jpg "La diminuta playa de Gulpiyuri. © Yolanda Cardo")
 
-#### Los Quebrantos, la mayor playa de Asturias
+### Los Quebrantos, la playa más grande de Asturias
 
 Y de la más pequeña nos vamos hasta el arenal más extenso de Asturias, la playa de Los 
 Quebrantos, en San Juan de la Arena. Un magnífico litoral, de más de 800 metros, 
@@ -102,7 +79,7 @@ Luiña** y probar las deliciosas empanadas de la panadería La Estrella.
 
 ![playa del silencio asturias](https://fotos.etheriamagazine.com/2022/01/playa-del-Silencio.jpg "Farallones y cantos rodados en la playa del Silencio. © Yolanda Cardo")
 
-#### Playa del Silencio
+### Playa del Silencio
 
 Un último apunte nos lleva hasta la sugerente playa del Silencio. Una agreste ensenada 
 de piedras, donde la fiereza del Cantábrico enmudece ante los islotes que emergen de sus 
@@ -112,14 +89,14 @@ quizás por ello no suele estar muy concurrida y la tranquilidad está asegurada
 
 ![llanes asturias en coche](https://fotos.etheriamagazine.com/2022/01/Llanes-asturias.jpg "Llanes, un pueblo con mucho patrimonio y encanto © Yolanda Cardo")
 
-### 2\. Pueblos más bonitos de Asturias
+## 2\. Pueblos más bonitos de Asturias
 
 Los meses estivales se convierten en un hervidero de turistas que inundan las calles y 
 restaurantes de algunos de los enclaves más bonitos de nuestra geografía. El ocaso del 
 estío les devuelve la quietud y el apacible encanto propio de estas villas de 
 pescadores, el momento perfecto para visitarlos. 
 
-#### Llanes
+### Llanes
 
 Comenzamos en la “muy noble y leal villa” de Llanes. Un enclave único en el extremo 
 oriental de la costa asturiana, dividida en dos por las aguas del río Carrocedo 
@@ -136,10 +113,10 @@ visitantes y terrazas, se percibe aún mientras paseamos por las calles del casc
 antiguo, por las laderas de la ría donde reposan coloridas embarcaciones o mientras 
 fotografiamos los bloques de hormigón de la escollera, pintados por Agustín Ibarrola. 
 
-? No te pierdas el artículo: {{< reflink 
+No te pierdas el artículo: {{< reflink 
 path=posts/2020/08/mejores-playas-llanes-costa-asturias >}}. 
 
-#### Niembro
+### Niembro
 
 A unos 8 km al oeste de Llanes, por la carretera LLN-11, aparece, como un espejismo, un 
 lugar tan bello como melancólico, Niembro. Un diminuto pueblo costero engarzado al final 
@@ -149,7 +126,7 @@ conjunto en las aguas.
 
 ![asturias en coche ribadesella](https://fotos.etheriamagazine.com/2022/01/palacetes-playa-Ribadesella.jpg "Casonas y palacetes en la playa de Santa María de Ribadesella. © Yolanda Cardo")
 
-#### Ribadesella
+### Ribadesella
 
 El Sella se alía con el mar en Ribadesella para ofrecer uno de los paisajes más 
 emblemáticos y espectaculares de la costa asturiana. Este municipio de pendientes 
@@ -160,7 +137,7 @@ de la Grúa, decorado con murales de Mingote, que discurre paralelo a la ría de
 antes de ascender hasta la ermita de Guía en lo alto del Monte Corberu, un magnífico 
 balcón al Cantábrico. 
 
-#### Lastres
+### Lastres
 
 Nos vamos hasta Lastres, en el concejo de Colunga, un lugar que la **serie televisiva 
 _Doctor Mateo_** hizo muy popular. Un precioso pueblo pesquero de casas blasonadas y 
@@ -174,7 +151,7 @@ cabo de Lastres.
 
 ![lastres asturias en coche](https://fotos.etheriamagazine.com/2022/01/lastres-asturias.jpg "Vista de Lastres desde el mirador de San Roque © Yolanda Cardo")
 
-#### Cudillero
+### Cudillero
 
 Los acantilados de la costa asturiana le hicieron hueco a **uno de los pueblos más 
 bonitos** **de Asturias** y de los más pintorescos del litoral español, Cudillero, el 
@@ -182,7 +159,7 @@ bonitos** **de Asturias** y de los más pintorescos del litoral español, Cudill
 serpenteantes calles de coloridas casas, sumado a su tradición pesquera, le han 
 convertido en uno de los enclaves más concurridos y fotografiados del Cantábrico. 
 
-#### Luarca
+### Luarca
 
 Aunque la lista podría ser mucho más extensa, el broche final lo ponemos en Luarca, la 
 capital del concejo de Valdés. Un enclave que lo tiene todo para enamorar: un río 
@@ -195,9 +172,9 @@ situado en un promontorio con vistas espectaculares.
 
 ![luarca asturias en coche](https://fotos.etheriamagazine.com/2022/01/luarca-asturias.jpg "Vista de Luarca desde el puerto. © Yolanda Cardo")
 
-### 3\. Pueblos de interior
+## 3\. Pueblos del interior de Asturias que debes conocer
 
-#### San Juan de Beleño
+### San Juan de Beleño
 
 Alejados de la costa, el interior del Principado esconde coquetos pueblos perfectos para 
 detenerse. Uno de ellos es San Juan de Beleño, capital del Concejo de Ponga, un 
@@ -213,7 +190,7 @@ Beyos.
 
 ![san juan de belono asturias](https://fotos.etheriamagazine.com/2022/01/San-Juan-de-Belono.jpg "San Juan de Beloño, capital del concejo de Ponga. © Yolanda Cardo")
 
-#### Cazo y Pen
+### Cazo y Pen
 
 También en el concejo de Ponga, una visita muy recomendable es la recoleta parroquia de 
 Cazo. Un pequeño municipio que ha convertido sus numerosos hórreos y paneras en un museo 
@@ -229,7 +206,7 @@ como _bruxas_ o _xanas_.
 
 ![ruta beyu pen asturias](https://fotos.etheriamagazine.com/2022/01/Ruta-Beyu-Pen.jpg "Ruta mitológica de Beyu Pen. © Yolanda Cardo")
 
-#### Cangas de Onís
+### Cangas de Onís
 
 Cambiamos de concejo y de paisaje. Estamos en la antesala de Picos de Europa y sus 
 hermosos, aunque masificados, lagos de Covadonga. Cangas de Onís, la que fuera capital 
@@ -243,7 +220,7 @@ Cruz**, que conserva en su interior un dolmen del 4000 a.C.
 
 ![asturias en coche cangas de onis](https://fotos.etheriamagazine.com/2022/01/puente-Cangas-de-Onis.jpg "El famoso puente de piedra de Cangas de Onís. © Yolanda Cardo")
 
-#### Cangas del Narcea
+### Cangas del Narcea
 
 Si aún no conocéis Cangas del Narcea os recomendamos que le hagáis hueco a esta apacible 
 localidad de rincones encantadores. Acercaos hasta la **plaza de la Oliva** en busca de 
@@ -258,14 +235,14 @@ provocados por las intolerancias alimentarias.
 
 ![cangas de narcea asturias en coche](https://fotos.etheriamagazine.com/2022/01/cangas-narcea.jpg "Puente medieval en Cangas del Narcea. © Yolanda Cardo")
 
-### 4\. Triángulo para urbanitas: Oviedo, Gijón y Avilés
+## 4\. Triángulo para urbanitas: Oviedo, Gijón y Avilés
 
 Este “paraíso natural” tiene además grandes ciudades, en las que por cierto la 
 naturaleza también está muy presente. 
 
 ![centro niemeyer aviles asturias](https://fotos.etheriamagazine.com/2022/01/Centro-Niemeyer-Aviles.jpg "Centro Niemeyer de Avilés. © Yolanda Cardo")
 
-#### Avilés
+### Avilés
 
 Comenzamos en Avilés. En la actualidad nada tiene que ver con aquella urbe humosa y gris 
 donde, desde los años 50, se erigían los altos hornos a lo largo de su ría. Al igual que 
@@ -277,9 +254,9 @@ encontramos con un lugar realmente sorprendente de bellas edificaciones señoria
 calles porticadas, diáfanas plazas y hermosos jardines que revelan su elegante pasado 
 señorial. 
 
-![playa san lorenzo gijon asturias](https://fotos.etheriamagazine.com/2022/01/playa-de-San-Lorenzo-Gijon.jpg "Espectacular playa de San Lorenzo, en Gijón. ©Yolanda Cardo")
+![Espectacular playa de San Lorenzo, en Gijón.](https://fotos.etheriamagazine.com/2022/01/playa-de-San-Lorenzo-Gijon.jpg "Espectacular playa de San Lorenzo, en Gijón. ©Yolanda Cardo")
 
-#### Gijón
+### Gijón
 
 Gijón en cambio gira en torno a la espectacular playa de San Lorenzo. Imprescindible 
 recorrer su paseo marítimo de punta a punta para admirar las vistas de la bahía y el 
@@ -292,12 +269,12 @@ un monumental espacio construido entre 1946 y 1956 que alberga en su interior un
 universidad, un teatro y una iglesia cuya torre mide nada menos que 130 metros de 
 altura. 
 
-? No te pierdas el artículo: {{< reflink 
+No te pierdas el artículo: {{< reflink 
 path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias >}}. 
 
 ![san miguel lillo santa maria naranco](https://fotos.etheriamagazine.com/2022/01/San-Miguel-de-Lillo-y-Naranco.jpg "San Miguel de Lillo y Santa María del Naranco, dos joyas del prerrománico en Oviedo. © Y. Cardo")
 
-#### Oviedo
+### Oviedo
 
 El triángulo urbano lo corona la capital, perfecta para una escapada larga. Oviedo 
 armoniza el dinamismo de una gran ciudad con el sosiego del entorno rural que la rodea. 
@@ -312,14 +289,14 @@ recomendable, como también los es el cercano museo de Bellas Artes. Y para disf
 su ambiente y de su gastronomía, nada como pasear por el conocido como Bulevar de la 
 Sidra en la calle Gascona. 
 
-? No te pierdas el artículo: {{< reflink 
+No te pierdas el artículo: {{< reflink 
 path=posts/2021/10/planes-imprescindibles-en-oviedo-con-amigas >}}. 
 
 ![ruta arcenorio asturias](https://fotos.etheriamagazine.com/2022/01/ruta-Arcenorio.jpg "Mirador en la ruta del Arcenorio. © Yolanda Cardo")
 
-### 5\. Naturaleza en estado puro
+## 5\. Naturaleza asturiana en estado puro
 
-#### Parque Nacional Picos de Europa
+### Parque Nacional Picos de Europa
 
 Y haciendo honor a su eslogan, hablemos de naturaleza. El **Parque Nacional Picos de 
 Europa**, el primero declarado en España, y los lagos de Covadonga no necesitan 
@@ -329,10 +306,10 @@ cumbres, a pesar de las restricciones de acceso, resultan un destino excesivamen
 masificado durante el buen tiempo. Para disfrutarlas y protegerlas, mejor fuera de 
 temporada. 
 
-? No te pierdas el artículo: {{< reflink 
+No te pierdas el artículo: {{< reflink 
 path=posts/2018/10/picos-de-europa-ruta-por-asturias-leon-y-cantabria >}}. 
 
-#### Parque Natural y Reserva de la Biosfera de Ponga
+### Parque Natural y Reserva de la Biosfera de Ponga
 
 El Parque Natural y Reserva de la Biosfera de Ponga en cambio es un gran desconocido. 
 Situado en la parte centro-oriental de la cordillera Cantábrica, en el rural concejo de 
@@ -368,26 +345,15 @@ inolvidables.
 
 ![asturias en coche parque muniellos](https://fotos.etheriamagazine.com/2022/01/Reserva-Muniellos.jpg "Reserva Natural Integral de Muniellos. © Yolanda Cardo")
 
-### Guía exprés de Asturias | Etheria Magazine
+## Guía exprés de Asturias | Etheria Magazine
 
-##### Dónde dormir en tu ruta en coche en Asturias
+### Dónde dormir en tu ruta en coche en Asturias
 
 - **Casa rural La casina de Toñita**. Un encantador alojamiento en la aldea de Cazo con 
 unas espectaculares vistas. Tel. 679 593 404 o en lacasinadetonita@gmail.com 
 
-- Para una estancia de lujo, el [Hotel CoolRooms de Luces](https://palaciodeluces.com/). 
-El único Relais&Chateaux del Principado a solo 2 km de Lastres. 
+- Para una estancia de lujo, el **Hotel CoolRooms** de Luces. El único Relais&Chateaux 
+del Principado a solo 2 km de Lastres. Más información en palaciodeluces.com 
 
-- En Oviedo el [Gran Hotel las Caldas](https://www.granhotellascaldas.com/es/). Un hotel 
-balneario perfecto para descansar. 
-
-##### Información práctica
-
-- [Solicitud de acceso](https://www.muniellos.es/autorizacion-para-acceder-a-muniellos.html) a la Reserva Natural Integral de Muniellos
-- Más información en la [web](https://www.turismoasturias.es/) de Turismo de Asturias.
-
-* * *
-
-[Suscríbete a nuestra Newsletter](https://etheriamagazine.com/contacto-etheriamagazine/)
-
-[Sigue leyendo...](https://etheriamagazine.com/category/viajes-para-mujeres/viajes-con-amigas/)
+- En Oviedo el **Gran Hotel Las Caldas**. Un hotel balneario perfecto para descansar. 
+Más información en granhotellascaldas.com/es

@@ -2,6 +2,8 @@
 title: "Guía para viajar y hacer un voluntariado al mismo tiempo"
 date: 2019-07-15
 cover: https://fotos.etheriamagazine.com/2019/06/viaje-voluntariado-kenia.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - España
 authors: 

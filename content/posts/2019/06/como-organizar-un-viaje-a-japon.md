@@ -5,7 +5,7 @@ cover: https://fotos.etheriamagazine.com/2019/04/Japon-Onsen-ryokan-monte-Fuji.j
 categories: 
   - inspiración
   - ocio
-  - qué-llevar-en-la-maleta
+  - que-llevar-en-la-maleta
 destino: 
   - Mundo
 authors: 

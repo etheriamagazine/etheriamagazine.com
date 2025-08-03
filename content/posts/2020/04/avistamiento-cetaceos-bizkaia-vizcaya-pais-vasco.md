@@ -4,16 +4,21 @@ date: 2020-04-20
 cover: https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-bizkaia-ver-delfines.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-en-familia
 destino: 
   - España
 authors: 
   - Juan Carlos y Mar
 ---
 
-Avistar cetáceos en la costa vasca con tus "propios ojos" es una poderosa experiencia en el mar. Divisarlos en el País Vasco es una recompensa por partida doble: la certeza casi absoluta de verte ante un gigante del mar y hacerlo más cerca de lo que puedas imaginar. Al regresar a puerto nada como pisar tierra firme entre los encantos marineros de Bermeo.
+Avistar cetáceos en la costa vasca con tus "propios ojos" es una poderosa experiencia en 
+el mar. Divisarlos en el País Vasco es una recompensa por partida doble: la certeza casi 
+absoluta de verte ante un gigante del mar y hacerlo más cerca de lo que puedas imaginar. 
+Al regresar a puerto nada como pisar tierra firme entre los encantos marineros de 
+Bermeo. 
 
-![avistamiento de cetáceos, viajes al País Vasco, viajes de naturaleza](https://fotos.etheriamagazine.com/2020/03/viaje-vizcaya-puerto-cetaceos.jpg "Puerto de Bermeo.")
+![puerto de bermeo](https://fotos.etheriamagazine.com/2020/03/viaje-vizcaya-puerto-cetaceos.jpg "Puerto de Bermeo.")
+
+Actualizado 7/2025 
 
 El avistamiento de **cetáceos en la costa vasca** es una actividad turística que está al 
 alza. Pocos saben aún que el subidón de adrenalina que provoca ver una ballena puede 
@@ -89,9 +94,8 @@ presencia.
 
 Además del comportamiento ético con los animales, la empresa mantiene un compromiso 
 medioambiental que, además de recoger plásticos flotando durante la travesía marítima, 
-contribuye a la plantación de árboles autóctonos, en colaboración la [Fundación 
-Lurgaia](http://www.lurgaia.org/), para compensar la huella de CO2 producida durante 
-nuestra excursión. 
+contribuye a la plantación de árboles autóctonos, en colaboración la Fundación Lurgaia, 
+para compensar la huella de CO2 producida durante nuestra excursión. 
 
 ![alcatraz comun en pais vasco](https://fotos.etheriamagazine.com/2020/03/pais-vasco-ver-cetaceos-vizcaya-aves.jpg "Alcatraz común o Atlántico (Morus bassanus).")
 
@@ -102,7 +106,7 @@ inconfundible cola de un cachalote o tal vez la fortuna te sonría con una famil
 orcas a la vista. Y, quién sabe, si la imponente ballena azul, la más grande, con sus 
 treinta metros de longitud, se pone ante tu mirada. 
 
-![delfin comun en la costa vasca](https://fotos.etheriamagazine.com/2020/03/viaje-euskadi-cetaceos.jpg "Delfín común (Delphinus delphis).")
+![Delfín común](https://fotos.etheriamagazine.com/2020/03/viaje-euskadi-cetaceos.jpg "Delfín común (Delphinus delphis).")
 
 Los que sin duda no faltarán a la atracción que provoca nuestra presencia son los 
 **delfines**. Juguetones e inteligentes se aproximan en grandes grupos porque buscan la 
@@ -118,9 +122,9 @@ de Tronos_ sino que pisarás el islote más fotogénico del litoral vasco. No te
 no tienes que subir a un barco de nuevo para llegar a su pintoresca ermita, un puente de 
 dos arcos lo une a la costa. 
 
-### Cetáceos en la costa vasca | Etheria Magazine
+## Cetáceos en la costa vasca | Etheria Magazine
 
-##### Cuándo ver cetáceos en la costa vasca
+### Cuándo ver cetáceos en la costa vasca
 
 Si bien la observación de cetáceos en la costa vasca no está garantizada hay **muchas 
 probabilidades de éxito entre los meses de junio y octubre**, cuando permanecen más 
@@ -134,7 +138,7 @@ aves.
 La empresa [Ver Ballenas](http://verballenas.com/), realiza salidas desde julio a 
 octubre. Tiene como puertos de partida Bermeo y Santurtzi. 
 
-##### Mirador de cetáceos
+### Mirador de cetáceos
 
 El **cabo Matxikako**, junto a la localidad de Bermeo, y su antiguo faro de mampostería 
 son un magnífico mirador. La galería cubierta, que rodea la zona norte del faro, es uno 
@@ -143,7 +147,7 @@ de delfines pueden abarcarse sobre todo en enero y febrero cuando están más ac
 alimentándose de caballas. El verano y otoño son las estaciones más adecuadas para ver 
 desde este privilegiado promontorio a los cetáceos aproximarse hasta la costa. 
 
-### También te puede interesar...
+**También te puede interesar...** 
 
 {{< reflink path=posts/2019/04/viajes-naturaleza-mejores-canones-pais-vasco >}}. 
 

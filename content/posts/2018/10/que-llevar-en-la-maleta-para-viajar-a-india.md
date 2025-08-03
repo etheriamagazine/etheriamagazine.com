@@ -4,7 +4,7 @@ date: 2018-10-19
 cover: https://fotos.etheriamagazine.com/2018/10/maleta-viaje-india.jpg
 categories: 
   - inspiración
-  - qué-llevar-en-la-maleta
+  - que-llevar-en-la-maleta
 destino: 
   - Mundo
 authors: 

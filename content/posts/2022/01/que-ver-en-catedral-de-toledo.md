@@ -4,6 +4,7 @@ date: 2022-01-19
 cover: https://fotos.etheriamagazine.com/2022/01/Catedral-toledo-atardecer.jpg
 categories: 
   - ocio
+  - excursiones
 destino: 
   - España
 authors: 

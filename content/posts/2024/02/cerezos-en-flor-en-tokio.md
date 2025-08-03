@@ -6,6 +6,7 @@ categories:
   - viajar-sola
   - inspiración
   - ocio
+  - excursiones
 destino: 
   - Mundo
 authors: 

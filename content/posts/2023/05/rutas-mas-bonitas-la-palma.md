@@ -2,6 +2,8 @@
 title: "Senderismo en La Palma, descubre sus rutas más bonitas"
 date: 2023-05-24
 cover: https://fotos.etheriamagazine.com/2023/05/etheria-la-palma.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - España
 authors: 

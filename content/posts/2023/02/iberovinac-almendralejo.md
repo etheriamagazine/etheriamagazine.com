@@ -2,6 +2,8 @@
 title: "Iberovinac 2023, la feria de los amantes del vino, el aceite y la aceituna"
 date: 2023-02-15
 cover: https://fotos.etheriamagazine.com/2023/02/iberovincac-visita-bodega.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - España
 authors: 

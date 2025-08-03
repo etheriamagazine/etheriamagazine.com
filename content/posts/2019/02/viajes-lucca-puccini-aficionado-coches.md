@@ -2,6 +2,8 @@
 title: "Puccini nos lleva de viaje (en coche) a Lucca"
 date: 2019-02-21
 cover: https://fotos.etheriamagazine.com/2019/02/puccini.jpg
+categories: 
+  - articulos-por-categorizar
 destino: 
   - España
 authors: 

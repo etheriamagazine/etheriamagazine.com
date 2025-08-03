@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Si es la primera vez que visitas el Museo del Prado de Madrid, o tienes una agenda muy 
+Si es la primera vez que visitas el Museo del Prado de Madrid, o tienes una agenda muy 
 apretada en tu viaje, toma nota de las 15 obras imprescindibles que debes contemplar en 
 tu recorrido. Y un consejo extra: descárgate el plano al final del artículo (tus piernas 
-te lo agradecerán).** 
+te lo agradecerán). 
 
 ![Interior del Museo del Prado de Madrid](https://fotos.etheriamagazine.com/2019/09/museo-del-prado.jpg "© Museo del Prado.")
 
@@ -156,7 +156,7 @@ que es el lugar donde se encontraban en el siglo XVIII. Una curiosidad es que en
 siglo XVII se decoraban jardines y palacios por toda Europa con reproducciones de este 
 conjunto. 
 
-### Preguntas frecuentes
+## Preguntas frecuentes
 
 **Horarios**: De lunes a sábado: 10 a 20 h Domingos y festivos: 10 a 19 h 
 

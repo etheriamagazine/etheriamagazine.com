@@ -1,5 +1,5 @@
 ---
-title: "Lugares sorprendentes de Cantabria que aún no conoces"
+title: "Descubre la Cantabria más desconocida, ocho lugares sorprendentes"
 date: 2020-06-05
 cover: https://fotos.etheriamagazine.com/2020/06/viaje-bosque-secuoyas-cantabria.jpg
 categories: 
@@ -10,12 +10,14 @@ authors:
   - Pepa G. Marín
 ---
 
-**Cantabria y sus valles guardan muchos secretos, lugares poco conocidos en los que aún 
-no hay que hacer cola para tomarse un selfi. Compartimos contigo ocho de ellos... pero 
-no le digas a nadie que allí puede encontrar un Partenón, una calzada romana, un bosque 
-de secuoyas, ermitas rupestres, un inmenso laberinto o un palacio de ensueño.** 
+Cantabria y sus valles guardan muchos secretos, lugares poco conocidos en los que aún no 
+hay que hacer cola para tomarse un selfi. Compartimos contigo ocho de ellos... pero no 
+le digas a nadie que allí puede encontrar un Partenón, una calzada romana, un bosque de 
+secuoyas, ermitas rupestres, un inmenso laberinto o un palacio de ensueño. 
 
 ![el bosque secuoyas es una de las rutas originales cantabria](https://fotos.etheriamagazine.com/2020/06/bosque-secuoyas-cantabria.jpg "Bosque de secuoyas. © Manuel Charlón")
+
+7/2025 
 
 Es cierto que Cantabria se identifica con montes y playa, con pueblos encantadores y 
 buen comer, pero también tiene otra etiqueta de la que no se habla tanto, y esa es su 
@@ -93,7 +95,7 @@ vigilantes que indican el camino en caso de agobio. Los setos tienen una altura 
 metros, así que olvida la posibilidad de hacer trampa y mirar por encima. 
 
 Se encuentra en Villapresente, una pequeña población de Reocín (a 5,5 km de Santillana 
-del Mar). El precio es de 3 € (niños de 7 a 12 años) y 4 € (adultos). 
+del Mar). 
 
 ![Ruta senderista por la calzada romana.](https://fotos.etheriamagazine.com/2020/06/calzada-romana-cantabria-3.jpg "Ruta senderista por la calzada romana. © Etheria Magazine")
 
@@ -110,10 +112,9 @@ constructiva romana, de mayor tamaño en la zona lateral exterior, más pequeño
 parte interna para que los carros pudiesen circular, y gravillas. 
 
 El trayecto es muy agradable, transcurre por zonas de mucha vegetación y bosques, y 
-finaliza en [Pie de Concha](http://www.aytobarcenapc.com/pueblos.html). Tras la 
-caminata, aprovecha para visitar esta población, con una bonita iglesia del siglo XVI y 
-un rollo del siglo XVII, y las otras localidades que configuran el municipio de Bárcena 
-de Pie de Concha. 
+finaliza en **Pie de Concha**. Tras la caminata, aprovecha para visitar esta población, 
+con una bonita iglesia del siglo XVI y un rollo del siglo XVII, y las otras localidades 
+que configuran el municipio de Bárcena de Pie de Concha. 
 
 ![iglesia santa maria valverde en valderredible](https://fotos.etheriamagazine.com/2019/08/santa-maria-valverde-valderredible-e1565600806387.jpg "Iglesia de Santa Maria de Valverde, en Valderredible.")
 
@@ -209,10 +210,10 @@ historia de la familia. Si no te conformas sólo con observar los utensilios y v
 recursos audiovisuales, también ofrecen la posibilidad de realizar un **curso de 
 sobaos**, con el que terminar la visita. 
 
-### Más de Cantabria en Etheria Magazine
+**Sigue leyendo sobre Cantabria en Etheria Magazine** 
 
-📍[Actividades con amigas en 
+[Actividades con amigas en 
 Cantabria](http://etheriamagazine.com/2020/02/17/5-experiencias-en-cantabria-para-un-fin-de-semana-con-amigas/). 
 
-📍[Cantabria en 
+[Cantabria en 
 familia](http://etheriamagazine.com/2018/07/13/cantabria-viaje-en-familia/).

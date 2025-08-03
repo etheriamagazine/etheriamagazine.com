@@ -4,8 +4,6 @@ date: 2019-08-26
 cover: https://fotos.etheriamagazine.com/2019/08/Roble-valderredible-cantabria-e1565602301535.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 destino: 
   - España
 authors: 
@@ -19,7 +17,7 @@ nieblas, ¡que para eso estamos en Cantabria!
 
 ![Valderredible, esencia rural de Cantabria.](https://fotos.etheriamagazine.com/2019/08/viaje-cantabria-Valderredible-e1565601879336.jpg "Valderredible, esencia rural de Cantabria.")
 
-Actualizado en febrero de 2024 
+Actualizado 7/2025 
 
 Algunas regiones cuentan con tantos atractivos y son tan diferentes que cuesta elegir un 
 solo lugar para recomendar. Ese es el caso de Cantabria, que podríamos escribir todos 
@@ -79,9 +77,8 @@ un mundo de rocas convertidas en ermitas.
 No dejes de visitarlas todas porque en un territorio pequeño podrás abarcarlas 
 fácilmente y deleitarte con sus detalles exclusivos. Comienza en la **iglesia de Santa 
 María de Valverde**, verás su imponente espadaña románica señalando una de las más 
-espectaculares huellas de la cristianización del valle junto al [Centro de 
-Interpretación de la Arquitectura 
-Rupestre](https://www.valderredible.es/enclaves/centro-de-interpretacion-del-arte-rupestre). 
+espectaculares huellas de la cristianización del valle junto al **Centro de 
+Interpretación de la Arquitectura Rupestre**. 
 
 ![Iglesia de Santa María de Valverde, en Valderredible.](https://fotos.etheriamagazine.com/2019/08/santa-maria-valverde-valderredible-e1565600806387.jpg "Iglesia de Santa María de Valverde, en Valderredible.")
 
@@ -170,3 +167,7 @@ La magia de verla solo se produce en otoño cuando las lluvias favorecen los bon
 hilos líquidos. 
 
 ![Cascada El Tobazo, en Villaescusa de Ebro.](https://fotos.etheriamagazine.com/2019/08/cascada-el-tobazo-valderredible-e1565602331760.jpg "Cascada El Tobazo, en Villaescusa de Ebro.")
+
+**También en Etheria Magazine** 
+
+{{< reflink path=posts/2022/09/que-ver-en-cantabria >}}.
