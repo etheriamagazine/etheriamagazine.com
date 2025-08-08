@@ -13,9 +13,8 @@ larga trayectoria en el sector editorial.
 
 ## Artículos
 
-Este repositorio contiene todos los [artículos y contenidos](./content) publicados en [Etheria
-Magazine](https://etheriamagazine.com) desde 2018 en formato Markdown. Utilizamos
-[Hugo](https://gohugo.io/) para crear todas las páginas del sitio web.
+Este repositorio contiene los [artículos](./content) publicados en [Etheria
+Magazine](https://etheriamagazine.com) desde 2018 en formato markdown. En Etheria utilizamos [Hugo](https://gohugo.io/) y [GitHub Actions](https://github.com/features/actions) para publicar automáticamente la web.
 
 ## Autoría
 
