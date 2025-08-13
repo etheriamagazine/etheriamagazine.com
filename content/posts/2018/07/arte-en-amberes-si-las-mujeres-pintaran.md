@@ -1,20 +1,22 @@
 ---
-title: "Arte en Amberes. Si las mujeres pintaran..."
+title: "Mujeres que pintan y retrospectiva de Michaelina Wautier en Amberes"
 date: 2018-07-05
 cover: https://fotos.etheriamagazine.com/2018/07/Michaelina-Cortejo-de-Baco.jpg
 categories: 
-  - articulos-por-categorizar
+  - mujeres-top
 destino: 
   - Europa
 authors: 
   - Pedro Grifol
 ---
 
-**El Museo MAS de Amberes (Bélgica) dedica una retrospectiva a la pintora flamenca 
-Michaelina Wautier, una de las más influyentes artistas del barroco. Os invitamos a 
-reflexionar sobre el grito de guerra: ‘más mujeres artistas y menos musas’.** 
+El Museo MAS de Amberes (Bélgica) dedicó hace algún tiempo una retrospectiva a la 
+pintora flamenca Michaelina Wautier, una de las más influyentes artistas del barroco. Os 
+invitamos a reflexionar sobre el grito de guerra: ‘más mujeres artistas y menos musas’. 
 
 ![El 'Cortejo de Baco', de Michaelina Wautier.](https://fotos.etheriamagazine.com/2018/07/Michaelina-Cortejo-de-Baco.jpg "El 'Cortejo de Baco', de Michaelina Wautier.")
+
+Actualizado 8/25 
 
 Dar importancia al papel que la mujer tiene en la Historia del Arte como creadora no es 
 solo una acción reivindicatoria –que en lenguaje jurídico no sería más que ‘el derecho a 
@@ -43,15 +45,15 @@ En el siglo XVII, la costumbre y la ley no favorecían la integración de la muj
 en el mundo profesional; sin embargo, un reducido número de mujeres consiguieron salvar 
 las limitaciones existentes y convertirse en pintoras ‘ricas y famosas’. 
 
-Hace apenas un año, el Museo del Prado, dedicó por primera vez (en sus dos siglos de 
-existencia) una exposición a la pintora flamenca **Clara Peeters** (1594-1657), que se 
-caracterizó por popularizar el uso del autorretrato oculto entre las naturalezas 
-muertas… y que muchos otros artistas emularían. **Sofonisba Anguissola** (1535-1625) fue 
-una pintora italiana renacentista que cosechó muchos éxitos en su época. Miguel Ángel 
-alabó su obra y el crítico Giorgio Vasari la incluyó en su diccionario básico de 
-artistas. Fue pintora de la Corte de Felipe II y ganó buenos maravedíes, sin embargo, 
-como era mujer no pudo firmar sus obras, motivo por el cual muchas fueron atribuidas a 
-hombres. Ahora es una ‘pintora fija’ en las galerías del Prado. 
+En 2017, el Museo del Prado dedicó por primera vez (en sus dos siglos de existencia) una 
+exposición a la pintora flamenca **Clara Peeters** (1594-1657), que se caracterizó por 
+popularizar el uso del autorretrato oculto entre las naturalezas muertas… y que muchos 
+otros artistas emularían. **Sofonisba Anguissola** (1535-1625) fue una pintora italiana 
+renacentista que cosechó muchos éxitos en su época. Miguel Ángel alabó su obra y el 
+crítico Giorgio Vasari la incluyó en su diccionario básico de artistas. Fue pintora de 
+la Corte de Felipe II y ganó buenos maravedíes, sin embargo, como era mujer no pudo 
+firmar sus obras, motivo por el cual muchas fueron atribuidas a hombres. Ahora es una 
+‘pintora fija’ en las galerías del Prado. 
 
 También en la Bolonia del siglo XVI, **Lavinia Fontana** (1552-1614) fue una pionera. 
 Pintó cuadros de desnudos de hombres y mujeres (en esta época los estudios de anatomía 
@@ -69,7 +71,7 @@ para muchos, **la primera pintora feminista de la Historia**.
 
 ![Autorretrato de Michaelina Wautier.](https://fotos.etheriamagazine.com/2018/07/Michaelina-Autorretrato-Museo-MAS-1.jpg "Autorretrato de Michaelina Wautier.")
 
-## ¿Quién fue La Michaelina?
+## Quién fue La Michaelina
 
 De entre todas estas mujeres de la Historia del Arte, la obra de **la pintora barroca 
 Michaelina Wautier** (1604-1689) destaca por varios motivos; porque pintaba –¡en el 
@@ -78,20 +80,20 @@ más, habilidades que sus coetáneos masculinos… y hablamos de Van Dyck, Brueg
 Teniers, o del mismísimo Rubens. 
 
 La primera exposición retrospectiva dedicada a la obra de esta valiente pintora, 
-considerada como la gran dama del barroco, actualmente se exhibe en el Museo MAS de 
-Amberes (Bélgica) **hasta el 2 de septiembre de 2018.** Una primicia mundial que nos 
-permitirá contemplar el talento extraordinario de una pintora que trabajó en un periodo 
-en el que las artes plásticas eran ‘cosa de hombres’. Gracias a su talento, Michaelina 
-nunca fue menospreciada por sus coetáneos masculinos. 
+considerada como la gran dama del barroco, se exhibió en el Museo MAS de Amberes 
+(Bélgica) en 2018. Una primicia mundial que permitió contemplar el talento 
+extraordinario de una pintora que trabajó en un periodo en el que las artes plásticas 
+eran ‘cosa de hombres’. Gracias a su talento, Michaelina nunca fue menospreciada por sus 
+coetáneos masculinos. 
 
-Este verano es una buena ocasión para admirar al natural ‘el poder femenino barroco’ y 
-comprobar que sus temas, aunque bajo el paraguas de lo mitológico, encierran no poca 
-discusión. Baste contemplar su monumental cuadro ‘El Cortejo de Baco’ (un lienzo de 295 
-x 378 cm.), donde la artista, caracterizada como una bacante, forma parte del cortejo de 
-compinches ebrios; o lo que es lo mismo: una mujer semidesnuda rodeada por hombres 
-borrachos. Ella es la única del grupo que mira al espectador a los ojos. Mírela cuando 
-esté delante del cuadro… y no se esconda. Admírela y saque las conclusiones que se le 
-ocurra… Huelga decir que el tema puede levantar todo tipo de comentarios. 
+Fue una buena ocasión para admirar al natural ‘el poder femenino barroco’ y comprobar 
+que sus temas, aunque bajo el paraguas de lo mitológico, encierran no poca discusión. 
+Baste contemplar su monumental cuadro ‘El Cortejo de Baco’ (un lienzo de 295 x 378 cm.), 
+donde la artista, caracterizada como una bacante, forma parte del cortejo de compinches 
+ebrios; o lo que es lo mismo: una mujer semidesnuda rodeada por hombres borrachos. Ella 
+es la única del grupo que mira al espectador a los ojos. Mírela cuando esté delante del 
+cuadro… y no se esconda. Admírela y saque las conclusiones que se le ocurra… Huelga 
+decir que el tema puede levantar todo tipo de comentarios. 
 
 ![Banderolas a la entrada del MAS (Amberes, Bélgica).](https://fotos.etheriamagazine.com/2018/07/Amberes-Museo-MAS-Expo-Michaelina.jpg "Banderolas a la entrada del MAS (Amberes, Bélgica).")
 
@@ -109,11 +111,4 @@ perfume, que unas bragas… ¡o un coche!
 ## Guía práctica
 
 - Se puede volar directamente a Bruselas desde varias ciudades españolas. Una vez en el 
-aeropuerto de Bruselas, toma un tren directo hasta Amberes (50 minutos). 
-
-- Bucea en estas webs antes de viajar para preparar tu viaje: 
-
-www.visitflanders.com/es/destinos/amberes www.maestrosflamencos.com 
-www.visitantwerpen.be/baroque 
-
-\*Firma invitada: Pedro Grifol (texto y fotos)
+aeropuerto de Bruselas, toma un tren directo hasta Amberes (50 minutos).

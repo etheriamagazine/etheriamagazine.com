@@ -1,5 +1,5 @@
 ---
-title: "Cómo disfrutar de Brasil sin mitos ni prejuicios"
+title: "Guía para disfrutar de Brasil sin mitos ni prejuicios"
 date: 2018-11-26
 cover: https://fotos.etheriamagazine.com/2018/11/Brasil-cristo-redentor.jpg
 categories: 
@@ -10,13 +10,15 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-**Te presentamos un recorrido por algunas de las zonas más bellas de Brasil. En ellas, 
+Te presentamos un recorrido por algunas de las zonas más bellas de Brasil. En ellas, 
 varias mujeres que nos desmitifican los prejuicios que existen sobre su libertad sexual 
 y algunos hombres nos relatan cómo ven sus relaciones con sus compatriotas y con las 
 turistas. Te contamos cómo disfrutar de Brasil sin mitos, siempre con el fondo de los 
-maravillosos paisajes brasileños.** 
+maravillosos paisajes brasileños. 
 
 ![Pan de Azucar en Brasil](https://fotos.etheriamagazine.com/2018/11/Brasil-rio-de-janeiro.jpg "Teleférico de Pan de Azúcar (Río de Janeiro).")
+
+Actualizada 8/2025 
 
 En este artículo la escritora y periodista Elisabeth G. Iborra nos cuenta de primera 
 mano cómo las cosas no son siempre lo que parecen. Un ejemplo es Brasil (un país que 
@@ -134,7 +136,7 @@ mucho más libre e igualitaria.
 
 ![Playa de la zona de Jericoacoara en Brasil](https://fotos.etheriamagazine.com/2018/11/Brasil-Jericoacoara.jpg "Playa de la zona de Jericoacoara.")
 
-📌 **También te puede interesar:** 
+**También te puede interesar:** 
 
 {{< reflink path=posts/2018/08/viaje-brasil-salvador-de-bahia-y-praia-do-forte >}} 
 

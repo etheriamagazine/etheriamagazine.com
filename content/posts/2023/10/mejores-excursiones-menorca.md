@@ -1,24 +1,24 @@
 ---
-title: "10 excursiones en Menorca para unas vacaciones perfectas"
+title: "10 excursiones en Menorca para unas vacaciones en familia perfectas"
 date: 2023-10-13
 cover: https://fotos.etheriamagazine.com/2023/10/menorca-barcos-calas-macarella-macarelleta.jpg
 categories: 
-  - viajar-con-amigas
-  - inspiración
-  - ocio
+  - viajar-en-familia
 destino: 
   - España
 authors: 
   - Susana García
 ---
 
-**Menorca ofrece todo lo que puedes desear para unas vacaciones: un mar transparente que 
-parece de mentira, ciudades históricas, restos arqueológicos y una gastronomía 
-tradicional muy apetitosa. Te proponemos diez excursiones por Menorca para que no te 
-pierdas nada de lo fundamental de esta isla donde el slow travel cobra todo su 
-sentido.** 
+Menorca ofrece todo lo que puedes desear para unas vacaciones con niños: un mar 
+transparente que parece de mentira, ciudades históricas, restos arqueológicos y una 
+gastronomía tradicional muy apetitosa. Te proponemos diez excursiones por Menorca 
+perfectas para los viajes en familia para que no os perdáis nada de lo fundamental de 
+esta isla donde el 'slow travel' cobra todo su sentido. 
 
 ![Barcos frente a las calas de Mararella y Macarelleta desde el Camí de Cavalls.](https://fotos.etheriamagazine.com/2023/10/menorca-barcos-calas-macarella-macarelleta.jpg "Barcos frente a las calas de Mararella y Macarelleta desde el Camí de Cavalls. © SG")
+
+Actualizado 7/2025 
 
 Menorca es un plan excelente siempre. Esta isla mediterránea, reserva de la Biosfera por 
 la Unesco (que incluye la mayor Reserva Marina de Europa), ha sabido mantener su esencia 
@@ -30,13 +30,14 @@ singular que la liga a franceses e ingleses a través de su historia y una gastr
 contundente y sabrosa, que tiene en productos como el queso o la sobrasaba a embajadores 
 de primera. 
 
-Una de las ventajas de Menorca cuando la elijes como destino para tus vacaciones es que 
-todo es fácil y gustoso. Puedes acceder a playas maravillosas, dar paseos increíbles por 
-la naturaleza y conocer ciudades históricas de forma sencilla. Pero también puedes 
-invertir más tiempo en tus caminatas o en tus excursiones por mar para bucear en lugares 
-poco concurrido y llegar a calas solitarias. En este artículo te proponemos diez 
-excursiones en Menorca para organizar esos lugares imprescindibles que tiene la isla y 
-que no puedes perderte en tus vacaciones. 
+Una de las ventajas de Menorca cuando la eliges como destino para tus vacaciones es que 
+todo es fácil y gustoso, así que es una isla que lo tiene todo para disfrutar en 
+familia. Puedes acceder a playas maravillosas, dar paseos increíbles por la naturaleza y 
+conocer ciudades históricas de forma sencilla. Pero también puedes invertir más tiempo 
+en tus caminatas o en tus excursiones por mar para bucear en lugares poco concurrido y 
+llegar a calas solitarias. En este artículo te proponemos diez excursiones en Menorca 
+para organizar esos lugares imprescindibles que tiene la isla y que no puedes perderte 
+en tus vacaciones. 
 
 ## Visitar la Menorca Talayótica
 
@@ -68,11 +69,14 @@ ponerse las gafas de bucear para hacer esnórquel en soledad.
 
 ![Land Rover en Menorca](https://fotos.etheriamagazine.com/2023/10/menorca-jeep-excursiones.jpg "Land Rover con el que se hace la excursión por el interior de Menorca. © Susana García")
 
-La empresa Jeep Safari Menorca (www.jeepsafarimenorca.es) se dedica a organizar estas 
-muy recomendables excursiones con conductores-guías experimentados que te explicarán 
-tanto el origen geológico como la historia de la isla, además de darte apuntes sobre su 
-fauna y su flora. Tienen disponibles tanto excursiones en grupo como privadas. Puedes 
-también reservar estas excursiones a través de Civitatis: [Jeep Safari por la Menorca 
+La empresa **Jeep Safari Menorca** (www.jeepsafarimenorca.es) se dedica a organizar 
+estas muy recomendables excursiones con conductores-guías experimentados que te 
+explicarán tanto el origen geológico como la historia de la isla, además de darte 
+apuntes sobre su fauna y su flora. Tienen disponibles tanto excursiones en grupo como 
+privadas. 
+
+Puedes también reservar estas excursiones a través de Civitatis: [Jeep Safari por la 
+Menorca 
 desconocida](https://www.civitatis.com/es/fornells/jeep-safari-menorca/?aid=10211). 
 
 ## Alquilar un barco
@@ -180,8 +184,9 @@ huevos fritos o en tempura. Algunos de los restaurantes con los que aciertas seg
 La capital de Menorca tiene que estar entre tus excursiones por la isla por muchos 
 motivos. Además de su interesante casco histórico, su entorno es, como casi todo en esta 
 isla, fabuloso. Su puerto es uno de los puertos naturales más grandes del mundo y las 
-vistas desde lo alto de la ciudad de esta entrada de agua natural son magníficas. El 
-casco histórico es perfecto para pasear e ir de compras, y buscar esas delicias 
+vistas desde lo alto de la ciudad de esta entrada de agua natural son magníficas. 
+
+El casco histórico es perfecto para pasear e ir de compras, y buscar esas delicias 
 gastronómicas menorquinas que son lo mejor que te puedes llevar de recuerdo, como la 
 sobrasada y el queso. Un buen punto de partida puede ser el **Claustre del Carme**, 
 donde se ubica un agradable mercado perfecto para tomar algo. Después, el paseo lleva 

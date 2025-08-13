@@ -1,5 +1,5 @@
 ---
-title: "Historia de la isla de San Simón, de lazareto a campo de concentración"
+title: "La isla de San Simón, de lazareto a campo de concentración"
 date: 2021-01-04
 cover: https://fotos.etheriamagazine.com/2020/12/isla-pandemias-san-simon-jardines.jpg
 categories: 
@@ -18,7 +18,7 @@ música.
 
 ![Escultura 'O ofrecemento da auga', de Sergio Portela, en un jardín de la isla de San Simón.](https://fotos.etheriamagazine.com/2020/12/isla-pandemias-san-simon-jardines.jpg "Escultura 'O ofrecemento da auga', de Sergio Portela, en un jardín de la isla de San Simón. © Kelu Robles")
 
-Actualizado 12/2023 
+Actualizado 8/2025 
 
 Entre bateas, barcos pesqueros y el imponente puente de Rande, en la ría de Vigo se 
 intuye una pequeña y frondosa isla, o islas, porque San Simón no puede entenderse sin su 
@@ -124,7 +124,7 @@ canalizar el tratamiento de residuos.
 
 ![Vista de San Simón desde San Antón.](https://fotos.etheriamagazine.com/2020/12/isla-san-simon-lazareto-de-vigo.jpg "Vista de San Simón desde San Antón. © Kelu Robles")
 
-### Más pistas de la isla de San Simón
+## Más pistas de la isla de San Simón
 
 San Simón tampoco abandona el misterio en el presente y cada verano celebra el 
 [Sinsal](https://festival.sins.al/es), un peculiar **festival de música** en el que el 
@@ -132,9 +132,11 @@ público desconoce el cartel hasta el último momento. La ubicación del evento 
 histórico de las islas añaden razones extra para que queramos descubrir San Simón y San 
 Antón durante este evento tan especial. 
 
+Más información en **Turismo de Vigo** (turismodevigo.org) y **Turismo de Galicia** 
+(turismo.gal). 
+
+**Sigue leyendo en Etheria Magazine** 
+
 Aprovecha el viaje a las Rías Baixas para seguir nuestro particular recorrido 
 gastronómico: {{< reflink 
-path=posts/2020/11/comer-en-vigo-mejores-restaurantes-furanchos >}}. 
-
-Más información en [Turismo de Vigo](https://www.turismodevigo.org/) y [Turismo de 
-Galicia](https://www.turismo.gal/inicio).
+path=posts/2020/11/comer-en-vigo-mejores-restaurantes-furanchos >}}.
