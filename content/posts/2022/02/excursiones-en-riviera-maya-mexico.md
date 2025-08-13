@@ -1,11 +1,9 @@
 ---
-title: "10 excursiones a la Riviera Maya para incluir en tu viaje"
+title: "10 excursiones a la Riviera Maya para incluir en tu viaje con amigas"
 date: 2022-02-01
 cover: https://fotos.etheriamagazine.com/2022/01/Riviera-maya-cenote-tortuga.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 destino: 
   - Europa
 authors: 
@@ -19,7 +17,7 @@ contenido un viaje al corazón de la cultura maya.
 
 ![Cenote Tortuga.](https://fotos.etheriamagazine.com/2022/01/Riviera-maya-cenote-tortuga.jpg "Cenote Tortuga. © Fernanda Loayza.")
 
-Actualizado en febrero de 2024. 
+Actualizado en agosto de 2025. 
 
 La Riviera Maya es uno de los mejores destinos para pasar unas vacaciones de sol y playa 
 y eso es porque combina dos aspectos que juntos son imbatibles: unos hoteles de alta 
@@ -36,9 +34,9 @@ en casi cada uno de sus rincones. La estrella es la **Pirámide de Kukulkán**, 
 tendrás que subir por su preciosa escalinata. Tampoco puedes perderte la Casa de las 
 Monjas, el Juego de Pelota o el Observatorio. Lo mejor es realizar la visita temprano, 
 para ver los templos con la bonita luz del amanecer y con menos calor y gente. Su 
-horario de apertura es de 8 a 17 horas y la entrada cuesta 80 pesos. Desde la Riviera 
-Maya se tarda en llegar unas 2 horas y media. Puedes reservar una Excursión a Chichén 
-Itzá con 
+horario de apertura es de 8 a 17 horas y la entrada cuesta 671 pesos (unos 30 Euros). 
+Desde la Riviera Maya se tarda en llegar unas 2 horas y media. Puedes reservar una 
+Excursión a Chichén Itzá con 
 [Civitatis](https://www.civitatis.com/es/playa-del-carmen/excursion-chichen-itza-amanecer/?aid=10211). 
 
 ![Chichén Itzá.](https://fotos.etheriamagazine.com/2022/01/Riviera-maya-chichen-itza.jpg "Chichén Itzá. © Marv Watson.")
@@ -58,12 +56,9 @@ con delfines, tiburones o mantas-rayas.
 
 ![Parque eco-arqueológico Xcaret.](https://fotos.etheriamagazine.com/2022/01/Riviera-maya-xcaret.jpg "Parque eco-arqueológico Xcaret.")
 
-El **precio de la entrada básica a Xcaret** es de 111,31 euros; la entrada Xcaret Plus, 
-con comida buffet y acceso al Área Plus de 151,79 euros; y la entrada Xcaret Total, que 
-suma una actividad a la experiencia, es de 191,35 euros. En el caso de que vayas a ir 
-sólo por la tarde, a partir de las 16 horas la entrada cuesta 91,07 euros. En todos los 
-precios se aplica un 50% de descuento a los niños de 5 a 11 años, los menores de 4 
-entran gratis. 
+El **precio de la entrada básica a Xcaret** para la compra online es de 106,52 euros; la 
+entrada Xcaret Plus, con comida buffet y acceso al Área Plus de 132,16 euros; y la 
+entrada Xcaret de Noche, 87,30 h. 
 
 Con Civitatis podéis comprar la [entrada a 
 Xcaret](https://www.civitatis.com/es/playa-del-carmen/entrada-xcaret/?aid=10211) u 
@@ -78,7 +73,7 @@ preciosas fotografías al estar situado al lado del mar. Es el único puerto may
 y estaba habitado cuando llegaron los españoles. Sus edificios más importantes son **El 
 Castillo**, el **Templo de los Frescos** y el **Templo del Dios Descendente**. Por su 
 ubicación, permite combinar la visita al recinto arqueológico con un baño en la playa. 
-El horario del sitio arqueológico es de 8 a 17 horas y la entrada cuesta 80 pesos. 
+El horario del sitio arqueológico es de 8 a 17 horas y la entrada cuesta 295 pesos. 
 Civitatis organiza la [excursión a Tulum al 
 amanecer](https://www.civitatis.com/es/playa-del-carmen/excursion-tulum-amanecer/?aid=10211). 
 
@@ -97,10 +92,9 @@ amantes de los animales, en Xel-Ha se puede realizar un encuentro con manatíes.
 
 ![Guacamayo en Xel-Ha.](https://fotos.etheriamagazine.com/2022/01/riviera-maya-xel-ha.jpg "Guacamayo en Xel-Ha.")
 
-El precio de la entrada es de 103,49 dólares (77,62 dólares para niños de 5 a 11 años y 
-menores de 4 entran gratis) y está abierto de 8.30 a 18 horas. Es un parque _Todo 
-Incluido_, por lo que el precio lleva incluida la comida buffet y las bebidas. Si 
-organizas la [excursión a Xel-Ha con 
+El precio de la entrada si la compras online es desde 64 Euros (consulta los precios 
+para niños y los diferentes tipos de entrada, existe la opción de entrada Todo Incluido) 
+y está abierto de 8.30 a 18 horas. Si organizas la [excursión a Xel-Ha con 
 Civitatis](https://www.civitatis.com/es/playa-del-carmen/excursion-xel-ha/?aid=10211) 
 llevarás los traslados incluidos. 
 

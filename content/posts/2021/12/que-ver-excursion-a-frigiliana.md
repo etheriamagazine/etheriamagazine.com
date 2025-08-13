@@ -1,23 +1,31 @@
 ---
 title: "Un día en Frigiliana, uno de los pueblos más bonitos de Málaga"
 date: 2021-12-15
-cover: https://fotos.etheriamagazine.com/2021/12/Frigiliana-calle-barrio-alto.jpg
+cover: https://fotos.etheriamagazine.com/2021/12/frigiliana-barrio-alto.jpg
 categories: 
-  - viajar-con-amigas
+  - inspiración
+  - ocio
 destino: 
   - España
 authors: 
   - Susana García
 ---
 
-Frigiliana es un pueblo blanco que reluce con el brillo del sol malagueño y ofrece uno de esos días redondos que tanto nos mejoran las vacaciones. Aquí te contamos cuáles son las calles, miradores y edificios que no puedes perderte si decides hacer una excursión a Frigiliana de un día.
+Frigiliana es un pueblo blanco que reluce con el brillo del sol malagueño y ofrece uno 
+de esos días redondos que tanto nos mejoran las vacaciones. Aquí te contamos cuáles son 
+las calles, miradores y edificios que no puedes perderte si decides hacer una excursión 
+a Frigiliana de un día. 
 
-![Calle del Barrio Alto de Frigiliana.](https://fotos.etheriamagazine.com/2021/12/Frigiliana-calle-barrio-alto.jpg "Calle del Barrio Alto de Frigiliana. © Susana García")
+![Calle del Barrio Alto de Frigiliana.](https://fotos.etheriamagazine.com/2021/12/frigiliana-barrio-alto.jpg "Calle del Barrio Alto de Frigiliana. © Susana García")
+
+Actualizado 7/2025 
 
 Se encuentra en la comarca de la Axarquía malagueña, muy cerca de la popular localidad 
 costera de Nerja y de sus famosas cuevas. Por lo que una **excursión a Frigiliana** es 
 imprescindible si se están pasando unos días en Málaga o incluso en Granada, de la que 
 se encuentra a tan solo una hora en coche. 
+
+## Uno de los pueblos más bonitos de España
 
 Esta villa aparece en todas las listas de los pueblos más bonitos de España y no es para 
 menos. En su casco histórico de origen morisco con calles sinuosas e intrincadas parece 
@@ -146,7 +154,7 @@ tomillo, romero, palmitos, caña de azúcar o esparto**.
 
 ![Restaurante en Frigiliana.](https://fotos.etheriamagazine.com/2021/12/Frigiliana-restaurante.jpg "Restaurante en Frigiliana. © SG")
 
-### Consejos Etheria Magazine
+### Consejos para una excursión a Frigiliana
 
 No te preocupes por el almuerzo en Frigiliana, hay numerosos restaurantes y bares 
 pintorescos y en la **Plaza de las Tres Culturas** se concentran en una gran esplanada 
@@ -160,7 +168,7 @@ privada](https://www.civitatis.com/es/frigiliana/tour-privado-frigiliana/?aid=10
 
 Más información en [Turismo de Frigiliana](https://www.turismofrigiliana.es/es/). 
 
-### También te puede interesar
+**También te puede interesar**: 
 
 {{< reflink path=posts/2024/07/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga 
 >}}. 
