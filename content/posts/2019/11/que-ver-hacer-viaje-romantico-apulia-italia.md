@@ -3,19 +3,21 @@ title: "Esto es lo que ocurrirá si haces un viaje romántico a Apulia"
 date: 2019-11-25
 cover: https://fotos.etheriamagazine.com/2019/11/viaje-puglia-trani-puerto.jpg
 categories: 
-  - viajar-con-amigas
+  - viajar-en-pareja
 destino: 
   - Mundo
 authors: 
   - Kelu Robles
 ---
 
-**Si eliges Apulia en tu próximo viaje a Italia pasearás por pueblos marineros, te 
+Si eliges Apulia en tu próximo viaje a Italia pasearás por pueblos marineros, te 
 enamorarás de sus castillos medievales y de sus callejuelas con altares, y tendrás 
 tiempo para descubrir las reliquias de ¿Papá Noel? en Bari. Te contamos qué ver en 
-Apulia para que no te pierdas nada.** 
+Apulia para que no te pierdas nada si organizas una escapada con tu pareja. 
 
 ![Piazza Mercantile, Bari](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-portada.jpg "Piazza Mercantile, Bari. © Kelu Robles")
+
+Actualizado 8/2025 
 
 El tacón de la bota de Italia, en una península dentro de otra península, es capaz de 
 reunir todos los **tópicos italianos**: los pulleses son fanfarrones, abiertos, 
@@ -124,9 +126,8 @@ enriquecido el arte de Apulia.
 El proyecto ‘[Puglia Creativa](http://www.pugliacreativa.it/)’ ha llegado a la región 
 para revolucionar su panorama artístico, celebrando _performances_, conciertos y 
 actividades culturales con una particularidad: los pulleses serán los creadores de las 
-iniciativas. 
-
-> ¿El objetivo? Implicar a todos los ciudadanos en la vida cultural de Puglia. 
+iniciativas. ¿El objetivo? Implicar a todos los ciudadanos en la vida cultural de 
+Puglia. 
 
 Los vecinos de **Ruvo** se vuelcan en la organización del Talos Festival, un festival de 
 jazz que tiene lugar en la Piazzetta Le Monache desde el año 1993. Cada mes de 
@@ -215,7 +216,7 @@ la región de **Basilicata** y ha sido declarada Patrimonio de la Humanidad por 
 [Turismo de Italia 
 (ENIT)](http://www.italia.it/es/descubre-italia/apulia.html?no_cache=1&h=puglia) 
 
-📌 **También te puede interesar:** 
+**También te puede interesar:** 
 
 {{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}} 
 

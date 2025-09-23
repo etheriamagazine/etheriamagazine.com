@@ -1,20 +1,22 @@
 ---
-title: "Paisajes del agua en los 10 mejores cañones del País Vasco"
+title: "Rutas por los 10 mejores cañones del País Vasco, disfruta de sus paisajes del agua"
 date: 2019-04-09
 cover: https://fotos.etheriamagazine.com/2019/03/canon-sobron-pais-vasco.jpg
 categories: 
-  - viajar-en-familia
-  - inspiración
-  - ocio
+  - excursiones
 destino: 
   - España
 authors: 
   - Juan Carlos y Mar
 ---
 
-La naturaleza vasca es una fuente inagotable de rutas de senderismo. En este caso te proponemos 10 rutas por los cañones del País Vasco, para que descubras alguno de sus paisajes de agua más sorprendentes y desconocidos.
+La naturaleza vasca es una fuente inagotable de rutas de senderismo. En este caso te 
+proponemos 10 rutas por los cañones del País Vasco, para que descubras alguno de sus 
+paisajes de agua más sorprendentes y desconocidos. 
 
 ![ruta senderismo pais vasco, ecoturismo](https://fotos.etheriamagazine.com/2019/03/canon-sobron-pais-vasco.jpg "Cañón de Sobrón.")
+
+**Actualizado 8/2025** 
 
 Caminar es una necesidad vital para una viajera, una forma de saciar sus ansias de 
 descubrimiento. Echemos pie a la senda para recorrer, junto a las montañas, paisajes 
@@ -23,13 +25,6 @@ lo recompensará su belleza al natural. Vente a recorrer los cañones y desfilad
 País Vasco. 
 
 ## 10 rutas por los cañones del País Vasco:
-
-[1\. Río Ayuda](#Río-Ayuda). [2\. Parque Natural de Urkiola](#Urkiola). [3\. Camino de 
-la mina](#Camino-mina). [4\. Barranco de Istora](#Barranco-Istora). [5\. Barranco de 
-Arantzazu](#barranco-Arantzazu). [6\. Desfiladero del Sobrón](#Desfiladero-Sobrón). [7\. 
-Embalse de Urkulu](#Embalse-Urkulu). [8\. Desfiladero del río 
-Purón](#Desfiladero-Purón). [9\. Cañón de Igoroin](#Cañón-Igoroin). [10\. Nacimiento del 
-Nervión](#Nacimiento-Nervión). 
 
 ### 1\. Camino de la Meseta hacia Europa
 
@@ -131,9 +126,9 @@ como Cuba. Con la guerra civil llegó el cierre y el deterioro que le ha acompa�
 la actualidad. 
 
 Aún se divisa el puente modernista que unía ambas orillas accediendo hasta el manantial. 
-Después de visitar el [Museo del Agua](http://museoagua.com/) y siguiendo las señales 
-del **sendero de gran recorrido GR 99** se llega hasta el pueblo de Sobrón, un magnífico 
-mirador del desfiladero envuelto con rojizos farallones. 
+Después de visitar el Museo del Agua y siguiendo las señales del **sendero de gran 
+recorrido GR 99** se llega hasta el pueblo de Sobrón, un magnífico mirador del 
+desfiladero envuelto con rojizos farallones. 
 
 ![cañón sobron en el País Vasco](https://fotos.etheriamagazine.com/2019/03/canon-sobron-e1553514443446.jpg "Puente sobre el cañón de Sobron.")
 
@@ -213,7 +208,7 @@ naturaleza para recordar.
 
 ![Nacimiento del Nervión](https://fotos.etheriamagazine.com/2019/03/ruta-canon-delika-e1553516183488.jpg "Ruta por el cañón Delika.")
 
-## También te puede interesar:
+**También en Etheria Magazine** 
 
 {{< reflink 
 path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}} 

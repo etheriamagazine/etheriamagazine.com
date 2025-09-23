@@ -3,7 +3,7 @@ title: "Los mejores destinos 2019 según el 1er Ranking GrandVoyage.com"
 date: 2019-05-25
 cover: https://fotos.etheriamagazine.com/2019/05/viaje-japon-unplash.jpg
 categories: 
-  - articulos-por-categorizar
+  - hemeroteca
 destino: 
   - Mundo
 authors: 
@@ -16,6 +16,8 @@ fueron los protagonistas de la gala de entrega de premios del 1er Ranking GrandV
 con los máximos galardones. 
 
 ![tailandia, destinos 2019, grandvoyage ranking](https://fotos.etheriamagazine.com/2019/05/tailandia-unsplash.jpg "Tailandia, 2º puesto como Mejor Destino 2019. © Mathew Schwartz.")
+
+Histórico de Etheria Magazine: 2019 
 
 La agencia GrandVoyage.com ha entregado esta semana los galardones del 1er Ranking 
 GrandVoyage.com que reconoce a los destinos y hoteles más destacados del mundo en 

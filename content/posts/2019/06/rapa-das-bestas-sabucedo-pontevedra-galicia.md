@@ -1,22 +1,24 @@
 ---
-title: "A rapa das bestas, una cita en Sabucedo (Pontevedra)"
+title: "A rapa das bestas, la gran fiesta de los caballos de Sabucedo (Pontevedra)"
 date: 2019-06-24
 cover: https://fotos.etheriamagazine.com/2019/06/Rapa-das-Bestas-galicia.jpg
 categories: 
-  - articulos-por-categorizar
+  - excursiones
 destino: 
   - España
 authors: 
   - Juan Carlos y Mar
 ---
 
-**Con las crines al viento bajan a galope los caballos hasta la pontevedresa localidad 
-de Sabucedo. De pura raza gallega, viven salvajes hasta que llega el momento de, con 
+Con las crines al viento bajan a galope los caballos hasta la pontevedresa localidad de 
+Sabucedo. De pura raza gallega, viven salvajes hasta que llega el momento de, con 
 valentía y destreza, marcarlos, cortarles las crines y la cola. Antes de ser devueltos 
 al monte tendrá lugar la fiesta de 'A rapa das bestas', declarada de Interés Turístico 
-Internacional por la Unesco.** 
+Internacional por la Unesco. 
 
 ![rapa das bestas, fiestas de verano en galicia](https://fotos.etheriamagazine.com/2019/06/Rapa-das-Bestas-galicia.jpg "Los caballos llegan al galope desde los montes.")
+
+**Actualizado 7/2025** 
 
 Pocas oportunidades tendrás de ver más de 600 caballos bajando juntos desde un monte. 
 Son las manadas que viven libres durante el año en los montes de la aldea pontevedresa 
@@ -33,7 +35,7 @@ una belleza única perfilada entre los tonos negros, rojizos y blancos de los ca
 
 ![rapa das bestas, sabucedo, fiestas de galicia](https://fotos.etheriamagazine.com/2019/06/rapa-das-bestas-galicia-e1560853519987.jpg "Más de 600 caballos bajan hasta Sabucedo (Pontevedra).")
 
-## 1\. Por qué acudir a la fiesta
+## Por qué acudir a la fiesta de A rapa das bestas
 
 Parece una **escena prehistórica** de las reproducidas en los grabados de las cuevas, un 
 reto atávico en el que se mide la destreza del hombre para manejar al caballo. Momento a 
@@ -83,24 +85,17 @@ más bellas fiestas de interés etnográfico.
 
 ![rapa das bestas, fiestas de verano en galicia](https://fotos.etheriamagazine.com/2019/06/rapa-das-bestas-julio-galicia.jpg "Rapa das bestas.")
 
-## 2\. ¿Dónde es la cita?
+## La gran fiesta de Sabucedo
 
-En Sabucedo, pequeña aldea del municipio de A Estrada situada a 42 kilómetros de 
-Santiago de Compostela. 
-
-Las cuatro jornadas que dura la fiesta de [A Rapa das Bestas](http://rapadasbestas.gal) 
+En Sabucedo, una pequeña aldea del municipio de A Estrada situada a 42 kilómetros de 
+Santiago de Compostela. Las cuatro jornadas que dura la **fiesta de A Rapa das Bestas** 
 comienzan un **viernes con A Baixa**, cuando vecinos –y los visitantes que así lo 
 deseen– suben a los montes, después de la misa comentada en la que se pide que no haya 
 incidentes durante la tarea. Un **ritual turístico y etnográfico** que, recorriendo el 
 monte, busca reunir las “greas” o manadas de las “bestas” dispersas para conducirlas de 
 forma coordinada ladera abajo hacia el recinto cercado de Cataroi. 
 
-La mañana del **sábado** también se reserva para reunir a los últimos caballos en 
-libertad, si es que la jornada anterior no se logró recoger a todos. A las 19 horas 
-tiene lugar la primera rapa. La mañana del **domingo**, a las 12 horas, se celebra la 
-segunda de las rapas en el curro. Mientras que el **lunes**, a la misma hora matinal, se 
-dedica a la última de las rapas y se destina la recaudación de las entradas a un fin 
-benéfico. Por la tarde es cuando se liberan las manadas hacia el monte. 
+[Consultad la agenda de la fiesta actualizada.](https://rapadasbestas.gal/programa/)
 
 Acude mucha gente al lugar, algunos de los cuales acampan en el entorno cercano al 
 pueblo. Para asistir a los curros **conviene que llegues pronto** para dejar el vehículo 
@@ -111,12 +106,12 @@ durante estas jornadas entre caballos.
 
 ![rapa das bestas, Sabucedo, fiestas de verano en galicia](https://fotos.etheriamagazine.com/2019/06/galicia-fiesta-rapa-bestas.jpg "A los caballos se les corta la cola y las crines.")
 
-## 3\. Reserva en tu agenda con antelación
+## Reserva en tu agenda con antelación
 
-**Este año tendrá lugar del 7 al 10 de julio de 2023**, así que adquiere online tu 
-entrada con antelación porque acuden miles de visitantes. Asimismo, prepárate para 
-llegar con tiempo y hacer la cola de acceso pacientemente para lograr un buen asiento, 
-ya que las entradas no son numeradas. 
+**En 2025 tiene lugar del 4 al 7 de julio**, así que adquiere online tu entrada con 
+antelación porque acuden miles de visitantes. Asimismo, prepárate para llegar con tiempo 
+y hacer la cola de acceso pacientemente para lograr un buen asiento, ya que las entradas 
+no son numeradas. 
 
 Entre las explicaciones más populares del **origen de esta fiesta** de gran arraigo 
 cultural se cuenta la de una epidemia de peste ocurrida en el siglo XVI. Dos hermanas de 
@@ -142,7 +137,7 @@ de Santiago, situada apenas a media hora de Sabucedo.
 
 ![rapa das bestas, fiestas de verano en galicia](https://fotos.etheriamagazine.com/2019/06/Caballos-rapa-das-bestas.jpg "Caballos o bestas.")
 
-## 4\. Prepara tu viaje
+## Prepara tu viaje
 
 ### Cómo llegar
 

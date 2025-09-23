@@ -3,19 +3,21 @@ title: "13 excursiones en la provincia de Cuenca para descubrir sus tesoros"
 date: 2020-06-04
 cover: https://fotos.etheriamagazine.com/2020/05/cuenca-excursion-caras-buendia.jpg
 categories: 
-  - viajar-con-amigas
+  - guias-de-destino
 destino: 
   - España
 authors: 
   - Yolanda Cardo
 ---
 
-**Descubre las mejores excursiones en Cuenca para conocer los tesoros que se ocultan en 
-su territorio. Es la quinta provincia más extensa de nuestro país y su territorio exhibe 
+Descubre las mejores excursiones en Cuenca para conocer los tesoros que se ocultan en su 
+territorio. Es la quinta provincia más extensa de nuestro país y su territorio exhibe 
 áreas montañosas del Sistema Ibérico y otros paisajes más llanos. Su capital es 
-Patrimonio de la Humanidad y rebosa encanto en su naturaleza y sus pueblos.** 
+Patrimonio de la Humanidad y rebosa encanto en su naturaleza y sus pueblos. 
 
 ![Ruta de las Caras de Buendiaia](https://fotos.etheriamagazine.com/2020/05/cuenca-excursion-caras-buendia.jpg "Ruta de la Caras de Buendía. Arte y naturaleza en Cuenca. © Yolanda Cardo")
+
+**Actualizado 9/2025** 
 
 Sucede habitualmente que cuando planificamos nuestras vacaciones solemos inclinarnos por 
 destinos exóticos y lejanos pero, afortunadamente, no hay que irse muy lejos para 
@@ -51,7 +53,7 @@ las calles Calderón de la Barca y Alfonso VIII.
 Pero, además, hay otra forma diferente de contemplarla: desde la perspectiva que nos dan 
 las orillas de sus ríos. Una suerte de paseo fluvial que transita por el cauce del Júcar 
 ofreciéndonos unas vistas impagables de la ciudad y su entorno. [Visitas 
-guiadas](https://www.civitatis.com/es/cuenca/visita-guiada-cuenca/?aid=10211) desde 8 
+guiadas](https://www.civitatis.com/es/cuenca/visita-guiada-cuenca/?aid=10211) desde 6 
 euros, o [Free Tour en 
 Cuenca](https://www.civitatis.com/es/cuenca/free-tour-cuenca/?aid=10211) gratis. 
 
@@ -211,8 +213,8 @@ VIII, Isabel la Católica, Felipe II o Francisco de Quevedo. El doble claustro d
 arcadas, la sacristía o la portada churrigueresca firmada por Pedro de Ribera, son solo 
 algunas de las maravillas que nos esperan. 
 
-En [Turismo de Cuenca](https://www.descubrecuenca.com) encontrarás información 
-complementaria para planificar tu viaje. 
+En [Turismo de Cuenca](https://visitacuenca.es/) encontrarás información complementaria 
+para planificar tu viaje. 
 
 **Te puede interesar...** 
 

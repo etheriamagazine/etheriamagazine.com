@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/02/tokio-cerezos-Chidorigafuchi.jp
 categories: 
   - viajar-sola
   - inspiración
-  - ocio
   - excursiones
+  - ocio
 destino: 
   - Mundo
 authors: 

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/05/catedral-burgos-capilla-condest
 categories: 
   - viajar-sola
   - inspiración
-  - ocio
   - excursiones
+  - ocio
 destino: 
   - España
 authors: 

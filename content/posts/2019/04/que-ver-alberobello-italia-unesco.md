@@ -1,25 +1,27 @@
 ---
-title: "Secretos de Alberobello, un 'pícaro' pueblo italiano de Puglia"
+title: "Alberobello con amigas, un viaje al pueblo más pícaro de Italia"
 date: 2019-04-15
 cover: https://fotos.etheriamagazine.com/2019/04/que-ver-Alberobello-puglia.jpg
 categories: 
-  - articulos-por-categorizar
+  - viajar-con-amigas
 destino: 
   - Europa
 authors: 
   - Firmas invitadas
 ---
 
-**¿Sabías que uno de los grandes tesoros de Italia se encuentra en su “tacón”? Te 
+¿Sabías que uno de los grandes tesoros de Italia se encuentra en su “tacón”? Te 
 proponemos que descubras los secretos y la magia de Alberobello, un precioso pueblo 
 situado en el Valle de Itria, en la región de La Puglia. En este lugar hay unas 
 construcciones conocidas como 'trullis', que no son producto del diseño sino más bien de 
 la picaresca, ya que tienen una propiedad excepcional: se pueden desmontar en una sola 
-noche.** 
+noche. 
+
+**Texto y fotos: Menchu Redondo** 
 
 ![alberobello, que ver en alberobello](https://fotos.etheriamagazine.com/2019/04/que-ver-Alberobello-trulis.jpg "Alberobello está situado en la región de Puglia.")
 
-## La ciudad de piedra
+**Actualizado 8/2025** 
 
 En el agreste paisaje mediterráneo de la comarca de Murge dei Trulli abundan olivos, 
 árboles frutales, viñedos y, sobre todo, piedras. Este es el principal material empleado 
@@ -139,11 +141,6 @@ buena suerte**. Con el tiempo, los pitos han ido tomando otras formas hasta conv
 en divertidas obras de arte que caricaturizan la vida conyugal, cotidiana, la política y 
 el clero. Todos los años tiene lugar el Concurso Nacional de Silbatos (_Fischietti in 
 Terracotta_) donde todos los asistentes pueden votar. 
-
-**Texto y fotos: Menchu Redondo** 
-
-Esta reconocida periodista y fotógrafa nos acerca las curiosidades arquitectónicas que 
-ha descubierto en sus frecuentes viajes por el mundo. 
 
 ### También te puede interesar
 

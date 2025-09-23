@@ -1,9 +1,9 @@
 ---
-title: "Los almendros en flor de la Quinta de los Molinos, la  cita instagramer madrileña"
+title: "Los almendros en flor de la Quinta de los Molinos inaguran la primavera madrileña"
 date: 2019-02-22
 cover: https://fotos.etheriamagazine.com/2019/02/almendros-flor-quinta-molinos.jpg
 categories: 
-  - articulos-por-categorizar
+  - excursiones
 destino: 
   - España
 authors: 
@@ -17,7 +17,7 @@ los Molinos. Sí, en un entorno urbano también se pueden ver las bonitas flores
 
 ![Almendros en flor en la Quinta de los Molinos de Madrid. © Etheria Magazine](https://fotos.etheriamagazine.com/2019/02/almendros-quinta-los-molinos-1.jpg "Almendros en flor en la Quinta de los Molinos de Madrid.")
 
-**Actualizado 1 marzo 2024** 
+**Actualizado 8/2025** 
 
 Este es un secreto a voces que cada año atrae a más curiosos y amantes de la naturaleza. 
 Y es que, ¿cómo resistirnos a ver miles de almendros (dicen que 6.000) cubiertos por una 
@@ -127,7 +127,7 @@ La entrada más cercana a **Espacio Abierto** es la de Juan Ignacio Luca de Tena
 Aunque el parque abra todos los días de 6.30 a 22 horas, el centro abre de miércoles a 
 domingo (10 a 20 h). 
 
-### Más sitios para ver almendros en flor en Madrid
+## Más sitios para ver almendros en flor en Madrid
 
 - Huerto del Francés en el Parque de El Retiro.
 

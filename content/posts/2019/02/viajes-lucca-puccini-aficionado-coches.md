@@ -1,18 +1,23 @@
 ---
-title: "Puccini nos lleva de viaje (en coche) a Lucca"
+title: "Una excursión en coche a Lucca con Puccini"
 date: 2019-02-21
 cover: https://fotos.etheriamagazine.com/2019/02/puccini.jpg
 categories: 
-  - articulos-por-categorizar
+  - excursiones
 destino: 
   - España
 authors: 
   - Pilar Ortega
 ---
 
-Puccini, nacido en Lucca, era un apasionado de la música, el tabaco, la caza, el cine y la fotografía. También sentía una gran atracción por los viajes y los coches. De hecho, el autor de _La Boheme_ y _Madame Butterfly_ mandó construir el primer todoterreno de Italia.
+Puccini, nacido en Lucca, era un apasionado de la música, el tabaco, la caza, el cine y 
+la fotografía. También sentía una gran atracción por los viajes y los coches. De hecho, 
+el autor de _La Boheme_ y _Madame Butterfly_ mandó construir el primer todoterreno de 
+Italia. 
 
 ![Imagen de Puccini en su casa museo](https://fotos.etheriamagazine.com/2019/02/puccini.jpg "Puccini sentado al piano en su casa de Milán. © Casa Museo Puccini")
+
+Actualizado 8/2025 
 
 Giacomo Puccini (Lucca, 1854 – Bruselas, 1924) pasó a la historia por haber compuesto 
 óperas tan sublimes como _Tosca_, _Madame Butterfly_ o _Turandot_, pero el genial 
@@ -119,29 +124,24 @@ mujer y su hijo.
 Los hoteles con mayor encanto de Lucca se hallan en el casco histórico de la ciudad. 
 Suelen ser familiares y se ubican en edificios y palacetes monumentales que conserva 
 entre sus muros el aroma de los siglos. El trato suele ser muy exclusivo y la decoración 
-siempre está cuidada con mimo. Recomendamos el [Hotel Alla Corte degli 
-Angeli](https://www.allacortedegliangeli.it), el [San Luca 
-Palace](https://www.sanlucapalace.it/) o el [Palazzo 
-Dipinto](https://www.palazzodipinto.com). 
+siempre está cuidada con mimo. Recomendamos el Hotel Alla Corte degli Angeli, el San 
+Luca Palace o el Palazzo Dipinto. 
 
 Todos los años en Lucca se celebra un gran **mercado gastronómico** que convoca a gran 
-parte de los productores de la Toscana. Se llama [Il Desco](https://www.ildesco.eu) y 
-suele celebrarse en otoño. En cualquier caso, la gastronomía de la zona tiene una muy 
-buena fama merecida. No hay que dejar de probar los embutidos, la _penzanella_ (un pan 
-exquisito elaborado también con tomate y cebolla), los quesos pecorinos, los moluscos y 
-crustáceos de Viareggio o el aceite de la Lucchesia. 
+parte de los productores de la Toscana. Se llama Il Desco y suele celebrarse en otoño. 
+En cualquier caso, la gastronomía de la zona tiene una muy buena fama merecida. No hay 
+que dejar de probar los embutidos, la _penzanella_ (un pan exquisito elaborado también 
+con tomate y cebolla), los quesos pecorinos, los moluscos y crustáceos de Viareggio o el 
+aceite de la Lucchesia. 
 
 A pocos kilómetros de Lucca, se encuentran el **Parque de Pinocho**, la elegante 
 **Viareggio** (famosa por sus carnavales y sus palacetes señoriales en plena costa) y la 
-**Torre del Lago**, donde cada verano se celebra por todo lo alto el [Puccini 
-Festival](https://www.puccinifestival.it), dedicado a la música de cámara y sinfónica. 
+**Torre del Lago**, donde cada verano se celebra por todo lo alto el Puccini Festival, 
+dedicado a la música de cámara y sinfónica. 
 
-[Casa Museo Puccini.](http://www.puccinimuseum.org) Entrada general: 7 euros, reducida: 
-5 euros. Dirección: Corte San Lorenzo, 9. Lucca. 
+Más información de Turismo de Lucca. 
 
-Más información de [Turismo de Lucca](https://www.turismo.lucca.it/es/home-page). 
-
-## También te puede interesar:
+**También te puede interesar:** 
 
 {{< reflink path=posts/2021/06/toscana-en-coche >}} 
 

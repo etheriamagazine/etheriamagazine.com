@@ -3,7 +3,7 @@ title: "Heritage Le Telfair, un hotel de lujo para escaparse a isla Mauricio"
 date: 2024-11-29
 cover: https://fotos.etheriamagazine.com/2024/11/heritage-le-telfair-piscina-principal.jpg
 categories: 
-  - viajar-en-pareja
+  - viajes-de-lujo
   - hoteles
 destino: 
   - Mundo

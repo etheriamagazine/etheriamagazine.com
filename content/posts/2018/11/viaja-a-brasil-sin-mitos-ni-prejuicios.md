@@ -3,7 +3,7 @@ title: "Guía para disfrutar de Brasil sin mitos ni prejuicios"
 date: 2018-11-26
 cover: https://fotos.etheriamagazine.com/2018/11/Brasil-cristo-redentor.jpg
 categories: 
-  - articulos-por-categorizar
+  - guias-de-destino
 destino: 
   - Mundo
 authors: 

@@ -1,18 +1,23 @@
 ---
-title: "Viaje por el sur de Islandia, la isla del desafío"
+title: "Guía de viaje por el sur de Islandia, la isla del desafío"
 date: 2021-03-25
 cover: https://fotos.etheriamagazine.com/2018/09/PLAYA-VIK-e1562343946595.jpg
 categories: 
-  - articulos-por-categorizar
+  - guias-de-destino
 destino: 
   - Europa
 authors: 
   - Kris Ubach
 ---
 
-El sur de Islandia es el más amable de los extremos de esta isla pero, aún así, supone un desafío en forma de climatología caprichosa, paisajes aislados (aislados de verdad), carreteras sin asfaltar y una naturaleza extrema que no se anda con chiquitas. ¿Preparadas para vivir un viaje de aventura?
+El sur de Islandia es el más amable de los extremos de esta isla pero, aún así, supone 
+un desafío en forma de climatología caprichosa, paisajes aislados (aislados de verdad), 
+carreteras sin asfaltar y una naturaleza extrema que no se anda con chiquitas. 
+¿Preparadas para vivir un viaje de aventura? 
 
 ![naturaleza geología viajes](https://fotos.etheriamagazine.com/2018/09/Islandia-geyser-Strokkur-e1562343836861.jpg "El geyser Strokkur en la región termal de Haukadalur.")
+
+**Actualizado 8/2025** 
 
 El título que da nombre a este reportaje no es nada casual. Y es que todo aquello que en 
 otros lugares puede parecer trivial, en Islandia se convierte en una Aventura en 
@@ -28,17 +33,16 @@ más accesible del país.
 
 ## Reykjavík, punto de partida
 
-El lugar de inicio de este viaje, que tendrá tres etapas, será 
-[Reykjavík](https://es.visiticeland.com/descubra-islandia/regiones/Reikiavik). Es una 
-primera parada indispensable para cargar provisiones y para tomarle un primer pulso a 
-los (altísimos) precios que se barajan en este país. La respuesta de la capital al 
-creciente flujo de turistas que cada año visitan Islandia se traduce en todo un bosque 
-de grúas que auguran nuevos hoteles y espacios urbanos. Entre los cambios provocados por 
-la gran afluencia de visitantes —Islandia tiene poco más de 330.000 habitantes y en 2017 
-recibió a 1,7 millones de turistas— también se cuenta **la nueva normativa que prohíbe 
-la acampada libre en todo el país**. Era uno de los mayores atractivos para los 
-aventureros más independientes que ahora deberán conformarse con plantar la tienda en 
-las zonas habilitadas para ello. 
+El lugar de inicio de este viaje, que tendrá tres etapas, será Reykjavík. Es una primera 
+parada indispensable para cargar provisiones y para tomarle un primer pulso a los 
+(altísimos) precios que se barajan en este país. La respuesta de la capital al creciente 
+flujo de turistas que cada año visitan Islandia se traduce en todo un bosque de grúas 
+que auguran nuevos hoteles y espacios urbanos. Entre los cambios provocados por la gran 
+afluencia de visitantes —Islandia tiene poco más de 330.000 habitantes y en 2017 recibió 
+a 1,7 millones de turistas— también se cuenta **la nueva normativa que prohíbe la 
+acampada libre en todo el país**. Era uno de los mayores atractivos para los aventureros 
+más independientes que ahora deberán conformarse con plantar la tienda en las zonas 
+habilitadas para ello. 
 
 ![viaje Reykjavik Islandia](https://fotos.etheriamagazine.com/2018/09/Reykjavik-casas-colores-e1562343861149.jpg "Casas de colores en Reykjavík.")
 
@@ -136,9 +140,9 @@ salvaría de la catástrofe.
 
 ![Naturaleza paisaje Islandia viajes](https://fotos.etheriamagazine.com/2018/09/Iglesia-Vik-e1562343961223.jpg "Iglesia de Vík.")
 
-### Dudas habituales si viajas a Islandia
+## Preguntas frecuentes si viajas a Islandia
 
-##### ¿Cómo son las carreteras en Islandia?
+### ¿Cómo son las carreteras en Islandia?
 
 **La carretera de circunvalación** (Ruta 1), le da la vuelta completa a Islandia y está, 
 en su mayor parte, asfaltada. Desde ella parten muchas carreteras que conducen a 
@@ -151,12 +155,12 @@ un poco el interior, convendrá hacerse con **un vehículo 4x4**. La mayoría de
 cuidado en las tierras altas (interior de Islandia) y en las carreteras F. Las 
 carreteras F tienen su propia señalización y para ellas será necesario un todoterreno de 
 grandes dimensiones, pues el uso de turismos o 4x4 pequeños suele estar restringido y 
-fuera de la cobertura de los seguros. En [www.road.is](http://www.road.is) podremos 
-informarnos del **estado de las carreteras** (si están abiertas o cerradas, si hay que 
-cruzar algún río o si ha habido cualquier incidencia en forma de inundación, 
-desprendimiento, vendaval, nieve...). 
+fuera de la cobertura de los seguros. En **www.road.is** podremos informarnos del 
+**estado de las carreteras** (si están abiertas o cerradas, si hay que cruzar algún río 
+o si ha habido cualquier incidencia en forma de inundación, desprendimiento, vendaval, 
+nieve...). 
 
-##### ¿Cómo es el clima en Islandia?
+### ¿Cómo es el clima en Islandia?
 
 Los veranos son suaves, con muchas horas de luz, pero tiene que tener en cuenta que el 
 tiempo cambia en cuestión de minutos. Puedes pasar de un agradable momento de sol al 
@@ -169,7 +173,7 @@ norte de Islandia.
 
 - Más información en [Turismo de Islandia](http://www.visiticeland.com). 
 
-### También te puede interesar
+**También te puede interesar** 
 
 {{< reflink path=posts/2020/01/que-ver-en-noruega-trondheim-bergen-y-oslo >}} 
 

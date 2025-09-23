@@ -5,6 +5,7 @@ cover: https://fotos.etheriamagazine.com/2023/03/malaga-nerja-playa-calahonda.jp
 categories: 
   - viajar-con-amigas
   - inspiración
+  - guias-de-destino
 destino: 
   - España
 authors: 

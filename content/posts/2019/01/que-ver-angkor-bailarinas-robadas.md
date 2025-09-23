@@ -1,22 +1,24 @@
 ---
-title: "Las bailarinas ‘desaparecidas’ de Angkor"
+title: "Guía y anécdotas de Angkor que muchos no se atreven a contar"
 date: 2019-01-17
 cover: https://fotos.etheriamagazine.com/2019/01/viaje-camboya-mujeres-Apsaras-de-Banteay-Srei-e1673862978728.jpg
 categories: 
-  - articulos-por-categorizar
+  - guias-de-destino
 destino: 
   - España
 authors: 
   - Pedro Grifol
 ---
 
-**En el templo de Banteay Srei, situado en el recinto de Angkor Vat, fueron robadas 
+En el templo de Banteay Srei, situado en el recinto de Angkor Vat, fueron robadas 
 impunemente unas esculturas en 1923. Aquello nunca se olvidó. Casi cien años después, 
 los actuales guías del lugar, durante la visita turística, siguen llamando “Las 
 bailarinas de Malraux” a las estatuas que quería llevarse a su casa el ministro de 
-cultura francés. Te contamos además qué ver en Angkor para que no te pierdas nada.** 
+cultura francés. Te contamos además qué ver en Angkor para que no te pierdas nada. 
 
 ![relieve del templo de Banteay Srei en Angkor](https://fotos.etheriamagazine.com/2019/01/viaje-camboya-mujeres-Apsaras-de-Banteay-Srei-e1673862978728.jpg "Apsaras del templo de Banteay Srei (Camboya).")
+
+Actualizado 8/2025 
 
 Érase una vez –¡y no es un cuento!– un ‘intelectual’ francés fue arrestado en Phnom Penh 
 (Camboya) por robar varias estatuas del **templo de Banteay Srei** (Camboya). Las había 
@@ -141,24 +143,24 @@ ha sido un país muy machacado por guerras y por el terrible genocidio del régi
 Pot. Así que una guía (en papel) como ‘Camboya’ de Lonely Planet, que además está en 
 español, viene muy bien para culturizarnos. 
 
-### Cómo ir
+**Cómo ir** 
 
-La compañía **Vietnam Airlines** suele tener varios vuelos semanales desde España a Ho 
-Chi Minh City (Vietnam), con escala en una ciudad europea. Desde Ho Chi Minh (Saigon) 
-las conexiones con Siem Reap (Camboya) son en el mismo día de la llegada y dura apenas 
-una hora. También puedes volar con compañías como **Cathay Pacific** (vía Hong Kong) o 
-**Qatar Airways** (vía Doha y Bangkok). 
+La compañía **Vietnam Airlines** vuela desde España a Ho Chi Minh City (Vietnam), con 
+escala en una ciudad europea. Desde Ho Chi Minh (Saigon) las conexiones con Siem Reap 
+(Camboya) son en el mismo día de la llegada y dura apenas una hora. También puedes volar 
+con compañías como **Cathay Pacific** (vía Hong Kong) o **Qatar Airways** (vía Doha y 
+Bangkok). 
 
-### Cómo moverse
+**Cómo moverse** 
 
 La mejor manera para visitar los templos de Angkor es ponerse en manos de una agencia de 
 viajes especializada como **Phoenix Voyages**, que tienen guías de habla española. 
 
-### Más información
+**Más información** 
 
 [Turismo de Camboya](http://www.tourismcambodia.com). 
 
-📌 **También te puede interesar:** 
+**También te puede interesar:** 
 
 {{< reflink path=posts/2019/09/crucero-por-el-mekong-excursiones-vietnam-y-camboya >}} 
 

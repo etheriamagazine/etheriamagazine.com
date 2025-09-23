@@ -3,16 +3,21 @@ title: "Shopping en París, tiendas imprescindibles en Le Marais"
 date: 2018-08-02
 cover: https://fotos.etheriamagazine.com/2018/07/compras-paris.jpg
 categories: 
-  - articulos-por-categorizar
+  - compras
 destino: 
   - Europa
 authors: 
   - Rebeca Ávila
 ---
 
-París es una ciudad que se identifica con el arte, la historia, la cultura y, también, con el _shopping_. Al ser una ciudad de grandes dimensiones es aconsejable seleccionar qué tipo de compras queremos realizar antes de ponernos en marcha. Si, como a mí, os atraen las tiendas pequeñas y las boutiques de diseño, vuestro barrio es Le Marais.
+París es una ciudad que se identifica con el arte, la historia, la cultura y, también, 
+con el _shopping_. Al ser una ciudad de grandes dimensiones es aconsejable seleccionar 
+qué tipo de compras queremos realizar antes de ponernos en marcha. Si, como a mí, os 
+atraen las tiendas pequeñas y las boutiques de diseño, vuestro barrio es Le Marais. 
 
 ###### ![compras mujeres paris](https://fotos.etheriamagazine.com/2018/07/compras-paris.jpg)
+
+Publicado en 2018 
 
 La mejor manera de encontrar nuestras tiendas de referencia es 'pateando' mucho, no 
 existe otro secreto si estás de **shopping en París**... Ese es el motivo por el que los 
@@ -20,11 +25,10 @@ mejores consejos siempre os los ofrecerán los propios vecinos del lugar. En mi 
 descubrimientos han sido motivados por temas laborales, ya que voy con frecuencia a 
 París (trabajo en una multinacional de origen francés). En estos desplazamientos por 
 trabajo suele haber horas muertas que aprovecho para ponerme al día en cuanto a moda se 
-refiere. Uno de mis barrios favoritos, donde me gusta perderme, es [Le 
-Marais](https://en.parisinfo.com/transport/73274/Quartier-du-Marais). La razón de que 
-termine tantas veces paseando por sus calles es que siempre encuentro **_boutiques_ 
-diferentes** con ese toque tan francés y ese _effortless chic_ del que hacen gala las 
-parisinas. 
+refiere. Uno de mis barrios favoritos, donde me gusta perderme, es Le Marais. La razón 
+de que termine tantas veces paseando por sus calles es que siempre encuentro 
+**_boutiques_ diferentes** con ese toque tan francés y ese _effortless chic_ del que 
+hacen gala las parisinas. 
 
 Cuando viajo fuera de España prefiero ir de compras por **zonas menos comerciales**, ya 
 que me permite descubrir nuevas marcas y traerme algún que otro tesoro para el armario. 
@@ -37,7 +41,8 @@ interesante que pueda incorporar, ¡no dudéis en decírmelo!
 ## Dónde comprar en Le Marais
 
 1\. **Deby Debo** (rue Turenne, 19). Aquí encontrarás vestidos con un _allure_ muy 
-francés, muy versátiles tanto para el trabajo como para el tiempo de ocio. 
+francés, muy versátiles tanto para el trabajo como para el tiempo de ocio. Info en 
+debydebo.fr 
 
 2\. **Les Petites** (rue Turenne). Sus prendas están pensadas para vestir a una mujer 
 urbana y activa. Me encantan sus vestidos de líneas muy minimalistas, muy parisinos. 
@@ -81,11 +86,10 @@ gusto al sentido del olfato entrando en las **tiendas de Acqua di Parma**, **Dip
 coger ideas para vosotras, para vuestra pareja y, también, para la casa. Os aseguro que 
 pasaréis un buen rato en su interior. 
 
-Si, además, quieres organizar alguna visita turística consulta en la [Oficina de Turismo 
-de París](https://es.parisinfo.com/) o en la de 
-[Francia](https://es.france.fr/es/preparate/atout-france-espana-y-tienda-line). 
+Si, además, quieres organizar alguna visita turística consulta en la Oficina de Turismo 
+de París (es.parisinfo.com) o en la de Francia. 
 
-### También te puede interesar...
+**También te puede interesar...** 
 
 {{< reflink path=posts/2019/05/viajar-sola-que-ver-paris >}}. 
 

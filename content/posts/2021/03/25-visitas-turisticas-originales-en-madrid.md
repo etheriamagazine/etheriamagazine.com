@@ -3,8 +3,8 @@ title: "Descubre la vida de las mujeres de Madrid con una ruta turística"
 date: 2021-03-02
 cover: https://fotos.etheriamagazine.com/2021/03/Madrid-gran-via.jpg
 categories: 
-  - ocio
   - excursiones
+  - ocio
 destino: 
   - España
 authors: 

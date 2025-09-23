@@ -3,6 +3,7 @@ title: "Bahía Wellness Retreat, el spa del hotel Bahía del Duque"
 date: 2018-06-12
 cover: https://fotos.etheriamagazine.com/2018/06/Spa-Thalassotherapy-Bahiadelduque-e1668768608982.jpg
 categories: 
+  - viajes-de-lujo
   - hoteles
 destino: 
   - España
@@ -10,10 +11,10 @@ authors:
   - Susana García
 ---
 
-**El hotel Bahía del Duque de Tenerife cuenta con uno de los mejores centros de 
-bienestar que puedas encontrar en un establecimiento hotelero: el Bahía Wellness 
-Retreat. En el mismo, ofrece numerosos rincones donde el descanso y el _relax_ se 
-alcanzan sin darte cuenta**. 
+El hotel Bahía del Duque de Tenerife cuenta con uno de los mejores centros de bienestar 
+que puedas encontrar en un establecimiento hotelero: el Bahía Wellness Retreat. Este spa 
+del hotel Bahía del Duque ofrece numerosos rincones donde el descanso y el _relax_ se 
+alcanzan sin darte cuenta. 
 
 ![piscina del Spa del hotel Bahía del duque en Tenerife](https://fotos.etheriamagazine.com/2018/06/Spa-Thalassotherapy-Bahiadelduque.jpg "Spa del hotel Bahía del Duque.")
 
@@ -93,7 +94,7 @@ Teléfono: +34 922 746 900
 
 A 15 km del Aeropuerto del sur Reina Sofía. 
 
-📌 **También te puede interesar:** 
+**También te puede interesar:** 
 
 {{< reflink path=posts/2019/01/donde-dormir-tenerife-hotel-bahia-del-duque >}} 
 

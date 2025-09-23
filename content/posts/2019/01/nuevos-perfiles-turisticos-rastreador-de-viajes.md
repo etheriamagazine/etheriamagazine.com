@@ -3,16 +3,22 @@ title: "Carla Barberá, rastreadora de viajes"
 date: 2019-01-18
 cover: https://fotos.etheriamagazine.com/2019/01/Carla-Barberá-senior-editor-ViajerosPiratas.jpg
 categories: 
-  - articulos-por-categorizar
+  - mujeres-top
 destino: 
   - España
 authors: 
   - Pepa G. Marín
 ---
 
-Los perfiles profesionales en turismo han evolucionado al mismo tiempo que lo ha hecho el sector, se han adaptado a un entorno más tecnológico y a la demanda de viajeros cada día más independientes. Entre esos nuevos perfiles se encuentra el de Carla Barberá Sanchis, senior editor en ViajerosPiratas, cuya labor, a grandes rasgos, es la de rastrear en la red las mejores ofertas de viajes para publicarlas en este portal web.
+Los perfiles profesionales en turismo han evolucionado al mismo tiempo que lo ha hecho 
+el sector, se han adaptado a un entorno más tecnológico y a la demanda de viajeros cada 
+día más independientes. Entre esos nuevos perfiles se encuentra el de Carla Barberá 
+Sanchis, senior editor en ViajerosPiratas, cuya labor, a grandes rasgos, es la de 
+rastrear en la red las mejores ofertas de viajes para publicarlas en este portal web. 
 
 ![viajeros piratas, rastreador de chollos de viajes](https://fotos.etheriamagazine.com/2019/01/Carla-Barberá-senior-editor-ViajerosPiratas.jpg "Carla Barberá, senior editor en Viajeros Piratas.")
+
+Histórico de Etheria Magazine: 2019 
 
 Carla Barberá es licenciada en Periodismo y trabajó para ViajerosPiratas en Berlín antes 
 de incorporarse al equipo en España. Este portal, que pertenece al grupo HolidayPirates, 

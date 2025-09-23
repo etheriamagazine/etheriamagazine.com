@@ -1,32 +1,37 @@
 ---
-title: "'Viaje a la Alcarria', seguimos los pasos de Cela 20 años después de que nos dejara"
+title: "Un 'Viaje a la Alcarria' siguiendo los pasos de Cela"
 date: 2021-02-01
 cover: https://fotos.etheriamagazine.com/2021/01/viaje-alcarria-cela-Brihuega.jpg
 categories: 
-  - articulos-por-categorizar
+  - excursiones
 destino: 
   - España
 authors: 
   - Pilar Ortega
 ---
 
-'Viaje a la Alcarria' es, seguramente, el viaje más célebre de Camilo José Cela, un itinerario que el Premio Nobel inmortalizó en un libro magistral. El trayecto comenzaba en Madrid y el primer destino era Guadalajara, pero acabó parando en Pastrana, Torija, Cívica, Masegoso, Cifuentes, Zorita, Gárgoles de Arriba, Budia, Sacedón, Tendilla, La Puerta, Casasana, Pareja, Durón, El Olivar, Valdenoches… Te contamos esta ruta de novela.
+'Viaje a la Alcarria' es, seguramente, el viaje más célebre de Camilo José Cela, un 
+itinerario que el Premio Nobel inmortalizó en un libro magistral. El trayecto comenzaba 
+en Madrid y el primer destino era Guadalajara, pero acabó parando en Pastrana, Torija, 
+Cívica, Masegoso, Cifuentes, Zorita, Gárgoles de Arriba, Budia, Sacedón, Tendilla, La 
+Puerta, Casasana, Pareja, Durón, El Olivar, Valdenoches… Te contamos esta ruta de 
+novela. 
 
 ![brihuega viaje a la alcarria de cela](https://fotos.etheriamagazine.com/2021/01/viaje-alcarria-cela-Brihuega.jpg 'Brihuega, el "Jardín de la Alcarria".')
 
 ```
-Actualizado enero de 2022
+Actualizado 8/2025
 ```
 
-6 de junio de 1946 es la fecha en la que Camilo José Cela, mochila al hombro, se pusiera 
-a caminar desde Madrid hasta un lugar inédito para él, en el centro de la Península, 
-donde se cruzó con personajes que nunca habría soñado y con entornos naturales que le 
-dejaron un gran impacto. Su intención inicial era salir “a que no le pasase nada”. Sin 
-embargo, aquel **viaje de 10 días** quedó resumido con mimo en un cuaderno que sería el 
-germen de uno de los textos esenciales de la Literatura española del siglo XX. En 2022 
-se cumplen 20 años del fallecimiento del escritor, sucedió exactamente el 17 de enero, y 
-76 de aquel viaje. Vamos a recordar ambas efemérides siguiendo las huellas de Cela por 
-pueblos, monumentos y caminos. 
+Seis de junio de 1946 es la fecha en la que Camilo José Cela, mochila al hombro, se 
+pusiera a caminar desde Madrid hasta un lugar inédito para él, en el centro de la 
+Península, donde se cruzó con personajes que nunca habría soñado y con entornos 
+naturales que le dejaron un gran impacto. Su intención inicial era salir “a que no le 
+pasase nada”. Sin embargo, aquel **viaje de 10 días** quedó resumido con mimo en un 
+cuaderno que sería el germen de uno de los textos esenciales de la Literatura española 
+del siglo XX. En 2022 se cumplieron 20 años del fallecimiento del escritor, sucedió 
+exactamente el 17 de enero, y 76 de aquel viaje. Vamos a recordar ambas efemérides 
+siguiendo las huellas de Cela por pueblos, monumentos y caminos. 
 
 ## Con el libro de Cela entre las manos
 
@@ -145,7 +150,7 @@ coche](http://turismoenguadalajara.es/documentos/RutadelViajealaAlcarria.pdf).
 
 ![rotulos viaje a la alcarria](https://fotos.etheriamagazine.com/2021/01/carteles-ruta-viaje-alcarria-cela.jpg "Algunos rótulos curiosos de la ruta Viaje a la Alcarria de la mano de Cela.")
 
-### También te puede interesar...
+**También te puede interesar...** 
 
 {{< reflink path=posts/2019/05/ruta-en-coche-pueblos-negros-guadalajara >}}. 
 

@@ -1,21 +1,22 @@
 ---
-title: "Suiza en coche eléctrico, una aventura ecológica (y más económica)"
+title: "Ruta en coche eléctrico por Suiza, consejos para recorrer el país"
 date: 2021-02-10
 cover: https://fotos.etheriamagazine.com/2021/02/Coche-suiza-montanas.jpg
 categories: 
-  - articulos-por-categorizar
+  - guias-de-destino
 destino: 
   - Europa
 authors: 
   - Pedro Grifol
 ---
 
-En 2024 seguro que una de las opciones con más éxito para pasar unos días de vacaciones 
-será realizar una ruta en coche. Suiza es un país perfecto para este tipo de viaje y en 
-este reportaje os contamos cómo organizarlo en coche de alquiler eléctrico para conocer 
+Suiza es un país perfecto para visitarlo realizando una ruta en coche y en este 
+reportaje os contamos cómo organizarlo en un vehículo de alquiler eléctrico para conocer 
 los atractivos de este bello país alpino y respetar a la vez el medioambiente. 
 
 ![pareja haciéndose una foto en Suiza](https://fotos.etheriamagazine.com/2021/02/coche-Grand-Tour-Suiza.jpg "Ruta en coche por Suiza. © Mattias Nutt")
+
+**Actualizado 8/2025** 
 
 Lo primero que debes hacer para organizar un viaje en coche por Suiza será elegir un 
 recorrido viendo en casa el mapa de [La Gran Ruta de 
@@ -33,8 +34,8 @@ En esta ocasión hemos seleccionado un itinerario (a sabiendas que diez días po
 poco tiempo, pero así lo decidimos al comprar los billetes de avión) para volar a Zúrich 
 (ida) con vuelta desde Ginebra. Nos propusimos hacer el recorrido en **coche de alquiler 
 100% eléctrico**, la opción más novedosa y rentable, porque sabíamos que Suiza dispone 
-de **más de 300 puntos de recarga**; y un coche de alquiler que tuviera 250 kilómetros 
-de autonomía sería suficiente para los desplazamientos cortos. 
+de **más de numerosos puntos de recarga**; y un coche de alquiler que tuviera 250 
+kilómetros de autonomía sería suficiente para los desplazamientos cortos. 
 
 ![chica frente al Río Limago, en Zúrich](https://fotos.etheriamagazine.com/2021/02/Suiza-coche-Zurich-Limago.jpg "Río Limago, en Zúrich. © Pedro Grifol")
 
@@ -138,12 +139,11 @@ la combustión de la gasolina)… y sin humos. Y también, si cabe, un viaje má
 
 ## Información práctica y técnica
 
-Para iniciar la auto-ruta lo mejor es ponerse en contacto con 
-[Europcar](https://www.europcar.ch/en-ch), que es la empresa de alquiler de vehículos 
-eléctricos nº 1 en Suiza. Allí te proporcionarán la App para que puedas encontrar los 
-puntos de carga en el itinerario elegido. Tened en cuenta también que no todas las 
-aplicaciones funcionan en todos los sistemas operativos (Android / iOS / Windows). Te 
-informarán al recoger el coche. 
+Para iniciar la auto-ruta lo mejor es ponerse en contacto con Europcar, que es la 
+empresa de alquiler de vehículos eléctricos nº 1 en Suiza. Allí te proporcionarán la App 
+para que puedas encontrar los puntos de carga en el itinerario elegido. Tened en cuenta 
+también que no todas las aplicaciones funcionan en todos los sistemas operativos 
+(Android / iOS / Windows). Te informarán al recoger el coche. 
 
 Por ejemplo, un **Volkswagen e-Golf** –que fue nuestro vehículo– tiene una autonomía de 
 190 kilómetros (ciclo NEDC), aunque los consumos de los coches 100% eléctricos obedecen 

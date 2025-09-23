@@ -3,6 +3,7 @@ title: "Çirağan Palace Kempinski, un hotel con magia en Estambul"
 date: 2019-03-05
 cover: https://fotos.etheriamagazine.com/2019/02/ciragan-palace-kempinski-istanbul-exterior.jpg
 categories: 
+  - viajes-de-lujo
   - hoteles
 destino: 
   - Mundo
@@ -10,9 +11,9 @@ authors:
   - Susana García
 ---
 
-**Hay hoteles que son la excusa perfecta para visitar un destino. Es el caso del Çirağan 
+Hay hoteles que son la excusa perfecta para visitar un destino. Es el caso del Çirağan 
 Palace de Estambul, un hotel al que merece la pena escaparse en un viaje en pareja y así 
-disfrutar del romanticismo de esta ciudad llena de historia.** 
+disfrutar del romanticismo de esta ciudad llena de historia. 
 
 ![piscina del Çiragan Palace en Estambul](https://fotos.etheriamagazine.com/2019/02/ciragan-palace-kempinski-istanbul-exterior.jpg "Vistas del Bósforo desde el Çirağan Palace.")
 
@@ -107,7 +108,7 @@ Habitación doble para dos personas desde 473 Euros (precio aproximado). Direcci
 
 Fotografías cedidas por el hotel Çirağan Palace Kempinski de Estambul. 
 
-📌 **También te puede interesar:** 
+**También te puede interesar:** 
 
 {{< reflink path=posts/2018/05/fin-de-semana-romantico-en-estambul >}} 
 

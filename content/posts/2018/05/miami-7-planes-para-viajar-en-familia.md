@@ -10,11 +10,13 @@ authors:
   - Susana García
 ---
 
-**Miami es un lugar donde es difícil aburrirse con los más pequeños ya que está llena de 
+Miami es un lugar donde es difícil aburrirse con los más pequeños ya que está llena de 
 posibilidades de ocio para toda la familia. Aquí te contamos 7 planes que no puedes 
-perderte en un viaje con niños a Miami.** 
+perderte en un viaje con niños a Miami. 
 
 ![Miami en familia](https://fotos.etheriamagazine.com/2018/05/Miami-Beach.jpg "Playa de Miami Beach. © SG")
+
+Actualizado agosto 2025 
 
 El mejor lugar para descubrir Miami en un viaje en familia es South Beach, que 
 representa la imagen que todos tenemos en la mente de esta ciudad de sol y palmeras. Sus 
@@ -24,7 +26,7 @@ No te pierdas todas las posibilidades que ofrece un viaje con niños a Miami.
 
 ## Actividades imprescindibles con niños en Miami
 
-### La playa de Miami Beach.
+### La playa de Miami Beach
 
 El icono de la ciudad, con sus típicos y coloridos puestos de socorristas. La playa es 
 estupenda, con multitud de servicios y una arena excelente. Los niños no perdonaran 
@@ -34,7 +36,7 @@ viaje.
 
 ![turismo en Miami](https://fotos.etheriamagazine.com/2018/05/miami-beach-paseo-canales.jpg "Mansión de las que se pueden ver en tour por los canales de Miami.")
 
-### Un tour en barco por los canales.
+### Un tour en barco por los canales
 
 Te sonarán los nombres de Key Biscayne, Virginia Key, Fisher Island… Son los canales que 
 quedan entre los cayos que forman parte de Miami. Salen de la **Marina de Miami**, una 
@@ -48,7 +50,7 @@ inevitables.
 
 ![Little Havanna en Miami](https://fotos.etheriamagazine.com/2018/05/Miami-Little-Havanna.jpg "'La Esquina de la Fama', uno de los lugares donde tomar algo en Little Havana. © SG")
 
-### Little Havana.
+### Little Havana
 
 Es curioso de ver este rincón de Cuba en Miami, un lugar donde cambia totalmente la 
 arquitectura y la gente. Si pasa por aquí, es imprescindible una parada en **“La Esquina 
@@ -57,14 +59,14 @@ donde probar un excelente café expreso tan diferente de los largos cafés ameri
 
 ![Art Decó en Miami](https://fotos.etheriamagazine.com/2018/05/Miami-art-deco-south-beach.jpg "Edificios Art Decó en South Beach.")
 
-### Un paseo en bicicleta por South Beach.
+### Un paseo en bicicleta por South Beach
 
 Miami Beach es un lugar de culto al cuerpo, y eso se percibe enseguida al ver la 
 cantidad de gente que hay practicando algún deporte. Junto a la playa hay un paseo que 
 comparten transeúntes y bicicletas perfecto para un paseo en bici en familia. En los 
 hoteles de la zona te facilitan sin problema el alquiler de bicicletas. 
 
-### Excursión a los Everglades.
+### Excursión a los Everglades
 
 Sólo por montar en las famosas lanchas de hélice y recorrer los pantanos ya merece la 
 pena. Se ven algunos cocodrilos, sobre todo pequeños, y después hay un itinerario por un 
@@ -73,7 +75,7 @@ viaje con niños a Miami. Se tarda unos 40-50 minutos desde Miami Beach.
 
 ![Miami familia tour viaje niños barca](https://fotos.etheriamagazine.com/2018/05/Miami-Everglades.jpg "Paseo en lancha de hélice en los Everglades")
 
-### Acudir a un partido de la NBA.
+### Acudir a un partido de la NBA
 
 Siempre es un espectáculo ver a los Heat en directo. Se pueden comprar las entradas en 
 la web de la [NBA](http://www.nba.com/heat/tickets) desde España. Un partido de NBA no 

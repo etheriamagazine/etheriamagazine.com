@@ -4,7 +4,7 @@
 #
 
 app = 'etheriamagazine-com'
-primary_region = 'mad'
+primary_region = 'fra'
 
 [http_service]
   internal_port = 8080

@@ -3,7 +3,7 @@ title: "2ª Regata solidaria por la igualdad de género Corporate Yachting"
 date: 2019-07-22
 cover: https://fotos.etheriamagazine.com/2019/07/regata-solidaria.jpg
 categories: 
-  - articulos-por-categorizar
+  - hemeroteca
 destino: 
   - España
 authors: 

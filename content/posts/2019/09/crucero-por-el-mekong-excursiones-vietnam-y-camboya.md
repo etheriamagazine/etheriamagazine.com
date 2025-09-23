@@ -1,21 +1,23 @@
 ---
-title: "Crucero por el Mekong. Vietnam y Camboya a través del río de la vida"
+title: "Crucero por el Mekong en Vietnam y Camboya, un viaje a través del río de la vida"
 date: 2019-09-13
 cover: https://fotos.etheriamagazine.com/2019/09/crucero-Aqua-Mekong.jpg
 categories: 
-  - articulos-por-categorizar
+  - guias-de-destino
 destino: 
   - Mundo
 authors: 
   - Cristina R. Bareño
 ---
 
-**Más que un río, el Mekong significa vida. Cultura, tradiciones y origen. A su paso va 
+Más que un río, el Mekong significa vida. Cultura, tradiciones y origen. A su paso va 
 haciendo mella, no solo en la tierra que erosiona, sino también en los habitantes que se 
 han establecido a pie de sus orillas. En Etheria Magazine hemos realizado un crucero por 
-el Mekong para contarte todo lo que no debes perderte.** 
+el Mekong para contarte todo lo que no debes perderte. 
 
 ![Productos de un mercado en Vietnam](https://fotos.etheriamagazine.com/2019/09/mercados-crucero-mekong.jpg "Visita al mercado de Sa Dec, en Vietnam, durante el crucero por el Mekong. ©Cristina R. Bareño")
+
+**Actualizado 8/2025** 
 
 Desde la cordillera del Himalaya hasta el mar de China Meridional, el Mekong serpentea a 
 lo largo de los **4.350 kilómetros** que cruzan el Tibet, atraviesan China, Myanmar, 
@@ -40,9 +42,10 @@ y de la magia de los amaneceres y atardeceres sobre su cauce.
 ## Un crucero de lujo por el Mekong
 
 Para realizarlo, **nos embarcamos en el Aqua Mekong, uno de los cruceros fluviales de la 
-flota de** **Aqua Expeditions** que recorre el río asiático desde Vietnam hasta Camboya. 
-Una experiencia única donde van de la mano lo auténtico y lo más exclusivo, la seguridad 
-y la tranquilidad que solo un crucero de lujo como este te puede brindar. 
+flota de Aqua Expeditions** (aquaexpeditions.com) que recorre el río asiático desde 
+Vietnam hasta Camboya. Una experiencia única donde van de la mano lo auténtico y lo más 
+exclusivo, la seguridad y la tranquilidad que solo un crucero de lujo como este te puede 
+brindar. 
 
 Este **crucero de ensueño zarpa desde Mỹ Tho** (Vietnam), y sube por su caudal hasta 
 alcanzar Phnom Penh (Camboya) en uno de los viajes por agua más épicos y valiosos de 
@@ -163,5 +166,4 @@ hablando, dejaos llevar por la _street food_ ya que no os decepcionará.
 
 ### Más información
 
-Web oficiales de turismo de [Vietnam](https://vietnam.travel/) y 
-[Camboya](https://www.tourismcambodia.com/).
+Web oficiales de turismo de Vietnam (vietnam.travel) y Camboya (tourismcambodia.com).

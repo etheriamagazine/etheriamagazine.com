@@ -10,12 +10,15 @@ authors:
   - Kelu Robles
 ---
 
-**Hemos decidido bautizar a San Pedro de Atacama como la capital del 'buenrollismo' 
+Hemos decidido bautizar a San Pedro de Atacama como la capital del 'buenrollismo' 
 chileno por muchas razones que ya sabéis quienes la habéis visitado y que las demás 
 entenderéis tras leer este artículo. También nos hemos propuesto descubrir por qué no 
-existe la negatividad en el desierto de Atacama, el más árido del planeta.** 
+existe la negatividad en el desierto de Atacama, el más árido del planeta, y por qué es 
+un lugar perfecto para viajar sola. 
 
 ![Paisaje del desierto de Atacama con montañas y lagos.](https://fotos.etheriamagazine.com/2018/12/viajera-sola-en-atacama-chile-Etheria-magazine-1.jpg "Paisaje del desierto de Atacama. © Kelu Robles")
+
+Actualizado 09/2025 
 
 Dicen que el cobre y el cuarzo que hay en el **desierto de Atacama** son los 
 responsables del espíritu afable de su gente y, quizá porque la naturaleza es sabia, ha 
@@ -145,8 +148,8 @@ Desde San Pedro de Atacama se organizan **excursiones de tres días para visitar
 en Bolivia**. Se trata del mayor desierto de sal del mundo y los reflejos que se 
 producen en su superficie enmarcan una imagen casi onírica. 
 
-📍La página oficial Chile Travel contiene información práctica y recomendaciones en 
-torno a muchos aspectos de este viaje. 
+La página oficial Chile Travel contiene información práctica y recomendaciones en torno 
+a muchos aspectos de este viaje. 
 
 ### También en Chile...
 
