@@ -1,3 +1,5 @@
+# See https://fly.io/docs/app-guides/continuous-deployment-with-github-actions/
+
 name: Fly Deploy
 on:
   push:
@@ -11,13 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     concurrency: deploy-group    # optional: ensure only one action runs at a time
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0 # see https://gohugo.io/methods/page/gitinfo/#hosting-considerations
 
-      - name: Install flyctl
-        uses: superfly/flyctl-actions/setup-flyctl@master
+      - uses: superfly/flyctl-actions/setup-flyctl@master
 
       # NOTE: IMGPROXY secrets are set in github and used as part of the build process, not at runtime
       - run: flyctl deploy --remote-only --build-secret HUGO_IMGPROXY_KEY="${{ secrets.HUGO_IMGPROXY_KEY }}" --build-secret HUGO_IMGPROXY_SALT="${{ secrets.HUGO_IMGPROXY_SALT }}"
