@@ -3,7 +3,7 @@ title: "Año Nuevo chino en Madrid 2023"
 date: 2023-01-16
 cover: https://fotos.etheriamagazine.com/2023/01/ano-nuevo-cine-baile-Hanfu.jpg
 categories: 
-  - articulos-por-categorizar
+  - hemeroteca
 destino: 
   - España
 authors: 

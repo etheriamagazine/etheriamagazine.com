@@ -3,7 +3,7 @@ title: "Recetas creativas para aprovechar la comida como en los hoteles"
 date: 2020-11-02
 cover: https://fotos.etheriamagazine.com/2020/10/Ice-croissant-accor.jpg
 categories: 
-  - articulos-por-categorizar
+  - gourmet
 authors: 
   - Rebeca Ávila
 ---

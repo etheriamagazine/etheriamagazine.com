@@ -3,7 +3,7 @@ title: "eSIM para Europa, una alternativa al roaming en países como el Reino Un
 date: 2022-08-02
 cover: https://fotos.etheriamagazine.com/2022/07/Holafly-mujer-viaje.jpg
 categories: 
-  - articulos-por-categorizar
+  - que-llevar-en-la-maleta
 destino: 
   - Europa
 authors: 

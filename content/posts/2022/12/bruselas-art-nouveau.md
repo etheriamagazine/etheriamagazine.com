@@ -3,7 +3,7 @@ title: "Bruselas, capital del Art Nouveau en 2023"
 date: 2022-12-23
 cover: https://fotos.etheriamagazine.com/2022/12/van-eetvelde-house.jpg
 categories: 
-  - articulos-por-categorizar
+  - hemeroteca
 destino: 
   - Europa
 authors: 

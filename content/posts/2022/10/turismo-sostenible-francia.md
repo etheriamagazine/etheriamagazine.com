@@ -3,7 +3,7 @@ title: "Planes divertidos para practicar un turismo sostenible en Francia"
 date: 2022-10-28
 cover: https://fotos.etheriamagazine.com/2022/10/Francia-canal-du-midi-carcassonne.jpg
 categories: 
-  - articulos-por-categorizar
+  - excursiones
 destino: 
   - Europa
 authors: 

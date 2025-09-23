@@ -3,6 +3,7 @@ title: "Corea del Sur llega a Madrid con su K-Week"
 date: 2021-10-15
 cover: https://fotos.etheriamagazine.com/2021/10/Corea-del-sur-Callejon-Puigcerda.jpg
 categories: 
+  - hemeroteca
   - ocio
 destino: 
   - España

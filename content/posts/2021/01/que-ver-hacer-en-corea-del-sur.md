@@ -3,7 +3,7 @@ title: "Descubre Corea del Sur, uno de los secretos mejor guardados de Asia"
 date: 2021-01-14
 cover: https://fotos.etheriamagazine.com/2020/02/viaje-corea-seul.jpg
 categories: 
-  - articulos-por-categorizar
+  - guias-de-destino
 destino: 
   - Mundo
 authors: 

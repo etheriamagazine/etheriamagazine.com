@@ -3,14 +3,17 @@ title: "Contágiate de la locura de Dalí en el Triángulo daliniano"
 date: 2021-04-21
 cover: https://fotos.etheriamagazine.com/2021/03/sala-de-Mae-West-Teatro-Museo-Dali.jpg
 categories: 
-  - articulos-por-categorizar
+  - guias-de-destino
 destino: 
   - España
 authors: 
   - Pedro Grifol
 ---
 
-Dalí es una gran excusa para viajar a Girona y disfrutar haciendo la ruta del Triángulo daliniano. En este artículo te contamos qué lugares visitar para descubrir en solo tres visitas las claves de este artista: Figueres, donde nació; Cadaqués, su refugio; y Púbol, el feudo de su musa.
+Dalí es una gran excusa para viajar a Girona y disfrutar haciendo la ruta del Triángulo 
+daliniano. En este artículo te contamos qué lugares visitar para descubrir en solo tres 
+visitas las claves de este artista: Figueres, donde nació; Cadaqués, su refugio; y 
+Púbol, el feudo de su musa. 
 
 ![sala mae west del teatro museo dali ruta de dali en girona](https://fotos.etheriamagazine.com/2021/03/sala-de-Mae-West-Teatro-Museo-Dali.jpg "Sala de Mae West, en el Teatro Museo Dalí. © Pedro Grifol")
 
@@ -35,7 +38,7 @@ escuela de dibujo del pueblo.
 
 ![cupula geodesica del teatro dali figueres](https://fotos.etheriamagazine.com/2021/03/cupula-geodesica-del-Teatro-Museo-Dali.jpg "Cúpula geodésica del Teatro Museo Dalí, en Figueres. © Pedro Grifol")
 
-#### Teatro Museo Dalí, en Figueres
+### Teatro Museo Dalí, en Figueres
 
 A la edad de 15 años, ya pudo exponer sus primeros dibujos en el Teatro Municipal de 
 Figueres. ¿Imaginaba el Dalí adolescente que ese mismo edificio albergaría el museo que 
@@ -140,9 +143,9 @@ consecuencia de ese comportamiento social que hoy llamamos ‘postureo’, pero,
 verdadero Dalí solo aparentó estar loco durante toda su vida, probablemente estaba más 
 loco de lo que él creía. Hágase su voluntad. 
 
-### GUÍA DE VIAJE ETHERIA
+## Guía Práctica-Preguntas frecuentes
 
-##### Cuánto tiempo se necesita para hacer el Triángulo daliniano
+**Cuánto tiempo se necesita para hacer el Triángulo daliniano** 
 
 Para disfrutar de la visita a los tres vértices del ‘triángulo daliniano’ son necesarios 
 como mínimo dos días. La distancia que hay entre ellos obliga a prever un desplazamiento 
@@ -155,7 +158,7 @@ ilustre figura de su ciudadano más emblemático.
 
 ![dormitorio de gala y dali en el teatro museo de figueres](https://fotos.etheriamagazine.com/2021/03/Dormitorio-de-Gala-y-Dali-Teatro-Museo-Dali.jpg "Dormitorio de Gala y Dalí, en el Teatro Museo Dalí. © Pedro Grifol")
 
-##### 2 rutas guiadas de Civitatis con Dalí como protagonista
+**2 rutas guiadas de Civitatis con Dalí como protagonista** 
 
 📌 [Museo de Dalí, Cadaqués y Cabo de 
 Creus](https://www.civitatis.com/es/gerona/tour-dali-figueras-cadaques-cabo-creus/?aid=10211), 
@@ -163,7 +166,7 @@ con transporte, visitas, catas y degustaciones. 📌 [Tour por Girona y Museo Da
 Figueres](https://www.civitatis.com/es/gerona/excursion-museo-dali-figueras/?aid=10211). 
 Excursión de 8 horas. 
 
-##### Museo de Juguete de Cataluña
+**Museo de Juguete de Cataluña** 
 
 Es una de las visitas recomendables. Ubicado en el antiguo Hotel París, desde su 
 inauguración, en 1982, no ha parado de incrementarse con donaciones de artistas y 
@@ -175,39 +178,34 @@ menciona en sus cartas. Entrañable.
 
 ![Museo del Juguete de Figueres triangulo daliniano](https://fotos.etheriamagazine.com/2021/03/Figueres-Museo-del-Juguete.jpg "Museo del Juguete de Figueres.")
 
-##### Café Astoria
+**Café Astoria** 
 
 Recomendable tomarse un cafetito (o un _Cacaolat_) en el **Café Astoria**, uno de los 
 sobrevivientes de la época de juventud del pintor ampurdanés. Aunque, en la actualidad, 
 está muy reformado, mantiene intacta la zona de **barra.** 
 
-##### Hotel Plaza Inn
+**Hotel Plaza Inn** 
 
 En el Hotel Plaza Inn destaca la decoración de las habitaciones con pinturas realizadas 
 por la Escuela de Arte de Olot. Sus precios son bastante asequibles. 
 
 ![Comedor Dalí en el Hotel Durán de Figueres.](https://fotos.etheriamagazine.com/2021/03/Figueres-comedor-Dali-en-el-Hotel-Duran.jpg "Comedor Dalí en el Hotel Durán de Figueres. © Pedro Grifol")
 
-##### Hotel Durán
+**Hotel Durán** 
 
-Pero el alojamiento con más recuerdos dalinianos es el [Hotel 
-Durán](http://www.booking.com/hotel/es/duran.html?aid=844890&no_rooms=1&group_adults=1). 
-**Dalí se hospedaba allí** antes de tener sus aposentos en la Torre Galatea de su museo. 
-Todavía conserva la sala donde solía comer el artista, que se mantiene igual a como 
-aparece en las fotos de la época. Si puedes dormir en este lugar, podrás presumir de un 
-verdadero privilegio: el espíritu de Dalí sigue por ahí. 
+Pero el alojamiento con más recuerdos dalinianos es el Hotel Durán. **Dalí se hospedaba 
+allí** antes de tener sus aposentos en la Torre Galatea de su museo. Todavía conserva la 
+sala donde solía comer el artista, que se mantiene igual a como aparece en las fotos de 
+la época. Si puedes dormir en este lugar, podrás presumir de un verdadero privilegio: el 
+espíritu de Dalí sigue por ahí. 
 
-\*En estos tiempos pandémicos, para saber más sobre los precios de las entradas, 
-horarios y períodos de apertura de los tres lugares clásicos del triángulo daliniano 
-habrá que consultar las páginas web de cada uno de ellos. 
-
-##### Información general
+**Información general** 
 
 [Fundación Gala- Salvador Dalí](http://www.salvador-dali.org). 
 
 ![teatro museo dali de figueres](https://fotos.etheriamagazine.com/2021/03/Figueres-Teatro-Museo-Dali.jpg "Teatro Museo Dalí en Figueres. © Pedro Grifol")
 
-### También te puede interesar...
+**También te puede interesar...** 
 
 {{< reflink path=posts/2019/05/pueblos-imprescindibles-viaje-amigas-costa-brava >}}. 
 

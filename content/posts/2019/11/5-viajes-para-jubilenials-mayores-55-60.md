@@ -1,18 +1,18 @@
 ---
-title: "5 viajes para jubilados con ganas de viajar"
+title: "Cinco escapadas para celebrar la jubilación con amigas"
 date: 2019-11-26
 cover: https://fotos.etheriamagazine.com/2019/11/chicas-viaje-risas.jpg
 categories: 
-  - articulos-por-categorizar
+  - viajar-con-amigas
 destino: 
-  - Mundo
+  - España
 authors: 
   - Redacción Etheria
 ---
 
 **Si tienes tiempo libre, estás en plena forma, te gusta conocer otros lugares y puedes 
-hacerlo... sigue leyendo porque te damos cinco ideas para jubilados con ganas de 
-viajar.** 
+hacerlo... sigue leyendo porque te damos cinco ideas para celebrar la jubilación con tus 
+mejores amigas.** 
 
 ![viajes mayores de 55](https://fotos.etheriamagazine.com/2019/11/chicas-viaje-risas.jpg "© Priscilla Du Preez")
 

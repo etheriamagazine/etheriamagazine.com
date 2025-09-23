@@ -3,7 +3,7 @@ title: "Yoga por Refugio, una actividad solidaria en Madrid para quienes buscan 
 date: 2025-04-20
 cover: https://fotos.etheriamagazine.com/2025/04/YOGA-SOLIDARIO.jpg
 categories: 
-  - articulos-por-categorizar
+  - hemeroteca
 destino: 
   - España
 authors: 

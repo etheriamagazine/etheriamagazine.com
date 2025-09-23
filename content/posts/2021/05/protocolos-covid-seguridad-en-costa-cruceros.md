@@ -3,7 +3,7 @@ title: "¿Es seguro viajar en crucero? Conoce los protocolos de Costa Cruceros"
 date: 2021-05-28
 cover: https://fotos.etheriamagazine.com/2021/05/costa-smeralda-costa-cruceros.jpg
 categories: 
-  - articulos-por-categorizar
+  - hemeroteca
 destino: 
   - España
 authors: 

@@ -3,7 +3,7 @@ title: "Excursión a Tívoli: un plan perfecto desde Roma"
 date: 2022-05-06
 cover: https://fotos.etheriamagazine.com/2022/05/Tivoli-villa-dell-este.jpg
 categories: 
-  - articulos-por-categorizar
+  - excursiones
 destino: 
   - Europa
 authors: 

@@ -3,7 +3,7 @@ title: "Hotel W Costa Navarino, un rincón de lujo en el paraíso"
 date: 2022-11-16
 cover: https://fotos.etheriamagazine.com/2022/11/W-Costa-Navarino-piscina-atardecer.jpg
 categories: 
-  - articulos-por-categorizar
+  - hoteles
 destino: 
   - Europa
 authors: 

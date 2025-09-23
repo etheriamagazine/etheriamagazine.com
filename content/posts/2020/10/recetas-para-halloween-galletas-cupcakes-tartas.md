@@ -3,7 +3,7 @@ title: "Recetas de Halloween para divertirse en casa"
 date: 2020-10-23
 cover: https://fotos.etheriamagazine.com/2020/10/galletas-halloween.jpg
 categories: 
-  - articulos-por-categorizar
+  - gourmet
 destino: 
   - Europa
 authors: 

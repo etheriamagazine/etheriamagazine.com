@@ -3,16 +3,16 @@ title: "Ruta del Comunismo en Chequia, visitas con mucha historia"
 date: 2019-11-17
 cover: https://fotos.etheriamagazine.com/2019/11/ruta-chequia-Telon-de-Acero-de-Satov-Museo-Tecnico-de-Brno.jpg
 categories: 
-  - articulos-por-categorizar
+  - guias-de-destino
 destino: 
   - Europa
 authors: 
   - Redacción Etheria
 ---
 
-**La Ruta del Comunismo en Chequia es la mejor manera de conocer este período histórico 
-ya que existen numerosas huellas que aún se pueden visitar: campos de trabajo, museos, 
-torres de vigilancia, aduanas y pasos fronterizos.** 
+La Ruta del Comunismo en Chequia es la mejor manera de conocer este período histórico ya 
+que existen numerosas huellas que aún se pueden visitar: campos de trabajo, museos, 
+torres de vigilancia, aduanas y pasos fronterizos. 
 
 ![museo del comunismo, ruta praga](https://fotos.etheriamagazine.com/2019/11/ruta-chequia-Museo-del-Comunismo-1.jpg "Museo del Comunismo (Praga).")
 

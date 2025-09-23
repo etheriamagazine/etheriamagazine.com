@@ -3,7 +3,7 @@ title: "Descubre los 10 imprescindibles que debes llevar a un pícnic"
 date: 2020-09-03
 cover: https://fotos.etheriamagazine.com/2020/08/picnic-mantel.jpg
 categories: 
-  - articulos-por-categorizar
+  - compras
 destino: 
   - España
 authors: 

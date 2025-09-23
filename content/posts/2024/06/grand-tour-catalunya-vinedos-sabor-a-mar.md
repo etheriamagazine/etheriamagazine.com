@@ -3,7 +3,7 @@ title: "Viñedos con sabor a mar, primer tramo del Grand Tour de Cataluña"
 date: 2024-06-27
 cover: https://fotos.etheriamagazine.com/2021/11/bici-grand-tour-catalunya.jpg
 categories: 
-  - viajar-con-amigas
+  - guias-de-destino
 destino: 
   - España
 authors: 

@@ -3,7 +3,7 @@ title: "Disfruta de la mejor cocina peruana en el Westin Palace de Madrid (sólo
 date: 2024-05-29
 cover: https://fotos.etheriamagazine.com/2024/05/Lomo-saltado-cocina-peruana.jpg
 categories: 
-  - articulos-por-categorizar
+  - hemeroteca
 destino: 
   - España
 authors: 

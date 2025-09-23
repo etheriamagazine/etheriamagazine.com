@@ -3,14 +3,17 @@ title: "Andalucía en autocaravana y consejos prácticos para novatos"
 date: 2021-04-07
 cover: https://fotos.etheriamagazine.com/2021/04/autocaravana-estacionar.jpg
 categories: 
-  - articulos-por-categorizar
+  - guias-de-destino
 destino: 
   - España
 authors: 
   - Redacción Etheria
 ---
 
-##### Encontrar las mejores rutas en autocaravana, camperizar tu vehículo o alquilar una caravana se han convertido en los últimos tiempos en prioridades que ni tan siquiera imaginábamos hace unos años. En este artículo te damos pistas para acertar en todo ello, y te invitamos a recorrer parte de Andalucía en autocaravana.
+Encontrar las mejores rutas en autocaravana, camperizar tu vehículo o alquilar una 
+caravana se han convertido en los últimos tiempos en prioridades que ni tan siquiera 
+imaginábamos hace unos años. En este artículo te damos pistas para acertar en todo ello, 
+y te invitamos a recorrer parte de Andalucía en autocaravana. 
 
 ![andalucia en autocaravana](https://fotos.etheriamagazine.com/2021/04/autocaravana-estacionar.jpg "Viajar en autocaravana, una forma original de descubrir España.")
 
@@ -22,7 +25,7 @@ demanda de autocaravanas es tan alta que a última hora es poco probable hallar 
 necesitamos a un precio normal. Así que te sugerimos darle la vuelta al proceso, y 
 comenzar alquilando la autocaravana. 
 
-📌📌**No te pierdas**: {{< reflink path=posts/2022/03/ruta-autocaravana-en-cordoba >}} 
+**No te pierdas**: {{< reflink path=posts/2022/03/ruta-autocaravana-en-cordoba >}} 
 
 ## ¿Cómo y dónde alquilar una autocaravana?
 
@@ -50,12 +53,8 @@ como elegir la capacidad que necesitas en función de las personas que vayan a v
 otras no tanto. Por ejemplo, no debe sobrepasar los 3.500 kg si sólo tienes el carnet B 
 de conducir, que sea lo más nueva posible (mejor que no tenga más de 2 años), y 
 contratar un seguro que cubra el máximo de problemas. Algunas empresas donde puedes 
-mirar precios son [Viajes El Corte 
-Inglés](https://www.viajeselcorteingles.es/ofertas-vacaciones/ofertas-autocaravana), 
-[Indie Campers](https://indiecampers.es/alquilar-una-autocaravana), 
-[E-vans](https://www.e-vans.es/), [Autocaravana](http://www.todoautocaravana.es), 
-[McRent](https://www.mc-rent.es/) y [Yescapa](https://www.yescapa.es/) (alquiler entre 
-particulares). 
+mirar precios son Viajes El Corte Inglés, Indie Campers, E-vans, Autocaravana, McRent y 
+Yescapa (alquiler entre particulares). 
 
 Si te estás preguntando cuánto puede costar el alquiler de una autocaravana, te podemos 
 decir que una sencillita para 4 personas y sin extras te puede salir una semana por unos 
@@ -218,7 +217,7 @@ algunos sitios verás indicaciones de que no se puede estacionar durante la noch
 en cuenta si no quieres que te multen. Para más ideas consulta este artículo de {{< 
 reflink path=posts/2021/04/que-ver-en-almeria-en-temporada-baja >}}. 
 
-### ✅ Más sobre autocaravanas y rutas
+**Más sobre autocaravanas y rutas** 
 
 {{< reflink path=posts/2020/07/5-rutas-en-auto-caravana-por-espana >}} 
 

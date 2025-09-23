@@ -3,14 +3,17 @@ title: "BetArt Calvià 2021, visita sus cinco nuevos murales"
 date: 2021-12-04
 cover: https://fotos.etheriamagazine.com/2021/12/Joan-Cabrer-1.jpg
 categories: 
-  - articulos-por-categorizar
+  - hemeroteca
 destino: 
   - España
 authors: 
   - Redacción Etheria
 ---
 
-Si viajas a Mallorca, no dejes de visitar Calvià y Es Capdella para conocer los nuevos cinco murales que ha dejado el Festival BetArt 2021. Los artistas que han realizado estas obras de arte son Joan Cabrer, César Goce y Pedro Kouba, Sabek, Dafne Tree y Manolo Mesa.
+Si viajas a Mallorca, no dejes de visitar Calvià y Es Capdella para conocer los nuevos 
+cinco murales que ha dejado el Festival BetArt 2021. Los artistas que han realizado 
+estas obras de arte son Joan Cabrer, César Goce y Pedro Kouba, Sabek, Dafne Tree y 
+Manolo Mesa. 
 
 ![sabek en BetArt 2021](https://fotos.etheriamagazine.com/2021/12/Sabek-BetArt-2021.jpg "Mural de Sabek en BetArt 2021.")
 

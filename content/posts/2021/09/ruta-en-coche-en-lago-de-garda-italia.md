@@ -1,9 +1,9 @@
 ---
-title: "Ruta en coche alrededor del lago de Garda, el mayor de Italia"
+title: "Ruta romántica en coche alrededor del lago de Garda, el mayor de Italia"
 date: 2021-09-22
 cover: https://fotos.etheriamagazine.com/2021/09/viaje-riva-del-garda.jpg
 categories: 
-  - articulos-por-categorizar
+  - viajar-en-pareja
 destino: 
   - Europa
 authors: 
@@ -214,12 +214,12 @@ Carlos de Inglaterra o Juan Carlos de Borbón, entre otra variada "mundanidad".
 
 Malcesine está justo en el lugar donde el Monte Baldo (2.218 metros) entra en contacto 
 de forma vertiginosa con el lago de Garda. Aquí está la estación de partida de una de 
-las atracciones más conocidas de la zona: el [teleférico del 
-Baldo](https://funiviedelbaldo.it/it) que asciende hasta los 1.800 metros de altura. Una 
-auténtica experiencia, no aconsejable para quien sufra de vértigo, que tiene como premio 
-final disfrutar de las que, sin duda, son las mejores panorámicas del lago y las 
-montañas que lo rodean. Además, la estación de llegada la utilizan muchos como 
-plataforma para explorar la diversa naturaleza de este monte y llegar hasta su cima. 
+las atracciones más conocidas de la zona: el **teleférico del Baldo** que asciende hasta 
+los 1.800 metros de altura. Una auténtica experiencia, no aconsejable para quien sufra 
+de vértigo, que tiene como premio final disfrutar de las que, sin duda, son las mejores 
+panorámicas del lago y las montañas que lo rodean. Además, la estación de llegada la 
+utilizan muchos como plataforma para explorar la diversa naturaleza de este monte y 
+llegar hasta su cima. 
 
 ![Veleros en Riva del Garda.](https://fotos.etheriamagazine.com/2021/09/riva-del-garda.jpg "Veleros en Riva del Garda. © Fabio Staropoli")
 
@@ -256,7 +256,7 @@ sin prisas y con (muchas) ganas de disfrutar de la comida.
 
 ![Aperitivo jardines Hotel Villa Cortine](https://fotos.etheriamagazine.com/2021/09/Aperitivo-jardines-Hotel-Villa-Cortine.jpg "Aperitivo en los jardines del © hotel Villa Cortine.")
 
-## Más información
+**Más información** 
 
 [Lago di Garda- Lombardía](http://www.gardalombardia.it), [Turismo de 
 Brescia](http://www.bresciatourism.it) y [Turismo de Italia](https://www.italia.it/es). 

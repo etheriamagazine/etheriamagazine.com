@@ -3,7 +3,7 @@ title: "Cruceros originales para vivir unas vacaciones diferentes"
 date: 2023-02-24
 cover: https://fotos.etheriamagazine.com/2023/02/crucero-alaska-glacier-bay.jpg
 categories: 
-  - articulos-por-categorizar
+  - guias-de-destino
 destino: 
   - España
 authors: 

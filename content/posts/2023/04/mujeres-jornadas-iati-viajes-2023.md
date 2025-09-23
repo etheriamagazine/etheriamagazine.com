@@ -3,7 +3,7 @@ title: "Aventureras en las Jornadas IATI de los Grandes Viajes, 10 años compart
 date: 2023-04-20
 cover: https://fotos.etheriamagazine.com/2023/04/viaje-furgo-Maria-Laura.jpg
 categories: 
-  - articulos-por-categorizar
+  - hemeroteca
 destino: 
   - España
 authors: 

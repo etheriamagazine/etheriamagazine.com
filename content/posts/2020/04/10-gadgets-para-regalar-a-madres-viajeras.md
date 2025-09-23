@@ -3,7 +3,7 @@ title: "10 gadgets para regalar a amigas viajeras"
 date: 2020-04-23
 cover: https://fotos.etheriamagazine.com/2020/04/regalos-madre-viajera.jpg
 categories: 
-  - articulos-por-categorizar
+  - compras
 destino: 
   - Mundo
 authors: 

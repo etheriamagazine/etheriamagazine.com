@@ -3,7 +3,7 @@ title: "Copenhague, un viaje en el tiempo a través de su arquitectura"
 date: 2022-01-26
 cover: https://fotos.etheriamagazine.com/2022/01/SMK-museo-copenhague.jpg
 categories: 
-  - articulos-por-categorizar
+  - guias-de-destino
 destino: 
   - Europa
 authors: 
