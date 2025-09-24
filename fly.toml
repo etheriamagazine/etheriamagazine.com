@@ -4,7 +4,7 @@
 #
 
 app = "etheriamagazine-com"
-primary_region = "fra"
+primary_region = "cdg"
 
 [build]
 
