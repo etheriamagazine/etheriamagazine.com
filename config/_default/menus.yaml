@@ -1,0 +1,139 @@
+# main menu
+main:
+  - name: Viajar sola
+    identifier: sola
+    pageRef: categories/viajar-sola
+    weight: 1
+    params:
+      collapse: true
+  - name: España
+    pageRef: categories/viajar-sola/españa
+    parent: sola
+  - name: Europa
+    pageRef: categories/viajar-sola/europa
+    parent: sola
+  - name: Mundo
+    pageRef: categories/viajar-sola/mundo
+    parent: sola
+
+
+  - name: Viajar con amigas
+    identifier: amigas
+    pageRef: categories/viajar-con-amigas
+    weight: 2
+  - name: España
+    identifier: amigas_1
+    pageRef: categories/viajar-con-amigas/españa
+    parent: amigas
+  - name: Europa
+    identifier: amigas_2
+    pageRef: categories/viajar-con-amigas/europa
+    parent: amigas
+  - name: Mundo
+    identifier: amigas_3
+    pageRef: categories/viajar-con-amigas/mundo
+    parent: amigas
+
+
+  - name: Viajar en familia
+    identifier: familia
+    pageRef: categories/viajar-en-familia
+    weight: 3
+  - name: España
+    identifier: familia_1
+    pageRef: categories/viajar-en-familia/españa
+    parent: familia
+  - name: Europa
+    identifier: familia_2
+    pageRef: categories/viajar-en-familia/europa
+    parent: familia
+  - name: Mundo
+    identifier: familia_3
+    pageRef: categories/viajar-en-familia/mundo
+    parent: familia
+
+
+  - name: Viajar en pareja
+    identifier: pareja
+    pageRef: categories/viajar-en-pareja
+    weight: 4
+  - name: España
+    identifier: pareja_1
+    pageRef: categories/viajar-en-pareja/españa
+    parent: pareja
+  - name: Europa
+    identifier: pareja_2
+    pageRef: categories/viajar-en-pareja/europa
+    parent: pareja
+  - name: Mundo
+    identifier: pareja_3
+    pageRef: categories/viajar-en-pareja/mundo
+    parent: pareja
+
+
+  - name: Estilo de vida
+    identifier: estilo
+    pageRef: ""
+    weight: 5
+  - name: Cultura
+    pageRef: categories/cultura
+    parent: estilo
+  - name: Hoteles
+    pageRef: categories/hoteles
+    parent: estilo
+  - name: Gourmet
+    pageRef: categories/gourmet
+    parent: estilo
+  - name: Bienestar
+    pageRef: categories/bienestar
+    parent: estilo
+  - name: Compras
+    pageRef: categories/compras
+    parent: estilo
+  - name: Ocio
+    pageRef: categories/ocio
+    parent: estilo
+
+
+  - name: Organízate
+    identifier: organiza
+    pageRef: ""
+    weight: 6
+  - name: Qué llevar en la maleta
+    pageRef: categories/que-llevar-en-la-maleta
+    parent: organiza
+  - name: Guías de destino
+    pageRef: categories/guias-de-destino
+    parent: organiza
+  - name: Excursiones
+    pageRef: categories/excursiones
+    parent: organiza
+  - name: Sorteos
+    pageRef: categories/sorteos
+    parent: organiza
+
+
+  - name: Entre mujeres
+    identifier: mujeres
+    pageRef: ""
+    weight: 7
+  - name: Mujeres Top
+    pageRef: categories/mujeres-top
+    parent: mujeres
+  - name: Historias
+    pageRef: categories/historias
+    parent: mujeres
+  - name: Equipo Etheria
+    pageRef: pagina de equipo!!
+    parent: mujeres
+
+
+footer:
+  - name: Política de privacidad
+    identifier: footer-100
+    pageRef: pages/politica-de-privacidad
+    weight: 1
+  - name: Política de cookies
+    identifier: footer-200
+    pageRef: pages/politica-de-cookies
+    weight: 2
