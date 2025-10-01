@@ -9,6 +9,7 @@ export type SetListMemberRequest = {
     email_address: string;
     status_if_new: SubscriberStatus;
     status?: SubscriberStatus;
+    ip_signup?: string;
 };
 
 export type SetListMemberResponse = {

@@ -3,7 +3,7 @@ import type { GetListResponse, SetListMemberRequest, SetListMemberResponse } fro
 type Method = 'GET' | 'POST' | 'PUT';
 
 
-const create = (dc: string, api_key: string) => {
+const createMailchimpClient = (dc: string, api_key: string) => {
   const baseUrl = `https://${dc}.api.mailchimp.com/3.0`;
 
   async function sendRequest(path: string, method: Method, data: any) {
@@ -39,7 +39,7 @@ const create = (dc: string, api_key: string) => {
       }
       return await res.json();
     } catch (err) {
-      console.log(err);
+      // console.log(err);
       throw new NetworkError(
         `Could not establish a network connection to Mailchimp on endpoint '${baseUrl}'. Please check configuration or network.`,
         { cause: err }
@@ -72,7 +72,6 @@ const create = (dc: string, api_key: string) => {
 
       // https://mailchimp.com/developer/marketing/api/list-members/add-or-update-list-member/
       async setListMember(list_id: string, data: SetListMemberRequest) : Promise<SetListMemberResponse> {
-        // const subscriber_hash = await md5(data.email_address);
         const hasher = new Bun.CryptoHasher("md5");
         hasher.update(data.email_address);
         const subscriber_hash = hasher.digest("hex");
@@ -90,14 +89,4 @@ function encodeBase64(string: string) {
   return btoa(binString);
 }
 
-async function md5(string: string) {
-  const bytes = new TextEncoder().encode(string);
-  const hashBuffer = await crypto.subtle.digest('MD5', bytes);
-  const hashArray = Array.from(new Uint8Array(hashBuffer));
-  const hashHex = hashArray
-    .map((b) => b.toString(16).padStart(2, '0'))
-    .join('');
-  return hashHex;
-}
-
-export { create as createMailchimp };
+export { createMailchimpClient };

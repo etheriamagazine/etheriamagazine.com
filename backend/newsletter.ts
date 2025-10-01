@@ -1,69 +1,78 @@
-import { createMailchimp } from './mailchimp/mailchimp';
+import { createMailchimpClient } from './mailchimp/mailchimp';
 import { NewsletterFormSchema, parse } from './schemas';
 import { ValidationError } from './errors';
 import { readRequestData, errorResponse, success } from './http';
-// import { env, getRuntimeKey } from 'hono/adapter';
 
-// // https://developers.cloudflare.com/pages/how-to/refactor-a-worker-to-pages-functions/
-// export async function onRequestPost({ request, env }) {
-
-// }
-
-// newsletter.ts
 import { Hono } from 'hono';
 import { env } from 'hono/adapter';
+import { getConnInfo } from 'hono/bun';
 
 const app = new Hono();
 
-app.post('/', async (c) =>  {
-    try {
-        const input = parse(NewsletterFormSchema, await readRequestData(c.req));
-        let { MAILCHIMP_DC, MAILCHIMP_APIKEY, MAILCHIMP_DEFAULT_LIST_ID } =
-            env<{
-                MAILCHIMP_DC: string;
-                MAILCHIMP_APIKEY: string;
-                MAILCHIMP_DEFAULT_LIST_ID: string;
-            }>(c);
-            console.log({ MAILCHIMP_DC, MAILCHIMP_APIKEY, MAILCHIMP_DEFAULT_LIST_ID } );
+app.post('/', async (c) => {
+  try {
+    // read posted data
+    const input = parse(NewsletterFormSchema, await readRequestData(c.req));
 
-        const mailchimp = createMailchimp(MAILCHIMP_DC, MAILCHIMP_APIKEY);
+    // read config from env
+    const config = env<{
+      MAILCHIMP_DC: string;
+      MAILCHIMP_APIKEY: string;
+      MAILCHIMP_LIST_ID: string;
+    }>(c);
 
-        const list_id = MAILCHIMP_DEFAULT_LIST_ID;
-        const result = await mailchimp.lists.setListMember(list_id, {
-            email_address: input.email_address,
-            status: 'subscribed',
-            status_if_new: 'subscribed',
-        });
+    // create client
+    const mailchimp = createMailchimpClient(
+      config.MAILCHIMP_DC,
+      config.MAILCHIMP_APIKEY,
+    );
 
-        const { email_address, status, unique_email_id } = result;
-        const { name: list_name, subscribe_url_long } =
-            await mailchimp.lists.getList(list_id);
+    // get users remote ip
+    const {
+      remote: { address: remote_ip_address },
+    } = getConnInfo(c);
 
-        function getUnsubscribeUrl() {
-            return (
-                subscribe_url_long.replace('subscribe', 'unsubscribe') +
-                `&e=${unique_email_id}`
-            );
-        }
+    // try to subscribe
+    const { email_address, status, unique_email_id } =
+      await mailchimp.lists.setListMember(config.MAILCHIMP_LIST_ID, {
+        email_address: input.email_address,
+        status: 'subscribed',
+        status_if_new: 'subscribed',
+        ip_signup: remote_ip_address,
+      });
 
-        return success({
-            email_address,
-            status,
-            list_id,
-            list_name,
-            unsubscribe_url: getUnsubscribeUrl(),
-        });
-    } catch (err) {
-        console.log(err);
-        let error = err as Error;
+    // try to get unsubscribe url
+    const unsubscribe_url = await getUnsubscribeUrl(unique_email_id);
 
-        if (error instanceof SyntaxError || error instanceof ValidationError) {
-            return await errorResponse(error, { status: 400 });
-        }
+    return success({
+      email_address,
+      status,
+      unsubscribe_url,
+    });
 
-        return await errorResponse(error);
+    async function getUnsubscribeUrl(unique_email_id: string) {
+      // get the subscribe url
+      const { subscribe_url_long } = await mailchimp.lists.getList(
+        config.MAILCHIMP_LIST_ID,
+      );
+
+      // rewrite to make an unsubscribe url
+      return (
+        subscribe_url_long.replace('subscribe', 'unsubscribe') +
+        `&e=${unique_email_id}`
+      );
+    }
+  } catch (err) {
+    console.log(err);
+
+    let error = err as Error;
+
+    if (error instanceof SyntaxError || error instanceof ValidationError) {
+      return await errorResponse(error, { status: 400 });
     }
 
+    return await errorResponse(error);
+  }
 });
 
 export default app;

@@ -1,26 +1,11 @@
 # main menu
 main:
-  - name: Viajar sola
-    identifier: sola
-    pageRef: categories/viajar-sola
-    weight: 1
-    params:
-      collapse: true
-  - name: España
-    pageRef: categories/viajar-sola/españa
-    parent: sola
-  - name: Europa
-    pageRef: categories/viajar-sola/europa
-    parent: sola
-  - name: Mundo
-    pageRef: categories/viajar-sola/mundo
-    parent: sola
 
 
   - name: Viajar con amigas
     identifier: amigas
     pageRef: categories/viajar-con-amigas
-    weight: 2
+    weight: 1
   - name: España
     identifier: amigas_1
     pageRef: categories/viajar-con-amigas/españa
@@ -38,7 +23,7 @@ main:
   - name: Viajar en familia
     identifier: familia
     pageRef: categories/viajar-en-familia
-    weight: 3
+    weight: 2
   - name: España
     identifier: familia_1
     pageRef: categories/viajar-en-familia/españa
@@ -56,7 +41,7 @@ main:
   - name: Viajar en pareja
     identifier: pareja
     pageRef: categories/viajar-en-pareja
-    weight: 4
+    weight: 3
   - name: España
     identifier: pareja_1
     pageRef: categories/viajar-en-pareja/españa
@@ -69,6 +54,25 @@ main:
     identifier: pareja_3
     pageRef: categories/viajar-en-pareja/mundo
     parent: pareja
+
+
+  - name: Viajar sola
+    identifier: sola
+    pageRef: categories/viajar-sola
+    weight: 4
+    params:
+      collapse: true
+  - name: España
+    pageRef: categories/viajar-sola/españa
+    parent: sola
+  - name: Europa
+    pageRef: categories/viajar-sola/europa
+    parent: sola
+  - name: Mundo
+    pageRef: categories/viajar-sola/mundo
+    parent: sola
+
+
 
 
   - name: Estilo de vida
@@ -124,7 +128,7 @@ main:
     pageRef: categories/historias
     parent: mujeres
   - name: Equipo Etheria
-    pageRef: pagina de equipo!!
+    pageRef: equipo-editorial
     parent: mujeres
 
 

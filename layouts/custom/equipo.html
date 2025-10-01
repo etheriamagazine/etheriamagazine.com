@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <h1 class="text-red-500">{{ .Title }}</h1>
+
+
+  <div class="grid gap-4 grid-cols-1 md:grid-cols-3 grid-flow-row-dense">
+
+    <div class="rounded-2xl bg-primary-700 text-white prose prose:heading:text-white">
+     {{ .Content }}
+
+    </div>
+  {{ range (union .Params.directoras .Params.colaboradoras) }}
+
+    {{ $author := index site.Taxonomies.authors (lower .) }}
+
+    {{ with and (gt $author.Count 0) $author }}
+      {{ with .Page }}
+          {{ .Render "summary"}}
+      {{ end }}
+    {{  end }}
+  {{ end }}
+  </div>
+
+
+  <h3 class="text-4xl">Dirección</h3>
+
+  {{/* {{ partial "components/pagination.html" . }} */}}
+{{ end }}

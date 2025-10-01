@@ -7,6 +7,7 @@ public
 resources/_gen
 .hugo_build.lock
 hugo_stats.json
+.tailwindcss.dev.css
 
 # pagefind output
 static/pagefind

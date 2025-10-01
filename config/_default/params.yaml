@@ -4,15 +4,15 @@ gitinfo:
   contentRoot: content
 
 metadata:
-  description: 1ª revista de viajes española para mujeres que les apasiona viajar
-  titleFormat: "%s — %s"
   author: Etheria Magazine
-  twitter: etheriamagazine
+  titleFormat: "%s — Etheria Magazine"
+  description: 1ª revista de viajes española para mujeres que les apasiona viajar
+  twitterUsername: etheriamagazine
   image: logo-que-seguro-que-no-existe.svg
-  author_urls:
-    - https://www.facebook.com/etheriamagazine/
-    - https://twitter.com/etheriamagazine
+  authorUrls:
     - https://www.instagram.com/etheriamagazine/
+    - https://x.com/etheriamagazine
+    - https://www.facebook.com/etheriamagazine/
     - https://www.pinterest.es/etheriamagazine/
     - https://github.com/etheriamagazine
 
