@@ -1,5 +1,5 @@
 ---
-title: "Getxo responsive megabanner 2025"
+title: "Getxo megabanner 2025"
 date: 2025-04-01
 easyads:
   type: responsive
@@ -10,4 +10,5 @@ easyads:
 
   target: 
     - home_1
+
 ---
