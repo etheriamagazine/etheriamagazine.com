@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2025/05/balneario-la-albotea-la-rioja.j
 categories: 
   - viajar-con-amigas
   - bienestar
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/03/viaje-modena-lujo.jpg
 categories: 
   - gourmet
   - historias
-destino: 
-  - España
 authors: 
   - Pedro Grifol
 ---

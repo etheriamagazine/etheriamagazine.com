@@ -4,8 +4,8 @@ date: 2020-01-23
 cover: https://fotos.etheriamagazine.com/2020/01/consejos-maleta-viaje-jordania.jpg
 categories: 
   - que-llevar-en-la-maleta
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

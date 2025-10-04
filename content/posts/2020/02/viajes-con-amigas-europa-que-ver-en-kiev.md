@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/01/Kiev-san-miguel-de-las-cupulas-
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Elena Ortega
 ---

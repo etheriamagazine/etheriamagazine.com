@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/02/ushguli-georgia.jpg
 categories: 
   - viajar-sola
   - historias
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Firmas invitadas
 ---

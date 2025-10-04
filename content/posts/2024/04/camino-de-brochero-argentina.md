@@ -4,10 +4,8 @@ date: 2024-04-07
 cover: https://fotos.etheriamagazine.com/2024/03/camino-brochero.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
 tags: 
-  - camino-de-peregrinacion-argentino
+  - mundo
 authors: 
   - Cris Aizpeolea
 ---

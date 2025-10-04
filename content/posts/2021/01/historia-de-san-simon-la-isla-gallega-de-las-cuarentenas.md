@@ -4,8 +4,8 @@ date: 2021-01-04
 cover: https://fotos.etheriamagazine.com/2020/12/isla-pandemias-san-simon-jardines.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

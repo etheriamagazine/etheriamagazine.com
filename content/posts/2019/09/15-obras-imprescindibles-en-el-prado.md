@@ -4,8 +4,8 @@ date: 2019-09-24
 cover: https://fotos.etheriamagazine.com/2019/09/museo-del-prado-Triptico-del-jardin-de-las-delicias.jpg
 categories: 
   - cultura
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2019-09-04
 cover: https://fotos.etheriamagazine.com/2019/08/Son-Penya-piscina-aina-suite.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

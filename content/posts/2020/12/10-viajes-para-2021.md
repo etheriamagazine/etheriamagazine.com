@@ -4,8 +4,8 @@ date: 2020-12-31
 cover: https://fotos.etheriamagazine.com/2020/12/bogota-viajes-2021.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

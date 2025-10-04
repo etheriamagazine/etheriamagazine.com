@@ -6,8 +6,6 @@ categories:
   - inspiración
   - gourmet
   - ocio
-destino: 
-  - España
 authors: 
   - Vanesa Viñolo
 ---

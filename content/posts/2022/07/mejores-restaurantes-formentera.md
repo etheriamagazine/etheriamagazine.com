@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/07/Formentera-Fandango.jpg
 categories: 
   - viajar-sola
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Elisabeth G. Iborra
 ---

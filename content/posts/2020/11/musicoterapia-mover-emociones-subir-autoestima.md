@@ -4,8 +4,6 @@ date: 2020-11-11
 cover: https://fotos.etheriamagazine.com/2020/11/musicoterapia-ayuda-autoestima.jpg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

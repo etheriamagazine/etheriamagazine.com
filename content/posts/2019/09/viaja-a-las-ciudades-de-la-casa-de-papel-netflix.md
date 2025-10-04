@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/09/viajes-la-casa-de-papel.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

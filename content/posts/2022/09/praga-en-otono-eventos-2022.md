@@ -4,8 +4,8 @@ date: 2022-09-27
 cover: https://fotos.etheriamagazine.com/2022/09/designblok-praga.jpg
 categories: 
   - cultura
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

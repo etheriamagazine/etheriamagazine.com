@@ -4,8 +4,8 @@ date: 2024-07-03
 cover: https://fotos.etheriamagazine.com/2024/07/berna-calle.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Yolanda Cardo
 ---

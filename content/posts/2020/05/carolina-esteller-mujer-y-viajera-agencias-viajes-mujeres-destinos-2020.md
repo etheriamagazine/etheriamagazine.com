@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/05/carolina-estelle-mujer-y-viajer
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

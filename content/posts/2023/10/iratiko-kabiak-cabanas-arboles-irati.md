@@ -4,8 +4,8 @@ date: 2023-10-06
 cover: https://fotos.etheriamagazine.com/2023/10/cama-colgante-iratiko-kabiak.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

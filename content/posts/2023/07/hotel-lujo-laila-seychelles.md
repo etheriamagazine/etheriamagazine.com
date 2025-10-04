@@ -4,8 +4,8 @@ date: 2023-07-19
 cover: https://fotos.etheriamagazine.com/2023/06/laila-Seychelles-Senior-Suite-terraza.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

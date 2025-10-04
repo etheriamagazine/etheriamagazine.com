@@ -6,8 +6,8 @@ categories:
   - gourmet
   - historias
   - mujeres-top
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

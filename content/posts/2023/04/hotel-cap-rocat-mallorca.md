@@ -4,8 +4,8 @@ date: 2023-04-12
 cover: https://fotos.etheriamagazine.com/2023/04/cap-rocat-habitacion-centinela.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

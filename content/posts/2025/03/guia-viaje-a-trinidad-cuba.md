@@ -4,8 +4,8 @@ date: 2025-03-26
 cover: https://fotos.etheriamagazine.com/2025/03/trinidad-cuba-calle.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

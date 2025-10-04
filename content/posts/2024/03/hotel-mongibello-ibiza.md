@@ -4,8 +4,8 @@ date: 2024-03-27
 cover: https://fotos.etheriamagazine.com/2024/03/hotel-mongibello-recepcion.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

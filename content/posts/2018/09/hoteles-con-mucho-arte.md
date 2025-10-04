@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2018/09/Lobby-Gallery-hotel-pavilions-m
 categories: 
   - hoteles
   - cultura
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

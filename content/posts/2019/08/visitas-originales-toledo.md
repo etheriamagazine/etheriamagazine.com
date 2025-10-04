@@ -4,8 +4,8 @@ date: 2019-08-19
 cover: https://fotos.etheriamagazine.com/2019/08/que-hacer-toledo-noche.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

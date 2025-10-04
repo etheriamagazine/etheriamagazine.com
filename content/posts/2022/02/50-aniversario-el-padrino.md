@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2022/02/portada-El-Padrino-50-Anos.jpg
 categories: 
   - inspiración
   - gourmet
-destino: 
-  - España
 authors: 
   - Pedro Grifol
 ---

@@ -4,8 +4,6 @@ date: 2025-06-02
 cover: https://fotos.etheriamagazine.com/2025/05/Festival-jazz-vejer-2.jpeg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

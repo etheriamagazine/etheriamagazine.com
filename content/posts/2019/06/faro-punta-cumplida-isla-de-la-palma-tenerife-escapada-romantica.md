@@ -4,8 +4,8 @@ date: 2019-06-03
 cover: https://fotos.etheriamagazine.com/2019/05/Rusticae-faro-punta-cumplida.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

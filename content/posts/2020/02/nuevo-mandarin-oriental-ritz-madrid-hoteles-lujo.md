@@ -4,8 +4,8 @@ date: 2020-02-18
 cover: https://fotos.etheriamagazine.com/2020/02/Mandarin-Oriental-RitzPalm-Court.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

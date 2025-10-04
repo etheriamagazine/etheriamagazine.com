@@ -4,8 +4,8 @@ date: 2021-01-15
 cover: https://fotos.etheriamagazine.com/2021/01/visitas-hayedo-montejo-madrid.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

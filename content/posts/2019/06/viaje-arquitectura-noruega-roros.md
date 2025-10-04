@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/05/Roros-noruega-casas-trabajadore
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Firmas invitadas
 ---

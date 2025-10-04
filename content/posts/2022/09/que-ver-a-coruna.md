@@ -4,8 +4,8 @@ date: 2022-09-23
 cover: https://fotos.etheriamagazine.com/2022/09/ortigueira-banco.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

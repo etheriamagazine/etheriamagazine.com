@@ -4,8 +4,6 @@ date: 2020-11-25
 cover: https://fotos.etheriamagazine.com/2020/11/mujeres-alta-sensibilidad.jpg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

@@ -4,8 +4,6 @@ date: 2018-05-28
 cover: https://fotos.etheriamagazine.com/2018/05/5-1.jpg
 categories: 
   - inspiración
-destino: 
-  - Mundo
 authors: 
   - Eva Madruga
 ---

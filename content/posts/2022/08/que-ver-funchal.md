@@ -4,8 +4,8 @@ date: 2022-08-08
 cover: https://fotos.etheriamagazine.com/2022/08/velero-por-Funchal.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

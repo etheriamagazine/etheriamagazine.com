@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-Barruer
 categories: 
   - viajar-en-familia
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - españa
 authors: 
   - Firmas invitadas
 ---

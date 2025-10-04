@@ -4,8 +4,6 @@ date: 2023-03-08
 cover: https://fotos.etheriamagazine.com/2023/03/mujer-polaca-wislawa-szymborska.jpg
 categories: 
   - mujeres-top
-destino: 
-  - Europa
 authors: 
   - Manena Munar
 ---

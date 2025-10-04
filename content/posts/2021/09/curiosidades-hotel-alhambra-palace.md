@@ -4,8 +4,8 @@ date: 2021-09-02
 cover: https://fotos.etheriamagazine.com/2021/08/Alhambra-palace-panoramica.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

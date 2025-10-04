@@ -4,8 +4,8 @@ date: 2019-06-17
 cover: https://fotos.etheriamagazine.com/2019/06/Viaje-girona-medieval-e1559737808621.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

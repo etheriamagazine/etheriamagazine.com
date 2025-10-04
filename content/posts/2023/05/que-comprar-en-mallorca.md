@@ -4,8 +4,8 @@ date: 2023-05-19
 cover: https://fotos.etheriamagazine.com/2023/05/Mallorca-teixits-vicens.jpg
 categories: 
   - compras
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

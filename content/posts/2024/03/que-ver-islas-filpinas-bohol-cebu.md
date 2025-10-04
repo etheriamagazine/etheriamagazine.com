@@ -4,8 +4,8 @@ date: 2024-03-13
 cover: https://fotos.etheriamagazine.com/2024/03/tarsius-isla-bohol.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

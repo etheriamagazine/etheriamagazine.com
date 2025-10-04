@@ -4,8 +4,8 @@ date: 2019-11-27
 cover: https://fotos.etheriamagazine.com/2019/11/ruinas-butrinto-albania.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - europa
 authors: 
   - Cristina Fernández
 ---

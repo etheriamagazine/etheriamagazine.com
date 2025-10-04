@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/09/puente-otono-castillo-valdeolea
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

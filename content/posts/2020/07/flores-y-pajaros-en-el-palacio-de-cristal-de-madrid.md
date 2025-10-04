@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/07/flores-gigantes-el-retiro.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

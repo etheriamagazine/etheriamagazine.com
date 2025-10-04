@@ -4,8 +4,8 @@ date: 2019-10-09
 cover: https://fotos.etheriamagazine.com/2019/09/viaje-mujeres-moscu.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

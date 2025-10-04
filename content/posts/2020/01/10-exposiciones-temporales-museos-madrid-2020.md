@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/01/exposiciones-Madrid-Thyssen-ale
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,6 @@ date: 2018-10-15
 cover: https://fotos.etheriamagazine.com/2018/09/Alice-Fauveau-Women-Etheria-magazine.jpg
 categories: 
   - mujeres-top
-destino: 
-  - Mundo
 authors: 
   - Pepa G. Marín
 ---

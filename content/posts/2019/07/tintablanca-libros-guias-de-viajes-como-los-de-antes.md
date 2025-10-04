@@ -4,8 +4,6 @@ date: 2019-07-06
 cover: https://fotos.etheriamagazine.com/2019/07/libros-viaje-tinta-blanca-madrid-nueva-york-paris.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

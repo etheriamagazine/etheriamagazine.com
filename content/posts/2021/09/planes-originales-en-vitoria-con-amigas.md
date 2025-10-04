@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/09/plaza-virgen-blanca-vitoria.jpg
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

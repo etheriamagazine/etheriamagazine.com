@@ -4,17 +4,19 @@ date: 2019-05-15
 cover: https://fotos.etheriamagazine.com/2019/04/Viajar-sola-Paris.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Cristina R. Bareño
 ---
 
-**La mundialmente conocida como “Ciudad del Amor” también es el destino ideal para 
+La mundialmente conocida como “Ciudad del Amor” también es el destino ideal para 
 querernos mucho… a nosotras mismas. París es un buen destino para iniciarse en el arte 
-de viajar sola, aunque si lo haces acompañada esta guía te servirá igualmente.** 
+de viajar sola, aunque si lo haces acompañada esta guía te servirá igualmente. 
 
 ![viajar sola paris](https://fotos.etheriamagazine.com/2019/04/Viajar-sola-Paris.jpg "Viajar sola a París. © Artem/ Adobe Stock")
+
+Actualizado 09/2025 
 
 No voy a preguntar el motivo, la decisión está tomada y quieres realizar un viaje sola. 
 Quizá sea el primero al que te enfrentas sin compañía, quizá seas ya toda una experta en 
@@ -46,14 +48,13 @@ amigos.
 > No hay mejores 'things to see' que aquellas que podemos descubrir por nosotras mismas y 
 > que se convertirán en nuestros propios lugares secretos. 
 
-Hazte con un mapa y marca en boli qué ruta quieres realizar cada día, [aquí os dejo 
-algunas propuestas](https://es.parisinfo.com/descubrir-paris/paseos-por-paris) con las 
-que podréis ir abarcando los diferentes barrios. La opción de alquilar una bici y 
-realizar un recorrido a lo largo del Sena también es una idea encantadora. Como consejo 
-extra, os propongo olvidaros del móvil. Por supuesto que debéis llevarlo para cualquier 
-emergencia, pero prescinde de Google Maps, de consultar cualquier duda y de estar 
-pendiente de las noticias ajenas. Invertir en pequeños paseos en soledad, saboreando 
-cada momento y empapándoos del ambiente, enriquecerá muchísimo la experiencia. 
+Hazte con un mapa y marca en boli qué ruta quieres realizar cada día. La opción de 
+alquilar una bici y realizar un recorrido a lo largo del Sena también es una idea 
+encantadora. Como consejo extra, os propongo olvidaros del móvil. Por supuesto que 
+debéis llevarlo para cualquier emergencia, pero prescinde de Google Maps, de consultar 
+cualquier duda y de estar pendiente de las noticias ajenas. Invertir en pequeños paseos 
+en soledad, saboreando cada momento y empapándoos del ambiente, enriquecerá muchísimo la 
+experiencia. 
 
 ![Musée de l’Orangerie en París](https://fotos.etheriamagazine.com/2019/04/paris-museo-orangerie.jpg "Musée de l’Orangerie. © Daniel Thierry/ Paris Tourist Office")
 

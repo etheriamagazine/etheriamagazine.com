@@ -4,8 +4,8 @@ date: 2020-07-10
 cover: https://fotos.etheriamagazine.com/2020/07/Marsella-puerto-atardecer.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

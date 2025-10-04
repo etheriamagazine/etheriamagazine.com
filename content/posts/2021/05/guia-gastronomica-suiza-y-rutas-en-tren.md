@@ -4,8 +4,8 @@ date: 2021-05-10
 cover: https://fotos.etheriamagazine.com/2021/04/Suiza-en-tren-Graubuenden-.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

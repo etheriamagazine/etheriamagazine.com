@@ -4,8 +4,8 @@ date: 2022-07-18
 cover: https://fotos.etheriamagazine.com/2022/07/que-ver-merida-mexico-portada.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Cris Aizpeolea
 ---

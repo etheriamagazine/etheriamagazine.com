@@ -4,8 +4,8 @@ date: 2020-08-27
 cover: https://fotos.etheriamagazine.com/2020/08/salvaje-canalejas-madrid.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

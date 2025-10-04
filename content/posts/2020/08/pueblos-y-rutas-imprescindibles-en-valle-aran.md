@@ -4,8 +4,8 @@ date: 2020-08-31
 cover: https://fotos.etheriamagazine.com/2020/08/que-ver-valle-aran-pueblos.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - españa
 authors: 
   - Yolanda Cardo
 ---

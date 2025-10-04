@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/05/Costa-Rica-recogiendo-cafe-e155
 categories: 
   - viajar-en-familia
   - inspiración
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

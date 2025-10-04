@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/12/berlin-Lucia.jpeg
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Alicia Bea
 ---

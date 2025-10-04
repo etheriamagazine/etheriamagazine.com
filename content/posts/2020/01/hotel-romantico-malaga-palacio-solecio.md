@@ -4,8 +4,8 @@ date: 2020-01-20
 cover: https://fotos.etheriamagazine.com/2020/01/hotel-palacio-solecio-restaurante.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

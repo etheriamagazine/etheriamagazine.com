@@ -4,8 +4,6 @@ date: 2018-06-01
 cover: https://fotos.etheriamagazine.com/2018/06/Christina-Dodwell-2.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Manena Munar
 ---

@@ -4,8 +4,8 @@ date: 2024-03-20
 cover: https://fotos.etheriamagazine.com/2024/03/ibiza-ruta-senderista-caballo.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

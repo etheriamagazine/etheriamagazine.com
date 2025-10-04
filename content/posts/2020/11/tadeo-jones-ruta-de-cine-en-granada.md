@@ -4,8 +4,8 @@ date: 2020-11-22
 cover: https://fotos.etheriamagazine.com/2020/11/tadeo-jones-panoramica-alhambra.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Eva Madruga
 ---

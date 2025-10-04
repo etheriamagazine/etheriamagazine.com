@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/01/hotel-intercontinental-hilton-g
 categories: 
   - viajar-con-amigas
   - mujeres-top
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

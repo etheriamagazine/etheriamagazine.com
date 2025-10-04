@@ -4,8 +4,8 @@ date: 2020-11-12
 cover: https://fotos.etheriamagazine.com/2020/11/hotel-sierra-nevada-el-lodge-piscina.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

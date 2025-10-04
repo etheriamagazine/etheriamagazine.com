@@ -4,8 +4,8 @@ date: 2018-08-08
 cover: https://fotos.etheriamagazine.com/2018/07/Crozon-e1637928167611.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Kris Ubach
 ---

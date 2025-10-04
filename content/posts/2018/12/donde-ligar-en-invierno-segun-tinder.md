@@ -4,8 +4,8 @@ date: 2018-12-01
 cover: https://fotos.etheriamagazine.com/2018/11/ligar-estaciones-esqui.jpg
 categories: 
   - hemeroteca
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

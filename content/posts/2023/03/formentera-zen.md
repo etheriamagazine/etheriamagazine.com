@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/03/formentera-zen-yoga.jpg
 categories: 
   - viajar-sola
   - bienestar
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

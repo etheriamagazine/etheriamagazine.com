@@ -4,8 +4,8 @@ date: 2024-06-05
 cover: https://fotos.etheriamagazine.com/2024/06/hotel-ibis-budget-vitoria-fachada.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

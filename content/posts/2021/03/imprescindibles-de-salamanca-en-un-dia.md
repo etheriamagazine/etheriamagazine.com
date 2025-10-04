@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/05/2-Viajar-sola-a-Salamanca.jpg
 categories: 
   - viajar-sola
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

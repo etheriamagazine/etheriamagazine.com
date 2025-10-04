@@ -4,8 +4,8 @@ date: 2019-07-16
 cover: https://fotos.etheriamagazine.com/2019/06/viaje-matarranya-rio-uldemo-beceite.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Carmen Giró
 ---

@@ -4,8 +4,8 @@ date: 2025-08-03
 cover: https://fotos.etheriamagazine.com/2025/07/calles-evora.jpeg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

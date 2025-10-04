@@ -4,8 +4,8 @@ date: 2018-08-16
 cover: https://fotos.etheriamagazine.com/2018/08/pag-croacia-queso-paskisir-e1653808083197.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

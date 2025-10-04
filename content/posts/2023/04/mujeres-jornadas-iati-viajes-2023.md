@@ -4,8 +4,6 @@ date: 2023-04-20
 cover: https://fotos.etheriamagazine.com/2023/04/viaje-furgo-Maria-Laura.jpg
 categories: 
   - hemeroteca
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

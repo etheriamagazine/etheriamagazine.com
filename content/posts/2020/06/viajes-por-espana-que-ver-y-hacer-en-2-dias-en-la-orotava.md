@@ -4,8 +4,8 @@ date: 2020-06-20
 cover: https://fotos.etheriamagazine.com/2020/06/orotava-iglesia-concepcion.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Manena Munar
 ---

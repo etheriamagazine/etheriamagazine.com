@@ -4,8 +4,8 @@ date: 2024-03-29
 cover: https://fotos.etheriamagazine.com/2024/03/burgos-ruta-lobo.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2025/01/sania-japon-Santuario-Itsukushi
 categories: 
   - viajar-sola
   - mujeres-top
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

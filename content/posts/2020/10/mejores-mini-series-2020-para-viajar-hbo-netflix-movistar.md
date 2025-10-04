@@ -4,8 +4,6 @@ date: 2020-10-27
 cover: https://fotos.etheriamagazine.com/2020/10/series-viajar-el-mundo-en-llamas.jpg
 categories: 
   - inspiración
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

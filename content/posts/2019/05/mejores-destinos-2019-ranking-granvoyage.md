@@ -4,8 +4,8 @@ date: 2019-05-25
 cover: https://fotos.etheriamagazine.com/2019/05/viaje-japon-unplash.jpg
 categories: 
   - hemeroteca
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

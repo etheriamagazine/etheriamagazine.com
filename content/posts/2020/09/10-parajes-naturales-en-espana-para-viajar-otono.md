@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/04/leon-medulas-minas-oro.jpg
 categories: 
   - viajar-en-familia
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

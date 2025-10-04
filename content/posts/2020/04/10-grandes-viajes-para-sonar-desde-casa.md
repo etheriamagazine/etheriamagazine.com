@@ -4,8 +4,8 @@ date: 2020-04-16
 cover: https://fotos.etheriamagazine.com/2019/09/acacias-Deadvlei-7.jpg
 categories: 
   - inspiración
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

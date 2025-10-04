@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/02/viaje-roterdam-Cubehouses.jpg
 categories: 
   - viajar-con-amigas
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Yolanda Cardo
 ---

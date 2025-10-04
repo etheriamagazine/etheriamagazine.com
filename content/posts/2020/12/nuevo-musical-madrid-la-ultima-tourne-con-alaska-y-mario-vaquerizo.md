@@ -4,8 +4,6 @@ date: 2020-12-03
 cover: https://fotos.etheriamagazine.com/2020/11/musical-madrid-2020-la-ultima-tourne.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Pilar Ortega
 ---

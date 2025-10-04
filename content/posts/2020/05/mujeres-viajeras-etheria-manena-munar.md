@@ -4,8 +4,6 @@ date: 2020-05-05
 cover: https://fotos.etheriamagazine.com/2020/04/manena-munar-etheria-magazine-4.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -4,8 +4,8 @@ date: 2025-02-14
 cover: https://fotos.etheriamagazine.com/2025/02/positano-viaje-parejas.jpeg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

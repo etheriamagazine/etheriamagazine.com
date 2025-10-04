@@ -4,8 +4,6 @@ date: 2019-06-08
 cover: https://fotos.etheriamagazine.com/2019/06/PRIDE-BTM-5.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2023-08-16
 cover: https://fotos.etheriamagazine.com/2023/08/egipto-cairo-piramides-kefren-chicas.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

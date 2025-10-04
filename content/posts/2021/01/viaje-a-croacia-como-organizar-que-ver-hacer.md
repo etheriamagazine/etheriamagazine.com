@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/01/viaje-croacia-trogir.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

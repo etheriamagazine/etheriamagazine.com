@@ -4,8 +4,6 @@ date: 2019-10-29
 cover: https://fotos.etheriamagazine.com/2019/10/Riad-De-La-Belle-Epoque-Coco-Chanel.jpg
 categories: 
   - sorteos
-destino: 
-  - Mundo
 authors: 
   - Redacción Etheria
 ---

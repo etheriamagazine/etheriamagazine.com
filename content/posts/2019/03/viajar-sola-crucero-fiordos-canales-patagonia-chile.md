@@ -4,8 +4,8 @@ date: 2019-03-22
 cover: https://fotos.etheriamagazine.com/2019/03/crucero-patagonia-chile.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Elisabeth G. Iborra
 ---

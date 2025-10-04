@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/11/almeria-playa-escullos.jpg
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

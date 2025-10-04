@@ -4,8 +4,8 @@ date: 2024-08-02
 cover: https://fotos.etheriamagazine.com/2024/08/portada-praga.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

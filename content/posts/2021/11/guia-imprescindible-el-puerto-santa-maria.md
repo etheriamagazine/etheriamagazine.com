@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/10/Plaza-Espana-puerto-santa-maria
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Alfredo G. Reyes
 ---

@@ -4,8 +4,8 @@ date: 2022-06-16
 cover: https://fotos.etheriamagazine.com/2022/06/granada-la-alhambra.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

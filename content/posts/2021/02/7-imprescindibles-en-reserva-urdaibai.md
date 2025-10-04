@@ -4,8 +4,8 @@ date: 2021-02-18
 cover: https://fotos.etheriamagazine.com/2021/02/Urdaibai-Playa-Laga-Isla-Izaro.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

@@ -4,8 +4,6 @@ date: 2021-05-28
 cover: https://fotos.etheriamagazine.com/2021/05/costa-smeralda-costa-cruceros.jpg
 categories: 
   - hemeroteca
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

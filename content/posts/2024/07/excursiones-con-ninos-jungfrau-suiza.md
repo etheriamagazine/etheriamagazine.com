@@ -4,8 +4,8 @@ date: 2024-07-17
 cover: https://fotos.etheriamagazine.com/2024/07/Schynige-Platte-Faulhorn-First-ruta-ninos.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

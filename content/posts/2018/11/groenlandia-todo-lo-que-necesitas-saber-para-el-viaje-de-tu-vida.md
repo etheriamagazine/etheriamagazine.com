@@ -4,8 +4,8 @@ date: 2018-11-14
 cover: https://fotos.etheriamagazine.com/2018/11/Groenlandia-Narsaq-viajes-mujeres-bis-e1581153169860.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Cristina R. Bareño
 ---

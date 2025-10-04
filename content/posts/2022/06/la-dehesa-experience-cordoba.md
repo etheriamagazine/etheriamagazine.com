@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/06/dehesa-experience-glamping.jpg
 categories: 
   - viajar-en-familia
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

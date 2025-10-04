@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/10/circuito-de-contrastes-monaster
 categories: 
   - hoteles
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

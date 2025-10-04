@@ -4,8 +4,8 @@ date: 2019-01-17
 cover: https://fotos.etheriamagazine.com/2019/01/viaje-camboya-mujeres-Apsaras-de-Banteay-Srei-e1673862978728.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Pedro Grifol
 ---

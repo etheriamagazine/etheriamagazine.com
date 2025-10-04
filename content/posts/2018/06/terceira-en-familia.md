@@ -4,8 +4,8 @@ date: 2018-06-20
 cover: https://fotos.etheriamagazine.com/2018/05/Terceira-Senderismo-BAIAS-DA-AGUALVA-3.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

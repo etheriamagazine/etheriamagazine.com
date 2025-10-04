@@ -4,8 +4,6 @@ date: 2019-10-14
 cover: https://fotos.etheriamagazine.com/2019/10/valladolid-teatro-calderon-seminci.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
 authors: 
   - Miriam González
 ---

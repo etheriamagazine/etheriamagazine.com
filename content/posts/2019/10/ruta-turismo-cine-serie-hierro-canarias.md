@@ -4,8 +4,8 @@ date: 2019-10-21
 cover: https://fotos.etheriamagazine.com/2019/10/serie-hierro.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

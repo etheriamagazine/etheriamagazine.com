@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/11/viaje-Leiden-terrazas.jpg
 categories: 
   - viajar-con-amigas
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

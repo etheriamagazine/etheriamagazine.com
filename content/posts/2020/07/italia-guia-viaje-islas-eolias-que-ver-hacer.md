@@ -4,8 +4,8 @@ date: 2020-07-31
 cover: https://fotos.etheriamagazine.com/2020/07/islas-eolias-Strombolicchio.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Juan Carlos y Mar
 ---

@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2018/08/viaje-los-angeles-Paseo-de-la-F
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pedro Grifol
 ---

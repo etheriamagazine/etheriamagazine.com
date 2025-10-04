@@ -4,8 +4,8 @@ date: 2022-12-09
 cover: https://fotos.etheriamagazine.com/2022/12/Anantara-budapest-fachada.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2022-03-16
 cover: https://fotos.etheriamagazine.com/2022/03/Can-Alberti-azotea.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

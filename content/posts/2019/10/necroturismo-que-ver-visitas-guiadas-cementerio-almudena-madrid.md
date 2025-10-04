@@ -4,8 +4,8 @@ date: 2019-10-30
 cover: https://fotos.etheriamagazine.com/2019/10/cementerio-almudena-tetas-desnudo.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

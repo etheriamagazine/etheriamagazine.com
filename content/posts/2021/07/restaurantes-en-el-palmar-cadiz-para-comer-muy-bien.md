@@ -4,8 +4,8 @@ date: 2021-07-26
 cover: https://fotos.etheriamagazine.com/2021/07/el-palmar-nacarum-atardecer-1.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

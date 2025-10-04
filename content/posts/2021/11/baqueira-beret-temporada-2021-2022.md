@@ -4,8 +4,8 @@ date: 2021-11-24
 cover: https://fotos.etheriamagazine.com/2021/11/Baqueira-Beret-esquiadores.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

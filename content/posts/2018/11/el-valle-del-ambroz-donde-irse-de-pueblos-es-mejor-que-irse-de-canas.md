@@ -4,8 +4,8 @@ date: 2018-11-16
 cover: https://fotos.etheriamagazine.com/2018/11/viaje-con-amigas-valle-ambroz-senderismo.jpg
 categories: 
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

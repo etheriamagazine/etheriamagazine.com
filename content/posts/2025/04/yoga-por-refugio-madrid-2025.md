@@ -4,8 +4,6 @@ date: 2025-04-20
 cover: https://fotos.etheriamagazine.com/2025/04/YOGA-SOLIDARIO.jpg
 categories: 
   - hemeroteca
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2020-12-17
 cover: https://fotos.etheriamagazine.com/2020/12/viajar-sola-azores.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2023-07-21
 cover: https://fotos.etheriamagazine.com/2023/07/playa-Curracloe-irlanda.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

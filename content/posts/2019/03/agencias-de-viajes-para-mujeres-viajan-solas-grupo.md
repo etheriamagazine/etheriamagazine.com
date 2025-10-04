@@ -4,8 +4,6 @@ date: 2019-03-08
 cover: https://fotos.etheriamagazine.com/2019/03/WOM-agencia-mujeres.jpg
 categories: 
   - historias
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

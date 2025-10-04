@@ -4,8 +4,8 @@ date: 2019-11-01
 cover: https://fotos.etheriamagazine.com/2019/10/peru-mercados-cuzco.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Ana María Pareja
 ---

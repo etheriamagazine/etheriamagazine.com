@@ -4,8 +4,6 @@ date: 2018-09-17
 cover: https://fotos.etheriamagazine.com/2018/09/Rosa-Maria-calaf-Mongolia.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Eva Madruga
 ---

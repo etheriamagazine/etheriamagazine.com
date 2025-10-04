@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/04/Sara-montiel-campo-criptana.jpg
 categories: 
   - viajar-con-amigas
   - historias
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

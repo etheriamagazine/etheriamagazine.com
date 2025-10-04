@@ -4,8 +4,8 @@ date: 2021-11-23
 cover: https://fotos.etheriamagazine.com/2021/11/ronda-Arco-de-Felipe-V.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Yolanda Cardo
 ---

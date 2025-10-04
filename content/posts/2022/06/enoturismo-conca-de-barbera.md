@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/05/Mas-de-la-pansa-enologa.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Elisabeth G. Iborra
 ---

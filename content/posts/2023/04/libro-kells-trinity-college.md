@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/04/biblioteca-antigua-trinity-coll
 categories: 
   - viajar-con-amigas
   - cultura
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

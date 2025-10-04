@@ -4,8 +4,6 @@ date: 2020-06-09
 cover: https://fotos.etheriamagazine.com/2020/06/grupo-jordania-tacones-viajeros.jpg
 categories: 
   - historias
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

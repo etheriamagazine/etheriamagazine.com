@@ -4,8 +4,8 @@ date: 2023-10-13
 cover: https://fotos.etheriamagazine.com/2023/10/menorca-barcos-calas-macarella-macarelleta.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

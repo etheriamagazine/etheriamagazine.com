@@ -4,8 +4,6 @@ date: 2019-03-18
 cover: https://fotos.etheriamagazine.com/2019/03/marisa-viajes-mundo-amigo.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

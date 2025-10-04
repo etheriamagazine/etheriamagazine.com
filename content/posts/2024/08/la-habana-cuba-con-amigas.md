@@ -4,8 +4,8 @@ date: 2024-08-30
 cover: https://fotos.etheriamagazine.com/2024/08/la-habana-coches-historicos.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

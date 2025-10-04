@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/01/comer-valladolid-Jero.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/06/Bangkok-crucero-rio-chao-praya.
 categories: 
   - viajar-en-pareja
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

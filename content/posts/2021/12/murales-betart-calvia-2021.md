@@ -4,8 +4,8 @@ date: 2021-12-04
 cover: https://fotos.etheriamagazine.com/2021/12/Joan-Cabrer-1.jpg
 categories: 
   - hemeroteca
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

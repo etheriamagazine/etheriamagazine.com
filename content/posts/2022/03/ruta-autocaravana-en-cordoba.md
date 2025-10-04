@@ -4,8 +4,8 @@ date: 2022-03-23
 cover: https://fotos.etheriamagazine.com/2022/03/dona-mencia-area-caravanas.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

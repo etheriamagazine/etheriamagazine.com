@@ -4,8 +4,8 @@ date: 2018-10-24
 cover: https://fotos.etheriamagazine.com/2018/10/viaje-familia-barcelona-golondrinas.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Yvonne Solé
 ---

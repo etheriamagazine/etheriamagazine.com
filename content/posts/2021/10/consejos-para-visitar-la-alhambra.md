@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/10/la-alhambra-patio-de-los-arraya
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

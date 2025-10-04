@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2023/08/guias-viaje-playa.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

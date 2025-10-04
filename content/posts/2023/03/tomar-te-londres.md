@@ -4,8 +4,8 @@ date: 2023-03-15
 cover: https://fotos.etheriamagazine.com/2023/03/peter-pan-tomar-te-londres.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,6 @@ date: 2022-11-14
 cover: https://fotos.etheriamagazine.com/2022/11/viaje-maldivas.jpg
 categories: 
   - compras
-destino: 
-  - Europa
 authors: 
   - Maria Miret
 ---

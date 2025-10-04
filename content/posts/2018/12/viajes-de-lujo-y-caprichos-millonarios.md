@@ -4,8 +4,6 @@ date: 2018-12-22
 cover: https://fotos.etheriamagazine.com/2018/12/polinesia-etheria-magazine-e1577003544324.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

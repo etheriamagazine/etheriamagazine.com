@@ -4,8 +4,6 @@ date: 2020-11-04
 cover: https://fotos.etheriamagazine.com/2020/10/tristeza-depresion-mujres.jpg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

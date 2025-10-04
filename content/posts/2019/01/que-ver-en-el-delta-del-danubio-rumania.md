@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/01/Delta-del-danubio-etheria.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Juan Carlos y Mar
 ---

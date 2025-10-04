@@ -4,8 +4,8 @@ date: 2024-03-04
 cover: https://fotos.etheriamagazine.com/2024/02/polonia-semana-santa-domingo-de-ramos-ninas.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

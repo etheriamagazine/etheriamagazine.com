@@ -4,8 +4,8 @@ date: 2018-05-17
 cover: https://fotos.etheriamagazine.com/2018/05/Taberna-Arallo-2.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Vanesa Viñolo
 ---

@@ -4,8 +4,8 @@ date: 2022-05-12
 cover: https://fotos.etheriamagazine.com/2022/05/vistas-hotel-the-yeatman.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/02/Objetivo-Marte-montana-rusa.jpg
 categories: 
   - viajar-en-familia
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

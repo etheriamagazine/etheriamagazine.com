@@ -4,8 +4,8 @@ date: 2024-04-08
 cover: https://fotos.etheriamagazine.com/2024/04/nueva-york-harlem-casas.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

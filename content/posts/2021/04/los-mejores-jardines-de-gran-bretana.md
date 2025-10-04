@@ -4,8 +4,8 @@ date: 2021-04-22
 cover: https://fotos.etheriamagazine.com/2021/04/RHS-Wisley-surrey.jpg
 categories: 
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

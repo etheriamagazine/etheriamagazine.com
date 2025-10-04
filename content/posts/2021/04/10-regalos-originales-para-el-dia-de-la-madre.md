@@ -4,8 +4,6 @@ date: 2021-04-23
 cover: https://fotos.etheriamagazine.com/2021/04/Tartaleta-rosa.jpg
 categories: 
   - compras
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

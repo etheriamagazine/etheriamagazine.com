@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/07/playas-mundo-kauai-hawaii.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

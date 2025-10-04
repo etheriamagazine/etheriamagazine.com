@@ -4,8 +4,8 @@ date: 2020-09-14
 cover: https://fotos.etheriamagazine.com/2020/08/portada-escritoras-siglo-xx.jpg
 categories: 
   - historias
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

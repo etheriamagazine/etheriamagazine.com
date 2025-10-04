@@ -4,8 +4,6 @@ date: 2018-06-11
 cover: https://fotos.etheriamagazine.com/2018/06/Dada-ruso-Museo-Reina-Sofia-VARVARA-STEPANOVA.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Pilar Ortega
 ---

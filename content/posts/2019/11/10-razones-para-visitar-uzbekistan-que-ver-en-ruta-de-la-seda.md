@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/11/viaje-mujeres-uzbekistan-bukhar
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Ana Vara y David Santiago
 ---

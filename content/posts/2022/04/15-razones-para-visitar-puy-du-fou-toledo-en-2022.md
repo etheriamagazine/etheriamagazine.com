@@ -4,8 +4,8 @@ date: 2022-04-06
 cover: https://fotos.etheriamagazine.com/2022/04/Puy-du-Fou-Sueno-de-Toledo.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

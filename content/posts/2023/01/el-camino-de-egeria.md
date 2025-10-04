@@ -4,8 +4,8 @@ date: 2023-01-04
 cover: https://fotos.etheriamagazine.com/2023/01/camino-egeria-jordania.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Firmas invitadas
 ---

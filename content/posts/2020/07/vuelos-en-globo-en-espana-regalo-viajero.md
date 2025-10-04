@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/07/volar-globo-espana.jpeg
 categories: 
   - viajar-con-amigas
   - compras
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

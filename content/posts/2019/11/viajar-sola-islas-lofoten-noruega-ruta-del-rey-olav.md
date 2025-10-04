@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/11/viaje-mujeres-lofoten-Henninsva
 categories: 
   - viajar-sola
   - inspiración
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Marina Paul
 ---

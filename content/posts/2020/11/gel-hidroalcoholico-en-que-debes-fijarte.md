@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/11/uso-gel-hidroalcoholico.jpg
 categories: 
   - bienestar
   - que-llevar-en-la-maleta
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

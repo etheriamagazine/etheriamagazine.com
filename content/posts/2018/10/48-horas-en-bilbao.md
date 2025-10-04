@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/10/viaje-bilbao-puente.jpg
 categories: 
   - viajar-con-amigas
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

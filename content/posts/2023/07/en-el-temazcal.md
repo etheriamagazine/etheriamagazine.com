@@ -4,8 +4,8 @@ date: 2023-07-10
 cover: https://fotos.etheriamagazine.com/2023/07/cenote-mexico-acuarela.jpg
 categories: 
   - historias
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Rafael de Rojas
 ---

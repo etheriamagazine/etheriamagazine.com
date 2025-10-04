@@ -4,8 +4,8 @@ date: 2023-12-04
 cover: https://fotos.etheriamagazine.com/2023/12/tokio-Valle-Akigawa.jpg
 categories: 
   - gourmet
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

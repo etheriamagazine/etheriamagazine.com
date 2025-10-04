@@ -4,8 +4,6 @@ date: 2021-02-17
 cover: https://fotos.etheriamagazine.com/2021/02/ayuno-mujer.jpg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

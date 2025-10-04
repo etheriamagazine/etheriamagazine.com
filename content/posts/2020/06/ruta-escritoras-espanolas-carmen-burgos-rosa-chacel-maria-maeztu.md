@@ -4,8 +4,8 @@ date: 2020-06-26
 cover: https://fotos.etheriamagazine.com/2020/06/2-cubierta-la-mujer-moderna.jpg
 categories: 
   - historias
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

@@ -4,8 +4,8 @@ date: 2022-10-05
 cover: https://fotos.etheriamagazine.com/2022/10/Museo-del-petroleo-burgos.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

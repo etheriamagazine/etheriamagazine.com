@@ -4,8 +4,8 @@ date: 2022-11-11
 cover: https://fotos.etheriamagazine.com/2022/11/nochevieja-brindis.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

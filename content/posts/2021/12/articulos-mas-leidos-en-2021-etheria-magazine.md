@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/12/cala-conil-frailecillo.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

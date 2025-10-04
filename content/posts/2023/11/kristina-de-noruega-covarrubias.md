@@ -4,8 +4,8 @@ date: 2023-11-20
 cover: https://fotos.etheriamagazine.com/2023/11/calle-covarrubia.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

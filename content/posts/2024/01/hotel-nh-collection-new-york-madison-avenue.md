@@ -4,8 +4,8 @@ date: 2024-01-22
 cover: https://fotos.etheriamagazine.com/2024/01/NH-Collection-New-York-Madison-Vistas.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

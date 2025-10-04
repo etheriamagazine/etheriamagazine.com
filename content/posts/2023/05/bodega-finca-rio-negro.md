@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/05/bodega-rio-negro-olivo.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

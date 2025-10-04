@@ -4,8 +4,8 @@ date: 2021-03-12
 cover: https://fotos.etheriamagazine.com/2021/03/viajes-mujeres-suiza.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

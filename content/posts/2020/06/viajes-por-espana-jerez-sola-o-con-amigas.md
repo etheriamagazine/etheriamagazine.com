@@ -4,8 +4,8 @@ date: 2020-06-10
 cover: https://fotos.etheriamagazine.com/2020/06/ruta-vino-jerez.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Rosa Marqués
 ---

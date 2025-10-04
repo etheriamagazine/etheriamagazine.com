@@ -4,8 +4,8 @@ date: 2024-03-06
 cover: https://fotos.etheriamagazine.com/2024/03/NH-Collection-Dubai-The_Palm-pisicna-.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

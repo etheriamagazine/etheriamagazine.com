@@ -4,8 +4,8 @@ date: 2024-11-11
 cover: https://fotos.etheriamagazine.com/2024/11/extremadura-valle-ambroz-paraguas.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

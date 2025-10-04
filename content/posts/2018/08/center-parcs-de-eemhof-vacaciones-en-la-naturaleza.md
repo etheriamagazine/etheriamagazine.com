@@ -4,8 +4,8 @@ date: 2018-08-11
 cover: https://fotos.etheriamagazine.com/2018/07/Center-Parcs-Eemhof-cabana.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

@@ -4,8 +4,6 @@ date: 2024-12-25
 cover: https://fotos.etheriamagazine.com/2024/12/corazon-galleta-jengibre-1-e1735119198148.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

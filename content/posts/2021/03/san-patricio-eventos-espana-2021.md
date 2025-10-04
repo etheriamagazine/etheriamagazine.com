@@ -4,8 +4,6 @@ date: 2021-03-17
 cover: https://fotos.etheriamagazine.com/2021/03/St-Patricks-Day-irlanda.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

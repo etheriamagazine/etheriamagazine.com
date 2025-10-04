@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/10/belfast-ruta-grafitis.jpg
 categories: 
   - viajar-con-amigas
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Rafael de Rojas
 ---

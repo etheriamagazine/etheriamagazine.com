@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2018/06/El-Senor-Martin-entrada.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
 authors: 
   - Vanesa Viñolo
 ---

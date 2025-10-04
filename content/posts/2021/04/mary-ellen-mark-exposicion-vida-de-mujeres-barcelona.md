@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/04/Mary-Ellen-Mark-Amanda-y-su-pri
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

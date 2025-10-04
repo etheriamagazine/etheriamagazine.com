@@ -4,8 +4,8 @@ date: 2023-04-19
 cover: https://fotos.etheriamagazine.com/2023/04/Hato-Garabato-zamora.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

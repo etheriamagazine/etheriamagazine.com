@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/05/hondalea-faro-isla-santa-clara-
 categories: 
   - excursiones
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

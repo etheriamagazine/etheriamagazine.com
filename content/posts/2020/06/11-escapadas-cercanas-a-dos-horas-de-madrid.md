@@ -6,8 +6,8 @@ categories:
   - viajar-sola
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

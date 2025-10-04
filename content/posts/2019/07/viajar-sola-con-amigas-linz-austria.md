@@ -4,8 +4,8 @@ date: 2019-07-26
 cover: https://fotos.etheriamagazine.com/2019/07/que-ver-linz-austria-mujer.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

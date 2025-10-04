@@ -4,8 +4,8 @@ date: 2023-10-16
 cover: https://fotos.etheriamagazine.com/2023/10/vistas-gallipienzo.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/09/Leon-calle-ancha.jpg
 categories: 
   - viajar-sola
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Eva Madruga
 ---

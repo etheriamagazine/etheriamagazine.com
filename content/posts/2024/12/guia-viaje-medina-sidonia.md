@@ -4,8 +4,8 @@ date: 2024-12-22
 cover: https://fotos.etheriamagazine.com/2024/12/medina-sidonia-castillo.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

@@ -4,8 +4,8 @@ date: 2023-04-26
 cover: https://fotos.etheriamagazine.com/2023/04/crucero-nilo-asuan-faluca.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

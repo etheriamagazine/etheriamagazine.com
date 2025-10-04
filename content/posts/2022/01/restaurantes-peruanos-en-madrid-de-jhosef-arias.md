@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/01/Platos-Piscomar-Bravazo.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

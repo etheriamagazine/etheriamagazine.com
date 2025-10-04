@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/02/cena-romantica-dani-garcia.jpg
 categories: 
   - viajar-en-pareja
   - gourmet
-destino: 
-  - Mundo
 authors: 
   - Vanesa Viñolo
 ---

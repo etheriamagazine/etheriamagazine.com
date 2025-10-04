@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/04/Ruta-lechazo-asado.jpg
 categories: 
   - gourmet
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Vanesa Viñolo
 ---

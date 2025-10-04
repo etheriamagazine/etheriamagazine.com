@@ -4,8 +4,6 @@ date: 2019-06-24
 cover: https://fotos.etheriamagazine.com/2019/06/Rapa-das-Bestas-galicia.jpg
 categories: 
   - excursiones
-destino: 
-  - España
 authors: 
   - Juan Carlos y Mar
 ---

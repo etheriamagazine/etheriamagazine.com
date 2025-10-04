@@ -4,8 +4,8 @@ date: 2021-10-12
 cover: https://fotos.etheriamagazine.com/2021/10/Villarluengo-ruta-teruel.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

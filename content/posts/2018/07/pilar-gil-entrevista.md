@@ -4,8 +4,6 @@ date: 2018-07-02
 cover: https://fotos.etheriamagazine.com/2018/07/entrevista-pilar-gil-oporto.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Susana García
 ---

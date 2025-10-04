@@ -4,8 +4,8 @@ date: 2023-05-22
 cover: https://fotos.etheriamagazine.com/2023/05/nuevo-vallarta-puerto.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Manena Munar
 ---

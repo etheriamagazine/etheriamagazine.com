@@ -4,8 +4,8 @@ date: 2022-04-29
 cover: https://fotos.etheriamagazine.com/2022/04/palacio-bailio-Suite-Al-Andalus.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

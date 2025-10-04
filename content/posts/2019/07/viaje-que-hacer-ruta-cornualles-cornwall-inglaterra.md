@@ -4,8 +4,8 @@ date: 2019-07-10
 cover: https://fotos.etheriamagazine.com/2019/07/viaje-cornwall-Playa-Porthminster.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Kris Ubach
 ---

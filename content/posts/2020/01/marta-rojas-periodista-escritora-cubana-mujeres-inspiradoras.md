@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/01/cuba-marta-rojas-libro.jpg
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Manena Munar
 ---

@@ -4,8 +4,8 @@ date: 2020-10-06
 cover: https://fotos.etheriamagazine.com/2020/10/Hotel-Santa-Catalina-piscina-atardecer.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

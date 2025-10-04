@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2022/05/superbarroco-ascoli-piceno.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - Europa
 authors: 
   - Redacción Etheria
 ---

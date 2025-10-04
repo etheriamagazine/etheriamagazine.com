@@ -4,8 +4,8 @@ date: 2019-12-17
 cover: https://fotos.etheriamagazine.com/2019/12/vinotecas-navidad.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Vanesa Viñolo
 ---

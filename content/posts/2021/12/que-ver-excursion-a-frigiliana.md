@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/12/frigiliana-barrio-alto.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

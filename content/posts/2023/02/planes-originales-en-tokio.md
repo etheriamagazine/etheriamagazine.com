@@ -4,8 +4,8 @@ date: 2023-02-13
 cover: https://fotos.etheriamagazine.com/2023/02/tokio-friki.jpg
 categories: 
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

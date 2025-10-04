@@ -4,8 +4,8 @@ date: 2021-11-11
 cover: https://fotos.etheriamagazine.com/2021/11/Iberostar-fuerteventura-piscina.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

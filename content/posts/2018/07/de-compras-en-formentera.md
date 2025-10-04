@@ -4,8 +4,8 @@ date: 2018-07-06
 cover: https://fotos.etheriamagazine.com/2018/07/compras-formentera-mercadillo-mola-4-e1669654042454.jpeg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Nuria Cortés
 ---

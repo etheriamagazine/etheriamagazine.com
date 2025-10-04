@@ -4,8 +4,8 @@ date: 2025-05-27
 cover: https://fotos.etheriamagazine.com/2025/05/delfos-templo-apolo-columnas.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

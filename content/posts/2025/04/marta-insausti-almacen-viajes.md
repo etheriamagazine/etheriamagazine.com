@@ -4,8 +4,6 @@ date: 2025-04-03
 cover: https://fotos.etheriamagazine.com/2025/03/Marta-insausti-Pakistan.jpeg
 categories: 
   - historias
-destino: 
-  - España
 authors: 
   - Firmas invitadas
 ---

@@ -4,8 +4,8 @@ date: 2021-11-16
 cover: https://fotos.etheriamagazine.com/2021/11/hotel-palace-noche-madrid.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

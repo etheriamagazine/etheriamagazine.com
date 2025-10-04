@@ -4,8 +4,8 @@ date: 2020-01-24
 cover: https://fotos.etheriamagazine.com/2020/01/Noruega-Trondheim-Nidelva-portada.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Marina Paul
 ---

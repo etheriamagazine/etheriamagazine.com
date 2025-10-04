@@ -6,8 +6,8 @@ categories:
   - viajar-con-amigas
   - inspiración
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Ana Vara y David Santiago
 ---

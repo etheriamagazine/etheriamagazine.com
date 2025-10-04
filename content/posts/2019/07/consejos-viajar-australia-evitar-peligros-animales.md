@@ -6,8 +6,8 @@ categories:
   - historias
   - inspiración
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Elisabeth G. Iborra
 ---

@@ -4,8 +4,6 @@ date: 2018-08-06
 cover: https://fotos.etheriamagazine.com/2018/07/Eugenia-Fierros-mujer-etheria-playa.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

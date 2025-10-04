@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/03/camino-oculto-pais-vasco.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/10/Miradores-de-Lisboa-e1566028365
 categories: 
   - viajar-con-amigas
   - inspiración
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Kelu Robles
 ---

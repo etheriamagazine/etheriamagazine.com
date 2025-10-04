@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/03/voto-femenino-suiza-el-orden-di
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - Europa
 authors: 
   - Carmen Pineda
 ---

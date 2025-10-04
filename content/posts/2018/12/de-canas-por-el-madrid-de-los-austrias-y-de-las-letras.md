@@ -6,8 +6,8 @@ categories:
   - inspiración
   - gourmet
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

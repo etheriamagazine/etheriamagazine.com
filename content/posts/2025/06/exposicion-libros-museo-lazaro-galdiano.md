@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2025/06/exposicion-lazaro-galdiano-mini
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

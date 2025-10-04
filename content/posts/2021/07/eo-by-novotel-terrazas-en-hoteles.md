@@ -4,8 +4,6 @@ date: 2021-07-27
 cover: https://fotos.etheriamagazine.com/2021/07/Terraza_Novotel-ibis-Styles-Madrid-City-Las-Ventas.jpg
 categories: 
   - hoteles
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

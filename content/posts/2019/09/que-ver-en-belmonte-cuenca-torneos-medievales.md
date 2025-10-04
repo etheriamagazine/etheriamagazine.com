@@ -4,8 +4,8 @@ date: 2019-09-09
 cover: https://fotos.etheriamagazine.com/2019/08/viaje-etheria-castillo-de-Belmonte-combate-medieval.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

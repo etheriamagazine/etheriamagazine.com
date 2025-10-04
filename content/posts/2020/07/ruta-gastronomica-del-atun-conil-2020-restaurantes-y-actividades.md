@@ -4,8 +4,6 @@ date: 2020-07-10
 cover: https://fotos.etheriamagazine.com/2018/06/casa-francisco-conil-ruta-del-atun-e1649843723568.jpg
 categories: 
   - gourmet
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -4,8 +4,8 @@ date: 2024-12-08
 cover: https://fotos.etheriamagazine.com/2024/12/portada-flamenco.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

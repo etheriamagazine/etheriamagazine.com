@@ -4,8 +4,8 @@ date: 2019-12-27
 cover: https://fotos.etheriamagazine.com/2019/12/viaje-china-senderismo-colinas-guangxi.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Ana Vara y David Santiago
 ---

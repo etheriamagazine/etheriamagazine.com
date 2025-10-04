@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/07/vernazza-cinque-terre.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

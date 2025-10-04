@@ -4,8 +4,6 @@ date: 2024-01-25
 cover: https://fotos.etheriamagazine.com/2024/01/cocina-georgiana-madrid.jpg
 categories: 
   - gourmet
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

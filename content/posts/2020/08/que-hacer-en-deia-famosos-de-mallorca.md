@@ -4,8 +4,8 @@ date: 2020-08-28
 cover: https://fotos.etheriamagazine.com/2020/08/que-ver-deia-mallorca.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

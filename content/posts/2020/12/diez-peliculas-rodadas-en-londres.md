@@ -4,8 +4,8 @@ date: 2020-12-11
 cover: https://fotos.etheriamagazine.com/2020/12/Una-pasteleria-en-Notting-Hill-londres.jpg
 categories: 
   - inspiración
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Eva Madruga
 ---

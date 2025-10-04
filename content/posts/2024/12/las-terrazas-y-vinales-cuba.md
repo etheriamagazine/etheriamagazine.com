@@ -4,8 +4,8 @@ date: 2024-12-06
 cover: https://fotos.etheriamagazine.com/2024/12/cuba-las-terrazas-jardines.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

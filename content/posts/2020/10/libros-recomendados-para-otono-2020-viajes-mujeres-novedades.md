@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/09/novedades-editoriales-2020.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

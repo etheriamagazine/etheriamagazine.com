@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/07/libros-verano-2021.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,6 @@ date: 2019-11-26
 cover: https://fotos.etheriamagazine.com/2019/11/chicas-viaje-risas.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

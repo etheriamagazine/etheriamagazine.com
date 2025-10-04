@@ -4,8 +4,8 @@ date: 2018-08-20
 cover: https://fotos.etheriamagazine.com/2018/08/ana-blasco-mujeres-etheria.jpg
 categories: 
   - mujeres-top
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

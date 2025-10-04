@@ -4,8 +4,8 @@ date: 2023-03-29
 cover: https://fotos.etheriamagazine.com/2023/03/capilla-surf-tenerife.jpg
 categories: 
   - cultura
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

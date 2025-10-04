@@ -4,8 +4,8 @@ date: 2019-04-15
 cover: https://fotos.etheriamagazine.com/2019/04/que-ver-Alberobello-puglia.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Firmas invitadas
 ---

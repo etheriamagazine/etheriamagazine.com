@@ -4,8 +4,8 @@ date: 2023-04-24
 cover: https://fotos.etheriamagazine.com/2023/04/Formentera-Es-Calo-des-Mort.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

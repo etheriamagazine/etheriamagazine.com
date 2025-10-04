@@ -4,10 +4,8 @@ date: 2024-03-25
 cover: https://fotos.etheriamagazine.com/2024/03/pabellon-hexagonos-madrid-portada.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
 tags: 
-  - pabellon-hexagonos
+  - españa
 authors: 
   - Pepa G. Marín
 ---

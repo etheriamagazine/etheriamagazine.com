@@ -4,8 +4,8 @@ date: 2021-02-20
 cover: https://fotos.etheriamagazine.com/2020/01/lago-atitlan-mujeres-viajar-sola.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Cristina Fernández
 ---

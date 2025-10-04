@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/06/Segovia-azud-valle-acebeda.jpg
 categories: 
   - viajar-en-familia
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Yolanda Cardo
 ---

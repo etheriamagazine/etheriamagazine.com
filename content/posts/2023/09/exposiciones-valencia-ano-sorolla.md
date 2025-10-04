@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2023/09/valencia-sorolla-exposicion-inm
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Etheria Magazine
 ---

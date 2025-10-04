@@ -6,8 +6,6 @@ categories:
   - viajar-sola
   - inspiración
   - mujeres-top
-destino: 
-  - Europa
 authors: 
   - Sania Jelic
 ---

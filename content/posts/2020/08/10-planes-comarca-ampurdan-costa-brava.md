@@ -4,8 +4,8 @@ date: 2020-08-21
 cover: https://fotos.etheriamagazine.com/2019/06/Viaje-girona-medieval-e1559737808621.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

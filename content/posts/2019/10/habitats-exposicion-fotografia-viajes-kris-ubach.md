@@ -4,8 +4,6 @@ date: 2019-10-08
 cover: https://fotos.etheriamagazine.com/2019/10/exposicion-habitats-kris-ubach.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

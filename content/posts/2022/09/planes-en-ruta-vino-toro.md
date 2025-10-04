@@ -4,8 +4,8 @@ date: 2022-09-21
 cover: https://fotos.etheriamagazine.com/2022/09/ruta-vino-toro-volvoreta.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

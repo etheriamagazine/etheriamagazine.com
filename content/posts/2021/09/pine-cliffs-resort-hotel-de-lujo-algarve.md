@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/09/pine-cliffs-resort-champagne-ba
 categories: 
   - viajar-en-familia
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

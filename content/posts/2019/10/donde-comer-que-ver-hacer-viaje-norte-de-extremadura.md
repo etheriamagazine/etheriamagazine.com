@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/09/viaje-caceres-restaurante-Versa
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

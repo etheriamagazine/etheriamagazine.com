@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2023/06/patrimonio-unesco-Wartburg.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

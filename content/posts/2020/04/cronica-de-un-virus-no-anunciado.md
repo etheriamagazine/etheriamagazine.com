@@ -4,8 +4,6 @@ date: 2020-04-04
 cover: https://fotos.etheriamagazine.com/2020/04/soledad-coronavirus.jpg
 categories: 
   - hemeroteca
-destino: 
-  - España
 authors: 
   - Manena Munar
 ---

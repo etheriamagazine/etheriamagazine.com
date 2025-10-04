@@ -4,8 +4,8 @@ date: 2020-05-28
 cover: https://fotos.etheriamagazine.com/2020/05/Alicante-Tabarca.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

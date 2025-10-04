@@ -4,8 +4,6 @@ date: 2019-07-29
 cover: https://fotos.etheriamagazine.com/2019/07/Bilbao-semana-grande-diversion-e1563519727502.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Juan Carlos y Mar
 ---

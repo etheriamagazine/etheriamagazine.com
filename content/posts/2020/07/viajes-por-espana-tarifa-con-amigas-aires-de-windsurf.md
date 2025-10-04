@@ -4,8 +4,8 @@ date: 2020-07-06
 cover: https://fotos.etheriamagazine.com/2020/06/tarifa-Kitesurf.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Rosa Marqués
 ---

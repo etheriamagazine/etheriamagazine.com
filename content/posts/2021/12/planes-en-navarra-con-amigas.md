@@ -4,8 +4,8 @@ date: 2021-12-23
 cover: https://fotos.etheriamagazine.com/2021/12/paisajes-del-valle-del-Bidasoa.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Yolanda Cardo
 ---

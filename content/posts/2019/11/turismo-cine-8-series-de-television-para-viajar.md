@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/10/escenarios-series-Cornualles-Po
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

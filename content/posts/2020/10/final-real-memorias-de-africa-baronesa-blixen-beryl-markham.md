@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/09/memorias-africa-Paisaje-de-Keni
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pedro Grifol
 ---

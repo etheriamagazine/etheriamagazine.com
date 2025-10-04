@@ -4,8 +4,8 @@ date: 2020-01-31
 cover: https://fotos.etheriamagazine.com/2020/01/universidad-coimbra.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/03/Madrid-gran-via.jpg
 categories: 
   - excursiones
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

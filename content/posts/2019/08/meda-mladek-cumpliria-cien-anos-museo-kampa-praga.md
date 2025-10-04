@@ -4,8 +4,6 @@ date: 2019-08-13
 cover: https://fotos.etheriamagazine.com/2019/08/meda-mladek-apertura.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

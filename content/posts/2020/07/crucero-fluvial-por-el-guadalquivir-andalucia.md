@@ -4,8 +4,8 @@ date: 2020-07-03
 cover: https://fotos.etheriamagazine.com/2020/07/crucero-guadalquivir-andalucia.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

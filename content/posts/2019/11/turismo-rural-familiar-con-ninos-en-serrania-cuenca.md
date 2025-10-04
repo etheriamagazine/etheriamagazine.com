@@ -4,8 +4,8 @@ date: 2019-11-29
 cover: https://fotos.etheriamagazine.com/2019/11/ruta-senderista-hoz-beteta.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

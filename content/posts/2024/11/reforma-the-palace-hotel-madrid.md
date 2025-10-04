@@ -4,8 +4,8 @@ date: 2024-11-04
 cover: https://fotos.etheriamagazine.com/2024/11/nueva-fachada-palace.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/08/Komvida-portada.jpg
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

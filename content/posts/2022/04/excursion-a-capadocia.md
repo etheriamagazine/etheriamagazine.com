@@ -4,8 +4,8 @@ date: 2022-04-22
 cover: https://fotos.etheriamagazine.com/2022/04/comida-capadocia-turquia.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

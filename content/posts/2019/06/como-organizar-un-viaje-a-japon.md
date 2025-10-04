@@ -6,8 +6,8 @@ categories:
   - inspiración
   - ocio
   - que-llevar-en-la-maleta
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

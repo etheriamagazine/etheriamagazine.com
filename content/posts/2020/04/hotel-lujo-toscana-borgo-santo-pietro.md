@@ -4,8 +4,8 @@ date: 2020-04-14
 cover: https://fotos.etheriamagazine.com/2020/03/borgo-santo-pietro-infinity-pool.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

@@ -4,8 +4,8 @@ date: 2019-01-04
 cover: https://fotos.etheriamagazine.com/2018/12/Valle-de-la-luna-atacama-chile-Etheria-magazine-e1655218795898.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Kelu Robles
 ---

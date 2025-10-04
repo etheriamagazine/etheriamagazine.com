@@ -4,8 +4,8 @@ date: 2021-04-20
 cover: https://fotos.etheriamagazine.com/2018/05/Costa-Rica-rana-e1551175328952.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

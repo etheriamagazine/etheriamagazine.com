@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/10/Riad-De-La-Belle-Epoque-Coco-Ch
 categories: 
   - viajar-en-pareja
   - hoteles
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

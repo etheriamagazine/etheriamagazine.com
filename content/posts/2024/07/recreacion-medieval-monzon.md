@@ -4,8 +4,6 @@ date: 2024-07-08
 cover: https://fotos.etheriamagazine.com/2024/07/Castillo-Monzon.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
 authors: 
   - Firmas invitadas
 ---

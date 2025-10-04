@@ -4,8 +4,8 @@ date: 2024-12-11
 cover: https://fotos.etheriamagazine.com/2024/12/English-Food-Market-cork.jpeg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

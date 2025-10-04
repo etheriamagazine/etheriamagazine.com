@@ -4,8 +4,8 @@ date: 2022-09-16
 cover: https://fotos.etheriamagazine.com/2022/09/Puerto-Viejo-costa-rica.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

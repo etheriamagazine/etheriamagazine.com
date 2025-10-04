@@ -4,8 +4,8 @@ date: 2022-02-03
 cover: https://fotos.etheriamagazine.com/2022/02/hotel-novo-lazne.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

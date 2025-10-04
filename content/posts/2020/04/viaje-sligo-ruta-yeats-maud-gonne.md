@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/04/bosque-sligo.jpg
 categories: 
   - viajar-con-amigas
   - historias
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

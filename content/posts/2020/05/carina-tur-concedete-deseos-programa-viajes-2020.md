@@ -4,8 +4,6 @@ date: 2020-05-19
 cover: https://fotos.etheriamagazine.com/2020/05/agencia-viajes-mujeres-valle-del-loira.jpg
 categories: 
   - historias
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

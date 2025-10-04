@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2024/12/viajera.jpeg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

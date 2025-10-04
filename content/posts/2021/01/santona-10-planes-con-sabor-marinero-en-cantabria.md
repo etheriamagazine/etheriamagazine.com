@@ -4,8 +4,8 @@ date: 2021-01-20
 cover: https://fotos.etheriamagazine.com/2021/01/arte-urbano-santona-cantabria.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

@@ -4,8 +4,8 @@ date: 2020-09-17
 cover: https://fotos.etheriamagazine.com/2020/09/viajar-sola-Cagliari-Mirador-Croce.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Kris Ubach
 ---

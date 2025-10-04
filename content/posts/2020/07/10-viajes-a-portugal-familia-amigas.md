@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/06/canales-aveiro-moliceiro.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

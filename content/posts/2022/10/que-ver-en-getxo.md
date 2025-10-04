@@ -4,8 +4,8 @@ date: 2022-10-10
 cover: https://fotos.etheriamagazine.com/2022/10/paseo-grandes-villas-getxo.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

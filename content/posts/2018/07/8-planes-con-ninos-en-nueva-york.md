@@ -4,8 +4,8 @@ date: 2018-07-23
 cover: https://fotos.etheriamagazine.com/2018/05/5-Nueva-York-Top-of-the-Rock-e1565512750575.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

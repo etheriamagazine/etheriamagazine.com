@@ -4,8 +4,8 @@ date: 2021-02-26
 cover: https://fotos.etheriamagazine.com/2021/02/hluboka-nad-vltavou.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

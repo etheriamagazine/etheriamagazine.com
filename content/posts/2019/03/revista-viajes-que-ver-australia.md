@@ -4,8 +4,8 @@ date: 2019-03-07
 cover: https://fotos.etheriamagazine.com/2019/02/australia-ayers-rock-uluru.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Cristina R. Bareño
 ---

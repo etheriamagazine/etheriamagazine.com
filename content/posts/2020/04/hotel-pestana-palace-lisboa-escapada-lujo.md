@@ -4,8 +4,8 @@ date: 2020-04-28
 cover: https://fotos.etheriamagazine.com/2020/04/pestana-palace-lisboa-jardines.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

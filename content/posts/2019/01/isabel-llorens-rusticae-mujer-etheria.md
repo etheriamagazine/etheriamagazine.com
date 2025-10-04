@@ -4,8 +4,6 @@ date: 2019-01-21
 cover: https://fotos.etheriamagazine.com/2019/01/Isabel-Llorens-Grecia.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Susana García
 ---

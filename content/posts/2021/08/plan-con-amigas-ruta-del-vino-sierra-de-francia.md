@@ -4,8 +4,8 @@ date: 2021-08-11
 cover: https://fotos.etheriamagazine.com/2021/08/Mogarraz-Salamanca.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

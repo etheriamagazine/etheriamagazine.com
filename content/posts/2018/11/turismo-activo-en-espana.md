@@ -4,8 +4,8 @@ date: 2018-11-23
 cover: https://fotos.etheriamagazine.com/2018/11/viajes-mujeres-parque-alcornocales-senderismo.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kris Ubach
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/03/sala-reyes-alcazar-segovia.jpg
 categories: 
   - viajar-en-familia
   - excursiones
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

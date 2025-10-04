@@ -4,8 +4,8 @@ date: 2024-01-12
 cover: https://fotos.etheriamagazine.com/2024/01/salamanca-mogarraz.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

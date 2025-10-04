@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2018/10/Almudena-Alberca-barricas.jpg
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Vanesa Viñolo
 ---

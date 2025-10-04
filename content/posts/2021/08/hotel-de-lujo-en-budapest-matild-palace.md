@@ -4,8 +4,8 @@ date: 2021-08-16
 cover: https://fotos.etheriamagazine.com/2021/08/Matild-Palace-exterior-Budapest.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

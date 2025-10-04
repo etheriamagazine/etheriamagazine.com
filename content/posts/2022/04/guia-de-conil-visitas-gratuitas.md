@@ -4,8 +4,8 @@ date: 2022-04-13
 cover: https://fotos.etheriamagazine.com/2022/04/puerto-pesquero-conil.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

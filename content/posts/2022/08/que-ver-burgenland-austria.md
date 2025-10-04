@@ -4,8 +4,8 @@ date: 2022-08-01
 cover: https://fotos.etheriamagazine.com/2022/07/austria-burgerland-jardines-Eisenstadt.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Yolanda Cardo
 ---

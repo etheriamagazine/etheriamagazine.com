@@ -4,8 +4,8 @@ date: 2022-02-07
 cover: https://fotos.etheriamagazine.com/2022/02/Grand-Tour-de-Catalunya-lleida.jpg
 categories: 
   - articulos-por-categorizar
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

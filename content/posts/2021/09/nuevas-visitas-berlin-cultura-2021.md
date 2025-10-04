@@ -8,8 +8,8 @@ categories:
   - inspiración
   - cultura
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

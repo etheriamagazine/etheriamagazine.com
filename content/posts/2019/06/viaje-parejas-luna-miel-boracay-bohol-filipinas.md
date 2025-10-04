@@ -4,8 +4,8 @@ date: 2019-06-07
 cover: https://fotos.etheriamagazine.com/2019/05/Filipinas-bohol-playa.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Manena Munar
 ---

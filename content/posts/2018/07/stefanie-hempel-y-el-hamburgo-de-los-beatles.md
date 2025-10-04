@@ -4,8 +4,8 @@ date: 2018-07-11
 cover: https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-5.jpg
 categories: 
   - mujeres-top
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

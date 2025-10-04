@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/12/viajes-reino-unido-escocia-cast
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

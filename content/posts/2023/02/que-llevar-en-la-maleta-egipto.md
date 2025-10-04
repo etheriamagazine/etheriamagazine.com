@@ -4,8 +4,8 @@ date: 2023-02-01
 cover: https://fotos.etheriamagazine.com/2023/01/mujer-abu-simbel.jpg
 categories: 
   - que-llevar-en-la-maleta
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

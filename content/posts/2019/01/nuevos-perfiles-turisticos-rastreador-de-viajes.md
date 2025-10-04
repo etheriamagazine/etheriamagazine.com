@@ -4,8 +4,6 @@ date: 2019-01-18
 cover: https://fotos.etheriamagazine.com/2019/01/Carla-Barberá-senior-editor-ViajerosPiratas.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

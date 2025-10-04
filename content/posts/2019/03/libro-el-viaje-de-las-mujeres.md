@@ -4,8 +4,6 @@ date: 2019-03-16
 cover: https://fotos.etheriamagazine.com/2019/03/anciana-tibet.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

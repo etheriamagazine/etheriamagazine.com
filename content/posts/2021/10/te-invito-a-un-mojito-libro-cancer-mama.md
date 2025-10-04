@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/10/te-invito-mojito-paka-mabel.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/05/viena-Fachada-Kunst-Haus.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Yolanda Cardo
 ---

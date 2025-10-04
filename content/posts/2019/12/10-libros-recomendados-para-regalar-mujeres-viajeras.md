@@ -4,8 +4,6 @@ date: 2019-12-24
 cover: https://fotos.etheriamagazine.com/2019/12/libros-recomendados-100-mujeres.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

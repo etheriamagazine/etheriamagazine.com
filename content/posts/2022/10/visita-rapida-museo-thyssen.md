@@ -4,8 +4,8 @@ date: 2022-10-14
 cover: https://fotos.etheriamagazine.com/2022/10/thyssen-habitacion-hotel.jpg
 categories: 
   - cultura
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

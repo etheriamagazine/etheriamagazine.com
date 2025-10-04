@@ -4,8 +4,6 @@ date: 2019-04-09
 cover: https://fotos.etheriamagazine.com/2019/04/sorte-etheria-rusticae.jpg
 categories: 
   - hemeroteca
-destino: 
-  - Mundo
 authors: 
   - Etheria Magazine
 ---

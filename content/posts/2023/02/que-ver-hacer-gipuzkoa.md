@@ -4,8 +4,8 @@ date: 2023-02-14
 cover: https://fotos.etheriamagazine.com/2023/02/guipuzcoa-monte-arno-mutriku.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

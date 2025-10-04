@@ -4,8 +4,8 @@ date: 2023-09-25
 cover: https://fotos.etheriamagazine.com/2023/09/barcelo-la-nuncia-palms-piscina.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

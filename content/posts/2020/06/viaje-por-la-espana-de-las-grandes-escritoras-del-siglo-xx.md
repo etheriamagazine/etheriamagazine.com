@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/06/sinsombrero.jpg
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

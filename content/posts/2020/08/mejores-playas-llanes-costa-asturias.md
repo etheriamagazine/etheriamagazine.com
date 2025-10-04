@@ -4,8 +4,8 @@ date: 2020-08-17
 cover: https://fotos.etheriamagazine.com/2020/08/asturias-acantilados-llanes.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/03/seine-a-velo-Saint-Honorine.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

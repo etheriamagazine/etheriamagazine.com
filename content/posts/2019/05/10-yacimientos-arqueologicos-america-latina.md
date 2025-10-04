@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/05/yacimientos-america-machu-picch
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,6 @@ date: 2020-02-03
 cover: https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-polvos-plaza.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
 authors: 
   - Kelu Robles
 ---

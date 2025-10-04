@@ -4,8 +4,8 @@ date: 2018-08-17
 cover: https://fotos.etheriamagazine.com/2018/08/Maison-La-Regina-en-la-Ciudad-Nueva.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

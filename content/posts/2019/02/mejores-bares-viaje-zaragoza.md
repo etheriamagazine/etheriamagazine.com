@@ -4,8 +4,8 @@ date: 2019-02-12
 cover: https://fotos.etheriamagazine.com/2019/01/Zaragoza-casa-pedro.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Elisabeth G. Iborra
 ---

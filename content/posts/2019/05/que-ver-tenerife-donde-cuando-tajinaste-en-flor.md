@@ -4,8 +4,8 @@ date: 2019-05-14
 cover: https://fotos.etheriamagazine.com/2019/05/Tenerife-parque-teide-tajinaste-artistica-e1557138323667.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

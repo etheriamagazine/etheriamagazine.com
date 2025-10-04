@@ -4,8 +4,6 @@ date: 2019-05-30
 cover: https://fotos.etheriamagazine.com/2019/04/leipzig-festival-concierto.jpg
 categories: 
   - ocio
-destino: 
-  - Europa
 authors: 
   - Manena Munar
 ---

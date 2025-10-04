@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/06/lanzarote-playas-papagayo.jpg
 categories: 
   - viajar-sola
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

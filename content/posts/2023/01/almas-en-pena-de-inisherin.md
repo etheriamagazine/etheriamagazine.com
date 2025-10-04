@@ -4,8 +4,8 @@ date: 2023-01-30
 cover: https://fotos.etheriamagazine.com/2023/01/almas-pena-inisherin-1.jpg
 categories: 
   - inspiración
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

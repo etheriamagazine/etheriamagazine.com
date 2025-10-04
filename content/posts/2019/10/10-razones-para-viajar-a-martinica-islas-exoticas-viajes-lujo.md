@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/09/Martinica-mont-pelee.jpg
 categories: 
   - viajar-en-pareja
   - inspiración
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Yvonne Solé
 ---

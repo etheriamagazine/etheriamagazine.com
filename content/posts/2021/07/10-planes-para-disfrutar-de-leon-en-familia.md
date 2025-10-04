@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/06/parque-cid-leon-con-ninos.jpg
 categories: 
   - viajar-en-familia
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Eva Madruga
 ---

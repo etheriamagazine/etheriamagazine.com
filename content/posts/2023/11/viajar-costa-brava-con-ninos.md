@@ -4,8 +4,8 @@ date: 2023-11-06
 cover: https://fotos.etheriamagazine.com/2023/11/viaje-familia-ripoll.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

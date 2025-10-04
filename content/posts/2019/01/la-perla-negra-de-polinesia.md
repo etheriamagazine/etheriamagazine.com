@@ -4,8 +4,8 @@ date: 2019-01-08
 cover: https://fotos.etheriamagazine.com/2019/01/Polinesia-francesa-perlas-negras-4.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Manena Munar
 ---

@@ -4,8 +4,8 @@ date: 2024-12-02
 cover: https://fotos.etheriamagazine.com/2024/12/tomelloso-bombos.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

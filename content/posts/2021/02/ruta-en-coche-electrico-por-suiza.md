@@ -4,8 +4,8 @@ date: 2021-02-10
 cover: https://fotos.etheriamagazine.com/2021/02/Coche-suiza-montanas.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

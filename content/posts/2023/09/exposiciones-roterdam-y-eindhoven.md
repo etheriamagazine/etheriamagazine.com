@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2023/09/foodhallen-rotterdam.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - Europa
 authors: 
   - Redacción Etheria
 ---

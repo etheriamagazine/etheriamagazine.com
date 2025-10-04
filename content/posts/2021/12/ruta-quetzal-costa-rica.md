@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/12/Trogon-Lodge-San-Gerardo-de-Dot
 categories: 
   - viajar-en-familia
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pedro Grifol
 ---

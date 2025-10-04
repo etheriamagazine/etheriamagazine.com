@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/06/leon-hotel-camarote.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

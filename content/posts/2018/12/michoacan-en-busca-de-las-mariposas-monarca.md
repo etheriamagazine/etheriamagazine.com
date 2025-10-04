@@ -4,8 +4,8 @@ date: 2018-12-19
 cover: https://fotos.etheriamagazine.com/2018/12/mariposas-monarca-viaje-mujeres.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Eva Madruga
 ---

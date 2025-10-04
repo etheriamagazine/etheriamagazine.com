@@ -4,8 +4,8 @@ date: 2018-05-09
 cover: https://fotos.etheriamagazine.com/2018/05/1-Selva-Negra-Hotel-Alemannenhof.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

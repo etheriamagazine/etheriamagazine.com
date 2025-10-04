@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/09/yacimiento-templos-bagan.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,6 @@ date: 2020-05-07
 cover: https://fotos.etheriamagazine.com/2020/05/tipos-masajes-balines.jpg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

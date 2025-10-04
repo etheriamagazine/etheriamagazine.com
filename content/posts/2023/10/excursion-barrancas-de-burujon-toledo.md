@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/10/barrancas-burujon-vistas.jpg
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

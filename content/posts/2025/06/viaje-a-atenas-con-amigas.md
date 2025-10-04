@@ -4,8 +4,8 @@ date: 2025-06-25
 cover: https://fotos.etheriamagazine.com/2025/06/atenas-acropolis-propileos.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

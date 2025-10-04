@@ -4,8 +4,6 @@ date: 2018-12-03
 cover: https://fotos.etheriamagazine.com/2018/11/Marketa-Cesky-Krumlov-mujer-etheria-1.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

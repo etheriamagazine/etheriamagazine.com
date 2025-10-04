@@ -4,8 +4,8 @@ date: 2019-01-28
 cover: https://fotos.etheriamagazine.com/2019/01/Colombia-Salento-Quindio.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Elisabeth G. Iborra
 ---

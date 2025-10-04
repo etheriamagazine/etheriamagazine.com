@@ -4,8 +4,8 @@ date: 2023-05-04
 cover: https://fotos.etheriamagazine.com/2023/05/zapatillas-zoco-marrakech.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

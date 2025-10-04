@@ -4,8 +4,8 @@ date: 2020-04-06
 cover: https://fotos.etheriamagazine.com/2020/03/turismo-cine-almodovar-paterna.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Eva Madruga
 ---

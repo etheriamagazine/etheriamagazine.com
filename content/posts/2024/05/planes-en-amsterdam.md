@@ -4,8 +4,8 @@ date: 2024-05-20
 cover: https://fotos.etheriamagazine.com/2024/05/Canales-Amsterdam.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Carmen Pineda
 ---

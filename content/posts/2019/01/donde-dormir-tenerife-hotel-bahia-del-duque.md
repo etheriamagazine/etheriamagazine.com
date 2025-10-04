@@ -4,8 +4,8 @@ date: 2019-01-11
 cover: https://fotos.etheriamagazine.com/2019/01/hotel-bahia-del-duque-habitacion.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

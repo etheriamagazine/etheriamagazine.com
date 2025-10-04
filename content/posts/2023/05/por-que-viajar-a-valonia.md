@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/05/valonia-Dinant-lago.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

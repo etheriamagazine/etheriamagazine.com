@@ -4,8 +4,6 @@ date: 2018-10-26
 cover: https://fotos.etheriamagazine.com/2018/10/Peralada-tratamiento-e1573376870965.jpg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Vanesa Viñolo
 ---

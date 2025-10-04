@@ -4,8 +4,8 @@ date: 2024-05-23
 cover: https://fotos.etheriamagazine.com/2024/05/hotel-regina-piscina.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

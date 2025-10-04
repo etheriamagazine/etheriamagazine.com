@@ -4,8 +4,8 @@ date: 2019-06-28
 cover: https://fotos.etheriamagazine.com/2019/06/parque-aventura-figueira-da-foz-portugal.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

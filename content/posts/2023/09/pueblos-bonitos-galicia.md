@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/09/pueblos-galicia-puente-romano-a
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

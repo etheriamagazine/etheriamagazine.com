@@ -1,11 +1,11 @@
 ---
-title: "Ruta del Vino Rías Baixas,  una escapada con amigas que cambiará tu concepción del tiempo"
+title: "Ruta del Vino Rías Baixas,  una escapada con amigas que os cambiará la concepción del tiempo"
 date: 2025-09-18
 cover: https://fotos.etheriamagazine.com/2025/09/quinta-couselo-ruta-vino-rias-baixas.jpeg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---
@@ -93,12 +93,12 @@ ventanas de color verde provenzal, se desarrollan las visitas guiadas con cata y
 talleres donde el arte, la música o incluso el yoga se funden con el entorno. ¡Cómo no 
 apuntarse a una sesión de _wine-fullness_ o a una actividad de _art and wine_! 
 
-![Bodega Terras Gaudas.](https://fotos.etheriamagazine.com/2025/09/terras-gaudas.jpg "Bodega Terras Gaudas. © Pepa García")
+![Bodega Terras Gauda.](https://fotos.etheriamagazine.com/2025/09/terras-gaudas.jpg "Bodega Terras Gauda. © Pepa García")
 
-### Bodega Terras Gaudas
+### Bodega Terras Gauda
 
 También en la subzona de O Rosal, una de las cinco que integran la D.O. Rías Baixas, se 
-sitúa la **Bodega Terras Gaudas** (terrasgauda.com), una propuesta más que interesante 
+sitúa la **Bodega Terras Gauda** (terrasgauda.com), una propuesta más que interesante 
 para conocer el ciclo completo del Albariño. La experiencia comienza a pie de campo, al 
 que se llega en todo terreno y donde se puede observar cómo los viñedos se elevan sobre 
 las empinadas lomas de un valle custodiado por montañas. Se dice que el secreto de sus 
@@ -130,7 +130,7 @@ personalidades, de reuniones políticas y eventos culturales.
 
 ![María Vinyals paseando con su madre por los jardines del castillo.](https://fotos.etheriamagazine.com/2025/09/maria-vinyals.jpg "María Vinyals paseando con su madre por los jardines del castillo. © Sala M.Vinyals")
 
-### **María Vinyals**, La marquesa roja
+### María Vinyals, La marquesa roja
 
 Como los marqueses de la Vega no tuvieron descendencia, adoptaron a su sobrina **María 
 Vinyals y Ferrés** tras el fallecimiento de su padre. La niña que, casualmente, había 

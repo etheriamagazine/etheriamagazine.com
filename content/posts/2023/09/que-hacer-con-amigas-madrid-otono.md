@@ -4,8 +4,8 @@ date: 2023-09-07
 cover: https://fotos.etheriamagazine.com/2023/09/terraza-hotel-suecia.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

@@ -4,8 +4,8 @@ date: 2021-03-18
 cover: https://fotos.etheriamagazine.com/2021/03/fez-atardecer-marruecos.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

@@ -4,8 +4,8 @@ date: 2023-01-17
 cover: https://fotos.etheriamagazine.com/2023/01/beach-teresitas-tenerife-spain-scaled.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

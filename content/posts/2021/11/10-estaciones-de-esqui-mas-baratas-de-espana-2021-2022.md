@@ -4,8 +4,8 @@ date: 2021-11-25
 cover: https://fotos.etheriamagazine.com/2021/11/estaciones-esqui-baratas.jpg
 categories: 
   - hemeroteca
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

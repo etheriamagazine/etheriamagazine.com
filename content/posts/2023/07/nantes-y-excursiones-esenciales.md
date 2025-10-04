@@ -4,8 +4,8 @@ date: 2023-07-31
 cover: https://fotos.etheriamagazine.com/2023/07/vinhedos-Le-Domaine-Genaudieres.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Yolanda Cardo
 ---

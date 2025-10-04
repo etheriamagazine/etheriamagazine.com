@@ -4,8 +4,8 @@ date: 2022-05-19
 cover: https://fotos.etheriamagazine.com/2022/05/Malta-con-ninos.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

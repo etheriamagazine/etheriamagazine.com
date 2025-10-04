@@ -4,8 +4,6 @@ date: 2023-02-15
 cover: https://fotos.etheriamagazine.com/2023/02/iberovincac-visita-bodega.jpg
 categories: 
   - hemeroteca
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

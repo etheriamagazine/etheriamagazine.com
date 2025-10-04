@@ -4,8 +4,8 @@ date: 2021-04-16
 cover: https://fotos.etheriamagazine.com/2021/04/jamaica-viaje-verano-2021.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

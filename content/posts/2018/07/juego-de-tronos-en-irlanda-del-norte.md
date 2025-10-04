@@ -4,8 +4,8 @@ date: 2018-07-02
 cover: https://fotos.etheriamagazine.com/2018/05/3-Castle-Ward-Juego-de-Tronos-Irlanda-Norte.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

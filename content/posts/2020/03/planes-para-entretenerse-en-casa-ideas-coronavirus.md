@@ -4,8 +4,6 @@ date: 2020-03-27
 cover: https://fotos.etheriamagazine.com/2020/03/ritua-belleza-casa.jpg
 categories: 
   - inspiración
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

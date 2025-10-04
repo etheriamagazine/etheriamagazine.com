@@ -4,8 +4,8 @@ date: 2019-08-12
 cover: https://fotos.etheriamagazine.com/2021/02/laguna-negra-en-soria.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

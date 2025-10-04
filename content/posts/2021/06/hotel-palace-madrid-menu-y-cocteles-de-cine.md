@@ -4,8 +4,8 @@ date: 2021-06-30
 cover: https://fotos.etheriamagazine.com/2021/06/Vestuario-de-Doctor-Zhivago.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

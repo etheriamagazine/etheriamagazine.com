@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/04/boda-india.jpg
 categories: 
   - historias
   - cultura
-destino: 
-  - Mundo
 authors: 
   - Pilar Ortega
 ---

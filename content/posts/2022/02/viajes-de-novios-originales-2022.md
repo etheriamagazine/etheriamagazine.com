@@ -6,8 +6,8 @@ categories:
   - viajar-en-pareja
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

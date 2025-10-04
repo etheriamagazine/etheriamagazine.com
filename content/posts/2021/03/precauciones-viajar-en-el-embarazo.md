@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/02/embarazada-viaje.jpg
 categories: 
   - bienestar
   - inspiración
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

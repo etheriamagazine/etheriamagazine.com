@@ -4,8 +4,8 @@ date: 2021-10-05
 cover: https://fotos.etheriamagazine.com/2021/09/oviedo-estatua-parque-san-francisco.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Carmen Pineda
 ---

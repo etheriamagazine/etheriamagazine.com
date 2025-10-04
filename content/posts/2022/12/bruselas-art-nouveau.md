@@ -4,8 +4,8 @@ date: 2022-12-23
 cover: https://fotos.etheriamagazine.com/2022/12/van-eetvelde-house.jpg
 categories: 
   - hemeroteca
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

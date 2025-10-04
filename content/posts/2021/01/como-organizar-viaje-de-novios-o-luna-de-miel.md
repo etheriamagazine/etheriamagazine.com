@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/01/viaje-de-novios-maldivas.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
 authors: 
   - Redacción Etheria
 ---

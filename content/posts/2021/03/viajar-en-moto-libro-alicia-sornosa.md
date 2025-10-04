@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/03/alicia-sornosa-viajera-moto.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - Europa
 authors: 
   - Pepa G. Marín
 ---

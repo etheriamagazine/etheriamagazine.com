@@ -4,8 +4,6 @@ date: 2020-06-18
 cover: https://fotos.etheriamagazine.com/2020/06/libros-verano-2020.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,6 @@ date: 2020-12-24
 cover: https://fotos.etheriamagazine.com/2020/12/pelis-navidad-el-dia-de-la-bestia.jpg
 categories: 
   - inspiración
-destino: 
-  - España
 authors: 
   - Eva Madruga
 ---

@@ -4,8 +4,8 @@ date: 2022-08-22
 cover: https://fotos.etheriamagazine.com/2022/08/getxo-humedal-de-Bolue.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

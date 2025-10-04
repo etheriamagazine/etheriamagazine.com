@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/12/reportajes-mas-leidos-cadiz.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/04/Modena-Motor-Valley-Fest.jpg
 categories: 
   - inspiración
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

@@ -4,8 +4,8 @@ date: 2020-03-12
 cover: https://fotos.etheriamagazine.com/2020/03/bautizo-submarinismo-cadiz.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

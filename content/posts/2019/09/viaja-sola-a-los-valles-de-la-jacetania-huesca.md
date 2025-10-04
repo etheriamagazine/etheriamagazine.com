@@ -4,8 +4,8 @@ date: 2019-09-25
 cover: https://fotos.etheriamagazine.com/2019/09/Jacetania-puerto-somport.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Elisabeth G. Iborra
 ---

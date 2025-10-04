@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2022/09/retrato-sisi-museo-viena.jpg
 categories: 
   - historias
   - cultura
-destino: 
-  - España
 authors: 
   - Yolanda Cardo
 ---

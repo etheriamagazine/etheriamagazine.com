@@ -4,8 +4,8 @@ date: 2022-04-27
 cover: https://fotos.etheriamagazine.com/2022/04/chuleton-restaurante-essentia-1.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Yolanda Cardo
 ---

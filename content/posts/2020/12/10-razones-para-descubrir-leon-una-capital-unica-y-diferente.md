@@ -4,8 +4,8 @@ date: 2020-12-28
 cover: https://fotos.etheriamagazine.com/2020/12/leon-casa-botines-fachada.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

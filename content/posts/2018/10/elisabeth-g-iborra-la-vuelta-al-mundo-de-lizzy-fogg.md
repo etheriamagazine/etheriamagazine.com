@@ -4,8 +4,6 @@ date: 2018-10-29
 cover: https://fotos.etheriamagazine.com/2018/10/Elisabeth-Iborra-Guatape.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Susana García
 ---

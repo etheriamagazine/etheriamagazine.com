@@ -4,8 +4,8 @@ date: 2020-05-22
 cover: https://fotos.etheriamagazine.com/2020/05/portada-uruena-villa-del-libro-2020.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

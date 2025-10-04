@@ -4,8 +4,6 @@ date: 2018-05-16
 cover: https://fotos.etheriamagazine.com/2018/05/la-mirada-del-viajero.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

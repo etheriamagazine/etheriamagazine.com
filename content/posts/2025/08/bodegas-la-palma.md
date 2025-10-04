@@ -4,8 +4,8 @@ date: 2025-08-16
 cover: https://fotos.etheriamagazine.com/2025/08/queso-vino-la-palma.jpeg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

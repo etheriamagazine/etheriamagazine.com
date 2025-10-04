@@ -4,8 +4,8 @@ date: 2021-05-03
 cover: https://fotos.etheriamagazine.com/2018/11/Malaga-museo-Picasso-teatro-romano.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

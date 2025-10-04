@@ -4,8 +4,6 @@ date: 2020-11-04
 cover: https://fotos.etheriamagazine.com/2020/11/festival-cine-mujeres-Saint-Maud.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Pilar Ortega
 ---

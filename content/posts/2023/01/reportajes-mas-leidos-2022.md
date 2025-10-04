@@ -4,8 +4,6 @@ date: 2023-01-02
 cover: https://fotos.etheriamagazine.com/2023/01/pareja-viaje.jpg
 categories: 
   - inspiración
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

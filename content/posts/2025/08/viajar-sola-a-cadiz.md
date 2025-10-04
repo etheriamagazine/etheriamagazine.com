@@ -4,8 +4,8 @@ date: 2025-08-22
 cover: https://fotos.etheriamagazine.com/2025/08/catedral-cadiz.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

@@ -4,8 +4,8 @@ date: 2018-09-21
 cover: https://fotos.etheriamagazine.com/2018/09/Ponte-Vecchio-Florencia-Toscana-e1552121783379.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Nuria Cortés
 ---

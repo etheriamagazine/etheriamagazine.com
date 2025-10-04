@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/05/Suiza-hotel-cervo.jpg
 categories: 
   - viajar-con-amigas
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

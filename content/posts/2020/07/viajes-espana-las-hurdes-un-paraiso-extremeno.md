@@ -4,8 +4,8 @@ date: 2020-07-21
 cover: https://fotos.etheriamagazine.com/2020/07/las-hurdes-las-Mestas.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Yolanda Cardo
 ---

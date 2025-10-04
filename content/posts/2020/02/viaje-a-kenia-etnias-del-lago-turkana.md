@@ -4,8 +4,8 @@ date: 2020-02-07
 cover: https://fotos.etheriamagazine.com/2020/01/viaje-kenia-Mujeres-turkanas.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pedro Grifol
 ---

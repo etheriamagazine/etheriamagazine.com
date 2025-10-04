@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/01/sania-sudafrica-hermanus-costa.
 categories: 
   - viajar-sola
   - mujeres-top
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

@@ -4,8 +4,6 @@ date: 2018-09-03
 cover: https://fotos.etheriamagazine.com/2018/08/lola-escudero-mujer-etheria-aleppo-libano.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Eva Madruga
 ---

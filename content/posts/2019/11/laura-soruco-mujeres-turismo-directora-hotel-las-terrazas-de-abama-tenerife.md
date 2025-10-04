@@ -4,8 +4,6 @@ date: 2019-11-11
 cover: https://fotos.etheriamagazine.com/2019/11/laura-soruco-terraza-abama.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

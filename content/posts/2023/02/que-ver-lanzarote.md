@@ -4,8 +4,8 @@ date: 2023-02-08
 cover: https://fotos.etheriamagazine.com/2023/02/lanzarote-vistas.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

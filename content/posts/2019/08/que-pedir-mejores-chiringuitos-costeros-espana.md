@@ -4,8 +4,8 @@ date: 2019-08-05
 cover: https://fotos.etheriamagazine.com/2019/07/mejores-chiringuitos-el-bigotes-ibiza.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Macarena Escrivá
 ---

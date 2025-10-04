@@ -4,8 +4,6 @@ date: 2025-03-07
 cover: https://fotos.etheriamagazine.com/2025/03/portada-flamenco.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

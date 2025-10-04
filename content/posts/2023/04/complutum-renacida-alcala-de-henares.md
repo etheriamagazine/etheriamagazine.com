@@ -4,8 +4,8 @@ date: 2023-04-14
 cover: https://fotos.etheriamagazine.com/2023/04/desfile-complutum-renacida-alcala.jpg
 categories: 
   - hemeroteca
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

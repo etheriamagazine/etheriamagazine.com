@@ -4,8 +4,6 @@ date: 2020-04-23
 cover: https://fotos.etheriamagazine.com/2020/04/regalos-madre-viajera.jpg
 categories: 
   - compras
-destino: 
-  - Mundo
 authors: 
   - Redacción Etheria
 ---

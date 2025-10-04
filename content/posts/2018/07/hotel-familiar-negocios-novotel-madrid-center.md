@@ -4,8 +4,8 @@ date: 2018-07-10
 cover: https://fotos.etheriamagazine.com/2018/07/Hotel-novotel-madrid-center-2.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/06/LOBSTER-CLUB-PISCINA.jpg
 categories: 
   - inspiración
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

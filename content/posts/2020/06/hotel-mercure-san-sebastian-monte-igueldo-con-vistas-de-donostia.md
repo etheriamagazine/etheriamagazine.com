@@ -4,8 +4,8 @@ date: 2020-06-25
 cover: https://fotos.etheriamagazine.com/2020/06/Portada-Mercure-San-Sebastian.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

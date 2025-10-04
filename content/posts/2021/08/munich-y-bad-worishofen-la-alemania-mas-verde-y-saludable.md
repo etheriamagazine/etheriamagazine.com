@@ -4,8 +4,8 @@ date: 2021-08-04
 cover: https://fotos.etheriamagazine.com/2021/07/alemania-kupark-bad-worishofen-scaled.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

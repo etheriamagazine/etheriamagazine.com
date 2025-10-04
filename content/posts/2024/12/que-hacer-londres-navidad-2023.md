@@ -7,8 +7,8 @@ categories:
   - viajar-sola
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

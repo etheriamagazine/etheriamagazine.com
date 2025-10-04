@@ -4,8 +4,6 @@ date: 2018-05-28
 cover: https://fotos.etheriamagazine.com/2018/05/WorkingOutfits-7-2.jpg
 categories: 
   - que-llevar-en-la-maleta
-destino: 
-  - Europa
 authors: 
   - Rebeca Ávila
 ---

@@ -4,8 +4,8 @@ date: 2022-06-28
 cover: https://fotos.etheriamagazine.com/2022/06/Kaunas-grafiti-lituania.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

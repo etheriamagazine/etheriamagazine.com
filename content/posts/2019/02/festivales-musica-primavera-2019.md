@@ -4,8 +4,6 @@ date: 2019-02-23
 cover: https://fotos.etheriamagazine.com/2019/02/Festivales-primavera-concierto.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

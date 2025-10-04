@@ -4,8 +4,6 @@ date: 2021-01-28
 cover: https://fotos.etheriamagazine.com/2021/01/san-valentin-THE-ORGANIC-SPA.jpg
 categories: 
   - compras
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

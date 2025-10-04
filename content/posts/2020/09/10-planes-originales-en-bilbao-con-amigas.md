@@ -4,8 +4,8 @@ date: 2020-09-09
 cover: https://fotos.etheriamagazine.com/2020/09/planes-originales-bilbao-Hotel-Capsula.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

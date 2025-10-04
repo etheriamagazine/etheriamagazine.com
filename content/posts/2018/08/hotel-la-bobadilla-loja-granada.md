@@ -4,8 +4,8 @@ date: 2018-08-23
 cover: https://fotos.etheriamagazine.com/2018/08/La-Bobadilla-panoramica.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

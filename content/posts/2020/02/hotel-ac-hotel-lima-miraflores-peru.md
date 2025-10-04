@@ -4,8 +4,8 @@ date: 2020-02-27
 cover: https://fotos.etheriamagazine.com/2020/02/AC-Lima-Insumo-Rooftop.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

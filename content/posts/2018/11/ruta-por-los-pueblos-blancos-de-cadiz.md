@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/10/5-Zahara-de-la-sierra-pueblos-b
 categories: 
   - viajar-con-amigas
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

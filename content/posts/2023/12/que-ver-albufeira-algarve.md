@@ -4,8 +4,8 @@ date: 2023-12-15
 cover: https://fotos.etheriamagazine.com/2023/12/albufeira-playa-pescadores.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

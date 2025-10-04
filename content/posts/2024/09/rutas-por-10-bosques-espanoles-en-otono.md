@@ -4,8 +4,8 @@ date: 2024-09-21
 cover: https://fotos.etheriamagazine.com/2021/09/bosque-otono-hoz-jucar.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

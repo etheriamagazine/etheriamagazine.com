@@ -4,8 +4,8 @@ date: 2021-05-10
 cover: https://fotos.etheriamagazine.com/2021/05/jardin-botanico-nueva-york-Kusama-Dancing-Pumpkin.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

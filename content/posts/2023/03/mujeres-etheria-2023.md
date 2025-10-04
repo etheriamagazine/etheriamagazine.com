@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2023/03/mujeres-viaje-baile-africa-Bele
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

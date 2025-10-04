@@ -4,8 +4,6 @@ date: 2020-12-19
 cover: https://fotos.etheriamagazine.com/2020/12/Pianista-Judith-Jauregui.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Pilar Ortega
 ---

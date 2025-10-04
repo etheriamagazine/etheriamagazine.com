@@ -4,8 +4,8 @@ date: 2021-01-19
 cover: https://fotos.etheriamagazine.com/2021/01/portada-bulnes.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

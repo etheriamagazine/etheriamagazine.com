@@ -4,8 +4,8 @@ date: 2018-12-21
 cover: https://fotos.etheriamagazine.com/2018/12/Milan-navigli-e1567238593842.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

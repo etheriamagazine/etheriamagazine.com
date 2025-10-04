@@ -4,8 +4,6 @@ date: 2019-10-28
 cover: https://fotos.etheriamagazine.com/2019/10/Room-Mate-Anna-Barcelona-Executive-room.jpg
 categories: 
   - hoteles
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

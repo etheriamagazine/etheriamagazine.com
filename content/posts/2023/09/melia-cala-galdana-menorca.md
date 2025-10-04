@@ -4,8 +4,8 @@ date: 2023-09-01
 cover: https://fotos.etheriamagazine.com/2023/08/menorca-Melia-Cala-Galdana-vista-general.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

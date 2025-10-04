@@ -4,8 +4,6 @@ date: 2019-03-09
 cover: https://fotos.etheriamagazine.com/2019/03/peor-viaje-vida.jpg
 categories: 
   - historias
-destino: 
-  - España
 authors: 
   - Rafael de Rojas
 ---

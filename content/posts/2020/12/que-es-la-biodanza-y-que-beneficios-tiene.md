@@ -4,8 +4,6 @@ date: 2020-12-02
 cover: https://fotos.etheriamagazine.com/2020/11/baile-superar-la-introversion.jpg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

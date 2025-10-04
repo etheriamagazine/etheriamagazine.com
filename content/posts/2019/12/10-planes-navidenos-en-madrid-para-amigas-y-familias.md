@@ -4,8 +4,8 @@ date: 2019-12-19
 cover: https://fotos.etheriamagazine.com/2019/12/bola-navidad-gran-via-alcala.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

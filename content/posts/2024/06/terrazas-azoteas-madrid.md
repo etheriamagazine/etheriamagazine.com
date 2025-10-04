@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/06/hard-rock-hotel-terraza-foodtru
 categories: 
   - hoteles
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

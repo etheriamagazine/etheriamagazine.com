@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2018/07/Despedida-de-soltera-moviles.jp
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
 authors: 
   - Kelu Robles
 ---

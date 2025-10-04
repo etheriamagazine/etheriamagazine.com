@@ -4,8 +4,8 @@ date: 2022-02-04
 cover: https://fotos.etheriamagazine.com/2022/02/RoyalMirage-Playa.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

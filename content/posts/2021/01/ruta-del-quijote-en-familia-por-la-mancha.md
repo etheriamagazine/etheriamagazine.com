@@ -4,8 +4,8 @@ date: 2021-01-29
 cover: https://fotos.etheriamagazine.com/2021/01/Alcazar-de-San-Juan-atardecer-molinos.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

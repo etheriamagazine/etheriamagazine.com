@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/01/cala-enebro-playa-conil.jpg
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

@@ -4,8 +4,8 @@ date: 2021-07-05
 cover: https://fotos.etheriamagazine.com/2021/07/sicilia-viaje.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

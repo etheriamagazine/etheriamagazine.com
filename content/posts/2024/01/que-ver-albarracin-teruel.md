@@ -4,8 +4,8 @@ date: 2024-01-19
 cover: https://fotos.etheriamagazine.com/2024/01/albarracin-pueblo-teruel.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

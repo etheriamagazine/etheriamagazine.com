@@ -4,8 +4,8 @@ date: 2020-05-15
 cover: https://fotos.etheriamagazine.com/2020/05/Hallstatt-iglesia-embarcadero.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Mundo
+tags: 
+  - europa
 authors: 
   - Elena Ortega
 ---

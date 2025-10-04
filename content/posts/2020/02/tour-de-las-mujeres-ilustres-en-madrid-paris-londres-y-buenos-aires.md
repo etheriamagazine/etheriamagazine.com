@@ -4,8 +4,8 @@ date: 2020-02-27
 cover: https://fotos.etheriamagazine.com/2020/02/tour-mujeres-madrid.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

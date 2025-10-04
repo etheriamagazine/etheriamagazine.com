@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/03/Playas-Europa-Capo-Testa-Cerden
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

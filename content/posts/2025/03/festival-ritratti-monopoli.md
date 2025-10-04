@@ -4,8 +4,6 @@ date: 2025-03-31
 cover: https://fotos.etheriamagazine.com/2025/03/festival-ritratti.jpeg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

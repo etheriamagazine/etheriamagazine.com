@@ -4,8 +4,6 @@ date: 2019-06-25
 cover: https://fotos.etheriamagazine.com/2019/06/viajate-el-mundo-maria-villar.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

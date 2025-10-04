@@ -4,8 +4,6 @@ date: 2020-10-21
 cover: https://fotos.etheriamagazine.com/2020/10/danza-terapia-salud.jpg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

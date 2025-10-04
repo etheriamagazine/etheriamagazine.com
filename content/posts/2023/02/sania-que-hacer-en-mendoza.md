@@ -4,8 +4,8 @@ date: 2023-02-17
 cover: https://fotos.etheriamagazine.com/2023/02/sania-mendoza-excursion.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

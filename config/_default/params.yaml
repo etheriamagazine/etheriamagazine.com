@@ -1,11 +1,26 @@
 
-gitinfo:
-  repositoryUrl: https://github.com/etheriamagazine/etheriamagazine.com
-  contentRoot: content
 
+# hugo-modules/sky-theme
+skytheme:
+  home:
+    latestStories:
+      - viajar-con-amigas
+      - viajar-en-familia
+      - viajar-en-pareja
+      - viajar-sola
+
+    categoriesToDisplay:
+      - viajar-con-amigas
+      - viajar-en-familia
+      - viajar-en-pareja
+      - viajar-sola
+      - estilo-de-vida
+      - organizate
+
+# hugo-modules/metadata ->
 metadata:
   author: Etheria Magazine
-  titleFormat: "%s — Etheria Magazine"
+  titleFormat: "%s — %s"
   description: 1ª revista de viajes española para mujeres que les apasiona viajar
   twitterUsername: etheriamagazine
   image: logo-que-seguro-que-no-existe.svg
@@ -15,6 +30,12 @@ metadata:
     - https://www.facebook.com/etheriamagazine/
     - https://www.pinterest.es/etheriamagazine/
     - https://github.com/etheriamagazine
+
+
+gitinfo:
+  repositoryUrl: https://github.com/etheriamagazine/etheriamagazine.com
+  contentRoot: content
+
 
 imgproxy:
   enabled: true

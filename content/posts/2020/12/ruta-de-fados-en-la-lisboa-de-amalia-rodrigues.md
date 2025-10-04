@@ -4,8 +4,8 @@ date: 2020-12-30
 cover: https://fotos.etheriamagazine.com/2020/12/lisboa-Amalia-Rodrigues-1965.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pilar Ortega
 ---

@@ -4,8 +4,8 @@ date: 2022-09-09
 cover: https://fotos.etheriamagazine.com/2022/09/exposiciones-madrid-frida-kalho-entrada.jpg
 categories: 
   - cultura
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

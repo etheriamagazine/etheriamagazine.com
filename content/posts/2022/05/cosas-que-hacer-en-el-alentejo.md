@@ -4,8 +4,8 @@ date: 2022-05-05
 cover: https://fotos.etheriamagazine.com/2022/05/palafitos-carrasqueira.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

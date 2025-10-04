@@ -4,8 +4,8 @@ date: 2023-04-04
 cover: https://fotos.etheriamagazine.com/2022/06/granada-la-alhambra.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2021-05-31
 cover: https://fotos.etheriamagazine.com/2020/08/glenariff-forest-park.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

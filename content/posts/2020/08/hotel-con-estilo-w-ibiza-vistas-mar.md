@@ -4,8 +4,8 @@ date: 2020-08-20
 cover: https://fotos.etheriamagazine.com/2020/08/W-Ibiza-wet-deck.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

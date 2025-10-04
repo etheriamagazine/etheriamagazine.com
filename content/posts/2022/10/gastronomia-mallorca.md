@@ -4,8 +4,8 @@ date: 2022-10-25
 cover: https://fotos.etheriamagazine.com/2022/10/Mallorca-THE-MERCHANT-tuetano.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Elisabeth G. Iborra
 ---

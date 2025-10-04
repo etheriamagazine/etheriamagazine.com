@@ -4,8 +4,8 @@ date: 2023-12-18
 cover: https://fotos.etheriamagazine.com/2023/12/Eugenia-Mas-Generos.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Yolanda Cardo
 ---

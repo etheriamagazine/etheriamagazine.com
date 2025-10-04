@@ -4,8 +4,8 @@ date: 2019-07-05
 cover: https://fotos.etheriamagazine.com/2019/06/Buenos-Aires-Palacio-de-Aguas-Corrientes.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Firmas invitadas
 ---

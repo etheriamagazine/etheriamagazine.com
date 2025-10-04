@@ -4,8 +4,6 @@ date: 2022-03-18
 cover: https://fotos.etheriamagazine.com/2022/03/klimt-matadero-madrid.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

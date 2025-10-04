@@ -4,8 +4,8 @@ date: 2024-06-07
 cover: https://fotos.etheriamagazine.com/2024/06/Collioure-bahia.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Yolanda Cardo
 ---

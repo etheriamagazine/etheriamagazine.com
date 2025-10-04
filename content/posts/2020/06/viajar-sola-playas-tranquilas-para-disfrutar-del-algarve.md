@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/06/playas-Algarve-Armona.jpg
 categories: 
   - viajar-sola
   - ocio
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

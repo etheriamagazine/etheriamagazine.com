@@ -4,8 +4,8 @@ date: 2022-11-21
 cover: https://fotos.etheriamagazine.com/2022/11/Flandes-Atomium-Bruselas.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2018-12-29
 cover: https://fotos.etheriamagazine.com/2018/12/hotel-reids-palace-madeira.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

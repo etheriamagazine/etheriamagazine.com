@@ -6,8 +6,6 @@ categories:
   - viajar-en-familia
   - inspiración
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2025/02/sania-bali-arrozal.jpg
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

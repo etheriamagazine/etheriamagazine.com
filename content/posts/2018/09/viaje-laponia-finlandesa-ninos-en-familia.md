@@ -4,8 +4,8 @@ date: 2018-09-07
 cover: https://fotos.etheriamagazine.com/2018/04/7-NUESTROS-TOP-LAPONIA-FOTO-7.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

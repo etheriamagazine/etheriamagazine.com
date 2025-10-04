@@ -4,8 +4,8 @@ date: 2021-12-01
 cover: https://fotos.etheriamagazine.com/2021/11/piazza-delle-erbe-verona.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Alfredo G. Reyes
 ---

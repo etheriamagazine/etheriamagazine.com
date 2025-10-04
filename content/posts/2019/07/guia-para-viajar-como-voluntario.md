@@ -4,8 +4,6 @@ date: 2019-07-15
 cover: https://fotos.etheriamagazine.com/2019/06/viaje-voluntariado-kenia.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - España
 authors: 
   - Marina Paul
 ---

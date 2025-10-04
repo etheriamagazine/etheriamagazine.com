@@ -6,8 +6,8 @@ categories:
   - viajar-con-amigas
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Yolanda Cardo
 ---

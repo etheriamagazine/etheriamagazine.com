@@ -4,8 +4,6 @@ date: 2020-07-24
 cover: https://fotos.etheriamagazine.com/2020/06/portada-femme-fatale-coctel.jpg
 categories: 
   - historias
-destino: 
-  - España
 authors: 
   - Pedro Grifol
 ---

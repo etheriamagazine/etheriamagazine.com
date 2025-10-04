@@ -4,8 +4,8 @@ date: 2019-06-14
 cover: https://fotos.etheriamagazine.com/2019/06/viaje-cine-malta-blue-lagoon-troya.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Eva Madruga
 ---

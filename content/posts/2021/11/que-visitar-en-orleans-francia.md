@@ -4,8 +4,8 @@ date: 2021-11-09
 cover: https://fotos.etheriamagazine.com/2021/11/Fin-de-semana-Orleans-RueJeanne-dArc.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

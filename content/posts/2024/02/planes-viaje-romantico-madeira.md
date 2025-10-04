@@ -4,8 +4,8 @@ date: 2024-02-02
 cover: https://fotos.etheriamagazine.com/2024/02/Madeira-arco-iris.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Mundo
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

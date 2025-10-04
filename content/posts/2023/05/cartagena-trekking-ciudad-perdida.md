@@ -4,8 +4,8 @@ date: 2023-05-12
 cover: https://fotos.etheriamagazine.com/2023/05/sania-llegada-ciudad-perdida.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

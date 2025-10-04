@@ -4,8 +4,8 @@ date: 2021-12-21
 cover: https://fotos.etheriamagazine.com/2021/12/Only-YOU-Hotel-Valencia-exterior.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

@@ -4,8 +4,6 @@ date: 2020-11-21
 cover: https://fotos.etheriamagazine.com/2020/11/moda-solidaria-makai.jpg
 categories: 
   - compras
-destino: 
-  - España
 authors: 
   - Rebeca Ávila
 ---

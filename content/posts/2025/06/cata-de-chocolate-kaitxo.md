@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2025/06/cata-chocolates-kaitxo-tostado.
 categories: 
   - inspiración
   - gourmet
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

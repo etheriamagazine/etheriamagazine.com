@@ -4,8 +4,8 @@ date: 2023-09-04
 cover: https://fotos.etheriamagazine.com/2023/08/sevilla-cafe-santa-cruz-Local.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Alfredo G. Reyes
 ---

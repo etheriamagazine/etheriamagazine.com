@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/08/Playa-Praia-do-Forte-viaje-bras
 categories: 
   - viajar-con-amigas
   - inspiración
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

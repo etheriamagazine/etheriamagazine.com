@@ -6,8 +6,6 @@ categories:
   - historias
   - cultura
   - mujeres-top
-destino: 
-  - Mundo
 authors: 
   - Pepa G. Marín
 ---

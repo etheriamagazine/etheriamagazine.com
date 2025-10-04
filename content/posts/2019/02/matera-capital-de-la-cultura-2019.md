@@ -4,8 +4,8 @@ date: 2019-02-02
 cover: https://fotos.etheriamagazine.com/2019/01/Sassi-di-Matera.jpg
 categories: 
   - hemeroteca
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

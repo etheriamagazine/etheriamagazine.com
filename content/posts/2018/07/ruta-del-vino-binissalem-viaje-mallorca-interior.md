@@ -4,8 +4,8 @@ date: 2018-07-26
 cover: https://fotos.etheriamagazine.com/2018/07/Vino-rosado-Enoturismo-Binissalem-Mallorca-e1553175846903.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Vanesa Viñolo
 ---

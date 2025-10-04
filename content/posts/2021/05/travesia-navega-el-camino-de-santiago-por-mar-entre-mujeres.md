@@ -4,8 +4,8 @@ date: 2021-05-31
 cover: https://fotos.etheriamagazine.com/2021/05/camino-santiago-mar.jpg
 categories: 
   - historias
-destino: 
-  - Mundo
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

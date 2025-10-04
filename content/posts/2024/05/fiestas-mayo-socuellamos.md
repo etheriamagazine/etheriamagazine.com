@@ -4,8 +4,8 @@ date: 2024-05-01
 cover: https://fotos.etheriamagazine.com/2024/04/socuellamos-casa-encomienda.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2021-04-26
 cover: https://fotos.etheriamagazine.com/2021/04/Barcelo-bavaro-palace-playa.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

@@ -6,8 +6,6 @@ categories:
   - hoteles
   - inspiración
   - ocio
-destino: 
-  - Mundo
 authors: 
   - Redacción Etheria
 ---

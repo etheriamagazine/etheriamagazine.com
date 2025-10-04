@@ -4,8 +4,6 @@ date: 2019-01-12
 cover: https://fotos.etheriamagazine.com/2019/01/libros-viajes.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/01/Escapadas-San-Valentin-e1550912
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
 authors: 
   - Redacción Etheria
 ---

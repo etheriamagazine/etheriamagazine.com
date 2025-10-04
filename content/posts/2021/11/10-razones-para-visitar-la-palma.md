@@ -4,8 +4,8 @@ date: 2021-11-15
 cover: https://fotos.etheriamagazine.com/2021/11/viaje-la-palma-canarias.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

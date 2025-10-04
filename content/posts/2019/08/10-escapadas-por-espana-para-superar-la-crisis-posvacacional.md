@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/05/viaje-marbella-plaza-naranjos.j
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

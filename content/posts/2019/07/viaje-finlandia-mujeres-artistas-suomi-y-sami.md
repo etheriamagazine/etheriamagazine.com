@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/06/Mujeres-Finlandia-suomi-sami.jp
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

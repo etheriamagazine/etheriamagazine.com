@@ -4,8 +4,6 @@ date: 2018-06-13
 cover: https://fotos.etheriamagazine.com/2018/06/neceser-avion-ala.jpg
 categories: 
   - que-llevar-en-la-maleta
-destino: 
-  - Mundo
 authors: 
   - Susana García
 ---

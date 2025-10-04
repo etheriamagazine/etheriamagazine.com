@@ -6,8 +6,8 @@ categories:
   - viajar-en-pareja
   - bienestar
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

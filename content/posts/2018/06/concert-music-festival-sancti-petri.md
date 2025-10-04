@@ -4,8 +4,6 @@ date: 2018-06-29
 cover: https://fotos.etheriamagazine.com/2018/06/festival-sancti-petri.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Susana García
 ---

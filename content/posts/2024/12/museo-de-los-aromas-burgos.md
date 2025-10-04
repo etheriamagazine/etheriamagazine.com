@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/12/Museo-de-los-Aromas1.jpeg
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

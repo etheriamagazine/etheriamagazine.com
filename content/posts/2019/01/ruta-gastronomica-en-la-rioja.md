@@ -4,8 +4,8 @@ date: 2019-01-23
 cover: https://fotos.etheriamagazine.com/2019/01/Restaurante-Cachetero-Txebiko-e1637097743651.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Carmen Bengoechea
 ---

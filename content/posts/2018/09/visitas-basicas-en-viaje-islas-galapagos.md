@@ -4,8 +4,8 @@ date: 2018-09-05
 cover: https://fotos.etheriamagazine.com/2018/08/iguana-viaje-galapagos-e1653807995591.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

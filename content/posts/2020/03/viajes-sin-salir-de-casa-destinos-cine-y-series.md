@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/06/viajes-cine-malta-juego-tronos.
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

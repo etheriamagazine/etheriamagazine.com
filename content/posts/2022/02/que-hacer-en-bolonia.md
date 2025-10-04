@@ -4,8 +4,8 @@ date: 2022-02-21
 cover: https://fotos.etheriamagazine.com/2022/02/Plaza-Mayor-bolonia-noche.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Alfredo G. Reyes
 ---

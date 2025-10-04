@@ -4,8 +4,8 @@ date: 2020-07-14
 cover: https://fotos.etheriamagazine.com/2020/07/bautismo-buceo.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

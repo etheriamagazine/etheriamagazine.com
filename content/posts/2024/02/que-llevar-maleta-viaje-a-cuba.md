@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/02/maleta-cuba-habana-casas.jpg
 categories: 
   - ocio
   - que-llevar-en-la-maleta
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

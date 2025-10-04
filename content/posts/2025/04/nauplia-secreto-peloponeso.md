@@ -4,8 +4,8 @@ date: 2025-04-29
 cover: https://fotos.etheriamagazine.com/2025/04/grecia-nauplia-fuerte-bourtzi.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

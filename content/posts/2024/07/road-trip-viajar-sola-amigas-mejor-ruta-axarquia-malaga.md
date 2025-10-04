@@ -4,8 +4,8 @@ date: 2024-07-11
 cover: https://fotos.etheriamagazine.com/2020/06/viajar-sola-axarquia-competa.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Cristina Fernández
 ---

@@ -4,8 +4,8 @@ date: 2019-07-02
 cover: https://fotos.etheriamagazine.com/2019/06/gamba-roja-experiencia-señor-martin.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Vanesa Viñolo
 ---

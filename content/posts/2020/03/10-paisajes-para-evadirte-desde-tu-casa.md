@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/03/Paisajes-perito-moreno.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

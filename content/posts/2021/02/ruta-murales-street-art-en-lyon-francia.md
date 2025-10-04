@@ -4,8 +4,8 @@ date: 2021-02-03
 cover: https://fotos.etheriamagazine.com/2021/01/Le-Mur-des-Canuts.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Carmen Pineda
 ---

@@ -4,8 +4,8 @@ date: 2019-07-04
 cover: https://fotos.etheriamagazine.com/2019/07/Pestana-Salon-Columnas-plaza-mayor.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

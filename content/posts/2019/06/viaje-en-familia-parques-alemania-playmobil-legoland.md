@@ -4,8 +4,8 @@ date: 2019-06-12
 cover: https://fotos.etheriamagazine.com/2019/05/Baviera-Rothenburg.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

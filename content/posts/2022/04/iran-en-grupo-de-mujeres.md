@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/03/iran-mujeres.jpg
 categories: 
   - mujeres-top
   - proyectos
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

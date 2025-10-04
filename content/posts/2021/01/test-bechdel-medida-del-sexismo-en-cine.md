@@ -4,8 +4,6 @@ date: 2021-01-11
 cover: https://fotos.etheriamagazine.com/2021/01/Test-Cartel-La-Boda-de-Rosa.jpg
 categories: 
   - inspiración
-destino: 
-  - España
 authors: 
   - Carmen Pineda
 ---

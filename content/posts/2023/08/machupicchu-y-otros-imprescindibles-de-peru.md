@@ -4,8 +4,8 @@ date: 2023-08-30
 cover: https://fotos.etheriamagazine.com/2023/08/Laguna-Huacachina.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

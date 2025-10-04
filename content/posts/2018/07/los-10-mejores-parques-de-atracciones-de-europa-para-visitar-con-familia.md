@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/07/Legoland-Alemania-e155920749863
 categories: 
   - viajar-en-familia
   - ocio
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

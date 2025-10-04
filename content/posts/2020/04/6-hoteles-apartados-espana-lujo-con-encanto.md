@@ -6,8 +6,8 @@ categories:
   - hoteles
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

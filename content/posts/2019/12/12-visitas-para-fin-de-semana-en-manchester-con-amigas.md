@@ -4,8 +4,8 @@ date: 2019-12-30
 cover: https://fotos.etheriamagazine.com/2019/12/viaje-manchester.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Elena Ortega
 ---

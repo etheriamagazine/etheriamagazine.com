@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/06/gruta-maravillas-aracena.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Cristina R. Bareño
 ---

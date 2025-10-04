@@ -4,8 +4,8 @@ date: 2018-05-14
 cover: https://fotos.etheriamagazine.com/2018/05/Sidi-Bou-Said-Tunez-e1552387102944.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

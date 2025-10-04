@@ -4,8 +4,8 @@ date: 2021-03-10
 cover: https://fotos.etheriamagazine.com/2021/03/hotel-oriental-mandarin-milan-fachada.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

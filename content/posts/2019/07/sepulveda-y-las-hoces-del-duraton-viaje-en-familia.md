@@ -4,8 +4,8 @@ date: 2019-07-11
 cover: https://fotos.etheriamagazine.com/2019/06/escapada-Sepulveda-Duraton-san-Frutos-ninas.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

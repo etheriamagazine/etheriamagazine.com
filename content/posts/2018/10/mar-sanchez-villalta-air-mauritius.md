@@ -4,8 +4,6 @@ date: 2018-10-01
 cover: https://fotos.etheriamagazine.com/2018/09/mar-air-mauritius-mujer-etheria.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

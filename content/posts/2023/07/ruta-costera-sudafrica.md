@@ -4,8 +4,8 @@ date: 2023-07-12
 cover: https://fotos.etheriamagazine.com/2023/07/desierto-sudafrica-flores-Proteas.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Juan Carlos y Mar
 ---

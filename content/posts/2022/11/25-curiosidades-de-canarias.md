@@ -4,8 +4,8 @@ date: 2022-11-18
 cover: https://fotos.etheriamagazine.com/2022/11/portada-islas-canarias.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2021-11-26
 cover: https://fotos.etheriamagazine.com/2021/11/Anantara-Palazzo-Naiadi-Roma-Hotel-habitacion-Premium-terraza.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

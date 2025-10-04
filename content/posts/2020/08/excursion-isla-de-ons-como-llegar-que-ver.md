@@ -4,8 +4,8 @@ date: 2020-08-06
 cover: https://fotos.etheriamagazine.com/2020/08/viaje-galicia-isla-ons-1.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Firmas invitadas
 ---

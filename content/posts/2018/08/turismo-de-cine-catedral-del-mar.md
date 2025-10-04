@@ -4,8 +4,8 @@ date: 2018-08-01
 cover: https://fotos.etheriamagazine.com/2018/07/Sos-del-rey-catedral-del-mar-e1578147637875.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Eva Madruga
 ---

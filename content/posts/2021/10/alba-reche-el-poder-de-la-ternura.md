@@ -4,8 +4,6 @@ date: 2021-10-10
 cover: https://fotos.etheriamagazine.com/2021/10/alba-reche-ex-operacion-triunfo-2018.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Firmas invitadas
 ---

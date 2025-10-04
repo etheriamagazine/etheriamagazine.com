@@ -4,8 +4,8 @@ date: 2019-02-26
 cover: https://fotos.etheriamagazine.com/2019/02/viaje-turquia-mujeres-capadocia.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Ana Vara y David Santiago
 ---

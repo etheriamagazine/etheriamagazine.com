@@ -4,8 +4,8 @@ date: 2018-05-03
 cover: https://fotos.etheriamagazine.com/2020/04/viaje-estambul.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Mundo
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

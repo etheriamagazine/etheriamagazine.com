@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/01/aguacates-rellenos.jpg
 categories: 
   - bienestar
   - gourmet
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

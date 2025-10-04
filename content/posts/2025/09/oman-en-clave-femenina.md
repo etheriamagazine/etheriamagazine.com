@@ -4,8 +4,8 @@ date: 2025-09-08
 cover: https://fotos.etheriamagazine.com/2025/09/Mezquita-Ali-Musa-oman.jpeg
 categories: 
   - mujeres-top
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Firmas invitadas
 ---

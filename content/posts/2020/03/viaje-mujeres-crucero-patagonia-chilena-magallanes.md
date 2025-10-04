@@ -4,8 +4,8 @@ date: 2020-03-17
 cover: https://fotos.etheriamagazine.com/2020/03/viaje-patagonia-chilena-ventus-australis.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Juan Carlos y Mar
 ---

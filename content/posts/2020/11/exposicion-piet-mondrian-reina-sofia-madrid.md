@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/11/exposicion-mondrian-reina-sofia
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Pilar Ortega
 ---

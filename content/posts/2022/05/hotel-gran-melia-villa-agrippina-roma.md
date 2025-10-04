@@ -4,8 +4,8 @@ date: 2022-05-30
 cover: https://fotos.etheriamagazine.com/2022/05/Villa-agripina-piscina.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

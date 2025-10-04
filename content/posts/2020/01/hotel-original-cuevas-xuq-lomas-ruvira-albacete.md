@@ -4,8 +4,8 @@ date: 2020-01-08
 cover: https://fotos.etheriamagazine.com/2020/01/Rusticae-xuq-ruvira-rincon.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2018/09/Florencia-pixabay.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

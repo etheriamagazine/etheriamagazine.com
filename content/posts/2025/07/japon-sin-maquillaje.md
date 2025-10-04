@@ -4,8 +4,8 @@ date: 2025-07-25
 cover: https://fotos.etheriamagazine.com/2025/07/viaje-japon-otono.jpeg
 categories: 
   - mujeres-top
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Firmas invitadas
 ---

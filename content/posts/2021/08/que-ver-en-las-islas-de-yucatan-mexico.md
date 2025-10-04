@@ -4,8 +4,8 @@ date: 2021-08-01
 cover: https://fotos.etheriamagazine.com/2018/12/mujeres-viajeras-islas-yucatan.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Ana Vara y David Santiago
 ---

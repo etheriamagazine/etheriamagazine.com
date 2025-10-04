@@ -4,8 +4,8 @@ date: 2024-02-22
 cover: https://fotos.etheriamagazine.com/2024/02/sania-botsuana-mujeres.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

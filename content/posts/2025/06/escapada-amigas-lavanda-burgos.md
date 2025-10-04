@@ -4,8 +4,8 @@ date: 2025-06-27
 cover: https://fotos.etheriamagazine.com/2025/06/atardecer-malva-en-Caleruega.jpeg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

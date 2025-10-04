@@ -4,8 +4,8 @@ date: 2019-04-29
 cover: https://fotos.etheriamagazine.com/2019/04/El-Santiscal-piscina.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

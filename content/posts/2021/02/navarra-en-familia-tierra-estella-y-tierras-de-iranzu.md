@@ -4,8 +4,8 @@ date: 2021-02-08
 cover: https://fotos.etheriamagazine.com/2021/01/navarra-nacedero-urederra.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

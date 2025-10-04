@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/04/madeira-Pico-do-Areeiro.jpg
 categories: 
   - viajar-sola
   - inspiración
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

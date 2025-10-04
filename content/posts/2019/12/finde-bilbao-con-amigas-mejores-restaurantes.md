@@ -4,8 +4,8 @@ date: 2019-12-23
 cover: https://fotos.etheriamagazine.com/2019/11/Restaurante-Mina-chef-Alvaro-Garrido.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Cristina R. Bareño
 ---

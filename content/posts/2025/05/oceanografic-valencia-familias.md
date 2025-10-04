@@ -4,8 +4,8 @@ date: 2025-05-08
 cover: https://fotos.etheriamagazine.com/2025/05/oceanografic-valencia-entrada.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

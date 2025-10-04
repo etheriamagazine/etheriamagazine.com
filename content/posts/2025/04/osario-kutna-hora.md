@@ -4,8 +4,8 @@ date: 2025-04-10
 cover: https://fotos.etheriamagazine.com/2025/04/kutna-hora-Osario-Sedlec.jpeg
 categories: 
   - excursiones
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-porta
 categories: 
   - viajar-en-pareja
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

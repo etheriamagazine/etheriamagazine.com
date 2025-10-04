@@ -4,8 +4,8 @@ date: 2022-04-18
 cover: https://fotos.etheriamagazine.com/2022/04/Iran-Mausoleo-Hilal-ibn-Ali.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Ana Vara y David Santiago
 ---

@@ -4,8 +4,8 @@ date: 2020-11-19
 cover: https://fotos.etheriamagazine.com/2020/11/tren-flam-noruega.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Mundo
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

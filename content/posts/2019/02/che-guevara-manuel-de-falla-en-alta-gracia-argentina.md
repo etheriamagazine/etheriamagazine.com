@@ -4,8 +4,8 @@ date: 2019-02-20
 cover: https://fotos.etheriamagazine.com/2019/02/Viaje-cordoba-che-guevara.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Kelu Robles
 ---

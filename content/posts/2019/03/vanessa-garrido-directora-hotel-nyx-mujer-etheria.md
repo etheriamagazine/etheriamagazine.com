@@ -4,8 +4,6 @@ date: 2019-03-29
 cover: https://fotos.etheriamagazine.com/2019/03/vanessa-garrido-glaciar-perito-moreno.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

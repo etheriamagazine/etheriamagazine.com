@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/08/valle-loira-Castillo-de-Chaumon
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

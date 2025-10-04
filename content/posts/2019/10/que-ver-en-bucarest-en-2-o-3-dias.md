@@ -4,8 +4,8 @@ date: 2019-10-18
 cover: https://fotos.etheriamagazine.com/2019/10/bucarest-biblioteca-universidad.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Cristina R. Bareño
 ---

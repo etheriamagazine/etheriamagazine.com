@@ -7,8 +7,8 @@ categories:
   - cultura
   - excursiones
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

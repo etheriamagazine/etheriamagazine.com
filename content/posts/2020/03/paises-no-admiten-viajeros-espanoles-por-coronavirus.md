@@ -4,8 +4,8 @@ date: 2020-03-12
 cover: https://fotos.etheriamagazine.com/2020/03/viajes-coronavirus.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

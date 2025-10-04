@@ -4,8 +4,6 @@ date: 2022-01-10
 cover: https://fotos.etheriamagazine.com/2022/01/Hotel-Santo-Cristo-terraza.jpg
 categories: 
   - hoteles
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

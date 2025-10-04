@@ -4,8 +4,6 @@ date: 2018-05-03
 cover: https://fotos.etheriamagazine.com/2018/05/Liliane-Bodalo-Mujer-Etheria-2.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

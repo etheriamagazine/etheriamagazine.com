@@ -4,8 +4,8 @@ date: 2018-07-23
 cover: https://fotos.etheriamagazine.com/2018/07/plaza-mercado-cracovia-1.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/09/viaje-praga-Dancing-House-e1567
 categories: 
   - viajar-con-amigas
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Juan Carlos y Mar
 ---

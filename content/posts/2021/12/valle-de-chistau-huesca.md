@@ -4,8 +4,8 @@ date: 2021-12-07
 cover: https://fotos.etheriamagazine.com/2021/11/VAlle-Chistau-Vista-de-La-Comuna-y-Serveto.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

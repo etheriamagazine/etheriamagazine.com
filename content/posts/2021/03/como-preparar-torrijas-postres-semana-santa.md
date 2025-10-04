@@ -4,8 +4,6 @@ date: 2021-03-17
 cover: https://fotos.etheriamagazine.com/2021/03/torrijas-azucar-canela.jpg
 categories: 
   - gourmet
-destino: 
-  - España
 authors: 
   - Susana García
 ---

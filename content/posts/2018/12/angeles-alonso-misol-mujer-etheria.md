@@ -4,8 +4,8 @@ date: 2018-12-24
 cover: https://fotos.etheriamagazine.com/2018/12/Angeles-alonso-Shanghai.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
+tags: 
+  - ""
 authors: 
   - Pepa G. Marín
 ---

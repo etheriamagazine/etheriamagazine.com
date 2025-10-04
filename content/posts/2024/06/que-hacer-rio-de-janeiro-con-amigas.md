@@ -4,8 +4,8 @@ date: 2024-06-29
 cover: https://fotos.etheriamagazine.com/2024/06/viaje-amigas-rio-janeiro.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Cris Aizpeolea
 ---

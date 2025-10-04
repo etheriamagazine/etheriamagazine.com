@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/02/ciragan-palace-kempinski-istanb
 categories: 
   - viajes-de-lujo
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

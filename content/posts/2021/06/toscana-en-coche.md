@@ -4,8 +4,8 @@ date: 2021-06-01
 cover: https://fotos.etheriamagazine.com/2018/05/Toscana-coche-montalcino.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/04/munich-eurocopa-Olympiapark.jpg
 categories: 
   - viajar-sola
   - inspiración
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

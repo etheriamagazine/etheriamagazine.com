@@ -4,8 +4,8 @@ date: 2023-10-28
 cover: https://fotos.etheriamagazine.com/2023/10/the-reserve-Jacaranda-Lounge.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

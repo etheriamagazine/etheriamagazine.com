@@ -4,8 +4,8 @@ date: 2021-01-14
 cover: https://fotos.etheriamagazine.com/2020/02/viaje-corea-seul.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pedro Grifol
 ---

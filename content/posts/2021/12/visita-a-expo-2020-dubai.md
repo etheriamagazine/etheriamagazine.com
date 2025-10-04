@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/12/Expo-Dubai-Al-Wasl-Plaza-dia.jp
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

@@ -4,8 +4,6 @@ date: 2021-06-18
 cover: https://fotos.etheriamagazine.com/2021/06/posturas-yoga.jpg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

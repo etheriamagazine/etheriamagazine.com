@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2024/10/portada-gabriele-munter-thyssen
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2018-12-18
 cover: https://fotos.etheriamagazine.com/2018/12/Viu-de-linas-etheria-magazine.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Kelu Robles
 ---

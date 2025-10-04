@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/11/nochevieja-madrid-hotel-urso-me
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

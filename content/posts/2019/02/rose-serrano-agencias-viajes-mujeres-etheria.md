@@ -4,8 +4,6 @@ date: 2019-02-11
 cover: https://fotos.etheriamagazine.com/2019/02/travel-with-rose-china.jpg
 categories: 
   - mujeres-top
-destino: 
-  - Europa
 authors: 
   - Pepa G. Marín
 ---

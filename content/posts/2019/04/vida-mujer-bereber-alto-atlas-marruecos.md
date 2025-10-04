@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/03/Valle-Ourika-mujer.jpg
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Manena Munar
 ---

@@ -4,8 +4,8 @@ date: 2019-01-24
 cover: https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-cayo-coco.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Cristina R. Bareño
 ---

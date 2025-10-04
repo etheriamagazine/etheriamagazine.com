@@ -4,8 +4,8 @@ date: 2020-06-01
 cover: https://fotos.etheriamagazine.com/2020/05/Hotel-Albons-recepcion.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

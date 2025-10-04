@@ -4,8 +4,8 @@ date: 2020-02-24
 cover: https://fotos.etheriamagazine.com/2020/02/viaje-mujeres-hamburgo.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Cristina Fernández
 ---

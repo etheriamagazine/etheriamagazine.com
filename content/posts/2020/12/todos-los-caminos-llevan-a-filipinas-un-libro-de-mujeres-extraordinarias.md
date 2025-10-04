@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/12/mujeres-filipinas-Anna-Balcells
 categories: 
   - cultura
   - mujeres-top
-destino: 
-  - Mundo
 authors: 
   - Pepa G. Marín
 ---

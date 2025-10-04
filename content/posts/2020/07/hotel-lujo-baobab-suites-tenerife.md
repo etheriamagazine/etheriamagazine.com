@@ -4,8 +4,8 @@ date: 2020-07-22
 cover: https://fotos.etheriamagazine.com/2020/07/Baobab-Tenerife-Boutique-Suite-Terraza.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

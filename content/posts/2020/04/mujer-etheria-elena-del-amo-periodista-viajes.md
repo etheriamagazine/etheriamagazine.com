@@ -4,8 +4,6 @@ date: 2020-04-25
 cover: https://fotos.etheriamagazine.com/2020/04/elena-del-amo-sri-lanka.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

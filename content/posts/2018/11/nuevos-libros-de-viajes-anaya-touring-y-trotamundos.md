@@ -4,8 +4,6 @@ date: 2018-11-29
 cover: https://fotos.etheriamagazine.com/2018/11/guias-viaje-anaya.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

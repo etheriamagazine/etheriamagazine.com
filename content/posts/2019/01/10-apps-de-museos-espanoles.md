@@ -4,8 +4,6 @@ date: 2019-01-05
 cover: https://fotos.etheriamagazine.com/2019/01/museos.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

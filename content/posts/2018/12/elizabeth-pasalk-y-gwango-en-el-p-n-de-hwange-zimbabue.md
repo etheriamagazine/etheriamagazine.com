@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/12/Elizabet-lodge-zinbabue-mujer-e
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Manena Munar
 ---

@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2024/01/museo-prado-2024.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

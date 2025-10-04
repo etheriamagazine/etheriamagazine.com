@@ -4,8 +4,8 @@ date: 2020-03-02
 cover: https://fotos.etheriamagazine.com/2020/02/viaje-whasington-chinatown-museo.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Kris Ubach
 ---

@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2024/03/angela-zapwe-emprendedora.jpg
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

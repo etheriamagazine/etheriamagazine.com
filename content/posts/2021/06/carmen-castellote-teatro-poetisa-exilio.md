@@ -4,8 +4,6 @@ date: 2021-06-23
 cover: https://fotos.etheriamagazine.com/2021/06/carmen-castellote-mexico-1995.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Manena Munar
 ---

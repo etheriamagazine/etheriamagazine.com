@@ -4,8 +4,8 @@ date: 2022-01-21
 cover: https://fotos.etheriamagazine.com/2022/01/hotel-moxy-manchester-zona-juegos.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2019-03-25
 cover: https://fotos.etheriamagazine.com/2019/03/Cordoba-restaurante-Recomiendo.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Macarena Escrivá
 ---

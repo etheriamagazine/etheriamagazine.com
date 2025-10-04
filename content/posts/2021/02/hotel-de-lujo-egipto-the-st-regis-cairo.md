@@ -4,8 +4,8 @@ date: 2021-02-09
 cover: https://fotos.etheriamagazine.com/2021/02/hotel-st-regis-cairo-escalera.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

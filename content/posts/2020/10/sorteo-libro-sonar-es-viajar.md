@@ -4,8 +4,6 @@ date: 2020-10-29
 cover: https://fotos.etheriamagazine.com/2020/10/web-SORTEO-88-viajes-confinamiento.jpg
 categories: 
   - sorteos
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

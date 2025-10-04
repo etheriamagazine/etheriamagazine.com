@@ -4,8 +4,6 @@ date: 2018-09-22
 cover: https://fotos.etheriamagazine.com/2018/09/Schalliol_Chantilly_IMG_5410.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -4,8 +4,8 @@ date: 2019-02-01
 cover: https://fotos.etheriamagazine.com/2019/01/Viajes-mujeres-Sri-lanka-7.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Ana Vara y David Santiago
 ---

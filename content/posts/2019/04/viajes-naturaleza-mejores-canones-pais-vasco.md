@@ -4,8 +4,8 @@ date: 2019-04-09
 cover: https://fotos.etheriamagazine.com/2019/03/canon-sobron-pais-vasco.jpg
 categories: 
   - excursiones
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

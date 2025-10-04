@@ -4,8 +4,8 @@ date: 2021-09-22
 cover: https://fotos.etheriamagazine.com/2021/09/viaje-riva-del-garda.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Alfredo G. Reyes
 ---

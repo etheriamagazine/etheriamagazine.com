@@ -4,8 +4,8 @@ date: 2019-10-16
 cover: https://fotos.etheriamagazine.com/2019/10/viaje-mujeres-Nantucket.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Firmas invitadas
 ---

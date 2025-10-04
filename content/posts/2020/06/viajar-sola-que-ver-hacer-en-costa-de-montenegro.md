@@ -4,8 +4,8 @@ date: 2020-06-29
 cover: https://fotos.etheriamagazine.com/2020/06/Montenegro-Sveti-Stefan-mar.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - europa
 authors: 
   - Marina Paul
 ---

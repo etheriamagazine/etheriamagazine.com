@@ -4,8 +4,8 @@ date: 2021-01-16
 cover: https://fotos.etheriamagazine.com/2021/01/japon-Huis-Ten-Bosh.jpg
 categories: 
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

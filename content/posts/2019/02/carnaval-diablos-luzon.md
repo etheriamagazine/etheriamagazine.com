@@ -4,8 +4,8 @@ date: 2019-02-19
 cover: https://fotos.etheriamagazine.com/2019/02/carnaval-diablos-luzon-3.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

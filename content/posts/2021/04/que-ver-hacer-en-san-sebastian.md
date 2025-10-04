@@ -4,8 +4,8 @@ date: 2021-04-01
 cover: https://fotos.etheriamagazine.com/2018/07/san-sebastian-playa-concha.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

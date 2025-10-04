@@ -4,8 +4,8 @@ date: 2024-02-26
 cover: https://fotos.etheriamagazine.com/2024/02/Futuroscope-Aquascope-toboganes.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

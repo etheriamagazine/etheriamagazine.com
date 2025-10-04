@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/05/wom-agencia-viajes-mujeres.jpg
 categories: 
   - viajar-sola
   - historias
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

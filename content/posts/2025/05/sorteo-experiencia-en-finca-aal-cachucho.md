@@ -4,8 +4,8 @@ date: 2025-05-24
 cover: https://fotos.etheriamagazine.com/2025/05/finca-hotel-rural-aal-cachucho-picnic.jpeg
 categories: 
   - sorteos
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/12/Fotograma-documental-maria-andr
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Carmen Pineda
 ---

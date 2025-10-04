@@ -4,8 +4,8 @@ date: 2021-04-08
 cover: https://fotos.etheriamagazine.com/2021/04/hotel-las-arenas-piscina.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

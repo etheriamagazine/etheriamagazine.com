@@ -4,8 +4,8 @@ date: 2019-08-06
 cover: https://fotos.etheriamagazine.com/2019/07/Apertura-Jordania-cine-Wadi-Rum.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Eva Madruga
 ---

@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/03/biografia-mujeres-inventoras-He
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pedro Grifol
 ---

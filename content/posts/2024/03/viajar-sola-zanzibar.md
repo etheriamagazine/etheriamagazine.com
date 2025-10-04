@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/03/sania-zanzibar-mujeres-playa-pa
 categories: 
   - viajar-sola
   - mujeres-top
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

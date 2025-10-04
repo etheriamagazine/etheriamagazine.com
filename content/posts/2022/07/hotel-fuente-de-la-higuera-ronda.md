@@ -4,8 +4,8 @@ date: 2022-07-13
 cover: https://fotos.etheriamagazine.com/2022/07/Fuente-higuera-piscina.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

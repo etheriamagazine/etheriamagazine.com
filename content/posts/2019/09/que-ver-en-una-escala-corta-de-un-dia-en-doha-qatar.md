@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/09/escala-un-dia-doha-museo-arte.j
 categories: 
   - viajar-con-amigas
   - inspiración
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

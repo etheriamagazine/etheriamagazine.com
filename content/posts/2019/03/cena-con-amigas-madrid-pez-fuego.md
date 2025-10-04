@@ -4,8 +4,8 @@ date: 2019-03-23
 cover: https://fotos.etheriamagazine.com/2019/03/restaurante-pez-fuego-pulpo-brasa.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - ""
 authors: 
   - Pepa G. Marín
 ---

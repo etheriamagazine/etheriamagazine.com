@@ -4,8 +4,8 @@ date: 2018-06-28
 cover: https://fotos.etheriamagazine.com/2018/06/Madrid-bar-clandestino.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

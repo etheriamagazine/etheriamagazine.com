@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2023/09/mujeres-naturaleza.jpg
 categories: 
   - mujeres-top
   - proyectos
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

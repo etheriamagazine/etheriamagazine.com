@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/08/Navarra-de-cine-Anacleto.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Eva Madruga
 ---

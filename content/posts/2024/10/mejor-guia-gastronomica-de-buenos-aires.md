@@ -4,8 +4,8 @@ date: 2024-10-09
 cover: https://fotos.etheriamagazine.com/2024/10/buenos-aires-restaurante-trescha.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Elisabeth G. Iborra
 ---

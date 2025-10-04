@@ -4,8 +4,8 @@ date: 2018-09-18
 cover: https://fotos.etheriamagazine.com/2018/09/Puerto-Viejo-La-Rochelle-e1578818092619.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

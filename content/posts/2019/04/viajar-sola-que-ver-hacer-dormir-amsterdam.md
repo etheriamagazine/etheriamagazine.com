@@ -4,8 +4,8 @@ date: 2019-04-11
 cover: https://fotos.etheriamagazine.com/2019/03/amsterdam-mercados-Noordermarkt.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Carmen Giró
 ---

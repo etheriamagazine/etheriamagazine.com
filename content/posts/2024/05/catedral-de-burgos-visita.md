@@ -7,8 +7,8 @@ categories:
   - inspiración
   - excursiones
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

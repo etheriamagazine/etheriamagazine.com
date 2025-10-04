@@ -4,8 +4,8 @@ date: 2018-11-08
 cover: https://fotos.etheriamagazine.com/2018/11/museo-cafe-alentejo-portugal-e1658936074607.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

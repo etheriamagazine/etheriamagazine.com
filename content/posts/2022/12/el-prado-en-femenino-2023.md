@@ -4,8 +4,8 @@ date: 2022-12-29
 cover: https://fotos.etheriamagazine.com/2022/12/isabel-clara-eugenia.jpg
 categories: 
   - cultura
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

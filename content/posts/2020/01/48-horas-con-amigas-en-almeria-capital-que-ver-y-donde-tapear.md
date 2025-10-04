@@ -4,8 +4,8 @@ date: 2020-01-10
 cover: https://fotos.etheriamagazine.com/2020/01/Almeria-Mercado-Central.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

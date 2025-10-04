@@ -4,8 +4,8 @@ date: 2021-03-05
 cover: https://fotos.etheriamagazine.com/2021/03/varsovia-musica-clasica.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

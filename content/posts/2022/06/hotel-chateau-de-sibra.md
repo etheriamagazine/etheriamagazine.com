@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/06/chateaux-sibra-noche.jpg
 categories: 
   - inspiración
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

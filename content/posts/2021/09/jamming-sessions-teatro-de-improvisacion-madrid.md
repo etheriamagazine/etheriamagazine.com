@@ -4,8 +4,6 @@ date: 2021-09-30
 cover: https://fotos.etheriamagazine.com/2021/09/portada-jamming.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

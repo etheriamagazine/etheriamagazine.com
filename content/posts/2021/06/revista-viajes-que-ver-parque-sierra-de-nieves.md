@@ -6,8 +6,8 @@ categories:
   - viajar-con-amigas
   - viajar-en-familia
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

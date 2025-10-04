@@ -4,8 +4,8 @@ date: 2018-11-28
 cover: https://fotos.etheriamagazine.com/2022/02/viajes-novios-originales-Katmandu-nepal.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

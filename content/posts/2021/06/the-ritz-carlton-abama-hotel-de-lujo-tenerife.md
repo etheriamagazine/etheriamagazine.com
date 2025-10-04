@@ -4,8 +4,8 @@ date: 2021-06-28
 cover: https://fotos.etheriamagazine.com/2021/06/hotel-abama-vistas.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

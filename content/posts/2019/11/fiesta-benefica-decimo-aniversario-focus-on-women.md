@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/11/Fiesta-Solidaria-FOW-1.jpg
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

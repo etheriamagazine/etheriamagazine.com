@@ -4,8 +4,8 @@ date: 2019-05-17
 cover: https://fotos.etheriamagazine.com/2019/05/Nueva-York-primavera-Central-Park.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Macarena Escrivá
 ---

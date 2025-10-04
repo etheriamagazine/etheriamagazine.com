@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/01/viaje-con-amigas-gijon.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Alicia Bea
 ---

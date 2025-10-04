@@ -4,8 +4,8 @@ date: 2020-05-18
 cover: https://fotos.etheriamagazine.com/2020/04/faro-punta-silla-san-vicente.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/05/blanca-zayas-apertura.jpg
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

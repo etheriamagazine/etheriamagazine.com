@@ -4,8 +4,8 @@ date: 2020-10-26
 cover: https://fotos.etheriamagazine.com/2020/10/Etheria-magazine-La-Rioja-molino-valle-ocon.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

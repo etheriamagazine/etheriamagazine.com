@@ -4,8 +4,8 @@ date: 2023-10-24
 cover: https://fotos.etheriamagazine.com/2023/10/sauna-finlandia.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

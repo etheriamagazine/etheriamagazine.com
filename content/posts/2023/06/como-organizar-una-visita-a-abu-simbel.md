@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/06/egipto-abu-simbel-estatuas.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

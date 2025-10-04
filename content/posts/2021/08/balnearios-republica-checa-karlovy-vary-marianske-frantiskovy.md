@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/08/republica-checa-Karlovy-Vary.jp
 categories: 
   - viajar-con-amigas
   - bienestar
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

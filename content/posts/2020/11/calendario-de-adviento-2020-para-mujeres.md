@@ -4,8 +4,6 @@ date: 2020-11-20
 cover: https://fotos.etheriamagazine.com/2020/11/calendario-adviento-cajas.jpg
 categories: 
   - compras
-destino: 
-  - Europa
 authors: 
   - Redacción Etheria
 ---

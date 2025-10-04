@@ -4,8 +4,8 @@ date: 2022-08-26
 cover: https://fotos.etheriamagazine.com/2022/08/brno-catedral-pedro-pablo.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

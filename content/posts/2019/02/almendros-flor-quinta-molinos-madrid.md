@@ -4,8 +4,8 @@ date: 2019-02-22
 cover: https://fotos.etheriamagazine.com/2019/02/almendros-flor-quinta-molinos.jpg
 categories: 
   - excursiones
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

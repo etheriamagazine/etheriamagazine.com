@@ -4,8 +4,6 @@ date: 2019-09-02
 cover: https://fotos.etheriamagazine.com/2019/09/cristina-jimena-Costa-Rica.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

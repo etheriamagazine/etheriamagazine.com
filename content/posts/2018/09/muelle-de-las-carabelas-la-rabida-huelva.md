@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/09/Huelva-Parque-Carabelas-conjunt
 categories: 
   - viajar-en-familia
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

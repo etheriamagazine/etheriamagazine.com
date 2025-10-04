@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2024/01/por-mis-huevismo.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

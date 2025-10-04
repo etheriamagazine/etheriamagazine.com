@@ -7,8 +7,6 @@ categories:
   - hoteles
   - inspiración
   - ocio
-destino: 
-  - España
 authors: 
   - Vanesa Viñolo
 ---

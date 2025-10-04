@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/10/re-nacimiento-monasterio-ucles.
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

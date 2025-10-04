@@ -4,8 +4,8 @@ date: 2022-11-02
 cover: https://fotos.etheriamagazine.com/2022/11/Fairmont-Tazi-Palace-Junior-Suite-Terraza.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

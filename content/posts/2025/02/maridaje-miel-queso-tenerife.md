@@ -4,8 +4,8 @@ date: 2025-02-20
 cover: https://fotos.etheriamagazine.com/2025/02/tenerife-miel-especialidades.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

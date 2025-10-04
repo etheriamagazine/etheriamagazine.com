@@ -4,8 +4,8 @@ date: 2022-05-23
 cover: https://fotos.etheriamagazine.com/2022/05/Pueblo-Belmonte-de-San-Jose-Alcaniz.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

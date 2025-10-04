@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2025/05/Objetivo-Viajar-Sola-Madrid.jpe
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

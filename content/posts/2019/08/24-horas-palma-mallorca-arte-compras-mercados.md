@@ -4,8 +4,8 @@ date: 2019-08-01
 cover: https://fotos.etheriamagazine.com/2019/07/viaje-palma-compras-hamman.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

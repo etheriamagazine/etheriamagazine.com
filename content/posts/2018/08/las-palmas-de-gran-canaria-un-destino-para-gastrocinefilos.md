@@ -6,8 +6,8 @@ categories:
   - inspiración
   - ocio
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Eva Madruga
 ---

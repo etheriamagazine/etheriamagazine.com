@@ -4,8 +4,6 @@ date: 2024-03-11
 cover: https://fotos.etheriamagazine.com/2024/03/maria-lurdes-barca-azores.jpg
 categories: 
   - mujeres-top
-destino: 
-  - Europa
 authors: 
   - Redacción Etheria
 ---

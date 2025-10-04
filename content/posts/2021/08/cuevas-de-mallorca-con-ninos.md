@@ -4,8 +4,8 @@ date: 2021-08-26
 cover: https://fotos.etheriamagazine.com/2021/08/Cuevas-arta-mallorca.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

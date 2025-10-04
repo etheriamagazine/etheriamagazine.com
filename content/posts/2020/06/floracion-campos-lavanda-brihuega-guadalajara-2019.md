@@ -4,8 +4,8 @@ date: 2020-06-08
 cover: https://fotos.etheriamagazine.com/2019/06/lavanda-brihuega.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

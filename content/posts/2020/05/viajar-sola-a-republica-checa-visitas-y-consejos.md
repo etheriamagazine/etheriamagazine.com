@@ -4,8 +4,8 @@ date: 2020-05-29
 cover: https://fotos.etheriamagazine.com/2020/05/salir-brno-chequia.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

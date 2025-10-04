@@ -4,8 +4,8 @@ date: 2019-02-04
 cover: https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-Aire-Sevilla.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Macarena Escrivá
 ---

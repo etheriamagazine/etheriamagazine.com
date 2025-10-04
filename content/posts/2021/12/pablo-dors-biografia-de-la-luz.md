@@ -4,8 +4,6 @@ date: 2021-12-22
 cover: https://fotos.etheriamagazine.com/2021/12/kristina-flour-BcjdbyKWquw-unsplash-scaled.jpg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

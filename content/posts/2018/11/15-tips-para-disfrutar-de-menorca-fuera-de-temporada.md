@@ -4,8 +4,8 @@ date: 2018-11-05
 cover: https://fotos.etheriamagazine.com/2018/10/puerto-ciudadela-menorca.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Paloma Herce
 ---

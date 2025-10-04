@@ -4,8 +4,8 @@ date: 2021-01-07
 cover: https://fotos.etheriamagazine.com/2021/01/hotel-melia-salinas-piscina.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

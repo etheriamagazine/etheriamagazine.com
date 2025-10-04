@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/12/carcel-cork-e1647553526412.jpg
 categories: 
   - viajar-sola
   - inspiración
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

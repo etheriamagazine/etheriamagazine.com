@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/11/Hemingway-1959-Pamplona-Iruña
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Eva Madruga
 ---

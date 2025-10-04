@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/05/3-Republica-Dominicana-Sur-7.jp
 categories: 
   - viajar-con-amigas
   - inspiración
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

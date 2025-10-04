@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/06/urban-glass-by-sips-bar.jpg
 categories: 
   - gourmet
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Etheria Magazine
 ---

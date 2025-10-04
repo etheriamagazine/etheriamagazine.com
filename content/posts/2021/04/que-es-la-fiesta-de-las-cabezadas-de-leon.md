@@ -4,8 +4,6 @@ date: 2021-04-23
 cover: https://fotos.etheriamagazine.com/2021/04/fiesta-las-cabezadas-leon.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

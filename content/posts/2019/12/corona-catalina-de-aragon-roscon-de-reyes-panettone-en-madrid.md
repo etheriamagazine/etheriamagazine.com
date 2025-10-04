@@ -4,8 +4,8 @@ date: 2019-12-29
 cover: https://fotos.etheriamagazine.com/2019/12/corona-catalina-ascaso.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

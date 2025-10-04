@@ -4,8 +4,8 @@ date: 2025-04-08
 cover: https://fotos.etheriamagazine.com/2025/04/Getxo-Paseo-de-las-Grandes-Villas.jpeg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

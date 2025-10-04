@@ -4,8 +4,8 @@ date: 2024-02-17
 cover: https://fotos.etheriamagazine.com/2024/02/trieste-Piazza-Unita.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Alfredo G. Reyes
 ---

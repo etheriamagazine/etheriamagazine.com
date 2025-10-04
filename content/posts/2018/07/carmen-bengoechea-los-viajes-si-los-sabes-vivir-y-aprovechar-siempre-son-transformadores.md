@@ -4,8 +4,6 @@ date: 2018-07-30
 cover: https://fotos.etheriamagazine.com/2018/07/Carmen-Bengoechea-Mujer-Etheria-2.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

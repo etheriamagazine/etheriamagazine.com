@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2024/05/mujer-viaja-sola.jpg
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

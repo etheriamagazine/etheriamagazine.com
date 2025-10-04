@@ -4,8 +4,8 @@ date: 2024-04-10
 cover: https://fotos.etheriamagazine.com/2023/12/macizo-anaga-tenerife.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

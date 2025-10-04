@@ -4,8 +4,8 @@ date: 2019-02-27
 cover: https://fotos.etheriamagazine.com/2019/02/La-Sultana-Marrakech-suite.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

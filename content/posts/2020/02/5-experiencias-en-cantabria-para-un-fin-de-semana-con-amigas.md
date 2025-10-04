@@ -4,8 +4,8 @@ date: 2020-02-17
 cover: https://fotos.etheriamagazine.com/2020/02/piscina-termal-solares.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

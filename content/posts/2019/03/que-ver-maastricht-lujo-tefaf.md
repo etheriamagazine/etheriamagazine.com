@@ -4,8 +4,8 @@ date: 2019-03-01
 cover: https://fotos.etheriamagazine.com/2019/02/Maastricht-Feria-tefaf.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

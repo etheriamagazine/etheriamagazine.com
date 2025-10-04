@@ -4,8 +4,8 @@ date: 2019-12-02
 cover: https://fotos.etheriamagazine.com/2019/11/Salzburgo-Hohen-.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Ana María Pareja
 ---

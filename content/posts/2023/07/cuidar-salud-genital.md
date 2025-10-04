@@ -4,8 +4,6 @@ date: 2023-07-05
 cover: https://fotos.etheriamagazine.com/2023/07/depilacion-playa.jpg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

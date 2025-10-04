@@ -4,8 +4,8 @@ date: 2020-05-21
 cover: https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sancti-petri-piscinas.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

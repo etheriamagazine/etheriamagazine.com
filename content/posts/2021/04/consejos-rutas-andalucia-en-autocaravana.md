@@ -4,8 +4,8 @@ date: 2021-04-07
 cover: https://fotos.etheriamagazine.com/2021/04/autocaravana-estacionar.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

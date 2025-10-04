@@ -4,8 +4,8 @@ date: 2023-01-09
 cover: https://fotos.etheriamagazine.com/2023/01/museo-valle-cristal-chequia.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

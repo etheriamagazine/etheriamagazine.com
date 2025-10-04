@@ -6,8 +6,8 @@ categories:
   - viajar-con-amigas
   - inspiración
   - guias-de-destino
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

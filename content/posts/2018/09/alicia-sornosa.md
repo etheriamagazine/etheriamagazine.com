@@ -4,8 +4,6 @@ date: 2018-09-24
 cover: https://fotos.etheriamagazine.com/2018/09/alicia-sornosa-viajera-etheria-magazine.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -4,8 +4,6 @@ date: 2019-01-09
 cover: https://fotos.etheriamagazine.com/2019/01/chequia-Tusculum-Karlovy-Vary.jpg
 categories: 
   - gourmet
-destino: 
-  - Europa
 authors: 
   - Redacción Etheria
 ---

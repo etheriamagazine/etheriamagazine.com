@@ -4,8 +4,8 @@ date: 2019-09-11
 cover: https://fotos.etheriamagazine.com/2019/09/viaje-lucca-ruta-puccini-revista-etheria.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Kelu Robles
 ---

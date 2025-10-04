@@ -4,8 +4,8 @@ date: 2019-07-17
 cover: https://fotos.etheriamagazine.com/2019/07/Croacia-makarska-riviera.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

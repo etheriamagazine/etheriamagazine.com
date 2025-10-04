@@ -4,8 +4,6 @@ date: 2025-04-15
 cover: https://fotos.etheriamagazine.com/2025/04/dulkamara-savias-bambu.jpeg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2022-02-01
 cover: https://fotos.etheriamagazine.com/2022/01/Riviera-maya-cenote-tortuga.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

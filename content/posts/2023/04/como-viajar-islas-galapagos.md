@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/04/sania-galapagos-tortuga.jpg
 categories: 
   - viajar-sola
   - historias
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

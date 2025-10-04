@@ -4,8 +4,8 @@ date: 2024-08-08
 cover: https://fotos.etheriamagazine.com/2020/03/Ericeira-surf.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Ana María Pareja
 ---

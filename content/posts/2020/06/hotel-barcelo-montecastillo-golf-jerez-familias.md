@@ -4,8 +4,8 @@ date: 2020-06-11
 cover: https://fotos.etheriamagazine.com/2020/05/Barcelo-Montecastillo-aperitivo.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

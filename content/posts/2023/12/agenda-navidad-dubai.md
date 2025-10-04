@@ -4,8 +4,8 @@ date: 2023-12-08
 cover: https://fotos.etheriamagazine.com/2023/12/dubai-navidad-madinat-jumeirah.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

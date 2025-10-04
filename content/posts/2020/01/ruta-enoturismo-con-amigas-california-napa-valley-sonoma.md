@@ -4,8 +4,8 @@ date: 2020-01-06
 cover: https://fotos.etheriamagazine.com/2019/12/bodegas-california-Francis-Ford-Coppola-Winery.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pedro Grifol
 ---

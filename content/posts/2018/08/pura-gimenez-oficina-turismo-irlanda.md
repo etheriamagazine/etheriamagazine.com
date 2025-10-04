@@ -4,8 +4,6 @@ date: 2018-08-27
 cover: https://fotos.etheriamagazine.com/2018/08/pura-gimenez-turismo-irlanda.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

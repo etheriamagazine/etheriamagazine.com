@@ -4,8 +4,8 @@ date: 2021-10-14
 cover: https://fotos.etheriamagazine.com/2021/10/comida-hotel-orango-parque.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/02/air-france-carteles-historicos.
 categories: 
   - viajar-sola
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

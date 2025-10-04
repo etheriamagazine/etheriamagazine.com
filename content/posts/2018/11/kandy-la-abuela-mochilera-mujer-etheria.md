@@ -6,8 +6,6 @@ categories:
   - viajar-sola
   - historias
   - mujeres-top
-destino: 
-  - Mundo
 authors: 
   - Pepa G. Marín
 ---

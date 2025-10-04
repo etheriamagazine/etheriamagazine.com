@@ -4,8 +4,6 @@ date: 2022-02-22
 cover: https://fotos.etheriamagazine.com/2020/03/Women-National-Geographic.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

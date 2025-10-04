@@ -4,8 +4,8 @@ date: 2024-11-13
 cover: https://fotos.etheriamagazine.com/2024/11/malaga-chiringuito-Las-palmeras.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Elisabeth G. Iborra
 ---

@@ -4,8 +4,8 @@ date: 2021-07-16
 cover: https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-portada-etheria.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Kelu Robles
 ---

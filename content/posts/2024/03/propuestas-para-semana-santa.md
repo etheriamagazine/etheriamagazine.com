@@ -4,8 +4,6 @@ date: 2024-03-04
 cover: https://fotos.etheriamagazine.com/2024/03/lago-garda-italia.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

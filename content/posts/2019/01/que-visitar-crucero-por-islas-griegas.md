@@ -4,8 +4,8 @@ date: 2019-01-03
 cover: https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-crucero-islas-griegas-Santorini-e1562660385975.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Yvonne Solé
 ---

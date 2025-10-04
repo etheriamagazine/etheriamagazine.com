@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/03/Semana-Santa-paisajes-del-valle
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

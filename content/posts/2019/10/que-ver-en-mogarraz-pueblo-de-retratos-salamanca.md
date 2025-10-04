@@ -4,8 +4,8 @@ date: 2019-10-07
 cover: https://fotos.etheriamagazine.com/2019/09/mogarraz-portada.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

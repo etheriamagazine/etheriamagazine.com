@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/07/Combat-The-Pollock-Krasner.jpg
 categories: 
   - cultura
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pilar Ortega
 ---

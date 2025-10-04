@@ -4,8 +4,8 @@ date: 2019-12-06
 cover: https://fotos.etheriamagazine.com/2019/12/caminos-pasion-priego-cordoba-8.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

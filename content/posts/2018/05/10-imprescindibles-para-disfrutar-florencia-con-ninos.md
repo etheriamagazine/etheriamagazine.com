@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/05/11-FLORENCIA-CON-NINOS-GALERIA-
 categories: 
   - viajar-en-familia
   - inspiración
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

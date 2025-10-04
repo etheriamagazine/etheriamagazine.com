@@ -4,8 +4,8 @@ date: 2021-07-13
 cover: https://fotos.etheriamagazine.com/2021/07/mujeres-campo-girasoles.jpg
 categories: 
   - bienestar
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Maria Miret
 ---

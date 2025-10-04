@@ -4,8 +4,8 @@ date: 2024-08-07
 cover: https://fotos.etheriamagazine.com/2024/07/Grotta-Giusti-Thermal-Spa-Resort-gruta.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

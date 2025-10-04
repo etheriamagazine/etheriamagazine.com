@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/12/carnaval-vijanera-silio-cantabr
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - España
 authors: 
   - Juan Carlos y Mar
 ---

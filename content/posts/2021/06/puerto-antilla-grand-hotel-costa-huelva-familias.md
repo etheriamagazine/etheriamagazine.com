@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/06/puerto-antilla-grand-hotel-noch
 categories: 
   - viajar-en-familia
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

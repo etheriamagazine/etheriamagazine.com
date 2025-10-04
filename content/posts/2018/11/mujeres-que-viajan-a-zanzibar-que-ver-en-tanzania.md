@@ -4,8 +4,8 @@ date: 2018-11-30
 cover: https://fotos.etheriamagazine.com/2018/11/Zanzibar-david-santiago-etheria-magazine-4-e1655220104190.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Ana Vara y David Santiago
 ---

@@ -4,8 +4,6 @@ date: 2020-09-03
 cover: https://fotos.etheriamagazine.com/2020/08/picnic-mantel.jpg
 categories: 
   - compras
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2020-12-01
 cover: https://fotos.etheriamagazine.com/2020/11/restaurante-jose-maria-Cochinillo.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Rafael de Rojas
 ---

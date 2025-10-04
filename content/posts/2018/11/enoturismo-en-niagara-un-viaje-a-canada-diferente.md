@@ -4,8 +4,8 @@ date: 2018-11-20
 cover: https://fotos.etheriamagazine.com/2018/11/icewinebar-Wineries-of-Niagara-on-the-Lake.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Eva Madruga
 ---

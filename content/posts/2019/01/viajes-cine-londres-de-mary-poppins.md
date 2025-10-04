@@ -4,8 +4,8 @@ date: 2019-01-22
 cover: https://fotos.etheriamagazine.com/2019/01/viajes-cine-regreso-mary-poppins.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Eva Madruga
 ---

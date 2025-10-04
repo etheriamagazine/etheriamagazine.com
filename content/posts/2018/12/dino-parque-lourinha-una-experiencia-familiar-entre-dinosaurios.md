@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/12/Dinoparque-lourinha-viajes-fami
 categories: 
   - viajar-en-familia
   - ocio
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

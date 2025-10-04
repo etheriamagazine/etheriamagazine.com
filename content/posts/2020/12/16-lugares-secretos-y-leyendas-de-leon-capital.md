@@ -4,8 +4,8 @@ date: 2020-12-16
 cover: https://fotos.etheriamagazine.com/2020/12/Leon-catedral-interior.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/06/Cristine-bedfor-terraza.jpg
 categories: 
   - viajar-en-pareja
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

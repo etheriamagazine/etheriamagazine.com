@@ -4,8 +4,8 @@ date: 2023-02-03
 cover: https://fotos.etheriamagazine.com/2023/01/sania-chiloe-palafitos.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

@@ -4,8 +4,8 @@ date: 2023-03-03
 cover: https://fotos.etheriamagazine.com/2023/03/Ibiza-Playa-SEstañol-columpio.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

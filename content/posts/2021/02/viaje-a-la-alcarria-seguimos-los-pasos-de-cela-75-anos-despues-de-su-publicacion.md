@@ -4,8 +4,8 @@ date: 2021-02-01
 cover: https://fotos.etheriamagazine.com/2021/01/viaje-alcarria-cela-Brihuega.jpg
 categories: 
   - excursiones
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

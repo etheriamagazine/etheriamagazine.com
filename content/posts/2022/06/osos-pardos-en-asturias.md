@@ -4,8 +4,8 @@ date: 2022-06-07
 cover: https://fotos.etheriamagazine.com/2022/06/Oso-pardo-asturias.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

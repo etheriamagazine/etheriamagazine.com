@@ -4,8 +4,8 @@ date: 2020-10-14
 cover: https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-interior.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kris Ubach
 ---

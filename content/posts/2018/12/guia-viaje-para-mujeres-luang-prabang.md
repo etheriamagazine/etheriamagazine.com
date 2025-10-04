@@ -4,8 +4,8 @@ date: 2018-12-17
 cover: https://fotos.etheriamagazine.com/2022/02/viajes-novios-originales-Luang-Prabang-palacio-real.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Elisabeth G. Iborra
 ---

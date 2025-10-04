@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/11/Bostsuana-viaje-fauna-africa-e1
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

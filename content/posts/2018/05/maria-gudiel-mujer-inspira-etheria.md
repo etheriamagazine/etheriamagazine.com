@@ -4,8 +4,6 @@ date: 2018-05-21
 cover: https://fotos.etheriamagazine.com/2018/05/Maria-Gudiel-1.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

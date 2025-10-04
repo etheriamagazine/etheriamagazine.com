@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/11/budapest-hotel-dorothea-hall.jp
 categories: 
   - viajes-de-lujo
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

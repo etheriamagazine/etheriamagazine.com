@@ -4,8 +4,8 @@ date: 2019-04-26
 cover: https://fotos.etheriamagazine.com/2019/04/Mendoza-bodega-Cruzat.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Elisabeth G. Iborra
 ---

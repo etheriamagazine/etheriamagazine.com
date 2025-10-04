@@ -6,8 +6,6 @@ categories:
   - viajar-sola
   - inspiración
   - ocio
-destino: 
-  - España
 authors: 
   - Elisabeth G. Iborra
 ---

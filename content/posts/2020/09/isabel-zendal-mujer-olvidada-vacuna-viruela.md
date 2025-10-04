@@ -4,8 +4,6 @@ date: 2020-09-21
 cover: https://fotos.etheriamagazine.com/2020/09/vacuna-viruela-isabel-zendal.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Manena Munar
 ---

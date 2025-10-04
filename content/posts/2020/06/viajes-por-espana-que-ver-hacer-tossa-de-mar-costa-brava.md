@@ -4,8 +4,8 @@ date: 2020-06-24
 cover: https://fotos.etheriamagazine.com/2020/06/costa-brava-tossa-mar.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

@@ -4,8 +4,8 @@ date: 2020-12-29
 cover: https://fotos.etheriamagazine.com/2020/12/restaurante-botanic-palma-mallorca.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

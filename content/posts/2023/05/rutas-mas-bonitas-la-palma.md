@@ -4,8 +4,8 @@ date: 2023-05-24
 cover: https://fotos.etheriamagazine.com/2023/05/etheria-la-palma.jpg
 categories: 
   - excursiones
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

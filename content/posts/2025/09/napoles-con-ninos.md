@@ -4,8 +4,8 @@ date: 2025-09-11
 cover: https://fotos.etheriamagazine.com/2025/09/napoles-barrio-espanol-mural-maradona.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

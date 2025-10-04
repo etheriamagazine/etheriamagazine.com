@@ -4,8 +4,8 @@ date: 2018-06-16
 cover: https://fotos.etheriamagazine.com/2018/05/9-Playa-mar-de-Andaman-e1560153714626.jpg
 categories: 
   - inspiración
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

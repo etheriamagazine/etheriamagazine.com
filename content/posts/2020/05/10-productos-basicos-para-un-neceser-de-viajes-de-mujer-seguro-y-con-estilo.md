@@ -4,8 +4,6 @@ date: 2020-05-25
 cover: https://fotos.etheriamagazine.com/2020/05/neceser-de-viaje-mujer.jpg
 categories: 
   - compras
-destino: 
-  - Europa
 authors: 
   - Rebeca Ávila
 ---

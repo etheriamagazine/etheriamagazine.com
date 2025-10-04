@@ -4,8 +4,8 @@ date: 2021-02-05
 cover: https://fotos.etheriamagazine.com/2021/01/cala-conil-frailecillo.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

@@ -4,8 +4,8 @@ date: 2018-09-11
 cover: https://fotos.etheriamagazine.com/2018/09/aveiro-moliceiro-portugal-e1556956577209.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Kelu Robles
 ---

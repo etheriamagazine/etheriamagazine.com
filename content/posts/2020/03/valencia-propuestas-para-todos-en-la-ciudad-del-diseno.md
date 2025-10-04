@@ -4,8 +4,8 @@ date: 2020-03-26
 cover: https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-valencia-dolores-cortes.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Manena Munar
 ---

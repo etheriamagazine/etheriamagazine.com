@@ -4,8 +4,8 @@ date: 2022-07-01
 cover: https://fotos.etheriamagazine.com/2022/06/Lisboa-opera-baile-mascaras.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

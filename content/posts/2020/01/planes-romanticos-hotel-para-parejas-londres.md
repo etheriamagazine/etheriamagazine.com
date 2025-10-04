@@ -6,8 +6,8 @@ categories:
   - viajar-en-pareja
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Ana María Pareja
 ---

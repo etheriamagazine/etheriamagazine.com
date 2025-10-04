@@ -4,8 +4,8 @@ date: 2020-10-05
 cover: https://fotos.etheriamagazine.com/2020/09/nacedero-urederra-navarra.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

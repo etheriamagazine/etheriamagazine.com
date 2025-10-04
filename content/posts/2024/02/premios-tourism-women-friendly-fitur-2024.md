@@ -4,8 +4,6 @@ date: 2024-02-06
 cover: https://fotos.etheriamagazine.com/2024/02/premio-women-tourism-friendly-2024-etheria.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

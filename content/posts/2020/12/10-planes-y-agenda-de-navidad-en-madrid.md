@@ -4,8 +4,8 @@ date: 2020-12-07
 cover: https://fotos.etheriamagazine.com/2020/12/Madrid-navidad-gran-via-autobus.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

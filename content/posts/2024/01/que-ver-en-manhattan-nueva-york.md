@@ -4,8 +4,8 @@ date: 2024-01-11
 cover: https://fotos.etheriamagazine.com/2024/01/manhattan-ferry.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

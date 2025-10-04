@@ -4,8 +4,8 @@ date: 2025-02-22
 cover: https://fotos.etheriamagazine.com/2020/01/agrupacion-carnaval.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Alfredo G. Reyes
 ---

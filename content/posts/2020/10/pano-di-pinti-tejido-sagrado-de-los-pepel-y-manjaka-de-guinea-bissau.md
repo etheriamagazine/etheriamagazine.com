@@ -4,8 +4,8 @@ date: 2020-10-15
 cover: https://fotos.etheriamagazine.com/2020/10/telares-etnias-guinea-bissau.jpg
 categories: 
   - compras
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

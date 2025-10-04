@@ -4,8 +4,8 @@ date: 2022-08-31
 cover: https://fotos.etheriamagazine.com/2022/08/alicante-castillo-santa-barbara.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

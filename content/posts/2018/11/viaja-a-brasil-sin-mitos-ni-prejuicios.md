@@ -4,8 +4,8 @@ date: 2018-11-26
 cover: https://fotos.etheriamagazine.com/2018/11/Brasil-cristo-redentor.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Elisabeth G. Iborra
 ---

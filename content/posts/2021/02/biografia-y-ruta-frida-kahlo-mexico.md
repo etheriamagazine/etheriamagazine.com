@@ -4,8 +4,6 @@ date: 2021-02-15
 cover: https://fotos.etheriamagazine.com/2021/02/apertura-frida-kahlo.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pilar Ortega
 ---

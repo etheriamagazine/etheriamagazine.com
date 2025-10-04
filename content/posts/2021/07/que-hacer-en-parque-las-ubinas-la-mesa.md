@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/07/capilla-santa-maria-bermiego.jp
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

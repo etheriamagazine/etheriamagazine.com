@@ -4,8 +4,8 @@ date: 2023-12-30
 cover: https://fotos.etheriamagazine.com/2023/12/irlanda-isla-Garinish.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

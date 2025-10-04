@@ -4,8 +4,8 @@ date: 2019-03-28
 cover: https://fotos.etheriamagazine.com/2019/03/Restaurante-Maaemo-e1552995165298.jpg
 categories: 
   - gourmet
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Alfredo G. Reyes
 ---

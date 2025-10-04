@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/07/Setenil-cuevas-sombra.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

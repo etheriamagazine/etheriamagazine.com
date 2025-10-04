@@ -4,8 +4,8 @@ date: 2022-01-03
 cover: https://fotos.etheriamagazine.com/2020/07/Cuba-valle-ingenios.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Manena Munar
 ---

@@ -4,8 +4,8 @@ date: 2018-12-11
 cover: https://fotos.etheriamagazine.com/2018/12/republica-checa-viajes-mujeres-etheria-1.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Juan Carlos y Mar
 ---

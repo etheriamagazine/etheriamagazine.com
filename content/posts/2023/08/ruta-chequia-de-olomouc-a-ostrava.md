@@ -4,8 +4,8 @@ date: 2023-08-25
 cover: https://fotos.etheriamagazine.com/2023/08/stramberk-pueblo-chequia.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

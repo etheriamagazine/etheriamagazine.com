@@ -4,8 +4,8 @@ date: 2018-08-02
 cover: https://fotos.etheriamagazine.com/2018/07/Riquewihr-viñedos-e1557596568371.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

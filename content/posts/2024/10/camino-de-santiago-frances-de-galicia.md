@@ -4,8 +4,8 @@ date: 2024-10-18
 cover: https://fotos.etheriamagazine.com/2024/10/peregrino-pedrafita.jpg
 categories: 
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

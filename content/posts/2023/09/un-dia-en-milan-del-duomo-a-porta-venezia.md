@@ -4,8 +4,8 @@ date: 2023-09-29
 cover: https://fotos.etheriamagazine.com/2023/09/Milan-Liberty-Quartier-Casa-Galimbert.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

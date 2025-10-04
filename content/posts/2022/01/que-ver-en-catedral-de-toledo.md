@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/01/Catedral-toledo-atardecer.jpg
 categories: 
   - excursiones
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

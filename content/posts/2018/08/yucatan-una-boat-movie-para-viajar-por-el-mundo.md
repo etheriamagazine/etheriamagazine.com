@@ -4,8 +4,6 @@ date: 2018-08-30
 cover: https://fotos.etheriamagazine.com/2018/08/yucatan-luis-tosar-pelicula-crucero.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Eva Madruga
 ---

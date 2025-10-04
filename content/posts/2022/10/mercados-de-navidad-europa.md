@@ -4,8 +4,8 @@ date: 2022-10-21
 cover: https://fotos.etheriamagazine.com/2022/10/Navidad-Salzburgo-mercadillo-navidad-catedral.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,6 @@ date: 2022-09-01
 cover: https://fotos.etheriamagazine.com/2022/09/playa-cocles-gandoca.jpg
 categories: 
   - sorteos
-destino: 
-  - Mundo
 authors: 
   - Etheria Magazine
 ---

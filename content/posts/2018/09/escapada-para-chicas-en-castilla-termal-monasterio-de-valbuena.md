@@ -6,8 +6,8 @@ categories:
   - viajar-con-amigas
   - bienestar
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

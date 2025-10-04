@@ -4,8 +4,8 @@ date: 2020-04-15
 cover: https://fotos.etheriamagazine.com/2020/04/playa-ses-illetes-formentera.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Nuria Cortés
 ---

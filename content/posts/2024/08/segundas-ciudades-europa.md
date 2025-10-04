@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/09/segundas-ciudades-europa-veneci
 categories: 
   - viajar-con-amigas
   - inspiración
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

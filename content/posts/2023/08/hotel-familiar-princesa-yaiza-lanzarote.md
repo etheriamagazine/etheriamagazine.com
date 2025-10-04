@@ -4,8 +4,8 @@ date: 2023-08-04
 cover: https://fotos.etheriamagazine.com/2023/07/hotel-princesa-yaiza-playa-blanca.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

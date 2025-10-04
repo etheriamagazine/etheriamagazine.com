@@ -4,8 +4,8 @@ date: 2019-05-01
 cover: https://fotos.etheriamagazine.com/2019/04/Camino-Santiago-La-Rioja-Santo-Domingo.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Carmen Bengoechea
 ---

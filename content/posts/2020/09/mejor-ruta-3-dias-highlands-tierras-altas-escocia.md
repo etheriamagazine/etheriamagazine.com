@@ -4,8 +4,8 @@ date: 2020-09-10
 cover: https://fotos.etheriamagazine.com/2020/12/castillo-kilchurn-escocia.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Nuria Cortés
 ---

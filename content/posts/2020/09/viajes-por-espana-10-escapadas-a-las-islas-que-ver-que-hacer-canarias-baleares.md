@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/04/playa-ses-illetes-formentera.jp
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2020-08-24
 cover: https://fotos.etheriamagazine.com/2020/08/san-juan-luz-francia.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

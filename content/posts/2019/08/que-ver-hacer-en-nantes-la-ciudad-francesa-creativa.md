@@ -4,8 +4,8 @@ date: 2019-08-29
 cover: https://fotos.etheriamagazine.com/2019/08/viaje-nantes-elefante.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pilar Ortega
 ---

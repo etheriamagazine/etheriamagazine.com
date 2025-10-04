@@ -4,8 +4,8 @@ date: 2018-10-31
 cover: https://fotos.etheriamagazine.com/2018/10/Roma-hotel-de-russie-the-corner-e1552812919707.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Macarena Escrivá
 ---

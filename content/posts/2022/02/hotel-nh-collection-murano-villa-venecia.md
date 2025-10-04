@@ -4,8 +4,8 @@ date: 2022-02-16
 cover: https://fotos.etheriamagazine.com/2022/02/NH_collection-murano-villa-terraza.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

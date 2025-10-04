@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2025/03/portada-libros-feministas.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - Europa
 authors: 
   - Pepa G. Marín
 ---

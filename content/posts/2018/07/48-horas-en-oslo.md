@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/04/1-Mujeres-Viajeras-en-Oslo-e156
 categories: 
   - viajar-sola
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

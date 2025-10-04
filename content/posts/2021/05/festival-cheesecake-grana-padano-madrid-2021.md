@@ -4,8 +4,6 @@ date: 2021-05-01
 cover: https://fotos.etheriamagazine.com/2021/04/festival-cheesecake-madrid.jpg
 categories: 
   - gourmet
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

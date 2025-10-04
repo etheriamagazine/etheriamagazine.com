@@ -4,8 +4,8 @@ date: 2019-11-15
 cover: https://fotos.etheriamagazine.com/2019/11/Pamplona-Plaza-del-Castillo.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Elisabeth G. Iborra
 ---

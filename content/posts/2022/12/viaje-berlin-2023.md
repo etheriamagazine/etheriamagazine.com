@@ -4,8 +4,8 @@ date: 2022-12-07
 cover: https://fotos.etheriamagazine.com/2022/12/berlin-atardecer.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

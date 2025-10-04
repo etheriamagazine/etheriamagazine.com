@@ -4,8 +4,8 @@ date: 2022-09-30
 cover: https://fotos.etheriamagazine.com/2022/09/granada-parque-Sierra-Nevada.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

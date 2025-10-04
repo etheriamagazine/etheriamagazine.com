@@ -4,8 +4,8 @@ date: 2018-10-06
 cover: https://fotos.etheriamagazine.com/2018/09/museo-nemo-tesla-e1669709939123.jpg
 categories: 
   - cultura
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

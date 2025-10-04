@@ -4,8 +4,8 @@ date: 2019-09-27
 cover: https://fotos.etheriamagazine.com/2019/09/acacias-Deadvlei-7.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Juan Carlos y Mar
 ---

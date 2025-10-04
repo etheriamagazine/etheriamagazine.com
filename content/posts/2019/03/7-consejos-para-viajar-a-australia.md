@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/02/australia-viaje-surf.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Cristina R. Bareño
 ---

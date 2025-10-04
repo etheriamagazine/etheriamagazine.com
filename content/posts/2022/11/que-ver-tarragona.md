@@ -4,8 +4,8 @@ date: 2022-11-23
 cover: https://fotos.etheriamagazine.com/2022/11/tarragona-delta-del-Ebro.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/10/viaje-japon-Soba-y-tempura.jpg
 categories: 
   - viajar-sola
   - gourmet
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Macarena Escrivá
 ---

@@ -6,8 +6,6 @@ categories:
   - cultura
   - mujeres-top
   - ocio
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -4,8 +4,8 @@ date: 2023-03-30
 cover: https://fotos.etheriamagazine.com/2023/03/Restaurante-Tamarises-Izarra.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

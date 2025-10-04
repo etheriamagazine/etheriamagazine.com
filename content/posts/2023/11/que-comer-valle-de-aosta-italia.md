@@ -4,8 +4,8 @@ date: 2023-11-08
 cover: https://fotos.etheriamagazine.com/2023/10/valle-de-aosta-queso-Fontina.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

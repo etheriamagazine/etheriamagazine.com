@@ -4,8 +4,6 @@ date: 2024-07-31
 cover: https://fotos.etheriamagazine.com/2024/07/Benicassim-Belle-epoque-puesto.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

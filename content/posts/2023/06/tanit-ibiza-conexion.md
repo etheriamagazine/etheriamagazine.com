@@ -4,8 +4,6 @@ date: 2023-06-02
 cover: https://fotos.etheriamagazine.com/2023/05/Tanit-fundadoras.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Susana García
 ---

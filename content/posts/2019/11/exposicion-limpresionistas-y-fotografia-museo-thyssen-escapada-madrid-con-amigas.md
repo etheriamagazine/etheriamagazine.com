@@ -4,8 +4,6 @@ date: 2019-11-02
 cover: https://fotos.etheriamagazine.com/2019/10/exposicion-impresionistas-fotografia-personas-paisaje.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Susana García
 ---

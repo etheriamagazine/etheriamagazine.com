@@ -4,8 +4,8 @@ date: 2023-08-18
 cover: https://fotos.etheriamagazine.com/2023/08/tranvia-lisboa.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

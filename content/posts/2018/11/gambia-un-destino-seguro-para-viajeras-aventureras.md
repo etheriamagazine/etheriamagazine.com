@@ -4,8 +4,8 @@ date: 2018-11-07
 cover: https://fotos.etheriamagazine.com/2018/10/viaje-gambia-La-cocina-de-Ida-Cham-e1563899251767.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pedro Grifol
 ---

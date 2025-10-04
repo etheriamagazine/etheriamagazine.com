@@ -4,8 +4,8 @@ date: 2019-07-23
 cover: https://fotos.etheriamagazine.com/2019/07/viaje-bali-tanah-lot.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Elena Ortega
 ---

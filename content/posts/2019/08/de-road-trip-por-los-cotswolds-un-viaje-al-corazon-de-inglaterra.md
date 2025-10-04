@@ -4,8 +4,8 @@ date: 2019-08-08
 cover: https://fotos.etheriamagazine.com/2019/06/viaje-mujeres-cotswolds.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Elena Ortega
 ---

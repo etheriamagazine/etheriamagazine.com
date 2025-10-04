@@ -4,8 +4,8 @@ date: 2019-03-12
 cover: https://fotos.etheriamagazine.com/2019/03/Barcelona-bicing-en-el-gotico.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Yvonne Solé
 ---

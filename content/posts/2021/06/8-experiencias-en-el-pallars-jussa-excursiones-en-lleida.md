@@ -4,8 +4,8 @@ date: 2021-06-09
 cover: https://fotos.etheriamagazine.com/2021/06/ruta-embalse-centelles.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

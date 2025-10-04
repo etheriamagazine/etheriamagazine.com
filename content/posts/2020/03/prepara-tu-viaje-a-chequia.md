@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/03/preparar-viaje-chequia.jpg
 categories: 
   - inspiración
   - cultura
-destino: 
-  - Europa
 authors: 
   - Redacción Etheria
 ---

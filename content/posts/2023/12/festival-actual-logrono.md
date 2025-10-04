@@ -4,8 +4,6 @@ date: 2023-12-14
 cover: https://fotos.etheriamagazine.com/2023/12/festival-actual-Chica-Sobresalto.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

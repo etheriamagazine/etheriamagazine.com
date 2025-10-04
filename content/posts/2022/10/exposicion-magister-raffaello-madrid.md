@@ -4,8 +4,6 @@ date: 2022-10-31
 cover: https://fotos.etheriamagazine.com/2022/10/Rafael-exposicion-madrid.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

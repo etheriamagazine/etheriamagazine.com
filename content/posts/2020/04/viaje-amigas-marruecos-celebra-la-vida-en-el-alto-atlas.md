@@ -4,8 +4,8 @@ date: 2020-04-08
 cover: https://fotos.etheriamagazine.com/2020/04/ruta-mujeres-marruecos.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Kelu Robles
 ---

@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/01/lola-montez-ludwig-bavaria.jpg
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pilar Ortega
 ---

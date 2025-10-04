@@ -4,8 +4,8 @@ date: 2019-05-22
 cover: https://fotos.etheriamagazine.com/2019/05/Chipre-Kourion.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Mundo
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

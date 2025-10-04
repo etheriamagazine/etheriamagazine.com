@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/03/cortijo-bravo-malaga.jpg
 categories: 
   - viajar-con-amigas
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Rosa Marqués
 ---

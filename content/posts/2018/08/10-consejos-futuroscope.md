@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/08/Futuroscope-panoramica.jpg
 categories: 
   - viajar-en-familia
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

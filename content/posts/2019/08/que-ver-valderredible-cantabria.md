@@ -4,8 +4,8 @@ date: 2019-08-26
 cover: https://fotos.etheriamagazine.com/2019/08/Roble-valderredible-cantabria-e1565602301535.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

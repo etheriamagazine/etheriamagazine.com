@@ -4,8 +4,6 @@ date: 2021-03-15
 cover: https://fotos.etheriamagazine.com/2021/03/mujeres-con-endometriosis.jpg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

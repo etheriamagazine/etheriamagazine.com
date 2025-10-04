@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/12/pelicula-foodie-love.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

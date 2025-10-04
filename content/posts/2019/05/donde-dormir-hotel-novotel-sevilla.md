@@ -4,8 +4,8 @@ date: 2019-05-09
 cover: https://fotos.etheriamagazine.com/2019/05/lobby-novotel-sevilla.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

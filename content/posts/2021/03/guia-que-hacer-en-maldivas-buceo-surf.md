@@ -4,8 +4,8 @@ date: 2021-03-23
 cover: https://fotos.etheriamagazine.com/2018/10/Maldivas-playa.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Kris Ubach
 ---

@@ -4,8 +4,8 @@ date: 2020-08-13
 cover: https://fotos.etheriamagazine.com/2020/08/Sibenik-detalles-puertas-centro-historico.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

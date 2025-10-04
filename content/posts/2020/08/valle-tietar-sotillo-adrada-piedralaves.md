@@ -4,8 +4,8 @@ date: 2020-08-19
 cover: https://fotos.etheriamagazine.com/2020/08/castillo-adrada.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Paloma Herce
 ---

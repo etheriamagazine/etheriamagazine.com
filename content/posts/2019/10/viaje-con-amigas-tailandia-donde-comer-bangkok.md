@@ -4,8 +4,8 @@ date: 2019-10-23
 cover: https://fotos.etheriamagazine.com/2019/10/viaje-amigas-tailandia-Coctel-en-Vertigo-Moon-Bar.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pedro Grifol
 ---

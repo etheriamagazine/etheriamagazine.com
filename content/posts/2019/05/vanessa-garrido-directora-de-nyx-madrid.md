@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/05/Vanessa-Garrido-Hotel-Nyx-Madri
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

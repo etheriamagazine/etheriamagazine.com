@@ -4,8 +4,8 @@ date: 2018-09-25
 cover: https://fotos.etheriamagazine.com/2018/09/Lot-Sixty-One-Kinkerstraat-Koen-Smilde-Photography-Rechtenvrij.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Cristina R. Bareño
 ---

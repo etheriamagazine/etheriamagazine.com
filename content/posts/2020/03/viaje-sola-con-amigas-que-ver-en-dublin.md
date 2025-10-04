@@ -4,8 +4,8 @@ date: 2020-03-09
 cover: https://fotos.etheriamagazine.com/2020/02/Temple-Bar-Dublin-1.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

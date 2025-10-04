@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/06/extremadura-Las-Hurdes.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

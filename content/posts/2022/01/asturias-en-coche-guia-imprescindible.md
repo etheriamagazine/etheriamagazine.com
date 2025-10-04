@@ -4,8 +4,8 @@ date: 2022-01-17
 cover: https://fotos.etheriamagazine.com/2022/01/playa-Torimbia.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Yolanda Cardo
 ---

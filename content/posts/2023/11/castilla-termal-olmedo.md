@@ -4,8 +4,8 @@ date: 2023-11-25
 cover: https://fotos.etheriamagazine.com/2023/11/castilla-termal-olmedo-patio-mudejar.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

@@ -4,8 +4,6 @@ date: 2018-05-28
 cover: https://fotos.etheriamagazine.com/2018/05/CARTEL_caras_y_lugares.jpg
 categories: 
   - inspiración
-destino: 
-  - Europa
 authors: 
   - Eva Madruga
 ---

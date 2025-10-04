@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/11/brunch-madrid.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

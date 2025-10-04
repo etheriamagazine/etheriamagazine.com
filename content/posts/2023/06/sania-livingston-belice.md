@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/06/sania-belice-buceo.jpg
 categories: 
   - viajar-sola
   - mujeres-top
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

@@ -4,8 +4,8 @@ date: 2020-01-03
 cover: https://fotos.etheriamagazine.com/2019/12/etheria-magazine-pabellon-vendome.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Yolanda Cardo
 ---

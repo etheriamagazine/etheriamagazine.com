@@ -4,8 +4,6 @@ date: 2021-02-11
 cover: https://fotos.etheriamagazine.com/2021/02/3-Caminos-serie-amazon.jpg
 categories: 
   - inspiración
-destino: 
-  - Europa
 authors: 
   - Eva Madruga
 ---

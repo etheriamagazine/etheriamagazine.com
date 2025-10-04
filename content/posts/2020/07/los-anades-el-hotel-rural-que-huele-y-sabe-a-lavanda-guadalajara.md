@@ -4,8 +4,8 @@ date: 2020-07-09
 cover: https://fotos.etheriamagazine.com/2020/07/lavanda-los-anades-guadalajara.jpeg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

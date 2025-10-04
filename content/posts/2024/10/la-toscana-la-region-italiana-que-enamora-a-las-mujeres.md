@@ -4,8 +4,8 @@ date: 2024-10-24
 cover: https://fotos.etheriamagazine.com/2024/10/toscana-Crete-Senesi.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

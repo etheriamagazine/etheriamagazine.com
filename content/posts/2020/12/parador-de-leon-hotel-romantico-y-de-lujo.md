@@ -4,8 +4,8 @@ date: 2020-12-22
 cover: https://fotos.etheriamagazine.com/2020/12/Parador-leon-fachada.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

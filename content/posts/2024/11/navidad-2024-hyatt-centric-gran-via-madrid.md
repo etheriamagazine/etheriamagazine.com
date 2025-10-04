@@ -4,8 +4,8 @@ date: 2024-11-25
 cover: https://fotos.etheriamagazine.com/2024/11/Hyatt-navidad-2024-Pintada-asada.jpeg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

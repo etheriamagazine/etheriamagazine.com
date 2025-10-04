@@ -4,8 +4,6 @@ date: 2024-05-29
 cover: https://fotos.etheriamagazine.com/2024/05/Lomo-saltado-cocina-peruana.jpg
 categories: 
   - hemeroteca
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

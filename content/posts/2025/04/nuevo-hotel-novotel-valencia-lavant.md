@@ -4,8 +4,8 @@ date: 2025-04-12
 cover: https://fotos.etheriamagazine.com/2025/04/novotel-valecia-lavant-terraza.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

@@ -4,8 +4,8 @@ date: 2023-05-15
 cover: https://fotos.etheriamagazine.com/2023/05/san-juan-gaztelugatxe-1.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

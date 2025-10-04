@@ -4,8 +4,8 @@ date: 2022-04-15
 cover: https://fotos.etheriamagazine.com/2022/04/castillo-grand-luce-suite.jpg
 categories: 
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

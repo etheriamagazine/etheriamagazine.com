@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/03/chateau-amboise-1.jpg
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

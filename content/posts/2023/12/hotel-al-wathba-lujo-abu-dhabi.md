@@ -4,8 +4,8 @@ date: 2023-12-20
 cover: https://fotos.etheriamagazine.com/2023/12/hotel-Al-Wathba-abu-dhabi-piscina.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

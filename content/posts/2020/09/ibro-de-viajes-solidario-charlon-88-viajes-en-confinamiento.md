@@ -4,8 +4,6 @@ date: 2020-09-01
 cover: https://fotos.etheriamagazine.com/2020/09/libro-88-viajes-manuel-charlon.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

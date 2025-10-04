@@ -4,8 +4,8 @@ date: 2019-11-13
 cover: https://fotos.etheriamagazine.com/2019/11/Le-domaine-Desayuno-Jardín-del-Claustro.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

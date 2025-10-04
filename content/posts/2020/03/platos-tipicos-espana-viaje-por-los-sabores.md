@@ -4,8 +4,8 @@ date: 2020-03-25
 cover: https://fotos.etheriamagazine.com/2020/03/cocinera.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

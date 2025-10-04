@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/08/gastronomia-espana-boqueria-bar
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

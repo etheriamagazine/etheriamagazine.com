@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/09/exposicion-matadero-ultimos-dia
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

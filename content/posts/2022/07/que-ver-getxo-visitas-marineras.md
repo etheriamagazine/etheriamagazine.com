@@ -4,8 +4,8 @@ date: 2022-07-20
 cover: https://fotos.etheriamagazine.com/2022/07/Puerto-Viejo-de-Algorta.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

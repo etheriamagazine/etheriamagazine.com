@@ -4,8 +4,8 @@ date: 2021-12-28
 cover: https://fotos.etheriamagazine.com/2021/12/Torre-Marques-piscina.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

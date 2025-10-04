@@ -4,8 +4,8 @@ date: 2019-12-04
 cover: https://fotos.etheriamagazine.com/2019/11/lucerna-luces-navidad.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

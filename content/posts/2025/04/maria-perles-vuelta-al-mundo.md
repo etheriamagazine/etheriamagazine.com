@@ -6,8 +6,8 @@ categories:
   - viajar-sola
   - historias
   - mujeres-top
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Firmas invitadas
 ---

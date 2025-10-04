@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/02/Tivoli-Avenida-Liberdade-Ananta
 categories: 
   - viajar-sola
   - hoteles
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/04/templos-Asia-pura-ulun-danu-bra
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

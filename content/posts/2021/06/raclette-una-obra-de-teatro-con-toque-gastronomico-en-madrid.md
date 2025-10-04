@@ -4,8 +4,6 @@ date: 2021-06-10
 cover: https://fotos.etheriamagazine.com/2021/06/elena-gonzalez-hector-gonzalez-raclette.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

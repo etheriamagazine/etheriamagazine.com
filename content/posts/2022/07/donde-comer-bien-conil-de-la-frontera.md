@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/07/venta-pericon-conil.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

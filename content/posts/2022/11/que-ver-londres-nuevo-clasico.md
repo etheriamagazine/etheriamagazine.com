@@ -4,8 +4,8 @@ date: 2022-11-10
 cover: https://fotos.etheriamagazine.com/2022/11/puente-milenio-londres.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Paloma Herce
 ---

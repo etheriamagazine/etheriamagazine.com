@@ -4,8 +4,8 @@ date: 2019-11-17
 cover: https://fotos.etheriamagazine.com/2019/11/ruta-chequia-Telon-de-Acero-de-Satov-Museo-Tecnico-de-Brno.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

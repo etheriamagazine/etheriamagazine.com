@@ -4,8 +4,8 @@ date: 2021-10-03
 cover: https://fotos.etheriamagazine.com/2021/10/puente-camino-hierro.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

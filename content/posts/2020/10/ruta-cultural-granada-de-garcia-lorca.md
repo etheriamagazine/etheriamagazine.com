@@ -4,8 +4,8 @@ date: 2020-10-07
 cover: https://fotos.etheriamagazine.com/2020/09/Granada-Lorca-museo.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

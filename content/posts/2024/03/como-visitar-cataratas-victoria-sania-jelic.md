@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/03/sania-cataratas-victoria.jpg
 categories: 
   - viajar-sola
   - mujeres-top
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

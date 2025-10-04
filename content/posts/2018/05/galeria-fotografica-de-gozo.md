@@ -4,8 +4,8 @@ date: 2018-05-17
 cover: https://fotos.etheriamagazine.com/2018/05/8-Viaje-a-Gozo-y-Malta-Viñedos.jpg
 categories: 
   - inspiración
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

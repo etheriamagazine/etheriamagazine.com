@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/10/noruega-the-twist-museo-kistefo
 categories: 
   - cultura
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

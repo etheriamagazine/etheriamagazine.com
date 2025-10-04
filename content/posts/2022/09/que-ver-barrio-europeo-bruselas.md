@@ -4,8 +4,8 @@ date: 2022-09-29
 cover: https://fotos.etheriamagazine.com/2022/09/bruselas-Edificio-Europa.jpg
 categories: 
   - inspiración
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

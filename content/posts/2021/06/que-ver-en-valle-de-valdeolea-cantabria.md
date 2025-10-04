@@ -4,8 +4,8 @@ date: 2021-06-04
 cover: https://fotos.etheriamagazine.com/2021/06/cantabria-valdeolea-menhir.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

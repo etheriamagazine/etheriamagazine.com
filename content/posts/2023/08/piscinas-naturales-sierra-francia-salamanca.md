@@ -4,8 +4,8 @@ date: 2023-08-28
 cover: https://fotos.etheriamagazine.com/2023/08/piscina-natural-montemayor-rio-salamanca.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Europa
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

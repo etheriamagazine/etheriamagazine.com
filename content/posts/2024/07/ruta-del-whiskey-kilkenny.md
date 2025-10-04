@@ -4,8 +4,8 @@ date: 2024-07-20
 cover: https://fotos.etheriamagazine.com/2024/07/Kilkenny-Arts-Festival.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

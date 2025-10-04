@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/12/capri-viajes-lujo-e157700373678
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

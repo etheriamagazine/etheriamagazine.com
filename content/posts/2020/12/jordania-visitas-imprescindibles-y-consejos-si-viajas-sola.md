@@ -4,8 +4,8 @@ date: 2020-12-18
 cover: https://fotos.etheriamagazine.com/2020/12/viajar-sola-jordania-tesoro-de-petra.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

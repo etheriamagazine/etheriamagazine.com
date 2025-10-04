@@ -4,8 +4,8 @@ date: 2020-03-19
 cover: https://fotos.etheriamagazine.com/2020/03/viaje-etheria-Collioure.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

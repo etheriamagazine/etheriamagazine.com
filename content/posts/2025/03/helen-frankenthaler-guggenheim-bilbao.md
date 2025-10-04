@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2025/03/Helen-Frankenthaler-Cassis.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

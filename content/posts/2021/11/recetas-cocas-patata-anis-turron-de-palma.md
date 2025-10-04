@@ -4,8 +4,6 @@ date: 2021-11-19
 cover: https://fotos.etheriamagazine.com/2021/11/Coca-Bamba-palma-mallorca.jpg
 categories: 
   - gourmet
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

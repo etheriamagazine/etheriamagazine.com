@@ -4,8 +4,8 @@ date: 2020-07-13
 cover: https://fotos.etheriamagazine.com/2020/06/etheria-carmona-Torre-de-la-Iglesia-de-San-Pedro-y-La-Giraldilla.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

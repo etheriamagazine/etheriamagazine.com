@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2018/09/Sofia-Casanova-Poznan.jpg
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - Europa
 authors: 
   - Manena Munar
 ---

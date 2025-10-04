@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/07/foto-ubud-arrozales-columpio.jp
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/10/elefante-amboseli-viaje-mujeres
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Juan Carlos y Mar
 ---

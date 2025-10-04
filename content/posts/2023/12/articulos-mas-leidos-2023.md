@@ -4,8 +4,6 @@ date: 2023-12-26
 cover: https://fotos.etheriamagazine.com/2023/12/viajes-2023.jpg
 categories: 
   - hemeroteca
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

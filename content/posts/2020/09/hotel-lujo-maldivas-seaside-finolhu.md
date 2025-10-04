@@ -4,8 +4,8 @@ date: 2020-09-29
 cover: https://fotos.etheriamagazine.com/2020/09/hotel-seaside-finolhu-ocean-pool-villa.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

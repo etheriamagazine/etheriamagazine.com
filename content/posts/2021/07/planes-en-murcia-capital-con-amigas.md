@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/07/Mercado-de-Correos-murcia.jpg
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Cynthia Martín
 ---

@@ -4,8 +4,6 @@ date: 2019-06-16
 cover: https://fotos.etheriamagazine.com/2019/06/gala-buena-novia-moron-almazan-vestido.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

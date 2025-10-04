@@ -4,8 +4,6 @@ date: 2018-05-11
 cover: https://fotos.etheriamagazine.com/2018/05/3-IZADI_LARROSA_2017.jpg
 categories: 
   - gourmet
-destino: 
-  - España
 authors: 
   - Vanesa Viñolo
 ---

@@ -4,8 +4,8 @@ date: 2020-06-04
 cover: https://fotos.etheriamagazine.com/2020/05/cuenca-excursion-caras-buendia.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Yolanda Cardo
 ---

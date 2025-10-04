@@ -4,8 +4,8 @@ date: 2020-11-25
 cover: https://fotos.etheriamagazine.com/2020/11/mercadillo-Pilsen-navidad.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

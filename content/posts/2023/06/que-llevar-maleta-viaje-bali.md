@@ -4,8 +4,8 @@ date: 2023-06-23
 cover: https://fotos.etheriamagazine.com/2023/06/maleta-bali-mujeres.jpg
 categories: 
   - que-llevar-en-la-maleta
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

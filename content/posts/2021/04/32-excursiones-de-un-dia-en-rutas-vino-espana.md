@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/04/Cuevas-de-la-Villa-Requena.jpg
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,6 @@ date: 2018-07-05
 cover: https://fotos.etheriamagazine.com/2018/07/Michaelina-Cortejo-de-Baco.jpg
 categories: 
   - mujeres-top
-destino: 
-  - Europa
 authors: 
   - Pedro Grifol
 ---

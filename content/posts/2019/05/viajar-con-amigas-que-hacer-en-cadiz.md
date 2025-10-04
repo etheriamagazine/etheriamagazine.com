@@ -4,8 +4,8 @@ date: 2019-05-20
 cover: https://fotos.etheriamagazine.com/2019/05/viaje-cadiz-mujer-tapada-vejer.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

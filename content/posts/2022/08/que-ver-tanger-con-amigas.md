@@ -4,8 +4,8 @@ date: 2022-08-16
 cover: https://fotos.etheriamagazine.com/2022/08/tanger-mirador-bonito.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Kelu Robles
 ---

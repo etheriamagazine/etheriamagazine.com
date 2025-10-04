@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-piscina
 categories: 
   - viajar-en-pareja
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

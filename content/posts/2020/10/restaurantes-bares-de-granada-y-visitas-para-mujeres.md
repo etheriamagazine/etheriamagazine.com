@@ -4,8 +4,8 @@ date: 2020-10-30
 cover: https://fotos.etheriamagazine.com/2020/10/plato-restaurante-farala-granada-2.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Alfredo G. Reyes
 ---

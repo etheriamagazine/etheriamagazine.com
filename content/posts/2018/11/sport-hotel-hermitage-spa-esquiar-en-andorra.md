@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/10/hermitage-exterior-invierno.jpg
 categories: 
   - bienestar
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

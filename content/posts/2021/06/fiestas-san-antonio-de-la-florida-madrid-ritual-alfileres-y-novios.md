@@ -4,8 +4,6 @@ date: 2021-06-11
 cover: https://fotos.etheriamagazine.com/2021/06/verbena-de-san-antonio-madrid.jpg
 categories: 
   - ocio
-destino: 
-  - Mundo
 authors: 
   - Carmen Pineda
 ---

@@ -4,8 +4,6 @@ date: 2020-04-03
 cover: https://fotos.etheriamagazine.com/2020/04/cocteles-colores.jpg
 categories: 
   - gourmet
-destino: 
-  - España
 authors: 
   - Pedro Grifol
 ---

@@ -4,8 +4,8 @@ date: 2020-08-05
 cover: https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoeiro-sky-bar.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

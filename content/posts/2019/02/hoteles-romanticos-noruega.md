@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/02/noruega-hoteles-romanticos-Trom
 categories: 
   - inspiración
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

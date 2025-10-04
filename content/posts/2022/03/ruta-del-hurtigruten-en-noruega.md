@@ -4,8 +4,8 @@ date: 2022-03-11
 cover: https://fotos.etheriamagazine.com/2022/02/noruega-El-Expreso-del-Litoral.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

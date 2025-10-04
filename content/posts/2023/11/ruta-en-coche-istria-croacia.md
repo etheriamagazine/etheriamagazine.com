@@ -4,8 +4,8 @@ date: 2023-11-16
 cover: https://fotos.etheriamagazine.com/2023/11/Istria-Rovinj.-Atardecer-chicas.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Alfredo G. Reyes
 ---

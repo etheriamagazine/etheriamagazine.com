@@ -4,8 +4,8 @@ date: 2021-07-19
 cover: https://fotos.etheriamagazine.com/2021/07/Playa-Torimbia-pelicula-el-abuelo.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Eva Madruga
 ---

@@ -4,8 +4,8 @@ date: 2023-03-01
 cover: https://fotos.etheriamagazine.com/2023/02/saunas-iglu.jpg
 categories: 
   - bienestar
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

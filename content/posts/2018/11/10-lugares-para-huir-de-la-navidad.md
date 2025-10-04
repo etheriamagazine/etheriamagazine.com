@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/11/playa-huir-navidad.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

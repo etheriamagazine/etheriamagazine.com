@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/12/seul-sania-palacio-pabellon-Gye
 categories: 
   - viajar-sola
   - mujeres-top
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

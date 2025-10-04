@@ -4,8 +4,6 @@ date: 2019-02-27
 cover: https://fotos.etheriamagazine.com/2019/02/Therese-sonando-Balthus-Thyssen-Madrid.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Pedro Grifol
 ---

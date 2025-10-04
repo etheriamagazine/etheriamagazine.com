@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/03/libro-joan-rica-cocina-madre.jp
 categories: 
   - gourmet
   - cultura
-destino: 
-  - España
 authors: 
   - Pilar Ortega
 ---

@@ -4,8 +4,8 @@ date: 2018-07-27
 cover: https://fotos.etheriamagazine.com/2018/07/Tolmin-eslovenia-viaje-aventura-e1578223707836.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Nuria Cortés
 ---

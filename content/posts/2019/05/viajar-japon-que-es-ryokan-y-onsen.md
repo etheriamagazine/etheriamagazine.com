@@ -7,8 +7,8 @@ categories:
   - inspiración
   - hoteles
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

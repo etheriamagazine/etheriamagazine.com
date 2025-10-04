@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/09/madrid-sin-gluten-celicioso.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Vanesa Viñolo
 ---

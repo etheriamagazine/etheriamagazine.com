@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2025/02/sania-laos-mirador.jpg
 categories: 
   - viajar-sola
   - mujeres-top
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

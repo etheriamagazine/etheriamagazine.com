@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/07/amare-beach-retrato-sole.jpg
 categories: 
   - hoteles
   - cultura
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

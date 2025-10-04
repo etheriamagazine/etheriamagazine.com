@@ -4,8 +4,8 @@ date: 2023-05-29
 cover: https://fotos.etheriamagazine.com/2023/05/getxo-water-bikers.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

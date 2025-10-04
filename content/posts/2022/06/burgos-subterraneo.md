@@ -4,8 +4,8 @@ date: 2022-06-24
 cover: https://fotos.etheriamagazine.com/2022/06/burgos-cueva-fuentemolinos.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

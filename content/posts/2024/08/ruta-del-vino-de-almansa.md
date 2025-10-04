@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/08/cooperativa-alpera-etheria.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - Mundo
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

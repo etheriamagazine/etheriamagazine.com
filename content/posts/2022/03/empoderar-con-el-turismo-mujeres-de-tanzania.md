@@ -6,8 +6,6 @@ categories:
   - historias
   - mujeres-top
   - proyectos
-destino: 
-  - Mundo
 authors: 
   - Firmas invitadas
 ---

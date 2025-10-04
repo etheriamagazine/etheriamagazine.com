@@ -6,8 +6,8 @@ categories:
   - viajar-en-familia
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Juan Carlos y Mar
 ---

@@ -4,8 +4,8 @@ date: 2021-06-05
 cover: https://fotos.etheriamagazine.com/2021/06/cabana-republica-checa.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

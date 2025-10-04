@@ -4,8 +4,8 @@ date: 2022-05-06
 cover: https://fotos.etheriamagazine.com/2022/05/Tivoli-villa-dell-este.jpg
 categories: 
   - excursiones
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

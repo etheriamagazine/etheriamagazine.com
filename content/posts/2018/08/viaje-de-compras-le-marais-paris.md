@@ -4,8 +4,8 @@ date: 2018-08-02
 cover: https://fotos.etheriamagazine.com/2018/07/compras-paris.jpg
 categories: 
   - compras
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Rebeca Ávila
 ---

@@ -4,8 +4,8 @@ date: 2019-04-18
 cover: https://fotos.etheriamagazine.com/2019/04/Uganda-Gorila-Bwindi.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pedro Grifol
 ---

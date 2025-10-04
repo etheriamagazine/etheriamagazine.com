@@ -4,8 +4,8 @@ date: 2019-05-07
 cover: https://fotos.etheriamagazine.com/2019/05/viaje-familia-Vinedos-Moravia-del-Sur-.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2020-07-01
 cover: https://fotos.etheriamagazine.com/2020/06/Huelva-playas-5.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/06/Spa-Thalassotherapy-Bahiadelduq
 categories: 
   - viajes-de-lujo
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

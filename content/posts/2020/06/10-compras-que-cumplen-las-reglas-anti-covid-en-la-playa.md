@@ -4,8 +4,6 @@ date: 2020-06-09
 cover: https://fotos.etheriamagazine.com/2020/06/complementos-playa-familia.jpg
 categories: 
   - compras
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/05/amanecer-pescaturismo.jpg
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Yolanda Cardo
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/10/maleta-viaje-india.jpg
 categories: 
   - inspiración
   - que-llevar-en-la-maleta
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Cristina R. Bareño
 ---

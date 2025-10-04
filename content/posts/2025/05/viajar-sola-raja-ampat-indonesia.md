@@ -6,8 +6,8 @@ categories:
   - viajar-sola
   - historias
   - mujeres-top
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/03/hotel-castillo-gormaiz-Exterior
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

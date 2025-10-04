@@ -4,8 +4,8 @@ date: 2020-01-20
 cover: https://fotos.etheriamagazine.com/2019/12/Valpariso-street-art-los-cerros.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Firmas invitadas
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/01/Melia-Sol-y-Nieve-Yhi-Spa.jpg
 categories: 
   - inspiración
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

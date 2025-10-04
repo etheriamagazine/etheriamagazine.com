@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/10/El-sueno-de-Franz-Marc.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Pilar Ortega
 ---

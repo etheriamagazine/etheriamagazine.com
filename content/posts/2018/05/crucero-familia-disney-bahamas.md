@@ -4,8 +4,8 @@ date: 2018-05-04
 cover: https://fotos.etheriamagazine.com/2018/05/Bahamas-Crucero-Disney-mantas-en-Castaway-Cay-e1668765531193.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

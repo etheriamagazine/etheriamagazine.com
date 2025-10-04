@@ -4,8 +4,8 @@ date: 2024-10-12
 cover: https://fotos.etheriamagazine.com/2020/07/Tudela-catedral.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Vanesa Viñolo
 ---

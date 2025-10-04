@@ -4,8 +4,8 @@ date: 2019-12-18
 cover: https://fotos.etheriamagazine.com/2019/12/mina-bellmunt-cataluna.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

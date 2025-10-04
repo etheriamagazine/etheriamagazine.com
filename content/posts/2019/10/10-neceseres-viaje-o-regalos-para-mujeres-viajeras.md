@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/10/set-natural-bath-skincare-produ
 categories: 
   - inspiración
   - que-llevar-en-la-maleta
-destino: 
-  - Europa
 authors: 
   - Redacción Etheria
 ---

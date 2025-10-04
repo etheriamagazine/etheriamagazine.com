@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/04/expediciones-museo-naval.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

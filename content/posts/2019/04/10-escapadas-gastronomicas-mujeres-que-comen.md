@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/03/escapada-gastro-asado.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

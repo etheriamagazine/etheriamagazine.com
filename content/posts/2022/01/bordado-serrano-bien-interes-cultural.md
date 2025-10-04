@@ -4,8 +4,6 @@ date: 2022-01-14
 cover: https://fotos.etheriamagazine.com/2022/01/bordado-serrano-sierra-francia-1.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

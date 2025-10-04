@@ -4,8 +4,8 @@ date: 2021-05-23
 cover: https://fotos.etheriamagazine.com/2018/05/COSTA-RICA-HOTEL-NAYARA-PISCINA.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

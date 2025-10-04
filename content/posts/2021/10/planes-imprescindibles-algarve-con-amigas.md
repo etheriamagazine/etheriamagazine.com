@@ -4,8 +4,8 @@ date: 2021-10-07
 cover: https://fotos.etheriamagazine.com/2021/10/algarve-amigas-excursiones.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

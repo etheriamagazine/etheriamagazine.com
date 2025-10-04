@@ -4,8 +4,8 @@ date: 2019-08-15
 cover: https://fotos.etheriamagazine.com/2019/07/Casas-do-coro-piscina.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

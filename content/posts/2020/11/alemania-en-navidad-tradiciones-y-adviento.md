@@ -4,8 +4,8 @@ date: 2020-11-30
 cover: https://fotos.etheriamagazine.com/2020/11/alemania-navidad-pastas.jpg
 categories: 
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

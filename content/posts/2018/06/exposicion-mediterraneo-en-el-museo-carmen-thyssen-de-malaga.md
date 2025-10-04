@@ -4,8 +4,6 @@ date: 2018-06-25
 cover: https://fotos.etheriamagazine.com/2018/06/Joaquim-Sunyer-expo-Mediterraneo.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Susana García
 ---

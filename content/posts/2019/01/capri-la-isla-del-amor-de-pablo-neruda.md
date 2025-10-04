@@ -4,8 +4,8 @@ date: 2019-01-15
 cover: https://fotos.etheriamagazine.com/2019/01/viaje-capri.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pilar Ortega
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/09/miradores-Reserva-Biosfera-La-S
 categories: 
   - viajar-en-familia
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

@@ -4,8 +4,8 @@ date: 2020-02-12
 cover: https://fotos.etheriamagazine.com/2020/02/Curaçao-laguna-Willemstad.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Ana María Pareja
 ---

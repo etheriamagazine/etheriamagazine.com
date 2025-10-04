@@ -4,8 +4,8 @@ date: 2019-09-13
 cover: https://fotos.etheriamagazine.com/2019/09/crucero-Aqua-Mekong.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Cristina R. Bareño
 ---

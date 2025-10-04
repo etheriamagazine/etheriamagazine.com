@@ -4,8 +4,8 @@ date: 2020-10-07
 cover: https://fotos.etheriamagazine.com/2020/10/etheria-laguna-sanabria-peces.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

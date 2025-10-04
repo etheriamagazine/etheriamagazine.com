@@ -4,8 +4,8 @@ date: 2018-06-04
 cover: https://fotos.etheriamagazine.com/2018/06/Noruega-Manena-Vista-general.jpg
 categories: 
   - historias
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

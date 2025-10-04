@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/12/israel-timna-park.jpg
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Elisabeth G. Iborra
 ---

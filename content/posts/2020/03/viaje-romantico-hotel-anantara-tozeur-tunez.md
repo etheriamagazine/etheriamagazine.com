@@ -4,8 +4,8 @@ date: 2020-03-27
 cover: https://fotos.etheriamagazine.com/2020/03/hotel-Anantara-Tozeur-One-Bedroom-Pool-Villa.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

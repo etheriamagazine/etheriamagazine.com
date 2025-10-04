@@ -4,8 +4,8 @@ date: 2019-02-15
 cover: https://fotos.etheriamagazine.com/2019/02/viaje-pascua-Ahu-Nao-Nao.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Pedro Grifol
 ---

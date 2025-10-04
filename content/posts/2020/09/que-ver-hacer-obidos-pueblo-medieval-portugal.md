@@ -4,8 +4,8 @@ date: 2020-09-24
 cover: https://fotos.etheriamagazine.com/2020/09/obidos-villa-medieval.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

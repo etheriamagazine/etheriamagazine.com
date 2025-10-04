@@ -4,8 +4,6 @@ date: 2023-08-11
 cover: https://fotos.etheriamagazine.com/2023/08/Bourges-pareja-francia.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
 authors: 
   - Pedro Grifol
 ---

@@ -4,8 +4,6 @@ date: 2019-01-01
 cover: https://fotos.etheriamagazine.com/2018/12/viaje-nieve-Trineos-perros.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
 authors: 
   - Cristina R. Bareño
 ---

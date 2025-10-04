@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/08/port-aventura-Mediterrania.jpg
 categories: 
   - viajar-en-familia
   - ocio
-destino: 
-  - Europa
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

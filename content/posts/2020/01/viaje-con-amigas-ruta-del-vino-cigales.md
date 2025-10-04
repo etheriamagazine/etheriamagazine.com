@@ -4,8 +4,8 @@ date: 2020-01-07
 cover: https://fotos.etheriamagazine.com/2020/01/etheria-ruta-vino-cigales-castillo-encantado.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

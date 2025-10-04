@@ -4,8 +4,8 @@ date: 2022-01-26
 cover: https://fotos.etheriamagazine.com/2022/01/SMK-museo-copenhague.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Cynthia Martín
 ---

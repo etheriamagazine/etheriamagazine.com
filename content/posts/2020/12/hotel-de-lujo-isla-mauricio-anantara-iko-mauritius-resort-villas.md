@@ -4,8 +4,8 @@ date: 2020-12-15
 cover: https://fotos.etheriamagazine.com/2020/12/Anantara-mauricio-playa.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

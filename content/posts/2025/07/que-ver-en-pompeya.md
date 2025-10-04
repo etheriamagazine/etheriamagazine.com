@@ -4,8 +4,8 @@ date: 2025-07-29
 cover: https://fotos.etheriamagazine.com/2025/07/pompeya-foro-vesubio.jpg
 categories: 
   - excursiones
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

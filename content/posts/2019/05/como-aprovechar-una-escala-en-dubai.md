@@ -6,8 +6,8 @@ categories:
   - viajar-sola
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

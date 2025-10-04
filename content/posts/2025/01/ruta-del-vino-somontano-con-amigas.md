@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2025/01/alquezar-parque-natural.jpeg
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

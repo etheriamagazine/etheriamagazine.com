@@ -4,8 +4,6 @@ date: 2025-05-06
 cover: https://fotos.etheriamagazine.com/2025/05/vinhos-da-casa-lisboa.jpeg
 categories: 
   - gourmet
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

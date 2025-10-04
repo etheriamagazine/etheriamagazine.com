@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2023/03/mujeres-nellie-bly-libro-viajer
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - Europa
 authors: 
   - Firmas invitadas
 ---

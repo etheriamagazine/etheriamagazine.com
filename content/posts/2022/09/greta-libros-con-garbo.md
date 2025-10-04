@@ -4,8 +4,6 @@ date: 2022-09-10
 cover: https://fotos.etheriamagazine.com/2022/09/patri-osuna-libros-mujeres.jpg
 categories: 
   - proyectos
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

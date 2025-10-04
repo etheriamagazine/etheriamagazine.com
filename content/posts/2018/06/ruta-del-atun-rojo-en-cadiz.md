@@ -4,8 +4,8 @@ date: 2018-06-12
 cover: https://fotos.etheriamagazine.com/2018/06/tartar-ruta-del-atun.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/03/Museo-visita-virtual-coronaviru
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2020-07-23
 cover: https://fotos.etheriamagazine.com/2020/07/rutas-auto-caravana-espana.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Rosa Marqués
 ---

@@ -6,8 +6,8 @@ categories:
   - viajar-sola
   - cultura
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Yolanda Cardo
 ---

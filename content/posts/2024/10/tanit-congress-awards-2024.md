@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2024/10/Premios-Tanit-2024.jpg
 categories: 
   - mujeres-top
   - proyectos
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

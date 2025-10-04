@@ -4,8 +4,8 @@ date: 2020-09-30
 cover: https://fotos.etheriamagazine.com/2020/09/Palencia-catedral.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Elisabeth G. Iborra
 ---

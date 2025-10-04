@@ -4,8 +4,8 @@ date: 2022-08-04
 cover: https://fotos.etheriamagazine.com/2022/08/playa-Barranco-algarve.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

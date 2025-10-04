@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/04/sania-ruanda-kawali-costureras.
 categories: 
   - viajar-sola
   - mujeres-top
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

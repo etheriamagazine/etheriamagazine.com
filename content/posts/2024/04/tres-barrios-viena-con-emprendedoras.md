@@ -6,8 +6,8 @@ categories:
   - viajar-con-amigas
   - historias
   - mujeres-top
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Yolanda Cardo
 ---

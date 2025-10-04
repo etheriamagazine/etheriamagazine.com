@@ -4,8 +4,6 @@ date: 2024-07-12
 cover: https://fotos.etheriamagazine.com/2024/07/Belgian-Beer-Weekend-2024.jpg
 categories: 
   - hemeroteca
-destino: 
-  - Europa
 authors: 
   - Redacción Etheria
 ---

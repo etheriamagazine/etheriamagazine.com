@@ -4,8 +4,8 @@ date: 2020-09-28
 cover: https://fotos.etheriamagazine.com/2020/09/viaje-Sevilla-en-bici.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

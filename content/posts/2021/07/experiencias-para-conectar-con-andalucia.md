@@ -4,8 +4,8 @@ date: 2021-07-16
 cover: https://fotos.etheriamagazine.com/2021/07/paseo-caballo-el-palmar.jpg
 categories: 
   - ocio
-destino: 
-  - Europa
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

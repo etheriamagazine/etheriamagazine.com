@@ -4,8 +4,8 @@ date: 2023-11-14
 cover: https://fotos.etheriamagazine.com/2023/11/Bodega-Montepedroso.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

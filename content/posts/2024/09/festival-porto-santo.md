@@ -4,8 +4,8 @@ date: 2024-09-06
 cover: https://fotos.etheriamagazine.com/2024/09/festival-porto-santo-circo.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

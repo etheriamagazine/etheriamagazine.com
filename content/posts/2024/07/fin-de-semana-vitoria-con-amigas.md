@@ -4,8 +4,8 @@ date: 2024-07-10
 cover: https://fotos.etheriamagazine.com/2024/07/vitoria-plaza-machete-mujer.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

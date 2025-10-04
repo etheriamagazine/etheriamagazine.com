@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/03/Planes-flandes-paseo-barca-bruj
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

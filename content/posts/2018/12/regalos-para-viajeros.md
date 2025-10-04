@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2018/12/regalos-navidad.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
 authors: 
   - Susana García
 ---

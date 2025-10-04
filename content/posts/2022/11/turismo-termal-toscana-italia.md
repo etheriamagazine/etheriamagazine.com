@@ -4,8 +4,8 @@ date: 2022-11-03
 cover: https://fotos.etheriamagazine.com/2022/10/Toscana-terme-sensoriali-di-Chianciano.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

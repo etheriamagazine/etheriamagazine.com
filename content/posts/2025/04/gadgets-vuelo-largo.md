@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2025/03/vuelos-larga-distancia-mujer.jp
 categories: 
   - compras
   - que-llevar-en-la-maleta
-destino: 
-  - España
+tags: 
+  - ""
 authors: 
   - Redacción Etheria
 ---

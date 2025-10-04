@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/10/Corea-del-sur-Callejon-Puigcerd
 categories: 
   - hemeroteca
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

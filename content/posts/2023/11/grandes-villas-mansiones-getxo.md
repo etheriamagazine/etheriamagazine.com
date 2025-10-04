@@ -4,8 +4,8 @@ date: 2023-11-02
 cover: https://fotos.etheriamagazine.com/2023/11/getxo-palacio-lezama-leguizamon.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

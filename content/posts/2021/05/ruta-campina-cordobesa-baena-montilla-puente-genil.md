@@ -4,8 +4,8 @@ date: 2021-05-25
 cover: https://fotos.etheriamagazine.com/2021/05/Baena-Parque-Arqueologico-Torreparedones-vistas.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

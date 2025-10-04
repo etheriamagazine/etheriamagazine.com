@@ -4,8 +4,8 @@ date: 2018-08-10
 cover: https://fotos.etheriamagazine.com/2018/05/Holanda-Amsterdam-museo-Nemo-e1558171438104.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

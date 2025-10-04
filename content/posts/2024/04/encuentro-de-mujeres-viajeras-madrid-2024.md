@@ -4,8 +4,6 @@ date: 2024-04-12
 cover: https://fotos.etheriamagazine.com/2024/04/portada-mujeres-viajeras.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

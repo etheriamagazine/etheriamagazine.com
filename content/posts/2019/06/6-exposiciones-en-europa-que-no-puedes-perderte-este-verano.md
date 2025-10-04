@@ -6,8 +6,8 @@ categories:
   - inspiración
   - cultura
   - ocio
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

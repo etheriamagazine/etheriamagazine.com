@@ -4,8 +4,6 @@ date: 2022-04-25
 cover: https://fotos.etheriamagazine.com/2022/04/Los-Anades-hotel-guadalajara.jpg
 categories: 
   - compras
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

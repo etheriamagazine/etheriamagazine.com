@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/10/bali-rafting-rio-ayung.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

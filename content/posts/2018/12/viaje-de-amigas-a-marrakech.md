@@ -4,8 +4,8 @@ date: 2018-12-27
 cover: https://fotos.etheriamagazine.com/2019/11/marrakech-viajes-mayores-55.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Macarena Escrivá
 ---

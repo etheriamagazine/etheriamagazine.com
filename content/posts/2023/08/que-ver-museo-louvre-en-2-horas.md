@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/08/paris-louvre-delacroix-mujeres-
 categories: 
   - cultura
   - excursiones
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

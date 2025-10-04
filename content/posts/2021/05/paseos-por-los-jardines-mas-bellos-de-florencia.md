@@ -4,8 +4,8 @@ date: 2021-05-21
 cover: https://fotos.etheriamagazine.com/2021/04/Jardin-Boboli-florencia.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Carmen Pineda
 ---

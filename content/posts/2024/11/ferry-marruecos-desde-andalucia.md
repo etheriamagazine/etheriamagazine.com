@@ -4,8 +4,8 @@ date: 2024-11-19
 cover: https://fotos.etheriamagazine.com/2024/11/marruecos-ferry-chaouen.jpg
 categories: 
   - inspiración
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

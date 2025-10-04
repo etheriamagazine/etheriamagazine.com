@@ -4,8 +4,8 @@ date: 2019-06-13
 cover: https://fotos.etheriamagazine.com/2019/06/viaje-mongolia-Paisano-en-Shine-Ider.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Ana Vara y David Santiago
 ---

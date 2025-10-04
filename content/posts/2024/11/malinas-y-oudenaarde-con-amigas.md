@@ -4,8 +4,8 @@ date: 2024-11-07
 cover: https://fotos.etheriamagazine.com/2024/11/Casas-Malinas.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Yolanda Cardo
 ---

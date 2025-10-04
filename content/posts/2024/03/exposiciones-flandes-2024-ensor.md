@@ -6,8 +6,8 @@ categories:
   - viajar-sola
   - cultura
   - ocio
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

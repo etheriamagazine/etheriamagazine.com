@@ -4,8 +4,8 @@ date: 2023-02-22
 cover: https://fotos.etheriamagazine.com/2023/02/finlandia-banarte-hielo-Karelia.jpg
 categories: 
   - inspiración
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

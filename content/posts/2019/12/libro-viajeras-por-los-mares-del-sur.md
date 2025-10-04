@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/12/fanny-stevenson.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

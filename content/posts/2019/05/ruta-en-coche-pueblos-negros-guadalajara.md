@@ -4,8 +4,8 @@ date: 2019-05-06
 cover: https://fotos.etheriamagazine.com/2019/05/viaje-pueblos-negros-Valverde-de-los-Arroyos.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

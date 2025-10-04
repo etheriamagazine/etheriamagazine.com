@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/07/viaje-rodas-Monolithos-Castle-e
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Juan Carlos y Mar
 ---

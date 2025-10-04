@@ -4,8 +4,8 @@ date: 2020-12-23
 cover: https://fotos.etheriamagazine.com/2020/12/burgos-orbaneja-cascadas.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

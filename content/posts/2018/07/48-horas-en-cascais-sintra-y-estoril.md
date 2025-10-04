@@ -4,8 +4,8 @@ date: 2018-07-31
 cover: https://fotos.etheriamagazine.com/2018/07/Palacio-de-Queluz-RuiCunha-turismo-Cascais.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pilar Ortega
 ---

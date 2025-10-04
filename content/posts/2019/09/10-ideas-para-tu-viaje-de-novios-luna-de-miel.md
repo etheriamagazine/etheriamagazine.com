@@ -6,8 +6,6 @@ categories:
   - viajar-en-pareja
   - inspiración
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

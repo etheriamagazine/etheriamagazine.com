@@ -4,8 +4,8 @@ date: 2023-05-26
 cover: https://fotos.etheriamagazine.com/2023/05/tenerife-playa-medano.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

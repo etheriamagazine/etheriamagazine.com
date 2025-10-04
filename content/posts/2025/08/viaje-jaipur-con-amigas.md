@@ -4,8 +4,8 @@ date: 2025-08-29
 cover: https://fotos.etheriamagazine.com/2025/08/jaipur-palacio-vientos.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

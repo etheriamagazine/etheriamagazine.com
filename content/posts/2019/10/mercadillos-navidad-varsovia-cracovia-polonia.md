@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/10/polonia-luces-fuente-navidad-va
 categories: 
   - viajar-con-amigas
   - inspiración
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

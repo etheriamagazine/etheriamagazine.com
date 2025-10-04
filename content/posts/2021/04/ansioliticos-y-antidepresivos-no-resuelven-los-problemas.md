@@ -4,8 +4,6 @@ date: 2021-04-14
 cover: https://fotos.etheriamagazine.com/2021/04/ansioliticos-mujeres.jpg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

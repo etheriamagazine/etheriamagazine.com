@@ -4,8 +4,8 @@ date: 2021-04-09
 cover: https://fotos.etheriamagazine.com/2021/04/BIBO-Beach-House-Sala-3.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

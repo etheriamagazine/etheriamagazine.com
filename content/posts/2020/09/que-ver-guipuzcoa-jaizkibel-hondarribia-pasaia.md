@@ -4,8 +4,8 @@ date: 2020-09-08
 cover: https://fotos.etheriamagazine.com/2020/08/faro-cabo-higuer.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

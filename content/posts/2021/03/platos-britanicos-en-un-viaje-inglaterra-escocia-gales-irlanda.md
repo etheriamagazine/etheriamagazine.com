@@ -4,8 +4,8 @@ date: 2021-03-11
 cover: https://fotos.etheriamagazine.com/2021/03/inglaterra-roast-beef.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

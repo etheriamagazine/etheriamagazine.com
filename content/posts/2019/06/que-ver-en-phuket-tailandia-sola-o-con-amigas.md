@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/06/viaje-phuket-tailandia-amigas-C
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pedro Grifol
 ---

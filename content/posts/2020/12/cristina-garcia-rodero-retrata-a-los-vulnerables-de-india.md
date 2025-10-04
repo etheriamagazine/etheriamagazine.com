@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/12/apertura-tierra-suenos-etheria.
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

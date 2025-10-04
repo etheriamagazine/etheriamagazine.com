@@ -4,8 +4,6 @@ date: 2021-05-13
 cover: https://fotos.etheriamagazine.com/2021/05/higiene-menstrual-plan-internacional.jpg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

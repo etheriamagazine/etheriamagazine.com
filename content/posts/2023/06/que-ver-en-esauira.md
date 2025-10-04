@@ -4,8 +4,8 @@ date: 2023-06-05
 cover: https://fotos.etheriamagazine.com/2023/06/Murallas-de-Essauira.jpg
 categories: 
   - inspiración
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pedro Grifol
 ---

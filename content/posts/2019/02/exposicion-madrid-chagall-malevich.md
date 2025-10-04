@@ -4,8 +4,6 @@ date: 2019-02-14
 cover: https://fotos.etheriamagazine.com/2019/02/exposicion-madrid-Marc-Chagall.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Pedro Grifol
 ---

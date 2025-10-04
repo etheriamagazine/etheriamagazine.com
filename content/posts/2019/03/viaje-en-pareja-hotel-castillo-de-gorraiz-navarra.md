@@ -4,8 +4,8 @@ date: 2019-03-20
 cover: https://fotos.etheriamagazine.com/2019/03/hotel-castillo-gormaiz-Exterior-hotel-general.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

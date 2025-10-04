@@ -4,8 +4,8 @@ date: 2023-10-18
 cover: https://fotos.etheriamagazine.com/2023/10/que-ver-innsbruck-Maria-Theresien-Strasse.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Alicia Bea
 ---

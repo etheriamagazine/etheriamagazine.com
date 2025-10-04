@@ -4,8 +4,6 @@ date: 2025-01-20
 cover: https://fotos.etheriamagazine.com/2025/01/Jessica-de-Leon-consejera-de-Turismo-y-Empleo-del-Gobierno-de-Canarias.jpeg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

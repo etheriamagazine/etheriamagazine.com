@@ -4,8 +4,8 @@ date: 2020-12-14
 cover: https://fotos.etheriamagazine.com/2020/12/parador-de-siguenza.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Manena Munar
 ---

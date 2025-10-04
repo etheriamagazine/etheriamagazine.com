@@ -4,8 +4,8 @@ date: 2023-10-10
 cover: https://fotos.etheriamagazine.com/2023/10/Rodrigo-Cuevas.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

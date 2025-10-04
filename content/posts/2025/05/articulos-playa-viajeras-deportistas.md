@@ -4,8 +4,6 @@ date: 2025-05-22
 cover: https://fotos.etheriamagazine.com/2025/05/decathlon-verano-Paddle-Surf-tablas.jpg
 categories: 
   - que-llevar-en-la-maleta
-destino: 
-  - Mundo
 authors: 
   - Redacción Etheria
 ---

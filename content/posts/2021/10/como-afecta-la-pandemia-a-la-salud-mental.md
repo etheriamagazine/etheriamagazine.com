@@ -4,8 +4,6 @@ date: 2021-10-08
 cover: https://fotos.etheriamagazine.com/2021/10/violencia-mujeres-pandemia.jpg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

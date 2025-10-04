@@ -4,8 +4,8 @@ date: 2019-06-04
 cover: https://fotos.etheriamagazine.com/2019/05/ruta-merindades-ojo-guarena.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

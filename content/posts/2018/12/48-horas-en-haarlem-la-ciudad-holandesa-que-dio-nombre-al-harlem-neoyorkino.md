@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/12/Amsterdam-Haarlem-viajes-con-am
 categories: 
   - viajar-con-amigas
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

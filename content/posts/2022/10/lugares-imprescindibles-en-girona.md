@@ -4,8 +4,8 @@ date: 2022-10-17
 cover: https://fotos.etheriamagazine.com/2022/10/Calella-de-Palafrugrell.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Yolanda Cardo
 ---

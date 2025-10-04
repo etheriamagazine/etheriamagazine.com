@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/10/palacio-real-budapest.jpg
 categories: 
   - viajar-con-amigas
   - inspiración
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

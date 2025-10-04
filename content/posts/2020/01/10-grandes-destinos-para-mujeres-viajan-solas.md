@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/05/viajar-sola-salar-uyuni.jpg
 categories: 
   - viajar-sola
   - inspiración
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

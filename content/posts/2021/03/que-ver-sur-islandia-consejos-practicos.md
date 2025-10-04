@@ -4,8 +4,8 @@ date: 2021-03-25
 cover: https://fotos.etheriamagazine.com/2018/09/PLAYA-VIK-e1562343946595.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Kris Ubach
 ---

@@ -4,8 +4,8 @@ date: 2021-08-30
 cover: https://fotos.etheriamagazine.com/2021/08/cantera-hontoria-catedral-3.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

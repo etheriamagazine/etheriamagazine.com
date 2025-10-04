@@ -6,8 +6,8 @@ categories:
   - viajar-sola
   - inspiración
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

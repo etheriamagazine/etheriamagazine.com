@@ -7,8 +7,6 @@ categories:
   - cultura
   - mujeres-top
   - ocio
-destino: 
-  - Mundo
 authors: 
   - Carmen Pineda
 ---

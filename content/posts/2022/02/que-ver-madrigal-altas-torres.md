@@ -4,8 +4,8 @@ date: 2022-02-14
 cover: https://fotos.etheriamagazine.com/2022/02/Panoramica-Madrigal.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - españa
 authors: 
   - Carmen Pineda
 ---

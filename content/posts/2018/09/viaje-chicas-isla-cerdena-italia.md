@@ -4,8 +4,8 @@ date: 2018-09-14
 cover: https://fotos.etheriamagazine.com/2018/09/viaje-La-Pelosa-Stintino-Sardegna-e1550992140547.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pilar Ortega
 ---

@@ -4,8 +4,6 @@ date: 2020-02-11
 cover: https://fotos.etheriamagazine.com/2020/02/celia-diaz-Malecon-de-La-Habana.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

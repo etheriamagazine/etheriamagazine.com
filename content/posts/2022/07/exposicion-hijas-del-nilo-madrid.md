@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2022/06/Hijas_del_Nilo-sala-iluminada.j
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

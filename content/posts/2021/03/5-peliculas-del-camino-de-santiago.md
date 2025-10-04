@@ -4,8 +4,6 @@ date: 2021-03-04
 cover: https://fotos.etheriamagazine.com/2021/02/camino-santiago-fotograma-Buen-camino-1.jpg
 categories: 
   - inspiración
-destino: 
-  - Mundo
 authors: 
   - Eva Madruga
 ---

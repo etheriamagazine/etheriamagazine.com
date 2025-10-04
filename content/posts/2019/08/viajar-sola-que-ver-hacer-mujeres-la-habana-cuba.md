@@ -4,8 +4,8 @@ date: 2019-08-16
 cover: https://fotos.etheriamagazine.com/2019/07/La-Habana-Vieja-calle.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Manena Munar
 ---

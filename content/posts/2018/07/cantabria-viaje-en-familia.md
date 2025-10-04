@@ -4,8 +4,8 @@ date: 2018-07-13
 cover: https://fotos.etheriamagazine.com/2018/07/Suances.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

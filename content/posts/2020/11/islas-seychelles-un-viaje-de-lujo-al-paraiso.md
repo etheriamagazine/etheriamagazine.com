@@ -4,8 +4,8 @@ date: 2020-11-16
 cover: https://fotos.etheriamagazine.com/2020/11/islas-seychelles-paraiso.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

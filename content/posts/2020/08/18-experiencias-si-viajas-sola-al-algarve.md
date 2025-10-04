@@ -4,8 +4,8 @@ date: 2020-08-07
 cover: https://fotos.etheriamagazine.com/2020/07/viajar-sola-mujer-algarve.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

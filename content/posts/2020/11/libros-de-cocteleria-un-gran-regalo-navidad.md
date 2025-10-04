@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/11/libros-cocteles-modernos.jpg
 categories: 
   - compras
   - cultura
-destino: 
-  - España
 authors: 
   - Pedro Grifol
 ---

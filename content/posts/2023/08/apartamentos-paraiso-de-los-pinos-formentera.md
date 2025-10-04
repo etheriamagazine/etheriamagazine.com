@@ -4,8 +4,8 @@ date: 2023-08-21
 cover: https://fotos.etheriamagazine.com/2023/08/paraiso-pinos-formentera-exterior.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

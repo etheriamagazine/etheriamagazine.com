@@ -4,8 +4,8 @@ date: 2021-07-20
 cover: https://fotos.etheriamagazine.com/2021/07/hotel-villa-rosario-palacio-indiano.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/12/Alemania-Baviera-Ramsau.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

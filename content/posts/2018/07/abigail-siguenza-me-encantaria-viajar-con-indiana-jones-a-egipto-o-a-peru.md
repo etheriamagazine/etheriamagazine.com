@@ -4,8 +4,8 @@ date: 2018-07-17
 cover: https://fotos.etheriamagazine.com/2018/07/Abigail-Siguenza-mujer-etheria-murales.jpg
 categories: 
   - mujeres-top
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

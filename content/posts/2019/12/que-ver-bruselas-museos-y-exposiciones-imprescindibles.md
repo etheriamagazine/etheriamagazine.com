@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/12/expo-bruselas-dali-magritte.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

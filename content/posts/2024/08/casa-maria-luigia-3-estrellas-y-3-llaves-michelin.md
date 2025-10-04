@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/08/Casa-Maria-Luigia.jpg
 categories: 
   - inspiración
   - gourmet
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

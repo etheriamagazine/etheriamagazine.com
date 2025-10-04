@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/02/Quinoa-roja-con-langostinos-y-p
 categories: 
   - ocio
   - gourmet
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

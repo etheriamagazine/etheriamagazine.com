@@ -4,8 +4,8 @@ date: 2019-04-16
 cover: https://fotos.etheriamagazine.com/2019/04/Ronda-mirador.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

@@ -4,8 +4,8 @@ date: 2023-10-04
 cover: https://fotos.etheriamagazine.com/2023/10/centro-argeles-sur-mer.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Yolanda Cardo
 ---

@@ -4,8 +4,8 @@ date: 2018-05-28
 cover: https://fotos.etheriamagazine.com/2018/05/costa-rica-maleta-puente-colgante.jpg
 categories: 
   - que-llevar-en-la-maleta
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

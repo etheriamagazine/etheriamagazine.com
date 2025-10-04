@@ -4,8 +4,8 @@ date: 2022-03-21
 cover: https://fotos.etheriamagazine.com/2022/03/Viajar-a-Marte-Huelva.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Yolanda Cardo
 ---

@@ -4,8 +4,8 @@ date: 2025-09-15
 cover: https://fotos.etheriamagazine.com/2025/09/Melilla-Plaza-Menendez-Pelayo.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

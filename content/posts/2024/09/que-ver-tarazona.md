@@ -4,8 +4,8 @@ date: 2024-09-23
 cover: https://fotos.etheriamagazine.com/2024/09/tarazona-monumental.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

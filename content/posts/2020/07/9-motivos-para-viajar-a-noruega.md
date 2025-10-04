@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/11/Mirador-Ulsikten-Noruega-Etheri
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

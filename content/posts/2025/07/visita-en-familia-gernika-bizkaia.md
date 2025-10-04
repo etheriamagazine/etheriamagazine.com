@@ -4,8 +4,8 @@ date: 2025-07-01
 cover: https://fotos.etheriamagazine.com/2025/06/gernika-plaza.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

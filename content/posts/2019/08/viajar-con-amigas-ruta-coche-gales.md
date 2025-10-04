@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/08/Gales-Tenby.jpg
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

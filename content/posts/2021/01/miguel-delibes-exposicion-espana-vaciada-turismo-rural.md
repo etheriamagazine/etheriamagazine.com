@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/01/Delibes-retrato-perfil.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Pilar Ortega
 ---

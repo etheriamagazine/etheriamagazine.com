@@ -4,8 +4,8 @@ date: 2024-05-27
 cover: https://fotos.etheriamagazine.com/2024/05/mural-mucientes-1.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

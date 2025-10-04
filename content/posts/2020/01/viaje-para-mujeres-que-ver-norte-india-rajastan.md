@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-Agra-2.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Juan Carlos y Mar
 ---

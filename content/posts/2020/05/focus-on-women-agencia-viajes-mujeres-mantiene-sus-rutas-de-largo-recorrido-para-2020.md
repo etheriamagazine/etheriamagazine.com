@@ -4,8 +4,6 @@ date: 2020-05-22
 cover: https://fotos.etheriamagazine.com/2020/05/agencia-viajes-mujeres-fow.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

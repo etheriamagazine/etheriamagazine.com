@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2025/07/pabellon-ayurveda-svata-katerin
 categories: 
   - viajar-sola
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

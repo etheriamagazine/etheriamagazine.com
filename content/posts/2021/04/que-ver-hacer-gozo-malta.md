@@ -4,8 +4,8 @@ date: 2021-04-29
 cover: https://fotos.etheriamagazine.com/2018/05/gozo-mujeres-viaje.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

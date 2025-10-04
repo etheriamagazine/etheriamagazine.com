@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/10/cascadas-lagos-plitvice-e165380
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

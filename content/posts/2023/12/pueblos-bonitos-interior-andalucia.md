@@ -4,8 +4,8 @@ date: 2023-12-29
 cover: https://fotos.etheriamagazine.com/2023/12/malaga-frigiliana.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

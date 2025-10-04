@@ -6,8 +6,8 @@ categories:
   - viajar-con-amigas
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

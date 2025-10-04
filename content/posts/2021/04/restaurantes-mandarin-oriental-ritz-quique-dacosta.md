@@ -6,8 +6,8 @@ categories:
   - gourmet
   - hoteles
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

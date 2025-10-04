@@ -4,8 +4,8 @@ date: 2024-09-27
 cover: https://fotos.etheriamagazine.com/2024/09/zurich-rio-limmat.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

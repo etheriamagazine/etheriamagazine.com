@@ -4,8 +4,8 @@ date: 2024-07-24
 cover: https://fotos.etheriamagazine.com/2024/07/bali-munduk-pareja-arrozal.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

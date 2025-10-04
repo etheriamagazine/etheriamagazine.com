@@ -6,8 +6,8 @@ categories:
   - viajar-en-familia
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

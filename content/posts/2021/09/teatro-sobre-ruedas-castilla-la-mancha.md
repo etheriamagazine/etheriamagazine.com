@@ -4,8 +4,6 @@ date: 2021-09-13
 cover: https://fotos.etheriamagazine.com/2021/09/teatro-andante-castilla-la-mancha.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

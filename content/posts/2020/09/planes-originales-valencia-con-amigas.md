@@ -4,8 +4,8 @@ date: 2020-09-18
 cover: https://fotos.etheriamagazine.com/2020/09/valencia-jacuzzi-con-vistas-de-noche.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

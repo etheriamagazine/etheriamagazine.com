@@ -4,8 +4,8 @@ date: 2025-03-24
 cover: https://fotos.etheriamagazine.com/2025/03/cesky-krumlov.jpeg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2025-07-18
 cover: https://fotos.etheriamagazine.com/2025/07/iglesia-san-juan-nepomuceno-chequia.jpeg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

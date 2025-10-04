@@ -4,8 +4,8 @@ date: 2018-09-13
 cover: https://fotos.etheriamagazine.com/2018/08/Londres-Westminster.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

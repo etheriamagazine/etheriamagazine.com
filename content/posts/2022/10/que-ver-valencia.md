@@ -4,8 +4,8 @@ date: 2022-10-03
 cover: https://fotos.etheriamagazine.com/2022/09/valencia-ciudad-artes.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

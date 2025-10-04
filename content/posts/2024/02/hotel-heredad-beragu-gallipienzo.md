@@ -4,8 +4,8 @@ date: 2024-02-16
 cover: https://fotos.etheriamagazine.com/2024/02/heredad-beragu-navarra-terraza.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

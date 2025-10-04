@@ -4,8 +4,8 @@ date: 2022-04-11
 cover: https://fotos.etheriamagazine.com/2022/04/tiebele-calles-Burkina-Faso.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pedro Grifol
 ---

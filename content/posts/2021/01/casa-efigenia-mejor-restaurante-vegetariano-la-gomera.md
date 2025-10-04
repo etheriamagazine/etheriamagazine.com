@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/12/efigenia-las-hayas-la-gomera.jp
 categories: 
   - gourmet
   - mujeres-top
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Manena Munar
 ---

@@ -4,8 +4,8 @@ date: 2020-01-15
 cover: https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-apertura.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

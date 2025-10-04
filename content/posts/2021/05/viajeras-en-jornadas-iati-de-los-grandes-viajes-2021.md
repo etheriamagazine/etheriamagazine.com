@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/05/cartel-iatiJGV-2021.jpg
 categories: 
   - viajar-sola
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

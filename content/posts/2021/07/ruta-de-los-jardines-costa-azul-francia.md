@@ -4,8 +4,8 @@ date: 2021-07-07
 cover: https://fotos.etheriamagazine.com/2021/06/Costa-Azul-Expo-Rosas-Grasse.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Carmen Pineda
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-literas
 categories: 
   - viajar-sola
   - hoteles
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

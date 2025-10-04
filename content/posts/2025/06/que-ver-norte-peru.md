@@ -4,8 +4,8 @@ date: 2025-06-11
 cover: https://fotos.etheriamagazine.com/2025/06/peru-canyon-sonche.jpeg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Cris Aizpeolea
 ---

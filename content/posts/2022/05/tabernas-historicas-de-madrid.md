@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/05/Casa-alberto.jpg
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

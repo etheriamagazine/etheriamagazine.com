@@ -4,8 +4,8 @@ date: 2020-04-01
 cover: https://fotos.etheriamagazine.com/2020/03/el-salvador-playa-El-tunco.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Marina Paul
 ---

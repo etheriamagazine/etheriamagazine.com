@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/11/cataratas-plitvice.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/01/cristina-calvo-mujer-etheria.jp
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

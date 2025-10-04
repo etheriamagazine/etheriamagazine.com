@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/05/playas-cadaques-costa-brva.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

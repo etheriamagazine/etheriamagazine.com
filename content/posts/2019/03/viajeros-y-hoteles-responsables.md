@@ -4,8 +4,6 @@ date: 2019-03-30
 cover: https://fotos.etheriamagazine.com/2019/03/viajero-responsable-accor.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
 authors: 
   - Rebeca Ávila
 ---

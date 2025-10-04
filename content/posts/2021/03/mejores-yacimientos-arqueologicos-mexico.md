@@ -4,8 +4,8 @@ date: 2021-03-30
 cover: https://fotos.etheriamagazine.com/2021/03/yacimiento-calakmul.jpg
 categories: 
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

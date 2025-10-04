@@ -4,8 +4,8 @@ date: 2021-05-05
 cover: https://fotos.etheriamagazine.com/2021/04/las-hurdes-extremadura.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Rosa Marqués
 ---

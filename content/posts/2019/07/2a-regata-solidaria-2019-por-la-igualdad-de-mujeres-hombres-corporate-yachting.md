@@ -4,8 +4,6 @@ date: 2019-07-22
 cover: https://fotos.etheriamagazine.com/2019/07/regata-solidaria.jpg
 categories: 
   - hemeroteca
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

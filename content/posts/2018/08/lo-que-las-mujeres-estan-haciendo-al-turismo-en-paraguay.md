@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2018/08/1-mujeres-paraguay-guarani.jpg
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - Mundo
 authors: 
   - Kelu Robles
 ---

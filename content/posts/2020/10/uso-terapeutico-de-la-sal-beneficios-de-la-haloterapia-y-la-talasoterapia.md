@@ -4,8 +4,6 @@ date: 2020-10-28
 cover: https://fotos.etheriamagazine.com/2020/10/beneficios-sal-Salt-Room.jpg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/10/exposiciones-madrid-expresionis
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

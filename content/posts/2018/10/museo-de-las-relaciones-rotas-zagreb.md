@@ -4,8 +4,8 @@ date: 2018-10-27
 cover: https://fotos.etheriamagazine.com/2018/10/Museo-relaciones-rotas-zagreb-2.jpg
 categories: 
   - cultura
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

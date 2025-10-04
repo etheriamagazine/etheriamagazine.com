@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2025/08/madeira-levada-camino.jpg
 categories: 
   - excursiones
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

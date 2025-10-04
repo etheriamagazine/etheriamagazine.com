@@ -4,8 +4,8 @@ date: 2024-02-08
 cover: https://fotos.etheriamagazine.com/2024/02/Nuevo-Ano-Chino-2024.jpg
 categories: 
   - hemeroteca
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

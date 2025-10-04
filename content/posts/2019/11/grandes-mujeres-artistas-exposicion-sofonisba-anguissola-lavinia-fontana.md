@@ -4,8 +4,6 @@ date: 2019-11-18
 cover: https://fotos.etheriamagazine.com/2019/11/Sofonisba-y-Lavinia-museo-del-prado.jpg
 categories: 
   - cultura
-destino: 
-  - Europa
 authors: 
   - Pedro Grifol
 ---

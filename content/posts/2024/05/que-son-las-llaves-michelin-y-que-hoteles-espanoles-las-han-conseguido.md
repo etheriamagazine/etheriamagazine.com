@@ -4,8 +4,6 @@ date: 2024-05-07
 cover: https://fotos.etheriamagazine.com/2018/05/Le-Domaine-vinedos.jpg
 categories: 
   - hoteles
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

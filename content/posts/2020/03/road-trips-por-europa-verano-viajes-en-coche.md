@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/02/Coche-suiza-montanas.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2025-08-06
 cover: https://fotos.etheriamagazine.com/2025/07/Turin-Caffe-Torino.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Yolanda Cardo
 ---

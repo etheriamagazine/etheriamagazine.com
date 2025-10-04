@@ -4,8 +4,8 @@ date: 2019-01-14
 cover: https://fotos.etheriamagazine.com/2019/01/Almudena-Mujeres-Etheria-en-Bali-2014.jpg
 categories: 
   - mujeres-top
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

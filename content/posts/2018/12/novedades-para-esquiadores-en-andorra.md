@@ -4,8 +4,8 @@ date: 2018-12-08
 cover: https://fotos.etheriamagazine.com/2018/12/raquetas-mujer-andorra.jpg
 categories: 
   - hemeroteca
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

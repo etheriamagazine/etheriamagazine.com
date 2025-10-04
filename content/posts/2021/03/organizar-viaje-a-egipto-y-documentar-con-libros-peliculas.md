@@ -6,8 +6,8 @@ categories:
   - inspiración
   - cultura
   - ocio
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

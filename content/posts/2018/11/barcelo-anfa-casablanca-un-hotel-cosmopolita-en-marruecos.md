@@ -4,8 +4,8 @@ date: 2018-11-29
 cover: https://fotos.etheriamagazine.com/2018/11/Barcelo-anfa-casablanca-2.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

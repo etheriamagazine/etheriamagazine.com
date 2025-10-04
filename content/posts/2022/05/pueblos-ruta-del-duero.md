@@ -4,8 +4,8 @@ date: 2022-05-17
 cover: https://fotos.etheriamagazine.com/2022/05/xokoreto-castronuno-ribera-duero.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

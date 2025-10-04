@@ -4,8 +4,8 @@ date: 2019-11-08
 cover: https://fotos.etheriamagazine.com/2019/10/San-Sebastian-gastronomia-Gros.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Elisabeth G. Iborra
 ---

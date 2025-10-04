@@ -4,8 +4,8 @@ date: 2024-10-23
 cover: https://fotos.etheriamagazine.com/2024/10/exposiciones-madrid-otono-casa-mexico-coleccion-blastein-mujer.jpg
 categories: 
   - cultura
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2021-12-09
 cover: https://fotos.etheriamagazine.com/2021/12/karlovy-vary-monumental.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

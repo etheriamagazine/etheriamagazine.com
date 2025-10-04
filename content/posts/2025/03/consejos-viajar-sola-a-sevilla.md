@@ -4,8 +4,8 @@ date: 2025-03-13
 cover: https://fotos.etheriamagazine.com/2025/03/sevilla-plaza-espana.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

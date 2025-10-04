@@ -4,8 +4,8 @@ date: 2020-06-17
 cover: https://fotos.etheriamagazine.com/2020/06/viajes-mujeres-etheria-Valle-del-jerte.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

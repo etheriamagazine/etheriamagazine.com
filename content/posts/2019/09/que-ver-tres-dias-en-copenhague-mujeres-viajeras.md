@@ -4,8 +4,8 @@ date: 2019-09-23
 cover: https://fotos.etheriamagazine.com/2019/09/copenhague-original-coffee.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Ana María Pareja
 ---

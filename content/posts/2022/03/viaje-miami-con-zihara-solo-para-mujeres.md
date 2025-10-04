@@ -4,8 +4,8 @@ date: 2022-03-02
 cover: https://fotos.etheriamagazine.com/2022/03/miami-The-Nature-Conservancy-Blowing-Rocks-Preserve.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

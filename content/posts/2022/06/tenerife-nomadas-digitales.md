@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/05/Portada-nomada-digital-tenerife
 categories: 
   - viajar-sola
   - historias
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Firmas invitadas
 ---

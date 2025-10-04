@@ -4,8 +4,8 @@ date: 2023-06-21
 cover: https://fotos.etheriamagazine.com/2023/06/tribu-hereros-Namibia.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Firmas invitadas
 ---

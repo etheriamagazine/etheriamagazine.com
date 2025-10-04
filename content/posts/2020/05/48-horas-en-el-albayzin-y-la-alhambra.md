@@ -4,8 +4,8 @@ date: 2020-05-29
 cover: https://fotos.etheriamagazine.com/2020/05/viajes-mujeres-granada-alhambra.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

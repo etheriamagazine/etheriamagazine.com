@@ -4,8 +4,8 @@ date: 2023-01-30
 cover: https://fotos.etheriamagazine.com/2023/01/praga-romantica-spa-cerveza.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Mundo
+tags: 
+  - europa
 authors: 
   - Etheria Magazine
 ---

@@ -4,8 +4,8 @@ date: 2018-05-09
 cover: https://fotos.etheriamagazine.com/2018/05/Miami-Beach.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

@@ -4,8 +4,8 @@ date: 2022-12-16
 cover: https://fotos.etheriamagazine.com/2022/12/madrid-sweet-space-nevera.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

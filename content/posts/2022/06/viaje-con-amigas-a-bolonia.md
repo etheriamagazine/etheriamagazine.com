@@ -4,8 +4,8 @@ date: 2022-06-10
 cover: https://fotos.etheriamagazine.com/2022/06/Clock-Tower-bolonia.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

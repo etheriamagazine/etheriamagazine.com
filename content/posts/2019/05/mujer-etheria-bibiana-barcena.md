@@ -4,8 +4,6 @@ date: 2019-05-21
 cover: https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-pointe-esny-mauritius.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

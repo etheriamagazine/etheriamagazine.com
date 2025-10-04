@@ -4,8 +4,8 @@ date: 2024-01-09
 cover: https://fotos.etheriamagazine.com/2024/01/jested-liberec.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

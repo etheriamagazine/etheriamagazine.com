@@ -4,8 +4,8 @@ date: 2020-05-11
 cover: https://fotos.etheriamagazine.com/2020/04/viajar-leon-medulas-mirador-orellan.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

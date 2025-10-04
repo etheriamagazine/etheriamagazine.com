@@ -7,8 +7,8 @@ categories:
   - inspiración
   - cultura
   - excursiones
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

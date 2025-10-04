@@ -4,8 +4,8 @@ date: 2018-05-13
 cover: https://fotos.etheriamagazine.com/2018/05/1-Viaje-Caceres-Pixabay1569100.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

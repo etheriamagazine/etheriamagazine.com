@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/09/tortuga-islas-galapagos.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

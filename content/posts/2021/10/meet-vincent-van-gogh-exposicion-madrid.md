@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/09/meet-vicent-van-gogh-habitacion
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Susana García
 ---

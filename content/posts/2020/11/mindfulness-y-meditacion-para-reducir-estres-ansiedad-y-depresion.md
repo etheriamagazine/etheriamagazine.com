@@ -4,8 +4,6 @@ date: 2020-11-18
 cover: https://fotos.etheriamagazine.com/2020/11/pensamientos-positivos.jpg
 categories: 
   - bienestar
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

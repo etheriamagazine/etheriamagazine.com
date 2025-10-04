@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2025/03/aranda-de-duero-tapa-concurso.j
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

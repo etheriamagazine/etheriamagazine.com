@@ -4,8 +4,8 @@ date: 2019-07-12
 cover: https://fotos.etheriamagazine.com/2019/06/Panama-San-Blas-isla-diablo.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Elisabeth G. Iborra
 ---

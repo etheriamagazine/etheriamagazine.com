@@ -4,8 +4,8 @@ date: 2021-05-06
 cover: https://fotos.etheriamagazine.com/2021/05/plato-ramen-tokio.jpg
 categories: 
   - gourmet
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

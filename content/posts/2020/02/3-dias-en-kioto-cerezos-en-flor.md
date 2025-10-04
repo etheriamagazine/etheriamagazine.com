@@ -4,8 +4,8 @@ date: 2020-02-26
 cover: https://fotos.etheriamagazine.com/2020/02/Kioto-paseo-filosofo-geishas.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

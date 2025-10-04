@@ -4,8 +4,8 @@ date: 2023-07-03
 cover: https://fotos.etheriamagazine.com/2023/06/Valonia-Grand-Place-Mons.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Yolanda Cardo
 ---

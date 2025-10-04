@@ -4,8 +4,8 @@ date: 2021-01-08
 cover: https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Phra-Singh-tejados.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

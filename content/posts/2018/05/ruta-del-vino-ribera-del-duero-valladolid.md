@@ -4,8 +4,8 @@ date: 2018-05-21
 cover: https://fotos.etheriamagazine.com/2018/05/Finca-Villacreces.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Vanesa Viñolo
 ---

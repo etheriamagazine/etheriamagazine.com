@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/07/nueva-york-familia-central-park
 categories: 
   - viajar-en-familia
   - inspiración
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

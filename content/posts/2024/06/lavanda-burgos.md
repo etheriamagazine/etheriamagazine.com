@@ -4,8 +4,8 @@ date: 2024-06-11
 cover: https://fotos.etheriamagazine.com/2024/06/Campos-lavanda-Caleruega.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

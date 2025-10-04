@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/10/farola-modernista-castellon.jpg
 categories: 
   - viajar-con-amigas
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

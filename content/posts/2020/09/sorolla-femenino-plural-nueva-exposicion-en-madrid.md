@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/09/Bordadora-valenciana-sorolla.jp
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

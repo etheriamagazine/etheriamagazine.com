@@ -4,8 +4,8 @@ date: 2022-02-28
 cover: https://fotos.etheriamagazine.com/2022/01/toledo-catedral-fachada.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Yolanda Cardo
 ---

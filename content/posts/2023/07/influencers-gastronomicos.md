@@ -4,8 +4,6 @@ date: 2023-07-28
 cover: https://fotos.etheriamagazine.com/2023/07/portada-langosta-3.jpg
 categories: 
   - historias
-destino: 
-  - España
 authors: 
   - Rafael de Rojas
 ---

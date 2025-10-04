@@ -4,8 +4,8 @@ date: 2024-04-16
 cover: https://fotos.etheriamagazine.com/2024/04/vagon-panoramico-transcantabrico.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Firmas invitadas
 ---

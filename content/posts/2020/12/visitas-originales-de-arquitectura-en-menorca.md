@@ -4,8 +4,8 @@ date: 2020-12-08
 cover: https://fotos.etheriamagazine.com/2020/11/viaje-menorca-Fornells-Torre-de-Fornells.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kris Ubach
 ---

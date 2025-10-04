@@ -4,8 +4,8 @@ date: 2021-04-06
 cover: https://fotos.etheriamagazine.com/2021/03/que-ver-el-escorial.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

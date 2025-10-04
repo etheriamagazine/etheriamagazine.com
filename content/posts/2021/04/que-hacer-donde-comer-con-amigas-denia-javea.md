@@ -4,8 +4,8 @@ date: 2021-04-03
 cover: https://fotos.etheriamagazine.com/2019/08/lasiesta-01.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Macarena Escrivá
 ---

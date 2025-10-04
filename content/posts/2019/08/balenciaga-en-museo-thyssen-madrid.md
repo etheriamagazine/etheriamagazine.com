@@ -4,8 +4,6 @@ date: 2019-08-30
 cover: https://fotos.etheriamagazine.com/2019/08/Balenciaga-thyssen-madrid-josefa-vargas.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

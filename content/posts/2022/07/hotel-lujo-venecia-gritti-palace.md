@@ -4,8 +4,8 @@ date: 2022-07-29
 cover: https://fotos.etheriamagazine.com/2022/07/gritti-palace-terraza.jpg
 categories: 
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

@@ -4,8 +4,6 @@ date: 2018-11-17
 cover: https://fotos.etheriamagazine.com/2018/11/hacer-maleta-crucero.jpg
 categories: 
   - que-llevar-en-la-maleta
-destino: 
-  - Europa
 authors: 
   - Pepa G. Marín
 ---

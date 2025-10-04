@@ -4,8 +4,8 @@ date: 2019-08-07
 cover: https://fotos.etheriamagazine.com/2019/07/Clos-detalle-mesa.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Vanesa Viñolo
 ---

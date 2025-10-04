@@ -4,8 +4,6 @@ date: 2019-02-25
 cover: https://fotos.etheriamagazine.com/2019/02/analucia-mujeres-etheria.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

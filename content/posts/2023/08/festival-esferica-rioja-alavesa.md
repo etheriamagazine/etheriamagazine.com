@@ -4,8 +4,6 @@ date: 2023-08-07
 cover: https://fotos.etheriamagazine.com/2023/08/festival-esferica-rioja-alavesa.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

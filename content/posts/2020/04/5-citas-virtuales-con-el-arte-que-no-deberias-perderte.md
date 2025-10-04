@@ -4,8 +4,6 @@ date: 2020-04-07
 cover: https://fotos.etheriamagazine.com/2020/04/Van-Eyck-visitas-virtuales.jpg
 categories: 
   - cultura
-destino: 
-  - Europa
 authors: 
   - Redacción Etheria
 ---

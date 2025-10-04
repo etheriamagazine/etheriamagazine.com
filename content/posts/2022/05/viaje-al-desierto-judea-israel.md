@@ -4,8 +4,8 @@ date: 2022-05-09
 cover: https://fotos.etheriamagazine.com/2022/05/viaje-mujeres-desierto-israel.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Kelu Robles
 ---

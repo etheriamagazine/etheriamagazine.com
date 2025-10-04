@@ -4,8 +4,8 @@ date: 2020-03-12
 cover: https://fotos.etheriamagazine.com/2020/03/viaje-bogota-ruta-gastro.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Kelu Robles
 ---

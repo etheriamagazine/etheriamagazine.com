@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/11/hotel-magalean-recepcion.jpg
 categories: 
   - viajar-con-amigas
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

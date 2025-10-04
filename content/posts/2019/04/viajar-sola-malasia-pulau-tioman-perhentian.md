@@ -4,8 +4,8 @@ date: 2019-04-12
 cover: https://fotos.etheriamagazine.com/2019/04/Malasia-puerto-isla-Perhentian.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Ana Vara y David Santiago
 ---

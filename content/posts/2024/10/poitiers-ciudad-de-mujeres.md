@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/10/mercado-poitiers.jpg
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

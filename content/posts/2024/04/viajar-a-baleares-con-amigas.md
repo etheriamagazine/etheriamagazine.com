@@ -4,8 +4,8 @@ date: 2024-04-22
 cover: https://fotos.etheriamagazine.com/2024/04/formentera-viaje-amigas.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

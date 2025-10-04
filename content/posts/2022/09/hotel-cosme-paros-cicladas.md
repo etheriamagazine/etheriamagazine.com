@@ -4,8 +4,8 @@ date: 2022-09-02
 cover: https://fotos.etheriamagazine.com/2022/08/cosme-paros-piscina.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

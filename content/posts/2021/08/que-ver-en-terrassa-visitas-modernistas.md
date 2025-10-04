@@ -4,8 +4,8 @@ date: 2021-08-20
 cover: https://fotos.etheriamagazine.com/2021/08/masia-freixa-modernismo.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

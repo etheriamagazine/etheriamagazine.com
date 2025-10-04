@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/04/viajar-sola-islas-lofoten.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Juan Carlos y Mar
 ---

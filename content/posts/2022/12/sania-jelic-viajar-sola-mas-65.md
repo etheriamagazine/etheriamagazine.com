@@ -4,8 +4,6 @@ date: 2022-12-13
 cover: https://fotos.etheriamagazine.com/2022/12/Sania-moto.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
 authors: 
   - Sania Jelic
 ---

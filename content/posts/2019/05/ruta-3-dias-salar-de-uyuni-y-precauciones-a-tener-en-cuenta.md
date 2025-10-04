@@ -4,8 +4,8 @@ date: 2019-05-24
 cover: https://fotos.etheriamagazine.com/2019/05/viajar-sola-por-salar-uyuni.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Elisabeth G. Iborra
 ---

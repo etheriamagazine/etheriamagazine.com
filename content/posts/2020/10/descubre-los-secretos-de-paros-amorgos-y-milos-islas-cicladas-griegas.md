@@ -4,8 +4,8 @@ date: 2020-10-20
 cover: https://fotos.etheriamagazine.com/2020/10/islas-griegas-cicladas-Chora.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Alicia Bea
 ---

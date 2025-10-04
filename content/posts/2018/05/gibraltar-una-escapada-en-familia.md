@@ -4,8 +4,8 @@ date: 2018-05-21
 cover: https://fotos.etheriamagazine.com/2018/05/Peñón-Gibraltar.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

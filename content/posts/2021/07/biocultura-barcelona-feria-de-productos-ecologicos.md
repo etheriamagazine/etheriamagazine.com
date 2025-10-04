@@ -4,8 +4,6 @@ date: 2021-07-04
 cover: https://fotos.etheriamagazine.com/2021/07/biocultura-barcelona-cosmetica.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

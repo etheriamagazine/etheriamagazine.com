@@ -4,8 +4,8 @@ date: 2019-11-19
 cover: https://fotos.etheriamagazine.com/2019/11/Malta-barca-tipica.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Miriam González
 ---

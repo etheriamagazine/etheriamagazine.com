@@ -4,8 +4,8 @@ date: 2018-10-19
 cover: https://fotos.etheriamagazine.com/2018/10/ganges-varanasi-mujeres-india.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Cristina R. Bareño
 ---

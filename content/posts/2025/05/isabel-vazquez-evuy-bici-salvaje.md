@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2025/05/isabel-vaquez-ruta-vicunas-chil
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Firmas invitadas
 ---

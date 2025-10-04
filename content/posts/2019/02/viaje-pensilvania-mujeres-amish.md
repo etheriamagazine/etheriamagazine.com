@@ -4,8 +4,6 @@ date: 2019-02-07
 cover: https://fotos.etheriamagazine.com/2019/02/mujeres-amish-etheria-magazine-e1582367792775.jpg
 categories: 
   - historias
-destino: 
-  - España
 authors: 
   - Manena Munar
 ---

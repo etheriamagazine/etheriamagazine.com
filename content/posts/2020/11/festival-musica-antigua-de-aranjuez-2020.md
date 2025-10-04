@@ -4,8 +4,6 @@ date: 2020-11-16
 cover: https://fotos.etheriamagazine.com/2020/11/festival-musica-antigua-aranjuez-Apotheose.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Pilar Ortega
 ---

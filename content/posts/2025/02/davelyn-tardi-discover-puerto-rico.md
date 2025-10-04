@@ -4,8 +4,6 @@ date: 2025-02-05
 cover: https://fotos.etheriamagazine.com/2025/02/Davelyn-Tardi-Puerto-Rico-naturaleza.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Susana García
 ---

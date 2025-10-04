@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/10/cala-ibiza-con-amigas.jpg
 categories: 
   - viajar-en-pareja
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Nuria Cortés
 ---

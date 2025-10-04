@@ -4,8 +4,8 @@ date: 2022-06-09
 cover: https://fotos.etheriamagazine.com/2022/06/venecia-gondola-gran-canal.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

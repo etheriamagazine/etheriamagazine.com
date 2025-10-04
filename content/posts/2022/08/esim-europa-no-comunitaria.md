@@ -4,8 +4,6 @@ date: 2022-08-02
 cover: https://fotos.etheriamagazine.com/2022/07/Holafly-mujer-viaje.jpg
 categories: 
   - que-llevar-en-la-maleta
-destino: 
-  - Europa
 authors: 
   - Redacción Etheria
 ---

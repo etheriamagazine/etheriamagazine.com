@@ -4,8 +4,8 @@ date: 2018-05-29
 cover: https://fotos.etheriamagazine.com/2018/05/Antelope-Canyon.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Kris Ubach
 ---

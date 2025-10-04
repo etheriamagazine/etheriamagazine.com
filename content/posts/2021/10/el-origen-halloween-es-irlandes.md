@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/10/Irlanda-halloween-Fuegos-de-Sam
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,6 @@ date: 2022-12-30
 cover: https://fotos.etheriamagazine.com/2022/12/costa-rica-mujeres-bahia-drake-corcovado.jpg
 categories: 
   - historias
-destino: 
-  - Mundo
 authors: 
   - Redacción Etheria
 ---

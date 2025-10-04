@@ -4,8 +4,6 @@ date: 2023-07-14
 cover: https://fotos.etheriamagazine.com/2023/07/que-llevar-maleta-cabina.jpg
 categories: 
   - que-llevar-en-la-maleta
-destino: 
-  - Europa
 authors: 
   - Redacción Etheria
 ---

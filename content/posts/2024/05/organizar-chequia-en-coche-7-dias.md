@@ -4,8 +4,8 @@ date: 2024-05-04
 cover: https://fotos.etheriamagazine.com/2024/05/ruta-coche-cesky-krumlov.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Etheria Magazine
 ---

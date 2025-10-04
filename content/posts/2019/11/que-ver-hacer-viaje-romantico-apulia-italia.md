@@ -4,8 +4,8 @@ date: 2019-11-25
 cover: https://fotos.etheriamagazine.com/2019/11/viaje-puglia-trani-puerto.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Mundo
+tags: 
+  - europa
 authors: 
   - Kelu Robles
 ---

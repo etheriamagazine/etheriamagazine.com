@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2018/07/Cartel-seccion-oficinal-festiva
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
 authors: 
   - Susana García
 ---

@@ -4,8 +4,8 @@ date: 2022-11-28
 cover: https://fotos.etheriamagazine.com/2022/11/ubeda-unesco.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Firmas invitadas
 ---

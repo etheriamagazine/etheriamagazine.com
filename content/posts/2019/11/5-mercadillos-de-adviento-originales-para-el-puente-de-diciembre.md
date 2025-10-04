@@ -4,8 +4,8 @@ date: 2019-11-20
 cover: https://fotos.etheriamagazine.com/2019/11/mercadillo-acueducto-Adviento-Selva-Negra.jpg
 categories: 
   - hemeroteca
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

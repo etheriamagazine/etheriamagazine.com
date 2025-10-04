@@ -4,8 +4,8 @@ date: 2018-05-16
 cover: https://fotos.etheriamagazine.com/2018/05/TOSCANA-FLORENCIA-FACHADA-CATEDRAL.jpg
 categories: 
   - inspiración
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

@@ -4,8 +4,8 @@ date: 2022-11-26
 cover: https://fotos.etheriamagazine.com/2022/11/pico-las-nieves-gran-canaria.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

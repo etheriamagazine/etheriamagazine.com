@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/01/restaurante-hawaiano-ohana-madr
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

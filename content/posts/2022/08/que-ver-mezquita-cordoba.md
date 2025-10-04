@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2022/08/mezquita-cordoba-arcos-cruz.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Susana García
 ---

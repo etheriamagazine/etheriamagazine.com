@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/11/heritage-le-telfair-piscina-pri
 categories: 
   - viajes-de-lujo
   - hoteles
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Susana García
 ---

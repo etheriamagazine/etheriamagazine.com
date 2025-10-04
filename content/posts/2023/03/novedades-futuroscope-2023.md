@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/03/Futuroscope-casa-al-reves.jpg
 categories: 
   - viajar-en-familia
   - ocio
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

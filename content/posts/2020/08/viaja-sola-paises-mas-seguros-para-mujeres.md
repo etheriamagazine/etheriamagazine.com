@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/07/viajar-sola-inca-trail.jpg
 categories: 
   - viajar-sola
   - inspiración
-destino: 
-  - España
 authors: 
   - Elisabeth G. Iborra
 ---

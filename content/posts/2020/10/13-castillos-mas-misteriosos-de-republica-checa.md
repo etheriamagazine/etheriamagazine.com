@@ -4,8 +4,8 @@ date: 2020-10-09
 cover: https://fotos.etheriamagazine.com/2020/10/republica-checa-cesky-krumlov.jpg
 categories: 
   - inspiración
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

@@ -6,8 +6,8 @@ categories:
   - viajar-sola
   - historias
   - mujeres-top
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Sania Jelic
 ---

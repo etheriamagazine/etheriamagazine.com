@@ -4,8 +4,8 @@ date: 2024-03-15
 cover: https://fotos.etheriamagazine.com/2020/02/Temple-Bar-Dublin.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

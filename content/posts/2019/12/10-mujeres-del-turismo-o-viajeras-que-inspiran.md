@@ -7,8 +7,6 @@ categories:
   - inspiración
   - mujeres-top
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

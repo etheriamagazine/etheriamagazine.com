@@ -4,8 +4,6 @@ date: 2020-03-24
 cover: https://fotos.etheriamagazine.com/2020/03/seguro-viaje-deportivo.jpg
 categories: 
   - inspiración
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

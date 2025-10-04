@@ -4,8 +4,8 @@ date: 2018-06-25
 cover: https://fotos.etheriamagazine.com/2018/05/Ibiza-atardecer_Benirras_consell-e1551949129730.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Nuria Cortés
 ---

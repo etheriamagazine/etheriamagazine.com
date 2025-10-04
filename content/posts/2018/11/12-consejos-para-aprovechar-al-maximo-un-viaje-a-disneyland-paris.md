@@ -6,8 +6,8 @@ categories:
   - viajar-en-familia
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Yvonne Solé
 ---

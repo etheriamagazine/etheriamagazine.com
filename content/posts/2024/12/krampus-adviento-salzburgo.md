@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2023/10/Salzburgo-nieve.jpg
 categories: 
   - viajar-en-familia
   - ocio
-destino: 
-  - Europa
 authors: 
   - Pedro Grifol
 ---

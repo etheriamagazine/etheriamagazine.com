@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/11/miguel-jara-escritor.jpg
 categories: 
   - bienestar
   - cultura
-destino: 
-  - España
 authors: 
   - Maria Miret
 ---

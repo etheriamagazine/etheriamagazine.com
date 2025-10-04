@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/07/Malaga-ninos-teleferico.jpg
 categories: 
   - viajar-en-familia
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2019-04-24
 cover: https://fotos.etheriamagazine.com/2019/04/opera-viena-exterior.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Cristina R. Bareño
 ---

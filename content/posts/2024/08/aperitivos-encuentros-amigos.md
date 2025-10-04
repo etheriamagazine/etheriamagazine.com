@@ -4,8 +4,6 @@ date: 2024-08-11
 cover: https://fotos.etheriamagazine.com/2024/08/chips-smoky-paprika.jpg
 categories: 
   - gourmet
-destino: 
-  - España
 authors: 
   - Etheria Magazine
 ---

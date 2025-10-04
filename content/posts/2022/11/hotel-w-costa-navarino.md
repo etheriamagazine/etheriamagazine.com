@@ -4,8 +4,8 @@ date: 2022-11-16
 cover: https://fotos.etheriamagazine.com/2022/11/W-Costa-Navarino-piscina-atardecer.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

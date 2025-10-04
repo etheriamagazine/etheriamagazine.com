@@ -4,8 +4,8 @@ date: 2018-12-14
 cover: https://fotos.etheriamagazine.com/2018/12/Aspen-Snowmass-mujeres-esqui.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Cristina R. Bareño
 ---

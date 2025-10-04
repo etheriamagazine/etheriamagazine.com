@@ -4,8 +4,8 @@ date: 2021-09-07
 cover: https://fotos.etheriamagazine.com/2021/09/compras-londres.jpg
 categories: 
   - compras
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

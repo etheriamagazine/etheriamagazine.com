@@ -4,8 +4,8 @@ date: 2021-10-27
 cover: https://fotos.etheriamagazine.com/2021/10/lisboa-detalle-chiado.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Cynthia Martín
 ---

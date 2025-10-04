@@ -4,8 +4,8 @@ date: 2020-07-16
 cover: https://fotos.etheriamagazine.com/2020/07/terraza-verano-Adolfo-Cigarral-Santa-Maria.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

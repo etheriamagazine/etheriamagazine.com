@@ -4,8 +4,8 @@ date: 2020-09-11
 cover: https://fotos.etheriamagazine.com/2020/09/restaurante-santita-helado-chocolate-metate-baja.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

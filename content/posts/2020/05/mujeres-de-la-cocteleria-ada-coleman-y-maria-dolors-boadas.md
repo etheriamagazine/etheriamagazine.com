@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/05/coctel-hanky-panky.jpeg
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pedro Grifol
 ---

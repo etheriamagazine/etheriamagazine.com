@@ -4,8 +4,8 @@ date: 2020-12-25
 cover: https://fotos.etheriamagazine.com/2020/12/sopot-muelle.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

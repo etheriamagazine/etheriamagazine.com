@@ -4,8 +4,6 @@ date: 2022-12-22
 cover: https://fotos.etheriamagazine.com/2022/12/exposicion-tutankmon-liria-cartel.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

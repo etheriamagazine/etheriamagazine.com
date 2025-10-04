@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/02/Lucca-catedral-e1550913127169.j
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

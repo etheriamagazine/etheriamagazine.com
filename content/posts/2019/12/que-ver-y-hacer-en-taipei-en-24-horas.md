@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/12/taipei-cambio-guardia.jpg
 categories: 
   - viajar-con-amigas
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

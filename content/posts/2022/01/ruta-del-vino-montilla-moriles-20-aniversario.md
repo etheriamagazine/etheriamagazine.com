@@ -4,8 +4,8 @@ date: 2022-01-11
 cover: https://fotos.etheriamagazine.com/2022/01/montilla-moriles-vinedos.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

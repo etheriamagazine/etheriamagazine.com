@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2024/10/mujer-empoderada.jpg
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - Europa
 authors: 
   - Redacción Etheria
 ---

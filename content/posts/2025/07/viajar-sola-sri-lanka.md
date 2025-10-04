@@ -4,8 +4,8 @@ date: 2025-07-10
 cover: https://fotos.etheriamagazine.com/2025/07/sri-lanka-sania-negombo.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

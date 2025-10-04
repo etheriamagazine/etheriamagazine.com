@@ -4,8 +4,6 @@ date: 2019-05-07
 cover: https://fotos.etheriamagazine.com/2019/05/cristina-senserrich-casa-malaika.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -4,8 +4,8 @@ date: 2021-12-29
 cover: https://fotos.etheriamagazine.com/2021/12/Ruta-del-VI-DO-TARRAGONA.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

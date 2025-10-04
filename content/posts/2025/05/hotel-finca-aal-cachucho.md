@@ -4,8 +4,8 @@ date: 2025-05-20
 cover: https://fotos.etheriamagazine.com/2025/05/finca-aal-cachucho-jardin.jpeg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

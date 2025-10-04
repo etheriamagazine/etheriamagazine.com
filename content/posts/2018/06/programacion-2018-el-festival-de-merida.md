@@ -4,8 +4,6 @@ date: 2018-06-04
 cover: https://fotos.etheriamagazine.com/2018/06/programacion-cabecera-64.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Pilar Ortega
 ---

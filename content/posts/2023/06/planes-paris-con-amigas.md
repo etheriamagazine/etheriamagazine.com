@@ -4,8 +4,8 @@ date: 2023-06-16
 cover: https://fotos.etheriamagazine.com/2023/06/paris-amigas-tullerias.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

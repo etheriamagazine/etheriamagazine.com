@@ -4,8 +4,8 @@ date: 2021-09-03
 cover: https://fotos.etheriamagazine.com/2021/08/Cannes-Le-Suquet.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Yolanda Cardo
 ---

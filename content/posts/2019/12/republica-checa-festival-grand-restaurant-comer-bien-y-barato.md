@@ -6,8 +6,8 @@ categories:
   - viajar-con-amigas
   - ocio
   - gourmet
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

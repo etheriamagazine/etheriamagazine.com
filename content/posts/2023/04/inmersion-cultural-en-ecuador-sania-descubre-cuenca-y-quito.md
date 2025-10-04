@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/04/sania-ecuador-cuenca-catedral.j
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

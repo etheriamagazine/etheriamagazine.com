@@ -4,8 +4,8 @@ date: 2021-04-21
 cover: https://fotos.etheriamagazine.com/2021/03/sala-de-Mae-West-Teatro-Museo-Dali.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

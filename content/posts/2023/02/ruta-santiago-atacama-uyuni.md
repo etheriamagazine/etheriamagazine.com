@@ -4,8 +4,8 @@ date: 2023-02-27
 cover: https://fotos.etheriamagazine.com/2023/02/sania-desierto-atacama.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

@@ -4,8 +4,8 @@ date: 2022-11-30
 cover: https://fotos.etheriamagazine.com/2022/11/costa-rica-caminos-de-osa-1.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Etheria Magazine
 ---

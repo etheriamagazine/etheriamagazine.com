@@ -4,8 +4,8 @@ date: 2025-08-28
 cover: https://fotos.etheriamagazine.com/2025/08/plaza-mayor-madrid.jpeg
 categories: 
   - excursiones
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

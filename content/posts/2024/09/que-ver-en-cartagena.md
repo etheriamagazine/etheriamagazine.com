@@ -4,8 +4,8 @@ date: 2024-09-14
 cover: https://fotos.etheriamagazine.com/2024/09/cartagena-palacio-aguirre.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

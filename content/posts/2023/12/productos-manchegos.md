@@ -4,8 +4,6 @@ date: 2023-12-22
 cover: https://fotos.etheriamagazine.com/2023/12/productos-manchegos-cena-navidad.jpg
 categories: 
   - gourmet
-destino: 
-  - Mundo
 authors: 
   - Redacción Etheria
 ---

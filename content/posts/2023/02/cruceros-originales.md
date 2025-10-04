@@ -4,8 +4,6 @@ date: 2023-02-24
 cover: https://fotos.etheriamagazine.com/2023/02/crucero-alaska-glacier-bay.jpg
 categories: 
   - guias-de-destino
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

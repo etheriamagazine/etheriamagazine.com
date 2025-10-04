@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2024/08/friedrich-paisaje-dresde-mujer.
 categories: 
   - cultura
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

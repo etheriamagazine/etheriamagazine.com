@@ -4,8 +4,8 @@ date: 2018-12-04
 cover: https://fotos.etheriamagazine.com/2018/11/valencia-con-amigas-Palau-Alameda.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Macarena Escrivá
 ---

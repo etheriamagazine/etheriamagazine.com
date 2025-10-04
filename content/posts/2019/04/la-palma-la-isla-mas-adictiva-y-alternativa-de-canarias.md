@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-mirador.jp
 categories: 
   - viajar-con-amigas
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

@@ -4,8 +4,8 @@ date: 2020-02-10
 cover: https://fotos.etheriamagazine.com/2020/02/restaurante-metodo-teruel-1.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Elisabeth G. Iborra
 ---

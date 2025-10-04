@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/04/viaje-madre-hija.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

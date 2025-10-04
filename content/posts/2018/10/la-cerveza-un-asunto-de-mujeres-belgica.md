@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/09/Cerveza-te-quiero.jpg
 categories: 
   - viajar-con-amigas
   - historias
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

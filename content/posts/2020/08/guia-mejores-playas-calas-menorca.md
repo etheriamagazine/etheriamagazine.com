@@ -4,8 +4,8 @@ date: 2020-08-14
 cover: https://fotos.etheriamagazine.com/2020/08/playa-menorca-Es-Calo-blanc.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Nuria Cortés
 ---

@@ -4,8 +4,8 @@ date: 2024-07-01
 cover: https://fotos.etheriamagazine.com/2024/06/gran-canaria-Playa-Las-Canteras.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2023/12/esqui-intermundial-mujer.jpg
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

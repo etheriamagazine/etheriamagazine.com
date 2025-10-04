@@ -6,8 +6,8 @@ categories:
   - historias
   - mujeres-top
   - proyectos
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Firmas invitadas
 ---

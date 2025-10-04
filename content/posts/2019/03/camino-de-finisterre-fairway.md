@@ -4,8 +4,8 @@ date: 2019-03-06
 cover: https://fotos.etheriamagazine.com/2019/02/Mujeres-camino-santiago.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

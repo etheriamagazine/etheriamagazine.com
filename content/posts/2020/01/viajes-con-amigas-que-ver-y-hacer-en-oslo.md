@@ -4,8 +4,8 @@ date: 2020-01-24
 cover: https://fotos.etheriamagazine.com/2020/01/mercado-oslo-Mathallen.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Marina Paul
 ---

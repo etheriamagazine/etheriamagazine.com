@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/04/Engelberg-ninas-Furenalp.jpg
 categories: 
   - viajar-en-familia
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

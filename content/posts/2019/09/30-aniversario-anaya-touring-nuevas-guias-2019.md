@@ -4,8 +4,6 @@ date: 2019-09-26
 cover: https://fotos.etheriamagazine.com/2019/09/anaya.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Pepa G. Marín
 ---

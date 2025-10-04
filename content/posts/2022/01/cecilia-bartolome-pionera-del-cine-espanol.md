@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2022/01/Cecilia-Bartolome-premio-de-hon
 categories: 
   - historias
   - mujeres-top
-destino: 
-  - España
 authors: 
   - Carmen Pineda
 ---

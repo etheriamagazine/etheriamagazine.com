@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/06/Gran-canaria-dulcería-nublo.j
 categories: 
   - viajar-en-familia
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Alfredo G. Reyes
 ---

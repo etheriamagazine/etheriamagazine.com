@@ -4,8 +4,8 @@ date: 2020-09-07
 cover: https://fotos.etheriamagazine.com/2020/08/ruta-vino-penedes-Enoturismo.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

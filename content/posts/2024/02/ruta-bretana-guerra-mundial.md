@@ -4,8 +4,8 @@ date: 2024-02-19
 cover: https://fotos.etheriamagazine.com/2024/02/Museo-Memoria-39-45.jpg
 categories: 
   - viajar-en-pareja
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

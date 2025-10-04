@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/05/sania-guatemala-lago-atitlan-pu
 categories: 
   - viajar-sola
   - historias
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

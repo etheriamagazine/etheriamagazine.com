@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/12/Patricio-Reig-Bramante.jpg
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pilar Ortega
 ---

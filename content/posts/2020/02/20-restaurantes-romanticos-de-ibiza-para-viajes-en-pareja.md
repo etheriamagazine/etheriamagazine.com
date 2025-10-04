@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2020/02/restaurantes-romanticos-la-torr
 categories: 
   - viajar-con-amigas
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Nuria Cortés
 ---

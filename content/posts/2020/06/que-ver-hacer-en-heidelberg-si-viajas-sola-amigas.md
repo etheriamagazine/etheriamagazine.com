@@ -4,8 +4,8 @@ date: 2020-06-12
 cover: https://fotos.etheriamagazine.com/2020/06/Heidelberg-vistas-puente.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

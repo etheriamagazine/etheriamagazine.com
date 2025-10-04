@@ -4,8 +4,8 @@ date: 2018-10-04
 cover: https://fotos.etheriamagazine.com/2018/10/1-bodega-bohedal-vino-flores.jpg
 categories: 
   - mujeres-top
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Carmen Bengoechea
 ---

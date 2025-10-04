@@ -4,8 +4,8 @@ date: 2019-08-02
 cover: https://fotos.etheriamagazine.com/2019/07/2-rumania-aerea-transfagarasan.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Cristina R. Bareño
 ---

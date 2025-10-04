@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2023/03/sania-sucre.jpg
 categories: 
   - viajar-sola
   - mujeres-top
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Sania Jelic
 ---

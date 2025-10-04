@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/02/cruceros-Disney-castaway-cay.jp
 categories: 
   - inspiración
   - ocio
-destino: 
-  - Europa
 authors: 
   - Susana García
 ---

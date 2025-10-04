@@ -4,8 +4,8 @@ date: 2018-07-25
 cover: https://fotos.etheriamagazine.com/2018/07/Cabo-Sardao-viajes-aventura-mujeres-1.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Kris Ubach
 ---

@@ -4,8 +4,8 @@ date: 2019-04-06
 cover: https://fotos.etheriamagazine.com/2019/04/Chef-Esperanza-Lithgow.jpg
 categories: 
   - gourmet
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Pepa G. Marín
 ---

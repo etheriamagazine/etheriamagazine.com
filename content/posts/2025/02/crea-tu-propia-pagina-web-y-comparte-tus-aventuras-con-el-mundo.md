@@ -4,8 +4,6 @@ date: 2025-02-26
 cover: https://fotos.etheriamagazine.com/2025/02/crucero-islas.jpg
 categories: 
   - hemeroteca
-destino: 
-  - Europa
 authors: 
   - Redacción Etheria
 ---

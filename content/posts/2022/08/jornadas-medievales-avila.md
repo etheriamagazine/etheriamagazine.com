@@ -4,8 +4,6 @@ date: 2022-08-24
 cover: https://fotos.etheriamagazine.com/2022/08/mercado-medieval-avila.jpg
 categories: 
   - hemeroteca
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

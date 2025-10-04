@@ -4,8 +4,8 @@ date: 2020-04-20
 cover: https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-bizkaia-ver-delfines.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

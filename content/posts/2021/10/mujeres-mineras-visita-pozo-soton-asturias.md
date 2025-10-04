@@ -4,8 +4,8 @@ date: 2021-10-20
 cover: https://fotos.etheriamagazine.com/2021/10/galeria-mina-asturias.jpg
 categories: 
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kelu Robles
 ---

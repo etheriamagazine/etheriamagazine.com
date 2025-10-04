@@ -4,8 +4,8 @@ date: 2022-06-14
 cover: https://fotos.etheriamagazine.com/2022/06/plaza-Murnau-alemania.jpg
 categories: 
   - mujeres-top
-destino: 
-  - Mundo
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

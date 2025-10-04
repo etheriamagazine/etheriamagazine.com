@@ -4,8 +4,8 @@ date: 2019-07-25
 cover: https://fotos.etheriamagazine.com/2019/07/rioja-alavesa-segway.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Kris Ubach
 ---

@@ -4,8 +4,6 @@ date: 2023-05-10
 cover: https://fotos.etheriamagazine.com/2023/05/rosquillas-violeta-el-pozo-madrid.jpg
 categories: 
   - gourmet
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

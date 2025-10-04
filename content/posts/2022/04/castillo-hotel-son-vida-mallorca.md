@@ -4,8 +4,8 @@ date: 2022-04-20
 cover: https://fotos.etheriamagazine.com/2022/04/Son-vida-fachada.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

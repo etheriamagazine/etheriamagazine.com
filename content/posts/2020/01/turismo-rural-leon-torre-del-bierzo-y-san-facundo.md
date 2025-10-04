@@ -4,8 +4,8 @@ date: 2020-01-27
 cover: https://fotos.etheriamagazine.com/2020/01/Leon-pueblo-San-Facundo.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pedro Grifol
 ---

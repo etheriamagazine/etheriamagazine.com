@@ -4,8 +4,6 @@ date: 2022-05-31
 cover: https://fotos.etheriamagazine.com/2022/05/Francfort-alemania.jpg
 categories: 
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

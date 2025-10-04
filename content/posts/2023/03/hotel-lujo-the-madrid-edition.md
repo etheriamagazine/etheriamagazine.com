@@ -4,8 +4,8 @@ date: 2023-03-27
 cover: https://fotos.etheriamagazine.com/2023/03/hotel-madrid-edition-sala.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2020-08-04
 cover: https://fotos.etheriamagazine.com/2018/09/La-Geria-Lanzarote.jpg
 categories: 
   - viajar-sola
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Cristina Fernández
 ---

@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/10/grullas-en-vuelo.jpg
 categories: 
   - viajar-en-familia
   - ocio
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

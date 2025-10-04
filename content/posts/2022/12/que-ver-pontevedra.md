@@ -4,8 +4,8 @@ date: 2022-12-14
 cover: https://fotos.etheriamagazine.com/2022/12/faro-ons.jpg
 categories: 
   - inspiración
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Juan Carlos y Mar
 ---

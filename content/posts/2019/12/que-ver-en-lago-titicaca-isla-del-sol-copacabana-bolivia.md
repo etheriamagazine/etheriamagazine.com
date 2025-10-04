@@ -4,8 +4,8 @@ date: 2019-12-20
 cover: https://fotos.etheriamagazine.com/2019/12/isla-del-sol-lago-titicaca.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Cris Aizpeolea
 ---

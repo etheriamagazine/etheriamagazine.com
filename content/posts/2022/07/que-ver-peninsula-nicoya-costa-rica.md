@@ -4,8 +4,8 @@ date: 2022-07-15
 cover: https://fotos.etheriamagazine.com/2022/07/costa-rica-surf-Playa-Teresa.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

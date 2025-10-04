@@ -4,8 +4,8 @@ date: 2021-08-02
 cover: https://fotos.etheriamagazine.com/2021/07/relais-de-chambord-restaurant-le-grand-saint-michel.jpg
 categories: 
   - hoteles
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

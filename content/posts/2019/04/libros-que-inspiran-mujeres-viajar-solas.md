@@ -4,8 +4,6 @@ date: 2019-04-23
 cover: https://fotos.etheriamagazine.com/2019/04/libros-mujeres-etheria.jpg
 categories: 
   - cultura
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

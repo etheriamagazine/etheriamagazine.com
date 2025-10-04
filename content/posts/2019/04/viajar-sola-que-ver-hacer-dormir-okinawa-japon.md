@@ -4,8 +4,8 @@ date: 2019-04-05
 cover: https://fotos.etheriamagazine.com/2019/04/okinawa-boda-japon.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Yvonne Solé
 ---

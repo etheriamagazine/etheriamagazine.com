@@ -4,8 +4,8 @@ date: 2019-09-05
 cover: https://fotos.etheriamagazine.com/2019/09/sendero-Skellig-Michael.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

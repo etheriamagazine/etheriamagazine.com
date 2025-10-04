@@ -5,8 +5,8 @@ cover: https://fotos.etheriamagazine.com/2021/10/viajes-estados-unidos-golden-ca
 categories: 
   - inspiración
   - ocio
-destino: 
-  - España
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

@@ -4,8 +4,8 @@ date: 2021-03-22
 cover: https://fotos.etheriamagazine.com/2021/03/hotel-canonigo-ibiza-terraza-habitacion.jpg
 categories: 
   - hoteles
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Redacción Etheria
 ---

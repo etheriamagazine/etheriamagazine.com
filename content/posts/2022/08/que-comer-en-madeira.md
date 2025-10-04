@@ -4,8 +4,8 @@ date: 2022-08-30
 cover: https://fotos.etheriamagazine.com/2022/08/comida-madeira-espetada.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

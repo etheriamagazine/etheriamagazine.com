@@ -4,8 +4,8 @@ date: 2023-01-12
 cover: https://fotos.etheriamagazine.com/2023/01/Stykkisholmur-islandia.jpg
 categories: 
   - ocio
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

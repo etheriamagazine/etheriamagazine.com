@@ -4,8 +4,8 @@ date: 2025-07-15
 cover: https://fotos.etheriamagazine.com/2025/07/vesubio-napoles-vistas.jpg
 categories: 
   - viajar-en-familia
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

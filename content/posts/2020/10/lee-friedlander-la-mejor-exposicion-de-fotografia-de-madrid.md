@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/10/lee-frielander-baltimore-1968.j
 categories: 
   - cultura
   - ocio
-destino: 
-  - España
 authors: 
   - Redacción Etheria
 ---

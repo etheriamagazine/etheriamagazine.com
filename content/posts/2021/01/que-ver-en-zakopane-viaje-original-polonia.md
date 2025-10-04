@@ -4,8 +4,8 @@ date: 2021-01-27
 cover: https://fotos.etheriamagazine.com/2021/01/zakopane.jpg
 categories: 
   - viajar-con-amigas
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Manena Munar
 ---

@@ -4,8 +4,8 @@ date: 2023-09-11
 cover: https://fotos.etheriamagazine.com/2023/09/rosa-ruiz-bodeguera.jpg
 categories: 
   - gourmet
-destino: 
-  - España
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

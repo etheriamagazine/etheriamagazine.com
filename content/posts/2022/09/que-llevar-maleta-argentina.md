@@ -4,8 +4,8 @@ date: 2022-09-14
 cover: https://fotos.etheriamagazine.com/2022/09/viaje-argentina.jpg
 categories: 
   - que-llevar-en-la-maleta
-destino: 
-  - Mundo
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

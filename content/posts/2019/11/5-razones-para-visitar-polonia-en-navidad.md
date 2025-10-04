@@ -4,8 +4,8 @@ date: 2019-11-05
 cover: https://fotos.etheriamagazine.com/2019/10/polonia-que-ver-navidad.jpg
 categories: 
   - viajar-sola
-destino: 
-  - Europa
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---
