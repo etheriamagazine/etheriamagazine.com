@@ -4,8 +4,6 @@ date: 2018-07-27
 cover: https://fotos.etheriamagazine.com/2018/07/nueva-york-familia-central-park.jpg
 categories: 
   - viajar-en-familia
-  - estilo-de-vida
-  - inspiracion
 tags: 
   - mundo
 authors: 

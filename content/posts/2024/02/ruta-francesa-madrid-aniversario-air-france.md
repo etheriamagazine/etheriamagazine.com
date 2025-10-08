@@ -3,9 +3,7 @@ title: "Ruta francesa por Madrid para celebrar el 90 Aniversario de Air France"
 date: 2024-02-01
 cover: https://fotos.etheriamagazine.com/2024/02/air-france-carteles-historicos.jpg
 categories: 
-  - viajar-sola
-  - estilo-de-vida
-  - ocio
+  - hemeroteca
 tags: 
   - españa
 authors: 

@@ -3,7 +3,6 @@ title: "Mercados de Navidad de Zúrich, un fin de semana inolvidable"
 date: 2018-10-12
 cover: https://fotos.etheriamagazine.com/2018/10/Zurich-vista-nocturna-e1566286407183.jpg
 categories: 
-  - viajar-con-amigas
   - viajar-en-familia
 tags: 
   - europa

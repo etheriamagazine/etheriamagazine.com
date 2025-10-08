@@ -3,9 +3,8 @@ title: "10 islas en Europa para disfrutar del verano"
 date: 2019-07-30
 cover: https://fotos.etheriamagazine.com/2018/12/capri-viajes-lujo-e1577003736780.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - europa
 authors: 

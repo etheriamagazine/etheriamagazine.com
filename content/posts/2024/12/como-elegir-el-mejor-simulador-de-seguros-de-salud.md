@@ -4,8 +4,7 @@ date: 2024-12-25
 cover: https://fotos.etheriamagazine.com/2024/12/viajera.jpeg
 categories: 
   - estilo-de-vida
-  - inspiracion
-  - ocio
+  - cultura
 authors: 
   - Redacción Etheria
 ---

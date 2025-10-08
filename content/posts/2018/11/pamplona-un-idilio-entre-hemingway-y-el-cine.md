@@ -5,19 +5,18 @@ cover: https://fotos.etheriamagazine.com/2018/11/Hemingway-1959-Pamplona-Iruña
 categories: 
   - estilo-de-vida
   - cultura
-  - ocio
 tags: 
   - españa
 authors: 
   - Eva Madruga
 ---
 
-**Cada año, y ya van tres, Pamplona rinde homenaje a Ernest Hemingway, uno de sus 
+Cada año, y ya van tres, Pamplona rinde homenaje a Ernest Hemingway, uno de sus 
 embajadores más famosos con el ciclo 'Recuperando a Hemingway'. El escritor 
 norteamericano conoció la ciudad y su fiesta grande por primera vez en 1923. Tanto le 
 enamoró que regresó 8 veces más. El evento, que este año se centra en la repercusión 
 cinematográfica de la ciudad, incluye una exposición, degustaciones gastronómicas, 
-proyecciones cinematográficas y visitas guiadas.** 
+proyecciones cinematográficas y visitas guiadas. 
 
 ![Cartel del Festival e imagen de Hemingway con Lady Duff Twysden y tres amigos más.](https://fotos.etheriamagazine.com/2018/11/Festival-cine-pamplona.jpg "Cartel del Festival e imagen de Hemingway con Lady Duff Twysden y tres amigos más.")
 

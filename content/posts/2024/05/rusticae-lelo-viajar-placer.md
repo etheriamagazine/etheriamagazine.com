@@ -5,7 +5,6 @@ cover: https://fotos.etheriamagazine.com/2024/05/rusticae-lelo-granada-juan-rana
 categories: 
   - estilo-de-vida
   - bienestar
-  - inspiracion
 authors: 
   - Redacción Etheria
 ---

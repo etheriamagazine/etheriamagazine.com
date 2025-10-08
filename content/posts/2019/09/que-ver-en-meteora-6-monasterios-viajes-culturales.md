@@ -4,7 +4,6 @@ date: 2019-09-30
 cover: https://fotos.etheriamagazine.com/2019/09/visitas-templos-meteora.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-sola
 tags: 
   - europa
 authors: 

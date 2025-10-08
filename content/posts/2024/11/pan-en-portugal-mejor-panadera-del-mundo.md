@@ -5,9 +5,6 @@ cover: https://fotos.etheriamagazine.com/2024/11/Portugal-Pao-de-Lo-Ovar-trozo.j
 categories: 
   - estilo-de-vida
   - gourmet
-  - entre-mujeres
-  - historias-en-femenino
-  - mujeres-top
 tags: 
   - europa
 authors: 

@@ -3,7 +3,8 @@ title: "Una ‘noche toledana’ con Eugenia de Montijo: visitas orginales en To
 date: 2019-08-19
 cover: https://fotos.etheriamagazine.com/2019/08/que-hacer-toledo-noche.jpg
 categories: 
-  - viajar-sola
+  - organiza-tu-viaje
+  - excursiones
 tags: 
   - españa
 authors: 

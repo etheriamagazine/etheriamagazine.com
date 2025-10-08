@@ -3,10 +3,8 @@ title: "Fin de semana en Logroño con las noches de vino y cine de Bodegas Franc
 date: 2023-06-26
 cover: https://fotos.etheriamagazine.com/2023/06/bodegas-franco-espanolas-tardeojpg.jpg
 categories: 
-  - viajar-con-amigas
   - estilo-de-vida
-  - inspiracion
-  - ocio
+  - gourmet
 tags: 
   - españa
 authors: 

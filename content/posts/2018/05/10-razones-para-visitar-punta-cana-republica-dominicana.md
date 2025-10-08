@@ -4,8 +4,6 @@ date: 2018-05-18
 cover: https://fotos.etheriamagazine.com/2018/05/3-Republica-Dominicana-Sur-7.jpg
 categories: 
   - viajar-con-amigas
-  - estilo-de-vida
-  - inspiracion
 tags: 
   - mundo
 authors: 

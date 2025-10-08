@@ -4,8 +4,6 @@ date: 2020-06-02
 cover: https://fotos.etheriamagazine.com/2020/05/viaje-barrancas.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-en-familia
-  - viajar-sola
 tags: 
   - españa
 authors: 

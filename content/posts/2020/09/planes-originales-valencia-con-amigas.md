@@ -3,8 +3,7 @@ title: "Planes originales para disfrutar de Valencia con amigas"
 date: 2020-09-18
 cover: https://fotos.etheriamagazine.com/2020/09/valencia-jacuzzi-con-vistas-de-noche.jpg
 categories: 
-  - estilo-de-vida
-  - ocio
+  - viajar-con-amigas
 tags: 
   - españa
 authors: 

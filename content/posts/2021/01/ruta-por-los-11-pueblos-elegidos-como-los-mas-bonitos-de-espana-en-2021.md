@@ -3,7 +3,8 @@ title: "Ruta por los 11 pueblos elegidos como los más bonitos de España en 202
 date: 2021-01-19
 cover: https://fotos.etheriamagazine.com/2021/01/portada-bulnes.jpg
 categories: 
-  - viajar-con-amigas
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - españa
 authors: 

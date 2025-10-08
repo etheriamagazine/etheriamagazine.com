@@ -5,7 +5,6 @@ cover: https://fotos.etheriamagazine.com/2024/01/museo-prado-2024.jpg
 categories: 
   - estilo-de-vida
   - cultura
-  - ocio
 authors: 
   - Redacción Etheria
 ---

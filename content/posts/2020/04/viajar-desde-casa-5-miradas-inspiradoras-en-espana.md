@@ -3,9 +3,8 @@ title: "5 paisajes españoles vistos desde otra perspectiva"
 date: 2020-04-10
 cover: https://fotos.etheriamagazine.com/2020/04/marismas-cadiz-horizontal.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - españa
 authors: 

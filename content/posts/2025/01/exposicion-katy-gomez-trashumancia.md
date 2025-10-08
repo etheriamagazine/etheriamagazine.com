@@ -5,7 +5,6 @@ cover: https://fotos.etheriamagazine.com/2025/01/Exposicion-yerba-04.jpeg
 categories: 
   - estilo-de-vida
   - cultura
-  - ocio
 authors: 
   - Redacción Etheria
 ---

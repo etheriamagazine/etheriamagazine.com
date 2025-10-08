@@ -5,7 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/07/hotel-los-anades-festival-jazz-
 categories: 
   - estilo-de-vida
   - gourmet
-  - hoteles
 authors: 
   - Pepa G. Marín
 ---

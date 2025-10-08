@@ -3,7 +3,7 @@ title: "Descubre la ruta por la arquitectura más elegante de Buenos Aires"
 date: 2019-07-05
 cover: https://fotos.etheriamagazine.com/2019/06/Buenos-Aires-Palacio-de-Aguas-Corrientes.jpg
 categories: 
-  - viajar-sola
+  - viajar-con-amigas
 tags: 
   - mundo
 authors: 

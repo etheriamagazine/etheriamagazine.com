@@ -3,9 +3,8 @@ title: "Qué ver en la Mezquita-Catedral de Córdoba: 10 rincones imprescindible
 date: 2022-08-12
 cover: https://fotos.etheriamagazine.com/2022/08/mezquita-cordoba-arcos-cruz.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - organiza-tu-viaje
+  - excursiones
 tags: 
   - españa
 authors: 

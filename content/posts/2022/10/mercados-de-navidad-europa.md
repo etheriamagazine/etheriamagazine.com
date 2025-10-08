@@ -3,8 +3,8 @@ title: "6 lugares donde disfrutar de los mercados de Navidad más tradicionales"
 date: 2022-10-21
 cover: https://fotos.etheriamagazine.com/2022/10/Navidad-Salzburgo-mercadillo-navidad-catedral.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - europa
 authors: 

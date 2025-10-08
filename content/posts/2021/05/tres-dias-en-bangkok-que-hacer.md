@@ -4,9 +4,6 @@ date: 2021-05-29
 cover: https://fotos.etheriamagazine.com/2018/06/Bangkok-crucero-rio-chao-praya.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-en-pareja
-  - estilo-de-vida
-  - ocio
 tags: 
   - mundo
 authors: 

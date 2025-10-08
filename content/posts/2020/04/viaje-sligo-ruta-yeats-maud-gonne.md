@@ -4,8 +4,6 @@ date: 2020-04-22
 cover: https://fotos.etheriamagazine.com/2020/04/bosque-sligo.jpg
 categories: 
   - viajar-con-amigas
-  - entre-mujeres
-  - historias-en-femenino
 tags: 
   - europa
 authors: 

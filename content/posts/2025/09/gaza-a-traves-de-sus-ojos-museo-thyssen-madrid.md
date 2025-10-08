@@ -5,7 +5,6 @@ cover: https://fotos.etheriamagazine.com/2025/09/exposicion-thyssen-Gaza-Palesti
 categories: 
   - estilo-de-vida
   - cultura
-  - ocio
 authors: 
   - Redacción Etheria
 ---

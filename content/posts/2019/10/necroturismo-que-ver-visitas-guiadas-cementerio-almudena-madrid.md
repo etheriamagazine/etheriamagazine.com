@@ -4,7 +4,6 @@ date: 2019-10-30
 cover: https://fotos.etheriamagazine.com/2019/10/cementerio-almudena-tetas-desnudo.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-sola
 tags: 
   - españa
 authors: 

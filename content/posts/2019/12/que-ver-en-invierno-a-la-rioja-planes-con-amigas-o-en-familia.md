@@ -3,7 +3,8 @@ title: "Planes de invierno en La Rioja: mucho más que vino"
 date: 2019-12-13
 cover: https://fotos.etheriamagazine.com/2019/12/viaje-la-rioja-cueva-cien-pilares-arnedo.jpg
 categories: 
-  - viajar-con-amigas
+  - estilo-de-vida
+  - gourmet
 tags: 
   - españa
 authors: 

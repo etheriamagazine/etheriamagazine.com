@@ -3,9 +3,8 @@ title: "8 planes que no puedes perderte en Bruselas y Flandes"
 date: 2021-03-12
 cover: https://fotos.etheriamagazine.com/2021/03/Planes-flandes-paseo-barca-brujas.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - europa
 authors: 

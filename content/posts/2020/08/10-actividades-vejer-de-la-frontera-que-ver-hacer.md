@@ -4,8 +4,6 @@ date: 2020-08-11
 cover: https://fotos.etheriamagazine.com/2020/08/vejer-panoramica.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-en-familia
-  - viajar-en-pareja
 tags: 
   - españa
 authors: 

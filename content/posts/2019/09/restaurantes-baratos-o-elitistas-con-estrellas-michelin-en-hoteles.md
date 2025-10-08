@@ -5,9 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/09/hoteles-restaurantes-estrella-m
 categories: 
   - estilo-de-vida
   - gourmet
-  - hoteles
-  - inspiracion
-  - ocio
 authors: 
   - Vanesa Viñolo
 ---

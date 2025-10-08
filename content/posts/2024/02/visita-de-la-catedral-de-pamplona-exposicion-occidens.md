@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2024/02/pamplona-catedral-fachada.jpg
 categories: 
   - organiza-tu-viaje
   - excursiones
-  - estilo-de-vida
-  - ocio
 tags: 
   - españa
 authors: 

@@ -3,8 +3,7 @@ title: "Tres visitas modernistas en Terrassa que justifican una escapada"
 date: 2021-08-20
 cover: https://fotos.etheriamagazine.com/2021/08/masia-freixa-modernismo.jpg
 categories: 
-  - estilo-de-vida
-  - ocio
+  - viajar-con-amigas
 tags: 
   - españa
 authors: 

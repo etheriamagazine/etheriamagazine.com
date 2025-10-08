@@ -4,8 +4,6 @@ date: 2023-11-10
 cover: https://fotos.etheriamagazine.com/2023/11/consuegra-molinos-castilla-mancha.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-en-familia
-  - viajar-en-pareja
 tags: 
   - españa
 authors: 

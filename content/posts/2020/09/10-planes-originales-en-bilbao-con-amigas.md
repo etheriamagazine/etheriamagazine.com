@@ -3,8 +3,7 @@ title: "10 planes originales en Bilbao con amigas"
 date: 2020-09-09
 cover: https://fotos.etheriamagazine.com/2020/09/planes-originales-bilbao-Hotel-Capsula.jpg
 categories: 
-  - estilo-de-vida
-  - ocio
+  - viajar-con-amigas
 tags: 
   - españa
 authors: 

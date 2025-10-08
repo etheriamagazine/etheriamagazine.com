@@ -3,9 +3,8 @@ title: "Propuestas para viajar en coche por Europa que nunca fallan"
 date: 2020-03-23
 cover: https://fotos.etheriamagazine.com/2021/02/Coche-suiza-montanas.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - europa
 authors: 

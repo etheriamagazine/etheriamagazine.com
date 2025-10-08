@@ -4,9 +4,7 @@ date: 2018-12-28
 cover: https://fotos.etheriamagazine.com/2018/12/Madrid-canas-taberna-la-daniela.jpg
 categories: 
   - estilo-de-vida
-  - inspiracion
   - gourmet
-  - ocio
 tags: 
   - españa
 authors: 

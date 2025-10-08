@@ -4,7 +4,6 @@ date: 2021-01-12
 cover: https://fotos.etheriamagazine.com/2020/05/amanecer-pescaturismo.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-en-familia
 tags: 
   - españa
 authors: 

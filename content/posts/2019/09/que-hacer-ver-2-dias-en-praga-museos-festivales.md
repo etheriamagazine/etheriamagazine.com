@@ -3,8 +3,7 @@ title: "Qué hacer en Praga en otoño, diseño y vendimia"
 date: 2019-09-16
 cover: https://fotos.etheriamagazine.com/2019/09/viaje-praga-Dancing-House-e1567528328491.jpg
 categories: 
-  - viajar-con-amigas
-  - viajar-sola
+  - hemeroteca
 tags: 
   - europa
 authors: 

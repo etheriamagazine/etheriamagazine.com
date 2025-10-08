@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2020/12/efigenia-las-hayas-la-gomera.jp
 categories: 
   - estilo-de-vida
   - gourmet
-  - entre-mujeres
-  - mujeres-top
 tags: 
   - españa
 authors: 

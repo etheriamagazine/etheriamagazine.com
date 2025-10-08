@@ -3,9 +3,8 @@ title: "10 excursiones en España que mejoran si las haces en otoño"
 date: 2020-09-22
 cover: https://fotos.etheriamagazine.com/2019/04/leon-medulas-minas-oro.jpg
 categories: 
-  - viajar-en-familia
-  - estilo-de-vida
-  - inspiracion
+  - organiza-tu-viaje
+  - excursiones
 tags: 
   - españa
 authors: 

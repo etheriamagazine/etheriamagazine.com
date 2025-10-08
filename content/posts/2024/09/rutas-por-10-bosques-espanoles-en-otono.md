@@ -3,7 +3,8 @@ title: "10 bosques españoles a los que el otoño saca su mejor cara"
 date: 2024-09-21
 cover: https://fotos.etheriamagazine.com/2021/09/bosque-otono-hoz-jucar.jpg
 categories: 
-  - viajar-en-familia
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - españa
 authors: 

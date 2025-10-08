@@ -3,7 +3,6 @@ title: "La Dehesa Experiences, un alojamiento único en la sierra cordobesa"
 date: 2022-06-10
 cover: https://fotos.etheriamagazine.com/2022/06/dehesa-experience-glamping.jpg
 categories: 
-  - viajar-en-familia
   - estilo-de-vida
   - hoteles
 tags: 

@@ -3,8 +3,8 @@ title: "10 yacimientos arqueológicos de México que no puedes perderte"
 date: 2021-03-30
 cover: https://fotos.etheriamagazine.com/2021/03/yacimiento-calakmul.jpg
 categories: 
-  - estilo-de-vida
-  - ocio
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - mundo
 authors: 

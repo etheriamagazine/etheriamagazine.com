@@ -3,8 +3,7 @@ title: "Fráncfort y Bremen se asoman a Madrid para mostrar sus encantos"
 date: 2022-05-31
 cover: https://fotos.etheriamagazine.com/2022/05/Francfort-alemania.jpg
 categories: 
-  - estilo-de-vida
-  - ocio
+  - hemeroteca
 authors: 
   - Redacción Etheria
 ---

@@ -5,7 +5,6 @@ cover: https://fotos.etheriamagazine.com/2018/08/Navarra-de-cine-Anacleto.jpg
 categories: 
   - estilo-de-vida
   - cultura
-  - ocio
 tags: 
   - españa
 authors: 

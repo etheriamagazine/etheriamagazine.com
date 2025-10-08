@@ -3,7 +3,8 @@ title: "La Sierra de Entzia, des(conexión) en siete pasos en Álava"
 date: 2021-05-12
 cover: https://fotos.etheriamagazine.com/2021/05/cascadas-de-toberia.jpg
 categories: 
-  - viajar-en-familia
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - españa
 authors: 

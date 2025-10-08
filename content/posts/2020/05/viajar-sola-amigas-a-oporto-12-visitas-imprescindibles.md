@@ -4,7 +4,6 @@ date: 2020-05-01
 cover: https://fotos.etheriamagazine.com/2020/05/oporto-con-amigas.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-sola
 tags: 
   - europa
 authors: 

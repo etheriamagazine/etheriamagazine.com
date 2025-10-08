@@ -3,8 +3,7 @@ title: "15 imprescindibles de la provincia de Granada para un viaje bien organiz
 date: 2022-09-30
 cover: https://fotos.etheriamagazine.com/2022/09/granada-parque-Sierra-Nevada.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
+  - viajar-con-amigas
 tags: 
   - españa
 authors: 

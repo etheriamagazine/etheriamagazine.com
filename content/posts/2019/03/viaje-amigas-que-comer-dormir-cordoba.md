@@ -3,7 +3,8 @@ title: "Córdoba, maridaje ideal entre historia y gastronomía"
 date: 2019-03-25
 cover: https://fotos.etheriamagazine.com/2019/03/Cordoba-restaurante-Recomiendo.jpg
 categories: 
-  - viajar-en-pareja
+  - estilo-de-vida
+  - gourmet
 tags: 
   - españa
 authors: 

@@ -3,14 +3,21 @@ title: "Viajes de cine: el Londres de Mary Poppins"
 date: 2019-01-22
 cover: https://fotos.etheriamagazine.com/2019/01/viajes-cine-regreso-mary-poppins.jpg
 categories: 
-  - viajar-en-familia
+  - estilo-de-vida
+  - cultura
 tags: 
   - europa
 authors: 
   - Eva Madruga
 ---
 
-Una de las niñeras más famosas del mundo conquista las pantallas con su bolso mágico y su paraguas volador, gracias a la secuela de la clásica película de Disney: _El regreso de Mary Poppins_. Para todas las incondicionales de este mágico personaje hemos preparado un recorrido por algunas de las localizaciones de Londres que aparecen en el film. Como, además, queremos que todo sea 'supercalifragilisticoespialidoso' hemos añadido algunas experiencias pensadas para sumergirse de lleno en el universo de la 'nanny' voladora.
+Una de las niñeras más famosas del mundo conquista las pantallas con su bolso mágico y 
+su paraguas volador, gracias a la secuela de la clásica película de Disney: _El regreso 
+de Mary Poppins_. Para todas las incondicionales de este mágico personaje hemos 
+preparado un recorrido por algunas de las localizaciones de Londres que aparecen en el 
+film. Como, además, queremos que todo sea 'supercalifragilisticoespialidoso' hemos 
+añadido algunas experiencias pensadas para sumergirse de lleno en el universo de la 
+'nanny' voladora. 
 
 ![Escena de la película El regreso de Mary Poppins.](https://fotos.etheriamagazine.com/2019/01/Viaje-de-cine-mary-poppins.jpg "Escena de la película El regreso de Mary Poppins.")
 

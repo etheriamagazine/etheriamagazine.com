@@ -3,7 +3,8 @@ title: "Localizaciones de cine en Malta, el Hollywood del Mediterráneo"
 date: 2019-06-14
 cover: https://fotos.etheriamagazine.com/2019/06/viaje-cine-malta-blue-lagoon-troya.jpg
 categories: 
-  - viajar-con-amigas
+  - estilo-de-vida
+  - cultura
 tags: 
   - europa
 authors: 

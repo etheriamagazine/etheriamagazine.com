@@ -4,7 +4,6 @@ date: 2018-11-12
 cover: https://fotos.etheriamagazine.com/2018/11/Berlin-viaje-mujeres-e1566602904130.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-sola
 tags: 
   - europa
 authors: 

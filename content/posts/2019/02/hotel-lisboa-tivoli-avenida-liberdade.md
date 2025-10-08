@@ -3,7 +3,6 @@ title: "Un hotel de capricho en Lisboa: Tivoli Avenida Liberdade"
 date: 2019-02-14
 cover: https://fotos.etheriamagazine.com/2019/02/Tivoli-Avenida-Liberdade-Anantara-Spa.jpg
 categories: 
-  - viajar-sola
   - estilo-de-vida
   - hoteles
 tags: 

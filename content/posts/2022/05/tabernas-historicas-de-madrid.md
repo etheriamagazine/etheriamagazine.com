@@ -3,7 +3,6 @@ title: "10 tabernas históricas de Madrid donde tomar el vermú"
 date: 2022-05-20
 cover: https://fotos.etheriamagazine.com/2022/05/Casa-alberto.jpg
 categories: 
-  - viajar-con-amigas
   - estilo-de-vida
   - gourmet
 tags: 

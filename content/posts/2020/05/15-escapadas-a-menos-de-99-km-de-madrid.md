@@ -4,8 +4,6 @@ date: 2020-05-20
 cover: https://fotos.etheriamagazine.com/2020/05/excursion-aranjuez.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-en-familia
-  - viajar-sola
 tags: 
   - españa
 authors: 

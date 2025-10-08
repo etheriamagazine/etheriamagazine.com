@@ -4,8 +4,6 @@ date: 2024-12-04
 cover: https://fotos.etheriamagazine.com/2023/10/Salzburgo-nieve.jpg
 categories: 
   - viajar-en-familia
-  - estilo-de-vida
-  - ocio
 authors: 
   - Pedro Grifol
 ---

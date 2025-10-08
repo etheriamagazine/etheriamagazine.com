@@ -3,8 +3,8 @@ title: "Ruta por el paisaje gastronómico de La Rioja"
 date: 2019-01-23
 cover: https://fotos.etheriamagazine.com/2019/01/Restaurante-Cachetero-Txebiko-e1637097743651.jpg
 categories: 
-  - viajar-con-amigas
-  - viajar-sola
+  - estilo-de-vida
+  - gourmet
 tags: 
   - españa
 authors: 

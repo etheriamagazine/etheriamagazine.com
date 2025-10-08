@@ -4,8 +4,6 @@ date: 2018-05-17
 cover: https://fotos.etheriamagazine.com/2018/05/11-FLORENCIA-CON-NINOS-GALERIA-DE-LOS-UFFIZI-e1581094872695.jpg
 categories: 
   - viajar-en-familia
-  - estilo-de-vida
-  - inspiracion
 tags: 
   - europa
 authors: 

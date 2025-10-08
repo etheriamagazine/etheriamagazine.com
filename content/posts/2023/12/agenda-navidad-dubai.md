@@ -3,7 +3,8 @@ title: "Navidad en Dubái, mercadillos entre rascacielos y a 25 grados"
 date: 2023-12-08
 cover: https://fotos.etheriamagazine.com/2023/12/dubai-navidad-madinat-jumeirah.jpg
 categories: 
-  - viajar-sola
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - mundo
 authors: 

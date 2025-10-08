@@ -3,8 +3,7 @@ title: "BioCultura, la feria de productos ecológicos y consumo responsable, vue
 date: 2021-07-04
 cover: https://fotos.etheriamagazine.com/2021/07/biocultura-barcelona-cosmetica.jpg
 categories: 
-  - estilo-de-vida
-  - ocio
+  - hemeroteca
 authors: 
   - Maria Miret
 ---

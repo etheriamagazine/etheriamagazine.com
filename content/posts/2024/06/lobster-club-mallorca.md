@@ -4,7 +4,6 @@ date: 2024-06-15
 cover: https://fotos.etheriamagazine.com/2024/06/LOBSTER-CLUB-PISCINA.jpg
 categories: 
   - estilo-de-vida
-  - inspiracion
   - gourmet
 tags: 
   - españa

@@ -3,8 +3,8 @@ title: "32 excursiones de un día donde la cultura y el vino se dan la mano"
 date: 2021-04-13
 cover: https://fotos.etheriamagazine.com/2021/04/Cuevas-de-la-Villa-Requena.jpg
 categories: 
-  - viajar-con-amigas
-  - viajar-en-familia
+  - estilo-de-vida
+  - gourmet
 authors: 
   - Redacción Etheria
 ---

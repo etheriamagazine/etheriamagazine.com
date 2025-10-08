@@ -3,7 +3,7 @@ title: "Cabo de Creus, 10 paradas frente al Mediterráneo en clave slow travel"
 date: 2019-06-17
 cover: https://fotos.etheriamagazine.com/2019/06/Viaje-girona-medieval-e1559737808621.jpg
 categories: 
-  - viajar-en-familia
+  - viajar-con-amigas
 tags: 
   - españa
 authors: 

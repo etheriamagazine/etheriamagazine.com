@@ -4,8 +4,6 @@ date: 2019-08-14
 cover: https://fotos.etheriamagazine.com/2019/07/viaje-rodas-Monolithos-Castle-e1564342953764.jpg
 categories: 
   - viajar-con-amigas
-  - estilo-de-vida
-  - ocio
 tags: 
   - europa
 authors: 

@@ -3,8 +3,7 @@ title: "Cuatro fantasías lumínicas para alucinar en Japón"
 date: 2021-01-16
 cover: https://fotos.etheriamagazine.com/2021/01/japon-Huis-Ten-Bosh.jpg
 categories: 
-  - estilo-de-vida
-  - ocio
+  - hemeroteca
 tags: 
   - mundo
 authors: 

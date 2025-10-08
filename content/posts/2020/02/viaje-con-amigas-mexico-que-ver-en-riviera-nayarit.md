@@ -3,10 +3,8 @@ title: "Descubre la Riviera Nayarit en 10 visitas con alma"
 date: 2020-02-21
 cover: https://fotos.etheriamagazine.com/2020/02/riviera-nayarit.jpg
 categories: 
-  - viajar-en-familia
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - mundo
 authors: 

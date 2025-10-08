@@ -4,9 +4,6 @@ date: 2018-11-02
 cover: https://fotos.etheriamagazine.com/2018/10/5-Zahara-de-la-sierra-pueblos-blancos-cadiz-e1556353254846.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-en-familia
-  - estilo-de-vida
-  - inspiracion
 tags: 
   - españa
 authors: 

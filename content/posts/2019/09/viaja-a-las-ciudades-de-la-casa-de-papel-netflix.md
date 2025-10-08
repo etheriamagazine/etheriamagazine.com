@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/09/viajes-la-casa-de-papel.jpg
 categories: 
   - estilo-de-vida
   - cultura
-  - inspiracion
-  - ocio
 tags: 
   - mundo
 authors: 

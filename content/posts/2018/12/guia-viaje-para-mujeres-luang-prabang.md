@@ -3,8 +3,7 @@ title: "Luang Prabang, la población más incorrupta de la antigua Indochina"
 date: 2018-12-17
 cover: https://fotos.etheriamagazine.com/2022/02/viajes-novios-originales-Luang-Prabang-palacio-real.jpg
 categories: 
-  - viajar-con-amigas
-  - viajar-en-pareja
+  - viajar-sola
 tags: 
   - mundo
 authors: 

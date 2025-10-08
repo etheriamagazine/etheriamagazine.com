@@ -4,11 +4,7 @@ date: 2019-12-26
 cover: https://fotos.etheriamagazine.com/2019/04/milly-thomas-dust.jpg
 categories: 
   - entre-mujeres
-  - historias-en-femenino
-  - estilo-de-vida
-  - inspiracion
   - mujeres-top
-  - ocio
 authors: 
   - Redacción Etheria
 ---

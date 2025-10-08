@@ -3,7 +3,6 @@ title: "La Rochelle y la isla de Ré, consejos para organizar tu viaje"
 date: 2018-09-18
 cover: https://fotos.etheriamagazine.com/2018/09/Puerto-Viejo-La-Rochelle-e1578818092619.jpg
 categories: 
-  - viajar-con-amigas
   - viajar-en-pareja
 tags: 
   - europa

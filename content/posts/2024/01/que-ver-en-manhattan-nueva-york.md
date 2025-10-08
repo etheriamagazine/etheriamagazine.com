@@ -3,7 +3,8 @@ title: "Una guía para que no te dejes (casi) nada por ver en Manhattan"
 date: 2024-01-11
 cover: https://fotos.etheriamagazine.com/2024/01/manhattan-ferry.jpg
 categories: 
-  - viajar-sola
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - mundo
 authors: 

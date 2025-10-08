@@ -3,9 +3,8 @@ title: "6 maravillas del mundo para apasionadas de la luz"
 date: 2020-05-04
 cover: https://fotos.etheriamagazine.com/2020/04/viajar-sola-islas-lofoten.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - mundo
 authors: 

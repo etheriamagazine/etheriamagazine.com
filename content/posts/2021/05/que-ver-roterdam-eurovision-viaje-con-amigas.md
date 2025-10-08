@@ -4,7 +4,6 @@ date: 2021-05-15
 cover: https://fotos.etheriamagazine.com/2020/02/viaje-roterdam-Cubehouses.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-sola
 tags: 
   - europa
 authors: 

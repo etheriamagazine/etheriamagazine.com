@@ -4,7 +4,6 @@ date: 2020-09-23
 cover: https://fotos.etheriamagazine.com/2020/09/santander-taberna-la-radio-pulpo-braseado.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-sola
 tags: 
   - españa
 authors: 

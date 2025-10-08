@@ -3,9 +3,7 @@ title: "Uzbekistán, el país de las mil y una noches"
 date: 2019-11-28
 cover: https://fotos.etheriamagazine.com/2019/11/viaje-mujeres-uzbekistan-bukhara.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - viajar-con-amigas
 tags: 
   - mundo
 authors: 

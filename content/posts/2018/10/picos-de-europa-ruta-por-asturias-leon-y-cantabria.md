@@ -4,9 +4,6 @@ date: 2018-10-17
 cover: https://fotos.etheriamagazine.com/2018/10/LAGOS-DE-COVADONGA.jpg
 categories: 
   - viajar-con-amigas
-  - estilo-de-vida
-  - inspiracion
-  - ocio
 tags: 
   - españa
 authors: 

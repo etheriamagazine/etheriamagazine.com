@@ -4,7 +4,6 @@ date: 2019-01-24
 cover: https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-menorca-senderismo.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-sola
 tags: 
   - españa
 authors: 

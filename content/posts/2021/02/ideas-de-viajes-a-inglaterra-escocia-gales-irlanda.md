@@ -3,9 +3,8 @@ title: "8 viajes al Reino Unido para organizar una escapada"
 date: 2021-02-23
 cover: https://fotos.etheriamagazine.com/2020/12/viajes-reino-unido-escocia-castillo-Urquhart-lago-Ness.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - europa
 authors: 

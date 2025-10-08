@@ -3,10 +3,7 @@ title: "Eventos culturales de Flandes en 2024: año Ensor y mucho más"
 date: 2024-03-22
 cover: https://fotos.etheriamagazine.com/2024/03/exposiciones-flandes-James-Ensor-esqueleto-pintor-en-su-estudio.jpg
 categories: 
-  - viajar-sola
-  - estilo-de-vida
-  - cultura
-  - ocio
+  - hemeroteca
 tags: 
   - europa
 authors: 

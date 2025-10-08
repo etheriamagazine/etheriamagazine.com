@@ -1,10 +1,10 @@
 ---
-title: "13 castillos de Chequia envueltos en enigmas ymisterios"
+title: "13 castillos de Chequia envueltos en enigmas y misterios"
 date: 2020-10-09
 cover: https://fotos.etheriamagazine.com/2020/10/republica-checa-cesky-krumlov.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - europa
 authors: 

@@ -3,7 +3,7 @@ title: "Óbidos, la villa portuguesa de los libros y las reinas"
 date: 2020-09-24
 cover: https://fotos.etheriamagazine.com/2020/09/obidos-villa-medieval.jpg
 categories: 
-  - viajar-en-pareja
+  - viajar-con-amigas
 tags: 
   - europa
 authors: 

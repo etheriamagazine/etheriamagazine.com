@@ -3,8 +3,7 @@ title: "Canteras de Hontoria, Cubillo y Tornadijo, una visita a los orígenes de
 date: 2021-08-30
 cover: https://fotos.etheriamagazine.com/2021/08/cantera-hontoria-catedral-3.jpg
 categories: 
-  - estilo-de-vida
-  - ocio
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

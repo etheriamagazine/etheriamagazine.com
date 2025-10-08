@@ -3,7 +3,6 @@ title: "Argelès-sur-Mer, 9 experiencias para enamorarte de esta comuna francesa
 date: 2023-10-04
 cover: https://fotos.etheriamagazine.com/2023/10/centro-argeles-sur-mer.jpg
 categories: 
-  - viajar-con-amigas
   - viajar-sola
 tags: 
   - europa
@@ -11,11 +10,13 @@ authors:
   - Yolanda Cardo
 ---
 
-**Paisajes costeros bellísimos, bosques que se asoman al mar, mucho arte y las huellas 
-de un pasado compartido son algunos de los planes que nos ofrece Argelès-sur-Mer, una 
-pintoresca comuna francesa de los Pirineos Orientales y fronteriza con España.** 
+Paisajes costeros bellísimos, bosques que se asoman al mar, mucho arte y las huellas de 
+un pasado compartido son algunos de los planes que nos ofrece Argelès-sur-Mer, una 
+pintoresca comuna francesa de los Pirineos Orientales y fronteriza con España. 
 
 ![Mural de Niko Inko y Jean Rooble.](https://fotos.etheriamagazine.com/2023/10/Argeles-sur-Mer-Mural-Niko-inko-Jean-Rooble.jpg "Mural de Niko Inko y Jean Rooble, en Argelès-sur-Mer. © Yolanda Cardo")
+
+Actualizado 9/2025 
 
 A los pies del macizo de la Albera se despliega un hermoso territorio donde las cimas 
 pirenaicas descienden para sumergirse en el Mediterráneo. Es precisamente en esa 
@@ -222,7 +223,7 @@ excelente.
 Más información en [Turismo de 
 Argelès-sur-Mer](https://www.argeles-sur-mer.co.uk/explore/argeles-sur-mer/). 
 
-✅ **En Francia también te puede interesar...** 
+**En Francia también te puede interesar...** 
 
 {{< reflink path=posts/2023/07/nantes-y-excursiones-esenciales >}}. 
 

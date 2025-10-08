@@ -3,8 +3,8 @@ title: "San Lorenzo de El Escorial, razones escabrosas y sorprendentes por las q
 date: 2021-04-06
 cover: https://fotos.etheriamagazine.com/2021/03/que-ver-el-escorial.jpg
 categories: 
-  - estilo-de-vida
-  - ocio
+  - organiza-tu-viaje
+  - excursiones
 tags: 
   - españa
 authors: 

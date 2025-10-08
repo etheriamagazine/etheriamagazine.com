@@ -3,8 +3,7 @@ title: "10 planes originales para hacer con amigas en Barcelona"
 date: 2021-03-10
 cover: https://fotos.etheriamagazine.com/2021/03/Terrat-mandarin-oriental-barcelona.jpg
 categories: 
-  - estilo-de-vida
-  - ocio
+  - viajar-con-amigas
 tags: 
   - españa
 authors: 

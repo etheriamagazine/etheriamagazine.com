@@ -3,9 +3,8 @@ title: "10 viajes por el norte de España para buscar el fresquito"
 date: 2020-07-20
 cover: https://fotos.etheriamagazine.com/2019/03/camino-oculto-pais-vasco.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - españa
 authors: 

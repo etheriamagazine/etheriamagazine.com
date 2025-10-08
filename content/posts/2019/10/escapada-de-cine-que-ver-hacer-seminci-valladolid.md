@@ -3,16 +3,17 @@ title: "Cómo organizar una escapada de cine a la Seminci 2019"
 date: 2019-10-14
 cover: https://fotos.etheriamagazine.com/2019/10/valladolid-teatro-calderon-seminci.jpg
 categories: 
-  - viajar-con-amigas
+  - estilo-de-vida
+  - cultura
 authors: 
   - Miriam González
 ---
 
-**La alfombra verde de la 64 edición de la Semana Internacional de Cine de Valladolid, 
-uno de los festivales con más solera, está a punto de desplegarse. Por delante una 
-semana con cine de autor e independiente regada por buen vino y final con forma de 
-espiga. En la ciudad del Pisuerga ya lo tienen todo preparado para ser la capital de los 
-cinéfilos y aquí te detallamos el guión para no perderte nada de la Seminci 2019.** 
+La alfombra verde de la 64 edición de la Semana Internacional de Cine de Valladolid, uno 
+de los festivales con más solera, está a punto de desplegarse. Por delante una semana 
+con cine de autor e independiente regada por buen vino y final con forma de espiga. En 
+la ciudad del Pisuerga ya lo tienen todo preparado para ser la capital de los cinéfilos 
+y aquí te detallamos el guión para no perderte nada de la Seminci 2019. 
 
 ![El Teatro Calderón es la sede principal de la © Seminci de Valladolid.](https://fotos.etheriamagazine.com/2019/10/valladolid-teatro-calderon-seminci.jpg "El Teatro Calderón es la sede principal de la © Seminci de Valladolid.")
 

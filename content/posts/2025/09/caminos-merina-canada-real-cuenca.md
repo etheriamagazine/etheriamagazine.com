@@ -18,6 +18,8 @@ Conquense, parte de uno de los Caminos de la Merina, será un acierto seguro.
 
 ![Panorámica de Belmonte, en la Cañada Rural Conquense.](https://fotos.etheriamagazine.com/2025/09/caminos-merina-Belmonte.jpeg "Panorámica de Belmonte, en la Cañada Rural Conquense.")
 
+29 septiembre 2025 
+
 No es necesario realizar grandes desplazamientos hasta destinos lejanos o reservar 
 costosos programas de bienestar para encontrar un lugar de paz donde bajar pulsaciones y 
 descubrir que a sólo un paso de casa nos están esperando maravillas históricas, 

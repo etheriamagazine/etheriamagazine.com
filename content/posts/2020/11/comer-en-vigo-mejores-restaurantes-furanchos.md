@@ -3,7 +3,6 @@ title: "Dónde comer en Vigo, una guía gastronómica para todos los bolsillos"
 date: 2020-11-24
 cover: https://fotos.etheriamagazine.com/2020/11/Viaje-gastronomico-vigo.jpg
 categories: 
-  - viajar-con-amigas
   - estilo-de-vida
   - gourmet
 tags: 

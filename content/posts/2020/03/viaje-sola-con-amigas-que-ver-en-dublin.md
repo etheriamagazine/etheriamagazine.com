@@ -3,7 +3,6 @@ title: "Viaja sola o con amigas a Dublín, un plan perfecto"
 date: 2020-03-09
 cover: https://fotos.etheriamagazine.com/2020/02/Temple-Bar-Dublin-1.jpg
 categories: 
-  - viajar-con-amigas
   - viajar-sola
 tags: 
   - europa

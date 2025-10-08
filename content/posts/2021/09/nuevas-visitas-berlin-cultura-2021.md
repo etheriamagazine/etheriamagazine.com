@@ -3,12 +3,7 @@ title: "Novedades de Berlín en 2021"
 date: 2021-09-24
 cover: https://fotos.etheriamagazine.com/2021/09/Berlin-Humboldt-Forum.jpg
 categories: 
-  - viajar-con-amigas
-  - viajar-sola
-  - estilo-de-vida
-  - inspiracion
-  - cultura
-  - ocio
+  - hemeroteca
 tags: 
   - europa
 authors: 

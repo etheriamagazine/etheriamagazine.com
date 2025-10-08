@@ -3,8 +3,8 @@ title: "Admira cinco de los mejores jardines de Gran Bretaña"
 date: 2021-04-22
 cover: https://fotos.etheriamagazine.com/2021/04/RHS-Wisley-surrey.jpg
 categories: 
-  - estilo-de-vida
-  - ocio
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - europa
 authors: 

@@ -4,7 +4,6 @@ date: 2018-08-14
 cover: https://fotos.etheriamagazine.com/2018/05/Viaje-Islas-Bahamas-faro-lejos.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-sola
 tags: 
   - mundo
 authors: 

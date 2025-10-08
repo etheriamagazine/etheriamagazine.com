@@ -3,10 +3,7 @@ title: "Mercadillos navideños de Varsovia y Cracovia, un viaje a la magia de la
 date: 2019-10-30
 cover: https://fotos.etheriamagazine.com/2019/10/polonia-luces-fuente-navidad-varsovia.jpg
 categories: 
-  - viajar-con-amigas
   - viajar-en-familia
-  - estilo-de-vida
-  - inspiracion
 tags: 
   - europa
 authors: 

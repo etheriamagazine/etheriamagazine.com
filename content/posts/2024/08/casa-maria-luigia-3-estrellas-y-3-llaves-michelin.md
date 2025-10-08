@@ -4,7 +4,6 @@ date: 2024-08-05
 cover: https://fotos.etheriamagazine.com/2024/08/Casa-Maria-Luigia.jpg
 categories: 
   - estilo-de-vida
-  - inspiracion
   - gourmet
 tags: 
   - europa

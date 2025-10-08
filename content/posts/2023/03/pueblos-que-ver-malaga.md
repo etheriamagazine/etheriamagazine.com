@@ -4,7 +4,6 @@ date: 2023-03-23
 cover: https://fotos.etheriamagazine.com/2023/03/malaga-nerja-playa-calahonda.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-en-familia
 tags: 
   - españa
 authors: 

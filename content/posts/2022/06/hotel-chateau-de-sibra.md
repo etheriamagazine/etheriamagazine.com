@@ -4,7 +4,6 @@ date: 2022-06-22
 cover: https://fotos.etheriamagazine.com/2022/06/chateaux-sibra-noche.jpg
 categories: 
   - estilo-de-vida
-  - inspiracion
   - hoteles
 tags: 
   - europa

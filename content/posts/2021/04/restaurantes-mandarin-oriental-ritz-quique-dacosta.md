@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2021/04/Ritz-Madrid-Deessa-gastronomia.
 categories: 
   - estilo-de-vida
   - gourmet
-  - hoteles
-  - ocio
 tags: 
   - españa
 authors: 

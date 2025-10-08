@@ -4,8 +4,6 @@ date: 2021-01-25
 cover: https://fotos.etheriamagazine.com/2021/01/viaje-con-amigas-gijon.jpg
 categories: 
   - viajar-con-amigas
-  - estilo-de-vida
-  - gourmet
 tags: 
   - españa
 authors: 

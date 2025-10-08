@@ -4,8 +4,6 @@ date: 2024-08-27
 cover: https://fotos.etheriamagazine.com/2024/08/cooperativa-alpera-etheria.jpg
 categories: 
   - viajar-con-amigas
-  - estilo-de-vida
-  - gourmet
 tags: 
   - españa
 authors: 

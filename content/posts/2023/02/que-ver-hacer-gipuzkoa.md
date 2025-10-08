@@ -3,8 +3,7 @@ title: "Guía esencial de Gipuzkoa, maravillas desde la costa al interior"
 date: 2023-02-14
 cover: https://fotos.etheriamagazine.com/2023/02/guipuzcoa-monte-arno-mutriku.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
+  - viajar-con-amigas
 tags: 
   - españa
 authors: 

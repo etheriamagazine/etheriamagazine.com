@@ -3,9 +3,8 @@ title: "10 viajes a Baleares y Canarias para desconectar"
 date: 2020-09-16
 cover: https://fotos.etheriamagazine.com/2020/04/playa-ses-illetes-formentera.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - españa
 authors: 

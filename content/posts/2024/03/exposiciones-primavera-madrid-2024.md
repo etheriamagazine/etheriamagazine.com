@@ -3,10 +3,7 @@ title: "10 exposiciones para visitar en Madrid esta primavera de 2024"
 date: 2024-03-18
 cover: https://fotos.etheriamagazine.com/2024/03/exposiciones-madrid-thyssen-Salas_Isabel-Quintanilla.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - cultura
-  - ocio
+  - hemeroteca
 authors: 
   - Redacción Etheria
 ---

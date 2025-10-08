@@ -3,8 +3,7 @@ title: "Destinos nacionales, cultura y gastronomía, entre los artículos más l
 date: 2023-01-02
 cover: https://fotos.etheriamagazine.com/2023/01/pareja-viaje.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
+  - hemeroteca
 authors: 
   - Redacción Etheria
 ---

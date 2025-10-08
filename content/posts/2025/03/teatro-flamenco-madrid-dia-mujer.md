@@ -3,8 +3,8 @@ title: "El Teatro Flamenco Madrid celebra el talento femenino con dos espectácu
 date: 2025-03-07
 cover: https://fotos.etheriamagazine.com/2025/03/portada-flamenco.jpg
 categories: 
-  - estilo-de-vida
-  - ocio
+  - entre-mujeres
+  - historias-en-femenino
 authors: 
   - Pepa G. Marín
 ---

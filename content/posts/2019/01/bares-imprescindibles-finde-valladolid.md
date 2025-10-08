@@ -3,7 +3,6 @@ title: "¿Por qué se come tan bien en Valladolid?"
 date: 2019-01-31
 cover: https://fotos.etheriamagazine.com/2019/01/comer-valladolid-Jero.jpg
 categories: 
-  - viajar-con-amigas
   - estilo-de-vida
   - gourmet
 tags: 

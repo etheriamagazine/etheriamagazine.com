@@ -4,9 +4,6 @@ date: 2019-04-19
 cover: https://fotos.etheriamagazine.com/2019/04/madeira-Pico-do-Areeiro.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-sola
-  - estilo-de-vida
-  - inspiracion
 tags: 
   - europa
 authors: 

@@ -3,9 +3,8 @@ title: "La Vijanera de Silió,  la primera mascarada de Europa"
 date: 2025-01-01
 cover: https://fotos.etheriamagazine.com/2019/12/carnaval-vijanera-silio-cantabria-2.jpg
 categories: 
-  - viajar-con-amigas
-  - estilo-de-vida
-  - ocio
+  - organiza-tu-viaje
+  - excursiones
 authors: 
   - Juan Carlos y Mar
 ---

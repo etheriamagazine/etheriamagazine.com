@@ -3,8 +3,8 @@ title: "10 grandes viajes para hacer al menos una vez en la vida"
 date: 2020-04-16
 cover: https://fotos.etheriamagazine.com/2019/09/acacias-Deadvlei-7.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - mundo
 authors: 

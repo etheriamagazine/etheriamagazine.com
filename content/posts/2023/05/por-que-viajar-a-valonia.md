@@ -4,8 +4,6 @@ date: 2023-05-16
 cover: https://fotos.etheriamagazine.com/2023/05/valonia-Dinant-lago.jpg
 categories: 
   - viajar-con-amigas
-  - estilo-de-vida
-  - inspiracion
 tags: 
   - europa
 authors: 

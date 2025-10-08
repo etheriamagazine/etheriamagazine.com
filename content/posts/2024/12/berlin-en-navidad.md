@@ -4,8 +4,6 @@ date: 2024-12-10
 cover: https://fotos.etheriamagazine.com/2024/12/berlin-Lucia.jpeg
 categories: 
   - viajar-con-amigas
-  - estilo-de-vida
-  - ocio
 tags: 
   - europa
 authors: 

@@ -3,7 +3,6 @@ title: "Gastronomía y arte en el norte de Extremadura"
 date: 2019-10-02
 cover: https://fotos.etheriamagazine.com/2019/09/viaje-caceres-restaurante-Versatil-en-Zarza-de-Granadilla.jpg
 categories: 
-  - viajar-con-amigas
   - estilo-de-vida
   - gourmet
 tags: 

@@ -3,7 +3,8 @@ title: "El Camino de Hierro, kilómetros de magia entre puentes y túneles en Sa
 date: 2021-10-03
 cover: https://fotos.etheriamagazine.com/2021/10/puente-camino-hierro.jpg
 categories: 
-  - viajar-en-familia
+  - organiza-tu-viaje
+  - excursiones
 tags: 
   - españa
 authors: 

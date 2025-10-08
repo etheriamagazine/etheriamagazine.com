@@ -3,7 +3,6 @@ title: "¿Merece la pena conocer Taipéi, la capital de Taiwán?"
 date: 2019-12-05
 cover: https://fotos.etheriamagazine.com/2019/12/taipei-cambio-guardia.jpg
 categories: 
-  - viajar-con-amigas
   - viajar-sola
 tags: 
   - mundo

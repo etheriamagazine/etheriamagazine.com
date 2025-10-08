@@ -3,8 +3,8 @@ title: "10 visitas que justifican un viaje a Macao"
 date: 2018-04-18
 cover: https://fotos.etheriamagazine.com/2018/04/9-MACAO-COTAI-e1637067759830.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - mundo
 authors: 

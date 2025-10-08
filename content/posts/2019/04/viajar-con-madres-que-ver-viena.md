@@ -3,7 +3,7 @@ title: "Viena, un viaje para compartir con tu madre"
 date: 2019-04-24
 cover: https://fotos.etheriamagazine.com/2019/04/opera-viena-exterior.jpg
 categories: 
-  - viajar-sola
+  - viajar-en-familia
 tags: 
   - europa
 authors: 

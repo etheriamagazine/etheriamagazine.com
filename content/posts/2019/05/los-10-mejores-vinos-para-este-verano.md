@@ -4,9 +4,7 @@ date: 2019-05-23
 cover: https://fotos.etheriamagazine.com/2019/05/vinos-verano-amigos.jpg
 categories: 
   - estilo-de-vida
-  - inspiracion
   - gourmet
-  - ocio
 authors: 
   - Vanesa Viñolo
 ---

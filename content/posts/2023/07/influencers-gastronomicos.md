@@ -3,7 +3,8 @@ title: "Los influencers que amaban a las langostas"
 date: 2023-07-28
 cover: https://fotos.etheriamagazine.com/2023/07/portada-langosta-3.jpg
 categories: 
-  - articulos-por-categorizar
+  - estilo-de-vida
+  - cultura
 authors: 
   - Rafael de Rojas
 ---

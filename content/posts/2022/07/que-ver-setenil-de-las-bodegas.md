@@ -1,11 +1,9 @@
 ---
-title: "Excursión a Setenil de las Bodegas: qué ver en este precioso pueblo blanco de Cádiz"
+title: "Setenil de las Bodegas: qué ver en este precioso pueblo blanco de Cádiz"
 date: 2022-07-22
 cover: https://fotos.etheriamagazine.com/2022/07/Setenil-cuevas-sombra.jpg
 categories: 
   - viajar-con-amigas
-  - estilo-de-vida
-  - inspiracion
 tags: 
   - españa
 authors: 

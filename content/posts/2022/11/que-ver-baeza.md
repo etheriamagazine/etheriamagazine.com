@@ -3,8 +3,7 @@ title: "Qué ver en Baeza, una de las ciudades reconocidas por la Unesco"
 date: 2022-11-28
 cover: https://fotos.etheriamagazine.com/2022/11/ubeda-unesco.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
+  - viajar-con-amigas
 tags: 
   - españa
 authors: 

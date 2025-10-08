@@ -3,8 +3,7 @@ title: "Guía esencial de Valencia, imprescindibles en una ciudad que mira al fu
 date: 2022-10-03
 cover: https://fotos.etheriamagazine.com/2022/09/valencia-ciudad-artes.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
+  - viajar-con-amigas
 tags: 
   - españa
 authors: 

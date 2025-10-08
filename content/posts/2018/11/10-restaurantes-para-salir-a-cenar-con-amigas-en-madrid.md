@@ -4,9 +4,7 @@ date: 2018-11-09
 cover: https://fotos.etheriamagazine.com/2018/11/restaurantes-amigas-madrid-lecoco.jpg
 categories: 
   - estilo-de-vida
-  - inspiracion
   - gourmet
-  - ocio
 tags: 
   - españa
 authors: 

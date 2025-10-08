@@ -4,9 +4,7 @@ date: 2019-03-13
 cover: https://fotos.etheriamagazine.com/2019/03/Dia-del-padre-bicicleta.jpg
 categories: 
   - estilo-de-vida
-  - inspiracion
   - gourmet
-  - ocio
 authors: 
   - Vanesa Viñolo
 ---

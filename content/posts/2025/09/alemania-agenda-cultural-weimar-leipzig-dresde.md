@@ -3,7 +3,8 @@ title: "Citas imperdibles en el corazón cultural de Alemania: Weimar, Leipzig y
 date: 2025-09-27
 cover: https://fotos.etheriamagazine.com/2025/09/Alemania-Leipzig-Augustusplat-Gewandhaus.jpg
 categories: 
-  - viajar-sola
+  - estilo-de-vida
+  - cultura
 tags: 
   - europa
 authors: 

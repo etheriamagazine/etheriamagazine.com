@@ -4,8 +4,6 @@ date: 2025-01-13
 cover: https://fotos.etheriamagazine.com/2025/01/alquezar-parque-natural.jpeg
 categories: 
   - viajar-con-amigas
-  - estilo-de-vida
-  - gourmet
 tags: 
   - españa
 authors: 

@@ -4,8 +4,6 @@ date: 2019-04-30
 cover: https://fotos.etheriamagazine.com/2019/04/Engelberg-ninas-Furenalp.jpg
 categories: 
   - viajar-en-familia
-  - estilo-de-vida
-  - ocio
 tags: 
   - europa
 authors: 

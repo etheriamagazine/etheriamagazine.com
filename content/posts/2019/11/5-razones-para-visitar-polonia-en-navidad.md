@@ -3,7 +3,8 @@ title: "5 razones para visitar Polonia en Navidad"
 date: 2019-11-05
 cover: https://fotos.etheriamagazine.com/2019/10/polonia-que-ver-navidad.jpg
 categories: 
-  - viajar-sola
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - europa
 authors: 

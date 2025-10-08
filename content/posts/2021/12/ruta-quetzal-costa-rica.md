@@ -3,7 +3,6 @@ title: "Costa Rica: de ‘la aventura quetzal’ a la nouvelle cuisine"
 date: 2021-12-17
 cover: https://fotos.etheriamagazine.com/2021/12/Trogon-Lodge-San-Gerardo-de-Dota.jpg
 categories: 
-  - viajar-en-familia
   - viajar-con-amigas
 tags: 
   - mundo

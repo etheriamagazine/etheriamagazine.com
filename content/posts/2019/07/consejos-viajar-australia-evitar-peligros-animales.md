@@ -4,8 +4,7 @@ date: 2019-07-31
 cover: https://fotos.etheriamagazine.com/2019/07/Australia-animales-koala.jpg
 categories: 
   - estilo-de-vida
-  - inspiracion
-  - ocio
+  - cultura
 tags: 
   - mundo
 authors: 

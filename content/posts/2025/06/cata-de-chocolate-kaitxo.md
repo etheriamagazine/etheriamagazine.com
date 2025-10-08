@@ -4,7 +4,6 @@ date: 2025-06-10
 cover: https://fotos.etheriamagazine.com/2025/06/cata-chocolates-kaitxo-tostado.jpg
 categories: 
   - estilo-de-vida
-  - inspiracion
   - gourmet
 authors: 
   - Redacción Etheria

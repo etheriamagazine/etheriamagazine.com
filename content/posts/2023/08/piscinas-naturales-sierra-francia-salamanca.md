@@ -3,7 +3,7 @@ title: "Piscinas naturales de la Sierra de Francia, un chapuzón entre montañas
 date: 2023-08-28
 cover: https://fotos.etheriamagazine.com/2023/08/piscina-natural-montemayor-rio-salamanca.jpg
 categories: 
-  - viajar-en-familia
+  - viajar-con-amigas
 tags: 
   - españa
 authors: 

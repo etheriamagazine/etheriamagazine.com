@@ -3,9 +3,8 @@ title: "8 escapadas en España para descubrir su pasado romano"
 date: 2020-07-29
 cover: https://fotos.etheriamagazine.com/2020/06/Merida-teatro-romano.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - españa
 authors: 

@@ -3,8 +3,8 @@ title: "Belfast, punk y diseño en Irlanda del Norte"
 date: 2019-11-04
 cover: https://fotos.etheriamagazine.com/2019/10/belfast-ruta-grafitis.jpg
 categories: 
-  - viajar-con-amigas
-  - viajar-sola
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - europa
 authors: 

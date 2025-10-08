@@ -4,7 +4,6 @@ date: 2019-04-02
 cover: https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-mirador.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-en-familia
 tags: 
   - españa
 authors: 

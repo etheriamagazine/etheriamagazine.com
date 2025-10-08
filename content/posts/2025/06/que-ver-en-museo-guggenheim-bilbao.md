@@ -3,7 +3,8 @@ title: "Museo Guggenheim, la revolución del arte que transformó Bilbao"
 date: 2025-06-19
 cover: https://fotos.etheriamagazine.com/2025/05/guggenheim-bilbao-ria-barca.jpg
 categories: 
-  - viajar-con-amigas
+  - estilo-de-vida
+  - cultura
 tags: 
   - españa
 authors: 

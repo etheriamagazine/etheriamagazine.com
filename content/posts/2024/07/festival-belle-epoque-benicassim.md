@@ -3,8 +3,7 @@ title: "Vuelve a vivir los felices años 20 con el Benicàssim Belle Époque"
 date: 2024-07-31
 cover: https://fotos.etheriamagazine.com/2024/07/Benicassim-Belle-epoque-puesto.jpg
 categories: 
-  - estilo-de-vida
-  - ocio
+  - viajar-con-amigas
 authors: 
   - Redacción Etheria
 ---

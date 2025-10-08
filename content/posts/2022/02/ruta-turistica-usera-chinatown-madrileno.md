@@ -3,7 +3,8 @@ title: "Ruta turística por Usera, el Chinatown madrileño, qué ver y dónde co
 date: 2022-02-11
 cover: https://fotos.etheriamagazine.com/2022/02/puente-madrid-rio-arte-mosaico.jpg
 categories: 
-  - viajar-con-amigas
+  - estilo-de-vida
+  - gourmet
 tags: 
   - españa
 authors: 

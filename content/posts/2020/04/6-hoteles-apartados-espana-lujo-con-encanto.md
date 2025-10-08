@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2019/07/Hotel-Alcuzcuz-panoramica.jpg
 categories: 
   - estilo-de-vida
   - hoteles
-  - inspiracion
-  - ocio
 tags: 
   - españa
 authors: 

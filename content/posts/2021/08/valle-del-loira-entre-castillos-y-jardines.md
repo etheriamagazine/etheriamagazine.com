@@ -4,8 +4,6 @@ date: 2021-08-09
 cover: https://fotos.etheriamagazine.com/2021/08/valle-loira-Castillo-de-Chaumont-sur-Loire.jpg
 categories: 
   - viajar-con-amigas
-  - estilo-de-vida
-  - gourmet
 tags: 
   - europa
 authors: 

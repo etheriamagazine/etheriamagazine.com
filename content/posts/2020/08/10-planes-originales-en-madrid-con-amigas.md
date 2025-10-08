@@ -3,8 +3,7 @@ title: "10 planes originales en Madrid para hacer con amigas"
 date: 2020-08-27
 cover: https://fotos.etheriamagazine.com/2020/08/salvaje-canalejas-madrid.jpg
 categories: 
-  - estilo-de-vida
-  - ocio
+  - viajar-con-amigas
 tags: 
   - españa
 authors: 

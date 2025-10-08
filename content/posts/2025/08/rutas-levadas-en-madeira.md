@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2025/08/madeira-levada-camino.jpg
 categories: 
   - organiza-tu-viaje
   - excursiones
-  - estilo-de-vida
-  - ocio
 tags: 
   - europa
 authors: 

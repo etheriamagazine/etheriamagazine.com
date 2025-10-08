@@ -3,9 +3,7 @@ title: "Røros, historia de una peculiar ciudad minera de Noruega"
 date: 2019-06-06
 cover: https://fotos.etheriamagazine.com/2019/05/Roros-noruega-casas-trabajadores-calle-sleggveien.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - viajar-con-amigas
 tags: 
   - europa
 authors: 

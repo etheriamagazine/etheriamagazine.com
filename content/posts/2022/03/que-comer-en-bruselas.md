@@ -3,8 +3,8 @@ title: "Qué comer en Bruselas, productos y experiencias originales"
 date: 2022-03-29
 cover: https://fotos.etheriamagazine.com/2022/03/cerveza-bruselas.jpg
 categories: 
-  - viajar-con-amigas
-  - viajar-en-familia
+  - estilo-de-vida
+  - gourmet
 tags: 
   - europa
 authors: 

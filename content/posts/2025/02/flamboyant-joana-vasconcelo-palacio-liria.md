@@ -5,7 +5,6 @@ cover: https://fotos.etheriamagazine.com/2025/02/portada-Joana-Vasconcelos-Ether
 categories: 
   - estilo-de-vida
   - cultura
-  - ocio
 authors: 
   - Redacción Etheria
 ---

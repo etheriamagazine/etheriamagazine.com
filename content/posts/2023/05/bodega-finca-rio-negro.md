@@ -3,7 +3,8 @@ title: "Bodega Finca Río Negro, vinos de autor a más de mil metros de altura"
 date: 2023-05-06
 cover: https://fotos.etheriamagazine.com/2023/05/bodega-rio-negro-olivo.jpg
 categories: 
-  - viajar-con-amigas
+  - estilo-de-vida
+  - gourmet
 tags: 
   - españa
 authors: 

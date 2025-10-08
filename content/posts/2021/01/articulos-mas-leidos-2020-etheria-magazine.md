@@ -3,9 +3,7 @@ title: "Los artículos más leídos de 2020 en Etheria Magazine"
 date: 2021-01-01
 cover: https://fotos.etheriamagazine.com/2020/12/reportajes-mas-leidos-cadiz.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - hemeroteca
 authors: 
   - Redacción Etheria
 ---

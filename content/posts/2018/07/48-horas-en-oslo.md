@@ -4,9 +4,6 @@ date: 2018-07-13
 cover: https://fotos.etheriamagazine.com/2018/04/1-Mujeres-Viajeras-en-Oslo-e1566888890200.jpg
 categories: 
   - viajar-con-amigas
-  - viajar-sola
-  - estilo-de-vida
-  - ocio
 tags: 
   - europa
 authors: 

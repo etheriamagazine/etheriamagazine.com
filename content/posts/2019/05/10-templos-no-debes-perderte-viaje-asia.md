@@ -3,9 +3,8 @@ title: "10 templos de Asia para visitar al menos una vez en la vida"
 date: 2019-05-03
 cover: https://fotos.etheriamagazine.com/2019/04/templos-Asia-pura-ulun-danu-bratan-Bali.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - mundo
 authors: 

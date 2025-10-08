@@ -4,8 +4,7 @@ date: 2019-11-07
 cover: https://fotos.etheriamagazine.com/2019/10/escenarios-series-Cornualles-Poldark.jpg
 categories: 
   - estilo-de-vida
-  - inspiracion
-  - ocio
+  - cultura
 authors: 
   - Redacción Etheria
 ---

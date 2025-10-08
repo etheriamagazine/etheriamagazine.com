@@ -3,9 +3,7 @@ title: "Dónde celebrar el Fin de Año en Madrid: hoteles y restaurantes con muc
 date: 2023-11-28
 cover: https://fotos.etheriamagazine.com/2023/11/nochevieja-madrid-hotel-urso-mesa.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - hemeroteca
 tags: 
   - españa
 authors: 

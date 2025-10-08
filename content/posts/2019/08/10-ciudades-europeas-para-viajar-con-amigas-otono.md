@@ -3,10 +3,7 @@ title: "10 ciudades europeas para viajar en otoño"
 date: 2019-08-27
 cover: https://fotos.etheriamagazine.com/2018/11/Berlin-viaje-mujeres-e1566602904130.jpg
 categories: 
-  - viajar-con-amigas
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - viajar-en-pareja
 tags: 
   - europa
 authors: 

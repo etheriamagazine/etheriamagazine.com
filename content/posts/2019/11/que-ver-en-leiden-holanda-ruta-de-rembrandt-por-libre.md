@@ -3,8 +3,8 @@ title: "Qué ver en Leiden, la cuna de Rembrandt"
 date: 2019-11-14
 cover: https://fotos.etheriamagazine.com/2019/11/viaje-Leiden-terrazas.jpg
 categories: 
-  - viajar-con-amigas
-  - viajar-sola
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - europa
 authors: 

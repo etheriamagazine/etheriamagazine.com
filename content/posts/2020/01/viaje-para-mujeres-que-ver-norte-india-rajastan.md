@@ -3,9 +3,7 @@ title: "Norte de la India: enamórate de los colores del Rajastán"
 date: 2020-01-29
 cover: https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-Agra-2.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - viajar-con-amigas
 tags: 
   - mundo
 authors: 

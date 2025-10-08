@@ -5,7 +5,6 @@ cover: https://fotos.etheriamagazine.com/2025/03/Helen-Frankenthaler-Cassis.jpg
 categories: 
   - estilo-de-vida
   - cultura
-  - ocio
 authors: 
   - Redacción Etheria
 ---

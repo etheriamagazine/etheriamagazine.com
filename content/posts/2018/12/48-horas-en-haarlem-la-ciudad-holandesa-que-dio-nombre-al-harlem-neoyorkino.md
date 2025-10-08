@@ -3,8 +3,8 @@ title: "48 horas en Haarlem, la ciudad holandesa que dio nombre al Harlem neoyor
 date: 2018-12-07
 cover: https://fotos.etheriamagazine.com/2018/12/Amsterdam-Haarlem-viajes-con-amigas.jpg
 categories: 
-  - viajar-con-amigas
-  - viajar-sola
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - europa
 authors: 

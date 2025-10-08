@@ -3,9 +3,7 @@ title: "10 viajes a Portugal para este verano"
 date: 2020-07-02
 cover: https://fotos.etheriamagazine.com/2019/06/canales-aveiro-moliceiro.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
-  - ocio
+  - viajar-con-amigas
 tags: 
   - europa
 authors: 

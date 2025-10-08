@@ -3,8 +3,7 @@ title: "15 lugares imprescindibles que ver en Alicante capital"
 date: 2022-08-31
 cover: https://fotos.etheriamagazine.com/2022/08/alicante-castillo-santa-barbara.jpg
 categories: 
-  - estilo-de-vida
-  - inspiracion
+  - viajar-con-amigas
 tags: 
   - españa
 authors: 

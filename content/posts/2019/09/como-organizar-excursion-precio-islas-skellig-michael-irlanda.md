@@ -3,16 +3,17 @@ title: "Islas Skellig, el enigmático escenario de Star Wars en Irlanda"
 date: 2019-09-05
 cover: https://fotos.etheriamagazine.com/2019/09/sendero-Skellig-Michael.jpg
 categories: 
-  - viajar-con-amigas
+  - estilo-de-vida
+  - cultura
 tags: 
   - europa
 authors: 
   - Pepa G. Marín
 ---
 
-**Skellig Michael, una de las islas Skellig, saltó a la fama por ser escenario de Star 
+Skellig Michael, una de las islas Skellig, saltó a la fama por ser escenario de Star 
 Wars pero ya había sido protegida por la Unesco. En este artículo te contamos todos los 
-datos prácticos que necesitas para visitar esta isla irlandesa tan poco conocida.** 
+datos prácticos que necesitas para visitar esta isla irlandesa tan poco conocida. 
 
 ![Escalera de piedra en la isla de Skellig Michael](https://fotos.etheriamagazine.com/2019/09/viaje-irlanda-Skellig-Michael-ultimo-tramo.jpg "600 peldaños separan la base del islote del monasterio. ©PG")
 

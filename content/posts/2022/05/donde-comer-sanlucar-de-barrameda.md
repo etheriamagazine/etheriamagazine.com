@@ -3,9 +3,8 @@ title: "¿Nos comemos y bebemos Sanlúcar de Barrameda?"
 date: 2022-05-11
 cover: https://fotos.etheriamagazine.com/2022/05/sanlucar-langostinos.jpg
 categories: 
-  - viajar-con-amigas
   - estilo-de-vida
-  - inspiracion
+  - gourmet
 tags: 
   - españa
 authors: 

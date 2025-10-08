@@ -3,7 +3,8 @@ title: "10 visitas para aprovechar al máximo una escala en Dubái"
 date: 2019-05-31
 cover: https://fotos.etheriamagazine.com/2019/05/escala-Dubai-mirador-Burj-Khalifa.jpg
 categories: 
-  - viajar-sola
+  - organiza-tu-viaje
+  - guias-de-destino
 tags: 
   - mundo
 authors: 

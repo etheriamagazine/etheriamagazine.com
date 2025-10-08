@@ -3,7 +3,6 @@ title: "Rutas básicas en Bilbao para un fin de semana"
 date: 2018-10-22
 cover: https://fotos.etheriamagazine.com/2018/10/viaje-bilbao-puente.jpg
 categories: 
-  - viajar-con-amigas
   - viajar-sola
 tags: 
   - españa

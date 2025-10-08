@@ -3,7 +3,6 @@ title: "20 restaurantes románticos de Ibiza para ir en pareja"
 date: 2020-02-14
 cover: https://fotos.etheriamagazine.com/2020/02/restaurantes-romanticos-la-torre-vistas.jpg
 categories: 
-  - viajar-con-amigas
   - estilo-de-vida
   - gourmet
 tags: 

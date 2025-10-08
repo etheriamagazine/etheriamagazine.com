@@ -3,10 +3,7 @@ title: "Las 10 mejores coctelerías de Madrid para tu próxima noche de amigas"
 date: 2019-10-22
 cover: https://fotos.etheriamagazine.com/2019/10/Coctelerias-Madrid-Coctel-Macera.jpg
 categories: 
-  - estilo-de-vida
-  - gourmet
-  - inspiracion
-  - ocio
+  - viajar-con-amigas
 tags: 
   - españa
 authors: 

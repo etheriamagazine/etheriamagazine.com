@@ -4,7 +4,7 @@ date: 2022-10-25
 cover: https://fotos.etheriamagazine.com/2022/10/Mallorca-THE-MERCHANT-tuetano.jpg
 categories: 
   - estilo-de-vida
-  - inspiracion
+  - gourmet
 tags: 
   - españa
 authors: 

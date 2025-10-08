@@ -5,10 +5,6 @@ cover: https://fotos.etheriamagazine.com/2025/01/tendencias-2025-mujeres-viajes.
 categories: 
   - entre-mujeres
   - historias-en-femenino
-  - estilo-de-vida
-  - inspiracion
-  - mujeres-top
-  - ocio
 authors: 
   - Redacción Etheria
 ---

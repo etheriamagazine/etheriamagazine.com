@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2018/10/hermitage-spa.jpg
 categories: 
   - estilo-de-vida
   - hoteles
-  - inspiracion
-  - ocio
 tags: 
   - españa
 authors: 

@@ -4,9 +4,7 @@ date: 2024-01-29
 cover: https://fotos.etheriamagazine.com/2024/01/paris-museo-orangerie.jpg
 categories: 
   - estilo-de-vida
-  - inspiracion
   - cultura
-  - ocio
 tags: 
   - europa
 authors: 

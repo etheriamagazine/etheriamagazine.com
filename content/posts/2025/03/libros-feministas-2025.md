@@ -5,7 +5,6 @@ cover: https://fotos.etheriamagazine.com/2025/03/portada-libros-feministas.jpg
 categories: 
   - estilo-de-vida
   - cultura
-  - ocio
 authors: 
   - Pepa G. Marín
 ---
