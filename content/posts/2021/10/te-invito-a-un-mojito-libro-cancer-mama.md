@@ -3,6 +3,7 @@ title: "'Te invito a un mojito', un libro que puede salvar vidas"
 date: 2021-10-19
 cover: https://fotos.etheriamagazine.com/2021/10/te-invito-mojito-paka-mabel.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

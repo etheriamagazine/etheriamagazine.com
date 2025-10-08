@@ -4,6 +4,7 @@ date: 2019-03-20
 cover: https://fotos.etheriamagazine.com/2019/03/ruta-del-vino-la-mancha.jpg
 categories: 
   - viajar-con-amigas
+  - estilo-de-vida
   - gourmet
 tags: 
   - españa

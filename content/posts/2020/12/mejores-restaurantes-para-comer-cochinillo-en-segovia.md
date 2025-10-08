@@ -3,6 +3,7 @@ title: "Los tres tenores del cochinillo en Segovia, una historia de amor corresp
 date: 2020-12-01
 cover: https://fotos.etheriamagazine.com/2020/11/restaurante-jose-maria-Cochinillo.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 tags: 
   - españa

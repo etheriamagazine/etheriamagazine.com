@@ -3,6 +3,7 @@ title: "Regala los mejores libros de cócteles de todos los tiempos"
 date: 2020-11-23
 cover: https://fotos.etheriamagazine.com/2020/11/libros-cocteles-modernos.jpg
 categories: 
+  - estilo-de-vida
   - compras
   - cultura
 authors: 

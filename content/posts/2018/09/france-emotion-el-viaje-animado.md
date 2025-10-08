@@ -3,6 +3,7 @@ title: "\"FRANCE eMOTION. El viaje animado\", una exposición interactiva en Mad
 date: 2018-09-22
 cover: https://fotos.etheriamagazine.com/2018/09/Schalliol_Chantilly_IMG_5410.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 authors: 
   - Pepa G. Marín

@@ -3,7 +3,8 @@ title: "'Mujeres protagonistas', un interesante proyecto de la editorial Santill
 date: 2019-03-19
 cover: https://fotos.etheriamagazine.com/2019/03/mujeres-protagonistas-portadas.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 authors: 
   - Susana García

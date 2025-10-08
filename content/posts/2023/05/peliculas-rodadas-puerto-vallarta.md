@@ -3,7 +3,8 @@ title: "Puerto Vallarta de cine: de \"La noche de la iguana\" a \"Vacaciones en 
 date: 2023-05-22
 cover: https://fotos.etheriamagazine.com/2023/05/nuevo-vallarta-puerto.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - cultura
 tags: 
   - mundo
 authors: 

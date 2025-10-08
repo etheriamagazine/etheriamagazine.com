@@ -3,6 +3,7 @@ title: "De Saint-Malo a Lorient, una ruta bretona para recordar el Día D"
 date: 2024-02-19
 cover: https://fotos.etheriamagazine.com/2024/02/Museo-Memoria-39-45.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-en-pareja
 tags: 
   - europa

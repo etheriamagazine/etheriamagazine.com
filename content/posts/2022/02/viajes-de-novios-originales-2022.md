@@ -4,8 +4,6 @@ date: 2022-02-09
 cover: https://fotos.etheriamagazine.com/2022/02/viajes-novios-originales-pareja.jpg
 categories: 
   - viajar-en-pareja
-  - inspiración
-  - ocio
 tags: 
   - mundo
 authors: 

@@ -4,8 +4,6 @@ date: 2020-03-03
 cover: https://fotos.etheriamagazine.com/2019/11/Malta-Cafe-del-mar.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - europa
 authors: 

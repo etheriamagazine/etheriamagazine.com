@@ -4,8 +4,6 @@ date: 2018-09-28
 cover: https://fotos.etheriamagazine.com/2018/09/Suiza-subida-jungfrau-e1569136382763.jpg
 categories: 
   - viajar-en-familia
-  - inspiración
-  - ocio
 tags: 
   - europa
 authors: 

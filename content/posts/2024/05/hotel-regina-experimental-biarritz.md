@@ -3,6 +3,7 @@ title: "Hotel Regina Experimental, un histórico de Biarritz con nueva imagen"
 date: 2024-05-23
 cover: https://fotos.etheriamagazine.com/2024/05/hotel-regina-piscina.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

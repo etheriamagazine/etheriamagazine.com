@@ -4,8 +4,6 @@ date: 2024-04-26
 cover: https://fotos.etheriamagazine.com/2024/04/viena-Manuela-Torres.jpg
 categories: 
   - viajar-con-amigas
-  - historias
-  - mujeres-top
 tags: 
   - europa
 authors: 

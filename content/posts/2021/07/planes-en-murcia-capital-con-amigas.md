@@ -4,7 +4,6 @@ date: 2021-07-29
 cover: https://fotos.etheriamagazine.com/2021/07/Mercado-de-Correos-murcia.jpg
 categories: 
   - viajar-con-amigas
-  - ocio
 tags: 
   - españa
 authors: 

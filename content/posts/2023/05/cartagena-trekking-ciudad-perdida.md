@@ -3,6 +3,7 @@ title: "De Cartagena de Indias a la Ciudad Perdida, broche de oro de Sania"
 date: 2023-05-12
 cover: https://fotos.etheriamagazine.com/2023/05/sania-llegada-ciudad-perdida.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - mundo

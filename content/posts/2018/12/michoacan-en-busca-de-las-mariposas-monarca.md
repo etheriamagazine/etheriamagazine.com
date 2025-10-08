@@ -3,6 +3,8 @@ title: "Michoacán: en busca de las mariposas monarca"
 date: 2018-12-19
 cover: https://fotos.etheriamagazine.com/2018/12/mariposas-monarca-viaje-mujeres.jpg
 categories: 
+  - viajar-con-amigas
+  - viajar-en-familia
   - viajar-sola
 tags: 
   - mundo

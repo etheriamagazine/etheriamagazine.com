@@ -3,6 +3,7 @@ title: "Eugenia Fierros: \"Mientras viajo soy la mejor versión de mí misma\""
 date: 2018-08-06
 cover: https://fotos.etheriamagazine.com/2018/07/Eugenia-Fierros-mujer-etheria-playa.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Pepa G. Marín

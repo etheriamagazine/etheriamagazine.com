@@ -4,7 +4,9 @@ date: 2024-04-11
 cover: https://fotos.etheriamagazine.com/2024/04/lola-flores-mapa-ruta.jpg
 categories: 
   - viajar-sola
+  - entre-mujeres
   - mujeres-top
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

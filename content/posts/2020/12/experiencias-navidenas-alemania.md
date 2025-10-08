@@ -3,7 +3,8 @@ title: "10 experiencias navideñas en Alemania a través de sus länder"
 date: 2020-12-10
 cover: https://fotos.etheriamagazine.com/2020/12/Alemania-Baviera-Ramsau.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - europa

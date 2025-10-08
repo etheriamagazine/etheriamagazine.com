@@ -3,6 +3,7 @@ title: "Viaja al futuro desde el Monasterio de Uclés"
 date: 2020-10-22
 cover: https://fotos.etheriamagazine.com/2020/10/re-nacimiento-monasterio-ucles.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 tags: 

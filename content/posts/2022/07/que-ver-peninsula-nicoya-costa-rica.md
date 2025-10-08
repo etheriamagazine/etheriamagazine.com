@@ -3,6 +3,7 @@ title: "Descubre la esencia de la Península de Nicoya, tierra de artesanas y na
 date: 2022-07-15
 cover: https://fotos.etheriamagazine.com/2022/07/costa-rica-surf-Playa-Teresa.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - mundo

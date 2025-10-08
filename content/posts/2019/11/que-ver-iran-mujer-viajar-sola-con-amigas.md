@@ -4,8 +4,6 @@ date: 2019-11-06
 cover: https://fotos.etheriamagazine.com/2019/10/Yazd-ruta-caravanas-seda-4.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - mundo
 authors: 

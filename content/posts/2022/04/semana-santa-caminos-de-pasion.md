@@ -4,6 +4,7 @@ date: 2022-04-04
 cover: https://fotos.etheriamagazine.com/2022/04/lucena-caminos-pasion.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

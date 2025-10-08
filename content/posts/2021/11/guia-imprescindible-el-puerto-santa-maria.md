@@ -4,7 +4,6 @@ date: 2021-11-01
 cover: https://fotos.etheriamagazine.com/2021/10/Plaza-Espana-puerto-santa-maria.jpg
 categories: 
   - viajar-con-amigas
-  - ocio
 tags: 
   - españa
 authors: 

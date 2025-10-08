@@ -5,7 +5,8 @@ cover: https://fotos.etheriamagazine.com/2019/02/puesta-sol-sierra-nieves.jpg
 categories: 
   - viajar-con-amigas
   - viajar-en-familia
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - españa
 authors: 

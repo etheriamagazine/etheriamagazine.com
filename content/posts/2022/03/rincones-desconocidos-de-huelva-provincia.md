@@ -3,6 +3,8 @@ title: "Rincones y paisajes de  Huelva que aún no conoces"
 date: 2022-03-21
 cover: https://fotos.etheriamagazine.com/2022/03/Viajar-a-Marte-Huelva.jpg
 categories: 
+  - viajar-con-amigas
+  - viajar-en-familia
   - viajar-sola
 tags: 
   - españa

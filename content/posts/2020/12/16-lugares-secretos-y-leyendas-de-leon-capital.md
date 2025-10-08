@@ -3,7 +3,8 @@ title: "16 secretos que desconoces de la milenaria ciudad de León"
 date: 2020-12-16
 cover: https://fotos.etheriamagazine.com/2020/12/Leon-catedral-interior.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - españa
 authors: 

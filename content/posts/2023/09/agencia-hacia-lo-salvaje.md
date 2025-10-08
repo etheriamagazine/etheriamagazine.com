@@ -3,8 +3,9 @@ title: "Hacia lo Salvaje, nuevos viajes con mirada ecofeminista"
 date: 2023-09-18
 cover: https://fotos.etheriamagazine.com/2023/09/mujeres-naturaleza.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
-  - proyectos
+  - proyectos-con-alma
 authors: 
   - Redacción Etheria
 ---

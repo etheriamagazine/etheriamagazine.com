@@ -4,7 +4,7 @@ date: 2021-04-13
 cover: https://fotos.etheriamagazine.com/2021/04/Cuevas-de-la-Villa-Requena.jpg
 categories: 
   - viajar-con-amigas
-  - ocio
+  - viajar-en-familia
 authors: 
   - Redacción Etheria
 ---

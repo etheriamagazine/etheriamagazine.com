@@ -4,6 +4,7 @@ date: 2018-07-09
 cover: https://fotos.etheriamagazine.com/2018/07/Legoland-Alemania-e1559207498634.jpg
 categories: 
   - viajar-en-familia
+  - estilo-de-vida
   - ocio
 tags: 
   - europa

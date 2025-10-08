@@ -3,6 +3,7 @@ title: "Hotel La Fonte, un rincón secreto en Asturias"
 date: 2020-06-30
 cover: https://fotos.etheriamagazine.com/2020/06/Hotel-la-Fonte-Asturias-entrada.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

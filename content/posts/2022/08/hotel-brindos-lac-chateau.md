@@ -3,6 +3,7 @@ title: "Brindos, Lac & Château, una atípica mansión con habitaciones flotante
 date: 2022-08-10
 cover: https://fotos.etheriamagazine.com/2022/08/hotel-Brindos-Lac-Chateau-anglet.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

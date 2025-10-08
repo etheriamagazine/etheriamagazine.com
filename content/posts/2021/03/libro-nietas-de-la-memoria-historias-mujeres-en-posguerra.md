@@ -3,7 +3,9 @@ title: "‘Nietas de la memoria’: 13 relatos de abuelas anónimas y luchadoras
 date: 2021-03-08
 cover: https://fotos.etheriamagazine.com/2021/03/Nietas-de-la-memoria-Bala-Perdida.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
+  - estilo-de-vida
   - cultura
   - mujeres-top
   - ocio

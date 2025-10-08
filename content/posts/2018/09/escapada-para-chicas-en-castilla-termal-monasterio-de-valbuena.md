@@ -4,8 +4,6 @@ date: 2018-09-06
 cover: https://fotos.etheriamagazine.com/2018/09/circuito-contrastes-monasterio-valbuena.jpg
 categories: 
   - viajar-con-amigas
-  - bienestar
-  - hoteles
 tags: 
   - españa
 authors: 

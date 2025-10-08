@@ -3,6 +3,7 @@ title: "El viaje de las mujeres, el nuevo libro de Elena García Quevedo"
 date: 2019-03-16
 cover: https://fotos.etheriamagazine.com/2019/03/anciana-tibet.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 authors: 
   - Pepa G. Marín

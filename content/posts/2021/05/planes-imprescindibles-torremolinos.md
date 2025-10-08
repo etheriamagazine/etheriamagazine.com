@@ -4,6 +4,7 @@ date: 2021-05-19
 cover: https://fotos.etheriamagazine.com/2021/05/jardin-botanico-torremolinos.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

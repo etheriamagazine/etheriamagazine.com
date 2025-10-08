@@ -3,7 +3,8 @@ title: "Ruta por la España de las grandes escritoras del siglo XX (3ª parte)"
 date: 2020-09-14
 cover: https://fotos.etheriamagazine.com/2020/08/portada-escritoras-siglo-xx.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
 tags: 
   - españa
 authors: 

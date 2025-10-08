@@ -4,8 +4,6 @@ date: 2023-09-13
 cover: https://fotos.etheriamagazine.com/2021/12/segovia-Sepulveda.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 

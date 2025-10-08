@@ -3,6 +3,7 @@ title: "Disfruta de la mejor cocina georgiana en este hotel durante Madrid Fusi√
 date: 2024-01-25
 cover: https://fotos.etheriamagazine.com/2024/01/cocina-georgiana-madrid.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 authors: 
   - Redacci√≥n Etheria

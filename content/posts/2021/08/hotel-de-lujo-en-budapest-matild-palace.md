@@ -3,6 +3,8 @@ title: "No te pierdas el renovado Matild Palace, tu hotel de lujo en Budapest"
 date: 2021-08-16
 cover: https://fotos.etheriamagazine.com/2021/08/Matild-Palace-exterior-Budapest.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa
@@ -10,7 +12,11 @@ authors:
   - Redacción Etheria
 ---
 
-Si buscas un hotel de lujo en Budapest para alojarte en la preciosa capital de Hungría una excelente opción es el recientemente renovado Matild Palace, a Luxury Collection Hotel. Uno de esos hoteles que llegan a las ciudades para hacerlas más atractivas e interesantes y formar parte de su oferta de ocio de calidad. Es perfecto para darse un capricho.
+Si buscas un hotel de lujo en Budapest para alojarte en la preciosa capital de Hungría 
+una excelente opción es el recientemente renovado Matild Palace, a Luxury Collection 
+Hotel. Uno de esos hoteles que llegan a las ciudades para hacerlas más atractivas e 
+interesantes y formar parte de su oferta de ocio de calidad. Es perfecto para darse un 
+capricho. 
 
 ![Matild Palace, a Luxury Collection Hotel.](https://fotos.etheriamagazine.com/2021/08/Matild-Palace-exterior-Budapest.jpg "Matild Palace, a Luxury Collection Hotel.")
 

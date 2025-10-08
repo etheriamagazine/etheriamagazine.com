@@ -3,6 +3,7 @@ title: "Restaurantes en El Palmar (Cádiz) para comer muy bien"
 date: 2021-07-26
 cover: https://fotos.etheriamagazine.com/2021/07/el-palmar-nacarum-atardecer-1.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 tags: 
   - españa

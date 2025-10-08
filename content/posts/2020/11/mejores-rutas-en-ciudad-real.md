@@ -4,6 +4,7 @@ date: 2020-11-10
 cover: https://fotos.etheriamagazine.com/2020/11/ciudad-real-Tablas-de-Daimiel.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

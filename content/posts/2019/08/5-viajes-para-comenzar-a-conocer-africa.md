@@ -3,7 +3,8 @@ title: "5 grandes viajes a África con los que soñar"
 date: 2019-08-09
 cover: https://fotos.etheriamagazine.com/2018/11/Bostsuana-viaje-fauna-africa-e1552208227696.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - mundo

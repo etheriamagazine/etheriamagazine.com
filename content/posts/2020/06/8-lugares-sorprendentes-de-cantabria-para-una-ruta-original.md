@@ -4,6 +4,7 @@ date: 2020-06-05
 cover: https://fotos.etheriamagazine.com/2020/06/viaje-bosque-secuoyas-cantabria.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

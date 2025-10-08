@@ -4,8 +4,6 @@ date: 2025-05-15
 cover: https://fotos.etheriamagazine.com/2025/05/sania-raja-ampat-mirador.jpg
 categories: 
   - viajar-sola
-  - historias
-  - mujeres-top
 tags: 
   - mundo
 authors: 

@@ -3,6 +3,7 @@ title: "Libros para reflexionar sobre la igualdad y el papel de la mujer en la h
 date: 2025-03-10
 cover: https://fotos.etheriamagazine.com/2025/03/portada-libros-feministas.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

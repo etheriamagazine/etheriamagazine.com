@@ -4,6 +4,7 @@ date: 2023-03-06
 cover: https://fotos.etheriamagazine.com/2022/07/playa-bateles-conil.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

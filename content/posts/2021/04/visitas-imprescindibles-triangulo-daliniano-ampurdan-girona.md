@@ -3,6 +3,7 @@ title: "Contágiate de la locura de Dalí en el Triángulo daliniano"
 date: 2021-04-21
 cover: https://fotos.etheriamagazine.com/2021/03/sala-de-Mae-West-Teatro-Museo-Dali.jpg
 categories: 
+  - organiza-tu-viaje
   - guias-de-destino
 tags: 
   - españa

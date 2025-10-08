@@ -3,8 +3,10 @@ title: "El pan en Portugal: tradición viva en la tierra de la mejor panadera de
 date: 2024-11-20
 cover: https://fotos.etheriamagazine.com/2024/11/Portugal-Pao-de-Lo-Ovar-trozo.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 tags: 
   - europa

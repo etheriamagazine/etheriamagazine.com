@@ -4,7 +4,8 @@ date: 2019-11-12
 cover: https://fotos.etheriamagazine.com/2019/11/viaje-mujeres-lofoten-Henninsvaer.jpg
 categories: 
   - viajar-sola
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - europa
 authors: 

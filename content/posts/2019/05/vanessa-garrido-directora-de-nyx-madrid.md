@@ -3,7 +3,8 @@ title: "Vanessa Garrido, directora de Nyx Madrid: \"Es necesario reinventarse co
 date: 2019-05-27
 cover: https://fotos.etheriamagazine.com/2019/05/Vanessa-Garrido-Hotel-Nyx-Madrid-3.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 authors: 
   - Pepa G. Marín

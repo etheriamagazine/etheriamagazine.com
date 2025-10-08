@@ -3,6 +3,7 @@ title: "Viajeras por los Mares del Sur, un libro de desafíos"
 date: 2019-12-21
 cover: https://fotos.etheriamagazine.com/2019/12/fanny-stevenson.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

@@ -3,6 +3,8 @@ title: "Visitas en Cartagena para comprobar que \"ni es fea ni es un pueblo\""
 date: 2024-09-14
 cover: https://fotos.etheriamagazine.com/2024/09/cartagena-palacio-aguirre.jpg
 categories: 
+  - viajar-con-amigas
+  - viajar-en-familia
   - viajar-en-pareja
 tags: 
   - españa

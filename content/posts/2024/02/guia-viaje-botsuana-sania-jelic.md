@@ -3,6 +3,7 @@ title: "Guía de Sania Jelic para viajar a Botsuana"
 date: 2024-02-22
 cover: https://fotos.etheriamagazine.com/2024/02/sania-botsuana-mujeres.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - mundo

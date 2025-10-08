@@ -3,6 +3,7 @@ title: "Hacienda Na Xamena o cómo encontrar la paz en Ibiza"
 date: 2022-10-07
 cover: https://fotos.etheriamagazine.com/2022/10/Hacienda-Na-Xamena-piscina.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

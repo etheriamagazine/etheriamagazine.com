@@ -4,7 +4,8 @@ date: 2022-10-27
 cover: https://fotos.etheriamagazine.com/2022/10/Guanacaste-playa-hermosa.jpg
 categories: 
   - viajar-con-amigas
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
 tags: 
   - mundo
 authors: 

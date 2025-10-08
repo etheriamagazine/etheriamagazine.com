@@ -3,6 +3,7 @@ title: "¿Es tan aburrida la comida de Gran Bretaña como dicen?"
 date: 2021-03-11
 cover: https://fotos.etheriamagazine.com/2021/03/inglaterra-roast-beef.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 tags: 
   - europa

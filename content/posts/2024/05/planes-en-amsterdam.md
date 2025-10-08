@@ -3,7 +3,7 @@ title: "Planes en Ámsterdam que no te puedes perder este 2024"
 date: 2024-05-20
 cover: https://fotos.etheriamagazine.com/2024/05/Canales-Amsterdam.jpg
 categories: 
-  - viajar-sola
+  - viajar-con-amigas
 tags: 
   - europa
 authors: 

@@ -4,6 +4,7 @@ date: 2024-11-29
 cover: https://fotos.etheriamagazine.com/2024/11/heritage-le-telfair-piscina-principal.jpg
 categories: 
   - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - mundo

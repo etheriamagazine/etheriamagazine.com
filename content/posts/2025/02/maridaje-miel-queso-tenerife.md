@@ -3,6 +3,7 @@ title: "Miel y queso, el maridaje perfecto que debes saborear en Tenerife"
 date: 2025-02-20
 cover: https://fotos.etheriamagazine.com/2025/02/tenerife-miel-especialidades.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 tags: 
   - españa

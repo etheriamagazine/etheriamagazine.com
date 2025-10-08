@@ -3,7 +3,8 @@ title: "Guía de Lanzarote: 15 lugares imprescindibles para perderte por la isla
 date: 2023-02-08
 cover: https://fotos.etheriamagazine.com/2023/02/lanzarote-vistas.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - españa
 authors: 

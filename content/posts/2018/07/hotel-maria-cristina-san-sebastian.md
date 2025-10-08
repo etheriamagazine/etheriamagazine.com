@@ -3,6 +3,7 @@ title: "Hotel María Cristina, historia y glamour en San Sebastián"
 date: 2018-07-21
 cover: https://fotos.etheriamagazine.com/2018/04/HOTEL-MARIA-CRISTINA-HDHotelMariaCristinaSanSebastianExteriorviewatnight.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

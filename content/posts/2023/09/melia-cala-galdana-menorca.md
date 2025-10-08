@@ -3,6 +3,7 @@ title: "Hotel Meliá Cala Galdana, tu punto de partida para recorrer Menorca"
 date: 2023-09-01
 cover: https://fotos.etheriamagazine.com/2023/08/menorca-Melia-Cala-Galdana-vista-general.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

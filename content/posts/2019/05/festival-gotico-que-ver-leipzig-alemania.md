@@ -3,6 +3,7 @@ title: "Wave-Gotik-Treffen, el Festival Gótico de Leipzig es el más importante
 date: 2019-05-30
 cover: https://fotos.etheriamagazine.com/2019/04/leipzig-festival-concierto.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 authors: 
   - Manena Munar

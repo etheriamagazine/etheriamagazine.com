@@ -3,7 +3,8 @@ title: "Bali en solitario: yoga, retiros y aventuras de Sania Jelic"
 date: 2025-02-25
 cover: https://fotos.etheriamagazine.com/2025/02/sania-bali-arrozal.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 tags: 
   - mundo

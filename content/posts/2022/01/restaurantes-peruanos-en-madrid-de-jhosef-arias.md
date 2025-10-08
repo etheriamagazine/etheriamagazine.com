@@ -4,7 +4,6 @@ date: 2022-01-24
 cover: https://fotos.etheriamagazine.com/2022/01/Platos-Piscomar-Bravazo.jpg
 categories: 
   - viajar-con-amigas
-  - gourmet
 tags: 
   - españa
 authors: 

@@ -3,7 +3,8 @@ title: "Viajes de cine: 8 localizaciones de 'La catedral del mar'"
 date: 2018-08-01
 cover: https://fotos.etheriamagazine.com/2018/07/Sos-del-rey-catedral-del-mar-e1578147637875.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - cultura
 tags: 
   - españa
 authors: 

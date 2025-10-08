@@ -4,8 +4,6 @@ date: 2019-05-16
 cover: https://fotos.etheriamagazine.com/2019/03/cala-xarraca-ibiza.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 

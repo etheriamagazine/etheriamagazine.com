@@ -3,7 +3,8 @@ title: "Guía esencial de Tenerife: 15 imprescindibles en tus vacaciones"
 date: 2023-01-17
 cover: https://fotos.etheriamagazine.com/2023/01/beach-teresitas-tenerife-spain-scaled.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - españa
 authors: 

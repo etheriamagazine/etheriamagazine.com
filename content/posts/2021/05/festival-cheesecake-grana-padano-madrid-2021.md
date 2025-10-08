@@ -3,6 +3,7 @@ title: "Un festival para los amantes de la tarta de queso en Madrid"
 date: 2021-05-01
 cover: https://fotos.etheriamagazine.com/2021/04/festival-cheesecake-madrid.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 authors: 
   - Redacción Etheria

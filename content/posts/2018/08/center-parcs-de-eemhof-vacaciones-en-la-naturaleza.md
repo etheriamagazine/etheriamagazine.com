@@ -3,6 +3,7 @@ title: "Center Parcs Eemhof, tu alojamiento familiar en Holanda"
 date: 2018-08-11
 cover: https://fotos.etheriamagazine.com/2018/07/Center-Parcs-Eemhof-cabana.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

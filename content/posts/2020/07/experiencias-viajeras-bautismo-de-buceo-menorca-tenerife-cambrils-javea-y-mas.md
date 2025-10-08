@@ -3,7 +3,8 @@ title: "6 lugares para hacer un bautismo de buceo en España"
 date: 2020-07-14
 cover: https://fotos.etheriamagazine.com/2020/07/bautismo-buceo.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - españa
 authors: 

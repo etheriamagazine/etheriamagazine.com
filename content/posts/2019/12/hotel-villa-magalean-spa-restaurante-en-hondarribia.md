@@ -4,7 +4,6 @@ date: 2019-12-03
 cover: https://fotos.etheriamagazine.com/2019/11/hotel-magalean-recepcion.jpg
 categories: 
   - viajar-con-amigas
-  - hoteles
 tags: 
   - españa
 authors: 

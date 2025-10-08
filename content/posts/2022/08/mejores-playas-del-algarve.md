@@ -3,6 +3,7 @@ title: "¿Son éstas las 10 playas más bonitas del Algarve?"
 date: 2022-08-04
 cover: https://fotos.etheriamagazine.com/2022/08/playa-Barranco-algarve.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - europa

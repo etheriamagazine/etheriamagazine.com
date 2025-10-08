@@ -4,8 +4,6 @@ date: 2018-11-19
 cover: https://fotos.etheriamagazine.com/2018/11/Kandy-abuela-mochilera-8.jpg
 categories: 
   - viajar-sola
-  - historias
-  - mujeres-top
 authors: 
   - Pepa G. Marín
 ---

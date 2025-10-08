@@ -3,6 +3,7 @@ title: "El Hotel Palace de Madrid se viste de cine este verano"
 date: 2021-06-30
 cover: https://fotos.etheriamagazine.com/2021/06/Vestuario-de-Doctor-Zhivago.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

@@ -3,7 +3,8 @@ title: "Guía para no perderse en el 66 Festival de San Sebastián"
 date: 2018-08-09
 cover: https://fotos.etheriamagazine.com/2018/07/Cartel-seccion-oficinal-festival-cine-San-Sebastian.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 authors: 
   - Susana García

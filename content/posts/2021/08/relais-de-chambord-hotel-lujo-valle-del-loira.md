@@ -3,6 +3,8 @@ title: "Relais de Chambord, un pequeño hotel de lujo en el corazón del Valle d
 date: 2021-08-02
 cover: https://fotos.etheriamagazine.com/2021/07/relais-de-chambord-restaurant-le-grand-saint-michel.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa
@@ -10,7 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-El Valle del Loira con sus castillos es una ruta obligada para toda viajera. Para vivir esta experiencia, nada mejor que alojarse en el Relais de Chambord, un pequeño hotel de lujo dentro del dominio del castillo del mismo nombre. Una opción excelente para vivir esta preciosa zona de Francia a lo grande.
+El Valle del Loira con sus castillos es una ruta obligada para toda viajera. Para vivir 
+esta experiencia, nada mejor que alojarse en el Relais de Chambord, un pequeño hotel de 
+lujo dentro del dominio del castillo del mismo nombre. Una opción excelente para vivir 
+esta preciosa zona de Francia a lo grande. 
 
 ![Relais de Chambord.](https://fotos.etheriamagazine.com/2021/07/relais-de-chambord-fachada.jpg "Relais de Chambord.")
 

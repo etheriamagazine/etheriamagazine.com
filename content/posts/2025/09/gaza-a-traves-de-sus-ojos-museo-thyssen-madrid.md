@@ -3,6 +3,7 @@ title: "‘Gaza a través de sus ojos’,  la exposición más necesaria del Mu
 date: 2025-09-16
 cover: https://fotos.etheriamagazine.com/2025/09/exposicion-thyssen-Gaza-Palestinos-hogares.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

@@ -4,6 +4,7 @@ date: 2022-02-24
 cover: https://fotos.etheriamagazine.com/2019/03/Fruiturismo-lleida.jpg
 categories: 
   - viajar-en-familia
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

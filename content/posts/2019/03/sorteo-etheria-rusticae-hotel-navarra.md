@@ -3,7 +3,8 @@ title: "Sorteo Etheria-Rusticae: Gana dos noches de hotel en Castillo de Gorraiz
 date: 2019-03-26
 cover: https://fotos.etheriamagazine.com/2019/03/hotel-castillo-gormaiz-Exterior-hotel-general.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 authors: 
   - Redacción Etheria

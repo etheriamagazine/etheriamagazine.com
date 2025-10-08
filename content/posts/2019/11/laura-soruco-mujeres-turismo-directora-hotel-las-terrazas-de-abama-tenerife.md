@@ -3,6 +3,7 @@ title: "Laura Soruco: \"Viajar te ayuda a ver otras formas de trabajar en el sec
 date: 2019-11-11
 cover: https://fotos.etheriamagazine.com/2019/11/laura-soruco-terraza-abama.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Pepa G. Marín

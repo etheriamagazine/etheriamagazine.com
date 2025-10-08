@@ -4,7 +4,7 @@ date: 2021-03-26
 cover: https://fotos.etheriamagazine.com/2021/03/benidorm-rascacielos.jpg
 categories: 
   - viajar-con-amigas
-  - ocio
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

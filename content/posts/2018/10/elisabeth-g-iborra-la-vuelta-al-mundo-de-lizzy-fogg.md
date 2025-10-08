@@ -3,6 +3,7 @@ title: "Elisabeth G. Iborra: \"Me declaré periodista a los seis años por una c
 date: 2018-10-29
 cover: https://fotos.etheriamagazine.com/2018/10/Elisabeth-Iborra-Guatape.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Susana García

@@ -4,7 +4,6 @@ date: 2021-07-21
 cover: https://fotos.etheriamagazine.com/2021/07/capilla-santa-maria-bermiego.jpg
 categories: 
   - viajar-con-amigas
-  - ocio
 tags: 
   - españa
 authors: 

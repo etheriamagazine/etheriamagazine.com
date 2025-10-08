@@ -3,6 +3,7 @@ title: "Celebra la Nochevieja en Madrid con una cena de gala"
 date: 2022-11-11
 cover: https://fotos.etheriamagazine.com/2022/11/nochevieja-brindis.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 tags: 
   - españa

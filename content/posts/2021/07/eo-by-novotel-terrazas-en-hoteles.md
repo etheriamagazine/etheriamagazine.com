@@ -3,6 +3,7 @@ title: "‘eo by Novotel’, practica el terraceo más desenfadado y gourmet"
 date: 2021-07-27
 cover: https://fotos.etheriamagazine.com/2021/07/Terraza_Novotel-ibis-Styles-Madrid-City-Las-Ventas.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 authors: 
   - Redacción Etheria
@@ -72,6 +73,6 @@ cualquiera de sus establecimientos de España porque merece mucho la pena.
 
 {{< reflink path=posts/2020/04/6-hoteles-apartados-espana-lujo-con-encanto >}}. 
 
-{{< reflink path=posts/2019/10/10-hoteles-para-escapada-romantica-de-lujo >}}. 
+{{< reflink path=posts/2019/10/hoteles-para-escapada-romantica-de-lujo >}}. 
 
 {{< reflink path=posts/2018/08/hotel-la-bobadilla-loja-granada >}}.

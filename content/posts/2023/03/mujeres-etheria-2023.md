@@ -3,7 +3,8 @@ title: "Mujeres brillantes y emprendedoras que nos inspiran cada día"
 date: 2023-03-09
 cover: https://fotos.etheriamagazine.com/2023/03/mujeres-viaje-baile-africa-Belen-Bonapriso.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 authors: 
   - Redacción Etheria

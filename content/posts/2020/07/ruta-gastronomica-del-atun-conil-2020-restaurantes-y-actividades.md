@@ -3,6 +3,7 @@ title: "Ruta Gastronómica del Atún en Conil, restaurantes y actividades"
 date: 2020-07-10
 cover: https://fotos.etheriamagazine.com/2018/06/casa-francisco-conil-ruta-del-atun-e1649843723568.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 authors: 
   - Pepa G. Marín

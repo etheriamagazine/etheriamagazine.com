@@ -4,7 +4,8 @@ date: 2023-05-31
 cover: https://fotos.etheriamagazine.com/2023/05/sania-guatemala-lago-atitlan-puerto.jpg
 categories: 
   - viajar-sola
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
 tags: 
   - mundo
 authors: 

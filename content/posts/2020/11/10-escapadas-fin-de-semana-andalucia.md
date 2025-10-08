@@ -4,8 +4,6 @@ date: 2020-11-06
 cover: https://fotos.etheriamagazine.com/2020/11/Andalucia-Ronda-puente-nuevo.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 

@@ -3,6 +3,7 @@ title: "Terrazas y restaurantes de Castilla-La Mancha donde cenar al fresco"
 date: 2020-07-16
 cover: https://fotos.etheriamagazine.com/2020/07/terraza-verano-Adolfo-Cigarral-Santa-Maria.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 tags: 
   - españa

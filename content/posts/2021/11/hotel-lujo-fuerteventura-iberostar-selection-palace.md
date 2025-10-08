@@ -3,6 +3,8 @@ title: "Iberostar Selection Fuerteventura Palace, tu hotel de lujo en Fuertevent
 date: 2021-11-11
 cover: https://fotos.etheriamagazine.com/2021/11/Iberostar-fuerteventura-piscina.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa
@@ -10,7 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-La idea de hacer una escapada a Fuerteventura a un hotel de cinco estrellas es imposible que no te apetezca. Hemos elegido el Iberostar Selection Fuerteventura Palace por su ubicación, sus acogedoras habitaciones y por la garantía de calidad de la marca Iberostar. ¿Te vienes?
+La idea de hacer una escapada a Fuerteventura a un hotel de cinco estrellas es imposible 
+que no te apetezca. Hemos elegido el Iberostar Selection Fuerteventura Palace por su 
+ubicación, sus acogedoras habitaciones y por la garantía de calidad de la marca 
+Iberostar. ¿Te vienes? 
 
 ![Piscina del hotel Iberostar Selection Fuerteventura Palace.](https://fotos.etheriamagazine.com/2021/11/Iberostar-fuerteventura-piscina-edited.jpg "Piscina del hotel Iberostar Selection Fuerteventura Palace.")
 

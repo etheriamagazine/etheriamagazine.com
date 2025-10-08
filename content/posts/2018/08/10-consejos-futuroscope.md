@@ -4,6 +4,7 @@ date: 2018-08-24
 cover: https://fotos.etheriamagazine.com/2018/08/Futuroscope-panoramica.jpg
 categories: 
   - viajar-en-familia
+  - estilo-de-vida
   - ocio
 tags: 
   - europa

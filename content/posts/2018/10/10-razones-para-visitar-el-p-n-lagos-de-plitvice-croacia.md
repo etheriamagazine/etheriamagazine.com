@@ -3,7 +3,8 @@ title: "10 razones para visitar en otoño el Parque Nacional Lagos de Plitvice (
 date: 2018-10-05
 cover: https://fotos.etheriamagazine.com/2018/10/cascadas-lagos-plitvice-e1653808488782.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - europa

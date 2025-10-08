@@ -3,6 +3,7 @@ title: "Ruta de fados en Lisboa de la mano de Amália Rodrigues"
 date: 2020-12-30
 cover: https://fotos.etheriamagazine.com/2020/12/lisboa-Amalia-Rodrigues-1965.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 tags: 
   - europa

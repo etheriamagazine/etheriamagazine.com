@@ -3,6 +3,7 @@ title: "Festival Ritratti, un viaje al corazón de la música en Monopoli"
 date: 2025-03-31
 cover: https://fotos.etheriamagazine.com/2025/03/festival-ritratti.jpeg
 categories: 
+  - estilo-de-vida
   - ocio
 authors: 
   - Pepa G. Marín

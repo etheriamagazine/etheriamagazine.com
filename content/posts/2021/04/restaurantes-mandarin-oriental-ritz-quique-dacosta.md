@@ -3,6 +3,7 @@ title: "Gastronomía de altura en los 5 restaurantes del renovado Mandarin Orien
 date: 2021-04-12
 cover: https://fotos.etheriamagazine.com/2021/04/Ritz-Madrid-Deessa-gastronomia.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
   - hoteles
   - ocio

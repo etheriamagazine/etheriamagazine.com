@@ -3,7 +3,8 @@ title: "10 escapadas por España para superar la crisis posvacacional"
 date: 2019-08-20
 cover: https://fotos.etheriamagazine.com/2019/05/viaje-marbella-plaza-naranjos.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - españa

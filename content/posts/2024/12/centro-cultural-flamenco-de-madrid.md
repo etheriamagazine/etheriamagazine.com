@@ -3,6 +3,7 @@ title: "Centro Cultural Flamenco de Madrid, mucho más que un tablao"
 date: 2024-12-08
 cover: https://fotos.etheriamagazine.com/2024/12/portada-flamenco.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

@@ -4,7 +4,6 @@ date: 2023-05-06
 cover: https://fotos.etheriamagazine.com/2023/05/bodega-rio-negro-olivo.jpg
 categories: 
   - viajar-con-amigas
-  - gourmet
 tags: 
   - españa
 authors: 

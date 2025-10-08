@@ -3,6 +3,7 @@ title: "¿Qué tienen en común Howard Carter, el duque de Alba y Javier Sierra?
 date: 2022-12-22
 cover: https://fotos.etheriamagazine.com/2022/12/exposicion-tutankmon-liria-cartel.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 authors: 
   - Redacción Etheria

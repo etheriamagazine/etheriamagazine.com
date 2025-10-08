@@ -3,6 +3,7 @@ title: "Qué comprar en Mallorca, de la artesanía al sabroso producto gourmet"
 date: 2023-05-19
 cover: https://fotos.etheriamagazine.com/2023/05/Mallorca-teixits-vicens.jpg
 categories: 
+  - estilo-de-vida
   - compras
 tags: 
   - españa

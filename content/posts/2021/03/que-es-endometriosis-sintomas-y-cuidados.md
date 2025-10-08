@@ -3,6 +3,7 @@ title: "Endometriosis, una enfermedad que no es solo ginecológica"
 date: 2021-03-15
 cover: https://fotos.etheriamagazine.com/2021/03/mujeres-con-endometriosis.jpg
 categories: 
+  - estilo-de-vida
   - bienestar
 authors: 
   - Maria Miret

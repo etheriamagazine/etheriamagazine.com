@@ -4,8 +4,6 @@ date: 2021-06-02
 cover: https://fotos.etheriamagazine.com/2021/05/palma-amigas-Velero-Rafael-Verdera.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 

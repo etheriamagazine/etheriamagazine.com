@@ -3,6 +3,7 @@ title: "Etxeko by Martín Berasategui, tu próximo restaurante para cenar con am
 date: 2020-03-10
 cover: https://fotos.etheriamagazine.com/2020/03/menu-degustacion-etxeko-1.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 tags: 
   - españa

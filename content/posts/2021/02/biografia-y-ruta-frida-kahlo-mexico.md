@@ -3,6 +3,7 @@ title: "Escenarios poéticos y atormentados de la vida de Frida Kahlo"
 date: 2021-02-15
 cover: https://fotos.etheriamagazine.com/2021/02/apertura-frida-kahlo.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Pilar Ortega

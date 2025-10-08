@@ -3,7 +3,8 @@ title: "5 consejos para hacer un álbum de fotos digital y no morir en el intent
 date: 2020-04-02
 cover: https://fotos.etheriamagazine.com/2020/03/albumes-varios.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 authors: 
   - Susana García

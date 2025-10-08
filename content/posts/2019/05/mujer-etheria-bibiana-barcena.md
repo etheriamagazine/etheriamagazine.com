@@ -3,6 +3,7 @@ title: "Bibiana Bárcena: \"No tener miedo a salir de la zona de confort me ha a
 date: 2019-05-21
 cover: https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-pointe-esny-mauritius.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Pepa G. Marín

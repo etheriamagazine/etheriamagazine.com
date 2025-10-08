@@ -3,6 +3,7 @@ title: "'Hábitats', la nueva exposición de Kris Ubach"
 date: 2019-10-08
 cover: https://fotos.etheriamagazine.com/2019/10/exposicion-habitats-kris-ubach.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 authors: 
   - Redacción Etheria

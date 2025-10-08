@@ -3,6 +3,8 @@ title: "Hotel SO/ Sotogrande, nuevo referente del turismo de lujo en Cádiz"
 date: 2021-09-27
 cover: https://fotos.etheriamagazine.com/2021/09/so-sotogrande-piscina.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa
@@ -10,7 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-Ya tenemos una opción más si buscamos una escapada de lujo a Cádiz: el nuevo SO/ Sotogrande, un hotel que ha llegado para ofrecer una propuesta divertida y desenfadada, pero con todos los servicios y características de un hotel de cinco estrellas. No te lo pierdas y ve buscando un hueco para conocerlo, te aseguramos que te va a sorprender.
+Ya tenemos una opción más si buscamos una escapada de lujo a Cádiz: el nuevo SO/ 
+Sotogrande, un hotel que ha llegado para ofrecer una propuesta divertida y desenfadada, 
+pero con todos los servicios y características de un hotel de cinco estrellas. No te lo 
+pierdas y ve buscando un hueco para conocerlo, te aseguramos que te va a sorprender. 
 
 ![Una de las piscinas del hotel SO Sotogrande.](https://fotos.etheriamagazine.com/2021/09/so-sotogrande-piscina.jpg "Una de las piscinas del hotel SO Sotogrande.")
 

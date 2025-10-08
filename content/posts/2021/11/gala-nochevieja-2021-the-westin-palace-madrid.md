@@ -3,6 +3,7 @@ title: "The Westin Palace Madrid o cómo entrar en 2022 rodeado de luces y estre
 date: 2021-11-16
 cover: https://fotos.etheriamagazine.com/2021/11/hotel-palace-noche-madrid.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

@@ -4,7 +4,8 @@ date: 2019-01-10
 cover: https://fotos.etheriamagazine.com/2019/01/Delta-del-danubio-etheria.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - europa
 authors: 

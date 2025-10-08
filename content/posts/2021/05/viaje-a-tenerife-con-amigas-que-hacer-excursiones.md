@@ -4,8 +4,6 @@ date: 2021-05-17
 cover: https://fotos.etheriamagazine.com/2021/05/tenerife-con-amigas-medano.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 

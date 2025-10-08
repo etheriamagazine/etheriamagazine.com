@@ -4,6 +4,7 @@ date: 2020-03-11
 cover: https://fotos.etheriamagazine.com/2020/03/sala-reyes-alcazar-segovia.jpg
 categories: 
   - viajar-en-familia
+  - organiza-tu-viaje
   - excursiones
 tags: 
   - españa
@@ -11,10 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-**El Alcázar de Segovia se encuentra entre los castillos y palacios más bonitos de 
-España. Con su imagen de cuento de hadas seduce desde la primera mirada, pero ¿cómo es 
-el interior del Alcázar? Te damos todos los detalles de sus salas, precios de entradas y 
-horarios gratuitos para que vayas bien informado.** 
+El Alcázar de Segovia se encuentra entre los castillos y palacios más bonitos de España. 
+Con su imagen de cuento de hadas seduce desde la primera mirada, pero ¿cómo es el 
+interior del Alcázar? Te damos todos los detalles de sus salas, precios de entradas y 
+horarios gratuitos para que vayas bien informado. 
 
 ![Sala de Reyes del Alcázar de Segovia.](https://fotos.etheriamagazine.com/2020/03/sala-reyes-alcazar-segovia.jpg "Sala de Reyes del Alcázar de Segovia. © Etheria Magazine")
 
@@ -213,6 +214,7 @@ torre).
 #### Horario del Alcázar de Segovia
 
 - De verano (1 abril-31 octubre): 10 a 20 horas.
+
 - De invierno (1 noviembre a 31 de marzo): 10 a 18 horas.
 
 #### Visitas guiadas

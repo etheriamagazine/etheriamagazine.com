@@ -3,6 +3,7 @@ title: "Un paseo por las grandes mansiones de la Belle Époque de Getxo"
 date: 2023-11-02
 cover: https://fotos.etheriamagazine.com/2023/11/getxo-palacio-lezama-leguizamon.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - españa

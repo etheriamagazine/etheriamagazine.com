@@ -3,6 +3,7 @@ title: "Guía para descubrir la Patagonia navegando hacia el Estrecho de Magalla
 date: 2020-03-17
 cover: https://fotos.etheriamagazine.com/2020/03/viaje-patagonia-chilena-ventus-australis.jpg
 categories: 
+  - organiza-tu-viaje
   - guias-de-destino
 tags: 
   - mundo

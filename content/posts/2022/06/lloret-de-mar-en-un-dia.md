@@ -4,6 +4,8 @@ date: 2022-06-20
 cover: https://fotos.etheriamagazine.com/2022/06/Playa-Sa-Boadella-lloret.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

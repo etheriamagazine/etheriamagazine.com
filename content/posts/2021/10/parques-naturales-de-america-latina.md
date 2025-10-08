@@ -4,7 +4,8 @@ date: 2021-10-21
 cover: https://fotos.etheriamagazine.com/2021/10/paisajes-america-latina-Salar-Uyuni.jpg
 categories: 
   - viajar-en-familia
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - mundo

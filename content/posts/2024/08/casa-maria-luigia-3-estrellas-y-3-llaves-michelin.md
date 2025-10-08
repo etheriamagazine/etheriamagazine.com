@@ -3,7 +3,8 @@ title: "Con 3 estrellas y 3 llaves Michelin, Casa Maria Luigia puede ser la expe
 date: 2024-08-05
 cover: https://fotos.etheriamagazine.com/2024/08/Casa-Maria-Luigia.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - gourmet
 tags: 
   - europa

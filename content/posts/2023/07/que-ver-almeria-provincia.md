@@ -4,8 +4,6 @@ date: 2023-07-17
 cover: https://fotos.etheriamagazine.com/2023/06/Almeria-sierra-maria-velez-mirador.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 

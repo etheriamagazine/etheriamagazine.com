@@ -3,6 +3,7 @@ title: "Cozumel, Holbox e Isla Mujeres, tres islas de Yucatán donde querrás qu
 date: 2021-08-01
 cover: https://fotos.etheriamagazine.com/2018/12/mujeres-viajeras-islas-yucatan.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - mundo

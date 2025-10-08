@@ -4,6 +4,7 @@ date: 2019-03-05
 cover: https://fotos.etheriamagazine.com/2019/02/ciragan-palace-kempinski-istanbul-exterior.jpg
 categories: 
   - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

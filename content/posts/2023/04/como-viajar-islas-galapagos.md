@@ -4,7 +4,8 @@ date: 2023-04-09
 cover: https://fotos.etheriamagazine.com/2023/04/sania-galapagos-tortuga.jpg
 categories: 
   - viajar-sola
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
 tags: 
   - mundo
 authors: 

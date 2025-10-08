@@ -3,6 +3,7 @@ title: "Maria de Lurdes Vale, tejiendo redes desde Turismo de Portugal"
 date: 2024-03-11
 cover: https://fotos.etheriamagazine.com/2024/03/maria-lurdes-barca-azores.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Redacción Etheria

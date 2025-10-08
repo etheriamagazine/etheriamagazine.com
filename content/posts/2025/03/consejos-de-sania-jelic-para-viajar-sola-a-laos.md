@@ -4,6 +4,7 @@ date: 2025-03-06
 cover: https://fotos.etheriamagazine.com/2025/02/sania-laos-mirador.jpg
 categories: 
   - viajar-sola
+  - entre-mujeres
   - mujeres-top
 tags: 
   - mundo

@@ -3,7 +3,8 @@ title: "Cómo y por qué organizar una visita a Abu Simbel"
 date: 2023-06-30
 cover: https://fotos.etheriamagazine.com/2023/06/egipto-abu-simbel-estatuas.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - mundo

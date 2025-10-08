@@ -4,6 +4,7 @@ date: 2021-08-18
 cover: https://fotos.etheriamagazine.com/2021/08/cueva-pozalagua-valle-karrantza.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

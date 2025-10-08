@@ -3,6 +3,8 @@ title: "Anantara Iko Mauritius Resort & Villas, un hotel de lujo en isla Maurici
 date: 2020-12-15
 cover: https://fotos.etheriamagazine.com/2020/12/Anantara-mauricio-playa.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - mundo
@@ -10,12 +12,12 @@ authors:
   - Redacción Etheria
 ---
 
-**La idea de pasar unos días en una playa de arena blanca, clima tropical y un hotel de 
+La idea de pasar unos días en una playa de arena blanca, clima tropical y un hotel de 
 lujo no puede ser más apetecible en este momento. Y si ese lugar toma forma en isla 
 Mauricio, con el nombre de Anantara Iko Mauritius Resort & Villas, es probable que sea 
 una de las mejores imágenes que podamos retener en nuestra mente. No renuncies a pensar 
 en los viajes que te esperan y date el capricho de disfrutar en 2021 de un hotel tan 
-exclusivo como éste.** 
+exclusivo como éste. 
 
 ![cenas románticas en isla Mauricio](https://fotos.etheriamagazine.com/2020/12/Anantara-Mauricio-Dining-By-Design.jpg "Cena para dos sobre la arena de la playa.")
 

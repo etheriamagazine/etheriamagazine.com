@@ -3,6 +3,7 @@ title: "Duerme de lujo en Xuq Lomas de Ruvira, un hotel-cueva de La Manchuela"
 date: 2020-01-08
 cover: https://fotos.etheriamagazine.com/2020/01/Rusticae-xuq-ruvira-rincon.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa
@@ -10,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**En Etheria Magazine nos encantan los alojamientos diferentes que son capaces de 
-ofrecer propuestas originales dentro de la extensa oferta que hay en España. De la mano 
-de Rusticae nos sumergimos en el ambiente ‘slow’ de este complejo rural situado en unas 
-cuevas de la comarca de La Manchuela, entre Albacete y Cuenca.** 
+En Etheria Magazine nos encantan los alojamientos diferentes que son capaces de ofrecer 
+propuestas originales dentro de la extensa oferta que hay en España. De la mano de 
+Rusticae nos sumergimos en el ambiente ‘slow’ de este complejo rural situado en unas 
+cuevas de la comarca de La Manchuela, entre Albacete y Cuenca. 
 
 ![Suite en Xuq Lomas de Ruvira](https://fotos.etheriamagazine.com/2020/01/rusticae-xuq-ruvira-ogof.jpg "Salón de la suite Ogof.")
 

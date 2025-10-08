@@ -4,7 +4,8 @@ date: 2024-08-19
 cover: https://fotos.etheriamagazine.com/2022/09/segundas-ciudades-europa-venecia-gondola-gran-canal.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - europa
 authors: 

@@ -3,6 +3,7 @@ title: "Una escapada romántica al hotel Faro Punta Cumplida en La Palma"
 date: 2019-06-03
 cover: https://fotos.etheriamagazine.com/2019/05/Rusticae-faro-punta-cumplida.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

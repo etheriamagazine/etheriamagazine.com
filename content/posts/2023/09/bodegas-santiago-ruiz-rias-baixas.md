@@ -3,6 +3,7 @@ title: "Bodegas Santiago Ruiz, el alma de las Rías Baixas se bebe en copas"
 date: 2023-09-11
 cover: https://fotos.etheriamagazine.com/2023/09/rosa-ruiz-bodeguera.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 tags: 
   - españa

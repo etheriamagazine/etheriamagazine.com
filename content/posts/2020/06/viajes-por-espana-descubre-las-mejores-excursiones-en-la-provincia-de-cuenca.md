@@ -3,6 +3,7 @@ title: "13 excursiones en la provincia de Cuenca para descubrir sus tesoros"
 date: 2020-06-04
 cover: https://fotos.etheriamagazine.com/2020/05/cuenca-excursion-caras-buendia.jpg
 categories: 
+  - organiza-tu-viaje
   - guias-de-destino
 tags: 
   - españa

@@ -4,6 +4,7 @@ date: 2018-12-20
 cover: https://fotos.etheriamagazine.com/2018/12/Dinoparque-lourinha-viajes-familias-5-e1561371638676.jpg
 categories: 
   - viajar-en-familia
+  - estilo-de-vida
   - ocio
 tags: 
   - europa

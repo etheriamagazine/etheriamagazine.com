@@ -3,7 +3,8 @@ title: "'Coco', una película que nos acerca a México y sus tradiciones"
 date: 2018-05-28
 cover: https://fotos.etheriamagazine.com/2018/05/5-1.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - cultura
 authors: 
   - Eva Madruga
 ---

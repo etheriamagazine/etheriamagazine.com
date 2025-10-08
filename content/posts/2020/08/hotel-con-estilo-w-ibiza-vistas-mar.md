@@ -3,6 +3,7 @@ title: "Vive la vanguardia ibicenca en el hotel W Ibiza"
 date: 2020-08-20
 cover: https://fotos.etheriamagazine.com/2020/08/W-Ibiza-wet-deck.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

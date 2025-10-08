@@ -3,6 +3,7 @@ title: "Hotel NH Collection New York Madison Avenue, una opción imbatible para 
 date: 2024-01-22
 cover: https://fotos.etheriamagazine.com/2024/01/NH-Collection-New-York-Madison-Vistas.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - mundo

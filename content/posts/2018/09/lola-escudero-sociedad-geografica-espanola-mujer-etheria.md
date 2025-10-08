@@ -3,6 +3,7 @@ title: "Lola Escudero: \"Si no miro un mapa es como si no supiera donde estoy\""
 date: 2018-09-03
 cover: https://fotos.etheriamagazine.com/2018/08/lola-escudero-mujer-etheria-aleppo-libano.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Eva Madruga

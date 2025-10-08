@@ -3,6 +3,7 @@ title: "Pueblos sin conexión: 5 lugares donde huir de los compromisos"
 date: 2018-12-18
 cover: https://fotos.etheriamagazine.com/2018/12/Viu-de-linas-etheria-magazine.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - mundo

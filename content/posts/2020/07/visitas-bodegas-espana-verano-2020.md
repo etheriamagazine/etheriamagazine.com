@@ -4,7 +4,8 @@ date: 2020-07-08
 cover: https://fotos.etheriamagazine.com/2020/07/bodegas-franco-espanolas-cata.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - españa

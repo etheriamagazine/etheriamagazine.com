@@ -3,6 +3,7 @@ title: "Hotel Albons, un remanso de paz en el Baix Empordà"
 date: 2020-06-01
 cover: https://fotos.etheriamagazine.com/2020/05/Hotel-Albons-recepcion.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

@@ -3,9 +3,10 @@ title: "10 restaurantes (en hoteles) con estrella Michelin donde comer desde 45 
 date: 2019-09-20
 cover: https://fotos.etheriamagazine.com/2019/09/hoteles-restaurantes-estrella-michelin-cookbook.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
   - hoteles
-  - inspiración
+  - inspiracion
   - ocio
 authors: 
   - Vanesa Viñolo

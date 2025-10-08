@@ -4,6 +4,7 @@ date: 2024-12-13
 cover: https://fotos.etheriamagazine.com/2024/12/seul-sania-palacio-pabellon-Gyeongbokgung.jpg
 categories: 
   - viajar-sola
+  - entre-mujeres
   - mujeres-top
 tags: 
   - mundo

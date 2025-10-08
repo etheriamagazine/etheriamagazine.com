@@ -3,7 +3,8 @@ title: "9 motivos para viajar a Noruega"
 date: 2020-07-15
 cover: https://fotos.etheriamagazine.com/2018/11/Mirador-Ulsikten-Noruega-Etheria-3-e1640169355273.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - europa

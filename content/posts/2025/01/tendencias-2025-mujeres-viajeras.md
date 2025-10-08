@@ -3,8 +3,10 @@ title: "Tendencias imprescindibles en 2025 para mujeres viajeras"
 date: 2025-01-14
 cover: https://fotos.etheriamagazine.com/2025/01/tendencias-2025-mujeres-viajes.jpg
 categories: 
-  - historias
-  - inspiración
+  - entre-mujeres
+  - historias-en-femenino
+  - estilo-de-vida
+  - inspiracion
   - mujeres-top
   - ocio
 authors: 

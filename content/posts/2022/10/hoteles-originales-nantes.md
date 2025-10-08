@@ -3,6 +3,7 @@ title: "Hoteles originales en Nantes, duerme dentro de una obra de arte"
 date: 2022-10-17
 cover: https://fotos.etheriamagazine.com/2022/10/Mercure-Nantes-Centre-Grand-Hotel.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

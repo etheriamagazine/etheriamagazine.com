@@ -3,6 +3,7 @@ title: "A rapa das bestas, la gran fiesta de los caballos de Sabucedo (Pontevedr
 date: 2019-06-24
 cover: https://fotos.etheriamagazine.com/2019/06/Rapa-das-Bestas-galicia.jpg
 categories: 
+  - organiza-tu-viaje
   - excursiones
 authors: 
   - Juan Carlos y Mar

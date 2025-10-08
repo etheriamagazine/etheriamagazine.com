@@ -3,6 +3,7 @@ title: "Si quieres un novio, pídeselo a San Antonio el 13 de junio"
 date: 2021-06-11
 cover: https://fotos.etheriamagazine.com/2021/06/verbena-de-san-antonio-madrid.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 authors: 
   - Carmen Pineda

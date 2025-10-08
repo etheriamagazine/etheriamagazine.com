@@ -3,6 +3,7 @@ title: "Hotel boutique The Reserve, exclusividad al borde del Atlántico en Made
 date: 2023-10-28
 cover: https://fotos.etheriamagazine.com/2023/10/the-reserve-Jacaranda-Lounge.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

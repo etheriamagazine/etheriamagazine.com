@@ -3,6 +3,7 @@ title: "Intrépidas, un libro sobre 25 exploradoras"
 date: 2018-05-03
 cover: https://fotos.etheriamagazine.com/2018/05/Libro-Intrepidas-1.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 authors: 
   - Pilar Ortega

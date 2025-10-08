@@ -3,6 +3,7 @@ title: "Paradas en una ruta en coche por la Axarquía malagueña"
 date: 2024-07-11
 cover: https://fotos.etheriamagazine.com/2020/06/viajar-sola-axarquia-competa.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - españa

@@ -3,7 +3,8 @@ title: "8 ideas para un viaje durante los puentes de otoño por España"
 date: 2021-09-20
 cover: https://fotos.etheriamagazine.com/2021/09/puente-otono-castillo-valdeolea.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - españa

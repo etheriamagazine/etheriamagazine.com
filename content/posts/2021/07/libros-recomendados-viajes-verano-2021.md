@@ -3,6 +3,7 @@ title: "Los libros son para el verano, novedades viajeras y didácticas"
 date: 2021-07-23
 cover: https://fotos.etheriamagazine.com/2021/07/libros-verano-2021.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

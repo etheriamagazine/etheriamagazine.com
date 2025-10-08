@@ -4,6 +4,7 @@ date: 2020-09-15
 cover: https://fotos.etheriamagazine.com/2020/09/Sierra-rincon-mirador.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

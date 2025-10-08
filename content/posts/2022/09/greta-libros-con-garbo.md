@@ -3,7 +3,8 @@ title: "Greta Libros con Garbo: suscripción y club de lectura para mujeres"
 date: 2022-09-10
 cover: https://fotos.etheriamagazine.com/2022/09/patri-osuna-libros-mujeres.jpg
 categories: 
-  - proyectos
+  - entre-mujeres
+  - proyectos-con-alma
 authors: 
   - Redacción Etheria
 ---

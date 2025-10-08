@@ -3,6 +3,7 @@ title: "10 libros para regalar y quedar fenomenal"
 date: 2022-01-05
 cover: https://fotos.etheriamagazine.com/2022/01/portada-libros-2022.jpg
 categories: 
+  - estilo-de-vida
   - compras
   - cultura
   - ocio

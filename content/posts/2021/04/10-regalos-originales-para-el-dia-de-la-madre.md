@@ -3,6 +3,7 @@ title: "10 regalos originales para el Día de la Madre"
 date: 2021-04-23
 cover: https://fotos.etheriamagazine.com/2021/04/Tartaleta-rosa.jpg
 categories: 
+  - estilo-de-vida
   - compras
 authors: 
   - Redacción Etheria

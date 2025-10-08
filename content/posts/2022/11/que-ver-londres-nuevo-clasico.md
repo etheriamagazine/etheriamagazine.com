@@ -3,7 +3,8 @@ title: "15 visitas que no debes perderte en tu próximo viaje a Londres"
 date: 2022-11-10
 cover: https://fotos.etheriamagazine.com/2022/11/puente-milenio-londres.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - europa
 authors: 

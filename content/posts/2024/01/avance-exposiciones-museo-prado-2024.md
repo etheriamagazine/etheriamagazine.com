@@ -3,6 +3,7 @@ title: "Cuáles serán las exposiciones del Museo del Prado en 2024"
 date: 2024-01-07
 cover: https://fotos.etheriamagazine.com/2024/01/museo-prado-2024.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

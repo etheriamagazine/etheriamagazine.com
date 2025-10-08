@@ -3,6 +3,7 @@ title: "Pez Fuego, el poder de la brasa"
 date: 2019-03-23
 cover: https://fotos.etheriamagazine.com/2019/03/restaurante-pez-fuego-pulpo-brasa.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 tags: 
   - ""

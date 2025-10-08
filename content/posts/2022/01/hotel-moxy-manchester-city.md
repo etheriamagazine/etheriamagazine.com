@@ -3,6 +3,7 @@ title: "Hotel Moxy Manchester City, una propuesta de lo más divertida en el cen
 date: 2022-01-21
 cover: https://fotos.etheriamagazine.com/2022/01/hotel-moxy-manchester-zona-juegos.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

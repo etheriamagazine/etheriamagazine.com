@@ -3,6 +3,7 @@ title: "Compras en Londres, sus tiendas y barrios más auténticos"
 date: 2020-05-06
 cover: https://fotos.etheriamagazine.com/2020/04/viaje-londres-Connaught-Saint-Ayme.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - europa

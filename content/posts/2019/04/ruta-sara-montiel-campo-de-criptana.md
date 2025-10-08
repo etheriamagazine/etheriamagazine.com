@@ -4,7 +4,8 @@ date: 2019-04-08
 cover: https://fotos.etheriamagazine.com/2019/04/Sara-montiel-campo-criptana.jpg
 categories: 
   - viajar-con-amigas
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
 tags: 
   - españa
 authors: 

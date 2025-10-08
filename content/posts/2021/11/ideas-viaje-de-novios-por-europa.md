@@ -4,8 +4,6 @@ date: 2021-11-19
 cover: https://fotos.etheriamagazine.com/2021/11/everton-vila-AsahNlC0VhQ-unsplash.jpg
 categories: 
   - viajar-en-pareja
-  - inspiración
-  - ocio
 tags: 
   - europa
 authors: 

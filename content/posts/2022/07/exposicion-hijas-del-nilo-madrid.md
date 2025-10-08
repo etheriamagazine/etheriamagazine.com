@@ -3,6 +3,7 @@ title: "'Hijas del Nilo', una cita con las mujeres del antiguo Egipto en Madrid"
 date: 2022-07-04
 cover: https://fotos.etheriamagazine.com/2022/06/Hijas_del_Nilo-sala-iluminada.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

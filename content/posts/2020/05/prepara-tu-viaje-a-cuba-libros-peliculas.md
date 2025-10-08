@@ -3,7 +3,9 @@ title: "Prepara tu viaje a Cuba: libros y películas recomendados"
 date: 2020-05-08
 cover: https://fotos.etheriamagazine.com/2020/04/cuba-trompetista.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
+  - organiza-tu-viaje
   - que-llevar-en-la-maleta
 tags: 
   - mundo

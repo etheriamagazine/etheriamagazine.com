@@ -4,6 +4,7 @@ date: 2022-06-01
 cover: https://fotos.etheriamagazine.com/2022/05/Mas-de-la-pansa-enologa.jpg
 categories: 
   - viajar-con-amigas
+  - estilo-de-vida
   - gourmet
 tags: 
   - españa

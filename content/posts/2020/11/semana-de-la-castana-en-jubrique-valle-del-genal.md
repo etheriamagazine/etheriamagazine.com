@@ -3,6 +3,7 @@ title: "Semana de la Castaña en Jubrique, sabores y paseos otoñales"
 date: 2020-11-07
 cover: https://fotos.etheriamagazine.com/2020/11/Jubrique-malaga.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 authors: 
   - Redacción Etheria

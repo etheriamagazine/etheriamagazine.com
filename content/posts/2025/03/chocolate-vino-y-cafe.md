@@ -3,6 +3,7 @@ title: "Chocolate, vino y café: un trío perfecto para una tarde de relax"
 date: 2025-03-04
 cover: https://fotos.etheriamagazine.com/2025/02/chocolate-kaitxo-2.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 authors: 
   - Redacción Etheria

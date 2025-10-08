@@ -4,7 +4,6 @@ date: 2021-09-15
 cover: https://fotos.etheriamagazine.com/2021/09/plaza-virgen-blanca-vitoria.jpg
 categories: 
   - viajar-con-amigas
-  - ocio
 tags: 
   - españa
 authors: 

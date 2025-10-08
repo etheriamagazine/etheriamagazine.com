@@ -3,7 +3,8 @@ title: "El sueño de ASEET, Cuento de Luz School, ya es una realidad"
 date: 2020-05-27
 cover: https://fotos.etheriamagazine.com/2020/05/cuento-luz-school-aseet.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 authors: 
   - Pepa G. Marín

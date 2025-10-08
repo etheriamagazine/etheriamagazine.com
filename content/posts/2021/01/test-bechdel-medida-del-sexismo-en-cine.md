@@ -3,7 +3,8 @@ title: "El test de Bechdel o cómo medir el sexismo en el Cine: la polémica est
 date: 2021-01-11
 cover: https://fotos.etheriamagazine.com/2021/01/Test-Cartel-La-Boda-de-Rosa.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - cultura
 authors: 
   - Carmen Pineda
 ---

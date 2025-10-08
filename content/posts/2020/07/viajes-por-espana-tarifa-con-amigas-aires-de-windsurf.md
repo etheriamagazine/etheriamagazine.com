@@ -3,6 +3,7 @@ title: "Por qué visitar Tarifa aunque lo tuyo no sea el surf"
 date: 2020-07-06
 cover: https://fotos.etheriamagazine.com/2020/06/tarifa-Kitesurf.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - españa

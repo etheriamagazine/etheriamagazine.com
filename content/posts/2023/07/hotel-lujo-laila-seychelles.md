@@ -3,6 +3,7 @@ title: "Laïla Seychelles, un hotel con personalidad en una isla de ensueño"
 date: 2023-07-19
 cover: https://fotos.etheriamagazine.com/2023/06/laila-Seychelles-Senior-Suite-terraza.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - mundo

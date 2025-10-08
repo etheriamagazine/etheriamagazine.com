@@ -4,7 +4,7 @@ date: 2021-09-29
 cover: https://fotos.etheriamagazine.com/2021/09/seleccion-pistilos.jpg
 categories: 
   - viajar-con-amigas
-  - ocio
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

@@ -4,6 +4,7 @@ date: 2019-08-23
 cover: https://fotos.etheriamagazine.com/2019/08/Gales-Tenby.jpg
 categories: 
   - viajar-con-amigas
+  - estilo-de-vida
   - ocio
 tags: 
   - europa

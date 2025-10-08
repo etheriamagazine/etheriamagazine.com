@@ -4,7 +4,6 @@ date: 2022-02-11
 cover: https://fotos.etheriamagazine.com/2022/02/puente-madrid-rio-arte-mosaico.jpg
 categories: 
   - viajar-con-amigas
-  - ocio
 tags: 
   - españa
 authors: 

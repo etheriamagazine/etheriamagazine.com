@@ -4,7 +4,8 @@ date: 2018-10-02
 cover: https://fotos.etheriamagazine.com/2018/09/Cerveza-te-quiero.jpg
 categories: 
   - viajar-con-amigas
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
 tags: 
   - europa
 authors: 

@@ -4,8 +4,6 @@ date: 2020-01-09
 cover: https://fotos.etheriamagazine.com/2019/12/londres-tate-modern.jpg
 categories: 
   - viajar-en-pareja
-  - inspiración
-  - ocio
 tags: 
   - europa
 authors: 

@@ -3,6 +3,7 @@ title: "Festival Lavanda Night, el sue√±o de una noche de verano del hotel Los √
 date: 2019-07-09
 cover: https://fotos.etheriamagazine.com/2019/07/hotel-los-anades-festival-jazz-alcain-the-silvers.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
   - hoteles
 authors: 

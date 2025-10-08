@@ -3,7 +3,7 @@ title: "En el temazcal, una experiencia \"mágica\" en Riviera Maya"
 date: 2023-07-10
 cover: https://fotos.etheriamagazine.com/2023/07/cenote-mexico-acuarela.jpg
 categories: 
-  - historias
+  - articulos-por-categorizar
 tags: 
   - mundo
 authors: 

@@ -4,6 +4,7 @@ date: 2023-04-25
 cover: https://fotos.etheriamagazine.com/2023/04/biblioteca-antigua-trinity-college-dublin.jpg
 categories: 
   - viajar-con-amigas
+  - estilo-de-vida
   - cultura
 tags: 
   - europa

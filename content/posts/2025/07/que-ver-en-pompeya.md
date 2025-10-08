@@ -3,6 +3,7 @@ title: "Qué ver en Pompeya, la ciudad detenida hace dos mil años"
 date: 2025-07-29
 cover: https://fotos.etheriamagazine.com/2025/07/pompeya-foro-vesubio.jpg
 categories: 
+  - organiza-tu-viaje
   - excursiones
 tags: 
   - europa

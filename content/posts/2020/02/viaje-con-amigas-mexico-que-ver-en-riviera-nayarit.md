@@ -4,7 +4,8 @@ date: 2020-02-21
 cover: https://fotos.etheriamagazine.com/2020/02/riviera-nayarit.jpg
 categories: 
   - viajar-en-familia
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - mundo

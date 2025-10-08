@@ -3,6 +3,7 @@ title: "Lisboa en verano: 9 propuestas para disfrutar de la música, el teatro y
 date: 2022-07-01
 cover: https://fotos.etheriamagazine.com/2022/06/Lisboa-opera-baile-mascaras.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 tags: 
   - europa

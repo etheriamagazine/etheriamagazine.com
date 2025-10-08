@@ -3,6 +3,7 @@ title: "10 planes para disfrutar esta Navidad en Madrid"
 date: 2020-12-07
 cover: https://fotos.etheriamagazine.com/2020/12/Madrid-navidad-gran-via-autobus.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

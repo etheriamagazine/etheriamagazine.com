@@ -3,6 +3,7 @@ title: "El Camino de Santiago Francés de Galicia: 15 pueblos y mil paisajes"
 date: 2024-10-18
 cover: https://fotos.etheriamagazine.com/2024/10/peregrino-pedrafita.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

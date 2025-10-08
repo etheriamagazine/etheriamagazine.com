@@ -3,6 +3,7 @@ title: "Guía y anécdotas de Angkor que muchos no se atreven a contar"
 date: 2019-01-17
 cover: https://fotos.etheriamagazine.com/2019/01/viaje-camboya-mujeres-Apsaras-de-Banteay-Srei-e1673862978728.jpg
 categories: 
+  - organiza-tu-viaje
   - guias-de-destino
 tags: 
   - mundo

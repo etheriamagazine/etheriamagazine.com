@@ -3,6 +3,7 @@ title: "Calendarios de Adviento irresistibles para darte un capricho"
 date: 2020-11-20
 cover: https://fotos.etheriamagazine.com/2020/11/calendario-adviento-cajas.jpg
 categories: 
+  - estilo-de-vida
   - compras
 authors: 
   - Redacción Etheria

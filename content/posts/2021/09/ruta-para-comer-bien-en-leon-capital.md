@@ -4,6 +4,8 @@ date: 2021-09-09
 cover: https://fotos.etheriamagazine.com/2021/06/leon-hotel-camarote.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
+  - estilo-de-vida
   - gourmet
 tags: 
   - españa

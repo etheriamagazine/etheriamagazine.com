@@ -3,6 +3,7 @@ title: "La Biodanza, un estallido de emociones placenteras"
 date: 2020-12-02
 cover: https://fotos.etheriamagazine.com/2020/11/baile-superar-la-introversion.jpg
 categories: 
+  - estilo-de-vida
   - bienestar
 authors: 
   - Maria Miret

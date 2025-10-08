@@ -4,7 +4,6 @@ date: 2020-04-07
 cover: https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-piscina-infinita.jpg
 categories: 
   - viajar-en-pareja
-  - hoteles
 tags: 
   - mundo
 authors: 

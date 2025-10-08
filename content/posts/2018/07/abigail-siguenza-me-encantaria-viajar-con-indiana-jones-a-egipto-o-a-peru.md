@@ -3,6 +3,7 @@ title: "Abigail Sigüenza: \"Me encantaría viajar con Indiana Jones a Egipto o 
 date: 2018-07-17
 cover: https://fotos.etheriamagazine.com/2018/07/Abigail-Siguenza-mujer-etheria-murales.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 tags: 
   - mundo

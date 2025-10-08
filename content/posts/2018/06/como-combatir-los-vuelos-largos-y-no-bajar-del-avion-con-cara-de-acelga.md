@@ -3,6 +3,7 @@ title: "Cómo combatir los vuelos largos y no bajar del avión con cara de acelg
 date: 2018-06-13
 cover: https://fotos.etheriamagazine.com/2018/06/neceser-avion-ala.jpg
 categories: 
+  - organiza-tu-viaje
   - que-llevar-en-la-maleta
 authors: 
   - Susana García

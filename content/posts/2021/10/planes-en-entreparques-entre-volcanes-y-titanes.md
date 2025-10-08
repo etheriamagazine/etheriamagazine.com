@@ -4,6 +4,7 @@ date: 2021-10-14
 cover: https://fotos.etheriamagazine.com/2021/10/ruta-todoterreno-parque-cabaneros.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

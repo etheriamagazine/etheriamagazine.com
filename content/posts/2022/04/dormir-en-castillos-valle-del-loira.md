@@ -3,6 +3,7 @@ title: "Dormir en un castillo en el valle del Loira: 4 propuestas imbatibles"
 date: 2022-04-15
 cover: https://fotos.etheriamagazine.com/2022/04/castillo-grand-luce-suite.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 tags: 
   - europa

@@ -3,6 +3,7 @@ title: "The Yeatman, el exclusivo hotel del vino que mira de frente a Oporto"
 date: 2022-05-12
 cover: https://fotos.etheriamagazine.com/2022/05/vistas-hotel-the-yeatman.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

@@ -4,7 +4,8 @@ date: 2020-01-30
 cover: https://fotos.etheriamagazine.com/2019/05/viajar-sola-salar-uyuni.jpg
 categories: 
   - viajar-sola
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - mundo
 authors: 

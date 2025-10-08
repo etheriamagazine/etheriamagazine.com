@@ -3,6 +3,7 @@ title: "Libros y guías de viajes para llevar en la maleta"
 date: 2023-08-13
 cover: https://fotos.etheriamagazine.com/2023/08/guias-viaje-playa.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

@@ -3,7 +3,8 @@ title: "Ruta por la España de las grandes escritoras del siglo XX (Parte I)"
 date: 2020-06-15
 cover: https://fotos.etheriamagazine.com/2020/06/sinsombrero.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 tags: 
   - españa

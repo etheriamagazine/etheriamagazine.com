@@ -3,6 +3,7 @@ title: "Rosa María Calaf nos descubre sus secretos viajeros"
 date: 2018-09-17
 cover: https://fotos.etheriamagazine.com/2018/09/Rosa-Maria-calaf-Mongolia.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Eva Madruga

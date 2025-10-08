@@ -3,6 +3,7 @@ title: "Manena Munar: \"Se me dispara la adrenalina cuando visito un lugar por p
 date: 2020-05-05
 cover: https://fotos.etheriamagazine.com/2020/04/manena-munar-etheria-magazine-4.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Pepa G. Marín

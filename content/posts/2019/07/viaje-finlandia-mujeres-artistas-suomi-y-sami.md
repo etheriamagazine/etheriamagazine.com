@@ -3,7 +3,8 @@ title: "Mujeres artistas Suomi y Sami en Finlandia"
 date: 2019-07-01
 cover: https://fotos.etheriamagazine.com/2019/06/Mujeres-Finlandia-suomi-sami.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 tags: 
   - europa

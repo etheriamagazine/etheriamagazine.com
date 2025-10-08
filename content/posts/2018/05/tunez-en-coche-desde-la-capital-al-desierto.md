@@ -3,6 +3,7 @@ title: "Cómo organizar una ruta en coche a Túnez con amigas"
 date: 2018-05-14
 cover: https://fotos.etheriamagazine.com/2018/05/Sidi-Bou-Said-Tunez-e1552387102944.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - mundo

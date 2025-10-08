@@ -3,8 +3,9 @@ title: "Tanit Congress & Awards 2024, un tributo al liderazgo femenino"
 date: 2024-10-30
 cover: https://fotos.etheriamagazine.com/2024/10/Premios-Tanit-2024.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
-  - proyectos
+  - proyectos-con-alma
 authors: 
   - Redacción Etheria
 ---

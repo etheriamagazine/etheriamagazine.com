@@ -3,6 +3,7 @@ title: "Liliane Bodalo, responsable de prensa de Atout France"
 date: 2018-05-03
 cover: https://fotos.etheriamagazine.com/2018/05/Liliane-Bodalo-Mujer-Etheria-2.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Pepa G. Marín

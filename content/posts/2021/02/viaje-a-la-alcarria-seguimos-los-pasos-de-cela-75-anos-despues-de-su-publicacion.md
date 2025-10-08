@@ -3,6 +3,7 @@ title: "Un 'Viaje a la Alcarria' siguiendo los pasos de Cela"
 date: 2021-02-01
 cover: https://fotos.etheriamagazine.com/2021/01/viaje-alcarria-cela-Brihuega.jpg
 categories: 
+  - organiza-tu-viaje
   - excursiones
 tags: 
   - españa

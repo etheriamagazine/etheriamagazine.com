@@ -3,6 +3,7 @@ title: "Exposición de joyas en forma de libro en el Museo Lázaro Galdiano"
 date: 2025-06-04
 cover: https://fotos.etheriamagazine.com/2025/06/exposicion-lazaro-galdiano-miniatura.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

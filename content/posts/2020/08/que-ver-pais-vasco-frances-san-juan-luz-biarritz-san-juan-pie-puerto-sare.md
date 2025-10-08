@@ -3,6 +3,7 @@ title: "País Vasco Francés, una ruta llena de elegancia y sabor"
 date: 2020-08-24
 cover: https://fotos.etheriamagazine.com/2020/08/san-juan-luz-francia.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - europa

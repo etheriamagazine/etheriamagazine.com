@@ -3,7 +3,9 @@ title: "Una maleta para viajar a la India"
 date: 2018-10-19
 cover: https://fotos.etheriamagazine.com/2018/10/maleta-viaje-india.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
+  - organiza-tu-viaje
   - que-llevar-en-la-maleta
 tags: 
   - mundo

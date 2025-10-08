@@ -3,14 +3,18 @@ title: "10 hoteles de lujo para una escapada romántica"
 date: 2021-01-21
 cover: https://fotos.etheriamagazine.com/2021/01/hoteles-lujo-Royal-hideaway-playacar.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
-  - inspiración
-  - ocio
 authors: 
   - Redacción Etheria
 ---
 
-Se acerca San Valentín y en este año raro es muy probable que no puedas hacer esa escapada que tenías en mente. En Etheria Magazine te proponemos que celebres esta fecha cuando tú quieras y planees para 2021 una escapada romántica con tu pareja a uno de estos 10 hoteles de lujo. Los hay cercanos y también muy remotos, pero todos son perfectos para disfrutar de unos días en un entorno maravilloso.
+Se acerca San Valentín y en este año raro es muy probable que no puedas hacer esa 
+escapada que tenías en mente. En Etheria Magazine te proponemos que celebres esta fecha 
+cuando tú quieras y planees una escapada romántica con tu pareja a uno de estos 10 
+hoteles de lujo. Los hay cercanos y también muy remotos, pero todos son perfectos para 
+disfrutar de unos días en un entorno maravilloso. 
 
 ![hoteles de lujo en isla mauricio](https://fotos.etheriamagazine.com/2021/01/Hoteles-lujo-Anantara-Mauricio.jpg "Romántica cena en la playa en el © Anantara Iko Mauritius.")
 

@@ -3,6 +3,7 @@ title: "Princesa Yaiza, un hotel de lujo en Lanzarote perfecto para viajar en fa
 date: 2023-08-04
 cover: https://fotos.etheriamagazine.com/2023/07/hotel-princesa-yaiza-playa-blanca.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

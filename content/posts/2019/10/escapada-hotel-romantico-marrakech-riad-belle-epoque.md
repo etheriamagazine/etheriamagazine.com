@@ -4,7 +4,6 @@ date: 2019-10-15
 cover: https://fotos.etheriamagazine.com/2019/10/Riad-De-La-Belle-Epoque-Coco-Chanel.jpg
 categories: 
   - viajar-en-pareja
-  - hoteles
 tags: 
   - mundo
 authors: 

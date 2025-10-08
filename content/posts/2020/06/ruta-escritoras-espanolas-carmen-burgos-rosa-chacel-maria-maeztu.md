@@ -3,7 +3,8 @@ title: "Ruta por la España de las grandes escritoras del siglo XX (2ª parte)"
 date: 2020-06-26
 cover: https://fotos.etheriamagazine.com/2020/06/2-cubierta-la-mujer-moderna.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
 tags: 
   - españa
 authors: 

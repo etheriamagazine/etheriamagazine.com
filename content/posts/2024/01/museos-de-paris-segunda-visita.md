@@ -3,7 +3,8 @@ title: "Seis museos de París para recorrer en tu segunda visita"
 date: 2024-01-29
 cover: https://fotos.etheriamagazine.com/2024/01/paris-museo-orangerie.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - cultura
   - ocio
 tags: 

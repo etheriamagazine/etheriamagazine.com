@@ -3,7 +3,8 @@ title: "10 experiencias alucinantes en el Lejano Oeste americano"
 date: 2019-07-18
 cover: https://fotos.etheriamagazine.com/2019/06/3-viaje-california-Artist-Palette-e1562144658794.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - mundo
 authors: 

@@ -3,6 +3,7 @@ title: "Novotel Valencia Lavant abre sus puertas con todo lo que necesitas para 
 date: 2025-04-12
 cover: https://fotos.etheriamagazine.com/2025/04/novotel-valecia-lavant-terraza.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

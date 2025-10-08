@@ -3,7 +3,8 @@ title: "Guía esencial de Úbeda para un fin de semana histórico"
 date: 2022-11-08
 cover: https://fotos.etheriamagazine.com/2022/11/ubeda-basilica-santa-maria.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - españa
 authors: 

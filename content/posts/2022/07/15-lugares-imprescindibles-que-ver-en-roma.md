@@ -4,8 +4,6 @@ date: 2022-07-11
 cover: https://fotos.etheriamagazine.com/2022/07/Roma-villa-borghese-mirador.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - europa
 authors: 

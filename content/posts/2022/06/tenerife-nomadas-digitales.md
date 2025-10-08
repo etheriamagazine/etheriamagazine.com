@@ -4,7 +4,8 @@ date: 2022-06-03
 cover: https://fotos.etheriamagazine.com/2022/05/Portada-nomada-digital-tenerife.jpg
 categories: 
   - viajar-sola
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
 tags: 
   - españa
 authors: 

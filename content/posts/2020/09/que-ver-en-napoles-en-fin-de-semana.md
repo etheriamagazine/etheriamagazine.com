@@ -3,6 +3,7 @@ title: "Caótica Nápoles: 48 horas en la ciudad más canalla de Italia"
 date: 2020-09-04
 cover: https://fotos.etheriamagazine.com/2020/08/Golfo-di-Napoli-Campania.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - europa

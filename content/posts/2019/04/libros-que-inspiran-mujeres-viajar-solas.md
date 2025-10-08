@@ -3,6 +3,7 @@ title: "Regálame un libro"
 date: 2019-04-23
 cover: https://fotos.etheriamagazine.com/2019/04/libros-mujeres-etheria.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 authors: 
   - Redacción Etheria

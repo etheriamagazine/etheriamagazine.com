@@ -4,7 +4,6 @@ date: 2021-03-24
 cover: https://fotos.etheriamagazine.com/2021/03/fuerteventura-Playa-Los-Charcos.jpg
 categories: 
   - viajar-con-amigas
-  - ocio
 tags: 
   - españa
 authors: 

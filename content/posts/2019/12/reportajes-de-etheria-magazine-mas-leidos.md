@@ -3,7 +3,8 @@ title: "Los 10 reportajes de Etheria Magazine más leídos en 2019"
 date: 2019-12-31
 cover: https://fotos.etheriamagazine.com/2018/09/Florencia-pixabay.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 authors: 
   - Redacción Etheria

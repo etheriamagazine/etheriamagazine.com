@@ -3,8 +3,8 @@ title: "7 planes esenciales en Lanzarote con amigas"
 date: 2020-06-11
 cover: https://fotos.etheriamagazine.com/2020/06/lanzarote-playas-papagayo.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
-  - ocio
 tags: 
   - españa
 authors: 

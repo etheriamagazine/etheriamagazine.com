@@ -3,6 +3,7 @@ title: "Zambúllete en la mejor guía de playas de Formentera"
 date: 2020-04-15
 cover: https://fotos.etheriamagazine.com/2020/04/playa-ses-illetes-formentera.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - españa

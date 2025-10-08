@@ -3,6 +3,7 @@ title: "Exposiciones esenciales en Madrid para poner el broche de oro a 2023"
 date: 2023-09-28
 cover: https://fotos.etheriamagazine.com/2023/09/exposicion-matadero-ultimos-dias-pompeya.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 tags: 

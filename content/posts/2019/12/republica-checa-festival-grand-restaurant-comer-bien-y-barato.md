@@ -4,6 +4,7 @@ date: 2019-12-13
 cover: https://fotos.etheriamagazine.com/2019/12/Tusculum-Karlovy-Vary.jpg
 categories: 
   - viajar-con-amigas
+  - estilo-de-vida
   - ocio
   - gourmet
 tags: 

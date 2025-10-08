@@ -3,6 +3,7 @@ title: "El Prado en femenino, un nuevo itinerario que no puedes perderte"
 date: 2022-12-29
 cover: https://fotos.etheriamagazine.com/2022/12/isabel-clara-eugenia.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 tags: 
   - españa

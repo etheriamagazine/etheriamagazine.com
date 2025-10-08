@@ -1,11 +1,11 @@
 ---
-title: "7 hoteles de lujo para vivir 7 ciudades históricas"
+title: "Hoteles de lujo para vivir 7 ciudades históricas"
 date: 2021-07-09
 cover: https://fotos.etheriamagazine.com/2021/07/ciragan-palace-kempinski-istanbul-exterior.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
-  - inspiración
-  - ocio
 tags: 
   - mundo
 authors: 
@@ -89,11 +89,13 @@ el {{< reflink path=posts/2021/03/hotel-mandarin-oriental-milan-lujo-cinco-estre
 >}}. Está ubicado en un lugar inmejorable, entre las Galerias Vittorio Emanuele II, el 
 famoso barrio llamado el Quadrilatero della Moda y el bohemio barrio di Brera. Y, a 
 pesar de estar en pleno centro, su ubicación en una calle casi escondida no puede ser 
-más tranquila. Sus habitaciones saben combinar todo el estilo y clase de la marca 
-Mandarin Oriental con la funcionalidad y comodidad necesarias en un hotel de ciudad. 
-Nuestros lugares favoritos del hotel son las terrazas de sus Suites (si puedes date el 
-capricho de alojarte en una); y la preciosa barra del Mandarin Bar & Bistro, perfecta 
-para tomar un cóctel después de una jornada de arte y compras por la ciudad. 
+más tranquila. 
+
+Sus habitaciones saben combinar todo el estilo y clase de la marca Mandarin Oriental con 
+la funcionalidad y comodidad necesarias en un hotel de ciudad. Nuestros lugares 
+favoritos del hotel son las terrazas de sus Suites (si puedes date el capricho de 
+alojarte en una); y la preciosa barra del Mandarin Bar & Bistro, perfecta para tomar un 
+cóctel después de una jornada de arte y compras por la ciudad. 
 
 ![plaza athenee en Paris](https://fotos.etheriamagazine.com/2021/07/HPA-Cour-Jardin-4-HR-by-StudiodesFleurs.jpg "El jardín secreto de Plaza Athénee. Un precioso vergel en medio del hotel. © Studio des Fleurs")
 
@@ -124,7 +126,7 @@ atractivo aún. De este hotel nos gusta su entrada principal, preciosa y llena d
 detalles, y la decoración de sus habitaciones, que han sabido conservar ese aire clásico 
 inconfundible de hotel de lujo con toques modernos y actuales. 
 
-**También te puede interesar** 
+**También te puede interesar**: 
 
 {{< reflink path=posts/2021/01/hoteles-de-lujo-escapada-romantica-2021 >}} 
 

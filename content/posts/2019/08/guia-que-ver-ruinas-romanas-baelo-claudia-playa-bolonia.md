@@ -4,7 +4,6 @@ date: 2019-08-22
 cover: https://fotos.etheriamagazine.com/2019/08/ruinas-romanas-bolonia.jpg
 categories: 
   - viajar-en-familia
-  - ocio
 tags: 
   - españa
 authors: 

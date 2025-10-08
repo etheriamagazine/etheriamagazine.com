@@ -4,8 +4,6 @@ date: 2024-04-29
 cover: https://fotos.etheriamagazine.com/2024/04/creta-blos-beach.jpg
 categories: 
   - viajar-en-pareja
-  - inspiración
-  - ocio
 tags: 
   - europa
 authors: 

@@ -3,6 +3,7 @@ title: "Qué comer en Madeira, la isla de las nubes"
 date: 2022-08-30
 cover: https://fotos.etheriamagazine.com/2022/08/comida-madeira-espetada.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 tags: 
   - europa

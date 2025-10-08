@@ -3,7 +3,8 @@ title: "Pamplona, un idilio entre Hemingway y el cine"
 date: 2018-11-30
 cover: https://fotos.etheriamagazine.com/2018/11/Hemingway-1959-Pamplona-Iruña.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - cultura
   - ocio
 tags: 
   - españa

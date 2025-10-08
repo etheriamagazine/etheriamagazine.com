@@ -3,6 +3,7 @@ title: "30 años viajando con Anaya Touring"
 date: 2019-09-26
 cover: https://fotos.etheriamagazine.com/2019/09/anaya.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 authors: 
   - Pepa G. Marín

@@ -3,6 +3,7 @@ title: "La experiencia sostenible marca el mundo de los viajes"
 date: 2019-03-30
 cover: https://fotos.etheriamagazine.com/2019/03/viajero-responsable-accor.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 authors: 
   - Rebeca Ávila

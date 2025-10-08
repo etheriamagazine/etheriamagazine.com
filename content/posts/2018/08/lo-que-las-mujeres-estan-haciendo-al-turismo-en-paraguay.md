@@ -3,7 +3,8 @@ title: "Lo que las mujeres están haciendo al turismo en Paraguay"
 date: 2018-08-13
 cover: https://fotos.etheriamagazine.com/2018/08/1-mujeres-paraguay-guarani.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 authors: 
   - Kelu Robles

@@ -3,7 +3,8 @@ title: "15 lugares imprescindibles que tienes que ver en Girona"
 date: 2022-10-17
 cover: https://fotos.etheriamagazine.com/2022/10/Calella-de-Palafrugrell.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - españa
 authors: 

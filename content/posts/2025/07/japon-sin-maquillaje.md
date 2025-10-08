@@ -3,6 +3,7 @@ title: "Japón sin maquillaje: una inmersión activa, natural y feminista en el 
 date: 2025-07-25
 cover: https://fotos.etheriamagazine.com/2025/07/viaje-japon-otono.jpeg
 categories: 
+  - entre-mujeres
   - mujeres-top
 tags: 
   - mundo

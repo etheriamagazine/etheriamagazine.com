@@ -3,7 +3,8 @@ title: "6 exposiciones en Europa que no puedes perderte este verano"
 date: 2019-06-20
 cover: https://fotos.etheriamagazine.com/2019/06/Exposiciones-Europa-Bruegel.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - cultura
   - ocio
 tags: 

@@ -3,7 +3,8 @@ title: "Cata de chocolate con Kaitxo, un viaje sensorial con sello vasco"
 date: 2025-06-10
 cover: https://fotos.etheriamagazine.com/2025/06/cata-chocolates-kaitxo-tostado.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - gourmet
 authors: 
   - Redacción Etheria

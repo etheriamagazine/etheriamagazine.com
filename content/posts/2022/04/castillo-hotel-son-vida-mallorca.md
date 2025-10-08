@@ -3,6 +3,8 @@ title: "Castillo Hotel Son Vida, una experiencia de lujo inolvidable"
 date: 2022-04-20
 cover: https://fotos.etheriamagazine.com/2022/04/Son-vida-fachada.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa
@@ -10,7 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-Mallorca es uno de los mejores lugares del mundo para hacer una escapada de capricho, de esas de tirar la casa por la ventana para disfrutar de la vida. Para hacerlo como se merece, te proponemos que te alojes en el Castillo Hotel Son Vida, a Luxury Collection hotel, de la cadena Marriot. Vivirás una experiencia de lujo inolvidable.
+Mallorca es uno de los mejores lugares del mundo para hacer una escapada de capricho, de 
+esas de tirar la casa por la ventana para disfrutar de la vida. Para hacerlo como se 
+merece, te proponemos que te alojes en el Castillo Hotel Son Vida, a Luxury Collection 
+hotel, de la cadena Marriot. Vivirás una experiencia de lujo inolvidable. 
 
 ![entrada del hotel Son Vida](https://fotos.etheriamagazine.com/2022/04/Son-vida-fachada.jpg "Fachada del Castillo Hotel Son Vida.")
 

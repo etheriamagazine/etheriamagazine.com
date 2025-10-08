@@ -3,6 +3,7 @@ title: "Fragancias para mujeres viajeras, cómo elegir el perfume perfecto"
 date: 2024-01-16
 cover: https://fotos.etheriamagazine.com/2024/01/portada-perfumes-viajes.jpg
 categories: 
+  - estilo-de-vida
   - bienestar
 authors: 
   - Redacción Etheria

@@ -4,8 +4,6 @@ date: 2018-11-06
 cover: https://fotos.etheriamagazine.com/2018/10/Disneyland-viaje-familia-1-e1577797377918.jpg
 categories: 
   - viajar-en-familia
-  - inspiración
-  - ocio
 tags: 
   - europa
 authors: 

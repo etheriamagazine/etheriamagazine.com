@@ -3,6 +3,8 @@ title: "Hotel W Costa Navarino, un rincón de lujo en el paraíso"
 date: 2022-11-16
 cover: https://fotos.etheriamagazine.com/2022/11/W-Costa-Navarino-piscina-atardecer.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa
@@ -10,10 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-**El nuevo W Costa Navarino no podía haber elegido una ubicación más bella: la playa de 
-la región griega de Mesenia, un lugar pensado para disfrutar de las vacaciones en un 
+El nuevo W Costa Navarino no podía haber elegido una ubicación más bella: la playa de la 
+región griega de Mesenia, un lugar pensado para disfrutar de las vacaciones en un 
 entorno de lujo único y en contacto total con la naturaleza. Echa un vistazo a lo que te 
-contamos porque te va a apetecer ir al momento.** 
+contamos porque te va a apetecer ir al momento. 
 
 ![Piscina del W Costa Navarino al atardecer.](https://fotos.etheriamagazine.com/2022/11/W-Costa-Navarino-piscina-atardecer.jpg "Piscina del W Costa Navarino al atardecer.")
 

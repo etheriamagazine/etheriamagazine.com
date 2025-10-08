@@ -4,6 +4,7 @@ date: 2021-10-15
 cover: https://fotos.etheriamagazine.com/2021/10/Corea-del-sur-Callejon-Puigcerda.jpg
 categories: 
   - hemeroteca
+  - estilo-de-vida
   - ocio
 authors: 
   - Redacción Etheria

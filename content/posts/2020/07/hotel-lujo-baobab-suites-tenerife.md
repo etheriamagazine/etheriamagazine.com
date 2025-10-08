@@ -3,6 +3,7 @@ title: "Hotel Baobab Suites, apartamentos con servicios de lujo en Tenerife"
 date: 2020-07-22
 cover: https://fotos.etheriamagazine.com/2020/07/Baobab-Tenerife-Boutique-Suite-Terraza.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

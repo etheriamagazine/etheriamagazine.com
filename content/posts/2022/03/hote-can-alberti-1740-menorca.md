@@ -3,6 +3,7 @@ title: "Can Albertí 1740, un hotel para vivir Menorca de una forma diferente"
 date: 2022-03-16
 cover: https://fotos.etheriamagazine.com/2022/03/Can-Alberti-azotea.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

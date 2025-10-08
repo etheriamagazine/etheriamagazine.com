@@ -3,17 +3,19 @@ title: "8 hoteles de lujo en España para viajar con niños"
 date: 2022-04-08
 cover: https://fotos.etheriamagazine.com/2022/04/hoteles-famila-Royal-hideaway-sancti-petri-piscinas.jpg
 categories: 
-  - viajar-en-familia
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 
   - Redacción Etheria
 ---
 
-Cuando se viaja en familia uno de los aspectos que más tenemos que cuidar en la organización del viaje es el alojamiento. En este artículo te proponemos 8 hoteles en España en los que no está reñida la calidad con su perfil familiar. ¡Tenlos muy en cuenta para tu próxima escapada con niños!
+Cuando se viaja en familia uno de los aspectos que más tenemos que cuidar en la 
+organización del viaje es el alojamiento. En este artículo te proponemos 8 hoteles en 
+España para viajar con niños en los que no está reñida la calidad con su perfil 
+familiar. ¡Tenlos muy en cuenta para tu próxima escapada con niños! 
 
 ![Niños jugando con un ajedrez gigante](https://fotos.etheriamagazine.com/2022/04/hotel-bahia-del-duque-ninos.jpg "Ajedrez gigante del hotel © Bahía del Duque, en el sur de Tenerife.")
 
@@ -24,18 +26,7 @@ bienvenidos, cuentan con cómodas habitaciones comunicadas o familiares y dispon
 espacios y actividades perfectos para los más pequeños de la casa. Toma nota y daros un 
 capricho en familia, ¡os lo merecéis! 
 
-##### Hoteles de lujo en España para viajar con niños:
-
-1. [Royal Hideaway Sancti Petri](#sancti-petri).
-2. [Bahía del Duque](#bahia-duque).
-3. [La Bobadilla, a Royal Hideaway Hotel](#Bobadilla).
-4. [Las Arenas Balneario & Resort](#Arenas).
-5. [Iberostar Playa Gaviotas Park](#Iberostar-fuerteventura).
-6. [Barceló Montecastillo Golf & Sport Resort](#Montecastillo).
-7. [Puerto Antilla Grand Hotel](#Puerto-Antilla).
-8. [The Ritz-Carlton Abama](#Abama).
-
-## 1\. Royal Hideaway Sancti Petri
+## Royal Hideaway Sancti Petri
 
 Para empezar, hay que decir que muy mal se te tiene que dar para no pasar unas 
 vacaciones estupendas en las costas gaditanas. Sus extensos arenales son perfectos para 
@@ -48,11 +39,12 @@ mientras los niños disfrutan del **Barcy Club** (el club infantil del hotel), l
 podrán disfrutar del spa más grande de Andalucía. Es uno de los mejores hoteles en 
 España para viajar con niños. 
 
-📍 {{< reflink path=posts/2020/05/hotel-lujo-costa-cadiz-royal-hideaway-sancti-petri >}} 
+Sigue leyendo: {{< reflink 
+path=posts/2020/05/hotel-lujo-costa-cadiz-royal-hideaway-sancti-petri >}} 
 
 ![Piscinas del hotel Royal Hideaway Sancti Petri](https://fotos.etheriamagazine.com/2022/04/hoteles-famila-Royal-hideaway-sancti-petri-piscinas.jpg "Piscinas del © Royal Hideaway Sancti Petri.")
 
-## 2\. Bahía del Duque
+## Bahía del Duque
 
 El hotel Bahía del Duque es uno de los hoteles con más personalidad de las islas 
 Canarias, un auténtico cinco estrellas donde nada queda al azar y todo parece estar 
@@ -66,11 +58,12 @@ numerosas habitaciones comunicadas y suites, un Kids Club con actividades para t
 edades, pistas de tenis y pádel, mesa de ping pong, un ajedrez gigante y unas bonitas 
 piscinas. ¡Y la playa está justo enfrente! 
 
-📍 {{< reflink path=posts/2019/01/donde-dormir-tenerife-hotel-bahia-del-duque >}}. 
+Sigue leyendo: {{< reflink 
+path=posts/2019/01/donde-dormir-tenerife-hotel-bahia-del-duque >}}. 
 
 ![Edificios del hotel bahía del Duque con el mar al fondo](https://fotos.etheriamagazine.com/2022/04/Hoteles-familia-Bahia-del-Duque-general.jpg "Hotel © Bahía del Duque.")
 
-## 3\. La Bobadilla, a Royal Hideaway Hotel
+## La Bobadilla, a Royal Hideaway Hotel
 
 La Bobadilla, un cinco estrellas gran lujo de la cadena Barceló, es uno de esos hoteles 
 donde te quedarías a vivir sin dudarlo. Situado entre Granada y la Costa del Sol y 
@@ -82,11 +75,11 @@ es un punto de partido magnífico para excursiones tan interesantes como el Torc
 Antequera o a la misma ciudad de Antequera, con sus monumentos megalíticos y su 
 castillo, o a la ciudad de Málaga. 
 
-📍 {{< reflink path=posts/2018/08/hotel-la-bobadilla-loja-granada >}}. 
+Sigue leyendo: {{< reflink path=posts/2018/08/hotel-la-bobadilla-loja-granada >}}. 
 
 ![Hotel La Bobadilla rodeado de campos de olivos](https://fotos.etheriamagazine.com/2022/04/hotel-familia-La-Bobadilla-panoramica.jpg "La Bobadilla, a Royal Hideaway Hotel. © Barceló Group.")
 
-## 4\. Las Arenas Balneario & Resort
+## Las Arenas Balneario & Resort
 
 Valencia lo tiene todo: un clima privilegiado, playa y una vida cultural y social de lo 
 más animada, con propuestas para toda la familia como las que ofrece el Museo de las 
@@ -97,11 +90,12 @@ está cerca del centro y permite una zona extensa para juegos en la playa. Cuent
 habitaciones familiares, unas piscinas preciosas y un spa con zona interior y exterior 
 que hará las delicias de los mayores. 
 
-📍{{< reflink path=posts/2021/04/hotel-lujo-valencia-las-arenas-balneario-resort >}}. 
+Sigue leyendo: {{< reflink 
+path=posts/2021/04/hotel-lujo-valencia-las-arenas-balneario-resort >}}. 
 
 ![Piscina del hotel Las Arenas Balneario & Resort.](https://fotos.etheriamagazine.com/2022/04/hotel-familia-las-arenas-piscina.jpg "Piscina del hotel Las Arenas Balneario & Resort. © Hoteles Santos.")
 
-## 5\. Iberostar Playa Gaviotas Park
+## Iberostar Playa Gaviotas Park
 
 Las islas Canarias son una opción imbatible para un viaje en familia en cualquier época 
 del año. Una de las menos conocidas es Fuerteventura, y te aseguramos que merece la 
@@ -133,7 +127,8 @@ club infantil, campos de fútbol, campo de golf de 18 hoyos, un huerto ecológic
 el hotel cuenta con la opción de alojamiento en Todo Incluido, que es perfecta y muy 
 cómoda cuando se viaja en familia. 
 
-📍 {{< reflink path=posts/2020/06/hotel-barcelo-montecastillo-golf-jerez-familias >}}. 
+Sigue leyendo: {{< reflink 
+path=posts/2020/06/hotel-barcelo-montecastillo-golf-jerez-familias >}}. 
 
 ![Piscina para niños con toboganes  del Barceló Montecastillo.](https://fotos.etheriamagazine.com/2022/04/hoteles-famila-Barcelo-Montecastillo-piscina-ninos.jpg "Piscina para niños del Barceló Montecastillo Golf & Sports Resort. © Barceló Group.")
 
@@ -150,7 +145,8 @@ un capricho en el spa. Además, desde aquí se pueden hacer excursiones perfecta
 familias, como visitar el Parque Nacional de Doñana o el [Muelle de las 
 Carabelas](https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/muelle-de-las-carabelas). 
 
-📍 {{< reflink path=posts/2021/06/puerto-antilla-grand-hotel-costa-huelva-familias >}}. 
+Sigue leyendo: {{< reflink 
+path=posts/2021/06/puerto-antilla-grand-hotel-costa-huelva-familias >}}. 
 
 ![Piscinas y playa del © Puerto Antilla Grand Hotel.](https://fotos.etheriamagazine.com/2022/04/hoteles-familia-puerto-antilla-grand-hotel.jpg "Piscinas y playa del © Puerto Antilla Grand Hotel.")
 
@@ -168,11 +164,12 @@ las piscinas y los variados restaurantes. Sin olvidar todas las excursiones que 
 maravillosa isla ofrece, desde una visita a los cercanos acantilados de Los Gigantes 
 hasta la subida al Parque Nacional del Teide. 
 
-📍 {{< reflink path=posts/2021/06/the-ritz-carlton-abama-hotel-de-lujo-tenerife >}}. 
+Sigue leyendo: {{< reflink 
+path=posts/2021/06/the-ritz-carlton-abama-hotel-de-lujo-tenerife >}}. 
 
 ![Imagen del hotel The Ritz-Carlton Abama con el mar y la Gomera al fondo](https://fotos.etheriamagazine.com/2022/04/hotel-familia-abama-vistas.jpg "Imagen del hotel © The Ritz-Carlton Abama con el mar y la Gomera al fondo.")
 
-### También te puede interesar:
+**También te puede interesar:** 
 
 {{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
 

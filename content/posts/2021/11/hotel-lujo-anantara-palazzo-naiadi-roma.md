@@ -3,6 +3,7 @@ title: "Anantara Palazzo Naiadi Roma, un hotel histórico en el corazón de Roma
 date: 2021-11-26
 cover: https://fotos.etheriamagazine.com/2021/11/Anantara-Palazzo-Naiadi-Roma-Hotel-habitacion-Premium-terraza.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

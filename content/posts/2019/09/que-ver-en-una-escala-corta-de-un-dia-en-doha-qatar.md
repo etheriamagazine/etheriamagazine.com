@@ -4,7 +4,8 @@ date: 2019-09-19
 cover: https://fotos.etheriamagazine.com/2019/09/escala-un-dia-doha-museo-arte.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - mundo
 authors: 

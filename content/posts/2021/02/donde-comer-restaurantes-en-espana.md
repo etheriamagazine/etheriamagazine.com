@@ -4,7 +4,8 @@ date: 2021-02-19
 cover: https://fotos.etheriamagazine.com/2021/02/Restaurantes-Espana-Toledo.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - españa

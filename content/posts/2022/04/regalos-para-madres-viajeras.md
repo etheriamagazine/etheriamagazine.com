@@ -3,6 +3,7 @@ title: "10 regalos para sorprender a madres viajeras y disfrutonas"
 date: 2022-04-25
 cover: https://fotos.etheriamagazine.com/2022/04/Los-Anades-hotel-guadalajara.jpg
 categories: 
+  - estilo-de-vida
   - compras
 authors: 
   - Redacción Etheria

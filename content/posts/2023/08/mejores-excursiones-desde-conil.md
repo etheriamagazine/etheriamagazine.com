@@ -4,6 +4,7 @@ date: 2023-08-02
 cover: https://fotos.etheriamagazine.com/2023/08/playa-roche-conil.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

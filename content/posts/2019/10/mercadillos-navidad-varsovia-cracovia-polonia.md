@@ -4,7 +4,9 @@ date: 2019-10-30
 cover: https://fotos.etheriamagazine.com/2019/10/polonia-luces-fuente-navidad-varsovia.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
+  - viajar-en-familia
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - europa
 authors: 

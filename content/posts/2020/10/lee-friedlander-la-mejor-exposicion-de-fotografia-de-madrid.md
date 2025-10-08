@@ -3,6 +3,7 @@ title: "Lee Friedlander, la mejor exposición de fotografía de Madrid"
 date: 2020-10-10
 cover: https://fotos.etheriamagazine.com/2020/10/lee-frielander-baltimore-1968.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

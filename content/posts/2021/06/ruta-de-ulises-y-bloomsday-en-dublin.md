@@ -3,6 +3,7 @@ title: "Ruta del 'Ulises' de James Joyce en Dublín para celebrar su centenario"
 date: 2021-06-16
 cover: https://fotos.etheriamagazine.com/2021/06/bloomsday-ulises-farmacia-Sweny.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 tags: 
   - europa

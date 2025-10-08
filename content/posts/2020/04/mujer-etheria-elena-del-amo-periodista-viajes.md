@@ -3,6 +3,7 @@ title: "Elena del Amo: \"Recomendaría viajar a quien esté dispuesto a abrirse 
 date: 2020-04-25
 cover: https://fotos.etheriamagazine.com/2020/04/elena-del-amo-sri-lanka.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Pepa G. Marín

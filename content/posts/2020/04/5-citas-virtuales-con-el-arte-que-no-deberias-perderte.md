@@ -3,6 +3,7 @@ title: "5 citas virtuales con el arte que no deberías perderte"
 date: 2020-04-07
 cover: https://fotos.etheriamagazine.com/2020/04/Van-Eyck-visitas-virtuales.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 authors: 
   - Redacción Etheria

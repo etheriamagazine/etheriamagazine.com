@@ -4,8 +4,6 @@ date: 2024-11-01
 cover: https://fotos.etheriamagazine.com/2024/11/sania-noruega-aurora-boreal-vadso.jpg
 categories: 
   - viajar-sola
-  - historias
-  - mujeres-top
 tags: 
   - europa
 authors: 

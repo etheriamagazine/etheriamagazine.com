@@ -3,6 +3,7 @@ title: "Cuba con amigas, visitas esenciales en este paraíso caribeño"
 date: 2019-01-24
 cover: https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-cayo-coco.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - mundo

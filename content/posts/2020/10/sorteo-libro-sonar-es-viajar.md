@@ -3,7 +3,7 @@ title: "Sorteo del libro 'Soñar es Viajar. 88 viajes en confinamiento'"
 date: 2020-10-29
 cover: https://fotos.etheriamagazine.com/2020/10/web-SORTEO-88-viajes-confinamiento.jpg
 categories: 
-  - sorteos
+  - hemeroteca
 authors: 
   - Redacción Etheria
 ---

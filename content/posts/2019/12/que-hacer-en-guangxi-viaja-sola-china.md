@@ -3,6 +3,7 @@ title: "Descubre Guangxi, la otra cara de la Nueva China"
 date: 2019-12-27
 cover: https://fotos.etheriamagazine.com/2019/12/viaje-china-senderismo-colinas-guangxi.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - mundo

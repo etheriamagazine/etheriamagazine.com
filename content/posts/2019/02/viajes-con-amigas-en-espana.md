@@ -4,8 +4,6 @@ date: 2019-02-06
 cover: https://fotos.etheriamagazine.com/2019/02/Viajes-amigas.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 

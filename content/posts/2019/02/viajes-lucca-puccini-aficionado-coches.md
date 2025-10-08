@@ -3,6 +3,7 @@ title: "Una excursión en coche a Lucca con Puccini"
 date: 2019-02-21
 cover: https://fotos.etheriamagazine.com/2019/02/puccini.jpg
 categories: 
+  - organiza-tu-viaje
   - excursiones
 tags: 
   - europa

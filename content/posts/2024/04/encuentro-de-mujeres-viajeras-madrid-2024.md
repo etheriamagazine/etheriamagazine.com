@@ -3,6 +3,7 @@ title: "Crónica del II Encuentro de Mujeres Viajeras en Madrid, una jornada lle
 date: 2024-04-12
 cover: https://fotos.etheriamagazine.com/2024/04/portada-mujeres-viajeras.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Pepa G. Marín

@@ -3,6 +3,7 @@ title: "Six Senses Douro Valley, el retiro espiritual que necesitas"
 date: 2022-11-04
 cover: https://fotos.etheriamagazine.com/2022/11/hotel-six-senses-douro-valley.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

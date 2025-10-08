@@ -3,9 +3,9 @@ title: "10 pueblos bonitos de Castilla-La Mancha para organizar una escapada"
 date: 2023-11-10
 cover: https://fotos.etheriamagazine.com/2023/11/consuegra-molinos-castilla-mancha.jpg
 categories: 
+  - viajar-con-amigas
+  - viajar-en-familia
   - viajar-en-pareja
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 

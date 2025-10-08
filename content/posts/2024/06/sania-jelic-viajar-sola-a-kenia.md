@@ -4,8 +4,6 @@ date: 2024-06-02
 cover: https://fotos.etheriamagazine.com/2024/05/sania-safari-kenia.jpg
 categories: 
   - viajar-sola
-  - historias
-  - mujeres-top
 tags: 
   - mundo
 authors: 

@@ -3,6 +3,7 @@ title: "Novotel Madrid Center, el mayor Novotel del mundo"
 date: 2018-07-10
 cover: https://fotos.etheriamagazine.com/2018/07/Hotel-novotel-madrid-center-2.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

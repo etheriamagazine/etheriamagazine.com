@@ -3,9 +3,9 @@ title: "15 excursiones a menos de 99 km de Madrid que te alegrarán cualquier fi
 date: 2020-05-20
 cover: https://fotos.etheriamagazine.com/2020/05/excursion-aranjuez.jpg
 categories: 
+  - viajar-con-amigas
+  - viajar-en-familia
   - viajar-sola
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 

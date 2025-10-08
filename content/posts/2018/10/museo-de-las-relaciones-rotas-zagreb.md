@@ -3,6 +3,7 @@ title: "Museo de las Relaciones Rotas, una sorpresa en Zagreb"
 date: 2018-10-27
 cover: https://fotos.etheriamagazine.com/2018/10/Museo-relaciones-rotas-zagreb-2.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 tags: 
   - europa

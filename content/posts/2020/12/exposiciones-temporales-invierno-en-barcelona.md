@@ -3,6 +3,7 @@ title: "5 exposiciones temporales que no te puedes perder este invierno en Barce
 date: 2020-12-09
 cover: https://fotos.etheriamagazine.com/2020/12/Patricio-Reig-Bramante.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 tags: 

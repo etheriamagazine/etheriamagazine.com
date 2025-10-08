@@ -4,7 +4,6 @@ date: 2019-06-26
 cover: https://fotos.etheriamagazine.com/2019/06/viaje-phuket-tailandia-amigas-Crucero-HYPE.jpg
 categories: 
   - viajar-con-amigas
-  - ocio
 tags: 
   - mundo
 authors: 

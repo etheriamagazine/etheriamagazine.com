@@ -3,6 +3,7 @@ title: "'Música, gastronomía y paisaje de otoño' en el Festival Música Antig
 date: 2020-11-16
 cover: https://fotos.etheriamagazine.com/2020/11/festival-musica-antigua-aranjuez-Apotheose.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 authors: 
   - Pilar Ortega

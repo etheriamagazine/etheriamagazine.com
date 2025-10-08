@@ -3,7 +3,8 @@ title: "Cecilia Bartolomé: “Cuando entré en la Escuela de Cine, me preguntab
 date: 2022-01-31
 cover: https://fotos.etheriamagazine.com/2022/01/Cecilia-Bartolome-premio-de-honor-en-Feroz.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 authors: 
   - Carmen Pineda

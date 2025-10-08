@@ -4,6 +4,7 @@ date: 2019-10-29
 cover: https://fotos.etheriamagazine.com/2019/10/grullas-en-vuelo.jpg
 categories: 
   - viajar-en-familia
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

@@ -3,6 +3,8 @@ title: "Hotel Torre del Marqués, tu oasis de lujo en la comarca de Matarraña"
 date: 2021-12-28
 cover: https://fotos.etheriamagazine.com/2021/12/Torre-Marques-piscina.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa
@@ -10,7 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-No hay por qué renunciar a disfrutar de la naturaleza con estilo, y el hotel Torre del Marqués, el único cinco estrellas del Bajo Aragón, así lo demuestra. Decoración cuidada, buena gastronomía y unas vistas insuperables son solo algunos de los alicientes para pasar unos días en este hotel de lujo.
+No hay por qué renunciar a disfrutar de la naturaleza con estilo, y el hotel Torre del 
+Marqués, el único cinco estrellas del Bajo Aragón, así lo demuestra. Decoración cuidada, 
+buena gastronomía y unas vistas insuperables son solo algunos de los alicientes para 
+pasar unos días en este hotel de lujo. 
 
 ![Piscina del hotel Torre del Marqués.](https://fotos.etheriamagazine.com/2021/12/Torre-Marques-piscina.jpg "Piscina del hotel Torre del Marqués.")
 

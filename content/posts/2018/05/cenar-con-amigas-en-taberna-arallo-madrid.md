@@ -3,6 +3,7 @@ title: "Cenar con amigas en Arallo Taberna (Madrid)"
 date: 2018-05-17
 cover: https://fotos.etheriamagazine.com/2018/05/Taberna-Arallo-2.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 tags: 
   - españa

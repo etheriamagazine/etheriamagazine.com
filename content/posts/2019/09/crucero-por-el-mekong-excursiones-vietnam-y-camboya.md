@@ -3,6 +3,7 @@ title: "Crucero por el Mekong en Vietnam y Camboya, un viaje a través del río 
 date: 2019-09-13
 cover: https://fotos.etheriamagazine.com/2019/09/crucero-Aqua-Mekong.jpg
 categories: 
+  - organiza-tu-viaje
   - guias-de-destino
 tags: 
   - mundo

@@ -3,6 +3,7 @@ title: "Los Ánades, el hotel rural que huele y sabe a lavanda (Guadalajara)"
 date: 2020-07-09
 cover: https://fotos.etheriamagazine.com/2020/07/lavanda-los-anades-guadalajara.jpeg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

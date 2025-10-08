@@ -3,7 +3,8 @@ title: "Bogotá y Medellín, consejos básicos de Sania para visitarlas"
 date: 2023-05-03
 cover: https://fotos.etheriamagazine.com/2023/04/sania-colombia-lago-dorado.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 tags: 
   - mundo

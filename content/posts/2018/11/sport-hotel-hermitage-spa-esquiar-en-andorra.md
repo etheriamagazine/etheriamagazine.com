@@ -3,6 +3,7 @@ title: "Sport Hotel Hermitage & Spa (Andorra) o cómo disfrutar del esquí a otr
 date: 2018-11-01
 cover: https://fotos.etheriamagazine.com/2018/10/hermitage-exterior-invierno.jpg
 categories: 
+  - estilo-de-vida
   - bienestar
   - hoteles
 tags: 

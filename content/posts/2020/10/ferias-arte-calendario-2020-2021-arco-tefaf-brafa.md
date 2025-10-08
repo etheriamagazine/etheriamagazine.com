@@ -3,6 +3,7 @@ title: "Ferias de arte en tiempos de pandemia, adaptarse o morir"
 date: 2020-10-29
 cover: https://fotos.etheriamagazine.com/2020/10/feria-arte-arco-madrid-2020-expositores.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 authors: 
   - Pedro Grifol

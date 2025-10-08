@@ -3,6 +3,7 @@ title: "Qué ver en Valencia, un paseo entre diseño y tiendas"
 date: 2020-03-26
 cover: https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-valencia-dolores-cortes.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - españa

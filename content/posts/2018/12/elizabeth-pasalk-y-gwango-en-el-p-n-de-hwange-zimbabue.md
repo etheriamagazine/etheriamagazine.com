@@ -3,7 +3,8 @@ title: "Elizabeth Pasalk y Gwango en el P.N. de Hwange, una historia de Zimbabue
 date: 2018-12-10
 cover: https://fotos.etheriamagazine.com/2018/12/Elizabet-lodge-zinbabue-mujer-etheria.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 tags: 
   - mundo

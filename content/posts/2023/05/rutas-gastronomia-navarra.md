@@ -4,6 +4,7 @@ date: 2023-05-08
 cover: https://fotos.etheriamagazine.com/2023/05/navarra-ruta-northern-spain-travel.jpg
 categories: 
   - viajar-con-amigas
+  - estilo-de-vida
   - gourmet
 tags: 
   - españa

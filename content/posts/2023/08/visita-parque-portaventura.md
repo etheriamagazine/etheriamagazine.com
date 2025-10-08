@@ -4,7 +4,6 @@ date: 2023-08-23
 cover: https://fotos.etheriamagazine.com/2023/08/port-aventura-Mediterrania.jpg
 categories: 
   - viajar-en-familia
-  - ocio
 tags: 
   - españa
 authors: 

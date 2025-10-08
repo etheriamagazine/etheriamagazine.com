@@ -4,8 +4,6 @@ date: 2020-06-08
 cover: https://fotos.etheriamagazine.com/2020/05/Zaragoza-Muel.jpg
 categories: 
   - viajar-sola
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 

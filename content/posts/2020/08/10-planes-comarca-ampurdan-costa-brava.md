@@ -3,7 +3,8 @@ title: "Empordà, busca la esencia mediterránea en la Costa Brava"
 date: 2020-08-21
 cover: https://fotos.etheriamagazine.com/2019/06/Viaje-girona-medieval-e1559737808621.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - españa
 authors: 

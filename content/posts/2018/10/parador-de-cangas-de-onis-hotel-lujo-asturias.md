@@ -4,7 +4,6 @@ date: 2018-10-14
 cover: https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-portada.jpg
 categories: 
   - viajar-en-pareja
-  - hoteles
 tags: 
   - españa
 authors: 

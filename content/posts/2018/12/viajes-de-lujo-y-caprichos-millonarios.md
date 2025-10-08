@@ -3,15 +3,15 @@ title: "Viajes de lujo y otros caprichos para millonarios"
 date: 2018-12-22
 cover: https://fotos.etheriamagazine.com/2018/12/polinesia-etheria-magazine-e1577003544324.jpg
 categories: 
-  - viajar-sola
+  - viajes-de-lujo
 authors: 
   - Pepa G. Marín
 ---
 
-**Y si, de repente, te toca la lotería o recibes una herencia inesperada, ¿sabrías en 
-qué comenzar a gastar ese dinero que te ha caído del cielo? Muchos estudios indican que 
-lo que mayor felicidad proporciona a las mujeres es viajar. Así que te damos algunas 
-ideas por si te quedas bloqueada por la emoción.** 
+Y si, de repente, te toca la lotería o recibes una herencia inesperada, ¿sabrías en qué 
+comenzar a gastar ese dinero que te ha caído del cielo? Muchos estudios indican que lo 
+que mayor felicidad proporciona a las mujeres es viajar. Así que te damos algunas ideas 
+por si te quedas bloqueada por la emoción. 
 
 ![viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad](https://fotos.etheriamagazine.com/2018/12/polinesia-etheria-magazine.jpg "Relájate en la Polinesia Francesa.")
 
@@ -21,18 +21,17 @@ empieces a disfrutar de una escapada de lujo con ese dinero con el que no contab
 no te ha tocado la lotería ni has heredado, no es el fin del mundo, existen muchas otras 
 propuestas en Etheria Magazine para presupuestos más ajustados. 
 
-## 1.La vuelta al mundo en crucero.
+## La vuelta al mundo en crucero
 
 Si ya has decidido dar la vuelta al mundo surcando casi todos los océanos y mares del 
-planeta ¿por qué no hacerlo a lo grande? 
-[Catai](https://www.catai.es/viajes/crucero-vuelta-al-mundo.html) ofrece un crucero de 
-46 días que parte de Santiago de Chile (hace parada en la Isla de Pascua) y sigue por 
-Polinesia Francesa, Nueva Caledonia, Nueva Zelanda, Australia, Indonesia y Singapur. El 
-precio por persona es desde 9.425 euros, ¿a cuántos amigos te vas a llevar? 
+planeta ¿por qué no hacerlo a lo grande? Muchas navieras ofrecen esta opción con 
+distinta duración, itinerario y categoría de barco. Si buscas una lujosa, echa un 
+vistazo a las webs de Silversea, Oceania Cruises o Regent Seven Seas. ¿A cuántos amigos 
+te vas a llevar? 
 
 ![viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad](https://fotos.etheriamagazine.com/2018/12/crucero-etheria-magazine.jpg "Desconectar en un crucero.")
 
-## 2\. En un avión privado como las jequesas.
+## En un avión privado como las jequesas
 
 Si el concepto crucero no es para ti, existen otras opciones para recorrer el planeta 
 donde no intervienen los barcos. En algunas agencias de viajes de lujo como **Safrans du 
@@ -42,25 +41,26 @@ Mahal, Hanoi y la gran Barrera de Coral.
 
 ![viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad](https://fotos.etheriamagazine.com/2018/12/Premiere1.jpg "Aviones de lujo para dar la vuelta al mundo.")
 
-## 3\. Traqueteo deluxe sobre raíles.
+## Traqueteo deluxe sobre raíles
 
 Viajar en tren es una experiencia increíble cuando lo haces sin prisas ni estrés por 
 llegar o regresar. Probablemente, el primer tren en el que has pensado sea el mítico 
 **Venice Simplon-Orient-Express** (gestionado por la empresa **Belmond**) que conserva 
 los vagones de la década de los 20 y 30 y su decoración de estilo _Art Déco_. En uno de 
 estos puedes realizar trayectos que incluyen Londres, París, Venecia, Roma, Berlín, 
-Cracovia, Budapest, Innsbruck, Viena o Estambul. El recorrido entre París y Venecia te 
-saldrá por unos 3.000 euros. Y si buscas algo aún más exótico, en Japón cuentan con el 
-**Tren Suite Shiki Shima**, cuyo color dorado es solo un adelanto de la exclusividad de 
-su interior. Su mejor suite tiene dos plantas, suelo de tatami y cuenta con una bañera 
-de madera de ciprés. Un poco más cerca, pero con mucho atractivo, están los trenes 
-turísticos de Renfe: el **Al Ándalus y el Transcantábrico**, uno recorre el sur y el 
-otro el norte del país. Una suite deluxe durante una semana te sale por más de 4.000 
-euros por persona. 
+Cracovia, Budapest, Innsbruck, Viena o Estambul. 
+
+Y si buscas algo aún más exótico, en Japón cuentan con el **Tren Suite Shiki Shima**, 
+cuyo color dorado es solo un adelanto de la exclusividad de su interior. Su mejor suite 
+tiene dos plantas, suelo de tatami y cuenta con una bañera de madera de ciprés. 
+
+Un poco más cerca, pero con mucho atractivo, están los trenes turísticos de Renfe: el 
+**Al Ándalus y el Transcantábrico**, uno recorre el sur y el otro el norte del país. Una 
+suite deluxe durante una semana te sale por más de 4.000 euros por persona. 
 
 ![viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad](https://fotos.etheriamagazine.com/2018/12/tren-lujo-japones.jpg "© Tren Suite Shiki Shima.")
 
-## 4\. Déjate mimar en el hotel de tus sueños.
+## Déjate mimar en el hotel de tus sueños
 
 Acabas de ganar una gran suma de dinero y quieres darte el capricho de disfrutar de las 
 atenciones que brindan algunos hotelazos, eso está bien pero ¡ojo! porque en poco más de 
@@ -75,7 +75,7 @@ en París, del que ya te hemos hablado en otras ocasiones.
 
 ![Poseidon Undersea Resort, viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad](https://fotos.etheriamagazine.com/2018/12/Poseidon-Undersea-Resort.jpg "© Poseidon Undersea Resort.")
 
-## 6\. Pon un yate de megalujo en tu vida.
+## Pon un yate de megalujo en tu vida
 
 Entre los caprichos que más se mencionan cuando se pregunta por deseos incumplidos están 
 los coches deportivos y los yates de lujo. Nuestra sugerencia es que, al menos, cumplas 
@@ -88,7 +88,7 @@ recorrido lo eliges tú: Caribe, Mediterráneo o Norte de Europa.
 
 ![Azora yate de The Ritz Carlton Yatch Collection, yates de lujo, viajes exclusivos, viajes de lujo](https://fotos.etheriamagazine.com/2018/12/yate-lujo-etheria-magazine.jpeg "Azora es el primer yate de The Ritz-Carlton Yatch Collection.")
 
-## 7\. Una isla para ti sola (o casi).
+## Una isla para ti sola (o casi)
 
 Cada persona cuenta con una forma de entender el lujo cuando viaja, para algunos es 
 disfrutar de entornos paradisiacos casi en soledad. Si es tu caso, te sugerimos que te 
@@ -104,7 +104,7 @@ partir de 5.160 Euros y puedes alquilar la isla completa).
 
 ![viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad, cayo espanto, islas privadas en belice](https://fotos.etheriamagazine.com/2018/12/Isla-CayoEspanto-Belize-1.jpg "Cayo Espanto, en Belice.")
 
-## 8\. Codearte con ricos y famosos.
+## Codearte con ricos y famosos
 
 Si ahora que te lo puedes permitir, te apetece relacionarte con ricos y famosos, hace 
 falta que vayas muy lejos. Te damos algunas coordenadas donde podrás fundirte la tarjeta 
@@ -115,7 +115,9 @@ del rey Leopoldo II de Bélgica. En Grecia podrías optar por el **Westin Resort
 Navarino,** donde Cristiano Ronaldo se retiró para decidir su salida del Real Madrid. 
 Este hotel cuenta con playa privada, parque acuático, spa y campo de golf. Cuentan que 
 el jugador dejó una generosa propina de 20.000 €, así que lo debieron de tratar muy 
-bien. En Italia hay decenas de rincones exclusivos pero puedes empezar por la **Costa 
+bien. 
+
+En Italia hay decenas de rincones exclusivos pero puedes empezar por la **Costa 
 Esmeralda**, en Cerdeña, y la **isla de Capri**, refugio de famosos desde hace décadas. 
 
 ![lujo en capri, viajes de lujo, escapadas para millonarios, viajar con el gordo de navidad](https://fotos.etheriamagazine.com/2018/12/capri-viajes-lujo.jpg "Viaje de lujo a Capri.")

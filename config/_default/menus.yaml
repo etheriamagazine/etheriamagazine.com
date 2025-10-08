@@ -77,16 +77,19 @@ main:
 
   - name: Estilo de vida
     identifier: estilo
-    pageRef: ""
+    pageRef: "categories/estilo-de-vida"
     weight: 5
   - name: Cultura
     pageRef: categories/cultura
     parent: estilo
+  - name: Gourmet
+    pageRef: categories/gourmet
+    parent: estilo
   - name: Hoteles
     pageRef: categories/hoteles
     parent: estilo
-  - name: Gourmet
-    pageRef: categories/gourmet
+  - name: Lujo
+    pageRef: categories/lujo
     parent: estilo
   - name: Bienestar
     pageRef: categories/bienestar

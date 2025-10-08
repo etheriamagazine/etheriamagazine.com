@@ -4,7 +4,8 @@ date: 2021-10-14
 cover: https://fotos.etheriamagazine.com/2018/10/tallin-mercado.jpg
 categories: 
   - viajar-sola
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - mundo

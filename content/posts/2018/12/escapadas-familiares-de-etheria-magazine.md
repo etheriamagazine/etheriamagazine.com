@@ -4,8 +4,6 @@ date: 2018-12-29
 cover: https://fotos.etheriamagazine.com/2018/05/Costa-Rica-Volcan-Poas.jpg
 categories: 
   - viajar-en-familia
-  - inspiración
-  - ocio
 authors: 
   - Redacción Etheria
 ---

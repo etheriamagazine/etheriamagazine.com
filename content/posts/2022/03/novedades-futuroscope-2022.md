@@ -4,6 +4,7 @@ date: 2022-03-29
 cover: https://fotos.etheriamagazine.com/2022/03/aerobar-futuroscope.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - europa
 authors: 

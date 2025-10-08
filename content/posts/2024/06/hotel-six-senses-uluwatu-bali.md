@@ -3,6 +3,7 @@ title: "Hotel Six Senses Uluwatu, un oasis en Bali para desconectar"
 date: 2024-06-26
 cover: https://fotos.etheriamagazine.com/2024/06/six-senses-uluwatu-piscina-infinity.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - mundo

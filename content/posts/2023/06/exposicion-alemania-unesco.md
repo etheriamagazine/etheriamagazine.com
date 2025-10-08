@@ -3,6 +3,7 @@ title: "Sumérgete en el Patrimonio Unesco de Alemania sin salir de Madrid"
 date: 2023-06-07
 cover: https://fotos.etheriamagazine.com/2023/06/patrimonio-unesco-Wartburg.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

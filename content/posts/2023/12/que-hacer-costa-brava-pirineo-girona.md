@@ -3,6 +3,7 @@ title: "Planes con un toque mágico en la Costa Brava y el Pirineo de Girona"
 date: 2023-12-18
 cover: https://fotos.etheriamagazine.com/2023/12/Eugenia-Mas-Generos.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - españa

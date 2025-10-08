@@ -3,6 +3,7 @@ title: "Cómo visitar los Campos de lavanda de Brihuega (Guadalajara)"
 date: 2020-06-08
 cover: https://fotos.etheriamagazine.com/2019/06/lavanda-brihuega.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

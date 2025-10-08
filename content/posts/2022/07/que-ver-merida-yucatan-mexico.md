@@ -3,6 +3,7 @@ title: "Mil razones para enamorarse de la Mérida mexicana"
 date: 2022-07-18
 cover: https://fotos.etheriamagazine.com/2022/07/que-ver-merida-mexico-portada.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - mundo

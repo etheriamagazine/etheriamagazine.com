@@ -3,6 +3,7 @@ title: "Museo NEMO en Ámsterdam, ciencia al alcance de la mano"
 date: 2018-10-06
 cover: https://fotos.etheriamagazine.com/2018/09/museo-nemo-tesla-e1669709939123.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 tags: 
   - europa

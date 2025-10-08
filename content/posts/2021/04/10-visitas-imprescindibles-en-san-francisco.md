@@ -4,8 +4,6 @@ date: 2021-04-09
 cover: https://fotos.etheriamagazine.com/2018/07/San-Francisco-Alamo-Square.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - mundo
 authors: 

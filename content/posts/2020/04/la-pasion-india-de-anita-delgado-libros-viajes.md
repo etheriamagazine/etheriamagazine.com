@@ -3,7 +3,9 @@ title: "La “pasión india” de Anita Delgado: una vida de película"
 date: 2020-04-13
 cover: https://fotos.etheriamagazine.com/2020/04/boda-india.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
+  - estilo-de-vida
   - cultura
 authors: 
   - Pilar Ortega

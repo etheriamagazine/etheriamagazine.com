@@ -3,7 +3,8 @@ title: "Mujeres viajeras que, rompiendo moldes, hicieron las maletas"
 date: 2022-03-08
 cover: https://fotos.etheriamagazine.com/2023/03/mujeres-nellie-bly-libro-viajeras.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 authors: 
   - Firmas invitadas

@@ -3,7 +3,8 @@ title: "7 Consejos para viajar a Australia"
 date: 2019-03-07
 cover: https://fotos.etheriamagazine.com/2019/02/australia-viaje-surf.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - mundo

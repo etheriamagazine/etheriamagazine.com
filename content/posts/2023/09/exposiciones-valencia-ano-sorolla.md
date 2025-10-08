@@ -3,6 +3,7 @@ title: "Exposiciones y más para celebrar con Valencia el Año Sorolla"
 date: 2023-09-15
 cover: https://fotos.etheriamagazine.com/2023/09/valencia-sorolla-exposicion-inmersiva-azul.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

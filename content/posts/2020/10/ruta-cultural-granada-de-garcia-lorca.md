@@ -3,6 +3,7 @@ title: "Ruta de Lorca en Granada, un paseo por sus lugares más íntimos"
 date: 2020-10-07
 cover: https://fotos.etheriamagazine.com/2020/09/Granada-Lorca-museo.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

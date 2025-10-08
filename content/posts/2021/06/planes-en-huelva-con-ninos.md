@@ -4,8 +4,6 @@ date: 2021-06-21
 cover: https://fotos.etheriamagazine.com/2021/06/huelva-aldea-rocio-al-atardecer.jpg
 categories: 
   - viajar-en-familia
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 

@@ -4,6 +4,7 @@ date: 2021-12-13
 cover: https://fotos.etheriamagazine.com/2021/12/mercadillo-basilica-san-esteban.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - europa
 authors: 

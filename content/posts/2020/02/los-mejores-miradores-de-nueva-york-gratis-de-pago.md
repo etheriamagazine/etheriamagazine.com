@@ -4,8 +4,6 @@ date: 2020-02-24
 cover: https://fotos.etheriamagazine.com/2020/02/viaje-mujeres-nueva-york-vistas-Edge.jpg
 categories: 
   - viajar-sola
-  - inspiración
-  - ocio
 tags: 
   - mundo
 authors: 

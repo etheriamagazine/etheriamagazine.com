@@ -3,6 +3,7 @@ title: "Orben, un rioja neoclásico"
 date: 2018-11-24
 cover: https://fotos.etheriamagazine.com/2018/11/vinas-orben-uvas.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 authors: 
   - Vanesa Viñolo

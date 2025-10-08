@@ -3,8 +3,10 @@ title: "5 recomendaciones para preparar un viaje a Japón"
 date: 2019-06-18
 cover: https://fotos.etheriamagazine.com/2019/04/Japon-Onsen-ryokan-monte-Fuji.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
+  - organiza-tu-viaje
   - que-llevar-en-la-maleta
 tags: 
   - mundo

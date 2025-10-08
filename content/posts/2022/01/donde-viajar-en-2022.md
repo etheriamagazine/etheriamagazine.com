@@ -4,7 +4,6 @@ date: 2022-01-07
 cover: https://fotos.etheriamagazine.com/2022/01/museo-Munch.jpg
 categories: 
   - viajar-con-amigas
-  - ocio
 authors: 
   - Redacción Etheria
 ---

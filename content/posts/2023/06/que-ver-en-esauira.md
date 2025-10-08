@@ -3,18 +3,18 @@ title: "Qué ver en Esauira, la playa de Marruecos"
 date: 2023-06-05
 cover: https://fotos.etheriamagazine.com/2023/06/Murallas-de-Essauira.jpg
 categories: 
-  - inspiración
+  - viajar-con-amigas
 tags: 
   - mundo
 authors: 
   - Pedro Grifol
 ---
 
-**Desde hace pocas semanas, un vuelo directo conecta Madrid con Esauira (Essaouira en 
+Desde hace pocas semanas, un vuelo directo conecta Madrid con Esauira (Essaouira en 
 francés) en algo más de dos horas. Si todavía no la conoces, es un buen momento para 
 deambular por una de las ciudades más hechizantes de Marruecos. Te contamos qué ver en 
 Esauira, uno de los lugares de playa más populares de Marruecos y un destino muy 
-atractivo para los viajeros españoles.** 
+atractivo para las españolas que organicen un viaje con amigas. 
 
 ![La ciudad amurallada de Esauira.](https://fotos.etheriamagazine.com/2023/06/Murallas-de-Essauira.jpg "La ciudad amurallada de Esauira. © Pedro Grifol.")
 

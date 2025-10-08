@@ -3,6 +3,7 @@ title: "BiBo Beach House, el “todo en uno” de Tarifa"
 date: 2021-04-09
 cover: https://fotos.etheriamagazine.com/2021/04/BIBO-Beach-House-Sala-3.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 tags: 
   - españa

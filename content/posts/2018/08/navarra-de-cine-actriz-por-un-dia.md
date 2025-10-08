@@ -3,7 +3,8 @@ title: "Navarra de Cine. Este verano puedes ser actriz por un día"
 date: 2018-08-04
 cover: https://fotos.etheriamagazine.com/2018/08/Navarra-de-cine-Anacleto.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - cultura
   - ocio
 tags: 
   - españa

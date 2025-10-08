@@ -3,6 +3,7 @@ title: "Helga de Alvear: \"El arte es un derecho y una necesidad\""
 date: 2021-03-03
 cover: https://fotos.etheriamagazine.com/2021/03/nuevo-museo-helga-de-alvear.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

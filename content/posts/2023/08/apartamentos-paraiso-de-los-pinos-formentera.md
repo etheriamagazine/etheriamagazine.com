@@ -3,6 +3,7 @@ title: "Paraíso de los Pinos, el refugio que necesitas en Formentera"
 date: 2023-08-21
 cover: https://fotos.etheriamagazine.com/2023/08/paraiso-pinos-formentera-exterior.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

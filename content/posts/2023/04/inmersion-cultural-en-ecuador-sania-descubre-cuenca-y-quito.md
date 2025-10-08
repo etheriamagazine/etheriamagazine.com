@@ -3,7 +3,8 @@ title: "Inmersión cultural en Ecuador, Sania descubre Cuenca y Quito"
 date: 2023-04-17
 cover: https://fotos.etheriamagazine.com/2023/04/sania-ecuador-cuenca-catedral.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 tags: 
   - mundo

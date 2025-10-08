@@ -3,6 +3,7 @@ title: "Freud en Viena, una ruta siguiendo los pasos del padre del psicoanálisi
 date: 2020-04-17
 cover: https://fotos.etheriamagazine.com/2020/04/ruta-freud-Cafe-Central.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - europa

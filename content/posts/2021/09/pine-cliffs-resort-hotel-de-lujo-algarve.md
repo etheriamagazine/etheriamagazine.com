@@ -3,7 +3,8 @@ title: "Pine Cliffs Resort, un hotel de lujo para un viaje con niños al Algarve
 date: 2021-09-08
 cover: https://fotos.etheriamagazine.com/2021/09/pine-cliffs-resort-champagne-bar.jpg
 categories: 
-  - viajar-en-familia
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa
@@ -11,7 +12,10 @@ authors:
   - Susana García
 ---
 
-El Algarve es uno de esos destinos al que es muy fácil querer volver. El Pine Cliffs Resort le aporta además la comodidad de un hotel de cinco estrellas perfecto para familias. Te contamos algunos de los secretos de este gran hotel donde no dedicaréis ni un minuto al aburrimiento.
+El Algarve es uno de esos destinos al que es muy fácil querer volver. El Pine Cliffs 
+Resort le aporta además la comodidad de un hotel de cinco estrellas perfecto para 
+familias. Te contamos algunos de los secretos de este gran hotel donde no dedicaréis ni 
+un minuto al aburrimiento. 
 
 ![Vista general de parte del hotel Pine Cliffs Resort.](https://fotos.etheriamagazine.com/2021/09/Pine-cliffs-general.jpg "Vista general de parte del hotel Pine Cliffs Resort.")
 
@@ -29,6 +33,8 @@ Es uno de esos hoteles por los que se puede pasear y explorar, incluso en bicicl
 segway, por lo que es perfecto para viajar con niños. 
 
 ![Camino desde el Pine Cliffs Resort hacia la playa de Falésia.](https://fotos.etheriamagazine.com/2021/09/pine-cliffs-resort-bajada-playa.jpg "Camino desde el Pine Cliffs Resort hacia la playa de Falésia.")
+
+## La playa de Falèsia
 
 El Pine Cliffs se encuentra sobre la **playa de Falésia**, a la que se llega tras bajar 
 el acantilado por escaleras o ascensor y dando después un corto paseo por las pasarelas 

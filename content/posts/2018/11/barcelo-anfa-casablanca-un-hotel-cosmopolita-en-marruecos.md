@@ -3,6 +3,7 @@ title: "Barceló Anfa Casablanca, un hotel cosmopolita en Marruecos"
 date: 2018-11-29
 cover: https://fotos.etheriamagazine.com/2018/11/Barcelo-anfa-casablanca-2.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - mundo

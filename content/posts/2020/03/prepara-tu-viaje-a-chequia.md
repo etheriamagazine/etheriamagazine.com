@@ -3,7 +3,8 @@ title: "Libros y películas para preparar tu viaje a Chequia"
 date: 2020-03-31
 cover: https://fotos.etheriamagazine.com/2020/03/preparar-viaje-chequia.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - cultura
 authors: 
   - Redacción Etheria

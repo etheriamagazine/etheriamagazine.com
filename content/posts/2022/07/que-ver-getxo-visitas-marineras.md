@@ -3,6 +3,7 @@ title: "Getxo, la escapada marinera con mejor rollo de Bizkaia"
 date: 2022-07-20
 cover: https://fotos.etheriamagazine.com/2022/07/Puerto-Viejo-de-Algorta.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - españa

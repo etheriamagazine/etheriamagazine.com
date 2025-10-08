@@ -3,8 +3,8 @@ title: "15 planes en Ibiza que puedes hacer en invierno"
 date: 2021-11-05
 cover: https://fotos.etheriamagazine.com/2021/10/cala-ibiza-con-amigas.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-en-pareja
-  - ocio
 tags: 
   - españa
 authors: 

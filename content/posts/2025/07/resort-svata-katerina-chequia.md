@@ -4,6 +4,7 @@ date: 2025-07-08
 cover: https://fotos.etheriamagazine.com/2025/07/pabellon-ayurveda-svata-katerina.jpg
 categories: 
   - viajar-sola
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

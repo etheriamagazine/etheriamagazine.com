@@ -3,6 +3,7 @@ title: "11 razones por las que deberías viajar a Noruega"
 date: 2018-12-13
 cover: https://fotos.etheriamagazine.com/2018/11/haholmen-Noruega-Etheria-12.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - europa

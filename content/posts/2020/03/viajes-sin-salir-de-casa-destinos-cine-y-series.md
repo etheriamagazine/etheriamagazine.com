@@ -3,15 +3,17 @@ title: "Despierta tu lado más friki: 9 destinos de cine y series"
 date: 2020-03-20
 cover: https://fotos.etheriamagazine.com/2019/06/viajes-cine-malta-juego-tronos.jpg
 categories: 
-  - inspiración
-  - ocio
+  - estilo-de-vida
+  - cultura
 tags: 
   - mundo
 authors: 
   - Redacción Etheria
 ---
 
-¿Eres cinéfila o seriéfila? ¿O quizá las dos cosas? Si, además, eres viajera no te pierdas este artículo donde te proponemos nueve destinos que podrás recorrer a través de los ojos de tus personajes favoritos. ¿Te vienes?
+¿Eres cinéfila o seriéfila? ¿O quizá las dos cosas? Si, además, eres viajera no te 
+pierdas este artículo donde te proponemos nueve destinos que podrás recorrer a través de 
+los ojos de tus personajes favoritos. ¿Te vienes? 
 
 ![protagonistas de Foodie Love](https://fotos.etheriamagazine.com/2019/12/pelicula-foodie-love.jpg "Cartel de 'Foodie Love'. ©HBO")
 

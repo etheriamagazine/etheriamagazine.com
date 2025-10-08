@@ -3,8 +3,10 @@ title: "En Módena las mujeres prefieren Lamborghinis"
 date: 2019-04-04
 cover: https://fotos.etheriamagazine.com/2019/03/viaje-modena-lujo.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
 authors: 
   - Pedro Grifol
 ---

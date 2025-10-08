@@ -4,6 +4,7 @@ date: 2020-02-05
 cover: https://fotos.etheriamagazine.com/2020/01/Kiev-san-miguel-de-las-cupulas-doradas.jpg
 categories: 
   - viajar-con-amigas
+  - estilo-de-vida
   - ocio
 tags: 
   - europa

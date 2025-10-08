@@ -3,7 +3,8 @@ title: "Qué debes tener en cuenta para viajar a Galápagos"
 date: 2018-09-29
 cover: https://fotos.etheriamagazine.com/2018/09/tortuga-islas-galapagos.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - mundo

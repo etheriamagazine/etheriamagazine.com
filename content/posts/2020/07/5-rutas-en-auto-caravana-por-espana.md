@@ -3,6 +3,8 @@ title: "5 rutas en autocaravana por España para disfrutar de mar y de montaña"
 date: 2020-07-23
 cover: https://fotos.etheriamagazine.com/2020/07/rutas-auto-caravana-espana.jpg
 categories: 
+  - viajar-con-amigas
+  - viajar-en-familia
   - viajar-sola
 tags: 
   - españa

@@ -3,7 +3,9 @@ title: "Claves básicas para elegir la mejor maleta para tu viaje"
 date: 2019-06-05
 cover: https://fotos.etheriamagazine.com/2019/06/como-elegir-maleta.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
+  - organiza-tu-viaje
   - que-llevar-en-la-maleta
 authors: 
   - Redacción Etheria

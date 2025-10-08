@@ -4,8 +4,6 @@ date: 2020-06-16
 cover: https://fotos.etheriamagazine.com/2020/06/mallorca-tren-soller.jpg
 categories: 
   - viajar-en-familia
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 

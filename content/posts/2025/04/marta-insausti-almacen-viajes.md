@@ -3,7 +3,8 @@ title: "Marta Insausti: \"Cuando me atreví a soñar sin miedo\""
 date: 2025-04-03
 cover: https://fotos.etheriamagazine.com/2025/03/Marta-insausti-Pakistan.jpeg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
 authors: 
   - Firmas invitadas
 ---

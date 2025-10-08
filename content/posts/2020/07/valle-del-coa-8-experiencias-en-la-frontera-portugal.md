@@ -3,6 +3,7 @@ title: "Valle del Côa. 8 experiencias en el corazón de Portugal"
 date: 2020-07-17
 cover: https://fotos.etheriamagazine.com/2020/07/pueblos-frontera-portugal-faia-brava.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - europa

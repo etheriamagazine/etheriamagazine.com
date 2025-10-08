@@ -4,7 +4,6 @@ date: 2018-10-18
 cover: https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-literas.jpg
 categories: 
   - viajar-sola
-  - hoteles
 tags: 
   - europa
 authors: 

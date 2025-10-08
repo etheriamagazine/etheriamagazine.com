@@ -3,6 +3,7 @@ title: "Pano di pinti, el tejido sagrado de Guinea Bissau"
 date: 2020-10-15
 cover: https://fotos.etheriamagazine.com/2020/10/telares-etnias-guinea-bissau.jpg
 categories: 
+  - estilo-de-vida
   - compras
 tags: 
   - mundo

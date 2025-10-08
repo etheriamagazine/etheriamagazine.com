@@ -3,7 +3,8 @@ title: "10 playas en España para disfrutar del verano"
 date: 2020-06-03
 cover: https://fotos.etheriamagazine.com/2020/05/playa-espana-la-graciosa.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - españa

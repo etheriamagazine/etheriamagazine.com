@@ -3,6 +3,8 @@ title: "The St. Regis Cairo, un nuevo hotel de lujo a orillas del Nilo"
 date: 2021-02-09
 cover: https://fotos.etheriamagazine.com/2021/02/hotel-st-regis-cairo-escalera.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - mundo
@@ -10,7 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-En Etheria Magazine nos encanta descubriros nuevas aperturas de hoteles. En este caso nos vamos a un lugar tan mágico como la orilla del Nilo a su paso por El Cairo para conocer el nuevo The St. Regis Cairo, que se ha convertido en uno de los referentes del turismo del lujo en la ciudad.
+En Etheria Magazine nos encanta descubriros nuevas aperturas de hoteles. En este caso 
+nos vamos a un lugar tan mágico como la orilla del Nilo a su paso por El Cairo para 
+conocer el nuevo The St. Regis Cairo, que se ha convertido en uno de los referentes del 
+turismo del lujo en la ciudad. 
 
 ![viajes a Egipto](https://fotos.etheriamagazine.com/2021/02/hotel-st-regis-cairo-Lobby.jpg "Lobby de The St. Regis Cairo.")
 

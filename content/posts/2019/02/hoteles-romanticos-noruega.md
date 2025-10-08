@@ -3,7 +3,8 @@ title: "Lugares originales donde practicar sexo en Noruega"
 date: 2019-02-16
 cover: https://fotos.etheriamagazine.com/2019/02/noruega-hoteles-romanticos-Tromso.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - hoteles
 tags: 
   - europa

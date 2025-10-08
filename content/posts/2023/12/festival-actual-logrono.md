@@ -3,6 +3,7 @@ title: "Festival Actual: tu primera cita cultural del año es en Logroño"
 date: 2023-12-14
 cover: https://fotos.etheriamagazine.com/2023/12/festival-actual-Chica-Sobresalto.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 authors: 
   - Redacción Etheria

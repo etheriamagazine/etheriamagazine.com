@@ -3,6 +3,7 @@ title: "Guía de viaje por el sur de Islandia, la isla del desafío"
 date: 2021-03-25
 cover: https://fotos.etheriamagazine.com/2018/09/PLAYA-VIK-e1562343946595.jpg
 categories: 
+  - organiza-tu-viaje
   - guias-de-destino
 tags: 
   - europa

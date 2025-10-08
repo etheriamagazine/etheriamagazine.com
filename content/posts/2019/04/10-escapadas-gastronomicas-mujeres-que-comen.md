@@ -4,7 +4,6 @@ date: 2019-04-10
 cover: https://fotos.etheriamagazine.com/2019/03/escapada-gastro-asado.jpg
 categories: 
   - viajar-con-amigas
-  - gourmet
 tags: 
   - españa
 authors: 

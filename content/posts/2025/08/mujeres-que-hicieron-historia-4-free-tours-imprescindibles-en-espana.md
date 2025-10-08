@@ -3,6 +3,7 @@ title: "Mujeres que hicieron historia, 4 free tours imprescindibles en España"
 date: 2025-08-28
 cover: https://fotos.etheriamagazine.com/2025/08/plaza-mayor-madrid.jpeg
 categories: 
+  - organiza-tu-viaje
   - excursiones
 tags: 
   - españa

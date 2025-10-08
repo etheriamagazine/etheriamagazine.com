@@ -4,7 +4,7 @@ date: 2022-03-29
 cover: https://fotos.etheriamagazine.com/2022/03/cerveza-bruselas.jpg
 categories: 
   - viajar-con-amigas
-  - gourmet
+  - viajar-en-familia
 tags: 
   - europa
 authors: 

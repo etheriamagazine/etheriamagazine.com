@@ -3,6 +3,7 @@ title: "Flores y pájaros se adueñan del Palacio de Cristal de Madrid"
 date: 2020-07-28
 cover: https://fotos.etheriamagazine.com/2020/07/flores-gigantes-el-retiro.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

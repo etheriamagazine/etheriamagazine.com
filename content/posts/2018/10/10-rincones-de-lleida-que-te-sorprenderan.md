@@ -5,7 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/10/globo-sierra-del-montsec.jpg
 categories: 
   - viajar-con-amigas
   - viajar-en-familia
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - españa

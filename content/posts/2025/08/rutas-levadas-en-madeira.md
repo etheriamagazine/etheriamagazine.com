@@ -3,7 +3,9 @@ title: "Senderismo en Madeira: cómo organizar una ruta en una levada"
 date: 2025-08-19
 cover: https://fotos.etheriamagazine.com/2025/08/madeira-levada-camino.jpg
 categories: 
+  - organiza-tu-viaje
   - excursiones
+  - estilo-de-vida
   - ocio
 tags: 
   - europa

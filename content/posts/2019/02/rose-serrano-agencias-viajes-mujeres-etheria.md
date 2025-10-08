@@ -3,6 +3,7 @@ title: "Rose Serrano: \"Viajar me ha hecho más paciente\""
 date: 2019-02-11
 cover: https://fotos.etheriamagazine.com/2019/02/travel-with-rose-china.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Pepa G. Marín

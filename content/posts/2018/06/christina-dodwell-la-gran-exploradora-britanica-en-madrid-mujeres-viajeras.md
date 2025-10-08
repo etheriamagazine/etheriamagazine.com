@@ -3,6 +3,7 @@ title: "Christina Dodwell, la gran exploradora de los siglos XX y XXI"
 date: 2018-06-01
 cover: https://fotos.etheriamagazine.com/2018/06/Christina-Dodwell-2.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Manena Munar

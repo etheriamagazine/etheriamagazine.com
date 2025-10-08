@@ -4,6 +4,7 @@ date: 2021-03-09
 cover: https://fotos.etheriamagazine.com/2021/03/segovia-Jardines-y-palacio-de-La-Granja.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

@@ -3,6 +3,8 @@ title: "The Ritz-Carlton Abama, un hotel de lujo para alejarse del mundo en Tene
 date: 2021-06-28
 cover: https://fotos.etheriamagazine.com/2021/06/hotel-abama-vistas.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa
@@ -10,7 +12,11 @@ authors:
   - Redacción Etheria
 ---
 
-Se puede decir que un hotel es de auténtico lujo cuando, además de la calidad de servicio que se presupone a un cinco estrellas, es capaz de proporcionar ese bienestar que hace que que unas vacaciones sean inolvidables. Todo esto lo consigue The Ritz-Carlton Abama, que se convertirá en uno de tus lugares favoritos de la isla de Tenerife.
+Se puede decir que un hotel es de auténtico lujo cuando, además de la calidad de 
+servicio que se presupone a un cinco estrellas, es capaz de proporcionar ese bienestar 
+que hace que que unas vacaciones sean inolvidables. Todo esto lo consigue The 
+Ritz-Carlton Abama, que se convertirá en uno de tus lugares favoritos de la isla de 
+Tenerife. 
 
 ![vistas del hotel Abama](https://fotos.etheriamagazine.com/2021/06/hotel-abama-vistas.jpg "The Ritz-Carlton Abama.")
 

@@ -3,7 +3,8 @@ title: "Croacia: consejos y visitas imprescindibles para tu primer viaje"
 date: 2021-01-22
 cover: https://fotos.etheriamagazine.com/2021/01/viaje-croacia-trogir.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - europa

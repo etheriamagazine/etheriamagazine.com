@@ -3,6 +3,7 @@ title: "Museo de los Aromas de Burgos, despierta tus sentidos en un lugar único
 date: 2024-12-18
 cover: https://fotos.etheriamagazine.com/2024/12/Museo-de-los-Aromas1.jpeg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 tags: 

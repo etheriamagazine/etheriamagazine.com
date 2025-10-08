@@ -3,6 +3,7 @@ title: "Machu Picchu y otros lugares imprescindibles de Perú"
 date: 2023-08-30
 cover: https://fotos.etheriamagazine.com/2023/08/Laguna-Huacachina.jpg
 categories: 
+  - organiza-tu-viaje
   - guias-de-destino
 tags: 
   - mundo

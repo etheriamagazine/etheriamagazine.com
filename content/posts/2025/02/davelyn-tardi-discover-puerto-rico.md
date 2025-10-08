@@ -3,6 +3,7 @@ title: "Davelyn Tardi, una voz femenina al frente de la comunicación en Discove
 date: 2025-02-05
 cover: https://fotos.etheriamagazine.com/2025/02/Davelyn-Tardi-Puerto-Rico-naturaleza.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Susana García

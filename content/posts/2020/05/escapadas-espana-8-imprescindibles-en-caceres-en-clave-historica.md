@@ -4,8 +4,6 @@ date: 2020-05-26
 cover: https://fotos.etheriamagazine.com/2020/04/viaje-mujeres-solas-caceres.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 

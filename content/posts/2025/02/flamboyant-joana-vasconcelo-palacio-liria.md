@@ -3,6 +3,7 @@ title: "Flamboyant, Joana Vasconcelos se divierte en el Palacio de Liria"
 date: 2025-02-18
 cover: https://fotos.etheriamagazine.com/2025/02/portada-Joana-Vasconcelos-Etheria-Magazine.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

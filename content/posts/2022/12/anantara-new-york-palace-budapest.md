@@ -3,6 +3,8 @@ title: "Anantara New York Palace, tu hotel de lujo en Budapest"
 date: 2022-12-09
 cover: https://fotos.etheriamagazine.com/2022/12/Anantara-budapest-fachada.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa
@@ -10,10 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-**En el centro histórico de Budapest se levanta el Anantara New York Palace ocupando un 
+En el centro histórico de Budapest se levanta el Anantara New York Palace ocupando un 
 precioso palacio de la Belle Époque con influencias del Renacimiento italiano, el 
 Barroco, el Gótico y el _art nouveau_. Regálate la experiencia de disfrutar de una 
-ciudad llena de estilo alojándote en un hotel de lujo como éste.** 
+ciudad llena de estilo alojándote en un hotel de lujo como éste. 
 
 ![palacio del Anantara New York Palace de Budapest](https://fotos.etheriamagazine.com/2022/12/Anantara-budapest-fachada.jpg "Fachada del Anantara New York Palace de Budapest.")
 

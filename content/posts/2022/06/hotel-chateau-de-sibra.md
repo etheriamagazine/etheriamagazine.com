@@ -3,7 +3,8 @@ title: "Château de Sibra, un alojamiento exclusivo en los Pirineos franceses"
 date: 2022-06-22
 cover: https://fotos.etheriamagazine.com/2022/06/chateaux-sibra-noche.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - hoteles
 tags: 
   - europa

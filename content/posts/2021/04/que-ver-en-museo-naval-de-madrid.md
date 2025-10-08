@@ -3,6 +3,7 @@ title: "Conoce el Museo Naval de Madrid y sus 10 piezas imprescindibles"
 date: 2021-04-30
 cover: https://fotos.etheriamagazine.com/2021/04/expediciones-museo-naval.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 tags: 

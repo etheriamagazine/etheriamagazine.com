@@ -4,7 +4,8 @@ date: 2023-06-26
 cover: https://fotos.etheriamagazine.com/2023/06/bodegas-franco-espanolas-tardeojpg.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - españa

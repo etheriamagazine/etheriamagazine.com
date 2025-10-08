@@ -3,6 +3,7 @@ title: "Visita rápida al Museo Thyssen-Bornemisza: 15 obras fundamentales"
 date: 2022-10-14
 cover: https://fotos.etheriamagazine.com/2022/10/thyssen-habitacion-hotel.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 tags: 
   - españa

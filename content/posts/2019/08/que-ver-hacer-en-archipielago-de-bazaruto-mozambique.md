@@ -4,8 +4,6 @@ date: 2019-08-21
 cover: https://fotos.etheriamagazine.com/2019/08/viaje-Mozambique-bazaruto-vilanculos-playa.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - mundo
 authors: 

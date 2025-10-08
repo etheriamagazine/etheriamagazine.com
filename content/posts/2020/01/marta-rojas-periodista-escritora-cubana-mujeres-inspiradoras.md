@@ -3,7 +3,8 @@ title: "Marta Rojas, de joven cronista a fecunda escritora"
 date: 2020-01-13
 cover: https://fotos.etheriamagazine.com/2020/01/cuba-marta-rojas-libro.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 authors: 
   - Manena Munar

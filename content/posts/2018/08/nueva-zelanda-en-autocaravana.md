@@ -4,8 +4,6 @@ date: 2018-08-21
 cover: https://fotos.etheriamagazine.com/2018/08/viaje-nueva-zelanda-caravana-Hobbiton.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - mundo
 authors: 

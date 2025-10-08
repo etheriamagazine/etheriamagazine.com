@@ -3,7 +3,8 @@ title: "Hotel Meliá Sol y Nieve, un clásico para esquiar en Sierra Nevada"
 date: 2022-01-28
 cover: https://fotos.etheriamagazine.com/2022/01/Melia-Sol-y-Nieve-Yhi-Spa.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - hoteles
 tags: 
   - españa

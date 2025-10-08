@@ -3,6 +3,7 @@ title: "Cristina Jimena: \"En turismo puedo dar lo mejor de mí misma\""
 date: 2019-09-02
 cover: https://fotos.etheriamagazine.com/2019/09/cristina-jimena-Costa-Rica.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Pepa G. Marín

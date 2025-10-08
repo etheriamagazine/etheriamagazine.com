@@ -3,7 +3,8 @@ title: "12 playas de cine en España donde darse el primer chapuzón"
 date: 2021-07-19
 cover: https://fotos.etheriamagazine.com/2021/07/Playa-Torimbia-pelicula-el-abuelo.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - cultura
 tags: 
   - españa
 authors: 
@@ -201,7 +202,7 @@ Bollaín. En los últimos años las series han tomado el relevo de las película
 han rodado **_El Chiringuito de Pepe_**, y la sexta temporada de **_Juego de Tronos_** 
 de HBO. 
 
-![En 1961 se rodaba El Cid' en Peñíscola.](https://fotos.etheriamagazine.com/2021/07/playa-norte-pelicula-el-cid.jpg "En 1961 se rodaba © 'El Cid' en Peñíscola.")
+![En 1961 se rodaba El Cid' en Peñíscola.](https://fotos.etheriamagazine.com/2021/07/playa-norte-pelicula-el-cid.jpg "Rodaje de © 'El Cid' en Peñíscola en 1961.")
 
 **Sigue leyendo sobre otras playas...** 
 

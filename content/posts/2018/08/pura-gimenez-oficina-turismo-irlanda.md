@@ -3,6 +3,7 @@ title: "Pura Giménez: \"Creo que el mejor compañero de viaje es alguien con qu
 date: 2018-08-27
 cover: https://fotos.etheriamagazine.com/2018/08/pura-gimenez-turismo-irlanda.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Pepa G. Marín

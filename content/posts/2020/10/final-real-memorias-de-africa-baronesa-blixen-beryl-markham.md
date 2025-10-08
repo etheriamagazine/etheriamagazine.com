@@ -3,7 +3,8 @@ title: "‘Memorias de África’ más allá de Robert Redford y Meryl Streep"
 date: 2020-10-12
 cover: https://fotos.etheriamagazine.com/2020/09/memorias-africa-Paisaje-de-Kenia.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 authors: 
   - Pedro Grifol

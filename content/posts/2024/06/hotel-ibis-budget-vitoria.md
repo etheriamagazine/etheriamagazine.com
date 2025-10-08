@@ -3,6 +3,7 @@ title: "Ibis budget Vitoria-Gasteiz, un hotel para disfrutar de Vitoria al mejor
 date: 2024-06-05
 cover: https://fotos.etheriamagazine.com/2024/06/hotel-ibis-budget-vitoria-fachada.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

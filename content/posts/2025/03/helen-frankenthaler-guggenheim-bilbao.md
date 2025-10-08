@@ -3,6 +3,7 @@ title: "Helen Frankenthaler en Guggenheim Bilbao, un viaje al color sin reglas"
 date: 2025-03-17
 cover: https://fotos.etheriamagazine.com/2025/03/Helen-Frankenthaler-Cassis.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

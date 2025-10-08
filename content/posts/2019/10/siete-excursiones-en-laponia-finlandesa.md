@@ -4,8 +4,6 @@ date: 2019-10-31
 cover: https://fotos.etheriamagazine.com/2019/10/Laponia-finlandesa-aurora-boreal.jpg
 categories: 
   - viajar-en-familia
-  - inspiración
-  - ocio
 tags: 
   - europa
 authors: 

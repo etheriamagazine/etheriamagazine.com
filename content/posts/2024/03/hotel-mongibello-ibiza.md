@@ -3,6 +3,7 @@ title: "Hotel Mongibello, el lugar donde gozar de la 'dolce vita' más ibicenca"
 date: 2024-03-27
 cover: https://fotos.etheriamagazine.com/2024/03/hotel-mongibello-recepcion.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

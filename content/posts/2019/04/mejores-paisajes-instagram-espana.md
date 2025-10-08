@@ -3,7 +3,8 @@ title: "7 paisajes que confirman que España es increíble"
 date: 2019-04-28
 cover: https://fotos.etheriamagazine.com/2019/04/navarra-bardenas-reales.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - españa

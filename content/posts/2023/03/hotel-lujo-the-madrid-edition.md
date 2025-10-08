@@ -3,6 +3,8 @@ title: "The Madrid EDITION, un hotel de lujo lleno de estilo"
 date: 2023-03-27
 cover: https://fotos.etheriamagazine.com/2023/03/hotel-madrid-edition-sala.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa
@@ -10,11 +12,11 @@ authors:
   - Redacción Etheria
 ---
 
-**La oferta hotelera de lujo de Madrid recibió con los brazos abiertos el pasado año a 
-The Madrid EDITION, un hotel de cinco estrellas en el corazón histórico de la ciudad. Su 
+La oferta hotelera de lujo de Madrid recibió con los brazos abiertos el pasado año a The 
+Madrid EDITION, un hotel de cinco estrellas en el corazón histórico de la ciudad. Su 
 gusto por el diseño más rompedor, su apuesta por la buena gastronomía y su vocación de 
 ofrecer un remanso de paz en medio del bullicio de la ciudad son sus apuestas para 
-convertirse en el referente del lujo más exquisito de la capital.** 
+convertirse en el referente del lujo más exquisito de la capital. 
 
 ![Entrada al hotel The Madrid EDITION.](https://fotos.etheriamagazine.com/2023/03/hotel-madrid-edition-sala.jpg "Entrada al hotel The Madrid EDITION.")
 

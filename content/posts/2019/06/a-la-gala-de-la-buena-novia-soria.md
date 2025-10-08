@@ -3,6 +3,7 @@ title: "‘A la gala de la buena novia’, vestidos de boda desde el siglo XVIII
 date: 2019-06-16
 cover: https://fotos.etheriamagazine.com/2019/06/gala-buena-novia-moron-almazan-vestido.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 authors: 
   - Redacción Etheria

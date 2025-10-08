@@ -3,6 +3,7 @@ title: "Conoce la historia de Kristina de Noruega, la princesa nórdica que yace
 date: 2023-11-20
 cover: https://fotos.etheriamagazine.com/2023/11/calle-covarrubia.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - españa

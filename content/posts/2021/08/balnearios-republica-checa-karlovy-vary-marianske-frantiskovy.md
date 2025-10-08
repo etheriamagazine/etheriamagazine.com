@@ -4,7 +4,6 @@ date: 2021-08-13
 cover: https://fotos.etheriamagazine.com/2021/08/republica-checa-Karlovy-Vary.jpg
 categories: 
   - viajar-con-amigas
-  - bienestar
 tags: 
   - europa
 authors: 

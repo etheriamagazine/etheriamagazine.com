@@ -4,8 +4,6 @@ date: 2019-11-21
 cover: https://fotos.etheriamagazine.com/2019/11/casa-samurai.jpg
 categories: 
   - viajar-en-familia
-  - inspiración
-  - ocio
 tags: 
   - mundo
 authors: 

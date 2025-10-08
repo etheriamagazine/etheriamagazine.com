@@ -3,6 +3,7 @@ title: "Iberostar Grand Perast de Montenegro, tres motivos para dormir en este h
 date: 2018-08-29
 cover: https://fotos.etheriamagazine.com/2018/08/iberostar-perast-montenegro-hotel.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

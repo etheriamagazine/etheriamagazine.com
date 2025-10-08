@@ -4,6 +4,7 @@ date: 2025-03-19
 cover: https://fotos.etheriamagazine.com/2025/03/aranda-de-duero-tapa-concurso.jpg
 categories: 
   - viajar-con-amigas
+  - estilo-de-vida
   - ocio
 authors: 
   - Redacción Etheria

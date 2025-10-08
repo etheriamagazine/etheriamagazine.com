@@ -3,6 +3,7 @@ title: "Miguel Delibes, la voz de la España vaciada"
 date: 2021-01-18
 cover: https://fotos.etheriamagazine.com/2021/01/Delibes-retrato-perfil.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

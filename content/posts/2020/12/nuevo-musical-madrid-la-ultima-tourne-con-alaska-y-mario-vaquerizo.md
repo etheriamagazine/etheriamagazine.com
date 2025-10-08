@@ -3,6 +3,7 @@ title: "'La última tourné', el nuevo musical de Madrid que te hará reír entr
 date: 2020-12-03
 cover: https://fotos.etheriamagazine.com/2020/11/musical-madrid-2020-la-ultima-tourne.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 authors: 
   - Pilar Ortega

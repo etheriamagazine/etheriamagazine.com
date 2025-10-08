@@ -4,8 +4,6 @@ date: 2019-02-13
 cover: https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-Georgia-iglesia-e1637066928892.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - mundo
 authors: 

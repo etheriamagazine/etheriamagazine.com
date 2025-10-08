@@ -4,7 +4,6 @@ date: 2021-09-26
 cover: https://fotos.etheriamagazine.com/2021/09/miradores-Reserva-Biosfera-La-Siberia.jpg
 categories: 
   - viajar-en-familia
-  - ocio
 tags: 
   - españa
 authors: 

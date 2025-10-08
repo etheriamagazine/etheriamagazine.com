@@ -3,7 +3,9 @@ title: "'Una casa en Amargura', la esclavitud doméstica en Cuba contada por Eli
 date: 2020-04-30
 cover: https://fotos.etheriamagazine.com/2020/04/una-casa-en-amargura-cuba.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
+  - estilo-de-vida
   - cultura
   - mujeres-top
 authors: 

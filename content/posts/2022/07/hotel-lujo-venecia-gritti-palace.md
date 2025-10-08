@@ -3,6 +3,7 @@ title: "Alójate en The Gritti Palace y vive Venecia desde dentro de un palacio"
 date: 2022-07-29
 cover: https://fotos.etheriamagazine.com/2022/07/gritti-palace-terraza.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

@@ -3,6 +3,7 @@ title: "10 planes originales en Tokio: saca tu lado más friki"
 date: 2023-02-13
 cover: https://fotos.etheriamagazine.com/2023/02/tokio-friki.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 tags: 
   - mundo

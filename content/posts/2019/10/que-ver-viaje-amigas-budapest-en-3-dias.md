@@ -4,7 +4,8 @@ date: 2019-10-25
 cover: https://fotos.etheriamagazine.com/2019/10/palacio-real-budapest.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - europa
 authors: 

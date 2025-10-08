@@ -4,6 +4,7 @@ date: 2023-12-01
 cover: https://fotos.etheriamagazine.com/2023/11/budapest-hotel-dorothea-hall.jpg
 categories: 
   - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

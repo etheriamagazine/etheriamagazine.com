@@ -4,6 +4,7 @@ date: 2023-06-09
 cover: https://fotos.etheriamagazine.com/2023/06/sania-belice-buceo.jpg
 categories: 
   - viajar-sola
+  - entre-mujeres
   - mujeres-top
 tags: 
   - mundo

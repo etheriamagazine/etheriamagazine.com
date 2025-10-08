@@ -3,7 +3,9 @@ title: "Visita de la catedral de Toledo: 10 detalles que no puedes perderte"
 date: 2022-01-19
 cover: https://fotos.etheriamagazine.com/2022/01/Catedral-toledo-atardecer.jpg
 categories: 
+  - organiza-tu-viaje
   - excursiones
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

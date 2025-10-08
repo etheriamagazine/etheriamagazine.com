@@ -3,6 +3,7 @@ title: "Haloterapia y talasoterapia, conoce todos los beneficios de la sal"
 date: 2020-10-28
 cover: https://fotos.etheriamagazine.com/2020/10/beneficios-sal-Salt-Room.jpg
 categories: 
+  - estilo-de-vida
   - bienestar
 authors: 
   - Maria Miret

@@ -4,6 +4,8 @@ date: 2019-03-14
 cover: https://fotos.etheriamagazine.com/2019/03/chateau-amboise-1.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
+  - estilo-de-vida
   - ocio
 tags: 
   - europa

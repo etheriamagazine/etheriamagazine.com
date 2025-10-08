@@ -3,6 +3,7 @@ title: "Dulkamara Bamboo, cosmética ecológica que cuida tu piel, vayas donde v
 date: 2025-04-15
 cover: https://fotos.etheriamagazine.com/2025/04/dulkamara-savias-bambu.jpeg
 categories: 
+  - estilo-de-vida
   - bienestar
 authors: 
   - Redacción Etheria

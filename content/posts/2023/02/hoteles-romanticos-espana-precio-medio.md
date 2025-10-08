@@ -3,6 +3,7 @@ title: "Hoteles románticos en España, ni muy caros ni muy baratos"
 date: 2023-02-06
 cover: https://fotos.etheriamagazine.com/2023/02/hotel-teepee-romantico-avila.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

@@ -3,7 +3,8 @@ title: "8 series de televisión con las que viajar por el mundo"
 date: 2019-11-07
 cover: https://fotos.etheriamagazine.com/2019/10/escenarios-series-Cornualles-Poldark.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 authors: 
   - Redacción Etheria

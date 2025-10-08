@@ -4,6 +4,7 @@ date: 2023-06-12
 cover: https://fotos.etheriamagazine.com/2023/06/ruta-vino-arribes.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

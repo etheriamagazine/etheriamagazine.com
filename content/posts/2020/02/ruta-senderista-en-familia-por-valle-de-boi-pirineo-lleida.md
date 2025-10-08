@@ -4,6 +4,7 @@ date: 2020-02-28
 cover: https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-Barruera.jpg
 categories: 
   - viajar-en-familia
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

@@ -3,6 +3,7 @@ title: "Hacienda El Santiscal Adults Only, tu refugio en Arcos de la Frontera"
 date: 2019-04-29
 cover: https://fotos.etheriamagazine.com/2019/04/El-Santiscal-piscina.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

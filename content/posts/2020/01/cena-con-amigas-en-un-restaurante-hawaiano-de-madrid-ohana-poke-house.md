@@ -4,7 +4,6 @@ date: 2020-01-14
 cover: https://fotos.etheriamagazine.com/2020/01/restaurante-hawaiano-ohana-madrid.jpg
 categories: 
   - viajar-con-amigas
-  - gourmet
 tags: 
   - españa
 authors: 

@@ -4,7 +4,8 @@ date: 2019-12-12
 cover: https://fotos.etheriamagazine.com/2019/06/Cinco-Jotas-Bodega-plato-jamon.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - españa

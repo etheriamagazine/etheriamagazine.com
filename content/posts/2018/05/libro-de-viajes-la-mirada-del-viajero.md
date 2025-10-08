@@ -3,6 +3,7 @@ title: "La mirada del viajero, el nuevo libro de Latorre"
 date: 2018-05-16
 cover: https://fotos.etheriamagazine.com/2018/05/la-mirada-del-viajero.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 authors: 
   - Redacción Etheria

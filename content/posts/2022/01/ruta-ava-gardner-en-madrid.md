@@ -4,6 +4,7 @@ date: 2022-01-12
 cover: https://fotos.etheriamagazine.com/2022/01/hotel-intercontinental-hilton-gardner.jpg
 categories: 
   - viajar-con-amigas
+  - entre-mujeres
   - mujeres-top
 tags: 
   - españa

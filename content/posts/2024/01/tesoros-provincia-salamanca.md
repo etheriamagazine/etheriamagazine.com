@@ -3,7 +3,9 @@ title: "Siete tesoros de la provincia de Salamanca que os encantarán"
 date: 2024-01-12
 cover: https://fotos.etheriamagazine.com/2024/01/salamanca-mogarraz.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-en-pareja
+  - viajar-sola
 tags: 
   - españa
 authors: 

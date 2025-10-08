@@ -3,6 +3,7 @@ title: "Argelès-sur-Mer, 9 experiencias para enamorarte de esta comuna francesa
 date: 2023-10-04
 cover: https://fotos.etheriamagazine.com/2023/10/centro-argeles-sur-mer.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - europa

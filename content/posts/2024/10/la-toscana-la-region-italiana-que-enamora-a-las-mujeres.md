@@ -3,6 +3,7 @@ title: "La Toscana, la región italiana que enamora a las mujeres"
 date: 2024-10-24
 cover: https://fotos.etheriamagazine.com/2024/10/toscana-Crete-Senesi.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - europa

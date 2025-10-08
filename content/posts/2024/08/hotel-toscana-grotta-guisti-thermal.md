@@ -3,6 +3,8 @@ title: "Grotta Guisti Thermal Spa Resort, un hotel de lujo único en la Toscana"
 date: 2024-08-07
 cover: https://fotos.etheriamagazine.com/2024/07/Grotta-Giusti-Thermal-Spa-Resort-gruta.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

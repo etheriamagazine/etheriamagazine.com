@@ -4,6 +4,7 @@ date: 2020-04-29
 cover: https://fotos.etheriamagazine.com/2020/04/monasterio-leyre.jpg
 categories: 
   - viajar-con-amigas
+  - estilo-de-vida
   - gourmet
 authors: 
   - Vanesa Viñolo

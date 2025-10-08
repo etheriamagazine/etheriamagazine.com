@@ -3,6 +3,7 @@ title: "Inspired by her, un programa para mujeres de los hoteles MGallery by Sof
 date: 2018-07-18
 cover: https://fotos.etheriamagazine.com/2018/07/Hoteles-MGallery-para-mujeres.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 authors: 
   - Rebeca Ávila

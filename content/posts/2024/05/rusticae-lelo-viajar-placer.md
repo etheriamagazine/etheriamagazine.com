@@ -3,8 +3,9 @@ title: "Cómo hacer de viajar un placer con Rusticae y LELO"
 date: 2024-05-10
 cover: https://fotos.etheriamagazine.com/2024/05/rusticae-lelo-granada-juan-ranas.jpg
 categories: 
+  - estilo-de-vida
   - bienestar
-  - inspiración
+  - inspiracion
 authors: 
   - Redacción Etheria
 ---

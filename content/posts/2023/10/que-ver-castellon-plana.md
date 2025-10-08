@@ -4,6 +4,7 @@ date: 2023-10-02
 cover: https://fotos.etheriamagazine.com/2023/10/farola-modernista-castellon.jpg
 categories: 
   - viajar-con-amigas
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

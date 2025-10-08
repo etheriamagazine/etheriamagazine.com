@@ -4,8 +4,6 @@ date: 2019-09-18
 cover: https://fotos.etheriamagazine.com/2019/09/luna-de-miel.jpg
 categories: 
   - viajar-en-pareja
-  - inspiración
-  - ocio
 authors: 
   - Redacción Etheria
 ---

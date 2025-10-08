@@ -3,9 +3,10 @@ title: "Mujeres de Tanzania, el turismo como herramienta de empoderamiento"
 date: 2022-03-07
 cover: https://fotos.etheriamagazine.com/2022/03/mujeres-tanzania-active-woman.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
-  - proyectos
+  - proyectos-con-alma
 authors: 
   - Firmas invitadas
 ---

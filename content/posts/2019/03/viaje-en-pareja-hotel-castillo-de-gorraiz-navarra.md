@@ -3,6 +3,7 @@ title: "Castillo de Gorraiz Golf & Spa, perfecto para una escapada en pareja a N
 date: 2019-03-20
 cover: https://fotos.etheriamagazine.com/2019/03/hotel-castillo-gormaiz-Exterior-hotel-general.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

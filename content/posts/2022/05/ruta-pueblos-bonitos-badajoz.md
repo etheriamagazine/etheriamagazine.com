@@ -4,6 +4,7 @@ date: 2022-05-03
 cover: https://fotos.etheriamagazine.com/2022/05/Villanueva-de-la-Serena-iglesia-asuncion.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

@@ -3,6 +3,7 @@ title: "Fiesta de las Cabezadas de León, una celebración histórica llena de i
 date: 2021-04-23
 cover: https://fotos.etheriamagazine.com/2021/04/fiesta-las-cabezadas-leon.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 authors: 
   - Redacción Etheria

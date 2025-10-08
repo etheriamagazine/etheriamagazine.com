@@ -3,7 +3,7 @@ title: "Una escapada a la madrileña: sorteamos una experiencia en Finca Aal Cac
 date: 2025-05-24
 cover: https://fotos.etheriamagazine.com/2025/05/finca-hotel-rural-aal-cachucho-picnic.jpeg
 categories: 
-  - sorteos
+  - hemeroteca
 tags: 
   - españa
 authors: 

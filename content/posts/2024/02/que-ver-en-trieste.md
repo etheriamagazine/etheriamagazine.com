@@ -3,6 +3,7 @@ title: "Imprescindibles en Trieste, la Italia menos italiana"
 date: 2024-02-17
 cover: https://fotos.etheriamagazine.com/2024/02/trieste-Piazza-Unita.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-en-pareja
 tags: 
   - europa

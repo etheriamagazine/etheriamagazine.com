@@ -4,6 +4,7 @@ date: 2022-03-14
 cover: https://fotos.etheriamagazine.com/2022/03/plaza-central-wow-oporto-1.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - europa
 authors: 

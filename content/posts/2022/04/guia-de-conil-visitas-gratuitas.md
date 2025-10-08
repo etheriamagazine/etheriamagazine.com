@@ -3,6 +3,8 @@ title: "15 visitas que hacer en Conil y ninguna es una playa"
 date: 2022-04-13
 cover: https://fotos.etheriamagazine.com/2022/04/puerto-pesquero-conil.jpg
 categories: 
+  - viajar-con-amigas
+  - viajar-en-familia
   - viajar-sola
 tags: 
   - españa

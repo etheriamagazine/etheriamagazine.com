@@ -3,6 +3,8 @@ title: "Las Arenas Balneario Resort, un hotel de lujo en Valencia hecho para dis
 date: 2021-04-08
 cover: https://fotos.etheriamagazine.com/2021/04/hotel-las-arenas-piscina.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa
@@ -10,7 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-Nos encantan los hoteles que justifican en sí mismos una escapada y un buen representante es Las Arenas Balneario Resort. Este hotel de lujo en Valencia hace todavía más apetecible una visita a esta ciudad llena de alicientes y perfecta para recorrer en pareja o con amigas. ¿Te vienes?
+Nos encantan los hoteles que justifican en sí mismos una escapada y un buen 
+representante es Las Arenas Balneario Resort. Este hotel de lujo en Valencia hace 
+todavía más apetecible una visita a esta ciudad llena de alicientes y perfecta para 
+recorrer en pareja o con amigas. ¿Te vienes? 
 
 ![hoteles de lujo en Valencia](https://fotos.etheriamagazine.com/2021/04/hotel-las-arenas-noche.jpg "Las Arenas Balneario Resort.")
 

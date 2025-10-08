@@ -3,6 +3,7 @@ title: "10 libros que invitan a realizar rutas literarias"
 date: 2020-04-09
 cover: https://fotos.etheriamagazine.com/2020/04/venecia.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

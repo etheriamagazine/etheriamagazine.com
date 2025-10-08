@@ -4,6 +4,7 @@ date: 2024-08-17
 cover: https://fotos.etheriamagazine.com/2021/04/Agua-Amarga-playa.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

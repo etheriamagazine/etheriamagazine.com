@@ -3,6 +3,7 @@ title: "Meet Vincent van Gogh: la exhibición que te acerca la vida del genial p
 date: 2021-10-01
 cover: https://fotos.etheriamagazine.com/2021/09/meet-vicent-van-gogh-habitacion.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

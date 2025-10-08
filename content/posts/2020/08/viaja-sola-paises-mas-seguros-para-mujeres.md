@@ -4,7 +4,8 @@ date: 2020-08-12
 cover: https://fotos.etheriamagazine.com/2020/07/viajar-sola-inca-trail.jpg
 categories: 
   - viajar-sola
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 authors: 
   - Elisabeth G. Iborra
 ---

@@ -3,7 +3,8 @@ title: "Ruta en coche por Teruel, 10 paradas por carreteras secundarias"
 date: 2021-10-12
 cover: https://fotos.etheriamagazine.com/2021/10/Villarluengo-ruta-teruel.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - españa
 authors: 

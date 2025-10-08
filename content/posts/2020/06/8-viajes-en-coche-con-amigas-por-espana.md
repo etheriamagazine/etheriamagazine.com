@@ -3,7 +3,8 @@ title: "8 'road trips' con amigas por España"
 date: 2020-06-22
 cover: https://fotos.etheriamagazine.com/2019/05/playas-cadaques-costa-brva.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - españa

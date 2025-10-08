@@ -3,6 +3,7 @@ title: "La Rioja, la vendimia tiene alma de mujer"
 date: 2018-10-04
 cover: https://fotos.etheriamagazine.com/2018/10/1-bodega-bohedal-vino-flores.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 tags: 
   - españa

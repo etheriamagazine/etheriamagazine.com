@@ -3,7 +3,8 @@ title: "María Andresa Casamayor, la aragonesa que soñaba con números"
 date: 2020-12-21
 cover: https://fotos.etheriamagazine.com/2020/12/Fotograma-documental-maria-andresa-casamajor.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 authors: 
   - Carmen Pineda

@@ -3,7 +3,8 @@ title: "Siete películas navideñas que ayudan a superar la nostalgia viajera"
 date: 2020-12-24
 cover: https://fotos.etheriamagazine.com/2020/12/pelis-navidad-el-dia-de-la-bestia.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - cultura
 authors: 
   - Eva Madruga
 ---

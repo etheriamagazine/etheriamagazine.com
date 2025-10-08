@@ -3,6 +3,7 @@ title: "Vinho da Casa 2025, el brindis más exclusivo de Lisboa"
 date: 2025-05-06
 cover: https://fotos.etheriamagazine.com/2025/05/vinhos-da-casa-lisboa.jpeg
 categories: 
+  - estilo-de-vida
   - gourmet
 authors: 
   - Pepa G. Marín

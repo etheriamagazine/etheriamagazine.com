@@ -3,6 +3,7 @@ title: "Los Diablos de Luzón, la mascarada más tétrica y original de España"
 date: 2019-02-19
 cover: https://fotos.etheriamagazine.com/2019/02/carnaval-diablos-luzon-3.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

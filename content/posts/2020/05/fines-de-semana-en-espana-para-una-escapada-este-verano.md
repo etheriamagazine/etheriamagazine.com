@@ -4,7 +4,8 @@ date: 2020-05-14
 cover: https://fotos.etheriamagazine.com/2020/03/viaje-bizkaia-ver-ballenas.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - españa

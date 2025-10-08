@@ -3,6 +3,8 @@ title: "El Pabellón de los Hexágonos, la visita guiada en Madrid con plazas li
 date: 2024-03-25
 cover: https://fotos.etheriamagazine.com/2024/03/pabellon-hexagonos-madrid-portada.jpg
 categories: 
+  - viajar-con-amigas
+  - viajar-en-familia
   - viajar-sola
 tags: 
   - españa

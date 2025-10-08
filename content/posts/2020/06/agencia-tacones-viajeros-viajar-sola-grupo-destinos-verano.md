@@ -3,7 +3,8 @@ title: "Tacones Viajeros apuesta por balnearios, vinos, playa y montaña"
 date: 2020-06-09
 cover: https://fotos.etheriamagazine.com/2020/06/grupo-jordania-tacones-viajeros.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
 authors: 
   - Pepa G. Marín
 ---

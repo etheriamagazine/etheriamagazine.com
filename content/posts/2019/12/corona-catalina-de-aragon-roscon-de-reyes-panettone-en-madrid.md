@@ -3,6 +3,7 @@ title: "La Corona Catalina de Aragón y otras 4 delicias navideñas para disfrut
 date: 2019-12-29
 cover: https://fotos.etheriamagazine.com/2019/12/corona-catalina-ascaso.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 tags: 
   - españa

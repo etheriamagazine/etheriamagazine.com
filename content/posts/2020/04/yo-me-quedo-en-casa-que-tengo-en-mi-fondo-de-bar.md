@@ -3,6 +3,7 @@ title: "Cócteles para hacer con tu olvidado \"fondo de bar\""
 date: 2020-04-03
 cover: https://fotos.etheriamagazine.com/2020/04/cocteles-colores.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 authors: 
   - Pedro Grifol

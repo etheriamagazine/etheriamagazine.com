@@ -4,8 +4,6 @@ date: 2021-02-02
 cover: https://fotos.etheriamagazine.com/2021/01/viajar-ninos-europa-terceira.jpg
 categories: 
   - viajar-en-familia
-  - inspiración
-  - ocio
 tags: 
   - europa
 authors: 

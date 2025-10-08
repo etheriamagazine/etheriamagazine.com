@@ -4,7 +4,8 @@ date: 2022-07-22
 cover: https://fotos.etheriamagazine.com/2022/07/Setenil-cuevas-sombra.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - españa
 authors: 

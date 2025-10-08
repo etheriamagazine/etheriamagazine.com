@@ -3,6 +3,7 @@ title: "María Gudiel: \"Me gusta viajar sin agenda\""
 date: 2018-05-21
 cover: https://fotos.etheriamagazine.com/2018/05/Maria-Gudiel-1.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Pepa G. Marín

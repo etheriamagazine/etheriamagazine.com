@@ -4,8 +4,6 @@ date: 2020-03-06
 cover: https://fotos.etheriamagazine.com/2020/02/Tenerife-canadas-Teide.jpg
 categories: 
   - viajar-en-familia
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 

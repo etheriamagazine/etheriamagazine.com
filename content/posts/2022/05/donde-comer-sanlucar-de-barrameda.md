@@ -4,7 +4,8 @@ date: 2022-05-11
 cover: https://fotos.etheriamagazine.com/2022/05/sanlucar-langostinos.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - españa
 authors: 

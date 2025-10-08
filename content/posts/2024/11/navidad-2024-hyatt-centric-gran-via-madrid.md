@@ -3,6 +3,7 @@ title: "Hyatt Centric Gran Vía Madrid: sabores navideños en el corazón de la 
 date: 2024-11-25
 cover: https://fotos.etheriamagazine.com/2024/11/Hyatt-navidad-2024-Pintada-asada.jpeg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

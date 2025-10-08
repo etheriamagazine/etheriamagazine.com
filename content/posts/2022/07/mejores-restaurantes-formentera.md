@@ -3,8 +3,8 @@ title: "Dónde comer bien en Formentera sin perder de vista la mano femenina"
 date: 2022-07-27
 cover: https://fotos.etheriamagazine.com/2022/07/Formentera-Fandango.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
-  - gourmet
 tags: 
   - españa
 authors: 

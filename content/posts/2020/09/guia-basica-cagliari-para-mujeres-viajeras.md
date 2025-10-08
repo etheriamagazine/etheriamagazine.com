@@ -3,6 +3,7 @@ title: "Cagliari, un viaje con amigas de buen comer"
 date: 2020-09-17
 cover: https://fotos.etheriamagazine.com/2020/09/viajar-sola-Cagliari-Mirador-Croce.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - europa

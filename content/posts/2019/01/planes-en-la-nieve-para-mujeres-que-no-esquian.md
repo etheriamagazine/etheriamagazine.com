@@ -3,6 +3,8 @@ title: "Planes en la nieve para mujeres que no esquían"
 date: 2019-01-01
 cover: https://fotos.etheriamagazine.com/2018/12/viaje-nieve-Trineos-perros.jpg
 categories: 
+  - viajar-con-amigas
+  - viajar-en-familia
   - viajar-sola
 authors: 
   - Cristina R. Bareño

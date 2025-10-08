@@ -4,7 +4,6 @@ date: 2025-03-11
 cover: https://fotos.etheriamagazine.com/2025/03/sania-burnout-kuala-lumpur.jpg
 categories: 
   - viajar-sola
-  - historias
 authors: 
   - Sania Jelic
 ---

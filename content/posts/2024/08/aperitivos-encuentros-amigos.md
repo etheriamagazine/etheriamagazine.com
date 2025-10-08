@@ -3,6 +3,7 @@ title: "Aperitivos que sólo requieren de abrir o descorchar para un encuentro c
 date: 2024-08-11
 cover: https://fotos.etheriamagazine.com/2024/08/chips-smoky-paprika.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 authors: 
   - Etheria Magazine

@@ -4,7 +4,8 @@ date: 2019-11-21
 cover: https://fotos.etheriamagazine.com/2019/11/Vitoria-ciudad-medieval.jpg
 categories: 
   - viajar-sola
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - españa

@@ -3,6 +3,7 @@ title: "'El mundo como yo lo veo', nueva exposición en el Amàre Beach Hotel Ma
 date: 2019-07-13
 cover: https://fotos.etheriamagazine.com/2019/07/amare-beach-retrato-sole.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
   - cultura
 authors: 

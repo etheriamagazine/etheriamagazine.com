@@ -4,7 +4,8 @@ date: 2021-02-16
 cover: https://fotos.etheriamagazine.com/2021/02/ushguli-georgia.jpg
 categories: 
   - viajar-sola
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
 tags: 
   - europa
 authors: 

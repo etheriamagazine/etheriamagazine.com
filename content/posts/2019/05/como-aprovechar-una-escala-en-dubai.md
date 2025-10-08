@@ -4,8 +4,6 @@ date: 2019-05-31
 cover: https://fotos.etheriamagazine.com/2019/05/escala-Dubai-mirador-Burj-Khalifa.jpg
 categories: 
   - viajar-sola
-  - inspiración
-  - ocio
 tags: 
   - mundo
 authors: 

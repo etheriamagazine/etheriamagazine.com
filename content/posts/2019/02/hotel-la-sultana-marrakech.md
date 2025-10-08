@@ -3,6 +3,7 @@ title: "La Sultana o el sueño de una noche en Marrakech"
 date: 2019-02-27
 cover: https://fotos.etheriamagazine.com/2019/02/La-Sultana-Marrakech-suite.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - mundo

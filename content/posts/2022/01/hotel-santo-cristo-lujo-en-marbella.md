@@ -3,12 +3,15 @@ title: "Hotel Santo Cristo, el lujo discreto de los pequeños detalles"
 date: 2022-01-10
 cover: https://fotos.etheriamagazine.com/2022/01/Hotel-Santo-Cristo-terraza.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 authors: 
   - Redacción Etheria
 ---
 
-Marbella se puede disfrutar de muchas maneras y una que nos encanta es hacerlo desde su precioso casco histórico alojándonos en el hotel Santo Cristo, un nuevo hotel boutique de lujo lleno de encanto.
+Marbella se puede disfrutar de muchas maneras y una que nos encanta es hacerlo desde su 
+precioso casco histórico alojándonos en el hotel Santo Cristo, un nuevo hotel boutique 
+de lujo lleno de encanto. 
 
 ![Terraza del hotel Santo Cristo.](https://fotos.etheriamagazine.com/2022/01/Hotel-Santo-Cristo-terraza.jpg "Terraza del hotel Santo Cristo.")
 

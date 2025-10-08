@@ -4,6 +4,7 @@ date: 2022-02-18
 cover: https://fotos.etheriamagazine.com/2022/02/Platges-de-Comte.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

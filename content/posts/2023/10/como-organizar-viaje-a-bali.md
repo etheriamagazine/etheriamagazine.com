@@ -3,7 +3,8 @@ title: "Cómo organizar un viaje a Bali para aprovechar bien el tiempo"
 date: 2023-10-09
 cover: https://fotos.etheriamagazine.com/2023/10/bali-rafting-rio-ayung.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - mundo

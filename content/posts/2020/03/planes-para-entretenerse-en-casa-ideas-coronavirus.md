@@ -3,7 +3,8 @@ title: "Planes para no aburrirse en un finde casero, muy casero"
 date: 2020-03-27
 cover: https://fotos.etheriamagazine.com/2020/03/ritua-belleza-casa.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 authors: 
   - Redacción Etheria
 ---

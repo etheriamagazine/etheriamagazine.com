@@ -4,7 +4,6 @@ date: 2024-02-09
 cover: https://fotos.etheriamagazine.com/2024/02/sania-namibia-desierto-namib.jpg
 categories: 
   - viajar-sola
-  - mujeres-top
 tags: 
   - mundo
 authors: 

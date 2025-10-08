@@ -3,7 +3,8 @@ title: "La mujer bereber del Alto Atlas marroquí"
 date: 2019-04-01
 cover: https://fotos.etheriamagazine.com/2019/03/Valle-Ourika-mujer.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 tags: 
   - mundo

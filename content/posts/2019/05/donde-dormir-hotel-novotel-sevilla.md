@@ -3,6 +3,7 @@ title: "Novotel Sevilla, un hotel donde el tiempo está de tu parte"
 date: 2019-05-09
 cover: https://fotos.etheriamagazine.com/2019/05/lobby-novotel-sevilla.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

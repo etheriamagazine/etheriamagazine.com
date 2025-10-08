@@ -3,7 +3,8 @@ title: "10 pueblos bonitos de Galicia que no puedes perderte"
 date: 2023-09-22
 cover: https://fotos.etheriamagazine.com/2023/09/pueblos-galicia-puente-romano-allariz.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - españa

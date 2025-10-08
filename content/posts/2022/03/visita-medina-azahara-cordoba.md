@@ -3,7 +3,8 @@ title: "Visita de Medina Azahara, la excursión imprescindible en Córdoba"
 date: 2022-03-25
 cover: https://fotos.etheriamagazine.com/2022/03/medina-azahara-palacio.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - cultura
   - ocio
 tags: 

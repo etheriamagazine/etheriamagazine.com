@@ -3,6 +3,7 @@ title: "Analucía Rodríguez, las nuevas viajeras son nómadas digitales"
 date: 2019-02-25
 cover: https://fotos.etheriamagazine.com/2019/02/analucia-mujeres-etheria.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Pepa G. Marín

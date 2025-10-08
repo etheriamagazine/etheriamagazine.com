@@ -3,6 +3,8 @@ title: "Heredad Beragu, un refugio de lujo en un lugar secreto de Navarra"
 date: 2024-02-16
 cover: https://fotos.etheriamagazine.com/2024/02/heredad-beragu-navarra-terraza.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

@@ -4,8 +4,6 @@ date: 2023-06-29
 cover: https://fotos.etheriamagazine.com/2023/05/sania-subida-ciudad-perdida.jpg
 categories: 
   - viajar-sola
-  - inspiración
-  - mujeres-top
 authors: 
   - Sania Jelic
 ---

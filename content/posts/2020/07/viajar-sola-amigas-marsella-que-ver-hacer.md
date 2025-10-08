@@ -3,6 +3,7 @@ title: "Marsella en un fin de semana: experiencias imperdibles con amigas"
 date: 2020-07-10
 cover: https://fotos.etheriamagazine.com/2020/07/Marsella-puerto-atardecer.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - europa

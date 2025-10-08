@@ -3,7 +3,9 @@ title: "Lee Krasner, artista y esposa de Pollock, una reivindicación necesaria"
 date: 2021-08-06
 cover: https://fotos.etheriamagazine.com/2021/07/Combat-The-Pollock-Krasner.jpg
 categories: 
+  - estilo-de-vida
   - cultura
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Pilar Ortega

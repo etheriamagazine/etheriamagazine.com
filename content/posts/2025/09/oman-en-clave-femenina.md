@@ -3,6 +3,7 @@ title: "Omán en clave femenina,  otro de modo viajar es posible"
 date: 2025-09-08
 cover: https://fotos.etheriamagazine.com/2025/09/Mezquita-Ali-Musa-oman.jpeg
 categories: 
+  - entre-mujeres
   - mujeres-top
 tags: 
   - mundo

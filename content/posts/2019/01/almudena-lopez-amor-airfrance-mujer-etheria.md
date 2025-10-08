@@ -3,6 +3,7 @@ title: "Almudena López-Amor: \"París es una ciudad maravillosa e Islandia, un 
 date: 2019-01-14
 cover: https://fotos.etheriamagazine.com/2019/01/Almudena-Mujeres-Etheria-en-Bali-2014.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 tags: 
   - europa

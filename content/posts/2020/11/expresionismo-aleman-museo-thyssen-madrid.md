@@ -3,6 +3,7 @@ title: "Expresionismo alemán en el Thyssen-Bornemisza. La rebeldía del barón 
 date: 2020-11-09
 cover: https://fotos.etheriamagazine.com/2020/10/El-sueno-de-Franz-Marc.jpg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

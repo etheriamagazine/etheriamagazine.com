@@ -3,6 +3,7 @@ title: "Guía para hacer voluntariado y viajar al mismo tiempo"
 date: 2019-07-15
 cover: https://fotos.etheriamagazine.com/2019/06/viaje-voluntariado-kenia.jpg
 categories: 
+  - organiza-tu-viaje
   - guias-de-destino
 authors: 
   - Marina Paul

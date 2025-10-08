@@ -3,7 +3,7 @@ title: "Ruta gastronómica de 'Foodie Love' (HBO España)"
 date: 2019-12-16
 cover: https://fotos.etheriamagazine.com/2019/12/pelicula-foodie-love.jpg
 categories: 
-  - viajar-con-amigas
+  - estilo-de-vida
   - gourmet
 tags: 
   - españa
@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**'Foodie Love', la propuesta de Isabel Coixet en HBO, ya se ha convertido en la serie 
-del año para muchos y ha sido nominada a los Premios Feroz. En Etheria Magazine nos 
-interesa su trama, su fotografía y su escenografía pero de lo que os hablaremos, para no 
-hacer _spoiler_, es de la ruta gastronómica de sus protagonistas.** 
+'Foodie Love', la propuesta de Isabel Coixet en HBO, ya se ha convertido en la serie del 
+año para muchos y ha sido nominada a los Premios Feroz. En Etheria Magazine nos interesa 
+su trama, su fotografía y su escenografía pero de lo que os hablaremos, para no hacer 
+_spoiler_, es de la ruta gastronómica de sus protagonistas. 
 
 ![Cartel de Foodie Love](https://fotos.etheriamagazine.com/2019/12/pelicula-foodie-love.jpg "'Foodie Love'. ©HBO")
 

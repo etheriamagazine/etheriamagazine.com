@@ -3,8 +3,9 @@ title: "La experiencia de alojarse en un Ryokan en Japón"
 date: 2019-05-10
 cover: https://fotos.etheriamagazine.com/2019/04/Japon-Ryokan.jpg
 categories: 
+  - estilo-de-vida
   - bienestar
-  - inspiración
+  - inspiracion
   - hoteles
   - ocio
 tags: 

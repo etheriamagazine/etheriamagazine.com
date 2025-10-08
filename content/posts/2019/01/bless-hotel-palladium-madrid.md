@@ -3,6 +3,7 @@ title: "Bless Hotel Madrid, bienvenido a la capital"
 date: 2019-01-19
 cover: https://fotos.etheriamagazine.com/2019/01/Bless-Hotel-Madrid-divinity-suite2.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

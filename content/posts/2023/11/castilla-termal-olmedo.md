@@ -3,6 +3,7 @@ title: "Castilla Termal Olmedo, el retiro que Santa Teresa habría querido conoc
 date: 2023-11-25
 cover: https://fotos.etheriamagazine.com/2023/11/castilla-termal-olmedo-patio-mudejar.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

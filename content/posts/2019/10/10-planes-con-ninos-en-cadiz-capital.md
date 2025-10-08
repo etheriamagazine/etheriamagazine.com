@@ -4,8 +4,6 @@ date: 2019-10-17
 cover: https://fotos.etheriamagazine.com/2021/08/Andalucia-La-Caleta-Cadiz.jpg
 categories: 
   - viajar-en-familia
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 

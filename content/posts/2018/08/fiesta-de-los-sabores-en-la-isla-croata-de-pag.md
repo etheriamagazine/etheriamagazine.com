@@ -3,6 +3,7 @@ title: "Isla de Pag, descubre a qué sabe la \"Ibiza del Adriático\""
 date: 2018-08-16
 cover: https://fotos.etheriamagazine.com/2018/08/pag-croacia-queso-paskisir-e1653808083197.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 tags: 
   - europa

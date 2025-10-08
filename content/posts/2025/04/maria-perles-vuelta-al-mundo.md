@@ -4,8 +4,6 @@ date: 2025-04-28
 cover: https://fotos.etheriamagazine.com/2025/04/Maria-Perles-Mongolia.jpeg
 categories: 
   - viajar-sola
-  - historias
-  - mujeres-top
 tags: 
   - mundo
 authors: 

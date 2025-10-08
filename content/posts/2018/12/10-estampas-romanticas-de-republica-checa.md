@@ -3,6 +3,7 @@ title: "10 imprescindibles en el entorno del Parque Nacional Suiza de Bohemia"
 date: 2018-12-11
 cover: https://fotos.etheriamagazine.com/2018/12/republica-checa-viajes-mujeres-etheria-1.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - europa

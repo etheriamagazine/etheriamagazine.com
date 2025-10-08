@@ -3,6 +3,7 @@ title: "Escapada de fin de semana a Tomelloso, el alma de La Mancha"
 date: 2024-12-02
 cover: https://fotos.etheriamagazine.com/2024/12/tomelloso-bombos.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-en-pareja
 tags: 
   - españa

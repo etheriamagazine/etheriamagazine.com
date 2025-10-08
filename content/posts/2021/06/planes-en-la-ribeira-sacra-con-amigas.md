@@ -4,7 +4,6 @@ date: 2021-06-17
 cover: https://fotos.etheriamagazine.com/2021/06/que-hacer-en-ribeira-sacra.jpg
 categories: 
   - viajar-con-amigas
-  - ocio
 tags: 
   - españa
 authors: 

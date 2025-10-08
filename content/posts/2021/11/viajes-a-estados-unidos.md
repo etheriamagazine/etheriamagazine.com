@@ -3,7 +3,8 @@ title: "8 viajes para volver a Estados Unidos"
 date: 2021-11-03
 cover: https://fotos.etheriamagazine.com/2021/10/viajes-estados-unidos-golden-canyon.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - mundo

@@ -4,7 +4,8 @@ date: 2019-10-04
 cover: https://fotos.etheriamagazine.com/2019/09/Martinica-mont-pelee.jpg
 categories: 
   - viajar-en-pareja
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - mundo
 authors: 

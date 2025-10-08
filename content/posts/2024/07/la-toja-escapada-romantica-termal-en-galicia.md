@@ -4,8 +4,6 @@ date: 2024-07-08
 cover: https://fotos.etheriamagazine.com/2021/02/hotel-Eurostars-Isla-de-la-Toja.jpg
 categories: 
   - viajar-en-pareja
-  - bienestar
-  - ocio
 tags: 
   - españa
 authors: 

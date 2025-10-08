@@ -3,9 +3,9 @@ title: "Todo lo que no puedes perderte en un recorrido por la catedral de Burgos
 date: 2024-05-16
 cover: https://fotos.etheriamagazine.com/2024/05/catedral-burgos-capilla-condestable.jpg
 categories: 
-  - viajar-sola
-  - inspiración
+  - organiza-tu-viaje
   - excursiones
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

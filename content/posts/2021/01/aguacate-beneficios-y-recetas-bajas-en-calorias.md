@@ -3,6 +3,7 @@ title: "El aguacate, conoce sus beneficios y prepara recetas sencillas"
 date: 2021-01-26
 cover: https://fotos.etheriamagazine.com/2021/01/aguacates-rellenos.jpg
 categories: 
+  - estilo-de-vida
   - bienestar
   - gourmet
 authors: 

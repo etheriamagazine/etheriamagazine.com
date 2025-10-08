@@ -3,7 +3,8 @@ title: "Un viaje a Londres en diez películas inolvidables"
 date: 2020-12-11
 cover: https://fotos.etheriamagazine.com/2020/12/Una-pasteleria-en-Notting-Hill-londres.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - cultura
 tags: 
   - europa
 authors: 

@@ -4,6 +4,7 @@ date: 2020-05-13
 cover: https://fotos.etheriamagazine.com/2020/05/mont-rebei-gr1.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
 tags: 
   - españa
 authors: 

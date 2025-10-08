@@ -3,7 +3,8 @@ title: "‘Objetivo: Viajar Sola 2025’, el evento que empodera a las viajeras 
 date: 2025-05-06
 cover: https://fotos.etheriamagazine.com/2025/05/Objetivo-Viajar-Sola-Madrid.jpeg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 authors: 
   - Redacción Etheria

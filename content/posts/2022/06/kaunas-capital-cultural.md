@@ -3,6 +3,7 @@ title: "Qué ver en Kaunas, la bella desconocida de Lituania"
 date: 2022-06-28
 cover: https://fotos.etheriamagazine.com/2022/06/Kaunas-grafiti-lituania.jpg
 categories: 
+  - organiza-tu-viaje
   - guias-de-destino
 tags: 
   - europa

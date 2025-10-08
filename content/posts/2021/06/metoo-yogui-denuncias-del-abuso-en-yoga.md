@@ -3,6 +3,7 @@ title: "MeToo Yogui, cuando el yoga se utiliza para cometer abusos"
 date: 2021-06-18
 cover: https://fotos.etheriamagazine.com/2021/06/posturas-yoga.jpg
 categories: 
+  - estilo-de-vida
   - bienestar
 authors: 
   - Maria Miret

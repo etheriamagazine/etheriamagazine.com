@@ -3,8 +3,10 @@ title: "Cómo preparar la maleta para viajar a Laponia"
 date: 2018-09-15
 cover: https://fotos.etheriamagazine.com/2018/09/laponia-finlandia-vestimenta.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
+  - organiza-tu-viaje
   - que-llevar-en-la-maleta
 tags: 
   - europa

@@ -3,6 +3,7 @@ title: "Barbadillo Jazz Vejer, tu primer festival del verano es formato boutique
 date: 2025-06-02
 cover: https://fotos.etheriamagazine.com/2025/05/Festival-jazz-vejer-2.jpeg
 categories: 
+  - estilo-de-vida
   - ocio
 authors: 
   - Redacción Etheria

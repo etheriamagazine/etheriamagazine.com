@@ -4,8 +4,6 @@ date: 2021-08-25
 cover: https://fotos.etheriamagazine.com/2021/08/cordoba-alcazar-reyes-cristianos.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 

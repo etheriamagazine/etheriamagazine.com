@@ -3,7 +3,9 @@ title: "8 imprescindibles en tu maleta para hacer deporte cuando viajas"
 date: 2020-10-19
 cover: https://fotos.etheriamagazine.com/2020/10/viajar-deporte-mujer.jpg
 categories: 
+  - estilo-de-vida
   - compras
+  - organiza-tu-viaje
   - que-llevar-en-la-maleta
 authors: 
   - Redacción Etheria

@@ -3,6 +3,7 @@ title: "Pilar Gil: \"Los viajes se disfrutan desde la preparación previa\""
 date: 2018-07-02
 cover: https://fotos.etheriamagazine.com/2018/07/entrevista-pilar-gil-oporto.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Susana García

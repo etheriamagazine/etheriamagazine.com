@@ -3,6 +3,7 @@ title: "La vida de Carmen Castellote, la última poetisa en el exilio, llega al 
 date: 2021-06-23
 cover: https://fotos.etheriamagazine.com/2021/06/carmen-castellote-mexico-1995.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Manena Munar

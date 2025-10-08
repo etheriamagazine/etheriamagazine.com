@@ -3,7 +3,8 @@ title: "10 restaurantes para salir a cenar con amigas en Madrid"
 date: 2018-11-09
 cover: https://fotos.etheriamagazine.com/2018/11/restaurantes-amigas-madrid-lecoco.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - gourmet
   - ocio
 tags: 

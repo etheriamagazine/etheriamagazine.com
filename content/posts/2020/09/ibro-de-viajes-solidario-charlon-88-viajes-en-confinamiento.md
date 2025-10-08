@@ -3,6 +3,7 @@ title: "‘Soñar es viajar. 88 viajes en confinamiento’, un libro solidario d
 date: 2020-09-01
 cover: https://fotos.etheriamagazine.com/2020/09/libro-88-viajes-manuel-charlon.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 authors: 
   - Pepa G. Marín

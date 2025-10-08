@@ -3,7 +3,8 @@ title: "Guía esencial de Tarragona, pueblos y rutas que enamoran"
 date: 2022-11-23
 cover: https://fotos.etheriamagazine.com/2022/11/tarragona-delta-del-Ebro.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - españa
 authors: 

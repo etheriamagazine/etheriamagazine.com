@@ -3,6 +3,7 @@ title: "COMO Shambhala Estate, un hotel para el descanso en Ubud"
 date: 2023-11-17
 cover: https://fotos.etheriamagazine.com/2023/11/como-shambhala-residencia-Tirta-Ening.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - mundo

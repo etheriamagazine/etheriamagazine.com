@@ -3,6 +3,7 @@ title: "Toledo en un fin de semana, claves para aprovecharlo al máximo"
 date: 2022-02-28
 cover: https://fotos.etheriamagazine.com/2022/01/toledo-catedral-fachada.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - españa

@@ -3,6 +3,7 @@ title: "Balthus: Con él llegó el escándalo"
 date: 2019-02-27
 cover: https://fotos.etheriamagazine.com/2019/02/Therese-sonando-Balthus-Thyssen-Madrid.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 authors: 
   - Pedro Grifol

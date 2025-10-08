@@ -4,7 +4,6 @@ date: 2019-06-11
 cover: https://fotos.etheriamagazine.com/2019/05/viaje-marbella-la-Plaza.jpg
 categories: 
   - viajar-con-amigas
-  - ocio
 tags: 
   - españa
 authors: 

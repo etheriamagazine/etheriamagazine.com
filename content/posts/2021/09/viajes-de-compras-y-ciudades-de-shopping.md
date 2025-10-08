@@ -3,6 +3,7 @@ title: "12 ciudades donde el shopping debe estar en la agenda"
 date: 2021-09-07
 cover: https://fotos.etheriamagazine.com/2021/09/compras-londres.jpg
 categories: 
+  - estilo-de-vida
   - compras
 tags: 
   - mundo

@@ -3,7 +3,8 @@ title: "10 razones para viajar a Francia este verano"
 date: 2022-03-04
 cover: https://fotos.etheriamagazine.com/2022/03/seine-a-velo-Saint-Honorine.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - europa

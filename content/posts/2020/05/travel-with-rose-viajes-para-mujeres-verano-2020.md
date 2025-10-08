@@ -4,8 +4,6 @@ date: 2020-05-27
 cover: https://fotos.etheriamagazine.com/2020/05/travel-with-rose-mujeres.jpg
 categories: 
   - viajar-sola
-  - historias
-  - mujeres-top
 authors: 
   - Pepa G. Marín
 ---

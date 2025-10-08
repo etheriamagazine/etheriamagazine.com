@@ -4,6 +4,7 @@ date: 2025-01-03
 cover: https://fotos.etheriamagazine.com/2025/01/sania-japon-Santuario-Itsukushima.jpg
 categories: 
   - viajar-sola
+  - entre-mujeres
   - mujeres-top
 tags: 
   - mundo

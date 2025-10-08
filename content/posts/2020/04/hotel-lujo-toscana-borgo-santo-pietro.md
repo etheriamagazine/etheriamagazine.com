@@ -3,6 +3,7 @@ title: "Borgo Santo Pietro, el hotel donde te querrás quedar a vivir en la Tosc
 date: 2020-04-14
 cover: https://fotos.etheriamagazine.com/2020/03/borgo-santo-pietro-infinity-pool.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

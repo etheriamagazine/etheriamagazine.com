@@ -3,9 +3,11 @@ title: "La Ciudad del Vino, visita obligada en Burdeos"
 date: 2018-12-12
 cover: https://fotos.etheriamagazine.com/2018/11/Ciudad-Vino-Burdeos-1.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
-  - inspiración
+  - inspiracion
   - cultura
+  - organiza-tu-viaje
   - excursiones
 tags: 
   - europa

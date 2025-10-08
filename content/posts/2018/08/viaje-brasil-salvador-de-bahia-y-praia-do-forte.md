@@ -4,7 +4,8 @@ date: 2018-08-22
 cover: https://fotos.etheriamagazine.com/2018/08/Playa-Praia-do-Forte-viaje-brasil-e1578734128487.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - mundo
 authors: 

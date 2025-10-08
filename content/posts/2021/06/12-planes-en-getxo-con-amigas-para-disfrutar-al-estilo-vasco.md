@@ -4,7 +4,6 @@ date: 2021-06-14
 cover: https://fotos.etheriamagazine.com/2021/06/puerto-viejo-getxo-costa-vizcaya.jpg
 categories: 
   - viajar-con-amigas
-  - ocio
 tags: 
   - españa
 authors: 

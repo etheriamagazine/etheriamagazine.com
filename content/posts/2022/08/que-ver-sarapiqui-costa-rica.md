@@ -4,6 +4,7 @@ date: 2022-08-18
 cover: https://fotos.etheriamagazine.com/2022/08/turismo-rural-sarapiquí.jpg
 categories: 
   - viajar-con-amigas
+  - entre-mujeres
   - mujeres-top
 tags: 
   - mundo

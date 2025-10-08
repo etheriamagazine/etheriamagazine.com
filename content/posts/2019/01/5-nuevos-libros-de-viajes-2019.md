@@ -3,6 +3,7 @@ title: "Cinco  libros que merecen ser leídos"
 date: 2019-01-12
 cover: https://fotos.etheriamagazine.com/2019/01/libros-viajes.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 authors: 
   - Redacción Etheria

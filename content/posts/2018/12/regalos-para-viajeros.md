@@ -3,7 +3,8 @@ title: "Regala un viaje estas Navidades"
 date: 2018-12-15
 cover: https://fotos.etheriamagazine.com/2018/12/regalos-navidad.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 authors: 
   - Susana García

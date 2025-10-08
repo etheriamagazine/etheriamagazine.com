@@ -3,6 +3,7 @@ title: "Exposición PRIDE BTM (Blue Tongue Men) en Madrid"
 date: 2019-06-08
 cover: https://fotos.etheriamagazine.com/2019/06/PRIDE-BTM-5.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 authors: 
   - Redacción Etheria

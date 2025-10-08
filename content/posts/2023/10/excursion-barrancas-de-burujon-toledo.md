@@ -4,6 +4,8 @@ date: 2023-10-20
 cover: https://fotos.etheriamagazine.com/2023/10/barrancas-burujon-vistas.jpg
 categories: 
   - viajar-con-amigas
+  - viajar-en-familia
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

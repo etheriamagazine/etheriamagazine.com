@@ -4,6 +4,7 @@ date: 2023-03-13
 cover: https://fotos.etheriamagazine.com/2023/03/sania-sucre.jpg
 categories: 
   - viajar-sola
+  - entre-mujeres
   - mujeres-top
 tags: 
   - mundo

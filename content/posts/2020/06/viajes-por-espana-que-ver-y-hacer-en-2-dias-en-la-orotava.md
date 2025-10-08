@@ -3,6 +3,7 @@ title: "Descubre la dulzura de La Orotava (Tenerife)"
 date: 2020-06-20
 cover: https://fotos.etheriamagazine.com/2020/06/orotava-iglesia-concepcion.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - españa

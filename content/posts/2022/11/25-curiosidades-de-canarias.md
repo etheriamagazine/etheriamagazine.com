@@ -3,6 +3,7 @@ title: "25 curiosidades de Canarias que te sorprenderán"
 date: 2022-11-18
 cover: https://fotos.etheriamagazine.com/2022/11/portada-islas-canarias.jpg
 categories: 
+  - organiza-tu-viaje
   - guias-de-destino
 tags: 
   - españa

@@ -3,7 +3,9 @@ title: "Qué comer en Japón, platos que debes conocer"
 date: 2018-10-09
 cover: https://fotos.etheriamagazine.com/2018/10/viaje-japon-Soba-y-tempura.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
+  - estilo-de-vida
   - gourmet
 tags: 
   - mundo

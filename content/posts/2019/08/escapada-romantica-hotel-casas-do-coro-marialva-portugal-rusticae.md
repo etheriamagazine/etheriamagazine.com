@@ -3,6 +3,7 @@ title: "Una escapada romántica al hotel Casas do Côro"
 date: 2019-08-15
 cover: https://fotos.etheriamagazine.com/2019/07/Casas-do-coro-piscina.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

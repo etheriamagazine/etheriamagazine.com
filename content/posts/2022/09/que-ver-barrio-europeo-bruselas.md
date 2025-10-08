@@ -3,7 +3,8 @@ title: "10 paradas en una ruta por el Barrio Europeo de Bruselas"
 date: 2022-09-29
 cover: https://fotos.etheriamagazine.com/2022/09/bruselas-Edificio-Europa.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - europa
 authors: 

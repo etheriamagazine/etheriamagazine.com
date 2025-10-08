@@ -3,6 +3,7 @@ title: "Tres dulces navideños de Palma, recetas y consejos para hacerlos en cas
 date: 2021-11-19
 cover: https://fotos.etheriamagazine.com/2021/11/Coca-Bamba-palma-mallorca.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 authors: 
   - Redacción Etheria

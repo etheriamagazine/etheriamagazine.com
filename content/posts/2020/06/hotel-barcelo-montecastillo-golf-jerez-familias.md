@@ -3,6 +3,7 @@ title: "Barceló Montecastillo Golf & Sport Resort, un hotel de lujo en Jerez pa
 date: 2020-06-11
 cover: https://fotos.etheriamagazine.com/2020/05/Barcelo-Montecastillo-aperitivo.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa
@@ -10,7 +11,9 @@ authors:
   - Redacción Etheria
 ---
 
-Si estás buscando un hotel donde pasar unos días en familia con todas las comodidades, el Barceló Montecastillo Golf & Sport Resort te ofrece todo lo que puedas imaginar: tranquilidad, unas excelentes instalaciones y excursiones a la costa gaditana.
+Si estás buscando un hotel donde pasar unos días en familia con todas las comodidades, 
+el Barceló Montecastillo Golf & Sport Resort te ofrece todo lo que puedas imaginar: 
+tranquilidad, unas excelentes instalaciones y excursiones a la costa gaditana. 
 
 ![Campo de golf del hotel Montecastillo](https://fotos.etheriamagazine.com/2020/05/Barcelo-Montecastillo-golf.jpg "Hotel Barceló Montecastillo y su campo de golf.")
 

@@ -4,7 +4,8 @@ date: 2018-05-04
 cover: https://fotos.etheriamagazine.com/2018/05/Costa-Rica-recogiendo-cafe-e1551613563281.jpg
 categories: 
   - viajar-en-familia
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - mundo
 authors: 

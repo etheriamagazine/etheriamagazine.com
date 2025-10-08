@@ -3,13 +3,17 @@ title: "El Padrino vuelve a los cines en 4K para celebrar su 50 aniversario"
 date: 2022-02-23
 cover: https://fotos.etheriamagazine.com/2022/02/portada-El-Padrino-50-Anos.jpg
 categories: 
-  - inspiración
-  - gourmet
+  - estilo-de-vida
+  - cultura
 authors: 
   - Pedro Grifol
 ---
 
-Este año se cumple el 50 aniversario del estreno de la película _El Padrino_, la primera de la mítica trilogía, y vuelve a los cines el 25 de febrero en una versión completamente restaurada. Si aún no la has visto, "es una oferta que no podrás rechazar". Y, si ya eres fan, seguro que la disfrutarás con el cóctel homónimo entre las manos.
+Este año se cumple el 50 aniversario del estreno de la película _El Padrino_, la primera 
+de la mítica trilogía, y vuelve a los cines el 25 de febrero en una versión 
+completamente restaurada. Si aún no la has visto, "es una oferta que no podrás 
+rechazar". Y, si ya eres fan, seguro que la disfrutarás con el cóctel homónimo entre las 
+manos. 
 
 ![50 aniversario de pelicula el padrino](https://fotos.etheriamagazine.com/2022/02/El-Padrino-50-Aniversario.jpg "50 aniversario de El Padrino.")
 

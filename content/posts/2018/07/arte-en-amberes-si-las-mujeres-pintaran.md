@@ -3,6 +3,7 @@ title: "Mujeres que pintan y retrospectiva de Michaelina Wautier en Amberes"
 date: 2018-07-05
 cover: https://fotos.etheriamagazine.com/2018/07/Michaelina-Cortejo-de-Baco.jpg
 categories: 
+  - entre-mujeres
   - mujeres-top
 authors: 
   - Pedro Grifol

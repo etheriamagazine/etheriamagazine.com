@@ -3,6 +3,8 @@ title: "Anantara Villa Padierna, un hotel de lujo donde encontrar la paz en la c
 date: 2022-08-17
 cover: https://fotos.etheriamagazine.com/2022/08/Villa-padierna-piscina.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa
@@ -10,7 +12,11 @@ authors:
   - Susana García
 ---
 
-Marbella en verano es un polo de atracción de viajeros de todas partes del mundo por su excelente clima y su casi infinita oferta de ocio. Si quieres disfrutar de esta zona de Málaga desde la tranquilidad de un hotel de cinco estrellas apartado del bullicio, pero a sólo un paso de la actividad de Marbella y Estepona, elige el Anantara Villa Padierna Palace Benahavís Marbella Resort. Será un acierto seguro.
+Marbella en verano es un polo de atracción de viajeros de todas partes del mundo por su 
+excelente clima y su casi infinita oferta de ocio. Si quieres disfrutar de esta zona de 
+Málaga desde la tranquilidad de un hotel de cinco estrellas apartado del bullicio, pero 
+a sólo un paso de la actividad de Marbella y Estepona, elige el Anantara Villa Padierna 
+Palace Benahavís Marbella Resort. Será un acierto seguro. 
 
 ![Fachada del hotel de lujo Anantara Villa Padierna](https://fotos.etheriamagazine.com/2022/08/Villa-padierna-fachada.jpg "Anantara Villa Padierna Palace Benahavís Marbella Resort.")
 

@@ -4,8 +4,6 @@ date: 2022-07-07
 cover: https://fotos.etheriamagazine.com/2022/07/viena-Maria-Teresa-Platz.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - europa
 authors: 

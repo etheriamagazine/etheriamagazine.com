@@ -3,6 +3,7 @@ title: "¿Buscas un libro para leer o regalar este verano?"
 date: 2020-06-18
 cover: https://fotos.etheriamagazine.com/2020/06/libros-verano-2020.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 authors: 
   - Redacción Etheria

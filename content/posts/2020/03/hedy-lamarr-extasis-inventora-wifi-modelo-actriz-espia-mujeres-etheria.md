@@ -3,7 +3,8 @@ title: "Hedy Lamarr, inventora del wifi y protagonista del primer orgasmo (fingi
 date: 2020-03-30
 cover: https://fotos.etheriamagazine.com/2020/03/biografia-mujeres-inventoras-Hedy-Lamar.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 authors: 
   - Pedro Grifol

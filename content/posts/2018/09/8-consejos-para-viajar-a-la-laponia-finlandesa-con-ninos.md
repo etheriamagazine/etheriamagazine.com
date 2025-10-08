@@ -4,8 +4,6 @@ date: 2018-09-08
 cover: https://fotos.etheriamagazine.com/2018/04/Laponia-nina.jpg
 categories: 
   - viajar-en-familia
-  - inspiración
-  - ocio
 tags: 
   - europa
 authors: 

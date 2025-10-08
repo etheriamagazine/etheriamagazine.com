@@ -3,6 +3,7 @@ title: "Cocina madre, el tributo de Joan Roca a su mejor maestra"
 date: 2021-04-03
 cover: https://fotos.etheriamagazine.com/2019/03/libro-joan-rica-cocina-madre.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
   - cultura
 authors: 

@@ -3,6 +3,7 @@ title: "Barceló Monasterio de Boltaña, un hotel para desconectar"
 date: 2018-04-13
 cover: https://fotos.etheriamagazine.com/2018/04/Barcelo-Boltaña-4.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 authors: 
   - Pepa G. Marín

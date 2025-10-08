@@ -3,7 +3,9 @@ title: "Gadgets para sobrevivir a un vuelo largo de la mejor manera posible"
 date: 2025-04-01
 cover: https://fotos.etheriamagazine.com/2025/03/vuelos-larga-distancia-mujer.jpg
 categories: 
+  - estilo-de-vida
   - compras
+  - organiza-tu-viaje
   - que-llevar-en-la-maleta
 tags: 
   - ""

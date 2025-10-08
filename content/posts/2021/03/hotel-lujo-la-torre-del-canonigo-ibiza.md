@@ -3,6 +3,8 @@ title: "Hotel La Torre del Canónigo, un coqueto espacio de lujo en Ibiza"
 date: 2021-03-22
 cover: https://fotos.etheriamagazine.com/2021/03/hotel-canonigo-ibiza-terraza-habitacion.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa
@@ -10,7 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-La idea de viajar a Ibiza no puede ser más apetecible y aquí te proponemos preparar una escapada alojándote en el renovado hotel La Torre del Canónigo, miembro de Small Luxury Hotels of the World, que reabre esta primavera. Un plan perfecto para realizar en pareja o con amigas. ¿Te vienes?
+La idea de viajar a Ibiza no puede ser más apetecible y aquí te proponemos preparar una 
+escapada alojándote en el renovado hotel La Torre del Canónigo, miembro de Small Luxury 
+Hotels of the World, que reabre esta primavera. Un plan perfecto para realizar en pareja 
+o con amigas. ¿Te vienes? 
 
 ![hotel la torre del Canónigo](https://fotos.etheriamagazine.com/2021/03/hotel-canonigo-ibiza-vistas.jpg "Vistas de Ibiza desde La Torre del Canónigo.")
 

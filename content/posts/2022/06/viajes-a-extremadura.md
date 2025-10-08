@@ -3,7 +3,8 @@ title: "6 viajes a Extremadura para todo el año"
 date: 2022-06-27
 cover: https://fotos.etheriamagazine.com/2022/06/extremadura-Las-Hurdes.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - españa

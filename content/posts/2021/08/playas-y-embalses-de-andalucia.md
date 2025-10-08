@@ -4,8 +4,6 @@ date: 2021-08-10
 cover: https://fotos.etheriamagazine.com/2021/08/Andalucia-Cala-Rijana.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - españa
 authors: 

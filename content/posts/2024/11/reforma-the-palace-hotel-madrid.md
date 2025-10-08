@@ -3,6 +3,7 @@ title: "The Palace Hotel, Madrid, recupera su esplendor y se convierte en la nue
 date: 2024-11-04
 cover: https://fotos.etheriamagazine.com/2024/11/nueva-fachada-palace.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

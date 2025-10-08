@@ -3,7 +3,8 @@ title: "Un viaje desde Andalucía a los tesoros de Marruecos"
 date: 2024-11-19
 cover: https://fotos.etheriamagazine.com/2024/11/marruecos-ferry-chaouen.jpg
 categories: 
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - mundo
 authors: 

@@ -4,7 +4,8 @@ date: 2018-10-30
 cover: https://fotos.etheriamagazine.com/2018/10/Miradores-de-Lisboa-e1566028365742.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
 tags: 
   - europa
 authors: 

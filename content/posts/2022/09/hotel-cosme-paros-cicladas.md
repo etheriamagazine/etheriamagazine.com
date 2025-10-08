@@ -3,6 +3,8 @@ title: "Cosme, a Luxury Collection Resort, Paros, un refugio de lujo en las isla
 date: 2022-09-02
 cover: https://fotos.etheriamagazine.com/2022/08/cosme-paros-piscina.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa
@@ -10,10 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Las islas Cícladas son promesa de cielos azules y casas inmaculadas. Para vivirlas 
-algo más alejada de los principales focos turísticos de Mikonos y Santorini, elige la 
-isla de Paros. Y en ella el pequeño y recién inaugurado hotel Cosme, a Luxury Collection 
-Resort, Paros. Se convertirá en uno de tus sitios favoritos en el mundo.** 
+Las islas Cícladas son promesa de cielos azules y casas inmaculadas. Para vivirlas algo 
+más alejada de los principales focos turísticos de Mikonos y Santorini, elige la isla de 
+Paros. Y en ella el pequeño y recién inaugurado hotel Cosme, a Luxury Collection Resort, 
+Paros. Se convertirá en uno de tus sitios favoritos en el mundo. 
 
 ![infinity pool en la isla de Paros](https://fotos.etheriamagazine.com/2022/08/cosme-paros-piscina.jpg "Piscina del hotel Cosme Paros.")
 

@@ -3,6 +3,7 @@ title: "Cena por todo lo alto sin salir de casa en Logroño, Madrid, Valencia, M
 date: 2020-12-29
 cover: https://fotos.etheriamagazine.com/2020/12/restaurante-botanic-palma-mallorca.jpg
 categories: 
+  - estilo-de-vida
   - gourmet
 tags: 
   - españa

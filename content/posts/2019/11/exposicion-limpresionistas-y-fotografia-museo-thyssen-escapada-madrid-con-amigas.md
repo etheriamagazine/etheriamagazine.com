@@ -3,6 +3,7 @@ title: "Exposición ‘Los impresionistas y la fotografía’ en el Museo Thysse
 date: 2019-11-02
 cover: https://fotos.etheriamagazine.com/2019/10/exposicion-impresionistas-fotografia-personas-paisaje.jpg
 categories: 
+  - estilo-de-vida
   - cultura
 authors: 
   - Susana García

@@ -4,8 +4,6 @@ date: 2020-09-02
 cover: https://fotos.etheriamagazine.com/2018/07/Riquewihr-viñedos-e1557596568371.jpg
 categories: 
   - viajar-con-amigas
-  - inspiración
-  - ocio
 tags: 
   - europa
 authors: 

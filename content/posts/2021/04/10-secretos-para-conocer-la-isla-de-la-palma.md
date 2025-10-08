@@ -5,7 +5,8 @@ cover: https://fotos.etheriamagazine.com/2018/09/La-Palma-Viajes-mujeres-etheria
 categories: 
   - viajar-con-amigas
   - viajar-en-familia
-  - inspiración
+  - estilo-de-vida
+  - inspiracion
   - ocio
 tags: 
   - españa

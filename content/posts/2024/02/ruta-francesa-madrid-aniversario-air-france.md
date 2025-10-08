@@ -4,6 +4,7 @@ date: 2024-02-01
 cover: https://fotos.etheriamagazine.com/2024/02/air-france-carteles-historicos.jpg
 categories: 
   - viajar-sola
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

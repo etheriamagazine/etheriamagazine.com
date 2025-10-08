@@ -4,6 +4,7 @@ date: 2023-12-06
 cover: https://fotos.etheriamagazine.com/2023/12/madeira-luces-navidad.jpg
 categories: 
   - viajar-con-amigas
+  - estilo-de-vida
   - ocio
 tags: 
   - europa

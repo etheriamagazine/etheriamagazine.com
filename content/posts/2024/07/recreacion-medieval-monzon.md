@@ -3,6 +3,7 @@ title: "Recreación medieval en Monzón, el gran homenaje templario que no puede
 date: 2024-07-08
 cover: https://fotos.etheriamagazine.com/2024/07/Castillo-Monzon.jpg
 categories: 
+  - viajar-en-familia
   - viajar-en-pareja
 authors: 
   - Firmas invitadas

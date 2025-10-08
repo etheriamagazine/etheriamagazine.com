@@ -3,7 +3,8 @@ title: "Isabel Vázquez, dos años y 15.000 kilómetros en bicicleta por Latinoa
 date: 2025-05-12
 cover: https://fotos.etheriamagazine.com/2025/05/isabel-vaquez-ruta-vicunas-chile.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 tags: 
   - mundo

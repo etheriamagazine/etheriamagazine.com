@@ -4,6 +4,7 @@ date: 2022-05-20
 cover: https://fotos.etheriamagazine.com/2022/05/Casa-alberto.jpg
 categories: 
   - viajar-con-amigas
+  - estilo-de-vida
   - gourmet
 tags: 
   - españa

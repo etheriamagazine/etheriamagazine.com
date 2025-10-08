@@ -3,6 +3,7 @@ title: "'Yerba, el corazón verde de la trashumancia', la nueva exposición de K
 date: 2025-01-28
 cover: https://fotos.etheriamagazine.com/2025/01/Exposicion-yerba-04.jpeg
 categories: 
+  - estilo-de-vida
   - cultura
   - ocio
 authors: 

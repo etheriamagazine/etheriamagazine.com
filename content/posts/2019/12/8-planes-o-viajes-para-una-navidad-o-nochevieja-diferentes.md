@@ -3,9 +3,8 @@ title: "8 planes para pasar la Navidad o la Nochevieja sin 'cuñadismos'"
 date: 2019-12-09
 cover: https://fotos.etheriamagazine.com/2019/07/viaje-burgo-osma-castilla-termal.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
-  - inspiración
-  - ocio
 authors: 
   - Elisabeth G. Iborra
 ---

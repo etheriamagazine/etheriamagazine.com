@@ -4,7 +4,6 @@ date: 2021-03-31
 cover: https://fotos.etheriamagazine.com/2021/03/salamanca-En-la-parra.jpg
 categories: 
   - viajar-con-amigas
-  - ocio
 tags: 
   - españa
 authors: 

@@ -3,7 +3,8 @@ title: "Carolina Esteller: \"Seguimos conectadas y eso es maravilloso\""
 date: 2020-05-15
 cover: https://fotos.etheriamagazine.com/2020/05/carolina-estelle-mujer-y-viajera.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 authors: 
   - Pepa G. Marín

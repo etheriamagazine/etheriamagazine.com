@@ -3,6 +3,7 @@ title: "Hotel Tierra del Agua, otro santuario más en Asturias"
 date: 2020-07-30
 cover: https://fotos.etheriamagazine.com/2020/07/hotel-tierra-agua-habitacion.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

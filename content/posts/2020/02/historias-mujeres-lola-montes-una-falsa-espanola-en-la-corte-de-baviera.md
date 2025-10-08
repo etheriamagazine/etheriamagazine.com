@@ -3,7 +3,8 @@ title: "Lola Montes, una “falsa española” en la corte de Luis I de Baviera"
 date: 2020-02-04
 cover: https://fotos.etheriamagazine.com/2020/01/lola-montez-ludwig-bavaria.jpg
 categories: 
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
   - mujeres-top
 authors: 
   - Pilar Ortega

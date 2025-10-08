@@ -3,6 +3,7 @@ title: "Qué hacer en Finlandia en invierno lejos de Papá Noel"
 date: 2023-10-24
 cover: https://fotos.etheriamagazine.com/2023/10/sauna-finlandia.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-sola
 tags: 
   - europa

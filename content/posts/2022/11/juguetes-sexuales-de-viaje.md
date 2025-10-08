@@ -3,6 +3,7 @@ title: "Juguetes sexuales de viaje y países donde no debes llevarlos"
 date: 2022-11-14
 cover: https://fotos.etheriamagazine.com/2022/11/viaje-maldivas.jpg
 categories: 
+  - estilo-de-vida
   - compras
 authors: 
   - Maria Miret

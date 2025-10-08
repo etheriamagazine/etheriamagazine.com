@@ -3,6 +3,7 @@ title: "Hallstatt, el pueblo más bonito del mundo a orillas de un lago"
 date: 2020-05-15
 cover: https://fotos.etheriamagazine.com/2020/05/Hallstatt-iglesia-embarcadero.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-en-pareja
 tags: 
   - europa

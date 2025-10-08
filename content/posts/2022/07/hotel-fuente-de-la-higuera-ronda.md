@@ -3,6 +3,7 @@ title: "Hotel La Fuente de la Higuera, un rincón de paz a los pies de Ronda"
 date: 2022-07-13
 cover: https://fotos.etheriamagazine.com/2022/07/Fuente-higuera-piscina.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

@@ -4,7 +4,8 @@ date: 2020-05-25
 cover: https://fotos.etheriamagazine.com/2020/05/wom-agencia-viajes-mujeres.jpg
 categories: 
   - viajar-sola
-  - historias
+  - entre-mujeres
+  - historias-en-femenino
 tags: 
   - españa
 authors: 

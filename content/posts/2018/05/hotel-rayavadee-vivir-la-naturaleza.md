@@ -3,6 +3,8 @@ title: "Rayavadee, un resort de lujo inmerso en la naturaleza en Krabi"
 date: 2018-05-25
 cover: https://fotos.etheriamagazine.com/2018/05/The-Rayavadee-Villa_Exterior-Morning_Fotor-e1555063028881.jpg
 categories: 
+  - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - mundo
@@ -10,11 +12,11 @@ authors:
   - Susana García
 ---
 
-**Al llegar al hotel Rayavadee te invade la sensación de estar en medio de una 
-naturaleza casi intacta, respetada, ya que sus bungalows surgen en mitad de la selva 
-integrados entre la floresta. Situado en el corazón de la península de Phranang, en uno 
-de los extremos del Parque Nacional Marino de Krabi, es un lugar perfecto para explorar 
-este bello rincón del planeta.** 
+Al llegar al hotel Rayavadee te invade la sensación de estar en medio de una naturaleza 
+casi intacta, respetada, ya que sus bungalows surgen en mitad de la selva integrados 
+entre la floresta. Situado en el corazón de la península de Phranang, en uno de los 
+extremos del Parque Nacional Marino de Krabi, es un lugar perfecto para explorar este 
+bello rincón del planeta. 
 
 ![hotel krabi viajes familia niños love](https://fotos.etheriamagazine.com/2018/05/Rayavadee-monos.jpg "Los monos te acompañarán en tu estancia en el hotel Rayavadee.")
 

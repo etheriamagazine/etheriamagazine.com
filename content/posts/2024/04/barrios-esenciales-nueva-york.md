@@ -42,7 +42,7 @@ reloj, para terminar en el famoso y mil veces fotografiado puente de Brooklyn. S
 Island suele quedar al margen de las visitas, es un distrito poco frecuentado, 
 eminentemente residencial y con peor conexión con el resto de la ciudad. 
 
-✅ Excursiones [Contrastes de Nueva 
+Excursiones [Contrastes de Nueva 
 York](https://www.civitatis.com/es/nueva-york/contrastes-nueva-york/?aid=10211) y 
 [Contrastes de Nueva York 
 VIP](https://www.civitatis.com/es/nueva-york/contrastes-nueva-york-vip/?aid=10211) con 

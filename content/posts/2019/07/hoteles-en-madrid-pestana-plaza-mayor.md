@@ -3,6 +3,7 @@ title: "Pestana Plaza Mayor Madrid, un hotel que destila historia"
 date: 2019-07-04
 cover: https://fotos.etheriamagazine.com/2019/07/Pestana-Salon-Columnas-plaza-mayor.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

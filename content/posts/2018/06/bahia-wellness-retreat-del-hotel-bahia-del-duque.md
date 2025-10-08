@@ -4,6 +4,7 @@ date: 2018-06-12
 cover: https://fotos.etheriamagazine.com/2018/06/Spa-Thalassotherapy-Bahiadelduque-e1668768608982.jpg
 categories: 
   - viajes-de-lujo
+  - estilo-de-vida
   - hoteles
 tags: 
   - españa

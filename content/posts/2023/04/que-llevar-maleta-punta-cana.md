@@ -3,6 +3,7 @@ title: "Qué llevar en la maleta en un viaje a Punta Cana"
 date: 2023-04-07
 cover: https://fotos.etheriamagazine.com/2018/05/3-Republica-Dominicana-Sur-7.jpg
 categories: 
+  - organiza-tu-viaje
   - que-llevar-en-la-maleta
 tags: 
   - mundo

@@ -4,8 +4,6 @@ date: 2022-02-25
 cover: https://fotos.etheriamagazine.com/2022/02/Dubai-museo-del-futuro.jpg
 categories: 
   - viajar-en-familia
-  - inspiración
-  - ocio
 tags: 
   - mundo
 authors: 

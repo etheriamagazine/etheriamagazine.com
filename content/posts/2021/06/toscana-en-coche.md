@@ -3,6 +3,7 @@ title: "Ruta en coche para recorrer la Toscana en 7 días"
 date: 2021-06-01
 cover: https://fotos.etheriamagazine.com/2018/05/Toscana-coche-montalcino.jpg
 categories: 
+  - viajar-con-amigas
   - viajar-en-pareja
 tags: 
   - europa

@@ -3,6 +3,7 @@ title: "Plaza Athénée, un hotel de ensueño en París"
 date: 2018-11-21
 cover: https://fotos.etheriamagazine.com/2018/11/Suite-Haute-Couture-salon-HR-by-Francis-Amiand.jpg
 categories: 
+  - estilo-de-vida
   - hoteles
 tags: 
   - europa

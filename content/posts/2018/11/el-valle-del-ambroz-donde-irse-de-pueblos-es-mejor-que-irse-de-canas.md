@@ -3,6 +3,7 @@ title: "Valle del Ambroz, donde irse de pueblos es mejor que irse de cañas"
 date: 2018-11-16
 cover: https://fotos.etheriamagazine.com/2018/11/viaje-con-amigas-valle-ambroz-senderismo.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 tags: 
   - españa

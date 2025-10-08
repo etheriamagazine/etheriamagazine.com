@@ -4,8 +4,6 @@ date: 2025-01-22
 cover: https://fotos.etheriamagazine.com/2025/01/sun-mook-lago-taiwan.jpg
 categories: 
   - viajar-sola
-  - historias
-  - mujeres-top
 tags: 
   - mundo
 authors: 

@@ -3,6 +3,7 @@ title: "Festivales de Praga en otoño: diseño, arte y música"
 date: 2023-09-20
 cover: https://fotos.etheriamagazine.com/2023/09/praga-otono.jpg
 categories: 
+  - estilo-de-vida
   - ocio
 authors: 
   - Redacción Etheria

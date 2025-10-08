@@ -4,6 +4,7 @@ date: 2021-02-24
 cover: https://fotos.etheriamagazine.com/2021/02/planes-ninos-en-soria.jpg
 categories: 
   - viajar-en-familia
+  - estilo-de-vida
   - ocio
 tags: 
   - españa
