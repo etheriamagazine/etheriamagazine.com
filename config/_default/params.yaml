@@ -1,15 +1,15 @@
-
-
 # hugo-modules/sky-theme
 skytheme:
   home:
-    latestStories:
+    # categorías para seleccionar temas de portada
+    featured:
       - viajar-con-amigas
       - viajar-en-familia
       - viajar-en-pareja
       - viajar-sola
 
-    categoriesToDisplay:
+    # categorías a mostrar en home
+    categories:
       - viajar-con-amigas
       - viajar-en-familia
       - viajar-en-pareja

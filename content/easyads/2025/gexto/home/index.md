@@ -7,7 +7,6 @@ easyads:
   images:
     mobile: Getxo-cuadrado-para-movil.gif
     desktop: 1200x250-megabanner-Etheria-GETXO.gif
-
   target: 
     - home_1
 
