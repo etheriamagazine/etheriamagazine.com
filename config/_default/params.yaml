@@ -1,41 +1,7 @@
-# hugo-modules/sky-theme
-skytheme:
-  home:
-    # categorías para seleccionar temas de portada
-    featured:
-      - viajar-con-amigas
-      - viajar-en-familia
-      - viajar-en-pareja
-      - viajar-sola
-
-    # categorías a mostrar en home
-    categories:
-      - viajar-con-amigas
-      - viajar-en-familia
-      - viajar-en-pareja
-      - viajar-sola
-      - estilo-de-vida
-      - organizate
-
-# hugo-modules/metadata ->
-metadata:
-  author: Etheria Magazine
-  titleFormat: "%s — %s"
-  description: 1ª revista de viajes española para mujeres que les apasiona viajar
-  twitterUsername: etheriamagazine
-  image: logo-que-seguro-que-no-existe.svg
-  authorUrls:
-    - https://www.instagram.com/etheriamagazine/
-    - https://x.com/etheriamagazine
-    - https://www.facebook.com/etheriamagazine/
-    - https://www.pinterest.es/etheriamagazine/
-    - https://github.com/etheriamagazine
-
 
 gitinfo:
   repositoryUrl: https://github.com/etheriamagazine/etheriamagazine.com
   contentRoot: content
-
 
 imgproxy:
   enabled: true
@@ -62,6 +28,39 @@ plausible:
     error404: true
     customEvents: true
     customProps: true
+
+skytheme:
+  home:
+    # categorías para seleccionar temas de portada
+    featured:
+      - viajar-con-amigas
+      - viajar-en-familia
+      - viajar-en-pareja
+      - viajar-sola
+
+    # categorías a mostrar en home
+    categories:
+      - viajar-con-amigas
+      - viajar-en-familia
+      - viajar-en-pareja
+      - viajar-sola
+      - estilo-de-vida
+      - organizate
+
+seo:
+  author: Etheria Magazine
+  titleFormat: "%s — %s"
+  description: La revista de las mujeres viajeras
+  image: logo-que-seguro-que-no-existe.svg
+  social:
+    instagram: etheriamagazine
+    x: etheriamagazine
+    facebook: etheriamagazine
+    pinterest: etheriamagazine
+    github: etheriamagazine
+
+
+
 hugoEtheria:
   subscribeForm:
     action: /newsletter

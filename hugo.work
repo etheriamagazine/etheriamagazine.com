@@ -1,11 +1,7 @@
 go 1.24.1
 
 use .
-use ../hugo-mod-jslibs/minisearch
+use ../hugo-modules/analytics/plausible
 use ../hugo-modules/imgproxy
+use ../hugo-modules/seo
 use ../hugo-modules/sky-theme
-use ../hugo-modules/seo-tools/json-ld
-use ../hugo-modules/seo-tools/basic-seo
-use ../hugo-modules/seo-tools/plausible-analytics
-
-

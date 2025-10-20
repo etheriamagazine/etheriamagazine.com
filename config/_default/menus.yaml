@@ -136,11 +136,12 @@ main:
 
 
 footer:
-  - name: Política de privacidad
-    identifier: footer-100
-    pageRef: pages/politica-de-privacidad
+  - name: Aviso legal
+    pageRef: pages/aviso-legal
     weight: 1
-  - name: Política de cookies
-    identifier: footer-200
-    pageRef: pages/politica-de-cookies
+  - name: Política de privacidad
+    pageRef: pages/politica-de-privacidad
     weight: 2
+  - name: Política de cookies
+    pageRef: pages/politica-de-cookies
+    weight: 3

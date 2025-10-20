@@ -1,4 +1,6 @@
 github.com/etheriamagazine/hugo-modules/image-optimize v0.0.0-20241017082529-e533b07a56b7 h1:9u1dcZoPhp7B9pnjRlxsEcryfKC8JXZQITYPK1U5Y5o=
 github.com/etheriamagazine/hugo-modules/image-optimize v0.0.0-20241017082529-e533b07a56b7/go.mod h1:lkdm2MlEyTg7X2JIl91Jrn2PYb8maQ0kx4fvvx9NrlY=
+github.com/etheriamagazine/hugo-modules/seo-tools/basic-seo v0.0.0-20241028181144-20f1760e41a6 h1:HJC+PPFs7TSqCved5VbSSnblhbdf4ZRXYMqVUL4l+YM=
+github.com/etheriamagazine/hugo-modules/seo-tools/basic-seo v0.0.0-20241028181144-20f1760e41a6/go.mod h1:8X7C9lABk1lXLy6ybFGuKsXEq6A7cyK5C/cZxFvwY80=
 github.com/gethugothemes/hugo-modules/seo-tools/basic-seo v0.0.0-20240925042433-d2b5d05977e8 h1:cyhgsUNA0Kr172aab/Iy/K11KODP/lTzlOxuNY497vA=
 github.com/gethugothemes/hugo-modules/seo-tools/basic-seo v0.0.0-20240925042433-d2b5d05977e8/go.mod h1:Q8dPgjamV7pxwKSQyWV21Xwh5CGi23/k+M8HPTphYbs=
