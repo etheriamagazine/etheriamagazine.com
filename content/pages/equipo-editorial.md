@@ -19,7 +19,10 @@ params:
 
 ## Sobre Nosotras
 
-Etheria Magazine, es la primera revista de viajes dirigida a mujeres en España. Fue creada en 2018 por periodistas especializadas en turismo con una larga trayectoria en el sector editorial. Se centra en las necesidades de la mujer viajera y brinda los recursos informativos necesarios para disfrutar de cada escapada, ya sea sola, con amigas, en pareja o con toda la familia.
+Etheria Magazine, es la primera revista de viajes dirigida a mujeres en España.
+
+<!--more-->
+Fue creada en 2018 por periodistas especializadas en turismo con una larga trayectoria en el sector editorial. Se centra en las necesidades de la mujer viajera y brinda los recursos informativos necesarios para disfrutar de cada escapada, ya sea sola, con amigas, en pareja o con toda la familia.
 
 Los contenidos de EtheriaMagazine.com ponen el foco en la mujer como tomadora de decisiones en sus viajes y en los de su entorno cercano. Los artículos de destinos, cultura, gastronomía y salud se combinan con entrevistas e historias inspiradoras.
 
