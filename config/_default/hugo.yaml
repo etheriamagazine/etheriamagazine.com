@@ -13,3 +13,7 @@ markup:
 module:
   imports:
     - path: github.com/etheriamagazine/hugo-modules/sky-theme
+
+privacy:
+  youTube:
+    privacyEnhanced: true

@@ -1,27 +1,32 @@
 {{ define "main" }}
-  <h1 class="text-red-500">{{ .Title }}</h1>
 
+<div class="max-w-(--my-max-w) mx-auto px-4 mt-4 md:mt-8">
+  <h1
+    class="text-primary font-stretch-semi-condensed text-3xl font-light uppercase md:text-4xl text-center"
+  >
+    {{ .Title }}
+  </h1>
 
-  <div class="grid gap-4 grid-cols-1 md:grid-cols-3 grid-flow-row-dense">
+  <div class="grid gap-4 gap-y-8 grid-cols-1 md:grid-cols-3 my-8">
+    {{ range .Params.directoras }} {{ $author := index site.Taxonomies.authors
+    (lower .) }} {{ with and (gt $author.Count 0) $author }} {{ with .Page }} {{
+    .Render "summary"}} {{ end }} {{ end }} {{ end }}
 
-    <div class="rounded-2xl bg-primary-700 text-white prose prose:heading:text-white">
-     {{ .Content }}
-
-    </div>
-  {{ range (union .Params.directoras .Params.colaboradoras) }}
-
-    {{ $author := index site.Taxonomies.authors (lower .) }}
-
-    {{ with and (gt $author.Count 0) $author }}
-      {{ with .Page }}
-          {{ .Render "summary"}}
-      {{ end }}
-    {{  end }}
-  {{ end }}
+    <div class="rounded-xl p-4 prose bg-primary-100">{{ .Content }}</div>
   </div>
+  <h2
+    class="text-primary font-stretch-semi-condensed text-3xl font-light uppercase md:text-4xl text-center"
+  >
+    Colaboradoras
+  </h2>
 
-
-  <h3 class="text-4xl">Dirección</h3>
-
-  {{/* {{ partial "components/pagination.html" . }} */}}
-{{ end }}
+  <div
+    class="grid gap-4 gap-y-8 grid-cols-1 md:grid-cols-4 grid-flow-row-dense my-8"
+  >
+    {{ range .Params.colaboradoras }} {{ $author := index
+    site.Taxonomies.authors (lower .) }} {{ with and (gt $author.Count 0)
+    $author }} {{ with .Page }} {{ .Render "summary"}} {{ end }} {{ end }} {{
+    end }}
+  </div>
+</div>
+{{/* {{ partial "components/pagination.html" . }} */}} {{ end }}

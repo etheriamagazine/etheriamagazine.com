@@ -1,6 +1,7 @@
 ---
 title: "La Cañada Real Conquense con amigas, una escapada entre castillos, molinos y montañas"
 date: 2025-09-29
+lastmod: 2025-10-12
 cover: https://fotos.etheriamagazine.com/2025/09/caminos-merina-castillo-Belmonte.jpeg
 categories: 
   - viajar-con-amigas
@@ -28,7 +29,7 @@ Real Conquense**, uno de esos caminos pensados para viajar despacio, descubriend
 pueblos con historia, paisajes y tradiciones cuya riqueza no podemos permitir que 
 desaparezca. 
 
-YOUTUBE
+{{< youtube id=FMllHEX-nBA  >}}
 
 ## Caminos de la Merina
 
@@ -204,7 +205,7 @@ Trashumancia, donde se narra cómo durante siglos los pastores guiaban miles de 
 por estas mismas rutas. Y como broche final: **Albarracín**, uno de los pueblos más 
 bellos de España, con su laberinto de calles rojizas, murallas y vistas de postal. 
 
-YOUTUBE
+{{< youtube id=d51W8UmjBJA title="La ganadería de Diego González"  >}}
 
 ## Una declaración de amor
 

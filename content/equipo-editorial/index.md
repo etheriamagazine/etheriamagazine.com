@@ -14,6 +14,7 @@ params:
     - Sania Jelic
     - Elisabeth G. Iborra
     - Kelu Robles
+    - Alicia Bea
 ---
 
 

@@ -164,7 +164,7 @@ hotel, recrea para los huéspedes de Villa Servais. El cóctel ‘MisiaMosa’, 
 _signature_ del clásico ‘Mimosa’, se puede ver en el vídeo inferior (haciendo click) y 
 en el canal Grifol’s Bar de YouTube.com. 
 
-YOUTUBE
+{{< youtube id=gFJXg1730X8  >}}
 
 **Más información en:** 
 
