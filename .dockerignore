@@ -6,6 +6,7 @@
 !backend/
 !config/
 !content/
+!layouts/
 !static/
 !bun.lockb
 !Dockerfile
