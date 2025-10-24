@@ -1,6 +1,5 @@
 ---
 title: Equipo Editorial
-type: custom
 layout: equipo
 params:
   directoras:
