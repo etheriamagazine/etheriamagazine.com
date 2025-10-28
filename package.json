@@ -19,5 +19,24 @@
     "preview": "bun scripts/preview.sh",
     "new": "bun scripts/new.js",
     "server": "bun scripts/server.sh"
+  },
+  "prettier": {
+    "plugins": [
+      "prettier-plugin-go-template",
+      "prettier-plugin-tailwindcss"
+    ],
+    "overrides": [
+      {
+        "files": [
+          "*.html"
+        ],
+        "options": {
+          "parser": "go-template",
+          "goTemplateBracketSpacing": true,
+          "bracketSameLine": true,
+          "tailwindPreserveWhitespace": false
+        }
+      }
+    ]
   }
 }

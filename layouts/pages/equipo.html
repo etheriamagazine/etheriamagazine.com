@@ -13,7 +13,6 @@
         {{ with and (gt $author.Count 0) $author }}
           {{ with .Page }}{{ .Render "summary" }}{{ end }}
         {{ end }}
-
       {{ end }}
       <div class="prose bg-primary-100 rounded-xl p-4">{{ .Content }}</div>
     </div>
@@ -25,16 +24,11 @@
     <div
       class="my-8 grid grid-flow-row-dense grid-cols-1 gap-4 gap-y-8 md:grid-cols-4">
       {{ range .Params.colaboradoras }}
-        {{ $author := index
-          site.Taxonomies.authors (lower .)
-        }}
-        {{ with and (gt $author.Count 0)
-          $author
-        }}
+        {{ $author := index site.Taxonomies.authors (lower .) }}
+        {{ with and (gt $author.Count 0) $author }}
           {{ with .Page }}{{ .Render "summary" }}{{ end }}
         {{ end }}
       {{ end }}
     </div>
   </div>
-
 {{ end }}
