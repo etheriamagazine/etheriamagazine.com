@@ -2,11 +2,13 @@
 .DS_Store
 Thumbs.db
 
-# hugo output & temp files
+# hugo output & hugo dev and temp files
 public
 resources/_gen
-.hugo_build.lock
 hugo_stats.json
+hugo.work
+hugo.work.sum
+.hugo_build.lock
 .tailwindcss.dev.css
 
 # pagefind output
