@@ -1,7 +1,0 @@
-go 1.24.1
-
-use .
-use ../hugo-modules/analytics/plausible
-use ../hugo-modules/imgproxy
-use ../hugo-modules/seo
-use ../hugo-modules/sky-theme
