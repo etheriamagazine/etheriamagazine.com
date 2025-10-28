@@ -1,0 +1,47 @@
+Copyright (c) 2018-2026 Marakanda Comunicación, SL
+
+========================================================
+SECCIÓN 1. CONTENIDO PROTEGIDO (CARPETA `content/`)
+
+El contenido textual y gráfico incluido en el directorio `content/` y sus
+subdirectorios —incluyendo, entre otros, artículos, publicaciones, textos,
+imágenes y materiales asociados— es propiedad exclusiva de
+Marakanda Comunicación, SL.
+
+Todos los derechos reservados.
+All rights reserved.
+
+No se permite la reproducción, distribución, comunicación pública o
+transformación total o parcial de dicho contenido sin la autorización expresa
+y por escrito de Marakanda Comunicación, SL.
+
+========================================================
+SECCIÓN 2. CÓDIGO FUENTE Y ARCHIVOS DE CONFIGURACIÓN
+
+El resto del código fuente, plantillas, configuraciones y scripts incluidos en
+este repositorio (excepto el contenido descrito en la Sección 1) se distribuyen
+bajo la siguiente licencia:
+
+--------------------------------------------------------
+MIT License
+--------------------------------------------------------
+
+Copyright (c) 2025 Marakanda Comunicación, SL
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
