@@ -10,10 +10,10 @@ authors:
   - Ana María Pareja
 ---
 
-**Viajamos a Copenhague para descubrir la magia del Tivoli, los colores de Nyhavn o la 
+Viajamos a Copenhague para descubrir la magia del Tivoli, los colores de Nyhavn o la 
 rebeldía de Christiania. Pero, sobre todo, vamos a buscar el secreto para ser más 
 felices. Te contamos todo lo que puedes hacer en la capital danesa en un fin de semana 
-largo.** 
+largo. 
 
 ![Fachada de Original Coffee en Copenhague](https://fotos.etheriamagazine.com/2019/09/copenhague-original-coffee.jpg "Original Coffee.")
 

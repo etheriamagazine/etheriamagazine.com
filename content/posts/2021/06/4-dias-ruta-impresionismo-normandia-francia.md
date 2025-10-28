@@ -1,6 +1,7 @@
 ---
 title: "Qué visitar en la Ruta del Impresionismo de Normandía"
 date: 2021-06-24
+lastmod: 2024-04-01
 cover: https://fotos.etheriamagazine.com/2020/10/normandia-Jardin-Casa-Monet.jpg
 categories: 
   - viajar-con-amigas
@@ -18,7 +19,7 @@ Havre, y a dejarte acariciar por el espíritu del arte.
 
 ![Jardín de la casa de Monet en Giverny (Normandía).](https://fotos.etheriamagazine.com/2020/10/normandia-Jardin-Casa-Monet.jpg "Jardín de la casa de Monet en Giverny (Normandía). © P.G./ Etheria M.")
 
-Actualizado abril de 2024 
+<!-- LEGACY_UPDATED: Actualizado abril de 2024 -->
 
 En la segunda mitad del siglo XIX surge una corriente artística en Francia que decide 
 capturar en sus lienzos instantes de la vida, luces especiales y fugaces. No importaba 

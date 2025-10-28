@@ -11,10 +11,10 @@ authors:
   - Ana Vara y David Santiago
 ---
 
-**Guangxi es la otra China, la del ‘Gran Sur’, famosa en todo el mundo por sus paisajes 
+Guangxi es la otra China, la del ‘Gran Sur’, famosa en todo el mundo por sus paisajes 
 kársticos de montañas y sus idílicos ríos con cormoranes que pescan plácidamente. Un 
 lugar que aún está muy cerca de la naturaleza y que se ha librado de los abusos de la 
-modernidad. En Etheria Magazine te mostramos la otra cara de la Nueva China.** 
+modernidad. En Etheria Magazine te mostramos la otra cara de la Nueva China. 
 
 ![Pescando con cormoranes en el río Li (Xing Ping).](https://fotos.etheriamagazine.com/2019/12/viaje-china-guangxi-pescador.jpg "Pescando con cormoranes en el río Li (Xing Ping). © David Santiago")
 

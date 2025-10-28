@@ -9,11 +9,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Llega San Isidro a Madrid y, además de volver los trajes de chulapas y chulapos y los 
+Llega San Isidro a Madrid y, además de volver los trajes de chulapas y chulapos y los 
 chotis, las pastelerías se llenan de las rosquillas del santo. Este año, además de las 
 rosquillas tradicionales, cinco pastelerías centenarias se han sumado a la iniciativa 
 Madridulce para aportar una versión diferente. Sigue leyendo para descubrir dónde y 
-cuándo puedes probar estas redondas delicias.** 
+cuándo puedes probar estas redondas delicias. 
 
 ![Cinco rosquillas del Santo originales](https://fotos.etheriamagazine.com/2023/05/rosquillas-madriddulce.jpg "Especialidades de las cinco pastelerías que participan en Madriddulce.")
 

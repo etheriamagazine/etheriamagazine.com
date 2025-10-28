@@ -10,12 +10,12 @@ authors:
   - Pedro Grifol
 ---
 
-**Al oeste de la provincia española de León se encuentra El Bierzo y dos pueblecitos que 
+Al oeste de la provincia española de León se encuentra El Bierzo y dos pueblecitos que 
 no debes perderte: San Facundo y Torre del Bierzo. En esta región los paisajes se 
 recortan entre la llanura castellana y las campiñas gallegas, formando un gran círculo 
 que bañan ríos de aguas frescas que discurren entre inmensas masas boscosas. Un paseo 
 por El Bierzo te transporta a la médula de la naturaleza… Un entorno que parece diseñado 
-para escapar de la vida de las grandes ciudades.** 
+para escapar de la vida de las grandes ciudades. 
 
 ![san facundo, pueblos bonitos de leon](https://fotos.etheriamagazine.com/2020/01/Leon-pueblo-San-Facundo.jpg "San Facundo, el pueblo más bonito de León. © Pedro Grifol")
 

@@ -10,8 +10,8 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-**Elisabeth G. Iborra, como buena aragonesa, nos cuenta sus lugares favoritos de Teruel 
-y dónde degustar sus sabores más auténticos. Arte y gastronomía se dan la mano.** 
+Elisabeth G. Iborra, como buena aragonesa, nos cuenta sus lugares favoritos de Teruel y 
+dónde degustar sus sabores más auténticos. Arte y gastronomía se dan la mano. 
 
 ![Escalinata neomudéjar de Teruel.](https://fotos.etheriamagazine.com/2020/01/Teruel-escalinata.jpg "Escalinata neomudéjar de Teruel.")
 

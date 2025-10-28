@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Lo que antaño parecía de "raritas" (si no lo crees, echa un vistazo al libro 
+Lo que antaño parecía de "raritas" (si no lo crees, echa un vistazo al libro 
 'Intrépidas'), hoy día es lo más normal del mundo. Viajamos solas porque nos apetece o 
 porque no se dan las circunstancias para hacerlo acompañadas. Sea como fuere, viajar 
 sola tiene muchas ventajas y os lo vamos a demostrar para que os lancéis sin darle 
-tantas vueltas.** 
+tantas vueltas. 
 
 ![mujer hace fotografia junto al mar](https://fotos.etheriamagazine.com/2019/01/viajar-sola-playa.jpg "Si eres amante de la fotografía, llevas la mejor compañera entre las manos.")
 

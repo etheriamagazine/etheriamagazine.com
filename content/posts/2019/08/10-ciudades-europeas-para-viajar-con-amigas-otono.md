@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Los fines de semana de otoño invitan a realizar una escapada con un vuelo directo a 
+Los fines de semana de otoño invitan a realizar una escapada con un vuelo directo a 
 alguna ciudad europea. Podrás disfrutar en un par de días de su vida cultural, 
 restaurantes y arquitectura, y alegrar así estos meses en los que los días son cada vez 
 más cortos. Aquí te damos 10 ideas para aprovechar la temporada baja en el turismo y 
-viajar a las ciudades europeas en otoño.** 
+viajar a las ciudades europeas en otoño. 
 
 ![palacio schonbrunn al atardecer](https://fotos.etheriamagazine.com/2019/04/que-ver-viena-palacio-de-schonbrunn.jpg "Palacio de Schönbrunn en Viena.")
 

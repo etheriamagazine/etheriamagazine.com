@@ -11,12 +11,12 @@ authors:
   - Rafael de Rojas
 ---
 
-**El diseño ha tomado el centro de Belfast como hace 40 años lo tomaron los punks: con 
+El diseño ha tomado el centro de Belfast como hace 40 años lo tomaron los punks: con 
 ánimo revulsivo, aunque cambiando la rabia por creatividad. Los estudios de diseñadores 
 y artistas se multiplican en las antiguas estancias industriales de ladrillo del barrio 
 de la Catedral, mientras que los astilleros de los que salió el Titanic son ahora una 
 creciente pasarela de edificios de vanguardia. En ese caldo de cultivo, la anual Design 
-Week de Belfasf procura el flechazo del diseño internacional y los creativos locales.** 
+Week de Belfasf procura el flechazo del diseño internacional y los creativos locales. 
 
 ![panorámica de belfast](https://fotos.etheriamagazine.com/2019/10/belfast-panoramica.jpg "Panorámica de Belfast con el Ayuntamiento enfrente. © Christopher Heaney.")
 

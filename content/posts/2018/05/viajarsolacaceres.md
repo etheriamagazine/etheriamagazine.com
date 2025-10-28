@@ -10,9 +10,9 @@ authors:
   - Pepa G. Marín
 ---
 
-**Existen determinados lugares en los que viajar sola es todo un placer. Cáceres es uno 
-de ellos, y seguramente se encuentre entre los mejores para inaugurar nuestro currículum 
-de escapadas en solitario.** 
+Existen determinados lugares en los que viajar sola es todo un placer. Cáceres es uno de 
+ellos, y seguramente se encuentre entre los mejores para inaugurar nuestro currículum de 
+escapadas en solitario. 
 
 ![Tocar el pie de la estatua de San Pedro de Alcántara dicen que trae suerte.](https://fotos.etheriamagazine.com/2018/05/7-Viaje-Caceres-Suerte.jpg "Tocar el pie de la estatua de San Pedro de Alcántara dicen que trae suerte.")
 

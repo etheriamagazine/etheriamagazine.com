@@ -11,12 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-**No siempre organizamos las vacaciones con antelación y, cuando toca improvisar, hay 
-unos destinos más fáciles que otros, generalmente los menos masificados. Aquí te 
-proponemos 10 viajes de Semana Santa de última hora para recorrer algunos de los 
-rincones más bellos (y desconocidos) de la España interior, esa que tantas alegrías nos 
-da en forma de paisajes de infarto y momentos de relax que nos cargan las pilas para 
-varias semanas.** 
+No siempre organizamos las vacaciones con antelación y, cuando toca improvisar, hay unos 
+destinos más fáciles que otros, generalmente los menos masificados. Aquí te proponemos 
+10 viajes de Semana Santa de última hora para recorrer algunos de los rincones más 
+bellos (y desconocidos) de la España interior, esa que tantas alegrías nos da en forma 
+de paisajes de infarto y momentos de relax que nos cargan las pilas para varias semanas. 
 
 ![Personas caminando junto al refugio de Viados, en el valle de Chistau](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-valle-chistau-Bordas-refugio-de-VIADOS.jpg "Senderismo en el valle de Chistau, un planazo en Semana Santa.")
 

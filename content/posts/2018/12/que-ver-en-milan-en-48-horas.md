@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-**Si joyas como el Duomo o _La Última Cena_ de Leonardo da Vinci no son suficientes para 
+Si joyas como el Duomo o _La Última Cena_ de Leonardo da Vinci no son suficientes para 
 incentivarte a pasar un fin de semana en Milán, le sumamos sus museos, tiendas y 
 tentadoras excursiones a menos de una hora de coche o tren. No nos negarás que esta 
-ciudad del norte de Italia tiene que ser uno de tus viajes con amigas.** 
+ciudad del norte de Italia tiene que ser uno de tus viajes con amigas. 
 
 ![viajes de fin de semana, 48 horas en, Italia, arte](https://fotos.etheriamagazine.com/2018/12/Milan-duomo-detalle-e1567238407373.jpg "Detalle de la parte más alta del Duomo, visible desde las terrazas. ©S.G.")
 

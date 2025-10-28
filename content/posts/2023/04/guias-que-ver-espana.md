@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Llegan las vacaciones y seguro que ya tienes el destino elegido para descansar unos 
+Llegan las vacaciones y seguro que ya tienes el destino elegido para descansar unos 
 días. Si quieres saber qué ver en España, tienes que echar un vistazo a nuestras guías 
 con los lugares imprescindibles de cada provincia. Te ayudarán a planificar las 
-excursiones y a organizar los días de viaje.** 
+excursiones y a organizar los días de viaje. 
 
 ![El Albaicín, uno de los barrios más bonitos de Granada.](https://fotos.etheriamagazine.com/2022/09/granada-albaicin.jpg "El Albaicín, uno de los barrios más bonitos de Granada.")
 

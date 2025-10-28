@@ -10,11 +10,11 @@ authors:
   - Susana García
 ---
 
-**La isla de Tenerife es uno de los mejores lugares de España para planificar unas 
+La isla de Tenerife es uno de los mejores lugares de España para planificar unas 
 vacaciones en cualquier momento del año. Con una infraestructura turística forjada desde 
 hace décadas, sus opciones de ocio van desde excursiones a la naturaleza hasta las 
 vacaciones de descanso en hotel de todo incluido. Aquí te proponemos 15 lugares que 
-tienes que ver en Tenerife para unas vacaciones de lo más completas.** 
+tienes que ver en Tenerife para unas vacaciones de lo más completas. 
 
 ![Playa de Las Teresitas, en Santa Cruz de Tenerife.](https://fotos.etheriamagazine.com/2023/01/beach-teresitas-tenerife-spain.jpg "Playa de Las Teresitas, en Santa Cruz de Tenerife.")
 

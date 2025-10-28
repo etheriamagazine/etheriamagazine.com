@@ -10,9 +10,9 @@ authors:
   - Kelu Robles
 ---
 
-**La cuna de los mejores rosados del mundo ofrece la excusa perfecta para disfrutar de 
-una relajante escapada rural con amigas. Y si necesitas un pretexto para irte de vinos 
-por el valle del Pisuerga, en Etheria Magazine te damos diez.** 
+La cuna de los mejores rosados del mundo ofrece la excusa perfecta para disfrutar de una 
+relajante escapada rural con amigas. Y si necesitas un pretexto para irte de vinos por 
+el valle del Pisuerga, en Etheria Magazine te damos diez. 
 
 ![copa de rosado en la ruta de cigales](https://fotos.etheriamagazine.com/2020/01/etheria-ruta-vino-cigales-portada.jpg "Ruta del Vino Cigales. © Kelu Robles")
 

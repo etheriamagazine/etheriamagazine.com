@@ -12,11 +12,11 @@ authors:
   - Yolanda Cardo
 ---
 
-**Viajar a Marte o a la Inglaterra victoriana sin salir de Riotinto; descubrir 
-fantásticos paisajes de agua y museos que atesoran piezas únicas o devotas tradiciones. 
-Sumadle una excelente gastronomía y unas gentes maravillosas y tendréis los mejores 
-ingredientes para una escapada perfecta. Si no sabes qué hacer en Huelva provincia, no 
-te pierdas las dos rutas que te proponemos.** 
+Viajar a Marte o a la Inglaterra victoriana sin salir de Riotinto; descubrir fantásticos 
+paisajes de agua y museos que atesoran piezas únicas o devotas tradiciones. Sumadle una 
+excelente gastronomía y unas gentes maravillosas y tendréis los mejores ingredientes 
+para una escapada perfecta. Si no sabes qué hacer en Huelva provincia, no te pierdas las 
+dos rutas que te proponemos. 
 
 ![paisaje sorprendente con rocas rojas y agua de la ruta de los molinos harineros](https://fotos.etheriamagazine.com/2022/03/Ruta-Molinos-Harineros-Villarrasa.jpg "Ruta de los Molinos Harineros del Río Tinto Villarrasa. © Yolanda Cardo")
 

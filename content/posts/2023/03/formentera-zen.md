@@ -13,11 +13,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Marca en rojo los últimos días de abril porque te espera Formentera Zen 2023, un 
-evento donde lograrás cargar las pilas para afrontar con energía y optimismo el resto 
-del año. En plena primavera y rodeadas de expertos del bienestar y de la salud, ésta es 
-una cita obligada si quieres mimarte por dentro y por fuera.¡Regálate unos días de 
-desconexión!** 
+Marca en rojo los últimos días de abril porque te espera Formentera Zen 2023, un evento 
+donde lograrás cargar las pilas para afrontar con energía y optimismo el resto del año. 
+En plena primavera y rodeadas de expertos del bienestar y de la salud, ésta es una cita 
+obligada si quieres mimarte por dentro y por fuera.¡Regálate unos días de desconexión! 
 
 ![Jardines del hotel donde se celebra el Formentera Zen 2023](https://fotos.etheriamagazine.com/2023/03/formentera-zen-mujeres-atardecer.jpg "Formentera Zen te brinda unos días de desconexión.")
 

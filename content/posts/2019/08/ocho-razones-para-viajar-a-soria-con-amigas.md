@@ -10,9 +10,9 @@ authors:
   - Kelu Robles
 ---
 
-**Acabas de toparte con un anuncio sobre la vuelta al cole. Coleccionables, atascos, 
+Acabas de toparte con un anuncio sobre la vuelta al cole. Coleccionables, atascos, 
 estrés. Estamos en septiembre y —reconozcámoslo— ni tú ni tus amigas estáis preparadas 
-para afrontarlo. Una escapada a Soria con amigas bastará para sanaros.** 
+para afrontarlo. Una escapada a Soria con amigas bastará para sanaros. 
 
 ![ruta soria con amigas](https://fotos.etheriamagazine.com/2019/07/viaje-soria-ruta-amigas.jpg "¿Te imaginabas Soria así de verde? ©KR")
 

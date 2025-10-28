@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Es habitual que se nos acaben las ideas para buscar opciones divertidas con las que 
+Es habitual que se nos acaben las ideas para buscar opciones divertidas con las que 
 pasar una tarde con los más jóvenes de la casa. En Etheria Magazine hemos seleccionado 
 diez planes con adolescentes en Madrid con los que acertarás seguro tanto si vives en la 
-capital como si vienes unos días de visita.** 
+capital como si vienes unos días de visita. 
 
 ![adolescentes en una nevera de Sweet Space](https://fotos.etheriamagazine.com/2022/12/madrid-sweet-space-nevera.jpg "Diversión en Sweet Space. © Ángel Linares")
 

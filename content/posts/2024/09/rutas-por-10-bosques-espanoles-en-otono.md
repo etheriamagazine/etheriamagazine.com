@@ -1,6 +1,7 @@
 ---
 title: "10 bosques españoles a los que el otoño saca su mejor cara"
 date: 2024-09-21
+lastmod: 2025-09-01
 cover: https://fotos.etheriamagazine.com/2021/09/bosque-otono-hoz-jucar.jpg
 categories: 
   - organiza-tu-viaje
@@ -19,7 +20,7 @@ paseo.
 
 ![monasterio hermo ruta asturias](https://fotos.etheriamagazine.com/2021/09/bosque-monasterio-hermo-asturias.jpg "Las rutas en otoño, como la del Monasterio de Hermo, son pura fantasía.")
 
-**Actualizado 9/2025** 
+<!-- LEGACY_UPDATED: **Actualizado 9/2025** -->
 
 El otoño invita al paseo sereno por la naturaleza para deleitarse con los colores que 
 nos regalan los bosques. España está llena de paisajes naturales únicos en los que 

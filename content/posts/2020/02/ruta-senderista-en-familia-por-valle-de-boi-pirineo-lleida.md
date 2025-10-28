@@ -1,6 +1,7 @@
 ---
 title: "Itinerario de 6 días para hacer la Ruta del románico en Vall de Boí"
 date: 2020-02-28
+lastmod: 2024-09-01
 cover: https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-Barruera.jpg
 categories: 
   - viajar-en-familia
@@ -22,7 +23,7 @@ apunta a esta ruta por el Pirineo Catalán?
 
 ![Barruera, inicio de esta ruta en familia por el Vall de Boí.](https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-Barruera.jpg "Barruera, inicio de esta ruta en familia por el Vall de Boí. © Cecilia Lorenzo")
 
-Actualizado 9/2024 
+<!-- LEGACY_UPDATED: Actualizado 9/2024 -->
 
 No hace falta ir muy lejos para vivir **una gran aventura en familia**. Esta ruta invita 
 a preparar una mochila con lo indispensable, calzarse las botas de montaña y andar por 

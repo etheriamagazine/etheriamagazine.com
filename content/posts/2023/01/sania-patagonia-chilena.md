@@ -10,11 +10,11 @@ authors:
   - Sania Jelic
 ---
 
-**En esta etapa de su viaje, Sania llega a la Patagonia chilena y emprende la navegación 
+En esta etapa de su viaje, Sania llega a la Patagonia chilena y emprende la navegación 
 entre los canales patagónicos a bordo de un barco de la naviera Navimag, un buque de 
 mercancías que ocasionalmente transporta pasajeros. Después, llega a Puerto Natales para 
 adentrarse en el maravilloso Parque Nacional de Torres del Paine. Unos días determinados 
-por los paisajes grandiosos y el siempre presente viento.** 
+por los paisajes grandiosos y el siempre presente viento. 
 
 ![Sania con un pingüino en Puerto Natales.](https://fotos.etheriamagazine.com/2023/01/sania-puerto-natales-pinguino.jpg "Sania en Puerto Natales. © SJ")
 

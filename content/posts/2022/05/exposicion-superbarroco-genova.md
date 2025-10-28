@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-**La relación de Italia con el arte es tan estrecha que no se puede concebir un viaje a 
+La relación de Italia con el arte es tan estrecha que no se puede concebir un viaje a 
 este país sin dedicar gran parte del tiempo a disfrutar de su pintura, arquitectura y 
 escultura. En esta ocasión te proponemos una ciudad y un estilo artístico concretos, 
 Génova y el Barroco, que se unen para celebrar el Proyecto ‘Superbarroco’ hasta el 10 de 
-julio de 2022.** 
+julio de 2022. 
 
 ![cuadro barroco](https://fotos.etheriamagazine.com/2022/05/superbarroco-ascoli-piceno.jpg '"La captura de Sansón" de Orazio De Ferrari forma parte de la exposición 'La forma della Meraviglia'. © Ascoli Piceno, Pinacoteca Civica.')
 

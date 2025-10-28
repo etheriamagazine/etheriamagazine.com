@@ -11,12 +11,12 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Un estallido rosáceo enciende el paisaje rural del Bajo Segre debido a la floración de 
+Un estallido rosáceo enciende el paisaje rural del Bajo Segre debido a la floración de 
 los melocotoneros de Lleida, el campo se tiñe de rosa más allá de donde te alcanza la 
 vista. Durante tres semanas Aitona se convierte en la capital de la primavera gracias a 
 la floración simultánea de sus frutales. Vamos a contagiarnos del placer japonés por 
 observar la belleza de las flores o _hanami_ mientras las ramas de los árboles se tiñen 
-de rosa.** 
+de rosa. 
 
 ![melocotoneros aitona en flor](https://fotos.etheriamagazine.com/2019/03/Fruiturismo-lleida.jpg "Melocotoneros en flor del Bajo Segre.")
 

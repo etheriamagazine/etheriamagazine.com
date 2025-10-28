@@ -11,12 +11,12 @@ authors:
   - Yolanda Cardo
 ---
 
-**La imagen que el cine construyó en torno a Sisi, la última gran emperatriz de Europa 
-no tiene nada de real. Infeliz, depresiva, vigoréxica, con trastornos de la 
-alimentación… Pese a su legendaria belleza, su vida fue una sucesión de trágicos 
-episodios, incluido el de su muerte a manos de un anarquista un 10 de septiembre de hace 
-125 años.** **En el Museo Sisi de Viena puedes conocer más sobre su vida y observar sus 
-vestidos y objetos personales**. 
+La imagen que el cine construyó en torno a Sisi, la última gran emperatriz de Europa no 
+tiene nada de real. Infeliz, depresiva, vigoréxica, con trastornos de la alimentación… 
+Pese a su legendaria belleza, su vida fue una sucesión de trágicos episodios, incluido 
+el de su muerte a manos de un anarquista un 10 de septiembre de hace 125 años. En el 
+Museo Sisi de Viena puedes conocer más sobre su vida y observar sus vestidos y objetos 
+personales . 
 
 ![Retratos del emperador Francisco José y de Sisi, pintados por F. X. Winterhalter en 1895.](https://fotos.etheriamagazine.com/2022/09/retrato-sisi-museo-viena.jpg "Retratos del emperador Francisco José y de Sisi, pintados por F. X. Winterhalter en 1895.")
 

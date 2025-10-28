@@ -1,6 +1,7 @@
 ---
 title: "Descubre 12 pueblos con encanto de Castilla y León que nunca defraudan"
 date: 2023-09-13
+lastmod: 2025-05-01
 cover: https://fotos.etheriamagazine.com/2021/12/segovia-Sepulveda.jpg
 categories: 
   - viajar-con-amigas
@@ -18,7 +19,7 @@ disfrute está asegurado.
 
 ![ciudad de sepulveda rutas en segovia](https://fotos.etheriamagazine.com/2021/03/segovia-Sepulveda.jpg "Panorámica de la bella localidad de Sepúveda. © Turismo Diputación de Segovia")
 
-Actualizado mayo 2025 
+<!-- LEGACY_UPDATED: Actualizado mayo 2025 -->
 
 Hay infinidad de pueblos bonitos en España y muchos de ellos se ubican en la comunidad 
 autónoma de Castilla y León. Lo de “bonito” no deja de ser un criterio subjetivo, con 

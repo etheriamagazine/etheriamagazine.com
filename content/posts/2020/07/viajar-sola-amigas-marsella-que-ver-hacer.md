@@ -11,10 +11,10 @@ authors:
   - Manena Munar
 ---
 
-**El nombre de Marsella ya evoca luz, Mediterráneo, sabores africanos y vida marinera. 
+El nombre de Marsella ya evoca luz, Mediterráneo, sabores africanos y vida marinera. 
 Esta ciudad francesa es una opción perfecta y cercana para realizar ese viaje con amigas 
 en el que lleváis tanto tiempo pensando. Os contamos cómo organizar un fin de semana en 
-Marsella para no perder ni un minuto.** 
+Marsella para no perder ni un minuto. 
 
 ![La Catedral de Santa María de la Guardia protege su bello y milenario puerto.](https://fotos.etheriamagazine.com/2020/06/Marsella-viaje-mujeres-etheria.jpg "La Catedral de Santa María de la Guardia protege su bello y milenario puerto. © Manena Munar")
 

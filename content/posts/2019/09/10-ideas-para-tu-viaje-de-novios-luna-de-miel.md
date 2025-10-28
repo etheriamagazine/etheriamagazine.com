@@ -8,10 +8,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Llega el momento de preparar una boda y ¿qué es lo que más apetece? Sin duda, elegir 
-el destino del viaje de novios. En este artículo te damos diez ideas para que encuentres 
-tu viaje de luna de miel, tanto si te gusta la naturaleza como si eres urbanita o 
-prefieres optar por lugares paradisiacos. ¿Con cuál te quedas?** 
+Llega el momento de preparar una boda y ¿qué es lo que más apetece? Sin duda, elegir el 
+destino del viaje de novios. En este artículo te damos diez ideas para que encuentres tu 
+viaje de luna de miel, tanto si te gusta la naturaleza como si eres urbanita o prefieres 
+optar por lugares paradisiacos. ¿Con cuál te quedas? 
 
 ![viajes de novios, lunas de miel, grandes viajes](https://fotos.etheriamagazine.com/2019/09/viajes-de-novios.jpg "¿Has elegido ya el destino de tu luna de miel? © Tatiana Gonzales")
 

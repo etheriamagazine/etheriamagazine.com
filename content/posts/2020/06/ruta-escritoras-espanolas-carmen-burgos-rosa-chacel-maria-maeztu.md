@@ -11,10 +11,10 @@ authors:
   - Pilar Ortega
 ---
 
-**Carmen de Burgos, Rosa Chacel y María de Maeztu son las literatas que hemos 
-seleccionado para esta segunda entrega de nuestra 'Ruta por la España de las grandes 
-escritoras del siglo XX'. Visitaremos Almería, Valladolid y Vitoria en busca de las 
-huellas que dejaron la rebeldía y la buena pluma de estas escritoras.** 
+Carmen de Burgos, Rosa Chacel y María de Maeztu son las literatas que hemos seleccionado 
+para esta segunda entrega de nuestra 'Ruta por la España de las grandes escritoras del 
+siglo XX'. Visitaremos Almería, Valladolid y Vitoria en busca de las huellas que dejaron 
+la rebeldía y la buena pluma de estas escritoras. 
 
 ![Carmen de Burgos, la mujer moderna y sus derechos, almeria](https://fotos.etheriamagazine.com/2020/06/cubierta-la-mujer-moderna.jpg "Fragmento de la cubierta de 'La mujer moderna y sus derechos', de Carmen de Burgos (Edit. Huso Ensayos).")
 

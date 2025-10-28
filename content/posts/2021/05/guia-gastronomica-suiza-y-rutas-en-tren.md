@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Siempre hay un buen motivo para viajar a Suiza. Sus paisajes, su gastronomía, sus 
+Siempre hay un buen motivo para viajar a Suiza. Sus paisajes, su gastronomía, sus 
 ciudades históricas... En este caso os hablamos de itinerarios en tren para recorrer (y 
 degustar) el país, y os proponemos la guía gastronómica ‘Suiza a Bocados’. Elige tu ruta 
-y prepara tu escapada a Suiza para este verano.** 
+y prepara tu escapada a Suiza para este verano. 
 
 ![Suiza en tren](https://fotos.etheriamagazine.com/2021/04/Suiza-en-tren-Graubuenden-.jpg "Una de las mejores formas de recorrer Suiza es en tren. © Switzerland Tourism/André Meier")
 

@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Cuenca enamora, más allá de un eslogan turístico es una emoción que despierta en pleno 
+Cuenca enamora, más allá de un eslogan turístico es una emoción que despierta en pleno 
 invierno, cuando la Alcarria se viste de un alucinante color rojo. La sencillez de las 
 plantaciones de mimbre madurando al sol es la culpable de transformar los alrededores de 
 pueblos alcarreños y serranos en un panorama tan ordenado como hipnótico. Prepárate, vas 
-a entrar en uno de los mejores paisajes colorados del mundo.** 
+a entrar en uno de los mejores paisajes colorados del mundo. 
 
 ![La poesía del paisaje se manifiesta en la Ruta del Mimbre de Cuenca.](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-apertura.jpg "La poesía del paisaje se manifiesta en la Ruta del Mimbre de Cuenca.")
 

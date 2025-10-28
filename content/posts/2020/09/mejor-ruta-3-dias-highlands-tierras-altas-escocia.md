@@ -10,10 +10,10 @@ authors:
   - Nuria Cortés
 ---
 
-**Recorre las Tierras Altas de Escocia en coche con tus amigas, y llénate del trágico 
+Recorre las Tierras Altas de Escocia en coche con tus amigas, y llénate del trágico 
 romanticismo de sus paisajes salvajes. En las Highlands escocesas descubrirás en sólo 
 tres días paisajes mágicos, melancólicos, cargados de leyendas e, incluso, el tren de 
-Harry Potter. Te contamos cómo organizar una ruta circular con salida desde Edimburgo.** 
+Harry Potter. Te contamos cómo organizar una ruta circular con salida desde Edimburgo. 
 
 ![Viaducto de Glenfinnan, en Fort William (Escocia).](https://fotos.etheriamagazine.com/2020/09/viaducto-Glenfinnan-Fort-William-escocia.jpg "Viaducto de Glenfinnan, en Fort William (Escocia). © Connor Mollison")
 

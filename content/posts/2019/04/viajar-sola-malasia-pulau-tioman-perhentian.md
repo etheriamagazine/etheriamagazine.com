@@ -10,10 +10,10 @@ authors:
   - Ana Vara y David Santiago
 ---
 
-**La diversidad es la tónica de la península malaya. Puedes estar descubriendo los 
+La diversidad es la tónica de la península malaya. Puedes estar descubriendo los 
 misterios de las profundidades del mar en alguna de sus islas y en pocas horas 
 recorriendo el interior de una selva. Todo está muy a mano en este rincón del sudeste 
-asiático. Además, es un buen destino para comenzar a viajar sola.** 
+asiático. Además, es un buen destino para comenzar a viajar sola. 
 
 ![isla Perhentian en malasia](https://fotos.etheriamagazine.com/2019/04/malasia-isla-perhentian.jpg "Esnórquel en la Isla Perhentian.")
 

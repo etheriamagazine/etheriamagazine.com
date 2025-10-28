@@ -10,11 +10,11 @@ authors:
   - Susana García
 ---
 
-**Cualquier época del año es perfecta para descubrir la ciudad japonesa de Kioto pero al 
+Cualquier época del año es perfecta para descubrir la ciudad japonesa de Kioto pero al 
 comenzar la primavera se pueden contemplar sus cerezos en flor y toda la ciudad añade a 
 su habitual encanto un delicado manto de pétalos rosados. Necesitarás al menos tres días 
 para imbuirte en el ambiente y cultura de esta ciudad, un destino perfecto para viajar 
-con amigas o con tu pareja.** 
+con amigas o con tu pareja. 
 
 ![Geishas en el Paseo del Filósofo en Kioto](https://fotos.etheriamagazine.com/2020/02/Kioto-paseo-filosofo-geishas.jpg "Foto en el Paseo del Filósofo. © Susana García")
 

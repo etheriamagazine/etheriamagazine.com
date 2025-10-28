@@ -1,6 +1,7 @@
 ---
 title: "De tapinas por León: el secreto mejor guardado de la capital del Santo Grial"
 date: 2021-09-09
+lastmod: 2024-02-01
 cover: https://fotos.etheriamagazine.com/2021/06/leon-hotel-camarote.jpg
 categories: 
   - estilo-de-vida
@@ -18,7 +19,7 @@ con la consumición?
 
 ![Azotea del Camarote Hotel y su vista privilegiada de la Catedral](https://fotos.etheriamagazine.com/2021/06/leon-hotel-camarote.jpg "Azotea del Camarote Hotel y su vista privilegiada de la Catedral. © Camarote Hotel")
 
-Actualizado en febrero de 2024 
+<!-- LEGACY_UPDATED: Actualizado en febrero de 2024 -->
 
 Desde su nacimiento como **campamento romano** en el siglo I a.C., León ha añadido a su 
 pasado innumerables motivos históricos y artísticos por los que detenerse ante su 

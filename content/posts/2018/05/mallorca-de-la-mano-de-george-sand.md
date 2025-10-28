@@ -1,6 +1,7 @@
 ---
 title: "Por qué a George Sand no le gustó Mallorca"
 date: 2018-05-16
+lastmod: 2025-07-01
 cover: https://fotos.etheriamagazine.com/2018/05/mallorca-3257130_1920-e1558282089298.jpg
 categories: 
   - entre-mujeres
@@ -17,7 +18,7 @@ impresión que obtuvo de sus paisajes y de sus gentes.
 
 ![Torre de la cartuja de Valldemossa.](https://fotos.etheriamagazine.com/2018/05/iglesia-valldemossa.jpg "Torre de la cartuja de Valldemossa. © Zoran Borojevic")
 
-Actualizado 07/2025 
+<!-- LEGACY_UPDATED: Actualizado 07/2025 -->
 
 Para conocer las impresiones de George Sand sobre la isla balear nos hemos zambullido en 
 las páginas de **_Un invierno en Mallorca_**. Este es el célebre libro que la escritora 

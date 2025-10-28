@@ -1,6 +1,7 @@
 ---
 title: "Avistar cetáceos en la costa vasca, una experiencia inolvidable"
 date: 2020-04-20
+lastmod: 2025-07-01
 cover: https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-bizkaia-ver-delfines.jpg
 categories: 
   - viajar-con-amigas
@@ -18,7 +19,7 @@ Bermeo.
 
 ![puerto de bermeo](https://fotos.etheriamagazine.com/2020/03/viaje-vizcaya-puerto-cetaceos.jpg "Puerto de Bermeo.")
 
-Actualizado 7/2025 
+<!-- LEGACY_UPDATED: Actualizado 7/2025 -->
 
 El avistamiento de **cetáceos en la costa vasca** es una actividad turística que está al 
 alza. Pocos saben aún que el subidón de adrenalina que provoca ver una ballena puede 

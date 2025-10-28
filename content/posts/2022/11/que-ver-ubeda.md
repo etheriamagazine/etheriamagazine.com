@@ -10,11 +10,11 @@ authors:
   - Firmas invitadas
 ---
 
-**Úbeda se alza en el centro de la provincia de Jaén orgullosa de conservar su trazado 
+Úbeda se alza en el centro de la provincia de Jaén orgullosa de conservar su trazado 
 original y un patrimonio que refleja la importancia que tuvo en los siglos XVI y XVII. 
 De todo ello te hablaremos en este artículo, además de recomendarte los lugares 
 imprescindibles que tienes que ver en Úbeda. Toma nota para aprovechar el viaje al 
-máximo.** 
+máximo. 
 
 **Por Mari Carmen Duarte** 
 

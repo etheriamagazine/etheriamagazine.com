@@ -10,10 +10,10 @@ authors:
   - Pedro Grifol
 ---
 
-**Hay ciudades que brillan siempre y otras que destacan, a pesar de que su fulgor sigue 
+Hay ciudades que brillan siempre y otras que destacan, a pesar de que su fulgor sigue 
 ahí, durante algunos días del año. Ese es el caso de Maastricht, que es la más deseada 
 durante la celebración de TEFAF, la feria de arte más destacada en su género a nivel 
-mundial. ¿Nos acompañas a visitar esta ‘bella desconocida’ con sus mejores galas?** 
+mundial. ¿Nos acompañas a visitar esta ‘bella desconocida’ con sus mejores galas? 
 
 ![Kruisherenhotel, viaje maastricht](https://fotos.etheriamagazine.com/2019/02/Maastricht-Kruisheren-hotel.jpg "El Kruisherenhotel es un monasterio del siglo XVI transformado en hotel de lujo.")
 

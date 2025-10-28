@@ -16,7 +16,7 @@ que basta una panorámica de su casco urbano para caer perdidamente enamorada?
 
 ![matera, capital europea de la cultura 2019, viaje mujeres a matera](https://fotos.etheriamagazine.com/2019/01/Sassi-di-Matera.jpg "Esta preciosa estampa, donde se ven los sassis, recuerda a un belén navideño.")
 
-Histórico de Etheria Magazine: 2019 
+<!-- LEGACY_INFO: Histórico de Etheria Magazine: 2019 -->
 
 Sabrías ubicar esta ciudad en un mapa? Probablemente, no. Matera pertenece a una región 
 del sur de Italia llamada **Basilicata**, situada entre Campania, Apulia y Calabria. La 

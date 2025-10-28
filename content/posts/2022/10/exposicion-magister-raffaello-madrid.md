@@ -9,10 +9,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Acercarse a la obra y la vida del gran artista italiano Rafael Sanzio es tan sencillo 
+Acercarse a la obra y la vida del gran artista italiano Rafael Sanzio es tan sencillo 
 como visitar la exposición ‘Magister Raffaello. Un maravilloso viaje por el Renacimiento 
 italiano’ que estará disponible hasta el 15 de enero de 2023 en el Instituto Italiano de 
-Cultura de Madrid. Se emplea tecnología inmersiva y la entrada es gratuita.** 
+Cultura de Madrid. Se emplea tecnología inmersiva y la entrada es gratuita. 
 
 ![Entrada a la exposición Magister Raffaello.](https://fotos.etheriamagazine.com/2022/10/Rafael-exposicion-madrid.jpg "Entrada a la exposición Magister Raffaello. © Bernardo Arcos Mijailidis")
 

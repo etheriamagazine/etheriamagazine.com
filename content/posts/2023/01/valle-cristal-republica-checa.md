@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-**Aunque resulte difícil de creer en un mundo tan globalizado como el nuestro, aún 
-existen secretos celosamente guardados y lugares recónditos que mantienen el misterio en 
-torno a sus tradiciones. De secretos y de tradición saben mucho en el Valle del Cristal, 
-también de creatividad y artesanía. Hemos recorrido la región checa de Liberec para 
-contarte por qué deberías apuntarla en tu lista de viajes pendientes para este 2023.** 
+Aunque resulte difícil de creer en un mundo tan globalizado como el nuestro, aún existen 
+secretos celosamente guardados y lugares recónditos que mantienen el misterio en torno a 
+sus tradiciones. De secretos y de tradición saben mucho en el Valle del Cristal, también 
+de creatividad y artesanía. Hemos recorrido la región checa de Liberec para contarte por 
+qué deberías apuntarla en tu lista de viajes pendientes para este 2023. 
 
 ![Jarrón y flores del Museo del cristal y la bisutería](https://fotos.etheriamagazine.com/2023/01/museo-cristal-bisuteria-chequia.jpg "Pieza del Museo del Cristal y la Bisutería.")
 

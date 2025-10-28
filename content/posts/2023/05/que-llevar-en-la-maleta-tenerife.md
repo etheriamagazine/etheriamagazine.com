@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Tenerife es un destino que apetece siempre, por su clima, sus playas y su increíble 
+Tenerife es un destino que apetece siempre, por su clima, sus playas y su increíble 
 naturaleza. Como sabemos que es uno de tus lugares preferidos de Canarias, te damos las 
 claves para preparar la maleta para un viaje a Tenerife y disfrutar al máximo de esta 
-isla tan especial.** 
+isla tan especial. 
 
 ![chica de espaldas en una playa de Tenerife](https://fotos.etheriamagazine.com/2023/05/tenerife-playa-medano.jpg "En Tenerife no faltarán las jornadas interminables de playa.")
 

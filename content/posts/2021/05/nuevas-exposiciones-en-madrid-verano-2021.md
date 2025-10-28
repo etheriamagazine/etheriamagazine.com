@@ -12,11 +12,11 @@ authors:
   - Redacción Etheria
 ---
 
-**La vida cultural de Madrid no deja de palpitar y una de sus formas de expresión son 
-las exposiciones temporales que ocupan museos y salas de exposiciones durante todo año. 
-Aquí hemos seleccionado 8 exposiciones en Madrid que no puedes perderte esta primavera y 
+La vida cultural de Madrid no deja de palpitar y una de sus formas de expresión son las 
+exposiciones temporales que ocupan museos y salas de exposiciones durante todo año. Aquí 
+hemos seleccionado 8 exposiciones en Madrid que no puedes perderte esta primavera y 
 verano: arte contemporáneo, mitología, grandes mujeres… Busca un hueco en tu agenda y 
-regálate una tarde de hedonista contemplación del arte.** 
+regálate una tarde de hedonista contemplación del arte. 
 
 ![cuadro exposición cuestión de ambiente](https://fotos.etheriamagazine.com/2021/05/exposiciones-madrid-cuestion-ambiente.jpg "'Cuestión de ambiente'. Antonio Juez Nieto. 'Heliogábalo', 1926. © Museo de Bellas Artes de Badajoz")
 

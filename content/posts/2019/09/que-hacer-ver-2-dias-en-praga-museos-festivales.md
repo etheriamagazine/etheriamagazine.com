@@ -10,10 +10,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Admirada entre las más bellas, Praga nos brinda experiencias creativas dentro del 
+Admirada entre las más bellas, Praga nos brinda experiencias creativas dentro del 
 panorama cultural europeo. Callejea y siente su ambiente porque consigue seducir a 
 cualquier viajera. Esta escapada urbana, entre el arte y la vida praguenses, finaliza 
-con la alegría de la vendimia en Chequia. ¿Puede haber mejor broche final al verano?** 
+con la alegría de la vendimia en Chequia. ¿Puede haber mejor broche final al verano? 
 
 ![Muro de John Lennon, en Praga.](https://fotos.etheriamagazine.com/2019/09/viaje-praga-muro-john-lennon.jpg "Muro de John Lennon, en Praga.")
 

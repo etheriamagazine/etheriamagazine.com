@@ -10,10 +10,10 @@ authors:
   - Vanesa Viñolo
 ---
 
-**El mundo agrícola es un entorno que continúa, en muchos casos, siendo hostil para la 
+El mundo agrícola es un entorno que continúa, en muchos casos, siendo hostil para la 
 mujer. Sin embargo, Almudena Alberca ha conseguido el título de Master of Wine y es la 
 primera española en lograrlo. No te pierdas la entrevista que le ha hecho Vanesa Viñolo 
-para Etheria Magazine.** 
+para Etheria Magazine. 
 
 Recuerdo cuando, hace unos quince años, una brillante enóloga me comentaba cómo tuvo que 
 fingir que era su marido quien realmente quería comprar unas viñas en Toro, para que el 

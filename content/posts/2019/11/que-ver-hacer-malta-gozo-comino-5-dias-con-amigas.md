@@ -1,6 +1,7 @@
 ---
 title: "Qué ver en Malta, un destino mediterráneo que nunca defrauda"
 date: 2019-11-19
+lastmod: 2024-05-01
 cover: https://fotos.etheriamagazine.com/2019/11/Malta-barca-tipica.jpg
 categories: 
   - viajar-con-amigas
@@ -17,7 +18,7 @@ pequeño gran país.
 
 ![Puesta de sol en el Café del Mar](https://fotos.etheriamagazine.com/2019/11/Malta-Cafe-del-mar.jpg "Puesta de sol en el © Café del Mar")
 
-Actualizado mayo de 2024. 
+<!-- LEGACY_UPDATED: Actualizado mayo de 2024. -->
 
 Malta tiene todos los ingredientes para colarse en tu 'wish list' de escapadas a la 
 vista en cualquier momento del año. Ya sería mala suerte que no pillaras alguno de los 

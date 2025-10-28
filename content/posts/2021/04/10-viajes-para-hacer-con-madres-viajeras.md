@@ -8,11 +8,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Se acerca el Día de la Madre y ya estamos a vueltas con el enésimo regalo para hacer 
-el primer domingo de mayo. Si ya has quemado todos los cartuchos de flores, dulces, 
-cremas, ropa, bolsos… ¿Qué te parece regalar (y regalarte) tiempo con tu madre en forma 
-de escapada? Aquí te proponemos 10 viajes para regalar el Día de la Madre y disfrutar 
-cuando quieras o cuando nos deje la pandemia.** 
+Se acerca el Día de la Madre y ya estamos a vueltas con el enésimo regalo para hacer el 
+primer domingo de mayo. Si ya has quemado todos los cartuchos de flores, dulces, cremas, 
+ropa, bolsos… ¿Qué te parece regalar (y regalarte) tiempo con tu madre en forma de 
+escapada? Aquí te proponemos 10 viajes para regalar el Día de la Madre y disfrutar 
+cuando quieras o cuando nos deje la pandemia. 
 
 ![Madre e hija haciéndose un selfie](https://fotos.etheriamagazine.com/2021/04/viaje-madre-hija.jpg "Regálate un viaje con tu madre.")
 

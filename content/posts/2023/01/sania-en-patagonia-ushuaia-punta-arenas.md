@@ -10,10 +10,10 @@ authors:
   - Sania Jelic
 ---
 
-**Sania Jelic continúa su viaje por Iberoamérica a buen ritmo y ha llegado a la 
-Patagonia en los últimos días. En este artículo nos relata en primera persona sus 
-impresiones de Ushuaia, conocida como 'la tierra del fin del mundo', y de Punta Arenas, 
-ciudad chilena situada en el estrecho de Magallanes.** 
+Sania Jelic continúa su viaje por Iberoamérica a buen ritmo y ha llegado a la Patagonia 
+en los últimos días. En este artículo nos relata en primera persona sus impresiones de 
+Ushuaia, conocida como 'la tierra del fin del mundo', y de Punta Arenas, ciudad chilena 
+situada en el estrecho de Magallanes. 
 
 ![Sania Jelic en la Patagonia argentina.](https://fotos.etheriamagazine.com/2023/01/Sania-calafate.jpg "Sania en la Patagonia argentina. © Sania Jelic")
 

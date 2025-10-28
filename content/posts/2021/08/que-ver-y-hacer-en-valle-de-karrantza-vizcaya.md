@@ -11,11 +11,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Discreto y rural, el vizcaíno valle de Karrantza, en el extremo más occidental de la 
+Discreto y rural, el vizcaíno valle de Karrantza, en el extremo más occidental de la 
 comarca de Las Encartaciones, fronterizo con tierras cántabras y burgalesas, es un 
 destino con el verde subido. Prados y bosques crean un pintoresco paisaje de campiña a 
 sus barrios. Sigue las 10 pistas que te damos para una desconexión rural y descubre la 
-sorpresa final que te espera en el pueblo de Trucios-Turziotz.** 
+sorpresa final que te espera en el pueblo de Trucios-Turziotz. 
 
 ![trucios valle de karrantza](https://fotos.etheriamagazine.com/2021/08/concha-centro-valle-karrantza.jpg "Trucios, en el valle de Karrantza.")
 

@@ -1,6 +1,7 @@
 ---
 title: "12 actividades para hacer con niños en la provincia de Cádiz"
 date: 2020-03-12
+lastmod: 2023-07-01
 cover: https://fotos.etheriamagazine.com/2020/03/bautizo-submarinismo-cadiz.jpg
 categories: 
   - viajar-en-familia
@@ -10,15 +11,15 @@ authors:
   - Pepa G. Marín
 ---
 
-**La provincia de Cádiz, especialmente la zona del litoral, sigue siendo año tras año 
-uno de los destinos más demandados para los viajes en familia. Como este tipo de viaje 
-con niños suele tener una duración mínima de 5 días, os vamos a recomendar algunas 
+La provincia de Cádiz, especialmente la zona del litoral, sigue siendo año tras año uno 
+de los destinos más demandados para los viajes en familia. Como este tipo de viaje con 
+niños suele tener una duración mínima de 5 días, os vamos a recomendar algunas 
 actividades y lugares que merece la pena conocer con los más pequeños (y los que no lo 
-son tanto).** 
+son tanto). 
 
 ![Playa Fuente del Gallo (Conil).](https://fotos.etheriamagazine.com/2020/03/playa-familiar-conil.jpg "Playa Fuente del Gallo (Conil). © Etheria Magazine")
 
-**Actualizado 30 de julio 2023** 
+<!-- LEGACY_UPDATED: **Actualizado 30 de julio 2023** -->
 
 ## 1\. Un día de playa
 

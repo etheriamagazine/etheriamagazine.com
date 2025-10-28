@@ -9,8 +9,8 @@ authors:
   - Eva Madruga
 ---
 
-**Si eres aficionada al cine documental te va a encantar 'Caras y lugares'. En este 
-artículo repasamos algunos de los lugares que aparecen en esta road movie francesa.** 
+Si eres aficionada al cine documental te va a encantar 'Caras y lugares'. En este 
+artículo repasamos algunos de los lugares que aparecen en esta road movie francesa. 
 
 ![El documental Caras y lugares realiza una road movie por la Francia rural](https://fotos.etheriamagazine.com/2018/05/Visages_villages-1.jpg "El documental Caras y lugares realiza una road movie por la Francia rural.")
 

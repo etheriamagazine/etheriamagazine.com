@@ -10,10 +10,10 @@ authors:
   - Pedro Grifol
 ---
 
-**El turismo de volcanes despunta como tendencia para los más aventureros, tras la 
+El turismo de volcanes despunta como tendencia para los más aventureros, tras la 
 erupción del Cumbre Vieja de La Palma y la más reciente del Stromboli. Hemos viajado a 
 Italia para hablaros de dos volcanes con historias de amor y celos. Dos películas, con 
-nombre de volcán, son el motivo para descubrir las islas Eolias.** 
+nombre de volcán, son el motivo para descubrir las islas Eolias. 
 
 ![Erupción del volcán Stromboli.](https://fotos.etheriamagazine.com/2022/10/erupcion-stromboli.jpg "Erupción del volcán Stromboli. © Pedro Grifol")
 

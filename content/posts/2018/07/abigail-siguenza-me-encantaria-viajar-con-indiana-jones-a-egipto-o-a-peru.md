@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Abigail Sigüenza fue Directora General de AVIAREPS para España y Portugal y ahora es 
+Abigail Sigüenza fue Directora General de AVIAREPS para España y Portugal y ahora es 
 Directora de Marketing Internacional de Madrid Destino. También, una de las Mujeres 
 Etheria que destacamos por su vinculación y buen hacer en el mundo de la promoción 
-turística.** 
+turística. 
 
 ![Abigail Sigüenza directora de Marketing de Destino Madrid](https://fotos.etheriamagazine.com/2018/07/Abigail-Sigueza-turismo-nueva-york.jpg "Abigail Sigüenza.")
 

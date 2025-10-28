@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-**No hay muchos hoteles que te permitan dormir en un palacio auténtico del siglo XIX tan 
+No hay muchos hoteles que te permitan dormir en un palacio auténtico del siglo XIX tan 
 bonito como el palacio Valle Flôr. Si le sumas su ubicación, en una zona privilegiada de 
 Lisboa, y el gusto por los detalles del grupo Pestana tienes el alojamiento perfecto 
 para una escapada de lujo a la capital lusa. No te pierdas el hotel Pestana Palace 
-Lisboa.** 
+Lisboa. 
 
 ![Fachada palacio Valle Flor](https://fotos.etheriamagazine.com/2020/04/Pestana-palace-lisboa-fachada.jpg "Fachada del palacio Valle Flôr, donde se ubica el Pestana Palace Lisboa.")
 

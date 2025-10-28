@@ -9,11 +9,11 @@ authors:
   - Redacción Etheria
 ---
 
-**No te conformes con pensar que “nos han robado el mes de abril”, tienes la posibilidad 
+No te conformes con pensar que “nos han robado el mes de abril”, tienes la posibilidad 
 de realizar actividades que te hagan sentir que no has perdido el tiempo. ¿Quieres 
 aprovechar estos días para aprender de arte y visitar museos nacionales e 
 internacionales desde casa? Van Eyck en Flandes, monumentos en Egipto o la Capilla 
-Sixtina te están esperando.** 
+Sixtina te están esperando. 
 
 ![exposicion van eyck, flandes, visitas virtuales a museos](https://fotos.etheriamagazine.com/2020/04/Portret-van-Margareta-van-Eyck.jpg "Retrato de Margareta van Eyck, 1439. © Musea Brugge, www.lukasweb.be – Art in Flanders, foto Hugo Maertens")
 

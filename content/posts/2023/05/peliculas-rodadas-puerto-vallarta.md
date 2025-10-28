@@ -11,11 +11,11 @@ authors:
   - Manena Munar
 ---
 
-**La tórrida, seductora y maravillosa película 'La Noche de la iguana' puso a Puerto 
+La tórrida, seductora y maravillosa película 'La Noche de la iguana' puso a Puerto 
 Vallarta en el mapa y la romántica serie de final feliz 'Vacaciones en el Mar' (_Love 
 Boat_) la convirtió en un sueño. Descubre las historias y secretos de estos rodajes y 
 cómo contribuyeron a que este paraíso mexicano sea hoy en día uno de los principales 
-focos turísticos del país.** 
+focos turísticos del país. 
 
 ![Puerto de Nuevo Vallarta](https://fotos.etheriamagazine.com/2023/05/nuevo-vallarta-puerto.jpg "Puerto de Nuevo Vallarta. © Taly Torres.")
 

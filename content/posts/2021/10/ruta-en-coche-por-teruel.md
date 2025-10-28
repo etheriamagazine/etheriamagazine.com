@@ -10,12 +10,12 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Emprender una ruta en coche por Teruel permite recorrer esta provincia despacito, 
+Emprender una ruta en coche por Teruel permite recorrer esta provincia despacito, 
 saliendo de los itinerarios marcados para hallar vivencias que estimulen nuestros 
 sentidos. Nada está lejos en medio de la tranquilidad que emana de sus carreteras 
 secundarias. Prepárate porque te vas a colar en una sorprendente 'road movie', en el 
 filme de un territorio que combate la huella del despoblamiento con sus atractivos 
-rurales.** 
+rurales. 
 
 ![Fraile Fernando Ruiz en el Monasterio El Olivar.](https://fotos.etheriamagazine.com/2021/10/Fraile-Fernando-Ruiz-Monasterio-El-Olivar.jpg "Fraile Fernando Ruiz en el Monasterio El Olivar.")
 

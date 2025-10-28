@@ -10,9 +10,9 @@ authors:
   - Eva Madruga
 ---
 
-**León es una ciudad sorprendente y moderna, cuya belleza se prolonga en el tiempo, e 
+León es una ciudad sorprendente y moderna, cuya belleza se prolonga en el tiempo, e 
 ideal para el errático rumbo del viajero. Te cautivará si viajas en pareja, con amigas o 
-sola. ¡Aquí van algunas pistas para que organices la visita a tu gusto!** 
+sola. ¡Aquí van algunas pistas para que organices la visita a tu gusto! 
 
 ![Calle Ancha, en el centro histórico de León.](https://fotos.etheriamagazine.com/2018/09/Leon-calle-ancha.jpg "Calle Ancha, en el centro histórico de León.")
 

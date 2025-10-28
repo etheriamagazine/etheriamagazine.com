@@ -9,10 +9,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Gracias a la Ola Verde o 'Global Greening' que se realiza desde hace más de una década 
+Gracias a la Ola Verde o 'Global Greening' que se realiza desde hace más de una década 
 en el Día de San Patricio, el color de la esperanza volverá a invadir el mundo el 17 de 
 marzo. Además de iluminar edificios, monumentos y otros lugares destacados, este año 
-ofrecerá un gran evento virtual desde tres pubs irlandeses y muchas sorpresas.** 
+ofrecerá un gran evento virtual desde tres pubs irlandeses y muchas sorpresas. 
 
 ![fuente de cibeles en san patricio](https://fotos.etheriamagazine.com/2021/03/Fuente-de-Cibeles-san-patricio.jpg "Fuente de Cibeles (Madrid) iluminada en San Patricio.")
 

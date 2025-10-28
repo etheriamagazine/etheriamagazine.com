@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**La Cena de Nochevieja es uno de esos hitos del año que todo el mundo celebra, 
+La Cena de Nochevieja es uno de esos hitos del año que todo el mundo celebra, 
 normalmente en cenas familiares. Pero, ¿has pensado en despedir el año 2021 sin tener 
 que preocuparte de nada? Te proponemos 8 cenas de Nochevieja en Madrid en hoteles de 
-lujo y espacios singulares para que la entrada en 2022 sea por todo lo alto.** 
+lujo y espacios singulares para que la entrada en 2022 sea por todo lo alto. 
 
 ![Decoración navideña en el hotel Orfila de Madrid.](https://fotos.etheriamagazine.com/2021/11/Nochevieja-hotel-orfila.jpg "Decoración navideña en el hotel Orfila de Madrid.")
 

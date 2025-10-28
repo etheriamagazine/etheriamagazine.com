@@ -9,10 +9,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Viajar en crucero siempre es una buena opción cuando se quiere descansar y no pensar 
+Viajar en crucero siempre es una buena opción cuando se quiere descansar y no pensar 
 mucho en la ruta y los alojamientos. La oferta es casi infinita en itinerarios y tipos 
 de barcos, así que hemos seleccionado 10 cruceros originales con los que hacer un viaje 
-diferente. Seguro que te van a apetecer muchísimo.** 
+diferente. Seguro que te van a apetecer muchísimo. 
 
 ![Un crucero original de Variety Cruises por las islas Seychelles](https://fotos.etheriamagazine.com/2023/02/cruceros-originales-variety-cruises-seychelles.jpg "Crucero de © Variety Cruises por las islas Seychelles.")
 

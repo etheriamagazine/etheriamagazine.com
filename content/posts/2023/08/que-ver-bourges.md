@@ -8,11 +8,11 @@ authors:
   - Pedro Grifol
 ---
 
-**Fue capital de Francia y será Capital Europea de la Cultura **en 2028**** **pero es 
-una ciudad poco conocida para la mayoría de los viajeros. Bourges se encuentra al sur de 
+Fue capital de Francia y será Capital Europea de la Cultura **en 2028** pero es una 
+ciudad poco conocida para la mayoría de los viajeros. Bourges se encuentra al sur de 
 París, a menos de dos horas en tren, pero permanece al margen del turismo de masas. En 
 este artículo te daremos buenas razones para visitarla como destino único o como una 
-escapada desde la capital francesa. Te va a sorprender.** 
+escapada desde la capital francesa. Te va a sorprender. 
 
 ![Casas medievales de Bourges.](https://fotos.etheriamagazine.com/2023/08/Bourges-Casas-medievales.jpg "Casas medievales de Bourges. © Pedro Grifol")
 

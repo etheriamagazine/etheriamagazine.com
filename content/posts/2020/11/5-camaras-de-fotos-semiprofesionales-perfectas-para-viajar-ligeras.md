@@ -9,10 +9,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Si te gusta hacer fotos en tus escapadas y estás pensando en comprarte (o regalar) una 
+Si te gusta hacer fotos en tus escapadas y estás pensando en comprarte (o regalar) una 
 cámara fotográfica para viajar, te recomendamos cinco modelos de distintas casas. Son 
 ligeras, fáciles de usar y con precios aceptables teniendo en cuenta que algunas tienen 
-características semiprofesionales.** 
+características semiprofesionales. 
 
 ![camara de fotos para viajar](https://fotos.etheriamagazine.com/2020/11/camara-foto-viajes.jpg "Descubre el placer de la fotografía en los viajes. © Andre Furtado")
 

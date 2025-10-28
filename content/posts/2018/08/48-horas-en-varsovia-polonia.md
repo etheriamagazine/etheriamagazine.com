@@ -10,10 +10,9 @@ authors:
   - Manena Munar
 ---
 
-**A pesar del típico tópico de que Varsovia era una ciudad imponente hasta que la guerra 
+A pesar del típico tópico de que Varsovia era una ciudad imponente hasta que la guerra 
 la destruyó, cuanto más la conoces, más te enamoras de ella. Y si no me crees... ¡haz la 
-prueba! Te contamos qué ver en Varsovia en un fin de semana para que no te pierdas 
-nada.** 
+prueba! Te contamos qué ver en Varsovia en un fin de semana para que no te pierdas nada. 
 
 ![Edificios en Varsovia](https://fotos.etheriamagazine.com/2018/08/Dos-epocas-arquitectonicas-de-Varsovia-la-socialista-y-la-actual.jpg "Contraste entre la Varsovia socialista y la actual.")
 

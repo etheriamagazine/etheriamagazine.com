@@ -12,10 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-**La cultura siempre es un buen plan, y Madrid no se para en cuanto a la oferta de 
+La cultura siempre es un buen plan, y Madrid no se para en cuanto a la oferta de 
 exposiciones durante este otoño tan raro. Aquí te proponemos 10 de ellas que son 
 apetecibles e imprescindibles a partes iguales y que se pueden visitar con total 
-tranquilidad siguiendo las medidas anticovid estipuladas.** 
+tranquilidad siguiendo las medidas anticovid estipuladas. 
 
 ![Falenas carlos Verger exposicion invitadas museo del prado](https://fotos.etheriamagazine.com/2020/10/exposicion-invitadas-museo-el-prado.jpg "Falenas Carlos Verger Fioretti (1872 - 1929). © Museo del Prado")
 

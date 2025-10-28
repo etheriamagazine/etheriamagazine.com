@@ -10,12 +10,12 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**El atractivo de las Rías Baixas es indiscutible, pero te proponemos explorar también 
-la provincia de Pontevedra. Queremos que sientas ese encanto viajero que, desde el 
-primer paso, te anima a seguir explorándola hasta la última piedra. Desde el collar de 
-perlas que son sus islas, los pazos y sus jardines de camelias hasta los castros más 
+El atractivo de las Rías Baixas es indiscutible, pero te proponemos explorar también la 
+provincia de Pontevedra. Queremos que sientas ese encanto viajero que, desde el primer 
+paso, te anima a seguir explorándola hasta la última piedra. Desde el collar de perlas 
+que son sus islas, los pazos y sus jardines de camelias hasta los castros más 
 sobresalientes. ¿Nos acompañas a conocer los lugares imprescindibles que hay que ver en 
-Pontevedra?** 
+Pontevedra? 
 
 ![A Guarda, en Pontevedra.](https://fotos.etheriamagazine.com/2022/12/a-guarda-pontevedra.jpg "A Guarda, en Pontevedra.")
 

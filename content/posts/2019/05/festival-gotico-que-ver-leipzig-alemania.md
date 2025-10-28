@@ -9,10 +9,10 @@ authors:
   - Manena Munar
 ---
 
-**El Festival Gótico de Leipzig, el más importante del mundo, se celebra este año del 26 
+El Festival Gótico de Leipzig, el más importante del mundo, se celebra este año del 26 
 al 29 de mayo de 2023. Durante cuatro días, más de 25.000 personas vestidas de negro, 
 carruajes mortuorios, calaveras, cadenas y mucha absenta llenarán las calles de esta 
-ciudad alemana en la 30ª edición del Wave-Gotik-Treffen.** 
+ciudad alemana en la 30ª edición del Wave-Gotik-Treffen. 
 
 ![Indumentaria gótica en el Festival de Leipzig.](https://fotos.etheriamagazine.com/2019/04/leipzig-viaje-festival.jpg "Indumentaria gótica en el Festival de Leipzig.")
 

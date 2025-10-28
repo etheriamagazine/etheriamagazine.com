@@ -8,12 +8,12 @@ authors:
   - Redacción Etheria
 ---
 
-**Comenzar un nuevo año es como disponer de un lienzo en blanco en el que ir esbozando 
-el motivo principal y eligiendo los colores. Para esos apuntes previos hemos elegido 
+Comenzar un nuevo año es como disponer de un lienzo en blanco en el que ir esbozando el 
+motivo principal y eligiendo los colores. Para esos apuntes previos hemos elegido 
 destinos que son idóneos por sus novedades, su apertura al turismo o, simplemente, 
 porque merece la pena que los descubras cuanto antes. 12 destinos y 12 motivos para 
 viajar en 2022 (aunque tú y yo sabemos que para hacer una escapada no hacen falta 
-justificaciones).** 
+justificaciones). 
 
 ![gran museo egipto viajar en 2022](https://fotos.etheriamagazine.com/2022/01/Grand-Egyptian-Museum.jpg "© Gran Museo Egipcio")
 

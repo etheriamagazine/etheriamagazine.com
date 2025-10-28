@@ -10,9 +10,9 @@ authors:
   - Cristina R. Bareño
 ---
 
-**No es la primera capital de la lista de deseos viajeros pero te aseguramos que cuando 
+No es la primera capital de la lista de deseos viajeros pero te aseguramos que cuando 
 conozcas las visitas imprescindibles de Bucarest, te faltará tiempo para hacer las 
-maletas. ¿No nos crees? Sigue leyendo porque nos vamos al corazón de Rumanía...** 
+maletas. ¿No nos crees? Sigue leyendo porque nos vamos al corazón de Rumanía... 
 
 ![Ateneo Rumano, en Bucarest.](https://fotos.etheriamagazine.com/2019/10/viaje-bucarest-ateneo-rumano.jpg "Ateneo Rumano, en Bucarest. © Puffy Buns / Unsplash")
 

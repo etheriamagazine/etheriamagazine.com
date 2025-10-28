@@ -1,6 +1,7 @@
 ---
 title: "Desiertos de película y pinchos “de cine”: una ruta por las Bardenas Reales y Tudela"
 date: 2024-10-12
+lastmod: 2024-10-01
 cover: https://fotos.etheriamagazine.com/2020/07/Tudela-catedral.jpg
 categories: 
   - viajar-con-amigas
@@ -18,7 +19,7 @@ amigas.
 
 ![Bardenas Reales, viajes a Navarra, escapadas por España](https://fotos.etheriamagazine.com/2020/07/bardenas-ruta.jpg "Bardenas Reales © Marco de Luca")
 
-Actualizado 10/2024 
+<!-- LEGACY_UPDATED: Actualizado 10/2024 -->
 
 Las Bardenas Reales ofrecen otra cara de Navarra. Frente al verde y las nieves eternas 
 de sus Pirineos, la Navarra del Sur esconde joyas como este **Parque Nacional Reserva de 

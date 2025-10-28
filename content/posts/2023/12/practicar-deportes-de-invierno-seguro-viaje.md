@@ -10,13 +10,13 @@ authors:
   - Redacción Etheria
 ---
 
-**Llega la temporada de los deportes de invierno, que nos permiten combinar la actividad 
+Llega la temporada de los deportes de invierno, que nos permiten combinar la actividad 
 física más divertida con los paisajes increíbles de la naturaleza nevada. Para disfrutar 
 de estas actividades como se merecen, lo mejor es contratar un buen seguro que nos dé la 
 tranquilidad de estar cubiertos si tenemos la mala suerte de tener algún percance. En 
 este artículo de damos algunas pistas tanto de los mejores lugares del mundo para 
 practicar estos deportes como de la mejor opción de seguros para disfrutarlos con toda 
-tranquilidad.** 
+tranquilidad. 
 
 ![chica haciendo snowboard](https://fotos.etheriamagazine.com/2023/12/snowboarder-esqui-intermundial.jpg "El snowboard es uno de los deportes de invierno más populares.")
 

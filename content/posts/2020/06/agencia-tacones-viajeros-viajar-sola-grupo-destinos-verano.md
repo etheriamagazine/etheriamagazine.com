@@ -9,10 +9,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Tacones Viajeros, la agencia de Elma Sesma y Patricia Estévez, ha reorganizado su 
+Tacones Viajeros, la agencia de Elma Sesma y Patricia Estévez, ha reorganizado su 
 programación para este verano con destinos en territorio nacional, tanto en la costa 
 como en el interior. En la siguiente entrevista nos cuentan sus próximos viajes, cómo 
-han afrontado estos últimos meses y sus expectativas de futuro.** 
+han afrontado estos últimos meses y sus expectativas de futuro. 
 
 ![Elma Sesma y Patricia Estévez forman Tacones Viajeros.](https://fotos.etheriamagazine.com/2020/06/tacones-viajeros-agencia.jpg "Elma Sesma y Patricia Estévez forman Tacones Viajeros.")
 

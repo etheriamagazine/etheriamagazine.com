@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**La cadena de hoteles AC Marriot ha apostado por inaugurar nuevos hoteles en las 
+La cadena de hoteles AC Marriot ha apostado por inaugurar nuevos hoteles en las 
 capitales sudamericanas de Lima, Bogotá y Santiago de Chile. Aquí te contamos por qué el 
 AC Hotel Lima Miraflores es una excelente opción para iniciar o terminar un viaje por 
-Perú.** 
+Perú. 
 
 ![Fachada del AC Lima Miraflores](https://fotos.etheriamagazine.com/2020/02/AC_Lima-fachada-Miraflores.jpg "Fachada del AC Lima Miraflores.")
 

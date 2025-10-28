@@ -11,10 +11,10 @@ authors:
   - Carmen Bengoechea
 ---
 
-**Recorrer en invierno los paisajes gastronómicos de La Rioja nos permite profundizar en 
+Recorrer en invierno los paisajes gastronómicos de La Rioja nos permite profundizar en 
 sus productos y tradiciones, adentrarnos en los hogares riojanos y saborear, amparados 
 por el calor de la chimenea, pucheros reconfortantes, quesos, vinos y aceite de oliva. 
-Un viaje perfecto para hacer con amigas, en pareja o con toda la familia.** 
+Un viaje perfecto para hacer con amigas, en pareja o con toda la familia. 
 
 ![Plato de caparrones de Anguiano.](https://fotos.etheriamagazine.com/2019/01/Restaurante-Cachetero-Txebiko.jpg "Plato de caparrones de Anguiano. © Restaurante Cachetero, Txebiko.")
 

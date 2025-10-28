@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Si buscas una selección de libros para el verano 2021 con matices viajeros, 
+Si buscas una selección de libros para el verano 2021 con matices viajeros, 
 gastronómicos, fotográficos o con curiosidades, la has encontrado. En este listado 
 encontrarás lecturas útiles, alguna novela entretenida y sugerencias para que organices 
-tus próximos viajes desde la comodidad de la tumbona.** 
+tus próximos viajes desde la comodidad de la tumbona. 
 
 ![libros recomendados verano 2021](https://fotos.etheriamagazine.com/2021/07/libros-verano-2021.jpg "Aprovecha el verano para aprender, entretenerte y organizar tus viajes. © Dan Dumitriu")
 

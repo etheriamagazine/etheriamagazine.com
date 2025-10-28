@@ -9,10 +9,9 @@ authors:
   - Redacción Etheria
 ---
 
-**Toca cerrar el año y hacer recuento. Son muchas las mujeres que nos han inspirado con 
-su fuerza, empuje y perseverancia, cualidades que destacan tanto en su faceta 
-profesional como en su vida cotidiana. Aquí te recordamos sólo diez de nuestras Mujeres 
-Etheria.** 
+Toca cerrar el año y hacer recuento. Son muchas las mujeres que nos han inspirado con su 
+fuerza, empuje y perseverancia, cualidades que destacan tanto en su faceta profesional 
+como en su vida cotidiana. Aquí te recordamos sólo diez de nuestras Mujeres Etheria. 
 
 ![marisa, viajes mundo amigo](https://fotos.etheriamagazine.com/2019/03/marisa-viajes-mundo-amigo.jpg "Marisa León de Viajes Mundo Amigo.")
 

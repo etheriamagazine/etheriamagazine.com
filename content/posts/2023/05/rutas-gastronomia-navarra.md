@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-**La variedad orográfica Navarra propicia que su territorio cuente con una espectacular 
+La variedad orográfica Navarra propicia que su territorio cuente con una espectacular 
 despensa donde no faltan verduras ni carnes de calidad. Si a todo ello se le suma un 
 recetario con influencia de las regiones vecinas, incluidas las francesas… el resultado 
 es una tierra tan rica que habría que visitarla al menos en cinco ocasiones para empezar 
-a hacernos una idea de la gastronomía navarra.** 
+a hacernos una idea de la gastronomía navarra. 
 
 ![Ruta con Northern Spain Travel.](https://fotos.etheriamagazine.com/2023/05/navarra-ruta-northern-spain-travel.jpg "Ruta con Northern Spain Travel.")
 

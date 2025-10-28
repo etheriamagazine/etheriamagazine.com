@@ -1,6 +1,7 @@
 ---
 title: "Cómo recorrer el Círculo Dorado de Islandia en coche durante 7 días"
 date: 2021-12-27
+lastmod: 2023-12-01
 cover: https://fotos.etheriamagazine.com/2021/12/gullfoss-catarata-islandia.jpg
 categories: 
   - viajar-con-amigas
@@ -17,7 +18,7 @@ las siete paradas esenciales en una ruta en coche por Islandia.
 
 ![Parque Nacional Thingvellir islandia](https://fotos.etheriamagazine.com/2021/12/islandia-Thingvellir.jpg "Parque Nacional Thingvellir. © Marina Paul")
 
-Actualizado 12/2023 
+<!-- LEGACY_UPDATED: Actualizado 12/2023 -->
 
 El Círculo Dorado de Islandia presume no sólo de ser uno de los circuitos más visitados 
 de este país y de poder realizarse en un día desde Reykjavik, sino de reunir todas las 

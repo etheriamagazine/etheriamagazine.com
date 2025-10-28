@@ -9,10 +9,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Eso de que una imagen vale más que mil palabras aplica estupendamente a esos paisajes 
+Eso de que una imagen vale más que mil palabras aplica estupendamente a esos paisajes 
 que evocan destinos maravillosos donde te gustaría teletransportarte al momento. En 
 situaciones en las que el estrés hace de las suyas, una buena estrategia es buscar un 
-paisaje relajante y evadirse por un momento.** 
+paisaje relajante y evadirse por un momento. 
 
 ![Cascada Seljandsfoss (Islandia).](https://fotos.etheriamagazine.com/2020/03/Paisajes-islandia-cascada.jpg "Cascada Seljandsfoss (Islandia). © Robert Lukeman")
 

@@ -1,6 +1,7 @@
 ---
 title: "Rutas por los 10 mejores cañones del País Vasco, disfruta de sus paisajes del agua"
 date: 2019-04-09
+lastmod: 2025-08-01
 cover: https://fotos.etheriamagazine.com/2019/03/canon-sobron-pais-vasco.jpg
 categories: 
   - organiza-tu-viaje
@@ -17,7 +18,7 @@ paisajes de agua más sorprendentes y desconocidos.
 
 ![ruta senderismo pais vasco, ecoturismo](https://fotos.etheriamagazine.com/2019/03/canon-sobron-pais-vasco.jpg "Cañón de Sobrón.")
 
-**Actualizado 8/2025** 
+<!-- LEGACY_UPDATED: **Actualizado 8/2025** -->
 
 Caminar es una necesidad vital para una viajera, una forma de saciar sus ansias de 
 descubrimiento. Echemos pie a la senda para recorrer, junto a las montañas, paisajes 

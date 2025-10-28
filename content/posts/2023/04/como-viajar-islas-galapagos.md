@@ -12,10 +12,10 @@ authors:
   - Sania Jelic
 ---
 
-**Sania Jelic ha pasado dos semanas en el archipiélago de las islas Galápagos, en 
-Ecuador, un paraíso natural de los que quedan pocos en el planeta. Nos cuenta su 
-experiencia en un crucero para buceadores con inmersiones únicas y sus impresiones de la 
-maravillosa isla de Isabela. Una emocionante etapa de su viaje que no olvidará jamás.** 
+Sania Jelic ha pasado dos semanas en el archipiélago de las islas Galápagos, en Ecuador, 
+un paraíso natural de los que quedan pocos en el planeta. Nos cuenta su experiencia en 
+un crucero para buceadores con inmersiones únicas y sus impresiones de la maravillosa 
+isla de Isabela. Una emocionante etapa de su viaje que no olvidará jamás. 
 
 ![Sania Jelic y una tortuga](https://fotos.etheriamagazine.com/2023/04/sania-galapagos-tortuga.jpg "Sania Jelic en las islas Galápagos. © SJ")
 

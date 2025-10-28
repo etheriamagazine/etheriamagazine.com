@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-**El mar de Andamán baña algunos de los lugares de playa más populares de Tailandia como 
+El mar de Andamán baña algunos de los lugares de playa más populares de Tailandia como 
 Krabi, las islas Phi Phi y Phuket. Ofrece un mar azul intenso, curiosas formaciones 
 rocosas, un rico fondo marino y playas de ensueño. Un lugar perfecto para visitar en 
-pareja.** 
+pareja. 
 
 ![Hotel Rayavadee, en Phranang.](https://fotos.etheriamagazine.com/2018/05/1-Krabi-Peninsula-de-Phranang-e1560153497740.jpg "Hotel Rayavadee, en Phranang.")
 

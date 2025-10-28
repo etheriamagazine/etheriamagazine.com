@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Con más de mil kilómetros señalizados, la isla de La Palma es uno de los paraísos con 
+Con más de mil kilómetros señalizados, la isla de La Palma es uno de los paraísos con 
 los que sueña cualquier senderista. A través de sus itinerarios se descubre el perfil 
 más virgen de este territorio canario. Si a ti te va lo verde y quieres conocer las 
-rutas más bonitas de La Palma sigue leyendo... No te arrepentirás.** 
+rutas más bonitas de La Palma sigue leyendo... No te arrepentirás. 
 
 ![Ruta del Cubo de la Galga en La Palma](https://fotos.etheriamagazine.com/2023/05/ruta-cubo-galga.jpg "Ruta del Cubo de la Galga. © Turismo Islas Canarias")
 

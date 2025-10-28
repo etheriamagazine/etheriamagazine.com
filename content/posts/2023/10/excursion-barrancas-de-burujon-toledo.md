@@ -10,11 +10,11 @@ authors:
   - Susana García
 ---
 
-**Nos acercamos a un paraje natural excepcional por original y único en Toledo: las 
+Nos acercamos a un paraje natural excepcional por original y único en Toledo: las 
 Barrancas de Burujón. Un lugar estupendo para hacer una excursión de medio día que se 
 puede completar con pueblos de los alrededores como Burujón o La Puebla de Montalbán, o 
 incluso con la cercana localidad de Toledo. ¡No te pierdas este fantástico plan en la 
-naturaleza!** 
+naturaleza! 
 
 ![dos jóvenes en las barrancas de burujón](https://fotos.etheriamagazine.com/2023/10/barrancas-burujon-vistas.jpg "Vistas de las Barrancas de Burujón. © Susana García")
 

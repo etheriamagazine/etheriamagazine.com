@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**No pienses que el verde europeo reside solo en los parques y jardines urbanos, 
-atrévete a conocer la desembocadura del Danubio, la última frontera del continente. Nos 
-vamos a Rumanía para descubrir un universo acuático de canales y lagos, rodeados de 
-estepa y sobrevolado por miles de aves. Seas como seas, hay un motivo para viajar a este 
-rincón de Rumanía.** 
+No pienses que el verde europeo reside solo en los parques y jardines urbanos, atrévete 
+a conocer la desembocadura del Danubio, la última frontera del continente. Nos vamos a 
+Rumanía para descubrir un universo acuático de canales y lagos, rodeados de estepa y 
+sobrevolado por miles de aves. Seas como seas, hay un motivo para viajar a este rincón 
+de Rumanía. 
 
 ![Atardecer en el Delta del Danubio (Rumanía).](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio.jpg "Atardecer en el Delta del Danubio (Rumanía).")
 

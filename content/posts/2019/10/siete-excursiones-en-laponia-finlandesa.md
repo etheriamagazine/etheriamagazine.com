@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**No hay un viaje que anticipe más la Navidad que el de la Laponia finlandesa y el 
-Puente de Diciembre y las vacaciones de Navidad son un momento perfecto para realizarlo. 
-Aquí te contamos que 7 excursiones no puedes perderte en Laponia para que tu viaje sea 
-todo un éxito.** 
+No hay un viaje que anticipe más la Navidad que el de la Laponia finlandesa y el Puente 
+de Diciembre y las vacaciones de Navidad son un momento perfecto para realizarlo. Aquí 
+te contamos que 7 excursiones no puedes perderte en Laponia para que tu viaje sea todo 
+un éxito. 
 
 ![aurora boreal y paisaje nevado](https://fotos.etheriamagazine.com/2019/10/Laponia-Politours-aurora-boreal.jpg "Aurora boreal en Laponia (© Lucas Marcomini) y paisaje nevado (© Joakim Honkasa)")
 

@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Las segundas ciudades son siempre una opción interesante a nivel cultural ya que 
-ofrecen un amplio repertorio de posibilidades sin el inconveniente de conseguir entradas 
-o de largas colas para ver exposiciones o espectáculos. Si viajas a Países Bajos este 
-otoño e invierno, Róterdam y Eindhoven te sorprenderán con sus propuestas de cultura, 
-diseño y arte.** 
+Las segundas ciudades son siempre una opción interesante a nivel cultural ya que ofrecen 
+un amplio repertorio de posibilidades sin el inconveniente de conseguir entradas o de 
+largas colas para ver exposiciones o espectáculos. Si viajas a Países Bajos este otoño e 
+invierno, Róterdam y Eindhoven te sorprenderán con sus propuestas de cultura, diseño y 
+arte. 
 
 ![Foodhallen, en Rotterdam.](https://fotos.etheriamagazine.com/2023/09/foodhallen-rotterdam.jpg "Foodhallen, en Rotterdam. © Mike van den Bos")
 

@@ -10,11 +10,11 @@ authors:
   - Yolanda Cardo
 ---
 
-**Fue el poeta francés Stéphen Liégeard quien bautizó este fabuloso boulevard 
-mediterráneo como Costa Azul. Sus paisajes hipnóticos, bendecidos por la luz y el clima, 
-han atraído tal cantidad de celebridades que se podría cartografiar su mapa de leyenda 
-en leyenda. Desde Etheria Magazine te proponemos un viaje a la Costa Azul en coche y con 
-amigas, una experiencia inolvidable en el destino vacacional más glamuroso del mundo.** 
+Fue el poeta francés Stéphen Liégeard quien bautizó este fabuloso boulevard mediterráneo 
+como Costa Azul. Sus paisajes hipnóticos, bendecidos por la luz y el clima, han atraído 
+tal cantidad de celebridades que se podría cartografiar su mapa de leyenda en leyenda. 
+Desde Etheria Magazine te proponemos un viaje a la Costa Azul en coche y con amigas, una 
+experiencia inolvidable en el destino vacacional más glamuroso del mundo. 
 
 ![saint paul de vence costa azul con amigas](https://fotos.etheriamagazine.com/2021/08/Saint-Paul-de-Vence-Marc-Chagall.jpg "En Saint-Paul de Vence está enterrado Marc Chagall. © Yolanda Cardo")
 

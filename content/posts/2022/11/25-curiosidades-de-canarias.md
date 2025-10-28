@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Canarias es un destino clásico, entre los más deseados durante décadas, e ideal para 
+Canarias es un destino clásico, entre los más deseados durante décadas, e ideal para 
 disfrutar durante todo el año. Pero también es un archipiélago variado, sorprendente y 
 repleto de curiosidades. Como seguro que no sabes tanto de sus islas como crees, te 
-retamos a descubrir sus muchos secretos en tu próxima visita.** 
+retamos a descubrir sus muchos secretos en tu próxima visita. 
 
 ![Playa de Tenerife, en las islas Canarias.](https://fotos.etheriamagazine.com/2022/11/portada-islas-canarias.jpg "Playa de Tenerife, en las islas Canarias. © Iancu Voinovan")
 

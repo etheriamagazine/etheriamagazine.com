@@ -12,10 +12,10 @@ authors:
   - Susana García
 ---
 
-**Hay muchas formas de realizar un viaje de esquí y para las amantes de este deporte 
+Hay muchas formas de realizar un viaje de esquí y para las amantes de este deporte 
 seguro que todas son buenas. Pero reconozcámoslo, si puedes hacerlo en un hotel de lujo 
 donde cuidan de cada pequeño detalle que rodea a este deporte y a tu estancia y, además, 
-cuenta con un spa increíble, ¿te lo vas a negar?** 
+cuenta con un spa increíble, ¿te lo vas a negar? 
 
 ![Exterior del Sport Hotel Hermitage & Spa.](https://fotos.etheriamagazine.com/2018/10/hermitage-exterior-invierno.jpg "Exterior del Sport Hotel Hermitage & Spa.")
 

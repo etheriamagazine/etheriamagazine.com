@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Cuando viajamos por España existen muchas formas de acercarse al destino que visitas y 
+Cuando viajamos por España existen muchas formas de acercarse al destino que visitas y 
 una de ellas es a través de su gastronomía. No te conformes con acudir a sus mejores 
 restaurantes: súbete las mangas y prueba a realizar alguno de los cursos de cocina 
 local. Aquí te damos las claves para que elijas el que mejor se adapte a tus gustos y 
-algunos lugares donde realizarlos.** 
+algunos lugares donde realizarlos. 
 
 ![cocinero pelando un calabacín](https://fotos.etheriamagazine.com/2020/08/gastronomia-calabacin.jpg "Prueba a realizar un taller de cocina en tus viajes por España, no te arrepentirás. © Caroline Attwood")
 

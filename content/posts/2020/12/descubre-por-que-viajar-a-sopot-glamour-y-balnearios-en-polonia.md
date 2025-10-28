@@ -1,6 +1,7 @@
 ---
 title: "Qué hacer en Sopot, la ciudad balneario más glamurosa de Polonia"
 date: 2020-12-25
+lastmod: 2024-04-01
 cover: https://fotos.etheriamagazine.com/2020/12/sopot-muelle.jpg
 categories: 
   - viajar-con-amigas
@@ -18,7 +19,7 @@ cualquier momento del año.
 
 ![Atardecer en Sopot.](https://fotos.etheriamagazine.com/2020/12/sopot-atardecer.jpg "Atardecer en Sopot.")
 
-Actualizado en abril de 2024 
+<!-- LEGACY_UPDATED: Actualizado en abril de 2024 -->
 
 Sopot forma parte de la Triciudad del voivodato (provincia) de Pomerania. Ésta incluye a 
 la culta y bella **Gdansk**, urbe hanseática y cuna de Gunter Grass; a **Gdynia**, uno 

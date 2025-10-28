@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Una vuelta al mundo es uno de esos viajes soñados a los que se vuelve de forma 
+Una vuelta al mundo es uno de esos viajes soñados a los que se vuelve de forma 
 recurrente cuando se quiere desconectar de todo. Aunque podría haber casi tantos 
 itinerarios como personas, hemos seleccionado diez lugares que deberías incluir en tu 
-viaje soñado.** 
+viaje soñado. 
 
 ![La Mezquita Azul.](https://fotos.etheriamagazine.com/2019/03/Estambul-La-Mequita-Azul.jpg "La Mezquita Azul. © Adli Wahid.")
 

@@ -1,6 +1,7 @@
 ---
 title: "La costa de Pontevedra con niños, ocho planes para el verano"
 date: 2019-10-01
+lastmod: 2024-07-01
 cover: https://fotos.etheriamagazine.com/2019/09/Pontevedra-mirador-a-granxa.jpg
 categories: 
   - viajar-en-familia
@@ -18,7 +19,7 @@ activo. ¿Qué más se puede pedir?
 
 {{< reflink path=posts/2019/10/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja >}}
 
-**Actualizado julio 2024** 
+<!-- LEGACY_UPDATED: **Actualizado julio 2024** -->
 
 Cuando viajas con niños necesitas buscar destinos que conjuguen varias facetas. Tienen 
 que ser lugares accesibles, fáciles en cuanto al transporte, donde la oferta de 

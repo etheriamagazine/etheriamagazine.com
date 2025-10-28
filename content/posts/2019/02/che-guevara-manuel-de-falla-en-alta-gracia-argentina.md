@@ -10,10 +10,10 @@ authors:
   - Kelu Robles
 ---
 
-**Unos árboles frutales tuvieron la culpa del peculiar encuentro de Manuel de Falla y 
-Che Guevara en un lugar que ha hechizado a indígenas, religiosos, revolucionarios y 
+Unos árboles frutales tuvieron la culpa del peculiar encuentro de Manuel de Falla y Che 
+Guevara en un lugar que ha hechizado a indígenas, religiosos, revolucionarios y 
 artistas. El misticismo manda en esta parte de Argentina que aún está por descubrir para 
-el gran público. Os contamos los encantos de los que presume.** 
+el gran público. Os contamos los encantos de los que presume. 
 
 ![Estancia de Alta Gracia.](https://fotos.etheriamagazine.com/2019/02/Viaje-cordoba-che-guevara.jpg "Estancia de Alta Gracia. © Kelu Robles")
 

@@ -1,6 +1,7 @@
 ---
 title: "Qué ver en Funchal, guía para 48 horas bien aprovechadas"
 date: 2022-08-08
+lastmod: 2025-07-01
 cover: https://fotos.etheriamagazine.com/2022/08/velero-por-Funchal.jpg
 categories: 
   - viajar-con-amigas
@@ -17,7 +18,7 @@ Sólo te podemos decir que te va a sorprender.
 
 ![Dos mujeres en los Jardines Tropicales de Monte Palace, en Funchal.](https://fotos.etheriamagazine.com/2022/08/funchal-jardines-Monte-Palace.jpg "Jardines Tropicales de Monte Palace, en Funchal. © Pedro Grifol")
 
-Actualizado 7/2025 
+<!-- LEGACY_UPDATED: Actualizado 7/2025 -->
 
 Si planeas una escapada a Madeira para tener tu primer contacto con la isla, te 
 proponemos un recorrido por lo mejor de Funchal, su capital. No tiene por qué ser un 

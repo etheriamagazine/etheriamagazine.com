@@ -10,12 +10,12 @@ authors:
   - Redacción Etheria
 ---
 
-**Cualquier fin de semana puede ser bueno para hacer una escapada a Burgos con niños 
+Cualquier fin de semana puede ser bueno para hacer una escapada a Burgos con niños 
 porque las propuestas son tan amplias que, sea cual sea la estación, siempre 
 descubriréis algo interesante. Aprender los secretos de la sal o de dónde sale el 
 petróleo, visitar parques de aventura o medievales, entrar en una mina o pescar en el 
 río son sólo algunas opciones. Hemos elegido diez planes familiares en la provincia de 
-Burgos que os van a encantar.** 
+Burgos que os van a encantar. 
 
 ![Casas pintorescas de Territorio Artlanza, un plan muy recomendable en Burgos.](https://fotos.etheriamagazine.com/2022/10/Territorio-Artlanza-burgos-familiar.jpg "Territorio Artlanza, un plan muy recomendable en Burgos.")
 

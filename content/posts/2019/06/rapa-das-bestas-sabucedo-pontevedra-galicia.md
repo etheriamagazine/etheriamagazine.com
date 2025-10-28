@@ -1,6 +1,7 @@
 ---
 title: "A rapa das bestas, la gran fiesta de los caballos de Sabucedo (Pontevedra)"
 date: 2019-06-24
+lastmod: 2025-07-01
 cover: https://fotos.etheriamagazine.com/2019/06/Rapa-das-Bestas-galicia.jpg
 categories: 
   - organiza-tu-viaje
@@ -17,7 +18,7 @@ Internacional por la Unesco.
 
 ![rapa das bestas, fiestas de verano en galicia](https://fotos.etheriamagazine.com/2019/06/Rapa-das-Bestas-galicia.jpg "Los caballos llegan al galope desde los montes.")
 
-**Actualizado 7/2025** 
+<!-- LEGACY_UPDATED: **Actualizado 7/2025** -->
 
 Pocas oportunidades tendrás de ver más de 600 caballos bajando juntos desde un monte. 
 Son las manadas que viven libres durante el año en los montes de la aldea pontevedresa 

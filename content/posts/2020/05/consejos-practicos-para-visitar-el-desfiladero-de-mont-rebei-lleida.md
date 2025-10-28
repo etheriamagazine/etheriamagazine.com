@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**La naturaleza ha esculpido en España auténticas maravillas arquitectónicas que 
-compiten en espectacularidad. Una de ellas es el desfiladero o congost de Mont-rebei, 
-que hace de frontera natural entre Cataluña y Aragón. Te contamos cómo es y qué opciones 
-tienes para recorrerlo.** 
+La naturaleza ha esculpido en España auténticas maravillas arquitectónicas que compiten 
+en espectacularidad. Una de ellas es el desfiladero o congost de Mont-rebei, que hace de 
+frontera natural entre Cataluña y Aragón. Te contamos cómo es y qué opciones tienes para 
+recorrerlo. 
 
 ![El sendero del desfiladero de Mont-rebei fue horadado en la roca como un camino de herradura.](https://fotos.etheriamagazine.com/2020/05/excursion-mont-rebei-caminata.jpg "El sendero del desfiladero de Mont-rebei fue horadado en la roca como un camino de herradura. © Pepa García")
 

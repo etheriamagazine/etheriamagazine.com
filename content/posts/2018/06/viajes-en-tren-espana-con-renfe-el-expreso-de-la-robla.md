@@ -10,9 +10,9 @@ authors:
   - Eva Madruga
 ---
 
-**El Expreso de la Robla es un crucero sobre raíles que recorre el norte peninsular con 
-la comodidad de un tren moderno y el encanto de uno antiguo. Es un itinerario idóneo 
-para viajar sola o en compañía. Tú eliges.** 
+El Expreso de la Robla es un crucero sobre raíles que recorre el norte peninsular con la 
+comodidad de un tren moderno y el encanto de uno antiguo. Es un itinerario idóneo para 
+viajar sola o en compañía. Tú eliges. 
 
 ![El Expreso de la Robla es uno de los trenes turísticos de Renfe.](https://fotos.etheriamagazine.com/2018/06/Expreso-de-la-Robla-6.jpg "El Expreso de la Robla es uno de los trenes turísticos de Renfe.")
 

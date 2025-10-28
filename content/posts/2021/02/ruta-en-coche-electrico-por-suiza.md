@@ -1,6 +1,7 @@
 ---
 title: "Ruta en coche eléctrico por Suiza, consejos para recorrer el país"
 date: 2021-02-10
+lastmod: 2025-08-01
 cover: https://fotos.etheriamagazine.com/2021/02/Coche-suiza-montanas.jpg
 categories: 
   - organiza-tu-viaje
@@ -17,7 +18,7 @@ los atractivos de este bello país alpino y respetar a la vez el medioambiente.
 
 ![pareja haciéndose una foto en Suiza](https://fotos.etheriamagazine.com/2021/02/coche-Grand-Tour-Suiza.jpg "Ruta en coche por Suiza. © Mattias Nutt")
 
-**Actualizado 8/2025** 
+<!-- LEGACY_UPDATED: **Actualizado 8/2025** -->
 
 Lo primero que debes hacer para organizar un viaje en coche por Suiza será elegir un 
 recorrido viendo en casa el mapa de [La Gran Ruta de 

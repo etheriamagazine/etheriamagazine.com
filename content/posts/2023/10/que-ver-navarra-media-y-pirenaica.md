@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**En este viaje os invitamos a recorrer algunos de los pueblos más bonitos de Navarra, 
+En este viaje os invitamos a recorrer algunos de los pueblos más bonitos de Navarra, 
 monumentos históricos que son un referente como el Castillo de Javier y el Monasterio de 
 Leyre, además de otros sitios secretos que te desvelaremos en el artículo. Esta es, sin 
-duda, una ruta perfecta para los amantes de la historia y la cultura.** 
+duda, una ruta perfecta para los amantes de la historia y la cultura. 
 
 ![Vistas desde Gallipienzo.](https://fotos.etheriamagazine.com/2023/10/vistas-gallipienzo.jpg "Vistas desde Gallipienzo. © Pepa G./ Etheria Magazine")
 

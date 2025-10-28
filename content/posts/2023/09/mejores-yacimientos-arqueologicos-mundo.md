@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Nos encantan las listas de propósitos viajeros y, en este caso, os destacamos diez 
+Nos encantan las listas de propósitos viajeros y, en este caso, os destacamos diez 
 yacimientos arqueológicos del mundo para visitar, al menos, una vez en la vida. Unos 
 están en ciudades cercanas y otros implican largos viajes, pero no por ello debemos 
-dejar de soñar con ellos. ¿Cuál visitaríais primero?** 
+dejar de soñar con ellos. ¿Cuál visitaríais primero? 
 
 ![Acrópolis de Atenas con el Partenón en lo alto.](https://fotos.etheriamagazine.com/2023/09/yacimiento-acropolis-atenas.jpg "Acrópolis de Atenas con el Partenón en lo alto.")
 

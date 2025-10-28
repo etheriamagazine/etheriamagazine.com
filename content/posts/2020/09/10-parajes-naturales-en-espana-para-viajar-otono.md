@@ -1,6 +1,7 @@
 ---
 title: "10 excursiones en España que mejoran si las haces en otoño"
 date: 2020-09-22
+lastmod: 2024-09-01
 cover: https://fotos.etheriamagazine.com/2019/04/leon-medulas-minas-oro.jpg
 categories: 
   - organiza-tu-viaje
@@ -18,7 +19,7 @@ nuestro deporte favorito, viajar.
 
 ![Paisaje extremeño de Las Hurdes](https://fotos.etheriamagazine.com/2020/07/las-hurdes-extremadura.jpg "Los paisajes y colores hurdanos nos sorprenden con su belleza. ©Yolanda Cardo")
 
-Actualizado 9/2024 
+<!-- LEGACY_UPDATED: Actualizado 9/2024 -->
 
 ## 1\. Excursión a Las Hurdes (Cáceres)
 

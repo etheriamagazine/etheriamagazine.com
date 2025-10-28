@@ -11,11 +11,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**El volcán del Teide despierta cada año con la llegada de la primavera. Sobre sus 
-oscuros campos de lava se produce una explosión rojiza: son las flores de los 
-tajinastes, una planta canaria que desarrolla espectaculares varas cubiertas de cientos 
-de menudas florecillas. A partir de mediados de mayo, como farolas rojas, marcan el 
-paisaje volcánico apuntando al cielo con sus flores.** 
+El volcán del Teide despierta cada año con la llegada de la primavera. Sobre sus oscuros 
+campos de lava se produce una explosión rojiza: son las flores de los tajinastes, una 
+planta canaria que desarrolla espectaculares varas cubiertas de cientos de menudas 
+florecillas. A partir de mediados de mayo, como farolas rojas, marcan el paisaje 
+volcánico apuntando al cielo con sus flores. 
 
 ![El bello color rosado del tajinaste en primavera.](https://fotos.etheriamagazine.com/2019/05/Tenerife-parque-teide-tajinaste-artistica-e1557138323667.jpg "El bello color del tajinaste en primavera.")
 

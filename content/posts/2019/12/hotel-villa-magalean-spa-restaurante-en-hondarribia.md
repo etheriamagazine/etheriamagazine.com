@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Si no crees en el amor a primera vista es que aún no has visitado el hotel Villa 
+Si no crees en el amor a primera vista es que aún no has visitado el hotel Villa 
 Magalean. Detrás de esa paz y serenidad que transmiten sus espacios están dos grandes 
 profesionales: Caroline Brousse, propietaria, y Susana Cardarelli, directora. Si eres 
-amante del buen gusto y los detalles, éste es tu alojamiento en Hondarribia.** 
+amante del buen gusto y los detalles, éste es tu alojamiento en Hondarribia. 
 
 ![hotel magalean, hotel hondarribia, rusticae](https://fotos.etheriamagazine.com/2019/11/hotel-magalean-recepcion.jpg "Hotel Villa Magalean (Hondarribia).")
 

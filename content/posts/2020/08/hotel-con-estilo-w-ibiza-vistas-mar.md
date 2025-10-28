@@ -11,9 +11,9 @@ authors:
   - Redacción Etheria
 ---
 
-**Nos encantan los hoteles que apuestan por propuestas diferentes y vanguardistas como 
-los W de Marriott. En este caso nos fijamos en el nuevo W Ibiza, un hotel en Santa 
-Eulalia del Río lleno de color que es perfecto para una escapada con amigas.** 
+Nos encantan los hoteles que apuestan por propuestas diferentes y vanguardistas como los 
+W de Marriott. En este caso nos fijamos en el nuevo W Ibiza, un hotel en Santa Eulalia 
+del Río lleno de color que es perfecto para una escapada con amigas. 
 
 ![Terraza de la suite Wow en el W Ibiza](https://fotos.etheriamagazine.com/2020/08/w-ibiza-suite-wow.jpg "Terraza de la suite Wow.")
 

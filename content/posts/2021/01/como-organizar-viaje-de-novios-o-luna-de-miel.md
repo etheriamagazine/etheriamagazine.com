@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Si te casas este año ya es momento de empezar a pensar en tu viaje de novios. Queremos 
+Si te casas este año ya es momento de empezar a pensar en tu viaje de novios. Queremos 
 ayudarte con la elección de un viaje que tiene que salir bien, así que te hacemos una 
 serie de preguntas para que te pares a pensar antes de elegir el destino de tu luna de 
-miel y el tipo de viaje. ¿Empezamos?** 
+miel y el tipo de viaje. ¿Empezamos? 
 
 ![pareja en sillas de colores frente al mar](https://fotos.etheriamagazine.com/2021/01/viaje-novios-playa.jpg "Viaje de novios junto al mar.")
 

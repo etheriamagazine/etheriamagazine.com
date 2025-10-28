@@ -11,10 +11,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Sus 956 kilómetros de costa la convierten en la provincia española con el litoral más 
+Sus 956 kilómetros de costa la convierten en la provincia española con el litoral más 
 extenso. Un balcón privilegiado al final de un continente donde asomarte para abarcar un 
 destino mítico a horizonte abierto. Te contamos los 15 imprescindibles que ver en A 
-Coruña para que no te pierdas nada de su maravillosa costa.** 
+Coruña para que no te pierdas nada de su maravillosa costa. 
 
 ![gaitero frente a la torre de Hércules](https://fotos.etheriamagazine.com/2022/09/coruna-torre-hercules.jpg "Torre de Hércules en A Coruña. © Susana García")
 

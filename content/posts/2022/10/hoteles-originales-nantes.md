@@ -11,11 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Existen ciudades como Nantes en las que ya sabes que hay detalles sorprendentes en 
-todos sus rincones. Este destino francés no sólo logra sacarte un "oooh" en sus 
-monumentos y calles sino que esa sorpresa se traslada también a las propuestas de 
-alojamiento. Si te gustan las experiencias diferentes, no te pierdas estos hoteles 
-originales en Nantes.** 
+Existen ciudades como Nantes en las que ya sabes que hay detalles sorprendentes en todos 
+sus rincones. Este destino francés no sólo logra sacarte un "oooh" en sus monumentos y 
+calles sino que esa sorpresa se traslada también a las propuestas de alojamiento. Si te 
+gustan las experiencias diferentes, no te pierdas estos hoteles originales en Nantes. 
 
 ![Dream Jungle, la creación de Makiko Furuichi en el hotel Amiral.](https://fotos.etheriamagazine.com/2022/10/makiko-furuichi-dream-jungle.jpg "Dream Jungle, la creación de Makiko Furuichi en el hotel Amiral. © Jean Dominique Billaud/ LVAN")
 

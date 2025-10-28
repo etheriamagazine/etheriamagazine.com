@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**El Princesa Yaiza Suite Hotel Resort se levanta en Playa Blanca, al sur de Lanzarote, 
+El Princesa Yaiza Suite Hotel Resort se levanta en Playa Blanca, al sur de Lanzarote, 
 como uno de los mejores hoteles de la isla. Habitaciones espaciosas, amplia oferta de 
 restauración y un completo programa de animación para niños hacen de este hotel el 
-destino perfecto para unas vacaciones familiares.** 
+destino perfecto para unas vacaciones familiares. 
 
 ![Princesa Yaiza Hotel Suite Resort en Playa Blanca.](https://fotos.etheriamagazine.com/2023/07/hotel-princesa-yaiza-playa-blanca.jpg "Princesa Yaiza Hotel Suite Resort en Playa Blanca.")
 

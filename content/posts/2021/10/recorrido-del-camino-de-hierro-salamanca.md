@@ -11,11 +11,11 @@ authors:
   - Pepa G. Marín
 ---
 
-**Los amantes del senderismo y la naturaleza encontrarán en el Camino de Hierro una ruta 
+Los amantes del senderismo y la naturaleza encontrarán en el Camino de Hierro una ruta 
 de 17 kilómetros donde los paisajes, los túneles y los puentes convertirán el paseo en 
 una aventura diferente, divertida e, incluso, didáctica. La antigua línea ferroviaria 
 que conectaba Salamanca con Portugal es el escenario por donde transcurre. Te contamos 
-todo lo que necesitas saber para hacer esta ruta de forma adecuada.** 
+todo lo que necesitas saber para hacer esta ruta de forma adecuada. 
 
 ![camino de hierro salamanca](https://fotos.etheriamagazine.com/2021/10/senderismo-caminos-hierro.jpg "El Camino de Hierro tiene una extensión de 17 km.")
 

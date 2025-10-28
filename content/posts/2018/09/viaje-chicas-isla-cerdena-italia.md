@@ -10,10 +10,9 @@ authors:
   - Pilar Ortega
 ---
 
-**Hay muchas maneras de enfocar una ruta en coche por Cerdeña pero las reduciremos a 
-dos, según quieras compartir espacio con ricos y famosos o prefieras descansar en 
-remansos de paz. Claro que también existe la posibilidad de combinar ambas... Tú 
-eliges.** 
+Hay muchas maneras de enfocar una ruta en coche por Cerdeña pero las reduciremos a dos, 
+según quieras compartir espacio con ricos y famosos o prefieras descansar en remansos de 
+paz. Claro que también existe la posibilidad de combinar ambas... Tú eliges. 
 
 ![playa pelosa ruta coche cerdena](https://fotos.etheriamagazine.com/2018/09/viaje-La-Pelosa-Stintino-Sardegna-e1550992140547.jpg "La playa de La Pelosa es una de las imágenes idílicas de Cerdeña. © ENIT")
 

@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**En el Novotel Sevilla podrás hacer el check-in mientras tomas un café, descansar en 
-una cama de diseño ecológico, consumir productos de Kilómetro Cero y colaborar en la 
-lucha contra la deforestación. Disfrutar de la belleza de Sevilla desde un alojamiento 
-comprometido con la sostenibilidad es posible.** 
+En el Novotel Sevilla podrás hacer el check-in mientras tomas un café, descansar en una 
+cama de diseño ecológico, consumir productos de Kilómetro Cero y colaborar en la lucha 
+contra la deforestación. Disfrutar de la belleza de Sevilla desde un alojamiento 
+comprometido con la sostenibilidad es posible. 
 
 ![bar novotel sevilla](https://fotos.etheriamagazine.com/2019/05/novotel-sevilla-bar-lobby.jpg "Bar del lobby de Novotel Sevilla.")
 

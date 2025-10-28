@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Preparar las vacaciones es algo serio porque esos días de viaje constituyen el soplo 
-de aire fresco que necesitas para seguir con la vida diaria y sus rutinas. Hay muchas 
+Preparar las vacaciones es algo serio porque esos días de viaje constituyen el soplo de 
+aire fresco que necesitas para seguir con la vida diaria y sus rutinas. Hay muchas 
 maneras de comenzar a buscar ideas o de familiarizarnos con el destino, pero una de las 
 mejores es la lectura. Los libros y guías de viajes, tanto si son informativos como si 
-se trata de ficción, te vendrán muy bien.** 
+se trata de ficción, te vendrán muy bien. 
 
 ![Mujer leyendo en la orilla del mar](https://fotos.etheriamagazine.com/2023/08/guias-viaje-playa.jpg "Las vacaciones son el mejor momento para terminar con lecturas pendientes.")
 

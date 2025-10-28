@@ -11,11 +11,10 @@ authors:
   - Pedro Grifol
 ---
 
-**Los pueblos de esta Ruta del Duero nos hablan de historia, de cultura, de enología y 
-del arte del buen vivir. Cada uno de ellos aporta en esta escapada por tierras de 
-Castilla y León una pincelada curiosa y, sobre todo, con mucho sabor. ¿Nos acompañas a 
-conocer Aranda de Duero, Haza, Peñafiel, Padilla de Duero, Valbuena de Duero, Castronuño 
-y Toro?** 
+Los pueblos de esta Ruta del Duero nos hablan de historia, de cultura, de enología y del 
+arte del buen vivir. Cada uno de ellos aporta en esta escapada por tierras de Castilla y 
+León una pincelada curiosa y, sobre todo, con mucho sabor. ¿Nos acompañas a conocer 
+Aranda de Duero, Haza, Peñafiel, Padilla de Duero, Valbuena de Duero, Castronuño y Toro? 
 
 ![Una joven sostiene un bote de setas en Xokoreto, en Castronuño.](https://fotos.etheriamagazine.com/2022/05/xokoreto-castronuno-ribera-duero.jpg "Xokoreto, en Castronuño. © Pedro Grifol")
 

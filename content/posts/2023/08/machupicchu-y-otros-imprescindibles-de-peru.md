@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Perú es uno de esos países que siempre está presente en la lista de deseos de aquellas 
+Perú es uno de esos países que siempre está presente en la lista de deseos de aquellas 
 personas con espíritu aventurero, uno de esos sueños que junto con lugares como Egipto y 
 Jordania habla de antiguas civilizaciones y de misterio. Te animamos a conocer Machu 
-Picchu, su abanderado turístico, pero también otros lugares imprescindibles de Perú.** 
+Picchu, su abanderado turístico, pero también otros lugares imprescindibles de Perú. 
 
 ![Mujeres peruanas ataviadas con el traje tradicional](https://fotos.etheriamagazine.com/2023/08/mujeres-peru-viajes.jpg "La cultura y el folclore son una atractivo añadido en Perú. © Deb Dowd")
 

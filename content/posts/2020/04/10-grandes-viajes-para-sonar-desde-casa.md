@@ -11,8 +11,8 @@ authors:
   - Redacción Etheria
 ---
 
-**Soñar con un gran viaje siempre es reconfortante y te permiten trasladarte mentalmente 
-a países que bien pueden estar en tu agenda en los próximos meses o años**. 
+Soñar con un gran viaje siempre es reconfortante y te permiten trasladarte mentalmente a 
+países que bien pueden estar en tu agenda en los próximos meses o años . 
 
 ![Panorámica de los '12 Apóstoles'.](https://fotos.etheriamagazine.com/2019/02/doce-apostoles-australia.jpg "Panorámica de los '12 Apóstoles'.")
 

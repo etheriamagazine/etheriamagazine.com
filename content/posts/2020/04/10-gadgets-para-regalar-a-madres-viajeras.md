@@ -9,10 +9,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Si tienes una amiga o una madre viajera te damos ideas que puedes comprar online y 
+Si tienes una amiga o una madre viajera te damos ideas que puedes comprar online y 
 quedar fenomenal. Y si la viajera eres tú, quizá te sirva para dar pistas e iluminar a 
 tu familia en tu próximo cumpleaños. Elige entre estos 10 gadgets perfectos para 
-regalar.** 
+regalar. 
 
 ![gadgets para viajeras](https://fotos.etheriamagazine.com/2020/04/regalos-madre-viajera.jpg "Regalos para viajeras.")
 

@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Los geles hidroalcohólicos se han convertido de la noche a la mañana en productos 
+Los geles hidroalcohólicos se han convertido de la noche a la mañana en productos 
 indispensables en nuestro día a día y, aún más, cuando viajamos, pero ¿cumplen todos su 
 función de eliminar bacterias y virus? Aclaramos dudas y compartimos algunas marcas que 
-hemos sometido a examen según nivel protección, textura y aroma.** 
+hemos sometido a examen según nivel protección, textura y aroma. 
 
 ![uso gel hidroalcoholico](https://fotos.etheriamagazine.com/2020/11/uso-gel-hidroalcoholico.jpg "El gel hidroalcohólico se debe emplear cuando no tenemos a mano agua y jabón. © Kelly Sikkema")
 

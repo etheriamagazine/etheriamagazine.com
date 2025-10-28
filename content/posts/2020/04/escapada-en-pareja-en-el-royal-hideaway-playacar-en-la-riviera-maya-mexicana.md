@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**El hotel de cinco estrellas Royal Hideaway Playacar es un rincón de paz sólo para 
+El hotel de cinco estrellas Royal Hideaway Playacar es un rincón de paz sólo para 
 adultos en la paradisíaca costa de Playa del Carmen, en la Riviera Maya mexicana. Tiene 
 todo lo que puedas desear para esa escapada romántica que tan bien sienta al menos una 
-vez al año.** 
+vez al año. 
 
 ![Royal Hideaway Playacar Adults only](https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-vista-general.jpg "Vista del Royal Hideaway Playacar Adults only.")
 

@@ -1,6 +1,7 @@
 ---
 title: "6 experiencias inolvidables en el Algarve con tus mejores amigas"
 date: 2021-10-07
+lastmod: 2024-04-01
 cover: https://fotos.etheriamagazine.com/2021/10/algarve-amigas-excursiones.jpg
 categories: 
   - viajar-con-amigas
@@ -16,7 +17,7 @@ cosas para conseguir una escapada perfecta al Algarve con amigas.
 
 ![Kayak en las cuevas de Benagil.](https://fotos.etheriamagazine.com/2021/10/algarve-benagil-kayak.jpg "Kayak en las cuevas de Benagil. © Susana García")
 
-Actualizado en abril de 2024 
+<!-- LEGACY_UPDATED: Actualizado en abril de 2024 -->
 
 Siempre es un buen momento para viajar al Algarve con amigas. Su buena situación 
 respecto a España (puedes llegar en coche o en avión a Faro) y su promesa de playas 

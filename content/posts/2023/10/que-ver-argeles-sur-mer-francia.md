@@ -1,6 +1,7 @@
 ---
 title: "Argelès-sur-Mer, 9 experiencias para enamorarte de esta comuna francesa"
 date: 2023-10-04
+lastmod: 2025-09-01
 cover: https://fotos.etheriamagazine.com/2023/10/centro-argeles-sur-mer.jpg
 categories: 
   - viajar-sola
@@ -16,7 +17,7 @@ pintoresca comuna francesa de los Pirineos Orientales y fronteriza con España.
 
 ![Mural de Niko Inko y Jean Rooble.](https://fotos.etheriamagazine.com/2023/10/Argeles-sur-Mer-Mural-Niko-inko-Jean-Rooble.jpg "Mural de Niko Inko y Jean Rooble, en Argelès-sur-Mer. © Yolanda Cardo")
 
-Actualizado 9/2025 
+<!-- LEGACY_UPDATED: Actualizado 9/2025 -->
 
 A los pies del macizo de la Albera se despliega un hermoso territorio donde las cimas 
 pirenaicas descienden para sumergirse en el Mediterráneo. Es precisamente en esa 

@@ -14,9 +14,9 @@ authors:
   - Redacción Etheria
 ---
 
-**¿Estás preparando un viaje a Tailandia o planeas hacerlo en los próximos meses? Aquí 
-te damos unas claves para no equivocarte con lo que metes en la maleta y optimizar el 
-espacio para no ir muy cargada.** 
+¿Estás preparando un viaje a Tailandia o planeas hacerlo en los próximos meses? Aquí te 
+damos unas claves para no equivocarte con lo que metes en la maleta y optimizar el 
+espacio para no ir muy cargada. 
 
 ![viajes a Tailandia, luna de miel en Tailandia, viajes en pareja](https://fotos.etheriamagazine.com/2019/12/maleta-tailandia-playa.jpg "Playa de Phra Nang (Krabi). © Sumit Chinchane")
 

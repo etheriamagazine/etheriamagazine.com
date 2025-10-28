@@ -12,11 +12,11 @@ authors:
   - Sania Jelic
 ---
 
-**Sania comienza su viaje en Colombia visitando Bogotá y Medellín, las dos principales 
+Sania comienza su viaje en Colombia visitando Bogotá y Medellín, las dos principales 
 ciudades del país. Dos urbes que mantienen su etiqueta de inseguras, pero que, con 
 precauciones y conociendo los lugares más "peligrosos", son aptas para las mujeres que 
 viajan solas. Esta gran viajera comparte en esta nueva crónica su experiencia, sus 
-consejos y nos narra la interesante historia de la Comuna 13 de Medellín.** 
+consejos y nos narra la interesante historia de la Comuna 13 de Medellín. 
 
 ![Sania en el Lago Dorado, cerca de Bogotá.](https://fotos.etheriamagazine.com/2023/04/sania-colombia-lago-dorado.jpg "Sania en el Lago Dorado, cerca de Bogotá. © Sania Jelic.")
 

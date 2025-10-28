@@ -8,10 +8,10 @@ authors:
   - Pedro Grifol
 ---
 
-**En la región italiana de Emilia-Romaña se encuentra la ciudad de Módena, famosa por 
-ser la cuna de un condimento que casi todos tenemos en la cocina: el 'aceto balsamico di 
+En la región italiana de Emilia-Romaña se encuentra la ciudad de Módena, famosa por ser 
+la cuna de un condimento que casi todos tenemos en la cocina: el 'aceto balsamico di 
 Modena', ese preciado elixir que se suele echar en las ensaladas, y que (casualmente) 
-¡es donde no se debe echar!... Pero bueno, ese es un tema que otro día explicaré.** 
+¡es donde no se debe echar!... Pero bueno, ese es un tema que otro día explicaré. 
 
 ![Un ferrari en Módena](https://fotos.etheriamagazine.com/2019/03/viaje-modena-lujo.jpg "Viaje de lujo a Módena.")
 

@@ -10,10 +10,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Getxo es uno de los mejores destinos familiares de la costa de Bizkaia, un éxito 
-seguro cuando se trata de planear un viaje con nuestros seres queridos. Estamos 
-convencidas de que después de leer estas propuestas, vas a querer organizar tus 
-vacaciones al estilo vasco para disfrutar a lo grande.** 
+Getxo es uno de los mejores destinos familiares de la costa de Bizkaia, un éxito seguro 
+cuando se trata de planear un viaje con nuestros seres queridos. Estamos convencidas de 
+que después de leer estas propuestas, vas a querer organizar tus vacaciones al estilo 
+vasco para disfrutar a lo grande. 
 
 ![Visita guiada en Puerto Viejo.](https://fotos.etheriamagazine.com/2023/05/Visita-Puerto-Viejo.jpg "Visita guiada en Puerto Viejo.")
 

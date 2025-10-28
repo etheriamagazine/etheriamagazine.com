@@ -11,9 +11,9 @@ authors:
   - Cynthia Martín
 ---
 
-**Conocer la historia de Copenhague al mismo tiempo que sus joyas arquitectónicas más 
+Conocer la historia de Copenhague al mismo tiempo que sus joyas arquitectónicas más 
 icónicas nos permite disfrutar del pasado y casi del futuro. Después de este paseo por 
-la capital danesa, te prometemos que C4 se convertirá en un amigo íntimo.** 
+la capital danesa, te prometemos que C4 se convertirá en un amigo íntimo. 
 
 ![canales copenhague](https://fotos.etheriamagazine.com/2022/01/canales-copenhague.jpg "Canales de Copenhague. © Daniel Rasmussen/ Visit Copenhagen")
 

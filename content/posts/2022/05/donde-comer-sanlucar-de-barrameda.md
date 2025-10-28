@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Capital gastronómica de España 2022, Sanlúcar de Barrameda merece una visita por 
-muchos motivos, y uno de ellos es la felicidad que te va a proporcionar a través del 
-paladar. Te proponemos un recorrido por sus productos estrella y sus bares y 
-restaurantes para que vayas abriendo boca antes de tu próxima visita.** 
+Capital gastronómica de España 2022, Sanlúcar de Barrameda merece una visita por muchos 
+motivos, y uno de ellos es la felicidad que te va a proporcionar a través del paladar. 
+Te proponemos un recorrido por sus productos estrella y sus bares y restaurantes para 
+que vayas abriendo boca antes de tu próxima visita. 
 
 ![Langostinos de Sanlúcar.](https://fotos.etheriamagazine.com/2022/05/sanlucar-langostinos.jpg "Langostinos de Sanlúcar. © Ricardo Jiménez")
 

@@ -11,10 +11,10 @@ authors:
   - Vanesa Viñolo
 ---
 
-**Es un momento excepcional para recorrer Castilla y León a ritmo de asador. Y es que, 
-con los pastos en flor y las ovejas comiendo como auténticas 'foodies', los corderos 
+Es un momento excepcional para recorrer Castilla y León a ritmo de asador. Y es que, con 
+los pastos en flor y las ovejas comiendo como auténticas 'foodies', los corderos 
 lechales nos ofrecerán su mejor sabor. Así que ya tenemos una excusa para coger el coche 
-y visitar alguno de estos templos del lechazo.** 
+y visitar alguno de estos templos del lechazo. 
 
 ![El lechazo de Castilla y León posee IGP (Indicación Geográfica Protegida).](https://fotos.etheriamagazine.com/2019/04/Ruta-lechazo-asado.jpg "El lechazo de Castilla y León posee IGP (Indicación Geográfica Protegida).")
 

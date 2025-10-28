@@ -10,10 +10,10 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-**Si quiere viajar sola a Nueva Zelanda y te gusta el trekking, vas a disfrutar 
-realizando estas dos rutas: una de cuatro días en el fiordo Mildford Sound y otra de una 
-jornada por el Parque Nacional Tongariro. Con ambas comprobarás la inmensidad natural de 
-nuestras Antípodas.** 
+Si quiere viajar sola a Nueva Zelanda y te gusta el trekking, vas a disfrutar realizando 
+estas dos rutas: una de cuatro días en el fiordo Mildford Sound y otra de una jornada 
+por el Parque Nacional Tongariro. Con ambas comprobarás la inmensidad natural de 
+nuestras Antípodas. 
 
 ![Flores en Mildford Sound.](https://fotos.etheriamagazine.com/2019/07/Nueva-Zelanda-flores-Mildford-Sound.jpg "Flores en Mildford Sound. © Aneta Foubikova")
 

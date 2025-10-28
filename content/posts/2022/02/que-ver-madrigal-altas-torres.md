@@ -11,12 +11,12 @@ authors:
   - Carmen Pineda
 ---
 
-**A veces, los destinos más insospechados e interesantes los tenemos a la vuelta de la 
+A veces, los destinos más insospechados e interesantes los tenemos a la vuelta de la 
 esquina, y el pueblo abulense de Madrigal de las Altas Torres es un buen ejemplo de 
 ello. Con una oferta cultural y patrimonial espectacular y cuatro rutas culturales de 
 impresión, que ya las querrían para sí otros destinos más famosos, es un lugar perfecto 
 para un fin de semana o como parada obligatoria en la 'Ruta de Isabel la Católica' en 
-Castilla y León.** 
+Castilla y León. 
 
 ![panoramica de madrigal de las altas torres](https://fotos.etheriamagazine.com/2022/02/Panoramica-Madrigal.jpg "Panorámica de Madrigal. © Tatavasco Imágenes.")
 

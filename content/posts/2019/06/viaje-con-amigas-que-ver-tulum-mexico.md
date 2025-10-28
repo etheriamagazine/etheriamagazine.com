@@ -10,9 +10,9 @@ authors:
   - Macarena Escrivá
 ---
 
-**¿De verdad existe el paraíso? Nosotras hemos encontrado uno. Uno bañado por las aguas 
+¿De verdad existe el paraíso? Nosotras hemos encontrado uno. Uno bañado por las aguas 
 del Caribe, donde la vida es lenta y tranquila, las palmeras campan a sus anchas y la 
-playa se funde con la selva. Te contamos qué ver en Tulum, el nuevo edén mexicano**. 
+playa se funde con la selva. Te contamos qué ver en Tulum, el nuevo edén mexicano . 
 
 ![foto aérea de la playa de Tulum](https://fotos.etheriamagazine.com/2019/06/Tulum-con-amigas-playa-mar.jpg "Costa de Tulum.")
 

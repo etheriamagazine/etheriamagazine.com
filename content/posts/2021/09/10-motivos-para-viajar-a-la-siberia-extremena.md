@@ -1,6 +1,7 @@
 ---
 title: "Elige uno de estos 10 motivos para viajar a La Siberia extremeña"
 date: 2021-09-26
+lastmod: 2023-10-01
 cover: https://fotos.etheriamagazine.com/2021/09/miradores-Reserva-Biosfera-La-Siberia.jpg
 categories: 
   - viajar-en-familia
@@ -10,15 +11,15 @@ authors:
   - Pepa G. Marín
 ---
 
-**Once pueblos rodeados de montañas, bosques, dehesas, embalses, ríos y olivares, una 
+Once pueblos rodeados de montañas, bosques, dehesas, embalses, ríos y olivares, una 
 declaración de Reserva de la Biosfera, tradiciones arraigadas, una cocina exquisita, un 
 cielo limpio donde brillan las estrellas y muchos motivos más justifican una visita a La 
 Siberia extremeña. Elige tu razón favorita y sube al coche porque nos vamos a la 
-provincia de Badajoz.** 
+provincia de Badajoz. 
 
 ![Bosque de Ribera Guadalupejo, en la Reserva de la Biosfera La Siberia.](https://fotos.etheriamagazine.com/2021/09/bosque-ribera-Reserva-Biosfera-La-Siberia.jpg "Bosque de Ribera Guadalupejo, en la Reserva de la Biosfera La Siberia.")
 
-**Actualizado 10/2023** 
+<!-- LEGACY_UPDATED: **Actualizado 10/2023** -->
 
 La geografía española es tan rica que espacios como la comarca de **La Siberia 
 extremeña** pueden llegar a pasar desapercibidos para el viajero. Pero eso es sólo un 

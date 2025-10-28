@@ -10,12 +10,12 @@ authors:
   - Nuria Cortés
 ---
 
-**Si te gustan las islas y los colores del Caribe, seguro que tienes a Formentera en el 
+Si te gustan las islas y los colores del Caribe, seguro que tienes a Formentera en el 
 punto de mira. La menor de las Baleares se ha hecho famosa por su playa de Illetes, un 
 arenal virgen cuyas aguas color turquesa puedes ver hasta la saciedad en Instagram. Pero 
 como no sólo se vive de selfis en el mar, te proponemos que salgas de la playa y que te 
 vayas de compras por las coquetas boutiques y los mercadillos de Formentera. Y ya 
-lucirás después tu nuevo modelo en la playa…** 
+lucirás después tu nuevo modelo en la playa… 
 
 ![compras mercadillo la mola formentera](https://fotos.etheriamagazine.com/2018/07/compras-formentera-mercadillo-mola-4.jpeg "Mercadillo de La Mola © Alfredo Montero/ Illesbalears.travel")
 

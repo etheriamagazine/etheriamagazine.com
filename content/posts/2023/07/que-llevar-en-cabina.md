@@ -9,10 +9,10 @@ authors:
   - Redacción Etheria
 ---
 
-**A ciertas viajeras les gusta improvisar o ir ligeras de equipaje pero hay otras que 
+A ciertas viajeras les gusta improvisar o ir ligeras de equipaje pero hay otras que 
 prefieren llevarlo todo bajo control y preparan concienzudamente las listas de básicos 
 para su destino. Ya seas de las primeras o de las segundas, estas recomendaciones de qué 
-llevar en cabina durante un vuelo largo te van a resultar muy útiles.** 
+llevar en cabina durante un vuelo largo te van a resultar muy útiles. 
 
 ![Es recomendable planificar lo que llevas en cabina durante los viajes largos.](https://fotos.etheriamagazine.com/2023/07/que-llevar-maleta-cabina.jpg "Es recomendable planificar lo que llevas en cabina. © Gabrielle Henderson")
 

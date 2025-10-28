@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Ya queda menos para la última noche del año y seguro que estás dándole vueltas a cómo 
+Ya queda menos para la última noche del año y seguro que estás dándole vueltas a cómo 
 celebrarla. ¿Has pensado en tirar la casa por la ventana y celebrarla con una cena de 
 gala? En este artículo te proponemos ocho lugares para celebrar la Nochevieja en Madrid 
 que van desde los hoteles de lujo más clásicos hasta propuestas divertidas y descaradas. 
-Desempolva las lentejuelas que nos vamos de fiesta.** 
+Desempolva las lentejuelas que nos vamos de fiesta. 
 
 ![copas de champán brindando](https://fotos.etheriamagazine.com/2022/11/nochevieja-brindis.jpg "Vayas donde vayas, no te olvides de brindar por todo lo bueno que traerá el año próximo.")
 

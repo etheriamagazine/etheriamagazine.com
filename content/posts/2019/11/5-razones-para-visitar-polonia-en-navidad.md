@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**El período navideño en Polonia es una de las épocas más entrañables del año. Durante 
+El período navideño en Polonia es una de las épocas más entrañables del año. Durante 
 casi un mes, sus ciudades se muestran envueltas en un paréntesis de fantasía, aroma a 
 dulce, vino caliente y villancicos. Si aún estás pensando qué país europeo te interesa 
-más para conocer su Navidad, te damos cinco razones por las que Polonia es buena idea.** 
+más para conocer su Navidad, te damos cinco razones por las que Polonia es buena idea. 
 
 ![navidad varsovia, fuente varsovia, navidad polonia](https://fotos.etheriamagazine.com/2019/10/polonia-luces-fuente-navidad-varsovia.jpg "Iluminación navideña de Varsovia.")
 

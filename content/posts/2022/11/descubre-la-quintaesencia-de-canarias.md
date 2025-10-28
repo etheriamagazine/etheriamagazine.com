@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Los cuatro elementos de la naturaleza son insuficientes para definir la esencia del 
+Los cuatro elementos de la naturaleza son insuficientes para definir la esencia del 
 archipiélago canario. Forjado por el fuego, este rosario de islas volcánicas acariciadas 
 por el Atlántico insufla vida a cuantos viajeros deciden gozar de sus atractivos. Si 
 quieres descubrir la quintaesencia de este destino insular sólo tienes que acercarte a 
-conocerlo.** 
+conocerlo. 
 
 ![Una pareja en el Parque Nacional de la Caldera de Taburiente, en La Palma.](https://fotos.etheriamagazine.com/2022/11/caldera-taburiente-la-palma.jpg "Parque Nacional de la Caldera de Taburiente, en La Palma.")
 

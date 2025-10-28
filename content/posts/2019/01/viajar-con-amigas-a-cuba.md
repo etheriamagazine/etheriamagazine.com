@@ -11,10 +11,10 @@ authors:
   - Cristina R. Bareño
 ---
 
-**Cantarás, bailarás, gozarás. El país más acogedor y hospitalario del Caribe nos brinda 
+Cantarás, bailarás, gozarás. El país más acogedor y hospitalario del Caribe nos brinda 
 todo un abanico de posibilidades para disfrutar de un viaje a Cuba con amigas. En este 
 artículo encontrarás unas pinceladas de todo lo que puedes hacer para convertirlo en 
-inolvidable.** 
+inolvidable. 
 
 ![Una calle de La Habana con un coche típico de Cuba](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-habana-1.jpg "La arquitectura destartalada y los coches antiguos americanos son la seña de identidad de La Habana.")
 

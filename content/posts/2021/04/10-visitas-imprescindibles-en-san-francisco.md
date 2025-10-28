@@ -18,7 +18,7 @@ Napa Valley.
 
 ![Skyline de San Francisco.](https://fotos.etheriamagazine.com/2018/07/Viaje-San-Francisco-e1568451505169.jpg "Skyline de San Francisco. © SF Travel Association/ Can Balcioglu")
 
-**Actualizado en 2024** 
+<!-- LEGACY_UPDATED: **Actualizado en 2024** -->
 
 Por su tamaño puedes pensar que no necesitas un listado con las visitas imprescindibles 
 en San Francisco, pero debes tener en cuenta que ofrece un amplio abanico de propuestas 

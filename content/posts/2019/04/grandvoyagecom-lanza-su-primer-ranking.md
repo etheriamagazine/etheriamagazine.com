@@ -14,7 +14,7 @@ recibirá un galardón el mejor resort.
 
 ![grandvoyages ranking](https://fotos.etheriamagazine.com/2019/04/grandes-viajes-vietnam.jpg)
 
-Histórico de Etheria Magazine: 2019 
+<!-- LEGACY_INFO: Histórico de Etheria Magazine: 2019 -->
 
 Grandvoyage.com, una agencia online especializada en viajes de larga distancia que opera 
 a nivel nacional e internacional desde 2012, premiará los mejores viajes de larga 

@@ -10,10 +10,10 @@ authors:
   - Kelu Robles
 ---
 
-**La mejor forma de establecer una primera toma de contacto con una ciudad como Lisboa 
-es a través de sus 'miradouros', que te ayudarán a extraer la esencia de la capital del 
+La mejor forma de establecer una primera toma de contacto con una ciudad como Lisboa es 
+a través de sus 'miradouros', que te ayudarán a extraer la esencia de la capital del 
 fado. Algunos de los miradores de Lisboa te lo pondrán muy fácil pero para otros tendrás 
-que poner un poco de tu parte. ¿Estás dispuesta a descubrirlos con nosotras?** 
+que poner un poco de tu parte. ¿Estás dispuesta a descubrirlos con nosotras? 
 
 ![miradores de Lisboa](https://fotos.etheriamagazine.com/2018/10/Miradores-de-Lisboa-e1566028365742.jpg "miradores de lisboa, que ver en lisboa, vistas de lisboa")
 

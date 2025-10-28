@@ -11,9 +11,9 @@ authors:
   - Redacción Etheria
 ---
 
-**Cada vez queda menos para las vacaciones y ¿a quién no le apetece la imagen de una 
-playa perfecta donde desconectar de todo? Para ir abriendo boca hemos seleccionado 10 
-playas españolas donde seguro que te gustaría estar ahora mismo.** 
+Cada vez queda menos para las vacaciones y ¿a quién no le apetece la imagen de una playa 
+perfecta donde desconectar de todo? Para ir abriendo boca hemos seleccionado 10 playas 
+españolas donde seguro que te gustaría estar ahora mismo. 
 
 ![playas de España, viajes en verano, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/playas-espana-zahora-cadiz.jpg "Playa de Zahora (Cádiz). © Vidar Nordli Mathisen")
 

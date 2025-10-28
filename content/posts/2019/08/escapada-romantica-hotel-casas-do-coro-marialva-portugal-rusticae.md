@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Portugal está llena de rincones mágicos a tan sólo unas horas por carretera. En esta 
+Portugal está llena de rincones mágicos a tan sólo unas horas por carretera. En esta 
 ocasión, de la mano de Rusticae, nos hemos fijado en el pequeño y delicado hotel Casas 
 do Côro, un lugar perfecto para descansar en pareja en la localidad de Marialva, en la 
-región de Guarda. Si buscas ideas para un fin de semana romántico, aquí tienes una.** 
+región de Guarda. Si buscas ideas para un fin de semana romántico, aquí tienes una. 
 
 ![Hotel Casas do Coro con el castillo al fondo](https://fotos.etheriamagazine.com/2019/07/Casas-do-coro-panoramica.jpg "Hotel con el castillo al fondo.")
 

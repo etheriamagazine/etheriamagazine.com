@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Una de las mejores opciones de alojamiento para una escapada romántica es un riad en 
+Una de las mejores opciones de alojamiento para una escapada romántica es un riad en 
 Marrakech, y si lo haces en el Riad Belle Epoque le sumas un espacio exclusivo donde 
 cada rincón ha sido cuidado con mimo. Te sentirás como en un capítulo de _Las mil y una 
-noches_.** 
+noches_. 
 
 ![Patio del Riad Belle Epoque](https://fotos.etheriamagazine.com/2019/10/Riad-De-La-Belle-Epoque-patio.jpg "Patio interior del Riad Belle Epoque.")
 

@@ -8,11 +8,10 @@ authors:
   - Sania Jelic
 ---
 
-**Sania Jelic comparte en Etheria Magazine cómo fue el proceso de organizar un viaje 
-sola de varios meses por América Latina. Presta atención a sus consejos de preparación 
-ya que, quién sabe, quizá tengas en algún momento la oportunidad de vivir una 
-experiencia tan inolvidable como la suya. Viajar sola y disfrutarlo no es cuestión de 
-edad.** 
+Sania Jelic comparte en Etheria Magazine cómo fue el proceso de organizar un viaje sola 
+de varios meses por América Latina. Presta atención a sus consejos de preparación ya 
+que, quién sabe, quizá tengas en algún momento la oportunidad de vivir una experiencia 
+tan inolvidable como la suya. Viajar sola y disfrutarlo no es cuestión de edad. 
 
 ![Sania haciendo trekking en El Chalten](https://fotos.etheriamagazine.com/2023/01/Sania-el-chalten-senderismo.jpg "Sania haciendo senderismo en El Chalten con el Fitz Roy al fondo. © SJ")
 

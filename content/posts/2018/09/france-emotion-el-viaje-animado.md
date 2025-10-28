@@ -9,9 +9,9 @@ authors:
   - Pepa G. Marín
 ---
 
-**La Fotografía y, en general, cualquier manifestación cultural pretende conectar con 
-las personas y provocar emociones. En la exposición 'France e-motion, el viaje animado', 
-además de lograrlo, consigue sorprender y despertar la curiosidad del visitante.** 
+La Fotografía y, en general, cualquier manifestación cultural pretende conectar con las 
+personas y provocar emociones. En la exposición 'France e-motion, el viaje animado', 
+además de lograrlo, consigue sorprender y despertar la curiosidad del visitante. 
 
 ![Lourde Segade Atout FranceFRANCE eMOTION El viaje animado](https://fotos.etheriamagazine.com/2018/09/SELvichy120817P_160_Bex_v2.jpg "© Lourde Segade/ Atout France")
 

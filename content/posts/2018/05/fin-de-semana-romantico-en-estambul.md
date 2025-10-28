@@ -1,6 +1,7 @@
 ---
 title: "Estambul romántico, qué ver en una escapada en pareja"
 date: 2018-05-03
+lastmod: 2025-05-01
 cover: https://fotos.etheriamagazine.com/2020/04/viaje-estambul.jpg
 categories: 
   - viajar-en-pareja
@@ -17,7 +18,7 @@ Bósforo y una animada vida nocturna.
 
 ![Crucero por el Bósforo, un plan romántico en Estambul](https://fotos.etheriamagazine.com/2018/05/ESTAMBUL-BOSFORO-e1552469054616.jpg "Resérvate un atardecer para realizar un crucero por el Bósforo.")
 
-Actualizado 05/2025 
+<!-- LEGACY_UPDATED: Actualizado 05/2025 -->
 
 Bizancio, Constantinopla, Estambul… esta ciudad abruma con su historia desde su época de 
 colonia griega siete siglos antes de Cristo. Siempre en una encrucijada, entre Asia y 

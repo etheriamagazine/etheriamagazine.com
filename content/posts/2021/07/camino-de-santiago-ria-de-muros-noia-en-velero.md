@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Estrenar el nuevo Camino de Santiago por la Ría de Muros-Noia en Año Jacobeo es un 
+Estrenar el nuevo Camino de Santiago por la Ría de Muros-Noia en Año Jacobeo es un 
 privilegio que no hay que dejar pasar. Aprovecha este 2022 para realizar el Camino de 
 Santiago marítimo en velero. Te contamos todos los datos para que vivas una experiencia 
-inolvidable.** 
+inolvidable. 
 
 ![camino santiago por la ria de muros noia](https://fotos.etheriamagazine.com/2021/07/camino-santiago-velero-rias-baixas.jpg "Camino de Santiago marítimo por la Ría de Muros-Noia. © Pepa García")
 

@@ -9,10 +9,10 @@ authors:
   - Firmas invitadas
 ---
 
-**En este artículo, Carlos Pascual nos cuenta la historia de Egeria, la primera viajera 
+En este artículo, Carlos Pascual nos cuenta la historia de Egeria, la primera viajera 
 "española". También conocida como Etheria y Eteria, entre otros nombres, fue una mujer 
 enigmática de la Gallaetia romana que dejó constancia de su viaje a los Santos Lugares 
-cuando el Imperio Romano estaba a punto de derrumbarse.** 
+cuando el Imperio Romano estaba a punto de derrumbarse. 
 
 **Autor: Carlos Pascual** 
 

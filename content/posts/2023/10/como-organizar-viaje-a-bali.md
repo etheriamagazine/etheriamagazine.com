@@ -12,11 +12,11 @@ authors:
   - Susana García
 ---
 
-**Es muy difícil que un viaje a Bali salga mal. Las bondades de esta isla indonesia son 
+Es muy difícil que un viaje a Bali salga mal. Las bondades de esta isla indonesia son 
 tantas que, hagas lo que hagas, vas a disfrutar de su naturaleza, su cultura y su gente. 
 Pero todos sabemos que para las vacaciones tenemos días limitados que nos gusta 
 aprovechar al máximo, así que en este te damos algunas claves para organizar un viaje a 
-Bali y que todo vaya rodado.** 
+Bali y que todo vaya rodado. 
 
 ![pareja en Bali frente al mar](https://fotos.etheriamagazine.com/2023/10/bali-pareja-playa.jpg "Pareja de viaje por Bali.")
 

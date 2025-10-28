@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Maletas con 2 o 4 ruedas, bolsas de viaje, mochilas, portatrajes... Aunque la función 
-es la misma, algunas te convienen más que otras según el tipo de viaje que vayas a 
+Maletas con 2 o 4 ruedas, bolsas de viaje, mochilas, portatrajes... Aunque la función es 
+la misma, algunas te convienen más que otras según el tipo de viaje que vayas a 
 realizar. Las hemos dividido en varias categorías para que te resulte más sencillo 
-elegir la mejor maleta para tu próximo viaje.** 
+elegir la mejor maleta para tu próximo viaje. 
 
 ![maletas y mochilas de viaje](https://fotos.etheriamagazine.com/2019/06/como-elegir-maleta.jpg "Elegir la maleta es el primer paso de comenzar a prepara un viaje.")
 

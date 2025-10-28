@@ -10,11 +10,11 @@ authors:
   - Susana García
 ---
 
-**Uno de los mejores lugares del mundo para realizar un viaje con niños es Costa Rica. 
-El principal motivo es que los destinos donde la naturaleza es la protagonista son 
+Uno de los mejores lugares del mundo para realizar un viaje con niños es Costa Rica. El 
+principal motivo es que los destinos donde la naturaleza es la protagonista son 
 perfectos para que disfruten los más pequeños. Además, el país tico tiene otras muchas 
 ventajas: es seguro, cómodo y fácil, cualidades que ayudan mucho en los viajes en 
-familia.** 
+familia. 
 
 ![reserva privada Waterfalls Gardens Costa Rica](https://fotos.etheriamagazine.com/2018/05/Costa-Rica-Tucan-e1551175189452.jpg "En la reserva privada Waterfalls Gardens se puede interactuar con los tucanes. © Susana García.")
 

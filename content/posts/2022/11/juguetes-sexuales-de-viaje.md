@@ -1,6 +1,7 @@
 ---
 title: "Juguetes sexuales de viaje y países donde no debes llevarlos"
 date: 2022-11-14
+lastmod: 2024-05-01
 cover: https://fotos.etheriamagazine.com/2022/11/viaje-maldivas.jpg
 categories: 
   - estilo-de-vida
@@ -16,7 +17,7 @@ nivel que la pornografía.
 
 ![El tamaño de los juguetes sexuales en el equipaje de mano es importante.](https://fotos.etheriamagazine.com/2022/11/juguetes-sexuales-viaje.jpg "El tamaño de los juguetes sexuales en el equipaje de mano es importante.")
 
-Actualizado 5/2024 
+<!-- LEGACY_UPDATED: Actualizado 5/2024 -->
 
 Hacerse listas con lo que tienes que llevar, empezar a hacer la maleta unos días antes 
 de viajar u organizar la ropa con antelación son algunos de los trucos para no dejarte 

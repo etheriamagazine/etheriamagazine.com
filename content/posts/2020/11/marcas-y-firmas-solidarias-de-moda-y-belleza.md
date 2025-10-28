@@ -9,10 +9,10 @@ authors:
   - Rebeca Ávila
 ---
 
-**Varias firmas de moda y belleza muestran su cara más solidaria y comprometida durante 
+Varias firmas de moda y belleza muestran su cara más solidaria y comprometida durante 
 estos tiempos difíciles. Algunas ayudan a niños y ancianos, otras al medioambiente o a 
 la investigación del cáncer de mama. Te contamos ocho iniciativas con las que tus 
-compras contribuyen a crear un mundo mejor.** 
+compras contribuyen a crear un mundo mejor. 
 
 ![makai empresa solidaria](https://fotos.etheriamagazine.com/2020/11/moda-solidaria-makai.jpg "© Makai, compras de moda solidarias.")
 

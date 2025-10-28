@@ -10,11 +10,11 @@ authors:
   - Etheria Magazine
 ---
 
-**Entre las capitales europeas que más se prestan a una escapada en pareja se encuentra 
-la capital checa. Las razones son sencillas: se sitúa a sólo unas tres horas de España 
-en avión y los planes románticos en Praga no faltan sea cual sea la edad o el gusto de 
-los viajeros. Si necesitáis propuestas para vuestro viaje a esta ciudad, a continuación 
-os detallamos algunas clásicas y otras originales.** 
+Entre las capitales europeas que más se prestan a una escapada en pareja se encuentra la 
+capital checa. Las razones son sencillas: se sitúa a sólo unas tres horas de España en 
+avión y los planes románticos en Praga no faltan sea cual sea la edad o el gusto de los 
+viajeros. Si necesitáis propuestas para vuestro viaje a esta ciudad, a continuación os 
+detallamos algunas clásicas y otras originales. 
 
 ![En la orilla del Moldava junto a los cisnes.](https://fotos.etheriamagazine.com/2023/01/praga-romantica.jpg "En la orilla del Moldava junto a los cisnes. © Wellstock")
 

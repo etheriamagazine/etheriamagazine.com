@@ -1,6 +1,7 @@
 ---
 title: "'Hondalea', la escultura de Cristina Iglesias que ilumina el faro de la isla de Santa Clara"
 date: 2021-05-04
+lastmod: 2023-08-01
 cover: https://fotos.etheriamagazine.com/2021/05/hondalea-faro-isla-santa-clara-Cristina-Iglesias.jpg
 categories: 
   - organiza-tu-viaje
@@ -22,7 +23,7 @@ precio.
 
 ![hondalea escultura de faro de santa clara](https://fotos.etheriamagazine.com/2021/05/hondalea-faro-isla-santa-clara-Cristina-Iglesias.jpg "Hondalea en proceso de construcción. © J.Luis López de Zubiria")
 
-Actualizado 8/2023 
+<!-- LEGACY_UPDATED: Actualizado 8/2023 -->
 
 La Casa del Faro, situada en la isla de Santa Clara, ha sido el espacio elegido por la 
 artista vasca Cristina Iglesias para situar el conjunto escultórico '**Hondalea**'. Esta 

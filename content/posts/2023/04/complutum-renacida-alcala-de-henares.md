@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-**La antigua Roma se instala en la ciudad de Alcalá de Henares para invitarnos a 
-realizar un apasionante viaje al siglo IV. Del 28 de abril al 2 de mayo de 2023, la 
-diversión y el aprendizaje están asegurados gracias a una meticulosa puesta en escena de 
-poblados romanos, mercados, recreaciones históricas, degustaciones y espectáculos 
-sorprendentes como el Gran Circus Maximus.** 
+La antigua Roma se instala en la ciudad de Alcalá de Henares para invitarnos a realizar 
+un apasionante viaje al siglo IV. Del 28 de abril al 2 de mayo de 2023, la diversión y 
+el aprendizaje están asegurados gracias a una meticulosa puesta en escena de poblados 
+romanos, mercados, recreaciones históricas, degustaciones y espectáculos sorprendentes 
+como el Gran Circus Maximus. 
 
 ![Desfile de las tropas romanas en Complutum Renacida](https://fotos.etheriamagazine.com/2023/04/desfile-complutum-renacida-alcala.jpg "Desfile de las tropas romanas en Complutum Renacida. © Ayto. Alcalá de Henares")
 

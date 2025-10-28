@@ -8,11 +8,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Las Jornadas IATI de los Grandes Viajes soplan este año sus primeras diez velas y lo 
+Las Jornadas IATI de los Grandes Viajes soplan este año sus primeras diez velas y lo 
 festejan por todo lo alto compartiendo las historias de quienes un día se pusieron el 
 mundo por montera y se lanzaron a recorrer su propia senda. Entre ellos hay un gran 
 número de mujeres que sustituyeron la comodidad de lo conocido por la emoción de 
-enfrentarse a la incertidumbre del viaje.** 
+enfrentarse a la incertidumbre del viaje. 
 
 ![María y Laura emprendieron un largo viaje en furgoneta.](https://fotos.etheriamagazine.com/2023/04/viaje-furgo-Maria-Laura.jpg "María y Laura emprendieron un largo viaje en furgoneta.")
 

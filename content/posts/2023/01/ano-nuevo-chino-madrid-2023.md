@@ -8,11 +8,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Con casi cuarenta actividades, el Año Nuevo chino vuelve a celebrarse en Madrid con un 
+Con casi cuarenta actividades, el Año Nuevo chino vuelve a celebrarse en Madrid con un 
 gran entusiasmo y un abanico temático más amplio que nunca. Al pasacalle y festival de 
 la luz habituales de Usera, se suman este 2023 más exposiciones, talleres, mesas 
 redondas, un juego de escape y un mercado de primavera. ¿Estás preparada para festejar 
-la llegada del Año del Conejo?** 
+la llegada del Año del Conejo? 
 
 ![Festival de la Luz, uno de los eventos para la celebración del Año Nuevo Chino en Madrid.](https://fotos.etheriamagazine.com/2023/01/usera-festival-luz.jpg "Festival de la Luz, uno de los eventos más animados del Año Nuevo Chino en Madrid.")
 

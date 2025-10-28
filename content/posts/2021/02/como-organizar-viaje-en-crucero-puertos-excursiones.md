@@ -10,9 +10,9 @@ authors:
   - Susana García
 ---
 
-**¿Estás pensando en realizar por primera vez un crucero? Es un viaje mucho más fácil de 
+¿Estás pensando en realizar por primera vez un crucero? Es un viaje mucho más fácil de 
 organizar de lo que piensas y perfecto para viajar en familia, en pareja o con amigas. 
-Aquí te damos unas cuantas pistas para facilitarte esta tarea ¡y a navegar!** 
+Aquí te damos unas cuantas pistas para facilitarte esta tarea ¡y a navegar! 
 
 ![Mujer en la barandilla de un crucero](https://fotos.etheriamagazine.com/2021/02/Cruceros-cubierta.jpg "Las vistas desde cubierta son uno de los alicientes de viajar en un crucero.")
 

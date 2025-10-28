@@ -10,9 +10,9 @@ authors:
   - Cristina R. Bareño
 ---
 
-**Ámsterdam es la ciudad ideal para pasear en bicicleta, navegar por sus canales o 
+Ámsterdam es la ciudad ideal para pasear en bicicleta, navegar por sus canales o 
 evadirte en alguno de sus interesantes museos, también para que hagas una escapada con 
-la mejor de las compañías: tu madre.** 
+la mejor de las compañías: tu madre. 
 
 ![Anochece sobre los canales de Amsterdam.](https://fotos.etheriamagazine.com/2018/09/viajar-amsterdam.jpg "Anochece sobre los canales de Amsterdam.")
 

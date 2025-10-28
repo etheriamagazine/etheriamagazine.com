@@ -18,7 +18,7 @@ gastronómicos y en las huellas que nos dejó la diva del cuplé.
 
 ![Museo de Sara Montiel en Campo de Criptana.](https://fotos.etheriamagazine.com/2019/04/Sara-montiel-campo-criptana.jpg "Museo de Sara Montiel en Campo de Criptana.")
 
-\*Actualizado en 2025 
+<!-- LEGACY_UPDATED: \*Actualizado en 2025 -->
 
 Ya van casi doce años sin escuchar su paladeado “Pe-ro-qué-in-ven-to-es-es-to”, sin 
 oírle relatar, por millonésima vez, cómo enseñó a Marlon Brando a hacer unos **huevos 

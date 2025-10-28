@@ -11,11 +11,11 @@ authors:
   - Pedro Grifol
 ---
 
-**La isla de Chipre permanece dividida en una parte griega, la más visitada, y en una 
-zona turca, una tierra de nadie en el plano institucional pero que conserva sus 
-atractivos turísticos y, sobre todo, aporta un contraste cultural que da qué pensar. Te 
-invitamos a adentrarte en la zona más desconocida de Chipre, donde parece que se ha 
-detenido el tiempo.** 
+La isla de Chipre permanece dividida en una parte griega, la más visitada, y en una zona 
+turca, una tierra de nadie en el plano institucional pero que conserva sus atractivos 
+turísticos y, sobre todo, aporta un contraste cultural que da qué pensar. Te invitamos a 
+adentrarte en la zona más desconocida de Chipre, donde parece que se ha detenido el 
+tiempo. 
 
 ![estatua y columnas de las ruinas de Salamina](https://fotos.etheriamagazine.com/2023/03/Chipre-Ruinas-de-Salamina.jpg "Las ruinas de Salamina están en la parte turca de Chipre. © Pedro Grifol.")
 

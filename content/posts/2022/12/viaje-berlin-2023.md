@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**¿Se necesitan motivos especiales para viajar a Berlín? Realmente, no, porque esta 
-ciudad alemana tiene tanto que ofrecer que siempre apetece revisitar sus clásicos y 
-conocer sus novedades. En esta ocasión te invitamos a descubrir sus últimos hoteles, 
-restaurantes, museos y espacios de bienestar.** 
+¿Se necesitan motivos especiales para viajar a Berlín? Realmente, no, porque esta ciudad 
+alemana tiene tanto que ofrecer que siempre apetece revisitar sus clásicos y conocer sus 
+novedades. En esta ocasión te invitamos a descubrir sus últimos hoteles, restaurantes, 
+museos y espacios de bienestar. 
 
 ![Un paseo en bicicleta por East Side Gallery, en Berlín.](https://fotos.etheriamagazine.com/2022/12/East-Side-Gallery.jpg "East Side Gallery. © Visit Berlín/ Philip Koschel")
 

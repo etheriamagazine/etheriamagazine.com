@@ -10,11 +10,11 @@ authors:
   - Sania Jelic
 ---
 
-**Sania concluye en el Cruce Andino, entre los lagos que conectan Chile y Argentina, su 
+Sania concluye en el Cruce Andino, entre los lagos que conectan Chile y Argentina, su 
 viaje por la Patagonia de ambos países. Un lugar de una belleza espectacular como veréis 
 por las imágenes. Tras pasar por Bariloche, finaliza su etapa en El Bolsón, una 
 localidad menos conocida pero con una naturaleza abrumadora. Te lo cuenta a continuación 
-con todo detalle.** 
+con todo detalle. 
 
 ![Sania en el Cruce Andino.](https://fotos.etheriamagazine.com/2023/02/Sania-cruce-andino.jpg "Sania en el Cruce Andino. © Sania Jelic")
 

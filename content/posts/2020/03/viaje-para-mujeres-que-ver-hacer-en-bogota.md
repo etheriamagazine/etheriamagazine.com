@@ -10,12 +10,11 @@ authors:
   - Kelu Robles
 ---
 
-**Bogotá se está convirtiendo en mucho más que una ciudad de paso, por eso, desde 
-Etheria Magazine echamos un pulso a aquellas voces que la llaman fea. Porque a Bogotá no 
-solo hay que mirarla, hay que experimentarla con todos los sentidos: desde sus 
-vertiginosos cerros, hasta el micromundo de sus rumbeaderos y sus museos de renombre 
-internacional. Tenemos las pruebas para demostrar que merece, por sí sola, que crucemos 
-'el Charco'.** 
+Bogotá se está convirtiendo en mucho más que una ciudad de paso, por eso, desde Etheria 
+Magazine echamos un pulso a aquellas voces que la llaman fea. Porque a Bogotá no solo 
+hay que mirarla, hay que experimentarla con todos los sentidos: desde sus vertiginosos 
+cerros, hasta el micromundo de sus rumbeaderos y sus museos de renombre internacional. 
+Tenemos las pruebas para demostrar que merece, por sí sola, que crucemos 'el Charco'. 
 
 ![El barrio fundacional de La Candelaria acoge el grafiti más famoso de la ciudad.](https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-bogota.jpg "El barrio fundacional de La Candelaria acoge el grafiti más famoso de la ciudad. © Procolombia")
 

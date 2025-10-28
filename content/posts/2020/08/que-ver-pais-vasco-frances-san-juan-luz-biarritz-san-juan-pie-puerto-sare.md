@@ -1,6 +1,7 @@
 ---
 title: "País Vasco Francés, una ruta llena de elegancia y sabor"
 date: 2020-08-24
+lastmod: 2024-06-01
 cover: https://fotos.etheriamagazine.com/2020/08/san-juan-luz-francia.jpg
 categories: 
   - viajar-con-amigas
@@ -17,7 +18,7 @@ proponemos en esta escapada.
 
 ![barcos en San Juán de Luz](https://fotos.etheriamagazine.com/2020/08/san-juan-luz-francia.jpg "Puerto de San Juan de Luz. © O.T. Saint Jean de Luz/ Tedy Bear")
 
-Actualizado en junio de 2024. 
+<!-- LEGACY_UPDATED: Actualizado en junio de 2024. -->
 
 El País Vasco francés es una de esas regiones que lo tienen todo para una escapada 
 redonda. Cercano a la península, sobre todo si se viaja desde las regiones españolas 

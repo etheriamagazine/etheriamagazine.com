@@ -10,12 +10,12 @@ authors:
   - Yolanda Cardo
 ---
 
-**“He buscado por todas partes la ciudad soñada, y al fin la he encontrado en Ronda”, 
+“He buscado por todas partes la ciudad soñada, y al fin la he encontrado en Ronda”, 
 escribió el poeta Rainer Maria Rilke. No fue el único que sucumbió a sus encantos, Orson 
 Welles o Ernest Hemingway también lo hicieron. ¿Y vosotras? ¿Podréis resistiros a la 
 experiencia de vivir un fin de semana en Ronda con amigas? Os anticipo que os resultará 
 prácticamente imposible escapar a su influjo. En Etheria Magazine os damos las claves 
-para planificar un viaje de ensueño.** 
+para planificar un viaje de ensueño. 
 
 ![arco felipe v ronda](https://fotos.etheriamagazine.com/2021/11/ronda-Arco-de-Felipe-V.jpg "Arco de Felipe V con la serranía al fondo. © Yolanda Cardo")
 

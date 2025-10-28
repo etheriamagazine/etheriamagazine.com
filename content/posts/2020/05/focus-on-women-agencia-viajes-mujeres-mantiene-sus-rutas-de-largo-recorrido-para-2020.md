@@ -9,9 +9,9 @@ authors:
   - Pepa G. Marín
 ---
 
-**La agencia de viajes para mujeres Focus on Women, con Alice Fauveau al frente, confía 
-en la estabilización del sector turístico y mantiene sus programas de largo recorrido a 
-destinos como Japón, Armenia, Vietnam, Sri Lanka, Irán y Madagascar.** 
+La agencia de viajes para mujeres Focus on Women, con Alice Fauveau al frente, confía en 
+la estabilización del sector turístico y mantiene sus programas de largo recorrido a 
+destinos como Japón, Armenia, Vietnam, Sri Lanka, Irán y Madagascar. 
 
 ![alice fauveau, focus on women, agencias de viajes para mujeres, destinos 2020](https://fotos.etheriamagazine.com/2020/05/Alice-Fauveau-agencia-mujeres-fow.jpg "Alice Fauveau, directora de Focus on Women.")
 

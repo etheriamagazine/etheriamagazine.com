@@ -9,10 +9,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**‘Concédete Deseos’ incorpora nuevas experiencias y talleres de proximidad en su 
+‘Concédete Deseos’ incorpora nuevas experiencias y talleres de proximidad en su 
 programación mientras la pandemia no permita realizar escapadas de largo recorrido. 
 Carina Tur, directora de esta agencia de viajes para mujeres, nos cuenta sus nuevas 
-propuestas para verano y la situación actual de la agencia.** 
+propuestas para verano y la situación actual de la agencia. 
 
 ![Carina Tur, directora de Concédete Deseos.](https://fotos.etheriamagazine.com/2020/05/Carina-Tur-concedete-deseos.jpg "Carina Tur, directora de Concédete Deseos.")
 

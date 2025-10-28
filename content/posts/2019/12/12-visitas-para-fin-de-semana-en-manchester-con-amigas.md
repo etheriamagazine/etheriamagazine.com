@@ -10,9 +10,9 @@ authors:
   - Elena Ortega
 ---
 
-**Museos y exposiciones gratuitas, numerosas tiendas para hacer variadísimas compras y 
-una gastronomía internacional. Todo ello rodeado del ambiente cultural más vivo. ¿Estás 
-preparada para embarcar en un viaje con amigas rumbo a Mánchester?** 
+Museos y exposiciones gratuitas, numerosas tiendas para hacer variadísimas compras y una 
+gastronomía internacional. Todo ello rodeado del ambiente cultural más vivo. ¿Estás 
+preparada para embarcar en un viaje con amigas rumbo a Mánchester? 
 
 ![Manchester Ship Canal en Salford y Trafford](https://fotos.etheriamagazine.com/2019/12/viaje-manchester.jpg "Manchester Ship Canal en Salford y Trafford. © Julian Elliott/ Visit Britain")
 

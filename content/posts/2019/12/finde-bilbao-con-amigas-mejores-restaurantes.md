@@ -1,6 +1,7 @@
 ---
 title: "Bilbao en clave 'gastro' para una escapada con amigas"
 date: 2019-12-23
+lastmod: 2025-07-01
 cover: https://fotos.etheriamagazine.com/2019/11/Restaurante-Mina-chef-Alvaro-Garrido.jpg
 categories: 
   - viajar-con-amigas
@@ -17,7 +18,7 @@ conoce quién está al frente de los mismos. ¡Que aproveche!
 
 ![restaurante mina](https://fotos.etheriamagazine.com/2019/12/Restaurante-Mina-Espacio.jpg "Cocina y sala del © Restaurante Mina.")
 
-Actualizado 7/2025 
+<!-- LEGACY_UPDATED: Actualizado 7/2025 -->
 
 Toda ruta gastronómica por una ciudad debería comenzar en un mercado, y la nuestra no 
 iba a ser menos. La capital de Vizcaya tiene a orillas del río Nervión un enorme “barco 

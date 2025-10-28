@@ -10,9 +10,9 @@ authors:
   - Redacción Etheria
 ---
 
-**Ana Cristina Cortés Luengo, fundadora de Hacia lo Salvaje, nos cuenta una nueva 
+Ana Cristina Cortés Luengo, fundadora de Hacia lo Salvaje, nos cuenta una nueva 
 modalidad de viajes que está a punto de ver la luz. A partir de este otoño, será posible 
-hacer viajes con una perspectiva ecofeminista.** 
+hacer viajes con una perspectiva ecofeminista. 
 
 ![Ana Cortés Luengo, agencia Hacia lo Salvaje](https://fotos.etheriamagazine.com/2023/09/ana-cortes-agencia-viajes.jpg "Ana Cortés Luengo, fundadora de Hacia lo Salvaje.")
 

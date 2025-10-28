@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Si hay un continente que despierte los deseos viajeros más profundos, los que evocan 
+Si hay un continente que despierte los deseos viajeros más profundos, los que evocan 
 expediciones y la búsqueda de un auténtico espíritu nómada ese es África. Aquí te 
 dejamos cinco propuestas de viajes a África para distintos tipos de viajera o para 
-distintos momentos de la vida. Tú eliges.** 
+distintos momentos de la vida. Tú eliges. 
 
 ![Flamencos en lago Nakuru (Kenia)](https://fotos.etheriamagazine.com/2018/10/flamencos-lago-nakuru-viajes-mujeres.jpg "Flamencos en lago Nakuru (Kenia).")
 

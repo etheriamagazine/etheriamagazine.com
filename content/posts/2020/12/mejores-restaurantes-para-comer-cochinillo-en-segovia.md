@@ -11,10 +11,10 @@ authors:
   - Rafael de Rojas
 ---
 
-**De cómo un animalejo de patas cortas y alma lechosa ha llegado tan lejos de la mano de 
+De cómo un animalejo de patas cortas y alma lechosa ha llegado tan lejos de la mano de 
 los tres restaurantes segovianos de los que siempre se sale feliz: Casa Duque, Cándido y 
 José María. En este artículo encontrarás razones más que convincente para saber dónde 
-tendrías que ir para comer el mejor cochinillo de Segovia.** 
+tendrías que ir para comer el mejor cochinillo de Segovia. 
 
 ![Cochinillo deshuesado y vino Pago de Carraovejas del restaurante José María (Segovia).](https://fotos.etheriamagazine.com/2020/11/restaurante-jose-maria-segovia.jpg "Cochinillo deshuesado y vino Pago de Carraovejas del restaurante José María (Segovia).")
 

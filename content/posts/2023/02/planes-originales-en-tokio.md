@@ -11,11 +11,11 @@ authors:
   - Susana García
 ---
 
-**Una ciudad como Tokio se puede visitar de mil maneras y, si puedes, más de una vez. 
+Una ciudad como Tokio se puede visitar de mil maneras y, si puedes, más de una vez. 
 Siempre sacarás partido a un lugar que combina como ningún otro los aspectos 
 tradicionales de la cultura japonesa con una vanguardia futurista que la hace única. 
 Aquí te sugerimos 10 planes originales en Tokio con los que exprimir el lado más friki 
-de una ciudad donde está prohibido el aburrimiento.** 
+de una ciudad donde está prohibido el aburrimiento. 
 
 ![Vestimentas originales en Tokio.](https://fotos.etheriamagazine.com/2023/02/tokio-friki.jpg "'Looks' muy originales en Tokio. © TCVB")
 

@@ -12,11 +12,11 @@ authors:
   - Pepa G. Marín
 ---
 
-**El planeta cuenta con lugares sorprendentes a los que merece la pena viajar porque 
+El planeta cuenta con lugares sorprendentes a los que merece la pena viajar porque 
 cambian totalmente nuestras perspectivas. Uno de esos rincones privilegiados, que no se 
 parece a nada que conoces, es el archipiélago de las Islas Galápagos. No es rápido ni 
 económico llegar hasta allí pero merece totalmente la pena. Te damos algunas claves para 
-organizar un viaje por libre a Galápagos.** 
+organizar un viaje por libre a Galápagos. 
 
 ![Las excursiones a los lugares protegidos de las islas Galápagos se deben hacer en grupo.](https://fotos.etheriamagazine.com/2018/09/viaje-galapagos-Tintoreras.jpg "Las excursiones a los lugares protegidos se deben hacer en grupo.")
 

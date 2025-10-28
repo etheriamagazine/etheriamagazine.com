@@ -10,10 +10,10 @@ authors:
   - Kris Ubach
 ---
 
-**Si te consideras una mujer deportista, podrías pasarte la vida recorriendo (en modo 
+Si te consideras una mujer deportista, podrías pasarte la vida recorriendo (en modo 
 activo) la geografía española desde Galicia hasta Murcia y desde Cataluña hasta las 
 Islas Canarias. Y sin repetir actividad ni una sola vez. ¿No nos crees? Continúa leyendo 
-nuestras propuestas de turismo activo en España.** 
+nuestras propuestas de turismo activo en España. 
 
 ![Mujer mirando con prismáticos en el Parque de los Alcornocales](https://fotos.etheriamagazine.com/2018/11/viajes-mujeres-parque-alcornocales-senderismo.jpg "Observación de aves en el Parque de los Alcornocales. ©K.U.")
 

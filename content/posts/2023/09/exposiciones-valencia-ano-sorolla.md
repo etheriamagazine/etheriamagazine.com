@@ -10,10 +10,10 @@ authors:
   - Etheria Magazine
 ---
 
-**Valencia lleva todo 2023 dedicada a conmemorar el centenario de la muerte de su pintor 
+Valencia lleva todo 2023 dedicada a conmemorar el centenario de la muerte de su pintor 
 más ilustre. No pierdas la oportunidad de acercarte a esta ciudad este otoño y visitar 
 las exposiciones y eventos relacionados con Joaquín Sorolla, te saldrá una escapada de 
-diez.** 
+diez. 
 
 ![Retratos de Sorolla en la exposición inmersiva "Sorolla, una nueva dimensión".](https://fotos.etheriamagazine.com/2023/09/sorolla-exposicion-inmersiva-retratos.jpg 'Retratos de Sorolla en la exposición inmersiva "Sorolla, una nueva dimensión". © Susana García')
 

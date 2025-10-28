@@ -11,10 +11,10 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-**Pasear por los alucinantes paisajes de Australia como si fuera un parque temático o un 
+Pasear por los alucinantes paisajes de Australia como si fuera un parque temático o un 
 zoo es un gran error. Sus cocodrilos son reales, sus tiburones y medusas son letales y 
 hasta los casuarios o los adorables koalas te pueden matar de un zarpazo. Te ayudamos a 
-sobrevivir a los animales de Australia sin dejar de disfrutarlo.** 
+sobrevivir a los animales de Australia sin dejar de disfrutarlo. 
 
 ![piscina natural en Noosa National Park en Australia](https://fotos.etheriamagazine.com/2019/07/australia-animales-noosa-1.jpg "Noosa National Park. © Carles Rabada")
 

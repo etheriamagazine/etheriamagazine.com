@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Futuroscope no para y cada año se prepara para sorprender a sus nuevos visitantes y 
-para ofrecer atracciones y servicios novedosos a los que ya conocen el parque. Este 2023 
+Futuroscope no para y cada año se prepara para sorprender a sus nuevos visitantes y para 
+ofrecer atracciones y servicios novedosos a los que ya conocen el parque. Este 2023 
 llega con una atracción 4D basada en una superheroína francesa, una singular casa al 
-revés y un alojamiento sostenible.** 
+revés y un alojamiento sostenible. 
 
 ![atracciones y hotel de Futuroscope](https://fotos.etheriamagazine.com/2023/03/Futuroscope-novedades-2023.jpg "Novedades en Futuroscope: Étincelle, la Casa al Revés y el alojamiento Ecolodgee.")
 

@@ -9,10 +9,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Apasionada de los viajes, escritora y experta en turismo y comunicación, Cristina 
-Jimena es una perfecta embajadora y representante de la región de Baden-Wurtemberg 
-(Alemania), donde reside desde hace más de 20 años. Por su trayectoria y pasión por el 
-oficio es una de nuestras Mujeres Etheria.** 
+Apasionada de los viajes, escritora y experta en turismo y comunicación, Cristina Jimena 
+es una perfecta embajadora y representante de la región de Baden-Wurtemberg (Alemania), 
+donde reside desde hace más de 20 años. Por su trayectoria y pasión por el oficio es una 
+de nuestras Mujeres Etheria. 
 
 ![cristina jimena, viaje alemania](https://fotos.etheriamagazine.com/2019/08/2-cristina-jimena-heidelberg.jpg "Cristina J. en Heidelberg (Alemania).")
 

@@ -11,12 +11,12 @@ authors:
   - Redacción Etheria
 ---
 
-**La isla de Menorca es capaz de mantener su identidad intacta durante todo el año, 
+La isla de Menorca es capaz de mantener su identidad intacta durante todo el año, 
 incluida la temporada estival. Se pueden hacer en ella decenas de excursiones que te 
 llevan a calas escondidas, restos arqueológicos y coquetos pueblos y, para realizarlas, 
 nada mejor que alojarse en un cinco estrellas como el hotel Meliá Cala Galdana. Será la 
 sede perfecta tanto para un viaje en familia como si acudes a la isla en pareja o con 
-amigos.** 
+amigos. 
 
 ![Vistas desde el Cape Nao Beach Club & Restaurant del Meliá Cala Galdana.](https://fotos.etheriamagazine.com/2023/08/Menorca-Melia-Cala-Galdana-Cape-Nao-Beach-Club.jpg "Vistas desde el Cape Nao Beach Club & Restaurant del Meliá Cala Galdana.")
 

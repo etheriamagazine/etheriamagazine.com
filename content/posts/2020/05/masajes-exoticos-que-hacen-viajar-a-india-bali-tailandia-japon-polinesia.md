@@ -9,11 +9,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Uno de los caprichos que nos gusta darnos en nuestra ciudad o durante los viajes es un 
+Uno de los caprichos que nos gusta darnos en nuestra ciudad o durante los viajes es un 
 masaje. Sobre todo, cuando nos trasladamos a destinos con una larga tradición como 
 Tailandia, Bali, la India, Japón o Polinesia. Te contamos en qué consisten algunos de 
-los masajes exóticos más populares: tailandés, shiatsu, balinés, lomi lomi y 
-ayurvédico.** 
+los masajes exóticos más populares: tailandés, shiatsu, balinés, lomi lomi y ayurvédico. 
 
 ![masaje con aceite](https://fotos.etheriamagazine.com/2020/05/tipos-masajes-balines.jpg "En algunos masajes el aceite es fundamental. © Alan Caishan")
 

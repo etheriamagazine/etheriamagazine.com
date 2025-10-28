@@ -1,6 +1,7 @@
 ---
 title: "Mercadillos navideños de Praga, una buena excusa para viajar a Chequia"
 date: 2021-11-10
+lastmod: 2023-11-01
 cover: https://fotos.etheriamagazine.com/2021/11/mercadillos-Praga.jpg
 categories: 
   - viajar-en-familia
@@ -10,15 +11,15 @@ authors:
   - Redacción Etheria
 ---
 
-**La capital checa se vuelve aún más seductora en la época de Adviento, un momento 
-previo a la Navidad en el que los mercadillos navideños de Praga inundan la ciudad de 
-magia, aromas y campanillas. Pero no sólo los praguenses celebran estas fechas sino que 
-en Brno, Pilsen, Karlovy Vary, Kutná Hora o Český Krumlov también se organizan para 
-pasarlo bien en las fiestas navideñas.** 
+La capital checa se vuelve aún más seductora en la época de Adviento, un momento previo 
+a la Navidad en el que los mercadillos navideños de Praga inundan la ciudad de magia, 
+aromas y campanillas. Pero no sólo los praguenses celebran estas fechas sino que en 
+Brno, Pilsen, Karlovy Vary, Kutná Hora o Český Krumlov también se organizan para pasarlo 
+bien en las fiestas navideñas. 
 
 ![Mercadillo navideño de la Plaza de la Ciudad Vieja, en Praga.](https://fotos.etheriamagazine.com/2021/11/mercadillos-Praga.jpg "Mercadillo navideño de la Plaza de la Ciudad Vieja, en Praga. © Libor Svácek")
 
-**Actualizado 11/2023** 
+<!-- LEGACY_UPDATED: **Actualizado 11/2023** -->
 
 Los mercadillos navideños de Praga ocupan plazas, calles y bonitos rincones inundando la 
 capital de una atmósfera totalmente mágica. Todos ellos invitan a disfrutar, a unirse a 

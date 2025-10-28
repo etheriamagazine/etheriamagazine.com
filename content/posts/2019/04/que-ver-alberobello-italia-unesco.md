@@ -1,6 +1,7 @@
 ---
 title: "Alberobello con amigas, un viaje al pueblo más pícaro de Italia"
 date: 2019-04-15
+lastmod: 2025-08-01
 cover: https://fotos.etheriamagazine.com/2019/04/que-ver-Alberobello-puglia.jpg
 categories: 
   - viajar-con-amigas
@@ -17,11 +18,11 @@ construcciones conocidas como 'trullis', que no son producto del diseño sino m�
 la picaresca, ya que tienen una propiedad excepcional: se pueden desmontar en una sola 
 noche. 
 
-**Texto y fotos: Menchu Redondo** 
+<!-- LEGACY_AUTHOR: **Texto y fotos: Menchu Redondo** -->
 
 ![alberobello, que ver en alberobello](https://fotos.etheriamagazine.com/2019/04/que-ver-Alberobello-trulis.jpg "Alberobello está situado en la región de Puglia.")
 
-**Actualizado 8/2025** 
+<!-- LEGACY_UPDATED: **Actualizado 8/2025** -->
 
 En el agreste paisaje mediterráneo de la comarca de Murge dei Trulli abundan olivos, 
 árboles frutales, viñedos y, sobre todo, piedras. Este es el principal material empleado 

@@ -8,10 +8,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Sorteamos el magnífico libro 'Soñar es viajar, 88 viajes en confinamiento' con 
-imágenes del fotógrafo Manuel Charlón y textos de 88 periodistas de viajes que comparten 
-lo que es para ellos viajar. Los beneficios de este libro van destinados a la 
-investigación de la COVID-19.** 
+Sorteamos el magnífico libro 'Soñar es viajar, 88 viajes en confinamiento' con imágenes 
+del fotógrafo Manuel Charlón y textos de 88 periodistas de viajes que comparten lo que 
+es para ellos viajar. Los beneficios de este libro van destinados a la investigación de 
+la COVID-19. 
 
 ![](https://fotos.etheriamagazine.com/2020/10/web-SORTEO-88-viajes-confinamiento.jpg)
 

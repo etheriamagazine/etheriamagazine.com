@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Europa está llena de destinos sorprendentes y uno de las que más te va a gustar es la 
+Europa está llena de destinos sorprendentes y uno de las que más te va a gustar es la 
 región de Valonia. Desconocida para muchos pero llena de atractivos y muy fácil de 
 visitar, aquí te damos ocho razones para viajar a Valonia, aunque te aseguramos que 
-existen muchas más.** 
+existen muchas más. 
 
 ![Teleférico de Namur](https://fotos.etheriamagazine.com/2023/05/valonia-namur-teleferico.jpg "Teleférico de Namur. © WBT/Denis Closon.")
 

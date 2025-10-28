@@ -1,6 +1,7 @@
 ---
 title: "Cómo disfrutar de Menorca antes o después del verano"
 date: 2018-11-05
+lastmod: 2024-04-01
 cover: https://fotos.etheriamagazine.com/2018/10/puerto-ciudadela-menorca.jpg
 categories: 
   - viajar-con-amigas
@@ -18,7 +19,7 @@ experiencias que se disfrutan más en Menorca en temporada baja.
 
 ![vistas puerto de mahon](https://fotos.etheriamagazine.com/2018/10/viaje-menorca-atardecer-mahon.jpg "Atardecer en Mahón. ©P.G./Etheria")
 
-**Actualizado en abril 2024** 
+<!-- LEGACY_UPDATED: **Actualizado en abril 2024** -->
 
 Las chanclas y las toallas se recogen. Menorca en temporada baja vuelve a florecer con 
 todo su esplendor, aunque bajen sus temperaturas y llegue el temido viento que azota las 

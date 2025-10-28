@@ -1,6 +1,7 @@
 ---
 title: "Las Hurdes, un paraíso extremeño que huye de estereotipos"
 date: 2020-07-21
+lastmod: 2024-09-01
 cover: https://fotos.etheriamagazine.com/2020/07/las-hurdes-las-Mestas.jpg
 categories: 
   - viajar-con-amigas
@@ -18,7 +19,7 @@ emocionantes.
 
 ![viaje Extremadura, comarca las hurdes](https://fotos.etheriamagazine.com/2020/07/viaje-extremadura-Las-Hurdes.jpg "Son muchos los ríos que atraviesan la comarca de Las Hurdes. © Yolanda Cardo")
 
-Actualizado 9/2024 
+<!-- LEGACY_UPDATED: Actualizado 9/2024 -->
 
 La primera sensación que se percibe cuando nos adentramos en el territorio extremeño de 
 **Las Hurdes** es de absoluta extrañeza. Ante un horizonte insólito, nos invade cierta 

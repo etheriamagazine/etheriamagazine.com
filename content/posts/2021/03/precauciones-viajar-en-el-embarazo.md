@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**¿Quieres viajar embarazada? Estupendo, si te hace feliz y no tienes complicaciones, 
-que es lo más habitual, ¡adelante! Lo mejor para tu hijo en este momento es que estés 
+¿Quieres viajar embarazada? Estupendo, si te hace feliz y no tienes complicaciones, que 
+es lo más habitual, ¡adelante! Lo mejor para tu hijo en este momento es que estés 
 contenta, y los viajes ayudan a alcanzar ese estado de bienestar. Te damos 5 sencillas 
-pautas que te servirán para organizar tus escapadas si eres novata en estas lides.** 
+pautas que te servirán para organizar tus escapadas si eres novata en estas lides. 
 
 ![consejos viajar embarazada](https://fotos.etheriamagazine.com/2019/02/mujer-embarazo-viaje.jpg "Consejos para viajar embarazada.")
 

@@ -1,6 +1,7 @@
 ---
 title: "Asturias en coche con amigas, descubre sus paradas imprescindibles"
 date: 2022-01-17
+lastmod: 2025-07-01
 cover: https://fotos.etheriamagazine.com/2022/01/playa-Torimbia.jpg
 categories: 
   - viajar-con-amigas
@@ -17,7 +18,7 @@ Asturias en coche, has encontrado al artículo adecuado.
 
 ![asturias en coche cudillero](https://fotos.etheriamagazine.com/2022/01/Cudillero-asturias.jpg "Cudillero, uno de los pueblos más bonitos de España. ©Yolanda Cardo")
 
-Actualizado 7/2025 
+<!-- LEGACY_UPDATED: Actualizado 7/2025 -->
 
 Las aguas del Cantábrico y las cumbres de su cordillera configuran la fisonomía de estas 
 hermosas tierras. El azul que decora sus costas se transforma en una generosa gama de 

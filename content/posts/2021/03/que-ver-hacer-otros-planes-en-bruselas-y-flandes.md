@@ -11,10 +11,10 @@ authors:
   - Susana García
 ---
 
-**Viajar a Bruselas y Flandes es siempre un buen plan. A sus ciudades históricas llenas 
-de tesoros artísticos se suma un gusto natural por vivir en la calle que se refleja en 
-las plazas y calles llenas de terrazas al aire libre. Aquí te contamos 8 planes 
-imprescindibles para conocer algunos de sus secretos. ¡No te los pierdas!** 
+Viajar a Bruselas y Flandes es siempre un buen plan. A sus ciudades históricas llenas de 
+tesoros artísticos se suma un gusto natural por vivir en la calle que se refleja en las 
+plazas y calles llenas de terrazas al aire libre. Aquí te contamos 8 planes 
+imprescindibles para conocer algunos de sus secretos. ¡No te los pierdas! 
 
 ![Graslei, el animado muelle de Gante.](https://fotos.etheriamagazine.com/2021/03/Planes-flandes-Graslei-Gante.jpg "Graslei, el animado muelle de Gante.")
 

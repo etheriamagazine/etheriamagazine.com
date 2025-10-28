@@ -10,12 +10,12 @@ authors:
   - Pepa G. Marín
 ---
 
-**Divertirse y aprender en una excursión con niños en la Comunidad de Madrid puede ser 
-de lo más sencillo y gratificante si los lugares elegidos cuentan con incentivos 
-adecuados. Entre los muchos planes familiares que se pueden elegir, hemos escogido cinco 
+Divertirse y aprender en una excursión con niños en la Comunidad de Madrid puede ser de 
+lo más sencillo y gratificante si los lugares elegidos cuentan con incentivos adecuados. 
+Entre los muchos planes familiares que se pueden elegir, hemos escogido cinco 
 excursiones con niños en Madrid con elementos atractivos para los pequeños: un castillo, 
 un palacio, una villa medieval, un monasterio lleno de secretos y un bosque. ¿Por cuál 
-vas a empezar?** 
+vas a empezar? 
 
 ![Casita del Príncipe, en San Lorenzo.](https://fotos.etheriamagazine.com/2023/03/casita-principe-escorial.jpg "Casita del Príncipe, en San Lorenzo de El Escorial. © Etheria Magazine")
 

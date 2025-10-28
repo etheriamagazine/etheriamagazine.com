@@ -10,11 +10,11 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-**Panamá te brinda experiencias excitantes como practicar submarinismo en Bocas del 
-Toro, uno de los arrecifes de coral más bellos del mundo; convivir con la tribu de los 
-Kuna Yala, en el archipiélago de San Blas; y alojarte a coste cero gracias al 
-couchsurfing. Como siempre, te damos, las claves para viajar sola a Panamá y sacar el 
-máximo partido a la experiencia.** 
+Panamá te brinda experiencias excitantes como practicar submarinismo en Bocas del Toro, 
+uno de los arrecifes de coral más bellos del mundo; convivir con la tribu de los Kuna 
+Yala, en el archipiélago de San Blas; y alojarte a coste cero gracias al couchsurfing. 
+Como siempre, te damos, las claves para viajar sola a Panamá y sacar el máximo partido a 
+la experiencia. 
 
 ![Playa en el archipiélago de San Blas](https://fotos.etheriamagazine.com/2019/06/Panama-san-blas.jpg "Playa en el archipiélago de San Blas. © Rocío Guillén")
 

@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**La vida cultural de Madrid siempre es un aliciente para visitar la capital desde otras 
+La vida cultural de Madrid siempre es un aliciente para visitar la capital desde otras 
 ciudades y para los propios madrileños que siempre están buscando nuevas propuestas para 
 disfrutar de su tiempo de ocio. Aquí te proponemos 9 exposiciones que puedes visitar 
-durante este otoño de 2022, para que vayas organizando tu agenda.** 
+durante este otoño de 2022, para que vayas organizando tu agenda. 
 
 ![fotografía de Frida Kalho](https://fotos.etheriamagazine.com/2022/09/exposiciones-madrid-frida-kalho-entrada.jpg "Entrada a la exposición sobre Frida Kalho en © Casa de México.")
 

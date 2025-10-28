@@ -10,10 +10,9 @@ authors:
   - Redacción Etheria
 ---
 
-**Los viajes se disfrutan antes, durante y después del viaje. En Etheria Magazine 
-también te queremos ayudar en la etapa previa, así que te recomendamos películas y 
-libros con los que preparar y documentar tu viaje a República Checa de forma amena desde 
-casa.** 
+Los viajes se disfrutan antes, durante y después del viaje. En Etheria Magazine también 
+te queremos ayudar en la etapa previa, así que te recomendamos películas y libros con 
+los que preparar y documentar tu viaje a República Checa de forma amena desde casa. 
 
 ![Libros y películas para preparar tu viaje soñado a Chequia.](https://fotos.etheriamagazine.com/2020/03/preparar-viaje-chequia.jpg "Libros y películas para preparar tu viaje soñado a Chequia.")
 

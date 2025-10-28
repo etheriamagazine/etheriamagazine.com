@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-**Una forma excelente de pasar el tiempo libre que nos sobra en casa es poner en orden 
-las fotografías de los viajes y plasmarlas en un álbum digital que puedas enviar a 
-imprimir. Aquí te damos varios consejos para que no inviertas demasiado tiempo en la 
-tarea, aunque pasar un rato mirando fotos de viajes pasados no es tan malo, ¿verdad?** 
+Una forma excelente de pasar el tiempo libre que nos sobra en casa es poner en orden las 
+fotografías de los viajes y plasmarlas en un álbum digital que puedas enviar a imprimir. 
+Aquí te damos varios consejos para que no inviertas demasiado tiempo en la tarea, aunque 
+pasar un rato mirando fotos de viajes pasados no es tan malo, ¿verdad? 
 
 ![crea tu propio album de fotos, imágenes de viajes, fotos de tus viajes](https://fotos.etheriamagazine.com/2020/03/albumes-varios.jpg "No renuncies a imprimir tus álbumes de fotos.")
 

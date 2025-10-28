@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Porto Santo siempre será la hermana pequeña de Madeira pero, no por ello, es una 
+Porto Santo siempre será la hermana pequeña de Madeira pero, no por ello, es una 
 segundona. De hecho, lo que te proponemos es que rompas la norma y conviertas esta isla 
 en tu destino principal de vacaciones en el archipiélago madeirense. Si quiere saber qué 
-ver en Porto o por qué deberías visitarla, sigue leyendo.** 
+ver en Porto o por qué deberías visitarla, sigue leyendo. 
 
 ![Mirador de Portela, las mejores vistas de Porto Santo.](https://fotos.etheriamagazine.com/2019/02/Porto-Santo-mirador.jpg "Mirador de Portela, las mejores vistas de Porto Santo. © P.G.")
 

@@ -1,6 +1,7 @@
 ---
 title: "10 excursiones en Menorca para unas vacaciones en familia perfectas"
 date: 2023-10-13
+lastmod: 2025-07-01
 cover: https://fotos.etheriamagazine.com/2023/10/menorca-barcos-calas-macarella-macarelleta.jpg
 categories: 
   - viajar-en-familia
@@ -18,7 +19,7 @@ esta isla donde el 'slow travel' cobra todo su sentido.
 
 ![Barcos frente a las calas de Mararella y Macarelleta desde el Camí de Cavalls.](https://fotos.etheriamagazine.com/2023/10/menorca-barcos-calas-macarella-macarelleta.jpg "Barcos frente a las calas de Mararella y Macarelleta desde el Camí de Cavalls. © SG")
 
-Actualizado 7/2025 
+<!-- LEGACY_UPDATED: Actualizado 7/2025 -->
 
 Menorca es un plan excelente siempre. Esta isla mediterránea, reserva de la Biosfera por 
 la Unesco (que incluye la mayor Reserva Marina de Europa), ha sabido mantener su esencia 

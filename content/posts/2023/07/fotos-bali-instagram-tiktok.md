@@ -11,12 +11,12 @@ authors:
   - Susana García
 ---
 
-**La paradisíaca isla de Bali es uno de los destinos más deseados del planeta para pasar 
+La paradisíaca isla de Bali es uno de los destinos más deseados del planeta para pasar 
 unas vacaciones. A sus indiscutibles encantos paisajísticos y culturales se suma el 
 éxito de alguno de sus rincones, que se han convertido en lugar de peregrinación de 
 "instagramers" y "tiktokers" en busca del plano perfecto. En este artículo te contamos 
 diez lugares de Bali donde dar rienda suelta al "postureo" para lucir como nadie en tus 
-redes sociales.** 
+redes sociales. 
 
 ![foto en el templo Besakih de Bali](https://fotos.etheriamagazine.com/2023/07/bali-templo-besakih-foto-espejo.jpg "En algunos templos te podrás hacer una foto reflejando la imagen en un espejo bajo el móvil simulando un falso lago. La imagen muestra el templo Besakih. © Etheria Magazine")
 

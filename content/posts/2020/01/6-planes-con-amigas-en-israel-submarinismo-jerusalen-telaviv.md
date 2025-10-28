@@ -12,10 +12,10 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-**¿Creías que Israel era sólo un desierto? Pues aparte del contraste de sus dos ciudades 
+¿Creías que Israel era sólo un desierto? Pues aparte del contraste de sus dos ciudades 
 más importantes, Jerusalén y Tel Aviv, es posible bucear en el mar Rojo, flotar sobre 
 las aguas del mar Muerto y disfrutar de sus parques botánicos y geológicos. Toma nota de 
-estas recomendaciones para tu próximo viaje a Israel con amigas.** 
+estas recomendaciones para tu próximo viaje a Israel con amigas. 
 
 ![Formaciones rocosas en Timna Park, en el desierto de Néguev.](https://fotos.etheriamagazine.com/2019/12/israel-timna-park.jpg "Formaciones rocosas en Timna Park, en el desierto de Néguev.")
 

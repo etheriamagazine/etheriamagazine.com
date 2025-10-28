@@ -10,10 +10,10 @@ authors:
   - Macarena Escrivá
 ---
 
-**La Ciudad Eterna siempre apetece. Rodearte de las máximas expresiones artísticas de 
+La Ciudad Eterna siempre apetece. Rodearte de las máximas expresiones artísticas de 
 varios siglos, pasear a orillas del Tíber, perderte por el Trastevere o comer en los 
 restaurantes más exquisitos. ¿Lo mejor de todo esto? Que Roma se plantea como el viaje 
-perfecto para hacer con amigas.** 
+perfecto para hacer con amigas. 
 
 ![piazza popolo](https://fotos.etheriamagazine.com/2018/10/Roma-Piazza-del-popolo-e1552812774394.jpg "Piazza del Popolo (Roma).")
 

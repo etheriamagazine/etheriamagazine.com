@@ -12,10 +12,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Itinerarios nacionales a corto plazo e, incluso, alguna escapada sorpresa son las 
+Itinerarios nacionales a corto plazo e, incluso, alguna escapada sorpresa son las 
 propuestas que la agencia de viajes para mujeres WOM prepara para este verano. Su 
 directora, Ana Blasco, seguirá con su dinámica de llevar grupos reducidos y de huir del 
-turismo de masas.** 
+turismo de masas. 
 
 ![Ana Blasco, de WOM.](https://fotos.etheriamagazine.com/2020/05/agencia-viaje-mujeres-wom.jpg "Ana Blasco, de WOM. © Lydia Carbonell")
 

@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Tanto si ya eres una enamorada de Marruecos como si estás buscando una primera 
+Tanto si ya eres una enamorada de Marruecos como si estás buscando una primera 
 experiencia, un viaje a Casablanca y Marrakech te permitirá conocer dos ciudades muy 
 dispares pero igual de frenéticas. Te contamos cuáles son los puntos fuertes para que 
-elijas si quieres visitar las dos o solo una.** 
+elijas si quieres visitar las dos o solo una. 
 
 ![Interior de la mezquita de Hassan II, en Casablanca](https://fotos.etheriamagazine.com/2023/05/interior-mezquita-hassan-ii.jpg "Interior de la mezquita de Hassan II. © Pepa García")
 

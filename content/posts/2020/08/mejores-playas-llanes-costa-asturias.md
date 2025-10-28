@@ -10,10 +10,9 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Recorrer la costa de Llanes en coche, a pie o con ferrocarril de vía estrecha es una 
+Recorrer la costa de Llanes en coche, a pie o con ferrocarril de vía estrecha es una 
 experiencia inolvidable. Te proponemos hacer una ruta asturiana al borde del mar 
-siguiendo 30 kilómetros llenos de sorpresas: acantilados, cuevas, monasterios, 
-playas...** 
+siguiendo 30 kilómetros llenos de sorpresas: acantilados, cuevas, monasterios, playas... 
 
 ![Cueva Pindal y faro de San Emeterio](https://fotos.etheriamagazine.com/2020/08/asturias-playas-llanes.jpg "Entorno de la Cueva Pindal, un gran atractivo de la costa de Llanes.")
 

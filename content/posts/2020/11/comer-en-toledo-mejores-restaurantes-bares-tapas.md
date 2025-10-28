@@ -11,10 +11,10 @@ authors:
   - Vanesa Viñolo
 ---
 
-**Un paseo gastronómico por 10 de los mejores restaurantes de Toledo, auténticas 
+Un paseo gastronómico por 10 de los mejores restaurantes de Toledo, auténticas 
 referencias para comer y beber bien. Encontrarás opciones para todos los gustos y 
 momentos, desde las propuestas más ‘foodies’ hasta tapeos informales y lugares con 
-encanto.** 
+encanto. 
 
 ![vista de Toledo](https://fotos.etheriamagazine.com/2020/10/restaurantes-toledo-panoramica.jpg "Toledo.")
 

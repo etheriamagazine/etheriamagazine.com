@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Viajar a las islas españolas siempre es un respiro porque permiten alejarse de la 
-rutina y, a la vez, sentirse como en casa. Cada archipiélago cuenta con una identidad 
-propia muy marcada y, en su interior, cada isla tiene su propia personalidad, que 
-manifiesta en sus paisajes, folclore y gastronomía. Te animamos a descubrirlas con estas 
-10 escapadas perfectas para realizar todo el año y con quien quieras.** 
+Viajar a las islas españolas siempre es un respiro porque permiten alejarse de la rutina 
+y, a la vez, sentirse como en casa. Cada archipiélago cuenta con una identidad propia 
+muy marcada y, en su interior, cada isla tiene su propia personalidad, que manifiesta en 
+sus paisajes, folclore y gastronomía. Te animamos a descubrirlas con estas 10 escapadas 
+perfectas para realizar todo el año y con quien quieras. 
 
 ![mar de Ibiza en cala Conta](https://fotos.etheriamagazine.com/2018/05/Ibiza-cala-conta_NC_2.jpg "Cala Conta en Ibiza.")
 

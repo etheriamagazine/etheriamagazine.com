@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**La capital checa no para en ninguna momento y menos aún en estos últimos meses del 
-año, así que aprovecha cualquier fin de semana para conocer sus hitos turísticos y 
-algunos eventos en torno al diseño y el arte. Si viajas a Praga en otoño no te pierdas 
-el Designblok, el Signal Festival y la exposición de Mucha.** 
+La capital checa no para en ninguna momento y menos aún en estos últimos meses del año, 
+así que aprovecha cualquier fin de semana para conocer sus hitos turísticos y algunos 
+eventos en torno al diseño y el arte. Si viajas a Praga en otoño no te pierdas el 
+Designblok, el Signal Festival y la exposición de Mucha. 
 
 ![Espectáculo de luces durante el Festival Signal de Praga en 2021](https://fotos.etheriamagazine.com/2022/09/signal-festival-luces.jpg "Espectáculo de luces durante el Signal Festival de Praga en 2021. © Dusan Vondra")
 

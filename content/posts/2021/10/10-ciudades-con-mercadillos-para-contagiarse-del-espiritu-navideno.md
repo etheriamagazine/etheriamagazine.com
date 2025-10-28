@@ -10,11 +10,11 @@ authors:
   - Susana García
 ---
 
-**No a todo el mundo le gusta la Navidad, pero hay que reconocer que las ciudades 
-europeas lucen sus mejores galas durante el Adviento y, al placer de recorrerlas y 
-disfrutarlas, se une ese ambiente navideño que invita a deambular por sus mercadillos 
-para comprar algún adorno o probar un vino caliente. Te llevamos a diez ciudades con 
-mercadillos navideños con los que no podrás resistirte al espíritu navideño.** 
+No a todo el mundo le gusta la Navidad, pero hay que reconocer que las ciudades europeas 
+lucen sus mejores galas durante el Adviento y, al placer de recorrerlas y disfrutarlas, 
+se une ese ambiente navideño que invita a deambular por sus mercadillos para comprar 
+algún adorno o probar un vino caliente. Te llevamos a diez ciudades con mercadillos 
+navideños con los que no podrás resistirte al espíritu navideño. 
 
 ![Luces navideñas](https://fotos.etheriamagazine.com/2018/10/mercados-navidenos.jpg "Luces de Navidad.")
 

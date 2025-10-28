@@ -1,6 +1,7 @@
 ---
 title: "Yucatán, una 'boat movie' para viajar desde la butaca por medio mundo"
 date: 2018-08-30
+lastmod: 2025-08-01
 cover: https://fotos.etheriamagazine.com/2018/08/yucatan-luis-tosar-pelicula-crucero.jpg
 categories: 
   - estilo-de-vida
@@ -16,7 +17,7 @@ de lujo?
 
 ![yucatan daniel monzon viajes cine](https://fotos.etheriamagazine.com/2018/08/Yucatan-making-off-manolo-pavon.jpg "Making off de 'Yucatán'.")
 
-Actualizado 8/2025 
+<!-- LEGACY_UPDATED: Actualizado 8/2025 -->
 
 Yucatán, la comedia del director mallorquín, Daniel Monzón, estrenada en 2018, es una 
 película con la que viajar por medio mundo, como explica el propio Monzón: “Es una _boat 

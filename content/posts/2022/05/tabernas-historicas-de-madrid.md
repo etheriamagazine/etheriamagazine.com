@@ -11,10 +11,10 @@ authors:
   - Susana García
 ---
 
-**No hay nada más madrileño que tomar el aperitivo de taberna en taberna y dejar que las 
+No hay nada más madrileño que tomar el aperitivo de taberna en taberna y dejar que las 
 cañas y vermús se sucedan hasta pasada la hora del almuerzo. Aquí te llevamos a 10 
 tabernas históricas de Madrid que nos encantan porque conservan intacta su esencia a 
-través de su decoración, su propuesta gastronómica y sus camareros de toda la vida.** 
+través de su decoración, su propuesta gastronómica y sus camareros de toda la vida. 
 
 ![taberna centenaria de Madrid](https://fotos.etheriamagazine.com/2022/05/Casa-alberto.jpg "Fachada de Casa Alberto. © Susana García/ Etheria Magazine")
 

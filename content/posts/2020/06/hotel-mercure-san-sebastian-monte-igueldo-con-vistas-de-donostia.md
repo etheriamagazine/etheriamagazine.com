@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**El Mercure San Sebastián Monte Igueldo es uno de los hoteles con mejores vistas de la 
+El Mercure San Sebastián Monte Igueldo es uno de los hoteles con mejores vistas de la 
 capital guipuzcoana. Su decoración estilo _Belle Époque_, la amplitud de sus 
 habitaciones y su excelente oferta culinaria lo convierten en una gran elección en 
-Donostia tanto si se viaja en pareja como en familia.** 
+Donostia tanto si se viaja en pareja como en familia. 
 
 ![Salón con vistas en el Mercure San Sebastian Monte Igueldo](https://fotos.etheriamagazine.com/2020/06/Portada-Mercure-San-Sebastian.jpg "Salón principal del Mercure San Sebastián Monte Igueldo.")
 

@@ -10,11 +10,11 @@ authors:
   - Firmas invitadas
 ---
 
-**La mejor manera de preparar un viaje a este país es no prepararlo. Viajar sola a 
-Namibia es dejarse llevar por lo que nos pida el cuerpo, escuchar los relatos de los 
-viajeros que nos encontremos en el camino y una vez allí decidir. Lo cierto es que, 
-aunque emprendamos un viaje en solitario en Namibia, lo difícil es estarlo mucho tiempo, 
-ya que es bastante común compartir transporte.** 
+La mejor manera de preparar un viaje a este país es no prepararlo. Viajar sola a Namibia 
+es dejarse llevar por lo que nos pida el cuerpo, escuchar los relatos de los viajeros 
+que nos encontremos en el camino y una vez allí decidir. Lo cierto es que, aunque 
+emprendamos un viaje en solitario en Namibia, lo difícil es estarlo mucho tiempo, ya que 
+es bastante común compartir transporte. 
 
 **Texto y fotos: Cristina Candel** 
 

@@ -11,11 +11,11 @@ authors:
   - Alfredo G. Reyes
 ---
 
-**La imagen de Bolonia es la de una ciudad universitaria donde estudian (y disfrutan) 
+La imagen de Bolonia es la de una ciudad universitaria donde estudian (y disfrutan) 
 nuestros Erasmus, un destino económico gracias a las líneas aéreas _low cost_ y un 
 rincón de Italia con mucha historia. ¿Por qué deberías valorarlo como tu próxima 
 escapada? Son muchas las razones, además de los bares, pero aquí hemos elegido diez 
-planes que puedes hacer en Bolonia y que justifican el viaje.** 
+planes que puedes hacer en Bolonia y que justifican el viaje. 
 
 ![en bicicleta por bolonia](https://fotos.etheriamagazine.com/2022/02/bolonia-porticos-bicicleta.jpg "En Bolonia es fácil moverse en bicicleta.")
 

@@ -10,10 +10,10 @@ authors:
   - Eva Madruga
 ---
 
-**León es una ciudad con una historia muy marcada y resulta perfecta para gozar de su 
+León es una ciudad con una historia muy marcada y resulta perfecta para gozar de su 
 patrimonio monumental y cultural, pero también es un ideal para disfrutar de un "León en 
 familia" a través de decenas de planes. A continuación te proponemos diez actividades 
-didácticas y divertidas, entre ellas una escapada a la bonita cueva de Valporquero.** 
+didácticas y divertidas, entre ellas una escapada a la bonita cueva de Valporquero. 
 
 ![tren turistico leon viajes en familia](https://fotos.etheriamagazine.com/2021/06/tren-turistico-leon.jpg "Tren turístico de León frente a la Catedral.")
 

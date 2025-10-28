@@ -12,10 +12,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Dino Parque Lourinhã, situado a unos 60 km de Lisboa, es el mayor museo al aire libre 
-de Portugal, un espacio para aprender y divertirse al mismo tiempo. El extraordinario 
+Dino Parque Lourinhã, situado a unos 60 km de Lisboa, es el mayor museo al aire libre de 
+Portugal, un espacio para aprender y divertirse al mismo tiempo. El extraordinario 
 realismo de los dinosaurios colocados en su interior aseguran una vivencia excitante que 
-se complementa con talleres y exposiciones.** 
+se complementa con talleres y exposiciones. 
 
 ![entrada Dino Parque Lourinhã](https://fotos.etheriamagazine.com/2018/12/Dinoparque-lourinha-viajes-familias.jpg "Entrada principal a Dino Parque Lourinhã.")
 

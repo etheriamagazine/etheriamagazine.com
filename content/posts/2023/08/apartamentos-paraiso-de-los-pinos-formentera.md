@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Formentera es uno de los destinos estrella del verano y, aunque su popularidad llena 
-la costa en los meses estivales, siempre se pueden buscar rincones de calma. Uno de 
-ellos es Paraíso de los Pinos, un complejo de apartamentos y villas con servicios de 
-lujo y el encanto de lo sencillo. Te sentirás como en casa.** 
+Formentera es uno de los destinos estrella del verano y, aunque su popularidad llena la 
+costa en los meses estivales, siempre se pueden buscar rincones de calma. Uno de ellos 
+es Paraíso de los Pinos, un complejo de apartamentos y villas con servicios de lujo y el 
+encanto de lo sencillo. Te sentirás como en casa. 
 
 ![Paraíso de los Pinos en Formentera](https://fotos.etheriamagazine.com/2023/08/paraiso-pinos-formentera-exterior.jpg "Paraíso de los Pinos.")
 

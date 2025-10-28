@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Paisajes majestuosos, romanticismo y sorpresas acompañan durante los 20 kilómetros de 
+Paisajes majestuosos, romanticismo y sorpresas acompañan durante los 20 kilómetros de 
 recorrido del tren noruego de Flåm (o Flamsbana). Considerado entre los más hermosos del 
 mundo, es uno de los viajes en tren que hay que hacer, al menos, una vez en la vida. Te 
-damos todos los datos para organizarlo.** 
+damos todos los datos para organizarlo. 
 
 ![Tren de Flåm.](https://fotos.etheriamagazine.com/2020/11/tren-flam-noruega.jpg "Tren de Flåm. © Wolf Vandierendonck")
 

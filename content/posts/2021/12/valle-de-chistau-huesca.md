@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Como puerta a los Pirineos, Huesca es una escapada que siempre apetece. Es una delicia 
+Como puerta a los Pirineos, Huesca es una escapada que siempre apetece. Es una delicia 
 callejear por sus bucólicos pueblos sin perder de vista las imponentes montañas que 
 cierran el valle. Sentiremos que tocamos el cielo recorriéndolas entre flores alpinas, 
 asomándonos desde sus vertiginosos miradores o al llegar a la orilla de preciosos lagos 
-de montaña. Sigue leyendo para conocer todos los secretos del valle de Chistau.** 
+de montaña. Sigue leyendo para conocer todos los secretos del valle de Chistau. 
 
 ![Bordas junto al refugio de Viados.](https://fotos.etheriamagazine.com/2021/11/valle-chistau-Bordas-refugio-de-VIADOS.jpg "Bordas junto al refugio de Viados.")
 

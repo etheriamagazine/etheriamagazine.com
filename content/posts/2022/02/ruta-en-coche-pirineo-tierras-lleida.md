@@ -1,6 +1,7 @@
 ---
 title: "Grand Tour de Cataluña por el Pirineo y las Tierras de Lleida"
 date: 2022-02-07
+lastmod: 2024-07-01
 cover: https://fotos.etheriamagazine.com/2022/02/Grand-Tour-de-Catalunya-lleida.jpg
 categories: 
   - articulos-por-categorizar
@@ -16,7 +17,7 @@ noroeste catalán? Aquí encontrarás un recorrido muy completo con sus paradas 
 
 ![Coche del Grand Tour de Catalunya en Tierras de Lleida](https://fotos.etheriamagazine.com/2022/02/Grand-Tour-de-Catalunya-lleida.jpg "El Grand Tour de Catalunya transcurre por carreteras secundarias. © Pedro Grifol")
 
-Actualizado en julio 2024 
+<!-- LEGACY_UPDATED: Actualizado en julio 2024 -->
 
 La naturaleza en estado puro salpicada de pueblos con encanto y hoteles con ambiente 
 familiar donde reina la gastronomía tradicional son dos de los sellos de identidad de 

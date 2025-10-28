@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Cristina García Rodero se sumerge en el asimétrico mundo rural de la India y nos lo 
+Cristina García Rodero se sumerge en el asimétrico mundo rural de la India y nos lo 
 muestra en ‘Tierra de sueños’. Cada una de sus instantáneas congela momentos en la vida 
 de mujeres y de otros seres vulnerables de la India. Ellas representan la esperanza de 
 la transformación social que necesita el país. Estará en CaixaForum Sevilla hasta el 25 
-de enero de 2021.** 
+de enero de 2021. 
 
 ![tierra de suenos expo de garcia rodero](https://fotos.etheriamagazine.com/2020/12/tierra-suenos-garcia-rodero-1.jpg "Exposición 'Tierra de sueños'. © García Rodero")
 

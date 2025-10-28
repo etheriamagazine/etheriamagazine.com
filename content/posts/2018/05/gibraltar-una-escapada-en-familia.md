@@ -10,9 +10,9 @@ authors:
   - Pepa G. Marín
 ---
 
-**Cualquier época del año es buena para hacer una pequeña escapada familiar a Gibraltar. 
+Cualquier época del año es buena para hacer una pequeña escapada familiar a Gibraltar. 
 Si estáis pasando las vacaciones en Andalucía solo es necesario que reservéis uno o dos 
-días para visitar El Peñón. En sus 8 km2 encontraréis planes para todos.** 
+días para visitar El Peñón. En sus 8 km2 encontraréis planes para todos. 
 
 ![En las terrazas superiores se puede ver a los macacos de cerca.](https://fotos.etheriamagazine.com/2018/05/Monos-Gibraltar-1-e1558853497645.jpg "En las terrazas superiores se puede ver a los macacos de cerca.")
 

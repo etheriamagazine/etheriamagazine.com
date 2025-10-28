@@ -11,9 +11,9 @@ authors:
   - Redacción Etheria
 ---
 
-**Existen tejidos con funciones protectoras y que actúan como un talismán durante toda 
-la existencia. Uno de ellos es el ‘pano de pinti’, una tela sagrada de Guinea Bissau que 
-elaboran de forma artesanal las etnias Pepel y Manjaka.** 
+Existen tejidos con funciones protectoras y que actúan como un talismán durante toda la 
+existencia. Uno de ellos es el ‘pano de pinti’, una tela sagrada de Guinea Bissau que 
+elaboran de forma artesanal las etnias Pepel y Manjaka. 
 
 ![tejido artesano de guinea bissau](https://fotos.etheriamagazine.com/2020/10/telares-etnias-guinea-bissau.jpg "Un tejido artesano con cualidades mágicas en Guinea Bissau.")
 

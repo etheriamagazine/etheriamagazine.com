@@ -84,7 +84,7 @@ el calor humano encontrados en cada uno de los rincones de este planeta.
 Así, no es difícil adivinar que, aunque ahora estoy de vuelta en una vida más 
 convencional, sigo soñando con emprender un nuevo viaje sin fecha de regreso. 
 
-**Autora: Marta Vázquez** 
+<!-- LEGACY_AUTHOR: **Autora: Marta Vázquez** -->
 
 \*Podéis asistir a su charla en las [Jornadas iati de los grandes 
 viajes](https://jornadasgrandesviajes.es/) este 1 de junio de 2024 tanto en persona 

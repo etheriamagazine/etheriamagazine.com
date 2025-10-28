@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Comer bien y barato es posible en República Checa. Conoce y disfruta de la buena 
-cocina de los mejores restaurantes del país desde 12 euros. Aprovecha la oportunidad que 
-te brinda el Festival Grand Restaurant entre el 15 de enero y el 29 de febrero de 2020. 
-Te contamos cómo reservar y algunos de los mejores establecimientos participantes.** 
+Comer bien y barato es posible en República Checa. Conoce y disfruta de la buena cocina 
+de los mejores restaurantes del país desde 12 euros. Aprovecha la oportunidad que te 
+brinda el Festival Grand Restaurant entre el 15 de enero y el 29 de febrero de 2020. Te 
+contamos cómo reservar y algunos de los mejores establecimientos participantes. 
 
 ![cocina checa, mejores restaurantes checos](https://fotos.etheriamagazine.com/2019/12/Holiday-Inn-Brno.jpg "El restaurante Prominent, del Holiday Inn de Brno, fue uno de los más requeridos en 2019. @GRF")
 

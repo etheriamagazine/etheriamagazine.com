@@ -18,7 +18,7 @@ atraen las tiendas pequeñas y las boutiques de diseño, vuestro barrio es Le Ma
 
 ###### ![compras mujeres paris](https://fotos.etheriamagazine.com/2018/07/compras-paris.jpg)
 
-Publicado en 2018 
+<!-- LEGACY_INFO: Publicado en 2018 -->
 
 La mejor manera de encontrar nuestras tiendas de referencia es 'pateando' mucho, no 
 existe otro secreto si estás de **shopping en París**... Ese es el motivo por el que los 

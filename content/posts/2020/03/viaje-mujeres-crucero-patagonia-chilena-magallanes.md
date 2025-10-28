@@ -1,6 +1,7 @@
 ---
 title: "Guía para descubrir la Patagonia navegando hacia el Estrecho de Magallanes"
 date: 2020-03-17
+lastmod: 2025-08-01
 cover: https://fotos.etheriamagazine.com/2020/03/viaje-patagonia-chilena-ventus-australis.jpg
 categories: 
   - organiza-tu-viaje
@@ -18,7 +19,7 @@ amantes de la aventura.
 
 ![viaje patagonia chilena, magallanes](https://fotos.etheriamagazine.com/2020/03/viaje-patagonia-ushuaia.jpg "De Ushuaia parten los barcos de exploración de la Patagonia.")
 
-Actualizado 8/2025 
+<!-- LEGACY_UPDATED: Actualizado 8/2025 -->
 
 ## 1\. Ushuaia, la ciudad del fin del mundo
 

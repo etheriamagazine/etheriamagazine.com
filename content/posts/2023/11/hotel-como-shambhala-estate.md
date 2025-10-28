@@ -11,11 +11,11 @@ authors:
   - Susana García
 ---
 
-**Nos vamos a uno de los rincones secretos de la isla de Bali, entre la selva y los 
+Nos vamos a uno de los rincones secretos de la isla de Bali, entre la selva y los 
 arrozales de Ubud. Aquí se encuentra el alojamiento COMO Shambhala Estate, que es mucho 
 más que un hotel. Un lugar donde el bienestar forma parte de su filosofía y desconectar 
 del mundo es tremendamente sencillo. Además, es un excelente punto de partida para 
-realizar excursiones por el centro de la isla.** 
+realizar excursiones por el centro de la isla. 
 
 ![Vista aérea de una de las residencias del COMO Shambhala Estate.](https://fotos.etheriamagazine.com/2023/11/como-shambhala-residencia-Tirta-Ening.jpg "Vista aérea de una de las residencias del COMO Shambhala Estate.")
 

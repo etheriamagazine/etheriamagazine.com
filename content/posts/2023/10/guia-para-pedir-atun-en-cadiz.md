@@ -11,12 +11,12 @@ authors:
   - Susana García
 ---
 
-**La costa gaditana rebosa atractivos. Uno de los que más se ha puesto en valor en los 
+La costa gaditana rebosa atractivos. Uno de los que más se ha puesto en valor en los 
 últimos tiempos es el gastronómico, sobre todo el que aparece con la forma del codiciado 
 atún rojo de almadraba. Las cartas de muchos restaurantes pueden llegar incluso a 
 intimidar si no eres un habitual de la provincia, así que en este artículo te contamos 
 cómo pedir atún en Cádiz y todo lo que tienes que saber sobre este suculento túnido para 
-que elijas con propiedad el plato que mejor se adapte a tus gustos.** 
+que elijas con propiedad el plato que mejor se adapte a tus gustos. 
 
 ![Tartar de atún picante con mango del restaurante Nacarum de El Palmar.](https://fotos.etheriamagazine.com/2023/10/Nacarum-atun-picante-con-mango.jpg "Tartar de atún picante con mango del restaurante @ Nacarum de El Palmar.")
 

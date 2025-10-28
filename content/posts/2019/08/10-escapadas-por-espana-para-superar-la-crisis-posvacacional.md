@@ -11,9 +11,9 @@ authors:
   - Redacción Etheria
 ---
 
-**Llega septiembre y con él la rutina laboral, la vuelta al cole y otras muchas cosas 
-que no apetecen nada de nada. Aquí te proponemos 10 escapadas por España para que la 
-llamada crisis posvacacional sea mucho más llevadera.** 
+Llega septiembre y con él la rutina laboral, la vuelta al cole y otras muchas cosas que 
+no apetecen nada de nada. Aquí te proponemos 10 escapadas por España para que la llamada 
+crisis posvacacional sea mucho más llevadera. 
 
 ![mujer rubia tumbada](https://fotos.etheriamagazine.com/2019/08/crisis-posvacacional.jpg "Septiembre es un mes muy duro. © Kinga Cichewicz")
 

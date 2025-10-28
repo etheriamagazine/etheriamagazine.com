@@ -11,9 +11,9 @@ authors:
   - Pepa G. Marín
 ---
 
-**El hotel Barceló Anfa Casablanca es un establecimiento moderno y con una excelente 
+El hotel Barceló Anfa Casablanca es un establecimiento moderno y con una excelente 
 ubicación para recorrer la ciudad. Si estás planteándote una escapada a Marruecos, este 
-establecimientos es una buena propuesta.** 
+establecimientos es una buena propuesta. 
 
 ![Vistas desde el hotel Barceló Anfa Casablanca.](https://fotos.etheriamagazine.com/2018/11/Barcelo-anfa-casablanca-2.jpg "Vistas desde el hotel Barceló Anfa Casablanca.")
 

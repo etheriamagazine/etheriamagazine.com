@@ -8,11 +8,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Cuando concluye un año toca hacer balance de cómo nos ha ido y en Etheria Magazine 
+Cuando concluye un año toca hacer balance de cómo nos ha ido y en Etheria Magazine 
 queríamos saber cuáles han sido los artículos que más os han llamado la atención. Así 
 que hemos elaborado esta lista con los 10 reportajes más leídos de 2022, muchos de los 
 cuales siguen totalmente vigentes en el año que entra y permanecen como fantásticas 
-ideas de viaje.** 
+ideas de viaje. 
 
 ![pareja de viaje en la montaña](https://fotos.etheriamagazine.com/2023/01/pareja-viaje.jpg "Echamos un vistazo a los artículos más leídos en 2022.")
 

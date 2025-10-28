@@ -1,6 +1,7 @@
 ---
 title: "Laponia con niños, un viaje irrepetible"
 date: 2018-09-07
+lastmod: 2024-09-01
 cover: https://fotos.etheriamagazine.com/2018/04/7-NUESTROS-TOP-LAPONIA-FOTO-7.jpg
 categories: 
   - viajar-en-familia
@@ -17,7 +18,7 @@ mismísimo Papá Noel. No te pierdas un viaje a Laponia con niños ¡será inolv
 
 ![cabaña en la Laponia finlandesa](https://fotos.etheriamagazine.com/2018/04/cabaña-privada-Papá-Noel-e1568538731813.jpg "Paisaje desde la cabaña privada de Papá Noel. © Susana García.")
 
-Actualizado en septiembre de 2024. 
+<!-- LEGACY_UPDATED: Actualizado en septiembre de 2024. -->
 
 Uno de los mejores viajes en familia por Europa que se puede hacer con niños es visitar 
 la Laponia finlandesa en invierno, cuando se instala el llamado _kaamos_, la 

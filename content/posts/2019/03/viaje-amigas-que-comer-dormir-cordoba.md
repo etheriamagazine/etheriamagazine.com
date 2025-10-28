@@ -11,10 +11,10 @@ authors:
   - Macarena Escrivá
 ---
 
-**Córdoba rezuma alegría y arte por los cuatro costados. Es un testigo presente de la 
+Córdoba rezuma alegría y arte por los cuatro costados. Es un testigo presente de la 
 historia de España bañado por las aguas del río Guadalquivir y uno de los destinos a los 
 que escaparse ahora que la primavera empieza a asomar las orejas, perfecto para viajar 
-en pareja y disfrutar de su gastronomía.** 
+en pareja y disfrutar de su gastronomía. 
 
 ![alcazar de cordoba](https://fotos.etheriamagazine.com/2019/03/Alcazar-de-Cordoba.jpg "Alcázar de Córdoba.")
 

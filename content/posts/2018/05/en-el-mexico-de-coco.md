@@ -9,10 +9,10 @@ authors:
   - Eva Madruga
 ---
 
-**Cualquier excusa es buena para viajar a México. En esta ocasión lo hacemos en busca de 
+Cualquier excusa es buena para viajar a México. En esta ocasión lo hacemos en busca de 
 los lugares que han inspirado las localizaciones de la película de animación Coco, 
 ganadora de dos Óscar y que está inspirada en la gente, la cultura y las tradiciones de 
-este país.** 
+este país. 
 
 ![Guanajuato la película Coco invita a viajar a México](https://fotos.etheriamagazine.com/2018/05/Guanajuato.jpg "Guanajuato © Pixar")
 

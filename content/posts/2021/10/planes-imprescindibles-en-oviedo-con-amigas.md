@@ -10,9 +10,9 @@ authors:
   - Carmen Pineda
 ---
 
-**Asturias es un valor seguro para cualquier escapada y si tu próxima escapada es un 
-viaje a Oviedo con amigas te aseguramos que no te vas a arrepentir. Aquí te proponemos 8 
-planes para que exprimas al máximo tu estancia en la elegante capital asturiana.** 
+Asturias es un valor seguro para cualquier escapada y si tu próxima escapada es un viaje 
+a Oviedo con amigas te aseguramos que no te vas a arrepentir. Aquí te proponemos 8 
+planes para que exprimas al máximo tu estancia en la elegante capital asturiana. 
 
 ![Oviedo desde la iglesia de Santa María del Naranco.](https://fotos.etheriamagazine.com/2021/09/oviedo-desde-santa-maria-naranco.jpg "Oviedo desde la iglesia de Santa María del Naranco.")
 

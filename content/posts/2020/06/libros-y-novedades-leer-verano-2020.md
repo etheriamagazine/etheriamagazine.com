@@ -9,11 +9,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Solemos aprovechar los momentos libres durante las vacaciones para ponernos al día en 
+Solemos aprovechar los momentos libres durante las vacaciones para ponernos al día en 
 las novedades literarias o para ampliar nuestro conocimiento en alguna materia. En este 
 artículo hemos realizado una selección con un poco de todo, desde los últimos premiados 
 en algunos certámenes, a novedades, novelas gráficas o consejos de fotografía. ¿Con 
-cuántos te quedas?** 
+cuántos te quedas? 
 
 ![libros verano 2020, novedades literarias 2020](https://fotos.etheriamagazine.com/2020/06/libros-verano-2020.jpg "Lecturas de verano para divertirse o aprender en vacaciones. © Dan Dumitriu")
 

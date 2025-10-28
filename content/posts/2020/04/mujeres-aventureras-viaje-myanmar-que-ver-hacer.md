@@ -1,6 +1,7 @@
 ---
 title: "Descubre la belleza de Myanmar, uno de los destinos más mágicos del mundo"
 date: 2020-04-27
+lastmod: 2023-12-01
 cover: https://fotos.etheriamagazine.com/2020/04/viaje-mujeres-myanmar-bagan.jpg
 categories: 
   - viajar-con-amigas
@@ -19,7 +20,7 @@ lista destinos que una mujer viajera no se debe perder.
 
 ![Una panorámica inolvidable de Bagan, en Myanmar](https://fotos.etheriamagazine.com/2020/04/viaje-mujeres-myanmar-bagan.jpg "Una panorámica inolvidable de Bagan. © David Santiago")
 
-Actualizado 12/2023 
+<!-- LEGACY_UPDATED: Actualizado 12/2023 -->
 
 En cualquier rincón del país respirarás el profundo aire sagrado de la filosofía budista 
 en su rama más ortodoxa y percibirás los conceptos de la vida y de nuestra existencia. 

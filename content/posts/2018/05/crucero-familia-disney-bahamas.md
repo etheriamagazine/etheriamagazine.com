@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-**Un crucero Disney por Bahamas es un plan perfecto para un viaje en familia. El 
-concepto de crucero es el que todos conocemos, pero estas islas aportan un punto de 
-exotismo y playa que combina perfectamente con los gustos de los niños. Y, si les sumas 
-los personajes Disney, son sus vacaciones perfectas.** 
+Un crucero Disney por Bahamas es un plan perfecto para un viaje en familia. El concepto 
+de crucero es el que todos conocemos, pero estas islas aportan un punto de exotismo y 
+playa que combina perfectamente con los gustos de los niños. Y, si les sumas los 
+personajes Disney, son sus vacaciones perfectas. 
 
 ![Barco de Disney Cruise Line en Bahamas](https://fotos.etheriamagazine.com/2018/05/Bahamas-Crucero-Disney-barco.jpg "Barco de Disney Cruise Line.")
 

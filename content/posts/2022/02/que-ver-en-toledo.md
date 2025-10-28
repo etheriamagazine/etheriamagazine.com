@@ -11,10 +11,10 @@ authors:
   - Yolanda Cardo
 ---
 
-**Depositaria de siglos de historia, Toledo se erige orgullosa sobre el Tajo como adalid 
+Depositaria de siglos de historia, Toledo se erige orgullosa sobre el Tajo como adalid 
 de las numerosas culturas que han dejado su impronta: carpetanos, romanos, visigodos, 
 plaza fuerte del emirato de Córdoba y capital del Imperio con Carlos V. Hay tanto que 
-ver en Toledo que 48 horas os sabrán a poco.** 
+ver en Toledo que 48 horas os sabrán a poco. 
 
 ![vistas desde el mirador de la piedra del rey moro en toledo](https://fotos.etheriamagazine.com/2022/02/mirador-toledo.jpg "Toledo desde el mirador de la Piedra del Rey Moro. © Yolanda Cardo")
 

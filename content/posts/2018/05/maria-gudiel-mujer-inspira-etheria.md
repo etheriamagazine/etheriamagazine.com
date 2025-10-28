@@ -9,9 +9,9 @@ authors:
   - Pepa G. Marín
 ---
 
-**Guest Experience Manager del hotel Barceló Torre de Madrid, María Gudiel es una de las 
+Guest Experience Manager del hotel Barceló Torre de Madrid, María Gudiel es una de las 
 Mujeres Etheria que nos inspiran por su trayectoria profesional en el sector hotelero y, 
-también, por la energía y pasión que inculca a todo cuanto hace.** 
+también, por la energía y pasión que inculca a todo cuanto hace. 
 
 ![María Gudiel, una de las mujeres del turismo en espana](https://fotos.etheriamagazine.com/2018/05/Maria-Gudiel-1.jpg "María Gudiel.")
 

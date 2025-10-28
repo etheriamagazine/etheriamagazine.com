@@ -9,11 +9,11 @@ authors:
   - Redacción Etheria
 ---
 
-**En Etheria Magazine apostamos por dar voz a las mujeres emprendedoras y más si dedican 
+En Etheria Magazine apostamos por dar voz a las mujeres emprendedoras y más si dedican 
 su tiempo y esfuerzo a desarrollar proyectos turísticos en sus lugares de origen. Por 
 este motivo, os hemos querido presentar en 2022 a una serie de mujeres de Costa Rica con 
 historias que vale la pena conocer y que además han fundado sus negocios en esta 
-maravillosa tierra a la que hay que viajar, si se puede, varias veces en la vida.** 
+maravillosa tierra a la que hay que viajar, si se puede, varias veces en la vida. 
 
 ![Playa de la bahía de Drake.](https://fotos.etheriamagazine.com/2022/12/costa-rica-mujeres-bahia-drake-corcovado.jpg "Playa de la bahía de Drake.")
 

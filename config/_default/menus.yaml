@@ -127,12 +127,14 @@ main:
   - name: Mujeres Top
     pageRef: categories/mujeres-top
     parent: mujeres
-  - name: Historias
-    pageRef: categories/historias
+  - name: Historias en femenino
+    pageRef: categories/historias-en-femenino
     parent: mujeres
   - name: Equipo Etheria
     pageRef: equipo-editorial
     parent: mujeres
+    weight: 3
+
 
 
 footer:

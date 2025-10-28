@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**La Selva de Irati no es la “selva” que solemos tener habitualmente en mente pero sí es 
+La Selva de Irati no es la “selva” que solemos tener habitualmente en mente pero sí es 
 un espacio inmenso y frondoso donde disfrutar del contacto directo con la naturaleza. Y 
 uno de los campamentos base más idóneos para recorrer toda la zona es Iratiko Kabiak, el 
-mejor complejo de cabañas en los árboles de Navarra. No querrás marcharte.** 
+mejor complejo de cabañas en los árboles de Navarra. No querrás marcharte. 
 
 ![Cama en la terraza de la cabaña Irati.](https://fotos.etheriamagazine.com/2023/10/cama-terraza-cabana-arbol-navarra.jpg "Cama en la terraza de la cabaña Irati. © Pepa García/ Etheria Magazine")
 

@@ -10,10 +10,10 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-**Si te gusta comer bien tienes que leer este artículo en el que Elisabeth G. Iborra te 
+Si te gusta comer bien tienes que leer este artículo en el que Elisabeth G. Iborra te 
 guía por San Sebastián y Guipúzcoa a través de sus restaurantes y bares de pintxos. 
 Aprovecha y elige este destino para viajar sola o con amigas y darte un buen homenaje 
-gastronómico.** 
+gastronómico. 
 
 ![mirador Monte Igeldo](https://fotos.etheriamagazine.com/2019/10/San-Sebastian-Igueldo.jpg "Vista de la bahía de San Sebatián desde el monte Igueldo. © DSST")
 

@@ -11,11 +11,11 @@ authors:
   - Pepa G. Marín
 ---
 
-**Una escapada corta a la Ruta del Vino de Rueda permite despejar mente y espíritu. No 
-se precisan más de tres días para enamorarse de este territorio vertebrado alrededor de 
+Una escapada corta a la Ruta del Vino de Rueda permite despejar mente y espíritu. No se 
+precisan más de tres días para enamorarse de este territorio vertebrado alrededor de 
 vides y que proyecta felicidad gracias a su combinación de naturaleza, cultura, bodegas, 
 gastronomía y bienestar. Animaos a descubrir el secreto que ocultan sus vinos, sus 
-sabores y su agua milagrosa.** 
+sabores y su agua milagrosa. 
 
 ![Copas en la Sala de catas de la Bodega Montepedroso](https://fotos.etheriamagazine.com/2023/11/Bodega-Montepedroso.jpg "Sala de catas de la Bodega Montepedroso. © Miguel A. Muñoz Romero")
 

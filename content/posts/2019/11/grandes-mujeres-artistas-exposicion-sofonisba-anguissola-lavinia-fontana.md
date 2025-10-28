@@ -9,9 +9,9 @@ authors:
   - Pedro Grifol
 ---
 
-**La exposición sobre dos grandes pintoras en el Museo del Prado y el libro ‘Grandes 
+La exposición sobre dos grandes pintoras en el Museo del Prado y el libro ‘Grandes 
 mujeres artistas’ pueden ocupar buena parte de nuestro tiempo (cultural) de estas 
-fiestas navideñas.** 
+fiestas navideñas. 
 
 ![exposicion el prado](https://fotos.etheriamagazine.com/2019/11/Sofonisba-y-Lavinia-museo-del-prado.jpg "'Historia de dos pintoras: Sofonisba Anguissola y Lavinia Fontana', en el museo del Prado.")
 

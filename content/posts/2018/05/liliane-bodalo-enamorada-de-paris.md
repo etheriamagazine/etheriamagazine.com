@@ -9,9 +9,9 @@ authors:
   - Pepa G. Marín
 ---
 
-**Liliane Bodalo lleva más de dos décadas dedicada al mundo del turismo de un modo 
+Liliane Bodalo lleva más de dos décadas dedicada al mundo del turismo de un modo 
 profesional. Como responsable de prensa de Atout France, la Agencia de Desarrollo 
-Turístico de Francia, es una de las Mujeres Etheria que nos inspiran.** 
+Turístico de Francia, es una de las Mujeres Etheria que nos inspiran. 
 
 ![Liliane Bodalo de turismo de francia](https://fotos.etheriamagazine.com/2018/05/Liliane-Bodalo-Mujeres-Etheria.jpg "Liliane Bodalo. Responsable de prensa de Atout France")
 

@@ -10,11 +10,11 @@ authors:
   - Carmen Giró
 ---
 
-**Ámsterdam es una de las ciudades más fotografiadas del mundo, especialmente iconos tan 
+Ámsterdam es una de las ciudades más fotografiadas del mundo, especialmente iconos tan 
 característicos como los canales, las bicicletas y los tulipanes. Si a su animada vida 
 en la calle la acompañas de buenas cervezas, quesos riquísimos y mercados callejeros, se 
 convierte en una fantástica escapada. Si quieres saber qué ver en Ámsterdam en dos días 
-sigue leyendo...** 
+sigue leyendo... 
 
 ![En Amsterdam encontrarás decenas de bares donde reponer fuerzas.](https://fotos.etheriamagazine.com/2019/03/amsterdam-viaje-pareja.jpg "En Ámsterdam encontrarás decenas de bares donde reponer fuerzas.")
 

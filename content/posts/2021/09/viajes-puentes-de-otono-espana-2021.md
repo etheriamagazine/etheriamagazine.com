@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Tras dejar atrás las vacaciones de verano, la posibilidad de hacer una escapada 
-durante los puentes de otoño es lo único que nos puede devolver la ilusión mientras nos 
+Tras dejar atrás las vacaciones de verano, la posibilidad de hacer una escapada durante 
+los puentes de otoño es lo único que nos puede devolver la ilusión mientras nos 
 adaptamos a la implacable rutina. Aquí tienes 8 ideas para dar forma a esos días que 
-serán un balón de oxígeno hasta la llegada de la Navidad.** 
+serán un balón de oxígeno hasta la llegada de la Navidad. 
 
 ![Barranco de los Molineros en la sierra de Entzia (Álava).](https://fotos.etheriamagazine.com/2021/09/barranco-molineros-sierra-entzia.jpg "Barranco de los Molineros en la sierra de Entzia (Álava).")
 

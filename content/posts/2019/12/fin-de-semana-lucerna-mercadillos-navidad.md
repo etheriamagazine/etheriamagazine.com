@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-**El mes de diciembre es el momento ideal para realizar un viaje con el que 
-reconciliarse con el espíritu navideño, y Lucerna es el destino perfecto. Te proponemos 
-ocho actividades para disfrutar de esta bonita ciudad suiza durante una escapada de fin 
-de semana.** 
+El mes de diciembre es el momento ideal para realizar un viaje con el que reconciliarse 
+con el espíritu navideño, y Lucerna es el destino perfecto. Te proponemos ocho 
+actividades para disfrutar de esta bonita ciudad suiza durante una escapada de fin de 
+semana. 
 
 ![Luces de Navidad en Lucerna, una preciosa ciudad de Suiza](https://fotos.etheriamagazine.com/2019/11/lucerna-luces-navidad.jpg "© Luces de Navidad en Lucerna. STST-STTP/Jan Geerk")
 

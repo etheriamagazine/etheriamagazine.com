@@ -1,18 +1,43 @@
 baseURL: https://etheriamagazine-com.fly.dev/
+capitalizeListTitles: false
+enableEmoji: true
+enableGitInfo: true
+defaultContentLanguage: es
+removePathAccents: true
+summaryLength: 25
 title: Etheria Magazine — La revista de las mujeres viajeras
 
 build:
   buildStats:
     enable: true
-taxonomies:
-  _merge: deep
-permalinks:
-  _merge: deep
+
+frontmatter:
+  lastmod:
+    - lastmod
+    - date
+
 markup:
   _merge: deep
+
 module:
   imports:
     - path: github.com/etheriamagazine/hugo-modules/sky-theme
+
+permalinks:
+  page:
+    posts: /articulos/:contentbasename
+    pages: :contentbasename
+  taxonomy:
+    categories: /categorias
+    authors: /autoras
+  term:
+    categories: /:slug
+    authors: /autoras/:slug
+
+taxonomies:
+  author: authors
+  category: categories
+  tag: tags
 
 privacy:
   youTube:

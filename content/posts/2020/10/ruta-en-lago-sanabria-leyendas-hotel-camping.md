@@ -10,10 +10,10 @@ authors:
   - Kelu Robles
 ---
 
-**Lagos naturales, praderas exuberantes y pueblos con identidad y gastronomía propias. 
-La comarca zamorana de Sanabria, al oeste de la provincia, fue creada para sanarnos de 
-los males urbanitas. Y si no nos crees, te proponemos un fin de semana para descubrir el 
-lago de Sanabria y todos los atractivos que lo rodean.** 
+Lagos naturales, praderas exuberantes y pueblos con identidad y gastronomía propias. La 
+comarca zamorana de Sanabria, al oeste de la provincia, fue creada para sanarnos de los 
+males urbanitas. Y si no nos crees, te proponemos un fin de semana para descubrir el 
+lago de Sanabria y todos los atractivos que lo rodean. 
 
 ![Panorámica del lago de Sanabria desde el Mirador de los Peces, en San Martín de Castañeda.](https://fotos.etheriamagazine.com/2020/10/etheria-lago-sanabria-zamora-etheria.jpg "Panorámica del lago de Sanabria desde el Mirador de los Peces, en San Martín de Castañeda. © Kelu Robles")
 

@@ -1,6 +1,7 @@
 ---
 title: "10 excursiones a la Riviera Maya para incluir en tu viaje con amigas"
 date: 2022-02-01
+lastmod: 2025-08-01
 cover: https://fotos.etheriamagazine.com/2022/01/Riviera-maya-cenote-tortuga.jpg
 categories: 
   - viajar-con-amigas
@@ -17,7 +18,7 @@ contenido un viaje al corazón de la cultura maya.
 
 ![Cenote Tortuga.](https://fotos.etheriamagazine.com/2022/01/Riviera-maya-cenote-tortuga.jpg "Cenote Tortuga. © Fernanda Loayza.")
 
-Actualizado en agosto de 2025. 
+<!-- LEGACY_UPDATED: Actualizado en agosto de 2025. -->
 
 La Riviera Maya es uno de los mejores destinos para pasar unas vacaciones de sol y playa 
 y eso es porque combina dos aspectos que juntos son imbatibles: unos hoteles de alta 

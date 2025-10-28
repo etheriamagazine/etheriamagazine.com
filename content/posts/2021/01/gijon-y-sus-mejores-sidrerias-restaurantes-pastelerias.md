@@ -10,10 +10,10 @@ authors:
   - Alicia Bea
 ---
 
-**La potente gastronomía de Gijón es la excusa perfecta para escaparte a la ciudad más 
+La potente gastronomía de Gijón es la excusa perfecta para escaparte a la ciudad más 
 vibrante y deliciosa de Asturias. Convoca a tus amigas y deja que brille la _foodie_ que 
 llevas dentro con las tentaciones que te proponemos en Etheria Magazine. Un placer para 
-los sentidos con el Cantábrico como telón de fondo.** 
+los sentidos con el Cantábrico como telón de fondo. 
 
 ![puerto de gijon](https://fotos.etheriamagazine.com/2021/01/viaje-con-amigas-gijon.jpg "Gijón, un destino para comérselo.")
 

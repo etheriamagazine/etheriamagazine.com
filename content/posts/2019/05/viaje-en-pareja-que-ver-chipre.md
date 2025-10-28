@@ -10,11 +10,11 @@ authors:
   - Pedro Grifol
 ---
 
-**Si quieres disfrutar de vacaciones como en los años setenta, has encontrado tu 
-destino: Chipre. Prepárate para gozar de playas poco concurridas, un mar más que limpio, 
+Si quieres disfrutar de vacaciones como en los años setenta, has encontrado tu destino: 
+Chipre. Prepárate para gozar de playas poco concurridas, un mar más que limpio, 
 gastronomía al borde mar y buenos precios. ¿Quieres saber qué ver en Chipre? Sigue 
 leyendo porque además de las visitas imprescindibles también compartiremos algunos 
-secretos.** 
+secretos. 
 
 ![Playa en la zona de Kourion, en Chipre.](https://fotos.etheriamagazine.com/2019/05/Chipre-Kourion.jpg "Playa en la zona de Kourion.")
 

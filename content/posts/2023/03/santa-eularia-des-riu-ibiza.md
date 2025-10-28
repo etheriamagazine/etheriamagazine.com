@@ -11,12 +11,12 @@ authors:
   - Pedro Grifol
 ---
 
-**En la isla de Ibiza, a finales de la década de los sesenta las lugareñas payesas 
+En la isla de Ibiza, a finales de la década de los sesenta las lugareñas payesas 
 (ataviadas de negro) se cruzaban en la calle con unos raros melenudos que llegaban en 
 busca del Paraíso. Eran portadores de un lema universal de paz y amor que imperaba en el 
 Planeta Tierra por aquellos tiempos: “Haz el amor, no la guerra”. Aquella consigna llegó 
 a Santa Eulària des Riu –¡por tierra, mar y aire!– más que a ningún otro lugar de 
-España.** 
+España. 
 
 ![Mujer columpiándose en la playa S'Estañol en Ibiza](https://fotos.etheriamagazine.com/2023/03/Ibiza-Playa-SEstañol-columpio.jpg "Columpio en la playa S'Estañol. © Pedro Grifol.")
 

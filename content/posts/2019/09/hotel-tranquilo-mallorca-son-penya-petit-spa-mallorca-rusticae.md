@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**En ocasiones los lugares más populares y visitados son capaces de guardar pequeños 
+En ocasiones los lugares más populares y visitados son capaces de guardar pequeños 
 tesoros que parecen vivir al margen del bullicio. Es el caso del Son Penya Petit Hotel & 
 Spa, un rincón en el interior de la isla de Mallorca que invita a pasar un fin de semana 
-de relax.** 
+de relax. 
 
 ![exterior del hotel Son Penya en Mallorca](https://fotos.etheriamagazine.com/2019/08/Son-Penya-fachada.jpg "Una de las terrazas del Son Penya Petit Hotel & Spa.")
 

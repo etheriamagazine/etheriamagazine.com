@@ -10,9 +10,9 @@ authors:
   - Nuria Cortés
 ---
 
-**Descubre todo lo que puedes ver y hacer en Ibiza en invierno y organiza una escapada 
-con tu pareja o con esa amiga con la que siempre lo pasas tan bien. Aquí encontramos 15 
-planes que puedes hacer en temporada baja y con los que lo pasarás en grande.** 
+Descubre todo lo que puedes ver y hacer en Ibiza en invierno y organiza una escapada con 
+tu pareja o con esa amiga con la que siempre lo pasas tan bien. Aquí encontramos 15 
+planes que puedes hacer en temporada baja y con los que lo pasarás en grande. 
 
 ![puerta dalt vila ibiza](https://fotos.etheriamagazine.com/2021/11/casa-dalt-vila.jpg "Puerta de Dalt Villa, Ibiza. © P. García")
 

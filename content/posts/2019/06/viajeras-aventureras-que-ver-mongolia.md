@@ -10,11 +10,11 @@ authors:
   - Ana Vara y David Santiago
 ---
 
-**Viajar entre nómadas a través de una tierra sin caminos, gobernada por los vientos y 
-las pautas de las migraciones, solo es posible en Mongolia. Un país cuyo nombre evoca al 
+Viajar entre nómadas a través de una tierra sin caminos, gobernada por los vientos y las 
+pautas de las migraciones, solo es posible en Mongolia. Un país cuyo nombre evoca al 
 gran Temujin, más conocido como Gengis Khan, que llegó a formar el mayor imperio de toda 
 la Historia en solo una generación. Si te gusta viajar por libre, será una gran aventura 
-para ti.** 
+para ti. 
 
 ![Hombre reflejado en un retrovisor en Mongolia](https://fotos.etheriamagazine.com/2019/06/viaje-mongolia-Paisano-en-Shine-Ider.jpg "Paisano en Shine Ider.")
 

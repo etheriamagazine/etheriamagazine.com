@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Diez pueblos enlazan la ruta de Caminos de Pasión que, entre Sevilla, Córdoba y Jaén, 
+Diez pueblos enlazan la ruta de Caminos de Pasión que, entre Sevilla, Córdoba y Jaén, 
 recorre el interior de Andalucía. Hemos admirado su impresionante cultura y el esplendor 
 de su Semana Santa, pero también hemos de reconocer que en Etheria Magazine esa 
 admiración es compartida con las mujeres que hemos conocido en este viaje. Sigue leyendo 
-y juzga por ti misma…** 
+y juzga por ti misma… 
 
 ![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-de-pasion-carmona-1.jpg "Carmona.")
 

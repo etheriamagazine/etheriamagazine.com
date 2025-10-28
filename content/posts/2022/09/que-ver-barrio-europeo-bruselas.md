@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Nos vamos de paseo por uno de los lugares que definen la personalidad de Bruselas y te 
+Nos vamos de paseo por uno de los lugares que definen la personalidad de Bruselas y te 
 contamos qué ver en el Barrio Europeo, una cita que no puede faltar si visitas la 
 capital belga y que ofrece mucho más que los edificios institucionales. Te aseguramos 
-que te va a sorprender gracias a sus parques, museos y edificios Art Nouveau.** 
+que te va a sorprender gracias a sus parques, museos y edificios Art Nouveau. 
 
 ![mural de street art en el barrio europeo](https://fotos.etheriamagazine.com/2022/09/bruselas-The-future-is-Europe.jpg "Barrio Europeo de Bruselas. © Visit Brussels.")
 

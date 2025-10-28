@@ -10,11 +10,10 @@ authors:
   - Manena Munar
 ---
 
-**Seguimos, en general, con reticencias a la hora de viajar solas a Cuba o a cualquier 
+Seguimos, en general, con reticencias a la hora de viajar solas a Cuba o a cualquier 
 otro destino, pero esa "soledad" es perfecta para descubrir La Habana. Esta vieja dama, 
 que ya ha cumplido cinco siglos de vida, es la cómplice perfecta para una escapada en 
-clave cultural. Sigue leyendo para saber por qué es buena idea viajar sola a La 
-Habana.** 
+clave cultural. Sigue leyendo para saber por qué es buena idea viajar sola a La Habana. 
 
 ![Busto de bronce en honor al Premio Nobel Ernest Hemingway, en El Floridita.](https://fotos.etheriamagazine.com/2019/07/La-Habana-Floridita-Hemingway.jpg "Busto de bronce en honor al Premio Nobel Ernest Hemingway, en El Floridita. © Manena Munar")
 

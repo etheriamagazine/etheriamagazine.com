@@ -11,12 +11,12 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Atrévete a viajar siguiendo el río Elba para conocer el Parque Nacional Suiza de 
+Atrévete a viajar siguiendo el río Elba para conocer el Parque Nacional Suiza de 
 Bohemia. No solo arrastra gran parte de la historia europea sino que discurre entre un 
 laberinto de roca arenisca y bosques en uno de los rincones naturales más fascinantes de 
 la República Checa. Sigue las sendas del más joven de los parques nacionales checos y 
 descubre por qué levantó pasiones al encarnar la belleza ideal entre los artistas 
-románticos.** 
+románticos. 
 
 ![Parque Nacional Suiza Bohemia, en la República Checa](https://fotos.etheriamagazine.com/2018/12/republica-checa-viajes-mujeres-etheria.jpg "Uno de los rincones sorprendentes del Parque Nacional Suiza Bohemia (Rep. Checa).")
 

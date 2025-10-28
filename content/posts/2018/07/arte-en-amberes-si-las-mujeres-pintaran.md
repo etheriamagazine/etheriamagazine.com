@@ -1,6 +1,7 @@
 ---
 title: "Mujeres que pintan y retrospectiva de Michaelina Wautier en Amberes"
 date: 2018-07-05
+lastmod: 2025-08-01
 cover: https://fotos.etheriamagazine.com/2018/07/Michaelina-Cortejo-de-Baco.jpg
 categories: 
   - entre-mujeres
@@ -15,7 +16,7 @@ invitamos a reflexionar sobre el grito de guerra: ‘más mujeres artistas y men
 
 ![El 'Cortejo de Baco', de Michaelina Wautier.](https://fotos.etheriamagazine.com/2018/07/Michaelina-Cortejo-de-Baco.jpg "El 'Cortejo de Baco', de Michaelina Wautier.")
 
-Actualizado 8/25 
+<!-- LEGACY_UPDATED: Actualizado 8/25 -->
 
 Dar importancia al papel que la mujer tiene en la Historia del Arte como creadora no es 
 solo una acción reivindicatoria –que en lenguaje jurídico no sería más que ‘el derecho a 

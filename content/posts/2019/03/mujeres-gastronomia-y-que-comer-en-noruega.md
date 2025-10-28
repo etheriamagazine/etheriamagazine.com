@@ -11,11 +11,11 @@ authors:
   - Alfredo G. Reyes
 ---
 
-**Ingrid Espelid está considerada la madre de la cocina noruega y Heidi Bjerkan ha sido 
-la primera chef del país en recibir una estrella Michelin. Queda claro que en la 
+Ingrid Espelid está considerada la madre de la cocina noruega y Heidi Bjerkan ha sido la 
+primera chef del país en recibir una estrella Michelin. Queda claro que en la 
 gastronomía noruega las féminas tienen mucho que decir. Te hablaremos de cocineros, 
 restaurantes y productos que no debes perderte. Entre ellos, el queso marrón (sí, 
-marrón).** 
+marrón). 
 
 ![Mujeres en el restaurante Hall Toll de Noruega](https://fotos.etheriamagazine.com/2019/03/gastronomia-noruega.jpg "Restaurante Hall Toll, Stavanger. © CH/ visitnorway.com")
 

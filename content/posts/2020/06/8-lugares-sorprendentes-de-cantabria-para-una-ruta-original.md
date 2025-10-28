@@ -1,6 +1,7 @@
 ---
 title: "Descubre la Cantabria más desconocida, ocho lugares sorprendentes"
 date: 2020-06-05
+lastmod: 2025-07-01
 cover: https://fotos.etheriamagazine.com/2020/06/viaje-bosque-secuoyas-cantabria.jpg
 categories: 
   - viajar-con-amigas
@@ -18,7 +19,7 @@ secuoyas, ermitas rupestres, un inmenso laberinto o un palacio de ensueño.
 
 ![el bosque secuoyas es una de las rutas originales cantabria](https://fotos.etheriamagazine.com/2020/06/bosque-secuoyas-cantabria.jpg "Bosque de secuoyas. © Manuel Charlón")
 
-7/2025 
+<!-- LEGACY_UPDATED: 7/2025 -->
 
 Es cierto que Cantabria se identifica con montes y playa, con pueblos encantadores y 
 buen comer, pero también tiene otra etiqueta de la que no se habla tanto, y esa es su 

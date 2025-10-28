@@ -11,10 +11,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Cantabria en un destino perfecto para visitar durante todo el año, así que no te lo 
+Cantabria en un destino perfecto para visitar durante todo el año, así que no te lo 
 pienses más y prepárate para recorrer esta apasionante región. A tu ritmo, escápate 
 cuando quieras y comprueba que, después de conocer estos 15 lugares imprescindibles 
-adonde ir en Cantabria, habrás pisado el paraíso.** 
+adonde ir en Cantabria, habrás pisado el paraíso. 
 
 ![Mogroviejo, uno de los pueblos más bonitos de Cantabria.](https://fotos.etheriamagazine.com/2022/09/cantabria-mogrovejo-pueblo-bonito.jpg "Mogroviejo, uno de los pueblos más bonitos de Cantabria.")
 

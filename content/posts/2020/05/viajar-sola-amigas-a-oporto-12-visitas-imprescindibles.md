@@ -1,6 +1,7 @@
 ---
 title: "12 visitas a Oporto para un viaje con amigas"
 date: 2020-05-01
+lastmod: 2023-09-01
 cover: https://fotos.etheriamagazine.com/2020/05/oporto-con-amigas.jpg
 categories: 
   - viajar-con-amigas
@@ -10,14 +11,14 @@ authors:
   - Pepa G. Marín
 ---
 
-**Por sus monumentos, su gastronomía, su luz y ese halo entre bohemio y romántico nos 
+Por sus monumentos, su gastronomía, su luz y ese halo entre bohemio y romántico nos 
 encanta la ciudad de Oporto. Aunque es un destino donde podríamos pasar una semana sin 
 cansarnos, concentraremos las visitas que se pueden hacer en Oporto con amigas o con 
-quien quieras.** 
+quien quieras. 
 
 ![Vistas de Oporto.](https://fotos.etheriamagazine.com/2020/05/oporto-con-amigas.jpg "Vistas de Oporto. © Pedro Cunha")
 
-**Actualizado 9/2023** 
+<!-- LEGACY_UPDATED: **Actualizado 9/2023** -->
 
 A pleno sol o con ese chirimiri propio del norte de España, Oporto siempre es capaz de 
 ofrecernos imágenes que querremos guardar en la retina el resto de nuestra vida. Esta 

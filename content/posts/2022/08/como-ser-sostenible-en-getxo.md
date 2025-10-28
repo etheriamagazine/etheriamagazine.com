@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Ponemos rumbo a Getxo, el municipio vizcaíno que con su fachada marítima de playas, 
+Ponemos rumbo a Getxo, el municipio vizcaíno que con su fachada marítima de playas, 
 acantilados y pintoresco puerto no nos cansamos de admirar. En esta ocasión nos animamos 
 a dar 10 pasos sostenibles para visitar el pueblo que marca el fin de la ría del 
 Nervión. Desde movernos en bici o consumir productos de proximidad hasta elegir arenales 
-sin barreras, su compromiso con el futuro es una tentación.** 
+sin barreras, su compromiso con el futuro es una tentación. 
 
 ![Acantilados de Arrigunaga y molino Aixerrota, en Getxo.](https://fotos.etheriamagazine.com/2022/08/Getxo-acantilados-de-Arrigunaga.jpg "Acantilados de Arrigunaga y molino Aixerrota, en Getxo.")
 

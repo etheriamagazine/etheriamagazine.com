@@ -1,6 +1,7 @@
 ---
 title: "El Puerto de Santa María, entre palacios, playas y vino"
 date: 2021-11-01
+lastmod: 2024-04-01
 cover: https://fotos.etheriamagazine.com/2021/10/Plaza-Espana-puerto-santa-maria.jpg
 categories: 
   - viajar-con-amigas
@@ -16,7 +17,7 @@ vaporcito has encontrado el lugar perfecto.
 
 ![castillo san marcos puerto santa maria](https://fotos.etheriamagazine.com/2021/10/castillo-san-marcos.jpg "Interior del castillo de San Marcos, en El Puerto de Santa María.")
 
-**Actualizado en abril de 2024.** 
+<!-- LEGACY_UPDATED: **Actualizado en abril de 2024.** -->
 
 A la ciudad de El Puerto de Santa María se puede llegar de diversos modos (tren, coche, 
 bus o, incluso avión, gracias al cercano aeropuerto de Jerez de la Frontera). Pero si 

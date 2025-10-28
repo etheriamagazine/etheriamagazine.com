@@ -10,10 +10,10 @@ authors:
   - Kelu Robles
 ---
 
-**Lejos de las poses frenéticas frente a la torre de Pisa, existe una Toscana discreta 
-en torno a la ruta Puccini, libre de souvenirs y del mancillamiento de los 'palos 
-selfi'. Para descubrirla, sigue los pasos que hemos dado en Etheria Magazine por la 
-provincia italiana de Lucca.** 
+Lejos de las poses frenéticas frente a la torre de Pisa, existe una Toscana discreta en 
+torno a la ruta Puccini, libre de souvenirs y del mancillamiento de los 'palos selfi'. 
+Para descubrirla, sigue los pasos que hemos dado en Etheria Magazine por la provincia 
+italiana de Lucca. 
 
 ![Fragmento de la Muralla medieval de Lucca](https://fotos.etheriamagazine.com/2019/09/viaje-lucca-ruta-puccini-revista-etheria.jpg "Fragmento de la Muralla medieval de Lucca. ©KR")
 

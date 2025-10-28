@@ -1,6 +1,7 @@
 ---
 title: "Cómo preparar la maleta para viajar a Laponia"
 date: 2018-09-15
+lastmod: 2024-10-01
 cover: https://fotos.etheriamagazine.com/2018/09/laponia-finlandia-vestimenta.jpg
 categories: 
   - estilo-de-vida
@@ -20,7 +21,7 @@ para viajar a Laponia con algunas prendas y utensilios que no puedes olvidar.
 
 ###### ![Laponia accesorios frío naturaleza](https://fotos.etheriamagazine.com/2018/05/Maleta-Laponia.jpg "Imprescindibles para la maleta a Laponia")
 
-Actualizado en octubre de 2024. 
+<!-- LEGACY_UPDATED: Actualizado en octubre de 2024. -->
 
 La canción de apertura de _Noeli_, una exitosa serie de dibujos animados de los años 
 ochenta, comenzaba con un "en Laponia hace frío" y, aunque la protagonista se reía del 

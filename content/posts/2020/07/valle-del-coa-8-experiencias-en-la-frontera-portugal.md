@@ -11,10 +11,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**En pleno corazón de Portugal se puede descubrir una de las fronteras más antiguas del 
+En pleno corazón de Portugal se puede descubrir una de las fronteras más antiguas del 
 mundo, la que marca el río Côa, y un puñado de aldeas históricas cargadas de encanto. 
 Además, habrá momentos en los que te sientas en un safari africano. ¿Nos acompañas a 
-recorrer esta línea fronteriza olvidada?** 
+recorrer esta línea fronteriza olvidada? 
 
 ![ruta valle coa, aldeas historicas, rutas Portugal](https://fotos.etheriamagazine.com/2020/07/ruta-aldeas-historicas-portugal.jpg "Mafalda Nicolau de Almeida y Joao, propietarios de Fly Camp.")
 

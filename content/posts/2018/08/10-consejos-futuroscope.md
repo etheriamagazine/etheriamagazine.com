@@ -12,10 +12,10 @@ authors:
   - Susana García
 ---
 
-**Te contamos diez claves para aprovechar mejor tu tiempo en Futuroscope, un parque que 
-ha enfocado sus atracciones a la tecnología 4D y a la realidad virtual y que las combina 
+Te contamos diez claves para aprovechar mejor tu tiempo en Futuroscope, un parque que ha 
+enfocado sus atracciones a la tecnología 4D y a la realidad virtual y que las combina 
 con zonas de juego pensadas para los más pequeños. Una parada perfecta en Francia para 
-un viaje con niños.** 
+un viaje con niños. 
 
 ![zona de espectáculos de Futuroscope](https://fotos.etheriamagazine.com/2018/08/Futuroscope-panoramica.jpg "Anfiteatro para espectáculos y edificio de la atracción de Tomas Pesquet.")
 

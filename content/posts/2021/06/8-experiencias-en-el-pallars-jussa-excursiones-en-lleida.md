@@ -11,11 +11,11 @@ authors:
   - Pepa G. Marín
 ---
 
-**Las siguientes excursiones en Lleida, en la comarca del Pallars Jussà, están repletas 
-de apasionantes experiencias, rutas que descubren icnitas de dinosaurios, paseos entre 
+Las siguientes excursiones en Lleida, en la comarca del Pallars Jussà, están repletas de 
+apasionantes experiencias, rutas que descubren icnitas de dinosaurios, paseos entre 
 lagos de montaña, observación de animales, desfiladeros de vértigo y vinos exquisitos. 
 Cada viaje supone un descubrimiento pero este, además, te ofrece un fuerte vínculo con 
-la naturaleza y con el pasado.** 
+la naturaleza y con el pasado. 
 
 ![ruta refugio colomina lleida](https://fotos.etheriamagazine.com/2021/06/trekking-vall-fosca-lleida-pallars-jussa.jpg "Ruta hasta el refugio Colomina desde la presa de Sallente. © Pepa García")
 

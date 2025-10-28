@@ -1,6 +1,7 @@
 ---
 title: "Qué ver en Baeza, una de las ciudades reconocidas por la Unesco"
 date: 2022-11-28
+lastmod: 2023-11-01
 cover: https://fotos.etheriamagazine.com/2022/11/ubeda-unesco.jpg
 categories: 
   - viajar-con-amigas
@@ -10,15 +11,15 @@ authors:
   - Firmas invitadas
 ---
 
-**La ciudad de Baeza representa por sí sola, o junto a Úbeda, una de las mejores 
+La ciudad de Baeza representa por sí sola, o junto a Úbeda, una de las mejores 
 propuestas turísticas de la provincia de Jaén y de Andalucía. Te contamos cuáles son las 
-visitas imprescindibles de Baeza y también algunos lugares un poco más "secretos".** 
+visitas imprescindibles de Baeza y también algunos lugares un poco más "secretos". 
 
 **Por Mari Carmen Duarte** 
 
 ![Las calles de Baeza rezuman historia.](https://fotos.etheriamagazine.com/2022/11/ubeda-unesco.jpg "Las calles de Baeza rezuman historia. © Turismo Andaluz")
 
-**Actualizado 11/2023** 
+<!-- LEGACY_UPDATED: **Actualizado 11/2023** -->
 
 La Salamanca Andaluza, como bautizó Antonio Machado a Baeza, es todo un referente 
 monumental en cuanto a arquitectura pública y poder eclesiástico. Ciudad universitaria y 

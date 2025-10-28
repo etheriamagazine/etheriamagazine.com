@@ -10,10 +10,10 @@ authors:
   - Ana Vara y David Santiago
 ---
 
-**Uzbekistán conserva las tres ciudades oasis más bellas de la 'Ruta de la seda': Khiva, 
+Uzbekistán conserva las tres ciudades oasis más bellas de la 'Ruta de la seda': Khiva, 
 Bukhara y Samarcanda. Por ellas pasaron las principales caravanas de mercaderes, 
 incluidas las de Marco Polo. Si esto no te parece suficiente, te damos muchas más 
-razones para visitarlo en este artículo.** 
+razones para visitarlo en este artículo. 
 
 ![Mezquita de Kalon.](https://fotos.etheriamagazine.com/2019/11/viaje-mujeres-uzbekistan-bukhara.jpg "Mezquita de Kalon. © David Santiago.")
 

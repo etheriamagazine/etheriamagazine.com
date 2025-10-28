@@ -1,6 +1,7 @@
 ---
 title: "10 planes originales con amigas en Sevilla"
 date: 2020-09-28
+lastmod: 2023-02-17
 cover: https://fotos.etheriamagazine.com/2020/09/viaje-Sevilla-en-bici.jpg
 categories: 
   - viajar-con-amigas
@@ -10,14 +11,14 @@ authors:
   - Pilar Ortega
 ---
 
-**La capital andaluza brinda decenas de experiencias relacionadas con la cultura, el 
-arte, la gastronomía y la arquitectura. En Etheria Magazine hemos seleccionado sólo 10 
-planes con amigas en Sevilla que te van a encantar, aunque también los disfrutarás si 
-viajas sola o en pareja.** 
+La capital andaluza brinda decenas de experiencias relacionadas con la cultura, el arte, 
+la gastronomía y la arquitectura. En Etheria Magazine hemos seleccionado sólo 10 planes 
+con amigas en Sevilla que te van a encantar, aunque también los disfrutarás si viajas 
+sola o en pareja. 
 
 ![las setas el mejor mirador de sevilla](https://fotos.etheriamagazine.com/2020/09/viaje-original-las-setas-sevilla.jpg "Las Setas, una de las construcciones más vanguardistas de Sevilla.")
 
-(Act. 17/02/23) 
+<!-- LEGACY_UPDATED: (Act. 17/02/23) -->
 
 Más allá de visitar la Giralda, la Catedral y el Alcázar, Sevilla ofrece experiencias 
 singulares que te permitirán conocer esta mágica ciudad desde otro punto de vista. Hay 

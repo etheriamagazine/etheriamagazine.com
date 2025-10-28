@@ -11,9 +11,9 @@ authors:
   - Pepa G. Marín
 ---
 
-**¿Es vuestro primer viaje a África? Una escapada a Túnez con amigas es una opción más 
-que recomendable. En Etheria Magazine te hemos preparado una ruta en coche de 7 días 
-desde la capital a la zona playera, y desde allí hasta los oasis del desierto.** 
+¿Es vuestro primer viaje a África? Una escapada a Túnez con amigas es una opción más que 
+recomendable. En Etheria Magazine te hemos preparado una ruta en coche de 7 días desde 
+la capital a la zona playera, y desde allí hasta los oasis del desierto. 
 
 ![Puerta amarilla de la medina de Tunez](https://fotos.etheriamagazine.com/2018/05/Medina-Túnez-capital-e1555747337187.jpg "La medina de Túnez es un lugar perfecto para pasear, además de para ir de compras")
 

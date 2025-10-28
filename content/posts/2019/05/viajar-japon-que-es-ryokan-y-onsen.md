@@ -1,6 +1,7 @@
 ---
 title: "La experiencia de alojarse en un Ryokan en Japón"
 date: 2019-05-10
+lastmod: 2024-05-01
 cover: https://fotos.etheriamagazine.com/2019/04/Japon-Ryokan.jpg
 categories: 
   - estilo-de-vida
@@ -21,7 +22,7 @@ llamados 'onsen'.
 
 ![Zona de aguas termales de un ryokan](https://fotos.etheriamagazine.com/2019/04/Japon-Ryokan.jpg "Onsen en un Ryokan. © Rockzheart/Adobe Stock")
 
-Actualizado mayo 2024. 
+<!-- LEGACY_UPDATED: Actualizado mayo 2024. -->
 
 Tendría que ser obligatorio alojarse, al menos una noche, en un **ryokan en un viaje a 
 Japón** ya que es una de las mejores formas de conocer de primera mano esa cultura 

@@ -10,10 +10,10 @@ authors:
   - Sania Jelic
 ---
 
-**Sania Jelic prosigue su viaje por Chile visitando su capital, Santiago de Chile, donde 
+Sania Jelic prosigue su viaje por Chile visitando su capital, Santiago de Chile, donde 
 guarda recuerdos de su niñez y el desierto de Atacama desde donde emprende excursiones 
 apasionantes al Valle de la Luna y los géiseres del Tatio. Y a pocas horas, tras la 
-frontera con Bolivia, descubre los maravillosos paisajes del Salar de Uyuni.** 
+frontera con Bolivia, descubre los maravillosos paisajes del Salar de Uyuni. 
 
 ![Sania en el desierto de Atacama.](https://fotos.etheriamagazine.com/2023/02/sania-desierto-atacama.jpg "Sania en el desierto de Atacama. © Sania Jelic")
 

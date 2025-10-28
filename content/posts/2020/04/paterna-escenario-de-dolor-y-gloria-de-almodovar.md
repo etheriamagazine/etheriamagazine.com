@@ -14,7 +14,7 @@ authors:
 El director manchego Pedro Almodóvar ambientó parte de su aclamado filme, ‘Dolor y 
 gloria’, en las cuevas-vivienda de Paterna. El trabajo, lleno de experiencias personales 
 y referencias a su propia carrera artística, ha colocado en el mapa viajero este 
-municipio valenciano.**** 
+municipio valenciano. 
 
 ![turismo de cine, dolor y gloria, ruta paterna, ruta almodovar](https://fotos.etheriamagazine.com/2020/03/turismo-cine-almodovar-torre.jpg "Localización junto a la torre de Paterna. © O.T. Paterna")
 

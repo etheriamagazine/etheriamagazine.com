@@ -9,11 +9,11 @@ authors:
   - Eva Madruga
 ---
 
-**Rosa María Calaf, una de las mejores y más reconocidas periodistas españolas, es una 
-de las Mujeres Etheria que nos inspiran por su trayectoria de cuatro décadas en TVE 
-(1970 a 2009), en su mayor parte como corresponsal internacional en Nueva York, Moscú, 
-Buenos Aires, Roma, Viena, Hong Kong y Pekín. Se define a sí misma como inquieta, 
-curiosa e insaciable.** 
+Rosa María Calaf, una de las mejores y más reconocidas periodistas españolas, es una de 
+las Mujeres Etheria que nos inspiran por su trayectoria de cuatro décadas en TVE (1970 a 
+2009), en su mayor parte como corresponsal internacional en Nueva York, Moscú, Buenos 
+Aires, Roma, Viena, Hong Kong y Pekín. Se define a sí misma como inquieta, curiosa e 
+insaciable. 
 
 ![Rosa María Calaf en Groenlandia (2014).](https://fotos.etheriamagazine.com/2018/09/Groenlandia-Rosa-Maria-calaf.jpg "Rosa María Calaf en Groenlandia (2014).")
 

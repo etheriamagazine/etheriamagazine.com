@@ -10,11 +10,11 @@ authors:
   - Sania Jelic
 ---
 
-**Cuarenta y cinco días por la Patagonia argentina y chilena le han dado a Sania Jelic 
+Cuarenta y cinco días por la Patagonia argentina y chilena le han dado a Sania Jelic 
 vivencias inolvidables. Ahora continúa su viaje por la provincia argentina de Mendoza, 
 en el centro del país y fronteriza con Chile. Un lugar donde el vino es protagonista y 
 donde esta viajera silver ha vivido una de esas experiencias inolvidables: volar en 
-parapente.** 
+parapente. 
 
 ![Sania en el Parque Nacional del Aconcagua.](https://fotos.etheriamagazine.com/2023/02/sania-mendoza-excursion.jpg "Sania en el Parque Nacional del Aconcagua. © Sania Jelic")
 

@@ -10,10 +10,10 @@ authors:
   - Pedro Grifol
 ---
 
-**La sierra noroccidental de Guadalajara atesora una de las masas forestales más 
+La sierra noroccidental de Guadalajara atesora una de las masas forestales más 
 desconocidas y más puras de España; y uno de los conjuntos más impresionantes de la 
 arquitectura popular española, los llamados Pueblos Negros. Sube al coche porque vamos a 
-recorrer esta ruta de poblaciones de piedra, tejados de pizarra y escasa población.** 
+recorrer esta ruta de poblaciones de piedra, tejados de pizarra y escasa población. 
 
 ![Majaelrayo es un pueblo negro de Guadalajara](https://fotos.etheriamagazine.com/2019/05/viaje-pueblos-negros-Majaelrayo.jpg "Majaelrayo, población de la Ruta de los pueblos negros de Guadalajara.")
 

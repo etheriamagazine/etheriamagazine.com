@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Majestuosas flores ocupan el Palacio de Cristal situado en el madrileño Parque del 
+Majestuosas flores ocupan el Palacio de Cristal situado en el madrileño Parque del 
 Retiro. Con esta exposición de Petrit Halilaj, el Museo Nacional Centro de Arte Reina 
 Sofía retoma sus actividades artísticas. La muestra estará abierta al público hasta el 
-28 de febrero de 2021.** 
+28 de febrero de 2021. 
 
 ![Exposición de Petrit Halilaj en el Palacio de Cristal (Madrid).](https://fotos.etheriamagazine.com/2020/07/flores-gigantes-el-retiro.jpg "Exposición de Petrit Halilaj en el Palacio de Cristal (Madrid).")
 

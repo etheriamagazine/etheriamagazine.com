@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**La Sala Recoletos de la Fundación Mapfre, en Madrid, acoge hasta el 10 de enero de 
-2021 una exposición del renombrado fotógrafo Lee Friedlander. En ella se realiza un 
+La Sala Recoletos de la Fundación Mapfre, en Madrid, acoge hasta el 10 de enero de 2021 
+una exposición del renombrado fotógrafo Lee Friedlander. En ella se realiza un 
 itinerario cronológico de su trayectoria– y de la sociedad americana– a través de casi 
-350 imágenes. ¡Una exposición imprescindible este otoño!** 
+350 imágenes. ¡Una exposición imprescindible este otoño! 
 
 ![exposicion Lee Friedlander baltimore](https://fotos.etheriamagazine.com/2020/10/lee-frielander-baltimore-1968.jpg "Baltimore, 1968. © Lee Friedlander")
 

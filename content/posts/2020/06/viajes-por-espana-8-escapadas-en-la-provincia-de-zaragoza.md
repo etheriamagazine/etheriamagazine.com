@@ -10,10 +10,10 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-**El patrimonio histórico y arquitectónico de la provincia de Zaragoza lleva a varios de 
+El patrimonio histórico y arquitectónico de la provincia de Zaragoza lleva a varios de 
 sus pueblos a situarse en el ranking de los más bonitos de España. Elisabeth G. Iborra 
 te lleva por sus comarcas principales con escapadas a Zaragoza perfectas para todo el 
-año.** 
+año. 
 
 ![Paisaje del Parque Nacional del Moncayo.](https://fotos.etheriamagazine.com/2020/05/Zaragoza-moncayo.jpg "Paisaje del Parque Nacional del Moncayo.")
 

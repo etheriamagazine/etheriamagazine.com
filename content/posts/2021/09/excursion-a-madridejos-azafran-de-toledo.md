@@ -10,10 +10,10 @@ authors:
   - Pedro Grifol
 ---
 
-**Escapadas cerca de Madrid hay muchas, pero una excursión a Madridejos te permite 
-conocer el fascinante mundo del azafrán y participar en ‘la monda’ (recogida) del mismo; 
-visitar un silo (vivienda excavada) y hacer de molinero por un día. ¿Nos acompañas a la 
-provincia de Toledo?** 
+Escapadas cerca de Madrid hay muchas, pero una excursión a Madridejos te permite conocer 
+el fascinante mundo del azafrán y participar en ‘la monda’ (recogida) del mismo; visitar 
+un silo (vivienda excavada) y hacer de molinero por un día. ¿Nos acompañas a la 
+provincia de Toledo? 
 
 ![pistilos flor azafran](https://fotos.etheriamagazine.com/2021/09/seleccion-pistilos.jpg "Selección de pistilos en la flor del azafrán. © Pedro Grifol")
 

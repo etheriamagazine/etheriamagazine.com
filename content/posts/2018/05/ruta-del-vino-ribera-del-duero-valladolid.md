@@ -10,16 +10,15 @@ authors:
   - Vanesa Viñolo
 ---
 
-**Ribera del Duero es una de las denominaciones más prestigiosas de España. Sus viñas 
+Ribera del Duero es una de las denominaciones más prestigiosas de España. Sus viñas 
 comparten términos en Soria, Burgos, Segovia y Valladolid. En total, 115 kilómetros de 
 largo y 35 de ancho vertebrados por el Duero, este río del vino que convierte en oro 
 todo lo que toca. Dentro de esta amplia extensión, hoy quiero que recorramos juntos unos 
-15 kilómetros, los que unen Soria, Peñafiel y Tudela de Duero a través de la 
-carretera.** 
+15 kilómetros, los que unen Soria, Peñafiel y Tudela de Duero a través de la carretera. 
 
 ![Picnic sobre dos ruedas, una de las experiencias de Finca Villacreces.](https://fotos.etheriamagazine.com/2018/05/picnic-Finca-Villacreces.jpg "Picnic sobre dos ruedas, una de las experiencias de © Finca Villacreces.")
 
-Actualizado 2023 
+<!-- LEGACY_UPDATED: Actualizado 2023 -->
 
 Mi relación con la Ribera es “consanguínea”. Mi marido es pucelano y su familia tiene 
 una casa en el pueblo de su padre, Rábano, a 8 km escasos de Peñafiel. Cuna del vino de 

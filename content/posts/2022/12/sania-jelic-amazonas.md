@@ -8,11 +8,11 @@ authors:
   - Sania Jelic
 ---
 
-**En esta segunda entrega, Sania Jelic se adentra en el Amazonas para conocer algunas de 
+En esta segunda entrega, Sania Jelic se adentra en el Amazonas para conocer algunas de 
 sus tribus autóctonas y nos cuenta sus impresiones del viaje. Un lugar que debe su 
 incalculable valor tanto a la naturaleza como a las tradiciones que atesoran sus 
 habitantes. Nuevas amigas, una gastronomía diferente y paisajes sobrecogedores. ¿Qué 
-será lo que más ha impresionado a Sania?** **Nos lo cuenta...** 
+será lo que más ha impresionado a Sania? Nos lo cuenta... 
 
 ![Sania con indígenas del Amazonas](https://fotos.etheriamagazine.com/2022/12/Sania-amazonas-tribus.jpg "Sania ha compartido momentos únicos con las tribus del Amazonas.")
 

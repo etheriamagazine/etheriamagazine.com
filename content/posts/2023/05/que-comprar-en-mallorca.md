@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**No podemos negar que cuando viajamos nos gusta llevarnos algún recuerdo de los 
-destinos que visitamos, da igual si es una ciudad cercana o allende los mares. Si eres 
-de las nuestras y quieres saber qué comprar en Mallorca en tu próxima escapada, toma 
-buena nota.** 
+No podemos negar que cuando viajamos nos gusta llevarnos algún recuerdo de los destinos 
+que visitamos, da igual si es una ciudad cercana o allende los mares. Si eres de las 
+nuestras y quieres saber qué comprar en Mallorca en tu próxima escapada, toma buena 
+nota. 
 
 ![Tienda de artesanía de Mallorca.](https://fotos.etheriamagazine.com/2023/05/artesania-mallorca.jpg "Tienda de artesanía de Mallorca.")
 

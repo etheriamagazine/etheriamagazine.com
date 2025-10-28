@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-**Portugal es un destino que se presta a viajar en familia por su cercanía a España y 
-por la variedad de propuestas que brinda para hacer con niños. Reserva 5 días para 
-emprender este viaje donde la naturaleza y la diversión son las protagonistas. Prepárate 
-para navegar, subir a los árboles, dar de comer a los animales y visitar el interior del 
-planeta.** 
+Portugal es un destino que se presta a viajar en familia por su cercanía a España y por 
+la variedad de propuestas que brinda para hacer con niños. Reserva 5 días para emprender 
+este viaje donde la naturaleza y la diversión son las protagonistas. Prepárate para 
+navegar, subir a los árboles, dar de comer a los animales y visitar el interior del 
+planeta. 
 
 ![Los más pequeños también disponen de un circuito especial en el parque de aventura de Figueira da Foz.](https://fotos.etheriamagazine.com/2019/06/parque-aventura-figueira-foz.jpg "Los más pequeños también disponen de un circuito especial en el parque de aventura de Figueira da Foz. ©PG")
 

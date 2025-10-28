@@ -10,12 +10,11 @@ authors:
   - Pilar Ortega
 ---
 
-**Con unos 350.000 habitantes y ubicada a los pies del monte Benacantil, Alicante es, 
-ante todo, esencia mediterránea. Y eso se percibe en la vida cotidiana de la ciudad, 
-donde también se integran perfectamente el mar, la playa y el puerto. Por eso, te 
-invitamos en este artículo a que descubras esta ciudad milenaria, que nació nada menos 
-que con los íberos, a través de una ruta con 15 visitas imprescindibles para hacer en 
-Alicante.** 
+Con unos 350.000 habitantes y ubicada a los pies del monte Benacantil, Alicante es, ante 
+todo, esencia mediterránea. Y eso se percibe en la vida cotidiana de la ciudad, donde 
+también se integran perfectamente el mar, la playa y el puerto. Por eso, te invitamos en 
+este artículo a que descubras esta ciudad milenaria, que nació nada menos que con los 
+íberos, a través de una ruta con 15 visitas imprescindibles para hacer en Alicante. 
 
 ![Vista panorámica de Alicante desde el castillo de Santa Bárbara.](https://fotos.etheriamagazine.com/2022/08/Alicante-panoramica.jpg "Panorámica de Alicante desde el castillo de Santa Bárbara.")
 

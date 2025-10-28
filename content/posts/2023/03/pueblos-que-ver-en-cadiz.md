@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Realizar una selección sobre lo mejor de la provincia gaditana recomendando qué ver en 
+Realizar una selección sobre lo mejor de la provincia gaditana recomendando qué ver en 
 Cádiz es una apuesta arriesgada ya que de este lugar nos gusta todo. Para un primer 
 viaje, de unos 5 a 7 días, bastará con las excursiones de este artículo pero si tienes 
-más tiempo no dudes en ampliar el itinerario.** 
+más tiempo no dudes en ampliar el itinerario. 
 
 ![Panorámica de Olvera, uno de los pueblos de Cádiz.](https://fotos.etheriamagazine.com/2023/03/que-ver-cadiz-olvera.jpg "Panorámica de Olvera, uno de los pueblos de Cádiz. © Etheria Magazine")
 

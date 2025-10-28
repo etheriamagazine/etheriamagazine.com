@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Cada vez son más las que deciden despedir el año por todo lo alto, olvidándose de 
+Cada vez son más las que deciden despedir el año por todo lo alto, olvidándose de 
 cocinar, o haciendo un viaje. Tanto si eres de las madrileñas que tiras la casa por la 
 ventana esa noche, como si decides visitar la capital para cerrar el año 2023, echa un 
 vistazo a nuestra lista de hoteles y restaurantes donde celebrar el Fin de Año en 
-Madrid. Ya verás cómo te van a apetecer todas las cenas y fiestas que te proponemos.** 
+Madrid. Ya verás cómo te van a apetecer todas las cenas y fiestas que te proponemos. 
 
 ![Mesa de gala para la cena de Fin de Año en el hotel URSO.](https://fotos.etheriamagazine.com/2023/11/nochevieja-madrid-hotel-urso-mesa.jpg "Mesa de gala para la cena de Fin de Año en el © hotel URSO.")
 

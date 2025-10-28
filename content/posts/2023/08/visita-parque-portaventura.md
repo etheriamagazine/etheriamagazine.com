@@ -10,12 +10,12 @@ authors:
   - Susana García
 ---
 
-**Cuando viajas en familia pocos planes superan la visita a un parque temático. 
+Cuando viajas en familia pocos planes superan la visita a un parque temático. 
 PortAventura World tiene muchos alicientes para conseguir la escapada perfecta, entre 
 ellos el albergar tres parques en uno y situarse en España, concretamente en Tarragona, 
 en una zona muy bien comunicada. En este artículo te damos algunas claves que te 
 ayudarán con la planificación de un viaje a PortAventura. ¡Ya sólo te quedaría disfrutar 
-de la experiencia!** 
+de la experiencia! 
 
 ![montañas rusas en Port Aventura](https://fotos.etheriamagazine.com/2023/08/port-aventura-Shambala-Dragon-Khan.jpg "Las montañas rusas Shambala y Dragon Khan son las estrellas de Port Aventura.")
 

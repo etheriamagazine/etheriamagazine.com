@@ -10,11 +10,10 @@ authors:
   - Pedro Grifol
 ---
 
-**En el norte de California, los viñedos cubren las laderas hasta donde alcanza la 
-vista. Y sus vinos están entre los mejores del mundo. Hemos visitado algunas de las 
-bodegas más emblemáticas para descubrir los secretos del llamado ‘wine country’. Además, 
-hemos encontrado una auténtica Mujer Etheria: Marimar Torres, emprendedora y 
-entusiasta.** 
+En el norte de California, los viñedos cubren las laderas hasta donde alcanza la vista. 
+Y sus vinos están entre los mejores del mundo. Hemos visitado algunas de las bodegas más 
+emblemáticas para descubrir los secretos del llamado ‘wine country’. Además, hemos 
+encontrado una auténtica Mujer Etheria: Marimar Torres, emprendedora y entusiasta. 
 
 ![Marimar Torres, al frente de la Casa Torres en California.](https://fotos.etheriamagazine.com/2019/12/Marimar-Torres-bodega-california.jpg "Marimar Torres, al frente de la Casa Torres en California. © P. Grifol")
 

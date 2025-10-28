@@ -10,11 +10,11 @@ authors:
   - Kelu Robles
 ---
 
-**Has leído ‘Cádiz’ y te han venido a la mente sus enormes playas, sus coquetos pueblos 
+Has leído ‘Cádiz’ y te han venido a la mente sus enormes playas, sus coquetos pueblos 
 blancos y el inconfundible sabor de sus atunes en el paraíso, que cantaría Javier 
 Ruibal. Necesitar no necesitamos mucho más para querer volver a la antigua _Yazirat 
 Qadis_, pero existe otro motivo más para escaparnos: descubrir su romántica faceta 
-andalusí.** 
+andalusí. 
 
 ![casas blancas de vejer de la frontera](https://fotos.etheriamagazine.com/2019/05/viaje-cadiz-pueblo-blanco.jpg "Vejer de la Frontera es uno de los pueblos con más encanto de Cádiz. © K.R.")
 

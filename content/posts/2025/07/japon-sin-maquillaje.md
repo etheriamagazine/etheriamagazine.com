@@ -17,7 +17,7 @@ invitamos a conocer este viaje a Japón organizado por Hacia lo Salvaje, que pro
 descubrir el país del momiji en un itinerario de 18 días guiado por Irene Saki, 
 ofreciendo una perspectiva única y consciente del destino. 
 
-**Autora: Ana Cortés, fundadora de Hacia lo Salvaje** 
+<!-- LEGACY_AUTHOR: **Autora: Ana Cortés, fundadora de Hacia lo Salvaje** -->
 
 ![Momiji en Japón.](https://fotos.etheriamagazine.com/2025/07/viaje-japon-otono.jpeg "Momiji en Japón. © Eiya Maeda")
 

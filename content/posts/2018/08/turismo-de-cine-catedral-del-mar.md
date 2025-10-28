@@ -11,10 +11,10 @@ authors:
   - Eva Madruga
 ---
 
-**Tanto si eres de las que estuvo pegada a la televisión para ver los ocho capítulos de 
+Tanto si eres de las que estuvo pegada a la televisión para ver los ocho capítulos de 
 _La catedral del mar_, la adaptación televisiva de la novela de Ildefonso Falcones, como 
 si eres de las que te enganchaste al _best seller_ homónimo, tienes que prestar atención 
-a esta ruta por los escenarios de la serie.** 
+a esta ruta por los escenarios de la serie. 
 
 ![Sos del Rey Católico.](https://fotos.etheriamagazine.com/2018/07/Sos-del-rey-catedral-del-mar.jpg "Sos del Rey Católico. © LCM/A3")
 

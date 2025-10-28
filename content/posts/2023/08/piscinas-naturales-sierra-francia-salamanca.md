@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Cuando la orilla del mar no está cerca y apetece refrescarse, una de las propuestas 
-más apetecibles en Salamanca son las pozas, ríos y piscinas naturales de la Sierra de 
+Cuando la orilla del mar no está cerca y apetece refrescarse, una de las propuestas más 
+apetecibles en Salamanca son las pozas, ríos y piscinas naturales de la Sierra de 
 Francia. Esta tierra rica en cultura, naturaleza, gastronomía y vinos, es también un 
-planazo para una escapada de interior en verano.** 
+planazo para una escapada de interior en verano. 
 
 ![Piscina natural de Montemayor del Río.](https://fotos.etheriamagazine.com/2023/08/piscina-natural-montemayor-rio-salamanca.jpg "Piscina natural de Montemayor del Río. © Pepa García")
 

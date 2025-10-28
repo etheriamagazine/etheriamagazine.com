@@ -11,10 +11,10 @@ authors:
   - Carmen Bengoechea
 ---
 
-**Octubre huele a mosto de uva en La Rioja. Desde Haro, en el oeste, hasta Alfaro, en el 
+Octubre huele a mosto de uva en La Rioja. Desde Haro, en el oeste, hasta Alfaro, en el 
 este, toda la franja norte de la región vive en estas semanas de otoño una actividad 
 frenética. La vendimia, el momento más esperado del año, ya está aquí y todo el mundo se 
-afana en las labores propias. Las mujeres también.** 
+afana en las labores propias. Las mujeres también. 
 
 ![Viñedos en otoño de la Bodega Bohedal.](https://fotos.etheriamagazine.com/2018/10/2-la-rioja-vinedos-otono-bodega-bohedal.jpg "Viñedos en otoño de la (©) Bodega Bohedal.")
 

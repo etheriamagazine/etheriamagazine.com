@@ -1,6 +1,7 @@
 ---
 title: "Navidad en Dubái, mercadillos entre rascacielos y a 25 grados"
 date: 2023-12-08
+lastmod: 2024-12-01
 cover: https://fotos.etheriamagazine.com/2023/12/dubai-navidad-madinat-jumeirah.jpg
 categories: 
   - organiza-tu-viaje
@@ -17,7 +18,7 @@ que mejor. Así que vamos a repasar la agenda navideña de Dubái para descubrir
 puedes hacer en esta época del año en una de las ciudades con mayor oferta de ocio del 
 mundo y, además, con temperaturas más que agradables. Esta ciudad te va a sorprender. 
 
-**Actualizado diciembre de 2024** 
+<!-- LEGACY_UPDATED: **Actualizado diciembre de 2024** -->
 
 ![Celebración del Año Nuevo frente al Burj Khalifa en Dubai](https://fotos.etheriamagazine.com/2023/12/dubai-burj-khalifa-ano-nuevo.jpg "Celebración del Año Nuevo frente al Burj Khalifa. © Turismo de Dubái.")
 

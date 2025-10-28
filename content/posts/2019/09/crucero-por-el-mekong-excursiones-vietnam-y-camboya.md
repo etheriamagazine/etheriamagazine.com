@@ -1,6 +1,7 @@
 ---
 title: "Crucero por el Mekong en Vietnam y Camboya, un viaje a través del río de la vida"
 date: 2019-09-13
+lastmod: 2025-08-01
 cover: https://fotos.etheriamagazine.com/2019/09/crucero-Aqua-Mekong.jpg
 categories: 
   - organiza-tu-viaje
@@ -18,7 +19,7 @@ el Mekong para contarte todo lo que no debes perderte.
 
 ![Productos de un mercado en Vietnam](https://fotos.etheriamagazine.com/2019/09/mercados-crucero-mekong.jpg "Visita al mercado de Sa Dec, en Vietnam, durante el crucero por el Mekong. ©Cristina R. Bareño")
 
-**Actualizado 8/2025** 
+<!-- LEGACY_UPDATED: **Actualizado 8/2025** -->
 
 Desde la cordillera del Himalaya hasta el mar de China Meridional, el Mekong serpentea a 
 lo largo de los **4.350 kilómetros** que cruzan el Tibet, atraviesan China, Myanmar, 

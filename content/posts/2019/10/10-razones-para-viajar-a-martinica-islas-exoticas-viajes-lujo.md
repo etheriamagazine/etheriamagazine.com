@@ -1,6 +1,7 @@
 ---
 title: "10 razones para viajar a Martinica, la perla de las Antillas menores"
 date: 2019-10-04
+lastmod: 2023-05-01
 cover: https://fotos.etheriamagazine.com/2019/09/Martinica-mont-pelee.jpg
 categories: 
   - viajar-en-pareja
@@ -10,17 +11,17 @@ authors:
   - Yvonne Solé
 ---
 
-**Martinica es la cuna de la emperatriz Josefina Bonaparte, fuente de inspiración de 
+Martinica es la cuna de la emperatriz Josefina Bonaparte, fuente de inspiración de 
 Gauguin y el lugar donde el poeta Aimé Césaire reivindicó la cultura africana. Este 
 pedazo de Francia trasplantado en el corazón del Caribe es el destino perfecto para unas 
 vacaciones que aúnen naturaleza, historia, gastronomía y playas de postal. Te damos solo 
-diez razones por las que merece la pena visitar esta preciosa isla.** 
+diez razones por las que merece la pena visitar esta preciosa isla. 
 
 **Fotografías: Félix Lorenzo.** 
 
 ![Anses d'Arlet.](https://fotos.etheriamagazine.com/2019/09/Martinica-Anses-dArlet.jpg "Anses d'Arlet.")
 
-Actualizado 05/2023 
+<!-- LEGACY_UPDATED: Actualizado 05/2023 -->
 
 ## 1\. Martinica, la isla de las flores
 

@@ -11,10 +11,10 @@ authors:
   - Pilar Ortega
 ---
 
-**La casa familiar del poeta, el instituto donde no daba pie con bola, el Café Alameda, 
-la vivienda de “la zapatera prodigiosa”, la casa de Manuel de Falla o el patio de los 
+La casa familiar del poeta, el instituto donde no daba pie con bola, el Café Alameda, la 
+vivienda de “la zapatera prodigiosa”, la casa de Manuel de Falla o el patio de los 
 Aljibes de la Alhambra… Seguimos los pasos de Federico por su ciudad natal para conocer 
-los lugares que marcaron su vida y su obra.** 
+los lugares que marcaron su vida y su obra. 
 
 ![Museo Casa Natal de Federico García Lorca en Fuente Vaqueros.](https://fotos.etheriamagazine.com/2020/09/Granada-Lorca-museo.jpg "Museo Casa Natal de Federico García Lorca en Fuente Vaqueros.")
 

@@ -10,10 +10,9 @@ authors:
   - Vanesa Viñolo
 ---
 
-**Cualquier momento es bueno para darte el gusto de viajar a Mallorca y, si es con la 
+Cualquier momento es bueno para darte el gusto de viajar a Mallorca y, si es con la 
 excusa de acercarte a sus vinos, no hay más que añadir. Una manera diferente de recorrer 
-esta isla que te va a cautivar y que es perfecta para disfrutar en un viaje con 
-amigas.** 
+esta isla que te va a cautivar y que es perfecta para disfrutar en un viaje con amigas. 
 
 ![Brindis con vinos de Mallorca](https://fotos.etheriamagazine.com/2018/07/amigas-vino-Enoturismo-Binissalem-Mallorca-Torres.jpg "© CRDO Binissalem (Mallorca)/ M.Torres")
 

@@ -1,6 +1,7 @@
 ---
 title: "Un día en Frigiliana, uno de los pueblos más bonitos de Málaga"
 date: 2021-12-15
+lastmod: 2025-07-01
 cover: https://fotos.etheriamagazine.com/2021/12/frigiliana-barrio-alto.jpg
 categories: 
   - viajar-en-familia
@@ -17,7 +18,7 @@ a Frigiliana de un día.
 
 ![Calle del Barrio Alto de Frigiliana.](https://fotos.etheriamagazine.com/2021/12/frigiliana-barrio-alto.jpg "Calle del Barrio Alto de Frigiliana. © Susana García")
 
-Actualizado 7/2025 
+<!-- LEGACY_UPDATED: Actualizado 7/2025 -->
 
 Se encuentra en la comarca de la Axarquía malagueña, muy cerca de la popular localidad 
 costera de Nerja y de sus famosas cuevas. Por lo que una **excursión a Frigiliana** es 

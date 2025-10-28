@@ -1,6 +1,7 @@
 ---
 title: "Viñedos con sabor a mar, primer tramo del Grand Tour de Cataluña"
 date: 2024-06-27
+lastmod: 2024-06-01
 cover: https://fotos.etheriamagazine.com/2021/11/bici-grand-tour-catalunya.jpg
 categories: 
   - organiza-tu-viaje
@@ -18,7 +19,7 @@ que incluye cultura, gastronomía, arte y deportes activos.
 
 ![abadia montserrat](https://fotos.etheriamagazine.com/2021/11/abadia-montserrat.jpg "Entorno de la abadía de Montserrat. © PG")
 
-Actualizado junio 2024 
+<!-- LEGACY_UPDATED: Actualizado junio 2024 -->
 
 Descubrir los secretos de Cataluña por carreteras secundarias disfrutando de una 
 conducción pausada, de buena música y mejor compañía ya tiene nombre, se llama "**Grand 

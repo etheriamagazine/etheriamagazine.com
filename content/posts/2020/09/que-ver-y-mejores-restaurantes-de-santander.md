@@ -10,10 +10,10 @@ authors:
   - Alfredo G. Reyes
 ---
 
-**Puede que Santander no tenga el predicamento de otras capitales vecinas, pero es de 
-esas ciudades en las que cuando experimentas lo mucho que ofrecen resulta difícil 
-entender por qué no tienen una mayor promoción. Cuando conozcas estos planes en 
-Santander para un fin de semana, nos darás la razón.** 
+Puede que Santander no tenga el predicamento de otras capitales vecinas, pero es de esas 
+ciudades en las que cuando experimentas lo mucho que ofrecen resulta difícil entender 
+por qué no tienen una mayor promoción. Cuando conozcas estos planes en Santander para un 
+fin de semana, nos darás la razón. 
 
 ![centro botin espacio cultural de Santander](https://fotos.etheriamagazine.com/2020/09/centro-botin-santander.jpg "El © Centro Botín cambió el perfil de Santander.")
 

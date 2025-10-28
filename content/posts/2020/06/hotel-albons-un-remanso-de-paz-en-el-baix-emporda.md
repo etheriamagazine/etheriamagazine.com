@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Si buscas un lugar tranquilo donde programar una escapada este verano, ten muy en 
-cuenta al hotel Albons, que tras una profunda renovación en 2020 consiguió una estrella 
-más, convirtiéndose así en uno de los hoteles de cinco estrellas de Girona. Además, es 
-perfecto para recorrer la siempre apetecible Costa Brava.** 
+Si buscas un lugar tranquilo donde programar una escapada este verano, ten muy en cuenta 
+al hotel Albons, que tras una profunda renovación en 2020 consiguió una estrella más, 
+convirtiéndose así en uno de los hoteles de cinco estrellas de Girona. Además, es 
+perfecto para recorrer la siempre apetecible Costa Brava. 
 
 ![Piscina del hotel Albons](https://fotos.etheriamagazine.com/2020/05/Hotel-Albons-vistas.jpg "Piscina y vistas desde el hotel Albons.")
 

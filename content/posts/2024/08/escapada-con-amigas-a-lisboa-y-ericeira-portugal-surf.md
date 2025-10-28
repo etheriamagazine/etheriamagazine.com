@@ -1,6 +1,7 @@
 ---
 title: "Lisboa y Ericeira, un plan de amigas para amantes del surf y el buen comer"
 date: 2024-08-08
+lastmod: 2024-08-01
 cover: https://fotos.etheriamagazine.com/2020/03/Ericeira-surf.jpg
 categories: 
   - viajar-con-amigas
@@ -17,7 +18,7 @@ gastronómico. Un lugar perfecto para una escapada con amigas.
 
 ![viajes a Portugal, escapada con amigas, viajes de surf](https://fotos.etheriamagazine.com/2020/03/Ericeira-surf.jpg "Surf en Ericeira. © Turismo de Lisboa")
 
-(Actualizado 8/2024) 
+<!-- LEGACY_UPDATED: (Actualizado 8/2024) -->
 
 Encalado en un risco al borde del océano Atlántico, Ericeira es un pueblo en el que la 
 vida pasa a cámara lenta. Sus típicas callejuelas empedradas, sus apacibles parques en 

@@ -1,6 +1,7 @@
 ---
 title: "Planes divertidos en la Ribeira Sacra para descubrir sus secretos"
 date: 2021-06-17
+lastmod: 2023-12-01
 cover: https://fotos.etheriamagazine.com/2021/06/que-hacer-en-ribeira-sacra.jpg
 categories: 
   - viajar-con-amigas
@@ -17,7 +18,7 @@ Ribeira Sacra".
 
 ![viticultura en ribeira sacra](https://fotos.etheriamagazine.com/2021/06/que-hacer-en-ribeira-sacra.jpg "Viticultura heroica en Ribeira Sacra. © Cynthia Martín")
 
-**Actualizado 12/2023** 
+<!-- LEGACY_UPDATED: **Actualizado 12/2023** -->
 
 La magia de los parajes inhóspitos de la Ribeira Sacra parecen transportarnos a otro 
 país, una viticultura que se ha ganado el título de ‘heroica’ y aldeas de cuento 

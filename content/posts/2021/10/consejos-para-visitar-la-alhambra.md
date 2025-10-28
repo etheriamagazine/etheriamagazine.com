@@ -1,6 +1,7 @@
 ---
 title: "Cómo visitar la Alhambra, 10 consejos a tener en cuenta"
 date: 2021-10-25
+lastmod: 2024-09-01
 cover: https://fotos.etheriamagazine.com/2021/10/la-alhambra-patio-de-los-arrayanes-1.jpg
 categories: 
   - viajar-con-amigas
@@ -16,7 +17,7 @@ esta experiencia sea todo un éxito y ocupe un lugar de honor en tu memoria.
 
 ![La Alhambra vista desde los jardines del Generalife.](https://fotos.etheriamagazine.com/2021/10/la-alhambra-desde-generalife.jpg "La Alhambra vista desde los jardines del Generalife. © Susana García")
 
-Actualizado 9/2024 
+<!-- LEGACY_UPDATED: Actualizado 9/2024 -->
 
 Hay lugares tan especiales que merecen una cierta planificación viajera para poder 
 aprovechar al máximo cada minuto de la visita. La Alhambra es uno de ellos, y su 

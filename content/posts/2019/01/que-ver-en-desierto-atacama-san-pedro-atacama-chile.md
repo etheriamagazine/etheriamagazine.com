@@ -1,6 +1,7 @@
 ---
 title: "San Pedro de Atacama, la capital del 'buenrollismo’ está en Chile"
 date: 2019-01-04
+lastmod: 2025-09-01
 cover: https://fotos.etheriamagazine.com/2018/12/Valle-de-la-luna-atacama-chile-Etheria-magazine-e1655218795898.jpg
 categories: 
   - viajar-sola
@@ -18,7 +19,7 @@ un lugar perfecto para viajar sola.
 
 ![Paisaje del desierto de Atacama con montañas y lagos.](https://fotos.etheriamagazine.com/2018/12/viajera-sola-en-atacama-chile-Etheria-magazine-1.jpg "Paisaje del desierto de Atacama. © Kelu Robles")
 
-Actualizado 09/2025 
+<!-- LEGACY_UPDATED: Actualizado 09/2025 -->
 
 Dicen que el cobre y el cuarzo que hay en el **desierto de Atacama** son los 
 responsables del espíritu afable de su gente y, quizá porque la naturaleza es sabia, ha 

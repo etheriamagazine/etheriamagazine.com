@@ -10,11 +10,10 @@ authors:
   - Rosa Marqués
 ---
 
-**Queremos seguir viajando. Viajar nos inspira, nos da libertad, nos resetea y nos 
-permite vivir cada día como si fuera un día nuevo. Y esto, en definitiva, cura. Pero 
-nuestra forma de viajar ha cambiado para siempre. Ahora queremos hacerlo con conciencia, 
-y por este motivo te proponemos comenzar con los cinco destinos más sostenibles de 
-España.** 
+Queremos seguir viajando. Viajar nos inspira, nos da libertad, nos resetea y nos permite 
+vivir cada día como si fuera un día nuevo. Y esto, en definitiva, cura. Pero nuestra 
+forma de viajar ha cambiado para siempre. Ahora queremos hacerlo con conciencia, y por 
+este motivo te proponemos comenzar con los cinco destinos más sostenibles de España. 
 
 ![formentera uno de los destinos sostenibles de espana](https://fotos.etheriamagazine.com/2021/04/formentera-sostenible.jpg "Formentera, una isla sostenible. © Elisabeth Agustin")
 

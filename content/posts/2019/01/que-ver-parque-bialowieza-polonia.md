@@ -10,11 +10,11 @@ authors:
   - Kris Ubach
 ---
 
-**Algunos de los árboles del bosque de Bialowieza ya estaban allí cuando se conquistó 
+Algunos de los árboles del bosque de Bialowieza ya estaban allí cuando se conquistó 
 América. También los bisontes, que una vez ocuparon Europa de extremo a extremo. Hoy, 
 este bosque polaco conserva algunos de los patrimonios históricos (vegetales y animales) 
 más valiosos de nuestro continente. Nuestra propuesta es que viajes sola o con amigas 
-amantes de la naturaleza a este rincón tan poco conocido.** 
+amantes de la naturaleza a este rincón tan poco conocido. 
 
 ![Amanecer en Bialowieza.](https://fotos.etheriamagazine.com/2019/01/Bialowieza-atardecer.jpg "Amanecer en Bialowieza. © Kris Ubach")
 

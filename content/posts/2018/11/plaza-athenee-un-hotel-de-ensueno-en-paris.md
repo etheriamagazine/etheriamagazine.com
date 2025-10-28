@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Exclusivo y sofisticado, el Plaza Athénée se alza en la avenida de Montaigne como uno 
-de los hoteles más selectos de París. Suites de ensueño que sobrepasan los 25.000 euros, 
-un restaurante firmado por un chef con estrellas Michelin y el glamour que enamoró a 
-Grace Kelly, Rodolfo Valentino y Gary Cooper. ¿Quién no querría alojarse aquí?** 
+Exclusivo y sofisticado, el Plaza Athénée se alza en la avenida de Montaigne como uno de 
+los hoteles más selectos de París. Suites de ensueño que sobrepasan los 25.000 euros, un 
+restaurante firmado por un chef con estrellas Michelin y el glamour que enamoró a Grace 
+Kelly, Rodolfo Valentino y Gary Cooper. ¿Quién no querría alojarse aquí? 
 
 ![Elegante y clásica, la Eiffel Suite Signature Classic, integra en el espacio a la torre Eiffel.](https://fotos.etheriamagazine.com/2018/11/Suite-Haute-Couture-salon-HR-by-Francis-Amiand.jpg "Elegante y clásica, la Eiffel Suite Signature Classic, integra en el espacio a la torre Eiffel. © Francis Amiand.")
 

@@ -1,6 +1,7 @@
 ---
 title: "Agua Amarga, planes en familia para vivir el mejor verano de tu vida"
 date: 2024-08-17
+lastmod: 2025-07-01
 cover: https://fotos.etheriamagazine.com/2021/04/Agua-Amarga-playa.jpg
 categories: 
   - viajar-en-familia
@@ -17,7 +18,7 @@ algunas excursiones interesantes por Cabo de Gata.
 
 ![playas de agua amarga en Almeria](https://fotos.etheriamagazine.com/2021/04/Agua-Amarga-playa.jpg "Playa de Agua Amarga. © Marcus Ferrer.")
 
-Actualizado 7/2025 
+<!-- LEGACY_UPDATED: Actualizado 7/2025 -->
 
 De casitas blancas y construcciones características de los Campos de Níjar, como 
 preciosos aljibes y viejos cortijos restaurados, se forja, de cara al mar, la silueta de 

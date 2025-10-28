@@ -17,7 +17,7 @@ rastrear en la red las mejores ofertas de viajes para publicarlas en este portal
 
 ![viajeros piratas, rastreador de chollos de viajes](https://fotos.etheriamagazine.com/2019/01/Carla-Barberá-senior-editor-ViajerosPiratas.jpg "Carla Barberá, senior editor en Viajeros Piratas.")
 
-Histórico de Etheria Magazine: 2019 
+<!-- LEGACY_INFO: Histórico de Etheria Magazine: 2019 -->
 
 Carla Barberá es licenciada en Periodismo y trabajó para ViajerosPiratas en Berlín antes 
 de incorporarse al equipo en España. Este portal, que pertenece al grupo HolidayPirates, 

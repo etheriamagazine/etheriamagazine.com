@@ -10,10 +10,10 @@ authors:
   - Kris Ubach
 ---
 
-**Arizona es uno de los estados más áridos y despoblados de Estados Unidos, un lugar de 
+Arizona es uno de los estados más áridos y despoblados de Estados Unidos, un lugar de 
 carreteras sin fin, moteles, paisajes de piedra y mucho viento. Viajaremos al norte del 
 estado, donde no hay ciudades colmadas de museos o grandes centros comerciales, pero sí 
-naturaleza en su sentido más extremo.** 
+naturaleza en su sentido más extremo. 
 
 ![Los indios navajos ya adoraban las formas y colores del Antelope Canyon.](https://fotos.etheriamagazine.com/2018/05/Antelope-Canyon.jpg "Los indios navajos ya adoraban las formas y colores del Antelope Canyon.")
 

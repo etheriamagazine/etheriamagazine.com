@@ -11,11 +11,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Los tópicos no le sientan bien a Lleida. Esta provincia se debate entre un corazón 
+Los tópicos no le sientan bien a Lleida. Esta provincia se debate entre un corazón 
 pirenaico y una llanura fértil regada por ríos. Estas corrientes fluviales bajan de las 
 cumbres y, una vez mansas, crean un auténtico vergel agrícola. Estás ante un mosaico 
 formado por estelas humanas, naturales, históricas y culturales. Sólo tienes que dejarte 
-llevar y hacer un viaje a Lleida para sentir cómo te enamora este territorio.** 
+llevar y hacer un viaje a Lleida para sentir cómo te enamora este territorio. 
 
 ![Flores de los melocotoneros del Bajo Segre.](https://fotos.etheriamagazine.com/2019/03/Fruiturismo-lleida.jpg "Flores de los melocotoneros del Bajo Segre.")
 

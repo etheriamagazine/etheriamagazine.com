@@ -11,10 +11,10 @@ authors:
   - Yolanda Cardo
 ---
 
-**Eclipsada por su monumental capital, este hermoso territorio se guarda muchos ases en 
-la manga que te desvelamos en este artículo que contiene 15 visitas imprescindibles para 
+Eclipsada por su monumental capital, este hermoso territorio se guarda muchos ases en la 
+manga que te desvelamos en este artículo que contiene 15 visitas imprescindibles para 
 hacer en Segovia y provincia. Y recuerda, cualquier momento del año es bueno para 
-disfrutar de los numerosos encantos que brinda.** 
+disfrutar de los numerosos encantos que brinda. 
 
 ![madriguera pueblo rojo de segovia](https://fotos.etheriamagazine.com/2021/03/ruta-por-segovia-Madriguera.jpg "Madriguera es uno de los pueblos rojos de Segovia. © Diputación Provincia de Segovia")
 

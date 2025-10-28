@@ -10,10 +10,10 @@ authors:
   - Yvonne Solé
 ---
 
-**Noruega es uno de los destinos imprescindibles del norte de Europa. También está entre 
+Noruega es uno de los destinos imprescindibles del norte de Europa. También está entre 
 los viajes que siempre tenemos en mente... si no te decides, sigue leyendo este artículo 
 porque lo tendrás mucho más claro. Te contamos qué ver en Noruega y por qué deberías 
-viajar hasta allí (más pronto que tarde).** 
+viajar hasta allí (más pronto que tarde). 
 
 **Fotografías: Félix Lorenzo** 
 

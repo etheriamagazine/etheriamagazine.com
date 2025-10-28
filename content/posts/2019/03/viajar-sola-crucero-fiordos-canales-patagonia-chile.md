@@ -10,10 +10,10 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-**Subirte a un ferry con todos los servicios a bordo puede ser una gran manera de viajar 
+Subirte a un ferry con todos los servicios a bordo puede ser una gran manera de viajar 
 sola y disfrutar de los paisajes y de la cultura de la Patagonia chilena. No te pierdas 
 los detalles de un crucero por los fiordos de la Patagonia chilena en este artículo de 
-la escritora Elisabeth G. Iborra.** 
+la escritora Elisabeth G. Iborra. 
 
 ![mujer en la cubierta del ferry de Navimag.](https://fotos.etheriamagazine.com/2019/02/Navimag-foto-cubierta-e1552986249269.jpg "Vista desde la cubierta del ferry de Navimag.")
 

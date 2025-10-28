@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Quedan pocas semanas para las fiestas de Pascua y hay que elegir ya un viaje que nos 
+Quedan pocas semanas para las fiestas de Pascua y hay que elegir ya un viaje que nos 
 permita desconectar. Aquí te proponemos diez viajes de Semana Santa en familia por 
 España que puedes recorrer en coche sin depender de vuelos. La mayoría están en entornos 
-rurales donde disfrutar de sus enclaves naturales y pueblos históricos.** 
+rurales donde disfrutar de sus enclaves naturales y pueblos históricos. 
 
 ![Sepúlveda, villa de la provincia de Segovia.](https://fotos.etheriamagazine.com/2020/02/Sepulveda.jpg "Sepúlveda, villa de la provincia de Segovia.")
 

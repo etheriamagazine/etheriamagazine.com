@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Comenzar a disfrutar un viaje es también ir preparando la maleta, anticipando todo lo 
+Comenzar a disfrutar un viaje es también ir preparando la maleta, anticipando todo lo 
 que se vaya a necesitar para que no falte nada. Para un viaje a Bali se necesitan unas 
 cuantas cosas imprescindibles, pero, en realidad, es un destino donde se puede viajar 
-ligera. Aquí te damos unas cuantas claves para que no se te olvide lo esencial.** 
+ligera. Aquí te damos unas cuantas claves para que no se te olvide lo esencial. 
 
 ![dos mujeres en una piscina en el interior de Bali](https://fotos.etheriamagazine.com/2023/06/maleta-bali-mujeres.jpg "A Bali tienes que llevar sobre todo las ganas de pasarlo bien.")
 

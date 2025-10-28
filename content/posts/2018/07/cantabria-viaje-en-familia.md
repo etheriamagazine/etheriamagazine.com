@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-**Un viaje a Cantabria con niños siempre sale bien porque tiene unas dimensiones muy 
+Un viaje a Cantabria con niños siempre sale bien porque tiene unas dimensiones muy 
 manejables, ofrece naturaleza, cultura y una excelente gastronomía. Pocos lugares 
 combinan ratos de diversión en prados con ciudades históricas y unas playas increíbles. 
-Sigue leyendo para saber cómo aprovechar 3 o 4 días en Cantabria.** 
+Sigue leyendo para saber cómo aprovechar 3 o 4 días en Cantabria. 
 
 ![Playa de Suances (Cantabria).](https://fotos.etheriamagazine.com/2018/07/playa-suances-1024x768-2.jpg "Playa de Suances (Cantabria). © Susana García")
 

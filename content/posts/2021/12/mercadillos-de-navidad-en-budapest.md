@@ -1,6 +1,7 @@
 ---
 title: "Budapest en Navidad: mercadillos, visitas básicas y consejos para ahorrar"
 date: 2021-12-13
+lastmod: 2023-11-01
 cover: https://fotos.etheriamagazine.com/2021/12/mercadillo-basilica-san-esteban.jpg
 categories: 
   - viajar-con-amigas
@@ -11,15 +12,15 @@ authors:
   - Pepa G. Marín
 ---
 
-**La capital de Hungría es uno de los destinos que siempre está presente en nuestras 
+La capital de Hungría es uno de los destinos que siempre está presente en nuestras 
 quinielas navideñas. Una capital centroeuropea que vive esta época de forma intensa 
 añadiendo a sus propuestas habituales un plus de magia y fantasía. Si ya tienes hechas 
 las maletas para visitar los mercadillos o te planteas recorrerla en invierno, toma 
-buena nota de estos planes que puedes hacer durante la Navidad en Budapest.** 
+buena nota de estos planes que puedes hacer durante la Navidad en Budapest. 
 
 ![mercadillo san esteban navidad en budapest](https://fotos.etheriamagazine.com/2021/12/mercadillo-basilica-san-esteban.jpg "Mercadillo de la Basílica de San Esteban, en Budapest. © Pepa García")
 
-**Actualizado 11/2023** 
+<!-- LEGACY_UPDATED: **Actualizado 11/2023** -->
 
 Las luces de la avenida Andrássy, el ambiente de los mercadillos de Vörösmarty y de la 
 Basílica de San Esteban, el aroma de las castañas asadas o del vino caliente son 

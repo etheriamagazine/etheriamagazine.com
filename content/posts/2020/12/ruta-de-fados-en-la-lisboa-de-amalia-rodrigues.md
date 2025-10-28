@@ -11,10 +11,10 @@ authors:
   - Pilar Ortega
 ---
 
-**Se cumplen 100 años del nacimiento de Amália Rodrigues, la gran dama del fado, una 
-mujer que conquistó con su voz a millones de personas de los cinco continentes. Desde 
-Etheria Magazine le rendimos homenaje siguiendo sus pasos y el eco de su voz en los 
-locales que componen esta particular Ruta de fados en Lisboa.** 
+Se cumplen 100 años del nacimiento de Amália Rodrigues, la gran dama del fado, una mujer 
+que conquistó con su voz a millones de personas de los cinco continentes. Desde Etheria 
+Magazine le rendimos homenaje siguiendo sus pasos y el eco de su voz en los locales que 
+componen esta particular Ruta de fados en Lisboa. 
 
 ![ruta fados lisboa Amalia Rodrigues](https://fotos.etheriamagazine.com/2020/12/lisboa-Amalia-Rodrigues-1965.jpg "Amália Rodrigues fotografiada por Augusto Cabrita, 1965.")
 

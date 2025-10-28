@@ -10,10 +10,10 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-**La mejor manera de recorrer una región vinícola es en autobús, sin necesidad de coger 
-el coche tras las catas. La escritora Elisabeth G. Iborra, nuestra experta en viajar 
-sola, ha probado esta ruta vitivinícola que permite visitar 27 bodegas en 6 días en la 
-región argentina de Mendoza. ¡Salud!** 
+La mejor manera de recorrer una región vinícola es en autobús, sin necesidad de coger el 
+coche tras las catas. La escritora Elisabeth G. Iborra, nuestra experta en viajar sola, 
+ha probado esta ruta vitivinícola que permite visitar 27 bodegas en 6 días en la región 
+argentina de Mendoza. ¡Salud! 
 
 ![Mujer bebiendo vino](https://fotos.etheriamagazine.com/2019/04/Mendoza-bodegas-mujer.jpg "Degustando una copa de vino. © Alfonso Scarpa")
 

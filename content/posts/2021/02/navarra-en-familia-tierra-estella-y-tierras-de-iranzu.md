@@ -11,9 +11,9 @@ authors:
   - Kelu Robles
 ---
 
-**Si no habías escuchado hablar de estas dos regiones navarricas repletas de bosques, 
+Si no habías escuchado hablar de estas dos regiones navarricas repletas de bosques, 
 cascadas y pueblos bonitos marcados por la historia, en Etheria Magazine te damos ocho 
-razones para que las descubras en un viaje que conquistará a toda la familia.** 
+razones para que las descubras en un viaje que conquistará a toda la familia. 
 
 ![nacedero de urederra navarra](https://fotos.etheriamagazine.com/2021/01/navarra-nacedero-urederra.jpg "El río Urederra rinde honor a su nombre en euskera, que significa ‘agua hermosa’. © KR")
 

@@ -1,6 +1,7 @@
 ---
 title: "Tres visitas modernistas en Terrassa que justifican una escapada"
 date: 2021-08-20
+lastmod: 2024-08-01
 cover: https://fotos.etheriamagazine.com/2021/08/masia-freixa-modernismo.jpg
 categories: 
   - viajar-con-amigas
@@ -18,7 +19,7 @@ que les hace.
 
 ![masia freixa terrassa barcelona](https://fotos.etheriamagazine.com/2021/08/masia-freixa-modernismo.jpg "Masía Freixa, en Terrassa. © Pepa García")
 
-Actualizado 8/2024 
+<!-- LEGACY_UPDATED: Actualizado 8/2024 -->
 
 Probablemente no has escuchado hablar de la Masía Freixa, del 'Vapor Aymerich, Amat y 
 Jover' o de la Casa Alegre de Sagrera, e incluso iríamos más allá, ¿serías capaz de 

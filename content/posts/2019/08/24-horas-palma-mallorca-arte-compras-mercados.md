@@ -10,9 +10,9 @@ authors:
   - Redacción Etheria
 ---
 
-**En un viaje debe haber tiempo para todo: pasear, degustar la cocina local, conocer la 
+En un viaje debe haber tiempo para todo: pasear, degustar la cocina local, conocer la 
 cultura y, también, para ir de compras. Entre estos planes en Palma, la capital de 
-Mallorca, te sorprenderá su variedad.** 
+Mallorca, te sorprenderá su variedad. 
 
 ![Catedral de Palma de Mallorca.](https://fotos.etheriamagazine.com/2019/07/palma-mallorca.jpg "Catedral de Palma. © Toa Heftiba")
 

@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Después del de Londres, los estudios Warner Bros han elegido Japón para su segundo y 
+Después del de Londres, los estudios Warner Bros han elegido Japón para su segundo y 
 fabuloso parque de Harry Potter. Ha abierto sus puertas el 16 de junio y está dispuesto 
 a sorprender a todos los fanáticos de esta popular saga. Te contamos cómo es y por qué 
-es interesante visitarlo si viajas a Tokio.** 
+es interesante visitarlo si viajas a Tokio. 
 
 ![Tren de Hogwarts Express traído de Londres.](https://fotos.etheriamagazine.com/2023/06/parque-Harry-Potter-japon.jpg "Tren de Hogwarts Express traído de Londres.")
 

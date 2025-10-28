@@ -10,9 +10,9 @@ authors:
   - Nuria Cortés
 ---
 
-**Zambúllete en la guía de playas de Menorca más completa y marca tu propia ruta de baño 
+Zambúllete en la guía de playas de Menorca más completa y marca tu propia ruta de baño 
 por la isla más íntima de Baleares. Elige entre las de arena blanca y aguas turquesas o 
-atrévete a descubrir el lado más salvaje del litoral menorquín.** 
+atrévete a descubrir el lado más salvaje del litoral menorquín. 
 
 ![Calas Macarella y Macarelleta, playas, menorca, calas, viajes](https://fotos.etheriamagazine.com/2020/08/playa-menorca-macarella-y-macarelleta.jpg "Calas Macarella y Macarelleta (Menorca).")
 

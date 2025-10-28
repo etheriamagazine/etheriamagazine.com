@@ -10,11 +10,11 @@ authors:
   - Kelu Robles
 ---
 
-**El plan para la despedida de soltera comienza como algo inocente. Haces un grupo de 
+El plan para la despedida de soltera comienza como algo inocente. Haces un grupo de 
 Whatsapp llamado “Despe de...”, añades una foto horrible de la futura novia y esperas a 
 que todo fluya. Entonces, la realidad te da una bofetada y la mañana siguiente te recibe 
 con 386 mensajes sin leer, memes que no vienen a cuento y, sobre todo, cientos de pegas 
-y demasiados emoticonos.** 
+y demasiados emoticonos. 
 
 ![](https://fotos.etheriamagazine.com/2018/07/despedida-de-soltera-playa.jpg "Atardecer en la playa")
 

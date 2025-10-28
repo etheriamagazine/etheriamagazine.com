@@ -9,10 +9,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Escritora y periodista, Manena Munar comparte en Etheria Magazine de forma habitual 
-sus relatos, y hoy también nos permite bucear en su vida viajera y en sus primeros 
-recuerdos por el mundo. Una dama de la que aprender a mantener la chispa de la vida y la 
-ilusión por los pequeños detalles.** 
+Escritora y periodista, Manena Munar comparte en Etheria Magazine de forma habitual sus 
+relatos, y hoy también nos permite bucear en su vida viajera y en sus primeros recuerdos 
+por el mundo. Una dama de la que aprender a mantener la chispa de la vida y la ilusión 
+por los pequeños detalles. 
 
 ![manena munar, etheria magazine, bostwana,](https://fotos.etheriamagazine.com/2020/04/manena-munar-etheria-magazine-4.jpg "Momentos inolvidables en Sudáfrica. © Helena Rodríguez")
 

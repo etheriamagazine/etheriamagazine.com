@@ -11,10 +11,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Cada viaje es una oportunidad para descubrir la danza de colores que pinta el cielo al 
+Cada viaje es una oportunidad para descubrir la danza de colores que pinta el cielo al 
 amanecer y al ocaso. Estos momentos se convierten en recuerdos imborrables que quedan 
 grabados en nuestra memoria y nos impulsan a esperar pacientemente el momento de partir 
-de nuevo.** 
+de nuevo. 
 
 ![Búfalo en el Delta del Okavango.](https://fotos.etheriamagazine.com/2020/04/delta-okavango-bufalo.jpg "Búfalo en el Delta del Okavango.")
 

@@ -16,7 +16,7 @@ Desde su agencia Hacia lo Salvaje organiza viajes para conocer este destino de O
 de una manera más cercana, justa y humana. Tomad nota de los lugares imprescindibles y 
 de los consejos de seguridad si viajáis a este destino. 
 
-**Autora: Ana Cortés, fundadora de Hacia lo Salvaje** 
+<!-- LEGACY_AUTHOR: **Autora: Ana Cortés, fundadora de Hacia lo Salvaje** -->
 
 ![](https://fotos.etheriamagazine.com/2025/09/OMAN-1.jpeg "Gran Mezquita del Sultán Qaboos, en Mascate.")
 

@@ -1,6 +1,7 @@
 ---
 title: "El aguacate, conoce sus beneficios y prepara recetas sencillas"
 date: 2021-01-26
+lastmod: 2023-10-01
 cover: https://fotos.etheriamagazine.com/2021/01/aguacates-rellenos.jpg
 categories: 
   - estilo-de-vida
@@ -9,14 +10,13 @@ authors:
   - Redacción Etheria
 ---
 
-**El aguacate es uno de los grandes aliados para la salud y también un ingrediente muy 
+El aguacate es uno de los grandes aliados para la salud y también un ingrediente muy 
 útil para preparar desayunos sencillos, y cenas rápidas bajas en calorías. Te contamos 
-sus beneficios, algunas curiosidades y varias recetas para hacer en menos de 10 
-minutos.** 
+sus beneficios, algunas curiosidades y varias recetas para hacer en menos de 10 minutos. 
 
 ![El aguacate proporciona grandes beneficios a la salud.](https://fotos.etheriamagazine.com/2021/01/aguacate-no-engorda.jpg "El aguacate proporciona grandes beneficios a la salud. © Noah Buscher")
 
-**Actualizado 10/2023** 
+<!-- LEGACY_UPDATED: **Actualizado 10/2023** -->
 
 El aguacate tiene seguidores incondicionales, otros a quienes deja indiferentes y 
 también sus detractores. Si perteneces a los dos primeros grupos, te interesa este 

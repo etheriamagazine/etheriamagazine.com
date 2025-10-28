@@ -10,9 +10,9 @@ authors:
   - Marina Paul
 ---
 
-**Noruega se identifica con naturaleza pura pero también tiene un triángulo dorado 
-urbano formado por Trondheim, Bergen y Oslo. En Etheria Magazine hemos recorrido estas 
-tres ciudades para que tú misma puedas organizar por libre una escapada a este país.** 
+Noruega se identifica con naturaleza pura pero también tiene un triángulo dorado urbano 
+formado por Trondheim, Bergen y Oslo. En Etheria Magazine hemos recorrido estas tres 
+ciudades para que tú misma puedas organizar por libre una escapada a este país. 
 
 ![Casas de colores junto al río Nidelva, a su paso por Trondheim.](https://fotos.etheriamagazine.com/2020/01/Noruega-Trondheim-Nidelva-portada.jpg "Casas de colores junto al río Nidelva, a su paso por Trondheim. @ Marina Paul")
 

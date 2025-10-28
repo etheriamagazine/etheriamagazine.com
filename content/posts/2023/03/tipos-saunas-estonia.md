@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Las saunas en Estonia forman parte de la vida cotidiana de sus habitantes y resultan 
-un aliciente más para los visitantes. Su importancia es tal que este año 2023 ha sido 
+Las saunas en Estonia forman parte de la vida cotidiana de sus habitantes y resultan un 
+aliciente más para los visitantes. Su importancia es tal que este año 2023 ha sido 
 declarado el Año de la Sauna en este país. Hacemos un breve repaso de los tipos de 
-saunas más habituales.** 
+saunas más habituales. 
 
 ![Dos mujeres pasean entre iglus sauna en Estonia](https://fotos.etheriamagazine.com/2023/02/saunas-iglu.jpg "Saunas en iglús en Estonia.")
 

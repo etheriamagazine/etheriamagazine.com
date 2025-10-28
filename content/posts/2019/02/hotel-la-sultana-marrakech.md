@@ -11,10 +11,10 @@ authors:
   - Susana García
 ---
 
-**La ciudad de Marrakech es experta en esconder pequeñas joyas entre sus intrincadas 
+La ciudad de Marrakech es experta en esconder pequeñas joyas entre sus intrincadas 
 callejuelas. Una de las más valiosas es el hotel La Sultana que, a modo de riad 
 tradicional, permite disfrutar de una estancia en la ciudad como si fueras la 
-protagonista de un delicado poema árabe.** 
+protagonista de un delicado poema árabe. 
 
 ![entrada al riad de La Sultana](https://fotos.etheriamagazine.com/2019/02/LaSultana-Marrakech-entrada.jpg "Entrada de La Sultana.")
 

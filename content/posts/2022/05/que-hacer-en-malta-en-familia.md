@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Por su apasionante historia, su gastronomía mediterránea, su agradable clima e, 
-incluso, para practicar inglés, un viaje a Malta en familia es siempre un planazo en 
-cualquier momento del año. Si aún tienes dudas de lo que te ofrece, te damos algunas 
-pistas sobre qué hacer con niños en el archipiélago.** 
+Por su apasionante historia, su gastronomía mediterránea, su agradable clima e, incluso, 
+para practicar inglés, un viaje a Malta en familia es siempre un planazo en cualquier 
+momento del año. Si aún tienes dudas de lo que te ofrece, te damos algunas pistas sobre 
+qué hacer con niños en el archipiélago. 
 
 ![Una familia en un puerto de Malta junto a unas barcas](https://fotos.etheriamagazine.com/2022/05/Malta-con-ninos.jpg "Familia en Malta. © Pepa García")
 

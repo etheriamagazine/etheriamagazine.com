@@ -12,11 +12,11 @@ authors:
   - Redacción Etheria
 ---
 
-**La capital está siempre llena de planes y el otoño le sienta muy bien a su 
-programación cultural. En este artículo hemos seleccionado 12 exposiciones temporales 
-que puedes ver en Madrid en otoño de 2023 que incluyen grandes figuras del arte como 
-Monet, Picasso y Sorolla o momentos históricos como la Caída del Muro de Berlín. Te van 
-a apetecer al momento.** 
+La capital está siempre llena de planes y el otoño le sienta muy bien a su programación 
+cultural. En este artículo hemos seleccionado 12 exposiciones temporales que puedes ver 
+en Madrid en otoño de 2023 que incluyen grandes figuras del arte como Monet, Picasso y 
+Sorolla o momentos históricos como la Caída del Muro de Berlín. Te van a apetecer al 
+momento. 
 
 ![cuadro 'María en la playa de Zarauz' de Sorolla](https://fotos.etheriamagazine.com/2023/09/exposicion-sorolla-mapfre-paisaje.jpg "Cuadro incluido en la exposición sobre Sorolla en la © Fundación MAPFRE: 'María en la playa de Zarauz', 1910. Colección particular.")
 

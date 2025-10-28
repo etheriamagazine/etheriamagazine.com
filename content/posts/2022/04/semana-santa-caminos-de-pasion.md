@@ -1,6 +1,7 @@
 ---
 title: "10 visitas que sorprenden en Caminos de Pasión"
 date: 2022-04-04
+lastmod: 2024-03-01
 cover: https://fotos.etheriamagazine.com/2022/04/lucena-caminos-pasion.jpg
 categories: 
   - viajar-con-amigas
@@ -17,7 +18,7 @@ Andalucía unida por un místico hilo conductor: su peculiar devoción por la Se
 
 ![campanero de utrera en caminos de pasion](https://fotos.etheriamagazine.com/2022/04/Utrera-caminos-de-pasion.jpg "Antonio realiza una ‘balanza’ sobre una campana de Utrera. © Kelu Robles")
 
-Actualizado 3/2024 
+<!-- LEGACY_UPDATED: Actualizado 3/2024 -->
 
 Diez pueblos de Sevilla, Córdoba y Jaén custodian a lo largo de 300 kilómetros el acervo 
 de un pasado que va más allá del ‘más allá’ y de la Semana Santa. Este viaje por 

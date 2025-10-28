@@ -14,7 +14,7 @@ que recibe al viajero con los brazos abiertos durante todo el año pero que dura
 recreación medieval de la Fiesta del "Homenaje Templario a Jaime I y Guillem de 
 Mont-Rodón" es incluso capaz de hacerle viajar en el tiempo. 
 
-Texto y fotos: Laura Crawford 
+<!-- LEGACY_AUTHOR: Texto y fotos: Laura Crawford -->
 
 ![Desfile medieval con el castillo de Monzón al fondo.](https://fotos.etheriamagazine.com/2024/07/Castillo-Monzon.jpg "Desfile medieval con el castillo de Monzón al fondo.")
 

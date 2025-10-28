@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Los atractivos turísticos de América Latina son infinitos, y entre ellos se encuentran 
+Los atractivos turísticos de América Latina son infinitos, y entre ellos se encuentran 
 los paisajes sobrecogedores que la naturaleza ha formado en su territorio. Aquí hemos 
 seleccionado 10 parques naturales de América Latina, unos lugares donde el tiempo queda 
-suspendido y necesitamos tomar aliento para asimilar tanta belleza.** 
+suspendido y necesitamos tomar aliento para asimilar tanta belleza. 
 
 ![Perito Moreno, en el Parque Nacional de los Glaciares (Argentina)](https://fotos.etheriamagazine.com/2021/10/paisajes-america-latina-perito-moreno-pasarelas.jpg "Perito Moreno, en el Parque Nacional de los Glaciares (Argentina).")
 

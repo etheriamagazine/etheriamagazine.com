@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**¿Estás un poco cansada de luces y zambombas? Pues aún te queda, y más vale tratar de 
+¿Estás un poco cansada de luces y zambombas? Pues aún te queda, y más vale tratar de 
 pasarlo bien... Hemos elegido 10 planes navideños en Madrid para todas, para las que 
 vais por libre, para quienes buscáis planes en familia y, también, para las que nunca 
-tienen suficiente Navidad.** 
+tienen suficiente Navidad. 
 
 ![madrid en navidad, planes para mujeres en madrid](https://fotos.etheriamagazine.com/2019/12/bola-navidad-gran-via-alcala.jpg "Madrid se ilumina en Navidad.")
 

@@ -10,10 +10,10 @@ authors:
   - Manena Munar
 ---
 
-**Viajamos al condado irlandés de Sligo, donde duendes, hadas y faunos fueron testigos 
-del turbulento amor entre el Premio Nobel de Literatura William Butler Yeats, y la 
-actriz, feminista y revolucionaria Maud Gonne. En Etheria Magazine seguimos los pasos de 
-Yeats y los lugares donde se inspiró para escribir parte de su obra.** 
+Viajamos al condado irlandés de Sligo, donde duendes, hadas y faunos fueron testigos del 
+turbulento amor entre el Premio Nobel de Literatura William Butler Yeats, y la actriz, 
+feminista y revolucionaria Maud Gonne. En Etheria Magazine seguimos los pasos de Yeats y 
+los lugares donde se inspiró para escribir parte de su obra. 
 
 ![bosques de sligo](https://fotos.etheriamagazine.com/2020/04/bosque-sligo.jpg "Los bosques del condado de Sligo inspiraron a Yeats. © O.T. Irlanda")
 

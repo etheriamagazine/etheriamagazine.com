@@ -10,10 +10,10 @@ authors:
   - Nuria Cortés
 ---
 
-**No lo vamos a negar. En cuanto llega el buen tiempo y alguna del grupo propone una 
+No lo vamos a negar. En cuanto llega el buen tiempo y alguna del grupo propone una 
 escapada a Ibiza con amigas, a todas nos falta tiempo para soltar una sonrisa y empezar 
 a imaginarnos tumbadas en la playa dispuestas a disfrutar del precioso paisaje 
-mediterráneo de la isla y del no menos interesante y entretenido 'paisanaje'.** 
+mediterráneo de la isla y del no menos interesante y entretenido 'paisanaje'. 
 
 ![Islote de Cap Bernat, perfecto para ver el atardecer en un viaje con amigas a Ibiza](https://fotos.etheriamagazine.com/2018/05/Ibiza-atardecer_Benirras_consell-e1551949129730.jpg "Islote de Cap Bernat, frente a cala Benirrás © Consell d'Eivissa")
 

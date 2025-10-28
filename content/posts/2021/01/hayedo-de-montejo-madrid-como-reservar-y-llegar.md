@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**El Hayedo de Montejo, la estrella natural de la Sierra de Madrid, no solo ofrece 
-visitas guiadas y gratuitas en otoño sino durante todo el año. Cubierto de nieve, con un 
-manto de color verde brillante o con la melancolía de los tonos ocres, es un espacio 
-natural que ofrece la mejor lección de educación ambiental para niños (y mayores).** 
+El Hayedo de Montejo, la estrella natural de la Sierra de Madrid, no solo ofrece visitas 
+guiadas y gratuitas en otoño sino durante todo el año. Cubierto de nieve, con un manto 
+de color verde brillante o con la melancolía de los tonos ocres, es un espacio natural 
+que ofrece la mejor lección de educación ambiental para niños (y mayores). 
 
 ![senda del rio hayedo montejo](https://fotos.etheriamagazine.com/2021/01/ruta-hayedo-montejo.jpg "Senda del Río, en Hayedo de Montejo (Madrid). © Etheria M.")
 

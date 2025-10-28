@@ -11,10 +11,10 @@ authors:
   - Susana García
 ---
 
-**La Bobadilla, ubicado en Loja (Granada), es mucho más que un hotel, es un lugar 
-apartado de todo donde la palabra descanso toma la forma que tú quieras. Y, además, es 
-bello sin ser ostentoso, con esa belleza reconocida de paredes encaladas, maderas 
-labradas, aires moriscos y un mar de olivos como vistas.** 
+La Bobadilla, ubicado en Loja (Granada), es mucho más que un hotel, es un lugar apartado 
+de todo donde la palabra descanso toma la forma que tú quieras. Y, además, es bello sin 
+ser ostentoso, con esa belleza reconocida de paredes encaladas, maderas labradas, aires 
+moriscos y un mar de olivos como vistas. 
 
 ![hall hotel La Bobadilla](https://fotos.etheriamagazine.com/2018/08/La-Bobadilla-hall.jpg "Hall de entrada de La Bobadilla, a Royal Hideaway Hotel.")
 

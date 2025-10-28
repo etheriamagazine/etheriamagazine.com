@@ -1,6 +1,7 @@
 ---
 title: "Los valles de la Jacetania, las 'joyicas' del Pirineo aragonés"
 date: 2019-09-25
+lastmod: 2024-10-01
 cover: https://fotos.etheriamagazine.com/2019/09/Jacetania-puerto-somport.jpg
 categories: 
   - viajar-sola
@@ -17,7 +18,7 @@ nadie. Te contamos qué ver en los valles de la Jacetania para que no te pierdas
 
 ![Monasterio de Siresa.](https://fotos.etheriamagazine.com/2019/09/Jacetania-Siresa.jpg "Monasterio de Siresa.")
 
-Actualizado en octubre de 2024 
+<!-- LEGACY_UPDATED: Actualizado en octubre de 2024 -->
 
 El Pirineo aragonés tiene valles imponentes e infinitas localizaciones que ofrecen 
 visitas teatralizadas y actividades –como el parapente o las tirolinas– para disfrutar, 

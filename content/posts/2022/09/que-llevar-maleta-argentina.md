@@ -1,6 +1,7 @@
 ---
 title: "Qué llevar en la maleta en un viaje a Argentina"
 date: 2022-09-14
+lastmod: 2024-01-01
 cover: https://fotos.etheriamagazine.com/2022/09/viaje-argentina.jpg
 categories: 
   - organiza-tu-viaje
@@ -11,15 +12,15 @@ authors:
   - Redacción Etheria
 ---
 
-**La mejor temporada para viajar al país del tango es durante nuestro otoño e invierno, 
+La mejor temporada para viajar al país del tango es durante nuestro otoño e invierno, 
 que corresponde con su primavera y verano austral. En este artículo te damos algunos 
 consejos fundamentales sobre cómo preparar una maleta para viajar Argentina en la que 
 tendrás que llevar ropa y accesorios para distintos tipo de clima y algunos complementos 
-imprescindibles.** 
+imprescindibles. 
 
 ![mujer preparando una maleta](https://fotos.etheriamagazine.com/2022/09/maleta-argentina-maleta.jpg "Al preparar una maleta para viajar a Argentina hay que optimizar muy bien el espacio.")
 
-Actualizado 1/2024 
+<!-- LEGACY_UPDATED: Actualizado 1/2024 -->
 
 El verano austral es la mejor época para viajar a Argentina y conocer, en un mismo 
 viaje, lugares tan distantes geográficamente como Buenos Aires, las cataratas de Iguazú 

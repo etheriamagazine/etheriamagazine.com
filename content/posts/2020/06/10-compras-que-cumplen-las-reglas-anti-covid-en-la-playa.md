@@ -9,8 +9,8 @@ authors:
   - Redacción Etheria
 ---
 
-**Para tus próximas vacaciones en la playa te proponemos 10 complementos y juegos que 
-harán que podáis disfrutar en familia sin aburriros ni un instante. Toma buena nota.** 
+Para tus próximas vacaciones en la playa te proponemos 10 complementos y juegos que 
+harán que podáis disfrutar en familia sin aburriros ni un instante. Toma buena nota. 
 
 ![](https://fotos.etheriamagazine.com/2020/06/complementos-playa-familia.jpg "Familia en la playa.")
 

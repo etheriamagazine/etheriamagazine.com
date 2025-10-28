@@ -11,9 +11,9 @@ authors:
   - Manena Munar
 ---
 
-**Stefanie era una niña de la Alemania del Este que vivía en Berlín cuando un simple 
-muro de cemento aún separaba las dos Alemanias. Al cumplir los nueve años su padre le 
-regaló un casete de los Beatles que cambiaría su vida para siempre.** 
+Stefanie era una niña de la Alemania del Este que vivía en Berlín cuando un simple muro 
+de cemento aún separaba las dos Alemanias. Al cumplir los nueve años su padre le regaló 
+un casete de los Beatles que cambiaría su vida para siempre. 
 
 ![Stefanie Hempel guía con entusiasmo el tour del Hamburgo de los Beatles.](https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-5.jpg "Stefanie Hempel guía con entusiasmo el tour del Hamburgo de los Beatles.")
 

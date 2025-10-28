@@ -9,12 +9,12 @@ authors:
   - Maria Miret
 ---
 
-**La ansiedad y la depresión son trastornos “de pastilla fácil” ante los cuáles se ha 
+La ansiedad y la depresión son trastornos “de pastilla fácil” ante los cuáles se ha 
 producido una “prescripción de gatillo fácil”. En estos tiempo de pandemia, “muchos 
 problemas sociales están siendo medicalizados”. Los profesionales hacen una llamada a la 
 prudencia ante ansiolíticos, antidepresivos y calmantes, aunque reconocen que “la gente 
 está sufriendo y el uso de estos medicamentos puede estar paliando la situación de 
-angustia".** 
+angustia". 
 
 ![mujer deprimida](https://fotos.etheriamagazine.com/2021/04/mujer-pastillas-antidepresion.jpg "Es más rápido extender una receta que ahondar en el problema. © Ben White")
 

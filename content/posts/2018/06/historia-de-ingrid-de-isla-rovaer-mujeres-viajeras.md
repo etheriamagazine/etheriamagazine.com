@@ -11,8 +11,8 @@ authors:
   - Manena Munar
 ---
 
-**Esta historia, que tuvo lugar en Rovaer, una isla de los Fiordos noruegos, podría 
-comenzar así: "Érase una vez un pescador de ojos azul marino..."** 
+Esta historia, que tuvo lugar en Rovaer, una isla de los Fiordos noruegos, podría 
+comenzar así: "Érase una vez un pescador de ojos azul marino..." 
 
 ![Historias de mujeres Ingrid del Hotel KulturHotel de Noruega](https://fotos.etheriamagazine.com/2018/06/1-Noruega-Manena-Munar.jpg "Isla de Rovaer (Noruega).")
 

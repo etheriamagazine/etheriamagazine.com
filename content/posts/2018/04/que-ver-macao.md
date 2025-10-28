@@ -11,11 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Macao fue una de las primeras colonias portuguesas en Asia, un idilio que se prolongó 
+Macao fue una de las primeras colonias portuguesas en Asia, un idilio que se prolongó 
 durante 400 años, hasta 1999 cuando fue devuelta a China. Desde entonces funciona como 
 una región administrativa especial (RAE) y disfruta de 50 años de transición política. 
-La fusión y la convivencia de la cultura de estos dos países es su principal 
-atractivo.** 
+La fusión y la convivencia de la cultura de estos dos países es su principal atractivo. 
 
 ![iglesia de san pablo en macao](https://fotos.etheriamagazine.com/2018/04/1-MACAO.jpg "Novios con la iglesia de San Pablo al fondo.")
 

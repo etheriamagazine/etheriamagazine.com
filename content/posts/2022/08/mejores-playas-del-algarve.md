@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Playas increíbles en el Algarve hay muchas y todas tienen algo especial. A veces 
-porque son solitarias, otras por sus bonitos acantilados o porque están dentro de 
-cuevas, también las hay que se extienden por arenales infinitos o están frente a pueblos 
+Playas increíbles en el Algarve hay muchas y todas tienen algo especial. A veces porque 
+son solitarias, otras por sus bonitos acantilados o porque están dentro de cuevas, 
+también las hay que se extienden por arenales infinitos o están frente a pueblos 
 pintorescos. Así que no te diremos que estas son las mejores playas del Algarve pero sí 
-que te encantará conocerlas...** 
+que te encantará conocerlas... 
 
 ![Cueva con playa de Benagil, en el Algarve.](https://fotos.etheriamagazine.com/2022/08/playa-cueva-benagil-algarve.jpg "Cueva con playa de Benagil, en el Algarve.")
 

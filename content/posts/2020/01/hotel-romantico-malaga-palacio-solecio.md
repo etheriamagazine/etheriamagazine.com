@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Si estás buscando un plan para una escapada romántica te damos una pista con la que no 
-vas a fallar: un fin de semana en el Palacio**. **Un nuevo hotel boutique de lujo en 
-Málaga perfecto para desconectar y disfrutar de una de las ciudades más vibrantes y 
-divertidas de España.** 
+Si estás buscando un plan para una escapada romántica te damos una pista con la que no 
+vas a fallar: un fin de semana en el Palacio . Un nuevo hotel boutique de lujo en Málaga 
+perfecto para desconectar y disfrutar de una de las ciudades más vibrantes y divertidas 
+de España. 
 
 ![Escalera de acceso y patio donde está el restaurante Balausta.](https://fotos.etheriamagazine.com/2020/01/hotel-palacio-solecio-escalera-patio.jpg "Escalera de acceso y patio donde está el restaurante Balausta.")
 

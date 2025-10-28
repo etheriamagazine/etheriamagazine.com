@@ -9,10 +9,10 @@ authors:
   - Susana García
 ---
 
-**El _Atlas de los lugares literarios_ es uno de esos libros que gustan por el simple 
+El _Atlas de los lugares literarios_ es uno de esos libros que gustan por el simple 
 hecho de ser libro. Esta cuidada edición a dos tintas recoge los lugares (imaginarios o 
 no) de una serie de novelas elegidas por su autora Cris F. Oliver y que han sido 
-genialmente retratadas en las ilustraciones de Julio Fuentes.** 
+genialmente retratadas en las ilustraciones de Julio Fuentes. 
 
 ![Interior del Atlas de los lugares literarios: Londres de Orwell](https://fotos.etheriamagazine.com/2018/07/Atlas-Lugares-literarios-Orwell-1984.jpg "El Londres de '1984' de Georges Orwell (1949).")
 

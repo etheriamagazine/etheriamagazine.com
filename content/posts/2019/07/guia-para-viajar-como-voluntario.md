@@ -1,6 +1,7 @@
 ---
 title: "Guía para hacer voluntariado y viajar al mismo tiempo"
 date: 2019-07-15
+lastmod: 2025-08-01
 cover: https://fotos.etheriamagazine.com/2019/06/viaje-voluntariado-kenia.jpg
 categories: 
   - organiza-tu-viaje
@@ -16,7 +17,7 @@ del voluntariado.
 
 ![](https://fotos.etheriamagazine.com/2019/06/viajes-voluntariado-volunturismo.jpg "Voluntariado o volunturismo.")
 
-Actualizado 8/2025 
+<!-- LEGACY_UPDATED: Actualizado 8/2025 -->
 
 Nunca antes había sido tan fácil viajar. Y es que con el uso de Internet y de 
 aplicaciones móviles donde reservar alojamientos, transporte o incluso comida a 

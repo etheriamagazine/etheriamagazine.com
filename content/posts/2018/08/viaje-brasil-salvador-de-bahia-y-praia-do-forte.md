@@ -1,6 +1,7 @@
 ---
 title: "Brasil con amigas: Salvador de Bahía y Praia do Forte"
 date: 2018-08-22
+lastmod: 2024-04-01
 cover: https://fotos.etheriamagazine.com/2018/08/Playa-Praia-do-Forte-viaje-brasil-e1578734128487.jpg
 categories: 
   - viajar-con-amigas
@@ -16,7 +17,7 @@ zona playera de Praia do Forte. El éxito está asegurado.
 
 ![Iberostar Praia do Forte, un 5 estrellas en primera línea de playa.](https://fotos.etheriamagazine.com/2018/08/IBEROSTAR-Praia-do-Forte-e1578733585570.jpg "Piscina del Iberostar Praia do Forte.")
 
-Actualizado en abril de 2024. 
+<!-- LEGACY_UPDATED: Actualizado en abril de 2024. -->
 
 Salvador de Bahía puede ser tu primera parada en este viaje a Brasil con amigas. El 
 centro histórico de esta ciudad lo puedes recorrer con un plano en la mano o dejándote 

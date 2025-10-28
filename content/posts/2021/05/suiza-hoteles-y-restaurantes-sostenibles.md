@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Suiza no sólo nos propone un entorno desbordante de naturaleza, de aire puro, de ríos 
-y de lagos, sino que nos invita a descansar en hoteles sostenibles y a degustar sabores 
+Suiza no sólo nos propone un entorno desbordante de naturaleza, de aire puro, de ríos y 
+de lagos, sino que nos invita a descansar en hoteles sostenibles y a degustar sabores 
 tradicionales en restaurantes comprometidos con el medio que integran los valores 
 locales. Si eliges sostenibilidad en tu viaje a Suiza, estarás escogiendo la mejor forma 
-de viajar.** 
+de viajar. 
 
 ![posada de montana ascher en suiza](https://fotos.etheriamagazine.com/2021/05/suiza-ascher-wasserauen.jpg "Posada de montaña Äscher. © Philipp Kemmler/ Manu Touristik")
 

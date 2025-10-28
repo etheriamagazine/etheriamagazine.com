@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Las escapadas cercanas donde las visitas se combinan con paseos por la naturaleza, 
+Las escapadas cercanas donde las visitas se combinan con paseos por la naturaleza, 
 buenos restaurantes y tiendas donde adquirir un bonito recuerdo siempre triunfan. Uno de 
 esos lugares que no defrauda es Consuegra, un pueblo de Toledo que resulta perfecto para 
-una excursión de ida y vuelta.** 
+una excursión de ida y vuelta. 
 
 ![Atardecer desde el cerro de los molinos de Consuegra.](https://fotos.etheriamagazine.com/2022/12/Molino-castillo-consuegra.jpg "Atardecer desde el cerro de los molinos de Consuegra.")
 

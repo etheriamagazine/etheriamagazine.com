@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Las islas Seychelles son sinónimo de paraíso y lujo, además de garantía de unas 
+Las islas Seychelles son sinónimo de paraíso y lujo, además de garantía de unas 
 vacaciones de descanso perfectas. Por eso nos encanta enseñarte Laïla Seychelles, a 
 Tribute Portfolio Resort, un hotel de la marca Marriot Bonvoy lleno de personalidad en 
-la isla de Mahé. Te va a apetecer ir seguro.** 
+la isla de Mahé. Te va a apetecer ir seguro. 
 
 ![playa del hotel laïla Seychelles.](https://fotos.etheriamagazine.com/2023/06/laila-Seychelles-vista-playa.jpg "Vista panorámica del hotel Laïla Seychelles.")
 

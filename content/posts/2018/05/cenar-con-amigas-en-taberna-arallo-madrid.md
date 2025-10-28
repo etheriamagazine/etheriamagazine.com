@@ -11,11 +11,10 @@ authors:
   - Vanesa Viñolo
 ---
 
-**Seguro que habéis leído en numerosas ocasiones lo bueno para la salud (física y 
-mental, añadiría yo) que es mantener vivo un círculo de amigas. Sí, discrimino: solo 
-chicas, solo amiguísimas. De esas que conservas desde antes de formarte como persona 
-adulta y formal, esas con las que has compartido despiporres, desenfrenos, lloros y 
-risas.** 
+Seguro que habéis leído en numerosas ocasiones lo bueno para la salud (física y mental, 
+añadiría yo) que es mantener vivo un círculo de amigas. Sí, discrimino: solo chicas, 
+solo amiguísimas. De esas que conservas desde antes de formarte como persona adulta y 
+formal, esas con las que has compartido despiporres, desenfrenos, lloros y risas. 
 
 ![Arallo ha desembarcado en Madrid desde A Coruña.](https://fotos.etheriamagazine.com/2018/05/Taberna-Arallo-2.jpg "Arallo ha desembarcado en Madrid desde A Coruña.")
 

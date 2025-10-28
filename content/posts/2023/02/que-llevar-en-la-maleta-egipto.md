@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Los viajes tienen tres momentos: prepararlos, disfrutarlos y recordarlos. En la 
-primera fase es fundamental la organización de una buena maleta con todo lo necesario 
-para disfrutar después a tope del país. En este artículo contamos qué llevar en la 
-maleta en un viaje a Egipto para que no te falte de nada.** 
+Los viajes tienen tres momentos: prepararlos, disfrutarlos y recordarlos. En la primera 
+fase es fundamental la organización de una buena maleta con todo lo necesario para 
+disfrutar después a tope del país. En este artículo contamos qué llevar en la maleta en 
+un viaje a Egipto para que no te falte de nada. 
 
 ![Mujer en las Pirámides de Giza](https://fotos.etheriamagazine.com/2023/01/mujer-piramides-egipto.jpg "¿A que siempre has querido viajar a Egipto?")
 

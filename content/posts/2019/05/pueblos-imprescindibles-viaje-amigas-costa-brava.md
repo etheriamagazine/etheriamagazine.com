@@ -10,11 +10,11 @@ authors:
   - Yvonne Solé
 ---
 
-**Desde Blanes hasta Portbou, esta preciosa costa está repleta de pintorescas 
-poblaciones que esconden pequeños tesoros. En este viaje por la Costa Brava con amigas 
-te proponemos recorrer este abrupto y salvaje litoral para descubrir calas y playas de 
-aguas cristalinas, algunas todavía vírgenes, resguardadas por pinares. Un planazo, no lo 
-negarás.** 
+Desde Blanes hasta Portbou, esta preciosa costa está repleta de pintorescas poblaciones 
+que esconden pequeños tesoros. En este viaje por la Costa Brava con amigas te proponemos 
+recorrer este abrupto y salvaje litoral para descubrir calas y playas de aguas 
+cristalinas, algunas todavía vírgenes, resguardadas por pinares. Un planazo, no lo 
+negarás. 
 
 ![viaje amigas costa brava, viaje cadaques](https://fotos.etheriamagazine.com/2019/05/playas-cadaques-costa-brva.jpg "Playa de Cadaqués. © Félix Lorenzo")
 

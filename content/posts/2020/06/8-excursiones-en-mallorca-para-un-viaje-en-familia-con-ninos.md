@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**La isla de Mallorca tiene tantas posibilidades de ocio en verano que podrías pasar 
-unas vacaciones en familia sin dejar un solo instante al aburrimiento. Aquí te 
-proponemos 8 excursiones para realizar con niños en Mallorca, seguro que cuando vayáis a 
-la isla se os ocurren muchas más.** 
+La isla de Mallorca tiene tantas posibilidades de ocio en verano que podrías pasar unas 
+vacaciones en familia sin dejar un solo instante al aburrimiento. Aquí te proponemos 8 
+excursiones para realizar con niños en Mallorca, seguro que cuando vayáis a la isla se 
+os ocurren muchas más. 
 
 ![viajes con niños, viajes a Mallorca, excursiones en familia](https://fotos.etheriamagazine.com/2020/06/Mallorca-puerto-soller.jpg "Puerto de Sóller.")
 

@@ -11,9 +11,9 @@ authors:
   - Susana García
 ---
 
-**Cualquier momento del año es bueno para buscar unos momentos de relax y desconexión. 
+Cualquier momento del año es bueno para buscar unos momentos de relax y desconexión. 
 Para ello, no hace falta irse a tierras lejanas y en este artículo te presentamos 5 
-hoteles para desconectar perfectos para retirarte a descansar y coger fuerzas.** 
+hoteles para desconectar perfectos para retirarte a descansar y coger fuerzas. 
 
 ![Terraza de una habitación del hotel Bahía del Duque.](https://fotos.etheriamagazine.com/2019/01/hotel-bahia-del-duque-habitacion.jpg "Terraza de una habitación del hotel © Bahía del Duque.")
 

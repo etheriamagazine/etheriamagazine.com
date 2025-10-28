@@ -12,11 +12,11 @@ authors:
   - Pedro Grifol
 ---
 
-**¿La cerveza es cosa de hombres?... Pues parece ser que las ‘inventoras’ fueron 
-mujeres. Probablemente fueron ellas, las mujeres de Babilonia, las que primero 
-observaron cómo el pan fermentaba en la quietud del agua, y que si se llevaba a 
-ebullición se convertía en un líquido amarillento, fácil de beber y que daba alegría. 
-Descubre por qué la cerveza es un asunto de mujeres en Bélgica.** 
+¿La cerveza es cosa de hombres?... Pues parece ser que las ‘inventoras’ fueron mujeres. 
+Probablemente fueron ellas, las mujeres de Babilonia, las que primero observaron cómo el 
+pan fermentaba en la quietud del agua, y que si se llevaba a ebullición se convertía en 
+un líquido amarillento, fácil de beber y que daba alegría. Descubre por qué la cerveza 
+es un asunto de mujeres en Bélgica. 
 
 ![mujer besando un vaso de cerveza](https://fotos.etheriamagazine.com/2018/09/Cerveza-te-quiero.jpg "La cerveza es una bebida de mujeres.")
 

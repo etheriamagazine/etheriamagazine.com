@@ -11,9 +11,9 @@ authors:
   - Susana García
 ---
 
-**Cuando empiezas a planificar la maleta antes de viajar a Costa Rica seguro que te 
-surgen dudas. Aquí te damos algunas claves de aquello que no puede faltarte y de lo que 
-no vas a usar en ningún caso para que no cargues en exceso la maleta.** 
+Cuando empiezas a planificar la maleta antes de viajar a Costa Rica seguro que te surgen 
+dudas. Aquí te damos algunas claves de aquello que no puede faltarte y de lo que no vas 
+a usar en ningún caso para que no cargues en exceso la maleta. 
 
 ![Puente colgante en Costa Rica.](https://fotos.etheriamagazine.com/2018/05/costa-rica-maleta-puente-colgante.jpg "Puente colgante en Costa Rica.")
 

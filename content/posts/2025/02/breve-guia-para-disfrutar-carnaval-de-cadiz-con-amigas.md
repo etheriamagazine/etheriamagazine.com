@@ -1,6 +1,7 @@
 ---
 title: "Guía del Carnaval de Cádiz para tu primera visita"
 date: 2025-02-22
+lastmod: 2025-02-01
 cover: https://fotos.etheriamagazine.com/2020/01/agrupacion-carnaval.jpg
 categories: 
   - viajar-con-amigas
@@ -17,7 +18,7 @@ dar mucho la nota.
 
 ![carnaval de cadiz](https://fotos.etheriamagazine.com/2020/01/agrupacion-carnaval.jpg "Carnaval de Cádiz. © Ayto. Cádiz")
 
-(Actualizado febrero 2025) 
+<!-- LEGACY_UPDATED: (Actualizado febrero 2025) -->
 
 El Carnaval de Cádiz es la fiesta más importante de esta maravillosa ciudad. Un festejo 
 que llega hasta el último rincón de sus barrios, gracias a la implicación de la mayoría 

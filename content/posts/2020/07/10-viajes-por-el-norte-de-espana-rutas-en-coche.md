@@ -1,6 +1,7 @@
 ---
 title: "10 viajes por el norte de España para buscar el fresquito"
 date: 2020-07-20
+lastmod: 2025-07-01
 cover: https://fotos.etheriamagazine.com/2019/03/camino-oculto-pais-vasco.jpg
 categories: 
   - organiza-tu-viaje
@@ -18,7 +19,7 @@ si viajas en familia como si vas a realizar una escapada con amigas.
 
 ![barcos de pesca en Bermeo](https://fotos.etheriamagazine.com/2020/07/viaje-norte-bizkaia.jpg "Puerto de Bermeo.")
 
-Actualizado 7/2025 
+<!-- LEGACY_UPDATED: Actualizado 7/2025 -->
 
 El norte de España es una fuente inagotable de viajes, tanto de fin de semana como para 
 dedicar unas vacaciones completas. Si nos centramos en la cornisa Cantábrica, aparecen 

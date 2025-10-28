@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Aunque parece imposible pensar en Finlandia en invierno sin que Santa Claus haga acto 
-de presencia, os invitamos a disfrutar del país de una manera más original. ¿Qué os 
-parece dormir bajo auroras boreales, practicar esquí de fondo, entrenar vuestro sisu o 
-nadar en lagos helados? Os damos todas las pistas.** 
+Aunque parece imposible pensar en Finlandia en invierno sin que Santa Claus haga acto de 
+presencia, os invitamos a disfrutar del país de una manera más original. ¿Qué os parece 
+dormir bajo auroras boreales, practicar esquí de fondo, entrenar vuestro sisu o nadar en 
+lagos helados? Os damos todas las pistas. 
 
 ![sauna en Finlandia en invierno](https://fotos.etheriamagazine.com/2023/10/sauna-finlandia.jpg "Sauna en Finlandia. © Ruka Kuusamo")
 

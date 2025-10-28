@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Si sólo vas a estar dos días en Granada hay visitas como el Albaicín, aquel lugar que 
+Si sólo vas a estar dos días en Granada hay visitas como el Albaicín, aquel lugar que 
 Abd Allah mencionaba en sus 'Memorias' rodeado de arroyos y arboledas, o La Alhambra, el 
 sueño de Muhammad I, que no puedes perderte. A estas dos hay que añadirles palacios, 
-miradores y cármenes que desvelan el apasionante pasado de esta ciudad.** 
+miradores y cármenes que desvelan el apasionante pasado de esta ciudad. 
 
 ![Alhambra de Granada.](https://fotos.etheriamagazine.com/2020/05/viajes-mujeres-granada-alhambra.jpg "Alhambra de Granada. © Hari Nandakumar")
 

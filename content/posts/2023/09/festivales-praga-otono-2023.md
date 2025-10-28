@@ -9,10 +9,10 @@ authors:
   - Redacción Etheria
 ---
 
-**La capital checa tiene esa rara capacidad de sorprender sea cual sea el momento del 
-año en que se visite, pero si decides ir a Praga en otoño tendrás la suerte de conocer 
+La capital checa tiene esa rara capacidad de sorprender sea cual sea el momento del año 
+en que se visite, pero si decides ir a Praga en otoño tendrás la suerte de conocer 
 algunos de sus festivales más sorprendentes. El diseño, la creación lumínica y la música 
-son el complemento perfecto a los románticos paseos que regala la estación.** 
+son el complemento perfecto a los románticos paseos que regala la estación. 
 
 ![Praga en otoño se viste de romanticismo.](https://fotos.etheriamagazine.com/2023/09/praga-otono.jpg "Praga en otoño se viste de romanticismo. © Etheria Magazine")
 

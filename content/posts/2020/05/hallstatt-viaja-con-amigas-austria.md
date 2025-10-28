@@ -11,10 +11,10 @@ authors:
   - Elena Ortega
 ---
 
-**A 73 kilómetros de Salzburgo, en el distrito Salzkammergut, Hallstatt se contonea 
+A 73 kilómetros de Salzburgo, en el distrito Salzkammergut, Hallstatt se contonea 
 solemne ante el lago del mismo nombre. Nos encontramos en la impresionante región 
 austríaca de los lagos, circundados por las montañas de Dachstein, un lugar perfecto 
-para realizar un viaje con amigas o en pareja.** 
+para realizar un viaje con amigas o en pareja. 
 
 ![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](https://fotos.etheriamagazine.com/2020/05/Hallstatt-lago.jpg "Barco llegando al embarcadero de Hallstatt. © Österreich Werbung/Wolfgang Weinhäupl")
 

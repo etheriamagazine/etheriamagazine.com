@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**El Museo de las Relaciones Rotas de Zagreb (Croacia) acoge recuerdos y objetos que 
+El Museo de las Relaciones Rotas de Zagreb (Croacia) acoge recuerdos y objetos que 
 simbolizan la desaparición del amor, el alejamiento en las amistades o la tristeza por 
 una pérdida. Es un lugar donde depositar recuerdos dolorosos de lo que pudo ser y no 
-fue.** 
+fue. 
 
 ![Vestido de fiesta del Museo de las Relaciones rotas](https://fotos.etheriamagazine.com/2018/10/Museo-relaciones-rotas-zagreb-2.jpg "Vestido de fiesta. © Mare Milin.")
 

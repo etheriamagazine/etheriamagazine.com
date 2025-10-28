@@ -11,11 +11,11 @@ authors:
   - Carmen Pineda
 ---
 
-**Extremadura tiene fama de ser una región turísticamente desconocida, donde sólo 
-merecen una visita lugares como Mérida, Cáceres o Trujillo pero os decimos que hay 
-muchas otras maravillas esperando a ser descubiertas. Os invitamos a descubrir algunas 
-en esta ruta por 5 pueblos de Badajoz que seguramente aún no conoces: Villanueva de la 
-Serena, Don Benito, Zafra, Almendralejo y Fregenal de la Sierra.** 
+Extremadura tiene fama de ser una región turísticamente desconocida, donde sólo merecen 
+una visita lugares como Mérida, Cáceres o Trujillo pero os decimos que hay muchas otras 
+maravillas esperando a ser descubiertas. Os invitamos a descubrir algunas en esta ruta 
+por 5 pueblos de Badajoz que seguramente aún no conoces: Villanueva de la Serena, Don 
+Benito, Zafra, Almendralejo y Fregenal de la Sierra. 
 
 ![Castillo templario de Fregenal de la Sierra.](https://fotos.etheriamagazine.com/2022/05/Castillo-Templario-Fregenal-de-la-Sierra.jpg "Castillo templario de Fregenal de la Sierra.")
 

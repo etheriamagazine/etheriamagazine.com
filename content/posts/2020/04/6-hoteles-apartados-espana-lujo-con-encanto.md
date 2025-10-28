@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Hay hoteles donde la soledad es un privilegio y la posibilidad de pasar un fin de 
-semana desconectado del mundo un aliciente. En momentos en los que nos van avisando que 
-en nuestros primeros viajes tendremos que seguir guardando la distancia social, te 
-proponemos 6 hoteles en España donde te será difícil encontrarte con alguien.** 
+Hay hoteles donde la soledad es un privilegio y la posibilidad de pasar un fin de semana 
+desconectado del mundo un aliciente. En momentos en los que nos van avisando que en 
+nuestros primeros viajes tendremos que seguir guardando la distancia social, te 
+proponemos 6 hoteles en España donde te será difícil encontrarte con alguien. 
 
 ![Granada olivos naturaleza relax](https://fotos.etheriamagazine.com/2018/08/La-Bobadilla-panoramica.jpg "Imagen de La Bobadilla entre campos de olivos. © Barceló Hotel Group")
 

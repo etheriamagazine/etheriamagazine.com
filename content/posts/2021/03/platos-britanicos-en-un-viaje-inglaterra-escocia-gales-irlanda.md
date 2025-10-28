@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Esa idea tan extendida de que en Gran Bretaña se come fatal o la ocurrencia de incluir 
+Esa idea tan extendida de que en Gran Bretaña se come fatal o la ocurrencia de incluir 
 en la maleta productos envasados al vacío para que los familiares que estudian o 
 trabajan allí “coman en condiciones”, ¿tiene razón de ser? Eso lo tendrás que decidir tú 
-misma cuando conozcas estos productos, hábitos y platos británicos.** 
+misma cuando conozcas estos productos, hábitos y platos británicos. 
 
 ![desayuno uno de los platos britanicos tradicionales](https://fotos.etheriamagazine.com/2021/03/que-lleva-desayuno-ingles.jpg "Desayuno inglés completo. © Nonsap Visuals")
 

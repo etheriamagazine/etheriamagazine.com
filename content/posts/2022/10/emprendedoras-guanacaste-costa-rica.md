@@ -12,11 +12,11 @@ authors:
   - Redacción Etheria
 ---
 
-**La región de Guanacaste combina frondosos parques en el interior con una costa de 
-playas perfectas enmarcadas también en la privilegiada naturaleza de Costa Rica. En este 
+La región de Guanacaste combina frondosos parques en el interior con una costa de playas 
+perfectas enmarcadas también en la privilegiada naturaleza de Costa Rica. En este 
 entorno te presentamos a Dalila Cascante y Santos Girón, dos mujeres emprendedoras que 
 con mucho trabajo y proyectos enfocados en el turismo han dado forma a su carrera 
-profesional y ayudan cada día a dinamizar la economía de sus localidades.** 
+profesional y ayudan cada día a dinamizar la economía de sus localidades. 
 
 ![Playa Hermosa, en la península de Papagayo.](https://fotos.etheriamagazine.com/2022/10/Guanacaste-playa-hermosa.jpg "Playa Hermosa, en la península de Papagayo. © Joan Vendrell.")
 

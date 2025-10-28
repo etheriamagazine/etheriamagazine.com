@@ -8,9 +8,9 @@ authors:
   - Redacción Etheria
 ---
 
-**Si tienes tiempo libre, estás en plena forma, te gusta conocer otros lugares y puedes 
+Si tienes tiempo libre, estás en plena forma, te gusta conocer otros lugares y puedes 
 hacerlo... sigue leyendo porque te damos cinco ideas para celebrar la jubilación con tus 
-mejores amigas.** 
+mejores amigas. 
 
 ![viajes mayores de 55](https://fotos.etheriamagazine.com/2019/11/chicas-viaje-risas.jpg "© Priscilla Du Preez")
 

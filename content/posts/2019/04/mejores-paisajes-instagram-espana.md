@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-**No es necesario recorrer miles de kilómetros para quedar extasiados con la magia de la 
+No es necesario recorrer miles de kilómetros para quedar extasiados con la magia de la 
 naturaleza. Y, de hecho, aún estando cerca de casa es una gran aliada si buscas un viaje 
 original o quieres sorprender a tus seguidores de Instagram. Digamos que los 'likes' en 
 cualquiera de estos 7 mágicos parajes, que se encuentran entre los mejores paisajes de 
-España, están asegurados.** 
+España, están asegurados. 
 
 ![mujer caminando en las Bardenas reales](https://fotos.etheriamagazine.com/2019/04/bardenas-reales-navarra-chica.jpg "Paseo por el singular paisaje de las Bardenas Reales en Navarra.")
 

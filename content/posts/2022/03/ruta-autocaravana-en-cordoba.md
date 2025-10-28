@@ -11,12 +11,12 @@ authors:
   - Redacción Etheria
 ---
 
-**Si buscas nuevas rutas para recorrer Andalucía en autocaravana, te interesa saber que 
-la Subbética Cordobesa proporciona seis nuevas áreas de descanso (muchas de ellas 
+Si buscas nuevas rutas para recorrer Andalucía en autocaravana, te interesa saber que la 
+Subbética Cordobesa proporciona seis nuevas áreas de descanso (muchas de ellas 
 gratuitas) desde donde descubrir los encantos de la comarca. En este artículo 
 encontrarás la información necesaria (pueblos principales, rutas naturales, áreas para 
 pernoctar y restaurantes) para hacer una increíble ruta en autocaravana por la Subbética 
-Cordobesa.** 
+Cordobesa. 
 
 ![dos mujeres posan junto a una autocaravana en dona mencia en una Ruta en autocaravana por la Subbética Cordobesa](https://fotos.etheriamagazine.com/2022/03/dona-mencia-area-caravanas.jpg "Viajeras en Doña Mencía.")
 

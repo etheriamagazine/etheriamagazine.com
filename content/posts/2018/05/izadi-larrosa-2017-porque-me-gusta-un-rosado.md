@@ -9,10 +9,10 @@ authors:
   - Vanesa Viñolo
 ---
 
-**Odio el rosa y me encanta el rosado. Y no porque sea cosas de chicas. Los que me 
+Odio el rosa y me encanta el rosado. Y no porque sea cosas de chicas. Los que me 
 conocéis un poco, sabéis que odio esas distinciones sexistas, que nos etiquetan, por el 
 hecho de ser mujer, en ese perfil “bajo” de consumo de vinos facilitos, cuquis, para 
-chicas. Hoy te hablo de Izadi Larrosa.** 
+chicas. Hoy te hablo de Izadi Larrosa. 
 
 ![Vino Rosado para mujeres Izadi Larrosa 2017](https://fotos.etheriamagazine.com/2018/05/VINO-IZADI-LARROSA-mujeres.jpg "Vino Rosado para mujeres Izadi Larrosa 2017")
 

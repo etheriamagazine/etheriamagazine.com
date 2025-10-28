@@ -1,6 +1,7 @@
 ---
 title: "Islas Maldivas, mucho más que un destino para lunas de miel"
 date: 2021-03-23
+lastmod: 2024-03-01
 cover: https://fotos.etheriamagazine.com/2018/10/Maldivas-playa.jpg
 categories: 
   - organiza-tu-viaje
@@ -18,7 +19,7 @@ Maldivas, desde buceo hasta surf.
 
 ![Isla desierta en Maldivas.](https://fotos.etheriamagazine.com/2018/10/Maldivas-isla-desierta.jpg "Isla desierta en Maldivas. © Kris Ubach")
 
-Actualizado marzo de 2024 
+<!-- LEGACY_UPDATED: Actualizado marzo de 2024 -->
 
 Maldivas está compuesto por 1.190 islas coralinas de las cuales **sólo 200 están 
 habitadas**: en 110 de estas islas viven los autóctonos y las restantes 90 están 

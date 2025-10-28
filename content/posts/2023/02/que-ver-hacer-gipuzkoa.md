@@ -10,10 +10,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**La costa guipuzcoana nos ha atrapado con sus pueblos, gastronomía y retazos de 
-historia recortada por el oleaje, mientras que en tierra adentro han sido sus paisajes 
-pastoriles los que nos han embelesado. En esta guía esencial hemos elegido algunas de 
-esas maravillas que tienes que ver en Gipuzkoa, sí o sí, sin perder nunca el norte.** 
+La costa guipuzcoana nos ha atrapado con sus pueblos, gastronomía y retazos de historia 
+recortada por el oleaje, mientras que en tierra adentro han sido sus paisajes pastoriles 
+los que nos han embelesado. En esta guía esencial hemos elegido algunas de esas 
+maravillas que tienes que ver en Gipuzkoa, sí o sí, sin perder nunca el norte. 
 
 ![Vistas de Mutriku desde el monte Arno, uno de los lugares que hay que ver en Gipuzkoa](https://fotos.etheriamagazine.com/2023/02/guipuzcoa-monte-arno-mutriku.jpg "Vistas de Mutriku desde el monte Arno. © Basquetour.")
 

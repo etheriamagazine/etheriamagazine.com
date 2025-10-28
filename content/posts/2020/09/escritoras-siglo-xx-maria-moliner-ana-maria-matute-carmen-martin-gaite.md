@@ -11,11 +11,11 @@ authors:
   - Pilar Ortega
 ---
 
-**En pleno siglo XX –y comienzos del siglo XXI– vivieron una serie de mujeres que 
-lograron destacar en un universo literario e intelectual donde no lo tenían nada fácil. 
-María Moliner, Ana María Matute y Carmen Martín Gaite se suman a nuestras rutas por la 
-España de las grandes autoras y nos llevan a Salamanca, Barcelona y Zaragoza, sus 
-entornos más íntimos.** 
+En pleno siglo XX –y comienzos del siglo XXI– vivieron una serie de mujeres que lograron 
+destacar en un universo literario e intelectual donde no lo tenían nada fácil. María 
+Moliner, Ana María Matute y Carmen Martín Gaite se suman a nuestras rutas por la España 
+de las grandes autoras y nos llevan a Salamanca, Barcelona y Zaragoza, sus entornos más 
+íntimos. 
 
 ![Ana María Matutes, Carmen Martín Gaite y María Moliner.](https://fotos.etheriamagazine.com/2020/08/portada-escritoras-siglo-xx.jpg "Ana María Matutes, Carmen Martín Gaite y María Moliner.")
 

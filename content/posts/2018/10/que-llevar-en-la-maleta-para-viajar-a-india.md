@@ -13,10 +13,10 @@ authors:
   - Cristina R. Bareño
 ---
 
-**India es uno de esos destinos que solemos planear con tiempo porque representa un 
-sueño largamente acariciado. Como viajeras que queremos llevar bien planificado todos 
-los detalles, también debemos tener en cuenta qué vamos a necesitar en una maleta para 
-viajar a la India, sobre todo en lo que a vestimenta se refiere.** 
+India es uno de esos destinos que solemos planear con tiempo porque representa un sueño 
+largamente acariciado. Como viajeras que queremos llevar bien planificado todos los 
+detalles, también debemos tener en cuenta qué vamos a necesitar en una maleta para 
+viajar a la India, sobre todo en lo que a vestimenta se refiere. 
 
 ![maleta con fular y camara de fotos](https://fotos.etheriamagazine.com/2018/10/maleta-viaje-india.jpg "Planifica tu maleta a la India con tiempo suficiente para que no te falte de nada.")
 

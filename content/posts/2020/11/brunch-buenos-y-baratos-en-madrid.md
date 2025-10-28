@@ -1,6 +1,7 @@
 ---
 title: "8 brunch en Madrid a muy buen precio para disfrutar del domingo"
 date: 2020-11-13
+lastmod: 2024-02-01
 cover: https://fotos.etheriamagazine.com/2020/11/brunch-madrid.jpg
 categories: 
   - viajar-con-amigas
@@ -17,7 +18,7 @@ Echa un vistazo y elige uno de ellos, no te arrepentirás.
 
 ![brunch](https://fotos.etheriamagazine.com/2020/11/brunch-madrid-1.jpg "El brunch se ha convertido en una de las mejores opciones para comenzar el domingo.")
 
-**Actualizado en febrero de 2024** 
+<!-- LEGACY_UPDATED: **Actualizado en febrero de 2024** -->
 
 Hay pocas cosas que no se puedan hacer en Madrid. Una de las propuestas más atractivas 
 que ha ido tomando fuerza en los últimos años y que tanto marida con el espíritu 

@@ -10,10 +10,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**En tierras extremeñas, entre los pliegues de la Sierra de Gredos, la encantadora 
+En tierras extremeñas, entre los pliegues de la Sierra de Gredos, la encantadora 
 geografía del Valle del Jerte es un hermoso escenario para disfrutar de las maravillas 
 de España. Lo sublime está más cerca de lo que imaginamos, y si está señalado en rojo 
-por las cerezas madurando no tiene pérdida.** 
+por las cerezas madurando no tiene pérdida. 
 
 ![Garganta de los Infiernos, en el Valle del Jerte.](https://fotos.etheriamagazine.com/2020/06/garganta-infierno-los-pilones-caceres.jpg "Garganta de los Infiernos, en el Valle del Jerte.")
 

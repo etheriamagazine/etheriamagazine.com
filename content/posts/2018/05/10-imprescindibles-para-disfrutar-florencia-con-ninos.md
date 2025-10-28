@@ -10,9 +10,9 @@ authors:
   - Susana García
 ---
 
-**Florencia es un destino perfecto para viajar con niños. Aunque pueda parecer que el 
-arte abrumará a los más pequeños, hay museos y visitas adaptadas a sus gustos. Los 
-helados y la pizza harán el resto.** 
+Florencia es un destino perfecto para viajar con niños. Aunque pueda parecer que el arte 
+abrumará a los más pequeños, hay museos y visitas adaptadas a sus gustos. Los helados y 
+la pizza harán el resto. 
 
 ![Florencia y la catedral de Santa Maria dei Fiore](https://fotos.etheriamagazine.com/2018/05/fin-semana-florencia-duomo.jpg "Florencia y la catedral de Santa Maria dei Fiore. © Marian Brandt")
 

@@ -11,11 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Si al placer de descubrir las mansiones de Getxo se le añaden algunas pinceladas de 
+Si al placer de descubrir las mansiones de Getxo se le añaden algunas pinceladas de 
 historia y arquitectura mientras la brisa del mar acaricia la cara, poco más se puede 
 pedir. En vuestro próximo viaje a Bizkaia, os animamos a vivir la bonita experiencia de 
-recorrer el Paseo de las Grandes Villas de Getxo sin perder de vista el mar 
-Cantábrico.** 
+recorrer el Paseo de las Grandes Villas de Getxo sin perder de vista el mar Cantábrico. 
 
 ![Paseo de las Grandes Villas de Getxo.](https://fotos.etheriamagazine.com/2023/11/getxo-paseo-grandes-villas.jpg "Paseo de las Grandes Villas de Getxo con panel interpretativo en primer plano.")
 

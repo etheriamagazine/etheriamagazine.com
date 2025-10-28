@@ -11,10 +11,10 @@ authors:
   - Pedro Grifol
 ---
 
-**La mayoría de los que visitan la capital castellano-manchega lo hacen sólo de día… ¡y 
-en un solo día! No saben lo que se pierden, porque fuera de las rutas habituales, Toledo 
+La mayoría de los que visitan la capital castellano-manchega lo hacen sólo de día… ¡y en 
+un solo día! No saben lo que se pierden, porque fuera de las rutas habituales, Toledo 
 tiene otros secretos para descubrir cuando la noche la cubre de misterio. Descubre que 
-visitas originales puedes hacer en Toledo.** 
+visitas originales puedes hacer en Toledo. 
 
 ![calle de Toledo por la noche](https://fotos.etheriamagazine.com/2019/08/que-hacer-toledo-noche.jpg "La noche en Toledo es mágica. ©P. Grifol")
 

@@ -10,9 +10,9 @@ authors:
   - Pedro Grifol
 ---
 
-**Bangkok se puede disfrutar de dos maneras: abandonándote al relax de un masaje o dando 
+Bangkok se puede disfrutar de dos maneras: abandonándote al relax de un masaje o dando 
 rienda suelta al paladar… En Etheria Magazine creemos que las dos opciones se pueden 
-combinar perfectamente en un viaje con amigas.** 
+combinar perfectamente en un viaje con amigas. 
 
 ![Cóctel en Vértigo & Moon Bar para un viaje a Bangkok con amigas](https://fotos.etheriamagazine.com/2019/10/viaje-amigas-tailandia-Coctel-en-Vertigo-Moon-Bar.jpg "Cóctel en Vértigo & Moon Bar (Bangkok).")
 

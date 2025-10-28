@@ -11,10 +11,10 @@ authors:
   - Carmen Bengoechea
 ---
 
-**Cuando la savia de la vid regresa al corazón de la planta y se prepara para el 
-letargo, el paisaje del viñedo se vuelve misterioso entre la niebla y las primeras 
-escarchas del invierno. Para que disfrutes de este entorno mágico, te invitamos a 
-recorrer La Rioja Baja para conocer su riqueza natural, histórica y gastronómica.** 
+Cuando la savia de la vid regresa al corazón de la planta y se prepara para el letargo, 
+el paisaje del viñedo se vuelve misterioso entre la niebla y las primeras escarchas del 
+invierno. Para que disfrutes de este entorno mágico, te invitamos a recorrer La Rioja 
+Baja para conocer su riqueza natural, histórica y gastronómica. 
 
 ![vinas la rioja, paisaje la rioja baja](https://fotos.etheriamagazine.com/2019/12/paisaje-la-rioja-baja.jpg "Paisaje de viñedos en La Rioja. ©RVRO")
 

@@ -10,15 +10,14 @@ authors:
   - Pepa G. Marín
 ---
 
-**No es Disneyland París ni Port Aventura –y tampoco puede considerarse un parque de 
-ocio– pero los niños disfrutan y aprenden en este lugar sobre un periodo importante en 
-la historia de España. El Muelle de las Carabelas de La Rábida (Huelva), combinado con 
-el cercano monasterio de La Rábida, es una visita didáctica ideal para toda la 
-familia.** 
+No es Disneyland París ni Port Aventura –y tampoco puede considerarse un parque de ocio– 
+pero los niños disfrutan y aprenden en este lugar sobre un periodo importante en la 
+historia de España. El Muelle de las Carabelas de La Rábida (Huelva), combinado con el 
+cercano monasterio de La Rábida, es una visita didáctica ideal para toda la familia. 
 
 ![muelle carabelas huelva descubrimiento america](https://fotos.etheriamagazine.com/2018/09/Huelva-Parque-Carabelas-conjunto.jpg "Muelle de las Carabelas en La Rábida (Huelva).")
 
-Actualizado 2023 
+<!-- LEGACY_UPDATED: Actualizado 2023 -->
 
 Aquella época de navegantes y de hombres curtidos que se hacían a la mar en busca de 
 nuevos horizontes queda muy lejos. Pero, también, es cierto que sobre la expedición que 

@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Hablar de vinos es hacerlo de personas, de familias, de entrega y de ilusiones. 
-Algunos de esos vinos que cada año enamoran son los que elabora en las Rías Baixas las 
-Bodegas Santiago Ruiz. De Rosa Ruiz, de su padre y de su abuelo, y, también, de la añada 
-2022 de sus dos vinos más emblemáticos te hablamos a continuación.** 
+Hablar de vinos es hacerlo de personas, de familias, de entrega y de ilusiones. Algunos 
+de esos vinos que cada año enamoran son los que elabora en las Rías Baixas las Bodegas 
+Santiago Ruiz. De Rosa Ruiz, de su padre y de su abuelo, y, también, de la añada 2022 de 
+sus dos vinos más emblemáticos te hablamos a continuación. 
 
 ![Rosa Ruiz, al frente de bodegas Santiago Ruiz.](https://fotos.etheriamagazine.com/2023/09/rosa-ruiz-bodeguera.jpg "Rosa Ruiz, al frente de bodegas Santiago Ruiz.")
 

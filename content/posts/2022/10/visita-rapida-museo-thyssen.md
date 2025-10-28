@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**El Museo Thyssen-Bornemisza de Madrid posee una de las colecciones de arte más 
+El Museo Thyssen-Bornemisza de Madrid posee una de las colecciones de arte más 
 increíbles del mundo. Como no siempre se tiene el tiempo que se desea para visitar un 
 museo, te proponemos una visita rápida deteniéndote en 15 de sus obras más importantes, 
-todas fundamentales para la Historia del Arte.** 
+todas fundamentales para la Historia del Arte. 
 
 ![entrada al Museo Thyssen de Madrid](https://fotos.etheriamagazine.com/2022/10/fachada-museo-thyssen.jpg "Fachada del Museo Thyssen-Bornemisza. © Pablo Casares")
 

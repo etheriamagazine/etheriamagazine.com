@@ -8,10 +8,10 @@ authors:
   - Manena Munar
 ---
 
-**Que la realidad supera a la fantasía lo sabemos todos. Que los enredos más 
-complicados, las situaciones más inesperadas, y los encuentros fortuitos más imposibles 
-pasan, también lo sabemos. Pero nadie, pocos –parece que Bill Gates lo vaticinó en 2015– 
-imaginaron que pudiésemos llegar a esta crisis sanitaria mundial.** 
+Que la realidad supera a la fantasía lo sabemos todos. Que los enredos más complicados, 
+las situaciones más inesperadas, y los encuentros fortuitos más imposibles pasan, 
+también lo sabemos. Pero nadie, pocos –parece que Bill Gates lo vaticinó en 2015– 
+imaginaron que pudiésemos llegar a esta crisis sanitaria mundial. 
 
 ![soledad del coronavirus](https://fotos.etheriamagazine.com/2020/04/soledad-coronavirus.jpg "La vida desde la ventana. © Alex Ivashenko")
 

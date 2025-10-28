@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Todos los destinos tienen una faceta más conocida y otra que descubres después de 
-muchas visitas. A nosotras nos interesa esa 'cara b', pero tomaremos un atajo y será una 
+Todos los destinos tienen una faceta más conocida y otra que descubres después de muchas 
+visitas. A nosotras nos interesa esa 'cara b', pero tomaremos un atajo y será una 
 experta reincidente quien nos la cuente. Mar Sánchez Villalta comparte con nosotras sus 
-recomendaciones de Isla Mauricio.** 
+recomendaciones de Isla Mauricio. 
 
 ![Paddle surf en Isla Mauricio.](https://fotos.etheriamagazine.com/2019/03/isla-mauricio-padle-surf.jpg "Paddle surf en Isla Mauricio.")
 

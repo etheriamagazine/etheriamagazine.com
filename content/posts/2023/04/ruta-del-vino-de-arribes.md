@@ -10,12 +10,12 @@ authors:
   - Pepa G. Marín
 ---
 
-**Teresa, Susana, Ángeles, Mar, Olvido, Julia, Loli, Noelia, Liliana, Isabel... la 
-energía de estas mujeres impulsa con fuerza el turismo en la Ruta del Vino de Arribes. 
-Como si de una frenética savia se tratara, su ilusión, buen hacer y entrega llegan a 
-muchos rincones de este territorio que, como muchos otros, se enfrenta al estigma de la 
-España vaciada. Hoy día, son la cara visible de pequeñas empresas que configuran una 
-propuesta idónea para viajeras que busquen gastronomía, cultura y naturaleza.** 
+Teresa, Susana, Ángeles, Mar, Olvido, Julia, Loli, Noelia, Liliana, Isabel... la energía 
+de estas mujeres impulsa con fuerza el turismo en la Ruta del Vino de Arribes. Como si 
+de una frenética savia se tratara, su ilusión, buen hacer y entrega llegan a muchos 
+rincones de este territorio que, como muchos otros, se enfrenta al estigma de la España 
+vaciada. Hoy día, son la cara visible de pequeñas empresas que configuran una propuesta 
+idónea para viajeras que busquen gastronomía, cultura y naturaleza. 
 
 ![Viñedos de El Hato y el Garabato.](https://fotos.etheriamagazine.com/2023/04/Hato-Garabato-zamora.jpg "Viñedos de El Hato y el Garabato.")
 

@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Nada más entrar al hotel Castillo de Gorraiz & Spa te das cuenta de que no te has 
+Nada más entrar al hotel Castillo de Gorraiz & Spa te das cuenta de que no te has 
 equivocado en tu elección para esta escapada en pareja. El entorno, los pequeños 
 detalles en la decoración y la calidez del recibimiento anticipan que no vas a querer 
-moverte de aquí en todo el fin de semana.** 
+moverte de aquí en todo el fin de semana. 
 
 ![Hotel Castillo de Gorraiz Golf & Spa.](https://fotos.etheriamagazine.com/2019/03/hotel-castillo-gormaiz-exterior.jpg "Hotel Castillo de Gorraiz Golf & Spa.")
 

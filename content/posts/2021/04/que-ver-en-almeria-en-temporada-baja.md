@@ -13,10 +13,10 @@ authors:
   - Susana García
 ---
 
-**Cada kilómetro de Almería cautiva por sus paisajes inmensos y despejados, su mar 
+Cada kilómetro de Almería cautiva por sus paisajes inmensos y despejados, su mar 
 presente y ese gusto por la vida tranquila que tanto seduce. Aquí os contamos qué ver en 
 Almería fuera de temporada alta, con los mismos encantos de siempre (y mucha menos 
-gente).** 
+gente). 
 
 ![Playa de los Escullos o del Arco en Cabo de Gata.](https://fotos.etheriamagazine.com/2018/11/almeria-playa-escullos.jpg "Playa de los Escullos o del Arco en Cabo de Gata.")
 

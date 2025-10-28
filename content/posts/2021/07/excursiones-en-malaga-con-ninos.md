@@ -1,6 +1,7 @@
 ---
 title: "8 excursiones en Málaga para hacer con niños"
 date: 2021-07-12
+lastmod: 2025-04-01
 cover: https://fotos.etheriamagazine.com/2021/07/Malaga-ninos-teleferico.jpg
 categories: 
   - viajar-en-familia
@@ -16,7 +17,7 @@ teleférico y hasta unas cuevas. No os vais a aburrir ni un momento.
 
 ![Selwo Aventura, una actividad en Málaga con niños](https://fotos.etheriamagazine.com/2021/07/Malaga-ninos-selwo.jpg "Selwo Aventura. © Parques Reunidos")
 
-Artículo actualizado en abril de 2025 
+<!-- LEGACY_UPDATED: Artículo actualizado en abril de 2025 -->
 
 Si eliges un destino como la costa malagueña para pasar tus vacaciones en familia seguro 
 que tu principal objetivo es disfrutar del sol y la playa. Pero esta provincia ofrece 

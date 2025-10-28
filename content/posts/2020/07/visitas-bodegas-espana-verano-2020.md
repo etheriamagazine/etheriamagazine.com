@@ -11,10 +11,10 @@ authors:
   - Vanesa Viñolo
 ---
 
-**Para este verano te proponemos 11 bodegas donde hacer una parada. Unas son históricas, 
+Para este verano te proponemos 11 bodegas donde hacer una parada. Unas son históricas, 
 otras destacan por su diseño y modernidad, algunas producen unas pocas botellas de vino 
 y otras son grandes elaboradoras… Pero todas se han puesto las pilas y han adaptado sus 
-instalaciones y experiencias para que sean 100% seguras.** 
+instalaciones y experiencias para que sean 100% seguras. 
 
 ![Vino al atardecer en Bodegas Mar de Frades](https://fotos.etheriamagazine.com/2020/07/bodegas-mar-de-frades-atardecer.jpg "Vino al atardecer en © Bodegas Mar de Frades")
 

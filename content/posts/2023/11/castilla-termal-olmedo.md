@@ -11,12 +11,12 @@ authors:
   - Pepa G. Marín
 ---
 
-**Mujeres tan ilustres como Santa Teresa de Jesús o la reina Juana I de Castilla 
+Mujeres tan ilustres como Santa Teresa de Jesús o la reina Juana I de Castilla 
 descansaron en las antiguas celdas del convento de Sancti Spiritus. Sin embargo, si 
 regresaran hoy día se encontrarían un tipo de retiro mucho más atractivo. Estamos 
 seguras de que optarían por quedarse a vivir para siempre en el actual balneario 
 Castilla Termal Olmedo, un lugar excepcional para recuperar el bienestar físico y 
-espiritual en Valladolid.** 
+espiritual en Valladolid. 
 
 ![Patio Mudéjar, en el Castilla Termal Olmedo](https://fotos.etheriamagazine.com/2023/11/castilla-termal-olmedo-patio-mudejar.jpg "Patio Mudéjar, en el Castilla Termal Olmedo (Valladolid).")
 

@@ -9,11 +9,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Durante 9 días no encontrarás a un bilbaíno en su casa, andan en la calle con una 
-única misión: divertirse en la Semana Grande de Bilbao. Entre el sonido de los 
-tamborileros y txistularis todo tipo de espectáculos envuelven la ría, calles y 
-recintos, mientras las konparsas avivan el carácter más popular con sus bailes y 
-música.** 
+Durante 9 días no encontrarás a un bilbaíno en su casa, andan en la calle con una única 
+misión: divertirse en la Semana Grande de Bilbao. Entre el sonido de los tamborileros y 
+txistularis todo tipo de espectáculos envuelven la ría, calles y recintos, mientras las 
+konparsas avivan el carácter más popular con sus bailes y música. 
 
 ![La fiesta inunda las calles durante la Semana Grande de Bilbao.](https://fotos.etheriamagazine.com/2019/07/Bilbao-semana-grande-diversion-e1563519727502.jpg "La fiesta inunda las calles durante la Semana Grande de Bilbao.")
 

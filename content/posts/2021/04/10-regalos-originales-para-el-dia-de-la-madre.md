@@ -9,11 +9,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Una madre se merece siempre que tengas un detalle con ella, y si pertenece a la 
+Una madre se merece siempre que tengas un detalle con ella, y si pertenece a la 
 categoría denominada “mala madre” porque no renuncia a disfrutar de la vida, ¡incluso 
 dos! Si tu madre es de las que les gusta salir con sus amigas, tomar un buen vino, 
 organiza escapadas todo el tiempo y se ríe hasta de su sombra, tenemos para ella más de 
-un regalo original para el Día de la Madre.** 
+un regalo original para el Día de la Madre. 
 
 ![vino diamante regalo original para el dia de la madre](https://fotos.etheriamagazine.com/2021/04/vino-diamante-dia-madre.jpg "Pack Diamante para el Día de la Madre.")
 

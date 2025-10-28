@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Un viaje a República Dominicana siempre es una alegría porque es un destino con tan 
+Un viaje a República Dominicana siempre es una alegría porque es un destino con tan 
 buenas vibraciones que parece que lo único que hay que meter en el equipaje son las 
 ganas de pasarlo bien. Aún así, si eres de hacer listados, te vendrán bien estos básicos 
-que es conveniente llevar en la maleta a Punta Cana. ¡Comprueba si te falta algo!** 
+que es conveniente llevar en la maleta a Punta Cana. ¡Comprueba si te falta algo! 
 
 ![Una viajera entra en el mar con un bañador y un sombrero](https://fotos.etheriamagazine.com/2023/04/amigas-punta-cana.jpg "En Punta Cana hay básicos como bañador, gafas de sol y sombrero que no debes olvidar. © Chelsea Gates")
 

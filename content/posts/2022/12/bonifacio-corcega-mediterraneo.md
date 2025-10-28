@@ -10,10 +10,10 @@ authors:
   - Pedro Grifol
 ---
 
-**Bonifacio está en la isla de Córcega, una de las islas francesas más desconocidas y un 
+Bonifacio está en la isla de Córcega, una de las islas francesas más desconocidas y un 
 auténtico refugio mediterráneo. Su perfil colgado de las rocas costeras te seducirá al 
 instante, pero además está lleno de historia, leyendas y rincones secretos. ¿Te vienes a 
-visitar una de las poblaciones más bellas del Mediterráneo?** 
+visitar una de las poblaciones más bellas del Mediterráneo? 
 
 ![Puerto de Bonifacio por la noche.](https://fotos.etheriamagazine.com/2022/11/Bonifacio-castillo.jpg "Puerto de Bonifacio por la noche. © Bonifacio Tourisme")
 

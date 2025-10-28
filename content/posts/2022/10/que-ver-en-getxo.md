@@ -10,10 +10,10 @@ authors:
   - Pilar Ortega
 ---
 
-**Pocos lugares como Getxo reúnen en un territorio tan pequeño una diversidad de 
+Pocos lugares como Getxo reúnen en un territorio tan pequeño una diversidad de 
 atractivos turísticos tan espectacular. Es uno de esos “place to be” del norte de España 
 para disfrutar y volver, porque siempre nos deja con ganas de más. Te vamos a desvelar 
-los 15 lugares imprescindibles de Getxo con un toque cultural.** 
+los 15 lugares imprescindibles de Getxo con un toque cultural. 
 
 ![GetxoFolk, una de las citas imprescindibles en Getxo.](https://fotos.etheriamagazine.com/2022/10/getxo-folk.jpg "GetxoFolk, una de las citas imprescindibles en Getxo.")
 

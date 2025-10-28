@@ -12,12 +12,12 @@ authors:
   - Sania Jelic
 ---
 
-**Tras recorrer el Altiplano boliviano y los paisajes lunares del Salar de Uyuni, Sania 
-se dirige a la región minera de Potosí, un lugar complejo para una mujer que viaja sola. 
+Tras recorrer el Altiplano boliviano y los paisajes lunares del Salar de Uyuni, Sania se 
+dirige a la región minera de Potosí, un lugar complejo para una mujer que viaja sola. 
 Después, el viaje por Bolivia continúa por dos grandes ciudades: Sucre, la capital 
 administrativa, y La Paz, una gran urbe a tres mil quinientos metros de altura. Una 
 etapa donde se acerca a las tradiciones bolivianas y a mujeres empoderadas como las 
-cholitas luchadoras. Y, como siempre, nos lo cuenta en primera persona.** 
+cholitas luchadoras. Y, como siempre, nos lo cuenta en primera persona. 
 
 ![panorámica de Sucre con Sania](https://fotos.etheriamagazine.com/2023/03/sania-sucre.jpg "Sania en Sucre. © Sania Jelic.")
 

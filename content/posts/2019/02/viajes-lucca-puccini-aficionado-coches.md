@@ -1,6 +1,7 @@
 ---
 title: "Una excursión en coche a Lucca con Puccini"
 date: 2019-02-21
+lastmod: 2025-08-01
 cover: https://fotos.etheriamagazine.com/2019/02/puccini.jpg
 categories: 
   - organiza-tu-viaje
@@ -18,7 +19,7 @@ Italia.
 
 ![Imagen de Puccini en su casa museo](https://fotos.etheriamagazine.com/2019/02/puccini.jpg "Puccini sentado al piano en su casa de Milán. © Casa Museo Puccini")
 
-Actualizado 8/2025 
+<!-- LEGACY_UPDATED: Actualizado 8/2025 -->
 
 Giacomo Puccini (Lucca, 1854 – Bruselas, 1924) pasó a la historia por haber compuesto 
 óperas tan sublimes como _Tosca_, _Madame Butterfly_ o _Turandot_, pero el genial 

@@ -10,10 +10,10 @@ authors:
   - Pilar Ortega
 ---
 
-**Monumentos, gastronomía, cultura, playas, historia… la Ciudad Condal nos brinda mil y 
+Monumentos, gastronomía, cultura, playas, historia… la Ciudad Condal nos brinda mil y 
 una posibilidades para pasarlo en grande. Os invitamos a disfrutar de todos sus 
 atractivos a través de estos 10 planes originales para hacer con amigas en Barcelona. 
-¿Cuántos vais a hacer el próximo fin de semana?** 
+¿Cuántos vais a hacer el próximo fin de semana? 
 
 ![Casa Vicens en la ruta gaudi](https://fotos.etheriamagazine.com/2020/08/planes-barcelona-casa-vicens.jpg "Casa Vicens, diseñada por Gaudí (Barcelona). © David Cardelus/ Casa Vicens")
 

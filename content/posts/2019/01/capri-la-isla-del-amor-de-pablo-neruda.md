@@ -17,7 +17,7 @@ amor con Matilde Urrutia.
 
 ![Marina Pequeña de Capri.](https://fotos.etheriamagazine.com/2019/01/viaje-capri.jpg "Marina Pequeña de Capri. © Martyna Bober")
 
-**Actualizado en 2024** 
+<!-- LEGACY_UPDATED: **Actualizado en 2024** -->
 
 Pablo Neruda fue un gran poeta. Eso nadie lo duda y ahí está su Nobel de Literatura. 
 Pero también fue un hombre que sufrió y padeció a causa del exilio y por un amor 

@@ -10,12 +10,12 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**¡Viajeras a bordo! Nos hacemos a la mar para alcanzar los 60 grados norte donde se 
+¡Viajeras a bordo! Nos hacemos a la mar para alcanzar los 60 grados norte donde se 
 hallan las islas Shetland. A mitad de camino entre Gran Bretaña y Noruega, son un 
 paraíso verde de prados festoneados por el oleaje del Atlántico Norte. Marino o rural, 
 no te pierdas ninguno de sus paisajes porque esconden un exclusivo encanto escocés. 
 Sigue leyendo porque te damos 10 pistas para no perderte lo imprescindible en estas 
-islas.** 
+islas. 
 
 ![mujer en las islas shetland de escocia](https://fotos.etheriamagazine.com/2019/03/que-ver-islas-shetland.jpg "Los paisajes de las islas Shetland son únicos.")
 

@@ -10,10 +10,10 @@ authors:
   - Eva Madruga
 ---
 
-**A la península del Niágara llegan cada año más de catorce millones de viajeros para 
+A la península del Niágara llegan cada año más de catorce millones de viajeros para 
 contemplar sus famosas cataratas. Una vez visto este espectáculo natural merece la pena 
 aprovechar el viaje para descubrir también su sobresaliente turismo enológico. Te 
-revelamos algunas de las sorpresas vinícolas que podrás encontrar en Canadá.** 
+revelamos algunas de las sorpresas vinícolas que podrás encontrar en Canadá. 
 
 ![enoturismo en canada, viajes a canada, vinos en niagara](https://fotos.etheriamagazine.com/2018/11/viaje-mujeres-vinos-canada-niagara-2.jpg "Canadá es un destino de moda para amantes de la gastronomía y el vino. ©Wineries of Niagara-on-the-Lake.")
 

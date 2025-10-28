@@ -1,6 +1,7 @@
 ---
 title: "20 restaurantes románticos de Ibiza para ir en pareja"
 date: 2020-02-14
+lastmod: 2023-07-01
 cover: https://fotos.etheriamagazine.com/2020/02/restaurantes-romanticos-la-torre-vistas.jpg
 categories: 
   - estilo-de-vida
@@ -11,15 +12,15 @@ authors:
   - Nuria Cortés
 ---
 
-**Los restaurantes de Ibiza son uno de los grandes atractivos de la isla, pues en un 
+Los restaurantes de Ibiza son uno de los grandes atractivos de la isla, pues en un 
 espacio relativamente pequeño se ofrece gran diversidad para disfrutar de una excelente 
 cena o comida en pareja. Nuestra siguiente selección incluye restaurantes románticos de 
 todo tipo, desde un chiringuito rústico con vistas a Ibiza hasta el primer restaurante 
-de Ibiza con estrella Michelin.** 
+de Ibiza con estrella Michelin. 
 
 ![ibiza romantica, ibiza en pareja](https://fotos.etheriamagazine.com/2020/02/Ibiza-en-pareja.jpg "Ibiza es aún más romántica al caer el sol. © Vicent Marí/ Consell d'Eivissa")
 
-Actualizado en julio 2023 
+<!-- LEGACY_UPDATED: Actualizado en julio 2023 -->
 
 Ibiza puede ser un destino perfecto para ir en pareja, por mucho que creas que es la 
 isla de la fiesta por antonomasia. Más allá de las zonas donde se encuentran los clubes 

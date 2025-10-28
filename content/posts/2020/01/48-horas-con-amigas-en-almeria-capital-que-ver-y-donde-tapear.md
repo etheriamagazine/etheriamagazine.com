@@ -1,6 +1,7 @@
 ---
 title: "Qué hacer en Almería en un viaje con amigas"
 date: 2020-01-10
+lastmod: 2024-04-01
 cover: https://fotos.etheriamagazine.com/2020/01/Almeria-Mercado-Central.jpg
 categories: 
   - viajar-con-amigas
@@ -16,7 +17,7 @@ para hacer una escapada con amigas a una de las capitales con más sabor de Anda
 
 ![Ruta de los sabores por Almería.](https://fotos.etheriamagazine.com/2020/01/ruta-bares-almeria.jpg "Ruta de los sabores por Almería. © Pepa García")
 
-Actualizado en abril de 2024 
+<!-- LEGACY_UPDATED: Actualizado en abril de 2024 -->
 
 Si habéis decidido que vuestro próximo destino será urbano y andaluz, nuestra sugerencia 
 es que elijáis la capital almeriense. No es la primera ciudad que se suele plantear para 

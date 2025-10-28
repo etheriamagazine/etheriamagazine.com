@@ -1,6 +1,7 @@
 ---
 title: "Guía para disfrutar de Brasil sin mitos ni prejuicios"
 date: 2018-11-26
+lastmod: 2025-08-01
 cover: https://fotos.etheriamagazine.com/2018/11/Brasil-cristo-redentor.jpg
 categories: 
   - organiza-tu-viaje
@@ -19,7 +20,7 @@ maravillosos paisajes brasileños.
 
 ![Pan de Azucar en Brasil](https://fotos.etheriamagazine.com/2018/11/Brasil-rio-de-janeiro.jpg "Teleférico de Pan de Azúcar (Río de Janeiro).")
 
-Actualizada 8/2025 
+<!-- LEGACY_UPDATED: Actualizada 8/2025 -->
 
 En este artículo la escritora y periodista Elisabeth G. Iborra nos cuenta de primera 
 mano cómo las cosas no son siempre lo que parecen. Un ejemplo es Brasil (un país que 

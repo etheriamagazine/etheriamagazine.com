@@ -10,11 +10,11 @@ authors:
   - Yvonne Solé
 ---
 
-**Cosmopolita, moderna, a la vanguardia del diseño y abierta al mar. Barcelona es ideal 
+Cosmopolita, moderna, a la vanguardia del diseño y abierta al mar. Barcelona es ideal 
 para una escapada, especialmente con los más pequeños de la casa, una cualidad avalada 
 por Unicef en 2007 que la reconoció como Ciudad Amiga de la Infancia debido a su amplio 
 abanico de propuestas lúdicas y culturales. Te proponemos los mejores planes con niños 
-en Barcelona para descubrirla en familia.** 
+en Barcelona para descubrirla en familia. 
 
 ![paseo en barco por Barcelona](https://fotos.etheriamagazine.com/2018/10/viaje-familia-barcelona-golondrinas.jpg "Las Golondrinas son las embarcaciones históricas que navegan por la costa barcelonesa.")
 

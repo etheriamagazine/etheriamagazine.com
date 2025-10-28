@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**El nuevo itinerario de “El Prado en femenino” es el reflejo de la primera edición del 
+El nuevo itinerario de “El Prado en femenino” es el reflejo de la primera edición del 
 simposio “Protagonistas femeninas” que tuvo lugar en marzo de 2022 y que continuará en 
 2023 bajo el nombre “Protagonistas femeninas en la formación de las colecciones del 
-Museo del Prado II. De Isabel de Borbón a Mariana de Neoburgo”.** 
+Museo del Prado II. De Isabel de Borbón a Mariana de Neoburgo”. 
 
 ![Infanta Isabel Clara Eugenia, pintada por Pedro Pablo Rubens and Jan Brueghel el Viejo. © Museo Nacional del Prado.](https://fotos.etheriamagazine.com/2022/12/isabel-clara-eugenia.jpg "Infanta Isabel Clara Eugenia, pintada por Pedro Pablo Rubens y Jan Brueghel el Viejo. © Museo Nacional del Prado.")
 

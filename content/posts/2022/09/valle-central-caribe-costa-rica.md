@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Una escapada al Valle Central de Costa Rica permite apreciar la naturaleza más pura 
+Una escapada al Valle Central de Costa Rica permite apreciar la naturaleza más pura 
 salpicada de selvas, cataratas y volcanes, las dinámicas propuestas culturales de San 
 José y la belleza de las cercanas playas del Caribe. En este paraíso podrás conocer a 
 Marielos Corea, Mayra Gayle y Andrea Sánchez, tres grandes mujeres expertas en 
-artesanía, cultura y hostelería.** 
+artesanía, cultura y hostelería. 
 
 ![Playa y chiringuito de Puerto Viejo, en Costa Rica.](https://fotos.etheriamagazine.com/2022/09/Puerto-Viejo-costa-rica.jpg "Animado ambiente de Puerto Viejo, en Costa Rica. © Turismo de Costa Rica")
 

@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**La Capilla del Surf es el primer museo dedicado íntegramente a este deporte en 
-Canarias y uno de los más completos de nuestro país. Si viajas a Tenerife, tienes una 
-cita con este templo de la cultura surfista en Bajamar, una población de San Cristóbal 
-de La Laguna.** 
+La Capilla del Surf es el primer museo dedicado íntegramente a este deporte en Canarias 
+y uno de los más completos de nuestro país. Si viajas a Tenerife, tienes una cita con 
+este templo de la cultura surfista en Bajamar, una población de San Cristóbal de La 
+Laguna. 
 
 ![Jesús Dionis, Tato, ha sido el impulsor de la Capilla del Surf.](https://fotos.etheriamagazine.com/2023/03/tato-dionis-museo-surf.jpg "Jesús Dionis, Tato, ha sido el impulsor de la Capilla del Surf.")
 

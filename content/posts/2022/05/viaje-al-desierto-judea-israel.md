@@ -10,9 +10,9 @@ authors:
   - Kelu Robles
 ---
 
-**Oasis, comunas, leyendas heroicas, rollos bíblicos y hedonismo en el mar Muerto. El 
+Oasis, comunas, leyendas heroicas, rollos bíblicos y hedonismo en el mar Muerto. El 
 desierto de Judea reúne los ingredientes necesarios para hacer realidad la terapia 
-desestresante que merecemos. ¿Nos acompañas a este viaje a Israel?** 
+desestresante que merecemos. ¿Nos acompañas a este viaje a Israel? 
 
 ![Montañas del desierto de Judea con formas curiosas.](https://fotos.etheriamagazine.com/2022/05/Desierto-Judea-israel.jpg "Algunas figuras erosionadas del desierto se asemejan a personajes bíblicos. © Kelu Robles")
 

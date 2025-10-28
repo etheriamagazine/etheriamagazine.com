@@ -11,11 +11,11 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-**Si ya has estado en Mallorca, seguramente conocerás sus virtudes gastronómicas, pero 
+Si ya has estado en Mallorca, seguramente conocerás sus virtudes gastronómicas, pero 
 quizás te faltan estos lugares recomendados por los locales (con la boca pequeñita) y 
 que muchas veces no quieren que se difundan para que no se inunden de turistas. Así que 
 toma nota de estos 10 secretos para vivir la gastronomía de Mallorca como si fueras de 
-allí.** 
+allí. 
 
 ![Pato de tuetano del restaurante The Merchants en Mallorca](https://fotos.etheriamagazine.com/2022/10/Mallorca-THE-MERCHANT-tuetano.jpg "Tartar de ternera en hueso de tuétano de © The Merchants Steak&Grill.")
 

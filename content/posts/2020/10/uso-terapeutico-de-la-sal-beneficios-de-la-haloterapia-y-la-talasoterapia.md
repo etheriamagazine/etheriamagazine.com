@@ -9,12 +9,12 @@ authors:
   - Maria Miret
 ---
 
-**Tradicionalmente utilizada como remedio casero, la sal no es solo un condimento. 
+Tradicionalmente utilizada como remedio casero, la sal no es solo un condimento. 
 Conocida por sus propiedades antisépticas, antiinflamatorias y antibacterianas, el uso 
 terapéutico de los baños de sal combate el estrés, la talasoterapia utiliza el poder 
 curativo del mar y la haloterapia está indicada para problemas respiratorios y 
 dermatológicos. Además, un consumo moderado de sal en la dieta es necesario para la 
-salud. Conoce en este artículo todos los beneficios que nos aporta la sal.** 
+salud. Conoce en este artículo todos los beneficios que nos aporta la sal. 
 
 ![cuevas de sal en salt room](https://fotos.etheriamagazine.com/2020/10/beneficios-sal-Salt-Room.jpg "Cueva de sal en © Salt Room.")
 

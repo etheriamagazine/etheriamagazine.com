@@ -1,6 +1,7 @@
 ---
 title: "Islas Eolias, 6 placeres entre el cielo y el infierno"
 date: 2020-07-31
+lastmod: 2024-04-01
 cover: https://fotos.etheriamagazine.com/2020/07/islas-eolias-Strombolicchio.jpg
 categories: 
   - viajar-con-amigas
@@ -19,7 +20,7 @@ artificios.
 
 ![vulcano, islas eolias, islas italianas](https://fotos.etheriamagazine.com/2020/07/islas-eolias-vulcano.jpg "Vulcano, en las islas Eolias.")
 
-Actualizado en abril de 2024. 
+<!-- LEGACY_UPDATED: Actualizado en abril de 2024. -->
 
 Eolo, el mítico dios griego capaz de controlar los vientos, dio nombre a este puñado de 
 islas envueltas de un intenso azul mediterráneo. En esta geografía inhóspita y 

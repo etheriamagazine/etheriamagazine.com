@@ -9,10 +9,10 @@ authors:
   - Redacción Etheria
 ---
 
-**No es sencillo elegir un libro para regalar a un familiar o amigo pero nos 
-atreveríamos a decir que las posibilidades de acertar con algunas de estas 11 obras son 
-muy altas. ¿Por qué? Porque todas ellas nos aportan conocimiento en diversos campos 
-(mujeres, viajes, fotografía, cocina o música) y detrás hay grandes profesionales.** 
+No es sencillo elegir un libro para regalar a un familiar o amigo pero nos atreveríamos 
+a decir que las posibilidades de acertar con algunas de estas 11 obras son muy altas. 
+¿Por qué? Porque todas ellas nos aportan conocimiento en diversos campos (mujeres, 
+viajes, fotografía, cocina o música) y detrás hay grandes profesionales. 
 
 ![Libros para el verano](https://fotos.etheriamagazine.com/2019/12/libros-regalos-mujeres-viajeras.jpg)
 

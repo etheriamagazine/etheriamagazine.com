@@ -8,10 +8,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Los amantes del vino, el aceite y la aceituna tienen una cita en Iberovinac, la Feria 
+Los amantes del vino, el aceite y la aceituna tienen una cita en Iberovinac, la Feria 
 gastronómica de Almendralejo. Reserva un hueco en tu agenda a finales de marzo para 
 acudir a esta vigésimo segunda edición que contará con más de 60 expositores de 
-Extremadura, Galicia y Portugal. Profesionales y público general son bienvenidos.** 
+Extremadura, Galicia y Portugal. Profesionales y público general son bienvenidos. 
 
 ![Las catas de vino son una de las actividades de Iberovinac.](https://fotos.etheriamagazine.com/2023/02/Iberovinac-cata-vino.jpg "Las catas de vino son una de las actividades de Iberovinac.")
 

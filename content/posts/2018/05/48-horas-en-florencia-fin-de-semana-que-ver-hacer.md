@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-**Hay tanto arte en Florencia que una vida entera no daría para contemplar con el tiempo 
+Hay tanto arte en Florencia que una vida entera no daría para contemplar con el tiempo 
 que merecen todos sus tesoros artísticos. Un fin de semana al menos permite disfrutar de 
 su ambiente y de sus lugares más emblemáticos, esos que forman parte de la historia del 
-arte y de la humanidad.** 
+arte y de la humanidad. 
 
 ![Florencia y la catedral de Santa Maria dei Fiore.](https://fotos.etheriamagazine.com/2018/05/fin-semana-florencia-duomo.jpg "Florencia y la catedral de Santa Maria dei Fiore. © Marian Brandt")
 

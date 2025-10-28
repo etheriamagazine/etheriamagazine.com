@@ -10,11 +10,11 @@ authors:
   - Pedro Grifol
 ---
 
-**El 15 de agosto se celebra la colocación de las primeras baldosas-estrella en el Paseo 
+El 15 de agosto se celebra la colocación de las primeras baldosas-estrella en el Paseo 
 de la Fama de Hollywood, 3 mujeres y 5 hombres, hace más de sesenta años. Para empezar 
 (era el siglo pasado) ¡no está mal! Hay que ver el lado positivo. En este artículo de 
 damos detalles de cómo está la cuota de género en Hollywood a través de las baldosas de 
-su Paseo de la Fama.** 
+su Paseo de la Fama. 
 
 ![estrellas en el paseo de la fama en hollywood](https://fotos.etheriamagazine.com/2018/08/viaje-los-angeles-Paseo-de-la-Fama-de-Hollywood-etheria.jpg "El Paseo de la Fama es una de las visitas básicas en Los Ángeles.")
 

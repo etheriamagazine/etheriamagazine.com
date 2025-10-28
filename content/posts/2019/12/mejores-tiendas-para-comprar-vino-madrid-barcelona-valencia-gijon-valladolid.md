@@ -11,11 +11,11 @@ authors:
   - Vanesa Viñolo
 ---
 
-**En este artículo nuestra experta en vinos, Vanesa Viñolo, te da las claves para 
+En este artículo nuestra experta en vinos, Vanesa Viñolo, te da las claves para 
 encontrar el vino perfecto y el lugar más adecuado donde comprarlo para ser la 
 anfitriona o invitada más aclamada. Elige una de estas tiendas de vinos en Madrid, 
 Barcelona, Valencia, Gijón, Valladolid, o bien una tienda online, y les dejarás con la 
-boca abierta.** 
+boca abierta. 
 
 ![copas de vino en decoración navideña](https://fotos.etheriamagazine.com/2019/12/vinotecas-navidad.jpg "El vino es fundamental en las cenas navideñas. © Element5 Digital")
 

@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-**Nueva York, como todas las metrópolis, con ese halo de ciudad llena de prisas y de 
-gente suele parecer inabarcable para un viaje en familia. Pero no hay que tener miedo a 
+Nueva York, como todas las metrópolis, con ese halo de ciudad llena de prisas y de gente 
+suele parecer inabarcable para un viaje en familia. Pero no hay que tener miedo a 
 lanzarse a disfrutar de la Gran Manzana con niños porque siguiendo algunas pistas todo 
-resulta más sencillo.** 
+resulta más sencillo. 
 
 ![Pradera de Central Park](https://fotos.etheriamagazine.com/2018/07/nueva-york-familia-central-park.jpg "Juegos en Central Park.")
 

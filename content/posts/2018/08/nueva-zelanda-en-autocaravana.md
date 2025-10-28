@@ -10,10 +10,10 @@ authors:
   - Cristina R. Bareño
 ---
 
-**Naturaleza extrema, inmensos paisajes de ensueño, la posibilidad de experimentar un 
+Naturaleza extrema, inmensos paisajes de ensueño, la posibilidad de experimentar un 
 silencio profundo y sentir una desconexión infinita… Nueva Zelanda es, sin duda, uno de 
 los destinos que se deben visitar al menos una vez en la vida y hacerlo en autocaravana 
-es un plan perfecto.** 
+es un plan perfecto. 
 
 ![Monte Cook, Nueva Zelanda.](https://fotos.etheriamagazine.com/2018/08/viaje-caravana-nueva-zelanda-Mount-Cook.jpg "Monte Cook, Nueva Zelanda. ©CRB")
 

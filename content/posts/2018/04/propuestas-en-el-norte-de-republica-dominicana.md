@@ -10,11 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Uno de los destinos más apetecibles y amables del Caribe es República Dominicana. 
-Ideal si viajas con amigas, en familia o en pareja. Por supuesto, también puedes viajar 
-sola, aunque sola estarás poco... En este artículo hemos seleccionado algunas visitas y 
-excursiones imprescindibles que puedes hacer en el norte de la isla. ¡Que las 
-disfrutes!** 
+Uno de los destinos más apetecibles y amables del Caribe es República Dominicana. Ideal 
+si viajas con amigas, en familia o en pareja. Por supuesto, también puedes viajar sola, 
+aunque sola estarás poco... En este artículo hemos seleccionado algunas visitas y 
+excursiones imprescindibles que puedes hacer en el norte de la isla. ¡Que las disfrutes! 
 
 ![bahía en República Dominicana](https://fotos.etheriamagazine.com/2018/04/Rep-Dominicana-Bayahibe.jpg "El azul turquesa del mar es la mejor invitación al baño en República Dominicana.")
 

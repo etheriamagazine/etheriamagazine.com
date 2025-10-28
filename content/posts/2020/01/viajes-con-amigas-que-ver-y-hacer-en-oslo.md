@@ -10,9 +10,9 @@ authors:
   - Marina Paul
 ---
 
-**La capital Noruega es una ciudad que se presta a ser destino de fin de semana y 
-también a formar parte de recorridos más prolongados en este país. En este artículo te 
-contamos qué ver en Oslo en tu primera visita.** 
+La capital Noruega es una ciudad que se presta a ser destino de fin de semana y también 
+a formar parte de recorridos más prolongados en este país. En este artículo te contamos 
+qué ver en Oslo en tu primera visita. 
 
 ![Mercado mathallen en Oslo](https://fotos.etheriamagazine.com/2020/01/mercado-oslo-Mathallen.jpg "Mathallen es un mercado gastronómico donde probar la cocina local. © CH/ Visit Norway")
 

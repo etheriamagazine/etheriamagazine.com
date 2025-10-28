@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Nos sobran razones para viajar a Francia en cualquier época del año, pero como el 
-verano está a la vuelta de la esquina y es un momento perfecto para disfrutar de las 
-vacaciones y el buen tiempo, te damos 10 razones para viajar a Francia durante la época 
-estival. Desde exposiciones y monumentos imprescindibles hasta rutas en bicicleta o 
-eventos únicos. ¿Te vienes?** 
+Nos sobran razones para viajar a Francia en cualquier época del año, pero como el verano 
+está a la vuelta de la esquina y es un momento perfecto para disfrutar de las vacaciones 
+y el buen tiempo, te damos 10 razones para viajar a Francia durante la época estival. 
+Desde exposiciones y monumentos imprescindibles hasta rutas en bicicleta o eventos 
+únicos. ¿Te vienes? 
 
 ![Bicicletas en la ribera del Sena en la zona de Conflans-Saint-Honorine.](https://fotos.etheriamagazine.com/2022/03/seine-a-velo-Saint-Honorine.jpg "Ribera del Sena en la zona de Conflans-Saint-Honorine. © David Darrault–La Seine a Vélo")
 

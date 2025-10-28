@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Vivir la experiencia de alojarnos en un faro es un sueño para muchos de nosotros. Un 
+Vivir la experiencia de alojarnos en un faro es un sueño para muchos de nosotros. Un 
 deseo que podemos cumplir en el histórico Faro Punta Cumplida, uno de los hoteles más 
 singulares de La Palma. ¿Y si nos damos el capricho y, de paso, disfrutamos de un 
-romántico viaje a La Palma?** 
+romántico viaje a La Palma? 
 
 ![Hotel Faro Punta Cumplida por la noche.](https://fotos.etheriamagazine.com/2019/05/Faro-Punta-Cumplida-noche.jpg "Hotel Faro Punta Cumplida por la noche.")
 

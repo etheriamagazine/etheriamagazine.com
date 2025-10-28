@@ -9,11 +9,11 @@ authors:
   - Pepa G. Marín
 ---
 
-**La Ruta Gastronómica del Atún en Conil de la Frontera, que tiene lugar entre el 10 y 
-el 31 de julio, cuenta con la participación de 35 restaurantes, bares, ventas e, 
-incluso, chiringuitos dispuestos a ofrecer sus elaboraciones más creativas con el atún 
-rojo como protagonista. A continuación encontrarás un listado de estos establecimientos 
-y de sus respectivas especialidades. ¡Disfruta del atún y buen provecho!** 
+La Ruta Gastronómica del Atún en Conil de la Frontera, que tiene lugar entre el 10 y el 
+31 de julio, cuenta con la participación de 35 restaurantes, bares, ventas e, incluso, 
+chiringuitos dispuestos a ofrecer sus elaboraciones más creativas con el atún rojo como 
+protagonista. A continuación encontrarás un listado de estos establecimientos y de sus 
+respectivas especialidades. ¡Disfruta del atún y buen provecho! 
 
 ![ruta atun conil, restaurante el buche](https://fotos.etheriamagazine.com/2020/07/ruta-del-atun-hotel-fuerte.jpg "Restaurante El Buche © Hotel Fuerte Conil-Resort.")
 

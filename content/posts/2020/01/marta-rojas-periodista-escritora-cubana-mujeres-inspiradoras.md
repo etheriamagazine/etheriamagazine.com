@@ -10,10 +10,10 @@ authors:
   - Manena Munar
 ---
 
-**La reconocida cronista y escritora cubana Marta Rojas recibe a nuestra compañera 
-Manena Munar en su casa para contarnos su trayectoria profesional y compartir recuerdos. 
-No sólo ha cubierto guerras y conflictos políticos sino que sus libros son base de 
-estudio para muchos historiadores.** 
+La reconocida cronista y escritora cubana Marta Rojas recibe a nuestra compañera Manena 
+Munar en su casa para contarnos su trayectoria profesional y compartir recuerdos. No 
+sólo ha cubierto guerras y conflictos políticos sino que sus libros son base de estudio 
+para muchos historiadores. 
 
 ![Marta Rojas en su casa.](https://fotos.etheriamagazine.com/2020/01/cuba-marta-rojas-libro.jpg "Marta Rojas en su casa. © Manena Munar")
 

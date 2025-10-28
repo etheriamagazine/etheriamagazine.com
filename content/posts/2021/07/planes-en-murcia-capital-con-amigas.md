@@ -1,6 +1,7 @@
 ---
 title: "Planes para comerte Murcia con amigas"
 date: 2021-07-29
+lastmod: 2023-10-01
 cover: https://fotos.etheriamagazine.com/2021/07/Mercado-de-Correos-murcia.jpg
 categories: 
   - viajar-con-amigas
@@ -10,14 +11,14 @@ authors:
   - Cynthia Martín
 ---
 
-**Conocer la Región de Murcia con amigas puede ser el plan que necesitas este año. La 
+Conocer la Región de Murcia con amigas puede ser el plan que necesitas este año. La 
 capital, Murcia, ofrece playas, monumentos, historia y parajes maridados con nuevas 
 propuestas gastronómicas y una completa oferta para el paladar. No olvides que fue 
-Capital Española de la Gastronomía hace unos años.** 
+Capital Española de la Gastronomía hace unos años. 
 
 ![Tapeo junto al mar en Collados Beach, Murcia.](https://fotos.etheriamagazine.com/2021/07/Collados-Beach-murcia.jpg "Tapeo junto al mar en © Collados Beach, Murcia.")
 
-**Actualizado 10/2023** 
+<!-- LEGACY_UPDATED: **Actualizado 10/2023** -->
 
 A pesar de su reducida extensión, la Región de Murcia es un oasis para todos los 
 sentidos. Encajada entre las llanuras manchegas, el levante valenciano y el sur andaluz, 

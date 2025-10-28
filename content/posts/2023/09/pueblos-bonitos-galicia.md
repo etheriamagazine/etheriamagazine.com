@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-**En Galicia se podría hacer una lista infinita de lugares que visitar, desde sus 
-ciudades históricas hasta sus frondosos bosques o preciosas playas. En este caso nos 
-fijamos en diez bonitos pueblos de Galicia de esos que te llenan un viaje, tanto por sus 
-preciosos cascos antiguos como por los parajes que los rodean. Diez lugares de paz donde 
-desconectar del mundo y centrarse en lo importante.** 
+En Galicia se podría hacer una lista infinita de lugares que visitar, desde sus ciudades 
+históricas hasta sus frondosos bosques o preciosas playas. En este caso nos fijamos en 
+diez bonitos pueblos de Galicia de esos que te llenan un viaje, tanto por sus preciosos 
+cascos antiguos como por los parajes que los rodean. Diez lugares de paz donde 
+desconectar del mundo y centrarse en lo importante. 
 
 ![horreo de Combarro en Galicia](https://fotos.etheriamagazine.com/2023/09/pueblos-galicia-combarro.jpg "Combarro está situado en la ría de Pontevedra.")
 

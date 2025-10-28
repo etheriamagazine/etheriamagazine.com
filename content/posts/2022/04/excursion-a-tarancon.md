@@ -11,10 +11,10 @@ authors:
   - Yolanda Cardo
 ---
 
-**Hacer una excursión a Tarancón para comer el "mejor chuletón del mundo" es un motivo 
-más que justificado. Pero si, además, se añaden visitas a Segóbriga, las Caras de 
-Buendía, Ocaña y el monasterio de Uclés, se convierte en una escapada redonda a menos de 
-una hora de Madrid.** 
+Hacer una excursión a Tarancón para comer el "mejor chuletón del mundo" es un motivo más 
+que justificado. Pero si, además, se añaden visitas a Segóbriga, las Caras de Buendía, 
+Ocaña y el monasterio de Uclés, se convierte en una escapada redonda a menos de una hora 
+de Madrid. 
 
 ![Panorámica aérea de Tarancón.](https://fotos.etheriamagazine.com/2022/04/Vista-Tarancon.jpg "Panorámica aérea de Tarancón. ©Ayto. de Tarancón")
 

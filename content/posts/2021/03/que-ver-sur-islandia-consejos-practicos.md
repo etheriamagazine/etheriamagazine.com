@@ -1,6 +1,7 @@
 ---
 title: "Guía de viaje por el sur de Islandia, la isla del desafío"
 date: 2021-03-25
+lastmod: 2025-08-01
 cover: https://fotos.etheriamagazine.com/2018/09/PLAYA-VIK-e1562343946595.jpg
 categories: 
   - organiza-tu-viaje
@@ -18,7 +19,7 @@ carreteras sin asfaltar y una naturaleza extrema que no se anda con chiquitas.
 
 ![naturaleza geología viajes](https://fotos.etheriamagazine.com/2018/09/Islandia-geyser-Strokkur-e1562343836861.jpg "El geyser Strokkur en la región termal de Haukadalur.")
 
-**Actualizado 8/2025** 
+<!-- LEGACY_UPDATED: **Actualizado 8/2025** -->
 
 El título que da nombre a este reportaje no es nada casual. Y es que todo aquello que en 
 otros lugares puede parecer trivial, en Islandia se convierte en una Aventura en 

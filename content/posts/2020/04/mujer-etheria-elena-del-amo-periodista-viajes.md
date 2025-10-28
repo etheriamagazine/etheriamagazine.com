@@ -9,11 +9,11 @@ authors:
   - Pepa G. Marín
 ---
 
-**Periodista de viajes, curiosa por naturaleza y una gran viajera. Enamorada de Estambul 
-y de Marruecos, nunca dice "no" a una nueva aventura; la última, seguir lo pasos de 
+Periodista de viajes, curiosa por naturaleza y una gran viajera. Enamorada de Estambul y 
+de Marruecos, nunca dice "no" a una nueva aventura; la última, seguir lo pasos de 
 expedicionarios como Shackelton, Scott y Amundsen en su conquista del Polo Sur. Elena 
 del Amo nos cuenta sus aventuras y algún que otro secreto en nuestra sección Mujeres 
-Etheria, dedicada a mujeres inspiradoras.** 
+Etheria, dedicada a mujeres inspiradoras. 
 
 ![Elena del Amo en la Antártida.](https://fotos.etheriamagazine.com/2020/04/elena-amo-antartida.jpg "Elena del Amo en la Antártida. © Luis Davilla")
 

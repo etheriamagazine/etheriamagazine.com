@@ -16,7 +16,7 @@ Ordino-Arcalís, Vallnord Pal-Arinsal y Grandvalira.
 
 ![novedades esqui andorra, temporada 2019 esqui andorra](https://fotos.etheriamagazine.com/2018/12/raquetas-mujer-andorra.jpg)
 
-Histórico de Etheria Magazine: 2018 
+<!-- LEGACY_INFO: Histórico de Etheria Magazine: 2018 -->
 
 Con más de 300 kilómetros de pistas, Andorra es uno de los destinos europeos de esquí 
 más cercanos con pistas para todos los niveles y una amplia oferta complementaria para 

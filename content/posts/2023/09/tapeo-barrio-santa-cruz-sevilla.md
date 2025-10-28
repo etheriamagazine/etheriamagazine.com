@@ -10,10 +10,10 @@ authors:
   - Alfredo G. Reyes
 ---
 
-**Te llevamos de la mano para que descubras la faceta gastronómica del sevillano Barrio 
-de Santa Cruz a través de sus bares de toda la vida, las terrazas con las mejores vistas 
-y los restaurantes de cocina internacional que están modernizando el barrio. Acompáñanos 
-en la ruta más deliciosa por el corazón de Sevilla, te vas a chupar los dedos.** 
+Te llevamos de la mano para que descubras la faceta gastronómica del sevillano Barrio de 
+Santa Cruz a través de sus bares de toda la vida, las terrazas con las mejores vistas y 
+los restaurantes de cocina internacional que están modernizando el barrio. Acompáñanos 
+en la ruta más deliciosa por el corazón de Sevilla, te vas a chupar los dedos. 
 
 ![Piscina y terraza del © hotel Los Seises.](https://fotos.etheriamagazine.com/2023/08/sevilla-santa-cruz-hotel-seises-piscina.jpg "Piscina y terraza del © hotel Los Seises.")
 

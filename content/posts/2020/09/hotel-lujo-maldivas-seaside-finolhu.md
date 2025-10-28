@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Cuando se unen un destino paradisíaco y un hotel de lujo, de esos de los que no 
-querrías marcharte, se consigue una escapada perfecta. El Seaside Finolhu y el atolón 
-Baa de las Maldivas logran esa unión y demuestran que este archipiélago también es una 
-bendición para los viajes activos, ya sean en pareja, con amigos o en familia.** 
+Cuando se unen un destino paradisíaco y un hotel de lujo, de esos de los que no querrías 
+marcharte, se consigue una escapada perfecta. El Seaside Finolhu y el atolón Baa de las 
+Maldivas logran esa unión y demuestran que este archipiélago también es una bendición 
+para los viajes activos, ya sean en pareja, con amigos o en familia. 
 
 ![Viajes a Maldivas en pareja](https://fotos.etheriamagazine.com/2020/09/hotel-seaside-finolhu-playa.jpg "Playa del hotel Seaside Finolhu.")
 

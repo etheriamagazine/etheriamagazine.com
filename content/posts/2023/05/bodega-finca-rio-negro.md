@@ -11,11 +11,11 @@ authors:
   - Susana García
 ---
 
-**Guadalajara guarda un secreto en forma de bodega en el corazón de su Sierra Norte. 
-Finca Río Negro sorprende por muchas cosas, pero sobre todo por la calidad y 
-originalidad de sus vinos: entre los mejores vinos de autor a precios razonables que 
-existen. Y, además de disfrutarlos, te recomendamos recorrer esta bodega situada a mil 
-metros de altura. ¡Un planazo con amigas para todo el año!** 
+Guadalajara guarda un secreto en forma de bodega en el corazón de su Sierra Norte. Finca 
+Río Negro sorprende por muchas cosas, pero sobre todo por la calidad y originalidad de 
+sus vinos: entre los mejores vinos de autor a precios razonables que existen. Y, además 
+de disfrutarlos, te recomendamos recorrer esta bodega situada a mil metros de altura. 
+¡Un planazo con amigas para todo el año! 
 
 ![cinco botellas de vino de Finca Río Negro](https://fotos.etheriamagazine.com/2023/05/finca-bodega-rio-negro-vinos.jpg "Vinos de la bodega Finca Río Negro. © Susana García")
 

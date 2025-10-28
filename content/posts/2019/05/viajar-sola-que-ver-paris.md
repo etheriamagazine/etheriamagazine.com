@@ -1,6 +1,7 @@
 ---
 title: "Qué hacer en París si viajas sola"
 date: 2019-05-15
+lastmod: 2025-09-01
 cover: https://fotos.etheriamagazine.com/2019/04/Viajar-sola-Paris.jpg
 categories: 
   - viajar-sola
@@ -16,7 +17,7 @@ de viajar sola, aunque si lo haces acompañada esta guía te servirá igualmente
 
 ![viajar sola paris](https://fotos.etheriamagazine.com/2019/04/Viajar-sola-Paris.jpg "Viajar sola a París. © Artem/ Adobe Stock")
 
-Actualizado 09/2025 
+<!-- LEGACY_UPDATED: Actualizado 09/2025 -->
 
 No voy a preguntar el motivo, la decisión está tomada y quieres realizar un viaje sola. 
 Quizá sea el primero al que te enfrentas sin compañía, quizá seas ya toda una experta en 

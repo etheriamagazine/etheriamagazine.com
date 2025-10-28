@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-**Viajar a Centroeuropa en invierno es un placer. Vale, hace frío y anochece pronto, 
-pero ¿hay una experiencia navideña comparable a deambular por un mercadillo entre las 
-luces, los adornos y el aroma del vino caliente? Te ayudamos a organizar un fin de 
-semana para conocer los mercados de Navidad de Zúrich.** 
+Viajar a Centroeuropa en invierno es un placer. Vale, hace frío y anochece pronto, pero 
+¿hay una experiencia navideña comparable a deambular por un mercadillo entre las luces, 
+los adornos y el aroma del vino caliente? Te ayudamos a organizar un fin de semana para 
+conocer los mercados de Navidad de Zúrich. 
 
 ![Vista desde el puente Rathaus Brücke en Zúrich](https://fotos.etheriamagazine.com/2018/10/Zurich-vista-desde-el-río.jpg "Vista desde el puente Rathaus Brücke. ©Switzerland Tourism/Christof Sonderegger")
 

@@ -10,12 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Alemania da para mucho y tiene tantos atractivos que la Unesco ha reconocido 51 de 
-ellos como Patrimonio de la Humanidad. Para acercarlos a los viajeros, la Oficina de 
-Turismo, en colaboración con el Instituto Goethe, ha organizado una exposición 
-interactiva e inmersiva que te lleva a algunos de los más llamativos a través de cuatro 
-rutas. Después ya sólo queda visitar este maravilloso país al que querrás volver una y 
-otra vez.** 
+Alemania da para mucho y tiene tantos atractivos que la Unesco ha reconocido 51 de ellos 
+como Patrimonio de la Humanidad. Para acercarlos a los viajeros, la Oficina de Turismo, 
+en colaboración con el Instituto Goethe, ha organizado una exposición interactiva e 
+inmersiva que te lleva a algunos de los más llamativos a través de cuatro rutas. Después 
+ya sólo queda visitar este maravilloso país al que querrás volver una y otra vez. 
 
 ![Exposición interactiva sobre el Patrimonio de la Humanidad por la Unesco de Alemania.](https://fotos.etheriamagazine.com/2023/06/exposicion-instituto-goethe-alemania.jpg "Exposición interactiva sobre el Patrimonio de la Humanidad por la Unesco de Alemania. © ONAT")
 

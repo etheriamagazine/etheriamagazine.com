@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Para acabar bien 2022 o empezar 2023 de la mejor manera, las propuestas del exclusivo 
+Para acabar bien 2022 o empezar 2023 de la mejor manera, las propuestas del exclusivo 
 hotel Six Senses Douro Valley puede ser lo que necesitas. Sus retiros espirituales están 
 dirigidos por expertos y son un gran regalo para ti misma o para alguien especial que 
-creas que los necesita.** 
+creas que los necesita. 
 
 ![Six Senses Douro Valley, un universo para los amantes del vino](https://fotos.etheriamagazine.com/2022/11/vendimia-six-sense-douro-valley.jpg "El entorno del hotel forma parte de la experiencia.")
 

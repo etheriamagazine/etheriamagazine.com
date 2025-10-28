@@ -11,9 +11,9 @@ authors:
   - Manena Munar
 ---
 
-**Al entrar en Valencia se percibe una agradable sensación de bienestar. Su luz 
+Al entrar en Valencia se percibe una agradable sensación de bienestar. Su luz 
 mediterránea, los aromas de las flores, las calles llenas de comercios coquetos y 
-salpicadas por edificios del modernismo valenciano, y el mar. ¿Qué más se puede pedir?** 
+salpicadas por edificios del modernismo valenciano, y el mar. ¿Qué más se puede pedir? 
 
 ![escultura, malvarrosa, viaje valencia, compras valencia, diseno valencia](https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-valencia-malvarrosa-6876.jpg "Escultura camino de la Malvarrosa. © Manena Munar")
 

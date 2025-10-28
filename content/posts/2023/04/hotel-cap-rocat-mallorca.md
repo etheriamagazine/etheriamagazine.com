@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-**La bulliciosa Mallorca es capaz de guardar secretos en forma de rincones de paz como 
-el exclusivo hotel Cap Rocat, miembro de Small Luxury Hotels of the World. Date el 
-capricho de alojarte unos días en este hotel de lujo de Mallorca y vivirás la isla de 
-una forma diferente. Este establecimiento es un auténtico castillo donde es posible 
-disfrutar del silencio incluso en los meses de temporada alta.** 
+La bulliciosa Mallorca es capaz de guardar secretos en forma de rincones de paz como el 
+exclusivo hotel Cap Rocat, miembro de Small Luxury Hotels of the World. Date el capricho 
+de alojarte unos días en este hotel de lujo de Mallorca y vivirás la isla de una forma 
+diferente. Este establecimiento es un auténtico castillo donde es posible disfrutar del 
+silencio incluso en los meses de temporada alta. 
 
 ![Entrada del hotel Cap Rocat](https://fotos.etheriamagazine.com/2023/04/Cap-Rocat-entrada.jpg "Entrada del hotel Cap Rocat.")
 

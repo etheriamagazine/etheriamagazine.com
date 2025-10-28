@@ -9,10 +9,10 @@ authors:
   - Pilar Ortega
 ---
 
-**Fueron mujeres decididas y valientes que trazaron rutas donde no las había, que 
+Fueron mujeres decididas y valientes que trazaron rutas donde no las había, que 
 jalonaron retos que parecían imposibles y que dejaron un legado impagable. Estaban 
 hechas de una madera muy especial, de una materia por la que resbalaban los prejuicios 
-sociales.** 
+sociales. 
 
 ![Alexandra David-Neel, la sembradora de estrellas (Libro Intrépidas).](https://fotos.etheriamagazine.com/2018/05/Intrepidas-Alexandra_dn.jpg "Alexandra David-Neel, la sembradora de estrellas (Libro Intrépidas).")
 

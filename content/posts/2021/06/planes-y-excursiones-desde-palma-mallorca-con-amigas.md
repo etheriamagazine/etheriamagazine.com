@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-**La capital de Mallorca es una de las ciudades que más alternativas ofrece para el ocio 
+La capital de Mallorca es una de las ciudades que más alternativas ofrece para el ocio 
 en la isla. En una escapada a Palma con amigas podrás disfrutar del mar, de las compras, 
 de la vida nocturna y del turismo activo. En este artículo os ofrecemos 8 planes para 
 sacarle todo el jugo a esta preciosa ciudad, además de algunas excursiones divertidas 
-desde Palma.** 
+desde Palma. 
 
 ![Castillo Bellver con Palma de Mallorca al fondo](https://fotos.etheriamagazine.com/2021/06/palma-mallorca-castell-bellver.jpg "Palma de Mallorca.")
 

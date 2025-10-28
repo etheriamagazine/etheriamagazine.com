@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-**Antes de realizar un viaje a Costa Rica con niños hay que tener en cuenta una serie de 
+Antes de realizar un viaje a Costa Rica con niños hay que tener en cuenta una serie de 
 factores que, si los conocemos de antemano, nos ayudarán en la planificación del 
 itinerario. En cualquier caso, este país es un destino fácil y lo único que no puedes 
-olvidarte son las ganas de disfrutar.** 
+olvidarte son las ganas de disfrutar. 
 
 ![Niño cogiendo café en Costa Rica](https://fotos.etheriamagazine.com/2018/05/Costa-Rica-paisaje.jpg "Mirador en el camino de San José a Guanacaste. © SG")
 

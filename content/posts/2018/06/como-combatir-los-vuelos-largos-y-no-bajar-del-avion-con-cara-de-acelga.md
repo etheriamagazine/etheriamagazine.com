@@ -9,9 +9,9 @@ authors:
   - Susana García
 ---
 
-**Las condiciones de la cabina de un avión no son las mejores para la piel pero con unos 
+Las condiciones de la cabina de un avión no son las mejores para la piel pero con unos 
 sencillos gestos y la ayuda de la bendita cosmética podemos conseguir incluso comenzar 
-las vacaciones con buena cara desde el primer instante.** 
+las vacaciones con buena cara desde el primer instante. 
 
 ![Una viajera camina por el aeropuerto con una bolsa.](https://fotos.etheriamagazine.com/2018/06/neceser-para-avion-mujer-aerpuerto.jpg "la piel se apaga tras los vuelos largos")
 

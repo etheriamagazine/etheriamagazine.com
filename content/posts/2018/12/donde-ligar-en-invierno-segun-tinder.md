@@ -18,7 +18,7 @@ son mayores. Sigue leyendo si eres curiosa o si buscas compañía...
 
 ![ligar viajes de esqui](https://fotos.etheriamagazine.com/2018/11/ligar-estaciones-esqui.jpg)
 
-Histórico de Etheria Magazine: 2018 
+<!-- LEGACY_INFO: Histórico de Etheria Magazine: 2018 -->
 
 ¿Conocer a través de una aplicación a otras personas le resta magia? Puede que sí pero, 
 desde luego, _apps_ como Tinder son cada día más demandadas. Y no lo decimos nosotras, 

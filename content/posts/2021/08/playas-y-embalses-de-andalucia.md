@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Andalucía nos gana por muchas cosas, pero cuando llega el verano sus playas y embalses 
+Andalucía nos gana por muchas cosas, pero cuando llega el verano sus playas y embalses 
 se convierten en un elemento de primera necesidad. Aquí hemos seleccionado 15 lugares de 
 lo más refrescantes (10 playas y 5 embalses) donde darse un baño de esos cuyo recuerdo 
-hará más llevadero el resto del año.** 
+hará más llevadero el resto del año. 
 
 ![Playa de Bolonia.](https://fotos.etheriamagazine.com/2021/08/Andalucia-playa-bolonia.jpg "Playa de Bolonia (Cádiz). © Turismo de Andalucía")
 

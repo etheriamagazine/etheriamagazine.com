@@ -10,12 +10,12 @@ authors:
   - Cristina Fernández
 ---
 
-**A pesar de ser destrozada casi en su totalidad durante la II Guerra Mundial, Hamburgo 
+A pesar de ser destrozada casi en su totalidad durante la II Guerra Mundial, Hamburgo 
 supo renacer de sus cenizas, y ¡vaya si lo hizo! Esta antigua ciudad hanseática es hoy 
 una urbe cosmopolita repleta de atractivos. Rica, dinámica y con una animada vida 
 nocturna, presume de ser la puerta del mundo gracias a su activo puerto, el más grande 
 del país. En Etheria Magazine te proponemos conocer en un fin de semana su lado más 
-canalla.** 
+canalla. 
 
 ![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-canales.jpg "Canales de Hamburgo.")
 

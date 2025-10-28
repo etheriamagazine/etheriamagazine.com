@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-**Los destinos nacionales son opciones ideales para viajar en familia gracias a la 
+Los destinos nacionales son opciones ideales para viajar en familia gracias a la 
 brevedad de los desplazamientos, la presencia de hoteles de calidad y la deliciosa 
 gastronomía local. En un viaje a la Costa Brava con niños, además de estas ventajas, se 
 abre la puerta a emocionantes talleres didácticos y actividades divertidas, que te 
-invitamos a conocer a continuación.** 
+invitamos a conocer a continuación. 
 
 ![Portada monumental de Ripoll y talleres de escritura](https://fotos.etheriamagazine.com/2023/11/viaje-familia-ripoll.jpg "Portalada monumental de Santa María de Ripoll. © D. Espada/ Arxiu Imatges PTCBG")
 

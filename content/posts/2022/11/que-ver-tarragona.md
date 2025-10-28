@@ -10,11 +10,11 @@ authors:
   - Pilar Ortega
 ---
 
-**Tanto Tarragona capital como su provincia son una lección viva de historia donde 
-seguir el rastro de numerosas civilizaciones. Acompáñanos a recorrer el casco histórico 
+Tanto Tarragona capital como su provincia son una lección viva de historia donde seguir 
+el rastro de numerosas civilizaciones. Acompáñanos a recorrer el casco histórico 
 tarraconense, los paisajes del delta de l'Ebre y del Priorat, la costa y los monasterios 
 y castillos del interior. En esta guía encontrarás los lugares imprescindibles que ver 
-en Tarragona, guárdala para tu próximo viaje.** 
+en Tarragona, guárdala para tu próximo viaje. 
 
 ![Cartuja de Escaladei, en Costa Daurada.](https://fotos.etheriamagazine.com/2022/11/costa-dorada-escaladei.jpg "Cartuja de Escaladei. © Costa Daurada/ Joan Capdevila")
 

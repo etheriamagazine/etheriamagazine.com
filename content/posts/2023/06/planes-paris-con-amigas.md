@@ -10,11 +10,11 @@ authors:
   - Susana García
 ---
 
-**París es una de esas ciudades con las que siempre aciertas. A sus incontables tesoros 
+París es una de esas ciudades con las que siempre aciertas. A sus incontables tesoros 
 arquitectónicos y artísticos se suma una personalidad única que te atrapa nada más 
 pisarla por primera vez y que hace que siempre quieras volver. Te contamos diez planes 
 que no pueden faltar en un primer viaje a París con amigas para que os salga una 
-escapada redonda.** 
+escapada redonda. 
 
 ![Notre-Dame de París.](https://fotos.etheriamagazine.com/2023/06/paris-amigas-notre-dame.jpg "Notre-Dame de París. © Susana García")
 

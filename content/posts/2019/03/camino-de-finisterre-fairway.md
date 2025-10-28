@@ -10,10 +10,10 @@ authors:
   - Kelu Robles
 ---
 
-**Lleva siglos obsesionando a celtas, romanos y cristianos de Europa. Ahora peregrinos 
-de todo el planeta descubren en el _Finis Terrae_ mucho más que un epílogo de la ruta 
+Lleva siglos obsesionando a celtas, romanos y cristianos de Europa. Ahora peregrinos de 
+todo el planeta descubren en el _Finis Terrae_ mucho más que un epílogo de la ruta 
 jacobea. Si tú también te estás planteando esta aventura, ten mucha precaución, ¡dicen 
-que engancha!** 
+que engancha! 
 
 ![Kilómetro Cero del Camino de Finisterre en Galicia.](https://fotos.etheriamagazine.com/2019/02/Mujeres-camino-santiago.jpg "Kilómetro Cero del Camino de Finisterre en Galicia. © Kelu Robles")
 

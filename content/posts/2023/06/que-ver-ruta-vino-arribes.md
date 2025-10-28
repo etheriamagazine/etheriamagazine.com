@@ -11,12 +11,12 @@ authors:
   - Pepa G. Marín
 ---
 
-**La Ruta del Vino de Arribes transcurre entre pueblos, montes, ríos y vides, cepas 
+La Ruta del Vino de Arribes transcurre entre pueblos, montes, ríos y vides, cepas 
 pequeñitas que parecen decir al pasar: “eh, que estoy aquí”. Y eso es lo que os queremos 
 contar... que están allí y que son mimadas por viticultores que se afanan cada día en 
 mejorar el presente de este territorio zamorano y salmantino. Entre bodegas y buenos 
 restaurantes también hay un buen abanico de visitas que os queremos recomendar para 
-completar esta agradable escapada.** 
+completar esta agradable escapada. 
 
 ![viñedo de la Ruta del Vino de Arribes](https://fotos.etheriamagazine.com/2023/06/ruta-vino-arribes.jpg "Ruta del Vino de Arribes. © Etheria M.")
 

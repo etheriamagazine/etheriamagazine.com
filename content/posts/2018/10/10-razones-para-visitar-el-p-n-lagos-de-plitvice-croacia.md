@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**El Parque Nacional Lagos Plitvice, situado en el corazón de Croacia, muestra su faceta 
+El Parque Nacional Lagos Plitvice, situado en el corazón de Croacia, muestra su faceta 
 más cálida y romántica en otoño. La mejor forma de disfrutar de los tonos amarillos, 
 anaranjados y rojizos es caminando por sus senderos y pasarelas. En Etheria Magazine 
-hemos seleccionado 10 motivos por los que deberías visitar este espacio.** 
+hemos seleccionado 10 motivos por los que deberías visitar este espacio. 
 
 ![Parque Nacional de los Lagos de Plitvice en otoño.](https://fotos.etheriamagazine.com/2018/10/croacia-parque-nacional-lagos-plitvice.jpg "Parque Nacional de los Lagos de Plitvice en otoño.")
 

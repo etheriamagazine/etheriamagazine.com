@@ -10,9 +10,9 @@ authors:
   - Redacción Etheria
 ---
 
-**‘Sorolla. Femenino plural’, la nueva exposición del Museo Sorolla de Madrid, muestra 
-una selección de 36 obras del artista valenciano Joaquín Sorolla donde las mujeres son 
-las protagonistas y representan diferentes roles de la época.** 
+‘Sorolla. Femenino plural’, la nueva exposición del Museo Sorolla de Madrid, muestra una 
+selección de 36 obras del artista valenciano Joaquín Sorolla donde las mujeres son las 
+protagonistas y representan diferentes roles de la época. 
 
 ![retrato de Raquel meller en museo sorolla](https://fotos.etheriamagazine.com/2020/09/Retrato-de-Raquel-Meller-Sorolla.jpg "Retrato de Raquel Meller, 1918. © Museo Sorolla")
 

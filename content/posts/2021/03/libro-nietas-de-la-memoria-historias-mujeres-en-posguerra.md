@@ -13,10 +13,10 @@ authors:
   - Carmen Pineda
 ---
 
-**Nos acercamos al libro de ensayo ‘Nietas de la Memoria’ para poner en valor a esa 
+Nos acercamos al libro de ensayo ‘Nietas de la Memoria’ para poner en valor a esa 
 generación de mujeres luchadoras y silenciosas que afrontaron la posguerra con toda la 
 dignidad que les dejaron. No se nos ocurre mejor forma de celebrar el Día de la Mujer 
-que acercar a nuestras lectoras este homenaje.** 
+que acercar a nuestras lectoras este homenaje. 
 
 ![portada libro](https://fotos.etheriamagazine.com/2021/03/libro-Nietas-de-la-Memoria.jpg "Libro 'Nietas de la memoria' de la editorial Bala Perdida.")
 

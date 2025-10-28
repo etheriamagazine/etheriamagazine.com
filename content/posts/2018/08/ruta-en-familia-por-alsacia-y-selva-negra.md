@@ -10,11 +10,10 @@ authors:
   - Susana García
 ---
 
-**La frontera franco-alemana oculta grandes sorpresas para disfrutar en familia: 
-ciudades de cuento, paisajes variados que van de la frondosa Selva Negra a los viñedos 
-de Alsacia y uno de los mejores parques de atracciones que puedas visitar: Europa Park. 
-Un viaje para hacer con niños en el que se pasa de un país a otro sin apenas darte 
-cuenta.** 
+La frontera franco-alemana oculta grandes sorpresas para disfrutar en familia: ciudades 
+de cuento, paisajes variados que van de la frondosa Selva Negra a los viñedos de Alsacia 
+y uno de los mejores parques de atracciones que puedas visitar: Europa Park. Un viaje 
+para hacer con niños en el que se pasa de un país a otro sin apenas darte cuenta. 
 
 ![Selva Negra, Alemania, viajes con niños, viajes en familia, viajes a Europa](https://fotos.etheriamagazine.com/2018/07/Cataratas-Triberg-bosque-e1557596453457.jpg "Bosque junto a las cascadas de Triberg. © Susana García")
 

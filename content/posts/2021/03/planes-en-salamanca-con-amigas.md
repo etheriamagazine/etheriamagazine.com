@@ -18,7 +18,7 @@ vas a empezar?
 
 ![restaurante en la parra de salamanca](https://fotos.etheriamagazine.com/2021/03/salamanca-En-la-parra.jpg "Restaurante En la Parra, en Salamanca. © Cynthia M.R.")
 
-**Texto y fotos: Cynthia M.R./ **Etheria Magazine 2024**** 
+<!-- LEGACY_AUTHOR: **Texto y fotos: Cynthia M.R./ **Etheria Magazine 2024**** -->
 
 Una escapada con amigas a Salamanca es la mejor manera de salir de la rutina, generar 
 nuevos recuerdos, comer fenomenal y disfrutar de la cultura de esta preciosa ciudad 

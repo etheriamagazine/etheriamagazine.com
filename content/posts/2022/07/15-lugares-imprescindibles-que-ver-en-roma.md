@@ -10,11 +10,11 @@ authors:
   - Susana García
 ---
 
-**La ciudad de Roma puede abrumar cuando planificas un viaje ante la inabarcable 
-cantidad de lugares históricos, museos y plazas famosas. Aquí hemos seleccionado los 15 
-lugares imprescindibles que tienes que ver en Roma en un primer viaje. Y te aseguramos 
-que algunos de ellos te gustarán tanto que repetirás cada vez que vuelvas a la Ciudad 
-Eterna.** 
+La ciudad de Roma puede abrumar cuando planificas un viaje ante la inabarcable cantidad 
+de lugares históricos, museos y plazas famosas. Aquí hemos seleccionado los 15 lugares 
+imprescindibles que tienes que ver en Roma en un primer viaje. Y te aseguramos que 
+algunos de ellos te gustarán tanto que repetirás cada vez que vuelvas a la Ciudad 
+Eterna. 
 
 ![Vistas de Roma desde Villa Borghese](https://fotos.etheriamagazine.com/2022/07/Roma-villa-borghese-mirador.jpg "Mirador de Villa Borghese. © Susana García/ Etheria Magazine")
 

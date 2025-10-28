@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**La ruta de los pueblos blancos de Cádiz deslumbra con sus calles retorcidas y 
-empinadas, sus buganvillas y geranios por doquier, fuentes donde el agua brota helada y 
-un entorno declarado Reserva de la Biosfera. Y esto es sólo un adelanto de la cultura, 
-la historia y la gastronomía que te espera en estas doce perlas.** 
+La ruta de los pueblos blancos de Cádiz deslumbra con sus calles retorcidas y empinadas, 
+sus buganvillas y geranios por doquier, fuentes donde el agua brota helada y un entorno 
+declarado Reserva de la Biosfera. Y esto es sólo un adelanto de la cultura, la historia 
+y la gastronomía que te espera en estas doce perlas. 
 
 ![Setenil de las bodegas pueblos blancos cadiz](https://fotos.etheriamagazine.com/2018/10/1-Setenil-de-las-bodegas-pueblos-blancos-cadiz-e1556353671335.jpg "Setenil de las Bodegas. © Pepa García")
 

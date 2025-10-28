@@ -10,11 +10,11 @@ authors:
   - Kris Ubach
 ---
 
-**Lo dicen los propios franceses: de todos los senderos de Gran Recorrido (GR) que 
-existen en su territorio, el Sentier des Douaniers es uno de los más emblemáticos. Y no 
-es de extrañar: se trata de un camino Impresionante, en mayúsculas, que recorre la 
-escarpada costa de Bretaña de extremo a extremo. Más de 2.000 kilómetros que nunca dejan 
-de mirar al mar.** 
+Lo dicen los propios franceses: de todos los senderos de Gran Recorrido (GR) que existen 
+en su territorio, el Sentier des Douaniers es uno de los más emblemáticos. Y no es de 
+extrañar: se trata de un camino Impresionante, en mayúsculas, que recorre la escarpada 
+costa de Bretaña de extremo a extremo. Más de 2.000 kilómetros que nunca dejan de mirar 
+al mar. 
 
 ![Mapa de la Bretaña francesa](https://fotos.etheriamagazine.com/2018/08/mapa-senderismo-costa-bretana-francia.jpg "Mapa GR34. © Turismo de Bretaña")
 

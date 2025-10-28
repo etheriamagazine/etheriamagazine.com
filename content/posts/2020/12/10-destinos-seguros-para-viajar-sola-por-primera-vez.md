@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Hace mucho que la mujer se “emancipó” a la hora de viajar, y aún así no siempre 
-tenemos las mejores experiencias al viajar solas. Como los consejos más fiables a la 
-hora de lanzarnos vienen siempre de otras mujeres que ya han visitado ese destino, el 
-equipo de Etheria Magazine te recomienda 10 viajes en solitario que te sorprenderán.** 
+Hace mucho que la mujer se “emancipó” a la hora de viajar, y aún así no siempre tenemos 
+las mejores experiencias al viajar solas. Como los consejos más fiables a la hora de 
+lanzarnos vienen siempre de otras mujeres que ya han visitado ese destino, el equipo de 
+Etheria Magazine te recomienda 10 viajes en solitario que te sorprenderán. 
 
 ![Mezquita de Nasirolmolk, Shiraz (Irán).](https://fotos.etheriamagazine.com/2020/12/viajar-sola-iran-shiraz.jpg "Mezquita de Nasirolmolk, Shiraz (Irán). © Steven Su")
 

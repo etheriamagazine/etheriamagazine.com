@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-**El ambiente nostálgico de Praga y su amplio catálogo monumental es la carta de 
+El ambiente nostálgico de Praga y su amplio catálogo monumental es la carta de 
 presentación de la República Checa; sin embargo, basta salir de ese perímetro mágico 
 para descubrir un país repleto de paisajes frondosos y una vida que transcurre a un 
 ritmo más pausado. Recorrer en coche o en tren el este de Chequia invita a vivir el 
-asombro en cada parada. ¿Nos acompañas a las regiones de Olomouc y Moravia-Silesia?** 
+asombro en cada parada. ¿Nos acompañas a las regiones de Olomouc y Moravia-Silesia? 
 
 ![Barcos restaurante en Praga](https://fotos.etheriamagazine.com/2023/08/ribera-moldava-praga.jpg "La ribera del Moldava está llena de vida.© Pepa García")
 

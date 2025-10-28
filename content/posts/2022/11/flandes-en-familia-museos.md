@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Flandes siempre tiene que estar en tu radar viajero porque es un destino perfecto para 
+Flandes siempre tiene que estar en tu radar viajero porque es un destino perfecto para 
 todo tipo de escapadas. Esto incluye los viajes en familia y, por ese motivo, te 
 proponemos 10 museos en Flandes para visitar con niños que darán contenido a tu viaje. 
-Los hay para todos los gustos y edades. ¡No te los pierdas!** 
+Los hay para todos los gustos y edades. ¡No te los pierdas! 
 
 ![niñas haciendo construcciones en el museo STAM de Gante](https://fotos.etheriamagazine.com/2022/11/Flandes-Stam-museum-ninas.jpg "Actividad en STAM, un museo perfecto para familias en Gante.")
 

@@ -12,10 +12,10 @@ authors:
   - Sania Jelic
 ---
 
-**Sania Jelic visita Ecuador tras vivir la experiencia de pasar dos semanas en las islas 
+Sania Jelic visita Ecuador tras vivir la experiencia de pasar dos semanas en las islas 
 Galápagos. En Cuenca y Quito ha podido disfrutar de la riqueza cultural de las dos 
 ciudades ecuatorianas. Sigue leyendo para descubrir sus recomendaciones en ambos 
-lugares.** 
+lugares. 
 
 ![Sania en Cuenca (Ecuador)](https://fotos.etheriamagazine.com/2023/04/sania-ecuador-cuenca-catedral.jpg "Sania en Cuenca (Ecuador). © Sania Jelic.")
 

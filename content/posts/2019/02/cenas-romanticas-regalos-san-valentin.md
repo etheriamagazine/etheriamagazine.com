@@ -9,10 +9,10 @@ authors:
   - Vanesa Viñolo
 ---
 
-**La excusa para hablar de cenas románticas es la llegada de San Valentín pero, 
-realmente, casi todas las propuestas que te recomendamos las puedes hacer en cualquier 
-momento y con menos corazones. Toma buena nota porque te pueden salvar un aniversario 
-olvidado o una celebración de cumpleaños. La cuestión es pasarlo bien, ¿no crees?** 
+La excusa para hablar de cenas románticas es la llegada de San Valentín pero, realmente, 
+casi todas las propuestas que te recomendamos las puedes hacer en cualquier momento y 
+con menos corazones. Toma buena nota porque te pueden salvar un aniversario olvidado o 
+una celebración de cumpleaños. La cuestión es pasarlo bien, ¿no crees? 
 
 ![cenas romanticas, dani garcia, restaurantes bibo](https://fotos.etheriamagazine.com/2019/02/cena-romantica-dani-garcia.jpg "cenas romanticas, bibo dani garcia")
 

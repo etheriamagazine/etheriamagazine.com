@@ -9,12 +9,12 @@ authors:
   - Redacción Etheria
 ---
 
-**Los vínculos con el pasado, aunque sea envuelto en leyendas, nos sirven para recordar 
+Los vínculos con el pasado, aunque sea envuelto en leyendas, nos sirven para recordar 
 momentos históricos quizá no tan lejanos pero sí relegados al olvido. Con la Fiesta de 
 las Cantaderas vuelve a la memoria una importante victoria cristiana sobre los 
 musulmanes con la que se acabó con el tributo de las cien doncellas. El 2 de octubre 
 tienes una cita en León para vivir esta fiesta de Interés Turístico Regional en primera 
-persona.** 
+persona. 
 
 ![sotadera y doncellas las cantaderas leon](https://fotos.etheriamagazine.com/2021/09/doncellas-fiesta-cantaderas.jpg "La sotadera encabeza el desfile de las jóvenes doncellas.")
 

@@ -1,6 +1,7 @@
 ---
 title: "Viaje a Sri Lanka, el país de los elefantes"
 date: 2019-02-01
+lastmod: 2025-07-01
 cover: https://fotos.etheriamagazine.com/2019/01/Viajes-mujeres-Sri-lanka-7.jpg
 categories: 
   - viajar-con-amigas
@@ -17,7 +18,7 @@ elefantes.
 
 ![Viaje de mujeres, elefantes en Sri Lanza](https://fotos.etheriamagazine.com/2019/01/Viajes-mujeres-Sri-lanka-2.jpg "Safari para ver elefantes en Sri Lanka.")
 
-Actualizado 7/2025 
+<!-- LEGACY_UPDATED: Actualizado 7/2025 -->
 
 Un viaje a Sri Lanka, la gran isla con forma de lágrima situada frente a India, nos 
 depara momentos muy emocionantes y algunos sueños cumplidos. Y en Etheria Magazine no 

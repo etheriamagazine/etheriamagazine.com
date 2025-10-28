@@ -10,9 +10,9 @@ authors:
   - Macarena Escrivá
 ---
 
-**Viajar a Marrakech con amigas es una gran idea todo el año, así que aprovecha 
-cualquier fin de semana para conocer una de las ciudades más vibrantes del planeta. 
-Elige algunos, o todos, los planes que te recomendamos y disponte a disfrutar.** 
+Viajar a Marrakech con amigas es una gran idea todo el año, así que aprovecha cualquier 
+fin de semana para conocer una de las ciudades más vibrantes del planeta. Elige algunos, 
+o todos, los planes que te recomendamos y disponte a disfrutar. 
 
 ![Tomar un té moruno forma parte del protocolo en hogares y comercios.](https://fotos.etheriamagazine.com/2018/12/marrakech-viaje-de-mujeres.jpg "Tomar un té moruno forma parte del protocolo en hogares y comercios.")
 

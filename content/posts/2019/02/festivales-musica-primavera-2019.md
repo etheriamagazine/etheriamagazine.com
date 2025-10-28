@@ -9,10 +9,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Reconócelo, empiezan a salir los rayos de sol pre-primaverales y el cuerpo empieza a 
+Reconócelo, empiezan a salir los rayos de sol pre-primaverales y el cuerpo empieza a 
 pedirte que lo desentumezcas después del frío invierno. Y para activarse, ¿puede haber 
 algo mejor que bailar? Busca tus grupos favoritos y regálate un fin de semana 
-festivalero.** 
+festivalero. 
 
 ![viajes con amigas, festivales musica, rock](https://fotos.etheriamagazine.com/2019/02/Festivales-primavera-concierto.jpg "Festivales de Música Primavera 2019.")
 

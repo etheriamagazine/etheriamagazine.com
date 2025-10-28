@@ -1,7 +1,6 @@
 ---
 title: "La Cañada Real Conquense con amigas, una escapada entre castillos, molinos y montañas"
 date: 2025-09-29
-lastmod: 2025-10-12
 cover: https://fotos.etheriamagazine.com/2025/09/caminos-merina-castillo-Belmonte.jpeg
 categories: 
   - viajar-con-amigas
@@ -19,7 +18,7 @@ Conquense, parte de uno de los Caminos de la Merina, será un acierto seguro.
 
 ![Panorámica de Belmonte, en la Cañada Rural Conquense.](https://fotos.etheriamagazine.com/2025/09/caminos-merina-Belmonte.jpeg "Panorámica de Belmonte, en la Cañada Rural Conquense.")
 
-29 septiembre 2025 
+<!-- LEGACY_INFO: 29 septiembre 2025 -->
 
 No es necesario realizar grandes desplazamientos hasta destinos lejanos o reservar 
 costosos programas de bienestar para encontrar un lugar de paz donde bajar pulsaciones y 
@@ -205,7 +204,7 @@ Trashumancia, donde se narra cómo durante siglos los pastores guiaban miles de 
 por estas mismas rutas. Y como broche final: **Albarracín**, uno de los pueblos más 
 bellos de España, con su laberinto de calles rojizas, murallas y vistas de postal. 
 
-{{< youtube id=d51W8UmjBJA title="La ganadería de Diego González"  >}}
+{{< youtube id=d51W8UmjBJA  >}}
 
 ## Una declaración de amor
 

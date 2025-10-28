@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Es difícil que hagas un viaje a México y no visites alguna zona arqueológica, ya que 
+Es difícil que hagas un viaje a México y no visites alguna zona arqueológica, ya que 
 cuentan con vestigios de culturas pasadas repartidos por todo el país. Aquí hemos 
 seleccionado 10 de los más interesantes, conocidos y accesibles. Si organizas una ruta 
-cerca, no dudes en recorrerlos.** 
+cerca, no dudes en recorrerlos. 
 
 ![El Cuadrángulo de las Monjas en el yacimiento de Uxmal.](https://fotos.etheriamagazine.com/2021/03/uxmal-mexico-cuadrangulo-monjas.jpg "El Cuadrángulo de las Monjas en el yacimiento de Uxmal.")
 

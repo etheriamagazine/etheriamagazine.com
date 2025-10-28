@@ -10,12 +10,12 @@ authors:
   - Pepa G. Marín
 ---
 
-**Viajar a Oslo con la mejor compañía, es decir contigo misma, te depara no pocas 
+Viajar a Oslo con la mejor compañía, es decir contigo misma, te depara no pocas 
 experiencias interesantes. El carácter hospitalario de los noruegos también ayuda si en 
 algún momento te apetece compartir la emoción de descubrir sus hitos arquitectónicos o 
 artísticos. Para esta escapada en solitario os recomendamos un mínimo de tres días, que 
 son suficientes para visitar la capital noruega sin prisas y, al mismo tiempo, sin 
-aburrirte ni un momento.** 
+aburrirte ni un momento. 
 
 ![Recorre Oslo en bicicleta.](https://fotos.etheriamagazine.com/2018/04/6-Etheria-Mujeres-Viajeras-en-Oslo.jpg "Recorre Oslo en bicicleta.")
 

@@ -1,6 +1,7 @@
 ---
 title: "Chiang Mai en 3 días, una guía esencial para explorar el norte de Tailandia"
 date: 2021-01-08
+lastmod: 2023-11-01
 cover: https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Phra-Singh-tejados.jpg
 categories: 
   - viajar-con-amigas
@@ -10,14 +11,14 @@ authors:
   - Pepa G. Marín
 ---
 
-**Chiang Mai, con sus cientos de templos, es uno de los destinos espirituales más 
+Chiang Mai, con sus cientos de templos, es uno de los destinos espirituales más 
 apasionantes y completos de Tailandia. En este artículo descubrirás cuáles son las 
 visitas y actividades imprescindibles en la antigua capital del Reino de Lanna. ¿Estás 
-preparada para vivir una experiencia inolvidable en el país de la sonrisa?** 
+preparada para vivir una experiencia inolvidable en el país de la sonrisa? 
 
 ![Wat Phra Singh de Chiang Mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Phra-Singh-templos.jpg "Wat Phra Singh, en Chiang Mai. © Etheria Magazine")
 
-**Actualizado 11/2023** 
+<!-- LEGACY_UPDATED: **Actualizado 11/2023** -->
 
 Si has llegado a este artículo sobre Tailandia buscando playas de ensueño y fiestas 
 desenfrenadas estas recomendaciones en el **norte del país** no te ayudarán mucho. Eso 

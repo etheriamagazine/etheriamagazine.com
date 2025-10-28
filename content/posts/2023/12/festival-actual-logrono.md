@@ -9,11 +9,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Desde hace más de tres décadas, el Festival Actual inaugura las citas culturales del 
-año en nuestro país. Este gran evento que se realiza en Logroño se ha consolidado como 
-un encuentro imprescindible para los amantes del arte, la música, el teatro y el cine. 
-Y, por supuesto, para los apasionados de la buena gastronomía porque, sin duda, es el 
-mejor complemento para una escapada a La Rioja.** 
+Desde hace más de tres décadas, el Festival Actual inaugura las citas culturales del año 
+en nuestro país. Este gran evento que se realiza en Logroño se ha consolidado como un 
+encuentro imprescindible para los amantes del arte, la música, el teatro y el cine. Y, 
+por supuesto, para los apasionados de la buena gastronomía porque, sin duda, es el mejor 
+complemento para una escapada a La Rioja. 
 
 ![Chica sobresalto actuará en el Festival Actual 2024.](https://fotos.etheriamagazine.com/2023/12/festival-actual-Chica-Sobresalto.jpg "Chica sobresalto actuará en el Festival Actual 2024.")
 

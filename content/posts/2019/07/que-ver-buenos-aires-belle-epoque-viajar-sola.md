@@ -1,6 +1,7 @@
 ---
 title: "Descubre la ruta por la arquitectura más elegante de Buenos Aires"
 date: 2019-07-05
+lastmod: 2024-01-01
 cover: https://fotos.etheriamagazine.com/2019/06/Buenos-Aires-Palacio-de-Aguas-Corrientes.jpg
 categories: 
   - viajar-con-amigas
@@ -18,7 +19,7 @@ para realizar sola o con amigas.
 
 ![Detalle de un edificio de la Avenida de Mayo y Palacio Barolo.](https://fotos.etheriamagazine.com/2019/06/Buenos-Aires-palacio-Barolo.jpg "Detalle de un edificio de la Avenida de Mayo y Palacio Barolo.")
 
-Actualizado 1/2024 
+<!-- LEGACY_UPDATED: Actualizado 1/2024 -->
 
 En este viaje que os propongo nos desplazaremos a la Buenos Aires menos conocida, a la 
 “Reina del Plata” que se oculta tras los grandes palacetes y la arquitectura refinada. 

@@ -1,6 +1,7 @@
 ---
 title: "Qué comer en Madeira, la isla de las nubes"
 date: 2022-08-30
+lastmod: 2025-07-01
 cover: https://fotos.etheriamagazine.com/2022/08/comida-madeira-espetada.jpg
 categories: 
   - estilo-de-vida
@@ -19,7 +20,7 @@ platos que deberían formar parte de tu menú durante el viaje.
 
 ![Espetada de carne con palo de laurel.](https://fotos.etheriamagazine.com/2022/08/comida-madeira-espetada.jpg "Espetada de carne ensartada en un palo de laurel. © Pedro Grifol")
 
-Actualizado 7/2025 
+<!-- LEGACY_UPDATED: Actualizado 7/2025 -->
 
 Viajar a Madeira supone una buena dosis de ejercicio físico, y puede que no pares un 
 segundo. Practicar senderismo por sus levadas (senderos junto a las acequias); nadar en 

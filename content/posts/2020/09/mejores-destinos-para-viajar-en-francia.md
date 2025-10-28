@@ -1,6 +1,7 @@
 ---
 title: "10 viajes a Francia para disfrutar de la buena vida"
 date: 2020-09-02
+lastmod: 2024-04-01
 cover: https://fotos.etheriamagazine.com/2018/07/Riquewihr-viñedos-e1557596568371.jpg
 categories: 
   - organiza-tu-viaje
@@ -18,7 +19,7 @@ itinerarios posibles para viajar a Francia. ¿Te vienes?
 
 ![Faro de Ploumanach con rocas delante](https://fotos.etheriamagazine.com/2020/09/Bretana-Ploumanach-Faro.jpg "Faro de Ploumanach. @ Kris Ubach")
 
-Actualizado en abril de 2024 
+<!-- LEGACY_UPDATED: Actualizado en abril de 2024 -->
 
 viajar a Francia siempre es un buen plan. Podemos ir en coche, tren o avión, su oferta 
 cultural es casi infinita y está repleta de ciudades y pequeños pueblos llenos de 

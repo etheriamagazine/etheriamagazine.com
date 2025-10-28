@@ -11,9 +11,9 @@ authors:
   - Redacción Etheria
 ---
 
-**Llámalo gadget, invento, ideaza…en esta selección te presentamos lo último para que 
+Llámalo gadget, invento, ideaza…en esta selección te presentamos lo último para que 
 viajar sea un placer desde que sales hasta que vuelves a casa. 10 gadgets 
-imprescindibles para viajes que harán que te plantees cómo no los has utilizado antes.** 
+imprescindibles para viajes que harán que te plantees cómo no los has utilizado antes. 
 
 ## ![maleta mujer viajera, gadgets de viaje](https://fotos.etheriamagazine.com/2019/10/gadget-equipaje-mujer-viajera.jpg "gadgets de viaje")
 

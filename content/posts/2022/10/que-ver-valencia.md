@@ -10,11 +10,11 @@ authors:
   - Pilar Ortega
 ---
 
-**Más allá de las Fallas y la célebre paella, Valencia merece ser conocida a fondo. Esta 
+Más allá de las Fallas y la célebre paella, Valencia merece ser conocida a fondo. Esta 
 ciudad mediterránea fundada por los romanos en el siglo II a.C. conserva un 
 importantísimo patrimonio artístico que ha ido almacenando a lo largo de la Historia. Te 
 invitamos en este artículo a hacer una ruta enlazando las 15 visitas imprescindibles en 
-Valencia, una ciudad que también sabe mirar al futuro.** 
+Valencia, una ciudad que también sabe mirar al futuro. 
 
 ![dos niñas en las Torres de Serranos](https://fotos.etheriamagazine.com/2022/09/valencia-torres-serrano.jpg "Vista de Valencia desde las Torres de Serranos.")
 

@@ -10,10 +10,10 @@ authors:
   - Yolanda Cardo
 ---
 
-**Viñas que se asoman al Loira, impactantes atalayas, una hermosa villa con un gusto muy 
+Viñas que se asoman al Loira, impactantes atalayas, una hermosa villa con un gusto muy 
 italiano, una efervescente ciudad que vive por y para el arte y una deliciosa 
 gastronomía son sólo algunos de los motivos por los que deberíais visitar (¡ya!) Nantes 
-y su viñedo.** 
+y su viñedo. 
 
 ![Los viñedos de Le Domaine des Génaudières se asoman al Loira.](https://fotos.etheriamagazine.com/2023/07/vinhedos-Le-Domaine-Genaudieres.jpg "Los viñedos de Le Domaine des Génaudières se asoman al Loira. © Yolanda Cardo")
 

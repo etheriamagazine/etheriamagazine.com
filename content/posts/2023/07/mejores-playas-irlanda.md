@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Irlanda no sólo cuenta con prados infinitos de color esmeralda sino que su costa 
+Irlanda no sólo cuenta con prados infinitos de color esmeralda sino que su costa 
 recortada por acantilados y playas secretas es también un buen incentivo para descubrir 
 su faceta marítima. En su litoral es posible descubrir una variada fauna atlántica, 
 practicar deportes acuáticos, relajarse en sus arenales y conocer de cerca la sencilla 
-vida local. Sigue leyendo para conocer ocho de las playas más bonitas de Irlanda.** 
+vida local. Sigue leyendo para conocer ocho de las playas más bonitas de Irlanda. 
 
 ![Atardecer en Curracloe, unas de las playas de Irlanda más bonita.](https://fotos.etheriamagazine.com/2023/07/playa-Curracloe-irlanda.jpg "Atardecer en la playa de Curracloe. © Celtic Routes")
 

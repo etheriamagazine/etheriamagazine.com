@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Libros de viajes, de historia, de pintura, de mujeres, para reflexionar... Hay tantas 
+Libros de viajes, de historia, de pintura, de mujeres, para reflexionar... Hay tantas 
 novedades editoriales con las que sorprender a las amistades que cuesta decidir cuál es 
 la más idónea para regalar. Hemos seleccionado diez títulos que nos han gustado y que te 
 pueden servir de orientación si no lo tienes claro o quieres autorregalarte algo 
-interesante este año.** 
+interesante este año. 
 
 ![libros 2022 viva corea anaya](https://fotos.etheriamagazine.com/2022/01/vive-corea-anaya.jpg "Vive Corea, de Anaya Touring.")
 

@@ -10,10 +10,10 @@ authors:
   - Manena Munar
 ---
 
-**Dublín es una ciudad acogedora, con energía, perfecta para recorrerla a pie. Ni muy 
+Dublín es una ciudad acogedora, con energía, perfecta para recorrerla a pie. Ni muy 
 grande, ni demasiado pequeña, ideal para pasar 48 horas y volver a casa con la agradable 
 sensación de haberla conocido. Si aún no tienes destino para tu próximo viaje sola o con 
-amigas, te contamos qué ver en Dublín para un fin de semana de diez.** 
+amigas, te contamos qué ver en Dublín para un fin de semana de diez. 
 
 ![Calle de bares en Dublín](https://fotos.etheriamagazine.com/2020/02/Temple-Bar-Dublin-1.jpg "Las calles adyacentes a Temple Bar, como Dame Lane, se prestan a un agradable paseo. © Rob Durston/ Turismo Irlanda")
 

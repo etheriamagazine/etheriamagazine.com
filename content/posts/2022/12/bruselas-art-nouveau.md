@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Bruselas celebra con un completo programa cultural el Art Nouveau presente en la 
-ciudad. Si eres una apasionada de esta arquitectura reserva hueco en tu agenda porque 
-este 2023 habrá más visitas guiadas, exposiciones, nuevos museos y edificios con una 
-increíble iluminación. "Bruselas, capital del Art Nouveau" te espera.** 
+Bruselas celebra con un completo programa cultural el Art Nouveau presente en la ciudad. 
+Si eres una apasionada de esta arquitectura reserva hueco en tu agenda porque este 2023 
+habrá más visitas guiadas, exposiciones, nuevos museos y edificios con una increíble 
+iluminación. "Bruselas, capital del Art Nouveau" te espera. 
 
 ![Casa Tassel, primera casa de estilo Art Nouveau en Bruselas.](https://fotos.etheriamagazine.com/2022/12/casa-tassel-bruselas.jpg "Casa Tassel, primera casa de estilo Art Nouveau en Bruselas.")
 

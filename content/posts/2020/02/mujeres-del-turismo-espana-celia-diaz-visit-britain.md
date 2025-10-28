@@ -9,11 +9,11 @@ authors:
   - Pepa G. Marín
 ---
 
-**Empática, sensible y una enamorada de los viajes y la gastronomía. Celia Díaz es la 
-cara visible en España de VisitBritain, y su labor consiste en promocionar los destinos 
-de Gran Bretaña y en facilitar la labor editorial a medios y profesionales. La pasión 
-por el sector turístico nos la confirma su trayectoria pero también queremos conocer a 
-la viajera que emerge cuando cierra la puerta de su despacho.** 
+Empática, sensible y una enamorada de los viajes y la gastronomía. Celia Díaz es la cara 
+visible en España de VisitBritain, y su labor consiste en promocionar los destinos de 
+Gran Bretaña y en facilitar la labor editorial a medios y profesionales. La pasión por 
+el sector turístico nos la confirma su trayectoria pero también queremos conocer a la 
+viajera que emerge cuando cierra la puerta de su despacho. 
 
 ![celia diaz, visit britain, malecon de cuba](https://fotos.etheriamagazine.com/2020/02/celia-diaz-Malecon-de-La-Habana.jpg "Celia Díaz en el malecón de Cuba.")
 

@@ -10,9 +10,8 @@ authors:
   - Pedro Grifol
 ---
 
-**Bien comunicadas y muy cerca de España, Perpiñán y Collioure son las ciudades 
-francesas que hemos elegido en Etheria Magazine para pasar un fin de semana 
-inolvidable.** 
+Bien comunicadas y muy cerca de España, Perpiñán y Collioure son las ciudades francesas 
+que hemos elegido en Etheria Magazine para pasar un fin de semana inolvidable. 
 
 ![venus maillol, palacio loge, perpinan, francia](https://fotos.etheriamagazine.com/2020/03/viaje-etheria-magazine-perpinan.jpg "La 'Venus' de Maillol y el palacio Loge de Mer, en Perpiñán. © Pedro Grifol")
 

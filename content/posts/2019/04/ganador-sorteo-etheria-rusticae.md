@@ -14,7 +14,7 @@ compartiendo fotos de su experiencia.
 
 ![sorteo etheria rusticae](https://fotos.etheriamagazine.com/2019/04/sorte-etheria-rusticae.jpg)
 
-Histórico de Etheria Magazine: 2019 
+<!-- LEGACY_INFO: Histórico de Etheria Magazine: 2019 -->
 
 Os agradecemos inmensamente vuestra participación y os deseamos mucha suerte en los 
 próximos sorteos y concursos. De momento, os dejamos algunas imágenes del **Hotel 

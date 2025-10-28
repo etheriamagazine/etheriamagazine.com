@@ -1,6 +1,7 @@
 ---
 title: "Descubre las tradiciones navideñas de Alemania"
 date: 2020-11-30
+lastmod: 2024-12-01
 cover: https://fotos.etheriamagazine.com/2020/11/alemania-navidad-pastas.jpg
 categories: 
   - estilo-de-vida
@@ -19,7 +20,7 @@ mercadillos en el bonito periodo de Adviento.
 
 ![galletas de navidad en alemania](https://fotos.etheriamagazine.com/2020/11/alemania-navidad-pastas.jpg "Preparando galletas navideñas. © GNTB/ Getty Images/ GMVozd")
 
-**Actualizado 12/2024** 
+<!-- LEGACY_UPDATED: **Actualizado 12/2024** -->
 
 Cada país conserva en la memoria colectiva un puñado de tradiciones que es legado de 
 generación en generación, a veces de una forma íntegra y otras con pequeñas matizaciones 

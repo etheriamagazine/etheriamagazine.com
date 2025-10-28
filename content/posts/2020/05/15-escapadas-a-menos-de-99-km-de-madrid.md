@@ -1,6 +1,7 @@
 ---
 title: "15 excursiones a menos de 99 km de Madrid que te alegrarán cualquier finde"
 date: 2020-05-20
+lastmod: 2024-04-01
 cover: https://fotos.etheriamagazine.com/2020/05/excursion-aranjuez.jpg
 categories: 
   - viajar-con-amigas
@@ -16,7 +17,7 @@ nuevo con el concepto ‘viajar’.
 
 ![Jardines Chinescos de Aranjuez.](https://fotos.etheriamagazine.com/2020/05/excursion-aranjuez.jpg "Jardines Chinescos de Aranjuez. © Miguel Ángel Sanz")
 
-**Actualizado en abril de 2024** 
+<!-- LEGACY_UPDATED: **Actualizado en abril de 2024** -->
 
 Existen tesoros cercanos igual de valiosos -o más- que los que se encuentran en la otra 
 punta del mundo, aunque precisamente esa cercanía haya provocado que en muchas ocasiones 

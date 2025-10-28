@@ -10,11 +10,11 @@ authors:
   - Elisabeth G. Iborra
 ---
 
-**Pamplona nos brinda una atractiva combinación de monumentos, paseos y bares de pintxos 
+Pamplona nos brinda una atractiva combinación de monumentos, paseos y bares de pintxos 
 para pasar un fin de semana sin echar nada en falta ¡y en cualquier momento del año! 
 Además, puedes hacer alguna excursión a lugares cercanos como el pantano de Yesa o el 
 monasterio de Leyre. Esta ruta gastronómica por Pamplona la ha realizado _in situ_ 
-Elisabeth G. Iborra y nos trae las mejores recomendaciones en la capital navarra.** 
+Elisabeth G. Iborra y nos trae las mejores recomendaciones en la capital navarra. 
 
 ![Iglesia de San Saturnino, conocida como de San Cerin.](https://fotos.etheriamagazine.com/2019/11/Pamplona-San-Saturnino.jpg "Iglesia de San Saturnino, conocida como de San Cerin. ©Turismo Navarra")
 

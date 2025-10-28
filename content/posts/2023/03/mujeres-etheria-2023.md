@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Aunque marzo es un mes para celebrar el feminismo y la lucha por la igualdad, en 
-Etheria Magazine tratamos de poner en valor a las mujeres brillantes y emprendedoras 
-durante todo el año a través de nuestras “historias en femenino”. En este artículo 
-recogemos diez artículos dedicados a mujeres inspiradoras de todo tipo, famosas y 
-anónimas, empresarias y artistas. Todas merecen nuestro reconocimiento.** 
+Aunque marzo es un mes para celebrar el feminismo y la lucha por la igualdad, en Etheria 
+Magazine tratamos de poner en valor a las mujeres brillantes y emprendedoras durante 
+todo el año a través de nuestras “historias en femenino”. En este artículo recogemos 
+diez artículos dedicados a mujeres inspiradoras de todo tipo, famosas y anónimas, 
+empresarias y artistas. Todas merecen nuestro reconocimiento. 
 
 ![Cecilia Bartolomé, Lee Krasner, Sania Jelic y Belén Orive](https://fotos.etheriamagazine.com/2023/03/Mujeres-etheria.jpg "Cecilia Bartolomé, Lee Krasner, Sania Jelic y Belén Orive son algunas de nuestras mujeres Etheria.")
 

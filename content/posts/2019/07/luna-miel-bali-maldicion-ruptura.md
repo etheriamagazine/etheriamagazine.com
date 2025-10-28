@@ -10,11 +10,11 @@ authors:
   - Elena Ortega
 ---
 
-**Templos, paisajes selváticos, pueblos anclados en el pasado, rutas entre arrozales y 
+Templos, paisajes selváticos, pueblos anclados en el pasado, rutas entre arrozales y 
 playas para todos los gustos. Los atractivos de Bali son infinitos y tú te planteas 
 viajar allí para disfrutarlos en pareja, pero ¿conoces la leyenda que condenará tu 
 relación si viajas a la isla? Te contamos los detalles por si estás planeando una luna 
-de miel en Bali.** 
+de miel en Bali. 
 
 ![arrozales en Bali](https://fotos.etheriamagazine.com/2019/07/viaje-bali-arrozales.jpg "Uno de los trekkings más habituales en Bali es pasear entre los arrozales. ©PB")
 

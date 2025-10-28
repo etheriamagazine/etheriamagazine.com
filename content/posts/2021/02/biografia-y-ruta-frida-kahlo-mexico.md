@@ -9,9 +9,9 @@ authors:
   - Pilar Ortega
 ---
 
-**Convertida en icono feminista, la artista mexicana Frida Kahlo reflejó en su obra 
+Convertida en icono feminista, la artista mexicana Frida Kahlo reflejó en su obra 
 pictórica tanto sus pasiones como su soledad e infortunios. Recorremos los escenarios de 
-su vida, aquellos que la marcaron como mujer y como artista.** 
+su vida, aquellos que la marcaron como mujer y como artista. 
 
 ![Frida en un banco blanc](https://fotos.etheriamagazine.com/2021/02/Frida-en-un-banco-blanco.jpg "Frida en un banco blanco. © Nickolas Muray Photo Archives")
 

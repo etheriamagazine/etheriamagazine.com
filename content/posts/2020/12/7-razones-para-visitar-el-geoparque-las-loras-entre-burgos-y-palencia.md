@@ -10,10 +10,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Disfruta del geoparque Las Loras un paisaje forjado a base de tiempo entre Burgos y 
+Disfruta del geoparque Las Loras un paisaje forjado a base de tiempo entre Burgos y 
 Palencia. En sus pliegues se ocultan las huellas culturales dejadas por los habitantes 
 del páramo. Te damos siete razones para descubrir este territorio fuera de ruta que 
-guarda en sus rocas la historia del planeta.** 
+guarda en sus rocas la historia del planeta. 
 
 ![canon rio ebro en burgos en geoparque las loras](https://fotos.etheriamagazine.com/2020/12/Burgos-pesquera-canon-rio-ebro.jpg "Espectacular cañón del río Ebro.")
 

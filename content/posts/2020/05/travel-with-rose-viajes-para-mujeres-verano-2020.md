@@ -8,9 +8,9 @@ authors:
   - Pepa G. Marín
 ---
 
-**Rose Serrano, directora de 'Travel with Rose', analiza el turismo en tiempos de 
-Covid-19 y argumenta los cambios que considera deseables en esta “nueva etapa turística” 
-marcada por las limitaciones fronterizas y los protocolos sanitarios.** 
+Rose Serrano, directora de 'Travel with Rose', analiza el turismo en tiempos de Covid-19 
+y argumenta los cambios que considera deseables en esta “nueva etapa turística” marcada 
+por las limitaciones fronterizas y los protocolos sanitarios. 
 
 ![travel with rose, rose serrano, agencia de viajes para mujeres, viajar sola en grupo](https://fotos.etheriamagazine.com/2020/05/travel-with-rose-agencia-viajes.jpg "Rose Serrano (Dcha.) con un grupo de viajeras.")
 

@@ -9,9 +9,9 @@ authors:
   - Manena Munar
 ---
 
-**Si los cielos de Madrid gozan de merecida fama, la luz de aquel atardecer primaveral 
-era un espectáculo. Quizás se preparaba para recibir como merece a la exploradora 
-británica Christina Dodwell.** 
+Si los cielos de Madrid gozan de merecida fama, la luz de aquel atardecer primaveral era 
+un espectáculo. Quizás se preparaba para recibir como merece a la exploradora británica 
+Christina Dodwell. 
 
 ![La británica Christina Dodwell es la gran exploradora de los siglos XX-XXI](https://fotos.etheriamagazine.com/2018/06/Christina-Dodwell-2.jpg "Christina Dodwell, la gran exploradora de los siglos XX-XXI.")
 

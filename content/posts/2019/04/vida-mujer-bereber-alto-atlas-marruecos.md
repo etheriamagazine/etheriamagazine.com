@@ -12,9 +12,9 @@ authors:
   - Manena Munar
 ---
 
-**Coqueta, sensual, fuerte y maniatada por la tradición y la religión, la mujer bereber 
+Coqueta, sensual, fuerte y maniatada por la tradición y la religión, la mujer bereber 
 del Atlas marroquí es un ejemplo de supervivencia que ya gozaba de fama por su sabiduría 
-y estrategia en la sociedad del Al-Ándalus.** 
+y estrategia en la sociedad del Al-Ándalus. 
 
 ![mujer bereber con un fardo de paja](https://fotos.etheriamagazine.com/2019/03/VAlle-Ourika-Wardia.jpg "La fuerza y alegría de la mujer bereber se desprenden de su mirada.")
 

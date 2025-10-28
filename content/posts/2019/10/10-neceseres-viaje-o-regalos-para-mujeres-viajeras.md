@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Pequeños, medianos o grandes, para llevar en el bolso de mano o en la maleta, los 
+Pequeños, medianos o grandes, para llevar en el bolso de mano o en la maleta, los 
 neceseres de viaje son una de las piezas esenciales de nuestro equipaje y se deben 
 elegir con cuidado. En Etheria magazine hemos seleccionado 7 marcas que te pueden 
-resultar muy útiles a la hora de viajar.** 
+resultar muy útiles a la hora de viajar. 
 
 ![neceser blanco con productos para viaje](https://fotos.etheriamagazine.com/2019/10/set-natural-bath-skincare-products-in-white-packaging-on-wooden-table-spa-cosmetics-for-beauty-health-at-home-cosmetic-bag-toiletry-flowers-soap-moisturizer-cream-mockup-frame-copy-space.jpg "Es fundamental encontrar el neceser perfecto para cada tipo de viaje.")
 

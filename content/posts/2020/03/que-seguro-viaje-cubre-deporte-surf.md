@@ -9,10 +9,9 @@ authors:
   - Redacción Etheria
 ---
 
-**¿Necesito un seguro si hago un viaje donde voy a practicar surf? ¿qué coberturas son 
-las imprescindibles? Te aclaramos estas dudas en el siguiente artículo. Después de 
-leerlo, valora por ti misma si te interesa un seguro de viajes con cobertura 
-deportiva.** 
+¿Necesito un seguro si hago un viaje donde voy a practicar surf? ¿qué coberturas son las 
+imprescindibles? Te aclaramos estas dudas en el siguiente artículo. Después de leerlo, 
+valora por ti misma si te interesa un seguro de viajes con cobertura deportiva. 
 
 ![viajes de surf, seguros deportivos](https://fotos.etheriamagazine.com/2020/03/seguro-viaje-surf.jpg "Los viajes para practicar surf son cada vez más populares. © PB")
 

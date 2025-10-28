@@ -11,11 +11,11 @@ authors:
   - Susana García
 ---
 
-**Reconozcámoslo, nos encantan las salidas con amigas para echarnos unas charlas y unas 
+Reconozcámoslo, nos encantan las salidas con amigas para echarnos unas charlas y unas 
 risas cualquier noche de la semana. Y si además encontramos un local donde la comida y 
 el ambiente acompañan, mucho mejor. En este artículo proponemos 10 restaurantes de la 
 capital donde confidencias y carcajadas son compatibles con buena gastronomía y locales 
-llenos de encanto.** 
+llenos de encanto. 
 
 ![interior del restaurante lakasa](https://fotos.etheriamagazine.com/2018/10/cenar-con-amigas-lakasa-sala-e1646394573276.jpg "Sala del restaurante Lakasa. ©Lakasa")
 

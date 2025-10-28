@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Viajar sola puede llegar a ser una de las experiencias más placenteras de tu vida. Eso 
+Viajar sola puede llegar a ser una de las experiencias más placenteras de tu vida. Eso 
 sí, primero prueba con destinos cercanos y cómodos antes de aventurarte más lejos. Aquí 
 te proponemos diez viajes de larga distancia para mujeres que ya están habituadas a 
-viajar solas. Amplía información en los enlaces integrados.** 
+viajar solas. Amplía información en los enlaces integrados. 
 
 ![Playa de isla Diablo, en el archipiélago de San Blas.](https://fotos.etheriamagazine.com/2019/06/Panama-San-Blas-isla-diablo.jpg "Playa de isla Diablo, en el archipiélago de San Blas.")
 

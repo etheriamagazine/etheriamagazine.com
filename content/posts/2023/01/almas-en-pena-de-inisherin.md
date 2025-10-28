@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-**El turismo de cine está cada día más de moda y hay países, como Irlanda, que pueden 
+El turismo de cine está cada día más de moda y hay países, como Irlanda, que pueden 
 presumir de haber acogido rodajes de gran éxito como 'Juego de tronos' o 'Las cenizas de 
 Ángela'. La última película que hace soñar con la Isla Esmeralda es “Almas en pena de 
 Inisherin” y sus escenarios llevan al espectador hasta dos islas: Achill e Inis Mór (la 
-mayor de las islas de Aran).** 
+mayor de las islas de Aran). 
 
 ![Colin Farrell en la película 'Almas en pena de Inisherin'.](https://fotos.etheriamagazine.com/2023/01/almas-pena-inisherin-1.jpg "Colin Farrell en la película 'Almas en pena de Inisherin'. © Jonathan Hession/ 2022 20th Century Studios All Rights Reserved.")
 

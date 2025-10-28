@@ -11,12 +11,12 @@ authors:
   - Redacción Etheria
 ---
 
-**Si estáis a punto de viajar a la capital japonesa y os fascina el mundo de los 
+Si estáis a punto de viajar a la capital japonesa y os fascina el mundo de los 
 espirituosos, os animamos a descubrir todo lo que rodea el mundo del sake en Tokio. 
 Visitad alguna bodega histórica como Ozawa Shuzo, disfrutad del ambiente de los bares de 
 sake, en los que vosotras mismas os servís el licor, y terminad comprando vuestro sake 
 favorito en tiendas especializadas. Os damos las pistas básicas para realizar estos tres 
-pasos esenciales.** 
+pasos esenciales. 
 
 ![Valle Akigawa, en la ruta del sake en Tokio](https://fotos.etheriamagazine.com/2023/12/tokio-Valle-Akigawa.jpg "Valle de Akigawa.")
 

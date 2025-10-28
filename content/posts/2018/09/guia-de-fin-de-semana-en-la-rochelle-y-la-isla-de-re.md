@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-**La costa atlántica francesa está repleta de lugares para disfrutar, pasear y 
-contemplar con una copa de vino en la mano. En Etheria magazine os proponemos viajar a 
-La Rochelle y la isla de Ré, dos rincones llenos de historia y sabor marinero para 
-pasar, sola o con amigas, un fin de semana de diez.** 
+La costa atlántica francesa está repleta de lugares para disfrutar, pasear y contemplar 
+con una copa de vino en la mano. En Etheria magazine os proponemos viajar a La Rochelle 
+y la isla de Ré, dos rincones llenos de historia y sabor marinero para pasar, sola o con 
+amigas, un fin de semana de diez. 
 
 ![Faro de las Ballenas](https://fotos.etheriamagazine.com/2018/09/Isla-de-Re-faro-de-las-Ballenas.jpg "Faro de las Ballenas en la isla de Ré. © Susana García")
 

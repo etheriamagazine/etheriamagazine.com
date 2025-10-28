@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Nos encanta proponeros viajes con amigas para celebrar la amistad, y en este caso nos 
+Nos encanta proponeros viajes con amigas para celebrar la amistad, y en este caso nos 
 vamos a centrar en la ciudad de Granada, que lo tiene todo para una escapada perfecta. 
 Tomad nota de nuestras diez actividades y visitas imprescindibles para disfrutar de 
 Granada con amigas, pero ya os adelantamos que os va a gustar todo, desde su historia 
-hasta su gastronomía.** 
+hasta su gastronomía. 
 
 ![recorrido de La Alhambra](https://fotos.etheriamagazine.com/2022/06/granada-palacios-nazaries.jpg "Palacios Nazaríes en La Alhambra. © SG")
 

@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Puede que pienses que en mercadillos navideños... 'visto uno vistos todos'. Queremos 
-que te lo replantees al conocer las propuestas mercadillos originales de Navidad que te 
+Puede que pienses que en mercadillos navideños... 'visto uno vistos todos'. Queremos que 
+te lo replantees al conocer las propuestas mercadillos originales de Navidad que te 
 sugerimos en Alemania, Chequia, Austria, Polonia y Suiza. Los hay debajo de un puente, 
-con música electrónica, con árboles que cantan, alrededor de un lago...** 
+con música electrónica, con árboles que cantan, alrededor de un lago... 
 
 ![Mercadillo Selva Negra bajo un puente](https://fotos.etheriamagazine.com/2019/11/mercadillo-acueducto-Adviento-Selva-Negra.jpg "Mercadillo del Ravennaschlucht (Alta Selva Negra, Alemania).")
 

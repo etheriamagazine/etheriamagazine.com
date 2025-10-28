@@ -12,11 +12,11 @@ authors:
   - Sania Jelic
 ---
 
-**Sania Jelic prosigue su viaje por Centroamérica y llega a Guatemala, donde descubre el 
+Sania Jelic prosigue su viaje por Centroamérica y llega a Guatemala, donde descubre el 
 vibrante colorido de Antigua y Chichicastenango. También se acerca al lago Atitlán, un 
 lugar único en el mundo rodeado de pueblos pintorescos y con una interesante cultura. 
 Sigue leyendo para descubrir todos los detalles y consejos de esta gran mujer que viaja 
-sola tras la jubilación.** 
+sola tras la jubilación. 
 
 ![Sania en tuk-tuk en San Juan de la Laguna, en el lago Atitlán](https://fotos.etheriamagazine.com/2023/05/sania-guatemala-tuk-tuk.jpg "Sania en tuk-tuk en San Juan de la Laguna, en el lago Atitlán. © Sania Jelic")
 

@@ -9,8 +9,8 @@ authors:
   - Pedro Grifol
 ---
 
-**Ya ha llegado el momento de revisar el fondo de tu mueble-bar para gastar esas 
-botellitas olvidadas y hacer cócteles que hagan más llevaderas las noches en casa.** 
+Ya ha llegado el momento de revisar el fondo de tu mueble-bar para gastar esas 
+botellitas olvidadas y hacer cócteles que hagan más llevaderas las noches en casa. 
 
 ![hacer cocteles, cocteles faciles, cocteles en casa](https://fotos.etheriamagazine.com/2020/04/mejores-cocteles-en-casa.jpg "Un cóctel y un buen libro, no se necesita más para pasar una tarde o una noche de cine. © Hanny Naibaho")
 

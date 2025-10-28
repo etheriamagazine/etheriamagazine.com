@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Si buscas el paraíso sigue estas indicaciones por la geografía de Armenia. Te llevarán 
+Si buscas el paraíso sigue estas indicaciones por la geografía de Armenia. Te llevarán 
 al borde imaginario entre Europa y Asia donde afirman que existió el jardín divino del 
 Edén. En este bello panorama situado más allá de las tierras cultivadas verás las raíces 
 de una de las civilizaciones más antiguas del mundo. Te damos 10 pistas para que si 
-viajas sola o por libre sepas lo que no debes perderte.** 
+viajas sola o por libre sepas lo que no debes perderte. 
 
 ![Catedral de Zvartnots, en Armenia](https://fotos.etheriamagazine.com/2019/04/viaje-armenia-Catedral-Zvartnots-e1555859798285.jpg "Catedral de Zvartnots.")
 

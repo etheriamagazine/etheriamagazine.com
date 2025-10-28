@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-**El turismo sostenible se va abriendo camino entre los viajeros que apuestan por la 
+El turismo sostenible se va abriendo camino entre los viajeros que apuestan por la 
 ecología y buscan en sus vacaciones disfrutar de la naturaleza de una forma respetuosa 
 con el entorno. Francia es uno de los países líderes en ofrecer este tipo de opciones de 
 viaje y aquí te proponemos 8 iniciativas de este país con las que visitarlo sin dejar de 
-lado el compromiso con el medioambiente.** 
+lado el compromiso con el medioambiente. 
 
 ![viñedos del sur de Francia](https://fotos.etheriamagazine.com/2022/10/francia-canal-du-midi.jpg "Barco en el Canal du Midi, en Francia.")
 

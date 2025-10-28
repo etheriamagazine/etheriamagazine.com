@@ -11,10 +11,10 @@ authors:
   - Susana García
 ---
 
-**Tenemos asociada a la isla pitusa la imagen de lugar de moda lleno de gente donde 
-pasar unas vacaciones de poco descanso por su gran oferta de ocio. Pero hay lugares en 
-Ibiza como el hotel de cinco estrellas Hacienda Na Xamena que desvelan una isla donde la 
-paz y el contacto con la naturaleza serán tus compañeros de viaje.** 
+Tenemos asociada a la isla pitusa la imagen de lugar de moda lleno de gente donde pasar 
+unas vacaciones de poco descanso por su gran oferta de ocio. Pero hay lugares en Ibiza 
+como el hotel de cinco estrellas Hacienda Na Xamena que desvelan una isla donde la paz y 
+el contacto con la naturaleza serán tus compañeros de viaje. 
 
 ![Acantilado de la Hacienda Na Xamena](https://fotos.etheriamagazine.com/2022/10/Hacienda-Na-Xamena-mar.jpg "Hacienda Na Xamena.")
 

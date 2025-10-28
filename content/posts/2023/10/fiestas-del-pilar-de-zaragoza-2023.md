@@ -10,10 +10,9 @@ authors:
   - Redacción Etheria
 ---
 
-**Música, experiencias de realidad aumentada, ofrendas florales, actividades recreativas 
+Música, experiencias de realidad aumentada, ofrendas florales, actividades recreativas 
 para familias y la rica gastronomía callejera os esperan en las Fiestas del Pilar de 
-Zaragoza.** **Os contamos cuatro planazos de su agenda festiva que no os podéis 
-perder.** 
+Zaragoza. Os contamos cuatro planazos de su agenda festiva que no os podéis perder. 
 
 ![Rodrigo Cuevas actuará en las Fiestas del Pilar de Zaragoza](https://fotos.etheriamagazine.com/2023/10/Rodrigo-Cuevas.jpg "Rodrigo Cuevas. © JavierBelver")
 

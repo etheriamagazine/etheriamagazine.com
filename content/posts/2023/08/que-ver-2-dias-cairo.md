@@ -11,12 +11,12 @@ authors:
   - Susana García
 ---
 
-**El Cairo es una ciudad enorme, desbordada en barrios sin fin y surcada por avenidas 
-con un tráfico caótico ambientado con el sonido incesante de los cláxones. Como viajero, 
-lo habitual es centrarse en sus muy interesantes hitos turísticos y, entre medias, 
+El Cairo es una ciudad enorme, desbordada en barrios sin fin y surcada por avenidas con 
+un tráfico caótico ambientado con el sonido incesante de los cláxones. Como viajero, lo 
+habitual es centrarse en sus muy interesantes hitos turísticos y, entre medias, 
 permanecer atento a cómo transcurre la vida cotidiana a través de la ventanilla. En este 
 artículo te contamos cómo organizar un viaje a El Cairo si sólo dispones de dos días 
-para que no te pierdas nada de lo fundamental.** 
+para que no te pierdas nada de lo fundamental. 
 
 ![Pirámide de Kefren en Giza](https://fotos.etheriamagazine.com/2023/08/egipto-cairo-piramides-kefren-chicas.jpg "Pirámide de Khafa (Kefren). © Susana García")
 

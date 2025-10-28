@@ -9,9 +9,9 @@ authors:
   - Rebeca Ávila
 ---
 
-**Como mujer profesional y activa seguro que son muchas las veces que tienes que 
-realizar salidas a otros destinos o empresas. En este artículo te ayudamos a gestionar 
-una maleta para un viaje de trabajo de la forma más eficaz posible.** 
+Como mujer profesional y activa seguro que son muchas las veces que tienes que realizar 
+salidas a otros destinos o empresas. En este artículo te ayudamos a gestionar una maleta 
+para un viaje de trabajo de la forma más eficaz posible. 
 
 ![Hacer la maleta en los viajes profesionales](https://fotos.etheriamagazine.com/2018/05/WorkingOutfits-7-2.jpg "Los viajes profesionales requieren de un equipaje específico y bien planteado")
 

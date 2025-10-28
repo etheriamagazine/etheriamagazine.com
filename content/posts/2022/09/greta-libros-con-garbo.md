@@ -9,10 +9,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Patricia Osuna e Isabel Vilches son las dos periodistas que están detrás de Greta 
-Libros con Garbo, un nuevo proyecto cultural que lleva, a través de una suscripción, los 
+Patricia Osuna e Isabel Vilches son las dos periodistas que están detrás de Greta Libros 
+con Garbo, un nuevo proyecto cultural que lleva, a través de una suscripción, los 
 mejores títulos a mujeres amantes de la lectura. Estas dos emprendedoras nos cuentan su 
-historia en primera persona en “Proyectos con alma”.** 
+historia en primera persona en “Proyectos con alma”. 
 
 ![Isabel Vilches y Patricia Osuna, fundadoras de Greta Libros con Garbo.](https://fotos.etheriamagazine.com/2022/09/patricia-osuna-isabel-vilches.jpg "Isabel Vilches y Patricia Osuna, fundadoras de Greta Libros con Garbo.")
 

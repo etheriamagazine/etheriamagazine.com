@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**¿¡Quién dice que a las mujeres no nos gusta comer!? En Etheria Magazine, al menos, 
+¿¡Quién dice que a las mujeres no nos gusta comer!? En Etheria Magazine, al menos, 
 disfrutamos mucho recorriendo el país a través de los sabores y de las cocinas más 
 auténticas. Hemos seleccionado 10 escapadas gastronómicas o enoturísticas que te pueden 
-dar ideas para un fin de semana sibarita con amigas.** 
+dar ideas para un fin de semana sibarita con amigas. 
 
 ![comer valladolid, restaurante los zagales, tapeo valladolid](https://fotos.etheriamagazine.com/2019/01/comer-valladolid-los-zagales-e1553175464492.jpg "Pide un 'Tigretostón' en el restaurante Los Zagales (Valladolid).")
 

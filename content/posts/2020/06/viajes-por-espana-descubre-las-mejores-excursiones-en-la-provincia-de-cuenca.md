@@ -1,6 +1,7 @@
 ---
 title: "13 excursiones en la provincia de Cuenca para descubrir sus tesoros"
 date: 2020-06-04
+lastmod: 2025-09-01
 cover: https://fotos.etheriamagazine.com/2020/05/cuenca-excursion-caras-buendia.jpg
 categories: 
   - organiza-tu-viaje
@@ -18,7 +19,7 @@ Patrimonio de la Humanidad y rebosa encanto en su naturaleza y sus pueblos.
 
 ![Ruta de las Caras de Buendiaia](https://fotos.etheriamagazine.com/2020/05/cuenca-excursion-caras-buendia.jpg "Ruta de la Caras de Buendía. Arte y naturaleza en Cuenca. © Yolanda Cardo")
 
-**Actualizado 9/2025** 
+<!-- LEGACY_UPDATED: **Actualizado 9/2025** -->
 
 Sucede habitualmente que cuando planificamos nuestras vacaciones solemos inclinarnos por 
 destinos exóticos y lejanos pero, afortunadamente, no hay que irse muy lejos para 

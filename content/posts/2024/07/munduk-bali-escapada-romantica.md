@@ -1,6 +1,7 @@
 ---
 title: "Munduk, una escapada romántica al Bali más auténtico"
 date: 2024-07-24
+lastmod: 2025-06-01
 cover: https://fotos.etheriamagazine.com/2024/07/bali-munduk-pareja-arrozal.jpg
 categories: 
   - viajar-en-pareja
@@ -18,7 +19,7 @@ pareja en total tranquilidad.
 
 ![Pareja en los arrozales de Jatiluwih.](https://fotos.etheriamagazine.com/2024/07/bali-munduk-pareja-arrozal.jpg "Pareja en los arrozales de Jatiluwih. © Susana García.")
 
-**Actualizado junio 2025** 
+<!-- LEGACY_UPDATED: **Actualizado junio 2025** -->
 
 Cuando viajas a Bali probablemente lo que más te sorprende, por encima de sus templos, 
 sus playas o la cordialidad de sus habitantes, es el bullicio y el tráfico, sobre todo 

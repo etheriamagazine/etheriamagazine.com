@@ -1,6 +1,7 @@
 ---
 title: "15 ideas para disfrutar de Florencia por segunda vez con tus mejores amigas"
 date: 2018-09-21
+lastmod: 2024-09-01
 cover: https://fotos.etheriamagazine.com/2018/09/Ponte-Vecchio-Florencia-Toscana-e1552121783379.jpg
 categories: 
   - viajar-con-amigas
@@ -18,7 +19,7 @@ que aciertas si viajas a Florencia con tus amigas por segunda vez.
 
 ![Ponte Vecchio](https://fotos.etheriamagazine.com/2018/09/Ponte-Vecchio-Florencia-Toscana-e1552121783379.jpg "Ponte Vecchio (Florencia). © Enit/ Turismo Italiano")
 
-Actualizado septiembre de 2024. 
+<!-- LEGACY_UPDATED: Actualizado septiembre de 2024. -->
 
 Por tres veces la autora de este artículo acarició la escultura y por tres veces 
 recorrió de nuevo las calles de esta maravillosa ciudad italiana. Y aún queda pendiente 

@@ -8,12 +8,12 @@ authors:
   - Sania Jelic
 ---
 
-**Dar voz a las mujeres viajeras y decididas es uno de los objetivos de Etheria 
-Magazine. Por este motivo no podíamos dejar de relataros la aventura en la que se ha 
-embarcado Sania Jelic, una croata con nacionalidad española que se ha propuesto viajar 
-sola tras la jubilación. Pero eso no es todo, con su proyecto “Silver Sania” está 
-decidida a demostrar que los sesenta son perfectos para recorrer el planeta y disfrutar 
-con calma del placer de sumergirse en las culturas de otros países.** 
+Dar voz a las mujeres viajeras y decididas es uno de los objetivos de Etheria Magazine. 
+Por este motivo no podíamos dejar de relataros la aventura en la que se ha embarcado 
+Sania Jelic, una croata con nacionalidad española que se ha propuesto viajar sola tras 
+la jubilación. Pero eso no es todo, con su proyecto “Silver Sania” está decidida a 
+demostrar que los sesenta son perfectos para recorrer el planeta y disfrutar con calma 
+del placer de sumergirse en las culturas de otros países. 
 
 ![Sania viajando por el mundo](https://fotos.etheriamagazine.com/2022/12/sania-de-viaje.jpg "Sania Jelic viajando por el mundo.")
 

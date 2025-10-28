@@ -8,11 +8,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Comenzamos año y es habitual hacer recuento de todo lo que nos ha sucedido en el 
+Comenzamos año y es habitual hacer recuento de todo lo que nos ha sucedido en el 
 anterior. En este artículo hacemos un repaso de los cinco viajes en familia más leídos 
 en él último año en Etheria Magazine y, como no hay mejor manera de iniciar el año que 
 empezar a planear las escapadas que haremos, quizá encuentres alguna idea para tus 
-próximas escapadas.** 
+próximas escapadas. 
 
 ## 1\. 8 planes en Nueva York con niños
 

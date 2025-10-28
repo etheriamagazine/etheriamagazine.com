@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-**Japón es un país perfecto para un viaje en familia ya que todo es sorprendente a 
+Japón es un país perfecto para un viaje en familia ya que todo es sorprendente a 
 cualquier edad. Ofrece también actividades para realizar con los más pequeños, y un 
 entorno seguro y limpio en casi cualquier cosa que decidas hacer. Te proponemos 10 
-planes para disfrutar con niños del país nipón.** 
+planes para disfrutar con niños del país nipón. 
 
 ![Mujer y niña con traje tradicional japonés](https://fotos.etheriamagazine.com/2019/11/Japon-paseo-kimono.jpg "Fotos con kimonos en el Jardín Kenrokuen de Kanazawa. © SG")
 

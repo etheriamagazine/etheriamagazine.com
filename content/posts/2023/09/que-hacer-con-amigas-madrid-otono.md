@@ -10,11 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Las vacaciones más extensas del año se acabaron y los días se acortan pero hay algo 
-que siempre nos ayuda a superarlo: hacer planes con amigas en Madrid. Tanto si es la 
-primera vez que pisas la capital como si es tu hogar, estas actividades te darán la 
-oportunidad de brindar por los encuentros, echarte unas risas y cargarte de energía 
-positiva.** 
+Las vacaciones más extensas del año se acabaron y los días se acortan pero hay algo que 
+siempre nos ayuda a superarlo: hacer planes con amigas en Madrid. Tanto si es la primera 
+vez que pisas la capital como si es tu hogar, estas actividades te darán la oportunidad 
+de brindar por los encuentros, echarte unas risas y cargarte de energía positiva. 
 
 ![Terraza de Casa Suecia, en Madrid](https://fotos.etheriamagazine.com/2023/09/terraza-hotel-suecia.jpg "Terraza de Casa Suecia, en Madrid. © Etheria Magazine")
 

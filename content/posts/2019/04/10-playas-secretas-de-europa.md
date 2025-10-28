@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Llega el calorcito y no podemos dejar de visualizarnos en una playa. Si es en una de 
+Llega el calorcito y no podemos dejar de visualizarnos en una playa. Si es en una de 
 esas con paisajes que quitan el hipo y mar transparente, mucho mejor. Por esa razón, 
 hemos elegido diez playas secretas de Europa donde te vas a imaginar sí o sí este 
-verano.** 
+verano. 
 
 ![Playa del Cuerno de Oro de la isla de Brac.](https://fotos.etheriamagazine.com/2019/04/croacia-isla-brac.jpg "Playa del Cuerno de Oro de la isla de Brac.")
 

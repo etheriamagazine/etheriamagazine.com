@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Las ciudades italianas son capaces de llenar varios viajes. En este caso te proponemos 
+Las ciudades italianas son capaces de llenar varios viajes. En este caso te proponemos 
 un interesante paseo por Milán que te llevará desde la plaza del majestuoso Duomo hasta 
 el barrio Porta Venezia, a través de tiendas de moda y preciosas casas-museo. Con un 
 broche inigualable: el Museo de Arte de la Fundación Luigi Rovati, inaugurado en 2022 y 
-que ofrece una colección deliciosa. ¿De verdad que te lo vas a perder?** 
+que ofrece una colección deliciosa. ¿De verdad que te lo vas a perder? 
 
 ![Vistas de Milán desde las terrazas del Duomo.](https://fotos.etheriamagazine.com/2023/09/Milan-Duomo-vistas-terraza.jpg "Vistas de Milán desde las terrazas del Duomo. © Marcello Pirovano")
 

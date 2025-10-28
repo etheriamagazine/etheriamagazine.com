@@ -1,6 +1,7 @@
 ---
 title: "Tres montañas de Suiza a las que subir con niños sin despeinarse"
 date: 2018-09-28
+lastmod: 2024-02-01
 cover: https://fotos.etheriamagazine.com/2018/09/Suiza-subida-jungfrau-e1569136382763.jpg
 categories: 
   - viajar-en-familia
@@ -18,7 +19,7 @@ con total comodidad y sin esfuerzo.
 
 ![Montañas naturaleza viajes](https://fotos.etheriamagazine.com/2018/09/Suiza-puente-Titlis.jpg "El puente conocido como el Titlis Cliff Walk, en el Klein Titlis, ofrece unas vistas espectaculares. ©Oscar Nenander/swiss-image.ch.")
 
-Actualizado en febrero de 2024. 
+<!-- LEGACY_UPDATED: Actualizado en febrero de 2024. -->
 
 Los suizos son expertos en hacerlo todo fácil y han conseguido que puedan disfrutar de 
 la montaña aquellos que no se consideran montañeros. La puntualidad y coordinación de 

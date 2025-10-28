@@ -10,12 +10,12 @@ authors:
   - Susana García
 ---
 
-**Los festivales de cine aportan a las ciudades un punto de cultura y _glamour_ que las 
+Los festivales de cine aportan a las ciudades un punto de cultura y _glamour_ que las 
 hacen más atractivas durante los días que se celebran. En San Sebastián, del 21 al 29 de 
 septiembre, se concentran propuestas innovadoras y grandes figuras internacionales. Este 
 año incluye una retrospectiva de una directora que merecería un puesto más destacado en 
 la historia del cine: la británica Muriel Box. A continuación tienes algunas 
-consideraciones y claves para entender y no perderte nada de esta gran cita cultural.** 
+consideraciones y claves para entender y no perderte nada de esta gran cita cultural. 
 
 ![fin de semana en San Sebastian](https://fotos.etheriamagazine.com/2018/07/san-sebastian-playa-concha.jpg "Playa de la Concha de San Sebastián.")
 

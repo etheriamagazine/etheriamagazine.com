@@ -10,11 +10,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Pasar unos días en Málaga es una propuesta imbatible sea cual sea la época del año 
+Pasar unos días en Málaga es una propuesta imbatible sea cual sea la época del año 
 porque hay infinitos planes más allá del "sol y playa". Pueblos blancos, sierras, 
 acantilados, pequeñas calas… las posibilidades de pasarlo bien en esta provincia son 
 tantas que nos ha costado seleccionar sólo quince lugares que ver en Málaga. Te los 
-contamos en este artículo.** 
+contamos en este artículo. 
 
 ![Mirador sobre Mijas Costa](https://fotos.etheriamagazine.com/2023/03/Mirador-mijas-costa-sol.jpg "Mirador de Mijas sobre la Costa del Sol. © Turismo de Andalucía.")
 

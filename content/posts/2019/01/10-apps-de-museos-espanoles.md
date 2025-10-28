@@ -9,11 +9,10 @@ authors:
   - Redacción Etheria
 ---
 
-**El mundo del arte no permanece ajeno a las nuevas tecnologías y cada vez más museos 
+El mundo del arte no permanece ajeno a las nuevas tecnologías y cada vez más museos 
 apuestan por la tecnología para facilitar el acceso a la información sobre las obras. 
 Aquí te proponemos 10 apps de museos que puedes descargarte en tu móvil y que te 
-facilitarán las visitas e, incluso, te permitirán disfrutar de grandes obras desde 
-casa.** 
+facilitarán las visitas e, incluso, te permitirán disfrutar de grandes obras desde casa. 
 
 ![mujer consultado el móvil en un banco](https://fotos.etheriamagazine.com/2019/01/mujer-movil-museos.jpg "Las aplicaciones móviles pueden completar tu visita a un museo.")
 

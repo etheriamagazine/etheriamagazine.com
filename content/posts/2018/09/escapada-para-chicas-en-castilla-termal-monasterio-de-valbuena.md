@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**En Monasterio de Valbuena, el cinco estrellas de Castilla Termal, el descanso, el 
-relax y la gastronomía van de la mano. En este hotel-balneario situado en la provincia 
-de Valladolid encontramos propuestas para todos los públicos, entre ellas también una 
-dirigida exclusivamente a chicas.** 
+En Monasterio de Valbuena, el cinco estrellas de Castilla Termal, el descanso, el relax 
+y la gastronomía van de la mano. En este hotel-balneario situado en la provincia de 
+Valladolid encontramos propuestas para todos los públicos, entre ellas también una 
+dirigida exclusivamente a chicas. 
 
 ![escapada relax, viajes con amigas, hotel valbuena](https://fotos.etheriamagazine.com/2018/09/escapada-relax-chicas-e1565250399236.jpg "chica nadando en una piscina")
 

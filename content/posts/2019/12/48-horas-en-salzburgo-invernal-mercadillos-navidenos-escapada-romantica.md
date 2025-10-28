@@ -10,11 +10,11 @@ authors:
   - Ana María Pareja
 ---
 
-**Los meses más fríos del año en la ciudad de Mozart son sinónimo de mercadillos, 
-galletas de jengibre, vino caliente, paseos y mucha música. Todo este espíritu romántico 
+Los meses más fríos del año en la ciudad de Mozart son sinónimo de mercadillos, galletas 
+de jengibre, vino caliente, paseos y mucha música. Todo este espíritu romántico 
 entremezclado con sus ya célebres atractivos culturales, arquitectónicos y naturales 
 configuran una escapada de fin de semana a Salzburgo en invierno perfecta para disfrutar 
-en pareja.** 
+en pareja. 
 
 ![Mercado de Navidad en Salzburgo](https://fotos.etheriamagazine.com/2019/11/Salzburgo-mercadillo-navidad-catedral.jpg "Mercadillo Christkindlmarkt junto a la catedral. © Österreich Werbung/ Bryan Reinhart")
 

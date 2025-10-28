@@ -12,10 +12,10 @@ authors:
   - Susana García
 ---
 
-**La excursión a Abu Simbel suele aparecer como opcional en la mayoría de los viajes que 
+La excursión a Abu Simbel suele aparecer como opcional en la mayoría de los viajes que 
 se organizan por Egipto pero aquí te explicamos por qué es imprescindible. También te 
 damos algunas claves para organizar una visita a Abu Simbel y aprovecharla al máximo. 
-Será un lugar que quedará para siempre en tu memoria.** 
+Será un lugar que quedará para siempre en tu memoria. 
 
 ![fachada de Abu Simbel](https://fotos.etheriamagazine.com/2023/06/egipto-abu-simbel-amanecer.jpg "Entrada del templo principal de Abu Simbel con los cuatro colosos de Ramsés II al amanecer. © Susana García")
 

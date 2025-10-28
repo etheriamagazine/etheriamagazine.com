@@ -1,6 +1,7 @@
 ---
 title: "Mercadillos navideños de Varsovia y Cracovia, un viaje a la magia de la Navidad"
 date: 2019-10-30
+lastmod: 2024-09-01
 cover: https://fotos.etheriamagazine.com/2019/10/polonia-luces-fuente-navidad-varsovia.jpg
 categories: 
   - viajar-en-familia
@@ -17,7 +18,7 @@ para averiguar decenas de curiosidades que enriquecerán tu viaje.
 
 ![adornos mercadillo navideno de varsovia](https://fotos.etheriamagazine.com/2019/10/navidad-varsovia-adornos.jpg "Adornos en Varsovia. ©Manena Munar")
 
-Actualizado en septiembre de 2024. 
+<!-- LEGACY_UPDATED: Actualizado en septiembre de 2024. -->
 
 La Navidad asoma llena de magia, regalos y momentos para compartir en familia y con 
 amigos. Una de las mejores formas de anticiparla unas semanas es organizar un viaje al 

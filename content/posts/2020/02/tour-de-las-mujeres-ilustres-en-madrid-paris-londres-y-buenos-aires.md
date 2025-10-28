@@ -11,9 +11,9 @@ authors:
   - Redacción Etheria
 ---
 
-**El Tour de las Mujeres Ilustres en Madrid y en otras capitales del mundo brinda una 
+El Tour de las Mujeres Ilustres en Madrid y en otras capitales del mundo brinda una 
 excelente oportunidad para conocer y valorar el papel que la mujer ha tenido en la 
-historia.** 
+historia. 
 
 ![Centro de Madrid](https://fotos.etheriamagazine.com/2020/02/tour-mujeres-madrid.jpg "Centro de Madrid. © Florian Wehde")
 

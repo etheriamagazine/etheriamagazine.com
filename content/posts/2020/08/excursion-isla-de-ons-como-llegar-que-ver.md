@@ -1,6 +1,7 @@
 ---
 title: "La isla de Ons o cómo disfrutar del Caribe sin salir de España"
 date: 2020-08-06
+lastmod: 2024-09-01
 cover: https://fotos.etheriamagazine.com/2020/08/viaje-galicia-isla-ons-1.jpg
 categories: 
   - viajar-con-amigas
@@ -19,7 +20,7 @@ comparan con una isla caribeña pero puedes disfrutar de la misma sin salir de E
 
 ![Ons, un paraíso poco masificado.](https://fotos.etheriamagazine.com/2020/08/viaje-galicia-isla-ons-1.jpg "Ons, un paraíso poco masificado. © Piratas de Nabia")
 
-Actualizado 09/24 
+<!-- LEGACY_UPDATED: Actualizado 09/24 -->
 
 Seguro que no es la primera vez que escuchas que Galicia es un **paraíso natural** donde 
 verde y azul se mezclan como un cóctel fresco que tomas en un caluroso día de verano. 

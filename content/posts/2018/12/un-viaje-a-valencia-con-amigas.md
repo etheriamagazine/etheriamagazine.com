@@ -10,10 +10,10 @@ authors:
   - Macarena Escrivá
 ---
 
-**Si te decimos que para el puente de diciembre las temperaturas máximas serán de 20 
+Si te decimos que para el puente de diciembre las temperaturas máximas serán de 20 
 grados, seguro que correrás a preguntarnos dónde. En Valencia. La capital del Turia goza 
 de las bondades de una climatología envidiable y un tamaño perfecto para tu próxima 
-escapada con amigas.** 
+escapada con amigas. 
 
 ![Palau Alameda, un imprescindible de la noche en Valencia.](https://fotos.etheriamagazine.com/2018/11/valencia-con-amigas-Palau-Alameda.jpg "Palau Alameda, un imprescindible de la noche en Valencia.")
 

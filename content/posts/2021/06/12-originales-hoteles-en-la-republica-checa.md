@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Reconocemos la importancia del destino al elegir nuestras vacaciones pero, cada vez 
-más, apostamos por cuidar otros detalles de nuestro viaje. Como el alojamiento es uno de 
-los principales, hemos seleccionado 12 hoteles en la República Checa muy originales que 
-pondrán la guinda a tu escapada europea.** 
+Reconocemos la importancia del destino al elegir nuestras vacaciones pero, cada vez más, 
+apostamos por cuidar otros detalles de nuestro viaje. Como el alojamiento es uno de los 
+principales, hemos seleccionado 12 hoteles en la República Checa muy originales que 
+pondrán la guinda a tu escapada europea. 
 
 ![Cimra Bude liberec hoteles en la republica checa](https://fotos.etheriamagazine.com/2021/06/chequia-hotel-Cimra-bude.jpg "© Cimra Bude, en la región de Liberec.")
 

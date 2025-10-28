@@ -10,12 +10,12 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Aunque Bilbao suele ser la puerta de entrada y uno de los polos turísticos más 
+Aunque Bilbao suele ser la puerta de entrada y uno de los polos turísticos más 
 importantes de la provincia de Vizcaya (Bizkaia), más allá de su capital hay todo un 
 mundo dispuesto a ser descubierto. Para darte las mejores pistas, hemos recorrido este 
 territorio vasco desde el interior hasta la costa para recomendarte los lugares 
 imprescindibles de Vizcaya y todo aquello que tienes que ver en tu viaje. ¿Nos 
-acompañas?** 
+acompañas? 
 
 ![Panorámica de la ría de Bilbao con el Museo Guggenheim en primer plano.](https://fotos.etheriamagazine.com/2023/05/bilbao-vistas-ria.jpg "Panorámica de la ría de Bilbao con el Museo Guggenheim en primer plano. © Jorge Fernández Salas")
 

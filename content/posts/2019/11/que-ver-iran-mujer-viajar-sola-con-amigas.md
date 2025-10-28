@@ -10,10 +10,10 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Persia sigue viva. El gran imperio que fue en la Antigüedad mantiene su esencia en 
-Irán, un lugar que sorprende desde el primer minuto. Aquí, nada es como esperas y 
-cualquier visita supera las expectativas. En este artículo te contamos qué ver en Irán 
-para que la sonrisa de este pueblo se quede en tu memoria para siempre.** 
+Persia sigue viva. El gran imperio que fue en la Antigüedad mantiene su esencia en Irán, 
+un lugar que sorprende desde el primer minuto. Aquí, nada es como esperas y cualquier 
+visita supera las expectativas. En este artículo te contamos qué ver en Irán para que la 
+sonrisa de este pueblo se quede en tu memoria para siempre. 
 
 ![Palacio de Golestan Palace en Irán](https://fotos.etheriamagazine.com/2019/10/viaje-iran-teheran-1.jpg "Palacio de Golestan, en Teherán.")
 

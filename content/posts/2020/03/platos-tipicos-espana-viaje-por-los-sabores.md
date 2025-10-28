@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Conviértete en el mejor chef de tu casa y degusta algunos platos típicos de España 
+Conviértete en el mejor chef de tu casa y degusta algunos platos típicos de España 
 cocinados por ti mismo. Viaja mentalmente durante una semana a través de estas 7 
 recetas: fabada, salmorejo, paella, cocido, migas, lechazo y pulpo. El menú hoy lo 
-eliges tú.** 
+eliges tú. 
 
 ![Mujer cocinando en el horno](https://fotos.etheriamagazine.com/2020/03/cocinera.jpg "Descubre el placer de cocinar.")
 

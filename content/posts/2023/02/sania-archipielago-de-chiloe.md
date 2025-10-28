@@ -10,10 +10,10 @@ authors:
   - Sania Jelic
 ---
 
-**Sania Jelic realiza desde Puerto Montt una excursión de unos días al archipiélago de 
+Sania Jelic realiza desde Puerto Montt una excursión de unos días al archipiélago de 
 Chiloé, uno de los parajes naturales más interesantes de Chile. Nos lo cuenta, como 
 siempre, en primera persona aportando datos prácticos para quienes se estén planteando 
-viajar solas por esta parte del mundo.** 
+viajar solas por esta parte del mundo. 
 
 ![Paisaje en la isla principal del archipiélago de la isla de Chiloé.](https://fotos.etheriamagazine.com/2023/01/sania-chiloe-cucao.jpg "Paisaje en la isla principal del archipiélago de Chiloé.")
 

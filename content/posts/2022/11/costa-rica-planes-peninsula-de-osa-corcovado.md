@@ -10,11 +10,11 @@ authors:
   - Etheria Magazine
 ---
 
-**Eida Fletes es una mujer de corazón y una gran embajadora de la Península de Osa. Esta 
+Eida Fletes es una mujer de corazón y una gran embajadora de la Península de Osa. Esta 
 empresaria de Costa Rica desarrolla su vida y su actividad en el entorno del Parque 
 Nacional de Corcovado, un territorio que te invitamos a conocer para descubrir grandes 
 dosis de naturaleza, interesantes pueblos indígenas y sorprendentes tesoros 
-precolombinos.** 
+precolombinos. 
 
 ![Eides Fletes, una emprendedora enamorada de la Península de Osa.](https://fotos.etheriamagazine.com/2022/11/Eida-Fletes-costa-rica.jpg "Eides Fletes, una emprendedora enamorada de la Península de Osa.")
 

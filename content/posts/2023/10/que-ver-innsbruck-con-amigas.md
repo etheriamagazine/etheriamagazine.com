@@ -1,6 +1,7 @@
 ---
 title: "Innsbruck con amigas, una escapada con sello tirolés"
 date: 2023-10-18
+lastmod: 2024-09-01
 cover: https://fotos.etheriamagazine.com/2023/10/que-ver-innsbruck-Maria-Theresien-Strasse.jpg
 categories: 
   - viajar-con-amigas
@@ -18,7 +19,7 @@ Y si viajas a Innsbruck con amigas, mejor que mejor.
 
 ![Maria-Theresien Strasse, la fisonomía de Innsbruck en una sola imagen](https://fotos.etheriamagazine.com/2023/10/que-ver-innsbruck-Maria-Theresien-Strasse.jpg "Maria-Theresien Strasse, la fisonomía de Innsbruck en una sola imagen. © Alícia Bea")
 
-Actualizado 9/2024 
+<!-- LEGACY_UPDATED: Actualizado 9/2024 -->
 
 Convencer a tu _troupe_ no resultará complicado: háblales de naturaleza, arte, tradición 
 y vanguardia, de paseos en bici a la vera del río Inn, de la magia de Swarovski y de 

@@ -1,6 +1,7 @@
 ---
 title: "Freud en Viena, una ruta siguiendo los pasos del padre del psicoanálisis"
 date: 2020-04-17
+lastmod: 2023-11-01
 cover: https://fotos.etheriamagazine.com/2020/04/ruta-freud-Cafe-Central.jpg
 categories: 
   - viajar-con-amigas
@@ -11,14 +12,14 @@ authors:
   - Pepa G. Marín
 ---
 
-**En unos tiempos en los que el psicoanálisis es más necesario que nunca, os animamos a 
+En unos tiempos en los que el psicoanálisis es más necesario que nunca, os animamos a 
 conocer los lugares donde discurrió la vida de Sigmund Freud en Viena. Comienza en el 
 Museo Sigmund Freud, una visita esencial para conocer mejor a este revolucionario 
-neurólogo y psiquiatra.** 
+neurólogo y psiquiatra. 
 
 ![freud netflix, ruta freud en viena, museo de freud viena](https://fotos.etheriamagazine.com/2020/04/ruta-viena-Sigmund-Freud.jpg "Freud (1906): © Sigmund Freud Privatstiftung. Diván: © Gerald Zugmann. Entrada: © Florian Lierzer/ Sigmund Freud Foundation")
 
-**Actualizado 11/2023** 
+<!-- LEGACY_UPDATED: **Actualizado 11/2023** -->
 
 Es posible que ya estés familiarizado con la vida y el legado de Sigmund Freud 
 (1856-1939), ampliamente reconocido como el fundador del psicoanálisis y uno de los 

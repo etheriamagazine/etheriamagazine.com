@@ -10,10 +10,10 @@ authors:
   - Yolanda Cardo
 ---
 
-**Los numerosos atractivos de la provincia de Girona la convierten en el destino 
-perfecto al que escaparse en cualquier época de año. Si aún no sabéis cómo organizar 
-vuestro viaje con amigas, aquí os dejamos 15 lugares imprescindibles en Girona que os 
-encantarán.** 
+Los numerosos atractivos de la provincia de Girona la convierten en el destino perfecto 
+al que escaparse en cualquier época de año. Si aún no sabéis cómo organizar vuestro 
+viaje con amigas, aquí os dejamos 15 lugares imprescindibles en Girona que os 
+encantarán. 
 
 ![pinos junto al mar en la Costa Brava de Girona](https://fotos.etheriamagazine.com/2022/10/Paisaje-Costa-Brava.jpg "Paisaje característico de la Costa Brava. © Yolanda Cardo.")
 

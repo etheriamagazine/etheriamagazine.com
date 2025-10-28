@@ -11,10 +11,10 @@ authors:
   - Pedro Grifol
 ---
 
-**El pintor Rembrandt van Rijn se movió entre Leiden, su ciudad natal, y Ámsterdam, 
-donde desarrolló su carrera. No tuvo necesidad de viajar a ningún sitio. Fans y clientes 
-iban donde su estudio estuviera. Aquí hemos viajado nosotros también para contarte qué 
-ver en Leiden.** 
+El pintor Rembrandt van Rijn se movió entre Leiden, su ciudad natal, y Ámsterdam, donde 
+desarrolló su carrera. No tuvo necesidad de viajar a ningún sitio. Fans y clientes iban 
+donde su estudio estuviera. Aquí hemos viajado nosotros también para contarte qué ver en 
+Leiden. 
 
 ![paseo en bicicleta por Leiden](https://fotos.etheriamagazine.com/2019/11/que-ver-Leiden.jpg "Estampa otoñal de Leiden. ©Pedro Grifol")
 

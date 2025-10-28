@@ -1,6 +1,7 @@
 ---
 title: "Los almendros en flor de la Quinta de los Molinos inaguran la primavera madrileña"
 date: 2019-02-22
+lastmod: 2025-08-01
 cover: https://fotos.etheriamagazine.com/2019/02/almendros-flor-quinta-molinos.jpg
 categories: 
   - organiza-tu-viaje
@@ -18,7 +19,7 @@ los Molinos. Sí, en un entorno urbano también se pueden ver las bonitas flores
 
 ![Almendros en flor en la Quinta de los Molinos de Madrid. © Etheria Magazine](https://fotos.etheriamagazine.com/2019/02/almendros-quinta-los-molinos-1.jpg "Almendros en flor en la Quinta de los Molinos de Madrid.")
 
-**Actualizado 8/2025** 
+<!-- LEGACY_UPDATED: **Actualizado 8/2025** -->
 
 Este es un secreto a voces que cada año atrae a más curiosos y amantes de la naturaleza. 
 Y es que, ¿cómo resistirnos a ver miles de almendros (dicen que 6.000) cubiertos por una 

@@ -1,6 +1,7 @@
 ---
 title: "Pasear entre tumbas en Madrid: claves del necroturismo en el cementerio de la Almudena"
 date: 2019-10-30
+lastmod: 2022-10-18
 cover: https://fotos.etheriamagazine.com/2019/10/cementerio-almudena-tetas-desnudo.jpg
 categories: 
   - viajar-con-amigas
@@ -14,7 +15,7 @@ El cementerio de la Almudena es el camposanto más grande de Europa occidental y
 
 ![famosos en cementerio almudena, ruta dia de muertos](https://fotos.etheriamagazine.com/2019/10/cementerio-almudena-dia-todos-los-santos.jpg "Cementerio de la Almudena, Madrid. © Kelu Robles")
 
-Act. 18/10/22 
+<!-- LEGACY_UPDATED: Act. 18/10/22 -->
 
 Mide lo mismo que ciento veinte campos de fútbol juntos. O como todo el casco histórico 
 de Segovia”. Para **Carlos Sanza**, el Secretario General de Servicios Funerarios de 

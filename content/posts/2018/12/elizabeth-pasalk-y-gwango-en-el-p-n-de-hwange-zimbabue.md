@@ -12,10 +12,10 @@ authors:
   - Manena Munar
 ---
 
-**El Parque Nacional de Hwange está íntimamente unido a la vida de Elizabeth Pasalk y de 
+El Parque Nacional de Hwange está íntimamente unido a la vida de Elizabeth Pasalk y de 
 su marido Danny. Como lo está a los descendientes de la dinastía Rozvi, habitantes 
 genuinos de la reserva Hwange hasta 1928, fecha en la que se declaró parque nacional y 
-los Rozvi se trasladaron a Nambya King, donde viven actualmente.** 
+los Rozvi se trasladaron a Nambya King, donde viven actualmente. 
 
 ![Elizabeth Pasalk](https://fotos.etheriamagazine.com/2018/12/Elizabet-lodge-zinbabue-mujer-etheria.jpg "Elizabeth Pasalk, una vida unida a Zimbabue.")
 

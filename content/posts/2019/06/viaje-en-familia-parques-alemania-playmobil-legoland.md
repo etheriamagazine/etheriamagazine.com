@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-**Una de las zonas europeas con la que aciertas sí o sí en un viaje familiar es el sur 
-de Alemania, ya que combina ciudades históricas con dos de los mejores parques para 
-niños: el Fun Park Playmobil y Legoland. Aquí te proponemos una ruta de seis días para 
-que aproveches el tiempo sin perderte nada.** 
+Una de las zonas europeas con la que aciertas sí o sí en un viaje familiar es el sur de 
+Alemania, ya que combina ciudades históricas con dos de los mejores parques para niños: 
+el Fun Park Playmobil y Legoland. Aquí te proponemos una ruta de seis días para que 
+aproveches el tiempo sin perderte nada. 
 
 ![prado y montañas en Baviera](https://fotos.etheriamagazine.com/2019/05/Baviera-paisaje.jpg "Paisaje del sur de Baviera.")
 

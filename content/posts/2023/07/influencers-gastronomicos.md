@@ -9,13 +9,13 @@ authors:
   - Rafael de Rojas
 ---
 
-**Un restaurante aparece mucho y muy fuerte, a la vez, en todas las reseñas. Luego, se 
+Un restaurante aparece mucho y muy fuerte, a la vez, en todas las reseñas. Luego, se 
 desvanece para siempre. Son los enigmas promovidos por los nuevos ‘influencers’ 
 gastronómicos metidos a críticos, que se atreven con todo. Gurús del Omeprazol que, 
 cuando escriben, lo mismo le dan a la autoayuda que a las citas de los griegos, porque 
-todo lo saben y todo lo hacen bien. Menos una cosa.** 
+todo lo saben y todo lo hacen bien. Menos una cosa. 
 
-Crónica humorística de **Rafael de Rojas** 
+<!-- LEGACY_INFO: Crónica humorística de **Rafael de Rojas** -->
 
 ![Varios influencers gastronómicos sentados en una mesa en torno a una langosta](https://fotos.etheriamagazine.com/2023/07/influencers-gastro.jpg "Ilustración de Inés Arango.")
 

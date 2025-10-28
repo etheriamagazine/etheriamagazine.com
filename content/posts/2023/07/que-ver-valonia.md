@@ -10,10 +10,10 @@ authors:
   - Yolanda Cardo
 ---
 
-**Situado al sur de Bruselas, este hermoso territorio, limítrofe con Francia, Alemania, 
+Situado al sur de Bruselas, este hermoso territorio, limítrofe con Francia, Alemania, 
 Luxemburgo y Países Bajos, esconde muchos tesoros. Os desvelamos qué ver en Valonia y 
 cómo sacar el máximo partido a un destino tan sorprendente como cautivador, que es 
-perfecto para organizar una escapada con amigas.** 
+perfecto para organizar una escapada con amigas. 
 
 ![Panorámica de Dinant desde la ciudadela](https://fotos.etheriamagazine.com/2023/06/Valonia-Dinant-desde-la-ciudadela.jpg "Panorámica de Dinant desde la ciudadela. © Yolanda Cardo.")
 

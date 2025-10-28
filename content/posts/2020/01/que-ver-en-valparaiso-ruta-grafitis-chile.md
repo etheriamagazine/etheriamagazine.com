@@ -10,11 +10,10 @@ authors:
   - Firmas invitadas
 ---
 
-**Al primer golpe de vista, el conjunto de colinas que rodea la bahía de Valparaíso 
-parece un pantone donde no falta ningún color. Pero lo mejor viene cuando te internas 
-por sus calles empinadas contemplando los murales que cubren fachadas y tapias. Más de 
-200 obras maestras efímeras han convertido a la ciudad en la capital mundial del arte 
-callejero.** 
+Al primer golpe de vista, el conjunto de colinas que rodea la bahía de Valparaíso parece 
+un pantone donde no falta ningún color. Pero lo mejor viene cuando te internas por sus 
+calles empinadas contemplando los murales que cubren fachadas y tapias. Más de 200 obras 
+maestras efímeras han convertido a la ciudad en la capital mundial del arte callejero. 
 
 **Texto y fotos: Menchu Redondo** 
 

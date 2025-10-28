@@ -1,6 +1,7 @@
 ---
 title: "Esto es lo que ocurrirá si haces un viaje romántico a Apulia"
 date: 2019-11-25
+lastmod: 2025-08-01
 cover: https://fotos.etheriamagazine.com/2019/11/viaje-puglia-trani-puerto.jpg
 categories: 
   - viajar-en-pareja
@@ -17,7 +18,7 @@ Apulia para que no te pierdas nada si organizas una escapada con tu pareja.
 
 ![Piazza Mercantile, Bari](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-portada.jpg "Piazza Mercantile, Bari. © Kelu Robles")
 
-Actualizado 8/2025 
+<!-- LEGACY_UPDATED: Actualizado 8/2025 -->
 
 El tacón de la bota de Italia, en una península dentro de otra península, es capaz de 
 reunir todos los **tópicos italianos**: los pulleses son fanfarrones, abiertos, 

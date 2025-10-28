@@ -1,6 +1,7 @@
 ---
 title: "9 preciosos cortijos andaluces para recibir a la primavera"
 date: 2021-03-16
+lastmod: 2024-03-01
 cover: https://fotos.etheriamagazine.com/2021/03/cortijo-bravo-malaga.jpg
 categories: 
   - viajar-con-amigas
@@ -19,7 +20,7 @@ Córdoba, Granada, Almería, Cádiz y Málaga.
 
 ![Finca La Donaira en la Serranía de Ronda](https://fotos.etheriamagazine.com/2021/03/finca-la-donaira-cadiz.jpg "© Finca La Donaira (Serranía de Ronda, Málaga).")
 
-**Actualizado en marzo de 2024** 
+<!-- LEGACY_UPDATED: **Actualizado en marzo de 2024** -->
 
 Trata de imaginar que no tienes nada que hacer excepto disfrutar de un tiempo fabuloso, 
 de una copa de vino y paseos tranquilos. De respirar los aromas del campo bajo el sol 

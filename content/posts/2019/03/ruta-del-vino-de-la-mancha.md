@@ -11,10 +11,10 @@ authors:
   - Firmas invitadas
 ---
 
-**La Mancha es… Don Quijote, horizontes infinitos, pueblos blancos, molinos, castillos, 
+La Mancha es… Don Quijote, horizontes infinitos, pueblos blancos, molinos, castillos, 
 caminos entre parcelas de tierra roja, sol, campos de cereal, más sol, vino… y turismo 
 del vino. La Ruta del Vino de La Mancha es la expresión de ese turismo, la expresión del 
-enoturismo en la región que alberga el viñedo más grande del mundo.** 
+enoturismo en la región que alberga el viñedo más grande del mundo. 
 
 **Autor: Óscar Checa Algarra** 
 

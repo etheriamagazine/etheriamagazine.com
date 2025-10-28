@@ -1,6 +1,7 @@
 ---
 title: "Miami con niños: 7 planes para viajar en familia"
 date: 2018-05-09
+lastmod: 2025-08-01
 cover: https://fotos.etheriamagazine.com/2018/05/Miami-Beach.jpg
 categories: 
   - viajar-en-familia
@@ -16,7 +17,7 @@ perderte en un viaje con niños a Miami.
 
 ![Miami en familia](https://fotos.etheriamagazine.com/2018/05/Miami-Beach.jpg "Playa de Miami Beach. © SG")
 
-Actualizado agosto 2025 
+<!-- LEGACY_UPDATED: Actualizado agosto 2025 -->
 
 El mejor lugar para descubrir Miami en un viaje en familia es South Beach, que 
 representa la imagen que todos tenemos en la mente de esta ciudad de sol y palmeras. Sus 

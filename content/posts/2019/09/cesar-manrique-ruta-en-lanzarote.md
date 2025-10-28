@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**La ruta de César Manrique es un itinerario imprescindible en un viaje a Lanzarote. En 
+La ruta de César Manrique es un itinerario imprescindible en un viaje a Lanzarote. En 
 este artículo te hablamos de este apasionante artista y del legado que dejó en, según 
 sus propias palabras, “el lugar más bello de la Tierra”. ¿Estás preparada para comprobar 
-que no exageraba?** 
+que no exageraba? 
 
 ![César Manrique posa con una de sus obras.](https://fotos.etheriamagazine.com/2019/09/Cesar-Manrique-lanzarote.jpg "César Manrique posa con una de sus obras.")
 

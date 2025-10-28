@@ -13,9 +13,9 @@ authors:
   - Pepa G. Marín
 ---
 
-**Fuera estrés, te contamos los imprescindibles de Salamanca que tienes que visitar si 
-vas un solo día o te quedas un fin de semana corto. Entre estas recomendaciones 
-encontrarás visitas monumentales, experiencias y buen tapeo. ¡Qué más se puede pedir!** 
+Fuera estrés, te contamos los imprescindibles de Salamanca que tienes que visitar si vas 
+un solo día o te quedas un fin de semana corto. Entre estas recomendaciones encontrarás 
+visitas monumentales, experiencias y buen tapeo. ¡Qué más se puede pedir! 
 
 ![Plaza Mayor de Salamanca](https://fotos.etheriamagazine.com/2018/05/2-Viajar-sola-a-Salamanca.jpg "La Plaza Mayor es el mejor lugar para tomar el pulso a Salamanca. © Etheria Magazine")
 

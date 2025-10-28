@@ -11,10 +11,10 @@ authors:
   - Etheria Magazine
 ---
 
-**El hotel Urban presenta como parte de su oferta de ocio Glass by Sips, un espacio 
+El hotel Urban presenta como parte de su oferta de ocio Glass by Sips, un espacio 
 dedicado a los cócteles de autor con propuestas de lo más originales. Este es un motivo 
 más para acercarse a este singular hotel de lujo de la capital, que ya tiene en su 
-terraza de verano un importante foco de atracción de vida nocturna madrileña.** 
+terraza de verano un importante foco de atracción de vida nocturna madrileña. 
 
 ![Glass by Sips, el espacio para cócteles de autor del hotel Urban.](https://fotos.etheriamagazine.com/2023/06/urban-glass-by-sips-bar.jpg "Glass by Sips, el espacio para cócteles de autor del hotel Urban.")
 

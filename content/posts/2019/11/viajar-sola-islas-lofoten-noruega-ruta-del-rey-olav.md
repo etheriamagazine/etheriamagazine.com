@@ -12,10 +12,10 @@ authors:
   - Marina Paul
 ---
 
-**A las islas Lofoten, consideradas entre las islas más bonitas del mundo, se puede 
-viajar por libre de una forma sencilla con la información adecuada. Te damos todos los 
-datos que necesitas sobre las visitas que más nos han gustado, medios de transporte para 
-moverte y consejos prácticos. Viajar sola con Etheria Magazine es cada vez más fácil.** 
+A las islas Lofoten, consideradas entre las islas más bonitas del mundo, se puede viajar 
+por libre de una forma sencilla con la información adecuada. Te damos todos los datos 
+que necesitas sobre las visitas que más nos han gustado, medios de transporte para 
+moverte y consejos prácticos. Viajar sola con Etheria Magazine es cada vez más fácil. 
 
 ![Henninsvaer](https://fotos.etheriamagazine.com/2019/11/viaje-mujeres-lofoten-Henninsvaer.jpg "Bucólica imagen de Henninsvaer. © Marina Paul")
 

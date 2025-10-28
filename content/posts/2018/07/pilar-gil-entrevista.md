@@ -9,10 +9,10 @@ authors:
   - Susana García
 ---
 
-**Pilar Gil, directora comercial y de marketing de la mayorista de viajes Catai, es una 
-de las Mujeres Etheria que nos inspiran por su personalidad, fuerza y por haber sido 
+Pilar Gil, directora comercial y de marketing de la mayorista de viajes Catai, es una de 
+las Mujeres Etheria que nos inspiran por su personalidad, fuerza y por haber sido 
 pionera en el mundo directivo de las agencias de viajes, un sector eminentemente 
-masculino.** 
+masculino. 
 
 ![Entrevista a PIlar Gil Catai, mujeres que inspiran, mujeres viajeras](https://fotos.etheriamagazine.com/2018/06/entrevista-pilar-gil-e1552903445648.jpg "Pilar Gil.")
 

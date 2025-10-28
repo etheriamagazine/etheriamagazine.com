@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Viajar a Europa en verano siempre es una apuesta segura y, si visitas una isla, 
-tendrás además el mar cerca y la comodidad de poder moverte en un territorio más 
-reducido. Aquí te proponemos diez islas de Europa muy distintas, para todo tipo de 
-viajeras y para que elijas la mejor para tu viaje con amigas, en pareja o en familia.** 
+Viajar a Europa en verano siempre es una apuesta segura y, si visitas una isla, tendrás 
+además el mar cerca y la comodidad de poder moverte en un territorio más reducido. Aquí 
+te proponemos diez islas de Europa muy distintas, para todo tipo de viajeras y para que 
+elijas la mejor para tu viaje con amigas, en pareja o en familia. 
 
 ![Mirador sobre la Gruta de Calipso, en la isla de Gozo.](https://fotos.etheriamagazine.com/2018/05/1-Viaje-a-Gozo-y-Malta-Gruta-Calipso.jpg "Mirador sobre la Gruta de Calipso, en la isla de Gozo.")
 

@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**La forma más soñada de una luna de miel toma forma de gran viaje y playas 
-paradisíacas, pero a menudo no hace falta irse muy lejos para disfrutar de lugares 
-maravillosos llenos de interés viajero. En este artículo os demostramos con solo 10 
-opciones (hay muchas más) por qué Europa es perfecta para vuestro viaje de novios.** 
+La forma más soñada de una luna de miel toma forma de gran viaje y playas paradisíacas, 
+pero a menudo no hace falta irse muy lejos para disfrutar de lugares maravillosos llenos 
+de interés viajero. En este artículo os demostramos con solo 10 opciones (hay muchas 
+más) por qué Europa es perfecta para vuestro viaje de novios. 
 
 ![Un viaje de novios por Europa es una excelente opción.](https://fotos.etheriamagazine.com/2021/11/everton-vila-AsahNlC0VhQ-unsplash.jpg "Un viaje de novios por Europa es una excelente opción.")
 

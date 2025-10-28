@@ -10,11 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Combinar la diversión y el aprendizaje en un viaje puede ser muy sencillo si 
-encontramos un destino cuya infraestructura y personal esté preparado para ello. En 
-Etheria Magazine viajamos a Cataluña para conocer parte de su extenso patrimonio 
-industrial y su adaptación al turismo familiar y educativo. Os contamos nuestros 
-hallazgos...** 
+Combinar la diversión y el aprendizaje en un viaje puede ser muy sencillo si encontramos 
+un destino cuya infraestructura y personal esté preparado para ello. En Etheria Magazine 
+viajamos a Cataluña para conocer parte de su extenso patrimonio industrial y su 
+adaptación al turismo familiar y educativo. Os contamos nuestros hallazgos... 
 
 ![mina eugenia, turismo industrial](https://fotos.etheriamagazine.com/2019/12/mina-bellmunt-cataluna.jpg "Interior de la Mina Eugenia. ©P.G.")
 

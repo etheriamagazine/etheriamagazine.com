@@ -9,10 +9,10 @@ authors:
   - Susana García
 ---
 
-**En una isla tan volcada al turismo como Ibiza era necesario poner en valor el trabajo 
-de las mujeres que se dedican a este sector. Para ello, Alicia Reina y Eva Ballarín han 
+En una isla tan volcada al turismo como Ibiza era necesario poner en valor el trabajo de 
+las mujeres que se dedican a este sector. Para ello, Alicia Reina y Eva Ballarín han 
 creado Tanit Ibiza Conexion, un proyecto que ya ha entregado sus primeros premios y que 
-pone el foco en el liderazgo femenino en esta isla.** 
+pone el foco en el liderazgo femenino en esta isla. 
 
 ![Eva Ballarín y Alicia Reina, fundadora de Tanit Ibiza Conexion](https://fotos.etheriamagazine.com/2023/05/Tanit-fundadoras.jpg "Eva Ballarín y Alicia Reina, fundadoras de © Tanit Ibiza Conexion.")
 

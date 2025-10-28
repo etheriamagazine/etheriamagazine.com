@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Un viaje a Berlín es una de las mejores formas para reencontrarse con esas escapadas a 
+Un viaje a Berlín es una de las mejores formas para reencontrarse con esas escapadas a 
 las grandes ciudades europeas que tanto nos gustan. Aquí, la cultura en forma de museos 
 es uno de sus ‘highligths’. Tanto que estas 4 novedades que te contamos harán que vayas 
-buscando ya fecha para visitarla cuanto antes.** 
+buscando ya fecha para visitarla cuanto antes. 
 
 ![Humboldt Forum.](https://fotos.etheriamagazine.com/2021/09/Berlin-Humboldt-Forum.jpg "Humboldt Forum.© Visit Berlin/Chris Martin Scholl")
 

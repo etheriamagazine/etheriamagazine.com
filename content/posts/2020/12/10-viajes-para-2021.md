@@ -10,9 +10,9 @@ authors:
   - Redacción Etheria
 ---
 
-**Estos son los 10 destinos con los que el equipo de Etheria Magazine sueña viajar este 
+Estos son los 10 destinos con los que el equipo de Etheria Magazine sueña viajar este 
 año. Algunos son lugares deseados durante largo tiempo y otros se visitan con 
-frecuencia, pero todos resultan ideales para mujeres viajeras.** 
+frecuencia, pero todos resultan ideales para mujeres viajeras. 
 
 ![Iglesia de la Trinidad de Guergueti, en Georgia.](https://fotos.etheriamagazine.com/2020/12/georgia-viajes-2021.jpg "Iglesia de la Trinidad de Guergueti, en Georgia. © Timur Kozmenko")
 

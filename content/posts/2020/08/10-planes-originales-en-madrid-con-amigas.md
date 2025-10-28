@@ -1,6 +1,7 @@
 ---
 title: "10 planes originales en Madrid para hacer con amigas"
 date: 2020-08-27
+lastmod: 2024-04-01
 cover: https://fotos.etheriamagazine.com/2020/08/salvaje-canalejas-madrid.jpg
 categories: 
   - viajar-con-amigas
@@ -18,7 +19,7 @@ propuestas más que te contamos a continuación porque... ¡sólo se vive una ve
 
 ![terraza jardin de diana madrid](https://fotos.etheriamagazine.com/2020/08/terraza-jardin-diana-hyatt-madrid.jpg "Terraza Jardín de Diana, uno de los planes en Madrid con amigas.")
 
-Actualizado abril 2024 
+<!-- LEGACY_UPDATED: Actualizado abril 2024 -->
 
 Se escapan los días y nos da la sensación de que el tiempo se escurre entre los dedos 
 sin saber en qué. Y es cierto que las circunstancias no han ayudado mucho pero, con 

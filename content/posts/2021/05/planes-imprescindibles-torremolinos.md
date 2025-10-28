@@ -11,11 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Si al leer la palabra Torremolinos crees escuchar música de _Los Flames_ y ver a José 
+Si al leer la palabra Torremolinos crees escuchar música de _Los Flames_ y ver a José 
 Luis López Vázquez y a Alfredo Landa con despampanantes suecas, estás ante el artículo 
 adecuado porque necesitas una revisión urgente de tus referentes. Si quieres descubrir 
-su faceta más auténtica toma nota de estos diez planes imprescindibles en 
-Torremolinos.** 
+su faceta más auténtica toma nota de estos diez planes imprescindibles en Torremolinos. 
 
 ![paseo maritimo torremolinos](https://fotos.etheriamagazine.com/2021/05/playas-torremolinos.jpg "Paseo marítimo de Torremolinos. © Etheria Mag.")
 

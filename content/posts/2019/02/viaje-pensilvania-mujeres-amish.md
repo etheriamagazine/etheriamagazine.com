@@ -1,6 +1,7 @@
 ---
 title: "¿Cómo es ser mujer en tierra de los Amish?"
 date: 2019-02-07
+lastmod: 2024-03-01
 cover: https://fotos.etheriamagazine.com/2019/02/mujeres-amish-etheria-magazine-e1582367792775.jpg
 categories: 
   - entre-mujeres
@@ -16,7 +17,7 @@ y cómo viven las mujeres amish.
 
 ![Jóvenes amish con sus tocados de color blanco.](https://fotos.etheriamagazine.com/2019/02/mujeres-amish-etheria-magazine.jpg "Jóvenes amish con sus tocados de color blanco.")
 
-Actualizado 3/2024 
+<!-- LEGACY_UPDATED: Actualizado 3/2024 -->
 
 Sarah es una chica guapa y de rasgos dulces. Le brillan los ojos y su boca es carnosa. 
 Se cubre el pelo con un bonete negro y a su vestido marrón, largo y ancho, lo remata un 

@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-**Si hay un país al que viajar al menos una vez en la vida éste es Egipto. En un crucero 
+Si hay un país al que viajar al menos una vez en la vida éste es Egipto. En un crucero 
 por el Nilo la historia antigua del Egipto faraónico asoma en cada puerto y, mientras 
 tanto, sólo queda acodarse en la baranda y mirar cómo pasa la vida en la orilla de este 
-río, que sigue siendo una fuente inagotable de vida.** 
+río, que sigue siendo una fuente inagotable de vida. 
 
 ![barcos en el Nilo en Asuán](https://fotos.etheriamagazine.com/2023/04/crucero-nilo-asuan-excursion-poblado-nubio-barca.jpg "Barcos regresando al atardecer del poblado nubio en Asuán. © Susana García/ Etheria Magazine")
 

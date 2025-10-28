@@ -11,11 +11,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Cádiz se identifica con playas, pescaíto frito y fiestas, pero tiene otras facetas que 
+Cádiz se identifica con playas, pescaíto frito y fiestas, pero tiene otras facetas que 
 merece la pena conocer. Una de las joyas históricas que se deben visitar son las ruinas 
 romanas de Baelo Claudia. Está situada en plena playa de Bolonia, en Tarifa, por lo que 
 tendrás un dos por uno nada desdeñable. Te hemos preparado una pequeña guía para que 
-aproveches bien la visita.** 
+aproveches bien la visita. 
 
 ![trajano en baelo claudia, ruinas romanas de bolonia](https://fotos.etheriamagazine.com/2019/08/ruinas-romanas-bolonia.jpg "La estatua de Trajano preside la basílica. ©PG/2019")
 

@@ -9,12 +9,12 @@ authors:
   - Pepa G. Marín
 ---
 
-**Muchas mujeres detestan el momento de hacer la maleta y a otras les encanta pero, 
+Muchas mujeres detestan el momento de hacer la maleta y a otras les encanta pero, 
 quitando los extremos, a la mayoría nos parece un trámite aburrido –aunque necesario– 
 que debemos meditar para ahorrarnos sorpresas durante el viaje. En el caso de los 
 cruceros, con ese antiguo halo de exclusividad, la preocupación se incrementa. ¿Estás 
 preparada para desmitificar el 'mundo crucero'? Te contamos cómo preparar la maleta para 
-un crucero.** 
+un crucero. 
 
 ![Maleta en el mar](https://fotos.etheriamagazine.com/2018/11/hacer-maleta-crucero.jpg "Piensa bien cómo hacer la maleta para un crucero para no cargar de más.")
 

@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Cualquier momento es bueno para realizar una escapada con la que deleitarte 
+Cualquier momento es bueno para realizar una escapada con la que deleitarte 
 gastronómicamente y, de paso, conocer ciudades y regiones que merecen una ruta. Puede 
 que algunas apetezcan más en verano y otras en invierno pero eso lo dejamos a tu 
-elección.** 
+elección. 
 
 ![escapadas fin de semana, escapadas con chicas](https://fotos.etheriamagazine.com/2019/02/Viajes-amigas.jpg)
 

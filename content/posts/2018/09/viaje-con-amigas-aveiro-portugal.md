@@ -1,6 +1,7 @@
 ---
 title: "Aveiro no es la Venecia portuguesa, ni falta que hace"
 date: 2018-09-11
+lastmod: 2025-07-01
 cover: https://fotos.etheriamagazine.com/2018/09/aveiro-moliceiro-portugal-e1556956577209.jpg
 categories: 
   - viajar-con-amigas
@@ -17,7 +18,7 @@ comerás estupendamente y descubrirás sus curiosidades.
 
 ![viaje aveiro fin de semana moliceiros canales](https://fotos.etheriamagazine.com/2018/09/Atardecer-Aveiro-Etheria-e1556956528835.jpg "Atardecer sobre los canales de Aveiro. © Kelu Robles")
 
-Actualizado 7/2025 
+<!-- LEGACY_UPDATED: Actualizado 7/2025 -->
 
 Tiene tal belleza propia y tan portuguesa que, cuando la visites, nos darás la razón. 
 Más allá de clichés, nos referimos a una ciudad coqueta, rodeada por canales, edificios 

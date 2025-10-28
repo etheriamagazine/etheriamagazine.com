@@ -10,10 +10,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Aunque un viaje a Taiwán no es algo que se improvise, a veces pasamos por Taipéi, la 
+Aunque un viaje a Taiwán no es algo que se improvise, a veces pasamos por Taipéi, la 
 capital, un poco de puntillas para centrarnos en el resto del país. Si te estás 
 preguntando si merece la pena detenerse más de un día en esta ciudad, te confirmamos que 
-sí. Si quieres saber todo lo que tienes que ver en Taipéi, sigue leyendo...** 
+sí. Si quieres saber todo lo que tienes que ver en Taipéi, sigue leyendo... 
 
 ![Vistas desde el Grand Hotel de Taipéi.](https://fotos.etheriamagazine.com/2019/12/vistas-taipei-desde-grand-hotel.jpg "Vistas desde el Grand Hotel de Taipéi.  © Pepa García")
 

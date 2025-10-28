@@ -10,9 +10,9 @@ authors:
   - Pepa G. Marín
 ---
 
-**¿Buscas un alojamiento en Oporto bien ubicado, que transmita buenas vibraciones, a un 
+¿Buscas un alojamiento en Oporto bien ubicado, que transmita buenas vibraciones, a un 
 precio ajustado, con un ambiente dinámico y donde puedas estar tan relajada como en 
-casa? Existe y se llama Bluesock Hostel Porto.** **ACTUALMENTE ESTÁ CERRADO.** 
+casa? Existe y se llama Bluesock Hostel Porto. ACTUALMENTE ESTÁ CERRADO. 
 
 ![](https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto.jpg "tranvia en oporto, viaje a oporto, albergue oporto")
 

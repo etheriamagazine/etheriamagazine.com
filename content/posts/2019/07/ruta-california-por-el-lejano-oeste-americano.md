@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**La prosperidad de California nació del sueño de muchos emigrantes europeos. Su bondad 
+La prosperidad de California nació del sueño de muchos emigrantes europeos. Su bondad 
 climática prometía un modo de vida mejor, lo que provocó la gran migración desde la 
 costa este. Hoy, el sueño que alcanzó la costa pacífica, se ha convertido en el estado 
 más poblado de los Estados Unidos. Como aquellos pioneros sentirás el entusiasmo por el 
-Lejano Oeste cuando veas estos parajes californianos.** 
+Lejano Oeste cuando veas estos parajes californianos. 
 
 ![Mirador en Death Valley](https://fotos.etheriamagazine.com/2019/06/1-viaje-california-death-valley-e1562143815966.jpg "Death Valley o valle de la Muerte.")
 

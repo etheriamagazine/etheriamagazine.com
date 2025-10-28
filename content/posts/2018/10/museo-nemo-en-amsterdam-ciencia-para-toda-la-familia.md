@@ -11,10 +11,10 @@ authors:
   - Susana García
 ---
 
-**NEMO es un museo para tocar, sentir y experimentar los principios de la ciencia y la 
+NEMO es un museo para tocar, sentir y experimentar los principios de la ciencia y la 
 tecnología que está dirigido a curiosos de 5 a 99 años. Todo es interactivo e 
 interesante, lo que hace de esta visita un imprescindible en un viaje en familia a 
-Ámsterdam.** 
+Ámsterdam. 
 
 ![exterior del Museo Nemo](https://fotos.etheriamagazine.com/2018/09/museo-nemo-exterior.jpg "Exterior del Museo NEMO, diseñado por Enzo Piano. ©NEMO Science Museum. Photo by Digidaan.")
 

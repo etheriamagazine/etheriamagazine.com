@@ -1,6 +1,7 @@
 ---
 title: "Cabo de Creus, 10 paradas frente al Mediterráneo en clave slow travel"
 date: 2019-06-17
+lastmod: 2025-07-01
 cover: https://fotos.etheriamagazine.com/2019/06/Viaje-girona-medieval-e1559737808621.jpg
 categories: 
   - viajar-con-amigas
@@ -17,7 +18,7 @@ Cadaqués o Peratallada.
 
 ![Cadaqués](https://fotos.etheriamagazine.com/2019/06/viaje-girona-cadaques.jpg "Cadaqués.")
 
-Actualizado 7/2025 
+<!-- LEGACY_UPDATED: Actualizado 7/2025 -->
 
 Haciendo _slow travel_ olvidarás las prisas cotidianas y te delitarás en los detalles 
 del paisaje del cabo de Creus. Siente la luz mediterránea y descubre la relajada huella 

@@ -1,6 +1,7 @@
 ---
 title: "Guía y anécdotas de Angkor que muchos no se atreven a contar"
 date: 2019-01-17
+lastmod: 2025-08-01
 cover: https://fotos.etheriamagazine.com/2019/01/viaje-camboya-mujeres-Apsaras-de-Banteay-Srei-e1673862978728.jpg
 categories: 
   - organiza-tu-viaje
@@ -19,7 +20,7 @@ cultura francés. Te contamos además qué ver en Angkor para que no te pierdas 
 
 ![relieve del templo de Banteay Srei en Angkor](https://fotos.etheriamagazine.com/2019/01/viaje-camboya-mujeres-Apsaras-de-Banteay-Srei-e1673862978728.jpg "Apsaras del templo de Banteay Srei (Camboya).")
 
-Actualizado 8/2025 
+<!-- LEGACY_UPDATED: Actualizado 8/2025 -->
 
 Érase una vez –¡y no es un cuento!– un ‘intelectual’ francés fue arrestado en Phnom Penh 
 (Camboya) por robar varias estatuas del **templo de Banteay Srei** (Camboya). Las había 

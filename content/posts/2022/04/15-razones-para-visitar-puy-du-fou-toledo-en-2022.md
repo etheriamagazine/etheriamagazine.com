@@ -11,11 +11,11 @@ authors:
   - Pepa G. Marín
 ---
 
-**No era fácil que nuestro Puy du Fou ibérico cumpliese las expectativas derivadas del 
+No era fácil que nuestro Puy du Fou ibérico cumpliese las expectativas derivadas del 
 éxito de su hermano francés, pero lo ha conseguido e, incluso, las supera cada nueva 
 temporada. Si eres de las que aún duda sobre si merece la pena acudir a este parque 
 donde la historia es la protagonista, te interesa leer estas 15 razones para visitar Puy 
-du Fou Toledo (y algunas recomendaciones extra).** 
+du Fou Toledo (y algunas recomendaciones extra). 
 
 ![Escena de El Sueño de Toledo en Puy du Fou](https://fotos.etheriamagazine.com/2022/04/Puy-du-Fou-Sueno-de-Toledo.jpg "El Sueño de Toledo.")
 

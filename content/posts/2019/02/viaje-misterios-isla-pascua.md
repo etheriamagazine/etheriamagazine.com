@@ -10,10 +10,10 @@ authors:
   - Pedro Grifol
 ---
 
-**Las gigantescas estatuas talladas en piedra volcánica, los famosos moáis, siguen 
+Las gigantescas estatuas talladas en piedra volcánica, los famosos moáis, siguen 
 encerrando misterios para muchos arqueólogos. Ponerse delante de uno de esos señores con 
 cara de enfado impresiona… y da para pensar. En este viaje a Isla de Pascua desvelaremos 
-algunos de sus misterios.** 
+algunos de sus misterios. 
 
 ![viaje mujeres, isla de pascua, moais](https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-isla-pascua-Rano-Raraku.jpg "El tamaño de los moáis impone al visitante.")
 

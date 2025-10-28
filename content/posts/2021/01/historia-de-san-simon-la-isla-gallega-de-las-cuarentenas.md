@@ -1,6 +1,7 @@
 ---
 title: "La isla de San Simón, de lazareto a campo de concentración"
 date: 2021-01-04
+lastmod: 2025-08-01
 cover: https://fotos.etheriamagazine.com/2020/12/isla-pandemias-san-simon-jardines.jpg
 categories: 
   - viajar-con-amigas
@@ -18,7 +19,7 @@ música.
 
 ![Escultura 'O ofrecemento da auga', de Sergio Portela, en un jardín de la isla de San Simón.](https://fotos.etheriamagazine.com/2020/12/isla-pandemias-san-simon-jardines.jpg "Escultura 'O ofrecemento da auga', de Sergio Portela, en un jardín de la isla de San Simón. © Kelu Robles")
 
-Actualizado 8/2025 
+<!-- LEGACY_UPDATED: Actualizado 8/2025 -->
 
 Entre bateas, barcos pesqueros y el imponente puente de Rande, en la ría de Vigo se 
 intuye una pequeña y frondosa isla, o islas, porque San Simón no puede entenderse sin su 

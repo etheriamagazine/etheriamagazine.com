@@ -1,6 +1,7 @@
 ---
 title: "Tres dulces navideños de Palma, recetas y consejos para hacerlos en casa"
 date: 2021-11-19
+lastmod: 2023-11-01
 cover: https://fotos.etheriamagazine.com/2021/11/Coca-Bamba-palma-mallorca.jpg
 categories: 
   - estilo-de-vida
@@ -9,15 +10,15 @@ authors:
   - Redacción Etheria
 ---
 
-**No es necesario que seas un genio en la cocina para poder preparar estas tres recetas 
-de dulces navideños de Palma. ¿Te atreves a elaborar siguiendo instrucciones y medidas 
-una coca de patata, una coca de anís y otra de turrón? Te contamos los secretos que nos 
-ha desvelado Lluís Pérez, un experto pastelero de Mallorca, pero no se lo cuentes a 
-nadie...** 
+No es necesario que seas un genio en la cocina para poder preparar estas tres recetas de 
+dulces navideños de Palma. ¿Te atreves a elaborar siguiendo instrucciones y medidas una 
+coca de patata, una coca de anís y otra de turrón? Te contamos los secretos que nos ha 
+desvelado Lluís Pérez, un experto pastelero de Mallorca, pero no se lo cuentes a 
+nadie... 
 
 ![cocas de turron, patata y anis](https://fotos.etheriamagazine.com/2021/11/coca-palma-mallorca.jpg "Chocolate con pequeñas cocas de patata, anís y turrón. © Etheria Mag.")
 
-**Actualizado 11/2023** 
+<!-- LEGACY_UPDATED: **Actualizado 11/2023** -->
 
 Lograr que ingredientes sencillos se conviertan en ricos dulces navideños de Palma no es 
 cuestión de magia sino de conocer las cantidades justas y los procesos necesarios para 

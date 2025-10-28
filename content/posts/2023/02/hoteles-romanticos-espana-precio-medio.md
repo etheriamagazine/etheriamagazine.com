@@ -11,12 +11,12 @@ authors:
   - Redacción Etheria
 ---
 
-**Regalos de aniversarios, cumpleaños, el famoso San Valentín... nos pasamos horas 
+Regalos de aniversarios, cumpleaños, el famoso San Valentín... nos pasamos horas 
 buscando hoteles románticos en España que sean capaces de sorprender y de sacarnos de 
 las peligrosas rutinas. Y es cierto que existe un buen número de alojamientos ideales 
 para parejas, pero a veces nos pillan lejos para un fin de semana o el precio se sale 
 del presupuesto. Si tu "romanticismo" tiene un término medio, estos hoteles –que no son 
-ni muy caros ni muy baratos– te resultarán útiles.** 
+ni muy caros ni muy baratos– te resultarán útiles. 
 
 ![Suite del hotel Castilla Termal Valbuena, en Ribera del Duero (Valladolid)](https://fotos.etheriamagazine.com/2023/02/suite-valbuena.jpg "Suite del hotel Castilla Termal Valbuena, en Ribera del Duero (Valladolid)")
 

@@ -10,10 +10,10 @@ authors:
   - Cristina Fernández
 ---
 
-**El sur de Albania es famoso por sus idílicas playas bañadas por el Jónico, no lo vamos 
-a negar. Pero es precisamente allí, entre hermosas calas de azules turquesas y 
+El sur de Albania es famoso por sus idílicas playas bañadas por el Jónico, no lo vamos a 
+negar. Pero es precisamente allí, entre hermosas calas de azules turquesas y 
 chiringuitos a pie de orilla, donde se alzan las ruinas de Butrinto. Este **complejo 
-arqueológico es** el más visitado del país.** 
+arqueológico es** el más visitado del país. 
 
 ![Teatro de las ruinas de Butrinto.](https://fotos.etheriamagazine.com/2019/11/ruinas-butrinto-albania.jpg "Teatro de las ruinas de Butrinto. ©PB")
 

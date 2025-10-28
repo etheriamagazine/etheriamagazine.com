@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**La ciudad de Tánger cuenta con un nuevo alojamiento para los que buscan dar un toque 
-de lujo a sus escapadas: el Fairmont Tazi Palace, un hotel de cinco estrellas que ocupa 
-un antiguo palacio y en el que se ha cuidado con mimo cada detalle. Una excelente opción 
-si estás planeando un fin de semana romántico para los próximos meses.** 
+La ciudad de Tánger cuenta con un nuevo alojamiento para los que buscan dar un toque de 
+lujo a sus escapadas: el Fairmont Tazi Palace, un hotel de cinco estrellas que ocupa un 
+antiguo palacio y en el que se ha cuidado con mimo cada detalle. Una excelente opción si 
+estás planeando un fin de semana romántico para los próximos meses. 
 
 ![Vistas de Tánger desde el Fairmont Tazi Palace.](https://fotos.etheriamagazine.com/2022/11/Fairmont-Tazi-Palace-Junior-Suite-Terraza.jpg "Terraza con vistas en una de las habitaciones del Fairmont Tazi Palace.")
 

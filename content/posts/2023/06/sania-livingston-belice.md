@@ -12,12 +12,12 @@ authors:
   - Sania Jelic
 ---
 
-**Sania Jelic concluye su viaje por Sudamérica y Centroamérica después de más de cinco 
+Sania Jelic concluye su viaje por Sudamérica y Centroamérica después de más de cinco 
 meses recorriendo diversos países. Lo hace en la costa caribeña de Guatemala, 
 concretamente en la ciudad de Livingston, y en Belice, donde vuelve a disfrutar de su 
 afición al buceo. Un broche perfecto para un itinerario lleno de lugares increíbles y 
 personas que recordará para siempre y que nos ha contado en primera persona en Etheria 
-Magazine. Ya estamos deseando conocer su próxima aventura.** 
+Magazine. Ya estamos deseando conocer su próxima aventura. 
 
 ![](https://fotos.etheriamagazine.com/2023/06/sania-belice-buceo.jpg "Sania en South West Caye Marine Reserve, en Belice. © Sania Jelic")
 

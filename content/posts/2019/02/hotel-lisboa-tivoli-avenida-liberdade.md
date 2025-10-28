@@ -11,9 +11,9 @@ authors:
   - Redacción Etheria
 ---
 
-**El Tivoli Avenida Liberdade, un hotel histórico de la capital portuguesa, suma a sus 
-ya confortables instalaciones dos placeres más: el de la mesa y el de los masajes. 
-¿Sabes donde te alojarás cuando viajes a Lisboa? Nosotras, sí.** 
+El Tivoli Avenida Liberdade, un hotel histórico de la capital portuguesa, suma a sus ya 
+confortables instalaciones dos placeres más: el de la mesa y el de los masajes. ¿Sabes 
+donde te alojarás cuando viajes a Lisboa? Nosotras, sí. 
 
 ![Lobby del hotel Tivoli Avenida Liberdade de Lisboa.](https://fotos.etheriamagazine.com/2019/02/Tivoli-Avenida-Liberdade-Lobby.jpg "Lobby del hotel Tivoli Avenida Liberdade de Lisboa.")
 

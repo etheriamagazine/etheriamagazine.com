@@ -10,9 +10,9 @@ authors:
   - Pepa G. Marín
 ---
 
-**Escapar del medio urbano para adentrarse en la naturaleza es una de las opciones más 
+Escapar del medio urbano para adentrarse en la naturaleza es una de las opciones más 
 interesantes para un viaje en familia. En Etheria Magazine te proponemos la Serranía de 
-Cuenca como un plan ideal con niños y te sugerimos 3 excursiones imprescindibles.** 
+Cuenca como un plan ideal con niños y te sugerimos 3 excursiones imprescindibles. 
 
 ![Ruta senderista por la hoz de Beteta](https://fotos.etheriamagazine.com/2019/11/ruta-senderista-hoz-beteta.jpg "Ruta senderista por la hoz de Beteta. © Pepa García")
 

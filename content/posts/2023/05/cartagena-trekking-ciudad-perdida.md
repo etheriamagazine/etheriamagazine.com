@@ -11,11 +11,11 @@ authors:
   - Sania Jelic
 ---
 
-**El viaje de Sania Jelic llega a su fin en Colombia, donde visita sus dos principales 
+El viaje de Sania Jelic llega a su fin en Colombia, donde visita sus dos principales 
 focos turísticos costeros. El primero, Cartagena de Indias, una ciudad volcada al 
 turismo de masas, y el segundo, Santa Marta, que guarda uno de los secretos mejor 
 guardados del país: la Ciudad Perdida. De este modo, ha puesto un broche de oro a su 
-viaje en solitario por Sudamérica.** 
+viaje en solitario por Sudamérica. 
 
 ![Sania con un mural de Gabriel García Márquez.](https://fotos.etheriamagazine.com/2023/05/sania-cartagena-mural-garcia-marquez.jpg "Sania con un mural de Gabriel García Márquez en Cartagena de Indias. © SJ")
 

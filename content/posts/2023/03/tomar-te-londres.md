@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Tomar el té en Londres es una de las experiencias más auténticas y recomendables en 
-una visita a la capital inglesa. Esta actividad se puede realizar en numerosos 
-restaurantes y hoteles pero también en lugares originales como un autobús o en un 
-glamuroso teatro. Toma nota de los más curiosos.** 
+Tomar el té en Londres es una de las experiencias más auténticas y recomendables en una 
+visita a la capital inglesa. Esta actividad se puede realizar en numerosos restaurantes 
+y hoteles pero también en lugares originales como un autobús o en un glamuroso teatro. 
+Toma nota de los más curiosos. 
 
 ![Mesa con te y bollos para tomar el te en Londres](https://fotos.etheriamagazine.com/2023/03/hotel-te-londres.jpg 'Hoteles y restaurantes ofrecen el "afternoon tea" en Londres.')
 

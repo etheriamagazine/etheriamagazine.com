@@ -10,10 +10,10 @@ authors:
   - Sania Jelic
 ---
 
-**Sania Jelic se adentra en la Patagonia en torno al Parque Nacional de los Glaciares a 
+Sania Jelic se adentra en la Patagonia en torno al Parque Nacional de los Glaciares a 
 partir de dos ciudades: Calafate, la puerta de entrada al famoso glaciar Perito Moreno; 
 y El Chalten, considerada la capital del trekking de Argentina. ¡No te pierdas sus 
-consejos e impresiones de este paraíso de la naturaleza!** 
+consejos e impresiones de este paraíso de la naturaleza! 
 
 ![Sania haciendo trekking en El Chalten](https://fotos.etheriamagazine.com/2023/01/Sania-el-chalten-senderismo.jpg "Sania haciendo senderismo en El Chalten con el monte Fitz Roy al fondo. © SJ")
 

@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-**La Ruta del Atún Rojo de Cádiz es un itinerario esencial para los amantes de la buena 
+La Ruta del Atún Rojo de Cádiz es un itinerario esencial para los amantes de la buena 
 mesa. El mejor momento para hacerla es en primavera cuando el rey del mar pasa por el 
 estrecho de Gibraltar camino del Mediterráneo. Este año, entre abril y junio, se celebra 
 la Ruta del Atún en Conil, Barbate, Zahara de los Atunes y Tarifa, una buena ocasión 
-para degustar atún rojo y para hacer las visitas que te recomendamos en este artículo.** 
+para degustar atún rojo y para hacer las visitas que te recomendamos en este artículo. 
 
 ![Petri Benitez, chef de la Venta Melchor, un restaurante básico en la Ruta del Atún Conil](https://fotos.etheriamagazine.com/2018/06/Petri-benitez-venta-melchor-ruta-del-atun-conil-e1649843656194.jpg "Petri Benitez, chef de Venta Melchor, es una experta en atún rojo. © Pepa García")
 

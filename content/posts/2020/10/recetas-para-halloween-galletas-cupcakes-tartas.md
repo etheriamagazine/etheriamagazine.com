@@ -9,10 +9,10 @@ authors:
   - Susana García
 ---
 
-**Calabazas, murciélagos, esqueletos, telas de araña… La iconografía que rodea la Noche 
-de los Muertos está llena de tópicos que nos encantan. Aquí os contamos unas cuantas 
+Calabazas, murciélagos, esqueletos, telas de araña… La iconografía que rodea la Noche de 
+los Muertos está llena de tópicos que nos encantan. Aquí os contamos unas cuantas 
 recetas de Halloween para trasladar todos estos elementos a la mesa y preparar una 
-merienda y un menú de cena para morirse de miedo.** 
+merienda y un menú de cena para morirse de miedo. 
 
 ![galletas decoradas de Halloween](https://fotos.etheriamagazine.com/2020/10/galletas-halloween.jpg "Galletas de Halloween. © Freepick")
 

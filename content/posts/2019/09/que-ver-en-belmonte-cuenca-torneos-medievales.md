@@ -10,10 +10,10 @@ authors:
   - Pedro Grifol
 ---
 
-**Vive una experiencia medieval única en el corazón de la provincia de Cuenca, y recorre 
+Vive una experiencia medieval única en el corazón de la provincia de Cuenca, y recorre 
 las llanuras de la comarca castellano-manchega como lo hiciera Don Quijote, es decir: 
 sin pisar el asfalto. Te contamos qué ver en Belmonte, un viaje apropiado tanto para 
-hacerlo con amigos como en familia. Tú eliges.** 
+hacerlo con amigos como en familia. Tú eliges. 
 
 ![Castillo de Belmonte al anochecer](https://fotos.etheriamagazine.com/2019/08/viaje-etheria-Castillo-de-Belmonte.jpg "Castillo de Belmonte. ©P.Grifol")
 

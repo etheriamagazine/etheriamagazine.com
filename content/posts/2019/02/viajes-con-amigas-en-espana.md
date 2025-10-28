@@ -10,10 +10,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Si hay algo que sube las endorfinas y provoca estados inmediatos de felicidad es un 
+Si hay algo que sube las endorfinas y provoca estados inmediatos de felicidad es un 
 viaje con amigas. ¿Puede haber algo mejor que conocer nuevos lugares mientras se 
 disfruta de la complicidad y las risas de las mujeres que mejor te conocen? Te damos 10 
-ideas de viajes con amigas en España para que vayas pensando en tu próxima escapada.** 
+ideas de viajes con amigas en España para que vayas pensando en tu próxima escapada. 
 
 ![2 mujeres haciéndose una foto frente al mar](https://fotos.etheriamagazine.com/2019/02/Viajes-amigas.jpg "Los viajes con amigas deberían ser obligatorios.")
 

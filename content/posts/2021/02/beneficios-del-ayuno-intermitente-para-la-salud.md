@@ -9,11 +9,11 @@ authors:
   - Maria Miret
 ---
 
-**El ayuno es una práctica milenaria, casi universal, cuyos beneficios para la salud 
+El ayuno es una práctica milenaria, casi universal, cuyos beneficios para la salud 
 confirma ahora la ciencia. Ayunar de forma intermitente desencadena un cambio metabólico 
 que ayuda a mejorar en ciertas enfermedades. Algunas clínicas ofrecen programas 
 combinados con ejercicio físico y espiritualidad para recuperar la calidad de vida, 
-rendir más y mantener la armonía interior.** 
+rendir más y mantener la armonía interior. 
 
 ![bebidas para tomar en ayuno](https://fotos.etheriamagazine.com/2021/02/ayuno-mujer.jpg "Durante el ayuno se puede tomar agua, té o café. ©Dominik Martin")
 

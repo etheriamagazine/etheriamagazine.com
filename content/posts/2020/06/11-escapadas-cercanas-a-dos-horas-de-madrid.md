@@ -1,6 +1,7 @@
 ---
 title: "11 excursiones desde Madrid a 100 km o poco más"
 date: 2020-06-02
+lastmod: 2024-04-01
 cover: https://fotos.etheriamagazine.com/2020/05/viaje-barrancas.jpg
 categories: 
   - viajar-con-amigas
@@ -17,7 +18,7 @@ empezar?
 
 ![Las Barrancas de Castrejón, el 'Cañón del Colorado' español.](https://fotos.etheriamagazine.com/2020/05/viaje-barrancas.jpg "Las Barrancas de Castrejón, el 'Cañón del Colorado' español. © Javier Álamo")
 
-Actualizado en abril de 2024. 
+<!-- LEGACY_UPDATED: Actualizado en abril de 2024. -->
 
 Estas excursiones desde Madrid están pensadas para ir y volver en el mismo día o para 
 pasar un fin de semana alejadas del asfalto de la capital: aquí van once buenas razones 

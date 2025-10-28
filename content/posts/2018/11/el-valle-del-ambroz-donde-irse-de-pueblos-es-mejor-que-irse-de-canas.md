@@ -11,9 +11,9 @@ authors:
   - Kelu Robles
 ---
 
-**Reserva algún fin de semana para disfrutar de los pueblos, rutas, paisajes y buena 
+Reserva algún fin de semana para disfrutar de los pueblos, rutas, paisajes y buena 
 gastronomía del Valle de Ambroz una zona perfecta para visitar con los colores del 
-otoño.** 
+otoño. 
 
 ![senderismo en el valle de Ambroz](https://fotos.etheriamagazine.com/2018/11/viaje-con-amigas-valle-ambroz.jpg "Disfruta del otoño en el Valle del Ambroz. © DIVA")
 

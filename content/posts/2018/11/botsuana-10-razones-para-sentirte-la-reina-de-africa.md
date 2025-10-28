@@ -10,9 +10,9 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Un safari en Botsuana puede cambiar tu concepción del viaje y de la naturaleza 
-africana, incluso marcar un antes y un después en tu vida. Te animamos a explorar las 
-orillas del río Chobe mientras despierta tu naturaleza más aventurera.** 
+Un safari en Botsuana puede cambiar tu concepción del viaje y de la naturaleza africana, 
+incluso marcar un antes y un después en tu vida. Te animamos a explorar las orillas del 
+río Chobe mientras despierta tu naturaleza más aventurera. 
 
 ![bufalo de agua safari en botsuana](https://fotos.etheriamagazine.com/2018/11/Bostsuana-viaje-fauna-africa-e1552208227696.jpg "Bufalo de agua.")
 

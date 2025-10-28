@@ -12,11 +12,11 @@ authors:
   - Redacción Etheria
 ---
 
-**Por muchas ciudades pasamos de puntillas, reduciéndolas a una parada en ruta o, 
+Por muchas ciudades pasamos de puntillas, reduciéndolas a una parada en ruta o, 
 simplemente, dejándolas de lado para disfrutar de sus playas sin recorrer sus centros 
 históricos. Eso nos ha ocurrido en varias ocasiones con el destino que nos ocupa, por 
 este motivo, hemos seleccionado los lugares que podrías ver en un día en Castellón de la 
-Plana para que la recorras como merece.** 
+Plana para que la recorras como merece. 
 
 ![Farola modernista de Castellón de la Plana.](https://fotos.etheriamagazine.com/2023/10/farola-modernista-castellon.jpg "Farola modernista de Castellón de la Plana.")
 

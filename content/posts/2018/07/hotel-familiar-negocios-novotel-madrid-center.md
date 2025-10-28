@@ -11,10 +11,10 @@ authors:
   - Pepa G. Marín
 ---
 
-**Es el Novotel más grande del mundo, se encuentra en el centro de Madrid y acaba de 
+Es el Novotel más grande del mundo, se encuentra en el centro de Madrid y acaba de 
 reformar sus instalaciones. A todo esto, debemos añadirle que está bien comunicado con 
 el aeropuerto y que puede satisfacer tanto al público familiar como al de negocios. En 
-resumidas cuentas, el Novotel Madrid Center es una buena elección en la capital.** 
+resumidas cuentas, el Novotel Madrid Center es una buena elección en la capital. 
 
 ![Desayunos saludables en Novotel Madrid Center](https://fotos.etheriamagazine.com/2018/07/Hotel-novotel-madrid-center-3.jpg "Los días comienzan en Novotel Madrid Center con un buen desayuno.")
 

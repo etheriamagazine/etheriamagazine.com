@@ -10,9 +10,9 @@ authors:
   - Pedro Grifol
 ---
 
-**Mezclar, agitar, remover… Hablamos, naturalmente, de cócteles. Aprovecha las 
-vacaciones navideñas para ponerte al día en mixología. Te recomendamos los mejores 
-libros de cócteles de ayer, de hoy (y casi del mañana), para ti o para regalar.** 
+Mezclar, agitar, remover… Hablamos, naturalmente, de cócteles. Aprovecha las vacaciones 
+navideñas para ponerte al día en mixología. Te recomendamos los mejores libros de 
+cócteles de ayer, de hoy (y casi del mañana), para ti o para regalar. 
 
 ![libros cocteleria](https://fotos.etheriamagazine.com/2020/11/Libros-de-cocteleria.jpg "Libros de coctelería. © Pedro Grifol")
 

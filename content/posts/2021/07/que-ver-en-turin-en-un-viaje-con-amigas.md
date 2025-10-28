@@ -10,11 +10,11 @@ authors:
   - Kelu Robles
 ---
 
-**Turín combina emblemas tan dispares como la Sábana Santa, la magia negra o el vermú, y 
+Turín combina emblemas tan dispares como la Sábana Santa, la magia negra o el vermú, y 
 vive inmersa entre palacios y soportales que la han convertido en una de las ciudades 
 más elegantes de Italia. Siéntete cien por cien turinesa siguiendo nuestros pasos. Y si 
 este año visitas Turín con amigas para asistir al Festival de Eurovisión, guarda esta 
-guía a buen recaudo.** 
+guía a buen recaudo. 
 
 ![Panorámica desde el mirador Monte dei Cappuccini.](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-portada-etheria.jpg "Panorámica desde el mirador Monte dei Cappuccini. © Kelu Robles")
 

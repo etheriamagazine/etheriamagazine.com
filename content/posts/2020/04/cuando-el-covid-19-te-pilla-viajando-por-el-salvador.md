@@ -11,8 +11,8 @@ authors:
   - Marina Paul
 ---
 
-**Marina Paul nos cuenta su confinamiento y los atractivos turísticos de El Salvador, el 
-destino que estaba recorriendo en esos momentos.** 
+Marina Paul nos cuenta su confinamiento y los atractivos turísticos de El Salvador, el 
+destino que estaba recorriendo en esos momentos. 
 
 ![Iglesia de Panchimalco.](https://fotos.etheriamagazine.com/2020/03/viajar-sola-Iglesia-Panchimalco.jpg "Iglesia de Panchimalco. © O.T. El Salvador")
 

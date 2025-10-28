@@ -10,11 +10,11 @@ authors:
   - Pepa G. Marín
 ---
 
-**Uruguay es un país poco visitado por los viajeros españoles pero no es por falta de 
+Uruguay es un país poco visitado por los viajeros españoles pero no es por falta de 
 atractivo sino por desconocimiento y por la fortaleza turística de territorios vecinos. 
 Te invitamos a descubrir buenas razones para incluir este destino en tu agenda de viajes 
 pendientes. Sigue leyendo si quieres saber qué ver en Uruguay y conocer algunos de sus 
-atractivos.** 
+atractivos. 
 
 ![Contraste arquitectónico en Montevideo.](https://fotos.etheriamagazine.com/2023/07/Montevideo-palacio-Salvo.jpg "Contraste arquitectónico en Montevideo. © Etheria Magazine")
 

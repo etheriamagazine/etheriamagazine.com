@@ -10,10 +10,10 @@ authors:
   - Susana García
 ---
 
-**Considerado uno de los pueblos más bonitos de España, Vejer gusta y se gusta subido a 
-un cerro desde el que mira a su entorno sabiéndose bello. Como estamos seguras de que 
-está en la lista de muchas mujeres viajeras, te contamos qué ver y qué hacer si has 
-decidido dedicar unos días de tus vacaciones a este pueblo gaditano.** 
+Considerado uno de los pueblos más bonitos de España, Vejer gusta y se gusta subido a un 
+cerro desde el que mira a su entorno sabiéndose bello. Como estamos seguras de que está 
+en la lista de muchas mujeres viajeras, te contamos qué ver y qué hacer si has decidido 
+dedicar unos días de tus vacaciones a este pueblo gaditano. 
 
 ![Vecinas charlando en un patio de Vejer](https://fotos.etheriamagazine.com/2020/08/vejer-rincon-juana-la-nieve.jpg "Vecinas charlando en un patio de Vejer. © SG")
 

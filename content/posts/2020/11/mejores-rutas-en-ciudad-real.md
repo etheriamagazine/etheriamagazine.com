@@ -1,6 +1,7 @@
 ---
 title: "8 razones por las que desearás conocer la provincia de Ciudad Real"
 date: 2020-11-10
+lastmod: 2025-09-01
 cover: https://fotos.etheriamagazine.com/2020/11/ciudad-real-Tablas-de-Daimiel.jpg
 categories: 
   - viajar-con-amigas
@@ -18,7 +19,7 @@ faltar en vuestra escapada.
 
 ![tablas de daimiel en ciudad real](https://fotos.etheriamagazine.com/2020/11/ciudad-real-Tablas-de-Daimiel.jpg "Amanecer en Las Tablas de Daimiel (Ciudad Real).")
 
-**Actualizado 9/2025** 
+<!-- LEGACY_UPDATED: **Actualizado 9/2025** -->
 
 Por estas tierras se paseó, a lomos de Rocinante, el más universal de los hidalgos, Don 
 Quijote de La Mancha. Cervantes recorrió con su pluma algunos de los escenarios de esta 

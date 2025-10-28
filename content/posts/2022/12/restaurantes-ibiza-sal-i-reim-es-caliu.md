@@ -10,12 +10,12 @@ authors:
   - Maria Miret
 ---
 
-**La cafetería- bar de pinchos Sal i Reïm y el restaurante Es Caliu forman una gran 
+La cafetería- bar de pinchos Sal i Reïm y el restaurante Es Caliu forman una gran 
 familia cuya máxima es "mantener Ibiza". En el segundo, la fruta y la verdura no vienen 
 del mercado sino de la huerta ecológica que hay en el jardín, el resto de productos son 
 locales o, como mucho, nacionales. Al concepto natural del establecimiento se suman la 
 decoración y el personal. El cliente vive en este lugar una experiencia más allá de la 
-comida.** 
+comida. 
 
 ![Ensalada de Sal i Reïm.](https://fotos.etheriamagazine.com/2022/12/ensalada-salmon-sal-i-rein.jpg "Ensalada del bar de tapas © Sal i Reïm.")
 

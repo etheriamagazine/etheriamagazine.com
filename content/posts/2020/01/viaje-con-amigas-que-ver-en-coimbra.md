@@ -10,9 +10,9 @@ authors:
   - Pepa G. Marín
 ---
 
-**Un fin de semana en Coimbra te asegura visitas históricas, ambiente universitario, 
+Un fin de semana en Coimbra te asegura visitas históricas, ambiente universitario, 
 museos variopintos, fados, historias de amor y una rica gastronomía. Un viaje con amigas 
-o en familia a esta ciudad portuguesa lo tiene todo para ser un sueño cumplido.** 
+o en familia a esta ciudad portuguesa lo tiene todo para ser un sueño cumplido. 
 
 ![Patio de la Universidad de Coimbra](https://fotos.etheriamagazine.com/2020/01/universidad-coimbra-1.jpg "Patio de la Universidad de Coimbra. © RR/ TdP")
 

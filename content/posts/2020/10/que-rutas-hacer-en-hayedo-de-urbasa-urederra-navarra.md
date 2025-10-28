@@ -11,11 +11,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**Paraíso de vacas, ovejas y manadas de caballos, las altiplanicies de Urbasa y Andía 
+Paraíso de vacas, ovejas y manadas de caballos, las altiplanicies de Urbasa y Andía 
 albergan en sus soledades el hayedo de Urbasa. Este bosque nos ha atrapado con sus 
 encantos al natural, escondido y salpicado por las dentaduras de roca de las sierras. 
 Hemos recorrido el hayedo de Urbasa para descubrir sus rincones secretos, las mejores 
-rutas y muchas curiosidades.** 
+rutas y muchas curiosidades. 
 
 ![Colores otoñales del hayedo de Urbasa (Navarra).](https://fotos.etheriamagazine.com/2020/09/rutas-hayedo-urbasa.jpg "Colores otoñales del hayedo de Urbasa (Navarra).")
 

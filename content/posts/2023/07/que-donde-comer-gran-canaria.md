@@ -10,11 +10,11 @@ authors:
   - Alfredo G. Reyes
 ---
 
-**Gran Canaria es mucho más que sus maravillosas playas. Guarda un interior verde donde 
+Gran Canaria es mucho más que sus maravillosas playas. Guarda un interior verde donde 
 los paisajes de montaña conviven con unos cultivos llenos de personalidad. Te contamos 
 los secretos gastronómicos en forma de productos únicos como el café, los plátanos y el 
 ron que van a hacer que se te haga la boca agua en tu próximo viaje a esta isla canaria. 
-Prepara ya tu ruta por la gastronomía de Gran Canaria.** 
+Prepara ya tu ruta por la gastronomía de Gran Canaria. 
 
 ![Salinas de Tenefé en Gran Canaria](https://fotos.etheriamagazine.com/2023/06/Gran-canaria-SALINAS-DE-TENEFE.jpg "Salinas de Tenefé. © Salinas de Tenefé")
 

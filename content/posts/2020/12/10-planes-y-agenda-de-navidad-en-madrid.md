@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Aunque estas Navidades se presenten muy distintas hay que hacer de tripas corazón e 
+Aunque estas Navidades se presenten muy distintas hay que hacer de tripas corazón e 
 intentar mantener el espíritu navideño a pesar de restricciones, limitaciones y 
 pandemias. Con la consigna de ser responsable y cumplir siempre las normas Covid, te 
-contamos qué 10 planes puedes organizar durante esta Navidad en Madrid.** 
+contamos qué 10 planes puedes organizar durante esta Navidad en Madrid. 
 
 ![Luces navidad en Madrid](https://fotos.etheriamagazine.com/2020/12/madrid-menina-colon-navidad.jpg "Menina en la plaza de Colón. © Álvaro López/Madrid Destino")
 

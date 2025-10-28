@@ -11,10 +11,10 @@ authors:
   - Redacción Etheria
 ---
 
-**La animada provincia de Málaga sabe también guardar rincones secretos llenos de paz 
-como el precioso hotel boutique Alcuzcuz, en Benahavís. Un auténtico oasis a un paso de 
+La animada provincia de Málaga sabe también guardar rincones secretos llenos de paz como 
+el precioso hotel boutique Alcuzcuz, en Benahavís. Un auténtico oasis a un paso de 
 Marbella que nos trae Rusticae para desconectar de todo, perfecto para una escapada 
-romántica.** 
+romántica. 
 
 ![hoteles Rusticae, hoteles con encanto, escapadas románticas, escapadas de fin de semana](https://fotos.etheriamagazine.com/2019/07/Hotel-Alcuzcuz-panoramica.jpg "Vista del Alcuzcuz Hotel Boutique con el mar al fondo.")
 

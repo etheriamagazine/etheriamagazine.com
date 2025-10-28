@@ -12,10 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-**Es casi imposible encontrar a alguien que no quiera viajar a Egipto. Aquí te 
+Es casi imposible encontrar a alguien que no quiera viajar a Egipto. Aquí te 
 recomendamos algunas películas, documentales y libros para que te vayas ambientando 
 antes de tu viaje o para, por qué no, viajar a este maravilloso destino a través de los 
-fotogramas y las palabras.** 
+fotogramas y las palabras. 
 
 ![organizar un viaje a egipto](https://fotos.etheriamagazine.com/2021/02/Egipto-viajar-pinturas.jpg "La fascinación por el mundo egipcio ha inspirado infinidad de películas y libros.")
 

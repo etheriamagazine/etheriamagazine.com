@@ -10,11 +10,11 @@ authors:
   - Juan Carlos y Mar
 ---
 
-**La más remota de las islas Canarias, El Hierro, se ha convertido en la protagonista de 
+La más remota de las islas Canarias, El Hierro, se ha convertido en la protagonista de 
 una ficción. Sí, en Etheria Magazine también nos gustan las series y la rodada hace unos 
 años por Movistar+ en nuestra isla más meridional, nos ha atrapado. Entre las intrigas 
 de la investigación de un asesinato nos desvela a poquitos, con el ritmo cambiante de 
-cada capítulo, los encantos de la isla más radical del archipiélago.** 
+cada capítulo, los encantos de la isla más radical del archipiélago. 
 
 ![Sabina en El Hierro.](https://fotos.etheriamagazine.com/2019/09/El-hierro-sabina-canarias.jpg "Sabina en El Hierro.")
 
