@@ -8,7 +8,7 @@
 [propiedad intelectual]: #propiedad-intelectual
 [sitio web]: https://etheriamagazine.com
 
-<a href="https://etheriamagazine.com/"><img  src="https://github.com/user-attachments/assets/acfbd4df-7af3-46b3-b5f6-5e51ce692b66" width="240" alt="Etheria Magazine" /></a>
+<a href="https://etheriamagazine.com/"><img src="https://github.com/user-attachments/assets/acfbd4df-7af3-46b3-b5f6-5e51ce692b66" width="260" alt="Etheria Magazine" /></a>
 
 [Etheria Magazine] — La revista de las mujeres viajeras
 
@@ -38,11 +38,9 @@ Todos los textos y artículos de este repositorio son obras originales de sus
 autoras. El campo `author` en el bloque de metadatos al comienzo
 de cada artículo (frontmatter) recoge el nombre del autora.
 
-La firma **'Redacción Etheria'** distingue ciertos artículos escritos a través
-de fuentes o entre varias periodistas y cuya autoría recae en el equipo de
-redacción de la revista.
+<details>
+  <summary>Ver ejemplo de autoría</summary>
 
-**Ejemplo**
 ```
 ---
 title: "Ruta en coche por Irlanda: condados de Cork y Kerry"
@@ -58,6 +56,13 @@ authors:
 
 Entre brumas, bosques, lagos...
 ```
+
+</details>
+
+
+La firma **'Redacción Etheria'** distingue ciertos artículos escritos a través
+de fuentes o entre varias periodistas y cuya autoría recae en el equipo de
+redacción de la revista.
 
 ## ⚖️ Propiedad Intelectual
 
@@ -81,5 +86,5 @@ El acceso a este repositorio **no confiere ningún derecho de uso** sobre dichos
 
 ---
 
-© 2018–2025 **Marakanda Comunicación, SL**  
+© 2018–2026 **Marakanda Comunicación, SL**  
 Todos los derechos reservados.
