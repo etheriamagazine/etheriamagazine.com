@@ -1,39 +1,46 @@
+[autoría]: #autoría
+[contenido]: #contenido
+[copyright]: #copyright
+[etheria magazine]: https://etheriamagazine.com
+[github actions]: https://github.com/features/actions
+[hugo]: https://gohugo.io
+[markdown]: https://en.wikipedia.org/wiki/Markdown
+[propiedad intelectual]: #propiedad-intelectual
+[sitio web]: https://etheriamagazine.com
 
-<p align="center">
-  <img width="300" alt="Etheria Magazine" src="https://github.com/user-attachments/assets/acfbd4df-7af3-46b3-b5f6-5e51ce692b66"  />
-</p>
+<a href="https://etheriamagazine.com/"><img  src="https://github.com/user-attachments/assets/acfbd4df-7af3-46b3-b5f6-5e51ce692b66" width="240" alt="Etheria Magazine" /></a>
 
-[Etheria Magazine](https://etheriamagazine.com) — La revista de las mujeres
-viajeras, es la primera revista de viajes dirigida a mujeres en España. Creada
-en 2018 por periodistas especializadas en turismo y con una larga trayectoria en
+[Etheria Magazine] — La revista de las mujeres viajeras
+
+---
+
+[Sitio web] | [Contenido] | [Autoría] | [Propiedad intelectual] | [Copyright]
+
+## 📰 Descripción
+
+Etheria Magazine la primera revista de viajes dirigida a mujeres en España. Impulsada
+en 2018 por dos periodistas especializadas en Turismo y con una larga trayectoria en
 el sector editorial, se centra en las necesidades de la mujer viajera.
 
-Contenido:
--   [Contenido](#contenido)
--   [Autoría](#autoría)
--   [Propiedad Intelectual](#propiedad-intelectual)
--   [Copyright](#copyright)
+## 🗂️ Contenido
 
-## Contenido
+La carpeta [content](./content) tiene todos los artículos y textos publicados en
+[Etheria Magazine](https://etheriamagazine.com) desde 2018. 
 
-La carpeta [content](./content) tiene todos los artículos publicados en [Etheria
-Magazine](https://etheriamagazine.com) desde 2018. 
+Originariamente en un sistema WordPress, se han exportado a formato [Markdown]
+para poder publicarlos mediante una herramienta de generación de sitios
+estáticos como [Hugo]. Todo el proceso de publicación se dispara desde este
+repositorio y se automatiza gracias a [GitHub Actions].
 
-Originariamente en un sistema WordPress, se han exportado a formato
-[Markdown](https://en.wikipedia.org/wiki/Markdown) para poder publicarlos
-mediante una herramienta de generación de sitio estáticos (SSG) como
-[Hugo](https://gohugo.io). Todo el proceso de publicación se dispara desde este
-repositorio y se automatiza gracias a [GitHub
-Actions](https://github.com/features/actions).
-
-## Autoría
+## ✍️ Autoría
 
 Todos los textos y artículos de este repositorio son obras originales de sus
-autoras. El campo `author` en el frontmatter (bloque de metadatos) al comienzo
-de cada artículo recoge el nombre del autora.
+autoras. El campo `author` en el bloque de metadatos al comienzo
+de cada artículo (frontmatter) recoge el nombre del autora.
 
-La firma **'Redacción Etheria'** distingue ciertos artículos escritos a través de fuentes
-o entre varias periodistas y cuya autoría recae en el equipo de redacción de la revista.
+La firma **'Redacción Etheria'** distingue ciertos artículos escritos a través
+de fuentes o entre varias periodistas y cuya autoría recae en el equipo de
+redacción de la revista.
 
 **Ejemplo**
 ```
@@ -52,25 +59,27 @@ authors:
 Entre brumas, bosques, lagos...
 ```
 
-## Propiedad Intelectual
+## ⚖️ Propiedad Intelectual
 
-Todos el contenido de este repositorio, los [artículos](content/posts), las imágenes,
-iconos, tecnología y software, así como el diseño gráfico y código fuente,
-constituyen una obra cuya propiedad pertenece a **Marakanda Comunicación, S.L.** (MARAKANDA), sin que
-puedan entenderse cedidos al usuario ninguno de los derechos de explotación sobre los
-mismos más allá de lo estrictamente necesario para el correcto uso de la web.
+Todo el contenido de este repositorio —incluidos los [artículos](content/posts), textos, imágenes, diseño, código fuente y demás materiales— constituye una obra protegida por la legislación vigente en materia de propiedad intelectual.
 
-En definitiva, los usuarios que accedan a este sitio web pueden visualizar los contenidos
-y efectuar, en su caso, copias privadas autorizadas siempre que los elementos reproducidos
-no sean cedidos posteriormente a terceros, ni se instalen a servidores conectados a redes,
-ni sean objeto de ningún tipo de explotación.
+### 🏢 Titularidad  
+La titularidad de todos los derechos corresponde a **Marakanda Comunicación, SL** (*MARAKANDA*).  
+El acceso o uso de este repositorio **no implica cesión ni licencia** de derechos de explotación, salvo lo estrictamente necesario para su correcta visualización o uso técnico.
 
-Asimismo, todas las marcas, nombres comerciales o signos distintivos de cualquier clase que aparecen en el sitio web son propiedad de MARAKANDA, sin que pueda entenderse que el uso o acceso al mismo atribuya al usuario derecho alguno sobre los mismos.
+### 📜 Uso permitido  
+- Puedes **consultar**, **leer** o **enlazar** libremente los artículos publicados en [Etheria Magazine](https://etheriamagazine.com).  
+- Se permite el uso personal y no comercial de los materiales, siempre que se mantengan intactos los avisos de autoría y copyright.
 
-La distribución, modificación, cesión o comunicación pública de los contenidos y cualquier otro acto que no haya sido expresamente autorizado por el titular de los derechos de explotación quedan prohibidos.
+### 🚫 Restricciones  
+No está permitida la **reproducción**, **distribución**, **modificación** o **comunicación pública** de los contenidos sin autorización previa y por escrito de *MARAKANDA*.  
+Tampoco se autoriza su instalación en servidores públicos, redes o servicios comerciales.
 
-## Copyright
+### ™️ Marcas y signos distintivos  
+Todas las marcas, logotipos y nombres comerciales incluidos en este repositorio son propiedad de *MARAKANDA* o de sus legítimos titulares.  
+El acceso a este repositorio **no confiere ningún derecho de uso** sobre dichos elementos.
 
-Copyright © 2018-2025 Marakanda Comunicación, S.L.  
+---
+
+© 2018–2025 **Marakanda Comunicación, SL**  
 Todos los derechos reservados.
-All rights reserved.
