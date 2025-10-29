@@ -68,19 +68,19 @@ redacción de la revista.
 
 Todo el contenido de este repositorio —incluidos los [artículos](content/posts), textos, imágenes, diseño, código fuente y demás materiales— constituye una obra protegida por la legislación vigente en materia de propiedad intelectual.
 
-### 🏢 Titularidad  
+### Titularidad  
 La titularidad de todos los derechos corresponde a **Marakanda Comunicación, SL** (*MARAKANDA*).  
 El acceso o uso de este repositorio **no implica cesión ni licencia** de derechos de explotación, salvo lo estrictamente necesario para su correcta visualización o uso técnico.
 
-### 📜 Uso permitido  
+### Uso permitido  
 - Puedes **consultar**, **leer** o **enlazar** libremente los artículos publicados en [Etheria Magazine](https://etheriamagazine.com).  
 - Se permite el uso personal y no comercial de los materiales, siempre que se mantengan intactos los avisos de autoría y copyright.
 
-### 🚫 Restricciones  
+### Restricciones  
 No está permitida la **reproducción**, **distribución**, **modificación** o **comunicación pública** de los contenidos sin autorización previa y por escrito de *MARAKANDA*.  
 Tampoco se autoriza su instalación en servidores públicos, redes o servicios comerciales.
 
-### ™️ Marcas y signos distintivos  
+### Marcas y signos distintivos  
 Todas las marcas, logotipos y nombres comerciales incluidos en este repositorio son propiedad de *MARAKANDA* o de sus legítimos titulares.  
 El acceso a este repositorio **no confiere ningún derecho de uso** sobre dichos elementos.
 
