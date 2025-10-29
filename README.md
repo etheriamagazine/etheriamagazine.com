@@ -3,44 +3,50 @@
   <img width="300" alt="Etheria Magazine" src="https://github.com/user-attachments/assets/acfbd4df-7af3-46b3-b5f6-5e51ce692b66"  />
 </p>
 
-[Etheria Magazine](https://etheriamagazine.com) es la primera revista de viajes dirigida a
-mujeres en España. Creada en 2018 por periodistas especializadas en turismo y con una
-larga trayectoria en el sector editorial, se centra en las necesidades de la mujer viajera.
+[Etheria Magazine](https://etheriamagazine.com) — La revista de las mujeres
+viajeras, es la primera revista de viajes dirigida a mujeres en España. Creada
+en 2018 por periodistas especializadas en turismo y con una larga trayectoria en
+el sector editorial, se centra en las necesidades de la mujer viajera.
 
 Contenido:
--   [Artículos](#articulos)
+-   [Contenido](#contenido)
 -   [Autoría](#autoría)
 -   [Propiedad Intelectual](#propiedad-intelectual)
 -   [Copyright](#copyright)
 
-## Artículos
+## Contenido
 
-Este repositorio contiene los [artículos](./content) publicados en [Ethe![Etheria](https://github.com/user-attachments/assets/480d763b-326f-4bf1-8214-f5b37be9114c)
-ria
-Magazine](https://etheriamagazine.com) desde 2018 en formato markdown. En Etheria utilizamos [Hugo](https://gohugo.io/) y [GitHub Actions](https://github.com/features/actions) para publicar automáticamente la web.
+La carpeta [content](./content) tiene todos los artículos publicados en [Etheria
+Magazine](https://etheriamagazine.com) desde 2018. 
+
+Originariamente en un sistema WordPress, se han exportado a formato
+[Markdown](https://en.wikipedia.org/wiki/Markdown) para poder publicarlos
+mediante una herramienta de generación de sitio estáticos (SSG) como
+[Hugo](https://gohugo.io). Todo el proceso de publicación se dispara desde este
+repositorio y se automatiza gracias a [GitHub
+Actions](https://github.com/features/actions).
 
 ## Autoría
 
-La mayoría de los textos y artículos de este repositorio son obras originales de sus
-autoras y autores, como viene indicado en el encabezado de cada artículo en el campo
-`author`.
+Todos los textos y artículos de este repositorio son obras originales de sus
+autoras. El campo `author` en el frontmatter (bloque de metadatos) al comienzo
+de cada artículo recoge el nombre del autora.
 
 La firma **'Redacción Etheria'** distingue ciertos artículos escritos a través de fuentes
-o entre varios periodistas y cuya autoría recae en el equipo de redacción de la revista.
+o entre varias periodistas y cuya autoría recae en el equipo de redacción de la revista.
 
-Ejemplo:
-
-```diff
+**Ejemplo**
+```
 ---
 title: "Ruta en coche por Irlanda: condados de Cork y Kerry"
-date: "2023-12-30"
-coverImage: "etheria_images/2023/12/irlanda-isla-Garinish.jpg"
+date: 2023-12-30
+cover: https://fotos.etheriamagazine.com/2023/12/irlanda-isla-Garinish.jpg
 categories: 
-  - "viajes-con-amigas"
-  - "ruta-en-coche"
-  - "viajes-para-mujeres"
-+ author: 
-+  - "Pepa G. Marín"
+  - viajar-con-amigas
+tags: 
+  - europa
+authors: 
+  - Pepa G. Marín
 ---
 
 Entre brumas, bosques, lagos...
@@ -65,5 +71,6 @@ La distribución, modificación, cesión o comunicación pública de los conteni
 
 ## Copyright
 
-Copyright 2018-2025 Marakanda Comunicación, S.L.  
+Copyright © 2018-2025 Marakanda Comunicación, S.L.  
 Todos los derechos reservados.
+All rights reserved.
