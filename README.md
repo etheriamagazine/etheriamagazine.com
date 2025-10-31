@@ -1,11 +1,15 @@
 [autoría]: #autoría
+[bun]: https://bun.com/
 [contenido]: #contenido
 [copyright]: #copyright
 [etheria magazine]: https://etheriamagazine.com
+[fly.io]: https://fly.io
 [github actions]: https://github.com/features/actions
 [hugo]: https://gohugo.io
+[npm]: https://nodejs.org/en
 [markdown]: https://en.wikipedia.org/wiki/Markdown
 [propiedad intelectual]: #propiedad-intelectual
+[scripts]: ./scripts/
 [sitio web]: https://etheriamagazine.com
 
 <a href="https://etheriamagazine.com/"><img src="https://github.com/user-attachments/assets/acfbd4df-7af3-46b3-b5f6-5e51ce692b66" width="260" alt="Etheria Magazine" /></a>
@@ -83,6 +87,71 @@ Tampoco se autoriza su instalación en servidores públicos, redes o servicios c
 ### Marcas y signos distintivos  
 Todas las marcas, logotipos y nombres comerciales incluidos en este repositorio son propiedad de *MARAKANDA* o de sus legítimos titulares.  
 El acceso a este repositorio **no confiere ningún derecho de uso** sobre dichos elementos.
+
+
+## 🧰 Construir desde el código fuente
+
+### 📋 Prerequisitos
+Para generar el sitio web desde el código fuente necesitas:
+- El generador [Hugo]
+- Un gestor de paquetes como [bun] o [npm]
+
+### Uso
+Se incluyen varios [scripts] para facilitar las tareas comunes:
+
+🚀 Lanzar el servidor de desarrollo (con hot reload en `localhost:1313`):
+```shell
+bun dev
+```
+
+📦 Lanzar al app completa (incluyendo buscador Pagefind en `localhost:3000)`:
+
+```shell
+bun preview
+```
+
+### 🔧 Variables de configuración
+
+En **entornos de desarrollo**, usa un archivo `.env` o `.env.local` con las
+variables necesarias para `imgproxy` y `mailchimp`. Asegúrate que estos archivos
+estén excluídos del repositorio en el archivo `.gitignore` para no exponer
+ninguna clave o secreto.
+
+```dosini
+# required at build time 
+HUGO_IMGPROXY_SALT="..."
+HUGO_IMGPROXY_KEY=...
+
+# required at runtime 
+MAILCHIMP_DC=
+MAILCHIMP_APIKEY=
+MAILCHIMP_LIST_ID=
+```
+
+En **entornos de integración contínua CI/CD** utilizar las herramientas de cada
+plataforma para establecer los secretos:
+
+- **Imgproxy**  
+Para autenticar las petciciones al servicio Imgproxy, establecer las variables
+`HUGO_IMGPROX_SALT` y `HUGO_IMGPROX_KEY` según la documentación sobre [Url
+Signing](https://docs.imgproxy.net/usage/signing_url). Se utilizan en el momento
+de hacer el build de hugo. Usa los [GitHub secrets](https://docs.github.com/es/actions/how-tos/write-workflows/choose-what-workflows-do/use-secrets) en el repositorio o a través del GitHub Cli.
+
+  ```shell
+  # establece el secreto en un prompt interactivo
+  gh secret set HUGO_IMGPROXY_KEY
+  ```
+
+- **Mailchimp**
+Estas variables se utilizan en tiempo de ejecución (runtime) en el propio host. Establecerlas según el
+proveedor cloud elegido. En el caso de [Fly.io] sería así:
+  ```shell
+  fly secrets set MAICHIMP_DC=... --stage
+  fly secrets set MAICHIMP_APIKEY=... --stage
+  fly secrets set MAICHIMP_LIST_ID=... --stage
+  fly deploy
+  ```
+
 
 ---
 
