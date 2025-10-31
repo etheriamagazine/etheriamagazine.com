@@ -18,7 +18,7 @@
 
 ---
 
-[**Sitio web**] | [**Contenido**] | [**Autoría**] | [**Propiedad intelectual**] | [**Copyright**]
+**[Sitio web]** | **[Contenido]** | **[Autoría]** | **[Propiedad intelectual]** | **[Copyright]**
 
 ## 📰 Descripción
 
