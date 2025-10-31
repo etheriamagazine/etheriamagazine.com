@@ -18,7 +18,7 @@
 
 ---
 
-[Sitio web] | [Contenido] | [Autoría] | [Propiedad intelectual] | [Copyright]
+[**Sitio web**] | [**Contenido**] | [**Autoría**] | [**Propiedad intelectual**] | [**Copyright**]
 
 ## 📰 Descripción
 
@@ -100,6 +100,7 @@ Para generar el sitio web desde el código fuente necesitas:
 Se incluyen varios [scripts] para facilitar las tareas comunes:
 
 🚀 Lanzar el servidor de desarrollo (con hot reload en `localhost:1313`):
+
 ```shell
 bun dev
 ```
@@ -128,23 +129,25 @@ MAILCHIMP_APIKEY=
 MAILCHIMP_LIST_ID=
 ```
 
-En **entornos de integración contínua CI/CD** utilizar las herramientas de cada
+En **entornos de integración contínua CI/CD** usa las herramientas de cada
 plataforma para establecer los secretos:
 
 - **Imgproxy**  
-Para autenticar las petciciones al servicio Imgproxy, establecer las variables
-`HUGO_IMGPROX_SALT` y `HUGO_IMGPROX_KEY` según la documentación sobre [Url
-Signing](https://docs.imgproxy.net/usage/signing_url). Se utilizan en el momento
-de hacer el build de hugo. Usa los [GitHub secrets](https://docs.github.com/es/actions/how-tos/write-workflows/choose-what-workflows-do/use-secrets) en el repositorio o a través del GitHub Cli.
+Establecer las variables `HUGO_IMGPROX_SALT` y `HUGO_IMGPROX_KEY` según la
+documentación sobre [Url Signing](https://docs.imgproxy.net/usage/signing_url)
+para el acceso autenticado al servicio imgproxy. Usa los [GitHub
+secrets](https://docs.github.com/es/actions/how-tos/write-workflows/choose-what-workflows-do/use-secrets)
+en el repositorio o a través del GitHub Cli para que estas variables puedan ser
+consumidas al hacer el build.
 
   ```shell
   # establece el secreto en un prompt interactivo
   gh secret set HUGO_IMGPROXY_KEY
   ```
 
-- **Mailchimp**
-Estas variables se utilizan en tiempo de ejecución (runtime) en el propio host. Establecerlas según el
-proveedor cloud elegido. En el caso de [Fly.io] sería así:
+- **Mailchimp**  
+Estas variables se usan en tiempo de ejecución (runtime) en el propio host. Establecer según el
+proveedor cloud elegido. En el caso de [Fly.io]:
   ```shell
   fly secrets set MAICHIMP_DC=... --stage
   fly secrets set MAICHIMP_APIKEY=... --stage
