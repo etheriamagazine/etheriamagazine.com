@@ -14,11 +14,12 @@
 
 <a href="https://etheriamagazine.com/"><img src="https://github.com/user-attachments/assets/acfbd4df-7af3-46b3-b5f6-5e51ce692b66" width="260" alt="Etheria Magazine" /></a>
 
-[Etheria Magazine] — La revista de las mujeres viajeras
+Etheria Magazine — La revista de las mujeres viajeras  
 
+[![Fly Deploy](https://github.com/etheriamagazine/etheriamagazine.com/actions/workflows/fly-deploy.yml/badge.svg)](https://github.com/etheriamagazine/etheriamagazine.com/actions/workflows/fly-deploy.yml)
 ---
 
-**[Sitio web]** | **[Contenido]** | **[Autoría]** | **[Propiedad intelectual]** | **[Copyright]**
+**[Contenido]** | **[Autoría]** | **[Propiedad intelectual]** | **[Sitio web]**
 
 ## 📰 Descripción
 
