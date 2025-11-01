@@ -1,6 +1,6 @@
 # See https://fly.io/docs/app-guides/continuous-deployment-with-github-actions/
 
-name: Publicación web
+name: Fly deploy
 on:
   push:
     branches:
