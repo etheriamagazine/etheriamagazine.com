@@ -10,7 +10,10 @@ authors:
   - Susana García
 ---
 
-La Laponia Finlandesa es un destino perfecto para viajar con niños y, siguiendo unas pautas muy fáciles, es una escapada muy cómoda para disfrutar con los más pequeños de la casa. En Etheria magazine hemos elaborado una lista con ocho consejos que facilitan la estancia para aprovechar al máximo los días que se pasen en este divertido destino.
+La Laponia Finlandesa es un destino perfecto para viajar con niños y, siguiendo unas 
+pautas muy fáciles, es una escapada muy cómoda para disfrutar con los más pequeños de la 
+casa. En Etheria magazine hemos elaborado una lista con ocho consejos que facilitan la 
+estancia para aprovechar al máximo los días que se pasen en este divertido destino. 
 
 ![viaje Finlandia familia niños](https://fotos.etheriamagazine.com/2018/04/Laponia-nina.jpg "Los niños disfrutan cada instante en un viaje a Laponia. © Susana García.")
 
