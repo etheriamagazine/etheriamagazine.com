@@ -30,22 +30,6 @@ plausible:
     customProps: true
 
 skytheme:
-  home:
-    # categorías para seleccionar temas de portada
-    featured:
-      - viajar-con-amigas
-      - viajar-en-familia
-      - viajar-en-pareja
-      - viajar-sola
-
-    # categorías a mostrar en home
-    categories:
-      - viajar-con-amigas
-      - viajar-en-familia
-      - viajar-en-pareja
-      - viajar-sola
-      - estilo-de-vida
-      - organizate
 
 seo:
   author: Etheria Magazine

@@ -1,0 +1,29 @@
+# Número de posts a mostrar en portada
+featuredPostsCount: 7
+
+# Lista de categorías para temas de portada
+featuredCategories:
+  - viajar-con-amigas
+  - viajar-en-familia
+  - viajar-en-pareja
+  - viajar-sola
+
+# Lista de posts fijados en portada
+pinnedPosts:
+  - slug: escapada-romantica-a-getxo
+    until: 2025-12-31
+
+  - slug: viaje-a-boston-con-amigas
+    until: 2025-12-31
+
+# Lista de categorías que se muestran después de la portada
+categoriesToDisplay:
+  - viajar-con-amigas
+  - viajar-en-familia
+  - viajar-en-pareja
+  - viajar-sola
+  - estilo-de-vida
+  - organizate
+
+# Número de posts a mostrar en cada categoría
+postsCountPerCategory: 7
