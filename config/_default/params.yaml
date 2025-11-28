@@ -29,8 +29,6 @@ plausible:
     customEvents: true
     customProps: true
 
-skytheme:
-
 seo:
   author: Etheria Magazine
   titleFormat: "%s — %s"
