@@ -1,4 +1,3 @@
-
 gitinfo:
   repositoryUrl: https://github.com/etheriamagazine/etheriamagazine.com
   contentRoot: content
@@ -41,14 +40,5 @@ seo:
     pinterest: etheriamagazine
     github: etheriamagazine
 
-
-hugoEtheria:
-  subscribeForm:
-    action: /newsletter
 subscribe:
   action: /newsletter
-  lists:
-    - id: 3yExM8x4
-      label: Newsletter
-    - id: 3yExM8x4
-      label: Marketing
