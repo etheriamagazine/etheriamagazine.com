@@ -4,6 +4,8 @@ date: 2025-10-22
 cover: https://fotos.etheriamagazine.com/2025/10/lago-zurich-paseo.jpg
 categories: 
   - viajar-en-familia
+tags: 
+  - europa
 authors: 
   - Susana García
 ---

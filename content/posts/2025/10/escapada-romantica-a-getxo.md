@@ -4,6 +4,8 @@ date: 2025-10-31
 cover: https://fotos.etheriamagazine.com/2025/10/Getxo-puente-bizkaia.jpeg
 categories: 
   - viajar-en-pareja
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

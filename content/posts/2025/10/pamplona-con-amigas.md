@@ -4,6 +4,8 @@ date: 2025-10-27
 cover: https://fotos.etheriamagazine.com/2025/10/escalera-catedral-pamplona.jpeg
 categories: 
   - viajar-con-amigas
+tags: 
+  - españa
 authors: 
   - Pepa G. Marín
 ---

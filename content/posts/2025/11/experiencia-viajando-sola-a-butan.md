@@ -4,6 +4,8 @@ date: 2025-11-19
 cover: https://fotos.etheriamagazine.com/2025/11/portada-butan.jpeg
 categories: 
   - viajar-sola
+tags: 
+  - mundo
 authors: 
   - Firmas invitadas
 ---

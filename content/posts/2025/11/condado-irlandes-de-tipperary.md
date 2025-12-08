@@ -5,6 +5,8 @@ cover: https://fotos.etheriamagazine.com/2025/11/Roscrea-Castle-Walled-Garden-Ro
 categories: 
   - organiza-tu-viaje
   - guias-de-destino
+tags: 
+  - europa
 authors: 
   - Redacción Etheria
 ---

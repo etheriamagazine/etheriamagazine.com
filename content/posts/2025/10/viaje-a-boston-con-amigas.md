@@ -4,6 +4,8 @@ date: 2025-10-08
 cover: https://fotos.etheriamagazine.com/2025/09/Boston-muelle.jpg
 categories: 
   - viajar-con-amigas
+tags: 
+  - mundo
 authors: 
   - Redacción Etheria
 ---

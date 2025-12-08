@@ -4,6 +4,8 @@ date: 2025-10-07
 cover: https://fotos.etheriamagazine.com/2025/10/Kerala-Backwaters.jpeg
 categories: 
   - viajar-con-amigas
+tags: 
+  - mundo
 authors: 
   - Alicia Bea
 ---

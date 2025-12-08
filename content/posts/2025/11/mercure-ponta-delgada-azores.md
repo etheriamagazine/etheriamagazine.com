@@ -5,6 +5,8 @@ cover: https://fotos.etheriamagazine.com/2025/11/hotel-Mercure-Ponta-Delgada-Azo
 categories: 
   - estilo-de-vida
   - hoteles
+tags: 
+  - europa
 authors: 
   - Pepa G. Marín
 ---

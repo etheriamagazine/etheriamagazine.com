@@ -4,6 +4,8 @@ date: 2025-10-10
 cover: https://fotos.etheriamagazine.com/2025/10/Flandes-en-bicicleta-amigas.jpg
 categories: 
   - viajar-con-amigas
+tags: 
+  - europa
 authors: 
   - Pedro Grifol
 ---

@@ -4,6 +4,8 @@ date: 2025-11-06
 cover: https://fotos.etheriamagazine.com/2025/11/paraguay-mision-jesuitica.jpeg
 categories: 
   - viajar-con-amigas
+tags: 
+  - mundo
 authors: 
   - Cris Aizpeolea
 ---

@@ -4,6 +4,8 @@ date: 2025-10-14
 cover: https://fotos.etheriamagazine.com/2025/10/eslovenia-lago-bled-amanecer.jpeg
 categories: 
   - viajar-con-amigas
+tags: 
+  - europa
 authors: 
   - Alfredo G. Reyes
 ---
