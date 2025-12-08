@@ -102,9 +102,9 @@ main:
     parent: estilo
 
 
-  - name: Organízate
+  - name: Organiza
     identifier: organiza
-    pageRef: ""
+    pageRef: "categories/organiza-tu-viaje"
     weight: 6
   - name: Qué llevar en la maleta
     pageRef: categories/que-llevar-en-la-maleta
