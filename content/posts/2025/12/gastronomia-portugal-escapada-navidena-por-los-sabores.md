@@ -1,7 +1,6 @@
 ---
 title: "Una escapada navideña por los sabores de Portugal"
-date: 2025-12-04
-draft: true
+date: 2025-12-09
 cover: https://fotos.etheriamagazine.com/2025/12/Portugal-Azores-Cozido-das-Furnas.jpg
 categories: 
   - estilo-de-vida
@@ -204,16 +203,17 @@ durante todo el año. Pero en las fechas navideñas estos ingredientes toman aú
 protagonismo en los dulces conventuales de lugares como Coimbra o Tentúgal que aparecen 
 como pequeños tesoros de Navidad. 
 
-![](https://fotos.etheriamagazine.com/2025/12/image017.png "Bolo-rei. PROVISIONAL")
+![Bolo-rei, dulce de Navidad típico de Portugal, elaborado por panadería Pão de Gimonde en Bragança, en el norte de Portugal.](https://fotos.etheriamagazine.com/2025/12/Portugal-gastronomia-bolo-rei.jpg "Bolo-rei, dulce de Navidad típico de Portugal, elaborado por panadería Pão de Gimonde en Bragança, en el norte de Portugal. © Fernando Sousa/Dentsu Creative")
 
 Otros dulces típicos de estas fechas, que son perfectos para compartir con las amigas, 
-son el _**bolo-rei**_ (una bollo en forma de rosca con frutas escarchadas y frutos 
-secos), las **_broas de Natal_** (hogazas de pan dulce con frutos secos, calabaza y 
-aguardiente), las _**rabanadas**_ (similares a nuestras torrijas) o los _**filhoses**_ 
-(ligeros buñuelos imprescindibles en cualquier reunión). Ni que decir tiene que son 
-todos deliciosos y, además de probarlos in situ, os los querréis traer a vuestras casas 
-para celebrar la Navidad con un trocito de ese país que os ha dejado tan buen sabor de 
-boca en vuestro viaje. 
+son el _**bolo-rei**_ (un bollo en forma de rosca con frutas escarchadas y frutos secos, 
+son deliciosos los de la panadería [Pão de Gimonde](https://paodegimonde.com/) en 
+Bragança en el norte de Portugal), las **_broas de Natal_** (hogazas de pan dulce con 
+frutos secos, calabaza y aguardiente), las _**rabanadas**_ (similares a nuestras 
+torrijas) o los _**filhoses**_ (ligeros buñuelos imprescindibles en cualquier reunión). 
+Ni que decir tiene que son todos deliciosos y, además de probarlos in situ, os los 
+querréis traer a vuestras casas para celebrar la Navidad con un trocito de ese país que 
+os ha dejado tan buen sabor de boca en vuestro viaje. 
 
 **Más información:** 
 
