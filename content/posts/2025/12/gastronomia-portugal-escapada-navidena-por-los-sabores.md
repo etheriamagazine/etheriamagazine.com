@@ -54,7 +54,7 @@ generosa ración de caldo verde, esa sopa de patata, col rizada y chorizo que re
 en cualquier época del año. Y si se acompaña con una rebanada de pan casero con 
 mantequilla, la vida mejora en general.
 
-![El bacalao siempre está presente en las mesas de Portugal. Fotografía media cortesía de la panadería Pão de Gimonde (Bragança, Portugal). © CM Amares](https://fotos.etheriamagazine.com/2025/12/Portugal-gastronomia-bacalo.jpg)
+![El bacalao siempre está presente en las mesas de Portugal. Fotografía cortesía de la panadería Pão de Gimonde (Bragança, Portugal). © CM Amares](https://fotos.etheriamagazine.com/2025/12/Portugal-gastronomia-bacalo.jpg)
 
 Entre los dulces, el **pastel de Belém** es el rey indiscutible, un auténtico icono 
 nacional. Este pequeño pastel de hojaldre, relleno de una crema de huevo, leche y 
@@ -205,7 +205,7 @@ durante todo el año. Pero en las fechas navideñas estos ingredientes toman aú
 protagonismo en los dulces conventuales de lugares como Coimbra o Tentúgal que aparecen 
 como pequeños tesoros de Navidad. 
 
-![Dulces tradicionales de Navidad de Portugal. Fotografía media cortesía de la panadería Pão de Gimonde (Bragança, Portugal). © Fernando Sousa/Dentsu Creative](https://fotos.etheriamagazine.com/2025/12/Portugal-dulces-navidad.jpg)
+![Dulces tradicionales de Navidad de Portugal. Fotografía cortesía de la panadería Pão de Gimonde (Bragança, Portugal). © Fernando Sousa/Dentsu Creative](https://fotos.etheriamagazine.com/2025/12/Portugal-dulces-navidad.jpg)
 
 
 Otros dulces típicos de estas fechas, que son perfectos para compartir con las amigas, 
