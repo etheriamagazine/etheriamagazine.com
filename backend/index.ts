@@ -1,9 +1,11 @@
 import { Hono } from 'hono';
 import { serveStatic } from 'hono/bun';
-import { basicAuth } from 'hono/basic-auth';
+
+import redirections from './redirections';
+import newsletter from './newsletter';
 
 import { plausibleProxy } from './plausible';
-import newsletter from './newsletter';
+
 
 // Allow ctrl+c to shut down container
 process.on('SIGINT', () => {
@@ -14,28 +16,7 @@ const port = parseInt(process.env['PORT'] || '') || 3000;
 
 const app = new Hono();
 
-// dev auth
-app.use(
-  '/*',
-  basicAuth({
-    username: 'pruebas',
-    password: 'magazine',
-  })
-)
-
-// Redirect old WordPress post links
-app.get(
-  '/:year{[0-9]{4}}/:month{[0-9]{2}}/:day{[0-9]{2}}/:slug{.+\/?}',
-  async (c) => {
-    let slug = c.req.param('slug');
-
-    // Note: Hugo uses pretty urls that end in a trailing slash,
-    // so we always add it if not present.
-    slug += slug.endsWith("/") ? "" : "/";
-
-    return c.redirect(`/articulos/${slug}`, 301);
-  },
-);
+app.route('/', redirections);
 
 // Serve hugo site
 app.use('/*', serveStatic({ root: './public' }));

@@ -1,5 +1,3 @@
-minify:
-  minifyOutput: true
 
 plausible:
   domain: etheriamagazine.com
