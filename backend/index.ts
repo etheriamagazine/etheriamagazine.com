@@ -1,6 +1,7 @@
 import { Hono } from 'hono';
 import { serveStatic } from 'hono/bun';
 
+import { flyRedirect } from './flyRedirect'
 import redirections from './redirections';
 import newsletter from './newsletter';
 
@@ -15,6 +16,8 @@ process.on('SIGINT', () => {
 const port = parseInt(process.env['PORT'] || '') || 3000;
 
 const app = new Hono();
+
+app.use(flyRedirect);
 
 app.route('/', redirections);
 
