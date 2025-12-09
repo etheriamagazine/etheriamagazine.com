@@ -6,6 +6,7 @@
 !backend/
 !config/
 !content/
+!data/
 !layouts/
 !static/
 !bun.lockb
