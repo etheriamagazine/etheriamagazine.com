@@ -52,7 +52,9 @@ gastronomía, que mezcla tradición, mar y sencillez. El bacalao —presente en 
 recetas— es un símbolo nacional: a la brasa, en _pataniscas_ o acompañado de una 
 generosa ración de caldo verde, esa sopa de patata, col rizada y chorizo que reconforta 
 en cualquier época del año. Y si se acompaña con una rebanada de pan casero con 
-mantequilla, la vida mejora en general. 
+mantequilla, la vida mejora en general.
+
+![El bacalao siempre está presente en las mesas de Portugal. Fotografía media cortesía de la panadería Pão de Gimonde (Bragança, Portugal). © CM Amares](https://fotos.etheriamagazine.com/2025/12/Portugal-gastronomia-bacalo.jpg)
 
 Entre los dulces, el **pastel de Belém** es el rey indiscutible, un auténtico icono 
 nacional. Este pequeño pastel de hojaldre, relleno de una crema de huevo, leche y 
@@ -203,7 +205,8 @@ durante todo el año. Pero en las fechas navideñas estos ingredientes toman aú
 protagonismo en los dulces conventuales de lugares como Coimbra o Tentúgal que aparecen 
 como pequeños tesoros de Navidad. 
 
-![Bolo-rei, dulce de Navidad típico de Portugal, elaborado por panadería Pão de Gimonde en Bragança, en el norte de Portugal.](https://fotos.etheriamagazine.com/2025/12/Portugal-gastronomia-bolo-rei.jpg "Bolo-rei, dulce de Navidad típico de Portugal, elaborado por panadería Pão de Gimonde en Bragança, en el norte de Portugal. © Fernando Sousa/Dentsu Creative")
+![Dulces tradicionales de Navidad de Portugal. Fotografía media cortesía de la panadería Pão de Gimonde (Bragança, Portugal). © Fernando Sousa/Dentsu Creative](https://fotos.etheriamagazine.com/2025/12/Portugal-dulces-navidad.jpg)
+
 
 Otros dulces típicos de estas fechas, que son perfectos para compartir con las amigas, 
 son el _**bolo-rei**_ (un bollo en forma de rosca con frutas escarchadas y frutos secos, 
