@@ -207,7 +207,7 @@ durante todo el año. Pero en las fechas navideñas estos ingredientes toman aú
 protagonismo en los dulces conventuales de lugares como Coimbra o Tentúgal que aparecen 
 como pequeños tesoros de Navidad. 
 
-![Dulces tradicionales de Navidad de Portugal. Fotografía cortesía de la panadería Pão de Gimonde (Bragança, Portugal). © Fernando Sousa/Dentsu Creative](https://fotos.etheriamagazine.com/2025/12/Portugal-dulces-navidad.jpg)
+![Bolo-Rei. Fotografía cortesía de la panadería Pão de Gimonde (Bragança, Portugal)](https://fotos.etheriamagazine.com/2025/12/Portugal-bolo-rei.jpg)
 
 
 Otros dulces típicos de estas fechas, que son perfectos para compartir con las amigas, 
