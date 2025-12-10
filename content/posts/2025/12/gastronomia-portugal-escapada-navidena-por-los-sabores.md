@@ -1,11 +1,11 @@
 ---
 title: "Una escapada navideña por los sabores de Portugal"
 date: 2025-12-09
-cover: https://fotos.etheriamagazine.com/2025/12/Portugal-Azores-Cozido-das-Furnas.jpg
+cover: https://fotos.etheriamagazine.com/2025/12/Portugal-caldeirada-de-pescado-noelia.jpg
 categories: 
   - estilo-de-vida
   - gourmet
-authors: 
+authors:
   - Susana García
 ---
 
@@ -15,7 +15,9 @@ artículo te damos las claves más sabrosas del país vecino y, además, te cont
 dulces tienes que buscar si viajas durante las Navidades. Sigue leyendo porque te va a 
 servir para organizar unas cuantas escapadas de esas que no vais a olvidar nunca. 
 
-![Mesa con platos tradicionales de Alentejo.](https://fotos.etheriamagazine.com/2025/12/Portugal-Alentejo-gastronomia-tradicional.jpg "Mesa con platos tradicionales de Alentejo. © Visit Alentejo")
+
+![ ‘Caldeirada’ de pescado y marisco. © Dentsu Creative/Casper Filmes/Arlindo Camacho](https://fotos.etheriamagazine.com/2025/12/Portugal-caldeirada-de-pescado-noelia.jpg)
+
 
 No decimos nada nuevo si afirmamos que Portugal es probablemente el mejor país para 
 organizar una escapada con amigas desde España. La extensa frontera compartida, en la 
@@ -54,7 +56,7 @@ generosa ración de caldo verde, esa sopa de patata, col rizada y chorizo que re
 en cualquier época del año. Y si se acompaña con una rebanada de pan casero con 
 mantequilla, la vida mejora en general.
 
-![El bacalao siempre está presente en las mesas de Portugal. Fotografía cortesía de la panadería Pão de Gimonde (Bragança, Portugal). © CM Amares](https://fotos.etheriamagazine.com/2025/12/Portugal-gastronomia-bacalo.jpg)
+![El bacalao siempre está presente en las mesas de Portugal. © CM Amares](https://fotos.etheriamagazine.com/2025/12/Portugal-gastronomia-bacalao.jpg)
 
 Entre los dulces, el **pastel de Belém** es el rey indiscutible, un auténtico icono 
 nacional. Este pequeño pastel de hojaldre, relleno de una crema de huevo, leche y 
@@ -82,7 +84,7 @@ como el _bacalhau à Gomes de Sá_, el _bacalhau à Zé do Pipo_, el _bacalhau �
 el _bacalhau à Narcisa_. 
 
 En cuanto a los guisos de esos que te mejoran un día, el **caldo verde**, una sopa de 
-col gallega (_couve galega_), patata, cebolla, ajo y chorizo que se ha convertido en 
+col portuguesa, patata, cebolla, ajo y chorizo que se ha convertido en 
 símbolo nacional; y las _**tripas à Moda do Porto**_, un contundente guiso realizado a 
 base de callos de ternera perfecto para el invierno. Ambos contrastan con el plato más 
 típico de Oporto, la contundente _**francesinha**_, un sándwich cubierto de queso 
