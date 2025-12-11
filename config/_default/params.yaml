@@ -4,7 +4,7 @@ gitinfo:
 
 imgproxy:
   enabled: true
-  host: https://imgp.etheriamagazine.com/
+  host: https://imgp2.etheriamagazine.com/
   sourceStyle: plain
   responsive:
     defaultSize: 900
