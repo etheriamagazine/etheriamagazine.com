@@ -10,7 +10,7 @@ authors:
   - Susana García
 ---
 
-[](https://etheriamagazine.com/wp-admin/edit.php?post_type=post)Los pueblos blancos de Cádiz son una fuente de excursiones en cualquier época del año y Setenil de las Bodegas es uno de los imprescindibles. Te damos las claves para organizar una excursión a Setenil de las Bodegas y los rincones que no puedes perderte.
+Los pueblos blancos de Cádiz son una fuente de excursiones en cualquier época del año y Setenil de las Bodegas es uno de los imprescindibles. Te damos las claves para organizar una excursión a Setenil de las Bodegas y los rincones que no puedes perderte.
 
 ![Letras de Setenil de las Bodegas con la iglesia de la Encarnación al fondo](https://fotos.etheriamagazine.com/2022/07/setenil-letras-mirador-carmen.jpg "Mirador del Carmen. © Susana García/Etheria Magazine")
 

@@ -43,9 +43,7 @@ convierten en los protagonistas del viaje. Estarás deseando coger las gafas y e
 para hacer esnórquel frente a tu habitación. Por no hablar de la excursiones para bucear 
 y ver todo tipo de especies marinas. 
 
-📌 Si te gustan los deportes activos sigue leyendo <!-- LEGACY_NON_EXISTANT_LINK <a 
-href="https://etheriamagazine.com/2018/10/16/islas-maldivas-lunas-de-miel-y-deportes-activos-para-mujeres/">'Maldivas, 
-¿quién dijo luna de miel?'</a> --> 
+📌 Si te gustan los deportes activos sigue leyendo '{{< reflink guia-que-hacer-en-maldivas-buceo-surf >}}'.
 
 ## Las villas
 
