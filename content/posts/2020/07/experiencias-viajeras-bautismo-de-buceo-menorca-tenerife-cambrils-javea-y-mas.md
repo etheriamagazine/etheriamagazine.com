@@ -114,7 +114,7 @@ Precio del bautizo submarino en Jávea desde 65 € (edad mínima, 10 años)
 
 Granada tiene tantos atractivos que son necesarias unas vacaciones prolongadas para 
 disfrutar de su capital, con la bellísima 
-[Alhambra](http://etheriamagazine.com/2020/05/29/48-horas-en-el-albayzin-y-la-alhambra/); 
+[Alhambra]({{% ref 48-horas-en-el-albayzin-y-la-alhambra %}}); 
 de los pueblos de las Alpajarras; de Sierra Nevada, con sus actividades tanto en 
 invierno como en verano… ; y, también, de su costa Tropical. Nuestra propuesta es que, 
 además, de darte algún chapuzón, te sumerjas en el Mediterráneo totalmente equipado para 
@@ -136,7 +136,7 @@ muy justificado ponerse las pilas, ya que descubrirás de donde sale el producto
 podido ver descargando en su puerto. A la vuelta de bucear ya degustarás algún rico 
 arroz con marisco, o unas gambas rojas a la plancha (no te pierdas este artículo con los 
 [mejores restaurantes donde comer gamba 
-roja](http://etheriamagazine.com/2019/07/02/mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva/) 
+roja]({{% ref mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva %}}) 
 en la costa española). 
 
 Si te animas, reserva dos horas de tus vacaciones y realiza este [bautismo de buceo en 
@@ -164,8 +164,8 @@ Ceuta](https://www.civitatis.com/es/ceuta/bautismo-buceo-ceuta/?aid=10211) desde
 ## Otras experiencias viajeras
 
 [Subir en globo para ver la Tierra desde las 
-alturas](http://etheriamagazine.com/2020/07/07/vuelos-en-globo-en-espana-regalo-viajero/). 
+alturas]({{% ref vuelos-en-globo-en-espana-regalo-viajero %}}). 
 [Actividades con niños en 
-Mallorca](http://etheriamagazine.com/2020/06/16/8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos/) 
+Mallorca]({{% ref 8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos %}}) 
 [Actividades con niños en la provincia de 
-Cádiz](http://etheriamagazine.com/2020/03/12/12-actividades-familiares-para-viajes-con-ninos-en-cadiz/).
+Cádiz]({{% ref 12-actividades-familiares-para-viajes-con-ninos-en-cadiz %}}).

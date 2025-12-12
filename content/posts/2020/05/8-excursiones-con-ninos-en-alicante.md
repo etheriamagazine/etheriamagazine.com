@@ -42,11 +42,11 @@ snorkel](https://www.civitatis.com/es/santa-pola/excursion-tabarca-snorkel/?aid=
 ## 2\. La Marina Alta: Dénia y Jávea
 
 Estos dos pueblos llenos de encanto se sitúan en la zona conocida como [La Marina 
-Alta](http://etheriamagazine.com/2019/09/17/que-hacer-donde-comer-con-amigas-denia-javea/) 
+Alta]({{% ref que-hacer-donde-comer-con-amigas-denia-javea %}}) 
 a la que ya dedicamos un reportaje en Etheria Magazine. Su encanto reside en sus bonitas 
 playas y costas acantiladas, además de en su gastronomía (no dejéis de daros un capricho 
 y probad la [gamba 
-roja](http://etheriamagazine.com/2019/07/02/mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva/) 
+roja]({{% ref mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva %}}) 
 de Dénia). Dos buenas opciones para completar la jornada son dar un paseo en [catamarán 
 frente a la costa de 
 Dénia](https://www.civitatis.com/es/denia/paseo-catamaran-denia/?aid=10211) o dar un 

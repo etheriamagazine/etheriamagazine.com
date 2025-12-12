@@ -96,7 +96,7 @@ pises con su Catedral, campanile y baptisterio, querrás recorrer una y otra vez
 Vecchio y pensarás seriamente en quedarte a vivir dentro de la Galleria degli Uffizi. 
 Por no hablar de las plazas e iglesias que sorprenden a cada paso. Y los helados ¡ay, 
 los helados! Además, es un destino perfecto para [viajar en 
-familia](http://etheriamagazine.com/2018/05/17/10-imprescindibles-para-disfrutar-florencia-con-ninos/). 
+familia]({{% ref 10-imprescindibles-para-disfrutar-florencia-con-ninos %}}). 
 
 📍 {{< reflink path=posts/2018/05/48-horas-en-florencia-fin-de-semana-que-ver-hacer >}}. 
 

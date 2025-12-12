@@ -78,7 +78,7 @@ donde haya más mosquitos. En los hoteles en la naturaleza no hay mucha etiqueta
 puede vestir de manera informal. Y no olvides chubasqueros o capas para la lluvia, el 
 tiempo cambia constantemente y son frecuentes los chaparrones. Te lo contamos también, 
 de forma más amplia, en el artículo ✅ [Qué llevar en la maleta si viajas a Costa 
-Rica](http://etheriamagazine.com/2018/05/28/una-maleta-para-costa-rica/). 
+Rica]({{% ref una-maleta-para-costa-rica %}}). 
 
 ![Fruto del cacao.](https://fotos.etheriamagazine.com/2018/05/Costa-Rica-cacao.jpg "Fruto del cacao. © SG")
 

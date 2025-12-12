@@ -68,7 +68,7 @@ la sede del Centro de Estudios de Física del Cosmos.
 
 La costa vasca está llena de rincones maravillosos y uno que no te puedes perder es el 
 [golfo de 
-Bizkaia](http://etheriamagazine.com/2020/04/20/avistamiento-cetaceos-bizkaia-vizcaya-pais-vasco/), 
+Bizkaia]({{% ref avistamiento-cetaceos-bizkaia-vizcaya-pais-vasco %}}), 
 ya que ofrece una experiencia única: avistar cetáceos muy cerca de la costa. Una 
 actividad estupenda para disfrutar en fin de semana y que se puede combinar con la 
 animada ciudad marinera de Bermeo, una excelente lugar para tomar unos pintxos. 
@@ -108,7 +108,7 @@ Si buscas un fin de semana en el que disfrutar del mar y la costa, una buena alt
 es la Marina Alta, en la cosa alicantina. Concretamente no puedes dejar de visitar dos 
 de sus localidades más bonitas: Dénia y Jávea. Aquí encontrarás playas de arena, calas 
 escondidas y restaurantes donde degustar la famosa [gamba 
-roja](http://etheriamagazine.com/2019/07/02/mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva/) 
+roja]({{% ref mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva %}}) 
 de la zona. 
 
 📍 {{< reflink path=posts/2021/04/que-hacer-donde-comer-con-amigas-denia-javea >}}. 

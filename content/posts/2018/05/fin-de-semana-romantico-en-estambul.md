@@ -134,7 +134,7 @@ punta son eternos. Por este motivo si se tiene intención de disfrutar de sus ba
 restaurantes de moda por la noche es mejor alojarse **en la ribera del Bósforo, cerca 
 del barrio de Ortaköy.** Un lugar muy especial para una escapada romántica en Estambul 
 es el hotel [Ciragan Palace Kempiski 
-Istambul](http://etheriamagazine.com/2019/03/05/ciragan-palace-kempinski-escapada-romantica-estambul/) 
+Istambul]({{% ref ciragan-palace-kempinski-escapada-romantica-estambul %}}) 
 (5\* L), que ocupa un antiguo palacio. Su precio es bastante elevado pero también 
 encontrarás otras opciones más económicas. Los encontrarás de un vistazo en 
 **Booking.com** 

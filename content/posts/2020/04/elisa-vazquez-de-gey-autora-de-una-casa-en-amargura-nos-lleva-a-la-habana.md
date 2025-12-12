@@ -48,7 +48,7 @@ colonial era cuestión de tiempo.
 
 Tras varios libros centrados en el mismo personaje (📍no te pierdas la reseña sobre 
 [Anita Delgado, la Princesa española de 
-Kapurthala](http://etheriamagazine.com/2020/04/13/la-pasion-india-de-anita-delgado-libros-viajes/)) 
+Kapurthala]({{% ref la-pasion-india-de-anita-delgado-libros-viajes %}})) 
 tuve la oportunidad de viajar a **La Reunión**, en el ultramar francés. Era 1998 y la 
 isla conmemoraba el 150 aniversario de la abolición de la esclavitud. 
 
@@ -168,7 +168,7 @@ Sí, tuve el enorme honor de presentar la novela en el marco de la **Feria del l
 año 2017.** De hecho, desde que se publicó en la isla consideran que esta novela es 
 “patrimonio habanero”, y está prevista una edición especial para Cuba. La gran escritora 
 cubana [Marta 
-Rojas](http://etheriamagazine.com/2020/01/13/marta-rojas-periodista-escritora-cubana-mujeres-inspiradoras/) 
+Rojas]({{% ref marta-rojas-periodista-escritora-cubana-mujeres-inspiradoras %}}) 
 y Mario Cremata, director de las Ediciones Boloña de la Oficina del Historiador, fueron 
 los anfitriones. 
 

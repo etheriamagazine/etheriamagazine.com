@@ -188,10 +188,10 @@ se somete el país durante el periodo del Ramadán.
 ##### Dónde dormir en Marruecos
 
 El [Riad Belle 
-Epoque](http://etheriamagazine.com/2019/10/15/escapada-hotel-romantico-marrakech-riad-belle-epoque/) 
+Epoque]({{% ref escapada-hotel-romantico-marrakech-riad-belle-epoque %}}) 
 reproduce el espíritu de _Las mil y una noches_ en una ubicación estratégica dentro de 
 Marrakech: junto a la medina, pero alejado del caos que supone. Si viajas en pareja, el 
-riad [La Sultana](http://etheriamagazine.com/2019/02/27/hotel-la-sultana-marrakech/) es 
+riad [La Sultana]({{% ref hotel-la-sultana-marrakech %}}) es 
 una excelente opción. 
 
 ##### Cómo organizar la aventura

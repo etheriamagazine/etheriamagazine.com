@@ -103,7 +103,7 @@ taza especial que el visitante puede llevarse como recuerdo.
 ## 6\. Disfruta con los coros navideños en Zúrich
 
 La ciudad se inunda de Navidad y los mercados aparecen en todas partes. En un [fin de 
-semana en Zúrich](http://etheriamagazine.com/2018/10/12/mercados-de-navidad-en-zurich/) 
+semana en Zúrich]({{% ref mercados-de-navidad-en-zurich %}}) 
 hay que visitar el mercadillo del barrio de **Nierderdorf**, el más tradicional y 
 antiguo de la ciudad, ubicado en la Hirschenplatz. Al otro lado del río está el el 
 **mercado de la Werdmühleplatz** con su original “Singing Christmas Tree” donde escuchar 
@@ -132,7 +132,7 @@ que se acompañan de una pista de patinaje, desfiles y un gran espectáculo de l
 ## 8\. Todo a lo grande en la Navidad de Londres
 
 Siempre hay un buen motivo para pasar un [fin de semana en 
-Londres](http://etheriamagazine.com/2018/09/13/visitas-imprescindibles-fin-de-semana-londres/), 
+Londres]({{% ref visitas-imprescindibles-fin-de-semana-londres %}}), 
 pero durante el Adviento el enorme mercadillo de 
 [Winterland](https://hydeparkwinterwonderland.com), ubicado en Hyde Park, es una razón 
 más. Aquí todo es excesivo: un parque de atracciones, un castillo de hielo, espectáculos 

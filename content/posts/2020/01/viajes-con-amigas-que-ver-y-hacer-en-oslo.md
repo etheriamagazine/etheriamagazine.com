@@ -18,7 +18,7 @@ qué ver en Oslo en tu primera visita.
 
 Como ya sabes, Oslo es la actual capital de Noruega pero antes también lo fueron 
 Trondheim y Bergen (puedes leer el artículo de Etheria [Tres capitales de 
-Noruega](http://etheriamagazine.com/2020/01/24/que-ver-en-noruega-trondheim-bergen-y-oslo/) 
+Noruega]({{% ref que-ver-en-noruega-trondheim-bergen-y-oslo %}}) 
 para ampliar tu viaje en el país). Esta es una urbe que siempre sorprende por su silueta 
 moderna y su arquitectura innovadora, también por sus numerosos museos y agradable 
 ambiente. Oslo es, sin duda, una propuesta excelente para un fin de semana o uno de los 

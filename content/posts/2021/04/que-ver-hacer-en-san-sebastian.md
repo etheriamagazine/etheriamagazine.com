@@ -162,7 +162,7 @@ cambiad al de al lado si el que os han recomendado está lleno, en todos hay alg
 #### Hoteles emblemáticos de San Sebastián
 
 Si puedes, date un capricho y alójate en el [Hotel María 
-Cristina](http://etheriamagazine.com/2018/07/21/hotel-maria-cristina-san-sebastian/). 
+Cristina]({{% ref hotel-maria-cristina-san-sebastian %}}). 
 Elegante, bien ubicado y con el aura que han dejado las estrellas de cine que han pasado 
 por sus habitaciones cuando han acudido al famoso Festival de Cine de la ciudad. También 
 puedes alojarte en el {{< reflink 

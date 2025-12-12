@@ -203,7 +203,7 @@ la calle Mesón, 13 (Centro de Interpretación del Teatro Romano).
 Si os interesa el tema histórico, no dejéis de visitar también el **Museo de Historia de 
 Cádiz** porque alberga auténticas joyas. En el término de Tarifa se encuentran las 
 [ruinas romanas de Baelo 
-Claudia](http://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/), 
+Claudia]({{% ref guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia %}}), 
 otra visita imprescindible para hacer en familia. 
 
 **Precio**: Gratuito. **Horario**: De lunes a sábados y de 11 a 17 h en verano. Domingos 

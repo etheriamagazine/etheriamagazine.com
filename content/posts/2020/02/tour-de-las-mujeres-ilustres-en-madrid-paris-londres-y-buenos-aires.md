@@ -37,7 +37,7 @@ otras calles y plazas madrileñas.
 
 Las curiosidades sobre estas féminas te sorprenderán, ¡y mucho! Puede que incluso no 
 conozcas a algunas como [Sofonisba de 
-Anguissola](http://etheriamagazine.com/2019/11/18/grandes-mujeres-artistas-exposicion-sofonisba-anguissola-lavinia-fontana/) 
+Anguissola]({{% ref grandes-mujeres-artistas-exposicion-sofonisba-anguissola-lavinia-fontana %}}) 
 (os hablábamos de ella hace poco), una gran pintora del Renacimiento. Y hayas olvidado 
 el relevante papel que tuvieron Rosario Acuña, Clara Campoamor y la periodista Carmen de 
 Burgos para la obtención de derechos como el sufragio femenino o la ley del divorcio. 
@@ -78,7 +78,7 @@ Londres](https://www.civitatis.com/es/londres/tour-mujeres-ilustres/?aid=10211).
 ## Tour de las Mujeres Ilustres en París
 
 Este recorrido, que debería estar entre los favoritos de todas las mujeres que [viajan 
-solas a París](http://etheriamagazine.com/2019/05/15/viajar-sola-que-ver-paris/), es una 
+solas a París]({{% ref viajar-sola-que-ver-paris %}}), es una 
 oportunidad excelente de aprender y también de relacionarse con otras viajeras. La mujer 
 francesa se ha caracterizado siempre por sus reivindicaciones y espíritu de lucha, y en 
 este itinerario quedará demostrado mientras se visita el Panteón, los Jardines de 

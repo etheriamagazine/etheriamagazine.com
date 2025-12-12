@@ -128,4 +128,4 @@ Euros.
 📌 **También te puede interesar:** 
 
 [Ruta en coche a Túnez, de la capital al 
-desierto.](http://etheriamagazine.com/2018/05/14/tunez-en-coche-desde-la-capital-al-desierto/)
+desierto.]({{% ref tunez-en-coche-desde-la-capital-al-desierto %}})

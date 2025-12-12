@@ -62,7 +62,7 @@ sus bonitos paisajes le tendrás que sumar sus playas increíbles (algunas perfe
 la práctica del surf) y una gastronomía por la que querrás quedarte a vivir (y que te 
 contamos en un reportaje sobre los [mejores bares de pintxos de San Sebastián para ir 
 con 
-amigas](http://etheriamagazine.com/2019/11/08/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas/)). 
+amigas]({{% ref de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas %}})). 
 
 📍 {{< reflink path=posts/2021/04/que-ver-hacer-en-san-sebastian >}}. 
 
@@ -76,7 +76,7 @@ reportaje por lugares sorprendentes de Cantabria te contamos algunos de ellos co
 bosque de secuoyas del Monte Cabezón, el Partenón cántabro, el laberinto de Villa 
 Presente, la calzada romana de Besaya o las ermitas rupestres de Vanderredible (una 
 comarca a la que dedicamos también un 
-[reportaje](http://etheriamagazine.com/2019/08/26/que-ver-valderredible-cantabria/)). 
+[reportaje]({{% ref que-ver-valderredible-cantabria %}})). 
 Además, es un destino perfecto para viajar en familia, así que os recomendamos consultar 
 nuestro artículo {{< reflink path=posts/2018/07/cantabria-viaje-en-familia >}}. 
 
@@ -117,7 +117,7 @@ reportaje te proponemos cinco de sus lugares más emblemáticos: la Ruta del Car
 Naranjo de Bulnes, Fuente Dé, los lagos de Covadonga y Cangas de Onís. ¿A que apetece? 
 
 📍 [Picos de Europa, una ruta por la columna vertebral de Asturias, León y 
-Cantabria](http://etheriamagazine.com/2018/10/17/picos-de-europa-ruta-por-asturias-leon-y-cantabria/). 
+Cantabria]({{% ref picos-de-europa-ruta-por-asturias-leon-y-cantabria %}}). 
 
 ![Pareja sentada en lago Covadonga](https://fotos.etheriamagazine.com/2018/10/Parque-Natural-Picos-Europa.jpg "Parque Nacional Picos de Europa. ©Patronato de Turismo de Asturias.")
 

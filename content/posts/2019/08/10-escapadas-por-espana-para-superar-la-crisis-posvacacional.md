@@ -69,7 +69,7 @@ path=posts/2019/06/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-
 Visitar la villa de Sepúlveda y completar el viaje con una ruta por el río Duratón es 
 uno de los mejores planes para disfrutar de una escapada con niños, ya que combina 
 turismo activo, cultura y gastronomía (gracias a su afamado 
-[lechazo](http://etheriamagazine.com/2019/04/25/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon/)). 
+[lechazo]({{% ref viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon %}})). 
 Una escapada perfecta para volver a disfrutar de unos días en familia. 
 
 ✅ {{< reflink path=posts/2019/07/sepulveda-y-las-hoces-del-duraton-viaje-en-familia >}} 

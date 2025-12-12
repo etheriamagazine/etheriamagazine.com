@@ -95,7 +95,7 @@ izquierda, cuando veas la puerta azul sigue recto y allí, al final de ese pasad
 estará tu refugio para estos días. 
 
 📌¿Nuestros favoritos? **Le Riad Yasmine**, **El Fenn**, el **Riad Be** y [La 
-Sultana](http://etheriamagazine.com/2019/02/27/hotel-la-sultana-marrakech/) todos ellos 
+Sultana]({{% ref hotel-la-sultana-marrakech %}}) todos ellos 
 con piscina central, terraza en la azotea y habitaciones que invitan a soñar despierta. 
 
 ![Habitación de Riad Jasmine.](https://fotos.etheriamagazine.com/2018/12/riad-yasmine.jpg "© Riad Jasmine.")
