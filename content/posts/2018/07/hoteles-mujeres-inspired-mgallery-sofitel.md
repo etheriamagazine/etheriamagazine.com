@@ -9,7 +9,7 @@ authors:
   - Rebeca Ávila
 ---
 
-\[caption id="attachment\_2268" align="aligncenter" width="1024"\]![Inspired by her hoteles para mujeres de MGallery by Sofitel](https://fotos.etheriamagazine.com/2018/07/Hoteles-MGallery-para-mujeres.jpg "Inspired by her es el programa para mujeres de MGallery by Sofitel") Inspired by her es el programa para mujeres de MGallery by Sofitel. Su embajadora es Inés de la Fressange.\[/caption\]
+![Inspired by her hoteles para mujeres de MGallery by Sofitel](https://fotos.etheriamagazine.com/2018/07/Hoteles-MGallery-para-mujeres.jpg "Inspired by her es el programa para mujeres de MGallery by Sofitel. Su embajadora es Inés de la Fressange.")
 
 ###### Cada vez somos más las mujeres que viajamos por trabajo y que tenemos unas expectativas y necesidades diferentes cuando nos alojamos en hoteles. Una tendencia que despierta interés en empresas como AccorHotels.
 
@@ -17,7 +17,7 @@ Según una investigación de WAAG, la **red de mujeres de AccorHotels**, que ten
 
 En **Inspired by her**, el programa de estos hoteles-boutique, destaca la especial atención que prestan a las necesidades reales que tenemos cuando nos alojamos en un hotel.
 
-\[caption id="attachment\_2267" align="aligncenter" width="1024"\]![Carl Labrosse productos hoteles mujeres](https://fotos.etheriamagazine.com/2018/07/Producto-Carl-Labrosse-hoteles-mujeres.jpg "Marcas de lujo en el programa Inspired by her") Detalles que importan en el programa Inspired by her.\[/caption\]
+![Carl Labrosse productos hoteles mujeres](https://fotos.etheriamagazine.com/2018/07/Producto-Carl-Labrosse-hoteles-mujeres.jpg "Detalles que importan en el programa Inspired by her.")
 
 ##### Detalles que marcan la diferencia:
 

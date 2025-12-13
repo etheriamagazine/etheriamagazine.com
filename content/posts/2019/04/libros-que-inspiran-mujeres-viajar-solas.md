@@ -58,7 +58,7 @@ Este manual ilustrado ha sido escrito por Andrea Bergareche, autora del blog Lá
 
 De vez en cuando es necesario leer este tipo de manifiestos feministas donde el humor es el protagonista. Puede que te sientas identificada con alguno de sus personajes, quizás seas la madre sacrificada cuya vida social se reduce a los encuentros con otras mujeres que llevan a sus hijos al fútbol, tienes una hermana narcisista, tu ex está en la cárcel o tu hija es una psicópata. Paloma Bravo, su autora, deforma la realidad tanto como quieras creer. Editado por la editorial Espasa, lo puedes comprar en [Amazon desde 17,91 euros](https://www.amazon.es/gp/product/8467055979/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8467055979&linkCode=as2&tag=etheriamagazi-21&linkId=a5cabc49972c8363553b54ccbb924df3) (papel).
 
-\[caption id="attachment\_8776" align="aligncenter" width="600"\]![libro cocina madre, recetas joan roca](https://fotos.etheriamagazine.com/2019/03/portada-cocina-madre-joan-roca.jpg "Cocina Madre, Joan Roca") Portada del libro Cocina Madre.\[/caption\]
+![libro cocina madre, recetas joan roca](https://fotos.etheriamagazine.com/2019/03/portada-cocina-madre-joan-roca.jpg "Portada del libro Cocina Madre.")
 
 ## 7\. Cocina madre.
 

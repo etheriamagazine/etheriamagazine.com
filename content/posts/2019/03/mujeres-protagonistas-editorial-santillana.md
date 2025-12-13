@@ -16,7 +16,7 @@ una colección de pequeños libros de fácil lectura que cuentan la importancia 
 presencia femenina en distintos ámbitos. Y todo contado por autoras que saben muy bien 
 de lo que hablan. 
 
-\[caption id="attachment\_8171" align="aligncenter" width="900"\]![mujeres en la historia, libros de mujeres, mujeres santillana](https://fotos.etheriamagazine.com/2019/03/mujeres-protagonistas-portadas.jpg "Libros de la colección 'El papel de las mujeres'.") Libros de la colección 'El papel de las mujeres'.\[/caption\]
+![mujeres en la historia, libros de mujeres, mujeres santillana](https://fotos.etheriamagazine.com/2019/03/mujeres-protagonistas-portadas.jpg "Libros de la colección 'El papel de las mujeres'.")
 
 Últimamente el mercado editorial se ha llenado de biografías de mujeres y recopilatorios de perfiles femeninos (muchos enfocados a niñas y adolescentes) y eso era urgente y necesario. Pero con la colección **'El papel de las mujeres',** incluida en **‘Mujeres protagonistas’**, Santillana da un paso más, hace un auténtico análisis contextualizado de las mujeres olvidadas en distintos ámbitos del conocimiento: en la Ciencia, en la Literatura, en el Cine, en la política, en el descubrimiento del mundo… Y lo propone de una manera sencilla, a través de unos libros de fácil lectura que son totalmente recomendables para el ámbito educativo (de hecho la colección hace claramente un guiño a profesores y alumnos de Secundaria y Bachillerato). La esperanza es que se conviertan en los institutos en un complemento indispensable para esos libros de texto que, tan a menudo, olvidan directamente a la mitad de la población.
 
@@ -24,7 +24,7 @@ de lo que hablan.
 > mayor acceso a la educación, lo que ha provocado un silencio difícilmente justificable 
 > en la sociedad del siglo XXI. 
 
-\[caption id="attachment\_8169" align="aligncenter" width="900"\]![mujeres en la historia, libros de mujeres, mujeres santillana](https://fotos.etheriamagazine.com/2019/03/mujeres-protagonistas-ciencia-america-latina.jpg "Libros 'El papel de las mujeres en la ciencia y la tecnología' y 'El papel de las mujeres en América Latina'.") Libros 'El papel de las mujeres en la ciencia y la tecnología' y 'El papel de las mujeres en América Latina'.\[/caption\]
+![mujeres en la historia, libros de mujeres, mujeres santillana](https://fotos.etheriamagazine.com/2019/03/mujeres-protagonistas-ciencia-america-latina.jpg "Libros 'El papel de las mujeres en la ciencia y la tecnología' y 'El papel de las mujeres en América Latina'.")
 
 ## Tres líneas de actuación
 
@@ -36,7 +36,7 @@ Este proyecto, que ha crecido hasta superar el mero hecho editorial, presenta tr
 
 • [La voz de las mujeres](http://mujeresprotagonistas.santillana.com/la-voz-de-las-mujeres/). Un espacio de encuentro donde compartir y dar difusión a iniciativas femeninas. Tienen cabida blogs, webs, canales, foros… Espacios creados por mujeres y que puedan ser consultados de forma abierta donde encontrar información plural y en permanente actualización. Aquí precisamente [Etheria Magazine](http://mujeresprotagonistas.santillana.com/voz/etheria-magazine/) está presente en el proyecto como **Revista online de viajes especializada en mujeres viajeras**.
 
-\[caption id="attachment\_8172" align="aligncenter" width="900"\]![mujeres en la historia, libros de mujeres, mujeres santillana](https://fotos.etheriamagazine.com/2019/03/mujeres-protagonistas-sociedad-descubrimiento.jpg "Libros 'El papel de las mujeres en el descubrimiento del mundo' y 'El papel de las mujeres en la sociedad actual'.") Libros 'El papel de las mujeres en el descubrimiento del mundo' y 'El papel de las mujeres en la sociedad actual'.\[/caption\]
+![mujeres en la historia, libros de mujeres, mujeres santillana](https://fotos.etheriamagazine.com/2019/03/mujeres-protagonistas-sociedad-descubrimiento.jpg "Libros 'El papel de las mujeres en el descubrimiento del mundo' y 'El papel de las mujeres en la sociedad actual'.")
 
 ## Datos curiosos que te hacen ver que la historia se queda corta
 
@@ -56,7 +56,7 @@ No hay mejor manera de percibir las cosas que con ejemplos prácticos. Aquí te 
 
 • **Hedy Lamarr**. Fue famosa por la película _Éxtasis_ (1937) en la que aparecía completamente desnuda durante 10 minutos, pero pocos saben que fue una niña superdotada que patentó en 1942 un sistema de conmutación de frecuencias antecedente de la comunicación de datos _wifi_. Eso sí, su contribución no fue conocida en su momento por firmarla con su apellido de casada. El Día del Inventor se celebra el 9 de noviembre (su cumpleaños) en su honor.
 
-\[caption id="attachment\_8168" align="aligncenter" width="900"\]![mujeres en la historia, libros de mujeres, mujeres editorial santillana](https://fotos.etheriamagazine.com/2019/03/Mujeres-protagonistas-anecdotas.jpg "Amelia Earhart y Hedy Lamarr.") Amelia Earhart y Hedy Lamarr.\[/caption\]
+![mujeres en la historia, libros de mujeres, mujeres editorial santillana](https://fotos.etheriamagazine.com/2019/03/Mujeres-protagonistas-anecdotas.jpg "Amelia Earhart y Hedy Lamarr.")
 
 ##### **'Mujeres protagonistas'**. En la web [www.mujeresprotagonistas.santillana.com](http://mujeresprotagonistas.santillana.com/) se pueden consultar las ‘Vidas de Mujeres’ y ‘La voz de las Mujeres’.
 
