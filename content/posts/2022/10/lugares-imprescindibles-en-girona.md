@@ -78,7 +78,8 @@ Font**, la única casa-museo de estilo indiano que se conserva en toda Cataluña
 monasterio benedictino Sant Pere del Bosc, reconstruido en el XIX también por Puig i 
 Cadafalch, os sorprenderán. 
 
-📌**No te pierdas:** {{< reflink path=posts/2022/06/lloret-de-mar-en-un-dia >}}. 
+📌**No te pierdas:** [Qué hacer en Lloret de Mar en un día, 7 planes sin estresarte]({{% 
+ref lloret-de-mar-en-un-dia %}}). 
 
 ![jardines de Santa Clotilde](https://fotos.etheriamagazine.com/2022/10/jardines-de-Santa-Clotilde-Lloret-de-Mar.jpg "Los jardines de Santa Clotilde, en Lloret de Mar, tienen unas vistas maravillosas a la Costa Brava. © Turismo Costa Pirineo de Girona.")
 
@@ -93,8 +94,8 @@ calles de Tossa durante el rodaje de “Pandora y el holandés errante” en 195
 Imprescindible subir al faro para contemplar unas vistas maravillosas; también pasear 
 por sus antiguas murallas y recorrer el antiguo barrio de pescadores de Sa Roqueta. 
 
-📌**No te pierdas:** {{< reflink 
-path=posts/2020/06/viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava >}}. 
+📌**No te pierdas:** [Tossa de Mar, secretos de cine en la Costa Brava]({{% ref 
+viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava %}}). 
 
 ![acantilado en la Costa Brava](https://fotos.etheriamagazine.com/2022/10/Camino-de-ronda-entre-Lloret-de-Mar-y-Tossa-de-Mar.jpg "Camino de ronda entre Lloret de Mar y Tossa de Mar. © Costa Brava Pirineo de Girona.")
 
@@ -129,9 +130,9 @@ de preservar los mares. Justo al lado se encuentra el **Espai del Peix**, un aul
 gastronómica que imparte talleres de cocina y _show cooking_ para fomentar el consumo 
 del pescado fresco. 
 
-📌**No te pierdas:** {{< reflink 
-path=posts/2019/07/mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva 
->}}. 
+📌**No te pierdas:** [Ruta de la gamba roja, lugares donde chuparse los dedos está bien 
+visto]({{% ref 
+mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva %}}). 
 
 ![barcos en Palamós](https://fotos.etheriamagazine.com/2022/10/puerto-de-Palamos.jpg "Imagen del puerto de Palamós. © Yolanda Cardo.")
 
@@ -284,9 +285,8 @@ espectacular mirador a los Pirineos.
 
 📌 **Otros artículos de Etheria Magazine sobre Girona:** 
 
-{{< reflink path=posts/2019/06/que-ver-girona-con-amigas-slow-travel >}} 
+{{< reflink que-ver-girona-con-amigas-slow-travel >}} 
 
-{{< reflink 
-path=posts/2021/04/visitas-imprescindibles-triangulo-daliniano-ampurdan-girona >}} 
+{{< reflink visitas-imprescindibles-triangulo-daliniano-ampurdan-girona >}} 
 
-{{< reflink path=posts/2020/08/10-planes-comarca-ampurdan-costa-brava >}}
+{{< reflink 10-planes-comarca-ampurdan-costa-brava >}}

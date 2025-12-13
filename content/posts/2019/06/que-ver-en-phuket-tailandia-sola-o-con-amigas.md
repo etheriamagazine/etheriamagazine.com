@@ -15,7 +15,7 @@ Conoce los mejores planes con amigas en Phuket, el destino playero por excelenci
 ![playa rawai, viaje phuket, que ver en tailandia](https://fotos.etheriamagazine.com/2019/06/viaje-phuket-tailandia-amigas-Playa-Rawai.jpg "Playa de Rawai. © Pedro Grifol")
 
 La isla más grande de Tailandia, Phuket, está situada al sur… donde el país se abre al 
-{{< reflink path=posts/2018/06/viaje-parejas-mar-de-andaman >}}, el mar que después del 
+[mar de Andamán]({{% ref viaje-parejas-mar-de-andaman %}}), el mar que después del 
 tsunami de 2004 mudó la piel de muchas de sus playas. Dicen los lugareños que después de 
 la catástrofe vino la calma, y con ella una arena más limpia y muchas especies de peces 
 que hacía años que no veían. La naturaleza tiene esos misterios, y algunos los podrás 
@@ -175,9 +175,8 @@ fotos.
 
 ### También en Tailandia...
 
-{{< reflink path=posts/2021/05/tres-dias-en-bangkok-que-hacer >}}. 
+{{< reflink tres-dias-en-bangkok-que-hacer >}}. 
 
-{{< reflink path=posts/2021/01/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual 
->}}. 
+{{< reflink chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual >}}. 
 
-{{< reflink path=posts/2020/01/que-llevar-en-maleta-viaje-tailandia >}}.
+{{< reflink que-llevar-en-maleta-viaje-tailandia >}}.

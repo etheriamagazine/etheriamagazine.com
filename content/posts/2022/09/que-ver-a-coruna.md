@@ -155,8 +155,8 @@ mariscos con vistas al mar. También es atractiva la localidad medieval de **Noi
 popularmente conocida como el puerto de Santiago o la pequeña Compostela por su cercanía 
 a la ciudad de peregrinación. 
 
-📌No te pierdas este artículo: {{< reflink 
-path=posts/2021/07/camino-de-santiago-ria-de-muros-noia-en-velero >}}. 
+📌No te pierdas este artículo: [Camino de Santiago por la Ría de Muros-Noia, una 
+aventura a toda vela]({{% ref camino-de-santiago-ria-de-muros-noia-en-velero %}}). 
 
 ![hombre pescando en Noia](https://fotos.etheriamagazine.com/2022/09/a-coruna-noia.jpg "Acantilados en Noia.")
 
@@ -293,9 +293,8 @@ Cíes.
 
 ## Otros temas en Galicia
 
-{{< reflink path=posts/2021/07/camino-de-santiago-ria-de-muros-noia-en-velero >}} 
+{{< reflink camino-de-santiago-ria-de-muros-noia-en-velero >}} 
 
-{{< reflink path=posts/2021/01/historia-de-san-simon-la-isla-gallega-de-las-cuarentenas 
->}} 
+{{< reflink historia-de-san-simon-la-isla-gallega-de-las-cuarentenas >}} 
 
-{{< reflink path=posts/2021/06/planes-en-la-ribeira-sacra-con-amigas >}}
+{{< reflink planes-en-la-ribeira-sacra-con-amigas >}}

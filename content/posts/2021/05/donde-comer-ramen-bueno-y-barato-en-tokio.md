@@ -121,9 +121,9 @@ Dirección: 2-4-1 Shinjuku No.22 Kyutei Mansion 1F, Shinjuku 160-0022 Prefectura
 
 ### También te interesa leer...
 
-{{< reflink path=posts/2018/10/que-comer-en-japon >}} 
+{{< reflink que-comer-en-japon >}} 
 
-{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}}{{< reflink 
-path=posts/2019/06/como-organizar-un-viaje-a-japon >}}. 
+[]({{% ref como-organizar-un-viaje-a-japon %}})[5 recomendaciones para preparar un viaje 
+a Japón]({{% ref como-organizar-un-viaje-a-japon %}}). 
 
-{{< reflink path=posts/2019/05/viajar-japon-que-es-ryokan-y-onsen >}}.
+{{< reflink viajar-japon-que-es-ryokan-y-onsen >}}.

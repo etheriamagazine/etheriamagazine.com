@@ -66,7 +66,7 @@ zona para el _afternoon tea_; el **Champagne Bar** con una original propuesta de
 maridaje de champán con tapas para sólo ocho comensales; **Pictura**, donde los cócteles 
 son los protagonistas; y el **Jardín del Ritz**, con un nuevo y espectacular diseño. 
 
-#### ✅ **Sigue leyendo:** {{< reflink path=posts/2021/04/restaurantes-mandarin-oriental-ritz-quique-dacosta >}}.
+#### ✅ **Sigue leyendo:** [Cómo son los 5 lujosos restaurantes del Mandarin Oriental Ritz Madrid]({{% ref restaurantes-mandarin-oriental-ritz-quique-dacosta %}}).
 
 ## 3\. Por su nuevo spa
 
@@ -87,9 +87,8 @@ del Mandarin Oriental Ritz Madrid Plaza de la Lealtad, 5. Madrid. Tel. +34 91 70
 
 ## También te puede interesar en Madrid
 
-{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}. 
+{{< reflink brunch-buenos-y-baratos-en-madrid >}}. 
 
-{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
->}}. 
+{{< reflink ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias >}}. 
 
-{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}.
+{{< reflink 10-planes-originales-en-madrid-con-amigas >}}.

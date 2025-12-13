@@ -149,8 +149,8 @@ ya te hemos indicado antes, no puedes perderte una noche en la **Casa de la Mús
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2024/02/que-llevar-maleta-viaje-a-cuba >}} 
+{{< reflink que-llevar-maleta-viaje-a-cuba >}} 
 
-{{< reflink path=posts/2024/08/la-habana-cuba-con-amigas >}} 
+{{< reflink la-habana-cuba-con-amigas >}} 
 
-{{< reflink path=posts/2024/12/las-terrazas-y-vinales-cuba >}}
+{{< reflink las-terrazas-y-vinales-cuba >}}

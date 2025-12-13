@@ -101,11 +101,10 @@ Grecia**.
 
 **8\. ¿Y tu último viaje? ¿Qué es lo que más te ha gustado de ese destino?** 
 
-Mi último viaje ha sido a {{< reflink 
-path=posts/2021/04/que-ver-en-almeria-en-temporada-baja >}}, volví allí después de 14 
-años. Me encantó el **Parque Natural del Cabo de Gata** con sus playas y pueblos, 
-especialmente Mojácar (en mi familia nos dedicamos a tachar de la lista los considerados 
-‘Pueblos más bonitos de España’). 
+Mi último viaje ha sido a [Almería]({{% ref que-ver-en-almeria-en-temporada-baja %}}), 
+volví allí después de 14 años. Me encantó el **Parque Natural del Cabo de Gata** con sus 
+playas y pueblos, especialmente Mojácar (en mi familia nos dedicamos a tachar de la 
+lista los considerados ‘Pueblos más bonitos de España’). 
 
 > Me volvió a impresionar por su extensión el Desierto de Tabernas. Vengo de un país más 
 > bien pequeño y me siguen sorprendiendo las distancias ¡y el tamaño de todo! 
@@ -121,9 +120,8 @@ una escapada a un lugar que estés convencida que no es para ti.
 
 **San Petersburgo** para ver al menos el Hermitage y el Palacio de Invierno. El **Parque 
 Nacional de Ordesa**, que parece impresionante por las fotos que se ven en las revistas 
-de viajes y en redes. Y, también, {{< reflink 
-path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte >}} para coger el coche y 
-perderme por el país. 
+de viajes y en redes. Y, también, [Irlanda]({{% ref juego-de-tronos-en-irlanda-del-norte 
+%}}) para coger el coche y perderme por el país. 
 
 ![Marketa Leheckova es la representante en España de Czech Tourism](https://fotos.etheriamagazine.com/2018/05/10-Calzada-del-Gigante-Juego-de-Tronos-Irlanda-Norte.jpg "Calzada del Gigante (Irlanda del Norte).")
 

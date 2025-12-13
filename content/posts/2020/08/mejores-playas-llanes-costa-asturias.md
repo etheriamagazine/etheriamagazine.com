@@ -168,9 +168,8 @@ halo rosado que envuelve al faro de Llanes.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias 
->}}. 
+{{< reflink gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias >}}. 
 
-{{< reflink path=posts/2020/07/5-rutas-en-auto-caravana-por-espana >}}. 
+{{< reflink 5-rutas-en-auto-caravana-por-espana >}}. 
 
-{{< reflink path=posts/2020/07/10-viajes-por-el-norte-de-espana-rutas-en-coche >}}.
+{{< reflink 10-viajes-por-el-norte-de-espana-rutas-en-coche >}}.

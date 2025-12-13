@@ -92,8 +92,8 @@ que sale mejor de precio.
 Esta excursión a Blue Grotto es emocionante para todos, los pequeños vivirán su propia 
 aventura navegando y entrando en grandes oquedades de los acantilados, y los padres 
 gozarán sabiendo que pasean por los escenarios de la película ‘**Troya**’. Si quieres 
-saber por qué el archipiélago maltés está considerado el {{< reflink 
-path=posts/2019/06/viajes-cine-malta-hollywood-mediterraneo >}} no dejes de leer el 
+saber por qué el archipiélago maltés está considerado el [Hollywood del 
+Mediterráneo]({{% ref viajes-cine-malta-hollywood-mediterraneo %}}) no dejes de leer el 
 artículo del link anterior. En esta actividad en lancha se recorre la costa y se visitan 
 **seis grutas marinas** en cuyo interior el agua es de color azul eléctrico, de ahí el 
 nombre de Blue Grotto. A los niños les parecerá algo mágico (y a los mayores, también). 
@@ -195,6 +195,6 @@ donde observar la fauna marina mediterránea y algún que otro espectáculo.
 
 ### Otras propuestas en Malta:
 
-{{< reflink path=posts/2019/11/que-ver-hacer-malta-gozo-comino-5-dias-con-amigas >}}. 
+{{< reflink que-ver-hacer-malta-gozo-comino-5-dias-con-amigas >}}. 
 
-{{< reflink path=posts/2021/04/que-ver-hacer-gozo-malta >}}.
+{{< reflink que-ver-hacer-gozo-malta >}}.

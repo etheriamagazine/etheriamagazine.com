@@ -102,8 +102,8 @@ las sabrosas tapas malagueñas.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}} 
+{{< reflink fin-de-semana-con-amigas-en-malaga >}} 
 
-{{< reflink path=posts/2021/07/excursiones-en-malaga-con-ninos >}} 
+{{< reflink excursiones-en-malaga-con-ninos >}} 
 
-{{< reflink path=posts/2021/12/que-ver-excursion-a-frigiliana >}}
+{{< reflink que-ver-excursion-a-frigiliana >}}

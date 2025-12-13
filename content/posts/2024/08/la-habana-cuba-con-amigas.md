@@ -227,4 +227,4 @@ crédito.
 
 **Para leer antes de viajar a La Habana:** 
 
-{{< reflink path=posts/2024/02/que-llevar-maleta-viaje-a-cuba >}}
+[Qué llevar en la maleta en un viaje a Cuba]({{% ref que-llevar-maleta-viaje-a-cuba %}})

@@ -225,6 +225,6 @@ Descubre todo sobre los koalas en el **Koala Park Sanctuary**.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/03/7-consejos-para-viajar-a-australia >}} 
+{{< reflink 7-consejos-para-viajar-a-australia >}} 
 
-{{< reflink path=posts/2019/03/revista-viajes-que-ver-australia >}}
+{{< reflink revista-viajes-que-ver-australia >}}

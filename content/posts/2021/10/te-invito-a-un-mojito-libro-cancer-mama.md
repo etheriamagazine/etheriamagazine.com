@@ -104,10 +104,8 @@ o pídelo a domicilio en [Amazon](https://amzn.to/3BTOSLS).
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/11/musicoterapia-mover-emociones-subir-autoestima >}}. 
+{{< reflink musicoterapia-mover-emociones-subir-autoestima >}}. 
 
-{{< reflink path=posts/2020/10/danza-terapia-salud >}}. 
+{{< reflink danza-terapia-salud >}}. 
 
-{{< reflink 
-path=posts/2018/05/intrepidas-un-libro-sobre-25-exploradoras-que-persiguieron-su-sueno 
->}}.
+{{< reflink intrepidas-un-libro-sobre-25-exploradoras-que-persiguieron-su-sueno >}}.

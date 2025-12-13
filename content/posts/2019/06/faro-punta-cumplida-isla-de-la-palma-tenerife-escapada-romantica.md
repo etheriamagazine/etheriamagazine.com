@@ -102,9 +102,8 @@ Calle Lomo Machin 66. Isla de La Palma (Tenerife). Tel. Central de reservas Rust
 
 📌 **Sigue leyendo sobre La Palma:** 
 
-{{< reflink path=posts/2021/04/10-secretos-para-conocer-la-isla-de-la-palma >}} 
+{{< reflink 10-secretos-para-conocer-la-isla-de-la-palma >}} 
 
-{{< reflink path=posts/2019/04/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias 
->}}. 
+{{< reflink la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias >}}. 
 
-{{< reflink path=posts/2020/02/que-hacer-en-los-indianos-el-carnaval-de-la-palma >}}.
+{{< reflink que-hacer-en-los-indianos-el-carnaval-de-la-palma >}}.

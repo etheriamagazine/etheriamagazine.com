@@ -37,8 +37,9 @@ Estas jornadas tienen nombres y apellidos, y están tejidas con historias, sueñ
 anhelos y desvelos. Cada viajera tiene una motivación distinta para emprender el camino, 
 catarsis emocionales o profesionales, rebeldía ante una vida anodina o, simplemente, 
 puro deseo de descubrimiento. Si echas un vistazo al programa de las Jornadas verás 
-desde profesionales consagradas como Rosa María Calaf ({{< reflink 
-path=posts/2018/09/rosa-maria-calaf-es-una-mujer-etheria >}}, entrevistada en esta casa 
+desde profesionales consagradas como Rosa María Calaf ([Rosa María Calaf: “Soy una 
+soñadora pragmática que ama ver, escuchar y aprender de lo distinto para contarlo 
+después”]({{% ref rosa-maria-calaf-es-una-mujer-etheria %}}), entrevistada en esta casa 
 hace varios años), hasta viajeras que se iniciaron por puro placer o necesitad vital. 
 Hemos entrevistado a algunas de las participantes, **Marta Insausti**, **Cristina 
 Pereferrer, Patricia Sazatornil**, **Clara Ruiz** y **Leti Lagarda**, para conocer sus 
@@ -174,8 +175,8 @@ de viaje para que otras mujeres se lancen a viajar solas”. Entre sus sueños e
 descubriendo Oriente Medio y Latinoamérica, además de dar el salto a África en algún 
 momento. Un consejo que le gustaría dar a otras mujeres es claro y contundente: “No 
 escuches a los demás. Escúchate a ti”. Ya tiene en mente su próxima aventura: “organizar 
-expediciones para mujeres a {{< reflink 
-path=posts/2019/11/que-ver-iran-mujer-viajar-sola-con-amigas >}}”. 
+expediciones para mujeres a [Irán]({{% ref que-ver-iran-mujer-viajar-sola-con-amigas 
+%}})”. 
 
 Puedes seguir sus viajes en Desesperadamente Viajera y en 
 [Instagram](https://www.instagram.com/leti_lagarda/). 

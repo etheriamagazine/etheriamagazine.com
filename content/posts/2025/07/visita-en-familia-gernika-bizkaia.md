@@ -164,8 +164,8 @@ Rocadragón de la serie de televisión _Juego de Tronos_.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/02/7-imprescindibles-en-reserva-urdaibai >}} 
+{{< reflink 7-imprescindibles-en-reserva-urdaibai >}} 
 
-{{< reflink path=posts/2023/05/lugares-mas-bonitos-vizcaya >}} 
+{{< reflink lugares-mas-bonitos-vizcaya >}} 
 
-{{< reflink path=posts/2025/06/que-ver-en-museo-guggenheim-bilbao >}}
+{{< reflink que-ver-en-museo-guggenheim-bilbao >}}

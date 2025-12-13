@@ -122,6 +122,6 @@ Puedes encontrar más información de cada experiencia en la web del
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/12/pablo-dors-biografia-de-la-luz >}}. 
+{{< reflink pablo-dors-biografia-de-la-luz >}}. 
 
-{{< reflink path=posts/2021/06/metoo-yogui-denuncias-del-abuso-en-yoga >}}.
+{{< reflink metoo-yogui-denuncias-del-abuso-en-yoga >}}.

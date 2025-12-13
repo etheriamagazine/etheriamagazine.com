@@ -133,9 +133,9 @@ España. No te hará falta llevar adaptador.
 
 Continuamos con las recomendaciones de artículos que hay que llevar en la maleta a 
 Egipto con el neceser. Lo primero es elegir de qué tipo y de ello ya te hemos hablado en 
-Etheria Magazine y lo puedes consultar en {{< reflink 
-path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}}, donde te 
-proponemos algunos modelos que resultan muy cómodos durante el viaje. 
+Etheria Magazine y lo puedes consultar en [7 neceseres para mujeres viajeras]({{% ref 
+10-neceseres-viaje-o-regalos-para-mujeres-viajeras %}}), donde te proponemos algunos 
+modelos que resultan muy cómodos durante el viaje. 
 
 Para un itinerario de una semana puedes olvidar los botes grandes, utiliza unos [botes 
 de viaje de silicona](https://amzn.to/408A6xu) para ahorrar espacio (y que se pueden 
@@ -187,8 +187,8 @@ antes de viajar, ya que es tanta la información histórica que vas a recibir du
 viaje que será difícil de asimilar si no tienes algún conocimiento previo. 
 
 ✅ En Etheria Magazine ya preparamos un artículo dedicado a libros y películas que te 
-ayudarán a ambientarte antes del viaje ( {{< reflink 
-path=posts/2021/03/organizar-viaje-a-egipto-y-documentar-con-libros-peliculas >}}). Las 
+ayudarán a ambientarte antes del viaje ( [Prepara tu viaje a Egipto con libros y 
+películas]({{% ref organizar-viaje-a-egipto-y-documentar-con-libros-peliculas %}})). Las 
 guías que te recomendamos son ‘[Egipto](https://amzn.to/3HCC6GI)’ (2019), de Lonely 
 Planet; ‘[Un corto viaje a Egipto](https://amzn.to/3RcOfFI)’ (2020) de Guiarama (Anaya 
 Touring); y ‘[El Cairo, Luxor, Valle de los Reyes, Asuán, Abu 
@@ -217,8 +217,9 @@ libras para pagos pequeños o propinas.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/01/que-llevar-en-la-maleta-en-un-viaje-a-jordania >}} 
+{{< reflink que-llevar-en-la-maleta-en-un-viaje-a-jordania >}} 
 
-{{< reflink path=posts/2020/01/que-llevar-en-maleta-viaje-tailandia >}} 
+{{< reflink que-llevar-en-maleta-viaje-tailandia >}} 
 
-{{< reflink path=posts/2019/06/claves-elegir-mejor-maleta-para-viajar >}}
+[Claves básicas para elegir la mejor maleta para tu viaje]({{% ref 
+claves-elegir-mejor-maleta-para-viajar %}})

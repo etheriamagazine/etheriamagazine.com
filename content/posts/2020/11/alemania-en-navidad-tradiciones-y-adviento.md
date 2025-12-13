@@ -155,10 +155,11 @@ a los pequeños sus regalos más ansiados.
 
 ### También te puede interesar...
 
-1\. {{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}}. 
+1\. [Descubre Hamburgo en 48 horas]({{% ref 
+que-ver-hacer-fin-de-semana-hamburgo-alemania %}}). 
 
-2\. {{< reflink path=posts/2020/06/que-ver-hacer-en-heidelberg-si-viajas-sola-amigas 
->}}. 
+2\. [10 planes en Heidelberg]({{% ref que-ver-hacer-en-heidelberg-si-viajas-sola-amigas 
+%}}). 
 
-3\. {{< reflink path=posts/2019/06/viaje-en-familia-parques-alemania-playmobil-legoland 
->}}.
+3\. [Baviera en familia: de Playmobil a Legoland]({{% ref 
+viaje-en-familia-parques-alemania-playmobil-legoland %}}).

@@ -116,12 +116,11 @@ pero también están los personajes de **Arthur y los Minimoys** Arthur y Selén
 
 Dos días son más que suficientes para ver el parque con calma (incluso uno y medio si no 
 hay mucha gente). Merece la pena combinar este parque con una estancia en la zona de los 
-{{< reflink path=posts/2019/03/que-ver-ruta-en-coche-valle-del-loira >}} (Amboise se 
+[castillos de Loira]({{% ref que-ver-ruta-en-coche-valle-del-loira %}}) (Amboise se 
 encuentra a 12o kilómetros, una hora y cuarto en coche) o de la **costa atlántica 
-francesa** ({{< reflink 
-path=posts/2018/09/guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re >}} se encuentra 
-a 146 kilómetros, una hora y media en coche). 
+francesa** ([La Rochelle]({{% ref guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re 
+%}}) se encuentra a 146 kilómetros, una hora y media en coche). 
 
 ## ✅ Lo nuevo de Futuroscope 2023
 
-{{< reflink path=posts/2023/03/novedades-futuroscope-2023 >}}
+{{< reflink novedades-futuroscope-2023 >}}

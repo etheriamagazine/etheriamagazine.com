@@ -212,9 +212,8 @@ naturaleza para recordar.
 
 **También en Etheria Magazine** 
 
-{{< reflink 
-path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}} 
+{{< reflink 12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}} 
 
-{{< reflink path=posts/2021/08/que-ver-y-hacer-en-valle-de-karrantza-vizcaya >}} 
+{{< reflink que-ver-y-hacer-en-valle-de-karrantza-vizcaya >}} 
 
-{{< reflink path=posts/2021/05/excursiones-sierra-de-entzia-alava >}}
+{{< reflink excursiones-sierra-de-entzia-alava >}}

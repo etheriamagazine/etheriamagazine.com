@@ -147,7 +147,6 @@ Lisboa?
 
 **También te puede interesar…** 
 
-{{< reflink path=posts/2024/08/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf 
->}}. 
+{{< reflink escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf >}}. 
 
-{{< reflink path=posts/2018/10/12-miradores-para-exprimir-lisboa >}}.
+{{< reflink 12-miradores-para-exprimir-lisboa >}}.

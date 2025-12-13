@@ -143,12 +143,10 @@ de **robles trasmochos** que nos costará abandonar.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/04/viajes-naturaleza-mejores-canones-pais-vasco >}}. 
+{{< reflink viajes-naturaleza-mejores-canones-pais-vasco >}}. 
 
-{{< reflink 
-path=posts/2020/08/que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare 
+{{< reflink que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare 
 >}}. 
 
-{{< reflink 
-path=posts/2021/05/hondalea-escultura-de-cristina-iglesias-en-faro-de-la-isla-de-santa-clara 
+{{< reflink hondalea-escultura-de-cristina-iglesias-en-faro-de-la-isla-de-santa-clara 
 >}}.

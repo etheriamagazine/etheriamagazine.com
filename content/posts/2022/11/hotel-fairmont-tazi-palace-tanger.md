@@ -31,8 +31,8 @@ veinte del pasado siglo para ser la residencia del consejero del rey. Destacan s
 vistas, ya que ofrecen por una parte una bonita panorámica sobre la Ciudad Vieja de 
 Tánger y por otra los bosques que rodean la ciudad. 
 
-📌 **No te pierdas este artículo:** {{< reflink 
-path=posts/2022/08/que-ver-tanger-con-amigas >}} 
+📌 **No te pierdas este artículo:** [Tánger, ¿qué tiene su medina que encandiló a 
+Matisse y a Carmina Ordóñez?]({{% ref que-ver-tanger-con-amigas %}}) 
 
 ![decoración con mármol en el hotel de lujo de Fairmont en Tánger](https://fotos.etheriamagazine.com/2022/11/fairmont-tazi-palace-pasillo.jpg "Uno de los pasillos del Fairmont Tazi Palace.")
 
@@ -127,6 +127,6 @@ cedidas por © Fairmont Hotels & Resort.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/12/viaje-de-amigas-a-marrakech >}} 
+{{< reflink viaje-de-amigas-a-marrakech >}} 
 
-{{< reflink path=posts/2021/03/guia-esencial-que-ver-y-hacer-en-fez >}}
+{{< reflink guia-esencial-que-ver-y-hacer-en-fez >}}

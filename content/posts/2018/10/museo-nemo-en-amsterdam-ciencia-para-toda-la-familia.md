@@ -19,8 +19,8 @@ interesante, lo que hace de esta visita un imprescindible en un viaje en familia
 ![exterior del Museo Nemo](https://fotos.etheriamagazine.com/2018/09/museo-nemo-exterior.jpg "Exterior del Museo NEMO, diseñado por Enzo Piano. ©NEMO Science Museum. Photo by Digidaan.")
 
 Ámsterdam, en particular, y Holanda, en general, cuentan con numerosos atractivos para 
-realizar un viaje con niños (no te pierdas📍{{< reflink 
-path=posts/2018/08/holanda-en-familia >}}). Una de las visitas estrella es, sin duda, el 
+realizar un viaje con niños (no te pierdas📍[Qué ver y hacer en un viaje en familia por 
+Holanda]({{% ref holanda-en-familia %}})). Una de las visitas estrella es, sin duda, el 
 **Museo NEMO**, que ya sorprende desde el exterior con su imponente arquitectura 
 (diseñada por Renzo Piano en 1997). Se asemeja a un enorme buque saliendo del puerto de 
 Ámsterdam, su color verdoso es producto del efecto de la humedad en el cobre. 

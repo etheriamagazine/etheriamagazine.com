@@ -98,6 +98,6 @@ en compartirla con todas nosotras. Las mejores direcciones se merecen el boca a 
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/07/mejores-restaurantes-formentera >}} 
+{{< reflink mejores-restaurantes-formentera >}} 
 
-{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}
+{{< reflink viajar-con-amigas-mejores-playas-formentera >}}

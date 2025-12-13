@@ -25,13 +25,13 @@ viaje te decides por recorrer una zona de los Alpes, en el siguiente te apetecer
 conocer sus principales ciudades o disfrutar de un viaje enfocado al turismo activo. 
 
 En Etheria Magazine ya os hemos contado muchas de nuestras experiencias en Suiza, desde 
-un {{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}} hasta un {{< 
-reflink path=posts/2019/04/viaje-en-familia-que-hacer-engelberg-suiza >}}. Aquí nos 
-vamos a centrar en daros algunas pistas para disfrutar de **Suiza en tren**, una de las 
-mejores formas de moverse por el país. Y, además, le daremos al artículo el ‘**toque del 
-chef**’, para que vayas abriendo boca con las delicias que te esperan cuando visites 
-Suiza (descarga gratuitamente la guía gastronómica ‘Suiza a Bocados’ en este link para 
-ir preparado). 
+un [recorrido en coche eléctrico]({{% ref ruta-en-coche-electrico-por-suiza %}}) hasta 
+un [viaje familiar a la zona de Engelberg]({{% ref 
+viaje-en-familia-que-hacer-engelberg-suiza %}}). Aquí nos vamos a centrar en daros 
+algunas pistas para disfrutar de **Suiza en tren**, una de las mejores formas de moverse 
+por el país. Y, además, le daremos al artículo el ‘**toque del chef**’, para que vayas 
+abriendo boca con las delicias que te esperan cuando visites Suiza (descarga 
+gratuitamente la guía gastronómica ‘Suiza a Bocados’ en este link para ir preparado). 
 
 ![ciudades historicas de Europa](https://fotos.etheriamagazine.com/2021/04/Suiza-tren-Murten.jpg "El Ayuntamiento de la preciosa ciudad de Murten. © Switzerland Tourism.")
 
@@ -234,8 +234,8 @@ Turismo](https://www.myswitzerland.com/es-es/descubrir-suiza/comer-beber/).
 
 **También te puede interesar** 
 
-{{< reflink path=posts/2021/03/suiza-encumbra-a-las-mujeres-con-su-100-por-100-women >}} 
+{{< reflink suiza-encumbra-a-las-mujeres-con-su-100-por-100-women >}} 
 
-{{< reflink path=posts/2021/04/voto-femenino-suiza-50-aniversario >}} 
+{{< reflink voto-femenino-suiza-50-aniversario >}} 
 
-{{< reflink path=posts/2018/09/tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}}
+{{< reflink tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}}

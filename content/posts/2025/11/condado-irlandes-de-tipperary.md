@@ -155,7 +155,6 @@ conserva esa tranquilidad y autenticidad que tanto valor tiene.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2023/12/ruta-en-coche-cork-kerry >}}. 
+{{< reflink ruta-en-coche-cork-kerry >}}. 
 
-{{< reflink 
-path=posts/2019/09/como-organizar-excursion-precio-islas-skellig-michael-irlanda >}}.
+{{< reflink como-organizar-excursion-precio-islas-skellig-michael-irlanda >}}.

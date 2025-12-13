@@ -183,6 +183,6 @@ Más información en la [web oficial de Turismo de Chile](https://www.chile.trav
 
 ✅ **Sigue leyendo sobre Chile...** 
 
-{{< reflink path=posts/2019/03/viajar-sola-crucero-fiordos-canales-patagonia-chile >}}. 
+{{< reflink viajar-sola-crucero-fiordos-canales-patagonia-chile >}}. 
 
-{{< reflink path=posts/2019/01/que-ver-en-desierto-atacama-san-pedro-atacama-chile >}}.
+{{< reflink que-ver-en-desierto-atacama-san-pedro-atacama-chile >}}.

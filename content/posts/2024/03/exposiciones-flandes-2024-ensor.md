@@ -163,6 +163,6 @@ Beghina en Tongeren.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/03/que-ver-hacer-otros-planes-en-bruselas-y-flandes >}} 
+{{< reflink que-ver-hacer-otros-planes-en-bruselas-y-flandes >}} 
 
-{{< reflink path=posts/2022/11/flandes-en-familia-museos >}}
+[Museos en Flandes para visitar con niños]({{% ref flandes-en-familia-museos %}})

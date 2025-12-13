@@ -64,6 +64,6 @@ Peruvian Cultures.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2023/10/guia-para-pedir-atun-en-cadiz >}}. 
+{{< reflink guia-para-pedir-atun-en-cadiz >}}. 
 
-{{< reflink path=posts/2023/05/rutas-gastronomia-navarra >}}
+{{< reflink rutas-gastronomia-navarra >}}

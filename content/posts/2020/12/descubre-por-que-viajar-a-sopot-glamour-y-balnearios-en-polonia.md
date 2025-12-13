@@ -197,8 +197,8 @@ Más información en la [Oficina de Turismo de Polonia](https://www.polonia.trav
 
 También te puede interesar... 
 
-{{< reflink path=posts/2019/01/que-ver-parque-bialowieza-polonia >}}. 
+{{< reflink que-ver-parque-bialowieza-polonia >}}. 
 
-{{< reflink path=posts/2018/08/48-horas-en-varsovia-polonia >}}. 
+{{< reflink 48-horas-en-varsovia-polonia >}}. 
 
-{{< reflink path=posts/2018/09/la-poetisa-sofia-casanova-una-gallega-en-polonia >}}
+{{< reflink la-poetisa-sofia-casanova-una-gallega-en-polonia >}}

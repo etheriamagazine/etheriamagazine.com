@@ -155,9 +155,8 @@ carta con platos saludables.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/10/recetas-para-halloween-galletas-cupcakes-tartas >}}. 
+{{< reflink recetas-para-halloween-galletas-cupcakes-tartas >}}. 
 
-{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}. 
+{{< reflink brunch-buenos-y-baratos-en-madrid >}}. 
 
-{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
->}}.
+{{< reflink ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias >}}.

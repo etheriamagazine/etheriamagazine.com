@@ -197,8 +197,8 @@ la oportunidad de recorrerla bajo la luz de las farolas.
 
 Entre poblaciones encantadoras, paisajes románticos y arte, mucho arte, los cuatro días 
 que os habíamos propuesto al inicio se os quedarán cortos. Si queréis ampliar más el 
-viaje, puedes continuar leyendo ‘{{< reflink 
-path=posts/2020/09/mejores-destinos-para-viajar-en-francia >}} para coger más ideas. 
+viaje, puedes continuar leyendo ‘[10 viajes para disfrutar de la buena vida en 
+Francia’]({{% ref mejores-destinos-para-viajar-en-francia %}}) para coger más ideas. 
 
 ## Guía de viajes Etheria
 

@@ -241,12 +241,12 @@ Más información en la página web de la [Costa Azul](https://cotedazurfrance.f
 
 ### Más artículos de Francia en Etheria Magazine
 
-{{< reflink path=posts/2021/06/4-dias-ruta-impresionismo-normandia-francia >}} 
+{{< reflink 4-dias-ruta-impresionismo-normandia-francia >}} 
 
-{{< reflink path=posts/2019/03/que-ver-ruta-en-coche-valle-del-loira >}} 
+{{< reflink que-ver-ruta-en-coche-valle-del-loira >}} 
 
-{{< reflink path=posts/2018/09/guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re >}} 
+{{< reflink guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re >}} 
 
-{{< reflink path=posts/2019/08/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa >}} 
+{{< reflink que-ver-hacer-en-nantes-la-ciudad-francesa-creativa >}} 
 
 .

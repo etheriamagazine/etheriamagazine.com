@@ -132,10 +132,8 @@ ciudad, especialmente desde la terraza de su última planta.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/04/viajar-con-madres-que-ver-viena >}} 
+{{< reflink viajar-con-madres-que-ver-viena >}} 
 
-{{< reflink 
-path=posts/2019/12/48-horas-en-salzburgo-invernal-mercadillos-navidenos-escapada-romantica 
->}} 
+{{< reflink 48-horas-en-salzburgo-invernal-mercadillos-navidenos-escapada-romantica >}} 
 
-{{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}}
+{{< reflink ruta-en-coche-electrico-por-suiza >}}

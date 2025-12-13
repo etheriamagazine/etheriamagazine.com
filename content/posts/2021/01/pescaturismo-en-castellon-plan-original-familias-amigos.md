@@ -180,10 +180,9 @@ Adell,_** abierta desde 1875 en la calle Alloza.
 
 ### Sigue leyendo...
 
-{{< reflink path=posts/2021/04/que-hacer-donde-comer-con-amigas-denia-javea >}}. 
+{{< reflink que-hacer-donde-comer-con-amigas-denia-javea >}}. 
 
-{{< reflink path=posts/2020/05/8-excursiones-con-ninos-en-alicante >}}. 
+{{< reflink 8-excursiones-con-ninos-en-alicante >}}. 
 
 {{< reflink 
-path=posts/2019/07/mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva 
->}}.
+mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva >}}.

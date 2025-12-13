@@ -90,9 +90,9 @@ Magazine.
 El free tour también recuerda a **Isabel Zendal**, la enfermera coruñesa que acompañó a 
 la expedición que llevó la vacuna de la viruela a América. Una vida digna de novela que 
 convierte el paseo en una experiencia enriquecedora. Su historia la podéis leer completa 
-en este artículo ({{< reflink 
-path=posts/2020/09/isabel-zendal-mujer-olvidada-vacuna-viruela >}}), que, a modo de 
-biopic, publicamos en la sección de Mujeres Etheria. 
+en este artículo ([Isabel Zendal, la madre de todas las vacunas]({{% ref 
+isabel-zendal-mujer-olvidada-vacuna-viruela %}})), que, a modo de biopic, publicamos en 
+la sección de Mujeres Etheria. 
 
 Si visitas esta ciudad, no te pierdas el [Free tour de Mujeres Ilustres de La 
 Coruña](https://www.civitatis.com/es/la-coruna/free-tour-mujeres-ilustres-coruna/?aid=10211). 

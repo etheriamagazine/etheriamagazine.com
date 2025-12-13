@@ -29,8 +29,8 @@ que se encaprichaba.
 
 Hemos viajado a su tierra, a la que lo vio nacer, a la Toscana, concretamente a 
 **Lucca**, esa bellísima localidad italiana conocida como 'la ciudad de las 100 torres y 
-las 100 iglesias'. Ya os contábamos en {{< reflink path=posts/2019/02/que-ver-en-lucca 
->}} todo lo que podéis hacer si solo pasáis un día allí. En esa apretada agenda hay que 
+las 100 iglesias'. Ya os contábamos en [24 horas en Lucca]({{% ref que-ver-en-lucca %}}) 
+todo lo que podéis hacer si solo pasáis un día allí. En esa apretada agenda hay que 
 dejar tiempo para visitar la **casa natal de Puccini**, donde se encuentra su museo. Es 
 el lugar idóneo para empaparse de la biografía del compositor, una vida jalonada de 
 éxitos y fracasos, casi al 50%, tanto en el terreno profesional como en el personal. Y 
@@ -145,8 +145,8 @@ Más información de Turismo de Lucca.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/06/toscana-en-coche >}} 
+{{< reflink toscana-en-coche >}} 
 
-{{< reflink path=posts/2019/09/como-hacer-la-ruta-puccini-en-la-toscana-italia >}} 
+{{< reflink como-hacer-la-ruta-puccini-en-la-toscana-italia >}} 
 
-{{< reflink path=posts/2020/04/hotel-lujo-toscana-borgo-santo-pietro >}}
+{{< reflink hotel-lujo-toscana-borgo-santo-pietro >}}

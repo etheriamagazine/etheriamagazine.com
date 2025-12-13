@@ -231,10 +231,9 @@ Biarritz](https://www.civitatis.com/es/san-sebastian/tour-san-sebastian-biarritz
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/04/viajes-naturaleza-mejores-canones-pais-vasco >}}. 
+{{< reflink viajes-naturaleza-mejores-canones-pais-vasco >}}. 
 
-{{< reflink path=posts/2021/04/que-ver-hacer-en-san-sebastian >}}. 
+{{< reflink que-ver-hacer-en-san-sebastian >}}. 
 
-{{< reflink 
-path=posts/2019/11/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas 
+{{< reflink de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas 
 >}}.

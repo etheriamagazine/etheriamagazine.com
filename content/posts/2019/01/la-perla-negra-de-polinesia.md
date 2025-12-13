@@ -200,6 +200,6 @@ Hinano](https://tahititourisme.com/en-us/business/hinano-pearls/).
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/03/guia-que-hacer-en-maldivas-buceo-surf >}} 
+{{< reflink guia-que-hacer-en-maldivas-buceo-surf >}} 
 
-{{< reflink path=posts/2019/07/luna-miel-bali-maldicion-ruptura >}}
+{{< reflink luna-miel-bali-maldicion-ruptura >}}

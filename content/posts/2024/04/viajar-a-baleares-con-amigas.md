@@ -45,9 +45,9 @@ ensalada payesa con peix sec.
 
 ******Sigue organizando tu viaje con los artículos de Etheria Magazine:****** 
 
-{{< reflink path=posts/2023/04/formentera-con-amigas >}}. 
+{{< reflink formentera-con-amigas >}}. 
 
-{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}} 
+{{< reflink viajar-con-amigas-mejores-playas-formentera >}} 
 
 [Reserva una excursión en 
 barco](https://www.civitatis.com/es/formentera/barco-calas-formentera/?aid=10211) de 4h 
@@ -71,7 +71,7 @@ mal plan!
 
 **********Sigue organizando tu viaje con los artículos de Etheria Magazine:********** 
 
-{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}. 
+{{< reflink viaje-a-ibiza-con-amigas >}}. 
 
 [Reserva un Freetour en Ibiza 
 capital](https://www.civitatis.com/es/ibiza-ciudad/free-tour-ibiza/?aid=10211) con 
@@ -100,9 +100,9 @@ peces, corales y otras criaturas marinas en su hábitat natural.
 
 ******Sigue organizando tu viaje con los artículos de Etheria Magazine:****** 
 
-{{< reflink path=posts/2023/10/mejores-excursiones-menorca >}}. 
+{{< reflink mejores-excursiones-menorca >}}. 
 
-{{< reflink path=posts/2020/08/guia-mejores-playas-calas-menorca >}}. 
+{{< reflink guia-mejores-playas-calas-menorca >}}. 
 
 [Reserva tus excursiones en Menorca](https://www.civitatis.com/es/menorca/?aid=10211): 
 [paseos por las calas en 
@@ -130,7 +130,7 @@ turquesas y curiosas formaciones rocosas.
 
 ********Sigue organizando tu viaje con los artículos de Etheria Magazine:******** 
 
-{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}. 
+{{< reflink planes-y-excursiones-desde-palma-mallorca-con-amigas >}}. 
 
 [Reserva una excursión a 
 Formentor](https://www.civitatis.com/es/sa-font-de-sa-cala/excursion-formentor-mercadillos/?aid=10211) 

@@ -243,8 +243,8 @@ pies de foto.
 
 📌 **Sigue leyendo en Etheria Magazine** 
 
-{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}. 
+{{< reflink consejos-rutas-andalucia-en-autocaravana >}}. 
 
-{{< reflink path=posts/2020/07/5-rutas-en-auto-caravana-por-espana >}}. 
+{{< reflink 5-rutas-en-auto-caravana-por-espana >}}. 
 
-{{< reflink path=posts/2021/08/planes-que-hacer-en-cordoba-con-amigas >}}.
+{{< reflink planes-que-hacer-en-cordoba-con-amigas >}}.

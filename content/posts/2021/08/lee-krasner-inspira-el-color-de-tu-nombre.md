@@ -136,9 +136,8 @@ de la libertad y las oportunidades.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/03/libro-nietas-de-la-memoria-historias-mujeres-en-posguerra 
->}}. 
+{{< reflink libro-nietas-de-la-memoria-historias-mujeres-en-posguerra >}}. 
 
-{{< reflink path=posts/2021/02/biografia-y-ruta-frida-kahlo-mexico >}}. 
+{{< reflink biografia-y-ruta-frida-kahlo-mexico >}}. 
 
-{{< reflink path=posts/2021/02/najat-libro-cocina-marroqui-chef-najat-kaanache >}}.
+{{< reflink najat-libro-cocina-marroqui-chef-najat-kaanache >}}.

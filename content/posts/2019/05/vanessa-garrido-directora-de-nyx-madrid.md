@@ -64,4 +64,4 @@ El director de hotel ahora mismo tiene un perfil muy dinámico, y creo que hay *
 
 Me encantan los animales y tengo un perrito al que adoro llamado Coco. Lo intento llevar conmigo a todas partes. Incluso conseguí que entrara a la iglesia donde me casé, llevando los anillos junto con mis sobrinos. Por supuesto, nos acompañó en nuestro gran día durante todo la jornada.
 
-Como ya sabéis, en Etheria Magazine tenemos predilección por las mujeres viajeras, y con Vanessa Garrido compartimos esa pasión por los viajes. Sus destinos y sus experiencias más personales nos las cuenta en nuestra sección de Mujeres Etheria, donde nos decía que {{< reflink path=posts/2019/03/vanessa-garrido-directora-hotel-nyx-mujer-etheria >}}.
+Como ya sabéis, en Etheria Magazine tenemos predilección por las mujeres viajeras, y con Vanessa Garrido compartimos esa pasión por los viajes. Sus destinos y sus experiencias más personales nos las cuenta en nuestra sección de Mujeres Etheria, donde nos decía que [Viajar es invertir en conocimiento y tolerancia]({{% ref vanessa-garrido-directora-hotel-nyx-mujer-etheria %}}).

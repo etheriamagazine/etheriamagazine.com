@@ -179,8 +179,8 @@ Cáceres](https://www.turismocaceres.org/)
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2018/05/viajarsolacaceres >}} 
+{{< reflink viajarsolacaceres >}} 
 
-{{< reflink path=posts/2021/09/10-motivos-para-viajar-a-la-siberia-extremena >}} 
+{{< reflink 10-motivos-para-viajar-a-la-siberia-extremena >}} 
 
-{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}
+{{< reflink plan-con-amigas-ruta-del-vino-sierra-de-francia >}}

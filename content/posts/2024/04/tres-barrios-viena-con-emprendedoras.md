@@ -48,8 +48,8 @@ recomendación, pero nada mejor que perderse por sus calles y plazas para descub
 identidad de este barrio en el que no faltan cafeterías, tiendas de segunda mano, 
 galerías de arte, coquetas negocios de moda y decoración y pequeñas salas de cine. 
 
-**\*Sigue leyendo en Etheria Magazine:** {{< reflink 
-path=posts/2022/07/que-hacer-en-viena-con-amigas >}}. 
+**\*Sigue leyendo en Etheria Magazine:** [Planes esenciales en Viena con amigas para 
+vuestro uso y disfrute]({{% ref que-hacer-en-viena-con-amigas %}}). 
 
 ![Un pequeño cine de barrio del Freihausviertel.](https://fotos.etheriamagazine.com/2024/04/viena-cine-Freihausviertel.jpg "Un pequeño cine de barrio del Freihausviertel. © Yolanda Cardo")
 
@@ -191,4 +191,4 @@ Más información [Turismo de Viena](https://www.wien.info/es).
 
 **También te puede gustar...** 
 
-{{< reflink path=posts/2022/09/museo-sisi-de-viena >}}
+{{< reflink museo-sisi-de-viena >}}

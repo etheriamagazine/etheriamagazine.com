@@ -23,8 +23,8 @@ Para ver Ronda hacen falta tres o cuatro días”, dice Jaime, el simpático gu�
 acompañó durante una visita _exprés_ a la bella localidad malagueña. ¡Y cuánta razón 
 tiene! Si vais a Ronda con amigas –o con quien queráis– os sorprenderéis de las 
 numerosas joyas que esconde esta preciosa perla sureña, engarzada sobre una plataforma 
-rocosa a 723 metros de sobre el nivel del mar, flamante antesala de la {{< reflink 
-path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}}. La espectacularidad del 
+rocosa a 723 metros de sobre el nivel del mar, flamante antesala de la [Sierra de 
+Grazalema]({{% ref ruta-por-los-pueblos-blancos-de-cadiz %}}). La espectacularidad del 
 Tajo, el magnífico desfiladero horadado durante siglos por las aguas del Guadalevín, es 
 su más “instagrameable” postal, pero no la única. Yo que vosotras comenzaría a 
 sincronizar agendas para poner rumbo hacia una de las ciudades más bellas de España. 
@@ -177,8 +177,8 @@ que ya os hemos hablado.
 
 **Te puede interesar...** 
 
-{{< reflink path=posts/2021/06/revista-viajes-que-ver-parque-sierra-de-nieves >}}. 
+{{< reflink revista-viajes-que-ver-parque-sierra-de-nieves >}}. 
 
-{{< reflink path=posts/2021/07/excursiones-en-malaga-con-ninos >}}. 
+{{< reflink excursiones-en-malaga-con-ninos >}}. 
 
-{{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}}.
+{{< reflink fin-de-semana-con-amigas-en-malaga >}}.

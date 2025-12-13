@@ -137,11 +137,10 @@ calas del sur Menorca. Desde 50 €.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/08/guia-mejores-playas-calas-menorca >}}. 
+{{< reflink guia-mejores-playas-calas-menorca >}}. 
 
-{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}. 
+{{< reflink viajar-con-amigas-mejores-playas-formentera >}}. 
 
-{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
->}}. 
+{{< reflink 20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja >}}. 
 
-{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}.
+{{< reflink viaje-a-ibiza-con-amigas >}}.

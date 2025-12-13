@@ -103,6 +103,6 @@ Ibiza. Tel. +34 971 39 32 68
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2024/03/santa-eularia-des-riu-en-familia >}} 
+{{< reflink santa-eularia-des-riu-en-familia >}} 
 
-{{< reflink path=posts/2023/03/santa-eularia-des-riu-ibiza >}}
+{{< reflink santa-eularia-des-riu-ibiza >}}

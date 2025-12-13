@@ -193,6 +193,6 @@ cultural y religiosa. Es un producto completo”.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/07/camino-de-santiago-ria-de-muros-noia-en-velero >}}. 
+{{< reflink camino-de-santiago-ria-de-muros-noia-en-velero >}}. 
 
-{{< reflink path=posts/2021/03/5-peliculas-del-camino-de-santiago >}}.
+{{< reflink 5-peliculas-del-camino-de-santiago >}}.

@@ -257,8 +257,8 @@ ciudad. Quizás en otro viaje.
 
 **En Cádiz también te puede interesar:** 
 
-{{< reflink path=posts/2020/06/viajes-por-espana-jerez-sola-o-con-amigas >}}. 
+{{< reflink viajes-por-espana-jerez-sola-o-con-amigas >}}. 
 
-{{< reflink path=posts/2021/07/los-mejores-planes-en-conil-con-amigas >}}. 
+{{< reflink los-mejores-planes-en-conil-con-amigas >}}. 
 
-{{< reflink path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}}.
+{{< reflink 10-actividades-vejer-de-la-frontera-que-ver-hacer >}}.

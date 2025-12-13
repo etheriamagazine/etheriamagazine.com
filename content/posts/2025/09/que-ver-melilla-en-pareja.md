@@ -155,9 +155,9 @@ que nos enamorará a primera vista.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/08/que-ver-tanger-con-amigas >}} 
+{{< reflink que-ver-tanger-con-amigas >}} 
 
-{{< reflink path=posts/2024/11/mejores-restaurantes-bares-malaga >}} 
+{{< reflink mejores-restaurantes-bares-malaga >}} 
 
-{{< reflink path=posts/2023/06/que-ver-en-esauira >}} {{< reflink 
-path=posts/2023/06/que-ver-en-esauira >}}
+[Qué ver en Esauira, la playa de]({{% ref que-ver-en-esauira %}}) [Marruecos]({{% ref 
+que-ver-en-esauira %}})

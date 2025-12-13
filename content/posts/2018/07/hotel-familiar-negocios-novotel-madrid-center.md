@@ -77,6 +77,6 @@ Center (gran espacio de conciertos y acontecimientos deportivos) y el Triángulo
 
 **Te puede interesar...** 
 
-{{< reflink path=posts/2022/12/planes-adolescentes-madrid >}}. 
+{{< reflink planes-adolescentes-madrid >}}. 
 
-{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}}.
+{{< reflink tabernas-historicas-de-madrid >}}.

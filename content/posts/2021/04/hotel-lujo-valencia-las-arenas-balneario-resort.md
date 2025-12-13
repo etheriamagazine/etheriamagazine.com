@@ -127,8 +127,8 @@ Viñes, 22-24. Valencia Tel. 963 120 600 Precio habitación doble para dos perso
 
 ### También te puede interesar
 
-{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}}. 
+{{< reflink planes-originales-valencia-con-amigas >}}. 
 
-{{< reflink path=posts/2018/12/un-viaje-a-valencia-con-amigas >}}. 
+{{< reflink un-viaje-a-valencia-con-amigas >}}. 
 
-{{< reflink path=posts/2021/04/que-hacer-donde-comer-con-amigas-denia-javea >}}.
+{{< reflink que-hacer-donde-comer-con-amigas-denia-javea >}}.

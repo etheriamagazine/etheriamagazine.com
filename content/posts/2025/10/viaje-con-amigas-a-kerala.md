@@ -19,13 +19,12 @@ primera vez con amigas en este desafiante y seductor subcontinente asiático.
 
 Ubicada en la costa tropical de Malabar, Kerala es una burbuja de paisajes exóticos, 
 autenticidad y tradición que te atrapa a fragmentos. Sin el caos, el ruido y la 
-masificación del {{< reflink 
-path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}}, pero con toda la 
-magia, intensidad y sabor de la India. La mestiza Kochi, la calma que se viste de verde 
-en las plantaciones de té de Munnar, ver la vida pasar en los remansos de Alleppey, 
-disfrutar de los arenales dorados que acarician el mar Arábigo, rozar el nirvana 
-sucumbiendo a las bondades del ayurveda… El itinerario que te proponemos es perfecto 
-para una inolvidable semana de naturaleza, cultura y relax. 
+masificación del [Rajastán]({{% ref viaje-para-mujeres-que-ver-norte-india-rajastan 
+%}}), pero con toda la magia, intensidad y sabor de la India. La mestiza Kochi, la calma 
+que se viste de verde en las plantaciones de té de Munnar, ver la vida pasar en los 
+remansos de Alleppey, disfrutar de los arenales dorados que acarician el mar Arábigo, 
+rozar el nirvana sucumbiendo a las bondades del ayurveda… El itinerario que te 
+proponemos es perfecto para una inolvidable semana de naturaleza, cultura y relax. 
 
 ![Elefante en libertad en los Ghats Occidentales de Kerala](https://fotos.etheriamagazine.com/2025/10/kerala-Elefante.jpeg "Elefante en libertad en los Ghats Occidentales de Kerala. © Alícia Bea")
 

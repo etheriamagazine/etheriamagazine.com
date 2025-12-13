@@ -136,8 +136,9 @@ desde 628 Euros la noche. Fotografías cedidas por ©One&Only Resorts.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/12/visita-a-expo-2020-dubai >}} 
+{{< reflink visita-a-expo-2020-dubai >}} 
 
-{{< reflink path=posts/2019/05/como-aprovechar-una-escala-en-dubai >}} 
+{{< reflink como-aprovechar-una-escala-en-dubai >}} 
 
-{{< reflink path=posts/2020/11/islas-seychelles-un-viaje-de-lujo-al-paraiso >}}
+[Islas Seychelles, el nuevo paraíso para los viajeros españoles]({{% ref 
+islas-seychelles-un-viaje-de-lujo-al-paraiso %}})

@@ -85,8 +85,8 @@ de estos deportes para practicar otras actividades”.
 
 ### Más planes para mujeres...
 
-{{< reflink path=posts/2020/09/guia-basica-cagliari-para-mujeres-viajeras >}}. 
+{{< reflink guia-basica-cagliari-para-mujeres-viajeras >}}. 
 
-{{< reflink path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}}. 
+{{< reflink viajar-sola-amigas-imprescindible-lanzarote >}}. 
 
-{{< reflink path=posts/2020/09/10-planes-originales-en-bilbao-con-amigas >}}.
+{{< reflink 10-planes-originales-en-bilbao-con-amigas >}}.

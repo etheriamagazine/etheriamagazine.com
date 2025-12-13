@@ -75,10 +75,10 @@ michoacano), la barbacoa de res, el mole, el pescado empapelado y las zarzamoras
 ![viaje a michoacan, morelia, mexico](https://fotos.etheriamagazine.com/2018/12/morelia-mexico.jpg "Arquitectura de Morelia (México)")
 
 Pero no sólo puede Michoacán presumir de mariposas a raudales. Ni de haber servido de 
-inspiración para crear algunos escenarios que aparecen en la {{< reflink 
-path=posts/2018/05/en-el-mexico-de-coco >}}. Este estado, considerado por los locales 
-como el “Alma de México”, tiene muchos más atractivos turísticos que se pueden descubrir 
-en sus pueblos típicos multicolores y hermosas ciudades como **Pátzcuaro**, 
+inspiración para crear algunos escenarios que aparecen en la [película Coco de 
+Disney-Pixar]({{% ref en-el-mexico-de-coco %}}). Este estado, considerado por los 
+locales como el “Alma de México”, tiene muchos más atractivos turísticos que se pueden 
+descubrir en sus pueblos típicos multicolores y hermosas ciudades como **Pátzcuaro**, 
 **Tlalpujahua**, **Tzintzuntzan** y **Morelia** (Patrimonio de Humanidad desde 1991). Su 
 extraordinaria riqueza en zonas arqueológicas, iglesias coloniales, ruinas mineras, 
 lagos, balnearios, fiestas, tradiciones (como la noche de muertos), gastronomía y 

@@ -109,6 +109,6 @@ bosque, flores de azafrán, aceites cítricos esenciales y fruta de la pasión. 
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/07/15-lugares-imprescindibles-que-ver-en-roma >}} 
+{{< reflink 15-lugares-imprescindibles-que-ver-en-roma >}} 
 
-{{< reflink path=posts/2022/05/excursion-a-tivoli-desde-roma >}}
+{{< reflink excursion-a-tivoli-desde-roma >}}

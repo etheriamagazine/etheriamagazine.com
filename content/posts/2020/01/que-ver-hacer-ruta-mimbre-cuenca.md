@@ -240,8 +240,7 @@ Mimbre.](https://www.descubrecuenca.com/es/rutas/La-Mancha/la-ruta-del-mimbre-8)
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/11/turismo-rural-familiar-con-ninos-en-serrania-cuenca >}} 
+{{< reflink turismo-rural-familiar-con-ninos-en-serrania-cuenca >}} 
 
-{{< reflink 
-path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+{{< reflink viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
 >}}

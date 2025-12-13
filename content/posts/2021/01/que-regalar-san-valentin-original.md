@@ -69,8 +69,8 @@ posibilidad de maridaje.
 
 ## 4\. Escapada romántica al Ritz-Carlton Abama
 
-¿Puede haber mejor plan que escaparse al sur de Tenerife? Regalaos una escapada a {{< 
-reflink path=posts/2021/06/the-ritz-carlton-abama-hotel-de-lujo-tenerife >}} y no os 
+¿Puede haber mejor plan que escaparse al sur de Tenerife? Regalaos una escapada a [The 
+Ritz-Carlton Abama]({{% ref the-ritz-carlton-abama-hotel-de-lujo-tenerife %}}) y no os 
 arrepentiréis. Este hotel cuenta con todo lo necesario para descansar y alejarse de 
 todo, sobre todo si te alojas en la zona de solo adultos o en la de las villas. Además, 
 tiene tantos restaurantes (algunos con estrella Michelin) que no es necesario salir del 
@@ -139,10 +139,8 @@ dispositivo en la web y te lo envían a casa.
 
 **También te puede interesar**: 
 
-{{< reflink path=posts/2021/01/hoteles-de-lujo-escapada-romantica-2021 >}} 
+{{< reflink hoteles-de-lujo-escapada-romantica-2021 >}} 
 
-{{< reflink 
-path=posts/2020/11/5-camaras-de-fotos-semiprofesionales-perfectas-para-viajar-ligeras 
->}} 
+{{< reflink 5-camaras-de-fotos-semiprofesionales-perfectas-para-viajar-ligeras >}} 
 
-{{< reflink path=posts/2020/11/marcas-y-firmas-solidarias-de-moda-y-belleza >}}
+{{< reflink marcas-y-firmas-solidarias-de-moda-y-belleza >}}

@@ -108,8 +108,8 @@ con la cocina de autor de uno de los chefs más reconocidos del país. **Más in
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2024/10/exposiciones-en-madrid-otono-de-2024 >}}. 
+{{< reflink exposiciones-en-madrid-otono-de-2024 >}}. 
 
-{{< reflink path=posts/2024/04/ruta-lola-flores-en-madrid >}}. 
+{{< reflink ruta-lola-flores-en-madrid >}}. 
 
-{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}.
+{{< reflink ruta-ava-gardner-en-madrid >}}.

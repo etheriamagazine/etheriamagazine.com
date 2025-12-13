@@ -82,11 +82,9 @@ Marbella. Tel. +34 900 60 60 67. Precio de habitación doble desde 290 Euros.
 
 ### También te puede interesar:
 
-{{< reflink 
-path=posts/2019/06/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana 
->}} 
+{{< reflink guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana >}} 
 
-{{< reflink 
-path=posts/2019/07/alcuzcuz-hotel-boutique-escapada-romantica-benahavis-malaga >}} 
+{{< reflink alcuzcuz-hotel-boutique-escapada-romantica-benahavis-malaga >}} 
 
-{{< reflink path=posts/2021/12/que-ver-excursion-a-frigiliana >}}
+[Un día en Frigiliana, uno de los pueblos más bonitos de Málaga]({{% ref 
+que-ver-excursion-a-frigiliana %}})

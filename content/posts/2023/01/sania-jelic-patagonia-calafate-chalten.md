@@ -162,4 +162,4 @@ Ahora sí. **Más datos de interés:**
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}}
+{{< reflink sania-jelic-viajar-sola-mas-65 >}}

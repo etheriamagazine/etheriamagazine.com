@@ -173,9 +173,8 @@ Lleida](http://www.lleidatur.com/Turismo/Visita/Desfiladero-de-Mont-rebei/177.as
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/06/8-experiencias-en-el-pallars-jussa-excursiones-en-lleida 
->}}. 
+{{< reflink 8-experiencias-en-el-pallars-jussa-excursiones-en-lleida >}}. 
 
-{{< reflink path=posts/2018/10/10-rincones-de-lleida-que-te-sorprenderan >}}. 
+{{< reflink 10-rincones-de-lleida-que-te-sorprenderan >}}. 
 
-{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}.
+{{< reflink lugares-secretos-de-cataluna-que-visitar >}}.

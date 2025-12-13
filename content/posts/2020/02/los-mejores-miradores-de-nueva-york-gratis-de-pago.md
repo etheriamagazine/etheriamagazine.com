@@ -229,8 +229,8 @@ Más información turística en [NYC & Company](http://www.nycgo.com).
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/05/viaje-con-amigas-nueva-york-primavera >}}. 
+{{< reflink viaje-con-amigas-nueva-york-primavera >}}. 
 
-{{< reflink path=posts/2018/07/consejos-para-viajar-en-familia-a-nueva-york >}}. 
+{{< reflink consejos-para-viajar-en-familia-a-nueva-york >}}. 
 
-{{< reflink path=posts/2018/07/8-planes-con-ninos-en-nueva-york >}}.
+{{< reflink 8-planes-con-ninos-en-nueva-york >}}.

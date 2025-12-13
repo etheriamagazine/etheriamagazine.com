@@ -116,17 +116,23 @@ enormemente agradecida por ello.
 
 📌 **También te puede interesar:** 
 
-01.{{< reflink path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}}. 
+01.[Viajar sola por el mundo tras la jubilación, el nuevo plan de vida de Sania 
+Jelic]({{% ref sania-jelic-viajar-sola-mas-65 %}}). 
 
-02. {{< reflink path=posts/2022/12/sania-jelic-amazonas >}}. 
+02. [El Amazonas: nueva etapa de Sania Jelic en Sudamérica]({{% ref sania-jelic-amazonas 
+%}}). 
 
-03. {{< reflink path=posts/2023/01/sania-en-patagonia-ushuaia-punta-arenas >}}. 
+03. [Sania en Patagonia (parte 1): Ushuaia y Punta Arenas]({{% ref 
+sania-en-patagonia-ushuaia-punta-arenas %}}). 
 
-04. {{< reflink path=posts/2023/01/sania-jelic-patagonia-calafate-chalten >}}. 
+04. [Sania Jelic en Patagonia (parte 2): Calafate y El Chalten]({{% ref 
+sania-jelic-patagonia-calafate-chalten %}}). 
 
-05. {{< reflink path=posts/2023/01/sania-patagonia-chilena >}}. 
+05. [Sania en Patagonia (parte 3): todo va lento, menos el viento]({{% ref 
+sania-patagonia-chilena %}}). 
 
-06. {{< reflink path=posts/2023/02/sania-archipielago-de-chiloe >}}{{< reflink 
-path=posts/2023/02/sania-archipielago-de-chiloe >}}. 
+06. [Isla de Chiloé, consejo]({{% ref sania-archipielago-de-chiloe %}})[s de Sania para 
+visitarla]({{% ref sania-archipielago-de-chiloe %}}). 
 
-07\. {{< reflink path=posts/2023/02/patagonia-cruce-lagos >}}.
+07\. [Cruce Andino, Bariloche y El Bolsón, fin del viaje de Sania en Patagonia]({{% ref 
+patagonia-cruce-lagos %}}).

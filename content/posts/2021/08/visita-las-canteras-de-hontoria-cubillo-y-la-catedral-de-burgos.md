@@ -231,8 +231,6 @@ Civitatis. Consulta fechas de realización.
 
 ### También te puede interesar...
 
-{{< reflink 
-path=posts/2020/12/7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia 
->}}. 
+{{< reflink 7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia >}}. 
 
-{{< reflink path=posts/2019/06/que-ver-hacer-ruta-merindades-burgos >}}.
+{{< reflink que-ver-hacer-ruta-merindades-burgos >}}.

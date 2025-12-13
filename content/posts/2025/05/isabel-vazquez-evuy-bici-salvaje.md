@@ -123,14 +123,14 @@ En la **edición 2025 de las Jornadas iati de los grandes viajes** os espera un 
 muy completo: dos charlas presenciales gratuitas en la inauguración del 20 de mayo 
 (Paseo de la Chopera, 6. Metro Legazpi)y 8 más durante el evento principal del 24 de 
 mayo (Espacio Rastro) todas disponibles para ver en streaming. Y el 25 de mayo será la 
-clausura en {{< reflink path=posts/2025/04/marta-insausti-almacen-viajes >}}, en un 
+clausura en [El Almacén de Viajes]({{% ref marta-insausti-almacen-viajes %}}), en un 
 ambiente distendido que todos los viajeros disfrutarán. Se puede adquirir la [entrada 
 online](https://jornadasgrandesviajes.es/compra-de-entradas/). 
 
 ## También en Etheria Magazine
 
-{{< reflink path=posts/2025/04/maria-perles-vuelta-al-mundo >}}. 
+{{< reflink maria-perles-vuelta-al-mundo >}}. 
 
-{{< reflink path=posts/2025/04/marta-insausti-almacen-viajes >}}. 
+{{< reflink marta-insausti-almacen-viajes >}}. 
 
-{{< reflink path=posts/2025/01/viajar-sola-a-taiwan-consejos-sania-jelic >}} .
+{{< reflink viajar-sola-a-taiwan-consejos-sania-jelic >}} .

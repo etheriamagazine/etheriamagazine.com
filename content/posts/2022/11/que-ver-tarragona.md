@@ -40,7 +40,8 @@ admirar uno de sus destinos icónicos, el anfiteatro romano, sin dar un paseo tr
 por la Rambla Nova o disfrutar del barrio de pescadores del Serrallo. Así que ponte en 
 marcha y sumérgete en una ciudad moderna, abierta y acogedora, y sobre todo, monumental. 
 
-📌No te pierdas: {{< reflink path=posts/2021/12/por-que-visitar-tarragona >}}. 
+📌No te pierdas: [10 buenas razones para escaparse a la antigua Tarraco]({{% ref 
+por-que-visitar-tarragona %}}). 
 
 ![Casa salas, una construcción modernista de Tarragona.](https://fotos.etheriamagazine.com/2022/11/Tarragona-casa_salas.jpg "Casa salas, una construcción modernista de Tarragona.")
 
@@ -226,8 +227,8 @@ complementa con una amplia gama de restaurantes y tiendas. Una despedida de adre
 para poner el broche final a nuestra escapada turística por la provincia de Tarragona. 
 
 📌 Si haces un viaje a Cataluña con niños toma nota también de las actividades de este 
-artículo: {{< reflink 
-path=posts/2019/12/planes-familiares-en-barcelona-y-tarragona-turismo-industrial >}}. 
+artículo: [Turismo industrial en Cataluña, viajar y aprender en familia]({{% ref 
+planes-familiares-en-barcelona-y-tarragona-turismo-industrial %}}). 
 
 Puedes ampliar información sobre qué ver en Tarragona en las páginas oficiales de 
 turismo de [Costa Daurada](https://costadaurada.info/es), [Terres de 

@@ -25,10 +25,9 @@ desenfrenadas estas recomendaciones en el **norte del país** no te ayudarán mu
 no quiere decir que debas dejar de leer, ya que te mostraremos la atractiva faceta 
 cultural tailandesa. Chiang Mai puede convertirse en el destino principal dentro de tu 
 **viaje a Tailandia**, o bien formar parte de un combinado que incluya **Bangkok** 
-(consulta esta guía de {{< reflink 
-path=posts/2019/10/viaje-con-amigas-tailandia-donde-comer-bangkok >}}) y las playas del 
-sur ({{< reflink path=posts/2019/06/que-ver-en-phuket-tailandia-sola-o-con-amigas >}}, 
-Krabi o Ko Samui). 
+(consulta esta guía de [Bangkok en clave foodie]({{% ref 
+viaje-con-amigas-tailandia-donde-comer-bangkok %}})) y las playas del sur ([ruta en 
+Phuket]({{% ref que-ver-en-phuket-tailandia-sola-o-con-amigas %}}), Krabi o Ko Samui). 
 
 Para que te ubiques, la provincia de Chiang Mai se sitúa al norte de Tailandia, en la 
 frontera con Myanmar, y hasta allí se puede llegar desde la capital tailandesa (a 700 
@@ -219,8 +218,8 @@ principales son los de Wat Phra Si Mahathat, Wat Chang Lom y Wat Chedi Jet Taew;
 
 Hay varias compañías que te llevarán hasta Chiang Mai, en nuestro caso fuimos con 
 **Qatar Airways** vía Doha, donde pasamos una noche antes de seguir hasta el destino 
-final. (Puedes consultar "{{< reflink 
-path=posts/2019/09/que-ver-en-una-escala-corta-de-un-dia-en-doha-qatar >}}") 
+final. (Puedes consultar "[Qué ver en una escala de 1 día en Doha]({{% ref 
+que-ver-en-una-escala-corta-de-un-dia-en-doha-qatar %}})") 
 
 ### Dónde dormir
 
@@ -246,8 +245,8 @@ torno a 550 €. Duración: unas 6 horas.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/05/tres-dias-en-bangkok-que-hacer >}}. 
+{{< reflink tres-dias-en-bangkok-que-hacer >}}. 
 
-{{< reflink path=posts/2018/06/viaje-parejas-mar-de-andaman >}}. 
+{{< reflink viaje-parejas-mar-de-andaman >}}. 
 
-{{< reflink path=posts/2020/01/que-llevar-en-maleta-viaje-tailandia >}}.
+{{< reflink que-llevar-en-maleta-viaje-tailandia >}}.

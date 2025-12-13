@@ -80,8 +80,8 @@ marinero es Bueu, donde incluso te puedes asomar al trajín diario de su lonja. 
 que se te escapen las playas de la península. Portocelo, Aguete, Mogor… son tan 
 atractivas con su fina y blanca arena que te costará quedarte solo con una. 
 
-✅ Sigue explorando {{< reflink 
-path=posts/2019/10/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja >}}. 
+✅ Sigue explorando [la costa de Pontevedra con nuestros planes para pequeños y 
+mayores]({{% ref 8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja %}}). 
 
 ![Playa de Rodas, en las islas Cíes, uno de los más bonitos del mundo](https://fotos.etheriamagazine.com/2021/07/galicia-playa-rodas-islas-cies.jpg "La playa de Rodas, en las islas Cíes, es una de las más bonitas del mundo. © Pepa G.")
 
@@ -143,8 +143,8 @@ localidad más popular de veraneo gallega. Su epicentro estival es la playa de S
 Más conocida como playa de Sanxenxo, con sus 800 metros, es recorrida por el paseo 
 marítimo que es punto de encuentro de la vida nocturna veraniega. 
 
-✅ Planea tu viaje a {{< reflink 
-path=posts/2020/08/excursion-isla-de-ons-como-llegar-que-ver >}}. 
+✅ Planea tu viaje a [Ons con nuestros consejos imprescindibles]({{% ref 
+excursion-isla-de-ons-como-llegar-que-ver %}}). 
 
 ![Laureles en Cortegada.](https://fotos.etheriamagazine.com/2022/12/Cortegada-laureles.jpg "Laureles en Cortegada.")
 
@@ -178,8 +178,8 @@ fama a sus balnearios, lujosos hoteles, casino, puerto deportivo y campo de golf
 otros entretenimientos de ocio. Cuando te canses de su ajetreo turístico date un paseo 
 por el tranquilo pinar que cubre el centro de la isla. 
 
-✅ Sigue leyendo si lo tuyo es una {{< reflink 
-path=posts/2024/07/la-toja-escapada-romantica-termal-en-galicia >}}. 
+✅ Sigue leyendo si lo tuyo es una [escapada romántica a La Toja y sus aguas 
+milagrosas]({{% ref la-toja-escapada-romantica-termal-en-galicia %}}). 
 
 ![A Illa de Arousa.](https://fotos.etheriamagazine.com/2022/12/A-Illa-de-Arousa.jpg "A Illa de Arousa.")
 
@@ -226,9 +226,9 @@ en uno de los capítulos de su novela _20.000 leguas de viaje submarino_.
 📍 Abarca de un vistazo la ciudad, su fachada marítima y la ría desde alguno de los 
 miradores urbanos de los montes O Castro y A Guía. 
 
-✅ No dejes de comprobar por qué {{< reflink 
-path=posts/2020/11/comer-en-vigo-mejores-restaurantes-furanchos >}} en la escapada 
-gourmand que te hemos enlazado. 
+✅ No dejes de comprobar por qué [Vigo está tan bueno]({{% ref 
+comer-en-vigo-mejores-restaurantes-furanchos %}}) en la escapada gourmand que te hemos 
+enlazado. 
 
 ![vigo, una visita obligada en Pontevedra](https://fotos.etheriamagazine.com/2022/12/que-ver-Vigo.jpg "Vigo, una visita obligada.")
 
@@ -292,8 +292,8 @@ sudor, despierta la animación entre el público ante una escena realizada desde
 3.500 años, desde tiempos prerromanos, que sigue manteniendo viva la relación 
 prehistórica del hombre con el caballo. 
 
-✅ Prepara todos los detalles para {{< reflink 
-path=posts/2019/06/rapa-das-bestas-sabucedo-pontevedra-galicia >}}. 
+✅ Prepara todos los detalles para [acudir A rapa das bestas]({{% ref 
+rapa-das-bestas-sabucedo-pontevedra-galicia %}}). 
 
 ![Rapa das bestas, una de las fiestas más espectaculares de Galicia.](https://fotos.etheriamagazine.com/2022/12/A-Estrada-rapa-das-bestas.jpg "Rapa das bestas, una de las fiestas más espectaculares de Galicia.")
 
@@ -315,8 +315,8 @@ portuguesa para después perderse en el infinito azul del Atlántico. Su ocupaci
 
 📍En el monte de Santa Trega, en la cumbre de San Francisco, es recomendable acudir a la 
 popular **ermita de Santa Trega**. Hay quien asegura que la devoción por la santa se 
-debe a Egeria, la primera viajera española y en cuyo honor se nombró a {{< reflink 
-path=posts/2018/06/etheria-la-primera-viajera >}} (toda su historia en el anterior 
+debe a Egeria, la primera viajera española y en cuyo honor se nombró a [Etheria 
+magazine]({{% ref etheria-la-primera-viajera %}}) (toda su historia en el anterior 
 link). 
 
 📍 El acceso al monte de Santa Trega en vehículo privado cuesta 3 € el coche y 1,5 € por 

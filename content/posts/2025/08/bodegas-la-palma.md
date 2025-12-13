@@ -96,9 +96,8 @@ más que antes.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2021/11/10-razones-para-visitar-la-palma >}} 
+{{< reflink 10-razones-para-visitar-la-palma >}} 
 
-{{< reflink path=posts/2019/04/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias 
->}}. 
+{{< reflink la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias >}}. 
 
-{{< reflink path=posts/2021/04/10-secretos-para-conocer-la-isla-de-la-palma >}}.
+{{< reflink 10-secretos-para-conocer-la-isla-de-la-palma >}}.

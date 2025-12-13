@@ -108,8 +108,8 @@ toda la información está disponible en la web del **Parque Minero de Riotinto*
 ## Disfrutar de las playas
 
 Uno de los mayores alicientes de un viaje a Huelva con niños es, sin duda, disfrutar de 
-sus maravillosas playas. Hay muchas y en el reportaje {{< reflink 
-path=posts/2020/07/que-ver-hacer-costa-playas-huelva-donana >}} ya os contábamos algunas 
+sus maravillosas playas. Hay muchas y en el reportaje [Descubre la magia de la costa de 
+Huelva]({{% ref que-ver-hacer-costa-playas-huelva-donana %}}) ya os contábamos algunas 
 de las playas que no os podéis perder. Como las que se suceden entre Matalascañas y 
 Palos de la Frontera. Algunas de las más bonitas son la playa de Castilla, que conecta 
 con Mazagón a través de 20 kilómetros de arena sin urbanizar, la playa del Arenosillo, 
@@ -132,12 +132,10 @@ Muelle del Tinto para ver la espectacular puesta de sol.
 
 **Más planes con niños:** 
 
-{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
->}} 
+{{< reflink 12-actividades-familiares-para-viajes-con-ninos-en-cadiz >}} 
 
-{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
->}} 
+{{< reflink excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos >}} 
 
-{{< reflink path=posts/2020/05/8-excursiones-con-ninos-en-alicante >}} 
+{{< reflink 8-excursiones-con-ninos-en-alicante >}} 
 
-{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}}
+{{< reflink viajar-con-ninos-por-europa-consejos-y-propuestas >}}

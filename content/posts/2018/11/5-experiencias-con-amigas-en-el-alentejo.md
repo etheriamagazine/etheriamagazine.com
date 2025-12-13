@@ -188,8 +188,8 @@ cerdo negro.
 
 ### También en Etheria Magazine...
 
-{{< reflink path=posts/2022/03/wow-oporto-barrio-gastronomico-cultural >}}. 
+{{< reflink wow-oporto-barrio-gastronomico-cultural >}}. 
 
-{{< reflink path=posts/2020/07/valle-del-coa-8-experiencias-en-la-frontera-portugal >}}. 
+{{< reflink valle-del-coa-8-experiencias-en-la-frontera-portugal >}}. 
 
-{{< reflink path=posts/2019/06/planes-divertidos-viajes-familia-portugal >}}.
+{{< reflink planes-divertidos-viajes-familia-portugal >}}.

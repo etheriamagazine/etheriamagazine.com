@@ -144,8 +144,8 @@ Fotos: Nuria Cortés y Turismo de Eslovenia
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}} 
+{{< reflink viaje-a-croacia-como-organizar-que-ver-hacer >}} 
 
-{{< reflink path=posts/2020/06/viajar-sola-que-ver-hacer-en-costa-de-montenegro >}} 
+{{< reflink viajar-sola-que-ver-hacer-en-costa-de-montenegro >}} 
 
-{{< reflink path=posts/2020/04/que-ver-hacer-en-2-3-dias-zagreb-croacia >}}
+{{< reflink que-ver-hacer-en-2-3-dias-zagreb-croacia >}}

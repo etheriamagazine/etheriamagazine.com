@@ -177,8 +177,8 @@ Retuerta](https://www.abadia-retuerta.com).
 
 ### También en Valladolid...
 
-{{< reflink path=posts/2018/05/ruta-del-vino-ribera-del-duero-valladolid >}} 
+{{< reflink ruta-del-vino-ribera-del-duero-valladolid >}} 
 
-{{< reflink path=posts/2019/01/bares-imprescindibles-finde-valladolid >}} 
+{{< reflink bares-imprescindibles-finde-valladolid >}} 
 
-{{< reflink path=posts/2021/04/32-excursiones-de-un-dia-en-rutas-vino-espana >}}
+{{< reflink 32-excursiones-de-un-dia-en-rutas-vino-espana >}}

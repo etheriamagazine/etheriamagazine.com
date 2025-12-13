@@ -114,9 +114,8 @@ meriendas.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/09/viaje-laponia-finlandesa-ninos-en-familia >}} 
+{{< reflink viaje-laponia-finlandesa-ninos-en-familia >}} 
 
-{{< reflink path=posts/2018/09/8-consejos-para-viajar-a-la-laponia-finlandesa-con-ninos 
->}} 
+{{< reflink 8-consejos-para-viajar-a-la-laponia-finlandesa-con-ninos >}} 
 
-{{< reflink path=posts/2019/10/siete-excursiones-en-laponia-finlandesa >}}
+{{< reflink siete-excursiones-en-laponia-finlandesa >}}

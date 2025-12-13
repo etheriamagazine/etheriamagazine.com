@@ -21,10 +21,9 @@ turismo de masas.
 
 En su sexto año de vida, la agencia de viajes para mujeres WOM se enfrenta al gran reto 
 de su trayectoria: continuar adelante con la misma ilusión a pesar de las dimensiones de 
-la actual pandemia. {{< reflink path=posts/2018/08/ana-blasco-wom-viajes-mujeres-etheria 
->}}, su directora, es cauta en sus decisiones pero firme en su deseo de adaptar el 
-programa que ofrece a sus clientas para que nadie se quede sin hacer una escapada este 
-año. 
+la actual pandemia. [Ana Blasco]({{% ref ana-blasco-wom-viajes-mujeres-etheria %}}), su 
+directora, es cauta en sus decisiones pero firme en su deseo de adaptar el programa que 
+ofrece a sus clientas para que nadie se quede sin hacer una escapada este año. 
 
 Aunque no están los itinerarios cerrados, ya ha considerado algunos destinos nacionales 
 como **Extremadura**, **Andalucía**, **Cantabria** y **Aragón**. Además, tiene en mente 

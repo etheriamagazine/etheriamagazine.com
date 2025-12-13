@@ -115,8 +115,8 @@ habitación doble desde 360 Euros por noche.
 
 ### También te puede interesar
 
-{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}} 
+{{< reflink planes-y-excursiones-desde-palma-mallorca-con-amigas >}} 
 
-{{< reflink path=posts/2021/08/cuevas-de-mallorca-con-ninos >}} 
+{{< reflink cuevas-de-mallorca-con-ninos >}} 
 
-{{< reflink path=posts/2019/08/24-horas-palma-mallorca-arte-compras-mercados >}}
+{{< reflink 24-horas-palma-mallorca-arte-compras-mercados >}}

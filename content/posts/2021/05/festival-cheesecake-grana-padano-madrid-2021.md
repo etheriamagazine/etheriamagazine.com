@@ -17,9 +17,9 @@ Cuánto sabes de las _cheesecakes_? Parece un invento reciente, ¿verdad? Pues n
 todos los estudios sitúan sus orígenes en la **Antigua Grecia**. La tarta de queso, por 
 tanto, ha formado parte de la cultura mediterránea desde hace muchos siglos. Es también 
 un postre que siempre (o casi siempre) encontramos en las cartas de los restaurantes, 
-como ocurre con la {{< reflink 
-path=posts/2020/09/donde-tomar-mejores-postres-chocolate-en-madrid >}}, de la que ya os 
-hemos hablado en anteriores ocasiones. 
+como ocurre con la [tarta de chocolate]({{% ref 
+donde-tomar-mejores-postres-chocolate-en-madrid %}}), de la que ya os hemos hablado en 
+anteriores ocasiones. 
 
 La tarta de queso se conoce en otros lugares con diferentes nombres, “sernik”, 
 “cheesecake”, ”fuwa-fuwa”, y presenta variantes en cuanto a textura y forma de hacerla, 
@@ -49,8 +49,8 @@ cremosidad que resulta muy agradable al paladar. Su origen se encuentra en la Ab
 Chiaravalle, al sur de Milán, pero ¿imaginas de dónde viene su nombre? Se debe a su 
 textura granulosa (“grana”) y a la región de procedencia, es padano, o sea del Valle del 
 Po. Por si te lo estás preguntando, también es artesanal, libre de gluten y de lactosa 
-(consulta nuestra {{< reflink 
-path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias >}}). 
+(consulta nuestra [Ruta por el Madrid más libre de gluten]({{% ref 
+ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias %}})). 
 
 ![tarta de queso madrid](https://fotos.etheriamagazine.com/2021/04/tarta-queso-madrid.jpg "Tarta de queso tradicional. © Yulia Khlebnikova")
 
@@ -119,8 +119,8 @@ Dirección: Gran Vía, 55.
 
 ### Puedes seguir leyendo...
 
-{{< reflink path=posts/2021/04/restaurantes-mandarin-oriental-ritz-quique-dacosta >}}. 
+{{< reflink restaurantes-mandarin-oriental-ritz-quique-dacosta >}}. 
 
-{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}. 
+{{< reflink brunch-buenos-y-baratos-en-madrid >}}. 
 
-{{< reflink path=posts/2020/11/comer-en-toledo-mejores-restaurantes-bares-tapas >}}.
+{{< reflink comer-en-toledo-mejores-restaurantes-bares-tapas >}}.

@@ -93,14 +93,14 @@ les dejará indiferentes.
 
 #### Beteta
 
-Nos dirigimos finalmente a Beteta, en plena {{< reflink 
-path=posts/2019/11/turismo-rural-familiar-con-ninos-en-serrania-cuenca >}}. Observada 
-desde lo alto por un enorme Cristo, parecido al Corcovado de Río de Janeiro, y por el 
-castillo de Rochafrida cuyo origen se remonta al siglo XII. Rodeada por el apabullante 
-paisaje de la Serranía, su naturaleza kárstica nos ofrece formaciones tan bellas y 
-espectaculares como la laguna del Tobar o la cueva de la Ramera, fruto de la erosión de 
-las aguas durante siglos en sus rocas calcáreas, que además nos regala unas maravillosas 
-vistas de la **Hoz de Beteta**. 
+Nos dirigimos finalmente a Beteta, en plena [Serranía de Cuenca]({{% ref 
+turismo-rural-familiar-con-ninos-en-serrania-cuenca %}}). Observada desde lo alto por un 
+enorme Cristo, parecido al Corcovado de Río de Janeiro, y por el castillo de Rochafrida 
+cuyo origen se remonta al siglo XII. Rodeada por el apabullante paisaje de la Serranía, 
+su naturaleza kárstica nos ofrece formaciones tan bellas y espectaculares como la laguna 
+del Tobar o la cueva de la Ramera, fruto de la erosión de las aguas durante siglos en 
+sus rocas calcáreas, que además nos regala unas maravillosas vistas de la **Hoz de 
+Beteta**. 
 
 ![lagunas de canada del hoyo, excursion cuenca](https://fotos.etheriamagazine.com/2020/05/cuenca-excursion-lagunas-canada-hoyo.jpg "Lagunas de Cañada del Hoyo. © Yolanda Cardo")
 
@@ -220,8 +220,8 @@ para planificar tu viaje.
 
 **Te puede interesar...** 
 
-{{< reflink path=posts/2020/11/mejores-rutas-en-ciudad-real >}}. 
+{{< reflink mejores-rutas-en-ciudad-real >}}. 
 
-{{< reflink path=posts/2020/11/comer-en-toledo-mejores-restaurantes-bares-tapas >}}. 
+{{< reflink comer-en-toledo-mejores-restaurantes-bares-tapas >}}. 
 
-{{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha >}}.
+{{< reflink ruta-del-vino-de-la-mancha >}}.

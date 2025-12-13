@@ -201,7 +201,6 @@ mujeres es a través de la literatura.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/10/te-invito-a-un-mojito-libro-cancer-mama >}}. 
+{{< reflink te-invito-a-un-mojito-libro-cancer-mama >}}. 
 
-{{< reflink 
-path=posts/2024/01/pormishuevismo-un-libro-y-12-rutas-por-la-espana-del-ladrillo >}}.
+{{< reflink pormishuevismo-un-libro-y-12-rutas-por-la-espana-del-ladrillo >}}.

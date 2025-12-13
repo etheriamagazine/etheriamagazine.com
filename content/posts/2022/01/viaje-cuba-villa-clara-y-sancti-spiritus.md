@@ -181,6 +181,6 @@ defraudan.
 
 ### Te puede interesar...
 
-{{< reflink path=posts/2019/01/viajar-con-amigas-a-cuba >}}. 
+{{< reflink viajar-con-amigas-a-cuba >}}. 
 
-{{< reflink path=posts/2020/05/prepara-tu-viaje-a-cuba-libros-peliculas >}}.
+{{< reflink prepara-tu-viaje-a-cuba-libros-peliculas >}}.

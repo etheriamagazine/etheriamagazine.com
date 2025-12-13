@@ -192,11 +192,8 @@ ser muy prudente al poner esas medicaciones”.
 
 **También te puede interesar...** 
 
-{{< reflink 
-path=posts/2020/11/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}} 
+{{< reflink personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}} 
 
-{{< reflink 
-path=posts/2020/11/mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion 
->}}. 
+{{< reflink mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion >}}. 
 
-{{< reflink path=posts/2020/11/terapias-para-combatir-la-depresion-con-arte >}}.
+{{< reflink terapias-para-combatir-la-depresion-con-arte >}}.

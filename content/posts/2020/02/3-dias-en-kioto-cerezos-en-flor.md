@@ -245,8 +245,8 @@ descuento](https://www.intermundial.es/afiliados/seguros-de-viaje?tduid=19e65151
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/07/que-hacer-3-dias-en-tokio-viajes-mujeres >}} 
+{{< reflink que-hacer-3-dias-en-tokio-viajes-mujeres >}} 
 
-{{< reflink path=posts/2019/11/10-actividades-para-un-viaje-en-familia-a-japon >}} 
+{{< reflink 10-actividades-para-un-viaje-en-familia-a-japon >}} 
 
-{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}}
+{{< reflink como-organizar-un-viaje-a-japon >}}

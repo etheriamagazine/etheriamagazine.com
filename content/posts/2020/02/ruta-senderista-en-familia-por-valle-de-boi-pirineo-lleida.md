@@ -179,10 +179,8 @@ todas las experiencias vividas en familia.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2020/08/pueblos-y-rutas-imprescindibles-en-valle-aran >}}. 
+{{< reflink pueblos-y-rutas-imprescindibles-en-valle-aran >}}. 
 
-{{< reflink 
-path=posts/2020/05/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida 
->}} 
+{{< reflink consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida >}} 
 
-{{< reflink path=posts/2018/10/10-rincones-de-lleida-que-te-sorprenderan >}}.
+{{< reflink 10-rincones-de-lleida-que-te-sorprenderan >}}.

@@ -169,8 +169,8 @@ altitud.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/04/viaje-en-familia-que-hacer-engelberg-suiza >}} 
+{{< reflink viaje-en-familia-que-hacer-engelberg-suiza >}} 
 
-{{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}} 
+{{< reflink ruta-en-coche-electrico-por-suiza >}} 
 
-{{< reflink path=posts/2021/05/guia-gastronomica-suiza-y-rutas-en-tren >}}
+{{< reflink guia-gastronomica-suiza-y-rutas-en-tren >}}

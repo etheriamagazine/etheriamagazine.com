@@ -204,13 +204,13 @@ plato más representativo de la región.
 ### Toma buena nota
 
 Hemos recorrido la cara imperial de Apulia, pero como ya te contamos en Etheria 
-Magazine, {{< reflink path=posts/2019/04/que-ver-alberobello-italia-unesco >}}, las 
-construcciones pullesas que mejor representan la picaresca italiana. 
+Magazine, [no te puedes perder los 'trullis' de Alberobello]({{% ref 
+que-ver-alberobello-italia-unesco %}}), las construcciones pullesas que mejor 
+representan la picaresca italiana. 
 
-Reserva un día del viaje para descubrir la ciudad troglodita de {{< reflink 
-path=posts/2019/02/matera-capital-de-la-cultura-2019 >}}. La localidad se encuentra en 
-la región de **Basilicata** y ha sido declarada Patrimonio de la Humanidad por la 
-**UNESCO**. 
+Reserva un día del viaje para descubrir la ciudad troglodita de [Mattera]({{% ref 
+matera-capital-de-la-cultura-2019 %}}). La localidad se encuentra en la región de 
+**Basilicata** y ha sido declarada Patrimonio de la Humanidad por la **UNESCO**. 
 
 ### Más información
 
@@ -219,6 +219,6 @@ la región de **Basilicata** y ha sido declarada Patrimonio de la Humanidad por 
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}} 
+{{< reflink que-ver-en-napoles-en-fin-de-semana >}} 
 
-{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}}
+{{< reflink sicilia-pantocratores-y-bikinis >}}

@@ -164,6 +164,6 @@ alto standing del Restaurante Balausta.
 
 **También en Etheria Magazine:** 
 
-{{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}} 
+{{< reflink fin-de-semana-con-amigas-en-malaga >}} 
 
-{{< reflink path=posts/2023/03/pueblos-que-ver-malaga >}}
+{{< reflink pueblos-que-ver-malaga >}}

@@ -139,8 +139,8 @@ Os pedirán DNI al llegar para comprobar que estáis en la lista.
 
 **También os puede interesar...** 
 
-{{< reflink path=posts/2023/03/excursiones-ninos-en-madrid >}} 
+{{< reflink excursiones-ninos-en-madrid >}} 
 
-{{< reflink path=posts/2021/04/que-ver-en-museo-naval-de-madrid >}}. 
+{{< reflink que-ver-en-museo-naval-de-madrid >}}. 
 
-{{< reflink path=posts/2024/03/exposiciones-primavera-madrid-2024 >}}.
+{{< reflink exposiciones-primavera-madrid-2024 >}}.

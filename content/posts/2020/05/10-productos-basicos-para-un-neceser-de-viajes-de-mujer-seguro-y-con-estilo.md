@@ -150,10 +150,8 @@ Serum](https://www.xlash.es/serum-pestanas/6-xlash-pro-6ml-serum-crece-pestanas.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}} 
+{{< reflink 10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}} 
 
-{{< reflink path=posts/2020/09/que-llevar-picnic-en-el-campo >}} 
+{{< reflink que-llevar-picnic-en-el-campo >}} 
 
-{{< reflink 
-path=posts/2020/05/masajes-exoticos-que-hacen-viajar-a-india-bali-tailandia-japon-polinesia 
->}}
+{{< reflink masajes-exoticos-que-hacen-viajar-a-india-bali-tailandia-japon-polinesia >}}

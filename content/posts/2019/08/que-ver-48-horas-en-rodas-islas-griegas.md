@@ -181,10 +181,8 @@ Lindos.
 
 ### También te puede interesar
 
-{{< reflink 
-path=posts/2020/10/descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas 
->}} 
+{{< reflink descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas >}} 
 
-{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}} 
+{{< reflink sicilia-pantocratores-y-bikinis >}} 
 
-{{< reflink path=posts/2020/07/italia-guia-viaje-islas-eolias-que-ver-hacer >}}
+{{< reflink italia-guia-viaje-islas-eolias-que-ver-hacer >}}

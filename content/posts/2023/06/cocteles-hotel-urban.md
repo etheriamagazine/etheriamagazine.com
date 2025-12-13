@@ -109,8 +109,8 @@ días de 11:00 h a 23:00 h.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}} 
+{{< reflink tabernas-historicas-de-madrid >}} 
 
-{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}} 
+{{< reflink ruta-ava-gardner-en-madrid >}} 
 
-{{< reflink path=posts/2022/01/restaurantes-peruanos-en-madrid-de-jhosef-arias >}}
+{{< reflink restaurantes-peruanos-en-madrid-de-jhosef-arias >}}

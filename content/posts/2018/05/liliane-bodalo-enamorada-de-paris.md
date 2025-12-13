@@ -95,4 +95,4 @@ del móvil, la tarjeta de crédito y calzado cómodo.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2022/03/mujeres-viajeras-de-la-historia >}}.
+{{< reflink mujeres-viajeras-de-la-historia >}}.

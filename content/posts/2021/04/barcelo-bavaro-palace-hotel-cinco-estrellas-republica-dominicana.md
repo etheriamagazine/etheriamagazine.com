@@ -145,7 +145,6 @@ cedidas por © Barceló Hotel Group.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2018/05/10-razones-para-visitar-punta-cana-republica-dominicana 
->}} 
+{{< reflink 10-razones-para-visitar-punta-cana-republica-dominicana >}} 
 
-{{< reflink path=posts/2021/04/paises-sin-cuarentena-desde-espana-verano-2021 >}}
+{{< reflink paises-sin-cuarentena-desde-espana-verano-2021 >}}

@@ -185,9 +185,8 @@ oficial.](https://www.visitmorocco.com/es/destinos/tanger)
 
 **También en Marruecos:** 
 
-{{< reflink path=posts/2021/03/guia-esencial-que-ver-y-hacer-en-fez >}}. 
+{{< reflink guia-esencial-que-ver-y-hacer-en-fez >}}. 
 
-{{< reflink path=posts/2020/04/viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas 
->}}. 
+{{< reflink viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas >}}. 
 
-{{< reflink path=posts/2018/12/viaje-de-amigas-a-marrakech >}}.
+{{< reflink viaje-de-amigas-a-marrakech >}}.

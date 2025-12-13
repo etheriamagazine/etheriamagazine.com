@@ -154,13 +154,12 @@ Gaucho**, en Jerusalén no te pierdas **The Rooftop** y en Tel Aviv tienes que i
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2022/05/viaje-al-desierto-judea-israel >}} 
+{{< reflink viaje-al-desierto-judea-israel >}} 
 
-{{< reflink 
-path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}. 
+{{< reflink jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}. 
 
-{{< reflink path=posts/2020/01/que-llevar-en-la-maleta-en-un-viaje-a-jordania >}}. 
+{{< reflink que-llevar-en-la-maleta-en-un-viaje-a-jordania >}}. 
 
-{{< reflink path=posts/2019/08/viajes-cine-peliculas-rodadas-en-jordania >}}{{< reflink 
-path=posts/2019/08/viajes-cine-peliculas-rodadas-en-jordania >}}{{< reflink 
-path=posts/2019/08/viajes-cine-peliculas-rodadas-en-jordania >}}.
+[10 películas rodadas en Jo]({{% ref viajes-cine-peliculas-rodadas-en-jordania 
+%}})[r]({{% ref viajes-cine-peliculas-rodadas-en-jordania %}})[dania]({{% ref 
+viajes-cine-peliculas-rodadas-en-jordania %}}).

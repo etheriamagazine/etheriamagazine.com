@@ -152,8 +152,8 @@ Dirección: c/ Dormitalería. 31001 Pamplona
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/11/que-ver-y-donde-comer-pintxos-con-amigas-en-pamplona >}} 
+{{< reflink que-ver-y-donde-comer-pintxos-con-amigas-en-pamplona >}} 
 
-{{< reflink path=posts/2018/11/pamplona-un-idilio-entre-hemingway-y-el-cine >}} 
+{{< reflink pamplona-un-idilio-entre-hemingway-y-el-cine >}} 
 
-{{< reflink path=posts/2022/01/que-ver-en-catedral-de-toledo >}}
+{{< reflink que-ver-en-catedral-de-toledo >}}

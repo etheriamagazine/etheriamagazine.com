@@ -93,8 +93,9 @@ fuerza del sol africano y la de los volcanes.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/10/parques-naturales-de-america-latina >}}, 
+[10 parques naturales de América Latina con paisajes increíbles]({{% ref 
+parques-naturales-de-america-latina %}}), 
 
-{{< reflink path=posts/2020/03/10-paisajes-para-evadirte-desde-tu-casa >}}. 
+{{< reflink 10-paisajes-para-evadirte-desde-tu-casa >}}. 
 
-{{< reflink path=posts/2019/04/mejores-paisajes-instagram-espana >}}.
+{{< reflink mejores-paisajes-instagram-espana >}}.

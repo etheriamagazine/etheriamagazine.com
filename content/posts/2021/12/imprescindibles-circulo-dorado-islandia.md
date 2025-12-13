@@ -218,8 +218,8 @@ Dorado?
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/03/que-ver-sur-islandia-consejos-practicos >}}. 
+{{< reflink que-ver-sur-islandia-consejos-practicos >}}. 
 
-{{< reflink path=posts/2020/12/mejores-cataratas-del-mundo >}}. 
+{{< reflink mejores-cataratas-del-mundo >}}. 
 
-{{< reflink path=posts/2020/07/9-motivos-para-viajar-a-noruega >}}.
+{{< reflink 9-motivos-para-viajar-a-noruega >}}.

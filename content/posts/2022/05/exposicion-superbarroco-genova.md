@@ -112,8 +112,8 @@ Turismo de Génova (www.visitgenoa.it)
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}} 
+{{< reflink ruta-en-coche-en-lago-de-garda-italia >}} 
 
-{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}} 
+{{< reflink que-ver-en-turin-en-un-viaje-con-amigas >}} 
 
-{{< reflink path=posts/2020/08/10-grandes-viajes-a-italia >}}
+{{< reflink 10-grandes-viajes-a-italia >}}

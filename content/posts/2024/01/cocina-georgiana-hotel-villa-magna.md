@@ -92,6 +92,6 @@ recetas tradicionales que han sido transmitidas de generación en generación.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2023/10/guia-para-pedir-atun-en-cadiz >}}. 
+{{< reflink guia-para-pedir-atun-en-cadiz >}}. 
 
-{{< reflink path=posts/2023/12/productos-manchegos >}}.
+{{< reflink productos-manchegos >}}.

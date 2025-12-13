@@ -26,14 +26,14 @@ ideas para combinar varias localidades en las excursiones, pero esta región mer
 varios viajes para conocerla en profundidad. Seguro que cuando vuelvas ya estás pensado 
 en el siguiente. 
 
-Un buen punto de partida para un viaje por el centro de la Toscana es {{< reflink 
-path=posts/2018/05/48-horas-en-florencia-fin-de-semana-que-ver-hacer >}}, la gran ciudad 
-del arte. Aquí es imposible renunciar a una parada para descubrir su imponente catedral, 
-sus animadas calles, el maravilloso Ponte Vecchio y esas obras de arte que tenemos todos 
-en la retina gracias a los libros y que es un privilegio poder ver en persona: el David 
-de Miguel Ángel, los tesoros de la Galería de los Uffizi… Puede combinarse una estancia 
-en la ciudad con unas noches en alguno de los borgos y hoteles rurales que salpican toda 
-la Toscana, perfectos para realizar excursiones a los pueblos cercanos. 
+Un buen punto de partida para un viaje por el centro de la Toscana es [Florencia]({{% 
+ref 48-horas-en-florencia-fin-de-semana-que-ver-hacer %}}), la gran ciudad del arte. 
+Aquí es imposible renunciar a una parada para descubrir su imponente catedral, sus 
+animadas calles, el maravilloso Ponte Vecchio y esas obras de arte que tenemos todos en 
+la retina gracias a los libros y que es un privilegio poder ver en persona: el David de 
+Miguel Ángel, los tesoros de la Galería de los Uffizi… Puede combinarse una estancia en 
+la ciudad con unas noches en alguno de los borgos y hoteles rurales que salpican toda la 
+Toscana, perfectos para realizar excursiones a los pueblos cercanos. 
 
 ![Plaza de Duomo en Pisa](https://fotos.etheriamagazine.com/2018/05/TOSCANA-PISA-e1552555010206.jpg "Plaza del Duomo en Pisa. © SG")
 
@@ -174,8 +174,8 @@ lugar perfecto para realizar excursiones por los alrededores.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/09/como-hacer-la-ruta-puccini-en-la-toscana-italia >}} 
+{{< reflink como-hacer-la-ruta-puccini-en-la-toscana-italia >}} 
 
-{{< reflink path=posts/2019/02/que-ver-en-lucca >}} 
+{{< reflink que-ver-en-lucca >}} 
 
-{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}
+{{< reflink paseos-por-los-jardines-mas-bellos-de-florencia >}}

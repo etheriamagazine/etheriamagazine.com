@@ -88,10 +88,10 @@ polémicas.
 Podría parecer que los molinos manchegos lo eclipsan todo en este pueblo, sin embargo, 
 unas empedradas y laberínticas callejuelas árabes forman una suerte de espejismo 
 mediterráneo en el corazón de Campo de Criptana. Sus casas blanquiazules nos trasladan 
-por un momento hasta la tunecina {{< reflink 
-path=posts/2018/05/tunez-en-coche-desde-la-capital-al-desierto >}} y a los {{< reflink 
-path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}}, pero con los encantos 
-propios de Castilla-La Mancha. 
+por un momento hasta la tunecina [Sidi Bou Said]({{% ref 
+tunez-en-coche-desde-la-capital-al-desierto %}}) y a los [Pueblos Blancos de Cádiz]({{% 
+ref ruta-por-los-pueblos-blancos-de-cadiz %}}), pero con los encantos propios de 
+Castilla-La Mancha. 
 
 ![Albaicín Criptano.](https://fotos.etheriamagazine.com/2019/04/campo-criptana-albaicin-molinos.jpg "Albaicín Criptano. © Sergio Sánchez M.")
 
@@ -160,8 +160,8 @@ delicioso que no puedes dejar escapar.
 En las **Bodegas y Viñedos Castiblanque** (bodegascastiblanque.com) de Campo de Criptana 
 podrás vivir una divertida experiencia vinícola con catas, degustaciones y vendimia, 
 pero si quieres dedicar más tiempo al enoturismo, te recomendamos que eches un vistazo a 
-esta {{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha >}} para inspirarte, 
-¡estamos en la región con el **viñedo más grande del mundo**! 
+esta [Ruta del Vino por La Mancha]({{% ref ruta-del-vino-de-la-mancha %}}) para 
+inspirarte, ¡estamos en la región con el **viñedo más grande del mundo**! 
 
 ## Guía práctica de Campo de Criptana
 

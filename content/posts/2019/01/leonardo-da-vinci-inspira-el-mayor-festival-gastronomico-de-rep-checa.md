@@ -45,4 +45,4 @@ Si tienes previsto viajar a Chequia, toma nota de algunas recomendaciones public
 
 [• Café Quisisana (Karlovy Vary)](https://www.quisisana-palace.com/en/restaurant/). Esta cafetería de estilo vienés y cocina moderna ofrece platos ideales para el _brunch_ o para almuerzos.
 
-Una última recomendación es continuar tu viaje por la Suiza Bohemia para conocer los {{< reflink path=posts/2018/12/10-estampas-romanticas-de-republica-checa >}}.
+Una última recomendación es continuar tu viaje por la Suiza Bohemia para conocer los [lugares más románticos de República Checa]({{% ref 10-estampas-romanticas-de-republica-checa %}}).

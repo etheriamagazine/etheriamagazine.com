@@ -92,8 +92,8 @@ de París (es.parisinfo.com) o en la de Francia.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/05/viajar-sola-que-ver-paris >}}. 
+{{< reflink viajar-sola-que-ver-paris >}}. 
 
-{{< reflink path=posts/2021/11/que-visitar-en-orleans-francia >}}. 
+{{< reflink que-visitar-en-orleans-francia >}}. 
 
-{{< reflink path=posts/2021/09/viajes-de-compras-y-ciudades-de-shopping >}}.
+{{< reflink viajes-de-compras-y-ciudades-de-shopping >}}.

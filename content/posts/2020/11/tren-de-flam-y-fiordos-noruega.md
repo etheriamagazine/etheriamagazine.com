@@ -156,8 +156,8 @@ best](https://www.norwaysbest.com/es/el-tren-de-flam/viaje-de-ida-y-vuelta-con-e
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/12/razones-para-viajar-a-noruega >}} 
+{{< reflink razones-para-viajar-a-noruega >}} 
 
-{{< reflink path=posts/2020/08/prepara-tu-viaje-libros-series-de-noruega >}} 
+{{< reflink prepara-tu-viaje-libros-series-de-noruega >}} 
 
-{{< reflink path=posts/2020/01/que-ver-en-noruega-trondheim-bergen-y-oslo >}}
+{{< reflink que-ver-en-noruega-trondheim-bergen-y-oslo >}}

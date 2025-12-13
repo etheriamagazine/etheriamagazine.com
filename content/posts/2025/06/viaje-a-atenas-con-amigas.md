@@ -48,10 +48,10 @@ tiendas en las calles Ermou y Kolonaki.
 ![Antigüedades cerca de la plaza de Monastiraki.](https://fotos.etheriamagazine.com/2025/06/atenas-mercadillo.jpg "Antigüedades cerca de la plaza de Monastiraki. © Susana García")
 
 Pegado a esta zona está el pintoresco barrio de **Anafiotika**, famoso por sus casas 
-blancas y puertas azules que recuerdan a un pueblo de las {{< reflink 
-path=posts/2020/10/descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas 
->}}. Aquí os podréis hacer las mejores fotos de día y de noche disfrutar en sus 
-numerosos restaurantes con terraza y música en directo. 
+blancas y puertas azules que recuerdan a un pueblo de las [islas Cícladas]({{% ref 
+descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas %}}). Aquí os 
+podréis hacer las mejores fotos de día y de noche disfrutar en sus numerosos 
+restaurantes con terraza y música en directo. 
 
 ## La siempre presente Acrópolis
 
@@ -230,10 +230,8 @@ faltar gorra, crema solar y botella de agua.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2025/05/delfos-excursion-desde-atenas >}} 
+{{< reflink delfos-excursion-desde-atenas >}} 
 
-{{< reflink path=posts/2025/04/nauplia-secreto-peloponeso >}} 
+{{< reflink nauplia-secreto-peloponeso >}} 
 
-{{< reflink 
-path=posts/2020/10/descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas 
->}}
+{{< reflink descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas >}}

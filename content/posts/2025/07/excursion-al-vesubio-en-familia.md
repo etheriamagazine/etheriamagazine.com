@@ -195,6 +195,6 @@ Vesubio](https://www.parconazionaledelvesuvio.it/visita-il-parco/i-sentieri-del-
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}} 
+{{< reflink que-ver-en-napoles-en-fin-de-semana >}} 
 
-{{< reflink path=posts/2025/02/viaje-romantico-costa-amalfitana >}}
+{{< reflink viaje-romantico-costa-amalfitana >}}

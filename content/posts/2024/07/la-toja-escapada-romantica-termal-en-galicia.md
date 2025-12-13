@@ -130,12 +130,12 @@ crianza de seis meses.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/10/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja >}} 
-(también hay buenas ideas para excursiones de sólo adultos). 
+[8 planes con niños en la costa de Pontevedra]({{% ref 
+8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja %}}) (también hay buenas ideas para 
+excursiones de sólo adultos). 
 
-{{< reflink path=posts/2021/01/historia-de-san-simon-la-isla-gallega-de-las-cuarentenas 
->}}. 
+{{< reflink historia-de-san-simon-la-isla-gallega-de-las-cuarentenas >}}. 
 
-{{< reflink path=posts/2020/11/comer-en-vigo-mejores-restaurantes-furanchos >}} 
+{{< reflink comer-en-vigo-mejores-restaurantes-furanchos >}} 
 
-{{< reflink path=posts/2020/08/excursion-isla-de-ons-como-llegar-que-ver >}}.
+{{< reflink excursion-isla-de-ons-como-llegar-que-ver >}}.

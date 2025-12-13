@@ -44,7 +44,8 @@ para poder conocer varias playas y llegar a algunas de difícil acceso por tierr
 permanecen desiertas incluso en temporada alta. Y, por supuesto, aprovecha para conocer 
 lugares llenos de interés histórico y cultural como Dubrovnik, Split o Zadar. 
 
-✅ {{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}} 
+✅ [Croacia: consejos y visitas imprescindibles para tu primer viaje]({{% ref 
+viaje-a-croacia-como-organizar-que-ver-hacer %}}) 
 
 ## Costa Azul
 
@@ -58,7 +59,8 @@ Algunas de las más visitas son la de Pampelonne (Saint-Tropez), la playa de l'A
 extensas playas de Niza y Cannes, perfectas para practicar deportes acuáticos en unas 
 ciudades donde te aseguramos que no te vas a aburrir. 
 
-✅ {{< reflink path=posts/2021/09/guia-viaje-costa-azul-en-coche-y-con-amigas >}} 
+✅ [Costa Azul en coche y con amigas, ¿se te ocurre una propuesta mejor?]({{% ref 
+guia-viaje-costa-azul-en-coche-y-con-amigas %}}) 
 
 ![Playa de la Gravette, en Antibes.](https://fotos.etheriamagazine.com/2024/04/costa-azul-antibes-playa-gravette.jpg "Playa de la Gravette, en Antibes.")
 
@@ -86,7 +88,8 @@ para pasar las vacaciones combinando las jornadas en la playa con la visita a pu
 como Albufeira, Lagos o Tavira o a parajes naturales como el cabo de San Vicente o el 
 Parque Natural de Ría Formosa. 
 
-✅ {{< reflink path=posts/2022/08/mejores-playas-del-algarve >}} 
+✅ [¿Son éstas las 10 playas más bonitas del Algarve?]({{% ref mejores-playas-del-algarve 
+%}}) 
 
 ![Playa de Ponta Ruiva, en el Algarve.](https://fotos.etheriamagazine.com/2024/04/portugal-playa-Ponta-Ruiva-algarve.jpg "Playa de Ponta Ruiva, en el Algarve.")
 
@@ -114,7 +117,8 @@ igual de transparente, bosques a pie de playa y dunas salvajes. Otra buena opci�
 acercarse al **archipiélago de la Magdalena**, algo más al norte, donde en tan solo 
 veinte minutos de ferry llegas a playas de esas que sólo parecen estar en los anuncios. 
 
-✅ {{< reflink path=posts/2018/09/viaje-chicas-isla-cerdena-italia >}} 
+✅ [Ruta en coche por Cerdeña, un plan irrechazable]({{% ref 
+viaje-chicas-isla-cerdena-italia %}}) 
 
 ![Cala di Volpe, en la zona de la Costa Esmeralda de Cerdeña.](https://fotos.etheriamagazine.com/2024/04/cala-di-volpe-cedena.jpg "Cala di Volpe, en la zona de la Costa Esmeralda de Cerdeña. © Nicolo Canu.")
 
@@ -143,7 +147,8 @@ esta costa son Bubva, donde, además de su playa urbana, te puedes acercar a las
 de Jaz, Kemenovo o Trsteno. También merece la pena tomar el ferry desde esta localidad 
 para ir a la isla de San Nicolás y disfrutar de una playa preciosa de arena blanca. 
 
-✅ {{< reflink path=posts/2020/06/viajar-sola-que-ver-hacer-en-costa-de-montenegro >}} 
+✅ [Viajar sola a la costa de Montenegro: 6 lugares imprescindibles]({{% ref 
+viajar-sola-que-ver-hacer-en-costa-de-montenegro %}}) 
 
 ![Playa de Buvda, en Montenegro.](https://fotos.etheriamagazine.com/2024/04/montenegro-playa-buvda.jpg "Playa de Buvda, en Montenegro. © Nemanja Vlaovic.")
 
@@ -157,7 +162,7 @@ ix-Xini, con un agua que no puede ser más transparente. No te pierdas la Gruta 
 Calipso, los templos de Ggantija y una excursión al maravilloso Blue Lagoon de la vecina 
 isla de Comino. 
 
-✅ {{< reflink path=posts/2021/04/que-ver-hacer-gozo-malta >}} 
+✅ [Gozo, una isla donde querrás quedarte a vivir]({{% ref que-ver-hacer-gozo-malta %}}) 
 
 ![Desde Gozo hay que visitar el Blue Lagoon, en la cercana isla de Comino.](https://fotos.etheriamagazine.com/2024/04/playa-Blue-Lagoon-Comino.jpg "Desde Gozo hay que visitar el Blue Lagoon, en la cercana isla de Comino. © Pepa García.")
 
@@ -176,6 +181,7 @@ Gjipe o, si eres amante del surf, la playa de Palasa.
 
 **Además de las costas de Europa, también te puede interesar:** 
 
-{{< reflink path=posts/2019/04/10-playas-secretas-de-europa >}} 
+{{< reflink 10-playas-secretas-de-europa >}} 
 
-{{< reflink path=posts/2019/07/mejores-10-playas-del-mundo >}}
+[10 playas del mundo donde te quedarías a vivir]({{% ref mejores-10-playas-del-mundo 
+%}})

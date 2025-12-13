@@ -122,8 +122,8 @@ desbordada.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/11/que-visitar-en-orleans-francia >}} 
+{{< reflink que-visitar-en-orleans-francia >}} 
 
-{{< reflink path=posts/2021/09/guia-viaje-costa-azul-en-coche-y-con-amigas >}} 
+{{< reflink guia-viaje-costa-azul-en-coche-y-con-amigas >}} 
 
-{{< reflink path=posts/2021/08/valle-del-loira-entre-castillos-y-jardines >}}
+{{< reflink valle-del-loira-entre-castillos-y-jardines >}}

@@ -183,7 +183,6 @@ Gastro. Su autor es el fotógrafo Javier Peñas.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/04/viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas 
->}}. 
+{{< reflink viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas >}}. 
 
-{{< reflink path=posts/2018/12/viaje-de-amigas-a-marrakech >}}.
+{{< reflink viaje-de-amigas-a-marrakech >}}.

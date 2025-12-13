@@ -199,8 +199,8 @@ consejos para preparar vuestro viaje en [Turismo de París](https://es.parisinfo
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/06/planes-paris-con-amigas >}} 
+{{< reflink planes-paris-con-amigas >}} 
 
-{{< reflink path=posts/2018/08/viaje-de-compras-le-marais-paris >}} 
+{{< reflink viaje-de-compras-le-marais-paris >}} 
 
-{{< reflink path=posts/2018/11/plaza-athenee-un-hotel-de-ensueno-en-paris >}}
+{{< reflink plaza-athenee-un-hotel-de-ensueno-en-paris >}}

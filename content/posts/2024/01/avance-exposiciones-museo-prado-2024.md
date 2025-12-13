@@ -115,7 +115,8 @@ cuyas vidas se sitúan entre las reinas Isabel de Borbón y Mariana de Neoburgo
 
 **Cuándo:** sin determinar. 
 
-✅ **Seguir leyendo:** {{< reflink path=posts/2022/12/el-prado-en-femenino-2023 >}}. 
+✅ **Seguir leyendo:** [1ª edición de 'El Prado en femenino']({{% ref 
+el-prado-en-femenino-2023 %}}). 
 
 ![Sala con la exposición 'Reversos'.](https://fotos.etheriamagazine.com/2024/01/exposicion-reversos-museo-prado.jpg "Sala con la exposición 'Reversos'. © Museo Nacional del Prado")
 
@@ -127,8 +128,8 @@ posible realizar el itinerario ‘**Los marcos del Museo del Prado**’, con el 
 destaca la significativa importancia del marco como objeto artístico. 
 
 Sin duda, el Museo del Prado en 2024 es una cita imprescindible si viajáis a Madrid. No 
-os perdáis sus obras maestras en un {{< reflink 
-path=posts/2019/09/15-obras-imprescindibles-en-el-prado >}}. 
+os perdáis sus obras maestras en un [recorrido sencillo que puedes completar en pocas 
+horas]({{% ref 15-obras-imprescindibles-en-el-prado %}}). 
 
 ## Preguntas frecuentes
 

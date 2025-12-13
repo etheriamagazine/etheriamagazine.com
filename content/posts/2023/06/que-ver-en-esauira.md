@@ -202,8 +202,8 @@ Civitatis](https://www.civitatis.com/es/esauira/tour-quad-paseo-camello/?aid=102
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/05/por-que-viajar-casablanca-marrakech >}} 
+{{< reflink por-que-viajar-casablanca-marrakech >}} 
 
-{{< reflink path=posts/2021/03/guia-esencial-que-ver-y-hacer-en-fez >}} 
+{{< reflink guia-esencial-que-ver-y-hacer-en-fez >}} 
 
-{{< reflink path=posts/2022/08/que-ver-tanger-con-amigas >}}
+{{< reflink que-ver-tanger-con-amigas >}}

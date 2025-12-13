@@ -122,8 +122,8 @@ pasar páginas que caracteriza a los libros top en ventas. Existen [visitas
 guiadas](https://www.civitatis.com/es/barcelona/tour-catedral-mar/?aid=10211) que 
 llevan, además de por esta basílica, por lugares como el barrio de la Ribera, las calles 
 de edificios señoriales de Argenteria y Montcada y la Plaza Nueva. Este libro fue 
-adaptado en forma de serie, de la que ya hablamos en el artículo {{< reflink 
-path=posts/2018/08/turismo-de-cine-catedral-del-mar >}}. 
+adaptado en forma de serie, de la que ya hablamos en el artículo [8 localizaciones de La 
+Catedral del Mar]({{% ref turismo-de-cine-catedral-del-mar %}}). 
 
 ![Libro de la Trilogía de la ciudad blanca y Plaza de la Virgen Blanca en Vitoria.](https://fotos.etheriamagazine.com/2020/04/rutas-literarias-vitoria.jpg "Plaza de la Virgen Blanca en Vitoria.")
 
@@ -153,4 +153,4 @@ abarca toda la ciudad y sirve como la mejor guía de viajes.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/04/nuevo-libro-joan-roca-cocina-madre >}}.
+{{< reflink nuevo-libro-joan-roca-cocina-madre >}}.

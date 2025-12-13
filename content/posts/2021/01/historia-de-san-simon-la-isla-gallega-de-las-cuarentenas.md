@@ -139,5 +139,5 @@ Más información en **Turismo de Vigo** (turismodevigo.org) y **Turismo de Gali
 **Sigue leyendo en Etheria Magazine** 
 
 Aprovecha el viaje a las Rías Baixas para seguir nuestro particular recorrido 
-gastronómico: {{< reflink 
-path=posts/2020/11/comer-en-vigo-mejores-restaurantes-furanchos >}}.
+gastronómico: [Ruta gastronómica en Vigo: mejores bares y restaurantes]({{% ref 
+comer-en-vigo-mejores-restaurantes-furanchos %}}).

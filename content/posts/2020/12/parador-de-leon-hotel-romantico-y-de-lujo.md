@@ -158,8 +158,8 @@ Marcos, 7. León. Tel. +34 987237300 Precio de habitación doble para dos person
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/12/16-lugares-secretos-y-leyendas-de-leon-capital >}} 
+{{< reflink 16-lugares-secretos-y-leyendas-de-leon-capital >}} 
 
-{{< reflink path=posts/2018/09/48-horas-en-leon >}}. 
+{{< reflink 48-horas-en-leon >}}. 
 
 Fotografías cedidas por © Paradores.

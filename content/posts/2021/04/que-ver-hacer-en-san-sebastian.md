@@ -162,15 +162,13 @@ cambiad al de al lado si el que os han recomendado está lleno, en todos hay alg
 #### Hoteles emblemáticos de San Sebastián
 
 Si puedes, date un capricho y alójate en el [Hotel María 
-Cristina]({{% ref hotel-maria-cristina-san-sebastian %}}). 
+Cristina](http://etheriamagazine.com/2018/07/21/hotel-maria-cristina-san-sebastian/). 
 Elegante, bien ubicado y con el aura que han dejado las estrellas de cine que han pasado 
 por sus habitaciones cuando han acudido al famoso Festival de Cine de la ciudad. También 
-puedes alojarte en el {{< reflink 
-path=posts/2020/06/hotel-mercure-san-sebastian-monte-igueldo-con-vistas-de-donostia 
->}}{{< reflink 
-path=posts/2020/06/hotel-mercure-san-sebastian-monte-igueldo-con-vistas-de-donostia 
->}}{{< reflink 
-path=posts/2020/06/hotel-mercure-san-sebastian-monte-igueldo-con-vistas-de-donostia >}} 
+puedes alojarte en el [Mercure San Seba]({{% ref 
+hotel-mercure-san-sebastian-monte-igueldo-con-vistas-de-donostia %}})[s]({{% ref 
+hotel-mercure-san-sebastian-monte-igueldo-con-vistas-de-donostia %}})[tián Monte 
+Igueldo]({{% ref hotel-mercure-san-sebastian-monte-igueldo-con-vistas-de-donostia %}}) 
 que ofrece unas vistas increíbles. 
 
 Si se alarga el fin de semana se puede realizar un salto a Francia para visitar **San 
@@ -178,10 +176,8 @@ Juan de Luz**, una bella ciudad marinera llena de historia.
 
 ### También en el País Vasco
 
-{{< reflink 
-path=posts/2019/11/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas 
->}} 
+[Descubre los mejores bares de pintxos de San Sebastián para ir con amigas.]({{% ref 
+de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas %}}) 
 
-{{< reflink 
-path=posts/2020/08/que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare 
+{{< reflink que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare 
 >}}

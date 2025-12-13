@@ -242,9 +242,8 @@ completa](https://elpais.com/diario/2002/05/04/babelia/1020469818_850215.html)).
 
 ### También te puede interesar...
 
-{{< reflink 
-path=posts/2021/08/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy >}}. 
+{{< reflink balnearios-republica-checa-karlovy-vary-marianske-frantiskovy >}}. 
 
-{{< reflink path=posts/2021/12/que-ver-en-karlovy-vary-la-ciudad-balnearia-checa >}}. 
+{{< reflink que-ver-en-karlovy-vary-la-ciudad-balnearia-checa >}}. 
 
-{{< reflink path=posts/2018/12/10-estampas-romanticas-de-republica-checa >}}.
+{{< reflink 10-estampas-romanticas-de-republica-checa >}}.

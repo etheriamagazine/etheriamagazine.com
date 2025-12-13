@@ -21,8 +21,8 @@ viaja sola, también tendrás algún consejo extra.
 Un viaje a Jordania es uno de esos deseos acariciados por una gran mayoría de viajeros 
 durante toda su vida. Es también un anhelo que se gesta poco a poco. La primera semilla 
 la siembra el cine y la literatura, ya que la lista de filmes y de libros con escenarios 
-jordanos son casi infinitos (aquí puedes ver una {{< reflink 
-path=posts/2019/08/viajes-cine-peliculas-rodadas-en-jordania >}}). En segundo lugar es 
+jordanos son casi infinitos (aquí puedes ver una [lista de 10 películas rodadas en 
+Jordania]({{% ref viajes-cine-peliculas-rodadas-en-jordania %}})). En segundo lugar es 
 la curiosidad por conocer Petra, una de las _7 Maravillas del mundo moderno_. Y, por 
 último, hay que añadir el deseo de aventura y de acercarse a una cultura diferente a la 
 nuestra. 
@@ -252,4 +252,4 @@ recomendación no dudes en escribirnos a info@etheriamagazine.com.
 
 #### También te puede interesar...
 
-##### • {{< reflink path=posts/2020/01/que-llevar-en-la-maleta-en-un-viaje-a-jordania >}}.
+##### • [Qué llevar en la maleta en un viaje a Jordania]({{% ref que-llevar-en-la-maleta-en-un-viaje-a-jordania %}}).

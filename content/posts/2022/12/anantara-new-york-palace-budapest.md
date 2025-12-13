@@ -96,6 +96,7 @@ Budapest. Tel. +34 911224186
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/10/que-ver-viaje-amigas-budapest-en-3-dias >}} 
+{{< reflink que-ver-viaje-amigas-budapest-en-3-dias >}} 
 
-{{< reflink path=posts/2021/12/mercadillos-de-navidad-en-budapest >}}
+[Navidad en Budapest, 7 planes y una recomendación para triunfar]({{% ref 
+mercadillos-de-navidad-en-budapest %}})

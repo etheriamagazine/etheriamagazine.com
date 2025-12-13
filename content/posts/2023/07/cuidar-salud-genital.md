@@ -136,7 +136,6 @@ e intensos.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2022/11/juguetes-sexuales-de-viaje >}}. 
+{{< reflink juguetes-sexuales-de-viaje >}}. 
 
-{{< reflink 
-path=posts/2020/11/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}}
+{{< reflink personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}}

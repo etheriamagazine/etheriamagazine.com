@@ -230,10 +230,10 @@ Positano que siempre merecen una visita. Y, desde Nápoles, si puede hacer tambi
 excursión a la preciosa **isla de Capri**. Te dejamos unos links con otros reportajes de 
 Etheria Magazine dedicados por completo a estos destinos: 
 
-{{< reflink path=posts/2025/07/excursion-al-vesubio-en-familia >}} 
+{{< reflink excursion-al-vesubio-en-familia >}} 
 
-{{< reflink path=posts/2025/07/que-ver-en-pompeya >}} 
+{{< reflink que-ver-en-pompeya >}} 
 
-{{< reflink path=posts/2025/02/viaje-romantico-costa-amalfitana >}} 
+{{< reflink viaje-romantico-costa-amalfitana >}} 
 
-{{< reflink path=posts/2019/01/capri-la-isla-del-amor-de-pablo-neruda >}}
+{{< reflink capri-la-isla-del-amor-de-pablo-neruda >}}

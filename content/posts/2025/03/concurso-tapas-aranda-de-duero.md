@@ -150,8 +150,6 @@ tapas más votadas.
 
 **También te puede interesar:** 
 
-{{< reflink 
-path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
->}} 
+{{< reflink viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon >}} 
 
-{{< reflink path=posts/2024/12/museo-de-los-aromas-burgos >}}
+{{< reflink museo-de-los-aromas-burgos >}}

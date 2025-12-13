@@ -187,8 +187,8 @@ conocer los atractivos de este barrio y, de paso, también la variada gastronom�
 concentran en sus calles. 
 
 ✅ En este artículo encontrarás las visitas imprescindibles de Usera y los restaurantes 
-que le han dado fama: {{< reflink 
-path=posts/2022/02/ruta-turistica-usera-chinatown-madrileno >}}. Como aperitivo te 
+que le han dado fama: [Ruta turístico-gastronómica por el Chinatown madrileño, del arte 
+al plato]({{% ref ruta-turistica-usera-chinatown-madrileno %}}). Como aperitivo te 
 recomendamos tres que son idóneos para distintos tipos de comensales: 
 
 ### Hong Kong 70 in Chinatown
@@ -221,6 +221,6 @@ Consulta toda la programación completa en
 
 **También te puede interesar...**[](http://www.madridchino.com/) 
 
-{{< reflink path=posts/2022/12/planes-adolescentes-madrid >}} 
+{{< reflink planes-adolescentes-madrid >}} 
 
-{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}}.
+{{< reflink tabernas-historicas-de-madrid >}}.

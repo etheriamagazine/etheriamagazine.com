@@ -178,6 +178,6 @@ DK](https://clk.tradedoubler.com/click?p=70431&a=3132464&g=17376810&url=https://
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/07/que-ver-buenos-aires-belle-epoque-viajar-sola >}} 
+{{< reflink que-ver-buenos-aires-belle-epoque-viajar-sola >}} 
 
-{{< reflink path=posts/2021/10/parques-naturales-de-america-latina >}}
+{{< reflink parques-naturales-de-america-latina >}}

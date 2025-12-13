@@ -191,8 +191,8 @@ chuletón y el queso Idiazabal con nueces y membrillo.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/04/que-ver-hacer-en-san-sebastian >}} 
+{{< reflink que-ver-hacer-en-san-sebastian >}} 
 
-{{< reflink 
-path=posts/2021/05/hondalea-escultura-de-cristina-iglesias-en-faro-de-la-isla-de-santa-clara 
->}}
+[‘Hondalea’, la escultura de Cristina Iglesias que ilumina el faro de la isla de Santa 
+Clara]({{% ref hondalea-escultura-de-cristina-iglesias-en-faro-de-la-isla-de-santa-clara 
+%}})

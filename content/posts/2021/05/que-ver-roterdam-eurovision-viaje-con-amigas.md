@@ -239,7 +239,6 @@ colección de ginebras de toda Europa.
 
 ### Sigue leyendo...
 
-{{< reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-amsterdam >}}. 
+{{< reflink viajar-sola-que-ver-hacer-dormir-amsterdam >}}. 
 
-{{< reflink path=posts/2019/11/que-ver-en-leiden-holanda-ruta-de-rembrandt-por-libre 
->}}.
+{{< reflink que-ver-en-leiden-holanda-ruta-de-rembrandt-por-libre >}}.

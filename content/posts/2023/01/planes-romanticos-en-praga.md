@@ -149,11 +149,10 @@ ni alguna internacional y una decoración maravillosa.
 
 📌 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/05/viaje-en-familia-moravia-del-sur-praga-republica-checa 
->}}. 
+{{< reflink viaje-en-familia-moravia-del-sur-praga-republica-checa >}}. 
 
-{{< reflink path=posts/2022/08/que-ver-brno-chequia >}}. 
+{{< reflink que-ver-brno-chequia >}}. 
 
-{{< reflink path=posts/2023/01/valle-cristal-republica-checa >}}. 
+{{< reflink valle-cristal-republica-checa >}}. 
 
-{{< reflink path=posts/2021/12/que-ver-en-karlovy-vary-la-ciudad-balnearia-checa >}}.
+{{< reflink que-ver-en-karlovy-vary-la-ciudad-balnearia-checa >}}.

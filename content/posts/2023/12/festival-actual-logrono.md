@@ -33,9 +33,9 @@ también hacerlo aún más visible en su vertiente cultural. Las numerosas activ
 festival no sólo se distribuyen en los lugares habituales de la agenda anual de la 
 capital riojana como el Palacio de los Deportes, el Palacio de Congresos y el Auditorio 
 de La Rioja, Riojaforum, la Filmoteca Rafael Azcona o el Teatro Bretón. También se 
-llevan a cabo en ubicaciones especiales como {{< reflink 
-path=posts/2023/06/bodegas-franco-espanolas-noches-vino-cine >}}, La Gota de Leche, el 
-Círculo Logroñés o el Cubo del Revellín, entre otras. 
+llevan a cabo en ubicaciones especiales como [Bodegas Franco-Españolas]({{% ref 
+bodegas-franco-espanolas-noches-vino-cine %}}), La Gota de Leche, el Círculo Logroñés o 
+el Cubo del Revellín, entre otras. 
 
 ![Valeria Castro, que estuvo nominada en los Latin Grammy 2023, actuará en el Festival Actual.](https://fotos.etheriamagazine.com/2023/12/Valeria-Castro.jpg "Valeria Castro, que estuvo nominada en los Latin Grammy 2023, actuará en el Festival Actual.")
 
@@ -152,5 +152,5 @@ Logroño](https://actualfestival.com/).
 
 \*Fotos cedidas por Festival Actual. 
 
-**También te puede interesar**: {{< reflink 
-path=posts/2020/10/viaje-la-rioja-vendimia-valle-de-ocon >}}.
+**También te puede interesar**: [Escapada al valle secreto de Ocón, un pellizco de La 
+Toscana en La Rioja]({{% ref viaje-la-rioja-vendimia-valle-de-ocon %}}).

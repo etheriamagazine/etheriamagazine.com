@@ -131,9 +131,9 @@ km por el Parque Arqueolóxico de Arte Rupestre Campo Lameiro quedarás fascinad
 magia que esconde el paisaje gallego. Fíjate en los petroglifos de Outeiro dos Cogoludos 
 y Laxe dos Cabalos donde se repiten las escenas de hombres montados a caballo. 
 
-Aprovecha que estás al pie del {{< reflink 
-path=posts/2019/03/camino-de-finisterre-fairway >}} y acércate también hasta la catedral 
-de Santiago, situada apenas a media hora de Sabucedo. 
+Aprovecha que estás al pie del [Camino de Santiago]({{% ref camino-de-finisterre-fairway 
+%}}) y acércate también hasta la catedral de Santiago, situada apenas a media hora de 
+Sabucedo. 
 
 ![rapa das bestas, fiestas de verano en galicia](https://fotos.etheriamagazine.com/2019/06/Caballos-rapa-das-bestas.jpg "Caballos o bestas.")
 
@@ -170,8 +170,8 @@ Galicia.](http://www.turismo.gal/recurso/-/detalle/fi-po-000012/a-rapa-das-besta
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/07/camino-de-santiago-ria-de-muros-noia-en-velero >}} 
+{{< reflink camino-de-santiago-ria-de-muros-noia-en-velero >}} 
 
-{{< reflink path=posts/2021/06/planes-en-la-ribeira-sacra-con-amigas >}} 
+{{< reflink planes-en-la-ribeira-sacra-con-amigas >}} 
 
-{{< reflink path=posts/2024/07/la-toja-escapada-romantica-termal-en-galicia >}}
+{{< reflink la-toja-escapada-romantica-termal-en-galicia >}}

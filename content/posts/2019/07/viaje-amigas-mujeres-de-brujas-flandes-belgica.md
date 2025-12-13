@@ -170,6 +170,6 @@ para creer en su poder romántico y en ‘la vida borgoñona’.
 
 ### También te puede interesar
 
-{{< reflink path=posts/2021/03/que-ver-hacer-otros-planes-en-bruselas-y-flandes >}} 
+{{< reflink que-ver-hacer-otros-planes-en-bruselas-y-flandes >}} 
 
-{{< reflink path=posts/2020/03/que-ver-y-hacer-en-luxemburgo-en-3-dias-con-amigas >}}
+{{< reflink que-ver-y-hacer-en-luxemburgo-en-3-dias-con-amigas >}}

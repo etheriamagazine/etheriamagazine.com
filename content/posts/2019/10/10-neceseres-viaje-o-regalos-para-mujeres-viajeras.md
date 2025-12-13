@@ -86,6 +86,5 @@ bolsas GCOA](https://amzn.to/2op7XFh). Se puede elegir entre azul/rojo o rosa/ve
 
 ## También te puede interesar:
 
-{{< reflink 
-path=posts/2020/05/10-productos-basicos-para-un-neceser-de-viajes-de-mujer-seguro-y-con-estilo 
+{{< reflink 10-productos-basicos-para-un-neceser-de-viajes-de-mujer-seguro-y-con-estilo 
 >}}

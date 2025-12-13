@@ -203,11 +203,10 @@ D5/E50) En tren, 2 horas y 20 minutos
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/05/viajar-sola-a-republica-checa-visitas-y-consejos >}}. 
+{{< reflink viajar-sola-a-republica-checa-visitas-y-consejos >}}. 
 
-{{< reflink path=posts/2018/12/10-estampas-romanticas-de-republica-checa >}}. 
+{{< reflink 10-estampas-romanticas-de-republica-checa >}}. 
 
-{{< reflink path=posts/2019/05/viaje-en-familia-moravia-del-sur-praga-republica-checa 
->}}. 
+{{< reflink viaje-en-familia-moravia-del-sur-praga-republica-checa >}}. 
 
-{{< reflink path=posts/2020/10/13-castillos-mas-misteriosos-de-republica-checa >}}.
+{{< reflink 13-castillos-mas-misteriosos-de-republica-checa >}}.

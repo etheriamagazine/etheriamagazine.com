@@ -207,6 +207,7 @@ Orientales](https://www.turismo-pirineosorientales.es/).
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/03/viajes-mujeres-que-ver-en-perpinan-y-collioure >}} 
+{{< reflink viajes-mujeres-que-ver-en-perpinan-y-collioure >}} 
 
-{{< reflink path=posts/2023/10/que-ver-argeles-sur-mer-francia >}}
+[Argelès-sur-Mer, 9 experiencias para enamorarte de esta comuna francesa]({{% ref 
+que-ver-argeles-sur-mer-francia %}})

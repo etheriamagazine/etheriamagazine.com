@@ -39,7 +39,8 @@ tampoco sus iglesias románicas, sus vestigios romanos ni el castillo de Argües
 surge imponente en un paisaje verde profundo. Si eres amante del arte te desvelamos una 
 pequeña joya: los frescos del presbiterio de la iglesia de Santa Olalla. 
 
-📌 {{< reflink path=posts/2021/06/que-ver-en-valle-de-valdeolea-cantabria >}}. 
+📌 [Valle de Valdeolea, 9 rituales para descubrir la esencia del sur de Cantabria]({{% 
+ref que-ver-en-valle-de-valdeolea-cantabria %}}). 
 
 ![Castillo de Argüeso, en Valdeolea.](https://fotos.etheriamagazine.com/2021/09/puente-otono-castillo-valdeolea.jpg "Castillo de Argüeso, en Valdeolea.")
 
@@ -54,7 +55,8 @@ río Sil, perfecto para dar paseos en barco o zodiac, y con la Casa Museo de Cho
 Teimende. Como este viaje tiene de todo, también hay un espacio para el arte en sus 
 iglesias románicas y en el Castillo de Castro Calderas. 
 
-📌 {{< reflink path=posts/2021/06/planes-en-la-ribeira-sacra-con-amigas >}}. 
+📌 [Planes en la Ribeira Sacra para descubrir sus mayores secretos]({{% ref 
+planes-en-la-ribeira-sacra-con-amigas %}}). 
 
 ![Paseo en zodiac por la Ribeira Sacra.](https://fotos.etheriamagazine.com/2021/09/puente-otono-ribeira-sacra-zodiac.jpg "Paseo en zodiac por la Ribeira Sacra. © Cynthia M.")
 
@@ -66,12 +68,13 @@ que te apetece repetir: una **ruta para descubrir los secretos ocultos del acued
 Segovia**. Una excusa perfecta para disfrutar de la naturaleza a través de un camino que 
 lleva por 16 kilómetros desde el azud del valle de la Acebeda, en la sierra de 
 Guadarrama, hasta el Alcázar de la capital segoviana. Y, si quieres completar tu 
-escapada, tienes que echar un ojo al artículo {{< reflink 
-path=posts/2021/03/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia >}} con 
-mucha información práctica sobre otras rutas, lugares de interés y rincones 
-imprescindibles. 
+escapada, tienes que echar un ojo al artículo [Razones, si es que las necesitas, por las 
+que deberías planear ya una escapada por la provincia de Segovia]({{% ref 
+15-lugares-imprescindibles-que-ver-en-segovia-y-provincia %}}) con mucha información 
+práctica sobre otras rutas, lugares de interés y rincones imprescindibles. 
 
-📌 {{< reflink path=posts/2021/06/ruta-senderista-acueducto-segovia >}}. 
+📌 [Ruta para descubrir los secretos ocultos del acueducto de Segovia]({{% ref 
+ruta-senderista-acueducto-segovia %}}). 
 
 ![Puentes improvisados en nuestro camino hacia el azud del acueducto de Segovia.](https://fotos.etheriamagazine.com/2021/09/puente-otono-Segovia-azud-acueducto.jpg "Puentes improvisados en nuestro camino hacia el azud del acueducto de Segovia. © Yolanda Cardo")
 
@@ -88,8 +91,8 @@ Genil** tiene un gran interés cultural, gracias en parte a la villa romana de F
 Álamo y a sus valiosos mosaicos. Una combinación perfecta a la que, si sumamos el 
 popular salmorejo de la zona, da como resultado un viaje de lo más apetecible. 
 
-📌 {{< reflink path=posts/2021/05/ruta-campina-cordobesa-baena-montilla-puente-genil 
->}}. 
+📌 [Baena, Montilla y Puente Genil, una ruta por la campiña cordobesa]({{% ref 
+ruta-campina-cordobesa-baena-montilla-puente-genil %}}). 
 
 ![Parque Arqueológico Torreparedones, en Baena.](https://fotos.etheriamagazine.com/2021/09/Puente-otono-cordoba-Torreparedones-vistas.jpg "Parque Arqueológico Torreparedones, en Baena. © Pedro Grifol")
 
@@ -103,7 +106,8 @@ cascada de Toberia, quizá el lugar más hermoso de la provincia de Álava. No p
 perderte el cañón de los molineros ni sus restos megalíticos, como el dolmen de 
 Mendiluce. 
 
-📌 {{< reflink path=posts/2021/05/excursiones-sierra-de-entzia-alava >}}. 
+📌 [La Sierra de Entzia, des(conexión) en siete pasos en Álava]({{% ref 
+excursiones-sierra-de-entzia-alava %}}). 
 
 ![Cascada de Toberia.](https://fotos.etheriamagazine.com/2021/09/puente-otono-cascada-toberia-mas-bonita-alava.jpg "Cascada de Toberia, en un impactante entorno natural de la sierra de Etnzia.")
 
@@ -117,7 +121,8 @@ anécdotas que te dejarán loca de cómo se las gastaban los Austrias. Además, 
 explicamos algunos de los tesoros artísticos que no puedes perderte, como la Biblioteca 
 y la pinacoteca. 
 
-📌 {{< reflink path=posts/2021/04/por-que-visitar-monasterio-el-escorial >}}. 
+📌 [San Lorenzo de El Escorial, razones escabrosas y sorprendentes por las que visitar 
+su monasterio]({{% ref por-que-visitar-monasterio-el-escorial %}}). 
 
 ![San Lorenzo de El Escorial.](https://fotos.etheriamagazine.com/2021/09/puentes-otono-el-escorial.jpg "Neblina durante el amanecer de San Lorenzo de El Escorial. © Javier Santamarta")
 
@@ -132,7 +137,8 @@ Centro de Interpretación de las Marismas de Santoña, Victoria y Joyel. Acercar
 a la preciosa iglesia de **Santa María del Puerto,** al pie del Monte Buciero, una 
 auténtica joya del Románico. 
 
-📌 {{< reflink path=posts/2021/01/santona-10-planes-con-sabor-marinero-en-cantabria >}}. 
+📌 [Santoña, 10 motivos para una escapada cántabra con sabor marinero]({{% ref 
+santona-10-planes-con-sabor-marinero-en-cantabria %}}). 
 
 ![Camino vertigiFaro del Caballo, en Santoña.](https://fotos.etheriamagazine.com/2021/09/puentes-otono-faro-santona-cantabria.jpg "Camino vertiginoso para llegar al faro del Caballo, en Santoña.")
 
@@ -146,13 +152,13 @@ cóctel. Te van a faltar comidas y cenas en tu escapada para probarlas todas. Y,
 supuesto, con ideas concretas en cada lugar sobre qué tomar y sus especialidades. Suena 
 delicioso, ¿verdad? 
 
-📌 {{< reflink path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias 
->}} 
+📌 [Gijón: una gastroescapada que te dejará muy buen sabor de boca]({{% ref 
+gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias %}}) 
 
 ![Sidrería Tierra Astur Poniente, en Gijón.](https://fotos.etheriamagazine.com/2021/09/puente-otono-gijon-Tierra-Astur-Poniente.jpg "Sidrería Tierra Astur Poniente, en Gijón.")
 
 📌 **También te puede interesar**: 
 
-{{< reflink path=posts/2021/09/viajes-con-amigas-por-espana-costa-e-interior >}} 
+{{< reflink viajes-con-amigas-por-espana-costa-e-interior >}} 
 
-{{< reflink path=posts/2020/09/10-parajes-naturales-en-espana-para-viajar-otono >}}
+{{< reflink 10-parajes-naturales-en-espana-para-viajar-otono >}}

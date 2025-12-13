@@ -133,9 +133,8 @@ formaciones geológicas dignas de ser descubiertas.
 
 ### Otros viajes en Almería...
 
-{{< reflink 
-path=posts/2020/01/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear >}}. 
+{{< reflink 48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear >}}. 
 
-{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}. 
+{{< reflink consejos-rutas-andalucia-en-autocaravana >}}. 
 
-{{< reflink path=posts/2021/03/cortijos-andaluces-viaje-amigas >}}.
+{{< reflink cortijos-andaluces-viaje-amigas >}}.

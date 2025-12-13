@@ -172,8 +172,8 @@ promulga el confort sin lujos innecesarios.
 
 ## También en la República Checa
 
-{{< reflink path=posts/2021/02/excursiones-magicas-desde-praga-republica-checa >}}. 
+{{< reflink excursiones-magicas-desde-praga-republica-checa >}}. 
 
-{{< reflink path=posts/2020/05/viajar-sola-a-republica-checa-visitas-y-consejos >}}. 
+{{< reflink viajar-sola-a-republica-checa-visitas-y-consejos >}}. 
 
-{{< reflink path=posts/2018/12/10-estampas-romanticas-de-republica-checa >}}.
+{{< reflink 10-estampas-romanticas-de-republica-checa >}}.

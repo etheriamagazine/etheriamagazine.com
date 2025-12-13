@@ -145,10 +145,10 @@ Park.](https://www.civitatis.com/es/nueva-york/tour-rickshaw-central-park/?aid=1
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/05/10-planes-en-nueva-york-nuevos-2021 >}} 
+{{< reflink 10-planes-en-nueva-york-nuevos-2021 >}} 
 
-{{< reflink path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}} 
+{{< reflink los-mejores-miradores-de-nueva-york-gratis-de-pago >}} 
 
-{{< reflink path=posts/2018/07/consejos-para-viajar-en-familia-a-nueva-york >}} 
+{{< reflink consejos-para-viajar-en-familia-a-nueva-york >}} 
 
-{{< reflink path=posts/2018/07/8-planes-con-ninos-en-nueva-york >}}
+{{< reflink 8-planes-con-ninos-en-nueva-york >}}

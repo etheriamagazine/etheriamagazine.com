@@ -188,9 +188,9 @@ Además del paisaje de roca y agua, fíjate en la flora y fauna, ya que en este 
 crecen plantas como la corona de rey o la oreja de oso, y habitan animales como la 
 nutria, el alimoche, el quebrantahuesos y más de cien especies de mariposas. 
 
-📌 Consulta todos los datos prácticos en este enlace para {{< reflink 
-path=posts/2020/05/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida 
->}} 
+📌 Consulta todos los datos prácticos en este enlace para [hacer la caminata del 
+desfiladero de Mont-Rebei.]({{% ref 
+consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida %}}) 
 
 ![desfiladero congost montrebei](https://fotos.etheriamagazine.com/2021/06/desfiladero-congost-montrebei.jpg "Ruta por el desfiladero de Mont-Rebei, en Lleida. © Pepa G.")
 
@@ -235,10 +235,10 @@ XIX alberga hoy dos apartamentos bien equipados. Claverol. Tel. 973 680 537.
 
 **Más propuestas en Lleida** 
 
-{{< reflink path=posts/2018/10/10-rincones-de-lleida-que-te-sorprenderan >}}. 
+{{< reflink 10-rincones-de-lleida-que-te-sorprenderan >}}. 
 
-{{< reflink path=posts/2020/08/pueblos-y-rutas-imprescindibles-en-valle-aran >}}. 
+{{< reflink pueblos-y-rutas-imprescindibles-en-valle-aran >}}. 
 
-{{< reflink path=posts/2022/02/viaje-floracion-melocotoneros-aitona-lleida >}}. 
+{{< reflink viaje-floracion-melocotoneros-aitona-lleida >}}. 
 
-{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}.
+{{< reflink lugares-secretos-de-cataluna-que-visitar >}}.

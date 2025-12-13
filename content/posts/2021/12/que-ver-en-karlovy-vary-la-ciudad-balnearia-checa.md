@@ -23,8 +23,9 @@ Karlovy Vary, Mariánské Lázně o Františkovy Lázně se reduzcan a excursion
 desde Praga, cuando conozcas todo lo que ofrecen te plantearás quedarte algunas noches 
 más. Hoteles y buena gastronomía, paisajes y paseos no te faltarán. Y si te atrae el 
 mundo termal, no dudes en organizar una escapada al Triángulo Balneario Checo al 
-completo del que te hablábamos en este artículo (‘{{< reflink 
-path=posts/2021/08/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy >}}). 
+completo del que te hablábamos en este artículo (‘[Descubre el secreto de la eterna 
+juventud en Chequia’]({{% ref 
+balnearios-republica-checa-karlovy-vary-marianske-frantiskovy %}})). 
 
 ## Karlovy Vary, el tablero de ajedrez de Europa
 

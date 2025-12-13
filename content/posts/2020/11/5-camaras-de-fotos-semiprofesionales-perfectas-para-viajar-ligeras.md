@@ -105,6 +105,8 @@ hacer fotos como vídeos.
 
 #### También te puede interesar...
 
-- {{< reflink path=posts/2020/11/calendario-de-adviento-2020-para-mujeres >}} 
+- [Los Calendarios de Adviento más originales de 2020.]({{% ref 
+calendario-de-adviento-2020-para-mujeres %}}) 
 
-- {{< reflink path=posts/2020/11/libros-de-cocteleria-un-gran-regalo-navidad >}}.
+- [Libros de coctelería para regalar o regalarte]({{% ref 
+libros-de-cocteleria-un-gran-regalo-navidad %}}).

@@ -71,8 +71,8 @@ puede comprar tanto en formato físico (le llevan la cápsula a casa) como en fo
 digital. 
 
 \*En este artículo te hablábamos del parque, revísalo y decide si este regalo hará feliz 
-a tu madre ({{< reflink 
-path=posts/2022/04/15-razones-para-visitar-puy-du-fou-toledo-en-2022 >}}). 
+a tu madre ([15 razones para visitar Puy de Fou Toledo]({{% ref 
+15-razones-para-visitar-puy-du-fou-toledo-en-2022 %}})). 
 
 ![Cápsula del tiempo, un bono regalo de Puy de Fou.](https://fotos.etheriamagazine.com/2022/04/Capsula-tiempo-Puy-du-Fou.jpg "Cápsula del tiempo, un bono regalo de Puy de Fou.")
 
@@ -147,10 +147,9 @@ misma decida (además, tienen validez de varios años).
 
 **Más experiencias para madres viajeras** 
 
-{{< reflink path=posts/2020/07/vuelos-en-globo-en-espana-regalo-viajero >}}. 
+{{< reflink vuelos-en-globo-en-espana-regalo-viajero >}}. 
 
 {{< reflink 
-path=posts/2020/07/experiencias-viajeras-bautismo-de-buceo-menorca-tenerife-cambrils-javea-y-mas 
->}}. 
+experiencias-viajeras-bautismo-de-buceo-menorca-tenerife-cambrils-javea-y-mas >}}. 
 
-{{< reflink path=posts/2020/10/8-imprescindibles-maleta-para-hacer-deporte >}}.
+{{< reflink 8-imprescindibles-maleta-para-hacer-deporte >}}.

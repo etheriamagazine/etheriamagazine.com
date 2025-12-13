@@ -81,14 +81,13 @@ Palencia y León es quizás uno de los menos conocidos, pero en la serie queda
 magníficamente retratado. En la provincia burgalesa rodaron en la capital, **Belorado**, 
 **Hontanas** y **Castrojeriz**. A su paso por la provincia palentina aparecen las 
 localidades de **Carrión de los Condes** y **Frómista**. De la provincia leonesa se 
-reconoce la capital de {{< reflink path=posts/2018/09/48-horas-en-leon >}}, 
-concretamente su Plaza del Grano; el [Palacio Episcopal de 
-Astorga](https://www.palaciodegaudi.es/) (una de las pocas obras de Gaudí fuera de 
-Cataluña); la **Cruz del Ferro** (situada entre las localidades de Foncebadón y 
-Manjarín), **Molinaseca** y Ponferrada. Molinaseca ha sido incluida en la Asociación de 
-"Los pueblos más bonitos de España", puedes consultar la lista completa en {{< reflink 
-path=posts/2021/01/ruta-por-los-11-pueblos-elegidos-como-los-mas-bonitos-de-espana-en-2021 
->}}. 
+reconoce la capital de [León]({{% ref 48-horas-en-leon %}}), concretamente su Plaza del 
+Grano; el [Palacio Episcopal de Astorga](https://www.palaciodegaudi.es/) (una de las 
+pocas obras de Gaudí fuera de Cataluña); la **Cruz del Ferro** (situada entre las 
+localidades de Foncebadón y Manjarín), **Molinaseca** y Ponferrada. Molinaseca ha sido 
+incluida en la Asociación de "Los pueblos más bonitos de España", puedes consultar la 
+lista completa en [los 11 pueblos más bonitos de 2021]({{% ref 
+ruta-por-los-11-pueblos-elegidos-como-los-mas-bonitos-de-espana-en-2021 %}}). 
 
 ![Cecilia Suarez en la casa de las flores y 3 caminos](https://fotos.etheriamagazine.com/2021/02/3-Caminos-actriz-casa-de-las-flores.jpg "Cecilia Suárez, que la recordarás por su papel de Paulina en 'La casa de las flores', también actúa en '3 caminos'. © Amazon Prime")
 
@@ -126,13 +125,13 @@ Markina. ¡Miedo y acción a raudales!
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/03/camino-de-finisterre-fairway >}}. 
+{{< reflink camino-de-finisterre-fairway >}}. 
 
-{{< reflink path=posts/2019/05/etapas-que-ver-camino-de-santiago-en-la-rioja >}} {{< 
-reflink path=posts/2019/05/etapas-que-ver-camino-de-santiago-en-la-rioja >}}. 
+[El Camino de Santiago en La Rioja,]({{% ref 
+etapas-que-ver-camino-de-santiago-en-la-rioja %}}) [un buen viaje para el otoño]({{% ref 
+etapas-que-ver-camino-de-santiago-en-la-rioja %}}). 
 
-{{< reflink path=posts/2020/10/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}. 
+{{< reflink que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}. 
 
-{{< reflink 
-path=posts/2020/08/que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare 
+{{< reflink que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare 
 >}}.

@@ -248,9 +248,8 @@ reservar también con Civitatis.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}} 
+{{< reflink 8-visitas-increibles-en-irlanda-del-norte >}} 
 
-{{< reflink path=posts/2024/03/celebrar-san-patricio-dublin >}} 
+{{< reflink celebrar-san-patricio-dublin >}} 
 
-{{< reflink 
-path=posts/2019/09/como-organizar-excursion-precio-islas-skellig-michael-irlanda >}}
+{{< reflink como-organizar-excursion-precio-islas-skellig-michael-irlanda >}}

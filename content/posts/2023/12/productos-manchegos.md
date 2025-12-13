@@ -21,10 +21,10 @@ de la compra.
 Las rutas enoturísticas siempre sorprenden con propuestas atractivas para disfrutar 
 tanto _in situ_ como al volver a casa. Entre esos productos que siempre son bien 
 acogidos en nuestros encuentros con los seres queridos están los quesos, vinos y aceites 
-de la {{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha >}}. Hemos realizado una 
-selección con nombre y apellidos para que sólo tengáis que apuntarlos e ir a hacer la 
-compra o un pedido _on line_. Y con una ventaja añadida, sus precios **desde poco más de 
-4 euros** permiten darse el capricho sin grandes desembolsos. 
+de la [Ruta del Vino de La Mancha]({{% ref ruta-del-vino-de-la-mancha %}}). Hemos 
+realizado una selección con nombre y apellidos para que sólo tengáis que apuntarlos e ir 
+a hacer la compra o un pedido _on line_. Y con una ventaja añadida, sus precios **desde 
+poco más de 4 euros** permiten darse el capricho sin grandes desembolsos. 
 
 ## La Jaraba, el mejor queso del mundo
 

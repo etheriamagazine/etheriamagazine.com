@@ -204,8 +204,8 @@ durante la temporada baja, que salen de la estatua del Beato San Vicente.
 
 **También te puede interesar** 
 
-{{< reflink path=posts/2021/10/planes-imprescindibles-algarve-con-amigas >}} 
+{{< reflink planes-imprescindibles-algarve-con-amigas >}} 
 
-{{< reflink path=posts/2022/08/mejores-playas-del-algarve >}} 
+{{< reflink mejores-playas-del-algarve >}} 
 
-{{< reflink path=posts/2020/08/18-experiencias-si-viajas-sola-al-algarve >}}
+{{< reflink 18-experiencias-si-viajas-sola-al-algarve >}}

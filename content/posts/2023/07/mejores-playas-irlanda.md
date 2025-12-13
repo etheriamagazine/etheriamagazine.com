@@ -40,8 +40,8 @@ Cushendun**, que aunque tienen 400 millones de años de años se hicieron famosa
 aparecer en una escena de Juego de Tronos® en la que Melisandre da a luz a la sombra. 
 Aparca en una urbanización cercana y acércate caminando. 
 
-📍No te pierdas: {{< reflink path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte 
->}}. 
+📍No te pierdas: [Ruta de Juego de Tronos en Irlanda del Norte]({{% ref 
+juego-de-tronos-en-irlanda-del-norte %}}). 
 
 ![Playa de Cushendun en Irlanda](https://fotos.etheriamagazine.com/2023/07/playa-Cushendun-juego-tronos-irlanda.jpg "Playa de Cushendun, localización de Juego de Tronos. © Stefan Schnebelt/ Turismo de Irlanda")
 
@@ -107,7 +107,8 @@ decir, zona de protección del gaélico irlandés. Visitar esta tierra de pastor
 pescadores en el **oeste de Irlanda** es zambullirse en las tradiciones más ancestrales 
 del país. 
 
-📍No te pierdas: {{< reflink path=posts/2023/01/almas-en-pena-de-inisherin >}} 
+📍No te pierdas: [‘Almas en pena de Inisherin’, paisajes de cine en Irlanda]({{% ref 
+almas-en-pena-de-inisherin %}}) 
 
 ![Playa de Keem Bay, Achill Island, en el condado de Mayo.](https://fotos.etheriamagazine.com/2023/07/playa-Keem-Bay-Ireland.jpg "Playa de Keem Bay, en el condado de Mayo. © Failte Ireland")
 
@@ -149,7 +150,6 @@ escenas de las películas _Salvar al soldado Ryan_ y _Brooklyn_, entre otras.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}}. 
+{{< reflink 8-visitas-increibles-en-irlanda-del-norte >}}. 
 
-{{< reflink 
-path=posts/2019/09/como-organizar-excursion-precio-islas-skellig-michael-irlanda >}}.
+{{< reflink como-organizar-excursion-precio-islas-skellig-michael-irlanda >}}.

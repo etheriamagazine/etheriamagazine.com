@@ -151,8 +151,8 @@ Precio doble desde 160 euros
 
 ### En Valencia también te puede interesar...
 
-{{< reflink path=posts/2021/04/hotel-lujo-valencia-las-arenas-balneario-resort >}}. 
+{{< reflink hotel-lujo-valencia-las-arenas-balneario-resort >}}. 
 
-{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}}. 
+{{< reflink planes-originales-valencia-con-amigas >}}. 
 
-{{< reflink path=posts/2018/12/un-viaje-a-valencia-con-amigas >}}.
+{{< reflink un-viaje-a-valencia-con-amigas >}}.

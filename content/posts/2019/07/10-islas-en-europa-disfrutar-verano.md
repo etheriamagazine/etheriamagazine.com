@@ -36,7 +36,7 @@ mayor. En **Vila Baleira**, la capital, no te pierdas la Casa Museo Cristóbal C
 iglesia Matriz y el Fuerte de San José. Y en la isla, la Quinta das Palmeiras, las 
 Columnas de Pico Ana Ferreira y la playa de Ponta da Calheta. 
 
-📍 {{< reflink path=posts/2019/02/que-ver-porto-santo-madeira >}} 
+📍 [Porto Santo, la isla tranquila.]({{% ref que-ver-porto-santo-madeira %}}) 
 
 ## 2\. Capri (Italia)
 
@@ -48,7 +48,8 @@ Urrutia. Su aire exclusivo no debe detenerte, descubre las estrechas calles de l
 localidades de Capri, Anacapri y Marina Grande, sus lujosas villas y sus espectaculares 
 acantilados. 
 
-📍 {{< reflink path=posts/2019/01/capri-la-isla-del-amor-de-pablo-neruda >}} 
+📍 [Capri, la isla del amor de Pablo Neruda y Matilde Urrutia.]({{% ref 
+capri-la-isla-del-amor-de-pablo-neruda %}}) 
 
 ## 3\. Islandia
 
@@ -60,7 +61,8 @@ glaciares de nombre impronunciable. El verano es la mejor época para ir ya que 
 visitar también el norte de la isla y realizar excursiones en barco para avistar 
 ballenas. 
 
-📍 {{< reflink path=posts/2021/03/que-ver-sur-islandia-consejos-practicos >}} 
+📍 [Viaje por el sur de Islandia, la isla del desafío.]({{% ref 
+que-ver-sur-islandia-consejos-practicos %}}) 
 
 ## 4\. Chipre
 
@@ -73,7 +75,8 @@ yacimientos arqueológicos. Si la eliges para un viaje, tienes que visitar sí o
 capital, **Lefkosia**, la playa de Petra tou Romiou y los Baños de Afrodita, donde es 
 imprescindible darse un baño. 
 
-📍 {{< reflink path=posts/2019/05/viaje-en-pareja-que-ver-chipre >}} 
+📍 [Secretos de Chipre, visitas esenciales en un viaje lleno de historia y sabores.]({{% 
+ref viaje-en-pareja-que-ver-chipre %}}) 
 
 ## 5\. Isla de Ré (Francia)
 
@@ -85,8 +88,8 @@ tranquilos que parece que el tiempo se mide de otra forma. No te pierdas el faro
 Ballenas (especialmente sus vistas), la bonita playa de Le Bois-plage-en-Ré y los 
 encantadores pueblos de Ars-en-Ré y Saint-Martin-de-Ré. 
 
-📍 {{< reflink path=posts/2018/09/guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re 
->}} 
+📍 [La Rochelle y la isla de Ré, consejos para organizar tu viaje.]({{% ref 
+guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re %}}) 
 
 ## 6\. Gozo (Malta)
 
@@ -98,7 +101,8 @@ megalíticos de Ggantija, escuchar las leyendas de la gruta de Calipso y visitar
 salinas de Qbajjar. No te pierdas **Victoria**, la capital, con su casco histórico y sus 
 pintorescos cafés. 
 
-📍 {{< reflink path=posts/2021/04/que-ver-hacer-gozo-malta >}} 
+📍 [Gozo, una isla donde querrás quedarte a vivir.]({{% ref que-ver-hacer-gozo-malta 
+%}}) 
 
 ## 7\. La Palma (Islas Canarias)
 
@@ -111,10 +115,11 @@ el de Los Tilos, pasando por uno de los mejores cielos del mundo para contemplar
 estrellas. Y si hace mucho que no la visitas, contemplar los cambios que en su perfil ha 
 ocasionado la erupción del volcán es siempre un aliciente más. 
 
-📍 {{< reflink path=posts/2021/11/10-razones-para-visitar-la-palma >}} 
+📍 [10 poderosas razones para viajar a La Palma (y ninguna es el volcán)]({{% ref 
+10-razones-para-visitar-la-palma %}}) 
 
-📍 {{< reflink 
-path=posts/2019/04/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias >}} 
+📍 [Por qué no olvidarás jámas la Palma, la isla más adicta y alternativa de 
+Canarias.]({{% ref la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias %}}) 
 
 ## 8\. Islas Shetland (Escocia)
 
@@ -126,7 +131,8 @@ ovejas, bellos acantilados y, cómo no, destilerías de whisky y fábricas de ce
 podrás visitar par degustar sus productos. Además, te esperan yacimientos de la Edad del 
 Hierro y avistamiento de ballenas. ¿A que no te lo esperabas? 
 
-📍 {{< reflink path=posts/2019/03/mujeres-viajeras-que-ver-islas-shetland >}} 
+📍 [Islas Shetland, un paraíso en el Atlántico Norte.]({{% ref 
+mujeres-viajeras-que-ver-islas-shetland %}}) 
 
 ## 9\. Islas Griegas
 
@@ -138,7 +144,7 @@ pequeña isla de Hydra; Nauplia (que en realidad es una península del Pelopones
 precioso casco histórico; la inmaculada Santorini, donde no podrás dejar de hacer fotos; 
 o la popular Mikonos. 
 
-📍 {{< reflink path=posts/2019/01/que-visitar-crucero-por-islas-griegas >}} 
+📍 [Crucero por las Islas Griegas.]({{% ref que-visitar-crucero-por-islas-griegas %}}) 
 
 ## 10\. Pag (Croacia)
 
@@ -150,4 +156,5 @@ instante, sobre todo no podrás dejar de probar su queso y su aceite de oliva. A
 podrás disfrutar de playas como la Zrce, de su patrimonio monumental y del sitio 
 arqueológico de Old Town. 
 
-📍 {{< reflink path=posts/2018/08/fiesta-de-los-sabores-en-la-isla-croata-de-pag >}}
+📍 [Isla de Pag, descubre a qué sabe la “Ibiza del Adriático”.]({{% ref 
+fiesta-de-los-sabores-en-la-isla-croata-de-pag %}})

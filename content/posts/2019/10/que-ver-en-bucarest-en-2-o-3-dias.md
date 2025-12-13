@@ -149,8 +149,8 @@ ambiente de fiesta todos los días de la semana. Aquí confluyen diferentes bare
 pequeñas discotecas que convierten la calle en una fiesta de lo más divertida y 
 variopinta. 
 
-📍Continúa viaje: {{< reflink 
-path=posts/2019/08/como-organizar-ruta-coche-rumania-con-amigos >}} 
+📍Continúa viaje: [Cómo convertir una ruta en coche por Rumanía de 7 días en un viaje 
+inolvidable]({{% ref como-organizar-ruta-coche-rumania-con-amigos %}}) 
 
 ### Más información
 

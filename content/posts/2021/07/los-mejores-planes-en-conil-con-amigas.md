@@ -55,7 +55,8 @@ nivel cultural, no dejes de conocer La Chanca, con su centro de interpretación 
 y del Mar; y a Raíces Conileñas, un pequeño museo etnográfico. Las visitas guiadas de la 
 oficina de turismo son una buena manera de acercarse al patrimonio conileño. 
 
-✅ {{< reflink path=posts/2022/04/guia-de-conil-visitas-gratuitas >}}. 
+✅ [15 visitas imprescindibles en Conil gratis y ninguna es una playa]({{% ref 
+guia-de-conil-visitas-gratuitas %}}). 
 
 ![cala el enebro en conil cadiz](https://fotos.etheriamagazine.com/2021/01/cala-enebro-playa-conil.jpg "Cala El Enebro (Conil de la Frontera). © Etheria M.")
 
@@ -72,8 +73,8 @@ algunas calas. Los acantilados comienzan a partir de la playa Fuente del Gallo y
 hasta las playas de Roche, entre medias encontrarás preciosas calas a las que se accede 
 por empinadas escaleras, y que suelen contar con una zona de aparcamiento cercano. 
 
-✅ No nos alargamos más porque en este artículo {{< reflink 
-path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}} encontrarás 
+✅ No nos alargamos más porque en este artículo [“Las mejores playas y calas de Conil de 
+la Frontera”]({{% ref mejores-playas-y-calas-de-conil-de-la-frontera %}}) encontrarás 
 detalladas las 15 mejores y cómo llegar a las mismas. 
 
 ![tapeo mirador del Roqueo planes en Conil](https://fotos.etheriamagazine.com/2021/06/tapas-mirador-roqueo.jpg "Tapeo con vistas en El Mirador del Roqueo. © Pepa G.")
@@ -146,14 +147,14 @@ imprescindible porque allí no hay chiringuitos, tampoco baños, duchas ni vigil
 ## 6\. Probar el atún rojo
 
 El atún rojo no sólo es el rey del mar sino también el pez favorito de la costa 
-conileña. En este reportaje ({{< reflink path=posts/2018/06/ruta-del-atun-rojo-en-cadiz 
->}}) os hablábamos de los lazos que unen a la localidad con este túnido. Como te 
-decíamos en el primer punto, no olvides visitar **La Chanca** donde lo aprenderás todo 
-sobre este animal. Y después a degustarlo, claro. Si puedes viajar en mayo, cuando se 
-celebra la Ruta del Atún Rojo encontrarás eventos especiales y tapas que se presentan a 
-concurso (muchas se mantienen en carta durante todo el año). Entre los muchos 
-restaurantes de Conil, algunos donde ya hemos probado el atún rojo y nos parece que lo 
-preparan de forma espectacular son El Roqueo, Casa Francisco y Venta Melchor. 
+conileña. En este reportaje ([Ruta del atún rojo en Cádiz]({{% ref 
+ruta-del-atun-rojo-en-cadiz %}})) os hablábamos de los lazos que unen a la localidad con 
+este túnido. Como te decíamos en el primer punto, no olvides visitar **La Chanca** donde 
+lo aprenderás todo sobre este animal. Y después a degustarlo, claro. Si puedes viajar en 
+mayo, cuando se celebra la Ruta del Atún Rojo encontrarás eventos especiales y tapas que 
+se presentan a concurso (muchas se mantienen en carta durante todo el año). Entre los 
+muchos restaurantes de Conil, algunos donde ya hemos probado el atún rojo y nos parece 
+que lo preparan de forma espectacular son El Roqueo, Casa Francisco y Venta Melchor. 
 
 ![copas en Conil](https://fotos.etheriamagazine.com/2021/06/calle-cadiz-tomas-borrego-conil.jpg "Calle Cádiz y José Tomás Borrego, dos calles con mucho ambiente por la noche. © P.G.")
 
@@ -227,17 +228,17 @@ preciosos atardeceres. Itinerario en [Google
 maps](https://www.google.com/maps/dir/Conil+de+la+Frontera,+11140,+C%C3%A1diz/El+Palmar,+Paseo+Mar%C3%ADtimo,+Vejer+de+la+Frontera/@36.2543768,-6.0906894,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd0c381f6ac60cd1:0xf5342b7905a1d02e!2m2!1d-6.0862071!2d36.2780988!1m5!1m1!1s0xd0c47615d436eb1:0x9cc9e52714fe62f1!2m2!1d-6.066018!2d36.2256734!3e0). 
 
 **12\. El pueblo blanco de** **Vejer de la Frontera** (16 km), encaramado en una colina 
-({{< reflink path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}}). 
-Itinerario en [Google 
+([en este artículo tenéis las visitas imprescindibles en Vejer]({{% ref 
+10-actividades-vejer-de-la-frontera-que-ver-hacer %}})). Itinerario en [Google 
 maps](https://www.google.com/maps/dir/Conil+de+la+Frontera,+11140,+C%C3%A1diz/Vejer+de+la+Frontera,+11150,+C%C3%A1diz/@36.2564365,-6.0965139,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd0c381f6ac60cd1:0xf5342b7905a1d02e!2m2!1d-6.0862071!2d36.2780988!1m5!1m1!1s0xd0c45c91240e403:0xc7939fe29cb2a440!2m2!1d-5.9667359!2d36.252034!3e0). 
 
 **13\. Las Salinas de Chiclana** (a unos 25 km), un auténtico [spa 
 salino](https://salinasdechiclana.es/). Itinerario en [Google 
 maps](https://www.google.com/maps/dir/Conil+de+la+Frontera,+Espa%C3%B1a/Salinas+de+Chiclana,+Salinas+de+la+Chiclana,+de+Ruta+de,+11130+Chiclana+de+la+Frontera,+C%C3%A1diz,+Espa%C3%B1a/@36.3585669,-6.178813,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd0c381f6ac60cd1:0xf5342b7905a1d02e!2m2!1d-6.0862071!2d36.2780988!1m5!1m1!1s0xd0c33455dcc7089:0x7ef5ed27c5b4b99b!2m2!1d-6.1643073!2d36.4392501!3e0?hl=es-ES). 
 
-**14\. Tarifa** (a unos 65 km), donde, como decíamos {{< reflink 
-path=posts/2020/07/viajes-por-espana-tarifa-con-amigas-aires-de-windsurf >}}. Itinerario 
-en [Google 
+**14\. Tarifa** (a unos 65 km), donde, como decíamos [en este artículo de Tarifa con 
+amigas, no sólo hay planes para los surferos]({{% ref 
+viajes-por-espana-tarifa-con-amigas-aires-de-windsurf %}}). Itinerario en [Google 
 maps](https://www.google.com/maps/dir/Conil+de+la+Frontera,+Espa%C3%B1a/Tarifa,+Espa%C3%B1a/@36.1533474,-5.9823869,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd0c381f6ac60cd1:0xf5342b7905a1d02e!2m2!1d-6.0862071!2d36.2780988!1m5!1m1!1s0xd0c8ef7c23f1c63:0x2ce0f2832aa48963!2m2!1d-5.6044497!2d36.0143209!3e0?hl=es-ES). 
 
 **15. Cádiz capital** (a unos 45 km –[itinerario por 
@@ -245,6 +246,7 @@ autovía](https://www.google.com/maps/dir/Conil+de+la+Frontera,+Espa%C3%B1a/C%C3
 donde la historia y la cultura se regodea en sus calles. 
 
 **16. Sierra de Cádiz.** Incluso puedes aventurarte un poco más allá y hacer parte de la 
-{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}}. Hasta Arcos de 
-la Frontera, la puerta a la Serranía, hay unos 85 km; y 130 km hasta Grazalema. Es una 
-muy buena opción para los días en los que sopla fuerte el viento de levante.
+[Ruta de los Pueblos Blancos (consulta el artículo de la ruta)]({{% ref 
+ruta-por-los-pueblos-blancos-de-cadiz %}}). Hasta Arcos de la Frontera, la puerta a la 
+Serranía, hay unos 85 km; y 130 km hasta Grazalema. Es una muy buena opción para los 
+días en los que sopla fuerte el viento de levante.

@@ -38,7 +38,7 @@ Viajar ha creado una **gran capacidad de adaptación** en mí. Me resulta muy f�
 
 ##### 4\. Si pudieses elegir un compañero de viaje. ¿Quién sería y por qué?
 
-Tengo varios personajes con los que me gustaría retroceder en el tiempo y poder viajar con ellos: admiro mucho al **Dr. Livingstone**, al que he recordado muchas veces cuando he viajado por África, y al que he intentado seguir en algún que otro viaje; también me hubiese gustado poder seguir a **{{< reflink path=posts/2018/06/etheria-la-primera-viajera >}}**, la viajera que da nombre a vuestro magazine, en su periplo por el mundo. **Richard Burton** es otro compañero de viaje que me hubiera gustado tener, ya que siempre he pensado que fue un gran incomprendido de su tiempo.
+Tengo varios personajes con los que me gustaría retroceder en el tiempo y poder viajar con ellos: admiro mucho al **Dr. Livingstone**, al que he recordado muchas veces cuando he viajado por África, y al que he intentado seguir en algún que otro viaje; también me hubiese gustado poder seguir a **{{< reflink etheria-la-primera-viajera >}}**, la viajera que da nombre a vuestro magazine, en su periplo por el mundo. **Richard Burton** es otro compañero de viaje que me hubiera gustado tener, ya que siempre he pensado que fue un gran incomprendido de su tiempo.
 
 ##### 5\. ¿Sueles planificar con antelación tus viajes o prefieres improvisar?
 
@@ -64,19 +64,19 @@ Acabo de venir recientemente de **Australia**, un país que me ha sorprendido gr
 
 ##### 9\. ¿Qué tres viajes que hayas realizado recomendarías a cualquier mujer?
 
-Lo primero que recomendaría es que en alguna ocasión de sus vidas viajen solas; cada una se conoce, y no hace falta irse al otro extremo del mundo si no le apetece, pero {{< reflink path=posts/2019/01/10-ventajas-de-viajar-sola >}} le ayudará a descubrir muchas fortalezas de sí misma que no conocía, a comprenderse mejor, y tomar distancia con nuestra realidad, algo que siempre viene bien. {{< reflink path=posts/2021/06/toscana-en-coche >}} es un destino al que hay que ir, es especial. Llevo muchos viajes allí y todavía no he descubierto qué es lo que tiene que engancha tanto, pero así es. Hay que ir. **{{< reflink path=posts/2018/10/viajar-sola-o-con-amigas-a-india >}}** es un destino que te hace ver otra realidad, muy dura, pero necesaria para darnos cuenta de lo afortunados que somos en nuestra vida y de la cantidad de cosas que tenemos El tercer viaje lo dejo en blanco… todas tenemos un destino en nuestra cabeza al que siempre hemos querido ir, que es como un sueño inalcanzable, cuando, en realidad, todo es alcanzable y solo hay que ponerle ganas.
+Lo primero que recomendaría es que en alguna ocasión de sus vidas viajen solas; cada una se conoce, y no hace falta irse al otro extremo del mundo si no le apetece, pero [**viajar sola**]({{% ref 10-ventajas-de-viajar-sola %}}) le ayudará a descubrir muchas fortalezas de sí misma que no conocía, a comprenderse mejor, y tomar distancia con nuestra realidad, algo que siempre viene bien. [**La Toscana**]({{% ref toscana-en-coche %}}) es un destino al que hay que ir, es especial. Llevo muchos viajes allí y todavía no he descubierto qué es lo que tiene que engancha tanto, pero así es. Hay que ir. **{{< reflink viajar-sola-o-con-amigas-a-india >}}** es un destino que te hace ver otra realidad, muy dura, pero necesaria para darnos cuenta de lo afortunados que somos en nuestra vida y de la cantidad de cosas que tenemos El tercer viaje lo dejo en blanco… todas tenemos un destino en nuestra cabeza al que siempre hemos querido ir, que es como un sueño inalcanzable, cuando, en realidad, todo es alcanzable y solo hay que ponerle ganas.
 
 > ###### "Si quieres ir a ese lugar especial para ti, planéalo y vete, no esperes el momento, porque siempre es el momento de ir. Date el empujón que necesitas para volar"
 
 ##### 10\. Tres viajes pendientes…
 
-El primero en la lista es **Argentina**, al que ya llevo años queriendo ir; el segundo es el **Delta del Okavango**, **Namibia** y **Bostwana**, que englobaría en un solo viaje. EL último y más especial para mí está en nuestras antípodas y se llama **Niue**, una pequeña isla cerca de {{< reflink path=posts/2018/08/nueva-zelanda-en-autocaravana >}} que tiene la peculiaridad de acuñar su propia moneda. Este sería el viaje de mi vida.
+El primero en la lista es **Argentina**, al que ya llevo años queriendo ir; el segundo es el **Delta del Okavango**, **Namibia** y **Bostwana**, que englobaría en un solo viaje. EL último y más especial para mí está en nuestras antípodas y se llama **Niue**, una pequeña isla cerca de [Nueva Zelanda]({{% ref nueva-zelanda-en-autocaravana %}}) que tiene la peculiaridad de acuñar su propia moneda. Este sería el viaje de mi vida.
 
 \[caption id="attachment\_7198" align="aligncenter" width="1024"\]![travel with rose, delta del okavango, viajes para mujeres](https://fotos.etheriamagazine.com/2019/02/delta-okavango-viajes-mujeres.jpg "El Delta del Okavango es uno de sus destinos soñados.") El Delta del Okavango es uno de sus destinos soñados.\[/caption\]
 
 ##### 11\. ¿Qué país te ha ganado con su gastronomía? ¿Destacarías algún plato o producto?
 
-En **Indonesia** descubrí muchos platos que me encantaron, sobre todo el **Nusa Goreng**, un arroz que también se cocina en otros puntos de **Malasia** y {{< reflink path=posts/2019/02/sri-lanka-para-mujeres-viajeras >}}, y que lleva jengibre, _chilli_, tamarindo, huevo, gambas y algunas verduras. Me encanta.
+En **Indonesia** descubrí muchos platos que me encantaron, sobre todo el **Nusa Goreng**, un arroz que también se cocina en otros puntos de **Malasia** y [Sri Lanka]({{% ref sri-lanka-para-mujeres-viajeras %}}), y que lleva jengibre, _chilli_, tamarindo, huevo, gambas y algunas verduras. Me encanta.
 
 ##### 12\. ¿En qué medio de transporte prefieres viajar?
 

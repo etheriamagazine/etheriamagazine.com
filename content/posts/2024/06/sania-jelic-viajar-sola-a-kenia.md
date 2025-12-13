@@ -236,8 +236,8 @@ Naciones Unidas, lo tuve aún más claro….
 
 **También en Etheria Magazine:** 
 
-{{< reflink path=posts/2024/04/guia-ruanda-de-sania-jelic >}} 
+{{< reflink guia-ruanda-de-sania-jelic >}} 
 
-{{< reflink path=posts/2024/03/viajar-sola-zanzibar >}} 
+{{< reflink viajar-sola-zanzibar >}} 
 
-{{< reflink path=posts/2024/01/consejos-viajar-sola-por-africa >}}
+{{< reflink consejos-viajar-sola-por-africa >}}

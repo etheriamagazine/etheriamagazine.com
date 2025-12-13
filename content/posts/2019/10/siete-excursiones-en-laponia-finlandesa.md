@@ -22,7 +22,8 @@ mismísimo Papá Noel. Y con un poco de suerte, podrás ver una aurora boreal. P
 maleta y ¡vente a Laponia! Aquí te contamos 7 excursiones en Laponia que no puedes 
 perderte. 
 
-Sigue leyendo: ✅ {{< reflink path=posts/2018/09/una-maleta-para-laponia-finlandesa >}} 
+Sigue leyendo: ✅ [Una maleta para… Laponia finlandesa]({{% ref 
+una-maleta-para-laponia-finlandesa %}}) 
 
 Si estás buscando una experiencia única en forma de **escapada tu viaje es la Laponia 
 finlandesa**. Es perfecto para viajar en familia, con amigos o en pareja, y ofrece una 
@@ -138,7 +139,6 @@ viaje.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/09/8-consejos-para-viajar-a-la-laponia-finlandesa-con-ninos 
->}} 
+{{< reflink 8-consejos-para-viajar-a-la-laponia-finlandesa-con-ninos >}} 
 
-{{< reflink path=posts/2018/09/viaje-laponia-finlandesa-ninos-en-familia >}}
+{{< reflink viaje-laponia-finlandesa-ninos-en-familia >}}

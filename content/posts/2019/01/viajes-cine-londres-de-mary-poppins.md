@@ -149,8 +149,8 @@ Edward del West End.
 
 ### Más artículos de Londres...
 
-{{< reflink path=posts/2020/12/diez-peliculas-rodadas-en-londres >}}. 
+{{< reflink diez-peliculas-rodadas-en-londres >}}. 
 
 {{< reflink 
-path=posts/2020/05/compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone 
+compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone 
 >}}.

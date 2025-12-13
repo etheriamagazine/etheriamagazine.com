@@ -34,7 +34,8 @@ pueblos para que no te pierdas nada.
 
 ![Iglesia de la Asunción de Villanueva de la Serena.](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-Villanueva-de-la-Serena-iglesia-asuncion.jpg "Iglesia de la Asunción de Villanueva de la Serena. © Ayuntamiento Villanueva de la Serena")
 
-✅ {{< reflink path=posts/2022/05/ruta-pueblos-bonitos-badajoz >}} 
+✅ [5 pueblos de Badajoz que no conoces y te sorprenderán]({{% ref 
+ruta-pueblos-bonitos-badajoz %}}) 
 
 ## Dónde celebrar la Nochevieja de 2022
 
@@ -47,7 +48,8 @@ de Quintoelemento.
 
 ![copas brindando](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-nochevieja-brindis-780x450-1.jpg "En Nochevieja hay que celebrar y celebrar.")
 
-✅ {{< reflink path=posts/2022/11/nochevieja-2022-en-madrid >}} 
+✅ [Celebra la Nochevieja de 2022 en Madrid con una cena de gala]({{% ref 
+nochevieja-2022-en-madrid %}}) 
 
 ## Exposición Hijas del Nilo
 
@@ -63,7 +65,8 @@ la vida cultural de nuestras ciudades en 2023.
 
 ![exposición hijas del Nilo](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-Hijas-del-Nilo-sala-iluminada.jpg "Sala de la exposición © Hijas del Nilo.")
 
-✅ {{< reflink path=posts/2022/07/exposicion-hijas-del-nilo-madrid >}} 
+✅ [‘Hijas del Nilo’, una cita con las mujeres del Antiguo Egipto en Madrid]({{% ref 
+exposicion-hijas-del-nilo-madrid %}}) 
 
 ## Comer bien en Conil
 
@@ -78,7 +81,8 @@ desayunar de diez y pastelerías. Y os aseguramos que lo conocemos muy bien.
 
 ![pescado frito en la Venta Pericón](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-venta-pericon-conil.jpg "Fritura de la Venta Pericón, en Conil. © Pepa García")
 
-✅ {{< reflink path=posts/2022/07/donde-comer-bien-conil-de-la-frontera >}} 
+✅ [Dónde comer bien en Conil de la Frontera, bares y restaurantes recomendados]({{% ref 
+donde-comer-bien-conil-de-la-frontera %}}) 
 
 ## Visitas gratis en Conil
 
@@ -92,7 +96,8 @@ alrededores de la torre de Castilnovo y la ruta por los miradores.
 
 ![estatua en la plaza de españa de Conil con la puerta de la villa al fondo](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-plaza-espana-conil.jpg "Plaza de España de Conil. © Pepa García")
 
-✅ {{< reflink path=posts/2022/04/guia-de-conil-visitas-gratuitas >}} 
+✅ [15 visitas que hacer en Conil y ninguna es una playa]({{% ref 
+guia-de-conil-visitas-gratuitas %}}) 
 
 ## Los melocotoneros de Aitona
 
@@ -105,7 +110,8 @@ la zona por si queremos completar el viaje o visitamos la zona en otra época de
 
 ![Flores de los melocotoneros de Aitona.](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-Fruiturismo-lleida.jpg "Flores de los melocotoneros de Aitona.")
 
-✅ {{< reflink path=posts/2022/02/viaje-floracion-melocotoneros-aitona-lleida >}} 
+✅ [Aitona en flor, un anuncio ‘rosa’ a las afueras de Lleida]({{% ref 
+viaje-floracion-melocotoneros-aitona-lleida %}}) 
 
 ## Viajes de novios originales
 
@@ -120,7 +126,8 @@ ceñirse siempre a lo convencional.
 
 ![pareja descansando en la montaña](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-viajes-novios-originales-pareja.jpg "No renuncies a tu luna de miel soñada.")
 
-✅ {{< reflink path=posts/2022/02/viajes-de-novios-originales-2022 >}} 
+✅ [10 viajes de novios originales para huir de lo convencional]({{% ref 
+viajes-de-novios-originales-2022 %}}) 
 
 ## Los mejores restaurantes de Formentera
 
@@ -134,7 +141,8 @@ enología. Su selección incluye referencias concretas de restaurantes fuera del
 
 ![Sara Valls, del restaurante Janis, en Formentera.](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-formentera-sara-valls.jpg "Sara Valls, del restaurante Janis, en Formentera.")
 
-✅ {{< reflink path=posts/2022/07/mejores-restaurantes-formentera >}} 
+✅ [Dónde comer en Formentera sin perder de vista la mano femenina]({{% ref 
+mejores-restaurantes-formentera %}}) 
 
 ## Usera, el Chinatown de Madrid
 
@@ -148,7 +156,8 @@ porque son realmente auténticos.
 
 ![platos del hot pot de Mr. Doulao](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-mrdoulao-hotpot-usera.jpg "© Mr. Doulao, un restaurante hot pot de Usera.")
 
-✅ {{< reflink path=posts/2022/02/ruta-turistica-usera-chinatown-madrileno >}} 
+✅ [Ruta turístico-gastronómica por el Chinatown madrileño]({{% ref 
+ruta-turistica-usera-chinatown-madrileno %}}) 
 
 ## Qué ver en Cantabria
 
@@ -162,4 +171,5 @@ destacados.
 
 ![Hombre Pez junto al Puente Mayor de Liérganes.](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-puente-hombre-pez-Lierganes.jpg "Hombre Pez junto al Puente Mayor de Liérganes.")
 
-✅ {{< reflink path=posts/2022/09/que-ver-en-cantabria >}}
+✅ [Guía esencial de Cantabria, visitas que no puedes perderte]({{% ref 
+que-ver-en-cantabria %}})

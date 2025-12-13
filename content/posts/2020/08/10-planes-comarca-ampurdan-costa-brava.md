@@ -171,9 +171,8 @@ un bosque maduro gerundés con una experiencia que te reconecta con tu lado más
 
 ### También en Etheria Magazine
 
-{{< reflink path=posts/2024/06/grand-tour-catalunya-vinedos-sabor-a-mar >}}. 
+{{< reflink grand-tour-catalunya-vinedos-sabor-a-mar >}}. 
 
-{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}. 
+{{< reflink lugares-secretos-de-cataluna-que-visitar >}}. 
 
-{{< reflink 
-path=posts/2019/12/planes-familiares-en-barcelona-y-tarragona-turismo-industrial >}}.
+{{< reflink planes-familiares-en-barcelona-y-tarragona-turismo-industrial >}}.

@@ -41,7 +41,7 @@ irresistible. También puedes dedicar unos días a la maravillosa isla de Creta 
 ahora de moda gracias a la serie de televisión “Los Durrell”. Las Islas Griegas ofrecen 
 tantos viajes que os costará decidiros. 
 
-📌 {{< reflink path=posts/2019/01/que-visitar-crucero-por-islas-griegas >}} 
+📌 [Crucero por las Islas Griegas]({{% ref que-visitar-crucero-por-islas-griegas %}}) 
 
 ## Laponia: blanca luna de miel
 
@@ -65,9 +65,10 @@ directamente. Además, aunque este viaje se suele asociar a las vacaciones de Na
 el factor “Papá Noel”, la nieve suele durar hasta principios de abril, por lo que es 
 perfecto para las bodas de los primeros meses del año. 
 
-📌 {{< reflink path=posts/2019/10/siete-excursiones-en-laponia-finlandesa >}} 
+📌 [7 excursiones que no puedes perderte en la Laponia finlandesa]({{% ref 
+siete-excursiones-en-laponia-finlandesa %}}) 
 
-📌 {{< reflink path=posts/2018/09/una-maleta-para-laponia-finlandesa >}} 
+📌 [Una maleta para… Laponia finlandesa]({{% ref una-maleta-para-laponia-finlandesa %}}) 
 
 ## Costa Azul, glamur, flores y playas de foto
 
@@ -89,7 +90,8 @@ poner un buen broche al viaje podéis realizar una excursión en barco o daros e
 recorrer el Mediterráneo en una excursión en un yate privado y recorrer la Costa Azul 
 como auténticas ‘celebrities’. 
 
-📌 {{< reflink path=posts/2021/07/ruta-de-los-jardines-costa-azul-francia >}} 
+📌 [Ruta por los jardines y perfumes de la Costa Azul]({{% ref 
+ruta-de-los-jardines-costa-azul-francia %}}) 
 
 ## Islandia: naturaleza en estado puro
 
@@ -108,7 +110,8 @@ ballenas en este agitado mar. Nuestra recomendación es dedicar un par de días 
 capital e iniciar después una ruta en coche de alquiler a vuestro aire para disfrutar de 
 este país en total libertad. 
 
-📌 {{< reflink path=posts/2021/03/que-ver-sur-islandia-consejos-practicos >}} 
+📌 [Viaje por el sur de Islandia, la isla del desafío]({{% ref 
+que-ver-sur-islandia-consejos-practicos %}}) 
 
 ## Sur de Italia: romanticismo en Apulia
 
@@ -127,9 +130,11 @@ llamadas trullis y una historia llena de picaresca que merece la pena conocer. Y
 queréis renunciar a la playa en vuestro viaje de novios por Europa, os encantarán las de 
 Salento o las de Bari. 
 
-📌 {{< reflink path=posts/2019/11/que-ver-hacer-viaje-romantico-apulia-italia >}} 
+📌 [Esto es lo que ocurrirá si haces un viaje romántico a Apulia]({{% ref 
+que-ver-hacer-viaje-romantico-apulia-italia %}}) 
 
-📌 {{< reflink path=posts/2019/04/que-ver-alberobello-italia-unesco >}} 
+📌 [Secretos de Alberobello, un ‘pícaro’ pueblo italiano de Puglia]({{% ref 
+que-ver-alberobello-italia-unesco %}}) 
 
 ## Noruega: Oslo y los fiordos
 
@@ -149,14 +154,16 @@ en ferry. Lo que no puede faltar de ninguna manera es pasar por la preciosa loca
 **Lysefjord** (el situado más al sur), **Nærøyfjord** y **Geirangerfjord**, estos dos 
 últimos Patrimonio de la Humanidad por la Unesco. 
 
-Para ambientarte, tienes que echar un ojo a nuestro reportaje {{< reflink 
-path=posts/2020/08/prepara-tu-viaje-libros-series-de-noruega >}}, con recomendaciones de 
+Para ambientarte, tienes que echar un ojo a nuestro reportaje [Prepara tu viaje a 
+Noruega]({{% ref prepara-tu-viaje-libros-series-de-noruega %}}), con recomendaciones de 
 películas y libros sobre este país. Además, en Etheria Magazine nos fascina tanto 
 Noruega que le hemos dedicado varios artículos: 
 
-📌 {{< reflink path=posts/2020/01/que-ver-en-noruega-trondheim-bergen-y-oslo >}} 
+📌 [Recorre las 3 capitales de Noruega: Trondheim, Bergen y Oslo]({{% ref 
+que-ver-en-noruega-trondheim-bergen-y-oslo %}}) 
 
-📌 {{< reflink path=posts/2018/12/razones-para-viajar-a-noruega >}} 
+📌 [11 razones por las que deberías viajar a Noruega]({{% ref 
+razones-para-viajar-a-noruega %}}) 
 
 ## Croacia: la costa y sus islas
 
@@ -178,10 +185,11 @@ Si queréis una luna de miel original y privada, tened muy en cuenta la opción 
 concurrido de sus islas y descubrir calas desiertas y escondidas bañadas por un mar tan 
 transparente que no parece real. 
 
-📌 {{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}} 
+📌 [Croacia: consejos y visitas imprescindibles para tu primer viaje]({{% ref 
+viaje-a-croacia-como-organizar-que-ver-hacer %}}) 
 
-📌 {{< reflink 
-path=posts/2018/10/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia >}} 
+📌 [10 razones para visitar en otoño el Parque Nacional Lagos de Plitvice (Croacia)]({{% 
+ref 10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia %}}) 
 
 ## Repúblicas Bálticas: una ruta por Estonia, Letonia y Lituania
 
@@ -214,12 +222,14 @@ Además, las otras islas del archipiélago, **Gozo** y **Comino**, son perfectas
 hacer una excursión en la que desconectar de todo y disfrutar de un mar tan azul que no 
 os lo vais a poder creer. Por cierto, si sois amantes del cine y las series, en Malta 
 podréis recorrer algunos célebres escenarios de producciones como 'Juego de Tronos', 
-'Gladiator' o 'Troya', ya os lo contamos en nuestro artículo {{< reflink 
-path=posts/2019/06/viajes-cine-malta-hollywood-mediterraneo >}}. 
+'Gladiator' o 'Troya', ya os lo contamos en nuestro artículo [Malta, el Hollywood 
+Mediterráneo]({{% ref viajes-cine-malta-hollywood-mediterraneo %}}). 
 
-📌 {{< reflink path=posts/2019/11/que-ver-hacer-malta-gozo-comino-5-dias-con-amigas >}} 
+📌 [Planes en Malta, un destino mediterráneo que nunca defrauda]({{% ref 
+que-ver-hacer-malta-gozo-comino-5-dias-con-amigas %}}) 
 
-📌 {{< reflink path=posts/2021/04/que-ver-hacer-gozo-malta >}} 
+📌 [La isla de Gozo, un lugar donde querrás quedarte a vivir]({{% ref 
+que-ver-hacer-gozo-malta %}}) 
 
 ## Centroeuropa: grandeza imperial en Praga, Viena y Budapest
 
@@ -242,9 +252,11 @@ hará corta vuestra estancia. Y si queréis un toque de lujo, encontraréis prec
 hoteles históricos de cinco estrellas y restaurantes gourmet para celebrar como se 
 merece vuestra luna de miel. 
 
-📌 {{< reflink path=posts/2019/09/que-hacer-ver-2-dias-en-praga-museos-festivales >}} 
+📌 [48 horas en… Praga para cosechar el otoño]({{% ref 
+que-hacer-ver-2-dias-en-praga-museos-festivales %}}) 
 
-📌 {{< reflink 
-path=posts/2021/08/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy >}} 
+📌 [Karlovy Vary, Mariánské Lázně y Františkovy Lázně, el Triángulo balneario 
+checo.]({{% ref balnearios-republica-checa-karlovy-vary-marianske-frantiskovy %}}) 
 
-📌 {{< reflink path=posts/2021/08/hotel-de-lujo-en-budapest-matild-palace >}}
+📌 [No te pierdas el renovado Matild Palace, tu hotel de lujo en Budapest]({{% ref 
+hotel-de-lujo-en-budapest-matild-palace %}})

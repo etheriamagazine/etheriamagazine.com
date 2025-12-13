@@ -93,10 +93,8 @@ luz](https://amzn.to/3q57gws) (desde 15 €) o estar atenta a su próxima ponenc
 
 ### También te puede interesar...
 
-{{< reflink 
-path=posts/2020/11/mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion 
->}}. 
+{{< reflink mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion >}}. 
 
-{{< reflink path=posts/2021/11/entrevista-miguel-jara-la-otra-salud >}} 
+{{< reflink entrevista-miguel-jara-la-otra-salud >}} 
 
-{{< reflink path=posts/2021/10/como-afecta-la-pandemia-a-la-salud-mental >}}.
+{{< reflink como-afecta-la-pandemia-a-la-salud-mental >}}.

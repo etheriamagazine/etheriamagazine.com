@@ -201,6 +201,6 @@ Naval](https://www.fundacionmuseonaval.com/museonavalmadrid.html).
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/09/15-obras-imprescindibles-en-el-prado >}}. 
+{{< reflink 15-obras-imprescindibles-en-el-prado >}}. 
 
-{{< reflink path=posts/2018/10/museo-de-las-relaciones-rotas-zagreb >}}.
+{{< reflink museo-de-las-relaciones-rotas-zagreb >}}.

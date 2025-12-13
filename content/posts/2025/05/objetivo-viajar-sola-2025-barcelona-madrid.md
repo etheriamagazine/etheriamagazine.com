@@ -18,8 +18,8 @@ esperan. ¿Te vienes?
 
 ![Belén Orive Martín, de MdjemAfrica, y Tatiana Rodríguez de la Paz, de Viajar sola te da alas.](https://fotos.etheriamagazine.com/2025/05/Objetivo-Viajar-Sola-Madrid.jpeg "Belén Orive, de MdjemAfrica, y Tatiana Rodríguez, de Viajar sola te da alas.")
 
-Tras el éxito de la primera edición del {{< reflink 
-path=posts/2024/05/encuentro-objetivo-viajar-sola >}}, regresa este mes de mayo con dos 
+Tras el éxito de la primera edición del [Encuentro de Viajeras 2.0. Objetivo: Viajar 
+Sola]({{% ref encuentro-objetivo-viajar-sola %}}), regresa este mes de mayo con dos 
 convocatorias, una en Barcelona y otra en Madrid, para seguir alimentando el espíritu 
 libre, valiente y transformador de las mujeres viajeras. Con un formato dinámico, 
 inspirador y lleno de cariño, estas jornadas desean reunir a todas aquellas que ya 
@@ -47,9 +47,10 @@ Jelic](https://etheriamagazine.com/author/sania-jelic/), viajera senior y colabo
 de Etheria Magazine; **María Marco**, autora de 'Gracias por sonreír, señorita'; 
 **Marina Flores**, experta en nomadismo digital; **Laura Vendrell**, _coach_ y viajera; 
 y **Marta Insausti**, una motera de armas tomar que ha dado la vuelta al mundo en 
-solitario. No te pierdas {{< reflink path=posts/2025/04/marta-insausti-almacen-viajes 
->}} y su nuevo proyecto viajero en Madrid. Todas ellas compartirán sus vivencias en un 
-diálogo cercano que abre camino a la reflexión colectiva. 
+solitario. No te pierdas [este artículo donde nos contaba su historia más personal]({{% 
+ref marta-insausti-almacen-viajes %}}) y su nuevo proyecto viajero en Madrid. Todas 
+ellas compartirán sus vivencias en un diálogo cercano que abre camino a la reflexión 
+colectiva. 
 
 El programa se completa con una improvisación teatral viajera, sorteos de una estancia 
 en un hotel y de una experiencia de enoturismo, entre otras sorpresas. Además, se 

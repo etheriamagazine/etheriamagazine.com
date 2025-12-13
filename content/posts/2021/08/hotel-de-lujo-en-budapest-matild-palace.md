@@ -106,6 +106,6 @@ Fotografías cedidas por Marriot International.
 
 ## También te puede interesar
 
-{{< reflink path=posts/2019/10/que-ver-viaje-amigas-budapest-en-3-dias >}} 
+{{< reflink que-ver-viaje-amigas-budapest-en-3-dias >}} 
 
-{{< reflink path=posts/2021/07/hoteles-de-lujo-en-ciudades-historicas >}}
+{{< reflink hoteles-de-lujo-en-ciudades-historicas >}}

@@ -98,9 +98,8 @@ desdibuje.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/11/recetas-para-aprovechar-restos-comida >}}. 
+{{< reflink recetas-para-aprovechar-restos-comida >}}. 
 
-{{< reflink path=posts/2021/05/suiza-hoteles-y-restaurantes-sostenibles >}}. 
+{{< reflink suiza-hoteles-y-restaurantes-sostenibles >}}. 
 
-{{< reflink path=posts/2021/05/destinos-espanoles-mas-sostenibles-turismo-responsable 
->}}.
+{{< reflink destinos-espanoles-mas-sostenibles-turismo-responsable >}}.

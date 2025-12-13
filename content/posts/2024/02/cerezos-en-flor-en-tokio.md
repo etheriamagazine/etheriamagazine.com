@@ -119,8 +119,8 @@ caminando alrededor de el mismo.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/12/sake-en-tokio >}} 
+{{< reflink sake-en-tokio >}} 
 
-{{< reflink path=posts/2023/02/planes-originales-en-tokio >}} 
+{{< reflink planes-originales-en-tokio >}} 
 
-{{< reflink path=posts/2021/07/que-hacer-3-dias-en-tokio-viajes-mujeres >}}
+{{< reflink que-hacer-3-dias-en-tokio-viajes-mujeres >}}

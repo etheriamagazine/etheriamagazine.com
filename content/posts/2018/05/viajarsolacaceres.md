@@ -99,7 +99,6 @@ degustación. Plaza San Mateo, 1. Tel. 927 242 928
 
 **No te pierdas...** 
 
-{{< reflink 
-path=posts/2020/05/escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica >}}. 
+{{< reflink escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica >}}. 
 
-{{< reflink path=posts/2022/05/ruta-pueblos-bonitos-badajoz >}}.
+{{< reflink ruta-pueblos-bonitos-badajoz >}}.

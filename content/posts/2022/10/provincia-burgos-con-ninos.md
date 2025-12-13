@@ -83,9 +83,9 @@ de 1964. Del pozo de Ayoluengo comenzó a aflorar petróleo... y lo estuvo hacie
 enero de 2017. Aunque ahora no está en activo, sí que se puede visitar el museo para 
 aprender cómo se origina y los productos derivados del mismo, que son muchos más de los 
 que pensamos... 📌 No dejéis de visitar el cercano **Geoparque de Las Loras**, del que 
-os hablamos extensamente en el artículo: {{< reflink 
-path=posts/2020/12/7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia 
->}} 
+os hablamos extensamente en el artículo: [Geoparque Las Loras, una cita sorprendente 
+entre Burgos y Palencia]({{% ref 
+7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia %}}) 
 
 ![Museo del Petróleo de Burgos.](https://fotos.etheriamagazine.com/2022/10/Museo-del-petroleo-burgos.jpg "Museo del Petróleo de Burgos.")
 
@@ -102,7 +102,8 @@ herramientas, empujar una vagoneta, sentir la humedad del interior... Podéis re
 visita en minasdepuras.com 
 
 📌 Si el mundo bajo tierra os atrae, en este artículo encontraréis diversas propuestas: 
-{{< reflink path=posts/2022/06/burgos-subterraneo >}}. 
+[Burgos subterráneo, planes alucinantes en cuevas, minas y canteras para este 
+verano]({{% ref burgos-subterraneo %}}). 
 
 ![Mina de Puras, ideal para una visita a Burgos con niños](https://fotos.etheriamagazine.com/2022/10/Burgos-familias-mina-de-puras.jpg "Mina de Puras.")
 
@@ -120,8 +121,8 @@ se pueden descargar para no perderse nada por el camino (Rutas: La Engaña, Ojo 
 Botánica, Senderos del Tiempo, Historias del Sur). Allí mismo encontraréis una cafetería 
 con bonitas vistas. 
 
-📌**No te pierdas:** {{< reflink path=posts/2019/06/que-ver-hacer-ruta-merindades-burgos 
->}}. 
+📌**No te pierdas:** [Ruta para desconectar en Las Merindades de Burgos]({{% ref 
+que-ver-hacer-ruta-merindades-burgos %}}). 
 
 ![Parque de aventuras Valterria.](https://fotos.etheriamagazine.com/2022/10/Valterria-parque-aventuras.jpg "Parque de aventuras Valterria.")
 

@@ -155,6 +155,6 @@ Michaelerkuppel** **Tel. +43 15337570**
 
 También te puede interesar en Austria 
 
-{{< reflink path=posts/2022/07/que-hacer-en-viena-con-amigas >}}. 
+{{< reflink que-hacer-en-viena-con-amigas >}}. 
 
-{{< reflink path=posts/2022/08/que-ver-burgenland-austria >}}.
+{{< reflink que-ver-burgenland-austria >}}.

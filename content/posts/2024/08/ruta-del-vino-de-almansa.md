@@ -299,4 +299,4 @@ buenos vinos.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2023/11/pueblos-bonitos-castilla-la-mancha >}}
+{{< reflink pueblos-bonitos-castilla-la-mancha >}}

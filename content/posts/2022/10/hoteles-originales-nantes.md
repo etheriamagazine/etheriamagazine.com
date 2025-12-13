@@ -117,4 +117,4 @@ imaginación.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/08/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa >}}.
+{{< reflink que-ver-hacer-en-nantes-la-ciudad-francesa-creativa >}}.

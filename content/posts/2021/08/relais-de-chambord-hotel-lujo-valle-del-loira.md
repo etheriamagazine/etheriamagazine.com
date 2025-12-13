@@ -127,8 +127,8 @@ Fotografías cedidas por © Relais de Chambord.
 
 ### También te puede interesar
 
-{{< reflink path=posts/2019/03/que-ver-ruta-en-coche-valle-del-loira >}} 
+{{< reflink que-ver-ruta-en-coche-valle-del-loira >}} 
 
-{{< reflink path=posts/2021/07/ruta-de-los-jardines-costa-azul-francia >}} 
+{{< reflink ruta-de-los-jardines-costa-azul-francia >}} 
 
-{{< reflink path=posts/2020/09/mejores-destinos-para-viajar-en-francia >}}
+{{< reflink mejores-destinos-para-viajar-en-francia >}}

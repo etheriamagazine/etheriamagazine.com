@@ -263,8 +263,8 @@ Brescia](http://www.bresciatourism.it) y [Turismo de Italia](https://www.italia.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/04/que-ver-alberobello-italia-unesco >}}. 
+{{< reflink que-ver-alberobello-italia-unesco >}}. 
 
-{{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}}. 
+{{< reflink que-ver-en-napoles-en-fin-de-semana >}}. 
 
-{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}.
+{{< reflink paseos-por-los-jardines-mas-bellos-de-florencia >}}.

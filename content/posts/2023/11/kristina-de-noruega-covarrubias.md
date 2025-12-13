@@ -32,16 +32,16 @@ una princesa nórdica como Kristina de Noruega con Covarrubias? Os lo contamos.
 
 ## Quién fue Kristina de Noruega
 
-La princesa Kristina Håkonsdatter (1234-1262), nacida en {{< reflink 
-path=posts/2020/01/que-ver-en-noruega-trondheim-bergen-y-oslo >}} e hija del rey Haakon 
-IV de Noruega, fue una víctima más del engranaje político y las alianzas habituales 
-entre los reinos del siglo XIII. En este caso, su padre tuvo a bien desposarla con un 
-hermano del rey Alfonso X el Sabio. Con poco más de veinte años emprendió un largo viaje 
-desde Noruega para satisfacer tanto los deseos de su progenitor, que veía en este enlace 
-una oportunidad para sus ambiciones comerciales en Europa, como los del monarca 
-castellano, que aspiraba a liderar el Imperio Germánico. Acompañada por una expedición 
-de consejeros y nobles damas (se cree que estaba compuesta por más de cien personas), 
-pasó por Inglaterra y atravesó Francia antes de pisar la península ibérica. 
+La princesa Kristina Håkonsdatter (1234-1262), nacida en [Bergen]({{% ref 
+que-ver-en-noruega-trondheim-bergen-y-oslo %}}) e hija del rey Haakon IV de Noruega, fue 
+una víctima más del engranaje político y las alianzas habituales entre los reinos del 
+siglo XIII. En este caso, su padre tuvo a bien desposarla con un hermano del rey Alfonso 
+X el Sabio. Con poco más de veinte años emprendió un largo viaje desde Noruega para 
+satisfacer tanto los deseos de su progenitor, que veía en este enlace una oportunidad 
+para sus ambiciones comerciales en Europa, como los del monarca castellano, que aspiraba 
+a liderar el Imperio Germánico. Acompañada por una expedición de consejeros y nobles 
+damas (se cree que estaba compuesta por más de cien personas), pasó por Inglaterra y 
+atravesó Francia antes de pisar la península ibérica. 
 
 Fue recibida con honores en tierras aragonesas y catalanas antes de su llegada a Soria 
 el 22 de diciembre de 1257. La Nochebuena la pasó en el **monasterio de las Huelgas** 
@@ -184,8 +184,8 @@ permaneció abierta hasta 1975.
 ![Casa del Obispo, en Covarrubias.](https://fotos.etheriamagazine.com/2023/11/casa-obispo-covarrubias.jpg "Casa del Obispo Peña. © Turismo Covarrubias")
 
 Y así, entre visitas, paseos, recuerdos de Kristina de Noruega y algún que otro vino 
-rosado de la **D.O. de Arlanza** habréis pasado un fin de semana inolvidable en la {{< 
-reflink path=posts/2022/06/burgos-subterraneo >}}. Garantizado. 
+rosado de la **D.O. de Arlanza** habréis pasado un fin de semana inolvidable en la 
+[provincia de Burgos]({{% ref burgos-subterraneo %}}). Garantizado. 
 
 **Más información**: [Turismo de Covarrubias](https://covarrubias.es/). 
 

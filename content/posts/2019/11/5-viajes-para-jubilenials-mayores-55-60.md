@@ -23,15 +23,16 @@ alejarte de tu entorno y darte el gustazo de hacer un viaje, o dos o tres al añ
 Para las viajeras primerizas, tenemos cinco recomendaciones, dentro de España, en 
 Europa, en Asia, en África y en América. Oceanía lo dejamos para aquellas que estéis más 
 viajadas (consultad estos artículos de 
-[Australia]({{% ref 7-consejos-para-viajar-a-australia %}}) y 
-[Nueva Zelanda]({{% ref nueva-zelanda-en-autocaravana %}}) 
+[Australia](http://etheriamagazine.com/2019/03/07/7-consejos-para-viajar-a-australia/) y 
+[Nueva Zelanda](http://etheriamagazine.com/2018/08/21/nueva-zelanda-en-autocaravana/) 
 que os podrán ayudar a organizarlos). 
 
 Estos destinos no son nada arriesgados, no son caros y hay una oferta enorme en cuanto a 
 billetes de avión, hoteles y agencias de viajes. 
 
-📌 No te pierdas los viajes de Sania Jelic: {{< reflink 
-path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}}. 
+📌 No te pierdas los viajes de Sania Jelic: [Viajar sola por el mundo tras la 
+jubilación, el nuevo plan de vida de Sania Jelic]({{% ref sania-jelic-viajar-sola-mas-65 
+%}}). 
 
 ![cadiz, viajes mas de 60 anos en espana](https://fotos.etheriamagazine.com/2019/11/cadiz-viaje-mas-60.jpg "Playa de la Caleta (Cádiz). © Jorge Fernández Salas/ Unsplash")
 
@@ -61,8 +62,10 @@ Las amantes del arte tienen en Florencia uno de los destinos donde disfrutar cad
 del día. Paseos para admirar su arquitectura, visitas a sus monumentos más emblemáticos 
 y restaurantes donde degustar la riquísima comida italiana. No nos detenemos más en esta 
 hermosa ciudad porque tenemos un artículo en el que encontrarás muchísima información. 
-Continúa leyendo: [48 horas en Florencia]({{% ref 48-horas-en-florencia-fin-de-semana-que-ver-hacer.md %}}) o
-[Visitar Florencia por segunda vez]({{% ref 15-ideas-para-disfrutar-de-florencia-por-segunda-vez %}}). 
+Continúa leyendo: [48 horas en 
+Florencia](http://etheriamagazine.com/2018/05/16/48-horas-en-florencia/) o [Visitar 
+Florencia por segunda 
+vez](http://etheriamagazine.com/2018/09/21/15-ideas-para-disfrutar-de-florencia-por-segunda-vez/). 
 Si buscas algo organizado, Viajes El Corte Ingles suele tener opciones para mayores de 
 60 años y viajes para jubilados. 
 
@@ -75,8 +78,8 @@ solo con mujeres. Dejando a un lado ese sentimiento de inseguridad, te podemos d
 si se guardan ciertas precauciones –como en cualquier otra ciudad turística– es bastante 
 segura. Nuestra recomendación es que te alojes en un riad dentro de la medina (os hemos 
 hablado de dos de ellos: [Riad Belle 
-Epoque]({{% ref escapada-hotel-romantico-marrakech-riad-belle-epoque %}}) 
-y [La Sultana]({{% ref hotel-la-sultana-marrakech %}})) o si 
+Epoque](http://etheriamagazine.com/2019/10/15/escapada-hotel-romantico-marrakech-riad-belle-epoque/) 
+y [La Sultana](http://etheriamagazine.com/2019/02/27/hotel-la-sultana-marrakech/)) o si 
 lo haces en un hotel fuera del casco histórico procura que tenga un transfer gratuito a 
 la ciudad durante todo el día. 
 
@@ -84,7 +87,7 @@ Una vez en Marrakech, puedes contratar alguna visita guiada o bien recorrer por 
 cuenta sus palacios y mezquitas (con un plano es muy sencillo y lo puedes hacer 
 andando). No te pierdas el Jardín Majorelle pero acude a primera hora porque luego es 
 imposible caminar dentro del recinto. Te damos muchas más pistas en [Marrakech con 
-amigas]({{% ref viaje-de-amigas-a-marrakech %}}). 
+amigas](http://etheriamagazine.com/2018/12/27/viaje-de-amigas-a-marrakech/). 
 
 Encontrarás diversos combinados de Marruecos en Transrutas para mayores de 55 años. 
 
@@ -100,9 +103,9 @@ playas).
 Es un destino que no es especialmente caro por lo que te sugerimos que te alojes en un 
 buen hotel y contrates excursiones guiadas para aprovechar más las visitas. Si te atrae 
 Tailandia, seguro que en estos temas encuentras muchas ideas: [Phuket con 
-amigas]({{% ref que-ver-en-phuket-tailandia-sola-o-con-amigas %}}) 
+amigas](http://etheriamagazine.com/2019/06/26/que-ver-en-phuket-tailandia-sola-o-con-amigas/) 
 o con quien quieras y [Viaje a Bangkok en clave 
-‘foodie’]({{% ref viaje-con-amigas-tailandia-donde-comer-bangkok %}}). 
+‘foodie’](http://etheriamagazine.com/2019/10/23/viaje-con-amigas-tailandia-donde-comer-bangkok/). 
 
 ![Puente de Manhattan, viajes mayores de 60 a nueva york](https://fotos.etheriamagazine.com/2019/11/viaje-nueva-york-mayores-55.jpg "Puente de Manhattan (Nueva York). © Pedro Lastra / Unsplash")
 
@@ -114,7 +117,7 @@ mentalmente. Si dispones de varios días, podrías dedicar uno de ellos a sus mu
 a visitar barrios tan conocidos como Brooklyn o novedosos como **Hudson Yards**, que 
 tiene cinco nuevos rascacielos... También tenemos un artículo que puede interesarte, 
 sigue leyendo [Nueva York: el mejor plan al otro lado del 
-charco]({{% ref viaje-con-amigas-nueva-york-primavera %}}). 
+charco](http://etheriamagazine.com/2019/05/17/viaje-con-amigas-nueva-york-primavera/). 
 
 Estas son sólo cinco sugerencias, aunque el mundo está a tus pies y puedes viajar donde 
 más te apetezca.

@@ -35,14 +35,14 @@ que brota agua sin cesar.
 
 ## Tres ciudades termales en Chequia para sanar cuerpo y mente
 
-Si tu puerta de entrada a la República Checa es {{< reflink 
-path=posts/2019/09/que-hacer-ver-2-dias-en-praga-museos-festivales >}} aprovecha, antes 
-o después de la escapada termal, para conocer esta histórica ciudad, pero anímate 
-también a recorrer regiones tan completas como Bohemia del Oeste. Desde la capital es 
-muy fácil llegar tanto en autobús (unas dos horas) como en tren (unas tres horas) hasta 
-las ciudades termales. ¿Y dónde es mejor alojarse? Cualquiera de ellas es adecuada ya 
-que la distancia entre **Karlovy** **Vary** y **Mariánské Lázně** es de 54 kilómetros y 
-de 46 hasta **Františkovy Lázně**. 
+Si tu puerta de entrada a la República Checa es [Praga]({{% ref 
+que-hacer-ver-2-dias-en-praga-museos-festivales %}}) aprovecha, antes o después de la 
+escapada termal, para conocer esta histórica ciudad, pero anímate también a recorrer 
+regiones tan completas como Bohemia del Oeste. Desde la capital es muy fácil llegar 
+tanto en autobús (unas dos horas) como en tren (unas tres horas) hasta las ciudades 
+termales. ¿Y dónde es mejor alojarse? Cualquiera de ellas es adecuada ya que la 
+distancia entre **Karlovy** **Vary** y **Mariánské Lázně** es de 54 kilómetros y de 46 
+hasta **Františkovy Lázně**. 
 
 ![Karlovy Vary  Triangulo Balneario de la Republica Checa](https://fotos.etheriamagazine.com/2021/08/ciudad-termal-Karlovy-Vary.jpg "Karlovy Vary. © Renner Ladislav")
 
@@ -157,9 +157,9 @@ donde es posible observar volcanes de lodo.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/06/12-originales-hoteles-en-la-republica-checa >}}. 
+{{< reflink 12-originales-hoteles-en-la-republica-checa >}}. 
 
-{{< reflink path=posts/2020/03/prepara-tu-viaje-a-chequia >}} (guías, novelas y 
+[Prepara tu viaje a… Chequia]({{% ref prepara-tu-viaje-a-chequia %}}) (guías, novelas y 
 películas) 
 
-{{< reflink path=posts/2019/11/ruta-revolucion-terciopelo-comunismo-republica-checa >}}.
+{{< reflink ruta-revolucion-terciopelo-comunismo-republica-checa >}}.

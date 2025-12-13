@@ -211,11 +211,10 @@ Lisboa](https://www.visitlisboa.com/es).
 
 📌 **También te puede interesar...** 
 
-{{< reflink path=posts/2018/10/12-miradores-para-exprimir-lisboa >}}. 
+{{< reflink 12-miradores-para-exprimir-lisboa >}}. 
 
-{{< reflink path=posts/2024/08/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf 
->}}. 
+{{< reflink escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf >}}. 
 
-{{< reflink path=posts/2018/07/48-horas-en-cascais-sintra-y-estoril >}}. 
+{{< reflink 48-horas-en-cascais-sintra-y-estoril >}}. 
 
-{{< reflink path=posts/2020/09/que-ver-hacer-obidos-pueblo-medieval-portugal >}}.
+{{< reflink que-ver-hacer-obidos-pueblo-medieval-portugal >}}.

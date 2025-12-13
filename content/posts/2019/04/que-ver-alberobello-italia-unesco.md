@@ -145,6 +145,6 @@ Terracotta_) donde todos los asistentes pueden votar.
 
 ### También te puede interesar
 
-{{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}} 
+{{< reflink que-ver-en-napoles-en-fin-de-semana >}} 
 
-{{< reflink path=posts/2020/08/10-grandes-viajes-a-italia >}}
+{{< reflink 10-grandes-viajes-a-italia >}}

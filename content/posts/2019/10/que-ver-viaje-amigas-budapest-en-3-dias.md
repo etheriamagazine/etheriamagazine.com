@@ -254,6 +254,6 @@ Más información en [Turismo de Budapest.](https://www.budapestinfo.hu/es/)
 
 ### Sigue leyendo sobre Budapest
 
-{{< reflink path=posts/2021/12/mercadillos-de-navidad-en-budapest >}} 
+{{< reflink mercadillos-de-navidad-en-budapest >}} 
 
-{{< reflink path=posts/2021/08/hotel-de-lujo-en-budapest-matild-palace >}}.
+{{< reflink hotel-de-lujo-en-budapest-matild-palace >}}.

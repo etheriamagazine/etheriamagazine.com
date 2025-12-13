@@ -168,6 +168,6 @@ disponible en La Casa del Libro.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2024/02/guia-namibia-sania-jelic >}} 
+{{< reflink guia-namibia-sania-jelic >}} 
 
-{{< reflink path=posts/2024/01/consejos-viajar-sola-por-africa >}}
+{{< reflink consejos-viajar-sola-por-africa >}}

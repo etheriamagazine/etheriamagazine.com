@@ -138,9 +138,9 @@ a las afueras de Toledo.
 
 ✅ **Puedes consultar:** 
 
-{{< reflink path=posts/2022/02/que-ver-en-toledo >}} 
+{{< reflink que-ver-en-toledo >}} 
 
-{{< reflink path=posts/2022/04/15-razones-para-visitar-puy-du-fou-toledo-en-2022 >}} 
+{{< reflink 15-razones-para-visitar-puy-du-fou-toledo-en-2022 >}} 
 
 ## Guía práctica de las Barrancas de Burujón
 
@@ -169,8 +169,8 @@ al Asador El Nogal o al Restaurante Antonio.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/01/que-ver-en-catedral-de-toledo >}} 
+{{< reflink que-ver-en-catedral-de-toledo >}} 
 
-{{< reflink path=posts/2019/08/visitas-originales-toledo >}} 
+{{< reflink visitas-originales-toledo >}} 
 
-{{< reflink path=posts/2021/09/excursion-a-madridejos-azafran-de-toledo >}}
+{{< reflink excursion-a-madridejos-azafran-de-toledo >}}

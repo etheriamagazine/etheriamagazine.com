@@ -36,8 +36,8 @@ Es un hotel amplio (ocupa 55.000 metros cuadrados), que busca ofrecer todo lo ne
 para unas vacaciones perfectas. Eso incluye seis piscinas, una galería comercial de 300 
 metros cuadrados, un inmenso spa, el Sport Center Princesa Yaiza (con todo tipo de 
 equipos Technogym para mantenerte en forma), un enorme kids club y varios restaurantes. 
-Así, sólo tendrás que salir del hotel para las {{< reflink 
-path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}}, todo lo demás lo 
+Así, sólo tendrás que salir del hotel para las [excursiones imprescindibles en 
+Lanzarote]({{% ref viajar-sola-amigas-imprescindible-lanzarote %}}), todo lo demás lo 
 tendrás muy a mano. 
 
 Y para organizar esas excursiones que no te puedes perder, no dudes en acudir al **Guest 
@@ -141,9 +141,8 @@ Yaiza Suite Hotel Resort.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/02/que-ver-lanzarote >}} 
+{{< reflink que-ver-lanzarote >}} 
 
-{{< reflink 
-path=posts/2020/08/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}} 
+{{< reflink la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}} 
 
-{{< reflink path=posts/2019/09/cesar-manrique-ruta-en-lanzarote >}}
+{{< reflink cesar-manrique-ruta-en-lanzarote >}}

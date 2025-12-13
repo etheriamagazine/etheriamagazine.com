@@ -141,10 +141,8 @@ Suiza](https://www.myswitzerland.com/es/destinos/regiones/regiones-suisa-zuerich
 
 📌 **También te puede interesar:** 
 
-{{< reflink 
-path=posts/2021/10/10-ciudades-con-mercadillos-para-contagiarse-del-espiritu-navideno 
->}} 
+{{< reflink 10-ciudades-con-mercadillos-para-contagiarse-del-espiritu-navideno >}} 
 
-{{< reflink path=posts/2018/09/tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}} 
+{{< reflink tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}} 
 
-{{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}}
+{{< reflink ruta-en-coche-electrico-por-suiza >}}

@@ -159,9 +159,8 @@ la bahía de Roses, el litoral de Empúries y l'Escala.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/08/10-planes-comarca-ampurdan-costa-brava >}} 
+{{< reflink 10-planes-comarca-ampurdan-costa-brava >}} 
 
-{{< reflink path=posts/2020/06/viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava 
->}} 
+{{< reflink viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava >}} 
 
-{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}
+{{< reflink lugares-secretos-de-cataluna-que-visitar >}}

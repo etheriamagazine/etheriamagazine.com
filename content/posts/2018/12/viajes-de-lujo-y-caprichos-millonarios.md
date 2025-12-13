@@ -70,8 +70,8 @@ conocidos están el **Burj Al Arab**, en Dubai, al que puedes llegar directament
 helipuerto y donde podrás alojarte en una suite de 780 m2; el **Poseidon Undersea 
 Resort**, en las islas Fiji, cuyas habitaciones están bajo el mar; **The Raj Palace**, 
 un auténtico palacio en Jaipur; el **Hotel President Wilson**, en Ginebra; o el 
-increíble {{< reflink path=posts/2018/11/plaza-athenee-un-hotel-de-ensueno-en-paris >}}, 
-en París, del que ya te hemos hablado en otras ocasiones. 
+increíble [Plaza Athénée]({{% ref plaza-athenee-un-hotel-de-ensueno-en-paris %}}), en 
+París, del que ya te hemos hablado en otras ocasiones. 
 
 ![Poseidon Undersea Resort, viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad](https://fotos.etheriamagazine.com/2018/12/Poseidon-Undersea-Resort.jpg "© Poseidon Undersea Resort.")
 

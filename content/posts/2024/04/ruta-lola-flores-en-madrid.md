@@ -98,11 +98,11 @@ Las dos últimas etapas de esta ruta tienen que ver con el final de la artista, 
 mayo de 1995. El **Teatro Fernán Gómez. Centro Cultural de la Villa**, en la plaza de 
 Colón, donde se instaló su capilla ardiente, por la que pasaron más de 150.000 personas. 
 La importancia de su figura hizo que su funeral fuera retransmitido por la televisión en 
-directo y que su entierro en {{< reflink 
-path=posts/2019/10/necroturismo-que-ver-visitas-guiadas-cementerio-almudena-madrid >}} 
-se convirtiera en uno de los más multitudinarios que se recuerdan. La última para es, 
-precisamente, en este cementerio, en el **Mausoleo** dedicado a ella y a su hijo Antonio 
-Flores, que murió a los 33 años dos semanas después de Lola. 
+directo y que su entierro en [La Almudena]({{% ref 
+necroturismo-que-ver-visitas-guiadas-cementerio-almudena-madrid %}}) se convirtiera en 
+uno de los más multitudinarios que se recuerdan. La última para es, precisamente, en 
+este cementerio, en el **Mausoleo** dedicado a ella y a su hijo Antonio Flores, que 
+murió a los 33 años dos semanas después de Lola. 
 
 **Más información:** 
 
@@ -117,6 +117,6 @@ a tu móvil u ordenador en el link anterior.
 
 ****También en Etheria Magazine****: 
 
-{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}} 
+{{< reflink ruta-ava-gardner-en-madrid >}} 
 
-{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}}
+{{< reflink tabernas-historicas-de-madrid >}}

@@ -219,9 +219,8 @@ Nieves**.
 
 ### También te puede interesar
 
-{{< reflink path=posts/2020/11/semana-de-la-castana-en-jubrique-valle-del-genal >}}. 
+{{< reflink semana-de-la-castana-en-jubrique-valle-del-genal >}}. 
 
-{{< reflink path=posts/2024/07/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga 
->}}. 
+{{< reflink road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga >}}. 
 
-{{< reflink path=posts/2019/04/ronda-escapada-con-amigas >}}.
+{{< reflink ronda-escapada-con-amigas >}}.

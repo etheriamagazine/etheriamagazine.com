@@ -275,4 +275,4 @@ grandes de América Latina.
 ### No te pierdas... Cuba con amigas
 
 [Viajar con amigas a Cuba siempre es buena 
-idea]({{% ref viajar-con-amigas-a-cuba %}}).
+idea](http://etheriamagazine.com/2019/01/25/viajar-con-amigas-a-cuba/).

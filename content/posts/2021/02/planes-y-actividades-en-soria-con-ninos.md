@@ -167,8 +167,8 @@ y visitar la Catedral de Nuestra Señora de la Asunción. De recuerdo gastronóm
 picar en el coche, compra los gamusinos de chocolate o de dulce de leche. 
 
 Extra: Cuando quieras hacer una escapada con amigas por Soria, no dejes de consultar 
-este artículo para mujeres urbanitas: {{< reflink 
-path=posts/2019/08/ocho-razones-para-viajar-a-soria-con-amigas >}}. 
+este artículo para mujeres urbanitas: ["8 razones para hacer una cura antiestrés con 
+amigas en Soria"]({{% ref ocho-razones-para-viajar-a-soria-con-amigas %}}). 
 
 ![Castilla Termal Burgo de Osma.](https://fotos.etheriamagazine.com/2021/02/balneario-burgo-osma-en-familia.jpg "© Castilla Termal Burgo de Osma.")
 
@@ -199,14 +199,12 @@ enlaces encontrarás una información más detallada.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/05/8-excursiones-con-ninos-en-alicante >}}. 
+{{< reflink 8-excursiones-con-ninos-en-alicante >}}. 
 
-{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
->}} 
+{{< reflink 12-actividades-familiares-para-viajes-con-ninos-en-cadiz >}} 
 
-{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
->}}. 
+{{< reflink excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos >}}. 
 
-{{< reflink path=posts/2019/11/turismo-rural-familiar-con-ninos-en-serrania-cuenca >}} 
+{{< reflink turismo-rural-familiar-con-ninos-en-serrania-cuenca >}} 
 
-{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}}.
+{{< reflink viajar-con-ninos-por-europa-consejos-y-propuestas >}}.

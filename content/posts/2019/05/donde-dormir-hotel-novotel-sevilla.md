@@ -27,7 +27,7 @@ y bien comunicadas. Además, ahora hacen especial hincapié en ayudar a sus clie
 encontrar el equilibrio entre el ocio y el trabajo bajo el lema **Time is your side** 
 con el que se pretende que el huésped tenga tiempo de conectar y desconectar. Nuestra 
 propuesta es que compruebes las atenciones y el buen hacer de este hotel en tu próxima 
-{{< reflink path=posts/2019/02/viajar-con-amigas-sevilla >}}. 
+[escapada con amigas a Sevilla]({{% ref viajar-con-amigas-sevilla %}}). 
 
 ## Renovado por dentro y por fuera
 

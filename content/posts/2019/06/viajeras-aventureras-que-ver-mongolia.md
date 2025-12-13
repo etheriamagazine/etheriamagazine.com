@@ -184,8 +184,8 @@ profesora en un pequeño pueblo mongol.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/12/que-hacer-en-guangxi-viaja-sola-china >}} 
+{{< reflink que-hacer-en-guangxi-viaja-sola-china >}} 
 
-{{< reflink path=posts/2021/01/que-ver-hacer-en-corea-del-sur >}} 
+{{< reflink que-ver-hacer-en-corea-del-sur >}} 
 
-{{< reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-okinawa-japon >}}
+{{< reflink viajar-sola-que-ver-hacer-dormir-okinawa-japon >}}

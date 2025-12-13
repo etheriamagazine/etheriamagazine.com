@@ -159,8 +159,7 @@ descuento de de 5 a 12 años y de 13 en adelante se consideran adultos.
 
 ## Otras propuestas en Cuenca
 
-{{< reflink 
-path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+{{< reflink viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
 >}}. 
 
-{{< reflink path=posts/2020/01/que-ver-hacer-ruta-mimbre-cuenca >}}.
+{{< reflink que-ver-hacer-ruta-mimbre-cuenca >}}.

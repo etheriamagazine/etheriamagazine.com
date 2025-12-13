@@ -150,8 +150,8 @@ de las medicinas.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/07/cuidar-salud-genital >}} 
+{{< reflink cuidar-salud-genital >}} 
 
-{{< reflink path=posts/2022/05/dia-higiene-menstrual >}} 
+{{< reflink dia-higiene-menstrual >}} 
 
-{{< reflink path=posts/2025/04/dulkamara-bamboo-cosmetica-navarra >}}
+{{< reflink dulkamara-bamboo-cosmetica-navarra >}}

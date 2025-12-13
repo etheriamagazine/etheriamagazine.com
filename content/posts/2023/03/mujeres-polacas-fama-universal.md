@@ -100,8 +100,8 @@ por las difamaciones y calumnias en relación a mi vida privada. El premio me ha
 concedido por el descubrimiento del radio y del polonio”, concluía Madame Curie en su 
 epístola. 
 
-**No te pierdas:** {{< reflink 
-path=posts/2021/03/que-ver-en-varsovia-en-tres-rutas-originales >}} 
+**No te pierdas:** [Tres rutas para recorrer Varsovia, una ciudad sorprendente]({{% ref 
+que-ver-en-varsovia-en-tres-rutas-originales %}}) 
 
 ![Fotografía en blanco y negro de la poeta polaca Wislawa Szymborska](https://fotos.etheriamagazine.com/2023/03/mujer-polaca-wislawa-szymborska.jpg "© Fundación Wislawa Szymborska")
 
@@ -122,8 +122,8 @@ reunir los escritores– cuando le comunicaron en 1996 desde Estocolmo que habí
 irónica con la que ha iluminado fragmentos de la realidad humana en su contexto 
 histórico e ideológico”. El premio le fue entregado por el rey Gustavo de Suecia. 
 
-**No te pierdas:** {{< reflink 
-path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}}. 
+**No te pierdas:** [Zakopane, su arquitectura de madera, sabores y estaciones de 
+esquí]({{% ref que-ver-en-zakopane-viaje-original-polonia %}}). 
 
 ![arquitectura en Zakopane](https://fotos.etheriamagazine.com/2021/01/Zakopane-estilo-Witkiewicz.jpg "Casa estilo Witkiewicz. © Manena Munar")
 
@@ -195,8 +195,8 @@ de audio. Si en un principio la escritora se unió a la exaltación estalinista,
 dio cuenta de todo, devolvió el carné al Partido. Y escribió el poema _Llamada al Yeti_, 
 un velado ataque a un embozado Stalin. 
 
-**No te pierdas:** {{< reflink 
-path=posts/2018/07/viaje-fin-de-semana-con-amigas-en-cracovia >}}. 
+**No te pierdas:** [Visitas esenciales para enamorarse de Cracovia en dos días]({{% ref 
+viaje-fin-de-semana-con-amigas-en-cracovia %}}). 
 
 ### La plenitud literaria
 

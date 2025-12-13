@@ -112,6 +112,6 @@ Dorottya utca 2, Budapest, 1051. Tel. +36 1 884 5100.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/12/mercadillos-de-navidad-en-budapest >}} 
+{{< reflink mercadillos-de-navidad-en-budapest >}} 
 
-{{< reflink path=posts/2019/10/que-ver-viaje-amigas-budapest-en-3-dias >}}
+{{< reflink que-ver-viaje-amigas-budapest-en-3-dias >}}

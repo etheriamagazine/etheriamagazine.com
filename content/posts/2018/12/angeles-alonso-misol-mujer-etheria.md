@@ -30,9 +30,8 @@ Si las fotografías cuentan como recuerdo, mi primer viaje fue a **Bélgica**, a
 haber nacido, para conocer a mi familia materna. Mis padres eran muy viajeros y me 
 inculcaron esta pasión por conocer mundo. Aparte de las excursiones que realizábamos por 
 España durante los fines de semana, el primer viaje que me ilusionó y en el que me sentí 
-como una verdadera turista fue a {{< reflink 
-path=posts/2018/10/fin-de-semana-en-roma-con-amigas >}}, un mes de diciembre, con mis 
-padres y una de mis hermanas, cuando tenía 10 años. 
+como una verdadera turista fue a [Roma]({{% ref fin-de-semana-en-roma-con-amigas %}}), 
+un mes de diciembre, con mis padres y una de mis hermanas, cuando tenía 10 años. 
 
 ##### 2\. ¿Cuál es tu principal motivación al viajar?
 
@@ -54,10 +53,9 @@ corta vale la pena, todos los destinos tienen algo que ofrecer.
 
 Elegiría viajar con personas a las que quiero para dedicarles el tiempo que se merecen y 
 así descubrir conjuntamente cosas nuevas. Optaría también por acompañantes que me 
-enseñen o me hagan ser mejor, y con alguna {{< reflink 
-path=posts/2018/05/intrepidas-un-libro-sobre-25-exploradoras-que-persiguieron-su-sueno 
->}}, de aquellas valientes que se aventuraron a descubrir el mundo rompiendo clichés de 
-la época. 
+enseñen o me hagan ser mejor, y con alguna [mujer pionera]({{% ref 
+intrepidas-un-libro-sobre-25-exploradoras-que-persiguieron-su-sueno %}}), de aquellas 
+valientes que se aventuraron a descubrir el mundo rompiendo clichés de la época. 
 
 > Y si es alguien de ficción… de vez en cuando pasearía un ratito, por ejemplo, con 
 > Mafalda, que ofrece un punto de vista singular, agudo y sin malicia. 
@@ -101,18 +99,17 @@ sorprendido muchísimo: **Moscú**.
 
 ##### 10\. Tres viajes pendientes…
 
-¿No pueden ser más? {{< reflink 
-path=posts/2021/03/que-ver-sur-islandia-consejos-practicos >}}, Etiopía, Colombia, 
-Australia, Cuba… y tantos otros más. 
+¿No pueden ser más? [Islandia]({{% ref que-ver-sur-islandia-consejos-practicos %}}), 
+Etiopía, Colombia, Australia, Cuba… y tantos otros más. 
 
 ##### 11\. ¿Qué país te ha ganado con su gastronomía? ¿Destacarías algún plato o producto?
 
-En la {{< reflink path=posts/2018/10/viajar-sola-o-con-amigas-a-india >}} aprendí a 
-tolerar el picante, en **Perú** descubrí las delicias del pisco sour o la salsa 
-huancaína, la alta cocina de **México**, la riqueza de la gastronomía japonesa, 
-**Tailandia** y el pad-thai o el curry massaman… ¡sin olvidar la fabada asturiana! 
-Recuerdo un viaje en el que iba con dolor de estómago, pero eso no fue impedimento para 
-comerla, ¡qué delicia en días de frío! 
+En la [India]({{% ref viajar-sola-o-con-amigas-a-india %}}) aprendí a tolerar el 
+picante, en **Perú** descubrí las delicias del pisco sour o la salsa huancaína, la alta 
+cocina de **México**, la riqueza de la gastronomía japonesa, **Tailandia** y el pad-thai 
+o el curry massaman… ¡sin olvidar la fabada asturiana! Recuerdo un viaje en el que iba 
+con dolor de estómago, pero eso no fue impedimento para comerla, ¡qué delicia en días de 
+frío! 
 
 ![Plato de tallarines, soja y gambas](https://fotos.etheriamagazine.com/2018/12/pad-thai-tailandia.jpg "Uno de los platos favoritos de Ángeles Alonso-Misol es el pad thai.")
 

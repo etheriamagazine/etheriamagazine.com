@@ -106,6 +106,6 @@ puedes encontrar entradas con descuentos muy interesantes (hasta un 30%).
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/10/10-exposiciones-en-madrid-para-otono-2020 >}}. 
+{{< reflink 10-exposiciones-en-madrid-para-otono-2020 >}}. 
 
-{{< reflink path=posts/2020/11/libros-de-cocteleria-un-gran-regalo-navidad >}}.
+{{< reflink libros-de-cocteleria-un-gran-regalo-navidad >}}.

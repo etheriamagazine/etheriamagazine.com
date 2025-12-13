@@ -202,10 +202,8 @@ lugareños.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2021/12/que-ver-excursion-a-frigiliana >}} 
+{{< reflink que-ver-excursion-a-frigiliana >}} 
 
-{{< reflink 
-path=posts/2019/06/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana 
->}} 
+{{< reflink guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana >}} 
 
-{{< reflink path=posts/2021/07/excursiones-en-malaga-con-ninos >}}
+{{< reflink excursiones-en-malaga-con-ninos >}}

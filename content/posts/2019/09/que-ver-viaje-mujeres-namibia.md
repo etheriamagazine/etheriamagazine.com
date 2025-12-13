@@ -161,9 +161,8 @@ con sus largas raíces crece sobre el terreno pedregoso y puede vivir hasta 2.00
 
 ### También te puede interesar:
 
-{{< reflink 
-path=posts/2020/10/final-real-memorias-de-africa-baronesa-blixen-beryl-markham >}} 
+{{< reflink final-real-memorias-de-africa-baronesa-blixen-beryl-markham >}} 
 
-{{< reflink path=posts/2018/11/botsuana-10-razones-para-sentirte-la-reina-de-africa >}} 
+{{< reflink botsuana-10-razones-para-sentirte-la-reina-de-africa >}} 
 
-{{< reflink path=posts/2020/02/viaje-a-kenia-etnias-del-lago-turkana >}}
+{{< reflink viaje-a-kenia-etnias-del-lago-turkana >}}

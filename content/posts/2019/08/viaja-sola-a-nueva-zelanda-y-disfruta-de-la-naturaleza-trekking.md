@@ -146,4 +146,4 @@ Entra en **www.fiorland.org.nz** y en
 
 ### También te puede interesar
 
-{{< reflink path=posts/2018/08/nueva-zelanda-en-autocaravana >}}.
+{{< reflink nueva-zelanda-en-autocaravana >}}.

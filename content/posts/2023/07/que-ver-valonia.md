@@ -255,6 +255,6 @@ sencilla pero ideal tras finalizar la visita por el complejo abacial.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/05/por-que-viajar-a-valonia >}} 
+{{< reflink por-que-viajar-a-valonia >}} 
 
 Más información en [Turismo de Valonia](https://visitwallonia.es).

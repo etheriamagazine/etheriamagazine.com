@@ -95,7 +95,7 @@ izquierda, cuando veas la puerta azul sigue recto y allí, al final de ese pasad
 estará tu refugio para estos días. 
 
 📌¿Nuestros favoritos? **Le Riad Yasmine**, **El Fenn**, el **Riad Be** y [La 
-Sultana]({{% ref hotel-la-sultana-marrakech %}}) todos ellos 
+Sultana](http://etheriamagazine.com/2019/02/27/hotel-la-sultana-marrakech/) todos ellos 
 con piscina central, terraza en la azotea y habitaciones que invitan a soñar despierta. 
 
 ![Habitación de Riad Jasmine.](https://fotos.etheriamagazine.com/2018/12/riad-yasmine.jpg "© Riad Jasmine.")
@@ -149,9 +149,8 @@ necesario para disfrutar de la inmensidad del desierto, casi, para ti sola.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/03/guia-esencial-que-ver-y-hacer-en-fez >}}. 
+{{< reflink guia-esencial-que-ver-y-hacer-en-fez >}}. 
 
-{{< reflink path=posts/2020/04/viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas 
->}}. 
+{{< reflink viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas >}}. 
 
-{{< reflink path=posts/2021/02/najat-libro-cocina-marroqui-chef-najat-kaanache >}}.
+{{< reflink najat-libro-cocina-marroqui-chef-najat-kaanache >}}.

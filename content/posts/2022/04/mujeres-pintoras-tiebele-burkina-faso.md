@@ -200,8 +200,8 @@ Ministerio de la Cultura y las Artes.
 
 ### Otros viajes que te pueden interesar
 
-{{< reflink path=posts/2020/02/viaje-a-kenia-etnias-del-lago-turkana >}}. 
+{{< reflink viaje-a-kenia-etnias-del-lago-turkana >}}. 
 
-{{< reflink path=posts/2022/03/empoderar-con-el-turismo-mujeres-de-tanzania >}}. 
+{{< reflink empoderar-con-el-turismo-mujeres-de-tanzania >}}. 
 
-{{< reflink path=posts/2019/08/5-viajes-para-comenzar-a-conocer-africa >}}.
+{{< reflink 5-viajes-para-comenzar-a-conocer-africa >}}.

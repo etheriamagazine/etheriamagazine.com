@@ -168,8 +168,8 @@ Euskadi](https://turismo.euskadi.eus/es)
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/09/10-planes-originales-en-bilbao-con-amigas >}} 
+{{< reflink 10-planes-originales-en-bilbao-con-amigas >}} 
 
-{{< reflink path=posts/2018/10/48-horas-en-bilbao >}} 
+{{< reflink 48-horas-en-bilbao >}} 
 
-{{< reflink path=posts/2021/08/que-ver-y-hacer-en-valle-de-karrantza-vizcaya >}}
+{{< reflink que-ver-y-hacer-en-valle-de-karrantza-vizcaya >}}

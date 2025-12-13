@@ -115,8 +115,8 @@ Tel. +34 971 59 97 51
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/10/gastronomia-mallorca >}} 
+{{< reflink gastronomia-mallorca >}} 
 
-{{< reflink path=posts/2021/08/cuevas-de-mallorca-con-ninos >}} 
+{{< reflink cuevas-de-mallorca-con-ninos >}} 
 
-{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}
+{{< reflink planes-y-excursiones-desde-palma-mallorca-con-amigas >}}

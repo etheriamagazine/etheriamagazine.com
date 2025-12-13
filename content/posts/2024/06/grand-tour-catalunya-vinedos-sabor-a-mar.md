@@ -211,6 +211,6 @@ la siguiente imagen.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}. 
+{{< reflink lugares-secretos-de-cataluna-que-visitar >}}. 
 
-{{< reflink path=posts/2022/02/ruta-en-coche-pirineo-tierras-lleida >}}.
+{{< reflink ruta-en-coche-pirineo-tierras-lleida >}}.

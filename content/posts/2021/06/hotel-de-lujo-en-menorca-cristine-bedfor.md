@@ -92,8 +92,8 @@ Fotografías cedidas por Cristine Bedford Guest Houses.
 
 ### También te puede interesar
 
-{{< reflink path=posts/2020/12/visitas-originales-de-arquitectura-en-menorca >}} 
+{{< reflink visitas-originales-de-arquitectura-en-menorca >}} 
 
-{{< reflink path=posts/2020/08/guia-mejores-playas-calas-menorca >}} 
+{{< reflink guia-mejores-playas-calas-menorca >}} 
 
-{{< reflink path=posts/2018/11/15-tips-para-disfrutar-de-menorca-fuera-de-temporada >}}
+{{< reflink 15-tips-para-disfrutar-de-menorca-fuera-de-temporada >}}

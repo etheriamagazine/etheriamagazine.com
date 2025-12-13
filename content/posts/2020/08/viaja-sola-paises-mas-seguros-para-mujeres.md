@@ -14,10 +14,10 @@ Viajar sola no tiene por qué se inseguro si eres mujer pero tienes que tener en
 
 ![viajar con seguridad](https://fotos.etheriamagazine.com/2020/07/viajar-sola-mar.jpg "No tengas miedo y anímate a viajar sola.")
 
-En Etheria Magazine queremos quitarte el miedo a {{< reflink 
-path=posts/2019/01/10-ventajas-de-viajar-sola >}}, porque estamos seguras, por 
-experiencia personal, de que se puede dar una vuelta al mundo sin que te pase nada que 
-no podría pasarte debajo de tu casa, o en tu ciudad de toda la vida. 
+En Etheria Magazine queremos quitarte el miedo a [viajar sola]({{% ref 
+10-ventajas-de-viajar-sola %}}), porque estamos seguras, por experiencia personal, de 
+que se puede dar una vuelta al mundo sin que te pase nada que no podría pasarte debajo 
+de tu casa, o en tu ciudad de toda la vida. 
 
 Los **lugares no son buenos ni malos _per se_**, de hecho, la grandísima mayoría de la 
 gente es encantadora, te trata bien cuando viajas, incluso quizá te protege más por 
@@ -57,8 +57,8 @@ vas a llamar a tu novio, que es policía y te está esperando en el destino.
 ## Viajar sola a India
 
 Entre tantos millones de habitantes, la mayoría musulmanes e hinduistas, se puede 
-asegurar que más de un machista hay en la India (artículo: {{< reflink 
-path=posts/2018/10/viajar-sola-o-con-amigas-a-india >}}). Los indios tampoco suelen ser 
+asegurar que más de un machista hay en la India (artículo: [Consejos para mujeres en 
+India]({{% ref viajar-sola-o-con-amigas-a-india %}})). Los indios tampoco suelen ser 
 agresivos, pero sí muy descarados cuando les sorprende una mujer: son capaces de tocarte 
 el pelo para ver si es de verdad, hacerte fotos a escondidas… O rodearte entre seis 
 gallitos peleando por ser el que se lleva al huerto a la foránea. Ahí hay que echarle 
@@ -67,9 +67,8 @@ la cama… Y SOLA. Les acongojará tu determinación, doy fe.
 
 ## Viajar sola en Australia y Nueva Zelanda
 
-Los países de {{< reflink path=posts/2019/03/revista-viajes-que-ver-australia >}} y {{< 
-reflink 
-path=posts/2019/08/viaja-sola-a-nueva-zelanda-y-disfruta-de-la-naturaleza-trekking >}} 
+Los países de [Australia]({{% ref revista-viajes-que-ver-australia %}}) y [Nueva 
+Zelanda]({{% ref viaja-sola-a-nueva-zelanda-y-disfruta-de-la-naturaleza-trekking %}}) 
 son, seguramente, junto con los países del norte de Europa y Canadá, los más seguros del 
 mundo, tanto por su nivel económico, que hace innecesario robarle a nadie, como por su 
 nivel de educación y civilización. 
@@ -146,8 +145,8 @@ tenemos en nuestra sociedad.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/06/viajar-sola-que-ver-hacer-en-costa-de-montenegro >}}. 
+{{< reflink viajar-sola-que-ver-hacer-en-costa-de-montenegro >}}. 
 
-{{< reflink path=posts/2021/02/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala >}}. 
+{{< reflink viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala >}}. 
 
-{{< reflink path=posts/2019/04/viajar-sola-malasia-pulau-tioman-perhentian >}}.
+{{< reflink viajar-sola-malasia-pulau-tioman-perhentian >}}.

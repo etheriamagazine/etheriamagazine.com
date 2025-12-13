@@ -94,8 +94,8 @@ se ve que agradece tanta y tan necesaria ternura.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/08/lee-krasner-inspira-el-color-de-tu-nombre >}}. 
+{{< reflink lee-krasner-inspira-el-color-de-tu-nombre >}}. 
 
-{{< reflink path=posts/2021/10/meet-vincent-van-gogh-exposicion-madrid >}}. 
+{{< reflink meet-vincent-van-gogh-exposicion-madrid >}}. 
 
-{{< reflink path=posts/2021/09/nuevas-visitas-berlin-cultura-2021 >}}
+[¿Qué hay de nuevo en Berlín este 2021?]({{% ref nuevas-visitas-berlin-cultura-2021 %}})

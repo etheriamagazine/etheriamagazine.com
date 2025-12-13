@@ -179,10 +179,8 @@ Autora: Judit Sánchez Torner (Calma Studio)
 
 ### También te puede interesar en Tenerife...
 
-{{< reflink path=posts/2021/05/viaje-a-tenerife-con-amigas-que-hacer-excursiones >}}. 
+{{< reflink viaje-a-tenerife-con-amigas-que-hacer-excursiones >}}. 
 
-{{< reflink path=posts/2020/06/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava 
->}}. 
+{{< reflink viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava >}}. 
 
-{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
->}}.
+{{< reflink excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos >}}.

@@ -134,6 +134,6 @@ querrás hacerte una foto.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/02/dubai-con-ninos-actividades-y-excursiones >}} 
+{{< reflink dubai-con-ninos-actividades-y-excursiones >}} 
 
-{{< reflink path=posts/2019/05/como-aprovechar-una-escala-en-dubai >}}
+{{< reflink como-aprovechar-una-escala-en-dubai >}}

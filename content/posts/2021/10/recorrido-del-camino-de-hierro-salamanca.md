@@ -152,8 +152,8 @@ reservas e información complementaria.
 
 **Sigue tu ruta en Salamanca** 
 
-{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}. 
+{{< reflink plan-con-amigas-ruta-del-vino-sierra-de-francia >}}. 
 
-{{< reflink path=posts/2021/03/planes-en-salamanca-con-amigas >}}. 
+{{< reflink planes-en-salamanca-con-amigas >}}. 
 
-{{< reflink path=posts/2021/03/imprescindibles-de-salamanca-en-un-dia >}}.
+{{< reflink imprescindibles-de-salamanca-en-un-dia >}}.

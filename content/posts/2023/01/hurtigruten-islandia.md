@@ -127,5 +127,6 @@ actividades en tierra. Consultar precios en su página web.
 
 [www.hurtigrutenspain.com](http://www.hurtigrutenspain.com/) 
 
-✅ No te pierdas este artículo del Hurtigruten en Noruega: {{< reflink 
-path=posts/2022/03/ruta-del-hurtigruten-en-noruega >}}
+✅ No te pierdas este artículo del Hurtigruten en Noruega: [El Hurtigruten, el barco 
+postal desde el que ver las auroras boreales]({{% ref ruta-del-hurtigruten-en-noruega 
+%}})

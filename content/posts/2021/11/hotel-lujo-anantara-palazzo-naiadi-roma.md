@@ -88,8 +88,8 @@ della Repubblica, 48-49. 00185 Roma. Tel. +39 06 489 381 Precio habitación dobl
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2018/10/fin-de-semana-en-roma-con-amigas >}} 
+{{< reflink fin-de-semana-en-roma-con-amigas >}} 
 
-{{< reflink path=posts/2019/11/que-ver-hacer-viaje-romantico-apulia-italia >}} 
+{{< reflink que-ver-hacer-viaje-romantico-apulia-italia >}} 
 
-{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}
+{{< reflink paseos-por-los-jardines-mas-bellos-de-florencia >}}

@@ -198,9 +198,8 @@ tipo de información práctica para organizar tu próximo viaje a la isla.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/04/10-secretos-para-conocer-la-isla-de-la-palma >}} 
+{{< reflink 10-secretos-para-conocer-la-isla-de-la-palma >}} 
 
-{{< reflink path=posts/2020/02/que-hacer-en-los-indianos-el-carnaval-de-la-palma >}} 
+{{< reflink que-hacer-en-los-indianos-el-carnaval-de-la-palma >}} 
 
-{{< reflink 
-path=posts/2019/06/faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica >}}
+{{< reflink faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica >}}

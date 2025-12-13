@@ -21,10 +21,11 @@ a ser menos. Si aún no lo has visitado y no formas parte de los 58 millones de 
 que se han emocionado en este parque temático, ve reservando fechas porque ya está 
 abierto y te esperan grandes novedades. En esta ocasión, nos centraremos en las nuevas 
 experiencias porque en anteriores ocasiones ya te hemos contado todos los trucos para 
-sacarle partido y las experiencias más divertidas (📍{{< reflink 
-path=posts/2018/08/10-consejos-futuroscope >}} y 📍{{< reflink 
-path=posts/2020/02/viajes-familias-objetivo-marte-y-otras-5-atracciones-imprescindibles-en-futuroscope 
->}}). 
+sacarle partido y las experiencias más divertidas (📍[10 consejos para aprovechar una 
+visita a Futuroscope]({{% ref 10-consejos-futuroscope %}}) y 📍[Objetivo Marte y otras 5 
+atracciones imprescindibles en Futuroscope]({{% ref 
+viajes-familias-objetivo-marte-y-otras-5-atracciones-imprescindibles-en-futuroscope 
+%}})). 
 
 ## Por qué visitar Futuroscope en 2022
 

@@ -111,9 +111,9 @@ algunos baños en la piscina, merece la pena dejarse llevar por su frenética pr
 esta ocasión, el libro de la autora vasca se desarrolla en la Ribeira Sacra, y hay un 
 cadáver, una familia poderosa e, incluso, un sacerdote... Además, para quien no quiera 
 cargar con mucho peso, existe una edición de bolsillo. Si aún no habéis leído la 
-_Trilogía de Baztán_, es otra opción a considerar, como os comentábamos en este {{< 
-reflink path=posts/2020/04/viaja-a-traves-de-los-libros-con-estas-10-rutas-literarias 
->}}. 
+_Trilogía de Baztán_, es otra opción a considerar, como os comentábamos en este 
+[artículo de Rutas Literarias]({{% ref 
+viaja-a-traves-de-los-libros-con-estas-10-rutas-literarias %}}). 
 
 ![libros de dolores redondo, todo esto te dare, libros verano 2020](https://fotos.etheriamagazine.com/2020/06/todo-esto-te-dare.jpg "'Todo esto te daré'.")
 
@@ -129,10 +129,11 @@ recomendaciones técnicas y de composición para mejorar nuestras imágenes.
 ## 10. 'Wabi Sabi, un mes en Japón'.
 
 No es una novela gráfica ni una guía de viajes al uso pero aúna ambas cosas: tiene 
-bonitas ilustraciones y ofrece información útil para viajar. Si tienes en mente un {{< 
-reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}} pero si quieres un 
-acercamiento a la cultura japonesa desde la playa, este libro de Amaia Arrazola te va a 
-venir muy bien. Además, es una lectura adecuada para todas las edades. 
+bonitas ilustraciones y ofrece información útil para viajar. Si tienes en mente un 
+[viaje a Japón tenemos un artículo con recomendaciones para prepararlo]({{% ref 
+como-organizar-un-viaje-a-japon %}}) pero si quieres un acercamiento a la cultura 
+japonesa desde la playa, este libro de Amaia Arrazola te va a venir muy bien. Además, es 
+una lectura adecuada para todas las edades. 
 
 Es de Lunwerg Editore. 
 

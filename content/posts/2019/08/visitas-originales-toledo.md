@@ -174,8 +174,8 @@ saben lo que se pierden!
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/02/que-ver-en-toledo >}} 
+{{< reflink que-ver-en-toledo >}} 
 
-{{< reflink path=posts/2022/01/que-ver-en-catedral-de-toledo >}} 
+{{< reflink que-ver-en-catedral-de-toledo >}} 
 
-{{< reflink path=posts/2022/04/15-razones-para-visitar-puy-du-fou-toledo-en-2022 >}}
+{{< reflink 15-razones-para-visitar-puy-du-fou-toledo-en-2022 >}}

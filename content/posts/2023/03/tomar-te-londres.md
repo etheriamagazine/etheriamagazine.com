@@ -26,8 +26,8 @@ que ofrecen una experiencia completa. Un dato a tener en cuenta es que la bebida
 acompaña siempre de una seria de bocados dulces y salados por lo que conviene comer a la 
 hora habitual del destino para llegar con apetito al "afternoon tea". 
 
-✅ **No te pierdas el artículo:** {{< reflink 
-path=posts/2021/03/platos-britanicos-en-un-viaje-inglaterra-escocia-gales-irlanda >}} 
+✅ **No te pierdas el artículo:** [¿Es tan aburrida la comida de Gran Bretaña como 
+dicen?]({{% ref platos-britanicos-en-un-viaje-inglaterra-escocia-gales-irlanda %}}) 
 
 ![Típica bandeja para servir los bocados dulces y salados cuando se toma el te en Londres](https://fotos.etheriamagazine.com/2023/03/tomar-te-londres.jpg "Típica bandeja para servir los bocados dulces y salados.")
 
@@ -68,7 +68,8 @@ Westminster, Hyde Park o el Royal Albert Hall?
 Precio: 45 libras/adulto y 35 libras/ niños (hay también ediciones especiales más 
 exclusivas). 
 
-✅ No te pierdas: {{< reflink path=posts/2020/12/diez-peliculas-rodadas-en-londres >}} 
+✅ No te pierdas: [Un viaje a Londres en diez películas inolvidables]({{% ref 
+diez-peliculas-rodadas-en-londres %}}) 
 
 ![Menú Romeo y Julieta en el hotel The Swan](https://fotos.etheriamagazine.com/2023/03/te-londres-hotel-elegante.jpg "Menú Romeo y Julieta en el © hotel The Swan.")
 
@@ -154,4 +155,4 @@ Precio: 45 libras (tomar el té) y 65 libras (té y taller).
 
 ✅ **No dejes de preparar tu viaje con este artículo**: 
 
-{{< reflink path=posts/2022/11/que-ver-londres-nuevo-clasico >}}.
+{{< reflink que-ver-londres-nuevo-clasico >}}.

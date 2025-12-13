@@ -30,7 +30,8 @@ para descubrir los secretos de su naturaleza, practicar deportes activos, conoce
 cultura apasionante, saborear una gastronomía deliciosa y relajarse en buenos 
 establecimientos hoteleros. 
 
-◼️No os perdáis: {{< reflink path=posts/2023/10/the-reserve-hotel-boutique-madeira >}} 
+◼️No os perdáis: [Hotel boutique The Reserve, exclusividad al borde del Atlántico en 
+Madeira]({{% ref the-reserve-hotel-boutique-madeira %}}) 
 
 Si queréis saber por qué Madeira ha obtenido durante varias ediciones el reconocimiento 
 de “Mejor destino insular del mundo”, seguid leyendo y tomando nota de algunos de los 
@@ -48,7 +49,8 @@ frutas tropicales del Mercado de los Labradores. Esta ciudad daría para una esc
 necesidad de salir al exterior, pero en esta ocasión también queremos que conozcáis el 
 resto de la isla. 
 
-◼️No os perdáis: {{< reflink path=posts/2022/08/que-ver-funchal >}}. 
+◼️No os perdáis: [Qué ver en Funchal, guía para 48 horas bien aprovechadas]({{% ref 
+que-ver-funchal %}}). 
 
 ![Puertas pintadas de Funchal](https://fotos.etheriamagazine.com/2024/02/Funchal-Puertas-pintadas.jpg "Puertas pintadas de Funchal. © Pepa García")
 
@@ -76,7 +78,8 @@ Funchal; y **Sabores do Corral**, en Curral das Freiras. Y si la gastronomía es
 vuestro, animaos a realizar un **curso de cocina local** donde podréis aprender a a 
 guisar especialidades de la isla. 
 
-◼️No os perdáis: {{< reflink path=posts/2022/08/que-comer-en-madeira >}}. 
+◼️No os perdáis: [Qué comer en Madeira, la isla de las nubes]({{% ref 
+que-comer-en-madeira %}}). 
 
 ![Pareja comparte una espetada en Madeira.](https://fotos.etheriamagazine.com/2024/02/Madeira-romantica.jpg "Pareja comparte una espetada en Madeira. © Andre Carvalho")
 
@@ -158,4 +161,5 @@ se quiera pernoctar y disfrutar de la gastronomía local.
 
 ![Playa de Porto Santo.](https://fotos.etheriamagazine.com/2024/02/Porto-Santo-playa-.jpg "Playa de Porto Santo. © Pepa García")
 
-◼️**No os perdáis:** {{< reflink path=posts/2019/02/que-ver-porto-santo-madeira >}}
+◼️**No os perdáis:** [Por qué visitar Porto Santo si viajas a Madeira]({{% ref 
+que-ver-porto-santo-madeira %}})

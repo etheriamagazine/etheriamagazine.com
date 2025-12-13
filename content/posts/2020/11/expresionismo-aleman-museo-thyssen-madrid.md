@@ -126,4 +126,4 @@ muestras de la posguerra dedicadas a rescatar el ‘arte degenerado’ culminaro
 primera Documenta de Kassel (1955). Los expresionistas se convirtieron en un símbolo de 
 libertad para la nueva Alemania federal”. 
 
-{{< reflink path=posts/2020/10/10-exposiciones-en-madrid-para-otono-2020 >}}
+{{< reflink 10-exposiciones-en-madrid-para-otono-2020 >}}

@@ -125,6 +125,6 @@ Maps](https://www.google.com/maps/dir/Iratiko+Kabiak,+989669,+-1.223924,+Carr.+d
 
 📌 **También te puede interesar...** 
 
-{{< reflink path=posts/2023/05/rutas-gastronomia-navarra >}}. 
+{{< reflink rutas-gastronomia-navarra >}}. 
 
-{{< reflink path=posts/2021/12/planes-en-navarra-con-amigas >}}.
+{{< reflink planes-en-navarra-con-amigas >}}.

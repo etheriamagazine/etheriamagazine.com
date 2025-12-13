@@ -174,10 +174,14 @@ planificar todo con antelación.
 
 📌 **También te puede interesar:** 
 
-01\. {{< reflink path=posts/2022/12/sania-jelic-amazonas >}}. 
+01\. [El Amazonas: nueva etapa de Sania Jelic en Sudamérica]({{% ref 
+sania-jelic-amazonas %}}). 
 
-02\. {{< reflink path=posts/2023/01/sania-en-patagonia-ushuaia-punta-arenas >}}. 
+02\. [Sania en Patagonia (parte 1): Ushuaia y Punta Arenas]({{% ref 
+sania-en-patagonia-ushuaia-punta-arenas %}}). 
 
-03\. {{< reflink path=posts/2023/01/sania-jelic-patagonia-calafate-chalten >}}. 
+03\. [Sania Jelic en Patagonia (parte 2): Calafate y El Chalten]({{% ref 
+sania-jelic-patagonia-calafate-chalten %}}). 
 
-04\. {{< reflink path=posts/2023/01/sania-patagonia-chilena >}}.
+04\. [Sania en Patagonia (parte 3): todo va lento, menos el viento]({{% ref 
+sania-patagonia-chilena %}}).

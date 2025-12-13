@@ -63,8 +63,8 @@ conserva una valiosa colección de libros incunables.
 
 Como la de Zlatni Rat de la isla de Brac (una de las pocas playas de arena del país). 
 Conocida como la playa del Cuerno de Oro o Cabo Dorado, cambia el aspecto de su punta 
-según los vientos y las mareas y está considerada {{< reflink 
-path=posts/2019/04/10-playas-secretas-de-europa >}}. 
+según los vientos y las mareas y está considerada [una de las playas más bellas de 
+Europa]({{% ref 10-playas-secretas-de-europa %}}). 
 
 ## 5\. Según cuentan, aquí nació Marco Polo
 
@@ -126,11 +126,10 @@ descubrir si navegas por Croacia.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}} 
+{{< reflink viaje-a-croacia-como-organizar-que-ver-hacer >}} 
 
-{{< reflink path=posts/2020/08/que-ver-hacer-sibenik-parque-krka >}} 
+{{< reflink que-ver-hacer-sibenik-parque-krka >}} 
 
-{{< reflink path=posts/2020/04/que-ver-hacer-en-2-3-dias-zagreb-croacia >}} 
+{{< reflink que-ver-hacer-en-2-3-dias-zagreb-croacia >}} 
 
-{{< reflink path=posts/2018/10/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia 
->}}
+{{< reflink 10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia >}}

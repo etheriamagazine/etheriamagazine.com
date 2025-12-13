@@ -205,8 +205,8 @@ de gala para la Navidades.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/03/hotel-mandarin-oriental-milan-lujo-cinco-estrellas >}} 
+{{< reflink hotel-mandarin-oriental-milan-lujo-cinco-estrellas >}} 
 
-{{< reflink path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}} 
+{{< reflink ruta-en-coche-en-lago-de-garda-italia >}} 
 
-{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}}
+{{< reflink que-ver-en-turin-en-un-viaje-con-amigas >}}

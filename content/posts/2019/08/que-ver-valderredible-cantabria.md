@@ -171,4 +171,4 @@ hilos líquidos.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2022/09/que-ver-en-cantabria >}}.
+{{< reflink que-ver-en-cantabria >}}.

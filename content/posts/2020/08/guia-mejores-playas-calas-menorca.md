@@ -223,8 +223,8 @@ romana de Sanicera y al ecomuseo y al faro del Cap de Cavallería.
 
 ¿Aún sigues ahí? ¿No buscaste ya el mejor precio para tu vuelo a Menorca? Si tienes 
 claro que te quieres escapar a Baleares pero sigues indecisa entre qué isla escoger, te 
-lo vamos a poner un poco más difícil con nuestra {{< reflink 
-path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}. Consúltala, y si 
+lo vamos a poner un poco más difícil con nuestra [guía definitiva de las playas de 
+Formentera]({{% ref viajar-con-amigas-mejores-playas-formentera %}}). Consúltala, y si 
 crecen tus dudas sobre si marcharte a Menorca o Formentera, coge una moneda y deja que 
 sea el destino el que escoja. 
 
@@ -232,9 +232,8 @@ sea el destino el que escoja.
 
 Sigue leyendo... 
 
-{{< reflink path=posts/2020/12/visitas-originales-de-arquitectura-en-menorca >}} 
+{{< reflink visitas-originales-de-arquitectura-en-menorca >}} 
 
-{{< reflink path=posts/2018/11/15-tips-para-disfrutar-de-menorca-fuera-de-temporada >}} 
+{{< reflink 15-tips-para-disfrutar-de-menorca-fuera-de-temporada >}} 
 
-{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
->}}
+{{< reflink 20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja >}}

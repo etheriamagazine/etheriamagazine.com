@@ -198,10 +198,8 @@ Madrid, por la carretera A6.
 
 ### También te puede interesar
 
-{{< reflink 
-path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
->}}. 
+{{< reflink viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon >}}. 
 
-{{< reflink path=posts/2019/01/bares-imprescindibles-finde-valladolid >}} 
+{{< reflink bares-imprescindibles-finde-valladolid >}} 
 
-{{< reflink path=posts/2020/07/vuelos-en-globo-en-espana-regalo-viajero >}}
+{{< reflink vuelos-en-globo-en-espana-regalo-viajero >}}

@@ -127,8 +127,8 @@ viajes culturales que realices por el país.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2023/12/ruta-en-coche-cork-kerry >}}. 
+{{< reflink ruta-en-coche-cork-kerry >}}. 
 
-{{< reflink path=posts/2023/07/mejores-playas-irlanda >}}. 
+{{< reflink mejores-playas-irlanda >}}. 
 
-{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}}.
+{{< reflink 8-visitas-increibles-en-irlanda-del-norte >}}.

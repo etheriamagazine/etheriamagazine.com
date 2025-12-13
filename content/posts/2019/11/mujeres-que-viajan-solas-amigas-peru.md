@@ -159,8 +159,8 @@ grandioso es Perú.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/05/10-yacimientos-arqueologicos-america-latina >}} 
+{{< reflink 10-yacimientos-arqueologicos-america-latina >}} 
 
-{{< reflink path=posts/2021/10/parques-naturales-de-america-latina >}} 
+{{< reflink parques-naturales-de-america-latina >}} 
 
-{{< reflink path=posts/2019/01/viajar-sola-al-eje-cafetero-colombia >}}
+{{< reflink viajar-sola-al-eje-cafetero-colombia >}}

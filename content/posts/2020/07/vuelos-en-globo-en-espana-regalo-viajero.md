@@ -86,7 +86,7 @@ hogares. Cuando bajéis nuevamente a ras de suelo seguro que miraréis esta boni
 balear con más admiración aún. Además, pueden participar niños a partir de 4 años, por 
 lo que es una actividad que puede complementar las otras que os recomendábamos en este 
 artículo de [‘8 Excursiones en Mallorca en 
-familia’]({{% ref 8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos %}}). 
+familia’](http://etheriamagazine.com/2020/06/16/8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos/). 
 En Mallorca se ofrecen [vuelos al amanecer y al atardecer desde 
 1](https://www.civitatis.com/es/mallorca/paseo-globo-mallorca 
 /?aid=10211)[8](https://www.civitatis.com/es/mallorca/paseo-globo-mallorca 
@@ -114,7 +114,7 @@ Montseny](https://www.civitatis.com/es/barcelona/paseo-globo-montseny/?aid=10211
 
 Una ciudad tan espectacular como Segovia merece también que la admiremos desde las 
 alturas, desde donde [el 
-Alcázar]({{% ref que-ver-interior-precio-entradas-del-alcazar-de-segovia %}}), 
+Alcázar](http://etheriamagazine.com/2020/03/11/que-ver-interior-precio-entradas-del-alcazar-de-segovia/), 
 el Acueducto o la Catedral brindan imágenes inolvidables. Esta experiencia en globo 
 comienza a las 8 de la mañana y tiene una duración de una hora (en vuelo). Durante ese 
 tiempo la actividad se va grabando en vídeo. Al bajar os espera una copa de cava y unos 
@@ -150,7 +150,7 @@ elaborar después unos excelentes vinos. [Volar en globo sobre
 Valladolid](https://www.civitatis.com/es/valladolid/paseo-globo-valladolid/?aid=10211) 
 sale por unos 190 euros. La jornada se puede completar con una [ruta de bodegas por la 
 Ribera del 
-Duero]({{% ref ruta-del-vino-ribera-del-duero-valladolid %}}). 
+Duero](http://etheriamagazine.com/2018/05/21/rutas-del-vino-ribera-del-duero-valladolid/). 
 
 📌 La empresa [Vallaglobo](https://vallaglobo.com/), que en Etheria Magazine hemos 
 probado en varias ocasiones, ofrecen también un buen servicio y disponen de vuelos en 
@@ -159,7 +159,6 @@ Castilla y León.
 **Otras experiencias que te pueden interesar...** 
 
 {{< reflink 
-path=posts/2020/07/experiencias-viajeras-bautismo-de-buceo-menorca-tenerife-cambrils-javea-y-mas 
->}}. 
+experiencias-viajeras-bautismo-de-buceo-menorca-tenerife-cambrils-javea-y-mas >}}. 
 
-{{< reflink path=posts/2022/04/regalos-para-madres-viajeras >}}.
+{{< reflink regalos-para-madres-viajeras >}}.

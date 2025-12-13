@@ -128,8 +128,8 @@ Plaza de Celenque, 2. Madrid. Tel. +34 91 954 54 20
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}} 
+{{< reflink tabernas-historicas-de-madrid >}} 
 
-{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}} 
+{{< reflink brunch-buenos-y-baratos-en-madrid >}} 
 
-{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}
+{{< reflink 10-planes-originales-en-madrid-con-amigas >}}

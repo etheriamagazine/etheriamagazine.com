@@ -29,7 +29,8 @@ el activismo político que la caracterizó durante buena parte del siglo XX y pr
 del XXI. Si quieres saber qué hacer en Bolonia sigue leyendo porque con estos planes que 
 te proponemos conocerás facetas muy variadas de la ciudad. 
 
-📌No te pierdas: {{< reflink path=posts/2022/06/viaje-con-amigas-a-bolonia >}}. 
+📌No te pierdas: [Viaje con amigas a Bolonia: 10 planes imbatibles en Italia]({{% ref 
+viaje-con-amigas-a-bolonia %}}). 
 
 ![impresionante plano aereo de bolonia](https://fotos.etheriamagazine.com/2022/02/Plano-aereo-bolonia.jpg "Vista aérea de Bolonia.")
 
@@ -186,8 +187,8 @@ de los lugares más agradables del centro histórico de Bolonia.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}}. 
+{{< reflink ruta-en-coche-en-lago-de-garda-italia >}}. 
 
-{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}}. 
+{{< reflink que-ver-en-turin-en-un-viaje-con-amigas >}}. 
 
-{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}.
+{{< reflink paseos-por-los-jardines-mas-bellos-de-florencia >}}.

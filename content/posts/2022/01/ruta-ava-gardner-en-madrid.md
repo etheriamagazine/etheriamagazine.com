@@ -17,11 +17,11 @@ No sólo existe una Ruta de Ava Gardner en Madrid sino que es un itinerario tur�
 ![hotel intercontinental madrid](https://fotos.etheriamagazine.com/2022/01/Hotel-Intercontinental-madrid.jpg "Hotel Intercontinental (anterior Hilton). © Pedro Grifol.")
 
 Ava Gardner llegó a España en 1950. Vino para rodar la película 'Pandora y el holandés 
-errante' en el pueblo gerundense de {{< reflink 
-path=posts/2020/06/viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava >}}. En los 
-descansos del rodaje, el fotógrafo de bodas del pueblo, Manel Fábregas, hizo los 
-primeros posados en la playa del ‘**animal más bello del mundo**’, apodo que ya tenía la 
-actriz cuando aterrizó en Madrid. 
+errante' en el pueblo gerundense de [Tossa de Mar]({{% ref 
+viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava %}}). En los descansos del 
+rodaje, el fotógrafo de bodas del pueblo, Manel Fábregas, hizo los primeros posados en 
+la playa del ‘**animal más bello del mundo**’, apodo que ya tenía la actriz cuando 
+aterrizó en Madrid. 
 
 **Frank Sinatra**, por aquellos tiempos novio de la actriz, se presentó inesperadamente 
 en Tossa de Mar con un importante ataque de cuernos, ya que se rumoreaba que Ava tenía 
@@ -245,8 +245,6 @@ Ford, 1953) **55 días en Pekín** (Nicholas Ray, 1963)
 
 ### También te puede interesar
 
-{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
->}}. 
+{{< reflink ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias >}}. 
 
-{{< reflink path=posts/2020/09/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid 
->}}.
+{{< reflink pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid >}}.

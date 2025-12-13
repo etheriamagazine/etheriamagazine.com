@@ -208,6 +208,6 @@ podría decir que la agenda cultural nocturna de la capital ucraniana transcurre
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/10/que-ver-hacer-donde-comer-3-dias-moscu >}} 
+{{< reflink que-ver-hacer-donde-comer-3-dias-moscu >}} 
 
-{{< reflink path=posts/2019/01/que-ver-parque-bialowieza-polonia >}}
+{{< reflink que-ver-parque-bialowieza-polonia >}}

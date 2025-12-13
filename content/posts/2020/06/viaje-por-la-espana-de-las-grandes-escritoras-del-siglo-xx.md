@@ -166,9 +166,6 @@ de su vida.
 
 **También te puede interesar:** 
 
-{{< reflink 
-path=posts/2020/06/ruta-escritoras-espanolas-carmen-burgos-rosa-chacel-maria-maeztu >}} 
+{{< reflink ruta-escritoras-espanolas-carmen-burgos-rosa-chacel-maria-maeztu >}} 
 
-{{< reflink 
-path=posts/2020/09/escritoras-siglo-xx-maria-moliner-ana-maria-matute-carmen-martin-gaite 
->}}
+{{< reflink escritoras-siglo-xx-maria-moliner-ana-maria-matute-carmen-martin-gaite >}}

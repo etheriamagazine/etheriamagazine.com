@@ -47,8 +47,8 @@ calendario para ver si coinciden con tu visita y reservarla). La visita es gratu
 puede realizarse en las 24 lenguas oficiales de la Unión Europea a través de una guía 
 multimedia y es mejor reservarla con antelación. 
 
-📌**No te pierdas el artículo**: {{< reflink path=posts/2022/03/que-comer-en-bruselas 
->}} 
+📌**No te pierdas el artículo**: [Qué comer en Bruselas, productos y experiencias 
+originales]({{% ref que-comer-en-bruselas %}}) 
 
 ![edificio del parlamento europeo en el barrio europeo](https://fotos.etheriamagazine.com/2022/09/bruselas-parlamento-europeo.jpg "Parlamento Europeo. © Visit Brussels/Sophie Voituron")
 
@@ -142,8 +142,8 @@ podía faltar uno de esos lugares emblemáticos para degustarlas: **Maison Antoi
 fundado en 1948 y todo un referente en este sabroso tentempié. No podrás evitar hacer 
 una parada para degustar un cucurucho de sus patatas con salsas. 
 
-📌**No te pierdas el artículo:** {{< reflink 
-path=posts/2021/03/que-ver-hacer-otros-planes-en-bruselas-y-flandes >}} 
+📌**No te pierdas el artículo:** [8 planes que no puedes perderte en Bruselas y 
+Flandes]({{% ref que-ver-hacer-otros-planes-en-bruselas-y-flandes %}}) 
 
 ![puesto de patatas fritas en el barrio Europeo](https://fotos.etheriamagazine.com/2022/09/bruselas-Maison-Antoine.jpg "Maison Antoine. © Visit Brussels/Jean-Paul Remy")
 

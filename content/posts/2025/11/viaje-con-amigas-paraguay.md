@@ -159,9 +159,8 @@ alrededores. Y, de esta manera, el viaje se torna doblemente mágico.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2018/08/lo-que-las-mujeres-estan-haciendo-al-turismo-en-paraguay 
->}}. 
+{{< reflink lo-que-las-mujeres-estan-haciendo-al-turismo-en-paraguay >}}. 
 
-{{< reflink path=posts/2023/07/que-ver-uruguay >}}. 
+{{< reflink que-ver-uruguay >}}. 
 
-{{< reflink path=posts/2019/02/che-guevara-manuel-de-falla-en-alta-gracia-argentina >}}.
+{{< reflink che-guevara-manuel-de-falla-en-alta-gracia-argentina >}}.

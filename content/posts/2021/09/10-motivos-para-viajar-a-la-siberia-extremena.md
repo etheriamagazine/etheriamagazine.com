@@ -179,10 +179,8 @@ Fotos cedidas por La Siberia.
 
 **También te puede interesar…** 
 
-{{< reflink path=posts/2020/07/viajes-espana-las-hurdes-un-paraiso-extremeno >}}. 
+{{< reflink viajes-espana-las-hurdes-un-paraiso-extremeno >}}. 
 
-{{< reflink 
-path=posts/2020/06/viajes-por-espana-alle-del-jerte-piscinas-naturales-cerezas >}}. 
+{{< reflink viajes-por-espana-alle-del-jerte-piscinas-naturales-cerezas >}}. 
 
-{{< reflink 
-path=posts/2020/05/escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica >}}.
+{{< reflink escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica >}}.

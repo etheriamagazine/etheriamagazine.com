@@ -19,15 +19,15 @@ Etheria Magazine te recomienda 10 viajes en solitario que te sorprenderán.
 
 ## 1\. Irán, un país seguro para viajar sola
 
-Uno de los países del mundo donde más puertas se le abren a las mujeres viajeras es {{< 
-reflink path=posts/2019/11/que-ver-iran-mujer-viajar-sola-con-amigas >}}. Este país no 
-solo cuenta con una maravillosa arquitectura y la apasionante historia que aguardan en 
-Shiraz, Yazd, Isfahan y las ruinas de Persépolis sino también con otra auténtica joya: 
-una población dulce, respetuosa y curiosa que no pierde oportunidad de acercarse a los 
-viajeros para conocerles, charlar un rato con ellos y hacerse incluso fotografías. Las 
-mujeres que viajan solas despiertan una gran simpatía entre las iraníes, que no tardan 
-en mostrar interés en la forastera e invitarla a cenar en su casa. Su sincera 
-hospitalidad no concibe no recibir y asistir a quien tan lejos se encuentra de casa. 
+Uno de los países del mundo donde más puertas se le abren a las mujeres viajeras es 
+[Irán]({{% ref que-ver-iran-mujer-viajar-sola-con-amigas %}}). Este país no solo cuenta 
+con una maravillosa arquitectura y la apasionante historia que aguardan en Shiraz, Yazd, 
+Isfahan y las ruinas de Persépolis sino también con otra auténtica joya: una población 
+dulce, respetuosa y curiosa que no pierde oportunidad de acercarse a los viajeros para 
+conocerles, charlar un rato con ellos y hacerse incluso fotografías. Las mujeres que 
+viajan solas despiertan una gran simpatía entre las iraníes, que no tardan en mostrar 
+interés en la forastera e invitarla a cenar en su casa. Su sincera hospitalidad no 
+concibe no recibir y asistir a quien tan lejos se encuentra de casa. 
 
 Irán es un país muy seguro para las mujeres que viajan solas gracias a la escasa 
 delincuencia y lo único que hay que tener en cuenta es la obligación de vestir según el 
@@ -80,8 +80,8 @@ barrio cobijó a los árabes durante la Reconquista y hoy supone un oasis multic
 que no le faltan secretos. Me infiltraría en la boda colectiva que se celebra cada 12 de 
 junio en la Catedral, porque durante Santo Antonio –la fiesta más entrañable de Lisboa–, 
 parrillas callejeras, guirnaldas y orquestas logran algo excepcional: rescatar el 
-espíritu de las verbenas de pueblo y llevarlo a la gran ciudad. {{< reflink 
-path=posts/2018/10/12-miradores-para-exprimir-lisboa >}} puede convertirse en una 
+espíritu de las verbenas de pueblo y llevarlo a la gran ciudad. [Viajar sola a 
+Lisboa]({{% ref 12-miradores-para-exprimir-lisboa %}}) puede convertirse en una 
 oportunidad única para descubrir que sus mitos van más allá de tranvías, bacalao, 
 miradores y nostálgicos fados. 
 
@@ -92,16 +92,16 @@ Recomendado por Kelu Robles, periodista radiofónica y viajera.
 ## 5\. Gozo, perfecta si viajas sola
 
 Cuando alguna amiga me pide que le recomiende un lugar al que viajar sola, en mi lista 
-siempre aparece Malta y más concretamente {{< reflink 
-path=posts/2021/04/que-ver-hacer-gozo-malta >}}, la segunda isla en tamaño del 
-archipiélago maltés. Se trata de un destino perfecto para viajar en solitario (sobre 
-todo si eres primeriza). Es seguro, fácil para comunicarse en inglés y resulta muy 
-acogedor. Muy destacable es su capital, Victoria, con su ciudadela, calles medievales y 
-la catedral de la Asunción. Es una isla llena también de magníficos escenarios naturales 
-como los acantilados de Xlendi y la gruta de Calipso. Y, aunque ya no es posible visitar 
-la famosa Ventana Azul (que se derrumbó por un temporal en 2017), siempre nos quedan las 
-series y las películas para verla. Aquí transcurría la boda de Daenerys con el Khal 
-Drogo en ‘Juego de Tronos’; y también aparecía en la película ‘Furia de Titanes’. 
+siempre aparece Malta y más concretamente [Gozo]({{% ref que-ver-hacer-gozo-malta %}}), 
+la segunda isla en tamaño del archipiélago maltés. Se trata de un destino perfecto para 
+viajar en solitario (sobre todo si eres primeriza). Es seguro, fácil para comunicarse en 
+inglés y resulta muy acogedor. Muy destacable es su capital, Victoria, con su ciudadela, 
+calles medievales y la catedral de la Asunción. Es una isla llena también de magníficos 
+escenarios naturales como los acantilados de Xlendi y la gruta de Calipso. Y, aunque ya 
+no es posible visitar la famosa Ventana Azul (que se derrumbó por un temporal en 2017), 
+siempre nos quedan las series y las películas para verla. Aquí transcurría la boda de 
+Daenerys con el Khal Drogo en ‘Juego de Tronos’; y también aparecía en la película 
+‘Furia de Titanes’. 
 
 Tiene, además, sorpresas para los amantes de la historia como los templos megalíticos de 
 Ggantija, cerca de la localidad de Xaghra. Y a la hora de comer es imprescindible 
@@ -126,12 +126,12 @@ cuenta con un Bar de Vinos en el que probar, a un precio muy ajustado, una ampl�
 variedad de vinos de Burdeos, acompañados de quesos de la zona, una delicia). 
 
 Además, desde hace unos años si te gusta, como a mí, el mundo del vino, han creado su 
-{{< reflink path=posts/2018/12/la-ciudad-del-vino-visita-obligada-en-burdeos >}} (Cité 
-du Vin), que posibilita una experiencia completa en el marco de un edificio hiper 
-moderno, una especie de decantador gigante que mira al Garona. Aunque el encanto de 
-acercarte a **Saint Emilion**, ese pequeño pueblo medieval rodeado de viñas y con 
-algunas de las mejores bodegas de la zona, sigue siendo para mí parte esencial para 
-conocer qué hace tan especial al _terroir_ y a los vinos bordeleses. ¿Te animas? 
+[Ciudad del Vino]({{% ref la-ciudad-del-vino-visita-obligada-en-burdeos %}}) (Cité du 
+Vin), que posibilita una experiencia completa en el marco de un edificio hiper moderno, 
+una especie de decantador gigante que mira al Garona. Aunque el encanto de acercarte a 
+**Saint Emilion**, ese pequeño pueblo medieval rodeado de viñas y con algunas de las 
+mejores bodegas de la zona, sigue siendo para mí parte esencial para conocer qué hace 
+tan especial al _terroir_ y a los vinos bordeleses. ¿Te animas? 
 
 Recomendado por Vanesa Viñolo, periodista de Gastronomía y Enoturismo. 
 
@@ -140,13 +140,13 @@ Recomendado por Vanesa Viñolo, periodista de Gastronomía y Enoturismo.
 ## 7\. Taiwán, respetuoso con la mujer viajera
 
 Las ideas preconcebidas o el desconocimiento son muchas veces determinantes a la hora de 
-escoger un destino para viajar. En el caso de {{< reflink 
-path=posts/2019/12/que-ver-y-hacer-en-taipei-en-24-horas >}} quizás lo que más afecta a 
-que lo elijamos es esa imagen que tenemos de la isla, de lugar tecnológico, de 
-construcciones imposibles o productos de baratillo. Y si hay auténticas ciudades 
-formadas por empresas punteras y de investigación de todo el mundo, también hay 
-edificios como el **Taipei 101** con forma de junco (fue la construcción más alta del 
-mundo durante mucho tiempo) e incluso una iglesia con forma de zapato. 
+escoger un destino para viajar. En el caso de [Taiwán]({{% ref 
+que-ver-y-hacer-en-taipei-en-24-horas %}}) quizás lo que más afecta a que lo elijamos es 
+esa imagen que tenemos de la isla, de lugar tecnológico, de construcciones imposibles o 
+productos de baratillo. Y si hay auténticas ciudades formadas por empresas punteras y de 
+investigación de todo el mundo, también hay edificios como el **Taipei 101** con forma 
+de junco (fue la construcción más alta del mundo durante mucho tiempo) e incluso una 
+iglesia con forma de zapato. 
 
 Pero, por encima de todo ello, hay un país apasionante lleno de cultura, de templos, de 
 convivencia cultural, de una gastronomía apasionante para las personas curiosas y de 
@@ -160,10 +160,10 @@ Recomendado por Pepa García, periodista de viajes y directora editorial de Ethe
 
 ## 8\. Oporto, bohemia y acogedora
 
-Uno de los destinos idóneos para mujeres que viajan solas es, sin lugar a dudas, {{< 
-reflink path=posts/2020/05/viajar-sola-amigas-a-oporto-12-visitas-imprescindibles >}}. 
-Es una ciudad que conozco bien ya que viajo con bastante asiduidad por motivos 
-laborales. Es tranquila, serena, bohemia y, sobre todo, muy acogedora. 
+Uno de los destinos idóneos para mujeres que viajan solas es, sin lugar a dudas, 
+[Oporto]({{% ref viajar-sola-amigas-a-oporto-12-visitas-imprescindibles %}}). Es una 
+ciudad que conozco bien ya que viajo con bastante asiduidad por motivos laborales. Es 
+tranquila, serena, bohemia y, sobre todo, muy acogedora. 
 
 Al mismo tiempo, Oporto siempre te sorprende con su intensa actividad cultural y con el 
 amplio abanico de diversión que te ofrece si te gusta vivir la noche. Incluso saliendo 
@@ -179,25 +179,24 @@ en Europa del sur.
 
 ## 9\. Japón, choque cultural con todas las comodidades
 
-{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}} es un país perfecto 
-para viajar sola. Su riqueza cultural, su deliciosa gastronomía y la comodidad de los 
-transportes hacen que un viaje a este destino sea un auténtica delicia. Además, es un 
-país tremendamente seguro y los japoneses son amables y educados por naturaleza, aunque 
-en ocasiones compruebes que el choque cultural y la diferencia de idioma hace casi 
+[Japón]({{% ref como-organizar-un-viaje-a-japon %}}) es un país perfecto para viajar 
+sola. Su riqueza cultural, su deliciosa gastronomía y la comodidad de los transportes 
+hacen que un viaje a este destino sea un auténtica delicia. Además, es un país 
+tremendamente seguro y los japoneses son amables y educados por naturaleza, aunque en 
+ocasiones compruebes que el choque cultural y la diferencia de idioma hace casi 
 imposible la comunicación. Pero, precisamente esa diferencia de culturas, es uno de los 
 alicientes de este viaje; saber que casi cada cosa que descubras de dejará con la boca 
 abierta. 
 
-Las visitas imprescindibles son {{< reflink 
-path=posts/2021/07/que-hacer-3-dias-en-tokio-viajes-mujeres >}} y {{< reflink 
-path=posts/2020/02/3-dias-en-kioto-cerezos-en-flor >}}. En la primera enseguida percibes 
-que podrías estar semanas y hacer algo diferente cada día, aunque lo que no puedes 
-perderte es la cultura 'kwai' de la calle Takeshita, el santuario Meiji o el templo 
-Senso-ji. Y en Kioto, si acudes cuando florecen los cerezos, no hay nada más apetecible 
-que pasar una tarde recorriendo el Paseo del Filósofo. Si tienes más días, no dudes en 
-utilizar los trenes (siempre puntuales) para conocer la zona de los Alpes Japoneses o 
-Hakone, donde podrás disfrutar de una noche en un {{< reflink 
-path=posts/2019/05/viajar-japon-que-es-ryokan-y-onsen >}}. 
+Las visitas imprescindibles son [Tokio]({{% ref que-hacer-3-dias-en-tokio-viajes-mujeres 
+%}}) y [Kioto]({{% ref 3-dias-en-kioto-cerezos-en-flor %}}). En la primera enseguida 
+percibes que podrías estar semanas y hacer algo diferente cada día, aunque lo que no 
+puedes perderte es la cultura 'kwai' de la calle Takeshita, el santuario Meiji o el 
+templo Senso-ji. Y en Kioto, si acudes cuando florecen los cerezos, no hay nada más 
+apetecible que pasar una tarde recorriendo el Paseo del Filósofo. Si tienes más días, no 
+dudes en utilizar los trenes (siempre puntuales) para conocer la zona de los Alpes 
+Japoneses o Hakone, donde podrás disfrutar de una noche en un [ryokan]({{% ref 
+viajar-japon-que-es-ryokan-y-onsen %}}). 
 
 Recomendado por Susana García, periodista y directora corporativa de Etheria M. 
 

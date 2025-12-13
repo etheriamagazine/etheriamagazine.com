@@ -288,8 +288,8 @@ pleno corazón de Biot.
 
 ### Sigue leyendo sobre Francia
 
-{{< reflink path=posts/2021/07/ruta-de-los-jardines-costa-azul-francia >}}. 
+{{< reflink ruta-de-los-jardines-costa-azul-francia >}}. 
 
-{{< reflink path=posts/2020/09/mejores-destinos-para-viajar-en-francia >}}. 
+{{< reflink mejores-destinos-para-viajar-en-francia >}}. 
 
-{{< reflink path=posts/2021/08/valle-del-loira-entre-castillos-y-jardines >}}.
+{{< reflink valle-del-loira-entre-castillos-y-jardines >}}.

@@ -186,9 +186,8 @@ un icono arquitectónico de aspecto futurista?
 
 **Otros planes con amigas** 
 
-{{< reflink path=posts/2021/07/los-mejores-planes-en-conil-con-amigas >}}. 
+{{< reflink los-mejores-planes-en-conil-con-amigas >}}. 
 
-{{< reflink path=posts/2021/06/planes-en-la-ribeira-sacra-con-amigas >}}. 
+{{< reflink planes-en-la-ribeira-sacra-con-amigas >}}. 
 
-{{< reflink 
-path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.
+{{< reflink 12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.

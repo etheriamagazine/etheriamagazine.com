@@ -49,6 +49,6 @@ participantes solo tienes que entrar en
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2022/09/que-ver-barrio-europeo-bruselas >}}. 
+{{< reflink que-ver-barrio-europeo-bruselas >}}. 
 
-{{< reflink path=posts/2024/03/exposiciones-flandes-2024-ensor >}}.
+{{< reflink exposiciones-flandes-2024-ensor >}}.

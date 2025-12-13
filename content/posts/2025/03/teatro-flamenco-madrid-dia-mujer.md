@@ -62,4 +62,4 @@ escena flamenca de la capital. Más información y venta de entradas:
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2024/04/ruta-lola-flores-en-madrid >}}.
+{{< reflink ruta-lola-flores-en-madrid >}}.

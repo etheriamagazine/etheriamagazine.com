@@ -106,8 +106,6 @@ historia de una belleza que se respira, se saborea… y se siente.
 
 **Sigue leyendo...** 
 
-{{< reflink 
-path=posts/2020/05/masajes-exoticos-que-hacen-viajar-a-india-bali-tailandia-japon-polinesia 
->}} 
+{{< reflink masajes-exoticos-que-hacen-viajar-a-india-bali-tailandia-japon-polinesia >}} 
 
-{{< reflink path=posts/2025/04/gadgets-vuelo-largo >}}.
+{{< reflink gadgets-vuelo-largo >}}.

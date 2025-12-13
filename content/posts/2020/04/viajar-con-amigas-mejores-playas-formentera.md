@@ -20,7 +20,8 @@ superficie alberga una de las orillas más fotografiadas del mundo y otros arena
 gran belleza. Pero estos arenales te darán aún más alegrías si llevas hechos los deberes 
 conociendo las **mejores playas de Formentera** y todo lo que te ofrece cada una de 
 ellas. Estas visitas imprescindibles se pueden combinar perfectamente con otros planes 
-en la isla, como {{< reflink path=posts/2018/07/de-compras-en-formentera >}}. 
+en la isla, como [ir de compras por las mejores tiendas y a los mercadillos de 
+Formentera]({{% ref de-compras-en-formentera %}}). 
 
 ![playa ses illetes, formentera](https://fotos.etheriamagazine.com/2020/04/playa-ses-illetes-formentera.jpg "Playa Ses Illetes (Formentera). © O.T. Formentera")
 
@@ -194,9 +195,8 @@ en las rutas azul y verde del autobús turístico.
 
 ## También te puede interesar...
 
-{{< reflink path=posts/2021/11/planes-viaje-a-ibiza-en-invierno >}}. 
+{{< reflink planes-viaje-a-ibiza-en-invierno >}}. 
 
-{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
->}}. 
+{{< reflink 20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja >}}. 
 
-{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}.
+{{< reflink viaje-a-ibiza-con-amigas >}}.

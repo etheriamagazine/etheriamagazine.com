@@ -193,6 +193,6 @@ Infierno’… con ese título ¡yo no me lo perdería!
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/10/turismo-sostenible-francia >}} 
+{{< reflink turismo-sostenible-francia >}} 
 
-{{< reflink path=posts/2018/09/viaje-chicas-isla-cerdena-italia >}}
+{{< reflink viaje-chicas-isla-cerdena-italia >}}

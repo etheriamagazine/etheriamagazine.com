@@ -195,6 +195,7 @@ que funcionan muy bien.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/07/luna-miel-bali-maldicion-ruptura >}} 
+{{< reflink luna-miel-bali-maldicion-ruptura >}} 
 
-{{< reflink path=posts/2019/10/10-gadgets-frikis-imprescindibles-en-tus-viajes >}}
+[10 gadgets imprescindibles en tus viajes]({{% ref 
+10-gadgets-frikis-imprescindibles-en-tus-viajes %}})

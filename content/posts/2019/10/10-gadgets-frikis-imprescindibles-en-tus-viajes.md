@@ -38,8 +38,8 @@ poco y son económicas.
 
 ## 3\. Organizadores de maletas
 
-Suponemos que después de leer nuestro artículo sobre {{< reflink 
-path=posts/2019/06/claves-elegir-mejor-maleta-para-viajar >}} ya no te quedarán muchas 
+Suponemos que después de leer nuestro artículo sobre [cómo elegir la maleta más 
+adecuada]({{% ref claves-elegir-mejor-maleta-para-viajar %}}) ya no te quedarán muchas 
 dudas sobre este punto. Y aun así, el peso y el espacio en las maletas es uno de los 
 quebraderos de cabeza más frecuentes, sobre todo si viajas con una _low cost_. Por eso 
 estos organizadores -que ya cuentan casi como un clásico- son un _must_ que no pueden 
@@ -136,8 +136,6 @@ para que puedas compartirlas.
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2020/04/10-gadgets-para-regalar-a-madres-viajeras >}} 
+{{< reflink 10-gadgets-para-regalar-a-madres-viajeras >}} 
 
-{{< reflink 
-path=posts/2020/04/5-consejos-para-hacer-un-album-de-fotos-digital-fotografia-de-viajes 
->}}
+{{< reflink 5-consejos-para-hacer-un-album-de-fotos-digital-fotografia-de-viajes >}}

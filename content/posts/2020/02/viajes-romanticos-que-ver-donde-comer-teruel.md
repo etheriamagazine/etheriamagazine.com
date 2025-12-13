@@ -129,6 +129,6 @@ de Aragón, el mayor productor de este sabroso hongo de España. Como para hacer
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/10/ruta-en-coche-por-teruel >}}. 
+{{< reflink ruta-en-coche-por-teruel >}}. 
 
-{{< reflink path=posts/2022/05/lugares-que-ver-en-alcaniz >}}.
+{{< reflink lugares-que-ver-en-alcaniz >}}.

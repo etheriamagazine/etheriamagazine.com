@@ -76,6 +76,6 @@ Fotografías cedias por ©AC Marriot.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/11/mujeres-que-viajan-solas-amigas-peru >}} 
+{{< reflink mujeres-que-viajan-solas-amigas-peru >}} 
 
-{{< reflink path=posts/2022/01/restaurantes-peruanos-en-madrid-de-jhosef-arias >}}
+{{< reflink restaurantes-peruanos-en-madrid-de-jhosef-arias >}}

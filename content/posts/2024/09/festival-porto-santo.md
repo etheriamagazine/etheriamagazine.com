@@ -78,8 +78,8 @@ bellísimo contorno de las islas, y algún que otro peñasco que sobresale del o
 
 **Más sobre Porto Santo y Madeira en Etheria Magazine** 
 
-{{< reflink path=posts/2019/02/que-ver-porto-santo-madeira >}}. 
+{{< reflink que-ver-porto-santo-madeira >}}. 
 
-{{< reflink path=posts/2022/08/que-ver-funchal >}}. 
+{{< reflink que-ver-funchal >}}. 
 
-{{< reflink path=posts/2024/02/planes-viaje-romantico-madeira >}}.
+{{< reflink planes-viaje-romantico-madeira >}}.

@@ -130,9 +130,8 @@ la información en su web.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}. 
+{{< reflink consejos-rutas-andalucia-en-autocaravana >}}. 
 
-{{< reflink 
-path=posts/2019/07/alcuzcuz-hotel-boutique-escapada-romantica-benahavis-malaga >}}. 
+{{< reflink alcuzcuz-hotel-boutique-escapada-romantica-benahavis-malaga >}}. 
 
-{{< reflink path=posts/2021/03/cortijos-andaluces-viaje-amigas >}}.
+{{< reflink cortijos-andaluces-viaje-amigas >}}.

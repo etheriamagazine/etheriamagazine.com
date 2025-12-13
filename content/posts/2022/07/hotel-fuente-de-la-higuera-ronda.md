@@ -97,6 +97,6 @@ Fotografías cedidas por el hotel La Fuente de la Higuera.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/11/planes-en-ronda-con-amigas >}} 
+{{< reflink planes-en-ronda-con-amigas >}} 
 
-{{< reflink path=posts/2019/04/ronda-escapada-con-amigas >}}
+{{< reflink ronda-escapada-con-amigas >}}

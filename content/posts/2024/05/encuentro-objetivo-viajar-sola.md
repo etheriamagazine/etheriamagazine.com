@@ -61,10 +61,10 @@ empoderamiento de mujeres y niñas de Benín, y Mónica Batán Zamora, de
 [@mujerwanawake](https://www.instagram.com/mujerwanawake/), una entidad sin ánimo de 
 lucro que promueve la igualdad real de género en el continente africano. También tendrá 
 lugar una **mesa redonda** en la que se hablará de la mujer y de los viajes en la que 
-intervendrán **Cristina Pujol Buigas**, autora del {{< reflink 
-path=posts/2018/05/intrepidas-un-libro-sobre-25-exploradoras-que-persiguieron-su-sueno 
->}}; **Júlia Farré**, autora del podcast 'Viajando en femenino'; **Sandra Lomba**, 
-nómada digital afincada en Bali; y **Susana García**, directora de Etheria Magazine. 
+intervendrán **Cristina Pujol Buigas**, autora del [libro Intrépidas]({{% ref 
+intrepidas-un-libro-sobre-25-exploradoras-que-persiguieron-su-sueno %}}); **Júlia 
+Farré**, autora del podcast 'Viajando en femenino'; **Sandra Lomba**, nómada digital 
+afincada en Bali; y **Susana García**, directora de Etheria Magazine. 
 
 ![Belén Orive durante una de sus clases de baile en Camerún.](https://fotos.etheriamagazine.com/2022/05/Belen-orive-mdjem-camerun.jpg "Belén Orive durante una de sus clases de baile en Camerún.")
 

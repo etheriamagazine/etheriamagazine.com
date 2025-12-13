@@ -91,7 +91,7 @@ Fotos: © [Rusticae](https://www.rusticae.es/hotel/riad-belle-epoque-10199)
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/12/viaje-de-amigas-a-marrakech >}} 
+{{< reflink viaje-de-amigas-a-marrakech >}} 
 
-{{< reflink path=posts/2022/08/que-ver-tanger-con-amigas >}}{{< reflink 
-path=posts/2022/08/que-ver-tanger-con-amigas >}}
+[]({{% ref que-ver-tanger-con-amigas %}})[Tánger, ¿qué tiene su medina que encandiló a 
+Matisse y a Carmina Ordóñez?]({{% ref que-ver-tanger-con-amigas %}})

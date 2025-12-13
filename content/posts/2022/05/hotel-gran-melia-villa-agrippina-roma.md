@@ -130,8 +130,8 @@ Habitación doble desde 300 euros.
 
 ### También te puede interesar en Italia:
 
-{{< reflink path=posts/2018/10/fin-de-semana-en-roma-con-amigas >}} 
+{{< reflink fin-de-semana-en-roma-con-amigas >}} 
 
-{{< reflink path=posts/2022/05/excursion-a-tivoli-desde-roma >}} 
+{{< reflink excursion-a-tivoli-desde-roma >}} 
 
-{{< reflink path=posts/2020/08/10-grandes-viajes-a-italia >}}
+{{< reflink 10-grandes-viajes-a-italia >}}

@@ -187,9 +187,8 @@ Lisboa](https://www.visitlisboa.com/es).
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/10/8-visitas-originales-en-lisboa >}}. 
+{{< reflink 8-visitas-originales-en-lisboa >}}. 
 
-{{< reflink path=posts/2020/12/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues >}}. 
+{{< reflink ruta-de-fados-en-la-lisboa-de-amalia-rodrigues >}}. 
 
-{{< reflink path=posts/2024/08/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf 
->}}.
+{{< reflink escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf >}}.

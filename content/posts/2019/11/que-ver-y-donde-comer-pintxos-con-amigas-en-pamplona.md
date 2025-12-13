@@ -158,9 +158,8 @@ _\* Fotografías cedidas por el Servicio de Marketing Turístico de
 
 **No te pierdas...** 
 
-{{< reflink path=posts/2021/12/planes-en-navarra-con-amigas >}}. 
+{{< reflink planes-en-navarra-con-amigas >}}. 
 
-{{< reflink path=posts/2021/02/navarra-en-familia-tierra-estella-y-tierras-de-iranzu 
->}}. 
+{{< reflink navarra-en-familia-tierra-estella-y-tierras-de-iranzu >}}. 
 
-{{< reflink path=posts/2020/10/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}.
+{{< reflink que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}.

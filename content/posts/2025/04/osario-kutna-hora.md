@@ -129,4 +129,4 @@ recreaciones y competiciones que se pueden consultar en este
 
 ## Sigue leyendo...
 
-{{< reflink path=posts/2025/03/10-excursiones-desde-praga >}}
+{{< reflink 10-excursiones-desde-praga >}}

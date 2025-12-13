@@ -211,8 +211,8 @@ destino](https://www.exteriores.gob.es/Embajadas/nicosia/es/ViajarA/Paginas/Reco
 
 ### Otras islas del Mediterráneo...
 
-{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}}. 
+{{< reflink sicilia-pantocratores-y-bikinis >}}. 
 
-{{< reflink path=posts/2021/04/que-ver-hacer-gozo-malta >}}. 
+{{< reflink que-ver-hacer-gozo-malta >}}. 
 
-{{< reflink path=posts/2019/11/que-ver-hacer-malta-gozo-comino-5-dias-con-amigas >}}.
+{{< reflink que-ver-hacer-malta-gozo-comino-5-dias-con-amigas >}}.

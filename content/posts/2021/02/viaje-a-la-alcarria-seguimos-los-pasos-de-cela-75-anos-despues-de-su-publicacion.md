@@ -153,8 +153,8 @@ coche](http://turismoenguadalajara.es/documentos/RutadelViajealaAlcarria.pdf).
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/05/ruta-en-coche-pueblos-negros-guadalajara >}}. 
+{{< reflink ruta-en-coche-pueblos-negros-guadalajara >}}. 
 
-{{< reflink path=posts/2020/12/que-ver-donde-comer-en-siguenza >}} 
+{{< reflink que-ver-donde-comer-en-siguenza >}} 
 
-{{< reflink path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}}.
+{{< reflink 11-escapadas-cercanas-a-dos-horas-de-madrid >}}.

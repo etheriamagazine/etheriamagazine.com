@@ -152,6 +152,7 @@ vuestras aventuras que dispone además de restaurante y spa.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/09/tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}} 
+{{< reflink tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}} 
 
-{{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}}
+[Suiza en coche eléctrico, una aventura ecológica (y más económica)]({{% ref 
+ruta-en-coche-electrico-por-suiza %}})

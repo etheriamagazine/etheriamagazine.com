@@ -113,8 +113,8 @@ Flandes](http://www.visitflanders.com/es/).
 
 **📌** **También te puede interesar:** 
 
-{{< reflink path=posts/2021/03/que-ver-hacer-otros-planes-en-bruselas-y-flandes >}} 
+{{< reflink que-ver-hacer-otros-planes-en-bruselas-y-flandes >}} 
 
-{{< reflink path=posts/2022/09/que-ver-barrio-europeo-bruselas >}} 
+{{< reflink que-ver-barrio-europeo-bruselas >}} 
 
-{{< reflink path=posts/2022/11/flandes-en-familia-museos >}}
+{{< reflink flandes-en-familia-museos >}}

@@ -132,10 +132,10 @@ Algarve](https://www.visitalgarve.pt/es/Default.aspx)**.**
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/08/18-experiencias-si-viajas-sola-al-algarve >}}. 
+{{< reflink 18-experiencias-si-viajas-sola-al-algarve >}}. 
 
-{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}} 
+{{< reflink consejos-rutas-andalucia-en-autocaravana >}} 
 
-{{< reflink path=posts/2021/06/planes-en-huelva-con-ninos >}}. 
+{{< reflink planes-en-huelva-con-ninos >}}. 
 
-{{< reflink path=posts/2020/07/que-ver-hacer-costa-playas-huelva-donana >}}.
+{{< reflink que-ver-hacer-costa-playas-huelva-donana >}}.

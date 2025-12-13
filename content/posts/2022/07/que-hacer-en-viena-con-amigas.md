@@ -229,10 +229,8 @@ Cualquier información necesaria para planificar vuestro viaje la encontraréis 
 
 ### Sigue leyendo sobre Viena y Austria
 
-{{< reflink path=posts/2019/04/viajar-con-madres-que-ver-viena >}}. 
+{{< reflink viajar-con-madres-que-ver-viena >}}. 
 
-{{< reflink path=posts/2020/05/hallstatt-viaja-con-amigas-austria >}}. 
+{{< reflink hallstatt-viaja-con-amigas-austria >}}. 
 
-{{< reflink 
-path=posts/2020/03/hedy-lamarr-extasis-inventora-wifi-modelo-actriz-espia-mujeres-etheria 
->}}
+{{< reflink hedy-lamarr-extasis-inventora-wifi-modelo-actriz-espia-mujeres-etheria >}}

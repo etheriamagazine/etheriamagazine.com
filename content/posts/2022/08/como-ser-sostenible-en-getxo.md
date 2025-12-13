@@ -241,7 +241,6 @@ Más información en [Turismo de Getxo](https://www.getxo.eus/es/turismo/descubr
 
 **También en Getxo** 
 
-{{< reflink path=posts/2022/07/que-ver-getxo-visitas-marineras >}}. 
+{{< reflink que-ver-getxo-visitas-marineras >}}. 
 
-{{< reflink 
-path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.
+{{< reflink 12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.

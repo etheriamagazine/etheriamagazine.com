@@ -55,11 +55,11 @@ emprendimiento debía incorporar perspectivas ecofeministas.
 ## Qué es Hacia lo Salvaje
 
 Este no es el primer emprendimiento de Ana Cristina Cortés, que ya pasó por este 
-magazine cuando formaba parte de {{< reflink 
-path=posts/2022/03/empoderar-con-el-turismo-mujeres-de-tanzania >}}, donde estuvo tres 
-años y que le permitió comprobar en primera persona el potencial del viaje como 
-herramienta de transformación. Dicha empresa quedó finalista en el Premio de FITUR 
-"Igualdad de Género y Empoderamiento Femenino". 
+magazine cuando formaba parte de [Active Woman]({{% ref 
+empoderar-con-el-turismo-mujeres-de-tanzania %}}), donde estuvo tres años y que le 
+permitió comprobar en primera persona el potencial del viaje como herramienta de 
+transformación. Dicha empresa quedó finalista en el Premio de FITUR "Igualdad de Género 
+y Empoderamiento Femenino". 
 
 El nuevo proyecto, **Hacia lo Salvaje**, se centra en viajes a entornos rurales y de 
 naturaleza, tanto dentro como fuera de España. En ellos el objetivo es no sólo visitar 
@@ -126,8 +126,8 @@ Salvaje_](https://hacialosalvaje.net/) o apúntate a su newsletter.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2023/06/organizar-un-viaje-sola-sania-jelic >}}. 
+{{< reflink organizar-un-viaje-sola-sania-jelic >}}. 
 
-{{< reflink path=posts/2023/06/tanit-ibiza-conexion >}}. 
+{{< reflink tanit-ibiza-conexion >}}. 
 
-{{< reflink path=posts/2023/03/mujeres-polacas-fama-universal >}}.
+{{< reflink mujeres-polacas-fama-universal >}}.

@@ -98,6 +98,6 @@ más pequeños se vayan aficionando a la competición.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/11/10-razones-para-visitar-la-palma >}}. 
+{{< reflink 10-razones-para-visitar-la-palma >}}. 
 
-{{< reflink path=posts/2021/04/10-secretos-para-conocer-la-isla-de-la-palma >}}.
+{{< reflink 10-secretos-para-conocer-la-isla-de-la-palma >}}.

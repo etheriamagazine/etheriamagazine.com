@@ -127,5 +127,5 @@ las **Bodegas Caudalia** (bodegascaudalia.com) donde no sólo se aprende de vino
 que se pueden hacer catas y actividades, y al **Monasterio de Leyre** 
 (monasteriodeleyre.com). 
 
-✅Y si necesitas más ideas para tu viaje, no te pierdas: {{< reflink 
-path=posts/2023/10/que-ver-navarra-media-y-pirenaica >}}
+✅Y si necesitas más ideas para tu viaje, no te pierdas: [Cómo enamorarse de Navarra en 3 
+pueblos y 6 visitas culturales]({{% ref que-ver-navarra-media-y-pirenaica %}})

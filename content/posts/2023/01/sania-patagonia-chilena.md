@@ -204,8 +204,8 @@ tortilla cómo quiere y cuándo quiere. Un ejemplo claro de _win-win_ para todos
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/01/sania-en-patagonia-ushuaia-punta-arenas >}} 
+{{< reflink sania-en-patagonia-ushuaia-punta-arenas >}} 
 
-{{< reflink path=posts/2022/12/sania-jelic-amazonas >}} 
+{{< reflink sania-jelic-amazonas >}} 
 
-{{< reflink path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}}
+{{< reflink sania-jelic-viajar-sola-mas-65 >}}

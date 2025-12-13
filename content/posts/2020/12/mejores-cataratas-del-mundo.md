@@ -91,9 +91,9 @@ primavera, después del deshielo.
 
 ## 6\. Cataratas Kuang Si en Luang Prabang
 
-Cualquier excusa para viajar a Laos, y más concretamente a la maravillosa ciudad de {{< 
-reflink path=posts/2018/12/guia-viaje-para-mujeres-luang-prabang >}}, merece la pena. 
-Así que, visitar las bonitas y suaves **cataratas de Kuang Si**, a 27 kilómetros de esta 
+Cualquier excusa para viajar a Laos, y más concretamente a la maravillosa ciudad de 
+[Luang Prabang]({{% ref guia-viaje-para-mujeres-luang-prabang %}}), merece la pena. Así 
+que, visitar las bonitas y suaves **cataratas de Kuang Si**, a 27 kilómetros de esta 
 ciudad, son un aliciente más. Estas cascadas no son espectaculares por tener una gran 
 caída de agua (la más grande es de 60 metros) pero sí están en las listas de las más 
 bonitas del mundo por el entorno, por la suavidad del paisaje y por el azul turquesa del 
@@ -106,16 +106,16 @@ negros asiáticos.
 
 ## 7\. Parque Nacional de los Lagos de Plitvice
 
-Los dieciséis lagos que forman el {{< reflink 
-path=posts/2018/10/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia >}}, en 
-Croacia, forman un sistema de cascadas y saltos de agua que, sin ser espectaculares de 
-forma aislada, forman un conjunto natural de una belleza increíble. Su visita es muy 
-cómoda y permite un agradable paseo por pasarelas de madera entre los lagos. Además, 
-tienen el aliciente de que conservan su belleza en cualquier época del año. No sabemos 
-si nos gustan más con la explosión natural de la primavera, los colores del otoño o con 
-su aspecto helado en invierno. Se han convertido en una parada obligatoria en las rutas 
-por Croacia y, como están algo alejadas de las ciudades croatas, merece la pena hacer 
-noche en alguno de los alojamientos del Parque. 
+Los dieciséis lagos que forman el [Parque Nacional de Plitvice]({{% ref 
+10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia %}}), en Croacia, forman un 
+sistema de cascadas y saltos de agua que, sin ser espectaculares de forma aislada, 
+forman un conjunto natural de una belleza increíble. Su visita es muy cómoda y permite 
+un agradable paseo por pasarelas de madera entre los lagos. Además, tienen el aliciente 
+de que conservan su belleza en cualquier época del año. No sabemos si nos gustan más con 
+la explosión natural de la primavera, los colores del otoño o con su aspecto helado en 
+invierno. Se han convertido en una parada obligatoria en las rutas por Croacia y, como 
+están algo alejadas de las ciudades croatas, merece la pena hacer noche en alguno de los 
+alojamientos del Parque. 
 
 ![Viajes a Marruecos](https://fotos.etheriamagazine.com/2020/11/cataratas-ouzoud.jpg "Cataratas de Ouzoud.")
 
@@ -123,18 +123,18 @@ noche en alguno de los alojamientos del Parque.
 
 Si pensamos en un viaje a Marruecos es posible que no se nos ocurra que vamos a poder 
 contemplar una de las cataratas más bonitas del mundo. Las **cascadas de Ouzoud**, con 
-su caída de 110 metros de agua dividida en tres saltos, están a 150 kilómetros de {{< 
-reflink path=posts/2018/12/viaje-de-amigas-a-marrakech >}}, en la cordillera del Atlas. 
-Son bonitas por diferentes e inesperadas, por el rojo del suelo arcilloso que las rodea, 
-que contrasta con el verde de los olivos. En la visita te sorprenderán los divertidos 
-monos de barbería, pequeños y descarados. Para completar la jornada, ten en cuenta que 
-puedes dar un divertido paseo en barca hasta la caída de agua y que es un lugar 
-inmejorable para darse un baño, a pesar de lo fría que está el agua. 
+su caída de 110 metros de agua dividida en tres saltos, están a 150 kilómetros de 
+[Marrakech]({{% ref viaje-de-amigas-a-marrakech %}}), en la cordillera del Atlas. Son 
+bonitas por diferentes e inesperadas, por el rojo del suelo arcilloso que las rodea, que 
+contrasta con el verde de los olivos. En la visita te sorprenderán los divertidos monos 
+de barbería, pequeños y descarados. Para completar la jornada, ten en cuenta que puedes 
+dar un divertido paseo en barca hasta la caída de agua y que es un lugar inmejorable 
+para darse un baño, a pesar de lo fría que está el agua. 
 
 #### También podría interesarte...
 
-{{< reflink path=posts/2018/11/enoturismo-en-niagara-un-viaje-a-canada-diferente >}}. 
+{{< reflink enoturismo-en-niagara-un-viaje-a-canada-diferente >}}. 
 
-{{< reflink path=posts/2020/03/10-paisajes-para-evadirte-desde-tu-casa >}} 
+{{< reflink 10-paisajes-para-evadirte-desde-tu-casa >}} 
 
-{{< reflink path=posts/2019/05/10-yacimientos-arqueologicos-america-latina >}}
+{{< reflink 10-yacimientos-arqueologicos-america-latina >}}

@@ -121,8 +121,8 @@ que estará en el Museo del Prado hasta el 18 de junio de 2023.
 
 **No te pierdas....** 
 
-{{< reflink path=posts/2019/09/15-obras-imprescindibles-en-el-prado >}}. 
+{{< reflink 15-obras-imprescindibles-en-el-prado >}}. 
 
-{{< reflink path=posts/2022/10/visita-rapida-museo-thyssen >}}. 
+{{< reflink visita-rapida-museo-thyssen >}}. 
 
-{{< reflink path=posts/2021/04/que-ver-en-museo-naval-de-madrid >}}.
+{{< reflink que-ver-en-museo-naval-de-madrid >}}.

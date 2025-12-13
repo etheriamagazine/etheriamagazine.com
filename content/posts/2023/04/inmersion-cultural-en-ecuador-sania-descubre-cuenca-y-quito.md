@@ -203,8 +203,8 @@ Cuenca y tardaré, por lo menos, unos dos meses en recuperar algo de mi melena b
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/04/como-viajar-islas-galapagos >}} 
+{{< reflink como-viajar-islas-galapagos >}} 
 
-{{< reflink path=posts/2023/03/itinerario-bolivia-sania-jelic >}} 
+{{< reflink itinerario-bolivia-sania-jelic >}} 
 
-{{< reflink path=posts/2023/02/patagonia-cruce-lagos >}}
+{{< reflink patagonia-cruce-lagos >}}

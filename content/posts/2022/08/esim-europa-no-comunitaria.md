@@ -176,4 +176,4 @@ tarjetas eSIM para Europa de Holafly.
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2022/06/holafly-viaje-espana >}}
+[Conoce la eSIM de Holafly para viajar a España]({{% ref holafly-viaje-espana %}})

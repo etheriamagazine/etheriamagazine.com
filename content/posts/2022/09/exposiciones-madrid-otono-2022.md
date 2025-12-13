@@ -28,13 +28,13 @@ exposiciones en Madrid en otoño porque te van a apetecer todas.
 ## 'Hijas del Nilo'
 
 Nos gusta tanto la exposición “Hijas del Nilo. Mujer y sociedad en el antiguo Egipto” 
-que ya le dedicamos un artículo monográfico (puedes leerlo en el enlace {{< reflink 
-path=posts/2022/07/exposicion-hijas-del-nilo-madrid >}}). No queremos perder la ocasión 
-de recordaros que, si todavía no la habéis visto, es una cita obligada en la vida 
-cultural de Madrid. Una ocasión única para acercarse al mundo femenino de este 
-apasionante periodo histórico a través de los objetos cotidianos y de la vida funeraria. 
-Además, podrás profundizar en la vida de alguna mujeres como Tiyi, Nefertari, Nefertiti 
-o Cleopatra VII. 
+que ya le dedicamos un artículo monográfico (puedes leerlo en el enlace [‘Hijas del 
+Nilo’, una cita con las mujeres del antiguo Egipto en Madrid]({{% ref 
+exposicion-hijas-del-nilo-madrid %}})). No queremos perder la ocasión de recordaros que, 
+si todavía no la habéis visto, es una cita obligada en la vida cultural de Madrid. Una 
+ocasión única para acercarse al mundo femenino de este apasionante periodo histórico a 
+través de los objetos cotidianos y de la vida funeraria. Además, podrás profundizar en 
+la vida de alguna mujeres como Tiyi, Nefertari, Nefertiti o Cleopatra VII. 
 
 ![sala de la exposición Hijas del Nilo en el Palacio de Alhajas](https://fotos.etheriamagazine.com/2022/09/Hijas_del_Nilo-sarcofago.jpg "Sarcófago en la exposición 'Hijas del Nilo'.")
 

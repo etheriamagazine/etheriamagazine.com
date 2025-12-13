@@ -196,11 +196,8 @@ Consulta en Fruiturisme (Oficina de Turismo de Aitona) o en
 
 ## Más rutas en Lleida...
 
-{{< reflink path=posts/2020/08/pueblos-y-rutas-imprescindibles-en-valle-aran >}} 
+{{< reflink pueblos-y-rutas-imprescindibles-en-valle-aran >}} 
 
-{{< reflink 
-path=posts/2020/05/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida 
->}}. 
+{{< reflink consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida >}}. 
 
-{{< reflink 
-path=posts/2020/02/ruta-senderista-en-familia-por-valle-de-boi-pirineo-lleida >}}
+{{< reflink ruta-senderista-en-familia-por-valle-de-boi-pirineo-lleida >}}

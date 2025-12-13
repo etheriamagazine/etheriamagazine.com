@@ -160,9 +160,8 @@ con materiales sostenibles y reciclados. Se expondrán en el **Edificio del Relo
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/10/que-ver-valencia >}} 
+{{< reflink que-ver-valencia >}} 
 
-{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}} 
+{{< reflink planes-originales-valencia-con-amigas >}} 
 
-{{< reflink path=posts/2020/03/valencia-propuestas-para-todos-en-la-ciudad-del-diseno 
->}}
+{{< reflink valencia-propuestas-para-todos-en-la-ciudad-del-diseno >}}

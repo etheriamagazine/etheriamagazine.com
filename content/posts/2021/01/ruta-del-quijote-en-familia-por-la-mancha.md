@@ -133,8 +133,8 @@ tan mala simiente de sobre la faz de la tierra”._
 
 En condiciones normales, se puede **visitar el interior de tres molinos**: Burleta e 
 Infanto, para ver la maquinaria original, y Culebro, donde se sitúa el Museo de Sara 
-Montiel. (En este artículo podéis leer la {{< reflink 
-path=posts/2019/04/ruta-sara-montiel-campo-de-criptana >}}). El precio de la entrada es 
+Montiel. (En este artículo podéis leer la [Ruta completa de Sara Montiel en Campo de 
+Criptana]({{% ref ruta-sara-montiel-campo-de-criptana %}})). El precio de la entrada es 
 de 2 € (adultos), de 1 € (niños de 6 a 12 años) y gratuita para menores de 5 años. 
 
 ![migas manchegas](https://fotos.etheriamagazine.com/2021/01/Migas-manchegas.jpg "Las migas manchegas con uvas es un plato que suele gustar a los niños.")
@@ -192,10 +192,9 @@ dormir por lo que no te podemos hacer una recomendación concreta.
 
 ### Te puede interesar...
 
-{{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha >}} 
+{{< reflink ruta-del-vino-de-la-mancha >}} 
 
-{{< reflink path=posts/2020/11/mejores-rutas-en-ciudad-real >}} 
+{{< reflink mejores-rutas-en-ciudad-real >}} 
 
-{{< reflink 
-path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+{{< reflink viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
 >}}

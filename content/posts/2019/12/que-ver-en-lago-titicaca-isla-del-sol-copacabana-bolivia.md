@@ -219,9 +219,8 @@ beber poquito y dormir solito…”**
 
 ### También te puede interesar...
 
-{{< reflink 
-path=posts/2019/05/ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta >}}. 
+{{< reflink ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta >}}. 
 
-{{< reflink path=posts/2019/01/que-ver-en-desierto-atacama-san-pedro-atacama-chile >}}. 
+{{< reflink que-ver-en-desierto-atacama-san-pedro-atacama-chile >}}. 
 
-{{< reflink path=posts/2018/09/rosa-maria-calaf-es-una-mujer-etheria >}}.
+{{< reflink rosa-maria-calaf-es-una-mujer-etheria >}}.

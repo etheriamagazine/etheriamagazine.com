@@ -28,10 +28,10 @@ Si te alojas en este hotel podrás vivir la isla de Gran Canaria de otra manera,
 los resorts de playa pero muy cerca de la gente, de las tiendas, del ambiente local de 
 una ciudad viva como Las Palmas. Está situado junto al bonito **Parque Doramas** y 
 tendrás la famosa **playa de las Canteras** a solo un paso. Además, es un punto de 
-partida excelente para {{< reflink 
-path=posts/2018/05/senderismo-gran-canaria-banos-de-bosque >}}, tanto su interior 
-(perfecto para hacer senderismo y perderse en sus bosques), como la zona sur y sus 
-playas (Maspalomas está a algo más de media hora en coche). 
+partida excelente para [recorrer la isla]({{% ref 
+senderismo-gran-canaria-banos-de-bosque %}}), tanto su interior (perfecto para hacer 
+senderismo y perderse en sus bosques), como la zona sur y sus playas (Maspalomas está a 
+algo más de media hora en coche). 
 
 ## Las habitaciones
 
@@ -108,8 +108,7 @@ doble desde 120 Euros.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2018/05/senderismo-gran-canaria-banos-de-bosque >}} 
+{{< reflink senderismo-gran-canaria-banos-de-bosque >}} 
 
 {{< reflink 
-path=posts/2020/09/viajes-por-espana-10-escapadas-a-las-islas-que-ver-que-hacer-canarias-baleares 
->}}
+viajes-por-espana-10-escapadas-a-las-islas-que-ver-que-hacer-canarias-baleares >}}

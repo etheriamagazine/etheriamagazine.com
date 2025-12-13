@@ -140,8 +140,8 @@ Fotografías cedidas por Relais Borgo Santo Pietro.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/06/toscana-en-coche >}} 
+{{< reflink toscana-en-coche >}} 
 
-{{< reflink path=posts/2019/09/como-hacer-la-ruta-puccini-en-la-toscana-italia >}} 
+{{< reflink como-hacer-la-ruta-puccini-en-la-toscana-italia >}} 
 
-{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}
+{{< reflink paseos-por-los-jardines-mas-bellos-de-florencia >}}

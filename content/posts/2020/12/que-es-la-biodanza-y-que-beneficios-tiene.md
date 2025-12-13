@@ -108,7 +108,6 @@ Canadá, América Latina, África, Japón y Nueva Zelanda.
 
 #### También te puede interesar...
 
-{{< reflink 
-path=posts/2020/11/mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion >}} 
+{{< reflink mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion >}} 
 
-{{< reflink path=posts/2020/10/danza-terapia-salud >}}.
+{{< reflink danza-terapia-salud >}}.

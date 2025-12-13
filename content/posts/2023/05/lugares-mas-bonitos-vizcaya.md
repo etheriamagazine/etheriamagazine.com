@@ -62,7 +62,8 @@ modernidad. Diseñado por el arquitecto británico Norman Foster, conecta la ciu
 entorno metropolitano. De hecho puedes ir a las playas de Getxo en metro si te diriges 
 por la línea 1 hasta Algorta. 
 
-✅ **No te pierdas:** {{< reflink path=posts/2022/07/que-ver-getxo-visitas-marineras >}}. 
+✅ **No te pierdas:** [Getxo, la escapada marinera con mejor rollo de Bizkaia]({{% ref 
+que-ver-getxo-visitas-marineras %}}). 
 
 ![Museo de Guggenheim de Bilbao.](https://fotos.etheriamagazine.com/2023/05/museo-guggenheim-bilbao.jpg "Museo de Guggenheim de Bilbao. © Piotr Musioł")
 
@@ -129,10 +130,9 @@ Neguri y Algorta.
 
 ✅ **No te pierdas:** 
 
-{{< reflink 
-path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}. 
+{{< reflink 12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}. 
 
-{{< reflink path=posts/2023/03/que-donde-comer-getxo >}}. 
+{{< reflink que-donde-comer-getxo >}}. 
 
 ![Paseo de las Villas de Getxo.](https://fotos.etheriamagazine.com/2022/10/paseo-villas-getxo.jpg "Paseo de las Villas de Getxo. © Turismo de Getxo")
 
@@ -213,8 +213,8 @@ estalactitas y estalagmitas, se denominó Sala Versalles.
 imponencia del entorno calizo y el pintoresco paisaje rural que se abre ladera abajo 
 pues se halla en el parque natural de Armañón. Más información en cuevadepozalagua.eus 
 
-✅ No te pierdas: {{< reflink 
-path=posts/2021/08/que-ver-y-hacer-en-valle-de-karrantza-vizcaya >}}. 
+✅ No te pierdas: [Valle de Karrantza, 10 experiencias rurales y genuinas en Vizcaya]({{% 
+ref que-ver-y-hacer-en-valle-de-karrantza-vizcaya %}}). 
 
 ![Bonito entorno de la cueva de Pozalagua.](https://fotos.etheriamagazine.com/2021/08/dolomita-valle-karrantza.jpg "Bonito entorno de la cueva de Pozalagua. © Juan Carlos Muñoz")
 
@@ -348,6 +348,6 @@ llegado a la mejor zona para comerte el mar.
 
 **Sigue viajando por el País Vasco** 
 
-{{< reflink path=posts/2023/02/que-ver-hacer-gipuzkoa >}}. 
+{{< reflink que-ver-hacer-gipuzkoa >}}. 
 
-{{< reflink path=posts/2021/09/planes-originales-en-vitoria-con-amigas >}}.
+{{< reflink planes-originales-en-vitoria-con-amigas >}}.

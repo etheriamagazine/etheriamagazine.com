@@ -170,9 +170,8 @@ Suiza](https://www.myswitzerland.com/es/engelberg.html).
 
 ## Otros viajes en Suiza...
 
-{{< reflink path=posts/2018/09/tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}}. 
+{{< reflink tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}}. 
 
-{{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}}. 
+{{< reflink ruta-en-coche-electrico-por-suiza >}}. 
 
-{{< reflink path=posts/2021/03/suiza-encumbra-a-las-mujeres-con-su-100-por-100-women 
->}}.
+{{< reflink suiza-encumbra-a-las-mujeres-con-su-100-por-100-women >}}.

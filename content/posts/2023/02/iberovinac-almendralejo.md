@@ -93,8 +93,8 @@ sus bodegas y la **red de miradores de la Ruta del vino Ribera del Guadiana**.
 
 ✅ **También te interesa leer...** 
 
-{{< reflink path=posts/2022/05/ruta-pueblos-bonitos-badajoz >}}. 
+{{< reflink ruta-pueblos-bonitos-badajoz >}}. 
 
-{{< reflink path=posts/2022/06/viajes-a-extremadura >}}. 
+{{< reflink viajes-a-extremadura >}}. 
 
-{{< reflink path=posts/2021/09/10-motivos-para-viajar-a-la-siberia-extremena >}}.
+{{< reflink 10-motivos-para-viajar-a-la-siberia-extremena >}}.

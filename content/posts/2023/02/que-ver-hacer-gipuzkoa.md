@@ -209,8 +209,8 @@ Si te gusta caminar, toma el **sendero de la Bahía**. A lo largo de 14 kilómet
 recorrerás las tres ciudades (Hendaya, Irún y Hondarribia), que contornean la bahía y 
 habrás pisado dos países. 
 
-📌 No te pierdas: Artículo de la {{< reflink 
-path=posts/2020/09/que-ver-guipuzcoa-jaizkibel-hondarribia-pasaia >}} 
+📌 No te pierdas: Artículo de la [costa del monte Jaizkibel con nuestras ocho 
+pasiones.]({{% ref que-ver-guipuzcoa-jaizkibel-hondarribia-pasaia %}}) 
 
 ![Fachadas de Hondarribia, una preciosa ciudad que hay que ver en Gipuzkoa](https://fotos.etheriamagazine.com/2018/07/san-sebastian-hondarribia.jpg "Fachadas de Hondarribia. © Eric Prouzet")
 
@@ -368,8 +368,8 @@ marinas que, en los temporales invernales, se refugian acercándose a la costa.
 
 📍 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/04/que-ver-hacer-en-san-sebastian >}} 
+{{< reflink que-ver-hacer-en-san-sebastian >}} 
 
-{{< reflink path=posts/2019/04/viajes-naturaleza-mejores-canones-pais-vasco >}} 
+{{< reflink viajes-naturaleza-mejores-canones-pais-vasco >}} 
 
-{{< reflink path=posts/2021/02/7-imprescindibles-en-reserva-urdaibai >}}
+{{< reflink 7-imprescindibles-en-reserva-urdaibai >}}

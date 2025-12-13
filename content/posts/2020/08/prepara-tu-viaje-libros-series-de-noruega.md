@@ -242,9 +242,10 @@ fiordos](https://amzn.to/2WZyC9P), de Anaya Touring.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2020/07/9-motivos-para-viajar-a-noruega >}} 
+{{< reflink 9-motivos-para-viajar-a-noruega >}} 
 
-{{< reflink path=posts/2020/01/que-ver-en-noruega-trondheim-bergen-y-oslo >}} 
+{{< reflink que-ver-en-noruega-trondheim-bergen-y-oslo >}} 
 
-{{< reflink path=posts/2019/03/mujeres-gastronomia-y-que-comer-en-noruega >}}{{< reflink 
-path=posts/2019/03/mujeres-gastronomia-y-que-comer-en-noruega >}}
+[¿Conoces la (premiadísima) cocina noruega?]({{% ref 
+mujeres-gastronomia-y-que-comer-en-noruega %}})[]({{% ref 
+mujeres-gastronomia-y-que-comer-en-noruega %}})

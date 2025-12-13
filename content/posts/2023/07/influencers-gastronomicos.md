@@ -134,6 +134,6 @@ cosita de nada, que, en fin, a quién le importa: escribir.
 
 ✅ **Sigue leyendo otras crónicas...** 
 
-{{< reflink path=posts/2023/07/en-el-temazcal >}}. 
+{{< reflink en-el-temazcal >}}. 
 
-{{< reflink path=posts/2019/03/peor-viaje-mi-vida >}}.
+{{< reflink peor-viaje-mi-vida >}}.

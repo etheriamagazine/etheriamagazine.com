@@ -164,6 +164,6 @@ viajes especializada como **Phoenix Voyages**, que tienen guías de habla españ
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/09/crucero-por-el-mekong-excursiones-vietnam-y-camboya >}} 
+{{< reflink crucero-por-el-mekong-excursiones-vietnam-y-camboya >}} 
 
-{{< reflink path=posts/2018/12/guia-viaje-para-mujeres-luang-prabang >}}
+{{< reflink guia-viaje-para-mujeres-luang-prabang >}}

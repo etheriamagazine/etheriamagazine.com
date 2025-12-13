@@ -152,10 +152,8 @@ coche, y dos horas en tren y autobús.
 
 ### También te puede interesar...
 
-{{< reflink 
-path=posts/2019/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}}. 
+{{< reflink de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}}. 
 
-{{< reflink 
-path=posts/2021/03/platos-britanicos-en-un-viaje-inglaterra-escocia-gales-irlanda >}} 
+{{< reflink platos-britanicos-en-un-viaje-inglaterra-escocia-gales-irlanda >}} 
 
-{{< reflink path=posts/2021/02/ideas-de-viajes-a-inglaterra-escocia-gales-irlanda >}}
+{{< reflink ideas-de-viajes-a-inglaterra-escocia-gales-irlanda >}}

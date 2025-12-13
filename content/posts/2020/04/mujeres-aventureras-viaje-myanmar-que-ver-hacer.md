@@ -191,8 +191,8 @@ Exteriores](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detall
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/05/10-templos-no-debes-perderte-viaje-asia >}} 
+{{< reflink 10-templos-no-debes-perderte-viaje-asia >}} 
 
-{{< reflink path=posts/2019/04/viajar-sola-malasia-pulau-tioman-perhentian >}} 
+{{< reflink viajar-sola-malasia-pulau-tioman-perhentian >}} 
 
-{{< reflink path=posts/2021/05/tres-dias-en-bangkok-que-hacer >}}
+{{< reflink tres-dias-en-bangkok-que-hacer >}}

@@ -145,8 +145,9 @@ arquitecto Lluís Muncunill, que fue quien aportó su genio para darle la aparie
 modernista que podemos disfrutar hoy día. 
 
 ✅ Si os gusta el Modernismo, os recomendamos continuar la ruta por otros exponentes de 
-este estilo en Terrassa, que son muchos y muy llamativos. Sigue leyendo: {{< reflink 
-path=posts/2021/08/que-ver-en-terrassa-visitas-modernistas >}}. 
+este estilo en Terrassa, que son muchos y muy llamativos. Sigue leyendo: [Modernismo en 
+Terrassa, tres visitas que te sorprenderán]({{% ref 
+que-ver-en-terrassa-visitas-modernistas %}}). 
 
 📍¿Dónde? Parque de Sant Jordi. Pl. Freixa i Argemí, 11. Terrassa, Barcelona. 
 

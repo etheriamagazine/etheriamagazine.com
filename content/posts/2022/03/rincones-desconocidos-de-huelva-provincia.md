@@ -258,8 +258,8 @@ Más información en [Turismo de Huelva](https://turismo.huelva.es/).
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2021/06/planes-en-huelva-con-ninos >}}. 
+{{< reflink planes-en-huelva-con-ninos >}}. 
 
-{{< reflink path=posts/2021/06/puerto-antilla-grand-hotel-costa-huelva-familias >}}. 
+{{< reflink puerto-antilla-grand-hotel-costa-huelva-familias >}}. 
 
-{{< reflink path=posts/2020/07/que-ver-hacer-costa-playas-huelva-donana >}}.
+{{< reflink que-ver-hacer-costa-playas-huelva-donana >}}.

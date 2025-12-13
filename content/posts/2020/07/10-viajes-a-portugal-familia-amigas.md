@@ -37,8 +37,8 @@ del año. Aquí os contamos unas cuantas visitas imprescindibles en Oporto para 
 perdáis nada de esta preciosa ciudad en un fin de semana. Y recordad que no puede 
 faltaros un crucero por el Duero. 
 
-📍 {{< reflink path=posts/2020/05/viajar-sola-amigas-a-oporto-12-visitas-imprescindibles 
->}}. 
+📍 [12 visitas imprescindibles en tu viaje a Oporto]({{% ref 
+viajar-sola-amigas-a-oporto-12-visitas-imprescindibles %}}). 
 
 ![crucero en Oporto](https://fotos.etheriamagazine.com/2020/04/vistas-oporto-puente-uis-I.jpg "La Ribeira y barcos que recorren el río Duero. © Etheria Magazine")
 
@@ -50,10 +50,11 @@ la meca portuguesa del surf. Convence a tus amigas y, tras recorrer las calles s
 apetecibles de Lisboa y descubrirla a través de sus miradores, enfundaos en el neopreno 
 y ¡a cabalgar sobre las olas! 
 
-📍 {{< reflink path=posts/2024/08/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf 
->}}. 
+📍 [Lisboa y Ericeira, un plan cercano para las amantes del mar, el surf y el buen 
+comer]({{% ref escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf %}}). 
 
-📍 {{< reflink path=posts/2018/10/12-miradores-para-exprimir-lisboa >}}. 
+📍 [12 miradores de Lisboa para enamorarse de sus vistas]({{% ref 
+12-miradores-para-exprimir-lisboa %}}). 
 
 ![playa de Ericeira](https://fotos.etheriamagazine.com/2020/03/Ericeira-costa.jpg "Acantilados de Ericeira. © Christian Holzinger")
 
@@ -66,7 +67,7 @@ San José y la iglesia Matriz, todas en Vila Baleira, la capital de la isla. Y f
 ella, no podréis perderos las Columnas del Pico Ana Ferreira, la Quinta das Palmeiras o 
 Ponta Calheta. 
 
-📍 {{< reflink path=posts/2019/02/que-ver-porto-santo-madeira >}}. 
+📍 [Porto Santo, la isla tranquila]({{% ref que-ver-porto-santo-madeira %}}). 
 
 ![isla porto santo](https://fotos.etheriamagazine.com/2019/02/Porto-Santo-mirador.jpg "Mirador de Portela, las mejores vistas de Porto Santo.")
 
@@ -78,7 +79,8 @@ repostería) a muy buen precio. No os perdáis la Catedral Vieja, los Jardines d
 das Lágrimas y un paseo por la orilla del río Mondego. Y, si tenéis oportunidad, 
 regalaos una noche de fados. 
 
-📍 {{< reflink path=posts/2020/01/viaje-con-amigas-que-ver-en-coimbra >}}. 
+📍 [Enamórate de Coimbra en solo un fin de semana]({{% ref 
+viaje-con-amigas-que-ver-en-coimbra %}}). 
 
 ![universidad coimbra](https://fotos.etheriamagazine.com/2020/01/universidad-coimbra.jpg "Escaleras de la Universidad, photocall de los estudiantes. © P.G.")
 
@@ -89,7 +91,8 @@ que no puedes perderte. Encontrarás lugares tan sorprendentes como las Grutas d
 el [Parque Biológico da Serra da Lousa](https://parquebiologicoserralousa.pt/), el Museo 
 Marítimo de Ílhavo o el curioso y parque de Portugal dos Pequenitos. 
 
-📍 {{< reflink path=posts/2019/06/planes-divertidos-viajes-familia-portugal >}}. 
+📍 [9 planes divertidos en el centro de Portugal con niños]({{% ref 
+planes-divertidos-viajes-familia-portugal %}}). 
 
 ![Niños de viaje en Portugal](https://fotos.etheriamagazine.com/2019/06/parque-aventura-figueira-da-foz-portugal.jpg "Parque de Aventura de Figueira da Foz. ©PG")
 
@@ -101,7 +104,8 @@ conforman con planes convencionales. ¿Cómo te suena dar un paseo en un tractor
 un vino con vistas? Además, te encantará **Évora**, la majestuosa y monumental capital 
 de la región. 
 
-📍 {{< reflink path=posts/2018/11/5-experiencias-con-amigas-en-el-alentejo >}}. 
+📍 [5 experiencias originales en el Alentejo]({{% ref 
+5-experiencias-con-amigas-en-el-alentejo %}}). 
 
 ![Dehesa en Alentejo](https://fotos.etheriamagazine.com/2018/11/Paseo-tractor-alentejo.jpg "Paseo en remolque en Herdade Passanha (Alentejo). ©P.G.")
 
@@ -113,7 +117,8 @@ que encontrarás sus famosos y coloridos barcos moliceiros. Además, es perfecta
 recorrerla en bicicleta (son gratuitas) y en sus alrededores podréis visitar las 
 coloridas casas de Costa Nova y la capital del bacalao, Ílhavo. 
 
-📍 {{< reflink path=posts/2018/09/viaje-con-amigas-aveiro-portugal >}}. 
+📍 [Aveiro no es la Venecia portuguesa ni falta que hace]({{% ref 
+viaje-con-amigas-aveiro-portugal %}}). 
 
 ![barcas tradicionales de Aveiro](https://fotos.etheriamagazine.com/2019/06/canales-aveiro-moliceiro.jpg "Moliceiros en los canales de Aveiro. ©PG")
 
@@ -126,7 +131,8 @@ aristócratas y ricos en general. Conservan joyas como la preciosa ciudadela de 
 el Palacio da Pena de Sintra y el mítico Casino de Estoril. Y, además, no podréis 
 resistiros a un baño en sus doradas playas. 
 
-📍 {{< reflink path=posts/2018/07/48-horas-en-cascais-sintra-y-estoril >}}. 
+📍 [Cascais, Sintra y Estoril, la escapada con amigas que mereces]({{% ref 
+48-horas-en-cascais-sintra-y-estoril %}}). 
 
 ![Palacio de Sintra](https://fotos.etheriamagazine.com/2018/07/Palacio-da-Pena-Sintra-Turismo-Cascais.jpg "Palacio da Pena (Sintra).")
 
@@ -138,7 +144,8 @@ delfines y ballenas, baños en piscinas naturales, paseos en kayak, descender a 
 chimenea volcánica o hacer una ruta de senderismo entre las flores con vistas al océano 
 por lugares donde no os encontraréis con (casi) nadie. 
 
-📍 {{< reflink path=posts/2018/06/terceira-en-familia >}}. 
+📍 [Viaje con niños a Terceira: aventura entre las flores]({{% ref terceira-en-familia 
+%}}). 
 
 ![Lancha rápida en Terceira](https://fotos.etheriamagazine.com/2018/05/Terceira-AVISTAMIENTO-CETACEOS-4.jpg "Avistamiento de cetáceos en Terceira (Azores). © SG")
 
@@ -151,15 +158,15 @@ Vicente. Cuenta con dos ramales: el Camino de los Pescadores (junto a la costa) 
 Camino Histórico (por el interior rural). Ya sólo te queda elegir el tramo, coger las 
 botas de montaña ¡y a caminar! 
 
-📍 {{< reflink 
-path=posts/2018/07/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal >}}. 
+📍 [Ruta Vicentina: senderismo en Alentejo y Algarve]({{% ref 
+ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal %}}). 
 
 ![Senderismo en la ruta Vicentina](https://fotos.etheriamagazine.com/2018/07/Ruta-vicentina-viajes-de-aventura-mujeres.jpg "Caminata en la Ruta Vicentina (Portugal).")
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2020/09/mejores-destinos-para-viajar-en-francia >}} 
+{{< reflink mejores-destinos-para-viajar-en-francia >}} 
 
-{{< reflink path=posts/2020/08/10-grandes-viajes-a-italia >}} 
+{{< reflink 10-grandes-viajes-a-italia >}} 
 
-{{< reflink path=posts/2021/11/viajes-a-estados-unidos >}}
+{{< reflink viajes-a-estados-unidos >}}

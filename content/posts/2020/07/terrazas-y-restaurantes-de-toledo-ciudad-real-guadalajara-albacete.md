@@ -71,10 +71,11 @@ histórico, cuya terraza ofrece vistas tanto del río Tajo como de la capital.
 
 ## Terrazas en Guadalajara
 
-La provincia de Guadalajara, cada vez mejor posicionada a nivel turístico con sus {{< 
-reflink path=posts/2020/06/floracion-campos-lavanda-brihuega-guadalajara-2019 >}} y su 
-{{< reflink path=posts/2019/05/ruta-en-coche-pueblos-negros-guadalajara >}}, también 
-dispone de buenos referentes para cenar al aire libre en periodo estival. 
+La provincia de Guadalajara, cada vez mejor posicionada a nivel turístico con sus 
+[campos de lavanda en Brihuega]({{% ref 
+floracion-campos-lavanda-brihuega-guadalajara-2019 %}}) y su [Ruta de los Pueblos 
+Negros]({{% ref ruta-en-coche-pueblos-negros-guadalajara %}}), también dispone de buenos 
+referentes para cenar al aire libre en periodo estival. 
 
 Uno de estos rincones especiales es el **restaurante Abuela Maravillas**, a orillas del 
 Tajo, en Zorita de los Canes. En su terraza lo más demandado es la cocina casera y el 
@@ -88,8 +89,8 @@ preciosa ciudad de Sigüenza, que este año ha estrenado **Nöla, su nueva terra
 ## Molinos y terrazas en Ciudad Real
 
 Ya sabéis que en Etheria Magazine somos muy fans de Campo de Criptana, así que os 
-tenemos que recomendar que os deis una vuelta por allí para buscar {{< reflink 
-path=posts/2019/04/ruta-sara-montiel-campo-de-criptana >}}, y de paso conocer el 
+tenemos que recomendar que os deis una vuelta por allí para buscar [las raíces de Sara 
+Montiel]({{% ref ruta-sara-montiel-campo-de-criptana %}}), y de paso conocer el 
 **restaurante Las Musas**. Este espacio ofrece una terraza con vistas a los molinos de 
 viento y una suculenta propuesta gastronómica manchega. 
 
@@ -109,10 +110,8 @@ capital; y el **Figón del Huécar**, desde cuya terraza se puede ver la ciudad.
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2021/01/ruta-del-quijote-en-familia-por-la-mancha >}} 
+{{< reflink ruta-del-quijote-en-familia-por-la-mancha >}} 
 
-{{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha >}} 
+{{< reflink ruta-del-vino-de-la-mancha >}} 
 
-{{< reflink 
-path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
->}}
+{{< reflink viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon >}}

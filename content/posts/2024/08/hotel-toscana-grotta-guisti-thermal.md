@@ -104,4 +104,5 @@ Via Grotta Giusti 1411, Monsummano Terme, Italia, 51015. Tel. +39 0572 907 7991.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2022/11/turismo-termal-toscana-italia >}}
+[Dónde desconectar en la Toscana, conoce sus mejores termas]({{% ref 
+turismo-termal-toscana-italia %}})

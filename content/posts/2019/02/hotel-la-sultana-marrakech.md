@@ -113,6 +113,6 @@ Fotografías cedidas por La Sultana Marrakech.
 
 📍 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/12/viaje-de-amigas-a-marrakech >}} 
+{{< reflink viaje-de-amigas-a-marrakech >}} 
 
-{{< reflink path=posts/2019/10/escapada-hotel-romantico-marrakech-riad-belle-epoque >}}
+{{< reflink escapada-hotel-romantico-marrakech-riad-belle-epoque >}}

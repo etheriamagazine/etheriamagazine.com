@@ -222,8 +222,8 @@ arrecia.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/05/por-que-viajar-casablanca-marrakech >}} 
+{{< reflink por-que-viajar-casablanca-marrakech >}} 
 
-{{< reflink path=posts/2023/06/que-ver-en-esauira >}} 
+{{< reflink que-ver-en-esauira >}} 
 
-{{< reflink path=posts/2022/08/que-ver-tanger-con-amigas >}}
+{{< reflink que-ver-tanger-con-amigas >}}

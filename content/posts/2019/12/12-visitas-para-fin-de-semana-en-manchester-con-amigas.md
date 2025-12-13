@@ -188,9 +188,10 @@ Sackville St.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/11/que-ver-londres-nuevo-clasico >}} 
+{{< reflink que-ver-londres-nuevo-clasico >}} 
 
-{{< reflink 
-path=posts/2019/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}} 
+[De road trip por los Cotswolds, un viaje al corazón de Inglaterra]({{% ref 
+de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra %}}) 
 
-{{< reflink path=posts/2021/04/los-mejores-jardines-de-gran-bretana >}}
+[Admira cinco de los mejores jardines de Gran Bretaña]({{% ref 
+los-mejores-jardines-de-gran-bretana %}})

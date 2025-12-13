@@ -81,8 +81,8 @@ prepararlo sino que se cuentan otras anécdotas curiosas. ¡Salud!
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/10/10-mejores-coctelerias-de-madrid-salir-con-amigas >}} 
+{{< reflink 10-mejores-coctelerias-de-madrid-salir-con-amigas >}} 
 
-{{< reflink path=posts/2020/11/libros-de-cocteleria-un-gran-regalo-navidad >}} 
+{{< reflink libros-de-cocteleria-un-gran-regalo-navidad >}} 
 
-{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}
+{{< reflink ruta-ava-gardner-en-madrid >}}

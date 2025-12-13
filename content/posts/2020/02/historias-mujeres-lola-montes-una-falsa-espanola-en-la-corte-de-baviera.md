@@ -148,8 +148,8 @@ verdadera identidad. Nadie reclamó su cuerpo.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/09/museo-sisi-de-viena >}} 
+{{< reflink museo-sisi-de-viena >}} 
 
-{{< reflink path=posts/2018/05/mallorca-de-la-mano-de-george-sand >}} 
+{{< reflink mallorca-de-la-mano-de-george-sand >}} 
 
-{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}
+{{< reflink ruta-ava-gardner-en-madrid >}}

@@ -207,8 +207,8 @@ Amazon](https://amzn.to/32cU8uq)). **A favor:** se seca enseguida al frotar las 
 
 ## También te puede interesar
 
-- {{< reflink 
-path=posts/2020/10/uso-terapeutico-de-la-sal-beneficios-de-la-haloterapia-y-la-talasoterapia 
->}}. 
+- [Haloterapia y talasoterapia. Los beneficios de la sal en el sistema respiratorio]({{% 
+ref uso-terapeutico-de-la-sal-beneficios-de-la-haloterapia-y-la-talasoterapia %}}). 
 
-˝- {{< reflink path=posts/2020/10/danza-terapia-salud >}}.
+˝- [La danza, una terapia para recobrar la alegría y que mejoran el estado de ánimo en 
+pacientes con cáncer]({{% ref danza-terapia-salud %}}).

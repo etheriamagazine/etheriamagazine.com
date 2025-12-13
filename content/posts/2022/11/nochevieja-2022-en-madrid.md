@@ -25,8 +25,8 @@ es no complicarse con la cena y reservar en un hotel o restaurante donde despedi
 por todo lo alto sin manchar la cocina. Aquí compartimos 8 propuestas de cena de 
 Nochevieja en Madrid para decir adiós al año como se merece. 
 
-¡Atención! En este artículo encontrarás las mejores ideas para la {{< reflink 
-path=posts/2023/11/nochevieja-madrid-hoteles-restaurantes >}} 
+¡Atención! En este artículo encontrarás las mejores ideas para la [NOCHEVIEJA 2023 en 
+Hoteles y restaurantes de Madrid.]({{% ref nochevieja-madrid-hoteles-restaurantes %}}) 
 
 ## Lugares donde celebrar la Nochevieja en Madrid en 2022
 
@@ -169,6 +169,7 @@ artículo.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/10/mercados-de-navidad-europa >}} 
+{{< reflink mercados-de-navidad-europa >}} 
 
-{{< reflink path=posts/2020/11/libros-de-cocteleria-un-gran-regalo-navidad >}}
+[Agita la Navidad con estos libros de cócteles, el mejor regalo para quien tú sabes]({{% 
+ref libros-de-cocteleria-un-gran-regalo-navidad %}})

@@ -194,6 +194,6 @@ gastronómico para familiarizarse con los platos típicos.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2025/01/consejos-practicos-sania-jelic-viajar-sola-a-japon >}} 
+{{< reflink consejos-practicos-sania-jelic-viajar-sola-a-japon >}} 
 
-{{< reflink path=posts/2024/12/viajar-sola-a-seul-sania-jelic-corea >}}
+{{< reflink viajar-sola-a-seul-sania-jelic-corea >}}

@@ -113,10 +113,10 @@ y se pueden ver osos panda.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/09/que-ver-hacer-dos-dias-en-hong-kong >}}. 
+{{< reflink que-ver-hacer-dos-dias-en-hong-kong >}}. 
 
-{{< reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}}{{< 
-reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}}{{< 
-reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}}. 
+[Qué ver en el norte de I]({{% ref viaje-para-mujeres-que-ver-norte-india-rajastan 
+%}})[n]({{% ref viaje-para-mujeres-que-ver-norte-india-rajastan %}})[dia: 10 colores del 
+Rajastán]({{% ref viaje-para-mujeres-que-ver-norte-india-rajastan %}}). 
 
-{{< reflink path=posts/2019/04/viajar-sola-malasia-pulau-tioman-perhentian >}}.
+{{< reflink viajar-sola-malasia-pulau-tioman-perhentian >}}.

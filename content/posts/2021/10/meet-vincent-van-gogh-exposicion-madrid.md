@@ -97,6 +97,6 @@ Fotografías cortesía de Proactiv.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/09/jamming-sessions-teatro-de-improvisacion-madrid >}} 
+{{< reflink jamming-sessions-teatro-de-improvisacion-madrid >}} 
 
-{{< reflink path=posts/2021/08/lee-krasner-inspira-el-color-de-tu-nombre >}}
+{{< reflink lee-krasner-inspira-el-color-de-tu-nombre >}}

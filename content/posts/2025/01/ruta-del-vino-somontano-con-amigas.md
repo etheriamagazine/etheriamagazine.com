@@ -209,8 +209,11 @@ servicios de taxi y algunas excursiones organizadas desde Barbastro.
 
 **También en Etheria Magazine** 
 
-1\. {{< reflink path=posts/2024/08/ruta-del-vino-de-almansa >}}. 
+1\. [Ruta del Vino de Almansa: entre viñedos, historia y una rica mesa]({{% ref 
+ruta-del-vino-de-almansa %}}). 
 
-2\. {{< reflink path=posts/2024/05/ruta-del-vino-de-cigales-amigas >}}. 
+2\. [Ruta del Vino Cigales, descubre que la felicidad puede ser de color rosado]({{% ref 
+ruta-del-vino-de-cigales-amigas %}}). 
 
-3\. {{< reflink path=posts/2023/04/ruta-del-vino-de-arribes >}}.
+3\. [Ruta del Vino de Arribes, energía femenina de alto voltaje]({{% ref 
+ruta-del-vino-de-arribes %}}).

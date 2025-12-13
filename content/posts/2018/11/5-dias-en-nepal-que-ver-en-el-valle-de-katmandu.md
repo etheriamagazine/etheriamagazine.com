@@ -186,8 +186,8 @@ Exteriores](http://www.exteriores.gob.es/Portal/es/ServiciosAlCiudadano/SiViajas
 
 ### También te puede interesar....
 
-{{< reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}}. 
+{{< reflink viaje-para-mujeres-que-ver-norte-india-rajastan >}}. 
 
-{{< reflink path=posts/2018/10/viajar-sola-o-con-amigas-a-india >}} 
+{{< reflink viajar-sola-o-con-amigas-a-india >}} 
 
-{{< reflink path=posts/2018/10/que-llevar-en-la-maleta-para-viajar-a-india >}}.
+{{< reflink que-llevar-en-la-maleta-para-viajar-a-india >}}.

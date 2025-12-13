@@ -22,7 +22,7 @@ que el calor de nuestro hogar, que nos permite refugiarnos y construir un espaci
 donde recibir a la familia y los amigos, y desde el que partir hacia esta experiencia. 
 
 Por eso engancha. Más allá de las diferentes vías físicas para alcanzar la ciudad de 
-Santiago de Compostela o {{< reflink path=posts/2019/03/camino-de-finisterre-fairway >}} 
+Santiago de Compostela o [el Finisterrae]({{% ref camino-de-finisterre-fairway %}}) 
 (Camino Francés, Camino del Norte, Camino de la Plata, Camino Portugués, etc.), el 
 Camino transforma. Porque concede un tiempo para uno mismo del que, en esta vida 
 angustiada de prisas y miedos, no disponemos o no queremos disponer en el día a día. Es, 
@@ -162,9 +162,8 @@ Touring.](https://guiasdeviajeanaya.es/destino/67_el-camino-de-santiago/)
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2020/10/viaje-la-rioja-vendimia-valle-de-ocon >}} 
+{{< reflink viaje-la-rioja-vendimia-valle-de-ocon >}} 
 
-{{< reflink 
-path=posts/2019/12/que-ver-en-invierno-a-la-rioja-planes-con-amigas-o-en-familia >}} 
+{{< reflink que-ver-en-invierno-a-la-rioja-planes-con-amigas-o-en-familia >}} 
 
-{{< reflink path=posts/2019/01/ruta-gastronomica-en-la-rioja >}}
+{{< reflink ruta-gastronomica-en-la-rioja >}}

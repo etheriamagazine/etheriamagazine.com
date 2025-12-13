@@ -313,6 +313,6 @@ En la web del [Museo Thyssen-Bornemisza](https://www.museothyssen.org/).
 
 📍 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/01/10-apps-de-museos-espanoles >}} 
+{{< reflink 10-apps-de-museos-espanoles >}} 
 
-{{< reflink path=posts/2022/09/exposiciones-madrid-otono-2022 >}}
+{{< reflink exposiciones-madrid-otono-2022 >}}

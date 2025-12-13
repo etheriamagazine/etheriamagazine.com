@@ -143,6 +143,6 @@ ruta que recrea esta historia medieval de intriga, amor y violencia.
 
 **También te va a gustar...** 
 
-{{< reflink path=posts/2022/04/15-razones-para-visitar-puy-du-fou-toledo-en-2022 >}}. 
+{{< reflink 15-razones-para-visitar-puy-du-fou-toledo-en-2022 >}}. 
 
-{{< reflink path=posts/2022/02/que-ver-en-toledo >}}.
+{{< reflink que-ver-en-toledo >}}.

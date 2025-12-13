@@ -169,7 +169,6 @@ de Buenos Aires.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/09/que-llevar-maleta-argentina >}} 
+{{< reflink que-llevar-maleta-argentina >}} 
 
-{{< reflink path=posts/2019/04/viajar-sola-amigas-ruta-vino-bodegas-de-mendoza-argentina 
->}}
+{{< reflink viajar-sola-amigas-ruta-vino-bodegas-de-mendoza-argentina >}}

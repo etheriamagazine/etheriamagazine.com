@@ -104,10 +104,10 @@ Si no viste esta película en el cine, ahora la puedes disfrutar en **Netflix**.
 
 ### Más rutas de cine que te pueden gustar...
 
-'{{< reflink path=posts/2018/08/turismo-de-cine-catedral-del-mar >}}'. 
+'[Localizaciones de La Catedral del Mar]({{% ref turismo-de-cine-catedral-del-mar %}})'. 
 
-'{{< reflink path=posts/2019/03/jamaica-turismo-viajes-de-cine >}}'. 
+'[Jamaica, plató de cine]({{% ref jamaica-turismo-viajes-de-cine %}})'. 
 
-'{{< reflink path=posts/2018/05/en-el-mexico-de-coco >}}' . 
+'[Un viaje al México de Coco]({{% ref en-el-mexico-de-coco %}})' . 
 
-'{{< reflink path=posts/2019/01/viajes-cine-londres-de-mary-poppins >}}'.
+'[Londres de Mary Poppins]({{% ref viajes-cine-londres-de-mary-poppins %}})'.

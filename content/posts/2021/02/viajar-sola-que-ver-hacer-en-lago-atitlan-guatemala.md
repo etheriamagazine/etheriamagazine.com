@@ -221,8 +221,8 @@ Más información en la [Oficina de Turismo de Guatemala](https://visitguatemala
 
 **Si viajas sola te puede interesar...** 
 
-{{< reflink path=posts/2020/09/guia-basica-cagliari-para-mujeres-viajeras >}}. 
+{{< reflink guia-basica-cagliari-para-mujeres-viajeras >}}. 
 
-{{< reflink path=posts/2020/08/viaja-sola-paises-mas-seguros-para-mujeres >}}. 
+{{< reflink viaja-sola-paises-mas-seguros-para-mujeres >}}. 
 
-{{< reflink path=posts/2020/07/viajar-sola-amigas-marsella-que-ver-hacer >}}.
+{{< reflink viajar-sola-amigas-marsella-que-ver-hacer >}}.

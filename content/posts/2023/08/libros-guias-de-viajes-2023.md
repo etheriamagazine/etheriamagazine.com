@@ -134,8 +134,8 @@ información y consejos prácticos con un tono divertido. La puedes adquirir en 
 o recibirla en casa con [Amazon: unos 9 euros en versión Kindle y en torno a 16 euros en 
 papel](https://amzn.to/3OTH7P3). 
 
-✅ No te pierdas el artículo: {{< reflink 
-path=posts/2019/06/como-organizar-un-viaje-a-japon >}}. 
+✅ No te pierdas el artículo: [5 recomendaciones para preparar un viaje a Japón]({{% ref 
+como-organizar-un-viaje-a-japon %}}). 
 
 ![Manual para viajar a Japón y no morir en el intento](https://fotos.etheriamagazine.com/2023/08/manual-para-viajar-a-japon-y-no-morir-en-el-intento-guias-singulares-1.jpg "Manual para viajar a Japón y no morir en el intento.")
 
@@ -169,9 +169,8 @@ Lo encontrarás en Amazon y en librerías, impreso y digital.
 
 **Sigue leyendo...** 
 
-{{< reflink 
-path=posts/2021/03/organizar-viaje-a-egipto-y-documentar-con-libros-peliculas >}}. 
+{{< reflink organizar-viaje-a-egipto-y-documentar-con-libros-peliculas >}}. 
 
-{{< reflink path=posts/2020/08/prepara-tu-viaje-libros-series-de-noruega >}}. 
+{{< reflink prepara-tu-viaje-libros-series-de-noruega >}}. 
 
-{{< reflink path=posts/2020/05/prepara-tu-viaje-a-cuba-libros-peliculas >}}.
+{{< reflink prepara-tu-viaje-a-cuba-libros-peliculas >}}.

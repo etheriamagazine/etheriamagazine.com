@@ -154,8 +154,8 @@ Pius XII, 4. Tel. +34 960 88 44 44
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/10/que-ver-valencia >}}. 
+{{< reflink que-ver-valencia >}}. 
 
-{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}}. 
+{{< reflink planes-originales-valencia-con-amigas >}}. 
 
 © Fotografías cedidas por Grupo Accor.

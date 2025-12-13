@@ -24,11 +24,11 @@ Horcher](#Horcher). [5\. Levadura Madre](#Levadura-Madre). [6\. Restaurantes
 
 ### 1\. Vasito de chocolate con oreos en el Jardín de Diana
 
-No es la primera vez que os hablamos del Jardín de Diana, la {{< reflink 
-path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}, y eso no puede ser 
-casualidad, sino que confirma que realmente nos encanta. En este rincón, que destila 
-intimidad aún estando en plena Gran Vía madrileña, sirven un espectacular postre: 
-'**Mousse de chocolate y avellanas con barquillo crujiente, galletas, naranja y 
+No es la primera vez que os hablamos del Jardín de Diana, la [terraza del hotel Hyatt 
+Centric Gran Via Madrid]({{% ref 10-planes-originales-en-madrid-con-amigas %}}), y eso 
+no puede ser casualidad, sino que confirma que realmente nos encanta. En este rincón, 
+que destila intimidad aún estando en plena Gran Vía madrileña, sirven un espectacular 
+postre: '**Mousse de chocolate y avellanas con barquillo crujiente, galletas, naranja y 
 chantilly'**. Nuestra recomendación es que lo acompañes de un cóctel y sientas en el 
 paladar el _glamour_ de la capital. Una de las mejores opciones para tomar postres de 
 chocolate en Madrid. 

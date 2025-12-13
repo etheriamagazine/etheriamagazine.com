@@ -113,6 +113,8 @@ encontrar “la belleza universal”.
 
 #### También te puede interesar...
 
-- {{< reflink path=posts/2020/11/expresionismo-aleman-museo-thyssen-madrid >}}. 
+- [Expresionismo alemán en el Museo Thyssen Bornemisza]({{% ref 
+expresionismo-aleman-museo-thyssen-madrid %}}). 
 
-- {{< reflink path=posts/2020/10/10-exposiciones-en-madrid-para-otono-2020 >}}.
+- [10 exposiciones esenciales en Madrid para otoño-invierno 2020/ 21]({{% ref 
+10-exposiciones-en-madrid-para-otono-2020 %}}).

@@ -193,6 +193,6 @@ musulmana es más conservadora con la vestimenta.
 
 También te puede interesar: 
 
-{{< reflink path=posts/2020/09/hotel-lujo-maldivas-seaside-finolhu >}} 
+{{< reflink hotel-lujo-maldivas-seaside-finolhu >}} 
 
-{{< reflink path=posts/2019/03/viajes-mujeres-mejores-planes-en-mauricio >}}
+{{< reflink viajes-mujeres-mejores-planes-en-mauricio >}}

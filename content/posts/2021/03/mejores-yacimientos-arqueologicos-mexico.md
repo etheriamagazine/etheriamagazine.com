@@ -156,8 +156,8 @@ conquistados por los mixtecas que utilizaron el lugar para enterrar a sus gobern
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/05/10-yacimientos-arqueologicos-america-latina >}} 
+{{< reflink 10-yacimientos-arqueologicos-america-latina >}} 
 
-{{< reflink path=posts/2018/05/en-el-mexico-de-coco >}} 
+{{< reflink en-el-mexico-de-coco >}} 
 
-{{< reflink path=posts/2021/02/biografia-y-ruta-frida-kahlo-mexico >}}
+{{< reflink biografia-y-ruta-frida-kahlo-mexico >}}

@@ -52,8 +52,8 @@ Ubicada en la parte sudoriental de Francia, todo en ella parece girar en torno a
 de la uva. Destaca su **Ciudad del Vino** y en 2022 ha sido nombrada capital del Smart 
 Tourism. 
 
-📌No te pierdas: {{< reflink 
-path=posts/2018/12/la-ciudad-del-vino-visita-obligada-en-burdeos >}}. 
+📌No te pierdas: [La Ciudad del Vino, visita obligada en Burdeos]({{% ref 
+la-ciudad-del-vino-visita-obligada-en-burdeos %}}). 
 
 Merece la pena acercarse a conocer sus viñedos eco-responsables. Uno de los más 
 destacados es el **Château Giraud** (chateaugiraud.com). Utiliza prácticas ambientales 
@@ -153,6 +153,6 @@ pequeños enfocadas en el mundo natural.
 
 📍 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/07/viajar-sola-amigas-marsella-que-ver-hacer >}} 
+{{< reflink viajar-sola-amigas-marsella-que-ver-hacer >}} 
 
-{{< reflink path=posts/2021/07/ruta-de-los-jardines-costa-azul-francia >}}
+{{< reflink ruta-de-los-jardines-costa-azul-francia >}}

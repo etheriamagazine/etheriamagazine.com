@@ -149,6 +149,6 @@ diferente.
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2022/04/excursion-a-capadocia >}} 
+{{< reflink excursion-a-capadocia >}} 
 
-{{< reflink path=posts/2018/05/fin-de-semana-romantico-en-estambul >}}
+{{< reflink fin-de-semana-romantico-en-estambul >}}

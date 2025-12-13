@@ -78,6 +78,6 @@ Martin de Saracibar, 2, Vitoria. Tel. +34 945 354 085
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/09/planes-originales-en-vitoria-con-amigas >}} 
+{{< reflink planes-originales-en-vitoria-con-amigas >}} 
 
-{{< reflink path=posts/2019/11/ruta-murales-en-vitoria-10-grafitis-imprescindibles >}}
+{{< reflink ruta-murales-en-vitoria-10-grafitis-imprescindibles >}}

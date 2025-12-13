@@ -132,8 +132,8 @@ Cauchie y la Casa Van Eetvelde.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2022/09/que-ver-barrio-europeo-bruselas >}}. 
+{{< reflink que-ver-barrio-europeo-bruselas >}}. 
 
-{{< reflink path=posts/2022/03/que-comer-en-bruselas >}}. 
+{{< reflink que-comer-en-bruselas >}}. 
 
-{{< reflink path=posts/2021/03/que-ver-hacer-otros-planes-en-bruselas-y-flandes >}}.
+{{< reflink que-ver-hacer-otros-planes-en-bruselas-y-flandes >}}.

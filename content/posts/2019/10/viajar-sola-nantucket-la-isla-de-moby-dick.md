@@ -184,8 +184,8 @@ ha descubierto en sus frecuentes viajes por el mundo.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/05/viaje-con-amigas-nueva-york-primavera >}} 
+{{< reflink viaje-con-amigas-nueva-york-primavera >}} 
 
-{{< reflink path=posts/2018/05/viaje-aventura-para-mujeres-en-arizona-usa >}} 
+{{< reflink viaje-aventura-para-mujeres-en-arizona-usa >}} 
 
-{{< reflink path=posts/2019/07/ruta-california-por-el-lejano-oeste-americano >}}
+{{< reflink ruta-california-por-el-lejano-oeste-americano >}}

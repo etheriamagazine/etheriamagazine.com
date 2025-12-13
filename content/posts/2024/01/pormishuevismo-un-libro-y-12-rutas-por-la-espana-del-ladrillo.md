@@ -116,6 +116,6 @@ ofrece Erik en el libro:
 
 **Sigue leyendo...** 
 
-{{< reflink path=posts/2023/08/libros-guias-de-viajes-2023 >}}. 
+{{< reflink libros-guias-de-viajes-2023 >}}. 
 
-{{< reflink path=posts/2020/11/libros-de-cocteleria-un-gran-regalo-navidad >}}.
+{{< reflink libros-de-cocteleria-un-gran-regalo-navidad >}}.

@@ -148,9 +148,9 @@ que perder.
 
 - Algunas recomendaciones de hotel: **hotel Manatus** (manatuscostarica.com) en 
 Tortuguero; en Volcán Arenal **Hotel Tabacon Gran Spa Thermal Resort** (tabacon.com) o 
-Nayara Resort Spa & Garden con su hotel solo para adultos {{< reflink 
-path=posts/2021/05/hotel-nayara-springs-costa-rica >}}; y en Monteverde el **Hotel El 
-Establo** (elestablo.com). 
+Nayara Resort Spa & Garden con su hotel solo para adultos [Nayara Springs]({{% ref 
+hotel-nayara-springs-costa-rica %}}); y en Monteverde el **Hotel El Establo** 
+(elestablo.com). 
 
 - Si se realiza la ruta por carretera entre San José y Volcán Arenal merece la pena 
 parar en la reserva privada **La Paz Waterfalls Gardens** (waterfallgardens.com). Ofrece 
@@ -171,8 +171,8 @@ puede contactar con **Selvatura** (selvatura.com).
 
 ### También te puede interesar en Costa Rica
 
-{{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}} 
+{{< reflink que-ver-peninsula-nicoya-costa-rica >}} 
 
-{{< reflink path=posts/2018/05/consejos-viaje-costa-rica-con-ninos-familias >}} 
+{{< reflink consejos-viaje-costa-rica-con-ninos-familias >}} 
 
-{{< reflink path=posts/2018/05/una-maleta-para-costa-rica >}}
+{{< reflink una-maleta-para-costa-rica >}}

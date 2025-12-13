@@ -166,5 +166,5 @@ web oficial de turismo encontrarás más información.
 
 ### Sigue leyendo sobre Israel
 
-✅ {{< reflink 
-path=posts/2020/01/6-planes-con-amigas-en-israel-submarinismo-jerusalen-telaviv >}}.
+✅ [Israel, una ruta con amigas desde el mar Rojo a Tel Aviv]({{% ref 
+6-planes-con-amigas-en-israel-submarinismo-jerusalen-telaviv %}}).

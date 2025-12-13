@@ -251,8 +251,8 @@ Artículo elaborado con la colaboración de la Junta de Andalucía.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}} 
+{{< reflink mejores-playas-y-calas-de-conil-de-la-frontera >}} 
 
-{{< reflink path=posts/2023/07/que-ver-almeria-provincia >}} 
+{{< reflink que-ver-almeria-provincia >}} 
 
-{{< reflink path=posts/2023/03/pueblos-que-ver-malaga >}}
+{{< reflink pueblos-que-ver-malaga >}}

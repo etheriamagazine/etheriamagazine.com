@@ -162,8 +162,8 @@ España, en el corazón de Valderobles, con una carta típica de la región.
 
 ### Te puede interesar...
 
-{{< reflink path=posts/2019/09/viaja-sola-a-los-valles-de-la-jacetania-huesca >}}. 
+{{< reflink viaja-sola-a-los-valles-de-la-jacetania-huesca >}}. 
 
-{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}. 
+{{< reflink lugares-secretos-de-cataluna-que-visitar >}}. 
 
-{{< reflink path=posts/2020/11/delta-del-ebro-turismo-natural-y-responsable >}}.
+{{< reflink delta-del-ebro-turismo-natural-y-responsable >}}.

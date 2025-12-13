@@ -104,4 +104,4 @@ renovada y oliendo a lavanda. ¿Qué más se puede pedir?
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2024/12/museo-de-los-aromas-burgos >}}
+{{< reflink museo-de-los-aromas-burgos >}}

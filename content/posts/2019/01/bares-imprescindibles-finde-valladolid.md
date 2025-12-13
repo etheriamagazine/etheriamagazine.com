@@ -59,10 +59,9 @@ que Valladolid siempre ha tenido muy buenas relaciones con el pueblo cántabro y
 delicias. Las raciones no se sirven sobre platos. Teniendo tejas... 
 
 Lo mejor para acompañar las tapas es tomar vinos con Denominación Origen Rueda y Ribera 
-del Duero. En nuestra particular {{< reflink 
-path=posts/2018/05/ruta-del-vino-ribera-del-duero-valladolid >}} te ofrecemos una 
-divertida escapada enoturística por la provincia con paradas en Peñafiel, Protos y 
-Villacreces. 
+del Duero. En nuestra particular [Ruta por la N-122]({{% ref 
+ruta-del-vino-ribera-del-duero-valladolid %}}) te ofrecemos una divertida escapada 
+enoturística por la provincia con paradas en Peñafiel, Protos y Villacreces. 
 
 ![cocineras de un bar de Valladolid con una tortilla de patatas](https://fotos.etheriamagazine.com/2019/01/comer-valladolid-restrobar-tigo-migo.jpg "Marina Cruz y Sara Cabello, del Restrobar Tigo y Migo.")
 
@@ -172,10 +171,8 @@ perdáis más tiempo y vayáis a comprobarlo.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2020/05/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid 
->}} 
+{{< reflink viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid >}} 
 
-{{< reflink path=posts/2020/01/viaje-con-amigas-ruta-del-vino-cigales >}} 
+{{< reflink viaje-con-amigas-ruta-del-vino-cigales >}} 
 
-{{< reflink 
-path=posts/2021/10/castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero >}}
+{{< reflink castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero >}}

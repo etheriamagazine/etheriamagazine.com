@@ -125,6 +125,6 @@ personas: desde 215 Euros.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/03/ciragan-palace-kempinski-escapada-romantica-estambul >}} 
+{{< reflink ciragan-palace-kempinski-escapada-romantica-estambul >}} 
 
-{{< reflink path=posts/2019/02/hotel-la-sultana-marrakech >}}
+{{< reflink hotel-la-sultana-marrakech >}}

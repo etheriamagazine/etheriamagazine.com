@@ -187,8 +187,8 @@ reflexiones sobre la trayectoria de Cecilia Bartolomé.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/01/test-bechdel-medida-del-sexismo-en-cine >}}. 
+{{< reflink test-bechdel-medida-del-sexismo-en-cine >}}. 
 
-{{< reflink path=posts/2021/07/12-playas-espanolas-que-salen-en-peliculas >}}. 
+{{< reflink 12-playas-espanolas-que-salen-en-peliculas >}}. 
 
-{{< reflink path=posts/2020/11/tadeo-jones-ruta-de-cine-en-granada >}}.
+{{< reflink tadeo-jones-ruta-de-cine-en-granada >}}.

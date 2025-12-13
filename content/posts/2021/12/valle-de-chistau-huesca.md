@@ -145,10 +145,9 @@ los tres núcleos con un bello panorama del rincón más remoto de Pirineos.
 
 **Además del valle de Chistau, también te puede interesar** 
 
-{{< reflink path=posts/2020/06/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza 
->}} 
+{{< reflink viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza >}} 
 
-{{< reflink path=posts/2021/10/ruta-en-coche-por-teruel >}} 
+{{< reflink ruta-en-coche-por-teruel >}} 
 
-{{< reflink path=posts/2021/11/10-estaciones-de-esqui-mas-baratas-de-espana-2021-2022 
->}}
+[10 estaciones de esquí en España donde estirar el presupuesto al máximo]({{% ref 
+10-estaciones-de-esqui-mas-baratas-de-espana-2021-2022 %}})

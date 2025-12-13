@@ -180,8 +180,8 @@ Más información en [Turismo de Gozo.](https://www.visitgozo.com/)
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2018/09/viaje-chicas-isla-cerdena-italia >}}. 
+{{< reflink viaje-chicas-isla-cerdena-italia >}}. 
 
-{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}}. 
+{{< reflink sicilia-pantocratores-y-bikinis >}}. 
 
-{{< reflink path=posts/2019/04/10-playas-secretas-de-europa >}}.
+{{< reflink 10-playas-secretas-de-europa >}}.

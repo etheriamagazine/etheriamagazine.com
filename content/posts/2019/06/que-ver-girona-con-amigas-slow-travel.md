@@ -173,8 +173,8 @@ gerundés a través de una experiencia natural que te reconecta con tu lado más
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/08/10-planes-comarca-ampurdan-costa-brava >}} 
+{{< reflink 10-planes-comarca-ampurdan-costa-brava >}} 
 
-{{< reflink path=posts/2020/06/hotel-albons-un-remanso-de-paz-en-el-baix-emporda >}} 
+{{< reflink hotel-albons-un-remanso-de-paz-en-el-baix-emporda >}} 
 
-{{< reflink path=posts/2022/10/lugares-imprescindibles-en-girona >}}
+{{< reflink lugares-imprescindibles-en-girona >}}

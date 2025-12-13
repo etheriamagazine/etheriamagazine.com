@@ -157,8 +157,9 @@ En la página oficial del museo: [www.flg.es](https://www.museolazarogaldiano.es
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2024/06/terrazas-azoteas-madrid >}} 
+{{< reflink terrazas-azoteas-madrid >}} 
 
-{{< reflink path=posts/2024/04/ruta-lola-flores-en-madrid >}} 
+{{< reflink ruta-lola-flores-en-madrid >}} 
 
-{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}}
+[10 tabernas históricas de Madrid donde tomar el vermú]({{% ref 
+tabernas-historicas-de-madrid %}})

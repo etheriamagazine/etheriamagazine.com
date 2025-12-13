@@ -267,8 +267,8 @@ Más información en [Turismo de Polonia.](https://www.polonia.travel/es/)
 
 **También te puede interesar** 
 
-{{< reflink path=posts/2019/11/5-razones-para-visitar-polonia-en-navidad >}}. 
+{{< reflink 5-razones-para-visitar-polonia-en-navidad >}}. 
 
-{{< reflink path=posts/2021/03/que-ver-en-varsovia-en-tres-rutas-originales >}}. 
+{{< reflink que-ver-en-varsovia-en-tres-rutas-originales >}}. 
 
-{{< reflink path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}}.
+{{< reflink que-ver-en-zakopane-viaje-original-polonia >}}.

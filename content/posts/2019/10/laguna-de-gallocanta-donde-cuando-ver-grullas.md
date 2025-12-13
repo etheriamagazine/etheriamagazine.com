@@ -184,9 +184,8 @@ Aragón](http://rednaturaldearagon.com/centros/centro-de-interpretacion-de-la-la
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/06/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza 
->}}. 
+{{< reflink viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza >}}. 
 
-{{< reflink path=posts/2019/02/mejores-bares-viaje-zaragoza >}}. 
+{{< reflink mejores-bares-viaje-zaragoza >}}. 
 
-{{< reflink path=posts/2021/10/ruta-en-coche-por-teruel >}}.
+{{< reflink ruta-en-coche-por-teruel >}}.

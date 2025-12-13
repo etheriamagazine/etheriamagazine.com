@@ -91,8 +91,8 @@ Francisco Javier, Formentera. Tel. +34 971 322 613.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/04/formentera-con-amigas >}} 
+{{< reflink formentera-con-amigas >}} 
 
-{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}} 
+{{< reflink viajar-con-amigas-mejores-playas-formentera >}} 
 
-{{< reflink path=posts/2022/07/mejores-restaurantes-formentera >}}
+{{< reflink mejores-restaurantes-formentera >}}

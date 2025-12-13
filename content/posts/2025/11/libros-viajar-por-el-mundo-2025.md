@@ -207,8 +207,9 @@ obras y en la conexión que tenían sus personajes con la naturaleza.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2025/03/libros-feministas-2025 >}} 
+{{< reflink libros-feministas-2025 >}} 
 
-{{< reflink path=posts/2023/08/libros-guias-de-viajes-2023 >}} 
+{{< reflink libros-guias-de-viajes-2023 >}} 
 
-{{< reflink path=posts/2025/06/que-ver-en-museo-guggenheim-bilbao >}}
+[Museo Guggenheim, la revolución del arte que transformó Bilbao]({{% ref 
+que-ver-en-museo-guggenheim-bilbao %}})

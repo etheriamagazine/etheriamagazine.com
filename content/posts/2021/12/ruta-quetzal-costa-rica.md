@@ -214,8 +214,8 @@ que hay que llevar a mano un chubasquero.
 Si además de admirar el quetzal en Costa Rica deseas hacer un viaje familiar estos 
 artículos te pueden interesar: 
 
-{{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}} 
+{{< reflink que-ver-peninsula-nicoya-costa-rica >}} 
 
-{{< reflink path=posts/2021/04/viaje-costa-rica-con-ninos-que-hacer-en-familia >}}. 
+{{< reflink viaje-costa-rica-con-ninos-que-hacer-en-familia >}}. 
 
-{{< reflink path=posts/2018/05/una-maleta-para-costa-rica >}}.
+{{< reflink una-maleta-para-costa-rica >}}.

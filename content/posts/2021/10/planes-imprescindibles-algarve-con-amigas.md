@@ -76,8 +76,8 @@ allí, las vistas de un mar infinito, con la abrupta Costa Vicentina a un lado y
 playas del Algarve al otro son impagables. Al llegar encontraréis un aparcamiento, una 
 antigua fortaleza y un faro, con algunas tiendas y una cafetería donde tomar algo. 
 
-¡**Descubre**! {{< reflink 
-path=posts/2018/07/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal >}}. 
+¡**Descubre**! [Ruta Vicentina, senderismo en Alentejo y Algarve]({{% ref 
+ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal %}}). 
 
 ![Cabo de San Vicente.](https://fotos.etheriamagazine.com/2021/10/algarve-cabo-san-vicente.jpg "Cabo de San Vicente. © Susana García")
 
@@ -186,11 +186,10 @@ sólo 40 € con Civitatis.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/08/18-experiencias-si-viajas-sola-al-algarve >}} 
+{{< reflink 18-experiencias-si-viajas-sola-al-algarve >}} 
 
-{{< reflink path=posts/2020/06/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve 
->}} 
+{{< reflink viajar-sola-playas-tranquilas-para-disfrutar-del-algarve >}} 
 
-{{< reflink path=posts/2021/09/pine-cliffs-resort-hotel-de-lujo-algarve >}} 
+{{< reflink pine-cliffs-resort-hotel-de-lujo-algarve >}} 
 
-{{< reflink path=posts/2020/08/hotel-lujo-tivoli-carvoeiro-escapada-algarve >}}
+{{< reflink hotel-lujo-tivoli-carvoeiro-escapada-algarve >}}

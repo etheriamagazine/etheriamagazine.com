@@ -194,8 +194,8 @@ yacimiento arqueológico desde una serie de puntos de encuentro en Córdoba.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/08/planes-que-hacer-en-cordoba-con-amigas >}} 
+{{< reflink planes-que-hacer-en-cordoba-con-amigas >}} 
 
-{{< reflink path=posts/2019/03/viaje-amigas-que-comer-dormir-cordoba >}} 
+{{< reflink viaje-amigas-que-comer-dormir-cordoba >}} 
 
-{{< reflink path=posts/2022/01/ruta-del-vino-montilla-moriles-20-aniversario >}}
+{{< reflink ruta-del-vino-montilla-moriles-20-aniversario >}}

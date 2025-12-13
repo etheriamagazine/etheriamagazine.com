@@ -300,7 +300,6 @@ Constitución.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/04/que-ver-en-almeria-en-temporada-baja >}} 
+{{< reflink que-ver-en-almeria-en-temporada-baja >}} 
 
-{{< reflink 
-path=posts/2020/01/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear >}}
+{{< reflink 48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear >}}

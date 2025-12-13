@@ -179,8 +179,8 @@ también existen muchas opciones para que esas horas de espera se te hagan más 
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/05/como-aprovechar-una-escala-en-dubai >}}. 
+{{< reflink como-aprovechar-una-escala-en-dubai >}}. 
 
-{{< reflink path=posts/2021/12/visita-a-expo-2020-dubai >}}. 
+{{< reflink visita-a-expo-2020-dubai >}}. 
 
-{{< reflink path=posts/2022/02/hotel-lujo-one-only-royal-mirage-dubai >}}.
+{{< reflink hotel-lujo-one-only-royal-mirage-dubai >}}.

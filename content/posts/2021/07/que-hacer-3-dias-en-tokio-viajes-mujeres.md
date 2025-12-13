@@ -224,10 +224,10 @@ Más información en la web de la Oficina de Turismo de Japón
 
 #### Otros reportajes para preparar un viaje a Japón
 
-{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}} 
+{{< reflink como-organizar-un-viaje-a-japon >}} 
 
-{{< reflink path=posts/2019/05/viajar-japon-que-es-ryokan-y-onsen >}} 
+{{< reflink viajar-japon-que-es-ryokan-y-onsen >}} 
 
-{{< reflink path=posts/2019/11/10-actividades-para-un-viaje-en-familia-a-japon >}} 
+{{< reflink 10-actividades-para-un-viaje-en-familia-a-japon >}} 
 
-{{< reflink path=posts/2020/02/3-dias-en-kioto-cerezos-en-flor >}}
+{{< reflink 3-dias-en-kioto-cerezos-en-flor >}}

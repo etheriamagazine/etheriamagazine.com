@@ -50,7 +50,8 @@ atardecer), y pasear por el laberinto de calles del Barrio de los Pescadores. Al
 sus arterias, como la calle Cádiz, con sus bares, restaurantes, tiendas de artesanía y 
 heladerías están animadas durante todo el día. 
 
-📌No te pierdas: {{< reflink path=posts/2022/04/guia-de-conil-visitas-gratuitas >}}. 
+📌No te pierdas: [15 visitas imprescindibles en Conil gratis y ninguna es una playa]({{% 
+ref guia-de-conil-visitas-gratuitas %}}). 
 
 ### Playas de Conil
 
@@ -64,8 +65,8 @@ que parte del faro y que ofrece unas bonitas vistas. Frente al muelle yacen tumb
 centenares de anclas utilizadas en la almadraba y un bar (El Tergal), que puede pasar 
 desapercibido pero donde se degusta excelente pescado y paellas. 
 
-📌No te pierdas: {{< reflink 
-path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
+📌No te pierdas: [Descubre las 15 mejores playas y calas de Conil (cómo llegar y fotos 
+de todas)]({{% ref mejores-playas-y-calas-de-conil-de-la-frontera %}}). 
 
 ![Cocina de Casa Francisco, en Conil de la Frontera](https://fotos.etheriamagazine.com/2018/06/casa-francisco-ruta-del-atun-conil-e1649843735505.jpg "Casa Francisco La Fontanilla dispone de una amplia carta de atún durante todo el año.")
 
@@ -153,8 +154,8 @@ el archivo, mercado, teatro, termas, acueductos, etc. Y, también, un espacio de
 las salazones, ya que desde aquí se enviaba atún y _garum_ (salsa preparada a partir de 
 las vísceras de este pez, entre otros elementos) a las colonias romanas. 
 
-📌No te pierdas la {{< reflink 
-path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}}. 
+📌No te pierdas la [mejor guía para visitar Baelo Claudia]({{% ref 
+guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia %}}). 
 
 ![Vista de Tarifa desde el castillo de Guzmán el Bueno](https://fotos.etheriamagazine.com/2020/06/tarifa-pueblo.jpg "Vista de Tarifa desde el castillo de Guzmán el Bueno. © Etheria Magazine")
 

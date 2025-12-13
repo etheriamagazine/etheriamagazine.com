@@ -55,7 +55,7 @@ fiesta.
 Integrada en el tejido urbano, apenas es perceptible hasta que la tienes casi encima. 
 Externamente, da la impresión de solidez, y, de hecho, se clasifica dentro de la 
 categoría de catedrales fortaleza (recuerda que la de 
-[Almería]({{% ref 48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear %}}) 
+[Almería](http://etheriamagazine.com/2020/01/10/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear/) 
 también pertenece a esta tipología). La Catedral Vieja, de estilo románico (dicen que es 
 la mejor de Portugal en este estilo), fue edificada en el siglo XII. Si te fijas en su 
 portada principal descubrirás influencia islámicas, y en la lateral, renacentistas. No 
@@ -195,7 +195,7 @@ visitantes pueden interactuar para aprender sobre el cuerpo humano, el entorno, 
 planetas... Suele haber proyecciones en su sala de cine y actividades guiadas. Si vas 
 con niños continua el viaje por la Región Centro de Portugal en este artículo de [9 
 planes en familia en el Centro de 
-Portugal]({{% ref planes-divertidos-viajes-familia-portugal %}}). 
+Portugal](http://etheriamagazine.com/2019/06/28/planes-divertidos-viajes-familia-portugal/). 
 
 ![Dionísio Ferreira, chef del restaurante Se7e, se muestra tan natural como su cocina basada en las tradiciones portuguesas.](https://fotos.etheriamagazine.com/2020/01/sete-restaurante-coimbra.jpg "Dionísio Ferreira, chef del restaurante Se7e, se muestra tan natural como su cocina basada en las tradiciones portuguesas. © Pepa García")
 

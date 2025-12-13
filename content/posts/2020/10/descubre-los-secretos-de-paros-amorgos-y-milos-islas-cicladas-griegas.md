@@ -44,9 +44,9 @@ de pueblos en los que desearías quedarte a vivir.
 
 Desembarcarás en **Parikia**, capital y puerto principal de la isla, donde se alza uno 
 de los templos más impresionantes de Grecia: **Panagia Ekatontapiliani.** Frescos, 
-valiosos iconos, mosaicos, capillas... Si su factura te recuerda a la gran dama de {{< 
-reflink path=posts/2018/05/fin-de-semana-romantico-en-estambul >}}, estás en lo cierto. 
-Según dicen, el creador de esta maravilla bizantina fue discípulo de los maestros que 
+valiosos iconos, mosaicos, capillas... Si su factura te recuerda a la gran dama de 
+[Estambul]({{% ref fin-de-semana-romantico-en-estambul %}}), estás en lo cierto. Según 
+dicen, el creador de esta maravilla bizantina fue discípulo de los maestros que 
 construyeron Hagia Sophia. 
 
 Tras este baño de historia, dirígete al norte para conocer **Naoussa**, un pueblo 
@@ -221,8 +221,8 @@ Algunas propuestas que hacen gala de la hospitalidad griega y el gusto por el de
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/08/que-ver-48-horas-en-rodas-islas-griegas >}} 
+{{< reflink que-ver-48-horas-en-rodas-islas-griegas >}} 
 
-{{< reflink path=posts/2019/01/que-visitar-crucero-por-islas-griegas >}} 
+{{< reflink que-visitar-crucero-por-islas-griegas >}} 
 
-{{< reflink path=posts/2019/09/que-ver-en-meteora-6-monasterios-viajes-culturales >}}
+{{< reflink que-ver-en-meteora-6-monasterios-viajes-culturales >}}

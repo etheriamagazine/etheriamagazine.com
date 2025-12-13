@@ -166,14 +166,14 @@ el siglo XX. Disponible en [Amazon](https://amzn.to/2YaqDYI).
 
 #### • 'Una casa en Amargura', de Elisa Vázquez de Gey.
 
-A esta autora la conoceréis por su investigación de la {{< reflink 
-path=posts/2020/04/la-pasion-india-de-anita-delgado-libros-viajes >}}, ya que es su 
-biógrafa oficial y ha escrito varias obras sobre ella. En esta ocasión, ha buceado en el 
-oscuro mundo de las esclavas en Cuba para traernos la historia de Misterio, una joven 
-africana que llega en un barco negrero para ser vendida como esclava. Esta novela nos 
-habla de la situación de las esclavas en La Habana colonial de una Cuba española. Puedes 
-pedir [Una casa en Amargura](https://amzn.to/2Sf7qS0) en versión Kindle desde poco más 
-de 6 € y también en tapa blanda. 
+A esta autora la conoceréis por su investigación de la [princesa de Kapurthala]({{% ref 
+la-pasion-india-de-anita-delgado-libros-viajes %}}), ya que es su biógrafa oficial y ha 
+escrito varias obras sobre ella. En esta ocasión, ha buceado en el oscuro mundo de las 
+esclavas en Cuba para traernos la historia de Misterio, una joven africana que llega en 
+un barco negrero para ser vendida como esclava. Esta novela nos habla de la situación de 
+las esclavas en La Habana colonial de una Cuba española. Puedes pedir [Una casa en 
+Amargura](https://amzn.to/2Sf7qS0) en versión Kindle desde poco más de 6 € y también en 
+tapa blanda. 
 
 #### • 'La isla de los ingenios', de Fernando García del Río
 
@@ -196,6 +196,6 @@ Touring](https://amzn.to/2Yl5Fqr).
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/01/viajar-con-amigas-a-cuba >}}. 
+{{< reflink viajar-con-amigas-a-cuba >}}. 
 
-{{< reflink path=posts/2019/08/viajar-sola-que-ver-hacer-mujeres-la-habana-cuba >}}.
+{{< reflink viajar-sola-que-ver-hacer-mujeres-la-habana-cuba >}}.

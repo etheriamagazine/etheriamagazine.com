@@ -161,8 +161,9 @@ puedes! Gracias por acompañarme.**
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/05/3-visitas-imprescindibles-guatemala >}} 
+{{< reflink 3-visitas-imprescindibles-guatemala >}} 
 
-{{< reflink path=posts/2023/05/cartagena-trekking-ciudad-perdida >}} 
+{{< reflink cartagena-trekking-ciudad-perdida >}} 
 
-{{< reflink path=posts/2023/05/viajar-sola-bogota-medellin >}}
+[Bogotá y Medellín, consejos básicos de Sania para visitarlas]({{% ref 
+viajar-sola-bogota-medellin %}})

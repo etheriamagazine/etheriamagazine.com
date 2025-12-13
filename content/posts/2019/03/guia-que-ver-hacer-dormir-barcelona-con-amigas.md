@@ -206,11 +206,11 @@ edificios).
 Cruzando la Vía Laietana, a la altura de la plaza Sant Jaume, entraréis en el **barrio 
 medieval de El Born**. Si seguís la calle Argenteria iréis a parar directamente a la 
 **basílica de Santa María del Mar**, la famosa "Catedral del mar" de Ildefonso Falcones 
-(no te pierdas nuestro artículo 📍 {{< reflink 
-path=posts/2018/08/turismo-de-cine-catedral-del-mar >}}). Desde aquí es aconsejable 
-dejarse guiar por el instinto, pero no podéis prescindir del Paseo del Born (lugar en el 
-que antaño se celebraban las justas), la calle de la Princesa o la calle Montcada, en la 
-que en pocos metros se concentran un buen número de palacios góticos y renacentistas, la 
+(no te pierdas nuestro artículo 📍 [Viajes de cine: 8 localizaciones de La Catedral del 
+Mar]({{% ref turismo-de-cine-catedral-del-mar %}})). Desde aquí es aconsejable dejarse 
+guiar por el instinto, pero no podéis prescindir del Paseo del Born (lugar en el que 
+antaño se celebraban las justas), la calle de la Princesa o la calle Montcada, en la que 
+en pocos metros se concentran un buen número de palacios góticos y renacentistas, la 
 mayor parte habilitados como museos (entre ellos el Museo Picasso). 
 
 Si os da tiempo, entrad en el **Born Centre Cultural**, ubicado en el edificio 
@@ -281,8 +281,8 @@ apartamentos con todas las comodidades.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/03/10-planes-originales-con-amigas-en-barcelona >}} 
+{{< reflink 10-planes-originales-con-amigas-en-barcelona >}} 
 
-{{< reflink path=posts/2018/10/guia-de-viaje-de-barcelona-en-familia >}} 
+{{< reflink guia-de-viaje-de-barcelona-en-familia >}} 
 
-{{< reflink path=posts/2022/02/ruta-en-coche-pirineo-tierras-lleida >}}
+{{< reflink ruta-en-coche-pirineo-tierras-lleida >}}

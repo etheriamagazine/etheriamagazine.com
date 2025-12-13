@@ -258,8 +258,8 @@ Puedes cogerlas en numerosos puntos del barrio de San Marco.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2022/02/hotel-nh-collection-murano-villa-venecia >}} 
+{{< reflink hotel-nh-collection-murano-villa-venecia >}} 
 
-{{< reflink path=posts/2021/12/que-ver-en-verona >}} 
+{{< reflink que-ver-en-verona >}} 
 
-{{< reflink path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}}
+{{< reflink ruta-en-coche-en-lago-de-garda-italia >}}

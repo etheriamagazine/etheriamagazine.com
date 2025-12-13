@@ -165,9 +165,9 @@ Oficina de Turismo de Santa Eulària: www.santaeulariaibiza.travel
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/11/planes-viaje-a-ibiza-en-invierno >}} 
+{{< reflink planes-viaje-a-ibiza-en-invierno >}} 
 
-{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
->}} 
+{{< reflink 20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja >}} 
 
-{{< reflink path=posts/2022/12/restaurantes-ibiza-sal-i-reim-es-caliu >}}
+[Sal i Reïm y Es Caliu, más allá de una experiencia gastro en Ibiza]({{% ref 
+restaurantes-ibiza-sal-i-reim-es-caliu %}})

@@ -33,7 +33,8 @@ perder sus excelentes pueblos con extensas playas de arena blanca (Sanlúcar de
 Barrameda, Chiclana, Conil, Vejer, Barbate o Tarifa), localidades de interior como Jerez 
 o Medina Sidonia o la ruta de los pueblos blancos. Te lo vas a pasar muy bien en Cádiz. 
 
-✅ **Guía Etheria:** {{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}} 
+✅ **Guía Etheria:** [La mejor guía de Cádiz provincia para organizar tu viaje.]({{% ref 
+pueblos-que-ver-en-cadiz %}}) 
 
 ![Panorámica de Olvera, uno de los pueblos de Cádiz.](https://fotos.etheriamagazine.com/2023/03/que-ver-cadiz-olvera.jpg "Panorámica de Olvera, uno de los pueblos de Cádiz. © Etheria Magazine")
 
@@ -47,7 +48,8 @@ el interior guarda pueblos como Ronda, Frigiliana o Antequera que merecen una vi
 también cuenta con atractivos naturales de la altura del Parque Nacional de la Sierra de 
 las Nieves o los acantilados de Maro. 
 
-✅ **Guía Etheria:** {{< reflink path=posts/2023/03/pueblos-que-ver-malaga >}} 
+✅ **Guía Etheria:** [Una guía para no perderte nada de la provincia de Málaga.]({{% ref 
+pueblos-que-ver-malaga %}}) 
 
 ![El Puente Nuevo de Ronda.](https://fotos.etheriamagazine.com/2023/03/malaga-ronda-puente-nuevo.jpg "El Puente Nuevo de Ronda.")
 
@@ -61,7 +63,8 @@ capital. Eso sí, la provincia da para mucho más, y Granada ofrece unas interes
 rutas naturales en Sierra Nevada o en la Sierra de Baza, playas tan bonitas como la de 
 Calahonda y pueblos que te van a enamorar como Salobreña, Motril o Almuñécar. 
 
-✅ **Guía Etheria:** {{< reflink path=posts/2022/09/que-ver-en-granada-provincia >}} 
+✅ **Guía Etheria:** [15 lugares imprescindibles en Granada, una provincia de una belleza 
+descomunal.]({{% ref que-ver-en-granada-provincia %}}) 
 
 ![la alhambra en primavera](https://fotos.etheriamagazine.com/2022/06/granada-la-alhambra.jpg "La Alhambra desde los jardines del Generalife. © SG")
 
@@ -76,7 +79,8 @@ llenos de encanto como Figueras, Peratallada o Besalú. Además, la capital siem
 una visita, ya que tiene un casco histórico que guarda la historia de más de dos mil 
 años. 
 
-✅ **Guía Etheria:** {{< reflink path=posts/2022/10/lugares-imprescindibles-en-girona >}} 
+✅ **Guía Etheria:** [15 lugares imprescindibles que tienes que ver en Girona.]({{% ref 
+lugares-imprescindibles-en-girona %}}) 
 
 ![casa de colores en Girona capital](https://fotos.etheriamagazine.com/2022/10/Girona.jpg "Girona. © Arxiu Imatges PTCBG")
 
@@ -89,7 +93,8 @@ Miravet, Montblanc, Tamarit o Prades, por los que perderse por sus calles estrec
 una delicia. Y en cuanto a la naturaleza, además de las excelentes playas, hay paisajes 
 únicos como los que dejan el Delta del Ebro o los viñedos del Priorat. 
 
-✅ **Guía Etheria:** {{< reflink path=posts/2022/11/que-ver-tarragona >}} 
+✅ **Guía Etheria:** [Guía esencial de Tarragona, pueblos y rutas que enamoran.]({{% ref 
+que-ver-tarragona %}}) 
 
 ![Paseo en barca por el Delta del Ebro.](https://fotos.etheriamagazine.com/2022/11/tarragona-delta-del-Ebro.jpg "Paseo en barca por el Delta del Ebro. © Terres de l’Ebre")
 
@@ -103,7 +108,8 @@ por descubrir, desde sus pueblos de costa (como Hondarribia, Getaria, Pasaia, Za
 Mutriku) hasta esa naturaleza de tono verde intenso de su interior. Si buscas un plan 
 original, no te pierdas la ruta por los faros ¡te sorprenderá! 
 
-✅ **Guía Etheria:** {{< reflink path=posts/2023/02/que-ver-hacer-gipuzkoa >}} 
+✅ **Guía Etheria:** [Guía esencial de Gipuzkoa, maravillas desde la costa al 
+interior.]({{% ref que-ver-hacer-gipuzkoa %}}) 
 
 ![Vistas de Mutriku desde el monte Arno.](https://fotos.etheriamagazine.com/2023/02/guipuzcoa-monte-arno-mutriku.jpg "Vistas de Mutriku desde el monte Arno. © Basquetour.")
 
@@ -117,7 +123,8 @@ encuentran entre los más visitados y con razón. Y si buscas naturaleza, lugare
 en el nacimiento del río Ebro o los llamados fiordos cántabros están esperando que los 
 descubras. 
 
-✅ **Guía Etheria:** {{< reflink path=posts/2022/09/que-ver-en-cantabria >}} 
+✅ **Guía Etheria:** [Guía esencial de Cantabria, visitas que no puedes perderte.]({{% 
+ref que-ver-en-cantabria %}}) 
 
 ![Hombre pez junto al puente de Lérganes.](https://fotos.etheriamagazine.com/2022/09/cantabria-mogrovejo.jpg "Mogroviejo, uno de los pueblos más bonitos de Cantabria. © Turismo de Cantabria")
 
@@ -131,7 +138,8 @@ guía te desvelamos también algunos de los rincones secretos de la provincia co
 Castro de Baroña, Camelle o las Dunas de Corrubedo. Sin duda, debes incluir la entre los 
 lugares que hay que ver en España. 
 
-✅ **Guía Etheria:** {{< reflink path=posts/2022/09/que-ver-a-coruna >}} 
+✅ **Guía Etheria:** [15 lugares imprescindibles en A Coruña que miran al mar.]({{% ref 
+que-ver-a-coruna %}}) 
 
 ![Torre de Hercules](https://fotos.etheriamagazine.com/2020/06/La-coruna-torre-hercules.jpg "La Torre de Hércules en A Coruña. © SG")
 
@@ -144,7 +152,8 @@ las menos conocidas, pero igual de interesantes, de Ons o Cortegada. Reserva tam
 tiempo para conocer alguno de sus castros de origen celta, como el de Santa Trega, el de 
 Alobre o el de Penalba. 
 
-✅ **Guía Etheria:** {{< reflink path=posts/2022/12/que-ver-pontevedra >}} 
+✅ **Guía Etheria:** [Guía esencial de Pontevedra: ciudades, islas, castros y rutas 
+mágicas.]({{% ref que-ver-pontevedra %}}) 
 
 ![Islas Cíes, unas de las más bonitas de Pontevedra.](https://fotos.etheriamagazine.com/2022/12/islas-Cies.jpg "Islas Cíes, unas de las más bonitas de Pontevedra. © Turismo de Rías Baixas/ Diputación de Pontevedra")
 
@@ -159,8 +168,9 @@ el Parque Nacional de Guadarrama. Y no te pierdas sus castillos (como el de Coca
 Turégano) ni sus Reales Sitios (el Palacio de la Granja y el Palacio de Riofrío). 
 Segovia da para mucho. 
 
-✅ **Guía Etheria:** {{< reflink 
-path=posts/2021/03/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia >}} 
+✅ **Guía Etheria:** [Razones, si es que las necesitas, por las que deberías planear ya 
+una escapada por la provincia de Segovia.]({{% ref 
+15-lugares-imprescindibles-que-ver-en-segovia-y-provincia %}}) 
 
 ![Sepúlveda, una de las visitas imprescindibles en Segovia.](https://fotos.etheriamagazine.com/2021/12/segovia-Sepulveda.jpg "Sepúlveda, una de las visitas imprescindibles en Segovia. © Turismo Diputación de Segovia")
 
@@ -175,7 +185,8 @@ Nacional del Teide, el barranco de Masca o los acantilados de Los Gigantes impre
 quien los visita; y la diversión en sus playas y parques, como el Siam Park o el Loro 
 Parque, está asegurada. Te van a faltar días. 
 
-✅ **Guía Etheria:** {{< reflink path=posts/2023/01/que-ver-en-tenerife >}} 
+✅ **Guía Etheria:** [Guía esencial de Tenerife: 15 imprescindibles en tus 
+vacaciones.]({{% ref que-ver-en-tenerife %}}) 
 
 ![Parque Nacional de las Cañadas del Teide](https://fotos.etheriamagazine.com/2023/01/Tenerife-canadas-teide-dedo-dios.jpg 'El "dedo de Dios" en Las Cañadas del Teide. © SG')
 
@@ -189,6 +200,7 @@ tu viaje, como al Parque Nacional de Timanfaya, al legado de Jorge Manrique o a 
 naturales como la Cueva de los Verdes, el Charco de los Clicos o el archipiélago de 
 Chinijo. Querrás volver a esta isla seguro. 
 
-✅ **Guía Etheria:** {{< reflink path=posts/2023/02/que-ver-lanzarote >}} 
+✅ **Guía Etheria:** [Lanzarote: 15 lugares imprescindibles para perderte por la 
+isla.]({{% ref que-ver-lanzarote %}}) 
 
 ![El Charco de los Clicos.](https://fotos.etheriamagazine.com/2023/02/lanzarote-laguna-verde.jpg "El Charco de los Clicos, en Lanzarote.")

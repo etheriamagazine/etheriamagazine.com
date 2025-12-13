@@ -57,8 +57,8 @@ propuestas. Australia cuenta con infinitas opciones dedicadas a la naturaleza, s
 y su flora; extensiones interminables de costa con playas de ensueño; e interesantes 
 ciudades en las que perderse. Mi consejo es intentar **abarcar un poco de todo** para 
 que no tengamos la sensación de habernos perdido una parte importante del destino. ¿Os 
-habés leído ya nuestro reportaje {{< reflink 
-path=posts/2019/03/revista-viajes-que-ver-australia >}}? 
+habés leído ya nuestro reportaje [**Ruta definitiva para viajar a Australia**]({{% ref 
+revista-viajes-que-ver-australia %}})? 
 
 **Reservar con antelación** los vuelos internos, los coches de alquiler para moverse por 
 las diferentes zonas y los alojamientos será de gran ayuda para aprovechar al máximo el 
@@ -114,4 +114,4 @@ Para obtener más información sobre Australia puedes navegar por la web oficial
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/07/consejos-viajar-australia-evitar-peligros-animales >}}
+{{< reflink consejos-viajar-australia-evitar-peligros-animales >}}

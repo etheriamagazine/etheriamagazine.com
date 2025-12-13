@@ -137,7 +137,6 @@ ideal para unas vacaciones familiares inolvidables.
 
 **También te puede interesar...** 
 
-{{< reflink 
-path=posts/2021/04/barcelo-bavaro-palace-hotel-cinco-estrellas-republica-dominicana >}}. 
+{{< reflink barcelo-bavaro-palace-hotel-cinco-estrellas-republica-dominicana >}}. 
 
-{{< reflink path=posts/2018/04/propuestas-en-el-norte-de-republica-dominicana >}}.
+{{< reflink propuestas-en-el-norte-de-republica-dominicana >}}.

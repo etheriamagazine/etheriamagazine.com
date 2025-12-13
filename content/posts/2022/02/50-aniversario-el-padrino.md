@@ -144,9 +144,8 @@ película en DVD 4K aún no ha salido a la venta.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}. 
+{{< reflink ruta-ava-gardner-en-madrid >}}. 
 
-{{< reflink path=posts/2020/07/coctel-femme-fatale-jacky-kennedy-y-camboya >}}. 
+{{< reflink coctel-femme-fatale-jacky-kennedy-y-camboya >}}. 
 
-{{< reflink path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias 
->}}.
+{{< reflink gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias >}}.

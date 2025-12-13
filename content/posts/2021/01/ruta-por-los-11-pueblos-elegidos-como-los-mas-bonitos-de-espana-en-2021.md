@@ -217,10 +217,9 @@ España’](http://www.lospueblosmasbonitosdeespana.org/).
 
 ### Te puede interesar...
 
-{{< reflink path=posts/2020/12/que-ver-donde-comer-en-siguenza >}}. 
+{{< reflink que-ver-donde-comer-en-siguenza >}}. 
 
-{{< reflink path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}}. 
+{{< reflink 11-escapadas-cercanas-a-dos-horas-de-madrid >}}. 
 
-{{< reflink 
-path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+{{< reflink viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
 >}}.

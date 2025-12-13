@@ -76,8 +76,8 @@ como **Glenarm Castle** y Tollymore Forest Park, que darán vida a las historias
 y Egg. Si eres fan de la saga, este es el momento ideal para visitar estas tierras 
 épicas. 
 
-**No te pierdas:** {{< reflink path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte 
->}}. 
+**No te pierdas:** [Ruta de Juego de Tronos en Irlanda del Norte]({{% ref 
+juego-de-tronos-en-irlanda-del-norte %}}). 
 
 ![Glenarm Castle & Garden](https://fotos.etheriamagazine.com/2024/12/Glenarm-Castle.jpeg "Glenarm Castle.")
 
@@ -122,8 +122,8 @@ favoritas, esta tierra mágica sigue conquistando corazones.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2023/12/ruta-en-coche-cork-kerry >}}. 
+{{< reflink ruta-en-coche-cork-kerry >}}. 
 
-{{< reflink path=posts/2023/01/almas-en-pena-de-inisherin >}}. 
+{{< reflink almas-en-pena-de-inisherin >}}. 
 
-{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}}.
+{{< reflink 8-visitas-increibles-en-irlanda-del-norte >}}.

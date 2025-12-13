@@ -73,7 +73,6 @@ Staatsoper.
 
 **También te puede interesar** 
 
-{{< reflink path=posts/2018/11/viaje-al-berlin-mas-divertido-interesante-sobrecogedor 
->}} 
+{{< reflink viaje-al-berlin-mas-divertido-interesante-sobrecogedor >}} 
 
-{{< reflink path=posts/2020/12/experiencias-navidenas-alemania >}}
+{{< reflink experiencias-navidenas-alemania >}}

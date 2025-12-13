@@ -46,8 +46,8 @@ taza de chocolate?
 
 ¿A que antes de estar confinados en casa, los sábados y domingos hacías un almuerzo 
 especial? Anímate y prepara esa paella o ese lechazo que te sale tan bien. En este 
-artículo os dábamos algunas {{< reflink 
-path=posts/2020/03/platos-tipicos-espana-viaje-por-los-sabores >}}. 
+artículo os dábamos algunas [ideas de recetas tradicionales españolas]({{% ref 
+platos-tipicos-espana-viaje-por-los-sabores %}}). 
 
 ![ritual belleza en casa](https://fotos.etheriamagazine.com/2020/03/ritua-belleza-casa.jpg "Ritual de belleza en casa. © Noah Buscher")
 
@@ -66,20 +66,20 @@ casera, una buena hidratación y un masaje relajante pueden hacer maravillas.
 No hay excusa para no leer en estos días. Aunque, como dicen los expertos, si no tenías 
 hábito... va a ser difícil que te enganches ahora. Seguro que tienes títulos pendientes 
 de leer y, también, hay muchas editoriales que ofrecen títulos de forma gratuita para 
-descargar. Si, aún así, eres incapaz de concentrarte, prueba con {{< reflink 
-path=posts/2019/12/10-libros-recomendados-para-regalar-mujeres-viajeras >}} y de 
-curiosidades, hay muchas. También los audiolibros son una buena idea. 
+descargar. Si, aún así, eres incapaz de concentrarte, prueba con [guías de viajes]({{% 
+ref 10-libros-recomendados-para-regalar-mujeres-viajeras %}}) y de curiosidades, hay 
+muchas. También los audiolibros son una buena idea. 
 
 ![museos espanoles, visitas virtuales, coronavirus](https://fotos.etheriamagazine.com/2020/03/Museo-visita-virtual-coronavirus.jpg "Visitas virtuales a museos, un buen entretenimiento. © Goran Ivos")
 
 ## 5\. Ir de museos
 
-Te hemos comentado en otras ocasiones el gran nivel que tienen algunas {{< reflink 
-path=posts/2019/01/10-apps-de-museos-espanoles >}} y, también, los contenidos especiales 
+Te hemos comentado en otras ocasiones el gran nivel que tienen algunas [aplicaciones de 
+museos]({{% ref 10-apps-de-museos-espanoles %}}) y, también, los contenidos especiales 
 que puedes encontrar en estos momentos de confinamiento. No desaproveches la oportunidad 
-de pasear {{< reflink 
-path=posts/2020/03/visitas-virtuales-museos-espanoles-combate-el-coronavirus-con-arte 
->}}, El Prado, El Louvre o la National Gallery. 
+de pasear [virtualmente por el Thyssen Bornemisza]({{% ref 
+visitas-virtuales-museos-espanoles-combate-el-coronavirus-con-arte %}}), El Prado, El 
+Louvre o la National Gallery. 
 
 ![opera online, entretenimiento coronavirus](https://fotos.etheriamagazine.com/2020/03/siegried-opera-met.jpg "Siegfried, una de las óperas que se han transmitido en el © Metropolitan Opera de Nueva York.")
 

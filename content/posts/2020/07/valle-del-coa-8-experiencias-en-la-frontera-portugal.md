@@ -170,8 +170,8 @@ Más información en [Turismo de Portugal.](https://www.visitportugal.com/es)
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/06/planes-divertidos-viajes-familia-portugal >}} 
+{{< reflink planes-divertidos-viajes-familia-portugal >}} 
 
-{{< reflink path=posts/2021/10/8-visitas-originales-en-lisboa >}} 
+{{< reflink 8-visitas-originales-en-lisboa >}} 
 
-{{< reflink path=posts/2021/10/planes-imprescindibles-algarve-con-amigas >}}
+{{< reflink planes-imprescindibles-algarve-con-amigas >}}

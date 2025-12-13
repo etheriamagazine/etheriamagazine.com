@@ -137,8 +137,8 @@ viajar en su luna de miel. Una isla para enamorarse y enamorar que nadie deberí
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/05/tres-dias-en-bangkok-que-hacer >}} 
+{{< reflink tres-dias-en-bangkok-que-hacer >}} 
 
-{{< reflink path=posts/2021/01/como-organizar-viaje-de-novios-o-luna-de-miel >}} 
+{{< reflink como-organizar-viaje-de-novios-o-luna-de-miel >}} 
 
-{{< reflink path=posts/2018/06/viaje-parejas-mar-de-andaman >}}
+{{< reflink viaje-parejas-mar-de-andaman >}}

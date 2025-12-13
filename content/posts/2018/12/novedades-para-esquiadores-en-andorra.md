@@ -62,13 +62,13 @@ yoga, noches de luna llena...
 
 El _après-ski_ más animado lo vivirás en Pas de la Casa, Soldeu y Arinsal donde podrás 
 bailar al son de dj’s de renombre internacional. Según Tinder, el lugar donde más se 
-liga en invierno es en las estaciones de esquí. Incluso ha publicado un {{< reflink 
-path=posts/2018/12/donde-ligar-en-invierno-segun-tinder >}}. Si quieres aprovechar el 
-tiempo al máximo en la montaña, te podemos sugerir las **salidas nocturnas** que ofrecen 
-Vallnord-Pal Arinsal, Vallnord Ordino Arcalís y Naturlandia. Algunas de ellas se pueden 
-combinar con **paseos a la luz de la luna** en **trineos tirados por perros** 
-(_mushing_), salidas en **motos de nieve**, construcción de **iglús** o recorridos con 
-raquetas. 
+liga en invierno es en las estaciones de esquí. Incluso ha publicado un [ranking con las 
+más activas para encontrar tu media naranja]({{% ref 
+donde-ligar-en-invierno-segun-tinder %}}). Si quieres aprovechar el tiempo al máximo en 
+la montaña, te podemos sugerir las **salidas nocturnas** que ofrecen Vallnord-Pal 
+Arinsal, Vallnord Ordino Arcalís y Naturlandia. Algunas de ellas se pueden combinar con 
+**paseos a la luz de la luna** en **trineos tirados por perros** (_mushing_), salidas en 
+**motos de nieve**, construcción de **iglús** o recorridos con raquetas. 
 
 Pronto te contaremos también las **novedades que la temporada de esquí te ofrece en el 
 resto de estaciones** españolas y europeas. 

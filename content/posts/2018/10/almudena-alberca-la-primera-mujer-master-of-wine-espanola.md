@@ -123,8 +123,8 @@ que pueda evolucionar conjuntamente con el negocio del vino.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/04/ruta-del-vino-de-arribes >}} 
+{{< reflink ruta-del-vino-de-arribes >}} 
 
-{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}} 
+{{< reflink plan-con-amigas-ruta-del-vino-sierra-de-francia >}} 
 
-{{< reflink path=posts/2022/06/enoturismo-conca-de-barbera >}}
+{{< reflink enoturismo-conca-de-barbera >}}

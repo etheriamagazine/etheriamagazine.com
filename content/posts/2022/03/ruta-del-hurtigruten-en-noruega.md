@@ -186,8 +186,8 @@ Consulta la web de la [Oficina de Turismo](http://www.visitnorway.es/) de Norueg
 
 **También te puede interesar**: 
 
-{{< reflink path=posts/2020/08/prepara-tu-viaje-libros-series-de-noruega >}}. 
+{{< reflink prepara-tu-viaje-libros-series-de-noruega >}}. 
 
-{{< reflink path=posts/2020/07/9-motivos-para-viajar-a-noruega >}}. 
+{{< reflink 9-motivos-para-viajar-a-noruega >}}. 
 
-{{< reflink path=posts/2020/01/que-ver-en-noruega-trondheim-bergen-y-oslo >}}
+{{< reflink que-ver-en-noruega-trondheim-bergen-y-oslo >}}

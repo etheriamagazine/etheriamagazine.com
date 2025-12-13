@@ -227,9 +227,8 @@ Más información en [Turismo de Copenhague](https://www.visitcopenhagen.com/).
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/09/que-ver-tres-dias-en-copenhague-mujeres-viajeras >}}. 
+{{< reflink que-ver-tres-dias-en-copenhague-mujeres-viajeras >}}. 
 
-{{< reflink 
-path=posts/2018/11/groenlandia-todo-lo-que-necesitas-saber-para-el-viaje-de-tu-vida >}}. 
+{{< reflink groenlandia-todo-lo-que-necesitas-saber-para-el-viaje-de-tu-vida >}}. 
 
-{{< reflink path=posts/2021/12/imprescindibles-circulo-dorado-islandia >}}.
+{{< reflink imprescindibles-circulo-dorado-islandia >}}.

@@ -18,8 +18,8 @@ Bien, ya está decidido. Australia es vuestro próximo destino. ¿Y ahora qué? 
 empezamos? Más de 7,5 millones de kilómetros cuadrados de extensión, siete estados, 
 grandes ciudades como Sídney o Melbourne, la Gran Barrera de Coral, playas de ensueño 
 que no os podéis perder y un tiempo limitado hacen de la organización de este viaje una 
-tarea complicada. Pero que no cunda el pánico, os propongo una {{< reflink 
-path=posts/2019/03/7-consejos-para-viajar-a-australia >}} que podéis consultar en el 
+tarea complicada. Pero que no cunda el pánico, os propongo una [guía previa de 
+Australia]({{% ref 7-consejos-para-viajar-a-australia %}}) que podéis consultar en el 
 enlace y, a continuación, un itinerario para que aprovechéis al máximo las vacaciones y 
 tengáis claro qué ver en Australia. 
 
@@ -185,8 +185,8 @@ en sus bosques de eucaliptos.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/03/7-consejos-para-viajar-a-australia >}} 
+{{< reflink 7-consejos-para-viajar-a-australia >}} 
 
-{{< reflink path=posts/2019/07/consejos-viajar-australia-evitar-peligros-animales >}} 
+{{< reflink consejos-viajar-australia-evitar-peligros-animales >}} 
 
-{{< reflink path=posts/2018/08/nueva-zelanda-en-autocaravana >}}
+{{< reflink nueva-zelanda-en-autocaravana >}}

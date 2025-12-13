@@ -235,7 +235,6 @@ Más información
 
 También te puede interesar en Alemania 
 
-{{< reflink path=posts/2021/08/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable 
->}}. 
+{{< reflink munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable >}}. 
 
-{{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}}.
+{{< reflink que-ver-hacer-fin-de-semana-hamburgo-alemania >}}.

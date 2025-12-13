@@ -210,12 +210,12 @@ que se desprende el orgullo de un recorrido pleno y consecuente.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/05/prepara-tu-viaje-a-cuba-libros-peliculas >}} 
+{{< reflink prepara-tu-viaje-a-cuba-libros-peliculas >}} 
 
-{{< reflink 
-path=posts/2020/04/elisa-vazquez-de-gey-autora-de-una-casa-en-amargura-nos-lleva-a-la-habana 
+{{< reflink elisa-vazquez-de-gey-autora-de-una-casa-en-amargura-nos-lleva-a-la-habana 
 >}} 
 
-{{< reflink path=posts/2022/01/viaje-cuba-villa-clara-y-sancti-spiritus >}} {{< reflink 
-path=posts/2022/01/viaje-cuba-villa-clara-y-sancti-spiritus >}} {{< reflink 
-path=posts/2022/01/viaje-cuba-villa-clara-y-sancti-spiritus >}}
+[Viaja al corazón de Cuba: Villa Clara y]({{% ref 
+viaje-cuba-villa-clara-y-sancti-spiritus %}}) [Sancti]({{% ref 
+viaje-cuba-villa-clara-y-sancti-spiritus %}}) [Spíritus]({{% ref 
+viaje-cuba-villa-clara-y-sancti-spiritus %}})

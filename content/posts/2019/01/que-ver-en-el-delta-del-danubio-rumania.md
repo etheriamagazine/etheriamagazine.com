@@ -163,6 +163,6 @@ comunidades étnicas europeas.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/08/como-organizar-ruta-coche-rumania-con-amigos >}}. 
+{{< reflink como-organizar-ruta-coche-rumania-con-amigos >}}. 
 
-{{< reflink path=posts/2019/10/que-ver-en-bucarest-en-2-o-3-dias >}}.
+{{< reflink que-ver-en-bucarest-en-2-o-3-dias >}}.

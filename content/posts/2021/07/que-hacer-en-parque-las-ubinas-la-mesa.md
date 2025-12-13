@@ -156,9 +156,8 @@ aire libre para recorrer en familia desde la localidad de **Tuñón**.
 
 ### También te puede interesar
 
-{{< reflink path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias 
->}}. 
+{{< reflink gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias >}}. 
 
-{{< reflink path=posts/2020/08/mejores-playas-llanes-costa-asturias >}}. 
+{{< reflink mejores-playas-llanes-costa-asturias >}}. 
 
-{{< reflink path=posts/2020/07/5-rutas-en-auto-caravana-por-espana >}}.
+{{< reflink 5-rutas-en-auto-caravana-por-espana >}}.

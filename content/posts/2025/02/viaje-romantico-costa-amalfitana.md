@@ -167,7 +167,8 @@ uno de ellos.
 
 Sigue leyendo sobre Italia 
 
-{{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}}. 
+{{< reflink que-ver-en-napoles-en-fin-de-semana >}}. 
 
-{{< reflink path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}}{{< reflink 
-path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}}
+[Ruta en coche alrededor del lago de Garda, el mayor de Ita]({{% ref 
+ruta-en-coche-en-lago-de-garda-italia %}})[lia]({{% ref 
+ruta-en-coche-en-lago-de-garda-italia %}})

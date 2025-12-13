@@ -165,11 +165,9 @@ conocimientos.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/03/libro-nietas-de-la-memoria-historias-mujeres-en-posguerra 
->}}. 
+{{< reflink libro-nietas-de-la-memoria-historias-mujeres-en-posguerra >}}. 
 
-{{< reflink 
-path=posts/2021/03/organizar-viaje-a-egipto-y-documentar-con-libros-peliculas >}} 
-(libros y películas) 
+[Prepara tu viaje a… Egipto]({{% ref 
+organizar-viaje-a-egipto-y-documentar-con-libros-peliculas %}}) (libros y películas) 
 
-{{< reflink path=posts/2021/02/najat-libro-cocina-marroqui-chef-najat-kaanache >}}.
+{{< reflink najat-libro-cocina-marroqui-chef-najat-kaanache >}}.

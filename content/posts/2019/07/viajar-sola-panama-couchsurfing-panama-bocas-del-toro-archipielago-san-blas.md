@@ -144,9 +144,8 @@ _Supervivientes_. ¡Haz el lagarto allí al sol como uno de ellos!
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/12/ruta-quetzal-costa-rica >}} 
+{{< reflink ruta-quetzal-costa-rica >}} 
 
-{{< reflink path=posts/2020/08/viaja-sola-paises-mas-seguros-para-mujeres >}} 
+{{< reflink viaja-sola-paises-mas-seguros-para-mujeres >}} 
 
-{{< reflink 
-path=posts/2019/05/ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta >}}
+{{< reflink ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta >}}

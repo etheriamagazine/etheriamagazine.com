@@ -255,5 +255,4 @@ Si necesitas más información para organizar tu viaje, consulta la completa web
 
 ### También te puede interesar...
 
-{{< reflink 
-path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.
+{{< reflink 12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.

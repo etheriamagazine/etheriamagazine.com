@@ -22,9 +22,9 @@ Gran Bretaña, es la cara visible de VisitBritain en España desde hace 4 años.
 trayectoria profesional, desde que comenzó en la agencia de comunicación Marco –donde 
 llevaba cuentas tan variadas como Turismo de Portugal, Palladium Hotel Group, Norwegian 
 Cruise Line y Hoteles.com–, ha estado siempre enfocada al Turismo. De su etapa previa a 
-VisitBritain, en {{< reflink 
-path=posts/2019/10/hoteles-room-mate-perfectos-para-viajes-con-amigas >}}, destaca el 
-aprendizaje que obtuvo junto a Kike Sarasola y la calidad humana de todo el equipo. 
+VisitBritain, en [Room Mate]({{% ref hoteles-room-mate-perfectos-para-viajes-con-amigas 
+%}}), destaca el aprendizaje que obtuvo junto a Kike Sarasola y la calidad humana de 
+todo el equipo. 
 
 El conocimiento adquirido en empresas tan variadas le ha aportado una imagen global del 
 sector turístico para un mejor desempeño en VisitBritain. El mundo de los viajes y la 
@@ -57,10 +57,10 @@ mujer que se emociona incluso antes de partir de viaje...
 
 ### 1\. ¿Cuál es el primer viaje que recuerdas?
 
-El primer viaje que me dejó verdadera huella fue un intercambio a {{< reflink 
-path=posts/2019/05/viajar-sola-que-ver-paris >}} con el colegio, del que volví pensando 
-que no quería dejar de viajar nunca, y también que París era el lugar más bonito del 
-mundo. Es curioso ver cómo cambian tus percepciones según creces. 
+El primer viaje que me dejó verdadera huella fue un intercambio a [París]({{% ref 
+viajar-sola-que-ver-paris %}}) con el colegio, del que volví pensando que no quería 
+dejar de viajar nunca, y también que París era el lugar más bonito del mundo. Es curioso 
+ver cómo cambian tus percepciones según creces. 
 
 ### 2\. ¿Cuál es tu principal motivación al viajar?
 
@@ -87,8 +87,8 @@ desconocido sobre tu cultura y la suya y ver que estás disfrutando tanto….
 ### 4\. Si pudieses elegir un compañero de viaje. ¿Quién sería?
 
 Mi compañero favorito de aventuras ya lo tengo, y es mi marido, pero, así por soñar, 
-hubiese sido genial compartir uno de los primeros vuelos de {{< reflink 
-path=posts/2019/03/mujeres-protagonistas-editorial-santillana >}}. 
+hubiese sido genial compartir uno de los primeros vuelos de [Amelia Earhart]({{% ref 
+mujeres-protagonistas-editorial-santillana %}}). 
 
 ![celia diaz, visit britain, viaje japon](https://fotos.etheriamagazine.com/2020/02/celia-diaz-Cruce-de-Sibuya-Tokyo.jpg "Celia Díaz en el cruce de Shibuya en Tokio.")
 
@@ -109,12 +109,12 @@ encanta cotillear los duty free’s de las diferentes ciudades.
 
 ### 7\. ¿Cuál ha sido el mejor viaje de tu vida hasta el momento?
 
-Mi luna de miel a {{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}} y 
-{{< reflink path=posts/2019/01/la-perla-negra-de-polinesia >}}. Fue simplemente 
-inolvidable, un contraste perfecto. Primero **Japón**, donde disfrutamos como enanos de 
-su gastronomía, sus tradiciones, sus paisajes y su tranquilidad... para después ir al 
-verdadero paraíso en la Tierra, unos días en Tahaa y otros en **Bora Bora**, fueron el 
-broche final perfecto. 
+Mi luna de miel a [Japón]({{% ref como-organizar-un-viaje-a-japon %}}) y [Polinesia 
+Francesa]({{% ref la-perla-negra-de-polinesia %}}). Fue simplemente inolvidable, un 
+contraste perfecto. Primero **Japón**, donde disfrutamos como enanos de su gastronomía, 
+sus tradiciones, sus paisajes y su tranquilidad... para después ir al verdadero paraíso 
+en la Tierra, unos días en Tahaa y otros en **Bora Bora**, fueron el broche final 
+perfecto. 
 
 ![bora bora, viajes lunas de miel, celia diaz](https://fotos.etheriamagazine.com/2020/02/celia-diaz-Four-Seasons-Bora-Bora.jpg "Four Seasons de Bora Bora.")
 
@@ -129,17 +129,17 @@ de suciedad pero también es parte de su esencia.
 ### 9\. ¿Qué tres viajes recomendarías especialmente a una mujer viajera?
 
 **Roadtrip por las Highlands y y la Isla de Skye en Escocia**, uno de esos lugares para 
-“perderse”, lo repetiría mil veces. También, las {{< reflink 
-path=posts/2019/01/que-visitar-crucero-por-islas-griegas >}}, un destino perfecto, solo 
-de pensarlo quiero que llegue ya el verano. Y, por último, una de mis ciudades favoritas 
-en Europa, {{< reflink path=posts/2018/10/12-miradores-para-exprimir-lisboa >}}, 
-perfecta para todo tipo de planes, pero sobre todo para **viajar sola** (algo que todo 
-el mundo debería hacer alguna vez en la vida) o **con amigas**. 
+“perderse”, lo repetiría mil veces. También, las [Islas Griegas]({{% ref 
+que-visitar-crucero-por-islas-griegas %}}), un destino perfecto, solo de pensarlo quiero 
+que llegue ya el verano. Y, por último, una de mis ciudades favoritas en Europa, 
+[Lisboa]({{% ref 12-miradores-para-exprimir-lisboa %}}), perfecta para todo tipo de 
+planes, pero sobre todo para **viajar sola** (algo que todo el mundo debería hacer 
+alguna vez en la vida) o **con amigas**. 
 
 ### 10\. Tres viajes pendientes…
 
-{{< reflink path=posts/2019/01/viajar-sola-al-eje-cafetero-colombia >}}, Myanmar y {{< 
-reflink path=posts/2019/03/revista-viajes-que-ver-australia >}}. 
+[Colombia]({{% ref viajar-sola-al-eje-cafetero-colombia %}}), Myanmar y [Australia]({{% 
+ref revista-viajes-que-ver-australia %}}). 
 
 ![viaje nueva york, celia diaz, visit britain](https://fotos.etheriamagazine.com/2020/02/celia-diaz-Top-of-the-Rock-New-York.jpg "Vistas desde Top of the Rock, en Nueva York.")
 
@@ -148,8 +148,8 @@ reflink path=posts/2019/03/revista-viajes-que-ver-australia >}}.
 Partiendo de la base de que hay muchos países que me encantan gastronómicamente 
 hablando, diría que España. Creo que a veces no nos damos cuenta de la suerte que 
 tenemos con la gastronomía española, desde un **tres estrellas Michelin en el País 
-Vasco** a un {{< reflink 
-path=posts/2019/08/que-pedir-mejores-chiringuitos-costeros-espana >}}…. 
+Vasco** a un [chiringuito de playa en Cádiz]({{% ref 
+que-pedir-mejores-chiringuitos-costeros-espana %}})…. 
 
 > Cuanto más viajo fuera más me gusta la gastronomía española. 
 
@@ -165,9 +165,9 @@ encanta la filosofía de **club privado de Soho House**. Me parece un concepto b
 mezclando un impresionante diseño, con ubicaciones inmejorables y pequeños detalles 
 como, por ejemplo, una línea de _amenities_ de elaboración propia (la venerada Crowshed) 
 o unas instalaciones maravillosas, sin duda me perdería unos días en cualquiera de 
-ellos. Me encantaría probar el **Soho Farmhouse**, en {{< reflink 
-path=posts/2019/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}}, 
-en plena campiña inglesa. 
+ellos. Me encantaría probar el **Soho Farmhouse**, en [los Cotswolds]({{% ref 
+de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra %}}), en plena campiña 
+inglesa. 
 
 Hay otras firmas que creo que lo están haciendo verdaderamente bien como Artist 
 Residence o The Pig en Reino Unido o Saguaro, Mama Shelter y CitizenM. 

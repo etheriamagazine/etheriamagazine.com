@@ -205,9 +205,8 @@ apetece hacer una parada.
 
 ## También te puede interesar:
 
-{{< reflink 
-path=posts/2021/08/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy >}} 
+{{< reflink balnearios-republica-checa-karlovy-vary-marianske-frantiskovy >}} 
 
-{{< reflink path=posts/2020/10/13-castillos-mas-misteriosos-de-republica-checa >}} 
+{{< reflink 13-castillos-mas-misteriosos-de-republica-checa >}} 
 
-{{< reflink path=posts/2019/11/ruta-revolucion-terciopelo-comunismo-republica-checa >}}
+{{< reflink ruta-revolucion-terciopelo-comunismo-republica-checa >}}

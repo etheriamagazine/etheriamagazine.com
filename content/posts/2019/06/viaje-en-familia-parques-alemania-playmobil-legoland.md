@@ -177,8 +177,8 @@ parque y el desayuno. Puedes elegir entre el **Legoland Pirate Island Hotel** o 
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
+{{< reflink viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
 
-{{< reflink path=posts/2019/04/viaje-en-familia-que-hacer-engelberg-suiza >}} 
+{{< reflink viaje-en-familia-que-hacer-engelberg-suiza >}} 
 
-{{< reflink path=posts/2018/09/viaje-laponia-finlandesa-ninos-en-familia >}}
+{{< reflink viaje-laponia-finlandesa-ninos-en-familia >}}

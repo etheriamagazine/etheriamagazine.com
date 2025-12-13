@@ -233,7 +233,7 @@ Czechia](https://www.visitczechia.com/es-ES).
 
 ✅ **También te puede interesar...** 
 
-{{< reflink path=posts/2020/05/viajar-sola-a-republica-checa-visitas-y-consejos >}}. 
+{{< reflink viajar-sola-a-republica-checa-visitas-y-consejos >}}. 
 
-{{< reflink path=posts/2019/05/viaje-en-familia-moravia-del-sur-praga-republica-checa 
->}}{{< reflink path=posts/2022/08/que-ver-brno-chequia >}}.
+[]({{% ref viaje-en-familia-moravia-del-sur-praga-republica-checa %}})[Qué ver en Brno: 
+una escapada muy ‘chic’ a Chequia]({{% ref que-ver-brno-chequia %}}).

@@ -101,7 +101,7 @@ finales de agosto. Aunque tampoco estaría mal hacer las visitas en Halloween, q
 preparan una edición especial más terrorífica. Al salir, camina hasta el coqueto casco 
 viejo del pueblo. 
 
-{{< reflink path=posts/2019/09/viaja-sola-a-los-valles-de-la-jacetania-huesca >}}
+[![Interior de la Cueva de las Güixas en la Jacetania](https://fotos.etheriamagazine.com/2019/09/Jacetania-guixas.jpg "Interior de la Cueva de las Güixas.")]({{% ref viaja-sola-a-los-valles-de-la-jacetania-huesca %}})
 
 ## Canfranc, la historia de una estación
 
@@ -189,9 +189,8 @@ Jacetania.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/12/valle-de-chistau-huesca >}} 
+{{< reflink valle-de-chistau-huesca >}} 
 
-{{< reflink path=posts/2020/06/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza 
->}} 
+{{< reflink viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza >}} 
 
-{{< reflink path=posts/2019/07/que-hacer-en-matarranya-piscinas-naturales-verano >}}
+{{< reflink que-hacer-en-matarranya-piscinas-naturales-verano >}}

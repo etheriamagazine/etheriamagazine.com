@@ -134,6 +134,6 @@ otro momento.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/11/turismo-termal-toscana-italia >}} 
+{{< reflink turismo-termal-toscana-italia >}} 
 
-{{< reflink path=posts/2022/11/retiro-espiritual-six-senses-douro-valley >}}
+{{< reflink retiro-espiritual-six-senses-douro-valley >}}

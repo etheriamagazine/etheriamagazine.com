@@ -183,10 +183,8 @@ carta de comida típica canaria, además de deliciosos postres caseros. El Rosar
 
 ### También te puede interesar
 
-{{< reflink path=posts/2020/06/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava 
->}}. 
+{{< reflink viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava >}}. 
 
-{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
->}}. 
+{{< reflink excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos >}}. 
 
-{{< reflink path=posts/2021/04/10-secretos-para-conocer-la-isla-de-la-palma >}}.
+{{< reflink 10-secretos-para-conocer-la-isla-de-la-palma >}}.

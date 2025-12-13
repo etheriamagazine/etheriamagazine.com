@@ -107,4 +107,5 @@ Travel (hasta el 8 de mayo de 2025).
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2022/11/juguetes-sexuales-de-viaje >}}
+[Juguetes femeninos en la maleta y restricciones en algunos países]({{% ref 
+juguetes-sexuales-de-viaje %}})

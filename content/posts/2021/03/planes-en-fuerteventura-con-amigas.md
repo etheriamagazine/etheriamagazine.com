@@ -207,11 +207,10 @@ Más información en [Turismo de Fuerteventura](https://visitfuerteventura.es/).
 
 ## También te puede interesar en Canarias...
 
-{{< reflink path=posts/2019/10/ruta-turismo-cine-serie-hierro-canarias >}}. 
+{{< reflink ruta-turismo-cine-serie-hierro-canarias >}}. 
 
-{{< reflink path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}}. 
+{{< reflink viajar-sola-amigas-imprescindible-lanzarote >}}. 
 
-{{< reflink path=posts/2019/09/cesar-manrique-ruta-en-lanzarote >}}. 
+{{< reflink cesar-manrique-ruta-en-lanzarote >}}. 
 
-{{< reflink path=posts/2019/04/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias 
->}}.
+{{< reflink la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias >}}.

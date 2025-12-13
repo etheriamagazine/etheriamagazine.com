@@ -18,17 +18,16 @@ Cada día somos más las mujeres que nos animamos a viajar solas. Y no porque no
 con quien hacerlo sino porque a veces también necesitamos darnos un respiro, nos gusta 
 socializar en los destinos a los que vamos o, simplemente, preferimos viajar a nuestro 
 aire sin tener que negociar cada decisión con los acompañantes. Si aún no te has 
-atrevido, hay muchas {{< reflink path=posts/2019/01/10-ventajas-de-viajar-sola >}} a la 
-República Checa. 
+atrevido, hay muchas [razones para viajar sola]({{% ref 10-ventajas-de-viajar-sola %}}) 
+a la República Checa. 
 
 En esta ocasión, te sugerimos **viajar sola** a Chequia, un país considerado entre los 
 diez destinos más seguros del mundo. Si eres de las que les gusta ir bien documentadas, 
-te sugerimos comenzar con algunos de estos {{< reflink 
-path=posts/2020/03/prepara-tu-viaje-a-chequia >}}, y si prefieres que te sorprendan, 
-continúa leyendo estas 5 visitas que nos aconseja la mayor experta en este destino en 
-España: {{< reflink 
-path=posts/2018/12/marketa-leheckova-de-czechtourism-es-una-mujer-etheria >}}, directora 
-de la Oficina de Turismo en Madrid. 
+te sugerimos comenzar con algunos de estos [libros y películas checos]({{% ref 
+prepara-tu-viaje-a-chequia %}}), y si prefieres que te sorprendan, continúa leyendo 
+estas 5 visitas que nos aconseja la mayor experta en este destino en España: [Markéta 
+Lehečková]({{% ref marketa-leheckova-de-czechtourism-es-una-mujer-etheria %}}), 
+directora de la Oficina de Turismo en Madrid. 
 
 ## Ruta para viajar sola en República Checa
 
@@ -154,6 +153,6 @@ Arte, naturaleza, cultura, gastronomía... ¿qué más se puede pedir de una esc
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/06/12-originales-hoteles-en-la-republica-checa >}}. 
+{{< reflink 12-originales-hoteles-en-la-republica-checa >}}. 
 
-{{< reflink path=posts/2018/12/10-estampas-romanticas-de-republica-checa >}}.
+{{< reflink 10-estampas-romanticas-de-republica-checa >}}.

@@ -134,9 +134,9 @@ centros termales. Si buscas una escapada de relax, consulta las siguientes opcio
 Termal](https://www.castillatermal.com/embarazo-agua-termal/) (en Valladolid, Soria y 
 Cantabria). Masajes y bonos regalo especiales para embarazadas. 
 
-- {{< reflink path=posts/2024/07/la-toja-escapada-romantica-termal-en-galicia >}} 
-(Pontevedra). Diversos tratamientos, se desaconseja su uso en los 3 primeros o 3 últimos 
-meses de embarazo. 
+- [Hotel y balneario Gran Hotel La Toja]({{% ref 
+la-toja-escapada-romantica-termal-en-galicia %}}) (Pontevedra). Diversos tratamientos, 
+se desaconseja su uso en los 3 primeros o 3 últimos meses de embarazo. 
 
 - [Asia Gardens Hotel & Thai Spa](https://www.asiagardens.es/tratamientos) (Alicante). 
 Cuenta con un masaje de 60 minutos llamado Kong Thong para futuras madres. 
@@ -170,8 +170,8 @@ muchas horas en el trayecto.
 
 ### También te puede interesar
 
-{{< reflink path=posts/2021/03/cortijos-andaluces-viaje-amigas >}}. 
+{{< reflink cortijos-andaluces-viaje-amigas >}}. 
 
-{{< reflink path=posts/2021/01/hoteles-de-lujo-escapada-romantica-2021 >}}. 
+{{< reflink hoteles-de-lujo-escapada-romantica-2021 >}}. 
 
-{{< reflink path=posts/2020/12/parador-de-leon-hotel-romantico-y-de-lujo >}}.
+{{< reflink parador-de-leon-hotel-romantico-y-de-lujo >}}.

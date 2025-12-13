@@ -116,8 +116,8 @@ II.
 
 Este es uno de los tesoros del Museo del Prado, y la obra más compleja de El Bosco. Para 
 entender el desarrollo iconográfico de los personajes que intervienen en el tríptico te 
-recomendamos usar la audioguía o descargarte la app del museo, una de {{< reflink 
-path=posts/2019/01/10-apps-de-museos-espanoles >}}. 
+recomendamos usar la audioguía o descargarte la app del museo, una de [las mejores apps 
+de los museos españoles]({{% ref 10-apps-de-museos-espanoles %}}). 
 
 ![Las tres gracias, obras de Rubens, que ver museo del prado](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-Las-tres-Gracias.jpg "Las tres gracias. © Museo del Prado")
 
@@ -171,6 +171,6 @@ Entrada online en www.museodelprado.es o en taquilla. Más información en el Te
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/03/25-visitas-turisticas-originales-en-madrid >}}. 
+{{< reflink 25-visitas-turisticas-originales-en-madrid >}}. 
 
-{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}.
+{{< reflink brunch-buenos-y-baratos-en-madrid >}}.

@@ -122,8 +122,8 @@ su propio museo) y las obleas son otros dos recuerdos auténticos de esta ciudad
 Vary es un lugar para desconectar, así que trata de pasar al menos una noche para 
 disfrutar de sus luces al atardecer. 
 
-\*Sigue leyendo: {{< reflink 
-path=posts/2021/12/que-ver-en-karlovy-vary-la-ciudad-balnearia-checa >}}. 
+\*Sigue leyendo: [Karlovy Vary, la ciudad balnearia checa que Goethe visitó 13 
+veces]({{% ref que-ver-en-karlovy-vary-la-ciudad-balnearia-checa %}}). 
 
 📍[Excursión guiada en español a Karlovy 
 Vary](https://www.civitatis.com/es/praga/excursion-karlovy-vary/?aid=10211) desde 67 €. 

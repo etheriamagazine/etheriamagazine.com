@@ -157,9 +157,8 @@ playas anteriores ubicadas para que moverte por esta región sea lo más sencill
 
 ### Sigue leyendo sobre el Algarve
 
-{{< reflink path=posts/2021/10/planes-imprescindibles-algarve-con-amigas >}}. 
+{{< reflink planes-imprescindibles-algarve-con-amigas >}}. 
 
-{{< reflink path=posts/2020/08/18-experiencias-si-viajas-sola-al-algarve >}}. 
+{{< reflink 18-experiencias-si-viajas-sola-al-algarve >}}. 
 
-{{< reflink path=posts/2020/06/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve 
->}}.
+{{< reflink viajar-sola-playas-tranquilas-para-disfrutar-del-algarve >}}.

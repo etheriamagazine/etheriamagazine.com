@@ -129,8 +129,8 @@ hidratantes, perfumes, jabones… Todas las actividades requieren de reserva pre
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2024/05/catedral-de-burgos-visita >}}. 
+{{< reflink catedral-de-burgos-visita >}}. 
 
-{{< reflink path=posts/2022/10/provincia-burgos-con-ninos >}}. 
+{{< reflink provincia-burgos-con-ninos >}}. 
 
-{{< reflink path=posts/2022/06/burgos-subterraneo >}}.
+{{< reflink burgos-subterraneo >}}.

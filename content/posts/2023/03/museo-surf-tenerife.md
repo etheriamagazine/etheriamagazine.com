@@ -77,6 +77,6 @@ Surf.](https://capilladelsurf.lalaguna.es/)
 
 ✅ **También te puede interesar...** 
 
-{{< reflink path=posts/2023/01/que-ver-en-tenerife >}}. 
+{{< reflink que-ver-en-tenerife >}}. 
 
-{{< reflink path=posts/2021/05/viaje-a-tenerife-con-amigas-que-hacer-excursiones >}}.
+{{< reflink viaje-a-tenerife-con-amigas-que-hacer-excursiones >}}.

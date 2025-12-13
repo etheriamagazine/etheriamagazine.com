@@ -104,7 +104,7 @@ ocasiones, también es el escenario para determinadas fiestas y _performances_.
 Dos visitas muy recomendables desde Zadar son a la isla de Pag, a la que se puede llegar 
 por carretera porque está unida por un puente al continente, y sobre la que os 
 hablábamos en el artículo '[Fiesta de los sabores en la isla croata de 
-Pag]({{% ref fiesta-de-los-sabores-en-la-isla-croata-de-pag %}})', 
+Pag](http://etheriamagazine.com/2018/08/16/fiesta-de-los-sabores-en-la-isla-croata-de-pag/)', 
 y el Parque Nacional de Paklenica. 
 
 La **isla de Pag** suele estar muy concurrida en verano, sobre todo por turismo 
@@ -155,9 +155,8 @@ Más información en [Turismo de Zadar](http://www.zadar.travel).
 
 ## Sigue leyendo sobre Croacia
 
-{{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}}. 
+{{< reflink viaje-a-croacia-como-organizar-que-ver-hacer >}}. 
 
-{{< reflink path=posts/2019/07/10-razones-para-viajar-con-amigas-a-croacia >}}. 
+{{< reflink 10-razones-para-viajar-con-amigas-a-croacia >}}. 
 
-{{< reflink path=posts/2018/10/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia 
->}}.
+{{< reflink 10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia >}}.

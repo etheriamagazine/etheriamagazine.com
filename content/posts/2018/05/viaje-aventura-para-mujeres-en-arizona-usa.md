@@ -121,7 +121,6 @@ Más información en [www.visitarizona.com](http://www.visitarizona.com)
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/07/ruta-california-por-el-lejano-oeste-americano >}} 
+{{< reflink ruta-california-por-el-lejano-oeste-americano >}} 
 
-{{< reflink path=posts/2020/01/ruta-enoturismo-con-amigas-california-napa-valley-sonoma 
->}}
+{{< reflink ruta-enoturismo-con-amigas-california-napa-valley-sonoma >}}

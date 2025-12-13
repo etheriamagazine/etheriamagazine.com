@@ -220,9 +220,8 @@ Aunque cualquier estación es buena para visitar Lancaster, el otoño es excepci
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}}. 
+{{< reflink los-mejores-miradores-de-nueva-york-gratis-de-pago >}}. 
 
-{{< reflink path=posts/2020/03/viajes-para-mujeres-que-ver-washington-dc >}}. 
+{{< reflink viajes-para-mujeres-que-ver-washington-dc >}}. 
 
-{{< reflink path=posts/2020/01/ruta-enoturismo-con-amigas-california-napa-valley-sonoma 
->}}.
+{{< reflink ruta-enoturismo-con-amigas-california-napa-valley-sonoma >}}.

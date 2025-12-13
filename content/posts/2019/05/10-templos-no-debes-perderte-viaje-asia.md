@@ -123,18 +123,17 @@ siete muros concéntricos y hasta cincuenta santuarios.
 
 ![Wat Xieng Thong, en Luang Prabang.](https://fotos.etheriamagazine.com/2019/04/Templos-Asia-Wat-Xieng-Thong-Luang-Prabang.jpg "Wat Xieng Thong, en Luang Prabang. © Wuttichok/Adobe Stock")
 
-La espiritualidad de la ciudad laosiana de {{< reflink 
-path=posts/2018/12/guia-viaje-para-mujeres-luang-prabang >}} se siente a cada paso y se 
-refleja en sus calles teñidas del color naranja de las túnicas de sus monjes y en sus 
-innumerables templos. Uno de los más conocidos es el **Wat Xieng Thong**, del siglo XVI, 
-que muestra un tejado escalonado –tan característico de esta zona– que se alarga hasta 
-el suelo, uno de los más bonitos de todo el país. 
+La espiritualidad de la ciudad laosiana de [Luang Prabang]({{% ref 
+guia-viaje-para-mujeres-luang-prabang %}}) se siente a cada paso y se refleja en sus 
+calles teñidas del color naranja de las túnicas de sus monjes y en sus innumerables 
+templos. Uno de los más conocidos es el **Wat Xieng Thong**, del siglo XVI, que muestra 
+un tejado escalonado –tan característico de esta zona– que se alarga hasta el suelo, uno 
+de los más bonitos de todo el país. 
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/05/tres-dias-en-bangkok-que-hacer >}}. 
+{{< reflink tres-dias-en-bangkok-que-hacer >}}. 
 
-{{< reflink path=posts/2021/01/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual 
->}}. 
+{{< reflink chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual >}}. 
 
-{{< reflink path=posts/2021/01/como-organizar-viaje-de-novios-o-luna-de-miel >}}.
+{{< reflink como-organizar-viaje-de-novios-o-luna-de-miel >}}.

@@ -123,6 +123,6 @@ Socuéllamos](https://socuellamosturismo.com/).
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha >}}. 
+{{< reflink ruta-del-vino-de-la-mancha >}}. 
 
-{{< reflink path=posts/2020/11/mejores-rutas-en-ciudad-real >}}.
+{{< reflink mejores-rutas-en-ciudad-real >}}.

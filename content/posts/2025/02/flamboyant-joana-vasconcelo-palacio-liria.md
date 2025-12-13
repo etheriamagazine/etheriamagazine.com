@@ -140,6 +140,6 @@ Su web es [www.palaciodeliria.com](http://www.palaciodeliria.com)
 
 **Sigue leyendo sobre Madrid** 
 
-{{< reflink path=posts/2023/03/excursiones-ninos-en-madrid >}}. 
+{{< reflink excursiones-ninos-en-madrid >}}. 
 
-{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}}.
+{{< reflink tabernas-historicas-de-madrid >}}.

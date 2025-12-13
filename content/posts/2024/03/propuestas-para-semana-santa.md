@@ -40,7 +40,8 @@ No os perdáis clásicos como un paseo en barca por la Plaza de España, una vis
 Catedral con su torre, la Giralda y el patio de Naranjos o el precioso Alcázar. Y, si 
 sois amantes del arte, llevad apuntados el **Museo de Bellas Artes** y el **Centro 
 Andaluz de Arte Contemporáneo**. Podéis encontrar más pistas para vuestro viaje a 
-Sevilla en {{< reflink path=posts/2023/09/tapeo-barrio-santa-cruz-sevilla >}}. 
+Sevilla en [Bares, terrazas y restaurantes de alta cocina en el sevillano Barrio de 
+Santa Cruz]({{% ref tapeo-barrio-santa-cruz-sevilla %}}). 
 
 ![Panorámica de la preciosa ciudad de Sevilla.](https://fotos.etheriamagazine.com/2024/03/semana-santa-sevilla.jpg "Panorámica de la preciosa ciudad de Sevilla. © Henrique Ferreira")
 
@@ -60,9 +61,9 @@ por el remodelado estadio Bernabéu y curiosear cómo han quedado la Puerta del 
 Plaza de España tras las interminables obras. Y, también, las amantes de la arquitectura 
 pueden hacer la **Ruta del Madrid de Antonio Palacios** ([descarga el 
 mapa](https://www.esmadrid.com/sites/default/files/mapa_ilustrado_antonio_palacios_es.pdf)). 
-Más pistas para vuestro viaje a Madrid en {{< reflink 
-path=posts/2022/05/tabernas-historicas-de-madrid >}} y {{< reflink 
-path=posts/2022/12/planes-adolescentes-madrid >}}. 
+Más pistas para vuestro viaje a Madrid en [10 tabernas históricas de Madrid donde tomar 
+el vermú]({{% ref tabernas-historicas-de-madrid %}}) y [Planes divertidos con 
+adolescentes en Madrid]({{% ref planes-adolescentes-madrid %}}). 
 
 ![Vista de la Catedral y el Palacio Real de Madrid.](https://fotos.etheriamagazine.com/2024/03/madrid-viajes.jpg "Vista de la Catedral y el Palacio Real de Madrid. © Eduardo Rodríguez")
 
@@ -83,8 +84,8 @@ Wilde, Bram Stoker o Jonathan Swift.
 También muy original es la visita a la **cárcel de Kilmainham**, la mayor prisión 
 desocupada de Europa, que guarda historias impactantes de figuras políticas irlandesas. 
 Y, por supuesto, Dublín regala muchas risas y momentos de diversión en torno a sus 
-festivales y pubs pero eso os lo contamos en este artículo: {{< reflink 
-path=posts/2020/03/viaje-sola-con-amigas-que-ver-en-dublin >}}. 
+festivales y pubs pero eso os lo contamos en este artículo: [Viaja sola o con amigas a 
+Dublín, un plan perfecto]({{% ref viaje-sola-con-amigas-que-ver-en-dublin %}}). 
 
 ![Prisión Kilmainham Gaol, en Dublín.](https://fotos.etheriamagazine.com/2024/03/Kilmainham-Gaol.jpg "Prisión Kilmainham Gaol, en Dublín. © Chris Hill")
 
@@ -103,8 +104,8 @@ sus restaurantes.
 
 Además, viajar a esta zona en primavera es un regalo para los sentidos ya que el aroma 
 de las flores y de los árboles frutales acompaña en cada recodo de la carretera. Más 
-información para vuestro viaje en {{< reflink 
-path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}}. 
+información para vuestro viaje en [Ruta en coche alrededor del lago de Garda, el mayor 
+de Italia]({{% ref ruta-en-coche-en-lago-de-garda-italia %}}). 
 
 ![Carretera que rodea el lago de Garda](https://fotos.etheriamagazine.com/2024/03/lago-garda-italia.jpg "Carretera que rodea el lago de Garda. © Elisabetta Falco")
 
@@ -124,8 +125,9 @@ Mayor, Cracovia respira historia en cada rincón.
 Enmarcando la Ciudad Vieja se encuentra el **Parque Planty**, un anillo verde que 
 sustituye a las antiguas murallas defensivas, y a las afueras se sitúa el antiguo barrio 
 judío de Kazimierz, donde las sinagogas y el cementerio judío son testimonios de una 
-rica herencia cultural. Más pistas para organizar el viaje en {{< reflink 
-path=posts/2018/07/viaje-fin-de-semana-con-amigas-en-cracovia >}}. 
+rica herencia cultural. Más pistas para organizar el viaje en [Visitas esenciales para 
+enamorarse de Cracovia en dos días]({{% ref viaje-fin-de-semana-con-amigas-en-cracovia 
+%}}). 
 
 ![Plaza Mayor de Cracovia, visita obligada si vas en Semana Santa](https://fotos.etheriamagazine.com/2024/03/cracovia-semana-santa.jpg "Centro histórico de Cracovia. © Kevin Perez Camacho")
 
@@ -136,15 +138,15 @@ están cerca, los vuelos son económicos y su cultura es diferente a la nuestra.
 es para nosotras uno de esos destinos que ofrece mil posibilidades en función de la 
 compañía que elijamos y de los planes que nos apetezca hacer allí. 
 
-Para una escapada en pareja, una ciudad como {{< reflink 
-path=posts/2021/03/guia-esencial-que-ver-y-hacer-en-fez >}} o Marrakech son perfectas. 
-En caso de que sea una escapada con amigas en la que queramos lugares para salir por la 
-noche, seguro que {{< reflink path=posts/2023/05/por-que-viajar-casablanca-marrakech >}} 
-no defrauda con sus playas y modernos _beach clubs_. El ambiente de una ciudad costera 
-lo encontraréis en {{< reflink path=posts/2022/08/que-ver-tanger-con-amigas >}} y en {{< 
-reflink path=posts/2023/06/que-ver-en-esauira >}}. Si os gusta la fotografía, en Chaouen 
-y en Assilah pondréis a prueba vuestra creatividad. Sin duda, Marruecos es siempre buena 
-idea para salidas de 3 o más días. En los anteriores enlaces encontrarás toda la 
-información necesaria para preparar vuestros viajes. 
+Para una escapada en pareja, una ciudad como [Fez]({{% ref 
+guia-esencial-que-ver-y-hacer-en-fez %}}) o Marrakech son perfectas. En caso de que sea 
+una escapada con amigas en la que queramos lugares para salir por la noche, seguro que 
+[Casablanca]({{% ref por-que-viajar-casablanca-marrakech %}}) no defrauda con sus playas 
+y modernos _beach clubs_. El ambiente de una ciudad costera lo encontraréis en 
+[Tánger]({{% ref que-ver-tanger-con-amigas %}}) y en [Essaouira]({{% ref 
+que-ver-en-esauira %}}). Si os gusta la fotografía, en Chaouen y en Assilah pondréis a 
+prueba vuestra creatividad. Sin duda, Marruecos es siempre buena idea para salidas de 3 
+o más días. En los anteriores enlaces encontrarás toda la información necesaria para 
+preparar vuestros viajes. 
 
 ![Fez, capital espiritual de Marruecos](https://fotos.etheriamagazine.com/2024/03/viaje-fez.jpg "Fez, capital espiritual de Marruecos. © Parker Hilton")

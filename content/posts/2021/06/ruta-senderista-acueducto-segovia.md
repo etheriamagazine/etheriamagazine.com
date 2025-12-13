@@ -17,14 +17,14 @@ El origen del acueducto de Segovia, una de las construcciones más impresionante
 Cuenta la leyenda que el **acueducto de Segovia** lo construyó el mismísimo Maligno en 
 una sola noche. Sospechamos que algo más les llevó a los romanos edificarlo. 
 Concienzudos y muy pragmáticos, no se asentaban en un territorio sin una poderosa razón. 
-La situación de la actual {{< reflink 
-path=posts/2021/03/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia >}}, entre 
-los ríos Eresma y Clamores, fue motivo taxativo para establecerse en este estratégico 
-territorio. Asegurar el suministro de agua a sus habitantes suponía, quizás, el factor 
-fundamental y determinante para la ubicación de sus asentamientos. Y no valía cualquier 
-agua, además de un caudal constante y generoso, su calidad debía garantizar la 
-salubridad de las mismas, aunque, para conseguirlas, hubiera que alejarse varios 
-kilómetros. La distancia no suponía un hándicap para sus hábiles ingenieros. 
+La situación de la actual [Segovia]({{% ref 
+15-lugares-imprescindibles-que-ver-en-segovia-y-provincia %}}), entre los ríos Eresma y 
+Clamores, fue motivo taxativo para establecerse en este estratégico territorio. Asegurar 
+el suministro de agua a sus habitantes suponía, quizás, el factor fundamental y 
+determinante para la ubicación de sus asentamientos. Y no valía cualquier agua, además 
+de un caudal constante y generoso, su calidad debía garantizar la salubridad de las 
+mismas, aunque, para conseguirlas, hubiera que alejarse varios kilómetros. La distancia 
+no suponía un hándicap para sus hábiles ingenieros. 
 
 #### El acueducto de Segovia, una maravilla arquitectónica
 
@@ -42,10 +42,10 @@ menos visible del acueducto de Segovia, un monumental conducto pétreo cuyo rost
 conocido preside la capital segoviana. Recorreremos sus tramos más desconocidos o, si os 
 animáis, el trazado íntegro. Cerca de **16 kilómetros** que comienzan en el **azud del 
 valle de la Acebeda**, en la sierra de Guadarrama, que tras recorrer la ciudad (canal 
-soterrado incluido) de este a oeste finaliza en el {{< reflink 
-path=posts/2020/03/que-ver-interior-precio-entradas-del-alcazar-de-segovia >}}, su digno 
-rival de _selfis_ y de las panorámicas más buscadas. Poneos ropa y calzado cómodo porque 
-nos vamos de excursión. 
+soterrado incluido) de este a oeste finaliza en el [Alcázar (no os perdáis este 
+artículo)]({{% ref que-ver-interior-precio-entradas-del-alcazar-de-segovia %}}), su 
+digno rival de _selfis_ y de las panorámicas más buscadas. Poneos ropa y calzado cómodo 
+porque nos vamos de excursión. 
 
 ![](https://fotos.etheriamagazine.com/2021/06/Segovia-hito-acueducto.jpg "Hito del Acueducto indicando la dirección hacia la captación de aguas. © Yolanda Cardo")
 
@@ -133,11 +133,11 @@ velocidad.
 
 Si miráis al fondo, a vuestra izquierda, veréis la estación de tren, sí, allí donde 
 llegan esos confortables vehículos climatizados en los que habríais llegado en un pispás 
-a disfrutar del {{< reflink 
-path=posts/2020/12/mejores-restaurantes-para-comer-cochinillo-en-segovia >}}…, de frente 
-apenas 3 kilómetros os separan de la meta y de un suculento manjar. Encaramos la recta 
-final entre campos y praderas, hasta el barrio Nuevo de Segovia, la última etapa y la 
-entrada a esta asombrosa localidad. 
+a disfrutar del [tradicional cochinillo]({{% ref 
+mejores-restaurantes-para-comer-cochinillo-en-segovia %}})…, de frente apenas 3 
+kilómetros os separan de la meta y de un suculento manjar. Encaramos la recta final 
+entre campos y praderas, hasta el barrio Nuevo de Segovia, la última etapa y la entrada 
+a esta asombrosa localidad. 
 
 ![](https://fotos.etheriamagazine.com/2021/06/Segovia-acueducto.jpg "El tramo más visible y famoso del Acueducto. © Yolanda Cardo")
 
@@ -180,10 +180,8 @@ vuestra visita.
 
 #### Otras rutas senderistas de interés...
 
-{{< reflink 
-path=posts/2020/12/7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia 
->}} 
+{{< reflink 7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia >}} 
 
-{{< reflink path=posts/2021/06/que-ver-en-valle-de-valdeolea-cantabria >}}. 
+{{< reflink que-ver-en-valle-de-valdeolea-cantabria >}}. 
 
-{{< reflink path=posts/2021/05/excursiones-sierra-de-entzia-alava >}}.
+{{< reflink excursiones-sierra-de-entzia-alava >}}.

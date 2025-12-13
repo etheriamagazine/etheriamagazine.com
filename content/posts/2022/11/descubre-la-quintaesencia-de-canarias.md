@@ -143,13 +143,14 @@ Canaria o las dunas de Corralejo en Fuerteventura.
 ![Isla Graciosa y El Hierro, dos visitas singulares en Canarias](https://fotos.etheriamagazine.com/2022/11/isla-graciosa-el-hierro.jpg "Isla Graciosa y El Hierro. (Izq. y Dcha.)")
 
 Sin embargo, aún no te hemos mencionado la singularidad de otras islas como **El 
-Hierro,** un territorio del que ya te hemos hablado en este artículo ({{< reflink 
-path=posts/2019/10/ruta-turismo-cine-serie-hierro-canarias >}}). Sus paisajes de 
-apariencia inhóspita atraen e impresionan a partes iguales. En el extremo opuesto a su 
-manifiesta aridez se sitúa la isla de **La Gomera**, donde el Parque Nacional de 
-Garajonay es una invitación permanente a soñar entre sus bosques de laurisilva. Sus 
-ramas entrelazadas, brumas y leyendas te atrapan desde el primer momento. Las propuestas 
-de naturaleza de esta isla son un valor seguro en tu viaje. 
+Hierro,** un territorio del que ya te hemos hablado en este artículo ([El Hierro, una 
+isla que desvela sus encantos en el cine]({{% ref 
+ruta-turismo-cine-serie-hierro-canarias %}})). Sus paisajes de apariencia inhóspita 
+atraen e impresionan a partes iguales. En el extremo opuesto a su manifiesta aridez se 
+sitúa la isla de **La Gomera**, donde el Parque Nacional de Garajonay es una invitación 
+permanente a soñar entre sus bosques de laurisilva. Sus ramas entrelazadas, brumas y 
+leyendas te atrapan desde el primer momento. Las propuestas de naturaleza de esta isla 
+son un valor seguro en tu viaje. 
 
 ![Parque Nacional de Garajonay, en La Gomera.](https://fotos.etheriamagazine.com/2022/11/parque-garajonay.jpg "Parque Nacional de Garajonay, en La Gomera.")
 

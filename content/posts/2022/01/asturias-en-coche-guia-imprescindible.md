@@ -114,8 +114,8 @@ visitantes y terrazas, se percibe aún mientras paseamos por las calles del casc
 antiguo, por las laderas de la ría donde reposan coloridas embarcaciones o mientras 
 fotografiamos los bloques de hormigón de la escollera, pintados por Agustín Ibarrola. 
 
-No te pierdas el artículo: {{< reflink 
-path=posts/2020/08/mejores-playas-llanes-costa-asturias >}}. 
+No te pierdas el artículo: [Llanes, una ruta en coche inolvidable por la costa 
+asturiana]({{% ref mejores-playas-llanes-costa-asturias %}}). 
 
 ### Niembro
 
@@ -270,8 +270,8 @@ un monumental espacio construido entre 1946 y 1956 que alberga en su interior un
 universidad, un teatro y una iglesia cuya torre mide nada menos que 130 metros de 
 altura. 
 
-No te pierdas el artículo: {{< reflink 
-path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias >}}. 
+No te pierdas el artículo: [Gijón: una gastroescapada que te dejará muy buen sabor de 
+boca]({{% ref gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias %}}). 
 
 ![san miguel lillo santa maria naranco](https://fotos.etheriamagazine.com/2022/01/San-Miguel-de-Lillo-y-Naranco.jpg "San Miguel de Lillo y Santa María del Naranco, dos joyas del prerrománico en Oviedo. © Y. Cardo")
 
@@ -290,8 +290,8 @@ recomendable, como también los es el cercano museo de Bellas Artes. Y para disf
 su ambiente y de su gastronomía, nada como pasear por el conocido como Bulevar de la 
 Sidra en la calle Gascona. 
 
-No te pierdas el artículo: {{< reflink 
-path=posts/2021/10/planes-imprescindibles-en-oviedo-con-amigas >}}. 
+No te pierdas el artículo: [8 planazos para descubrir Oviedo con amigas]({{% ref 
+planes-imprescindibles-en-oviedo-con-amigas %}}). 
 
 ![ruta arcenorio asturias](https://fotos.etheriamagazine.com/2022/01/ruta-Arcenorio.jpg "Mirador en la ruta del Arcenorio. © Yolanda Cardo")
 
@@ -307,8 +307,9 @@ cumbres, a pesar de las restricciones de acceso, resultan un destino excesivamen
 masificado durante el buen tiempo. Para disfrutarlas y protegerlas, mejor fuera de 
 temporada. 
 
-No te pierdas el artículo: {{< reflink 
-path=posts/2018/10/picos-de-europa-ruta-por-asturias-leon-y-cantabria >}}. 
+No te pierdas el artículo: [Picos de Europa, una ruta por la columna vertebral de 
+Asturias, León y Cantabria]({{% ref picos-de-europa-ruta-por-asturias-leon-y-cantabria 
+%}}). 
 
 ### Parque Natural y Reserva de la Biosfera de Ponga
 

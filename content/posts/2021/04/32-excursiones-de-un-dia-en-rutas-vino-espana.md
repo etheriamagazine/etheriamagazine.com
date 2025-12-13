@@ -59,8 +59,8 @@ Una excursión de un día que nunca defrauda en la provincia de Valladolid es al
 **castillo de Peñafiel**, en cuyo interior se encuentra situado el Museo Provincial del 
 Vino. Forma parte de la [Ruta del Vino de Ribera del 
 Duero](https://www.rutadelvinoriberadelduero.es/), por lo que puedes seguir esta ruta 
-enoturística ({{< reflink path=posts/2018/05/ruta-del-vino-ribera-del-duero-valladolid 
->}}) que te recomendábamos anteriormente. 
+enoturística ([Rutas del vino: Ribera del Duero por la N-122]({{% ref 
+ruta-del-vino-ribera-del-duero-valladolid %}})) que te recomendábamos anteriormente. 
 
 La segunda excursión de un día en Valladolid te llevará a conocer las **Casas-cueva de 
 Trigueros del Valle**, en la [Ruta del Vino de 
@@ -85,7 +85,7 @@ gallegos y leoneses que querían dominar la comarca.
 Sólo por ver la portada de La Majestad de la Colegiata de Santa María merecería la pena 
 visitar Toro. Aunque fue labrada hace ocho siglos sigue mostrando un bello policromado. 
 Aprovecha el día para recorrer esta bonita población, visitar alguna bodega e, incluso, 
-dar un {{< reflink path=posts/2020/07/vuelos-en-globo-en-espana-regalo-viajero >}} para 
+dar un [paseo en globo]({{% ref vuelos-en-globo-en-espana-regalo-viajero %}}) para 
 admirar los viñedos de la [Ruta del Vino de Toro](https://www.rutavinotoro.com/). 
 
 ### Madrigal de las Altas Torres (Ávila)
@@ -141,12 +141,11 @@ de Buera**, del siglo XVIII, que ha llegado a nuestros días en un excelente est
 ## Excursiones de un día en Castilla-La Mancha
 
 Si buscas excursiones de un día en Castilla-La Mancha te sobran opciones. Una de las que 
-más disfrutarás si vas con niños (consulta el artículo {{< reflink 
-path=posts/2021/01/ruta-del-quijote-en-familia-por-la-mancha >}}) es la que te lleva a 
-visitar los molinos situados en los altozanos de **Alcázar de San Juan y Campo de 
-Criptana**. Al estar en la [Ruta del Vino de La 
-Mancha](https://www.rutadelvinodelamancha.com/) se puede completar el día con una 
-actividad enoturística. 
+más disfrutarás si vas con niños (consulta el artículo [Ruta del Quijote en familia]({{% 
+ref ruta-del-quijote-en-familia-por-la-mancha %}})) es la que te lleva a visitar los 
+molinos situados en los altozanos de **Alcázar de San Juan y Campo de Criptana**. Al 
+estar en la [Ruta del Vino de La Mancha](https://www.rutadelvinodelamancha.com/) se 
+puede completar el día con una actividad enoturística. 
 
 Menos conocido es el yacimiento del **Cerro de las Cabezas**, un poblado íbero de la 
 Edad de Bronce situado a seis kilómetros de Valdepeñas. Es uno de los puntos de 
@@ -198,9 +197,8 @@ la producción industrial de tejidos, alcoholes, aguardientes, papel, jabones, v
 tinta, cera, etc. Su nombre es Nuevo Baztán, uno de los pueblos de la _Ruta del Vino de 
 Madrid_. Alrededor del Palacio de Juan de Goyeneche, el impulsor de esta idea, se 
 desarrollan hoy las interesantísimas visitas guiadas. Este 2021 ha sido nombrado uno de 
-los {{< reflink 
-path=posts/2021/01/ruta-por-los-11-pueblos-elegidos-como-los-mas-bonitos-de-espana-en-2021 
->}}. 
+los [Pueblos más bonitos de España]({{% ref 
+ruta-por-los-11-pueblos-elegidos-como-los-mas-bonitos-de-espana-en-2021 %}}). 
 
 ![palacio real de olite navarra](https://fotos.etheriamagazine.com/2021/04/Palacio-de-Olite-navarra.jpg "Palacio Real de Olite (Navarra).")
 
@@ -275,13 +273,10 @@ Cadafalch, uno de los grandes del modernismo catalán.
 
 ### También te interesa...
 
-{{< reflink path=posts/2020/09/31-escapadas-po-los-paisajes-del-vino >}}. 
+{{< reflink 31-escapadas-po-los-paisajes-del-vino >}}. 
 
-{{< reflink 
-path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
->}}. 
+{{< reflink viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon >}}. 
 
-{{< reflink path=posts/2020/12/mejores-restaurantes-para-comer-cochinillo-en-segovia 
->}}. 
+{{< reflink mejores-restaurantes-para-comer-cochinillo-en-segovia >}}. 
 
-{{< reflink path=posts/2020/11/comer-en-toledo-mejores-restaurantes-bares-tapas >}}.
+{{< reflink comer-en-toledo-mejores-restaurantes-bares-tapas >}}.

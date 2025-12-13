@@ -108,8 +108,8 @@ Gran Vía, 31. Tel. 656 682 470
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2024/10/exposiciones-en-madrid-otono-de-2024 >}}. 
+{{< reflink exposiciones-en-madrid-otono-de-2024 >}}. 
 
-{{< reflink path=posts/2024/06/terrazas-azoteas-madrid >}}. 
+{{< reflink terrazas-azoteas-madrid >}}. 
 
-{{< reflink path=posts/2024/04/ruta-lola-flores-en-madrid >}}.
+{{< reflink ruta-lola-flores-en-madrid >}}.

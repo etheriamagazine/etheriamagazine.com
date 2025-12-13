@@ -120,8 +120,8 @@ Barceló Hotels Group.
 
 📌 **También te puede interesar** 
 
-{{< reflink path=posts/2021/03/cortijos-andaluces-viaje-amigas >}} 
+{{< reflink cortijos-andaluces-viaje-amigas >}} 
 
-{{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}} 
+{{< reflink fin-de-semana-con-amigas-en-malaga >}} 
 
-{{< reflink path=posts/2021/01/hoteles-de-lujo-escapada-romantica-2021 >}}
+{{< reflink hoteles-de-lujo-escapada-romantica-2021 >}}

@@ -102,8 +102,8 @@ Fotografías cedidas por Mandarin Oriental Group.
 
 ### También podría interesarte
 
-{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}} 
+{{< reflink que-ver-en-turin-en-un-viaje-con-amigas >}} 
 
-{{< reflink path=posts/2021/06/toscana-en-coche >}} 
+{{< reflink toscana-en-coche >}} 
 
-{{< reflink path=posts/2020/04/hotel-lujo-toscana-borgo-santo-pietro >}}
+{{< reflink hotel-lujo-toscana-borgo-santo-pietro >}}

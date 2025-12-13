@@ -79,8 +79,7 @@ madrid@arallotaberna.com
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2022/01/restaurantes-peruanos-en-madrid-de-jhosef-arias >}}. 
+{{< reflink restaurantes-peruanos-en-madrid-de-jhosef-arias >}}. 
 
-{{< reflink 
-path=posts/2019/12/mejores-tiendas-para-comprar-vino-madrid-barcelona-valencia-gijon-valladolid 
+{{< reflink mejores-tiendas-para-comprar-vino-madrid-barcelona-valencia-gijon-valladolid 
 >}}.

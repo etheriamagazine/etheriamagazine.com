@@ -22,7 +22,7 @@ Hemos recorrido esta ciudad vizcaína en numerosas ocasiones, pero aún conserva
 capacidad de sorprendernos y de seguir desvelando nuevos secretos. Hasta ahora nos 
 habíamos detenido en grandes obras de ingeniería, como el Puente Bizkaia, en la 
 exquisita gastronomía local, en actividades idóneas para familias o propuestas 
-divertidas para {{< reflink path=posts/2022/07/que-ver-getxo-visitas-marineras >}}... 
+divertidas para [compartir con amigas]({{% ref que-ver-getxo-visitas-marineras %}})... 
 Sin embargo, hay algo que aún teníamos pendiente: viajar a la _Belle Époque_ a través 
 del devenir histórico de las **preciosas mansiones de Getxo**. Os contamos sus historias 
 y anécdotas más curiosas. 
@@ -240,12 +240,13 @@ Puerto Viejo. Este recorrido por aquella _Belle Époque_ que amaba la belleza, l
 y el arte sólo puede terminar con un brindis y el ardiente deseo de seguir conociendo la 
 ciudad. 
 
-✅ **No te pierdas:** {{< reflink path=posts/2023/03/que-donde-comer-getxo >}} 
+✅ **No te pierdas:** [Getxo a bocados, una cita exquisita con el paladar.]({{% ref 
+que-donde-comer-getxo %}}) 
 
 **© Fotos cedidas por Turismo de Getxo.** 
 
 **Sigue leyendo...** 
 
-{{< reflink path=posts/2023/05/planes-familiares-en-getxo >}}. 
+{{< reflink planes-familiares-en-getxo >}}. 
 
-{{< reflink path=posts/2022/10/que-ver-en-getxo >}}.
+{{< reflink que-ver-en-getxo >}}.

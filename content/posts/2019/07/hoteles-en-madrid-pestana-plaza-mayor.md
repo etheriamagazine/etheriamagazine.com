@@ -49,7 +49,7 @@ Los clientes del hotel también tendrán acceso durante su estancia al **Spa & F
 
 \[caption id="attachment\_11040" align="aligncenter" width="900"\]![hotel pestana plaza mayor madrid, hoteles con encanto en madrid](https://fotos.etheriamagazine.com/2019/07/escalera-lounge-pestana-plaza-mayor.jpg "Escalera y lounge del hotel.") Escalera y _lounge_ del hotel.\[/caption\]
 
-El hotel Pestana Plaza Mayor Madrid transmite historia a través de sus paredes desnudas de ladrillo, sus cristaleras y escaleras monumentales. Sin duda, es el establecimiento que completa la experiencia de un Madrid repleto de historia donde disfrutar de la {{< reflink path=posts/2018/12/de-canas-por-el-madrid-de-los-austrias-y-de-las-letras >}} o buscar {{< reflink path=posts/2018/06/esto-no-es-lo-que-parece-10-locales-de-madrid-donde-las-apariencias-enganan >}}.
+El hotel Pestana Plaza Mayor Madrid transmite historia a través de sus paredes desnudas de ladrillo, sus cristaleras y escaleras monumentales. Sin duda, es el establecimiento que completa la experiencia de un Madrid repleto de historia donde disfrutar de la [tascas tradicionales]({{% ref de-canas-por-el-madrid-de-los-austrias-y-de-las-letras %}}) o buscar [su lado más canalla]({{% ref esto-no-es-lo-que-parece-10-locales-de-madrid-donde-las-apariencias-enganan %}}).
 
 Más información 
 

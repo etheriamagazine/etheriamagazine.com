@@ -320,10 +320,10 @@ complemento de su [museo](https://nifc.pl/en/) anexo.
 
 ### También en Polonia...
 
-{{< reflink path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}}{{< reflink 
-path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}}. 
+[Descubre Zakopane, su arquite]({{% ref que-ver-en-zakopane-viaje-original-polonia 
+%}})[ctura de madera, sabores y estaciones de esquí]({{% ref 
+que-ver-en-zakopane-viaje-original-polonia %}}). 
 
-{{< reflink 
-path=posts/2020/12/descubre-por-que-viajar-a-sopot-glamour-y-balnearios-en-polonia >}}. 
+{{< reflink descubre-por-que-viajar-a-sopot-glamour-y-balnearios-en-polonia >}}. 
 
-{{< reflink path=posts/2018/09/la-poetisa-sofia-casanova-una-gallega-en-polonia >}}.
+{{< reflink la-poetisa-sofia-casanova-una-gallega-en-polonia >}}.

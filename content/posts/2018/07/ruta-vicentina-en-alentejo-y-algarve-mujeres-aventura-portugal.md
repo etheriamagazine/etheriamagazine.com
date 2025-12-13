@@ -138,7 +138,6 @@ gastronomía y alojamiento en la misma heredad.
 
 ### También te puede interesar
 
-{{< reflink path=posts/2020/08/18-experiencias-si-viajas-sola-al-algarve >}} 
+{{< reflink 18-experiencias-si-viajas-sola-al-algarve >}} 
 
-{{< reflink path=posts/2020/06/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve 
->}}
+{{< reflink viajar-sola-playas-tranquilas-para-disfrutar-del-algarve >}}

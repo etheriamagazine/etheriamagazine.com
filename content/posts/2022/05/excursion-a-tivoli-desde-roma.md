@@ -278,8 +278,8 @@ pierdas la pequeña **heladería Cactus**, cerca de Villa d’Este.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/10/fin-de-semana-en-roma-con-amigas >}} 
+{{< reflink fin-de-semana-en-roma-con-amigas >}} 
 
-{{< reflink path=posts/2020/08/10-grandes-viajes-a-italia >}} 
+{{< reflink 10-grandes-viajes-a-italia >}} 
 
-{{< reflink path=posts/2022/02/que-hacer-en-bolonia >}}
+{{< reflink que-hacer-en-bolonia >}}

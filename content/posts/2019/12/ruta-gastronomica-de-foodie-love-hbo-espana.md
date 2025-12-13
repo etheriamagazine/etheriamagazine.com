@@ -50,8 +50,8 @@ Paradiso** (calle de Rera Palau, 4. Barcelona) y se accede al mismo a través de
 puerta de una nevera. Este lugar recibió el premio On the Watch en 2017 como uno de los 
 mejores bares del mundo. Por supuesto, tendrás que pedir pastrami, como los 
 protagonistas, y cócteles sofisticados. Si visitáis la capital española, encontraréis en 
-este listado las {{< reflink 
-path=posts/2019/10/10-mejores-coctelerias-de-madrid-salir-con-amigas >}}. 
+este listado las [mejores coctelerías de Madrid]({{% ref 
+10-mejores-coctelerias-de-madrid-salir-con-amigas %}}). 
 
 ![cocteleria moderna, bares de cocteles barcelona](https://fotos.etheriamagazine.com/2019/12/bar-cocteles-barcelona.jpg "Coctelería en Bar Paradiso.")
 

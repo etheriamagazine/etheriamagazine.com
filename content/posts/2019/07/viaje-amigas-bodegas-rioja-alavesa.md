@@ -105,17 +105,17 @@ A-1/E-5 (356 km); desde Barcelona 567 km por la AP-2 y AP-68.
 ##### Dónde relajarte
 
 Una última idea para disfrutar de esta región vinícola sobre tu propia piel y disfrutar 
-de los placeres de la {{< reflink 
-path=posts/2018/10/relax-entre-vinas-el-poder-de-la-vinoterapia >}} es acudir a alguno 
-de los spas que tienen al vino como protagonista absoluto de los tratamientos. En el 
-[Wine Oil Spa Villa de Laguardia](http://www.wineoilspa.com) podrás relajarte con un 
-masaje de manteca de vino, con un tratamiento exfoliante a base de hollejo de uva o 
-directamente meterte en una bañera, llena hasta los bordes, de extracto de vino. 
+de los placeres de la [vinoterapia]({{% ref relax-entre-vinas-el-poder-de-la-vinoterapia 
+%}}) es acudir a alguno de los spas que tienen al vino como protagonista absoluto de los 
+tratamientos. En el [Wine Oil Spa Villa de Laguardia](http://www.wineoilspa.com) podrás 
+relajarte con un masaje de manteca de vino, con un tratamiento exfoliante a base de 
+hollejo de uva o directamente meterte en una bañera, llena hasta los bordes, de extracto 
+de vino. 
 
 ##### También te puede interesar...
 
-{{< reflink path=posts/2020/10/viaje-la-rioja-vendimia-valle-de-ocon >}}. 
+{{< reflink viaje-la-rioja-vendimia-valle-de-ocon >}}. 
 
-{{< reflink path=posts/2019/05/etapas-que-ver-camino-de-santiago-en-la-rioja >}}. 
+{{< reflink etapas-que-ver-camino-de-santiago-en-la-rioja >}}. 
 
-{{< reflink path=posts/2019/01/ruta-gastronomica-en-la-rioja >}}.
+{{< reflink ruta-gastronomica-en-la-rioja >}}.

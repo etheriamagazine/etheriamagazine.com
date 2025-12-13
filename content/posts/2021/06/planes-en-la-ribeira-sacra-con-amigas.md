@@ -179,9 +179,8 @@ y **Globos Boreal** (globosboreal.com).
 
 **Más viajes en Galicia...** 
 
-{{< reflink path=posts/2020/08/excursion-isla-de-ons-como-llegar-que-ver >}}. 
+{{< reflink excursion-isla-de-ons-como-llegar-que-ver >}}. 
 
-{{< reflink path=posts/2020/11/comer-en-vigo-mejores-restaurantes-furanchos >}} 
+{{< reflink comer-en-vigo-mejores-restaurantes-furanchos >}} 
 
-{{< reflink path=posts/2021/01/historia-de-san-simon-la-isla-gallega-de-las-cuarentenas 
->}}
+{{< reflink historia-de-san-simon-la-isla-gallega-de-las-cuarentenas >}}

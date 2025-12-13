@@ -155,8 +155,7 @@ su gastronomía (sobre todo de sus pintxos) y sus playas.
 
 **Te puede interesar...** 
 
-{{< reflink path=posts/2021/04/que-ver-hacer-en-san-sebastian >}}. 
+{{< reflink que-ver-hacer-en-san-sebastian >}}. 
 
-{{< reflink 
-path=posts/2019/11/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas 
+{{< reflink de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas 
 >}}.

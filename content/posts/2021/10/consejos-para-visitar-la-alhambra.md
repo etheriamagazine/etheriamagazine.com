@@ -210,10 +210,10 @@ mientras se contempla una de las mejores puestas de sol de Granada.
 
 📌 **Más artículos para preparar tu viaje a Granada:** 
 
-{{< reflink path=posts/2020/05/48-horas-en-el-albayzin-y-la-alhambra >}} 
+{{< reflink 48-horas-en-el-albayzin-y-la-alhambra >}} 
 
-{{< reflink path=posts/2020/10/ruta-cultural-granada-de-garcia-lorca >}} 
+{{< reflink ruta-cultural-granada-de-garcia-lorca >}} 
 
-{{< reflink path=posts/2020/10/restaurantes-bares-de-granada-y-visitas-para-mujeres >}} 
+{{< reflink restaurantes-bares-de-granada-y-visitas-para-mujeres >}} 
 
-{{< reflink path=posts/2021/09/curiosidades-hotel-alhambra-palace >}}
+{{< reflink curiosidades-hotel-alhambra-palace >}}

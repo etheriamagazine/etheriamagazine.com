@@ -165,6 +165,6 @@ Valonia](https://visitwallonia.es/) y organizar la ruta según tus intereses.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/12/bruselas-art-nouveau >}} 
+{{< reflink bruselas-art-nouveau >}} 
 
-{{< reflink path=posts/2022/09/que-ver-barrio-europeo-bruselas >}}
+{{< reflink que-ver-barrio-europeo-bruselas >}}

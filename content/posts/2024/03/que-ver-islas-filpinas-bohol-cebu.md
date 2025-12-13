@@ -155,8 +155,7 @@ de sus fiestas y tradiciones.
 
 **También os puede interesar…** 
 
-{{< reflink 
-path=posts/2020/12/todos-los-caminos-llevan-a-filipinas-un-libro-de-mujeres-extraordinarias 
+{{< reflink todos-los-caminos-llevan-a-filipinas-un-libro-de-mujeres-extraordinarias 
 >}}. 
 
-{{< reflink path=posts/2019/06/viaje-parejas-luna-miel-boracay-bohol-filipinas >}}
+{{< reflink viaje-parejas-luna-miel-boracay-bohol-filipinas >}}

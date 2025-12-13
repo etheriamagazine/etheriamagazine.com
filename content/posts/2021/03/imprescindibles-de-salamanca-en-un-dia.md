@@ -181,9 +181,6 @@ Página oficial de Turismo para otras consultas: www.salamanca.es
 
 **También te puede interesar...** 
 
-{{< reflink 
-path=posts/2020/12/10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}. 
+{{< reflink 10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}. 
 
-{{< reflink 
-path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
->}}.
+{{< reflink viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon >}}.

@@ -45,13 +45,13 @@ romana](https://www.civitatis.com/es/tarragona/visita-guiada-tarragona-romana/?a
 ## 3\. Baelo Claudia (Cádiz)
 
 Si quieres combinar cultura con una de las mejores playas de España, tu destino tiene 
-que ser Bolonia, en Tarifa, donde se asoman las ruinas de la antigua {{< reflink 
-path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}}. Una 
-auténtica joya para los amantes de los yacimientos romanos en España, ya que este 
-conjunto arqueológico se encuentra apartado de núcleos urbanos, por lo que la estructura 
-de la ciudad romana y sus elementos son perfectamente reconocibles. Después de 
-recorrerla no te pierdas su centro de interpretación y, después, un paseo por la playa 
-para subir hasta la famosa duna de la playa de Bolonia. 
+que ser Bolonia, en Tarifa, donde se asoman las ruinas de la antigua [Baelo Claudia]({{% 
+ref guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia %}}). Una auténtica joya 
+para los amantes de los yacimientos romanos en España, ya que este conjunto arqueológico 
+se encuentra apartado de núcleos urbanos, por lo que la estructura de la ciudad romana y 
+sus elementos son perfectamente reconocibles. Después de recorrerla no te pierdas su 
+centro de interpretación y, después, un paseo por la playa para subir hasta la famosa 
+duna de la playa de Bolonia. 
 
 ![Viajes con historia, escapadas por España, escapadas de fin de semana](https://fotos.etheriamagazine.com/2020/06/La-coruna-torre-hercules.jpg "La Torre de Hércules en La Coruña. © SG")
 
@@ -80,11 +80,11 @@ hacen que sea el blanco de todas las fotos. Aunque la imagen que tenemos de él 
 atraviesa su casco antiguo, cuenta con más tramos y se puede recorrer para descubrir 
 esta perfecta obra de ingeniería romana. Pero, además, la ciudad de Segovia es perfecta 
 para disfrutar de su gastronomía (no te pierdas el famoso lechazo) y descubrir otros 
-rincones como el {{< reflink 
-path=posts/2020/03/que-ver-interior-precio-entradas-del-alcazar-de-segovia >}}, la 
-catedral, la calle Real o la antigua Judería. No te pierdas sus lugares fundamentales 
-con esta [excursión](https://www.civitatis.com/es/madrid/excursion-segovia/?aid=10211) 
-de Civitatis. 
+rincones como el [Alcázar]({{% ref 
+que-ver-interior-precio-entradas-del-alcazar-de-segovia %}}), la catedral, la calle Real 
+o la antigua Judería. No te pierdas sus lugares fundamentales con esta 
+[excursión](https://www.civitatis.com/es/madrid/excursion-segovia/?aid=10211) de 
+Civitatis. 
 
 ![Viajes con historia, escapadas por España, escapadas de fin de semana](https://fotos.etheriamagazine.com/2020/06/Muralla-Lugo.jpg "Muralla romana de Lugo. © Xosema/CC BY-SA")
 
@@ -135,6 +135,6 @@ conocer su apasionante historia.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}} 
+{{< reflink mejores-yacimientos-arqueologicos-mexico >}} 
 
-{{< reflink path=posts/2019/05/10-yacimientos-arqueologicos-america-latina >}}
+{{< reflink 10-yacimientos-arqueologicos-america-latina >}}

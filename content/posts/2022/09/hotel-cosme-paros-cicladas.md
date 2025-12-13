@@ -82,10 +82,8 @@ Naousa, Paros, Grecia. Tel. +30-210-8993790
 
 **También te puede interesar:** 
 
-{{< reflink 
-path=posts/2020/10/descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas 
->}} 
+{{< reflink descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas >}} 
 
-{{< reflink path=posts/2019/08/que-ver-48-horas-en-rodas-islas-griegas >}} 
+{{< reflink que-ver-48-horas-en-rodas-islas-griegas >}} 
 
-{{< reflink path=posts/2019/01/que-visitar-crucero-por-islas-griegas >}}
+{{< reflink que-visitar-crucero-por-islas-griegas >}}

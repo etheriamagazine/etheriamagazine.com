@@ -26,8 +26,8 @@ forjando parajes de gran belleza. Algunos de éstos se sitúan en entornos donde
 merenderos e incluso servicio de restaurante, una ocasión excepcional para degustar la 
 sabrosa cocina serrana y sus vinos realizados con la uva autóctona, la rufete. 
 
-📍**No te pierdas el artículo:** {{< reflink 
-path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}. 
+📍**No te pierdas el artículo:** [Ruta del Vino de la Sierra de Francia, un brindis con 
+amigas en Salamanca]({{% ref plan-con-amigas-ruta-del-vino-sierra-de-francia %}}). 
 
 ## Piscinas naturales de la Sierra de Francia
 
@@ -144,4 +144,4 @@ calidad y a precios asequibles.
 
 **Sigue leyendo...** 
 
-{{< reflink path=posts/2022/01/bordado-serrano-bien-interes-cultural >}}.
+{{< reflink bordado-serrano-bien-interes-cultural >}}.

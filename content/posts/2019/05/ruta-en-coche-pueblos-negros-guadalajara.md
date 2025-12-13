@@ -185,8 +185,7 @@ Ranas. Tel 949 864 034.
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2020/06/floracion-campos-lavanda-brihuega-guadalajara-2019 >}}. 
+{{< reflink floracion-campos-lavanda-brihuega-guadalajara-2019 >}}. 
 
-{{< reflink 
-path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+{{< reflink viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
 >}}.

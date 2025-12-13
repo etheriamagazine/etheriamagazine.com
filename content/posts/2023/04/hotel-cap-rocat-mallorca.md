@@ -134,8 +134,9 @@ Blava
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/08/24-horas-palma-mallorca-arte-compras-mercados >}} 
+{{< reflink 24-horas-palma-mallorca-arte-compras-mercados >}} 
 
-{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}} 
+{{< reflink planes-y-excursiones-desde-palma-mallorca-con-amigas >}} 
 
-{{< reflink path=posts/2022/10/gastronomia-mallorca >}}
+[10 secretos ‘gastro’ que deberías conocer de Mallorca]({{% ref gastronomia-mallorca 
+%}})

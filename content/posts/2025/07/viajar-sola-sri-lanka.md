@@ -176,8 +176,9 @@ Una opción es unirse a un grupo organizado, antes del viaje o ya en destino.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/02/sri-lanka-para-mujeres-viajeras >}} 
+{{< reflink sri-lanka-para-mujeres-viajeras >}} 
 
-{{< reflink path=posts/2025/02/viajar-sola-a-bali-consejos-sania-jelic >}} 
+{{< reflink viajar-sola-a-bali-consejos-sania-jelic >}} 
 
-{{< reflink path=posts/2025/01/viajar-sola-a-taiwan-consejos-sania-jelic >}}
+[Viajar sola a Taiwán, un planazo de Sania Jelic]({{% ref 
+viajar-sola-a-taiwan-consejos-sania-jelic %}})

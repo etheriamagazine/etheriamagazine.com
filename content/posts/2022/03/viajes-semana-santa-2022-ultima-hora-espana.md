@@ -39,7 +39,8 @@ que parece de otro mundo. Disfruta también de su gastronomía en forma de queso
 asadas y no te pierdas una visita a la Fundación Quebrantahuesos dedicada a proteger a 
 este ave y reintroducirlo en la zona. 
 
-📍 {{< reflink path=posts/2021/12/valle-de-chistau-huesca >}}. 
+📍 [Valle de Chistau, descubre las mejores rutas en el cielo aragonés]({{% ref 
+valle-de-chistau-huesca %}}). 
 
 ![Ibón de Plan.](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-valle-Chistau-Ibon-de-Plan.jpg "Ibón de Plan.")
 
@@ -53,7 +54,8 @@ Nacional de las Tablas de Daimiel o el Parque Nacional de Cabañeros (conocido c
 ‘Serengueti español’) hasta las Lagunas de Ruidera o el paisaje volcánico de Campo de 
 Calatrava. Seguro que querrás repetir. 
 
-📍 {{< reflink path=posts/2020/11/mejores-rutas-en-ciudad-real >}}. 
+📍 [8 razones por las que querrás conocer la provincia de Ciudad Real]({{% ref 
+mejores-rutas-en-ciudad-real %}}). 
 
 ![Pasarela en Las Tablas de Daimiel.](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-ciudad-real-Tablas-de-Daimiel.jpg "Amanecer en Las Tablas de Daimiel (Ciudad Real).")
 
@@ -66,7 +68,8 @@ por el interior de Huelva para un viaje de Semana Santa de última hora: una por
 Tinto**, con unos paisajes tan diferentes a todo que parecen de otro planeta; y otra por 
 la **Serranía** para descubrir sus paisajes del agua. No sabrás cuál elegir. 
 
-📍 {{< reflink path=posts/2022/03/rincones-desconocidos-de-huelva-provincia >}} 
+📍 [Rincones y paisajes de Huelva que aún no conoces.]({{% ref 
+rincones-desconocidos-de-huelva-provincia %}}) 
 
 ![Paisaje rojizo de Riotinto](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-Viajar-a-Marte-Huelva.jpg "Viajar a Marte sin salir de Huelva. © Yolanda Cardo")
 
@@ -81,7 +84,8 @@ senderismo); y por el valle de Arán, con bonitos pueblos y termas. Para termina
 como practicar _rafting_ en las aguas bravas del río Noguera Pallaresa. Un viaje 
 redondo. 
 
-📍 {{< reflink path=posts/2022/02/ruta-en-coche-pirineo-tierras-lleida >}}. 
+📍 [Ruta en coche por el Pirineo y las Tierras de Lleida]({{% ref 
+ruta-en-coche-pirineo-tierras-lleida %}}). 
 
 ![Iglesia románica San Climent en Taüll con el Pirineo al fondo](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-Taull-iglesia-de-Sant-Climent.jpg "Iglesia de Sant Climent, en Taüll. © Pedro Grifol")
 
@@ -94,7 +98,8 @@ valle es la Ruta de los Menhires, llena de curiosidades y secretos. Además, des
 sus iglesias románicas (tan bonitas como la de Santa Olalla), una calzada romana y 
 castillos llenos de historia. 
 
-📍 {{< reflink path=posts/2021/06/que-ver-en-valle-de-valdeolea-cantabria >}}. 
+📍 [Valle de Valdeolea, 9 rituales para descubrir la esencia del sur de Cantabria]({{% 
+ref que-ver-en-valle-de-valdeolea-cantabria %}}). 
 
 ![Menhir en un campo de flores en el valle de Valdeolea](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-cantabria-valdeolea-menhir.jpg "Menhir en el valle de Valdeolea.")
 
@@ -107,7 +112,8 @@ En tu viaje no pueden faltar las cuatro localidades imprescindibles de esta ruta
 Alcázar de San Juan, Argamasilla de Alba, Campo de Criptana y El Toboso. Y, además, es 
 un viaje perfecto para realizar con niños. 
 
-📍 {{< reflink path=posts/2021/01/ruta-del-quijote-en-familia-por-la-mancha >}}. 
+📍 [Ruta del Quijote, en familia por La Mancha]({{% ref 
+ruta-del-quijote-en-familia-por-la-mancha %}}). 
 
 ![Molinos de Campo de Criptana.](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-ruta-quijote-campo-criptana.jpg "Molinos de Campo de Criptana.")
 
@@ -121,7 +127,8 @@ iglesias y reservas naturales como la de Horcajo. Pero, sobre todo, es uno de es
 lugares para disfrutar del mundo rural y la tranquilidad de tomar un aperitivo y dar 
 largos paseos sin ninguna prisa. 
 
-📍 {{< reflink path=posts/2020/08/valle-tietar-sotillo-adrada-piedralaves >}}. 
+📍 [El valle del Tiétar, la Marbella interior]({{% ref 
+valle-tietar-sotillo-adrada-piedralaves %}}). 
 
 ![Dos personas entrando al castillo de La Adrada](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-castillo-adrada.jpg "Entrada del castillo de La Adrada. © Etheria Magazine")
 
@@ -134,7 +141,8 @@ Además de **Pamplona**, que es en sí misma un viaje, tenéis que apuntar lugar
 **Etxalar**, en el precioso valle del Bidasoa, el museo del famoso levantador de piedras 
 Iñaki Perurena, el valle de Leitzaran, el valle de Sakana o la localidad de Olite. 
 
-📍 {{< reflink path=posts/2021/12/planes-en-navarra-con-amigas >}}. 
+📍 [Planes increíbles por los que querrás viajar a Navarra]({{% ref 
+planes-en-navarra-con-amigas %}}). 
 
 ![paisaje de prados en el Valle de Bidasoa](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-paisajes-del-valle-del-Bidasoa.jpg "Valle de Bidasoa. © Yolanda Cardo")
 
@@ -147,7 +155,8 @@ Mwinas o descubrir la historia más antigua en el Parque Geológico de Aliaga. �
 en Teruel se pueden recorrer 63 kilómetros de la **carretera del Silencio**? Seguro que 
 con este nombre hemos despertado tu curiosidad. 
 
-📍 {{< reflink path=posts/2021/10/ruta-en-coche-por-teruel >}}. 
+📍 [Ruta en coche por Teruel, 10 paradas por carreteras secundarias]({{% ref 
+ruta-en-coche-por-teruel %}}). 
 
 ### 9\. Teruel
 
@@ -163,14 +172,15 @@ bandoleros. Observa su flora, en la que destacan el pinsapo y el castaño, y su 
 con la cabra montesa y las aves como protagonistas. Por cierto, aquí podrás contemplar 
 una de las puestas de sol más bonitas que puedas imaginar. 
 
-📍 {{< reflink path=posts/2021/06/revista-viajes-que-ver-parque-sierra-de-nieves >}}. 
+📍 [Parque Nacional Sierra de las Nieves, una nueva estrella brilla en Málaga]({{% ref 
+revista-viajes-que-ver-parque-sierra-de-nieves %}}). 
 
 ![Atardecer en la Sierra de las Nieves (Málaga).](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-puesta-sol-sierra-nieves.jpg "Atardecer en la Sierra de las Nieves (Málaga).")
 
 ✅ **Más viajes en Etheria Magazine** 
 
-{{< reflink path=posts/2020/02/10-viajes-en-espana-para-semana-santa-en-familia >}} 
+{{< reflink 10-viajes-en-espana-para-semana-santa-en-familia >}} 
 
-{{< reflink path=posts/2021/03/como-preparar-torrijas-postres-semana-santa >}} 
+{{< reflink como-preparar-torrijas-postres-semana-santa >}} 
 
-{{< reflink path=posts/2021/09/viajes-con-amigas-por-espana-costa-e-interior >}}
+{{< reflink viajes-con-amigas-por-espana-costa-e-interior >}}

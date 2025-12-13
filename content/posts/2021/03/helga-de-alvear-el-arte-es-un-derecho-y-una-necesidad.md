@@ -187,14 +187,10 @@ domingos de 10 a 14.30 h. Cerrado lunes y festivos.
 
 ## También en Cáceres...
 
-{{< reflink 
-path=posts/2020/05/escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica >}}. 
+{{< reflink escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica >}}. 
 
-{{< reflink 
-path=posts/2020/06/viajes-por-espana-alle-del-jerte-piscinas-naturales-cerezas >}}. 
+{{< reflink viajes-por-espana-alle-del-jerte-piscinas-naturales-cerezas >}}. 
 
-{{< reflink path=posts/2020/07/viajes-espana-las-hurdes-un-paraiso-extremeno >}}. 
+{{< reflink viajes-espana-las-hurdes-un-paraiso-extremeno >}}. 
 
-{{< reflink 
-path=posts/2021/01/ruta-por-los-11-pueblos-elegidos-como-los-mas-bonitos-de-espana-en-2021 
->}}.
+{{< reflink ruta-por-los-11-pueblos-elegidos-como-los-mas-bonitos-de-espana-en-2021 >}}.

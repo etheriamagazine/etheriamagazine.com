@@ -84,8 +84,8 @@ habitación doble.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/08/10-planes-comarca-ampurdan-costa-brava >}} 
+{{< reflink 10-planes-comarca-ampurdan-costa-brava >}} 
 
-{{< reflink path=posts/2019/05/pueblos-imprescindibles-viaje-amigas-costa-brava >}} 
+{{< reflink pueblos-imprescindibles-viaje-amigas-costa-brava >}} 
 
-{{< reflink path=posts/2022/10/lugares-imprescindibles-en-girona >}}
+{{< reflink lugares-imprescindibles-en-girona >}}

@@ -169,6 +169,6 @@ calma de los mejores atardeceres de Madrid. **Dónde: Plaza de Cibeles, 1.**
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2024/04/ruta-lola-flores-en-madrid >}} 
+{{< reflink ruta-lola-flores-en-madrid >}} 
 
-{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}}
+{{< reflink tabernas-historicas-de-madrid >}}

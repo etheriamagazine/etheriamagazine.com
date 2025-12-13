@@ -57,7 +57,8 @@ Huston y Stark para convencerla de actuar en la película, ya que ella en un pri
 tenía demasiadas ganas y estaba contenta con su dilatada vida de Madrid. 
 
 📍Puedes conocer más sobre la intensa vida de **Ava Gardner en Madrid** en nuestro 
-artículo {{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}. 
+artículo [Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer ‘alfa’]({{% 
+ref ruta-ava-gardner-en-madrid %}}). 
 
 ![Richard Burton y Elizabeth Taylor en una entrega de premios en Italia, Ava Gardner y Sue Lyon.](https://fotos.etheriamagazine.com/2023/05/puerto-vallarta-noche-iguana.jpg 'Algunos de los protagonistas de "La noche de la iguana": Richard Burton con Elizabeth Taylor en una entrega de premios en Italia, Ava Gardner y Sue Lyon. © Wikimedia Commons')
 
@@ -220,8 +221,8 @@ saludando a un tigre feroz o pilotando un avión.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}} 
+{{< reflink mejores-yacimientos-arqueologicos-mexico >}} 
 
-{{< reflink path=posts/2018/05/en-el-mexico-de-coco >}} 
+{{< reflink en-el-mexico-de-coco >}} 
 
-{{< reflink path=posts/2022/07/que-ver-merida-yucatan-mexico >}}
+{{< reflink que-ver-merida-yucatan-mexico >}}

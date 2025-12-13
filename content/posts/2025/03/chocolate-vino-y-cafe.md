@@ -91,4 +91,4 @@ a Milton S. Hershey, fundador de la famosa compañía de chocolates Hershey.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2020/09/donde-tomar-mejores-postres-chocolate-en-madrid >}}.
+{{< reflink donde-tomar-mejores-postres-chocolate-en-madrid >}}.

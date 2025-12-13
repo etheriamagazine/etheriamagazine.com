@@ -236,8 +236,8 @@ Avianca](https://ayuda.avianca.com/hc/es/articles/13083098505627--Puedo-llevar-l
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2023/04/que-llevar-maleta-punta-cana >}}. 
+{{< reflink que-llevar-maleta-punta-cana >}}. 
 
-{{< reflink path=posts/2023/02/que-llevar-en-la-maleta-egipto >}}. 
+{{< reflink que-llevar-en-la-maleta-egipto >}}. 
 
-{{< reflink path=posts/2022/09/que-llevar-maleta-argentina >}}.
+{{< reflink que-llevar-maleta-argentina >}}.

@@ -203,10 +203,10 @@ originales, con las infinitas revisiones y correcciones del autor.
 
 ### También te puede interesar en Irlanda...
 
-{{< reflink path=posts/2021/03/san-patricio-eventos-espana-2021 >}} {{< reflink 
-path=posts/2021/03/san-patricio-eventos-espana-2021 >}}{{< reflink 
-path=posts/2021/03/san-patricio-eventos-espana-2021 >}}. 
+[San Patricio, la gran fiesta irlandesa, se celebra en]({{% ref 
+san-patricio-eventos-espana-2021 %}}) [c]({{% ref san-patricio-eventos-espana-2021 
+%}})[asa este año]({{% ref san-patricio-eventos-espana-2021 %}}). 
 
-{{< reflink path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte >}}. 
+{{< reflink juego-de-tronos-en-irlanda-del-norte >}}. 
 
-{{< reflink path=posts/2020/04/viaje-sligo-ruta-yeats-maud-gonne >}}.
+{{< reflink viaje-sligo-ruta-yeats-maud-gonne >}}.

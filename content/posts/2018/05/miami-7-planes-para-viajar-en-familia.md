@@ -133,6 +133,6 @@ increíbles de la bahía y una carta muy recomendable (con menú infantil).
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/07/8-planes-con-ninos-en-nueva-york >}} 
+{{< reflink 8-planes-con-ninos-en-nueva-york >}} 
 
-{{< reflink path=posts/2018/05/crucero-familia-disney-bahamas >}}
+{{< reflink crucero-familia-disney-bahamas >}}

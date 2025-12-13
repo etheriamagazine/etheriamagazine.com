@@ -69,14 +69,14 @@ son Prenzlauer Berg y Friedrichshaim, además de la zona LGBTQ de Schöneberg.
 
 ### Hamburgo
 
-{{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}}, la 
-ciudad con el mayor puerto de Alemania, será la sede más al norte de la Eurocopa. Ciudad 
-industrial y vibrante, su perfil está determinado por la Elbphilharmonie y su forma de 
-ola gigante, un lugar inigualable para ver un concierto, tan imprescindible como un 
-paseo por los canales de Speicherstadt con sus características casas y almacenes de 
-ladrillo rojo. Tampoco puedes perderte la iglesia de San Miguel o tomar algo por la 
-mañana en el Mercado de pescado de Altona. La zona para los aficionados se establecerá 
-en **Heiligengeistfeld** en el corazón del distrito de St. Pauli, con acceso gratuito, 
+[Hamburgo]({{% ref que-ver-hacer-fin-de-semana-hamburgo-alemania %}}), la ciudad con el 
+mayor puerto de Alemania, será la sede más al norte de la Eurocopa. Ciudad industrial y 
+vibrante, su perfil está determinado por la Elbphilharmonie y su forma de ola gigante, 
+un lugar inigualable para ver un concierto, tan imprescindible como un paseo por los 
+canales de Speicherstadt con sus características casas y almacenes de ladrillo rojo. 
+Tampoco puedes perderte la iglesia de San Miguel o tomar algo por la mañana en el 
+Mercado de pescado de Altona. La zona para los aficionados se establecerá en 
+**Heiligengeistfeld** en el corazón del distrito de St. Pauli, con acceso gratuito, 
 proyección de los partidos y zona de entretenimiento en un club de playa. 
 
 ![Elbphilharmonie en Hamburgo.](https://fotos.etheriamagazine.com/2024/04/Hamburg-eurocopa-Elbphilharmonie.jpg "Elbphilharmonie en Hamburgo. © Francesco Carovillano/GNTB.")
@@ -218,7 +218,6 @@ Alemania](https://www.germany.travel/es/inspiring-germany/verano-de-futbol-en-al
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/12/viaje-berlin-2023 >}} 
+{{< reflink viaje-berlin-2023 >}} 
 
-{{< reflink path=posts/2021/08/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable 
->}}
+{{< reflink munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable >}}

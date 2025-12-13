@@ -195,6 +195,6 @@ Brabant](http://www.civitatis.com/es/rio-negro/trekking-morne-brabant/?aid=10211
 
 **También te puede interesar en isla Mauricio:** 
 
-{{< reflink path=posts/2024/11/hotel-heritage-le-telfair-isla-mauricio >}} 
+{{< reflink hotel-heritage-le-telfair-isla-mauricio >}} 
 
-{{< reflink path=posts/2019/03/viajes-mujeres-mejores-planes-en-mauricio >}}
+{{< reflink viajes-mujeres-mejores-planes-en-mauricio >}}

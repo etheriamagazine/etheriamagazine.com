@@ -158,4 +158,4 @@ improvisado bar.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2018/11/viaja-a-brasil-sin-mitos-ni-prejuicios >}}.
+{{< reflink viaja-a-brasil-sin-mitos-ni-prejuicios >}}.

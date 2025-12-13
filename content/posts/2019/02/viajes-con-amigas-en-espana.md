@@ -31,7 +31,8 @@ el coche y combina a la perfección su intensa vida cultural con el tapeo y los 
 copas. No te pierdas los museos Carmen Thyssen y el Museo Picasso, unas cañas en El 
 Pimpi y una tarde en los baños árabes. 
 
-✅ {{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}} 
+✅ [Málaga con amigas, el fin de semana que os merecéis]({{% ref 
+fin-de-semana-con-amigas-en-malaga %}}) 
 
 ![El Cubo, cara visible del Centre Poumpidour Málaga.](https://fotos.etheriamagazine.com/2018/11/Malaga-centro-pompidou.jpg "El Cubo, cara visible del Centre Poumpidour Málaga.")
 
@@ -41,7 +42,8 @@ A Valencia también se llega en un momento desde muchos lugares de España y est
 siempre ofrece cosas nuevas. Disfruta de su buen clima y descubre en nuestro reportaje 
 Valencia con amigas lugares diferentes, fuera de las rutas turísticas habituales. 
 
-✅ {{< reflink path=posts/2018/12/un-viaje-a-valencia-con-amigas >}} 
+✅ [Escapada a Valencia con amigas en invierno]({{% ref un-viaje-a-valencia-con-amigas 
+%}}) 
 
 ![Palau Alameda, en Valencia.](https://fotos.etheriamagazine.com/2018/11/valencia-con-amigas-Palau-Alameda.jpg "Palau Alameda, en Valencia.")
 
@@ -53,7 +55,7 @@ descubre además por qué es tan famoso su Barrio Húmedo, uno de los templos es
 tapeo. Encontrarás todas las propuestas para viajar con amigas en nuestro 48 horas en 
 León. 
 
-✅ {{< reflink path=posts/2018/09/48-horas-en-leon >}} 
+✅ [Enamórate de León en sólo 48 horas]({{% ref 48-horas-en-leon %}}) 
 
 ![Calle Ancha (León).](https://fotos.etheriamagazine.com/2018/09/Leon-calle-ancha.jpg "Calle Ancha (León).")
 
@@ -65,7 +67,8 @@ os llevará por el valle de Najerilla, la Rioja Media y los valles de Cidacos y 
 Si no te da tiempo a verlo todo en un fin de semana ¿quién se resiste a volver para 
 probar los platos tradicionales y los vinos de La Rioja? 
 
-✅ {{< reflink path=posts/2019/01/ruta-gastronomica-en-la-rioja >}} 
+✅ [Ruta por el paisaje gastronómico de La Rioja]({{% ref ruta-gastronomica-en-la-rioja 
+%}}) 
 
 ![monasterio de valvanera en  La Rioja](https://fotos.etheriamagazine.com/2019/01/viaje-la-rioja-Monasterio-Valvanera.jpg "Monasterio de Valvanera.")
 
@@ -77,7 +80,8 @@ en coche los maravillosos paisajes del **Cabo de Gata** y, por qué no, sentiros
 protagonistas de una película del oeste en Fort Bravo o en una excursión por el desierto 
 de Tabernas. 
 
-✅ {{< reflink path=posts/2021/04/que-ver-en-almeria-en-temporada-baja >}} 
+✅ [Planes en Almería para una escapada en clave slow]({{% ref 
+que-ver-en-almeria-en-temporada-baja %}}) 
 
 ![Paisaje del Parque Natural Cabo de Gata-Níjar, en Almería.](https://fotos.etheriamagazine.com/2018/11/Almeria-cabo-de-gata.jpg "Paisaje del Parque Natural Cabo de Gata-Níjar, en Almería.")
 
@@ -88,10 +92,11 @@ la DO Ribera del Duero. Circular entre viñas y bodegas como
 [Protos](https://www.bodegasprotos.com/es/), Vega Sicilia, Arzuaga Navarro o Abadía 
 Retuerta y tendréis que turnaros para conducir porque es imposible resistirse a los 
 caldos de la zona. Y si queréis que la escapada sea redonda, tenéis que alojaros sí o sí 
-en el {{< reflink 
-path=posts/2018/09/escapada-para-chicas-en-castilla-termal-monasterio-de-valbuena >}}. 
+en el [Castilla Termal Monasterio de Valbuena]({{% ref 
+escapada-para-chicas-en-castilla-termal-monasterio-de-valbuena %}}). 
 
-✅ {{< reflink path=posts/2018/05/ruta-del-vino-ribera-del-duero-valladolid >}} 
+✅ [Ruta por Ribera del Duero: de bodega en bodega por la N-122]({{% ref 
+ruta-del-vino-ribera-del-duero-valladolid %}}) 
 
 ![Bodejas Protos bajo el castillo de Peñafiel.](https://fotos.etheriamagazine.com/2018/05/Protos-bodegas-bajo-el-castillo-de-penafiel.jpg "Bodejas Protos bajo el castillo de Peñafiel.")
 
@@ -103,7 +108,8 @@ Frontera, Arcos de la Frontera o Grazalema. En cualquier caso os sorprenderéis 
 belleza de sus casas encaladas y podréis disfrutar de la gastronomía de la zona. Haz 
 clic en el link superior para teletransportarte. 
 
-✅ {{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}} 
+✅ [Ruta en coche por 12 preciosos pueblos blancos de Cádiz]({{% ref 
+ruta-por-los-pueblos-blancos-de-cadiz %}}) 
 
 ![Grazalema, en la ruta de los pueblos blancos de Cádiz.](https://fotos.etheriamagazine.com/2018/10/7-Grazalema-pueblos-blancos-cadizs.jpg "Grazalema, en la ruta de los pueblos blancos de Cádiz.")
 
@@ -115,12 +121,14 @@ sin dejar de ofrecer calas increíbles y animados restaurantes y locales de moda
 os queréis perder en un lugar muy parecido al paraíso, aunque exija un traslado más 
 largo, vuestro destino es Formentera. 
 
-✅ {{< reflink path=posts/2018/11/15-tips-para-disfrutar-de-menorca-fuera-de-temporada 
->}} 
+✅ [15 tips para disfrutar de Menorca fuera de temporada]({{% ref 
+15-tips-para-disfrutar-de-menorca-fuera-de-temporada %}}) 
 
-✅ {{< reflink path=posts/2021/11/planes-viaje-a-ibiza-en-invierno >}} 
+✅ [Ibiza en invierno también merece una escapada]({{% ref 
+planes-viaje-a-ibiza-en-invierno %}}) 
 
-✅ {{< reflink path=posts/2023/04/formentera-con-amigas >}} 
+✅ [Formentera con amigas, planes imprescindibles para una escapada perfecta]({{% ref 
+formentera-con-amigas %}}) 
 
 ![compras mercadillo formentera](https://fotos.etheriamagazine.com/2018/07/compras-formentera-mercadillo-mola-4.jpeg "De compras en Formentera. © Alfredo Montero/ Illesbalears.travel")
 
@@ -132,9 +140,11 @@ menos de tres horas en llegar en avión. Y tienes la primavera disponible en cua
 activo en Gran Canaria** o coged un coche de alquiler en **Lanzarote** para recorrer sus 
 bellos paisajes volcánicos. 
 
-✅ {{< reflink path=posts/2018/05/senderismo-gran-canaria-banos-de-bosque >}} 
+✅ [Senderismo y baños de bosque en Gran Canaria]({{% ref 
+senderismo-gran-canaria-banos-de-bosque %}}) 
 
-✅ {{< reflink path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}} 
+✅ [7 planes esenciales en Lanzarote con amigas]({{% ref 
+viajar-sola-amigas-imprescindible-lanzarote %}}) 
 
 ![Paisaje de viñedos en Lanzarote.](https://fotos.etheriamagazine.com/2018/09/La-Geria-Lanzarote.jpg "Paisaje de viñedos en Lanzarote.")
 
@@ -148,12 +158,16 @@ aunque es probable que al día siguiente tengan que esperar los museos y monumen
 directamente despiertes para disfrutar de una **ruta de tapas** por el centro de la 
 capital. 
 
-✅ {{< reflink path=posts/2023/09/que-hacer-con-amigas-madrid-otono >}} 
+✅ [Qué hacer con amigas en Madrid este otoño e invierno]({{% ref 
+que-hacer-con-amigas-madrid-otono %}}) 
 
-✅ {{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}} 
+✅ [10 planes originales en Madrid para hacer con amigas]({{% ref 
+10-planes-originales-en-madrid-con-amigas %}}) 
 
-✅ {{< reflink path=posts/2019/10/10-mejores-coctelerias-de-madrid-salir-con-amigas >}} 
+✅ [Las 10 mejores coctelerías de Madrid para tu próxima noche de amigas]({{% ref 
+10-mejores-coctelerias-de-madrid-salir-con-amigas %}}) 
 
-✅ {{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}} 
+✅ [10 tabernas históricas de Madrid donde tomar el vermú]({{% ref 
+tabernas-historicas-de-madrid %}}) 
 
 ![Puri de pinchadiscos en Medias Puri](https://fotos.etheriamagazine.com/2018/06/MEDIAS-PURI-PH-Lighuen-Desanto-86.jpg "© Medias Puri, la mercería más famosa de Madrid.")

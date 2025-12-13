@@ -129,6 +129,6 @@ partir de residuos plásticos.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/07/que-llevar-en-cabina >}} 
+{{< reflink que-llevar-en-cabina >}} 
 
-{{< reflink path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}}
+{{< reflink 10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}}

@@ -139,7 +139,6 @@ del parque y de sus muchos y seductores senderos.
 
 - Más información en [www.efigenialagomera.com](https://www.efigenialagomera.com/) 
 
-{{< reflink path=posts/2021/04/10-secretos-para-conocer-la-isla-de-la-palma >}} 
+{{< reflink 10-secretos-para-conocer-la-isla-de-la-palma >}} 
 
-{{< reflink 
-path=posts/2020/08/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}}.
+{{< reflink la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}}.

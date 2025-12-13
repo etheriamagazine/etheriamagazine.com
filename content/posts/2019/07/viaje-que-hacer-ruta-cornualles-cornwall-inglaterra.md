@@ -134,9 +134,8 @@ que estar siempre alerta de la gula de las gaviotas.
 
 ### También te puede interesar:
 
-{{< reflink 
-path=posts/2019/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}} 
+{{< reflink de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}} 
 
-{{< reflink path=posts/2019/08/viajar-con-amigas-ruta-coche-gales >}} 
+{{< reflink viajar-con-amigas-ruta-coche-gales >}} 
 
-{{< reflink path=posts/2021/04/los-mejores-jardines-de-gran-bretana >}}
+{{< reflink los-mejores-jardines-de-gran-bretana >}}

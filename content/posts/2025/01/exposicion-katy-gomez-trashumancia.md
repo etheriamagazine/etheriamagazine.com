@@ -103,6 +103,6 @@ preservar nuestras raíces.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2021/02/biografia-y-ruta-frida-kahlo-mexico >}}. 
+{{< reflink biografia-y-ruta-frida-kahlo-mexico >}}. 
 
-{{< reflink path=posts/2024/11/bruselas-por-amor-al-arte >}}.
+{{< reflink bruselas-por-amor-al-arte >}}.

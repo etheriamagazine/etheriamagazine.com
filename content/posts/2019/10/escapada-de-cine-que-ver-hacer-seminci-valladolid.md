@@ -132,4 +132,4 @@ y el hotel Mozart (calle Ménendez Pelayo, 7) son dos muy buenas opciones.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/01/bares-imprescindibles-finde-valladolid >}}
+{{< reflink bares-imprescindibles-finde-valladolid >}}

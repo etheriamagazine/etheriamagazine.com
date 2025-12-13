@@ -222,9 +222,9 @@ cancerígeno. El gobierno está intentando limitarlo.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2025/02/viajar-sola-a-bali-consejos-sania-jelic >}} 
+{{< reflink viajar-sola-a-bali-consejos-sania-jelic >}} 
 
-{{< reflink path=posts/2025/01/viajar-sola-a-taiwan-consejos-sania-jelic >}}{{< reflink 
-path=posts/2025/01/viajar-sola-a-taiwan-consejos-sania-jelic >}} 
+[Viajar sola a Taiwán, un planaz]({{% ref viajar-sola-a-taiwan-consejos-sania-jelic 
+%}})[o de Sania Jelic]({{% ref viajar-sola-a-taiwan-consejos-sania-jelic %}}) 
 
-{{< reflink path=posts/2025/03/consejos-de-sania-jelic-para-viajar-sola-a-laos >}}
+{{< reflink consejos-de-sania-jelic-para-viajar-sola-a-laos >}}

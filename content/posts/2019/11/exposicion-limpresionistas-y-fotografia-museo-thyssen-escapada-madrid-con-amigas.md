@@ -55,6 +55,6 @@ También merece la pena acercarse al trabajo de fotógrafos como Gustave Le Gray
 
 • Horario: de martes a domingo de 10 a 19 h (los sábados la exposición se puede visitar hasta las 21 h).
 
-• Recuerda que el Museo Thyssen-Bornemisza de Madrid es perfecto para, al terminar al visita, disfrutar del Madrid más auténtico con una {{< reflink path=posts/2018/12/de-canas-por-el-madrid-de-los-austrias-y-de-las-letras >}}.
+• Recuerda que el Museo Thyssen-Bornemisza de Madrid es perfecto para, al terminar al visita, disfrutar del Madrid más auténtico con una [ruta de cañas por la capital]({{% ref de-canas-por-el-madrid-de-los-austrias-y-de-las-letras %}}).
 
 © Todas las fotografías han sido cedidas por el Museo Thyssen-Bornemisza de Madrid.

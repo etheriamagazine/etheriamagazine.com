@@ -94,6 +94,6 @@ FB): [@hilandomapas](https://www.instagram.com/hilandomapas/)
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2022/03/ayuda-mujeres-emprendedoras-turismo >}}. 
+{{< reflink ayuda-mujeres-emprendedoras-turismo >}}. 
 
-{{< reflink path=posts/2024/04/tres-barrios-viena-con-emprendedoras >}}.
+{{< reflink tres-barrios-viena-con-emprendedoras >}}.

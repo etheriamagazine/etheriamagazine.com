@@ -92,13 +92,12 @@ del tiempo al ver como la luz cambia sus perfiles.
 Frente al irlandés condado de Kerry, las islas Skellig supusieron el fin del mundo 
 conocido hasta el Medievo. Sus perfiles, agrestes como pirámides, suponían el territorio 
 más occidental y sus siluetas rocosas una señal de conexión con el más allá. Al menos 
-para la comunidad de monjes ascetas que habitó en {{< reflink 
-path=posts/2019/09/como-organizar-excursion-precio-islas-skellig-michael-irlanda >}} la 
-principal de las dos pequeñas islas. Hoy día se han convertido en un atractivo destino 
-turístico, al que el mar del Norte no deja acercarse fácilmente y mucho menos 
-desembarcar por la mala climatología que gobierna el entorno. Bajo las **luces de 
-tormenta** parecen el enclave perfecto para aprender de la dificultad y vivir más 
-alineados con la naturaleza. 
+para la comunidad de monjes ascetas que habitó en [**Skellig Michael**,]({{% ref 
+como-organizar-excursion-precio-islas-skellig-michael-irlanda %}}) la principal de las 
+dos pequeñas islas. Hoy día se han convertido en un atractivo destino turístico, al que 
+el mar del Norte no deja acercarse fácilmente y mucho menos desembarcar por la mala 
+climatología que gobierna el entorno. Bajo las **luces de tormenta** parecen el enclave 
+perfecto para aprender de la dificultad y vivir más alineados con la naturaleza. 
 
 > Aves marinas como alcatraces atlánticos (la isla Little Skellig acoge su mayor colonia) 
 > y frailecillos saben hacer buen uso de la tenacidad en un lugar donde merece la pena el 
@@ -123,9 +122,8 @@ que ha sido declarado **Paraíso Starlight.**
 
 **También te puede interesar...** 
 
-{{< reflink 
-path=posts/2019/09/como-organizar-excursion-precio-islas-skellig-michael-irlanda >}} 
+{{< reflink como-organizar-excursion-precio-islas-skellig-michael-irlanda >}} 
 
-{{< reflink path=posts/2020/12/mejores-cataratas-del-mundo >}}. 
+{{< reflink mejores-cataratas-del-mundo >}}. 
 
-{{< reflink path=posts/2020/05/viaje-a-los-mejores-faros-de-cantabria >}}
+{{< reflink viaje-a-los-mejores-faros-de-cantabria >}}

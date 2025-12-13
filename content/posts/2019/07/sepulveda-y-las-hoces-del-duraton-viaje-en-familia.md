@@ -129,12 +129,12 @@ Vado del Duratón** (vadodelduraton.com) o alguna de sus casas rurales
 ### Dónde comer
 
 Sepúlveda es conocida por sus excelentes asadores de lechazo. Acertarás seguro con El 
-Fogón de Tinín (uno de nuestros asadores elegidos en la {{< reflink 
-path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
->}}) o El Figón de Ismael. Eso sí, reserva con tiempo. Para tomar el aperitivo, es 
-obligatoria una parada en La Cocina de Paulino para probar sus pinchos y, para merendar, 
-no podrás evitar pecar con las pastas tradicionales y las tortas de nueces de la 
-**pastelería El Castillo**, en la Plaza Mayor. 
+Fogón de Tinín (uno de nuestros asadores elegidos en la [ruta del lechazo]({{% ref 
+viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon %}})) o El Figón de 
+Ismael. Eso sí, reserva con tiempo. Para tomar el aperitivo, es obligatoria una parada 
+en La Cocina de Paulino para probar sus pinchos y, para merendar, no podrás evitar pecar 
+con las pastas tradicionales y las tortas de nueces de la **pastelería El Castillo**, en 
+la Plaza Mayor. 
 
 ### Cómo organizar la ruta
 
@@ -171,7 +171,6 @@ Más información en la Oficina de Turismo de Sepúlveda (turismodesepulveda.es)
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/03/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia 
->}} 
+{{< reflink 15-lugares-imprescindibles-que-ver-en-segovia-y-provincia >}} 
 
-{{< reflink path=posts/2021/06/ruta-senderista-acueducto-segovia >}}
+{{< reflink ruta-senderista-acueducto-segovia >}}

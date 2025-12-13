@@ -85,8 +85,8 @@ La visita de Abu Simbel se puede realizar como una **excursión de un día desde
 quiere disfrutar de espectáculo de luz y sonido por la noche y para poder llegar a los 
 templos a primera hora, justo antes de amanecer. 
 
-✅ Para seguir leyendo: {{< reflink 
-path=posts/2023/06/como-organizar-una-visita-a-abu-simbel >}}. 
+✅ Para seguir leyendo: [Cómo y por qué organizar una visita a Abu Simbel]({{% ref 
+como-organizar-una-visita-a-abu-simbel %}}). 
 
 📍 Excursiones organizadas: [Excursión a Abu 
 Simbel.](https://www.civitatis.com/es/asuan/excursion-abu-simbel/?aid=10211) [Excursión 
@@ -115,8 +115,8 @@ arqueológico necesitarás al menos un día completo, aunque si quieres profundi
 visita, ver el espectáculo nocturno de luz y sonido y añadir el conjunto arqueológico de 
 la **Pequeña Petra** (muy recomendable) será mejor dedicarle dos días. 
 
-✅ Para seguir leyendo: {{< reflink 
-path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}. 
+✅ Para seguir leyendo: [Jordania, visitas y consejos imprescindibles para tu primer 
+viaje]({{% ref jordania-visitas-imprescindibles-y-consejos-si-viajas-sola %}}). 
 
 📍 Excursiones organizadas: [Tour por 
 Petra.](https://www.civitatis.com/es/petra/tour-petra/?aid=10211) 
@@ -163,8 +163,8 @@ excavar) entre las que destacan, además de la Pirámide de Kukulkán, El Caraco
 de Pelota, el Templo de los Guerreros o el Templo de los Jaguares. Tendrás que dedicarle 
 un día completo para recorrerlo a conciencia y no perderte nada. 
 
-✅ Para seguir leyendo sobre la zona: {{< reflink 
-path=posts/2022/02/excursiones-en-riviera-maya-mexico >}} 
+✅ Para seguir leyendo sobre la zona: [10 excursiones para descubrir la Riviera Maya]({{% 
+ref excursiones-en-riviera-maya-mexico %}}) 
 
 📍 Visitas organizadas: [Tour privado por Chichén 
 Itzá.](https://www.civitatis.com/es/chichen-itza/tour-privado-chichen-itza/?aid=10211) 
@@ -208,8 +208,8 @@ visita se cobra una única entrada. Los moáis más visitados son los de **Ahu T
 pero también se puede hacer alguna ruta de senderismo por caminos señalizados para 
 descubrir alguno de los más de doscientos que aparecen más escondidos. O visitar la 
 cantera de la que se extraían y donde permanece el más grande de todos y que nunca fue 
-despegado de la roca. ✅ Para seguir leyendo: {{< reflink 
-path=posts/2019/02/viaje-misterios-isla-pascua >}} 
+despegado de la roca. ✅ Para seguir leyendo: [Isla de Pascua, el misterio de los moáis y 
+su ‘mana’.]({{% ref viaje-misterios-isla-pascua %}}) 
 
 📍 Excursiones organizadas: [Tour por la isla de Pascua y la playa de 
 Anakena.](https://www.civitatis.com/es/isla-de-pascua/tour-isla-de-pascua-anakena/?aid=10211) 
@@ -231,8 +231,8 @@ web](https://colosseo.it/es/horarios-y-entradas/) para no esperar demasiado. Se 
 visitar tanto el graderío como el hipogeo, las galerías subterráneas donde se preparaban 
 los espectáculos. 
 
-✅ Para seguir leyendo: {{< reflink 
-path=posts/2022/07/15-lugares-imprescindibles-que-ver-en-roma >}}. 
+✅ Para seguir leyendo: [15 lugares imprescindibles que ver en Roma]({{% ref 
+15-lugares-imprescindibles-que-ver-en-roma %}}). 
 
 📍 Excursiones organizadas: [Visita guiada por el 
 Coliseo.](https://www.civitatis.com/es/roma/visita-guiada-coliseo/?aid=10211) 
@@ -283,6 +283,7 @@ Atenas.](https://www.civitatis.com/es/atenas/entrada-acropolis-atenas/?aid=10211
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/05/10-yacimientos-arqueologicos-america-latina >}} 
+{{< reflink 10-yacimientos-arqueologicos-america-latina >}} 
 
-{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}}
+[10 yacimientos arqueológicos de México que no puedes perderte]({{% ref 
+mejores-yacimientos-arqueologicos-mexico %}})

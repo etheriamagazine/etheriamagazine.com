@@ -50,9 +50,10 @@ Perdámonos... perdámonos en nuestro viaje a Cagliari con amigas por esas calle
 pequeñas plazas a la sombra. Paseemos por esos callejones convertidos en improvisados 
 jardines llenos de macetas, lugares que huelen a sopa y donde las motos circulan con 
 inaudita precisión. Igual que sucede en la otra dama del sur, Nápoles (no te pierdas: 
-{{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}}), también aquí, a 
-cielo abierto, los vecinos exhiben balcones llenos de ristras de tomates o de 
-calzoncillos del abuelo. Autenticidad, desde luego, no falta. 
+[48 horas en Nápoles, la ciudad más canalla de Italia]({{% ref 
+que-ver-en-napoles-en-fin-de-semana %}})), también aquí, a cielo abierto, los vecinos 
+exhiben balcones llenos de ristras de tomates o de calzoncillos del abuelo. 
+Autenticidad, desde luego, no falta. 
 
 ![museo arqueologico de cagliari en cerdena](https://fotos.etheriamagazine.com/2020/09/viajar-con-amigas-Cagliari-Museo-Arqueologico.jpg "Museo Archeologico Nazionale de Cagliari. © Kris Ubach")
 
@@ -158,8 +159,8 @@ información del parque.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2018/09/viaje-chicas-isla-cerdena-italia >}} 
+{{< reflink viaje-chicas-isla-cerdena-italia >}} 
 
-{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}} 
+{{< reflink sicilia-pantocratores-y-bikinis >}} 
 
-{{< reflink path=posts/2021/04/que-ver-hacer-gozo-malta >}}
+{{< reflink que-ver-hacer-gozo-malta >}}

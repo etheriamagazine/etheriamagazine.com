@@ -141,8 +141,8 @@ cobra cancelación).
 ### La Catedral Primada de Toledo
 
 Este espléndido edificio de estilo gótico es, quizás, uno de los lugares que hay que ver 
-en Toledo (y en condiciones). 📌 Por su envergadura e importancia, la {{< reflink 
-path=posts/2022/01/que-ver-en-catedral-de-toledo >}} tiene **un artículo propio** donde 
+en Toledo (y en condiciones). 📌 Por su envergadura e importancia, la [Catedral 
+Primada]({{% ref que-ver-en-catedral-de-toledo %}}) tiene **un artículo propio** donde 
 se detalla todo lo que debéis saber antes de visitarla. Aquí os adelantamos algunas 
 curiosidades. Su portada más antigua luce uno de los pocos relojes de una sola manilla 
 que existen en el mundo; la única torre del edificio acoge en su interior la campana más 
@@ -241,8 +241,8 @@ protagonista. Cuatro poblados de época, mesones, cantinas, talleres y divertida
 actividades para sumergirse en un apasionante viaje en el tiempo. Totalmente 
 recomendable y para todos los públicos. 
 
-📌 ¿Por qué puede interesarte conocer Puy du Fou? {{< reflink 
-path=posts/2022/04/15-razones-para-visitar-puy-du-fou-toledo-en-2022 >}} 
+📌 ¿Por qué puede interesarte conocer Puy du Fou? [15 razones para visitar Puy du Fou 
+Toledo]({{% ref 15-razones-para-visitar-puy-du-fou-toledo-en-2022 %}}) 
 
 📌Entrada de Puy du Fou Toledo de adulto desde 29 €. [Consulta 
 disponibilidad](https://www.civitatis.com/es/toledo/entrada-puy-du-fou/?aid=10211). 
@@ -267,7 +267,8 @@ clásico de la alta gastronomía en un ambiente entrañable.
 
 No te pierdas este artículo: . 
 
-📌 {{< reflink path=posts/2020/11/comer-en-toledo-mejores-restaurantes-bares-tapas >}}. 
+📌 [10 grandes restaurantes para saborear lo mejor de Toledo]({{% ref 
+comer-en-toledo-mejores-restaurantes-bares-tapas %}}). 
 
 ### Visitas guiadas en Toledo
 

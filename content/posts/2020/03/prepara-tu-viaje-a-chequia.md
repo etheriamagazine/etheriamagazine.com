@@ -33,8 +33,8 @@ República Checa.
 El maravillosos paisaje del Parque Natural de la Suiza de Bohemia y su arco de piedra de 
 _Pravčická brána_ brillaron en esta película llena de fantasía. Se puede ver en Disney+. 
 
-**NO TE PIERDAS:** {{< reflink 
-path=posts/2018/12/10-estampas-romanticas-de-republica-checa >}} 
+**NO TE PIERDAS:** [10 LUGARES imprescindibles para despertar tu romanticismo en 
+República Checa]({{% ref 10-estampas-romanticas-de-republica-checa %}}) 
 
 ### 'Misión Imposible 4'
 

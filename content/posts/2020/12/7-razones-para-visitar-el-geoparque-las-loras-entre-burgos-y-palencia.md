@@ -142,8 +142,8 @@ Loras](http://geoparquelasloras.es/).
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/06/que-ver-hacer-ruta-merindades-burgos >}}. 
+{{< reflink que-ver-hacer-ruta-merindades-burgos >}}. 
 
-{{< reflink path=posts/2019/08/que-ver-valderredible-cantabria >}}. 
+{{< reflink que-ver-valderredible-cantabria >}}. 
 
-{{< reflink path=posts/2020/09/que-ver-hacer-en-palencia-capital-con-amigas >}}.
+{{< reflink que-ver-hacer-en-palencia-capital-con-amigas >}}.

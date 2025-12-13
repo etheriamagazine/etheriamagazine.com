@@ -213,8 +213,7 @@ En Etheria Magazine encontrarás numerosos reportajes que inspirarán tus viajes
 ellos han sido elaborados sobre el terreno por el equipo de Redacción o por 
 colaboradores experimentados. Te animamos a seguir leyendo otros artículos sobre Grecia: 
 
-{{< reflink 
-path=posts/2020/10/descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas 
->}} 
+{{< reflink descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas >}} 
 
-{{< reflink path=posts/2019/09/que-ver-en-meteora-6-monasterios-viajes-culturales >}}
+[Qué ver en Meteora: 6 monasterios que tocan el cielo griego]({{% ref 
+que-ver-en-meteora-6-monasterios-viajes-culturales %}})

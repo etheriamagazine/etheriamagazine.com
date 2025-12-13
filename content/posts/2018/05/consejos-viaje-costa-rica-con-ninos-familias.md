@@ -78,7 +78,7 @@ donde haya más mosquitos. En los hoteles en la naturaleza no hay mucha etiqueta
 puede vestir de manera informal. Y no olvides chubasqueros o capas para la lluvia, el 
 tiempo cambia constantemente y son frecuentes los chaparrones. Te lo contamos también, 
 de forma más amplia, en el artículo ✅ [Qué llevar en la maleta si viajas a Costa 
-Rica]({{% ref una-maleta-para-costa-rica %}}). 
+Rica](http://etheriamagazine.com/2018/05/28/una-maleta-para-costa-rica/). 
 
 ![Fruto del cacao.](https://fotos.etheriamagazine.com/2018/05/Costa-Rica-cacao.jpg "Fruto del cacao. © SG")
 
@@ -103,8 +103,8 @@ ATS por si hay rasguños o caídas.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}}. 
+{{< reflink que-ver-peninsula-nicoya-costa-rica >}}. 
 
-{{< reflink path=posts/2021/04/viaje-costa-rica-con-ninos-que-hacer-en-familia >}} 
+{{< reflink viaje-costa-rica-con-ninos-que-hacer-en-familia >}} 
 
-{{< reflink path=posts/2022/09/valle-central-caribe-costa-rica >}}
+{{< reflink valle-central-caribe-costa-rica >}}

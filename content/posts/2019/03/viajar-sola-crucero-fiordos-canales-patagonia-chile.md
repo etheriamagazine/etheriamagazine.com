@@ -162,8 +162,8 @@ Fotografías cedidas por Navimag.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/01/que-ver-en-valparaiso-ruta-grafitis-chile >}} 
+{{< reflink que-ver-en-valparaiso-ruta-grafitis-chile >}} 
 
-{{< reflink path=posts/2019/01/que-ver-en-desierto-atacama-san-pedro-atacama-chile >}} 
+{{< reflink que-ver-en-desierto-atacama-san-pedro-atacama-chile >}} 
 
-{{< reflink path=posts/2020/03/viaje-mujeres-crucero-patagonia-chilena-magallanes >}}
+{{< reflink viaje-mujeres-crucero-patagonia-chilena-magallanes >}}

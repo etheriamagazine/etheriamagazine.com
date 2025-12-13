@@ -170,9 +170,8 @@ a la isla de Tenerife](https://amzn.to/423iOl9)_, de Anaya, son una buena elecci
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/01/que-ver-en-tenerife >}} 
+{{< reflink que-ver-en-tenerife >}} 
 
-{{< reflink path=posts/2021/05/viaje-a-tenerife-con-amigas-que-hacer-excursiones >}} 
+{{< reflink viaje-a-tenerife-con-amigas-que-hacer-excursiones >}} 
 
-{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
->}}
+{{< reflink excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos >}}

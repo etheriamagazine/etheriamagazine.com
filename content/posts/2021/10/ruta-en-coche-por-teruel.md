@@ -231,9 +231,8 @@ Más información en [Turismo de Teruel](https://www.sienteteruel.es/).
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/02/viajes-romanticos-que-ver-donde-comer-teruel >}}. 
+{{< reflink viajes-romanticos-que-ver-donde-comer-teruel >}}. 
 
-{{< reflink path=posts/2020/06/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza 
->}}. 
+{{< reflink viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza >}}. 
 
-{{< reflink path=posts/2019/10/laguna-de-gallocanta-donde-cuando-ver-grullas >}}.
+{{< reflink laguna-de-gallocanta-donde-cuando-ver-grullas >}}.

@@ -127,9 +127,8 @@ en el menú. Tel. +34 913 607 667, reservas.palace@westin.com
 
 ### Más planes en Madrid...
 
-{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
->}}. 
+{{< reflink ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias >}}. 
 
-{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}. 
+{{< reflink 10-planes-originales-en-madrid-con-amigas >}}. 
 
-{{< reflink path=posts/2020/05/15-escapadas-a-menos-de-99-km-de-madrid >}}.
+{{< reflink 15-escapadas-a-menos-de-99-km-de-madrid >}}.

@@ -175,10 +175,9 @@ auriculares.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/03/novedades-futuroscope-2022 >}} 
+{{< reflink novedades-futuroscope-2022 >}} 
 
-{{< reflink path=posts/2018/08/10-consejos-futuroscope >}} 
+{{< reflink 10-consejos-futuroscope >}} 
 
 {{< reflink 
-path=posts/2020/02/viajes-familias-objetivo-marte-y-otras-5-atracciones-imprescindibles-en-futuroscope 
->}}
+viajes-familias-objetivo-marte-y-otras-5-atracciones-imprescindibles-en-futuroscope >}}

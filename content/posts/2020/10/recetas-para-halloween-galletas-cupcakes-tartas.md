@@ -19,11 +19,10 @@ merienda y un menú de cena para morirse de miedo.
 Aunque estamos recuperando poco a poco la actividad normal en bares y restaurantes, si 
 optar por celebrar la Noche los Muertos en casa, estas recetas de Halloween te van a 
 venir de maravilla. Dejémonos de demonizar esta fiesta por ser extranjera (realmente es 
-de origen celta y te lo confirmamos en este artículo: {{< reflink 
-path=posts/2021/10/el-origen-halloween-es-irlandes >}}) y aprovechemos la excusa para 
-celebrar y disfrutar del momento. Aquí os damos unas **recetas para que ambientéis las 
-meriendas y cenas del 31 de octubre** y pongáis un poco de color y diversión a la 'Noche 
-de los muertos'. 
+de origen celta y te lo confirmamos en este artículo: [Halloween es irlandés]({{% ref 
+el-origen-halloween-es-irlandes %}})) y aprovechemos la excusa para celebrar y disfrutar 
+del momento. Aquí os damos unas **recetas para que ambientéis las meriendas y cenas del 
+31 de octubre** y pongáis un poco de color y diversión a la 'Noche de los muertos'. 
 
 ![bebida y decoracion casa halloween](https://fotos.etheriamagazine.com/2020/10/mesa-decoracion-halloween.jpg "Decoración especial para un Halloween en casa.")
 
@@ -146,8 +145,8 @@ anteriores dulces que hemos propuesto.
 
 📌 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/02/najat-libro-cocina-marroqui-chef-najat-kaanache >}}. 
+{{< reflink najat-libro-cocina-marroqui-chef-najat-kaanache >}}. 
 
-{{< reflink path=posts/2021/01/aguacate-beneficios-y-recetas-bajas-en-calorias >}}. 
+{{< reflink aguacate-beneficios-y-recetas-bajas-en-calorias >}}. 
 
-{{< reflink path=posts/2021/08/productos-gastronomia-leon >}}.
+{{< reflink productos-gastronomia-leon >}}.

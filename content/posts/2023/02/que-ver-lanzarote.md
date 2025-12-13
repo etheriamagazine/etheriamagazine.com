@@ -302,9 +302,9 @@ de sus restaurantes.
 
 También te puede interesar: 
 
-{{< reflink path=posts/2019/09/cesar-manrique-ruta-en-lanzarote >}} 
+{{< reflink cesar-manrique-ruta-en-lanzarote >}} 
 
-{{< reflink path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}} 
+{{< reflink viajar-sola-amigas-imprescindible-lanzarote >}} 
 
-{{< reflink 
-path=posts/2020/08/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}}
+[La Geria: la ruta de vinos definitiva para beberse Lanzarote]({{% ref 
+la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote %}})

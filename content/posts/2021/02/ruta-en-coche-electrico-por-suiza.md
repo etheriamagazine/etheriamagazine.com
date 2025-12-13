@@ -185,10 +185,10 @@ Más información en la [Oficina de Turismo de Suiza](http://www.myswitzerland.c
 
 **También te puede interesar**: 
 
-{{< reflink path=posts/2018/09/tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}} 
+{{< reflink tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}} 
 
-{{< reflink path=posts/2020/06/8-viajes-en-coche-con-amigas-por-espana >}} 
+{{< reflink 8-viajes-en-coche-con-amigas-por-espana >}} 
 
-{{< reflink path=posts/2020/03/road-trips-por-europa-verano-viajes-en-coche >}} {{< 
-reflink path=posts/2020/03/road-trips-por-europa-verano-viajes-en-coche >}}{{< reflink 
-path=posts/2020/03/road-trips-por-europa-verano-viajes-en-coche >}}
+[Grandes]({{% ref road-trips-por-europa-verano-viajes-en-coche %}}) []({{% ref 
+road-trips-por-europa-verano-viajes-en-coche %}})['road trips' por Europa para este 
+verano.]({{% ref road-trips-por-europa-verano-viajes-en-coche %}})

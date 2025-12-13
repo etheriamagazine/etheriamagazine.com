@@ -177,6 +177,6 @@ Más información
 
 **Sigue leyendo...** 
 
-{{< reflink path=posts/2023/05/planes-familiares-en-getxo >}}. 
+{{< reflink planes-familiares-en-getxo >}}. 
 
-{{< reflink path=posts/2023/05/lugares-mas-bonitos-vizcaya >}}.
+{{< reflink lugares-mas-bonitos-vizcaya >}}.

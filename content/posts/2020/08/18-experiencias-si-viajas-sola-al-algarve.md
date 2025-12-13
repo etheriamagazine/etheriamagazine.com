@@ -25,9 +25,9 @@ recomendaciones de establecimientos.... e, incluso, un taller de cocina con cata
 ¡Puede haber algo más portugués! 
 
 No es necesario que las hagas todas si te quedas unos días pero, cada una de ellas, 
-define un poquito de este destino que va más allá de sus {{< reflink 
-path=posts/2020/06/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve >}} (de las 
-que ya os hemos hablado). 
+define un poquito de este destino que va más allá de sus [sorprendentes playas]({{% ref 
+viajar-sola-playas-tranquilas-para-disfrutar-del-algarve %}}) (de las que ya os hemos 
+hablado). 
 
 ![buceo, viajeras, viajar sola, algarve, portugal](https://fotos.etheriamagazine.com/2020/07/viajar-sola-algarve-Ilha-Deserta.jpg "La Ilha Deserta, en Algarve, es un buen lugar para iniciarse en el buceo.")
 
@@ -110,9 +110,8 @@ burros por el campo.
 
 ### 10\. El mejor pan de la Costa Vicentina
 
-Aprovecha la oportunidad de probar los mejores panes, pasteles y galletas de la {{< 
-reflink 
-path=posts/2018/07/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal >}}. 
+Aprovecha la oportunidad de probar los mejores panes, pasteles y galletas de la [Costa 
+Vicentina]({{% ref ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal %}}). 
 Los preparan en horno de leña en la panadería artesanal **Pão do Rogil**. Sus pasteles 
 más afamados están realizados con la famosa batata de Aljezur. 
 
@@ -185,8 +184,8 @@ componer tu viaje al Algarve.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/10/planes-imprescindibles-algarve-con-amigas >}}. 
+{{< reflink planes-imprescindibles-algarve-con-amigas >}}. 
 
-{{< reflink path=posts/2021/09/pine-cliffs-resort-hotel-de-lujo-algarve >}}. 
+{{< reflink pine-cliffs-resort-hotel-de-lujo-algarve >}}. 
 
-{{< reflink path=posts/2020/08/hotel-lujo-tivoli-carvoeiro-escapada-algarve >}}.
+{{< reflink hotel-lujo-tivoli-carvoeiro-escapada-algarve >}}.

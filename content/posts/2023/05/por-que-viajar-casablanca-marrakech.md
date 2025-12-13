@@ -234,8 +234,8 @@ rememorar la mítica película Casablanca.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2022/08/que-ver-tanger-con-amigas >}} 
+{{< reflink que-ver-tanger-con-amigas >}} 
 
-{{< reflink path=posts/2021/03/guia-esencial-que-ver-y-hacer-en-fez >}}. 
+{{< reflink guia-esencial-que-ver-y-hacer-en-fez >}}. 
 
-{{< reflink path=posts/2021/02/najat-libro-cocina-marroqui-chef-najat-kaanache >}}.
+{{< reflink najat-libro-cocina-marroqui-chef-najat-kaanache >}}.

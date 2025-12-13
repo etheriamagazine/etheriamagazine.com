@@ -98,9 +98,8 @@ Precio de habitación doble desde 172 Euros.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/03/planes-en-fuerteventura-con-amigas >}} 
+{{< reflink planes-en-fuerteventura-con-amigas >}} 
 
-{{< reflink path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}} 
+{{< reflink viajar-sola-amigas-imprescindible-lanzarote >}} 
 
-{{< reflink 
-path=posts/2020/08/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}}
+{{< reflink la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}}

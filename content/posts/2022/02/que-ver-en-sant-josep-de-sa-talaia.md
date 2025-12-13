@@ -207,9 +207,8 @@ de s’Oli.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/11/planes-viaje-a-ibiza-en-invierno >}}. 
+{{< reflink planes-viaje-a-ibiza-en-invierno >}}. 
 
-{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
->}}. 
+{{< reflink 20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja >}}. 
 
-{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}.
+{{< reflink viaje-a-ibiza-con-amigas >}}.

@@ -105,8 +105,7 @@ Estonia](https://www.visitestonia.com/en/what-to-see-do/health-wellness/sauna).
 
 ✅ **También te puede interesar...** 
 
-{{< reflink 
-path=posts/2020/05/masajes-exoticos-que-hacen-viajar-a-india-bali-tailandia-japon-polinesia 
+{{< reflink masajes-exoticos-que-hacen-viajar-a-india-bali-tailandia-japon-polinesia 
 >}}. 
 
-{{< reflink path=posts/2023/02/banos-hielo-finlandia >}}.
+{{< reflink banos-hielo-finlandia >}}.

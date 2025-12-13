@@ -112,10 +112,8 @@ Editorial: La Línea del Horizonte
 Además de conocer la historia de la primera viajera española también te puede interesar 
 conocer algunas rutas y libros que siguen la estela de grandes mujeres: 
 
-{{< reflink 
-path=posts/2018/05/intrepidas-un-libro-sobre-25-exploradoras-que-persiguieron-su-sueno 
->}}. 
+{{< reflink intrepidas-un-libro-sobre-25-exploradoras-que-persiguieron-su-sueno >}}. 
 
-{{< reflink path=posts/2021/02/biografia-y-ruta-frida-kahlo-mexico >}}. 
+{{< reflink biografia-y-ruta-frida-kahlo-mexico >}}. 
 
-{{< reflink path=posts/2020/12/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues >}}.
+{{< reflink ruta-de-fados-en-la-lisboa-de-amalia-rodrigues >}}.

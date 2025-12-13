@@ -65,8 +65,8 @@ tradicionales japoneses.
 ![ryokan tradicional en Japón](https://fotos.etheriamagazine.com/2019/04/Japon-Ryokan.jpg "Onsen en un Ryokan. © Rockzheart/Adobe Stock")
 
 Si te interesa la historia, una parada obligada es **Hiroshima** y si dispones de dos 
-semanas y quieres aprovechar unos días de playa, nada mejor que las paradisíacas {{< 
-reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-okinawa-japon >}}. 
+semanas y quieres aprovechar unos días de playa, nada mejor que las paradisíacas [islas 
+de Okinawa]({{% ref viajar-sola-que-ver-hacer-dormir-okinawa-japon %}}). 
 
 ![almendros en flor en Kioto](https://fotos.etheriamagazine.com/2019/06/Preparar-viaje-Japon-primavera.jpg "Camino del Filósofo con los cerezos en flor en Kioto. © Susana García")
 
@@ -195,8 +195,8 @@ Japón](https://www.japan.travel/es/es/).
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/05/viajar-japon-que-es-ryokan-y-onsen >}} 
+{{< reflink viajar-japon-que-es-ryokan-y-onsen >}} 
 
-{{< reflink path=posts/2019/11/10-actividades-para-un-viaje-en-familia-a-japon >}} 
+{{< reflink 10-actividades-para-un-viaje-en-familia-a-japon >}} 
 
-{{< reflink path=posts/2018/10/que-comer-en-japon >}}
+{{< reflink que-comer-en-japon >}}

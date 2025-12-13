@@ -130,6 +130,6 @@ un testimonio de la época de la Guerra Fría.
 
 **Continúa tu viaje en Bretaña...** 
 
-{{< reflink path=posts/2018/08/senderismo-en-sentier-des-douaniers-bretana-francesa >}}. 
+{{< reflink senderismo-en-sentier-des-douaniers-bretana-francesa >}}. 
 
-{{< reflink path=posts/2023/07/nantes-y-excursiones-esenciales >}}.
+{{< reflink nantes-y-excursiones-esenciales >}}.

@@ -184,6 +184,6 @@ Guggenheim](https://www.civitatis.com/es/bilbao/tour-privado-museo-guggenheim/?a
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/09/10-planes-originales-en-bilbao-con-amigas >}} 
+{{< reflink 10-planes-originales-en-bilbao-con-amigas >}} 
 
-{{< reflink path=posts/2019/12/finde-bilbao-con-amigas-mejores-restaurantes >}}
+{{< reflink finde-bilbao-con-amigas-mejores-restaurantes >}}

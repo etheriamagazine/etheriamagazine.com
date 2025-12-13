@@ -48,7 +48,8 @@ porque se camina directamente bajo la piedra. Sigue las indicaciones de los mira
 que vayas encontrando porque las vistas son impresionantes, tanto del pueblo como del 
 entorno. 
 
-**No te pierdas:** {{< reflink path=posts/2022/07/que-ver-setenil-de-las-bodegas >}}. 
+**No te pierdas:** [Qué ver en Setenil de las Bodegas]({{% ref 
+que-ver-setenil-de-las-bodegas %}}). 
 
 ![alcala del valle, ruta pueblos blancos, sierra de cadiz](https://fotos.etheriamagazine.com/2018/10/2-Alcala-del-valle-cadiz-e1556353709154.jpg "Alcalá del Valle. © Pepa García")
 
@@ -182,21 +183,20 @@ pastas de las monjas mercedarias son una delicia.
 ## Vejer de la Frontera
 
 Esta población no forma parte de la tradicional **Ruta de los pueblos blancos** de Cádiz 
-pero no está de más contemplarla en último lugar antes de comenzar otra {{< reflink 
-path=posts/2018/06/ruta-del-atun-rojo-en-cadiz >}}. Vejer está encaramado en una colina 
-y rodeado por una muralla irregular que se adapta al trazado, en ella se abren cuatro 
-puertas y se elevan dos torres (la del Mayorazgo y la de la Corredera). En una visita, 
-además de callejear, también se deben incluir los magníficos patios repletos de flores y 
-algunas de las casas palaciegas. Si buscas algo original apúntate a alguna de las rutas 
-cantadas y animadas de **Marimantas**. No dejes de probar el lomo en manteca, el morcón, 
-la morcilla o la carne de retinto. 
+pero no está de más contemplarla en último lugar antes de comenzar otra [ruta por la 
+costa gaditana]({{% ref ruta-del-atun-rojo-en-cadiz %}}). Vejer está encaramado en una 
+colina y rodeado por una muralla irregular que se adapta al trazado, en ella se abren 
+cuatro puertas y se elevan dos torres (la del Mayorazgo y la de la Corredera). En una 
+visita, además de callejear, también se deben incluir los magníficos patios repletos de 
+flores y algunas de las casas palaciegas. Si buscas algo original apúntate a alguna de 
+las rutas cantadas y animadas de **Marimantas**. No dejes de probar el lomo en manteca, 
+el morcón, la morcilla o la carne de retinto. 
 
-**No te pierdas:** {{< reflink 
-path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}}. 
+**No te pierdas:** [10 actividades para enamorarte de Vejer de la Frontera]({{% ref 
+10-actividades-vejer-de-la-frontera-que-ver-hacer %}}). 
 
 **Sigue tu viaje por Cádiz** 
 
-{{< reflink path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
+{{< reflink mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
 
-{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
->}}
+{{< reflink 12-actividades-familiares-para-viajes-con-ninos-en-cadiz >}}

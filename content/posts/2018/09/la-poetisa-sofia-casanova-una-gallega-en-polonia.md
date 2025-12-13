@@ -152,6 +152,6 @@ Puedes ampliar información en [Turismo de Polonia](https://www.polonia.travel/e
 
 ### Te puede interesar
 
-{{< reflink path=posts/2021/03/que-ver-en-varsovia-en-tres-rutas-originales >}}. 
+{{< reflink que-ver-en-varsovia-en-tres-rutas-originales >}}. 
 
-{{< reflink path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}}.
+{{< reflink que-ver-en-zakopane-viaje-original-polonia >}}.

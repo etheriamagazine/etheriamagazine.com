@@ -27,7 +27,8 @@ provincias de Andalucía, en Cádiz no se conocen demasiado sus vestigios de la 
 musulmana, razón de más para que nos pique la curiosidad, ¿los buscamos? Y de paso te 
 contamos qué hacer en Cádiz para pasar unos días de lujo. 
 
-✅ **NO PIERDAS:** {{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}} 
+✅ **NO PIERDAS:** [La mejor guía de CÁDIZ PROVINCIA para organizar tu viaje: pueblos y 
+visitas de interés (con mapa incluido).]({{% ref pueblos-que-ver-en-cadiz %}}) 
 
 ![edificios de Cádiz](https://fotos.etheriamagazine.com/2019/05/viaje-cadiz-ayuntamiento.jpg "Los fenicios fundaron hace tres mil años Gadir (Cádiz), la ciudad más antigua de occidente. © Turismo Ayto. Cádiz")
 
@@ -66,7 +67,8 @@ York Times_ la recomienda! Tomamos un primer tapeo cien por cien gaditano en la 
 que ha sido restaurado —prueba sus delicias de atún—. Si estás obsesionada con este 
 manjar, sigue nuestra particular ruta del atún rojo por toda la provincia. 
 
-✅ {{< reflink path=posts/2018/06/ruta-del-atun-rojo-en-cadiz >}}. 
+✅ [Ruta del Atún Rojo de Cádiz, de Conil a Tarifa por la orilla del mar]({{% ref 
+ruta-del-atun-rojo-en-cadiz %}}). 
 
 ![tartar de atún en Cádiz](https://fotos.etheriamagazine.com/2019/05/viaje-cadiz-atun-rojo.jpg "El atún rojo de almadraba es el producto estrella en la cocina gaditana. © Taberna La Sorpresa")
 
@@ -179,10 +181,10 @@ intelectuales argelinos que visitó la ciudad durante aquel periodo musulmán:
 
 ![cobijada de Vejer](https://fotos.etheriamagazine.com/2019/05/viaje-cadiz-mujer-tapada-vejer.jpg "Monumento en homenaje a la mujer vejeriega en Vejer de la Frontera © K.R.")
 
-Sigue nuestra {{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}} 
-para conocer otros pequeños vestigios del Cádiz andalusí como Setenil de las Bodegas, su 
-nombre simboliza los siete intentos fallidos de conquista que sufrió por parte de los 
-cristianos. 
+Sigue nuestra [Ruta de los Pueblos Blancos]({{% ref 
+ruta-por-los-pueblos-blancos-de-cadiz %}}) para conocer otros pequeños vestigios del 
+Cádiz andalusí como Setenil de las Bodegas, su nombre simboliza los siete intentos 
+fallidos de conquista que sufrió por parte de los cristianos. 
 
 Descubre el misterioso origen de las mujeres vejeriegas (de **Vejer de la Frontera**), 
 llamadas 'las cobijadas’ por cubrirse con un manto que se asemeja al hiyab musulmán. 
@@ -202,9 +204,8 @@ ante cualquier duda sobre alojamientos, destinos y próximos planes.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia 
->}} 
+{{< reflink guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}} 
 
-{{< reflink path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}} 
+{{< reflink 10-actividades-vejer-de-la-frontera-que-ver-hacer >}} 
 
-{{< reflink path=posts/2022/04/guia-de-conil-visitas-gratuitas >}}
+{{< reflink guia-de-conil-visitas-gratuitas >}}

@@ -131,8 +131,8 @@ pdf](https://visitsantaeulalia.com/images/recursos/PDF/Sello-family-moments.pdf)
 
 **Más propuestas de Ibiza:** 
 
-{{< reflink path=posts/2023/03/santa-eularia-des-riu-ibiza >}} 
+{{< reflink santa-eularia-des-riu-ibiza >}} 
 
-{{< reflink path=posts/2021/11/planes-viaje-a-ibiza-en-invierno >}}. 
+{{< reflink planes-viaje-a-ibiza-en-invierno >}}. 
 
-{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}.
+{{< reflink viaje-a-ibiza-con-amigas >}}.

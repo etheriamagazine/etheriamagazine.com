@@ -48,9 +48,9 @@ Minería](http://www.mumi.es/), ubicado en un falso castillete.
 
 Antiguos economatos, sanatorios, viviendas que hospedaban a ingenieros solteros y una 
 central térmica cerrada asoman por un frondoso paisaje. La actividad de la **fábrica de 
-Bayer** sirve de revulsivo para la economía de la zona, aunque el {{< reflink 
-path=posts/2019/12/planes-familiares-en-barcelona-y-tarragona-turismo-industrial >}} es 
-otra de sus grandes esperanzas. 
+Bayer** sirve de revulsivo para la economía de la zona, aunque el [turismo 
+industrial]({{% ref planes-familiares-en-barcelona-y-tarragona-turismo-industrial %}}) 
+es otra de sus grandes esperanzas. 
 
 > “El Patrimonio industrial tiene que reivindicarse. Si nadie cuestiona que la catedral de 
 > Oviedo debe conservarse, esto tampoco debería", reclama Mónica García, Asesora 
@@ -209,9 +209,8 @@ preferencias.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/10/planes-imprescindibles-en-oviedo-con-amigas >}}. 
+{{< reflink planes-imprescindibles-en-oviedo-con-amigas >}}. 
 
-{{< reflink path=posts/2021/07/que-hacer-en-parque-las-ubinas-la-mesa >}}. 
+{{< reflink que-hacer-en-parque-las-ubinas-la-mesa >}}. 
 
-{{< reflink path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias 
->}}.
+{{< reflink gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias >}}.

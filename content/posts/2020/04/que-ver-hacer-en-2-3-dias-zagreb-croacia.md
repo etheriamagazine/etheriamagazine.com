@@ -81,7 +81,7 @@ cristaleras.
 ## 3\. Museo de las Relaciones Rotas y otras extravagancias
 
 Cerca de la plaza anterior se encuentra el 📌 [Museo de las Relaciones 
-Rotas,]({{% ref museo-de-las-relaciones-rotas-zagreb %}}) del 
+Rotas,](http://etheriamagazine.com/2018/10/27/museo-de-las-relaciones-rotas-zagreb/) del 
 que ya os hablamos en otro artículo (haz clic en el link anterior), donde se exhiben 
 piezas donadas por corazones rotos y amantes despechados. Tiene una pequeña cafetería y 
 una tienda de recuerdos muy curiosos, es un buen lugar donde hacer una parada. 
@@ -231,8 +231,8 @@ Croacia](https://croatia.hr/es-ES).
 ### También en Croacia
 
 [Viaje a 
-Zadar.]({{% ref 48-horas-en-zadar-una-escapada-low-cost %}}) 
+Zadar.](http://etheriamagazine.com/2019/06/21/48-horas-en-zadar-una-escapada-low-cost/) 
 [Isla de 
-Pag]({{% ref fiesta-de-los-sabores-en-la-isla-croata-de-pag %}}) 
+Pag](http://etheriamagazine.com/2018/08/16/fiesta-de-los-sabores-en-la-isla-croata-de-pag/) 
 (Croacia). [Otoño en el Parque Nacional Lagos de 
-Plitvice.]({{% ref 10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia %}})
+Plitvice.](http://etheriamagazine.com/2018/10/05/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia/)

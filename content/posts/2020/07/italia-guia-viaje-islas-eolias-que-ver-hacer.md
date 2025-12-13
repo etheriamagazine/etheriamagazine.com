@@ -158,8 +158,8 @@ sus fondos marinos para encontrar una vía para la felicidad.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}}. 
+{{< reflink sicilia-pantocratores-y-bikinis >}}. 
 
-{{< reflink path=posts/2020/06/ruta-que-ver-cinque-terre-italia-con-amigas >}}. 
+{{< reflink ruta-que-ver-cinque-terre-italia-con-amigas >}}. 
 
-{{< reflink path=posts/2019/07/10-islas-en-europa-disfrutar-verano >}}.
+{{< reflink 10-islas-en-europa-disfrutar-verano >}}.

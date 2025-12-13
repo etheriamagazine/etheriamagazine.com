@@ -85,7 +85,7 @@ de la zona, los de cocina local, los infantiles…
 ### 7\. ¿Cuál ha sido tu último viaje?
 
 Sin contar los viajes de trabajo, mi último viaje ha sido a [Zahara de los 
-Atunes.]({{% ref ruta-del-atun-rojo-en-cadiz %}}) Lo que más 
+Atunes.](http://etheriamagazine.com/2018/06/12/ruta-del-atun-rojo-en-cadiz/) Lo que más 
 me ha gustado, la tranquilidad y personalidad del lugar. Todo está cerca, aún se 
 mantiene bastante auténtico y, además, se come muy bien en todas partes. Lo que menos me 
 ha gustado quizá sea las nuevas obras de apartamentos/hoteles que están haciendo, puede 
@@ -141,6 +141,6 @@ y crustáceos.
 
 **📍También te puede interesar...** 
 
-{{< reflink path=posts/2023/03/mujeres-polacas-fama-universal >}}. 
+{{< reflink mujeres-polacas-fama-universal >}}. 
 
-{{< reflink path=posts/2022/03/mujeres-viajeras-de-la-historia >}}.
+{{< reflink mujeres-viajeras-de-la-historia >}}.

@@ -17,9 +17,9 @@ authors:
 Si hay un país que rápidamente asociamos con las tradiciones navideñas ese es Alemania. 
 Han conseguido que la arquitectura de los cascos históricos con edificios de ladrillo y 
 madera iluminados en el Adviento sea la imagen que todos tenemos en mente cuando 
-pensamos en esta época del año. Aquí se {{< reflink 
-path=posts/2020/11/alemania-en-navidad-tradiciones-y-adviento >}} cada día desde que se 
-abre la primera ventana del calendario de Adviento. 
+pensamos en esta época del año. Aquí se [vive, saborea y disfruta la Navidad]({{% ref 
+alemania-en-navidad-tradiciones-y-adviento %}}) cada día desde que se abre la primera 
+ventana del calendario de Adviento. 
 
 En este artículo os contamos **10 experiencias navideñas en Alemania** perfectas para 
 realizar en esta época del año en 10 de sus estados federados. Las hay originales, de 
@@ -166,6 +166,6 @@ Alemania para los amantes de la naturaleza.
 
 #### También te puede interesar:
 
-{{< reflink path=posts/2020/11/alemania-en-navidad-tradiciones-y-adviento >}} 
+{{< reflink alemania-en-navidad-tradiciones-y-adviento >}} 
 
-{{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}}
+{{< reflink que-ver-hacer-fin-de-semana-hamburgo-alemania >}}

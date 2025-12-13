@@ -106,6 +106,6 @@ Lempeh, Uluwatu. Bali, Indonesia. Tel. +62 361 2090300.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/10/como-organizar-viaje-a-bali >}} 
+{{< reflink como-organizar-viaje-a-bali >}} 
 
-{{< reflink path=posts/2023/07/fotos-bali-instagram-tiktok >}}
+{{< reflink fotos-bali-instagram-tiktok >}}

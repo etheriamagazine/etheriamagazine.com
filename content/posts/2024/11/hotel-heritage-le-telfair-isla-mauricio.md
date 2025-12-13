@@ -192,4 +192,4 @@ Mauritius Tel: +230 601 55 00. www.heritageresort.mu
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/03/viajes-mujeres-mejores-planes-en-mauricio >}}
+{{< reflink viajes-mujeres-mejores-planes-en-mauricio >}}

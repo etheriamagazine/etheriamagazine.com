@@ -178,8 +178,6 @@ si lo visitas en invierno, un buen abrigo.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2025/04/nauplia-secreto-peloponeso >}} 
+{{< reflink nauplia-secreto-peloponeso >}} 
 
-{{< reflink 
-path=posts/2020/10/descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas 
->}}
+{{< reflink descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas >}}

@@ -190,8 +190,8 @@ para circular en el norte y en el sur y, en consecuencia, puede haber complicaci
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/05/viaje-en-pareja-que-ver-chipre >}} 
+{{< reflink viaje-en-pareja-que-ver-chipre >}} 
 
-{{< reflink path=posts/2019/08/que-ver-48-horas-en-rodas-islas-griegas >}} 
+{{< reflink que-ver-48-horas-en-rodas-islas-griegas >}} 
 
-{{< reflink path=posts/2019/01/que-visitar-crucero-por-islas-griegas >}}
+{{< reflink que-visitar-crucero-por-islas-griegas >}}

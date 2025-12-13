@@ -212,6 +212,6 @@ tengas), es recomendable cargar con el trípode.
 
 ### No te pierdas
 
-{{< reflink path=posts/2020/07/italia-guia-viaje-islas-eolias-que-ver-hacer >}}. 
+{{< reflink italia-guia-viaje-islas-eolias-que-ver-hacer >}}. 
 
-{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}}.
+{{< reflink sicilia-pantocratores-y-bikinis >}}.

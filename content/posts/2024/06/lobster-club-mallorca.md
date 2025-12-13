@@ -85,6 +85,6 @@ Balinesas de 11 a 19 h; y la Cantina Lobster de 11 a 23 h. Más información en 
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/05/que-comprar-en-mallorca >}} 
+{{< reflink que-comprar-en-mallorca >}} 
 
-{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}
+{{< reflink planes-y-excursiones-desde-palma-mallorca-con-amigas >}}

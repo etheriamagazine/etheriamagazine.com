@@ -216,6 +216,6 @@ y con máxima garantía.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2024/04/tres-barrios-viena-con-emprendedoras >}}. 
+{{< reflink tres-barrios-viena-con-emprendedoras >}}. 
 
-{{< reflink path=posts/2024/06/collioure-costa-bermeja-con-amigas >}}.
+{{< reflink collioure-costa-bermeja-con-amigas >}}.

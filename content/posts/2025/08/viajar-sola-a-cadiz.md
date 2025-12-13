@@ -234,9 +234,8 @@ ofrecer. ¿Te animas a viajar sola a Cádiz?
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2023/10/guia-para-pedir-atun-en-cadiz >}}. 
+{{< reflink guia-para-pedir-atun-en-cadiz >}}. 
 
-{{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}}. 
+{{< reflink pueblos-que-ver-en-cadiz >}}. 
 
-{{< reflink path=posts/2025/02/breve-guia-para-disfrutar-carnaval-de-cadiz-con-amigas 
->}}.
+{{< reflink breve-guia-para-disfrutar-carnaval-de-cadiz-con-amigas >}}.

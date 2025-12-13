@@ -122,8 +122,8 @@ Jónico.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/06/10-playas-en-espana-para-este-verano >}} 
+{{< reflink 10-playas-en-espana-para-este-verano >}} 
 
-{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}} 
+{{< reflink viajar-con-amigas-mejores-playas-formentera >}} 
 
-{{< reflink path=posts/2022/08/mejores-playas-del-algarve >}}
+{{< reflink mejores-playas-del-algarve >}}

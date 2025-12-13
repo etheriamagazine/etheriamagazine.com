@@ -170,8 +170,8 @@ comer sin necesidad de estar alojada.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/08/viaja-sola-paises-mas-seguros-para-mujeres >}} 
+{{< reflink viaja-sola-paises-mas-seguros-para-mujeres >}} 
 
-{{< reflink path=posts/2019/07/luna-miel-bali-maldicion-ruptura >}} 
+{{< reflink luna-miel-bali-maldicion-ruptura >}} 
 
-{{< reflink path=posts/2019/06/que-ver-en-phuket-tailandia-sola-o-con-amigas >}}
+{{< reflink que-ver-en-phuket-tailandia-sola-o-con-amigas >}}

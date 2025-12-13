@@ -123,7 +123,6 @@ sobre el resto de grupos participantes.
 
 **Te puede interesar...** 
 
-{{< reflink path=posts/2019/09/que-hacer-ver-2-dias-en-praga-museos-festivales >}}. 
+{{< reflink que-hacer-ver-2-dias-en-praga-museos-festivales >}}. 
 
-{{< reflink path=posts/2019/05/viaje-en-familia-moravia-del-sur-praga-republica-checa 
->}}.
+{{< reflink viaje-en-familia-moravia-del-sur-praga-republica-checa >}}.

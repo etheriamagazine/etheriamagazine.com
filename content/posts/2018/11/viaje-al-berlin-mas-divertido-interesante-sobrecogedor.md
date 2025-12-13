@@ -240,8 +240,8 @@ Alemania](http://www.germany.travel/es/ciudades-turismo-cultural/ciudades/berlin
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/09/nuevas-visitas-berlin-cultura-2021 >}} 
+{{< reflink nuevas-visitas-berlin-cultura-2021 >}} 
 
-{{< reflink path=posts/2020/12/experiencias-navidenas-alemania >}} 
+{{< reflink experiencias-navidenas-alemania >}} 
 
-{{< reflink path=posts/2020/11/alemania-en-navidad-tradiciones-y-adviento >}}
+{{< reflink alemania-en-navidad-tradiciones-y-adviento >}}

@@ -179,8 +179,8 @@ su pago por PayPal, no dudé ni un momento de que el dinero me iba a llegar.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2025/02/viajar-sola-a-bali-consejos-sania-jelic >}} 
+{{< reflink viajar-sola-a-bali-consejos-sania-jelic >}} 
 
-{{< reflink path=posts/2025/01/consejos-practicos-sania-jelic-viajar-sola-a-japon >}} 
+{{< reflink consejos-practicos-sania-jelic-viajar-sola-a-japon >}} 
 
-{{< reflink path=posts/2018/12/guia-viaje-para-mujeres-luang-prabang >}}
+{{< reflink guia-viaje-para-mujeres-luang-prabang >}}

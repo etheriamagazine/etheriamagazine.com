@@ -202,11 +202,8 @@ testimonios se está apagando y más en esta época de pandemia.
 
 **También te puede interesar...** 
 
-{{< reflink 
-path=posts/2020/12/maria-andresa-casamayor-primera-mujer-en-espana-libro-ciencia >}} 
+{{< reflink maria-andresa-casamayor-primera-mujer-en-espana-libro-ciencia >}} 
 
-{{< reflink 
-path=posts/2020/03/hedy-lamarr-extasis-inventora-wifi-modelo-actriz-espia-mujeres-etheria 
->}} 
+{{< reflink hedy-lamarr-extasis-inventora-wifi-modelo-actriz-espia-mujeres-etheria >}} 
 
-{{< reflink path=posts/2021/02/biografia-y-ruta-frida-kahlo-mexico >}}
+{{< reflink biografia-y-ruta-frida-kahlo-mexico >}}

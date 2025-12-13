@@ -146,8 +146,8 @@ Municipios Mágicos de España](https://www.pueblosmagicos.es/).
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2022/02/que-ver-madrigal-altas-torres >}} 
+{{< reflink que-ver-madrigal-altas-torres >}} 
 
-{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}} 
+{{< reflink plan-con-amigas-ruta-del-vino-sierra-de-francia >}} 
 
-{{< reflink path=posts/2022/01/que-ver-en-catedral-de-toledo >}}
+{{< reflink que-ver-en-catedral-de-toledo >}}

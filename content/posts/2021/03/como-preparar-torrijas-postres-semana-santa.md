@@ -125,8 +125,8 @@ de **Manu Jara** (manujara.com) y en Málaga las de **La Canasta** (lacanasta.es
 
 **También te puede interesar** 
 
-{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}} 
+{{< reflink brunch-buenos-y-baratos-en-madrid >}} 
 
-{{< reflink path=posts/2020/09/donde-tomar-mejores-postres-chocolate-en-madrid >}} 
+{{< reflink donde-tomar-mejores-postres-chocolate-en-madrid >}} 
 
-{{< reflink path=posts/2020/04/viajes-espana-ruta-por-los-licores-de-monasterio >}}
+{{< reflink viajes-espana-ruta-por-los-licores-de-monasterio >}}

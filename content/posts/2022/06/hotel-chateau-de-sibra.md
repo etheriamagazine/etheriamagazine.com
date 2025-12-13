@@ -126,8 +126,8 @@ Fotografías cedidas por © Château de Sibra.
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2022/04/dormir-en-castillos-valle-del-loira >}} 
+{{< reflink dormir-en-castillos-valle-del-loira >}} 
 
-{{< reflink path=posts/2020/03/viajes-mujeres-que-ver-en-perpinan-y-collioure >}} 
+{{< reflink viajes-mujeres-que-ver-en-perpinan-y-collioure >}} 
 
-{{< reflink path=posts/2022/03/razones-viajes-francia-2022 >}}
+{{< reflink razones-viajes-francia-2022 >}}

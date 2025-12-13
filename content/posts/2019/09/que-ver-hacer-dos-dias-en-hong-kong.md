@@ -204,8 +204,8 @@ famosos _dim sum_.
 
 ### También en Etheria Magazine
 
-{{< reflink path=posts/2018/04/que-ver-macao >}}. 
+{{< reflink que-ver-macao >}}. 
 
-{{< reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}}. 
+{{< reflink viaje-para-mujeres-que-ver-norte-india-rajastan >}}. 
 
-{{< reflink path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}}.
+{{< reflink los-mejores-miradores-de-nueva-york-gratis-de-pago >}}.

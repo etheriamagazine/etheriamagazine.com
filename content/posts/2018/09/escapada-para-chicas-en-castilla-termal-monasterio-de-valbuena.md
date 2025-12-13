@@ -90,8 +90,6 @@ Los tratamientos adicionales tendrán un 15% de descuento.
 
 **También te puede interesar...** 
 
-{{< reflink 
-path=posts/2021/10/castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero 
->}}. 
+{{< reflink castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero >}}. 
 
-{{< reflink path=posts/2023/02/hoteles-romanticos-espana-precio-medio >}}.
+{{< reflink hoteles-romanticos-espana-precio-medio >}}.

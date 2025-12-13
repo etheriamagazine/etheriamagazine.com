@@ -28,7 +28,7 @@ lujo, azoteas con vistas y propuestas divertidas para despedir 2021 con alguna d
 **cenas de Nochevieja en Madrid** más especiales. ¿Puede haber mejor manera de comenzar 
 el 2022? 
 
-{{< reflink path=posts/2022/11/nochevieja-2022-en-madrid >}}
+{{< reflink nochevieja-2022-en-madrid >}}
 
 ## Hotel Mandarin Oriental Ritz de Madrid
 
@@ -197,7 +197,6 @@ Jardín de Recoletos.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}} 
+{{< reflink brunch-buenos-y-baratos-en-madrid >}} 
 
-{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
->}}
+{{< reflink ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias >}}

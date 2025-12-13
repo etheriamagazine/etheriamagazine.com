@@ -274,6 +274,6 @@ locales y la circunstancias de cada lugar.
 
 ? **También te puede interesar:** 
 
-{{< reflink path=posts/2023/09/que-hacer-con-amigas-madrid-otono >}} 
+{{< reflink que-hacer-con-amigas-madrid-otono >}} 
 
-{{< reflink path=posts/2022/12/planes-adolescentes-madrid >}}
+[Planes divertidos con adolescentes en Madrid]({{% ref planes-adolescentes-madrid %}})

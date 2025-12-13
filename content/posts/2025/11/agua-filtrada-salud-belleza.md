@@ -87,6 +87,6 @@ la condición de la piel y el cabello sin necesidad de productos adicionales.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2025/11/menowashing-marketing-de-menopausia >}} 
+{{< reflink menowashing-marketing-de-menopausia >}} 
 
-{{< reflink path=posts/2023/07/cuidar-salud-genital >}}
+{{< reflink cuidar-salud-genital >}}

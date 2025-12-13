@@ -25,7 +25,8 @@ santoñesa. Se hace imborrable en la memoria su sabor salado al catar sus afamad
 **anchoas**, que conviene atesorar como recuerdo viajero y revivir la esencia marina 
 santoñesa de vuelta en casa. 
 
-**No te pierdas**: {{< reflink path=posts/2022/09/que-ver-en-cantabria >}}. 
+**No te pierdas**: [15 lugares imprescindibles adonde ir en Cantabria]({{% ref 
+que-ver-en-cantabria %}}). 
 
 ![Camino vertiginoso para llegar al faro del Caballo, en Santoña.](https://fotos.etheriamagazine.com/2021/01/faro-el-pescador-santona-cantabria.jpg "Camino vertiginoso para llegar al faro del Caballo, en Santoña.")
 
@@ -159,9 +160,8 @@ Cantábrico y el perfil montaraz del Buciero.
 
 **Para seguir leyendo sobre Cantabria:** 
 
-{{< reflink 
-path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}} 
+{{< reflink 8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}} 
 
-{{< reflink path=posts/2020/05/viaje-a-los-mejores-faros-de-cantabria >}} 
+{{< reflink viaje-a-los-mejores-faros-de-cantabria >}} 
 
-{{< reflink path=posts/2019/08/que-ver-valderredible-cantabria >}}
+{{< reflink que-ver-valderredible-cantabria >}}

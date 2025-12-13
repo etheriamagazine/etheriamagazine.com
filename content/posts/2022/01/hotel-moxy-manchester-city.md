@@ -22,14 +22,14 @@ original y divertida: un fin de semana en el **hotel Moxy Manchester City**, sit
 el animado barrio de Spinningfields y rodeado de bares y restaurantes. 
 
 Esta ciudad es perfecta para visitar con amigas, y ya os lo contábamos en nuestro 
-artículo {{< reflink 
-path=posts/2019/12/12-visitas-para-fin-de-semana-en-manchester-con-amigas >}}. Ahora 
-sumamos a este viaje un hotel como hay pocos, de la divertida **cadena Moxy** que ya 
-tiene más de cien establecimientos por todo el mundo con un concepto de alojamiento que 
-se aleja de los cánones habituales pero respaldado por la calidad de la marca Marriot. 
-Viviréis una experiencia diferente realizando el _check-in_ en el bar (con una 
-invitación a la primera copa, que no está nada mal), disfrutando de sus coloridos 
-espacios, como la animada sala de juegos, o bailando con la música de los DJ's. 
+artículo [12 visitas para triunfar en un fin de semana con amigas en Mánchester]({{% ref 
+12-visitas-para-fin-de-semana-en-manchester-con-amigas %}}). Ahora sumamos a este viaje 
+un hotel como hay pocos, de la divertida **cadena Moxy** que ya tiene más de cien 
+establecimientos por todo el mundo con un concepto de alojamiento que se aleja de los 
+cánones habituales pero respaldado por la calidad de la marca Marriot. Viviréis una 
+experiencia diferente realizando el _check-in_ en el bar (con una invitación a la 
+primera copa, que no está nada mal), disfrutando de sus coloridos espacios, como la 
+animada sala de juegos, o bailando con la música de los DJ's. 
 
 ![Zona de juegos del Moxy Manchester City](https://fotos.etheriamagazine.com/2022/01/hotel-moxy-manchester-zona-juegos.jpg "Zona de juegos con el futbolín y el 'Guestbook Wall'.")
 
@@ -77,11 +77,11 @@ Atkinson Street, Manchester. Tel. +44 161 529 1655 Precio de la habitación dobl
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/04/los-mejores-jardines-de-gran-bretana >}} 
+{{< reflink los-mejores-jardines-de-gran-bretana >}} 
 
 {{< reflink 
-path=posts/2020/05/compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone 
+compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone 
 >}} 
 
-{{< reflink 
-path=posts/2021/03/platos-britanicos-en-un-viaje-inglaterra-escocia-gales-irlanda >}}
+[¿Es tan aburrida la comida de Gran Bretaña como dicen?]({{% ref 
+platos-britanicos-en-un-viaje-inglaterra-escocia-gales-irlanda %}})

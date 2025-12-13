@@ -19,8 +19,9 @@ fin de semana, nos darás la razón.
 
 Lo cierto es que los planes en Santander para un fin de semana son muchos y variados, 
 aunque si te organizas bien puedes incluso visitar alguna de las atractivas localidades 
-y espectaculares paisajes que la rodean. (Puedes buscar inspiración en {{< reflink 
-path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}}). 
+y espectaculares paisajes que la rodean. (Puedes buscar inspiración en ['8 lugares 
+sorprendentes de Cantabria que aún no conoces']({{% ref 
+8-lugares-sorprendentes-de-cantabria-para-una-ruta-original %}})). 
 
 En cualquier época del año esta ciudad, casi nueva (fue reconstruida casi por completo 
 tras el devastador incendio del año 1941), ofrece atractivos de lo más diverso: desde la 
@@ -209,8 +210,8 @@ Es el caso del **Parque de Cabo Mayor**, asomado al Cantábrico y rodeado por
 espectaculares acantilados de roca caliza. Sobre uno de ellos se construyó, a mediados 
 del siglo XIX, un faro que regala una de las estampas más queridas por los propios 
 santanderinos. También de las más seductoras, sobre todo para quienes visitan por 
-primera vez la ciudad. (Sigue leyendo: {{< reflink 
-path=posts/2020/05/viaje-a-los-mejores-faros-de-cantabria >}}) 
+primera vez la ciudad. (Sigue leyendo: [Los faros más bonitos de Cantabria]({{% ref 
+viaje-a-los-mejores-faros-de-cantabria %}})) 
 
 ### Costa Quebrada
 
@@ -222,8 +223,8 @@ esto planes en Santander para un fin de semana.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/06/que-ver-en-valle-de-valdeolea-cantabria >}}. 
+{{< reflink que-ver-en-valle-de-valdeolea-cantabria >}}. 
 
-{{< reflink path=posts/2019/08/que-ver-valderredible-cantabria >}}. 
+{{< reflink que-ver-valderredible-cantabria >}}. 
 
-{{< reflink path=posts/2018/07/cantabria-viaje-en-familia >}}.
+{{< reflink cantabria-viaje-en-familia >}}.

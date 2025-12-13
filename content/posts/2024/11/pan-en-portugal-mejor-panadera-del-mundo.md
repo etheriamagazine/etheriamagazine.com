@@ -203,4 +203,4 @@ mundo.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/12/portugal-en-navidad-mercadillos-y-tradiciones >}}
+{{< reflink portugal-en-navidad-mercadillos-y-tradiciones >}}

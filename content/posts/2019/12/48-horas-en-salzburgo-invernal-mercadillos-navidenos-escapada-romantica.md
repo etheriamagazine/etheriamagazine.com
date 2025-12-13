@@ -193,6 +193,6 @@ espectáculos y eventos.
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2020/05/hallstatt-viaja-con-amigas-austria >}} 
+{{< reflink hallstatt-viaja-con-amigas-austria >}} 
 
-{{< reflink path=posts/2022/07/que-hacer-en-viena-con-amigas >}}
+{{< reflink que-hacer-en-viena-con-amigas >}}

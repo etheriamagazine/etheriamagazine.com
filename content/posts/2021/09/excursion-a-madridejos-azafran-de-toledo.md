@@ -91,13 +91,13 @@ imagen.
 
 ## De visita por Madridejos
 
-Quien haya visto la película ‘Dolor y Gloria’ –Pedro Almodovar, 2019– (en este {{< 
-reflink path=posts/2020/04/paterna-escenario-de-dolor-y-gloria-de-almodovar >}} puedes 
-ver sus escenarios) recordará la vivienda subterránea en la que transcurre la núbil edad 
-de su protagonista. Es un silo, una casa excavada directamente en un terreno arcilloso. 
-Estas viviendas se excavaban con rudimentarias herramientas hasta abrir en el interior 
-del solar el espacio necesario para un par de dormitorios, cocina y cuadra para el 
-burro, logrando una casa sin vigas, sin columnas y sin tabiques. El techo de algunas 
+Quien haya visto la película ‘Dolor y Gloria’ –Pedro Almodovar, 2019– (en este [artículo 
+de Paterna]({{% ref paterna-escenario-de-dolor-y-gloria-de-almodovar %}}) puedes ver sus 
+escenarios) recordará la vivienda subterránea en la que transcurre la núbil edad de su 
+protagonista. Es un silo, una casa excavada directamente en un terreno arcilloso. Estas 
+viviendas se excavaban con rudimentarias herramientas hasta abrir en el interior del 
+solar el espacio necesario para un par de dormitorios, cocina y cuadra para el burro, 
+logrando una casa sin vigas, sin columnas y sin tabiques. El techo de algunas 
 habitaciones se abrían al cielo (lumbreras), que proporcionaban iluminación y 
 ventilación. 
 
@@ -195,10 +195,9 @@ de Juderías
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/11/mejores-rutas-en-ciudad-real >}}. 
+{{< reflink mejores-rutas-en-ciudad-real >}}. 
 
-{{< reflink 
-path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+{{< reflink viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
 >}}. 
 
-{{< reflink path=posts/2020/08/valle-tietar-sotillo-adrada-piedralaves >}}.
+{{< reflink valle-tietar-sotillo-adrada-piedralaves >}}.

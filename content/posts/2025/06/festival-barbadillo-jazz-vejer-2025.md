@@ -70,7 +70,7 @@ también están en las barras de los bares y tabernas. Tapas de atún rojo, lomo
 o carne de vaca retinta, tres productos estrella de la comarca, se sirven en versiones 
 tradicionales o creativas. 
 
-{{< reflink path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}}
+{{< reflink 10-actividades-vejer-de-la-frontera-que-ver-hacer >}}
 
 ![Vejer se sitúa sobre una colina.](https://fotos.etheriamagazine.com/2025/05/vista-mejor.jpg "Vejer se sitúa sobre una colina.")
 
@@ -99,7 +99,6 @@ este verano.
 
 ## Sigue leyendo en Etheria Magazine
 
-{{< reflink path=posts/2023/08/mejores-excursiones-desde-conil >}}. 
+{{< reflink mejores-excursiones-desde-conil >}}. 
 
-{{< reflink path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia 
->}}.
+{{< reflink guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}}.

@@ -127,6 +127,6 @@ porque las gracias se las tengo que dar yo a él por la experiencia.
 
 ✅ **No te pierdas...** 
 
-{{< reflink path=posts/2021/11/planes-viaje-a-ibiza-en-invierno >}} 
+{{< reflink planes-viaje-a-ibiza-en-invierno >}} 
 
-{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}.
+{{< reflink viaje-a-ibiza-con-amigas >}}.

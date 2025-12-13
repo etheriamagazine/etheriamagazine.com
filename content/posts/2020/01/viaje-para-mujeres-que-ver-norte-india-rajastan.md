@@ -181,6 +181,6 @@ ciudad donde se fabrica la mejor seda.
 
 ### También te puede interesar de la India
 
-{{< reflink path=posts/2018/10/que-llevar-en-la-maleta-para-viajar-a-india >}}. 
+{{< reflink que-llevar-en-la-maleta-para-viajar-a-india >}}. 
 
-{{< reflink path=posts/2018/10/viajar-sola-o-con-amigas-a-india >}}
+{{< reflink viajar-sola-o-con-amigas-a-india >}}

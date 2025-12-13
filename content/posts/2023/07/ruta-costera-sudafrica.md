@@ -186,6 +186,6 @@ más de un viaje al año.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/09/que-ver-viaje-mujeres-namibia >}}. 
+{{< reflink que-ver-viaje-mujeres-namibia >}}. 
 
-{{< reflink path=posts/2023/02/cruceros-originales >}}.
+{{< reflink cruceros-originales >}}.

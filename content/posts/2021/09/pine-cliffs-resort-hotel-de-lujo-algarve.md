@@ -176,10 +176,8 @@ Fotografías cedidas por © Pine Cliffs Resort.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/06/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve 
->}} 
+{{< reflink viajar-sola-playas-tranquilas-para-disfrutar-del-algarve >}} 
 
-{{< reflink path=posts/2020/08/18-experiencias-si-viajas-sola-al-algarve >}} 
+{{< reflink 18-experiencias-si-viajas-sola-al-algarve >}} 
 
-{{< reflink 
-path=posts/2018/07/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal >}}
+{{< reflink ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal >}}

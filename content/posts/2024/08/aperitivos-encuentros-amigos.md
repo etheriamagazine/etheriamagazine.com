@@ -124,6 +124,6 @@ tienda de la calle Barquillo, en Madrid.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2023/12/productos-manchegos >}}. 
+{{< reflink productos-manchegos >}}. 
 
-{{< reflink path=posts/2023/10/guia-para-pedir-atun-en-cadiz >}}.
+{{< reflink guia-para-pedir-atun-en-cadiz >}}.

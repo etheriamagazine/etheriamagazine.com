@@ -208,13 +208,12 @@ espíritu de Dalí sigue por ahí.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/05/pueblos-imprescindibles-viaje-amigas-costa-brava >}}. 
+{{< reflink pueblos-imprescindibles-viaje-amigas-costa-brava >}}. 
 
-{{< reflink path=posts/2019/06/que-ver-girona-con-amigas-slow-travel >}}. 
+{{< reflink que-ver-girona-con-amigas-slow-travel >}}. 
 
-{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}. 
+{{< reflink lugares-secretos-de-cataluna-que-visitar >}}. 
 
-{{< reflink path=posts/2020/08/10-planes-comarca-ampurdan-costa-brava >}}. 
+{{< reflink 10-planes-comarca-ampurdan-costa-brava >}}. 
 
-{{< reflink path=posts/2020/06/viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava 
->}}.
+{{< reflink viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava >}}.

@@ -31,9 +31,9 @@ Son muchas las ventajas de este hotel: su ubicación en la bonita playa de Le Ch
 el suroeste de la isla, su cercanía al aeropuerto (a solo 10 minutos), su increíble spa, 
 su gastronomía… Pero, además, Mauricio tiene mucho que ofrecer. Esta isla es perfecta 
 para realizar excursiones si quieres un poco de actividad y aventura. En el reportaje de 
-{{< reflink path=posts/2019/03/viajes-mujeres-mejores-planes-en-mauricio >}} te contamos 
-qué actividades no puedes perderte, aunque ya te avisamos que costará salir de este 
-hotel. 
+[10 planes en isla Mauricio]({{% ref viajes-mujeres-mejores-planes-en-mauricio %}}) te 
+contamos qué actividades no puedes perderte, aunque ya te avisamos que costará salir de 
+este hotel. 
 
 ![Lobby del Anantara Iko Mauritius Resort & Villas.](https://fotos.etheriamagazine.com/2020/12/Anantara-Mauricio-Lobby.jpg "Lobby del Anantara Iko Mauritius Resort & Villas.")
 

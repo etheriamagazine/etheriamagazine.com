@@ -233,8 +233,8 @@ cabra con tomillo y miel. Abierto de mayo a octubre. Tel. 971 305 752
 
 **Sigue leyendo sobre Ibiza** 
 
-{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}. 
+{{< reflink viaje-a-ibiza-con-amigas >}}. 
 
-{{< reflink path=posts/2021/03/hotel-lujo-la-torre-del-canonigo-ibiza >}}. 
+{{< reflink hotel-lujo-la-torre-del-canonigo-ibiza >}}. 
 
-{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}.
+{{< reflink viajar-con-amigas-mejores-playas-formentera >}}.

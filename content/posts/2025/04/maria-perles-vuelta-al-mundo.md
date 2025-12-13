@@ -113,6 +113,6 @@ larga duración).
 
 **Sigue leyendo en Etheria Magazine** 
 
-{{< reflink path=posts/2025/04/marta-insausti-almacen-viajes >}} 
+{{< reflink marta-insausti-almacen-viajes >}} 
 
-{{< reflink path=posts/2025/01/tendencias-2025-mujeres-viajeras >}}.
+{{< reflink tendencias-2025-mujeres-viajeras >}}.

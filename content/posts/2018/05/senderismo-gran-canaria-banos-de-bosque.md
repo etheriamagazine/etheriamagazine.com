@@ -97,9 +97,8 @@ encuentra donde acaba la carretera del barranco de Guayadeque.
 
 **También te puede interesar** 
 
-{{< reflink path=posts/2019/04/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias 
->}} 
+{{< reflink la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias >}} 
 
-{{< reflink path=posts/2019/05/que-ver-tenerife-donde-cuando-tajinaste-en-flor >}} 
+{{< reflink que-ver-tenerife-donde-cuando-tajinaste-en-flor >}} 
 
-{{< reflink path=posts/2021/01/casa-efigenia-mejor-restaurante-vegetariano-la-gomera >}}
+{{< reflink casa-efigenia-mejor-restaurante-vegetariano-la-gomera >}}

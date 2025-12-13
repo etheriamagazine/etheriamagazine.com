@@ -201,6 +201,6 @@ Más información en [Turismo de Washington](http://www.washington.org)
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}}. 
+{{< reflink los-mejores-miradores-de-nueva-york-gratis-de-pago >}}. 
 
-{{< reflink path=posts/2018/09/hollywood-los-angeles-eeuu >}}.
+{{< reflink hollywood-los-angeles-eeuu >}}.

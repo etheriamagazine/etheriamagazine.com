@@ -106,8 +106,8 @@ ser especial, conviene ir cerrando el equipaje con tiempo.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/02/como-organizar-viaje-en-crucero-puertos-excursiones >}} 
+{{< reflink como-organizar-viaje-en-crucero-puertos-excursiones >}} 
 
-{{< reflink path=posts/2018/11/una-maleta-para-un-crucero >}} 
+{{< reflink una-maleta-para-un-crucero >}} 
 
-{{< reflink path=posts/2018/05/miami-7-planes-para-viajar-en-familia >}}
+{{< reflink miami-7-planes-para-viajar-en-familia >}}

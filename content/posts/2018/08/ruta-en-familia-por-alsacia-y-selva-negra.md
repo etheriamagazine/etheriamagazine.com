@@ -185,10 +185,8 @@ final](https://www.intermundial.es/afiliados/seguros-de-viaje?tduid=ffe016af2424
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
+{{< reflink viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
 
-{{< reflink path=posts/2019/06/viaje-en-familia-parques-alemania-playmobil-legoland >}} 
+{{< reflink viaje-en-familia-parques-alemania-playmobil-legoland >}} 
 
-{{< reflink 
-path=posts/2018/07/los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia 
->}}
+{{< reflink los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia >}}

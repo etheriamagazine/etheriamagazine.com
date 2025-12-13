@@ -179,8 +179,8 @@ Italia](http://www.italia.it/es/home.html).
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/09/guia-basica-cagliari-para-mujeres-viajeras >}} 
+{{< reflink guia-basica-cagliari-para-mujeres-viajeras >}} 
 
-{{< reflink path=posts/2021/04/que-ver-hacer-gozo-malta >}}. 
+{{< reflink que-ver-hacer-gozo-malta >}}. 
 
-{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}}.
+{{< reflink sicilia-pantocratores-y-bikinis >}}.

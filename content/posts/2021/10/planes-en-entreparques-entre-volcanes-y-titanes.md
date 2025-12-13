@@ -207,10 +207,9 @@ Poblete. Ideal para personas muy golosas.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/11/mejores-rutas-en-ciudad-real >}}. 
+{{< reflink mejores-rutas-en-ciudad-real >}}. 
 
-{{< reflink 
-path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+{{< reflink viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
 >}}. 
 
-{{< reflink path=posts/2021/09/excursion-a-madridejos-azafran-de-toledo >}}.
+{{< reflink excursion-a-madridejos-azafran-de-toledo >}}.

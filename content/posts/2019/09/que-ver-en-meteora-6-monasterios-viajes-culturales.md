@@ -182,10 +182,8 @@ destaca por sus _souvlakis_ y otras muchas delicias griegas en un entorno muy ag
 
 ### También te puede interesar:
 
-{{< reflink 
-path=posts/2020/10/descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas 
->}} 
+{{< reflink descubre-los-secretos-de-paros-amorgos-y-milos-islas-cicladas-griegas >}} 
 
-{{< reflink path=posts/2019/01/que-visitar-crucero-por-islas-griegas >}} 
+{{< reflink que-visitar-crucero-por-islas-griegas >}} 
 
-{{< reflink path=posts/2021/07/sicilia-pantocratores-y-bikinis >}}
+{{< reflink sicilia-pantocratores-y-bikinis >}}

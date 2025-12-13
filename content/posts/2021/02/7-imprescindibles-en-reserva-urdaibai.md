@@ -155,10 +155,10 @@ obra _El viejo y el mar_ gracias a las andanzas de un viejo pescador de Mundaka.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/04/viajes-naturaleza-mejores-canones-pais-vasco >}}. 
+{{< reflink viajes-naturaleza-mejores-canones-pais-vasco >}}. 
 
-{{< reflink path=posts/2020/09/que-ver-guipuzcoa-jaizkibel-hondarribia-pasaia >}}. 
+{{< reflink que-ver-guipuzcoa-jaizkibel-hondarribia-pasaia >}}. 
 
-{{< reflink path=posts/2020/04/avistamiento-cetaceos-bizkaia-vizcaya-pais-vasco >}}. 
+{{< reflink avistamiento-cetaceos-bizkaia-vizcaya-pais-vasco >}}. 
 
-{{< reflink path=posts/2019/12/finde-bilbao-con-amigas-mejores-restaurantes >}}.
+{{< reflink finde-bilbao-con-amigas-mejores-restaurantes >}}.

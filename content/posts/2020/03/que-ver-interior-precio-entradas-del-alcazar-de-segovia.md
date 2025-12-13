@@ -248,9 +248,8 @@ Más información en [Alcázar de Segovia](https://www.alcazardesegovia.com/)
 
 ### Sigue leyendo sobre Segovia
 
-{{< reflink path=posts/2021/03/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia 
->}}. 
+{{< reflink 15-lugares-imprescindibles-que-ver-en-segovia-y-provincia >}}. 
 
-{{< reflink path=posts/2021/06/ruta-senderista-acueducto-segovia >}}. 
+{{< reflink ruta-senderista-acueducto-segovia >}}. 
 
-{{< reflink path=posts/2020/12/mejores-restaurantes-para-comer-cochinillo-en-segovia >}}
+{{< reflink mejores-restaurantes-para-comer-cochinillo-en-segovia >}}

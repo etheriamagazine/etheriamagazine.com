@@ -179,10 +179,8 @@ la ONG, “en la respuesta a la pandemia se tiene que integrar una respuesta psi
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/04/ansioliticos-y-antidepresivos-no-resuelven-los-problemas 
->}} 
+{{< reflink ansioliticos-y-antidepresivos-no-resuelven-los-problemas >}} 
 
-{{< reflink 
-path=posts/2020/11/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}} 
+{{< reflink personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}} 
 
-{{< reflink path=posts/2021/01/aguacate-beneficios-y-recetas-bajas-en-calorias >}}
+{{< reflink aguacate-beneficios-y-recetas-bajas-en-calorias >}}

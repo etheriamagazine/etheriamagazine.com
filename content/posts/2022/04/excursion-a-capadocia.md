@@ -16,11 +16,11 @@ Estambul suele ser el destino más habitual cuando se viaja a Turquía por prime
 
 Viajar a Turquía para conocer Estambul y realizar después una excursión a Capadocia es 
 una de las mejores decisiones que puedes tomar si estás valorando recorrer esta parte 
-del mundo. Eso sí, si sólo tienes un {{< reflink 
-path=posts/2018/05/fin-de-semana-romantico-en-estambul >}}, quédate en la capital turca 
-y disfruta de todos sus atractivos. A partir del tercer día, ya te puedes plantear 
-recorrer los 750 kilómetros que separan esta bellísima ciudad de los parajes de fantasía 
-de la Capadocia en autobús (los hay nocturnos, unas 8 o 9 horas de trayecto) o en 
+del mundo. Eso sí, si sólo tienes un [fin de semana en Estambul]({{% ref 
+fin-de-semana-romantico-en-estambul %}}), quédate en la capital turca y disfruta de 
+todos sus atractivos. A partir del tercer día, ya te puedes plantear recorrer los 750 
+kilómetros que separan esta bellísima ciudad de los parajes de fantasía de la Capadocia 
+en autobús (los hay nocturnos, unas 8 o 9 horas de trayecto) o en 
 [avión](https://www.skyscanner.es/rutas-aereas/ista/asr/estambul-a-kayseri.html) (poco 
 más de una hora de vuelo). Pero, ¿por qué viajar hasta allí en lugar de hacerlo a otros 
 destinos turcos como Éfeso o a Pamukkale? Te damos algunos motivos. 
@@ -31,14 +31,15 @@ destinos turcos como Éfeso o a Pamukkale? Te damos algunos motivos.
 
 ### 1\. Admirar sus paisajes de fantasía
 
-Como ya te contamos en un artículo anterior (en este enlace lo puedes leer: {{< reflink 
-path=posts/2019/02/revista-viajes-que-ver-capadocia >}}), el principal motivo para hacer 
-una excursión a Capadocia es admirar las maravillas de su paisaje. En un corto espacio 
-de tiempo descubrirás numerosas maravillas naturales forjadas por erupciones volcánicas 
-o por el ingenio humano. Imposible no sucumbir ante la belleza de las chimeneas de hadas 
-o por el curioso laberinto de viviendas de algunas ciudades subterráneas como 
-**Kaymaklı, Derinkuyu, Özkonak, Mazi y Tatlarin**, creadas para proteger a la población 
-de los invasores. A veces tendrás la sensación de que estás en otro planeta. 
+Como ya te contamos en un artículo anterior (en este enlace lo puedes leer: [Fantasías 
+de Capadocia]({{% ref revista-viajes-que-ver-capadocia %}})), el principal motivo para 
+hacer una excursión a Capadocia es admirar las maravillas de su paisaje. En un corto 
+espacio de tiempo descubrirás numerosas maravillas naturales forjadas por erupciones 
+volcánicas o por el ingenio humano. Imposible no sucumbir ante la belleza de las 
+chimeneas de hadas o por el curioso laberinto de viviendas de algunas ciudades 
+subterráneas como **Kaymaklı, Derinkuyu, Özkonak, Mazi y Tatlarin**, creadas para 
+proteger a la población de los invasores. A veces tendrás la sensación de que estás en 
+otro planeta. 
 
 📌 Si te gusta ir con guía, hay una excursión por el Sur de Capadocia por unos 55 euros. 
 [Infórmate](https://www.civitatis.com/es/capadocia/tour-sur-capadocia/?aid=10211). 

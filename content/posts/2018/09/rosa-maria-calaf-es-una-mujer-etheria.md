@@ -132,8 +132,8 @@ Un ejemplar de **_Don Quijote_ en chino.**
 
 ✅ **Sigue leyendo sobre otras grandes mujeres...** 
 
-{{< reflink path=posts/2023/06/tanit-ibiza-conexion >}} 
+{{< reflink tanit-ibiza-conexion >}} 
 
-{{< reflink path=posts/2023/03/mujeres-etheria-2023 >}}. 
+{{< reflink mujeres-etheria-2023 >}}. 
 
-{{< reflink path=posts/2023/03/mujeres-polacas-fama-universal >}}.
+{{< reflink mujeres-polacas-fama-universal >}}.

@@ -274,8 +274,8 @@ tiempo para seguir disfrutando de sus atractivas propuestas.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2022/12/que-ver-pontevedra >}} 
+{{< reflink que-ver-pontevedra >}} 
 
-{{< reflink path=posts/2019/10/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja >}}. 
+{{< reflink 8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja >}}. 
 
-{{< reflink path=posts/2019/06/rapa-das-bestas-sabucedo-pontevedra-galicia >}}.
+{{< reflink rapa-das-bestas-sabucedo-pontevedra-galicia >}}.

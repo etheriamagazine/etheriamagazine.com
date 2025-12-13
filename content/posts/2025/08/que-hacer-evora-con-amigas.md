@@ -182,9 +182,8 @@ histórico.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2022/05/cosas-que-hacer-en-el-alentejo >}}. 
+{{< reflink cosas-que-hacer-en-el-alentejo >}}. 
 
-{{< reflink path=posts/2018/11/5-experiencias-con-amigas-en-el-alentejo >}}. 
+{{< reflink 5-experiencias-con-amigas-en-el-alentejo >}}. 
 
-{{< reflink 
-path=posts/2018/07/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal >}}.
+{{< reflink ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal >}}.

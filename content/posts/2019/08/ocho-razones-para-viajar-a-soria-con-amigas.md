@@ -159,8 +159,8 @@ del siglo XVI y su gran cúpula acristalada harán el resto. ¡Y ahora, a disfru
 
 **Te puede interesar...** 
 
-{{< reflink path=posts/2021/02/planes-y-actividades-en-soria-con-ninos >}}. 
+{{< reflink planes-y-actividades-en-soria-con-ninos >}}. 
 
-{{< reflink path=posts/2021/06/ruta-senderista-acueducto-segovia >}}. 
+{{< reflink ruta-senderista-acueducto-segovia >}}. 
 
-{{< reflink path=posts/2020/11/mejores-rutas-en-ciudad-real >}}.
+{{< reflink mejores-rutas-en-ciudad-real >}}.

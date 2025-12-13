@@ -71,10 +71,9 @@ litros por 27 euros).
 
 **No te pierdas estos reportajes para preparar excursiones:** 
 
-{{< reflink path=posts/2018/05/10-razones-para-visitar-punta-cana-republica-dominicana 
->}}. 
+{{< reflink 10-razones-para-visitar-punta-cana-republica-dominicana >}}. 
 
-{{< reflink path=posts/2018/04/propuestas-en-el-norte-de-republica-dominicana >}}. 
+{{< reflink propuestas-en-el-norte-de-republica-dominicana >}}. 
 
 ![Mochila violeta pequeña y plegable.](https://fotos.etheriamagazine.com/2023/04/mochila-viaje-punta-cana.jpg "Mochila pequeña y plegable.")
 
@@ -92,8 +91,9 @@ la maleta alguna chaquetita de algodón o un par de chales que puedan servirte p
 día y la noche. 
 
 ✅ No olvides tampoco la ropa interior, el pijama (si lo usas) y un neceser donde quepan 
-tus productos de higiene y belleza. En este artículo te recomendábamos algunos: {{< 
-reflink path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}}. 
+tus productos de higiene y belleza. En este artículo te recomendábamos algunos: [7 
+neceseres para mujeres viajeras]({{% ref 
+10-neceseres-viaje-o-regalos-para-mujeres-viajeras %}}). 
 
 ![Mujer vestida con prendas de lino de Oysho.](https://fotos.etheriamagazine.com/2023/04/ropa-lino-oysho.jpg "Prendas de lino de Oysho.")
 
@@ -221,8 +221,11 @@ original para asegurarte de que sea la edición más reciente.
 
 **También te puede interesar...** 
 
-1\. {{< reflink path=posts/2023/02/que-llevar-en-la-maleta-egipto >}}. 
+1\. [Qué llevar en la maleta en un viaje a Egipto]({{% ref 
+que-llevar-en-la-maleta-egipto %}}). 
 
-2\. {{< reflink path=posts/2020/01/que-llevar-en-la-maleta-en-un-viaje-a-jordania >}}. 
+2\. [Qué llevar en la maleta en un viaje a Jordania]({{% ref 
+que-llevar-en-la-maleta-en-un-viaje-a-jordania %}}). 
 
-3\. {{< reflink path=posts/2020/01/que-llevar-en-maleta-viaje-tailandia >}}.
+3\. [Qué llevar en la maleta en un viaje a Tailandia]({{% ref 
+que-llevar-en-maleta-viaje-tailandia %}}).

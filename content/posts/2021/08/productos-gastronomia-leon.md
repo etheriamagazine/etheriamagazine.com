@@ -122,11 +122,10 @@ Tradición](https://www.leonestradicion.com/)
 
 ### Más artículos de León
 
-{{< reflink path=posts/2021/04/que-es-la-fiesta-de-las-cabezadas-de-leon >}} 
+{{< reflink que-es-la-fiesta-de-las-cabezadas-de-leon >}} 
 
-{{< reflink path=posts/2021/07/10-planes-para-disfrutar-de-leon-en-familia >}} 
+{{< reflink 10-planes-para-disfrutar-de-leon-en-familia >}} 
 
-{{< reflink 
-path=posts/2020/12/10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}} 
+{{< reflink 10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}} 
 
-{{< reflink path=posts/2020/12/16-lugares-secretos-y-leyendas-de-leon-capital >}}
+{{< reflink 16-lugares-secretos-y-leyendas-de-leon-capital >}}

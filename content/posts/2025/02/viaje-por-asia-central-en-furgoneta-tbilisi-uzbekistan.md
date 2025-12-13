@@ -155,6 +155,6 @@ en Amazon.
 
 **Sigue leyendo en Etheria Magazine** 
 
-{{< reflink path=posts/2021/02/ruta-detallada-trekking-a-ushguli-georgia >}}. 
+{{< reflink ruta-detallada-trekking-a-ushguli-georgia >}}. 
 
-{{< reflink path=posts/2019/02/que-ver-georgia >}}.
+{{< reflink que-ver-georgia >}}.

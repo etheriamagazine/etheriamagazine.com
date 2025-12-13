@@ -149,8 +149,8 @@ Llobregat). Fecha: hasta el 10 de enero de 2021. Precio: gratuita.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/03/guia-que-ver-hacer-dormir-barcelona-con-amigas >}}. 
+{{< reflink guia-que-ver-hacer-dormir-barcelona-con-amigas >}}. 
 
-{{< reflink path=posts/2018/10/guia-de-viaje-de-barcelona-en-familia >}}. 
+{{< reflink guia-de-viaje-de-barcelona-en-familia >}}. 
 
-{{< reflink path=posts/2020/10/excursion-desde-barcelona-modernismo-mataro >}}.
+{{< reflink excursion-desde-barcelona-modernismo-mataro >}}.

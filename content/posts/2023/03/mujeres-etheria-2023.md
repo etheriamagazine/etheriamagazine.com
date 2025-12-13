@@ -64,7 +64,8 @@ Proyectos llenos de alma y dedicación personal que han aportado trabajo y desar
 su entorno más cercano haciéndolo más atractivo a nivel turístico. Si ya había infinitas 
 razonas para viajar a Costa Rica, el trabajo de estas mujeres es un aliciente más. 
 
-✅ {{< reflink path=posts/2022/12/mujeres-de-costa-rica >}}. 
+✅ [Mujeres de Costa Rica que nos han inspirado en 2022]({{% ref mujeres-de-costa-rica 
+%}}). 
 
 ## MdjemAfrica, viajes a África para bailar
 
@@ -83,7 +84,8 @@ Belén es una de las integrantes de nuestros ‘Proyectos con alma’, una serie
 iniciativas de mujeres emprendedoras que apoyamos en Etheria Magazine de forma gratuita 
 bajo el lema ‘Ninguna mujer sin sus mil palabras de gloria’. 
 
-✅ {{< reflink path=posts/2022/05/mdjemafrica-viajes-mujeres-baile >}}. 
+✅ [MdjemAfrica, mujeres que viajan en grupo para bailar]({{% ref 
+mdjemafrica-viajes-mujeres-baile %}}). 
 
 ## Mujeres viajeras
 
@@ -104,7 +106,8 @@ mundo. Otras de nuestras mujeres viajeras preferidas conjugaron su pasión por v
 la divulgación, como Maria Sybilla Merian (1647-1717), que demostró con sus viajes a 
 Surinam que los insectos no tenían su origen en el demonio como se creía hasta entonces. 
 
-✅ {{< reflink path=posts/2022/03/mujeres-viajeras-de-la-historia >}}. 
+✅ [Mujeres viajeras que, rompiendo moldes, hicieron las maletas]({{% ref 
+mujeres-viajeras-de-la-historia %}}). 
 
 ## Cecilia Bartolomé, referente del cine español
 
@@ -122,7 +125,8 @@ publicitario, que ha dado forma a un estilo feminista, divertido y moderno.
 En nuestro artículo, además de un perfil de la cineasta, puedes leer también la 
 entrevista realizada a raíz del Premio Feroz. 
 
-✅ {{< reflink path=posts/2022/01/cecilia-bartolome-pionera-del-cine-espanol >}} 
+✅ [Cecilia Bartolomé: “Cuando entré en la Escuela de Cine me preguntaba qué hacía allí 
+si era una chica”.]({{% ref cecilia-bartolome-pionera-del-cine-espanol %}}) 
 
 ## Sania Jelic, viajar sola tras la jubilación
 
@@ -142,7 +146,8 @@ disfrutar con calma de la cultura de otros países. Como nos ha contado, su obje
 “contribuir a cambiar la percepción senior y animar a mayores, sobre todo a mujeres 
 independientes, a viajar y disfrutar de esta etapa de la vida”. 
 
-✅ {{< reflink path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}}. 
+✅ [Viajar sola por el mundo tras la jubilación, el nuevo plan de vida de Sania 
+Jelic]({{% ref sania-jelic-viajar-sola-mas-65 %}}). 
 
 ## Ava Gardner, una ruta en Madrid
 
@@ -161,7 +166,8 @@ ilustrado por Jorge Arévalo con [El Madrid de
 Ava](https://www.madrid-destino.com/sites/default/files/2020-12/baja%20ElMadriddeAva.pdf) 
 que se puede descargar de su web. Muy recomendable. 
 
-✅ {{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}. 
+✅ [Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer ‘alfa’]({{% ref 
+ruta-ava-gardner-en-madrid %}}). 
 
 ## Lee Krasner, una reivindicación necesaria
 
@@ -178,7 +184,8 @@ una de las pioneras del expresionismo abstracto considerada una de las grandes f
 del arte moderno. Una mujer feminista, libre y revolucionaria que tuvo que romper muchos 
 moldes por ser mujer y por pertenecer a una familia judía ortodoxa. 
 
-✅ {{< reflink path=posts/2021/08/lee-krasner-inspira-el-color-de-tu-nombre >}}. 
+✅ [Lee Krasner, artista y esposa de Pollock, una reivindicación necesaria]({{% ref 
+lee-krasner-inspira-el-color-de-tu-nombre %}}). 
 
 ## Frida Kahlo, icono feminista
 
@@ -195,7 +202,8 @@ Un reportaje que, además de poner en valor su faceta artística, recorre aquell
 que fueron importantes en su vida, desde su casa en Coyocán (México) a las ciudades de 
 Estados Unidos donde pasó parte de su vida, como Nueva York, Detroit o San Francisco. 
 
-✅ {{< reflink path=posts/2021/02/biografia-y-ruta-frida-kahlo-mexico >}}. 
+✅ [Escenarios poéticos y atormentados de la vida de Frida Kahlo]({{% ref 
+biografia-y-ruta-frida-kahlo-mexico %}}). 
 
 ## Abuelas luchadoras e inspiradoras
 
@@ -212,5 +220,5 @@ todo tipo de dificultades económicas y sociales. Una iniciativa que reivindica 
 derecho a la memoria histórica de unas mujeres anónimas que contribuyeron a su manera a 
 la lucha feminista, aunque ni siquiera pudieran llegar a pensar que lo estaban haciendo. 
 
-✅ {{< reflink 
-path=posts/2021/03/libro-nietas-de-la-memoria-historias-mujeres-en-posguerra >}}.
+✅ [‘Nietas de la memoria’: 13 relatos de abuelas anónimas y luchadoras para 
+inspirarnos]({{% ref libro-nietas-de-la-memoria-historias-mujeres-en-posguerra %}}).

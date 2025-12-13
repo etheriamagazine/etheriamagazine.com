@@ -23,7 +23,7 @@ coche. Como referencia te decimos que en solo 15 minutos llegarás caminando a l
 zona de La Baixa y al castillo de San Jorge. Si te apetece ver la capital portuguesa 
 desde un plano cenital, no tienes más que seguir las recomendaciones que te ofrecíamos 
 en el artículo de [Los 12 mejores miradores de 
-Lisboa]({{% ref 12-miradores-para-exprimir-lisboa %}}), te 
+Lisboa](http://etheriamagazine.com/2018/10/30/12-miradores-para-exprimir-lisboa/), te 
 sorprenderá la cantidad de opciones que tienes. 
 
 ![Sky Bar del Tivoli Avenida Liberdade](https://fotos.etheriamagazine.com/2019/02/Tivoli-Avenida-Liberdade-Sky-Bar.jpg "Sky Bar del Tivoli Avenida Liberdade.")
@@ -93,6 +93,6 @@ Categoría: 5 estrellas. Av. da Liberdade 185. Lisboa (Portugal) Tel. +351 21 31
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/10/8-visitas-originales-en-lisboa >}} 
+{{< reflink 8-visitas-originales-en-lisboa >}} 
 
-{{< reflink path=posts/2020/12/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues >}}
+{{< reflink ruta-de-fados-en-la-lisboa-de-amalia-rodrigues >}}

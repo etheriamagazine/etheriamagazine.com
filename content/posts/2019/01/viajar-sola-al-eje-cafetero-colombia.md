@@ -102,9 +102,9 @@ un parque temático y de atracciones agropecuario, que permite la recreación e
 interacción con el campo a partir de exposiciones, sorprendentes estaciones temáticas y 
 la compilación de zoología doméstica más grande de la Tierra. Otra parada es el **Jardín 
 Botánico del Quindío**, en Calarca, un relevante centro de exploración científica y de 
-formación ambiental que contiene, además, una de las colecciones más importantes de {{< 
-reflink path=posts/2018/12/michoacan-en-busca-de-las-mariposas-monarca >}} de Colombia y 
-del planeta. 
+formación ambiental que contiene, además, una de las colecciones más importantes de 
+[mariposas]({{% ref michoacan-en-busca-de-las-mariposas-monarca %}}) de Colombia y del 
+planeta. 
 
 ## Manizales, en medio de la naturaleza
 
@@ -163,8 +163,8 @@ En la web oficial de [Turismo de Colombia](http://www.colombia.travel/es).
 
 ##### También te puede interesar:
 
-{{< reflink path=posts/2020/03/viaje-para-mujeres-que-ver-hacer-en-bogota >}} 
+{{< reflink viaje-para-mujeres-que-ver-hacer-en-bogota >}} 
 
-{{< reflink path=posts/2021/10/parques-naturales-de-america-latina >}} 
+{{< reflink parques-naturales-de-america-latina >}} 
 
-{{< reflink path=posts/2019/11/mujeres-que-viajan-solas-amigas-peru >}}
+{{< reflink mujeres-que-viajan-solas-amigas-peru >}}

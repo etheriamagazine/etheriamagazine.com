@@ -168,8 +168,8 @@ flora y fauna local. Es una lástima no poder conocer a su autor y primer guía 
 
 ✅ **Puedes seguir leyendo sobre Chequia:** 
 
-{{< reflink path=posts/2023/08/ruta-chequia-de-olomouc-a-ostrava >}}. 
+{{< reflink ruta-chequia-de-olomouc-a-ostrava >}}. 
 
-{{< reflink path=posts/2022/08/que-ver-brno-chequia >}}. 
+{{< reflink que-ver-brno-chequia >}}. 
 
-{{< reflink path=posts/2021/11/mercadillos-navidenos-de-praga >}}.
+{{< reflink mercadillos-navidenos-de-praga >}}.

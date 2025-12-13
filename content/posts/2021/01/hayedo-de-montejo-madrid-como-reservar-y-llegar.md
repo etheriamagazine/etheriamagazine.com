@@ -131,13 +131,13 @@ veces te pide tener instalado Chrome).
 ## Dónde está el Hayedo de Montejo y cómo llegar desde Madrid
 
 El hayedo está situado a unos 106 kilómetros de Madrid capital, en Montejo de la Sierra 
-(consulta la {{< reflink 
-path=posts/2020/09/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid >}} al final 
-de este artículo). Allí se sitúa el C_entro de Recursos e Información de la Reserva de 
-la Biosfera Sierra del Rincón_ (Real, 64). Es útil pasarse para obtener algunos 
-folletos, mapas de la zona, rutas senderistas por la comarca y resolver dudas. También 
-se puede llamar por teléfono (918 697 058) y amablemente informan de todo, en horario de 
-mañana. Antes de la etapa Covid, allí se entregaban algunos pases de día. 
+(consulta la [Ruta por los pueblos de la Sierra del Rincón]({{% ref 
+pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid %}}) al final de este artículo). 
+Allí se sitúa el C_entro de Recursos e Información de la Reserva de la Biosfera Sierra 
+del Rincón_ (Real, 64). Es útil pasarse para obtener algunos folletos, mapas de la zona, 
+rutas senderistas por la comarca y resolver dudas. También se puede llamar por teléfono 
+(918 697 058) y amablemente informan de todo, en horario de mañana. Antes de la etapa 
+Covid, allí se entregaban algunos pases de día. 
 
 Para llegar al **Hayedo de Montejo desde Madrid** se debe seguir la A1 hasta la salida 
 76 y luego tomar la M-137 que te dejará en Montejo de la Sierra. Cruza el pueblo, y toma 
@@ -167,9 +167,8 @@ realizamos la segunda y para personas mayores es complicada.
 
 ## Otros hayedos y rutas
 
-{{< reflink path=posts/2020/10/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}. 
+{{< reflink que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}. 
 
-{{< reflink path=posts/2020/09/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid 
->}}. 
+{{< reflink pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid >}}. 
 
-{{< reflink path=posts/2024/09/rutas-por-10-bosques-espanoles-en-otono >}}.
+{{< reflink rutas-por-10-bosques-espanoles-en-otono >}}.

@@ -172,8 +172,9 @@ alguna duda, escríbenos a través de nuestras redes sociales.
 <iframe src="https://www.google.com/maps/d/embed?mid=11_He5yqr5lRe1OG5VEpXDDld9pSiHQY&amp;hl=es&amp;ehbc=2E312F" width="320" height="240"></iframe>
 
 Y si aún no te has animado a viajar sola, continúa leyendo este artículo sobre las 
-ventajas de hacerlo: {{< reflink path=posts/2019/01/10-ventajas-de-viajar-sola >}}. 
+ventajas de hacerlo: [10 ventajas de viajar sola que te interesa conocer]({{% ref 
+10-ventajas-de-viajar-sola %}}). 
 
 ✅ **También te puede interesar...** 
 
-{{< reflink path=posts/2020/04/10-grandes-viajes-para-sonar-desde-casa >}}.
+{{< reflink 10-grandes-viajes-para-sonar-desde-casa >}}.

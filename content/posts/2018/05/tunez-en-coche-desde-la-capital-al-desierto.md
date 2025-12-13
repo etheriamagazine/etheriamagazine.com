@@ -218,9 +218,8 @@ Más información en [www.turismodetunez.com](http://www.turismodetunez.com/)
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/03/guia-esencial-que-ver-y-hacer-en-fez >}}. 
+{{< reflink guia-esencial-que-ver-y-hacer-en-fez >}}. 
 
-{{< reflink path=posts/2020/04/viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas 
->}}. 
+{{< reflink viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas >}}. 
 
-{{< reflink path=posts/2021/02/ruta-detallada-trekking-a-ushguli-georgia >}}.
+{{< reflink ruta-detallada-trekking-a-ushguli-georgia >}}.
