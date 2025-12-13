@@ -11,7 +11,7 @@ authors:
 
 Periodista y escritora por vocación y por pasión, exprime la vida en cada una de sus facetas y escribe sobre todo lo que experimenta para medios como eldiario.es, El Correo o las revistas del Grupo Zeta, y para grandes grupos editoriales nacionales como Planeta y Penguin Random House. El último de sus libros publicados, y con 41 años ya lleva 18, se titula _La vuelta al mundo de Lizzy Fogg_, de Ediciones Casiopea, un relato en primera persona sobre los países a los que recomienda viajar sola.
 
-\[caption id="attachment\_4677" align="aligncenter" width="560"\]![mujeres viajeras inspiración](https://fotos.etheriamagazine.com/2018/10/Elisabeth-Iborra-Guatape.jpg "Elisabeth en Guatapé (Colombia).") Elisabeth en Guatapé (Colombia).\[/caption\]
+![mujeres viajeras inspiración](https://fotos.etheriamagazine.com/2018/10/Elisabeth-Iborra-Guatape.jpg "Elisabeth en Guatapé (Colombia).")
 
 Elisabeth se declara definitivamente hedonista, viajera, gastrónoma, irreverente, mente independiente, irónica y alma libre. Es una de esas mujeres profesionales y valientes que tanto nos gustan en Etheria Magazine.
 
@@ -35,7 +35,7 @@ Sinceramente, **prefiero viajar sola** porque me gusta hacer lo que me da la gan
 
 Planifico lo justo, la verdad. En la primera parte de la vuelta al mundo lo tenía todo muy planificado y me di cuenta de que perdía ese factor de la improvisación y me limitaba para hacer cosas que me iban apeteciendo sobre la marcha.
 
-\[caption id="attachment\_4675" align="aligncenter" width="362"\]![viajes mujeres viajeras](https://fotos.etheriamagazine.com/2018/10/Elisabeth-Iborra-Colombia.jpg) Elisabeth en una tienda en Colombia.\[/caption\]
+![viajes mujeres viajeras](https://fotos.etheriamagazine.com/2018/10/Elisabeth-Iborra-Colombia.jpg "Elisabeth en una tienda en Colombia.")
 
 ##### 6\. ¿Cómo te entretienes en las esperas de los aeropuertos?
 
@@ -57,13 +57,13 @@ Cualquiera de los 26 destinos que salen en este tomo de **_La vuelta al mundo de
 
 Tengo un recorrido en mente que empieza por **Laos**, una belleza de país en el que quiero profundizar; sigue por **Myanmar**, el **Borneo Malasio** y **Papúa Nueva Guinea**, donde me desaconsejaron ir sola porque podía acabar asada a la parrilla; y acaba en las **islas Fiji**, que honestamente me encantaría disfrutar acompañada por una pareja, porque debe de ser supertriste estar allí sola viendo cómo los demás se dedican a darse el lote en plan idílico en aquellas playas maravillosas.
 
-\[caption id="attachment\_4678" align="aligncenter" width="701"\]![mujeres viajeras Laos](https://fotos.etheriamagazine.com/2018/10/Elisabeth-Iborra-Luang-Prabang.jpg "Elisabeth con Luang Prabang (Laos) al fondo.") Elisabeth con Luang Prabang (Laos) al fondo.\[/caption\]
+![mujeres viajeras Laos](https://fotos.etheriamagazine.com/2018/10/Elisabeth-Iborra-Luang-Prabang.jpg "Elisabeth con Luang Prabang (Laos) al fondo.")
 
 ##### 11\. ¿Qué país te ha ganado con su gastronomía? ¿Destacarías algún plato o producto?
 
 Ay, madre, yo cuando viajo me lo como todo, lo pruebo todo, pienso en cuando será la próxima vez que podré gozar de sus especialidades y soy incapaz de dejarme nada por testar. En **Perú**, en concreto, tuve que reconocer que no tiene la fama de ser la mejor gastronomía de Latinoamérica por casualidad, menudo nivel creativo. En **Argentina**, sus carnes y sus vinos, con esa uva Malbec que es mi preferida, me entusiasman. Y en **Malasia** comer es el deporte nacional ¡y yo fui la más deportista de todos!
 
-\[caption id="attachment\_4676" align="aligncenter" width="934"\]![viajes mujeres viajeras](https://fotos.etheriamagazine.com/2018/10/Elisabeth-Iborra-gastronomia.jpg "A Elisabeth le gusta probar la gastronomía local en sus viajes.") A Elisabeth le apasiona probar la gastronomía local en sus viajes.\[/caption\]
+![viajes mujeres viajeras](https://fotos.etheriamagazine.com/2018/10/Elisabeth-Iborra-gastronomia.jpg "A Elisabeth le apasiona probar la gastronomía local en sus viajes.")
 
 ##### 12\. ¿En qué medio de transporte prefieres viajar?
 
@@ -73,7 +73,7 @@ Avión, de todas todas, y porque no existe el teletransporte. Detesto los autobu
 
 El **Península** de Bangkok, por derecho. Cinco estrellas con todas las de la ley, el trato que recibí, desde la bienvenida al pequeño apartamento en el que me alojaron, con esos _petit four_ deliciosos; pasando por el spa en el que me dieron un masaje durante horas, hasta el desayuno en el bufé y la cena tailandesa de lujo. Era tan magnífico todo, con ese elegante alarde de lujo asiático, que me costaba salir de allí para ver la capital; pero me esforcé y me la pateé como una jabata, por supuesto.
 
-\[caption id="attachment\_4685" align="aligncenter" width="1024"\]![hoteles lujo mujeres viajeras](https://fotos.etheriamagazine.com/2018/10/Spa-Reception-Peninsula-Bangkok.jpg "Recepción del Spa del hotel Peninsula de Bangkok.") Recepción del spa del hotel Peninsula de Bangkok. ©The Peninsula Hotels.\[/caption\]
+![hoteles lujo mujeres viajeras](https://fotos.etheriamagazine.com/2018/10/Spa-Reception-Peninsula-Bangkok.jpg "Recepción del spa del hotel Peninsula de Bangkok. ©The Peninsula Hotels.")
 
 ##### 14\. ¿Qué es lo que nunca falta en tu bolsa de mano?
 
@@ -83,7 +83,7 @@ Lo que creo que no puede faltar en el equipaje de cualquier mujer es la copa men
 
 No suelo hacer listados, los tengo en la cabeza. Ante todo, recomiendo llevar una mochila pero con tirador y rueditas, porque te evita ir cargando con ella a la espalda en terrenos llanos donde puedes ir cómodamente tirando como si fuera una maleta de cabina de avión. Luego hay que meter ropa combinable, enrolladita para que ocupe menos y no se arrugue. Y para mí fue una fórmula muy práctica meter unas botas de trekking y unas sandalias de goma con un poco de tacón, ya que podía usarlas tanto para ir a la playa como para salir de noche toda mona con un vestidito. Un kit de supervivencia y primeros auxilios con suero fisiológico y algo contra la diarrea siempre van bien. No es necesario meter muchas prendas, porque siempre puedes ir sustituyéndolas por otras nuevas cuando se desgastan.
 
-\[caption id="attachment\_4674" align="aligncenter" width="432"\]![mujeres viajeras](https://fotos.etheriamagazine.com/2018/10/Elisabeth-Iborra-Australia.jpg "Elisabeth en Australia.") De viaje en Australia.\[/caption\]
+![mujeres viajeras](https://fotos.etheriamagazine.com/2018/10/Elisabeth-Iborra-Australia.jpg "De viaje en Australia.")
 
 ##### 16\. ¿Cuál ha sido el souvenir más extravagante que has comprado?
 

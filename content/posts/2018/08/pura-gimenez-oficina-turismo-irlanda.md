@@ -31,7 +31,7 @@ Los viajes aportan, sobre todo, lo que yo defino como “mundología”. Los aco
 > 
 > ###### Creo que el mejor compañero de viaje es alguien con quien hayas viajado anteriormente.
 
-\[caption id="attachment\_3188" align="aligncenter" width="1600"\]![pura gimenez mujer etheria turismo irlanda](https://fotos.etheriamagazine.com/2018/08/pura-gimenez-turismo-irlanda.jpg "Pura Giménez es la directora de prensa de la oficina de turismo de Irlanda en España") Pura Giménez en Irlanda. © Carlos Zapata.\[/caption\]
+![pura gimenez mujer etheria turismo irlanda](https://fotos.etheriamagazine.com/2018/08/pura-gimenez-turismo-irlanda.jpg "Pura Giménez en Irlanda. © Carlos Zapata.")
 
 ##### 5\. ¿Sueles planificar con antelación tus viajes o prefieres improvisar?
 
@@ -65,7 +65,7 @@ Uno de los medios más prácticos es el **avión**, aunque dependiendo del desti
 > 
 > ###### Uno de los hoteles que me ha parecido increíble es el [Carton House](https://www.cartonhouse.com/), situado en Kildare, en Irlanda.
 
-\[caption id="attachment\_3194" align="aligncenter" width="640"\]![hotel carton house etheria magazine](https://fotos.etheriamagazine.com/2018/08/carton-house-hotel-irlanda.jpg "El Carton House, situado en Irlanda, es el hotel favorito de Pura Giménez") Fachada principal del hotel Carton House.\[/caption\]
+![hotel carton house etheria magazine](https://fotos.etheriamagazine.com/2018/08/carton-house-hotel-irlanda.jpg "Fachada principal del hotel Carton House.")
 
 ##### 13\. ¿Qué es lo que nunca falta en tu bolsa de mano?
 

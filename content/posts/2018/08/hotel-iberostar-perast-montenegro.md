@@ -22,7 +22,7 @@ hotel? Por su belleza y ubicación por supuesto, pero también porque ostenta la
 **Grand**, la más selecta del grupo, y porque se engloba en el segmento **Iberostar 
 Heritage** (hoteles con historia). 
 
-\[caption id="attachment\_3131" align="alignnone" width="1800"\]![Iberostar perast montenegro](https://fotos.etheriamagazine.com/2018/08/iberostar-perast-montenegro-hotel.jpg "Vista general del Iberostar Perast de Montenegro.") Vista exterior del Iberostar Grand Perast de Montenegro.\[/caption\]
+![Iberostar perast montenegro](https://fotos.etheriamagazine.com/2018/08/iberostar-perast-montenegro-hotel.jpg "Vista exterior del Iberostar Grand Perast de Montenegro.")
 
 ## 1\. Por su historia 
 
@@ -36,7 +36,7 @@ enriquecimiento y prestigio le llevó a recibir el título de conde en 1748, lo 
 también debió empujarle a edificar este palacio que acoge hoy día a este nuevo 
 Iberostar. 
 
-\[caption id="attachment\_3129" align="aligncenter" width="1800"\]![alojamiento iberostar perast montenegro lujo](https://fotos.etheriamagazine.com/2018/08/iberostar-montenegro-perast-palacio.jpg "El Iberostar Grand Perast se sitúa en un palacio del siglo XVIII.") Este hotel se sitúa en un palacio del siglo XVIII.\[/caption\]
+![alojamiento iberostar perast montenegro lujo](https://fotos.etheriamagazine.com/2018/08/iberostar-montenegro-perast-palacio.jpg "Este hotel se sitúa en un palacio del siglo XVIII.")
 
 ## 2\. Por su situación y entorno
 
@@ -49,7 +49,7 @@ marítima de los Balcanes y en ella se produjo el salvamento milagroso de unos p
 que dio lugar a la creación de la mayor isla artificial del Adriático (formada por 
 piedras que transportaron durante siglos los agradecidos peregrinos). 
 
-\[caption id="attachment\_3145" align="aligncenter" width="2375"\]![hotel montenegro iberostar grand perast](https://fotos.etheriamagazine.com/2018/08/iberostar-perast-hotel-montenegro-vistas.jpg) Vistas desde el Iberostar Grand Perast (Montenegro).\[/caption\]
+![hotel montenegro iberostar grand perast](https://fotos.etheriamagazine.com/2018/08/iberostar-perast-hotel-montenegro-vistas.jpg "Vistas desde el Iberostar Grand Perast (Montenegro).")
 
 Pasear por Perast te ofrece la oportunidad de trasladarse a los siglos XVI, XVII y 
 XVIII, cuando la República de Venecia dominaba el lugar y, en cierto modo, definía su 
@@ -59,7 +59,7 @@ abierto”, uno de los emblemas característicos de Perast; la cercana **isla de
 Dorde** (isla de San Jorge) y su monasterio. Y, por último, a solo 80 kilómetros se 
 encuentra **Dubrovnik**, una monumental ciudad croata que merece la pena conocer. 
 
-\[caption id="attachment\_3136" align="aligncenter" width="2308"\]![Iberostar perast montenegro](https://fotos.etheriamagazine.com/2018/08/iberostar-suite-royal-montenegro.jpg "Habitaciones de lujo en el Iberostar Grand Perast de Montenegro") Habitaciones confortables con todas las comodidades.\[/caption\]
+![Iberostar perast montenegro](https://fotos.etheriamagazine.com/2018/08/iberostar-suite-royal-montenegro.jpg "Habitaciones confortables con todas las comodidades.")
 
 ## 3\. Por sus instalaciones, el mejor hotel de Perast
 
@@ -67,7 +67,7 @@ Los edificios históricos y el confort no siempre van de la mano, pero en este p
 que incluso conserva en su estructura piedras originales de la isla croata de Korčula 
 (Croacia), se respetan y conviven adecuándose a las necesidades del viajero actual. 
 
-\[caption id="attachment\_3135" align="aligncenter" width="2000"\]![spa hotel montenegro](https://fotos.etheriamagazine.com/2018/08/iberostar-perast-spa-montenegro.jpg "El Iberostar Grand Perast cuenta con spa") Tras un día de caminatas relájate en el spa.\[/caption\]
+![spa hotel montenegro](https://fotos.etheriamagazine.com/2018/08/iberostar-perast-spa-montenegro.jpg "Tras un día de caminatas relájate en el spa.")
 
 Sus **48 habitaciones** han sido completamente renovadas recordando y potenciando su 
 pasado, una de las características fundamentales de la categoría Heritage a la que 
@@ -80,7 +80,7 @@ instalaciones ya que cuenta con piscina y spa. Y después, ya recuperados, disfr
 la buena cocina local en sus restaurantes. No dejes de probar el el _skakavica_ —pescado 
 marinado con col blanca— o el _projanica_, un irresistible pastel de queso. 
 
-\[caption id="attachment\_3134" align="aligncenter" width="1800"\]![Iberostar perast montenegro](https://fotos.etheriamagazine.com/2018/08/iberostar-perast-restaurante-montenegro.jpg "La gastronomía también tiene su lugar en el Iberostar Grand Perast de Montenegro") Prueba la cocina local en el propio hotel.\[/caption\]
+![Iberostar perast montenegro](https://fotos.etheriamagazine.com/2018/08/iberostar-perast-restaurante-montenegro.jpg "Prueba la cocina local en el propio hotel.")
 
 Si decides ampliar la estancia en el país, la cadena mallorquina cuenta con dos 
 establecimientos más en Montenegro: **Iberostar Herceg Novi**, un cuatro estrellas en la 

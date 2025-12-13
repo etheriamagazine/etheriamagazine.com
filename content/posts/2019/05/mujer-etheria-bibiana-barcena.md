@@ -14,13 +14,13 @@ viajes, Bibiana Bárcena es una de las Mujeres Etheria que forman parte del sele
 femenino que destacamos por su valentía y su trayectoria profesional en el sector 
 turístico. 
 
-\[caption id="attachment\_9986" align="aligncenter" width="900"\]![viaje napoles, bibiana barcena](https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-Vesubio-Napoli.jpg "Bibiana Bárcena en Nápoles.") Bibiana Bárcena en Nápoles.\[/caption\]
+![viaje napoles, bibiana barcena](https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-Vesubio-Napoli.jpg "Bibiana Bárcena en Nápoles.")
 
 Bibiana Bárcena se encuentra actualmente al frente del **hotel Ibis Madrid Centro**, en el castizo barrio de Malasaña. Previamente, ha dirigido otros dos hoteles de esta misma división y ha formado parte del área financiera de cadenas como Meliá Hotels International y Accor.
 
 Se define a sí misma como una persona inquieta y profundamente social, sin miedo a salir de su zona de _confort_. La valentía la ha llevado a enfrentarse a nuevos retos que la han hecho crecer personal y profesionalmente. Reconoce, igualmente, que el exceso de empatía puede llevar a ciertas decepciones aunque “le gusta ser así y no pretende cambiar ese rasgo personal”. Considera que para disfrutar de una profesión como la suya debe gustar mucho el contacto social (proveedores, personal, clientes...). Eso sí, tiene una buena recompensa porque en su día a día “no hay lugar para la rutina”.
 
-\[caption id="attachment\_9980" align="aligncenter" width="714"\]![bibiana barcena, directora ibis madrid, viaje berlin](https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-Berlin.jpg "Bibiana Barcena en su viaje a Berlín.") Viaje a Berlín.\[/caption\]
+![bibiana barcena, directora ibis madrid, viaje berlin](https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-Berlin.jpg "Viaje a Berlín.")
 
 Bibiana Bárcena es consciente de que **la mujer en su sector** aún tiene muchos logros que alcanzar, comenzando por la conciliación: “A veces cuesta dedicar la cantidad y la calidad del tiempo que te gustaría a la vida personal, sobre todo si se tienen hijos en edades complicadas. Hay que hacer auténticos malabares”. El consejo que le daría a aquellas mujeres que desean dedicarse a la dirección de hoteles es que “si es su sueño no paren hasta conseguirlo. Tengo la suerte de tener un trabajo que me encanta y me hace muy feliz y así es mucho más fácil hacer felices a los que te rodean, a tu equipo y a tus clientes”.
 
@@ -40,7 +40,7 @@ Los primeros recuerdos son de mis vacaciones de la infancia, con mis padres y mi
 
 Conocer otros lugares, otras culturas, otras formas de entender la vida. Darte cuenta de que **somos todos distintos y todos parecidos al mismo tiempo**, seres humanos con sentimientos similares, que ríen, aman, comparten, sufren… todo esto ayuda a entender y a empatizar más con los que te rodean.
 
-\[caption id="attachment\_9985" align="aligncenter" width="595"\]![bibiana barcena, viaje senegal](https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-Senegal2.jpg "Viaje de Bibiana Bárcena a Senegal.") Viaje a Senegal.\[/caption\]
+![bibiana barcena, viaje senegal](https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-Senegal2.jpg "Viaje a Senegal.")
 
 3\. ¿Qué consideras que te han aportado los viajes? ¿Por qué los aconsejarías? 
 
@@ -50,7 +50,7 @@ Gracias a los viajes he conocido a gente fantástica, que nunca hubiera tenido l
 
 No podría elegir solo un personaje para un único viaje. Me encantaría por ejemplo recorrer las calles de Praga con **Milán Kundera**, tomarme unos tequilas en el Tenampa de la Plaza Garibaldi de México D.F. con **Joaquín Sabina** mientras los mariachis cantan canciones de José Alfredo Jiménez, o compartir mesa en algún bistró de **Montmartre** con Edith Piaf y Charles Aznavour.
 
-\[caption id="attachment\_9983" align="aligncenter" width="900"\]![bibiana barcena, viaje isla mauricio, mujer etheria](https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-pointe-esny-mauritius.jpg "Viaje a Isla Mauricio.") Viaje a Isla Mauricio.\[/caption\]
+![bibiana barcena, viaje isla mauricio, mujer etheria](https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-pointe-esny-mauritius.jpg "Viaje a Isla Mauricio.")
 
 5\. ¿Sueles planificar con antelación tus viajes o prefieres improvisar? 
 
@@ -60,7 +60,7 @@ La verdad es que improviso bastante. Los viajes largos sí que están un poco m�
 
 Depende del tiempo y del aeropuerto. Hoy en día hay algunos que parecen centros comerciales donde se puede hacer casi de todo, si realmente la espera es larga. Si no lo es, prefiero simplemente tomar algo o leer. A los viajes largos suelo llevar **un libro sobre el destino** que, normalmente, apenas he tenido tiempo de ojear, así que es una buena ocasión para hacerlo.
 
-\[caption id="attachment\_9981" align="aligncenter" width="900"\]![bibiana barcena, viaje la habana, mujer etheria](https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-La-Habana-Cuba-e1558348746437.jpg "Bibiana Barcena en La Habana.") Viaje a La Habana.\[/caption\]
+![bibiana barcena, viaje la habana, mujer etheria](https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-La-Habana-Cuba-e1558348746437.jpg "Viaje a La Habana.")
 
 7\. ¿Cuál ha sido el mejor viaje de tu vida hasta el momento? ¿Por qué? 
 
@@ -76,7 +76,7 @@ Mi último viaje fue a la [Isla Mauricio]({{% ref viajes-mujeres-mejores-planes-
 
 Sin irnos muy lejos yo no perdonaría [Cádiz]({{% ref viajar-con-amigas-que-hacer-en-cadiz %}}) ni, por supuesto, **La Habana**, que curiosamente son dos ciudades que guardan grandes similitudes. Además, recomendaría México, un país enorme y muy diverso. Me encanta su cultura, sus mariachis, la simpatía de sus gentes. Es un país al que he ido también varias veces y siempre lo he pasado de maravilla. Y para quien le apasionen, como a mí, las playas, **Playa Paraíso**, en **Tulum**, es una de las más bonitas y animadas que he visitado nunca.
 
-\[caption id="attachment\_9982" align="aligncenter" width="900"\]![playa paraiso, viaje mexico, mujer etheria](https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-Playa-Paraiso.jpg "Playa Paraíso, en México.") Playa Paraíso, en México.\[/caption\]
+![playa paraiso, viaje mexico, mujer etheria](https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-Playa-Paraiso.jpg "Playa Paraíso, en México.")
 
 10\. Tres viajes pendientes… 
 
@@ -94,7 +94,7 @@ Depende del viaje. Por razones obvias, el avión para los viajes largos, pero me
 
 El hotel donde mejor me he sentido, por el mimo con que te tratan y la belleza del entorno, es el [Sofitel Mauritius Imperial Resort & Spa](https://sofitel.accorhotels.com/es/hotel-1144-sofitel-mauritius-l-imperial-resort-spa/index.shtml). Pero también hay otros más pequeños y modestos que me han encantado, como la **Guest House Blue Beryl**, en Blue Bay, donde tenía una terraza con las vistas más bonitas que me ha regalado la vida. O el **Hotel Alfonsina**, de Villacarriedo en Cantabria, que siendo un hotel muy sencillo me encantó por la pasión con que lo vivía la familia que lo regentaba y por el delicioso desayuno casero que servían.
 
-\[caption id="attachment\_9984" align="aligncenter" width="900"\]![bibiana barcena, senegal, mujer etheria](https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-Senegal.jpg "Viaje a Senegal.") Viaje a Senegal.\[/caption\]
+![bibiana barcena, senegal, mujer etheria](https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-Senegal.jpg "Viaje a Senegal.")
 
 14\. ¿Qué es lo que nunca falta en tu bolsa de mano? 
 

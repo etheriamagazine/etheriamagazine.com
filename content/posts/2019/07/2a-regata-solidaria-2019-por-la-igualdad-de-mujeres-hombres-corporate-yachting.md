@@ -13,13 +13,13 @@ YACHTING’ tendrá lugar el 27 de septiembre de 2019 en la Marina de Valencia. 
 evento, organizado sin ánimo de lucro, introduce algunas novedades respecto a la edición 
 anterior. 
 
-\[caption id="attachment\_11399" align="aligncenter" width="900"\]![regata solidaria igualdad hombres y mujeres valencia](https://fotos.etheriamagazine.com/2019/07/regata-solidaria.jpg) Regata solidaria a favor de la Igualdad entre Mujeres y Hombres ‘Corporate YACHTING’\[/caption\]
+![regata solidaria igualdad hombres y mujeres valencia](https://fotos.etheriamagazine.com/2019/07/regata-solidaria.jpg "Regata solidaria a favor de la Igualdad entre Mujeres y Hombres ‘Corporate YACHTING’")
 
 Tras la buena acogida de la primera regata solidaria, desarrollada en Valencia en 2018, se repite esta iniciativa con la que se pretende, según señala José Alfredo López, fundador y CEO de **Corporate YATCHING & Partners**, “divulgar desde el mar los valores sobre la igualdad entre mujeres y hombres”. También indica que como el objetivo es "navegar juntos hacia la paridad", la participación para las empresas tiene un coste operacional mínimo (unos 3.900 € para un equipo de 10 personas) y es gratuita para los particulares que vayan en su propio barco.
 
 Si estás interesada en participar respondemos a continuación a posibles dudas que te pueden surgir.
 
-\[caption id="attachment\_11396" align="aligncenter" width="900"\]![regata solidaria igualdad hombres y mujeres, regata mujeres valencia](https://fotos.etheriamagazine.com/2019/07/regata-igualdad-hombres-mujeres.jpg "Las empresas pueden bonificar hasta el 25% de la inversión.") Las empresas pueden bonificar hasta el 25% de la inversión.\[/caption\]
+![regata solidaria igualdad hombres y mujeres, regata mujeres valencia](https://fotos.etheriamagazine.com/2019/07/regata-igualdad-hombres-mujeres.jpg "Las empresas pueden bonificar hasta el 25% de la inversión.")
 
 ## Dirigida a empresas y particulares
 
@@ -32,7 +32,7 @@ Participar en la Regata Solidaria tiene para las empresas un coste muy bajo, sie
 > Cruz Roja Española destinará la donación a varios proyectos sociales vinculados con el 
 > empoderamiento y ayuda a mujeres en situaciones desfavorables. 
 
-\[caption id="attachment\_11398" align="aligncenter" width="900"\]![regata solidaria igualdad hombres y mujeres, regata mujeres valencia](https://fotos.etheriamagazine.com/2019/07/regata-solidaria-valencia.jpg "En la edición de 2018 sólo un 5% de los participantes tenía nociones de navegación a vela.") En la edición de 2018 sólo un 5% de los participantes tenía nociones de navegación a vela.\[/caption\]
+![regata solidaria igualdad hombres y mujeres, regata mujeres valencia](https://fotos.etheriamagazine.com/2019/07/regata-solidaria-valencia.jpg "En la edición de 2018 sólo un 5% de los participantes tenía nociones de navegación a vela.")
 
 ## ¿Se necesitan conocimientos previos?
 
@@ -40,13 +40,13 @@ No, de hecho es una buena oportunidad para aprender sobre la navegación a vela.
 
 Los equipos pueden ser 100% femeninos o mixtos. Según Gracia Sánchez del Real, presidenta de **Woman Leader España**: “La regata es una excelente oportunidad para todas aquellas empresas que quieran impulsar la igualdad de oportunidades entre mujeres y hombres en sus empresas y lanzar un mensaje claro de **diversidad y desarrollo de futuro**. Los equipos de trabajo mixtos movidos por el talento y los objetivos comunes logran fomentar el diálogo, la creatividad y alcanzar sus metas”.
 
-\[caption id="attachment\_11397" align="aligncenter" width="900"\]![regata solidaria igualdad hombres y mujeres, regata mujeres valencia](https://fotos.etheriamagazine.com/2019/07/regata-solidaria-igualdad.jpg "Las inscripciones ya están abiertas.") Las inscripciones ya están abiertas.\[/caption\]
+![regata solidaria igualdad hombres y mujeres, regata mujeres valencia](https://fotos.etheriamagazine.com/2019/07/regata-solidaria-igualdad.jpg "Las inscripciones ya están abiertas.")
 
 ## ¿Cuándo inscribirse?
 
 Las inscripciones ya están abiertas. Entre las compañías participantes, Carrefour renueva su inscripción como extensión a su programa 2018 Woman Leaders; y Crédito y Caución también apuesta por la regata como una actividad para impulsar acciones de fidelización entre sus asegurados.
 
-\[caption id="attachment\_11401" align="aligncenter" width="900"\]![regata solidaria igualdad hombres y mujeres, regata mujeres valencia](https://fotos.etheriamagazine.com/2019/07/regata-valencia-igualdad-mujeres.jpg "La presente edición se organiza con el copatrocinio de Carrefour, Crédito y Caución, y CGI.") La presente edición se organiza con el copatrocinio de Carrefour, Crédito y Caución, y CGI.\[/caption\]
+![regata solidaria igualdad hombres y mujeres, regata mujeres valencia](https://fotos.etheriamagazine.com/2019/07/regata-valencia-igualdad-mujeres.jpg "La presente edición se organiza con el copatrocinio de Carrefour, Crédito y Caución, y CGI.")
 
 ### ¿Quién apoya la Regata Solidaria para la Igualdad entre Mujeres y Hombres ‘Corporate YACHTING?
 

@@ -29,11 +29,11 @@ El itinerario en la exposición comienza en 1840 con un vestido al estilo de la 
 
 Entre los modelos que más pueden llamar tu atención se encuentran un vestido italiano de una sola pieza sin costuras y los de color negro con cuya tonalidad se representaba el luto. Aunque, a veces, se rompían las convenciones vistiendo complementos de otro color como el velo blanco que llevaba Pastora Imperio en 1911. El vestido negro no le trajo mucha suerte porque el matrimonio no duró ni un año.
 
-\[caption id="attachment\_10567" align="aligncenter" width="619"\]![](https://fotos.etheriamagazine.com/2019/06/boda-pastora-imperio.jpg) Boda de Pastoria Imperio con el torero El Gallo. © ABC\[/caption\]
+![](https://fotos.etheriamagazine.com/2019/06/boda-pastora-imperio.jpg "Boda de Pastoria Imperio con el torero El Gallo. © ABC")
 
 La segunda parte de la exposición es sobre los distintos '**trajes de casar'** en España. Es un conjunto de 17 vestidos populares integrado por trajes de vistas de La Alberca, Lagartera y Navalcán; los dos conjuntos que usaban las novias toledanas en Consuegra (el traje de casar o de pájaro y el traje de llevadura); la “ruea” de Montehermoso; los trajes de la Mariña gallega, el valle de Ansó (Huesca), Valencia o la Ribera de Castilla y León. Estos modelos son auténticas joyas textiles de nuestra historia que incluyen elementos de la moda española desde el siglo XVI.
 
-\[caption id="attachment\_10558" align="aligncenter" width="900"\]![gala de la buena novia, soria, moron de almazan](https://fotos.etheriamagazine.com/2019/06/gala-buena-novia-moron-almazan.jpg "Morón de Almazán, un bonito pueblo de Soria.") A la izquierda, el palacio de los Hurtado de Mendoza en Morón de Almazán.\[/caption\]
+![gala de la buena novia, soria, moron de almazan](https://fotos.etheriamagazine.com/2019/06/gala-buena-novia-moron-almazan.jpg "A la izquierda, el palacio de los Hurtado de Mendoza en Morón de Almazán.")
 
 > Uno de los vestidos estuvo expuesto en el Metropolitan Museum of Arts de Nueva York. 
 

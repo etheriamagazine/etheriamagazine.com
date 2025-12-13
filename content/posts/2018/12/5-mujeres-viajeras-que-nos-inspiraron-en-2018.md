@@ -27,7 +27,7 @@ En este artículo sobre [George Sand]({{% ref mallorca-de-la-mano-de-george-sand
 
 Esta entusiasta alemana ha conseguido contagiar a cientos de personas su amor por los Beatles y su música a través del [Tour Stefaine Hempel]({{% ref stefanie-hempel-y-el-hamburgo-de-los-beatles %}}) con el que ilustra sobre los comienzos de la banda británica en Hamburgo. Nuestra colaboradora Manena Munar nos trajo el perfil de esta divertida mujer que realiza esta visita guiada por la ciudad ukelele en mano.
 
-\[caption id="attachment\_2204" align="aligncenter" width="1024"\]![Tour hamburgo the beatles](https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-5.jpg) Stefanie Hempel realiza el tour del Hamburgo de los Beatles.\[/caption\]
+![Tour hamburgo the beatles](https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-5.jpg "Stefanie Hempel realiza el tour del Hamburgo de los Beatles.")
 
 ##### {{< reflink la-poetisa-sofia-casanova-una-gallega-en-polonia >}}
 
@@ -39,4 +39,4 @@ Nos ganó esta historia en cuanto llegó a nuestras manos. Por valiente, por cul
 
 Una historia de esas que te demuestran que no puedes hacer planes a largo plazo y que la vida te puede sorprender con un cambio de rumbo. [Elisabeth Pasalk]({{% ref elizabeth-pasalk-y-gwango-en-el-p-n-de-hwange-zimbabue %}}), de padre alemán y madre zimbabuense, dejó su cómoda vida en Estados Unidos para cumplir una promesa que hizo a su madre: hacerse cargo de los elefantes que vivían en Gwango. Será difícil que no te conmueva esta historia.
 
-\[caption id="attachment\_5754" align="aligncenter" width="1024"\]![](https://fotos.etheriamagazine.com/2018/12/Elizabet-lodge-zinbabue-mujer-etheria.jpg) Elizabeth, del lodge de Zimbabue.\[/caption\]
+![](https://fotos.etheriamagazine.com/2018/12/Elizabet-lodge-zinbabue-mujer-etheria.jpg "Elizabeth, del lodge de Zimbabue.")
