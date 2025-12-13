@@ -231,6 +231,6 @@ Madeira](https://www.visitmadeira.com/).
 
 ### Sigue leyendo sobre Madeira
 
-{{< reflink path=posts/2019/04/viajar-con-amigas-que-ver-madeira >}}. 
+{{< reflink viajar-con-amigas-que-ver-madeira >}}. 
 
-{{< reflink path=posts/2022/08/que-ver-funchal >}}.
+{{< reflink que-ver-funchal >}}.

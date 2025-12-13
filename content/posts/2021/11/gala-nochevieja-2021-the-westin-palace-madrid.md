@@ -109,8 +109,8 @@ y Nochevieja** (Tel. 913 607 666 o events.palace@westin.com)
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/05/15-escapadas-a-menos-de-99-km-de-madrid >}}. 
+{{< reflink 15-escapadas-a-menos-de-99-km-de-madrid >}}. 
 
-{{< reflink path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}}. 
+{{< reflink 11-escapadas-cercanas-a-dos-horas-de-madrid >}}. 
 
-{{< reflink path=posts/2021/10/meet-vincent-van-gogh-exposicion-madrid >}}.
+{{< reflink meet-vincent-van-gogh-exposicion-madrid >}}.

@@ -47,8 +47,8 @@ bolsillo para no cargar con mucho peso. Puedes también llevar algún libro para
 pequeños, para la playa van bien los pasatiempos y acertijos como el de ['365 enigmas y 
 juegos de lógica'](https://amzn.to/3dsMU9b) de Miguel Capó, seguro que encuentran algún 
 momento para descansar en la toalla. Si buscas alguna recomendación, puedes leer nuestro 
-artículo {{< reflink 
-path=posts/2020/04/viaja-a-traves-de-los-libros-con-estas-10-rutas-literarias >}} 
+artículo ['Viaja a través de los libros con estas 10 rutas literarias'.]({{% ref 
+viaja-a-traves-de-los-libros-con-estas-10-rutas-literarias %}}) 
 
 ## 4\. Juguetes de playa.
 
@@ -122,6 +122,6 @@ como otros más adecuados para hacer
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/10/8-imprescindibles-maleta-para-hacer-deporte >}}. 
+{{< reflink 8-imprescindibles-maleta-para-hacer-deporte >}}. 
 
-{{< reflink path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}.
+{{< reflink mejores-playas-y-calas-de-conil-de-la-frontera >}}.

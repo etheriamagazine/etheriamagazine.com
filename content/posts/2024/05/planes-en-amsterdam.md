@@ -185,6 +185,6 @@ canales.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/10/museo-nemo-en-amsterdam-ciencia-para-toda-la-familia >}} 
+{{< reflink museo-nemo-en-amsterdam-ciencia-para-toda-la-familia >}} 
 
-{{< reflink path=posts/2018/09/amsterdam-un-fin-de-semana-con-tu-madre >}}
+{{< reflink amsterdam-un-fin-de-semana-con-tu-madre >}}

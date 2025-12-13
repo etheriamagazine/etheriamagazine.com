@@ -98,8 +98,8 @@ agua marina y de lluvia han labrado en sus areniscas como reto a la inmutabilida
 ## 5\. Villa Magalean, descanso fiel a la montaña
 
 Acogidas en las faldas de la montaña o acunadas entre brazos protectores –significado de 
-_magalean_ en euskera– es como nos sentiremos al traspasar el umbral de {{< reflink 
-path=posts/2019/12/hotel-villa-magalean-spa-restaurante-en-hondarribia >}}, un hotel 
+_magalean_ en euskera– es como nos sentiremos al traspasar el umbral de [Villa 
+Magalean]({{% ref hotel-villa-magalean-spa-restaurante-en-hondarribia %}}), un hotel 
 boutique que en apenas tres años se ha situado entre los lugares más deseados de 
 Hondarribia. Al pie del casco antiguo, es una encantadora villa vacacional vasca de los 
 años 50 que ha reconvertido sus luminosos espacios en rincones con encanto donde reponer 
@@ -180,8 +180,8 @@ auténtico galeón vasco.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/04/que-ver-hacer-en-san-sebastian >}} 
+{{< reflink que-ver-hacer-en-san-sebastian >}} 
 
-{{< reflink path=posts/2021/02/7-imprescindibles-en-reserva-urdaibai >}} 
+{{< reflink 7-imprescindibles-en-reserva-urdaibai >}} 
 
-{{< reflink path=posts/2021/05/excursiones-sierra-de-entzia-alava >}}
+{{< reflink excursiones-sierra-de-entzia-alava >}}

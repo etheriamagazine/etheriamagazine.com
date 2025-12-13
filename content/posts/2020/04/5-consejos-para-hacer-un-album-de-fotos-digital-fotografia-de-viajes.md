@@ -155,8 +155,6 @@ mucho tiempo para tener tus recuerdos al alcance de la mano en tu librería ¿no
 
 ## También te puede interesar:
 
-{{< reflink 
-path=posts/2020/11/5-camaras-de-fotos-semiprofesionales-perfectas-para-viajar-ligeras 
->}} 
+{{< reflink 5-camaras-de-fotos-semiprofesionales-perfectas-para-viajar-ligeras >}} 
 
-{{< reflink path=posts/2020/04/10-gadgets-para-regalar-a-madres-viajeras >}}
+{{< reflink 10-gadgets-para-regalar-a-madres-viajeras >}}

@@ -18,7 +18,8 @@ Granada es la ciudad de Federico García Lorca, sin duda. El lugar que inspiró 
 importantísima de su creación literaria (como _Romancero Gitano_, _Bodas de Sangre_ o 
 _Doña Rosita la Soltera_); y donde aún resuenan los ecos de sus tambaleantes pasos en 
 aquella infausta noche del verano de 1936 cuando decidieron acallar su voz. (Sigue 
-leyendo: {{< reflink path=posts/2020/10/ruta-cultural-granada-de-garcia-lorca >}}'). 
+leyendo: ['La ruta más íntima de Lorca en Granada]({{% ref 
+ruta-cultural-granada-de-garcia-lorca %}})'). 
 
 Pero la ciudad de [Granada](http://www.granadatur.com) también está asociada al nombre 
 de una mujer con un final no menos trágico: la liberal Mariana Pineda. Una luchadora por 
@@ -191,8 +192,8 @@ genial escritor realiza una magnífica alegoría clásica sobre la condición fe
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/10/consejos-para-visitar-la-alhambra >}} 
+{{< reflink consejos-para-visitar-la-alhambra >}} 
 
-{{< reflink path=posts/2020/10/ruta-cultural-granada-de-garcia-lorca >}} 
+{{< reflink ruta-cultural-granada-de-garcia-lorca >}} 
 
-{{< reflink path=posts/2020/05/48-horas-en-el-albayzin-y-la-alhambra >}}
+{{< reflink 48-horas-en-el-albayzin-y-la-alhambra >}}

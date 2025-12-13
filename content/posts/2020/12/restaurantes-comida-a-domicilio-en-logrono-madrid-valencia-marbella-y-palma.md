@@ -143,9 +143,8 @@ Maison, la tortilla con crema de trufa, las croquetas o el crêpe salado.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/12/mejores-restaurantes-para-comer-cochinillo-en-segovia 
->}}. 
+{{< reflink mejores-restaurantes-para-comer-cochinillo-en-segovia >}}. 
 
-{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}. 
+{{< reflink brunch-buenos-y-baratos-en-madrid >}}. 
 
-{{< reflink path=posts/2020/11/comer-en-toledo-mejores-restaurantes-bares-tapas >}}.
+{{< reflink comer-en-toledo-mejores-restaurantes-bares-tapas >}}.

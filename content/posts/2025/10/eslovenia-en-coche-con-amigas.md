@@ -197,6 +197,6 @@ la pequeña y fascinante Eslovenia.
 
 ## También en Etheria Magazine
 
-{{< reflink path=posts/2018/07/viaje-con-amigas-eslovenia-turismo-activo >}}. 
+{{< reflink viaje-con-amigas-eslovenia-turismo-activo >}}. 
 
-{{< reflink path=posts/2023/11/ruta-en-coche-istria-croacia >}}.
+{{< reflink ruta-en-coche-istria-croacia >}}.

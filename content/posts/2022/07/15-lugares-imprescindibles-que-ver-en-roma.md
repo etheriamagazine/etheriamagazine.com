@@ -330,9 +330,9 @@ visita organizada)
 La oferta hotelera en Roma es enorme. Hay hoteles de todas las categorías y también 
 apartamentos turísticos. Lo mejor es alojarse en el centro para no tener que perder 
 tiempo en los desplazamientos y tener a mano una buena oferta de restaurantes. Una buena 
-opción para darse un capricho es el {{< reflink 
-path=posts/2022/05/hotel-gran-melia-villa-agrippina-roma >}}, un hotel de cinco 
-estrellas con piscina en un entorno muy tranquilo y a un paso del centro. 
+opción para darse un capricho es el [Gran Meliá Villa Agripina]({{% ref 
+hotel-gran-melia-villa-agrippina-roma %}}), un hotel de cinco estrellas con piscina en 
+un entorno muy tranquilo y a un paso del centro. 
 
 ##### 📍¿Cómo visitar Roma?
 
@@ -353,6 +353,7 @@ otras muchas propuestas.
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2022/05/excursion-a-tivoli-desde-roma >}} 
+{{< reflink excursion-a-tivoli-desde-roma >}} 
 
-{{< reflink path=posts/2018/10/fin-de-semana-en-roma-con-amigas >}}
+[Roma, la escapada con amigas que necesitas]({{% ref fin-de-semana-en-roma-con-amigas 
+%}})

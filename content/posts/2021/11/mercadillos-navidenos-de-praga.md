@@ -146,10 +146,8 @@ perfecta para viajar a este país centroeuropeo y empaparte de su cultura y trad
 
 **También te puede interesar…** 
 
-{{< reflink path=posts/2020/11/navidad-en-republica-checa-mercadillos >}} 
+{{< reflink navidad-en-republica-checa-mercadillos >}} 
 
-{{< reflink path=posts/2021/02/excursiones-magicas-desde-praga-republica-checa >}} 
+{{< reflink excursiones-magicas-desde-praga-republica-checa >}} 
 
-{{< reflink 
-path=posts/2021/10/10-ciudades-con-mercadillos-para-contagiarse-del-espiritu-navideno 
->}}
+{{< reflink 10-ciudades-con-mercadillos-para-contagiarse-del-espiritu-navideno >}}

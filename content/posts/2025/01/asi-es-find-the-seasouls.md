@@ -78,6 +78,6 @@ portal turístico de las islas, [holaislascanarias.com](http://holaislascanarias
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2024/07/las-palmas-de-gran-canaria-en-familia >}}. 
+{{< reflink las-palmas-de-gran-canaria-en-familia >}}. 
 
-{{< reflink path=posts/2023/05/rutas-mas-bonitas-la-palma >}}.
+{{< reflink rutas-mas-bonitas-la-palma >}}.

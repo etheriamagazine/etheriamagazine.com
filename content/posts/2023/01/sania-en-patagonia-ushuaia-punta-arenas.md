@@ -195,6 +195,8 @@ tiempo en la noche para procesar las impresiones del día…
 
 📌 **También te puede interesar:** 
 
-**Viaje de Sania 1.** {{< reflink path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}} 
+**Viaje de Sania 1.** [Viajar sola por el mundo tras la jubilación, el nuevo plan de 
+vida de Sania Jelic]({{% ref sania-jelic-viajar-sola-mas-65 %}}) 
 
-**Viaje de Sania 2**. {{< reflink path=posts/2022/12/sania-jelic-amazonas >}}
+**Viaje de Sania 2**. [El Amazonas: nueva etapa de Sania Jelic en Sudamérica]({{% ref 
+sania-jelic-amazonas %}})

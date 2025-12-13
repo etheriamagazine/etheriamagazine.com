@@ -141,5 +141,5 @@ valentinera” es que os acerquéis al _Marché Des Capucins_ (el mercado de los
 a tomar el aperitivo: **ostras de la cercana Arcachon** acompañadas de un vino blanco y 
 su típico pan con mantequilla. Todo amor. 
 
-Y si ya conocéis Burdeos y disponéis de algún día más, echad un vistazo a estas {{< 
-reflink path=posts/2019/01/viajes-en-san-valentin >}}.
+Y si ya conocéis Burdeos y disponéis de algún día más, echad un vistazo a estas 
+[Escapadas románticas]({{% ref viajes-en-san-valentin %}}).

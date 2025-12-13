@@ -229,8 +229,8 @@ pedir el favor del santo. ¡Buen camino!
 
 ### También en Galicia...
 
-{{< reflink path=posts/2021/06/planes-en-la-ribeira-sacra-con-amigas >}}. 
+{{< reflink planes-en-la-ribeira-sacra-con-amigas >}}. 
 
-{{< reflink path=posts/2024/07/la-toja-escapada-romantica-termal-en-galicia >}}. 
+{{< reflink la-toja-escapada-romantica-termal-en-galicia >}}. 
 
-{{< reflink path=posts/2021/03/5-peliculas-del-camino-de-santiago >}}.
+{{< reflink 5-peliculas-del-camino-de-santiago >}}.

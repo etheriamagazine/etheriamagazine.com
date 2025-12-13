@@ -139,7 +139,6 @@ Finland](https://www.visitfinland.com/es/laponia/).
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/09/8-consejos-para-viajar-a-la-laponia-finlandesa-con-ninos 
->}} 
+{{< reflink 8-consejos-para-viajar-a-la-laponia-finlandesa-con-ninos >}} 
 
-{{< reflink path=posts/2018/09/una-maleta-para-laponia-finlandesa >}}
+{{< reflink una-maleta-para-laponia-finlandesa >}}

@@ -241,11 +241,10 @@ Via Bolognese en Pratolino Vaglia
 
 ### Más planes de viajes en Italia...
 
-{{< reflink path=posts/2018/09/15-ideas-para-disfrutar-de-florencia-por-segunda-vez >}}. 
+{{< reflink 15-ideas-para-disfrutar-de-florencia-por-segunda-vez >}}. 
 
-{{< reflink path=posts/2018/05/10-imprescindibles-para-disfrutar-florencia-con-ninos 
->}}. 
+{{< reflink 10-imprescindibles-para-disfrutar-florencia-con-ninos >}}. 
 
-{{< reflink path=posts/2018/05/48-horas-en-florencia-fin-de-semana-que-ver-hacer >}}. 
+{{< reflink 48-horas-en-florencia-fin-de-semana-que-ver-hacer >}}. 
 
-{{< reflink path=posts/2020/08/10-grandes-viajes-a-italia >}}.
+{{< reflink 10-grandes-viajes-a-italia >}}.

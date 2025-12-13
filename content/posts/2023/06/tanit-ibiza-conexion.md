@@ -116,9 +116,9 @@ Conexion](https://www.tanitibizaconexion.com).
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/03/santa-eularia-des-riu-ibiza >}} 
+{{< reflink santa-eularia-des-riu-ibiza >}} 
 
-{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
->}} 
+{{< reflink 20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja >}} 
 
-{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}
+[10 errores que debes evitar si vas a Ibiza con amigas]({{% ref viaje-a-ibiza-con-amigas 
+%}})

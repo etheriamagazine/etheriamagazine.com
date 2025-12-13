@@ -290,8 +290,8 @@ la habilidad de negociación de cada cual.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2024/03/como-visitar-cataratas-victoria-sania-jelic >}} 
+{{< reflink como-visitar-cataratas-victoria-sania-jelic >}} 
 
-{{< reflink path=posts/2024/02/guia-viaje-botsuana-sania-jelic >}} 
+{{< reflink guia-viaje-botsuana-sania-jelic >}} 
 
-{{< reflink path=posts/2024/01/consejos-viajar-sola-por-africa >}}
+{{< reflink consejos-viajar-sola-por-africa >}}

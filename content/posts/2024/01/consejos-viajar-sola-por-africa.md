@@ -170,4 +170,5 @@ experiencia africana te marca para siempre.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2024/01/hermanus-sania-jelic-viajar-sola-africa-sudafrica >}}
+[Hermanus, primera parada del viaje de Sania Jelic sola por África]({{% ref 
+hermanus-sania-jelic-viajar-sola-africa-sudafrica %}})

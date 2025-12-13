@@ -159,6 +159,6 @@ detalle sea cuidado con mimo, vuestro próximo destino es Getxo.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2023/11/grandes-villas-mansiones-getxo >}}. 
+{{< reflink grandes-villas-mansiones-getxo >}}. 
 
-{{< reflink path=posts/2023/03/que-donde-comer-getxo >}}.
+{{< reflink que-donde-comer-getxo >}}.

@@ -209,4 +209,5 @@ previamente algunas lecturas como las siguientes:
 
 También te puede interesar: 
 
-{{< reflink path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}}
+[Viajar sola por el mundo tras la jubilación, el nuevo plan de vida de Sania Jelic]({{% 
+ref sania-jelic-viajar-sola-mas-65 %}})

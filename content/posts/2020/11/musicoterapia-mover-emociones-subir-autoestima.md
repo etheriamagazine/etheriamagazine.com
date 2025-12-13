@@ -154,6 +154,7 @@ música”.
 
 #### También te puede interesar
 
-- {{< reflink path=posts/2020/11/terapias-para-combatir-la-depresion-con-arte >}}. 
+- [Depresión: cuando el arte se convierte en terapia para intentar superarla]({{% ref 
+terapias-para-combatir-la-depresion-con-arte %}}). 
 
-- {{< reflink path=posts/2020/10/danza-terapia-salud >}}.
+- [Danza, la belleza que sana]({{% ref danza-terapia-salud %}}).

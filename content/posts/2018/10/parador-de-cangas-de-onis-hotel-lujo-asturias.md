@@ -86,8 +86,8 @@ celebra la Fiesta del Asturcón donde intentan domarlos en la Majada de Espinere
 visitas **Cabrales** para probar el famoso queso e ir a su museo, o bien optas por 
 conocer la **Cueva de Tito Bustillo**? 
 
-**No te pierdas:** {{< reflink path=posts/2022/01/asturias-en-coche-guia-imprescindible 
->}}. 
+**No te pierdas:** [Asturias con amigas, visitas imprescindibles en una ruta en 
+coche]({{% ref asturias-en-coche-guia-imprescindible %}}). 
 
 Y para terminar un intenso día de actividades, no existe un plan mejor que relajarte en 
 su **espacio wellness**, ubicado junto al manantial y al pozo de los monjes, o recibir 

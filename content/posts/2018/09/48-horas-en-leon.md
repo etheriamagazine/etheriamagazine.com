@@ -157,8 +157,8 @@ Dedica el resto de la tarde a ver el **Parador de San Marcos**, uno de lo monume
 importantes del renacimiento. Nació como Casa de la Orden de Santiago en el siglo XVI, 
 fue cuartel, colegio y cárcel (estuvo preso Quevedo). 
 
-📌 **No te pierdas:** {{< reflink 
-path=posts/2020/12/parador-de-leon-hotel-romantico-y-de-lujo >}}. 
+📌 **No te pierdas:** [El renovado Parador de León, un hotel de lujo para espíritus 
+ilustrados]({{% ref parador-de-leon-hotel-romantico-y-de-lujo %}}). 
 
 Después acércate a ver el **MUSAC**, cuya llamativa fachada hace referencia a las 
 vidrieras de la Catedral. 
@@ -178,9 +178,8 @@ mostrándote que ella sí que es superior al tiempo.
 
 ### Sigue leyendo sobre León
 
-{{< reflink path=posts/2021/09/ruta-para-comer-bien-en-leon-capital >}}. 
+{{< reflink ruta-para-comer-bien-en-leon-capital >}}. 
 
-{{< reflink path=posts/2020/12/16-lugares-secretos-y-leyendas-de-leon-capital >}}. 
+{{< reflink 16-lugares-secretos-y-leyendas-de-leon-capital >}}. 
 
-{{< reflink 
-path=posts/2020/12/10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}.
+{{< reflink 10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}.

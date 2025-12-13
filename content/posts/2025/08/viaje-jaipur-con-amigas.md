@@ -273,6 +273,7 @@ gastrointestinales pueden arruinar cualquier viaje.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}} 
+{{< reflink viaje-para-mujeres-que-ver-norte-india-rajastan >}} 
 
-{{< reflink path=posts/2018/10/que-llevar-en-la-maleta-para-viajar-a-india >}}
+[Una maleta para viajar a la India]({{% ref que-llevar-en-la-maleta-para-viajar-a-india 
+%}})

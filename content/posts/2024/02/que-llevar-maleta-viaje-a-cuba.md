@@ -110,8 +110,8 @@ a necesitar durante el viaje.
 
 ![champú y jabón para viaje marca Foamie](https://fotos.etheriamagazine.com/2024/02/maleta-cuba-jabon-champu-viaje.jpg "Jabón y champú sólido muy prácticos para viaje.")
 
-✅ Para elegir el modelo de neceser puedes consultar nuestro artículo {{< reflink 
-path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}}. 
+✅ Para elegir el modelo de neceser puedes consultar nuestro artículo [7 neceseres para 
+mujeres viajeras]({{% ref 10-neceseres-viaje-o-regalos-para-mujeres-viajeras %}}). 
 
 ## Botiquín
 
@@ -180,18 +180,19 @@ cajeros automáticos, no siempre funcionan y el cambio no es muy favorable.
 
 ## Guías de viaje
 
-En el artículo {{< reflink path=posts/2020/05/prepara-tu-viaje-a-cuba-libros-peliculas 
->}} te dábamos muchas claves sobre libros y películas con las que familiarizarte con la 
-cultura de este país. En cuanto a las guías de viaje, son muy útiles la de [Lonely 
-Planet](https://amzn.to/3uNnlgQ), la [Guía Visual de Cuba](https://amzn.to/3TcwiJW) o la 
-[Guía Total de Anaya Touring](https://amzn.to/4bPLiEO), todas disponibles en Amazon. Si 
-viajas sólo a La Habana, puedes adquirir la [Guía de cerca de La 
-Habana](https://amzn.to/42PN9pb) de Lonely Planet. 
+En el artículo [Prepara tu viaje a Cuba]({{% ref 
+prepara-tu-viaje-a-cuba-libros-peliculas %}}) te dábamos muchas claves sobre libros y 
+películas con las que familiarizarte con la cultura de este país. En cuanto a las guías 
+de viaje, son muy útiles la de [Lonely Planet](https://amzn.to/3uNnlgQ), la [Guía Visual 
+de Cuba](https://amzn.to/3TcwiJW) o la [Guía Total de Anaya 
+Touring](https://amzn.to/4bPLiEO), todas disponibles en Amazon. Si viajas sólo a La 
+Habana, puedes adquirir la [Guía de cerca de La Habana](https://amzn.to/42PN9pb) de 
+Lonely Planet. 
 
 ![Guías de viaje sobre Cuba.](https://fotos.etheriamagazine.com/2024/02/cuba-guias-viaje.jpg "Guías de viaje sobre Cuba.")
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/01/viajar-con-amigas-a-cuba >}} 
+{{< reflink viajar-con-amigas-a-cuba >}} 
 
-{{< reflink path=posts/2019/08/viajar-sola-que-ver-hacer-mujeres-la-habana-cuba >}}
+{{< reflink viajar-sola-que-ver-hacer-mujeres-la-habana-cuba >}}

@@ -90,16 +90,14 @@ Leyendo, por supuesto.
 
 El mejor viaje de mi vida es mi vida, pues es un continuo viaje. ;-) Bueno, ahora en 
 serio: no puedo elegir un solo viaje, pues todos son especiales por algún motivo. ¿Cómo 
-elegir entre {{< reflink path=posts/2021/03/guia-que-hacer-en-maldivas-buceo-surf >}}, 
-Tailanda, {{< reflink path=posts/2019/07/luna-miel-bali-maldicion-ruptura >}}, Sri 
-Lanka, Canadá, {{< reflink 
-path=posts/2019/07/ruta-california-por-el-lejano-oeste-americano >}}, {{< reflink 
-path=posts/2019/01/viajar-con-amigas-a-cuba >}}, Costa Rica, México, Colombia, {{< 
-reflink path=posts/2018/04/propuestas-en-el-norte-de-republica-dominicana >}}, Bahamas o 
-Jamaica? ¿O entre destinos más cercanos como España, Alemania, Austria, {{< reflink 
-path=posts/2019/04/viaje-en-familia-que-hacer-engelberg-suiza >}}, Francia, Italia, 
-Portugal, Grecia o Turquía? Cada uno de esos países me ha hecho feliz, y a todos ellos 
-estoy agradecida. 
+elegir entre [Maldivas]({{% ref guia-que-hacer-en-maldivas-buceo-surf %}}), Tailanda, 
+[Bali]({{% ref luna-miel-bali-maldicion-ruptura %}}), Sri Lanka, Canadá, [Estados 
+Unidos]({{% ref ruta-california-por-el-lejano-oeste-americano %}}), [Cuba]({{% ref 
+viajar-con-amigas-a-cuba %}}), Costa Rica, México, Colombia, [República Dominicana]({{% 
+ref propuestas-en-el-norte-de-republica-dominicana %}}), Bahamas o Jamaica? ¿O entre 
+destinos más cercanos como España, Alemania, Austria, [Suiza]({{% ref 
+viaje-en-familia-que-hacer-engelberg-suiza %}}), Francia, Italia, Portugal, Grecia o 
+Turquía? Cada uno de esos países me ha hecho feliz, y a todos ellos estoy agradecida. 
 
 **8\. ¿Y tu último viaje? ¿Qué es lo que más y lo que menos te ha gustado de ese 
 destino?** 

@@ -140,6 +140,6 @@ Rua Machado dos Santos 82. Ponta Delgada, isla de São Miguel
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2018/06/terceira-en-familia >}}. 
+{{< reflink terceira-en-familia >}}. 
 
-{{< reflink path=posts/2024/03/maria-lurdes-vale-turismo-portugal >}}.
+{{< reflink maria-lurdes-vale-turismo-portugal >}}.

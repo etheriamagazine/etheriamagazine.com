@@ -116,8 +116,8 @@ aficionados a la ciencia**. Es gratuita y se puede descargar en sistemas Android
 
 **Tambi´én te puede interesar:** 
 
-{{< reflink path=posts/2021/04/que-ver-en-museo-naval-de-madrid >}} 
+{{< reflink que-ver-en-museo-naval-de-madrid >}} 
 
-{{< reflink path=posts/2019/09/15-obras-imprescindibles-en-el-prado >}} 
+{{< reflink 15-obras-imprescindibles-en-el-prado >}} 
 
-{{< reflink path=posts/2019/10/the-twist-museo-puente-escultura-noruega-viajes-arte >}}
+{{< reflink the-twist-museo-puente-escultura-noruega-viajes-arte >}}

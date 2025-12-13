@@ -98,4 +98,4 @@ Fotografías: © Javi Calvo
 
 ### También te puede interesar
 
-{{< reflink path=posts/2022/02/que-ver-madrigal-altas-torres >}}.
+{{< reflink que-ver-madrigal-altas-torres >}}.

@@ -117,9 +117,9 @@ Tradición](https://www.leonestradicion.com).
 
 ## Sigue leyendo sobre León...
 
-{{< reflink 
-path=posts/2020/12/10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}. 
+{{< reflink 10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}. 
 
-{{< reflink path=posts/2020/12/16-lugares-secretos-y-leyendas-de-leon-capital >}}. 
+{{< reflink 16-lugares-secretos-y-leyendas-de-leon-capital >}}. 
 
-Excursiones: {{< reflink path=posts/2020/05/escapadas-por-espana-las-medulas-leon >}}.
+Excursiones: [Las Médulas, ‘prestosidad’ a la leonesa]({{% ref 
+escapadas-por-espana-las-medulas-leon %}}).

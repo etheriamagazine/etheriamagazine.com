@@ -248,8 +248,8 @@ los Reyes, Asuán, Abu Simbel’](https://amzn.to/3aQ2mwU) (2018) de Ediciones G
 
 **También te puede interesar** 
 
-{{< reflink path=posts/2021/02/hotel-de-lujo-egipto-the-st-regis-cairo >}} 
+{{< reflink hotel-de-lujo-egipto-the-st-regis-cairo >}} 
 
-{{< reflink path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}} 
+{{< reflink 10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}} 
 
-{{< reflink path=posts/2019/10/10-gadgets-frikis-imprescindibles-en-tus-viajes >}}
+{{< reflink 10-gadgets-frikis-imprescindibles-en-tus-viajes >}}

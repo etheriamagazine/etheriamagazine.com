@@ -257,9 +257,10 @@ opción.
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}} 
+{{< reflink tabernas-historicas-de-madrid >}} 
 
-{{< reflink path=posts/2022/01/restaurantes-peruanos-en-madrid-de-jhosef-arias >}}{{< 
-reflink path=posts/2018/11/10-restaurantes-para-salir-a-cenar-con-amigas-en-madrid >}} 
+[]({{% ref restaurantes-peruanos-en-madrid-de-jhosef-arias %}})[10 restaurantes para 
+salir a cenar con amigas en Madrid]({{% ref 
+10-restaurantes-para-salir-a-cenar-con-amigas-en-madrid %}}) 
 
-{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}
+{{< reflink brunch-buenos-y-baratos-en-madrid >}}

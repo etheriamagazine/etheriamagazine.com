@@ -142,8 +142,6 @@ información**: [Tourismus Salzburg](http://www.salzburg.info).
 
 📌 **También te puede interesar:** 
 
-{{< reflink 
-path=posts/2019/12/48-horas-en-salzburgo-invernal-mercadillos-navidenos-escapada-romantica 
->}} 
+{{< reflink 48-horas-en-salzburgo-invernal-mercadillos-navidenos-escapada-romantica >}} 
 
-{{< reflink path=posts/2023/10/que-ver-innsbruck-con-amigas >}}
+{{< reflink que-ver-innsbruck-con-amigas >}}

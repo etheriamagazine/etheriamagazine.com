@@ -117,7 +117,6 @@ Fotografías cedidas por Hacienda Na Xamena.
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
->}} 
+{{< reflink 20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja >}} 
 
-{{< reflink path=posts/2021/11/planes-viaje-a-ibiza-en-invierno >}}
+{{< reflink planes-viaje-a-ibiza-en-invierno >}}

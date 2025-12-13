@@ -66,12 +66,11 @@ Cuándo: 10 y 11 de mayo. Dónde: Antiguo Aquapark de Calvià (Mallorca). Precio
 
 ## 4\. Interestelar Sevilla
 
-Toda excusa es buena para ir a {{< reflink path=posts/2019/02/viajar-con-amigas-sevilla 
->}} y si quieres huir de los tópicos de la Semana Santa y la Feria, quizá tu momento sea 
-el fin de semana que se celebra este festival donde podrás ver las actuaciones, entre 
-otros, de Rozalén, Vetusta Morla, Iván Ferreiro o Fangoria. Como está al lado del 
-centro, es perfecto para disfrutar también de las terracitas sevillanas y el ambiente de 
-la ciudad. 
+Toda excusa es buena para ir a [Sevilla]({{% ref viajar-con-amigas-sevilla %}}) y si 
+quieres huir de los tópicos de la Semana Santa y la Feria, quizá tu momento sea el fin 
+de semana que se celebra este festival donde podrás ver las actuaciones, entre otros, de 
+Rozalén, Vetusta Morla, Iván Ferreiro o Fangoria. Como está al lado del centro, es 
+perfecto para disfrutar también de las terracitas sevillanas y el ambiente de la ciudad. 
 
 Cuándo: 24 y 25 de mayo. Dónde: en los jardines del CAAC (Centro Andaluz de Arte 
 Contemporáneo) en la Isla de la Cartuja (Sevilla). Precio: Abono de 2 días 50 Euros. Más 
@@ -109,9 +108,9 @@ Festival.
 
 Cuenta con un ecléctico cartel que incluye artistas como Dorian, Rozalén, Medina 
 Azahara, La Pegatina o Beret, y es una buena excusa para acercarse a la siempre 
-apetecible ciudad de {{< reflink 
-path=posts/2020/05/48-horas-en-el-albayzin-y-la-alhambra >}}. Puedes elegir algunos 
-conciertos y combinarlos con una visita a La Alhambra o unas tapas por el centro. 
+apetecible ciudad de [Granada]({{% ref 48-horas-en-el-albayzin-y-la-alhambra %}}). 
+Puedes elegir algunos conciertos y combinarlos con una visita a La Alhambra o unas tapas 
+por el centro. 
 
 Cuándo: 31 de mayo y 1 de junio Dónde: en El Cortijo del Conde (Granada). Precio: Abono 
 general de 2 días 35 Euros. Más información: Bull Music Festival. 
@@ -149,7 +148,8 @@ Euros. Abono VIP, 60 Euros. Más información: Palencia Sonora.
 
 Este joven festival (nació en 2018) ha conseguido en tan sólo un año traer figuras como 
 Vetusta Morla, Rozalén, Amaia, Beret o Depedro. Una excusa perfecta para disfrutar de 
-{{< reflink path=posts/2019/01/bares-imprescindibles-finde-valladolid >}}. 
+[Valladolid y su excelente gastronomía]({{% ref bares-imprescindibles-finde-valladolid 
+%}}). 
 
 Cuándo: 21 y 22 de junio. Dónde: Antigua Hípica (Pinar de Antequera, Valladolid). 
 Precio: entrada de 1 día 35 Euros. Abono de 2 días 55 Euros. Más información: Conexión 

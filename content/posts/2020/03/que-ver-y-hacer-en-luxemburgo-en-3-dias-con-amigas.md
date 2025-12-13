@@ -131,9 +131,9 @@ Europeo.
 
 No todo se queda en la capital. Pequeño, pero con bastante contenido, en una escapada a 
 Luxemburgo puedes descubrir alguno de los castillos mejor conservados de Europa, como el 
-de Vianden. Es un buen aperitivo cuando se está de ruta hacia la {{< reflink 
-path=posts/2018/08/ruta-en-familia-por-alsacia-y-selva-negra >}}. O visitar alguno de 
-los siete parques nacionales del país, como el de 
+de Vianden. Es un buen aperitivo cuando se está de ruta hacia la [Selva Negra]({{% ref 
+ruta-en-familia-por-alsacia-y-selva-negra %}}). O visitar alguno de los siete parques 
+nacionales del país, como el de 
 [Mullerthal](https://www.visitluxembourg.com/en/what-to-do/nature-tours/hiking-luxembourg/mullerthal-trail), 
 donde se puede practicar senderismo del fácil, apto para cualquier urbanita. 
 
@@ -189,9 +189,8 @@ Luxemburgo](https://www.civitatis.com/es/luxemburgo/free-tour-luxemburgo/).
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/08/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable 
->}}. 
+{{< reflink munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable >}}. 
 
-{{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}}. 
+{{< reflink que-ver-hacer-fin-de-semana-hamburgo-alemania >}}. 
 
-{{< reflink path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}}.
+{{< reflink ruta-en-coche-en-lago-de-garda-italia >}}.

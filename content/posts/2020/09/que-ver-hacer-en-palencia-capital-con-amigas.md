@@ -19,8 +19,8 @@ Carrión, enclavada en la zona horticultora de Tierra de Campos y del Cerrato y 
 de la meseta castellano-leonesa, donde abundan las aves y la ganadería bovina. Por todo 
 ello, la ciudad es una joyita desconocida tanto por su arquitectura e historia como por 
 su excelente gastronomía y los vinos de las denominaciones de origen que la circundan, 
-como {{< reflink path=posts/2020/01/viaje-con-amigas-ruta-del-vino-cigales >}}, Arlanza, 
-Toro y Rueda. 
+como [Cigales]({{% ref viaje-con-amigas-ruta-del-vino-cigales %}}), Arlanza, Toro y 
+Rueda. 
 
 ## Un paseo por Palencia
 
@@ -150,9 +150,8 @@ desprenda el rebozado. Pruébalas, para rematar el viaje, en **La Traserilla** o
 
 ### También en Etheria Magazine
 
-{{< reflink path=posts/2019/01/bares-imprescindibles-finde-valladolid >}} 
+{{< reflink bares-imprescindibles-finde-valladolid >}} 
 
-{{< reflink path=posts/2021/03/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia 
->}}. 
+{{< reflink 15-lugares-imprescindibles-que-ver-en-segovia-y-provincia >}}. 
 
-{{< reflink path=posts/2021/09/ruta-para-comer-bien-en-leon-capital >}}.
+{{< reflink ruta-para-comer-bien-en-leon-capital >}}.

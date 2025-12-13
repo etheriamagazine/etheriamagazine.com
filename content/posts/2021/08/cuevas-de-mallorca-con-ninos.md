@@ -98,7 +98,6 @@ Precio: desde 8 euros (niños) y desde 15 euros (adultos).
 
 ### También te puede interesar...
 
-{{< reflink 
-path=posts/2020/06/8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos >}}. 
+{{< reflink 8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos >}}. 
 
-{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}.
+{{< reflink planes-y-excursiones-desde-palma-mallorca-con-amigas >}}.

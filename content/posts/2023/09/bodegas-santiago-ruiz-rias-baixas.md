@@ -123,6 +123,6 @@ Su temperatura ideal de consumo es de 10 u 11 ºC.
 
 **Sigue leyendo...** 
 
-{{< reflink path=posts/2020/09/31-escapadas-po-los-paisajes-del-vino >}}. 
+{{< reflink 31-escapadas-po-los-paisajes-del-vino >}}. 
 
-{{< reflink path=posts/2022/12/que-ver-pontevedra >}}.
+{{< reflink que-ver-pontevedra >}}.

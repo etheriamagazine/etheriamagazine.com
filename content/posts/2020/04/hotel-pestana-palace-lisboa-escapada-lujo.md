@@ -24,8 +24,8 @@ De vez en cuando hay que darse el capricho de alojarse en un hotel de lujo como 
 este año, porque necesitas una escapada romántica con tu pareja o, simplemente, porque 
 te lo mereces. Además, la capital portuguesa siempre merece un viaje. Aunque ya la 
 conozcas siempre encontrarás un rincón nuevo que descubrir o te apetecerá volver a los 
-lugares ya visitados. Una buena opción es recorrer {{< reflink 
-path=posts/2018/10/12-miradores-para-exprimir-lisboa >}} y contemplarla desde otro punto 
+lugares ya visitados. Una buena opción es recorrer [12 miradores para exprimir 
+Lisboa]({{% ref 12-miradores-para-exprimir-lisboa %}}) y contemplarla desde otro punto 
 de vista. 
 
 ![Té en él Pestana Palace](https://fotos.etheriamagazine.com/2020/04/Pestana-palace-lisboa-detalle-te.jpg "La hora del té en el Pestana Palace Lisboa.")

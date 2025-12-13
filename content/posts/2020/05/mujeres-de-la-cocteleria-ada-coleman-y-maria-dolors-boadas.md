@@ -85,8 +85,8 @@ Savoy** desde su apertura hasta la actualidad.
 Hasta el día de hoy, la fórmula del ‘Hanky Panky cocktail’ se sigue respetando en la 
 carta del actual santuario del American Bar del londinense Hotel Savoy. Tras ella vino 
 el también carismático barman Harry Craddock, creador de otro de los cócteles míticos: 
-el {{< reflink path=posts/2020/04/yo-me-quedo-en-casa-que-tengo-en-mi-fondo-de-bar >}}… 
-que, a juzgar por su nombre, parece dedicado ‘Coley’. 
+el [White Lady]({{% ref yo-me-quedo-en-casa-que-tengo-en-mi-fondo-de-bar %}})… que, a 
+juzgar por su nombre, parece dedicado ‘Coley’. 
 
 ## El eterno legado de ‘Coley’
 
@@ -128,8 +128,8 @@ antes insólito en un mundo de dominio masculino ¡Chin-chin!
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/07/coctel-femme-fatale-jacky-kennedy-y-camboya >}}. 
+{{< reflink coctel-femme-fatale-jacky-kennedy-y-camboya >}}. 
 
-{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}. 
+{{< reflink ruta-ava-gardner-en-madrid >}}. 
 
-{{< reflink path=posts/2020/11/libros-de-cocteleria-un-gran-regalo-navidad >}}.
+{{< reflink libros-de-cocteleria-un-gran-regalo-navidad >}}.

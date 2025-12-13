@@ -224,10 +224,8 @@ suficiente información para que todo transcurra de forma segura.
 
 ### También te puede interesar:
 
-{{< reflink 
-path=posts/2020/02/ruta-senderista-en-familia-por-valle-de-boi-pirineo-lleida >}} 
+{{< reflink ruta-senderista-en-familia-por-valle-de-boi-pirineo-lleida >}} 
 
-{{< reflink path=posts/2021/06/8-experiencias-en-el-pallars-jussa-excursiones-en-lleida 
->}} 
+{{< reflink 8-experiencias-en-el-pallars-jussa-excursiones-en-lleida >}} 
 
-{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}
+{{< reflink lugares-secretos-de-cataluna-que-visitar >}}

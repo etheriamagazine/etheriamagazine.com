@@ -208,10 +208,9 @@ Para más información, puedes consultar [Turismo de Lyon](https://www.onlylyon.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/09/mejores-destinos-para-viajar-en-francia >}}. 
+{{< reflink mejores-destinos-para-viajar-en-francia >}}. 
 
-{{< reflink path=posts/2021/06/4-dias-ruta-impresionismo-normandia-francia >}}. 
+{{< reflink 4-dias-ruta-impresionismo-normandia-francia >}}. 
 
-{{< reflink 
-path=posts/2020/08/que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare 
+{{< reflink que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare 
 >}}.

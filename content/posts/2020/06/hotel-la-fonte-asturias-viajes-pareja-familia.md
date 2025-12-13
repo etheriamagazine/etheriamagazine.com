@@ -27,10 +27,10 @@ clima agradable…
 
 Además, es un lugar estupendo para hacer excursiones por Asturias, ya que está a un paso 
 del mar, donde disfrutar de playas tan bonitas como la de **Gulpiyuri**, **San Antolín** 
-o **Torimbia**, y de los {{< reflink 
-path=posts/2018/10/picos-de-europa-ruta-por-asturias-leon-y-cantabria >}}. Y, por 
-supuesto, en los momentos que desees más animación puedes elegir entre Llanes o 
-Ribadesella, perfectas para ir a tomar algo o dar un paseo. 
+o **Torimbia**, y de los [Picos de Europa]({{% ref 
+picos-de-europa-ruta-por-asturias-leon-y-cantabria %}}). Y, por supuesto, en los 
+momentos que desees más animación puedes elegir entre Llanes o Ribadesella, perfectas 
+para ir a tomar algo o dar un paseo. 
 
 ## Las habitaciones
 
@@ -58,7 +58,6 @@ Asturias. Teléfono: 985 408 696 Precio: desde 72 Euros la noche en habitación 
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2020/08/mejores-playas-llanes-costa-asturias >}} 
+{{< reflink mejores-playas-llanes-costa-asturias >}} 
 
-{{< reflink path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias 
->}}
+{{< reflink gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias >}}

@@ -151,10 +151,10 @@ Marbella, en las conocidas Dunas de Artola. ¿Que no queréis coger el coche par
 sí variar y salir un poco de las playas del centro de Marbella? Podréis ir a la playa 
 del Cable, entre el famoso arco de entrada de Marbella y el puerto pesquero. Pero 
 recordad, que a solo 143 km está una de las playas más bonitas de Andalucía, la de 
-Bolonia (ya en {{< reflink path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}}), 
-al lado de las {{< reflink 
-path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}}. Una de 
-esas excursiones veraniegas que hay que hacer para ver su espectacular puesta de sol. 
+Bolonia (ya en [Cádiz]({{% ref viajar-con-amigas-que-hacer-en-cadiz %}})), al lado de 
+las [ruinas de Baelo Claudia]({{% ref 
+guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia %}}). Una de esas excursiones 
+veraniegas que hay que hacer para ver su espectacular puesta de sol. 
 
 ![viaje marbella, atardecer](https://fotos.etheriamagazine.com/2019/05/viaje-marbella-atardecer.jpg "Atardecer en Marbella.")
 
@@ -220,8 +220,8 @@ caída de la noche y hasta el amanecer.
 ciudad](https://www.civitatis.com/es/marbella/free-tour-marbella/?aid=10211) con una 
 visita guiada, ideal si viajas sola. 
 
-{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}} 
+{{< reflink consejos-rutas-andalucia-en-autocaravana >}} 
 
-{{< reflink path=posts/2021/04/bibo-beach-house-chiringuito-tarifa >}} 
+{{< reflink bibo-beach-house-chiringuito-tarifa >}} 
 
-{{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}}
+{{< reflink fin-de-semana-con-amigas-en-malaga >}}

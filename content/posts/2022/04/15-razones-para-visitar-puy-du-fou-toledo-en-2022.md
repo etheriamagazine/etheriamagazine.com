@@ -240,10 +240,9 @@ incluido en la entrada.
 
 ## Otros parques de interés
 
-{{< reflink 
-path=posts/2018/07/los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia 
+{{< reflink los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia 
 >}}. 
 
-{{< reflink path=posts/2022/03/novedades-futuroscope-2022 >}}. 
+{{< reflink novedades-futuroscope-2022 >}}. 
 
-{{< reflink path=posts/2019/06/viaje-en-familia-parques-alemania-playmobil-legoland >}}.
+{{< reflink viaje-en-familia-parques-alemania-playmobil-legoland >}}.

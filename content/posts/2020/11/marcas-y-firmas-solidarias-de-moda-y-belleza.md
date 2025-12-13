@@ -179,6 +179,6 @@ y contribuye a hacer un mundo mejor.
 
 #### También te puede interesar...
 
-{{< reflink path=posts/2020/11/recetas-para-aprovechar-restos-comida >}}. 
+{{< reflink recetas-para-aprovechar-restos-comida >}}. 
 
-{{< reflink path=posts/2020/09/que-llevar-picnic-en-el-campo >}}.
+{{< reflink que-llevar-picnic-en-el-campo >}}.

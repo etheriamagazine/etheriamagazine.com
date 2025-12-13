@@ -39,13 +39,13 @@ cuenta con una pequeña playa escondida, **La Cala**, donde practicar nudismo.
 ## Dónde comer bien en Dénia (y probar la gamba roja)
 
 No podemos hablar de Dénia sin poner el acento en uno de sus productos más preciados: la 
-gamba roja de Dénia (no te pierdas este artículo sobre {{< reflink 
-path=posts/2019/07/mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva 
->}} en España). La también conocida como _Aristeus antennatu_s, está presente en las 
-cartas de muchos restaurantes, pero hay dos espacios donde probarla en sus mejores 
-versiones. Uno es el [restaurante El Faralló](https://elfarallo.com/), considerado por 
-muchos como el templo de este crustáceo. ¿La mejor forma de comerlas? Hervidas en agua 
-de mar. También preparan con ella croquetas o un excelente arroz Faralló. El otro, [El 
+gamba roja de Dénia (no te pierdas este artículo sobre [La ruta de la gamba roja]({{% 
+ref mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva %}}) 
+en España). La también conocida como _Aristeus antennatu_s, está presente en las cartas 
+de muchos restaurantes, pero hay dos espacios donde probarla en sus mejores versiones. 
+Uno es el [restaurante El Faralló](https://elfarallo.com/), considerado por muchos como 
+el templo de este crustáceo. ¿La mejor forma de comerlas? Hervidas en agua de mar. 
+También preparan con ella croquetas o un excelente arroz Faralló. El otro, [El 
 Pegolí.](https://es-es.facebook.com/El-Pegol%C3%AD-167686163309213/) A Pepe Piera, ya 
 fallecido, se le debe el haber puesto esa delicia y Dénia en el mapa gastronómico. 
 Arrancó siendo un chiringuito sobre el mar, hasta convertirse en un imprescindible. 
@@ -143,8 +143,8 @@ el epicentro de las compras, la calle Plaza de España.
 
 ### Más planes con amigas...
 
-{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}}. 
+{{< reflink planes-originales-valencia-con-amigas >}}. 
 
-{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}. 
+{{< reflink 10-planes-originales-en-madrid-con-amigas >}}. 
 
-{{< reflink path=posts/2020/03/10-viajes-con-amigas-por-europa >}}.
+{{< reflink 10-viajes-con-amigas-por-europa >}}.

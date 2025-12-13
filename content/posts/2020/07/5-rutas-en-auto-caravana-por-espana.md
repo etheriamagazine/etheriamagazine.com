@@ -163,6 +163,6 @@ pescadores** preparan un arroz con bogavante que no hay que dejar pasar.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/03/ruta-autocaravana-en-cordoba >}} 
+{{< reflink ruta-autocaravana-en-cordoba >}} 
 
-{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}.
+{{< reflink consejos-rutas-andalucia-en-autocaravana >}}.

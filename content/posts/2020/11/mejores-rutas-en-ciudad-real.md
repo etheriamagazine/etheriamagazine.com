@@ -193,8 +193,8 @@ y cascadas.
 Este pequeño paraíso es otro de los maravillosos secretos por descubrir en esta 
 excepcional tierra. Pero existen muchos más rincones que merecerían estar entre las 
 mejores rutas turísticas por Ciudad Real, como Alcázar de San Juan, el valle de Alcudia, 
-Valdepeñas, Campo de Criptana (puedes leer: {{< reflink 
-path=posts/2019/04/ruta-sara-montiel-campo-de-criptana >}}), el castillo de Alarcos… 
+Valdepeñas, Campo de Criptana (puedes leer: ["Ruta Saritísima por Campo de 
+Criptana"]({{% ref ruta-sara-montiel-campo-de-criptana %}})), el castillo de Alarcos… 
 
 ![molinos alcazar de san juan](https://fotos.etheriamagazine.com/2020/11/ciudad-real-Gigantes-de-Alcazar-de-San-Juan.jpg "Los 'Gigantes' de Alcázar de San Juan. © Yolanda Cardo")
 
@@ -230,8 +230,7 @@ Reservad un día para relajaros en sus aguas termales: **Balneario Cervantes**
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha >}}. 
+{{< reflink ruta-del-vino-de-la-mancha >}}. 
 
-{{< reflink 
-path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+{{< reflink viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
 >}}.

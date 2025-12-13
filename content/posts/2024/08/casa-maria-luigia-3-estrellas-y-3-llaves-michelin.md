@@ -21,9 +21,9 @@ porque merece tanto la pena que querrás repetir una y otra vez.
 Lo primero que hay que señalar en este artículo es que, frente a la general 
 estandarización de los hoteles en materias como diseño, decoración, atención al cliente, 
 etc., el equipo de la Guía Michelin ha decidido –a partir de este año (al igual que 
-llevan haciendo con los restaurantes)–, distinguir con {{< reflink 
-path=posts/2024/05/que-son-las-llaves-michelin-y-que-hoteles-espanoles-las-han-conseguido 
->}} a hoteles emblemáticos; y para ello se han basado en 5 criterios que cumple 
+llevan haciendo con los restaurantes)–, distinguir con [una, dos o tres llaves 
+Michelin]({{% ref que-son-las-llaves-michelin-y-que-hoteles-espanoles-las-han-conseguido 
+%}}) a hoteles emblemáticos; y para ello se han basado en 5 criterios que cumple 
 sobradamente [Casa Maria Luigia.](https://casamarialuigia.com/) A saber: 1. El hotel 
 tiene que ser un destino en sí mismo, y que contribuya a la experiencia local. 2\. 
 Excelencia en arquitectura y el diseño de interiores. 3\. Calidad y coherencia del 
@@ -145,6 +145,6 @@ Amazon](https://amzn.to/3A5ys71) y también en La Casa del Libro.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2024/04/viaje-de-cine-ferrari-y-modena >}}. 
+{{< reflink viaje-de-cine-ferrari-y-modena >}}. 
 
-{{< reflink path=posts/2019/04/modena-de-lujo-ferrari-bottura >}}.
+{{< reflink modena-de-lujo-ferrari-bottura >}}.

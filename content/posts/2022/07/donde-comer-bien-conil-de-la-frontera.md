@@ -33,7 +33,8 @@ donde, además de comer, tengas bonitas vistas has llegado al lugar indicado. Ta
 añadiremos un pequeño listado de sitios para desayunar en Conil y pastelerías donde 
 paladear la merienda más dulce. 
 
-**\*No te pierdas:** {{< reflink path=posts/2023/08/mejores-excursiones-desde-conil >}}. 
+**\*No te pierdas:** [10 excursiones ideales desde Conil de la Frontera]({{% ref 
+mejores-excursiones-desde-conil %}}). 
 
 ## Restaurantes clásicos donde comer o cenar bien en Conil
 
@@ -105,8 +106,8 @@ Dónde: c/ Cádiz, 32.
 
 ### 5\. Venta Melchor
 
-De este restaurante ya os hablamos hace unos años (consulta {{< reflink 
-path=posts/2018/06/ruta-del-atun-rojo-en-cadiz >}}) y sigue siendo uno de los 
+De este restaurante ya os hablamos hace unos años (consulta [este artículo de la Ruta 
+del Atún]({{% ref ruta-del-atun-rojo-en-cadiz %}})) y sigue siendo uno de los 
 imprescindibles para comer bien (muy bien, de hecho) en Conil. Al frente de los fogones 
 está Petri Benítez, que continúa compartiendo su buen hacer a través de recetas 
 tradicionales, guisos conileños y ese punto de creatividad que siempre se agradece. El 
@@ -327,8 +328,8 @@ donde encontrarás un buen número de alojamientos al mejor precio.
 
 **También te puede interesar en Conil...** 
 
-{{< reflink path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
+{{< reflink mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
 
-{{< reflink path=posts/2021/07/los-mejores-planes-en-conil-con-amigas >}}. 
+{{< reflink los-mejores-planes-en-conil-con-amigas >}}. 
 
-{{< reflink path=posts/2022/04/guia-de-conil-visitas-gratuitas >}}.
+{{< reflink guia-de-conil-visitas-gratuitas >}}.

@@ -176,8 +176,8 @@ bañes en zonas donde no esté permitido.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2024/02/planes-viaje-romantico-madeira >}} 
+{{< reflink planes-viaje-romantico-madeira >}} 
 
-{{< reflink path=posts/2022/08/que-comer-en-madeira >}} 
+{{< reflink que-comer-en-madeira >}} 
 
-{{< reflink path=posts/2019/04/viajar-con-amigas-que-ver-madeira >}}
+{{< reflink viajar-con-amigas-que-ver-madeira >}}

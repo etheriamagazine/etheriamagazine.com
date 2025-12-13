@@ -238,13 +238,13 @@ Más información en [INGUAT](https://inguat.gob.gt/).
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/02/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala 
->}}{{< reflink path=posts/2021/02/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala 
->}}. 
+[]({{% ref viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala %}})[Viajar sola al lago 
+Atitlán, una aventura fascinante en busca de las raíces mayas]({{% ref 
+viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala %}}). 
 
-{{< reflink path=posts/2023/05/cartagena-trekking-ciudad-perdida >}} 
+{{< reflink cartagena-trekking-ciudad-perdida >}} 
 
-{{< reflink path=posts/2023/05/viajar-sola-bogota-medellin >}} 
+{{< reflink viajar-sola-bogota-medellin >}} 
 
-{{< reflink 
-path=posts/2023/04/inmersion-cultural-en-ecuador-sania-descubre-cuenca-y-quito >}}
+[Inmersión cultural en Ecuador, Sania descubre Cuenca y Quito]({{% ref 
+inmersion-cultural-en-ecuador-sania-descubre-cuenca-y-quito %}})

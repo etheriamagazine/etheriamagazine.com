@@ -159,11 +159,9 @@ Fotografías cedidas por © Anantara Hotels, Resorts & Spas.
 
 ## También te puede interesar:
 
-{{< reflink 
-path=posts/2019/06/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana 
->}} 
+{{< reflink guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana >}} 
 
-{{< reflink path=posts/2022/01/hotel-santo-cristo-lujo-en-marbella >}} 
+{{< reflink hotel-santo-cristo-lujo-en-marbella >}} 
 
-{{< reflink path=posts/2024/07/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga 
->}}
+[Road trip por la Axarquía malagueña]({{% ref 
+road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga %}})

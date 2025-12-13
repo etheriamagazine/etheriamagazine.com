@@ -93,8 +93,8 @@ por la Unesco? La mejor manera de averiguar qué tiene de especial para que haya
 protegida es, en primer lugar, visitar alguna factoría para observar su destilación en 
 alambiques tradicionales, y después recorrer algunas cervecerías centenarias de Bruselas 
 o asistir a festivales dedicados a esta bebida. Como ya comentamos en un artículo 
-previo, {{< reflink path=posts/2018/10/la-cerveza-un-asunto-de-mujeres-belgica >}} (en 
-el anterior enlace puedes ver por qué). 
+previo, [la cerveza en Bélgica también es cosa de mujeres]({{% ref 
+la-cerveza-un-asunto-de-mujeres-belgica %}}) (en el anterior enlace puedes ver por qué). 
 
 Algunas visitas relacionadas con la cerveza que te pueden interesar son el **Museo de 
 Schaerbeek** y la fábrica de cervezas más antigua de Bruselas, la [Brasserie 
@@ -177,8 +177,8 @@ Más información en Visit Brussels.
 
 ### Sigue viajando por Bélgica
 
-{{< reflink path=posts/2021/03/que-ver-hacer-otros-planes-en-bruselas-y-flandes >}}. 
+{{< reflink que-ver-hacer-otros-planes-en-bruselas-y-flandes >}}. 
 
-{{< reflink path=posts/2019/07/viaje-amigas-mujeres-de-brujas-flandes-belgica >}}. 
+{{< reflink viaje-amigas-mujeres-de-brujas-flandes-belgica >}}. 
 
-{{< reflink path=posts/2018/07/arte-en-amberes-si-las-mujeres-pintaran >}}
+{{< reflink arte-en-amberes-si-las-mujeres-pintaran >}}

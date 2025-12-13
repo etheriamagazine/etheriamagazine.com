@@ -134,8 +134,8 @@ momento que nunca olvidarán.
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2019/10/siete-excursiones-en-laponia-finlandesa >}} 
+{{< reflink siete-excursiones-en-laponia-finlandesa >}} 
 
-{{< reflink path=posts/2018/09/viaje-laponia-finlandesa-ninos-en-familia >}} 
+{{< reflink viaje-laponia-finlandesa-ninos-en-familia >}} 
 
-{{< reflink path=posts/2018/09/una-maleta-para-laponia-finlandesa >}}
+{{< reflink una-maleta-para-laponia-finlandesa >}}

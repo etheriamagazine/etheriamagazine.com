@@ -134,6 +134,6 @@ Polonia](http://www.polonia.travel) de Madrid.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/03/que-ver-en-varsovia-en-tres-rutas-originales >}} 
+{{< reflink que-ver-en-varsovia-en-tres-rutas-originales >}} 
 
-{{< reflink path=posts/2023/03/mujeres-polacas-fama-universal >}}
+{{< reflink mujeres-polacas-fama-universal >}}

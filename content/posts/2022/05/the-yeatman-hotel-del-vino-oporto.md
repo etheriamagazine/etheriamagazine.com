@@ -22,8 +22,8 @@ dejan sin palabras. Torres, edificios añejos, puentes y viviendas con tejados c
 distintas alturas parecen deslizarse en cascada hasta la orilla del río, una ribera 
 animada día y noche. Si te estás planteando un viaje a la señorial Oporto, quieres 
 profundizar en el mundo del vino a través de sus bodegas o visitar el nuevo centro WOW 
-(📌 no os perdáis el artículo: {{< reflink 
-path=posts/2022/03/wow-oporto-barrio-gastronomico-cultural >}}), **The Yeatman** es el 
+(📌 no os perdáis el artículo: [WOW Oporto, el mayor barrio gastronómico y cultural de 
+Portugal]({{% ref wow-oporto-barrio-gastronomico-cultural %}})), **The Yeatman** es el 
 hotel perfecto para ello. 
 
 ![Desayuno en la terraza del hotel con vistas a Oporto](https://fotos.etheriamagazine.com/2022/05/desayuno-terraza-yeatman.jpg "Desayuno en la terraza del hotel.")

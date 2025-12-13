@@ -176,10 +176,8 @@ de cetáceos, visitas a bodegas, etc.](https://www.civitatis.com/es/la-palma/?ai
 
 Sigue leyendo sobre La Palma 
 
-{{< reflink path=posts/2019/04/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias 
->}}. 
+{{< reflink la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias >}}. 
 
-{{< reflink 
-path=posts/2019/06/faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica >}}. 
+{{< reflink faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica >}}. 
 
-{{< reflink path=posts/2020/02/que-hacer-en-los-indianos-el-carnaval-de-la-palma >}}.
+{{< reflink que-hacer-en-los-indianos-el-carnaval-de-la-palma >}}.

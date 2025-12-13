@@ -235,8 +235,8 @@ bebes los vinos, te bebes la luz de la Bahía. ¿A que quieres quedarte a vivir?
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/11/guia-imprescindible-el-puerto-santa-maria >}} 
+{{< reflink guia-imprescindible-el-puerto-santa-maria >}} 
 
-{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}} 
+{{< reflink ruta-por-los-pueblos-blancos-de-cadiz >}} 
 
-{{< reflink path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}}
+{{< reflink viajar-con-amigas-que-hacer-en-cadiz >}}

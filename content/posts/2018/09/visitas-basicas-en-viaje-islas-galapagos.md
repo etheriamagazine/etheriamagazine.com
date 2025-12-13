@@ -165,5 +165,4 @@ Aún queda mucho por recorrer en Galápagos pero eso será en la siguiente escap
 
 #### Y ahora todos los datos prácticos:
 
-{{< reflink path=posts/2018/09/como-organizar-un-viaje-por-libre-a-las-islas-galapagos 
->}}
+{{< reflink como-organizar-un-viaje-por-libre-a-las-islas-galapagos >}}

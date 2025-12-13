@@ -170,13 +170,13 @@ silencio de la isla invita a dormir en lugares más intimistas. En Mahón, el **
 Ses Bruixes** es uno de los hoteles-boutique más codiciados de la ciudad, de estilo 
 inglés en pleno centro. **Sant Joan de Binissaida** se ha convertido en el hotel más 
 rural más famoso de la isla. Apunta también **Alcaufar Vell**, la antigua casa de la 
-familia Mercadal reconvertida en hotel; y {{< reflink 
-path=posts/2021/06/hotel-de-lujo-en-menorca-cristine-bedfor >}}. Y a soñar… con volver. 
+familia Mercadal reconvertida en hotel; y [Cristine Bedfor (del que ya te hemos 
+hablado)]({{% ref hotel-de-lujo-en-menorca-cristine-bedfor %}}). Y a soñar… con volver. 
 
 **Más islas en Etheria Magazine** 
 
-{{< reflink path=posts/2021/11/planes-viaje-a-ibiza-en-invierno >}}. 
+{{< reflink planes-viaje-a-ibiza-en-invierno >}}. 
 
-{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}. 
+{{< reflink planes-y-excursiones-desde-palma-mallorca-con-amigas >}}. 
 
-{{< reflink path=posts/2021/05/viaje-a-tenerife-con-amigas-que-hacer-excursiones >}}.
+{{< reflink viaje-a-tenerife-con-amigas-que-hacer-excursiones >}}.

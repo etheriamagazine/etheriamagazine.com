@@ -53,7 +53,7 @@ El mejor viaje de mi vida fue uno que hice a Tanzania con mi familia. Los niños
 
 ##### 8\. ¿Y tu último viaje? ¿Qué es lo que más y lo que menos te ha gustado de ese destino?
 
-Mi última escapada ha sido a una {{< reflink path=posts/2019/01/que-visitar-crucero-por-islas-griegas >}}. Me han gustado los baños infinitos en aquellas aguas transparentes y templadas, la belleza de los pueblos, la amabilidad de los griegos, la comida, la naturaleza. Lo que menos me gustó fue pasear por un barrio algo inseguro de Atenas.
+Mi última escapada ha sido a una [isla griega]({{% ref que-visitar-crucero-por-islas-griegas %}}). Me han gustado los baños infinitos en aquellas aguas transparentes y templadas, la belleza de los pueblos, la amabilidad de los griegos, la comida, la naturaleza. Lo que menos me gustó fue pasear por un barrio algo inseguro de Atenas.
 
 ##### 9\. ¿Qué tres viajes que hayas realizado recomendarías a cualquier mujer?
 
@@ -63,11 +63,11 @@ Recomendaría Grecia, Austria y Tanzania.
 
 ##### 10\. Tres viajes pendientes…
 
-Tengo en mi lista de países que visitar Colombia, {{< reflink path=posts/2018/10/que-comer-en-japon >}} y Canadá.
+Tengo en mi lista de países que visitar Colombia, [Japón]({{% ref que-comer-en-japon %}}) y Canadá.
 
 ##### 11\. ¿Qué país te ha ganado con su gastronomía? ¿Destacarías algún plato o producto?
 
-Me sorprendió {{< reflink path=posts/2018/10/12-miradores-para-exprimir-lisboa >}}. A pesar de ser una cocina muy sencilla, creo que el respeto a la materia prima es impecable. Me fascina las mil y una maneras que tienen de preparar el bacalao.
+Me sorprendió [Portugal]({{% ref 12-miradores-para-exprimir-lisboa %}}). A pesar de ser una cocina muy sencilla, creo que el respeto a la materia prima es impecable. Me fascina las mil y una maneras que tienen de preparar el bacalao.
 
 ##### 12\. ¿En qué medio de transporte prefieres viajar?
 

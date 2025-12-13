@@ -208,7 +208,6 @@ Vitoria](https://www.civitatis.com/es/vitoria/tour-arte-urbano-vitoria/) por 12 
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/12/finde-bilbao-con-amigas-mejores-restaurantes >}}. 
+{{< reflink finde-bilbao-con-amigas-mejores-restaurantes >}}. 
 
-{{< reflink 
-path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.
+{{< reflink 12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.

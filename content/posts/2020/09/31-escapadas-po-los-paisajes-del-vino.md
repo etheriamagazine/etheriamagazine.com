@@ -76,12 +76,12 @@ espectaculares vistas desde la red de miradores que sigue el curso del río.
 ### Bardenas Reales
 
 Diferentes figuras de protección amparan uno de los territorios y paisajes más 
-singulares de la Península: las {{< reflink 
-path=posts/2024/10/ruta-navarra-bardenas-reales-tudela-escapada-con-amigas >}}, un 
-conjunto de estepas, _bad lands_ y rocas sedimentarias sometidas a milenios de erosión y 
-desgaste. El atractivo paisajístico es excepcional, pero también otros muchos 
-relacionados con el pasado geológico, la biodiversidad y la relación del hombre con el 
-medio. Para conocerlas debes visitar la [Ruta del Vino 
+singulares de la Península: las [Bardenas Reales]({{% ref 
+ruta-navarra-bardenas-reales-tudela-escapada-con-amigas %}}), un conjunto de estepas, 
+_bad lands_ y rocas sedimentarias sometidas a milenios de erosión y desgaste. El 
+atractivo paisajístico es excepcional, pero también otros muchos relacionados con el 
+pasado geológico, la biodiversidad y la relación del hombre con el medio. Para 
+conocerlas debes visitar la [Ruta del Vino 
 Navarra](http://www.rutadelvinodenavarra.com). 
 
 ### Lago del Espejo del Monasterio de Piedra
@@ -363,8 +363,8 @@ Valle de Fonseca.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2022/06/enoturismo-conca-de-barbera >}} 
+{{< reflink enoturismo-conca-de-barbera >}} 
 
-{{< reflink path=posts/2022/01/ruta-del-vino-montilla-moriles-20-aniversario >}} 
+{{< reflink ruta-del-vino-montilla-moriles-20-aniversario >}} 
 
-{{< reflink path=posts/2021/04/32-excursiones-de-un-dia-en-rutas-vino-espana >}}
+{{< reflink 32-excursiones-de-un-dia-en-rutas-vino-espana >}}

@@ -160,12 +160,10 @@ Torremolinos...
 
 **En Andalucía también te puede interesar...** 
 
-{{< reflink 
-path=posts/2019/06/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana 
->}}. 
+{{< reflink guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana >}}. 
 
-{{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}}. 
+{{< reflink fin-de-semana-con-amigas-en-malaga >}}. 
 
-{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}. 
+{{< reflink consejos-rutas-andalucia-en-autocaravana >}}. 
 
-{{< reflink path=posts/2021/03/cortijos-andaluces-viaje-amigas >}}.
+{{< reflink cortijos-andaluces-viaje-amigas >}}.

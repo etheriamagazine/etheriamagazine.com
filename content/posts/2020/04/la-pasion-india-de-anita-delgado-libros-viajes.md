@@ -161,8 +161,8 @@ en versión Kindle de Amazon), de Javier Moro.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2022/03/mujeres-viajeras-de-la-historia >}} 
+{{< reflink mujeres-viajeras-de-la-historia >}} 
 
-{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}} 
+{{< reflink ruta-ava-gardner-en-madrid >}} 
 
-{{< reflink path=posts/2021/02/biografia-y-ruta-frida-kahlo-mexico >}}
+{{< reflink biografia-y-ruta-frida-kahlo-mexico >}}

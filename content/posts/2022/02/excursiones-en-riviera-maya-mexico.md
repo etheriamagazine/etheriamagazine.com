@@ -146,14 +146,15 @@ populares de la zona y en ella se pueden ver unas pequeñas ruinas mayas.
 
 ## Cozumel, Holbox e isla Mujeres
 
-Estas islas tienen infinitos atractivos, y ya os los contábamos en nuestro artículo {{< 
-reflink path=posts/2021/08/que-ver-en-las-islas-de-yucatan-mexico >}}. Son perfectas 
-para bucear, pasear por sus playas y descubrir sus arrecifes. **Cozumel** es la más 
-grande, repleta de playas, cenotes, lagunas, largas planicies y ríos subterráneos. 
-**Isla Mujeres** destaca por sus playas de arena blanca y aguas turquesas y por su 
-increíble fondo marino, que incluye un Museo Subacuático de Arte. Y la isla **Holbox** 
-pertenece a la reserva ecológica Yum Balam; es la más bohemia y ecológica, un lugar 
-donde no hay ni calles asfaltadas. Te encantará. 
+Estas islas tienen infinitos atractivos, y ya os los contábamos en nuestro artículo 
+[Cozumel, Holbox e Isla Mujeres, tres islas de Yucatán donde querrás quedarte a 
+vivir]({{% ref que-ver-en-las-islas-de-yucatan-mexico %}}). Son perfectas para bucear, 
+pasear por sus playas y descubrir sus arrecifes. **Cozumel** es la más grande, repleta 
+de playas, cenotes, lagunas, largas planicies y ríos subterráneos. **Isla Mujeres** 
+destaca por sus playas de arena blanca y aguas turquesas y por su increíble fondo 
+marino, que incluye un Museo Subacuático de Arte. Y la isla **Holbox** pertenece a la 
+reserva ecológica Yum Balam; es la más bohemia y ecológica, un lugar donde no hay ni 
+calles asfaltadas. Te encantará. 
 
 ![Isla de Holbox.](https://fotos.etheriamagazine.com/2022/01/Riviera-Maya-Holbox.jpg "Isla de Holbox. © David Santiago.")
 
@@ -204,8 +205,9 @@ todos los detalles.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}} 
+{{< reflink mejores-yacimientos-arqueologicos-mexico >}} 
 
-{{< reflink path=posts/2019/05/10-yacimientos-arqueologicos-america-latina >}} 
+{{< reflink 10-yacimientos-arqueologicos-america-latina >}} 
 
-{{< reflink path=posts/2021/10/parques-naturales-de-america-latina >}}
+[10 parques naturales de América Latina con paisajes increíbles]({{% ref 
+parques-naturales-de-america-latina %}})

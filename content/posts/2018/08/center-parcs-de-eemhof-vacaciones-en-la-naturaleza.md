@@ -34,8 +34,8 @@ alojamiento perfecto para familias.
 ## Cabañas y apartamentos
 
 Center Parcs Eemhof es un alojamiento muy recomendable en un viaje por Holanda en 
-familia (echa un vistazo a nuestro artículo {{< reflink 
-path=posts/2018/08/holanda-en-familia >}}) cuenta con alojamientos para todos los gustos 
+familia (echa un vistazo a nuestro artículo [Qué ver y hacer en un viaje en familia por 
+Holanda]({{% ref holanda-en-familia %}})) cuenta con alojamientos para todos los gustos 
 y tipos de huéspedes. Para los que viajan en pareja, una buena opción es elegir los 
 **Hotel Apartament** o las **cabañas VIP**. Los que van en familia encontrarán multitud 
 de opciones: **cabañas Confort** o **Premium**, las **Children’s Cottage** (¡con tobogán 
@@ -124,8 +124,8 @@ equipadas, que es lo importante.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/08/holanda-en-familia >}} 
+{{< reflink holanda-en-familia >}} 
 
-{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
+{{< reflink viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
 
-{{< reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-amsterdam >}}
+{{< reflink viajar-sola-que-ver-hacer-dormir-amsterdam >}}

@@ -154,6 +154,6 @@ a muchos aspectos de este viaje.
 
 ### También en Chile...
 
-{{< reflink path=posts/2020/01/que-ver-en-valparaiso-ruta-grafitis-chile >}}. 
+{{< reflink que-ver-en-valparaiso-ruta-grafitis-chile >}}. 
 
-{{< reflink path=posts/2019/03/viajar-sola-crucero-fiordos-canales-patagonia-chile >}}.
+{{< reflink viajar-sola-crucero-fiordos-canales-patagonia-chile >}}.

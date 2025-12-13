@@ -214,8 +214,8 @@ nieve, como nunca antes lo hayas hecho.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/11/baqueira-beret-temporada-2021-2022 >}}. 
+{{< reflink baqueira-beret-temporada-2021-2022 >}}. 
 
-{{< reflink path=posts/2019/01/planes-en-la-nieve-para-mujeres-que-no-esquian >}}. 
+{{< reflink planes-en-la-nieve-para-mujeres-que-no-esquian >}}. 
 
-{{< reflink path=posts/2018/11/sport-hotel-hermitage-spa-esquiar-en-andorra >}}.
+{{< reflink sport-hotel-hermitage-spa-esquiar-en-andorra >}}.

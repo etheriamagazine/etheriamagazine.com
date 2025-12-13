@@ -214,8 +214,8 @@ miniaturas con todo detalle.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/12/por-que-visitar-tarragona >}} 
+{{< reflink por-que-visitar-tarragona >}} 
 
-{{< reflink path=posts/2024/06/grand-tour-catalunya-vinedos-sabor-a-mar >}} 
+{{< reflink grand-tour-catalunya-vinedos-sabor-a-mar >}} 
 
-{{< reflink path=posts/2022/02/ruta-en-coche-pirineo-tierras-lleida >}}
+{{< reflink ruta-en-coche-pirineo-tierras-lleida >}}

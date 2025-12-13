@@ -176,8 +176,8 @@ prosperidad de todos.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/05/viajar-sola-bogota-medellin >}} 
+{{< reflink viajar-sola-bogota-medellin >}} 
 
-{{< reflink path=posts/2023/04/como-viajar-islas-galapagos >}} 
+{{< reflink como-viajar-islas-galapagos >}} 
 
-{{< reflink path=posts/2023/03/itinerario-bolivia-sania-jelic >}}
+{{< reflink itinerario-bolivia-sania-jelic >}}

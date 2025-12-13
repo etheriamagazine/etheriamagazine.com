@@ -102,5 +102,4 @@ disponible en la plataforma Podimo (podimo.com)
 
 **También te puede interesar:** 
 
-{{< reflink 
-path=posts/2021/03/organizar-viaje-a-egipto-y-documentar-con-libros-peliculas >}}
+{{< reflink organizar-viaje-a-egipto-y-documentar-con-libros-peliculas >}}

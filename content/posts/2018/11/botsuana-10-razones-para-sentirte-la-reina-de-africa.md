@@ -168,8 +168,8 @@ africana a nuestro alrededor.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/10/10-flechazos-para-viajar-a-kenia >}} 
+{{< reflink 10-flechazos-para-viajar-a-kenia >}} 
 
-{{< reflink path=posts/2023/06/viajar-sola-a-namibia >}} 
+{{< reflink viajar-sola-a-namibia >}} 
 
-{{< reflink path=posts/2023/07/ruta-costera-sudafrica >}}
+{{< reflink ruta-costera-sudafrica >}}

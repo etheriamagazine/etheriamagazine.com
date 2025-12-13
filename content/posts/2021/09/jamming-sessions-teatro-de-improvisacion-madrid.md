@@ -105,10 +105,9 @@ diciembre de 2021.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/06/ruta-senderista-acueducto-segovia >}}. 
+{{< reflink ruta-senderista-acueducto-segovia >}}. 
 
-{{< reflink path=posts/2021/06/ruta-de-ulises-y-bloomsday-en-dublin >}}. 
+{{< reflink ruta-de-ulises-y-bloomsday-en-dublin >}}. 
 
-{{< reflink 
-path=posts/2021/05/hondalea-escultura-de-cristina-iglesias-en-faro-de-la-isla-de-santa-clara 
+{{< reflink hondalea-escultura-de-cristina-iglesias-en-faro-de-la-isla-de-santa-clara 
 >}}.

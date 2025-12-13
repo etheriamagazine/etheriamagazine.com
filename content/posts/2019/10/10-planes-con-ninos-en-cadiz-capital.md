@@ -203,7 +203,7 @@ la calle Mesón, 13 (Centro de Interpretación del Teatro Romano).
 Si os interesa el tema histórico, no dejéis de visitar también el **Museo de Historia de 
 Cádiz** porque alberga auténticas joyas. En el término de Tarifa se encuentran las 
 [ruinas romanas de Baelo 
-Claudia]({{% ref guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia %}}), 
+Claudia](http://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/), 
 otra visita imprescindible para hacer en familia. 
 
 **Precio**: Gratuito. **Horario**: De lunes a sábados y de 11 a 17 h en verano. Domingos 
@@ -233,11 +233,10 @@ de interés y buenos restaurantes donde comer.
 
 ### También te puede interesar en Cádiz provincia...
 
-{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
->}}. 
+{{< reflink 12-actividades-familiares-para-viajes-con-ninos-en-cadiz >}}. 
 
-{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}}. 
+{{< reflink ruta-por-los-pueblos-blancos-de-cadiz >}}. 
 
-{{< reflink path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
+{{< reflink mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
 
 ****

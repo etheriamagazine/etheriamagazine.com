@@ -26,8 +26,8 @@ que se atribuyen virtudes como poder, fortaleza, fortuna, sabiduría y generosid
 estas cualidades son las que el ilustrador Juan Carlos Paz, conocido como Bakea, ha 
 destacado en el cartel anunciador. 
 
-\***No te pierdas: Visitas y mejores restaurantes de Usera:** {{< reflink 
-path=posts/2022/02/ruta-turistica-usera-chinatown-madrileno >}} 
+\***No te pierdas: Visitas y mejores restaurantes de Usera:** [Ruta turística por el 
+Chinatown madrileño]({{% ref ruta-turistica-usera-chinatown-madrileno %}}) 
 
 ## Viernes 9 de febrero, inauguración de la agenda de actos
 

@@ -29,11 +29,13 @@ los pasos de esta gran fadista. Esta ruta recorre la Lisboa más bohemia, la de 
 barrios de Alfama, Mouraria y Barrio Alto, y os acercará a la Casa Museo de Amália 
 Rodrigues y al Museu do Fado. Y, por supuesto, con recomendaciones de restaurantes y 
 locales emblemáticos donde acercarse al mundo del fado. Para completar la visita, no te 
-pierdas el reportaje {{< reflink path=posts/2018/10/12-miradores-para-exprimir-lisboa 
->}}, con sugerencias de lugares donde contemplar las mejores panorámicas de la ciudad y 
-haceros los mejores selfis. Uno de los mejores viajes con tu madre que podéis regalaros. 
+pierdas el reportaje [12 miradores para exprimir Lisboa]({{% ref 
+12-miradores-para-exprimir-lisboa %}}), con sugerencias de lugares donde contemplar las 
+mejores panorámicas de la ciudad y haceros los mejores selfis. Uno de los mejores viajes 
+con tu madre que podéis regalaros. 
 
-✅ {{< reflink path=posts/2020/12/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues >}} 
+✅ [La Ruta de fados en Lisboa de la mano de Amália Rodrigues]({{% ref 
+ruta-de-fados-en-la-lisboa-de-amalia-rodrigues %}}) 
 
 ![retrato de Amalia Rodrigues](https://fotos.etheriamagazine.com/2021/04/viaje-con-madries-lisboa.jpg "Amália Rodrigues fotografiada por Augusto Cabrita, 1965.")
 
@@ -46,7 +48,8 @@ podéis perderos: el faro del Caballo, el monte Buciero, el Paseo de Pereda o el
 de las Marismas. Además, claro, de disfrutar de su excelente gastronomía y de propuestas 
 tan originales como hacer una ruta para descubrir el arte urbano de la localidad. 
 
-✅ {{< reflink path=posts/2021/01/santona-10-planes-con-sabor-marinero-en-cantabria >}} 
+✅ [Santoña, 10 motivos para una escapada cántabra con sabor marinero]({{% ref 
+santona-10-planes-con-sabor-marinero-en-cantabria %}}) 
 
 ![acantilado en Santoña](https://fotos.etheriamagazine.com/2021/04/viajes-con-madres-santona.jpg "Camino vertiginoso para llegar al faro del Caballo, en Santoña.")
 
@@ -56,14 +59,14 @@ Nos gusta tanto Granada que le hemos dedicado varios reportajes en Etheria Magaz
 seguro que sacas buenas ideas de ellos. Si uno de los viajes con tu madre que están en 
 tu agenda es Granada, sigue los pasos trazados en el artículo dedicado a la ruta de 
 Lorca en esta ciudad para descubrir los secretos y el legado de este genial autor en su 
-ciudad de origen. En {{< reflink 
-path=posts/2020/05/48-horas-en-el-albayzin-y-la-alhambra >}} te contamos todo lo que 
-necesitas saber para disfrutar de la zona más emblemática de la ciudad. Y, para que no 
-falte de nada y no tengas que liarte con la búsqueda de restaurantes, en {{< reflink 
-path=posts/2020/10/restaurantes-bares-de-granada-y-visitas-para-mujeres >}} os damos las 
-mejores recomendaciones gastronómicas. 
+ciudad de origen. En [Visita cultural al Albaicín y La Alhambra]({{% ref 
+48-horas-en-el-albayzin-y-la-alhambra %}}) te contamos todo lo que necesitas saber para 
+disfrutar de la zona más emblemática de la ciudad. Y, para que no falte de nada y no 
+tengas que liarte con la búsqueda de restaurantes, en [Granada, el privilegio de la 
+buena mesa]({{% ref restaurantes-bares-de-granada-y-visitas-para-mujeres %}}) os damos 
+las mejores recomendaciones gastronómicas. 
 
-✅ {{< reflink path=posts/2020/10/ruta-cultural-granada-de-garcia-lorca >}} 
+✅ [La ruta más intima de Lorca]({{% ref ruta-cultural-granada-de-garcia-lorca %}}) 
 
 ![sala de la casa-museo de Lorca en Granada](https://fotos.etheriamagazine.com/2021/04/viaje-con-madres-granada.jpg "Museo Casa Natal de Federico García Lorca en Fuente Vaqueros.")
 
@@ -79,7 +82,8 @@ No os perdáis esta inmensa galería de arte al aire libre, merece la pena, y es
 excusa más para pasear esta interesante ciudad. Uno de los mejores viajes con tu madre 
 por Europa que puedes elegir. 
 
-✅ {{< reflink path=posts/2021/02/ruta-murales-street-art-en-lyon-francia >}} 
+✅ [Los murales XXL de Lyon, el atractivo más sorprendente de la ciudad francesa]({{% ref 
+ruta-murales-street-art-en-lyon-francia %}}) 
 
 ![street art en Lyon](https://fotos.etheriamagazine.com/2021/04/viaje-con-madres-lyon.jpg "Mural con trampantojo de los Canuts, en Lyon. © CitéCréation")
 
@@ -91,7 +95,8 @@ marítimo, en el reportaje de Etheria Magazine te damos las claves para que expr
 máximo un viaje con tu madre: senderismo, calas, excursiones, museos… Todo lo necesario 
 para disfrutar de esta ciudad desde un punto de vista distinto del habitual. 
 
-✅ {{< reflink path=posts/2021/03/planes-originales-en-benidorm >}} 
+✅ [Planes secretos en Benidorm más allá de ir a la playa o tomar el sol]({{% ref 
+planes-originales-en-benidorm %}}) 
 
 ![playa de Benidorm](https://fotos.etheriamagazine.com/2021/04/viajes-con-madres-benidorm.jpg "Benidorm, un icono turístico del Mediterráneo. © T.B.")
 
@@ -105,7 +110,8 @@ y los muecines llaman a la oración. Será un momento que tu madre y tú recorda
 siempre. Además, os recomendamos dos excursiones imprescindibles: el yacimiento de 
 Volúbilis, e Ifrane, conocida como ‘la Suiza marroquí’. 
 
-✅ {{< reflink path=posts/2021/03/guia-esencial-que-ver-y-hacer-en-fez >}} 
+✅ [Guía esencial de Fez, la capital espiritual de Marruecos]({{% ref 
+guia-esencial-que-ver-y-hacer-en-fez %}}) 
 
 ![Medina de Fez](https://fotos.etheriamagazine.com/2021/04/viaje-con-madres-fez.jpg "Atardecer sobre Fez (Marruecos). © Chronis Yan")
 
@@ -118,7 +124,8 @@ paseos en barca, avistamiento de aves y unas ostras deliciosas. Si sois de las q
 disfrutáis con los espacios abiertos y las jornadas al aire libre, esta escapada tiene 
 que estar en tu lista de viajes con tu madre. 
 
-✅ {{< reflink path=posts/2020/11/delta-del-ebro-turismo-natural-y-responsable >}} 
+✅ [Delta del Ebro, un viaje natural sorprendente entre aves y arrozales]({{% ref 
+delta-del-ebro-turismo-natural-y-responsable %}}) 
 
 ![barca en el delta del Ebro](https://fotos.etheriamagazine.com/2021/04/viaje-con-madres-delta-del-ebro.jpg "Navegando por el Delta del Ebro.")
 
@@ -131,7 +138,8 @@ visita, y si venís de fuera de Madrid os damos más motivos para dejaros impres
 esta maravilla arquitectónica. Además, es perfecto para una escapada corta de un día 
 desde Madrid y lo podéis combinar con alguna ruta por la sierra. 
 
-✅ {{< reflink path=posts/2021/04/por-que-visitar-monasterio-el-escorial >}} 
+✅ [San Lorenzo de El Escorial, razones escabrosas y sorprendentes para visitar su 
+monasterio]({{% ref por-que-visitar-monasterio-el-escorial %}}) 
 
 ![monasterio de El Escorial con niebla](https://fotos.etheriamagazine.com/2021/04/viaje-con-madres-el-escorial.jpg "Neblina durante el amanecer de San Lorenzo de El Escorial. © Javier Santamarta")
 
@@ -144,9 +152,9 @@ libros más famosos de este Premio Nobel. En el artículo de Etheria Magazine po
 seguir sus huellas en pueblos, monumentos y caminos, pero no hace falta que lo hagas 
 andando como hizo Cela, podréis recorrer la ruta en coche en dos o tres días. 
 
-✅ {{< reflink 
-path=posts/2021/02/viaje-a-la-alcarria-seguimos-los-pasos-de-cela-75-anos-despues-de-su-publicacion 
->}} 
+✅ [‘Viaje a la Alcarria’, seguimos los pasos de Cela 20 años después de que nos 
+dejara]({{% ref 
+viaje-a-la-alcarria-seguimos-los-pasos-de-cela-75-anos-despues-de-su-publicacion %}}) 
 
 ![Brihuega](https://fotos.etheriamagazine.com/2021/04/viaje-con-madres-alcarria.jpg "Brihuega, el “Jardín de la Alcarria”.")
 
@@ -159,16 +167,16 @@ tabernas, restaurantes, mesones, ranchos vigueses… Os vais a tener que emplear
 para recorrer todas las direcciones que os proponemos, pero merece la pena. Más opciones 
 en [Turismo de Galicia](https://www.turismo.gal/). 
 
-✅ {{< reflink path=posts/2020/11/comer-en-vigo-mejores-restaurantes-furanchos >}} 
+✅ [Vigo, ¿por qué estás tan rematadamente bueno?]({{% ref 
+comer-en-vigo-mejores-restaurantes-furanchos %}}) 
 
 ![plato de nécoras en Vigo](https://fotos.etheriamagazine.com/2021/04/viaje-con-madres-vigo.jpg "Restaurante Bao, en Vigo. © J.L. Migueláñez y F. Abente")
 
 📌 **Más ideas de viajes con tu madre...** 
 
-{{< reflink path=posts/2020/11/10-escapadas-fin-de-semana-andalucia >}} 
+{{< reflink 10-escapadas-fin-de-semana-andalucia >}} 
 
 {{< reflink 
-path=posts/2020/09/viajes-por-espana-10-escapadas-a-las-islas-que-ver-que-hacer-canarias-baleares 
->}} 
+viajes-por-espana-10-escapadas-a-las-islas-que-ver-que-hacer-canarias-baleares >}} 
 
-{{< reflink path=posts/2020/07/8-escapadas-en-espana-yacimientos-romanos >}}
+{{< reflink 8-escapadas-en-espana-yacimientos-romanos >}}

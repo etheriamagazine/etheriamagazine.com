@@ -157,8 +157,8 @@ dejarán en esta plaza y hay estación de BiciMad.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2022/02/ruta-turistica-usera-chinatown-madrileno >}}. 
+{{< reflink ruta-turistica-usera-chinatown-madrileno >}}. 
 
-{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}. 
+{{< reflink ruta-ava-gardner-en-madrid >}}. 
 
-{{< reflink path=posts/2021/09/jamming-sessions-teatro-de-improvisacion-madrid >}}.
+{{< reflink jamming-sessions-teatro-de-improvisacion-madrid >}}.

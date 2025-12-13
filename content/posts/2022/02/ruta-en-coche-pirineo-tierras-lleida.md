@@ -251,8 +251,8 @@ Además de realizar esta _Ruta en coche por el Pirineo y las Tierras de Lleida_ 
 te animamos a hacer otros tramos del Grand Tour de Catalunya o a recorrer algunos de sus 
 rincones más sorprendentes. 
 
-{{< reflink path=posts/2024/06/grand-tour-catalunya-vinedos-sabor-a-mar >}}. 
+{{< reflink grand-tour-catalunya-vinedos-sabor-a-mar >}}. 
 
-{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}. 
+{{< reflink lugares-secretos-de-cataluna-que-visitar >}}. 
 
-{{< reflink path=posts/2021/12/por-que-visitar-tarragona >}}.
+{{< reflink por-que-visitar-tarragona >}}.

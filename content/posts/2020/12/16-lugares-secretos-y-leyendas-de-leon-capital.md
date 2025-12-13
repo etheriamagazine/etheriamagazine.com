@@ -215,12 +215,10 @@ Más información en [Turismo de León](https://leon.es/).
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/05/escapadas-por-espana-las-medulas-leon >}}. 
+{{< reflink escapadas-por-espana-las-medulas-leon >}}. 
 
-{{< reflink path=posts/2018/09/48-horas-en-leon >}}. 
+{{< reflink 48-horas-en-leon >}}. 
 
-{{< reflink 
-path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
->}}. 
+{{< reflink viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon >}}. 
 
-{{< reflink path=posts/2018/10/picos-de-europa-ruta-por-asturias-leon-y-cantabria >}}
+{{< reflink picos-de-europa-ruta-por-asturias-leon-y-cantabria >}}

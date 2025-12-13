@@ -107,8 +107,8 @@ un taller de soplado en la [factoría de
 Ajeto](https://www.ajetoglass.com/jidelni-a-napojovy-listek) en la que podréis crear 
 vuestra propia jarra de cerveza o jarrón de cristal. Os va a encantar todo el proceso, 
 desde elegir las formas y colores hasta dar forma a vuestra obra de arte. En este 
-artículo podrás seguir leyendo más sobre las {{< reflink 
-path=posts/2023/01/valle-cristal-republica-checa >}}. 
+artículo podrás seguir leyendo más sobre las [propuestas en el Valle del Cristal]({{% 
+ref valle-cristal-republica-checa %}}). 
 
 ![Factoría de cristal soplado Novosad a Syn](https://fotos.etheriamagazine.com/2024/01/Taller-Novosad-syn.jpg "© Factoría de cristal soplado Novosad a Syn.")
 
@@ -135,6 +135,6 @@ de los secretos mejor guardados de la República Checa.
 
 **También te puede interesar** 
 
-{{< reflink path=posts/2021/02/excursiones-magicas-desde-praga-republica-checa >}}. 
+{{< reflink excursiones-magicas-desde-praga-republica-checa >}}. 
 
-{{< reflink path=posts/2020/05/viajar-sola-a-republica-checa-visitas-y-consejos >}}.
+{{< reflink viajar-sola-a-republica-checa-visitas-y-consejos >}}.

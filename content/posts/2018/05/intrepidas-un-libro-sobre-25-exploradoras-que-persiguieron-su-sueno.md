@@ -26,17 +26,17 @@ de **Rena Ortega**.
 ## 1\. Etheria o Egeria
 
 Son biografías fascinantes las que nos encontramos en _Intrépidas_. Nada más abrir las 
-páginas del libro nos topamos con **Egeria** o {{< reflink 
-path=posts/2018/06/etheria-la-primera-viajera >}}, seguramente la primera aventurera de 
-la Historia y a la que también admiramos y rendimos tributo, hasta con nuestro nombre, 
-desde Etheria (una variante de Egeria). Hizo algo imposible de imaginar en el siglo IV 
-que le tocó vivir, ya que abandonó su Galicia natal para adentrarse en Tierra Santa y 
-descubrir los lugares que había intuido con anterioridad en la Biblia. Recorrió más de 
-5.000 kilómetros en burro, entre los años 381 y 384, y tomaba nota de todo lo que veía. 
-Escribía, hacía dibujos y mantenía correspondencia con sus amigas y compañeras en la fe, 
-unas cartas que nos han servido para resucitar a esta mujer tan especial que llegó a 
-Jerusalén y al monte Sinaí, escuchó el bullicio del puerto de Alejandría y durmió al 
-raso en Egipto mientras la contemplaban las estrellas. 
+páginas del libro nos topamos con **Egeria** o [Etheria]({{% ref 
+etheria-la-primera-viajera %}}), seguramente la primera aventurera de la Historia y a la 
+que también admiramos y rendimos tributo, hasta con nuestro nombre, desde Etheria (una 
+variante de Egeria). Hizo algo imposible de imaginar en el siglo IV que le tocó vivir, 
+ya que abandonó su Galicia natal para adentrarse en Tierra Santa y descubrir los lugares 
+que había intuido con anterioridad en la Biblia. Recorrió más de 5.000 kilómetros en 
+burro, entre los años 381 y 384, y tomaba nota de todo lo que veía. Escribía, hacía 
+dibujos y mantenía correspondencia con sus amigas y compañeras en la fe, unas cartas que 
+nos han servido para resucitar a esta mujer tan especial que llegó a Jerusalén y al 
+monte Sinaí, escuchó el bullicio del puerto de Alejandría y durmió al raso en Egipto 
+mientras la contemplaban las estrellas. 
 
 Egeria fue una de las pioneras del viaje de exploración dispuesta a conseguir sus metas. 
 Pero hay muchas más. Cada una con su estilo. Unas se subieron a las montañas más altas, 

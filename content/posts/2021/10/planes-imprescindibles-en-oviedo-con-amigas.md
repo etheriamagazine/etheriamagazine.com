@@ -313,9 +313,8 @@ grupo desde 90 euros.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/10/picos-de-europa-ruta-por-asturias-leon-y-cantabria >}} 
+{{< reflink picos-de-europa-ruta-por-asturias-leon-y-cantabria >}} 
 
-{{< reflink path=posts/2021/07/que-hacer-en-parque-las-ubinas-la-mesa >}} 
+{{< reflink que-hacer-en-parque-las-ubinas-la-mesa >}} 
 
-{{< reflink path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias 
->}}
+{{< reflink gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias >}}

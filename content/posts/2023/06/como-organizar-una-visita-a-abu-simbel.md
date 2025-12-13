@@ -181,6 +181,6 @@ más de un viaje al año.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/04/que-ver-crucero-del-nilo-egipto >}} 
+{{< reflink que-ver-crucero-del-nilo-egipto >}} 
 
-{{< reflink path=posts/2023/02/que-llevar-en-la-maleta-egipto >}}
+{{< reflink que-llevar-en-la-maleta-egipto >}}

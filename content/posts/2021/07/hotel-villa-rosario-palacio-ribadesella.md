@@ -83,9 +83,8 @@ Fotografías cedidas por el hotel Villa Rosario.
 
 ### También te puede interesar
 
-{{< reflink path=posts/2020/08/mejores-playas-llanes-costa-asturias >}} 
+{{< reflink mejores-playas-llanes-costa-asturias >}} 
 
-{{< reflink path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias 
->}} 
+{{< reflink gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias >}} 
 
-{{< reflink path=posts/2018/10/picos-de-europa-ruta-por-asturias-leon-y-cantabria >}}
+{{< reflink picos-de-europa-ruta-por-asturias-leon-y-cantabria >}}

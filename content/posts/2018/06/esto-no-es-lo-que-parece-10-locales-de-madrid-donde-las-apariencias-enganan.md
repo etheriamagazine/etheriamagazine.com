@@ -156,8 +156,8 @@ Peaks hasta los cócteles o la riquísima cherry pie casera.
 
 También te puede interesar... 
 
-{{< reflink path=posts/2019/10/10-mejores-coctelerias-de-madrid-salir-con-amigas >}}. 
+{{< reflink 10-mejores-coctelerias-de-madrid-salir-con-amigas >}}. 
 
-{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}. 
+{{< reflink brunch-buenos-y-baratos-en-madrid >}}. 
 
-{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}.
+{{< reflink 10-planes-originales-en-madrid-con-amigas >}}.

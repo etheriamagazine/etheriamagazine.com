@@ -87,4 +87,4 @@ termina su _Sing along_ y el Tour Hemple-Beatles.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}}.
+{{< reflink que-ver-hacer-fin-de-semana-hamburgo-alemania >}}.

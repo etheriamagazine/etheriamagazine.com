@@ -220,10 +220,10 @@ Atitlán](https://www.civitatis.com/es/ciudad-de-guatemala/tour-2-dias-lago-atit
 
 ✅ **También te puede interesar**: 
 
-{{< reflink path=posts/2019/05/10-yacimientos-arqueologicos-america-latina >}} 
+{{< reflink 10-yacimientos-arqueologicos-america-latina >}} 
 
-{{< reflink path=posts/2021/02/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala >}} 
+{{< reflink viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala >}} 
 
-{{< reflink path=posts/2021/04/viaje-costa-rica-con-ninos-que-hacer-en-familia >}} 
+{{< reflink viaje-costa-rica-con-ninos-que-hacer-en-familia >}} 
 
-{{< reflink path=posts/2020/12/mejores-cataratas-del-mundo >}}
+{{< reflink mejores-cataratas-del-mundo >}}

@@ -98,8 +98,8 @@ Fuentespalda a Ráfales, km 2,2. Monroyo. Teruel. Tel. +34 978 870 600.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/07/que-hacer-en-matarranya-piscinas-naturales-verano >}} 
+{{< reflink que-hacer-en-matarranya-piscinas-naturales-verano >}} 
 
-{{< reflink path=posts/2021/10/ruta-en-coche-por-teruel >}} 
+{{< reflink ruta-en-coche-por-teruel >}} 
 
-{{< reflink path=posts/2020/02/viajes-romanticos-que-ver-donde-comer-teruel >}}
+{{< reflink viajes-romanticos-que-ver-donde-comer-teruel >}}

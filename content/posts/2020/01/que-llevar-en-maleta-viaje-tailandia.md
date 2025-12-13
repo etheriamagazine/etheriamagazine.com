@@ -48,10 +48,9 @@ no quieres entrar descalzo en los templos.
 
 Verás que todo el mundo viste de forma informal, no hace falta que lleves mucha ropa 
 para arreglarte. Guarda algún **vestido negro y zapatos cómodos de vestir** si piensas 
-salir a cenar a algún restaurante elegante de {{< reflink 
-path=posts/2019/10/viaje-con-amigas-tailandia-donde-comer-bangkok >}}. Y no olvides una 
-chaqueta fina o un chal porque el aire acondicionado de restaurantes y hoteles suele 
-estar muy alto. 
+salir a cenar a algún restaurante elegante de [Bangkok]({{% ref 
+viaje-con-amigas-tailandia-donde-comer-bangkok %}}). Y no olvides una chaqueta fina o un 
+chal porque el aire acondicionado de restaurantes y hoteles suele estar muy alto. 
 
 Si vas a **zonas de playa en Tailandia**, no puedes dejarte el bañador o bikini, lleva 
 al menos tres ya que con la humedad tardan en secarse, y una [toalla de 
@@ -135,8 +134,8 @@ pueden facilitar uno, pero no ocupa mucho en la maleta y puede ahorrarte problem
 ![Adaptador de corriente y tarjeta SIM de holafly](https://fotos.etheriamagazine.com/2019/12/maleta-tailandia-tecnologia.jpg "Adaptador de corriente y tarjeta SIM de ©holafly")
 
 Para comunicarte y tener internet (muy útil si dependes de Google Maps para tus rutas) 
-puedes comprar una {{< reflink path=posts/2022/06/holafly-viaje-espana >}} local de 
-HolaFly o llevar un wifi portátil. Puedes contratarlo con empresas como **Travelwifi** 
+puedes comprar una [tarjeta SIM]({{% ref holafly-viaje-espana %}}) local de HolaFly o 
+llevar un wifi portátil. Puedes contratarlo con empresas como **Travelwifi** 
 (wifivox.com/tailandia) o **Mywebspot**. 
 
 ## 8\. Cámara fotográfica
@@ -174,9 +173,8 @@ porque nos da fiabilidad y porque ahora tiene una interesante cobertura Covid-19
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/05/tres-dias-en-bangkok-que-hacer >}} 
+{{< reflink tres-dias-en-bangkok-que-hacer >}} 
 
-{{< reflink path=posts/2021/01/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual 
->}} 
+{{< reflink chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual >}} 
 
-{{< reflink path=posts/2019/06/que-ver-en-phuket-tailandia-sola-o-con-amigas >}}
+{{< reflink que-ver-en-phuket-tailandia-sola-o-con-amigas >}}

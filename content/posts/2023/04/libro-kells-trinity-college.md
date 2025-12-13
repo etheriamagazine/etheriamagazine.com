@@ -114,6 +114,6 @@ salir del recinto de la universidad para disfrutar de su música. Planazo.
 
 📌 **También os puede interesar...** 
 
-{{< reflink path=posts/2020/03/viaje-sola-con-amigas-que-ver-en-dublin >}} 
+{{< reflink viaje-sola-con-amigas-que-ver-en-dublin >}} 
 
-{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}}
+{{< reflink 8-visitas-increibles-en-irlanda-del-norte >}}

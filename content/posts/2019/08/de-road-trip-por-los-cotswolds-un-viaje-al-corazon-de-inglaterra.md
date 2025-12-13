@@ -157,8 +157,8 @@ descubrir el secreto mejor guardado de Inglaterra.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/04/los-mejores-jardines-de-gran-bretana >}} 
+{{< reflink los-mejores-jardines-de-gran-bretana >}} 
 
-{{< reflink path=posts/2019/08/viajar-con-amigas-ruta-coche-gales >}} 
+{{< reflink viajar-con-amigas-ruta-coche-gales >}} 
 
-{{< reflink path=posts/2019/07/viaje-que-hacer-ruta-cornualles-cornwall-inglaterra >}}
+{{< reflink viaje-que-hacer-ruta-cornualles-cornwall-inglaterra >}}

@@ -148,9 +148,8 @@ armonía interior.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/01/aguacate-beneficios-y-recetas-bajas-en-calorias >}} 
+{{< reflink aguacate-beneficios-y-recetas-bajas-en-calorias >}} 
 
-{{< reflink 
-path=posts/2020/11/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}} 
+{{< reflink personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}} 
 
-{{< reflink path=posts/2020/12/que-es-la-biodanza-y-que-beneficios-tiene >}}
+{{< reflink que-es-la-biodanza-y-que-beneficios-tiene >}}

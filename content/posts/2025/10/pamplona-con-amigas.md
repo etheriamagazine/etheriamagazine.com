@@ -93,8 +93,9 @@ permiten asomarse a la vida cotidiana de los canónigos medievales.
 
 La visita no estaría completa sin pasar por el **Museo de la Catedral** con su 
 exposición Occidens, que traza la evolución de la cultura occidental desde la 
-antigüedad. De todo ello os hemos hablado anteriormente en este artículo: {{< reflink 
-path=posts/2024/02/visita-de-la-catedral-de-pamplona-exposicion-occidens >}} 
+antigüedad. De todo ello os hemos hablado anteriormente en este artículo: [Visita de la 
+catedral de Pamplona y su exposición Occidens.]({{% ref 
+visita-de-la-catedral-de-pamplona-exposicion-occidens %}}) 
 
 ![Escalera de caracol de la catedral de Pamplona](https://fotos.etheriamagazine.com/2025/10/escalera-catedral-pamplona.jpeg "Detalle de la monumental escalera de caracol de la Catedral de Pamplona. © Pepa García")
 
@@ -241,6 +242,6 @@ Pamplona](https://visitpamplonairuna.com/).
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2019/11/que-ver-y-donde-comer-pintxos-con-amigas-en-pamplona >}}. 
+{{< reflink que-ver-y-donde-comer-pintxos-con-amigas-en-pamplona >}}. 
 
-{{< reflink path=posts/2021/12/planes-en-navarra-con-amigas >}}.
+{{< reflink planes-en-navarra-con-amigas >}}.

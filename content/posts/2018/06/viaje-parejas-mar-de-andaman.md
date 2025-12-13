@@ -20,9 +20,9 @@ pareja.
 ## 1\. Península de Phranang (Krabi)
 
 Situada en un extremo de Krabi está enmarcada por dos playas: Railay (considerada de las 
-mejores de Krabi) y Phranang. Aquí se encuentra el {{< reflink 
-path=posts/2018/05/hotel-rayavadee-vivir-la-naturaleza >}}, uno de los mejores hoteles 
-de lujo de todo Tailandia. En el enlace os contamos nuestra experiencia. 
+mejores de Krabi) y Phranang. Aquí se encuentra el [hotel Rayavadee]({{% ref 
+hotel-rayavadee-vivir-la-naturaleza %}}), uno de los mejores hoteles de lujo de todo 
+Tailandia. En el enlace os contamos nuestra experiencia. 
 
 ![Barcos frente a las islas Phi Phi.](https://fotos.etheriamagazine.com/2018/05/2-Islas-Phi-Phi.jpg "Barcos frente a las islas Phi Phi.")
 
@@ -121,6 +121,6 @@ ofrece la posibilidad de practicar _snorkel_.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/01/que-llevar-en-maleta-viaje-tailandia >}}. 
+{{< reflink que-llevar-en-maleta-viaje-tailandia >}}. 
 
-{{< reflink path=posts/2021/05/tres-dias-en-bangkok-que-hacer >}}
+{{< reflink tres-dias-en-bangkok-que-hacer >}}

@@ -162,8 +162,6 @@ online.
 
 ### También te puede interesar
 
-{{< reflink 
-path=posts/2018/07/los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia 
->}} 
+{{< reflink los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia >}} 
 
-{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}}
+{{< reflink viajar-con-ninos-por-europa-consejos-y-propuestas >}}

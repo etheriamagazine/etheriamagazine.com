@@ -158,8 +158,6 @@ y aquellos donde se exhiben algunas de su obras:
 
 ### También te puede interesar...
 
-{{< reflink 
-path=posts/2019/11/grandes-mujeres-artistas-exposicion-sofonisba-anguissola-lavinia-fontana 
->}} 
+{{< reflink grandes-mujeres-artistas-exposicion-sofonisba-anguissola-lavinia-fontana >}} 
 
-{{< reflink path=posts/2018/07/arte-en-amberes-si-las-mujeres-pintaran >}}
+{{< reflink arte-en-amberes-si-las-mujeres-pintaran >}}

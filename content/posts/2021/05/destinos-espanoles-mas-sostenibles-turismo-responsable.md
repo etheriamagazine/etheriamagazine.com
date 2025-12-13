@@ -146,11 +146,10 @@ consciente de lo que comemos– es en este territorio un auténtico acierto.
 
 **✅ También te interesa leer..** 
 
-{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}. 
+{{< reflink viajar-con-amigas-mejores-playas-formentera >}}. 
 
-{{< reflink 
-path=posts/2020/08/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}}. 
+{{< reflink la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}}. 
 
-{{< reflink path=posts/2020/07/viajes-espana-las-hurdes-un-paraiso-extremeno >}}. 
+{{< reflink viajes-espana-las-hurdes-un-paraiso-extremeno >}}. 
 
-{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}.
+{{< reflink consejos-rutas-andalucia-en-autocaravana >}}.

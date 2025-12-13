@@ -96,8 +96,8 @@ el Complejo Arqueológico de **Cutimbo**, el centro funerario más importante de
 Perú, y el Complejo Arqueológico de **Sillustani**, un antiguo cementerio vinculado a 
 rituales funerarios de las culturas Inca, Colla y Tiahuanaco. 
 
-**No te pierdas este artículo**: {{< reflink 
-path=posts/2019/12/que-ver-en-lago-titicaca-isla-del-sol-copacabana-bolivia >}}. 
+**No te pierdas este artículo**: [Toca el cielo con las manos en el lago Titicaca y la 
+Isla del Sol]({{% ref que-ver-en-lago-titicaca-isla-del-sol-copacabana-bolivia %}}). 
 
 ![Barca de totora en el Lago Titicaca](https://fotos.etheriamagazine.com/2023/08/lago-titicada-barca-totora.jpg "Lago Titicaca. © William Reis")
 
@@ -132,8 +132,8 @@ más de un viaje al año.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/11/mujeres-que-viajan-solas-amigas-peru >}}. 
+{{< reflink mujeres-que-viajan-solas-amigas-peru >}}. 
 
-{{< reflink path=posts/2020/02/hotel-ac-hotel-lima-miraflores-peru >}}. 
+{{< reflink hotel-ac-hotel-lima-miraflores-peru >}}. 
 
-{{< reflink path=posts/2022/01/restaurantes-peruanos-en-madrid-de-jhosef-arias >}}.
+{{< reflink restaurantes-peruanos-en-madrid-de-jhosef-arias >}}.

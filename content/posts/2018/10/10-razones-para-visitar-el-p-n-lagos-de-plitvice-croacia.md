@@ -141,8 +141,8 @@ Fotos: © JU NP Plitvička jezera/ Pepa García
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}} 
+{{< reflink viaje-a-croacia-como-organizar-que-ver-hacer >}} 
 
-{{< reflink path=posts/2020/08/que-ver-hacer-sibenik-parque-krka >}} 
+{{< reflink que-ver-hacer-sibenik-parque-krka >}} 
 
-{{< reflink path=posts/2019/07/10-razones-para-viajar-con-amigas-a-croacia >}}
+{{< reflink 10-razones-para-viajar-con-amigas-a-croacia >}}

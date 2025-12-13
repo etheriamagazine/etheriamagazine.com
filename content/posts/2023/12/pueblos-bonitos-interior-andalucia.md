@@ -54,8 +54,8 @@ interiores; y el **Castillo de Aracena**, una fortaleza islámica del siglo XIII
 se pueden visitar la iglesia mudéjar de Nuestra Señora del Mayor Dolor, de estilo gótico 
 tardío y construida por la Orden del Temple. 
 
-✅ Sigue leyendo en {{< reflink 
-path=posts/2019/06/viaje-amigas-huelva-ruta-jamon-jabugo-aracena >}} 
+✅ Sigue leyendo en [Sierra de Aracena y Jabugo, una escapada 100% bellota]({{% ref 
+viaje-amigas-huelva-ruta-jamon-jabugo-aracena %}}) 
 
 ![Castillo de Aracena.](https://fotos.etheriamagazine.com/2023/12/huelva-aracena-castillo.jpg "Castillo de Aracena. © Turismo de Andalucía.")
 
@@ -73,8 +73,8 @@ Corredera. Tampoco hay que perderse tomar algo en una de las terrazas de la boni
 como las espectaculares **playas de El Palmar** o la **Fundación NMAC Montenmedio Arte 
 Contemporáneo**, donde las obras de arte se integran en la naturaleza. 
 
-✅ Sigue leyendo en {{< reflink 
-path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}} 
+✅ Sigue leyendo en [10 actividades para enamorarte de Vejer de la Frontera]({{% ref 
+10-actividades-vejer-de-la-frontera-que-ver-hacer %}}) 
 
 ![Estatua dedicada a las 'cobijadas' en Vejer de la Frontera.](https://fotos.etheriamagazine.com/2023/12/cadiz-vejer-cobijada.jpg "Estatua dedicada a las 'cobijadas' en Vejer de la Frontera. © Turismo de Andalucía.")
 
@@ -90,7 +90,8 @@ Encarnación. Para tener las mejores vistas del laberinto de las calles de Seten
 que subirse las escaleras que llevan al **Mirador del Carmen**, justo al lado de la 
 ermita de Nuestra Señora del Carmen, del siglo XVIII. 
 
-✅ Sigue leyendo en {{< reflink path=posts/2022/07/que-ver-setenil-de-las-bodegas >}} 
+✅ Sigue leyendo en [Excursión a Setenil de las Bodegas: qué ver en este precioso pueblo 
+blanco de Cádiz]({{% ref que-ver-setenil-de-las-bodegas %}}) 
 
 ![calle bajo la roca en Setenil](https://fotos.etheriamagazine.com/2022/07/Setenil-cuevas-sombra.jpg "Calle de las Cuevas de la Sombra, en Setenil de las Bodegas. © SG")
 
@@ -108,7 +109,8 @@ malagueña. Al pasear por Frigiliana, presta atención a los bonitos azulejos qu
 encuentran en diferentes calles y que narran la historia de la resistencia morisca ante 
 los cristianos de 1569. 
 
-✅ Sigue leyendo en {{< reflink path=posts/2021/12/que-ver-excursion-a-frigiliana >}} 
+✅ Sigue leyendo en [Un día en Frigiliana, uno de los pueblos más bonitos de Málaga]({{% 
+ref que-ver-excursion-a-frigiliana %}}) 
 
 ![casas blancas en Frigiliana en Málaga](https://fotos.etheriamagazine.com/2023/03/Malaga-Frigiliana-calle-barrio-alto.jpg "Calle de Frigiliana. © SG")
 
@@ -122,7 +124,8 @@ Auxiliadora), la casa del Rey Moro, el Arco de Felipe V o su icónica plaza de t
 por supuesto, Ronda como buen pueblo andaluz está llena de bares donde tapear y degustar 
 una gastronomía de diez. 
 
-✅ Sigue leyendo en {{< reflink path=posts/2021/11/planes-en-ronda-con-amigas >}} 
+✅ Sigue leyendo en [Ronda con amigas, pistas para gozar al máximo]({{% ref 
+planes-en-ronda-con-amigas %}}) 
 
 ![El Puente Nuevo de Ronda.](https://fotos.etheriamagazine.com/2023/03/malaga-ronda-puente-nuevo.jpg "El Puente Nuevo de Ronda.")
 
@@ -139,8 +142,8 @@ la iglesia de Santa María de la Asunción (con su famosa “Giraldilla”). Tam
 acercarse al **Alcázar del Rey Don Pedro** y, por supuesto, seguir la ruta de la tapa 
 por los bares de Carmona. 
 
-✅ Sigue leyendo en {{< reflink 
-path=posts/2020/07/viajes-por-espana-trilogia-hispalense-donana-italica-y-carmona >}} 
+✅ Sigue leyendo en [Carmona, Itálica y Doñana, una trilogía hispalense para un fin de 
+semana]({{% ref viajes-por-espana-trilogia-hispalense-donana-italica-y-carmona %}}) 
 
 ![Carmona](https://fotos.etheriamagazine.com/2023/12/sevilla-Carmona.jpg "Carmona. © Turismo de Andalucía.")
 
@@ -155,7 +158,8 @@ duques. Además, hay que recorrer las calles de San Pedro y Sevilla para descubr
 casas solariegas. Los fans de '**Juego de Tronos**' no se pueden perder un museo 
 dedicado a esta serie que tuvo a Osuna entre sus escenarios. 
 
-✅ Sigue leyendo en {{< reflink path=posts/2022/04/semana-santa-caminos-de-pasion >}} 
+✅ Sigue leyendo en [10 experiencias sorprendentes en Caminos de Pasión]({{% ref 
+semana-santa-caminos-de-pasion %}}) 
 
 ![Colegiata de Osuna.](https://fotos.etheriamagazine.com/2023/12/osuna-colegiata.jpg "Colegiata de Osuna. © Turismo de Andalucía.")
 
@@ -196,7 +200,8 @@ Reales Alcázares. Pero, además, una ruta por la ciudad descubre lugares como e
 Vela de los Cobos, el Alcázar, con sus vestigios judíos, la iglesia de San Lorenzo o la 
 iglesia de San Pablo. 
 
-✅ Sigue leyendo en {{< reflink path=posts/2022/11/que-ver-ubeda >}} 
+✅ Sigue leyendo en [Guía esencial de Úbeda para un fin de semana histórico]({{% ref 
+que-ver-ubeda %}}) 
 
 ![Calle de Úbeda.](https://fotos.etheriamagazine.com/2023/12/jaen-Ubeda.jpg "Calle de Úbeda. © Turismo de Andalucía.")
 
@@ -270,8 +275,8 @@ aprender algo más de las estrellas en el Observatorio Astronómico de Calar Alt
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/09/pueblos-bonitos-castilla-y-leon >}} 
+{{< reflink pueblos-bonitos-castilla-y-leon >}} 
 
-{{< reflink path=posts/2023/11/pueblos-bonitos-castilla-la-mancha >}} 
+{{< reflink pueblos-bonitos-castilla-la-mancha >}} 
 
-{{< reflink path=posts/2023/09/pueblos-bonitos-galicia >}}
+{{< reflink pueblos-bonitos-galicia >}}

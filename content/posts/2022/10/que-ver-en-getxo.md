@@ -129,8 +129,8 @@ cómodo y programa un bonito paseo para recrear la vista entre mansiones y palac
 desde el Puente Bizkaia hasta la playa de Ereaga, mientras la brisa te acaricia el 
 rostro. 
 
-\*No te pierdas el artículo: {{< reflink 
-path=posts/2023/11/grandes-villas-mansiones-getxo >}}. 
+\*No te pierdas el artículo: [Un paseo por las Grandes Mansiones y Villas de Getxo]({{% 
+ref grandes-villas-mansiones-getxo %}}). 
 
 ![Paseo de las Grandes Villas, un itinerario muy recomendable en Getxo.](https://fotos.etheriamagazine.com/2022/10/paseo-grandes-villas-getxo.jpg "Paseo de las Grandes Villas, un itinerario muy recomendable en Getxo.")
 
@@ -277,9 +277,8 @@ tendrá lugar en **Muxikebarri**, el Centro de Arte, Cultura y Congresos de Getx
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2022/08/como-ser-sostenible-en-getxo >}}. 
+{{< reflink como-ser-sostenible-en-getxo >}}. 
 
-{{< reflink path=posts/2022/07/que-ver-getxo-visitas-marineras >}}. 
+{{< reflink que-ver-getxo-visitas-marineras >}}. 
 
-{{< reflink 
-path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.
+{{< reflink 12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.

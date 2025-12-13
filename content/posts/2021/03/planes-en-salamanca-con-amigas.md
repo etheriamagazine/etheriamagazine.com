@@ -327,10 +327,8 @@ Salamanca](https://www.civitatis.com/es/salamanca/free-tour-salamanca/?aid=10211
 
 **Otras escapadas con amigas en Castilla y León** 
 
-{{< reflink 
-path=posts/2020/12/10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}. 
+{{< reflink 10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}. 
 
-{{< reflink path=posts/2019/01/bares-imprescindibles-finde-valladolid >}} 
+{{< reflink bares-imprescindibles-finde-valladolid >}} 
 
-{{< reflink path=posts/2021/03/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia 
->}}
+{{< reflink 15-lugares-imprescindibles-que-ver-en-segovia-y-provincia >}}

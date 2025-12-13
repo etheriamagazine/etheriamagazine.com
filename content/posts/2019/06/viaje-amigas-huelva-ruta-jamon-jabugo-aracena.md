@@ -158,6 +158,6 @@ Jabugo](https://www.jabugo.es/).
 
 ### También te puede interesar
 
-{{< reflink path=posts/2020/07/que-ver-hacer-costa-playas-huelva-donana >}} 
+{{< reflink que-ver-hacer-costa-playas-huelva-donana >}} 
 
-{{< reflink path=posts/2021/06/planes-en-huelva-con-ninos >}}
+{{< reflink planes-en-huelva-con-ninos >}}

@@ -146,6 +146,6 @@ protagonizando otra.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/07/12-playas-espanolas-que-salen-en-peliculas >}}. 
+{{< reflink 12-playas-espanolas-que-salen-en-peliculas >}}. 
 
-{{< reflink path=posts/2020/03/viajes-sin-salir-de-casa-destinos-cine-y-series >}}.
+{{< reflink viajes-sin-salir-de-casa-destinos-cine-y-series >}}.

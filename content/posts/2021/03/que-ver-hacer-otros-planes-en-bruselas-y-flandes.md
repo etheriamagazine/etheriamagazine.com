@@ -127,8 +127,8 @@ quieres conocer más planes en Bruselas y Flandes no dejes de consultar su pági
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/07/viaje-amigas-mujeres-de-brujas-flandes-belgica >}} 
+{{< reflink viaje-amigas-mujeres-de-brujas-flandes-belgica >}} 
 
-{{< reflink path=posts/2018/10/la-cerveza-un-asunto-de-mujeres-belgica >}}. 
+{{< reflink la-cerveza-un-asunto-de-mujeres-belgica >}}. 
 
-{{< reflink path=posts/2020/03/que-ver-y-hacer-en-luxemburgo-en-3-dias-con-amigas >}}
+{{< reflink que-ver-y-hacer-en-luxemburgo-en-3-dias-con-amigas >}}

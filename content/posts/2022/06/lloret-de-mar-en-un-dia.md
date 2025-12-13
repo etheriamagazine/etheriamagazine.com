@@ -144,7 +144,6 @@ Más información en la web de **Turismo de Lloret de Mar**.
 
 ### También en Costa Brava...
 
-{{< reflink path=posts/2019/05/pueblos-imprescindibles-viaje-amigas-costa-brava >}}. 
+{{< reflink pueblos-imprescindibles-viaje-amigas-costa-brava >}}. 
 
-{{< reflink path=posts/2020/06/viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava 
->}}.
+{{< reflink viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava >}}.

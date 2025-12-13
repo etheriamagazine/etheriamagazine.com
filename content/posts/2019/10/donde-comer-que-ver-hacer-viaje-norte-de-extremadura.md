@@ -13,7 +13,7 @@ authors:
 
 ¿Te apetece una escapada de fin de semana a Extremadura para visitar Cáceres, Plasencia y la comarca de Tierras de Granadilla? Te invitamos a sumergirte en la boyante cultura gastronómica y en los museos más originales con las siguientes recomendaciones.
 
-{{< reflink path=posts/2019/10/donde-comer-que-ver-hacer-viaje-norte-de-extremadura >}}
+[![chef restaurante versatil, alex granadilla](https://fotos.etheriamagazine.com/2019/09/alex-chef-restaurate-Versatil.jpg "Álex, del restaurante Versátil.")]({{% ref donde-comer-que-ver-hacer-viaje-norte-de-extremadura %}})
 
 En este viaje a Extremadura, tomamos como punto de partida la ciudad de **Cáceres**, que 
 no solo puede presumir de tener uno de los conjuntos monumentales más sobresalientes de 
@@ -23,7 +23,7 @@ urbano de los siglos XIV al XVII. Entrar en los empedrados callejones de su alme
 medieval supone adentrarse en un escenario donde los perfiles de la historia se 
 confunden con la fantasía de las leyendas. 
 
-{{< reflink path=posts/2019/10/donde-comer-que-ver-hacer-viaje-norte-de-extremadura >}}
+[![arco de la estrella, viaje a caceres](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-arco-estrella.jpg "Arco de la Estrella, en Cáceres.")]({{% ref donde-comer-que-ver-hacer-viaje-norte-de-extremadura %}})
 
 ## Atrio, el restaurante de Toño Pérez
 
@@ -34,7 +34,7 @@ restaurante. Se trata de [Atrio](http://restauranteatrio.com), el restaurante qu
 José inauguraron en 1990 extramuros, y que ahora se ha convertido en **‘el dos estrellas 
 Michelin” de Extremadura**. 
 
-{{< reflink path=posts/2019/10/donde-comer-que-ver-hacer-viaje-norte-de-extremadura >}}
+[![viaje gastro caceres, restaurante atrio, chef tono perez](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-restaurante-atrio.jpg "Restaurante Atrio y su chef, Toño Pérez, con el plato Binomio del Casar.")]({{% ref donde-comer-que-ver-hacer-viaje-norte-de-extremadura %}})
 
 Como el lugar de nacimiento del **Toño Pérez** (el chef) es Casar de Cáceres (cuna de la 
 Torta) no puede faltar un plato, ya emblemático de su menú, en el que intervenga el 
@@ -48,12 +48,11 @@ aceite de oliva y té matcha… y pera, y membrillo. Espectacular creación.
 
 Pero ¡cómo no solo de queso vive el hombre! para alimentar el espíritu enriqueceremos la 
 experiencia del arte culinario con la visita a dos museos de arte emblemáticos. El 
-primero de ellos es el {{< reflink 
-path=posts/2021/03/helga-de-alvear-el-arte-es-un-derecho-y-una-necesidad >}} que 
-custodia una colección de arte contemporáneo de artistas internacionales desarrollada 
-por la reconocida galerista. 
+primero de ellos es el [Museo Helga de Alvear]({{% ref 
+helga-de-alvear-el-arte-es-un-derecho-y-una-necesidad %}}) que custodia una colección de 
+arte contemporáneo de artistas internacionales desarrollada por la reconocida galerista. 
 
-{{< reflink path=posts/2019/10/donde-comer-que-ver-hacer-viaje-norte-de-extremadura >}}
+[![los barruecos, viaje caceres](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-Paisaje-de-los-Barruecos.jpg "Los Barruecos.")]({{% ref donde-comer-que-ver-hacer-viaje-norte-de-extremadura %}})
 
 Entre sus níveas paredes nos abandonaremos al relax conceptual que nos preparará la 
 mente para viajar hasta el alucinante **paraje de Los Barruecos** –donde se rodó parte 
@@ -68,7 +67,7 @@ Vostell](http://museovostell.com), que exhibe el mundo mágico de un creador mul
 alemán que empleó su vida en mezclar todas las prácticas artísticas. Instalaciones de 
 arte contemporáneo que no dejan indiferente ni al más neófito. Inolvidable. 
 
-{{< reflink path=posts/2019/10/donde-comer-que-ver-hacer-viaje-norte-de-extremadura >}}
+[![museo vostell, viaje caceres, arte en extremadura](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-Museo-Vostell.jpg "Museo Vostell")]({{% ref donde-comer-que-ver-hacer-viaje-norte-de-extremadura %}})
 
 ## Casar de Cáceres
 
@@ -82,7 +81,7 @@ con la cocina vanguardista. Su saber culinario nos llega al paladar a través de
 tan emblemáticos como el Gazpacho de cerezas y helado de Torta; Solomillo de cerdo 
 relleno de trigueros y Torta; y su peculiar Cheescake ¡de torta! Memorable. 
 
-{{< reflink path=posts/2019/10/donde-comer-que-ver-hacer-viaje-norte-de-extremadura >}}
+[![claudio vidal, chef caceres](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-Claudio-Vidal-chef-de-Casa-Claudio.jpg "Chef Claudio Vidal, de Casa Vidal.")]({{% ref donde-comer-que-ver-hacer-viaje-norte-de-extremadura %}})
 
 > Se cumple este año el vigésimo aniversario de la DOP de la Torta del Casar, un buen 
 > momento para reconocer la creatividad de algunos cocineros extremeños que no paran de 
@@ -95,7 +94,7 @@ capital de los tres valles del norte extremeño: Ambroz, Jerte y La Vera. Recome
 pasar por lo menos una noche entre sus murallas. Su edificio más destacado es la 
 **Catedral** que, en realidad, son dos: la nueva y la vieja. 
 
-{{< reflink path=posts/2019/10/donde-comer-que-ver-hacer-viaje-norte-de-extremadura >}}
+[![plasencia, ruta en caceres](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-Plasencia.jpg "Plasencia")]({{% ref donde-comer-que-ver-hacer-viaje-norte-de-extremadura %}})
 
 Al salir del templo puedes ver la portada románica –única– de la **iglesia de San 
 Nicolás**, que casi está enfrente; y detrás se abre una pequeña plaza donde se ubica la 
@@ -124,7 +123,7 @@ multipremiado Martín Berasategui) y decidió volver al pueblo de su infancia.
 > En 2021, Versátil ha conseguido su primera estrella Michelin. No nos cabe duda, de que 
 > será la primera de alguna que otra más. 
 
-{{< reflink path=posts/2019/10/donde-comer-que-ver-hacer-viaje-norte-de-extremadura >}}
+[![restaurante versatil, donde comer en granadilla](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-restaurante-Versatil-en-Zarza-de-Granadilla.jpg "Álex (en la cocina), David (en la bodega) y José (en la sala), del restaurante Versátil. © P. Grifol")]({{% ref donde-comer-que-ver-hacer-viaje-norte-de-extremadura %}})
 
 La ilusión y el cariño depositado en el proyecto se palpan nada más cruzar el umbral del 
 restaurante. El espacio, equipado de mesas con la altura perfecta, sillas con 
@@ -134,7 +133,7 @@ sale por 52 euros (más maridaje con cinco vinos por 27 euros más). Sus platos 
 impecables y con una increíble materia prima. Pregunta por aquellos platos que incluyen 
 Torta del Casar. 
 
-{{< reflink path=posts/2019/10/donde-comer-que-ver-hacer-viaje-norte-de-extremadura >}}
+[![villa de granadilla, viaje caceres](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-Villa-de-Granadilla.jpg "Villa de Granadilla.")]({{% ref donde-comer-que-ver-hacer-viaje-norte-de-extremadura %}})
 
 > No te pierdas la visita a Granadilla, un verdadero ‘pueblo fantasma’ en el valle del 
 > Ambroz 
@@ -147,7 +146,7 @@ granada’ " (según explica la wiki). Sin embargo, una vez que fue reconquistad
 Granada andaluza, a la extremeña se le cambió el nombre por el topónimo Granadilla para 
 evitar confusiones. 
 
-{{< reflink path=posts/2019/10/donde-comer-que-ver-hacer-viaje-norte-de-extremadura >}}
+[![granadina caceres](https://fotos.etheriamagazine.com/2019/09/viaje-pueblo-fantasma-Villa-de-Granadilla.jpg "Villa de Granadilla")]({{% ref donde-comer-que-ver-hacer-viaje-norte-de-extremadura %}})
 
 ### Un pueblo inundable en 1955...
 
@@ -189,9 +188,8 @@ Extremadura](http://www.turismoextremadura.com).
 
 ### También te puede interesar...
 
-{{< reflink 
-path=posts/2020/05/escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica >}}. 
+{{< reflink escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica >}}. 
 
-{{< reflink path=posts/2021/09/10-motivos-para-viajar-a-la-siberia-extremena >}}. 
+{{< reflink 10-motivos-para-viajar-a-la-siberia-extremena >}}. 
 
-{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}.
+{{< reflink plan-con-amigas-ruta-del-vino-sierra-de-francia >}}.

@@ -136,6 +136,6 @@ cómoda de algodón y alguna prenda de manga larga para las noches.
 
 **También en Etheria Magazine:** 
 
-{{< reflink path=posts/2023/10/como-organizar-viaje-a-bali >}} 
+{{< reflink como-organizar-viaje-a-bali >}} 
 
-{{< reflink path=posts/2023/07/fotos-bali-instagram-tiktok >}}
+{{< reflink fotos-bali-instagram-tiktok >}}

@@ -104,8 +104,8 @@ gestionar esto mejor en el futuro? Espero que sí.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2025/02/viajar-sola-a-bali-consejos-sania-jelic >}} 
+{{< reflink viajar-sola-a-bali-consejos-sania-jelic >}} 
 
-{{< reflink path=posts/2025/01/viajar-sola-a-taiwan-consejos-sania-jelic >}} 
+{{< reflink viajar-sola-a-taiwan-consejos-sania-jelic >}} 
 
-{{< reflink path=posts/2025/01/consejos-practicos-sania-jelic-viajar-sola-a-japon >}}
+{{< reflink consejos-practicos-sania-jelic-viajar-sola-a-japon >}}

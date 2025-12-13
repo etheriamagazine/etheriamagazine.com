@@ -155,8 +155,8 @@ propuestas.
 La fórmula es tan sencilla como brillante. Tan solo tendréis que llevar calzado cómodo y 
 seguir la línea verde para disfrutar de un viaje extraordinario. 
 
-📍No te pierdas: {{< reflink 
-path=posts/2019/08/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa >}}. 
+📍No te pierdas: [Nantes con amigas, descubrid la ciudad extraordinaria que soñó Julio 
+Verne]({{% ref que-ver-hacer-en-nantes-la-ciudad-francesa-creativa %}}). 
 
 ![La escultura del artista conceptual Xu Zhen, European Thousand-Arms Classical Sculpture, es una de las más fotografiadas.](https://fotos.etheriamagazine.com/2023/07/escultura-Xu-Zhen.jpg "La escultura del artista conceptual Xu Zhen, European Thousand-Arms Classical Sculpture, es una de las más fotografiadas de Nantes. © Yolanda Cardo")
 
@@ -292,7 +292,8 @@ salida.
 Si os gusta la decoración, en el centro de Nantes se ubica uno de los tres hoteles que 
 **Maisons du Monde** tiene en Francia (nantes.maisonsdumondehotel.com). 
 
-📍No te pierdas: {{< reflink path=posts/2022/10/hoteles-originales-nantes >}}. 
+📍No te pierdas: [Hoteles originales en Nantes, duerme dentro de una obra de arte]({{% 
+ref hoteles-originales-nantes %}}). 
 
 ### Dónde comer
 

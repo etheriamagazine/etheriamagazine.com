@@ -158,9 +158,8 @@ medioambiental como en la salud.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/05/menstruacion-tabu-estigma-para-ninas-mundo >}}. 
+{{< reflink menstruacion-tabu-estigma-para-ninas-mundo >}}. 
 
-{{< reflink path=posts/2021/03/que-es-endometriosis-sintomas-y-cuidados >}}. 
+{{< reflink que-es-endometriosis-sintomas-y-cuidados >}}. 
 
-{{< reflink 
-path=posts/2020/11/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}}
+{{< reflink personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}}

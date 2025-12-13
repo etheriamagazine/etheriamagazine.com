@@ -93,4 +93,4 @@ velocidad, sólo de gozo!
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/11/tren-de-flam-y-fiordos-noruega >}}.
+{{< reflink tren-de-flam-y-fiordos-noruega >}}.

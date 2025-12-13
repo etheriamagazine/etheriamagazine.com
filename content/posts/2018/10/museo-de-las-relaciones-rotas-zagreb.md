@@ -86,6 +86,6 @@ Consultar en su web los días festivos que cierra.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/04/que-ver-hacer-en-2-3-dias-zagreb-croacia >}} 
+{{< reflink que-ver-hacer-en-2-3-dias-zagreb-croacia >}} 
 
-{{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}}
+{{< reflink viaje-a-croacia-como-organizar-que-ver-hacer >}}

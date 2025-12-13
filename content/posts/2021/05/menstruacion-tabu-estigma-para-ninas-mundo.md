@@ -141,9 +141,8 @@ menstruación es una cuestión de derechos humanos.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/03/que-es-endometriosis-sintomas-y-cuidados >}}. 
+{{< reflink que-es-endometriosis-sintomas-y-cuidados >}}. 
 
-{{< reflink 
-path=posts/2020/11/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}} 
+{{< reflink personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}} 
 
-{{< reflink path=posts/2021/02/beneficios-del-ayuno-intermitente-para-la-salud >}}.
+{{< reflink beneficios-del-ayuno-intermitente-para-la-salud >}}.

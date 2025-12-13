@@ -111,6 +111,8 @@ viernes, de 19 a 21; sábados, de 12 a 14 y de 18 a 21; domingos, de 12 a 14.
 
 #### También te puede interesar
 
-- {{< reflink path=posts/2020/05/15-escapadas-a-menos-de-99-km-de-madrid >}} 
+- [15 escapadas a menos de 99 kilómetros de Madrid.]({{% ref 
+15-escapadas-a-menos-de-99-km-de-madrid %}}) 
 
-- {{< reflink path=posts/2020/11/comer-en-toledo-mejores-restaurantes-bares-tapas >}}.
+- [10 grandes restaurantes para saborear lo mejor de Toledo]({{% ref 
+comer-en-toledo-mejores-restaurantes-bares-tapas %}}).

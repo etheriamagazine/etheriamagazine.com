@@ -116,10 +116,10 @@ Fotografías © Barceló Hotel Group
 📌 **También te puede interesar:** 
 
 [Qué ver en Riviera 
-Nayarit]({{% ref viaje-con-amigas-mexico-que-ver-en-riviera-nayarit %}}) 
+Nayarit](http://etheriamagazine.com/2020/02/21/viaje-con-amigas-mexico-que-ver-en-riviera-nayarit/) 
 
 [Un viaje con amigas a 
-Tulum]({{% ref viaje-con-amigas-que-ver-tulum-mexico %}}) 
+Tulum](http://etheriamagazine.com/2019/06/19/viaje-con-amigas-que-ver-tulum-mexico/) 
 
 [3 islas de Yucatán que no debes perderte: Cozumel, Holbox e Isla 
-Mujeres]({{% ref que-ver-en-las-islas-de-yucatan-mexico %}})
+Mujeres](http://etheriamagazine.com/2018/12/25/que-ver-en-las-islas-de-yucatan-mexico/)

@@ -55,8 +55,8 @@ que seguro que te pasa, no dejes de seguir este ritual.
 
 ![Niña con il porcellino en Florencia](https://fotos.etheriamagazine.com/2018/05/3-FLORENCIA-CON-NINOS-PORCELLINO.jpg "Hay que seguir la tradición de tocar la 'porcellino'. © SG")
 
-📌 Te vamos ya dando las pistas en el reportaje {{< reflink 
-path=posts/2018/09/15-ideas-para-disfrutar-de-florencia-por-segunda-vez >}}. 
+📌 Te vamos ya dando las pistas en el reportaje [15 ideas para disfrutar Florencia una 
+segunda vez]({{% ref 15-ideas-para-disfrutar-de-florencia-por-segunda-vez %}}). 
 
 ## 4\. Comer (y hacer) helados
 
@@ -135,8 +135,8 @@ Más información: [Turismo oficial de Florencia](https://www.feelflorence.it/).
 
 📌 **Más artículos sobre Florencia:** 
 
-{{< reflink path=posts/2018/05/48-horas-en-florencia-fin-de-semana-que-ver-hacer >}} 
+{{< reflink 48-horas-en-florencia-fin-de-semana-que-ver-hacer >}} 
 
-{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}} 
+{{< reflink paseos-por-los-jardines-mas-bellos-de-florencia >}} 
 
-{{< reflink path=posts/2021/06/toscana-en-coche >}}
+{{< reflink toscana-en-coche >}}

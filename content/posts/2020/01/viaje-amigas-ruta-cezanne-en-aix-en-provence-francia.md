@@ -206,6 +206,6 @@ muchas charlas con su gran amigo Émile Zola.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/09/mejores-destinos-para-viajar-en-francia >}}. 
+{{< reflink mejores-destinos-para-viajar-en-francia >}}. 
 
-{{< reflink path=posts/2020/03/10-viajes-con-amigas-por-europa >}}.
+{{< reflink 10-viajes-con-amigas-por-europa >}}.

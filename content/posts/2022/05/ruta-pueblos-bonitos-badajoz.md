@@ -354,4 +354,4 @@ Si buscáis alojamiento en Fregenal de la Sierra os puede interesar el **Hotel C
 
 ### También en Badajoz...
 
-{{< reflink path=posts/2021/09/10-motivos-para-viajar-a-la-siberia-extremena >}}.
+{{< reflink 10-motivos-para-viajar-a-la-siberia-extremena >}}.

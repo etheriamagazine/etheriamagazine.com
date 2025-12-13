@@ -325,8 +325,8 @@ del despilfarro y más vinculada a conceptos como la salud y la ecología.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2022/10/que-ver-en-getxo >}}. 
+{{< reflink que-ver-en-getxo >}}. 
 
-{{< reflink path=posts/2022/07/que-ver-getxo-visitas-marineras >}}. 
+{{< reflink que-ver-getxo-visitas-marineras >}}. 
 
-{{< reflink path=posts/2022/08/como-ser-sostenible-en-getxo >}}.
+{{< reflink como-ser-sostenible-en-getxo >}}.

@@ -101,8 +101,9 @@ Fotografías cedidas por © Decathlon.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}} 
+{{< reflink 10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}} 
 
-{{< reflink path=posts/2025/04/gadgets-vuelo-largo >}} 
+{{< reflink gadgets-vuelo-largo >}} 
 
-{{< reflink path=posts/2024/01/perfumes-para-viajar >}}
+[Fragancias para mujeres viajeras, cómo elegir el perfume perfecto]({{% ref 
+perfumes-para-viajar %}})

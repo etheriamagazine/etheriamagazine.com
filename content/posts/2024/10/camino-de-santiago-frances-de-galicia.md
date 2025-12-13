@@ -85,8 +85,8 @@ Para preparar tu viaje no dejes de consultar la web
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2021/03/5-peliculas-del-camino-de-santiago >}}. 
+{{< reflink 5-peliculas-del-camino-de-santiago >}}. 
 
-{{< reflink path=posts/2019/05/etapas-que-ver-camino-de-santiago-en-la-rioja >}}. 
+{{< reflink etapas-que-ver-camino-de-santiago-en-la-rioja >}}. 
 
-{{< reflink path=posts/2021/07/camino-de-santiago-ria-de-muros-noia-en-velero >}}.
+{{< reflink camino-de-santiago-ria-de-muros-noia-en-velero >}}.

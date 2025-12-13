@@ -64,23 +64,23 @@ Depende del tiempo y del aeropuerto. Hoy en día hay algunos que parecen centros
 
 7\. ¿Cuál ha sido el mejor viaje de tu vida hasta el momento? ¿Por qué? 
 
-Es difícil escoger el mejor viaje, porque hay muchos que han sido maravillosos y por razones muy diferentes. Si me tengo que quedar con un destino en conjunto creo que sería {{< reflink path=posts/2019/01/viajar-con-amigas-a-cuba >}}, país al que ya he ido cuatro veces, la primera de ellas por trabajo en el año 1999 y que, realmente, me marcó. Siempre me ha cautivado la alegría y simpatía de la gente, la música que te envuelve desde cada rincón, la belleza de sus playas y paisajes y el encanto de sus ciudades y pueblos.
+Es difícil escoger el mejor viaje, porque hay muchos que han sido maravillosos y por razones muy diferentes. Si me tengo que quedar con un destino en conjunto creo que sería [Cuba]({{% ref viajar-con-amigas-a-cuba %}}), país al que ya he ido cuatro veces, la primera de ellas por trabajo en el año 1999 y que, realmente, me marcó. Siempre me ha cautivado la alegría y simpatía de la gente, la música que te envuelve desde cada rincón, la belleza de sus playas y paisajes y el encanto de sus ciudades y pueblos.
 
 > "Con todas sus contradicciones, Cuba me parece un país fascinante" 
 
 8\. ¿Y tu último viaje? ¿Qué es lo que más y lo que menos te ha gustado de ese destino? 
 
-Mi último viaje fue a la {{< reflink path=posts/2019/03/viajes-mujeres-mejores-planes-en-mauricio >}}. Lo que más me gustó fueron, sobre todo, las playas. Darse un baño es esas aguas cristalinas y turquesas es para mí de lo más parecido al bienestar total que se puede experimentar. También me sorprendió gratamente ver que es un país donde hay una gran clase media que vive y disfruta sus playas y parajes naturales, ya que desgraciadamente en estos paraísos tropicales a menudo se ve también mucha miseria y enormes desigualdades. Lo que me gustó menos fueron ciertos insectos que son habituales en este tipo de climas y con los que yo me llevo especialmente mal (para esto no soy tan aventurera).
+Mi último viaje fue a la [Isla Mauricio]({{% ref viajes-mujeres-mejores-planes-en-mauricio %}}). Lo que más me gustó fueron, sobre todo, las playas. Darse un baño es esas aguas cristalinas y turquesas es para mí de lo más parecido al bienestar total que se puede experimentar. También me sorprendió gratamente ver que es un país donde hay una gran clase media que vive y disfruta sus playas y parajes naturales, ya que desgraciadamente en estos paraísos tropicales a menudo se ve también mucha miseria y enormes desigualdades. Lo que me gustó menos fueron ciertos insectos que son habituales en este tipo de climas y con los que yo me llevo especialmente mal (para esto no soy tan aventurera).
 
 9\. ¿Qué tres viajes que hayas realizado recomendarías especialmente a una viajera? 
 
-Sin irnos muy lejos yo no perdonaría {{< reflink path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}} ni, por supuesto, **La Habana**, que curiosamente son dos ciudades que guardan grandes similitudes. Además, recomendaría México, un país enorme y muy diverso. Me encanta su cultura, sus mariachis, la simpatía de sus gentes. Es un país al que he ido también varias veces y siempre lo he pasado de maravilla. Y para quien le apasionen, como a mí, las playas, **Playa Paraíso**, en **Tulum**, es una de las más bonitas y animadas que he visitado nunca.
+Sin irnos muy lejos yo no perdonaría [Cádiz]({{% ref viajar-con-amigas-que-hacer-en-cadiz %}}) ni, por supuesto, **La Habana**, que curiosamente son dos ciudades que guardan grandes similitudes. Además, recomendaría México, un país enorme y muy diverso. Me encanta su cultura, sus mariachis, la simpatía de sus gentes. Es un país al que he ido también varias veces y siempre lo he pasado de maravilla. Y para quien le apasionen, como a mí, las playas, **Playa Paraíso**, en **Tulum**, es una de las más bonitas y animadas que he visitado nunca.
 
 \[caption id="attachment\_9982" align="aligncenter" width="900"\]![playa paraiso, viaje mexico, mujer etheria](https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-Playa-Paraiso.jpg "Playa Paraíso, en México.") Playa Paraíso, en México.\[/caption\]
 
 10\. Tres viajes pendientes… 
 
-En el sudeste asiático, **Tailandia** y **Filipinas**. También tengo pendiente aquí más cerquita {{< reflink path=posts/2018/05/fin-de-semana-romantico-en-estambul >}} (espero ir este año) y ya el gran viaje que espero hacer cuando junte suficientes días para hacerlo, la {{< reflink path=posts/2019/01/la-perla-negra-de-polinesia >}}.
+En el sudeste asiático, **Tailandia** y **Filipinas**. También tengo pendiente aquí más cerquita [Estambul]({{% ref fin-de-semana-romantico-en-estambul %}}) (espero ir este año) y ya el gran viaje que espero hacer cuando junte suficientes días para hacerlo, la [Polinesia Francesa]({{% ref la-perla-negra-de-polinesia %}}).
 
 11\. ¿Qué país te ha ganado con su gastronomía? ¿Destacarías algún plato o producto? 
 
@@ -107,4 +107,4 @@ No suelo hacer un listado, aunque luego me arrepiento de no haberlo hecho. Me cu
 
 16\. ¿Cuál ha sido el souvenir más extravagante que has comprado? 
 
-No suelo comprar muchos _souvenirs_, suelo llevar la maleta demasiado llena, aunque en mis primeros viajes a Londres me volvía loca en {{< reflink path=posts/2018/09/visitas-imprescindibles-fin-de-semana-londres >}} comprando abrigos de segunda mano de los años 70.
+No suelo comprar muchos _souvenirs_, suelo llevar la maleta demasiado llena, aunque en mis primeros viajes a Londres me volvía loca en [Candem Town]({{% ref visitas-imprescindibles-fin-de-semana-londres %}}) comprando abrigos de segunda mano de los años 70.

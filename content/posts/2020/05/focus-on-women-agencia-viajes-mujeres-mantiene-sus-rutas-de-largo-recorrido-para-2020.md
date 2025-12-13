@@ -17,12 +17,12 @@ destinos como Japón, Armenia, Vietnam, Sri Lanka, Irán y Madagascar.
 
 Focus on Women, una de las empresas pioneras en el segmento de las agencias que 
 organizan viajes en grupo para mujeres, confía en la **experiencia** adquirida en la 
-última década (celebró {{< reflink 
-path=posts/2019/11/fiesta-benefica-decimo-aniversario-focus-on-women >}} en 2019) y en 
-la **fidelidad** de las clientas para sortear las dificultades que se presentan ante la 
-alerta sanitaria mundial. 
+última década (celebró [su 10º aniversario]({{% ref 
+fiesta-benefica-decimo-aniversario-focus-on-women %}}) en 2019) y en la **fidelidad** de 
+las clientas para sortear las dificultades que se presentan ante la alerta sanitaria 
+mundial. 
 
-{{< reflink path=posts/2018/10/alice-fauveau-directora-focus-on-women-mujer-etheria >}}, 
+[Alice Fauveau]({{% ref alice-fauveau-directora-focus-on-women-mujer-etheria %}}), 
 directora de la agencia, se muestra optimista y señala que “el equipo sigue trabajando 
 todos los días –y mucho–, ya que estamos aprovechando para mejorar nuestra productividad 
 ahora que tenemos tiempo”. Su producto más ambicioso, la '**Vuelta al mundo con Rosa 
@@ -82,10 +82,10 @@ súper especiales que hemos montado por **España**.
 
 ### 6\. ¿Y para el último trimestre del año?
 
-Mantenemos la **Vuelta al Mundo** con con nuestra famosa {{< reflink 
-path=posts/2018/09/rosa-maria-calaf-es-una-mujer-etheria >}}, las **rutas por Asia y 
-África** que teníamos previstas (Japón, Armenia, Vietnam, Sri Lanka, Irán, Madagascar) 
-ya que pensamos que la situación se estabilizará. 
+Mantenemos la **Vuelta al Mundo** con con nuestra famosa [Rosa María Calaf]({{% ref 
+rosa-maria-calaf-es-una-mujer-etheria %}}), las **rutas por Asia y África** que teníamos 
+previstas (Japón, Armenia, Vietnam, Sri Lanka, Irán, Madagascar) ya que pensamos que la 
+situación se estabilizará. 
 
 ### 7\. ¿Consideras que se modificará el perfil de vuestras viajeras?
 

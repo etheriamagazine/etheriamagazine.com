@@ -148,6 +148,6 @@ viajera puede sentirse como en casa (o incluso mejor).
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2023/11/que-comer-valle-de-aosta-italia >}}. 
+{{< reflink que-comer-valle-de-aosta-italia >}}. 
 
-{{< reflink path=posts/2022/06/viaje-con-amigas-a-bolonia >}}.
+{{< reflink viaje-con-amigas-a-bolonia >}}.

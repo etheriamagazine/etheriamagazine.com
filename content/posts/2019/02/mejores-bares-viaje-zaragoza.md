@@ -171,9 +171,8 @@ width="640" height="480"></iframe>
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2020/06/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza 
->}} 
+{{< reflink viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza >}} 
 
-{{< reflink path=posts/2021/10/ruta-en-coche-por-teruel >}} 
+{{< reflink ruta-en-coche-por-teruel >}} 
 
-{{< reflink path=posts/2019/09/viaja-sola-a-los-valles-de-la-jacetania-huesca >}}
+{{< reflink viaja-sola-a-los-valles-de-la-jacetania-huesca >}}

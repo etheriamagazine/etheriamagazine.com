@@ -198,10 +198,10 @@ y cotillón. **Dónde:** restaurante BIBO. Paseo de la Castellana, 52. **Reserva
 
 **✅ También te puede interesar:** 
 
-{{< reflink path=posts/2023/09/que-hacer-con-amigas-madrid-otono >}} 
+{{< reflink que-hacer-con-amigas-madrid-otono >}} 
 
-{{< reflink path=posts/2022/12/planes-adolescentes-madrid >}} 
+{{< reflink planes-adolescentes-madrid >}} 
 
-{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}} {{< reflink 
-path=posts/2022/05/tabernas-historicas-de-madrid >}} {{< reflink 
-path=posts/2022/05/tabernas-historicas-de-madrid >}}
+[10 tabernas históricas de]({{% ref tabernas-historicas-de-madrid %}}) [Madrid]({{% ref 
+tabernas-historicas-de-madrid %}}) [donde tomar el vermú]({{% ref 
+tabernas-historicas-de-madrid %}})

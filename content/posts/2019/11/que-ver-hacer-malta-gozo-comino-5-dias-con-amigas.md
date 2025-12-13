@@ -67,8 +67,8 @@ Otros sitios que no deberías perderte son el **palacio del Gran Maestre** o la 
 de San Jorge**. Y si te van las historias épicas, el fuerte de San Telmo, que como ya te 
 contamos, se convirtió en prisión para el rodaje de _El expreso de medianoche_. 
 
-✅ No te pierdas: {{< reflink path=posts/2019/06/viajes-cine-malta-hollywood-mediterraneo 
->}}. 
+✅ No te pierdas: [Malta, el Hollywood del Mediterráneo]({{% ref 
+viajes-cine-malta-hollywood-mediterraneo %}}). 
 
 ## Mdina, la ciudad de los nobles
 
@@ -156,6 +156,6 @@ recinto con jardines y tres salas, donde pinchan los mejores DJ´s de Malta.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/12/visitas-originales-de-arquitectura-en-menorca >}}. 
+{{< reflink visitas-originales-de-arquitectura-en-menorca >}}. 
 
-{{< reflink path=posts/2019/02/viajes-con-amigas-en-espana >}}.
+{{< reflink viajes-con-amigas-en-espana >}}.

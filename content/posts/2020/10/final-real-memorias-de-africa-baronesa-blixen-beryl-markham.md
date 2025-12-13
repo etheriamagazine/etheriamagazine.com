@@ -206,6 +206,6 @@ en Nairobi](http://www.museums.or.ke).
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/08/5-viajes-para-comenzar-a-conocer-africa >}} 
+{{< reflink 5-viajes-para-comenzar-a-conocer-africa >}} 
 
-{{< reflink path=posts/2021/07/libros-recomendados-viajes-verano-2021 >}}
+{{< reflink libros-recomendados-viajes-verano-2021 >}}

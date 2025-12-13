@@ -159,9 +159,8 @@ Más planes originales de Benidorm en su [site oficial.](https://www.visitbenido
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}}. 
+{{< reflink planes-originales-valencia-con-amigas >}}. 
 
-{{< reflink path=posts/2021/01/pescaturismo-en-castellon-plan-original-familias-amigos 
->}}. 
+{{< reflink pescaturismo-en-castellon-plan-original-familias-amigos >}}. 
 
-{{< reflink path=posts/2020/05/8-excursiones-con-ninos-en-alicante >}}.
+{{< reflink 8-excursiones-con-ninos-en-alicante >}}.

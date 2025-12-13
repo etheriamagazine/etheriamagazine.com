@@ -85,10 +85,10 @@ oscura, imprescindible para realizar la excursión nocturna.
 
 ### También te puede interesar de Costa Rica
 
-{{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}} 
+{{< reflink que-ver-peninsula-nicoya-costa-rica >}} 
 
-{{< reflink path=posts/2021/04/viaje-costa-rica-con-ninos-que-hacer-en-familia >}} 
+{{< reflink viaje-costa-rica-con-ninos-que-hacer-en-familia >}} 
 
-{{< reflink path=posts/2018/05/consejos-viaje-costa-rica-con-ninos-familias >}} 
+{{< reflink consejos-viaje-costa-rica-con-ninos-familias >}} 
 
-{{< reflink path=posts/2021/05/hotel-nayara-springs-costa-rica >}}
+{{< reflink hotel-nayara-springs-costa-rica >}}

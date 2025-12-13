@@ -57,8 +57,8 @@ En otras zonas de España también se ha comenzado a cultivar con buenos resulta
 pueden visitar otros campos en "Ossa de Montiel (Albacete), donde Francisca Muñoz heredó 
 una destilería artesanal de esencias y ahora la exporta y factura más de un millón de 
 euros al año; o en Tiedra, al sur de la Tierra de Campos, en Peñafiel, (Valladolid). 
-Pero también en {{< reflink path=posts/2024/06/lavanda-burgos >}}, Soria, La Rioja, 
-Cuenca, Lleida y en la comarca de Los Serranos, en Valencia” ([El dinero huele a 
+Pero también en [Burgos]({{% ref lavanda-burgos %}}), Soria, La Rioja, Cuenca, Lleida y 
+en la comarca de Los Serranos, en Valencia” ([El dinero huele a 
 lavanda](https://www.hoy.es/sociedad/dinero-huele-lavanda-20180107001615-ntvo.html), 
 diario Hoy). 
 
@@ -131,10 +131,9 @@ lavanda, etc.
 
 **Más visitas en Guadalajara** 
 
-{{< reflink path=posts/2020/12/que-ver-donde-comer-en-siguenza >}}. 
+{{< reflink que-ver-donde-comer-en-siguenza >}}. 
 
 {{< reflink 
-path=posts/2021/02/viaje-a-la-alcarria-seguimos-los-pasos-de-cela-75-anos-despues-de-su-publicacion 
->}}. 
+viaje-a-la-alcarria-seguimos-los-pasos-de-cela-75-anos-despues-de-su-publicacion >}}. 
 
-{{< reflink path=posts/2019/05/ruta-en-coche-pueblos-negros-guadalajara >}}.
+{{< reflink ruta-en-coche-pueblos-negros-guadalajara >}}.

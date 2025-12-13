@@ -154,7 +154,8 @@ tiempo por la elegancia de la costa vasca. La ruta se puede hacer por libre, ya 
 vivienda cuenta con un panel donde se narran sus rasgos principales en euskera, español 
 e inglés. En algunas observaréis un código QR porque forma parte de la ruta "deapie". 
 Como introducción previa a este paseo os recomendamos leer un poco sobre su historia en 
-este artículo: {{< reflink path=posts/2023/11/grandes-villas-mansiones-getxo >}}. 
+este artículo: [Un paseo por las grandes mansiones de la Belle Époque de Getxo]({{% ref 
+grandes-villas-mansiones-getxo %}}). 
 
 Aunque hay planes que podéis hacer por libre, la mayoría de las actividades son 
 organizadas por empresas locales que estarán encantadas de mostraros los atractivos de 

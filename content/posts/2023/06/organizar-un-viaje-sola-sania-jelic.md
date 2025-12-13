@@ -127,8 +127,8 @@ comprando tarjetas SIM** por el camino e instalarlas (ese móvil secundario se u
 datos y navegación, llamadas locales y como _hotspot_ para el móvil principal); o 
 recurrir a una **tarjeta digital, e-SIM**, que se instala en el móvil habitual. Una vez 
 instalada, se elige uno de los planes de datos disponibles para el país que se vaya a 
-visitar. Actualmente las más populares son Airalo y {{< reflink 
-path=posts/2022/06/holafly-viaje-espana >}}. 
+visitar. Actualmente las más populares son Airalo y [Holafly]({{% ref 
+holafly-viaje-espana %}}). 
 
 ![mujer con móvil](https://fotos.etheriamagazine.com/2023/06/sania-viajar-sola-mapas.jpg "Hay que llevar descargados los mapas de los lugares que se van a recorrer.")
 
@@ -281,8 +281,9 @@ este viaje a América Latina y ¡hasta la próxima aventura! En unos meses, Áfr
 📌 **Puedes ver en Etheria Magazine las diferentes etapas del viaje de Sania Jelic. 
 Algunas son:** 
 
-{{< reflink path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}} 
+{{< reflink sania-jelic-viajar-sola-mas-65 >}} 
 
-{{< reflink path=posts/2022/12/sania-jelic-amazonas >}} 
+{{< reflink sania-jelic-amazonas >}} 
 
-{{< reflink path=posts/2023/04/como-viajar-islas-galapagos >}}
+[Islas Galápagos, consejos de Sania para visitar el paraíso perdido]({{% ref 
+como-viajar-islas-galapagos %}})

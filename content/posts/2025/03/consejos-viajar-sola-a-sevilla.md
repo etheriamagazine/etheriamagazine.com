@@ -171,8 +171,8 @@ caminando hasta el hotel, la mejor opción es siempre pedir un taxi.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/09/10-mejores-planes-en-sevilla-con-amigas-o-pareja >}} 
+{{< reflink 10-mejores-planes-en-sevilla-con-amigas-o-pareja >}} 
 
-{{< reflink path=posts/2023/09/tapeo-barrio-santa-cruz-sevilla >}} 
+{{< reflink tapeo-barrio-santa-cruz-sevilla >}} 
 
-{{< reflink path=posts/2019/02/viajar-con-amigas-sevilla >}}
+{{< reflink viajar-con-amigas-sevilla >}}

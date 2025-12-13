@@ -65,7 +65,7 @@ Con el **Duty free, la lectura y con el teléfono**, para ser honesta. Todo depe
 
 7\. ¿Cuál ha sido el mejor viaje de tu vida hasta el momento? ¿Por qué? 
 
-He viajado muchísimo, pero, sin lugar a dudas, elegiría {{< reflink path=posts/2019/10/viaje-con-amigas-tailandia-donde-comer-bangkok >}}. Estuve casi un mes y me sorprendió la diversidad cultural y la gran oferta de experiencias que podías encontrar en el país. Muy completo. Es además **un destino con un enfoque muy profesional** y con una oferta de alojamiento adaptada a todos los gustos y bolsillos, en el que el personal que atiende al visitante sabe que debe dejar una huella positiva.
+He viajado muchísimo, pero, sin lugar a dudas, elegiría [Tailandia]({{% ref viaje-con-amigas-tailandia-donde-comer-bangkok %}}). Estuve casi un mes y me sorprendió la diversidad cultural y la gran oferta de experiencias que podías encontrar en el país. Muy completo. Es además **un destino con un enfoque muy profesional** y con una oferta de alojamiento adaptada a todos los gustos y bolsillos, en el que el personal que atiende al visitante sabe que debe dejar una huella positiva.
 
 8\. ¿Y tu último viaje?¿Qué es lo que más y lo que menos te ha gustado de ese destino? 
 
@@ -77,11 +77,11 @@ Quizás lo menos que gustó, precisamente, fue que aunque cuentan con instalacio
 
 9\. ¿Qué tres viajes que hayas realizado recomendarías especialmente a una viajera? 
 
-Si es española, y ya conoce bien el país, recomendaría tres destinos extranjeros: {{< reflink path=posts/2019/11/mujeres-que-viajan-solas-amigas-peru >}} (Machu Picchu), Tailandia (Asia en general es una maravilla) y, por supuesto, {{< reflink path=posts/2019/07/que-ver-buenos-aires-belle-epoque-viajar-sola >}}.
+Si es española, y ya conoce bien el país, recomendaría tres destinos extranjeros: [Perú]({{% ref mujeres-que-viajan-solas-amigas-peru %}}) (Machu Picchu), Tailandia (Asia en general es una maravilla) y, por supuesto, [Argentina]({{% ref que-ver-buenos-aires-belle-epoque-viajar-sola %}}).
 
 10\. Tres viajes pendientes… 
 
-Mis destinos pendientes ahora están todos en Asia, que es un continente que quiero conocer en profundidad. {{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}}, Singapur y Nepal están en mi agenda.
+Mis destinos pendientes ahora están todos en Asia, que es un continente que quiero conocer en profundidad. [Japón]({{% ref como-organizar-un-viaje-a-japon %}}), Singapur y Nepal están en mi agenda.
 
 \[caption id="attachment\_5019" align="aligncenter" width="900"\]![](https://fotos.etheriamagazine.com/2018/11/Patan-viaje-mujeres-nepal.jpg) Patán (Nepal).\[/caption\]
 

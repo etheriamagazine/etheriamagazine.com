@@ -42,8 +42,8 @@ salir hacia el archipiélago. Se debe adjuntar el resultado a la Declaración sa
 del viajero y enviar el formulario 24 horas antes de la llegada. Consulta también otros 
 protocolos sanitarios y de seguridad. 
 
-Sigue leyendo Actividades para tu {{< reflink 
-path=posts/2021/03/guia-que-hacer-en-maldivas-buceo-surf >}}. 
+Sigue leyendo Actividades para tu [viaje a Maldivas, más que un destino de lunas de 
+miel]({{% ref guia-que-hacer-en-maldivas-buceo-surf %}}). 
 
 ![seychelles paises sin cuarentena desde espana](https://fotos.etheriamagazine.com/2021/04/sechelles-destino-sin-cuarentena.jpg "La Digue, en Seychelles. © Alessandro Russo")
 
@@ -56,8 +56,8 @@ estancia de máximo tres meses. Para obtenerlo, deberán tener un billete de ida
 dinero suficiente para la manutención —según IATA, un mínimo de 150 dólares al día— y un 
 comprobante de alojamiento. 
 
-Sigue leyendo {{< reflink 
-path=posts/2020/11/islas-seychelles-un-viaje-de-lujo-al-paraiso >}}. 
+Sigue leyendo [cómo organizar un viaje a Seychelles]({{% ref 
+islas-seychelles-un-viaje-de-lujo-al-paraiso %}}). 
 
 ![tren de sri lanka paises sin cuarenta desde espana](https://fotos.etheriamagazine.com/2021/04/tren-azul-sri-lanka.jpg "Famoso tren del té en Sri Lanka. © Gemma Fjam")
 
@@ -70,7 +70,8 @@ llevar contigo una **prueba de PCR negativa** (en inglés e impresa) tomada como
 con certificado de vacunación de la COVID-19. También es necesario presentar un 
 "Formulario de declaración de salud" completo a la llegada. 
 
-Sigue leyendo sobre {{< reflink path=posts/2019/02/sri-lanka-para-mujeres-viajeras >}}. 
+Sigue leyendo sobre [las maravillas de Sri Lanka]({{% ref 
+sri-lanka-para-mujeres-viajeras %}}). 
 
 ![submarinismo en barbados viajes sin cuarentena desde espana](https://fotos.etheriamagazine.com/2021/04/barbados-submarinismo.jpg "Submarinismo en Barbados. © Cédric Frixon")
 
@@ -91,7 +92,7 @@ llegada, que debe subirse a la aplicación Bahamas Travel Health Visa (Solicitud
 sanitaria de viaje), y presentarla al llegar. La tarifa de la solicitud incluye el 
 seguro de viaje para COVID-19. 
 
-Sigue leyendo sobre {{< reflink path=posts/2018/08/viajar-sola-a-islas-bahamas >}}. 
+Sigue leyendo sobre [Qué ver en Bahamas]({{% ref viajar-sola-a-islas-bahamas %}}). 
 
 ![burj khalifa en dubai](https://fotos.etheriamagazine.com/2021/04/viaje-dubai-desde-espana.jpg "Burj Khalifa, en Dubái. © Toa Heftiba")
 
@@ -105,7 +106,8 @@ PCR negativa tomada como máximo 72 horas antes de la salida del último vuelo d
 los Emiratos. En Abu Dhabi o Sharjah, deberán presentar también una prueba **PCR 
 negativa** tomada en este caso como máximo 96 horas antes. 
 
-Consulta las {{< reflink path=posts/2019/05/como-aprovechar-una-escala-en-dubai >}}. 
+Consulta las [visitas imprescindibles de Dubái]({{% ref 
+como-aprovechar-una-escala-en-dubai %}}). 
 
 ![resort de lujo en jamaica verano 2021](https://fotos.etheriamagazine.com/2021/04/jamaica-viaje-verano-2021.jpg "Resort de lujo en Jamaica. © Obi Onyeador")
 
@@ -126,8 +128,8 @@ llegada. Si has estado en Reino Unido durante las dos semanas previas y llegas s
 negativa, emitida como máximo 72 horas antes de la salida, se te hará una prueba a la 
 llegada con cuarentena de siete días. 
 
-Sigue leyendo "{{< reflink 
-path=posts/2018/05/10-razones-para-visitar-punta-cana-republica-dominicana >}}". 
+Sigue leyendo "[10 razones para República Dominicana]({{% ref 
+10-razones-para-visitar-punta-cana-republica-dominicana %}})". 
 
 ![mexico paises sin cuarentena desde España](https://fotos.etheriamagazine.com/2021/04/viaje-mexico-desde-espana.jpg "Santuario de la Virgen de los Remedios, en San Pedro Cholula, México. © Pedro Lastra")
 
@@ -148,8 +150,8 @@ Pase de salud antes de viajar a Costa Rica. También deben tener un seguro de vi
 cubra los gastos relacionados con la COVID-19, como alojamiento durante la cuarentena y 
 costes médicos. 
 
-Sigue leyendo: {{< reflink 
-path=posts/2021/04/viaje-costa-rica-con-ninos-que-hacer-en-familia >}}. 
+Sigue leyendo: [Qué ver en Costa Rica en un viaje en familia]({{% ref 
+viaje-costa-rica-con-ninos-que-hacer-en-familia %}}). 
 
 ![tailandia viajar desde espana 2021](https://fotos.etheriamagazine.com/2021/04/phi-phi-islands-phuket.jpg "Phi Phi Islands, en la provincia de Phuket (Tailandia). © Deepain Jindal")
 
@@ -163,5 +165,5 @@ otros documentos, como un resultado negativo de la prueba COVID-19 RT-PCR emitid
 máximo 72 horas antes de la salida del primer vuelo y un Certificado de Entrada (COE) 
 emitido por la Embajada Real de Tailandia. 
 
-Sigue leyendo: {{< reflink 
-path=posts/2019/06/que-ver-en-phuket-tailandia-sola-o-con-amigas >}}.
+Sigue leyendo: [Verano ‘tai’ en Phuket con amigas o con quien quieras]({{% ref 
+que-ver-en-phuket-tailandia-sola-o-con-amigas %}}).

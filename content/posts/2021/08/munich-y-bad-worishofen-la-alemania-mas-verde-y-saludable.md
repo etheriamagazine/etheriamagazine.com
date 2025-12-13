@@ -228,8 +228,9 @@ Más información en [Turismo de Alemania](https://www.germany.travel/en/home.ht
 
 ### También te puede interesar
 
-{{< reflink path=posts/2020/02/que-ver-hacer-fin-de-semana-hamburgo-alemania >}}. 
+{{< reflink que-ver-hacer-fin-de-semana-hamburgo-alemania >}}. 
 
-{{< reflink path=posts/2020/06/que-ver-hacer-en-heidelberg-si-viajas-sola-amigas >}}{{< 
-reflink path=posts/2020/06/que-ver-hacer-en-heidelberg-si-viajas-sola-amigas >}}{{< 
-reflink path=posts/2020/06/que-ver-hacer-en-heidelberg-si-viajas-sola-amigas >}}.
+[10 planes para hacer sola o con amigas en Heid]({{% ref 
+que-ver-hacer-en-heidelberg-si-viajas-sola-amigas %}})[e]({{% ref 
+que-ver-hacer-en-heidelberg-si-viajas-sola-amigas %}})[lberg]({{% ref 
+que-ver-hacer-en-heidelberg-si-viajas-sola-amigas %}}).

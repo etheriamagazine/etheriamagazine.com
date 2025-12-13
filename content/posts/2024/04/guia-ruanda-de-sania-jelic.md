@@ -218,6 +218,7 @@ mucho.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2024/01/consejos-viajar-sola-por-africa >}} 
+{{< reflink consejos-viajar-sola-por-africa >}} 
 
-{{< reflink path=posts/2024/03/viajar-sola-zanzibar >}}
+[Consejos básicos de Sania Jelic si viajas sola a Zanzíbar]({{% ref viajar-sola-zanzibar 
+%}})

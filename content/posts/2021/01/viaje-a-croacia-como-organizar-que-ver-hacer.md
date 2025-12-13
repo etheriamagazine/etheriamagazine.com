@@ -69,12 +69,11 @@ Te damos unas breves pistas de por qué estos lugares merecen estar en tu ruta:
 
 En ocasiones las capitales interiores de países volcados hacia el mar pueden pasar por 
 menos interesantes a nivel turístico. Pero Zagreb está llena de encantos, y así os lo 
-contábamos en el reportaje {{< reflink 
-path=posts/2020/04/que-ver-hacer-en-2-3-dias-zagreb-croacia >}}. Una ciudad con una 
-curiosa mezcla de ciudad centroeuropea y espíritu mediterráneo, repleta de lugares 
-históricos, terrazas, coloridos mercados, zonas verdes… Algunas de sus visitas 
-imprescindibles son el mercado de Dolac, la catedral de San Esteban, la torre de 
-Lotrscak y la iglesia de San Marcos. 
+contábamos en el reportaje [48 horas en Zagreb]({{% ref 
+que-ver-hacer-en-2-3-dias-zagreb-croacia %}}). Una ciudad con una curiosa mezcla de 
+ciudad centroeuropea y espíritu mediterráneo, repleta de lugares históricos, terrazas, 
+coloridos mercados, zonas verdes… Algunas de sus visitas imprescindibles son el mercado 
+de Dolac, la catedral de San Esteban, la torre de Lotrscak y la iglesia de San Marcos. 
 
 ### Istria
 
@@ -101,8 +100,8 @@ Es, junto con Dubrovnik, el lugar más visitado de Croacia ya que su posición e
 centro del país hace que sea parada obligada en cualquier ruta. Ofrece un paisaje mágico 
 en el que sus dieciséis lagos forman un sistema de cascadas vertiendo el agua de unos a 
 otros. El parque se puede visitar con unas cómodas pasarelas. Toda la información la 
-puedes consultar en el artículo {{< reflink 
-path=posts/2018/10/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia >}}. 
+puedes consultar en el artículo [10 razones para visitar el P.N. de los Lagos de 
+Plitvice]({{% ref 10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia %}}). 
 
 ![Parques nacionales de Croacia](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-plitvice.jpg "Parque Nacional de los Lagos de Plitvice. © Mike Swigunski")
 
@@ -112,16 +111,16 @@ Zadar es conocida como la ciudad de la cultura en Croacia por su activa programa
 exposiciones, festivales y conciertos, además de por sus interesantes museos. Destacan 
 sus iglesias medievales y sus palacios del siglo XIX, pero el rincón de la ciudad que no 
 puedes perderte es el Órgano de Mar, situado en su Paseo Marítimo. Si quieres conocer 
-todos sus secretos, no te pierdas nuestro reportaje {{< reflink 
-path=posts/2019/06/48-horas-en-zadar-una-escapada-low-cost >}}. 
+todos sus secretos, no te pierdas nuestro reportaje [48 horas en Zadar]({{% ref 
+48-horas-en-zadar-una-escapada-low-cost %}}). 
 
 ### Sibenik
 
 Sibenik es famosa por su impresionante catedral del siglo XVI, pero tiene otros muchos 
-lugares que merecen una visita y que ya os contábamos en nuestro artículo {{< reflink 
-path=posts/2020/08/que-ver-hacer-sibenik-parque-krka >}}. Además, ofrece dos 
-interesantes excursiones: la bella localidad de **Primosten** y el **Parque Nacional de 
-Krka**. 
+lugares que merecen una visita y que ya os contábamos en nuestro artículo [8 razones 
+justificadas para visitar Sibenik]({{% ref que-ver-hacer-sibenik-parque-krka %}}). 
+Además, ofrece dos interesantes excursiones: la bella localidad de **Primosten** y el 
+**Parque Nacional de Krka**. 
 
 ![cruceros en Croacia](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-sibenik.jpg "Sibenik desde el mar. © Sergii Gulenok")
 

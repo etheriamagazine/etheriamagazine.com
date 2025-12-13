@@ -93,6 +93,6 @@ asociaciones de mujeres es una tendencia que esperamos siga creciendo año tras 
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2022/03/ayuda-mujeres-emprendedoras-turismo >}} 
+{{< reflink ayuda-mujeres-emprendedoras-turismo >}} 
 
-{{< reflink path=posts/2023/03/mujeres-etheria-2023 >}}.
+{{< reflink mujeres-etheria-2023 >}}.

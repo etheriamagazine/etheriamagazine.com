@@ -10,7 +10,7 @@ authors:
   - Susana García
 ---
 
-Los pueblos blancos de Cádiz son una fuente de excursiones en cualquier época del año y Setenil de las Bodegas es uno de los imprescindibles. Te damos las claves para organizar una excursión a Setenil de las Bodegas y los rincones que no puedes perderte.
+[](https://etheriamagazine.com/wp-admin/edit.php?post_type=post)Los pueblos blancos de Cádiz son una fuente de excursiones en cualquier época del año y Setenil de las Bodegas es uno de los imprescindibles. Te damos las claves para organizar una excursión a Setenil de las Bodegas y los rincones que no puedes perderte.
 
 ![Letras de Setenil de las Bodegas con la iglesia de la Encarnación al fondo](https://fotos.etheriamagazine.com/2022/07/setenil-letras-mirador-carmen.jpg "Mirador del Carmen. © Susana García/Etheria Magazine")
 
@@ -26,7 +26,8 @@ Así que coge tu cámara o el móvil y un buen calzado (el pueblo es una cuesta 
 y prepárate para pasear por Setenil de las Bodegas, te dejamos 10 de los rincones que no 
 puedes perderte. 
 
-✅ **NO PIERDAS:** {{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}} 
+✅ **NO PIERDAS:** [La mejor guía de CÁDIZ PROVINCIA para organizar tu viaje: pueblos y 
+visitas de interés (con mapa incluido).]({{% ref pueblos-que-ver-en-cadiz %}}) 
 
 ## 10 lugares que ver en una excursión a Setenil de las Bodegas:
 
@@ -189,8 +190,8 @@ por Setenil de las Bodegas de Civitatis.
 
 ## También te puede interesar
 
-{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}} 
+{{< reflink ruta-por-los-pueblos-blancos-de-cadiz >}} 
 
-{{< reflink path=posts/2021/11/planes-en-ronda-con-amigas >}} 
+{{< reflink planes-en-ronda-con-amigas >}} 
 
-{{< reflink path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}}
+{{< reflink viajar-con-amigas-que-hacer-en-cadiz >}}

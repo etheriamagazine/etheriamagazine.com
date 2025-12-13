@@ -21,10 +21,10 @@ conocer la otra Ibiza, más tranquila y auténtica, aquella que se disfruta a tr
 paseos, actividades deportivas, gastronomía de la buena y visitas culturales. La mayor 
 de las islas Pitiusas ofrece **más de 300 días de sol anuales** y un clima suave, por lo 
 que siempre resulta buena idea hacer una escapada romántica en pareja a Ibiza (no te 
-pierdas los {{< reflink 
-path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja >}}) o 
-disfrutar de unos días en la isla con esa amiga con la que siempre te lo pasas tan bien. 
-Seguro que hay mucho sobre lo que ponerse al día… 
+pierdas los [mejores restaurantes en Ibiza para una cena especial]({{% ref 
+20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja %}})) o disfrutar de unos días 
+en la isla con esa amiga con la que siempre te lo pasas tan bien. Seguro que hay mucho 
+sobre lo que ponerse al día… 
 
 ![calas ibiza invierno](https://fotos.etheriamagazine.com/2021/10/cala-ibiza-con-amigas.jpg "Aprovecha las calas de Ibiza en invierno, con apenas turistas. © Alex Kulikov")
 
@@ -163,8 +163,8 @@ Antoni, cala d´Hort, Cala Molí, Cala Tarida, Punta Galera, desde lo alto de Sa
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}} 
+{{< reflink viaje-a-ibiza-con-amigas >}} 
 
-{{< reflink path=posts/2020/08/guia-mejores-playas-calas-menorca >}} 
+{{< reflink guia-mejores-playas-calas-menorca >}} 
 
-{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}
+{{< reflink viajar-con-amigas-mejores-playas-formentera >}}

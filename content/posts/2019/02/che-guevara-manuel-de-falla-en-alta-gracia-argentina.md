@@ -174,9 +174,9 @@ Web Oficial de [Turismo de Córdoba.](http://www.cordobaturismo.gov.ar)
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2019/04/viajar-sola-amigas-ruta-vino-bodegas-de-mendoza-argentina 
->}} {{< reflink 
-path=posts/2019/04/viajar-sola-amigas-ruta-vino-bodegas-de-mendoza-argentina >}}{{< 
-reflink path=posts/2019/04/viajar-sola-amigas-ruta-vino-bodegas-de-mendoza-argentina >}} 
+[Ruta en]({{% ref viajar-sola-amigas-ruta-vino-bodegas-de-mendoza-argentina %}}) [a]({{% 
+ref viajar-sola-amigas-ruta-vino-bodegas-de-mendoza-argentina %}})[utobús por las 
+bodegas de Mendoza (Argentina)]({{% ref 
+viajar-sola-amigas-ruta-vino-bodegas-de-mendoza-argentina %}}) 
 
-{{< reflink path=posts/2019/07/que-ver-buenos-aires-belle-epoque-viajar-sola >}}
+{{< reflink que-ver-buenos-aires-belle-epoque-viajar-sola >}}

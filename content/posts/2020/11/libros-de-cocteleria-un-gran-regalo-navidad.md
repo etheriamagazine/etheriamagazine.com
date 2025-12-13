@@ -196,5 +196,4 @@ populares espirituosos.
 
 **También te puede interesar...** 
 
-{{< reflink 
-path=posts/2020/05/mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas >}}.
+{{< reflink mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas >}}.

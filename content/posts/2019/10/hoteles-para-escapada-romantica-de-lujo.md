@@ -31,8 +31,8 @@ para adultos, una ventaja innegable en una escapada en pareja, y está lleno de 
 deliciosos y respetuosos siempre con el medio ambiente. Disfruta con su decoración de 
 artesanía tradicional costarricense y de las villas con piscina privada. 
 
-No te pierdas la reseña del {{< reflink 
-path=posts/2021/05/hotel-nayara-springs-costa-rica >}}. 
+No te pierdas la reseña del [Hotel Nayara Spring en Etheria Magazine]({{% ref 
+hotel-nayara-springs-costa-rica %}}). 
 
 ![Piscina del hotel Nayara Springs.](https://fotos.etheriamagazine.com/2018/05/COSTA-RICA-HOTEL-NAYARA-PISCINA.jpg "Piscina del hotel Nayara Springs. © SG")
 
@@ -46,8 +46,8 @@ se encargarán de que no te falte de nada) con una gastronomía de altura (cuent
 no podrás resistirte a una cata de vino, a una tarde en su spa y a un paseo en bicicleta 
 por los bonitos paisajes de viñedos que le rodean. 
 
-Sigue leyendo: {{< reflink 
-path=posts/2019/11/viajes-romanticos-hotel-le-domaine-abadia-retuerta-valladolid >}}. 
+Sigue leyendo: [Fin de semana romántico en Le Domaine, el hotel de la bodega Abadía 
+Retuerta]({{% ref viajes-romanticos-hotel-le-domaine-abadia-retuerta-valladolid %}}). 
 
 ![Vendimia en la bodega Abadía Retuerta con el hotel La Domaine al fondo.](https://fotos.etheriamagazine.com/2019/10/hotel-la-domaine.jpg "Vendimia en la bodega Abadía Retuerta con el hotel La Domaine al fondo. © SG")
 
@@ -60,11 +60,11 @@ te podrás alojar en un bungalow privado con tu propia piscina y todas las comod
 imaginables de un hotel perfectamente integrado en la naturaleza que le rodea. Aquí 
 disfrutarás caminando por sus senderos en busca de las más 120 especies de árboles y 
 plantas y te divertirás con los descarados monos que se encuentran por todo el complejo. 
-No te pierdas las excursiones por el {{< reflink 
-path=posts/2018/06/viaje-parejas-mar-de-andaman >}} para descubrir lugares como las 
-islas Phi Phi o la isla de James Bond. 
+No te pierdas las excursiones por el [mar de Andaman]({{% ref 
+viaje-parejas-mar-de-andaman %}}) para descubrir lugares como las islas Phi Phi o la 
+isla de James Bond. 
 
-{{< reflink path=posts/2018/05/hotel-rayavadee-vivir-la-naturaleza >}}. 
+{{< reflink hotel-rayavadee-vivir-la-naturaleza >}}. 
 
 ![Villa con vistas al mar en el hotel Rayavadee.](https://fotos.etheriamagazine.com/2018/05/The-Rayavadee-Villa_Exterior-Morning_Fotor.jpg "Villa con vistas al mar en el © hotel Rayavadee.")
 
@@ -76,52 +76,52 @@ mundo de paz al que te traslada en medio del bullicio de la ciudad es único. No
 pierdas un masaje en su delicado spa y sus desayunos en la azotea con vistas a los 
 tejados de la ciudad. 
 
-{{< reflink path=posts/2019/02/hotel-la-sultana-marrakech >}} 
+{{< reflink hotel-la-sultana-marrakech >}} 
 
 ![Spa del hotel La Sultana.](https://fotos.etheriamagazine.com/2019/02/La-Sultana-Marrakech-Spa.jpg "Spa de © La Sultana.")
 
 ## Çırağan Palace Kempinski (Estambul, Turquía)
 
 Toda la opulencia otomana toma forma en este castillo lleno de historia situado a 
-orillas del Bósforo. El Çirağan Palace ofrece el alojamiento perfecto para una {{< 
-reflink path=posts/2018/05/fin-de-semana-romantico-en-estambul >}} y en él pasarás unos 
-días entre mármoles, terciopelos y una decoración exquisita que te trasladará a otra 
-época. No te pierdas su _infinity pool_ y sus jardines, donde encontraréis decenas de 
-lugares para la foto perfecta. 
+orillas del Bósforo. El Çirağan Palace ofrece el alojamiento perfecto para una [escapada 
+romántica a Estambul]({{% ref fin-de-semana-romantico-en-estambul %}}) y en él pasarás 
+unos días entre mármoles, terciopelos y una decoración exquisita que te trasladará a 
+otra época. No te pierdas su _infinity pool_ y sus jardines, donde encontraréis decenas 
+de lugares para la foto perfecta. 
 
-Sigue leyendo sobre el {{< reflink 
-path=posts/2019/03/ciragan-palace-kempinski-escapada-romantica-estambul >}}. 
+Sigue leyendo sobre el [Çirağan Palace]({{% ref 
+ciragan-palace-kempinski-escapada-romantica-estambul %}}). 
 
 ![Vistas del Bósforo desde el Çirağan Palace.](https://fotos.etheriamagazine.com/2019/02/ciragan-palace-kempinski-istanbul-exterior.jpg "Vistas del Bósforo desde el © Çirağan Palace.")
 
 ## Bahía del Duque (Costa Adeje, Tenerife)
 
-Es uno de esos hoteles donde te quedarías –siempre– más tiempo del previsto. El {{< 
-reflink path=posts/2019/01/donde-dormir-tenerife-hotel-bahia-del-duque >}} está lleno de 
+Es uno de esos hoteles donde te quedarías –siempre– más tiempo del previsto. El [Bahía 
+del Duque]({{% ref donde-dormir-tenerife-hotel-bahia-del-duque %}}) está lleno de 
 rincones llenos de encanto, perfectos para detenerse a leer un rato o a tomar un café. 
 Si quieres un plus de exclusividad, alójate en las Casas Ducales, aunque todo en este 
-hotel hace que te sientas especial. Su spa {{< reflink 
-path=posts/2018/06/bahia-wellness-retreat-del-hotel-bahia-del-duque >}} es de los 
-mejores que puedes encontrar en el mundo y si quieres más privacidad puedes descansar en 
-sus camas balinesas junto a la piscina. 
+hotel hace que te sientas especial. Su spa [Bahía Wellness Retreat]({{% ref 
+bahia-wellness-retreat-del-hotel-bahia-del-duque %}}) es de los mejores que puedes 
+encontrar en el mundo y si quieres más privacidad puedes descansar en sus camas 
+balinesas junto a la piscina. 
 
-Sigue leyendo sobre {{< reflink 
-path=posts/2019/01/donde-dormir-tenerife-hotel-bahia-del-duque >}} 
+Sigue leyendo sobre [hotel Bahía del Duque.]({{% ref 
+donde-dormir-tenerife-hotel-bahia-del-duque %}}) 
 
 ![hoteles con encanto, Tenerife, Islas Canarias, viajes en familia, viaja sola](https://fotos.etheriamagazine.com/2019/01/Hotel-Bahia-del-Duque-general.jpg "Vista general del pueblo canario que forma el hotel © Bahía del Duque.")
 
 ## Belmond Reid’s Palace (Madeira, Portugal)
 
-Está considerado el hotel más exclusivo de la isla portuguesa de {{< reflink 
-path=posts/2019/04/viajar-con-amigas-que-ver-madeira >}}. Todo es delicado y emana un 
-aire de romanticismo. El Belmond Reid's Palace cuenta con preciosos jardines y ofrece 
-unas vistas espectaculares sobre el mar y Funchal. Es perfecto para esa escapada en 
-pareja en la que quieres descubrir un destino de naturaleza sin renunciar a un 
-alojamiento de lujo. Por cierto, disfruta una tarde de la hora del té, todo un ritual al 
-más puro estilo 'british'. 
+Está considerado el hotel más exclusivo de la isla portuguesa de [Madeira]({{% ref 
+viajar-con-amigas-que-ver-madeira %}}). Todo es delicado y emana un aire de 
+romanticismo. El Belmond Reid's Palace cuenta con preciosos jardines y ofrece unas 
+vistas espectaculares sobre el mar y Funchal. Es perfecto para esa escapada en pareja en 
+la que quieres descubrir un destino de naturaleza sin renunciar a un alojamiento de 
+lujo. Por cierto, disfruta una tarde de la hora del té, todo un ritual al más puro 
+estilo 'british'. 
 
-Sigue leyendo sobre el hotel {{< reflink 
-path=posts/2018/12/belmond-reids-palace-el-mejor-hotel-de-madeira >}}. 
+Sigue leyendo sobre el hotel [Belmond Reid's Palace]({{% ref 
+belmond-reids-palace-el-mejor-hotel-de-madeira %}}). 
 
 ![Piscina del Belmond Reid's Palace de Madeira.](https://fotos.etheriamagazine.com/2018/12/piscina-reids-palace.jpg "Piscina del Belmond Reid's Palace de Madeira. ©PG")
 
@@ -135,8 +135,8 @@ caballo), dándote un baño en su enorme y preciosa piscina de 1.000 metros cuad
 abril a octubre) o dejándote mimar en su spa. Prueba también a realizar una cata de 
 aceite o aceitunas y disfruta con su gastronomía. 
 
-Sigue leyendo sobre el {{< reflink path=posts/2018/08/hotel-la-bobadilla-loja-granada 
->}} 
+Sigue leyendo sobre el [hotel La Bobadilla.]({{% ref hotel-la-bobadilla-loja-granada 
+%}}) 
 
 ![Panorámica del hotel La Bobadilla.](https://fotos.etheriamagazine.com/2018/08/La-Bobadilla-panoramica.jpg "Hotel La Bobadilla entre campos de olivos. © Barceló Hotels Group")
 

@@ -196,4 +196,4 @@ en Tudela, aunque merece una visita exclusiva.
 
 **Sigue leyendo...** 
 
-{{< reflink path=posts/2020/10/viaje-la-rioja-vendimia-valle-de-ocon >}}.
+{{< reflink viaje-la-rioja-vendimia-valle-de-ocon >}}.

@@ -170,9 +170,8 @@ agua, y puede -quizá- constituir una nueva experiencia.
 
 ### También te puede interesar
 
-{{< reflink path=posts/2021/08/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable 
->}} 
+{{< reflink munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable >}} 
 
-{{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}} 
+{{< reflink ruta-en-coche-electrico-por-suiza >}} 
 
-{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}}
+{{< reflink que-ver-en-turin-en-un-viaje-con-amigas >}}

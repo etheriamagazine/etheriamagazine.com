@@ -169,10 +169,8 @@ Más información en [Centenario de Delibes](https://centenariodelibes.es/).
 
 ### También te puede interesar
 
-{{< reflink 
-path=posts/2020/06/viaje-por-la-espana-de-las-grandes-escritoras-del-siglo-xx >}} 
+{{< reflink viaje-por-la-espana-de-las-grandes-escritoras-del-siglo-xx >}} 
 
-{{< reflink path=posts/2018/09/la-poetisa-sofia-casanova-una-gallega-en-polonia >}} 
+{{< reflink la-poetisa-sofia-casanova-una-gallega-en-polonia >}} 
 
-{{< reflink path=posts/2020/05/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid 
->}}
+{{< reflink viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid >}}

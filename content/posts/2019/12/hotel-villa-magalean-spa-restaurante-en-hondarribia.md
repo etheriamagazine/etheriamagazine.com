@@ -125,8 +125,8 @@ regresar a la vida cotidiana va a resultar 'harto complicado'.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/02/que-ver-hacer-gipuzkoa >}} 
+{{< reflink que-ver-hacer-gipuzkoa >}} 
 
-{{< reflink path=posts/2020/09/que-ver-guipuzcoa-jaizkibel-hondarribia-pasaia >}} 
+{{< reflink que-ver-guipuzcoa-jaizkibel-hondarribia-pasaia >}} 
 
-{{< reflink path=posts/2021/04/que-ver-hacer-en-san-sebastian >}}
+{{< reflink que-ver-hacer-en-san-sebastian >}}

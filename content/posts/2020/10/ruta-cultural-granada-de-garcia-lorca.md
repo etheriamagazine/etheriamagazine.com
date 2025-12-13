@@ -156,13 +156,13 @@ Fotografías cedidas por [www.universolorca.com](http://www.universolorca.com)
 
 📍**También te puede interesar...** 
 
-{{< reflink path=posts/2020/05/48-horas-en-el-albayzin-y-la-alhambra >}}. 
+{{< reflink 48-horas-en-el-albayzin-y-la-alhambra >}}. 
 
-{{< reflink path=posts/2020/10/restaurantes-bares-de-granada-y-visitas-para-mujeres >}} 
+{{< reflink restaurantes-bares-de-granada-y-visitas-para-mujeres >}} 
 
-{{< reflink path=posts/2020/11/tadeo-jones-ruta-de-cine-en-granada >}}. 
+{{< reflink tadeo-jones-ruta-de-cine-en-granada >}}. 
 
-{{< reflink path=posts/2021/10/consejos-para-visitar-la-alhambra >}}. 
+{{< reflink consejos-para-visitar-la-alhambra >}}. 
 
 📍**Visitas guiadas en Granada** 
 

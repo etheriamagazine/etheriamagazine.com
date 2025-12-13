@@ -87,8 +87,8 @@ de la ciudad en la que os encontréis y elegir según lo que os pida el cuerpo.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2022/01/asturias-en-coche-guia-imprescindible >}}. 
+{{< reflink asturias-en-coche-guia-imprescindible >}}. 
 
-{{< reflink path=posts/2021/12/que-ver-en-verona >}}. 
+{{< reflink que-ver-en-verona >}}. 
 
-{{< reflink path=posts/2021/11/planes-en-ronda-con-amigas >}}.
+{{< reflink planes-en-ronda-con-amigas >}}.

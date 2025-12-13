@@ -228,9 +228,9 @@ mi conversación con ella.
 
 📌 **También te puede interesar:** 
 
-{{< reflink 
-path=posts/2023/04/inmersion-cultural-en-ecuador-sania-descubre-cuenca-y-quito >}} 
+{{< reflink inmersion-cultural-en-ecuador-sania-descubre-cuenca-y-quito >}} 
 
-{{< reflink path=posts/2023/04/como-viajar-islas-galapagos >}} 
+{{< reflink como-viajar-islas-galapagos >}} 
 
-{{< reflink path=posts/2023/03/itinerario-bolivia-sania-jelic >}}
+[Bolivia bien vale un potosí, nueva etapa de Sania Jelic]({{% ref 
+itinerario-bolivia-sania-jelic %}})

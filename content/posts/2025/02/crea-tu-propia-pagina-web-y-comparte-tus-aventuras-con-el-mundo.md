@@ -68,8 +68,9 @@ espectaculares** juega un papel fundamental dentro del contenido de un blog viaj
 
 ### Historias personales
 
-Las anécdotas y {{< reflink path=posts/2023/06/organizar-un-viaje-sola-sania-jelic >}} 
-generan mayor **confianza, cercanía y conexión** con la audiencia. 
+Las anécdotas y [consejos basados en experiencias reales]({{% ref 
+organizar-un-viaje-sola-sania-jelic %}}) generan mayor **confianza, cercanía y 
+conexión** con la audiencia. 
 
 ### SEO y optimización
 

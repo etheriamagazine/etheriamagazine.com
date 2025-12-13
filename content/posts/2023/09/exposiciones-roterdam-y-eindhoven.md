@@ -27,8 +27,8 @@ todos los niveles. En esta ocasión, te invitamos a descubrir las atractivas ciu
 una escapada a Loon op Zand donde se encuentra **Efteling**, el parque temático más 
 grande del país y también el más mágico. 
 
-📍No te pierdas: {{< reflink 
-path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-amsterdam >}}. 
+📍No te pierdas: [Qué ver en Ámsterdam en sólo dos días]({{% ref 
+viajar-sola-que-ver-hacer-dormir-amsterdam %}}). 
 
 ![Parque Efteling.](https://fotos.etheriamagazine.com/2023/09/efteling-holanda.jpg "© Parque Efteling.")
 
@@ -98,8 +98,8 @@ restaurante, bar de cócteles y una terraza cubierta. Seguro que te va a gustar.
 
 ![Interior del hotel Morgan & Mees.](https://fotos.etheriamagazine.com/2023/09/Morgan-Mees-roterdam.jpg "Interior del hotel Morgan & Mees.")
 
-✅ Te puede interesar: {{< reflink 
-path=posts/2021/05/que-ver-roterdam-eurovision-viaje-con-amigas >}}. 
+✅ Te puede interesar: [10 planes en Róterdam con amigas para un fin de semana 
+movido]({{% ref que-ver-roterdam-eurovision-viaje-con-amigas %}}). 
 
 ## Eindhoven y sus musas
 

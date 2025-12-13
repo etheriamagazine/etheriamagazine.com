@@ -188,9 +188,8 @@ ciudades.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/02/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala >}}. 
+{{< reflink viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala >}}. 
 
-{{< reflink path=posts/2021/01/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual 
->}}. 
+{{< reflink chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual >}}. 
 
-{{< reflink path=posts/2020/04/mujeres-aventureras-viaje-myanmar-que-ver-hacer >}}.
+{{< reflink mujeres-aventureras-viaje-myanmar-que-ver-hacer >}}.

@@ -67,8 +67,8 @@ tentadora invitación hasta avistar el **cabo Mayor** a mar abierto.
 
 ![Palacio de la Magdalena y faro al fondo, en la bahía de Santander.](https://fotos.etheriamagazine.com/2022/09/santander-palacio-de-la-Magdalena.jpg "Palacio de la Magdalena y faro al fondo, en la bahía de Santander.")
 
-📌 Lee este artículo {{< reflink 
-path=posts/2020/09/que-ver-y-mejores-restaurantes-de-santander >}}. 
+📌 Lee este artículo [si quieres conocer más planes en Santander]({{% ref 
+que-ver-y-mejores-restaurantes-de-santander %}}). 
 
 ## Los pueblos más bonitos de Cantabria (costa y montaña)
 
@@ -145,9 +145,9 @@ acaba con el famoso **chocolate con churros** local.
 📌 El periodo más opulento lo vivió la villa gracias a la **Real Fábrica de Cañones**, 
 primera industria española de altos hornos. Situada en el **barrio de la Cavada,** solo 
 conserva su portada conocida como el **Arco de Carlos III**. Te acordarás de ella si 
-visitas los {{< reflink 
-path=posts/2021/03/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia >}}, pues 
-las tuberías del palacio segoviano de La Granja se fabricaron aquí. 
+visitas los [lugares imprescindibles de Segovia]({{% ref 
+15-lugares-imprescindibles-que-ver-en-segovia-y-provincia %}}), pues las tuberías del 
+palacio segoviano de La Granja se fabricaron aquí. 
 
 ![Hombre Pez junto al Puente Mayor de Liérganes.](https://fotos.etheriamagazine.com/2022/09/puente-hombre-pez-Lierganes.jpg "Hombre Pez junto al Puente Mayor de Liérganes.")
 
@@ -201,12 +201,13 @@ Cantabria para controlar las mercancías hacia el Cantábrico. Desde la capital 
 **Reinosa**, el rumor del río entre fresnos y chopos lleva hasta una imagen de la Virgen 
 del Pilar. Señala el **nacimiento del Ebro** en la **fuentona de Fontibre**. Más al sur 
 quedan caminos ancestrales entre menhires del valle de Valdeolea (no te pierdas las 
-visitas recomendadas en el artículo: {{< reflink 
-path=posts/2021/06/que-ver-en-valle-de-valdeolea-cantabria >}}). 
+visitas recomendadas en el artículo: [Valle de Valdeolea, 9 rituales para descubrir la 
+esencia de Cantabria]({{% ref que-ver-en-valle-de-valdeolea-cantabria %}})). 
 
 📌 Otro gran secreto de Cantabria es **Valderredible**, valle de famosas patatas e 
 increíbles ermitas rupestres (un lugar del que también te hemos hablado anteriormente: 
-"{{< reflink path=posts/2019/08/que-ver-valderredible-cantabria >}}"). 
+"[10 poderosas razones para visitar Valderredible]({{% ref 
+que-ver-valderredible-cantabria %}})"). 
 
 📌 Al **visitar Julióbriga** entra en el **museo Domus**, una reconstrucción de la 
 vivienda romana de una familia de clase media-alta conocida como Casa de los Morillos. 

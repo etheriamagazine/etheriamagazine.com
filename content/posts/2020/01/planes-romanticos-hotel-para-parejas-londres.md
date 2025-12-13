@@ -164,7 +164,7 @@ privada más que en un hotel.
 ### También te puede interesar:
 
 {{< reflink 
-path=posts/2020/05/compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone 
+compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone 
 >}} 
 
-{{< reflink path=posts/2020/12/diez-peliculas-rodadas-en-londres >}}
+{{< reflink diez-peliculas-rodadas-en-londres >}}

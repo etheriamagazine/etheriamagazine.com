@@ -138,15 +138,15 @@ no haber sabido de él durante la estancia, me hubiera encantado hacer esta excu
 
 ### Parque Nacional de Chobe
 
-Desde Victoria Falls se puede visitar el {{< reflink 
-path=posts/2018/11/botsuana-10-razones-para-sentirte-la-reina-de-africa >}}, en 
-Botsuana, conocido por su gran concentración de elefantes (hasta 130.000), grandes 
-manadas de búfalos, antílopes, leones y, sobre todo, rinocerontes. Está tan solo a una 
-hora de carretera, por lo que se puede hacer una visita de un día, aunque merece la pena 
-quedarse a dormir en Kasane o en el mismo parque. Hay varios operadores que ofrecen esta 
-última opción, con alojamiento en acampada, una experiencia más completa. Yo fui con 
-[Kalahari Tours](https://kalaharichobe.com) y me gustó mucho porque tienen buenos guías, 
-son correctos y se esmeran en ofrecer el mejor servicio. 
+Desde Victoria Falls se puede visitar el [Parque Nacional Chobe]({{% ref 
+botsuana-10-razones-para-sentirte-la-reina-de-africa %}}), en Botsuana, conocido por su 
+gran concentración de elefantes (hasta 130.000), grandes manadas de búfalos, antílopes, 
+leones y, sobre todo, rinocerontes. Está tan solo a una hora de carretera, por lo que se 
+puede hacer una visita de un día, aunque merece la pena quedarse a dormir en Kasane o en 
+el mismo parque. Hay varios operadores que ofrecen esta última opción, con alojamiento 
+en acampada, una experiencia más completa. Yo fui con [Kalahari 
+Tours](https://kalaharichobe.com) y me gustó mucho porque tienen buenos guías, son 
+correctos y se esmeran en ofrecer el mejor servicio. 
 
 ![Sania en el Parque Nacional de Chobe](https://fotos.etheriamagazine.com/2024/03/sania-parque-chobe.jpg "Sania en el Parque Nacional de Chobe. © Sania Jelic.")
 
@@ -164,8 +164,8 @@ platos.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2024/02/guia-viaje-botsuana-sania-jelic >}} 
+{{< reflink guia-viaje-botsuana-sania-jelic >}} 
 
-{{< reflink path=posts/2024/02/guia-namibia-sania-jelic >}} 
+{{< reflink guia-namibia-sania-jelic >}} 
 
-{{< reflink path=posts/2024/01/consejos-viajar-sola-por-africa >}}
+{{< reflink consejos-viajar-sola-por-africa >}}

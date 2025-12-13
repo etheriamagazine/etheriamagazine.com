@@ -213,4 +213,4 @@ Más información en [Turismo de Costa Rica](https://www.visitcostarica.com/es).
 
 ### Más mujeres emprendedoras en Costa Rica
 
-{{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}}.
+{{< reflink que-ver-peninsula-nicoya-costa-rica >}}.

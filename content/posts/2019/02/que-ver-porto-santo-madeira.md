@@ -36,8 +36,8 @@ de pescado y mariscos. Los vinos tienen un sabor singular, pruébalos a ver si t
 En Porto Santo hay alguna bodega pero la mayoría llegan de la vecina Madeira. Si no te 
 gusta arriesgar, siempre puedes optar por una cerveza Coral. 
 
-**📍No te pierdas el artículo:** {{< reflink path=posts/2022/08/que-comer-en-madeira 
->}}. 
+**📍No te pierdas el artículo:** [Qué comer en Madeira]({{% ref que-comer-en-madeira 
+%}}). 
 
 ## Qué ver en Porto Santo
 
@@ -48,7 +48,7 @@ Lisboa. Puedes aprovechar la escala para dar una vuelta por Funchal y luego toma
 vuelo a Porto Santo o bien un ferry que te permitirá ir disfrutando de la brisa y el 
 color del océano. 
 
-**📍No te pierdas el artículo:** {{< reflink path=posts/2022/08/que-ver-funchal >}}. 
+**📍No te pierdas el artículo:** [Qué ver en Funchal]({{% ref que-ver-funchal %}}). 
 
 Si optas por **el ferry**, el barco te dejará muy cerca de Vila Baleira, la capital de 
 Porto Santo, un buen lugar para reservar alojamiento si quieres tener cerca algo de 

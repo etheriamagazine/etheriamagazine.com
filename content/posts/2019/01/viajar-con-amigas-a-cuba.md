@@ -210,6 +210,6 @@ Cuba_.
 
 📌 **Sigue leyendo sobre Cuba:** 
 
-{{< reflink path=posts/2022/01/viaje-cuba-villa-clara-y-sancti-spiritus >}}. 
+{{< reflink viaje-cuba-villa-clara-y-sancti-spiritus >}}. 
 
-{{< reflink path=posts/2020/05/prepara-tu-viaje-a-cuba-libros-peliculas >}}.
+{{< reflink prepara-tu-viaje-a-cuba-libros-peliculas >}}.

@@ -107,9 +107,8 @@ actividad en el Tel. 972 250 512
 
 ✅ **Si viajas con niños también te puede interesar:** 
 
-{{< reflink 
-path=posts/2019/12/planes-familiares-en-barcelona-y-tarragona-turismo-industrial >}}. 
+{{< reflink planes-familiares-en-barcelona-y-tarragona-turismo-industrial >}}. 
 
-{{< reflink path=posts/2021/06/8-experiencias-en-el-pallars-jussa-excursiones-en-lleida 
->}}{{< reflink 
-path=posts/2021/06/8-experiencias-en-el-pallars-jussa-excursiones-en-lleida >}}.
+[Exp]({{% ref 8-experiencias-en-el-pallars-jussa-excursiones-en-lleida %}})[eriencias 
+que sólo puedes vivir en el Pallars Jussà (Lleida)]({{% ref 
+8-experiencias-en-el-pallars-jussa-excursiones-en-lleida %}}).

@@ -163,6 +163,7 @@ versión Kindle).
 
 **También en Barcelona** 
 
-{{< reflink path=posts/2019/03/guia-que-ver-hacer-dormir-barcelona-con-amigas >}}... 
+[Barcelona con amigas: visitas, compras, restaurantes]({{% ref 
+guia-que-ver-hacer-dormir-barcelona-con-amigas %}})... 
 
-{{< reflink path=posts/2018/10/guia-de-viaje-de-barcelona-en-familia >}}.
+{{< reflink guia-de-viaje-de-barcelona-en-familia >}}.

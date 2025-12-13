@@ -157,11 +157,8 @@ convertirnos en pastoras por un día al catar los sabrosos quesos de cabra de la
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/06/8-experiencias-en-el-pallars-jussa-excursiones-en-lleida 
->}} 
+{{< reflink 8-experiencias-en-el-pallars-jussa-excursiones-en-lleida >}} 
 
-{{< reflink 
-path=posts/2020/05/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida 
->}} 
+{{< reflink consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida >}} 
 
-{{< reflink path=posts/2022/02/viaje-floracion-melocotoneros-aitona-lleida >}}
+{{< reflink viaje-floracion-melocotoneros-aitona-lleida >}}

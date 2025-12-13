@@ -137,9 +137,8 @@ Más información en [Turismo de Azores](https://www.visitazores.com/es).
 
 ✅**También te puede interesar** 
 
-{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
+{{< reflink viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
 
-{{< reflink path=posts/2019/06/planes-divertidos-viajes-familia-portugal >}} 
+{{< reflink planes-divertidos-viajes-familia-portugal >}} 
 
-{{< reflink 
-path=posts/2020/06/8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos >}}
+{{< reflink 8-excursiones-en-mallorca-para-un-viaje-en-familia-con-ninos >}}

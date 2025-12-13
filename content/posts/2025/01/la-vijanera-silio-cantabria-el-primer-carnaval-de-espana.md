@@ -179,9 +179,8 @@ Asociación Cultural Amigos de La Vijanera (www.vijanera.com).
 
 **También en Cantabria**: 
 
-{{< reflink path=posts/2022/09/que-ver-en-cantabria >}}. 
+{{< reflink que-ver-en-cantabria >}}. 
 
-{{< reflink path=posts/2021/06/que-ver-en-valle-de-valdeolea-cantabria >}}. 
+{{< reflink que-ver-en-valle-de-valdeolea-cantabria >}}. 
 
-{{< reflink 
-path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}}.
+{{< reflink 8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}}.

@@ -18,10 +18,10 @@ Hay un rincón en la selva que rodea al majestuoso volcán Arenal donde refugiar
 La naturaleza forma parte del hotel Nayara Springs, con su fauna y flora increíbles, y 
 ha sido respetada con mimo por sus constructores. De hecho para llegar al hotel hay que 
 atravesar desde el [**Nayara Resort Spa & Gardens**](http://www.arenalnayara.com) (de la 
-misma propiedad y un excelente lugar si se viaja a {{< reflink 
-path=posts/2021/04/viaje-costa-rica-con-ninos-que-hacer-en-familia >}}) un puente 
-peatonal 250 pies construido sobre las ramas de los árboles. Y así se llega a este 
-**oasis sólo para adultos** perfecto para un viaje en pareja. 
+misma propiedad y un excelente lugar si se viaja a [Costa Rica con niños]({{% ref 
+viaje-costa-rica-con-ninos-que-hacer-en-familia %}})) un puente peatonal 250 pies 
+construido sobre las ramas de los árboles. Y así se llega a este **oasis sólo para 
+adultos** perfecto para un viaje en pareja. 
 
 ## Lujo 5 estrellas sólo para adultos
 
@@ -84,4 +84,4 @@ Fotos: Susana García y Hotel Nayara Springs.
 
 ### También te puede interesar en Costa Rica
 
-{{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}}
+{{< reflink que-ver-peninsula-nicoya-costa-rica >}}

@@ -203,7 +203,7 @@ quedaron con el de peor calidad durante años. Esta realidad ya forma parte del 
 hoy encontrarás café excelente en todo el país. 
 
 📌 Si eres amante del café y de la naturaleza, te encantará nuestra [ruta por el Eje 
-Cafetero]({{% ref viajar-sola-al-eje-cafetero-colombia %}}). 
+Cafetero](http://etheriamagazine.com/2019/01/28/viajar-sola-al-eje-cafetero-colombia/). 
 
 ![Momento de la cata de café molecular del Café San Alberto.](https://fotos.etheriamagazine.com/2020/03/viaje-bogota-cafe.jpg "Momento de la cata de café molecular del Café San Alberto. © Procolombia")
 
@@ -238,10 +238,8 @@ aburrirse en Bogotá?
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/10/parques-naturales-de-america-latina >}}. 
+{{< reflink parques-naturales-de-america-latina >}}. 
 
-{{< reflink path=posts/2019/12/que-ver-en-lago-titicaca-isla-del-sol-copacabana-bolivia 
->}}. 
+{{< reflink que-ver-en-lago-titicaca-isla-del-sol-copacabana-bolivia >}}. 
 
-{{< reflink 
-path=posts/2019/05/ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta >}}.
+{{< reflink ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta >}}.

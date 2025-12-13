@@ -171,9 +171,9 @@ una tarjeta la compañía Vodacom con 2G.
 
 **Más islas que te interesa conocer...** 
 
-{{< reflink path=posts/2018/11/mujeres-que-viajan-a-zanzibar-que-ver-en-tanzania >}}. 
+{{< reflink mujeres-que-viajan-a-zanzibar-que-ver-en-tanzania >}}. 
 
-{{< reflink path=posts/2019/08/5-viajes-para-comenzar-a-conocer-africa >}}{{< reflink 
-path=posts/2021/03/guia-que-hacer-en-maldivas-buceo-surf >}}. 
+[]({{% ref 5-viajes-para-comenzar-a-conocer-africa %}})[Islas Maldivas, mucho más que un 
+destino para lunas de miel]({{% ref guia-que-hacer-en-maldivas-buceo-surf %}}). 
 
-{{< reflink path=posts/2020/11/islas-seychelles-un-viaje-de-lujo-al-paraiso >}}.
+{{< reflink islas-seychelles-un-viaje-de-lujo-al-paraiso >}}.

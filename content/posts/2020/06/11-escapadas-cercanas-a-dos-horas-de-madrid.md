@@ -34,8 +34,8 @@ a 100 km de Madrid. Esta formación sedimentaria del **Tajo** es nuestro particu
 del Colorado. La vereda de las Barrancas te llevará hasta varios miradores desde donde 
 podrás contemplar la impresionante panorámica del **embalse de Castrejón**. 
 
-\*Sigue leyendo: {{< reflink path=posts/2023/10/excursion-barrancas-de-burujon-toledo 
->}} 
+\*Sigue leyendo: [Cómo organizar la excursión a las Barrancas de Burujón.]({{% ref 
+excursion-barrancas-de-burujon-toledo %}}) 
 
 ## 2\. Real Sitio de San Ildefonso (Segovia), a 102 km
 
@@ -78,8 +78,9 @@ extramuros. Las **hoces del río Duratón** cincelan los impresionantes alrededo
 localidad y a trece kilómetros se encuentra el **castillo de Castilnovo**, de origen 
 musulmán. Allí residieron desde los Reyes Católicos hasta **Juana la Loca**. Sepúlveda 
 pertenece a la asociación de los Pueblos más bonitos de España y su casco histórico fue 
-declarado Conjunto Histórico Artístico. Si viajas con niños te interesa esta {{< reflink 
-path=posts/2019/07/sepulveda-y-las-hoces-del-duraton-viaje-en-familia >}}. 
+declarado Conjunto Histórico Artístico. Si viajas con niños te interesa esta [escapada 
+familiar a las hoces del Duratón]({{% ref 
+sepulveda-y-las-hoces-del-duraton-viaje-en-familia %}}). 
 
 ![Sepúlveda, una excursión perfecta desde Madrid](https://fotos.etheriamagazine.com/2020/05/viaje-segovia-sepulveda.jpg "Sepúlveda. © Kelu Robles")
 
@@ -90,7 +91,8 @@ catedral fue erigida durante el reinado de **Doña Urraca** en el siglo XII. No 
 pierdas la **Casa del Doncel** y prepara las botas para recorrer estas dos rutas de 
 senderismo: la de la **Hoz de Pelegrina** y la del **Barranco del Río Dulce**. 
 
-\*Sigue leyendo. {{< reflink path=posts/2020/12/que-ver-donde-comer-en-siguenza >}}. 
+\*Sigue leyendo. [Qué ver en Sigüenza: del pasado medieval a la movida madrileña]({{% 
+ref que-ver-donde-comer-en-siguenza %}}). 
 
 ![Panorámica de Sigüenza.](https://fotos.etheriamagazine.com/2023/11/siguenza-castilla-la-mancha.jpg "Panorámica de Sigüenza.")
 
@@ -107,11 +109,10 @@ Buendía**.
 ## 9\. Campo de Criptana (Ciudad Real), a 164 km
 
 Esta población se encuentra en Ciudad Real (Castilla-La Mancha), a 164 km de Madrid. En 
-**Etheria Magazine** confeccionamos esta {{< reflink 
-path=posts/2019/04/ruta-sara-montiel-campo-de-criptana >}} que resume muy bien los 
-atractivos manchegos de la **localidad quijotesca**. Si te preguntas por qué la ruta se 
-llama así, quizá no sepas que en Campo de Criptana nació la actriz **Sara Montiel** 
-(1928-2013). 
+**Etheria Magazine** confeccionamos esta [Ruta Saritísima]({{% ref 
+ruta-sara-montiel-campo-de-criptana %}}) que resume muy bien los atractivos manchegos de 
+la **localidad quijotesca**. Si te preguntas por qué la ruta se llama así, quizá no 
+sepas que en Campo de Criptana nació la actriz **Sara Montiel** (1928-2013). 
 
 ![Molinos de Campo de Criptana.](https://fotos.etheriamagazine.com/2020/05/viaje-campo-criptana.jpg "Molinos de Campo de Criptana. © Kelu Robles")
 
@@ -131,8 +132,8 @@ contundentes de la zona.
 Aunque la ciudad de **Valladolid**, en Castilla y León, se encuentra a 214 km de Madrid, 
 si viajas en tren sólo tardarás en llegar 55 minutos. La ciudad ofrece la excusa ideal 
 para alternar los aspectos más culturales y hedonistas de Castilla. Te recomendamos esta 
-ruta gastro en la que respondemos a la pregunta: {{< reflink 
-path=posts/2019/01/bares-imprescindibles-finde-valladolid >}} 
+ruta gastro en la que respondemos a la pregunta: [¿Por qué se come tan bien en 
+Valladolid?]({{% ref bares-imprescindibles-finde-valladolid %}}) 
 
 No olvides visitar su Plaza Mayor, la Catedral, la iglesia de la Antigua, la Academia de 
 Caballería, el Pasaje Gutiérrez, las exposiciones del Museo Patio Herreriano y las joyas 
@@ -142,7 +143,8 @@ del Museo Nacional de Escultura.
 
 **Otras excursiones desde Madrid...** 
 
-✅ {{< reflink path=posts/2020/05/15-escapadas-a-menos-de-99-km-de-madrid >}}. 
+✅ [15 escapadas a menos de 99 km de Madrid]({{% ref 
+15-escapadas-a-menos-de-99-km-de-madrid %}}). 
 
-✅ {{< reflink path=posts/2020/09/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid 
->}}.
+✅ [Sierra del Rincón, una bonita escapada a los pueblos y hayedos de Madrid]({{% ref 
+pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid %}}).

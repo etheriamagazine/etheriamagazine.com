@@ -207,9 +207,8 @@ Dirección: Calle de Colón, 13. Web: grupoardosa.es
 
 **También te puede interesar** 
 
-{{< reflink path=posts/2018/12/de-canas-por-el-madrid-de-los-austrias-y-de-las-letras 
->}} 
+{{< reflink de-canas-por-el-madrid-de-los-austrias-y-de-las-letras >}} 
 
-{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}} 
+{{< reflink ruta-ava-gardner-en-madrid >}} 
 
-{{< reflink path=posts/2022/01/restaurantes-peruanos-en-madrid-de-jhosef-arias >}}
+{{< reflink restaurantes-peruanos-en-madrid-de-jhosef-arias >}}

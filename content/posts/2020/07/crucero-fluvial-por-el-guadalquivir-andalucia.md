@@ -85,27 +85,27 @@ especiales o bebidas que no estén contempladas en dichos menús.
 El barco se encuentra atracado en el muelle de las Delicias, por lo que se pueden 
 aprovechar los ratos libres para pasear por la ribera del Guadalquivir y ver de noche 
 sus puentes iluminados, ir en pocos minutos hasta Plaza de España, visitar la Torre del 
-Oro, etc. El embarque tiene lugar por la tarde del primer día, y se permanece en {{< 
-reflink path=posts/2019/02/viajar-con-amigas-sevilla >}} los dos días posteriores. El 
-primero de ellos se realiza una visita guiada a la capital hispalense con el **Alcázar y 
-la Catedral** incluidos, y el siguiente una excursión a {{< reflink 
-path=posts/2019/03/viaje-amigas-que-comer-dormir-cordoba >}} (en autobús) con la 
-Mezquita, la judería, el puente romano, etc. Los grupos se organizan por idiomas, por lo 
-que tendrás un guía en tu propia lengua (confírmalo con la salida que elijas). 
+Oro, etc. El embarque tiene lugar por la tarde del primer día, y se permanece en 
+[Sevilla]({{% ref viajar-con-amigas-sevilla %}}) los dos días posteriores. El primero de 
+ellos se realiza una visita guiada a la capital hispalense con el **Alcázar y la 
+Catedral** incluidos, y el siguiente una excursión a [Córdoba]({{% ref 
+viaje-amigas-que-comer-dormir-cordoba %}}) (en autobús) con la Mezquita, la judería, el 
+puente romano, etc. Los grupos se organizan por idiomas, por lo que tendrás un guía en 
+tu propia lengua (confírmalo con la salida que elijas). 
 
 ![crucero guadalquivir, visita cordoba](https://fotos.etheriamagazine.com/2020/07/crucero-guadalquivir-cordoba.jpg "Las calles estrechas y rebosantes de flores son una de las señas de identidad de Córdoba. © Jonathan")
 
 ### Navegación hasta Cádiz
 
 El viaje continúa, tras pasar navegando junto al bonito entorno del Parque de Doñana, en 
-{{< reflink path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}} donde se 
+[la capital gaditana]({{% ref viajar-con-amigas-que-hacer-en-cadiz %}}) donde se 
 permanecerá dos noches. El puerto se encuentra muy próximo al casco antiguo por lo que 
 moverse por la ciudad es sumamente fácil. Allí se contempla una visita guiada por los 
 barrios históricos y una excursión que lleva al interior de la provincia con paradas en 
-{{< reflink path=posts/2020/06/viajes-por-espana-jerez-sola-o-con-amigas >}}, una ciudad 
-con un impresionante Alcázar, una bonita Catedral, bellos palacetes y museos, y a una 
-**ganadería** en el municipio de Medina Sidonia donde se crían toros de lidia y donde os 
-harán algunas demostraciones los mozos que se encargan de su cuidado. 
+[Jerez de la Frontera]({{% ref viajes-por-espana-jerez-sola-o-con-amigas %}}), una 
+ciudad con un impresionante Alcázar, una bonita Catedral, bellos palacetes y museos, y a 
+una **ganadería** en el municipio de Medina Sidonia donde se crían toros de lidia y 
+donde os harán algunas demostraciones los mozos que se encargan de su cuidado. 
 
 ![cartuja de jerez, visitas jerez, jerez con amigas](https://fotos.etheriamagazine.com/2020/06/viaje-jerez-cartuja.jpg "Cartuja de Jerez.")
 
@@ -132,22 +132,21 @@ arroz de España?
 La navegación continúa río arriba hasta Sevilla donde vuelve a echar el ancla en el 
 muelle de partida. Los paseos por la capital hispalense y los baños en la piscina de 
 cubierta se combinarán en los próximos dos días con escapadas de una sola jornada a 
-Granada, donde el plato fuerte es la visita a {{< reflink 
-path=posts/2020/05/48-horas-en-el-albayzin-y-la-alhambra >}}, y a {{< reflink 
-path=posts/2020/07/que-ver-hacer-costa-playas-huelva-donana >}}, donde se conocen 
-aquellos lugares vinculados al Descubrimiento de América. En el {{< reflink 
-path=posts/2018/09/muelle-de-las-carabelas-la-rabida-huelva >}} se han colocado 
-reproducciones de estos barcos y un interesante museo, y, junto al mismo, se sitúa el 
-**monasterio de La Rábida**, donde se hospedó Cristóbal Colón antes de partir en su 
-osada expedición. Hasta este cenobio llegaron, al volver de sus viajes, otros 
-conquistadores como Francisco Pizarro, Hernán Cortés o Gonzalo de Sandoval. 
+Granada, donde el plato fuerte es la visita a [La Alhambra y al Generalife]({{% ref 
+48-horas-en-el-albayzin-y-la-alhambra %}}), y a [Huelva]({{% ref 
+que-ver-hacer-costa-playas-huelva-donana %}}), donde se conocen aquellos lugares 
+vinculados al Descubrimiento de América. En el [Parque de las Carabelas]({{% ref 
+muelle-de-las-carabelas-la-rabida-huelva %}}) se han colocado reproducciones de estos 
+barcos y un interesante museo, y, junto al mismo, se sitúa el **monasterio de La 
+Rábida**, donde se hospedó Cristóbal Colón antes de partir en su osada expedición. Hasta 
+este cenobio llegaron, al volver de sus viajes, otros conquistadores como Francisco 
+Pizarro, Hernán Cortés o Gonzalo de Sandoval. 
 
 ![muelle carabelas huelva descubrimiento america](https://fotos.etheriamagazine.com/2018/09/Huelva-Parque-Carabelas-conjunto.jpg "Muelle de las Carabelas en La Rábida (Huelva). © Etheria Magazine")
 
 Con estas excursiones termina el programa del crucero. Una vez en este punto se puede 
-seguir el viaje visitando {{< reflink 
-path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}}, Jaén o {{< reflink 
-path=posts/2020/01/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear >}} 
+seguir el viaje visitando [Málaga]({{% ref fin-de-semana-con-amigas-en-malaga %}}), Jaén 
+o [Almería]({{% ref 48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear %}}) 
 para completar el circuito de Andalucía, aunque eso ya sería por vuestra cuenta. 
 
 ### ¿Cuánto cuesta este crucero fluvial y para quién es adecuado?
@@ -183,8 +182,8 @@ quiere probar la experiencia también cuentan con itinerarios de 4 días y de 5 
 
 ### Sigue leyendo en Etheria Magazine
 
-{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}. 
+{{< reflink consejos-rutas-andalucia-en-autocaravana >}}. 
 
-{{< reflink path=posts/2021/07/experiencias-para-conectar-con-andalucia >}}. 
+{{< reflink experiencias-para-conectar-con-andalucia >}}. 
 
-{{< reflink path=posts/2021/08/playas-y-embalses-de-andalucia >}}.
+{{< reflink playas-y-embalses-de-andalucia >}}.

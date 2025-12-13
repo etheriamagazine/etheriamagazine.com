@@ -209,8 +209,7 @@ natural envejecido entre 12 y 14 meses en fudres franceses. Enhorabuena.
 
 **📌** **También te puede interesar:** 
 
-{{< reflink 
-path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+{{< reflink viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
 >}} 
 
-{{< reflink path=posts/2019/11/turismo-rural-familiar-con-ninos-en-serrania-cuenca >}}
+{{< reflink turismo-rural-familiar-con-ninos-en-serrania-cuenca >}}

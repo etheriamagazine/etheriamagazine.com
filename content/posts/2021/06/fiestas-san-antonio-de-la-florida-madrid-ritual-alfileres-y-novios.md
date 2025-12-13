@@ -170,4 +170,4 @@ La entrada a la ermita de San Antonio de la Florida es gratuita.
 
 ##### ¿Quieres seguir leyendo sobre Madrid?
 
-{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}.
+{{< reflink 10-planes-originales-en-madrid-con-amigas >}}.

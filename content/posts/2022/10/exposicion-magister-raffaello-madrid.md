@@ -126,6 +126,6 @@ Para más información consulta su
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2022/09/exposiciones-madrid-otono-2022 >}}. 
+{{< reflink exposiciones-madrid-otono-2022 >}}. 
 
-{{< reflink path=posts/2022/07/exposicion-hijas-del-nilo-madrid >}}.
+{{< reflink exposicion-hijas-del-nilo-madrid >}}.

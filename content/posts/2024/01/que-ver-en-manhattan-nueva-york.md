@@ -247,8 +247,9 @@ del edificio. También cuenta con dos plantas con zonas acristaladas y un bar.
 
 También te puede interesar: 
 
-{{< reflink path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}} 
+{{< reflink los-mejores-miradores-de-nueva-york-gratis-de-pago >}} 
 
-{{< reflink path=posts/2019/05/viaje-con-amigas-nueva-york-primavera >}} 
+{{< reflink viaje-con-amigas-nueva-york-primavera >}} 
 
-{{< reflink path=posts/2018/07/8-planes-con-ninos-en-nueva-york >}}
+[Viaje a Nueva York con niños: 8 planes que no puedes perderte]({{% ref 
+8-planes-con-ninos-en-nueva-york %}})

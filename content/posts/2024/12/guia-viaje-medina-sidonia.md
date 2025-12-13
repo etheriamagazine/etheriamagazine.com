@@ -214,8 +214,8 @@ templo del azúcar y la almendra con tienda y cafetería.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}} 
+{{< reflink pueblos-que-ver-en-cadiz >}} 
 
-{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}} 
+{{< reflink ruta-por-los-pueblos-blancos-de-cadiz >}} 
 
-{{< reflink path=posts/2022/07/que-ver-setenil-de-las-bodegas >}}
+{{< reflink que-ver-setenil-de-las-bodegas >}}

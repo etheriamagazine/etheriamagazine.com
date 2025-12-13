@@ -163,8 +163,8 @@ final perfecto para cerrar un bonito viaje en coche por las Highlands? ¿O quiz�
 prefieres continuar ruta hacia las Islas Shetland? Si es así, no te pierdas nuestras 
 pistas para conocer estas remotas islas de Escocia. 
 
-📌 **No te pierdas:** {{< reflink 
-path=posts/2019/03/mujeres-viajeras-que-ver-islas-shetland >}}. 
+📌 **No te pierdas:** [Ruta por las Islas Shetland]({{% ref 
+mujeres-viajeras-que-ver-islas-shetland %}}). 
 
 ## Guía Tierras Altas | Etheria Magazine
 
@@ -179,10 +179,8 @@ Visit Britain (www.visitbritain.com/es/es).
 
 **También te puede interesar...** 
 
-{{< reflink 
-path=posts/2019/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}}. 
+{{< reflink de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}}. 
 
-{{< reflink path=posts/2021/04/los-mejores-jardines-de-gran-bretana >}}. 
+{{< reflink los-mejores-jardines-de-gran-bretana >}}. 
 
-{{< reflink 
-path=posts/2021/03/platos-britanicos-en-un-viaje-inglaterra-escocia-gales-irlanda >}}
+{{< reflink platos-britanicos-en-un-viaje-inglaterra-escocia-gales-irlanda >}}

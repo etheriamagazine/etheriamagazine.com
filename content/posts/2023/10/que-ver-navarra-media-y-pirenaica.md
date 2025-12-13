@@ -226,12 +226,12 @@ visitas como la **Selva de Irati** o la **foz de Arbaiún.**
 ### Dónde dormir
 
 Navarra dispone de un amplio abanico de propuestas de alojamiento entre las que destacan 
-las {{< reflink path=posts/2023/10/iratiko-kabiak-cabanas-arboles-irati >}}, situadas a 
-un paso de Orbaizeta y de la Selva de Irati; el [hotel Heredad 
-Beragu](https://www.heredadberaguhotel.com/), en Gallipienzo Antiguo, lleno de encanto, 
-con un buen restaurante y un entorno espectacular; y la **Hospedería Santa Fe** 
-(santafehospederia.com), con unas instalaciones sencillas, pero rodeada de paz y 
-naturaleza, además de un restaurante abierto al público. 
+las [Cabañas en los árboles de Iratiko Kabiak]({{% ref 
+iratiko-kabiak-cabanas-arboles-irati %}}), situadas a un paso de Orbaizeta y de la Selva 
+de Irati; el [hotel Heredad Beragu](https://www.heredadberaguhotel.com/), en Gallipienzo 
+Antiguo, lleno de encanto, con un buen restaurante y un entorno espectacular; y la 
+**Hospedería Santa Fe** (santafehospederia.com), con unas instalaciones sencillas, pero 
+rodeada de paz y naturaleza, además de un restaurante abierto al público. 
 
 ### Dónde comer
 
@@ -253,7 +253,6 @@ Navarra](https://www.visitnavarra.es/es/)
 
 ✅ **También te puede interesar...** 
 
-{{< reflink path=posts/2021/02/navarra-en-familia-tierra-estella-y-tierras-de-iranzu 
->}}. 
+{{< reflink navarra-en-familia-tierra-estella-y-tierras-de-iranzu >}}. 
 
-{{< reflink path=posts/2020/10/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}.
+{{< reflink que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}.

@@ -204,10 +204,10 @@ Cruceros](https://www.costacruceros.es/).
 
 ### Sigue leyendo sobre cruceros...
 
-{{< reflink path=posts/2020/03/viaje-mujeres-crucero-patagonia-chilena-magallanes >}}. 
+{{< reflink viaje-mujeres-crucero-patagonia-chilena-magallanes >}}. 
 
-{{< reflink path=posts/2019/09/crucero-por-el-mekong-excursiones-vietnam-y-camboya >}}. 
+{{< reflink crucero-por-el-mekong-excursiones-vietnam-y-camboya >}}. 
 
-{{< reflink path=posts/2021/02/como-organizar-viaje-en-crucero-puertos-excursiones >}}. 
+{{< reflink como-organizar-viaje-en-crucero-puertos-excursiones >}}. 
 
-{{< reflink path=posts/2020/07/crucero-fluvial-por-el-guadalquivir-andalucia >}}.
+{{< reflink crucero-fluvial-por-el-guadalquivir-andalucia >}}.

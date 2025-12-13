@@ -23,8 +23,8 @@ mitad del hielo en Finlandia**. Aunque pueda parecer un poco desconcertante, es 
 práctica habitual en el norte de Europa y que genera grandes beneficios físicos y 
 mentales. ¿Te animarías? 
 
-**No te pierdas:** {{< reflink 
-path=posts/2019/10/siete-excursiones-en-laponia-finlandesa >}}. 
+**No te pierdas:** [7 excursiones ideales en la Laponia finlandesa]({{% ref 
+siete-excursiones-en-laponia-finlandesa %}}). 
 
 ## Un baño helado en Finlandia
 
@@ -122,6 +122,6 @@ Finlandia](https://finland.fi/).
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/10/que-hacer-en-finlandia-en-invierno >}} 
+{{< reflink que-hacer-en-finlandia-en-invierno >}} 
 
-{{< reflink path=posts/2019/07/viaje-finlandia-mujeres-artistas-suomi-y-sami >}}
+{{< reflink viaje-finlandia-mujeres-artistas-suomi-y-sami >}}

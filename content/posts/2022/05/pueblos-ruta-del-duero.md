@@ -117,12 +117,11 @@ de interpretación del yacimiento arqueológico de Pintia.
 
 En una escapada de finde, nos merecemos una buena cena, un buen alojamiento y ¡un buen 
 desayuno! Este 3 x 1 está en el monasterio cisterciense del siglo XII de Santa María de 
-Valbuena, convertido en hotel de lujo, gestionado por {{< reflink 
-path=posts/2021/10/castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero >}} 
-y que se encuentra en Valbuena de Duero. Tiene un completísimo spa con aguas 
-mineromedicinales. Además, tenemos la garantía de que sus fogones están asesorados por 
-la sabiduría culinaria del chef Miguel Ángel de la Cruz, flamante estrella Michelin 
-2022. 
+Valbuena, convertido en hotel de lujo, gestionado por [Castilla Termal]({{% ref 
+castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero %}}) y que se 
+encuentra en Valbuena de Duero. Tiene un completísimo spa con aguas mineromedicinales. 
+Además, tenemos la garantía de que sus fogones están asesorados por la sabiduría 
+culinaria del chef Miguel Ángel de la Cruz, flamante estrella Michelin 2022. 
 
 El monasterio es, además, la sede permanente de la **Fundación Las Edades del Hombre**, 
 la sobresaliente iniciativa que desde 1988 expone cíclicamente las piezas más 
@@ -194,10 +193,8 @@ inyección de felicidad.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2018/05/ruta-del-vino-ribera-del-duero-valladolid >}}. 
+{{< reflink ruta-del-vino-ribera-del-duero-valladolid >}}. 
 
-{{< reflink 
-path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
->}}. 
+{{< reflink viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon >}}. 
 
-{{< reflink path=posts/2021/04/32-excursiones-de-un-dia-en-rutas-vino-espana >}}.
+{{< reflink 32-excursiones-de-un-dia-en-rutas-vino-espana >}}.

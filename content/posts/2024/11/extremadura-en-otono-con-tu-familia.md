@@ -136,9 +136,8 @@ experiencias turísticas.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/09/10-motivos-para-viajar-a-la-siberia-extremena >}} 
+{{< reflink 10-motivos-para-viajar-a-la-siberia-extremena >}} 
 
-{{< reflink path=posts/2020/07/viajes-espana-las-hurdes-un-paraiso-extremeno >}} 
+{{< reflink viajes-espana-las-hurdes-un-paraiso-extremeno >}} 
 
-{{< reflink 
-path=posts/2020/06/viajes-por-espana-alle-del-jerte-piscinas-naturales-cerezas >}}
+{{< reflink viajes-por-espana-alle-del-jerte-piscinas-naturales-cerezas >}}

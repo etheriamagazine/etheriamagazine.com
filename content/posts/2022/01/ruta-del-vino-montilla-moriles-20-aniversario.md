@@ -46,12 +46,12 @@ Santaella.
 Adentrarse en la Ruta del Vino Montilla-Moriles permite disfrutar de un extraordinario 
 legado cultural, histórico, arquitectónico, artístico y etnográfico. Por el territorio 
 de esta ruta también transcurren otros itinerarios como la _**Ruta del Califato**, la 
-Ruta Bética Romana, la Ruta del Renacimiento, la {{< reflink 
-path=posts/2019/12/caminos-pasion-ruta-10-pueblos-de-andalucia >}}, la Ruta del Aceite 
-de Oliva de Córdoba, Camino de Santiago Mozárabe o la Ruta de los Territorios 
-Flamencos_. Esto nos da idea de la riqueza inigualable de la Ruta del Vino Montilla 
-Moriles, donde la tradición artesanal mantiene vivos antiguos oficios como cerámica, 
-joyería, orfebrería.., o vinculados al mundo del vino, como la **tonelería** y la 
+Ruta Bética Romana, la Ruta del Renacimiento, la [Ruta de Caminos de Pasión]({{% ref 
+caminos-pasion-ruta-10-pueblos-de-andalucia %}}), la Ruta del Aceite de Oliva de 
+Córdoba, Camino de Santiago Mozárabe o la Ruta de los Territorios Flamencos_. Esto nos 
+da idea de la riqueza inigualable de la Ruta del Vino Montilla Moriles, donde la 
+tradición artesanal mantiene vivos antiguos oficios como cerámica, joyería, 
+orfebrería.., o vinculados al mundo del vino, como la **tonelería** y la 
 **hojalatería**. 
 
 ![tren turistico lagar el monte montilla moriles](https://fotos.etheriamagazine.com/2022/01/Tren-turistico-Lagar-El-Monte.jpg "Tren turístico de las Bodegas Lagar El Monte.")
@@ -140,8 +140,8 @@ España](https://wineroutesofspain.com/).
 
 ### También en Etheria Magazine
 
-{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}. 
+{{< reflink consejos-rutas-andalucia-en-autocaravana >}}. 
 
-{{< reflink path=posts/2021/07/experiencias-para-conectar-con-andalucia >}}. 
+{{< reflink experiencias-para-conectar-con-andalucia >}}. 
 
-{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}.
+{{< reflink plan-con-amigas-ruta-del-vino-sierra-de-francia >}}.

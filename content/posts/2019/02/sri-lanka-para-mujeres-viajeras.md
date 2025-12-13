@@ -159,8 +159,8 @@ festividad, que en 2019 se celebrará del 7 al 17 de julio, no te lo pierdas.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/10/viajar-sola-o-con-amigas-a-india >}} 
+{{< reflink viajar-sola-o-con-amigas-a-india >}} 
 
-{{< reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}} 
+{{< reflink viaje-para-mujeres-que-ver-norte-india-rajastan >}} 
 
-{{< reflink path=posts/2021/03/guia-que-hacer-en-maldivas-buceo-surf >}}
+{{< reflink guia-que-hacer-en-maldivas-buceo-surf >}}

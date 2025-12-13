@@ -21,7 +21,7 @@ Participar es muy sencillo.
 
 3\. Las fechas de participación son **entre el 17 y el 27 de octubre**.
 
-4\. El premio consiste en 2 noches en el {{< reflink path=posts/2019/10/escapada-hotel-romantico-marrakech-riad-belle-epoque >}}. Recuerda que no incluye vuelos ni traslados.
+4\. El premio consiste en 2 noches en el [hotel Belle Epoque de Marrakech]({{% ref escapada-hotel-romantico-marrakech-riad-belle-epoque %}}). Recuerda que no incluye vuelos ni traslados.
 
 5\. El Ganador se hará público el día 29 de octubre de 2019.
 

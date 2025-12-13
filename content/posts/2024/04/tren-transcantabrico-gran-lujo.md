@@ -33,11 +33,11 @@ ferroviario nacional, hizo una fuerte apuesta por recrear el atractivo ambiente 
 trenes de la _Belle Époque_. FEVE, la compañía de ferrocarriles de vía estrecha, fue la 
 encargada de gestionarlo hasta 2013, cuando se integró en Renfe. Una curiosidad de este 
 tren es que su nombre, **El Transcantábrico**, viene de la obra homónima de Juan Pedro 
-Aparicio, un escritor leonés que relataba {{< reflink 
-path=posts/2018/06/viajes-en-tren-espana-con-renfe-el-expreso-de-la-robla >}}, el 
-antiguo tren de pasajeros que circulaba diariamente entre León y Bilbao por la histórica 
-línea de La Robla. Un trayecto creado para transportar carbón de las cuencas leonesas y 
-palentinas hasta las factorías siderúrgicas de Bilbao. 
+Aparicio, un escritor leonés que relataba [un viaje del Hullero]({{% ref 
+viajes-en-tren-espana-con-renfe-el-expreso-de-la-robla %}}), el antiguo tren de 
+pasajeros que circulaba diariamente entre León y Bilbao por la histórica línea de La 
+Robla. Un trayecto creado para transportar carbón de las cuencas leonesas y palentinas 
+hasta las factorías siderúrgicas de Bilbao. 
 
 ![Panorámica de El Transcantábrico Gran Lujo a su paso por la ría de Navia.](https://fotos.etheriamagazine.com/2024/04/Tren-Transcantabrico-GL.jpg "Panorámica de El Transcantábrico Gran Lujo a su paso por la ría de Navia. © Renfe")
 

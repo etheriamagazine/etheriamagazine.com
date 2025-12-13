@@ -59,15 +59,15 @@ Facebook y de Youtube (en los enlaces añadidos).
 ## San Patricio en Dublín
 
 Las grandes celebraciones que os contábamos en Etheria Magazine en 2019 (ver artículo: 
-{{< reflink path=posts/2024/03/celebrar-san-patricio-dublin >}}) este año no se podrán 
-realizar pero sí que hay nuevas propuestas virtuales y creativas. Una de las más 
-sorprendentes es el espectáculo '**Orchestra of Light**' (vídeo superior) en el que unos 
-500 drones sobrevuelan el cielo de Dublín para ofrecer un espectáculo sin precedentes 
-(no es en directo). Los drones recorren el cielo nocturno de la capital irlandesa 
-iluminando monumentos tan conocidos como el puente Samuel Beckett sobre el río Liffey, y 
-generando símbolos de la cultura musical y del baile tradicional en Irlanda. Todo ello, 
-con música de fondo de la compositora irlandesa **Eimear Noone** y su marido **Craig 
-Stuart Garfinkle**. 
+[En San Patricio se brinda con Guinness]({{% ref celebrar-san-patricio-dublin %}})) este 
+año no se podrán realizar pero sí que hay nuevas propuestas virtuales y creativas. Una 
+de las más sorprendentes es el espectáculo '**Orchestra of Light**' (vídeo superior) en 
+el que unos 500 drones sobrevuelan el cielo de Dublín para ofrecer un espectáculo sin 
+precedentes (no es en directo). Los drones recorren el cielo nocturno de la capital 
+irlandesa iluminando monumentos tan conocidos como el puente Samuel Beckett sobre el río 
+Liffey, y generando símbolos de la cultura musical y del baile tradicional en Irlanda. 
+Todo ello, con música de fondo de la compositora irlandesa **Eimear Noone** y su marido 
+**Craig Stuart Garfinkle**. 
 
 ![san patricio eventos virtuales](https://fotos.etheriamagazine.com/2021/03/san-patricio-virtual.jpg "Este 2021 San Patricio se celebra en casa. © Adam Weldon")
 
@@ -88,6 +88,6 @@ con el movimiento independentista de los irlandeses.
 
 **Más artículos de Irlanda...** 
 
-{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}}. 
+{{< reflink 8-visitas-increibles-en-irlanda-del-norte >}}. 
 
-{{< reflink path=posts/2020/04/viaje-sligo-ruta-yeats-maud-gonne >}}.
+{{< reflink viaje-sligo-ruta-yeats-maud-gonne >}}.

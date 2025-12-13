@@ -18,10 +18,10 @@ disponibles para toda la familia.
 ![objetivo marte, futuroscope 2020](https://fotos.etheriamagazine.com/2020/02/Futuroscope-objetivo-marte.jpg "Objetivo Marte, la nueva atracción de Futuroscope en 2020. © Calune, Glory Paris, D LAMING, AEROPHILE - Futuroscope")
 
 Un parque de las dimensiones de Futuroscope requiere de una buena planificación, sobre 
-todo si se viaja con niños pequeños, pero de eso ya os hemos hablado ({{< reflink 
-path=posts/2018/08/10-consejos-futuroscope >}}), así que nos centraremos en **Objetivo 
-Marte** y en otras atracciones que son, desde nuestro punto de vista, las mejores para 
-toda la familia. 
+todo si se viaja con niños pequeños, pero de eso ya os hemos hablado ([10 consejos para 
+aprovechar una visita a Futuroscope]({{% ref 10-consejos-futuroscope %}})), así que nos 
+centraremos en **Objetivo Marte** y en otras atracciones que son, desde nuestro punto de 
+vista, las mejores para toda la familia. 
 
 ## Qué visitar en Futuroscope
 
@@ -142,4 +142,4 @@ parque en menos de 10 minutos a pie. Uno de ellos, además, el **Hotel Du Futuro
 No te pierdas los consejos, precios y datos prácticos que te ofrecemos en esta 
 actualización de Futuroscope: 
 
-{{< reflink path=posts/2022/03/novedades-futuroscope-2022 >}}.
+{{< reflink novedades-futuroscope-2022 >}}.

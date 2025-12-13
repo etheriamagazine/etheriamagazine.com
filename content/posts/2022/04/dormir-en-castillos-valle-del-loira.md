@@ -141,8 +141,8 @@ para visitar esta ciudad y sus alrededores.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/08/valle-del-loira-entre-castillos-y-jardines >}} 
+{{< reflink valle-del-loira-entre-castillos-y-jardines >}} 
 
-{{< reflink path=posts/2019/03/que-ver-ruta-en-coche-valle-del-loira >}} 
+{{< reflink que-ver-ruta-en-coche-valle-del-loira >}} 
 
-{{< reflink path=posts/2021/08/relais-de-chambord-hotel-lujo-valle-del-loira >}}
+{{< reflink relais-de-chambord-hotel-lujo-valle-del-loira >}}

@@ -56,8 +56,8 @@ modos de vida en los que hoy podemos adentrarnos.
 Los **piques arquitectónicos** entre los comerciantes más adinerados de la ciudad dieron 
 como resultado una urbe repleta de majestuosos templos. 
 
-✅ No te pierdas ningún detalle en nuestro artículo {{< reflink 
-path=posts/2019/02/que-ver-en-lucca >}} 
+✅ No te pierdas ningún detalle en nuestro artículo [¿Por qué Lucca es una parada 
+obligada en la Toscana?]({{% ref que-ver-en-lucca %}}) 
 
 ![torre guinigui en Lucca](https://fotos.etheriamagazine.com/2019/09/viaje-lucca-mujeres-torre-guinigui.jpg "¿Subirías a pie los más de 200 escalones de la Torre Guinigi? ©KR")
 

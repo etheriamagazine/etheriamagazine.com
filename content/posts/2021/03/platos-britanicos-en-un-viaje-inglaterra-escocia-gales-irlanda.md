@@ -211,11 +211,10 @@ o que vas a pasar hambre en tus vacaciones?
 
 **También te puede interesar...** 
 
-{{< reflink 
-path=posts/2019/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}}. 
+{{< reflink de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}}. 
 
-{{< reflink path=posts/2020/09/mejor-ruta-3-dias-highlands-tierras-altas-escocia >}}. 
+{{< reflink mejor-ruta-3-dias-highlands-tierras-altas-escocia >}}. 
 
-{{< reflink path=posts/2020/12/diez-peliculas-rodadas-en-londres >}}. 
+{{< reflink diez-peliculas-rodadas-en-londres >}}. 
 
-{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}}.
+{{< reflink 8-visitas-increibles-en-irlanda-del-norte >}}.

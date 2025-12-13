@@ -23,7 +23,8 @@ listas de lugares para escaparse unos días en la época estival y disfrutar de 
 entorno, su playa y su gastronomía. Pero es una localidad que puede visitarse durante 
 todo el año y si te escapas en otoño o primavera, la disfrutarás mucho más tranquila. 
 
-✅ **NO PIERDAS:** {{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}} 
+✅ **NO PIERDAS:** [La mejor guía de CÁDIZ PROVINCIA para organizar tu viaje: pueblos y 
+visitas de interés (con mapa incluido).]({{% ref pueblos-que-ver-en-cadiz %}}) 
 
 ![fachada de Vejer de la Frontera con macetas de colores](https://fotos.etheriamagazine.com/2020/08/vejer-macetas.jpg "Fachada vejeriega. © SG")
 
@@ -174,10 +175,9 @@ por Vejer de la Frontera (90 euros el grupo completo).
 
 📌 **También te puede interesar**: 
 
-{{< reflink path=posts/2021/07/los-mejores-planes-en-conil-con-amigas >}} 
+{{< reflink los-mejores-planes-en-conil-con-amigas >}} 
 
-{{< reflink path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia 
->}} 
+{{< reflink guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}} 
 
-{{< reflink path=posts/2020/07/viajes-por-espana-tarifa-con-amigas-aires-de-windsurf 
->}}{{< reflink path=posts/2023/08/mejores-excursiones-desde-conil >}}
+[]({{% ref viajes-por-espana-tarifa-con-amigas-aires-de-windsurf %}})[Excursiones 
+ideales desde Conil de la Frontera]({{% ref mejores-excursiones-desde-conil %}})

@@ -164,5 +164,5 @@ feria a lo largo de su trayectoria, y ser√°n invitadas a participar en la secci√
 
 [ARCO MADRID 2021](http://www.ifema.es/arco-madrid). Del 7 al 11 de julio de 2021 
 
-Sigue leyendo sobre TEFAF en "{{< reflink 
-path=posts/2019/03/que-ver-maastricht-lujo-tefaf >}}".
+Sigue leyendo sobre TEFAF en "[Fin de semana de lujo en Maastrich: la bombonera del 
+arte]({{% ref que-ver-maastricht-lujo-tefaf %}})".

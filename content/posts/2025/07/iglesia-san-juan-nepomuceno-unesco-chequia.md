@@ -158,6 +158,6 @@ las vistas panorámicas de Zelená Hora.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2024/05/organizar-chequia-en-coche-7-dias >}}. 
+{{< reflink organizar-chequia-en-coche-7-dias >}}. 
 
-{{< reflink path=posts/2022/08/que-ver-brno-chequia >}}.
+{{< reflink que-ver-brno-chequia >}}.

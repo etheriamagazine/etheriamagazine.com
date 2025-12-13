@@ -26,7 +26,7 @@ tardando en preparar tu primera aventura a África. Te aseguramos que no te defr
 
 Es para muchos la puerta de entrada al mundo de los safaris en África, esa que provoca 
 el enamoramiento inmediato de los paisajes de este continente. Un [safari en 
-Kenia]({{% ref 10-flechazos-para-viajar-a-kenia %}}) te da la 
+Kenia](http://etheriamagazine.com/2018/10/25/10-flechazos-para-viajar-a-kenia/) te da la 
 oportunidad de conocer lugares míticos como el Masai Mara o el lago Nakuru con una 
 infraestructura turística asentada y con solera. No te pierdas lugares como las montañas 
 de Aberdare, el Parque Nacional de Samburu o la reserva privada de Solio Ranch, con la 
@@ -37,7 +37,7 @@ mayor población de rinocerontes del mundo.
 ## 2\. Viajar a Uganda para ver a los gorilas
 
 Los viajes a 
-[Uganda]({{% ref viajar-sola-naturaleza-gorilas-uganda %}}) 
+[Uganda](http://etheriamagazine.com/2019/04/18/viajar-sola-naturaleza-gorilas-uganda/) 
 para ver gorilas en libertad conservan ese halo de expedición y aventura que es tan 
 difícil de encontrar hoy en día. Todo es emocionante en este viaje, desde la preparación 
 y los consejos del ranger hasta el camino, primero en 4x4 y luego caminando hasta llegar 
@@ -49,7 +49,7 @@ podrás olvidar jamás.
 ## 3\. Descansar en Zanzíbar
 
 La isla de 
-[Zanzíbar]({{% ref mujeres-que-viajan-a-zanzibar-que-ver-en-tanzania %}}) 
+[Zanzíbar](http://etheriamagazine.com/2018/11/30/mujeres-que-viajan-a-zanzibar-que-ver-en-tanzania/) 
 es, probablemente, uno de los lugares más exóticos del mundo. Además, está llena de 
 historias y leyendas de mercaderes y sultanes que confieren a este rincón del océano 
 Índico un carácter especial. No te pierdas los rincones llenos de encanto que ofrece 
@@ -61,7 +61,7 @@ rojos.
 ## 4\. Un safari en Botsuana
 
 Un [safari en 
-Botsuana]({{% ref botsuana-10-razones-para-sentirte-la-reina-de-africa %}}) 
+Botsuana](http://etheriamagazine.com/2018/11/22/botsuana-10-razones-para-sentirte-la-reina-de-africa/) 
 permite disfrutar del África más auténtica y de unos paisajes increíbles. Cuenta con la 
 mayor concentración de vida salvaje del continente, que podrás descubrir en el Parque 
 Nacional del río Chobe con tres modalidades de safari: en vehículo, a pie y por el río. 
@@ -72,7 +72,7 @@ Nacional del río Chobe con tres modalidades de safari: en vehículo, a pie y po
 
 Si eres de las que ya has viajado varias veces al continente africano y buscas algo 
 diferente, 
-[Gambia]({{% ref gambia-un-destino-seguro-para-viajeras-aventureras %}}) 
+[Gambia](http://etheriamagazine.com/2018/11/07/gambia-un-destino-seguro-para-viajeras-aventureras/) 
 te sorprenderá. Destacan sus inmensas playas que hacen de él un destino perfecto para 
 descansar y desconectar de todo. Si quieres moverte por el país es totalmente seguro y 
 ofrece lugares como la laguna de cocodrilos de Kachikally, las ruinas de Fort James o el 
@@ -83,9 +83,8 @@ sorprender por su gastronomía!
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/07/ruta-costera-sudafrica >}} 
+{{< reflink ruta-costera-sudafrica >}} 
 
-{{< reflink path=posts/2023/06/viajar-sola-a-namibia >}} 
+{{< reflink viajar-sola-a-namibia >}} 
 
-{{< reflink 
-path=posts/2020/10/final-real-memorias-de-africa-baronesa-blixen-beryl-markham >}}
+{{< reflink final-real-memorias-de-africa-baronesa-blixen-beryl-markham >}}

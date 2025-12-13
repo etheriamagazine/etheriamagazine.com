@@ -148,9 +148,9 @@ Más información:
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/11/alemania-en-navidad-tradiciones-y-adviento >}} 
+{{< reflink alemania-en-navidad-tradiciones-y-adviento >}} 
 
-{{< reflink path=posts/2024/12/berlin-en-navidad >}} 
+{{< reflink berlin-en-navidad >}} 
 
-{{< reflink path=posts/2021/08/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable 
->}}
+[Múnich y Bad Wörishofen, la Alemania más verde y saludable]({{% ref 
+munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable %}})

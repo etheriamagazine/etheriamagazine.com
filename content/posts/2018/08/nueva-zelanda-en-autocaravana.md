@@ -245,9 +245,8 @@ Zealand](https://www.newzealand.com/int/).
 
 📌 **También te puede interesar:** 
 
-{{< reflink 
-path=posts/2019/08/viaja-sola-a-nueva-zelanda-y-disfruta-de-la-naturaleza-trekking >}} 
+{{< reflink viaja-sola-a-nueva-zelanda-y-disfruta-de-la-naturaleza-trekking >}} 
 
-{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}} 
+{{< reflink consejos-rutas-andalucia-en-autocaravana >}} 
 
-{{< reflink path=posts/2020/07/5-rutas-en-auto-caravana-por-espana >}}
+{{< reflink 5-rutas-en-auto-caravana-por-espana >}}

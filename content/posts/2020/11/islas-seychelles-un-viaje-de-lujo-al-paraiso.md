@@ -212,6 +212,6 @@ Covid](http://www.exteriores.gob.es/Portal/es/ServiciosAlCiudadano/SiViajasAlExt
 
 #### También te puede interesar...
 
-{{< reflink path=posts/2018/08/viajar-sola-a-islas-bahamas >}}. 
+{{< reflink viajar-sola-a-islas-bahamas >}}. 
 
-{{< reflink path=posts/2019/03/viajes-mujeres-mejores-planes-en-mauricio >}}.
+{{< reflink viajes-mujeres-mejores-planes-en-mauricio >}}.

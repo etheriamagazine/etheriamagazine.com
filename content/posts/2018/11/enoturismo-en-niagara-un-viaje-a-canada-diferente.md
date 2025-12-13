@@ -150,7 +150,6 @@ www.niagaraicewinefestival.com
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2020/01/ruta-enoturismo-con-amigas-california-napa-valley-sonoma 
->}} 
+{{< reflink ruta-enoturismo-con-amigas-california-napa-valley-sonoma >}} 
 
-{{< reflink path=posts/2021/04/32-excursiones-de-un-dia-en-rutas-vino-espana >}}
+{{< reflink 32-excursiones-de-un-dia-en-rutas-vino-espana >}}

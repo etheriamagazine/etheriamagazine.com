@@ -222,6 +222,6 @@ quieres hacer una excursión a Porto Santo es recomendable alargar la estancia a
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/04/viajar-con-amigas-que-ver-madeira >}}. 
+{{< reflink viajar-con-amigas-que-ver-madeira >}}. 
 
-{{< reflink path=posts/2019/02/que-ver-porto-santo-madeira >}}.
+{{< reflink que-ver-porto-santo-madeira >}}.

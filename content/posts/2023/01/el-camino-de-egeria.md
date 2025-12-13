@@ -25,11 +25,10 @@ que tengamos noticia.
 Una suerte de preludio a la puesta en marcha del proyecto 'El Camino de Egeria' tuvo 
 lugar, a mediados del pasado diciembre, en un salón de Amán repleto de turoperadores, 
 agencias y guías turísticos locales. Quien esto escribe tuvo ocasión de trazar ante tal 
-auditorio una semblanza _verosímil_ de {{< reflink 
-path=posts/2018/06/etheria-la-primera-viajera >}}: una **matrona pudiente y culta** (¡no 
-una monja!), posiblemente noble o perteneciente a una familia aristocrática, ni joven ni 
-mayor, intrépida, valiente, curiosa, movida tanto por la piedad religiosa como por el 
-puro deseo de conocer. 
+auditorio una semblanza _verosímil_ de [Egeria]({{% ref etheria-la-primera-viajera %}}): 
+una **matrona pudiente y culta** (¡no una monja!), posiblemente noble o perteneciente a 
+una familia aristocrática, ni joven ni mayor, intrépida, valiente, curiosa, movida tanto 
+por la piedad religiosa como por el puro deseo de conocer. 
 
 ![Distintas visitas del Camino de Egeria](https://fotos.etheriamagazine.com/2023/01/camino-egeria-primera-etapa.jpg "Dama y obispo del siglo IV, en Festival Tarraco Viva. Maison Carrée, en Nimes, Via Domitia. Obelisco romano de Constantinopla. Heliópolis, camino a Jerusalén. © Carlos Pascual")
 

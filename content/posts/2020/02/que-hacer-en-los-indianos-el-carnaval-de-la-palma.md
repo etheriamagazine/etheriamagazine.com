@@ -30,8 +30,8 @@ carácter pacífico de sus **indígenas auaritas**, aunque eso no impide que tam
 buscavidas por su pasado marinero y pirata. La elegancia de **Santa Cruz**, su capital, 
 refleja el importante papel que desempeñó La Palma en la era **colonial**. A este cóctel 
 hay que añadir que la isla vive, como todo el archipiélago canario, en una **eterna 
-primavera**. En Etheria Magazine ya te advertimos del peligro adictivo que tiene {{< 
-reflink path=posts/2019/04/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias >}}. 
+primavera**. En Etheria Magazine ya te advertimos del peligro adictivo que tiene [La 
+Palma]({{% ref la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias %}}). 
 
 ![carnaval indianos, la palma](https://fotos.etheriamagazine.com/2020/01/las-palmas-carnaval-indianos-origen.jpg "Los coloridos balcones del Paseo Marítimo de Santa Cruz de La Palma forman un photocall ideal. © KR")
 
@@ -159,6 +159,6 @@ tipo de información práctica para organizar tu próximo viaje a la isla.
 
 ### Además de Los Indianos, te puede interesar
 
-{{< reflink path=posts/2021/11/10-razones-para-visitar-la-palma >}}. 
+{{< reflink 10-razones-para-visitar-la-palma >}}. 
 
-{{< reflink path=posts/2021/04/10-secretos-para-conocer-la-isla-de-la-palma >}}.
+{{< reflink 10-secretos-para-conocer-la-isla-de-la-palma >}}.

@@ -24,9 +24,8 @@ particulares a través de la red del mismo nombre) que, además de ahorrar, perm
 conocer gente local en el lugar que vas a visitar. Panamá es un país perfecto para esta 
 experiencia, pero lo que sin duda te dejará sin palabras son los paisajes y la práctica 
 del submarinismo en Bocas del Toro y el archipiélago de San Blas. Sigue leyendo el 
-artículo completo de {{< reflink 
-path=posts/2019/07/viajar-sola-panama-couchsurfing-panama-bocas-del-toro-archipielago-san-blas 
->}}. 
+artículo completo de [Viajar sola a Panamá]({{% ref 
+viajar-sola-panama-couchsurfing-panama-bocas-del-toro-archipielago-san-blas %}}). 
 
 ![Flores en Mildford Sound, en Nueva Zelanda](https://fotos.etheriamagazine.com/2019/07/Nueva-Zelanda-flores-Mildford-Sound.jpg "Flores en Mildford Sound (Nueva Zelanda). © Aneta Foubikova")
 
@@ -36,9 +35,9 @@ A veces los destinos lejanos pueden parecer inabarcables en un solo viaje, en es
 merece la pena centrar la ruta en un lugar o una actividad. En este viaje de trekking 
 por Nueva Zelanda (uno de los países más seguros del mundo) proponemos dos actividades 
 muy concretas: una ruta de cuatro días por el fiordo Mildford Sound y otra de una 
-jornada por el Parque Nacional Tongariro. Sigue leyendo el artículo completo de {{< 
-reflink 
-path=posts/2019/08/viaja-sola-a-nueva-zelanda-y-disfruta-de-la-naturaleza-trekking >}}. 
+jornada por el Parque Nacional Tongariro. Sigue leyendo el artículo completo de [Viajar 
+sola a Nueva Zelanda]({{% ref 
+viaja-sola-a-nueva-zelanda-y-disfruta-de-la-naturaleza-trekking %}}). 
 
 ![Barca en el lago Atitlán.](https://fotos.etheriamagazine.com/2020/01/Guatemala-lago-atitlan-flores.jpg "Barca en el lago Atitlán.")
 
@@ -48,8 +47,8 @@ Viajar sola de pueblo en pueblo por el lago Atitlán de Guatemala es una experie
 increíble, tanto por sus paisajes naturales como por la oportunidad que ofrece de 
 desconectar de todo. Rodeada de volcanes conocerás lugares como Panajachel, Santiago 
 Atitlán o San Pedro La Laguna y no sabrás cual de estos pueblos te gusta más. Sigue 
-leyendo el artículo completo de {{< reflink 
-path=posts/2021/02/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala >}}. 
+leyendo el artículo completo de [Viajar sola a Guatemala (lago Atitlán)]({{% ref 
+viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala %}}). 
 
 ![Elefantes en Sri Lanka.](https://fotos.etheriamagazine.com/2019/01/Viajes-mujeres-Sri-lanka-2.jpg "Elefantes en Sri Lanka. © David Santiago")
 
@@ -58,8 +57,8 @@ path=posts/2021/02/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala >}}.
 Sri Lanka es uno de esos países que tienen que estar en la agenda de toda mujer viajera 
 que ame la naturaleza. Algunas paradas obligadas si buscas conocer el lado más natural 
 del país son el orfanato de elefantes de Pinnawela, el pueblo de Rambukana y los Parques 
-Nacionales de Uda Walewe y Minneriya. Sigue leyendo el artículo completo de {{< reflink 
-path=posts/2019/02/sri-lanka-para-mujeres-viajeras >}}. 
+Nacionales de Uda Walewe y Minneriya. Sigue leyendo el artículo completo de [Viajar sola 
+o en compañía a Sri Lanka]({{% ref sri-lanka-para-mujeres-viajeras %}}). 
 
 ![A las palmeras de Salento (Eje Cafetero de Colombia) se las conoce como 'bailarinas del viento'.](https://fotos.etheriamagazine.com/2019/01/Colombia-Valle-Cocora.jpg "A las palmeras de Salento (Eje Cafetero de Colombia) se las conoce como 'bailarinas del viento'.")
 
@@ -69,8 +68,8 @@ Colombia es un país con una riqueza natural increíble. En esta ruta por el Eje
 recorrerás paisajes llenos de paz y localidades como Salento y Manizales. No te pierdas 
 el Parque Nacional Natural de Los Nevados, situado sobre una planicie de la Cordillera 
 Central de los Andes colombianos, ni el Parque Nacional del Café, en Montenegro. Sigue 
-leyendo el artículo completo de {{< reflink 
-path=posts/2019/01/viajar-sola-al-eje-cafetero-colombia >}}. 
+leyendo el artículo completo de [Viajar sola a Colombia (Eje Cafetero)]({{% ref 
+viajar-sola-al-eje-cafetero-colombia %}}). 
 
 ![Senderistas en los bancales de arroz de la Columna del Dragón (Guangxi).](https://fotos.etheriamagazine.com/2019/12/viaje-china-senderismo-colinas-guangxi.jpg "Senderistas en los bancales de arroz de la Columna del Dragón (Guangxi). © David Santiago")
 
@@ -80,8 +79,8 @@ El tamaño de China requiere de varios viajes para conocerla, aunque sea lo más
 uno de ellos debería ser **Guangxi**, famosa por sus paisajes kársticos y sus idílicos 
 ríos. Un lugar al margen de las rutas más turísticas donde descubrir una zona rural con 
 bancales de arroz, pesca tradicional en los ríos y una población que vive al margen de 
-las grandes urbes chinas. Sigue leyendo el artículo completo de {{< reflink 
-path=posts/2019/12/que-hacer-en-guangxi-viaja-sola-china >}}. 
+las grandes urbes chinas. Sigue leyendo el artículo completo de [Viajar sola a China 
+(Guangxi)]({{% ref que-hacer-en-guangxi-viaja-sola-china %}}). 
 
 ![Salar de Uyuni.](https://fotos.etheriamagazine.com/2019/05/viajar-sola-salar-uyuni.jpg "Salar de Uyuni. © Alan Hurt Jr.")
 
@@ -91,8 +90,9 @@ Visitar el inmenso Salar de Uyuni es una de las experiencias viajeras que no se 
 pero es imprescindible organizar bien la visita. En este artículo Elisabeth G. Iborra te 
 da todas las pistas para no perderte nada, como la gruta de las Galaxias, la laguna 
 Colorada y el ‘ejército de los soldados de piedra’, además de alertar sobre algunos 
-problemas que pueden surgir. Sigue leyendo el artículo completo de {{< reflink 
-path=posts/2019/05/ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta >}}. 
+problemas que pueden surgir. Sigue leyendo el artículo completo de [Viajar sola a 
+Bolivia (Salar de Uyuni)]({{% ref 
+ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta %}}). 
 
 ![Esnórquel en la Isla Perhentian (Malasia).](https://fotos.etheriamagazine.com/2019/04/malasia-isla-perhentian.jpg "Esnórquel en la Isla Perhentian (Malasia). © David Santiago")
 
@@ -102,21 +102,21 @@ Aunque es un destino bastante desconocido para las viajeras españolas, Malasia 
 los mejores lugares para comenzar a viajar sola. Su gran diversidad hará que no te 
 aburras ni un momento: en la **isla Palau Tioman** disfrutarás tanto con su frondosa 
 selva como con sus increíbles fondos marinos y querrás quedarte en las playas de las 
-**islas Perhentian**. Sigue leyendo el artículo completo de {{< reflink 
-path=posts/2019/04/viajar-sola-malasia-pulau-tioman-perhentian >}}. 
+**islas Perhentian**. Sigue leyendo el artículo completo de [Viajar sola a Malasia]({{% 
+ref viajar-sola-malasia-pulau-tioman-perhentian %}}). 
 
 ![El buque de Navimag atraviesa los canales chilenos.](https://fotos.etheriamagazine.com/2019/03/crucero-patagonia-chile.jpg "El buque de Navimag atraviesa los canales chilenos. © Navimag")
 
 ## 9\. Crucero por la Patagonia chilena
 
-Un crucero por los fiordos y canales de la {{< reflink 
-path=posts/2019/03/viajar-sola-crucero-fiordos-canales-patagonia-chile >}} es una manera 
-diferente de viajar y perfecta para conocer gente mientras recorres uno de los paisajes 
-más increíbles del planeta. En este caso la propuesta es a bordo de Navimag, unos 
-ferries perfectamente equipados (en los que puedes incluso compartir camarote a modo de 
+Un crucero por los fiordos y canales de la [Patagonia chilena]({{% ref 
+viajar-sola-crucero-fiordos-canales-patagonia-chile %}}) es una manera diferente de 
+viajar y perfecta para conocer gente mientras recorres uno de los paisajes más 
+increíbles del planeta. En este caso la propuesta es a bordo de Navimag, unos ferries 
+perfectamente equipados (en los que puedes incluso compartir camarote a modo de 
 albergue), y que cuentan con charlas de especialistas a bordo. Sigue leyendo el artículo 
-completo de {{< reflink 
-path=posts/2019/03/viajar-sola-crucero-fiordos-canales-patagonia-chile >}}. 
+completo de [Viajar sola a Chile (crucero Patagonia chilena)]({{% ref 
+viajar-sola-crucero-fiordos-canales-patagonia-chile %}}). 
 
 ![Relax en Shigira Beach.](https://fotos.etheriamagazine.com/2019/04/okinawa-japon-tumbonas.jpg "Relax en Shigira Beach. © Felix Lorenzo")
 
@@ -127,5 +127,5 @@ itinerario. Conservan sus tradiciones y cultura propia pero todo dentro del famo
 japonés. No te pierdas **Taketomi**, una isla donde el tiempo corre a un ritmo más 
 lento; la playa de las estrellas de **Kanji**; o la solitaria playa de la isla de 
 Hamajima. Y visita **Miyako** para contemplar sus precioso paisaje litoral. Sigue 
-leyendo el artículo completo de {{< reflink 
-path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-okinawa-japon >}}.
+leyendo el artículo completo de [Viajar sola a Okinawa (Japón)]({{% ref 
+viajar-sola-que-ver-hacer-dormir-okinawa-japon %}}).

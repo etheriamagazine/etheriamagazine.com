@@ -150,5 +150,4 @@ de las más arraigadas en el valle.
 
 **También te puede interesar** 
 
-{{< reflink 
-path=posts/2019/12/que-ver-en-invierno-a-la-rioja-planes-con-amigas-o-en-familia >}}.
+{{< reflink que-ver-en-invierno-a-la-rioja-planes-con-amigas-o-en-familia >}}.

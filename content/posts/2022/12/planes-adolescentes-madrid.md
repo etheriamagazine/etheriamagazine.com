@@ -24,8 +24,8 @@ culturales con otros que aseguren unas horas de diversión para que el viaje sea
 seleccionado diez lugares y actividades perfectos para hacer con adolescentes en Madrid. 
 Apúntatelos todos que seguro que triunfas. 
 
-📍**No te pierdas:** {{< reflink path=posts/2023/04/complutum-renacida-alcala-de-henares 
->}}. 
+📍**No te pierdas:** [Complutum Renacida, Alcalá de Henares se transforma en Roma en el 
+puente de mayo]({{% ref complutum-renacida-alcala-de-henares %}}). 
 
 ## Madrid con adolescentes, ideas para que disfruten:
 
@@ -41,7 +41,8 @@ de las clases de surf, Honna Surf cuenta con un restaurante con muy buena onda y
 surferos y una terraza muy animada en verano. También hay una tienda con ropa de marcas 
 de surf para darte un capricho o hacer un regalo. 
 
-✅ **No te pierdas:** {{< reflink path=posts/2023/03/excursiones-ninos-en-madrid >}}. 
+✅ **No te pierdas:** [5 excursiones esenciales con niños muy cerca de Madrid]({{% ref 
+excursiones-ninos-en-madrid %}}). 
 
 ![Surf en Madrid](https://fotos.etheriamagazine.com/2022/12/madrid-adolescentes-surf.jpg "Surf en Honna Surf Hub. © SG")
 
@@ -170,6 +171,7 @@ Assassin’s Creed, así que el éxito entre el público adolescente está asegu
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}} 
+{{< reflink tabernas-historicas-de-madrid >}} 
 
-{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}
+[8 brunches asequibles en Madrid para disfrutar del domingo]({{% ref 
+brunch-buenos-y-baratos-en-madrid %}})

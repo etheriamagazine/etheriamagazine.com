@@ -226,8 +226,8 @@ Argelès-sur-Mer](https://www.argeles-sur-mer.co.uk/explore/argeles-sur-mer/).
 
 **En Francia también te puede interesar...** 
 
-{{< reflink path=posts/2023/07/nantes-y-excursiones-esenciales >}}. 
+{{< reflink nantes-y-excursiones-esenciales >}}. 
 
-{{< reflink path=posts/2023/08/que-ver-bourges >}}. 
+{{< reflink que-ver-bourges >}}. 
 
-{{< reflink path=posts/2023/08/que-ver-museo-louvre-en-2-horas >}}.
+{{< reflink que-ver-museo-louvre-en-2-horas >}}.

@@ -160,7 +160,6 @@ Más información en Turismo de Jordania.
 
 **También te puede interesar...** 
 
-{{< reflink 
-path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}. 
+{{< reflink jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}. 
 
-{{< reflink path=posts/2020/01/que-llevar-en-la-maleta-en-un-viaje-a-jordania >}}.
+{{< reflink que-llevar-en-la-maleta-en-un-viaje-a-jordania >}}.

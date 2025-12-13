@@ -147,6 +147,6 @@ seductor barrio de Santa Cruz.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/09/10-mejores-planes-en-sevilla-con-amigas-o-pareja >}} 
+{{< reflink 10-mejores-planes-en-sevilla-con-amigas-o-pareja >}} 
 
-{{< reflink path=posts/2019/02/viajar-con-amigas-sevilla >}}
+[Sevilla, la escapada perfecta a la andaluza]({{% ref viajar-con-amigas-sevilla %}})

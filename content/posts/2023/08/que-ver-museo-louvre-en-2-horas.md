@@ -271,8 +271,8 @@ información que precisas para preparar tu visita a esta pinacoteca a fondo.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/06/planes-paris-con-amigas >}} 
+{{< reflink planes-paris-con-amigas >}} 
 
-{{< reflink path=posts/2019/05/viajar-sola-que-ver-paris >}} 
+{{< reflink viajar-sola-que-ver-paris >}} 
 
-{{< reflink path=posts/2018/08/viaje-de-compras-le-marais-paris >}}
+{{< reflink viaje-de-compras-le-marais-paris >}}

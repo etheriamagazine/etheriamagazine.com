@@ -116,4 +116,4 @@ Detección Precoz del Cáncer y la **Fundación Conciencia**.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2023/06/tanit-ibiza-conexion >}}
+{{< reflink tanit-ibiza-conexion >}}

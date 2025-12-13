@@ -99,10 +99,10 @@ una decoración navideña con mucho estilo que incluye un precioso árbol.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/03/tomar-te-londres >}} 
+{{< reflink tomar-te-londres >}} 
 
-{{< reflink path=posts/2022/11/que-ver-londres-nuevo-clasico >}} 
+{{< reflink que-ver-londres-nuevo-clasico >}} 
 
 {{< reflink 
-path=posts/2020/05/compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone 
+compras-originales-en-londres-seven-dials-connaught-village-carnaby-street-marylebone 
 >}}

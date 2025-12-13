@@ -43,8 +43,8 @@ El arquitecto Antonio Gaudí eligió León para construir **Casa Botines**, una 
 obras fuera de Cataluña. Gaudí no parece Gaudí en este palacio en el que se aleja de su 
 etapa más modernista. Sus esbeltos y grisáceos torreones custodian la escultura de un 
 imponente **San Jorge** que está venciendo a un dragón. La figura atesora muchísimas 
-leyendas, como te contamos en {{< reflink 
-path=posts/2020/12/16-lugares-secretos-y-leyendas-de-leon-capital >}}. 
+leyendas, como te contamos en [16 secretos que desconoces de la milenaria ciudad de 
+León]({{% ref 16-lugares-secretos-y-leyendas-de-leon-capital %}}). 
 
 El interior de Botines alberga el [museo más importante del 
 mundo](https://www.casabotines.es/) dedicado a Gaudí, y su sótano está dedicado a [El 
@@ -103,8 +103,8 @@ del [Camarote Madrid](https://camarotehotel.es/), las croquetas del
 [Rebote](http://tapealeon.com/rebote), las patatas picantes del 
 [Flechazo](http://tapealeon.com/bar-flechazo)… La lista es interminable, por eso en León 
 se van “de alterne”, es decir, cambian de bar para poder descubrir nuevos bocados cada 
-día. No te pierdas nuestro particular recorrido de tapas en este artículo de {{< reflink 
-path=posts/2018/09/48-horas-en-leon >}} 
+día. No te pierdas nuestro particular recorrido de tapas en este artículo de [48 horas 
+en León.]({{% ref 48-horas-en-leon %}}) 
 
 Los leoneses son tan creativos que se han inventado un barrio y le han puesto nombre: el 
 **Barrio Romántico** se encuentra muy cerca del Húmedo y representa la escena gastro más 
@@ -135,16 +135,15 @@ más pequeños se convierte en lo más importante.
 
 ## 8\. Dormir como un peregrino de lujo
 
-Después de tres años de reformas integrales, el {{< reflink 
-path=posts/2020/12/parador-de-leon-hotel-romantico-y-de-lujo >}} ha vuelto a reabrir sus 
-puertas coincidiendo con la llegada del **Año Xacobeo 2021**. Se encuentra en **San 
-Marcos**, un edificio de gran valor artístico cuyo origen se remonta al siglo XII, 
-aunque fue reformado y ampliado en el siglo XVI. Este soberbio modelo del plateresco 
-renacentista ha sido convento, hospital, campo de concentración, hospedería de 
-peregrinos, cuartel y hasta cárcel en la que estuvo preso **Francisco de** **Quevedo**. 
-Los huéspedes del Parador disfrutarán de su estancia rodeados por más de quinientas 
-obras de arte, una de las razones por las que ha obtenido la exclusiva categoría cinco 
-estrellas Gran Lujo. 
+Después de tres años de reformas integrales, el [Parador de León]({{% ref 
+parador-de-leon-hotel-romantico-y-de-lujo %}}) ha vuelto a reabrir sus puertas 
+coincidiendo con la llegada del **Año Xacobeo 2021**. Se encuentra en **San Marcos**, un 
+edificio de gran valor artístico cuyo origen se remonta al siglo XII, aunque fue 
+reformado y ampliado en el siglo XVI. Este soberbio modelo del plateresco renacentista 
+ha sido convento, hospital, campo de concentración, hospedería de peregrinos, cuartel y 
+hasta cárcel en la que estuvo preso **Francisco de** **Quevedo**. Los huéspedes del 
+Parador disfrutarán de su estancia rodeados por más de quinientas obras de arte, una de 
+las razones por las que ha obtenido la exclusiva categoría cinco estrellas Gran Lujo. 
 
 ![plaza del grano de leon](https://fotos.etheriamagazine.com/2020/12/Leon-nevado.jpg "Plaza del Grano. © El Leonés Errante")
 
@@ -172,6 +171,6 @@ no sé cantar, yo no sé reír".
 
 ### Te puede interesar...
 
-{{< reflink path=posts/2018/10/picos-de-europa-ruta-por-asturias-leon-y-cantabria >}}. 
+{{< reflink picos-de-europa-ruta-por-asturias-leon-y-cantabria >}}. 
 
-{{< reflink path=posts/2020/05/escapadas-por-espana-las-medulas-leon >}}.
+{{< reflink escapadas-por-espana-las-medulas-leon >}}.

@@ -59,7 +59,8 @@ este año el ayuntamiento de Helsinki ha anunciado la inauguración de cinco nue
 lugares para la natación invernal en la ciudad. A esta práctica se le reconocen grandes 
 beneficios para el bienestar físico y espiritual. ¿Os animaríais a hacerlo? 
 
-✅ **No te pierdas:** {{< reflink path=posts/2023/02/banos-hielo-finlandia >}} 
+✅ **No te pierdas:** [Por qué deberías bañarte en el hielo en Finlandia]({{% ref 
+banos-hielo-finlandia %}}) 
 
 ![Nadar en hielo en Finlandia.](https://fotos.etheriamagazine.com/2023/10/nadar-hielo-finlandia.jpg "Nadar en hielo en Finlandia.")
 
@@ -117,6 +118,6 @@ agua helada** o incluso pescar.
 
 ✅ **También te puede interesar...** 
 
-{{< reflink path=posts/2019/07/viaje-finlandia-mujeres-artistas-suomi-y-sami >}}. 
+{{< reflink viaje-finlandia-mujeres-artistas-suomi-y-sami >}}. 
 
-{{< reflink path=posts/2019/10/siete-excursiones-en-laponia-finlandesa >}}.
+{{< reflink siete-excursiones-en-laponia-finlandesa >}}.

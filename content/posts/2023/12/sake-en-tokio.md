@@ -128,8 +128,8 @@ casa, no olvidéis servirlo frío y degustarlo sorbito a sorbito.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/05/viajar-japon-que-es-ryokan-y-onsen >}}. 
+{{< reflink viajar-japon-que-es-ryokan-y-onsen >}}. 
 
-{{< reflink path=posts/2019/11/10-actividades-para-un-viaje-en-familia-a-japon >}}. 
+{{< reflink 10-actividades-para-un-viaje-en-familia-a-japon >}}. 
 
-{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}}.
+{{< reflink como-organizar-un-viaje-a-japon >}}.

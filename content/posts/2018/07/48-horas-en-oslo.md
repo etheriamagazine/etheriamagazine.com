@@ -128,7 +128,8 @@ metros, cascadas, granjas y pequeñas poblaciones se suceden hasta llegar a Gudv
 desde donde se puede volver a Oslo o continuar hasta Bergen, otro destino imprescindible 
 en Noruega. 
 
-**No te pierdas:** {{< reflink path=posts/2020/11/tren-de-flam-y-fiordos-noruega >}} 
+**No te pierdas:** [El tren de Flåm, el recorrido más bonito del mundo]({{% ref 
+tren-de-flam-y-fiordos-noruega %}}) 
 
 ### Guía práctica de Oslo
 

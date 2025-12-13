@@ -220,9 +220,8 @@ cadera, será suficiente.
 
 ### También en Etheria Magazine
 
-{{< reflink path=posts/2019/11/que-ver-iran-mujer-viajar-sola-con-amigas >}}. 
+{{< reflink que-ver-iran-mujer-viajar-sola-con-amigas >}}. 
 
-{{< reflink path=posts/2021/11/ideas-viaje-de-novios-por-europa >}}. 
+{{< reflink ideas-viaje-de-novios-por-europa >}}. 
 
-{{< reflink 
-path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}.
+{{< reflink jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}.

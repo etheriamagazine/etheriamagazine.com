@@ -16,7 +16,7 @@ acoge “El mundo como yo lo veo’, la nueva exposición de Paula Vincenti.
 
 \[caption id="attachment\_11293" align="aligncenter" width="900"\]![amare beach marbella](https://fotos.etheriamagazine.com/2019/07/amare-beach-exposicion.jpg "Ascensores con una de la obra 'Play your own symphony'.") Ascensores con la obra 'Play your own symphony'.\[/caption\]
 
-El **Amàre Beach Hotel Marbella** continúa estimulando a su clientela (una tendencia de la que os hablábamos en {{< reflink path=posts/2018/09/hoteles-con-mucho-arte >}}) con exposiciones artísticas que forman parte de su **proyecto Amàre Art**. Si la pasada primavera fue Anna Schellberg la invitada a exponer , ahora es la artista multidisciplinar Paula Vincenti quien hará lo propio. Será posible disfrutar de la muestra hasta **noviembre de 2019.**
+El **Amàre Beach Hotel Marbella** continúa estimulando a su clientela (una tendencia de la que os hablábamos en [Hoteles con mucho Arte]({{% ref hoteles-con-mucho-arte %}})) con exposiciones artísticas que forman parte de su **proyecto Amàre Art**. Si la pasada primavera fue Anna Schellberg la invitada a exponer , ahora es la artista multidisciplinar Paula Vincenti quien hará lo propio. Será posible disfrutar de la muestra hasta **noviembre de 2019.**
 
 Las obras que esta artista argentina ha incluido en _**El mundo como yo lo veo**_ están colocadas en distintas áreas del establecimiento. En algunas zonas, como es el caso de ascensores o escaleras, forma parte de las propias estancias del hotel, y en otras al natural, en forma de cuadros y esculturas, piezas que podrán ser adquiridas por quienes así lo deseen.
 
@@ -42,6 +42,6 @@ Con esta ironía trata de llegar a un público general y no sólo especializado.
 
 Con el concepto **Amàre Art: arte para despertar los sentidos**, este establecimiento marbellí trata de convertir el hotel en un espacio artístico donde conectar con la sensibilidad de su clientela a partir del arte y su ubicación estratégica en diversas partes de las instalaciones del mismo. Fotografía, moda, diseño, escultura, videoart o pintura encuentran en los hoteles Amàre un lugar en el que interactuar con aquellos que disfrutan de creaciones originales y transgresoras.
 
-Si quieres aprovechar bien tu viaje, no dejes de consultar esta {{< reflink path=posts/2019/06/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana >}}
+Si quieres aprovechar bien tu viaje, no dejes de consultar esta [Guía práctica para exprimir Marbella con amigas en un fin de semana.]({{% ref guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana %}})
 
 **Precio exposición**: gratis **Fecha finalización**:  noviembre 2019. **Precio hab. doble en el hotel** con desayuno desde 180 €/noche **Más información** en el Tel. 951 560 715 o en [www.amarehotels.com/es](http://www.amarehotels.com/es)

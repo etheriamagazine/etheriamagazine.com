@@ -121,11 +121,10 @@ Del 2 de marzo hasta el mes junio de 2021.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}} 
+{{< reflink brunch-buenos-y-baratos-en-madrid >}} 
 
-{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
->}} 
+{{< reflink ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias >}} 
 
-{{< reflink path=posts/2020/09/donde-tomar-mejores-postres-chocolate-en-madrid >}} 
+{{< reflink donde-tomar-mejores-postres-chocolate-en-madrid >}} 
 
-{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}
+{{< reflink 10-planes-originales-en-madrid-con-amigas >}}

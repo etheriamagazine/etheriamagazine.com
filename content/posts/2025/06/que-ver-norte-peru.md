@@ -178,6 +178,6 @@ inspirado a conocer Perú con amigas.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2023/08/machupicchu-y-otros-imprescindibles-de-peru >}}. 
+{{< reflink machupicchu-y-otros-imprescindibles-de-peru >}}. 
 
-{{< reflink path=posts/2019/11/mujeres-que-viajan-solas-amigas-peru >}}.
+{{< reflink mujeres-que-viajan-solas-amigas-peru >}}.

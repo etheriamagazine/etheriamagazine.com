@@ -253,8 +253,8 @@ Para las visitas tanto de la parte musulmana como del barrio copto hay que lleva
 hombros y las rodillas cubiertas (tanto hombres como mujeres). Una buena solución es 
 llevar un par de pareos o fulares en la mochila para cubrirte cuando sea necesario. 
 
-Este artículo te ayudará: {{< reflink path=posts/2023/02/que-llevar-en-la-maleta-egipto 
->}}. 
+Este artículo te ayudará: [Qué llevar en la maleta en un viaje a Egipto]({{% ref 
+que-llevar-en-la-maleta-egipto %}}). 
 
 ![Gran Bazar Khan el-Khalili en El Cairo](https://fotos.etheriamagazine.com/2023/08/egipto-cairo-bazar-khan-khalili-calle.jpg "Gran Bazar Khan el-Khalili. © SG")
 
@@ -284,6 +284,6 @@ Fayoum](https://www.civitatis.com/es/el-cairo/excursion-oasis-fayoum/?aid=10211)
 
 **Si viajas a Egipto te interesan también estos 2 reportajes:** 
 
-{{< reflink path=posts/2023/04/que-ver-crucero-del-nilo-egipto >}} 
+{{< reflink que-ver-crucero-del-nilo-egipto >}} 
 
-{{< reflink path=posts/2023/06/como-organizar-una-visita-a-abu-simbel >}}
+{{< reflink como-organizar-una-visita-a-abu-simbel >}}

@@ -158,9 +158,8 @@ mejores álbumes: **Joshua Tree.**
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/04/10-visitas-imprescindibles-en-san-francisco >}} 
+{{< reflink 10-visitas-imprescindibles-en-san-francisco >}} 
 
-{{< reflink path=posts/2018/05/viaje-aventura-para-mujeres-en-arizona-usa >}} 
+{{< reflink viaje-aventura-para-mujeres-en-arizona-usa >}} 
 
-{{< reflink path=posts/2020/01/ruta-enoturismo-con-amigas-california-napa-valley-sonoma 
->}}
+{{< reflink ruta-enoturismo-con-amigas-california-napa-valley-sonoma >}}

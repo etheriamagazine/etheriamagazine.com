@@ -161,6 +161,6 @@ Capri tiene algo de aroma “nerudiano".
 
 **Otras historias que pueden interesarte:** 
 
-{{< reflink path=posts/2018/09/la-poetisa-sofia-casanova-una-gallega-en-polonia >}}. 
+{{< reflink la-poetisa-sofia-casanova-una-gallega-en-polonia >}}. 
 
-{{< reflink path=posts/2018/05/mallorca-de-la-mano-de-george-sand >}}.
+{{< reflink mallorca-de-la-mano-de-george-sand >}}.

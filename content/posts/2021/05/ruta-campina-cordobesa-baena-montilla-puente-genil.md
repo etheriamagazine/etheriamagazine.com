@@ -16,11 +16,11 @@ La provincia de Córdoba alberga muchos secretos que estamos dispuestos a descub
 
 A veces, esta España nuestra guarda tesoros que no solo merecen ser visitados, sino 
 también ser vividos más a fondo, es decir: ‘con fundamento’ (como dicen los cordobeses). 
-Al sur de Sierra Morena se encuentra la {{< reflink 
-path=posts/2019/03/viaje-amigas-que-comer-dormir-cordoba >}}, y más al sur se expande la 
-campiña cordobesa, tachonada de curtidos pueblos y sitios arqueológicos con 
-significativo interés. ¿Te apetece hacer una ruta para conocer los atractivos de 
-**Baena, Montilla y Puente Genil**? 
+Al sur de Sierra Morena se encuentra la [ciudad de Córdoba]({{% ref 
+viaje-amigas-que-comer-dormir-cordoba %}}), y más al sur se expande la campiña 
+cordobesa, tachonada de curtidos pueblos y sitios arqueológicos con significativo 
+interés. ¿Te apetece hacer una ruta para conocer los atractivos de **Baena, Montilla y 
+Puente Genil**? 
 
 En estos meses de exultante primavera, tenemos las mismas horas de luz que de oscuridad, 
 así que gozamos de más tiempo para respirar el aire libre campestre. Es un buen momento 
@@ -177,8 +177,8 @@ comentario de Tripadvisor: excelente, espectacular, sorprendente.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}. 
+{{< reflink consejos-rutas-andalucia-en-autocaravana >}}. 
 
-{{< reflink path=posts/2020/07/crucero-fluvial-por-el-guadalquivir-andalucia >}}. 
+{{< reflink crucero-fluvial-por-el-guadalquivir-andalucia >}}. 
 
-{{< reflink path=posts/2024/08/que-ver-hacer-en-agua-amarga-almeria >}}
+{{< reflink que-ver-hacer-en-agua-amarga-almeria >}}

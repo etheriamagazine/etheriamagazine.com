@@ -116,9 +116,8 @@ habitación doble desde 159 Euros.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2020/11/hotel-de-lujo-sierra-nevada-el-lodge-ski-spa >}} 
+{{< reflink hotel-de-lujo-sierra-nevada-el-lodge-ski-spa >}} 
 
-{{< reflink path=posts/2021/11/10-estaciones-de-esqui-mas-baratas-de-espana-2021-2022 
->}} 
+{{< reflink 10-estaciones-de-esqui-mas-baratas-de-espana-2021-2022 >}} 
 
-{{< reflink path=posts/2020/10/restaurantes-bares-de-granada-y-visitas-para-mujeres >}}
+{{< reflink restaurantes-bares-de-granada-y-visitas-para-mujeres >}}

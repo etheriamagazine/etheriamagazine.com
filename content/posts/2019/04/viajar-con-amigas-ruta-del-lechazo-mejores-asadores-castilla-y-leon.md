@@ -225,9 +225,10 @@ poquito más, porqué no, a través de su cocina.
 
 ### No te pierdas...
 
-{{< reflink path=posts/2021/04/32-excursiones-de-un-dia-en-rutas-vino-espana >}}{{< 
-reflink path=posts/2020/12/mejores-restaurantes-para-comer-cochinillo-en-segovia >}}. 
+[]({{% ref 32-excursiones-de-un-dia-en-rutas-vino-espana %}})[Los tres tenores del 
+cochinillo en Segovia, una historia de amor correspondido]({{% ref 
+mejores-restaurantes-para-comer-cochinillo-en-segovia %}}). 
 
-{{< reflink path=posts/2019/01/bares-imprescindibles-finde-valladolid >}} 
+{{< reflink bares-imprescindibles-finde-valladolid >}} 
 
-{{< reflink path=posts/2018/05/ruta-del-vino-ribera-del-duero-valladolid >}}
+{{< reflink ruta-del-vino-ribera-del-duero-valladolid >}}

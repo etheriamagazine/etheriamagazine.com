@@ -151,11 +151,11 @@ Puedes reservarla a través de
 ## Relax en un onsen japonés
 
 Está prohibido visitar Japón y no dejarse seducir por la cultura tradicional del agua 
-reflejada en sus onsen (ya os lo contábamos en el artículo {{< reflink 
-path=posts/2019/05/viajar-japon-que-es-ryokan-y-onsen >}}). Aunque hay otras zonas del 
-país como Hakone más populares para alojarse en los tradicionales ryokan y disfrutar de 
-las aguas termales, si sólo se visita Tokio también te puedes dar un respiro en forma de 
-baño calentito. 
+reflejada en sus onsen (ya os lo contábamos en el artículo [La experiencia de alojarse 
+en un Ryokan en Japón]({{% ref viajar-japon-que-es-ryokan-y-onsen %}})). Aunque hay 
+otras zonas del país como Hakone más populares para alojarse en los tradicionales ryokan 
+y disfrutar de las aguas termales, si sólo se visita Tokio también te puedes dar un 
+respiro en forma de baño calentito. 
 
 ![Piscina de un onsen.](https://fotos.etheriamagazine.com/2023/02/tokio-onsen.jpg "Piscina de un onsen. © TCVB")
 
@@ -197,8 +197,9 @@ más de un viaje al año.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/07/que-hacer-3-dias-en-tokio-viajes-mujeres >}} 
+{{< reflink que-hacer-3-dias-en-tokio-viajes-mujeres >}} 
 
-{{< reflink path=posts/2021/05/donde-comer-ramen-bueno-y-barato-en-tokio >}} 
+{{< reflink donde-comer-ramen-bueno-y-barato-en-tokio >}} 
 
-{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}}
+[5 recomendaciones para preparar un viaje a Japón]({{% ref 
+como-organizar-un-viaje-a-japon %}})

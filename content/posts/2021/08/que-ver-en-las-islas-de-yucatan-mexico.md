@@ -64,8 +64,8 @@ mi sorpresa cuando descubro que bajo sus aguas viven más de quinientas estatuas
 obras de arte sobre las que crece el arrecife. Claramente estamos en el [Museo 
 Subacuático de Arte](https://musamexico.org/es/), creado por el escultor inglés Jason 
 deCaires Taylor, del que tanto presume en sus folletos Isla Mujeres (creador también del 
-Museo Atlántico de {{< reflink 
-path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}}). 
+Museo Atlántico de [Lanzarote]({{% ref viajar-sola-amigas-imprescindible-lanzarote 
+%}})). 
 
 > Un lugar mágico, en el que una comunidad de esculturas talladas a imagen y semejanza de 
 > los habitantes de un pueblo maya, conviven en simbiosis con la naturaleza. Parece emular 
@@ -121,11 +121,9 @@ relación calidad-precio.
 
 ### También te puede interesar
 
-{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}} 
+{{< reflink mejores-yacimientos-arqueologicos-mexico >}} 
 
-{{< reflink 
-path=posts/2020/04/escapada-en-pareja-en-el-royal-hideaway-playacar-en-la-riviera-maya-mexicana 
+{{< reflink escapada-en-pareja-en-el-royal-hideaway-playacar-en-la-riviera-maya-mexicana 
 >}} 
 
-{{< reflink path=posts/2018/05/10-razones-para-visitar-punta-cana-republica-dominicana 
->}}
+{{< reflink 10-razones-para-visitar-punta-cana-republica-dominicana >}}

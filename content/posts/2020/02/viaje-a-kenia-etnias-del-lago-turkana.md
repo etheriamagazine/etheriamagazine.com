@@ -191,9 +191,8 @@ riesgo físico, no olvides coger la ampliación de deporte de aventura.
 
 ### Sigue leyendo en Etheria Magazine
 
-{{< reflink 
-path=posts/2020/10/final-real-memorias-de-africa-baronesa-blixen-beryl-markham >}}. 
+{{< reflink final-real-memorias-de-africa-baronesa-blixen-beryl-markham >}}. 
 
-{{< reflink path=posts/2019/08/5-viajes-para-comenzar-a-conocer-africa >}}. 
+{{< reflink 5-viajes-para-comenzar-a-conocer-africa >}}. 
 
-{{< reflink path=posts/2021/10/orango-parque-hotel-una-experiencia-en-guinea-bissau >}}.
+{{< reflink orango-parque-hotel-una-experiencia-en-guinea-bissau >}}.

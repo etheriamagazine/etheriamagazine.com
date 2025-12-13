@@ -172,8 +172,8 @@ el río.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/04/voto-femenino-suiza-50-aniversario >}} 
+{{< reflink voto-femenino-suiza-50-aniversario >}} 
 
-{{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}} 
+{{< reflink ruta-en-coche-electrico-por-suiza >}} 
 
-{{< reflink path=posts/2021/05/guia-gastronomica-suiza-y-rutas-en-tren >}}
+{{< reflink guia-gastronomica-suiza-y-rutas-en-tren >}}

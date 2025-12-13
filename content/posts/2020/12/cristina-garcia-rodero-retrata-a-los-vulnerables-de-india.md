@@ -103,8 +103,8 @@ enero. El 24 y 31 de diciembre, y el 5 de enero, el horario es de 10 a 18 h **Pr
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/09/10-mejores-planes-en-sevilla-con-amigas-o-pareja >}}. 
+{{< reflink 10-mejores-planes-en-sevilla-con-amigas-o-pareja >}}. 
 
-{{< reflink path=posts/2019/05/donde-dormir-hotel-novotel-sevilla >}}. 
+{{< reflink donde-dormir-hotel-novotel-sevilla >}}. 
 
-{{< reflink path=posts/2019/02/viajar-con-amigas-sevilla >}}.
+{{< reflink viajar-con-amigas-sevilla >}}.

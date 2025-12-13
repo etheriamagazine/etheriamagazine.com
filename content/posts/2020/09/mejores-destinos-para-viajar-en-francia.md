@@ -36,8 +36,8 @@ Panier (donde reside la movida marsellesa), la ilustre Avenida Canèbiere y el M
 (Museo de las Civilizaciones Mediterránea y Europea). ¡Y no te olvides de probar su 
 plato más típico, la bullabesa! 
 
-Sigue leyendo el artículo de Etheria Magazine: {{< reflink 
-path=posts/2020/07/viajar-sola-amigas-marsella-que-ver-hacer >}}. 
+Sigue leyendo el artículo de Etheria Magazine: [Marsella, puerta francesa del 
+Mediterráneo]({{% ref viajar-sola-amigas-marsella-que-ver-hacer %}}). 
 
 ![Panorámica de Marsella.](https://fotos.etheriamagazine.com/2020/06/Marsella-viaje-mujeres-etheria.jpg "Panorámica de Marsella. © Manena Munar")
 
@@ -51,8 +51,8 @@ siempre a la figura de Antonio Machado, ya que murió aquí y se puede visitar s
 Pero, además, es un pueblo encantador de casas de colores y restaurantes llenos de 
 encanto. 
 
-Sigue leyendo el artículo de Etheria Magazine: {{< reflink 
-path=posts/2020/03/viajes-mujeres-que-ver-en-perpinan-y-collioure >}}. 
+Sigue leyendo el artículo de Etheria Magazine: [Enamórate del sudeste francés en 
+Perpiñán y Collioure]({{% ref viajes-mujeres-que-ver-en-perpinan-y-collioure %}}). 
 
 ![Place de la République, en Perpiñán.](https://fotos.etheriamagazine.com/2020/03/viaje-etheria-place-republique-perpinan.jpg "Place de la République, en Perpiñán. © P. Grifol")
 
@@ -65,8 +65,8 @@ su casa familiar, la Bastide de Jas de Bouffah. Tampoco puedes perderte su patri
 arquitectónico barroco, sus museos y sus mercados. Una escapada estupenda para realizar 
 con amigas. 
 
-Sigue leyendo el artículo de Etheria Magazine: {{< reflink 
-path=posts/2020/01/viaje-amigas-ruta-cezanne-en-aix-en-provence-francia >}}. 
+Sigue leyendo el artículo de Etheria Magazine: [Aix-en-Provence, el paraíso de 
+Cezanne]({{% ref viaje-amigas-ruta-cezanne-en-aix-en-provence-francia %}}). 
 
 ![Pabellón Vendôme en Aix-en-Provence.](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-pabellon-vendome.jpg "Pabellón Vendôme en Aix-en-Provence. © Yolanda Cardo")
 
@@ -79,8 +79,8 @@ manifiesta en lugares como la Isla de Nantes, la Isla de las Máquinas y la ruta
 artística ‘Le Voyage a Nantes’ que te lleva por extraordinarias obras de artistas 
 contemporáneos integradas en la ciudad. 
 
-Sigue leyendo el artículo de Etheria Magazine: {{< reflink 
-path=posts/2019/08/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa >}}. 
+Sigue leyendo el artículo de Etheria Magazine: [Nantes, la ciudad extraordinaria que 
+soñó Julio Verne]({{% ref que-ver-hacer-en-nantes-la-ciudad-francesa-creativa %}}). 
 
 ![Elefante articulado de Nantes.](https://fotos.etheriamagazine.com/2019/08/viaje-nantes-elefante.jpg "Elefante articulado de Nantes. © Franck Tomps")
 
@@ -94,8 +94,8 @@ horas para recorrer sus lugares más emblemáticos. No te pierdas la deliciosa P
 Vosges ni curiosear entre sus librerías. Y si te gusta ir de tiendas, te recomendamos 
 que eches un ojo a las tiendas de Le Marais. 
 
-Sigue leyendo el artículo de Etheria Magazine: {{< reflink 
-path=posts/2019/05/viajar-sola-que-ver-paris >}}. 
+Sigue leyendo el artículo de Etheria Magazine: [Planes en París si viajas sola]({{% ref 
+viajar-sola-que-ver-paris %}}). 
 
 ![Librería Artazart, en el canal Saint-Martin.](https://fotos.etheriamagazine.com/2019/04/viaje-paris-libreria-artazar.jpg "Librería Artazart, en el canal Saint-Martin. © Jacques Lebar/ Paris Tourist Office")
 
@@ -106,13 +106,14 @@ puede realizarse en Francia. Pero además descubre localidades llenas de encanto
 **Amboise** o **Tours**, y paisajes naturales de postal. Lo mejor es realizarla en coche 
 y elegir antes los castillos que se quieren visitar, ya que es imposible abarcarlos 
 todos en un único viaje. Es un viaje perfecto para hacerlo en familia o con amigas. en 
-el artículo {{< reflink path=posts/2021/08/valle-del-loira-entre-castillos-y-jardines 
->}} te damos más pistas para organizar tu viaje. Y, si te quieres alojar en un auténtico 
-castillo, echa un ojo a {{< reflink 
-path=posts/2022/04/dormir-en-castillos-valle-del-loira >}}. 
+el artículo [Valle del Loira, cinco castillos y un increíble festival de jardines]({{% 
+ref valle-del-loira-entre-castillos-y-jardines %}}) te damos más pistas para organizar 
+tu viaje. Y, si te quieres alojar en un auténtico castillo, echa un ojo a [Dormir en un 
+castillo en el valle del Loira: 4 propuestas imbatibles]({{% ref 
+dormir-en-castillos-valle-del-loira %}}). 
 
-Sigue leyendo el artículo de Etheria Magazine: {{< reflink 
-path=posts/2019/03/que-ver-ruta-en-coche-valle-del-loira >}} 
+Sigue leyendo el artículo de Etheria Magazine: [Ruta en coche por el Valle del 
+Loira]({{% ref que-ver-ruta-en-coche-valle-del-loira %}}) 
 
 ![Castillo de Amboise en la ruta de los Castillos del Loira.](https://fotos.etheriamagazine.com/2019/03/chateau-amboise-1.jpg "Castillo de Amboise en la ruta de los Castillos del Loira. © SG")
 
@@ -127,8 +128,8 @@ Europa para que no se masifiquen. Puedes recorrerla en coche atravesando localid
 como Ars-en-Ré o Saint-Martin-de-Ré hasta llegar al solitario Faro de las Ballenas. ¡No 
 te pierdas las ostras ni los helados! 
 
-Sigue leyendo el artículo de Etheria Magazine: {{< reflink 
-path=posts/2018/09/guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re >}}. 
+Sigue leyendo el artículo de Etheria Magazine: [La Rochelle y la isla de Ré, una 
+escapada de diez]({{% ref guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re %}}). 
 
 ![Puerto Viejo de La Rochelle.](https://fotos.etheriamagazine.com/2018/09/Puerto-Viejo-La-Rochelle.jpg "Puerto Viejo de La Rochelle. © SG")
 
@@ -138,9 +139,9 @@ Si viajas con niños a Francia tienes que incluir Futuroscope en tu ruta. Este p
 enfocado sus atracciones a la tecnología 4D y a la realidad virtual y cada año presenta 
 novedades que lo hacen todavía más apetecible para todas las edades. Los más pequeños 
 tienen también su zona de ocio en Futurópolis, llena de aventuras. En el artículo de 
-Etheria Magazine {{< reflink 
-path=posts/2024/02/futuroscope-novedades-2024-parque-acuatico-aquascope >}} te contamos 
-todas las novedades del parque para esta temporada. 
+Etheria Magazine [Novedades en Futuroscope en 2024]({{% ref 
+futuroscope-novedades-2024-parque-acuatico-aquascope %}}) te contamos todas las 
+novedades del parque para esta temporada. 
 
 Puedes comprar tu [entrada a Futuroscope en 
 Civitatis](https://www.civitatis.com/es/poitiers/entrada-futuroscope/?aid=10211). 
@@ -155,8 +156,9 @@ de mirar al mar. Como es casi imposible realizarlo entero, en este reportaje os
 proponemos algunos de sus tramos más bonitos para que podáis integrarlos en un viaje a 
 Bretaña. 
 
-Sigue leyendo el artículo de Etheria Magazine: {{< reflink 
-path=posts/2018/08/senderismo-en-sentier-des-douaniers-bretana-francesa >}}. 
+Sigue leyendo el artículo de Etheria Magazine: [Sentier des Douaniers, el sendero más 
+emblemático de la Bretaña Francesa]({{% ref 
+senderismo-en-sentier-des-douaniers-bretana-francesa %}}). 
 
 ![ruta Sentier de Douaniers en la Bretaña francesa](https://fotos.etheriamagazine.com/2018/07/Crozon.jpg "Descanso en Crozon, en la ruta Sentier de Douaniers en la Bretaña francesa. © Kris Ubach")
 
@@ -169,7 +171,7 @@ cataratas de Triberg (Alemania) o los viñedos de Riquewihr y Colmar (Francia). 
 pequeños les encantará el parque de atracciones Europa Park y, como colofón al viaje, la 
 preciosa ciudad alemana de Friburgo y los paisajes siempre frondosos de la Selva Negra. 
 
-Sigue leyendo el artículo de Etheria Magazine: {{< reflink 
-path=posts/2018/08/ruta-en-familia-por-alsacia-y-selva-negra >}}. 
+Sigue leyendo el artículo de Etheria Magazine: [Ruta en familia por Alsacia y Selva 
+Negra]({{% ref ruta-en-familia-por-alsacia-y-selva-negra %}}). 
 
 ![Viñedos de Riquewihr en Alsacia.](https://fotos.etheriamagazine.com/2018/07/Riquewihr-viñedos.jpg "Viñedos de Riquewihr en Alsacia. © S.G.")

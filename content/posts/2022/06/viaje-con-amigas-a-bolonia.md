@@ -189,4 +189,4 @@ Italia](https://www.italia.it/en?utm_source=Etheriamagazine_com&utm_medium=pubbl
 
 ### Para saber más sobre Bolonia no te pierdas:
 
-{{< reflink path=posts/2022/02/que-hacer-en-bolonia >}}
+{{< reflink que-hacer-en-bolonia >}}

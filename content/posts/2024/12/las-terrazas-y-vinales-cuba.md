@@ -170,8 +170,8 @@ manera excelente de disfrutar del viaje.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2024/02/que-llevar-maleta-viaje-a-cuba >}} 
+{{< reflink que-llevar-maleta-viaje-a-cuba >}} 
 
-{{< reflink path=posts/2020/05/prepara-tu-viaje-a-cuba-libros-peliculas >}} 
+{{< reflink prepara-tu-viaje-a-cuba-libros-peliculas >}} 
 
-{{< reflink path=posts/2024/08/la-habana-cuba-con-amigas >}}
+{{< reflink la-habana-cuba-con-amigas >}}

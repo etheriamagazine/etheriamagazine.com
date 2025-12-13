@@ -107,6 +107,6 @@ Canaria](https://lpavisit.com/es/)[.](http://www.LPAvisit.com)
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2023/07/que-donde-comer-gran-canaria >}}. 
+{{< reflink que-donde-comer-gran-canaria >}}. 
 
-{{< reflink path=posts/2018/05/senderismo-gran-canaria-banos-de-bosque >}}.
+{{< reflink senderismo-gran-canaria-banos-de-bosque >}}.

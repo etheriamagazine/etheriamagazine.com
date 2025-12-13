@@ -174,11 +174,11 @@ los [Baños Árabes de Córdoba](https://xn--baosarabesdecordoba-w3b.com/).
 Córdoba sabe a salmorejo, a flamenquines, a rabo de toro, a berenjenas con miel y a 
 muchos más productos y platos deliciosos que te sorprenderán en sus restaurantes. Para 
 elegir algunos de la variada oferta de esta ciudad nos dejamos aconsejar por nuestra 
-colaboradora Macarena Escrivá que en su artículo {{< reflink 
-path=posts/2019/03/viaje-amigas-que-comer-dormir-cordoba >}} nos recomendaba algunos 
-locales emblemáticos como el clásico **Casa Pepe de la Judería**, el restaurante 
-**Recomiendo** del chef Periko Ortega o las propuestas de la gastronomía andalusí de 
-**Noor**. 
+colaboradora Macarena Escrivá que en su artículo [Córdoba, el maridaje perfecto entre 
+historia y gastronomía]({{% ref viaje-amigas-que-comer-dormir-cordoba %}}) nos 
+recomendaba algunos locales emblemáticos como el clásico **Casa Pepe de la Judería**, el 
+restaurante **Recomiendo** del chef Periko Ortega o las propuestas de la gastronomía 
+andalusí de **Noor**. 
 
 ![Escapada a Córdoba, viaje gourmet, gastronomía, 48 horas en Córdoba, viaje en pareja, viajes con historia, restaurante de Cordoba](https://fotos.etheriamagazine.com/2019/03/Cordoba-gastronomia-Berenjenas-con-miel-.jpg "Las berenjenas con miel son típicas de la gastronomía cordobesa.")
 
@@ -199,8 +199,8 @@ Córdoba](https://www.civitatis.com/es/cordoba/espectaculo-flamenco/?aid=10211).
 
 **Más viajes con amigas en Etheria Magazine:** 
 
-{{< reflink path=posts/2021/05/viaje-a-tenerife-con-amigas-que-hacer-excursiones >}} 
+{{< reflink viaje-a-tenerife-con-amigas-que-hacer-excursiones >}} 
 
-{{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}} 
+{{< reflink fin-de-semana-con-amigas-en-malaga >}} 
 
-{{< reflink path=posts/2021/03/planes-en-salamanca-con-amigas >}}
+{{< reflink planes-en-salamanca-con-amigas >}}

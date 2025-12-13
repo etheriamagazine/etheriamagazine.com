@@ -166,10 +166,10 @@ Más información en [Turismo de Japón](https://www.turismo-japon.es/)
 
 **✅ También te puede interesar en Japón...** 
 
-{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}}. 
+{{< reflink como-organizar-un-viaje-a-japon >}}. 
 
-{{< reflink path=posts/2019/05/viajar-japon-que-es-ryokan-y-onsen >}}. 
+{{< reflink viajar-japon-que-es-ryokan-y-onsen >}}. 
 
-{{< reflink path=posts/2018/10/que-comer-en-japon >}} 
+{{< reflink que-comer-en-japon >}} 
 
-{{< reflink path=posts/2019/11/10-actividades-para-un-viaje-en-familia-a-japon >}}.
+{{< reflink 10-actividades-para-un-viaje-en-familia-a-japon >}}.

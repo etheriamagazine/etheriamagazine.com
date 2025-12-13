@@ -298,11 +298,8 @@ y los hoteles.
 
 📌 **También te puede interesar:** 
 
-{{< reflink 
-path=posts/2018/07/los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia 
->}} 
+{{< reflink los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia >}} 
 
-{{< reflink path=posts/2023/03/novedades-futuroscope-2023 >}} 
+{{< reflink novedades-futuroscope-2023 >}} 
 
-{{< reflink 
-path=posts/2018/11/12-consejos-para-aprovechar-al-maximo-un-viaje-a-disneyland-paris >}}
+{{< reflink 12-consejos-para-aprovechar-al-maximo-un-viaje-a-disneyland-paris >}}

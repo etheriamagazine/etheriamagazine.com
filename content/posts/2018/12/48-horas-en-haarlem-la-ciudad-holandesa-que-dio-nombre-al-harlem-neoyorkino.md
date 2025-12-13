@@ -183,9 +183,9 @@ Centre Hotel](http://galahotels.com), un poco más económico.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/05/que-ver-roterdam-eurovision-viaje-con-amigas >}} 
+{{< reflink que-ver-roterdam-eurovision-viaje-con-amigas >}} 
 
-{{< reflink path=posts/2018/08/holanda-en-familia >}} 
+{{< reflink holanda-en-familia >}} 
 
-{{< reflink path=posts/2018/08/center-parcs-de-eemhof-vacaciones-en-la-naturaleza >}}{{< 
-reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-amsterdam >}}
+[]({{% ref center-parcs-de-eemhof-vacaciones-en-la-naturaleza %}})[48 horas en… 
+Amsterdam, la vida en la calle]({{% ref viajar-sola-que-ver-hacer-dormir-amsterdam %}})

@@ -88,10 +88,8 @@ Producciones](https://mitadymitadproducciones.com/kilometrosdetiempo/).
 
 ### Más cultura que te puede interesar
 
-{{< reflink 
-path=posts/2021/06/raclette-una-obra-de-teatro-con-toque-gastronomico-en-madrid >}}. 
+{{< reflink raclette-una-obra-de-teatro-con-toque-gastronomico-en-madrid >}}. 
 
-{{< reflink path=posts/2021/05/nuevas-exposiciones-en-madrid-verano-2021 >}}. 
+{{< reflink nuevas-exposiciones-en-madrid-verano-2021 >}}. 
 
-{{< reflink 
-path=posts/2021/04/visitas-imprescindibles-triangulo-daliniano-ampurdan-girona >}}.
+{{< reflink visitas-imprescindibles-triangulo-daliniano-ampurdan-girona >}}.

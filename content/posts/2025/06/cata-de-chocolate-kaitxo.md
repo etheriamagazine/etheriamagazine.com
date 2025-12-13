@@ -160,6 +160,6 @@ Más información en [www.kaitxo.com](http://www.kaitxo.com)
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2025/03/chocolate-vino-y-cafe >}} 
+{{< reflink chocolate-vino-y-cafe >}} 
 
-{{< reflink path=posts/2023/12/sake-en-tokio >}}
+{{< reflink sake-en-tokio >}}

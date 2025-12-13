@@ -71,9 +71,9 @@ más intensa.
 
 Me hubiese encantado hacer un último viaje con mi madre antes de que falleciera. También 
 sería para mí un sueño poder conocer África de la mano de Jane Goodall, cuyo amor por la 
-naturaleza y los animales comparto. Y, por último, me gustaría viajar con {{< reflink 
-path=posts/2018/09/rosa-maria-calaf-es-una-mujer-etheria >}}, otra mujer Etheria a la 
-que tuve el enorme gusto de conocer hace unos años y a la que admiro mucho profesional y 
+naturaleza y los animales comparto. Y, por último, me gustaría viajar con [Rosa María 
+Calaf]({{% ref rosa-maria-calaf-es-una-mujer-etheria %}}), otra mujer Etheria a la que 
+tuve el enorme gusto de conocer hace unos años y a la que admiro mucho profesional y 
 personalmente. 
 
 ![Blanca Zayas, tripadvisor, entrevista mujeres etheria, viaje africa](https://fotos.etheriamagazine.com/2019/05/blanca-zayas-mujer-etheria.jpg "Viaje a Botsuana.")
@@ -95,16 +95,16 @@ familia si no lo he hecho ya en el destino.
 
 **7\. ¿Cuál ha sido el mejor viaje de tu vida hasta el momento? ¿Por qué?** 
 
-Hace unos años cumplí uno de mis sueños y me {{< reflink 
-path=posts/2019/03/7-consejos-para-viajar-a-australia >}}. Fue un viaje increíble a 
-todos los niveles. El contraste de paisajes es extraordinario, desde las arenas naranjas 
-en Uluru a las aguas azules de la {{< reflink 
-path=posts/2019/03/revista-viajes-que-ver-australia >}}. Conocí a muchísimas mujeres de 
-todas las edades viajando solas y por supuesto la fauna autóctona, que no deja de 
-sorprender. También me marcó mi primer viaje a África, concretamente al **delta del 
-Okavango**, donde me enamoré perdidamente del continente… y en un polo totalmente 
-opuesto, la última visita que hice en enero a **Nueva York** con mi tía y mi mejor 
-amiga. Es una ciudad que nunca defrauda, a la que seguiré volviendo siempre que pueda. 
+Hace unos años cumplí uno de mis sueños y me [fui sola 2 semanas a Australia]({{% ref 
+7-consejos-para-viajar-a-australia %}}). Fue un viaje increíble a todos los niveles. El 
+contraste de paisajes es extraordinario, desde las arenas naranjas en Uluru a las aguas 
+azules de la [Gran Barrera de Coral]({{% ref revista-viajes-que-ver-australia %}}). 
+Conocí a muchísimas mujeres de todas las edades viajando solas y por supuesto la fauna 
+autóctona, que no deja de sorprender. También me marcó mi primer viaje a África, 
+concretamente al **delta del Okavango**, donde me enamoré perdidamente del continente… y 
+en un polo totalmente opuesto, la última visita que hice en enero a **Nueva York** con 
+mi tía y mi mejor amiga. Es una ciudad que nunca defrauda, a la que seguiré volviendo 
+siempre que pueda. 
 
 ![Blanca Zayas, tripadvisor, entrevista mujeres etheria, viaje uganda australia](https://fotos.etheriamagazine.com/2019/05/blanca-zayas-uganda-australia.jpg "Viajes a Uganda y Australia.")
 
@@ -125,10 +125,10 @@ descubrirlo en un viaje organizado uniéndote a un grupo o con un guía local.
 
 **10\. Tres viajes pendientes…** 
 
-Uno de mis sueños es recorrer {{< reflink 
-path=posts/2018/08/nueva-zelanda-en-autocaravana >}} de punta a punta. También tengo 
-muchas ganas de conocer **Filipinas**, aunque tendrá que esperar a 2020, ya que este año 
-ya tengo programado un viaje a **Namibia**. 
+Uno de mis sueños es recorrer [Nueva Zelanda en autocaravana]({{% ref 
+nueva-zelanda-en-autocaravana %}}) de punta a punta. También tengo muchas ganas de 
+conocer **Filipinas**, aunque tendrá que esperar a 2020, ya que este año ya tengo 
+programado un viaje a **Namibia**. 
 
 ![Blanca Zayas, tripadvisor, entrevista mujeres etheria, viaje delta okavango](https://fotos.etheriamagazine.com/2019/05/blanca-zayas-delta-okavango-e1557398552842.jpg "Viaje al Delta del Okavango.")
 

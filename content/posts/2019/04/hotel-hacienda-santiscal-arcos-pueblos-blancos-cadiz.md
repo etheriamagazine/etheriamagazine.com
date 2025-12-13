@@ -68,9 +68,9 @@ Y para tomar algo, seguro que te acercas a su **bar**, donde puedes servirte tú
 ## El entorno
 
 La ubicación de la Hacienda es perfecta, junto al bonito pueblo **Arcos de la Frontera** 
-que forma parte de la {{< reflink 
-path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}}, y al **Parque Natural de 
-Grazalema**, declarado Reserva de la Biosfera por la Unesco. 
+que forma parte de la [ruta de pueblos blancos de Cádiz]({{% ref 
+ruta-por-los-pueblos-blancos-de-cadiz %}}), y al **Parque Natural de Grazalema**, 
+declarado Reserva de la Biosfera por la Unesco. 
 
 Para dar un paseo en plena naturaleza no hay que irse muy lejos ya que cuenta con un 
 acceso privado al **Paraje Natural del Lago** donde los amantes de la observación de 
@@ -80,8 +80,8 @@ Verde de la Sierra** donde continuar un recorrido que permitirá ver buitres leo
 ![Paraje natural de El Lago en Arcos de la Frontera](https://fotos.etheriamagazine.com/2019/04/El-Santiscal-general.jpg "La Hacienda El Santiscal se ubica en medio de un bonito paraje natural.")
 
 Con el coche podrás también acercarte en poco tiempo a la siempre apetecible costa 
-gaditana y recorrer la famosa {{< reflink path=posts/2018/06/ruta-del-atun-rojo-en-cadiz 
->}}. 
+gaditana y recorrer la famosa [Ruta del atún rojo]({{% ref ruta-del-atun-rojo-en-cadiz 
+%}}). 
 
 Además, otro de los alicientes de alojarte en este hotel es tener la tranquilidad de que 
 lo haces en un lugar con conciencia ecológica que ha desarrollado en los últimos años 
@@ -98,9 +98,8 @@ Habitación doble desde 76 Euros por noche.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/09/so-sotogrande-hotel-de-lujo-cadiz >}} 
+{{< reflink so-sotogrande-hotel-de-lujo-cadiz >}} 
 
-{{< reflink path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia 
->}} 
+{{< reflink guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}} 
 
-{{< reflink path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}}
+{{< reflink viajar-con-amigas-que-hacer-en-cadiz >}}

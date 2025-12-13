@@ -172,8 +172,8 @@ Zúrich (S-Bahn líneas S6 o S16) y se tarda sólo 15 minutos en llegar a Küsna
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2024/07/excursiones-con-ninos-jungfrau-suiza >}} 
+{{< reflink excursiones-con-ninos-jungfrau-suiza >}} 
 
-{{< reflink path=posts/2019/04/viaje-en-familia-que-hacer-engelberg-suiza >}} 
+{{< reflink viaje-en-familia-que-hacer-engelberg-suiza >}} 
 
-{{< reflink path=posts/2018/09/tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}}
+{{< reflink tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}}

@@ -23,7 +23,7 @@ tantas vueltas.
 La primera gran, grandísima, ventaja de viajar sola es que no tienes que consensuar con 
 nadie tu próximo destino, por lo tanto solo depende de ti el lugar al que irás o el 
 tiempo que permanecerás en ese sitio que tanto te apetece. Como nos contaba 
-[Kandy]({{% ref kandy-la-abuela-mochilera-mujer-etheria %}}), 
+[Kandy](http://etheriamagazine.com/2018/11/19/kandy-la-abuela-mochilera-mujer-etheria/), 
 su mejor compañera de viaje era su mochila porque nunca se quejaba. Cuánta razón, todas 
 hemos sufrido las quejas continuas de alguna amiga en un viaje por el hotel, la comida, 
 los traslados... 
@@ -35,8 +35,8 @@ elegido, tus sentidos estarán cien por cien centrados en vivir ese momento. ¿D
 sirve estar en Petra si estás hablando de lo que pasó la semana pasada en la oficina? 
 
 No dejes de leer las crónicas de viaje de Sania Jelic, una mujer que comenzó a recorrer 
-el mundo tras su jubilación.📍{{< reflink 
-path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}}. 
+el mundo tras su jubilación.📍[Viajar sola por el mundo tras la jubilación, el nuevo 
+plan de vida de Sania Jelic]({{% ref sania-jelic-viajar-sola-mas-65 %}}). 
 
 ![parapente en el Aconcagua](https://fotos.etheriamagazine.com/2023/02/sania-vuelo-mendoza.jpg "Sania con su compañera preparadas para el vuelo. Carretera de ascenso al Cristo Redentor de los Andes. © SJ")
 
@@ -48,7 +48,7 @@ viajar sola, no solo entablarás conversación con las personas locales sino tam
 otros viajeros en tus mismas circunstancias. En muchos viajes surgen bonitas amistades 
 que duran toda la vida, y si no es así, no pasa nada, cada uno por su lado. [Cristina 
 Calvo, copropietaria de Asuaire 
-Travel]({{% ref cristina-calvo-de-asuaire-travel %}}), nos 
+Travel](http://etheriamagazine.com/2019/01/07/cristina-calvo-de-asuaire-travel/), nos 
 dio su punto de vista sobre este tema: "Me motiva viajar porque he aprendido que cada 
 persona, sin importar que no hablemos el mismo idioma, con una religión o raza distinta, 
 tiene una historia que contar con aprendizajes increíbles". 
@@ -86,9 +86,9 @@ pruebas con el italiano o el portugués?
 
 Si aún no has realizado ningún viaje sola, ¿por qué no aceptas el reto y te vas al menos 
 un fin de semana? "Toda aventura empieza con un sí", nos aseguraba [Alicia 
-Sornosa]({{% ref alicia-sornosa %}}). ¿Qué es lo peor que 
+Sornosa](http://etheriamagazine.com/2018/09/24/alicia-sornosa/). ¿Qué es lo peor que 
 puede ocurrir? Como nos contaba [Markéta 
-Leheckova]({{% ref marketa-leheckova-de-czechtourism-es-una-mujer-etheria %}}): 
+Leheckova](http://etheriamagazine.com/2018/12/03/marketa-leheckova-de-czechtourism-es-una-mujer-etheria/): 
 "hay que viajar sola al menos una vez en la vida". Una vez que se supera ese temor la 
 primera vez, todo es más sencillo. 
 
@@ -101,7 +101,7 @@ hoteles son las habitaciones dobles, pero ¿te has planteado alojarte en un host
 un B&B? No solo salen muy baratos sino que los hay estupendos, hace mucho que quedaron 
 atrás esos albergues donde la higiene brillaba por su ausencia. ¿Conoces el [Blue Sock 
 Hostel 
-Porto]({{% ref bluesock-hostel-porto-un-albergue-para-todos-los-publicos %}})? 
+Porto](http://etheriamagazine.com/2018/10/18/bluesock-hostel-porto-un-albergue-para-todos-los-publicos/)? 
 Está en Oporto y es magnífico. 
 
 ![albergue en oporto ventajas de viajar sola](https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-literas.jpg "En Bluesock puedes decir compartir habitación o no hacerlo.")
@@ -110,9 +110,9 @@ Está en Oporto y es magnífico.
 
 Los viajes en solitario son fantásticos pero si no te atreves o el destino te infunde 
 respeto (como este [viaje a 
-India]({{% ref viajar-sola-o-con-amigas-a-india %}}) que nos 
+India](http://etheriamagazine.com/2018/10/19/viajar-sola-o-con-amigas-a-india/) que nos 
 recomendaba Cristina R. Bareño o el del [Eje Cafetero de 
-Colombia]({{% ref viajar-sola-al-eje-cafetero-colombia %}}), 
+Colombia](http://etheriamagazine.com/2019/01/28/viajar-sola-al-eje-cafetero-colombia/), 
 de Elisabet G. Iborra), una alternativa es viajar sola pero en grupo. Por suerte, hay 
 unas cuantas agencias especializadas en público femenino que te serán útiles. Toma nota 
 de algunas: Focus on Women, WOM Viajes y Mujer y Viajera. 
@@ -130,9 +130,8 @@ causa.
 
 ✅ **Algunas ideas para viajar sola...** 
 
-{{< reflink path=posts/2021/02/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala >}}. 
+{{< reflink viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala >}}. 
 
-{{< reflink path=posts/2021/02/ruta-detallada-trekking-a-ushguli-georgia >}}. 
+{{< reflink ruta-detallada-trekking-a-ushguli-georgia >}}. 
 
-{{< reflink 
-path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}.
+{{< reflink jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}.

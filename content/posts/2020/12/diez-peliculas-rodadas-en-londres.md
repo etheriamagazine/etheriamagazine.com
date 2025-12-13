@@ -15,14 +15,14 @@ Aprovechando el estreno de 'Una pastelería en Notting Hill', te proponemos una 
 
 ![fotograma de una pasteleria en notting hill](https://fotos.etheriamagazine.com/2020/12/Una-pasteleria-en-Notting-Hill-londres.jpg "'Una pastelería en Notting Hill'.")
 
-Nos encanta {{< reflink path=posts/2020/01/planes-romanticos-hotel-para-parejas-londres 
->}}, y aunque en estos tiempos no podamos ir tanto como quisiéramos, gracias al cine 
-podemos disfrutar de la ciudad cuando nos apetezca. La capital británica es sin ninguna 
-duda un importante destino cinematográfico, convirtiéndose muchas veces en una 
-protagonista más de las películas. Una de las últimas producciones ambientadas en 
-Londres ha sido _Love Sarah_, traducida en nuestro país como '**Una pastelería en 
-Notting Hill'**. Aprovechando su estreno vamos a repasar algunos de los largometrajes 
-que han convertido a la ciudad en un **destino de cine**. 
+Nos encanta [Londres]({{% ref planes-romanticos-hotel-para-parejas-londres %}}), y 
+aunque en estos tiempos no podamos ir tanto como quisiéramos, gracias al cine podemos 
+disfrutar de la ciudad cuando nos apetezca. La capital británica es sin ninguna duda un 
+importante destino cinematográfico, convirtiéndose muchas veces en una protagonista más 
+de las películas. Una de las últimas producciones ambientadas en Londres ha sido _Love 
+Sarah_, traducida en nuestro país como '**Una pastelería en Notting Hill'**. 
+Aprovechando su estreno vamos a repasar algunos de los largometrajes que han convertido 
+a la ciudad en un **destino de cine**. 
 
 ## 1\. Una pastelería en Notting Hill
 
@@ -67,15 +67,14 @@ estudio, aunque los lugares más icónicos de Londres se recrearon perfectamente
 versión moderna de 2018, en la que Emily Blunt encarna a la encantadora niñera, se 
 combinaron decorados con escenarios reales. 
 
-Algunos de los rincones donde rodaron {{< reflink 
-path=posts/2019/01/viajes-cine-londres-de-mary-poppins >}} fueron la **catedral de St. 
-Paul**, el Big Ben, el **Palacio de Buckingham**, el Puente de la Torre de Londres, el 
-Royal Exchange y la colina de Primrose Hill. En un recorrido 
-“_supercalifragilisticoespialidos_o” no debería de faltar una visita a la casa donde la 
-autora de la historia de Mary Poppins, la australiana P.L. Travers, vivió y escribió la 
-saga sobre la mágica _nanny_. Se encuentra en el número 50 de Smith Street, en el barrio 
-de **Chelsea**, ahí la recuerda una placa azul del [English 
-Heritage](https://www.english-heritage.org.uk/). 
+Algunos de los rincones donde rodaron [El regreso de Mary Poppins]({{% ref 
+viajes-cine-londres-de-mary-poppins %}}) fueron la **catedral de St. Paul**, el Big Ben, 
+el **Palacio de Buckingham**, el Puente de la Torre de Londres, el Royal Exchange y la 
+colina de Primrose Hill. En un recorrido “_supercalifragilisticoespialidos_o” no debería 
+de faltar una visita a la casa donde la autora de la historia de Mary Poppins, la 
+australiana P.L. Travers, vivió y escribió la saga sobre la mágica _nanny_. Se encuentra 
+en el número 50 de Smith Street, en el barrio de **Chelsea**, ahí la recuerda una placa 
+azul del [English Heritage](https://www.english-heritage.org.uk/). 
 
 ![el regreso de Mary Poppins](https://fotos.etheriamagazine.com/2020/12/Mary-Poppins-londres.jpg "'El regreso de Mary Poppins', una película llena de fantasía.")
 

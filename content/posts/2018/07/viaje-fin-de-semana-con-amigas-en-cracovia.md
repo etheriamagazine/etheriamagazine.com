@@ -157,8 +157,8 @@ Armiño,_ de Leonardo Da Vinci.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/10/mercadillos-navidad-varsovia-cracovia-polonia >}}. 
+{{< reflink mercadillos-navidad-varsovia-cracovia-polonia >}}. 
 
-{{< reflink path=posts/2021/03/que-ver-en-varsovia-en-tres-rutas-originales >}}. 
+{{< reflink que-ver-en-varsovia-en-tres-rutas-originales >}}. 
 
-{{< reflink path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}}.
+{{< reflink que-ver-en-zakopane-viaje-original-polonia >}}.

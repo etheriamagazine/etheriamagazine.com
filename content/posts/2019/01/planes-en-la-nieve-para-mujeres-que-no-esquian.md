@@ -140,18 +140,18 @@ el cuerpo.
 
 ### Visita a la Alhambra y a los Palacios Nazaríes
 
-Como no podía ser de otra manera, el hotel {{< reflink 
-path=posts/2020/11/hotel-de-lujo-sierra-nevada-el-lodge-ski-spa >}} organiza visitas 
-culturales para conocer las grandiosa Alhambra y los Palacios Nazaríes de Granada. 
-Declarada Patrimonio de la Humanidad por la Unesco y reconocida como una de las 
-atracciones más visitadas a nivel mundial, es una cita que nadie debe perderse. La 
-excursión de día (unas 8 horas) incluye traslados desde el mismo hotel, entradas para la 
-Alhambra y los Palacios Nazaríes y la compañía de un guía oficial privado. 
+Como no podía ser de otra manera, el hotel [El Lodge de Sierra Nevada]({{% ref 
+hotel-de-lujo-sierra-nevada-el-lodge-ski-spa %}}) organiza visitas culturales para 
+conocer las grandiosa Alhambra y los Palacios Nazaríes de Granada. Declarada Patrimonio 
+de la Humanidad por la Unesco y reconocida como una de las atracciones más visitadas a 
+nivel mundial, es una cita que nadie debe perderse. La excursión de día (unas 8 horas) 
+incluye traslados desde el mismo hotel, entradas para la Alhambra y los Palacios 
+Nazaríes y la compañía de un guía oficial privado. 
 
 ¿Dónde? En **Sierra Nevada**. 
 
-✅ Organiza tu visita a La Alhambra con este artículo: {{< reflink 
-path=posts/2021/10/consejos-para-visitar-la-alhambra >}} 
+✅ Organiza tu visita a La Alhambra con este artículo: [10 consejos para triunfar en tu 
+visita a la Alhambra]({{% ref consejos-para-visitar-la-alhambra %}}) 
 
 ![la alhambra desde Sierra Nevada](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Visita-La-Alhambra.jpg "Preciosa panorámica de La Alhambra de Granada.")
 
@@ -168,8 +168,8 @@ entre muchas otras, todas ellas repletas de encanto.
 
 ¿Dónde? En el **Valle de Arán**. 
 
-✅ Organiza tu ruta con este artículo: {{< reflink 
-path=posts/2020/08/pueblos-y-rutas-imprescindibles-en-valle-aran >}}. 
+✅ Organiza tu ruta con este artículo: [Valle de Arán, organiza una ruta por sus pueblos 
+y sendas imprescindibles]({{% ref pueblos-y-rutas-imprescindibles-en-valle-aran %}}). 
 
 ![romanico valle de aran](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Ruta-romanica-Valle-Aran.jpg "El Valle Arán es uno de los mejores lugares de España para disfrutar del románico.")
 
@@ -211,7 +211,6 @@ familia y crear recuerdos de unas vacaciones inolvidables.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/11/10-estaciones-de-esqui-mas-baratas-de-espana-2021-2022 
->}}. 
+{{< reflink 10-estaciones-de-esqui-mas-baratas-de-espana-2021-2022 >}}. 
 
-{{< reflink path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}}.
+{{< reflink que-ver-en-zakopane-viaje-original-polonia >}}.

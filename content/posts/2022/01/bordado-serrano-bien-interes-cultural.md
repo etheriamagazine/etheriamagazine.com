@@ -162,8 +162,11 @@ visita a la comarca de la Sierra de Francia.
 
 ### También te puede interesar...
 
-📍{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}. 
+📍[Ruta del Vino de la Sierra de Francia, un brindis con amigas en Salamanca]({{% ref 
+plan-con-amigas-ruta-del-vino-sierra-de-francia %}}). 
 
-📍{{< reflink path=posts/2021/10/recorrido-del-camino-de-hierro-salamanca >}}, 
+📍[El Camino de Hierro, kilómetros de magia entre puentes y túneles en Salamanca]({{% 
+ref recorrido-del-camino-de-hierro-salamanca %}}), 
 
-📍{{< reflink path=posts/2019/10/que-ver-en-mogarraz-pueblo-de-retratos-salamanca >}}.
+📍[Mogarraz se retrata, así es el pueblo de las 800 caras]({{% ref 
+que-ver-en-mogarraz-pueblo-de-retratos-salamanca %}}).

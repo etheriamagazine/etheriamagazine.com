@@ -141,8 +141,8 @@ Bureau](https://www.discoverlosangeles.com).
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/04/10-visitas-imprescindibles-en-san-francisco >}} 
+{{< reflink 10-visitas-imprescindibles-en-san-francisco >}} 
 
-{{< reflink path=posts/2019/07/ruta-california-por-el-lejano-oeste-americano >}} 
+{{< reflink ruta-california-por-el-lejano-oeste-americano >}} 
 
-{{< reflink path=posts/2018/05/viaje-aventura-para-mujeres-en-arizona-usa >}}
+{{< reflink viaje-aventura-para-mujeres-en-arizona-usa >}}

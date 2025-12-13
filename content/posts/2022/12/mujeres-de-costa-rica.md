@@ -50,7 +50,8 @@ disfrutar de sus preciosas playas, como Malpaís o del Carmen. También es un lu
 perfecto para disfrutar de fauna o flora de Costa Rica en espacios como la Reserva 
 Natural Absoluta de Cabo Blanco. 
 
-📍 {{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}} 
+📍 [Descubre la esencia de la Península de Nicoya, tierra de artesanas y 
+naturaleza.]({{% ref que-ver-peninsula-nicoya-costa-rica %}}) 
 
 ## Marielos Núñez y María Luz Jiménez de Sarapiquí
 
@@ -73,7 +74,8 @@ como el canopy, el rafting o el rapel. Podrás dar largos paseos por sus parques
 naturales para conocer su flora y su fauna, avistar aves (hay más de 535 especies), 
 degustar sus deliciosas frutas y verduras y contemplar su delicada artesanía. 
 
-📍 {{< reflink path=posts/2022/08/que-ver-sarapiqui-costa-rica >}} 
+📍 [Sarapiquí, ecoturismo y gastronomía en femenino en Costa Rica.]({{% ref 
+que-ver-sarapiqui-costa-rica %}}) 
 
 ## Marielos Corea, Mayra Gayle y Andrea Sánchez del Valle Central
 
@@ -97,7 +99,8 @@ y las ciudades de Cartago, Turrialba y Puriscal. Y, ya en la playa, en el Caribe
 costarricense se encuentran playas de ensueño en la zona de Puerto Viejo, Cahuita o 
 Limón. Un auténtico paraíso. 
 
-📍 {{< reflink path=posts/2022/09/valle-central-caribe-costa-rica >}} 
+📍 [Valle Central de Costa Rica: 3 mujeres y 10 paradas imprescindibles.]({{% ref 
+valle-central-caribe-costa-rica %}}) 
 
 ## Dalila Cascante y Santos Girón de Guanacaste
 
@@ -126,7 +129,8 @@ puedes perderte el Refugio Nacional Vida Silvestre Ostional, donde se puede ver 
 desove de la tortura lora, ni el Parque Nacional Marino Las Baulas, donde desovan las 
 tortugas baulas. 
 
-📍 {{< reflink path=posts/2022/10/emprendedoras-guanacaste-costa-rica >}} 
+📍 [Conoce los secretos de Guanacaste y la ilusión de sus emprendedoras.]({{% ref 
+emprendedoras-guanacaste-costa-rica %}}) 
 
 ## Eida Fletes de la Península de Osa
 
@@ -145,7 +149,8 @@ las curiosas esferas de piedras del Diquís, (unos restos arqueológicos Patrimo
 Humanidad por la Unesco) y divertirse con los deportes de aventuras. Pero, además, es 
 uno de los mejores lugares de Costa Rica para acercarse a la población tica y conocer la 
 historia de sus pueblos indígenas, degustar su sabrosa gastronomía, apreciar las 
-delicadas piezas de artesanía y practicar turismo rural comunitario. 📍 {{< reflink 
-path=posts/2022/11/costa-rica-planes-peninsula-de-osa-corcovado >}} 
+delicadas piezas de artesanía y practicar turismo rural comunitario. 📍 [Península de 
+Osa, planes con corazón en el último rincón de Costa Rica.]({{% ref 
+costa-rica-planes-peninsula-de-osa-corcovado %}}) 
 
 Fotografías cedidas por © Turismo de Costa Rica.

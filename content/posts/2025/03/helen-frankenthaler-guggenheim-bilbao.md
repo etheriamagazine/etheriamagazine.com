@@ -97,8 +97,8 @@ Bilbao ofrece un mundo de posibilidades de ocio y diversión más allá de su ic
 museo. Si estás planeando un fin de semana, te recomendamos no perderte un paseo por el 
 casco viejo, con sus calles llenas de historia, boutiques de diseñadores locales y bares 
 de pintxos. Además, ¿por qué no hacer una escapadita a Getxo para conocer sus preciosas 
-villas? Se puede llegar incluso en metro. (Sigue leyendo {{< reflink 
-path=posts/2023/11/grandes-villas-mansiones-getxo >}}) 
+villas? Se puede llegar incluso en metro. (Sigue leyendo [Un paseo por las grandes 
+mansiones de la Belle Époque de Getxo]({{% ref grandes-villas-mansiones-getxo %}})) 
 
 **Información práctica** 
 

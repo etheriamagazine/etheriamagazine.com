@@ -114,4 +114,5 @@ Palm Jumeirah, Dubái, Emiratos Árabes Unidos. Tel. +971 4 549 7777.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/02/dubai-con-ninos-actividades-y-excursiones >}}
+[Dubái con niños: 8 actividades para disfrutar en familia y una novedad]({{% ref 
+dubai-con-ninos-actividades-y-excursiones %}})

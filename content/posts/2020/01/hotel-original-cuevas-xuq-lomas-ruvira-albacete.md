@@ -82,10 +82,9 @@ encanto en Rusticae.**
 
 📌 **También te puede interesar:** 
 
-{{< reflink 
-path=posts/2020/06/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
+{{< reflink viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca 
 >}} 
 
-{{< reflink path=posts/2021/09/excursion-a-madridejos-azafran-de-toledo >}} 
+{{< reflink excursion-a-madridejos-azafran-de-toledo >}} 
 
-{{< reflink path=posts/2021/01/ruta-del-quijote-en-familia-por-la-mancha >}}
+{{< reflink ruta-del-quijote-en-familia-por-la-mancha >}}

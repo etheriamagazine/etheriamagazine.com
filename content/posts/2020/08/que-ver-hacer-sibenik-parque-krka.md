@@ -17,10 +17,10 @@ Sibenik, situada entre Zadar y Split, es una de las ciudades más interesantes d
 
 Croacia es un destino ya consolidado entre los viajeros españoles, quien más y quien 
 menos ya ha visitado algunas de sus ciudades más turísticas. Puede que hayas recorrido 
-[Zagreb]({{% ref que-ver-hacer-en-2-3-dias-zagreb-croacia %}}), 
+[Zagreb](http://etheriamagazine.com/2020/04/24/que-ver-hacer-en-2-3-dias-zagreb-croacia/), 
 paseado por las murallas de **Dubrovnik**, que hayas alucinado en el templo de 
 Diocleciano en **Split**, admirado el ocaso desde [el órgano del mar de 
-Zadar]({{% ref 48-horas-en-zadar-una-escapada-low-cost %}}) o 
+Zadar](http://etheriamagazine.com/2019/06/21/48-horas-en-zadar-una-escapada-low-cost/) o 
 que hayas renacido en las aguas transparentes de las islas croatas, pero, probablemente, 
 aún no conoces Sibenik. Te vamos a contar por qué en tu próxima escapada a Croacia 
 deberías tener presente esta ciudad situada en la Costa Dálmata, a mitad de camino entre 
@@ -111,7 +111,7 @@ de la República de Venecia.
 ### 7\. Excursión al Parque Nacional de Krka
 
 Menos conocido que el [Parque Nacional de 
-Plitvice]({{% ref 10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia %}}), 
+Plitvice](http://etheriamagazine.com/2018/10/05/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia/), 
 el de Krka es también otro espacio natural imprescindible en Croacia. En este parque lo 
 más sorprendente son sus numerosas cascadas, de todos los tamaños y alturas, su entorno 
 kárstico y los senderos que te llevan a bucólicos rincones donde te sentirás la única 

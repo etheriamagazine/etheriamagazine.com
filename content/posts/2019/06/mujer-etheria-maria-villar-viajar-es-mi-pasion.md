@@ -71,11 +71,11 @@ Acabo de volver de **Myanmar**, un viaje que he hecho con un grupo de clientes y
 
 9\. ¿Qué tres viajes que hayas realizado recomendarías especialmente a una viajera? 
 
-**Etiopía**, **Bután** y {{< reflink path=posts/2019/05/ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta >}}.
+**Etiopía**, **Bután** y [Bolivia]({{% ref ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta %}}).
 
 10\. Tres viajes pendientes… 
 
-Mis tres destinos pendientes son **Antártida**, **Kamchatka** y {{< reflink path=posts/2018/08/nueva-zelanda-en-autocaravana >}}.
+Mis tres destinos pendientes son **Antártida**, **Kamchatka** y [Nueva Zelanda]({{% ref nueva-zelanda-en-autocaravana %}}).
 
 11\. ¿Qué país te ha ganado con su gastronomía? ¿Destacarías algún plato o producto? 
 
@@ -89,7 +89,7 @@ Mi medio favorito para trasladarme es el tren.
 
 13\. ¿Qué hotel te ha impresionado más y por qué? 
 
-No me impresionan los hoteles, quizás porque he trabajado durante más de 10 años comercializando hoteles de lujo. El mejor “hotel” en el que me he quedado ha sido una Yurta de una familia de nómadas en el {{< reflink path=posts/2019/06/viajeras-aventureras-que-ver-mongolia >}}.
+No me impresionan los hoteles, quizás porque he trabajado durante más de 10 años comercializando hoteles de lujo. El mejor “hotel” en el que me he quedado ha sido una Yurta de una familia de nómadas en el [desierto de Gobi (Mongolia)]({{% ref viajeras-aventureras-que-ver-mongolia %}}).
 
 \[caption id="attachment\_10768" align="aligncenter" width="900"\]![viaje mongolia, maria villar, viajate el mundo, mujer etheria](https://fotos.etheriamagazine.com/2019/06/viaje-etheria-mongolia.jpg "Yurta de una familia nómada de Mongolia.") Yurta de una familia nómada de Mongolia.\[/caption\]
 

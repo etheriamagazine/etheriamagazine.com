@@ -180,8 +180,8 @@ Más información en la [web](https://www.visitmexico.com/) de Turismo de Méxic
 
 ## También en México...
 
-{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}}. 
+{{< reflink mejores-yacimientos-arqueologicos-mexico >}}. 
 
-{{< reflink path=posts/2018/05/en-el-mexico-de-coco >}}. 
+{{< reflink en-el-mexico-de-coco >}}. 
 
-{{< reflink path=posts/2022/02/excursiones-en-riviera-maya-mexico >}}.
+{{< reflink excursiones-en-riviera-maya-mexico >}}.

@@ -107,11 +107,11 @@ un ojo a sus sesiones de **Wine & Sex**: cena, cata, espectáculos… ¿os apunt
 ## 6\. Un paseo por La Orotava
 
 La Villa de La Orotava es una visita obligatoria en un viaje a Tenerife con amigas. Ya 
-os contábamos todos sus secretos en el artículo {{< reflink 
-path=posts/2020/06/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava >}}. A 
-nuestras recomendaciones de visitar la Plaza de la Constitución, la iglesia de San 
-Agustín o la preciosa Casa de los Balcones, sumamos un plan más lúdico: tomar algo en 
-**La Bodeguita de Enfrente**, uno de los lugares preferidos por los canarios. 
+os contábamos todos sus secretos en el artículo [Descubre la dulzura de La Orotava]({{% 
+ref viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava %}}). A nuestras 
+recomendaciones de visitar la Plaza de la Constitución, la iglesia de San Agustín o la 
+preciosa Casa de los Balcones, sumamos un plan más lúdico: tomar algo en **La Bodeguita 
+de Enfrente**, uno de los lugares preferidos por los canarios. 
 
 Como curiosidad, La Orotava se transformó en la Cuba colonial para la serie 'La 
 Templanza', que ya se puede ver en Prime Video. ¡No te la pierdas! 
@@ -139,8 +139,9 @@ Si es tu primer viaje a Tenerife la subida al Teide es imprescindible. Recuerda 
 teleférico hay que reservarlo con antelación, pero si improvisáis la excursión no pasa 
 nada porque solo por ver los infinitos paisajes volcánicos de **Parque Nacional del 
 Teide** que rodean el pico merece la pena. Y, si viajáis en primavera, podréis ver el 
-{{< reflink path=posts/2019/05/que-ver-tenerife-donde-cuando-tajinaste-en-flor >}}, una 
-bella y colorida planta endémica de la zona. 
+[espectáculo de los tajinastes en flor]({{% ref 
+que-ver-tenerife-donde-cuando-tajinaste-en-flor %}}), una bella y colorida planta 
+endémica de la zona. 
 
 Para vivir una experiencia única y especial, os recomendamos que reservéis al menos una 
 noche para alojaros en el **Parador de Las Cañadas del Teide**, un hotel de montaña con 
@@ -157,11 +158,11 @@ ver las estrellas en el Teide acompañadas de un guía especializado. No os arre
 
 El sur de la isla es garantía de buen tiempo, así que os recomendamos pasar una jornada 
 de playa y descanso en la zona. Una muy buena opción es ir a la playa del Duque, donde 
-se ubica uno de los mejores hoteles de la isla, el {{< reflink 
-path=posts/2019/01/donde-dormir-tenerife-hotel-bahia-del-duque >}}. Podéis comenzar el 
-día con un tratamiento en su spa, el {{< reflink 
-path=posts/2018/06/bahia-wellness-retreat-del-hotel-bahia-del-duque >}}. Y después pasar 
-la jornada en la playa, que es muy cómoda y cuenta con todos los servicios. 
+se ubica uno de los mejores hoteles de la isla, el [Bahía del Duque]({{% ref 
+donde-dormir-tenerife-hotel-bahia-del-duque %}}). Podéis comenzar el día con un 
+tratamiento en su spa, el [Bahía Wellness Retreat]({{% ref 
+bahia-wellness-retreat-del-hotel-bahia-del-duque %}}). Y después pasar la jornada en la 
+playa, que es muy cómoda y cuenta con todos los servicios. 
 
 Para comer, proponemos dos opciones: algo informal en el Chiringuito o en el restaurante 
 **La Torre del Mirador**, con una carta más amplia y excelente pescado. Si os apetece 
@@ -179,8 +180,8 @@ parece una excursión a La Gomera? Podéis embarcar con vuestro coche en los fer
 menos de una hora, estaréis en La Gomera. Una vez aquí, tenéis que recorrer el Parque de 
 Garajonay, eso sí ¡preparaos para las curvas! Una buena propuesta para el almuerzo es el 
 restaurante vegetariano La Montaña-Casa Efigenia. Tiene una curiosa historia que os 
-contábamos en el artículo {{< reflink 
-path=posts/2021/01/casa-efigenia-mejor-restaurante-vegetariano-la-gomera >}}. 
+contábamos en el artículo [Efigenia la de Las Hayas y la cocina que hechizó a Angela 
+Merkel en La Gomera]({{% ref casa-efigenia-mejor-restaurante-vegetariano-la-gomera %}}). 
 
 📌 También podéis contratar una [excursión organizada a La Gomera con 
 Civitatis](https://www.civitatis.com/es/tenerife/excursion-la-gomera/?aid=10211), con el 
@@ -189,8 +190,6 @@ ferry, un tour por la isla y el almuerzo incluidos.
 ### También te puede interesar:
 
 {{< reflink 
-path=posts/2020/09/viajes-por-espana-10-escapadas-a-las-islas-que-ver-que-hacer-canarias-baleares 
->}} 
+viajes-por-espana-10-escapadas-a-las-islas-que-ver-que-hacer-canarias-baleares >}} 
 
-{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
->}}
+{{< reflink excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos >}}

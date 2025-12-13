@@ -94,9 +94,10 @@ diferentes distritos madrileños.
 
 En Madrid siempre hay propuestas culturales interesantes y las fiestas navideñas son una 
 ocasión excelente para ver esas exposiciones temporales para las que no hemos encontrado 
-tiempo durante el otoño. Nuestras preferidas ya os las contamos en el artículo {{< 
-reflink path=posts/2020/10/10-exposiciones-en-madrid-para-otono-2020 >}}, y todas siguen 
-estando disponibles durante las Navidades. 
+tiempo durante el otoño. Nuestras preferidas ya os las contamos en el artículo [10 
+exposiciones en Madrid para vivir el arte este otoño]({{% ref 
+10-exposiciones-en-madrid-para-otono-2020 %}}), y todas siguen estando disponibles 
+durante las Navidades. 
 
 ![patinaje sobre hielo en Madrid](https://fotos.etheriamagazine.com/2020/12/Madrid-navidad-pista-patinaje.jpg "Pista de patinaje sobre hielo de Matadero. © SG")
 

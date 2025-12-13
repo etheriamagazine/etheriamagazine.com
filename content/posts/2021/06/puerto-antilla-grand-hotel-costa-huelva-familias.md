@@ -100,8 +100,8 @@ durante todo el año, ya que esta franja del litoral goza de una temperatura med
 conocer un poco más la provincia de Huelva. 
 
 Comienza visitando **Isla Cristina** y **El Rompido**, situados a un paso, y continúa en 
-lugares tan interesantes como el {{< reflink 
-path=posts/2018/09/muelle-de-las-carabelas-la-rabida-huelva >}} y el entorno natural del 
+lugares tan interesantes como el [Parque del Descubrimiento y el monasterio de la 
+Rábida]({{% ref muelle-de-las-carabelas-la-rabida-huelva %}}) y el entorno natural del 
 Parque de Doñana. 
 
 ##### Puerto Antilla Grand Hotel

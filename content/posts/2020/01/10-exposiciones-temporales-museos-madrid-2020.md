@@ -23,7 +23,8 @@ píldoras culturas perfectas porque se pueden ver en poco tiempo a la vez que co
 la esencia de un autor o un movimiento artístico. Aquí hemos seleccionados diez de ellas 
 que este año no puedes saltarte. 
 
-En este {{< reflink path=posts/2020/10/10-exposiciones-en-madrid-para-otono-2020 >}} 
+En este [ENLACE te contamos las nuevas exposiciones de Madrid para este otoño 2020. NO 
+TE LAS PIERDAS.]({{% ref 10-exposiciones-en-madrid-para-otono-2020 %}}) 
 
 \[caption id="attachment\_15528" align="aligncenter" width="900"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/Exposiciones-Madrid-biblioteca-nacional.jpg "Mapa de la Biblioteca Nacional.") Mapa de la Biblioteca Nacional. © BNE\[/caption\]
 
@@ -138,8 +139,8 @@ de artes plásticas realizadas por mujeres.
 Con esta exposición temporal, el Museo Sorolla acerca una parte muy concreta de la obra 
 de este autor: su representación de la imagen femenina a través de numerosos cuadros. Se 
 podrán encontrar tanto pinturas reflejando la vida cotidiana como estereotipos y mitos 
-sobre la mujer. Puedes leer la reseña y ver algunas obras de esta muestra: {{< reflink 
-path=posts/2020/09/sorolla-femenino-plural-nueva-exposicion-en-madrid >}} 
+sobre la mujer. Puedes leer la reseña y ver algunas obras de esta muestra: ['Sorolla. 
+Femenino Plural']({{% ref sorolla-femenino-plural-nueva-exposicion-en-madrid %}}) 
 
 - Dónde: Museo Sorolla. General Martínez Campos, 37. Entrada: 3 €.
 - Cuándo: Ampliada hasta el 10/01/2021.

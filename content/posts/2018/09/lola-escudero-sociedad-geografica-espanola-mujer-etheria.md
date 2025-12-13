@@ -49,7 +49,7 @@ Fuera de España, a **Costa Rica**. Me ha parecido que tiene una naturaleza apab
 
 ##### 8\. ¿Qué tres viajes que hayas realizado recomendarías a nuestras lectoras?
 
-Sin hacer distinción por sexos, recomendaría un viaje largo e intenso por {{< reflink path=posts/2018/08/nueva-zelanda-en-autocaravana >}}, donde todo resulta fácil, cómodo y seguro. También recomendaría **la India**, que es un país que odias o amas, pero que **no te deja nunca indiferente**, y nos ayuda a comprender la realidad de otras mujeres. Y, en este sentido, recomiendo también **viajar a Irán**, para desmontar muchos tópicos y prejuicios.
+Sin hacer distinción por sexos, recomendaría un viaje largo e intenso por [**Nueva Zelanda**, a ser posible en autocaravana]({{% ref nueva-zelanda-en-autocaravana %}}), donde todo resulta fácil, cómodo y seguro. También recomendaría **la India**, que es un país que odias o amas, pero que **no te deja nunca indiferente**, y nos ayuda a comprender la realidad de otras mujeres. Y, en este sentido, recomiendo también **viajar a Irán**, para desmontar muchos tópicos y prejuicios.
 
 ##### 9\. Tres viajes pendientes…
 

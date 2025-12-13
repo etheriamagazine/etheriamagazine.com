@@ -33,11 +33,11 @@ euros en el aeropuerto pero en Irlanda del Norte necesitarás libras esterlinas.
 
 ## 1\. Belfast
 
-Empezamos este recorrido en {{< reflink 
-path=posts/2019/11/que-ver-belfast-del-punk-al-diseno >}}, capital de Irlanda del Norte, 
-que será la visita más urbana de todo el recorrido. Te aconsejamos que dediques, al 
-menos, un día completo a recorrerla y que te quedes a dormir aquí la primera noche. Una 
-de las visitas imprescindibles en este lugar es al [Titanic 
+Empezamos este recorrido en [Belfast]({{% ref que-ver-belfast-del-punk-al-diseno %}}), 
+capital de Irlanda del Norte, que será la visita más urbana de todo el recorrido. Te 
+aconsejamos que dediques, al menos, un día completo a recorrerla y que te quedes a 
+dormir aquí la primera noche. Una de las visitas imprescindibles en este lugar es al 
+[Titanic 
 Belfast](https://www.civitatis.com/es/belfast/entrada-titanic-belfast/?aid=10211) 
 (entrada: desde 20 €), un moderno centro de interpretación que recuerda la tragedia del 
 hundimiento del conocido crucero. Necesitarás más de una hora para verlo porque tiene 6 
@@ -74,8 +74,8 @@ Pero a este parque no le hubiese hecho falta la televisión para destacar porque
 numerosas rutas donde disfrutar de su belleza y de su calma. En fin de semana hay muchos 
 irlandeses de pícnic, pero el resto del tiempo es muy tranquilo. 
 
-\*Sigue leyendo otras {{< reflink 
-path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte >}}. 
+\*Sigue leyendo otras [localizaciones de Juego de Tronos en Irlanda del Norte]({{% ref 
+juego-de-tronos-en-irlanda-del-norte %}}). 
 
 ![glenariff, ruta irlanda](https://fotos.etheriamagazine.com/2020/08/ruta-glenariff-irlanda.jpg "Parque Forestal de Glenariff. © Pepa G./ Etheria Magazine")
 

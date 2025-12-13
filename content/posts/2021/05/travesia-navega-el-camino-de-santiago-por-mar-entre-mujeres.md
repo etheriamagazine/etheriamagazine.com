@@ -88,16 +88,16 @@ Mediante las 11 etapas marítimas no sólo se ponen a prueba las fuerzas de los 
 cultural y religioso. Mediante las paradas estipuladas se tiene la oportunidad de 
 conocer buena parte de la costa del norte de España. 
 
-4 de junio. Hondarribia-Bermeo. **5 de junio. Descanso en Bermeo.** (guía del {{< 
-reflink path=posts/2020/04/avistamiento-cetaceos-bizkaia-vizcaya-pais-vasco >}}) 6 de 
-junio. Bermeo-Bilbao. 7 de junio. Bilbao-Santander. 8 de junio. Santander-Gijón. **9 de 
-junio. Descanso en Gijón**. ({{< reflink 
-path=posts/2021/01/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias >}}) 10 de 
-junio. Gijón-Ribadeo. 11 de junio. Ribadeo-Viveiro. **12 de junio. Descanso en 
-Viveiro.** 13 de junio. Viveiro-A Coruña. **14 de junio. Descanso en A Coruña**. 15 de 
-junio. A Coruña-Muxía. 16 de junio. Muxía-Muros. 17 de junio. Muros-Pobra do Caramiñal. 
-18 de junio. Pobra do Caramiñal-Vilagarcía-Padrón. 19 de junio. 
-Padrón/Milladoiro-Santiago de Compostela. (A PIE) 
+4 de junio. Hondarribia-Bermeo. **5 de junio. Descanso en Bermeo.** (guía del [entorno 
+de Bermeo]({{% ref avistamiento-cetaceos-bizkaia-vizcaya-pais-vasco %}})) 6 de junio. 
+Bermeo-Bilbao. 7 de junio. Bilbao-Santander. 8 de junio. Santander-Gijón. **9 de junio. 
+Descanso en Gijón**. ([guía gastro de Gijón]({{% ref 
+gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias %}})) 10 de junio. Gijón-Ribadeo. 
+11 de junio. Ribadeo-Viveiro. **12 de junio. Descanso en Viveiro.** 13 de junio. 
+Viveiro-A Coruña. **14 de junio. Descanso en A Coruña**. 15 de junio. A Coruña-Muxía. 16 
+de junio. Muxía-Muros. 17 de junio. Muros-Pobra do Caramiñal. 18 de junio. Pobra do 
+Caramiñal-Vilagarcía-Padrón. 19 de junio. Padrón/Milladoiro-Santiago de Compostela. (A 
+PIE) 
 
 ![cuando hacer el camino de santiago por mar](https://fotos.etheriamagazine.com/2021/05/Navega-el-Camino-Santiago.jpg "El Camino de Santiago por mar se puede hacer durante todo el año.")
 
@@ -109,8 +109,8 @@ acompañada en la travesía anual.
 
 ### Además del Camino de Santiago por mar también te puede interesar...
 
-{{< reflink path=posts/2019/03/camino-de-finisterre-fairway >}}. 
+{{< reflink camino-de-finisterre-fairway >}}. 
 
-{{< reflink path=posts/2019/05/etapas-que-ver-camino-de-santiago-en-la-rioja >}}. 
+{{< reflink etapas-que-ver-camino-de-santiago-en-la-rioja >}}. 
 
-{{< reflink path=posts/2021/03/5-peliculas-del-camino-de-santiago >}}.
+{{< reflink 5-peliculas-del-camino-de-santiago >}}.

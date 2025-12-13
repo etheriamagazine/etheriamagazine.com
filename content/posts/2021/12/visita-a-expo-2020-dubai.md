@@ -178,9 +178,8 @@ que coincidan con tu visita.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/05/como-aprovechar-una-escala-en-dubai >}} 
+{{< reflink como-aprovechar-una-escala-en-dubai >}} 
 
-{{< reflink 
-path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}} 
+{{< reflink jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}} 
 
-{{< reflink path=posts/2020/11/islas-seychelles-un-viaje-de-lujo-al-paraiso >}}
+{{< reflink islas-seychelles-un-viaje-de-lujo-al-paraiso >}}

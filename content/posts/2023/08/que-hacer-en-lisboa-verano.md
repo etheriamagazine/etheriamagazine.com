@@ -79,8 +79,8 @@ hasta la vela, hay opciones para todos los gustos y niveles de experiencia. ¿Po
 aprovechar esta escapada de verano para practicar submarinismo o vela en las cristalinas 
 aguas portuguesas? 
 
-No te pierdas: {{< reflink 
-path=posts/2024/08/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf >}}. 
+No te pierdas: [De Lisboa a Ericeira, un buen plan para amantes del surf y del buen 
+comer]({{% ref escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf %}}). 
 
 Una [clase de surf de 2 
 horas](https://www.civitatis.com/es/lisboa/curso-surf-carcavelos/) te saldrá por unos 35 
@@ -96,7 +96,8 @@ y aguas refrescantes. Escapa del ajetreo y disfruta de momentos de tranquilidad 
 joyas costeras. Su oferta turística también permite gozar de buenos restaurantes, 
 terrazas animadas y un gran ambiente en verano. 
 
-No te pierdas: {{< reflink path=posts/2018/07/48-horas-en-cascais-sintra-y-estoril >}}. 
+No te pierdas: [Un fin de semana en Cascais, Sintra y Estoril]({{% ref 
+48-horas-en-cascais-sintra-y-estoril %}}). 
 
 ![Atardecer en Costa da Caparica cerca de Lisboa](https://fotos.etheriamagazine.com/2023/08/costa-da-caparica.jpg "Costa da Caparica. © Linda Robert")
 
@@ -119,8 +120,8 @@ puedes poner a prueba tus habilidades con el tiro con arco y la escalada en su
 rocódromo. Un día en este parque al aire libre te dejará con una sonrisa en el rostro y 
 recuerdos inolvidables. Más inf. en adventurepark.pt 
 
-No te pierdas: {{< reflink path=posts/2019/06/planes-divertidos-viajes-familia-portugal 
->}}. 
+No te pierdas: [9 planes divertidos en el Centro de Portugal con niños]({{% ref 
+planes-divertidos-viajes-familia-portugal %}}). 
 
 ![](https://fotos.etheriamagazine.com/2019/06/parque-aventura-figueira-da-foz-portugal.jpg)
 
@@ -137,8 +138,8 @@ indiferente.
 
 **También en Etheria Magazine:** 
 
-{{< reflink path=posts/2021/10/8-visitas-originales-en-lisboa >}}. 
+{{< reflink 8-visitas-originales-en-lisboa >}}. 
 
-{{< reflink path=posts/2018/10/12-miradores-para-exprimir-lisboa >}}. 
+{{< reflink 12-miradores-para-exprimir-lisboa >}}. 
 
-{{< reflink path=posts/2020/09/que-ver-hacer-obidos-pueblo-medieval-portugal >}}.
+{{< reflink que-ver-hacer-obidos-pueblo-medieval-portugal >}}.

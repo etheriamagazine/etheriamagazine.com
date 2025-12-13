@@ -38,7 +38,8 @@ curiosidad, esta ciudad de Guadalajara guarda una curiosa historia que la relaci
 la “movida madrileña”, puedes conocerla en el reportaje de Etheria Magazine que te 
 indicamos a continuación. 
 
-✅ {{< reflink path=posts/2020/12/que-ver-donde-comer-en-siguenza >}} 
+✅ [Sigüenza: del pasado medieval a la Movida madrileña]({{% ref 
+que-ver-donde-comer-en-siguenza %}}) 
 
 ![Catedral de Sigüenza.](https://fotos.etheriamagazine.com/2023/11/siguenza-catedral-castilla-la-mancha.jpg "Catedral de Sigüenza.")
 
@@ -54,7 +55,8 @@ desde Tamajón, la primera incluye Almiruete, Palancares y Valverde de los Arroy
 con pizarra negra y cuarcita. Y la segunda Campillo de Ranas, Robleluengo y Majaelrayo, 
 uno de los más poblados. 
 
-✅ {{< reflink path=posts/2019/05/ruta-en-coche-pueblos-negros-guadalajara >}} 
+✅ [Respirar ‘a pulmón abierto’ en los Pueblos Negros de Guadalajara]({{% ref 
+ruta-en-coche-pueblos-negros-guadalajara %}}) 
 
 ![plaza de Valverde de los Arroyos](https://fotos.etheriamagazine.com/2023/11/pueblos-negros-Valverde-de-los-Arroyos-castilla-la-mancha.jpg "Valverde de los Arroyos, en la ruta de los Pueblos Negros.")
 
@@ -77,7 +79,8 @@ iglesias, conventos y palacios que demuestran la pujanza de esta villa en el sig
 Uno de los lugares más destacados es el **convento de Santa Catalina** que alberga desde 
 los años setenta del siglo pasado a un Parador Nacional. 
 
-✅ {{< reflink path=posts/2020/11/mejores-rutas-en-ciudad-real >}} 
+✅ [8 razones por las que desearás conocer la provincia de Ciudad Real]({{% ref 
+mejores-rutas-en-ciudad-real %}}) 
 
 ## Villanueva de los Infantes
 
@@ -111,7 +114,8 @@ y la iglesia de San Nicolás de Bari, del siglo XVI. Merece la pena dar un paseo
 **convento de Nuestra Señora del Rosal** que, aunque está en ruinas, conserva su 
 estructura y ofrece unas vistas estupendas de los alrededores. 
 
-✅ {{< reflink path=posts/2020/01/que-ver-hacer-ruta-mimbre-cuenca >}} 
+✅ [Ruta de los Mimbres de Cuenca, belleza roja sin artificios]({{% ref 
+que-ver-hacer-ruta-mimbre-cuenca %}}) 
 
 ## Alarcón
 
@@ -183,6 +187,7 @@ de las visitas que no puedes perderte.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/09/pueblos-bonitos-galicia >}} 
+{{< reflink pueblos-bonitos-galicia >}} 
 
-{{< reflink path=posts/2023/09/pueblos-bonitos-castilla-y-leon >}}
+[12 pueblos bonitos en Castilla y León que no puedes perderte]({{% ref 
+pueblos-bonitos-castilla-y-leon %}})

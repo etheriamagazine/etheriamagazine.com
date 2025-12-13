@@ -159,13 +159,10 @@ No te pierdas sus **Encuentros Gastronómicos de la Trucha.**
 
 **También te puede interesar en León...** 
 
-{{< reflink 
-path=posts/2020/12/10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}. 
+{{< reflink 10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}. 
 
-{{< reflink path=posts/2020/05/escapadas-por-espana-las-medulas-leon >}}. 
+{{< reflink escapadas-por-espana-las-medulas-leon >}}. 
 
-{{< reflink 
-path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
->}}. 
+{{< reflink viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon >}}. 
 
-{{< reflink path=posts/2020/12/16-lugares-secretos-y-leyendas-de-leon-capital >}}.
+{{< reflink 16-lugares-secretos-y-leyendas-de-leon-capital >}}.

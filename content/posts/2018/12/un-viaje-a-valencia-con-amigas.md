@@ -131,6 +131,6 @@ Más información en www.visitvalencia.com
 
 **También te interesa leer...** 
 
-{{< reflink path=posts/2022/10/que-ver-valencia >}}. 
+{{< reflink que-ver-valencia >}}. 
 
-{{< reflink path=posts/2022/08/que-ver-alicante >}}
+{{< reflink que-ver-alicante >}}

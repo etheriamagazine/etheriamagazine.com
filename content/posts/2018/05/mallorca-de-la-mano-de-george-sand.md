@@ -191,4 +191,4 @@ algún yugo que sacudir?”.
 
 3. Una versión de '[Un invierno en Mallorca' en papel](https://amzn.to/3m92orP).
 
-5. Leer: {{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}.
+5. Leer: [Palma con amigas: 8 planazos para exprimir la capital de Mallorca]({{% ref planes-y-excursiones-desde-palma-mallorca-con-amigas %}}).

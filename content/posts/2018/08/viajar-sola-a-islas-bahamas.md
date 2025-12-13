@@ -104,9 +104,9 @@ Un viaje a Bahamas es algo más que un capricho, puede convertirse en un sueño 
 
 ### CONSEJOS ETHERIA
 
-- Muchos vuelos desde España realizan escala en {{< reflink 
-path=posts/2018/05/miami-7-planes-para-viajar-en-familia >}}. Aprovecha para conocer la 
-ciudad o para quedarte una noche. De esta manera, tendrás dos destinos al precio de uno. 
+- Muchos vuelos desde España realizan escala en [Miami]({{% ref 
+miami-7-planes-para-viajar-en-familia %}}). Aprovecha para conocer la ciudad o para 
+quedarte una noche. De esta manera, tendrás dos destinos al precio de uno. 
 
 - El [hotel Pink Sands Resort](http://www.pinksandsresort.com) es una opción de lujo 
 para disfrutar del destino pero existen muchos otros establecimientos más asequibles. 
@@ -117,7 +117,7 @@ de enclaves, en muchos de ellos solo es necesario disponer de tubo, gafas y alet
 disfrutar de un auténtico espectáculo visual. Los más atrevidos disfrutarán 
 especialmente dando de comer a los tiburones o jugando con los delfines. 
 
-- Una opción cómoda para {{< reflink path=posts/2018/05/crucero-familia-disney-bahamas 
->}}. 
+- Una opción cómoda para [recorrer en familia las islas Bahamas es en crucero]({{% ref 
+crucero-familia-disney-bahamas %}}). 
 
 - Más información en [www.bahamasturismo.es](http://www.bahamasturismo.es)

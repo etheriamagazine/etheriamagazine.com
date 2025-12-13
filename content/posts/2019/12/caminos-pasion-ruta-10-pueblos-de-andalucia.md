@@ -259,6 +259,6 @@ refrescante con vistas a la fortaleza desde la que se inició la conquista de Gr
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2022/04/semana-santa-caminos-de-pasion >}}. 
+{{< reflink semana-santa-caminos-de-pasion >}}. 
 
 [Web oficial](https://www.caminosdepasion.com/) de Caminos de Pasión.

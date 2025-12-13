@@ -173,9 +173,8 @@ Dónde: Glorieta de Bilbao, 7. Cuándo: sábados y domingos de 10 a 13 h. Precio
 
 **Te puede interesar...** 
 
-{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}}. 
+{{< reflink tabernas-historicas-de-madrid >}}. 
 
-{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
->}} 
+{{< reflink ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias >}} 
 
-{{< reflink path=posts/2020/09/donde-tomar-mejores-postres-chocolate-en-madrid >}}
+{{< reflink donde-tomar-mejores-postres-chocolate-en-madrid >}}

@@ -66,8 +66,8 @@ parar a hacer fotografías del imponente paisaje de acantilados y mar. Al descen
 otro lado, veréis las bonitas playas de esta **península de Formentor**, de esas que 
 guarda la costa norte mallorquina con agua tranquila y transparente y pinos hasta casi 
 el borde de la orilla. Un lugar perfecto para una jornada playera donde alquilar una 
-barca a pedales o unas tablas de paddle surf. Aquí se encuentra el histórico {{< reflink 
-path=posts/2018/07/hotel-formentor-mallorca >}}, que actualmente está siendo renovado 
+barca a pedales o unas tablas de paddle surf. Aquí se encuentra el histórico [hotel 
+Formentor]({{% ref hotel-formentor-mallorca %}}), que actualmente está siendo renovado 
 por la cadena Four Seasons. 
 
 De regreso, por la misma carretera (no hay otra), merece la pena una parada en el 
@@ -91,8 +91,9 @@ nada como una ensaimada con chocolate en una pastelería tradicional como [Can J
 S'Aigo](https://canjoandesaigo.com/es/inicio/). 
 
 Si consigues despistar un rato a la familia, te recomendamos que leas nuestro reportaje 
-sobre {{< reflink path=posts/2019/08/24-horas-palma-mallorca-arte-compras-mercados >}} 
-para pasar un rato de tiendas por la ciudad. 
+sobre [compras, mercados y algo más en Palma de Mallorca]({{% ref 
+24-horas-palma-mallorca-arte-compras-mercados %}}) para pasar un rato de tiendas por la 
+ciudad. 
 
 ## 5\. Navegar hasta la isla Dragonera
 
@@ -156,8 +157,8 @@ agua](https://www.civitatis.com/es/cala-nova/alquiler-motos-agua-cala-nova/?aid=
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/08/cuevas-de-mallorca-con-ninos >}} 
+{{< reflink cuevas-de-mallorca-con-ninos >}} 
 
-{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}} 
+{{< reflink planes-y-excursiones-desde-palma-mallorca-con-amigas >}} 
 
-{{< reflink path=posts/2018/07/ruta-del-vino-binissalem-viaje-mallorca-interior >}}
+{{< reflink ruta-del-vino-binissalem-viaje-mallorca-interior >}}

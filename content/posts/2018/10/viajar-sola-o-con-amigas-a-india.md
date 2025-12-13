@@ -42,8 +42,8 @@ los prejuicios.
 
 #### ¿Qué llevar en la maleta?
 
-En este artículo te ayudamos a {{< reflink 
-path=posts/2018/10/que-llevar-en-la-maleta-para-viajar-a-india >}}. 
+En este artículo te ayudamos a [preparar la maleta para India]({{% ref 
+que-llevar-en-la-maleta-para-viajar-a-india %}}). 
 
 #### ¿Qué visitar?
 
@@ -171,9 +171,9 @@ tren, fue “acogida” por un gran grupo de mujeres que cuidaron de ella en tod
 
 India es así de fascinante, y poder realizar una inmersión tan auténtica os permitirá 
 llevaros recuerdos únicos. Para realizar un viaje organizado con otras mujeres puedes 
-consultar los programas de las agencias **Mujer y viajera**, {{< reflink 
-path=posts/2018/10/alice-fauveau-directora-focus-on-women-mujer-etheria >}}, {{< reflink 
-path=posts/2018/08/ana-blasco-wom-viajes-mujeres-etheria >}}, etc. 
+consultar los programas de las agencias **Mujer y viajera**, [Focus on Women]({{% ref 
+alice-fauveau-directora-focus-on-women-mujer-etheria %}}), [Wom Viajes]({{% ref 
+ana-blasco-wom-viajes-mujeres-etheria %}}), etc. 
 
 No se me ocurre mejor manera de terminar esta recomendación viajera que con la siguiente 
 frase: "India es el último país que debes visitar. Después de esto, ningún otro lugar 
@@ -220,6 +220,6 @@ India](https://download.india-tourism.com/).
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2020/04/la-pasion-india-de-anita-delgado-libros-viajes >}} 
+{{< reflink la-pasion-india-de-anita-delgado-libros-viajes >}} 
 
-{{< reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}}
+{{< reflink viaje-para-mujeres-que-ver-norte-india-rajastan >}}

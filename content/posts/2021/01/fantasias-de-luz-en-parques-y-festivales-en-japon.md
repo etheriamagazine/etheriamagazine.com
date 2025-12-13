@@ -65,8 +65,8 @@ interior incluso se puede disfrutar de una cena tradicional.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-okinawa-japon >}}. 
+{{< reflink viajar-sola-que-ver-hacer-dormir-okinawa-japon >}}. 
 
-{{< reflink path=posts/2019/05/viajar-japon-que-es-ryokan-y-onsen >}}. 
+{{< reflink viajar-japon-que-es-ryokan-y-onsen >}}. 
 
-{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}}.
+{{< reflink como-organizar-un-viaje-a-japon >}}.

@@ -19,15 +19,14 @@ de los imprescindibles de la capital austriaca.
 
 ![Gustav Klimt es uno de los artistas presentes en el Museo de Viena.](https://fotos.etheriamagazine.com/2024/05/Klimt-Museo-Viena.jpg "Gustav Klimt es uno de los artistas presentes en el Museo de Viena. © Yolanda Cardo")
 
-Viena cuenta con **más de 100 museos**. El {{< reflink 
-path=posts/2022/09/museo-sisi-de-viena >}} consagrado a la célebre emperatriz; el 
-Albertina con una de las mayores colecciones gráficas del mundo en la que no falta 
-Durero, Cézanne, Rubens o Picasso; el Belvedere con sus espléndidos jardines, sede de 
-las principales obras de Gustav Klimt, Oscar Kokoschka y Egon Schiele; o el Museo de 
-Historia del Arte y el de Historia Natural pertenecen a ese grupo de espacios 
-consagrados, reconocidos mundialmente. Pero existen otros igualmente imprescindibles. Os 
-contamos por qué el nuevo **Museo de Viena** (Wien Museum) y la **Kunst Haus** no deben 
-faltar en vuestra lista. 
+Viena cuenta con **más de 100 museos**. El [Museo Sisi]({{% ref museo-sisi-de-viena %}}) 
+consagrado a la célebre emperatriz; el Albertina con una de las mayores colecciones 
+gráficas del mundo en la que no falta Durero, Cézanne, Rubens o Picasso; el Belvedere 
+con sus espléndidos jardines, sede de las principales obras de Gustav Klimt, Oscar 
+Kokoschka y Egon Schiele; o el Museo de Historia del Arte y el de Historia Natural 
+pertenecen a ese grupo de espacios consagrados, reconocidos mundialmente. Pero existen 
+otros igualmente imprescindibles. Os contamos por qué el nuevo **Museo de Viena** (Wien 
+Museum) y la **Kunst Haus** no deben faltar en vuestra lista. 
 
 ![Retrato de María Teresa de Austria en el Museo de Viena.](https://fotos.etheriamagazine.com/2024/05/Retrato-Maria-Teresa-Austria-Museo-Viena.jpg "Retrato de María Teresa de Austria en el Museo de Viena. © Yolanda Cardo")
 
@@ -120,6 +119,6 @@ Kunst Haus Wien. Untere Weibgerberstrabe 13. 1030, Viena.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2024/04/tres-barrios-viena-con-emprendedoras >}}. 
+{{< reflink tres-barrios-viena-con-emprendedoras >}}. 
 
-{{< reflink path=posts/2022/09/museo-sisi-de-viena >}}.
+{{< reflink museo-sisi-de-viena >}}.

@@ -193,8 +193,8 @@ contrasta con sus palacios renacentistas.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/09/viaja-sola-a-los-valles-de-la-jacetania-huesca >}} 
+{{< reflink viaja-sola-a-los-valles-de-la-jacetania-huesca >}} 
 
-{{< reflink path=posts/2021/12/valle-de-chistau-huesca >}} 
+{{< reflink valle-de-chistau-huesca >}} 
 
-{{< reflink path=posts/2021/10/ruta-en-coche-por-teruel >}}
+{{< reflink ruta-en-coche-por-teruel >}}

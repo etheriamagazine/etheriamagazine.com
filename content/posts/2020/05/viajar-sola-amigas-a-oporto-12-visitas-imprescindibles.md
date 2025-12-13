@@ -241,8 +241,8 @@ escuela de vino, tiendas y galerías de exposiciones. Y de visita obligada tambi
 se conserva una bonita capilla del arquitecto Nicolau Nasoni. En dicho museo se hace un 
 repaso a la industria textil en Portugal y se da a conocer la moda portuguesa. 
 
-📍No te pierdas: {{< reflink path=posts/2022/03/wow-oporto-barrio-gastronomico-cultural 
->}}. 
+📍No te pierdas: [WOW Oporto, el mayor barrio gastronómico y cultural de Portugal]({{% 
+ref wow-oporto-barrio-gastronomico-cultural %}}). 
 
 ### Para tomar nota si viajas sola a Oporto
 
@@ -258,6 +258,6 @@ puede asustarte. Esta fue la primera ciudad a la que viajé sola y la recomiendo
 
 **Te puede interesar...** 
 
-{{< reflink path=posts/2022/05/the-yeatman-hotel-del-vino-oporto >}}. 
+{{< reflink the-yeatman-hotel-del-vino-oporto >}}. 
 
-{{< reflink path=posts/2021/10/8-visitas-originales-en-lisboa >}}.
+{{< reflink 8-visitas-originales-en-lisboa >}}.

@@ -139,7 +139,8 @@ más información o reservar vuestra plaza en
 
 **Sigue leyendo sobre Japón en Etheria Magazine** 
 
-{{< reflink path=posts/2025/01/consejos-practicos-sania-jelic-viajar-sola-a-japon >}}{{< 
-reflink path=posts/2025/01/consejos-practicos-sania-jelic-viajar-sola-a-japon >}}. 
+[Consejos prácticos de Sania Jelic para vi]({{% ref 
+consejos-practicos-sania-jelic-viajar-sola-a-japon %}})[ajar sola a Japón]({{% ref 
+consejos-practicos-sania-jelic-viajar-sola-a-japon %}}). 
 
-{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}}.
+{{< reflink como-organizar-un-viaje-a-japon >}}.

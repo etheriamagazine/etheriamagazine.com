@@ -147,8 +147,8 @@ colorista mundo de abalorios en los adornos corporales y en la artesanía.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/11/islas-seychelles-un-viaje-de-lujo-al-paraiso >}}. 
+{{< reflink islas-seychelles-un-viaje-de-lujo-al-paraiso >}}. 
 
-{{< reflink path=posts/2019/08/5-viajes-para-comenzar-a-conocer-africa >}}. 
+{{< reflink 5-viajes-para-comenzar-a-conocer-africa >}}. 
 
-{{< reflink path=posts/2018/11/mujeres-que-viajan-a-zanzibar-que-ver-en-tanzania >}}.
+{{< reflink mujeres-que-viajan-a-zanzibar-que-ver-en-tanzania >}}.

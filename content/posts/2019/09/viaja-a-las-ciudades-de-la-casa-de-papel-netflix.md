@@ -36,8 +36,8 @@ ajetreo de Shinjuku o la elegancia y sofisticación de Ginza. No te pierdas el f
 cruce de Shibuya, el santuario Meiji y las divertidas tiendas y locales estilo kawaii de 
 Harajuku. 
 
-✅ Sigue leyendo {{< reflink path=posts/2021/07/que-hacer-3-dias-en-tokio-viajes-mujeres 
->}} 
+✅ Sigue leyendo [Descubre la magia de Tokio en sólo tres días]({{% ref 
+que-hacer-3-dias-en-tokio-viajes-mujeres %}}) 
 
 ![Templo Sensoji, en Tokio.](https://fotos.etheriamagazine.com/2019/09/la-casa-de-papel-tokio.jpg "Templo Sensoji, en Tokio. © SG")
 
@@ -65,8 +65,8 @@ Checkpoint Charlie.
 
 ![Puerta de Brandeburgo en Berlín](https://fotos.etheriamagazine.com/2019/09/la-casa-de-papel-berlin.jpg "Puerta de Brandeburgo. © Ricardo Gómez Ángel")
 
-✅ No te pierdas este artículo: {{< reflink 
-path=posts/2018/11/viaje-al-berlin-mas-divertido-interesante-sobrecogedor >}} 
+✅ No te pierdas este artículo: [Berlín: de la caricia al tortazo]({{% ref 
+viaje-al-berlin-mas-divertido-interesante-sobrecogedor %}}) 
 
 ## 4\. Moscú
 
@@ -102,8 +102,8 @@ Aberdare.
 
 ![edificios de Nairobi](https://fotos.etheriamagazine.com/2019/09/la-casa-de-papel-nairobi.jpg "Imagen de Nairobi.")
 
-✅ No te pierdas este artículo: {{< reflink 
-path=posts/2018/10/10-flechazos-para-viajar-a-kenia >}} 
+✅ No te pierdas este artículo: [Kenia, 10 experiencias que nunca olvidarás]({{% ref 
+10-flechazos-para-viajar-a-kenia %}}) 
 
 ## 7\. Helsinki
 
@@ -128,8 +128,8 @@ Botánico.
 
 ![Opera House de Oslo.](https://fotos.etheriamagazine.com/2019/09/la-casa-de-papel-oslo.jpg "Opera House de Oslo. © Arvid Malde")
 
-✅ Sigue leyendo en {{< reflink 
-path=posts/2020/01/viajes-con-amigas-que-ver-y-hacer-en-oslo >}} 
+✅ Sigue leyendo en [Qué ver y hacer en tu primera visita a Oslo]({{% ref 
+viajes-con-amigas-que-ver-y-hacer-en-oslo %}}) 
 
 ## 9\. Estocolmo
 
@@ -152,8 +152,8 @@ Monserrate, el colorido barrio histórico de La Candelaria, Usquén (el barrio d
 lleno de restaurantes, terrazas y con un curioso mercadillo los domingos) y el parque 
 Simón Bolívar. 
 
-✅ Sigue leyendo {{< reflink 
-path=posts/2020/03/viaje-para-mujeres-que-ver-hacer-en-bogota >}} 
+✅ Sigue leyendo [Bogotá no es fea, es que no la sabes mirar]({{% ref 
+viaje-para-mujeres-que-ver-hacer-en-bogota %}}) 
 
 ![Calle de Bogotá.](https://fotos.etheriamagazine.com/2019/09/la-casa-de-papel-bogota.jpg "Calle de Bogotá.")
 
@@ -179,8 +179,9 @@ la Ópera.
 
 ![Puerto de Marsella.](https://fotos.etheriamagazine.com/2019/09/la-casa-de-papel-marsella.jpg "Puerto de Marsella.")
 
-✅ Todas las claves para visitar la ciudad las tienes en este artículo: {{< reflink 
-path=posts/2020/07/viajar-sola-amigas-marsella-que-ver-hacer >}} 
+✅ Todas las claves para visitar la ciudad las tienes en este artículo: [Marsella en un 
+fin de semana: experiencias imperdibles con amigas]({{% ref 
+viajar-sola-amigas-marsella-que-ver-hacer %}}) 
 
 ## 13\. Lisboa
 
@@ -193,5 +194,5 @@ encantador barrio del Chiado y la zona de Belém.
 
 ![Tranvía en Lisboa.](https://fotos.etheriamagazine.com/2019/09/la-casa-de-papel-lisboa.jpg "Tranvía en Lisboa. © Vita Marija Murenaite")
 
-✅ No te pierdas el artículo {{< reflink path=posts/2023/08/que-hacer-en-lisboa-verano 
->}}
+✅ No te pierdas el artículo [8 planes de verano en Lisboa para todos los gustos]({{% ref 
+que-hacer-en-lisboa-verano %}})

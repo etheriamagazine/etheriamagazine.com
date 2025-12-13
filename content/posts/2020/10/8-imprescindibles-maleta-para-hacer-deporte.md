@@ -123,8 +123,8 @@ que propone Decathlon.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/06/claves-elegir-mejor-maleta-para-viajar >}} 
+{{< reflink claves-elegir-mejor-maleta-para-viajar >}} 
 
-{{< reflink path=posts/2020/01/que-llevar-en-maleta-viaje-tailandia >}} 
+{{< reflink que-llevar-en-maleta-viaje-tailandia >}} 
 
-{{< reflink path=posts/2020/01/que-llevar-en-la-maleta-en-un-viaje-a-jordania >}}
+{{< reflink que-llevar-en-la-maleta-en-un-viaje-a-jordania >}}

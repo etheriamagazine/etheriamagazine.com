@@ -189,8 +189,8 @@ representantes de esta ciudad.
 
 ## También te interesa leer...
 
-{{< reflink path=posts/2020/09/10-planes-originales-en-bilbao-con-amigas >}}. 
+{{< reflink 10-planes-originales-en-bilbao-con-amigas >}}. 
 
-{{< reflink path=posts/2019/12/finde-bilbao-con-amigas-mejores-restaurantes >}}. 
+{{< reflink finde-bilbao-con-amigas-mejores-restaurantes >}}. 
 
-{{< reflink path=posts/2019/07/que-hacer-bilbao-semana-grande-aste-nagusia-2019 >}}.
+{{< reflink que-hacer-bilbao-semana-grande-aste-nagusia-2019 >}}.

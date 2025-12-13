@@ -189,9 +189,7 @@ poeta Lord Byron.
 
 **También te puede interesar:** 
 
-{{< reflink 
-path=posts/2020/05/mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas >}} 
+{{< reflink mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas >}} 
 
-{{< reflink 
-path=posts/2020/03/hedy-lamarr-extasis-inventora-wifi-modelo-actriz-espia-mujeres-etheria 
->}}
+[Hedy Lamarr, inventora de la tecnología wifi.]({{% ref 
+hedy-lamarr-extasis-inventora-wifi-modelo-actriz-espia-mujeres-etheria %}})

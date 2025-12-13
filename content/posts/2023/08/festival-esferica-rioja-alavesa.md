@@ -70,6 +70,6 @@ Alavesa](https://esfericariojaalavesa.com/) y también reservar tus entradas.
 
 **También te puedes interesar...** 
 
-{{< reflink path=posts/2021/09/planes-originales-en-vitoria-con-amigas >}}. 
+{{< reflink planes-originales-en-vitoria-con-amigas >}}. 
 
-{{< reflink path=posts/2020/09/31-escapadas-po-los-paisajes-del-vino >}}.
+{{< reflink 31-escapadas-po-los-paisajes-del-vino >}}.

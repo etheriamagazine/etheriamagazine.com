@@ -142,11 +142,10 @@ Croacia](https://visitacroaciablog.es/pag/) (ambos en español).
 
 #### También te puede interesar en Croacia
 
-{{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}}. 
+{{< reflink viaje-a-croacia-como-organizar-que-ver-hacer >}}. 
 
-{{< reflink path=posts/2018/10/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia 
->}}. 
+{{< reflink 10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia >}}. 
 
-{{< reflink path=posts/2019/06/48-horas-en-zadar-una-escapada-low-cost >}}. 
+{{< reflink 48-horas-en-zadar-una-escapada-low-cost >}}. 
 
-{{< reflink path=posts/2020/04/que-ver-hacer-en-2-3-dias-zagreb-croacia >}}.
+{{< reflink que-ver-hacer-en-2-3-dias-zagreb-croacia >}}.

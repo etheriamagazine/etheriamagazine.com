@@ -140,6 +140,6 @@ scrolling="no">&lt;br /></iframe> -->
 
 ### Otros libros que te puede interesar...
 
-{{< reflink path=posts/2021/02/najat-libro-cocina-marroqui-chef-najat-kaanache >}}. 
+{{< reflink najat-libro-cocina-marroqui-chef-najat-kaanache >}}. 
 
-{{< reflink path=posts/2020/11/libros-de-cocteleria-un-gran-regalo-navidad >}}
+{{< reflink libros-de-cocteleria-un-gran-regalo-navidad >}}

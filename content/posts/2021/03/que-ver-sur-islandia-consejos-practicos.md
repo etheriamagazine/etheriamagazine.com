@@ -177,8 +177,8 @@ norte de Islandia.
 
 **También te puede interesar** 
 
-{{< reflink path=posts/2020/01/que-ver-en-noruega-trondheim-bergen-y-oslo >}} 
+{{< reflink que-ver-en-noruega-trondheim-bergen-y-oslo >}} 
 
-{{< reflink path=posts/2018/09/viaje-laponia-finlandesa-ninos-en-familia >}} 
+{{< reflink viaje-laponia-finlandesa-ninos-en-familia >}} 
 
-{{< reflink path=posts/2019/11/viajar-sola-islas-lofoten-noruega-ruta-del-rey-olav >}}
+{{< reflink viajar-sola-islas-lofoten-noruega-ruta-del-rey-olav >}}

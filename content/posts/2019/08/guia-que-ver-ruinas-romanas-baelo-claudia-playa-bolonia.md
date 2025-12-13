@@ -43,7 +43,8 @@ eran el **pescado en salazón y la salsa garum**, un condimento muy apreciado en
 época. La ubicación de Baelo Claudia propiciaba, además, los intercambios con las bases 
 romanas de África, del Mediterráneo y de las zonas del interior de la Península. 
 
-✅ **NO PIERDAS:** {{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}} 
+✅ **NO PIERDAS:** [La mejor guía de CÁDIZ PROVINCIA para organizar tu viaje: pueblos y 
+visitas de interés (con mapa incluido).]({{% ref pueblos-que-ver-en-cadiz %}}) 
 
 ![ruinas de bolonia, baelo claudia tarifa](https://fotos.etheriamagazine.com/2019/08/pie-baelo-claudia-bolonia.jpg "Pieza expuesta en el centro de interpretación. ©PG/2019")
 
@@ -220,9 +221,8 @@ Andalucía](http://www.museosdeandalucia.es/web/conjuntoarqueologicobaeloclaudia
 
 **También te puede interesar en Cádiz...** 
 
-{{< reflink path=posts/2021/07/restaurantes-en-el-palmar-cadiz-para-comer-muy-bien >}}. 
+{{< reflink restaurantes-en-el-palmar-cadiz-para-comer-muy-bien >}}. 
 
-{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
->}}. 
+{{< reflink 12-actividades-familiares-para-viajes-con-ninos-en-cadiz >}}. 
 
-{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}}.
+{{< reflink ruta-por-los-pueblos-blancos-de-cadiz >}}.

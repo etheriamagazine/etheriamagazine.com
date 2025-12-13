@@ -201,8 +201,8 @@ temporada.
 
 ### También en Cantabria...
 
-##### {{< reflink path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}}.
+##### {{< reflink 8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}}.
 
-##### {{< reflink path=posts/2020/05/viaje-a-los-mejores-faros-de-cantabria >}}.
+##### {{< reflink viaje-a-los-mejores-faros-de-cantabria >}}.
 
-##### {{< reflink path=posts/2019/08/que-ver-valderredible-cantabria >}}
+##### {{< reflink que-ver-valderredible-cantabria >}}

@@ -154,8 +154,8 @@ Corniglia – Manarola (1 hora), Manarola
 
 ### Otros viajes en Italia
 
-{{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}}. 
+{{< reflink que-ver-en-napoles-en-fin-de-semana >}}. 
 
-{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}}. 
+{{< reflink que-ver-en-turin-en-un-viaje-con-amigas >}}. 
 
-{{< reflink path=posts/2019/04/que-ver-alberobello-italia-unesco >}}.
+{{< reflink que-ver-alberobello-italia-unesco >}}.

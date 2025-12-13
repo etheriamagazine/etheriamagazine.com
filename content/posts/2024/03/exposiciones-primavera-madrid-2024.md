@@ -187,8 +187,8 @@ Mª Moliner. Pº de Recoletos 20-22. Madrid. Precio: entrada gratuita.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}} 
+{{< reflink tabernas-historicas-de-madrid >}} 
 
-{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}} 
+{{< reflink ruta-ava-gardner-en-madrid >}} 
 
-{{< reflink path=posts/2022/12/planes-adolescentes-madrid >}}
+[Planes divertidos con adolescentes en Madrid]({{% ref planes-adolescentes-madrid %}})

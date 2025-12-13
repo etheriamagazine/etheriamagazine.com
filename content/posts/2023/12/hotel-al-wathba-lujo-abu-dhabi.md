@@ -101,6 +101,6 @@ euros por noche.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/12/agenda-navidad-dubai >}} 
+{{< reflink agenda-navidad-dubai >}} 
 
-{{< reflink path=posts/2022/02/hotel-lujo-one-only-royal-mirage-dubai >}}
+{{< reflink hotel-lujo-one-only-royal-mirage-dubai >}}

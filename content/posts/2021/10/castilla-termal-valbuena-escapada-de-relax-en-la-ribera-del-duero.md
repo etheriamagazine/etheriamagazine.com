@@ -141,8 +141,8 @@ los viñedos y pueblos de la Ribera del Duero.
 
 ![bodega tresmano ribera del duero](https://fotos.etheriamagazine.com/2021/10/bodega-tresmano-valladolid.jpg "Bodega Tr3smano. © P.G.")
 
-📌 Consulta también este artículo: {{< reflink 
-path=posts/2018/05/ruta-del-vino-ribera-del-duero-valladolid >}} 
+📌 Consulta también este artículo: [Ruta por Ribera del Duero: de bodega en bodega por 
+la N-122.]({{% ref ruta-del-vino-ribera-del-duero-valladolid %}}) 
 
 ### Vuelo en globo sobre la Ribera del Duero
 
@@ -164,8 +164,8 @@ Pérez son ya un clásico del paisaje castellanoleonés. Consulta salidas o expe
 personalizadas en el hotel o en la web de esta empresa. 
 
 📌 Si quieres conocer más detalles sobre los vuelos en globo y posibles destinos, no te 
-pierdas este artículo: {{< reflink 
-path=posts/2020/07/vuelos-en-globo-en-espana-regalo-viajero >}}. 
+pierdas este artículo: [Volar en globo en España, el mejor regalo para espíritus 
+aventureros]({{% ref vuelos-en-globo-en-espana-regalo-viajero %}}). 
 
 ##### Más información
 
@@ -175,10 +175,8 @@ C/ Murallas, s/n. San Bernardo. Tel. +34 983 683 040
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/05/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid 
->}} 
+{{< reflink viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid >}} 
 
-{{< reflink path=posts/2019/01/bares-imprescindibles-finde-valladolid >}} 
+{{< reflink bares-imprescindibles-finde-valladolid >}} 
 
-{{< reflink path=posts/2021/03/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia 
->}}
+{{< reflink 15-lugares-imprescindibles-que-ver-en-segovia-y-provincia >}}

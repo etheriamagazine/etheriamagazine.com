@@ -120,6 +120,6 @@ Más información en [flamencocultural.com](https://flamencocultural.com/)
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2024/04/ruta-lola-flores-en-madrid >}}. 
+{{< reflink ruta-lola-flores-en-madrid >}}. 
 
-{{< reflink path=posts/2024/10/exposiciones-en-madrid-otono-de-2024 >}}.
+{{< reflink exposiciones-en-madrid-otono-de-2024 >}}.

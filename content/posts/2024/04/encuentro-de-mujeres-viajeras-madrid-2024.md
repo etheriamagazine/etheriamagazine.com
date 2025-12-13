@@ -188,4 +188,4 @@ reído y emocionado con cada testimonio.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2024/03/encuentro-mujeres-viajeras-madrid >}}.
+{{< reflink encuentro-mujeres-viajeras-madrid >}}.

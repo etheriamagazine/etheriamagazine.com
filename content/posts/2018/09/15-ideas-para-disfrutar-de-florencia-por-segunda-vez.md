@@ -170,8 +170,8 @@ Sant’Ambrogio, **un popular mercadillo de antigüedades**.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/05/48-horas-en-florencia-fin-de-semana-que-ver-hacer >}} 
+{{< reflink 48-horas-en-florencia-fin-de-semana-que-ver-hacer >}} 
 
-{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}} 
+{{< reflink paseos-por-los-jardines-mas-bellos-de-florencia >}} 
 
-{{< reflink path=posts/2018/05/10-imprescindibles-para-disfrutar-florencia-con-ninos >}}
+{{< reflink 10-imprescindibles-para-disfrutar-florencia-con-ninos >}}

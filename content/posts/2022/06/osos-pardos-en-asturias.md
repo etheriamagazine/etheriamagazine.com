@@ -207,8 +207,8 @@ En Somiedo hay una casa rural: **Buenamadre** (www.buenamadre.com)
 
 ## También en Asturias...
 
-{{< reflink path=posts/2022/01/asturias-en-coche-guia-imprescindible >}}. 
+{{< reflink asturias-en-coche-guia-imprescindible >}}. 
 
-{{< reflink path=posts/2018/10/picos-de-europa-ruta-por-asturias-leon-y-cantabria >}}. 
+{{< reflink picos-de-europa-ruta-por-asturias-leon-y-cantabria >}}. 
 
-{{< reflink path=posts/2021/10/planes-imprescindibles-en-oviedo-con-amigas >}}.
+{{< reflink planes-imprescindibles-en-oviedo-con-amigas >}}.

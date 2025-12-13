@@ -69,7 +69,7 @@ Sin duda, **Perú y Argentina**, por su maravillosa naturaleza allá donde vayas
 
 10\. Tres viajes pendientes… 
 
-**Japón**, **Birmania** y {{< reflink path=posts/2019/02/sri-lanka-para-mujeres-viajeras >}}.
+**Japón**, **Birmania** y [Sri Lanka]({{% ref sri-lanka-para-mujeres-viajeras %}}).
 
 11\. ¿Qué país te ha ganado con su gastronomía? ¿Destacarías algún plato o producto? 
 

@@ -113,10 +113,10 @@ Asturias. Precio alojamiento y desayuno: desde 129 €/ noche.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2018/10/picos-de-europa-ruta-por-asturias-leon-y-cantabria >}} 
+{{< reflink picos-de-europa-ruta-por-asturias-leon-y-cantabria >}} 
 
-{{< reflink path=posts/2021/07/que-hacer-en-parque-las-ubinas-la-mesa >}} 
+{{< reflink que-hacer-en-parque-las-ubinas-la-mesa >}} 
 
-{{< reflink path=posts/2021/07/hotel-villa-rosario-palacio-ribadesella >}} 
+{{< reflink hotel-villa-rosario-palacio-ribadesella >}} 
 
-{{< reflink path=posts/2020/06/hotel-la-fonte-asturias-viajes-pareja-familia >}}
+{{< reflink hotel-la-fonte-asturias-viajes-pareja-familia >}}

@@ -174,9 +174,8 @@ sur de la isla.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2020/06/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava 
->}} 
+{{< reflink viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava >}} 
 
-{{< reflink path=posts/2019/05/que-ver-tenerife-donde-cuando-tajinaste-en-flor >}} 
+{{< reflink que-ver-tenerife-donde-cuando-tajinaste-en-flor >}} 
 
-{{< reflink path=posts/2019/01/donde-dormir-tenerife-hotel-bahia-del-duque >}}
+{{< reflink donde-dormir-tenerife-hotel-bahia-del-duque >}}

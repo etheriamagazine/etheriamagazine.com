@@ -148,8 +148,8 @@ carácter dulzón que en ella está más presente que en sus “hermanas” medi
 que qué mejor manera de acercarnos a esta sabrosa gamba que mediante la visita a su 
 lonja. Si acudes a las cinco y media de la tarde podrás ver su subasta y disfrutar del 
 ajetreo de las cajas de hielo con las gambas rojas recién pescadas asomando sus bigotes. 
-Una parada perfecta en un {{< reflink 
-path=posts/2021/04/que-ver-en-almeria-en-temporada-baja >}}. 
+Una parada perfecta en un [viaje a Almeria]({{% ref que-ver-en-almeria-en-temporada-baja 
+%}}). 
 
 ![gastronomia, viajes con amigas, slowtravel](https://fotos.etheriamagazine.com/2018/11/Almeria-subasta-Garrucha-e1561543361271.jpg "Subasta de pescado en la lonja de Garrucha. © SG")
 
@@ -202,9 +202,8 @@ decidir cuál te gusta más.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/12/mejores-restaurantes-para-comer-cochinillo-en-segovia 
->}}. 
+{{< reflink mejores-restaurantes-para-comer-cochinillo-en-segovia >}}. 
 
-{{< reflink path=posts/2020/11/comer-en-vigo-mejores-restaurantes-furanchos >}} 
+{{< reflink comer-en-vigo-mejores-restaurantes-furanchos >}} 
 
-{{< reflink path=posts/2020/11/comer-en-toledo-mejores-restaurantes-bares-tapas >}}.
+{{< reflink comer-en-toledo-mejores-restaurantes-bares-tapas >}}.

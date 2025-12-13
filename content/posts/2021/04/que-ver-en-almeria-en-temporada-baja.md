@@ -190,11 +190,9 @@ Más información en Turismo de Almería.
 
 ### También te puede interesar
 
-{{< reflink 
-path=posts/2020/01/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear >}} 
+{{< reflink 48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear >}} 
 
 {{< reflink 
-path=posts/2019/07/mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva 
->}} 
+mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva >}} 
 
-{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}
+{{< reflink consejos-rutas-andalucia-en-autocaravana >}}

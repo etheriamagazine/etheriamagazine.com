@@ -31,7 +31,7 @@ posibilidad de ver de cerca _La Última Cena_ de Leonardo da Vinci, sus museos (
 Pinacoteca di Brera o el Museo del Novecento), su zona comercial y sus restaurantes, te 
 saldrá una escapada redonda. 
 
-📌 {{< reflink path=posts/2018/12/que-ver-en-milan-en-48-horas >}}. 
+📌 [Qué ver en Mil´´an en un fin de semana]({{% ref que-ver-en-milan-en-48-horas %}}). 
 
 ![Estatua y fachada de la catedral de Milán](https://fotos.etheriamagazine.com/2018/12/Milan-duomo-fachada-e1566602710779.jpg "Fachada del Duomo de Milán.")
 
@@ -42,7 +42,8 @@ a menudo? Está cerca, puedes viajar a ella en avión, tren o coche y siempre es
 apetecible. Y, como proponemos en este artículo, se puede recorrer visitando sus 
 ‘miradouros’. 
 
-📌 {{< reflink path=posts/2018/10/12-miradores-para-exprimir-lisboa >}}. 
+📌 [12 miradores de Lisboa para enamorarse de sus vistas]({{% ref 
+12-miradores-para-exprimir-lisboa %}}). 
 
 ![pareja frente al puente de Lisboa](https://fotos.etheriamagazine.com/2018/10/Miradores-de-Lisboa-e1566028365742.jpg "Los miradores de Lisboa dan otra perspectiva de la ciudad.")
 
@@ -54,7 +55,8 @@ Gogh](https://www.vangoghmuseum.nl/nl)), cafés, cervecerías y hasta los barcos
 recorren los canales están techados. No te pierdas el pequeño oasis del Beginhof y el 
 barrio del Jordan, animado y bohemio. 
 
-📌 {{< reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-amsterdam >}}. 
+📌 [48 horas en Ámsterdam, la vida en la calle]({{% ref 
+viajar-sola-que-ver-hacer-dormir-amsterdam %}}). 
 
 ![canal y edificios típicos de Ámsterdam](https://fotos.etheriamagazine.com/2019/03/viaje-mujeres-amsterdam.jpg "Los canales son los que aportan más personalidad a Amsterdam. © Carmen Giró")
 
@@ -66,7 +68,7 @@ Además de su reconstruida Ciudad Vieja, merece la pena visitar la animada Nowy 
 Ujazdowski, convertido en Centro de Arte Contemporáneo. ¿Sabías que es famosa por el 
 jazz? Disfruta de algún concierto en sus animados clubes. 
 
-📌 {{< reflink path=posts/2018/08/48-horas-en-varsovia-polonia >}}. 
+📌 [48 horas en Varsovia]({{% ref 48-horas-en-varsovia-polonia %}}). 
 
 ![Escultura de Chopin en Varsovia](https://fotos.etheriamagazine.com/2018/08/Chopin-Varsovia-e1566602791637.jpg "Escultura de Chopin. © Manena Munar")
 
@@ -77,7 +79,8 @@ llevan hasta su precioso lago. Si viajas a Zúrich en las semanas de Adviento, j
 antes de la Navidad, podrás disfrutar de sus preciosos mercadillos navideños como el del 
 barrio de Nierderdorf o el de la Estación Central. 
 
-📌 {{< reflink path=posts/2018/10/mercados-de-navidad-en-zurich >}}. 
+📌 [Mercados de Navidad en Zúrich, un fin de semana inolvidable]({{% ref 
+mercados-de-navidad-en-zurich %}}). 
 
 ![Zúrich bajo la nieve](https://fotos.etheriamagazine.com/2018/10/Zurich-vista-nocturna-e1566286407183.jpg "Zúrich al atardecer.")
 
@@ -90,7 +93,8 @@ estupendamente en un fin de semana. Aprovecha y visita sus palacios, como el de
 Hofburgh, el de Belvedere o el de Schönbrunn, y no dejes de probar la famosa tarta 
 Sacher en alguno de sus cafés del centro. 
 
-📌 {{< reflink path=posts/2019/04/viajar-con-madres-que-ver-viena >}}. 
+📌 [Viena, un viaje para compartir con tu madre]({{% ref viajar-con-madres-que-ver-viena 
+%}}). 
 
 ![Vistas del edificio de la Ópera desde el Museo Albertina.](https://fotos.etheriamagazine.com/2019/04/opera-viena-exterior.jpg "Vistas del edificio de la Ópera desde el Museo Albertina.")
 
@@ -101,7 +105,7 @@ arquitectura moderna, disfrutarás enormemente en lugares como el edificio de la
 Ballet de Oslo, el Museo de Astrup Fearnley, la Galería Nacional o el Museo Munch. No te 
 pierdas el alternativo barrio de Grünerlokka ni el singular cementerio Æreslunden. 
 
-📌 {{< reflink path=posts/2018/07/48-horas-en-oslo >}}. 
+📌 [48 horas en Oslo]({{% ref 48-horas-en-oslo %}}). 
 
 ![Mujer en Bicicleta por una calle en Oslo](https://fotos.etheriamagazine.com/2018/04/6-Etheria-Mujeres-Viajeras-en-Oslo-e1566888953486.jpg "Recorre Oslo en bicicleta. © PGM")
 
@@ -113,7 +117,8 @@ contemplar en interior del Baptisterio, detenerte a admirar las vistas del Puent
 Vecchio mientras degustas un helado italiano y recorrer despacio, una a una, las salas 
 de la Galleria degli Uffizi. 
 
-📌 {{< reflink path=posts/2018/05/48-horas-en-florencia-fin-de-semana-que-ver-hacer >}}. 
+📌 [Aprovecha a tope un fin de semana en Venecia]({{% ref 
+48-horas-en-florencia-fin-de-semana-que-ver-hacer %}}). 
 
 ![Ponte Vecchio de Florencia.](https://fotos.etheriamagazine.com/2018/05/TOSCANA-FLORENCIA-PONTE-VECCHIO-6-e1566602882816.jpg "Atravesar el Ponte Vecchio es uno de los 'must' en Florencia.")
 
@@ -125,8 +130,8 @@ además no podrás resistirte a la Isla de los Museos, al Reichstag, al Checkpoi
 o a la Puerta de Brandeburgo, tan cargados de historia como el sobrecogedor Memorial del 
 Holocausto. 
 
-📌 {{< reflink path=posts/2018/11/viaje-al-berlin-mas-divertido-interesante-sobrecogedor 
->}}. 
+📌 [Berlín: de la caricia al tortazo]({{% ref 
+viaje-al-berlin-mas-divertido-interesante-sobrecogedor %}}). 
 
 ![mujeres con trajes típicos en Berlín](https://fotos.etheriamagazine.com/2018/11/Berlin-viaje-mujeres-e1566602904130.jpg "Reichstag, 2018. ©Kelu RG.")
 
@@ -138,12 +143,12 @@ el Palacio de Westminster con el célebre Big Ben, Chinatown, el Palacio de Buck
 Hyde Park, el mercadillo de Portobello…Pero si repites elige un plan (museos, compras, 
 espectáculos…) y piérdete por esta singular ciudad aunque sólo sean dos días. 
 
-📌 {{< reflink path=posts/2018/09/visitas-imprescindibles-fin-de-semana-londres >}}. 
+📌 [48 horas en Londres]({{% ref visitas-imprescindibles-fin-de-semana-londres %}}). 
 
 ![El Big Ben de Londres](https://fotos.etheriamagazine.com/2018/08/Londres-Big-Ben-e1566602933791.jpg "El Palacio de Westminster con la torre del célebre reloj que tiene una campana llamada Big Ben.")
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2021/11/ideas-viaje-de-novios-por-europa >}} 
+{{< reflink ideas-viaje-de-novios-por-europa >}} 
 
-{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}}
+{{< reflink viajar-con-ninos-por-europa-consejos-y-propuestas >}}

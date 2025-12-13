@@ -126,8 +126,8 @@ Carrera de San Francisco, 15. El precio de la actividad, que incluye también ma
 es de 90 euros. Pasaréis un buen rato, recibiréis un delantal y una certificación de 
 asistencia. 
 
-No te pierdas: {{< reflink 
-path=posts/2022/01/restaurantes-peruanos-en-madrid-de-jhosef-arias >}} 
+No te pierdas: [Restaurantes peruanos en Madrid con el sello del chef Jhosef Arias]({{% 
+ref restaurantes-peruanos-en-madrid-de-jhosef-arias %}}) 
 
 ![cebiche peruano de boldkitchen](https://fotos.etheriamagazine.com/2022/01/ceviche-peruano-adn-madrid.jpg "Cebiche peruano. © Pepa García")
 
@@ -180,6 +180,7 @@ Y aún hay más: Es una terraza **pet friendly**.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}} 
+[10 planes originales en Madrid para hacer con amigas]({{% ref 
+10-planes-originales-en-madrid-con-amigas %}}) 
 
-{{< reflink path=posts/2022/12/planes-adolescentes-madrid >}}.
+{{< reflink planes-adolescentes-madrid >}}.

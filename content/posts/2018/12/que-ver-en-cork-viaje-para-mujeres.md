@@ -169,8 +169,8 @@ Más información en [Turismo de Irlanda](https://www.ireland.com/es-es/).
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte >}}. 
+{{< reflink juego-de-tronos-en-irlanda-del-norte >}}. 
 
-{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}}. 
+{{< reflink 8-visitas-increibles-en-irlanda-del-norte >}}. 
 
-{{< reflink path=posts/2021/06/ruta-de-ulises-y-bloomsday-en-dublin >}}.
+{{< reflink ruta-de-ulises-y-bloomsday-en-dublin >}}.

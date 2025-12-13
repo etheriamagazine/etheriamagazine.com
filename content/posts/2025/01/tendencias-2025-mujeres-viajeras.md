@@ -149,6 +149,6 @@ República Dominicana como perfectos para ser visitados en temporada baja.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2024/10/tanit-congress-awards-2024 >}}. 
+{{< reflink tanit-congress-awards-2024 >}}. 
 
-{{< reflink path=posts/2024/03/encuentro-mujeres-viajeras-madrid >}}.
+{{< reflink encuentro-mujeres-viajeras-madrid >}}.

@@ -214,8 +214,8 @@ Más información en **Turismo de Tarragona**.
 
 ### Sigue viajando con Etheria magazine
 
-{{< reflink path=posts/2024/06/grand-tour-catalunya-vinedos-sabor-a-mar >}}. 
+{{< reflink grand-tour-catalunya-vinedos-sabor-a-mar >}}. 
 
-{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}. 
+{{< reflink lugares-secretos-de-cataluna-que-visitar >}}. 
 
-{{< reflink path=posts/2021/08/que-ver-en-terrassa-visitas-modernistas >}}.
+{{< reflink que-ver-en-terrassa-visitas-modernistas >}}.

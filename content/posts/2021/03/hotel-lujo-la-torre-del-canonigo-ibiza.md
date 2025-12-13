@@ -108,7 +108,6 @@ Fotografías cedidas por © La Torre del Canónigo.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
->}} 
+{{< reflink 20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja >}} 
 
-{{< reflink path=posts/2018/06/viaje-a-ibiza-con-amigas >}}
+{{< reflink viaje-a-ibiza-con-amigas >}}

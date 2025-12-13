@@ -29,9 +29,8 @@ desde privilegiados miradores naturales que superan los 2.000 metros. Y terminar
 encontrando la paz entre los muros de una antigua ermita erigida por devotos monjes 
 encima de un impresionante meandro sobre las aguas del Duratón. 
 
-✅ No te pierdas un {{< reflink 
-path=posts/2020/07/vuelos-en-globo-en-espana-regalo-viajero >}} u otras provincia de la 
-región. 
+✅ No te pierdas un [vuelo en globo sobre Segovia]({{% ref 
+vuelos-en-globo-en-espana-regalo-viajero %}}) u otras provincia de la región. 
 
 ## Lugares imprescindibles que ver en Segovia
 
@@ -56,8 +55,8 @@ Ayllón...](#pueblos-segovia)
 
 La emblemática ciudad de Segovia, Patrimonio de la Humanidad por la Unesco desde 1985, 
 no necesita presentación. De eso ya se encargan su espectacular **acueducto** y su 
-hermoso **Alcázar** (que podéis conocer en este artículo sobre {{< reflink 
-path=posts/2020/03/que-ver-interior-precio-entradas-del-alcazar-de-segovia >}}), un 
+hermoso **Alcázar** (que podéis conocer en este artículo sobre [el sorprendente interior 
+del Alcázar]({{% ref que-ver-interior-precio-entradas-del-alcazar-de-segovia %}})), un 
 edificio propio de un cuento de hadas que fue durante siglos fortaleza de los monarcas 
 castellanos. Y aunque resulte difícil escapar del influjo de estos monumentos, Segovia 
 ofrece mucho más, basta pasear por sus calles y disfrutarla. 
@@ -76,8 +75,8 @@ Delimitándola en uno de sus extremos, la catedral de Nuestra Señora de la Asun
 San Frutos, conocida como la Dama de las Catedrales. Construida entre los siglos XVI y 
 XVIII, su estilo está catalogado como gótico tardío. 
 
-📌**Dónde comer en Segovia:** {{< reflink 
-path=posts/2020/12/mejores-restaurantes-para-comer-cochinillo-en-segovia >}} 
+📌**Dónde comer en Segovia:** [Los tres tenores del cochinillo, una historia de amor 
+correspondido.]({{% ref mejores-restaurantes-para-comer-cochinillo-en-segovia %}}) 
 
 ![panoramica del acueducto romano de segovia](https://fotos.etheriamagazine.com/2021/03/segovia-acueducto-romano.jpg "Acueducto romano de Segovia. © Dip. Prov. de Segovia")
 
@@ -325,6 +324,8 @@ y Martín Muñoz de Ayllón, amarillos. Para gustos ya sabéis lo que dicen.
 
 ![cochinillo restaurante jose maria](https://fotos.etheriamagazine.com/2020/11/restaurante-jose-maria-segovia.jpg "Cochinillo deshuesado y vino Pago de Carraovejas del © restaurante José María (Segovia).")
 
-📌 {{< reflink path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}}. 
+📌 [11 escapadas de un día a 100 km o más de Madrid]({{% ref 
+11-escapadas-cercanas-a-dos-horas-de-madrid %}}). 
 
-📌 {{< reflink path=posts/2019/07/sepulveda-y-las-hoces-del-duraton-viaje-en-familia >}}
+📌 [Sepulveda y las hoces del Duratón, una escapada para toda la familia.]({{% ref 
+sepulveda-y-las-hoces-del-duraton-viaje-en-familia %}})

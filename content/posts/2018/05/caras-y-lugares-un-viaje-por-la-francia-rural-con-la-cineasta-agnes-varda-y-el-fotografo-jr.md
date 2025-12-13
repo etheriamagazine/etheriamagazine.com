@@ -70,8 +70,8 @@ Los Ángeles. También tuvo nominación al Oscar como Mejor documental.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2023/01/almas-en-pena-de-inisherin >}}. 
+{{< reflink almas-en-pena-de-inisherin >}}. 
 
-{{< reflink path=posts/2022/02/50-aniversario-el-padrino >}}. 
+{{< reflink 50-aniversario-el-padrino >}}. 
 
-{{< reflink path=posts/2021/07/12-playas-espanolas-que-salen-en-peliculas >}}.
+{{< reflink 12-playas-espanolas-que-salen-en-peliculas >}}.

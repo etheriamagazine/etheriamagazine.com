@@ -86,8 +86,8 @@ la tradición católica de rezar por los muertos el Día de Todos los Santos.
 
 También te puede interesar: 
 
-{{< reflink path=posts/2024/03/celebrar-san-patricio-dublin >}} 
+{{< reflink celebrar-san-patricio-dublin >}} 
 
-{{< reflink path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte >}} 
+{{< reflink juego-de-tronos-en-irlanda-del-norte >}} 
 
-{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}}
+{{< reflink 8-visitas-increibles-en-irlanda-del-norte >}}

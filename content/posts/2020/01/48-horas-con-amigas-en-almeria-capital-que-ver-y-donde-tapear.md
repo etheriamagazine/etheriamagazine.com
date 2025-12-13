@@ -196,6 +196,6 @@ Central.
 
 ✅ **Si visitas Almería con amigas también te interesa...** 
 
-{{< reflink path=posts/2021/04/que-ver-en-almeria-en-temporada-baja >}}. 
+{{< reflink que-ver-en-almeria-en-temporada-baja >}}. 
 
-{{< reflink path=posts/2024/08/que-ver-hacer-en-agua-amarga-almeria >}}.
+{{< reflink que-ver-hacer-en-agua-amarga-almeria >}}.

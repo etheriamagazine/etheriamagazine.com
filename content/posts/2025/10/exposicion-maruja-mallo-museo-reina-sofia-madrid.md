@@ -149,8 +149,8 @@ condiciones para tarifas reducidas, combinadas o con audioguía.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2025/09/gaza-a-traves-de-sus-ojos-museo-thyssen-madrid >}} 
+{{< reflink gaza-a-traves-de-sus-ojos-museo-thyssen-madrid >}} 
 
-{{< reflink path=posts/2024/04/ruta-lola-flores-en-madrid >}} 
+{{< reflink ruta-lola-flores-en-madrid >}} 
 
-{{< reflink path=posts/2025/06/que-ver-en-museo-guggenheim-bilbao >}}
+{{< reflink que-ver-en-museo-guggenheim-bilbao >}}

@@ -136,13 +136,13 @@ base de hollejos, pepitas y aceite…
 ### 4\. Hotel y Spa Arzuaga (Quintanilla de Onésimo)
 
 [Arzuaga](http://www.hotelarzuaga.com) es una de las bodegas más prestigiosas de la 
-conocida como “milla de oro” de {{< reflink 
-path=posts/2018/05/ruta-del-vino-ribera-del-duero-valladolid >}} y alojarse en su hotel 
-es, sin duda alguna, una buena manera de tomarle el pulso a la denominación. Tienen 
-numerosas experiencias de vinoterapia, por ejemplo una en pareja que incluye **masaje 
-con aceite de pepita de uva** para aliviar lesiones, exfoliación al extracto de este 
-fruto para que nuestra piel luzca libre de impurezas, envoltura en vino para hidratar y 
-jacuzzi privado a la uva negra. 
+conocida como “milla de oro” de [Ribera de Duero]({{% ref 
+ruta-del-vino-ribera-del-duero-valladolid %}}) y alojarse en su hotel es, sin duda 
+alguna, una buena manera de tomarle el pulso a la denominación. Tienen numerosas 
+experiencias de vinoterapia, por ejemplo una en pareja que incluye **masaje con aceite 
+de pepita de uva** para aliviar lesiones, exfoliación al extracto de este fruto para que 
+nuestra piel luzca libre de impurezas, envoltura en vino para hidratar y jacuzzi privado 
+a la uva negra. 
 
 ![vinoterapia relax descanso viaje](https://fotos.etheriamagazine.com/2018/10/BODEGA-ARZUAGA.jpg "Tratamientos de vinoterapia en el hotel-bodega Arzuaga.")
 
@@ -206,10 +206,9 @@ zona de Spa impresionante y tratamientos a base tanto de vino como de aceite.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/06/viajes-por-espana-jerez-sola-o-con-amigas >}}. 
+{{< reflink viajes-por-espana-jerez-sola-o-con-amigas >}}. 
 
-{{< reflink path=posts/2019/04/10-escapadas-gastronomicas-mujeres-que-comen >}}. 
+{{< reflink 10-escapadas-gastronomicas-mujeres-que-comen >}}. 
 
-{{< reflink 
-path=posts/2020/05/masajes-exoticos-que-hacen-viajar-a-india-bali-tailandia-japon-polinesia 
+{{< reflink masajes-exoticos-que-hacen-viajar-a-india-bali-tailandia-japon-polinesia 
 >}}.

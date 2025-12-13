@@ -273,6 +273,6 @@ mejor sabor de boca, y **La Tinaja**, en el pueblo de Sobradillo.
 
 **Entre las 36 Rutas del Vino de España, también os pueden interesar:** 
 
-{{< reflink path=posts/2022/09/planes-en-ruta-vino-toro >}}. 
+{{< reflink planes-en-ruta-vino-toro >}}. 
 
-{{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}.
+{{< reflink plan-con-amigas-ruta-del-vino-sierra-de-francia >}}.

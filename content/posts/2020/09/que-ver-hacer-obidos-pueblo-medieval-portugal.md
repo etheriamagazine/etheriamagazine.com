@@ -97,10 +97,11 @@ la hija pequeña de Felipe el Hermoso y Juana de Castilla (conocida como Juana l
 
 ## Óbidos, Villa Literaria
 
-De la red de villas literarias o del libro ya os hemos hablado en Etheria Magazine (‘{{< 
-reflink path=posts/2020/05/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid 
->}}’), así que no os sorprenderá que en Portugal también tengan una población que 
-potencie la lectura y la escritura, y organice eventos culturales. 
+De la red de villas literarias o del libro ya os hemos hablado en Etheria Magazine 
+(‘[Urueña, la villa del libro de Valladolid]({{% ref 
+viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid %}})’), así que no os 
+sorprenderá que en Portugal también tengan una población que potencie la lectura y la 
+escritura, y organice eventos culturales. 
 
 ![Mercado Biológico y librería de Óbidos, un dos en uno.](https://fotos.etheriamagazine.com/2020/09/libreria-mercado-obidos.jpg "Mercado Biológico y librería de Óbidos. © Pepa García/ Etheria Mag.")
 
@@ -163,8 +164,8 @@ sobre el resto.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/07/valle-del-coa-8-experiencias-en-la-frontera-portugal >}}. 
+{{< reflink valle-del-coa-8-experiencias-en-la-frontera-portugal >}}. 
 
-{{< reflink path=posts/2019/06/planes-divertidos-viajes-familia-portugal >}}. 
+{{< reflink planes-divertidos-viajes-familia-portugal >}}. 
 
-{{< reflink path=posts/2021/10/8-visitas-originales-en-lisboa >}}.
+{{< reflink 8-visitas-originales-en-lisboa >}}.

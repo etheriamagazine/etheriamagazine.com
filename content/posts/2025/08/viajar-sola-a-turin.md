@@ -263,8 +263,8 @@ escasos metros del centro histórico, es una excelente opción. **Más informaci
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}} 
+{{< reflink que-ver-en-turin-en-un-viaje-con-amigas >}} 
 
-{{< reflink path=posts/2023/11/que-comer-valle-de-aosta-italia >}} 
+{{< reflink que-comer-valle-de-aosta-italia >}} 
 
-{{< reflink path=posts/2023/09/un-dia-en-milan-del-duomo-a-porta-venezia >}}
+{{< reflink un-dia-en-milan-del-duomo-a-porta-venezia >}}

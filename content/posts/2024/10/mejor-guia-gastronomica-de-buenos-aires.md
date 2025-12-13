@@ -214,6 +214,6 @@ Aires.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2019/07/que-ver-buenos-aires-belle-epoque-viajar-sola >}} 
+{{< reflink que-ver-buenos-aires-belle-epoque-viajar-sola >}} 
 
-{{< reflink path=posts/2022/09/que-llevar-maleta-argentina >}}
+{{< reflink que-llevar-maleta-argentina >}}

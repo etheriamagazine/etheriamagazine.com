@@ -76,6 +76,6 @@ euros](https://proticketing.com/teatrosluchana/es_ES/entradas/evento/19912).
 
 ### Más planes en Madrid
 
-{{< reflink path=posts/2021/05/nuevas-exposiciones-en-madrid-verano-2021 >}}. 
+{{< reflink nuevas-exposiciones-en-madrid-verano-2021 >}}. 
 
-{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}.
+{{< reflink brunch-buenos-y-baratos-en-madrid >}}.

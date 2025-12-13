@@ -81,7 +81,7 @@ SchafbergBahn](https://www.salzburg.info/es/lugares-de-interes/excursiones/schaf
 ## 4\. Cracovia y sus belenes Patrimonio de la Humanidad
 
 De los [mercadillos de Cracovia y 
-Varsovia]({{% ref mercadillos-navidad-varsovia-cracovia-polonia %}}) 
+Varsovia](http://etheriamagazine.com/2019/10/30/mercadillos-navidad-varsovia-cracovia-polonia/) 
 ya os hemos hablado largo y tendido (lo podéis ver en el link anterior), así que sólo 
 remarcaremos por qué los consideramos especiales. Sus **belenes monumentales en 
 miniatura** han sido protegidos por la Unesco como Patrimonio de la Humanidad. 
@@ -120,14 +120,12 @@ Si vais con niños, llevadlos también al tranvía de cuentos de hadas 'Märlitr
 recorre las calles, al mágico circo Conelli y al **mercado de Wienachtsdorf** de la 
 Sechseläutenplatz (frente a la Ópera) que tiene numerosos puestos de regalos y una pista 
 de hielo. Puedes leer nuestra experiencia en este mercadillo en [Mercados de Navidad en 
-Zúrich]({{% ref mercados-de-navidad-en-zurich %}}). 
+Zúrich](http://etheriamagazine.com/2018/10/12/mercados-de-navidad-en-zurich/). 
 
 Y, ahora, ¿sigues pensando que todos los mercadillos son iguales? 
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/10/mercados-de-navidad-europa >}} 
+{{< reflink mercados-de-navidad-europa >}} 
 
-{{< reflink 
-path=posts/2021/10/10-ciudades-con-mercadillos-para-contagiarse-del-espiritu-navideno 
->}}
+{{< reflink 10-ciudades-con-mercadillos-para-contagiarse-del-espiritu-navideno >}}

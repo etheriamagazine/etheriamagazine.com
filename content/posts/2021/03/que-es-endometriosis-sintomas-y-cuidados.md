@@ -140,11 +140,8 @@ reconoce esta ginecóloga y obstetra que pasa consulta en Extremadura.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/02/beneficios-del-ayuno-intermitente-para-la-salud >}}. 
+{{< reflink beneficios-del-ayuno-intermitente-para-la-salud >}}. 
 
-{{< reflink 
-path=posts/2020/11/personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}} 
+{{< reflink personas-altamente-sensibles-es-realmente-un-don-la-sensibilidad >}} 
 
-{{< reflink 
-path=posts/2020/11/mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion 
->}}.
+{{< reflink mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion >}}.

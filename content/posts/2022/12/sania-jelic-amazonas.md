@@ -230,6 +230,6 @@ por cierto.
 
 📌 **Sigue las entregas anteriores de Sania Jelic:** 
 
-{{< reflink path=posts/2022/12/sania-jelic-viajar-sola-mas-65 >}} 
+{{< reflink sania-jelic-viajar-sola-mas-65 >}} 
 
-{{< reflink path=posts/2023/01/sania-en-patagonia-ushuaia-punta-arenas >}}.
+{{< reflink sania-en-patagonia-ushuaia-punta-arenas >}}.

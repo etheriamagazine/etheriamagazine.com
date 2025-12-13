@@ -193,9 +193,8 @@ el mundo del yoga no es ni mejor ni peor”.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/02/beneficios-del-ayuno-intermitente-para-la-salud >}}. 
+{{< reflink beneficios-del-ayuno-intermitente-para-la-salud >}}. 
 
-{{< reflink path=posts/2021/04/ansioliticos-y-antidepresivos-no-resuelven-los-problemas 
->}} 
+{{< reflink ansioliticos-y-antidepresivos-no-resuelven-los-problemas >}} 
 
-{{< reflink path=posts/2021/03/que-es-endometriosis-sintomas-y-cuidados >}}.
+{{< reflink que-es-endometriosis-sintomas-y-cuidados >}}.

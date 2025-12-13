@@ -31,7 +31,8 @@ línea de los edificios, se centren en las esculturas de la Piazza della Signori
 contemplen las pinturas de la Galleria degli Uffizi: la emoción del arte hace palpitar 
 más fuerte al corazón. 
 
-**No te pierdas:** {{< reflink path=posts/2022/11/turismo-termal-toscana-italia >}}. 
+**No te pierdas:** [Dónde desconectar en la Toscana, conoce sus mejores termas]({{% ref 
+turismo-termal-toscana-italia %}}). 
 
 ## Primeras horas en Florencia
 
@@ -134,6 +135,6 @@ Más información en [Feel Florence](https://www.feelflorence.it/).
 
 También te puede interesar: 
 
-{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}. 
+{{< reflink paseos-por-los-jardines-mas-bellos-de-florencia >}}. 
 
-{{< reflink path=posts/2021/06/toscana-en-coche >}}.
+{{< reflink toscana-en-coche >}}.

@@ -175,7 +175,6 @@ literalmente, el mejor sabor de boca.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}} 
+{{< reflink viaje-a-croacia-como-organizar-que-ver-hacer >}} 
 
-{{< reflink path=posts/2018/10/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia 
->}}
+{{< reflink 10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia >}}

@@ -136,9 +136,9 @@ apetecibles.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/05/tabernas-historicas-de-madrid >}} 
+{{< reflink tabernas-historicas-de-madrid >}} 
 
-{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}} 
+{{< reflink brunch-buenos-y-baratos-en-madrid >}} 
 
-{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
->}}
+[Ruta por el Madrid más libre (de gluten)]({{% ref 
+ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias %}})

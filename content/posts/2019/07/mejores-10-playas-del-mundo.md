@@ -118,8 +118,8 @@ quieres hacer el largo y algo peligroso [Kalalau Trail](https://www.kalalautrail
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/06/10-playas-en-espana-para-este-verano >}} 
+{{< reflink 10-playas-en-espana-para-este-verano >}} 
 
-{{< reflink path=posts/2021/07/12-playas-espanolas-que-salen-en-peliculas >}} 
+{{< reflink 12-playas-espanolas-que-salen-en-peliculas >}} 
 
-{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}
+{{< reflink viajar-con-amigas-mejores-playas-formentera >}}

@@ -186,8 +186,8 @@ Ré](https://www.isladere.es).
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/08/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa >}} 
+{{< reflink que-ver-hacer-en-nantes-la-ciudad-francesa-creativa >}} 
 
-{{< reflink path=posts/2018/12/la-ciudad-del-vino-visita-obligada-en-burdeos >}} 
+{{< reflink la-ciudad-del-vino-visita-obligada-en-burdeos >}} 
 
-{{< reflink path=posts/2019/03/que-ver-ruta-en-coche-valle-del-loira >}}
+{{< reflink que-ver-ruta-en-coche-valle-del-loira >}}

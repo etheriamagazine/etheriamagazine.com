@@ -173,8 +173,8 @@ expresiones más sobresalientes de la cultura del país.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}}. 
+{{< reflink mejores-yacimientos-arqueologicos-mexico >}}. 
 
-{{< reflink path=posts/2022/02/excursiones-en-riviera-maya-mexico >}}. 
+{{< reflink excursiones-en-riviera-maya-mexico >}}. 
 
-{{< reflink path=posts/2021/10/parques-naturales-de-america-latina >}}.
+{{< reflink parques-naturales-de-america-latina >}}.

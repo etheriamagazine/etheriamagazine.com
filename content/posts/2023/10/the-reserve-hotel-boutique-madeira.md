@@ -126,8 +126,8 @@ Fotografías cedidas por Savoy Hotels & Resorts.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/08/que-ver-funchal >}} 
+{{< reflink que-ver-funchal >}} 
 
-{{< reflink path=posts/2019/04/viajar-con-amigas-que-ver-madeira >}} 
+{{< reflink viajar-con-amigas-que-ver-madeira >}} 
 
-{{< reflink path=posts/2022/08/que-comer-en-madeira >}}
+{{< reflink que-comer-en-madeira >}}

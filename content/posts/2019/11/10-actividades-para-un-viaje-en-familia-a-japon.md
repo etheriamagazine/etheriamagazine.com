@@ -18,9 +18,9 @@ planes para disfrutar con niños del país nipón.
 ![Mujer y niña con traje tradicional japonés](https://fotos.etheriamagazine.com/2019/11/Japon-paseo-kimono.jpg "Fotos con kimonos en el Jardín Kenrokuen de Kanazawa. © SG")
 
 Elegir Japón para un viaje en familia es una excelente opción y merece ser preparado con 
-detalle tal y como os contamos en nuestro artículo {{< reflink 
-path=posts/2019/06/como-organizar-un-viaje-a-japon >}}. Una vez superadas las horas de 
-vuelo se abrirá ante vuestros ojos un mundo tan distinto y sorprendente que no queda 
+detalle tal y como os contamos en nuestro artículo [5 recomendaciones para preparar un 
+viaje a Japón]({{% ref como-organizar-un-viaje-a-japon %}}). Una vez superadas las horas 
+de vuelo se abrirá ante vuestros ojos un mundo tan distinto y sorprendente que no queda 
 lugar para el aburrimiento. Aquí o proponemos sólo diez actividades para realizar en 
 familia, aunque seguro que cuando viajes descubres muchas más. 
 
@@ -29,14 +29,14 @@ familia, aunque seguro que cuando viajes descubres muchas más.
 ### 1\. Aprender a hacer sushi en Tokio
 
 En Japón probarás un delicioso sushi en prácticamente todas partes. Una buena actividad 
-con los más pequeños en {{< reflink 
-path=posts/2021/07/que-hacer-3-dias-en-tokio-viajes-mujeres >}} es asistir a una clase 
-para elaborar los distintos tipos de bocados que conocemos como sushi: sashimi, makis y 
-temakis. La clase es muy divertida (puedes reservarla en la **Tokio Sushi Academy**: 
-www.sushimaking.tokyo) porque todo se manipula con las manos, y segura porque se hace en 
-frío. Después, podréis degustar vuestras elaboraciones. Muy cerca está el **mercado de 
-Tsukiji** donde, además de poder seguir comiendo sushi, podréis comprar los artilugios 
-de cocina necesarios para elaborarlo cuando volváis a casa. 
+con los más pequeños en [Tokio]({{% ref que-hacer-3-dias-en-tokio-viajes-mujeres %}}) es 
+asistir a una clase para elaborar los distintos tipos de bocados que conocemos como 
+sushi: sashimi, makis y temakis. La clase es muy divertida (puedes reservarla en la 
+**Tokio Sushi Academy**: www.sushimaking.tokyo) porque todo se manipula con las manos, y 
+segura porque se hace en frío. Después, podréis degustar vuestras elaboraciones. Muy 
+cerca está el **mercado de Tsukiji** donde, además de poder seguir comiendo sushi, 
+podréis comprar los artilugios de cocina necesarios para elaborarlo cuando volváis a 
+casa. 
 
 ![Sushi en Tokio](https://fotos.etheriamagazine.com/2019/11/japon-clase-sushi.jpg "Clase de sushi en Tokio. © SG")
 
@@ -69,8 +69,8 @@ lámparas... Un montón de opciones para llevarse un bonito recuerdo.
 ### 4\. Alojarse en un ryokan
 
 Si viajas en familia a Japón es casi obligado pasar al menos una noche en este tipo de 
-establecimientos, ya os hemos dado detalles en {{< reflink 
-path=posts/2019/05/viajar-japon-que-es-ryokan-y-onsen >}}. Estos hoteles ofrecen conocer 
+establecimientos, ya os hemos dado detalles en [La experiencia de alojarse en un ryokan 
+en Japón]({{% ref viajar-japon-que-es-ryokan-y-onsen %}}). Estos hoteles ofrecen conocer 
 en primera persona el modo de vida tradicional japonés tanto en sus habitaciones 
 (cubiertas de tatami sobre el que se duerme) como la cultura de las aguas termales 
 (onsen) o la gastronomía. Para los más pequeños será una aventura dormir en el suelo y 
@@ -155,10 +155,10 @@ galletas. Les encantarán.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/02/3-dias-en-kioto-cerezos-en-flor >}}{{< reflink 
-path=posts/2020/02/3-dias-en-kioto-cerezos-en-flor >}}{{< reflink 
-path=posts/2020/02/3-dias-en-kioto-cerezos-en-flor >}} 
+[3 días en Kioto pa]({{% ref 3-dias-en-kioto-cerezos-en-flor %}})[r]({{% ref 
+3-dias-en-kioto-cerezos-en-flor %}})[a ver los cerezos en flor]({{% ref 
+3-dias-en-kioto-cerezos-en-flor %}}) 
 
-{{< reflink path=posts/2021/01/fantasias-de-luz-en-parques-y-festivales-en-japon >}} 
+{{< reflink fantasias-de-luz-en-parques-y-festivales-en-japon >}} 
 
-{{< reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-okinawa-japon >}}
+{{< reflink viajar-sola-que-ver-hacer-dormir-okinawa-japon >}}

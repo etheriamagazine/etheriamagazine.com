@@ -159,10 +159,8 @@ Fotografías cedidas por AccorHotels.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}} 
+{{< reflink viajar-con-amigas-que-hacer-en-cadiz >}} 
 
-{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}} 
+{{< reflink ruta-por-los-pueblos-blancos-de-cadiz >}} 
 
-{{< reflink 
-path=posts/2019/06/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana 
->}}
+{{< reflink guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana >}}

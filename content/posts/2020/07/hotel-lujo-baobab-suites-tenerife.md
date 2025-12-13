@@ -129,9 +129,8 @@ Fotografías cedidas por © Baobab Suites.
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2021/05/viaje-a-tenerife-con-amigas-que-hacer-excursiones >}} 
+{{< reflink viaje-a-tenerife-con-amigas-que-hacer-excursiones >}} 
 
-{{< reflink path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos 
->}} 
+{{< reflink excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos >}} 
 
-{{< reflink path=posts/2022/06/tenerife-nomadas-digitales >}}
+{{< reflink tenerife-nomadas-digitales >}}

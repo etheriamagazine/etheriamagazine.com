@@ -181,9 +181,8 @@ visitar en una de las esquinas del conjunto monástico.
 
 ✅ **Si te interesa Armenia, también te gustará...** 
 
-{{< reflink path=posts/2019/11/que-ver-iran-mujer-viajar-sola-con-amigas >}}. 
+{{< reflink que-ver-iran-mujer-viajar-sola-con-amigas >}}. 
 
-{{< reflink path=posts/2019/02/que-ver-georgia >}}. 
+{{< reflink que-ver-georgia >}}. 
 
-{{< reflink 
-path=posts/2019/11/10-razones-para-visitar-uzbekistan-que-ver-en-ruta-de-la-seda >}}.
+{{< reflink 10-razones-para-visitar-uzbekistan-que-ver-en-ruta-de-la-seda >}}.

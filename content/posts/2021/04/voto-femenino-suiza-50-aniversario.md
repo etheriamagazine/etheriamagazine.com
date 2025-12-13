@@ -146,6 +146,6 @@ puedes ver la película 'El orden divino' (Die göttliche Ordnung) de 2017.
 
 **También te puede interesar** 
 
-{{< reflink path=posts/2021/03/suiza-encumbra-a-las-mujeres-con-su-100-por-100-women >}} 
+{{< reflink suiza-encumbra-a-las-mujeres-con-su-100-por-100-women >}} 
 
-{{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}}
+{{< reflink ruta-en-coche-electrico-por-suiza >}}

@@ -170,9 +170,8 @@ Más información en [Turismo de Frigiliana](https://www.turismofrigiliana.es/es
 
 **También te puede interesar**: 
 
-{{< reflink path=posts/2024/07/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga 
->}}. 
+{{< reflink road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga >}}. 
 
-{{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}} 
+{{< reflink fin-de-semana-con-amigas-en-malaga >}} 
 
-{{< reflink path=posts/2021/06/revista-viajes-que-ver-parque-sierra-de-nieves >}}
+{{< reflink revista-viajes-que-ver-parque-sierra-de-nieves >}}

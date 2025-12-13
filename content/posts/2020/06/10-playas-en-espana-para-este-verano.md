@@ -66,10 +66,10 @@ servicios, tendrás que llevar todo lo que necesites para pasar el día.
 La [playa de Zahora](http://www.cadizturismo.com/playas/cadiz/zahora/) es uno de esos 
 arenales gaditanos que te dejan sin aliento por su aspecto interminable y salvaje. 
 Vecina de la popular playa de El Palmar, es más tranquila y se encuentra a un paso del 
-bonito faro de Trafalgar. Es perfecta para {{< reflink 
-path=posts/2020/03/que-seguro-viaje-cubre-deporte-surf >}} o para las que disfrutan 
-simplemente con la contemplación de un mar con olas. Quédate en ella al atardecer para 
-poder ver una increíble puesta de sol. 
+bonito faro de Trafalgar. Es perfecta para [surferas]({{% ref 
+que-seguro-viaje-cubre-deporte-surf %}}) o para las que disfrutan simplemente con la 
+contemplación de un mar con olas. Quédate en ella al atardecer para poder ver una 
+increíble puesta de sol. 
 
 ![playa con olas](https://fotos.etheriamagazine.com/2020/05/playas-espana-zahora-cadiz.jpg "Playa de Zahora (Cádiz). © Vidar Nordli Mathisen")
 
@@ -143,8 +143,8 @@ Natural dels Aiguamolls de l’Empordà.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/05/10-playas-en-espana-viaje-verano >}} 
+{{< reflink 10-playas-en-espana-viaje-verano >}} 
 
-{{< reflink path=posts/2021/07/12-playas-espanolas-que-salen-en-peliculas >}} 
+{{< reflink 12-playas-espanolas-que-salen-en-peliculas >}} 
 
-{{< reflink path=posts/2019/07/mejores-10-playas-del-mundo >}}
+{{< reflink mejores-10-playas-del-mundo >}}

@@ -186,8 +186,9 @@ Girona](http://www.costabrava.org).
 
 **También te puede interesar**: 
 
-{{< reflink path=posts/2023/11/viajar-costa-brava-con-ninos >}} 
+{{< reflink viajar-costa-brava-con-ninos >}} 
 
-{{< reflink path=posts/2022/10/lugares-imprescindibles-en-girona >}} 
+{{< reflink lugares-imprescindibles-en-girona >}} 
 
-{{< reflink path=posts/2020/08/10-planes-comarca-ampurdan-costa-brava >}}
+[Empordà, busca la esencia mediterránea en la Costa Brava]({{% ref 
+10-planes-comarca-ampurdan-costa-brava %}})

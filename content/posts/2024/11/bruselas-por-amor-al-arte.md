@@ -192,8 +192,8 @@ Más información en [Turismo de Flandes](http://www.visitflanders.com).
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/09/que-ver-barrio-europeo-bruselas >}} 
+{{< reflink que-ver-barrio-europeo-bruselas >}} 
 
-{{< reflink path=posts/2021/03/que-ver-hacer-otros-planes-en-bruselas-y-flandes >}} 
+{{< reflink que-ver-hacer-otros-planes-en-bruselas-y-flandes >}} 
 
-{{< reflink path=posts/2024/11/malinas-y-oudenaarde-con-amigas >}}
+{{< reflink malinas-y-oudenaarde-con-amigas >}}

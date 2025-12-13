@@ -151,22 +151,23 @@ homónima, las buenas vistas maridan a la perfección con sus platos de atún. S
 Conil también encontrarás: **Cooking Almadraba** (plaza Blas Infante), especializado en 
 atún, y **Malabata** (calle Almadraba, 1) que se ha ganado el aprecio de los amantes de 
 la cocina popular renovada. Para seguir descubriendo la gastronomía de este precioso 
-pueblo blanco, echa un vistazo al artículo ✅ {{< reflink 
-path=posts/2022/07/donde-comer-bien-conil-de-la-frontera >}}, con bares y restaurantes 
+pueblo blanco, echa un vistazo al artículo ✅ [Dónde comer bien en Conil de la 
+Frontera]({{% ref donde-comer-bien-conil-de-la-frontera %}}), con bares y restaurantes 
 recomendados. 
 
 ### El Palmar
 
-Ya dedicamos un reportaje a los restaurantes de El Palmar de Vejer ( ✅ {{< reflink 
-path=posts/2021/07/restaurantes-en-el-palmar-cadiz-para-comer-muy-bien >}}). Entre 
-ellos, establecimientos como El Alférez, Casa Juan, Nacarum o Francisco son de los 
-mejores lugares de la provincia para probar buen atún. [El 
-Alférez](https://www.restauranteelalferez.com/) tiene carta independiente de atún rojo, 
-con numerosas opciones de atún en crudo, y sus _Bocaditos de atún con manteca colorá_ te 
-llevan a otra dimensión. En **Francisco** hay que probar la _Tosta de solomillo de 
-atún_, tomate semi-seco, pesto de pistacho y parmesano gratinado; en **Casa Juan** es 
-delicioso el _Tataki de atún rojo sobre ajoblanco de mango_; y en **Nacarum** su 
-_Ronqueo de atún crudo_ permite probar cuatro especialidades en un solo plato. 
+Ya dedicamos un reportaje a los restaurantes de El Palmar de Vejer ( ✅ [Restaurantes en 
+El Palmar para comer muy bien]({{% ref 
+restaurantes-en-el-palmar-cadiz-para-comer-muy-bien %}})). Entre ellos, establecimientos 
+como El Alférez, Casa Juan, Nacarum o Francisco son de los mejores lugares de la 
+provincia para probar buen atún. [El Alférez](https://www.restauranteelalferez.com/) 
+tiene carta independiente de atún rojo, con numerosas opciones de atún en crudo, y sus 
+_Bocaditos de atún con manteca colorá_ te llevan a otra dimensión. En **Francisco** hay 
+que probar la _Tosta de solomillo de atún_, tomate semi-seco, pesto de pistacho y 
+parmesano gratinado; en **Casa Juan** es delicioso el _Tataki de atún rojo sobre 
+ajoblanco de mango_; y en **Nacarum** su _Ronqueo de atún crudo_ permite probar cuatro 
+especialidades en un solo plato. 
 
 ![Volcano Roll de tartar de atún en el restaurante El Alferez.](https://fotos.etheriamagazine.com/2023/10/atun-Restaurante-El-Alferez-volcano-roll.jpg "Volcano Roll de tartar de atún en el restaurante © El Alférez.")
 
@@ -204,10 +205,11 @@ rojo; o la taberna **El Lola Tarifa**, perfecta para tapear con platos de atún.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}} 
+{{< reflink pueblos-que-ver-en-cadiz >}} 
 
-{{< reflink path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia 
->}}{{< reflink 
-path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}} 
+[10 paradas imprescindibles en las ruinas romanas de Ba]({{% ref 
+guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia %}})[elo Claudia (Bolonia, 
+Cádiz)]({{% ref guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia %}}) 
 
-{{< reflink path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}}
+[Cádiz, tras las huellas de su legado andalusí]({{% ref 
+viajar-con-amigas-que-hacer-en-cadiz %}})

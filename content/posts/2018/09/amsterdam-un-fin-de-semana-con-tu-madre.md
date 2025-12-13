@@ -189,4 +189,4 @@ acompañadas de un auténtico _Bloody Mary._
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2018/10/museo-nemo-en-amsterdam-ciencia-para-toda-la-familia >}}
+{{< reflink museo-nemo-en-amsterdam-ciencia-para-toda-la-familia >}}

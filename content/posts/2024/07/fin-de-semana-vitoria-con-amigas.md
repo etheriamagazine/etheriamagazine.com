@@ -51,8 +51,8 @@ aunque sea sólo desde el exterior, son la iglesia de San Miguel Arcángel y la 
 San Pedro Apóstol. 
 
 El **arte urbano** también tiene una presencia destacada en Vitoria, tanta que le 
-dedicamos un artículo especial que puedes leer aquí: {{< reflink 
-path=posts/2019/11/ruta-murales-en-vitoria-10-grafitis-imprescindibles >}} 
+dedicamos un artículo especial que puedes leer aquí: [10 fachadas básicas en la Ruta de 
+los Murales de Vitoria]({{% ref ruta-murales-en-vitoria-10-grafitis-imprescindibles %}}) 
 
 ![Mural de arte urbano en el centro de Vitoria.](https://fotos.etheriamagazine.com/2024/07/vitoria-arte-urbano.jpg "Mural de arte urbano en el centro de Vitoria. © Susana García.")
 
@@ -154,6 +154,6 @@ zonas del centro medieval y del Ensanche.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2024/06/hotel-ibis-budget-vitoria >}} 
+{{< reflink hotel-ibis-budget-vitoria >}} 
 
-{{< reflink path=posts/2021/09/planes-originales-en-vitoria-con-amigas >}}
+{{< reflink planes-originales-en-vitoria-con-amigas >}}

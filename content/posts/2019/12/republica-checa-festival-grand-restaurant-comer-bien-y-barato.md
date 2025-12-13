@@ -55,12 +55,12 @@ cocina de aprovechamiento.
 
 ![Tusculum de Karlovy Vary](https://fotos.etheriamagazine.com/2019/12/Tusculum-Karlovy-Vary.jpg "Tusculum de Karlovy Vary. ©GRF")
 
-En la anterior edición, que estuvo dedicada a {{< reflink 
-path=posts/2019/01/leonardo-da-vinci-inspira-el-mayor-festival-gastronomico-de-rep-checa 
->}} participaron 90 restaurantes y durante mes y medio se sirvieron 38.796 menús, en 36 
-ciudades de todo el país. Los establecimientos más demandados fueron el **restaurante 
-francés Art Nouveau**, situado en la bella Casa Municipal de Praga, y fuera de la 
-capital, el **restaurante Prominent,** del hotel Holiday Inn Brno, con 2.396 y 746 menús 
+En la anterior edición, que estuvo dedicada a [Leonardo da Vinci,]({{% ref 
+leonardo-da-vinci-inspira-el-mayor-festival-gastronomico-de-rep-checa %}}) participaron 
+90 restaurantes y durante mes y medio se sirvieron 38.796 menús, en 36 ciudades de todo 
+el país. Los establecimientos más demandados fueron el **restaurante francés Art 
+Nouveau**, situado en la bella Casa Municipal de Praga, y fuera de la capital, el 
+**restaurante Prominent,** del hotel Holiday Inn Brno, con 2.396 y 746 menús 
 respectivamente. 
 
 ![restaurante frances de praga](https://fotos.etheriamagazine.com/2019/12/Restaurante-frances-Art-Nouveau-Praga.jpg "Restaurante Art Nouveau, de Praga. ©FGR")
@@ -106,8 +106,9 @@ ciudades o establecimientos de Chequia como **Chateau Mcely**, la ciudad balnear
 
 Si necesitas más información puedes consultar la web (en español) de [Turismo de 
 Chequia.](https://www.czechtourism.com/sp/e/prague-grand-restaurant-festival/) Y si lo 
-que buscas son ideas para tu viajes, sigue leyendo otros temas publicados de {{< reflink 
-path=posts/2019/09/que-hacer-ver-2-dias-en-praga-museos-festivales >}}, {{< reflink 
-path=posts/2018/12/10-estampas-romanticas-de-republica-checa >}} {{< reflink 
-path=posts/2019/05/viaje-en-familia-moravia-del-sur-praga-republica-checa >}} o las {{< 
-reflink path=posts/2019/11/ruta-revolucion-terciopelo-comunismo-republica-checa >}}.
+que buscas son ideas para tu viajes, sigue leyendo otros temas publicados de [Una guía 
+urbana de Praga]({{% ref que-hacer-ver-2-dias-en-praga-museos-festivales %}}), [La 
+Bohemia Suiza en Chequia,]({{% ref 10-estampas-romanticas-de-republica-checa %}}) 
+[República Checa en familia]({{% ref 
+viaje-en-familia-moravia-del-sur-praga-republica-checa %}}) o las [Huellas del Comunismo 
+en Chequia]({{% ref ruta-revolucion-terciopelo-comunismo-republica-checa %}}).

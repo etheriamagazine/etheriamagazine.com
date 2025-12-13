@@ -95,12 +95,12 @@ Cantiga décima de Alfonso X el Sabio.
 
 ![las cantaderas en claustro catedral leon](https://fotos.etheriamagazine.com/2021/09/cantaderas-claustro-catedral.jpg "Grupo de jóvenes del desfile de Las Cantaderas en el claustro de la Catedral de León.")
 
-Al igual que ocurría en la {{< reflink 
-path=posts/2021/04/que-es-la-fiesta-de-las-cabezadas-de-leon >}} (puedes leer en el 
-enlace anterior) también aquí se produce un divertido debate dialéctico (foro u oferta) 
-entre el representante civil del Ayuntamiento y el del Cabildo sobre si es un acto 
-libre, una ofrenda o bien existe una obligación por parte del pueblo de agradecer a la 
-Virgen sus favores durante la batalla de Clavijo. 
+Al igual que ocurría en la [Fiesta de las Cabezadas]({{% ref 
+que-es-la-fiesta-de-las-cabezadas-de-leon %}}) (puedes leer en el enlace anterior) 
+también aquí se produce un divertido debate dialéctico (foro u oferta) entre el 
+representante civil del Ayuntamiento y el del Cabildo sobre si es un acto libre, una 
+ofrenda o bien existe una obligación por parte del pueblo de agradecer a la Virgen sus 
+favores durante la batalla de Clavijo. 
 
 Una vez que termina la eucaristía, las Cantaderas realizan **una danza sacramental** 
 dirigida por la sotadera, y la corporación se dirige a la plaza del Grano donde tienen 
@@ -117,9 +117,8 @@ León](https://www.leonestradicion.com/).
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/09/ruta-para-comer-bien-en-leon-capital >}}. 
+{{< reflink ruta-para-comer-bien-en-leon-capital >}}. 
 
-{{< reflink path=posts/2021/07/10-planes-para-disfrutar-de-leon-en-familia >}}. 
+{{< reflink 10-planes-para-disfrutar-de-leon-en-familia >}}. 
 
-{{< reflink 
-path=posts/2020/12/10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}.
+{{< reflink 10-razones-para-descubrir-leon-una-capital-unica-y-diferente >}}.

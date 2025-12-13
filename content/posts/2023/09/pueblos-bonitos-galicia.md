@@ -166,10 +166,10 @@ Catedrales**.
 
 📌 **Para seguir leyendo...** 
 
-{{< reflink path=posts/2023/04/pueblos-que-ver-lugo >}} 
+{{< reflink pueblos-que-ver-lugo >}} 
 
-{{< reflink path=posts/2022/12/que-ver-pontevedra >}} 
+{{< reflink que-ver-pontevedra >}} 
 
-{{< reflink path=posts/2019/10/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja >}} 
+{{< reflink 8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja >}} 
 
-{{< reflink path=posts/2022/09/que-ver-a-coruna >}}
+[15 lugares imprescindibles en A Coruña que miran al mar]({{% ref que-ver-a-coruna %}})

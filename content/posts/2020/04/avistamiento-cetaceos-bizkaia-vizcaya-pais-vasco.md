@@ -150,9 +150,8 @@ desde este privilegiado promontorio a los cetáceos aproximarse hasta la costa.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/04/viajes-naturaleza-mejores-canones-pais-vasco >}}. 
+{{< reflink viajes-naturaleza-mejores-canones-pais-vasco >}}. 
 
-{{< reflink 
-path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}. 
+{{< reflink 12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}. 
 
-{{< reflink path=posts/2021/08/que-ver-y-hacer-en-valle-de-karrantza-vizcaya >}}.
+{{< reflink que-ver-y-hacer-en-valle-de-karrantza-vizcaya >}}.

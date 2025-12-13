@@ -169,7 +169,6 @@ oratorio. El convento de San Francisco se fundaría un poco más tarde.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2020/06/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza 
->}}. 
+{{< reflink viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza >}}. 
 
-{{< reflink path=posts/2019/02/mejores-bares-viaje-zaragoza >}}.
+{{< reflink mejores-bares-viaje-zaragoza >}}.

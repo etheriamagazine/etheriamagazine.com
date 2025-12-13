@@ -212,8 +212,8 @@ Rica](https://www.visitcostarica.com/es).
 
 **Más temas de Costa Rica:** 
 
-{{< reflink path=posts/2022/09/valle-central-caribe-costa-rica >}} 
+{{< reflink valle-central-caribe-costa-rica >}} 
 
-{{< reflink path=posts/2022/08/que-ver-sarapiqui-costa-rica >}} 
+{{< reflink que-ver-sarapiqui-costa-rica >}} 
 
-{{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}}
+{{< reflink que-ver-peninsula-nicoya-costa-rica >}}

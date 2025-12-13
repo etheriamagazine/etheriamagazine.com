@@ -135,8 +135,8 @@ Más información en [Turismo de Lucca](http://www.turismo.lucca.it/en).
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2019/02/viajes-lucca-puccini-aficionado-coches >}} 
+{{< reflink viajes-lucca-puccini-aficionado-coches >}} 
 
-{{< reflink path=posts/2021/06/toscana-en-coche >}} 
+{{< reflink toscana-en-coche >}} 
 
-{{< reflink path=posts/2020/08/10-grandes-viajes-a-italia >}}
+{{< reflink 10-grandes-viajes-a-italia >}}

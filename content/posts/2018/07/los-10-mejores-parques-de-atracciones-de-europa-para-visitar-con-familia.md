@@ -36,8 +36,9 @@ ser uno de los mejores parques de atracciones de Europa. Se encuentra situado ce
 Friburgo y de la frontera entre Alemania y Francia. Cuenta con atracciones para todos 
 los gustos, desde las más familiares hasta trepidantes montañas rusas. Además, está muy 
 bien ambientado y decorado. Dispone de buenos hoteles aledaños al parque donde merece la 
-pena pasar alguna noche. Por otro lado, puede ser el complemento perfecto para un {{< 
-reflink path=posts/2018/08/ruta-en-familia-por-alsacia-y-selva-negra >}}. 
+pena pasar alguna noche. Por otro lado, puede ser el complemento perfecto para un [viaje 
+en familia por Selva Negra y Alsacia]({{% ref ruta-en-familia-por-alsacia-y-selva-negra 
+%}}). 
 
 ![viajes con niños, parques de atracciones, viajes en familia, viajes a Europa](https://fotos.etheriamagazine.com/2018/07/Europa-Park-Arthur-e1559206932625.jpg "Atracción familiar de Arthur en Europa Park. © Europa Park")
 
@@ -50,7 +51,7 @@ nos tienen acostumbrados otros parques más convencionales. Ofrece, además, atr
 emocionantes y realmente bonitas. Cuenta con un sorprendente hotel donde es muy 
 recomendable alojarse en alguna de sus habitaciones tematizadas. También existe la 
 posibilidad de alojarse en otros hoteles y complejos con cabañas. Perfecto para 
-incluirlo en un {{< reflink path=posts/2018/08/holanda-en-familia >}}. 
+incluirlo en un [viaje en familia por Holanda]({{% ref holanda-en-familia %}}). 
 
 ![viajes en familia, viajes con niños, viajes a Europa, parques de atracciones](https://fotos.etheriamagazine.com/2018/07/Parque-Efteling-Holanda-e1559207067905.jpg "Vista de una zona de Efteling desde una de sus atracciones. © SG")
 
@@ -74,9 +75,9 @@ la magia de Disney desde el primer minuto. Bajo la atenta mirada del castillo de
 Bella Dumiente, que domina el parque, se suceden los desfiles, los espectáculos de luz y 
 sonido y las atracciones. La magia Disney se completa con una gran oferta de hoteles 
 tematizados, restaurantes y espectáculos fuera del parque. Como novedad este verano de 
-2019 se podrá ver el El Festival del Rey y de la Selva. Aquí te damos {{< reflink 
-path=posts/2018/11/12-consejos-para-aprovechar-al-maximo-un-viaje-a-disneyland-paris 
->}}. 
+2019 se podrá ver el El Festival del Rey y de la Selva. Aquí te damos [12 consejos para 
+aprovechar tu visita a Disneyland Paris]({{% ref 
+12-consejos-para-aprovechar-al-maximo-un-viaje-a-disneyland-paris %}}). 
 
 ![Viajes en familia, viajes con niños, viajes a Europa, parques de atracciones](https://fotos.etheriamagazine.com/2018/07/Disneyland-Paris-e1559207235183.jpg "Castillo de Disney.")
 
@@ -121,9 +122,9 @@ la noche los espectáculos, diseñados por Cirque du Soleil, ponen el broche de 
 día de grandes emociones. Aunque se permite llevar comida al parque, el servicio de 
 restauración es una buena alternativa. El alojamiento se puede realizar junto al parque 
 o bien en Poitiers, a poco kilómetros y bien comunicado por las líneas de autobuses 
-locales. No te pierdas los {{< reflink path=posts/2018/08/10-consejos-futuroscope >}}. 
-Puedes incluirlo como broche a un {{< reflink 
-path=posts/2019/03/que-ver-ruta-en-coche-valle-del-loira >}}. 
+locales. No te pierdas los [10 consejos para aprovechar una visita a Futuroscope]({{% 
+ref 10-consejos-futuroscope %}}). Puedes incluirlo como broche a un [viaje por los 
+Castillos del Loira]({{% ref que-ver-ruta-en-coche-valle-del-loira %}}). 
 
 ![Viaje con niños, viaje en familia, parques de atracciones, viajes a Europa](https://fotos.etheriamagazine.com/2018/08/Futuroscope-viaje-extraordinario-e1559207700242.jpg "El Viaje Extraordinario es una de las atracciones más populares de © Futuroscope")
 
@@ -150,6 +151,6 @@ descansar.
 
 **Además de los parques de atracciones de Europa, te puede interesar:** 
 
-{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
+{{< reflink viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
 
-{{< reflink path=posts/2020/03/road-trips-por-europa-verano-viajes-en-coche >}}
+{{< reflink road-trips-por-europa-verano-viajes-en-coche >}}

@@ -114,6 +114,6 @@ E Coast Rd, Anse Royale, Seychelles. Tel. +248 439 7800
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/11/islas-seychelles-un-viaje-de-lujo-al-paraiso >}} 
+{{< reflink islas-seychelles-un-viaje-de-lujo-al-paraiso >}} 
 
-{{< reflink path=posts/2021/01/como-organizar-viaje-de-novios-o-luna-de-miel >}}
+{{< reflink como-organizar-viaje-de-novios-o-luna-de-miel >}}

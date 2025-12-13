@@ -122,10 +122,8 @@ detuvieron cuando se automatizó en 1921.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/06/que-ver-en-valle-de-valdeolea-cantabria >}} 
+{{< reflink que-ver-en-valle-de-valdeolea-cantabria >}} 
 
-{{< reflink 
-path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}} 
+{{< reflink 8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}} 
 
-{{< reflink 
-path=posts/2020/02/5-experiencias-en-cantabria-para-un-fin-de-semana-con-amigas >}}
+{{< reflink 5-experiencias-en-cantabria-para-un-fin-de-semana-con-amigas >}}

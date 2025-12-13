@@ -168,8 +168,8 @@ y una longitud de **11,6 kilómetros**. Requiere 6 horas para hacerla en ida y v
 
 📌 **Más rutas y bosques para el otoño...** 
 
-{{< reflink path=posts/2021/01/hayedo-de-montejo-madrid-como-reservar-y-llegar >}}. 
+{{< reflink hayedo-de-montejo-madrid-como-reservar-y-llegar >}}. 
 
-{{< reflink path=posts/2020/09/10-parajes-naturales-en-espana-para-viajar-otono >}}. 
+{{< reflink 10-parajes-naturales-en-espana-para-viajar-otono >}}. 
 
-{{< reflink path=posts/2020/09/31-escapadas-po-los-paisajes-del-vino >}}.
+{{< reflink 31-escapadas-po-los-paisajes-del-vino >}}.

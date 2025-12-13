@@ -175,5 +175,5 @@ dedicadas albergar instalaciones culturales como el nuevo Museo Edward Munch o e
 de Arte Moderno, así como restaurantes de lo más modernos y _hipsters_. Sin duda alguna, 
 un lugar para ver y dejarse ver. 
 
-IMPORTANTE: Continúa leyendo este reportaje haciendo clic en {{< reflink 
-path=posts/2020/01/viajes-con-amigas-que-ver-y-hacer-en-oslo >}}
+IMPORTANTE: Continúa leyendo este reportaje haciendo clic en [Qué ver y hacer en 
+Oslo.]({{% ref viajes-con-amigas-que-ver-y-hacer-en-oslo %}})

@@ -267,8 +267,8 @@ actividad física limitada por falta de aire.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/02/ruta-santiago-atacama-uyuni >}} 
+{{< reflink ruta-santiago-atacama-uyuni >}} 
 
-{{< reflink path=posts/2023/02/patagonia-cruce-lagos >}} 
+{{< reflink patagonia-cruce-lagos >}} 
 
-{{< reflink path=posts/2022/12/sania-jelic-amazonas >}}
+{{< reflink sania-jelic-amazonas >}}

@@ -85,7 +85,7 @@ Mi último viaje fue a **Mozambique**, con mi hijo de 5 meses, para mi fue como 
 
 13\. ¿Qué viajes que hayas realizado recomendarías especialmente a una viajera? 
 
-Brasil y {{< reflink path=posts/2019/01/viajar-sola-al-eje-cafetero-colombia >}}.
+Brasil y [Colombia]({{% ref viajar-sola-al-eje-cafetero-colombia %}}).
 
 14\. Tres viajes pendientes… 
 

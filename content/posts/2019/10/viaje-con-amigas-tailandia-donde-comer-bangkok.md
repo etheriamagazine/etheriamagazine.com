@@ -50,8 +50,8 @@ objeto religioso más venerado de la ciudad. Mete la nariz en el templo de Wat P
 encuentra el ángulo mejor (que no es fácil) para contemplar en toda su magnitud –46 
 metros de largo– el impactante **Buda Reclinado recubierto de oro**. 
 
-✅ Continúa con las {{< reflink path=posts/2021/05/tres-dias-en-bangkok-que-hacer >}} si 
-es la primera vez que viajas a la capital tailandesa. 
+✅ Continúa con las [visitas básicas en Bangkok]({{% ref tres-dias-en-bangkok-que-hacer 
+%}}) si es la primera vez que viajas a la capital tailandesa. 
 
 ![Buda reclinado de Wat Pho](https://fotos.etheriamagazine.com/2019/10/viaje-con-amigas-Bangkok-Buda-Reclinado-de-Wat-Pho.jpg "Buda Reclinado de Wat Pho.")
 

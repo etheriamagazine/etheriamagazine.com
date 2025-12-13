@@ -193,8 +193,8 @@ pena aunque sólo sea para observar los movimientos sincronizados de los soldado
 ### Cómo llegar a Taipéi
 
 No hay vuelos directos a Taipéi pero se puede llegar haciendo escala con Emirates, que 
-conecta desde Dubai; KLM desde Amsterdam; y Cathay Pacific hace escala en {{< reflink 
-path=posts/2019/09/que-ver-hacer-dos-dias-en-hong-kong >}}. 
+conecta desde Dubai; KLM desde Amsterdam; y Cathay Pacific hace escala en [Hong 
+Kong]({{% ref que-ver-hacer-dos-dias-en-hong-kong %}}). 
 
 ### ¿Necesito visado para viajar a Taiwán?
 

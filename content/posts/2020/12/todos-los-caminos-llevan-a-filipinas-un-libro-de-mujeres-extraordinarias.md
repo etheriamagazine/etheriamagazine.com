@@ -15,12 +15,12 @@ authors:
 
 ![manena munar, todos los caminos llevan a filipinas](https://fotos.etheriamagazine.com/2020/12/manena-munar-todos-los-caminos-llevan-a-filipinas.jpg "Manena Munar, autora de 'Todos los caminos llevan a Filipinas'.")
 
-Los libros de {{< reflink path=posts/2020/05/mujeres-viajeras-etheria-manena-munar >}} 
-autora de ‘**Todos los caminos llevan a Filipinas’**, siempre tienen algo de ella misma, 
-de su trayectoria y de su personalidad. En esta ocasión, la escritora nos lleva a 
-Filipinas, país donde residió muchos años, para sacar a la luz las hazañas de 20 mujeres 
-que, aún en situaciones adversas, han sacado lo mejor de ellas mismas para ayudar a los 
-demás o crear proyectos con los que mejorar la vida de la población local filipina. 
+Los libros de [Manena Munar,]({{% ref mujeres-viajeras-etheria-manena-munar %}}) autora 
+de ‘**Todos los caminos llevan a Filipinas’**, siempre tienen algo de ella misma, de su 
+trayectoria y de su personalidad. En esta ocasión, la escritora nos lleva a Filipinas, 
+país donde residió muchos años, para sacar a la luz las hazañas de 20 mujeres que, aún 
+en situaciones adversas, han sacado lo mejor de ellas mismas para ayudar a los demás o 
+crear proyectos con los que mejorar la vida de la población local filipina. 
 
 Hemos hablado con Manena, integrante de Etheria Magazine desde sus comienzos, para que 
 nos cuente cómo se gestó este libro y por qué es una obra que merece la pena ser leída. 

@@ -88,8 +88,8 @@ multicultural que se respira en buena parte de sus calles y plazas.
 Ellos y sus compañeros italianos son los que llenan los bares y restaurantes del centro 
 histórico de Verona durante el año lectivo. Pero, una vez terminan las clases, el relevo 
 lo toman los ya mencionados amantes de la ópera y los muchos turistas que veranean en el 
-cercano Lago de Garda (prepara tu escapada con esta {{< reflink 
-path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}}) y que llegan hasta aquí 
+cercano Lago de Garda (prepara tu escapada con esta [ruta en coche alrededor del Lago de 
+Garda]({{% ref ruta-en-coche-en-lago-de-garda-italia %}})) y que llegan hasta aquí 
 atraídos por la benignidad del clima que caracteriza a la zona. Aparte de los muchos 
 encantos de la ciudad de Verona, claro. 
 
@@ -200,8 +200,8 @@ poco.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}} 
+{{< reflink que-ver-en-turin-en-un-viaje-con-amigas >}} 
 
-{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}. 
+{{< reflink paseos-por-los-jardines-mas-bellos-de-florencia >}}. 
 
-{{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}}.
+{{< reflink que-ver-en-napoles-en-fin-de-semana >}}.

@@ -121,6 +121,6 @@ familia](https://www.rutaenfamilia.com/road-trip-con-ninos-por-la-region-centro-
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2020/07/valle-del-coa-8-experiencias-en-la-frontera-portugal >}} 
+{{< reflink valle-del-coa-8-experiencias-en-la-frontera-portugal >}} 
 
-{{< reflink path=posts/2019/06/planes-divertidos-viajes-familia-portugal >}}
+{{< reflink planes-divertidos-viajes-familia-portugal >}}

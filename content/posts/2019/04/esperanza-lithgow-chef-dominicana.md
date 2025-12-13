@@ -68,7 +68,6 @@ del país.
 
 También te puede interesar... 
 
-{{< reflink path=posts/2018/05/10-razones-para-visitar-punta-cana-republica-dominicana 
->}} 
+{{< reflink 10-razones-para-visitar-punta-cana-republica-dominicana >}} 
 
-{{< reflink path=posts/2018/04/propuestas-en-el-norte-de-republica-dominicana >}}
+{{< reflink propuestas-en-el-norte-de-republica-dominicana >}}

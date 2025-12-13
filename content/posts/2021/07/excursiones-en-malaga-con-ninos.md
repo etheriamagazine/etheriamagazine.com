@@ -151,10 +151,10 @@ su pasado musulmán en forma de castillos y murallas.
 ![Parque Nacional Sierra de las Nieves.](https://fotos.etheriamagazine.com/2021/07/Sierra-nieves-malaga-e1550839729469.jpg "Parque Nacional Sierra de las Nieves.")
 
 No os perdáis tampoco alguno de sus miradores, como el de Puerto Saulcillo, o un paseo 
-por alguno de sus bosques. Os lo hemos contado ya en el artículo {{< reflink 
-path=posts/2021/06/revista-viajes-que-ver-parque-sierra-de-nieves >}}. Además, en la web 
-de la Sierra de las Nieves encontraréis todas las rutas de senderismo e información 
-sobre el parque. 
+por alguno de sus bosques. Os lo hemos contado ya en el artículo [Parque Nacional Sierra 
+de las Nieves, una nueva estrella brilla en Málaga]({{% ref 
+revista-viajes-que-ver-parque-sierra-de-nieves %}}). Además, en la web de la Sierra de 
+las Nieves encontraréis todas las rutas de senderismo e información sobre el parque. 
 
 ## Torremolinos
 
@@ -167,8 +167,8 @@ del Agua** para disfrutar de la vegetación mediterránea.
 ![Jardín Botánico de Torremolinos.](https://fotos.etheriamagazine.com/2021/07/jardin-botanico-torremolinos.jpg "Jardín Botánico de Torremolinos. © Etheria Magazine")
 
 No os podéis perder tapear por el centro y visitar la playa de La Carihuela. Os lo 
-contamos todo en el reportaje de Etheria Magazine {{< reflink 
-path=posts/2021/05/planes-imprescindibles-torremolinos >}}. 
+contamos todo en el reportaje de Etheria Magazine [10 planes imprescindibles en 
+Torremolinos]({{% ref planes-imprescindibles-torremolinos %}}). 
 
 Puedes descubrir todos estos rincones con un [Free Tour por 
 Torremolinos](https://www.civitatis.com/es/torremolinos/visita-guiada-torremolinos/?aid=10211) 
@@ -176,9 +176,8 @@ de Civitatis.
 
 **Más planes con niños** 
 
-{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
->}} 
+{{< reflink 12-actividades-familiares-para-viajes-con-ninos-en-cadiz >}} 
 
-{{< reflink path=posts/2021/06/planes-en-huelva-con-ninos >}} 
+{{< reflink planes-en-huelva-con-ninos >}} 
 
-{{< reflink path=posts/2020/05/8-excursiones-con-ninos-en-alicante >}}
+{{< reflink 8-excursiones-con-ninos-en-alicante >}}

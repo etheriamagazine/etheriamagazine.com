@@ -98,12 +98,12 @@ un decorado donde no se ha dejado nada fuera de su sitio.
 
 ## Disfruta de la naturaleza en las cabañas De Eemhof
 
-Las {{< reflink path=posts/2018/08/center-parcs-de-eemhof-vacaciones-en-la-naturaleza 
->}}, un alojamiento de la cadena **Center Parcs** en el centro de un bosque, son un 
-lugar perfecto para alojarse si se viaja con niños. Sirven de punto de partida para 
-realizar excursiones, aunque como tiene pistas deportivas, un pequeño parque acuático 
-cubierto de entrada libre y un completo programa de actividades deportivas y de ocio, si 
-dejas decidir a los niños no sales de allí. Este **complejo de cabañas unifamiliares de 
+Las [cabañas De Eemhof]({{% ref center-parcs-de-eemhof-vacaciones-en-la-naturaleza %}}), 
+un alojamiento de la cadena **Center Parcs** en el centro de un bosque, son un lugar 
+perfecto para alojarse si se viaja con niños. Sirven de punto de partida para realizar 
+excursiones, aunque como tiene pistas deportivas, un pequeño parque acuático cubierto de 
+entrada libre y un completo programa de actividades deportivas y de ocio, si dejas 
+decidir a los niños no sales de allí. Este **complejo de cabañas unifamiliares de 
 distintos tamaños** ocupa un gran espacio y es casi imprescindible alquilar unas 
 bicicletas para moverse por él, ya que los coches sólo pueden acercarse a la cabaña para 
 dejar y recoger el equipaje. 
@@ -114,15 +114,15 @@ dejar y recoger el equipaje.
 
 En medio de un bosque se esconde el bonito **parque de atracciones** 
 [Efteling](https://www.efteling.com/en) que es uno de los secretos mejor guardados de 
-Holanda y {{< reflink 
-path=posts/2018/07/los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia 
->}}. Uno se esos lugares que no te explicas como es tan poco conocido fuera de este 
-país. Sus dos partes, la de atracciones y la dedicada al mundo de los cuentos, están 
-decoradas con un gusto exquisito y recrean un mundo de hadas, elfos y trolls al más puro 
-estilo centroeuropeo, alejado del colorín y aire pastel que rodea a otros parques. Los 
-más pequeños disfrutaran entrando en las casas de los cuentos y los mayores con 
-atracciones llenas de adrenalina. Merece la pena alojarse en su hotel en una de sus 
-habitaciones temáticas. 
+Holanda y [uno de los mejores parques de Europa]({{% ref 
+los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia %}}). Uno se 
+esos lugares que no te explicas como es tan poco conocido fuera de este país. Sus dos 
+partes, la de atracciones y la dedicada al mundo de los cuentos, están decoradas con un 
+gusto exquisito y recrean un mundo de hadas, elfos y trolls al más puro estilo 
+centroeuropeo, alejado del colorín y aire pastel que rodea a otros parques. Los más 
+pequeños disfrutaran entrando en las casas de los cuentos y los mayores con atracciones 
+llenas de adrenalina. Merece la pena alojarse en su hotel en una de sus habitaciones 
+temáticas. 
 
 ![Holanda en familia, viajes con niños, escapadas por Europa](https://fotos.etheriamagazine.com/2018/05/Holanda-familiar-Efteling-e1558171594445.jpg "Rincón del parque Efteling. @SG")
 
@@ -146,6 +146,6 @@ encontrar pistas y consejos para planificar tus vacaciones.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/02/viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
+{{< reflink viajar-con-ninos-por-europa-consejos-y-propuestas >}} 
 
-{{< reflink path=posts/2019/04/viaje-en-familia-que-hacer-engelberg-suiza >}}
+{{< reflink viaje-en-familia-que-hacer-engelberg-suiza >}}

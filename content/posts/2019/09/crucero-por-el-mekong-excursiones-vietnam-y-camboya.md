@@ -126,9 +126,9 @@ reservar unos días antes y después del crucero para conocer las ciudades de H�
 y Siem Reap por tierra. Mi consejo sería pasar una o dos noches en la ciudad vietnamita, 
 donde empaparse de su cultura y hacer una pequeña inmersión antes de embarcar; e 
 invertir tres más para volar desde Phnom Penh hasta Seam Reap para visitar la región 
-camboyana de Angkor (no te pierdas 📍 {{< reflink 
-path=posts/2019/01/que-ver-angkor-bailarinas-robadas >}}) donde quedarse maravillados 
-con uno de los complejos arqueológicos más majestuosos del mundo. 
+camboyana de Angkor (no te pierdas 📍 [Las bailarinas 'desaparecidas' de Angkor]({{% ref 
+que-ver-angkor-bailarinas-robadas %}})) donde quedarse maravillados con uno de los 
+complejos arqueológicos más majestuosos del mundo. 
 
 ![Cocina de Camboya: ensalada y pho soup de verduras y carne.](https://fotos.etheriamagazine.com/2019/09/cocina-comida-crucero-mekong.jpg "Cocina local a bordo: ensalada y pho soup de verduras y carne. ©CRB")
 

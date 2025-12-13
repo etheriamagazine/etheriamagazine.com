@@ -121,9 +121,8 @@ realmente único.
 
 **También en Etheria Magazine** 
 
-{{< reflink 
-path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}}. 
+{{< reflink 8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}}. 
 
-{{< reflink path=posts/2021/09/ruta-para-comer-bien-en-leon-capital >}}. 
+{{< reflink ruta-para-comer-bien-en-leon-capital >}}. 
 
-{{< reflink path=posts/2021/07/que-hacer-en-parque-las-ubinas-la-mesa >}}.
+{{< reflink que-hacer-en-parque-las-ubinas-la-mesa >}}.

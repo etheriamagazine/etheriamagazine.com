@@ -28,7 +28,8 @@ barroca. Al entrar en el mercado la boca se hace agua viendo los muchos e impeca
 puestos de frutas y hortalizas, salmueras, fiambres y hasta de caracoles perfectamente 
 ordenados por categorías y tamaños. 
 
-**No te pierdas:** {{< reflink path=posts/2022/10/que-ver-valencia >}}. 
+**No te pierdas:** [Guía esencial de Valencia, imprescindibles en una ciudad que mira al 
+futuro]({{% ref que-ver-valencia %}}). 
 
 ![cupula mercado central valencia, viaje valencia, compras valencia, diseno valencia](https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-valencia-mercado.jpg "Cúpula del Mercado Central de Valencia. ©PB")
 

@@ -145,13 +145,12 @@ más económicas. Es recomendable reservar con antelación.
 
 Si se dispone de pocos días, lo ideal es ir a una de sus zonas de playas. Las más 
 populares son Phuket, Krabi, las islas Phi Phi y Koh Samui. En Krabi es muy recomendable 
-el {{< reflink path=posts/2018/05/hotel-rayavadee-vivir-la-naturaleza >}}. 
+el [hotel Rayabadee]({{% ref hotel-rayavadee-vivir-la-naturaleza %}}). 
 
 **También te puede interesar** 
 
-{{< reflink path=posts/2019/10/viaje-con-amigas-tailandia-donde-comer-bangkok >}} 
+{{< reflink viaje-con-amigas-tailandia-donde-comer-bangkok >}} 
 
-{{< reflink path=posts/2021/01/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual 
->}} 
+{{< reflink chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual >}} 
 
-{{< reflink path=posts/2020/01/que-llevar-en-maleta-viaje-tailandia >}}
+{{< reflink que-llevar-en-maleta-viaje-tailandia >}}

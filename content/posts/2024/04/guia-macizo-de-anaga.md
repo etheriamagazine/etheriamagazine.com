@@ -245,6 +245,6 @@ que invita siempre a volver.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2023/01/que-ver-en-tenerife >}}. 
+{{< reflink que-ver-en-tenerife >}}. 
 
-{{< reflink path=posts/2023/05/que-llevar-en-la-maleta-tenerife >}}.
+{{< reflink que-llevar-en-la-maleta-tenerife >}}.

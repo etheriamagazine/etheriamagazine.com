@@ -145,10 +145,10 @@ disfrutar (sin empaparte) del "lunes de agua".
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/03/mujeres-polacas-fama-universal >}} 
+{{< reflink mujeres-polacas-fama-universal >}} 
 
-{{< reflink path=posts/2021/03/que-ver-en-varsovia-en-tres-rutas-originales >}} 
+{{< reflink que-ver-en-varsovia-en-tres-rutas-originales >}} 
 
-{{< reflink path=posts/2018/07/viaje-fin-de-semana-con-amigas-en-cracovia >}} 
+{{< reflink viaje-fin-de-semana-con-amigas-en-cracovia >}} 
 
-{{< reflink path=posts/2019/01/que-ver-parque-bialowieza-polonia >}}
+{{< reflink que-ver-parque-bialowieza-polonia >}}

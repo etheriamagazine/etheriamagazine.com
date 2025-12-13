@@ -43,19 +43,19 @@ experiencias viajeras, de las que se puede aprender mucho, con total naturalidad
 ### 1\. ¿Cuál es el primer viaje que recuerdas?
 
 El primero que no fuera un viaje de estudios o familiar, fue con mi amiga Pati, cuando 
-teníamos 17 años, un par de semanas a una playa de {{< reflink 
-path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}}. Es a lo que nos daba el 
-presupuesto y **fue un desastre,** pero volvimos cambiadas. Nada más llegar, después de 
-toda una noche de autobús, nos fuimos temprano a la playa y, como queríamos ser 
-modernas, nos pusimos en _topless_. Nos quedamos dormidas y al abrir el ojo teníamos a 
-los obreros de una obra cercana en corro alrededor, mirándonos mientras se comían el 
-bocadillo. Además, jamás habíamos montado una tienda de campaña y, como estábamos en un 
-camping, rara era la noche que no se nos caía encima. Tampoco ayudó que la plantásemos 
-**en un secarral** sin percatarnos de que ahí no daba la sombra jamás, por lo que mi 
-amiga tenía que despertarme con unas gotas que me subían la tensión cuando se dio cuenta 
-de que, con la solana, no es que siguiera durmiendo dentro del saco, es que estaba 
-**desmayada**. Y, aunque nuestro plan era salir de marcha sin mirar el reloj por primera 
-vez en la vida, lo hicimos apenas un par de veces. 
+teníamos 17 años, un par de semanas a una playa de [Málaga]({{% ref 
+fin-de-semana-con-amigas-en-malaga %}}). Es a lo que nos daba el presupuesto y **fue un 
+desastre,** pero volvimos cambiadas. Nada más llegar, después de toda una noche de 
+autobús, nos fuimos temprano a la playa y, como queríamos ser modernas, nos pusimos en 
+_topless_. Nos quedamos dormidas y al abrir el ojo teníamos a los obreros de una obra 
+cercana en corro alrededor, mirándonos mientras se comían el bocadillo. Además, jamás 
+habíamos montado una tienda de campaña y, como estábamos en un camping, rara era la 
+noche que no se nos caía encima. Tampoco ayudó que la plantásemos **en un secarral** sin 
+percatarnos de que ahí no daba la sombra jamás, por lo que mi amiga tenía que 
+despertarme con unas gotas que me subían la tensión cuando se dio cuenta de que, con la 
+solana, no es que siguiera durmiendo dentro del saco, es que estaba **desmayada**. Y, 
+aunque nuestro plan era salir de marcha sin mirar el reloj por primera vez en la vida, 
+lo hicimos apenas un par de veces. 
 
 Había tanto turismo y nos gustó todo tan poco que pasábamos los días en una terraza muy 
 rancia haciendo planes de futuro. De vuelta a casa no volvimos a pisar una discoteca y 
@@ -193,30 +193,30 @@ de media entre 100 y 300 afortunados.
 
 ### 8\. ¿Qué tres viajes que hayas realizado recomendarías especialmente a una viajera?
 
-{{< reflink path=posts/2018/05/fin-de-semana-romantico-en-estambul >}}, mi lugar 
-favorito del planeta. Es una ciudad de esas que puedes volver una y mil veces y no te la 
-acabas de todas las capas que tiene. 
+[Estambul]({{% ref fin-de-semana-romantico-en-estambul %}}), mi lugar favorito del 
+planeta. Es una ciudad de esas que puedes volver una y mil veces y no te la acabas de 
+todas las capas que tiene. 
 
-{{< reflink path=posts/2020/04/viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas 
->}} es mi debilidad, aunque por supuesto también ahí haya aspectos de su sociedad que no 
-me gusten y, a veces, me desesperen. Es un destino tremendamente exótico a las puertas 
-de casa, y la gente, la mayoría, te llega al alma en cuanto notan que aprecias lo suyo, 
-que tienes curiosidad por saber más… hasta te diría que por no considerarles 
-“sospechosos” por ser musulmanes, como hacen tantos “cristianos”. Infinidad de perfectos 
-desconocidos me han hecho favores sin esperar nada a cambio, y si no he ido cincuenta 
-veces a Marruecos no he ido ni una. Eso sí, hay que saber moverse y hacerlo con humildad 
-y respeto. He pasado mucha vergüenza viajando con gente prepotente que, por funcionar a 
-su manera sin tener en cuenta cómo te perciben, se ha llevado buenos chascos. 
+[Marruecos]({{% ref viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas %}}) es mi 
+debilidad, aunque por supuesto también ahí haya aspectos de su sociedad que no me gusten 
+y, a veces, me desesperen. Es un destino tremendamente exótico a las puertas de casa, y 
+la gente, la mayoría, te llega al alma en cuanto notan que aprecias lo suyo, que tienes 
+curiosidad por saber más… hasta te diría que por no considerarles “sospechosos” por ser 
+musulmanes, como hacen tantos “cristianos”. Infinidad de perfectos desconocidos me han 
+hecho favores sin esperar nada a cambio, y si no he ido cincuenta veces a Marruecos no 
+he ido ni una. Eso sí, hay que saber moverse y hacerlo con humildad y respeto. He pasado 
+mucha vergüenza viajando con gente prepotente que, por funcionar a su manera sin tener 
+en cuenta cómo te perciben, se ha llevado buenos chascos. 
 
-Y añadiría, sobre todo para una mujer aunque sorprenda, {{< reflink 
-path=posts/2019/11/que-ver-iran-mujer-viajar-sola-con-amigas >}}. Es tremendamente 
-seguro, una sociedad interesantísima muy polarizada entre islamistas y prooccidentales 
-donde es fácil comunicarte en inglés y hasta alojarte en casas particulares, por ejemplo 
-con Airbnb. Si contactas con gente local, que allí es facilísimo porque los 
-prooccidentales directamente te abordan por la calle para charlar, vas a conocer un Irán 
-totalmente distinto al oficial. Si en el oficial está todo prohibido, desde Facebook al 
-alcohol, de puertas para adentro no se cortan en poner a caldo a los de las barbas 
-mientras compartes un buen vino de Shiraz que ya saben ellos cómo conseguir. 
+Y añadiría, sobre todo para una mujer aunque sorprenda, [Irán]({{% ref 
+que-ver-iran-mujer-viajar-sola-con-amigas %}}). Es tremendamente seguro, una sociedad 
+interesantísima muy polarizada entre islamistas y prooccidentales donde es fácil 
+comunicarte en inglés y hasta alojarte en casas particulares, por ejemplo con Airbnb. Si 
+contactas con gente local, que allí es facilísimo porque los prooccidentales 
+directamente te abordan por la calle para charlar, vas a conocer un Irán totalmente 
+distinto al oficial. Si en el oficial está todo prohibido, desde Facebook al alcohol, de 
+puertas para adentro no se cortan en poner a caldo a los de las barbas mientras 
+compartes un buen vino de Shiraz que ya saben ellos cómo conseguir. 
 
 ![Torre de las Doncellas, en Estambul.](https://fotos.etheriamagazine.com/2020/04/viaje-estambul.jpg "Torre de las Doncellas, en Estambul.")
 
@@ -257,15 +257,15 @@ He estado en muchos hoteles de película, y en otros que Luis Davilla, el fotóg
 el que suelo trabajar, bautizó una vez como “perreras”. Unos y otros, siempre que estos 
 últimos tengan un punto surrealista y estén limpios, me encantan. Entre los de nivel me 
 impresionó el **Peninsula de Hong Kong**, con hasta una flota del Rolls Royce a la 
-puerta para los huéspedes, pero me gustó más aún **La Mamounia**, en {{< reflink 
-path=posts/2018/12/viaje-de-amigas-a-marrakech >}}, sobre todo porque lo conocí cuando 
-aún no estaba abierto al público. Me mandaron del periódico _El Mundo_ a hacer un 
-reportaje de cómo iba a quedar el hotel tras su última restauración, y estaba allí 
-**Jacques Garcia**, el decorador francés que lo había diseñado todo. Encantador, me 
-contó desde cómo **el propio rey de Marruecos** se había involucrado en el proyecto 
-hasta cómo **se echó a llorar la jefa de las gobernantas** cuando vio las alfombras de 
-blanco inmaculado que habían puesto en las habitaciones solo de imaginar lo que iban a 
-tener que limpiar cuando los huéspedes llegaran con los zapatos llenos de polvo. 
+puerta para los huéspedes, pero me gustó más aún **La Mamounia**, en [Marrakech]({{% ref 
+viaje-de-amigas-a-marrakech %}}), sobre todo porque lo conocí cuando aún no estaba 
+abierto al público. Me mandaron del periódico _El Mundo_ a hacer un reportaje de cómo 
+iba a quedar el hotel tras su última restauración, y estaba allí **Jacques Garcia**, el 
+decorador francés que lo había diseñado todo. Encantador, me contó desde cómo **el 
+propio rey de Marruecos** se había involucrado en el proyecto hasta cómo **se echó a 
+llorar la jefa de las gobernantas** cuando vio las alfombras de blanco inmaculado que 
+habían puesto en las habitaciones solo de imaginar lo que iban a tener que limpiar 
+cuando los huéspedes llegaran con los zapatos llenos de polvo. 
 
 > Todo el hotel desprendía un aroma sutil y elegantísimo, como a cuero y azahar. Ahí 
 > aprendí que muchos grandes hoteles le encargan a un perfumista el diseño de un aroma 
@@ -316,9 +316,9 @@ aeropuerto. ¡Aún me lo recuerdan!
 
 ### 15\. ¿Hay alguna mujer en el sector turístico que admires y que te gustaría proponer para esta sección de Mujeres que inspiran?
 
-Como profesional y como amiga, a {{< reflink 
-path=posts/2018/09/lola-escudero-sociedad-geografica-espanola-mujer-etheria >}} hoy 
-Directora de Comunicación de Lonely Planet y Geoplaneta, aunque de mucho antes 
-Secretaria General de la Sociedad Geográfica Española (SGE). Tiene una capacidad de 
-trabajo pasmosa, sabe de todo y conoce a todo el mundo, y a través de la SGE hace una 
-labor increíble, amén de ser una mujer divertidísima.
+Como profesional y como amiga, a [Lola Escudero,]({{% ref 
+lola-escudero-sociedad-geografica-espanola-mujer-etheria %}}) hoy Directora de 
+Comunicación de Lonely Planet y Geoplaneta, aunque de mucho antes Secretaria General de 
+la Sociedad Geográfica Española (SGE). Tiene una capacidad de trabajo pasmosa, sabe de 
+todo y conoce a todo el mundo, y a través de la SGE hace una labor increíble, amén de 
+ser una mujer divertidísima.

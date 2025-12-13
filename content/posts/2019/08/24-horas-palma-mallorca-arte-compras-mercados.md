@@ -32,8 +32,8 @@ que puede parecer, en esta pequeña capital se encuentran desde boutiques de luj
 bonitas tiendas de toda la vida que ofrecen productos artesanales. Hagamos un recorrido 
 por algunas de las calles y barrios fundamentales para **un día de compras en Palma**. 
 
-❤️ No te pierdas: {{< reflink 
-path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}. 
+❤️ No te pierdas: [8 planazos con amigas en Palma]({{% ref 
+planes-y-excursiones-desde-palma-mallorca-con-amigas %}}). 
 
 ![Interior de la tienda Rialto Living, en Palma.](https://fotos.etheriamagazine.com/2019/07/compras-palma-rialto.jpg "© Rialto Living, en Palma.")
 

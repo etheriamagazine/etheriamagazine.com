@@ -88,8 +88,8 @@ nos recomiendan quienes practican este arte (lo es) de forma cotidiana en la ciu
 Nervión: “Gure Toki”, donde Iván Siles no da abasto en la cocina; **Baster**, con “r”; 
 Sorginzulo, Irrintzi, **Basaras**, Víctor Montes, Bibao, **Txiriboga**, **Xukela**, 
 Gatz, Víctor y **Zuga**. Estos locales tienen sello de garantía. Os gustarán. En este 
-artículo encontraréis más claves para disfrutar de una {{< reflink 
-path=posts/2019/12/finde-bilbao-con-amigas-mejores-restaurantes >}}. 
+artículo encontraréis más claves para disfrutar de una [Bilbao gastronómica]({{% ref 
+finde-bilbao-con-amigas-mejores-restaurantes %}}). 
 
 ![Torre Loizaga, planes en bilbao, planes con amigas](https://fotos.etheriamagazine.com/2020/09/planes-originales-bilbao-torre-loizaga.jpg "Coches clásicos en Torre Loizaga, un plan original en Billbao.")
 
@@ -160,7 +160,6 @@ los sentidos. Os dejamos este vídeo para que lo veais.º
 
 ### ¡Más planes!
 
-{{< reflink 
-path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}} 
+{{< reflink 12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}} 
 
-{{< reflink path=posts/2019/07/que-hacer-bilbao-semana-grande-aste-nagusia-2019 >}}.
+{{< reflink que-hacer-bilbao-semana-grande-aste-nagusia-2019 >}}.

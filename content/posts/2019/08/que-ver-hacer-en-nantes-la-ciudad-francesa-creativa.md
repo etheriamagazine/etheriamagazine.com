@@ -224,8 +224,8 @@ octubre.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2020/09/mejores-destinos-para-viajar-en-francia >}} 
+{{< reflink mejores-destinos-para-viajar-en-francia >}} 
 
-{{< reflink path=posts/2018/09/guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re >}} 
+{{< reflink guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re >}} 
 
-{{< reflink path=posts/2019/05/viajar-sola-que-ver-paris >}}
+{{< reflink viajar-sola-que-ver-paris >}}

@@ -32,29 +32,29 @@ Dependiendo del mes de la boda, hay destinos que son apropiados que otros por la
 condiciones climatológicas. Lo más evidente es el hemisferio en el que esté el lugar 
 deseado. Ten muy en cuenta que, **si te casas en verano**, hay países como **Argentina** 
 que están en pleno invierno y en los que no podrás viajar a zonas como Patagonia. Y en 
-otros el viaje lo harás con un clima más frío, como {{< reflink 
-path=posts/2019/12/planes-para-desconectar-en-sudafrica >}}, **Nueva Zelanda** o {{< 
-reflink path=posts/2019/03/revista-viajes-que-ver-australia >}}. Aunque este último país 
-es tan grande que alberga bastantes diferencias entre el norte y el sur. 
+otros el viaje lo harás con un clima más frío, como [Sudáfrica]({{% ref 
+planes-para-desconectar-en-sudafrica %}}), **Nueva Zelanda** o [Australia]({{% ref 
+revista-viajes-que-ver-australia %}}). Aunque este último país es tan grande que alberga 
+bastantes diferencias entre el norte y el sur. 
 
 ![pareja divirtiéndose en el mar](https://fotos.etheriamagazine.com/2021/01/viajes-novios-pareja.jpg "Unos días en la playa al final de una luna de miel son una opción perfecta.")
 
 Otro factor importante son los **monzones en Asia** que dejan lluvias en verano. No es 
-una condición como para renunciar a un viaje a {{< reflink 
-path=posts/2020/01/que-llevar-en-maleta-viaje-tailandia >}} o **Vietnam** si es tu 
-sueño. Eso sí, tendréis que tener en cuenta que por las tardes contemplarás una copiosa 
-tormenta tropical y algunas excursiones pueden verse afectadas. 
+una condición como para renunciar a un viaje a [Tailandia]({{% ref 
+que-llevar-en-maleta-viaje-tailandia %}}) o **Vietnam** si es tu sueño. Eso sí, tendréis 
+que tener en cuenta que por las tardes contemplarás una copiosa tormenta tropical y 
+algunas excursiones pueden verse afectadas. 
 
 En algunas **islas exóticas**, que siempre son una opción imbatible para un viaje de 
-novios, hay que tener en cuenta también los condicionantes del clima. Las {{< reflink 
-path=posts/2020/11/islas-seychelles-un-viaje-de-lujo-al-paraiso >}} tienen su temporada 
-de lluvias de octubre a marzo, por lo que es un destino perfecto para las bodas de 
-verano. En {{< reflink path=posts/2019/03/viajes-mujeres-mejores-planes-en-mauricio >}} 
-los meses más lluviosos son de enero a marzo. Si te casas en julio o agosto y no quieres 
-renunciar a viajar a esta isla, ten en cuenta que es invierno (bajan las temperaturas) y 
-suele hacer viento; la mejor opción es alojarse en la costa oeste, que está más 
-resguardada. Las **islas Maldivas** reciben al monzón húmedo de mayo a octubre, pero hay 
-buena temperatura y suele manifestarse solo con tormentas vespertinas. 
+novios, hay que tener en cuenta también los condicionantes del clima. Las [islas 
+Seychelles]({{% ref islas-seychelles-un-viaje-de-lujo-al-paraiso %}}) tienen su 
+temporada de lluvias de octubre a marzo, por lo que es un destino perfecto para las 
+bodas de verano. En [isla Mauricio]({{% ref viajes-mujeres-mejores-planes-en-mauricio 
+%}}) los meses más lluviosos son de enero a marzo. Si te casas en julio o agosto y no 
+quieres renunciar a viajar a esta isla, ten en cuenta que es invierno (bajan las 
+temperaturas) y suele hacer viento; la mejor opción es alojarse en la costa oeste, que 
+está más resguardada. Las **islas Maldivas** reciben al monzón húmedo de mayo a octubre, 
+pero hay buena temperatura y suele manifestarse solo con tormentas vespertinas. 
 
 ![dos tumbonas en una playa de Maldivas](https://fotos.etheriamagazine.com/2021/01/viaje-de-novios-maldivas.jpg "Rincón en Maldivas. © Upgraded Points")
 
@@ -95,16 +95,16 @@ vuelos serán algo más largos.
 
 ![una pareja de novios en Sri Lanka](https://fotos.etheriamagazine.com/2021/01/pareja-novios-sri-lanka.jpg "Pareja de novios en Sri Lanka.")
 
-Si lo que buscas es un destino exótico que te rompa los esquemas, {{< reflink 
-path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}} es perfecto (pero 
-no vayas en mayo que hace un calor insoportable). **Sri Lanka** también se ha convertido 
-en destino muy popular para las lunas de miel, por su precio más ajustado y la 
-posibilidad de combinar cultura y playas en una pequeña isla. 
+Si lo que buscas es un destino exótico que te rompa los esquemas, [India]({{% ref 
+viaje-para-mujeres-que-ver-norte-india-rajastan %}}) es perfecto (pero no vayas en mayo 
+que hace un calor insoportable). **Sri Lanka** también se ha convertido en destino muy 
+popular para las lunas de miel, por su precio más ajustado y la posibilidad de combinar 
+cultura y playas en una pequeña isla. 
 
 Como última recomendación para tu viaje de novios a un destino cultural te proponemos 
-{{< reflink path=posts/2019/11/que-ver-iran-mujer-viajar-sola-con-amigas >}}. 
-Sorprendente, seguro y absolutamente maravilloso. No te dejará indiferente y es un 
-destino perfecto para las bodas de primavera y otoño. 
+[Irán]({{% ref que-ver-iran-mujer-viajar-sola-con-amigas %}}). Sorprendente, seguro y 
+absolutamente maravilloso. No te dejará indiferente y es un destino perfecto para las 
+bodas de primavera y otoño. 
 
 ![pareja en la playa de Maldivas](https://fotos.etheriamagazine.com/2021/01/viajes-novios-isla-desierta.jpg "En islas exóticas como Maldivas puedes disfrutar de deportes acuáticos.")
 
@@ -139,14 +139,14 @@ una que te guste adaptada tu bolsillo.
 > o los hoteles todo incluido de Caribe. Y otros que no te esperas que sean tan caros, 
 > como Japón o algunos safaris en África. 
 
-También está la forma en la que afrontes el viaje. Por ejemplo, en {{< reflink 
-path=posts/2019/06/como-organizar-un-viaje-a-japon >}} se abaratan los costes utilizando 
-el Rail Pass de los trenes para los traslados internos y alojándote en hoteles 
-sencillos. O puedes conocer la **Riviera Maya** mexicana en hoteles pequeños, mucho más 
-baratos que los grandes resorts. ¿Quieres ir a Nueva Zelanda sí o sí? Mira la opción de 
-hacer el {{< reflink path=posts/2018/08/nueva-zelanda-en-autocaravana >}}, es un país 
-muy preparado para este tipo de viaje. Te permitirá total libertad para descubrir su 
-fascinante naturaleza a un precio mucho más ajustado. 
+También está la forma en la que afrontes el viaje. Por ejemplo, en [Japón]({{% ref 
+como-organizar-un-viaje-a-japon %}}) se abaratan los costes utilizando el Rail Pass de 
+los trenes para los traslados internos y alojándote en hoteles sencillos. O puedes 
+conocer la **Riviera Maya** mexicana en hoteles pequeños, mucho más baratos que los 
+grandes resorts. ¿Quieres ir a Nueva Zelanda sí o sí? Mira la opción de hacer el [viaje 
+en autocaravana]({{% ref nueva-zelanda-en-autocaravana %}}), es un país muy preparado 
+para este tipo de viaje. Te permitirá total libertad para descubrir su fascinante 
+naturaleza a un precio mucho más ajustado. 
 
 ## ¿Viaje de novios por tu cuenta o viaje organizado?
 
@@ -188,15 +188,12 @@ demandado, mejor llevar las reservas hechas para evitarse el cartel de completo.
 
 📌 **También te puede interesar...** 
 
-{{< reflink path=posts/2019/09/10-ideas-para-tu-viaje-de-novios-luna-de-miel >}} 
+{{< reflink 10-ideas-para-tu-viaje-de-novios-luna-de-miel >}} 
 
-{{< reflink 
-path=posts/2020/12/hotel-de-lujo-isla-mauricio-anantara-iko-mauritius-resort-villas >}}. 
+{{< reflink hotel-de-lujo-isla-mauricio-anantara-iko-mauritius-resort-villas >}}. 
 
-{{< reflink path=posts/2020/10/hotel-lujo-santa-catalina-barcelo-las-palmas-gran-canaria 
->}}. 
+{{< reflink hotel-lujo-santa-catalina-barcelo-las-palmas-gran-canaria >}}. 
 
-{{< reflink path=posts/2020/03/viaje-romantico-hotel-anantara-tozeur-tunez >}}. 
+{{< reflink viaje-romantico-hotel-anantara-tozeur-tunez >}}. 
 
-{{< reflink 
-path=posts/2019/11/viajes-romanticos-hotel-le-domaine-abadia-retuerta-valladolid >}}.
+{{< reflink viajes-romanticos-hotel-le-domaine-abadia-retuerta-valladolid >}}.

@@ -150,9 +150,8 @@ jaimas. Es una aventura perfecta para cerrar una escala en Dubái.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/09/que-ver-en-una-escala-corta-de-un-dia-en-doha-qatar >}}. 
+{{< reflink que-ver-en-una-escala-corta-de-un-dia-en-doha-qatar >}}. 
 
-{{< reflink path=posts/2021/01/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual 
->}}. 
+{{< reflink chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual >}}. 
 
-{{< reflink path=posts/2020/04/mujeres-aventureras-viaje-myanmar-que-ver-hacer >}}.
+{{< reflink mujeres-aventureras-viaje-myanmar-que-ver-hacer >}}.

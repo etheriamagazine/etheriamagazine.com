@@ -49,7 +49,7 @@ Otra perspectiva frecuente de la producción televisiva ya que es donde se reún
 amigos del fallecido. 
 
 📌 En el lugar, el [artista canario César 
-Manrique]({{% ref cesar-manrique-ruta-en-lanzarote %}}) 
+Manrique](http://etheriamagazine.com/2019/09/10/cesar-manrique-ruta-en-lanzarote/) 
 realizó una intervención inspirada en la arquitectura canaria. El edificio, a 645 metros 
 sobre el mar, rinde **homenaje a la tierra** rodeado de espacios al aire libre en varios 
 niveles, como las viviendas herreñas, y de la vegetación autóctona. Se destinó al 
@@ -204,11 +204,8 @@ más preciosos símbolos naturales.
 
 ## Más viajes en Canarias
 
-{{< reflink 
-path=posts/2019/06/faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica >}}. 
+{{< reflink faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica >}}. 
 
-{{< reflink path=posts/2019/04/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias 
->}}. 
+{{< reflink la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias >}}. 
 
-{{< reflink 
-path=posts/2020/08/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}}.
+{{< reflink la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}}.

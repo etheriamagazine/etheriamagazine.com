@@ -164,9 +164,8 @@ solar.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/12/planes-para-desconectar-en-sudafrica >}} 
+{{< reflink planes-para-desconectar-en-sudafrica >}} 
 
-{{< reflink 
-path=posts/2020/10/final-real-memorias-de-africa-baronesa-blixen-beryl-markham >}} 
+{{< reflink final-real-memorias-de-africa-baronesa-blixen-beryl-markham >}} 
 
-{{< reflink path=posts/2018/11/botsuana-10-razones-para-sentirte-la-reina-de-africa >}}
+{{< reflink botsuana-10-razones-para-sentirte-la-reina-de-africa >}}

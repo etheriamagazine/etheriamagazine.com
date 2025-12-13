@@ -79,8 +79,8 @@ senderismo entre Maspalomas y la parroquia de Santiago de los Caballeros, en Gá
 Aunque no llega a Santiago de Compostela, da derecho a obtener el jubileo compostelano. 
 Si te animas, tiene un total de 72 kilómetros y se puede hacer en sólo tres etapas. 
 
-📌No te pierdas el artículo: {{< reflink 
-path=posts/2018/05/senderismo-gran-canaria-banos-de-bosque >}}. 
+📌No te pierdas el artículo: [Senderismo y baños de bosque en Gran Canaria]({{% ref 
+senderismo-gran-canaria-banos-de-bosque %}}). 
 
 ![Maspalomas, en Gran Canaria.](https://fotos.etheriamagazine.com/2022/11/gran-canaria-maspalomas.jpg "Maspalomas, en Gran Canaria. © Hert Niks")
 
@@ -134,13 +134,12 @@ parte, se pueden ver desde algunos miradores señalizados.
 
 ### Un hotel en un faro
 
-El faro es el de {{< reflink 
-path=posts/2019/06/faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica >}} 
-y se ha convertido en un pequeño pero atractivo hotel. Esta construcción situada en 
-Barlovento tiene más de 150 años de antigüedad y no sólo es uno de los más antiguos de 
-España, sino también de los más románticos. En sus 330 metros cuadrados los huéspedes 
-encontrarán todo lo que necesitan para pasar unos días alejados de la rutina y con el 
-sonido del mar de fondo. 
+El faro es el de [Punta Cumplida]({{% ref 
+faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica %}}) y se ha convertido 
+en un pequeño pero atractivo hotel. Esta construcción situada en Barlovento tiene más de 
+150 años de antigüedad y no sólo es uno de los más antiguos de España, sino también de 
+los más románticos. En sus 330 metros cuadrados los huéspedes encontrarán todo lo que 
+necesitan para pasar unos días alejados de la rutina y con el sonido del mar de fondo. 
 
 ![Faro de Punta Cumplida, en la isla de La Palma.](https://fotos.etheriamagazine.com/2019/05/Rusticae-faro-punta-cumplida.jpg "Faro de Punta Cumplida, en la isla de La Palma.")
 
@@ -157,9 +156,9 @@ canariensis)_ que transmite cierto sabor a resina.
 
 ### Polvos de talco
 
-El {{< reflink path=posts/2020/02/que-hacer-en-los-indianos-el-carnaval-de-la-palma >}} 
-es uno de los más divertidos y originales de España. Uno de sus momentos clave es la 
-batalla de polvos de talco con la que se recibe a los que regresan de las Indias 
+El [Carnaval de los Indianos]({{% ref que-hacer-en-los-indianos-el-carnaval-de-la-palma 
+%}}) es uno de los más divertidos y originales de España. Uno de sus momentos clave es 
+la batalla de polvos de talco con la que se recibe a los que regresan de las Indias 
 portando jaulas con loros, baúles, gigantescos habanos y espejuelos, mientras la música 
 caribeña no deja de sonar. Las calles O’Daly y Pérez de Brito, así como la Avenida 
 Marítima, soportan estoicamente a los empolvados y pasan algunos días hasta que los 
@@ -281,8 +280,8 @@ y durante su estancia escribió _El enigmático Mr. Quin_. Hacía solo unos mese
 marido la había abandonado y la escritora buscaba reposo para aliviar su tristeza en las 
 islas Canarias. 
 
-📌No te pierdas: {{< reflink 
-path=posts/2020/06/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava >}}. 
+📌No te pierdas: [Descubre la dulzura de La Orotava (Tenerife)]({{% ref 
+viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava %}}). 
 
 ![Bello conjunto arquitectónico de La Orotava .](https://fotos.etheriamagazine.com/2020/06/orotava-iglesia-concepcion.jpg "Bello conjunto arquitectónico de La Orotava. © M. M.")
 

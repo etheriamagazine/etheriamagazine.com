@@ -111,6 +111,5 @@ maps](https://www.google.com/maps/place/Brindos,+Lac+%26+Ch%C3%A2teau/@43.462697
 
 #### También te puede interesar...
 
-{{< reflink 
-path=posts/2020/08/que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare 
+{{< reflink que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare 
 >}}.

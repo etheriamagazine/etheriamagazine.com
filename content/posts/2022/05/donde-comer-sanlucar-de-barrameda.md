@@ -131,9 +131,8 @@ fideos con gambas. ¿A que apetece comerse Sanlúcar?
 
 ### Sigue leyendo sobre Cádiz
 
-{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
->}} 
+{{< reflink 12-actividades-familiares-para-viajes-con-ninos-en-cadiz >}} 
 
-{{< reflink path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}} 
+{{< reflink viajar-con-amigas-que-hacer-en-cadiz >}} 
 
-{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}}
+{{< reflink ruta-por-los-pueblos-blancos-de-cadiz >}}

@@ -155,6 +155,6 @@ Módena](http://www.visitmodena.it/es/) y **modenatur.it**
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2024/02/que-ver-en-trieste >}}. 
+{{< reflink que-ver-en-trieste >}}. 
 
-{{< reflink path=posts/2023/11/que-comer-valle-de-aosta-italia >}}.
+{{< reflink que-comer-valle-de-aosta-italia >}}.

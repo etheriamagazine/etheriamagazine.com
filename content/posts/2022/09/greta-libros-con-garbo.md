@@ -140,6 +140,6 @@ os defraudará.
 
 **Otros Proyectos con Alma de Etheria Magazine...** 
 
-{{< reflink path=posts/2022/05/mdjemafrica-viajes-mujeres-baile >}}. 
+{{< reflink mdjemafrica-viajes-mujeres-baile >}}. 
 
-{{< reflink path=posts/2022/03/empoderar-con-el-turismo-mujeres-de-tanzania >}}.
+{{< reflink empoderar-con-el-turismo-mujeres-de-tanzania >}}.

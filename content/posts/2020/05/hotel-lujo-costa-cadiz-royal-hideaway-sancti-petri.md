@@ -24,14 +24,14 @@ originales llenos de encanto. ¿Se puede pedir más?
 
 ![Viajes a Cadiz, hoteles de lujo, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sancti-petri-siddharta.jpg "Siddharta Lounge, un original espacio en el hotel.")
 
-Y, por su situación, es un lugar perfecto para recorrer la zona y descubrir la {{< 
-reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}} , las {{< reflink 
-path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}} (en la 
-preciosa playa de Bolonia) o el {{< reflink 
-path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}}. Y si viajas en familia, 
-puedes echar un vistazo a nuestros artículos sobre {{< reflink 
-path=posts/2019/10/10-planes-con-ninos-en-cadiz-capital >}} y en la {{< reflink 
-path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz >}}. 
+Y, por su situación, es un lugar perfecto para recorrer la zona y descubrir la [Ruta de 
+los Pueblos Blancos]({{% ref ruta-por-los-pueblos-blancos-de-cadiz %}}) , las [ruinas de 
+Baelo Claudia]({{% ref guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia %}}) (en 
+la preciosa playa de Bolonia) o el [legado andalusí de Cádiz]({{% ref 
+viajar-con-amigas-que-hacer-en-cadiz %}}). Y si viajas en familia, puedes echar un 
+vistazo a nuestros artículos sobre [actividades con niños en la capital]({{% ref 
+10-planes-con-ninos-en-cadiz-capital %}}) y en la [provincia de Cádiz]({{% ref 
+12-actividades-familiares-para-viajes-con-ninos-en-cadiz %}}). 
 
 ## Las habitaciones
 
@@ -60,22 +60,22 @@ dos dormitorios y una terraza de 200 metros cuadrados).
 
 Este hotel de Barceló en Sancti Petri tiene en la gastronomía uno de sus alicientes. 
 Para empezar, cuenta con el restaurante [Atunante](http://atunante.com), especializado 
-en el famoso {{< reflink path=posts/2018/06/ruta-del-atun-rojo-en-cadiz >}} tan popular 
-en la zona. Su puesta en escena tiene una historia detrás que enlaza con Miguel de 
-Cervantes, la picaresca y la literatura fantástica del siglo XIX. Otro aliciente, además 
-de deliciosos platos como el 'tataki de atún con teriyaki' o el 'tiradito de atún con 
-esfera de yuzu', para venir a conocerlo. No lo dudes y atrévete con sus menús 
+en el famoso [atún rojo de almadraba]({{% ref ruta-del-atun-rojo-en-cadiz %}}) tan 
+popular en la zona. Su puesta en escena tiene una historia detrás que enlaza con Miguel 
+de Cervantes, la picaresca y la literatura fantástica del siglo XIX. Otro aliciente, 
+además de deliciosos platos como el 'tataki de atún con teriyaki' o el 'tiradito de atún 
+con esfera de yuzu', para venir a conocerlo. No lo dudes y atrévete con sus menús 
 emocionales que maridan gastronomía, vinos, música y cultura. 
 
 ![Viajes a Cadiz, hoteles de lujo, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-restaurante-atunante.jpg "Restaurante Atunante.")
 
 También podrás disfrutar del **restaurante Buffet Almadraba**, frente a la piscina 
 principal, donde la cocina local e internacional se completa con un Vital Corner con 
-propuestas healthy, una zona con los populares {{< reflink 
-path=posts/2020/01/cena-con-amigas-en-un-restaurante-hawaiano-de-madrid-ohana-poke-house 
->}} y un auténtico panal de miel. Para tomar algo informal a la hora de comer, nada 
-mejor que el restaurante **Beach Club La Bahía** o la **Zumería**, donde además podrás 
-tomar deliciosos zumos y _smoothies_. Para cenar, si te gusta la carne y el pescado a la 
+propuestas healthy, una zona con los populares [poké bowls hawaianos]({{% ref 
+cena-con-amigas-en-un-restaurante-hawaiano-de-madrid-ohana-poke-house %}}) y un 
+auténtico panal de miel. Para tomar algo informal a la hora de comer, nada mejor que el 
+restaurante **Beach Club La Bahía** o la **Zumería**, donde además podrás tomar 
+deliciosos zumos y _smoothies_. Para cenar, si te gusta la carne y el pescado a la 
 brasa, tu elección tiene que ser el restaurante **La Brasería**. 
 
 ![Viajes a Cadiz, hoteles de lujo, escapadas a la playa, hoteles familiares cadiz](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sancti-petri-terraza-piscina.jpg "Restaurante Beach Club La Bahía.")
@@ -127,11 +127,10 @@ Fotografías: © Barceló Hotel Group.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/07/los-mejores-planes-en-conil-con-amigas >}} 
+{{< reflink los-mejores-planes-en-conil-con-amigas >}} 
 
-{{< reflink path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}} 
+{{< reflink mejores-playas-y-calas-de-conil-de-la-frontera >}} 
 
-{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
->}} 
+{{< reflink 12-actividades-familiares-para-viajes-con-ninos-en-cadiz >}} 
 
 \[the\_ad id="19259"\]

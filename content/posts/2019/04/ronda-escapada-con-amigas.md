@@ -154,8 +154,8 @@ Más información en la [Oficina de Turismo de Ronda](http://turismoderonda.es/e
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/11/planes-en-ronda-con-amigas >}} 
+{{< reflink planes-en-ronda-con-amigas >}} 
 
-{{< reflink path=posts/2021/06/revista-viajes-que-ver-parque-sierra-de-nieves >}} 
+{{< reflink revista-viajes-que-ver-parque-sierra-de-nieves >}} 
 
-{{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}}
+{{< reflink ruta-por-los-pueblos-blancos-de-cadiz >}}

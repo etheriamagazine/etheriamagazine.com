@@ -119,6 +119,6 @@ Madrid](https://www.marriott.com/es/hotels/madwi-the-westin-palace-madrid/).
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2024/10/exposiciones-en-madrid-otono-de-2024 >}}. 
+{{< reflink exposiciones-en-madrid-otono-de-2024 >}}. 
 
-{{< reflink path=posts/2024/06/terrazas-azoteas-madrid >}}.
+{{< reflink terrazas-azoteas-madrid >}}.

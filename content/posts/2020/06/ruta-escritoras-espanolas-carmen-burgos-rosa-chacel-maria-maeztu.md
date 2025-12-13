@@ -157,9 +157,8 @@ enseñanza y promoción de las mujeres.
 
 **También te puede interesar...** 
 
-✅ {{< reflink 
-path=posts/2020/06/viaje-por-la-espana-de-las-grandes-escritoras-del-siglo-xx >}} 
+✅ [Ruta por la España de las grandes escritoras del siglo XX (Parte I)]({{% ref 
+viaje-por-la-espana-de-las-grandes-escritoras-del-siglo-xx %}}) 
 
-✅ {{< reflink 
-path=posts/2020/09/escritoras-siglo-xx-maria-moliner-ana-maria-matute-carmen-martin-gaite 
->}}
+✅ [III Ruta por la España de las grandes escritoras del siglo XX]({{% ref 
+escritoras-siglo-xx-maria-moliner-ana-maria-matute-carmen-martin-gaite %}})

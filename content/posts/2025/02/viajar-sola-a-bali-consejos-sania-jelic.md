@@ -167,8 +167,8 @@ ofrece la mejor cobertura en la isla.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/06/que-llevar-maleta-viaje-bali >}} 
+{{< reflink que-llevar-maleta-viaje-bali >}} 
 
-{{< reflink path=posts/2023/10/como-organizar-viaje-a-bali >}} 
+{{< reflink como-organizar-viaje-a-bali >}} 
 
-{{< reflink path=posts/2025/01/viajar-sola-a-taiwan-consejos-sania-jelic >}}
+{{< reflink viajar-sola-a-taiwan-consejos-sania-jelic >}}

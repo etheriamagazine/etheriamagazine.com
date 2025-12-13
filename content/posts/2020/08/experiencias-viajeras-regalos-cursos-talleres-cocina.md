@@ -142,13 +142,13 @@ la visita previa al mercado.
 ### Cocina andaluza
 
 La gastronomía andaluza es tan variada como lo son sus siete provincias. Algunos 
-hoteles, como el {{< reflink 
-path=posts/2020/05/hotel-lujo-costa-cadiz-royal-hideaway-sancti-petri >}} (Chiclana, 
-Cádiz) o {{< reflink path=posts/2018/08/hotel-la-bobadilla-loja-granada >}} (Loja, 
-Granada) incluyen en su programa de actividades talleres de cocina para preparar un menú 
-andaluz. En el sevillano Mercado de Triana está el **Taller Andaluz de Cocina** donde se 
-imparten cursos de cocina española con visita al mercado. Consulta el calendario en su 
-web, donde también encontrarás cursos de cocina de todas las partes del mundo. 
+hoteles, como el [Royal Hideaway Sancti Petri]({{% ref 
+hotel-lujo-costa-cadiz-royal-hideaway-sancti-petri %}}) (Chiclana, Cádiz) o [La 
+Bobadilla]({{% ref hotel-la-bobadilla-loja-granada %}}) (Loja, Granada) incluyen en su 
+programa de actividades talleres de cocina para preparar un menú andaluz. En el 
+sevillano Mercado de Triana está el **Taller Andaluz de Cocina** donde se imparten 
+cursos de cocina española con visita al mercado. Consulta el calendario en su web, donde 
+también encontrarás cursos de cocina de todas las partes del mundo. 
 
 ![puesto de frutas y verduras en La Boquería](https://fotos.etheriamagazine.com/2020/08/gastronomia-espana-boqueria-barcelona.jpg "Mercado de la Boquería en Barcelona.")
 
@@ -163,6 +163,6 @@ entre la amplia oferta de talleres de cocina que imparten.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/04/nuevo-libro-joan-roca-cocina-madre >}} 
+{{< reflink nuevo-libro-joan-roca-cocina-madre >}} 
 
-{{< reflink path=posts/2021/01/casa-efigenia-mejor-restaurante-vegetariano-la-gomera >}}
+{{< reflink casa-efigenia-mejor-restaurante-vegetariano-la-gomera >}}

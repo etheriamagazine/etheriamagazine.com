@@ -38,12 +38,12 @@ más del 90% de las botellas de plástico.
 ### Suiza, mil y una propuestas
 
 Tanto si te planteas una escapada centrada en la cultura, un _roadtrip_ en coche 
-eléctrico o un atractivo {{< reflink 
-path=posts/2021/05/guia-gastronomica-suiza-y-rutas-en-tren >}} (de los que os hemos 
-hablado anteriormente), te interesará conocer qué hoteles y restaurantes cumplen con 
-creces los requisitos de sostenibilidad en Suiza. Estas referencias, variadas en cuanto 
-a concepto y ubicación, son apuestas reales, implicadas en comunidades locales y que te 
-harán sentir que formas parte de un compromiso verde que trasciende fronteras. 
+eléctrico o un atractivo [viaje gastronómico en tren]({{% ref 
+guia-gastronomica-suiza-y-rutas-en-tren %}}) (de los que os hemos hablado 
+anteriormente), te interesará conocer qué hoteles y restaurantes cumplen con creces los 
+requisitos de sostenibilidad en Suiza. Estas referencias, variadas en cuanto a concepto 
+y ubicación, son apuestas reales, implicadas en comunidades locales y que te harán 
+sentir que formas parte de un compromiso verde que trasciende fronteras. 
 
 Aunque en la guía ‘[Suiza a 
 bocados’](https://issuu.com/stnet/docs/208_21a_01_brosch_gastro/1?ff) (consúltala 
@@ -130,9 +130,8 @@ Turismo](https://www.myswitzerland.com/es-es/descubrir-suiza/comer-beber/).
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/03/suiza-encumbra-a-las-mujeres-con-su-100-por-100-women 
->}}. 
+{{< reflink suiza-encumbra-a-las-mujeres-con-su-100-por-100-women >}}. 
 
-{{< reflink path=posts/2021/02/ruta-en-coche-electrico-por-suiza >}}. 
+{{< reflink ruta-en-coche-electrico-por-suiza >}}. 
 
-{{< reflink path=posts/2019/04/viaje-en-familia-que-hacer-engelberg-suiza >}}.
+{{< reflink viaje-en-familia-que-hacer-engelberg-suiza >}}.

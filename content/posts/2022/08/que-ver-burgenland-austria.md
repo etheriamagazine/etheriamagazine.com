@@ -170,6 +170,8 @@ para recorrer esta bella región austriaca.
 
 ## Más propuestas en Austria
 
-✅ {{< reflink path=posts/2022/07/que-hacer-en-viena-con-amigas >}}. 
+✅ [Planes en Viena con amigas para vuestro uso y disfrute]({{% ref 
+que-hacer-en-viena-con-amigas %}}). 
 
-✅ {{< reflink path=posts/2020/05/hallstatt-viaja-con-amigas-austria >}}.
+✅ [Hallstatt, el pueblo más bonito del mundo a orillas de un lago]({{% ref 
+hallstatt-viaja-con-amigas-austria %}}).

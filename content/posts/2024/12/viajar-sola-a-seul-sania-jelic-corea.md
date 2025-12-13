@@ -180,4 +180,5 @@ con árboles tras un paseo por la bulliciosa ciudad.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2024/11/viajar-sola-noruega-auroras-boreales >}}
+[Viajar sola a Noruega en busca de las auroras boreales: consejos de Sania Jelic]({{% 
+ref viajar-sola-noruega-auroras-boreales %}})

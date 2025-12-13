@@ -61,7 +61,8 @@ los Alpes como telón de fondo. Fíjate en las cúpulas verdes que despuntan en 
 _skyline._ Son las del **Hofburg**, el suntuoso Palacio Imperial que cobija entre sus 
 muros las estancias de la emperatriz Elisabeth, más conocida como "Sisi". 
 
-**No te pierdas:** {{< reflink path=posts/2022/09/museo-sisi-de-viena >}}. 
+**No te pierdas:** [Así es la verdadera historia de Sisi, y no es de cuento]({{% ref 
+museo-sisi-de-viena %}}). 
 
 ![Uno de los salones barrocos más bellos de Austria está en el Palacio Imperial](https://fotos.etheriamagazine.com/2023/10/que-ver-innsbruck-Hofburg.jpg "Uno de los salones barrocos más bellos de Austria está en el Palacio Imperial.")
 
@@ -232,6 +233,8 @@ que hace que hidratarte sea un auténtico placer.
 
 **También en Etheria Magazine** 
 
-1.{{< reflink path=posts/2022/08/que-ver-burgenland-austria >}}. 
+1.[Burgenland, el estado más desconocido y soleado de Austria]({{% ref 
+que-ver-burgenland-austria %}}). 
 
-2\. {{< reflink path=posts/2022/07/que-hacer-en-viena-con-amigas >}}
+2\. [Planes en Viena con amigas para vuestro uso y disfrute]({{% ref 
+que-hacer-en-viena-con-amigas %}})

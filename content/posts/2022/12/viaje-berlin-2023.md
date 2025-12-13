@@ -19,10 +19,10 @@ museos y espacios de bienestar.
 
 No es la primera vez que recorremos Berlín, pero esta ciudad se transforma tan 
 rápidamente que a veces cuesta reconocer alguno de sus distritos. En anteriores 
-ocasiones hemos visitado sus clásicos turísticos (no te pierdas este artículo: {{< 
-reflink path=posts/2018/11/viaje-al-berlin-mas-divertido-interesante-sobrecogedor >}}), 
-así que ahora nos detendremos en sus nuevos hoteles, museos y restaurantes. Algunos ya 
-están abiertos y otros lo harán en breve. ¿Nos acompañas? 
+ocasiones hemos visitado sus clásicos turísticos (no te pierdas este artículo: [Berlín, 
+de la caricia al tortazo]({{% ref viaje-al-berlin-mas-divertido-interesante-sobrecogedor 
+%}})), así que ahora nos detendremos en sus nuevos hoteles, museos y restaurantes. 
+Algunos ya están abiertos y otros lo harán en breve. ¿Nos acompañas? 
 
 ## Hoteles en Berlín con una historia que contar
 

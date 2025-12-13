@@ -175,6 +175,6 @@ es hoy día una figura de la que hay mucho que aprender.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2023/02/que-ver-lanzarote >}}. 
+{{< reflink que-ver-lanzarote >}}. 
 
-{{< reflink path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}}.
+{{< reflink viajar-sola-amigas-imprescindible-lanzarote >}}.

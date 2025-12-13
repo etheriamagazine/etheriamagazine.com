@@ -138,6 +138,6 @@ sí, pímplate el minibar.
 
 ### Otros viajes que pudieron salir mal...
 
-{{< reflink path=posts/2019/07/consejos-viajar-australia-evitar-peligros-animales >}}. 
+{{< reflink consejos-viajar-australia-evitar-peligros-animales >}}. 
 
-{{< reflink path=posts/2019/07/luna-miel-bali-maldicion-ruptura >}}.
+{{< reflink luna-miel-bali-maldicion-ruptura >}}.

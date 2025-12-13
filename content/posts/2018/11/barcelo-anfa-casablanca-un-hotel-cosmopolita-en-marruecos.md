@@ -71,7 +71,8 @@ ambiente de playa; el Morocco Mall, si te gusta ir de compras; el Parque de la L
 Árabe, un buen espacio donde tomarse un respiro, y dos museos: el Museo Judío Marroquí y 
 la Villa des Arts. 
 
-✅ No te pierdas: {{< reflink path=posts/2023/05/por-que-viajar-casablanca-marrakech >}} 
+✅ No te pierdas: [Casablanca y Marrakech, una escapada esencial (y a precio 
+asequible)]({{% ref por-que-viajar-casablanca-marrakech %}}) 
 
 ![Mezquita de Hassan II (Casablanca).](https://fotos.etheriamagazine.com/2018/11/mezquita-de-hassan-ii.jpg "Mezquita de Hassan II (Casablanca).")
 

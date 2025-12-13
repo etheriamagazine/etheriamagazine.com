@@ -174,6 +174,8 @@ zona.
 
 #### También te puede interesar...
 
-- {{< reflink path=posts/2019/10/laguna-de-gallocanta-donde-cuando-ver-grullas >}}. 
+- [Una cita en la laguna de Gallocanta para observar las grullas]({{% ref 
+laguna-de-gallocanta-donde-cuando-ver-grullas %}}). 
 
-- {{< reflink path=posts/2020/04/avistamiento-cetaceos-bizkaia-vizcaya-pais-vasco >}}.
+- [Avistamiento de cetáceos en Vizcaya (Bizkaia)]({{% ref 
+avistamiento-cetaceos-bizkaia-vizcaya-pais-vasco %}}).

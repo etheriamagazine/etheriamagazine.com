@@ -149,8 +149,8 @@ posible visitar una reserva para la cría y conservación del bisonte europeo.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}} 
+{{< reflink que-ver-en-zakopane-viaje-original-polonia >}} 
 
-{{< reflink path=posts/2018/08/48-horas-en-varsovia-polonia >}} 
+{{< reflink 48-horas-en-varsovia-polonia >}} 
 
-{{< reflink path=posts/2021/03/que-ver-en-varsovia-en-tres-rutas-originales >}}
+{{< reflink que-ver-en-varsovia-en-tres-rutas-originales >}}

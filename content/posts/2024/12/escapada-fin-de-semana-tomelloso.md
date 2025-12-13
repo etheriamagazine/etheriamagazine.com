@@ -99,4 +99,4 @@ famosas migas, tan adecuados en estas fechas.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha >}}
+{{< reflink ruta-del-vino-de-la-mancha >}}

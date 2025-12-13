@@ -65,8 +65,8 @@ personaje de Don Quijote. Tampoco hay que perderse el **Complejo Lagunar**, un c
 de lagunas que forman parte de la llamada ‘Mancha Húmeda’ y que sorprenden en mitad de 
 esta tierra de secano. 
 
-**No te pierdas:** {{< reflink 
-path=posts/2021/01/ruta-del-quijote-en-familia-por-la-mancha >}}. 
+**No te pierdas:** [Ruta del Quijote, en familia por La Mancha]({{% ref 
+ruta-del-quijote-en-familia-por-la-mancha %}}). 
 
 ### Campo de Criptana
 
@@ -81,8 +81,8 @@ dedicado a Sara Montiel) y otros, que conservan la estructura y maquinaria origi
 siglo XVI (el Infanto, el Burleta y el Sardinero), aún se utilizan para hacer 
 demostraciones de la molienda tradicional. 
 
-**No te pierdas:** {{< reflink path=posts/2019/04/ruta-sara-montiel-campo-de-criptana 
->}}. 
+**No te pierdas:** [Ruta Saritísima por Campo de Criptana]({{% ref 
+ruta-sara-montiel-campo-de-criptana %}}). 
 
 ![Molinos de Campo de Criptana.](https://fotos.etheriamagazine.com/2019/03/Campo-de-Criptana-molinos-Ruta-del-Vino-de-La-Mancha.jpg "Molinos de Campo de Criptana. © R.V. de La Mancha")
 

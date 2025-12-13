@@ -145,8 +145,8 @@ limitaciones no eran innatas, eran fruto de la sociedad.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2018/06/etheria-la-primera-viajera >}}. 
+{{< reflink etheria-la-primera-viajera >}}. 
 
-{{< reflink path=posts/2019/12/libro-viajeras-por-los-mares-del-sur >}}. 
+{{< reflink libro-viajeras-por-los-mares-del-sur >}}. 
 
-{{< reflink path=posts/2020/12/10-destinos-seguros-para-viajar-sola-por-primera-vez >}}
+{{< reflink 10-destinos-seguros-para-viajar-sola-por-primera-vez >}}

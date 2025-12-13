@@ -27,10 +27,11 @@ tranquilidad está asegurada.
 ![Aperitivo en el hotel Montecastillo de Jerez](https://fotos.etheriamagazine.com/2020/05/Barcelo-Montecastillo-aperitivo.jpg "Aperitivo en el hotel.")
 
 Se encuentra a un paso de El Puerto de Santa María y de otros rincones de la costa 
-gaditana, por lo que es perfecto como punto de partida para realizar {{< reflink 
-path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz >}} o alguna 
-excursión a los {{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz 
->}}. 
+gaditana, por lo que es perfecto como punto de partida para realizar [actividades con 
+niños en la provincia de Cádiz]({{% ref 
+12-actividades-familiares-para-viajes-con-ninos-en-cadiz %}}) o alguna excursión a los 
+[Pueblos Blancos de la Serranía de Cádiz]({{% ref ruta-por-los-pueblos-blancos-de-cadiz 
+%}}). 
 
 ## Las habitaciones
 
@@ -123,8 +124,8 @@ Fotografías: © Barceló Hotel Group.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2020/06/viajes-por-espana-jerez-sola-o-con-amigas >}} 
+{{< reflink viajes-por-espana-jerez-sola-o-con-amigas >}} 
 
-{{< reflink path=posts/2021/11/guia-imprescindible-el-puerto-santa-maria >}} 
+{{< reflink guia-imprescindible-el-puerto-santa-maria >}} 
 
-{{< reflink path=posts/2021/07/los-mejores-planes-en-conil-con-amigas >}}
+{{< reflink los-mejores-planes-en-conil-con-amigas >}}

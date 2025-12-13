@@ -30,8 +30,8 @@ parte e incluir algunos objetos en nuestra maleta para Jordania que faciliten el
 Partimos de la base de un viaje estándar a Jordania que incluye Amman, Petra, desierto 
 el de Wadi Rum y el mar Muerto. 
 
-No te pierdas: {{< reflink 
-path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}. 
+No te pierdas: [Jordania, visitas y consejos imprescindibles para tu primer viaje]({{% 
+ref jordania-visitas-imprescindibles-y-consejos-si-viajas-sola %}}). 
 
 ## 1\. Qué maleta llevar a Jordania
 
@@ -114,8 +114,8 @@ descansar.
 
 ## 7\. Neceser y botiquín de viaje
 
-En el {{< reflink path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras 
->}} debes incluir gel-champú de baño (los hay en láminas), crema hidratante y bálsamo 
+En el [neceser de viaje]({{% ref 10-neceseres-viaje-o-regalos-para-mujeres-viajeras %}}) 
+debes incluir gel-champú de baño (los hay en láminas), crema hidratante y bálsamo 
 labial. Si vas a necesitar tampones es mejor que te los lleves porque resulta difícil 
 encontrarlos. También son fundamentales: protector solar, spray antimosquitos, toallitas 
 húmedas y papel higiénico (y algunas bolsas desechables para guardarlos hasta que 
@@ -161,6 +161,5 @@ por ser lector/a de ETHERIA MAGAZINE**).
 En cuanto al dinero, mejor en efectivo, cambia a la moneda local. Salvo en hoteles y en 
 restaurantes de la capital, la tarjeta no te servirá de nada. 
 
-No te pierdas esta {{< reflink 
-path=posts/2019/08/viajes-cine-peliculas-rodadas-en-jordania >}} para documentar tu 
-viaje con antelación.
+No te pierdas esta [lista de 10 películas rodadas en Jordania]({{% ref 
+viajes-cine-peliculas-rodadas-en-jordania %}}) para documentar tu viaje con antelación.

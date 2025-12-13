@@ -144,6 +144,6 @@ necesitáis más recomendaciones no dejéis de escribirnos.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2024/05/organizar-chequia-en-coche-7-dias >}}. 
+{{< reflink organizar-chequia-en-coche-7-dias >}}. 
 
-{{< reflink path=posts/2023/08/ruta-chequia-de-olomouc-a-ostrava >}}.
+{{< reflink ruta-chequia-de-olomouc-a-ostrava >}}.

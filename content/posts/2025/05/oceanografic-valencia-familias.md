@@ -160,6 +160,7 @@ puntos para que podáis rellenarla.
 
 [www.oceanografic.org](https://www.oceanografic.org) 
 
-**También en Etheria Magazine** {{< reflink path=posts/2022/10/que-ver-valencia >}} 
+**También en Etheria Magazine** [Guía esencial de Valencia, imprescindibles en una 
+ciudad que mira al futuro]({{% ref que-ver-valencia %}}) 
 
-{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}}
+{{< reflink planes-originales-valencia-con-amigas >}}

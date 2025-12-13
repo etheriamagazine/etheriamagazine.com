@@ -165,12 +165,12 @@ la bienvenida. Desde su cocina, enmarcada por carteles de películas japonesas, 
 platos se van colocando en una cinta que recorre el comedor con platos individuales en 
 dos alturas: fríos abajo (temakis, makis, nigiris, postres…) y calientes arriba 
 (tempuras, arroces, brochetas…). Es una excelente oportunidad para introducirse en la 
-comida japonesa {{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}}. 
+comida japonesa [antes de viajar a Japón]({{% ref como-organizar-un-viaje-a-japon %}}). 
 
 ### También te interesa...
 
-{{< reflink path=posts/2021/04/10-viajes-para-hacer-con-madres-viajeras >}}. 
+{{< reflink 10-viajes-para-hacer-con-madres-viajeras >}}. 
 
-{{< reflink path=posts/2020/10/8-imprescindibles-maleta-para-hacer-deporte >}}. 
+{{< reflink 8-imprescindibles-maleta-para-hacer-deporte >}}. 
 
-{{< reflink path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}}.
+{{< reflink 10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}}.

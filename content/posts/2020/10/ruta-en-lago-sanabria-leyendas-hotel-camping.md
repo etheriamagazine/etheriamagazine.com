@@ -40,15 +40,15 @@ provincia. De ahí sus verdes y frondosos pastos.
 
 La Edad de Hierro puso en marcha la relación del ser humano con Sanabria. La Vía de la 
 Plata discurre cerca, así que por sus lides también han peregrinado los romanos que se 
-dirigían hacia Las Médulas en búsqueda de su preciado oro (para saber más: {{< reflink 
-path=posts/2020/05/escapadas-por-espana-las-medulas-leon >}}). Tiempo después, los 
-visigodos y algún que otro musulmán llegaron a estas tierras desconectadas que sirvieron 
-de refugio a numerosos eremitas. Al abrigo de bosques de abedules, alisos y rebollos –un 
-tipo de robles pirenaicos–, se elevaron por toda la comarca pequeñas aldeas, cruciales 
-durante la Edad Media. Hoy representan la prueba viva de la historia y de la 
-intrahistoria de los sanabreses, esto es, la vida de la gente, la que describió Miguel 
-de Unamuno en _San Manuel Bueno, mártir_, inspirado por la autenticidad de pueblos como 
-**Ribadelago**, **Trefacio** o **San Martín de Castañeda**. 
+dirigían hacia Las Médulas en búsqueda de su preciado oro (para saber más: ['Las 
+Médulas, prestosidad a la leonesa']({{% ref escapadas-por-espana-las-medulas-leon %}})). 
+Tiempo después, los visigodos y algún que otro musulmán llegaron a estas tierras 
+desconectadas que sirvieron de refugio a numerosos eremitas. Al abrigo de bosques de 
+abedules, alisos y rebollos –un tipo de robles pirenaicos–, se elevaron por toda la 
+comarca pequeñas aldeas, cruciales durante la Edad Media. Hoy representan la prueba viva 
+de la historia y de la intrahistoria de los sanabreses, esto es, la vida de la gente, la 
+que describió Miguel de Unamuno en _San Manuel Bueno, mártir_, inspirado por la 
+autenticidad de pueblos como **Ribadelago**, **Trefacio** o **San Martín de Castañeda**. 
 
 Aldeas perfiladas por una arquitectura claramente influenciada por la gallega, con casas 
 de adobe y de piedra que sostienen pequeños balcones y galerías repletas de flores, 
@@ -195,9 +195,8 @@ escaldan con pimentón picante.
 
 Quienes no conciban un viaje a Castilla y León sin detenerse en un asador, deben saber 
 que la ternera alistana-sanabresa es autóctona de la comarca y la reina de sus prados y 
-restaurantes. (Sigue leyendo: {{< reflink 
-path=posts/2019/04/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon 
->}}) 
+restaurantes. (Sigue leyendo: ['Los mejores asadores de Castilla y León']({{% ref 
+viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon %}})) 
 
 ## Guía práctica de Sanabria
 
@@ -272,4 +271,4 @@ Zamora](https://www.turismoenzamora.es/).
 
 📌 **Sigue leyendo en Etheria Magazine...** 
 
-{{< reflink path=posts/2021/09/ruta-para-comer-bien-en-leon-capital >}}.
+{{< reflink ruta-para-comer-bien-en-leon-capital >}}.

@@ -87,14 +87,14 @@ que rodean el lago.
 
 La excursión al Pilatus (a 2.073 msnm) será una de esas jornadas que recordarás para 
 siempre. Además, es apta para todos los públicos y no requiere esfuerzo (ya te lo 
-contábamos en el reportaje {{< reflink 
-path=posts/2018/09/tres-montanas-suizas-a-las-que-subir-sin-despeinarse >}}). En 
-invierno hay que tomar en Lucerna el autobús nº1 que lleva a la cercana Kriens. Desde 
-allí salen las Panorama Gondolas que llevan a la estación de Fräkmüntegg en tan solo 30 
-minutos (donde se pueden alquilar trineos para jugar un rato en la nieve). Aquí se 
-enlaza con el telecabina ‘Dragon Ride’, que ofrece unas vistas fabulosas hasta llegar al 
-Pilatus, donde podrás pasar un rato contemplando el increíble paisaje, tomando algo en 
-su restaurante o comprando algún recuerdo en sus tiendas. 
+contábamos en el reportaje [Tres montañas suizas a las que subir sin despeinarse]({{% 
+ref tres-montanas-suizas-a-las-que-subir-sin-despeinarse %}})). En invierno hay que 
+tomar en Lucerna el autobús nº1 que lleva a la cercana Kriens. Desde allí salen las 
+Panorama Gondolas que llevan a la estación de Fräkmüntegg en tan solo 30 minutos (donde 
+se pueden alquilar trineos para jugar un rato en la nieve). Aquí se enlaza con el 
+telecabina ‘Dragon Ride’, que ofrece unas vistas fabulosas hasta llegar al Pilatus, 
+donde podrás pasar un rato contemplando el increíble paisaje, tomando algo en su 
+restaurante o comprando algún recuerdo en sus tiendas. 
 
 ![Fachadas del casco histórico de Lucerna.](https://fotos.etheriamagazine.com/2019/11/lucerna-fachadas-centro.jpg "Fachadas del casco histórico de Lucerna. © SG")
 

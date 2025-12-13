@@ -99,9 +99,8 @@ turismo.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/11/que-ver-iran-mujer-viajar-sola-con-amigas >}}. 
+{{< reflink que-ver-iran-mujer-viajar-sola-con-amigas >}}. 
 
-{{< reflink 
-path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}. 
+{{< reflink jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}}. 
 
-{{< reflink path=posts/2020/03/viajes-sin-salir-de-casa-destinos-cine-y-series >}}.
+{{< reflink viajes-sin-salir-de-casa-destinos-cine-y-series >}}.

@@ -71,8 +71,8 @@ cualquiera de sus establecimientos de España porque merece mucho la pena.
 
 ### También te puede interesar…
 
-{{< reflink path=posts/2020/04/6-hoteles-apartados-espana-lujo-con-encanto >}}. 
+{{< reflink 6-hoteles-apartados-espana-lujo-con-encanto >}}. 
 
-{{< reflink path=posts/2019/10/hoteles-para-escapada-romantica-de-lujo >}}. 
+{{< reflink hoteles-para-escapada-romantica-de-lujo >}}. 
 
-{{< reflink path=posts/2018/08/hotel-la-bobadilla-loja-granada >}}.
+{{< reflink hotel-la-bobadilla-loja-granada >}}.

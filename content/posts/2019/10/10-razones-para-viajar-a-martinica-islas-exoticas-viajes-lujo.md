@@ -239,10 +239,9 @@ durante su estancia en la isla.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/01/como-organizar-viaje-de-novios-o-luna-de-miel >}}. 
+{{< reflink como-organizar-viaje-de-novios-o-luna-de-miel >}}. 
 
-{{< reflink path=posts/2020/02/viaje-con-amigas-caribe-aruba-bonaire-y-curazao >}}. 
+{{< reflink viaje-con-amigas-caribe-aruba-bonaire-y-curazao >}}. 
 
-{{< reflink 
-path=posts/2019/07/viajar-sola-panama-couchsurfing-panama-bocas-del-toro-archipielago-san-blas 
+{{< reflink viajar-sola-panama-couchsurfing-panama-bocas-del-toro-archipielago-san-blas 
 >}}.

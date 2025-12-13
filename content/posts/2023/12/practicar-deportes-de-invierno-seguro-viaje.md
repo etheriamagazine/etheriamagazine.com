@@ -150,4 +150,4 @@ favoritos sin riesgos**.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/03/que-seguro-viaje-cubre-deporte-surf >}}
+{{< reflink que-seguro-viaje-cubre-deporte-surf >}}

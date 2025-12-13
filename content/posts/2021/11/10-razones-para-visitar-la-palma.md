@@ -197,11 +197,11 @@ está, mi amol?’, repiten mientras lanzan al aire polvos de talco y billetes. 
 embargo, todo forma parte de una pantomima. Es la forma que tienen de reírse de un 
 fenómeno social que vivió La Palma a finales del siglo XIX, cuando algunos de sus 
 emigrantes retornados de Cuba presumían de una riqueza que no tenían. En Etheria 
-Magazine, ya te contamos todos los detalles de {{< reflink 
-path=posts/2020/02/que-hacer-en-los-indianos-el-carnaval-de-la-palma >}}, sin duda, uno 
-de los más entrañables de España. La pandemia ha truncado su celebración en 2020 y 
-todavía es una incógnita si se celebrará en 2021. Por eso, te recomendamos que no te 
-pierdas la actualidad turística de la isla. 
+Magazine, ya te contamos todos los detalles de [Los Indianos, el carnaval de La 
+Palma]({{% ref que-hacer-en-los-indianos-el-carnaval-de-la-palma %}}), sin duda, uno de 
+los más entrañables de España. La pandemia ha truncado su celebración en 2020 y todavía 
+es una incógnita si se celebrará en 2021. Por eso, te recomendamos que no te pierdas la 
+actualidad turística de la isla. 
 
 > Celebrar Los Indianos puede convertirse en uno de los eventos que recuerdes de por vida. 
 
@@ -215,10 +215,8 @@ espacio aéreo si las condiciones del volcán lo requieren.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/04/la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias 
->}}. 
+{{< reflink la-palma-la-isla-mas-adictiva-y-alternativa-de-canarias >}}. 
 
-{{< reflink 
-path=posts/2019/06/faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica >}}. 
+{{< reflink faro-punta-cumplida-isla-de-la-palma-tenerife-escapada-romantica >}}. 
 
-{{< reflink path=posts/2021/04/10-secretos-para-conocer-la-isla-de-la-palma >}}.
+{{< reflink 10-secretos-para-conocer-la-isla-de-la-palma >}}.

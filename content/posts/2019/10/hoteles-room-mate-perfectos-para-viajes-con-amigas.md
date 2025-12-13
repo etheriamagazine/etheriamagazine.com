@@ -32,7 +32,7 @@ La última opción en Madrid es el **Room Mate Laura**, en el Barrio de los Aust
 
 Un detalle que nos gusta de estos hoteles, y del resto de la cadena, es que sirven el **desayuno _buffet_ hasta las 12 de la mañana**, por lo que no hay que madrugar para tomar el primer café.
 
-La localización de ambos hoteles es perfecta tanto para conocer la oferta cultural del Triángulo del Arte, como para ir de _shopping_ a la zona centro de Madrid, {{< reflink path=posts/2018/12/de-canas-por-el-madrid-de-los-austrias-y-de-las-letras >}}, {{< reflink path=posts/2018/11/10-restaurantes-para-salir-a-cenar-con-amigas-en-madrid >}} o {{< reflink path=posts/2019/10/10-mejores-coctelerias-de-madrid-salir-con-amigas >}}
+La localización de ambos hoteles es perfecta tanto para conocer la oferta cultural del Triángulo del Arte, como para ir de _shopping_ a la zona centro de Madrid, [tapear]({{% ref de-canas-por-el-madrid-de-los-austrias-y-de-las-letras %}}), [cenar con amigas]({{% ref 10-restaurantes-para-salir-a-cenar-con-amigas-en-madrid %}}) o [tomar los mejores cóctels de Madrid.]({{% ref 10-mejores-coctelerias-de-madrid-salir-con-amigas %}})
 
 ## 2\. En Barcelona con Emma, Anna y Carla.
 
@@ -40,7 +40,7 @@ De los tres hoteles de Room Mate en la Ciudad Condal emana la chispa creativa qu
 
 \[caption id="attachment\_13342" align="aligncenter" width="900"\]![hotel room mate anna, hotel barcelona viaje con amigas](https://fotos.etheriamagazine.com/2019/10/Room-Mate-Anna-Barcelona-Executive-room.jpg "Hotel Room Mate Anna, en Barcelona.") Hotel Room Mate Anna, en Barcelona.\[/caption\]
 
-Si optas por el **Room Mate Anna** (Passeig de Gràcia), te sorprenderá su interiorismo donde se mezcla el mar, el estilo tropical y el Mediterráneo, con el toque inconfundible de Lorenzo Castillo. Este hotel es ideal para una {{< reflink path=posts/2019/03/guia-que-ver-hacer-dormir-barcelona-con-amigas >}}  porque te carga las pilas nada más entrar.
+Si optas por el **Room Mate Anna** (Passeig de Gràcia), te sorprenderá su interiorismo donde se mezcla el mar, el estilo tropical y el Mediterráneo, con el toque inconfundible de Lorenzo Castillo. Este hotel es ideal para una [escapada con amigas a Barcelona]({{% ref guia-que-ver-hacer-dormir-barcelona-con-amigas %}})  porque te carga las pilas nada más entrar.
 
 Y si quieres conocer a **Carla**, no tienes más que dirigirte al centro de Barcelona. En la decoración de sus habitaciones se combina el minimalismo con los toques de color. Aunque no te alojes, también puedes pasarte a tomar un café o un cóctel en su **Honesty Bar**.
 
@@ -52,7 +52,7 @@ Y si quieres conocer a **Carla**, no tienes más que dirigirte al centro de Barc
 
 Que el **Room Mate Valeria** está cerca de la costa se siente al salir a sus terrazas y, también, al fijarte en su decoración. El interiorismo lo ha realizado el estudio Melian Randolph, que se ha inspirado en el color, las formas y la vegetación de Málaga.
 
-Este es el hotel de Room Mate que está más cerca del mar, pero sin llegar a alejarse del centro. A un paso tendrás el **Muelle Uno** y el Palmeral de las Sorpresas. ¿Te imaginas paseando {{< reflink path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}} desde Valeria para descubrir la ciudad de Picasso o recorriendo su maravillosa Alcazaba? Quizás, incluso veas desde tu ventana la noria del puerto. Si vas en familia también encontrarás habitaciones a vuestra medida, para cuatro personas, de 21 a 26 m2.
+Este es el hotel de Room Mate que está más cerca del mar, pero sin llegar a alejarse del centro. A un paso tendrás el **Muelle Uno** y el Palmeral de las Sorpresas. ¿Te imaginas paseando [con tus amigas en Málaga]({{% ref fin-de-semana-con-amigas-en-malaga %}}) desde Valeria para descubrir la ciudad de Picasso o recorriendo su maravillosa Alcazaba? Quizás, incluso veas desde tu ventana la noria del puerto. Si vas en familia también encontrarás habitaciones a vuestra medida, para cuatro personas, de 21 a 26 m2.
 
 Una recomendación: disfruta del atardecer con una copa en la mano desde la terraza-bar (junto a la piscina).
 
@@ -62,7 +62,7 @@ Una recomendación: disfruta del atardecer con una copa en la mano desde la terr
 
 En ciudades como Milán se agradece alojarse en el centro porque puedes llegar a muchos lugares a pie. El **Room Mate Giulia** nos lo pone muy fácil porque en pocos minutos puedes estar ante el magnífico Duomo, el teatro de la Scala o el castello Sforzesco. En Giulia nos encanta cómo han logrado armonizar en un edificio histórico interiores tan acogedores. Gran parte de ese mérito se le debe a **Patricia Urquiola**, que ha convertido este espacio en una segunda casa para los viajeros que acuden a Milán.
 
-Si después de un día recorriendo esta ciudad monumental te apetece relajarte, lo podrás hacer en una tumbona de su spa o en la sauna. El gimnasio mejor lo dejas para el día siguiente (está abierto 24 horas). Si haces el {{< reflink path=posts/2018/12/que-ver-en-milan-en-48-horas >}}, también puedes elegir una de sus habitaciones triples.
+Si después de un día recorriendo esta ciudad monumental te apetece relajarte, lo podrás hacer en una tumbona de su spa o en la sauna. El gimnasio mejor lo dejas para el día siguiente (está abierto 24 horas). Si haces el [viaje a Milán en familia]({{% ref que-ver-en-milan-en-48-horas %}}), también puedes elegir una de sus habitaciones triples.
 
 \[caption id="attachment\_13343" align="aligncenter" width="900"\]![Hotel Room Mate Giulia, hotel viaje con amigas](https://fotos.etheriamagazine.com/2019/10/Room-mate-giulia-1.jpg "Hotel Room Mate Giulia, en Milán.") Hotel Room Mate Giulia, en Milán.\[/caption\]
 
@@ -70,19 +70,19 @@ Si después de un día recorriendo esta ciudad monumental te apetece relajarte, 
 
 Florencia es arte y belleza en un grado extremo, y eso es lo que ofrece el **Room Mate Isabella**. Las habitaciones de este hotel boutique son muy especiales y con una decoración única. Si vas con amigas, no dejéis de hacer una ronda para ver todas las habitaciones que tengáis ocupadas porque son magníficas. Pero no solo nos gusta la decoración, también ofrece una ubicación excelente –y tentadora–, ya que se encuentra en la Via Tornabuoni, donde se dan cita numerosas tiendas de moda de alta costura.
 
-A un paso tendrás la bellísima basílica de Santa María del Fiore y los palacios de Vecchio, Strozzi, Bartolini Salimbeni o Corsini. Si no es la primera vez que visitas la ciudad seguro que te sorprenderemos con estas ideas: {{< reflink path=posts/2018/09/15-ideas-para-disfrutar-de-florencia-por-segunda-vez >}}.
+A un paso tendrás la bellísima basílica de Santa María del Fiore y los palacios de Vecchio, Strozzi, Bartolini Salimbeni o Corsini. Si no es la primera vez que visitas la ciudad seguro que te sorprenderemos con estas ideas: [15 ideas para disfrutar de Florencia por segunda vez]({{% ref 15-ideas-para-disfrutar-de-florencia-por-segunda-vez %}}).
 
 \[caption id="attachment\_13337" align="aligncenter" width="900"\]![hotel room mate aitana, hotel amsterdam viaje con amigas](https://fotos.etheriamagazine.com/2019/10/Room-Mate-Aitana-Amsterdam-1.jpg "Hotel Room Mate Aitana, en Ámsterdam.") Hotel Room Mate Aitana, en Ámsterdam.\[/caption\]
 
 ## 6\. En Ámsterdam con Aitana.
 
-Es el único que tiene la cadena, de momento, en la capital holandesa pero ofrece todo lo que se necesita para una escapada. Ya os hemos contado planes en {{< reflink path=posts/2018/09/amsterdam-un-fin-de-semana-con-tu-madre >}} y también {{< reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-amsterdam >}}, así que ahora os recomendamos un alojamiento donde descansar como reinas. El **Room Mate Aitana** es un hotel boutique con una estructura de cristal que rezuma modernidad. Se encuentra en la isla artificial del Ij River, próximo a la Casa de Ana Frank –no dejes de visitarla–, el palacio de Justicia, la estación Central y la plaza Dam.
+Es el único que tiene la cadena, de momento, en la capital holandesa pero ofrece todo lo que se necesita para una escapada. Ya os hemos contado planes en [Ámsterdam para hacer madre-hija]({{% ref amsterdam-un-fin-de-semana-con-tu-madre %}}) y también ['con amigas en Ámsterdam']({{% ref viajar-sola-que-ver-hacer-dormir-amsterdam %}}), así que ahora os recomendamos un alojamiento donde descansar como reinas. El **Room Mate Aitana** es un hotel boutique con una estructura de cristal que rezuma modernidad. Se encuentra en la isla artificial del Ij River, próximo a la Casa de Ana Frank –no dejes de visitarla–, el palacio de Justicia, la estación Central y la plaza Dam.
 
 Además de sus vistas y el interiorismo elegido por Tomás Alía (que nos apasiona), nos ha gustado su bar, el **Aitana lounge**, donde se puede elegir entre sus más de 50 tipos de cervezas, 10 variedades de gin & tonics y otros muchos cócteles. ¡Tras todo un día caminando por la ciudad, nos merecemos un descanso!
 
 ## 7\. En Nueva York con Grace.
 
-Para muchas mujeres, {{< reflink path=posts/2019/05/viaje-con-amigas-nueva-york-primavera >}} es cumplir un sueño. Y si, además, nos podemos alojar en el centro de Manhattan, poco más se puede pedir. Para que te hagas una idea, el **Room Mate Grace** se encuentra entre la Sexta y la Séptima Avenida, a 5 minutos del Rockefeller Center y a 20 del Central Park. Si tienes problemas de movilidad, en este hotel disponen de habitaciones adaptadas, así que ¡no hay excusa para quedarse en casa!
+Para muchas mujeres, [visitar Nueva York sola o con amigas]({{% ref viaje-con-amigas-nueva-york-primavera %}}) es cumplir un sueño. Y si, además, nos podemos alojar en el centro de Manhattan, poco más se puede pedir. Para que te hagas una idea, el **Room Mate Grace** se encuentra entre la Sexta y la Séptima Avenida, a 5 minutos del Rockefeller Center y a 20 del Central Park. Si tienes problemas de movilidad, en este hotel disponen de habitaciones adaptadas, así que ¡no hay excusa para quedarse en casa!
 
 Su decoración, moderna pero muy detallista, te hará sentir como una auténtica neoyorquina. No olvides llevar bañador porque cuenta con piscina (de 9 a 21 h) y pool bar (de 17 a 23 h), para que después de hacer unos largos te relajes con una cóctel en la mano.
 

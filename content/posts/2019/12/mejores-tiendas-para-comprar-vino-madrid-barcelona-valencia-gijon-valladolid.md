@@ -203,9 +203,8 @@ vinos y estupendos recuerdos.
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2022/06/enoturismo-conca-de-barbera >}} 
+{{< reflink enoturismo-conca-de-barbera >}} 
 
-{{< reflink 
-path=posts/2020/08/la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}} 
+{{< reflink la-geria-la-ruta-de-vinos-definitiva-para-beberse-lanzarote >}} 
 
-{{< reflink path=posts/2019/05/los-10-mejores-vinos-para-este-verano >}}
+{{< reflink los-10-mejores-vinos-para-este-verano >}}

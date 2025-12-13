@@ -138,9 +138,9 @@ atmósfera aún más especial. Sus ciudades históricas recuperan una lenta cade
 permite viajar en el tiempo sin que nos demos cuenta. Ahora en diciembre, cuando las 
 luces de colores iluminan sus plazas, se convierten en los mejores escenarios para 
 capturar bellos recuerdos. Entre las villas más especiales de esta región se encuentra 
-{{< reflink path=posts/2020/09/que-ver-hacer-obidos-pueblo-medieval-portugal >}}, que 
-seduce con sus librerías alojadas en emplazamientos singulares, su castillo y sus 
-murallas y bares con encanto. Además, hasta finales de mes se puede visitar su [Vila 
+[Óbidos]({{% ref que-ver-hacer-obidos-pueblo-medieval-portugal %}}), que seduce con sus 
+librerías alojadas en emplazamientos singulares, su castillo y sus murallas y bares con 
+encanto. Además, hasta finales de mes se puede visitar su [Vila 
 Natal](https://obidosvilanatal.pt/) con la granja de Papá Noel, el bar de hielo, el 
 mercado y decenas de actividades para hacer con niños. 
 

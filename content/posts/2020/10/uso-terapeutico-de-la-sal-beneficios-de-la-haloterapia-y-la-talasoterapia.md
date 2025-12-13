@@ -152,7 +152,6 @@ sódico (SAL) como agente biocida eficaz contra SARS-CoV-2.
 
 📌 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/04/ansioliticos-y-antidepresivos-no-resuelven-los-problemas 
->}} 
+{{< reflink ansioliticos-y-antidepresivos-no-resuelven-los-problemas >}} 
 
-{{< reflink path=posts/2021/03/que-es-endometriosis-sintomas-y-cuidados >}}.
+{{< reflink que-es-endometriosis-sintomas-y-cuidados >}}.

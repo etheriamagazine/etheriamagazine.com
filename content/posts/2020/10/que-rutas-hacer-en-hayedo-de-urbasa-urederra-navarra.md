@@ -140,9 +140,8 @@ interior.
 
 ### También te puede interesar
 
-{{< reflink path=posts/2021/02/navarra-en-familia-tierra-estella-y-tierras-de-iranzu >}} 
+{{< reflink navarra-en-familia-tierra-estella-y-tierras-de-iranzu >}} 
 
-{{< reflink path=posts/2024/10/ruta-navarra-bardenas-reales-tudela-escapada-con-amigas 
->}} 
+{{< reflink ruta-navarra-bardenas-reales-tudela-escapada-con-amigas >}} 
 
-{{< reflink path=posts/2021/05/excursiones-sierra-de-entzia-alava >}}
+{{< reflink excursiones-sierra-de-entzia-alava >}}

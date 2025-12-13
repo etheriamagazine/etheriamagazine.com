@@ -128,8 +128,8 @@ Fotos: Sport Hotel Hermitage & Spa.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/01/planes-en-la-nieve-para-mujeres-que-no-esquian >}} 
+{{< reflink planes-en-la-nieve-para-mujeres-que-no-esquian >}} 
 
-{{< reflink path=posts/2021/01/que-ver-en-zakopane-viaje-original-polonia >}} 
+{{< reflink que-ver-en-zakopane-viaje-original-polonia >}} 
 
-{{< reflink path=posts/2018/12/las-mejores-estaciones-de-esqui-del-mundo >}}
+{{< reflink las-mejores-estaciones-de-esqui-del-mundo >}}

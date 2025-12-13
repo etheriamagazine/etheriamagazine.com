@@ -127,4 +127,4 @@ las seguía un rato… ¡son plumas preciosas para hacer colgantes y pendientes!
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/04/modena-de-lujo-ferrari-bottura >}}.
+{{< reflink modena-de-lujo-ferrari-bottura >}}.

@@ -93,6 +93,6 @@ comerciante y los viajeros que tienen la suerte de caer por allí.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/08/prepara-tu-viaje-libros-series-de-noruega >}}. 
+{{< reflink prepara-tu-viaje-libros-series-de-noruega >}}. 
 
-{{< reflink path=posts/2020/07/9-motivos-para-viajar-a-noruega >}}.
+{{< reflink 9-motivos-para-viajar-a-noruega >}}.

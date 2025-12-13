@@ -211,8 +211,11 @@ dispuestas a daros un capricho en vuestra próxima escapada?
 
 ✅ **También te puede interesar..**. 
 
-1.{{< reflink path=posts/2023/04/ruta-del-vino-de-arribes >}}. 
+1.[Ruta del Vino de Arribes, energía femenina de alto voltaje]({{% ref 
+ruta-del-vino-de-arribes %}}). 
 
-2\. {{< reflink path=posts/2022/09/planes-en-ruta-vino-toro >}}. 
+2\. [Ruta del Vino de Toro, secretos abrazados por el Duero]({{% ref 
+planes-en-ruta-vino-toro %}}). 
 
-3\. {{< reflink path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}.
+3\. [Ruta del Vino de la Sierra de Francia, un brindis con amigas en Salamanca]({{% ref 
+plan-con-amigas-ruta-del-vino-sierra-de-francia %}}).

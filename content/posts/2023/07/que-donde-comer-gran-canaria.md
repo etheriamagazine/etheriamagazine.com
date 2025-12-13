@@ -208,6 +208,7 @@ Más información en [Turismo de Gran Canaria](http://www.grancanaria.com/turism
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/05/senderismo-gran-canaria-banos-de-bosque >}} 
+{{< reflink senderismo-gran-canaria-banos-de-bosque >}} 
 
-{{< reflink path=posts/2022/11/25-curiosidades-de-canarias >}}
+[25 curiosidades de Canarias que te sorprenderán]({{% ref 25-curiosidades-de-canarias 
+%}})

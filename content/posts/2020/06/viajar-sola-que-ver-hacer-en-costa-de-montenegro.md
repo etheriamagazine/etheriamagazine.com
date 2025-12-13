@@ -119,8 +119,8 @@ camino entre la entrada a la bahía y la ciudad amurallada.
 Poco queda de aquella ciudad de aire aristocrático. Hoy en día, **16 iglesias católicas 
 y 17 grandes _palazzos_** forman la historia de Perast. La gran mayoría de edificios han 
 sido habilitados como alojamientos turísticos para aquellos que deseen revivir la edad 
-dorada de la ciudad. Uno de ellos es el {{< reflink 
-path=posts/2018/08/hotel-iberostar-perast-montenegro >}} donde merece la pena alojarse. 
+dorada de la ciudad. Uno de ellos es el [hotel Iberostar Grand Perast]({{% ref 
+hotel-iberostar-perast-montenegro %}}) donde merece la pena alojarse. 
 
 ![viaja sola, viajar a la costa del Adriático, viajar con amigas](https://fotos.etheriamagazine.com/2020/06/Montenegro-Perast-mar.jpg "Perast desde el mar. © Albert Hiseni")
 
@@ -242,6 +242,6 @@ barco](https://www.civitatis.com/es/kotor/excursion-cueva-azul-nuestra-senora-ro
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2018/08/hotel-iberostar-perast-montenegro >}} 
+{{< reflink hotel-iberostar-perast-montenegro >}} 
 
-{{< reflink path=posts/2021/01/viaje-a-croacia-como-organizar-que-ver-hacer >}}
+{{< reflink viaje-a-croacia-como-organizar-que-ver-hacer >}}

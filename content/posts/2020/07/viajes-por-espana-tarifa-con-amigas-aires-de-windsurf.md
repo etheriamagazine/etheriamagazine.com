@@ -67,8 +67,8 @@ no por ser madre o esposa, sino por méritos propios**. Por cierto, el restauran
 hay que acudir después de la visita por la zona es **Las Rejas**, con un pescado fresco 
 imbatible. 
 
-📌 No te pierdas esta {{< reflink 
-path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}}. 
+📌 No te pierdas esta [guía para visitar Baelo Claudia con 10 paradas 
+imprescindibles]({{% ref guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia %}}). 
 
 ![playa lances, playas tarifa, viajes amigas](https://fotos.etheriamagazine.com/2020/06/tarifa-playa-lances.jpg "Playa de los Lances, en Tarifa. © José Mª Caballero")
 
@@ -88,13 +88,13 @@ mojitos y alguna piña colada y nos fuimos a nuestro apartamento y después a ce
 #### Playa de Valdevaqueros
 
 Otra de las largas jornadas de playa la dedicamos a la **Playa de Valdevaqueros**, la 
-más salvaje de todas. También porque estábamos deseosas de conocer el {{< reflink 
-path=posts/2021/04/bibo-beach-house-chiringuito-tarifa >}} –que además tiene su propia 
-escuela de surf– pero al que peregrinamos para devorar algunos de sus clásicos como el 
-brioche, las croquetas o los langostinos Robuchon. El local es una maravilla. Agradable, 
-luminoso, fresco. Acabamos a las tantas, tomando **cócteles y mojitos de champán**. 
-Incluso una de mis amigas se atrevió con un Whisky Maker's Mark (lima, blue curaçao, 
-shrub de naranja y clara de huevo). Una bomba pero que le sentó realmente bien. 
+más salvaje de todas. También porque estábamos deseosas de conocer el [Bibo Beach de 
+Dani García]({{% ref bibo-beach-house-chiringuito-tarifa %}}) –que además tiene su 
+propia escuela de surf– pero al que peregrinamos para devorar algunos de sus clásicos 
+como el brioche, las croquetas o los langostinos Robuchon. El local es una maravilla. 
+Agradable, luminoso, fresco. Acabamos a las tantas, tomando **cócteles y mojitos de 
+champán**. Incluso una de mis amigas se atrevió con un Whisky Maker's Mark (lima, blue 
+curaçao, shrub de naranja y clara de huevo). Una bomba pero que le sentó realmente bien. 
 
 ![bibo beach house, chiringuitos tarifa](https://fotos.etheriamagazine.com/2020/06/Tarifa-BIBO-Beach-House.jpg "© BIBO Beach House, en Tarifa.")
 
@@ -220,8 +220,8 @@ reserva](https://www.civitatis.com/es/tarifa/excursion-tanger/?aid=10211).
 
 ### También te puede interesar
 
-{{< reflink path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}} 
+{{< reflink 10-actividades-vejer-de-la-frontera-que-ver-hacer >}} 
 
-{{< reflink path=posts/2021/07/los-mejores-planes-en-conil-con-amigas >}} 
+{{< reflink los-mejores-planes-en-conil-con-amigas >}} 
 
-{{< reflink path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}}
+{{< reflink viajar-con-amigas-que-hacer-en-cadiz >}}

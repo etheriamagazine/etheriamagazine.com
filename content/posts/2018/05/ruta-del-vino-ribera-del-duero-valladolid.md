@@ -102,8 +102,7 @@ los premios de la prestigiosa revista Decanter, por ejemplo).
 ### Abadía Retuerta
 
 A un lado de la carretera, el monasterio del siglo XII reconvertido en el hotel de lujo 
-{{< reflink 
-path=posts/2019/11/viajes-romanticos-hotel-le-domaine-abadia-retuerta-valladolid >}} 
+[Le Domaine]({{% ref viajes-romanticos-hotel-le-domaine-abadia-retuerta-valladolid %}}) 
 (con restaurante con estrella Michelin incluida); al otro lado, las viñas y la bodega, 
 donde se elaboran algunos de mis vinos favoritos, como su Petit Verdot, el Selección 
 Especial o ese Blanco Le Domaine que me tiene loca. Esta es una parada imprescindible en 
@@ -192,9 +191,8 @@ también).
 
 **También te puede interesar** 
 
-{{< reflink path=posts/2019/01/bares-imprescindibles-finde-valladolid >}} 
+{{< reflink bares-imprescindibles-finde-valladolid >}} 
 
-{{< reflink path=posts/2020/05/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid 
->}} 
+{{< reflink viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid >}} 
 
-{{< reflink path=posts/2021/04/32-excursiones-de-un-dia-en-rutas-vino-espana >}}
+{{< reflink 32-excursiones-de-un-dia-en-rutas-vino-espana >}}

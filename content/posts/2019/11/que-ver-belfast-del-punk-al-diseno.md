@@ -160,8 +160,8 @@ no era ese.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/05/8-visitas-increibles-en-irlanda-del-norte >}} 
+{{< reflink 8-visitas-increibles-en-irlanda-del-norte >}} 
 
-{{< reflink path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte >}} 
+{{< reflink juego-de-tronos-en-irlanda-del-norte >}} 
 
-{{< reflink path=posts/2023/01/almas-en-pena-de-inisherin >}}
+{{< reflink almas-en-pena-de-inisherin >}}

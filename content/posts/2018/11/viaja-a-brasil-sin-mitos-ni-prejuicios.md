@@ -140,6 +140,6 @@ mucho más libre e igualitaria.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/08/viaje-brasil-salvador-de-bahia-y-praia-do-forte >}} 
+{{< reflink viaje-brasil-salvador-de-bahia-y-praia-do-forte >}} 
 
-{{< reflink path=posts/2021/10/parques-naturales-de-america-latina >}}
+{{< reflink parques-naturales-de-america-latina >}}

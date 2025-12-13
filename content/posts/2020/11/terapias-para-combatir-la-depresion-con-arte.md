@@ -185,4 +185,4 @@ asegura Juan Alberto García, fundador de Cultura en Vena.
 
 También te puede interesar... 
 
-- {{< reflink path=posts/2020/10/danza-terapia-salud >}}.
+- [Danza, la belleza que sana]({{% ref danza-terapia-salud %}}).

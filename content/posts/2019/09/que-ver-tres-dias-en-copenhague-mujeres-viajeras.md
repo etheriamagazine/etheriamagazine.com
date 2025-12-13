@@ -125,6 +125,6 @@ habitantes de Copenhague; todos parecen haber encontrado el secreto para ser fel
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2023/03/tipos-saunas-estonia >}}. 
+{{< reflink tipos-saunas-estonia >}}. 
 
-{{< reflink path=posts/2022/08/esim-europa-no-comunitaria >}}
+{{< reflink esim-europa-no-comunitaria >}}

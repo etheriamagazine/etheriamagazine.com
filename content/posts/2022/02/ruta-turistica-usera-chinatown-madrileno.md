@@ -312,10 +312,8 @@ aconsejamos reservar con bastante antelación.
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}. 
+{{< reflink brunch-buenos-y-baratos-en-madrid >}}. 
 
-{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
->}}. 
+{{< reflink ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias >}}. 
 
-{{< reflink path=posts/2020/09/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid 
->}}.
+{{< reflink pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid >}}.

@@ -185,8 +185,8 @@ mundo_.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2022/03/mujeres-viajeras-de-la-historia >}} 
+{{< reflink mujeres-viajeras-de-la-historia >}} 
 
-{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}} 
+{{< reflink ruta-ava-gardner-en-madrid >}} 
 
-{{< reflink path=posts/2021/08/lee-krasner-inspira-el-color-de-tu-nombre >}}
+{{< reflink lee-krasner-inspira-el-color-de-tu-nombre >}}

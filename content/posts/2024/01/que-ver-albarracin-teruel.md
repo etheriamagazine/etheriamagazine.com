@@ -202,6 +202,6 @@ pastoriles** situados en las rocas de rodeno del camino.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/10/ruta-en-coche-por-teruel >}}. 
+{{< reflink ruta-en-coche-por-teruel >}}. 
 
-{{< reflink path=posts/2020/02/viajes-romanticos-que-ver-donde-comer-teruel >}}.
+{{< reflink viajes-romanticos-que-ver-donde-comer-teruel >}}.

@@ -127,6 +127,7 @@ Campo Santa Maria del Giglio 2467, Venecia. Teléfono: +39 041 794611
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2022/06/san-marco-venecia >}} 
+[San Marco: no te pierdas ningún detalle del corazón de Venecia]({{% ref 
+san-marco-venecia %}}) 
 
-{{< reflink path=posts/2021/12/que-ver-en-verona >}}
+{{< reflink que-ver-en-verona >}}

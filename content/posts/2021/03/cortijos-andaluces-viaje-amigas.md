@@ -198,9 +198,8 @@ ellas –la de Descalzos Viejos es una maravilla–.
 
 **Además de los cortijos andaluces, te puede interesar...** 
 
-{{< reflink path=posts/2020/09/10-mejores-planes-en-sevilla-con-amigas-o-pareja >}}. 
+{{< reflink 10-mejores-planes-en-sevilla-con-amigas-o-pareja >}}. 
 
-{{< reflink path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}}. 
+{{< reflink 10-actividades-vejer-de-la-frontera-que-ver-hacer >}}. 
 
-{{< reflink path=posts/2024/07/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga 
->}}.
+{{< reflink road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga >}}.

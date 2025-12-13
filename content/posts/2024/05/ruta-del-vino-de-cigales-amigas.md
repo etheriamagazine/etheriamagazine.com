@@ -229,6 +229,6 @@ que consultar la web de la [Ruta del Vino Cigales](https://rutadelvinocigales.co
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2023/06/que-ver-ruta-vino-arribes >}} 
+{{< reflink que-ver-ruta-vino-arribes >}} 
 
-{{< reflink path=posts/2022/09/planes-en-ruta-vino-toro >}}.
+{{< reflink planes-en-ruta-vino-toro >}}.

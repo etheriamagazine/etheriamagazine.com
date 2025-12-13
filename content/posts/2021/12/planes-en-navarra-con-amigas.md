@@ -235,10 +235,8 @@ Más información en Turismo de Navarra (www.visitnavarra.es/es)
 
 ### Sigue viajando por Navarra...
 
-{{< reflink path=posts/2021/02/navarra-en-familia-tierra-estella-y-tierras-de-iranzu 
->}}. 
+{{< reflink navarra-en-familia-tierra-estella-y-tierras-de-iranzu >}}. 
 
-{{< reflink path=posts/2020/10/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}. 
+{{< reflink que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}. 
 
-{{< reflink path=posts/2024/10/ruta-navarra-bardenas-reales-tudela-escapada-con-amigas 
->}}.
+{{< reflink ruta-navarra-bardenas-reales-tudela-escapada-con-amigas >}}.

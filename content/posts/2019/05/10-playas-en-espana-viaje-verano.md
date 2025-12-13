@@ -73,7 +73,7 @@ Uno de esos rincones que parece que el Mediterráneo se resiste a enseñar ocult
 entre bosques de pinos, rocas y acantilados y que ofrecen ese mar transparente tan 
 característico de las calas rocosas de las islas Baleares (aunque en esta playa hay 
 arena). En los alrededores de esta cala de 
-[Ibiza]({{% ref viaje-a-ibiza-con-amigas %}}) se encuentran 
+[Ibiza](http://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/) se encuentran 
 pequeños rincones perfectos para disfrutar si se llega en barco. 
 
 ## 6\. Playa de Itzurun (Zumaia, Gipuzkoa)
@@ -96,7 +96,8 @@ rodea y por lo recogida y tranquila que es. Además, ofrece una puesta de sol in
 Eso sí, no olvides llevar bebida y provisiones porque te querrás quedar todo el día y no 
 hay chiringuitos cerca. 
 
-📍{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}. 
+📍[Zambúllete en la mejor guía de playas de Formentera]({{% ref 
+viajar-con-amigas-mejores-playas-formentera %}}). 
 
 ## 8\. Playa de San Antonio (Llanes, Asturias)
 
@@ -108,7 +109,8 @@ y en calma. El acceso es sencillo, se llega caminando desde Cuevas del Mar (5 mi
 su condición de playa salvaje hace que no haya ningún servicio, así que llévate todo lo 
 que vayas a necesitar. 
 
-📍{{< reflink path=posts/2022/01/asturias-en-coche-guia-imprescindible >}}. 
+📍[Asturias con amigas, visitas imprescindibles en una ruta en coche]({{% ref 
+asturias-en-coche-guia-imprescindible %}}). 
 
 ## 9\. Playa de Langre (Cantabria)
 

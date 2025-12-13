@@ -109,4 +109,4 @@ Un kilo de libros comprados al peso en Berlín Oriental antes de la caída del m
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2022/03/ayuda-mujeres-emprendedoras-turismo >}}.
+{{< reflink ayuda-mujeres-emprendedoras-turismo >}}.

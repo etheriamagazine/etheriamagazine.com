@@ -79,11 +79,10 @@ playa te prepararán un delicioso picnic.
 ## Alrededores del hotel
 
 El Alcuzcuz Hotel Boutique está situado en el exclusivo pueblo de Benahavís, a sólo seis 
-kilómetros de San Pedro de Alcántara, a dieciocho de {{< reflink 
-path=posts/2019/06/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana 
->}}, a cuarenta y cinco de {{< reflink path=posts/2019/04/ronda-escapada-con-amigas >}} 
-y a setenta y seis de la ciudad de {{< reflink 
-path=posts/2021/05/fin-de-semana-con-amigas-en-malaga >}}. Además de poder escaparte a 
+kilómetros de San Pedro de Alcántara, a dieciocho de [Marbella]({{% ref 
+guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana %}}), a cuarenta y 
+cinco de [Ronda]({{% ref ronda-escapada-con-amigas %}}) y a setenta y seis de la ciudad 
+de [Málaga]({{% ref fin-de-semana-con-amigas-en-malaga %}}). Además de poder escaparte a 
 estas ciudades para disfrutar de su ambiente y su gastronomía, a su alrededor se 
 extienden infinidad de opciones para el ocio. Desde campos de golf de primer nivel y 
 deportes acuáticos en la costa hasta una jornada disfrutando de la naturaleza en el 

@@ -91,4 +91,4 @@ en la comunidad local, estarás ayudando a equilibrar este mundo que nos ha toca
 
 **Te puede interesar...** 
 
-{{< reflink path=posts/2021/10/orango-parque-hotel-una-experiencia-en-guinea-bissau >}}.
+{{< reflink orango-parque-hotel-una-experiencia-en-guinea-bissau >}}.

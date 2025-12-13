@@ -84,9 +84,8 @@ Erin Blackwell.
 
 ### Te puede interesar en Cataluña...
 
-{{< reflink path=posts/2021/02/lugares-secretos-de-cataluna-que-visitar >}}. 
+{{< reflink lugares-secretos-de-cataluna-que-visitar >}}. 
 
-{{< reflink 
-path=posts/2019/12/planes-familiares-en-barcelona-y-tarragona-turismo-industrial >}}. 
+{{< reflink planes-familiares-en-barcelona-y-tarragona-turismo-industrial >}}. 
 
-{{< reflink path=posts/2021/03/10-planes-originales-con-amigas-en-barcelona >}}.
+{{< reflink 10-planes-originales-con-amigas-en-barcelona >}}.

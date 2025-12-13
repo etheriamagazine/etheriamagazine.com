@@ -67,13 +67,11 @@ de Compostela, en un viaje que probará su valor, despertará su corazón y camb
 vida para siempre. Uno de sus grandes aciertos son las localizaciones, que se convierten 
 en una auténtica guía turística del itinerario. Emilio Estévez y su equipo rodaron la 
 película durante 40 días en paisajes reales del Camino, lo que nos permite disfrutar de 
-Roncesvalles, Pamplona, {{< reflink 
-path=posts/2019/05/etapas-que-ver-camino-de-santiago-en-la-rioja >}}, los paisajes de 
-Castilla y León y de Galicia. Después de completar el Camino y llegar a Santiago de 
-Compostela, el protagonista realiza una parada más en compañía de algunas de las 
-personas que había conocido en este viaje. Concretamente va a {{< reflink 
-path=posts/2019/03/camino-de-finisterre-fairway >}}, donde tira las cenizas de su hijo 
-al mar. 
+Roncesvalles, Pamplona, [La Rioja]({{% ref etapas-que-ver-camino-de-santiago-en-la-rioja 
+%}}), los paisajes de Castilla y León y de Galicia. Después de completar el Camino y 
+llegar a Santiago de Compostela, el protagonista realiza una parada más en compañía de 
+algunas de las personas que había conocido en este viaje. Concretamente va a [Muxía]({{% 
+ref camino-de-finisterre-fairway %}}), donde tira las cenizas de su hijo al mar. 
 
 ![al final del camino peliculas camino santiago](https://fotos.etheriamagazine.com/2021/02/camino-santiago-Al-final-del-camino.jpg "'Al final del camino', una rocambolesca comedia en el Camino de Santiago.")
 
@@ -116,8 +114,8 @@ contribuirá a que te enamores –si todavía no lo has hecho– de la Ruta Jaco
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/02/camino-santiago-series-3-caminos-y-caminantes >}}. 
+{{< reflink camino-santiago-series-3-caminos-y-caminantes >}}. 
 
-{{< reflink path=posts/2019/05/etapas-que-ver-camino-de-santiago-en-la-rioja >}}. 
+{{< reflink etapas-que-ver-camino-de-santiago-en-la-rioja >}}. 
 
-{{< reflink path=posts/2019/03/camino-de-finisterre-fairway >}}.
+{{< reflink camino-de-finisterre-fairway >}}.

@@ -268,8 +268,8 @@ Pasión](https://www.caminosdepasion.com/).
 
 **Sigue viajando por Andalucía...** 
 
-{{< reflink path=posts/2019/12/caminos-pasion-ruta-10-pueblos-de-andalucia >}}. 
+{{< reflink caminos-pasion-ruta-10-pueblos-de-andalucia >}}. 
 
-{{< reflink path=posts/2022/01/ruta-del-vino-montilla-moriles-20-aniversario >}}. 
+{{< reflink ruta-del-vino-montilla-moriles-20-aniversario >}}. 
 
-{{< reflink path=posts/2022/03/ruta-autocaravana-en-cordoba >}}.
+{{< reflink ruta-autocaravana-en-cordoba >}}.

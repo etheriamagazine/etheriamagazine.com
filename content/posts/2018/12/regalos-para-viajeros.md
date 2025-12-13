@@ -124,6 +124,6 @@ gastronomía. Desde 139 Euros.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/11/10-lugares-para-huir-de-la-navidad >}} 
+{{< reflink 10-lugares-para-huir-de-la-navidad >}} 
 
-{{< reflink path=posts/2023/11/nochevieja-madrid-hoteles-restaurantes >}}
+{{< reflink nochevieja-madrid-hoteles-restaurantes >}}

@@ -52,7 +52,7 @@ parque natural.
 > sus vinos son espectaculares (probad su blanco de viura, os sorprenderá, o el top de la 
 > casa, Clavis, una maravilla). 
 
-Forman parte de la {{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha >}} y se 
+Forman parte de la [Ruta del Quijote]({{% ref ruta-del-vino-de-la-mancha %}}) y se 
 encuentran a un paso de El Toboso y de otras poblaciones como Belmonte, Mota, Villamayor 
 de Santiago o Quintanar de la Orden. Sus visitas incluyen cata en pleno viñedo y, la 
 opción más completa, un almuerzo frío. Más información y reservas, previa cita, en su 
@@ -179,9 +179,9 @@ El programa completo, que se anunciará próximamente, ofrecerá el disfrute de 
 amplios, históricos y bonitos espacios del conjunto monumental de la bodega. Además, 
 abrirá el único Sherry Hotel del mundo, el Hotel Bodega Tío Pepe, que cuenta con 
 impresionantes vistas a la Catedral, al casco histórico de la ciudad y al Alcázar. 
-Apetecible, ¿verdad? En el artículo '{{< reflink 
-path=posts/2020/06/viajes-por-espana-jerez-sola-o-con-amigas >}}, encontrarás un bonito 
-recorrido por la ciudad. 
+Apetecible, ¿verdad? En el artículo '[Jerez, el arte de vivir']({{% ref 
+viajes-por-espana-jerez-sola-o-con-amigas %}}), encontrarás un bonito recorrido por la 
+ciudad. 
 
 ## Enoturismo en Cataluña
 
@@ -253,9 +253,9 @@ castillo, que actualmente es un completo **Museo del Vino**. Protos ofrece difer
 opciones de visita, con paseos por su Jardín de Variedades, visita a la bodega o cata de 
 alguno de sus vinos. 
 
-Y si la visita se ha quedado corta, en el {{< reflink 
-path=posts/2018/05/ruta-del-vino-ribera-del-duero-valladolid >}} se encuentran algunas 
-de mis bodegas favoritas de la Milla de Oro ribereña. 
+Y si la visita se ha quedado corta, en el [artículo 'Ruta del Vino en Ribera del 
+Duero']({{% ref ruta-del-vino-ribera-del-duero-valladolid %}}) se encuentran algunas de 
+mis bodegas favoritas de la Milla de Oro ribereña. 
 
 Estas once joyas son solo un ejemplo de la riqueza enoturística de nuestro país. Desde 
 2008, según datos de la Asociación Española de Ciudades del Vino (ACEVIN), se ha 
@@ -263,7 +263,6 @@ triplicado el número de visitantes a bodegas y museos de las Rutas del Vino, ll
 tres millones las personas que optaron el año pasado por este tipo de turismo. Muchas 
 otras propuestas interesantísimas se han quedado en el tintero, otras tantas zonas 
 vitivinícolas y bodegas, sin hablar de los hoteles del vino o de aquellas bodegas que 
-ofrecen {{< reflink path=posts/2018/10/relax-entre-vinas-el-poder-de-la-vinoterapia >}} 
-en sus instalaciones. Y es que el mundo del vino es uno de nuestros grandes motores y 
-seña de identidad, una forma perfecta de restituir el equilibrio de nuestro cuerpo y 
-alma.
+ofrecen [vinoterapia]({{% ref relax-entre-vinas-el-poder-de-la-vinoterapia %}}) en sus 
+instalaciones. Y es que el mundo del vino es uno de nuestros grandes motores y seña de 
+identidad, una forma perfecta de restituir el equilibrio de nuestro cuerpo y alma.

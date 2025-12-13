@@ -141,9 +141,8 @@ domingo (10 a 20 h).
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/09/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid 
->}}. 
+{{< reflink pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid >}}. 
 
-{{< reflink path=posts/2020/05/15-escapadas-a-menos-de-99-km-de-madrid >}}. 
+{{< reflink 15-escapadas-a-menos-de-99-km-de-madrid >}}. 
 
-{{< reflink path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}}.
+{{< reflink 11-escapadas-cercanas-a-dos-horas-de-madrid >}}.

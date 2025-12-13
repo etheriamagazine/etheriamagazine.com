@@ -183,9 +183,6 @@ Interesante gastronomía.
 
 ### También en Burgos...
 
-{{< reflink 
-path=posts/2021/08/visita-las-canteras-de-hontoria-cubillo-y-la-catedral-de-burgos >}}. 
+{{< reflink visita-las-canteras-de-hontoria-cubillo-y-la-catedral-de-burgos >}}. 
 
-{{< reflink 
-path=posts/2020/12/7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia 
->}}.
+{{< reflink 7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia >}}.

@@ -145,7 +145,6 @@ Más información en [www.godominicanrepublic.com](http://www.godominicanrepubli
 
 📌 **Otros viajes a tener en cuenta:** 
 
-{{< reflink path=posts/2018/05/10-razones-para-visitar-punta-cana-republica-dominicana 
->}} 
+{{< reflink 10-razones-para-visitar-punta-cana-republica-dominicana >}} 
 
-{{< reflink path=posts/2021/08/que-ver-en-las-islas-de-yucatan-mexico >}}.
+{{< reflink que-ver-en-las-islas-de-yucatan-mexico >}}.

@@ -126,8 +126,6 @@ para volver a utilizarlas. Existen varios tamaños y colores.
 
 ## También te puede interesar:
 
-{{< reflink path=posts/2019/10/10-gadgets-frikis-imprescindibles-en-tus-viajes >}} 
+{{< reflink 10-gadgets-frikis-imprescindibles-en-tus-viajes >}} 
 
-{{< reflink 
-path=posts/2020/04/5-consejos-para-hacer-un-album-de-fotos-digital-fotografia-de-viajes 
->}}
+{{< reflink 5-consejos-para-hacer-un-album-de-fotos-digital-fotografia-de-viajes >}}

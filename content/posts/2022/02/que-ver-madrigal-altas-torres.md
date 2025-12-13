@@ -271,8 +271,8 @@ Cristo s/n, edificio Real Hospital). Tel. 920 320 699 / 661 502 613
 
 ✅ **También te puede interesar...** 
 
-{{< reflink path=posts/2021/06/ruta-senderista-acueducto-segovia >}}. 
+{{< reflink ruta-senderista-acueducto-segovia >}}. 
 
-{{< reflink path=posts/2021/02/planes-y-actividades-en-soria-con-ninos >}}. 
+{{< reflink planes-y-actividades-en-soria-con-ninos >}}. 
 
-{{< reflink path=posts/2021/10/recorrido-del-camino-de-hierro-salamanca >}}.
+{{< reflink recorrido-del-camino-de-hierro-salamanca >}}.

@@ -92,5 +92,5 @@ Mapfre**, la opción de Aventura.
 ¿No crees que merece la pena disfrutar del deporte sin otra preocupación que no sean las 
 olas por lo que cuesta una copa al día? 
 
-Si el surf es tu pasión, continúa leyendo este artículo de {{< reflink 
-path=posts/2024/08/escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf >}}.
+Si el surf es tu pasión, continúa leyendo este artículo de [Ericeira, la meca del surf 
+en Portugal]({{% ref escapada-con-amigas-a-lisboa-y-ericeira-portugal-surf %}}).

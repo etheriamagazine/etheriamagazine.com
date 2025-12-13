@@ -378,11 +378,11 @@ evitar en el resto de restaurantes cualquier plato o bebida que pueda contener a
 
 ### Qué llevar
 
-Antes de viajar no olvides consultar nuestro artículo? {{< reflink 
-path=posts/2023/02/que-llevar-en-la-maleta-egipto >}} donde te contamos todo lo que 
-tienes que incluir en tu equipaje. Como resumen de los imprescindibles, no puedes 
-olvidar un botiquín de viaje, crema solar, gorro, gafas de sol y un abanico para ayudar 
-con el calor del interior de las tumbas. 
+Antes de viajar no olvides consultar nuestro artículo? [Una maleta para Egipto]({{% ref 
+que-llevar-en-la-maleta-egipto %}}) donde te contamos todo lo que tienes que incluir en 
+tu equipaje. Como resumen de los imprescindibles, no puedes olvidar un botiquín de 
+viaje, crema solar, gorro, gafas de sol y un abanico para ayudar con el calor del 
+interior de las tumbas. 
 
 ![Poblado nubio en Asuán.](https://fotos.etheriamagazine.com/2023/04/crucero-nilo-asuan-poblado-nubio.jpg "Poblado nubio en Asuán. © Susana García/ Etheria Magazine")
 

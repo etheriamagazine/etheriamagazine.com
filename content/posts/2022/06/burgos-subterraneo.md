@@ -207,8 +207,9 @@ demandado para eventos y conciertos.
 A pocos minutos en coche de esta cantera se sitúa la de El Pozo, que se ha mantenido tal 
 cual estaba cuando era explotada y donde incluso podrás emular a los canteros y tratar 
 de picar roca (no es fácil). Si te apetece conocer más detalles, sigue leyendo este 
-artículo donde te contamos todo lo necesario para hacer la visita: 📍 {{< reflink 
-path=posts/2021/08/visita-las-canteras-de-hontoria-cubillo-y-la-catedral-de-burgos >}}. 
+artículo donde te contamos todo lo necesario para hacer la visita: 📍 [“Canteras de 
+Hontoria, Cubillo y Tornadijo, una visita a los orígenes de la Catedral de Burgos”]({{% 
+ref visita-las-canteras-de-hontoria-cubillo-y-la-catedral-de-burgos %}}). 
 
 📍¿Dónde? Tornadijo, Cubillo del Campo y Hontoria de la Cantera. Reservas en la Web de 
 Patrimonio de la Luz. 
@@ -219,8 +220,7 @@ Si quieres seguir recorriendo Burgos puedes encontrar más ideas en la
 [web](https://turismoburgos.org/) de **Turismo de Burgos** o en los siguientes 
 artículos: 
 
-✅ **{{< reflink 
-path=posts/2020/12/7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia 
+✅ **{{< reflink 7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia 
 >}}** 
 
-✅ **{{< reflink path=posts/2019/06/que-ver-hacer-ruta-merindades-burgos >}}**
+✅ **{{< reflink que-ver-hacer-ruta-merindades-burgos >}}**

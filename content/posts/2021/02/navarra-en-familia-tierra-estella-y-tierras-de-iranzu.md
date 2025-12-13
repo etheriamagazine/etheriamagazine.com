@@ -199,13 +199,10 @@ Dedícales un “¡Buen camino!”.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2024/10/ruta-navarra-bardenas-reales-tudela-escapada-con-amigas 
->}}. 
+{{< reflink ruta-navarra-bardenas-reales-tudela-escapada-con-amigas >}}. 
 
-{{< reflink path=posts/2020/10/que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}. 
+{{< reflink que-rutas-hacer-en-hayedo-de-urbasa-urederra-navarra >}}. 
 
-{{< reflink 
-path=posts/2021/01/ruta-por-los-11-pueblos-elegidos-como-los-mas-bonitos-de-espana-en-2021 
->}}. 
+{{< reflink ruta-por-los-11-pueblos-elegidos-como-los-mas-bonitos-de-espana-en-2021 >}}. 
 
-{{< reflink path=posts/2019/11/que-ver-y-donde-comer-pintxos-con-amigas-en-pamplona >}}.
+{{< reflink que-ver-y-donde-comer-pintxos-con-amigas-en-pamplona >}}.

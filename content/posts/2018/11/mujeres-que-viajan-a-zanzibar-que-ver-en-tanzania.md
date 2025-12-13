@@ -175,8 +175,8 @@ mucho problema para comunicarte en las zonas turísticas.
 
 También te puede interesar... 
 
-{{< reflink path=posts/2019/08/que-ver-hacer-en-archipielago-de-bazaruto-mozambique >}} 
+{{< reflink que-ver-hacer-en-archipielago-de-bazaruto-mozambique >}} 
 
-{{< reflink path=posts/2019/09/que-ver-viaje-mujeres-namibia >}}. 
+{{< reflink que-ver-viaje-mujeres-namibia >}}. 
 
-{{< reflink path=posts/2019/08/5-viajes-para-comenzar-a-conocer-africa >}}.
+{{< reflink 5-viajes-para-comenzar-a-conocer-africa >}}.

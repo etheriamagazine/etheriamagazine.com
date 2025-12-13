@@ -135,10 +135,9 @@ Ibiza](https://www.civitatis.com/es/ibiza-ciudad/free-tour-ibiza/?aid=10211) des
 
 **Sigue leyendo de Ibiza...** 
 
-{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}{{< 
-reflink path=posts/2021/11/planes-viaje-a-ibiza-en-invierno >}}. 
+[]({{% ref viajar-con-amigas-mejores-playas-formentera %}})[Ibiza en invierno también 
+merece una escapada]({{% ref planes-viaje-a-ibiza-en-invierno %}}). 
 
-{{< reflink path=posts/2020/02/20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja 
->}} 
+{{< reflink 20-restaurantes-romanticos-de-ibiza-para-viajes-en-pareja >}} 
 
-{{< reflink path=posts/2022/02/que-ver-en-sant-josep-de-sa-talaia >}}.
+{{< reflink que-ver-en-sant-josep-de-sa-talaia >}}.

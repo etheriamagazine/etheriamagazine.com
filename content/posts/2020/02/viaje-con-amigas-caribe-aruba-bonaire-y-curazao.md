@@ -167,8 +167,8 @@ sorpresa, desde 3 hasta 6 tiempos, y por su idílica ubicación frente al mar.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/02/excursiones-en-riviera-maya-mexico >}} 
+{{< reflink excursiones-en-riviera-maya-mexico >}} 
 
-{{< reflink path=posts/2022/01/viaje-cuba-villa-clara-y-sancti-spiritus >}} 
+{{< reflink viaje-cuba-villa-clara-y-sancti-spiritus >}} 
 
-{{< reflink path=posts/2021/08/que-ver-en-las-islas-de-yucatan-mexico >}}
+{{< reflink que-ver-en-las-islas-de-yucatan-mexico >}}

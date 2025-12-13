@@ -167,11 +167,12 @@ Otro de los lugares imprescindibles del Valle Central de Costa Rica es el **Cerr
 Vista** o Cerro de la Muerte, incrustado en la Cordillera de Talamanca. Desde su cima, a 
 3.451 metros, si el tiempo lo permite se ve tanto la costa del Pacífico como la del 
 Caribe. También es una zona de avistamiento de quetzales en ciertas épocas del año, una 
-preciosa ave de la que te hemos hablado anteriormente, no te pierdas el artículo: “{{< 
-reflink path=posts/2021/12/ruta-quetzal-costa-rica >}}”. Sin duda, el Parque Nacional 
-Quetzales es una cita obligada, al igual que **San Gerardo de Dota**, una pequeña 
-población accesible desde el Cerro de la Muerte donde pernoctar en un entorno selvático 
-y gozar de caminatas tan agradables como la que lleva a las cataratas del río Savegre. 
+preciosa ave de la que te hemos hablado anteriormente, no te pierdas el artículo: 
+“[Costa Rica: de la aventura quetzal a la nouvelle cuisine]({{% ref 
+ruta-quetzal-costa-rica %}})”. Sin duda, el Parque Nacional Quetzales es una cita 
+obligada, al igual que **San Gerardo de Dota**, una pequeña población accesible desde el 
+Cerro de la Muerte donde pernoctar en un entorno selvático y gozar de caminatas tan 
+agradables como la que lleva a las cataratas del río Savegre. 
 
 ![Exuberante vegetación con cascada en el Cerro de la Muerte](https://fotos.etheriamagazine.com/2022/09/cerro-muerte-costa-rica.jpg "Cerro de la Muerte, en el Valle Central de Costa Rica. © Turismo de Costa Rica")
 
@@ -247,6 +248,6 @@ Más información en [Turismo de Costa Rica](https://www.visitcostarica.com/).
 
 ### Más propuestas en Costa Rica
 
-{{< reflink path=posts/2022/08/que-ver-sarapiqui-costa-rica >}}. 
+{{< reflink que-ver-sarapiqui-costa-rica >}}. 
 
-{{< reflink path=posts/2022/07/que-ver-peninsula-nicoya-costa-rica >}}.
+{{< reflink que-ver-peninsula-nicoya-costa-rica >}}.

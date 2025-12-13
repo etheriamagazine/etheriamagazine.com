@@ -182,9 +182,9 @@ Ifrane** (entre Azrou e Ifrane) donde podrás ver un sorprendente bosque de cedr
 centenarios declarados **Patrimonio de la Humanidad** por la Unesco. Algunos de estos 
 **cedros del Atlas** tienen más de 800 años, pero ¡ojo! no te despistes mirando al cielo 
 porque algún macaco te puede dar un susto. Aquí viven unos monos de **Berbería** (si has 
-visitado {{< reflink path=posts/2018/05/gibraltar-una-escapada-en-familia >}} sabes de 
-los que hablamos), que son inofensivos pero están malacostumbrados a las chucherías de 
-los turistas. 
+visitado [Gibraltar]({{% ref gibraltar-una-escapada-en-familia %}}) sabes de los que 
+hablamos), que son inofensivos pero están malacostumbrados a las chucherías de los 
+turistas. 
 
 Continúa viaje hasta Ifrane y prepárate para la sorpresa. Esta ciudad de aspecto alpino 
 fue fundada en 1929 gracias a un capricho francés. Allí encontrarás chalets, villas, 
@@ -206,11 +206,10 @@ aéreas ofrecen vuelos directos. Consulta las tarifas de
 
 En Fez hay hoteles de todo tipo, un 4 estrellas interesante es el [Barceló Fès 
 Medina](https://www.barcelo.com/es-es/barcelo-fes-medina/), situado en Ville Nouvelle, y 
-también algunos riads como el de la {{< reflink 
-path=posts/2021/02/najat-libro-cocina-marroqui-chef-najat-kaanache >}}, donde también 
-podras vivir una increíble experiencia gastronómica en su restaurante 
-[Nur](http://nurfez.com/). Anímate a hacer un taller de cocina con la que es considerada 
-la mejor chef de África. 
+también algunos riads como el de la [chef Najat Kaanache]({{% ref 
+najat-libro-cocina-marroqui-chef-najat-kaanache %}}), donde también podras vivir una 
+increíble experiencia gastronómica en su restaurante [Nur](http://nurfez.com/). Anímate 
+a hacer un taller de cocina con la que es considerada la mejor chef de África. 
 
 ##### ¿Cuál es el idioma que se habla en Fez (Marruecos)?
 
@@ -239,7 +238,6 @@ euros.
 
 ## También en Marruecos...
 
-{{< reflink path=posts/2020/04/viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas 
->}}. 
+{{< reflink viaje-amigas-marruecos-celebra-la-vida-en-el-alto-atlas >}}. 
 
-{{< reflink path=posts/2018/12/viaje-de-amigas-a-marrakech >}}.
+{{< reflink viaje-de-amigas-a-marrakech >}}.

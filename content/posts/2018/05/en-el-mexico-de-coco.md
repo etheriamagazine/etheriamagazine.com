@@ -114,8 +114,8 @@ reside en Los Ángeles).
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/03/mejores-yacimientos-arqueologicos-mexico >}} 
+{{< reflink mejores-yacimientos-arqueologicos-mexico >}} 
 
-{{< reflink path=posts/2021/08/que-ver-en-las-islas-de-yucatan-mexico >}} 
+{{< reflink que-ver-en-las-islas-de-yucatan-mexico >}} 
 
-{{< reflink path=posts/2020/03/viajes-sin-salir-de-casa-destinos-cine-y-series >}}
+{{< reflink viajes-sin-salir-de-casa-destinos-cine-y-series >}}

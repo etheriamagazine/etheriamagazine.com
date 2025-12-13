@@ -165,8 +165,8 @@ digan a su croquetas con nigiri… Por qué nos gusta: porque **la cena se convi
 sorpresa**, en un eje más de la conversación (no puedes dejar de comentar cada plato) y 
 por su excelente relación calidad/precio. 
 
-{{< reflink path=posts/2018/05/cenar-con-amigas-en-taberna-arallo-madrid >}}: calle 
-Reina, 31. Tel. 690 673 796. Precio medio: 25-35 Euros. 
+[Arallo Taberna]({{% ref cenar-con-amigas-en-taberna-arallo-madrid %}}): calle Reina, 
+31. Tel. 690 673 796. Precio medio: 25-35 Euros. 
 
 ![ricas empanadas de la taberna arallo de madrid](https://fotos.etheriamagazine.com/2018/10/Taberna-Arallo-1.jpg "Empanadas en Arallo Taberna. ©Arallo Taberna.")
 
@@ -187,8 +187,8 @@ a 16 horas), 24 Euros. Precio cena de carta: 30 a 40 Euros.
 
 ### Más planes con amigas en Madrid
 
-{{< reflink path=posts/2019/10/10-mejores-coctelerias-de-madrid-salir-con-amigas >}} 
+{{< reflink 10-mejores-coctelerias-de-madrid-salir-con-amigas >}} 
 
-{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}. 
+{{< reflink 10-planes-originales-en-madrid-con-amigas >}}. 
 
-{{< reflink path=posts/2022/01/restaurantes-peruanos-en-madrid-de-jhosef-arias >}}.
+{{< reflink restaurantes-peruanos-en-madrid-de-jhosef-arias >}}.

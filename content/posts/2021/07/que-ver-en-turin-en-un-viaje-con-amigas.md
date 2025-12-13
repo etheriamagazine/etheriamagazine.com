@@ -214,8 +214,8 @@ comidas, alojamiento y traslados, consulta en este enlace:
 
 **Otros viajes en Italia** 
 
-{{< reflink path=posts/2018/12/que-ver-en-milan-en-48-horas >}} 
+{{< reflink que-ver-en-milan-en-48-horas >}} 
 
-{{< reflink path=posts/2018/05/48-horas-en-florencia-fin-de-semana-que-ver-hacer >}} 
+{{< reflink 48-horas-en-florencia-fin-de-semana-que-ver-hacer >}} 
 
-{{< reflink path=posts/2019/11/que-ver-hacer-viaje-romantico-apulia-italia >}}
+{{< reflink que-ver-hacer-viaje-romantico-apulia-italia >}}

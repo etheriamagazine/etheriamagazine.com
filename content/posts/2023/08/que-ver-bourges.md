@@ -153,8 +153,8 @@ través de varios recorridos interactivos. Y por si no lo sabías, también form
 
 También te puede interesar... 
 
-{{< reflink path=posts/2019/03/que-ver-ruta-en-coche-valle-del-loira >}}. 
+{{< reflink que-ver-ruta-en-coche-valle-del-loira >}}. 
 
-{{< reflink path=posts/2021/08/valle-del-loira-entre-castillos-y-jardines >}}. 
+{{< reflink valle-del-loira-entre-castillos-y-jardines >}}. 
 
-{{< reflink path=posts/2023/07/nantes-y-excursiones-esenciales >}}.
+{{< reflink nantes-y-excursiones-esenciales >}}.

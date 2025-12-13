@@ -119,6 +119,6 @@ Jorge Arévalo diseñado para esta ocasión. Calle Lope de Vega, 31.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2024/01/museos-de-paris-segunda-visita >}} 
+{{< reflink museos-de-paris-segunda-visita >}} 
 
-{{< reflink path=posts/2023/06/planes-paris-con-amigas >}}
+{{< reflink planes-paris-con-amigas >}}

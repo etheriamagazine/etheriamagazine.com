@@ -197,8 +197,8 @@ tanto, el test Bechdel nos mantiene alertas. Y, tú, esa película que vas a ir 
 
 #### También te puede interesar...
 
-{{< reflink path=posts/2019/12/ruta-gastronomica-de-foodie-love-hbo-espana >}} 
+{{< reflink ruta-gastronomica-de-foodie-love-hbo-espana >}} 
 
-{{< reflink path=posts/2019/08/viajes-cine-peliculas-rodadas-en-jordania >}} 
+{{< reflink viajes-cine-peliculas-rodadas-en-jordania >}} 
 
-{{< reflink path=posts/2019/06/viajes-cine-malta-hollywood-mediterraneo >}}
+{{< reflink viajes-cine-malta-hollywood-mediterraneo >}}

@@ -96,9 +96,8 @@ Fotos: © Iberostar Hotels.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2018/10/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia 
->}}. 
+{{< reflink 10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia >}}. 
 
-{{< reflink path=posts/2020/04/que-ver-hacer-en-2-3-dias-zagreb-croacia >}}. 
+{{< reflink que-ver-hacer-en-2-3-dias-zagreb-croacia >}}. 
 
-{{< reflink path=posts/2020/08/que-ver-hacer-sibenik-parque-krka >}}.
+{{< reflink que-ver-hacer-sibenik-parque-krka >}}.

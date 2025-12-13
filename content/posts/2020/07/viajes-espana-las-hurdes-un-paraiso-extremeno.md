@@ -31,9 +31,9 @@ dudamos en poner tierra de por medio, ¿por qué nos cuesta entonces reparar en 
 paraísos cercanos? Ahora ya no hay excusa que valga, nos vamos a **Las Hurdes**. 
 
 Situada al norte de la Comunidad Autónoma de **Extremadura**, en la provincia de 
-**Cáceres**, esta comarca está acotada al norte por {{< reflink 
-path=posts/2021/08/plan-con-amigas-ruta-del-vino-sierra-de-francia >}}, con la de Gata 
-al sureste y al sur con el valle del Alagón y Trasierra. Nos encontramos ante un paisaje 
+**Cáceres**, esta comarca está acotada al norte por [la salmantina sierra de 
+Francia]({{% ref plan-con-amigas-ruta-del-vino-sierra-de-francia %}}), con la de Gata al 
+sureste y al sur con el valle del Alagón y Trasierra. Nos encontramos ante un paisaje 
 eminentemente montañoso que da forma a un conjunto orográfico troquelado por ríos, 
 piscinas naturales y reservados pueblos de arquitectura ancestral. 
 
@@ -228,8 +228,8 @@ at Forest** (bikesatforest.com) expertos en Turismo Activo.
 
 **También en Extremadura...** 
 
-{{< reflink path=posts/2021/09/10-motivos-para-viajar-a-la-siberia-extremena >}}. 
+{{< reflink 10-motivos-para-viajar-a-la-siberia-extremena >}}. 
 
-{{< reflink path=posts/2019/10/donde-comer-que-ver-hacer-viaje-norte-de-extremadura >}}. 
+{{< reflink donde-comer-que-ver-hacer-viaje-norte-de-extremadura >}}. 
 
-{{< reflink path=posts/2021/07/toledo-ciudad-mas-feliz-en-instagram >}}.
+{{< reflink toledo-ciudad-mas-feliz-en-instagram >}}.

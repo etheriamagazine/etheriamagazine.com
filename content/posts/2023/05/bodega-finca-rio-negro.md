@@ -182,15 +182,15 @@ especializadas en la venta de vino. Los **precios** van de los 11,50 Euros del 9
 #### ¿Cómo completar una visita a la bodega Finca Río Negro?
 
 Se puede parar en Cogolludo para ver su plaza, con el Palacio de los Duques de 
-Medinaceli. Otra muy buena opción es acercarse a {{< reflink 
-path=posts/2020/12/que-ver-donde-comer-en-siguenza >}} (a 60 km) y alojarse en el 
-**maravilloso Molino de Alcuneza**, que cuenta con un restaurante con una estrella 
-Michelin que dirige el chef Samuel Moreno. 
+Medinaceli. Otra muy buena opción es acercarse a [Sigüenza]({{% ref 
+que-ver-donde-comer-en-siguenza %}}) (a 60 km) y alojarse en el **maravilloso Molino de 
+Alcuneza**, que cuenta con un restaurante con una estrella Michelin que dirige el chef 
+Samuel Moreno. 
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/05/ruta-en-coche-pueblos-negros-guadalajara >}} 
+{{< reflink ruta-en-coche-pueblos-negros-guadalajara >}} 
 
-{{< reflink path=posts/2023/04/ruta-del-vino-de-arribes >}} 
+{{< reflink ruta-del-vino-de-arribes >}} 
 
-{{< reflink path=posts/2022/09/planes-en-ruta-vino-toro >}}
+{{< reflink planes-en-ruta-vino-toro >}}

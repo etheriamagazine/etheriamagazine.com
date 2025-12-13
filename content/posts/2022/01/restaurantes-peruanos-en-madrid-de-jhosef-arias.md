@@ -197,9 +197,8 @@ para ir con amigas lo tengas un poquito más claro.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/10/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias 
->}}. 
+{{< reflink ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias >}}. 
 
-{{< reflink path=posts/2019/10/10-mejores-coctelerias-de-madrid-salir-con-amigas >}}. 
+{{< reflink 10-mejores-coctelerias-de-madrid-salir-con-amigas >}}. 
 
-{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}.
+{{< reflink 10-planes-originales-en-madrid-con-amigas >}}.

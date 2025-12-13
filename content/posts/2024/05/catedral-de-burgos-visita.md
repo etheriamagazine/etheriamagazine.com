@@ -194,8 +194,8 @@ de 10 a 18 horas.
 
 **T**ambién en Etheria Magazine**:** 
 
-{{< reflink path=posts/2022/01/que-ver-en-catedral-de-toledo >}} 
+{{< reflink que-ver-en-catedral-de-toledo >}} 
 
-{{< reflink path=posts/2024/02/visita-de-la-catedral-de-pamplona-exposicion-occidens >}} 
+{{< reflink visita-de-la-catedral-de-pamplona-exposicion-occidens >}} 
 
-{{< reflink path=posts/2022/08/que-ver-mezquita-cordoba >}}
+{{< reflink que-ver-mezquita-cordoba >}}

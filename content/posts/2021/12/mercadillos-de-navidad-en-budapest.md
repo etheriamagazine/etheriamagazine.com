@@ -148,9 +148,9 @@ las ‘**bath parties**’ porque esa puede ser LA FIESTA que siempre recordará
 Tanto si es tu primer viaje a Budapest como si eres una orgullosa repetidora, siempre es 
 un placer recorrer las dos partes de la ciudad separadas por el Danubio: Buda, que se 
 eleva sobre una colina, elegante y monumental; y Pest, situada al otro lado del río, 
-siempre vital y animada. En este artículo ({{< reflink 
-path=posts/2019/10/que-ver-viaje-amigas-budapest-en-3-dias >}}) encontrarás los 
-esenciales para un fin de semana. 
+siempre vital y animada. En este artículo ([Qué ver en Budapest en 3 días]({{% ref 
+que-ver-viaje-amigas-budapest-en-3-dias %}})) encontrarás los esenciales para un fin de 
+semana. 
 
 Entre las visitas de Pest que te gustarán están el **Parlamento**, uno de los más bellos 
 y de mayor tamaño de Europa, que cuenta con visitas guiadas en español; el **Barrio 
@@ -238,8 +238,8 @@ Otras opciones que también te encantarán son el **Café Gerbeaud** (gerbeaud.h
 1858, en la plaza de Vörösmarty, que sirve uno de los mejores cafés de la ciudad; y el 
 **Matild Café and Cabaret**, inaugurado originalmente en 1901 y que fue el primero en 
 reabrir tras la 2ª Guerra Mundial. Te fascinará su ambiente y el palacio que lo alberga 
-(ahora convertido en el hotel {{< reflink 
-path=posts/2021/08/hotel-de-lujo-en-budapest-matild-palace >}}). 
+(ahora convertido en el hotel [Matild Palace]({{% ref 
+hotel-de-lujo-en-budapest-matild-palace %}})). 
 
 ![Szentendre excursion navidad en budapest](https://fotos.etheriamagazine.com/2021/12/szentendre-excursion-budapest.jpg "Calle y artesanía de Szentendre. © Pepa García")
 
@@ -268,10 +268,8 @@ Puedes encontrar más ideas en [Turismo de Hungría](https://visithungary.com/es
 
 **También te puede interesar...** 
 
-{{< reflink 
-path=posts/2021/10/10-ciudades-con-mercadillos-para-contagiarse-del-espiritu-navideno 
->}}. 
+{{< reflink 10-ciudades-con-mercadillos-para-contagiarse-del-espiritu-navideno >}}. 
 
-{{< reflink path=posts/2020/11/navidad-en-republica-checa-mercadillos >}}. 
+{{< reflink navidad-en-republica-checa-mercadillos >}}. 
 
-{{< reflink path=posts/2019/11/5-razones-para-visitar-polonia-en-navidad >}}.
+{{< reflink 5-razones-para-visitar-polonia-en-navidad >}}.

@@ -202,8 +202,8 @@ Kerala](http://www.keralatourism.org/spanish/)
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}} 
+{{< reflink viaje-para-mujeres-que-ver-norte-india-rajastan >}} 
 
-{{< reflink path=posts/2020/04/la-pasion-india-de-anita-delgado-libros-viajes >}} 
+{{< reflink la-pasion-india-de-anita-delgado-libros-viajes >}} 
 
-{{< reflink path=posts/2018/10/viajar-sola-o-con-amigas-a-india >}}
+{{< reflink viajar-sola-o-con-amigas-a-india >}}

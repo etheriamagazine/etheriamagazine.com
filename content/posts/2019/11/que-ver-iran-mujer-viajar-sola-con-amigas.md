@@ -232,9 +232,8 @@ las que un musulmán debe peregrinar al menos una vez en su vida.
 
 📌 **También te puede interesar:** 
 
-{{< reflink 
-path=posts/2020/12/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}} 
+{{< reflink jordania-visitas-imprescindibles-y-consejos-si-viajas-sola >}} 
 
-{{< reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}} 
+{{< reflink viaje-para-mujeres-que-ver-norte-india-rajastan >}} 
 
-{{< reflink path=posts/2019/02/que-ver-georgia >}}
+{{< reflink que-ver-georgia >}}

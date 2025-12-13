@@ -91,10 +91,10 @@ isla, esa que se caracteriza por muros de piedra volcánica y que conserva sus v
 madera originarias procedentes, en su mayor parte, de barcos antiguos. 
 
 Para acabar la visita a El Grifo —cuyo símbolo, por cierto, fue diseñado por el 
-mismísimo {{< reflink path=posts/2019/09/cesar-manrique-ruta-en-lanzarote >}}—, nada 
-como catar el producto: bien en su coqueta sala, bien en su acogedora terraza, podemos 
-probar algunos de sus vinos más emblemáticos acompañados, además, por quesos típicos de 
-la tierra. 
+mismísimo [César Manrique]({{% ref cesar-manrique-ruta-en-lanzarote %}})—, nada como 
+catar el producto: bien en su coqueta sala, bien en su acogedora terraza, podemos probar 
+algunos de sus vinos más emblemáticos acompañados, además, por quesos típicos de la 
+tierra. 
 
 ![la geria, Lanzarote, vinos](https://fotos.etheriamagazine.com/2020/07/Paisaje-La-Geria-lanzarote.jpg "Curioso paisaje de La Geria.")
 
@@ -215,8 +215,8 @@ solitario o con amigas.
 
 ### También en Etheria Magazine
 
-{{< reflink path=posts/2020/06/viajar-sola-amigas-imprescindible-lanzarote >}}. 
+{{< reflink viajar-sola-amigas-imprescindible-lanzarote >}}. 
 
-{{< reflink path=posts/2019/09/cesar-manrique-ruta-en-lanzarote >}}. 
+{{< reflink cesar-manrique-ruta-en-lanzarote >}}. 
 
-{{< reflink path=posts/2021/03/planes-en-fuerteventura-con-amigas >}}.
+{{< reflink planes-en-fuerteventura-con-amigas >}}.

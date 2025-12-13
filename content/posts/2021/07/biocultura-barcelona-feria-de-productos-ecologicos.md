@@ -71,9 +71,8 @@ venta[.](https://entradas.biocultura.org/bioculturabarcelona2021)
 
 ### También te puede interesar
 
-{{< reflink path=posts/2021/04/ansioliticos-y-antidepresivos-no-resuelven-los-problemas 
->}} 
+{{< reflink ansioliticos-y-antidepresivos-no-resuelven-los-problemas >}} 
 
-{{< reflink path=posts/2021/06/metoo-yogui-denuncias-del-abuso-en-yoga >}}. 
+{{< reflink metoo-yogui-denuncias-del-abuso-en-yoga >}}. 
 
-{{< reflink path=posts/2021/05/menstruacion-tabu-estigma-para-ninas-mundo >}}.
+{{< reflink menstruacion-tabu-estigma-para-ninas-mundo >}}.

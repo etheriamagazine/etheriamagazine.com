@@ -416,8 +416,8 @@ que regalan un recorrido turístico de bienvenida a elegir entre varias visitas.
 
 **Además de planes familiares en Getxo también puedes...** 
 
-{{< reflink path=posts/2023/03/que-donde-comer-getxo >}}. 
+{{< reflink que-donde-comer-getxo >}}. 
 
-{{< reflink path=posts/2022/10/que-ver-en-getxo >}}. 
+{{< reflink que-ver-en-getxo >}}. 
 
-{{< reflink path=posts/2022/07/que-ver-getxo-visitas-marineras >}}.
+{{< reflink que-ver-getxo-visitas-marineras >}}.

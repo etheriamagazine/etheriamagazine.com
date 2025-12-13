@@ -197,8 +197,8 @@ conducir en el Autódromo (info@modenatur.it).
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/06/viaje-con-amigas-a-bolonia >}} 
+{{< reflink viaje-con-amigas-a-bolonia >}} 
 
-{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}} 
+{{< reflink que-ver-en-turin-en-un-viaje-con-amigas >}} 
 
-{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}
+{{< reflink paseos-por-los-jardines-mas-bellos-de-florencia >}}

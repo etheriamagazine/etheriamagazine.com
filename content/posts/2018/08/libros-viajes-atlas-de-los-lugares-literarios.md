@@ -80,7 +80,6 @@ Oliver. Ilustraciones: Julio Fuentes. Editorial: Montena. Precio: Versión Kindl
 
 **También te puede interesar...** 
 
-{{< reflink 
-path=posts/2021/03/organizar-viaje-a-egipto-y-documentar-con-libros-peliculas >}}. 
+{{< reflink organizar-viaje-a-egipto-y-documentar-con-libros-peliculas >}}. 
 
-{{< reflink path=posts/2021/02/najat-libro-cocina-marroqui-chef-najat-kaanache >}}.
+{{< reflink najat-libro-cocina-marroqui-chef-najat-kaanache >}}.

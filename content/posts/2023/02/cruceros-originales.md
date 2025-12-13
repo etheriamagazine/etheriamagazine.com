@@ -70,8 +70,8 @@ cubierta, el viaje quedará como un recuerdo imborrable.
 
 ![Barco de Navimag por los fiordos chilenos.](https://fotos.etheriamagazine.com/2023/02/Cruceros-originales-Navimag.jpg "Barco de © Navimag por los fiordos chilenos.")
 
-📍Infórmate en {{< reflink 
-path=posts/2019/03/viajar-sola-crucero-fiordos-canales-patagonia-chile >}} 
+📍Infórmate en [Crucero por los fiordos y canales de la Patagonia chilena]({{% ref 
+viajar-sola-crucero-fiordos-canales-patagonia-chile %}}) 
 
 ## Crucero por Alaska
 
@@ -103,8 +103,8 @@ de la isla desde su salón panorámico.
 
 ![Barco MS Maud de Hurtigruten](https://fotos.etheriamagazine.com/2023/02/cruceros-originales-maud-hurtigruten.jpg "Barco de © Hurtigruten por Islandia.")
 
-📍Te lo contamos en este artículo: {{< reflink path=posts/2023/01/hurtigruten-islandia 
->}} 
+📍Te lo contamos en este artículo: [‘Círculo de hielo y fuego’, conoce la nueva ruta del 
+Hurtigruten en Islandia]({{% ref hurtigruten-islandia %}}) 
 
 ## Crucero por Seychelles
 
@@ -143,8 +143,9 @@ camarotes dobles), por lo que la experiencia a bordo se personaliza al máximo y
 pueden elegir actividades complementarias que van desde sesiones de yoga por la mañana 
 hasta clases de cocina local. 
 
-📍Puedes conocer nuestra experiencia en el barco en este artículo: {{< reflink 
-path=posts/2019/09/crucero-por-el-mekong-excursiones-vietnam-y-camboya >}} 
+📍Puedes conocer nuestra experiencia en el barco en este artículo: [Crucero por el 
+Mekong. Vietnam y Camboya a través del río de la vida]({{% ref 
+crucero-por-el-mekong-excursiones-vietnam-y-camboya %}}) 
 
 ## Cruceros por Oriente Medio
 
@@ -196,6 +197,6 @@ en la agencia **Mundomar** (mundomarcruceros.com).
 
 📌 **Además de cruceros originales también te puede interesar...** 
 
-{{< reflink path=posts/2021/02/como-organizar-viaje-en-crucero-puertos-excursiones >}} 
+{{< reflink como-organizar-viaje-en-crucero-puertos-excursiones >}} 
 
-{{< reflink path=posts/2018/11/una-maleta-para-un-crucero >}}
+{{< reflink una-maleta-para-un-crucero >}}

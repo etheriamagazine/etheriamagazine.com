@@ -146,6 +146,6 @@ Fotos: Film Jamaica y Jamaica Tourism Board.
 
 ### Además del turismo de cine en Jamaica...
 
-{{< reflink path=posts/2020/03/viajes-sin-salir-de-casa-destinos-cine-y-series >}} 
+{{< reflink viajes-sin-salir-de-casa-destinos-cine-y-series >}} 
 
-{{< reflink path=posts/2019/06/viajes-cine-malta-hollywood-mediterraneo >}}
+{{< reflink viajes-cine-malta-hollywood-mediterraneo >}}

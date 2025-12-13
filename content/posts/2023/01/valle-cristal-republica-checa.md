@@ -191,7 +191,6 @@ despedirte desde allí de estas tierras de Bohemia del Norte.
 
 ✅ **También te puede interesar...** 
 
-{{< reflink path=posts/2022/08/que-ver-brno-chequia >}}. 
+{{< reflink que-ver-brno-chequia >}}. 
 
-{{< reflink 
-path=posts/2021/08/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy >}}.
+{{< reflink balnearios-republica-checa-karlovy-vary-marianske-frantiskovy >}}.

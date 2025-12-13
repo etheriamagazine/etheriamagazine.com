@@ -249,9 +249,8 @@ entrar a todos los espacios del distrito. Se puede reservar en su
 
 ### También en Etheria Magazine
 
-{{< reflink path=posts/2020/05/viajar-sola-amigas-a-oporto-12-visitas-imprescindibles 
->}}. 
+{{< reflink viajar-sola-amigas-a-oporto-12-visitas-imprescindibles >}}. 
 
-{{< reflink path=posts/2020/01/viaje-con-amigas-que-ver-en-coimbra >}}. 
+{{< reflink viaje-con-amigas-que-ver-en-coimbra >}}. 
 
-{{< reflink path=posts/2020/07/10-viajes-a-portugal-familia-amigas >}}
+{{< reflink 10-viajes-a-portugal-familia-amigas >}}

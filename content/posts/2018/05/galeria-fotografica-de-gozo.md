@@ -27,8 +27,8 @@ que te alojes en agroturismos para disfrutar realmente del ambiente de la isla y
 contacto con la población local. El viaje puede continuar en la isla de Malta, de mayor 
 tamaño y con un patrimonio cultural muy rico. Seguro que ya has visto algunos de sus 
 paisajes y no has sido consciente de ello. Si le echas un vistazo a este artículo lo 
-puedes comprobar ({{< reflink 
-path=posts/2019/06/viajes-cine-malta-hollywood-mediterraneo >}}). 
+puedes comprobar ([Malta, el Hollywood del Mediterráneo]({{% ref 
+viajes-cine-malta-hollywood-mediterraneo %}})). 
 
 ## 1\. Gruta de Calipso
 
@@ -72,4 +72,4 @@ path=posts/2019/06/viajes-cine-malta-hollywood-mediterraneo >}}).
 
 **Sigue leyendo cómo organizar y qué ver en Gozo...** 
 
-{{< reflink path=posts/2021/04/que-ver-hacer-gozo-malta >}}
+{{< reflink que-ver-hacer-gozo-malta >}}

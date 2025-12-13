@@ -187,8 +187,8 @@ mantiene constante a 14 grados.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/11/que-ver-iran-mujer-viajar-sola-con-amigas >}}. 
+{{< reflink que-ver-iran-mujer-viajar-sola-con-amigas >}}. 
 
-{{< reflink path=posts/2018/11/botsuana-10-razones-para-sentirte-la-reina-de-africa >}}. 
+{{< reflink botsuana-10-razones-para-sentirte-la-reina-de-africa >}}. 
 
-{{< reflink path=posts/2020/03/10-paisajes-para-evadirte-desde-tu-casa >}}
+{{< reflink 10-paisajes-para-evadirte-desde-tu-casa >}}

@@ -101,6 +101,6 @@ Puedes encontrar más información de estos pueblos en la web de [Sierra del Rin
 
 ## Sigue leyendo...
 
-#####  • {{< reflink path=posts/2020/05/15-escapadas-a-menos-de-99-km-de-madrid >}}.
+#####  • [15 escapadas a menos de 99 km de Madrid]({{% ref 15-escapadas-a-menos-de-99-km-de-madrid %}}).
 
-##### • {{< reflink path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}}.
+##### • [11 escapadas de un día a 100 km o más de Madrid]({{% ref 11-escapadas-cercanas-a-dos-horas-de-madrid %}}).

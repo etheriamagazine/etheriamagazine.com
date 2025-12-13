@@ -212,9 +212,8 @@ las debidas precauciones en Sligo al igual que en cualquier ciudad española.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/03/viaje-sola-con-amigas-que-ver-en-dublin >}} 
+{{< reflink viaje-sola-con-amigas-que-ver-en-dublin >}} 
 
-{{< reflink path=posts/2023/07/mejores-playas-irlanda >}} 
+{{< reflink mejores-playas-irlanda >}} 
 
-{{< reflink 
-path=posts/2019/09/como-organizar-excursion-precio-islas-skellig-michael-irlanda >}}
+{{< reflink como-organizar-excursion-precio-islas-skellig-michael-irlanda >}}

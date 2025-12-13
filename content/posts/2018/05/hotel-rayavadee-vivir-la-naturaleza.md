@@ -101,9 +101,8 @@ minutos. La única forma de llegar al hotel es por agua.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2018/06/viaje-parejas-mar-de-andaman >}} 
+{{< reflink viaje-parejas-mar-de-andaman >}} 
 
-{{< reflink path=posts/2021/01/chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual 
->}} 
+{{< reflink chiang-mai-explora-en-3-dias-la-tailandia-mas-espiritual >}} 
 
-{{< reflink path=posts/2020/01/que-llevar-en-maleta-viaje-tailandia >}}
+{{< reflink que-llevar-en-maleta-viaje-tailandia >}}

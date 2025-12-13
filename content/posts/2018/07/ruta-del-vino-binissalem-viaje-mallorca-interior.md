@@ -177,8 +177,8 @@ Más información en Turismo de Mallorca.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/08/cuevas-de-mallorca-con-ninos >}} 
+{{< reflink cuevas-de-mallorca-con-ninos >}} 
 
-{{< reflink path=posts/2018/05/mallorca-de-la-mano-de-george-sand >}} 
+{{< reflink mallorca-de-la-mano-de-george-sand >}} 
 
-{{< reflink path=posts/2021/06/planes-y-excursiones-desde-palma-mallorca-con-amigas >}}
+{{< reflink planes-y-excursiones-desde-palma-mallorca-con-amigas >}}

@@ -81,9 +81,10 @@ la Mancha de cuyo nombre nos hemos olvidado, _Teatro sobre ruedas_ continúa la 
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/08/lee-krasner-inspira-el-color-de-tu-nombre >}}. 
+{{< reflink lee-krasner-inspira-el-color-de-tu-nombre >}}. 
 
-{{< reflink path=posts/2021/08/productos-gastronomia-leon >}}{{< reflink 
-path=posts/2021/03/libro-nietas-de-la-memoria-historias-mujeres-en-posguerra >}}. 
+[]({{% ref productos-gastronomia-leon %}})[‘Nietas de la memoria’: 13 relatos de abuelas 
+anónimas y luchadoras para inspirarnos]({{% ref 
+libro-nietas-de-la-memoria-historias-mujeres-en-posguerra %}}). 
 
-{{< reflink path=posts/2021/02/biografia-y-ruta-frida-kahlo-mexico >}}.
+{{< reflink biografia-y-ruta-frida-kahlo-mexico >}}.

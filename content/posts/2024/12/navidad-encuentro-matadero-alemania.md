@@ -84,6 +84,6 @@ completa](https://www.mataderomadrid.org/programacion/madrid-navidad-de-encuentr
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2020/11/alemania-en-navidad-tradiciones-y-adviento >}}. 
+{{< reflink alemania-en-navidad-tradiciones-y-adviento >}}. 
 
-{{< reflink path=posts/2020/12/experiencias-navidenas-alemania >}}.
+{{< reflink experiencias-navidenas-alemania >}}.

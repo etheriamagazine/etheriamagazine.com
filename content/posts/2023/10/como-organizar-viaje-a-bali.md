@@ -189,12 +189,13 @@ más de un viaje al año.
 ## Qué llevar en la maleta a Bali
 
 Para que no te falte de nada cuando viajas a Bali, en Etheria Magazine le hemos dedicado 
-un artículo a {{< reflink path=posts/2023/06/que-llevar-maleta-viaje-bali >}}, con 
-consejos sobre vestuario, calzado, accesorios, complementos, botiquín o guías de viaje 
-recomendadas. Te será muy útil echarle un vistazo antes de viajar. 
+un artículo a [Qué llevar en la maleta en un viaje a Bali]({{% ref 
+que-llevar-maleta-viaje-bali %}}), con consejos sobre vestuario, calzado, accesorios, 
+complementos, botiquín o guías de viaje recomendadas. Te será muy útil echarle un 
+vistazo antes de viajar. 
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/07/fotos-bali-instagram-tiktok >}} 
+{{< reflink fotos-bali-instagram-tiktok >}} 
 
-{{< reflink path=posts/2019/07/luna-miel-bali-maldicion-ruptura >}}
+[Si quieres a tu pareja no viajes a Bali]({{% ref luna-miel-bali-maldicion-ruptura %}})

@@ -21,12 +21,12 @@ interesante este año.
 
 ## 1\. 'Vive Corea', para amigas viajeras
 
-{{< reflink path=posts/2021/01/que-ver-hacer-en-corea-del-sur >}} ha pasado de ser un 
-destino desconocido a convertirse en uno de los más codiciados gracias a la música y al 
-cine. Si tienes interés en conocer en profundidad su historia, cultura, lugares 
-imprescindibles, curiosidades sociales y muchos otros datos, no dejes de consultar _Vive 
-Corea_. Esta obra, escrita por Soo Kim, no sólo es una lectura agradable sino que cuenta 
-con fotografías e ilustraciones que lo convierten en un regalo idóneo para viajeras 
+[Corea del Sur]({{% ref que-ver-hacer-en-corea-del-sur %}}) ha pasado de ser un destino 
+desconocido a convertirse en uno de los más codiciados gracias a la música y al cine. Si 
+tienes interés en conocer en profundidad su historia, cultura, lugares imprescindibles, 
+curiosidades sociales y muchos otros datos, no dejes de consultar _Vive Corea_. Esta 
+obra, escrita por Soo Kim, no sólo es una lectura agradable sino que cuenta con 
+fotografías e ilustraciones que lo convierten en un regalo idóneo para viajeras 
 empedernidas. Si en lugar de Corea, te atrae más el país nipón también puedes optar por 
 ‘[Japón en imágenes](https://amzn.to/32P03Jx)’, con datos curiosos y numerosas 
 fotografías. 
@@ -135,10 +135,10 @@ La autora de esta obra, Manena Munar, nos lleva a Filipinas, país donde residi�
 muchos años, para sacar a la luz las hazañas de veinte mujeres. Por distintas 
 circunstancias y debido al azar del destino, todas ellas recalaron en el país de las 
 siete mil islas y pusieron su granito de arena para crear proyectos con los que mejorar 
-la vida de las mujeres y de la población local filipina en general. Puedes leer la {{< 
-reflink 
-path=posts/2020/12/todos-los-caminos-llevan-a-filipinas-un-libro-de-mujeres-extraordinarias 
->}}. 
+la vida de las mujeres y de la población local filipina en general. Puedes leer la 
+[entrevista a la autora en ‘Todos los caminos llevan a Filipinas. Un libro de mujeres 
+extraordinarias’]({{% ref 
+todos-los-caminos-llevan-a-filipinas-un-libro-de-mujeres-extraordinarias %}}). 
 
 Editado por Casiopea. 
 

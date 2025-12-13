@@ -206,9 +206,8 @@ información sobre muchos destinos de aventura.
 
 ### También en África
 
-{{< reflink path=posts/2022/05/mdjemafrica-viajes-mujeres-baile >}}. 
+{{< reflink mdjemafrica-viajes-mujeres-baile >}}. 
 
-{{< reflink 
-path=posts/2020/10/final-real-memorias-de-africa-baronesa-blixen-beryl-markham >}}. 
+{{< reflink final-real-memorias-de-africa-baronesa-blixen-beryl-markham >}}. 
 
-{{< reflink path=posts/2019/08/5-viajes-para-comenzar-a-conocer-africa >}}
+{{< reflink 5-viajes-para-comenzar-a-conocer-africa >}}

@@ -106,4 +106,5 @@ de las voces y la maestría con los instrumentos de los mejores músicos checos 
 internacionales. Además, con un incentivo añadido: visitar el bellísimo entorno de 
 Lednice-Valtice, declarado Patrimonio de la Humanidad por la Unesco. 
 
-📌 **No te pierdas:** {{< reflink path=posts/2022/08/que-ver-brno-chequia >}}
+📌 **No te pierdas:** [Qué ver en Brno: una escapada muy ‘chic’ a Chequia]({{% ref 
+que-ver-brno-chequia %}})

@@ -166,11 +166,10 @@ de un viaje en tren a Tbilisi](https://amzn.to/3a6al92), en Amazon.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2019/02/que-ver-georgia >}}. 
+{{< reflink que-ver-georgia >}}. 
 
-{{< reflink 
-path=posts/2020/08/komvida-la-exitosa-apuesta-de-dos-emprendedoras-extremenas >}}. 
+{{< reflink komvida-la-exitosa-apuesta-de-dos-emprendedoras-extremenas >}}. 
 
-{{< reflink path=posts/2019/07/viaje-finlandia-mujeres-artistas-suomi-y-sami >}}. 
+{{< reflink viaje-finlandia-mujeres-artistas-suomi-y-sami >}}. 
 
-{{< reflink path=posts/2019/04/vida-mujer-bereber-alto-atlas-marruecos >}}.
+{{< reflink vida-mujer-bereber-alto-atlas-marruecos >}}.

@@ -206,4 +206,4 @@ ya nos contaréis si creéis que es fea.
 
 **Sigue leyendo en Etheria Magazine** 
 
-{{< reflink path=posts/2021/07/planes-en-murcia-capital-con-amigas >}}
+{{< reflink planes-en-murcia-capital-con-amigas >}}

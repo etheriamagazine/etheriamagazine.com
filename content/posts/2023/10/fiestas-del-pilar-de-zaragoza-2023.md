@@ -73,8 +73,8 @@ a pequeños como mayores. Se encuentra a sólo 5 minutos de la plaza del Pilar.
 
 ✅ **Y si queréis conocer Zaragoza a fondo, no os perdáis:** 
 
-- **Guía gastronómica y monumental:** {{< reflink 
-path=posts/2019/02/mejores-bares-viaje-zaragoza >}}. 
+- **Guía gastronómica y monumental:** [Zaragoza bien vale un vermú torero… o tres]({{% 
+ref mejores-bares-viaje-zaragoza %}}). 
 
-**- Rutas:** {{< reflink 
-path=posts/2020/06/viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza >}}
+**- Rutas:** [8 escapadas en la provincia de Zaragoza]({{% ref 
+viajes-por-espana-8-escapadas-en-la-provincia-de-zaragoza %}})

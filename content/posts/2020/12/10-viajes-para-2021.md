@@ -18,11 +18,12 @@ frecuencia, pero todos resultan ideales para mujeres viajeras.
 
 ## 1\. Georgia, la cuna del vino
 
-Una {{< reflink path=posts/2019/02/que-ver-georgia >}} como epicentro, la **cuna del 
-vino**, es para mí ese viaje soñado y aplazado que todos tenemos. Y es que rezuma 
-historia, naturaleza “a lo bestia”, misterio, espiritualidad, fusión de culturas y una 
-gastronomía excepcional… Este lugar ejerce desde hace años una poderosa atracción sobre 
-mí, pero justo cuando era “mi siguiente viaje” pasaba algo que me obligaba a aplazarlo. 
+Una [ruta “caucásica” con Georgia]({{% ref que-ver-georgia %}}) como epicentro, la 
+**cuna del vino**, es para mí ese viaje soñado y aplazado que todos tenemos. Y es que 
+rezuma historia, naturaleza “a lo bestia”, misterio, espiritualidad, fusión de culturas 
+y una gastronomía excepcional… Este lugar ejerce desde hace años una poderosa atracción 
+sobre mí, pero justo cuando era “mi siguiente viaje” pasaba algo que me obligaba a 
+aplazarlo. 
 
 Prometo que no se convertirá en un viaje maldito y espero que pronto, muy pronto, pueda 
 contarlo en Etheria. Y así hablaros en primera persona de **Tbilisi** y la fortaleza de 
@@ -55,9 +56,9 @@ emulando las historias que navegan por su cauce para probar alguna delicia laosi
 opción es la ensalada Laap aderezada con salsa de pescado y lima. 
 
 Otro deber inexorable es subir 328 escalones hasta la cima de Mount Phousi para 
-contemplar una espectacular panorámica de {{< reflink 
-path=posts/2018/12/guia-viaje-para-mujeres-luang-prabang >}} en el ocaso, antes de ir a 
-dormir al onírico Belmond La Résidence Phou Vao. 
+contemplar una espectacular panorámica de [Luang Prabang]({{% ref 
+guia-viaje-para-mujeres-luang-prabang %}}) en el ocaso, antes de ir a dormir al onírico 
+Belmond La Résidence Phou Vao. 
 
 Manena Munar, escritora y periodista de viajes. 
 
@@ -71,13 +72,13 @@ pandemia también ha afectado a ese sueño y hoy, paradójicamente, anhelo más 
 los paisajes inmensos y apabullantes de **Islandia** que en el frenesí cultural que 
 aguarda en el país asiático. 
 
-Y, por supuesto, quiero hacerlo en caravana, que es lo que le pega a {{< reflink 
-path=posts/2021/03/que-ver-sur-islandia-consejos-practicos >}} por dos razones 
-fundamentales: la oferta de alojamiento es limitada y la acampada libre está permitida. 
-Y en este viaje soñado para 2021 me encantaría, entre otros planes, ver **ballenas en 
-Husavik**, visitar la cascada Dettifoss, pasear por **laguna glaciar de Jökulsárlón**, 
-bañarme en las aguas termales de Bláa lónið (Laguna Azul) y llegar hasta los fiordos del 
-Oeste, una de las áreas más remotas del país. 
+Y, por supuesto, quiero hacerlo en caravana, que es lo que le pega a [Islandia]({{% ref 
+que-ver-sur-islandia-consejos-practicos %}}) por dos razones fundamentales: la oferta de 
+alojamiento es limitada y la acampada libre está permitida. Y en este viaje soñado para 
+2021 me encantaría, entre otros planes, ver **ballenas en Husavik**, visitar la cascada 
+Dettifoss, pasear por **laguna glaciar de Jökulsárlón**, bañarme en las aguas termales 
+de Bláa lónið (Laguna Azul) y llegar hasta los fiordos del Oeste, una de las áreas más 
+remotas del país. 
 
 Nuria Cortés, periodista de viajes. 
 
@@ -91,11 +92,11 @@ desconocido para el viajero occidental. Para mí es realmente fascinante. Es la 
 indígena por excelencia, tiene la capital y el aeropuerto más altos del mundo y el lago 
 navegable con mayor altitud, por lo que también se conoce como “el Tíbet de las 
 Américas”. Volvería a La Paz con su imponente volcán Illimani, a la colonial Sucre, a 
-Potosí, a las ruinas de Tiahuanaco, al {{< reflink 
-path=posts/2019/12/que-ver-en-lago-titicaca-isla-del-sol-copacabana-bolivia >}}, al {{< 
-reflink path=posts/2019/05/ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta 
->}}, a la laguna Colorada, a la Amazonia boliviana… Es todo un derroche de patrimonio, 
-cultura y belleza natural. Y todo a lo grande y a lo alto. 
+Potosí, a las ruinas de Tiahuanaco, al [lago Titicaca]({{% ref 
+que-ver-en-lago-titicaca-isla-del-sol-copacabana-bolivia %}}), al [salar de Uyuni]({{% 
+ref ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta %}}), a la laguna 
+Colorada, a la Amazonia boliviana… Es todo un derroche de patrimonio, cultura y belleza 
+natural. Y todo a lo grande y a lo alto. 
 
 Pilar Ortega, especializada en Periodismo Cultural. 
 
@@ -132,13 +133,13 @@ Eva Madruga, especializada en Turismo de Cine.
 Hay destinos que plantean atractivas aventuras viajeras por el mero hecho de pertenecer 
 a una cultura eminentemente divertida. Por eso necesitamos tanto **Colombia**. Apetece 
 descubrir con amigas cómo es el rey del café, la cuna del reggaetón, tocar el cielo de 
-sus cerros y sentir el vibrante mundo de sus rumbeaderos. {{< reflink 
-path=posts/2020/03/viaje-para-mujeres-que-ver-hacer-en-bogota >}} resume la esencia 
-colombiana en instintos, y, también, en gestos como pedalear sus kilométricas ciclovías, 
-tomar chicha en una taberna del Embudo, inhalar los aromas de sus mercados de frutas y 
-flores, cegarse ante las joyas del Museo del Oro o bailar los vallenatos de los músicos 
-de la Carrera Séptima. Colombia es el revulsivo viajero que necesitamos para dejar atrás 
-la monotonía del 2020. 
+sus cerros y sentir el vibrante mundo de sus rumbeaderos. [Bogotá]({{% ref 
+viaje-para-mujeres-que-ver-hacer-en-bogota %}}) resume la esencia colombiana en 
+instintos, y, también, en gestos como pedalear sus kilométricas ciclovías, tomar chicha 
+en una taberna del Embudo, inhalar los aromas de sus mercados de frutas y flores, 
+cegarse ante las joyas del Museo del Oro o bailar los vallenatos de los músicos de la 
+Carrera Séptima. Colombia es el revulsivo viajero que necesitamos para dejar atrás la 
+monotonía del 2020. 
 
 Kelu Robles, periodista radiofónica y de viajes. 
 
@@ -153,9 +154,9 @@ ruta en coche sus grandes paisajes, y su cultura ancestral mientras se escucha m
 celta es una experiencia que espero vivir muy pronto. Aunque sea una ruta muy poco 
 original, en el primer viaje a Escocia me gustaría visitar Edimburgo, Glasgow, las 
 Highlands con sus increíbles valles y paisajes tenebrosos, la isla de Skie, Inverness y 
-el lago Ness. Sin duda, esta {{< reflink 
-path=posts/2020/09/mejor-ruta-3-dias-highlands-tierras-altas-escocia >}} será la mejor 
-compañera en esos días. 
+el lago Ness. Sin duda, esta [guía de las Altas Tierras de Escocia]({{% ref 
+mejor-ruta-3-dias-highlands-tierras-altas-escocia %}}) será la mejor compañera en esos 
+días. 
 
 Pepa García, periodista de Viajes y directora editorial de Etheria M. 
 
@@ -164,11 +165,10 @@ Pepa García, periodista de Viajes y directora editorial de Etheria M.
 ## 8\. Bretaña y Mont Saint-Michel
 
 Uno de los viajes que no pude realizar en 2020 y que espero retomar en 2021 es una ruta 
-desde {{< reflink path=posts/2019/08/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa 
->}} por el corazón de Bretaña para terminar con la maravillosa imagen de Mont 
-Saint-Michel (en {{< reflink 
-path=posts/2021/06/4-dias-ruta-impresionismo-normandia-francia >}}). Uno de esos viajes 
-en familia en los que te adentras en las regiones europeas con la certeza de que 
+desde [Nantes]({{% ref que-ver-hacer-en-nantes-la-ciudad-francesa-creativa %}}) por el 
+corazón de Bretaña para terminar con la maravillosa imagen de Mont Saint-Michel (en 
+[Normandía]({{% ref 4-dias-ruta-impresionismo-normandia-francia %}})). Uno de esos 
+viajes en familia en los que te adentras en las regiones europeas con la certeza de que 
 aciertas seguro porque todos encuentran un aliciente al viaje: quizá sentir parte de la 
 historia en Carnac, descubrir los secretos del rey Arturo en el bosque Brocéliande o 
 pasear por las encantadoras calles de Saint Malo. Y si todo esto lo acompañas de 

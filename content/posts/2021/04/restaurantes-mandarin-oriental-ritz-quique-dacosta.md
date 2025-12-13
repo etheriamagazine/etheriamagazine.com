@@ -18,11 +18,12 @@ El Mandarin Oriental Ritz de Madrid abre las puertas tras su renovación y lo ha
 Teníamos ya ganas en Madrid de que el renovado Mandarin Oriental Ritz abriera sus 
 puertas tras su exhaustiva reforma. La renovación ha supuesto un cambio total en uno de 
 los hoteles históricos más emblemáticos de la capital (y que ya os contábamos en el 
-artículo {{< reflink path=posts/2020/02/nuevo-mandarin-oriental-ritz-madrid-hoteles-lujo 
->}}). Y es que un hotel como éste merecía una gastronomía a su altura, por lo que nadie 
-mejor que el **tres estrellas Michelin Quique Dacosta** para dirigir y dotar de 
-personalidad a sus cinco nuevos espacios gastronómicos. Y todos con una carta de vinos 
-especialmente pensada para cada espacio por el chef y la _sommelier_ Silvia García. 
+artículo [3 razones por las que querrás visitar el nuevo Mandarin Oriental Ritz 
+Madrid]({{% ref nuevo-mandarin-oriental-ritz-madrid-hoteles-lujo %}})). Y es que un 
+hotel como éste merecía una gastronomía a su altura, por lo que nadie mejor que el 
+**tres estrellas Michelin Quique Dacosta** para dirigir y dotar de personalidad a sus 
+cinco nuevos espacios gastronómicos. Y todos con una carta de vinos especialmente 
+pensada para cada espacio por el chef y la _sommelier_ Silvia García. 
 
 No pierdas tiempo y reserva ya mismo mesa en alguno de estos cinco restaurantes del 
 Mandarin Oriental Ritz a través de la web del hotel 
@@ -105,6 +106,6 @@ inconfundible de Quique Dacosta.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/02/najat-libro-cocina-marroqui-chef-najat-kaanache >}}. 
+{{< reflink najat-libro-cocina-marroqui-chef-najat-kaanache >}}. 
 
-{{< reflink path=posts/2021/04/nuevo-libro-joan-roca-cocina-madre >}}.
+{{< reflink nuevo-libro-joan-roca-cocina-madre >}}.

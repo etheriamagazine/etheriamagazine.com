@@ -212,10 +212,10 @@ español, chino…
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/01/como-organizar-viaje-de-novios-o-luna-de-miel >}}. 
+{{< reflink como-organizar-viaje-de-novios-o-luna-de-miel >}}. 
 
-{{< reflink path=posts/2019/09/10-ideas-para-tu-viaje-de-novios-luna-de-miel >}}. 
+{{< reflink 10-ideas-para-tu-viaje-de-novios-luna-de-miel >}}. 
 
-{{< reflink path=posts/2021/03/guia-que-hacer-en-maldivas-buceo-surf >}}. 
+{{< reflink guia-que-hacer-en-maldivas-buceo-surf >}}. 
 
-{{< reflink path=posts/2020/11/islas-seychelles-un-viaje-de-lujo-al-paraiso >}}.
+{{< reflink islas-seychelles-un-viaje-de-lujo-al-paraiso >}}.

@@ -160,15 +160,15 @@ de autobuses que en poco más de una hora te llevan hasta destinos como Conil de
 Frontera, Vejer, Barbate, etc. Si te decides a hacer alguna excursión no dejes de 
 consultar esta guía: 
 
-📍{{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}}{{< reflink 
-path=posts/2023/03/pueblos-que-ver-en-cadiz >}}. 
+📍[]({{% ref pueblos-que-ver-en-cadiz %}})[La mejor guía de Cádiz provincia para 
+organizar tu viaje]({{% ref pueblos-que-ver-en-cadiz %}}). 
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}} 
+{{< reflink planes-originales-valencia-con-amigas >}} 
 
-{{< reflink path=posts/2020/09/10-planes-originales-en-bilbao-con-amigas >}}. 
+{{< reflink 10-planes-originales-en-bilbao-con-amigas >}}. 
 
-{{< reflink path=posts/2021/03/10-planes-originales-con-amigas-en-barcelona >}}. 
+{{< reflink 10-planes-originales-con-amigas-en-barcelona >}}. 
 
-{{< reflink path=posts/2020/08/10-planes-originales-en-madrid-con-amigas >}}.
+{{< reflink 10-planes-originales-en-madrid-con-amigas >}}.

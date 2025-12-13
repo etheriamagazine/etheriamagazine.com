@@ -117,6 +117,5 @@ l'Impératrice, Biarritz. Tel. +33 (0)5 59 41 33 00.
 
 **También te puede interesar:** 
 
-{{< reflink 
-path=posts/2020/08/que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare 
+{{< reflink que-ver-pais-vasco-frances-san-juan-luz-biarritz-san-juan-pie-puerto-sare 
 >}}

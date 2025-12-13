@@ -179,9 +179,8 @@ comarca.
 
 **Más rutas en el País Vasco...** 
 
-{{< reflink path=posts/2019/04/viajes-naturaleza-mejores-canones-pais-vasco >}}. 
+{{< reflink viajes-naturaleza-mejores-canones-pais-vasco >}}. 
 
-{{< reflink path=posts/2021/05/excursiones-sierra-de-entzia-alava >}}. 
+{{< reflink excursiones-sierra-de-entzia-alava >}}. 
 
-{{< reflink 
-path=posts/2021/06/12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.
+{{< reflink 12-planes-en-getxo-con-amigas-para-disfrutar-al-estilo-vasco >}}.

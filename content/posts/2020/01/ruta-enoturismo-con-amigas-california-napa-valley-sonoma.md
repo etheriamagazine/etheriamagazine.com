@@ -161,7 +161,7 @@ Unidos) afrontar la tarea de elegir el recorrido por las carreteras secundarias 
 llevarán a las **bodegas de Russian Valley, Sonoma y Napa Valley**. 
 
 📌 No te pierdas este artículo sobre las [visitas esenciales en San 
-Francisco]({{% ref 10-visitas-imprescindibles-en-san-francisco %}}). 
+Francisco](http://etheriamagazine.com/2018/07/12/10-visitas-imprescindibles-en-san-francisco/). 
 
 ![mapa napa valley](https://fotos.etheriamagazine.com/2019/12/mapa-california-Napa-Valley.jpg "Mapa de la zona enoturística. @P.Grifol")
 
@@ -180,6 +180,6 @@ se te acaba el viaje _ipso facto_.
 
 ### Te puede interesar...
 
-{{< reflink path=posts/2021/11/viajes-a-estados-unidos >}}. 
+{{< reflink viajes-a-estados-unidos >}}. 
 
-{{< reflink path=posts/2022/08/esim-europa-no-comunitaria >}}
+{{< reflink esim-europa-no-comunitaria >}}

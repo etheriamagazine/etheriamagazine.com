@@ -63,8 +63,8 @@ Esta playa cántabra quedó inmortalizada en la pantalla grande gracias a la com
 Raúl Arévalo, Quim Gutiérrez e Inma Cuesta. En este enclave, a orillas del Cantábrico, 
 tienen lugar varias de las escenas más animadas de la película. Si te apetece ver todas 
 las localizaciones (más allá de la costa) donde los protagonistas viven sus aventuras y 
-desventuras puedes seguir nuestra {{< reflink 
-path=posts/2019/09/primos-un-viaje-de-pelicula-a-comillas >}}. 
+desventuras puedes seguir nuestra [Ruta de ‘Primos’ en Comillas]({{% ref 
+primos-un-viaje-de-pelicula-a-comillas %}}). 
 
 ![playa comillas pelicula primos](https://fotos.etheriamagazine.com/2021/07/Playa-de-comillas-pelicula-Primos.jpg "Playa de Comillas, en la película © 'Primos'.")
 
@@ -185,8 +185,8 @@ y que era propietario de un club de burlesque donde trabaja Alex, una bailarina 
 ayudará en la búsqueda. En la playa de Poniente, con sus más de 3.000 metros de arena, 
 vemos a los protagonistas reflexionar sobre sus vidas. En la cinta también aparecen 
 lugares reconocibles de la ciudad como el Balcón del Mediterráneo y la Torre Lúgano. 
-Puedes aprovechar la escapada para disfrutar de nuestros {{< reflink 
-path=posts/2021/03/planes-originales-en-benidorm >}}. 
+Puedes aprovechar la escapada para disfrutar de nuestros [planes secretos en Benidorm 
+más allá de ir a la playa o tomar el sol]({{% ref planes-originales-en-benidorm %}}). 
 
 ![Playa de Poniente, escenario de 'Nieva en Benidorm'.](https://fotos.etheriamagazine.com/2021/07/playa-Benidorm-Nieva-en-Benidorm.jpg "Playa de Poniente, escenario de © 'Nieva en Benidorm'.")
 
@@ -206,8 +206,8 @@ de HBO.
 
 **Sigue leyendo sobre otras playas...** 
 
-{{< reflink path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
+{{< reflink mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
 
-{{< reflink path=posts/2020/08/guia-mejores-playas-calas-menorca >}}. 
+{{< reflink guia-mejores-playas-calas-menorca >}}. 
 
-{{< reflink path=posts/2020/04/viajar-con-amigas-mejores-playas-formentera >}}.
+{{< reflink viajar-con-amigas-mejores-playas-formentera >}}.

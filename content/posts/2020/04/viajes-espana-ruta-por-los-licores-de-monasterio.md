@@ -233,9 +233,9 @@ heredaron su fórmula secreta de los padres franceses fundadores.
 
 ### Sigue leyendo más Gastro en Etheria magazine...
 
-{{< reflink path=posts/2021/11/recetas-cocas-patata-anis-turron-de-palma >}}{{< reflink 
-path=posts/2021/08/productos-gastronomia-leon >}}a. 
+[]({{% ref recetas-cocas-patata-anis-turron-de-palma %}})[Siete productos que saben a 
+León y no pueden faltar en tu mes]({{% ref productos-gastronomia-leon %}})a. 
 
-{{< reflink path=posts/2021/05/donde-comer-ramen-bueno-y-barato-en-tokio >}}. 
+{{< reflink donde-comer-ramen-bueno-y-barato-en-tokio >}}. 
 
-{{< reflink path=posts/2021/04/nuevo-libro-joan-roca-cocina-madre >}}.
+{{< reflink nuevo-libro-joan-roca-cocina-madre >}}.

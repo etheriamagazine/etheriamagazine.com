@@ -118,8 +118,8 @@ productos tinerfeños.
 
 **También en Etheria Magazine:** 
 
-{{< reflink path=posts/2024/04/guia-macizo-de-anaga >}} 
+{{< reflink guia-macizo-de-anaga >}} 
 
-{{< reflink path=posts/2023/05/que-llevar-en-la-maleta-tenerife >}} 
+{{< reflink que-llevar-en-la-maleta-tenerife >}} 
 
-{{< reflink path=posts/2023/01/que-ver-en-tenerife >}}
+{{< reflink que-ver-en-tenerife >}}

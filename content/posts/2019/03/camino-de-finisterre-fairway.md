@@ -218,8 +218,8 @@ pregunta?
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2023/04/pueblos-que-ver-lugo >}}. 
+{{< reflink pueblos-que-ver-lugo >}}. 
 
-{{< reflink path=posts/2022/12/que-ver-pontevedra >}}. 
+{{< reflink que-ver-pontevedra >}}. 
 
-{{< reflink path=posts/2022/09/que-ver-a-coruna >}}.
+{{< reflink que-ver-a-coruna >}}.

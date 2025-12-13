@@ -195,9 +195,8 @@ playa de San Lorenzo.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/08/mejores-playas-llanes-costa-asturias >}}. 
+{{< reflink mejores-playas-llanes-costa-asturias >}}. 
 
-{{< reflink path=posts/2020/11/comer-en-vigo-mejores-restaurantes-furanchos >}} 
+{{< reflink comer-en-vigo-mejores-restaurantes-furanchos >}} 
 
-{{< reflink 
-path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}}.
+{{< reflink 8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}}.

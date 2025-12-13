@@ -124,8 +124,8 @@ por noche.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2022/03/visita-medina-azahara-cordoba >}} 
+{{< reflink visita-medina-azahara-cordoba >}} 
 
-{{< reflink path=posts/2021/08/planes-que-hacer-en-cordoba-con-amigas >}} 
+{{< reflink planes-que-hacer-en-cordoba-con-amigas >}} 
 
-{{< reflink path=posts/2022/03/ruta-autocaravana-en-cordoba >}}
+{{< reflink ruta-autocaravana-en-cordoba >}}

@@ -15,12 +15,12 @@ Nueva York es una ciudad tan versátil que un viaje en familia puede convertirse
 ![Nueva York con niños, viajes en familia, escapadas con niños](https://fotos.etheriamagazine.com/2018/05/10-Nueva-York-Central-Park.jpg "Central Park. © SG")
 
 Como gran metrópolis que es, en Nueva York hay actividades para toda la familia. En un 
-{{< reflink path=posts/2018/07/consejos-para-viajar-en-familia-a-nueva-york >}} olvidaos 
-de visitar las colecciones de arte de los grandes museos, vivir la noche neoyorkina en 
-los lugares de moda, tomar una copa en un bar clandestino o asistir a un espectáculo en 
-Broadway (salvo que queráis ver alguno infantil tipo _El Rey León_). Pero no os agobiéis 
-porque existen otros muchos planes interesantes para toda la familia: museos, 
-jugueterías diferentes y el siempre polifacético **Central Park**. 
+[viaje a Nueva York con niños]({{% ref consejos-para-viajar-en-familia-a-nueva-york %}}) 
+olvidaos de visitar las colecciones de arte de los grandes museos, vivir la noche 
+neoyorkina en los lugares de moda, tomar una copa en un bar clandestino o asistir a un 
+espectáculo en Broadway (salvo que queráis ver alguno infantil tipo _El Rey León_). Pero 
+no os agobiéis porque existen otros muchos planes interesantes para toda la familia: 
+museos, jugueterías diferentes y el siempre polifacético **Central Park**. 
 
 Además, una de las sorpresas que depara esta ciudad es que hay sitio para todos y si os 
 organizáis bien evitareis aglomeraciones y esperas innecesarias. Por ejemplo, 
@@ -163,10 +163,10 @@ Se pueden comprar en las estaciones de metro, oficinas de turismo y en muchas ti
 
 ### También te puede interesar
 
-{{< reflink path=posts/2018/07/consejos-para-viajar-en-familia-a-nueva-york >}} 
+{{< reflink consejos-para-viajar-en-familia-a-nueva-york >}} 
 
-{{< reflink path=posts/2021/05/10-planes-en-nueva-york-nuevos-2021 >}} 
+{{< reflink 10-planes-en-nueva-york-nuevos-2021 >}} 
 
-{{< reflink path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}} 
+{{< reflink los-mejores-miradores-de-nueva-york-gratis-de-pago >}} 
 
-{{< reflink path=posts/2019/05/viaje-con-amigas-nueva-york-primavera >}}
+{{< reflink viaje-con-amigas-nueva-york-primavera >}}

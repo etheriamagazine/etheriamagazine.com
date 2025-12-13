@@ -160,6 +160,6 @@ de móvil es limitada.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2024/01/consejos-viajar-sola-por-africa >}} 
+{{< reflink consejos-viajar-sola-por-africa >}} 
 
-{{< reflink path=posts/2024/01/hermanus-sania-jelic-viajar-sola-africa-sudafrica >}}
+{{< reflink hermanus-sania-jelic-viajar-sola-africa-sudafrica >}}

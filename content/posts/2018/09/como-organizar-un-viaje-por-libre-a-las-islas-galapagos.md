@@ -195,6 +195,6 @@ Galápagos](http://www.galapagos.gob.ec).
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2023/04/como-viajar-islas-galapagos >}}. 
+{{< reflink como-viajar-islas-galapagos >}}. 
 
-{{< reflink path=posts/2018/09/visitas-basicas-en-viaje-islas-galapagos >}}.
+{{< reflink visitas-basicas-en-viaje-islas-galapagos >}}.

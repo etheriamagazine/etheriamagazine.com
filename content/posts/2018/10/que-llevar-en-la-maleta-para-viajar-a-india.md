@@ -21,7 +21,7 @@ viajar a la India, sobre todo en lo que a vestimenta se refiere.
 ![maleta con fular y camara de fotos](https://fotos.etheriamagazine.com/2018/10/maleta-viaje-india.jpg "Planifica tu maleta a la India con tiempo suficiente para que no te falte de nada.")
 
 Una vez leído el anterior artículo ✅ '[Viajar sola o con amigas a 
-India]({{% ref viajar-sola-o-con-amigas-a-india %}})', el 
+India](http://etheriamagazine.com/2018/10/19/viajar-sola-o-con-amigas-a-india/)', el 
 siguiente paso es comenzar a preparar la maleta. Toma nota de los básicos que llevamos 
 nosotras en nuestro **viaje a India**. Las marcas son meramente ilustrativas, siempre 
 puedes elegir las que más te gusten o con las que te sientas más cómoda por diseño y 
@@ -90,8 +90,8 @@ moneda nacional, o sacar dinero en los cajeros con tu tarjeta de crédito.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/04/la-pasion-india-de-anita-delgado-libros-viajes >}} 
+{{< reflink la-pasion-india-de-anita-delgado-libros-viajes >}} 
 
-{{< reflink path=posts/2020/01/viaje-para-mujeres-que-ver-norte-india-rajastan >}} 
+{{< reflink viaje-para-mujeres-que-ver-norte-india-rajastan >}} 
 
-{{< reflink path=posts/2018/10/viajar-sola-o-con-amigas-a-india >}}
+{{< reflink viajar-sola-o-con-amigas-a-india >}}

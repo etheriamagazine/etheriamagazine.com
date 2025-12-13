@@ -21,11 +21,11 @@ naturaleza. Y, como no todos somos habituales de este tipo de salidas, está muy
 nos recuerden qué llevar en un pícnic para que sea un día perfecto. 
 
 En Etheria Magazine ya os contamos regularmente opciones para recorrer la España más 
-natural, como en los reportajes en los que os proponíamos {{< reflink 
-path=posts/2020/05/15-escapadas-a-menos-de-99-km-de-madrid >}} y a {{< reflink 
-path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}}. Ahora nos hemos 
-propuesto que salgáis de casa equipados con todo lo necesario para que la jornada sea un 
-éxito. Aquí os proponemos 10 'tips' para que no echéis nada en falta en un día de 
+natural, como en los reportajes en los que os proponíamos [excursiones desde Madrid de 
+menos de 99 kilómetros]({{% ref 15-escapadas-a-menos-de-99-km-de-madrid %}}) y a [más 
+100 kilómetros]({{% ref 11-escapadas-cercanas-a-dos-horas-de-madrid %}}). Ahora nos 
+hemos propuesto que salgáis de casa equipados con todo lo necesario para que la jornada 
+sea un éxito. Aquí os proponemos 10 'tips' para que no echéis nada en falta en un día de 
 excursión en el campo. 
 
 ### 10 elementos que no pueden faltar en un picnic.
@@ -158,10 +158,8 @@ en Amazon.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2022/01/10-libros-para-regalar-en-2022 >}} 
+{{< reflink 10-libros-para-regalar-en-2022 >}} 
 
-{{< reflink 
-path=posts/2020/11/5-camaras-de-fotos-semiprofesionales-perfectas-para-viajar-ligeras 
->}} 
+{{< reflink 5-camaras-de-fotos-semiprofesionales-perfectas-para-viajar-ligeras >}} 
 
-{{< reflink path=posts/2020/10/8-imprescindibles-maleta-para-hacer-deporte >}}
+{{< reflink 8-imprescindibles-maleta-para-hacer-deporte >}}

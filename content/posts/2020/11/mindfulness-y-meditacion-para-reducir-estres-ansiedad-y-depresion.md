@@ -135,8 +135,7 @@ más despiertos.
 
 #### También te puede interesar...
 
-{{< reflink path=posts/2020/11/musicoterapia-mover-emociones-subir-autoestima >}}. 
+{{< reflink musicoterapia-mover-emociones-subir-autoestima >}}. 
 
-{{< reflink 
-path=posts/2020/10/uso-terapeutico-de-la-sal-beneficios-de-la-haloterapia-y-la-talasoterapia 
+{{< reflink uso-terapeutico-de-la-sal-beneficios-de-la-haloterapia-y-la-talasoterapia 
 >}}.

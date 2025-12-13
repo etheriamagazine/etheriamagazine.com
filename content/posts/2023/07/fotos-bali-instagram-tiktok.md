@@ -210,10 +210,10 @@ más de un viaje al año.
 ### Conexión de datos
 
 Para tener tus redes sociales a punto puedes comprar una **tarjeta SIM local** para el 
-móvil o adquirir una eSIM virtual como las que proporciona {{< reflink 
-path=posts/2022/06/holafly-viaje-espana >}}. Además, te vendrá muy bien una batería 
-externa, en Amazon encontrarás varios modelos, uno muy recomendable por el tamaño y la 
-velocidad de carga es el de [iWalk](https://amzn.to/3NUHiYE). 
+móvil o adquirir una eSIM virtual como las que proporciona [Holafly]({{% ref 
+holafly-viaje-espana %}}). Además, te vendrá muy bien una batería externa, en Amazon 
+encontrarás varios modelos, uno muy recomendable por el tamaño y la velocidad de carga 
+es el de [iWalk](https://amzn.to/3NUHiYE). 
 
 ### Cómo vestir en los templos
 
@@ -223,6 +223,6 @@ Suelen ser muy coloridos y vistosos para las fotografías.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/06/que-llevar-maleta-viaje-bali >}} 
+{{< reflink que-llevar-maleta-viaje-bali >}} 
 
-{{< reflink path=posts/2019/07/luna-miel-bali-maldicion-ruptura >}}
+{{< reflink luna-miel-bali-maldicion-ruptura >}}

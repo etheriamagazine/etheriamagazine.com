@@ -156,9 +156,8 @@ las lluvias.
 
 ✅ **También te puede interesar** 
 
-{{< reflink 
-path=posts/2020/05/escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica >}} 
+{{< reflink escapadas-espana-8-imprescindibles-en-caceres-en-clave-historica >}} 
 
-{{< reflink path=posts/2018/05/viajarsolacaceres >}} 
+{{< reflink viajarsolacaceres >}} 
 
-{{< reflink path=posts/2020/07/viajes-espana-las-hurdes-un-paraiso-extremeno >}}
+{{< reflink viajes-espana-las-hurdes-un-paraiso-extremeno >}}

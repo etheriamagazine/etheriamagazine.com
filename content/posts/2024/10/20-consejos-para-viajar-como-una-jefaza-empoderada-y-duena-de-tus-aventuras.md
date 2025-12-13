@@ -175,6 +175,6 @@ una jefaza!
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2020/08/viaja-sola-paises-mas-seguros-para-mujeres >}}. 
+{{< reflink viaja-sola-paises-mas-seguros-para-mujeres >}}. 
 
-{{< reflink path=posts/2019/01/10-ventajas-de-viajar-sola >}}.
+{{< reflink 10-ventajas-de-viajar-sola >}}.

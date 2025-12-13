@@ -31,8 +31,8 @@ sin pretenderlo.
 Y todo ello de una forma privilegiada y alejada de multitudes porque vayas donde vayas 
 serás tratada como una reina. Un protagonismo compartido por las personas locales que 
 insuflan vida allá donde pisan. De las mujeres emprendedoras de esta tierra ya os hemos 
-hablado (puedes leer el artículo: {{< reflink 
-path=posts/2023/04/ruta-del-vino-de-arribes >}}) por lo que ahora nos centraremos en las 
+hablado (puedes leer el artículo: [Ruta del Vino de Arribes, energía femenina de alto 
+voltaje]({{% ref ruta-del-vino-de-arribes %}})) por lo que ahora nos centraremos en las 
 visitas de la Ruta del Vino de Arribes. ¿Nos acompañas? 
 
 ## 1\. Fermoselle (Zamora)

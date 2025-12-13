@@ -114,6 +114,6 @@ Tel. Central de reservas Rusticae: 914 879 017.
 
 **📌 También te puede interesar:** 
 
-{{< reflink path=posts/2020/07/valle-del-coa-8-experiencias-en-la-frontera-portugal >}} 
+{{< reflink valle-del-coa-8-experiencias-en-la-frontera-portugal >}} 
 
-{{< reflink path=posts/2019/06/planes-divertidos-viajes-familia-portugal >}}
+{{< reflink planes-divertidos-viajes-familia-portugal >}}

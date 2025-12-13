@@ -193,8 +193,8 @@ vietnaminta; o **Kai Sushi** (kaisushi.ch), con especialidades japonesas.
 
 En Suiza funciona el rooming de Vodafone, pero no el de Movistar y otros operadores. Así 
 que, si se tiene alguna compañía que no lo tenga incluido, merece la pena comprar una 
-eSIM en soportes como **{{< reflink path=posts/2022/08/esim-europa-no-comunitaria >}}** 
-para los días que se vaya a estar y no tener así problemas con los datos móviles. 
+eSIM en soportes como **{{< reflink esim-europa-no-comunitaria >}}** para los días que 
+se vaya a estar y no tener así problemas con los datos móviles. 
 
 ## Moneda
 
@@ -209,4 +209,4 @@ automáticos.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2018/10/mercados-de-navidad-en-zurich >}}
+{{< reflink mercados-de-navidad-en-zurich >}}

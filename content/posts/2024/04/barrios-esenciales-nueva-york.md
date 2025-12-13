@@ -190,8 +190,8 @@ fotógrafa Alice Austen** o el **Ligthouse Museum**, dedicado a la historia de l
 
 ****También en Etheria Magazine**:** 
 
-{{< reflink path=posts/2024/01/que-ver-en-manhattan-nueva-york >}} 
+{{< reflink que-ver-en-manhattan-nueva-york >}} 
 
-{{< reflink path=posts/2020/02/los-mejores-miradores-de-nueva-york-gratis-de-pago >}} 
+{{< reflink los-mejores-miradores-de-nueva-york-gratis-de-pago >}} 
 
-{{< reflink path=posts/2018/07/consejos-para-viajar-en-familia-a-nueva-york >}}
+{{< reflink consejos-para-viajar-en-familia-a-nueva-york >}}

@@ -128,10 +128,10 @@ tramos de la ruta.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2022/01/asturias-en-coche-guia-imprescindible >}} 
+{{< reflink asturias-en-coche-guia-imprescindible >}} 
 
-{{< reflink path=posts/2021/12/valle-de-chistau-huesca >}} 
+{{< reflink valle-de-chistau-huesca >}} 
 
-{{< reflink path=posts/2019/01/viajeras-aventureras-en-menorca >}} 
+{{< reflink viajeras-aventureras-en-menorca >}} 
 
-{{< reflink path=posts/2021/04/consejos-rutas-andalucia-en-autocaravana >}}
+{{< reflink consejos-rutas-andalucia-en-autocaravana >}}

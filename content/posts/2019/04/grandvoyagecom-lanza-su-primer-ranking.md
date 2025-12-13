@@ -45,8 +45,8 @@ Tanzania, y Seychelles.
 
 **4\. Mejor resort:** Paradise Island Water Villa (Maldivas): Ryokan Suimeikan (Gero, 
 Japón), Grand Mirage (Bali, Indonesia), Pilgrimage Village Resort (Phu Quoc, Vietnam), 
-{{< reflink path=posts/2018/05/hotel-rayavadee-vivir-la-naturaleza >}} (Krabi, 
-Tailandia) y Cape Panwa (Phuket, Tailandia). 
+[Rayavadee]({{% ref hotel-rayavadee-vivir-la-naturaleza %}}) (Krabi, Tailandia) y Cape 
+Panwa (Phuket, Tailandia). 
 
 Los ganadores se obtendrán del resultado de ambas votaciones (viajeros y profesionales) 
 y se darán a conocer en el transcurso del mes de mayo en una gala en Barcelona.

@@ -99,7 +99,6 @@ Puedes encontrar más información en
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2023/03/excursiones-ninos-en-madrid >}}. 
+{{< reflink excursiones-ninos-en-madrid >}}. 
 
-{{< reflink path=posts/2020/09/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid 
->}}.
+{{< reflink pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid >}}.

@@ -34,8 +34,8 @@ ecologistas.
 En Poitiers también hay que recordar a **Juana de Arco**, que fue defensora de la casa 
 de Orleans antes de terminar en la hoguera. Del juicio que tuvo en la ciudad salió 
 vencedora, ya que un jurado admitió su papel guerrero y divino, pero no tuvo la misma 
-suerte en {{< reflink path=posts/2021/06/4-dias-ruta-impresionismo-normandia-francia >}} 
-(Ruan, en español), donde un tribunal eclesiástico pro inglés la terminó condenando. 
+suerte en [Rouen]({{% ref 4-dias-ruta-impresionismo-normandia-francia %}}) (Ruan, en 
+español), donde un tribunal eclesiástico pro inglés la terminó condenando. 
 
 ![Centro histórico de Poitiers.](https://fotos.etheriamagazine.com/2024/10/calles-poitiers.jpg "Centro histórico de Poitiers. © Manena Munar")
 
@@ -237,6 +237,6 @@ Pedro (1 Rue Sainte-Croix) y el Museo de la Santa Cruz (musee-saintecroix.fr)
 
 **También en Etheria Magazine** 
 
-{{< reflink path=posts/2024/02/futuroscope-novedades-2024-parque-acuatico-aquascope >}}. 
+{{< reflink futuroscope-novedades-2024-parque-acuatico-aquascope >}}. 
 
-{{< reflink path=posts/2021/06/4-dias-ruta-impresionismo-normandia-francia >}}.
+{{< reflink 4-dias-ruta-impresionismo-normandia-francia >}}.

@@ -135,8 +135,8 @@ está incluido en el precio de la entrada.
 
 **También te puede interesar** 
 
-{{< reflink path=posts/2020/09/mejores-destinos-para-viajar-en-francia >}} 
+{{< reflink mejores-destinos-para-viajar-en-francia >}} 
 
-{{< reflink path=posts/2019/08/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa >}} 
+{{< reflink que-ver-hacer-en-nantes-la-ciudad-francesa-creativa >}} 
 
-{{< reflink path=posts/2021/09/guia-viaje-costa-azul-en-coche-y-con-amigas >}}
+{{< reflink guia-viaje-costa-azul-en-coche-y-con-amigas >}}

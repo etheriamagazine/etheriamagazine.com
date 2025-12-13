@@ -232,9 +232,8 @@ II](https://www.civitatis.com/es/el-escorial/senderismo-silla-felipe-ii/?aid=102
 [11 destinos a los que se puede llegar desde Madrid en un tiempo máximo de dos 
 horas.](https://etheriamagazine.com/tag/escapadas-cercanas-desde-madrid/) 
 
-{{< reflink path=posts/2020/05/15-escapadas-a-menos-de-99-km-de-madrid >}}. 
+{{< reflink 15-escapadas-a-menos-de-99-km-de-madrid >}}. 
 
-{{< reflink path=posts/2020/09/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid 
->}} 
+{{< reflink pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid >}} 
 
 ![jardines chinescos, excursion aranjuez](https://fotos.etheriamagazine.com/2020/05/excursion-aranjuez.jpg "Otras visitas en Madrid: Jardines Chinescos de Aranjuez. © Miguel Ángel Sanz")

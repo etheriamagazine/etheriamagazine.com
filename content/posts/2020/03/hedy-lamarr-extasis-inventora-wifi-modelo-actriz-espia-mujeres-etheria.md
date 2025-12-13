@@ -171,13 +171,11 @@ atención de Etheria Magazine… ¿O no?
 
 **También te puede interesar:** 
 
-{{< reflink 
-path=posts/2020/12/maria-andresa-casamayor-primera-mujer-en-espana-libro-ciencia >}} 
+{{< reflink maria-andresa-casamayor-primera-mujer-en-espana-libro-ciencia >}} 
 
-{{< reflink 
-path=posts/2020/05/mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas >}}{{< 
-reflink path=posts/2020/05/mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas 
->}}{{< reflink 
-path=posts/2020/05/mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas >}} 
+[Ada Coleman y María Dolors Boadas, referentes de la iguald]({{% ref 
+mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas %}})[a]({{% ref 
+mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas %}})[d en la mixología]({{% 
+ref mujeres-de-la-cocteleria-ada-coleman-y-maria-dolors-boadas %}}) 
 
-{{< reflink path=posts/2020/04/la-pasion-india-de-anita-delgado-libros-viajes >}}
+{{< reflink la-pasion-india-de-anita-delgado-libros-viajes >}}

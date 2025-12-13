@@ -188,7 +188,6 @@ info](https://www.civitatis.com/es/uyuni/excursion-privada-salar-uyuni/?aid=1021
 
 ### También te puedes interesar...
 
-{{< reflink path=posts/2020/01/10-grandes-destinos-para-mujeres-viajan-solas >}}. 
+{{< reflink 10-grandes-destinos-para-mujeres-viajan-solas >}}. 
 
-{{< reflink path=posts/2019/12/que-ver-en-lago-titicaca-isla-del-sol-copacabana-bolivia 
->}}.
+{{< reflink que-ver-en-lago-titicaca-isla-del-sol-copacabana-bolivia >}}.

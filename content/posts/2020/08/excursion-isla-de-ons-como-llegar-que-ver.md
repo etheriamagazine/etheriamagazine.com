@@ -268,8 +268,8 @@ aunque no son caminos de alta dificultad. Puedes ver las rutas y reservar una gu
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/10/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja >}} 
+{{< reflink 8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja >}} 
 
-{{< reflink path=posts/2021/07/camino-de-santiago-ria-de-muros-noia-en-velero >}} 
+{{< reflink camino-de-santiago-ria-de-muros-noia-en-velero >}} 
 
-{{< reflink path=posts/2019/06/rapa-das-bestas-sabucedo-pontevedra-galicia >}}
+{{< reflink rapa-das-bestas-sabucedo-pontevedra-galicia >}}

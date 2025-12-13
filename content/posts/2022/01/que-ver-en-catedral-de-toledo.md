@@ -220,8 +220,8 @@ con guías de Toledo en **Rutas de Toledo** o **Toledo a pie**.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/11/comer-en-toledo-mejores-restaurantes-bares-tapas >}} 
+{{< reflink comer-en-toledo-mejores-restaurantes-bares-tapas >}} 
 
-{{< reflink path=posts/2021/09/excursion-a-madridejos-azafran-de-toledo >}} 
+{{< reflink excursion-a-madridejos-azafran-de-toledo >}} 
 
-{{< reflink path=posts/2021/10/planes-en-entreparques-entre-volcanes-y-titanes >}}
+{{< reflink planes-en-entreparques-entre-volcanes-y-titanes >}}

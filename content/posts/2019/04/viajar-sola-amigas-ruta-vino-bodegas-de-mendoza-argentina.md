@@ -246,8 +246,8 @@ Más información de la zona en [Mendoza Turismo](http://www.turismo.mendoza.gov
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/02/che-guevara-manuel-de-falla-en-alta-gracia-argentina >}} 
+{{< reflink che-guevara-manuel-de-falla-en-alta-gracia-argentina >}} 
 
-{{< reflink path=posts/2019/07/que-ver-buenos-aires-belle-epoque-viajar-sola >}} 
+{{< reflink que-ver-buenos-aires-belle-epoque-viajar-sola >}} 
 
-{{< reflink path=posts/2021/10/parques-naturales-de-america-latina >}}
+{{< reflink parques-naturales-de-america-latina >}}

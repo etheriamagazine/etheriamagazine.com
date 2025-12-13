@@ -153,7 +153,8 @@ Kasugacho. Nerima ward. 179-0074 Tokyo
 **6\. ¿Qué más se puede hacer en Tokio si viajas con niños?** 
 
 Tokio es una ciudad donde está prohibido el aburrimiento, así que te animamos a leer 
-este artículo realizado tras visitar la capital japonesa: {{< reflink 
-path=posts/2023/02/planes-originales-en-tokio >}}. Si vas a estar en torno a 2 o 3 días, 
-en este otro artículo te contamos las visitas básicas: {{< reflink 
-path=posts/2021/07/que-hacer-3-dias-en-tokio-viajes-mujeres >}}.
+este artículo realizado tras visitar la capital japonesa: [10 planes originales en 
+Tokio: saca tu lado más friki]({{% ref planes-originales-en-tokio %}}). Si vas a estar 
+en torno a 2 o 3 días, en este otro artículo te contamos las visitas básicas: [Descubre 
+la magia de Tokio en sólo tres días]({{% ref que-hacer-3-dias-en-tokio-viajes-mujeres 
+%}}).

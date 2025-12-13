@@ -32,8 +32,8 @@ que oferta. Si vas a Chiclana, la **playa de la Barrosa** sería la más adecuad
 Conil destacan las **playas de los Bateles y La Fontanilla**, con bandera azul. Vejer 
 brinda la **playa del Palmar**, amplia y con buenos chiringuitos casi a pie de playa. 
 
-📍**Y si veraneas en Conil (o cerca):** {{< reflink 
-path=posts/2023/08/mejores-excursiones-desde-conil >}} 
+📍**Y si veraneas en Conil (o cerca):** [10 excursiones ideales desde Conil de la 
+Frontera]({{% ref mejores-excursiones-desde-conil %}}) 
 
 La **playa de Zahara de los Atunes** también es estupenda, al igual que las Caños de 
 Meca y la Yerbabuena, en Barbate. En Tarifa, no hay que perderse la **playa de 
@@ -45,10 +45,11 @@ Como el viento de levante puede hacer de las suyas, id preparados con sombrillas
 contrapesos y una pequeña tienda plegable donde los más pequeños se puedan echar la 
 siesta sin acabar enterrados en la arena. 
 
-✅ **NO PIERDAS**: {{< reflink 
-path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
+✅ **NO PIERDAS**: [15 playas y calas más bonitas de Conil y cómo llegar a las 
+mismas]({{% ref mejores-playas-y-calas-de-conil-de-la-frontera %}}). 
 
-✅ **NO PIERDAS:** {{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}} 
+✅ **NO PIERDAS:** [La mejor guía de CÁDIZ PROVINCIA para organizar tu viaje: pueblos y 
+visitas de interés (con mapa incluido).]({{% ref pueblos-que-ver-en-cadiz %}}) 
 
 ![Museo del Títere de Cádiz](https://fotos.etheriamagazine.com/2019/10/museo-titere.cadiz_.jpg "Museo del Títere de Cádiz. © Etheria Magazine")
 
@@ -59,7 +60,7 @@ ciudades gaditanas. La primera recomendación es conocer Cádiz capital, una ciu
 unas dimensiones perfectas para moverse a pie y sin desniveles. Visita la cámara oscura 
 de la torre Tavira, sube al torreón de la Catedral, conoce el Museo de los Títeres, 
 juega en el parque Genovés... En el artículo '[10 planes con niños en Cádiz 
-capital]({{% ref 10-planes-con-ninos-en-cadiz-capital %}})' 
+capital](http://etheriamagazine.com/2019/10/17/10-planes-con-ninos-en-cadiz-capital/)' 
 te damos otras muchas ideas. 
 
 En Cádiz también existen los [típicos 
@@ -99,7 +100,7 @@ más turística; y terminad en **Arcos de la Frontera**, con sus casonas, templo
 decenas de lugares para tapear bien. 
 
 En este otro artículo encontraréis más opciones: [Ruta por los pueblos blancos de 
-Cádiz]({{% ref ruta-por-los-pueblos-blancos-de-cadiz %}}). Si 
+Cádiz](http://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/). Si 
 no llevas coche, puedes apuntarte a una [Excursión a los Pueblos 
 Blancos](https://www.civitatis.com/es/cadiz/excursion-pueblos-blancos/?aid=10211) por 
 unos 65 €. 
@@ -118,7 +119,7 @@ gratuita para ciudadanos de la UE. Durante los meses estivales se suelen program
 en el teatro romano, reserva con antelación. 
 
 📌 NO TE LO PIERDAS: [Cómo visitar las ruinas romanas de Baelo 
-Claudia]({{% ref guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia %}}). 
+Claudia](http://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/). 
 
 ![organizar viaje australia, australia para mujeres](https://fotos.etheriamagazine.com/2019/02/australia-viaje-surf.jpg "El surf es una de las actividad más divertidas en la playa.")
 
@@ -170,8 +171,8 @@ molinos de viento. También dispone de un
 [freetour](https://www.civitatis.com/es/vejer-de-la-frontera/?aid=10211) por si 
 prefieres hacer la visita guiada. 
 
-📌 NO TE LO PIERDAS: {{< reflink 
-path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}}. 
+📌 NO TE LO PIERDAS: [10 actividades imprescindibles en Vejer de la Frontera]({{% ref 
+10-actividades-vejer-de-la-frontera-que-ver-hacer %}}). 
 
 ![taller hacer pan, molinos el bosque](https://fotos.etheriamagazine.com/2020/03/molino-taller-pan-el-bosque.jpg "© Molino de Abajo (El Bosque).")
 
@@ -206,7 +207,7 @@ faltar un paseo en teleférico hasta la cima del Peñón para ver a los travieso
 Bastion, que tiene bolera, cines y hamburgueserías; un paseo por el Jardín Botánico; y 
 acudir la tienda-fábrica de vidrio donde podrán ver cómo los artesanos dan forma a las 
 piezas. Puedes ampliar información en [Gibraltar en 
-familia]({{% ref gibraltar-una-escapada-en-familia %}}). 
+familia](http://etheriamagazine.com/2018/05/21/gibraltar-una-escapada-en-familia/). 
 
 ¡Ojo! No olvides llevar el pasaporte de los niños, y si llevas contigo alguno que no sea 
 tu hijo, también necesitarás una autorización firmada por sus padres y sellada por la 
@@ -239,10 +240,10 @@ niños muy pequeños).
 
 ### Sigue leyendo...
 
-{{< reflink path=posts/2021/07/experiencias-para-conectar-con-andalucia >}}. 
+{{< reflink experiencias-para-conectar-con-andalucia >}}. 
 
-{{< reflink path=posts/2021/07/los-mejores-planes-en-conil-con-amigas >}}. 
+{{< reflink los-mejores-planes-en-conil-con-amigas >}}. 
 
-{{< reflink path=posts/2021/07/excursiones-en-malaga-con-ninos >}}. 
+{{< reflink excursiones-en-malaga-con-ninos >}}. 
 
-{{< reflink path=posts/2021/06/planes-en-huelva-con-ninos >}}.
+{{< reflink planes-en-huelva-con-ninos >}}.

@@ -57,13 +57,13 @@ Tormes**, con una barra llena de pinchos y raciones.
 ![panoramica de siguenza](https://fotos.etheriamagazine.com/2020/12/Siguenza-panoramica.jpg "Panorámica de Sigüenza. © Malaya at Panoramio")
 
 El café hay que tomarlo en una **terraza de la Alameda** para aprovechar los últimos 
-rayos del sol, evocando a algunos de aquellos que la pasearon como {{< reflink 
-path=posts/2020/06/viaje-por-la-espana-de-las-grandes-escritoras-del-siglo-xx >}}, 
-Jovellanos o Garcilaso. Sin viajar tan atrás en el tiempo, también se vio de paseo por 
-la Alameda a Félix Rodríguez de la Fuente. Este naturalista escogió la **Hoz de 
-Pelegrina**, a pocos kilómetros de Sigüenza, para instalar uno de sus campamentos cuando 
-rodaba la serie televisiva _Fauna Ibérica_, y que hoy le honra con un monumento en el 
-Mirador de Pelegrina. 
+rayos del sol, evocando a algunos de aquellos que la pasearon como [Pardo Bazán]({{% ref 
+viaje-por-la-espana-de-las-grandes-escritoras-del-siglo-xx %}}), Jovellanos o Garcilaso. 
+Sin viajar tan atrás en el tiempo, también se vio de paseo por la Alameda a Félix 
+Rodríguez de la Fuente. Este naturalista escogió la **Hoz de Pelegrina**, a pocos 
+kilómetros de Sigüenza, para instalar uno de sus campamentos cuando rodaba la serie 
+televisiva _Fauna Ibérica_, y que hoy le honra con un monumento en el Mirador de 
+Pelegrina. 
 
 ## Sigüenza monumental
 
@@ -168,6 +168,6 @@ generación tras generación.
 
 ### Te podría interesar
 
-{{< reflink path=posts/2019/05/ruta-en-coche-pueblos-negros-guadalajara >}} 
+{{< reflink ruta-en-coche-pueblos-negros-guadalajara >}} 
 
-{{< reflink path=posts/2020/06/11-escapadas-cercanas-a-dos-horas-de-madrid >}}
+{{< reflink 11-escapadas-cercanas-a-dos-horas-de-madrid >}}

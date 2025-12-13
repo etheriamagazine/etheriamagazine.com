@@ -88,8 +88,8 @@ se contemplan las luces del atardecer sobre la dehesa cordobesa. Además, para l
 aperitivos o para ese momento que apetece picar algo, en todas las habitaciones tienes a 
 tu disposición distintas conservas y snacks de calidad. 
 
-📌No te pierdas: {{< reflink 
-path=posts/2022/01/ruta-del-vino-montilla-moriles-20-aniversario >}}. 
+📌No te pierdas: [Ruta del Vino Montilla-Moriles, 20 años brindando en el corazón de 
+Andalucía]({{% ref ruta-del-vino-montilla-moriles-20-aniversario %}}). 
 
 ![Copa de vino y aperitivo en una terraza de la cabaña de lujo](https://fotos.etheriamagazine.com/2022/06/la-dehesa-experiences-vino.jpg "Aperitivo en el glamping de La Dehesa Experiences.")
 
@@ -149,8 +149,8 @@ Fotografías cedidas por La Dehesa Experiences y Rusticae.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/08/planes-que-hacer-en-cordoba-con-amigas >}} 
+{{< reflink planes-que-hacer-en-cordoba-con-amigas >}} 
 
-{{< reflink path=posts/2022/03/visita-medina-azahara-cordoba >}} 
+{{< reflink visita-medina-azahara-cordoba >}} 
 
-{{< reflink path=posts/2022/03/ruta-autocaravana-en-cordoba >}}
+{{< reflink ruta-autocaravana-en-cordoba >}}

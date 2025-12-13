@@ -196,9 +196,8 @@ en La Rioja.
 
 **En La Rioja también te puede interesar...** 
 
-{{< reflink 
-path=posts/2019/12/que-ver-en-invierno-a-la-rioja-planes-con-amigas-o-en-familia >}}. 
+{{< reflink que-ver-en-invierno-a-la-rioja-planes-con-amigas-o-en-familia >}}. 
 
-{{< reflink path=posts/2020/10/viaje-la-rioja-vendimia-valle-de-ocon >}}. 
+{{< reflink viaje-la-rioja-vendimia-valle-de-ocon >}}. 
 
-{{< reflink path=posts/2019/05/etapas-que-ver-camino-de-santiago-en-la-rioja >}}.
+{{< reflink etapas-que-ver-camino-de-santiago-en-la-rioja >}}.

@@ -138,6 +138,8 @@ a vuestra cultura?
 
 ### También te puede interesar...
 
-- {{< reflink path=posts/2020/05/viajar-sola-a-republica-checa-visitas-y-consejos >}}. 
+- [Visitas en la República Checa para mujeres que viajan solas]({{% ref 
+viajar-sola-a-republica-checa-visitas-y-consejos %}}). 
 
-- {{< reflink path=posts/2018/12/10-estampas-romanticas-de-republica-checa >}}.
+- [10 imprescindibles para despertar tu lado romántico en Chequia]({{% ref 
+10-estampas-romanticas-de-republica-checa %}}).

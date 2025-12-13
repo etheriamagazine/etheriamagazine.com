@@ -235,9 +235,8 @@ Más información sobre Londres: [Visit Britain](https://www.visitbritain.com/es
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2020/12/diez-peliculas-rodadas-en-londres >}}. 
+{{< reflink diez-peliculas-rodadas-en-londres >}}. 
 
-{{< reflink 
-path=posts/2019/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}}. 
+{{< reflink de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}}. 
 
-{{< reflink path=posts/2021/04/los-mejores-jardines-de-gran-bretana >}}.
+{{< reflink los-mejores-jardines-de-gran-bretana >}}.

@@ -268,8 +268,8 @@ día**_ (BBC).
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2025/07/excursion-al-vesubio-en-familia >}} 
+{{< reflink excursion-al-vesubio-en-familia >}} 
 
-{{< reflink path=posts/2020/09/que-ver-en-napoles-en-fin-de-semana >}} 
+{{< reflink que-ver-en-napoles-en-fin-de-semana >}} 
 
-{{< reflink path=posts/2025/02/viaje-romantico-costa-amalfitana >}}
+{{< reflink viaje-romantico-costa-amalfitana >}}

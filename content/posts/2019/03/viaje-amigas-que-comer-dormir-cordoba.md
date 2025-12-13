@@ -46,7 +46,8 @@ realizar también si haces un viaje en familia (menores de 10 años, gratis) y l
 carro de bebé. [Resérvalo con 
 antelación](https://www.civitatis.com/es/cordoba/visita-guiada-mezquita-cordoba/?aid=10211). 
 
-📍NO te pierdas: {{< reflink path=posts/2022/08/que-ver-mezquita-cordoba >}}. 
+📍NO te pierdas: [Qué ver en la Mezquita de Córdoba]({{% ref que-ver-mezquita-cordoba 
+%}}). 
 
 ![mezquita de cordoba](https://fotos.etheriamagazine.com/2019/03/Mezquita-de-Cordoba.jpg "Interior de la mezquita-catedral de Córdoba.")
 
@@ -147,8 +148,8 @@ estilo alberca y un espacio para soñar bonito. Pura magia.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/08/planes-que-hacer-en-cordoba-con-amigas >}}. 
+{{< reflink planes-que-hacer-en-cordoba-con-amigas >}}. 
 
-{{< reflink path=posts/2021/05/ruta-campina-cordobesa-baena-montilla-puente-genil >}}. 
+{{< reflink ruta-campina-cordobesa-baena-montilla-puente-genil >}}. 
 
-{{< reflink path=posts/2021/07/experiencias-para-conectar-con-andalucia >}}.
+{{< reflink experiencias-para-conectar-con-andalucia >}}.

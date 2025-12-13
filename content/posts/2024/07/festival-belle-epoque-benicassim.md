@@ -96,8 +96,8 @@ XVII, ubicado en un bonito escenario natural.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2023/10/que-ver-castellon-plana >}} 
+{{< reflink que-ver-castellon-plana >}} 
 
-{{< reflink path=posts/2019/07/que-hacer-en-matarranya-piscinas-naturales-verano >}} 
+{{< reflink que-hacer-en-matarranya-piscinas-naturales-verano >}} 
 
-{{< reflink path=posts/2021/03/planes-originales-en-benidorm >}}
+{{< reflink planes-originales-en-benidorm >}}

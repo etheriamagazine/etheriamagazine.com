@@ -39,13 +39,13 @@ casa o preparar una bolsa de aseo de viaje. Para ello solo necesitas tener un ce
 dientes, desodorante o peine diferentes del que usas habitualmente. Las muestras que te 
 dan en algunas tiendas de cosmética se convierten en un básico a la hora de viajar con 
 botes pequeños o champú en sobres. No sólo viajarás con menos peso, sino que el hecho de 
-tener **una bolsa de aseo o productos específicos de viaje** (consulta los {{< reflink 
-path=posts/2019/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras >}}) te será de 
-gran ayuda para no olvidarte nada y sentirte más ligera. A la hora de revisar que no te 
-dejas nada recuerda empezar por lo esencial. Cepillo de dientes, ropa interior, 
-pasaporte… Una lista de “imprescindibles” en la que no te puedes olvidar de lo más 
-importante. Y si hay algo esencial para tu bienestar, además de los productos de aseo e 
-higiene personal, son tus **juguetes eróticos de viaje.** 
+tener **una bolsa de aseo o productos específicos de viaje** (consulta los [neceseres 
+para mujeres viajeras]({{% ref 10-neceseres-viaje-o-regalos-para-mujeres-viajeras %}})) 
+te será de gran ayuda para no olvidarte nada y sentirte más ligera. A la hora de revisar 
+que no te dejas nada recuerda empezar por lo esencial. Cepillo de dientes, ropa 
+interior, pasaporte… Una lista de “imprescindibles” en la que no te puedes olvidar de lo 
+más importante. Y si hay algo esencial para tu bienestar, además de los productos de 
+aseo e higiene personal, son tus **juguetes eróticos de viaje.** 
 
 ![We-Vibe Chorus un juguete sexual ideal para viajar](https://fotos.etheriamagazine.com/2022/11/We-Vibe-Chorus-pink.jpg "© We-Vibe Chorus.")
 
@@ -121,6 +121,6 @@ placenteros.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/02/beneficios-del-ayuno-intermitente-para-la-salud >}}. 
+{{< reflink beneficios-del-ayuno-intermitente-para-la-salud >}}. 
 
-{{< reflink path=posts/2022/05/dia-higiene-menstrual >}}.
+{{< reflink dia-higiene-menstrual >}}.

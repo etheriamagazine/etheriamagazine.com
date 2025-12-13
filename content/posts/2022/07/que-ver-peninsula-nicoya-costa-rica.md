@@ -250,8 +250,8 @@ Fotos: Visit Costa Rica
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2021/12/ruta-quetzal-costa-rica >}}. 
+{{< reflink ruta-quetzal-costa-rica >}}. 
 
-{{< reflink path=posts/2021/04/viaje-costa-rica-con-ninos-que-hacer-en-familia >}}. 
+{{< reflink viaje-costa-rica-con-ninos-que-hacer-en-familia >}}. 
 
-{{< reflink path=posts/2018/05/consejos-viaje-costa-rica-con-ninos-familias >}}.
+{{< reflink consejos-viaje-costa-rica-con-ninos-familias >}}.

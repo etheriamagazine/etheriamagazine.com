@@ -212,10 +212,10 @@ crucero es el momento de ser todo lo barroca que te permita tu armario.
 
 ## Otros artículos de Etheria Magazine sobre cruceros
 
-{{< reflink path=posts/2018/11/una-maleta-para-un-crucero >}} 
+{{< reflink una-maleta-para-un-crucero >}} 
 
-{{< reflink path=posts/2019/01/que-visitar-crucero-por-islas-griegas >}} 
+{{< reflink que-visitar-crucero-por-islas-griegas >}} 
 
-{{< reflink path=posts/2018/05/crucero-familia-disney-bahamas >}} 
+{{< reflink crucero-familia-disney-bahamas >}} 
 
-{{< reflink path=posts/2020/07/crucero-fluvial-por-el-guadalquivir-andalucia >}}.
+{{< reflink crucero-fluvial-por-el-guadalquivir-andalucia >}}.

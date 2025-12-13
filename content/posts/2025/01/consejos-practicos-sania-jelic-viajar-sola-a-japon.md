@@ -253,6 +253,7 @@ El tax free suele ser a partir de compras superiores a 5.000 o 5.500 yenes.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2024/12/viajar-sola-a-seul-sania-jelic-corea >}} 
+{{< reflink viajar-sola-a-seul-sania-jelic-corea >}} 
 
-{{< reflink path=posts/2024/11/viajar-sola-noruega-auroras-boreales >}}
+[Viajar sola a Noruega en busca de las auroras boreales: consejos de Sania Jelic]({{% 
+ref viajar-sola-noruega-auroras-boreales %}})

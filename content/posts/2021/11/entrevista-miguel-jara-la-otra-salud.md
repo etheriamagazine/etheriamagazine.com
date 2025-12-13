@@ -152,8 +152,8 @@ Kindle) y unos 24 € (edición impresa).
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2021/10/como-afecta-la-pandemia-a-la-salud-mental >}}. 
+{{< reflink como-afecta-la-pandemia-a-la-salud-mental >}}. 
 
-{{< reflink path=posts/2021/06/metoo-yogui-denuncias-del-abuso-en-yoga >}}. 
+{{< reflink metoo-yogui-denuncias-del-abuso-en-yoga >}}. 
 
-{{< reflink path=posts/2021/05/menstruacion-tabu-estigma-para-ninas-mundo >}}.
+{{< reflink menstruacion-tabu-estigma-para-ninas-mundo >}}.

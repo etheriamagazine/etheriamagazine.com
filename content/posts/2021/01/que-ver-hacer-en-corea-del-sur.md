@@ -162,8 +162,8 @@ tupido telón.
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2019/06/como-organizar-un-viaje-a-japon >}} 
+{{< reflink como-organizar-un-viaje-a-japon >}} 
 
-{{< reflink path=posts/2019/04/viajar-sola-que-ver-hacer-dormir-okinawa-japon >}} 
+{{< reflink viajar-sola-que-ver-hacer-dormir-okinawa-japon >}} 
 
-{{< reflink path=posts/2019/12/que-hacer-en-guangxi-viaja-sola-china >}}
+{{< reflink que-hacer-en-guangxi-viaja-sola-china >}}

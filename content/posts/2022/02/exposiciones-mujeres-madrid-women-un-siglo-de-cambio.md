@@ -129,8 +129,8 @@ de vida.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2022/01/ruta-ava-gardner-en-madrid >}}. 
+{{< reflink ruta-ava-gardner-en-madrid >}}. 
 
-{{< reflink path=posts/2021/04/que-ver-en-museo-naval-de-madrid >}}. 
+{{< reflink que-ver-en-museo-naval-de-madrid >}}. 
 
-{{< reflink path=posts/2020/11/brunch-buenos-y-baratos-en-madrid >}}.
+{{< reflink brunch-buenos-y-baratos-en-madrid >}}.

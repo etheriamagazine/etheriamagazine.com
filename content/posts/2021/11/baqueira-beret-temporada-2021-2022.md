@@ -144,6 +144,6 @@ para el bolsillo.
 
 ### También te puede interesar...
 
-{{< reflink path=posts/2020/08/pueblos-y-rutas-imprescindibles-en-valle-aran >}}. 
+{{< reflink pueblos-y-rutas-imprescindibles-en-valle-aran >}}. 
 
-{{< reflink path=posts/2019/01/planes-en-la-nieve-para-mujeres-que-no-esquian >}}.
+{{< reflink planes-en-la-nieve-para-mujeres-que-no-esquian >}}.

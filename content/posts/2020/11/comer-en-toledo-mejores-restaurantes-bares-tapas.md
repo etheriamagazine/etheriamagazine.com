@@ -37,11 +37,11 @@ supuesto, mazapán.
 ![alfileritos 24 comer bien en Toledo](https://fotos.etheriamagazine.com/2020/10/Restaurantes-Toledo-mesa-Alfileritos-24.jpg "Mesa del restaurante © Alfileritos 24")
 
 Un artículo aparte merecerían los vinos de Toledo, que además de formar parte de la D.O. 
-La Mancha (no te pierdas la {{< reflink path=posts/2019/03/ruta-del-vino-de-la-mancha 
->}}) y Vinos de la Tierra de Tierra de Castilla, cuenta con bodegas y viñedos en la D.O. 
-Méntrida y en la D.O. Vinos de Uclés, y con sus propios Vinos de Pago en Dominio de 
-Valdepusa, Dehesa del Carrizal y Campo de la Guardia. Incluso cuentan con varias 
-cervezas artesanas propias y estupendas. 
+La Mancha (no te pierdas la [ruta del vino de La Mancha]({{% ref 
+ruta-del-vino-de-la-mancha %}})) y Vinos de la Tierra de Tierra de Castilla, cuenta con 
+bodegas y viñedos en la D.O. Méntrida y en la D.O. Vinos de Uclés, y con sus propios 
+Vinos de Pago en Dominio de Valdepusa, Dehesa del Carrizal y Campo de la Guardia. 
+Incluso cuentan con varias cervezas artesanas propias y estupendas. 
 
 ## Los mejores restaurantes de Toledo, una selección muy personal
 
@@ -244,8 +244,6 @@ de carne, pimientos, salsa ali-oli y tomate picante que les han dado fama.
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/12/mejores-restaurantes-para-comer-cochinillo-en-segovia >}} 
+{{< reflink mejores-restaurantes-para-comer-cochinillo-en-segovia >}} 
 
-{{< reflink 
-path=posts/2020/07/terrazas-y-restaurantes-de-toledo-ciudad-real-guadalajara-albacete 
->}}.
+{{< reflink terrazas-y-restaurantes-de-toledo-ciudad-real-guadalajara-albacete >}}.

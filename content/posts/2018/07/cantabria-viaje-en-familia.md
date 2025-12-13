@@ -170,12 +170,10 @@ y media. Es recomendable comprar las entradas con antelación en la web de la cu
 
 ### Otros artículos sobre Cantabria que te pueden interesar:
 
-{{< reflink 
-path=posts/2020/06/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}} 
+{{< reflink 8-lugares-sorprendentes-de-cantabria-para-una-ruta-original >}} 
 
-{{< reflink 
-path=posts/2020/02/5-experiencias-en-cantabria-para-un-fin-de-semana-con-amigas >}} 
+{{< reflink 5-experiencias-en-cantabria-para-un-fin-de-semana-con-amigas >}} 
 
-{{< reflink path=posts/2020/05/viaje-a-los-mejores-faros-de-cantabria >}} 
+{{< reflink viaje-a-los-mejores-faros-de-cantabria >}} 
 
-{{< reflink path=posts/2021/06/que-ver-en-valle-de-valdeolea-cantabria >}}
+{{< reflink que-ver-en-valle-de-valdeolea-cantabria >}}

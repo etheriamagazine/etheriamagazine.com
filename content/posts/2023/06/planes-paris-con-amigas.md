@@ -297,6 +297,7 @@ France](https://www.france.fr/es)
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/05/viajar-sola-que-ver-paris >}} 
+{{< reflink viajar-sola-que-ver-paris >}} 
 
-{{< reflink path=posts/2018/08/viaje-de-compras-le-marais-paris >}}
+[Shopping en París, tiendas imprescindibles en Le Marais]({{% ref 
+viaje-de-compras-le-marais-paris %}})

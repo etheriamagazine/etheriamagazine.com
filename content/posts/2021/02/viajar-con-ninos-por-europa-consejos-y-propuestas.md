@@ -118,27 +118,28 @@ cómodas y muy interesantes para viajar con niños.
 
 ### Sur de Alemania en familia
 
-En el reportaje {{< reflink 
-path=posts/2019/06/viaje-en-familia-parques-alemania-playmobil-legoland >}} os 
-contábamos todas las bondades de esta maravillosa ruta que combina ciudades históricas 
-con parques temáticos. Un viaje que parte de la preciosa ciudad de Núremberg, donde 
-además se encuentra el **Fun Park Playmobil**, un parque de juegos perfecto para niños 
-de 2 a 9 años. Después, tras pasar por **Rotemburgo** se llega a **Legoland**, donde te 
-recomendamos que te alojes en alguno de sus hoteles. Un parque perfecto para disfrutar 
-en familia cuyas atracciones están diseñadas siguiendo la estética de las famosas piezas 
-de Lego. Y el viaje termina con la mejor de las imágenes: la del **Castillo de 
-Neuschwanstein**. Desde aquí la ruta sigue hasta Múnich, atravesando la Baviera más 
-típica en pueblos como Oberammergau. 
+En el reportaje [Viaje en familia de seis días por Baviera]({{% ref 
+viaje-en-familia-parques-alemania-playmobil-legoland %}}) os contábamos todas las 
+bondades de esta maravillosa ruta que combina ciudades históricas con parques temáticos. 
+Un viaje que parte de la preciosa ciudad de Núremberg, donde además se encuentra el 
+**Fun Park Playmobil**, un parque de juegos perfecto para niños de 2 a 9 años. Después, 
+tras pasar por **Rotemburgo** se llega a **Legoland**, donde te recomendamos que te 
+alojes en alguno de sus hoteles. Un parque perfecto para disfrutar en familia cuyas 
+atracciones están diseñadas siguiendo la estética de las famosas piezas de Lego. Y el 
+viaje termina con la mejor de las imágenes: la del **Castillo de Neuschwanstein**. Desde 
+aquí la ruta sigue hasta Múnich, atravesando la Baviera más típica en pueblos como 
+Oberammergau. 
 
 ![Parque Playmobil Fun Park.](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-baviera-playmobil.jpg "Parque Playmobil Fun Park. © SG")
 
 ### Holanda, parques y divertidos museos
 
 En Holanda es muy fácil organizar un viaje ya que no hay nada que quede demasiado lejos. 
-En el reportaje {{< reflink path=posts/2018/08/holanda-en-familia >}} os contábamos cómo 
-aprovechar una ruta de una semana por este país. Primero, acercarse a la zona sur para 
-conocer **Avifauna**, un curioso parque que mezcla animales y atracciones, y el museo al 
-aire libre de **Madurodam** con sus famosas miniaturas. 
+En el reportaje [Qué ver y hacer en un viaje en familia por Holanda]({{% ref 
+holanda-en-familia %}}) os contábamos cómo aprovechar una ruta de una semana por este 
+país. Primero, acercarse a la zona sur para conocer **Avifauna**, un curioso parque que 
+mezcla animales y atracciones, y el museo al aire libre de **Madurodam** con sus famosas 
+miniaturas. 
 
 Después, tras pasar un día en **Ámsterdam** para dar un paseo por los canales y conocer 
 el imprescindible **museo de la ciencia NEMO**, una excelente alternativa es alojarse 
@@ -147,10 +148,11 @@ naturaleza, están llenas de actividades para pequeños y mayores. Para terminar
 podría ser el parque de atracciones más bonito de Europa: **Efteling**, un auténtico 
 mundo de hadas y fantasía que cuenta con un hotel con divertidas habitaciones temáticas. 
 
-✅ {{< reflink path=posts/2018/10/museo-nemo-en-amsterdam-ciencia-para-toda-la-familia 
->}} 
+✅ [Museo NEMO en Ámsterdam, ciencia al alcance de la mano]({{% ref 
+museo-nemo-en-amsterdam-ciencia-para-toda-la-familia %}}) 
 
-✅ {{< reflink path=posts/2018/08/center-parcs-de-eemhof-vacaciones-en-la-naturaleza >}} 
+✅ [Center Parcs Eemhof, tu alojamiento familiar en Holanda]({{% ref 
+center-parcs-de-eemhof-vacaciones-en-la-naturaleza %}}) 
 
 ![El museo de las miniaturas de Madurodam.](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-holanda-madurodam.jpg "El museo de las miniaturas de Madurodam. © SG")
 
@@ -160,14 +162,16 @@ Nos gusta tanto Suiza que nos cuesta elegir una sola zona para hacer un viaje en
 familia. Este país es perfecto para viajar con niños y su increíble naturaleza es 
 sinónimo de divertidas rutas, montañas a las que subir y parques infantiles increíbles 
 en casi cualquier montaña. Si queréis una auténtica ‘inmersión natural’ una excelente 
-opción es {{< reflink path=posts/2019/04/viaje-en-familia-que-hacer-engelberg-suiza >}} 
-y desde ahí hacer excursiones a las montañas que la rodean, hay muchísimas opciones. 
-Suiza también es perfecta para viajar en invierno y descubrir sus mercadillos navideños. 
-No os perdáis los de Zúrich y Lucerna. 
+opción es [viajar a Engelberg]({{% ref viaje-en-familia-que-hacer-engelberg-suiza %}}) y 
+desde ahí hacer excursiones a las montañas que la rodean, hay muchísimas opciones. Suiza 
+también es perfecta para viajar en invierno y descubrir sus mercadillos navideños. No os 
+perdáis los de Zúrich y Lucerna. 
 
-✅ {{< reflink path=posts/2018/10/mercados-de-navidad-en-zurich >}} 
+✅ [Mercados de Navidad de Zúrich, un fin de semana inolvidable]({{% ref 
+mercados-de-navidad-en-zurich %}}) 
 
-✅ {{< reflink path=posts/2019/12/fin-de-semana-lucerna-mercadillos-navidad >}} 
+✅ [8 actividades en Lucerna para un fin de semana navideño]({{% ref 
+fin-de-semana-lucerna-mercadillos-navidad %}}) 
 
 ![Trineos en julio en el Glacier Park, en el monte Titlis](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-Engelberg-snow-park-titlis.jpg "Trineos en julio en el Glacier Park, en el monte Titlis. © Laura Fernández")
 
@@ -175,19 +179,19 @@ No os perdáis los de Zúrich y Lucerna.
 
 No renuncies a los viajes culturales por viajar con niños. Si lo que te gusta es el arte 
 y te mueres por las ciudades históricas, te recomendamos Florencia y la Toscana para un 
-viaje en familia. Primero, descubrir {{< reflink 
-path=posts/2018/05/10-imprescindibles-para-disfrutar-florencia-con-ninos >}} con los 
-ojos de los pequeños de la casa no tiene precio, y hay un montón de actividades para 
-realizar con ellos en esta ciudad: una ruta ‘en busca del tesoro’ en la Galeria de los 
-Uffizi, visitar el Museo Leonardo da Vinci, ver títeres en el Puente Vecchio, recibir 
-una clase para aprender a hacer auténticos helados italianos… 
+viaje en familia. Primero, descubrir [Florencia]({{% ref 
+10-imprescindibles-para-disfrutar-florencia-con-ninos %}}) con los ojos de los pequeños 
+de la casa no tiene precio, y hay un montón de actividades para realizar con ellos en 
+esta ciudad: una ruta ‘en busca del tesoro’ en la Galeria de los Uffizi, visitar el 
+Museo Leonardo da Vinci, ver títeres en el Puente Vecchio, recibir una clase para 
+aprender a hacer auténticos helados italianos… 
 
-Y después la {{< reflink path=posts/2021/06/toscana-en-coche >}} con sus preciosos 
-paisajes y sus pueblos de cuento. Para no hacer demasiados kilómetros lo mejor es 
-centrarse en una zona y hacer excursiones de día agrupando varios pueblos cercanos. Por 
-ejemplo, dedicar un día a Volterra, San Gimignano y Monteriggioni y otro a 
-Montepulciano, Pienza y Montalcino. Ciudades como Pisa, Luca o Siena merecen un día 
-entero de excursión para verlas con calma. 
+Y después la [Toscana]({{% ref toscana-en-coche %}}) con sus preciosos paisajes y sus 
+pueblos de cuento. Para no hacer demasiados kilómetros lo mejor es centrarse en una zona 
+y hacer excursiones de día agrupando varios pueblos cercanos. Por ejemplo, dedicar un 
+día a Volterra, San Gimignano y Monteriggioni y otro a Montepulciano, Pienza y 
+Montalcino. Ciudades como Pisa, Luca o Siena merecen un día entero de excursión para 
+verlas con calma. 
 
 ![barco en azores](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-euorpa-toscana.jpg "Montepulciano, encaramado a una colina.")
 
@@ -195,47 +199,47 @@ entero de excursión para verlas con calma.
 
 La pequeña isla de Terceira, una de esas joyas sin masificar que todavía quedan en 
 Europa, es un lugar muy apetecible para viajar con niños (no te pierdas el artículo ✅ 
-{{< reflink path=posts/2018/06/terceira-en-familia >}}). Es un viaje muy cómodo, ya que 
-es una isla pequeña y puedes elegir un hotel de la capital, **Angra do Heroismo**, y 
-desde allí hacer excursiones de día. La gastronomía es rica y sencilla y los habitantes 
-amables, todavía no muy acostumbrados al turismo. No puedes perderte las piscinas 
-naturales de Biscoitos, un paseo en kayak, una ruta de senderismo en Baías da Agualva y 
-viajar a las profundidades de la isla en las cuevas de Algar do Carvão y en la Gruta do 
-Natal. Tampoco la excursión estrella en Terceira: una salida en barco o lancha rápida 
-para ver de cerca a los delfines que rodean la isla y, si hay suerte, a alguna ballena. 
+[Viaje con niños a Terceira: aventura entre las flores]({{% ref terceira-en-familia 
+%}})). Es un viaje muy cómodo, ya que es una isla pequeña y puedes elegir un hotel de la 
+capital, **Angra do Heroismo**, y desde allí hacer excursiones de día. La gastronomía es 
+rica y sencilla y los habitantes amables, todavía no muy acostumbrados al turismo. No 
+puedes perderte las piscinas naturales de Biscoitos, un paseo en kayak, una ruta de 
+senderismo en Baías da Agualva y viajar a las profundidades de la isla en las cuevas de 
+Algar do Carvão y en la Gruta do Natal. Tampoco la excursión estrella en Terceira: una 
+salida en barco o lancha rápida para ver de cerca a los delfines que rodean la isla y, 
+si hay suerte, a alguna ballena. 
 
 ![Viajes a Azores con niños](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-europa-terceira.jpg "Avistamiento de cetáceos en Terceira. © SG")
 
 ### Alsacia y Selva Negra, paisajes de cuento
 
-Esta {{< reflink path=posts/2018/08/ruta-en-familia-por-alsacia-y-selva-negra >}}{{< 
-reflink path=posts/2018/08/ruta-en-familia-por-alsacia-y-selva-negra >}}, por la 
-frontera franco-germana, es ideal para disfrutarla en familia ya que tiene alicientes 
-para todos. Comienza en la preciosa ciudad de **Estrasburgo** para continuar por la 
-región de viñedos francesa de Alsacia (con pueblos que no puedes perderte como Colmar y 
-Riquewihr) y llegar hasta el lugar que más gustará a los niños: **Europa Park**. Un 
-parque temático sorprendentemente desconocido en España pero muy popular en el resto de 
-Europa que tiene de todo. Merece la pena alojarse al menos una noche en uno de sus 
-hoteles. Y, para terminar, **Friburgo y la Selva Negra** con sus paisajes de cuento y 
-dos lugares de visita obligada: las cataratas de Triberg y el gran reloj de cuco de 
-Schonach. Un viaje con ciudades maravillosas, naturaleza y un gran parque temático que 
-tienes que conocer sí o sí. 
+Esta [R]({{% ref ruta-en-familia-por-alsacia-y-selva-negra %}})[uta por Alsacia y Selva 
+Negra]({{% ref ruta-en-familia-por-alsacia-y-selva-negra %}}), por la frontera 
+franco-germana, es ideal para disfrutarla en familia ya que tiene alicientes para todos. 
+Comienza en la preciosa ciudad de **Estrasburgo** para continuar por la región de 
+viñedos francesa de Alsacia (con pueblos que no puedes perderte como Colmar y Riquewihr) 
+y llegar hasta el lugar que más gustará a los niños: **Europa Park**. Un parque temático 
+sorprendentemente desconocido en España pero muy popular en el resto de Europa que tiene 
+de todo. Merece la pena alojarse al menos una noche en uno de sus hoteles. Y, para 
+terminar, **Friburgo y la Selva Negra** con sus paisajes de cuento y dos lugares de 
+visita obligada: las cataratas de Triberg y el gran reloj de cuco de Schonach. Un viaje 
+con ciudades maravillosas, naturaleza y un gran parque temático que tienes que conocer 
+sí o sí. 
 
 ![Camino a las cataratas de Triberg, en la Selva Negra.](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-cataratas-triberg.jpg "Camino a las cataratas de Triberg, en la Selva Negra. © SG")
 
 ### Valle del Loira y Futuroscope
 
-Seguro que el viaje que os contamos en {{< reflink 
-path=posts/2019/03/que-ver-ruta-en-coche-valle-del-loira >}} es uno de esos viajes que 
-siempre has querido hacer. No renuncies a la idea si tienes niños ya que es una ruta 
-perfecta para disfrutar en familia. Lo mejor es centrarse en una zona, ya que la ruta es 
-bastante larga, y tomar como base una ciudad como **Amboise** que, además de un castillo 
-precioso, tiene interesantes lugares para todas las edades como el castillo de 
-Clos-Lucé, dedicado a Leonardo da Vinci, y el parque de la pagoda de Chanteloup. Como 
-broche final, ¿qué tal si os acercáis a {{< reflink 
-path=posts/2018/08/10-consejos-futuroscope >}}? Está a tan solo dos horas de coche y es 
-un parque donde disfrutaréis todos con sus atracciones de realidad virtual y su zona de 
-juegos para los más pequeños. 
+Seguro que el viaje que os contamos en [Ruta en coche por el Valle del Loira]({{% ref 
+que-ver-ruta-en-coche-valle-del-loira %}}) es uno de esos viajes que siempre has querido 
+hacer. No renuncies a la idea si tienes niños ya que es una ruta perfecta para disfrutar 
+en familia. Lo mejor es centrarse en una zona, ya que la ruta es bastante larga, y tomar 
+como base una ciudad como **Amboise** que, además de un castillo precioso, tiene 
+interesantes lugares para todas las edades como el castillo de Clos-Lucé, dedicado a 
+Leonardo da Vinci, y el parque de la pagoda de Chanteloup. Como broche final, ¿qué tal 
+si os acercáis a [Futuroscope]({{% ref 10-consejos-futuroscope %}})? Está a tan solo dos 
+horas de coche y es un parque donde disfrutaréis todos con sus atracciones de realidad 
+virtual y su zona de juegos para los más pequeños. 
 
 ![El ‘Loire a Velo’ pasa junto al castillo de Chenanceau.](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-europa-Chenonceau.jpg "El ‘Loire a Velo’ pasa junto al castillo de Chenanceau. © D. Darrault/ CRT Centre Val de Loire")
 
@@ -244,25 +248,26 @@ juegos para los más pequeños.
 Dejamos para el final el viaje estrella para viajar con niños: una escapada a la Laponia 
 finlandesa en invierno para disfrutar de la magia de sus paisajes nevados, vivir sus 
 divertidas actividades y conocer en persona al mismísimo Papá Noel (no te pierdas el 
-artículo ✅ {{< reflink path=posts/2018/09/viaje-laponia-finlandesa-ninos-en-familia 
->}}). Hay muchos tipos de viajes a Laponia. Nuestra recomendación en este caso es ir de 
-la mano de una agencia de viajes, ya que hay que organizar muchas cosas y si vas pocos 
-días y quieres aprovecharlos lo mejor es dejarlo en manos de profesionales, puedes 
-consultar los viajes de mayoristas como Catai o Icarion. Se encargarán incluso de 
-facilitaros los trajes térmicos y las botas adecuadas para el viaje. Nuestro consejo: 
-que os alojéis en cabañas mejor que en un hotel. Y, si es posible, visitar a Papá Noel 
-en su cabaña privada, es una experiencia única para toda la familia. Te recomendamos que 
-eches un vistazo a nuestro artículo {{< reflink 
-path=posts/2018/09/8-consejos-para-viajar-a-la-laponia-finlandesa-con-ninos >}}. 
+artículo ✅ [Laponia con niños: un viaje irrepetible]({{% ref 
+viaje-laponia-finlandesa-ninos-en-familia %}})). Hay muchos tipos de viajes a Laponia. 
+Nuestra recomendación en este caso es ir de la mano de una agencia de viajes, ya que hay 
+que organizar muchas cosas y si vas pocos días y quieres aprovecharlos lo mejor es 
+dejarlo en manos de profesionales, puedes consultar los viajes de mayoristas como Catai 
+o Icarion. Se encargarán incluso de facilitaros los trajes térmicos y las botas 
+adecuadas para el viaje. Nuestro consejo: que os alojéis en cabañas mejor que en un 
+hotel. Y, si es posible, visitar a Papá Noel en su cabaña privada, es una experiencia 
+única para toda la familia. Te recomendamos que eches un vistazo a nuestro artículo [8 
+consejos para viajar con niños a la Laponia finlandesa]({{% ref 
+8-consejos-para-viajar-a-la-laponia-finlandesa-con-ninos %}}). 
 
 ![niño con Papa Noel en Laponia](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-laponia-papa-noel.jpg "Visita a la cabaña privada de Papá Noel en la Laponia finlandesa. © SG")
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/11/10-actividades-para-un-viaje-en-familia-a-japon >}} 
+{{< reflink 10-actividades-para-un-viaje-en-familia-a-japon >}} 
 
-{{< reflink path=posts/2022/02/dubai-con-ninos-actividades-y-excursiones >}} 
+{{< reflink dubai-con-ninos-actividades-y-excursiones >}} 
 
-{{< reflink path=posts/2021/04/viaje-costa-rica-con-ninos-que-hacer-en-familia >}} 
+{{< reflink viaje-costa-rica-con-ninos-que-hacer-en-familia >}} 
 
-{{< reflink path=posts/2018/05/miami-7-planes-para-viajar-en-familia >}}
+{{< reflink miami-7-planes-para-viajar-en-familia >}}

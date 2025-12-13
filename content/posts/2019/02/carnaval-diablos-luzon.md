@@ -145,9 +145,8 @@ con unas tapas o mediante sus menús diarios salvo domingos. Tel. 949 839 820
 
 **También te puede interesar...** 
 
-{{< reflink path=posts/2020/06/floracion-campos-lavanda-brihuega-guadalajara-2019 >}}. 
+{{< reflink floracion-campos-lavanda-brihuega-guadalajara-2019 >}}. 
 
-{{< reflink path=posts/2019/05/ruta-en-coche-pueblos-negros-guadalajara >}}. 
+{{< reflink ruta-en-coche-pueblos-negros-guadalajara >}}. 
 
-{{< reflink path=posts/2021/03/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia 
->}}.
+{{< reflink 15-lugares-imprescindibles-que-ver-en-segovia-y-provincia >}}.

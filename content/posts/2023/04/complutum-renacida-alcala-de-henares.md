@@ -153,6 +153,6 @@ anterior en tu móvil o en el ordenador.
 
 **Más planes familiares en ETHERIA MAGAZINE...** 
 
-{{< reflink path=posts/2023/03/excursiones-ninos-en-madrid >}}. 
+{{< reflink excursiones-ninos-en-madrid >}}. 
 
-{{< reflink path=posts/2022/12/planes-adolescentes-madrid >}}.
+{{< reflink planes-adolescentes-madrid >}}.

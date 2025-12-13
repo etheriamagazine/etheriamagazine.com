@@ -171,10 +171,8 @@ en España en 2012 Karina Zegers.
 
 #### También te puede interesar...
 
-- {{< reflink 
-path=posts/2020/11/mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion 
->}}. 
+- [Mindfulness y meditación para reducir el estrés y la ansiedad]({{% ref 
+mindfulness-y-meditacion-para-reducir-estres-ansiedad-y-depresion %}}). 
 
-- {{< reflink 
-path=posts/2020/10/uso-terapeutico-de-la-sal-beneficios-de-la-haloterapia-y-la-talasoterapia 
->}}.
+- [Haloterapia y talasoterapia, conoce todos los beneficios de la sal]({{% ref 
+uso-terapeutico-de-la-sal-beneficios-de-la-haloterapia-y-la-talasoterapia %}}).

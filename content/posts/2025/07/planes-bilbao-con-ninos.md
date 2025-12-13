@@ -164,9 +164,10 @@ programación de actividades en la naturaleza para familias.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2025/07/visita-en-familia-gernika-bizkaia >}} 
+{{< reflink visita-en-familia-gernika-bizkaia >}} 
 
-{{< reflink path=posts/2025/06/que-ver-en-museo-guggenheim-bilbao >}} 
+{{< reflink que-ver-en-museo-guggenheim-bilbao >}} 
 
-{{< reflink path=posts/2019/12/finde-bilbao-con-amigas-mejores-restaurantes >}}{{< 
-reflink path=posts/2021/02/7-imprescindibles-en-reserva-urdaibai >}}
+[]({{% ref finde-bilbao-con-amigas-mejores-restaurantes %}})[Urdaibai, experimenta el 
+efecto Hemingway en sólo siete paradas]({{% ref 7-imprescindibles-en-reserva-urdaibai 
+%}})

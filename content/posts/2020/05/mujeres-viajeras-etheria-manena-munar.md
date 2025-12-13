@@ -121,7 +121,7 @@ ventana como enormes copos de nieve cubrían de blanco la estepa rusa.
 ![manena munar, etheria magazine](https://fotos.etheriamagazine.com/2020/04/manena-munar-etheria-magazine-7.jpg "Al poco, se rompió el hielo del río Neva en San Petersburgo. © Jorge A. Munar")
 
 El tercero tiene otro escenario muy distinto. El de los pueblos rojos del Valle de 
-Ourika en el {{< reflink path=posts/2019/04/vida-mujer-bereber-alto-atlas-marruecos >}}. 
+Ourika en el [Atlas marroquí]({{% ref vida-mujer-bereber-alto-atlas-marruecos %}}). 
 Trekking, comer bajo los olivos, convivir con el pueblo bereber, camping, el sonido del 
 muecín, risas, muchas risas, y un grupo que, recién presentados, nos convertiríamos en 
 amigos para siempre. 
@@ -148,13 +148,12 @@ sambenito” a cuestas.
 ### 9\. ¿Qué tres viajes que hayas realizado recomendarías especialmente a una viajera?
 
 Disfrutar de la naturaleza en todo su esplendor embarcando en **Bergen** para navegar 
-por los **fiordos noruegos**. {{< reflink 
-path=posts/2018/11/botsuana-10-razones-para-sentirte-la-reina-de-africa >}}, donde 
-disfrutar de la vida salvaje del Delta del Okavango, Parque Chobe y Savuti, dando un 
-salto a su vecinos Zambia y Zimbabue para ver las Cataratas Victoria desde ambas 
-perspectivas. Por último, la ciudad de {{< reflink 
-path=posts/2019/07/que-ver-buenos-aires-belle-epoque-viajar-sola >}} me sorprendió y 
-fascinó. 
+por los **fiordos noruegos**. [Botsuana]({{% ref 
+botsuana-10-razones-para-sentirte-la-reina-de-africa %}}), donde disfrutar de la vida 
+salvaje del Delta del Okavango, Parque Chobe y Savuti, dando un salto a su vecinos 
+Zambia y Zimbabue para ver las Cataratas Victoria desde ambas perspectivas. Por último, 
+la ciudad de [Buenos Aires]({{% ref que-ver-buenos-aires-belle-epoque-viajar-sola %}}) 
+me sorprendió y fascinó. 
 
 > Tres viajes pendientes: Me encantaría ir a la Antártida, conocer Vietnam y pasar unos 
 > días en Nueva Orleans. 
@@ -210,6 +209,5 @@ navidad como regalo exótico.
 
 ### 15\. ¿Hay alguna mujer en el sector turístico que admires y que te gustaría proponer para entrevistar en esta sección?
 
-Admiro y quiero a {{< reflink 
-path=posts/2020/04/mujer-etheria-elena-del-amo-periodista-viajes >}}. Aparte de docta en 
-la materia tiene un primoroso sentido del humor.
+Admiro y quiero a [Elena del Amo]({{% ref mujer-etheria-elena-del-amo-periodista-viajes 
+%}}). Aparte de docta en la materia tiene un primoroso sentido del humor.

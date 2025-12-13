@@ -27,9 +27,10 @@ lado del río, el tiempo parecía detenerse. A continuación os contaremos cómo
 organizamos para ver las visitas básicas en nuestros dos días en Granada. Esperamos que 
 os resulte útil. 
 
-Y si te tenéis más tiempo, estos artículos os pueden interesar: {{< reflink 
-path=posts/2022/09/que-ver-en-granada-provincia >}} y {{< reflink 
-path=posts/2022/06/granada-con-amigas >}}. 
+Y si te tenéis más tiempo, estos artículos os pueden interesar: [15 lugares 
+imprescindibles en Granada, una provincia de belleza descomunal]({{% ref 
+que-ver-en-granada-provincia %}}) y [Granada con amigas: cultura, diversión y mucho 
+arte]({{% ref granada-con-amigas %}}). 
 
 ![viaje granada, albacin](https://fotos.etheriamagazine.com/2020/05/granada-albaicin-viajes-mujeres.jpg "Vista del Albaicín desde la Alhambra, al otro lado del río Darro.")
 
@@ -192,8 +193,8 @@ jardines, los juegos de luces y sombras y la prolífica ornamentación árabe. C
 suprema belleza y delicadeza del arte y con una imagen impactante de calles retorcidas y 
 misteriosas en el Albayzín, decimos adiós a Granada. 
 
-📌**Imprescindible:** {{< reflink path=posts/2021/10/consejos-para-visitar-la-alhambra 
->}} 
+📌**Imprescindible:** [10 consejos para triunfar en tu visita a la Alhambra]({{% ref 
+consejos-para-visitar-la-alhambra %}}) 
 
 ![mirador sacromonte, vistas de la alhambra, atardecer alhambra, atardecer granada](https://fotos.etheriamagazine.com/2020/05/atardecer-sacromonte-granada.jpg "Mirador del Sacromonte, menos masificado que el de San Nicolás. © Victoriano Izquierdo")
 
@@ -212,5 +213,5 @@ ni los guiris, ni los puestos, ni los artistas improvisados logran restar magia 
 panorámica. Existen otros menos conocidos para disfrutar del ocaso en soledad como el 
 mirador de **San Cristóbal** o el del **Sacromonte**. 
 
-📍Para comer bien en Granada, no te pierdas: {{< reflink 
-path=posts/2020/10/restaurantes-bares-de-granada-y-visitas-para-mujeres >}}.
+📍Para comer bien en Granada, no te pierdas: [Granada, el privilegio de la buena 
+mesa]({{% ref restaurantes-bares-de-granada-y-visitas-para-mujeres %}}).

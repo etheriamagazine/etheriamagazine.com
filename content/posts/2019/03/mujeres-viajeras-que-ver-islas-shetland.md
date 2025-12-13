@@ -197,7 +197,6 @@ frailecillos que, con su colorido pico, no te cansarás de observar.
 
 📌 **También te puede interesar:** 
 
-{{< reflink path=posts/2021/04/los-mejores-jardines-de-gran-bretana >}} 
+{{< reflink los-mejores-jardines-de-gran-bretana >}} 
 
-{{< reflink 
-path=posts/2019/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}}
+{{< reflink de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra >}}

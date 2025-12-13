@@ -151,8 +151,8 @@ ganarse el cielo con su generosidad.
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2019/09/crucero-por-el-mekong-excursiones-vietnam-y-camboya >}} 
+{{< reflink crucero-por-el-mekong-excursiones-vietnam-y-camboya >}} 
 
-{{< reflink path=posts/2019/01/que-ver-angkor-bailarinas-robadas >}} 
+{{< reflink que-ver-angkor-bailarinas-robadas >}} 
 
-{{< reflink path=posts/2019/05/10-templos-no-debes-perderte-viaje-asia >}}
+{{< reflink 10-templos-no-debes-perderte-viaje-asia >}}

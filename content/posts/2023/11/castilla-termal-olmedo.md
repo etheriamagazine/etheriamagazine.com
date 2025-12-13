@@ -117,10 +117,9 @@ Castilla y León.
 
 Y de postre, es obligado probar su deliciosa tarta de queso. No habréis saboreado nada 
 igual. Por supuesto, todo ello regado con los vinos de la D.O. Rueda o con un vino 
-**Converso**, el que elabora la cadena con las uvas de los viñedos situados junto al {{< 
-reflink 
-path=posts/2021/10/castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero 
->}}. 
+**Converso**, el que elabora la cadena con las uvas de los viñedos situados junto al 
+[Castilla Termal Monasterio de Valbuena]({{% ref 
+castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero %}}). 
 
 Además del restaurante Hontanar, también se puede tomar algo más ligero en el Gastrobar 
 del Convento (con carta propia), la terraza del Patio Porticado o La Bodeguita. 
@@ -140,8 +139,9 @@ La segunda propuesta es especial para las amantes del enoturismo, ya que esta zo
 incluida dentro de la **Ruta del Vino de Rueda** por lo que no faltan bodegas o 
 restaurantes gastronómicos para disfrutar de una experiencia única. 
 
-✅ En este artículo encontraréis todas las claves para vuestra escapada. {{< reflink 
-path=posts/2023/11/guia-enoturismo-ruta-del-vino-rueda >}}. 
+✅ En este artículo encontraréis todas las claves para vuestra escapada. [Cómo disfrutar 
+de la Ruta del Vino de Rueda, tu guía más hedonista]({{% ref 
+guia-enoturismo-ruta-del-vino-rueda %}}). 
 
 ![Recepción del hotel balneario Castilla Termal Olmedo.](https://fotos.etheriamagazine.com/2023/11/recepcion-castilla-termal-olmedo.jpg "Recepción del hotel balneario Castilla Termal Olmedo.")
 

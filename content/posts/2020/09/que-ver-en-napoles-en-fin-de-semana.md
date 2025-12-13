@@ -207,8 +207,8 @@ a buenos precios.
 
 ### Sigue leyendo en Etheria magazine...
 
-{{< reflink path=posts/2021/09/ruta-en-coche-en-lago-de-garda-italia >}}. 
+{{< reflink ruta-en-coche-en-lago-de-garda-italia >}}. 
 
-{{< reflink path=posts/2021/07/que-ver-en-turin-en-un-viaje-con-amigas >}}. 
+{{< reflink que-ver-en-turin-en-un-viaje-con-amigas >}}. 
 
-{{< reflink path=posts/2021/05/paseos-por-los-jardines-mas-bellos-de-florencia >}}.
+{{< reflink paseos-por-los-jardines-mas-bellos-de-florencia >}}.

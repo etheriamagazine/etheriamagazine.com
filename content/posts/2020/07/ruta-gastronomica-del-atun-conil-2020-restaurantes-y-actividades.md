@@ -18,15 +18,15 @@ respectivas especialidades. ¡Disfruta del atún y buen provecho!
 ![ruta atun conil, restaurante el buche](https://fotos.etheriamagazine.com/2020/07/ruta-del-atun-hotel-fuerte.jpg "Restaurante El Buche © Hotel Fuerte Conil-Resort.")
 
 El atún rojo no es nuevo por tierras conileñas o por otros municipios cercanos como 
-**Barbate**, **Zahara de los Atunes** o {{< reflink 
-path=posts/2020/07/viajes-por-espana-tarifa-con-amigas-aires-de-windsurf >}}. De hecho, 
-han transcurrido muchos siglos desde que el rey del mar, fiel a su ruta anual de desove 
-desde el Atlántico hasta el Mediterráneo, le regala grandes alegrías a quienes instalan 
-las almadrabas cada primavera. De este arte de pesca y de su trayectoria histórica ya os 
-hemos hablado anteriormente (artículo {{< reflink 
-path=posts/2018/06/ruta-del-atun-rojo-en-cadiz >}}), así que en esta ocasión nos 
-detendremos en otro aspecto cultural, quizá uno de los más gratos, el placer 
-gastronómico que nos brindan los excelentes restaurante de Conil. 
+**Barbate**, **Zahara de los Atunes** o [Tarifa]({{% ref 
+viajes-por-espana-tarifa-con-amigas-aires-de-windsurf %}}). De hecho, han transcurrido 
+muchos siglos desde que el rey del mar, fiel a su ruta anual de desove desde el 
+Atlántico hasta el Mediterráneo, le regala grandes alegrías a quienes instalan las 
+almadrabas cada primavera. De este arte de pesca y de su trayectoria histórica ya os 
+hemos hablado anteriormente (artículo [Ruta del Atún Rojo en Cádiz]({{% ref 
+ruta-del-atun-rojo-en-cadiz %}})), así que en esta ocasión nos detendremos en otro 
+aspecto cultural, quizá uno de los más gratos, el placer gastronómico que nos brindan 
+los excelentes restaurante de Conil. 
 
 Si bien en años anteriores las **Jornadas del Atún** se habían realizado en mayo, 
 coincidiendo con la temporada de almadraba, en esta ocasión las circunstancias han 
@@ -141,12 +141,13 @@ tiene un precio de 35 € por persona.
 
 ### Sigue leyendo sobre turismo en Cádiz...
 
-- {{< reflink 
-path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz >}}. 
+- [Actividades familiares en la provincia de Cádiz]({{% ref 
+12-actividades-familiares-para-viajes-con-ninos-en-cadiz %}}). 
 
-- {{< reflink path=posts/2018/11/ruta-por-los-pueblos-blancos-de-cadiz >}} 
+- [Ruta de los pueblos blancos.]({{% ref ruta-por-los-pueblos-blancos-de-cadiz %}}) 
 
-- {{< reflink path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia 
->}}. 
+- [Visita las Ruinas de Baelo Claudia]({{% ref 
+guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia %}}). 
 
-- {{< reflink path=posts/2019/10/10-planes-con-ninos-en-cadiz-capital >}}.
+- [10 planes en Cádiz capital con niños]({{% ref 10-planes-con-ninos-en-cadiz-capital 
+%}}).

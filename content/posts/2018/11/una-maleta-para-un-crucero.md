@@ -133,6 +133,6 @@ Y una vez con la maleta preparada, te queda lo mejor ¡disfrutar del crucero!
 
 ## Otros artículos de Etheria Magazine sobre cruceros
 
-{{< reflink path=posts/2021/02/como-organizar-viaje-en-crucero-puertos-excursiones >}} 
+{{< reflink como-organizar-viaje-en-crucero-puertos-excursiones >}} 
 
-{{< reflink path=posts/2021/05/protocolos-covid-seguridad-en-costa-cruceros >}}
+{{< reflink protocolos-covid-seguridad-en-costa-cruceros >}}

@@ -23,11 +23,11 @@ Tenerife.
 El sur de Tenerife es siempre un destino perfecto. Y si te alojas en el **hotel The 
 Ritz-Carlton Abama** el éxito de tu viaje está asegurado, sea cual sea tu plan de viaje. 
 Si vas en pareja, está lleno de románticos rincones donde descansar con las mejores 
-vistas del mar y la isla de La Gomera; y una {{< reflink 
-path=posts/2021/05/viaje-a-tenerife-con-amigas-que-hacer-excursiones >}} es garantía de 
-éxito. En un viaje familiar, todos encontraréis un sinfín de actividades divertidas en 
-el propio hotel y en la isla, como ya os hemos contado en el reportaje {{< reflink 
-path=posts/2020/03/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos >}}. 
+vistas del mar y la isla de La Gomera; y una [escapada con amigas a Tenerife]({{% ref 
+viaje-a-tenerife-con-amigas-que-hacer-excursiones %}}) es garantía de éxito. En un viaje 
+familiar, todos encontraréis un sinfín de actividades divertidas en el propio hotel y en 
+la isla, como ya os hemos contado en el reportaje [8 excursiones con niños desde el sur 
+de Tenerife]({{% ref excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos %}}). 
 
 Y, ¿has pensado en hacer una escapada tú sola para descansar y desconectar de todo? Pues 
 ten muy en cuenta a este hotel; te van a cuidar y mimar con todos los servicios de un 
@@ -166,6 +166,6 @@ antes de realizar una reserva.
 
 ### También te puede interesar
 
-{{< reflink path=posts/2019/01/donde-dormir-tenerife-hotel-bahia-del-duque >}} 
+{{< reflink donde-dormir-tenerife-hotel-bahia-del-duque >}} 
 
-{{< reflink path=posts/2020/07/hotel-lujo-baobab-suites-tenerife >}}
+{{< reflink hotel-lujo-baobab-suites-tenerife >}}

@@ -143,12 +143,12 @@ ciudad.
 
 ### Los Beatles por Hamburgo
 
-Quienes curiosamente influyeron mucho en su fama fueron los mismísimos {{< reflink 
-path=posts/2018/07/stefanie-hempel-y-el-hamburgo-de-los-beatles >}}. Aquí pararon a 
-comienzos de los 60 durante dos años completos en los que tocaron ininterrumpidamente en 
-algunos de los garitos más afamados de la ciudad. El **Indra o el Kaiserkeller**, que 
-continúan existiendo hoy día, son solo dos de ellos. Una moderna escultura, por cierto, 
-rememora aquellos tiempos. 
+Quienes curiosamente influyeron mucho en su fama fueron los mismísimos [Beatles]({{% ref 
+stefanie-hempel-y-el-hamburgo-de-los-beatles %}}). Aquí pararon a comienzos de los 60 
+durante dos años completos en los que tocaron ininterrumpidamente en algunos de los 
+garitos más afamados de la ciudad. El **Indra o el Kaiserkeller**, que continúan 
+existiendo hoy día, son solo dos de ellos. Una moderna escultura, por cierto, rememora 
+aquellos tiempos. 
 
 > Si se sigue el curso del río Elba hacia el oeste se llega hasta el famoso Fishmarkt: un 
 > mercado de pescado que cada domingo por la mañana se llena de vida. 
@@ -171,9 +171,9 @@ entre inmensas grúas de carga y aún más inmensos navíos.
 
 Con un tráfico de **casi 13 mil barcos al año**, el puerto ha sido siempre pieza clave 
 en la evolución de Hamburgo. De hecho, no solo es el más grande del país: también el 
-**segundo más grande de Europa** —después del de {{< reflink 
-path=posts/2021/05/que-ver-roterdam-eurovision-viaje-con-amigas >}}— y **el noveno más 
-transitado del mundo.** 
+**segundo más grande de Europa** —después del de [Róterdam]({{% ref 
+que-ver-roterdam-eurovision-viaje-con-amigas %}})— y **el noveno más transitado del 
+mundo.** 
 
 Y a estas alturas, ¿queda alguna duda de por qué Hamburgo merece una escapada? Historia, 
 arquitectura, cultura, gastronomía y mucha, mucha diversión, concentrados en una misma 
@@ -218,10 +218,8 @@ de cerveza artesanal. En verano, además, cuentan con una agradable terraza.
 
 ✅ **Más propuestas en Etheria Magazine** 
 
-{{< reflink path=posts/2021/08/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable 
->}} 
+{{< reflink munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable >}} 
 
-{{< reflink path=posts/2018/11/viaje-al-berlin-mas-divertido-interesante-sobrecogedor 
->}} 
+{{< reflink viaje-al-berlin-mas-divertido-interesante-sobrecogedor >}} 
 
-{{< reflink path=posts/2019/06/viaje-en-familia-parques-alemania-playmobil-legoland >}}
+{{< reflink viaje-en-familia-parques-alemania-playmobil-legoland >}}

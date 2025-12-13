@@ -248,6 +248,6 @@ Más información en [Turismo de Alicante](https://www.alicanteturismo.com/).
 
 ## También en Alicante...
 
-{{< reflink path=posts/2020/05/8-excursiones-con-ninos-en-alicante >}}. 
+{{< reflink 8-excursiones-con-ninos-en-alicante >}}. 
 
-{{< reflink path=posts/2021/03/planes-originales-en-benidorm >}}.
+{{< reflink planes-originales-en-benidorm >}}.

@@ -161,8 +161,8 @@ Drogo**. Los impresionantes acantilados de Gozo se convirtieron en los exteriore
 ciudad libre de Pentos, donde Daenerys y Viserys Targaryen pasan una temporada como 
 invitados del Magíster Illiryo Mopatis. 
 
-\*No te pierdas este artículo de la {{< reflink 
-path=posts/2018/07/juego-de-tronos-en-irlanda-del-norte >}}. 
+\*No te pierdas este artículo de la [Ruta de Juego de Tronos en Irlanda del Norte]({{% 
+ref juego-de-tronos-en-irlanda-del-norte %}}). 
 
 ![Rodaje de 'Juego de tronos' en Mdina (Malta).](https://fotos.etheriamagazine.com/2019/06/viajes-cine-mdina-juego-tronos.jpg "Rodaje de 'Juego de tronos' en Mdina (Malta). © HBO")
 

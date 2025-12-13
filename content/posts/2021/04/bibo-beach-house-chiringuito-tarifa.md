@@ -21,9 +21,9 @@ estrellas Michelin, sorprende a cuantos se acercan a sus restaurantes en Madrid,
 Marbella y Doha. No te hablaremos en esta reseña de estos locales ni de su elegante 
 Brasserie en el hotel Four Seasons madrileño. En esta ocasión, sólo necesitas un vestido 
 veraniego y unas chanclas porque nos vamos a la playa de Valdevaqueros, en Tarifa, para 
-disfrutar de la versión más informal de este cocinero. 📌 No te pierdas esta {{< reflink 
-path=posts/2020/07/viajes-por-espana-tarifa-con-amigas-aires-de-windsurf >}} o esta {{< 
-reflink path=posts/2019/05/viajar-con-amigas-que-hacer-en-cadiz >}}) 
+disfrutar de la versión más informal de este cocinero. 📌 No te pierdas esta [guía de 
+Tarifa]({{% ref viajes-por-espana-tarifa-con-amigas-aires-de-windsurf %}}) o esta [ruta 
+por la provincia de Cádiz]({{% ref viajar-con-amigas-que-hacer-en-cadiz %}})) 
 
 ![barra bar playa valdevaqueros tarifa](https://fotos.etheriamagazine.com/2021/04/BIBO-Beach-House-Barra-tarifa.jpg "Barra del Beach House Tarifa.")
 
@@ -94,9 +94,8 @@ Horario cocina: De 13 a 16 horas (miércoles a domingo) y de 19.30 a 22.30 horas
 
 ### Cerca de Bibo Beach House Tarifa
 
-{{< reflink path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia 
->}}. 
+{{< reflink guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}}. 
 
-{{< reflink path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
+{{< reflink mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
 
-{{< reflink path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}}.
+{{< reflink 10-actividades-vejer-de-la-frontera-que-ver-hacer >}}.

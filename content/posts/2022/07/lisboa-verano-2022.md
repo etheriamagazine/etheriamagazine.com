@@ -127,8 +127,8 @@ Fotografías cedidas por Turismo de Lisboa.
 
 ## También en Lisoba:
 
-{{< reflink path=posts/2021/10/8-visitas-originales-en-lisboa >}} 
+{{< reflink 8-visitas-originales-en-lisboa >}} 
 
-{{< reflink path=posts/2020/12/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues >}} 
+{{< reflink ruta-de-fados-en-la-lisboa-de-amalia-rodrigues >}} 
 
-{{< reflink path=posts/2018/10/12-miradores-para-exprimir-lisboa >}}
+{{< reflink 12-miradores-para-exprimir-lisboa >}}

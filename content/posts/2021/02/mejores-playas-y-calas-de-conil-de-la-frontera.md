@@ -38,11 +38,14 @@ para ti solo, como podrás comprobar en las siguientes imágenes tomadas en vera
 
 NO TE PIERDAS: 
 
-✅ {{< reflink path=posts/2023/08/mejores-excursiones-desde-conil >}}. 
+✅ [10 excursiones ideales desde Conil de la Frontera]({{% ref 
+mejores-excursiones-desde-conil %}}). 
 
-✅ {{< reflink path=posts/2022/04/guia-de-conil-visitas-gratuitas >}}. 
+✅ [15 visitas imprescindibles en Conil gratis y ninguna es una playa]({{% ref 
+guia-de-conil-visitas-gratuitas %}}). 
 
-✅ {{< reflink path=posts/2021/07/los-mejores-planes-en-conil-con-amigas >}} 
+✅ [10 Planes más que recomendables en Conil.]({{% ref 
+los-mejores-planes-en-conil-con-amigas %}}) 
 
 ![calas de roche en conil](https://fotos.etheriamagazine.com/2021/01/playas-conil-ruta-faro.jpg "La costa más rocosa de Conil se sitúa en el entorno del faro. © Etheria M.")
 
@@ -249,18 +252,18 @@ paisaje y te empaparás de la calma del lugar.
 - Recoge tu basura. Aunque hay servicio de recogida de basura, debes depositarlo en los 
 contenedores, y mejor aún si te la llevas. 
 
-SIGUE LEYENDO: {{< reflink path=posts/2022/07/donde-comer-bien-conil-de-la-frontera >}} 
+SIGUE LEYENDO: [Dónde comer bien en Conil de la Frontera, bares y restaurantes 
+recomendados]({{% ref donde-comer-bien-conil-de-la-frontera %}}) 
 
 ![playa fontanilla de conil](https://fotos.etheriamagazine.com/2021/01/conil-atardecer.jpg "Atardecer desde playa de la Fontanilla. © Etheria M.")
 
 **También te puede interesar…** 
 
-✅ {{< reflink path=posts/2023/03/pueblos-que-ver-en-cadiz >}} 
+✅ [La mejor guía de CÁDIZ PROVINCIA para organizar tu viaje: pueblos y visitas de 
+interés (con mapa incluido).]({{% ref pueblos-que-ver-en-cadiz %}}) 
 
-{{< reflink path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia 
->}}. 
+{{< reflink guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}}. 
 
-{{< reflink path=posts/2020/08/10-actividades-vejer-de-la-frontera-que-ver-hacer >}}. 
+{{< reflink 10-actividades-vejer-de-la-frontera-que-ver-hacer >}}. 
 
-{{< reflink path=posts/2020/03/12-actividades-familiares-para-viajes-con-ninos-en-cadiz 
->}}.
+{{< reflink 12-actividades-familiares-para-viajes-con-ninos-en-cadiz >}}.

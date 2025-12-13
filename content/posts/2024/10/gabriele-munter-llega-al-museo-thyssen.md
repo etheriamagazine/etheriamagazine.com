@@ -102,7 +102,7 @@ eliminando lo anecdótico en sus composiciones. El éxito de esta colaboración 
 la llevó a adquirir **una casa en Murnau** en 1909, que se transformaría en su refugio 
 creativo y en un punto de encuentro para la vanguardia artística alemana. 
 
-{{< reflink path=posts/2022/06/gabriele-munter-en-murnau >}}
+{{< reflink gabriele-munter-en-murnau >}}
 
 ![Retratos de mujeres de Gabriele Munter. Museo Thyssen](https://fotos.etheriamagazine.com/2024/10/gabriele-munter-mujer-thyssen.jpg "(Dcha.) Mujer de Murnau (Rosalie Leiss), Préstamo de la Ernst von Siemens Kunststiftung, Múnich, y la PSM Privatstiftung Schlossmuseum Murnau en el Schlossmuseum Murnau. (Izq.) Retrato de Marianne von Werefkin, 1909. Städtische Galerie im Lenbachhaus und Kunstbau München, donación de Gabriele Münter, 1957.")
 

@@ -227,8 +227,8 @@ Más información en [Turismo de Orleans](http://www.tourisme-orleans.com).
 
 ### También te puede interesar:
 
-{{< reflink path=posts/2021/08/valle-del-loira-entre-castillos-y-jardines >}} 
+{{< reflink valle-del-loira-entre-castillos-y-jardines >}} 
 
-{{< reflink path=posts/2021/09/guia-viaje-costa-azul-en-coche-y-con-amigas >}} 
+{{< reflink guia-viaje-costa-azul-en-coche-y-con-amigas >}} 
 
-{{< reflink path=posts/2021/06/4-dias-ruta-impresionismo-normandia-francia >}}
+{{< reflink 4-dias-ruta-impresionismo-normandia-francia >}}

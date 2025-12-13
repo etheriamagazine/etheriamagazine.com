@@ -211,8 +211,8 @@ para aprender a elaborar el mojo picón o el mojo verde. Si hay tiempo, conviene
 
 ## Más planes con amigas...
 
-{{< reflink path=posts/2021/03/10-planes-originales-con-amigas-en-barcelona >}}. 
+{{< reflink 10-planes-originales-con-amigas-en-barcelona >}}. 
 
-{{< reflink path=posts/2020/09/planes-originales-valencia-con-amigas >}}. 
+{{< reflink planes-originales-valencia-con-amigas >}}. 
 
-{{< reflink path=posts/2020/09/10-planes-originales-en-bilbao-con-amigas >}}.
+{{< reflink 10-planes-originales-en-bilbao-con-amigas >}}.

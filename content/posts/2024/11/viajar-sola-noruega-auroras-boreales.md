@@ -166,8 +166,8 @@ quizá en otra vida...
 
 **También te puede interesar:** 
 
-{{< reflink path=posts/2024/06/sania-jelic-viajar-sola-a-kenia >}} 
+{{< reflink sania-jelic-viajar-sola-a-kenia >}} 
 
-{{< reflink path=posts/2024/03/viajar-sola-zanzibar >}} 
+{{< reflink viajar-sola-zanzibar >}} 
 
-{{< reflink path=posts/2022/03/ruta-del-hurtigruten-en-noruega >}}
+{{< reflink ruta-del-hurtigruten-en-noruega >}}

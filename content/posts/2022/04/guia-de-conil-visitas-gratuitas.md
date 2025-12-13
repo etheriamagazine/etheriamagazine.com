@@ -223,15 +223,16 @@ Y, ahora sí, ya estás preparada para disfrutar de las playas y la buena mesa d
 
 ### No te pierdas...
 
-✅ {{< reflink path=posts/2022/07/donde-comer-bien-conil-de-la-frontera >}} 
+✅ [Dónde comer bien en Conil de la Frontera, bares y restaurantes recomendados]({{% ref 
+donde-comer-bien-conil-de-la-frontera %}}) 
 
-✅ {{< reflink path=posts/2021/02/mejores-playas-y-calas-de-conil-de-la-frontera >}}. 
+✅ [Las mejores calas y playas de Conil de la Frontera]({{% ref 
+mejores-playas-y-calas-de-conil-de-la-frontera %}}). 
 
-{{< reflink path=posts/2018/06/ruta-del-atun-rojo-en-cadiz >}}. 
+{{< reflink ruta-del-atun-rojo-en-cadiz >}}. 
 
 📌 [Excursión desde Conil a Baelo Claudia y 
 Tarifa](https://www.civitatis.com/es/conil-de-la-frontera/tarifa-zahara-atunes-baelo-claudia/?aid=10211), 
 con transporte en autobús, guía en español y entradas incluidos (48 €). Si lo quieres 
-hacer por libre, en este {{< reflink 
-path=posts/2019/08/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia >}} te damos 
-algunas claves.
+hacer por libre, en este [artículo de Baelo Claudia]({{% ref 
+guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia %}}) te damos algunas claves.
