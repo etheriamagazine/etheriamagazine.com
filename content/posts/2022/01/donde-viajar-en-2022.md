@@ -86,7 +86,7 @@ que se pueda considerar normal, todo es a lo grande, apoteósico. Enormes centro
 comerciales repletos de marcas de lujo como el Dubai Mall, hoteles con siete estrellas 
 como el Burj Al Arab e islas artificiales repletas de resorts. Dubái es uno de esos 
 sitios que hay que conocer, aunque sea para 
-criticarlo...[](https://etheriamagazine.com/wp-admin/edit.php?post_type=post) 
+criticarlo... 
 
 ![museo munch oslo](https://fotos.etheriamagazine.com/2022/01/museo-Munch.jpg "Museo Munch de Oslo. © Einar Aslaksen")
 

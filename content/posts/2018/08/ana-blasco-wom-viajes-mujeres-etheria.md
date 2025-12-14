@@ -13,7 +13,7 @@ authors:
 
 ![ana blasco mujeres etheria magazine](https://fotos.etheriamagazine.com/2018/08/ana-blasco-mujeres-etheria.jpg)
 
-###### Ana Blasco, directora de WOM, una agencia de viajes online para mujeres, es una de las [Mujeres Etheria](https://etheriamagazine.com/category/mujeres-etheria/) que destacamos en esta sección por haber creado esta agencia especializada con sólo 28 años y haber inspirado a cientos de mujeres a perder miedos, a atreverse a viajar solas, a hacer amigas... Se define a sí misma como valiente, tenaz y apasionada.
+###### Ana Blasco, directora de WOM, una agencia de viajes online para mujeres, es una de las [Mujeres Etheria]({{% ref mujeres-top %}}/) que destacamos en esta sección por haber creado esta agencia especializada con sólo 28 años y haber inspirado a cientos de mujeres a perder miedos, a atreverse a viajar solas, a hacer amigas... Se define a sí misma como valiente, tenaz y apasionada.
 
 Ana tuvo claro desde pequeña que quería dedicarse a la Egiptología. A pesar de estudiar Historia y especializarse en este campo, siguió sus estudios dentro del Patrimonio (‘Restauración’ y ‘Conservación y gestión del patrimonio cultural’). En el periodo de crisis, tras ver que este sector no estaba especialmente boyante, se lanzó a **organizar viajes para mujeres.**
 

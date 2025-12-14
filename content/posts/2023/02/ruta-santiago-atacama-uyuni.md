@@ -209,4 +209,4 @@ para comprender esa grandeza del entorno…. Y luego hay que hacer edición de e
 o comprar más espacio de almacenamiento. 
 
 📌 **También te puede interesar** leer en el enlace las crónicas de viaje de [Sania 
-Jelic](https://etheriamagazine.com/author/sania-jelic/).
+Jelic]({{< ref sania-jelic >}}).

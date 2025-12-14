@@ -115,7 +115,5 @@ Precio: 26,34 Euros.
 
 ### También podría interesarte...
 
-[Ocho imprescindibles en tu maleta para hacer deporte cuando 
-viajas.](https://etheriamagazine.com/category/organiza-tu-viaje/regalos-compras-viajeras/) 
-
+{{< reflink 8-imprescindibles-maleta-para-hacer-deporte >}}
 {{< reflink libros-recomendados-para-otono-2020-viajes-mujeres-novedades >}}

@@ -11,7 +11,7 @@ authors:
 
 ![lola escudero mujer etheria sociedad geografica españa](https://fotos.etheriamagazine.com/2018/08/lola-escudero-mujer-etheria-aleppo-libano.jpg "Lola Escudero fundadora y secretaria general de la Sociedad Geográfica Española")
 
-###### Geógrafa, periodista, fundadora y secretaria general de la [Sociedad Geográfica Española](https://sge.org/), Lola Escudero reúne todas las condiciones para ser una de nuestras [Mujeres Etheria](https://etheriamagazine.com/category/mujeres-etheria/) por su vinculación con el mundo turístico y su pasión por la Geografía.
+###### Geógrafa, periodista, fundadora y secretaria general de la [Sociedad Geográfica Española](https://sge.org/), Lola Escudero reúne todas las condiciones para ser una de nuestras [Mujeres Etheria]({{% ref mujeres-top %}}/) por su vinculación con el mundo turístico y su pasión por la Geografía.
 
 Lola ha dedicado las tres últimas décadas de su vida a la comunicación especializada en turismo y viajes, y muchos la conoceréis por sus artículos en medios de comunicación o como autora de libros y guías de viajes. Actualmente, dirige el departamento de comunicación de Lonely Planet y Geoglaneta y el Área de libros ilustrados e Institucionales del Grupo Planeta. Es una persona inquieta, comunicativa, curiosa y en permanente búsqueda de experiencias que la empujen al cambio. Sus vivencias en el mundo de los viajes nos resultarán muy útiles a todos aquellos que disfrutamos viajando.
 
