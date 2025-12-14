@@ -15,7 +15,7 @@ territorio cualquiera ni un viaje apto para todos los públicos. Eso sí, si ere
 de los paisajes poco humanizados, la fauna, la flora y la vida natural es el destino de 
 tus sueños. Te contamos todo lo que no te debes perder. 
 
-\[caption id="attachment\_3328" align="aligncenter" width="1024"\]![iguana marina islas galapagos aventura](https://fotos.etheriamagazine.com/2018/08/iguana-viaje-galapagos.jpg "Iguana marina en las Islas Galápagos.") Iguana marina en las Islas Galápagos. ©PG\[/caption\]
+![iguana marina islas galapagos aventura](https://fotos.etheriamagazine.com/2018/08/iguana-viaje-galapagos.jpg "Iguana marina en las Islas Galápagos. ©PG")
 
 La primera vez que pisas alguna de sus islas –13 grandes, 17 pequeñas y 47 islotes– te 
 das cuenta de que pertenecen a un universo desconocido hasta el momento, un mundo de 
@@ -42,7 +42,7 @@ _shopping_. Como en cualquier ciudad, es aconsejable que seas prudente y no tran
 por zonas solitarias o muestres objetos de valor. Si necesitas un taxi, que te lo pidan 
 desde el hotel. 
 
-\[caption id="attachment\_3335" align="aligncenter" width="1024"\]![viajes islas galapagos itabaca](https://fotos.etheriamagazine.com/2018/08/galapagos-Canal-Itabaca.jpg "Canal Itabaca entre la isla de Baltra y la de Santa Cruz.") Canal Itabaca entre la isla de Baltra y la de Santa Cruz. ©PG\[/caption\]
+![viajes islas galapagos itabaca](https://fotos.etheriamagazine.com/2018/08/galapagos-Canal-Itabaca.jpg "Canal Itabaca entre la isla de Baltra y la de Santa Cruz. ©PG")
 
 El siguiente vuelo te dejará en sólo 50 minutos en la isla de **Baltra** (existe otro 
 aeropuerto en la isla de San Cristóbal), desde donde cruzarás el **Canal de Itabaca en 
@@ -53,7 +53,7 @@ la mayor población de la isla, donde además de pequeños hoteles, se concentra
 restaurantes y tiendas. También es el lugar más propicio para contratar excursiones 
 marítimas. 
 
-\[caption id="attachment\_3323" align="aligncenter" width="1024"\]![galapagos lunas de miel viaje](https://fotos.etheriamagazine.com/2018/08/viaje-galapagos-Plaza-Sur.jpg "Galápagos es un destino habitual en las lunas de miel.") Galápagos es un destino habitual en las lunas de miel. ©PG\[/caption\]
+![galapagos lunas de miel viaje](https://fotos.etheriamagazine.com/2018/08/viaje-galapagos-Plaza-Sur.jpg "Galápagos es un destino habitual en las lunas de miel. ©PG")
 
 A unos quince minutos andando desde el centro de Puerto Ayora se ubica la [Estación 
 Científica Charles Darwin](https://www.darwinfoundation.org/es/nosotros/eccd), que 
@@ -82,7 +82,7 @@ recorrerlo y sentir su bruma fresca. Los denominados tubos de lava, túneles kil
 forjados por el paso de la lava incandescente, es otro de los fenómenos geológicos 
 dignos de admiración. 
 
-\[caption id="attachment\_3331" align="aligncenter" width="1024"\]![viaje islas galapagos tortugas gigantes](https://fotos.etheriamagazine.com/2018/08/Los-gemelos-galapagos-tortuga.jpg "Reserva natural de Los Gemelos y Tortuga terrestre.") Los Gemelos (Izq.) y Tortuga terrestre (Dcha.) ©PG\[/caption\]
+![viaje islas galapagos tortugas gigantes](https://fotos.etheriamagazine.com/2018/08/Los-gemelos-galapagos-tortuga.jpg "Los Gemelos (Izq.) y Tortuga terrestre (Dcha.) ©PG")
 
 La visita más solicitada por los turistas suele ser la que conduce a contemplar las 
 longevas _Geochelone elephantopus_, **tortugas gigantes** que pueden llegar a vivir más 
@@ -92,7 +92,7 @@ importante no molestarlas, no tocarlas y no darles de comer. Si eres ruidoso o t
 mucho se ocultan en el caparazón y no contemplarás su piel rugosa ni su mirada 
 penetrante. 
 
-\[caption id="attachment\_3321" align="aligncenter" width="1024"\]![playa islas galapagos](https://fotos.etheriamagazine.com/2018/08/viaje-excursiones-islas-galapagos.jpg "Pelícano en la playa de Tortuga Bay.") Pelícano en Tortuga Bay, la mejor playa de Galápagos. ©PG\[/caption\]
+![playa islas galapagos](https://fotos.etheriamagazine.com/2018/08/viaje-excursiones-islas-galapagos.jpg "Pelícano en Tortuga Bay, la mejor playa de Galápagos. ©PG")
 
 ## Iguanas en Tortuga Bay
 
@@ -105,7 +105,7 @@ arena, sobre las rocas, los manglares o entre la vegetación. Cuidado no piséis
 Aunque parezca que escupen a vuestro paso, no es que os odien sino que es un modo de 
 expulsar la sal acumulada de las fosas nasales. 
 
-\[caption id="attachment\_3322" align="aligncenter" width="1024"\]![iguanas terrestres islas galapagos](https://fotos.etheriamagazine.com/2018/08/viaje-galapagos-plaza-sur-iguana.jpg "Iguana terrestre en la isla de Plaza Sur.") Iguana terrestre en la isla de Plaza Sur. ©PG\[/caption\]
+![iguanas terrestres islas galapagos](https://fotos.etheriamagazine.com/2018/08/viaje-galapagos-plaza-sur-iguana.jpg "Iguana terrestre en la isla de Plaza Sur. ©PG")
 
 ### Una excursión a las Islas Plaza
 
@@ -122,7 +122,7 @@ huyendo y las buenas instantáneas están aseguradas.
 > experiencia única e irrepetible. Las rayas, leones marinos y demás fauna acuática 
 > completan la vivencia. 
 
-\[caption id="attachment\_3327" align="aligncenter" width="1024"\]![tiburon islas galapagos buceo aventura](https://fotos.etheriamagazine.com/2018/08/tiburon-viaje-galapagos.jpg "Tiburón de arrecife de punta blanca en Islas Galápagos.") Tiburón de arrecife de punta blanca en Islas Galápagos. ©PG\[/caption\]
+![tiburon islas galapagos buceo aventura](https://fotos.etheriamagazine.com/2018/08/tiburon-viaje-galapagos.jpg "Tiburón de arrecife de punta blanca en Islas Galápagos. ©PG")
 
 ## Isla Isabela, belleza solitaria
 
@@ -136,14 +136,14 @@ recomendable pernoctar una o dos noches en **Puerto Villamil**. Esta coqueta pob
 asentada junto a una laguna de flamencos, cuenta con los servicios necesarios para 
 comer, tomar una cerveza y comprar algún recuerdo. 
 
-\[caption id="attachment\_3334" align="aligncenter" width="1024"\]![playa amor isla isabela galapagos](https://fotos.etheriamagazine.com/2018/08/Playa-Amor-isabela-islas-galapagos.jpg "Playa del Amor, en la isla de Isabela.") Playa del Amor, en isla Isabela. ©PG\[/caption\]
+![playa amor isla isabela galapagos](https://fotos.etheriamagazine.com/2018/08/Playa-Amor-isabela-islas-galapagos.jpg "Playa del Amor, en isla Isabela. ©PG")
 
 En dos días tampoco tendrás mucho tiempo para explorar toda la isla pero puedes comenzar 
 alquilando una bicicleta de montaña para visitar, a unos kilómetros, el altísimo **Muro 
 de las Lágrimas** levantado por los presos que la habitaron. Por el camino van surgiendo 
 otros puntos de interés como la bonita **playa del Amor**. 
 
-\[caption id="attachment\_3320" align="aligncenter" width="1024"\]![tintoreras islas galapagos](https://fotos.etheriamagazine.com/2018/08/viaje-amigas-islas-galapagos.jpg "Islote de Tintoreras en Islas Galápagos.") Islote de Tintoreras en Islas Galápagos. ©PG\[/caption\]
+![tintoreras islas galapagos](https://fotos.etheriamagazine.com/2018/08/viaje-amigas-islas-galapagos.jpg "Islote de Tintoreras en Islas Galápagos. ©PG")
 
 ## Islote Tintoreras, pisando lavando crujiente
 
@@ -153,7 +153,7 @@ dignas de otras galaxias. Nos gustaron especialmente la poza de los tiburones, u
 playita de arena donde juegan despreocupadamente los leones marinos y las zonas de las 
 crías de iguana (¿sabías que crecen en comunidad?). 
 
-\[caption id="attachment\_3333" align="aligncenter" width="1024"\]![tortuga marina lobo mar islas galapagos](https://fotos.etheriamagazine.com/2018/08/tortuga-marina-lobo-mar-islas-galapagos.jpg "Puedes nadar con tortugas marinas y lobos de mar pero sin molestarlos.") Puedes nadar con tortugas marinas y lobos o leones de mar pero trata de no molestarlos. ©PG\[/caption\]
+![tortuga marina lobo mar islas galapagos](https://fotos.etheriamagazine.com/2018/08/tortuga-marina-lobo-mar-islas-galapagos.jpg "Puedes nadar con tortugas marinas y lobos o leones de mar pero trata de no molestarlos. ©PG")
 
 Cuando el sol se eleva hasta lo más alto la mejor opción es sumergirse en el mar para 
 volver a disfrutar de la compañía de lobos marinos, peces de colores, estrellas de mar 

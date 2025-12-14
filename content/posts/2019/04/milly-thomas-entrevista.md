@@ -15,7 +15,7 @@ dura y necesaria sobre enfermedad mental y suicidio. En esta entrevista nos cuen
 es ella, cómo ve el papel de la mujer hoy día y sus inquietudes respecto a renunciar a 
 la vida. 
 
-\[caption id="attachment\_9165" align="aligncenter" width="900"\]![Milly Thomas en Dust](https://fotos.etheriamagazine.com/2019/04/milly-thomas-dust.jpg "Milly Thomas en Dust, Soho Theatre-Londres. © The Other Richard") Milly Thomas en Dust, Soho Theatre-Londres. © The Other Richard\[/caption\]
+![Milly Thomas en Dust](https://fotos.etheriamagazine.com/2019/04/milly-thomas-dust.jpg "Milly Thomas en Dust, Soho Theatre-Londres. © The Other Richard")
 
 Era un típico día londinense. Amaneció nublado, salió el sol, se volvió a nublar… En un escenario también muy londinense, como es la zona de Paddington, había quedado en el hotel Grand London Hyde Park para entrevistar a **Milly Thomas**, de la que tuve excelentes referencias en Madrid, gracias a una más de las iniciativas del British Council de Madrid, siempre prestos a promover la relación cultural entre España y Reino Unido. Entre los participantes del **taller de teatro Read/Play/Meet** que durante nueve meses (hasta marzo 2019) presentó en el Pavón Teatro Kamikaze de Madrid a nueve dramaturgos del teatro contemporáneo británico, se encontraba Milly Thomas. Una mujer joven que en su corta carrera ha actuado en películas como _And then I was French_, _Vernon Walks_, _Women in Gold_, _Juana de Arco_ y _Quacks_. También ha escrito episodios de _River City_ para BBC Scotland y de _Clique_ para BBC3, piezas como _A first world problem_, _Piggies_, _Clickbait_, _Brutal Cessation_ y **su genial obra _Dust_**. Esta última, protagonizada por ella misma, participó en el Festival Fringe de Edimburgo 2017 y ganó el Stage Edimburgh Award por su interpretación. De allí pasó al Soho Theatre de Londres donde recibió nominaciones al _Mejor espectáculo revelación_ y _Mejor producción Off West End_ en los Premios WhatsOnStage 2019.
 
@@ -35,7 +35,7 @@ Nací en Londres pero crecí en Winchester.
 
 No, mi afición realmente comenzó en la Escuela de Drama. De pequeña organizaba historias pero nunca se me pasó por la cabeza ser escritora.
 
-\[caption id="attachment\_9167" align="aligncenter" width="900"\]![Milly Thomas, obra teatro dusk](https://fotos.etheriamagazine.com/2019/04/milly-thomas-drama-dust.jpg "Milly Thomas. © Pip") Milly Thomas. © Pip\[/caption\]
+![Milly Thomas, obra teatro dusk](https://fotos.etheriamagazine.com/2019/04/milly-thomas-drama-dust.jpg "Milly Thomas. © Pip")
 
 ## Dust, una obra maestra
 
@@ -60,7 +60,7 @@ Tu papel como actriz en Dust fue impresionante. ¿Supuso una catarsis para ti?
 
 Me encanta actuar, tanto en _Dust_ como en cualquier obra, el poder representar vidas dispares tiene un efecto liberador, igual que escribir, incluso más, ya que escribiendo creas tú misma esas vidas. Tras terminar una obra siempre sobreviene un cierto _bluefeeling_ (nostalgia).
 
-\[caption id="attachment\_9168" align="aligncenter" width="900"\]![Milly Thomas, Pavon Teatro Kamikaze](https://fotos.etheriamagazine.com/2019/04/entrevista-milly-thomas.jpg "Milly Thomas en el Pavon Teatro Kamikaze de Madrid. © Britishcouncil.es") Milly Thomas en el Pavon Teatro Kamikaze de Madrid. © Britishcouncil.es\[/caption\]
+![Milly Thomas, Pavon Teatro Kamikaze](https://fotos.etheriamagazine.com/2019/04/entrevista-milly-thomas.jpg "Milly Thomas en el Pavon Teatro Kamikaze de Madrid. © Britishcouncil.es")
 
 ¿Qué tono le diste a la obra? 
 
@@ -96,7 +96,7 @@ Para mí la vida creativa es contar historias y mirar hacia delante, siempre hac
 
 En **_Clikkbait_** (Cebo de clics) Nicola decide abrir su propio canal de vídeos porno con todos los prejuicios que esto entraña para una mujer. _**Brutal Cessation**_ (Cese Brutal) trata sobre la violencia de una pareja que intercambia los roles de hombre mujer cuestionando lo que supone el acoso sufrido por ambos sexos. Sí, sí lo es. Aunque no lo busqué, salió así.
 
-\[caption id="attachment\_9175" align="aligncenter" width="800"\]![Milly Thomas, dramaturga dust](https://fotos.etheriamagazine.com/2019/04/retrato-milly-thomas.jpg "Retrato de Milly Thomas. ©Pip") Retrato de Milly Thomas. ©Pip\[/caption\]
+![Milly Thomas, dramaturga dust](https://fotos.etheriamagazine.com/2019/04/retrato-milly-thomas.jpg "Retrato de Milly Thomas. ©Pip")
 
 El tema de Dust en cierto modo me recuerda a la película '_Qué bello es vivir_' 
 protagonizada por James Stewart, referente de todas las navidades ¿Le ves un parecido? 
@@ -131,7 +131,7 @@ Crecí religiosa, por tradición más que convicción, pero ahora no lo soy.
 
 Trato de abrazar lo que llega, vivir sin miedo. El miedo es paralizante.
 
-\[caption id="attachment\_9178" align="aligncenter" width="900"\]![milly thomas, dust](https://fotos.etheriamagazine.com/2019/04/milly-thomas-escritora-dramaturga.jpg "Milly Thomas. © Pip/ The Other Richard") Milly Thomas. © Pip/ The Other Richard\[/caption\]
+![milly thomas, dust](https://fotos.etheriamagazine.com/2019/04/milly-thomas-escritora-dramaturga.jpg "Milly Thomas. © Pip/ The Other Richard")
 
 Háblame de tu vida cotidiana. 
 
@@ -157,7 +157,7 @@ sienten londinenses.
 
 > Es verdad. Estoy orgullosa de ser una londoner. Cuando estoy de viaje echo de menos ese Londres multicultural.
 
-\[caption id="attachment\_9181" align="aligncenter" width="900"\]![londres, ambiente calles](https://fotos.etheriamagazine.com/2019/04/londres-viajes.jpg "Calles de Londres.") Calles de Londres.\[/caption\]
+![londres, ambiente calles](https://fotos.etheriamagazine.com/2019/04/londres-viajes.jpg "Calles de Londres.")
 
 ¿Que es para ti la moda? 
 

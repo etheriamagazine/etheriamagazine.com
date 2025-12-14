@@ -20,7 +20,7 @@ Una [exposición](https://www.museothyssen.org/exposiciones/beckmann-figuras-exi
 
 Horario: de martes a viernes y domingo de 10 a 19 h. Sábado de 10 a 21 h. Tarifa general: 12 Euros.
 
-\[caption id="attachment\_6672" align="aligncenter" width="800"\]![Escapadas con amigas, viajes de fin de semana, arte, cultura, museos](https://fotos.etheriamagazine.com/2019/01/Museo-Thyssen-Beckman.jpg "Cuadro 'El hijo pródigo' de Max Beckmann.") Cuadro 'El hijo pródigo' de Max Beckmann. © Max Beckmann, VEGAP, Madrid, 2018.\[/caption\]
+![Escapadas con amigas, viajes de fin de semana, arte, cultura, museos](https://fotos.etheriamagazine.com/2019/01/Museo-Thyssen-Beckman.jpg "Cuadro 'El hijo pródigo' de Max Beckmann. © Max Beckmann, VEGAP, Madrid, 2018.")
 
 ##### ['El sur de Picasso. Referencias andaluzas'](https://www.museopicassomalaga.org/exposiciones-temporales/el-sur-de-picasso-referencias-andaluzas). Museo Picasso de Málaga. Hasta el 3 de febrero.
 
@@ -28,7 +28,7 @@ Horario: de martes a viernes y domingo de 10 a 19 h. Sábado de 10 a 21 h. Tarif
 
 Horario: todos los días de 10 a 18 h. Tarifa general: 6,5 Euros.
 
-\[caption id="attachment\_6671" align="aligncenter" width="1024"\]![Escapadas con amigas, viajes de fin de semana, arte, cultura, museos](https://fotos.etheriamagazine.com/2019/01/Museo-Picasso-Malaga.jpg "'Bodegón con jarra, vaso y naranja' de Pablo Picasso. © FABA Foto: Marc Domage. © Sucesión Pablo Picasso, VEGAP, Madrid, 2018.") 'Bodegón con jarra, vaso y naranja' de Pablo Picasso. © FABA Foto: Marc Domage. © Sucesión Pablo Picasso, VEGAP, Madrid, 2018.\[/caption\]
+![Escapadas con amigas, viajes de fin de semana, arte, cultura, museos](https://fotos.etheriamagazine.com/2019/01/Museo-Picasso-Malaga.jpg "'Bodegón con jarra, vaso y naranja' de Pablo Picasso. © FABA Foto: Marc Domage. © Sucesión Pablo Picasso, VEGAP, Madrid, 2018.")
 
 ##### ['Tamara de Lemkicka. Reina del Art Decó'](http://www.tamaradelempicka.es). Palacio de Gaviria (Madrid). Hasta el 24 de febrero.
 
@@ -36,7 +36,7 @@ Un recorrido por más de 200 piezas para mostrar la obra tan personal de esta ar
 
 Horario: de domingos a jueves de 10 a 20 h. Viernes y sábados de 10 a 21 h. Tarifa general: 13 Euros.
 
-\[caption id="attachment\_6670" align="aligncenter" width="1024"\]![Museos, planes con amigas, escapadas de fin de semana, cultura, arte](https://fotos.etheriamagazine.com/2019/01/Exposición-Tamara-de-Lempicka.jpg "Exposición Tamara de Lempicka. Reina del Art Déco.") Exposición 'Tamara de Lempicka. Reina del Art Déco'. ©Jesús Varillas.\[/caption\]
+![Museos, planes con amigas, escapadas de fin de semana, cultura, arte](https://fotos.etheriamagazine.com/2019/01/Exposición-Tamara-de-Lempicka.jpg "Exposición 'Tamara de Lempicka. Reina del Art Déco'. ©Jesús Varillas.")
 
 ##### ['Cristina Iglesias. ENTRESPACIOS'](https://www.centrobotin.org/exposicion/cristina-iglesias-espacios/). Centro Botín de Santander. Hasta el 3 de marzo.
 
@@ -44,7 +44,7 @@ Las amantes de la escultura disfrutaran con esta [exposición](https://www.centr
 
 Horario: de martes a domingo de 10 a 20 horas. Tarifa general: 8 Euros.
 
-\[caption id="attachment\_6668" align="aligncenter" width="800"\]![Escapadas con amigas, viajes de fin de semana, arte, cultura](https://fotos.etheriamagazine.com/2019/01/Cristina-Iglesias-Espacio-Botin.jpg "Pabellón Suspendido III (Los sueños). Hierro dulce trenzado, cables de acero y sombra.© Sebastiano Pellion di Persano.") Pabellón Suspendido III (Los sueños). Hierro dulce trenzado, cables de acero y sombra.© Sebastiano Pellion di Persano.\[/caption\]
+![Escapadas con amigas, viajes de fin de semana, arte, cultura](https://fotos.etheriamagazine.com/2019/01/Cristina-Iglesias-Espacio-Botin.jpg "Pabellón Suspendido III (Los sueños). Hierro dulce trenzado, cables de acero y sombra.© Sebastiano Pellion di Persano.")
 
 ##### ['Exposición Murillo IV Centenario'](http://www.museosdeandalucia.es/web/museodebellasartesdesevilla/actualidad/-/asset_publisher/PRW5QMnQDhn2/content/exposicion-murillo-iv-centenar-1?inheritRedirect=true). Museo de Bellas Artes de Sevilla. Hasta el 17 de marzo de 2019.
 
@@ -52,7 +52,7 @@ El [Museo de Bellas Artes de Sevilla](http://www.museosdeandalucia.es/web/museod
 
 Horario: de martes a sábado de 9 a 21 horas. Domingos de 9 a 15 h. Tarifa general: 1,50 Euros. Existe la posibilidad de reservar visita guiada.
 
-\[caption id="attachment\_6669" align="aligncenter" width="1000"\]![Escapadas con amigas, viajes de fin de semana, arte, cultura](https://fotos.etheriamagazine.com/2019/01/Exposicion-Murillo-Bellas-Artes-Sevilla.jpg "Bartolomé Esteban Murillo. 'Cuatro figuras en un escalón', hacia 1655-1660. Óleo sobre lienzo, 109,9 x 143, 5 cm. Kimbell Art Museum, Fort Worth.") Bartolomé Esteban Murillo. 'Cuatro figuras en un escalón', hacia 1655-1660. Óleo sobre lienzo, 109,9 x 143, 5 cm. Kimbell Art Museum, Fort Worth.\[/caption\]
+![Escapadas con amigas, viajes de fin de semana, arte, cultura](https://fotos.etheriamagazine.com/2019/01/Exposicion-Murillo-Bellas-Artes-Sevilla.jpg "Bartolomé Esteban Murillo. 'Cuatro figuras en un escalón', hacia 1655-1660. Óleo sobre lienzo, 109,9 x 143, 5 cm. Kimbell Art Museum, Fort Worth.")
 
 ##### ['De Van Gogh a Picasso. El legado Thannhauser'](https://legadothannhauser.guggenheim-bilbao.eus). Guggenheim Bilbao. Hasta el 24 de marzo.
 
@@ -60,7 +60,7 @@ Esta [exposición](https://legadothannhauser.guggenheim-bilbao.eus) es un recorr
 
 Horario: de martes a domingo de 10 a 20 h. Tarifa general: 16 Euros.
 
-\[caption id="attachment\_6674" align="aligncenter" width="700"\]![Escapadas con amigas, viajes de fin de semana, arte, cultura, museos](https://fotos.etheriamagazine.com/2019/01/Van-Gogh-Guggenheim.jpg "'Montañas de Saint-Remy' (Montagnes à Saint-Rémy). Vicent van Gogh. © Solomon R. Guggenheim Foundation, Nueva York (SRGF).") 'Montañas de Saint-Remy' (Montagnes à Saint-Rémy). Vicent van Gogh. © Solomon R. Guggenheim Foundation, Nueva York (SRGF).\[/caption\]
+![Escapadas con amigas, viajes de fin de semana, arte, cultura, museos](https://fotos.etheriamagazine.com/2019/01/Van-Gogh-Guggenheim.jpg "'Montañas de Saint-Remy' (Montagnes à Saint-Rémy). Vicent van Gogh. © Solomon R. Guggenheim Foundation, Nueva York (SRGF).")
 
 ##### ['La competición en la Antigua Grecia'](https://caixaforum.es/palma/fichaexposicion?entryId=573722). CaixaForum Palma en Mallorca. Hasta el 31 de marzo.
 
@@ -68,4 +68,4 @@ Horario: de martes a domingo de 10 a 20 h. Tarifa general: 16 Euros.
 
 Horario: de lunes a sábado de 10 a 20 horas. Domingos y festivos de 11 a 14 h. Tarifa general: 5 Euros. (50% de descuento para clientes de Caixabank).
 
-\[caption id="attachment\_6691" align="aligncenter" width="1024"\]![Museos, arte, cultura viajes con amigas, viajes de fin de semana, exposiciones](https://fotos.etheriamagazine.com/2019/01/Caixaforum-Grecia.jpg "Bloque de un friso con una batalla entre griegos y amazones.") Bloque de un friso con una batalla entre griegos y amazones. Hallado en Mausoleo de Halicarnaso, actual Turquía. © The Trustees of the British Museum.\[/caption\]
+![Museos, arte, cultura viajes con amigas, viajes de fin de semana, exposiciones](https://fotos.etheriamagazine.com/2019/01/Caixaforum-Grecia.jpg "Bloque de un friso con una batalla entre griegos y amazones. Hallado en Mausoleo de Halicarnaso, actual Turquía. © The Trustees of the British Museum.")

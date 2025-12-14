@@ -13,13 +13,13 @@ Laura Soruco, directora del hotel Las Terrazas de Abama (5\*), en Tenerife, comp
 Etheria Magazine sus inicios en el sector turístico, sus primeros recuerdos viajeros y 
 los destinos que la han marcado y que recomienda a todas las mujeres viajeras. 
 
-\[caption id="attachment\_13809" align="aligncenter" width="900"\]![laura soruco, terraza abama](https://fotos.etheriamagazine.com/2019/11/laura-soruco-terraza-abama.jpg "Laura Soruco, directora del hotel Las Terrazas del Abama") Laura Soruco, directora del hotel Las Terrazas de Abama. © Karina Sánchez\[/caption\]
+![laura soruco, terraza abama](https://fotos.etheriamagazine.com/2019/11/laura-soruco-terraza-abama.jpg "Laura Soruco, directora del hotel Las Terrazas de Abama. © Karina Sánchez")
 
 Tras cursar cuatro años de Ingeniería Informática, Laura Soruco decidió que esa no era la senda profesional que deseaba seguir, así que continuó su formación en estudios de Filología Inglesa. Ese dominio del idioma fue el que le facilitó su primer contacto con el sector turístico al realizar funciones de intérprete en rutas turísticas demandadas por hoteles y touroperadores. Dicho acercamiento al turismo fue crucial para darse cuenta de su atracción por este segmento.
 
 Aunque nacida en Argentina, su trayectoria profesional la ha llevado a vivir en Dublín, Madrid, Barcelona, Londres, Lanzarote y, ahora, Tenerife, siempre trabajando en empresas relevantes del sector, como Doyle Collection, Jumeirah Hotels, NH Hotels y Meliá Hotels International. Esto le ha permitido conocer, según nos cuenta, “diferentes productos fundamentalmente en el servicio de lujo, lo que ha enriquecido mi experiencia personal y profesional y me ha llevado al proyecto actual que, con orgullo, tengo en [Las Terrazas de Abama](https://www.lasterrazasdeabama.com/)”.
 
-\[caption id="attachment\_13983" align="aligncenter" width="900"\]![Hotel Las Terrazas de Abama](https://fotos.etheriamagazine.com/2019/11/Las-Terrazas-Preferred-abama.jpg) Hotel Las Terrazas de Abama.\[/caption\]
+![Hotel Las Terrazas de Abama](https://fotos.etheriamagazine.com/2019/11/Las-Terrazas-Preferred-abama.jpg "Hotel Las Terrazas de Abama.")
 
 Laura se considera una persona emprendedora, directa y enfocada a resultados, aunque con un fuerte componente idealista. Su personalidad le ha ayudado a no tener miedo a afrontar los retos que se le han presentado, aunque reconoce que "ser mujer es el rasgo que más me ha perjudicado a la hora de escalar puestos directivos; **este es un sector en el que tienes que demostrar mucho más que los hombres**”.
 
@@ -33,7 +33,7 @@ Mi familia tiene una larga tradición viajera, así que el primero que recuerdo 
 
 Más allá de que siga siendo uno de mis hobbies preferidos, viajo también para no desconectarme de cómo se mueve la industria. Conocer la estructura turística de cualquier lugar al que voy es un _must_. Me refiero a la oferta cultural, gastronómica y hotelera de los destinos que visito. Cuando viajo a cualquier sitio me obligo a seleccionar dos ofertas totalmente diferentes: una de carácter tradicional (normalmente algún hotel de cinco estrellas ya que el segmento del lujo es en el que me muevo), y otro de carácter totalmente alternativo, ya sea un alojamiento rural, un B&B, o un hostel, para ver hacia donde se mueven las tendencias.
 
-\[caption id="attachment\_13811" align="aligncenter" width="900"\]![cataratas iguazu etheria magazine](https://fotos.etheriamagazine.com/2019/11/cataratas-iguazu.jpg "Cataratas del Iguazú.") Cataratas del Iguazú. © Diego Rezende\[/caption\]
+![cataratas iguazu etheria magazine](https://fotos.etheriamagazine.com/2019/11/cataratas-iguazu.jpg "Cataratas del Iguazú. © Diego Rezende")
 
 > "Conocer la estructura turística de cualquier lugar al que voy es un must" 
 
@@ -43,7 +43,7 @@ Muchísimo en lo personal y en lo profesional. Viajar es algo que ayuda a abrir 
 
 Mi deseo y misión como directora, por ejemplo, de Las Terrazas de Abama, es ofrecer una experiencia extraordinaria a todos los niveles y que nuestros huéspedes sean nuestra mejor carta de presentación. Si me limitara a copiar lo que se hace en el entorno estoy segura de que no estaríamos ofreciendo un producto diferenciado y de la calidad. Los huéspedes no se sorprenderían, y perdiendo la capacidad de sorprenderles seríamos anodinos, como la mayoría de hoteles en Europa, cuya carta de presentación es muy similar. En nuestro caso, ya nos distingue ofrecer los mismos servicios que un hotel en las 151 residencias de lujo con que contamos y un sinfín de experiencias adaptadas a cualquier gusto.
 
-\[caption id="attachment\_13982" align="aligncenter" width="900"\]![Piscina de Las Terrazas de Abama](https://fotos.etheriamagazine.com/2019/11/piscina-Las-Terrazas-de-Abama.jpg) Piscina de Las Terrazas de Abama.\[/caption\]
+![Piscina de Las Terrazas de Abama](https://fotos.etheriamagazine.com/2019/11/piscina-Las-Terrazas-de-Abama.jpg "Piscina de Las Terrazas de Abama.")
 
 4\. Si pudieses elegir un compañero de viaje. ¿Quién sería y por qué? 
 
@@ -57,7 +57,7 @@ En este caso sería alguien real, mi marido. Él también trabaja en el sector t
 
 Siempre **planifico el viaje, pero dejo un 20 o un 30% a la improvisación**. Me gusta investigar, pero una vez en el destino creo que es importante tomar nota de las recomendaciones locales. Si hay algún restaurante, museo, experiencia que me recomienden o algún punto en el itinerario que no he marcado y del que me dicen que es imprescindible conocerlo para captar la esencia del lugar, no dudo en realizar cambios sobre mi hoja de ruta inicial.
 
-\[caption id="attachment\_13430" align="aligncenter" width="900"\]![que ver en peru, machu picchu](https://fotos.etheriamagazine.com/2019/10/viaje-peru-mujeres.jpg "Machu Picchu (Perú).") Machu Picchu (Perú).\[/caption\]
+![que ver en peru, machu picchu](https://fotos.etheriamagazine.com/2019/10/viaje-peru-mujeres.jpg "Machu Picchu (Perú).")
 
 6\. ¿Cómo te entretienes en las esperas de los aeropuertos? 
 
@@ -73,7 +73,7 @@ Estuve en **Playa del Carmen**, en Méjico. Lo que más me gustó fue la natural
 
 Quizás lo menos que gustó, precisamente, fue que aunque cuentan con instalaciones asombrosas, no han integrado esa conciencia medioambiental. El impacto de la basura que generan es enorme en los alrededores. No es suficiente contar con un resort maravilloso. Los hoteles no pueden constituirse en una burbuja a espaldas de un destino, deben colaborar con las autoridades locales para generar la infraestructura adecuada que permita la conservación del entorno, de la riqueza de la tierra y su paisaje, de la pureza de las aguas del mar.
 
-\[caption id="attachment\_13812" align="aligncenter" width="900"\]![perito moreno, argentina, etheria magazine](https://fotos.etheriamagazine.com/2019/11/argentina-perito-moreno.jpg "Perito Moreno, en Argentina.") Perito Moreno, en Argentina. © Rachel Jarboe\[/caption\]
+![perito moreno, argentina, etheria magazine](https://fotos.etheriamagazine.com/2019/11/argentina-perito-moreno.jpg "Perito Moreno, en Argentina. © Rachel Jarboe")
 
 9\. ¿Qué tres viajes que hayas realizado recomendarías especialmente a una viajera? 
 
@@ -83,7 +83,7 @@ Si es española, y ya conoce bien el país, recomendaría tres destinos extranje
 
 Mis destinos pendientes ahora están todos en Asia, que es un continente que quiero conocer en profundidad. [Japón]({{% ref como-organizar-un-viaje-a-japon %}}), Singapur y Nepal están en mi agenda.
 
-\[caption id="attachment\_5019" align="aligncenter" width="900"\]![](https://fotos.etheriamagazine.com/2018/11/Patan-viaje-mujeres-nepal.jpg) Patán (Nepal).\[/caption\]
+![](https://fotos.etheriamagazine.com/2018/11/Patan-viaje-mujeres-nepal.jpg "Patán (Nepal).")
 
 11\. ¿Qué país te ha ganado con su gastronomía?¿Destacarías algún plato o producto? 
 
@@ -97,7 +97,7 @@ El avión es el más cómodo para moverte a larga distancia, luego ya dentro del
 
 Aquí en España, **Las Terrazas de Abama**, y no es porque trabaje aquí. Me parece que, sin pretensiones, hemos logrado crear una oferta alternativa de lujo a la que siempre se da en Canarias. Luego a nivel mundial me encanta la marca americana [1 Hotels](https://www.1hotels.com/es/brooklyn-bridge), con un perfil también muy sostenible y ecológico. Su hotel en Brooklyn, Nueva York, es impresionante.
 
-\[caption id="attachment\_13814" align="aligncenter" width="900"\]![Brooklyn, mujeres que inspiran](https://fotos.etheriamagazine.com/2019/11/brooklyn-viaje-mujeres.jpg "Brooklyn.") Brooklyn. © Kyler Trautner\[/caption\]
+![Brooklyn, mujeres que inspiran](https://fotos.etheriamagazine.com/2019/11/brooklyn-viaje-mujeres.jpg "Brooklyn. © Kyler Trautner")
 
 14\. ¿Qué es lo que nunca falta en tu bolsa de mano? 
 

@@ -97,7 +97,7 @@ No se si voy a ser muy objetiva diciendo que para mí, **Perú tiene la mejor ga
 
 He estado en muchos estupendos, en India, Medio Oriente, Latinoamérica o Asia; así que se me hace difícil elegir. Pero recuerdo haber estado hace no mucho en el [Colca Lodge](https://colca-lodge.com/es/hotel/) en Arequipa, Perú, en plena naturaleza, disfrutando de las aguas termales a la luz de la luna con una botella de _champagne_ y solo silencio alrededor, y realmente fue una experiencia bellísima.
 
-\[caption id="attachment\_7722" align="aligncenter" width="800"\]![Colca Lodge, hoteles en arequipa, el mejor hotel del mundo](https://fotos.etheriamagazine.com/2019/02/colca-lodge-arequipa.jpg "Colca Lodge, en Arequipa (Perú)") © Colca Lodge (Arequipa, Perú).\[/caption\]
+![Colca Lodge, hoteles en arequipa, el mejor hotel del mundo](https://fotos.etheriamagazine.com/2019/02/colca-lodge-arequipa.jpg "© Colca Lodge (Arequipa, Perú).")
 
 **14. ¿Qué es lo que nunca falta en tu bolsa de mano?**
 
