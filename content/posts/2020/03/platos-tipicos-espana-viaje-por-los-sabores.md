@@ -62,7 +62,7 @@ grandes de aceite de oliva virgen extra y 1 de vinagre de vino de Jerez, agua, h
 duro, pan y sal. 
 
 No olvides servirte [tu vino blanco 
-favorito](http://etheriamagazine.com/2019/05/23/los-10-mejores-vinos-para-este-verano/) 
+favorito]({{% ref los-10-mejores-vinos-para-este-verano %}}) 
 mientras lo preparas. 
 
 [![salmorejo](https://fotos.etheriamagazine.com/2020/03/salmorejo-cocina-carmen.jpg "Salmorejo de Cocina con Carmen.")](https://www.youtube.com/watch?v=2yQpkUXWSiU)
@@ -72,7 +72,7 @@ mientras lo preparas.
 Este plato, que es muy habitual en encuentros familiares y celebraciones de todo tipo, 
 es el más popular de Castilla y León. Ya te hablábamos del mismo en el [artículo de la 
 Ruta del 
-Lechazo](http://etheriamagazine.com/2019/04/25/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon/). 
+Lechazo]({{% ref viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon %}}). 
 Ahora solo te queda tratar de hacerlo en casa. Puede que no te salga igual que en un 
 asador pero seguro que te alegra el día. 
 

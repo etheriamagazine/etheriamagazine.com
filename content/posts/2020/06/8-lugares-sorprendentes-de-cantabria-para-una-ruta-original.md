@@ -131,7 +131,7 @@ Valverde, con una gran espadaña románica.
 
 ✅ Valderredible concentra un gran abanico de propuestas turísticas de las que ya os 
 hablamos en el artículo [10 poderosas razones para visitar 
-Valderredible](http://etheriamagazine.com/2019/08/26/que-ver-valderredible-cantabria/), 
+Valderredible]({{% ref que-ver-valderredible-cantabria %}}), 
 cuya lectura es muy recomendable si visitas la comarca. 
 
 ![Fachada del Palacio de Soñanes, un  hotel de lujo en cantabria](https://fotos.etheriamagazine.com/2020/06/Palacio-Sonanes-cantabria.jpg "Fachada del Palacio de Soñanes. © Etheria Magazine")
@@ -215,7 +215,7 @@ sobaos**, con el que terminar la visita.
 **Sigue leyendo sobre Cantabria en Etheria Magazine** 
 
 [Actividades con amigas en 
-Cantabria](http://etheriamagazine.com/2020/02/17/5-experiencias-en-cantabria-para-un-fin-de-semana-con-amigas/). 
+Cantabria]({{% ref 5-experiencias-en-cantabria-para-un-fin-de-semana-con-amigas %}}). 
 
 [Cantabria en 
-familia](http://etheriamagazine.com/2018/07/13/cantabria-viaje-en-familia/).
+familia]({{% ref cantabria-viaje-en-familia %}}).

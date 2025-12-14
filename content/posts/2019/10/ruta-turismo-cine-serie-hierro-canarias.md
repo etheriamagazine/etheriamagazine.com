@@ -49,7 +49,7 @@ Otra perspectiva frecuente de la producción televisiva ya que es donde se reún
 amigos del fallecido. 
 
 📌 En el lugar, el [artista canario César 
-Manrique](http://etheriamagazine.com/2019/09/10/cesar-manrique-ruta-en-lanzarote/) 
+Manrique]({{% ref cesar-manrique-ruta-en-lanzarote %}}) 
 realizó una intervención inspirada en la arquitectura canaria. El edificio, a 645 metros 
 sobre el mar, rinde **homenaje a la tierra** rodeado de espacios al aire libre en varios 
 niveles, como las viviendas herreñas, y de la vegetación autóctona. Se destinó al 

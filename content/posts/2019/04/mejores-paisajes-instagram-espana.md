@@ -72,7 +72,7 @@ distintos espacios donde la naturaleza se ha empleado a fondo y la iluminación 
 su belleza. Recorrerás algo más de un kilómetro, asistirás a un concierto de música 
 clásica y darás un paseo en barca en el lago Martel. Y todo ello sin pasar frío, estarás 
 a unos 21 ºC. Si prefieres preparar una escapada a [Ibiza con 
-amigas](http://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/) estás a tiempo. 
+amigas]({{% ref viaje-a-ibiza-con-amigas %}}) estás a tiempo. 
 
 ![cueva drach mallorca](https://fotos.etheriamagazine.com/2019/04/mallorca-cueva-drach.jpg "Cuevas del Drach. © Balate Dorin/ Adobe Stock")
 
@@ -85,8 +85,8 @@ Médulas](http://www.turismoleon.org/turismo/las-medulas.php) incluso ha sido re
 por la Unesco, que las ha declarado Patrimonio de la Humanidad. Lo más recomendable es 
 comenzar la visita en el aula arqueológica y luego seguir una ruta de las que organizan 
 en el Centro de recepción de visitantes. Puedes continuar la visita por [Picos de 
-Europa](http://etheriamagazine.com/2018/10/17/picos-de-europa-ruta-por-asturias-leon-y-cantabria/) 
-o en [León capital](http://etheriamagazine.com/2018/09/27/48-horas-en-leon/). 
+Europa]({{% ref picos-de-europa-ruta-por-asturias-leon-y-cantabria %}}) 
+o en [León capital]({{% ref 48-horas-en-leon %}}). 
 
 ![las medulas leon](https://fotos.etheriamagazine.com/2019/04/leon-medulas-minas-oro.jpg "Las Médulas. © Olivier/ Adobe Stock")
 

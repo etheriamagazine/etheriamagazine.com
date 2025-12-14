@@ -49,7 +49,7 @@ Valbuena](https://www.castillatermal.com/hoteles/monasterio-de-valbuena/).
 Un hotel cinco estrellas Gran Lujo que cuenta con todas las comodidades imaginables 
 además del benigno clima canario durante el invierno. Cuenta con uno de los centros de 
 bienestar más completos que puedas encontrar: el [Bahía Wellness 
-Retreat](http://etheriamagazine.com/2018/06/12/bahia-wellness-retreat-del-hotel-bahia-del-duque/), 
+Retreat]({{% ref bahia-wellness-retreat-del-hotel-bahia-del-duque %}}), 
 que incluye el delicioso espacio del Thai Room Plaza, especializado en terapias 
 asiáticas. Idóneo para disfrutar de unos días en pareja o en familia en cualquier 
 momento del año, pero sobre todo en los duros inviernos peninsulares. 

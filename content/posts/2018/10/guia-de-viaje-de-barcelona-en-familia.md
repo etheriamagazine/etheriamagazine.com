@@ -37,7 +37,7 @@ plazas.
 Después, callejead por **el Born** (donde se celebraban las justas medievales), entrad 
 en la magnífica Santa María del Mar (echa un vistazo a nuestro reportaje sobre _[La 
 Catedral del 
-Mar](http://etheriamagazine.com/2018/08/01/turismo-de-cine-catedral-del-mar/),_ de 
+Mar]({{% ref turismo-de-cine-catedral-del-mar %}}),_ de 
 Ildefonso Falcones) y acercaos hasta el **Port Vell** (puerto viejo) y el 
 **Maremagnum**, la zona más nueva. Subid por las animadas **Ramblas** y el señorial 
 **Paseo de Gracia** y admirad las fachadas modernistas de la **Pedrera** y la **Casa 

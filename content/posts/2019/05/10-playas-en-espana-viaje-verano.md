@@ -73,7 +73,7 @@ Uno de esos rincones que parece que el Mediterráneo se resiste a enseñar ocult
 entre bosques de pinos, rocas y acantilados y que ofrecen ese mar transparente tan 
 característico de las calas rocosas de las islas Baleares (aunque en esta playa hay 
 arena). En los alrededores de esta cala de 
-[Ibiza](http://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/) se encuentran 
+[Ibiza]({{% ref viaje-a-ibiza-con-amigas %}}) se encuentran 
 pequeños rincones perfectos para disfrutar si se llega en barco. 
 
 ## 6\. Playa de Itzurun (Zumaia, Gipuzkoa)

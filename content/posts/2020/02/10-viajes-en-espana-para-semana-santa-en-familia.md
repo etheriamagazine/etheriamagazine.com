@@ -27,7 +27,7 @@ dejamos diez viajes de Semana Santa perfectos para disfrutar en familia.
 
 Una propuesta cercana a Madrid y a otras muchas provincias que permite combinar cultura 
 y turismo activo. Con la ruta que proponemos de [Sepúlveda y las hoces del 
-D](http://etheriamagazine.com/2019/07/11/sepulveda-y-las-hoces-del-duraton-viaje-en-familia/)u[ratón](http://etheriamagazine.com/2019/07/11/sepulveda-y-las-hoces-del-duraton-viaje-en-familia/) 
+D]({{% ref sepulveda-y-las-hoces-del-duraton-viaje-en-familia %}})u[ratón]({{% ref sepulveda-y-las-hoces-del-duraton-viaje-en-familia %}}) 
 podrás descubrir la preciosa villa histórica de Sepúlveda (apuntaos a sus visitas 
 teatralizadas) y recorrer las hoces del río Duratón en piragua o barca a pedales. Y con 
 el aliciente de degustar la excelente gastronomía de la zona con el lechazo como 
@@ -41,7 +41,7 @@ sepulveda-y-las-hoces-del-duraton-viaje-en-familia %}})
 ## Actividades con niños en Cádiz capital
 
 Cádiz es una buena opción para todo el año, ya sea en 
-[Carnavales](http://etheriamagazine.com/2020/01/22/breve-guia-para-disfrutar-carnaval-de-cadiz-con-amigas/), 
+[Carnavales]({{% ref breve-guia-para-disfrutar-carnaval-de-cadiz-con-amigas %}}), 
 Semana Santa, verano o como escapada en los puentes de otoño. Si tienes como sede la 
 capital, aquí te proponemos 10 planes con niños en Cádiz con los que disfrutaréis toda 
 la familia. Con museos, gastronomía, parques llenos de encanto, playas y paseos en barco 
@@ -120,7 +120,7 @@ ruta-en-coche-pueblos-negros-guadalajara %}})
 El buen clima que suele tener Almería hace que la Semana Santa sea un momento perfecto 
 para disfrutar de sus paisajes de fin del mundo y sus solitarias playas. Puedes 
 acercarte a Almería capital para disfrutar de su intenso 
-[tapeo](http://etheriamagazine.com/2020/01/10/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear/) 
+[tapeo]({{% ref 48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear %}}) 
 y realizar una ruta en coche por el Cabo de Gata descubriendo playas como la de los 
 Genoveses, pueblos vaqueros en el desierto de Tabernas y subastas de pescado en 
 Garrutxa. 
