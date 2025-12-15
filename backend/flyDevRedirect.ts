@@ -1,7 +1,7 @@
 import { createMiddleware } from 'hono/factory'
 
 // redirect if user a
-export const flyRedirect = createMiddleware(async (c, next) => {
+export default createMiddleware(async (c, next) => {
 
   const reqUrl = new URL(c.req.url);
 

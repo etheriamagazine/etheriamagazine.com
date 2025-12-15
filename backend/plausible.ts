@@ -54,4 +54,4 @@ app.post('/api/event', async (c) => {
   return fetch(req);
 });
 
-export { app as plausibleProxy };
+export default app;
