@@ -4,14 +4,16 @@ name: Fly deploy
 on:
   push:
     branches:
-      - main    # change to main if needed
+      - main # change to main if needed
+  schedule:
+    - cron: 20 6 * * 1-6 # Execute at 6:20am except sundays
   workflow_dispatch:
 
 jobs:
   deploy:
     name: Deploy app
     runs-on: ubuntu-latest
-    concurrency: deploy-group    # optional: ensure only one action runs at a time
+    concurrency: deploy-group # optional: ensure only one action runs at a time
     steps:
       - uses: actions/checkout@v4
         with:
