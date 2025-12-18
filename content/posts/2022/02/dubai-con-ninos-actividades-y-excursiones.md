@@ -1,5 +1,5 @@
 ---
-title: "Dubái con niños: 8 actividades para disfrutar en familia y una novedad"
+title: "Dubái con niños: actividades para disfrutar en familia"
 date: 2022-02-25
 cover: https://fotos.etheriamagazine.com/2022/02/Dubai-museo-del-futuro.jpg
 categories: 
@@ -27,7 +27,7 @@ visita de la ciudad, con sus rascacielos y su parte antigua, donde los zocos
 tradicionales llenan de aromas exóticos el ambiente. Y os proporcionarán experiencias 
 únicas que recordaréis siempre. 
 
-## 1\. The Ain Dubai
+## 1. The Ain Dubai
 
 Como no podía ser de otra manera, ¿dónde está la noria más alta del mundo? En Dubái. 
 **Ain Dubai** es espectacular y está ubicada en la isla artificial Bluewaters, al lado 
@@ -47,7 +47,7 @@ personas el precio es de 1.550 AED. Podéis consultar en la web de [Ain
 Dubai](https://www.aindubai.com/en/) otras opciones para disfrutar del recorrido, desde 
 cabinas con bar hasta poder tomar un aperitivo dentro o celebrar un cumpleaños. 
 
-## 2\. Vuelo en helicóptero
+## 2. Vuelo en helicóptero
 
 Sobrevolar los rascacielos de Dubái y sus islas es una experiencia única de la que 
 disfrutará toda la familia y, probablemente, la única forma de comprender el singular e 
@@ -66,7 +66,7 @@ desde los 2.595 AED si reserváis el helicóptero para vosotros (hasta 5 pasajer
 Además, os harán un montón de fotos para inmortalizar el momento que después podréis 
 comprar en la tienda. 
 
-## 3\. Parque acuático Aquaventura
+## 3. Parque acuático Aquaventura
 
 El **hotel Atlantis de Dubái**, situado en el arco de hoteles que rodea la famosa 
 Palmera, alberga el parque acuático más grande del mundo, [Atlantis 
@@ -89,7 +89,7 @@ The Lost
 Chambers](https://www.atlantis.com/dubai/atlantis-aquaventure/lost-chambers-aquarium) 
 (115 AED) inspirado en la leyenda de la Atlántida y con más de 65.000 animales marinos. 
 
-## 4\. Excursión y cena en el desierto
+## 4. Excursión y cena en el desierto
 
 Es una de las excursiones que tienes que hacer sí o sí en tu primera visita a Dubái. El 
 desierto está al lado de la ciudad, en poco más de media hora estarás completamente solo 
@@ -110,7 +110,7 @@ Adventure](https://www.arabian-adventures.com/ae/english/private-vehicle-safaris
 Heritage](https://www.platinum-heritage.com/royal-platinum-desert-experience) para 
 experiencias de lujo (desde 13.500 AED). 
 
-## 5\. Jornada de playa
+## 5. Jornada de playa
 
 Cuando se viaja con niños viene muy bien romper la rutina de las excursiones con 
 jornadas lúdicas donde sólo haya tiempo para jugar y descansar. Una buena opción en 
@@ -125,7 +125,7 @@ acuáticos, parque de patinaje, camas elásticas… Para comer hay chiringuitos 
 todos los servicios como tumbonas, sombrillas, duchas, vestuarios y wifi. Disfrutaréis 
 seguro. 
 
-## 6\. Subir al Burj Khalifa
+## 6. Subir al Burj Khalifa
 
 Subir al [Burj Khalifa](https://www.burjkhalifa.ae/en/), la torre más alta del mundo con 
 828 metros, es una experiencia que disfrutará toda la familia. Ya desde la misma 
@@ -143,7 +143,7 @@ a 555 metros de altura y que también te permite disfrutar de las vistas desde l
 realidad virtual, para que la experiencia sea completa. La visita os llevará como poco 
 hora y media o dos horas. 
 
-## 7\. Dubai Mall: un acuario y mucho más
+## 7. Dubai Mall: un acuario y mucho más
 
 Dubai Mall, en el Downtown de Dubái, es uno de esos centros comerciales donde tomas 
 conciencia de cómo en esta ciudad se hace todo a lo grande. Ocupa una superficie enorme, 
@@ -170,7 +170,7 @@ para todas las edades. Además, en Dubai Mall hay una pista de patinaje sobre hi
 piscinas de bolas, camas elásticas… Os faltará tiempo para disfrutar de todo lo que 
 ofrece este centro comercial que parece más un parque temático. 
 
-## 8\. Espectáculo de las fuentes de Dubái
+## 8. Espectáculo de las fuentes de Dubái
 
 Las fuentes de Dubái bailando al ritmo de la música es uno de los espectáculos que no 
 puedes perderte en tu viaje con niños a Dubái. Se encuentran situadas en el exterior del 
@@ -192,21 +192,21 @@ Dubai](https://www.armanihoteldubai.com/) o el [Hotel Palace
 Downtown](https://www.addresshotels.com/en/hotels/palace-downtown), que tienen 
 restaurantes con vistas a las fuentes. 
 
-## NOVEDAD - El Museo del Futuro
+## 9. El Museo del Futuro
 
-Este emirato no para, y acaba de inaugurar el [Museo del 
+Este emirato inauguró en 2022 el [Museo del 
 Futuro](https://museumofthefuture.ae/en), que además de ser una auténtica joya 
-arquitectónica pretende convertirse en el mayor laboratorio universal del conocimiento. 
-Con una apuesta clara por la ciencia y la tecnología, se va convertir en un laboratorio 
+arquitectónica se ha convertido en el mayor laboratorio universal del conocimiento. 
+Con una apuesta clara por la ciencia y la tecnología, esr en un laboratorio 
 vivo donde puedan convivir y colaborar los principales científicos del mundo. 
 
 ![Museo del Futuro.](https://fotos.etheriamagazine.com/2022/02/Dubai-museo-del-futuro.jpg "Museo del Futuro. © Turismo de Dubái")
 
-A través de la realidad virtual y la inteligencia artificial, el museo llevará a sus 
+A través de la realidad virtual y la inteligencia artificial, el museo lleva a sus 
 visitantes hasta 2071, fecha del primer centenario de la creación de Emiratos Árabes 
 Unidos. No puede faltar en la agenda de tu próxima visita a Dubái. 
 
-### También te puede interesar:
+**También te puede interesar:**
 
 {{< reflink como-aprovechar-una-escala-en-dubai >}} 
 
