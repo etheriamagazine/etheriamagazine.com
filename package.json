@@ -16,8 +16,9 @@
   },
   "scripts": {
     "dev": "bun scripts/dev.sh",
-    "preview": "bun scripts/preview.sh",
+    "runapp": "bun scripts/runapp.sh",
     "new": "bun scripts/new.js",
+    "preview": "bun scripts/preview.sh",
     "server": "bun scripts/server.sh"
   },
   "prettier": {

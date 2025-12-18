@@ -1,2 +1,2 @@
 #!/bin/bash
-hugo server --buildFuture
+hugo server --buildFuture --buildDrafts
