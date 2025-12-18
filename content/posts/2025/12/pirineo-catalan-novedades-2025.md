@@ -6,7 +6,7 @@ categories:
   - organiza-tu-viaje
   - excursiones
 authors:
-  - Susana García
+  - Redacción Etheria
 ---
 
 La nieve cubre las montañas del Pirineo catalán y sus estaciones de esquí están preparadas para recibir a los miles de esquiadores que cada año acuden a ellas por sus paisajes y su calidad de servicios. En este artículo te contamos cuáles son las novedades para la temporada 2025/2026 en cada una de ellas y por qué son una excelente opción para esa escapada de esquí que tienes ya en la cabeza.
