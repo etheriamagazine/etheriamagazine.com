@@ -9,6 +9,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Si estás organizando tus vacaciones, saca tu espíritu aventurero porque nos vamos a Málaga para conocer el nuevo Parque Nacional Sierra de las Nieves.  Descubramos las maravillas naturales y ecoturísticas del que ya es la décimo sexta estrella de nuestros parques nacionales.

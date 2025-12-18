@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Getxo es uno de los mejores destinos familiares de la costa de Bizkaia, un éxito seguro 

@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Vitoria es una ciudad que ha hecho de la sostenibilidad la senda a seguir, pero a sus tonos verdes también se han sumado atractivas propuestas urbanas como la Ruta de los Murales. Pasea por su casco histórico y déjate seducir por sus coloridas fachadas y otros rincones secretos. En Etheria Magazine ya lo hemos hecho para contaros todas las claves.

@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 La más remota de las islas Canarias, El Hierro, se ha convertido en la protagonista de 

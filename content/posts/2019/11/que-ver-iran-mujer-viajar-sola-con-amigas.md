@@ -8,6 +8,7 @@ tags:
   - mundo
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Persia sigue viva. El gran imperio que fue en la Antigüedad mantiene su esencia en Irán, 

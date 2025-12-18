@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Ponemos rumbo a Getxo, el municipio vizcaíno que con su fachada marítima de playas, 

@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Las Ubiñas-La Mesa es un territorio de montaña que separa y une, a la vez, el sur asturiano con tierras leonesas. En 450 kilómetros de valles, bosques de cuento y cumbres asomadas desde lo más alto de la cordillera Cantábrica practicarás turismo de montaña sin perder detalle del entorno. ¡Chsss! Sigue las pistas porque caminamos entre osos pardos por el Parque Natural Las Ubiñas-La Mesa.

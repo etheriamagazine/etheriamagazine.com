@@ -8,6 +8,7 @@ tags:
   - mundo
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 La prosperidad de California nació del sueño de muchos emigrantes europeos. Su bondad 

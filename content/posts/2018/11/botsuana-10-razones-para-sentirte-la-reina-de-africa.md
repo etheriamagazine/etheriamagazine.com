@@ -8,6 +8,7 @@ tags:
   - mundo
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Un safari en Botsuana puede cambiar tu concepción del viaje y de la naturaleza africana, 

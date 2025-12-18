@@ -9,6 +9,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Los Diablos de Luzón llegan fieles a su cita cubiertos de hollín y precedidos por un 

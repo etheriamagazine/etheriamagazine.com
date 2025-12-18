@@ -10,6 +10,7 @@ tags:
   - mundo
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Hace cinco años, en 2020, se cumplió el 500 aniversario del descubrimiento del Estrecho 

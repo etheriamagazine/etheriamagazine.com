@@ -9,6 +9,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Descubre el lado más gourmet de Getxo porque el municipio más bonito a orillas de la ría 

@@ -10,6 +10,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 La naturaleza vasca es una fuente inagotable de rutas de senderismo. En este caso te 

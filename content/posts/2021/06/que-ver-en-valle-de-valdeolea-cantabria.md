@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Al sur de Cantabria se sitúan caminos ancestrales y chamánicos señalados por menhires, y también pueblos tranquilos que despiertan el apego a lo rural. En Etheria Magazine te proponemos un viaje diferente en el que descubrir, entre huellas megalíticas, el valle de Valdeolea.

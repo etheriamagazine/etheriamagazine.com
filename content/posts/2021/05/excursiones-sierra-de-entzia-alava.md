@@ -9,6 +9,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Descubre interesantes excursiones por la Sierra de Entzia a través de siete planes que te desvelarán los sugerentes paisajes de una frontera casi desconocida. Esta sierra alavesa se levanta sobre la llanada como una ola de roca que pone límites a la de Urbasa (Navarra) con grandes hayedos, oníricos laberintos de roca, historias de caminantes y huellas megalíticas que te van a prendar.

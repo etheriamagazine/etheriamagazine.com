@@ -9,6 +9,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Cantabria en un destino perfecto para visitar durante todo el año, así que no te lo 

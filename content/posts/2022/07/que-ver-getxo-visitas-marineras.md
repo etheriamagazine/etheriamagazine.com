@@ -9,6 +9,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Respirar mirando al norte nos hace pensar en Getxo, una escapada perfecta desde Bilbao con amigas y un mirador privilegiado de la entrega a mar abierto de la ría del Nervión. Frente al puerto comercial más dinámico del Cantábrico se abre el estuario o Abra de Bilbao desvelando su ubicación y la conexión con la buena vida. Su orilla ya se puso de moda con los “baños de mar” hace siglo y medio, y hoy día sigue siendo una excepcional propuesta. Te contamos 10 imprescindibles en Getxo para tu próximo viaje.

@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Lugo es tierra de contrastes, náutica y marinera en la orilla cantábrica y baluarte de 

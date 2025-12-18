@@ -9,6 +9,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Discreto y rural, el vizcaíno valle de Karrantza, en el extremo más occidental de la 

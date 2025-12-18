@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 El atractivo de las Rías Baixas es indiscutible, pero te proponemos explorar también la 

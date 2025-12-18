@@ -9,6 +9,7 @@ tags:
 authors: 
   - Juan Carlos y Mar
   - Mar Ramírez
+  - Mar Ramírez
 ---
 
 Viajar al norte de India, a las puertas del desierto del Thar, es entrar en un universo de color brillante. Sobresale no solo por el tono de sus edificios, que van del rojo de la arenisca hasta el blanco de sus mármoles, sino por la amalgama colorida de los saris de las mujeres rajastaníes. Descubre las alegres pinceladas de estas diez paradas del Rajastán.

@@ -8,6 +8,7 @@ tags:
   - mundo
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Kenia es uno de los lugares míticos de África que todo viajero debe tener en cuenta en su plan de viaje. Así que prepara un equipaje ligero para dejar hueco a todas las vivencias que acumularás. Te convertirás en amante de los grandes espacios y de los horizontes salpicados de acacias, también en una hábil observadora de fauna y en una coleccionista de colores africanos. Si quieres saber qué ver en Kenia, sigue leyendo...

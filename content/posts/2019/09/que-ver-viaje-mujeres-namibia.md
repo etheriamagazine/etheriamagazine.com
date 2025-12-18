@@ -8,6 +8,7 @@ tags:
   - mundo
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 El Namib es el desierto vivo más viejo del mundo y, probablemente, el más hermoso. Abarca gran parte de Namibia y es un territorio donde la vida y la muerte se replantean cada día. En Etheria Magazine nos ponemos en modo exploradora para sentir el vértigo de los enormes espacios y el placer del silencio. Aventúrate a dejar 10 huellas de tus pies en el desierto.

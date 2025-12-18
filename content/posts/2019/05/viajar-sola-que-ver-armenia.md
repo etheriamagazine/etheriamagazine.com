@@ -8,6 +8,7 @@ tags:
   - mundo
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Si buscas el paraíso sigue estas indicaciones por la geografía de Armenia. Te llevarán 

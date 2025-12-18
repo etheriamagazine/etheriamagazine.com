@@ -7,6 +7,7 @@ categories:
   - excursiones
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Cada año, desde hace más de un siglo, se festeja la Vijanera en la localidad cántabra de 

@@ -9,6 +9,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 La imagen de las primeras grullas ya anuncia el comienzo de un extraordinario despliegue que dura lo que se mantenga el invierno. Con la Fiesta de las Grullas en la laguna de Gallocanta, que se celebra el 6 de noviembre de 2021, se señala una cita anual que no puedes perderte. Este humedal, en una altiplanicie entre Zaragoza y Teruel, es uno de los mejores lugares de descanso y refugio peninsular de estas aves.

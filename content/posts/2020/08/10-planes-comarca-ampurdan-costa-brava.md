@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Hay escapadas que inspiran, y la comarca gerundense del Ampurdán (o Empordà) es perfecta 

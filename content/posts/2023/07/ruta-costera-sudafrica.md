@@ -8,6 +8,7 @@ tags:
   - mundo
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Viajar a tu ritmo por la costa noroeste de Sudáfrica, desde Cape Town hasta la frontera 

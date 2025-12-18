@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Como puerta a los Pirineos, Huesca es una escapada que siempre apetece. Es una delicia 

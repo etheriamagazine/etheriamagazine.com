@@ -9,6 +9,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Paraíso de vacas, ovejas y manadas de caballos, las altiplanicies de Urbasa y Andía 

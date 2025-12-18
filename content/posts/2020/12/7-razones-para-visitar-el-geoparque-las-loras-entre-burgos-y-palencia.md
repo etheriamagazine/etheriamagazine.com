@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Disfruta del geoparque Las Loras un paisaje forjado a base de tiempo entre Burgos y 

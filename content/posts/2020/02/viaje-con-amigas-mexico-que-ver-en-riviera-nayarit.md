@@ -9,6 +9,7 @@ tags:
   - mundo
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 La costa del Pacífico de Riviera Nayarit ofrece un tipo de exclusividad que no está basada en el lujo material sino en vivencias y entornos únicos. Descubre sus playas vírgenes recortadas por cerros selváticos y con olas que invitan a surfear, misteriosos manglares, comidas bajo palapas con vistas al mar y pueblos mágicos, que oscilan entre la elegancia y la bohemia. Acompáñanos a este México tan especial con tus mejores amigas y pásalo “padrísimo”.

@@ -8,6 +8,7 @@ tags:
   - mundo
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Está de moda, se enorgullece de ser una encrucijada entre Europa y Asia y goza del entusiasmo de un país joven. Georgia cuenta con apenas 30 años de independencia pero es un territorio legendario por donde discurría la Ruta de la Seda. Te invitamos a realizar una escapada georgiana con visitas a sus diez lugares más increíbles.

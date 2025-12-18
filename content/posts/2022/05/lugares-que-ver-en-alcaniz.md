@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 La fascinación que despierta Alcañiz, la capital de la comarca del Bajo Aragón, no es inventada. Por algo será que, junto a Teruel, es la única localidad de una provincia amenazada por la despoblación que atrae a más gente cada año. Sigue leyendo para saber todo lo que tienes que ver en Alcañiz, los rincones favoritos de sus vecinos, esos mismos que atraparon la mirada de Alfred Hitchcock.

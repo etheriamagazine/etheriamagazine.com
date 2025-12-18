@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Recorrer la costa de Llanes en coche, a pie o con ferrocarril de vía estrecha es una 

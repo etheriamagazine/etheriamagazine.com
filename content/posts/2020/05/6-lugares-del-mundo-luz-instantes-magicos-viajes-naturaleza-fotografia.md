@@ -9,6 +9,7 @@ tags:
   - mundo
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Cada viaje es una oportunidad para descubrir la danza de colores que pinta el cielo al 

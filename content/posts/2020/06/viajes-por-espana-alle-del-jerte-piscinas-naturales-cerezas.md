@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 En tierras extremeñas, entre los pliegues de la Sierra de Gredos, la encantadora 

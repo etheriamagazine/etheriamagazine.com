@@ -9,6 +9,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Un estallido rosáceo enciende el paisaje rural del Bajo Segre debido a la floración de 

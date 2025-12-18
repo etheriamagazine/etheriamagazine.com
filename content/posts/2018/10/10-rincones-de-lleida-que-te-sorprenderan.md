@@ -9,6 +9,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Los tópicos no le sientan bien a Lleida. Esta provincia se debate entre un corazón 

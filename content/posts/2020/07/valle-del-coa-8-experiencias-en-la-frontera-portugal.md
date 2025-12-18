@@ -9,6 +9,7 @@ tags:
   - europa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 En pleno corazón de Portugal se puede descubrir una de las fronteras más antiguas del 

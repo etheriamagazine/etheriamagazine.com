@@ -8,6 +8,7 @@ tags:
   - europa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Rodas, la mayor de las islas del Dodecaneso y la que fuera sede de una las Siete Maravillas del Mundo Antiguo, nos ha cautivado desde el mar Egeo. Su esencia griega sigue intacta aunque su espíritu medieval se mezcle con el ambiente cosmopolita. Es un escenario perfecto para un _remake_ de tu gran boda griega. Si quieres saber qué ver y hacer en Rodas, te lo contamos a continuación.

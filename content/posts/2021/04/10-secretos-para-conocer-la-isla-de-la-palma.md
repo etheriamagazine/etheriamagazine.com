@@ -9,6 +9,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Si aún no has visitado la Isla Bonita, sigue leyendo para conocer los 10 lugares 

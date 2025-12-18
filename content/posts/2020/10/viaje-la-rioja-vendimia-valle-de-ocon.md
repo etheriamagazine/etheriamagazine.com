@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 El dulzor de las uvas maduradas en armonía con la naturaleza en el valle de Ocón despierta nuestros sentidos y nos abre una puerta a este desconocido territorio que nos hace sentir en La Toscana italiana sin salir de La Rioja. Es tiempo de viajar por esta región con nombre de vino.

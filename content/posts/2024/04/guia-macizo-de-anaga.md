@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 El macizo de Anaga, con sus impresionantes barrancos y bosques de laurisilva, os espera 

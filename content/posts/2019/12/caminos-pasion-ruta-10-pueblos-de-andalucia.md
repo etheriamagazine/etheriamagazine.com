@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Diez pueblos enlazan la ruta de Caminos de Pasión que, entre Sevilla, Córdoba y Jaén, 

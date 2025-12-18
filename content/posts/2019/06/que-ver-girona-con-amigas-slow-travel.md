@@ -9,6 +9,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Si estás dispuesta a dejarte llevar por ese ritmo de "slow travel" tan de moda a la hora 

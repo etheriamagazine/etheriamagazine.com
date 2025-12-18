@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Cuenca enamora, más allá de un eslogan turístico es una emoción que despierta en pleno 

@@ -9,6 +9,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Hay ocasiones en que necesitamos pararnos y observar con otra perspectiva. Por eso te invitamos a que viajes a través de la fotografía a lugares que pueden resultarte familiares pero que vas a contemplar de una manera única. Una mirada sugerente a espacios del territorio nacional que te están esperando.

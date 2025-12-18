@@ -7,6 +7,7 @@ categories:
   - ocio
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Durante 9 días no encontrarás a un bilbaíno en su casa, andan en la calle con una única 

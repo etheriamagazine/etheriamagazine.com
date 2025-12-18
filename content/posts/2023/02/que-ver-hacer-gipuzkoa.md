@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 La costa guipuzcoana nos ha atrapado con sus pueblos, gastronomía y retazos de historia 

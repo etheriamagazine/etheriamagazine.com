@@ -9,6 +9,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 El volcán del Teide despierta cada año con la llegada de la primavera. Sobre sus oscuros 

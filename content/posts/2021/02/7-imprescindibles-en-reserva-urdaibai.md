@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 La Reserva de la Biosfera de Urdaibai merece la pena, ¡y mucho! El primer espacio protegido de Euskadi convertido en destino turístico sostenible es perfecto para divertirse al aire libre entre verdes montañas. Conocerás una cultura amarrada a lo vasco tanto como al mar, con vistas al paisaje de marismas y campiñas que disfrutó Hemingway. ¡Coge tu mochila porque empezamos este viaje!

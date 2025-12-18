@@ -8,6 +8,7 @@ tags:
   - europa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 ¡Viajeras a bordo! Nos hacemos a la mar para alcanzar los 60 grados norte donde se 

@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Sabor a mar, la localidad de Santoña contagia su arraigo marinero nada más poner el pie 

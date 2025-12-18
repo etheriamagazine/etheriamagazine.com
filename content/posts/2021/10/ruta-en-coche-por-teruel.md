@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Emprender una ruta en coche por Teruel permite recorrer esta provincia despacito, 

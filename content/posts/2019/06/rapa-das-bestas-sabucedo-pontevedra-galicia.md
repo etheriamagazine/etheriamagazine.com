@@ -8,6 +8,7 @@ categories:
   - excursiones
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Con las crines al viento bajan a galope los caballos hasta la pontevedresa localidad de 

@@ -9,6 +9,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 Avistar cetáceos en la costa vasca con tus "propios ojos" es una poderosa experiencia en 

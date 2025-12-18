@@ -8,6 +8,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 La costa guipuzcoana, desde la desembocadura del Bidasoa en Hondarribia hasta el abrigado puerto de Pasaia, surge recortada por la silueta prominente del monte Jaizkibel. Entre las mayores cumbres litorales cantábricas, asoma abiertamente al oleaje como señal costera inconfundible de que llegamos a buen puerto. Explora esta costa con nosotras y la añadirás a tus lugares favoritos.

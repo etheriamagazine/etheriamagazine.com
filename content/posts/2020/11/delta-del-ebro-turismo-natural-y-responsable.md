@@ -9,6 +9,7 @@ tags:
   - españa
 authors: 
   - Juan Carlos y Mar
+  - Mar Ramírez
 ---
 
 La desembocadura del Ebro nos zambulle en un paisaje deltaico de arena y agua donde se cosecha arroz entre pueblos crecidos de su cultivo y del comercio fluvial. Nos embarcamos para ver al río desaparecer en el mar, mientras nos rodean cientos de aves en el humedal más extenso de Cataluña. Viajamos a Tierras del Ebro/Terres de l'Ebre para vivir experiencias emocionantes.
