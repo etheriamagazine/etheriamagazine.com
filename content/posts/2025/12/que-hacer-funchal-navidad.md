@@ -9,9 +9,9 @@ authors:
 ---
 Funchal sorprende cada Navidad con un ambiente cálido y auténtico donde no faltan una preciosa iluminación, mercados que abren de noche y aromas que salen de cada rincón de la ciudad. Una escapada a Madeira os invita a gozar lejos de masificaciones de una atmósfera navideña tranquila, sabrosa y llena de sorpresas. 
 
-Cuando llega el periodo de Adviento, la magia se apodera de **Funchal** y, aunque no son muchos los viajeros que dan el salto a la isla en estas fechas, el ambiente en sus calles y mercadillos no tiene nada que envidiar al de cualquier ciudad centroeuropea. La capital de Madeira despliega en diciembre sus mejores galas para recibir la Navidad, quizás no lo hace para impresionar al visitante sino para hacer disfrutar a los propios vecinos. Aquí los indicios de que se vive un período festivo alcanzan a todos los rincones, por lo que siempre se localiza alguna señal en calles, plazas, jardines e incluso en mercados centenarios.
-
 ![Las mesas de Funchal se visten de fiesta. ©Francisco Correia](https://fotos.etheriamagazine.com/2025/12/madeira-navidad-adornos.jpg)
+
+Cuando llega el periodo de Adviento, la magia se apodera de **Funchal** y, aunque no son muchos los viajeros que dan el salto a la isla en estas fechas, el ambiente en sus calles y mercadillos no tiene nada que envidiar al de cualquier ciudad centroeuropea. La capital de Madeira despliega en diciembre sus mejores galas para recibir la Navidad, quizás no lo hace para impresionar al visitante sino para hacer disfrutar a los propios vecinos. Aquí los indicios de que se vive un período festivo alcanzan a todos los rincones, por lo que siempre se localiza alguna señal en calles, plazas, jardines e incluso en mercados centenarios.
 
 ## Iluminación navideña de Funchal
 
@@ -60,5 +60,7 @@ Aquellos que busquen un plus de emoción a la hora de bajar al centro histórico
 **También te puede interesar...**
 
 {{< reflink rutas-levadas-en-madeira >}}.
+
 {{< reflink que-comer-en-madeira >}}.
+
 {{< reflink que-ver-funchal >}}.
