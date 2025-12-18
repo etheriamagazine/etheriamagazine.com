@@ -2,8 +2,8 @@
 title: "Pepa G. Marín"
 slug: pepa-g-marin
 displayName: "Pepa García Marín"
-tagline: "Periodista de viajes, exdirectora editorial de la Revista ViajeroS. Ph.D. en Periodismo Turístico."
-biography: "Periodista de viajes 'de toda la vida', exdirectora editorial de revista Viajeros (1997-2017). Colabora con diversos medios turísticos y desarrolla proyectos editoriales para hoteles, oficinas de turismo, etc. Dedica sus ratos libres a la investigación académica y a disfrutar de la vida. Le puedes escribir a info(@)etheriamagazine.com"
+tagline: "Periodista de viajes vocacional, Ph.D. en Periodismo Turístico, es amante de las letras, la fotografía y la investigación académica. Tras la dirección editorial de la Revista Viajeros durante varias décadas, desarrolla su carrera profesional en medios turísticos digitales y colabora en los planes de comunicación de oficinas de turismo del sector."
+biography: "Periodista de viajes vocacional, Ph.D. en Periodismo Turístico, es amante de las letras, la fotografía y la investigación académica. Tras la dirección editorial de la Revista Viajeros durante varias décadas, desarrolla su carrera profesional en medios turísticos digitales y colabora en los planes de comunicación de oficinas de turismo del sector."
 instagram: pepagmarin
 linkedin: pepagarcia
 jobTitle: Directora Editorial
