@@ -17,7 +17,7 @@ params:
 ---
 
 
-## Sobre Nosotras
+## Sobre nosotras
 
 Etheria Magazine, es la primera revista de viajes dirigida a mujeres en España.
 <!--more-->
