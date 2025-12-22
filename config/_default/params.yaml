@@ -22,16 +22,10 @@ imgproxy:
 
 plausible:
   enable: true
-  domain: etheriamagazine-com.fly.dev
+  siteScriptId: pa-rb9gCiTFeYzgDiZAjCKUX # etheriamagazine.com
+  captureOnLocalhost: true
   proxy: true
   proxyPath: /proxyjs
-  optional:
-    local: true
-    fileDownloads: true
-    outboundLinks: true
-    error404: true
-    customEvents: true
-    customProps: true
 
 seo:
   author: Etheria Magazine
