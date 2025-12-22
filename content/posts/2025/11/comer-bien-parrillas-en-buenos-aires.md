@@ -106,15 +106,15 @@ sus artes culinarias, ya haga croquetas de jamón, arroz negro con mariscos o ta
 coctelería de autor de Inés de los Santos, tanto los domingos para comer al sol como las 
 noches de fiesta con vistas al Río de la Plata. 
 
-![Propuestas originales en Ness7070.](https://fotos.etheriamagazine.com/2025/11/Buenos-Aires-Costa7070.jpg "Propuestas originales en © Ness7070.")
+![Propuestas originales en Costa7070.](https://fotos.etheriamagazine.com/2025/11/Buenos-Aires-Costa7070.jpg "Propuestas originales en © Ness7070.")
 
 La cocina italiana se expresa con elegancia en **Sottovoce**, donde muebles en cuero y 
 barandillas de madera enmarcan una propuesta clásica (pastas, _risottos_, carnes y 
 helados) ejecutada con precisión y recomendación Michelin que valida su consistencia. Lo 
 mismo ocurre con **Raggio**, una _trattoria_ moderna y acogedora con azulejos, maderas 
 oscuras y jardín interior donde las pastas caseras, salsas como la carbonara, el pesto y 
-la puttanesca, los embutidos y postres caseros te transportan a Italia con honestidad 
-absoluta de la mano del gran Sebastián Raggiante, que también es el chef ejecutivo de la 
+la _puttanesca_, los embutidos y postres caseros te transportan a Italia con honestidad 
+absoluta, asesorados por el gran Sebastián Raggiante, que también es el chef ejecutivo de la 
 casona de pastas frescas con impronta argentina **Casa Veltri**. 
 
 ### Tres restaurantes de cocina de autor
@@ -274,8 +274,7 @@ artesanales (_spianatta_, cecina de Angus, _pâté en croûte_, _finochiona_, ja
 glaseado de Duroc, _speck_, _bresaola_ de wagyu) que recogen tradiciones del mundo 
 entero. 
 
-Por su parte, Leonardo "El Tucu" Govetto Sosa (ex Don Julio) creó **Abreboca** en 
-Chacarita, neo-pulpería moderna que recupera conceptos tradicionales: patio andaluz de 
+Por su parte, **Abreboca** en Chacarita, con la chef Agustina Leiva al frente, es una neo-pulpería moderna que recupera conceptos tradicionales: patio andaluz de 
 más de 100 años, cava de embutidos artesanales visible, escabeches, encurtidos y un 
 salmorejo con ajoblanco que quita el sentido. 
 
