@@ -4,16 +4,21 @@ gitinfo:
 
 imgproxy:
   enabled: true
-  host: https://imgp2.etheriamagazine.com/
-  sourceStyle: plain
+  host: https://imgp.etheriamagazine.com/
+  sourceStyle: encoded
+  format: avif
+  process: rs:fit:768
   responsive:
-    defaultSize: 900
-    responsiveSizes:
-      - 600
-      - 900
-      - 1200
-    processingOptions: rs:fit:%s
-    format: avif
+    enabled: true
+    srcset:
+      - size: 640w
+        process: rs:fit:640
+      - size: 768w
+        process: rs:fit:768
+      - size: 1024w
+        process: rs:fit:1024
+      - size: 1280w
+        process: rs:fit:1280
 
 plausible:
   enable: true
