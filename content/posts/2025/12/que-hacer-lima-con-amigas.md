@@ -27,7 +27,7 @@ Con más de 10 millones de habitantes y 2.700 kilómetros cuadrados de extensió
 
 El centro histórico es Obligatorio (así con mayúscula); refleja como pocos en Latinoamérica la potente historia virreinal con sus hitos y leyendas, como las desobedientes mujeres **“[Tapadas limeñas](https://sociedadantropologia.es/2025/09/las-tapadas-limenas-misterio-y-libertad-en-el-virreinato/)”**, pero conviene reservar un día para ir y venir sin prisa. 
 
-![Tapadas limeña. © Cris Aizpeolea](https://fotos.etheriamagazine.com/2025/12/lima-mujeres-tapadas.jpeg)
+![Tapadas limeñas. © Cris Aizpeolea](https://fotos.etheriamagazine.com/2025/12/lima-mujeres-tapadas.jpeg)
 
 Para una estancia corta pero intensa, el distrito turístico más recomendable es **Miraflores**. Con la avenida Larco como eje de referencia, ofrece una amplia gama de hoteles (desde 25 euros), restaurantes, parques, museos, ferias y el acceso directo a la Costanera. En el malecón, frente a los rascacielos se destaca **Larcomar**, el complejo comercial a cielo abierto más famoso de Lima. Caminando o en bicicleta, desde allí se puede llegar hasta **El Beso**, la escultura gigante de los amantes, del artista Víctor Delfín. Verde a más no poder, mantenido, cuidado y regado a mano, todo el paseo costero refleja el ingente trabajo humano por consolidar estas barrancas de tierras inestables que la protegen del mar.
 
