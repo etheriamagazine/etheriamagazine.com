@@ -29,7 +29,7 @@ plausible:
 
 seo:
   author: Etheria Magazine
-  titleFormat: "%s — %s"
+  titleFormat: "%s — Etheria Magazine"
   description: La revista de las mujeres viajeras
   image: logo-que-seguro-que-no-existe.svg
   social:
