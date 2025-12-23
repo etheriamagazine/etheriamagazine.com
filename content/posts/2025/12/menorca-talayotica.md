@@ -26,9 +26,9 @@ La cultura talayótica se desarrolló en Menorca desde la irrupción de las cons
 
 Como ya hemos señalado, hay hasta 1.500 yacimientos, algunos de ellos incluso en fincas privadas. Pero para llevarse una idea de lo que supuso esta cultura en la isla y cómo modificó su paisaje basta con ver algunos de ellos. Están agrupados en nueve áreas geográficas y son visitas rápidas, por lo que se pueden integrar varios de ellos en excursiones más amplias por la isla. En este artículo aparecen **divididas en tres áreas geográficas**, cerca de las ciudades principales de Menorca, para que sea más fácil planificar una visita. 
 
-**Cerca de Ciutadella**
+### Cerca de Ciutadella
 
-### Naveta des Tudons
+#### Naveta des Tudons
 
 Esta enorme naveta, que se encuentra en excelente estado de conservación, es probablemente el monumento talayótico más icónico de la isla. Es un monumento funerario construido con la técnica ciclópea, que consigue encajar en seco, sin ayuda de mortero, las grandes piedras que la forman. Los enterramientos eran colectivos y se han encontrado hasta cien individuos de ambos sexos y todas las edades con parte de los ajuares. 
 
@@ -36,7 +36,7 @@ Esta enorme naveta, que se encuentra en excelente estado de conservación, es pr
 
 **Cómo llegar**: está muy cerca de Ciutadella y se accede fácilmente desde la carretera principal Me-1. Los lunes el acceso es libre y de martes a domingo de 9 a 15.15 h. Entrada general 2 euros. Tiene aparcamiento. 
 
-### Torrellafuda
+#### Torrellafuda
 
 En medio de un bosque de encinas y acebuches se encuentra este poblado talayótico que, aunque no es de los más grandes, su entorno natural crea unas imágenes únicas. Cuenta con un gran talayot central, un recinto de taula, varias casas adosadas y una pequeña necrópolis formada por cuatro hipogeos excavados en el subsuelo, además de restos de la enorme muralla que rodeaba esta aldea. 
 
@@ -44,7 +44,7 @@ En medio de un bosque de encinas y acebuches se encuentra este poblado talayóti
 
 **Cómo llegar**: a través de un desvío de la carretera principal de Mahón a Ciutadella (Me-1) a unos cinco kilómetros de Ciutadella. El acceso se realiza por un camino rural. Entrada gratuita. Tiene aparcamiento.
 
-### Poblado de Son Catlar
+#### Poblado de Son Catlar
 
 En este poblado, que es uno de los más grandes de las islas Baleares, llama la atención su muralla, que se conserva intacta. Se realizó entre los siglos V y IV a.C., tiene casi novecientos metros y en algunos tramos supera los tres metros de altura. Dentro de ella se han identificado tres talayots, un recinto de taula y una sala hipóstila.
 
@@ -52,7 +52,7 @@ En este poblado, que es uno de los más grandes de las islas Baleares, llama la 
 
 **Cómo llegar**: desde Ciutadella por el Camí de Son Saura. Cuenta con aparcamiento y la entrada es libre y gratuita. 
 
-### Cala Morell
+#### Cala Morell
 
 En Cala Morell, en un entorno increíble, se encuentra la necrópolis talayótica más importante de la isla, un conjunto de cuevas funerarias excavadas en los acantilados de la costa norte que fue utilizado hasta la época romana. Estas cuevas se utilizaron para enterramientos colectivos, reutilizándose durante generaciones, lo que convierte el lugar en un archivo arqueológico de enorme valor para comprender la sociedad talayótica y sus creencias sobre la muerte y el más allá.
 
@@ -60,9 +60,9 @@ En Cala Morell, en un entorno increíble, se encuentra la necrópolis talayótic
 
 **Cómo llegar**: desde Ciutadella se llega por el camí de Cala Morell, del que sale el carrer Lira. Cuenta con paneles informativos y un sendero adaptado. Acceso libre y entrada gratuita. 
 
-**Cerca de Alaior**
+### Cerca de Alaior
 
-### Torralba d’en Salort
+#### Torralba d’en Salort
 
 Torralba d’en Salort es uno de los poblados talayóticos más grandes y espectaculares de Menorca. Es famoso por su imponente recinto de taula, uno de los mejor conservados y monumentales de la isla, además de por sus dos grandes talayots circulares y una sala hipóstila semienterrada. Estuvo ocupado desde la Edad del Bronce hasta la época púnica y romana. 
 
@@ -70,7 +70,7 @@ Torralba d’en Salort es uno de los poblados talayóticos más grandes y espect
 
 **Cómo llegar**: de la carretera principal Me-1 sale, a la altura de Alaior, un desvío hacia la carretera de Alaior a Cala en Porter que lleva hasta [Torralba d'en Sarlort](https://www.torralbadensalort.com/es/inicio). Cuenta con aparcamiento y audioguías. Conviene consultar en su web los horarios y los precios de las entradas.
 
-### Poblado de Torre d’en Galmés
+#### Poblado de Torre d’en Galmés
 
 Torre d’en Galmés es el mayor poblado talayótico de Baleares. El yacimiento conserva tres grandes talayots, un espectacular recinto de taula, varias salas hipóstilas, más de una veintena de viviendas talayóticas y un sofisticado sistema de recogida de aguas pluviales con cisternas y canalizaciones excavadas en la roca. Cuenta con centro de interpretación, lo que facilita el conocimiento del entorno y su importancia. 
 
@@ -78,9 +78,9 @@ Torre d’en Galmés es el mayor poblado talayótico de Baleares. El yacimiento 
 
 **Cómo llegar**: se accede por la carretera que une Alaior con la playa de Son Bou, por un desvío señalizado hacia Torre d’en Galmés que conduce por un corto tramo de carretera rural hasta el aparcamiento del yacimiento. Los lunes la entrada es libre y de martes a domingo el horario es de 9 a 14.30 h. Entrada general 3 euros. 
 
-**Cerca de Maó**
+### Cerca de Maó
 
-### Trepucó
+#### Trepucó
 
 Aunque no conserva muchas estructuras, este yacimiento sí que guarda una de las taulas más grandes de la isla, situada junto a un gran talayot. Estos dos monumentos están rodeados por una muralla posterior, del siglo XVIII, por lo que es un buen sitio para tener una visión global de la historia de Menorca. Fuera del recinto se pueden conocer algunas características del estilo Talayótico Final en otro talayot con construcciones adosadas. 
 
@@ -88,7 +88,7 @@ Aunque no conserva muchas estructuras, este yacimiento sí que guarda una de las
 
 **Cómo llegar**: está al lado de la ciudad de Maó y se llega por el camí Trepucó, que sale del Carr. Francesc Femenías y está bien señalizado. Entrada libre y gratuita.  
 
-### Talatí de Dalt
+#### Talatí de Dalt
 
 Es uno de los yacimientos más bellos y completos de la isla. Alberga un talayot central, que es la parte más elevada del poblado, un santuario, una curiosa taula con una columna caída apoyada sobre ella y varias casas talayóticas, perfectas para acercarse al modo de vida cotidiano de esta cultura prehistórica. 
 
@@ -96,7 +96,7 @@ Es uno de los yacimientos más bellos y completos de la isla. Alberga un talayot
 
 **Cómo llegar**: se encuentra en el kilómetro 4 de la carretera entre Maó y Ciutadella. De noviembre a marzo la entrada es libre y, el resto del año, la entrada general cuesta 4 euros. Consulta los horarios antes de realizar la excursión.  
 
-### Cornia Nou
+#### Cornia Nou
 
 Con sus diez metros de alto es uno de los talayots más grandes de Menorca y ha aportado interesantes datos sobre la producción y distribución de alimentos en esta época. Está cerca de Mahón y se encuentra en excavación continua desde 2007, por lo que es un buen lugar para conocer de primera mano las últimas investigaciones arqueológicas de la isla. 
 
