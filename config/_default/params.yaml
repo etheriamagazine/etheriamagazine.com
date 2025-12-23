@@ -7,14 +7,14 @@ imgproxy:
   host: https://imgp.etheriamagazine.com/
   sourceStyle: encoded
   format: avif
-  process: rs:fit:768
+  process: rs:fit:768/fq:avif:52
   responsive:
     enabled: true
     srcset:
       - size: 640w
-        process: rs:fit:640
+        process: rs:fit:640/fq:avif:52
       - size: 768w
-        process: rs:fit:768
+        process: rs:fit:768/fq:avif:52
       - size: 1024w
         process: rs:fit:1024
       - size: 1280w
