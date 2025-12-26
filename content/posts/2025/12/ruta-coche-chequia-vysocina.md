@@ -1,6 +1,6 @@
 ---
 title: "Un viaje en coche a lo Thelma & Louise por Chequia, una inusual escapada a tres lugares Unesco"
-date: 2025-12-29
+date: 2025-12-26
 cover: https://fotos.etheriamagazine.com/2025/12/Ruta-chequia-coche-telc.jpg
 categories: 
   - viajar-con-amigas
