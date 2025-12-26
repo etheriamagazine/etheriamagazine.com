@@ -1,4 +1,4 @@
-export const CACHEABLE_MIME_TYPES = [
+export const STATIC_ASSETS_MIME_TYPES = [
   'image/jpeg',
   'image/png',
   'image/gif',
