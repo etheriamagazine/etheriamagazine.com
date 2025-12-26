@@ -6,7 +6,7 @@ categories:
   - estilo-de-vida
   - gourmet
 authors: 
-  - Etheria Magazine
+  - Redacción Etheria
 ---
 
 Los encuentros y barbacoas con amigos suelen venir acompañados de delicias gastronómicas 

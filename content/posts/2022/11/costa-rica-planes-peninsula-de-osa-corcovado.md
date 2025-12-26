@@ -7,7 +7,7 @@ categories:
 tags: 
   - mundo
 authors: 
-  - Etheria Magazine
+  - Redacción Etheria
 ---
 
 Eida Fletes es una mujer de corazón y una gran embajadora de la Península de Osa. Esta 

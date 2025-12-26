@@ -5,7 +5,7 @@ cover: https://fotos.etheriamagazine.com/2019/04/sorte-etheria-rusticae.jpg
 categories: 
   - hemeroteca
 authors: 
-  - Etheria Magazine
+  - Redacción Etheria
 ---
 
 El afortunado ganador del Sorteo Etheria-Rusticae ha sido Carlos Virué. Esperamos que 

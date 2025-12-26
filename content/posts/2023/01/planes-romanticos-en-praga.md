@@ -7,7 +7,7 @@ categories:
 tags: 
   - europa
 authors: 
-  - Etheria Magazine
+  - Redacción Etheria
 ---
 
 Entre las capitales europeas que más se prestan a una escapada en pareja se encuentra la 
