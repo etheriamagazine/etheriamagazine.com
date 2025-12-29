@@ -15,8 +15,6 @@ cosmopolita, abierta al público los 365 días del año. Hemos recorrido las cal
 y locales más curiosos de Río de Janeiro para contaros las claves imprescindibles para 
 disfrutarla en todo su esplendor. 
 
-**Texto y fotos: Cris Aizpeolea** 
-
 ![Grupo de amigas en Río de Janeiro](https://fotos.etheriamagazine.com/2024/06/viaje-amigas-rio-janeiro.jpg "Viajar con amigas, la mejor terapia en todas las circunstancias. © Cris A.")
 
 En un grupo de 10 amigas se puede pintar el mundo entero. Está la que adora la playa y 
