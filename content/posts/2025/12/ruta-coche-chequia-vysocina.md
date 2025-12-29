@@ -1,6 +1,6 @@
 ---
 title: "Un viaje en coche a lo Thelma & Louise por Chequia, una inusual escapada a tres lugares Unesco"
-date: 2025-12-29
+date: 2025-12-26
 cover: https://fotos.etheriamagazine.com/2025/12/Ruta-chequia-coche-telc.jpg
 categories: 
   - viajar-con-amigas
@@ -13,7 +13,7 @@ Hay viajes por carretera que despiertan ese deseo de libertad que convirtió a '
 
 ![Basílica de Třebíč. © Jaroslav Mareš](https://fotos.etheriamagazine.com/2025/12/ruta-chequia-coche-trebic.jpg)
 
-Esta ruta por carretera en Chequia es una invitación a dejar que el paisaje marque el ritmo, a conversar sin prisas y a permitir que el camino os lleve un poco más lejos de lo previsto, como si el país entero conspirara para recordaros que la mejor historia siempre está por llegar. Como además de inspiraros también os queremos ofrecer datos prácticos para preparar la escapada, os contaremos este viaje como un road trip que comienza en Praga y que os llevará por una ruta circular de unos 400 kilómetros. En un itinerario de unos cuatro días hay tiempo para conocer ciudades y entornos naturales, pero también espacio para la desconexión y la filosofía ayurvédica. Sólo con estos datos, seguro que ya tenéis algunas amigas en mente que serían ideales para emprender esta escapada.
+Esta ruta por carretera en Chequia es una invitación a dejar que el paisaje marque el ritmo, a conversar sin prisas y a permitir que el camino os lleve un poco más lejos de lo previsto, como si el país entero conspirara para recordaros que la mejor historia siempre está por llegar. Como además de inspiraros también os queremos ofrecer datos prácticos para preparar la escapada, os contaremos este viaje como un *road trip* que comienza en Praga y que os llevará por una ruta circular de unos 400 kilómetros. En un itinerario de unos cuatro días hay tiempo para conocer ciudades y entornos naturales, pero también espacio para la desconexión y la filosofía ayurvédica. Sólo con estos datos, seguro que ya tenéis algunas amigas en mente que serían ideales para emprender esta escapada.
 
 ![Vista aérea de Praga. © Michal Vrba](https://fotos.etheriamagazine.com/2025/12/ruta-chequia-coche-praga.jpg)
 
@@ -35,9 +35,9 @@ Además de recorrer esta población rodeada de lagos artificiales, es recomendab
 
 ## Una pausa entre bosques 
 
-La primera noche de este road trip la pasaremos en el **Resort Svatá Kateřina** que es un lugar perfecto para desconectar entre bosques. Este complejo combina todo lo necesario para una escapada de chicas: cómodas habitaciones, buena gastronomía y oferta de bienestar en un **Pabellón Ayurvédico**, una joya arquitectónica suspendida sobre pilares de granito. Piscina, sauna, terapias personalizadas y un equipo especializado crean una atmósfera ideal para recuperar esa vitalidad que perdemos en el día a día. 
+La primera noche de este *road trip* la pasaremos en el **Resort Svatá Kateřina** que es un lugar perfecto para desconectar entre bosques. Este complejo combina todo lo necesario para una escapada de chicas: cómodas habitaciones, buena gastronomía y oferta de bienestar en un **Pabellón Ayurvédico**, una joya arquitectónica suspendida sobre pilares de granito. Piscina, sauna, terapias personalizadas y un equipo especializado crean una atmósfera ideal para recuperar esa vitalidad que perdemos en el día a día. 
 
-Lo idóneo es quedarse aquí al menos dos noches, y así podréis dedicar una jornada completa a disfrutar de todo lo que ofrece el complejo. Comenzad el día siguiente practicando yoga, tomad un desayuno saludable, quizás luego un paseo a caballo o en bicicleta hasta el pueblo más próximo, algún masaje, almuerzo ayurvédico para desintoxicarse, tarde de spa... Y si hace buen tiempo, incluso un baño en su laguna de aguas curativas. Tras esta experiencia, la ruta en coche puede continuar.
+Lo idóneo es quedarse aquí al menos dos noches, y así poder dedicar una jornada completa a disfrutar de todo lo que ofrece el complejo. Comenzad el día siguiente practicando yoga, tomad un desayuno saludable, quizás luego un paseo a caballo o en bicicleta hasta el pueblo más próximo, algún masaje, almuerzo ayurvédico para desintoxicarse, tarde de spa... Y si hace buen tiempo, incluso un baño en su laguna de aguas curativas. Tras esta experiencia, la ruta en coche puede continuar.
 
 Sigue leyendo este artículo de Etheria Magazine: {{< reflink resort-svata-katerina-chequia >}}.
 
@@ -64,12 +64,12 @@ Sigue leyendo curiosidades sobre esta iglesia en este artículo: {{< reflink igl
 
 A unos 15 kilómetros de Žďár nad Sázavou se encuentra el **Hotel Medlov**, emplazado junto al lago homónimo y rodeado de bosques. Lo más original es su decoración retro, basada en la época socialista, con piezas que su propietario ha ido consiguiendo en subastas y anticuarios. Realmente es como retroceder cincuenta años atrás y revivir el pasado a través de su mobiliario y detalles ornamentales. En la puerta del hotel encontraréis aparcados dos coches antiguos, que ya os harán entrar en situación, y en el propio lobby veréis una antigua cabina de teléfonos y numerosas fotografías que narran la historia del establecimiento. 
 
-Es un tres estrellas con un precio módico, por lo que no podéis esperar grandes lujos pero cuenta con restaurante, spa (con masajes y aromaterapia) y habitaciones sencillas pero correctas; además, su precioso entorno y la vivencia en sí misma compensan con creces. El hotel tiene bastante éxito pero a nivel nacional, por lo que resulta mucho más auténtico para los viajeros que las cadenas internacionales.
+Es un tres estrellas con un precio módico, por lo que no podéis esperar grandes lujos pero cuenta con restaurante, spa (con masajes y aromaterapia) y habitaciones sencillas pero correctas; además, su precioso entorno y la vivencia en sí misma compensan con creces. El hotel tiene bastante éxito a nivel nacional, por lo que resulta mucho más auténtico para los viajeros que las cadenas internacionales.
 
-Imprescindible bajar al embarcadero del hotel y pasear por el lago en “pedalina” o en barca al atardecer, para ver cómo se apaga el día y el color del agua cambia al mismo tiempo que el cielo se tiñe de tonos rosados. Si vais un grupo de amigas, os pueden preparar una actividad de competición de embarcaciones entre varios puntos del lago, o una cata de ginebras, ya que los dueños disponen de producto propio.
+Es imprescindible bajar al embarcadero del hotel y pasear por el lago en “pedalina” o en barca al atardecer, para ver cómo se apaga el día y el color del agua cambia al mismo tiempo que el cielo se tiñe de tonos rosados. Si vais un grupo de amigas, os pueden preparar una actividad de competición de embarcaciones entre varios puntos del lago, o una cata de ginebras, ya que los dueños disponen de producto propio.
 
 ## Regreso a Praga
 
-En Medlov podéis pasar dos días tranquilamente, pero si tenéis que volver a Praga es recomendable hacer alguna parada en ruta en ciudades como **Pardubice**, a 67 kilómetros, o en **Kutná Hora**, antes de llegar a la capital. Sin duda, este ha sido un viaje diferente y fuera de los circuitos habituales, como le habría gustado a Thelma & Louise.
+En Medlov podéis pasar dos días tranquilamente, pero si tenéis que volver a Praga es recomendable hacer alguna parada en ruta en ciudades como **Pardubice**, a 67 kilómetros, o en **Kutná Hora**, antes de llegar a la capital. Sin duda, este ha sido un viaje diferente y fuera de los circuitos habituales, como les habría gustado a Thelma y Louise.
 
 Si os apetece conocer otras propuestas que se pueden hacer por carretera, no dudéis en entrar en la web de [Rutas en Coche por Chequia](https://www.visitczechia.com/es-es/itineraries/chequia-en-coche), de Visit Czechia, porque encontraréis otros itinerarios repartidos por todo el territorio. 

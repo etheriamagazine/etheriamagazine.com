@@ -5,7 +5,7 @@ cover: https://fotos.etheriamagazine.com/2022/09/playa-cocles-gandoca.jpg
 categories: 
   - hemeroteca
 authors: 
-  - Etheria Magazine
+  - Redacción Etheria
 ---
 
 ### Bases legales Sorteo de un viaje a Costa Rica

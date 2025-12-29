@@ -4,7 +4,7 @@ date: 2019-10-17
 categories: 
   - hemeroteca
 authors: 
-  - Etheria Magazine
+  - Redacción Etheria
 ---
 
 ![](https://fotos.etheriamagazine.com/2019/10/Sorteo-etheria-rusticae-Riad-Belle-Epoque-patio.jpg)

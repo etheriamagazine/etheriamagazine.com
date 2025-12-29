@@ -9,13 +9,13 @@ tags:
 authors: 
   - Cris Aizpeolea
 ---
-El esplendor de Perú se resume en Lima, una ciudad plena de contrastes, donde lo ancestral y lo moderno conviven en armonía para ofrecer un menú de experiencias memorables. Escala obligada para miles de destinos, aprovechad el “stop" y dedicadle unos días para disfrutarla en gran compañía, con tus mejores amigas.
+El esplendor de Perú se resume en Lima, una ciudad plena de contrastes, donde lo ancestral y lo moderno conviven en armonía para ofrecer un menú de experiencias memorables. Escala obligada para miles de destinos, aprovechad el “stop" y dedicadle unos días para disfrutarla en la mejor compañía, la de tus mejores amigas.
 
 ![Casa Osambela, en Lima. © Cris Aizpeolea](https://fotos.etheriamagazine.com/2025/12/lima-calle-colonial-casa-osambela.jpg)
 
-Asomada sobre el Pacífico bajo un cielo casi siempre nublado que tiende a despejarse al mediodía, la ciudad de Lima es la única capital latinoamericana que mira al mar. Fundada en 1535 por el español Francisco Pizarro, este enclave tan estratégico le trajo interesantes beneficios pero también sus problemas, tanto por los piratas que pretendieron asaltar el puerto, como por los desastres naturales que jalonan su historia de terremotos, inundaciones y tsunamis. 
+Asomada sobre el Pacífico bajo un cielo casi siempre nublado que tiende a despejarse al mediodía, la ciudad de Lima es la única capital latinoamericana que mira al mar. Fundada en 1535 por el español Francisco Pizarro, este enclave tan estratégico le trajo interesantes beneficios pero también problemas, tanto por los piratas que pretendieron asaltar el puerto como por los desastres naturales que jalonan su historia de terremotos, inundaciones y tsunamis. 
 
-Todas esas marcas subyacen en la Lima de hoy, donde conviven lo ancestral y lo moderno, las ruinas precolombinas con el acervo colonial, los rascacielos con las ferias populares, los parques verdes que le ganaron tierra al mar, el ceviche al paso y la afamada gastronomía fusión de sabores asiáticos, europeos y preincaicos.
+Todas esas marcas subyacen en la Lima de hoy, donde conviven lo ancestral con lo moderno, las ruinas precolombinas con el acervo colonial, los rascacielos con las ferias populares, los parques verdes que le ganaron tierra al mar, el ceviche al paso con la afamada gastronomía fusión de sabores asiáticos, europeos y preincaicos.
 
 “Viajeramente” hablando (si se permite el neologismo) Lima justifica una estancia con sobrados argumentos. Desde el 1 de junio de 2025 tiene **un nuevo aeropuerto internacional, cinco pisos, diseño inspirado en el colibrí de las líneas de Nazca**, capaz de  recibir 30 millones de pasajeros al año. Que la ciudad se multiplique como destino y no sólo como puerta de ingreso al Machu Picchu o escala obligada para miles de vuelos, es parte del desafío.
 
@@ -33,7 +33,7 @@ Para una estancia corta pero intensa, el distrito turístico más recomendable e
 
 ![Mamá Cacao, una pequeña escultura del Museo Larco. © Cris Aizpeolea](https://fotos.etheriamagazine.com/2025/12/lima-museo-larco-mama-cacao.jpg)
 
-En Miraflores, caminar el **Parque Kennedy**, donde la comunidad se organiza para adoptar gatitos que viven en casitas. También conviene planificar desde allí la visita a la Huaca Pucllana (4 euros), sitio sagrado del siglo 200 a 700 d.C. que parece una ciudad construida con pequeños libros de arcilla, y el célebre **Museo Larco** (homenaje al filántropo Rafael Larco Herrera). En medio de jardines gloriosos, alberga 5.000 piezas de arte, cerámicas, joyas y objetos preincaicos. 
+En Miraflores, hay que caminar el **Parque Kennedy**, donde la comunidad se organiza para adoptar gatitos que viven en casitas. También conviene planificar desde allí la visita a la Huaca Pucllana (4 euros), sitio sagrado del siglo 200 a 700 d.C. que parece una ciudad construida con pequeños libros de arcilla, y el célebre **Museo Larco** (homenaje al filántropo Rafael Larco Herrera). En medio de jardines gloriosos, alberga 5.000 piezas de arte, cerámicas, joyas y objetos preincaicos. 
 
 Se puede almorzar en el recoleto restaurante del museo (calculad 25 euros) o caminar por **Pueblo Libre** para sentarse en un bodegón tradicional bien atendido y comer excelente por mitad de precio. Este barrio tranquilo y de casas bajas, donde vivieron patriotas como Simón Bolívar o José de San Martín, está algo retirado pero tiene buenos hostales y hoteles. Se puede usar Uber con tranquilidad. El metrobús es muy buena opción en Lima, pero no llega directo aquí, hay que combinar. 
 
@@ -55,7 +55,7 @@ El Centro Histórico (la vieja "Ciudad de los Reyes") ofició de eje político y
 
 La fachada barroca de la **iglesia y convento de Nuestra Señora de la Merced**, con la patrona del Ejército peruano en la hornacina central, es una obra maestra del estilo churrigueresco. Adentro tiene 14 retablos de enorme valor. Está ubicada en la sexta cuadra del Jirón de la Unión, la calle que conecta la plaza San Martín con la plaza de Armas que siempre tuvo diversidad de locales comerciales, y así se acuñó el verbo “jironear” para aludir a "todo eso" que hace la gente cuando va al Centro. 
 
-En la incompleta lista de tesoros limeños, figuran el **templo de San Agustín** (también de estilo barroco churrigueresco), la **Catedral** de 1641, la **iglesia San Francisco** con sus impresionantes catacumbas y los vestigios de la muralla de 1686 que rodeaba la ciudad. Un consejo: terminar la caminata en alguna cantina del **Barrio Chino** para probar (y aprobar) un plato de comida fusión Chifa. 
+En la incompleta lista de tesoros limeños figuran el **templo de San Agustín** (también de estilo barroco churrigueresco), la **Catedral** de 1641, la **iglesia San Francisco** con sus impresionantes catacumbas y los vestigios de la muralla de 1686 que rodeaba la ciudad. Un consejo: terminar la caminata en alguna cantina del **Barrio Chino** para probar (y aprobar) un plato de comida fusión Chifa. 
 
 ## Pisco Sour dedicado
 
@@ -65,7 +65,7 @@ Perú y Chile se debaten la "paternidad" del pisco (destilado de mosto fresco, 4
 
 Para degustar uno bien genuino, por recomendación lugareña llegamos a **La Tasca Bar de Miraflores**, autoproclamado "el de los mejores piscos de Lima". Es casi medianoche y a juzgar por la cantidad de gente, la fama parece que se ajusta. El salón angosto está ambientado con banderas y memorabilia de todo el mundo, con una larga fila de banquetas mirando al mostrador. 
 
-Del otro lado de la barra, con total autoridad, toma y despacha los pedidos **Julia, una joven bartender**. La vemos trabajar con energía y es ella misma quien sirve los tragos. "La receta es 3 onzas de pisco, 1 onza de limón, 1 onza de jarabe de goma (una almíbar) y la clave es la clara de huevo, que se bate en seco hasta que gana espuma", nos describe. Revela que el preparado bien aireado se cuela sobre la copa de servir, para decorar con ralladura de limón y unas gotitas de Amargo de Angostura, potente bitter que agrega con pipeta y la dedicación de una alquimista. ¡Salud, viajeras! 
+Del otro lado de la barra, con total autoridad, toma y despacha los pedidos **Julia, una joven bartender**. La vemos trabajar con energía y es ella misma quien sirve los tragos. "La receta es 3 onzas de pisco, 1 onza de limón, 1 onza de jarabe de goma (almíbar) y la clave es la clara de huevo, que se bate en seco hasta que gana espuma", nos describe. Revela que el preparado bien aireado se cuela sobre la copa de servir, para decorar con ralladura de limón y unas gotitas de Amargo de Angostura, potente bitter que agrega con pipeta y la dedicación de una alquimista. ¡Salud, viajeras! 
 
 **También te puede interesar...**
 

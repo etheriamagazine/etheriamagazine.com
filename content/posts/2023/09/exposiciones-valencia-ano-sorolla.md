@@ -7,7 +7,7 @@ categories:
   - cultura
   - ocio
 authors: 
-  - Etheria Magazine
+  - Redacción Etheria
 ---
 
 Valencia lleva todo 2023 dedicada a conmemorar el centenario de la muerte de su pintor 

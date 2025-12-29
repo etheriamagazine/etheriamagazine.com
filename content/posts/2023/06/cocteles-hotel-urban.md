@@ -8,7 +8,7 @@ categories:
 tags: 
   - españa
 authors: 
-  - Etheria Magazine
+  - Redacción Etheria
 ---
 
 El hotel Urban presenta como parte de su oferta de ocio Glass by Sips, un espacio 

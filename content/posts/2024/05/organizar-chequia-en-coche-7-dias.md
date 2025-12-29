@@ -9,7 +9,7 @@ categories:
 tags: 
   - europa
 authors: 
-  - Etheria Magazine
+  - Redacción Etheria
 ---
 
 Cada vez nos gusta más viajar por libre, se han perdido los miedos y resulta muy 
