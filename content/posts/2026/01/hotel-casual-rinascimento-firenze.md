@@ -35,9 +35,9 @@ Casual Rinascimento Firenze cuenta con **37 habitaciones y suites**, con superfi
 
 ### Tipos de habitaciones
 
-Las habitaciones dobles son estancias cómodas y luminosas, perfectas para descansar después de los ajetreados días en la ciudad. Las junior suites y suites ofrecen espacios más amplios, ideales para quienes buscan mayor privacidad o viajan en familia. Algunas de estas suites se sitúan en las plantas superiores y cuentan con terrazas privadas desde las que contemplar el *skyline florentino*, ofreciendo una perspectiva privilegiada de tejados, cúpulas y campanarios.
+Las **habitaciones dobles** son estancias cómodas y luminosas, perfectas para descansar después de los ajetreados días en la ciudad. Las **junior suites** y **suites** ofrecen espacios más amplios, ideales para quienes buscan mayor privacidad o viajan en familia. Algunas de estas suites se sitúan en las plantas superiores y cuentan con terrazas privadas desde las que contemplar el *skyline florentino*, ofreciendo una perspectiva privilegiada de tejados, cúpulas y campanarios.
 
-Además, aunque es un hotel perfecto para una escapada romántica, también es estupendo para familias. Además del tamaño de algunas de sus habitaciones que permiten triples o cuádruples, muchas cuentan con *kichennette*, que facilita saltarse alguna comida o cena en restaurantes y que son muy prácticas si se viaja con niños. Y el hotel ofrece gratis un pack bebé que incluye una silla de paseo, una mochila portabebés, una cuna y una bañera para hacer la experiencia más fácil a los que viajan con los más pequeños. 
+Además, aunque es un hotel perfecto para una escapada romántica, también es estupendo para familias. Además del tamaño de algunas de sus habitaciones que permiten **triples o cuádruples**, muchas cuentan con *kichennette*, que facilita saltarse alguna comida o cena en restaurantes y que son muy prácticas si se viaja con niños. Y el hotel ofrece gratis un **pack bebé** que incluye una silla de paseo, una mochila portabebés, una cuna y una bañera para hacer la experiencia más fácil a los que viajan con los más pequeños. 
 
 ![El hotel tiene habitaciones que son perfectas para las familias viajeras](https://fotos.etheriamagazine.com/2025/12/hotel-florencia-Casual-Rinascimento-Firenze-sofa-cama.jpg)
 
@@ -53,7 +53,7 @@ Aunque el hotel no dispone de restaurante propio para comidas y cenas, su ubicac
 
 Uno de los grandes valores añadidos de Casual Rinascimento Firenze es su zona de spa, ubicada sobre los restos de un antiguo anfiteatro romano. Este espacio combina bienestar y arqueología, ofreciendo una experiencia singular difícil de encontrar en pleno centro histórico.
 
-El spa incluye piscina y sauna, pensadas para relajarse después de una jornada de visitas culturales. El contraste entre el agua, la piedra histórica y la atmósfera tranquila crea un entorno ideal para desconectar, recuperar energías y disfrutar de un momento de calma en medio de la ciudad. 
+El spa incluye **piscina y sauna**, pensadas para relajarse después de una jornada de visitas culturales. El contraste entre el agua, la piedra histórica y la atmósfera tranquila crea un entorno ideal para desconectar, recuperar energías y disfrutar de un momento de calma en medio de la ciudad. 
 
 ![El spa del hotel Casual Rinascimiento es uno de sus lugares imperdibles.](https://fotos.etheriamagazine.com/2025/12/Hotel-Florencia-Casual-Rinascimento-spa.jpg)
 
