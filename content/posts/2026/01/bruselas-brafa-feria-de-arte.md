@@ -48,7 +48,7 @@ La otra galería es **Jordi Pascual,** ubicada en Barcelona y con más de 20 añ
 
 ## Fundación Rey Balduino
 
-El patrimonio belga también se presenta en la feria incorporando a la [Fundación Rey Balduino](kbs-frb.be) como invitada de honor, un símbolo que refuerza el vínculo entre el mercado del arte y la preservación del patrimonio cultural. La institución filantrópica presenta dos piezas depositadas en el DIVA de Amberes (divaantwerp.be), un museo especializado en artes relacionadas con la joyería, que fusionó las colecciones del antiguo Museo de Diamantes de Amberes y el Museo de Plata Sterckshof en una sola institución. 
+El patrimonio belga también se presenta en la feria incorporando a la [Fundación Rey Balduino](https://kbs-frb.be/en) como invitada de honor, un símbolo que refuerza el vínculo entre el mercado del arte y la preservación del patrimonio cultural. La institución filantrópica presenta dos piezas depositadas en el DIVA de Amberes (divaantwerp.be), un museo especializado en artes relacionadas con la joyería, que fusionó las colecciones del antiguo Museo de Diamantes de Amberes y el Museo de Plata Sterckshof en una sola institución. 
 
 Una de las obras expuestas en la feria es *Boules des deux côtés d’un carré* (1968), un brazalete en oro creado por el artista belga Pol Bury que fue adquirido por la Fundación Rey Balduino en 2025.
 
@@ -58,7 +58,7 @@ La otra obra expuesta es un búho esmaltado, realizado en Amberes entre 1548 y 1
 
 ## Vanhaerents Art Collection, una visita muy recomendable
 
-Fuera del recinto ferial y ubicada en un antiguo almacén industrial del barrio bruselense de Dansaert, se encuentra la [Vanhaerents Art Collection](vanhaerentsartcollection.com), una colección de arte contemporáneo que fue concebida como una institución en la que conviven instalaciones monumentales y creaciones de diversos formatos y temáticas que representan una mirada amplia y expansiva del arte actual. 
+Fuera del recinto ferial y ubicada en un antiguo almacén industrial del barrio bruselense de Dansaert, se encuentra la [Vanhaerents Art Collection](https://vanhaerentsartcollection.com/), una colección de arte contemporáneo que fue concebida como una institución en la que conviven instalaciones monumentales y creaciones de diversos formatos y temáticas que representan una mirada amplia y expansiva del arte actual. 
 
 ![Vista general de la Vanhaerents Collection, en Bruselas.](https://fotos.etheriamagazine.com/2026/01/Bruselas-BRAFA-Vanhaerents-Collection.jpg)
 
