@@ -1,7 +1,6 @@
 ---
 title: "Nápoles, guía gastro para una ciudad insaciable"
 date: 2026-01-12
-draft: true
 cover: https://fotos.etheriamagazine.com/2026/01/Napoles-guia-restaurantes-pizzerias.jpg
 categories: 
   - viajar-con-amigas
