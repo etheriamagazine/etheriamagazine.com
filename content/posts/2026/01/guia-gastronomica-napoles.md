@@ -11,7 +11,7 @@ authors:
   - Kelu Robles
 ---
 
-Dijo Johann Wolfgang von Goethe que hay que ‘Ver Nápoles y después morir’ (Viaje a Italia, 1817), pero nosotras matizamos al poeta: hay que comerse Nápoles y después morir… pero de amor por sus calles. En este artículo encontraréis la mejor guía gastronómica de Nápoles para un viaje con amigas en el que los sabores sean los protagonistas.
+Dijo Johann Wolfgang von Goethe que hay que ‘Ver Nápoles y después morir’ (Viaje a Italia, 1817), pero nosotras matizamos al poeta: hay que comerse Nápoles y después morir… pero de amor por sus calles. En este artículo encontraréis la mejor guía gastronómica de Nápoles para un viaje con amigas en el que los sabores son los protagonistas.
 
 ![Cócteles con pizza napolitana.  © Elisabetta Laneve](https://fotos.etheriamagazine.com/2026/01/Napoles-guia-restaurantes-pizzerias.jpg)
 
@@ -21,7 +21,7 @@ Vale que **Stendhal** fue un tipo bastante intenso –no todo el mundo tiene un 
 
 Nacer, crecer y relacionarse rodeado de antiguos palacetes y catedrales marca definitivamente una personalidad. La de vivir en un museo al aire libre. La de conocer y valorar el sentido de la estética, incluso como concepto filosófico. El apreciar los detalles y disfrutarlos como medio de vida. Por eso, entre otras cosas, es muy difícil toparse con un mal café en Italia. Es un placer al que de forma histórica no han podido renunciar jamás. Pero con algunas reglas. Del mismo modo que en Nápoles se burla la norma con facilidad –sobre todo la norma vial– se entienden ciertas tradiciones como mandamientos, como dogmas de fe. Una de ellas, la manera en la que hay que tomar el café.
 
-![Salón del Gran Caffé Gambrinus. ©Valerio Tavani](https://fotos.etheriamagazine.com/2026/01/Napoles-historico-caffe-gambrinus.jpg)
+![Salón del Gran Caffé Gambrinus. © Valerio Tavani](https://fotos.etheriamagazine.com/2026/01/Napoles-historico-caffe-gambrinus.jpg)
 
 Más vale pedir un **capuccino** para el desayuno. Y sólo durante el desayuno. Hacerlo en otro momento del día te señalará automáticamente como foráneo. La cafeína del resto de la mañana la proporcionan pequeños expresos. Dosis diminutas de un café especialmente tostado, especialmente poderoso y especialmente bueno. Lo sirven precedido de un vaso de agua –con gas o natural– para limpiar la boca de impurezas y de otros sabores. Así se dignifica el paladar. Y después, de un trago, se bebe el elixir *desperezante*. *Il cameriere* habrá calentado la taza antes de servirlo y el café, dicho en napolitano, deberá estar más caliente que un *cazzo*. Es decir, deberá estar más caliente que una *poxxx*, con perdón, pero el refrán local incluye una de las palabras malsonantes más presentes en su vocabulario coloquial. Una palabra, por cierto, que también nos recuerda a Jaén, donde el término en castellano se usa con la misma ligereza.
 
@@ -35,7 +35,7 @@ Mientras se recorre el casco viejo de la ciudad, conviene hacer una pausa cafete
 
 No hace falta entrar en una pastelería para que percibas que los napolitanos son muy golosos. En un paseo te toparás con decenas de expositores que exhiben en la calle elaboraciones dulces entre las que no, no hay napolitanas. 
 
-Los españoles bautizamos como **napolitana** a un bollo relleno de chocolate cien por cien español. Con influencias francesas del pan *au chocolat*, sí, pero con referencia a Nápoles porque, además de su experiencia en el amasado de hojaldres, cuando los Borbones españoles reinaron en la ciudad, todo lo que venía de allí se consideraba refinado en España, de buen gusto. Así que, ¿por qué no llamar napolitana a un dulce que apreciamos tanto? Para que no haya confusiones, estos sí son los pasteles que reinan en la ciudad: 
+Los españoles bautizamos como **napolitana** a un bollo relleno de chocolate cien por cien español. Con influencias francesas del pan *au chocolat*, sí, pero con referencia a Nápoles porque, además de su experiencia en el amasado de hojaldres, cuando los Borbones españoles reinaron en la ciudad todo lo que venía de allí se consideraba refinado en España, de buen gusto. Así que, ¿por qué no llamar napolitana a un dulce que apreciamos tanto? Para que no haya confusiones, estos sí son los pasteles que reinan en la ciudad: 
 
 **Sfogliatella:** concha hojaldrada y extracrujiente, rellena con una crema de ricota, azúcar, cáscara de naranja confitada y canela. Los amantes del ASMR adorarán el sonido que produce cada bocado. 
 
@@ -43,7 +43,7 @@ Los españoles bautizamos como **napolitana** a un bollo relleno de chocolate ci
 
 **Pastiera:** tarta de queso tradicional de Semana Santa, elaborada con harina de trigo y ricotta, y consumida hoy en día durante todo el año. 
 
-Como Nápoles es una ciudad de contrastes –valga el cliché de la manida expresión– para disfrutar de su cara más dulce, existen todo tipo de obradores y cafés. Desde el aire distinguido del Café Gambrinus (Via Chiaia, 1), hasta el moderneo más cool del **Desìo Gelato**, junto al mar. 
+Como Nápoles es una ciudad de contrastes –valga el cliché de la manida expresión–, para disfrutar de su cara más dulce existen todo tipo de obradores y cafés. Desde el aire distinguido del **Café Gambrinus** (Via Chiaia, 1), hasta el moderneo más cool del **Desìo Gelato**, junto al mar. 
 
 Ubicado en un antiguo palacete de estilo Liberty (la vertiente italiana del art nouveau), el **Gran Caffé Gambrinus** (grancaffegambrinus.shop) sirve cafés desde hace más de cien años, cuando los bohemios, artistas y políticos más importantes de la ciudad debatían sobre el sentido de la vida privada y pública en sus refinados salones. Hoy, el establecimiento mezcla su impronta con el hecho de ser uno de los locales más turísticos de la ciudad, pero no olvida sus elegantes hechuras gracias al delicado *modus operandi* de sus veteranos camareros. 
 
@@ -63,7 +63,7 @@ La **pizza napolitana** se diferencia por su masa especialmente blanda y elásti
 
 Buenas pistas: **Da Michele** (damichele.net) es una de las pizzerías más afamadas, y en la Via dei Tribunali encontrarás **Gino e Toto Sorbillo** (sorbillo.it), **Antica Pizzeria Di Matteo** (anticapizzeriadimatteo.it).
 
-La sencillez y calidad de los ingredientes son la base de su estrellato: una buena salsa de tomates de San Marzano o del Piennolo del Vesuvio, mozzarella fior di latte (de vaca) o de búfala, y hojas frescas de albahaca. 
+La sencillez y calidad de los ingredientes son la base de su estrellato: una buena salsa de tomates de San Marzano o del Piennolo del Vesuvio, mozzarella fior di latte (de vaca) o de búfala y hojas frescas de albahaca. 
 
 ![Pizza napolitana. © Valerio Tavani ](https://fotos.etheriamagazine.com/2026/01/Napoles-la-pizza-napolitana-autentica.jpg)
 
@@ -91,7 +91,7 @@ El aperitivo suele coincidir con la hora del atardecer, por lo que una visita a 
 
 ## 6. Hay vida más allá de la pasta y la pizza ##
 
-Consabidas las clásicas pes de la gastronomía napolitana –pasta y pizza–, conviene saber qué otros asuntos culinarios más sencillos o más refinados están presentes en sus cocinas. Porque Nápoles puede ser chandalera y ruidosa, pero también distinguida y romántica.  
+Consabidas las clásicas "pes" de la gastronomía napolitana –pasta y pizza–, conviene saber qué otros asuntos culinarios más sencillos o más refinados están presentes en sus cocinas. Porque Nápoles puede ser chandalera y ruidosa, pero también distinguida y romántica.  
 
 En su versión más desenfadada, no puede faltar una visita a una **salumeria**, un tipo de establecimiento especializado en *salumi*, es decir, en embutidos, y donde además de vender queso, conservas y/o pasta, preparan, al momento, deliciosos bocatas. El de provolone y mortadela, y el de *cicoli* (chicharrones de cerdo) y ricotta, son las opciones más recurrentes entre los locales. Cualquier embutido italiano eleva la ecuación si es acompañado por unos *taralli*, las rosquilletas crujientes y saladas más representativas del sur de Italia.   
 
