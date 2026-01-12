@@ -5,8 +5,6 @@ cover: https://fotos.etheriamagazine.com/2025/07/pompeya-foro-vesubio.jpg
 categories: 
   - organiza-tu-viaje
   - excursiones
-tags: 
-  - europa
 authors: 
   - Susana García
 ---
