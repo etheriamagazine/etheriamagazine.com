@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Durante última semana de enero de 2026, Bruselas se convierte en la capital del arte europeo gracias a la feria de arte BRAFA. Te contamos los detalles para que no te pierdas nada de una de las ferias de arte más importantes del mundo. 
+Durante la última semana de enero de 2026, Bruselas se convierte en la capital del arte europeo gracias a la feria de arte BRAFA. Te contamos los detalles para que no te pierdas nada de una de las ferias de arte más importantes del mundo. 
 
 ![Tapiz de Elen Braga, en Vanhaerents Art Collection. © Pedro Grifol](https://fotos.etheriamagazine.com/2026/01/Bruselas-BRAFA-Tapiz-de-Elen-Braga-en-Vanhaerents-Art-Collection.jpg)
 
