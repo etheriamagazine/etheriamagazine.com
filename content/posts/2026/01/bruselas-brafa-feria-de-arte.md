@@ -18,7 +18,7 @@ BRAFA es una feria de arte ecléctica que abarca una gran variedad de temáticas
 
 ## Una feria con historia
 
-Es una de las ferias de arte más antiguas del panorama artístico europeo. Su trayectoria se inició en la capital belga en 1956, celebrándose ininterrumpidamente desde entonces (con excepción del año de la COVID). Empezó llamándose Foire des Antiquaires de Belgique y se centraba exclusivamente en pinturas flamencas y antigüedades nacionales que exhibían los galeristas belgas. Pero fue a partir de la década de los 90 cuando empezó a internacionalizarse, comenzó a incorporar nuevas temáticas artísticas y se abrió a galerías extranjeras, cambiando su nombre al actual de BRAFA (acrónimo de Brussels Art Fair).
+Es una de las ferias de arte más antiguas del panorama artístico europeo. Su trayectoria se inició en la capital belga en 1956, celebrándose ininterrumpidamente desde entonces (con excepción del año de la COVID). Empezó llamándose **Foire des Antiquaires de Belgique** y se centraba exclusivamente en pinturas flamencas y antigüedades nacionales que exhibían los galeristas belgas. Pero fue a partir de la década de los 90 cuando empezó a internacionalizarse, comenzó a incorporar nuevas temáticas artísticas y se abrió a galerías extranjeras, cambiando su nombre al actual de BRAFA (acrónimo de Brussels Art Fair).
 
 Este año, en el que cumplirá su 71.ª edición, reunirá 146 galerías procedentes de 17 países y tendrá lugar del 25 de enero al 1 de febrero de 2026 en los pabellones de Brussels Expo (junto al famoso Atomium de Bruselas).
 
