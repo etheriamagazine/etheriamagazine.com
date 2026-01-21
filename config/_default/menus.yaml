@@ -89,7 +89,7 @@ main:
     pageRef: categories/hoteles
     parent: estilo
   - name: Lujo
-    pageRef: categories/lujo
+    pageRef: categories/viajes-de-lujo
     parent: estilo
   - name: Bienestar
     pageRef: categories/bienestar
