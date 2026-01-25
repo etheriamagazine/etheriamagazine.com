@@ -10,6 +10,7 @@
 !layouts/
 !static/
 !bun.lockb
+!bun.lock
 !Dockerfile
 !go.mod
 !go.sum
