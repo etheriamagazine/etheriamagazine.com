@@ -15,7 +15,7 @@ ENV BUN_INSTALL_CACHE_DIR=/tmp/bun_cache
 WORKDIR /src
 
 # Install dependencies
-COPY package.json bun.lockb ./
+COPY package.json bun.lock ./
 RUN \
   --mount=type=cache,target=${BUN_INSTALL_CACHE_DIR} \
   bun install --frozen-lockfile
