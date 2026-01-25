@@ -45,7 +45,7 @@ FROM oven/bun:slim AS final
 ENV BUN_INSTALL_CACHE_DIR=/tmp/bun_cache
 
 # Install only production dependencies (not devDependencies)
-COPY package.json bun.lockb ./
+COPY package.json bun.lock ./
 
 RUN \
   --mount=type=cache,target=${BUN_INSTALL_CACHE_DIR} \
