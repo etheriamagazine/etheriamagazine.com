@@ -2,6 +2,7 @@ export const STATIC_ASSETS_MIME_TYPES = [
   'image/jpeg',
   'image/png',
   'image/gif',
+  'image/webp',
   'image/svg',
   'image/svg+xml',
   'font/woff2',
