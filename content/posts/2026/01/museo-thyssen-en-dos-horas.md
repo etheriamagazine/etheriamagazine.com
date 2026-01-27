@@ -1,6 +1,6 @@
 ---
 title: "Dos horas en el Museo Thyssen-Bornemisza de Madrid, un paseo por la historia del arte"
-date: 2026-01-28
+date: 2026-01-27
 cover: https://fotos.etheriamagazine.com/2026/01/Thyssen-Madrid-Sala_17.jpg
 categories: 
   - estilo-de-vida
@@ -8,11 +8,11 @@ categories:
 authors:
   - susana-garcía
 ---
-En este artículo te proponemos un recorrido de dos horas por el Museo Thyssen-Bornemisza de Madrid que destaca algunas de sus obras principales en un paseo que abarca siete siglos de historia del arte. Una visión rápida de una de las colecciones artísticas más excepcionales que es perfecta tanto para las viajeras que visitan Madrid como para las residentes en esta ciudad que vayan a realizar su primera visita a este museo.
+En este artículo te proponemos un recorrido de dos horas por el Museo Thyssen-Bornemisza de Madrid que destaca algunas de sus obras principales en un paseo que abarca siete siglos de historia del arte. Una visión rápida de una de las colecciones artísticas más excepcionales del mundo, que es perfecta tanto para las viajeras que visitan Madrid como para las residentes en esta ciudad que vayan a realizar su primera visita a este museo.
 
 ![Entrada del © Museo Thyssen-Bornemisza de Madrid](https://fotos.etheriamagazine.com/2026/01/Thyssen-Madrid-Jardin.jpg)
 
-Los museos son lugares perfectos para recogerse y pasear entre obras de arte durante horas, pero la realidad es que generalmente cuando visitamos una ciudad no tenemos todo el tiempo que nos gustaría para visitarlos. En cualquier caso, hay unos museos más abarcables en una única visita que otros, y el **Museo Thyssen-Bornemisza de Madrid** es uno de los más amables para un recorrido rápido. 
+Los museos son lugares perfectos para recogerse y pasear entre obras de arte durante horas, pero la realidad es que generalmente cuando viajamos a una ciudad no tenemos todo el tiempo que nos gustaría para visitarlos. En cualquier caso, hay unos museos más abarcables en una única visita que otros, y el **Museo Thyssen-Bornemisza de Madrid** es uno de los más amables para un recorrido rápido. 
 
 Aunque parezca que recorrer **siete siglos de pintura**, desde los primitivos italianos hasta el pop art, es difícil, en este museo se puede conseguir. En sus salas encontramos las obras ordenadas cronológicamente y un paseo de dos horas permite centrarse en las quince que proponemos, pero pasando junto al resto de piezas, lo que aporta una visión muy completa de las obras de arte de este museo. 
 
@@ -20,7 +20,7 @@ Aunque parezca que recorrer **siete siglos de pintura**, desde los primitivos it
 
 Se han elegido, con una visión muy personal, **quince obras que son clave en la historia del arte o representativas de determinados artistas o períodos históricos**, pero podrían ser otras ya que la colección del Thyssen de Madrid es de las más cuidadas y completas que puedes encontrar en el mundo. Fuera se quedan obras de El Greco, Zurbarán, Rembrandt, Manet, Cézanne, Toulouse-Lautrec, Schiele, Paul Klee, Mondrian, Pollock… Seguro que al pasar frente a ellas les echas una mirada y las guardas en la lista para en la siguiente visita detenerte frente a ellas con calma. 
 
-Además, el propio museo propone en su [web](https://www.museothyssen.org/) otros recorridos centrados en distintos temas, como Amor diverso, La cultura del vino o La Moda, entre otros. Son perfectos si no es la primera vez que visitas el museo y así puedes ver determinadas obras desde otro punto de vista. 
+Además, el propio museo propone en su [web](https://www.museothyssen.org/) otros recorridos centrados en distintos temas, como *Amor diverso*, *La cultura del vino* o *La Moda*, entre otros. Son perfectos si no es la primera vez que visitas el museo, ya que puedes ver determinadas obras desde otro punto de vista. 
 
 ## Recorrido por 15 obras de Museo Thyssen-Bornemisza de Madrid
 
@@ -32,13 +32,13 @@ Comenzamos por el Quattrocento florentino con esta magnífica pintura sobre tabl
 
 ### 2. Retrato de Enrique VIII de Inglaterra. Hans Holbein el Joven, hacia 1537 (sala 5, planta segunda)
 
-En la misma sala, nos acercamos a mirar otro retrato, de esos que están fijados en la memoria histórica colectiva, ya que, cuando nombramos a Enrique VIII es muy probable que la imagen de él que venga a nuestra cabeza sea la de este cuadro. El retrato era prácticamente el único género pictórico del siglo XVI en la Inglaterra del cisma anglicano, y Holbein era un auténtico maestro. Este retrato se realiza cuando ya había sido reconocido como máxima cabeza suprema de la Iglesia del país y refleja la monumentalidad de la figura y la profundidad psicológica que caracterizaban a las obras de este pintor. 
+En la misma sala, nos acercamos a mirar otro retrato, de esos que están fijados en la memoria histórica colectiva, ya que, cuando nombramos a Enrique VIII es muy probable que la imagen que venga a nuestra cabeza sea la de este cuadro. El retrato era prácticamente el único género pictórico del siglo XVI en la Inglaterra del cisma anglicano, y Holbein era un auténtico maestro. Este retrato se realiza cuando ya había sido reconocido como máxima cabeza suprema de la Iglesia del país y refleja la monumentalidad de la figura y la profundidad psicológica que caracterizaban a las obras de este pintor. 
 
 ![Retrato de Enrique VIII de Inglaterra. Hans Holbein el Joven, hacia 1537. © Museo Thyssen-Bornemisza Madrid](https://fotos.etheriamagazine.com/2026/01/Thyssen-Madrid-HOLBEIN.jpg)
 
 ### 3. Jesús entre doctores. Alberto Durero, 1506 (sala 8, planta segunda)
 
-Continuamos nuestro recorrido para llegar hasta una de las obras más conocidas de Alberto Durero, el máximo representante del Renacimiento alemán. Este óleo, pintado en Venecia, consigue aunar las tendencias pictóricas renacentistas de Italia y del norte de Europa y responde a un pasaje del Nuevo Testamento y del evangelio árabe de la Infancia. La obra, a la que la primera mirada va a las manos de Jesús y uno de los doctores, combina la imagen idílica del niño con las figuras caricaturescas de sus acompañantes. 
+Continuamos nuestro recorrido para llegar hasta una de las obras más conocidas de Alberto Durero, el máximo representante del Renacimiento alemán. Este óleo, pintado en Venecia, consigue aunar las tendencias pictóricas renacentistas de Italia y del norte de Europa y responde a un pasaje del Nuevo Testamento y del evangelio árabe de la Infancia. La obra, a la que la primera mirada se dirige a las manos de Jesús y a uno de los doctores, combina la imagen idílica del niño con las figuras caricaturescas de sus acompañantes. 
 
 ![Jesús entre doctores. Alberto Durero, 1506. © Museo Thyssen-Bornemisza Madrid](https://fotos.etheriamagazine.com/thyssen-madrid-DURERO.jpg)
 
@@ -64,31 +64,31 @@ Este lienzo refleja la maestría del pintor Frans Hals en los retratos de grupo 
 
 Continuamos para ver una obra completamente diferente, enmarcada en la época del Rococó francés de mediados del siglo XVIII. Este cuadro responde a la ligereza y luminosidad que definen al movimiento y, aunque es una de las primeras obras de Fragonard y la realizó antes de su viaje a Italia, ya se pueden percibir algunas de las señas de identidad de su pintura: dinamismo, pincelada fluida, luminosidad cromática y una naturaleza exuberante que envuelve las escenas. 
 
-![El columpio. Jean-Honoré Fragonard, hacia 1750-1752.© Museo Thyssen-Bornemisza Madrid](https://fotos.etheriamagazine.com/2026/01/Thyssen-Madrid-FRAGONARD.jpg)
+![El columpio. Jean-Honoré Fragonard, hacia 1750-1752. © Museo Thyssen-Bornemisza Madrid](https://fotos.etheriamagazine.com/2026/01/Thyssen-Madrid-FRAGONARD.jpg)
 
 ### 8. Mujer con sombrilla en un jardín. Pierre-Auguste Renoir, 1875-1879 (sala 33, primera planta)
 
 Bajamos a la primera planta y nos vamos al mundo de los impresionistas. Uno de sus mejores ejemplos es este cuadro de Renoir, pintado en el jardín del nuevo estudio del pintor en Montmartre. En este lienzo se percibe ese jardín desordenado que rodea a dos figuras a base de trazos cortos y rápidos de colores brillantes, jugando con las texturas y reflejando el modo relajado de vida de la burguesía, que contrastaba con la convulsa París de la década de 1870. 
 
-![Mujer con sombrilla en un jardín. Pierre-Auguste Renoir, 1875-1879.© Museo Thyssen-Bornemisza Madrid](https://fotos.etheriamagazine.com/2026/01/Thyssen-Madrid-RENOIR.jpg)
+![Mujer con sombrilla en un jardín. Pierre-Auguste Renoir, 1875-1879. © Museo Thyssen-Bornemisza Madrid](https://fotos.etheriamagazine.com/2026/01/Thyssen-Madrid-RENOIR.jpg)
 
 ### 9. Bailarina basculando (Bailarina verde). Edgar Degas, 1877-1879 (sala 33, primera planta)
 
 En la misma sala 33, este cuadro de Degas es un muy buen ejemplo de la etapa que este pintor dedicó al mundo del ballet, por el que estaba fascinado. Esta pintura refleja el momento y nos sitúa como espectadores de la representación desde un palco. La imagen se centra en una de las bailarinas y capta un instante en movimiento como si de una fotografía impresionista se tratara, apoyada por los trazos fugaces y rápidos que permite la técnica del pastel. El resto de las bailarinas aparecen incompletas o en segundo plano, lo que apoya la intención de Degas de crear una realidad incompleta. 
 
-![Bailarina basculando (Bailarina verde). Edgar Degas, 1877-1879.© Museo Thyssen-Bornemisza Madrid](https://fotos.etheriamagazine.com/2026/01/Thyssen-madrid-DEGAS.jpg)
+![Bailarina basculando (Bailarina verde). Edgar Degas, 1877-1879. © Museo Thyssen-Bornemisza Madrid](https://fotos.etheriamagazine.com/2026/01/Thyssen-madrid-DEGAS.jpg)
 
 ### 10. Les Vessenots en Auvers. Vincent van Gogh, 1890 (sala 34, primera planta)
 
 Pasamos a la sala 34 para admirar una de las obras de la última etapa de Van Gogh, una de las que pintó en sus últimas semanas de vida. Aunque su época en Auvers fue corta (solo estuvo dos meses), pintó allí numerosos cuadros de paisaje como este y algunos retratos. En este óleo eleva el horizonte y pinta con su característica pincelada corta, rápida y ondulante un grupo de casas, un campo de trigo y algunos árboles, en una composición en la que dominan las tonalidades verdes y amarillas. 
 
-![Les Vessenots en Auvers. Vincent van Gogh, 1890.© Museo Thyssen-Bornemisza Madrid](https://fotos.etheriamagazine.com/2026/01/Thyssen-Madrid-Van-GOGH.jpg)
+![Les Vessenots en Auvers. Vincent van Gogh, 1890. © Museo Thyssen-Bornemisza Madrid](https://fotos.etheriamagazine.com/2026/01/Thyssen-Madrid-Van-GOGH.jpg)
 
 ### 11. El sueño. Franz Marc, 1912 (sala 36, primera planta)
 
 Cambiamos de sala y de estilo para acercarnos a través de esta pintura al expresionismo alemán. Esta obra representa el mundo onírico de la mujer que aparece dormida en el centro a través de colores intensos y líneas que aportan un gran dinamismo mostrando un mundo real sin la necesidad de que sea verosímil. Hay muchas teorías sobre el significado de la obra relativos a los significados simbólicos de los colores y los elementos que aparecen, pero sí parece claro que refleja el amor por la naturaleza del autor y su utilización de los animales como seres místicos. 
 
-![El sueño. Franz Marc, 1912.© Museo Thyssen-Bornemisza Madrid](https://fotos.etheriamagazine.com/2026/01/Thyssen-Madrid-MARC.jpg)
+![El sueño. Franz Marc, 1912. © Museo Thyssen-Bornemisza Madrid](https://fotos.etheriamagazine.com/2026/01/Thyssen-Madrid-MARC.jpg)
 
 ### 12. Arlequín con espejo. Pablo Picasso, 1923 (sala 37, primera planta)
 
@@ -106,7 +106,7 @@ El mundo onírico de Dalí se representa en esta obra de forma total. Gala, la m
 
 Un lienzo de gran formato que ha pasado a la historia como una metáfora de la soledad representada en esa mujer que consulta con aspecto cansado, pero tranquilo, un horario de trenes en una impersonal y fría habitación de hotel. Un cuadro que atrapa por sus diagonales, su encuadre, sus trazos definidos y sus colores profundos. Fue el primero de una serie de óleos del artista que reflejaban diferentes habitaciones de hotel.
 
-![Habitación de hotel. Edward Hopper, 1931.© Museo Thyssen-Bornemisza Madrid](https://fotos.etheriamagazine.com/2026/01/Thyssen-Madrid-HOPPER.jpg)
+![Habitación de hotel. Edward Hopper, 1931. © Museo Thyssen-Bornemisza Madrid](https://fotos.etheriamagazine.com/2026/01/Thyssen-Madrid-HOPPER.jpg)
 
 ### 15. Mujer en el baño. Roy Lichtenstein, 1963 (sala 52, primera planta)
 
@@ -117,7 +117,7 @@ Con una de las obras más icónicas del movimiento pop estadounidense terminamos
 ## Guía práctica del Museo Thyssen-Bornemisza de Madrid
 
 ### Horario
-De martes a domingo de 10 a 19 h. Entrada gratuita los lunes de 12 a 16 h gracias al patrocinio de Mastercard y los sábados de 21 a 23 h con las Noches Thyssen con Uber. Consulta en la web del museo horarios especiales y días festivos. 
+De martes a domingo de 10 a 19 h. Entrada gratuita los lunes de 12 a 16 h, gracias al patrocinio de Mastercard, y los sábados de 21 a 23 h con las Noches Thyssen patrocinadas por Uber. Consulta en la web del museo horarios especiales y días festivos. 
 
 ### Precio
 14 euros la entrada general y 10 euros la entrada reducida (estudiantes, mayores de 65 años y pensionistas). Gratuita para menores de 18 años, carné joven, desempleados, docentes, amigos del museo y discapacitados (discapacidad igual o superior al 33%). Audioguía disponible por 5 euros. 
