@@ -13,11 +13,11 @@ Sant Josep de sa Talaia se calza las zapatillas de running para presentar el Cam
 
 ![Playa de Ses Salines. © Sant Josep de sa Talaia](https://fotos.etheriamagazine.com/2026/01/sant-josep-sa-talaia-Platja-de-ses-Salines.jpg)
 
-Es muy probable que, si estáis pensado en hacer un viaje con amigas, Ibiza sea una de las primeras opciones que os vengan a la cabeza. Y, dentro de Ibiza, la localidad de Sant Josep de sa Talaia es una excelente propuesta para vivir una Ibiza diferente, pegada a la naturaleza y donde el deporte se vive y se disfruta en un entorno genuino. Así que sigue leyendo, porque cuando termines este artículo vas a tener tantas razones para viajar a Sant Josep de sa Talaia con tus amigas que vais a comprar los billetes al momento. 
+Es muy probable que, si estáis pensado en hacer un viaje con amigas, Ibiza sea una de las primeras opciones que os vengan a la cabeza. Y, dentro de Ibiza, la localidad de Sant Josep de sa Talaia es una excelente propuesta para vivir una Ibiza diferente, pegada a la naturaleza y donde el deporte se vive y se disfruta en un entorno genuino. Así que sigue leyendo, porque cuando termines este artículo vas a tener tantas razones para **viajar a Sant Josep de sa Talaia con tus amigas** que vais a comprar los vuelos al momento. 
 
 ## La carrera de 10K Ibiza-Platja d’en Bossa, plan para las amigas runners
 
-Que salir a correr es una de las actividades deportivas más practicadas no es un secreto. Es sencillo, apenas requiere equipamiento (eso sí, es fundamental llevar unas buenas zapatillas) y se puede realizar en cualquier lugar del mundo. Pero no hace falta irse lejos porque **Sant Josep de sa Talaia** va a celebrar una de las pruebas más atractivas de este deporte que puedas encontrar: el **Campeonato de España de 10K**, que tendrá lugar el próximo 15 de febrero en el marco del 10K Ibiza-Platja d’en Bossa. 
+Que salir a correr es una de las actividades deportivas más practicadas no es un secreto. Es sencillo, apenas requiere equipamiento (eso sí, es fundamental llevar unas buenas zapatillas) y se puede realizar en cualquier lugar del mundo. Pero no hace falta desplazarse tan lejos porque **Sant Josep de sa Talaia** va a celebrar una de las pruebas más atractivas de este deporte que puedas encontrar: el **Campeonato de España de 10K**, que tendrá lugar el próximo 15 de febrero en el marco del 10K Ibiza-Platja d’en Bossa. 
 
 ![Carrera de 10K Ibiza-Platja d’en Bossa. © Sant Josep de sa Talaia](https://fotos.etheriamagazine.com/2026/01/sant-josep-sa-talaia-carrera-10-k.jpg)
 
@@ -51,7 +51,7 @@ Ya en el pueblo, situado hacia el interior y con esa imagen tan característica 
 
 ![Puesta de sol desde Sa Talaia. © Sant Josep de sa Talaia](https://fotos.etheriamagazine.com/2026/01/sant-josep-sa-talaia-Atardecer.jpg)
 
-## Más información:
+**Más información:**
 
 [Campeonato de España 10K Ibiza-Cala d’en Bossa.](https://10kibiza.com/)
 
