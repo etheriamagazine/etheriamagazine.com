@@ -1,6 +1,6 @@
 ---
 title: "La Ruta del Vino Rías Baixas, un destino al que siempre apetece volver"
-date: 2026-01-31
+date: 2026-01-30
 cover: https://fotos.etheriamagazine.com/2026/01/ruta-vino-rias-baixas-horreo.jpg
 categories: 
   - viajar-en-pareja
