@@ -66,7 +66,7 @@ La colección fue creada por Walter Vanhaerents a principios de los años 70. So
 
 ![Obra de Ugo Rondinone en la Vanhaerents Art Collection. © Pedro Grifol](https://fotos.etheriamagazine.com/2026/01/Bruselas-BRAFA-Obra-de-Ugo-Rondinone-Vanhaerents-Art-Collection.jpg)
 
-## Guía práctica
+## Guía práctica de BRAFA
 
 ### ¿Dónde se celebra BRAFA?
 
