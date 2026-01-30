@@ -12,7 +12,7 @@ authors:
 
 Fácil de recorrer y adaptable a todas las maneras de viajar, así es la Ruta del Vino Rías Baixas. Paisajes de interior y de costa, vino, naturaleza y patrimonio se funden en esta ruta para crear una experiencia pensada para disfrutar sin prisas. Un viaje que cambia con las estaciones, pero que invita a descubrir una Galicia auténtica a la que siempre apetece volver. Y no hay nada mejor que eso: repetir aquello que nos hace felices.
 
-![Un hórreo con vistas. © Ruta del Vino Rías Baixas](https://fotos.etheriamagazine.com/2026/01/ruta-vino-rias-baixas-horreo.jpg)
+![Hórreo con vistas de la Quinta de San Amaro. © Ruta del Vino Rías Baixas](https://fotos.etheriamagazine.com/2026/01/ruta-vino-rias-baixas-horreo.jpg)
 
 En el noroeste de España, la Ruta del Vino Rías Baixas propone una forma de viajar serena, con esa calma que proporcionan sus treinta años de madurez y ese atractivo misticismo que desprenden las tierras gallegas. La reconocida calidad de sus propuestas, su compromiso con la sostenibilidad y su carácter accesible –es la única ruta gallega incluida en la ‘Guía de Rutas Enológicas de España Accesibles’, según PREDIF– la convierten en un destino abierto a todos los públicos y adaptable a cualquier edad y momento del año. No importa cuál sea vuestro modo de viajar: con amigas o en pareja, solas o en familia, siempre seréis bien acogidas y encontraréis decenas de opciones para disfrutar de la ruta.
 
@@ -68,7 +68,7 @@ Tras el frío invierno, la **primavera** regala verdor y la prometedora floraci�
 
 El **verano**, por su parte, empuja a acercarse a la costa de las Rías Baixas para gozar de playas de arena blanca, de rías y ríos, de paseos en barco y de pícnics en familia. Mientras tanto, **las bodegas se preparan para la vendimia** y muchas de ellas abren sus puertas para compartir el proceso con los visitantes. 
 
-![Interior de la bodega Lagar de Cervera. © RV Rías Baixas](https://fotos.etheriamagazine.com/2026/01/ruta-vino-rias-baixas-bodega-interior.jpg)
+![Interior de la bodega Lagar de Fornelos. © RV Rías Baixas](https://fotos.etheriamagazine.com/2026/01/ruta-vino-rias-baixas-bodega-interior.jpg)
 
 Tras ese momento de ebullición, llegan los tonos ocres del **otoño** y el inicio de un nuevo ciclo en los viñedos. Es una época especialmente bonita para pasear bajo el emparrado, caminar por bosques autóctonos y recorrer rutas históricas como el Camino Portugués o la Ruta del Mar de Arousa, que atraviesan este territorio y ofrecen una mirada distinta de las Rías Baixas.
 
