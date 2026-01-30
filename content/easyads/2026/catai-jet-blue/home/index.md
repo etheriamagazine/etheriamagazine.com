@@ -1,7 +1,7 @@
 ---
 title: "Catai campaña Boston con JetBlue"
 date: 2025-10-04
-weight: 4
+weight: 5
 easyads:
   type: responsive
   url: https://www.catai.es/viajes/boston
