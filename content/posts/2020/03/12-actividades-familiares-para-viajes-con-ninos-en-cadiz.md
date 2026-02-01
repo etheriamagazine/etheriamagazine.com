@@ -63,12 +63,7 @@ juega en el parque Genovés... En el artículo '[10 planes con niños en Cádiz
 capital]({{% ref 10-planes-con-ninos-en-cadiz-capital %}})' 
 te damos otras muchas ideas. 
 
-En Cádiz también existen los [típicos 
-Freetour](https://www.civitatis.com/es/cadiz/free-tour-cadiz/?aid=10211) (gratuitos), 
-[visitas guiadas](https://www.civitatis.com/es/cadiz/visita-guiada-cadiz/?aid=10211) 
-desde 10 €. El [autobús 
-turístico](https://www.civitatis.com/es/cadiz/autobus-turistico-cadiz/?aid=10211) sale 
-por 24,99 € y es una buena opción cuando estéis cansados. 
+En Cádiz también existen los [típicos  Freetour](https://www.civitatis.com/es/cadiz/free-tour-cadiz/?aid=10211) (gratuitos), [visitas guiadas](https://www.civitatis.com/es/cadiz/visita-guiada-cadiz/?aid=10211) desde 12 €. El [autobús turístico (https://www.civitatis.com/es/cadiz/autobus-turistico-cadiz/?aid=10211) sale por 27 € y es una buena opción cuando estéis cansados. 
 
 ![El bautizo submarino es adecuado para niños y adultos.](https://fotos.etheriamagazine.com/2020/03/bautizo-submarinismo-cadiz.jpg "El bautizo submarino es adecuado para niños y adultos.")
 
@@ -77,8 +72,8 @@ por 24,99 € y es una buena opción cuando estéis cansados.
 Cuando los niños entran en la preadolescencia o adolescencia piden actividades más 
 emocionantes. Si les gusta nadar y tienen curiosidad por la vida submarina, una buena 
 opción es apuntarlos a un curso de submarinismo o a un bautizo submarino. Los suelen 
-ofertar algunos hoteles, pero también existen empresas especializadas como [Ocean 
-Addicts](http://www.oceanoadictos.com/) que organiza cursos e inmersiones. Te puede 
+ofertar algunos hoteles, pero también existen empresas especializadas como Ocean 
+Addicts (oceanaddicts.es), que organiza cursos e inmersiones. Te puede 
 salir desde 60 €/ bautizo. Además, los mayores también se pueden apuntar para obtener el 
 PADI. Ten en cuenta que según la normativa, los pequeños no pueden hacer inmersiones en 
 alta mar por lo que el bautizo es en una piscina. 
@@ -90,20 +85,12 @@ alta mar por lo que el bautizo es en una piscina.
 ¿Es el segundo día de viento y no sabes qué hacer con los niños en Cádiz? No te 
 preocupes, si tienes coche (o lo puedes alquilar) te sugerimos una visita a los pueblos 
 de la **Sierra gaditana**. Son más de 20 por lo que, a no ser que te quieras alojar allí 
-(el [Fuerte Grazalema](https://www.fuertehoteles.com/hotel/fuerte-grazalema/el-hotel/) 
-sería una estupenda opción), tendrás que elegir. Tu ruta podría comenzar en **Setenil de 
-las Bodegas**, con sus características casas empotradas en la roca; continuad por 
-**Olvera**, que conquistará a los niños con un precioso castillo y su museo (en el 
-interior incluso se pueden hacer fotos subidos a caballo); seguid en **Zahara de la 
-Sierra**, una población encaramada a una peña; pasead por **Grazalema**, la población 
+(el Fuerte Grazalema sería una estupenda opción), tendrás que elegir. Tu ruta podría comenzar en **Setenil de las Bodegas**, con sus características casas empotradas en la roca; continuad por **Olvera**, que conquistará a los niños con un precioso castillo y su museo (en el interior incluso se pueden hacer fotos subidos a caballo); seguid en **Zahara de la Sierra**, una población encaramada a una peña; pasead por **Grazalema**, la población 
 más turística; y terminad en **Arcos de la Frontera**, con sus casonas, templos y 
 decenas de lugares para tapear bien. 
 
 En este otro artículo encontraréis más opciones: [Ruta por los pueblos blancos de 
-Cádiz]({{% ref ruta-por-los-pueblos-blancos-de-cadiz %}}). Si 
-no llevas coche, puedes apuntarte a una [Excursión a los Pueblos 
-Blancos](https://www.civitatis.com/es/cadiz/excursion-pueblos-blancos/?aid=10211) por 
-unos 65 €. 
+Cádiz]({{% ref ruta-por-los-pueblos-blancos-de-cadiz %}}). Si no llevas coche, puedes apuntarte a una [Excursión a los Pueblos Blancos](https://www.civitatis.com/es/cadiz/excursion-pueblos-blancos/?aid=10211) por unos 65 €. 
 
 ![Ruinas de Baelo Claudia ruta del atun tarifa](https://fotos.etheriamagazine.com/2018/06/ruina-de-baelo-claudia-tarifa-ruta-del-atun.jpg "Baelo Claudia se encuentra junto a una hermosa ensenada donde disfrutar de un día de playa. © Etheria Magazine")
 
@@ -149,12 +136,8 @@ Hay que ser conscientes de que en un viaje con niños no puede faltar la visita 
 parque de atracciones, un **zoo** (hay dos, uno en Jerez que es también jardín botánico 
 y otro en Castellar de la Frontera) o un parque acuático. Suelen estar bastante llenos 
 los fines de semana, así que acude mejor de lunes a viernes. Algunas opciones entre las 
-que puedes elegir son el [Aqualand Bahía de 
-Cádiz](https://www.aqualand.es/bahiadecadiz/) (dispone de diversos tipos de entradas) y 
-el [Bahía Park](https://www.bahiapark.com/) (Algeciras). 
-
-Otra propuesta que está bien, pero más lejos, es [Isla 
-Mágica](https://www.islamagica.es/), en Sevilla. Desde 20 €. 
+que puedes elegir son el Aqualand Bahía de Cádiz (dispone de diversos tipos de entradas) y 
+el Bahía Park (Algeciras). Otra propuesta que está bien, pero más lejos, es Isla Mágica, en Sevilla. Desde 20 €. 
 
 ![vejer de la frontera, viaje familia cadiz](https://fotos.etheriamagazine.com/2020/03/vejer.jpg "Vejer de la Frontera. © Etheria Magazine")
 
@@ -168,8 +151,7 @@ hacer un esfuerzo para subir algunas calles. Exceptuando este detalle, es un pue
 gusta mucho a pequeños y mayores. Entre lo más pintoresco que se puede hacer en Vejer 
 están los paseos en burro, las visitas teatralizadas de las Marimantas, y visitar los 
 molinos de viento. También dispone de un 
-[freetour](https://www.civitatis.com/es/vejer-de-la-frontera/?aid=10211) por si 
-prefieres hacer la visita guiada. 
+[freetour](https://www.civitatis.com/es/vejer-de-la-frontera/free-tour-vejer-frontera/?aid=10211) por si prefieres hacer la visita guiada. 
 
 📌 NO TE LO PIERDAS: [10 actividades imprescindibles en Vejer de la Frontera]({{% ref 
 10-actividades-vejer-de-la-frontera-que-ver-hacer %}}). 
@@ -180,7 +162,7 @@ prefieres hacer la visita guiada.
 
 Estas dos actividades son igual de entretenidas y didácticas: aprender a hacer pan y 
 conocerlo todo sobre apicultura y las abejas. Para hacer la primera hay que dirigirse al 
-[Molino de Abajo](http://www.elmolinodeabajo.es/) (en **El Bosque**), que es donde se 
+Molino de Abajo (elmolinodeabajo.es), en **El Bosque**, que es donde se 
 sitúa un antiguo molino hidráulico del siglo XVIII. Allí los pequeños conocerán todo el 
 proceso del pan, desde la molienda del trigo hasta la cocción en el horno. Luego se 
 llevarán su pan recién hecho. La visita del museo, instalado en el molino, con el taller 
@@ -189,7 +171,7 @@ incluido cuesta solo 10 € por persona.
 ![museo miel, visita colmenas, jerez, visitas familiares](https://fotos.etheriamagazine.com/2020/03/miel-rancho-cortesano.jpg "Actividad con colmenas en © Rancho Cortesano.")
 
 Para saborear la miel tendremos que ir a **Jerez de la Frontera** donde se encuentra 
-[Rancho Cortesano](https://www.ranchocortesano.net/talleres.php), que tiene más de 2.000 
+Rancho Cortesano (ranchocortesano.net), que tiene más de 2.000 
 colmenas por toda la provincia. Allí se puede visitar el museo para conocer la 
 importancia de las abejas, de la polinización y los distintos tipos de mieles. En sus 
 talleres suelen incluir: visita a las colmenas, catas de miel y polen, envasado y 
@@ -220,7 +202,7 @@ Guardia Civil.
 Quizá no lo sepas pero el estrecho de Gibraltar es un lugar perfecto para ver cetáceos. 
 En Gibraltar hay varias empresas que organizan estas salidas, por si quieres aprovechar 
 la excursión anterior. Si no es así, muy recomendable por su larga trayectoria es la 
-empresa **Turmares** (www.turmares.com) que se encuentra en Tarifa. Precios de la salida 
+empresa **Turmares** (turmares.com) que se encuentra en Tarifa. Precios de la salida 
 de 2 horas: de 1 a 5 años (15 €), de 6 a 14 años (30 €), adultos (45 €). Salidas 
 estándar a las 12 y a las 16 horas. 
 
@@ -229,7 +211,7 @@ estándar a las 12 y a las 16 horas.
 ## 12\. Paseos en barco
 
 Terminamos este listado con dos propuestas para pequeños o grandes grumetes. La primera 
-opción es hacer una tranquila excursión marítima con [Albarco](http://www.albarco.com/) 
+opción es hacer una tranquila excursión marítima con **Albarco** (albarco.com/) 
 desde el puerto de Sancti Petri (Chiclana) para ver el enigmático castillo de Sancti 
 Petri de día o al atardecer y el Parque Natural Bahía de Cádiz. Y la segunda es 
 **visitar el Parque Nacional de Doñana** en el buque Real Fernando. El barco sale de 
