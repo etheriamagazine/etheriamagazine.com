@@ -80,4 +80,4 @@ Les diría que es una isla donde pueden viajar solas con confianza, curiosidad y
 
 **También os puede interesar...**
 
-{{< reflink maria-lurdes-vale-turismo-portugal/ >}}.
+{{< reflink maria-lurdes-vale-turismo-portugal >}}.
