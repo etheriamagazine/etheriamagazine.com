@@ -75,13 +75,9 @@ De vuelta al sur por la TF-1, merece la pena parar en [Candelaria](https://www.c
 
 ![viajes a Canarias, viajes familiares a Tenerife, rutas desde el sur de Tenerife](https://fotos.etheriamagazine.com/2020/02/Tenerife-observatorio.jpg "Observatorio del Teide.")
 
-Un plan perfecto para combinar diversión y aprendizaje es apuntarte a una visita guiada 
-del Observatorio del Teide, **el mayor observatorio solar del mundo**, que te ofrece una 
-perspectiva diferente de esta isla que es mucho más que sol y playa. Podrás observar las 
-manchas solares y participar en un taller de astrofísica impartido por el **Instituto 
-Astrofísico de Canarias** (iac.es), además de conocer por qué Canarias es uno de los mejores lugares del mundo para la observación del cielo. La visita es para mayores de ocho años y el Observatorio se encuentra aproximadamente a hora y media del sur de la isla. 
+Un plan perfecto para combinar diversión y aprendizaje es apuntarte a una visita guiada del Observatorio del Teide, **el mayor observatorio solar del mundo**, que te ofrece una perspectiva diferente de esta isla que es mucho más que sol y playa. Podrás observar las manchas solares y participar en un taller de astrofísica impartido por el **Instituto Astrofísico de Canarias** (iac.es), además de conocer por qué Canarias es uno de los mejores lugares del mundo para la observación del cielo. La visita es para mayores de ocho años y el Observatorio se encuentra aproximadamente a hora y media del sur de la isla. 
 
-** También te puede interesar:
+**También te puede interesar:**
 
 {{< reflink viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava >}} 
 
