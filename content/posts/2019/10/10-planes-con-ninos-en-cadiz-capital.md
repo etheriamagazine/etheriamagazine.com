@@ -14,9 +14,9 @@ Viajar a Cádiz con niños puede ser un planazo en cualquier momento del año. E
 
 ![Títere del Museo del Títere en Cádiz capital.](https://fotos.etheriamagazine.com/2019/10/museo-titeres-cadiz.jpg "Museo del Títere. ©P.G.")
 
-## 10 planes en Cádiz con niños, la capital más cultural e interesante
+Las ciudades españolas suelen disponer de propuestas perfectas para familias, pero, en ocasiones, por su tamaño y su ritmo de vida no llegan a ser tan idóneas como nos gustaría. Sin embargo, la capital gaditana dispone de ese compás que los viajeros con hijos  tanto anhelan. El centro histórico de Cádiz es pequeño, cuenta con un gran jardín y una playa, decenas de bares y terrazas donde descansar del ajetreo y mil planes que disfrutan niños y adultos. A continuación, os dejamos algunos de ellos:. 
 
-### 1\. Museo del Títere
+## 1. Museo del Títere
 
 Esta podría ser la primera visita en el recorrido que os proponemos en Cádiz porque está situado justo en **Puerta Tierra,** que es un reducto de la antigua muralla, que separa la ciudad histórica de otros barrios más recientes. Aunque exteriormente no sea muy visible camina por los pasadizos de la muralla para localizar el Museo Litográfico y el **Museo del Títere** en la bóveda de Santa Elena. El primero es interesante pero el segundo es, realmente, más adecuado para ir con niños. 
 
@@ -28,16 +28,16 @@ Si os quedan ganas de más, también podéis asistir a una función en el Teatro
 
 📍Infórmate del [Freetour por Cádiz](https://www.civitatis.com/es/cadiz/free-tour-cadiz/?aid=10211) o de una interesante [visita guiada](https://www.civitatis.com/es/cadiz/visita-guiada-cadiz/?aid=10211) (12 €) para familiarizarte con la ciudad. 
 
-![Vistas desde la torre de la Catedral de Cádiz.](https://fotos.etheriamagazine.com/2019/10/Catedral-torre-reloj-poniente.jpg "Vistas desde la torre de la Catedral. ©A.C.")
+![Vistas desde la torre de la Catedral de Cádiz. ©Ayto. Cádiz](https://fotos.etheriamagazine.com/2019/10/Catedral-torre-reloj-poniente.jpg "Vistas desde la torre de la Catedral. ©A.C.")
 
-### 2\. Subir a la torre de la Catedral
+## 2. Subir a la torre de la Catedral
 
 Una vez en el centro histórico, la segunda visita podría ser a la **Catedral nueva**, para admirar la ciudad desde las alturas. En Cádiz hay varios miradores de interés y uno de ellos es la torre del Reloj de esta catedral, que ha sido restaurada y luce 
 resplandeciente. Desde arriba se pueden ver las azoteas del centro histórico, el muelle y el océano de fondo. Esta catedral se construyó en el siglo XVIII, ya que la anterior, la Catedral Vieja de Santa Cruz, era demasiado modesta para la época floreciente que estaba viviendo la ciudad en aquel momento. Sólo hay que tener en cuenta que no hay ascensor sino que se debe **subir una rampa**. La entrada incluye la visita a la catedral, la cripta, el coro, la sacristía, la casa de Contaduría (donde están los tesoros de la catedral) y la torre del Reloj. 
 
 ![Plaza de las Flores de Cádiz capital.](https://fotos.etheriamagazine.com/2019/10/plaza-de-las-flores.jpg "Plaza de las Flores.")
 
-### 3\. Aperitivo en la Plaza de las Flores
+## 3. Aperitivo en la Plaza de las Flores
 
 Desde la Catedral, siguiendo la calle Compañía, se llega en poco minutos a la **plaza Topete**, más conocida como plaza de las Flores. Como ya puedes imaginar por su nombre, allí se concentran numerosos puestos de plantas y flores. Aquí lo que os proponemos es hacer un alto en el camino para tomar el aperitivo en la **Freiduría Flores** (en la confluencia de la plaza con la calle Compañía). 
 
@@ -45,9 +45,9 @@ Desde la Catedral, siguiendo la calle Compañía, se llega en poco minutos a la 
 
 No os dejéis influir por su aspecto modesto, sus raciones de pescaíto frito y de marisco son muy generosas y a precios populares. Además, las sirven sobre papel, que seguro llamará la atención de los más pequeños.  
 
-![Mercado Central de Abastos de Cádiz.](https://fotos.etheriamagazine.com/2019/10/mercado-central-abastos-cadiz.jpg "Mercado Central de Abastos de Cádiz. ©A.C.")
+![Mercado Central de Abastos de Cádiz.](https://fotos.etheriamagazine.com/2019/10/mercado-central-abastos-cadiz.jpg "Mercado Central de Abastos de Cádiz. ©Ayto. Cádiz")
 
-### 4\. Mercado de Abastos y Rincón Gastronómico
+## 4. Mercado de Abastos y Rincón Gastronómico
 
 A corta distancia de la plaza de las Flores se sitúa el **mercado Central de Abastos de 
 Cádiz**, un espacio de 1838 que ha sido reformado en diversas ocasiones. Puede que penséis que no es lugar 
@@ -57,9 +57,9 @@ En el mercado también encontraréis un espacio gourmet donde degustar la rica g
 
 **Horario**: El mercado abre de 9 a 15 horas (lunes a sábado) y el **Rincón gastronómico** abre mañana y tarde según el día. **Precio**: Entrada gratuita. 
 
-![Cámara oscura y vistas desde Torre Tavira ideal para un viaje a Cádiz con niños](https://fotos.etheriamagazine.com/2019/10/Torre-Tavira-viaje-cadiz-familia.jpg "Cámara oscura y vistas desde Torre Tavira. ©A.C.")
+![Cámara oscura y vistas desde Torre Tavira ideal para un viaje a Cádiz con niños](https://fotos.etheriamagazine.com/2019/10/Torre-Tavira-viaje-cadiz-familia.jpg "Cámara oscura y vistas desde Torre Tavira. ©Ayto. Cádiz")
 
-### 5\. Cámara oscura de Torre Tavira
+## 5. Cámara oscura de Torre Tavira
 
 En esta visita se une el encanto que tiene entrar en un torre –y subir a su mirador– con disfrutar de la imagen reproducida en una cámara oscura. En la capital gaditana había 129 torres miradores desde las que se observaba el litoral, y **Tavira era la torre 
 vigía oficial del puerto de Cádiz**, ya que se encontraba en la cota más alta (a 45 metros sobre el nivel del mar). 
@@ -70,7 +70,7 @@ Lo que la convierte en un lugar tan especial es que **cuenta con una cámara osc
 
 ![Parque Genovés de Cádiz.](https://fotos.etheriamagazine.com/2019/10/parque-genoves-cadiz.jpg "Parque Genovés de Cádiz. ©A.C.")
 
-### 6\. Parque Genovés-Jardín Botánico
+## 6. Parque Genovés-Jardín Botánico
 
 Tras tantas visitas, quizás apetezca descansar un poco (más a los padres, seguro). Un buen lugar es el **Parque Genovés** (avenida Doctor Gómez Ulla, s/n), que ha ido creciendo desde el siglo XVIII lo que le ha permitido su su situación encajonada junto a 
 las murallas y el centro histórico. En este pulmón gaditano, se puede optar por hacer un **recorrido botánico** porque realmente tiene especies muy curiosas y están identificadas, tomar un helado o un refresco en su quiosco o bien dejar que los niños 
@@ -81,14 +81,14 @@ Es un lugar perfecto para hacer un picnic en invierno mientras se aprovechan los
 **Horario**: Desde las 8 a las 22.00 en verano (en invierno hasta la puesta de sol) 
 **Precio:** Entrada gratuita. 
 
-### 7\. Comer en una taberna típica
+## 7. Comer en una taberna 
 
 Si estáis de vacaciones y más que un picnic os apetece probar la cocina local, os podéis acercar a un clásico gaditano situado en el barrio de la Viña: **Casa Manteca** (Corralón de los Carros, esquina con San Félix). Su dueño, Pepe el Manteca, quería ser 
 torero pero su arte lo tuvo que encauzar a la restauración, ahora son sus hijos quienes llevan el negocio. Es una taberna pequeña con algunas mesas (toneles) fuera por lo que es un bar adecuado si los niños son mayores. Si vais con sillas de paseo o preferís un lugar donde sentaros cómodamente os sugerimos **El Garbanzo Negro** (Sacramento 18), otro clásico donde degustar comida casera (además, tiene opciones sin gluten y vegetarianas). 
 
 ![Playa de la Caleta, pequeña pero perfecta para un viaje a Cádiz con niños](https://fotos.etheriamagazine.com/2019/10/Playa-de-la-Caleta.jpg "Playa de la Caleta. ©A.C.")
 
-### 8\. Playa de la Caleta
+## 8. Playa de la Caleta
 
 Custodiada por dos fortalezas del siglo XVII, los baluartes de San Sebastián y de Santa Catalina, esta pequeña playa (495 metros de largo) es el lugar perfecto para pasear, jugar en la arena o darse un baño casi todo el año. Es la única playa del casco 
 histórico y, como tal, suele estar frecuentada por vecinos de la zona. Tiene servicios de vigilancia en verano, duchas, vestuarios y algunos bares casi a pie de playa. 
@@ -99,7 +99,7 @@ Otra propuesta añadida es realizar un taller (niños de 4 a 13 años) en el **c
 
 ![Teatro Romano de Cádiz.](https://fotos.etheriamagazine.com/2019/10/teatro-romano-cadiz.jpg "Teatro Romano de Cádiz. ©A.C.")
 
-### 9\. Teatro Romano
+## 9. Teatro Romano
 
 La clase de historia para quienes viajéis con niños de primaria la tendréis gratuitamente en el **Centro de Interpretación del Teatro Romano de Cádiz**, donde se explica el contexto histórico de la excavación. Este teatro romano fue construido en el 
 año 70 a.C. cuando se amplió el perímetro urbano de la ciudad de Gades. No fue descubierto hasta 1980 porque se encontraba debajo del barrio del Pópulo. Las excavaciones han sacado una parte a la luz, lo suficiente para saber que es el más antiguo de la península ibérica y uno de los mayores del país. La entrada se realiza por la calle Mesón, 13 (Centro de Interpretación del Teatro Romano). 
@@ -110,7 +110,7 @@ Si os interesa el tema histórico, no dejéis de visitar también el **Museo de 
 
 ![castillo sancti petri, paseos en barco, rutas ninos cadiz](https://fotos.etheriamagazine.com/2019/10/Playa-sancti-petri.jpg "Castillo de Sancti Petri. ©P.G.")
 
-### 10\. Paseo en barco por la bahía
+## 10. Paseo en barco por la bahía
 
 Para terminar el día os sugerimos un paseo en barco. ¿A qué niño no le apasionan las historias de piratas? En Cádiz, además, te podrán contar muchas leyendas de los barcos que llegaban cargados de tesoros de allende los mares. Empresas como **Albarco** (albarco.com) organizan excursiones en catamarán que te llevan durante todo el año por el litoral. Una opción es realizar el recorrido que lleva hasta el **castillo de Sancti Petri y el Parque Natural Bahía de Cádiz**. En este caso, el barco sale del puerto de Sancti Petri (en el término de Chiclana de la Frontera). 
 
