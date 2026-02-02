@@ -4,7 +4,6 @@ date: 2026-02-04
 cover: https://fotos.etheriamagazine.com/2026/01/puerto-rico-bosques.jpg
 categories: 
   - mujeres-top
-  - viajar-sola
 tags: 
   - mundo
 authors:
