@@ -1,6 +1,6 @@
 ---
 title: "Storm Tussey confirma que Puerto Rico es una isla segura para las mujeres que viajan solas"
-date: 2026-02-04
+date: 2026-02-03
 cover: https://fotos.etheriamagazine.com/2026/01/puerto-rico-bosques.jpg
 categories: 
   - mujeres-top
