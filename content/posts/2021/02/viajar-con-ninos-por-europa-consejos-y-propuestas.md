@@ -65,9 +65,7 @@ Cuando tengas seleccionada la región, según los días que vayáis a estar, eli
 **ciudad como centro de operaciones,** con excursiones de día, o diseña una ruta. Con 
 niños lo mejor es no hacer grandes viajes en coche. Es preferible centrarse en una zona 
 no muy grande y descubrirla con calma, disfrutando también de los pequeños momentos, 
-como un rato en un parque. Para **una semana**, es mejor no seleccionar más de dos o 
-tres alojamientos, lo de cambiar cada día de hotel no es muy buena idea por el follón de 
-hacer y deshacer maletas familiares. 
+como un rato en un parque o parar a tomar un helado. Para **una semana**, es mejor no seleccionar más de dos o tres alojamientos, lo de cambiar cada día de hotel no es muy buena idea por el follón de hacer y deshacer maletas familiares. 
 
 ![Tobogán en el monte Brunni en Suiza.](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-europa-Engelberg-tobogan.jpg "Tobogán en el monte Brunni en Suiza. © Cristina Monllor")
 
