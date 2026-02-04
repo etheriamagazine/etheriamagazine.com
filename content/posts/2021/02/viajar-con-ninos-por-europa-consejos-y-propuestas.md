@@ -263,10 +263,7 @@ consejos para viajar con niños a la Laponia finlandesa]({{% ref
 
 **También te puede interesar:** 
 
-{{< reflink 10-actividades-para-un-viaje-en-familia-a-japon >}} 
-
-{{< reflink dubai-con-ninos-actividades-y-excursiones >}} 
-
-{{< reflink viaje-costa-rica-con-ninos-que-hacer-en-familia >}} 
-
-{{< reflink miami-7-planes-para-viajar-en-familia >}}
+- {{< reflink 10-actividades-para-un-viaje-en-familia-a-japon >}}
+- {{< reflink dubai-con-ninos-actividades-y-excursiones >}}
+- {{< reflink viaje-costa-rica-con-ninos-que-hacer-en-familia >}}
+- {{< reflink miami-7-planes-para-viajar-en-familia >}}
