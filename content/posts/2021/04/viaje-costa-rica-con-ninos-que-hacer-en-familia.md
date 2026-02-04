@@ -1,6 +1,7 @@
 ---
 title: "Viaje con niños a Costa Rica: aventura en la naturaleza"
 date: 2021-04-20
+lastmod: 2023-01-01
 cover: https://fotos.etheriamagazine.com/2018/05/Costa-Rica-rana-e1551175328952.jpg
 categories: 
   - viajar-en-familia
@@ -18,9 +19,6 @@ familia.
 
 ![reserva privada Waterfalls Gardens Costa Rica](https://fotos.etheriamagazine.com/2018/05/Costa-Rica-Tucan-e1551175189452.jpg "En la reserva privada Waterfalls Gardens se puede interactuar con los tucanes. © Susana García.")
 
-```
-Actualizado enero 2023
-```
 
 Podríamos decir que Costa Rica es un país “family friendly”, pero la realidad es que es 
 “friendly” con todo el mundo. Aquí la sonrisa les viene de serie. Los ticos son 
