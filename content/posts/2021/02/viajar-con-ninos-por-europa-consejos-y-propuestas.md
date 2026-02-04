@@ -1,6 +1,6 @@
 ---
 title: "Viajar con niños por Europa: consejos y propuestas para acertar en tu primer viaje"
-date: 2026-02-04
+date: 2026-02-06
 cover: https://fotos.etheriamagazine.com/2021/01/viajar-ninos-europa-terceira.jpg
 categories: 
   - viajar-en-familia
