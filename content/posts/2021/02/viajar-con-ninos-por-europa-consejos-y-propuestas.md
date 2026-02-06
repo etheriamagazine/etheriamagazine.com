@@ -1,7 +1,8 @@
 ---
 title: "Viajar con niños por Europa: consejos y propuestas para acertar en tu primer viaje"
-date: 2021-02-02
+date: 2026-02-04
 cover: https://fotos.etheriamagazine.com/2021/01/viajar-ninos-europa-terceira.jpg
+Featured: false
 categories: 
   - viajar-en-familia
 tags: 
@@ -32,7 +33,7 @@ europeas. Después, seguro que te animas a destinos más lejanos donde también 
 **viajar con niños** sin ningún problema. **Tailandia**, **Japón** o **Costa Rica** son 
 solo algunos entre una casi infinita lista. 
 
-![Senderismo en Agualva en Terceira](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-terceira-Senderismo-BAIAS-DA-ALGUALVA-2-1024x683-1.jpg "Ruta de senderismo de Baias da Agualva (Terceira, Azores). © SG")
+![Senderismo en Agualva en Terceira](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-terceira-Senderismo-BAIAS-DA-ALGUALVA-2-1024x683-1.jpg "Ruta de senderismo de Baias da Agualva (Terceira, Azores). © Susana García")
 
 Lo primero que deberías tener en cuenta es que en un viaje con niños (sobre todo si son 
 muy pequeños) es mejor llevarlo todo bastante organizado y previsto, aunque después 
@@ -53,7 +54,7 @@ empezar con un **viaje corto aprovechando un puente en primavera o en otoño**. 
 noches son suficientes para desconectar, conocer otro lugar y no liarte mucho con los 
 preparativos. Y así vas ‘ensayando’ para viajes más largos. 
 
-![Invento de Leonardo da Vinci en el jardín del castillo de Clos Lucé (Amboise, valle del Loira)](https://fotos.etheriamagazine.com/2021/01/Amboise-castillo-clos-luce.jpg "Invento de Leonardo da Vinci en el jardín del castillo de Clos Lucé (Amboise, valle del Loira). © S.G.")
+![Invento de Leonardo da Vinci en el jardín del castillo de Clos Lucé (Amboise, valle del Loira)](https://fotos.etheriamagazine.com/2021/01/Amboise-castillo-clos-luce.jpg "Invento de Leonardo da Vinci en el jardín del castillo de Clos Lucé (Amboise, valle del Loira). © Susana García")
 
 Después, elige la zona. No te preocupes demasiado por la duración del vuelo. Los niños 
 se adaptan a aeropuertos y vuelos mucho mejor de lo que pensamos, basta con llevar 
@@ -65,9 +66,7 @@ Cuando tengas seleccionada la región, según los días que vayáis a estar, eli
 **ciudad como centro de operaciones,** con excursiones de día, o diseña una ruta. Con 
 niños lo mejor es no hacer grandes viajes en coche. Es preferible centrarse en una zona 
 no muy grande y descubrirla con calma, disfrutando también de los pequeños momentos, 
-como un rato en un parque. Para **una semana**, es mejor no seleccionar más de dos o 
-tres alojamientos, lo de cambiar cada día de hotel no es muy buena idea por el follón de 
-hacer y deshacer maletas familiares. 
+como un rato en un parque o parar a tomar un helado. Para **una semana**, es mejor no seleccionar más de dos o tres alojamientos, lo de cambiar cada día de hotel no es muy buena idea por el follón de hacer y deshacer maletas familiares. 
 
 ![Tobogán en el monte Brunni en Suiza.](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-europa-Engelberg-tobogan.jpg "Tobogán en el monte Brunni en Suiza. © Cristina Monllor")
 
@@ -102,7 +101,7 @@ zona. Esta investigación requiere tiempo. Es mejor que durante el viaje te dedi
 disfrutar de lo organizado y no restes horas al sueño preparando la ruta del día 
 siguiente. 
 
-![Taller de galletas con Papá y Mamá Noel en su cabaña privada (Laponia finlandesa).](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-europa-galletas-laponia.jpg "Taller de galletas con Papá y Mamá Noel en su cabaña privada (Laponia finlandesa). © SG")
+![Taller de galletas con Papá y Mamá Noel en su cabaña privada (Laponia finlandesa).](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-europa-galletas-laponia.jpg "Taller de galletas con Papá y Mamá Noel en su cabaña privada (Laponia finlandesa). © Susana García")
 
 Hoy día Internet pone el mundo, hasta el más local, a golpe de clic, aprovéchalo. Con 
 niños es preferible planificar las excursiones por tu cuenta para respetar sus tiempos. 
@@ -130,7 +129,7 @@ viaje termina con la mejor de las imágenes: la del **Castillo de Neuschwanstein
 aquí la ruta sigue hasta Múnich, atravesando la Baviera más típica en pueblos como 
 Oberammergau. 
 
-![Parque Playmobil Fun Park.](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-baviera-playmobil.jpg "Parque Playmobil Fun Park. © SG")
+![Parque Playmobil Fun Park.](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-baviera-playmobil.jpg "Parque Playmobil Fun Park. © Susana García")
 
 ### Holanda, parques y divertidos museos
 
@@ -154,7 +153,7 @@ museo-nemo-en-amsterdam-ciencia-para-toda-la-familia %}})
 ✅ [Center Parcs Eemhof, tu alojamiento familiar en Holanda]({{% ref 
 center-parcs-de-eemhof-vacaciones-en-la-naturaleza %}}) 
 
-![El museo de las miniaturas de Madurodam.](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-holanda-madurodam.jpg "El museo de las miniaturas de Madurodam. © SG")
+![El museo de las miniaturas de Madurodam.](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-holanda-madurodam.jpg "El museo de las miniaturas de Madurodam. © Susana García")
 
 ### Suiza con niños
 
@@ -209,7 +208,7 @@ Algar do Carvão y en la Gruta do Natal. Tampoco la excursión estrella en Terce
 salida en barco o lancha rápida para ver de cerca a los delfines que rodean la isla y, 
 si hay suerte, a alguna ballena. 
 
-![Viajes a Azores con niños](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-europa-terceira.jpg "Avistamiento de cetáceos en Terceira. © SG")
+![Viajes a Azores con niños](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-europa-terceira.jpg "Avistamiento de cetáceos en Terceira. © Susana García")
 
 ### Alsacia y Selva Negra, paisajes de cuento
 
@@ -226,7 +225,7 @@ visita obligada: las cataratas de Triberg y el gran reloj de cuco de Schonach. U
 con ciudades maravillosas, naturaleza y un gran parque temático que tienes que conocer 
 sí o sí. 
 
-![Camino a las cataratas de Triberg, en la Selva Negra.](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-cataratas-triberg.jpg "Camino a las cataratas de Triberg, en la Selva Negra. © SG")
+![Camino a las cataratas de Triberg, en la Selva Negra.](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-cataratas-triberg.jpg "Camino a las cataratas de Triberg, en la Selva Negra. © Susana García")
 
 ### Valle del Loira y Futuroscope
 
@@ -260,14 +259,11 @@ hotel. Y, si es posible, visitar a Papá Noel en su cabaña privada, es una expe
 consejos para viajar con niños a la Laponia finlandesa]({{% ref 
 8-consejos-para-viajar-a-la-laponia-finlandesa-con-ninos %}}). 
 
-![niño con Papa Noel en Laponia](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-laponia-papa-noel.jpg "Visita a la cabaña privada de Papá Noel en la Laponia finlandesa. © SG")
+![niño con Papa Noel en Laponia](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-laponia-papa-noel.jpg "Visita a la cabaña privada de Papá Noel en la Laponia finlandesa. © Susana García")
 
 **También te puede interesar:** 
 
-{{< reflink 10-actividades-para-un-viaje-en-familia-a-japon >}} 
-
-{{< reflink dubai-con-ninos-actividades-y-excursiones >}} 
-
-{{< reflink viaje-costa-rica-con-ninos-que-hacer-en-familia >}} 
-
-{{< reflink miami-7-planes-para-viajar-en-familia >}}
+- {{< reflink 10-actividades-para-un-viaje-en-familia-a-japon >}}
+- {{< reflink dubai-con-ninos-actividades-y-excursiones >}}
+- {{< reflink viaje-costa-rica-con-ninos-que-hacer-en-familia >}}
+- {{< reflink miami-7-planes-para-viajar-en-familia >}}
