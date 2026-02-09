@@ -1,6 +1,6 @@
 ---
 title: "Múnich con amigas, la guía básica para una primera visita "
-date: 2026-02-19
+date: 2026-02-09
 cover: https://fotos.etheriamagazine.com/2026/02/munich-viaje-amigas.jpg
 categories: 
   - viajar-con-amigas
