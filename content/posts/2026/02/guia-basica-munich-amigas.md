@@ -11,7 +11,7 @@ authors:
 ---
 En una primera visita, Múnich sorprende por su equilibrio, ya que es monumental sin resultar abrumadora. Aquí no hace falta correr para llegar a todos los planes: la capital bávara puede disfrutarse en unos cuatro días dejando suficiente espacio para hacer una parada cuando a una le apetece y sin estrés. Seguid leyendo todas las pistas porque esta ciudad os va a encantar.
 
-![Paseando por Glockenbachviertel. © Dagmar Schwelle](https://fotos.etheriamagazine.com/2026/02/munich-viaje-amigas.jpg)
+![Paseando por Glockenbachviertel. © DZT/Dagmar Schwelle](https://fotos.etheriamagazine.com/2026/02/munich-viaje-amigas.jpg)
 
 Múnich no suele estar entre los primeros destinos que se proponen para una **escapada entre amigas**, y quizá por eso funciona tan bien. No promete una agenda inabarcable, pero cuando llegas descubres una ciudad cómoda, bonita y sorprendentemente fácil de visitar, que va a gustar a la amiga apasionada por la arquitectura, a la que le encanta comer, a la enamorada de la historia, a la que quiere verlo todo y no perderse nada y a la que solo busca una escapada para descansar unos días. 
 
@@ -76,7 +76,7 @@ Esta relación tan natural con la cerveza se hace especialmente visible durante 
 Si os apetece ampliar el viaje, cambiar de escenario o hacer una excursión sin complicaciones, el **lago Starnberg** es una escapada perfecta para cerrar vuestro viaje de amigas. A menos de 30 minutos en tren, ofrece agua, calma y un paisaje ideal para cualquier época del año. En los meses de más frío, pasear por la orilla o simplemente sentarse frente al lago es una forma sencilla de añadir naturaleza al viaje. En verano, no olvidéis vuestra ropa de baño, porque nadar en el lago rodeadas de montañas es una de las mejores postales que os dejará este viaje.
 
 **Texto: Andrea Gómez**
-**Fotos: Turismo de Alemania**
+**Fotos: © Turismo de Alemania/ DZT/Dagmar Schwelle**
 
 ## Guía práctica de Múnich con amigas
 
