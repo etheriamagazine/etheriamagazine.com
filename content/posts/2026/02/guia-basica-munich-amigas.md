@@ -75,26 +75,29 @@ Esta relación tan natural con la cerveza se hace especialmente visible durante 
 
 Si os apetece ampliar el viaje, cambiar de escenario o hacer una excursión sin complicaciones, el **lago Starnberg** es una escapada perfecta para cerrar vuestro viaje de amigas. A menos de 30 minutos en tren, ofrece agua, calma y un paisaje ideal para cualquier época del año. En los meses de más frío, pasear por la orilla o simplemente sentarse frente al lago es una forma sencilla de añadir naturaleza al viaje. En verano, no olvidéis vuestra ropa de baño, porque nadar en el lago rodeadas de montañas es una de las mejores postales que os dejará este viaje.
 
-**Texto: Andrea Gómez**
-**Fotos: © Turismo de Alemania/ DZT/Dagmar Schwelle**
-
 ## Guía práctica de Múnich con amigas
 
-**Cómo llegar**
+### Cómo llegar
 Múnich cuenta con un aeropuerto internacional con buenas conexiones desde España. El **tren S-Bahn** conecta directamente el aeropuerto con el centro en unos 40 minutos. Otra opción es el **autobús express** de la compañía Lufthansa que lleva directamente a la estación central sin importar la aerolínea con la que se viaja.
 
-**Cómo moverse**
+### Cómo moverse
 Lo mejor para moverse por Múnich es el **U-Bahn**, como se conoce al metro (descargad la app oficial de transporte DB Navigator para los tickets y conocer las mejores rutas) o en bicicleta, que se alquilan por minutos a través de la app MGV. 
 
-**Dónde dormir**
+### Dónde dormir
 Altstadt-Lehel es la zona perfecta para una primera visita y donde más hoteles encontraréis. Para un alojamiento más alejado de los puntos más turísticos pero con ambiente animado y cultural, optad por Glockenbachviertel o Maxvorstadt.
 
-**Dónde comer**
+### Dónde comer
 Viktualienmarkt o cualquier *biergarten* urbano son la opción perfecta para comidas informales. Para comidas más pausadas, optad por una clásica taberna como Bratwurstherzl o el recientemente renovado Haxengrill. 
 
-**Algunos tips útiles para mujeres**
+### Algunos tips útiles para mujeres
 Múnich es una ciudad muy segura, incluso de noche. El transporte público es fácil de usar, aunque lo mejor es caminar, por lo que es imprescindible calzado cómodo. La ciudad es ideal para un viaje sin prisas en el que no quieras abarcar todo pero sí adentrarte en la cultura alemana.
 
 **También os puede interesar...**
 
 {{< reflink historias-mujeres-lola-montes-una-falsa-espanola-en-la-corte-de-baviera >}}.
+
+
+
+**Firmas invitadas**
+
+**Andrea Gómez** es periodista y colaboradora de diversos medios turísticos. Escribe sobre experiencias personales de viajes y análisis de las tendencias y desafíos actuales del turismo. 
