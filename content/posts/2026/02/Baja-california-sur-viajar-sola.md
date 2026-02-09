@@ -86,7 +86,7 @@ Esta playa tiene un acceso controlado por horarios que funciona con dos turnos d
 
 En este trayecto cruzarás la península de lado a lado. En poco más de una hora pasarás del Mar de Cortés al Océano Pacífico.
 
-Todos Santos se desarrolló alrededor de la **Misión de Nuestra Señora del Pilar de La Paz de Airapí,** en el siglo XVIII, pero se reinventó como un Pueblo Mágico con estética *hippie-chic,* donde galerías, cafés y edificios históricos conviven con leyendas como la del **Hotel California**, que asegura que Don Henley del grupo musical “The Eagles” fue inspirado allí para escribir su canción homónima.
+Todos Santos se desarrolló alrededor de la **Misión de Santa Rosa de las Palmas de Todos Santos,** fundada en 1733, pero se reinventó como un Pueblo Mágico con estética *hippie-chic,* donde galerías, cafés y edificios históricos conviven con leyendas como la del **Hotel California**, que asegura que Don Henley del grupo musical “The Eagles” fue inspirado allí para escribir su canción homónima.
 
 Disfruta de su ambiente bohemio un día completo y, si eres amante del surf, déjate llevar por las imponentes olas del Pacífico en **Playa Cerritos** o **Playa San Pedrito**.
 
