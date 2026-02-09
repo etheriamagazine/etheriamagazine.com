@@ -6,7 +6,7 @@ categories:
   - estilo-de-vida
   - cultura
 authors:
-  - susana-garcía
+  - Susana García
 ---
 En este artículo te proponemos un recorrido de dos horas por el Museo Thyssen-Bornemisza de Madrid que destaca algunas de sus obras principales en un paseo que abarca siete siglos de historia del arte. Una visión rápida de una de las colecciones artísticas más excepcionales del mundo, que es perfecta tanto para las viajeras que visitan Madrid como para las residentes en esta ciudad que vayan a realizar su primera visita a este museo.
 

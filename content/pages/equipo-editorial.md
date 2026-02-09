@@ -4,7 +4,7 @@ layout: equipo
 params:
   directoras:
     - Pepa G. Marín
-    - susana-garcía
+    - Susana García
   colaboradoras: 
     - Yolanda Cardo
     - Manena Munar
