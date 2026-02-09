@@ -1,6 +1,6 @@
 ---
 title: "Road trip para viajar sola a Baja California Sur y ver los mejores atardeceres de tu vida"
-date: 2026-02-10
+date: 2026-02-13
 cover: https://fotos.etheriamagazine.com/2026/02/Baja-california-sur-Oasis-de-Mulege.jpg
 categories: 
   - viajar-sola
