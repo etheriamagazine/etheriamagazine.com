@@ -32,7 +32,7 @@ el sector editorial, se centra en las necesidades de la mujer viajera.
 La carpeta [content](./content) tiene todos los artículos y textos publicados en
 [Etheria Magazine](https://etheriamagazine.com) desde 2018. 
 
-Originariamente en un sistema Wordpress, se han exportado a formato [Markdown]
+Originariamente en un sistema WordPress, se han exportado a formato [Markdown]
 para poder publicarlos mediante una herramienta de generación de sitios
 estáticos como [Hugo]. Todo el proceso de publicación se dispara desde este
 repositorio y se automatiza gracias a [GitHub Actions].
