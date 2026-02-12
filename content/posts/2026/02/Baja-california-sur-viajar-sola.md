@@ -1,6 +1,6 @@
 ---
 title: "Road trip para viajar sola a Baja California Sur y ver los mejores atardeceres de tu vida"
-date: 2026-02-13
+date: 2026-02-11
 cover: https://fotos.etheriamagazine.com/2026/02/Baja-california-sur-Oasis-de-Mulege.jpg
 categories: 
   - viajar-sola
@@ -28,15 +28,15 @@ Nada más aterrizar (y muy probablemente con *jetlag*), puedes dedicarte a conoc
 
 ![Misión de Loreto. © Azucena Pacheco](https://fotos.etheriamagazine.com/2026/02/Baja-california-sur-Mision-de-Loreto.jpg)
 
-Este mar interior, sereno y pletórico de especies animales y vegetales, fue bautizado por el oceanógrafo francés Jacques Cousteau como “el Acuario del Mundo”, porque tiene la mayor biodiversidad del planeta, con la que podrás convivir si te atreves a sumergirte entre sus aguas.
+Este mar interior, sereno y pletórico de especies animales y vegetales, fue bautizado por el oceanógrafo francés Jacques Cousteau como "el Acuario del Mundo", porque tiene la mayor biodiversidad del planeta, con la que podrás convivir si te atreves a sumergirte entre sus aguas.
 
-Pero Loreto no es la mejor opción para ello. Aquí te recomendamos admirar desde la orilla, o si quieres actividad, navegar en kayak o *paddleboard*. También es ideal para aclimatarte al ritmo de *La Baja*: lento, contemplativo y profundamente ligado a la naturaleza. Con un día podrás recorrer los principales lugares de esta ciudad. 
+Pero Loreto no es la mejor opción para ello. Aquí te recomendamos admirar desde la orilla, o si quieres actividad, navegar en kayak o *paddleboard*. También es ideal para aclimatarte al ritmo de *La Baja*: lento, contemplativo y profundamente ligado a la naturaleza. En un día podrás recorrer los principales lugares de esta ciudad. 
 
 **Dónde comer:** [Orlando’s](https://maps.app.goo.gl/wMXnueq5tuVoRc2n9) es famoso por sus ostiones rasurados, la especialidad local, acompañados con salsas caseras. 
 
 **Dónde dormir:** [Hotel Oasis](https://maps.app.goo.gl/mrewACLd2BKcyL9X8), frente al malecón y a unos pasos de la playa, el centro y la misión.
 
-## Mulegé desde Loreto: del mar al oasis 
+## Mulegé desde Loreto, del mar al oasis 
 
 **Distancia: 135 km.** **Tiempo de conducción: 2–2.5 horas.** **Carretera: Federal 1, rumbo norte.**
 
@@ -44,7 +44,7 @@ Mulegé es la única localidad que queda al norte de Loreto, así que para visit
 
 ![Oasis de Mulegé. © Azucena Pacheco](https://fotos.etheriamagazine.com/2026/02/Baja-california-sur-Oasis-de-Mulege.jpg)
 
-El río Mulegé durante siglos fue refugio indígena, asentamiento misional y campo improbable de una batalla que no se libró durante la Revolución Mexican, gracias a la astucia de sus pobladores.
+El río Mulegé durante siglos fue refugio indígena, asentamiento misional y campo improbable de una batalla que no se libró durante la Revolución Mexicana, gracias a la astucia de sus pobladores.
 
 Simplemente recuéstate a recuperarte en playa **El Requesón** o **El Burro**, con una cervecita en la mano, y aprecia tu primer atardecer glorioso.
 
@@ -80,13 +80,13 @@ Esta playa tiene un acceso controlado por horarios que funciona con dos turnos d
 
 ![Playa Balandra. © Azucena Pacheco](https://fotos.etheriamagazine.com/2026/02/Baja-california-sur-Playa-Balandra.jpg)
 
-## De La Paz a Todos Santos: del Mar de Cortés al Océano Pacífico
+## De La Paz a Todos Santos, del mar de Cortés al océano Pacífico
 
 **Distancia: 80 km**. **Tiempo de conducción: 1–1.5 horas**. **Carretera: Federal 1, rumbo sur.**
 
-En este trayecto cruzarás la península de lado a lado. En poco más de una hora pasarás del Mar de Cortés al Océano Pacífico.
+En este trayecto cruzarás la península de lado a lado. En poco más de una hora pasarás del mar de Cortés al océano Pacífico.
 
-Todos Santos se desarrolló alrededor de la **Misión de Santa Rosa de las Palmas de Todos Santos,** fundada en 1733, pero se reinventó como un Pueblo Mágico con estética *hippie-chic,* donde galerías, cafés y edificios históricos conviven con leyendas como la del **Hotel California**, que asegura que Don Henley del grupo musical “The Eagles” fue inspirado allí para escribir su canción homónima.
+Todos Santos se desarrolló alrededor de la **Misión de Nuestra Señora del Pilar de Todos Santos,** fundada en 1733, pero se reinventó como un Pueblo Mágico con estética *hippie-chic,* donde galerías, cafés y edificios históricos conviven con leyendas como la del **Hotel California**, que asegura que Don Henley del grupo musical “The Eagles” fue inspirado allí para escribir su canción homónima.
 
 Disfruta de su ambiente bohemio un día completo y, si eres amante del surf, déjate llevar por las imponentes olas del Pacífico en **Playa Cerritos** o **Playa San Pedrito**.
 
@@ -122,7 +122,7 @@ Te recomendamos acampar bajo las estrellas o recurrir a plataformas de alquiler 
 
 **Distancia: 95 km**. **Tiempo de condución: 2 horas.** **Carretera: caminos locales hasta la Federal 1**.
 
-San José del Cabo conserva su alma histórica alrededor de la **Misión de San José del Cabo Añuití,** fundada en 1730. Más tranquilo que su vecino San Lucas, combina un pueblecito pintoresco con galerías de arte, hoteles boutique, gastronomía internacional y playas paradisiacas, como **Palmilla**, la más popular para nadar, o **Acapulquito**, ideal para surfear. Aquí es el punto donde el Mar de Cortés y el Océano Pacifico se unen... y se nota. 
+San José del Cabo conserva su alma histórica alrededor de la **Misión de San José del Cabo Añuití,** fundada en 1730. Más tranquilo que su vecino San Lucas, combina un pueblecito pintoresco con galerías de arte, hoteles boutique, gastronomía internacional y playas paradisiacas, como **Palmilla**, la más popular para nadar, o **Acapulquito**, ideal para surfear. Aquí es el punto donde el mar de Cortés y el océano Pacifico se unen... y se nota. 
 
 Ya llegaste a Los Cabos. Ahora sólo depende de ti si hospedarte en un hotelito encantador, pero sin pretensiones, en San José del Cabo, o acceder al lujo pomposo y vida nocturna desmesurada de Cabo San Lucas. Las posibilidades en ambos destinos son infinitas. 
 
@@ -134,7 +134,7 @@ El **Corredor Turístico Los Cabos** conecta San José del Cabo con Cabo San Luc
 
 ![El Arco marca donde el Océano Pacífico y el Mar de Cortés se unen en el Cabo San Lucas. © Azucena Pacheco](https://fotos.etheriamagazine.com/2026/02/Baja-california-sur-Cabo-San-Lucas-arco.jpg)
 
-**Cabo San Lucas**, el *finisterra* de Cortés y antiguo refugio de piratas, es el final del viaje. Navega hacia su famoso **Arco de piedra,** en la **Playa del Amor,** donde en el lado este se encuentra el Mar de Cortés y en el oeste, el Océano Pacífico. Para visitarlo, toma un tour desde la Marina de Cabo San Lucas.
+**Cabo San Lucas**, el *finisterra* de Cortés y antiguo refugio de piratas, es el final del viaje. Navega hacia su famoso **Arco de piedra,** en la **Playa del Amor,** donde en el lado este se encuentra el mar de Cortés y en el oeste, el océano Pacífico. Para visitarlo, toma un tour desde la Marina de Cabo San Lucas.
 
 Este arco marca el cierre perfecto de una travesía que comenzó con historia, paisajes y atardeceres alucinantes entre ambos mares. Desiertos, ciudades y poblados que han aprendido a vivir en armonía con un territorio extremo pero fascinante.
 
@@ -142,7 +142,7 @@ Este arco marca el cierre perfecto de una travesía que comenzó con historia, p
 
 ### Cómo llegar
 
-Tanto si llegas por el Aeropuerto Internacional de Loreto (LTO) o por el Aeropuerto Internacional de La Paz (LAP), podrás tomar un vuelo de conexión desde México en Ciudad de México (AICM), Guadalajara (GDL) o Tijuana (TIJ); o desde Estados Unidos, desde Los Ángeles (LAX), Dallas/Fort Worth (DFW), o Phoenix (PHX). Desde el aeropuerto de San José del Cabo (SJD) puedes elegir vuelos hacia prácticamente todo México, gran parte de Estados Unidos y a Frankfurt.
+Tanto si llegas por el Aeropuerto Internacional de Loreto (LTO) o por el Aeropuerto Internacional de La Paz (LAP), podrás tomar un vuelo de conexión desde México en Ciudad de México (AICM), Guadalajara (GDL) o Tijuana (TIJ); o desde Estados Unidos, desde Los Ángeles (LAX), Dallas/Fort Worth (DFW), o Phoenix (PHX). Desde el aeropuerto de San José del Cabo (SJD) puedes elegir vuelos hacia prácticamente todo México, gran parte de Estados Unidos o incluso  Frankfurt.
 
 ### Cómo moverse
 
