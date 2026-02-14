@@ -1,18 +1,15 @@
 ---
-title: "Omán se tiñe de rosa cada primavera"
-date: 2026-02-20
+title: "Omán se viste de rosa cada primavera"
+date: 2026-02-21
 cover: https://fotos.etheriamagazine.com/2026/02/oman-floracion-portada.jpg
 categories: 
-
-viajar-con-amigas
+  - viajar-con-amigas
 tags: 
-
-mundo
+  - mundo
 authors:
-
   - Redacción Etheria
 
-    
+---
 
 La recolección de las rosas de Jabal Akhdar no es simplemente una atracción turística que brinda buenas fotos a creadores de contenido. Es una invitación a viajar a Omán de otra manera, con los sentidos abiertos y dejando que este lugar te cuente quién es a través de sus aromas, su luz y su día a día. 
 
