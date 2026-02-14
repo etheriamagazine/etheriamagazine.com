@@ -45,7 +45,7 @@ Pero si hay un lugar que resume bien la elegancia de Múnich, ese es el **Palaci
 
 ## Verde, agua y vida al aire libre
 
-Uno de los grandes aciertos de Múnich es cómo integra la naturaleza en la ciudad. El **Englischer Garten** no es solo un parque, es un escenario cotidiano y un punto de encuentro de los locales que lo disfrutan por igual tanto cuando nieva y desaparece el verde como cuando sale el sol y se lanzan a bañarse al río. Aquí se pasea, se lee, se juega al voleibol y… ¡se surfea! Da igual el momento del año en que paséis por la Eisbachwelle que siempre encontraréis a algún valiente desafiando la corriente.
+Uno de los grandes aciertos de Múnich es cómo integra la naturaleza en la ciudad. El **Englischer Garten** no es solo un parque, es un escenario cotidiano y un punto de encuentro de los locales que lo disfrutan por igual tanto cuando nieva y desaparece el verde como cuando sale el sol y se lanzan a bañarse al río. Aquí se pasea, se lee, se juega al voleibol y… ¡se surfea! Da igual el momento del año en que paséis por la **Eisbachwelle** que siempre encontraréis a algún valiente desafiando la corriente. *Al menos hasta ahora, porque una reciente limpieza del fondo del arroyo impide la creación de la ola*.
 
 Tras un largo paseo (no pretendáis recorrer el parque entero, es inabarcable y se extiende de una punta a otra de la ciudad), no hay nada que apetezca más que sentarse en una de sus populares terrazas conocidas como **biergarten**. La que está bajo la Chinesisterm Turm (o Torre China) es perfecta para una breve parada en la que también podréis experimentar algo muy típico de estas terrazas: aquí las mesas siempre se comparten, así que tal vez volváis del viaje habiendo ampliado el grupo de amigas.
 
