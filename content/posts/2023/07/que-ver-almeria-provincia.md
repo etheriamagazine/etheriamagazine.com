@@ -257,9 +257,6 @@ se celebran espectáculos con cowboys y se puede ver un zoo con algunos animales
 te podrás disfrazar con atuendos típicos de los _western_. Una experiencia muy divertida 
 si viajas en familia o con un grupo de amigos. 
 
-📍 [Excursión a Tabernas y Fort 
-Bravo](https://www.civitatis.com/es/almeria/excursion-desierto-tabernas/?aid=10211). 
-
 ### Cuevas de Sorbas
 
 Las cuevas de Sorbas son uno de los complejos cársticos más importantes de Europa y se 
