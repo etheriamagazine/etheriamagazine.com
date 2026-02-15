@@ -27,13 +27,7 @@ alta, lo que permite hacer una ruta, casi en soledad, por esas carreteras infini
 atraviesan el Cabo de Gata o disfrutar de las tapas de la capital. El propósito en este 
 artículo es contarte qué ver en Almería y que disfrutes de esta provincia y sus 
 singulares paisajes sin pizca de estrés. Aprovecha también la amplia información de 
-Almería que contiene la guía de [Barceló 
-Experiences](https://www.barcelo.com/guia-turismo/es/espana/almeria/que-ver/almeria-provincia/), 
-con decenas de escapadas para organizar tus vacaciones. Y si los días de viaje se 
-alargan no estaría de más continuar visitando las [playas de la Costa 
-Tropical](https://www.barcelo.com/guia-turismo/es/espana/granada/que-ver/playas-costa-tropical/) 
-de la provincia de Granada. ¡Con todos estos consejos disfrutar en estas provincias 
-andaluzas está garantizado! 
+Almería que contiene la guía de [Barceló Experiences](https://www.barcelo.com/guia-turismo/es/espana/almeria/que-ver/almeria-provincia/), con decenas de escapadas para organizar tus vacaciones. Y si los días de viaje se alargan no estaría de más continuar visitando las[playas de la Costa Tropical](https://www.barcelo.com/guia-turismo/es/espana/granada/que-ver/playas-costa-tropical/) de la provincia de Granada. ¡Con todos estos consejos disfrutar en estas provincias andaluzas está garantizado! 
 
 ## 6 visitas imprescindibles en Almería
 
