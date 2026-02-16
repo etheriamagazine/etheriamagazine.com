@@ -155,12 +155,9 @@ intachable del complejo a orillas del mar es el El Centro de Arte Contemporáneo
 
 ## Visitas guiadas en Marsella
 
-- [Free tour a 
-Marsella](https://www.civitatis.com/es/marsella/free-tour-marsella/?aid=10211). Gratis. 
+- [Free tour a Marsella](https://www.civitatis.com/es/marsella/free-tour-marsella/?aid=10211). Gratis. 
 
-- [Free tour por el centro de 
-Marsella](https://www.civitatis.com/es/marsella/tour-centro-marsella/?aid=10211). 
-Gratis. 
+  
 
 **Sigue leyendo:** 
 
