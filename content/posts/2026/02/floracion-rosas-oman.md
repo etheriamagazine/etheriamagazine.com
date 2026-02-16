@@ -1,6 +1,6 @@
 ---
 title: "Omán se viste de rosa cada primavera"
-date: 2026-02-21
+date: 2026-02-16
 cover: https://fotos.etheriamagazine.com/2026/02/oman-floracion-portada.jpg
 categories: 
   - viajar-con-amigas
@@ -43,7 +43,7 @@ Hay algo más que sucede cuando eliges visitar **Jabal Akhdar en primavera**, y 
 
 ## Omán, mucho más que rosas
 
-Si la temporada de rosas te abre la puerta a Omán, prepárate para no querer salir. El país ofrece una diversidad de paisajes que pocos destinos pueden ofrecer: desiertos de dunas doradas, wadis de aguas turquesas escondidos entre cañones de roca, playas de arena blanca donde las tortugas anidan al atardecer, y una ruta montañosa donde realizar trekking de altura. A eso se suma un legado histórico reconocido por la Unesco y una hospitalidad que, lejos de ser un tópico, es una filosofía de vida.
+Si la temporada de rosas te abre la puerta a Omán, prepárate para no querer salir. El país ofrece una diversidad de paisajes que pocos destinos pueden ofrecer: desiertos de dunas doradas, wadis de aguas turquesas escondidos entre cañones de roca, playas de arena blanca donde las tortugas anidan al atardecer y una ruta montañosa donde realizar trekking de altura. A eso se suma un legado histórico reconocido por la Unesco y una hospitalidad que, lejos de ser un tópico, es una filosofía de vida.
 
 **También te puede interesar...**
 
