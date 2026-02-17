@@ -9,7 +9,7 @@ tags:
 authors:
   - Redacción Etheria
 ---
-Sant Josep de sa Talaia se calza las zapatillas de running para presentar el Campeonato de España de 10K, que tendrá lugar el próximo 15 de febrero en el marco del 10K Ibiza-Platja d’en Bossa, una de las carreras más rápidas de España cuyo circuito pone en valor la riqueza paisajística de la isla. Aprovechamos este evento para contarte por qué esta preciosa localidad de Ibiza es una excelente elección si estás buscando un destino para realizar un viaje con tus amigas más deportistas.
+Sant Josep de sa Talaia se calza las zapatillas de running para presentar el Campeonato de España de 10K, que tendrá lugar en el marco del 10K Ibiza-Platja d’en Bossa, una de las carreras más rápidas de España cuyo circuito pone en valor la riqueza paisajística de la isla. Aprovechamos para contarte por qué esta preciosa localidad de Ibiza es una excelente elección si estás buscando un destino para realizar un viaje con tus amigas más deportistas.
 
 ![Playa de Ses Salines. © Sant Josep de sa Talaia](https://fotos.etheriamagazine.com/2026/01/sant-josep-sa-talaia-Platja-de-ses-Salines.jpg)
 
