@@ -34,7 +34,7 @@ con los más pequeños en [Tokio]({{% ref que-hacer-3-dias-en-tokio-viajes-mujer
 segura porque se hace en frío. Después, podréis degustar vuestras elaboraciones. Muy 
 cerca de una de sus sedes está el **mercado de Tsukiji** donde, además de poder seguir comiendo sushi, 
 podréis comprar los instrumentos de cocina necesarios para elaborarlo cuando volváis a 
-casa. También podéis reservar la experiencia de una clase de sushi con Civitatis: [Taller de sushi en Tokio]([https://www.civitatis.com/ar/tokio/taller-sushi-tokio/?aid=10211). 
+casa. También podéis reservar la experiencia de una clase de sushi con Civitatis: [Taller de sushi en Tokio](https://www.civitatis.com/ar/tokio/taller-sushi-tokio/?aid=10211). 
 
 ![Sushi en Tokio](https://fotos.etheriamagazine.com/2019/11/japon-clase-sushi.jpg "Clase de sushi en Tokio. © Susana García")
 
