@@ -103,7 +103,7 @@ marítimo encontraréis escuelas de surf con clases para todas las edades, campa
 verano y paquetes personalizados para familias. 
 
 Más información en la web oficial de [Las Palmas de Gran 
-Canaria](https://lpavisit.com/)[.](http://www.LPAvisit.com) 
+Canaria](https://lpavisit.com/)
 
 **También en Etheria Magazine** 
 
