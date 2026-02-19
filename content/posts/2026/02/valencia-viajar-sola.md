@@ -105,13 +105,15 @@ Entre las visitas culturales, un viaje a Valencia permite tomar oxígeno en los 
 
  ### Jardines del Turia
 
-Para dedicar un rato a pasear entre árboles, en Valencia no hay nada mejor que los Jardines del Turia, el gran pulmón verde de Valencia. Ocupan el antiguo cauce del río Turia, que fue desviado del centro de la ciudad por cuestiones de seguridad tras una gran riada que tuvo lugar en 1957. En sus nueve kilómetros se pasa por iconos arquitectónicos como los puentes de Serranos o de la Trinidad, zonas de juegos, campos de fútbol y espacios donde descansar entre palmeras, naranjos y pinos. Puedes recorrer a pie cualquier tramo o hacer una ruta más larga en bicicleta. El sistema público de alquiler de bicicletas se llama [Valenbisi](https://www.valenbisi.es/es/home) y cuenta con varias estaciones en toda la ciudad. 
+Para dedicar un rato a pasear entre árboles, en Valencia no hay nada mejor que los Jardines del Turia, el gran pulmón verde de Valencia. Ocupan el antiguo cauce del río Turia, que fue desviado del centro de la ciudad por cuestiones de seguridad tras una gran riada que tuvo lugar en 1957 y que en los años ochenta fue transfornado en los jardines que conocemos hoy en día. En sus nueve kilómetros se pasa por iconos arquitectónicos como los puentes de Serranos o de la Trinidad, zonas de juegos, campos de fútbol y espacios donde descansar entre palmeras, naranjos y pinos. Puedes recorrer a pie cualquier tramo o hacer una ruta más larga en bicicleta. El sistema público de alquiler de bicicletas se llama [Valenbisi](https://www.valenbisi.es/es/home) y cuenta con varias estaciones en toda la ciudad. 
 
 ![Jardines del Turia. © Susana García](https://fotos.etheriamagazine.com/2026/02/valencia-jardines-turia.jpg)
 
 ### La Ciudad de las Artes y las Ciencias
 
 En el tramo final de los Jardines del Turia se encuentra la Ciudad de las Artes y las Ciencias de Valencia, el popular complejo de arquitectura futurista que cambió para siempre el perfil de la ciudad con la llegada del tercer milenio. Diseñada por Santiago Calatrava y Félix Candela, ofrece un paseo en el que no podrás dejar de hacer fotos entre pasarelas y jardines acompañada por los reflejos del agua de sus fuentes y estanques. 
+
+![Oceanogràfic de Valencia. © Susana García](https://fotos.etheriamagazine.com/2026/02/valencia-oceanografic.jpg)
 
 En sus distintos espacios combina divulgación científica, cultura y ocio. Destacan el **Museo de las Ciencias Príncipe Felipe**, que despliega tres plantas interactivas donde la física, la biología y la tecnología son las protagonistas; y el **Oceanogràfic**, el mayor acuario de Europa, donde túneles submarinos y hábitats árticos, tropicales o mediterráneos permiten un viaje marino sin salir de la ciudad. 
 
