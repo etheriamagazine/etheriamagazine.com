@@ -8,7 +8,6 @@ tags:
   - españa
 authors:
   - Susana García
-
 ---
 
 Viajar sola a Valencia es un auténtico placer. A la experiencia de conocer la Ciutat Vella, que agrupa el casco antiguo y que está repleta de hitos arquitectónicos y artísticos, se suma la comodidad y la facilidad de recorrerla por tu cuenta. En este artículo te contamos por qué Valencia es perfecta para disfrutarla a tu aire y por qué es un destino estupendo para un primer viaje contigo misma. 
