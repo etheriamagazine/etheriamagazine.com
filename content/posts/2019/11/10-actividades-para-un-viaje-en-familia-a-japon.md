@@ -1,6 +1,7 @@
 ---
 title: "10 actividades para un viaje en familia a Japón"
-date: 2026-02-18
+date: 2019-11-21
+lastmod: 2026-02-18
 cover: https://fotos.etheriamagazine.com/2019/11/casa-samurai.jpg
 categories: 
   - viajar-en-familia
