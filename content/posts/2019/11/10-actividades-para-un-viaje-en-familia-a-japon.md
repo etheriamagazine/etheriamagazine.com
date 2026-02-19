@@ -1,6 +1,7 @@
 ---
 title: "10 actividades para un viaje en familia a Japón"
 date: 2019-11-21
+lastmod: 2026-02-18
 cover: https://fotos.etheriamagazine.com/2019/11/casa-samurai.jpg
 categories: 
   - viajar-en-familia
@@ -15,7 +16,7 @@ cualquier edad. Ofrece también actividades para realizar con los más pequeños
 entorno seguro y limpio en casi cualquier cosa que decidas hacer. Te proponemos 10 
 planes para disfrutar con niños del país nipón. 
 
-![Mujer y niña con traje tradicional japonés](https://fotos.etheriamagazine.com/2019/11/Japon-paseo-kimono.jpg "Fotos con kimonos en el Jardín Kenrokuen de Kanazawa. © SG")
+![Mujer y niña con traje tradicional japonés](https://fotos.etheriamagazine.com/2019/11/Japon-paseo-kimono.jpg "Fotos con kimonos en el Jardín Kenrokuen de Kanazawa. © Susana García")
 
 Elegir Japón para un viaje en familia es una excelente opción y merece ser preparado con 
 detalle tal y como os contamos en nuestro artículo [5 recomendaciones para preparar un 
@@ -29,16 +30,14 @@ familia, aunque seguro que cuando viajes descubres muchas más.
 ### 1\. Aprender a hacer sushi en Tokio
 
 En Japón probarás un delicioso sushi en prácticamente todas partes. Una buena actividad 
-con los más pequeños en [Tokio]({{% ref que-hacer-3-dias-en-tokio-viajes-mujeres %}}) es 
-asistir a una clase para elaborar los distintos tipos de bocados que conocemos como 
-sushi: sashimi, makis y temakis. La clase es muy divertida (puedes reservarla en la 
-**Tokio Sushi Academy**: www.sushimaking.tokyo) porque todo se manipula con las manos, y 
+con los más pequeños en [Tokio]({{% ref que-hacer-3-dias-en-tokio-viajes-mujeres %}}) es asistir a una clase para elaborar los distintos tipos de bocados que conocemos como sushi: sashimi, makis y temakis. La clase es muy divertida (puedes reservarla en la 
+[Tokio Sushi Academy)](https://www.sushischool.jp/) porque todo se manipula con las manos, y 
 segura porque se hace en frío. Después, podréis degustar vuestras elaboraciones. Muy 
-cerca está el **mercado de Tsukiji** donde, además de poder seguir comiendo sushi, 
-podréis comprar los artilugios de cocina necesarios para elaborarlo cuando volváis a 
-casa. 
+cerca de una de sus sedes está el **mercado de Tsukiji** donde, además de poder seguir comiendo sushi, 
+podréis comprar los instrumentos de cocina necesarios para elaborarlo cuando volváis a 
+casa. También podéis reservar la experiencia de una clase de sushi con Civitatis: [Taller de sushi en Tokio](https://www.civitatis.com/ar/tokio/taller-sushi-tokio/?aid=10211). 
 
-![Sushi en Tokio](https://fotos.etheriamagazine.com/2019/11/japon-clase-sushi.jpg "Clase de sushi en Tokio. © SG")
+![Sushi en Tokio](https://fotos.etheriamagazine.com/2019/11/japon-clase-sushi.jpg "Clase de sushi en Tokio. © Susana García")
 
 ### 2\. Vestir un kimono tradicional y pasear por Kanazawa
 
@@ -52,7 +51,9 @@ peinarán en un momento con un recogido tradicional. A continuación, lo mejor e
 paseo por el cercano y precioso **Jardín Kenrokuen**, repleto de escenarios donde 
 tomarse fotos. 
 
-![Traje tradicional japonés](https://fotos.etheriamagazine.com/2019/11/japon-kimono-kanazawa.jpg "Fotos en el Jardín Kenrokuen y detalle de peinado. © SG")
+Esta experiencia puedes vivirla también en Tokio en el barrio de Asakusa con la actividad de Civitatis [Alquiler de kimono en Tokio](https://www.civitatis.com/ar/tokio/alquiler-kimono-tokio/?aid=10211).
+
+![Traje tradicional japonés](https://fotos.etheriamagazine.com/2019/11/japon-kimono-kanazawa.jpg "Fotos en el Jardín Kenrokuen y detalle de peinado. © Susana García")
 
 ### 3\. Hacer papel 'washi'
 
@@ -64,7 +65,7 @@ podéis llevar vuestras bonitas tarjetas decoradas. Cuentan también con una int
 tienda con objetos realizados con este tipo de papel: cuadros, bolsos, monederos, 
 lámparas... Un montón de opciones para llevarse un bonito recuerdo. 
 
-![elaboración de papel japonés](https://fotos.etheriamagazine.com/2019/11/Japon-hacer-washi.jpg "Clase de papel 'washi'. © SG")
+![elaboración de papel japonés](https://fotos.etheriamagazine.com/2019/11/Japon-hacer-washi.jpg "Clase de papel 'washi'. © Susana García")
 
 ### 4\. Alojarse en un ryokan
 
@@ -80,7 +81,7 @@ agua caliente). La gastronomía, al menos, les sorprenderá y, aunque es probabl
 sea el día que más cenen o desayunen del viaje, podrán aprender que la cocina japonesa 
 tiene muchas más especialidades aparte del sushi. 
 
-![cena tradicional japonesa](https://fotos.etheriamagazine.com/2019/11/Japon-ninos-ryokan.jpg "Cena y detalle del pasillo del ryokan Gora Kadan de Hakone. © SG")
+![cena tradicional japonesa](https://fotos.etheriamagazine.com/2019/11/Japon-ninos-ryokan.jpg "Cena y detalle del pasillo del ryokan Gora Kadan de Hakone. © Susana García")
 
 ### 5\. Jugar a videojuegos en el barrio de Akihabara (Tokio)
 
@@ -91,31 +92,27 @@ donde poder jugar a los más novedosos o a los más ‘retro’ tipo Arcade. Tam
 encontrarás tiendas de coleccionistas con todo tipo de tesoros. La más conocida es 
 **Super Potato**, que tiene un museo en su última planta. 
 
-![niños jugando a videojuegos en Japón](https://fotos.etheriamagazine.com/2019/11/Japon-akihabara.jpg "Barrio de Akihabara y juegos Arcade. © SG")
+Si quieres recorrerlo con una excursión organizada, Civitatis ofrece un [Free tour por Akihabara](https://www.civitatis.com/ar/tokio/free-tour-akihabara/?aid=10211). 
+
+![niños jugando a videojuegos en Japón](https://fotos.etheriamagazine.com/2019/11/Japon-akihabara.jpg "Barrio de Akihabara y juegos Arcade. © Susana García")
 
 ### 6\. Imbuirse en la cultura samurai
 
 Los guerreros samurai son probablemente los personajes históricos que más llamarán la 
-atención de los más pequeños. Para que conozcan más su cultura puedes llevarles al 
-[Museo Samurai de Tokio](https://www.samuraimuseum.jp/en/index.html), que se visita en 
-pequeños grupos acompañados por un guía que va explicando (en inglés) su modo de vida, 
-su forma de combatir y su indumentaria. También se puede visitar la [Casa Samurai 
-Nomura](http://www.nomurake.com) de Kanazawa, un delicado lugar que recrea una casa 
-tradicional samurai. 
+atención de los más pequeños. Aunque el [Museo Samurai de Tokio](https://www.samuraimuseum.jp/en/index.html), está cerrado en estos momentos se puede visitar la [Casa Samurai 
+Nomura](http://www.nomurake.com) de Kanazawa, un delicado lugar que recrea una casa tradicional samurai. 
 
-![Cultura samurai en Japón](https://fotos.etheriamagazine.com/2019/11/japon-samurais.jpg "Estanque de la Casa Samurai Nomura de Kanazawa y máscara en el Museo Samurai. © SG")
+![Cultura samurai en Japón](https://fotos.etheriamagazine.com/2019/11/japon-samurais.jpg "Estanque de la Casa Samurai Nomura de Kanazawa y máscara en el Museo Samurai. © Susana García")
 
 ### 7\. Decorar palillos con pan de oro en Kanazawa
 
 Una actividad entretenida y sencilla para que puedan realizarla incluso los más pequeños 
 es decorar unos palillos japoneses con pan de oro. Puede hacerse en **Kanazawa** en la 
 preciosa tienda [Bikazari 
-Asano](https://enkanazawa.hakuichi.co.jp/shop/kanazawa-asano.php), situada en el casco 
-histórico. Tendréis todo preparado cuando lleguéis, la actividad se desarrolla en menos 
-de una hora y podréis llevaros unos delicados palillos a casa. En esta tienda, además, 
+Asano](https://enkanazawa.hakuichi.co.jp/shop/kanazawa-asano.php), situada en el casco histórico. Tendréis todo preparado cuando lleguéis, la actividad se desarrolla en menos de una hora y podréis llevaros unos delicados palillos a casa. En esta tienda, además, 
 puedes comprar bonitos detalles de artesanía japonesa. 
 
-![palillos con pan de oro en Japón](https://fotos.etheriamagazine.com/2019/11/Japon-ninos-palillos-pan-oro.jpg "Clase para decorar palillos con pan de oro en Kanazawa. © SG")
+![palillos con pan de oro en Japón](https://fotos.etheriamagazine.com/2019/11/Japon-ninos-palillos-pan-oro.jpg "Clase para decorar palillos con pan de oro en Kanazawa. © Susana García")
 
 ### 8\. Cruzar en barco el lago Ashi y subir en teleférico al monte Komagatake (Hakone)
 
@@ -127,7 +124,7 @@ santuario sintoísta y caminos por donde se puede dar un paseo. Y al bajar puede
 en Lake Side Grill, un restaurante buffet que tiene también platos de cocina occidental 
 que encantarán a los más pequeños. 
 
-![Barco pirata en el lago Ashi.](https://fotos.etheriamagazine.com/2019/11/Japon-ninos-ashi.jpg "Barco pirata en el lago Ashi. © SG")
+![Barco pirata en el lago Ashi.](https://fotos.etheriamagazine.com/2019/11/Japon-ninos-ashi.jpg "Barco pirata en el lago Ashi. © Susana García")
 
 ### 9\. Divertirse con la cultura 'kawaii' en Tokio
 
@@ -138,7 +135,7 @@ las camisetas hasta los helados. Podréis haceros unas fotos ‘kawaii’ (al pr
 calle hay un sótano con fotomatones donde cabe toda la familia en los que podrás retocar 
 las fotos en este estilo y parecerte a un personaje de cómic japonés). 
 
-![fotos y helado en Tokio](https://fotos.etheriamagazine.com/2019/11/Japon-kawaii-fotos-helado.jpg "Mundo 'kawaii': fotomatón para grupos y helado. © SG")
+![fotos y helado en Tokio](https://fotos.etheriamagazine.com/2019/11/Japon-kawaii-fotos-helado.jpg "Mundo 'kawaii': fotomatón para grupos y helado. © Susana García")
 
 ### 10\. Dar de comer a los ciervos en Nara
 
@@ -147,11 +144,11 @@ ciervos en libertad que lo rodean, considerados 'mensajeros de los dioses'. Est�
 todas partes, persiguiendo a los turistas que pueden comprar una galletas en unos 
 puestos callejeros para darles de comer. A los niños les encantará poder ver y tocar 
 estos ciervos en libertad que parecen amaestrados. Puede que los niños más pequeños se 
-sientan intimidados porque los ciervos están tan acostumbrados a que les den comida que 
+sientan intimidados porque los ciervos, están tan acostumbrados a que les den comida que 
 incluso os pueden perseguir. Sólo hay que guardar la calma y darles despacio sus 
-galletas. Les encantarán. 
+galletas. Les encantarán. Puedes realizar una [Visita guiada de Nara](https://www.civitatis.com/ar/nara/visita-guiada-nara/?aid=10211) con Civitatis. 
 
-![chica alimentando a un ciervo](https://fotos.etheriamagazine.com/2019/11/Nara-ciervos.jpg "Ciervos en Nara. © SG")
+![´](https://fotos.etheriamagazine.com/2019/11/Nara-ciervos.jpg "Ciervos en Nara. © Susana García")
 
 **También te puede interesar:** 
 
