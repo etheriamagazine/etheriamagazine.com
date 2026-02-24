@@ -19,13 +19,13 @@ Hay islas en el mundo que precisan de largas explicaciones para atraer visitante
 
 ## Ponta Delgada, puerta de entrada a São Miguel
 
-Os proponemos comenzar el viaje en la capital de São Miguel, una pequeña ciudad de apenas treinta y cinco mil habitantes que recibe a los viajeros con una estética que recuerda a otras urbes portuguesas. Y lo hace como si el tiempo bajara de revoluciones en décimas de segundo. A su recoleto casco histórico se entra oficialmente por las **Portas da Cidade**, un enorme arco de piedra oscura frente al océano que parece decir que, a partir de ahí, podéis deambular a vuestro gusto. 
+Os proponemos comenzar el viaje en la capital de São Miguel, una pequeña ciudad de apenas treinta y cinco mil habitantes que recibe a los viajeros con una estética que recuerda a otras urbes portuguesas. Y lo hace como si el tiempo bajara de revoluciones en décimas de segundo. A su coqueto casco histórico se entra oficialmente por las **Portas da Cidade**, un enorme arco de piedra oscura frente al océano que parece decir que, a partir de ahí, podéis deambular a vuestro gusto. 
 
 En el paseo siempre una constante: las casas blancas, la calzada empedrada portuguesa, el basalto negro y las iglesias que cuentan la historia de un puerto que movió el comercio del Atlántico durante siglos. Uno de sus templos más imponentes es la **iglesia matriz de São Sebastião**. Observad con calma desde el exterior sus detalles barrocos, góticos y manuelinos mientras tomáis algo en una de las terrazas situadas al otro lado de la plaza, pero entrad en su interior porque merece la pena. 
 
 ![Iglesia matriz de São Sebastião. © Pepa García ](https://fotos.etheriamagazine.com/2026/02/azores-sao-miguel-iglesia-sao-sebastian.jpg)
 
-También encontraréis sin pretenderlo la **iglesia de São Pedro**, el **Museo de Carlos Machado**, la **torre Sineira** (podéis subir para admirar las vistas) y, cómo no, el Mercado da Graça con su pescado, potentes quesos isleños, frutas tropicales con sabores intensos debido a la temperatura de la tierra en la que se cultivan. El jardín botánico y el puerto son otros lugares transitados por propios y extraños que también invitan al paseo.
+También encontraréis sin pretenderlo la **iglesia de São Pedro**, el **Museo de Carlos Machado**, la **torre Sineira** (podéis subir para admirar las vistas) y, cómo no, el **Mercado da Graça** con su pescado, potentes quesos isleños y frutas tropicales con sabores intensos debido a la temperatura de la tierra en la que se cultivan. El Jardín Botánico y el puerto son otros lugares transitados por propios y extraños que también invitan al paseo.
 
 *[Free tour por Ponta Delgada](https://www.civitatis.com/es/ponta-delgada/free-tour-ponta-delgada/?aid=10211) de 2 horas y media con salida desde las Portas da Cidade.
 
@@ -35,11 +35,11 @@ Pero no cometáis el error de quedaros solo en la capital aunque sus decenas de 
 
 ## Avistamiento de cetáceos en São Miguel
 
-Madrugar tiene recompensa si el objetivo es realizar una excursión de avistamiento de ballenas porque el océano suele estar más tranquilo y las probabilidades de verlas son mayores. Lo que vais a ver, o lo que podéis ver porque nunca hay garantía total, es el resultado de algo que pocos destinos del mundo pueden ofrecer: aquí se concentra una veintena de especies de cetáceos que utilizan estas aguas como corredor migratorio. Los cachalotes son residentes, pero también se pueden ver habitualmente delfines comunes y mulares y en primavera grandes ballenas (como la azul, el rorcual común y el boreal) que cruzan el Atlántico Norte y pasan exactamente por aquí.
+Madrugar tiene recompensa si el objetivo es realizar una excursión de avistamiento de ballenas, ya que el océano suele estar más tranquilo y las probabilidades de verlas son mayores. Lo que vais a ver, o lo que podéis ver porque nunca hay garantía total, es el resultado de algo que pocos destinos del mundo pueden ofrecer: aquí se concentra una veintena de especies de cetáceos que utilizan estas aguas como corredor migratorio. Los cachalotes son residentes, pero también se pueden ver habitualmente delfines comunes y mulares y en primavera grandes ballenas (como la azul, el rorcual común y el boreal) que cruzan el Atlántico Norte y pasan exactamente por aquí.
 
 Resulta curioso pensar que durante el siglo XIX estas islas fueron uno de los grandes centros mundiales de la caza de ballenas, aún se pueden ver las atalayas que las localizaban desde tierra. Pero hoy día esa pasión se ha convertido en protección y respeto hacia estos animales y su hábitat. 
 
-Desde el puerto de **Ponta Delgada hay salida diarias para para avistar cetáceos** pero conviene reservar con un poco de antelación. Aunque la navegación resulta más confortable en los barcos turísticos, resulta más emocionante hacerlo en zodiacs a las que los delfines se acercan sin pudor y te llegan incluso a salpicar en la cara.
+Desde el puerto de **Ponta Delgada hay salida diarias para para avistar cetáceos**, pero conviene reservar con un poco de antelación. Aunque la navegación resulta más confortable en los barcos turísticos, resulta más emocionante hacerlo en zodiacs a las que los delfines se acercan sin pudor y te llegan incluso a salpicar en la cara.
 
 *Civitatis cuenta con [excursiones en barco con salida desde Ponta Delgada](https://www.civitatis.com/es/ponta-delgada/paseo-barco-avistamiento-cetaceos/?aid=10211) por unos 70 euros (con cancelación gratuita hasta 24 horas antes de la salida).
 
@@ -50,7 +50,7 @@ La **excursión a Sete Cidades** es una de las más habituales y no es de extra�
 
 Desde Ponta Delgada sólo hay que seguir una carretera serpenteante que asciende hasta los miradores. El más conocido es Vista do Rei, desde donde se obtiene una panorámica completa del cráter y de las lagunas. En días despejados, el paisaje es aún más llamativo con las hortensias luciendo en primer plano sus flores violetas, rosas y blancas. 
 
-Una vez admirada la panorámica hay que descender hasta el nivel del lago, donde se ubica el pequeño pueblo de Sete Cidades, ideal para pasear o probar la gastronomía local. Si os gusta realizar deportes activos, hay varias empresas que se dedican al alquiler de kayak y de bicicletas. El paseo con estas últimas es adecuado para todas las edades porque rodea los lagos y transcurre por caminos llanos (sólo hay un pequeño tramo de carretera).  
+Una vez admirada la panorámica, hay que descender hasta el nivel del lago, donde se ubica el pequeño pueblo de Sete Cidades, ideal para pasear o probar la gastronomía local. Si os gusta realizar deportes activos, hay varias empresas que se dedican al alquiler de kayak y de bicicletas. El paseo con estas últimas es adecuado para todas las edades porque rodea los lagos y transcurre por caminos llanos (sólo hay un pequeño tramo de carretera).  
 
 Más allá de su belleza natural, Sete Cidades está envuelto en leyendas, como la historia de amor entre un pastor y una princesa que, según la tradición, dio origen a los colores de las lagunas. Este componente mítico añade una dimensión extra de fantasía al paisaje.
 
@@ -63,7 +63,7 @@ En el corazón volcánico de la isla se sitúa el valle de Furnas, un paisaje do
 
 ![El guiso se cocina en la caldera de Furnas. © Pepa García](https://fotos.etheriamagazine.com/2026/02/azores-sao-miguel-cocido-furnas.jpg)
 
-Dejando a un lado la geotermia, lo más conocido de este lugar es la tradición de preparar **el famoso “cozido das Furnas”** utilizando el calor natural del subsuelo. Grandes ollas con carnes, embutidos, verduras y tubérculos se entierran durante varias horas en zonas señalizadas con el cartel del propietario del cocido. Puedes leer el nombre de diversos restaurantes de la zona, y si esperas un rato verás cómo los desentierran para llevárselo entre dos personas fuera del área geotérmica.
+Dejando a un lado la geotermia, lo más conocido de este lugar es la tradición de preparar **el famoso “cozido das Furnas”** utilizando el calor natural del subsuelo. Grandes ollas con carnes, embutidos, verduras y tubérculos se entierran durante varias horas en zonas señalizadas con el cartel del propietario del cocido. Puedes leer el nombre de diversos restaurantes de la zona y, si esperas un rato, verás cómo los desentierran para llevárselo entre dos personas fuera del área geotérmica.
 
 El resultado es un guiso sabroso y tierno que puedes degustar en todos los restaurantes de **Furnas**, aunque es aconsejable reservar con antelación. No dejes de pasear por este bonito pueblo donde sorprenden sus fumarolas y pequeños geiseres, además de una bonita iglesia, una casa invertida y, cómo no, el Parque Terra Nostra. De este último te hablaremos a continuación.
 
@@ -94,7 +94,7 @@ Además de daros un baño, podéis completar la experiencia comiendo pescado rec
 ![Piscinas naturales de Caloura. © Pepa García](https://fotos.etheriamagazine.com/2026/02/azores-sao-miguel-caloura.jpg)
 
 ## El souvenir más sabroso de São Miguel
-Y para llevaros un souvenir de São Miguel os recomendamos hacer una parada en **Vila Franca do Campo**, la primera capital histórica de São Miguel, donde se sitúa Queijadas do Morgado, un obrador familiar de queijadas (queso fresco, azúcar, huevo). En su establecimientos podéis ver cómo se elaboran e incluso degustarlas con un café, pero también puede ser el recuerdo gastronómico para llevar a casa. 
+Y para llevaros un souvenir de São Miguel os recomendamos hacer una parada en **Vila Franca do Campo**, la primera capital histórica de São Miguel, donde se sitúa Queijadas do Morgado, un obrador familiar de *queijadas* (queso fresco, azúcar, huevo). En su establecimientos podéis ver cómo se elaboran e incluso degustarlas con un café, pero también puede ser el recuerdo gastronómico para llevar a casa. 
 
 ## Guía Práctica de la isla de São Miguel | Azores
 ### Cómo llegar a São Miguel
