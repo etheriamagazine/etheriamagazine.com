@@ -1,6 +1,6 @@
 ---
 title: "Qué ver en São Miguel, planes para una escapada romántica en las Azores"
-date: 2026-02-25
+date: 2026-02-24
 cover: https://fotos.etheriamagazine.com/2026/02/azores-sao-miguel-piscinas-caloura.jpg
 categories: 
   - viajar-en-pareja
