@@ -30,11 +30,7 @@ CaixaForum, en colaboración con el British Museum, destaca con esta exposición
 
 ![Asurbanipal matando al león simboliza la fuerza y el valor del rey. © The Trustees of the British Museum](https://fotos.etheriamagazine.com/2026/02/madrid-exposiciones-caixaforum-asurbanipal.jpg)
 
-Dirección: Paseo del Prado, 36. 
-
-Horario: todos los días de 10 a 20 h. 
-
-Precio: 6 euros (entrada general, que permite acceso a las exposiciones temporales). 
+**Dirección**: Paseo del Prado, 36. **Horario**: todos los días de 10 a 20 h. **Precio**: 6 euros (entrada general, que permite acceso a las exposiciones temporales). 
 
 ## “Helen Levitt”. Fundación Mapfre (hasta el 17 de mayo de 2026)
 
@@ -44,21 +40,13 @@ La exposición incluye obras conocidas, inéditas y los trabajos realizados dura
 
 ![*New York*, 1939.Gelatin Silver Print. © Film Documents LLC, courtesy Zander Galerie, Cologne](https://fotos.etheriamagazine.com/2026/02/helen-levitt-fundacion-mafre.jpg)
 
-Dirección: Paseo de Recoletos, 23
-
-Horario: lunes de 14 a 20 h, de martes a sábado de 11 a 20 h y domingos y festivos de 11 a 19 h
-
-Precio: 5 euros (entrada general con audioguía incluida). 
+**Dirección**: Paseo de Recoletos, 23. **Horario**: lunes de 14 a 20 h, de martes a sábado de 11 a 20 h y domingos y festivos de 11 a 19 h. **Precio**: 5 euros (entrada general con audioguía incluida). 
 
 ## “La Quema. Elena del Rivero”. Museo Nacional de Antropología (hasta el 24 de mayo de 2026)
 
 "La Quema·, que forma parte del programa especial del 150º aniversario y del programa Visiones críticas del [Museo Nacional de Antropología](https://www.cultura.gob.es/mnantropologia/portada.html), es un singular proyecto de la artista contemporánea valenciana Elena del Rivero. Esta propuesta implica la destrucción intencionada por el fuego de las obras de su etapa de formación, con un proyecto que busca conectar el arte con el paisaje rural, activando la memoria colectiva y fomentando la creatividad en un contexto de abandono y modernidad. Para ello, Elena trabajó en el pueblo de San Pedro Fiz de Vilar (Ourense), donde las obras fueron expuestas en espacios comunitarios y sometidas a las inclemencias del tiempo. Después, estos cuadros se quemaron en una celebración a la que asistieron los vecinos del pueblo a partir de la cual surgieron diferentes ensamblajes y collages-diarios que forman esta exposición, además de la serie fotográfica *Un mosaico de lo común*. La obra *Canto para un monumento funerario*, que se podrá ver en el Panteón de España, completa la muestra. 
 
-Dirección: calle Alfonso XII, 68. 
-
-Horario: de martes a sábado de 9.30 a 20 h; domingos de 10 a 15 h. 
-
-Precio: entrada gratuita. 
+**Dirección**: calle Alfonso XII, 68. **Horario**: de martes a sábado de 9.30 a 20 h; domingos de 10 a 15 h. **Precio**: entrada gratuita. 
 
 ## “Los 80. Figuración en los años de la Movida”. Galería Guillermo de Osma (hasta el 19 de junio de 2026)
 
@@ -68,11 +56,7 @@ El proyecto subraya especialmente la presencia de mujeres artistas (Virginia Las
 
 ![*Psique y Cupido*. Belén Franco. © Galería Guillermo de Osma](https://fotos.etheriamagazine.com/2026/02/Exposiciones-madrid-Bel%C3%A9n-Franco-Psique-y-Cupido-Gillermo-de-Osma.jpg)
 
-Dirección: Claudio Coello, 4. 
-
-Horario: de lunes a viernes de 10 a 14 h y de 16.30 a 20.30 h. 
-
-Precio: entrada gratuita. 
+**Dirección**: Claudio Coello, 4. **Horario**: de lunes a viernes de 10 a 14 h y de 16.30 a 20.30 h. **Precio**: entrada gratuita. 
 
 ## “Hammershøi. El ojo que escucha”. Museo Thyssen-Bornemisza (hasta el 31 de mayo de 2026)
 
@@ -82,11 +66,7 @@ En esta completa visión del [Museo Thyssen Bornemisza](https://www.museothyssen
 
 ![*Una habitación en la casa del artista en Strandgade, Copenhague, con la mujer del artista*. 1902.Vilhelm Hammershøi. © Museo Thyssen Bornemisza Madrid](https://fotos.etheriamagazine.com/2026/02/Exposiciones-madrid-thyssen-Hammershoi-Strandgade.jpg)
 
-Dirección: Paseo del Prado, 8.
-
-Horario: de martes a viernes y domingo de 10 a 19 h y sábado de 10 a 23 h.
-
-Precio: 14 euros, incluye la colección permanente y las exposiciones temporales (audioguía 5 euros).
+**Dirección**: Paseo del Prado, 8. **Horario**: de martes a viernes y domingo de 10 a 19 h y sábado de 10 a 23 h. **Precio**: 14 euros, incluye la colección permanente y las exposiciones temporales (audioguía 5 euros).
 
 ## “A la manera del Bosco”. Fundación March (hasta el 12 de abril de 2026)
 
@@ -94,21 +74,13 @@ La Fundación Juan March propone una interesante muestra en colaboración con la
 
  ![*La muerte del réprobo* (El infierno), atribuido a Hieronymus Bosch, y *Inverso Mundus, Fotograma n.º 1-02 de AES+F. © AES+F, VEGAP, Madrid, 2026; Foto: © Cortesía de Colección SOLO, Madrid](https://fotos.etheriamagazine.com/2026/02/exposiciones-madrid-manera-del-bosco-fundacion-march.jpg)
 
-Dirección: Castelló, 77.
-
-Horario: de lunes a sábado y festivos de 10 a 20 h. Domingos de 10 a 14 h. 
-
-Precio: entrada libre. 
+**Dirección**: Castelló, 77. **Horario**: de lunes a sábado y festivos de 10 a 20 h. Domingos de 10 a 14 h. **Precio**: entrada libre. 
 
 ## “Eduardo Chillida. Soñar el espacio”. Centro Cultural Conde Duque (hasta el 21 de junio de 2026)
 
 Una exposición imprescindible que recorre 102 obras que incluyen desde esculturas de pequeño y gran formato realizadas en diferentes materiales, hasta obra gráfica, dibujos y retratos del que está considerado como uno de los grandes escultores del siglo XX. Presentada por la Fundación Ibercaja en colaboración con el Ayuntamiento de Madrid, Chillida Leku y la Fundación Eduardo Chillida-Pilar de Bezunce con motivo del centenario del nacimiento del artista, destacan las veinte esculturas realizadas en materiales como alabastro, hierro, hormigón armado o tierra chamota. También merece la pena detenerse en la parte dedicada a la obra gráfica que, además de reflejar su pensamiento plástico, son obras de arte en sí mismas y no bocetos u obras preparatorias. 
 
-Dirección: Calle del Conde Duque, 11. Sala 1. 
-
-Horario: de martes a sábado de 10 a 14.00 h y de 17.30 a 21 h; domingos de 10.30 a 14 h. 
-
-Precio: entrada libre. 
+**Dirección**: Calle del Conde Duque, 11. Sala 1. **Horario**: de martes a sábado de 10 a 14.00 h y de 17.30 a 21 h; domingos de 10.30 a 14 h. **Precio**: entrada libre. 
 
 ## "Madrid Colecciona. 50 colecciones de arte contemporáneo". CentroCentro (hasta el 6 de septiembre 2026)
 
@@ -116,11 +88,7 @@ CentroCentro presenta una exposición que se mete de lleno en la intrahistoria d
 
  ![Sala de la exposicion "Madrid Colecciona. 50 colecciones de arte contemporáneo" en ©CentroCentro](https://fotos.etheriamagazine.com/2026/02/madrid-colecciona-centrocentro-sala.jpg)
 
-Dirección: Plaza de Cibeles 1.
-
-Horario: de martes a domingo de 10 a 20 h. 
-
-Precio: entrada gratuita.  
+**Dirección**: Plaza de Cibeles 1. **Horario**: de martes a domingo de 10 a 20 h. **Precio**: entrada gratuita.  
 
 ## “Alberto Greco. Viva el arte vivo”. Museo Nacional Reina Sofía (hasta el 8 de junio de 2026)
 
@@ -130,11 +98,7 @@ Esta exposición se centra en la fundación del “arte vivo” (llamado despué
 
  ![Momento *vivo-dito* de Alberto Greco en Lavapiés. © Museo y Centro de Arte Reina Sofia](https://fotos.etheriamagazine.com/2026/02/exposiciones-madrid-reina-sofia-Momento-vivo-dito-Alberto-Greco-Lavapies-1963.jpg)
 
-Dirección: Calle de Santa Isabel, 52. Edificio Sabatini. Planta 0. 
-
-Horario: de lunes a sábado de 10 a 19 h (martes cerrado); domingos de 10 a 12.30 h. 
-
-Precio: 12 euros (incluye la visita a la colección general y a las exposiciones temporales). 
+**Dirección**: Calle de Santa Isabel, 52. Edificio Sabatini. Planta 0. **Horario**: de lunes a sábado de 10 a 19 h (martes cerrado); domingos de 10 a 12.30 h. **Precio**: 12 euros (incluye la visita a la colección general y a las exposiciones temporales). 
 
 **También te puede interesar:**
 
