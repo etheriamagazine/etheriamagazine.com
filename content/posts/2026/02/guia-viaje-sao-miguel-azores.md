@@ -114,20 +114,20 @@ Algunos platos tradicionales son el mencionado *cozido das Furnas*, cocinado con
 
 ## Preguntas frecuentes sobre São Miguel
 
- **¿Cuántos días se necesitan para ver São Miguel?**
+### ¿Cuántos días se necesitan para ver São Miguel?
 Lo ideal es dedicar entre 4 y 5 días para recorrer la isla con calma. Este tiempo permite visitar lugares imprescindibles como Sete Cidades, Furnas o la costa sur, además de disfrutar de actividades como el avistamiento de cetáceos.
 
-**¿Cuál es la mejor época para viajar a São Miguel?**
+### ¿Cuál es la mejor época para viajar a São Miguel?
 La mejor época para viajar a São Miguel es entre primavera y verano (de abril a septiembre), cuando el clima es más estable, las hortensias están en flor y hay más horas de luz. Aun así, el clima es suave durante todo el año.
 
-**¿Hace falta coche en São Miguel?**
+### ¿Hace falta coche en São Miguel?
 Sí, alquilar coche es muy recomendable para moverse por la isla con libertad. El transporte público es limitado y muchos de los principales atractivos naturales se encuentran en zonas poco accesibles.
 
-**¿Qué ver imprescindible en São Miguel?**
+### ¿Qué ver imprescindible en São Miguel?
 Entre los lugares imprescindibles destacan Sete Cidades, el Valle de Furnas, el Parque Terra Nostra y la ciudad de Ponta Delgada. También merece la pena explorar miradores, plantaciones de té y piscinas naturales.
 
-**¿Te puedes bañar en aguas termales en São Miguel?**
+### ¿Te puedes bañar en aguas termales en São Miguel?
 Sí, la isla cuenta con varias zonas termales, especialmente en Furnas, donde se pueden disfrutar baños en aguas ricas en minerales con propiedades relajantes.
 
-**¿Es São Miguel un destino adecuado para una escapada romántica?**
+### ¿Es São Miguel un destino adecuado para una escapada romántica?
 Sí, es un destino perfecto para parejas gracias a sus paisajes volcánicos, miradores espectaculares, aguas termales y experiencias  como el cocido volcánico o los paseos a pie o en bici junto a lagos.
