@@ -22,7 +22,7 @@ La exposición **“El Prado en femenino III. Promotoras artísticas de las cole
 
 ![Isabel de Farnesio, Jean Ranc. © Museo Nacional del Prado](https://fotos.etheriamagazine.com/2026/02/exposiciones-madrid-Isabel-de-Farnesio-Museo-del-Prado.jpg)
 
-Dirección: Paseo del Prado s/n. Horario: de lunes a sábado de 10 a 20 h y domingos y festivos de 10 a 19 h.  Precio: 15 euros (entrada general, que permite acceso a las exposiciones temporales). Audioguía: 5 euros.
+**Dirección**: Paseo del Prado s/n. **Horario**: de lunes a sábado de 10 a 20 h y domingos y festivos de 10 a 19 h.  **Precio**: 15 euros (entrada general, que permite acceso a las exposiciones temporales). Audioguía: 5 euros.
 
 ## “Soy Asurbanipal, rey del mundo, rey de Asiria”. CaixaForum (9 de abril – 4 de octubre de 2026)
 
