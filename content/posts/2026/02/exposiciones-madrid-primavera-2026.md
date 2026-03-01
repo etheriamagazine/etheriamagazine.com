@@ -1,7 +1,7 @@
 ---
 title: "10 exposiciones en Madrid para no perderse esta primavera"
 date: 2026-03-04
-cover: https:https://fotos.etheriamagazine.com/2026/02/exposiciones-madrid-helen-levitt-fundacion-mafre.jpg
+cover: https://fotos.etheriamagazine.com/2026/02/exposiciones-madrid-helen-levitt-fundacion-mafre.jpg
 categories: 
   - estilo-de-vida
   - cultura
