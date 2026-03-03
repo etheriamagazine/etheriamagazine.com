@@ -20,7 +20,7 @@ No es necesario atravesar el planeta para sorprenderse con pueblos, paisajes o s
 
 Puede sonar exagerado, pero cuando os adentréis en los conocidos como **fiordos burgaleses**, dentro del Parque Natural Montes Obarenes-San Zadornil, entenderéis por qué este paisaje empieza a ganar fama. La experiencia comienza sobre el agua, a bordo de un barco electrosolar en el que recorreréis un paisaje de cortados calizos, cañones y vegetación exuberante que recuerda a latitudes mucho más al norte.
 
-Mientras avanzáis, el perfil del Pico Humión domina el horizonte, y los bosques de encinas, hayas y quejigos se suceden en un mosaico cambiante según la estación. Aquí el paisaje se siente más entre un silencio, apenas roto por el cloqueo del agua.
+Mientras avanzáis, el perfil del Pico Humión domina el horizonte, y los bosques de encinas, hayas y quejigos se suceden en un mosaico cambiante según la estación. Aquí el paisaje se siente más, en un silencio apenas roto por el cloqueo del agua.
 
 *Esta temporada [el barco comenzará a navegar](https://valledetobalina.burgos.es/barcovalledetobalina) a partir del 2 de abril (adultos: 10 euros, descuentos para niños). 
 
@@ -90,13 +90,13 @@ El agua es otro de los grandes protagonistas y pocas imágenes son tan impactant
 
 ## 5. Ser protagonistas por un día
 
-Uno de los mayores aciertos del Territorio Obarenes es su apuesta por experiencias que van más allá de la visita convencional. Podéis **adentraros en el mundo de las abejas con actividades de apiturismo**, visitar granjas de oveja churra, descubrir cervezas artesanales con sabores tan poco habituales como la endrina o la calabaza, o pasear entre campos de lavanda y pequeñas destilerías. También hay propuestas más contemplativas, como vuelos en globo o experiencias sensoriales en plena naturaleza. Todo pensado para que conectéis con el entorno de una forma directa.
+Uno de los mayores aciertos del Territorio Obarenes es su apuesta por experiencias que van más allá de la visita convencional. Podéis **adentraros en el mundo de las abejas con actividades de apiturismo**, visitar granjas de oveja churra, descubrir cervezas artesanales con sabores tan poco habituales como la endrina o la calabaza o pasear entre campos de lavanda y pequeñas destilerías. También hay propuestas más contemplativas, como vuelos en globo o experiencias sensoriales en plena naturaleza. Todo pensado para que conectéis con el entorno de una forma directa.
 
 ![Apiturismo en Territorio Obarenes.](https://fotos.etheriamagazine.com/2026/03/burgos-territorio-obarenes-apiturismo.jpg)
 
 ## 6. Comer lechazo y morcilla
 
-Viajar también es comer, y en esta comarca el producto manda. La tradición de la matanza sigue viva, y de ella nacen embutidos como la célebre Morcilla de Burgos, que varía de casa en casa con matices propios. Cuentan con carnes para todos los gustos, desde ternera de calidad hasta cordero lechal asado lentamente en horno de leña y piezas de caza. Todo acompañado por productos de la huerta como la lechuga de Medina o las patatas locales.
+Viajar también es comer, y en esta comarca el producto manda. La tradición de la matanza sigue viva, y de ella nacen embutidos como la célebre Morcilla de Burgos, que varía de casa en casa con matices propios. Cuentan con carnes para todos los gustos, desde ternera de calidad hasta cordero lechal asado lentamente en horno de leña o piezas de caza. Todo acompañado por productos de la huerta como la lechuga de Medina o las patatas locales.
 
 Y para postre, destacan los derivados lácteos, como el Queso de Burgos, y frutas como las cerezas y manzanas del valle de Caderechas.
 
@@ -122,7 +122,7 @@ En una escapada de dos días podéis combinar naturaleza y patrimonio: visitar F
 Los conocidos como "fiordos burgaleses" son un paisaje fluvial de cañones y cortados rocosos situado dentro del Parque Natural Montes Obarenes-San Zadornil. Se pueden recorrer en barco, en una experiencia que permite descubrir este entorno desde el agua, algo poco habitual en el interior de la península.
 
 ### 4. ¿Cuál es la mejor época para visitar Montes Obarenes?
-El Territorio Obarenes se puede visitar todo el año, pero cada estación ofrece una experiencia distinta. La primavera y el otoño son ideales por el color del paisaje y el caudal de ríos y cascadas, mientras que el verano es perfecto para actividades al aire libre. En invierno, la niebla y la atmósfera del paisaje aportan un carácter más silencioso y fotogénico.
+El Territorio Obarenes se puede visitar durante todo el año, pero cada estación ofrece una experiencia distinta. La primavera y el otoño son ideales por el color del paisaje y el caudal de ríos y cascadas, mientras que el verano es perfecto para actividades al aire libre. En invierno, la niebla y la atmósfera del paisaje aportan un carácter más silencioso y fotogénico.
 
 ### 5. ¿Qué pueblos bonitos ver en Montes Obarenes y Las Merindades?
 Algunos de los pueblos más recomendables son Frías, considerado uno de los más bonitos de España; Santa Gadea del Cid, con su aire medieval intacto; y Pancorbo, enclavado en un espectacular desfiladero. También merece la pena acercarse a pequeñas localidades como Tobera, conocida por sus cascadas.
