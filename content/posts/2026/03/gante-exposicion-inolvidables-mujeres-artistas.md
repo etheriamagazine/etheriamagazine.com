@@ -1,5 +1,5 @@
 ---
-title: "‘Inolvidables’, la exposición sobre las pintoras flamencas del Museo de Bellas Artes de Gante que tiene que estar en tu agenda esta primavera"
+title: "‘Inolvidables’, la exposición sobre las artistas flamencas del Museo de Bellas Artes de Gante que tiene que estar en tu agenda esta primavera"
 date: 2026-03-15
 cover: https://fotos.etheriamagazine.com/2026/03/gante-exposici%C3%B3n-mujeres-flamencas-sala-tradicion.jpg
 categories: 
