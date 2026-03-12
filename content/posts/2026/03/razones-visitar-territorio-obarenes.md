@@ -3,7 +3,6 @@ title: "Seis razones para viajar a Territorio Obarenes (y entender por qué quer
 date: 2026-03-05
 cover: https://fotos.etheriamagazine.com/2026/03/Burgos-territorio-obarenes-barco-sola.jpg
 categories: 
-  - excursiones
   - viajar-en-familia
 tags: 
   - espana
