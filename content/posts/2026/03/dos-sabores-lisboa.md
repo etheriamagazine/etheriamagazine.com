@@ -3,6 +3,7 @@ title: "Dos sabores de Lisboa del siglo XIX que han sobrevivido al paso del tiem
 date: 2026-03-13
 cover: https://fotos.etheriamagazine.com/2026/03/lisboa-pasteis-nata-portada.jpg
 categories: 
+  - estilo de vida
   - gourmet
 authors:
   - Pepa G. Marín
