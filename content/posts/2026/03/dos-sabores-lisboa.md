@@ -38,7 +38,7 @@ Si os apetece probar una versión más creativa, tendréis que acercaros a la Ca
 
 Aunque la forma clásica de beberla se mantiene igual, este popular licor ha despertado el interés de la coctelería contemporánea. Los nuevos *bartenders* lo han incorporado a sus cócteles de autor como un elemento diferenciador que equilibra dulzor y amargor.
 
-![Los pasteles de crema comenzaron a elaborarse en el barrio lisboeta de Belem. © Magdalena Raczka](https://fotos.etheriamagazine.com/2026/03/lisboa-pasteles-belem.jpg)
+![Los pasteles de crema comenzaron a elaborarse en el barrio lisboeta de Belém. © Magdalena Raczka](https://fotos.etheriamagazine.com/2026/03/lisboa-pasteles-belem.jpg)
 
 ## Pastéis de nata o de Belém
 
