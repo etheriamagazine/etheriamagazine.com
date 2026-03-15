@@ -13,9 +13,9 @@ Lisboa invita a ser amada sin prisas, sentida en la tristeza de cada fado, recor
 
 ![Pastel de nata tradicional de Lisboa. © David Magalhães](https://fotos.etheriamagazine.com/2026/03/lisboa-pasteis-belem.jpeg)
 
-Lisboa guarda secretos que van más allá de su arquitectura o de su cultura y que se descubren mientras se recorre la ciudad de una manera pausada. En vuestro próximo viaje os invitamos a sentir la **capital portuguesa a través del paladar** saboreando dos de sus productos más emblemáticos: la **ginjinha** y los **pastéis de nata**. Dos delicias que se pueden tomar en cualquier momento, en el desayuno, al deambular por la ciudad o para terminar cualquier comida con un toque dulce. Os hablamos de los orígenes de estos dos productos portugueses.
+Lisboa guarda secretos que van más allá de su arquitectura o de su cultura y que se descubren mientras se recorre la ciudad de una manera pausada. En vuestro próximo viaje os invitamos a sentir la **capital portuguesa a través del paladar** saboreando dos de sus productos más emblemáticos: la **ginjinha** y los **pastéis de nata**. Dos delicias que se pueden tomar en cualquier momento: en el desayuno, al deambular por la ciudad o para terminar cualquier comida con un toque dulce. Os hablamos de los orígenes de estos dos productos portugueses.
 
-![En Ginjinha do Carmo la ginjinha en vasito de chocolate.](https://fotos.etheriamagazine.com/2026/03/lisboa-Ginjinha-Obidos.jpg)
+![Este licor se toma en Ginjinha do Carmo en un vasito de chocolate.](https://fotos.etheriamagazine.com/2026/03/lisboa-Ginjinha-Obidos.jpg)
 
 ## La ginjinha, licor de guinda
 
@@ -23,13 +23,13 @@ Para conocer la ginjinha basta con acercarse a casi cualquier bar, pero los loca
 
 La ginjinha no es un licor como tantos otros, sino que recoge la esencia de Lisboa de forma líquida, dulce y un poco punzante. Elaborada con **guindas maceradas en aguardiente, azúcar y un delicado toque de especias**, esta bebida transmite en cada sorbo casi dos siglos de historia. Lejos de ser un capricho local, se ha consolidado como un producto con identidad internacional cuya producción alcanza 150 000 litros anuales y se exporta Europa, América y Asia.
 
-![Bar Espinheira, local tradicional de Ginjinha.](https://fotos.etheriamagazine.com/2026/03/lisboa-ginjinha-espinheira.jpg)
+![Bar Espinheira, uno de los locales históricos de ginjinha.](https://fotos.etheriamagazine.com/2026/03/lisboa-ginjinha-espinheira.jpg)
 
 ### Un ritual popular de origen monástico
 
 Aunque las guindas ya se usaban en recetas medicinales desde la Edad Media, fue en 1840 cuando se transformó en el licor que hoy conocemos. Y el artífice de su popularidad se cree que fue **Francisco Espinheira**, que inspirándose en la receta de un fraile, comenzó a servirlo en un diminuto local de la calle São Domingos, número 8, a pocos metros de la plaza del Rossio. Aquella mezcla inicial conquistó de inmediato a los lisboetas, que convirtieron la ginjinha en un ritual cotidiano. Desde entonces, pedir una ginjinha es un gesto habitual para entrar en calor en las frías mañanas de invierno, tomar un descanso en medio de la jornada, hacer una parada improvisada en la calle o incluso dar inicio a una larga noche de fado.
 
-![Ginjinha Sem Rival, local tradicional de Lisboa.](https://fotos.etheriamagazine.com/2026/03/lisboa-ginjinha-sem-rival-lisboa.jpg)
+![Ginjinha Sem Rival, uno de los bares de Lisboa donde tomar la ginjinha.](https://fotos.etheriamagazine.com/2026/03/lisboa-ginjinha-sem-rival-lisboa.jpg)
 
 ### Dónde tomar ginjinha
 
@@ -53,7 +53,7 @@ El pastel de nata perfecto se reconoce por su equilibrio: la **base de hojaldre 
 
 Más allá de Belém, los pastéis de nata se encuentran en prácticamente cada esquina de Lisboa. Desde pastelerías históricas hasta cafés contemporáneos, cada local ofrece su versión, defendida con orgullo como "la mejor de la ciudad". Probar varios se convierte casi en un rito de iniciación que os animamos a llevar a cabo. Lo interesante es que, pese a su aparente sencillez, cada pastel tiene sus matices: más cremoso o más compacto, con un hojaldre más fino o más denso, con un toque de limón, vainilla o incluso notas cítricas inesperadas. 
 
-Aquellas que vivan o viajen a Madrid, también tendrán la posibilidad de comprar estos ricos pasteles en las tres tiendas de [Manteigaria](https://manteigaria.com/), una de ellas en plena Puerta del Sol (carrera de San Jerónimo).
+Aquellas que vivan en Madrid, o viajen a la capital española, también tendrán la posibilidad de comprar estos ricos pasteles en alguna de las tres tiendas de [Manteigaria](https://manteigaria.com/), una de ellas en plena Puerta del Sol (carrera de San Jerónimo).
 
 **También te puede interesar**
 
