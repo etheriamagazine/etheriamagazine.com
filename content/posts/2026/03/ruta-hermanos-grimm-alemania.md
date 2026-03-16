@@ -25,13 +25,13 @@ Mientras vivían en la ciudad, los Grimm recogieron la leyenda de **Gänseliesel
 
 ![Estatua de la Niña de los Gansos. © Manena Munar](https://fotos.etheriamagazine.com/2026/03/hermanos-grimm-gotinga-nina-cisnes.jpg)
 
-La fábula cuenta la desgracia de una princesa embrujada por una temible bruja que la obligaba a cuidar gansos, en realidad doncellas hechizadas. Pero, como manda la moraleja, la verdad termina imponiéndose: se descubre su origen real, se casa con el príncipe esperado y ambos viven felices para siempre.
+La fábula cuenta la desgracia de una princesa embrujada por una temible bruja que la obligaba a cuidar gansos, que eran en realidad doncellas hechizadas. Pero, como manda la moraleja, la verdad termina imponiéndose: se descubre su origen real, se casa con el príncipe esperado y ambos viven felices para siempre.
 
 Tras el beso ritual comienza la celebración. En los bajos del Ayuntamiento, entre jarras que van y vienen, el histórico [restaurante Bullerjahn](https://www.bullerjahn.de/english/) sigue llenando de cerveza las mesas estudiantiles. Aquí se puede degustar una magnífica Einbecker, la cerveza tradicional de la región. Y, cómo no, los recién graduados levantan sus jarras brindando por su Niña de los Gansos.
 
 ## La Abadía Imperial de Corvey
 
-A las afueras de Höxter (localidad que algunos vinculan con el origen del cuento de Hansel y Gretel) se encuentra la impresionante Abadía Imperial de Corvey. Fundada en el año 822, este monasterio benedictino, hoy Patrimonio de la Humanidad, conserva una excepcional fachada occidental de estilo carolingio y la iglesia barroca de San Esteban y San Vito.
+A las afueras de **Höxter** (localidad que algunos vinculan con el origen del cuento de Hansel y Gretel) se encuentra la impresionante Abadía Imperial de Corvey. Fundada en el año 822, este monasterio benedictino, hoy Patrimonio de la Humanidad, conserva una excepcional fachada occidental de estilo carolingio y la iglesia barroca de San Esteban y San Vito.
 
 ![Abadía de Corvey. © Manena Munar](https://fotos.etheriamagazine.com/2026/03/hermanos-grimm-abadia-corvey.jpg)
 
@@ -75,7 +75,7 @@ En medio de este paisaje surge el **castillo de Hämelschenburg**, levantado en 
 
 ![Castillo de Hämelschenburg. © Manena Munar](https://fotos.etheriamagazine.com/2026/03/hermanos-grimm-castillo-Hamelschenburg.jpg)
 
-El retrato de **Anna von Holle**, una mujer culta y extraordinariamente inteligente para su época, cuelga en una de las salas. Gracias a su talento estratégico logró proteger el castillo durante conflictos tan devastadores como la Guerra de los Treinta Años. Hoy el propietario actual, Lippold von Klencke, abre parte del edificio al público y relata con serenidad la historia de su linaje.
+El retrato de **Anna von Holle**, una mujer culta y extraordinariamente inteligente para su época, cuelga en una de las salas. Gracias a su talento estratégico logró proteger el castillo durante conflictos tan devastadores como la Guerra de los Treinta Años. Hoy en día, el propietario actual, Lippold von Klencke, abre parte del edificio al público y relata con serenidad la historia de su linaje.
 
 ## Bremen y sus músicos
 
@@ -97,7 +97,7 @@ De los seis molinos que antaño aprovechaban el viento en la ciudad, solo queda 
 
 ### Bremen ultramar
 
-El agua ha marcado el destino de Bremen. A lo largo de la ribera del río Weser se suceden bares y restaurantes junto al antiguo puerto fluvial de Schlachte, que durante siglos fue la puerta de entrada de mercancías de ultramar. Uno de los recuerdos más evocadores es el [velero Alexander von Humboldt](), hoy convertido en hotel restaurante.
+El agua ha marcado el destino de Bremen. A lo largo de la ribera del río Weser se suceden bares y restaurantes junto al antiguo puerto fluvial de Schlachte, que durante siglos fue la puerta de entrada de mercancías de ultramar. Uno de los recuerdos más evocadores es el [velero Alexander von Humboldt](https://alex-das-schiff.de), hoy convertido en hotel restaurante.
 
 ![Puerto de Bremen. © Alain Rouiller](https://fotos.etheriamagazine.com/2026/03/hermanos-grimm-bremen-puerto.jpg)
 
@@ -133,7 +133,7 @@ Hamelín - Castillo de Hämelschenburg: 15 km.
 
 Hamelín - Bremen: 150 km.
 
-### Hoteles singulares para dormir en la ruta
+### Hoteles singulares para dormir en la ruta
 
 Muy cerca de lo que fue el hogar de los Hermanos Grimm, frente a la antigua muralla y a pocos pasos de la estación, se encuentra el [Hotel Gebhards](https://www.gebhardshotel.de/en/), un alojamiento que combina sobriedad y calidez con esa elegancia discreta tan propia del norte alemán.
 
@@ -150,7 +150,8 @@ Este viaje es perfecto para realizar con niños hasta doce años, pero el viaje 
 El museo del barón de Münchhausen o el Museo de Hamelín incluyen elementos escenográficos que resultan muy entretenidos.
 
 **Aprovechar la naturaleza**
- Cuando se viaja con niños viene muy bien buscar momentos para que se desfoguen al aire libre. En Alemania siempre hay un parque o un espacio verde cerca, como los **bosques de Weserbergland**, que ofrecen rutas fáciles para caminar o montar en bicicleta.
+
+Cuando se viaja con niños viene muy bien buscar momentos para que se desfoguen al aire libre. En Alemania siempre hay un parque o un espacio verde cerca, como los **bosques de Weserbergland**, que ofrecen rutas fáciles para caminar o montar en bicicleta.
 
 **Más información en:**
 
