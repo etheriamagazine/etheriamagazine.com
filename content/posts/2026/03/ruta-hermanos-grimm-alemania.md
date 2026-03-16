@@ -157,3 +157,8 @@ El museo del barón de Münchhausen o el Museo de Hamelín incluyen elementos es
 [Turismo de Alemania.](https://www.germany.travel/es/home.html)
 
 **También te puede interesar:**
+
+[Viaje en familia por Baviera: de Playmobil a Legoland.](https://etheriamagazine.com/articulos/viaje-en-familia-parques-alemania-playmobil-legoland/) 
+
+[Viajar con niños por Europa: consejos y propuestas para acertar en tu primer viaje.](https://etheriamagazine.com/articulos/viajar-con-ninos-por-europa-consejos-y-propuestas/) 
+
