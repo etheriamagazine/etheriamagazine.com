@@ -1,5 +1,5 @@
 ---
-title: "Viaje con niños a Alemania siguiendo los pasos de los Hermanos Grimm"
+title: "Un viaje con niños por Alemania siguiendo los pasos de los Hermanos Grimm"
 date: 2026-03-20
 cover: https://fotos.etheriamagazine.com/2026/03/hermanos-grimm-bremen-estatua-musicos.jpg
 categories: 
@@ -11,11 +11,11 @@ authors:
 
 ---
 
-La Ruta de los Hermanos Grimm por Alemania es un viaje por la geografía de la imaginación europea a través de unas historias que han compartido varias generaciones. Desde la universidad de Gotinga hasta el puerto de Bremen, este itinerario enlaza ciudades, leyendas y paisajes que inspiraron algunos de los cuentos más famosos de la tradición occidental y es perfecto para un viaje con niños por Alemania. 
+Este es un viaje por la geografía de la imaginación europea a través de unas historias que han compartido varias generaciones. La ruta de los Hermanos Grimm propuesta en este artículo sale desde la universidad de Gotinga hasta el puerto de Bremen, con un itinerario que enlaza las ciudades, las leyendas y los paisajes que inspiraron algunos de los cuentos más famosos de la tradición occidental.
 
 ![Estatua del flautista de Hamelín. © Manena Munar](https://fotos.etheriamagazine.com/2026/03/hermanos-grimm-hamelin-estatua.jpg)
 
-La ruta de los Hermanos Grimm, que en 2025 celebró el 50 aniversario de su creación, permite vivir a los más pequeños (y también a los mayores) sus cuentos preferidos en primera persona: besar a la Niña de los Gansos, caminar tras el flautista de Hamelín o volar con el barón de Münchhausen. Además, ciudades llenas de encanto y esos verdes paisajes alemanes que nos cautivan en cada viaje. 
+La ruta de los Hermanos Grimm, que en 2025 celebró el 50 aniversario de su creación, permite vivir a los más pequeños (y también a los mayores) sus cuentos preferidos en primera persona: besar a la Niña de los Gansos, caminar tras el flautista de Hamelín o volar con el barón de Münchhausen. Además, en la ruta se incluyen ciudades llenas de encanto y esos verdes paisajes alemanes que nos cautivan en cada viaje. 
 
 ## Gotinga, el primer hogar de los Grimm
 
