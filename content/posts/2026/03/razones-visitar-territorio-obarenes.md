@@ -5,7 +5,7 @@ cover: https://fotos.etheriamagazine.com/2026/03/Burgos-territorio-obarenes-barc
 categories: 
   - viajar-en-familia
 tags: 
-  - espana
+  - españa
 authors:
   - Redacción Etheria
 ---
