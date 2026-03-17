@@ -40,8 +40,7 @@ antes de viajar echa un vistazo a su web para estar al día de todo lo que pasa 
 dinámico espacio cultural. No hay que perderse su bonita terraza, que ofrece unas vistas 
 de 360 grados increíbles de París. 
 
-Horario: de 11 a 21 h (martes cerrado). Entradas para el [Centro 
-Pompidou](https://www.civitatis.com/es/paris/entrada-centro-pompidou/?aid=10211). 
+Horario: de 11 a 21 h (martes cerrado). 
 
 ![Fachada del Centro Georges Pompidou.](https://fotos.etheriamagazine.com/2024/01/paris-centro-pompidou.jpg "Fachada del Centro Georges Pompidou.")
 
