@@ -3,8 +3,8 @@ title: "Novedades en las estaciones de esquí del Pirineo catalán"
 date: 2025-12-18
 cover: https://fotos.etheriamagazine.com/2025/12/Pirineos-Baqueira-Beret.jpg
 categories: 
-  - organiza-tu-viaje
-  - excursiones
+  - estilo-de-vida
+  - lo-ultimo-en-viajes
 authors:
   - Redacción Etheria
 ---

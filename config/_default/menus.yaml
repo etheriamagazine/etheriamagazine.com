@@ -79,6 +79,12 @@ main:
     identifier: estilo
     pageRef: "categories/estilo-de-vida"
     weight: 5
+  - name: Bienestar
+    pageRef: categories/bienestar
+    parent: estilo
+  - name: Compras
+    pageRef: categories/compras
+    parent: estilo    
   - name: Cultura
     pageRef: categories/cultura
     parent: estilo
@@ -87,15 +93,12 @@ main:
     parent: estilo
   - name: Hoteles
     pageRef: categories/hoteles
+    parent: estilo  
+  - name: Lo último en viajes
+    pageRef: categories/lo-ultimo-en-viajes
     parent: estilo
   - name: Lujo
     pageRef: categories/viajes-de-lujo
-    parent: estilo
-  - name: Bienestar
-    pageRef: categories/bienestar
-    parent: estilo
-  - name: Compras
-    pageRef: categories/compras
     parent: estilo
   - name: Ocio
     pageRef: categories/ocio
