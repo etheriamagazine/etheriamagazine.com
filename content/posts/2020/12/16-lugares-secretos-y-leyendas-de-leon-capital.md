@@ -20,7 +20,7 @@ Todas las ciudades del mundo tienen su particular catálogo de secretos, mitos y
 Cuenta la leyenda que por la Catedral de León se pasean cuatro fantasmas. Uno de ellos es el **rey Ordoño II**, cuyos restos reposan junto a la girola; otro es **Manrique de Lara**, impulsor del templo; el tercero es el **obispo de San Alvito**, que trajo los restos de San Isidoro; y el último, el del patrono **San Froilán**. La catedral tiene también otra leyenda preciosa cuyo protagonista es un topo que impedía avanzar en su construcción y cuya piel, teóricamente, colgaba sobre la puerta de San Juan, tras ser 
 cazado y destripado. La leyenda, sin embargo, perdió peso cuando se descubrió que lo que pende de la catedral es el caparazón de una tortuga llegada de un lugar remoto. 
 
-- [Visita guiada por la Catedral](https://www.civitatis.com/es/leon/visita-guiada-catedral-leon/?aid=10211) (6 €). 
+- [Visita guiada por la Catedral](https://www.civitatis.com/es/leon/visita-guiada-catedral-leon/?aid=10211) (8 €). 
 
 ![leon en plaza de san marcelo](https://fotos.etheriamagazine.com/2020/12/leon-escultura-san-marcelo.jpg "Este león sale de una alcantarilla en la Plaza de San Marcelo. © Ayto. León")
 
@@ -38,7 +38,7 @@ El arquitecto modernista Antoni Gaudí preparó una sorpresa para los que se atr
 dragón. Cuando se desmontó la escultura original, en 1950, apareció en su base un tubo de plomo con documentos de época. Y entre ellos, los planos originales del edificio. 
 Pero no sólo eso, sino que a principios de 2020, y por casualidad, se descubrieron bajo las cuatro torres del inmueble decenas de **cabezas de dragón** camufladas. Son de madera y tienen la boca semiabierta. Y hasta ahora nadie había reparado en ellas, porque desde la calle son prácticamente imperceptibles. 
 
-- [Tour de los misterios y leyendas de León](https://www.civitatis.com/es/leon/tour-misterios-leyendas-leon/?aid=10211) (10 €). 
+- [Tour de los misterios y leyendas de León](https://www.civitatis.com/es/leon/tour-misterios-leyendas-leon/?aid=10211) (12 €). 
 
 ![leyendas casa botines](https://fotos.etheriamagazine.com/2020/12/leon-casa-botines-fachada.jpg "Fachada y torres de la Casa Botines. © Ayto. de León")
 
@@ -102,7 +102,7 @@ Esta farmacia ubicada en el número 3 de la Calle Ancha es toda una obra de arte
 
 ## 14. Lances de capa y espada en la calle de Matasiete
 
-En este callejón oscuro y tortuoso, existe una hornacina con la imagen del **Santo Cristo de la Agonía** donde se suele colocar una campanilla de aceite cuando en el barrio hay un enfermo en trance de muerte. Se sabe que en esta calle, un 1 de enero, mataron a siete en un lance de honor y de ahí viene su nombre. Dicen que en las noches de invierno se pasea por aquí un hombre con capa y espada y se escuchan voces de lucha. Puedes ver la imagen en este artículo delv[Diario de León.](https://www.diariodeleon.es/articulo/destinos/la-calle-de-la-emboscada/201601150400001567692.html) 
+En este callejón oscuro y tortuoso, existe una hornacina con la imagen del **Santo Cristo de la Agonía** donde se suele colocar una campanilla de aceite cuando en el barrio hay un enfermo en trance de muerte. Se sabe que en esta calle, un 1 de enero, mataron a siete en un lance de honor y de ahí viene su nombre. Dicen que en las noches de invierno se pasea por aquí un hombre con capa y espada y se escuchan voces de lucha. Puedes ver la imagen en este artículo del [Diario de León.](https://www.diariodeleon.es/articulo/destinos/la-calle-de-la-emboscada/201601150400001567692.html) 
 
 ![plaza mayor de leon](https://fotos.etheriamagazine.com/2020/12/Leon-plaza-mayor.jpg "Plaza Mayor de León. ©FirkinCat / CC BY-SA 3.0 es")
 
