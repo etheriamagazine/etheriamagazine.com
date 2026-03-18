@@ -4,7 +4,7 @@ date: 2025-09-27
 cover: https://fotos.etheriamagazine.com/2025/09/Alemania-Leipzig-Augustusplat-Gewandhaus.jpg
 categories: 
   - estilo-de-vida
-  - cultura
+  - Lo-ultimo-en-viajes
 tags: 
   - europa
 authors: 
