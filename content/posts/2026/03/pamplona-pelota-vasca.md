@@ -1,6 +1,7 @@
 ---
 title: "Visita Pamplona para conocer qué es la pelota vasca y todas las actividades que se celebran en 2026 en torno a este deporte"
 date: 2026-03-25
+Featured:false
 cover: https://fotos.etheriamagazine.com/2026/03/pamplona-pelota-vasca-fronton.jpg
 categories: 
   - estilo-de-vida
