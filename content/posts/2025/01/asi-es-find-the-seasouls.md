@@ -4,7 +4,7 @@ date: 2025-01-20
 cover: https://fotos.etheriamagazine.com/2025/01/Jessica-de-Leon-consejera-de-Turismo-y-Empleo-del-Gobierno-de-Canarias.jpeg
 categories: 
   - estilo-de-vida
-  - Lo-ultimo-en-viajes
+  - lo-ultimo-en-viajes
 authors: 
   - Redacción Etheria
 ---
