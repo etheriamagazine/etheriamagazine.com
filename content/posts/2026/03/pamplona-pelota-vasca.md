@@ -9,16 +9,15 @@ categories:
 authors:
   - redacción-etheria
 ---
-
-Pamplona es la Capital Mundial de la Pelota Vasca, un deporte que forma parte de su historia y que conforma su identidad tanto como los Sanfermines o los pintxos de los bares de la calle Estafeta. Este 2026, la ciudad invita a los viajeros a descubrir este patrimonio cultural a través de partidos, rutas guiadas y experiencias gastronómicas que suman muchos para elegirla como destino de tu próxima escapada. 
+Pamplona es la Capital Mundial de la Pelota Vasca, un deporte que forma parte de su historia y que conforma su identidad tanto como los Sanfermines o los pintxos de los bares de la calle Estafeta. Este 2026, la ciudad invita a los viajeros a descubrir este patrimonio cultural a través de partidos, rutas guiadas y experiencias gastronómicas que suman mucho para elegirla como destino de tu próxima escapada. 
 
 ![Frontón. © Visit Pamplona](https://fotos.etheriamagazine.com/2026/03/pamplona-pelota-vasca-fronton.jpg)
 
-La pelota vasca es mucho más que un deporte en Pamplona. En esta ciudad, esta disciplina sirve para socializar, pero además es identidad local y común con el resto de Navarra, el País Vasco y el País Vasco francés. Por eso Pamplona es la Capital Mundial de la Pelota Vasca, una definición que va más allá de una mera estrategia de marketing ya que este juego atraviesa el urbanismo, la historia y el alma de la capital navarra. Porque la pelota vasca no son sólo campeonatos y rankings; es también respeto al rival y elegancia en el juego. Y, sobre todo, es un patrimonio que se vive día a día por todos los pamplonicas.  
+La pelota vasca es mucho más que un deporte en Pamplona. En esta ciudad, esta disciplina sirve para socializar, pero además es identidad local y común con el resto de Navarra, el País Vasco y el País Vasco francés. Por eso Pamplona es la **Capital Mundial de la Pelota Vasca**, una definición que va más allá de una mera estrategia de marketing ya que este juego atraviesa el urbanismo, la historia y el alma de la capital navarra. Porque la pelota vasca no son sólo campeonatos y rankings; es también respeto al rival y elegancia en el juego. Y, sobre todo, es un patrimonio que se vive día a día por todos los pamplonicas.  
 
 ![Monumento a los Sanfermines en Pamplona.](https://fotos.etheriamagazine.com/2026/03/pamplona-pelota-vasca-monumento-sanfermines.jpg)
 
-Por este motivo Pamplona ofrece este 2026 un calendario de eventos y experiencias en torno a este deporte que se suma a la ya extensa oferta de ocio en forma de festivales, naturaleza urbana, gastronomía y fiestas locales como los populares Sanfermines. 
+Por este motivo Pamplona ofrece este 2026 un calendario de eventos y experiencias en torno a este deporte que se suma a la ya extensa oferta de ocio en forma de festivales, naturaleza urbana, gastronomía y fiestas locales como los populares **Sanfermines**. 
 
 ## Un poco de historia de la pelota vasca
 
@@ -32,7 +31,7 @@ Hoy en día, la pelota no vive aislada del resto de la identidad pamplonesa. Esp
 
 ## ¿Qué es la pelota vasca y cómo se juega?
 
-La pelota vasca es un deporte bastante desconocido fuera su área de influencia. Para empezar a conocerlo, hay que saber cuáles son sus pilares: el frontón, la pelota, los pelotaris y las distintas modalidades de juego. 
+La pelota vasca es un deporte poco popular fuera su área de influencia. Para empezar a conocerlo, hay que saber cuáles son sus pilares: el frontón, la pelota, los pelotaris y las distintas modalidades de juego. 
 
 El **frontón** no es solo una infraestructura deportiva. Su arquitectura nace de la necesidad de reglamentar un juego popular y cada uno posee una personalidad propia: cambia el sonido del bote, la respuesta del frontis o tiene una textura de la piedra diferente. La **pelota**, por su parte, es una obra de artesanía. Fabricada con cuero, goma y lana, con un interior denominado “potro”, exige aprendizaje y técnica para dominarla. No hay dos iguales; cada una condiciona el ritmo y la estrategia del partido. Por su parte, los **pelotaris** gozan de un reconocimiento social notable y, más allá del heroísmo deportivo, encarnan una ética del esfuerzo y del respeto que forma parte del imaginario colectivo.
 
@@ -46,7 +45,7 @@ Asistir a un partido de pelota vasca en Pamplona es como un ritual. El día ante
 
 En este año 2026 Pamplona refleja su pasión por la pelota vasca con distintos eventos y rutas temáticas que permiten a las viajeras acercarse a esta parte tan importante de la cultura de la ciudad. Podrás realizar la **Ruta temática por la historia de la pelota vasca en Pamplona** (que concluye con una exhibición en vivo de distintas modalidades); una **visita guiada de Pamplona y la pelota vasca**; o la **visita por el legado del artista Jorge Oteiza** y su relación con la pelota vasca. Además, se va a celebrar el evento gastronómico **“A mano y cuchara, de la pelota y la cocina”** en el que después de los partidos se disfruta de los pintxos y los productos locales. 
 
-![Quisco de la Plaza del Castillo en Pamplona.](https://fotos.etheriamagazine.com/2026/03/Pamplona-pelota-vasca-Quiosco-de-la-Plaza-del-Castillo.jpg)
+![Quiosco de la Plaza del Castillo en Pamplona.](https://fotos.etheriamagazine.com/2026/03/Pamplona-pelota-vasca-Quiosco-de-la-Plaza-del-Castillo.jpg)
 
 Y no olvides que en el [frontón Labrit](https://www.fnpelota.com/pub/home.asp?idioma=ca) se celebran partidos casi todos los fines de semana. Consulta su programación y acércate a vivir de primera mano la emoción que vive Pamplona con este deporte. 
 
