@@ -4,8 +4,7 @@ date: 2023-06-07
 cover: https://fotos.etheriamagazine.com/2023/06/patrimonio-unesco-Wartburg.jpg
 categories: 
   - estilo-de-vida
-  - cultura
-  - ocio
+  - lo-ultimo-en-viajes
 authors: 
   - Redacción Etheria
 ---

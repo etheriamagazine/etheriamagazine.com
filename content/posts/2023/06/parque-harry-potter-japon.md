@@ -4,7 +4,7 @@ date: 2023-06-19
 cover: https://fotos.etheriamagazine.com/2023/06/parque-Harry-Potter-japon.jpg
 categories: 
   - estilo-de-vida
-  - ocio
+  - lo-ultimo-en-viajes
 tags: 
   - mundo
 authors: 
