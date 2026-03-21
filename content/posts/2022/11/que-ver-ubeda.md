@@ -154,7 +154,7 @@ Ambas ciudades están a pocos kilómetros y comparten un valioso legado renacent
 
 **Día 1**: un día en Úbeda siguiendo las recomendaciones de este artículo.
 
-**Día 2**: visita a [Baeza](https://etheriamagazine.com/articulos/que-ver-baeza/).
+**Día 2**: visita a [Baeza](https://etheriamagazine.com/articulos/que-ver-baeza/) (guía completa en el enlace).
 
 ### ¿Cuál es la mejor época para visitar Úbeda?
 La primavera y el otoño son las mejores estaciones para visitar Úbeda, gracias a temperaturas suaves y menor afluencia turística.
@@ -163,7 +163,7 @@ La primavera y el otoño son las mejores estaciones para visitar Úbeda, gracias
 Algunas de las más recomendadas son: visitar el Centro de Interpretación Olivar y Aceite, recorrer la muralla y sus miradores y descubrir la tradición alfarera en la Alfarería Pablo Tito
 
 ### Tour de las mujeres ilustres de Úbeda
-En este momento está activo pero comprueba en tu viaje se ha reactivado el tour de las mujeres ilustres de Úbeda, que llevaba por aquellos lugares relacionados con las mujeres más reconocidas de la ciudad de Úbeda (Regina de Lamo, María de Mendoza, Beatriz de la Cueva, María de Molina Morena). 
+En este momento no está activo, pero comprueba en tu viaje si se ha reactivado el tour de las mujeres ilustres de Úbeda, que llevaba por aquellos lugares relacionados con las mujeres más reconocidas de la ciudad (Regina de Lamo, María de Mendoza, Beatriz de la Cueva, María de Molina Morena). 
 
 
 **También te puede interesar...** 
