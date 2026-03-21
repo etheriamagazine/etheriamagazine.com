@@ -9,7 +9,6 @@ tags:
 authors: 
   - Elisabeth G. Iborra
 ---
-
 Si tienes pensado viajar sola al Salar de Uyuni, el desierto de sal más grande del mundo, es necesario que tengas en cuenta algunos consejos para que todo salga a pedir de boca. El primero de ellos, elegir bien la empresa que te guíe en el salar. Si viajas sola, te interesa especialmente seguir estas recomendaciones. **Por Elisabeth G. Iborra** (periodista y escritora experta en viajar sola) 
 
 ![Mujer saltando en el Salar de Uyuni.](https://fotos.etheriamagazine.com/2019/05/viajar-sola-salar-uyuni.jpg "Salar de Uyuni. © Alan Hurt Jr.")
@@ -19,6 +18,7 @@ La singularidad del Salar de Uyuni convierte este rincón de Bolivia en uno de l
 ## Día 1. Ruta por el Salar de Uyuni
 
 El pueblo que da entrada al majestuoso Salar de Uyuni parece una ligera evolución de los de las películas del Oeste, sólo que con indígenas en vez de vaqueros. Desde allí parten los 4x4 hacia el **cementerio del tren** que se quedó allá varado para siempre como reliquia oxidada de tiempos más prósperos. La historia es que allí había minas muy ricas que proporcionaban gran cantidad de estaño y otros minerales exportables a otros países. 
+
 En esos mismos tiempos, Chile le usurpó a Bolivia la región del Pacífico con el apoyo de los ingleses, que estaban interesados en el abono que se acumulaba a lo largo de toda la costa formado por los excrementos de los animales. Supongo que los ingleses pensaban crear muchos jardines para mandar tal cargamento a Chile. 
 
 Después, para compensar (ríete de su generosidad), enviaron para allá el ferrocarril y construyeron las vías para mejorar el transporte en Bolivia y, por tanto, la exportación entre países. Evidentemente, el interés que tenían los británicos eran los minerales extraídos por los bolivianos en condiciones de absoluta explotación y derrumbe. 
@@ -74,14 +74,51 @@ Al ascender hasta el punto más alto, a 4.800 metros de altitud, llega la mayor 
 
 El tercer día se madruga sobremanera para poder llegar a tiempo a los géiseres, que, a partir de cierta hora, ya serían imposibles de ver. Los que no se van a ir son los meteoritos que forman el paisaje conocido como el **cuadro de Dalí**, porque ciertamente es surrealista y espectacular. El rojo de las montañas, según la comitiva se aproxima a Chile, se va intensificando, contrastado sólo por los colores de las lagunas, que aún hay una blanca y una verde, cambiante según sople el viento (y según el calentamiento global, que la va disecando año tras año). Eso sí, el momento estelar del día son las **aguas termales**, donde pasas del frío intenso de la mañana a los 37ºC de la piscina natural, un verdadero placer, ideal para quitarse el polvo de encima y cambiar de temperatura corporal. 
 
-
+**Excursiones organizadas en español con Civitatis:**
 3 días por el Salar de Uyuni y sus desiertos desde 219 €. [Más info](https://www.civitatis.com/es/uyuni/3-dias-salar-uyuni-desiertos/?aid=10211). 
 
 Excursión al Salar de Uyuni desde 89 €. [Más info](https://www.civitatis.com/es/uyuni/excursion-salar-uyuni/?aid=10211). 
 
+## Guía práctica – Preguntas frecuentes Salar de Uyuni (Bolivia)
+
+### ¿Es seguro viajar al Salar de Uyuni por libre o sola?
+Viajar al Salar de Uyuni es seguro si se hace con una agencia organizada. Es un entorno remoto y extremo, por lo que no se recomienda recorrerlo por libre. Elegir una empresa con buenas referencias es clave para garantizar seguridad y comodidad.
+
+### ¿Cuántos días se necesitan para visitar el Salar de Uyuni?
+El itinerario más habitual es de 3 días. Permite recorrer el salar, el altiplano y las lagunas andinas sin prisas, incluyendo paradas en géiseres y aguas termales.
+
+### ¿Qué ver el primer día en el Salar de Uyuni?
+El primer día incluye algunos de los lugares más icónicos: el cementerio de trenes, el pueblo de Colchani, extracción artesanal de sal, islas con cactus gigantes en medio del salar 
+
+### ¿Cómo se formó el Salar de Uyuni?
+El Salar de Uyuni se originó por la evaporación de antiguos lagos prehistóricos. Con el tiempo, el agua desapareció y dejó una enorme capa de sal compacta que hoy forma este paisaje único.
+
+### ¿Dónde dormir en el Salar de Uyuni?
+Durante el recorrido se duerme en hoteles construidos con sal, como Luna Salada y Palacio de la Sal. Son sencillos pero muy singulares, adaptados al entorno.
+
+### ¿Qué ver el segundo día del tour?
+El segundo día se centra en paisajes de altura: formaciones rocosas y desiertos, volcanes multicolores, el salar de Chiguana y lagunas con flamencos 
+
+### ¿Cuál es la laguna más impresionante?
+La laguna Colorada es la más espectacular por su color rojizo intenso y su ubicación a más de 4.000 metros de altitud.
+
+### ¿Qué ver el tercer día en el Salar de Uyuni?
+El último día incluye géiseres activos al amanecer, paisajes conocidos como "el cuadro de Dalí" y un baño en aguas termales naturales.
+
+### ¿Qué animales hay en el Salar de Uyuni?
+Se pueden observar flamencos, llamas, zorros andinos y otros animales adaptados al clima extremo del altiplano.
+
+### ¿Qué tener en cuenta antes de viajar al Salar de Uyuni?
+•	Altitud elevada (hasta 4.800 m)
+•	Temperaturas muy bajas 
+•	Largas distancias sin servicios 
+•	Necesidad de tour organizado 
+
+### ¿Cuál es el mejor consejo para viajar al Salar de Uyuni?
+Elegir bien la agencia. Es el factor que más influye en la seguridad y calidad de la experiencia.
 
 
-### También te puedes interesar...
+### También te puede interesar...
 
 {{< reflink 10-grandes-destinos-para-mujeres-viajan-solas >}}. 
 
