@@ -35,12 +35,7 @@ se merece una visita aunque hayamos estado mil veces.
 
 ## Ver Londres desde Radio Rooftop
 
-Disfrutar de la capital británica desde el cielo siempre es un buen plan. Y aunque hay 
-lugares icónicos para hacerlo, como el **London Eye** o la **Heron Tower**, nosotros te 
-proponemos que subas a **Radio Rooftop**, la azotea de ME London, el único hotel con la 
-firma del arquitecto Norman Foster. Tenemos unas magníficas vistas a Covent Garden, al 
-río Támesis, al Big Ben e incluso a la City londinense. Para disfrutar de una copa al 
-ritmo del Dj. 
+Disfrutar de la capital británica desde el cielo siempre es un buen plan. Y aunque hay lugares icónicos para hacerlo, como el **London Eye** o la **Heron Tower**, nosotros te proponemos que subas a **Radio Rooftop**, la azotea de ME London, el único hotel con la firma del arquitecto Norman Foster. Tenemos unas magníficas vistas a Covent Garden, al río Támesis, al Big Ben e incluso a la City londinense. Para disfrutar de una copa al ritmo del Dj. 
 
 ## Descubrir Little Venice
 
