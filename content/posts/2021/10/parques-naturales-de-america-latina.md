@@ -10,7 +10,6 @@ tags:
 authors: 
   - Redacción Etheria
 ---
-
 Los atractivos turísticos de América Latina son infinitos, y entre ellos se encuentran los paisajes sobrecogedores que la naturaleza ha formado en su territorio. Aquí hemos seleccionado 10 parques naturales de América Latina, unos lugares donde el tiempo queda suspendido y necesitamos tomar aliento para asimilar tanta belleza. 
 
 ![Perito Moreno, en el Parque Nacional de los Glaciares (Argentina)](https://fotos.etheriamagazine.com/2021/10/paisajes-america-latina-perito-moreno-pasarelas.jpg "Perito Moreno, en el Parque Nacional de los Glaciares (Argentina).")
@@ -21,7 +20,7 @@ Son muchos los viajeros para los que la naturaleza es el motivo de realizar un v
 
 El salar de Uyuni es un inmenso espejo que ocupa más de 10.500 kilómetros cuadrados durante la estación lluviosa y, también, un desierto blanco de sal donde no podréis dejar de hacer fotos en las que el horizonte confundirá el suelo con el cielo. La inmensidad del paisaje consigue formar unos efectos ópticos únicos en el mundo. Para llegar desde la localidad de Uyuni tendréis que viajar hasta **Colchani**, punto de partida de las excursiones por el salar. Aquí, en la temporada seca, se puede conducir sobre la superficie, una experiencia que parece del fin del mundo. Nos os perdáis una visita a la **isla de Incahuasi** que con su jardín de cactus gigantes aparece como un singular y único oasis en medio de este desierto de sal. 
 
-• Civitatis te propone una [excursión al Salar de Uyuni (https://www.civitatis.com/es/uyuni/excursion-salar-uyuni/?aid=10211). 
+• Civitatis te propone una [excursión al Salar de Uyuni](https://www.civitatis.com/es/uyuni/excursion-salar-uyuni/?aid=10211).
 
 ![Salar de Uyuni.](https://fotos.etheriamagazine.com/2021/10/paisajes-america-latina-Salar-Uyuni.jpg "Salar de Uyuni, en Bolivia.")
 
@@ -90,7 +89,7 @@ Las cataratas de Iguazú están ubicadas en la frontera entre Argentina y Brasil
 Para empezar, alojarse en uno de los hoteles que las rodean ya es una experiencia por ese ambiente tropical que mantiene este lugar durante todo el año. Para llevarse una panorámica completa de este maravilloso paisaje natural hay que realizar varias actividades. Primero, pasear por sus miradores (en el lado argentino) y acercarse siguiendo sus senderos a esa masa ensordecedora de agua que es la **Garganta del Diablo**. Después, montarse en la lancha que acerca a la cascada en un divertido paseo donde te mojas seguro, pero que no puedes perderte. Y, si quieres darte un capricho, un paseo en helicóptero para ver toda la extensión y forma de las cataratas es una experiencia única. Para terminar, nada como ir a los miradores del lado brasileño, que dan una perspectiva más amplia de esta impresionante caída de agua. 
 
 • Con Civitatis puedes realizar un paseo en helicóptero por las cataratas de Iguazú, una [excursión a las cataratas de 
-Iguazú](https://www.civitatis.com/es/puerto-iguazu/tour-cataratas-iguazu-brasil//?aid=10211) y un [tour al lado brasileño de las cataratas](https://www.civitatis.com/es/puerto-iguazu/tour-cataratas-iguazu-brasil//?aid=10211) desde el lado argentino. 
+Iguazú](https://www.civitatis.com/es/puerto-iguazu/tour-cataratas-iguazu-brasil/?aid=10211) y un [tour al lado brasileño de las cataratas](https://www.civitatis.com/es/puerto-iguazu/tour-cataratas-iguazu-brasil/?aid=10211) desde el lado argentino. 
 
 ## Lago Atitlán (Guatemala)
 
@@ -98,12 +97,9 @@ La imagen del lago Atitlán, rodeado por el perfil de los volcanes San Pedro, At
 
 ![Lago Atitlán.](https://fotos.etheriamagazine.com/2021/10/paisajes-america-latina-lago-atitlan.jpg "Lago Atitlán. © Alexander Schimmeck")
 
-✅ **También te puede interesar**: 
+**También te puede interesar**: 
 
 {{< reflink 10-yacimientos-arqueologicos-america-latina >}} 
-
 {{< reflink viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala >}} 
-
 {{< reflink viaje-costa-rica-con-ninos-que-hacer-en-familia >}} 
-
 {{< reflink mejores-cataratas-del-mundo >}}
