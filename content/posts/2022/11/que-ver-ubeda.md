@@ -10,52 +10,28 @@ authors:
   - Firmas invitadas
 ---
 
-Úbeda se alza en el centro de la provincia de Jaén orgullosa de conservar su trazado 
-original y un patrimonio que refleja la importancia que tuvo en los siglos XVI y XVII. 
-De todo ello te hablaremos en este artículo, además de recomendarte los lugares 
-imprescindibles que tienes que ver en Úbeda. Toma nota para aprovechar el viaje al 
-máximo. 
-
-**Por Mari Carmen Duarte** 
+Úbeda se alza en el centro de la provincia de Jaén orgullosa de conservar su trazado original y un patrimonio que refleja la importancia que tuvo en los siglos XVI y XVII. De todo ello te hablaremos en este artículo, además de recomendarte los lugares 
+imprescindibles que tienes que ver en Úbeda. Toma nota para aprovechar el viaje al máximo. **Por Mari Carmen Duarte** 
 
 ![jardines y basílica de los Reales Alcázares.](https://fotos.etheriamagazine.com/2022/11/ubeda-basilica-santa-maria.jpg "Fachada de la basílica de los Reales Alcázares.")
 
-La ciudad de los cerros, Úbeda, guarda el encanto que reyes, escritores, cantantes y 
-otras figuras notables han ido destacando siglo tras siglo. La majestuosidad de 
-localidades como Úbeda o Baeza, ambas Patrimonios de la Humanidad desde 2003, viene 
-acompañada de una falda verde que teje a su alrededor la comarca de La Loma, el 
-territorio con mayor concentración de olivos del mundo. El legado de la piedra de sus 
-cascos históricos baña de renacimiento una visita a dos enclaves en los que la cultura y 
-el sabor también suman para embrujarte. En esta ocasión nos centraremos en aquello que 
-tienes que ver en Úbeda pero próximamente te llevaremos también a Baeza. 
+La ciudad de los cerros, Úbeda, guarda el encanto que reyes, escritores, cantantes y otras figuras notables han ido destacando siglo tras siglo. La majestuosidad de localidades como Úbeda o Baeza, ambas Patrimonios de la Humanidad desde 2003, viene 
+acompañada de una falda verde que teje a su alrededor la comarca de La Loma, el territorio con mayor concentración de olivos del mundo. El legado de la piedra de sus cascos históricos baña de renacimiento una visita a dos enclaves en los que la cultura y 
+el sabor también suman para embrujarte. En esta ocasión nos centraremos en aquello que  tienes que ver en Úbeda pero próximamente te llevaremos también a Baeza. 
 
 ## Úbeda, tierra de artistas
 
-Cuna de cantantes, como Joaquín Sabina, y de escritores, como Antonio Muñoz Molina, la 
-monumental ciudad de Úbeda ha visto pasar también por sus calles desde poetas como 
-Antonio Machado hasta reyes, como Carlos I de España. Representante de la arquitectura 
-privada y el poder civil, la ciudad del Renacimiento andaluz está salpicada de numerosos 
-encantos. Sigue leyendo para conocer todo lo que tienes que ver en Úbeda. 
+Cuna de cantantes, como Joaquín Sabina, y de escritores, como Antonio Muñoz Molina, la monumental ciudad de Úbeda ha visto pasar también por sus calles desde poetas como Antonio Machado hasta reyes, como Carlos I de España. Representante de la arquitectura privada y el poder civil, la ciudad del Renacimiento andaluz está salpicada de numerosos encantos. Sigue leyendo para conocer todo lo que tienes que ver en Úbeda. 
 
-📌 Para empezar el viaje, un freetour por Úbeda 
-([reservar](https://www.civitatis.com/es/ubeda/free-tour-ubeda/)) puede serte de ayuda o 
-el [tour por la ciudad con 
-entradas](https://www.civitatis.com/es/ubeda/visita-guiada-ubeda/?aid=10211) incluidas 
-desde 14 €. Y si vas en familia, no te pierdas la [visita 
-teatralizada](https://www.civitatis.com/es/ubeda/tour-teatralizado-ubeda/?aid=10211). 
+Para empezar el viaje, un freetour por Úbeda ([reservar](https://www.civitatis.com/es/ubeda/free-tour-ubeda/)) puede serte de ayuda o el [tour por la ciudad con entradas](https://www.civitatis.com/es/ubeda/visita-guiada-ubeda/?aid=10211) incluidasdesde 14 €. Y si vas en familia, no te pierdas la [visita teatralizada](https://www.civitatis.com/es/ubeda/tour-teatralizado-ubeda/?aid=10211). 
 
-📌 Opción doble: Visitas a Úbeda y Baeza con entradas incluidas (24 €). [Reserva con 
-antelación](https://www.civitatis.com/es/ubeda/oferta-ubeda-baeza-completo/?aid=10211). 
+Opción doble: Visitas a Úbeda y Baeza con entradas incluidas (24 €). [Reserva con antelación](https://www.civitatis.com/es/ubeda/oferta-ubeda-baeza-completo/?aid=10211). 
 
 ### Plaza Vázquez Molina
 
-Esta plaza renacentista del siglo XVI es donde se concentra gran parte del conjunto 
-monumental ubetense y el mejor lugar para comenzar una ruta por la ciudad. Francisco de 
-los Cobos, secretario de Estado de Carlos I, fue el mayor impulsor de la construcción de 
-la decena de edificios históricos que se encuentran en esta bella plaza. A continuación 
-te enumeramos los más importantes: 
+Esta plaza renacentista del siglo XVI es donde se concentra gran parte del conjunto monumental ubetense y el mejor lugar para comenzar una ruta por la ciudad. Francisco de los Cobos, secretario de Estado de Carlos I, fue el mayor impulsor de la construcción de la decena de edificios históricos que se encuentran en esta bella plaza. A continuación te enumeramos los más importantes: 
 
-#### • Palacio Vázquez de Molina
+Palacio Vázquez de Molina
 
 El **palacio Vázquez de Molina**, actual Ayuntamiento, lo mandó construir el sobrino de 
 Cobos, quien le da nombre. Conocido también como palacio de las Cadenas, en él se 
@@ -64,7 +40,7 @@ Renacimiento del Sur.
 
 ![Palacio Vázquez de Molina en Úbeda](https://fotos.etheriamagazine.com/2022/11/palacio-vazquez-molina-ubeda.jpg "Palacio Vázquez de Molina.")
 
-#### • Capilla del Salvador del Mundo
+### Capilla del Salvador del Mundo
 
 Vandelvira también realizó el proyecto de la **Sacra Capilla del Salvador del Mundo**, 
 en la misma plaza, y que es el mayor mausoleo civil construido en España. Declarado 
@@ -76,7 +52,7 @@ antiguos del país.
 
 ![Plaza Vázquez Molina con la Sacra Capilla del Salvador al fondo.](https://fotos.etheriamagazine.com/2022/11/Ubeda-plaza-vazquez-molina.jpg "Plaza Vázquez Molina con la Sacra Capilla del Salvador al fondo.")
 
-#### • Basílica de Santa María de los Reales Alcázares
+### Basílica de Santa María de los Reales Alcázares
 
 Frente a unos preciosos jardines se encuentra la **basílica de Santa María de los Reales 
 Alcázares**, Patrimonio Nacional construido sobre la antigua Mezquita Mayor y otro de 
@@ -168,7 +144,7 @@ Cristo, donde se encuentra el **Centro de Interpretación de la Muralla de Úbed
 aquellos que quieran saber más sobre el pasado defensivo de la ciudad, pueden visitar el 
 Museo Arqueológico de la Casa Mudéjar. 
 
-📌 Puedes reservar visitas guiadas en viveubeda.es 
+Puedes reservar visitas guiadas en viveubeda.es 
 
 ![Puerta de Granada en la muralla de Úbeda.](https://fotos.etheriamagazine.com/2022/11/ubeda-muralla-puerta-granada.jpg "Puerta de Granada en la muralla de Úbeda. © Jorge Fdez. Salas")
 
@@ -185,9 +161,7 @@ actividades. En las visitas, donde se muestran los resultados de las catas arque
 realizadas en su interior, se pueden admirar también las pinturas murales de los 
 artistas que la utilizaron como taller y el techo de alfarje, de época mudéjar. 
 
-📌 Aquí puedes reservar una [visita 
-guiada](https://www.civitatis.com/es/ubeda/visita-iglesia-san-lorenzo/?aid=10211) por la 
-iglesia de San Lorenzo. 
+Aquí puedes reservar una [visita guiada](https://www.civitatis.com/es/ubeda/visita-iglesia-san-lorenzo/?aid=10211) por la iglesia de San Lorenzo. 
 
 ### Calle Real y calle Valencia
 
@@ -203,9 +177,6 @@ este sector se han seguido concentrando en esta vía de la ciudad, de los cuales
 los más representativos es la **Alfarería Pablo Tito** (pablotito.es), donde no sólo hay 
 talleres, sino también un museo donde descubrir la historia y las curiosidades de este 
 oficio, y el papel de la familia Tito en él durante generaciones. 
-
-📌Visita guiada por el Museo y alfarería de Pablo Tito ([Reserva con 
-antelación](https://www.civitatis.com/es/ubeda/visita-museo-alfareria-taller-ceramica/?aid=10211)). 
 
 ![Museo alfarería Pablo Tito, en Úbeda](https://fotos.etheriamagazine.com/2022/11/ubeda-museo-alfareria-tito.jpg "Museo alfarería Pablo Tito.")
 
@@ -226,17 +197,7 @@ cerca de la sinagoga del Agua y del palacio Vela de los Cobos.
 
 ### Hospital de Santiago
 
-Comparado en muchas ocasiones con [El Escorial de Madrid]({{% ref 
-por-que-visitar-monasterio-el-escorial %}}), el Hospital de Santiago es austero y con 
-poca ornamentación, pero su sencilla belleza causa admiración entre los visitantes de la 
-ciudad. Construido en el siglo XVI por Andrés Vandelvira bajo las órdenes del obispo de 
-Jaén, Don Diego de los Cobos, este edificio tenía como fin ser un hospital para enfermos 
-sin recursos, más allá de usarse como iglesia y palacio. A finales del siglo XX, este 
-recinto pasó a ser **centro cultural**, biblioteca y lugar de exposiciones, 
-convirtiéndose en un Monumento Histórico Nacional de estilo renacentista con espacios 
-como un patio central porticado con columnas de mármol blanco, una cúpula y dos torres 
-recubiertas de azulejos de colores y una escalera lateral que no deja a nadie 
-indiferente. 
+Comparado en muchas ocasiones con [El Escorial de Madrid]({{% ref por-que-visitar-monasterio-el-escorial %}}), el Hospital de Santiago es austero y con poca ornamentación, pero su sencilla belleza causa admiración entre los visitantes de la ciudad. Construido en el siglo XVI por Andrés Vandelvira bajo las órdenes del obispo de Jaén, Don Diego de los Cobos, este edificio tenía como fin ser un hospital para enfermos sin recursos, más allá de usarse como iglesia y palacio. A finales del siglo XX, este recinto pasó a ser **centro cultural**, biblioteca y lugar de exposiciones, convirtiéndose en un Monumento Histórico Nacional de estilo renacentista con espacios como un patio central porticado con columnas de mármol blanco, una cúpula y dos torres recubiertas de azulejos de colores y una escalera lateral que no deja a nadie indiferente. 
 
 ![Hospital de Santiago en Úbeda.](https://fotos.etheriamagazine.com/2022/11/ubeda-hospital-Santiago-1.jpg "Hospital de Santiago, en Úbeda.")
 
@@ -250,7 +211,7 @@ mucho más. Visitar un olivar, hacer una cata y descubrir algunos de sus usos es
 la oferta turística que se puede disfrutar dentro de la **Casa de la Tercia**, un 
 edificio del siglo XVII donde se recaudaba antaño el impuesto de la Iglesia. 
 
-📌Reserva tu [visita guiada al Centro de Interpretación 
+Reserva tu [visita guiada al Centro de Interpretación 
 Olivar](https://www.civitatis.com/es/ubeda/visita-centro-intrepretacion-olivar-cata-aceite/?aid=10211) 
 por unos 15 €. 
 
@@ -272,7 +233,7 @@ famosos dulces. Sin duda, también merecen una visita la Casa Palacio y museo de
 Granada-Venegas o la fachada de la **casa de los Salvajes** y la **casa de las Torres**, 
 sede de la escuela de Arte y cuyo interior esconde una turbia leyenda. 
 
-\*Fotografías del Archivo de Turismo de Andalucía. 
+**Fotografías del Archivo de Turismo de Andalucía. 
 
 ## Guía Práctica de Úbeda
 
