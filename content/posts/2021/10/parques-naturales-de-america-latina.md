@@ -34,7 +34,6 @@ El trayecto merece la pena. Una de las ventajas de este glaciar es que puede dis
 
 • Puedes visitar este glaciar con Civitatis con el [paseo en barco por el glaciar Perito Moreno](https://www.civitatis.com/es/el-calafate/barco-glaciar-perito-moreno/?aid=10211) 
 
-
 ## Selva Amazonas (Brasil)
 
 La selva que rodea el río Amazonas se puede visitar desde varios países. Lo más habitual es hacerlo desde Iquitos en Perú, Leticia en Colombia o Brasil. Escogemos este último país para sumergirnos en el verde infinito a partir de la localidad de **Manaos**. Esta puerta al Amazonas permite tanto excursiones de un día en barcas pequeñas como ser punto de partida para rutas de más jornadas por la selva o cruceros de varios días. Con cualquiera de estas actividades tendréis al alcance de la mano una de las reservas naturales más impresionantes del mundo, con una flora apabullante y una fauna única. Y no os perdáis las singulares localidades que encontraréis en el recorrido, como Óbidos, Santarém o Monte Alegro. ¿Te atreves a pescar pirañas? 
