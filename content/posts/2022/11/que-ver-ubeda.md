@@ -1,5 +1,5 @@
 ---
-title: "Guía esencial de Úbeda para un fin de semana histórico"
+title: "Pasear por Úbeda es viajar en el tiempo, esta ciudad te enamora entre palacios y olivos"
 date: 2022-11-08
 cover: https://fotos.etheriamagazine.com/2022/11/ubeda-basilica-santa-maria.jpg
 categories: 
