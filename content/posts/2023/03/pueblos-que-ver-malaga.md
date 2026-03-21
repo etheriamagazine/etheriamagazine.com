@@ -75,7 +75,7 @@ Estepona es uno de los pueblos mejor cuidados de la Costa del Sol, donde lucen c
 
 ![Calle y torre de la iglesia de los Remedios en Estepona](https://fotos.etheriamagazine.com/2023/03/Malaga-Estepona-iglesia-remedios.jpg "Calle y torre de la iglesia de los Remedios en Estepona. © Turismo de Andalucía.")
 
-Además, merece la pena caminar por el **Paseo Marítimo** que va desde la Playa de la Rada hasta el Puerto Pesquero, donde se encuentra también el **faro Punta Doncella**, que queda estupendo en cualquier foto. Para los que les gusta combinar la playa con la naturaleza, en la web **Estepona Natural** (www.estepona-natural.es) están disponibles rutas de senderismo y en bicicleta para todos los niveles. 
+Además, merece la pena caminar por el **Paseo Marítimo** que va desde la Playa de la Rada hasta el Puerto Pesquero, donde se encuentra también el **faro Punta Doncella**, que queda estupendo en cualquier foto. Para los que les gusta combinar la playa con la naturaleza, en la web **Estepona Natural** (estepona-natural.es) están disponibles rutas de senderismo y en bicicleta para todos los niveles. 
 
 **Excursión organizada:** [Paseo en barco por la bahía de Estepona](https://www.civitatis.com/es/estepona/paseo-barco-estepona/?aid=10211). 
 
@@ -87,8 +87,7 @@ Benalmádena conserva un casco histórico de blanco reluciente que contrasta, co
 
 Si estás aquí de vacaciones, algunos de los lugares que puedes visitar son el castillo El Bil Bil, el castillo de Colomares o la curiosa **estupa de la iluminación**, que se encuentra en un lugar que ofrece además unas vistas estupendas. Otra de las actividades  tiene que ser subir a su **teleférico**, que asciende al monte Calamorro en sólo quince minutos para ofrecer unas vistas impresionantes que llegan hasta Sierra Nevada y África. En la cima hay varias sendas señalizadas perfectas para descubrir las plantas típicas de la zona como el tomillo o la mejorana. 
 
-✅ **Excursiones organizadas:** [Avistamiento de delfines en Benalmádena](https://www.civitatis.com/es/benalmadena/avistamiento-delfines-benalmadena/?aid=10211) / [Entrada para el teleférico de 
-Benalmádena](https://www.civitatis.com/es/benalmadena/entrada-teleferico-benalmadena/?aid=10211) 
+✅ **Excursiones organizadas:** [Avistamiento de delfines en Benalmádena](https://www.civitatis.com/es/benalmadena/avistamiento-delfines-benalmadena/?aid=10211) / [Entrada para el teleférico de Benalmádena (https://www.civitatis.com/es/benalmadena/entrada-teleferico-benalmadena/?aid=10211) 
 
 ### Nerja
 
@@ -98,17 +97,15 @@ Este bonito pueblo costero, asociado para siempre a la mítica serie 'Verano azu
 
 Una de las excursiones que no puedes perderte es a la **Cueva de Nerja**, una de las más espectaculares de España. La visita es muy cómoda, aunque hay que ir preparado para subir escaleras. En ella encontrarás curiosas formaciones geológicas como el belén, los fantasmas (en la sala del mismo nombre) o la impresionante columna central de la Sala del Cataclismo, que llega a tener 18 metros de diámetro. Alrededor hay un Jardín Botánico y rutas de senderismo para los que quieran completar la visita con un paseo. 
 
-✅ **Excursión organizada:** [Free tour por Nerja](https://www.civitatis.com/es/nerja/free-tour-nerja/?aid=10211) / [Tour privado por Nerja](https://www.civitatis.com/es/nerja/tour-privado-nerja/?aid=10211). 
+✅ **Excursión organizada:** [Free tour por Nerja](https://www.civitatis.com/es/nerja/free-tour-nerja/?aid=10211)
 
 ## Pueblos del interior de Málaga
 
-En Málaga no todo es playa. Sus pueblos de interior guardan atractivos cascos históricos y gran parte de la historia de esta zona, marcada por ser tierra de resistencia musulmana durante la conquista cristiana. Además, están siempre bien acompañados de la 
-buena gastronomía y de paisajes naturales preciosos visibles desde sus miradores. 
+En Málaga no todo es playa. Sus pueblos de interior guardan atractivos cascos históricos y gran parte de la historia de esta zona, marcada por ser tierra de resistencia musulmana durante la conquista cristiana. Además, están siempre bien acompañados de la buena gastronomía y de paisajes naturales preciosos visibles desde sus miradores. 
 
 ### Ronda
 
-Ronda es de esos lugares en los que no es que haya que ir una vez en la vida, es que da igual las veces que vayas que siempre querrás volver. Por su historia, por su caso histórico y por ese paisaje único que ofrece el **Puente Nuevo** sobre el vertiginoso 
-tajo que la parte en dos. Este acueducto, construido a mediados del XVIII, es el objeto de casi todas las fotografías que se realizan desde los miradores de la ciudad, como el de **La Alameda del Tajo**. Pero Ronda tiene mucho más, sobre todo una historia de más de dos mil quinientos años que ha dejado la marca de aquellos que la habitaron. Lugares como la Casa del Moro, el Palacio de Mondragón, el Palacio de Moztezuma o la Colegiata de Santa María Auxiliadora son algunos de los monumentos imprescindibles. 
+Ronda es de esos lugares en los que no es que haya que ir una vez en la vida, es que da igual las veces que vayas que siempre querrás volver. Por su historia, por su caso histórico y por ese paisaje único que ofrece el **Puente Nuevo** sobre el vertiginoso tajo que la parte en dos. Este acueducto, construido a mediados del XVIII, es el objeto de casi todas las fotografías que se realizan desde los miradores de la ciudad, como el de **La Alameda del Tajo**. Pero Ronda tiene mucho más, sobre todo una historia de más de dos mil quinientos años que ha dejado la marca de aquellos que la habitaron. Lugares como la Casa del Moro, el Palacio de Mondragón, el Palacio de Moztezuma o la Colegiata de Santa María Auxiliadora son algunos de los monumentos imprescindibles. 
 
 ![El Puente Nuevo de Ronda.](https://fotos.etheriamagazine.com/2023/03/malaga-ronda-puente-nuevo.jpg "El Puente Nuevo de Ronda.")
 
@@ -126,8 +123,7 @@ Ubicado en la comarca de la Axarquía, una de las ventajas de una visita a Frigi
 
 ![casas blancas en Frigiliana en Málaga](https://fotos.etheriamagazine.com/2023/03/Malaga-Frigiliana-calle-barrio-alto.jpg "Calle de Frigiliana. © SG")
 
-En el paseo descubrirás sus adarves, muestra del urbanismo andalusí, y los bonitos rincones de flores y puertas pintadas del **Barribarto** (Barrio Alto) que dan para mil fotos. No te pierdas sus miradores y presta atención a los azulejos que hay en algunas 
-calles (doce en total), que narran la resistencia de la población morisca a la conquista cristiana. 
+En el paseo descubrirás sus adarves, muestra del urbanismo andalusí, y los bonitos rincones de flores y puertas pintadas del **Barribarto** (Barrio Alto) que dan para mil fotos. No te pierdas sus miradores y presta atención a los azulejos que hay en algunas calles (doce en total), que narran la resistencia de la población morisca a la conquista cristiana. 
 
 ✅ **Excursión organizada:** [Free tour por Frigiliana](https://www.civitatis.com/es/frigiliana/free-tour-frigiliana/?aid=10211)
 
