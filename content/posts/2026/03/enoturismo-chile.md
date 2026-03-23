@@ -50,7 +50,7 @@ Las experiencias que ofrecen estas bodegas sostenibles están pensadas también 
 ![La cocina chilena se marida con los vinos del país.](https://fotos.etheriamagazine.com/2026/03/enoturismo-chile-maridaje.jpg)
 
 ## Rutas bien comunicadas
-Una de las grandes virtudes de [Chile](www.chile.travel) es que sus regiones vinícolas están bien comunicadas entre sí. La **Ruta del Vino de Colchagua y la de Casablanca** son dos recorridos bien diseñados que combinan visitas a bodegas con gastronomía y cultura local, pero la geografía invita también a combinar vino con otras experiencias. Desde el Valle de Casablanca hasta Valparaíso hay apenas media hora y sus restaurantes con vistas al Pacífico son el antídoto perfecto para quienes necesitan algo de aire marino entre copa y copa. Por último, no podemos olvidar Santiago, una ciudad que merece tiempo para gozar de su gastronomía, su ambiente y sus barrios históricos.
+Una de las grandes virtudes de [Chile](https://chile.travel/) es que sus regiones vinícolas están bien comunicadas entre sí. La **Ruta del Vino de Colchagua y la de Casablanca** son dos recorridos bien diseñados que combinan visitas a bodegas con gastronomía y cultura local, pero la geografía invita también a combinar vino con otras experiencias. Desde el Valle de Casablanca hasta Valparaíso hay apenas media hora y sus restaurantes con vistas al Pacífico son el antídoto perfecto para quienes necesitan algo de aire marino entre copa y copa. Por último, no podemos olvidar Santiago, una ciudad que merece tiempo para gozar de su gastronomía, su ambiente y sus barrios históricos.
 
 **Fotos: Cedidas por Turismo de Chile.**
 
