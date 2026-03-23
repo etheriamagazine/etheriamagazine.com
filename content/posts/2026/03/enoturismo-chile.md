@@ -26,7 +26,7 @@ Más al sur, el **Valle de Colchagua** produce tintos poderosos y expresivos que
 
 **Y luego está el Carménère, la gran seña de identidad vinícola chilena. Una uva noble, de origen bordelés, que se creyó extinguida tras la filoxera del siglo XIX y que sobrevivió aquí sin que nadie lo supiera durante décadas.** Su redescubrimiento, en los años noventa, fue toda una sorpresa. Hoy es el emblema del país, un vino con carácter propio, con esa mezcla de fruta oscura, especias y una suavidad tanina que lo hace completamente reconocible. Probarlo en el lugar donde creció es una experiencia que va más allá de la cata y que os recomendamos encarecidamente.
 
-![Ruta en bicicleta entre viñeodos.](https://fotos.etheriamagazine.com/2026/03/enoturismo-chile-bicitour.jpg)
+![Ruta en bicicleta entre viñedos.](https://fotos.etheriamagazine.com/2026/03/enoturismo-chile-bicitour.jpg)
 
 ## Experiencias en torno a la bodegas 
 El enoturismo chileno no sólo sorprende por la calidad de sus vinos sino también por las experiencias que se ofrecen a los visitantes. Las catas con enólogo son solo el punto de partida, ya que también se puede optar por recorridos a caballo o en bicicleta por los viñedos, pícnics con vistas a la cordillera o visitas guiadas por espacios de arquitectura contemporánea que en sí mismos justifican el viaje. El vino aparece en todas partes, claro, pero siempre integrado en algo mayor, en un relato que habla de una manera de entender la vida.
