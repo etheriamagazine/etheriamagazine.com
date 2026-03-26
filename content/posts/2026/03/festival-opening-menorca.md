@@ -11,11 +11,11 @@ authors:
 
 ---
 
-Si pensamos en Menorca enseguida la asociamos a unas vacaciones junto a ese Mediterráneo que la rodea. Pero esta primavera llega con una propuesta diferente: Opening Menorca, que del 7 al 25 de abril de 2026 convertirá a la isla en un escenario artístico en movimiento que permitirá explorar este singular territorio a través del arte. Una escapada perfecta para las viajeras que buscan contenido cultural sin dejar de disfrutar del paisaje y la playa.
+Si pensamos en Menorca enseguida la asociamos a unas vacaciones junto a ese Mediterráneo que la rodea y que promete jornadas perfectas junto al mar. Pero esta primavera llega con una propuesta diferente: Opening Menorca, que del 7 al 25 de abril de 2026 convertirá a la isla en un escenario artístico en movimiento y permitirá explorar este singular territorio a través del arte. Una escapada perfecta para las viajeras que buscan contenido cultural sin dejar de disfrutar del paisaje y la playa.
 
 ![Las canteras de Lithica son escenario de algunos eventos del festival. © Turismo de Menoorca](https://fotos.etheriamagazine.com/2026/03/Opening-MENORCA-Lihica.jpg)
 
-Opening Menorca 2026 transformará a la isla en un gran itinerario cultural abierto durante casi tres semanas. Siempre con esa voluntad tan menorquina de que todo transcurra sin prisa y así, cada uno, puede trazar su propia ruta entre teatros, galerías, talleres y espacios naturales creando así su propia experiencia. Desde descubrir un taller escondido o una performance improvisada hasta mantener una conversación con un artista. 
+Opening Menorca 2026 transformará a la isla en un gran itinerario cultural abierto durante casi tres semanas. Siempre con esa voluntad tan menorquina de que todo transcurra sin prisa y así, cada uno, puede trazar su propia ruta entre teatros, galerías, talleres y espacios naturales creando su propia experiencia. Desde asistir a un concierto hasta descubrir un taller escondido o una *performance* improvisada.
 
 ## Un formato muy original
 
@@ -25,21 +25,21 @@ Esta filosofía responde a un momento especialmente fértil para la isla desde e
 
 ![El hotel Meliá Cala Galdana albega una exposición dentro de la programación de Opening Menorca 2026. © Susana García](https://fotos.etheriamagazine.com/2026/03/opening-menorca-hotel-melia-cala-galdana.jpg)
 
-## Mahón: el punto de partida
+## Mahón, el punto de partida
 
 El viaje comienza en Mahón el 7 de abril con una **gala inaugural en el Teatro Principal**, uno de los coliseos operísticos más antiguos de España. La noche arranca con la guitarra de Yerai Cortés, en un diálogo entre tradición y vanguardia que marca el tono de lo que está por venir.
 
 ![Yerai Cortés. © Turismo de Menorca](https://fotos.etheriamagazine.com/2026/03/Opening-menorca-Yerai-Cortes.jpg)
 
-A partir de ese momento, la capital menorquina se convierte en un hervidero creativo. Durante los primeros días, el visitante puede asistir a sesiones de pintura en vivo, a actuaciones musicales en galerías que rompen la barrera entre artista y público y a performances que convierten el proceso creativo en espectáculo. La filosofía de este festival es que no se trata solo de contemplar arte, sino de vivirlo. De observar cómo nace una obra, cómo se construye una idea. 
+A partir de ese momento, la capital menorquina se convierte en un hervidero creativo. Durante los primeros días, el visitante puede asistir a sesiones de pintura en vivo, a actuaciones musicales en galerías que rompen la barrera entre artista y público y a performances que convierten el proceso creativo en espectáculo. La filosofía de este festival es que no se trata solo de contemplar arte, sino de vivirlo. De observar cómo nace una obra, cómo se construye una idea artística. 
 
-## Hacia poniente: Ciutadella y el corazón de la isla
+## Ciutadella y el corazón de la isla
 
 A medida que avanzan los días, el pulso creativo se desplaza hacia Ciutadella y los municipios del interior, diversificando así la propuesta artística. Las calles empedradas de Ciutadella, con su aire señorial, se llenan de proyecciones cinematográficas, talleres de ilustración y encuentros con artistas. Es especialmente interesante la **posibilidad de visitar estudios creativos de la mano de sus propios autores**, una oportunidad poco habitual que permite adentrarse en el proceso íntimo de la creación.
 
 ![La localidad de Ferreries acoge algunos eventos de Opening Menorca 2026. © Fundació Foment del Turisme de Menorca](https://fotos.etheriamagazine.com/2026/03/opening-menorca-ferreries.jpg)
 
-En el centro de la isla, pequeños pueblos se suman a la iniciativa con propuestas que mezclan tradición y contemporaneidad. Espacios que habitualmente pasan desapercibidos se convierten en escenarios culturales, demostrando que el arte no entiende de escalas y que esta isla guarda muchos tesoros en su interior, alejados de su famosa costa. Opening Menorca invita a recorrer la isla en su totalidad, a descubrir sus contrastes y a entender que cada municipio aporta una pieza al mosaico cultural.
+En el centro de la isla, pequeños pueblos se suman a la iniciativa con propuestas que mezclan tradición y contemporaneidad. Espacios que habitualmente pasan desapercibidos se convierten en escenarios culturales, demostrando que el arte no entiende de escalas y que esta isla guarda muchos tesoros en su interior, alejados de su famosa costa. Opening Menorca invita a recorrer la isla en su totalidad, a descubrir sus contrastes y a entender que cada municipio aporta una pieza a su mosaico cultural.
 
 ## Arte en movimiento
 
@@ -57,15 +57,13 @@ Finalmente, el 25 de abril llega el broche final perfecto: la apertura de **Haus
 
 ### ¿Cuándo se celebra Opening Menorca 2026?
 
-El evento tendrá lugar del **7 al 25 de abril de 2026** un mes perfecto para visitar la isla por el clima suave y menor afluencia turística.  
+El evento tendrá lugar del **7 al 25 de abril de 2026**, un mes perfecto para visitar la isla por el clima suave y menor afluencia turística.  
 
 ### ¿Dónde se celebra Opening Menorca?
 
 Se celebra en Mahón, Ciutadella y otras localidades de Menorca. Es un itinerario cultural distribuido por toda la isla.  
 
 ### ¿Qué tipo de actividades incluye Opening Menorca?
-
-El programa incluye:
 
 - Exposiciones de arte contemporáneo.
 - Pintura en vivo.
