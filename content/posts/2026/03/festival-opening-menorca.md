@@ -45,6 +45,8 @@ En el centro de la isla, pequeños pueblos se suman a la iniciativa con propuest
 
 Uno de los grandes aciertos del programa es su capacidad para integrar el paisaje en la experiencia artística. Menorca no es solo un telón de fondo, sino un elemento activo. Un ejemplo de ello es la **jornada del 12 de abril en el Hipódromo de Mahón**, donde los Urban Sketchers capturan en directo la energía de las carreras de caballos. El resultado es una fusión sorprendente entre deporte, tradición y arte urbano, que demuestra la versatilidad de la propuesta, y donde el visitante participa y se deja llevar por la experiencia artística. 
 
+![Patio del Palacio Episcopal de Ciutadella. © Susana García](https://fotos.etheriamagazine.com/2026/03/opening-menorca-ciutadella-palacio-episcopal.jpg)
+
 ## El gran final: música, paisaje y arte internacional
 
 El tramo final del evento cuenta con una gran cita el 24 de abril en Ciutadella. Esa noche, el Teatre des Born acoge el **concierto acústico de Maika Makovski**, una de las voces más personales del panorama musical actual. Ese mismo día, se celebran también otros eventos que combinan naturaleza y cultura en lugares como las **canteras de Lithica**, con sus formaciones de piedra esculpidas por el tiempo y la mano del hombre.
