@@ -122,8 +122,6 @@ Muchos otros asadores se han quedado en el tintero, pero para abrir boca y como 
 
 **No te pierdas...**
 
-({{< ref 32-excursiones-de-un-dia-en-rutas-vino-espana >}})
-
 {{< reflink bares-imprescindibles-finde-valladolid >}} 
 
 {{< reflink ruta-del-vino-ribera-del-duero-valladolid >}}
