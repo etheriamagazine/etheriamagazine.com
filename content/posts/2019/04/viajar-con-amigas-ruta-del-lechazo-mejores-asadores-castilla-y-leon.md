@@ -38,9 +38,7 @@ Espero que os guste mi selección de los mejores asadores de Castilla y León. C
 valientes, con un vino de Jerez. Es una manera de “desengrasar” este manjar y de ayudar a que la digestión no sea pesada y os permita seguir disfrutando de estas tierras, de sus paisajes y de su cocina. ¡A disfrutar! 
 
 ## Grandes asadores de Valladolid
-
 ### 1. El Figón de Recoletos (Valladolid)
-
 El Figón está situado en la que, para mí, es la calle más bonita y noble de Valladolid, la “acera Recoletos”. Llena de preciosos edificios burgueses, con sus columnas de colosos y “filigranas” estilo Liberty, es una maravilla pasear por ella en sus días de sol. Sobre todo por tener el Campo Grande, el parque romántico repleto de pavos reales con el que cuenta “Pucela”, al otro lado del bulevar. Pero a lo que íbamos, que hoy el turismo que vamos a hacer es el de cuchillo y tenedor. 
 
 El Figón es uno de los asadores con más prestigio de la ciudad. Tradición pura que se traduce en un horno de barro alimentado con leña de encina y en la forma clásica de elaborar su lechazo: solo con agua y sal, y el mejor producto. Nunca fallan, así que si tu visita te ha hecho parar en la ciudad, lo tienes a un paso de la estación del AVE. No hay excusa. 
@@ -56,33 +54,26 @@ Entre Peñafiel y Cuéllar, en plena Comarca de La Churrería, encontramos otro 
 **Mannix**. Campaspero. Felipe II, 30. Tel. 983 698 018. 
 
 ## Los mejores lechazos de Segovia
-
 ### 3. Maribel (Sacramenia)
-
 Este precioso pueblecito, perteneciente a Sepúlveda pero a muy pocos kilómetros de Peñafiel (es el último pueblo de la provincia de Segovia), pugna con Campaspero por contar con el mejor lechazo asado de Castilla. Y es que, en las “encarnizadas” luchas de los amantes del lechazo, o eres de Campaspero o eres de Sacramenia. No hay medias tintas. Sea como fuere, y yo me resisto a escoger, el **lechazo de Maribel es excepcional**. Cuentan con 4 hornos de asar y tienen la ventaja de tratar directamente con los pastores de ovejas churras de la zona, ya que son carnicería. Esta carnicería-asador (binomio muy habitual en la zona) es famosa además, por su chorizo casero, que venden solo por encargo. 
 
 [Restaurante Maribel](http://www.restaurantemaribel.es). Sacramenia. Plaza Mayor, 3, bajo. Tel. 921 527 058 
 
 ### 4. Figón de Tinín (Sepúlveda)
-
 Nos encontramos en uno de los asadores castellanos más antiguos. Fundado en 1850 como Figón Zute el Mayor, todo el mundo lo conocía como “el de Tinín”, por lo que al final terminaron cambiándose el nombre. Es **el asador más prestigioso de Sepúlveda**, gracias a la ortodoxia en su forma de asar (solo el lechazo con su tela, agua y sal en horno de adobe) y en la calidad de su materia prima: lechales de la oveja churra de la zona (Sepúlveda, las Hoces del Duratón y la Pedriza), alimentada con los pastos cercanos. 
 
 [Figón de Tinín](https://figondetinin.es). Sepúlveda. Lope Tablada, 6. Tel. 921 540 165. 
 
 ![Alberto Sánchez, de Asador La Encina, preparando el lechazo (Palencia).](https://fotos.etheriamagazine.com/2019/04/ruta-lechazo-asador-Encina.jpg "Alberto Sánchez, de © Asador La Encina, preparando el lechazo (Palencia).")
 
-###  El mejor asador de Palencia
-
+##  El mejor asador de Palencia
 ### 5. La Encina (Palencia)
-
 Dándole la vuelta al dicho, Alberto Sánchez fue antes ganadero que cocinero. Y más concretamente, ganadero de lechazos, así que este maestro asador sabe perfectamente qué producto se trae entre manos. Solo los mejores lechales de oveja churra, criados en los valles palentinos de Cerrato, llegan hasta el horno de adobe de La Encina donde, claro está, son asados con mimo y leña de encina. El secreto, la calidad de la carne y un fuego muy lento que va asando poco a poco los lechazos, con agua y sal como única compañía. Aquí hay una obligación gastronómica más: tomar un **pincho de la tortilla de patata de Ciri González**, una de las mejores de España. Y con cebolla, claro. 
 
 [La Encina](https://asadorlaencina.com/). Casañé, 2. Palencia. Tel. 979 710 936. 
 
 ## El increíble lechazo de Zamora
-
 ### 6. El Ermitaño (Benavente)
-
 Emplazados en un precioso edificio del siglo dieciocho, Pedro Mario y Óscar Pérez han conseguido mantener el complicado equilibrio entre **una cocina de raíz y una cocina creativa,** lo que les ha hecho merecedores de una estrella Michelin. Estos 
 emprendedores hermanos han convertido, con tesón y valentía, el mesón familiar que heredaron de sus padres en un lugar de peregrinaje gastronómico, donde, al igual que otros cocineros “hijos de la tradición” han apostado por diferentes cartas conviviendo en armonía: la de siempre y la de temporada donde dejan libre su creatividad. 
 
@@ -94,15 +85,12 @@ cítricos, calabaza y fruta.
 ![Alcachofas con gambas y mollejas de lechazo del Asador El Ermitaño (Zamora).](https://fotos.etheriamagazine.com/2019/04/Ruta-lechazo-el-ermitano.jpg "Alcachofas con gambas y mollejas de lechazo del © Asador El Ermitaño (Zamora).")
 
 ## Los mejores asadores de Burgos
-
 ### 7. Casa Florencio (Aranda del Duero)
-
 Un asador que ha sabido preservar la tradición –que pasa de generación en generación desde hace 80 años– con los nuevos tiempos. Así, junto con sus asados elaborados “a la vieja usanza”, se preocupan de vestir su **barra con tapas creativas** (siempre con base de lechazo) concursos y le dedican su tiempo y esfuerzo en dar a conocer todos los eslabones de la cultura que gira en torno al lechazo, gracias a sus Premios “San Drogón”, entre otras de las muchas propuestas que tienen en marcha. 
 
 **Casa Florencio**. Aranda del Duero. Isilla, 14. Aranda de Duero. Tel. 947 500 230 
 
 ### 8. Casa Antón (Lerma)
-
 La villa Ducal de Lerma es uno de esos lugares que hay que visitar sí o sí. Una preciosa localidad llena de historia y de vida, con numerosos sitios donde tomar un vino y, cómo no, siendo el protagonista de este artículo, un buen lechazo al horno. El favorito, Casa Antón. Un restaurante en el que se va al grano, sin filigranas ni adornos. Aquí se viene a tomar lechazo al horno y como mucho, a acompañarlo de ensalada y Ribera. No pidas más. 
 
 Eso sí, lo reducido de la oferta, que podría también llamarse **“especialización” extrema**, se compensa con la calidad de lo ofrecido. Situado junto a la Plaza Mayor, este local feúcho, incómodo y con un punto “kitsch” adorable, es uno de los más antiguos de Burgos y la calidad de sus asados (aquí sí usan ese punto de manteca) es indudable. 
@@ -112,7 +100,6 @@ Eso sí, lo reducido de la oferta, que podría también llamarse **“especializ
 ![Lechazo asado de Casa Azofra (Burgos).](https://fotos.etheriamagazine.com/2019/04/Lechazo-Azofra.jpg "Lechazo asado de © Casa Azofra (Burgos).")
 
 ### 9. Casa Azofra (Burgos)
-
 Es uno de los más conocidos y reconocidos asadores castellanos burgaleses. Te reciben con un impresionante horno de adobe nada más entrar y así ya no te quedan dudas sobre qué debes pedir. Estando en Burgos, puedes añadirle unas morcillas y de postre de queso fresco, seguro que no fallas. 
 
 [Casa Azofra](https://www.hotelazofra.com). Don Juan de Austria, 22. Burgos. Tel. 947 461 050. 
