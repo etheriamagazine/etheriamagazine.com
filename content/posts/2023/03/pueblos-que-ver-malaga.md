@@ -34,7 +34,7 @@ La peatonal calle Larios es el corazón de la ciudad y un buen punto de partida 
 
 Los museos y los monumentos malagueños son buenas razones para visitar la capital malagueña. Pero, no nos engañemos, Málaga gusta especialmente por su ambiente, por su alegría y por su oferta de ocio y bares siempre animados. Es imprescindible una visita al mítico **Pimpi** para probar sus boquerones, degustar un espeto en un chiringuito de la playa de La Malagueta o acercarse a bares como El Tapeo Cervantes. También subir a la azotea del Alcazaba Premium Hostel para disfrutar de una copa con las mejores vistas y bailar en alguna discoteca, como el Theatro Club Málaga. Y, para ver algún espectáculo o concierto, hay que consultar la atractiva cartelera del **Teatro del Soho** de Antonio Banderas que ha llegado a Málaga para revolucionar y animar aún más su vida cultural. 
 
-✅ **Excursión organizada:** [Tour de Málaga al completo con entradas](https://www.civitatis.com/es/malaga/tour-malaga-completo/?aid=10211). 
+**Excursión organizada:** [Tour de Málaga al completo con entradas](https://www.civitatis.com/es/malaga/tour-malaga-completo/?aid=10211). 
 
 📍 **Para saber más:** [Málaga con amigas, el fin de semana que os merecéis]({{% ref 
 fin-de-semana-con-amigas-en-malaga %}}) 
@@ -52,7 +52,7 @@ Entre tanto, es imposible resistirse a alguna tapa. Apunta los siguientes lugare
 
 Para disfrutar al borde del mar, puedes elegir algún chiringuito como La Milla Marbella o Trocadero Beach o uno de sus _beach club_, siempre animados en verano. Nikki Beach, Opium Marbella o Mahiki son algunos de los más famosos. Y no puede faltar un paseo por el mítico **Puerto Banús**, que sigue siendo sinónimo de tiendas de lujo y yates infinitos. Una exposición de un lujo tan excesivo que es un reclamo turístico en sí mismo. 
 
-✅ **Excursión:** [Free tour por Marbella](https://www.civitatis.com/es/marbella/free-tour-marbella/?aid=10211) 
+**Excursión:** [Free tour por Marbella](https://www.civitatis.com/es/marbella/free-tour-marbella/?aid=10211) 
 
 📍 **Para saber más:** [Planes para exprimir un fin de semana en Marbella con amigas]({{% ref guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana %}}) 
 
@@ -64,9 +64,9 @@ Es muy probable que tengas a Torremolinos asociado a ese turismo de mediados del
 
 Los amantes de la naturaleza disfrutarán con un paseo a pie o en bicicleta por la **Ruta del Agua**, que une la Senda Litoral con la Gran Senda de Málaga. No hay que olvidar que el agua fue un elemento indispensable para las tradicionales plantaciones de caña de azúcar de la zona. 
 
-📍 **Excursiones organizadas:** [Free tour por Torremolinos](https://www.civitatis.com/es/torremolinos/visita-guiada-torremolinos/?aid=10211) / [Excursión en bicicleta eléctrica por Torremolinos](https://www.civitatis.com/es/torremolinos/tour-bicicleta-electrica-torremolinos/?aid=10211). 
+**Excursiones organizadas:** [Free tour por Torremolinos](https://www.civitatis.com/es/torremolinos/visita-guiada-torremolinos/?aid=10211) / [Excursión en bicicleta eléctrica por Torremolinos](https://www.civitatis.com/es/torremolinos/tour-bicicleta-electrica-torremolinos/?aid=10211). 
 
-✅ **Para saber más:** [10 planes imprescindibles en Torremolinos]({{% ref 
+**Para saber más:** [10 planes imprescindibles en Torremolinos]({{% ref 
 planes-imprescindibles-torremolinos %}}). 
 
 ### Estepona
@@ -87,7 +87,7 @@ Benalmádena conserva un casco histórico de blanco reluciente que contrasta, co
 
 Si estás aquí de vacaciones, algunos de los lugares que puedes visitar son el castillo El Bil Bil, el castillo de Colomares o la curiosa **estupa de la iluminación**, que se encuentra en un lugar que ofrece además unas vistas estupendas. Otra de las actividades  tiene que ser subir a su **teleférico**, que asciende al monte Calamorro en sólo quince minutos para ofrecer unas vistas impresionantes que llegan hasta Sierra Nevada y África. En la cima hay varias sendas señalizadas perfectas para descubrir las plantas típicas de la zona como el tomillo o la mejorana. 
 
-✅ **Excursiones organizadas:** [Avistamiento de delfines en Benalmádena](https://www.civitatis.com/es/benalmadena/avistamiento-delfines-benalmadena/?aid=10211) / [Entrada para el teleférico de Benalmádena (https://www.civitatis.com/es/benalmadena/entrada-teleferico-benalmadena/?aid=10211) 
+**Excursiones organizadas:** [Avistamiento de delfines en Benalmádena](https://www.civitatis.com/es/benalmadena/avistamiento-delfines-benalmadena/?aid=10211) 
 
 ### Nerja
 
@@ -97,7 +97,7 @@ Este bonito pueblo costero, asociado para siempre a la mítica serie 'Verano azu
 
 Una de las excursiones que no puedes perderte es a la **Cueva de Nerja**, una de las más espectaculares de España. La visita es muy cómoda, aunque hay que ir preparado para subir escaleras. En ella encontrarás curiosas formaciones geológicas como el belén, los fantasmas (en la sala del mismo nombre) o la impresionante columna central de la Sala del Cataclismo, que llega a tener 18 metros de diámetro. Alrededor hay un Jardín Botánico y rutas de senderismo para los que quieran completar la visita con un paseo. 
 
-✅ **Excursión organizada:** [Free tour por Nerja](https://www.civitatis.com/es/nerja/free-tour-nerja/?aid=10211)
+**Excursión organizada:** [Free tour por Nerja](https://www.civitatis.com/es/nerja/free-tour-nerja/?aid=10211)
 
 ## Pueblos del interior de Málaga
 
@@ -111,7 +111,7 @@ Ronda es de esos lugares en los que no es que haya que ir una vez en la vida, es
 
 Además, en Ronda se come muy bien. Tiene bares de tapeo por todas partes donde degustar las delicias malagueñas, y alberga el restaurante **Bardal**, del chef Benito Gómez, que ostenta dos estrellas Michelin. Si no encuentras mesa, acércate al menos a su otro espacio gastronómico, **Tragatá**; te sorprenderán sus imaginativas tapas con productos de la tierra. 
 
-✅ **Excursión organizada:** [Free tour por Ronda](https://www.civitatis.com/es/ronda/free-tour-ronda/?aid=10211). 
+**Excursión organizada:** [Free tour por Ronda](https://www.civitatis.com/es/ronda/free-tour-ronda/?aid=10211). 
 
 📍 **Para saber más sobre Ronda:** [Ronda con amigas, pistas para gozar al máximo]({{% 
 ref planes-en-ronda-con-amigas %}}) / [Escapada a la Ronda más literaria, romántica y monumental]({{% ref ronda-escapada-con-amigas %}}). 
@@ -125,9 +125,9 @@ Ubicado en la comarca de la Axarquía, una de las ventajas de una visita a Frigi
 
 En el paseo descubrirás sus adarves, muestra del urbanismo andalusí, y los bonitos rincones de flores y puertas pintadas del **Barribarto** (Barrio Alto) que dan para mil fotos. No te pierdas sus miradores y presta atención a los azulejos que hay en algunas calles (doce en total), que narran la resistencia de la población morisca a la conquista cristiana. 
 
-✅ **Excursión organizada:** [Free tour por Frigiliana](https://www.civitatis.com/es/frigiliana/free-tour-frigiliana/?aid=10211)
+**Excursión organizada:** [Free tour por Frigiliana](https://www.civitatis.com/es/frigiliana/free-tour-frigiliana/?aid=10211)
 
-**Para saber más sobre Frigiliana:** [Un día en Frigiliana, uno de los pueblos más bonitos de Málaga]({{% ref que-ver-excursion-a-frigiliana %}}) 
+📍 **Para saber más sobre Frigiliana:** [Un día en Frigiliana, uno de los pueblos más bonitos de Málaga]({{% ref que-ver-excursion-a-frigiliana %}}) 
 
 ### Pueblos de la Axarquía
 
@@ -149,7 +149,7 @@ Unesco, datadas hace 6.500 años y que pueden visitarse de forma muy cómoda. Ad
 
 Si estás por esta zona de Málaga, es imprescindible una visita al **Torcal de Antequera**. Desde su centro de visitantes salen unas rutas señalizadas de varios niveles y duración perfectas para recorrer este paisaje kárstico único en Europa de singulares formaciones rocosas. En su web (www.torcaldeantequera.com) se puede descargar un mapa con las rutas. 
 
-✅ **Excursión organizada:** [Visita guiada al Torcal y los Dólmenes de Antequera](https://www.civitatis.com/es/antequera/visita-guiada-torcal-dolmenes-antequera/?aid=10211). 
+**Excursión organizada:** [Visita guiada al Torcal y los Dólmenes de Antequera](https://www.civitatis.com/es/antequera/visita-guiada-torcal-dolmenes-antequera/?aid=10211). 
 
 ### Mijas
 
@@ -159,7 +159,7 @@ Mijas es uno de esos pueblos encalados donde cada rincón es una foto, sobre tod
 
 Aunque es un pueblo de interior, el municipio cuenta con una zona de catorce kilómetros de playas conocida como **Mijas Costa** que incluye arenales, pequeñas calas rocosas y un tramo de la Senda Litoral que bordea toda la Costa del Sol, perfecta para caminar o para hacer una ruta en bicicleta. 
 
-✅ **Excursión organizada:**[Visita guiada por Mijas](https://www.civitatis.com/es/mijas/visita-guiada-mijas/?aid=10211). 
+**Excursión organizada:**[Visita guiada por Mijas](https://www.civitatis.com/es/mijas/visita-guiada-mijas/?aid=10211). 
 
 ## Naturaleza de Málaga
 
@@ -173,7 +173,7 @@ Este Parque Nacional, ubicado en la serranía de Ronda, es una fuente inagotable
 
 Dentro del parque se encuentran trece pueblos, algunos de los cuales conservan restos de murallas y castillos de origen musulmán como la torre de Escalante en Istán o el castillo Al-Mundat de Monda. Otra visita muy interesante en el parque es el **Jardín Botánico de Mora i Bravard**, en Casarabonela, donde se pueden ver más de dos mil especies de plantas y cactus de distintos lugares del mundo. 
 
-✅ **Excursión organizada:** [Senderismo por el Parque Nacional Sierra de las Nieves](https://www.civitatis.com/es/tolox/senderismo-sierra-nieves/?aid=10211). 
+**Excursión organizada:** [Senderismo por el Parque Nacional Sierra de las Nieves](https://www.civitatis.com/es/tolox/senderismo-sierra-nieves/?aid=10211). 
 
 📍 **Para saber más:** [Parque Nacional Sierra de las Nieves, una nueva estrella brilla  en Málaga]({{% ref revista-viajes-que-ver-parque-sierra-de-nieves %}}). 
 
@@ -185,7 +185,7 @@ Si buscas recorridos impactantes el Caminito del Rey tiene que estar entre tus e
 
 El centro de recepción de visitantes está ubicado en el **Puerto de las Atalayas** y para adquirir las entradas lo mejor es hacerlo a través de la web (caminitodelrey.info). Existen visitas guiadas que proporcionan una visión más completa de la zona, tanto a nivel geológico como histórico. En total son 8 kilómetros en un recorrido lineal de norte a sur desde Ardales hasta Álora que incluyen un recorrido previo por la senda de Gaitanejo, los tres kilómetros del Caminito del Rey y un tramo final. En total se suelen tardar unas tres o cuatro horas en realizar este recorrido. 
 
-✅ **Visita organizada:** [Excursión al Caminito del Rey](https://www.civitatis.com/es/malaga/excursion-caminito-rey/?aid=10211). 
+**Visita organizada:** [Excursión al Caminito del Rey](https://www.civitatis.com/es/malaga/excursion-caminito-rey/?aid=10211). 
 
 ### Acantilados de Maro-Cerro Gordo
 
@@ -203,4 +203,4 @@ Selwo Aventura es perfecto para pasar un día si se viaja a Málaga en familia. 
 
 Merece la pena apuntarse al **Safari Serengueti** para poder acercarse más a los animales y escuchar las explicaciones de un guía experto que acompaña y explica los detalles de la fauna africana. También es muy interesante asistir a alguna de las presentaciones y charlas sobre diferentes especies (como los lémures, leopardos, lince ibérico o hienas) que tienen lugar en el parque. 
 
-✅ **Excursión organizada:**[Entrada a Selwo Aventura.](https://www.civitatis.com/es/estepona/entrada-selwo-aventura/?aid=10211)
+**Excursión organizada:** [Entrada a Selwo Aventura.](https://www.civitatis.com/es/estepona/entrada-selwo-aventura/?aid=10211)
