@@ -38,7 +38,7 @@ La historia gastronómica se sigue construyendo en la actualidad, aunque sea en 
 
 ## El arte del dulce en la cocina vienesa
 
-En el apartado de repostería destaca **Julia Kilarski**, que estudió Derecho antes formarse como maestra pastelera en París. De ese aprendizaje surgió *Crème de la Crème*, una cafetería-pastelería de aire francés en el distrito 8 que en 2025 sumó un segundo local en la Kettenbrückengasse, y cuyas creaciones son el reflejo directo de lo que Kilarski aprendió en la capital francesa.
+En el apartado de repostería destaca **Julia Kilarski**, que estudió Derecho antes de formarse como maestra pastelera en París. De ese aprendizaje surgió *Crème de la Crème*, una cafetería-pastelería de aire francés en el distrito 8 que en 2025 sumó un segundo local en la Kettenbrückengasse, y cuyas creaciones son el reflejo directo de lo que Kilarski aprendió en la capital francesa.
 
 **Natalie Stebbing** creció entre Noruega, Inglaterra y Alemania, empezó a estudiar Magisterio después del bachillerato y acabó reconociendo que su verdadera vocación era la repostería. Con poco más de veinte años se convirtió en maestra pastelera del *Hotel Sacher*, uno de los establecimientos más emblemáticos de Viena, y en 2022 ganó el programa de televisión alemán *Das große Backen - Die Profis*.
 
