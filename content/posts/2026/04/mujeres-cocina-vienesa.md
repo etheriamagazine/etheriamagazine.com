@@ -1,6 +1,6 @@
 ---
 title: "La cocina vienesa siempre tuvo rostro de mujer"
-date: 2026-04-08
+date: 2026-04-01
 cover: https://fotos.etheriamagazine.com/2026/04/cocina-vienesa-clara-aue-1.jpg
 categories: 
   - estilo-de-vida
@@ -16,11 +16,13 @@ Durante la monarquía austrohúngara, las mujeres procedentes de Bohemia fueron 
 
 ## El presente de la cocina de Viena
 
-La historia gastronómica se sigue construyendo en la actualidad, aunque sea en otras condiciones. Mujeres de distintas procedencias siguen cocinando y dejando su huella en una ciudad que no deja de reinventarse en la mesa. La diferencia más gratificante quizás sea que ahora **algunas mujeres cuentan con reconocimiento e incluso local propio**, nombre en la puerta y salen en guías gastronómicas. Algunas de esas mujeres que cuentan con restaurante en Viena y hay que llevar apuntadas cuando visitéis Viena son:
+La historia gastronómica se sigue construyendo en la actualidad, aunque sea en otras condiciones. Mujeres de distintas procedencias siguen cocinando y dejando su huella en una ciudad que no deja de reinventarse en la mesa. La diferencia más gratificante quizás sea que ahora **algunas mujeres cuentan con reconocimiento e incluso local propio**, nombre en la puerta y salen en guías gastronómicas. 
+
+Algunas de esas mujeres que cuentan con restaurante en Viena y hay que llevar apuntadas cuando visitéis Viena son:
 
 **Clara Aue** es vienesa de nacimiento, pero su cocina mira hacia las tierras de la antigua Corona con un giro francés. Desde hace poco dirige los fogones del restaurante *Heu & Gabel*, en el **Mercado de Meidling**, un espacio que es también tienda delicatessen ecológica. Aue apuesta por los clásicos vieneses interpretados de forma poco convencional y por un principio que cada vez más cocineros abrazan pero que no todos practican con rigor: aprovechar el animal entero para no desperdiciar nada, porque para ella cocinar de forma responsable pasa necesariamente por ahí.
 
-**Stefanie Herkner** tiene una historia más personal, ya que sus padres no querían que siguiera sus pasos en la gastronomía. Un dato curioso es que su padre fue uno de los mejores cocineros de Viena, y estuvo al frente del mítico Zum Herkner. A pesar de no contar con el favor familiar, ella abrió igualmente *Zur Herknerin*, una taberna en un antiguo negocio de fontanería. El nombre es un guiño directo al restaurante familiar, la cocina que sirve es casera y sin pretensiones: *knödel* dulces y salados, que ya son referencia en la ciudad, y *sarma*, rollitos de col de tradición serbia. También imparte cursos para quien quiera aprender a hacerlos en casa.
+**Stefanie Herkner** tiene una historia más personal, ya que sus padres no querían que siguiera sus pasos en la gastronomía. Un dato curioso es que su padre fue uno de los mejores cocineros de Viena, y estuvo al frente del mítico Zum Herkner. A pesar de no contar con el favor familiar, ella abrió igualmente *Zur Herknerin*, una taberna en un antiguo negocio de fontanería cuyo nombre es un guiño directo al restaurante de su familia. La cocina que sirve es casera y sin pretensiones: *knödel* dulces y salados, que ya son referencia en la ciudad, y *sarma*, rollitos de col de tradición serbia. También imparte cursos para quien quiera aprender a hacerlos en casa.
 
 ![Stefanie Herkne. © Olivia Wimmwer](https://fotos.etheriamagazine.com/2026/04/cocina-vienesa-zur-herknerin.jpg)
 
@@ -32,7 +34,7 @@ La historia gastronómica se sigue construyendo en la actualidad, aunque sea en 
 
 **Lisa Machian** llegó a Viena tras pasar por Londres y París, y ese recorrido se nota en la carta del *Café Caché*, el local que regenta junto a su marido, el francés Arnaud Champetier, en un antiguo café del distrito 15. La cocina de día cuenta con propuestas sencillas y de noche la oferta se vuelve más sofisticada y se acerca a la alta gama, todo ello en un ambiente retro que hace del local un sitio con carácter propio.
 
-**Ola Szwarc**, polaca de formación artística estudió Arte en Polonia antes de centrarse en la cocina. Vivió y trabajó en Londres antes de instalarse en Viena, donde regenta junto a su pareja Nadim Amin la *taberna Rosebar Centrala*. Su cocina es abiertamente cosmopolita, con un recorrido que va de Londres a Polonia y con las influencias de Europa Central y del Este muy presentes en la carta.
+**Ola Szwarc**, polaca con formación artística, estudió Arte en Polonia antes de centrarse en la cocina. Vivió y trabajó en Londres antes de instalarse en Viena, donde regenta junto a su pareja Nadim Amin la *taberna Rosebar Centrala*. Su cocina es abiertamente cosmopolita, con un recorrido que va de Londres a Polonia y con las influencias de Europa Central y del Este muy presentes en la carta.
 
 ![Lisa Machian. © Valentin Boschi/ Agentur Zwupp](https://fotos.etheriamagazine.com/2026/04/cocina-vienesa-lisa-machian.jpg)
 
@@ -46,7 +48,7 @@ En el apartado de repostería destaca **Julia Kilarski**, que estudió Derecho a
 
 ## Vino y café
 
-El mundo del vino ha sido durante mucho tiempo un territorio casi exclusivamente masculino, un hecho que hace aún más relevante la trayectoria de **Jutta Ambrositsch**, que llegó a él desde la publicidad: era directora de arte cuando en 2004 decidió convertirse en viticultora. Sus vinos, con carácter y personalidad propios, le dieron pronto un nombre en el sector. Junto a su marido regenta también *Buschenschank in Residence*, un heuriger (una taberna tradicional vienesa asociada a viticultores) donde la comida se elabora con productos de alta calidad.
+El mundo del vino ha sido durante mucho tiempo un territorio casi exclusivamente masculino, un hecho que hace aún más relevante la trayectoria de **Jutta Ambrositsch**, que llegó a él desde la publicidad: era directora de arte cuando en 2004 decidió convertirse en viticultora. Sus vinos, con carácter y personalidad propios, le dieron pronto un nombre en el sector. Junto a su marido regenta también *Buschenschank in Residence*, un *heuriger* (una taberna tradicional vienesa asociada a viticultores) donde la comida se elabora con productos de alta calidad.
 
 **Peggy Strobel** recorrió un camino diferente: fue gerente del restaurante con estrella *Mraz & Sohn* antes de abrir *Die Cafetière*, un café-bar de estilo años 50 donde celebra la cultura del *espresso* con el rigor que le dio su paso por la alta cocina.
 
@@ -56,7 +58,7 @@ Hay una línea que une a todas estas **mujeres de la cocina vienesa** más allá
 
 ## Dónde comer en Viena
 
-**Heu & Gabel** Restaurante y tienda delicatessen ecológica en el Mercado de Meidling. Ofrece clásicos vieneses con influencia francesa. Meidlinger Markt .Viena. heuundgabel.at
+**Heu & Gabel** Restaurante y tienda delicatessen ecológica en el Mercado de Meidling. Ofrece clásicos vieneses con influencia francesa. Meidlinger Markt. Viena. heuundgabel.at
 
 **Zur Herknerin** Taberna abierta en un antiguo local de fontanería. Sirve cocina casera vienesa, Knödel de referencia y sarma serbios. También imparte cursos. Wiedner Hauptstraße, 36. Viena. zurherknerin.at
 
@@ -64,7 +66,7 @@ Hay una línea que une a todas estas **mujeres de la cocina vienesa** más allá
 
 **Café Caché** Antiguo café del distrito 15 reconvertido en bistró de ambiente retro. Cocina sencilla de día y propuesta de alta gama de noche, con clara influencia francesa. Meiselstraße, 2. Viena. cafecache.at
 
-**Rosebar Centrala** Taberna cosmopolita con una carta que transita entre Londres y Europa centroeuopea con naturalidad y criterio. Rauscherstraße, 5. Viena. centrala.at
+**Rosebar Centrala** Taberna cosmopolita con una carta que transita entre Londres y Centroeuropa con naturalidad y criterio. Rauscherstraße, 5. Viena. centrala.at
 
 **Crème de la Crème** Cafetería-pastelería con creaciones de inspiración parisina elaboradas por una maestra pastelera formada en Francia. Lange Gasse, 76. Viena. cremedelacreme.at
 
@@ -74,7 +76,7 @@ Hay una línea que une a todas estas **mujeres de la cocina vienesa** más allá
 
 **Weinbau Jutta Ambrositsch / Buschenschank in Residence** Un lugar ideal para catar vinos con carácter propio y comida elaborada con productos de alta calidad. Langackergasse, 5. Viena. jutta-ambrositsch.at
 
-**Die Cafetière**. Café-bar de estilo años 50 dirigido por Peggy Strobel donde disfrutar de un buen espresso, tostadas y helado casero. Wipplingerstraße, 25.Viena. diecafetiere.wien
+**Die Cafetière**. Café-bar de estilo años 50 dirigido por Peggy Strobel donde disfrutar de un buen espresso, tostadas y helado casero. Wipplingerstraße, 25. Viena. diecafetiere.wien
 
 **Tambien te puede interesar**
 
